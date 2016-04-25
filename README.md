@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,120 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A6%82%E6%9D%BE%EF%BC%9A%E5%A4%A7%E6%B8%85%E6%98%AF%E5%A6%82%E4%BD%95%E5%8D%B0%E5%87%BA%E5%8D%81%E5%B9%B4%E7%B9%81%E8%8D%A3%E7%9A%84%EF%BC%9F/" target="cdt-mirror">如松：大清是如何“印”出十年繁荣的？</a>
+</h2>
+<p><div>
+<p>清朝末期，甲午海战之后，清朝又进入一轮民族资本主义蓬勃发展时期。特别是1901年，慈禧颁布新政之后，相当于承认戊戌变法的措施是正确的，直接带动了民族资本主义的大发展，这个周期一直持续到清朝灭亡，这是史学家基本的共识，也就是所谓的“繁荣十年”。</p>
+<p>在这个时期，清政府做了很多事情，那些修园子等类的事情不必赘述，军备上最为典型。北洋水师在中日甲午海战惨败后，首只近代海军舰队便不复存在，大清帝国似乎没有近代海军这个大军种了。</p>
+<p>但事实并非如此，大清于战败后的次年，即1896年又开始了重建帝国海军之路。1896年5月，总理衙门指定许景澄向德国订购的3艘穹甲巡洋舰中的最后一艘“海琛”号军舰北上驶抵大沽，另外两艘“海容”、“海筹”已分别先期驶抵大沽。1897年夏天，在英国订购的“海天”、“海圻”号巡洋舰到达大沽，按期到达的还有德国实硕厂制造的“海龙”、“海青”、“海华”、“海犀”号鱼雷艇。5艘巡洋舰、4艘鱼雷艇，使海军的实力猛增。尤其“海天”、“海圻”属于二等巡洋舰，是大吨位军舰。1909年，在日本订购的14艘小型舰艇全数到达。</p>
+<p>除此之外，大清还大肆编练陆军新军，新军的编练从1895年开始，到1904年，新军的规模就已经达到18万余人，估计太平天国这样的不安分之人，面对洋枪洋炮，彻底歇菜了。由于是新军，武器装备大部分都是从国外采购的新式装备，支出浩大。</p>
+<p>此时的大清，不仅经济腾飞，而且武备强大，用“盛世”来形容似乎并不为过。</p>
+<p>清朝武备增强，民族资本主义也得到了发展，看起来又一个“强盛”的大清出现在世人的面前，但是，这种“繁荣”从财政上得不到证实。</p>
+<p>对外战争中不断地战败，大量的白银外流，仅仅马关条约，赔偿金额就是2亿两白银，加上利息和其它支出，清朝需要赔偿三亿两以上。清朝此时是赤字财政，按史料记载：从康熙中叶开始，每年财政盈余约500万两，乾隆中期以后年均结余也在1000万两左右。鸦片战争之前的年度财政盈余也超过500万两，到鸦片战争后的1847年，财政结余约380万两。甲午战争前的1893年，国家财政结余约760万两。清朝财政赤字的真正起点是甲午战争之后，1896年赤字高达1292万银两，1899年为1300万两，1903年的赤字高达3000万两，此后的清朝廷债务缠身，一直到1911年灭亡之前仍然如此。<strong>清朝后期，财政是债务缠身，根本没钱。</strong></p>
+<p><strong>可是，清朝又确实很有“钱”，没有钱如何进行大规模军备?如何修园子?</strong></p>
+<p>清朝实行的是银本位，白银无法印刷，这是一定的，清朝这戏法是怎么变的?清朝后期的表面繁荣，就支撑在这个戏法之上!</p>
+<p>虽然，白银无法印刷，但“钱”还是可以印出来的。</p>
+<p><strong>我们都知道新兴国家是如何印美元的，清朝也有自己独到的招数。既然白银都流到境外，那自己就用铜来代替白银，“钱”就出来了。</strong></p>
+<p>前些年，安徽凤阳一位农民挖地基时，挖出约十来斤的铜圆，发行的时代是宣统三年，直径2.9厘米，厚0.11厘米，重量约9克，合古代约两文多、不到三文的重量。当清政府宣布铜元成为法定货币的时候，意味着很多“新钱”也就出来了，这种铜钱的机制钱大约从1901年前后开始大规模出现，也就意味着市场中，开始出现大量的新钱(相当于假白银)，与白银共同流通。也就意味着从1900年之后的清朝繁荣，和印“钱”直接相关。</p>
+<p>可是，我们知道一件事，古代实行贵金属货币制度，铜矿需要开采和冶炼，铸钱是需要成本的，铜钱的面值也需要与白银的价值相对称。</p>
+<p>比如：道光初年，一两白银换钱一吊，也就是一千文，道光二十年前后的时候，一两白银可以换制钱一千五六百文，到咸丰时期，可以换到两千两三百文。但不管白银与铜钱的比例如何变，都有兑换关系，老老实实铸造铜钱，或许可以盈利，但不能实现厚利，还是解决不了清政府的财政问题。</p>
+<p>但清政府又进行了创造性动作，上述9克重的铜圆，实际价值为两文多，面值标注为十文，清政府就实现了7文多的利润，钱财滚滚而来，虽然大量的白银赔偿给外国人，用白银来衡量出现巨额的财政赤字，但自身并不缺钱，财源滚滚之下就可以支撑大规模军备等财政支出。</p>
+<p><strong>虽然用白银表示的财政穷的叮当响，但实际不缺钱，这就是戏法。</strong></p>
+<p>但这必须有一条支撑，那就是管制兑换，如果不管制，是完成不了这个戏法的。清政府所开具的各种票据，无论是以白银还是以铜元为单位都一样，不能实际兑换白银，这相当于“外汇”管制，如果不管制，就抓瞎。</p>
+<p>清政府从19世纪后期就规定，无论你是英镑、美元、荷兰盾什么的，进入大清的地盘都必须按规定的牌价兑换成大清银票铜钱，这样清政府就喘了一口气，所有等于白银的硬通货归我，用于对外支付，假钱?对不起，只能归你。</p>
+</div>
+<div>
+<p>仅有这一条还不够。任何时候都有出口生意，在这样的情况下，国内不断印铜“钱”，出口成本不断上升，折合成白银的成本就很高，可是，出口商品的价格是按真实的白银标价的(金本位)。产品出不去了，最终清朝对外的偿付能力就会枯竭，加上清朝不断烂“印钱”，通胀不断发展，出口商的成本会不断上升，企业都死翘翘之后，就会出现大麻烦。</p>
+<p>清政府有办法，那就是“强制结汇”，可强制结汇还是不行，如果出口企业都死了，强制也没用，还得让出口企业有动力才行。此时，清政府的机制发挥了巨大的威力，英国非常“腐朽”，征税还需要老百姓同意，大清很“先进”，铜圆表示的“钱”随便印，也就是随便征税，只需约摸估计着不会逼人造反就行。有了这点优势，解决上述问题就是小菜一碟。反正“钱”都是印出来的，多印一点也没关系，直接用于鼓励出口。</p>
+<p>以茶叶为例：英国商人只肯出100英镑一箱，按当时的国际汇率折合800两白银，可是，清朝茶叶商人的成本就达到了1000两白银(这个成本自然是以清朝印的“钱”折算出来的)，他得卖1100两才行。此时，清朝出马，100英镑归我，我给你相当于1100两白银的银票(就是铜票)，生意就做成了，英国商人、出口商人、清朝政府皆大欢喜，只是市场中又多出300两白银的“假钱”。这个术语应该属于印钱(财政)补贴出口吧。解决了这个问题，就解决了外债的问题，也可以解决军备支出，而且还可以展示国际形象，甚至可补贴亚非拉。</p>
+<p><strong>可是，有一个不欢喜的，既然用印假钱解决问题，就带来通货膨胀，穷人过不下去，但是，这没所谓，有北洋新军的洋枪洋炮，这个问题看起来不是问题。</strong></p>
+<p>经济蒸蒸日上，拥有用用雄厚财力武装起来的、先进的陆军和海军，绝大多数人都不会想到大清在1911年垮台，甚至连外国人都吃惊，这天地变化的也太快。</p>
+<p>1910年，金融危机开始了，上海道台蔡乃煌等人紧急上奏朝廷救市。财政有的只是假钱(印出来的票据)，没有真钱(白银)，如果继续印假钱，这是不行的，因为股市的交割需要货真价实的白银。</p>
+<p>此时，清朝抓瞎了，戏法变不下去了。清廷想了一个好办法：将民间筹资建设的铁路权收归国有，筹集的大量真金白银也就归了清朝，真钱的问题也就解决了。怎么收归国有呢?当然不是拿真钱出来收购，而是发行国家股票给那些投资修建铁路的人。这样，既掌握了铁路权，又一下就将那些投资修建铁路的巨额资金弄到手了，聪明吧?</p>
+<p>但投资人不傻，您拿纸换我的真金白银还不算，还将路权也拿走，和抢劫有什么不同?于是，湖南、广东、四川三省就爆发了声势浩大的保路运动，其中，四川最为厉害。四川告急，清廷抽调湖北新军入川维稳，武汉空虚，武昌阴差阳错爆发起义，一个全球最有钱、军力空前强大的清政府一夜之间就土崩瓦解了。</p>
+<p><strong>当然，最终的结果也很清楚，“假钱”催出来的繁荣灰飞烟灭，连印钱的“银行家”也不得不关门大吉。</strong></p>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A6%82%E6%9D%BE%EF%BC%9A%E5%A4%A7%E6%B8%85%E6%98%AF%E5%A6%82%E4%BD%95%E5%8D%B0%E5%87%BA%E5%8D%81%E5%B9%B4%E7%B9%81%E8%8D%A3%E7%9A%84%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%9C%9D/?category=18271" rel="tag">清朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%99%9A%E5%81%87%E7%B9%81%E8%8D%A3/?category=18271" rel="tag">虚假繁荣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">通货膨胀经济危机</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%B4%9B%E9%98%B3%E8%B1%AA%E5%8D%8E%E9%92%89%E5%AD%90%E6%88%B7/" target="cdt-mirror">【图说天朝】洛阳豪华钉子户</a>
+</h2>
+<p><p>2016年4月23日，在河南省洛阳市西工区某大型城中村拆迁现场，一幢五层的小洋楼格外引人注目，该小洋楼顶部不但设有两层观光亭台，并且外表华丽对称结构。该小洋楼周边已陆续拆迁完毕，并且不远处已开始进入地基施工。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342083666205.jpg?resize=600%2C400" alt="W020160425342083666205" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342083666205.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342083666205.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342083666205.jpg?w=950 950w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342083904928.jpg?resize=600%2C387" alt="W020160425342083904928" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342083904928.jpg?resize=300%2C193 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342083904928.jpg?resize=768%2C495 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342083904928.jpg?w=950 950w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>据现场施工人员介绍，该房屋主人为这个改造的城中村的村支部书记，因所住房屋为五层洋房成本高，可能因一直不满意政府及开发商等拆迁赔款及安置问题，因此无人敢去轻易拆迁，因此一直搁浅等待解决。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342084215093.jpg?resize=600%2C400" alt="W020160425342084215093" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342084215093.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342084215093.jpg?resize=768%2C513 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342084215093.jpg?w=950 950w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342084067301.jpg?resize=600%2C359" alt="W020160425342084067301" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342084067301.jpg?resize=300%2C180 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342084067301.jpg?resize=768%2C460 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342084067301.jpg?resize=80%2C48 80w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/W020160425342084067301.jpg?w=950 950w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%B4%9B%E9%98%B3%E8%B1%AA%E5%8D%8E%E9%92%89%E5%AD%90%E6%88%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E6%B4%8B%E6%A5%BC/?category=18271" rel="tag">小洋楼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%86%E8%BF%81/?category=18271" rel="tag">拆迁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%91%E6%94%AF%E4%B9%A6/?category=18271" rel="tag">村支书</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%BB%8E%E7%96%AB%E8%8B%97%E5%88%B0%E6%9C%89%E6%9C%BA%E8%94%AC%E8%8F%9C%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%8A%9A%E5%85%BB%E5%AD%A9%E5%AD%90%E7%9A%84%E4%BB%B7/" target="cdt-mirror">博谈网 | 从疫苗到有机蔬菜：在中国抚养孩子的价码</a>
+</h2>
+<p><p>（博谈网记者周洁编译报道）据《外交学人》4月21日报道，当上个月小米（音）接种了麻疹、腮腺炎和风疹的疫苗后，她的母亲Caroline Meng松了口气。Caroline Meng是土生土长的北京人。这名20个月大的女孩原定是早两周接受注射，但那时她一直咳嗽和打喷嚏，医生建议等她完全康复了再打，因为发烧是儿童接种疫苗后的一种常见反应。</p>
+<p>可以预见的是，小米不久后就病了。Meng没把它当回事。后来，她的手机响了，她从新浪新闻那里看到标题中的那个关键词‌‌“问题疫苗‌‌”。Meng的心都沉了。她早就对中国的婴儿配方奶粉和玩具失去了信心，但疫苗也这样吗？她焦急恐惧了几天，直到她被告知那些问题疫苗不是假的，也没受到污染，但已经失去了效力。对此她感到气愤。</p>
+<p>‌‌“我认为任何事情都得有个底线‌‌”，作为大学英语讲师的Meng说。‌‌“疫苗是底线。儿童也是底线。如果破了这个底线，未来就没有希望了。‌‌”</p>
+<p>据悉，该疫苗丑闻涉及到2011年以来售出的价值880万美元的疫苗储存不当，并再次点燃了对药品安全的众怒。中国发生过一系列医疗丑闻，其中包括政府掩盖2003年的SARS危机和2008年三鹿奶粉丑闻。该疫苗丑闻只是最新的一起。</p>
+<p>值得信赖的育儿产品成为了一种稀缺资源，有钱和没钱的父母越来越多地面临着非常不同的选择，该差别不是昂贵的玩具或公众游乐场的差异。它越来越变成了是否能确保底线。那些有钱有门路的家长可能把他们的信赖放到购买更昂贵的外国产品，而那些没钱的家长就不得不用相对便宜、往往被视为不那么可靠的国内产品。</p>
+<p>对于能负担得起的年青父母，花钱购买外国的育儿产品不是什么新鲜事。Meng购买的是从澳大利亚进口的婴儿奶粉，680克一罐的奶粉通常是15澳元，外加15澳元的运费。15个月的奶粉供应要花460澳元，差不多是北京月平均工资的一半。</p>
+<p>‌‌“当我给我的宝宝买东西时，我不看标价‌‌”，另一位在北京的妈妈Zoe Zhang说。她有一个2岁的女儿。‌‌“我只看那个品牌在朋友中的口碑和知名度。‌‌”Zhang买的喝水瓶甚至筷子都是从国外买的。但她还是不满意海外代购产品的种类，感叹网上购买外国酸奶不切实际。</p>
+<p>‌‌“我肯定不会买那些最便宜的牌子‌‌”，24岁的母亲李晨（音）说。她住在山西介休一个30万人口的小的县级市，家中有个1岁的女儿。‌‌“但我买不起外国货。当然，如果买得起的话，我会买外国的牌子。这里的产品有太多的防腐剂。‌‌”大城市居问题疫苗民和小城市居民的生活方式往往有很大不同，地理区位的优越性不断以微妙的方式表现出来。例如，疫苗丑闻爆发后，一些在北京的家长自我安慰说北京市政府肯定有更严格的监管和控制。毕竟，领导人都在这里。</p>
+<p>讽刺的是，李晨（音）幸免了，不用像其他父母那样经受最初几天的担忧，因为她所在城市的当地医院甚至没有提供过那些‌‌“问题‌‌”疫苗。据李晨（音）说，像介休这样的小城市，当地医院通常只提供强制性疫苗。</p>
+<p>李晨（音）在报纸上读到一些内地人涌到香港给孩子打疫苗时，她觉得不可思议。对她来说，这似乎是一个第一世界那些人考虑的问题，除了这个他们没别的好担心的。但是，对于那些有经济能力的，选择进口疫苗已经是新常态。据来自北京的那位年轻妈妈Zoe Zhang说，家长可以选择一种打5针的进口疫苗组合或一种打13针的国产组合来接种预防同样的疾病感染。前者的标价是617美元，价格不菲，后者免费。即使在本次疫苗丑闻之前，在她的朋友圈中，每个人都是选择注射5次的进口组合。注射次数少一些意味着少些疼痛，但是更重要的是考虑到质量。</p>
+<p>即使在孩子出生之前，在中国生活的孕妇带着自己的价格标签。不孕和流产比以往更加普遍。虽然造成这两者的原因无数，难以确定是哪一个，但是人们广泛怀疑糟糕的空气和食品质量才是真正的元凶。据北京大学人民医院妇科医生王彦斌说，她在该医院工作的7年中，孕妇们越来越担心会自然流产。</p>
+<p>由于担心不干净的食物会危及腹中胎儿的健康，Meng在得知自己怀孕的那一刻起就停止外出就餐。相反，她选择了有机蔬菜，有机蔬菜在超市里的售价是普通蔬菜的4倍。小米出生后，她选择挥霍在孩子身上的钱比花在自己身上的要多。</p>
+<p>孩子出生后事情变得更为复杂。对疫苗丑闻的不同反应让人们一窥在中国抚养孩子巨大拼图中极小的一块。虽然富人们在让他们的孩子到香港接种疫苗，或支付昂贵的价钱打进口疫苗，但是他们没那么幸运的同胞不得不接受中国制造的药品。其他的选择也带有类似的价格标签。</p>
+<p>Caroline Meng和她丈夫默默地走回家，他们刚去了他们区的几所幼儿园，以便为小米选择报哪一家。这是一个艰难的决定。最好最昂贵的幼儿园，师生比例是1比3.5，相比之下普通幼儿园的师生比是1比10。教师越少，意味着对孩子的监护度越低，安全风险更大，这是Meng绝不愿去接受的。</p>
+<p>在中国，金钱可以买到信任，疫苗如此，奶粉、蔬菜、幼儿园还有很多其他的东西也是这样。成年人可能过于疲惫，甚至称之为生命的教训。但幸运的是，小米仍然太小，还不明白这一切意味着什么。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%BB%8E%E7%96%AB%E8%8B%97%E5%88%B0%E6%9C%89%E6%9C%BA%E8%94%AC%E8%8F%9C%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%8A%9A%E5%85%BB%E5%AD%A9%E5%AD%90%E7%9A%84%E4%BB%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%82%B2%E6%88%90%E6%9C%AC/?category=18271" rel="tag">养育成本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A9%E5%AD%90/?category=18271" rel="tag">孩子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%9A%E5%85%BB/?category=18271" rel="tag">抚养</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%9A%E5%85%BB%E6%88%90%E6%9C%AC/?category=18271" rel="tag">抚养成本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8/?category=18271" rel="tag">食品安全</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E4%BA%8B%E6%95%85-%E8%8B%8F%E8%81%94%E4%BD%93%E5%88%B6%E7%A7%8D%E4%B8%8B%E7%9A%84%E6%81%B6%E6%9E%9C/" target="cdt-mirror">网易回声 | 切尔诺贝利核事故 苏联体制种下的恶果</a>
+</h2>
+<p><p><strong>切尔诺贝利核事故，与其说是偶然事故，不如说是苏联僵化的核管理体制和习惯性掩盖导致的必然恶果。</strong></p>
+<p><b><span>本文系网易原生内容中心《回声》栏目出品，每周一至周五准时更新。</span></b><b><span>近期网易原生内容中心将陆续推出切尔诺贝利核事故30周年策划，欢迎垂注。</span></b></p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160425074353ac8c6_550.jpg.550x10000.75.auto_.jpg?resize=550%2C364" alt="切尔诺贝利被遗弃的宾馆 calflier001/Flickr" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160425074353ac8c6_550.jpg.550x10000.75.auto_.jpg?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160425074353ac8c6_550.jpg.550x10000.75.auto_.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>切尔诺贝利被遗弃的宾馆 calflier001/Flickr</p></div>
+<p><b>文｜刘锐</b></p>
+<p>“（切尔诺贝利核电站）熔毁的概率是万年一遇。核电站有安全可靠的控制，三层安全系统防止故障发生。”1986年2月，在《苏维埃生活》杂志上，乌克兰能源与电气部长VitaliSklyarov如是说道。</p>
+<p>两个月后，4月26日凌晨1：23，出事概率“万年一遇”的切尔诺贝利，发生了人类历史上最惨烈的核灾难。火势绵延了十天，释放出大量高辐射物质。即使形势如此严峻，官方仍反复宣称，一切尽在控制之中。这是切尔诺贝利核灾难自始至终凝存在的烙印：它，不仅仅是一场夺取数千条无辜性命的环境灾难，还是苏联高度僵化和无能的官僚体制结下的必然恶果。正如时任苏联能源部副主任的格里高利·梅德韦杰夫所言，切尔诺贝利核电站从设计、管理到日常运营都极度草率马虎，到1986年才出事反倒叫人意外。</p>
+<p><b>赶英超美，苏联的民用核能大跃进为切尔诺贝利埋下隐患。事故发生后一周，官方就督促要尽快开始建造五号反应堆。</b></p>
+<p>隐患，在切尔诺贝利灾难发生前就已经埋下了。在苏联，一切都是政治，政治就是一切。作为大国抗衡杀手锏的核工业，更是毫不含糊地政治挂帅。70年代，冷战正酣，苏联和英美在民用核能领域展开竞争，美国和英国到了1972年已经造了50多个核反应堆，而苏联才7个。为了赶英超美，以及满足国内的电力需求，中央下令快马加鞭发展民用核能工业，七八十年代，RBMK的设计、建造和运营都处在紧急状态，为了尽快完成建设，必要的安全措施被省略了。即使是灾难发生后不到一周，1986年5月2日，苏联电力部长在一次高层会议上说，“虽然发生了事故，但建设队伍还是要履行社会主义义务，尽快开始建造五号反应堆。”</p>
+<p>灾难发生前，苏联是唯一一个有核但却无核安全法律的国家。其他国家早在核能发展初期纷纷就核安全问题立法，比如1945年法国、1946年的英国和美国。苏联在切尔诺贝利事故两年前，起草过一项核安全法律，但是从来没有实行，即使是在事故发生后。核事件如何赔偿等法律问题是国家机密，苏联人民无从知晓。</p>
+<p><b>切尔诺贝利核电站使用的</b><b>RBMK反应堆存在先天缺陷，而颟顸的苏联核电站管理体制让这种缺陷放大，最终酿成大祸。</b></p>
+<p>1992年，国际原子能机构发布第二版切尔诺贝利调查报告INSAG-7，否定了之前的观点，灾难的主因不是核电站的工作人员操作失误，而是RBMK的设计缺陷，目前多数调查支持这一观点。RBMK反应堆在700百万瓦特以下（约最大功率的四分之一）时，反应堆的活性区就会变得极不稳定，很难控制，且容易造成连锁反应。这是一项致命的设计缺陷。切尔诺贝利的4号反应堆就是在低功率下做测试时发生爆炸的。</p>
+<p>反应堆的设计缺陷本可以通过制度的管理来弥补，但是，苏联核电站的管理漏洞比反应堆的设计缺陷更加严重。苏联政府将所有RBMK核电站都从军事化的苏联核能工业（Minsredmash）转交给民事部门能源与电力部。而能源与电力部此前从来没有运营核电站的经历。1970年，切尔诺贝利破土动工之时，核电站的主任之前只在煤炭发电厂工作过，对核电站并不精通，他曾云淡风轻地说，“它（核电站）比热能发电站容易操作多了，我们有经验丰富的员工，不会出意外。”当时负责苏联所有核电站建设的能源与电力副部长之前是建造水力发电厂的，另一位负责开发核电站的部门负责人甚至压根没有任何技术经验，之前在国家计划委员会工作。切尔诺贝利核电站的主工程师是电工，曾在热力发电站和国家电网工作。总而言之，能源与电力部在运营核电站方面心有余而力不足。对此，RBMK的开发者、苏联物理学家亚历山德罗夫说，“（想象一下）你在开车，打错了方向盘，发生了事故。是引擎的问题吗？还是汽车设计者的问题？所有人都会回答，是司机技术不好的缘故。”</p>
+<p>而主要负责部门常年各自为政，互不通气，无疑让这种原本就漏洞百出的体制更加不堪。反应堆的开发者和Minsredmash的官员甚至从来没有告诉核电站的员工，RBMK存在哪些问题。此前，RBMK已经多次出现故障，1975年，列宁格勒核电站的RBMK反应堆就发生过核泄露，伊格纳利纳核电站也出现过故障。1982年，切尔诺贝利的一号反应堆发生部分熔毁，经过几个月的修复，才重新投入运行。 对于RBMK的安全隐患，切尔诺贝利的员工却一无所知。苏联解体后，俄罗斯和乌克兰媒体采访了当年切尔诺贝利核电站的工作人员，所有人都表示他们不知道RBMK反应堆的设计缺陷。</p>
+<p><b>灾难发生后，官方的反应不是立即施救，而是习惯性地掩盖。核电站附近的儿童在事发后第二天仍照常上课，直到一天半后才撤离。整整</b><b>18天后，民众才苦苦等来政府的回应。</b></p>
+<p>反应堆的先天缺陷只是埋下的祸根，如果官方应对及时，灾难或不至于这么严重。灾难发生后，官方的反应，不是立即施救，而是习惯性地掩盖。灾难发生后，核电站的主任抵达现场，发现四号反应堆已经爆炸，屋顶被掀掉，大火在燃烧，然而他却向上级报告，反应堆完好无损，辐射在正常范围内。一个小时后，有下属向其报告，核电站附近的核辐射已经超过正常范围8万倍，对此主任的回应是，以涉嫌传谣、制造慌乱为由逮捕了他。这种做法在当时，算是“标准动作”了。一位80年代初期任职能源与电力部的中级官员称，“那个时代，核电站的任何事故和故障信息都被要经过部门的严格审查：只有上级觉得有必要发布才会披露。”</p>
+<p>直到灾难发生的第18天后，5月14日，戈尔巴乔夫才打破沉默，在电视上发表演讲，“一旦我们收到可靠信息，将会告知苏联人民，现在我们可以说，因为采取了有效措施，最糟的情况已经过去。”他否认政府试图掩盖真相，称官方只是不知道实情而已——事实果真如此吗？</p>
+<p>尽管在戈尔巴乔夫的“开放政策”下，苏联政府不像往常一样，严格控制媒体，而是允许他们深入现场、接触相关官员和医生，但是毕竟苏联还是那个苏联，本性难移，针对事故的所有资料都被列为“绝密”。事故发生后的前18天，政府始终一声不吭，而国际媒体一片喧哗，它们从各种渠道挖掘信息，比如在北欧国家测量核辐射数据，于是出现了这样现象：发生在本国的灾难，需要从外媒了解。政府甚至下令，要求医疗人员在被核辐射感染的清理人群的诊断中，不要使用“急性辐射综合症”，而是用其他术语代替。</p>
+<p>1991年，乌克兰议会成立的委员会在调查了切尔诺贝利灾难。调查委员会的主席称，苏联政府在切尔诺贝利事发后的反应是“完全的谎言、虚假、掩盖、隐瞒，”是苏联体制犯下的罪。调查委员会在获取了当年乌克兰共产党保密文档后发现，中央高层很早就知道事态之严重。26日下午一点，距离切尔诺贝利四号反应堆爆炸不到12个小时，高层官员就已获知反应堆爆炸，大量核辐射物质溢出。但是，在切尔诺贝利旁边的普里皮亚季，灾难发生的第二天，孩子们竟然照常上课，室外活动照常举行，还举办了16场婚礼。直到一天半以后，政府才开始撤离居民。</p>
+<p>据灾难发生时在库尔恰托夫研究所工作、现任俄罗斯国家原子能公司高管的弗拉基米尔·阿西莫洛夫回忆，1982年他们向上级递交了系统保护苏联核电站的报告，但是收到的反馈却是，“西方是资本主义，有压迫，他们不考虑人民，所以反应堆出故障，比如三哩岛。但是，我们的反应堆是安全的，因为它们是苏维埃的！”然而就在四年后，“安全”的苏维埃反应堆爆炸了。</p>
+<p>新晋诺贝尔文学奖得主阿列克谢耶维奇的作品《切尔诺贝利的悲鸣》英译者Keith Gessen在英译本序言中说，“从某种程度上说，切尔诺贝利是偶然发生的，但又是裙带关系、懒惰以及漠视民众的必然产物。”这，大概是对切尔诺贝利核事故最精准的定性。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E6%A0%B8%E4%BA%8B%E6%95%85-%E8%8B%8F%E8%81%94%E4%BD%93%E5%88%B6%E7%A7%8D%E4%B8%8B%E7%9A%84%E6%81%B6%E6%9E%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9/?category=18271" rel="tag">切尔诺贝利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%AE%89%E5%85%A8/?category=18271" rel="tag">核安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5%E7%AB%99/?category=18271" rel="tag">核电站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%BE%E9%9A%BE/?category=18271" rel="tag">灾难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E7%90%86%E4%BD%93%E5%88%B6/?category=18271" rel="tag">管理体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0/?category=18271" rel="tag">网易回声</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E4%BA%94%E5%9C%B0%E9%A9%BB%E5%8D%8E%E5%A4%96%E4%BA%A4%E5%AE%98%E6%8E%A2%E5%80%AA%E7%8E%89%E5%85%B0%E5%8F%97%E9%98%BB-%E5%AE%98%E5%AA%92%E8%AE%A5%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">BBC | 五地驻华外交官探倪玉兰受阻 官媒讥失败</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160425041334_ni_yulan_beijing_sudworth_976x549_bbc_nocredit.jpg?resize=550%2C309" alt="160425041334_ni_yulan_beijing_sudworth_976x549_bbc_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160425041334_ni_yulan_beijing_sudworth_976x549_bbc_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160425041334_ni_yulan_beijing_sudworth_976x549_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -174,6 +285,45 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
 <a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E6%8A%A5-%E6%9C%80%E9%AB%98%E6%B3%95%E5%85%AC%E5%B8%8310%E8%B5%B7%E5%BC%98%E6%89%AC%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B/?category=18271" rel="tag">典型案例</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">司法干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95/?category=18271" rel="tag">最高法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%88%E4%BE%8B/?category=18271" rel="tag">案例</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-24/" target="cdt-mirror">奇闻录 | 周末段子荟萃 4-24</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?resize=600%2C600" alt="CgvSaWmUkAATjhb" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?resize=300%2C300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?resize=50%2C50 50w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>@Baidu360：你国省长手按宪法宣誓就职就是个大笑话，按照你国真实国情应该是脚踩宪法宣誓才对。</p>
+<p>@jerrymice：晚上老友聚餐，公务猿老友新换了单位，从教育系统调到区里拆迁办。说起现在出镜率最高的拆迁新闻，他说拆迁办都是把拆迁任务安排给民间机构，完成了给钱，出事了撇清关系。那些把事办砸了的民间机构就再不使用，反正大把的民间机构排队等着。真正办事麻利的民间机构，是让拆迁户都高高兴兴主动搬出去。</p>
+<p>@agostic：你以为在努力，在赚大钱，看看这个社会雾霾漫天，污染家园。即便你再富裕，你死去之后，留给后世是这样一个环境破坏，人性丧失的国度。你习惯于苟且，后代也跟着苟且，5千年文明在苟且中艰难地经历磨难。辉煌的历史埋葬更多的是冤屈和不幸。在写给后人的历史中，卑微的国人经历着独裁统治之下的悲剧。</p>
+<p>@mbssjsw1：转：当今已做好了“一房四吃”的准备，一吃土地出让金，二吃转让住房所得20%的个税，三吃房地产税，四吃遗产税。现在看来，七十年产权又是一道大菜！</p>
+<p>@yang12ming1：前几天我在拘留所遇到一个坚决的爱国者，卖快餐的。他为啥被拘留呢？因为他在马路上骑自行车抽烟，经过一加油站，有便衣招手，他以为是找他叫快餐的，他就过去了。结果，拘留两天。他对这个伟大的祖国热爱的发狂，即便自己被诱捕，他也觉得那是依法治国。</p>
+<p>@ranxiangmm：【中文太深奥了】一，“多党轮流执政照样腐败”……“照样”；二，“有人说花4.8万就可以投资移民台湾，天下哪有这样的好事”……“好事”；三，“美国才是这个时代的最大恶棍”……“才是”；四，“郭伯熊等穷二代升官手段更卑劣”……“更”。</p>
+<p>@freedomandlaw：对于检验、考验这样的字眼，实在是有些倦了。每到一个事件出现，经常会看到××是对中国法治的考验、检验等等，真是一次次地出现。连司法独立都做不到的“法治”有必要一次次地去检验吗？拿着无辜公民的自由去检验法治，检验费真的太昂贵了，但是人们还持续、坚决的不相信检验结果，还要继续检验。</p>
+<p>@YE5MQ5Vtp2jlWX7：经济学者马光远：“如果承认房子是有限的租期，那根本没有任何理由征收什么房产税，如果要征收房产税，就请把房子的‘永久产权属性’还给老百姓。既想把地高价卖了，又想每年收房产税，此种贪婪，旷世罕见。”</p>
+<p>@mozhixu：墙内又在吵70年产权，你国现行产权制度建立抢劫的基础上，诸如地主、富农、城市居民的土地包括房产，以及公私合营股份，都是现行产权制度所承认的形式，但都经历过抢劫，而从未矫正，在这个意义上，你国根本谈不上有什么产权制度，还吵个毛啊。</p>
+<p>@letscorp：大城市这轮房价疯涨过后，感觉工资已经没有意义了，疯涨透支了未来5年的上涨空间，一线城市房价普遍7、8万，南京、苏州这样的城市2-3万，中国财富分配已经彻底完成，财富格局已经注定，穷人将变得越来越难，一线城市买房已经基本无可能，二线城市压力也是巨大（相对于收入）。</p>
+<p>@MyDF：“中国人素质低，不宜民主”，这是最严重的种族歧视。#你国</p>
+<p>@Kan2akiS：「天朝」在以前其实也有那么一点「你国」这种词的韵味，然后又慢慢的中性化，太讽刺了。</p>
+<p>@INXIAN：2015年以来，支那所谓「互联网+创业」就是：1. 搞个微信公号；2. 弄一个APP；3. 忽悠一笔钱；4. 连网站都不做；5. 半年不到就人间蒸发了…还有一种所谓的「连续创业者」，更是屡创屡败、屡败屡创，不以忽悠为耻，只有能弄到钱就算“成功”。<br>
+支那的创业堪称是魔幻产业。</p>
+<p>@ranyunfei：世上几乎所有节日，都是一群不信的人比信的人更为强调。世界读书日也不例外，很少读书的人，往往喜欢在这个时候来谈读书。</p>
+<p>@modker：之前找的妇产科主任，其实不认识，只不过前期弄了电话有过联系混了脸熟，在产房生完小孩非要给我媳妇缝个处女膜，她推脱再三还是给缝上了，旁边的小护士说，别人都是花钱做的，主任免费给你们做还不领情。</p>
+<p>@三爪撬墙：和在澳门工作的表妹吃饭，她特地回来香港买手机。几个月前她香港买的手机被偷，在澳门的中国电讯买了新手机，以为和香港买的一样，结果发现所有Google 系列的软件被完全屏蔽，自己下载也不能用？？用了几个月，她终于忍无可忍，决定回香港重买。资讯自由在澳门原来已经这样被阉割了。</p>
+<p>@tengbiao：任何团体与中共谈判从来都没成功过。香港民主党本来在香港极有威望，但谈了之后被中共耍了。达赖喇嘛与北京的谈判也一样。国际社会常犯的错误是，把中共政府当做一般的政府。而事实上，中共政府只是一个流氓集团和恐怖集团。</p>
+<p>@Jackstraw_PRC：《法兰克福评论报》：女大学生董哲（化名），20岁的她受到文化监管机构的秘密委托，定期在北京各相声剧场观看演出，门票自然是不用自己掏腰包，她只需要向文化局提交一份简短的书面报告即可。这名年轻女孩几乎带着骄傲认为，自己是在为社会稳定做出贡献……</p>
+<p>@大鱼说漫画：国产反腐影视剧里一般都有个市委书记，而且都很巧，市里腐败团伙闹翻天时，市委书记都正好在中央党校学习。市里几个正义的干部讨论“怎么办呢？王书记在中央党校学习，我们怎么办？”“我去一趟北京，直接向王书记汇报！”然后这人跑到北京。书记闻讯大怒，大手一挥，把腐败分子远程一锅端。都这套路。</p>
+<p>@陈有西：【也许这届人民真不行】中国教育宣传成果真是巨大。转：别不服气——百度“热烈庆祝日本地震”结果2，600，000条。改成庆贺是765，000条。去掉热烈是8，570，000条。有没有懂日语的朋友，请到日语的GOOGLE去搜一下，有多少条“热烈祝贺汶川地震”的。</p>
+<p>@Zannmuling：这届人民是真的不行：领导推普惠金融，人民要玩炒p2p互联网+诈骗。领导推万众创新，人民要玩炒股炒创业板杠杆牛。领导推三四线去库存，人民要炒一二线地产。领导推供给侧改革，人民奔入期货猛抡螺纹钢。</p>
+<p>@haOFei：和女朋友一起去理发店，一妹子帮我洗头，和妹子聊的很开心。妹子突然问：你还没女朋友么？我说：有啊，不是在这洗头的么？<br>
+妹子听了后笑了笑，然后红着脸吻了一下的我的额头。一天过去了，现在脸还很疼。</p>
+<p>@cxiaoji：哥们说他一同事跳槽到亚马逊，入职被分了一个CRT显示器，他表示不爽要求换LED，没批。两周后辞职了。</p>
+<p>@jiezitui：“请问禅师，现在社会那么乱，我这一个弱质女子应当如何保护自己？”禅师二话不说，倒了一杯冷水，立即泼到了少女的脸上。少女一愣，说道：“难道你是要我保持冷静，以此对待世界的一切吗？”禅师摇摇头：“你素颜就可以了。”</p>
+<p>@游阿姨：一个男同事刚来的时候，办公室里的民谣狗问他平时喜欢听什么音乐，他说没什么想法，民谣狗们问他你喜欢听民谣吗，男同事说：民谣啊！我只知道有一首——李伯伯要当红军！红军不要那伯伯！因为李伯伯的屁股大呀！容易被鬼子发现目标！办公室陷入沉寂</p>
+<p>@Scswga：本人语文老师，今天改到一题。《黄鹤楼送孟浩然之广陵》那课，要求写出李白和孟浩然分别时的对话。一学生写道：“浩然哥，慢走，有空常来玩阿！”孟浩然说：“嗯，你一定要幸福。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-24/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 4小时前</small>
@@ -614,153 +764,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%86%8D%E6%9C%89%E5%85%AC%E6%B0%91%E5%9B%A0%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E9%81%AD%E6%AE%83-%E6%B8%A9%E5%B7%9E%E7%BD%91%E6%B0%91%E8%A2%AB%E8%A1%8C%E6%94%BF%E6%8B%98/" target="cdt-mirror">自由亚洲｜再有公民因巴拿马文件“遭殃” 温州网民被行政拘留</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/image-1.jpg" rel="attachment wp-att-435721"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/image-1.jpg?resize=400%2C600" alt="巴拿马文件是个好文件" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/image-1.jpg?resize=200%2C300 200w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/image-1.jpg?w=549 549w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p>浙江温州网友陈德铮（微博名：@卡卡卡卡卡卡卡01)因发布一张带有“巴拿马文件是个好文件”的图片，被温州苍南县龙港公安分局带走。(博讯网)</p></div>
-<p>温州公民陈德铮因在微博转发一张写有“巴拿马文件是个好文件”的字条及其它一些网络言论，而被抓捕，处罚行政拘留8天。此前，律师葛永喜也曾因评论巴拿马文件而被警方传唤扣押二十多小时。葛永喜批评说，当局对巴拿马文件相关信息和言论的封杀，反映出中国没有丝毫言论自由可言。</p>
-<p>温州有公民因在网上发表与巴拿马文件相关的评论而遭到警方抓捕。网名“卡卡卡卡卡卡卡01”的陈德铮因在微博上转发了一张写有“巴拿马文件是个好文件”的字条以及其他一些网络言论，4月19日被温州苍南县龙港公安分局带走。</p>
-<p>本台记者21日联系上陈德铮的妻子，不过对方表示自己不方便，拒绝了记者的采访要求。</p>
-<p>了解情况的维权人士王法展接受本台采访时表示，陈德铮是在19日上午8点多失联的，他的妻子前往派出所领取拘留通知书时遭到当局恐吓，而决定息事宁人。</p>
-<p>王法展：“我给他老婆打电话，他老婆好像在公交车上，意思就是说，要拘留，他们说要拘留八天。”</p>
-<p>记者：“他是什么时候被警察带走的？”</p>
-<p>王法展：“（19日）上午8点钟还给我帖子点赞，我转发了一个黄文勋的视频，他在后面跟帖说这个视频哪里可以下载？我说晚上有时间看能不能传给你，然后他就 没有音讯了，然后到中午就传出来他被传唤了。因为我们在群里讨论这个事情，那个朋友他的手机在警察那里，警察在看。他（陈德铮）老婆过去（拿拘留通知书），他们就吓唬他老婆了，他老婆就想息事宁人了。”</p>
-<p>同样曾因评论巴拿马文件而被警方扣押二十多小时的葛永喜律师向本台表示，在中国很少有公开的对巴拿马文件的讨论，而当局对待发表意见的民众的态度也说明他们的反腐并不是真正的反腐。</p>
-<p>“在中国，官方对巴拿马文件一直是一个不承认有这样一件事情的，既然你不承认这样一个事情，为什么人家发表相关的信息你就要把他抓起来，甚至去报复他呢？所以我们认为这恰恰是欲盖弥彰。这也证明中共的反腐并没有真正在反腐，只是一个权力的斗争而已。如果真正的反腐，我觉得恰恰巴拿马文件是反腐的一个很好的线索，为什么不单不顺着这个线索去反腐，而是把所有稍微涉及到发巴拿马文件相关消息的人都抓起来呢？”</p>
-<p>葛永喜又指，事件同样表明在中国，没有丝毫言论自由可言。</p>
-<p>“关于巴拿马文件，他们可能认为为了保卫政权或者怎么样，在国内禁止传播，国内其实也很少有真正关于巴拿马文件的传播，包括新闻、包括名单，只不过是有些人可能稍稍涉及到巴拿马文件，他们就开始进行打压，进行抓捕。这证明在中国没有一点点的言论自由，只要你说的话，可能触碰到他的利益，他就利用公权力对你进行打击。”</p>
-<p>今年4月初，一家名为巴拿马莫萨克冯塞卡的律师行的大量资料遭到泄漏，多达1100余万份机密文件，披露了他们如何帮助客户洗钱、逃税，涉及全球多个国家的72名前任和现任的国家领导人及亲属。中国也有不少权贵“上榜”，其中包括中国国家主席习近平的姐夫邓家贵，引发外界关注。有大陆媒体事后刊登报道为习近平开脱，但相关的文章很快就被撤下。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%86%8D%E6%9C%89%E5%85%AC%E6%B0%91%E5%9B%A0%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E9%81%AD%E6%AE%83-%E6%B8%A9%E5%B7%9E%E7%BD%91%E6%B0%91%E8%A2%AB%E8%A1%8C%E6%94%BF%E6%8B%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">离岸姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E4%B8%8D%E5%86%8D%E5%AF%B9%E8%8B%B9%E6%9E%9C%E7%BD%91%E5%BC%80%E4%B8%80%E9%9D%A2/" target="cdt-mirror">纽约时报｜中国监管不再对苹果“网开一面”</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/23APPLE-articleLarge.jpg" rel="attachment wp-att-435717"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/23APPLE-articleLarge.jpg?resize=575%2C384" alt="北京的一家苹果专卖店。iPhone手机在美国的销售势头放缓，苹果正在从中国寻求增长。 ／Gilles Sabrie for The New York Times " data-recalc-dims="1"></a><p>北京的一家苹果专卖店。iPhone手机在美国的销售势头放缓，苹果正在从中国寻求增长。 ／Gilles Sabrie for The New York Times</p></div>
-<p>多年来，美国科技公司在中国获得的成功一直很有限。如果占取太多的市场份额，拥有太大的影响力，就会遭到北京的抵制。</p>
-<p>在很大程度上，苹果(Apple)是这种趋势的一个例外。然而，这家硅谷公司在中国提供的服务现在也面临着监管方面的压力。这可能预示着，苹果在该国的良好关系将遭遇变数。</p>
-<p>上周，苹果的iBooks商店和iTunes电影服务在中国问世仅仅半年之后便被关停。最开始，苹果推出这些服务似乎获得了政府的批准。但是之后，根据两名不愿具名的知情人士的说法，国家新闻出版广播电影电视总局声称这些服务由他们监管，要求予以关停。</p>
-<p>“我们希望尽快重新向中国用户提供这些书籍和电影，”苹果发言人在声明中表示。</p>
-<p>鉴于苹果以往在中国的表现，这样的逆转出人意料。和很多其他美国高科技企业不同，苹果公司近期在中国成功推出了多款新产品——比如移动支付系统Apple Pay。中国政府新近出现的这种抵制，或许会让这家位于加州库比蒂诺的公司蒙受损失。</p>
-<p>从一定程度上说，比起很多其他高科技公司，苹果更加依赖其软件流畅运行来吸引硬件设备的回头客。这些软件包括它的App Store应用商店和iTunes等服务，与iPhone和iPad紧密融合。目前苹果的iPhone手机销售势头在放缓，而该公司的增长有赖于中国市场，所以北京进一步限制苹果服务的话就可能会损害其销售。</p>
-<p>苹果将中国列为仅次于美国的第二大市场。公司将于下周二发布季度财报，届时可以看到它在中国的业绩数字。</p>
-<p>中国针对苹果的行动显示，该公司或许终于暴露在了严格审查的风险之下，就像其他美国高科技公司近年的遭遇一样。2013年美国国家安全局(National Security Agency)前承包商雇员爱德华·J·斯诺登(Edward J. Snowden)曝光的资料显示，美国在利用这些公司为华盛顿开展网络间谍活动。此事是激发这种严格审视的原因之一。</p>
-<p>荣鼎咨询(Rhodium Group)创始合伙人荣大聂(Daniel H. Rosen)说，中国对苹果采取的行动是有长远目标的。荣鼎是一家对中国经济有专门研究的纽约咨询公司。</p>
-<p>“他们感兴趣的是保护中国人看到的内容，维护国家安全，支持华为、阿里巴巴、腾讯等本土巨头，”荣大聂说。他还表示，在这个新时代，中国“很难接受外国互联网势力的主导地位，尤其是那些来自美国的势力”。</p>
-<p>在关闭苹果的服务后，一直对西方意识形态采取打压政策的中国国家主席习近平，周二在北京召开了一场关于限制性互联网政策的会议。中国顶尖的科技企业领袖悉数到场，包括电商公司阿里巴巴的董事会主席马云，以及华为总裁任正非。</p>
-<p>“依法加强网络空间治理，加强网络内容建设，做强网上正面宣传，培育积极健康、向上向善的网络文化，”官方新闻机构新华社的<a href="http://news.xinhuanet.com/politics/2016-04/19/c_1118672059.htm" target="_blank" rel="nofollow">一篇报道</a>引用习近平的话说。</p>
-<p>自斯诺登泄露事件以来，中国官方媒体给八家美国企业打上了<a href="http://paper.people.com.cn/zgjjzk/html/2013-06/24/content_1259857.htm" target="_blank" rel="nofollow">“金刚”</a>的标签，称它们已经深入到该国能源、通讯、教育和军事等核心产业。</p>
-<p>这些公司中包括了思科(Cisco)、IBM、微软(Microsoft)和高通(Qualcomm)，在政府加强监管后，它们在中国的销量出现下滑。其中有的公司遭到突击搜查、调查和罚款。有的为了拓展在中国的业务，被迫出售股权，交出技术，和本土合伙人合作。</p>
-<p>苹果位列其中，不过一直以来它的麻烦要少很多。</p>
-<p>2013年苹果和中国最大的无线运营商中国移动签订了在该国销售iPhone的合约，此前它花了六年时间说服移动。在该公司的上一财年，中国消费者在苹果产品上花费590亿美元。苹果首席执行官蒂莫西·D·库克(Timothy D. Cook)迄今已经多次访华。公司偶尔会遭到抵制——尤其显眼的是国家和中共媒体对其售后服务发起的<a href="http://cn.nytimes.com/business/20130402/02apple/" target="_blank" rel="nofollow">一次抨击</a>——不过总体而言还是不受侵扰的。</p>
-<p>有迹象表明接下来会有麻烦。习近平已经领导了一场针对互联网的严厉整肃行动，增加审查，打击用于躲过中国网络过滤系统——又被称为“防火长城”——的网络工具。他还增加了新的政策手段用于管控电子通讯。习近平领导着一个由多位领导人组成的委员会，以精简科技和互联网政策，将国家变成一个“网络强国”。</p>
-<p>除此之外，中国政府还在两年前提出了一部反恐法草案，以安全为由要求外国公司交出密钥——通过这种代码可以看到经过加密的信息。政府最终放弃了这项措施，然而分析人士称，政府仍然想要能够获取在中国境内的一切通讯信息。</p>
-<p>为了解锁一部涉及恐怖主义案件调查的iPhone，美国联邦调查局近来与苹果展开了对抗，此事对公司在中国的运作同样不利。中国律师已经指出，本国反恐法规定，公司在警方或国家安全机构要求下需就加密破解事宜给予协助，以调查或预防恐怖主义行动。</p>
-<p>在本周二的一次国会听证会上，苹果总法律顾问布鲁斯·希维尔(Bruce Sewell)称，中国政府在过去两年中曾要求公司共享源代码，但遭其拒绝。</p>
-<p>中国监管机构关闭的两项苹果服务iTunes电影和iBooks书店，和中国互联网公司的产品构成直接竞争。为了支撑显露颓势的经济，北京近来发起了一系列行动，着重强调一些对技能要求高、利润率也更高的产业，比如互联网。</p>
-<p>这方面的行动也许会最终扩散到苹果的其他服务。例如Apple Pay和中国最大的两家互联网公司——阿里巴巴和腾讯——的移动支付系统是竞争对手。</p>
-<p>长远来看，荣大聂认为中国对苹果这样的外国科技公司采取强硬立场，会给中国经济造成严重影响。</p>
-<p>“加深与全球科技生产的联系，令中国及其人民受益匪浅，但一旦要解除这种联系，给经济造成的打击也将是分外沉重的，”他说。</p>
-<p>翻译：纽约时报中文网<br><a href="http://www.nytimes.com/2016/04/22/technology/apple-no-longer-immune-to-chinas-scrutiny-of-us-tech-firms.html" target="_blank" rel="nofollow">点击查看本文英文版。</a></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E4%B8%8D%E5%86%8D%E5%AF%B9%E8%8B%B9%E6%9E%9C%E7%BD%91%E5%BC%80%E4%B8%80%E9%9D%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">苹果公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%BB%99%E7%BE%8E%E5%9B%BD%E5%AE%87%E8%88%AA%E5%91%98%E7%85%A7%E7%89%87p%E4%B8%8A/" target="cdt-mirror">共青团的“星辰大海”，就是给美国宇航员照片P上中国国旗</a>
-</h2>
-<p><p>@共青团中央 为庆祝中国航天日所自制的海报中，使用的宇航员形象被网民指出是以美国宇航员照片为原型，稍作调整后再P上中国国旗完成的：</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E8%88%AA%E5%A4%A9%E6%97%A5.jpg" rel="attachment wp-att-435701"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%E8%88%AA%E5%A4%A9%E6%97%A5.jpg?resize=500%2C396" alt="星辰大海航天日" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/星辰大海航天日.jpg?resize=300%2C238 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/星辰大海航天日.jpg?resize=768%2C608 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/星辰大海航天日.jpg?resize=1024%2C811 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/星辰大海航天日.jpg?w=1576 1576w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>共青团中央微博截图</span></p>
-<blockquote><p><a href="http://weibo.com/u/5866741269" target="_blank">@囧纳森IV</a>：NASA宇航员、生物工程师迈克·格恩哈特在1995年9月7-18日间搭乘奋进号航天飞机参与STS-69任务期间首次对NASA为国际空间站装配计划研发的臂上型任务清单显示器进行测试。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbgw1f34bwwc898j309m0hj41p.jpg" rel="attachment wp-att-435699"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbgw1f34bwwc898j309m0hj41p.jpg?resize=346%2C631" alt="006p2fpbgw1f34bwwc898j309m0hj41p" data-recalc-dims="1"></a></p></blockquote>
-<p><strong>必须说明的是，共青团使用的宇航员<a href="https://commons.wikimedia.org/wiki/File:Michael_Gernhardt_in_space_during_STS-69_in_1995.jpg" target="_blank"> Michael Gernhardt</a> 和<a href="https://en.m.wikipedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg" target="_blank">地球图片</a>都来自于 NASA，属于公有领域，无版权保护。这里仅仅是在陈述一个事实：共青团的“星辰大海”，就是给美国宇航员照片P上中国国旗。</strong></p>
-<p>以下对比图由数字时代编辑制作：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%AF%B9%E6%AF%941.jpg" rel="attachment wp-att-435696"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%AF%B9%E6%AF%941.jpg?resize=475%2C1626" alt="对比1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/对比1.jpg?resize=299%2C1024 299w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/对比1.jpg?w=734 734w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/02/%E7%A7%8D%E8%8A%B1%E5%AE%B6%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%EF%BC%8C%E8%83%BD%E5%8F%AB%E6%8A%84%E4%B9%88/" target="_blank">【立此存照】种花家的正能量，能叫抄么？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%A2%8D%E5%9B%BD%E7%9A%84%E4%BA%8B%EF%BC%8C%E8%83%BD%E7%AE%97%E6%8A%84%E8%A2%AD%E4%B9%88%EF%BC%9F%E5%AE%A3%E4%BC%A0%EF%BC%81/" target="_blank">【网络民议】碍国的事，能算抄袭么？宣传！</a></li>
-</ul></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%B1%E9%9D%92%E5%9B%A2%E7%9A%84%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%BB%99%E7%BE%8E%E5%9B%BD%E5%AE%87%E8%88%AA%E5%91%98%E7%85%A7%E7%89%87p%E4%B8%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E7%BB%99%E4%BA%88%E6%85%95%E6%AF%85%E9%A3%9E%E5%85%9A%E5%86%85%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86%E7%9A%84%E5%86%B3%E5%AE%9A/" target="cdt-mirror">【立存此照】给予慕毅飞党内严重警告处分的决定</a>
-</h2>
-<p><p>中共温岭市纪委</p>
-<p>关于给予慕毅飞同志党内严重警告处分的决定</p>
-<p>慕毅飞，男，汉族，1957年2月出生，安徽省涡阳县人，本科文化，1975年6月参加工作，1987年1月加入中国共产党，2000年10月至2008年1月任温岭市委宣传部副部长（正局级），2008年1月至2016年2月任市委党校主任科员，2016年2月退休。2000年10月23日，慕毅飞因违反规定推销《诗文朗诵》，增加学生负担，被温岭市监察局行政警告处分。</p>
-<p>2011年至2014年期间，慕毅飞在新浪网自己开设的“慕毅飞”微博（粉丝23280人）上多次公开发布、转载与党的路线方针政策不一致的错误言论，严重损害党的形象，引发了<strong>“<a href="http://weibo.com/u/2420177563?refer_flag=1001030101_&is_hot=1" target="_blank">华夏军团作战部</a>”</strong>等网民的强烈谴责，后经组织谈话要求后，删除了该微博内容并关闭了该微博账号。2016年4月6日，慕毅飞在《信息时报》上发表题为《一个“休而不退”者内心深处的愧疚》的部分内容失实文章，并被多家网站转载，引发了舆论浪潮，造成了严重的不良影响。</p>
-<p>鉴于上述事实，慕毅飞身为中共党员，违反政治纪律，多次公开发布、转载与党的路线方针政策不一致的错误言论，严重损害党的形象，依据2016年《中国共产党纪律处分条例》第一百三十三条第二款和2003年《中国共产党纪律处分条例》第四十六条之规定，经市纪委常委会2016年4月15日研究，决定给予慕毅飞同志党内严重警告处分。</p>
-<p>本决定自2016年4月15日起生效。如对本决定不服，可以向本纪律检查机关或上级党组织提出申诉。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUoAMRjN8.jpg?resize=500%2C730" alt="Cgn4feZUoAMRjN8" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUkAAfLzZ.jpg?resize=500%2C781" alt="Cgn4feZUkAAfLzZ" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUkAAfLzZ.jpg?resize=192%2C300 192w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUkAAfLzZ.jpg?w=512 512w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>另附：</p>
-<p>华夏军团作战部微博和《一个“休而不退”者内心深处的愧疚》报道</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4felU4AAuukm.jpg?resize=577%2C1024" alt="Cgn4felU4AAuukm" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4felU4AAuukm.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4felU4AAuukm.jpg?w=577 577w" sizes="(max-width: 577px) 100vw, 577px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4fjmUYAAiBSc.jpg?resize=600%2C461" alt="Cgn4fjmUYAAiBSc" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4fjmUYAAiBSc.jpg?resize=300%2C231 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4fjmUYAAiBSc.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>一个“休而不退”者内心深处的愧疚</p>
-<p>慕毅飞/文</p>
-<p>早就想写这篇文章了。今天看到一则来自湖南的新闻，让我有了动笔的冲动。据《瞭望》周刊报道，在湖南一些地方，近期有些年龄并不算大的“局办委”或乡镇“一把手”、重要班子成员向上级打报告，要求按照地方“公务员50岁以上退居二线，可享受比在职时更高待遇”的政策，自请“早退”，成为“休而不退”的“散吏”。</p>
-<p>我就是这样的一个“散吏”。我来自浙江，从2008年开始“散吏”生涯，现在已经正式退休。我即使想纠错，现在也没机会了，因而只能写写愧疚文章。</p>
-<p>一是，愧对分文不少的薪资。八九年的时间里，什么都不干，照样拿工资，照样享受一点不少的福利待遇；而且工资不算低，属于年薪超过12万元的自行申报个税者。虽然并不是我自己不想干，而是政策不让干，但我吃的毕竟是白食，工资拿得实在有点不踏实。</p>
-<p>二是，愧对含辛茹苦的劳动者。他们起早贪黑，辛苦劳作，他们辛苦挣来的钱，凭什么要养活我们这样的尸位素餐者？用这样的方式养我们，他们心甘情愿吗？有什么人征求过他们意见吗？如果对他们没有愧疚感，我觉得正是极需愧疚的地方。</p>
-<p>三是，愧对朝九晚五的下属们。有资格“早退”的，必然是当过一官半职的人。换句话说，你退了以后，可以空出一个官位，你才有资格“早退”。那些跟我年龄相仿的没资格“早退”的下属们，则只能照常按时签到，一旦紧张起来，还得照样“白加黑”、“五加二”。悠闲地看着他们忙碌的身影，我难免会有些愧意。</p>
-<p>谁都知道，在工作岗位上，50岁是最佳年龄，经验最足，精力最强，牵挂最少；而且，能在基层混个一官半职的人，通常会有一定的能耐。让这样的人，拿着不低的薪资，赋闲在家，无疑是极大的浪费。看看我的同僚们，有四处架鸟遛狗的，有每天看电视剧的，有热衷玩网络游戏的……他们不给组织添麻烦，不利用余热牟私利，已经很优秀了，谁在乎他们像蜡烛烧了一半被硬生生掐灭的感觉呢？</p>
-<p>全国各地有多少这样赋闲的人？需要用多少财政收入来养活他们？这个账应该算。如果说是为了培养新干部，需要腾出位子给他们，那么试问，培养好了的干部都不用，干嘛又培养那么多新干部？有那么多经验丰富、年富力强的公务员闲置不用，何须每年再进那么多新的公务员？如果仅仅为了解决就业，这样的解决办法，性价比是不是太低？有关法规限定工作期满30年才能提前退休，有些地方擅自将30年改作20年，是否涉嫌违法？</p>
-<p>以前迟迟没写这篇文章，主要还是怕人说我恋栈，舍不得那一官半职，现在已经彻底退休了，也就不怕别人背后议论了。我有愧埋藏在内心深处多年，不吐不快，万一得罪了谁，也顾不得了。</p>
-<p>慕毅飞部分微博内容<a href="https://freeweibo.com/weibo/%40%E6%85%95%E6%AF%85%E9%A3%9E" target="_blank">存档</a></p>
-<p>消息<a href="https://twitter.com/wentommy/status/723382496763637762" target="_blank">来源</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E7%BB%99%E4%BA%88%E6%85%95%E6%AF%85%E9%A3%9E%E5%85%9A%E5%86%85%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86%E7%9A%84%E5%86%B3%E5%AE%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A/?category=18271" rel="tag">党内严重警告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E5%A4%84%E5%88%86/?category=18271" rel="tag">党内处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%95%E6%AF%85%E9%A3%9E/?category=18271" rel="tag">慕毅飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">言论审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B7%9D%E5%B8%88%E6%96%AD%E5%A4%B4%E5%91%BD%E6%A1%88%EF%BC%9A%E5%A3%B0%E8%AA%89%E5%B8%B8%E5%B8%B8%E6%98%AF%E8%A2%AB%E6%84%9A%E8%A0%A2%E8%B4%A5%E5%9D%8F%E6%8E%89/" target="cdt-mirror">唐映红 | 川师断头命案：声誉常常是被愚蠢败坏掉的</a>
-</h2>
-<p><p>4月15日曝出的川师大断头命案，本来不打算置评。这件令人感到不寒而栗的恐怖残杀案件，虽然案情细节超出人们的经验和想象，但人群中这种特异性的小概率事件总是难免会发生。将它过度诠释，或者试图从中提取出普遍的“问题”可能都是不恰当的。仅仅从案件本身而言，并不必然与学校或教育有关；以案发时保安距离现场只有10几米为由质疑管理，从某种意义上说也可能是不妥当的。</p>
-<p>在我看来，这件命案真正令人不安的还不是案件本身的血腥残暴，而是这么血腥残暴的凶杀命案竟然被精心地掩盖了起来。从案发的3月27日，到曝出的4月15日，半个多月的时间里，这件如此令人恐怖的凶杀命案竟然被学校和警方精心地掩盖了起来，外界一无所知。</p>
-<p>按说，这种特异性的小概率事件发生后，学校应当承担的管理责任有限，警方如果秉公办案也无须要掩盖什么。案情及时在第一时间公布，不仅有助于减少公众对案件的猜测和怀疑，更能够消弭公众的不安。这种小概率事件正是因为具有特异性，寻常的管理或者预案并不能常规性地纳入到工作范围，所以某种意义上具有防无可防的特点，也因此可能发生在任何一个学生，任何一名公众身上，所以公众当然有权了解案情的必要讯息。</p>
-<p>可是，学校和警方在长达半个多月的时间里，没有披露案情的任何讯息。甚至在川师大的网站上，从3月27日迄今，发布了50余条学校要闻，无一个字涉及此事。案情竟然是受害人家属披露的。受害人家属将所了解的案情细节在微博上披露此事，这件令人惊愕的校园残暴凶杀命案才得以为外界所知晓，进而引爆舆论。</p>
-<p>随着受害人家属公布案情意味着学校和警方对此事的缄默被打破，关于此事为何被精心掩盖的各种“流言”也开始迅速地得到传播。例如，凶嫌的家庭背景、学校和警方之所以掩盖的阴谋论猜想、对学校管理的质疑，等等。正常的机构在此时应该倍感压力，及时“亡羊补牢”，弥补因为掩盖讯息而导致可能的声誉受损。</p>
-<p>有意思的是，学校在舆论已经哗然的情况下对此事的应对措施竟然是升级的封锁和屏蔽。记者进校试图参访遭到成队保安的拦阻和拒绝，甚至在校园里拍摄与案情无关作业的本校学生也受到殃及，被保安阻止了。</p>
-<p>警方的反应更是令人诧异。办案警方竟然要求披露受害人讯息的受害人家属给警方写致歉信，并指其为“泄露国家机密”，要求受害人家属交出微博帐号和密码。什么时候开始，受害人的讯息成为“国家机密”了？如果当地警方的逻辑能够成立，那这个国家的“机密”将多到足以压垮13亿头骆驼。</p>
-<p>案情被披露后，警方和学校才被动地发布了关于本案语焉不详的公告。其中，完全不提公众最关心，也是整个社会人们最担心的涉及法律公正有关的凶嫌的讯息。特别是在“流言”已经广为传播，直指凶嫌背景为警方子弟，学校和当地警方被“公关”搞掂所以才遮遮掩掩的情况下，只字不提凶嫌讯息，实在是令人不可理解。</p>
-<p>如果说，学校和当地警方担心因为离奇命案而损害治安声誉，因此遮遮掩掩尚情有可原，但是在案情已经被披露，而且“流言”四起的时候仍然遮遮掩掩，那损害的就不仅仅是治安声誉，而是学校诚实与能力，警方办案是否秉公执法以及公正与否。既然学校和警方不惜损害自身声誉也要一意孤行地遮遮掩掩，那么最可能就只有两种解释。从阴谋论的角度，学校和警方因为凶嫌家庭背景为体制内公职身份所以区别对待，特别是在近些年曝光出的多起警方参与伪造证据为亲者脱罪或构陷无辜的先例，所以这种阴谋论的推测并非空穴来风。另一种解释则假设学校和警方确实没有偏袒，也无阴谋私心，那就只能归咎于这两个机构令人匪夷所思的愚蠢，以为在互联网时代靠把头埋进沙子就能够回避压力。</p>
-<p>说实话，我宁可相信学校和警方是因为愚蠢所以才颟顸地试图遮掩已经天下哗然的残暴断头命案。这样至少不会对新常态下的法律公正过于绝望。可是，关于本案的神奇“逆转”果然就发生了。</p>
-<p>学校和警方一直掩盖的关于凶嫌的讯息被媒体采访获悉，果然与之前的“流言”一致，凶嫌藤某父母皆为某监狱的公职人员身份，其爷爷也是一位监狱离休人员，可以称得上是司法系统的公职世家。</p>
-<p>更令人惊奇的是，凶嫌家属果然在舆论哗然的情况下，声称凶嫌有精神病，有过两次自杀史，并于4月17日申请了司法精神鉴定。令人费解的是，如果凶嫌确有精神问题，那么其家属不是应当在案发后及时提出司法精神鉴定吗？如果案发后第一时间提出鉴定，那么鉴定结果的可靠性当然比事隔半个多月后再鉴定要高得多。按照法律相关规定，哪怕是精神分裂症患者，也仅仅在犯罪行为发生时处于发病期才有可能减轻或免责。如果犯罪行为发生时，行为人并未处于发病期，或者即使处于发病期但没有证据表明行为人的行为不受意识控制那么就构不成减轻或免责的法律要件。过了半个多月，在媒体挖掘出凶嫌的家庭背景果然如“流言”传播一致时，才果然以精神问题来脱罪，并申请司法精神鉴定。无论从哪个角度来看，都脱不了猫腻的嫌疑。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016041516_1761da6ba75b0705b4c452PkDDiwiNc3.png?resize=600%2C480" alt="网络图片" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016041516_1761da6ba75b0705b4c452PkDDiwiNc3.png?resize=300%2C240 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016041516_1761da6ba75b0705b4c452PkDDiwiNc3.png?resize=768%2C614 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016041516_1761da6ba75b0705b4c452PkDDiwiNc3.png?w=900 900w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>网络图片</p></div>
-<p>至于凶嫌是否可能在案发时正好精神病发病期，就需要通过及时公布的案情细节，以及透明公正的司法精神鉴定来予以澄清。不公布案情细节，缺乏透明公正的司法精神鉴定，什么样的鉴定书不能“炮制”出来？</p>
-<p>无论学校、警方和凶嫌家庭愿意不愿意，当案情被披露后，从相关披露的案情细节看不出凶嫌有任何可能减轻或免责的精神病发病迹象。他事先买好不锈钢菜刀，然后把受害人叫到宿舍的学习室，然后50多刀残暴地剁杀受害人，然后告知其他同学报警。整个过程他完全清醒，完全知道自己在干什么，看不出有任何出现幻觉、意识朦胧的迹象来。</p>
-<p>不言而喻，从犯罪心理学角度，能干出残暴剁杀受害人的凶嫌，往往反映了他的心理变态。但心理变态并不等于可以免责的精神障碍，更可能反映的是他的反社会人格障碍。事实上，绝大多数令人发指的暴力犯罪者都具有反社会人格障碍，这种人格障碍甚至被称为“犯罪人格”。尽管反社会人格障碍者未必就一定会犯罪，但严重的暴力犯罪却往往与犯罪人的社会人格障碍有关。</p>
-<p>其实，不管凶嫌是人格障碍也好，还是其父母声称的抑郁症、自闭症，或者可能构成减轻或免责的精神分裂症，从他极端变态的剁杀受害人来看，他必然存在着由来已久的心理人格问题。这其实从川师大对入学新生进行的心理普查就可以查询到。</p>
-<p>每年新生入学后的10月，川师大的大学生心理健康教育服务中心都会组织对各个学院的新生进行心理普查，使用量表为SCL-90（Self-reporting Inventory，症状自评量表）、SDS（Self-Rating Depression Scale，抑郁自评量表）、EPQ（Eysenck Personality Questionnaire，艾森克人格问卷）。其中的SCL-90是使用最为广泛的精神障碍和心理疾病门诊检查量表。如果凶嫌藤某具有某种心理精神障碍，那么通过心理普查的统计分析结果就能够反映出来。</p>
-<p>那么，就坐等川师大适时公布凶嫌的心理普查结果。如果学校想帮助凶嫌，那么公布其心理普查报告并且其中确实反映精神病性的障碍，那也不枉顶住压力遮掩了这么久。如果学校想澄清自己的责任，表明并未在此事中有所偏袒，那么及时公布如实的心理普查报告，就能表明凶嫌到底是精神病性的障碍，还是其他不涉及法律规定可予减轻或免责的其他心理行为障碍。</p>
-<p>不过，一个愚蠢到将自己声誉给“黑”掉的机构，恐怕做什么都不会令人信服。不公布会被批评为掩盖事实；公布如果有助于凶嫌又会被怀疑作弊。只有公布而且表明凶嫌并无可能导致法律上减轻或免责的精神病性障碍的结果才更可能被接受。可事实是这样的吗？</p>
-<p>一个机构的声誉常常就是这样被愚蠢所败坏掉的。或者是纯粹的愚蠢，或者是坏得愚蠢。</p>
-<p>附：</p>
-<p>根据今天相关报道，川师大披露了凶嫌的心理普查记录，<strong>没有明显异常</strong>，也未被纳入需要关注的预警名单。换言之，至少<strong>从半年前的心理普查记录来看，并不支持凶嫌患有精神病性障碍的假设。</strong></p>
-<p>另，从公共关系心理学角度，当案情被受害人家属披露后，川师大正确的做法是准备比较详细的案情通稿提供给来访记者和媒体，必要时甚至可以召开新闻发布会，总之，将舆论主导权掌握在自己手中。遮蔽信息，驱赶记者不仅会在细节陆续披露后陷入被动，而且那些被驱赶的记者下笔也不会留情。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B7%9D%E5%B8%88%E6%96%AD%E5%A4%B4%E5%91%BD%E6%A1%88%EF%BC%9A%E5%A3%B0%E8%AA%89%E5%B8%B8%E5%B8%B8%E6%98%AF%E8%A2%AB%E6%84%9A%E8%A0%A2%E8%B4%A5%E5%9D%8F%E6%8E%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%9D%E5%B8%88%E5%A4%A7%E6%9D%80%E4%BA%BA/?category=18271" rel="tag">川师大杀人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%90%86%E6%99%AE%E6%9F%A5/?category=18271" rel="tag">心理普查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E8%A0%A2/?category=18271" rel="tag">愚蠢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AD%E5%A4%B4%E5%91%BD%E6%A1%88/?category=18271" rel="tag">断头命案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E6%9E%84%E5%A3%B0%E8%AA%89/?category=18271" rel="tag">机构声誉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">杀人事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E5%BF%83%E6%8E%A9%E7%9B%96/?category=18271" rel="tag">精心掩盖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -772,7 +775,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%9D%E5%B8%88
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -782,5 +785,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%9D%E5%B8%88
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

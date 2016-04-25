@@ -21,9 +21,163 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E4%BA%94%E5%9C%B0%E9%A9%BB%E5%8D%8E%E5%A4%96%E4%BA%A4%E5%AE%98%E6%8E%A2%E5%80%AA%E7%8E%89%E5%85%B0%E5%8F%97%E9%98%BB-%E5%AE%98%E5%AA%92%E8%AE%A5%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">BBC | 五地驻华外交官探倪玉兰受阻 官媒讥失败</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160425041334_ni_yulan_beijing_sudworth_976x549_bbc_nocredit.jpg?resize=550%2C309" alt="160425041334_ni_yulan_beijing_sudworth_976x549_bbc_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160425041334_ni_yulan_beijing_sudworth_976x549_bbc_nocredit.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160425041334_ni_yulan_beijing_sudworth_976x549_bbc_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>五名来自欧盟、德国、法国、瑞士和加拿大的驻华外交官试图到北京拆迁维权人士倪玉兰家中探访但遭到阻拦，中共《人民日报》旗下《环球时报》对此发文批评。</strong></p>
+<p>据美联社报道，五名使馆人员星期六（4月23日）在倪玉兰位于北京西城区的住所外被六名便衣人员拦截。</p>
+<p>《环球时报》总编辑胡锡进星期一（25日）以笔名单仁平撰文，批评五名外交官“针对中国内政搞轻浮的‘串连’行为”，并称“西方对人权议题的操弄越来越失败”。</p>
+<p>美国国务院上月底向倪玉兰颁发2016年“国际妇女勇气奖”表扬其维权努力，《环球时报》评论称，此举是“忽悠、撺掇一名普通中国人”，做法“很不地道”。</p>
+<p>倪玉兰此前向BBC表示她无法出境领奖。她星期六对外表示，自4月13日她到美国驻华大使馆领奖后，警方与安全部门对其严密监控，阻止外出。</p>
+<p>据美联社报道，五名外交官在倪玉兰住所外被六名便衣人员“以脏话侮辱”，丈夫董继勤到门外与外交官交谈，并接收了外交官们买来的食品。</p>
+<p><strong>“西方忽悠”</strong></p>
+<p>本身住房曾遭强拆的倪玉兰曾协助因2008年北京奥运相关房地产开发而被强行拆迁的居民以法律维权，2002因拍摄强拆现场与警察发生冲突被殴打致残。</p>
+<p>她在2012年被起诉“寻衅滋事”罪和“诈骗罪”，判刑两年半，其后“诈骗罪”上诉获判无罪，至2013年10月刑满出狱。</p>
+<p>胡锡进此前在华盛顿公布倪玉兰获奖时曾撰文指责美方把奖项“颁给‘中国假律师’”。他在星期一的文章中批评倪玉兰说：“在拆迁补偿金持续高企、很多人盼拆迁的今天，她坚持指责北京市政府以‘侵犯业主利益’的方式搞‘强拆’。”</p>
+<p>胡锡进对外交官试图探访倪玉兰评论说：“五名分属不同国家的西方外交官‘串连’在一起，已经不是简单的‘看望’一个人，而是联合做出一个政治行动。他们自己也说，这样做就是要释放‘明确信息’。而他们在一个主权国家里这样做，是有违外交官的通常使命的。”</p>
+<p>文章继而说，“那位倪姓女士学历不高，辨别国际政治的能力恐怕有限，对自己究竟在做什么也未必能搞得很明白”，“西方这样忽悠、撺掇一名普通中国人做这种事情是很不地道的”，“只能增加中国人对西方的负面观感”。</p>
+<p>胡锡进称：“西方这种脱离中国大众的偏执让我们很失望，也对西方以‘人权’做幌子来同中国博弈、找我们的麻烦产生了严重怀疑。应当说，西方对人权议题的操弄越来越失败，多数中国人不仅对他们不领情，而且讨厌他们那样做。”</p>
+<p>“北京有那么多人买不起房，西方还如此高调支持一个‘讹政府’、闹拆迁高额补偿款的所谓‘维权律师’，这不得人心。西方的外交官们如果连这一点都搞不明白，那他们也够笨的，或者‘太机灵了’：不仅耍了那名北京女士，也诳了他们的政府。”</p>
+<p>（撰稿：叶靖斯　责编：萧尔）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E4%BA%94%E5%9C%B0%E9%A9%BB%E5%8D%8E%E5%A4%96%E4%BA%A4%E5%AE%98%E6%8E%A2%E5%80%AA%E7%8E%89%E5%85%B0%E5%8F%97%E9%98%BB-%E5%AE%98%E5%AA%92%E8%AE%A5%E5%A4%B1%E8%B4%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E9%97%AE%E9%A2%98/?category=18271" rel="tag">人权问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%AA%E7%8E%89%E5%85%B0/?category=18271" rel="tag">倪玉兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E5%8B%87%E6%B0%94%E5%A5%96/?category=18271" rel="tag">国际妇女勇气奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E6%8A%A5-%E6%9C%80%E9%AB%98%E6%B3%95%E5%85%AC%E5%B8%8310%E8%B5%B7%E5%BC%98%E6%89%AC%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC/" target="cdt-mirror">人民法院报 | 最高法公布10起弘扬社会主义核心价值观典型案例</a>
+</h2>
+<p><p><strong>最高人民法院公布10起弘扬社会主义核心价值观典型案例</strong></p>
+<p>培育和践行社会主义核心价值观，是推进中国特色社会主义伟大事业、实现中华民族伟大复兴中国梦的战略任务。人民法院作为国家审判机关，担负着执法办案、定分止争、惩恶扬善、维护正义的重要使命。通过审判执行工作，弘扬社会主义核心价值观，促进全社会不断提高社会主义核心价值观建设水平，是人民法院义不容辞的责任。为深入贯彻落实中共中央《关于培育和践行社会主义核心价值观的意见》和习近平总书记关于社会主义核心价值观的重要论述精神，最高人民法院继发布《关于在人民法院工作中培育和践行社会主义核心价值观的若干意见》后，又精选了10起弘扬社会主义核心价值观典型案例，并用通俗易懂的语言、简明扼要的风格，对基本案情、法律依据、弘扬价值作了提炼。这10起案例分别从家庭美德、社会公德、公序良俗、友善互助、诚信经营、诚信诉讼、诚实守法、环境公益等不同角度体现和弘扬了社会主义核心价值观的价值目标、价值取向、价值准则。为充分发挥司法裁判对社会价值的重要示范引领作用，进一步促进全社会积极培育和践行社会主义核心价值观，现将这10起典型案例予以公布。</p>
+<p><strong>案例一：刘某诉刘某某、周某某共有房屋分割案</strong></p>
+<p><strong>弘扬的价值：家庭美德</strong></p>
+<p>孝敬父母，是中国社会传承几千年的重要家庭伦理道德。父母为子女含辛茹苦，将子女培养成人，子女长大后理应善待父母，为他们营造安定的生活环境。本案中，父母为购房支付了大部分房款，并从子女利益考虑，让女儿占有房屋产权90%的份额，但作为女儿，原告刘某却意图将父母占有的份额转让给自己，从而占有房屋的全部份额，损害了父母的利益，人民法院依法不予支持。</p>
+<p>【基本案情】</p>
+<p>原告刘某系两被告的独生女。2012年11月，原、被告共同购买重庆市某小区的房屋一套，大部分房款由两被告支付，双方就房屋产权约定原告占90%份额，两被告各占5%份额。该房是两被告的唯一居住房屋。后原、被告双方因房屋装修产生矛盾，原告向法院提起诉讼，请求判决将两被告所占房屋产权份额转让给原告所有，原告补偿两被告房屋款2.8万元。被告认为该房屋主要是自己出资购买，不同意向原告转让产权份额。人民法院经审理认为，虽然本案讼争房屋系原告和两被告按份共有，并约定原告占房屋产权90%的份额，但两被告与原告系父母子女关系，双方以居住为目的购房，两被告支付了大部分房款，并出于对子女的疼爱，将90%产权登记在原告名下。现原告要求被告转让产权份额，但被告不同意。依物权法第七条之规定，原告要求父母将所占房屋份额转让于己的诉求与善良风俗、传统美德不符，依法不予支持。</p>
+<p>【法律指引】</p>
+<p>《中华人民共和国物权法》</p>
+<p>第七条物权的取得和行使，应当遵守法律，尊重社会公德，不得损害公共利益和他人合法权益。</p>
+<p><strong>案例二：“北燕云依”诉某派出所拒绝办理户口登记案</strong></p>
+<p><strong>弘扬的价值：公序良俗</strong></p>
+<p>公民行使姓名权，应当符合法律规定，不得损害公序良俗。本案原告的父母在为其办理户口登记时，取名“北燕云依”，既未随父姓或母姓，也没有其他正当理由。公安机关拒绝对“北燕云依”进行户口登记，符合法律规定，恪守了公序良俗的要求，维护了正常社会管理秩序，得到了人民法院的依法支持。</p>
+<p>【基本案情】</p>
+<p>吕某、张某两夫妻在决定为女儿取名为“北燕云依”后，吕某前往某派出所为女儿申请办理户口登记，该派出所依照法律规定和法定程序，拒绝为其办理户口登记。吕某认为此行政行为侵犯其女儿的姓名权，遂以其女儿“北燕云依”的名义提起了行政诉讼，请求确认被告拒绝以“北燕云依”为姓名办理户口登记的行政行为违法。人民法院经审理认为，根据《全国人民代表大会常务委员会关于〈中华人民共和国民法通则〉第九十九条第一款、〈中华人民共和国婚姻法〉第二十二条的解释》的规定，公民行使姓名权，应当尊重社会公德，不得损害社会公共利益。在父母姓氏之外选取其他姓氏，应有不违反公序良俗的正当理由。本案原告“北燕云依”并不符合上述规定的情形，故判决驳回原告的诉讼请求。</p>
+<p>【法律指引】</p>
+<p>《全国人民代表大会常务委员会关于〈中华人民共和国民法通则〉第九十九条第一款、〈中华人民共和国婚姻法〉第二十二条的解释》</p>
+<p>公民依法享有姓名权。公民行使姓名权，还应当尊重社会公德，不得损害社会公共利益。</p>
+<p>公民原则上应当随父姓或者母姓。有下列情形之一的，可以在父姓和母姓之外选取姓氏：</p>
+<p>（一）选取其他直系长辈血亲的姓氏；</p>
+<p>（二）因由法定扶养人以外的人扶养而选取扶养人姓氏；</p>
+<p>（三）有不违反公序良俗的其他正当理由。</p>
+<p>少数民族公民的姓氏可以从本民族的文化传统和风俗习惯。</p>
+<p><strong>案例三：周某诉某公安分局拖延履行法定职责案</strong></p>
+<p><strong>弘扬的价值：社会公德</strong></p>
+<p>“文明健身、和谐生活”，既是社会主义精神文明的体现，也是法治精神的体现。广大群众积极参加健身活动，有利身心健康，增强体魄，但不能因此损害他人的合法权益。本案原告周某因社区居民在其楼下跳广场舞，严重影响生活安宁，向某公安分局报案处理未果后提起行政诉讼。人民法院依法判决该公安分局对周某的报案作出行政处理。本案也提醒广大群众：强身健体，也要尊重他人权利，这样才能真正保证健身的“幸福指数”，提升和谐共处的“文明指数”。</p>
+<p>【基本案情】</p>
+<p>原告周某居住在长沙市某社区，部分社区居民经常在晚上8点左右到其楼下的人行道上跳广场舞，音响器材音量过大，严重影响其安静生活。周某报警要求某公安分局依法进行处理。某公安分局接警后，多次到现场劝说跳舞居民将音响音量调小，或者更换跳舞场地，但一直未有明显效果。此后，原告向人民法院起诉，要求某公安分局依法处理。人民法院经审理认为，某公安分局对于原告报警所称的部分居民在原告楼下跳广场舞并使用音响器材这一行为是否存在违法事项，是否需要进行行政处罚等实质问题并未依法予以认定，遂判决某公安分局依法对周某的报案作出处理。判决生效后，该公安分局又数次对跳舞的人们进行劝解、教育，并加强与当地社区的合作，引导广场舞队转移至距离原处百米之外的空坪上。原告所住的社区也在政府部门的积极协调和支持下，与长沙某汽车站达成一致，将在车站附近建设一块专门用于广场舞等娱乐活动的健身场所，既避免噪音扰民，又给跳舞健身爱好者自由活动的场所。</p>
+<p>【法律指引】</p>
+<p>《中华人民共和国环境噪声污染防治法》</p>
+<p>第五十八条违反本法规定，有下列行为之一的，由公安机关给予警告，可以并处罚款：……（二）违反当地公安机关的规定，在城市市区街道、广场、公园等公共场所组织娱乐、集会等活动，使用音响器材，产生干扰周围生活环境的过大音量的……</p>
+<p>《中华人民共和国治安管理处罚法》</p>
+<p>第七条国务院公安部门负责全国的治安管理工作。县级以上地方各级人民政府公安机关负责本行政区域内的治安管理工作。</p>
+<p>治安案件的管辖由国务院公安部门规定。</p>
+<p>第五十八条违反关于社会生活噪声污染防治的法律规定，制造噪声干扰他人正常生活的，处警告；警告后不改正的，处二百元以上五百元以下罚款。</p>
+<p><strong>案例四：张某等诉杨某继承纠纷案</strong></p>
+<p><strong>弘扬的价值：友善互助</strong></p>
+<p>“远亲不如近邻”。邻里关系是人们生活中的重要关系，邻里之间互帮互助，是我国社会的优良传统和善良风俗。倡导、培育和维护良好的邻里关系，是互相关照、互相理解、和谐相处的社区建设的重要内容。本案中，杨某的父亲长期受到张某夫妇及其儿子的照顾，杨某的父亲将其房产遗赠给张某的儿子，于法有据，于情合理，人民法院依法予以支持。</p>
+<p>【基本案情】</p>
+<p>原告张某夫妇及其子与被告杨某的父亲是邻居关系。自上世纪五十年代以来，张某夫妇给予杨某父亲很多照顾，双方一直相处较好，往来较多。杨某多年未与父亲来往，直至2011年11月，才取得联系，并探望了父亲。此后，杨某父亲在住院期间，口头表示将其房屋遗赠给张某的儿子，并有多位证人在场证明。2012年3月，杨某父亲去世。后原、被告因杨某父亲的遗产继承问题发生诉讼，人民法院依法判决杨某父亲的房屋归张某的儿子所有，其他财产由杨某继承。</p>
+<p>【法律指引】</p>
+<p>《中华人民共和国继承法》</p>
+<p>第五条继承开始后，按照法定继承办理；有遗嘱的，按照遗嘱继承或者遗赠办理；有遗赠扶养协议的，按照协议办理。</p>
+<p>第二十五条继承开始后，继承人放弃继承的，应当在遗产处理前，作出放弃继承的表示。没有表示的，视为接受继承。</p>
+<p>受遗赠人应当在知道受遗赠后两个月内，作出接受或者放弃受遗赠的表示。到期没有表示的，视为放弃受遗赠。</p>
+<p><strong>案例五：杨某诉某财产保险股份有限公司意外伤害保险合同纠纷案</strong></p>
+<p><strong>弘扬的价值：诚实守信</strong></p>
+<p>诚实信用原则是民商事活动的基本原则。保险公司的提示、说明义务，是在保险合同领域贯彻诚实信用原则的基本要求。本案被告保险公司就保险合同中的免责条款，未尽到提示和说明义务，应当依法承担保险责任。</p>
+<p>【基本案情】</p>
+<p>2013年，杨某在某财产保险股份有限公司（以下简称保险公司）处购买了两份“添安愉快”卡式保单，并按照该卡背面“本卡采用电话激活方式”的提示激活了该卡。2014年，杨某因交通事故受伤，被鉴定为九级伤残。杨某遂将保险公司诉至人民法院，要求其按照保单约定支付全额保险金及意外医疗住院补助，共计16万余元。保险公司辩称，应当按照保险合同附带的《人身保险残疾程度与保险金给付比例表》（下称《给付比例表》）的标准，按比例进行赔付，而非全额赔付。一审法院经审理认为，保险公司有法定义务对其提供的格式条款中的免责条款进行提示和明确说明。“添安愉快”卡式保险合同所附带《给付比例表》属于减轻、免除保险公司责任的格式条款。保单背面载明“本卡采用电话激活方式”，但在该卡销售环节以及电话激活流程设置中，均无法体现保险公司已经对相关免责条款进行了提示和明确说明，故判决被告按约定全额赔付保险金和意外医疗住院补助。二审法院在明法释理的基础上，促成了双方当事人的调解，由被告一次性赔付原告近14万元。</p>
+<p>【法律指引】</p>
+<p>《中华人民共和国保险法》</p>
+<p>第十七条订立保险合同，采用保险人提供的格式条款的，保险人向投保人提供的投保单应当附格式条款，保险人应当向投保人说明合同的内容。</p>
+<p>对保险合同中免除保险人责任的条款，保险人在订立合同时应当在投保单、保险单或者其他保险凭证上作出足以引起投保人注意的提示，并对该条款的内容以书面或者口头形式向投保人作出明确说明；未作提示或者明确说明的，该条款不产生效力。</p>
+<p>《最高人民法院关于适用〈中华人民共和国保险法〉若干问题的解释（二）》</p>
+<p>第九条第一款保险人提供的格式合同文本中的责任免除条款、免赔额、免赔率、比例赔付或者给付等免除或者减轻保险人责任的条款，可以认定为保险法第十七条第二款规定的“免除保险人责任的条款”。</p>
+<p>第十二条通过网络、电话等方式订立的保险合同，保险人以网页、音频、视频等形式对免除保险人责任条款予以提示和明确说明的，人民法院可以认定其履行了提示和明确说明义务。</p>
+<p>第十三条保险人对其履行了明确说明义务负举证责任。</p>
+<p>投保人对保险人履行了符合本解释第十一条第二款要求的明确说明义务在相关文书上签字、盖章或者以其他形式予以确认的，应当认定保险人履行了该项义务。但另有证据证明保险人未履行明确说明义务的除外。</p>
+<p><strong>案例六：张某诉某商贸有限责任公司买卖合同纠纷案</strong></p>
+<p><strong>弘扬的价值：诚信经营</strong></p>
+<p>诚实守信不但是基本道德准则，也是市场活动应当遵循的基本原则。针对当前一些地方假冒伪劣产品屡禁不止的现象，应当旗帜鲜明地倡导、褒扬诚实守信，坚决谴责、制裁和打击不诚信行为，努力营造让人民群众“买的放心、吃的安心、用的顺心”的食品安全环境。本案被告出售“三无”食品，原告主张退还货款并支付货款十倍的惩罚性赔偿金，人民法院依法予以支持。</p>
+<p>【基本案情】</p>
+<p>张某先后在某商贸有限责任公司（以下简称商贸公司）处购买大瓶史记牌香油5瓶、小瓶史记牌香油47瓶，支付价款654元，商贸公司出具了购物发票。数月后，张某向某市食品药品监督管理局举报上述二种香油为“三无”食品。某市食品药品监督管理局经查证属实，对商贸公司因涉嫌经营“三无”食品给予行政处罚。之后，张某向人民法院起诉，要求商贸公司退还货款654元并支付货款十倍的赔偿金6540元。人民法院在查明事实的基础上，依法支持了张某的这一诉求。</p>
+<p>【法律指引】</p>
+<p>《中华人民共和国食品安全法》</p>
+<p>第四条食品生产经营者对其生产经营食品的安全负责。</p>
+<p>食品生产经营者应当依照法律、法规和食品安全标准从事生产经营活动，保证食品安全，诚信自律，对社会和公众负责，接受社会监督，承担社会责任。</p>
+<p>第一百四十八条第二款生产不符合食品安全标准的食品或者经营明知是不符合食品安全标准的食品，消费者除要求赔偿损失外，还可以向生产者或者经营者要求支付价款十倍或者损失三倍的赔偿金；增加赔偿的金额不足一千元的，为一千元。但是，食品的标签、说明书存在不影响食品安全且不会对消费者造成误导的瑕疵的除外。</p>
+<p><strong>案例七：某船厂诉某船务有限公司船舶修理合同纠纷案</strong></p>
+<p><strong>弘扬的价值：诚信诉讼</strong></p>
+<p>“诚者，天之道也”。诚实信用是中华民族的传统美德，是法治国家与法治社会建设的重要内容。本案双方当事人恶意串通，虚构债权债务关系，企图以诉讼方式侵害他人合法权益，进行虚假诉讼，人民法院依法驳回其诉讼请求，并对当事人处以罚款。</p>
+<p>【基本案情】</p>
+<p>原告某船厂起诉被告某船务有限公司拖欠船舶维修费380万元，请求法院判令被告支付船舶维修款、违约金共431.85万元。在案件审理过程中，人民法院发现诸多疑点，依法调取证据后查明，原、被告恶意串通，虚构船舶维修的事实，共同伪造有关证据，企图损害他人合法权益，构成虚假诉讼，遂判决驳回原告的诉讼请求，并依法对原、被告各处罚款人民币20万元。</p>
+<p>【法律指引】</p>
+<p>《中华人民共和国民事诉讼法》</p>
+<p>第十三条第一款民事诉讼应当遵循诚实信用原则。</p>
+<p>第一百一十二条当事人之间恶意串通，企图通过诉讼、调解等方式侵害他人合法权益的，人民法院应当驳回其请求，并根据情节轻重予以罚款、拘留；构成犯罪的，依法追究刑事责任。</p>
+<p><strong>案例八：金某伪证案</strong></p>
+<p><strong>弘扬的价值：诚实守法</strong></p>
+<p>在诉讼中如实作证，作为每一个公民都应当履行的义务，是维护司法正常秩序，确保司法裁判公平公正的重要因素。虚假作证不但严重影响裁判结果的公正性，危害司法权威，而且直接侵害当事人合法权益，损害社会诚信建设。本案金某在诉讼中故意作伪证，严重违背诚实信用原则，违反了法律义务，受到了应有的刑事制裁。</p>
+<p>【基本案情】</p>
+<p>在公安机关侦查胡某涉嫌故意伤害案件过程中，被告人金某以证人身份，在接受侦查人员询问时，两次作出虚假证言，证明自己看见胡某往王某脸上殴打两拳，导致胡某先后被刑事拘留、逮捕，并被移送起诉。金某接受检察人员询问时，推翻了以前关于自己看见胡某殴打王某的证言，承认自己在公安机关侦查期间作了伪证。人民法院认为，金某在刑事诉讼过程中，对与案件有重要关系的情节，故意作虚假证明，意图陷害他人，其行为构成伪证罪。鉴于金某认罪态度较好，如实供述了自己的罪行，可从轻处罚，故判处其有期徒刑六个月。</p>
+<p>【法律指引】</p>
+<p>《中华人民共和国刑法》</p>
+<p>第三百零五条在刑事诉讼中，证人、鉴定人、记录人、翻译人对与案件有重要关系的情节，故意作虚假证明、鉴定、记录、翻译，意图陷害他人或者隐匿罪证的，处三年以下有期徒刑或者拘役；情节严重的，处三年以上七年以下有期徒刑。</p>
+<p><strong>案例九：高某诉上海某大学不授予学位案</strong></p>
+<p><strong>弘扬的价值：诚实守规</strong></p>
+<p>诚实信用，是社会主义社会的重要核心价值，也是中华民族的优秀道德传统。对每一个人而言，诚信乃立身之本。本案原告高某作为在校大学生，是国家的未来建设者，在考试中作弊，不仅违背诚信原则，更违反了国家法律法规和学校的规定，学校对其作出不授予学位的处理，人民法院依法予以支持。</p>
+<p>【基本案情】</p>
+<p>高某系上海某大学本科生，因在考试中作弊，被学校给予行政记过处分，该门课程成绩无效。学校学位评定委员会因此决定对高某不授予学士学位。高某不服，向人民法院提起行政诉讼。人民法院经审理认为，高某因考试作弊被取消课程成绩，不符合授予学士学位的规定，被告学校学位评定委员会不授予高某学位，符合国家法律法规和学校的规定，遂判决驳回高某的诉讼请求。</p>
+<p>【法律指引】</p>
+<p>《中华人民共和国刑法》</p>
+<p>第二百八十四条在法律规定的国家考试中，组织作弊的，处三年以下有期徒刑或者拘役，并处或单处罚金；情节严重的，处三年以上七年以下有期徒刑，并处罚金。</p>
+<p>为他人实施前款犯罪提供作弊器材或者其他帮助的，依照前款的规定处罚。</p>
+<p>为实施考试作弊行为，向他人非法出售或者提供第一款规定的考试的试题、答案的，依照第一款的规定处罚。</p>
+<p>代替他人或者让他人代替自己参加第一款规定的考试的，处拘役或者管制，并处或者单处罚金。</p>
+<p>《中华人民共和国学位条例》</p>
+<p>第八条学士学位，由国务院授权的高等学校授予；硕士学位、博士学位，由国务院授权的高等学校和科学研究机构授予。</p>
+<p>授予学位的高等学校和科学研究机构及其可以授予学位的学科名单，由国务院学位委员会提出，经国务院批准公布。</p>
+<p>《普通高等学校学生管理规定》</p>
+<p>第十六条学生严重违反考核纪律或者作弊的，该课程考核成绩记为无效，并由学校视其违纪或者作弊情节，给予批评教育和相应的纪律处分。给予留校察看及以下处分的，经教育表现较好，在毕业前对该课程可以给予补考或者重修机会。</p>
+<p><strong>案例十：某环保联合会诉某农化有限公司等环境污染责任纠纷案</strong></p>
+<p><strong>弘扬的价值：环境公益</strong></p>
+<p>生态环境，是人们共同生存和生活的必要条件，良好的生态环境是全社会的共同福祉，是重要的社会公共利益。无论是日常生活，还是生产经营，都不得以破坏和牺牲生态环境为代价，否则就要依法承担法律责任。本案中，某农化有限公司等六被告长期将工业废物直接排进河道，污染了水流，造成了严重环境损害。环保组织提起环境公益诉讼，人民法院依法判决排污企业承担环境损害责任。</p>
+<p>【基本案情】</p>
+<p>某农化有限公司等六被告违反法律规定，将其生产过程中产生的废酸等危险废物以低价销售给无危险废物处理资质的主体，偷排进河流，导致水体污染，造成严重环境损害。某环保联合会提起环境公益诉讼，要求六被告承担相应的侵权责任。人民法院在查明案件事实的基础上，依法判决六被告支付相应的环境修复费用1.6亿余元和鉴定评估费用，并制定具体恢复环境的工作方案。</p>
+<p>【法律指引】</p>
+<p>《中华人民共和国侵权责任法》</p>
+<p>第六十五条因污染环境造成损害的，污染者应当承担侵权责任。</p>
+<p>《中华人民共和国环境保护法》</p>
+<p>第五十八条对污染环境、破坏生态，损害社会公共利益的行为，符合下列条件的社会组织可以向人民法院提起诉讼：</p>
+<p>（一）依法在设区的市级以上人民政府民政部门登记；</p>
+<p>（二）专门从事环境保护公益活动连续五年以上且无违法记录。</p>
+<p>符合前款规定的社会组织向人民法院提起诉讼，人民法院应当依法受理。</p>
+<p>提起诉讼的社会组织不得通过诉讼牟取经济利益。</p>
+<p>《中华人民共和国水污染防治法》</p>
+<p>第二十九条第一款禁止向水体排放油类、酸液、碱液或者剧毒废液。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E6%8A%A5-%E6%9C%80%E9%AB%98%E6%B3%95%E5%85%AC%E5%B8%8310%E8%B5%B7%E5%BC%98%E6%89%AC%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B8%E5%9E%8B%E6%A1%88%E4%BE%8B/?category=18271" rel="tag">典型案例</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%B9%B2%E9%A2%84/?category=18271" rel="tag">司法干预</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95/?category=18271" rel="tag">最高法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%88%E4%BE%8B/?category=18271" rel="tag">案例</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%89%E8%BE%89%E5%9B%BE%E4%B9%A6-%E4%BB%8E%E4%B9%8C%E6%89%98%E9%82%A6%E5%88%B0%E5%A4%A7%E5%B1%A0%E6%9D%80%EF%BC%8C%E6%9C%89%E5%A4%9A%E8%BF%9C%EF%BC%9F/" target="cdt-mirror">三辉图书 | 从乌托邦到大屠杀，有多远？</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-%E4%B8%8B%E5%8D%887.15.17.png?resize=570%2C322" alt="Screen Shot 2016-04-23 at 下午7.15.17" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-下午7.15.17.png?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-下午7.15.17.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"><br><span>题图：来自电影《希特勒回来了》（2015）</span></p>
@@ -607,74 +761,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%9D%E5%B8%88
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%8F%96%E6%B6%88%E5%AF%B9%E6%BB%95%E5%BD%AA%E5%8D%9A%E5%A3%AB%E6%96%B0%E4%B9%A6%E7%9A%84%E5%87%BA%E7%89%88/" target="cdt-mirror">自由亚洲｜美国律师协会取消对滕彪博士新书的出版</a>
-</h2>
-<p><p>上周五，在美国纽约工作的人权律师、中国兴善研究所所长、纽约大学法学院访问学者-滕彪博士的新书被美国律师协会取消出版。</p>
-<p>4月20日滕彪介绍了事情的原委，他说“这本书是我在哈佛大学的时候，美国律师协会给我来信说希望我写这本书。关于我代理的一些案件，通过这些案件来讲述中国法律、社会和政治等各方面。然后我们就讨论了每一章写什么东西，然后他们就寄来了正式的合同。签了字之后，他们研究了之后给我回复说他们的领导不同意，害怕出版我的书会影响他们在中国的项目。他们（当时）寄来了正式的出版合同。”</p>
-<p>滕彪透露了原本计划出版的新书的大致内容，他说“（这本书）是我2003年以来，介入的一些人权案件。包括孙志刚事件等，包括工盟。所以我就讲述中国的维权律师、维权运动还有我自己的一些经历，被关押被酷刑这样一些经历。用讲故事的形式来描述中国目前的人权和其他方面。”</p>
-<p>但是滕彪还在继续寻找其他出版商。他说“因为上个星期五这个情况（指美律师协会取消对其新书的出版）出现之后就有一些出版商跟我联系。这本书还没有完成，但等到完成之后应该可以找到另外一个出版商。”</p>
-<p>当被问到是否还有其他出版计划，滕彪说“目前是只出这一本书，当然我还在计划写其他的书，但是跟这一本没有关系。”</p>
-<p>滕彪透露了该出版商给他的具体回复，他说“是因为一些具体的内容，因为书还没有正式写，他们只看到了一些提纲，大概他们了解了我的这个身份之后，害怕担心中国政府不高兴。他们给我回复的邮件也是这么说的，就说害怕让中国政府不高兴。从而影响他们在中国的一些合作，一些项目。”</p>
-<p>至于这本书具体什么时候会出版，滕彪说“可能几个月，甚至几年”</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E5%BE%8B%E5%B8%88%E5%8D%8F%E4%BC%9A%E5%8F%96%E6%B6%88%E5%AF%B9%E6%BB%95%E5%BD%AA%E5%8D%9A%E5%A3%AB%E6%96%B0%E4%B9%A6%E7%9A%84%E5%87%BA%E7%89%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BB%95%E5%BD%AA/?category=18271" rel="tag">滕彪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%B3%E6%B4%B2%E4%BA%BA%E9%AA%82%E5%8D%8E%E4%BA%BAchinaman-%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8B%8D%E6%89%8B%E7%A7%B0%E5%BF%AB/" target="cdt-mirror">【立此存照】澳洲人骂华人Chinaman 爱国青年拍手称快</a>
-</h2>
-<p><p>近日，疑有共青团背景的“青年力”官网账号就吴维事件发布了这样一条置顶微博：</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9D%92%E5%B9%B4%E5%8A%9B%E6%B4%8B%E5%A5%B4.png" rel="attachment wp-att-435655"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9D%92%E5%B9%B4%E5%8A%9B%E6%B4%8B%E5%A5%B4.png?resize=500%2C457" alt="青年力洋奴" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/青年力洋奴.png?resize=300%2C274 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/青年力洋奴.png?resize=768%2C703 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/青年力洋奴.png?resize=1024%2C937 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/青年力洋奴.png?w=2020 2020w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="http://weibo.com/5681482843/DrhqciIZM" target="_blank">@青年力网</a>：悉尼大学华裔教师辱华事件中，一位澳大利亚网友对为这位教师辩护和抨击自己种族的国人的评论</p>
-<p>Lol love all the chinamen <span>on</span> here defending this guy and bashing your own face. But as you enjoy our freedom and superior culture, <span>remeber</span> this:you will never be <span>a</span> aussie <span>,</span> we will never accept you as an aussie because you are a chinaman and always will be a chinaman.<em>（红字见文末编者注）</em></p></blockquote>
-<p>这则微博很快引来了许多“爱国青年”们的追捧，他们中很多人似乎认为，有自称澳大利亚人的网民对华人发表种族歧视的言论，是一件非常值得庆祝的事。微博评论中充斥着诸如“慕洋犬的悲哀”“卖祖宗的二鬼子”“跪舔别人也没人理你”“背叛自己国家的下场”等幸灾乐祸式的表达。</p>
-<p><strong>觉得被吴维冒犯时指控对方种族歧视，向学校施压致其辞职；有自称澳洲人对吴维等华人使用“chinaman”这种类似称黑人N-word的极端种族主义词汇时，却拍手称快。这是怎样一种双重标准？</strong>他们对种族歧视的态度到底是怎样的？那些对吴维的指控到底是不是建立在所谓的辱华／种族歧视的<strong>言论本身</strong>上？还是说对方的<strong>华裔身份</strong>才是重点？</p>
-<p>@青年力网 还就吴维事件发表了一篇题为《<a href="http://weibo.com/p/1001603964940842103053?mod=zwenzhang" target="_blank">跪下去的洋奴，站不起的精神</a>》的文章。在把吴维及其支持者批判一番，称他们为下跪的“洋奴”后，作者在结尾处写到：</p>
-<blockquote><p>诚然，现在的中国社会还不那么尽如人意，可是，中国的发展速度放眼世界却是无人能及。小编不知道，他们还会跪多久，也许，到了中国腾飞的时候，他们一定会争先恐后地想要站起来，只是到那时，这也会变成一件难事吧。</p></blockquote>
-<p>“<a href="http://qingnianli.com/" target="_blank">青年力</a>”网站仅有的三个友情链接截图：<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png" rel="attachment wp-att-435656"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png?resize=500%2C95" alt="Screen Shot 2016-04-20 at 10.42.09 PM" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png?resize=300%2C57 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png?resize=768%2C146 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png?resize=1024%2C195 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-20-at-10.42.09-PM.png?w=1378 1378w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/3215829407" target="_blank">@妹妹要顺顺</a>：之前就说了你要舔人家还要看人家愿不愿意让你舔呢，你就是天天喊着我是澳大利亚人，人家也不可能真把你当澳大利亚人看，没办法，什么多元社会那都是骗小清新的，种族外貌就在那儿摆着呢<img title="[挤眼]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c3/zy_org.gif" alt="[挤眼]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1276982315" target="_blank">@清风徐徐彩云飘飘</a>：这就是慕洋犬的悲哀，最终就是孤魂野鬼<img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1957695794" target="_blank">@美人如画如梅-炎</a>：慕洋犬以为入了洋人的狗洞就是洋大人了，真是太可笑，在洋人眼里黄皮肤的慕洋犬不过是一条野狗而已</p>
-<p><a href="http://weibo.com/5867937966" target="_blank">@种花当家兔</a>：唉，二鬼子不仅可恨，还很可悲，骂自己祖宗，跪舔外国爹，然而外国爹从来都没有把慕洋犬当人看。吴维狗们，洗洗你们的狗耳，好好听听你们澳洲爹的训话吧。</p>
-<p><a href="http://weibo.com/2234220894" target="_blank">@whitedestiny</a>：chinaman 这词充满了racism的感觉 还是那熟悉的whitepig 的味道 不过我喜欢 抽醒你个假洋鬼子 背叛自己的同族最后结果就是两边都被排挤</p>
-<p><a href="http://weibo.com/2891711234" target="_blank">@Town-s</a>：自己在澳大利亚也就当了条狗，还跑回来装犊子，让别人以为自己活的多好一样，狗就是狗，到那里都是狗。</p>
-<p><a href="http://weibo.com/2945144777" target="_blank">@沧海明月Y</a><i></i>：白皮猪永远是白皮猪，黑鬼永远是黑鬼。</p>
-<p><a href="http://weibo.com/1283789317" target="_blank">@心可转境</a>：二鬼子以为自己卖了祖宗就能成为鬼子了，到头来发现自己只不过成了个“二”</p>
-<p><a href="http://weibo.com/5867937966" target="_blank">@种花当家兔</a>：唉，二鬼子不仅可恨，还很可悲，骂自己祖宗，跪舔外国爹，然而外国爹从来都没有把慕洋犬当人看。吴维狗们，洗洗你们的狗耳，好好听听你们澳洲爹的训话吧。</p>
-<p><a href="http://weibo.com/2906249447" target="_blank">@小雪儿shelly</a>：自己国家不爱 自己民族不爱的人 又怎么会爱别人的国家？？？即使你爱别国 跪舔成狗 别国也不会承认你 因为你狗都不如 随时当叛徒的人 怎可能得到尊重？？？别傻了</p>
-<p><a href="http://weibo.com/5315630169" target="_blank">@秦铁汉血</a>：历史上叛徒的下场，大家有看过吗？一个能背叛自己国家的人，同样也能背叛现在的主子。叛徒，利用完就是一具尸体</p>
-<p><a href="http://weibo.com/3316941227" target="_blank">@Bloody-RocknRolla</a>：只不过澳大利亚一帮贱种不知道哪里来的优越感<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908d.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908d.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908d.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/GKLoma" target="_blank">@GK-Loma</a>：我想到了一身黄衣服的二鬼子<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2660329597" target="_blank">@刀刀love金鱼</a>：背弃自己族群的人，是永远不会被别人接纳的，自己种族都能辱骂的人，终究是猪八戒照镜子，里外不是人。</p>
-<p><a href="http://weibo.com/1836026284" target="_blank">@卷卷猪小昌</a><i></i>：哈哈，两边不是人，活该</p>
-<p><a href="http://weibo.com/5866066323" target="_blank">@一生一叹一痕沙__</a>：这种有奶便是娘的人出了国就以为是外国人了？？？但是他永远改变不了基因问题<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">想要真正做外国人就自杀重新投胎吧</p>
-<p><a href="http://weibo.com/5257324876" target="_blank">@俺的痴呆</a>：卓越文化？Excuse me?你确定要和中国比文化？<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2863350100" target="_blank">AC-任远</a>：洋奴们脸疼吗，这巴掌打的啪啪的，快滚过来洗。</p>
-<p><a href="http://weibo.com/2300416582" target="_blank">@槿丷沐潇</a><i></i>：<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">公知和洋奴一阵心碎</p>
-<p><a href="http://weibo.com/2788184670" target="_blank">@怒山河</a>：不管你英语如何的流利，你吃了多少薯条汉堡，喝了多少可口可乐，你的黄皮肤永远是黄皮肤，黑眼睛永远是黑眼睛。你觉得你融入了对方的族群，对不起只是你觉得。</p>
-<p><a href="http://weibo.com/3608609505" target="_blank">@杨枪枪枪</a>：真是无语，美爹都算了，还有拿澳洲当爹的。<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">看看吧，澳爹咋说的。</p>
-<p><a href="http://weibo.com/3802666651" target="_blank">@又见冰轮1</a>：回复<a href="http://weibo.com/n/%E8%94%9A%E8%93%9D1916ROC?from=feed&loc=at" target="_blank">@蔚蓝1916ROC</a>:你是哪家的狗？祖宗不是中国的吧？八国联军侵入中国的时候，你祖奶奶被慰问过吧？不然中国人如何说的出畜牲的话？</p>
-<p>——————————-<br><a href="http://weibo.com/2390518517" target="_blank">@逆流疾走RED</a>：哎，小粉红自污辱华一点也不手软啊</p>
-<p><a href="http://weibo.com/enzokwok" target="_blank">@EnzoKwok</a>： 这要是澳洲人写的这就是小学没毕业的澳洲人，A aussie 是证据。如果这个是澳洲人，这就是绝对的种族歧视者，否则任何场合都不应用chinaman 这个词的，你们既然要以种族歧视的名义围剿一个称某些中国人为豚的澳洲人，就麻烦不要用一个开口chinaman的人的话为依据，惨不忍睹的自相矛盾</p>
-<p><a href="http://weibo.com/ghliang?refer_flag=1005055013_" target="_blank">@袋鼠力</a><a title="2016-04-21 22:36" href="http://weibo.com/5880603917/Ds2ycqGJb?from=page_1005055880603917_profile&wvr=6&mod=weibotime" target="_blank" name="3966829926360777"></a>：一个澳洲华人烧中国护照，被爱国豚指责辱华，然后来了个操华人口音的正统澳洲人骂Chinaman永远都是Chinaman，被Chinaman里面最最 最Chinaman的那群引用转发热捧。我快要看不懂剧情了。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/n/%E8%9D%8C%E8%9A%AA%E5%BE%80%E4%BA%BA?from=feed&loc=at" target="_blank">@蝌蚪往人</a>: 哈哈哈哈，实力辱华！ //<a href="http://weibo.com/n/%E6%A0%BC%E6%A0%BC%E7%89%A9%E8%87%B4%E8%87%B4%E7%9F%A5?from=feed&loc=at" target="_blank">@格格物致致知</a>:”On here”, “remeber”——居然真有xx相信这是澳大利亚英语母语者写的<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5866741269" target="_blank">@囧纳森IV</a>：这他妈能过得了四级？<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">//<a href="http://weibo.com/n/%E6%9D%8E%E5%8F%8C%E6%B1%9F%E6%80%92%E6%96%A9%E5%AE%99%E6%96%AF%E7%9B%BE?from=feed&loc=at" target="_blank">@李双江怒斩宙斯盾</a>：刚过了CET4的澳大利亚人</p>
-<p><a href="http://weibo.com/n/%E8%BF%9E%E7%8E%AF%E7%88%86%E7%9A%84%E6%87%92%E7%8C%AB?from=feed&loc=at" target="_blank">@连环爆的懒猫</a>:前年伞运时也出现过不少英语不利索的英国人，感觉要成固定节目了</p>
-<p><a href="http://weibo.com/1189789363" target="_blank">@Yau-shuma-usur</a>：没加“i am not chinese”差评</p>
-<blockquote><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg" rel="attachment wp-att-435653"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg?resize=400%2C490" alt="006p2fpbjw1f34uyg80pzj30qo0wpk00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg?resize=245%2C300 245w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg?resize=768%2C942 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg?resize=835%2C1024 835w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/006p2fpbjw1f34uyg80pzj30qo0wpk00.jpg?w=960 960w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p></blockquote>
-<p><em>编者注：@青年力网 所贴英语评论之所以被许多人质疑真实性，是因为其中所犯的语法错误（红字标出部分），是ESL（英语非母语）学生最容易犯的（介词、run-on 等）。英语为母语者常见的语法／拼写错误与ESL学生的大相径庭，并不难区别。</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%B3%E6%B4%B2%E4%BA%BA%E9%AA%82%E5%8D%8E%E4%BA%BAchinaman-%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8B%8D%E6%89%8B%E7%A7%B0%E5%BF%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4/?category=18271" rel="tag">吴维</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">种族歧视</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -686,7 +772,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -696,5 +782,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E7%BB%B4
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

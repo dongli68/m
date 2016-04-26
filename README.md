@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%80%81%E5%A4%A7%E5%93%A5%E7%9F%A5%E9%81%93%E4%BD%A0%E4%B8%8B%E8%BD%BD%E4%BA%86%E4%BB%80%E4%B9%88/" target="cdt-mirror">奇闻录 | 老大哥知道你下载了什么</a>
+</h2>
+<p><p>4月25日，济南市公安局官方微信公众号发布通报称，济南公安<strong>相关警种</strong>经过缜密工作，抓获并依法行政拘留非法持有宣扬恐怖主义、极端主义物品的违法人员王某峰。通报称，这是济南公安侦办的第一起违反《中华人民共和国反恐怖主义法》的案件。<span></span></p>
+<p>通报显示，王某峰为个人寻求刺激，多次非法登陆境外网站，观看并下载割头、ISIS打仗场面等涉暴恐音视频。仅4月2日至7日，王某峰就先后5次访问境外涉恐网站，观看暴恐音视频4部。</p>
+<p>鉴于王某峰的行为，济南公安根据《中华人民共和国反恐怖主义法》第八十条第二款规定，依法对其处以行政拘留十五日的处罚。目前，该案件正在进一步调查中。</p>
+<p>依据2016年1月1日起实施的《中华人民共和国反恐怖主义法》及相关法律规定，任何单位和个人不得编造、传播虚假恐怖事件信息；不得报道、传播可能引起模仿的恐怖活动的实施细节；不得发布恐怖事件中残忍、不人道的场景。济南警方呼吁，希望广大网民文明上网，自觉维护网络环境，还网络一方净土。</p>
+<p>【相关法律】</p>
+<p>《中华人民共和国反恐怖主义法》：</p>
+<p>第八十条　参与下列活动之一，情节轻微，尚不构成犯罪的，由公安机关处十日以上十五日以下拘留，可以并处一万元以下罚款：</p>
+<p>（一）宣扬恐怖主义、极端主义或者煽动实施恐怖活动、极端主义活动的；</p>
+<p>（二）制作、传播、非法持有宣扬恐怖主义、极端主义的物品的；</p>
+<p>（三）强制他人在公共场所穿戴宣扬恐怖主义、极端主义的服饰、标志的；</p>
+<p>（四）为宣扬恐怖主义、极端主义或者实施恐怖主义、极端主义活动提供信息、资金、物资、劳务、技术、场所等支持、协助、便利的。</p>
+<p>来源：澎湃新闻</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E8%80%81%E5%A4%A7%E5%93%A5%E7%9F%A5%E9%81%93%E4%BD%A0%E4%B8%8B%E8%BD%BD%E4%BA%86%E4%BB%80%E4%B9%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BD%91%E7%AB%99/?category=18271" rel="tag">境外网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">恐怖主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%89%E6%81%90%E7%BD%91%E7%AB%99/?category=18271" rel="tag">涉恐网站</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A6%82%E6%9D%BE%EF%BC%9A%E5%A4%A7%E6%B8%85%E6%98%AF%E5%A6%82%E4%BD%95%E5%8D%B0%E5%87%BA%E5%8D%81%E5%B9%B4%E7%B9%81%E8%8D%A3%E7%9A%84%EF%BC%9F/" target="cdt-mirror">如松：大清是如何“印”出十年繁荣的？</a>
 </h2>
 <p><div>
@@ -719,51 +741,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%AA%E5%A5%BD%E4%BA%86%EF%BC%8C%E7%A7%91%E6%8A%80%E9%83%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%85%AC%E5%B8%83%E4%BF%AE%E4%BB%99%E6%9C%AF/" target="cdt-mirror">【网络民议】太好了，科技部什么时候公布修仙术标准？</a>
-</h2>
-<p><p>科技部和中宣部近日发布<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%A7%91%E6%8A%80%E9%83%A8%E5%8D%B0%E5%8F%91%E5%85%AC%E6%B0%91%E7%A7%91%E5%AD%A6%E7%B4%A0%E8%B4%A8%E5%9F%BA%E5%87%86-%E8%A6%81%E6%B1%82%E7%9F%A5/" target="_blank">关于印发《中国公民科学素质基准》的通知</a>，要求“各地各部门认真组织党政机关干部、工人、农民，科技、教育工作者，城乡劳动者、部队官兵、学生、社会各界人士等学习；各级党政机关、科研机构、企业、事业单位、学校、部队、社会团体等要组织《基准》学习和培训活动；新闻媒体、网站要对《基准》进行广泛宣传”。</p>
-<p>但由于《基准》中包含诸如要求公民知道阴阳五行、天人合一、格物致知等具有现实意义，要了解中医药“是中国传统医疗手段，与西医相比各有优势” 等内容而引来大量网民的吐槽。以下为部分受争议内容：</p>
-<blockquote><p>1. 知道世界是可被认知的，能以科学的态度认识世界。<br>
-(5)了解中华优秀传统文化对认识自然和社会、发展科学和技术具有重要作用。</p>
-<p>2. 知道用系统的方法分析问题、解决问题。<br><strong>(9)知道阴阳五行、天人合一、格物致知等中国传统哲学思想观念，是中国古代朴素的唯物论和整体系统的方法论，并具有现实意义。</strong></p>
-<p>5. 了解科学、技术与社会的关系，认识到技术产生的影响具有两面性。<br>
-(20)了解中国古代四大发明、农医天算以及近代科技成就及其对世界的贡献。</p>
-<p>11. 掌握基本的物理知识。<br>
-(48)知道力是自然界万物运动的原因；能描述牛顿力学定律，能用它解释生活中常见的运动现象。</p>
-<p>17. 知道常见疾病和安全用药的常识。<br><strong>(87)了解中医药是中国传统医疗手段，与西医相比各有优势。</strong></p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fcdae5117bf7363052cc160a9a85eb55_r.jpg" rel="attachment wp-att-435733"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fcdae5117bf7363052cc160a9a85eb55_r.jpg?resize=500%2C333" alt="fcdae5117bf7363052cc160a9a85eb55_r" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fcdae5117bf7363052cc160a9a85eb55_r.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fcdae5117bf7363052cc160a9a85eb55_r.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>网络图片；图文无关</span></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1404604220" target="_blank">@qiuwenjie</a><i title="微博达人"></i>：应该再加上奇门遁甲、推背图、烧饼歌……；还要加上藏医、蒙医、维医、苗医等，否则不利于民族团结呀<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@Valar_Morghulis-Valar_Dohaeris：太重要了，还应该做好记录，做集体宣誓，凡是宣誓遇到疾病，特别是重大疾病，坚决不用西医，只用中医的，予以嘉奖，凡是背叛誓言的，追缴奖励，并严惩。</p>
-<p>@战争史研究WHS: 我不光知道阴阳五行、天人合一，还会通玄究微，观星历数，编写符箓谶纬，烧丹药、求仙露。求当科技部部长……咦门外有快递我先去取一下。</p>
-<p><a href="http://weibo.com/jywyxwr" target="_blank">@连兔子带鹰一起蹬</a>：懂得阴阳五行还远远不够，还要学会：算命测字看风水儿，圆梦捉鬼跳大神儿 <img title="[江南style]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/67/gangnamstyle_org.gif" alt="[江南style]" data-recalc-dims="1"></p>
-<p>@物理老师陈：“知道力是自然界万物运动的原因；能描述牛顿力学定律，能用它解释生活中常见的运动现象。”我要吐血了！什么鬼？“知道力是万物运动的原因”？写文件的初中物理及格了吗？难道前后句都矛盾的不知道吗？</p>
-<p>@绝世屌丝沈祖亮：科学有经验的部分，也有先验的部分，但所有的科学原理都是有条件的，科学里不会有任何超验的东西；而天人合一和中医中的玄学则是超验的、“不证自明”的，把这些放进科学是想做什么？顺便评论里竟然有一堆从反历史虚无主义走向历史存在主义的自五，“存在即合理”都出来了，连辩证法的浆糊都不会捣么？</p>
-<p><a href="http://weibo.com/1192079457" target="_blank">@哈耶克之徒</a>：现在为了打造民族主义和马哲本土化，又不惜重新拾起洗洗干净以作为历史传承的一部分，甚至捏着鼻子也要给这些老古董安排个专座，用心良苦，大家要体谅<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></p>
-<p>@生物观察：太好了。科技部什么时候公布修仙术标准？</p>
-<p>@投鞭断流莉卡酱：求大大召见，我会烧红丸！</p>
-<p>@沧海一声喵呜：我就想知道，301医院是不是全指着望闻问切熬中药？</p>
-<p>@喵家七小姐：这届人民科学素质不行啊，还没要你们会奇门遁甲呢，以及“了解八卦是中国传统算命手段，与星座相比各有优势。”（敲黑板）</p>
-<p>@裴如海：还得懂谶纬之术，会炼丹画符，会写青词吧？</p>
-<p>@怒边阿布: 懂奇门遁甲可以保送清华吗</p>
-<p>@一at叶east：中医连解剖学都没有，脾脏、甲状腺、肾上腺、前列腺、卵巢都不知道有，一点都不从实际出发，违背马克思主义，然而我党的政策又是要扶持它发展，真的是让共产党员很难做啊！</p>
-<p>@关与孟之聖名奥定横山由依一生推：阴阳测字圆梦相面相骨谶纬捉鬼萨满风水圆光</p>
-<p>@致十年后的carrot：卧槽，居然不是洋葱新闻</p>
-<p>@Gewuzhizhili：这是东方科技，和西方那一套不是一个路数。</p>
-<p>@老酸菜s：前几天看到新闻 在上海鲁迅公园里面种了很多中草药 这是对鲁迅的侮辱吗</p>
-<p>@危言行孙的微博：以后我都不好意思说自己懂科学了。这一届中国公民素质太低了。</p>
-<p>@埋了这个还有一个：难怪说欧美那些蠢货的科技比不过我们呢，找到原因了！</p>
-<p>@李大榔头：这届老百姓吃中药，你高兴就好，禁评，禁评</p>
-<p>@經不起：科学素养不包含哲学宗教幻想以及民族情感。</p>
-<p>@头顶驴的老王：威武支持有希望了！为星辰大海喝彩！让每个中国人都活在梦中！（中国梦</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%AA%E5%A5%BD%E4%BA%86%EF%BC%8C%E7%A7%91%E6%8A%80%E9%83%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%85%AC%E5%B8%83%E4%BF%AE%E4%BB%99%E6%9C%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB%E8%8D%AF/?category=18271" rel="tag">中医药</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">中华传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E7%B4%A0%E5%85%BB/?category=18271" rel="tag">科学素养</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E6%8A%80%E9%83%A8/?category=18271" rel="tag">科技部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E9%82%A3%E4%B8%80%E5%A5%97/?category=18271" rel="tag">西方那一套</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -775,7 +752,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -785,5 +762,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8C%BB
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

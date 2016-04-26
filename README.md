@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%88%B0%E4%B8%80%E5%B9%B4426%E7%A4%BE%E8%AE%BA%E6%97%A5/" target="cdt-mirror">【网络民议】又到一年“426社论日”</a>
@@ -51,7 +51,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%85%E9%A1%BB%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E5%9C%B0%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B9%B1/?category=18271" rel="tag">"必须旗帜鲜明地反对动乱"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/426%E7%A4%BE%E8%AE%BA/?category=18271" rel="tag">426社论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E5%A4%A9%E5%AE%89%E9%97%A8%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">六四天安门事件</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-134/" target="cdt-mirror">【河蟹档案】官媒又闹乌龙：新加坡出了个总书记</a>
 </h2>
@@ -188,7 +188,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">境外组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87/?category=18271" rel="tag">组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%97%A7%E6%96%87%E3%80%91%E4%B8%AD%E5%85%B1%E4%B8%83%E5%A4%A7%EF%BC%9A%E5%85%B1%E4%BA%A7%E5%85%9A%E6%9D%80%E8%87%AA%E5%B7%B1%E5%90%8C%E5%BF%97%E6%AF%94%E5%9B%BD%E6%B0%91%E5%85%9A%E6%9D%80/" target="cdt-mirror">【旧文】中共七大：共产党杀自己同志比国民党杀的还多</a>
 </h2>
@@ -366,7 +366,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E9%97%AE%E9%A2%98/?category=18271" rel="tag">人权问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%AA%E7%8E%89%E5%85%B0/?category=18271" rel="tag">倪玉兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E5%8B%87%E6%B0%94%E5%A5%96/?category=18271" rel="tag">国际妇女勇气奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">维权人士</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E6%8A%A5-%E6%9C%80%E9%AB%98%E6%B3%95%E5%85%AC%E5%B8%8310%E8%B5%B7%E5%BC%98%E6%89%AC%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC/" target="cdt-mirror">人民法院报 | 最高法公布10起弘扬社会主义核心价值观典型案例</a>
 </h2>
@@ -789,5 +789,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

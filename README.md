@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%88%B0%E4%B8%80%E5%B9%B4426%E7%A4%BE%E8%AE%BA%E6%97%A5/" target="cdt-mirror">【网络民议】又到一年“426社论日”</a>
+</h2>
+<p><p>历史上的今天：《必须旗帜鲜明地反对动乱》（又称“四·二六社论”）是中国共产党机关报《人民日报》于1989年4月26日在头版头条刊发的社论，内容是将之前全国各地因悼念前中共中央总书记胡耀邦而发展出来一系列学生运动定性为动乱。（维基百科）</p>
+<p>新华网报道<a href="http://news3.xinhuanet.com/ziliao/2005-02/23/content_2609426.htm" target="_blank">页面</a></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dongluan.jpg?resize=500%2C602" alt="dongluan" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dongluan.jpg?resize=249%2C300 249w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dongluan.jpg?w=746 746w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
+<p>@catzoo Paul：永远都不敢忘记</p>
+<p>@pangjiaoming：在強權壓制下，新聞輿論終究是很不正常的，這兩天看到內地不少媒體在反思前蘇聯切爾諾貝利核電站的悲劇。其實，反觀中國，文革對中國之災難，八九對當下的恐懼餘毒等等，比核洩漏更嚴重，但是，媒體以種種藉口迴避，哭錯了靈堂。#讀報</p>
+<p>@mozhixu：426社论发表27年，你国墙内关注切尔诺贝利，这就是你国魔幻：此地的真实极权地狱，不得提及，充斥着的所谓反思，小心翼翼地指向其他地方，只为维持一种此地仍是正常人间的幻觉。</p>
+<p>@OldLi1：1989年4月26日，日人民報發表曾建徽起草的社論《必須旗幟鮮明地反對動亂》將學運定性為“動亂”。這就是四二六社論的出籠。四二六社论殺氣騰騰，發出了血腥鎮壓的信號。</p>
+<p>@eemtfree：在管束和疯狂掠夺的社会，总是这样一管就死，一放就乱。邓小平就做了杀二十万保二十年。以恐惧和收买让社会畸形扭曲。文革和邓的恐惧高压下的那一代渐渐退出主流人群，新一代没有被恐惧下破胆的成长起来。社会管控者向管控方向走去，如果举起屠刀，那么再寄希望与二十/三十年后。#当今中国</p>
+<p>@Zodiac4698：“一管就死”这个大家都看到了，“一放就乱”这个未必，89年，放了，没乱。什么时候乱的呢？426社论以后，绝望的散去，另一部分绝食。香港也是一样，雨伞运动乱了吗？没乱，直到普选被拒，书商被抓，小贩被打，才……一切所谓“乱”都是逼出来的</p>
+<p>@周青崖：明天426，想起一个著名的社论，二十七年了。</p>
+<p>@yisu_02 ：旗帜鲜明把学运定性为动乱的那个鬼社论</p>
+<p>@沉吟-鹿鸣：百姓对这个普遍不满，现在领导层也认识到这成了一个政治包袱，只是谁都没勇气和能力去卸下他。</p>
+<p>@wuyuanwugu：“必须旗帜鲜明”日。</p>
+<p>@dingtianran：必须旗帜鲜明地动乱。</p>
+<p>@青离麻：历史资料，以后可能会和炮打司令部其名。</p>
+<p><strong>相关阅读：</strong></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2012/07/%E5%9B%9E%E9%A1%BE-%E5%85%AD-%E5%9B%9B-%E7%B3%BB%E5%88%9718%EF%BC%9A%E5%90%84%E7%95%8C%E4%BA%BA%E5%A3%AB%E5%AF%B9%E5%9B%9B%C2%B7%E4%BA%8C%E5%85%AD%E7%A4%BE%E8%AE%BA%E7%9A%84%E5%8F%8D/" target="_blank">回顾六四 系列18：各界人士对”四·二六社论”的反应</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2014/10/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E5%8F%8D%E5%AF%B9%E9%A6%99%E6%B8%AF%E5%8A%A8%E4%B9%B1/" target="_blank">【麻辣总局】巴丢草：旗帜鲜明反对香港动乱</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%88%B0%E4%B8%80%E5%B9%B4426%E7%A4%BE%E8%AE%BA%E6%97%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%85%E9%A1%BB%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E5%9C%B0%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B9%B1/?category=18271" rel="tag">"必须旗帜鲜明地反对动乱"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/426%E7%A4%BE%E8%AE%BA/?category=18271" rel="tag">426社论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E5%A4%A9%E5%AE%89%E9%97%A8%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">六四天安门事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-134/" target="cdt-mirror">【河蟹档案】官媒又闹乌龙：新加坡出了个总书记</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%91%E6%98%93%E8%87%AA-%E7%94%B1%E8%93%9D%E8%8E%B2%E8%8A%B1">网易自-由蓝莲花</a>：一字不差，全文转载。[笑哈哈][笑哈哈][笑哈哈]<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.jpg?resize=504%2C896" alt="111" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.jpg?w=750 750w" sizes="(max-width: 504px) 100vw, 504px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3968237228431524" target="/weibo/396">2016年04月25日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%AE%B0%E8%80%85%E7%AB%99%E7%BD%91">记者站网</a>：【新闻自由指数排名发布，中国居倒数第五】无国界记者组织4月20日公布2016年世界新闻自由指数。新闻自由度最高的前三名分别为芬兰、荷兰和挪威。中国持续位于世界新闻自由的黑暗区，排名第176，倒数第五名。台湾的新闻自由度位于亚洲之冠，排在第51。美国排名第41位，韩国排第70位，日本排第72位。<em><em>相关阅读｜《<a href="http://www.voachinese.com/content/world-press-freedom-index-20160419/3293395.html">美国之音<em><em>｜</em></em>2016世界新闻自由指数出炉 中国持续倒数第五</a>》；《<a href="http://rsf.org/en/ranking#">记者无国界<em><em>｜2016</em></em>新闻自由指数完整排名</a>》</em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.png?resize=508%2C286" alt="111" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.png?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.png?w=640 640w" sizes="(max-width: 508px) 100vw, 508px" data-recalc-dims="1"><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-134/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3966664716471214" target="/weibo/396">2016年04月21日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%94%A8%E6%88%B75890704310">用户5890704310</a>：什么是信仰坚定？人民书记就是！在父亲的葬礼上高唱《国际歌》，特色之后，你是唯一[心][心][心]！ <em>相关阅读｜《<a href="http://tuku.news.china.com/history/html/2013-05-29/216244_2355001.htm#pic">老照片图库<em>｜</em>2007年薄一波追悼会:红二代云集</a>》</em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-1.jpg?resize=480%2C477" alt="薄熙来" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-1.jpg?resize=300%2C298 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-1.jpg?w=540 540w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3967884830710087" target="/weibo/396">2016年04月24日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%BB%8E%E6%B4%A5%E5%B9%B3%E8%80%81%E5%B8%88">黎津平老师</a>：今天我在北师大将为100多位中小学校长讲授法律问题，大家有啥说的？<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-2.jpg?resize=529%2C395" alt="111" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-2.jpg?resize=300%2C224 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-2.jpg?w=597 597w" sizes="(max-width: 529px) 100vw, 529px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3967695273161082" target="/weibo/396">2016年04月24日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-134/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">“新加坡总书记”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?category=18271" rel="tag">Papi酱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">人民日报通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%AD%8C/?category=18271" rel="tag">国际歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1%E6%8E%92%E5%90%8D/?category=18271" rel="tag">新闻自由排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E4%B8%80%E6%B3%A2/?category=18271" rel="tag">薄一波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E6%97%A0%E5%9B%BD%E7%95%8C/?category=18271" rel="tag">记者无国界</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%83%A1%E6%B3%B3%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BF%A1%E6%81%AF%E7%9A%84%E8%87%AA%E7%94%B1%E6%B5%81%E5%8A%A8-%E5%B0%B1%E6%97%A0%E6%B3%95%E7%AE%A1%E7%90%86%E9%A3%8E%E9%99%A9%E7%A4%BE%E4%BC%9A/" target="cdt-mirror">胡泳：没有信息的自由流动 就无法管理风险社会</a>
 </h2>
 <p><p>4月26日，是切尔诺贝利核事故30周年。1986年4月26日凌晨1时23分，在前苏联乌克兰普里皮亚季市切尔诺贝利核电站，一场拙劣的技术试验引发了石墨着火，爆炸击穿屋顶，50吨放射性燃料进入大气层。瞬间，一道强烈的蓝白光线射向夜空，那道光比电影场景还美，人们竟抱着孩子，涌出家门来观看这异象。</p>
@@ -724,67 +768,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%A2%81%E9%B8%BF%EF%BC%9A%E4%B8%80%E4%B8%AA%E4%BF%9D%E5%AE%89%E7%9A%84%E6%A2%A6%E6%83%B3/" target="cdt-mirror">梁鸿：一个保安的梦想</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-%E4%B8%8A%E5%8D%887.57.34.png?resize=293%2C416" alt="Screen Shot 2016-04-23 at 上午7.57.34" data-recalc-dims="1"><br>
-作者：梁鸿，著名作家，河南省邓州市梁庄人，文学博士，中国青年政治学院中文系教授。代表作有《中国在梁庄》、《出梁庄记》、《神圣家族》。</p>
-<p>　　我是1987年到西安，新城区商德路11号，在一个小吃店打杂，”商德路小吃店”。那个地方我终生难忘。我在那儿赶上两件大事，好像有一个外国作家写了一本什么书，写穆斯林不好，全世界的穆斯林都反对他。 西安的穆斯林们手拉手，带着白帽子，很有秩序，很平静，在街上走。感觉到很害怕，第一次感受游行。</p>
-<p>　　还有就是学-潮。就是穆斯林事件没过两天的时间，从商德门直往南，陕西省人民政府，大卡车拉着军人过来，咋着也有几十辆车。当时想着，城市不能呆了，赶紧得回老家。省政府广场上坐了全是学生和老百姓，全省各地的人都坐着卡车去，有走着去，有些人拿着酒瓶子摔，青霉素瓶子，烧花圈，喊口号”打倒腐败，打倒官倒，不让开放沿海六个城市”，”我们不做卖国贼”，”中国不是殖民地”，”还我沿海六城市”，”把帝国主义赶出去”。有一星期，小吃店关门了。我们门口那条路是到省政府的必经之路。</p>
-<p>　　当时看着很害怕，想回家。但只是旁观者，觉得离我还远着呢。就是忽然这么乱，也不知道咋回事。老百姓很淡然。我在那儿的院子，有两口子，媳妇是陕棉一场的人，老公是刑警，一个单位组织去参加声援，一个去维持秩序。我不明白啊。我给老板说，城市不好，我要回家。</p>
-<p>　　1989年收秋的时候我又回梁庄。回家就想找个固定工作。我要好好干活，做人就做邱娥国，干活要如赵春蛾❶， 这两个人都是那几年的宣传对象。想着有个固定工作，给国家贡献点力量。1990年通过个关系在XX县化肥厂买个集资工，花了3500元。当青工，三级半，一个月基本工资42元。那时候，整个化工行业不景气。这期间，我舅家表哥从北京回来，说北京招保安。当时我的想法是，这辈子没当过兵，当个保安就相当于当兵。</p>
-<p>邱娥国，1946年出生，1967年入党，南昌市一派出所户籍民警，荣获过全国先进工作者、公安部一极英模、全国五一劳动奖章、全国优秀共产党员等等。被选为“全国劳模”；赵春娥，1935年出生，中共党员。洛阳老集煤场现场工，工作认真，惜煤如金。1982年，赵春娥因病去世，1983年被国务院追认为全国劳动模范。</p>
-<p>✉</p>
-<p>　　我是1991年农历8月15晚上到的北京。我都不知道这个日子。一下火车，月亮那个圆啊，我问人家说，大叔，这是啥日子，人家说是八月十五。我这才知道，心里可难受。坐火车坐一天多，舍不得吃，饿得不行，一听说是八月十五，眼泪都想掉下来。坐火车花24块钱，下火车也不懂，有人在车站拉客，就把我们拉到三里屯幸福三村。住一夜，17块钱，说好了是10块钱，人家非要多要。觉得受骗了。就萌发一个念头，不混个样就不回家。我和另外一个老乡从地下旅馆出来，拿个大被子，大行李，去坐405路公共汽车。售票员不让俺们上，说满了满了，挤什么呢，讨厌。尖着嗓子的北京话。</p>
-<p>　　当时找的一个保安公司不要人。就在一个服装厂蹬三轮，给人家送货。冬天，从通州拉一车货到北展，几十公里。俩多小时，站着蹬，一是累，二是站着拉快，一天六块钱。干到1992年春天。</p>
-<p>　　刚好保安公司招人，交押金200块钱。1992年5月13号去当保安，是武警总队办的分公司。”六一”给我分配到燕山石化，公司发170块钱工资，不管吃，管住，但是，可以给厂里干些杂活，一个月能挣三百多块钱。自己做饭吃，得花三四十块钱。咱工作不错，深受领导喜爱，踏踏实实干到九四年，九四年下半年当班长，对我来说，这是个积累。</p>
-<p>　　当时北京公安局成立保安总公司，成立了工会，成立了团委，所有的保安都看到一丝光明，想着受到国家重视，想着如香港、台湾的保安，很有希望，有闪光点。</p>
-<p>　　1995年我从燕山石化调到凯迪克大酒店，为世妇会服务。在那儿以后，开始发胖，那儿生活好，直接升上副中队长。咱对工作热情，廉洁奉公。每个行当都有门道，也可以腐败一下，但我坚决抵制。因为啥，我们家你韩叔到死写信都是”遵纪守法，团结同事”。我老婆来了，他写信又给我添了四个字，”相依为命”。一个中队六十个人。那时候管吃管住，五百多块钱，年底奖金六百多块钱。另外，一心想着，是给共产党干的，干的好了，说不定到时候自己还有可能转正啥的。</p>
-<p>　　1995年冬天，保安行业评”优秀保安员”，考试，考你的保安知识，业务技能、法律常识、保安体能、术语和待人接物等，有笔试口试。我考97分，被评为”北京市百名保安员”。心里非常高兴，觉得有希望。</p>
-<p>　　1996年，心情很灰色，不想干这个行当了。原来是看到曙光，后来发现都是空话。说是给保安成立啥机构，都是骗人的。说是成立工会，也没有让交过会费，不知道工会在哪儿，有啥作用？团员也没有入团，也没有小组长，也没有团委书记，啥也没有。评上”百名保安员”以后，想着拿这个优秀证应该可以了，模模糊糊觉得应该可以纳入到正式职业里面。结果都是假的，最根本是不想给外地打工者机会，都是糊弄你。我就想着，马上离开北京，不干了。几乎跟我一块儿来的都走空了，我们燕山石化那一帮人都走了。不是去别的公司干，就是从事别的行当。</p>
-<p>　　刚好那时候又跟你嫂子谈对象，感情丰富。觉得前途一片黑暗，啥都是空的。1997元旦回梁庄，和你嫂子一块回去，想在老家创业。在家呆了几个月，啥都想过了，不知道做啥好。我爹说，你俩在家里不行，还得到北京去。</p>
-<p>✉</p>
-<p>　　我是1997年过了清明回来的。想着干啥呢，我要挣钱，挣大钱，钱是最实在的，其它都是虚的。还是保安这个行当熟悉，就还从保安干起。那时公安大学下面办一个保安公司，我去帮人家带队。又干了两年，到1999年，感觉自己也吃透这个行当，知道它的奥妙之处，其中的猫腻之处也都知道，咋去运作都清楚。就想着自己去干。</p>
-<p>　　我运气也不好，刚好赶上北京清理整顿保安市场。挂靠的全部被取缔了。因为黑保安老出事，人员参差不齐，保安行业犯罪率上升。</p>
-<p>　　当时，出个事儿，很轰动。一个警察，叫徐晋革，22岁毕业，上班十多天。随州一个17岁的小孩在北京这边当小保安，上14天班，说不干了，保安队不给他钱，还打他一顿。这个小孩就到老乡那儿去，老乡说，哭啥不哭，别哭了。他们就在街上胡逛。在三元桥上，半夜一点多的时候，一个单身女子在桥上走，他们就去抢劫。刚好姓徐的那个警察巡逻，他年龄也小，没经验，就去追，死追。到一个小胡同，那个小保安说，你不要追，再追我就拿刀戳你。就把那个小警察弄死了。后来，一追查，发现是保安的事儿造成的。这事儿出来后，人们都说保安不好咋的，其实不是，那个小孩也是一肚子委屈，他没地方诉啊。形势逼那儿了，他害怕，不知道咋办，不杀人不行了。</p>
-<p>　　我公司是2000年五月成立的，开始招兵买马，也没有手续，当时人家说没手续也可以招人，我们可以用你的人。咱的保安就是他的”协管员”。刚开始5个人，慢慢7个、9个，到最后，变成37人，贵州、云南、甘肃各地的人都有。</p>
-<p>　　给人家开工资，管吃住，管发衣服，管烟抽，住的是地下室，劲松一个地下室，打地铺，铺了四五层报纸，就当床铺了。我还要考查对方给我保安的环境怎样，住的情况，吃的标准。EMS物流找我，叫我派保安去。我一问，他说没地方住，我就不让我的保安去。晴天还行，下雨咋办。那几年工地我也不去。我在工地呆过，真是艰苦的很。那年清华大学盖宿舍楼，俺们在那儿看着。真脏，浮土太大，土没过腿，风一刮，把人的眼都迷坏了。工地上太冷，冻得太可怜。从老家来的孩子，都不会生蜂窝煤，也没有水，屋里比外面还冷，那个工地简易棚，早晨起来被子都冻得拉不动。娃儿们手都像肿瓜子一样。我说，咱又不是不能找来其它活儿，不受这罪。</p>
-<p>　　人们瞧不起保安。像那些大型商品楼、超市、高档小区里的人都没有素质，认为自己是白领，瞧不起保安。原来是北京人瞧不起保安，现在是业主看不起。其实一些北京人，原来是国有厂的，工龄买断了，现在四五十岁，啥也没有，还不如那些保安挣的钱多。就这他也瞧不起保安。</p>
-<p>　　我的孩子，我也不让他当保安，社会地位太低。那天有个人说，牛什么牛，不就是个保安吗？想想也是。这个行当是四大低行业，”保洁、保安、服务员、壮工”，收入最低，谁都能骂几句。还有几点，一是社会上还是不承认，不把保安当作一个正当职业，就是低级工；二是歧视外地人。那些正规的公司，就是所谓公安局办的公司，他们也歧视外地人。北京户口的保安有五险一金，外地保安没有五险一金。工资也比外地的高。国家都歧视他们，普通人肯定更歧视。我现在为了减少成本，走的和他们一样。现在我们上的意外险，三个人上两个人的，也是为了省钱。</p>
-<p>　　温家宝总理2009年9月28号签国务院令”保安管理条令”，说必须要给保安上保险。 说的可好，谁弄啊？要想使这个行业有起色，必须社会得尊重它，一尊重，自然而然待遇会上去，社会要关注他。奥运期间，北京青年报采访了十来个小区，只有一个保安是微笑的。你说咋可能微笑？妻儿老小都在家，两地分居，节假日人家都休息，他不能。比较正规的公司，平时还要训练、学习，还要考核，考完啥也没有，没有说法，也不知道走那形式干啥，只有招忙。也没有人尊重。工资太低，也有很大的职业风险，遇到小偷，万一伤了死了怎么办？又枯燥无味，三点一线的。你说有啥笑的？笑也是假的。</p>
-<p>✉</p>
-<p>　　——我现在最困惑的是，孩子上学怎么办？这样会毁了几代人。如果政策不变的话，到上高中时，就得让你嫂子回去，带着孩子上学，娃儿不一定能适应。那年回家，娃儿出一身痒疙瘩，治了很长时间才好。人家不适应，不是梁庄人了。我们可怜，娃儿们这一代更可怜，生活在真空里。他们到咱们这个年龄，连小时的玩伴都想不起，都四零五碎，越来越孤独。</p>
-<p>　　这种现象我也觉得不公平。今年的教育部长说，可以接受异地考试，但是要有标准，第一，要有房，要有工作，第二，要有保险，第三，孩子要在这儿上学。说完这句话，又说句混蛋话：各地情况不一样，”北上广”三个城市，没有具体的时间表。等于是放个闲屁。不平等，老百姓没有权利，那啥时候能他也不能直起腰。就像那年，咱们村里放电影，两家为宅基地打架，大家电影都看不成。咱们老支书老兴隆上去骂他们，日你妈，连你们都是国家的，还吵啥吵？！</p>
-<p>　　——想梁庄，咋不想？我梦见过找不到回家的路。回到家里，家里那几间烂房子也找不着了，最后哭醒了。前两天还在做梦。每次坐上火车，离梁庄越来越近，我就会不断地想，要是回到家，会先碰到谁，后碰见谁，千万别说一些让人家反胃的京味儿话。我可注意得很。我要是从家里回来，也得说几天家里的话，改不过来。</p>
-<p>　　但我肯定不在梁庄住，不会在梁庄盖房子。我将来根肯定也不扎在这儿，可能会在吴镇上，你哥的房子旁边，也弄个房子，每天能给你哥说说话。</p>
-<p>　　有时在这儿还真有个恐惧感。我经常想，如果有个啥事，警察不分青红皂白把我拉走了，你嫂子去找谁？连个人都找不到。或者想，正走着，谁给你打一顿咋办？突然生病，倒在路上咋办？找谁？在吴镇，我可以找你哥，没啥说的，他肯定会帮你。就不用想啥原因，心里踏实。在这儿，虽说有俩朋友，但还没有到那地步。也有人尊重，但是没有归属感，就好像风筝断了线。在家还是有种安全感。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%A2%81%E9%B8%BF%EF%BC%9A%E4%B8%80%E4%B8%AA%E4%BF%9D%E5%AE%89%E7%9A%84%E6%A2%A6%E6%83%B3/">Permalink</a> |
-<br>
-Post tags: <br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%85%B1%E9%9D%92%E5%9B%A2%E5%A4%A7%E5%AD%A6%E4%BC%A0%E5%81%9C%E6%94%B6%E7%94%9F-%E4%B9%A0%E6%96%AD%E5%9B%A2%E6%B4%BE%E8%A1%80%E8%84%89/" target="cdt-mirror">法广 | 共青团大学传停收生 习断团派血脉</a>
-</h2>
-<p><p>作者：香港特约记者 麦燕庭</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-%E4%B8%8A%E5%8D%887.37.48.png?resize=550%2C259" alt="Screen Shot 2016-04-23 at 上午7.37.48" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-上午7.37.48.png?resize=300%2C141 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-上午7.37.48.png?resize=768%2C362 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-上午7.37.48.png?w=975 975w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
-中青院4月22日发出没有标明内容的《公告》，称正着手论证深化改革方案</p>
-<p><strong>作为中国共产青年团的「团派」摇篮的中国青年政治学院，有师生传出停辨本科生和停止招收教师的消息，只保留研究生，回复1985年前的中央团校的状态。中青院昨(22日)天发出没有标明内容的《公告》，称正着手论证深化改革的方案，但没有承认或否认停止收生的传言。时事评论员林和立指出，中共总书记习近平此举是要切断团派血脉，将其力量连根拔起，他预计，以团派现时的弱势，难有反弹之力，但最终结果还须看明年底举行的中国共产党第十九次党代表大会(「十九大」)敲定的人事布局。但亦有评论指，习近平此举正是要为十九大构建「习家军」扫除威胁。</strong></p>
-<p>中青院停止招收新生的消息在本月15日已传出，指中央政治局常委会14日召开会议，决定停办中国青年政治学院本科生教育，保留研究生教育。到了21日，该校副教授杨支柱一篇题为《有感于中青院将停办本科》的文章在网络热传，杨在文中质疑团中央在该校「没有生源危机和其他任何重大事由的情况下突然停办一所大学」是「太任性」，而其他人收到的通知亦指出，学校将「停止招生，教师进人冻结」。由于研究生已经完成招收新生，有收到通知的教师估计，停招的应是本科生。</p>
-<p>另外，内地传媒报道，团中央机关已大量减编，停止新招人员，机关富余人员两年内分流完毕。</p>
-<p>在中国，12至18岁青少年若想更上层楼便须加入共青团，其后便可顺理成章地申请加入中共，而中共党章亦规定，共青团是「党的助手和后备军」，但在去年7月上旬，习近平召开首次的「党的群团工作会议」，新华社报道着重谈及妇联和共青团要听从党的指挥，并多做群体工作。中国事务评论员林和立向本台指出，这已意味共青团日后只做青年工作，停止当人材库的职能，现时停止中青院收新生是去年决定的合理部署。</p>
-<p>他指出，团派过去与江泽民为首的「上海帮」可说是平分春色，习近平上台后视为威胁，自然想除掉，而团派摇篮的中青院停止收生，等于断了团派血脉，将之连根拔起。</p>
-<p>林和立续称，前中央办公厅主任令计划「出事」并被拉下马是团派的致命伤，现时可说是弱势已成，无招架之力，难以反扑，不过，由于前国家主席胡锦涛进入领道核心近二十年才退休，提拔的人仍占据地方势力，虽然部分已转投习近平，但对习要把团派连根拔起是否形成阻力，还要看「十九大」才能分晓。</p>
-<p>中青院于1985年12月在中央团校的基础上成立，两块牌子都排在校院门口，是共青团中央直属的唯一一所普通高等学校，团中央历届领导中，冯文彬、胡耀邦、韩英、王兆国、胡锦涛、宋德福、李克强、周强、胡春华、陆昊、秦宜智等人先后出任该校校长。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E5%85%B1%E9%9D%92%E5%9B%A2%E5%A4%A7%E5%AD%A6%E4%BC%A0%E5%81%9C%E6%94%B6%E7%94%9F-%E4%B9%A0%E6%96%AD%E5%9B%A2%E6%B4%BE%E8%A1%80%E8%84%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%94%BF%E6%B2%BB%E5%AD%A6%E9%99%A2/?category=18271" rel="tag">中国青年政治学院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E9%9D%92%E9%99%A2%E5%81%9C%E5%8A%9E%E6%9C%AC%E7%A7%91/?category=18271" rel="tag">中青院停办本科</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%93%E5%87%BB%E5%9B%A2%E6%B4%BE/?category=18271" rel="tag">习近平打击团派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E6%B4%BE/?category=18271" rel="tag">团派</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -796,7 +779,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -806,5 +789,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

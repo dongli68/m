@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%A6%99%E6%B8%AF%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%9B%9B%E5%A4%A9%E6%9C%89%E4%B8%93%E6%A0%8F%E5%BC%80%E5%A4%A9%E7%AA%97%E6%8A%97%E8%AE%AE/" target="cdt-mirror">BBC｜香港《明报》连续第四天有专栏“开天窗”抗议</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg" rel="attachment wp-att-435983"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg?resize=550%2C309" alt="160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>香港《明报》前执行总编辑姜国元（笔名安裕）上周三（４月20日）<a href="http://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E6%89%A7%E8%A1%8C%E6%80%BB%E7%BC%96%E8%BE%91%E9%81%AD%E8%A7%A3%E9%9B%87-%E7%96%91%E6%B6%89%E6%8A%A5%E9%81%93%E5%B7%B4/" target="_blank">被辞退</a>，连续第四天有专栏作者“开天窗”抗议《明报》管理层决定。中国官媒《环球时报》发表社评，称该报连续有专栏“开天窗”一事为“政治天窗”。</p>
+<p>香港教育学院亚洲及政策研究学系助理教授方志恒周三（4月27日）“开天窗”。不过，与之前三天不同的是，方志恒的专栏是刊登在A叠观点版，并不是在D叠副刊时代版。</p>
+<p>方志恒的专栏题目是“撑安裕”，内容留白，同样加上备注。</p>
+<p>根据编者按，明报需积极采取节流紧缩政策，裁减人手实非得已，是次裁减涉及业务和编采部门人员，当中包括高层人员；公司希望尽快渡过此困难时刻；明报编采方针保持不变。</p>
+<p>《明报》D叠副刊中，仍有专栏作者继续撰文谈论安裕被辞退一事，包括吴志森、陈惜姿、黎佩芬等。</p>
+<p>明报职工协会要求周三与世华集团执行主席特别助理翁昌文、明报集团执行董事兼行政总裁张裘昌及总编辑钟天祥会面。假如员工诉求未能获得回应，不排除行动升级。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/13076919_10154998294259848_615928426751572228_n_bIK8l_1200x0.jpg" rel="attachment wp-att-435984"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/13076919_10154998294259848_615928426751572228_n_bIK8l_1200x0.jpg?resize=550%2C309" alt="明报开天窗" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/13076919_10154998294259848_615928426751572228_n_bIK8l_1200x0.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/13076919_10154998294259848_615928426751572228_n_bIK8l_1200x0.jpg?resize=768%2C431 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/13076919_10154998294259848_615928426751572228_n_bIK8l_1200x0.jpg?w=960 960w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>网络图片</span></p></div>
+<p><strong> 甚麼是“开天窗”？</strong></p>
+<p>“开天窗”──即把内容留白或省略正文──是传媒工作者对事情表达不满的做法，不过，香港过去“开天窗”并不常见。</p>
+<p>2014年，《明報》突然撤換總編輯劉進圖，亦有專欄作者“开天窗”表達不滿。</p>
+<p>最有名的一次是《文汇报》在1989年5月21日中央政府宣布戒严后，社评只刊登“痛心疾首”四只字，表示对北京处理手法的不满。</p>
+<p>除了香港传媒工作者外，近年匈牙利、埃及、土耳其、厄瓜多尔、等地的报章亦曾“开天窗”，表达不满，例如抗议打击新闻自由的法案等等。</p>
+<p><strong>《环球时报》社评：报纸“政治天窗”</strong></p>
+<p>中国官媒《人民日报》社旗下小报《环球时报》周三发表社论，将《明报》连续有专栏“开天窗”一事形容为“政治天窗”。</p>
+<p>该社评除了提到姜国元被裁一事外，亦有提及欧盟最新的香港状况年度报告、在台湾新注册的铜锣湾书店及“港独”。</p>
+<p>社论指，铜锣湾书店、报纸的“政治天窗”及“港独”在塑造香港的形象，而香港民众不会希望香港“全是政治，而且充满对抗”。</p>
+<p>《环球时报》指，激进反对派以为西方是“最亲的朋友”，但西方力量是希望把香港当成“牵制中国甚至对华做斗争可资利用的棋子”。</p>
+<p>社论形容“一国两制”是“长期磨合过程”，而香港出现反中央的力量是“完全非理性”。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%A6%99%E6%B8%AF%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%9B%9B%E5%A4%A9%E6%9C%89%E4%B8%93%E6%A0%8F%E5%BC%80%E5%A4%A9%E7%AA%97%E6%8A%97%E8%AE%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E8%A3%95/?category=18271" rel="tag">安裕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%8A%A5/?category=18271" rel="tag">明报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-3/" target="cdt-mirror">人民日报推特抱怨：YouTube对我们的三千多粉丝没有丝毫尊重</a>
 </h2>
 <p><p><strong>《人民日报》英文版官方推特账户于4月26日在推特公开“维权”，称YouTube无故让该报官方英语频道2天内掉了3552名粉丝，欲申诉时却发现该公司用户申诉渠道不通顺，找不到人解决问题</strong>。该账号最近上传了不久前在中国大陆热传的“<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E8%BF%99%E4%B8%AA%E5%B0%8F%E7%94%B7%E5%AD%A9%E7%81%AB%E4%BA%86%EF%BC%81%E6%89%8B%E6%8C%81%E9%92%A2%E7%AE%A1%E5%AF%B9%E6%8A%97%E5%9F%8E%E7%AE%A1/" target="_blank">小孩手持钢管对抗城管</a>”视频，获得了不少点击量，也增加了许多新粉丝。</p>
@@ -743,41 +772,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%89%E8%BE%89%E5%9B%BE%E4%B9%A6-%E4%BB%8E%E4%B9%8C%E6%89%98%E9%82%A6%E5%88%B0%E5%A4%A7%E5%B1%A0%E6%9D%80%EF%BC%8C%E6%9C%89%E5%A4%9A%E8%BF%9C%EF%BC%9F/" target="cdt-mirror">三辉图书 | 从乌托邦到大屠杀，有多远？</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-%E4%B8%8B%E5%8D%887.15.17.png?resize=570%2C322" alt="Screen Shot 2016-04-23 at 下午7.15.17" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-下午7.15.17.png?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-下午7.15.17.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"><br><span>题图：来自电影《希特勒回来了》（2015）</span></p>
-<blockquote><p>你想过大屠杀和乌托邦之间的关系吗？</p>
-<p>从十字军东征，到屠杀宗教异端与女巫；从奥斯曼土耳其种族灭绝行动，到纳粹大屠杀——在纳粹大屠杀这场恶之巅峰后，还有卢旺达大屠杀、1998年印尼排华事件……</p>
-<p>“杀害几百万人，你需要一个意识形态。”</p></blockquote>
-<p><strong>从乌托邦到大屠杀</strong></p>
-<p>选自 / 《人性中的善良天使》</p>
-<p>文 /   斯蒂芬·平克</p>
-<p>译 / 安雯</p>
-<p>我们这个可悲的物种有能力从事各种各样的暴力，其中最独特的是大屠杀，它不仅令人憎恶，而且让人无法理解。我们可以理解人类为什么一次又一次地为了金钱、荣誉、爱情发生致命的冲突，为什么对有过失的同类重刑惩罚，甚至为什么在见到手持武器的人时也会拿起武器兵戎相见。但是，有些人想要杀死数百万无辜的人，包括妇女、儿童和老人，我们作为人类自称有人性，可这些行为却毫无人性可言。对人进行分类，再施以杀戮，仅仅是为了他们是谁，而不是因为他们干了什么。</p>
-<p>人们为什么要做出这样的恶行？</p>
-<p>本质主义的思维习惯使人在自己的头脑中将其他人按照某些特质聚类分群，如归属、习俗、相貌和信仰；并在道德感上将人等同于他所类属的群体，将自己赞赏的品质赋予盟友，而自己唾弃的品质则赋予敌人。当人们处于冲突时，这种将人划类而分的认知习惯能够带来真正的灾难，将暴力动机从宣泄个人纠纷的小调转变为一场族裔战争的宣战书。</p>
-<p>但是，种族屠杀还有另外一个决定性的组件。正如索尔仁尼琴所指出的，杀害几百万人，你需要一个意识形态。<strong>强势政权推崇乌托邦的信条，将个体完全淹没在道德化的范畴之中，利用这些信条煽动巨大的破坏力。</strong>因此可以说，意识形态造成了种族屠杀死亡人数的超常分布。制造分裂的意识形态包括十字军时代和宗教战争时代的基督教（以及一个衍生品，中国的太平天国时期）、法国大革命政治恐怖时期的革命浪漫主义、奥斯曼土耳其和巴尔干的种族灭绝行动中的民族主义，以及德国集中营背后的纳粹主义等。</p>
-<p>乌托邦导致大屠杀出于两个原因。第一，它给出的是一个<strong>恶性功利计算</strong>。在乌托邦中，每个人都是永远幸福的，所以其道德价值无限外推。将一辆威胁到5个人性命的失控列车换轨到会撞死一个人的支道上，我们中大多数人都同意这在道德上是可以接受的。但是，如果你假定有1亿人的生命，甚至10亿人的生命可以得救，甚至可以外延到无限的将来，无数的生命为此而获救，那么，我们能接受多少人的生命为了这无限的善而牺牲呢？死上几百万人似乎还是很合算的。</p>
-<p>不仅如此，想想某些人明知有这样一个美好的未来，却还要反对它，他们就是我们有可能实现这个无限善的唯一障碍。他们该有多么恶毒？大家心里都明白。</p>
-<p>第二，乌托邦都有一个<strong>明确的操作蓝图</strong>。在乌托邦世界，每一件事情都有它存在的理由。人呢？好吧，有各种各样不同的人群。有些生来倔强，也许在本质上就从属于某些价值，而这些价值在未来美好新世界中绝无立足之地。也许在社区共享的世界，他们太富于独创性；在劳工世界，他们就是个书呆子；或者，在一个虔信的社会，他们鲁莽轻率、不拘小节；在一个强调团结的社会，他们有强烈的家族意识；或者，在一个返璞归真的世界，他们过于都市化和商业化。如果你在一张白纸上设计完美新世界，你为什么不在一开始就从规划中剔除这些人呢？</p>
-<p>在《血与土地：从斯巴达到达尔富尔种族屠杀和灭绝的世界历史》一书中，历史学家本·基尔南提到了乌托邦意识形态的另一个古怪特征。人类一次又一次回望早已消失的农耕天堂，梦想复兴健康的田园生活来取代日益扩张的腐败都市。比如，启蒙运动在都市知识分子世界形成之后，德国反启蒙运动者大肆浪漫化人对土地的依附，他们赞美的正是基尔南此书的标题：血与土地。浪漫派将世界看作一个和谐、纯净而有机的整体，而难于管治的都市人口，它的流动性，以及居民按照族群和职业聚居，都是对浪漫想象的公然冒犯。19世纪和20世纪初的民族主义者都追求乌托邦，脑子里装满本民族在祖国的土地上繁荣昌盛的图景，其实蓝本就是最初开始定居生活的部落祖先流传下来的神话故事。农耕乌托邦主义成为希特勒双重偏执的依据：一重是他对犹太人的仇恨，犹太人是商业和城市的盟友；另一重是他狂妄的计划，他要将人口稀少的东欧变成让德国城市居民殖民的农庄。一些国家大规模的农村公社化和柬埔寨市民被赶到农村杀戮场也属于这一类的事例。</p>
-<p>一般集中在城市的商业活动本身也容易触发道德仇恨。我们在第9章将会看到，人的经济学直觉根植于实实在在的产品或服务一对一的等价交换——比如，三只鸡换一把刀。真正理解当代经济的那套抽象数学道具，比如货币、利润、利息和租金，并不是一件容易的事情。人对经济学的直觉中，农民和工匠生产的可触摸的物品是有价值的。商人和其他中介只是在转手商品时截取利润，没有给商品增加任何新的东西，所以，通过使素不相识或相距遥远的生产者和消费者之间的交易成为可能，他们也创造了价值，但仍被视为寄生虫。更加卑鄙的还是放债的钱商，他们出借一笔款项，收回时却要求一笔附加款，尽管他们的信贷服务让一些人在生活中最需要钱的时候不至于两手空空。人们习惯于无视商人和放债人的无形贡献，将他们看作血吸虫（又是一个使用生物学词汇的隐喻）。对个别中间商的反感，很容易会变成对一个族群的反感。中间商这个职业所需要的必备资本主要是专业知识，而不是土地和工厂，知识更多地在家族亲友之间传递，而且具有很好的便携性。出于这些原因，一些特定的族群擅长经商理财，经常在有需求的社区之间迁徙，并且成为致富的少数族裔——同时也成了嫉恨和憎恶的对象。很多歧视、驱逐、骚乱和种族屠杀的受害者都曾经是擅长经商的社会团体或族群。他们包括苏联和柬埔寨的资产阶级少数民族，东非和大洋洲的印度人，尼日利亚的伊博人，土耳其的亚美尼亚人，印度尼西亚、马来西亚和越南的华人，还有就是欧洲的犹太人。</p>
-<p><strong>政治屠杀</strong>往往是终结旧时代诗作中的高潮，是暴力的最后一次出击，它将把人类带进千秋万代的祝福之中。研究政治屠杀的历史学家已经注意到，19世纪和20世纪的乌托邦意识形态与传统宗教的末日观如同两条平行线。丹尼尔·希罗在与社会心理学家克拉克·麦考利合写的一篇文章中描述了他们的观察：</p>
-<blockquote><p><strong>马克思的历史终结事实上就是基督教教义的复述。</strong>开始，是一个没有私有财产、没有阶级、没有剥削、没有异化的世界——一个伊甸园。然后，罪恶开始了，出现了私有财产和剥削者。人类被逐出伊甸园，受到不平等和欲望的折磨。接着，人尝试了一系列的生产方式，从奴隶制、封建制、资本主义模式，始终在寻找解决问题的途径，但从来没有找到过。终于，真正的先知出现了，带来了解放的信息。他就是传播科学真理的卡尔·马克思。他自称找到了人类解放的道路，但是却没有什么人注意到他，只有几位与他接近的信徒继承了他的衣钵。但是最终，无产阶级，真正信仰的承载者，在党和领袖的领导下皈依了新的宗教，齐心协力共创一个更美好的世界。<strong>一场最后的也是恐怖的革命将彻底消灭资本主义、异化、剥削和不平等。在那之后则是历史的终结，地球上将有一个完美的新社会，真正信仰马克思主义的人终将获救。</strong></p></blockquote>
-<p>在历史学家乔基姆·费斯特和乔治·莫斯的著述中，他们对纳粹的末世主义做了如下评价：</p>
-<blockquote><p><strong>希特勒许诺一个“千年帝国”，一个永恒的完美世界，与《新约》启示录中恶魔重返世界之前的千年福地、善与恶的较量以及上帝战胜撒旦的最后胜利非常相似。</strong>他对纳粹党国的全部想象都极为神秘，弥漫着宗教——多为基督教的气息，充斥着仪式和符号，它的党国服从更高的律令——一个由先知希特勒受命完成的天赋重任。</p></blockquote>
-<p>最后，要胜任这些工作职位，有特殊的资格要求。你想承受管理一个完美世界的压力和责任吗？<strong>乌托邦社会的领导人需要极端的自恋和无情。</strong>这些领袖们对其事业的正义性坚信不疑，对渐进改革和动态调整毫无耐心，完全不顾及他们的宏大实验对人类产生的实际后果。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-%E4%B8%8B%E5%8D%887.17.42.png?resize=530%2C296" alt="Screen Shot 2016-04-23 at 下午7.17.42" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-下午7.17.42.png?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-下午7.17.42.png?w=530 530w" sizes="(max-width: 530px) 100vw, 530px" data-recalc-dims="1"><br><span>《希特勒回来了》（2015）剧照。影片中，希特勒在2014年醒来，首当其冲的疑惑就是，为什么人们不再称其为“我的元首”，不再抬起右臂；最终希特勒成为一个靠讽刺批评社会、大众媒体与名人糊口的二流电视明星</span></p>
-<p>要想理解种族屠杀，必须理解领导人的动机，因为心理要素——本质主义的思维范式，霍布斯的贪婪、恐惧和复仇，厌恶情绪的道德化，乌托邦意识形态的号召力，这一切不可能在一瞬间征服一个国家的所有人民，激发他们大开杀戒。各个不同的群体，可以互相回避、互不信任甚至互相蔑视，但仍然可以长期共存，完全不发生种族屠杀。比如，美国南方种族隔离时期的非裔，以色列和被占领土地上的巴勒斯坦人，南非种族隔离时期的非洲人。甚至在纳粹德国，反犹情绪已经存在了几百年，但也只有希特勒及其几个狂热的党羽认为灭绝犹太人是个好主意。而当进行大屠杀的时候，人口中只有很少一部分人，通常是警察、军队或者民兵真正下手谋杀。</p>
-<p>在公元1世纪，塔西陀说过：“那些滔天大罪都是这样发生的——少数寡廉鲜耻的人倡导，一些人附和赞成，其他所有人一声不吭，被动地默许。”据政治学家本杰明·瓦伦蒂诺在《最终解决方案》一书中的描述，塔西陀的分工也适用于20世纪的种族屠杀。一位领袖或者一小撮党棍决定何时开始大屠杀，他向相对人数不多的武装分子下达行动命令。这些人都是真诚的信徒、坚定的追随者和流氓恶棍（就像在中世纪一样，通常是从罪犯、流浪汉和无业年轻人中招募而来）。他们指望大多数人不会出头阻挡他们，而事实上大多数人也确实会如此。产生大屠杀的心理要素，比如本质主义、道德化和乌托邦思想对不同人群有不同的影响。领袖及其追随者满脑子都是这些意识形态，但是大众不需要太多，就足以打破平衡，让领袖的计划付诸实施。<strong>20世纪种族屠杀的历史明白无误地证实了领袖的不可或缺，当他们被推翻或者死去之日，就是屠杀停止之时。</strong></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%89%E8%BE%89%E5%9B%BE%E4%B9%A6-%E4%BB%8E%E4%B9%8C%E6%89%98%E9%82%A6%E5%88%B0%E5%A4%A7%E5%B1%A0%E6%9D%80%EF%BC%8C%E6%9C%89%E5%A4%9A%E8%BF%9C%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E6%89%98%E9%82%A6/?category=18271" rel="tag">乌托邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E7%89%B9%E5%8B%92/?category=18271" rel="tag">希特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D/?category=18271" rel="tag">种族灭绝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -789,7 +783,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -799,5 +793,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%86%9C%E6%9D%91%E5%84%BF%E7%AB%A5%E7%9A%84%E8%90%A5%E5%85%BB%E4%B8%8D%E8%89%AF%EF%BC%8C%E8%B4%AB%E8%A1%80%E4%BB%A5%E5%8F%8A%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93/" target="cdt-mirror">神乐坂卢纳 ｜被遗忘的农村儿童的营养不良，贫血及发育迟缓</a>
@@ -61,7 +61,7 @@ References</strong></p>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E5%81%A5%E5%BA%B7/?category=18271" rel="tag">儿童健康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">儿童权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0%E4%BA%BA%E5%8F%A3/?category=18271" rel="tag">贫困人口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%A6%99%E6%B8%AF%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%9B%9B%E5%A4%A9%E6%9C%89%E4%B8%93%E6%A0%8F%E5%BC%80%E5%A4%A9%E7%AA%97%E6%8A%97%E8%AE%AE/" target="cdt-mirror">BBC｜香港《明报》连续第四天有专栏“开天窗”抗议</a>
 </h2>
@@ -617,7 +617,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%82%B2
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9/?category=18271" rel="tag">切尔诺贝利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%AE%89%E5%85%A8/?category=18271" rel="tag">核安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5%E7%AB%99/?category=18271" rel="tag">核电站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%BE%E9%9A%BE/?category=18271" rel="tag">灾难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E7%90%86%E4%BD%93%E5%88%B6/?category=18271" rel="tag">管理体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0/?category=18271" rel="tag">网易回声</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E4%BA%94%E5%9C%B0%E9%A9%BB%E5%8D%8E%E5%A4%96%E4%BA%A4%E5%AE%98%E6%8E%A2%E5%80%AA%E7%8E%89%E5%85%B0%E5%8F%97%E9%98%BB-%E5%AE%98%E5%AA%92%E8%AE%A5%E5%A4%B1%E8%B4%A5/" target="cdt-mirror">BBC | 五地驻华外交官探倪玉兰受阻 官媒讥失败</a>
 </h2>
@@ -783,7 +783,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B8%E5%9E%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -793,5 +793,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B8%E5%9E%8B
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

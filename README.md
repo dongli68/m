@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BD%91%E7%9B%98%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB%E5%90%AF%E5%8A%A8%EF%BC%9A%E6%96%B0%E6%B5%AA%E5%BE%AE%E7%9B%98%E3%80%81uc%E7%BD%91%E7%9B%98%E5%85%B3/" target="cdt-mirror">澎湃新闻 | 网盘专项整治启动：新浪微盘、UC网盘关闭存储服务</a>
+</h2>
+<p><p>新一波网盘整治行动来袭。</p>
+<p>4月25日，新浪微盘宣布将停止对免费用户提供存储服务，并暂停微盘文件的搜索、分享功能。这是两个月内第三家暂停部分功能的网盘。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/611.jpg?resize=550%2C864" alt="611" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/611.jpg?resize=191%2C300 191w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/611.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>对于此次业务调整的原因，新浪方面对澎湃新闻表示“以公告为准”，未透露是监管部门的哪个整治行动。</p>
+<p>澎湃新闻注意到，新浪的另一份公告称，为配合国家有关部门积极开展网盘上涉黄、涉盗版内容的清查工作，对不良信息进行集中清理，关闭新浪微盘的搜索、分享功能，直到清理完毕。</p>
+<p>3月17日，阿里巴巴旗下的UC网盘公告称，4月15日起终止网盘的存储服务，停止UC网盘的上传服务/离线资源存至网盘功能/视频转码服务。同时，UC网盘离线下载服务器将暂停“下载至本地”功能。UC网盘称，关闭是为了配合国家关于利用网盘传播淫秽色情信息专项整治行动。</p>
+<p>更早之前的3月8日，老牌网盘产品115网盘称：为遏制不法分子可能利用115产品进行违法犯罪活动，继关闭“礼包文件分享”功能之后，我司决定即日起对“我聊”功能进行整改；整改期间，我聊将下线“文件发送”模块。</p>
+<p>用户称，如此一改，115网盘等于成为了一个单机网络备份盘，即便是好友也无法互相发送文件了。<br>
+网盘是网友能进行在线云储存的空间。网盘可以存储各类文件，不仅有学习资料，也暗藏色情信息和盗版美剧小说等内容。</p>
+<p>上一波的网盘整治行动是在2015年年中。当时，全国“扫黄打非”办公室组织各地约谈了360云盘、乐视云、酷盘、华为网盘、115网盘、UC网盘、迅雷快盘等一大批网盘企业，并且对情节严重的迅雷快盘等网盘企业进行了行政处罚。</p>
+<p>新浪微盘当时表示，共审核删除了2.1万余条侵权内容，并自2015年5月起关闭了移动端和网页端的视频在线播放功能，停止了网页端大于100M文件的保存与下载，侵权内容大幅减少。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/615.jpg?resize=600%2C263" alt="615" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/615.jpg?resize=300%2C132 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/615.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>根据比达咨询的报告，截至2015年12月，新浪微盘有240万人的月活跃用户，115网盘有205万人的月活跃用户。</p>
+<p>百度云、华为云盘、360云盘是用户最多的中国移动网盘提供商。目前，澎湃新闻还未获悉这三家网盘进行产品调整。</p>
+<p>澎湃新闻注意到，2015年10月，国家版权局发布了《关于规范网盘服务版权秩序的通知》，进一步明确了网盘服务商在提供网盘服务中应当履行的义务和承担的责任，将法律法规中的有关要求具体化，增加了可操作性和执行性。</p>
+<p>国家版权局版权管理司负责人表示，《通知》的目的不是限制用户对网盘的正常使用，而是要规范利用网盘进行违法上传、存储并分享他人作品的行为，其中“分享”是引发作品传播的关键。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BD%91%E7%9B%98%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB%E5%90%AF%E5%8A%A8%EF%BC%9A%E6%96%B0%E6%B5%AA%E5%BE%AE%E7%9B%98%E3%80%81uc%E7%BD%91%E7%9B%98%E5%85%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90/?category=18271" rel="tag">不法分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%98%E5%82%A8/?category=18271" rel="tag">存储</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84/?category=18271" rel="tag">扫黄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%9B%98/?category=18271" rel="tag">网盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%9B%98%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB/?category=18271" rel="tag">网盘专项整治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8F%9C%E5%B8%82%E6%A8%B1%E6%A1%83%E4%BB%B7%E6%A0%BC%E4%B9%8B%E8%B0%9C%EF%BC%9A%E6%9D%8E%E5%85%8B%E5%BC%BA%E7%9C%8B%E5%88%B0%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF3%E5%85%83%E8%BF%98%E6%98%AF30/" target="cdt-mirror">菜市樱桃价格之谜：李克强看到的到底是3元还是30元一斤？</a>
 </h2>
 <p><p>近日，中国官媒报道了<a href="http://finance.sina.com.cn/china/gncj/2016-04-26/doc-ifxrpvea1239554.shtml" target="_blank">李克强视察成都菜市</a>的新闻：</p>
@@ -48,7 +75,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D/?category=18271" rel="tag">影帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%BB%B7%E4%B8%8A%E6%B6%A8/?category=18271" rel="tag">物价上涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E6%B1%89%E8%AF%AD%E5%AF%B9%E7%8E%B0%E4%BB%A3%E6%96%87%E6%98%8E%E7%9A%84%E8%B4%A1%E7%8C%AE%E6%9C%89%E5%A4%9A%E5%A4%A7/" target="cdt-mirror">大象公会｜汉语对现代文明的贡献有多大</a>
 </h2>
@@ -792,33 +819,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%AD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%94%BF%E6%B3%95%E5%A7%94%E7%9A%86%E4%BC%A0%E8%BE%BE%E4%B8%AD%E5%A4%AE%E9%80%9A%E7%9F%A5%EF%BC%9A%E7%A6%81%E7%94%A8%E4%B9%A0%E5%A4%A7/" target="cdt-mirror">法广 | 新华社政法委皆传达中央通知：禁用“习大大”称呼</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fcdae5117bf7363052cc160a9a85eb55_r.jpg?resize=500%2C333" alt="fcdae5117bf7363052cc160a9a85eb55_r" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fcdae5117bf7363052cc160a9a85eb55_r.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/fcdae5117bf7363052cc160a9a85eb55_r.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><br>
-（图片来自网络）</p>
-<p>昨日（4月22日），香港《明报》刊发独家消息，称中共中央近日下达到各地的一份中央文件，对各地领导人提出新要求，要求对“权威”表述要全面、准确、规范，并不得使用“习大大”这样的称呼。</p>
-<p>本台（法广）得知， 中央政法委至少在4月20日之前，就对旗下媒体传达了上述通知，当时，政法系媒体人透露，“接上级指示，政法系统各媒体包括新媒体，不要再称呼总书记为习大大”。</p>
-<p>此外，本台得知，昨天新华社系统开会传达了中共中央的上述指示，其中也明确提出，不得再使用“习大大”这样的称呼。</p>
-<p>据《明报》的这篇报道，各地方媒体已陆续接到中宣部指令，要求今后在报道中不再称呼习近平为“习大大”，但记者询问了多家地方媒体，均称尚未接到类似的通知，可能与层层传达需要时间有关。</p>
-<p>《明报》报道说，中共中央这份文件提出，对“以习近平同志为总书记的党中央”等官方说法不得随意增加、更改，对“核心”的用法不要泛化，要按照中央政治局“三严三实”民主生活会公开报道的通稿表述。</p>
-<p>去年12月28日、29日，中共中央政治局召开专题民主生活会，话题是对照检查践行“三严三实”情况————所谓“三严三实”是指习近平提出的“既严以修身、严以用权、严以律己；又谋事要实、创业要实、做人要实”。</p>
-<p>当时新华社报道说，习近平在讲话中则要求政治局成员“必须有很强的看齐意识，经常、主动向党中央看齐，向党的理论和路线方针政策看齐”。</p>
-<p>《明报》强调，通稿中并无“权威”、“核心”等提法。</p>
-<p>随后的1月11日，以四川省委书记王东明、天津市委代理书记黄兴国公开讲话为首，多个省份在传达在中央政治局“三严三实”专题民主生活会讲话时，提出要维护习近平总书记这个“核心”。</p>
-<p>随后跟进的有安徽王学军、广西彭清华、湖北李鸿忠、西藏陈全国、内蒙王君、江苏罗志军、海南罗保铭等至少九名省委书记在公开会议上拥护习“核心”。</p>
-<p>1月26日，《星岛日报》发表题为《重现核心 十九大分晓》的文章，称习近平“权势跨越江胡，直逼毛邓，已被视为‘不是核心的核心’”，只差“正名”而已。</p>
-<p>所谓“习大大”，最早是在半官方背景的微信公号“学习粉丝团”开始使用，随后又有“彭麻麻”的说法，很快，人民日报的官方微信公号、甚至新华社的报道中都经常可见这一称呼。</p>
-<p>“大大”在中国西北和华北地区，一般是对父亲或者比父亲年长的长辈如伯父的称呼，加上“彭麻麻”作为对应，似乎只能理解为父亲。</p>
-<p>中共前领袖邓小平曾有“我是中国人民的儿子”的自述，官方媒体把新任政治领袖习近平称为中国人民的“父亲”，颇有辈分错乱之感，不少中国网友觉得不适，斥之为“五行缺爹”。</p>
-<p>官方此番自我修正，背后有多少博弈不得而知，但仍可赞其为政治伦理的些许进步。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF-%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%94%BF%E6%B3%95%E5%A7%94%E7%9A%86%E4%BC%A0%E8%BE%BE%E4%B8%AD%E5%A4%AE%E9%80%9A%E7%9F%A5%EF%BC%9A%E7%A6%81%E7%94%A8%E4%B9%A0%E5%A4%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7%E7%A7%B0%E5%91%BC%E8%A2%AB%E7%A6%81/?category=18271" rel="tag">习大大称呼被禁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -830,7 +830,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -840,5 +840,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

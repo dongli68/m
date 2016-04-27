@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%86%9C%E6%9D%91%E5%84%BF%E7%AB%A5%E7%9A%84%E8%90%A5%E5%85%BB%E4%B8%8D%E8%89%AF%EF%BC%8C%E8%B4%AB%E8%A1%80%E4%BB%A5%E5%8F%8A%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93/" target="cdt-mirror">神乐坂卢纳 ｜被遗忘的农村儿童的营养不良，贫血及发育迟缓</a>
@@ -465,7 +465,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">境外组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87/?category=18271" rel="tag">组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%97%A7%E6%96%87%E3%80%91%E4%B8%AD%E5%85%B1%E4%B8%83%E5%A4%A7%EF%BC%9A%E5%85%B1%E4%BA%A7%E5%85%9A%E6%9D%80%E8%87%AA%E5%B7%B1%E5%90%8C%E5%BF%97%E6%AF%94%E5%9B%BD%E6%B0%91%E5%85%9A%E6%9D%80/" target="cdt-mirror">【旧文】中共七大：共产党杀自己同志比国民党杀的还多</a>
 </h2>
@@ -783,7 +783,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B8%E5%9E%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -793,5 +793,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B8%E5%9E%8B
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,106 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8F%9C%E5%B8%82%E6%A8%B1%E6%A1%83%E4%BB%B7%E6%A0%BC%E4%B9%8B%E8%B0%9C%EF%BC%9A%E6%9D%8E%E5%85%8B%E5%BC%BA%E7%9C%8B%E5%88%B0%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF3%E5%85%83%E8%BF%98%E6%98%AF30/" target="cdt-mirror">菜市樱桃价格之谜：李克强看到的到底是3元还是30元一斤？</a>
+</h2>
+<p><p>近日，中国官媒报道了<a href="http://finance.sina.com.cn/china/gncj/2016-04-26/doc-ifxrpvea1239554.shtml" target="_blank">李克强视察成都菜市</a>的新闻：</p>
+<blockquote><p>【李克强拎了拎成都的“菜篮子”】“你一个月挣多少钱？每天能吃上肉吗？”李克强26日一早到成都益民菜市询问一位买菜市民。总理沿摊位不时停下细问店员各类蔬菜和猪肉价格变化，随后对当地负责人提出三点要求：一要保障农产品供应充足，二要保障食品安全，三要保障低保及低保边缘困难群众基本生活。</p></blockquote>
+<p>然而由于这则新闻中的蔬果标价过低，随即引来大量网民吐槽。从视频中看，樱桃似乎是¥3／斤：</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/81901d44jw1f3act5g1yfj20qo0ez0vs.jpg" rel="attachment wp-att-435907"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/81901d44jw1f3act5g1yfj20qo0ez0vs.jpg?resize=550%2C309" alt="成都菜市樱桃标价1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/81901d44jw1f3act5g1yfj20qo0ez0vs.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/81901d44jw1f3act5g1yfj20qo0ez0vs.jpg?resize=768%2C431 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/81901d44jw1f3act5g1yfj20qo0ez0vs.jpg?w=960 960w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>图片来自新浪微博@四川张云强</span></p></div>
+<p>后有网民贴出更为清晰的现场照片，称菜市价格没错，只是小数点放的位置偏了。如果属实，<strong>这种标价方式却有误导消费者认为樱桃是3元一斤、枇杷¥3.5一斤的嫌疑。</strong>在日常生活中，<strong>标价30元的格式是<span>¥30.00</span>而不是¥30.0</strong>，“元”的数字较大，“分”的较小。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6362d8eajw1f3ahq03dvjj20k00zkwjj.jpg" rel="attachment wp-att-435905"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6362d8eajw1f3ahq03dvjj20k00zkwjj.jpg?resize=400%2C711" alt="成都菜市樱桃标价2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6362d8eajw1f3ahq03dvjj20k00zkwjj.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6362d8eajw1f3ahq03dvjj20k00zkwjj.jpg?w=690 690w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>日常生活里的商品标价中，“元”的数字较大，“分”的较小。这种标价有误导消费者之嫌。<em>图片来自新浪微博@打奥特曼de小怪兽 </em></span></p></div>
+<p>但同时也有网民认为在类似的标价照片中PS上小数点并非难事：</p>
+<blockquote><p><a href="http://weibo.com/2322887150" target="_blank">@星星是水果味的</a>：回复<a href="http://weibo.com/n/%E6%89%93%E5%A5%A5%E7%89%B9%E6%9B%BCde%E5%B0%8F%E6%80%AA%E5%85%BD?from=feed&loc=at" target="_blank">@打奥特曼de小怪兽</a>:有技术就是好，羡慕<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg" rel="attachment wp-att-435915"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?resize=440%2C440" alt="成都菜市樱桃标价4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?resize=300%2C300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?resize=50%2C50 50w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p></blockquote>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/883e450bjw1f3ahn83286j20ci0k9gni.jpg" rel="attachment wp-att-435906"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/883e450bjw1f3ahn83286j20ci0k9gni.jpg?resize=400%2C648" alt="李克强视察成都菜市吐槽" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/883e450bjw1f3ahn83286j20ci0k9gni.jpg?resize=185%2C300 185w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/883e450bjw1f3ahn83286j20ci0k9gni.jpg?w=450 450w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>疑似成都市民吐槽。<em>图片来自新浪微博</em></span></p></div>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>良药良心：欺负总理戴眼镜，个位数字写成小数位大小</p>
+<p>九十九宗：多么诡异的0和小数点啊。。</p>
+<p>小何传播：看小数点像是30元，看数字大小应该是3元。</p>
+<p>大风起兮-ZDH卓103：揭超市的锅盖，超市的锅盖被揭…</p>
+<p>来世做条狗：是30一斤的樱桃，不过也没那么便宜吧？</p>
+<p>天涯赵瑜：小数点是总理走了以后挪的吧。有这样标示小数点价格的吗，平常。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8F%9C%E5%B8%82%E6%A8%B1%E6%A1%83%E4%BB%B7%E6%A0%BC%E4%B9%8B%E8%B0%9C%EF%BC%9A%E6%9D%8E%E5%85%8B%E5%BC%BA%E7%9C%8B%E5%88%B0%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF3%E5%85%83%E8%BF%98%E6%98%AF30/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D/?category=18271" rel="tag">影帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%BB%B7%E4%B8%8A%E6%B6%A8/?category=18271" rel="tag">物价上涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E6%B1%89%E8%AF%AD%E5%AF%B9%E7%8E%B0%E4%BB%A3%E6%96%87%E6%98%8E%E7%9A%84%E8%B4%A1%E7%8C%AE%E6%9C%89%E5%A4%9A%E5%A4%A7/" target="cdt-mirror">大象公会｜汉语对现代文明的贡献有多大</a>
+</h2>
+<p><p><strong>汉语是全世界母语人数最多的语言，在中国媒体的报道中，它似乎也是老外最热衷学习的语言。汉语的地位真有中国人想象的那么高吗？</strong></p>
+<p><em>文｜刘周岩</em></p>
+<p>据新华社报道，截至 2014 年 3 月，全球汉语学习人数已超过一亿。孔子学院开遍世界、各国中小学生争相学汉语的报道也屡见于国内媒体。似乎今天谁不学汉语，谁就要落后于时代。看起来，汉语已随着中国国力的提升成为除英语外世界上最重要的语言。</p>
+<p>可事实真的如此吗？</p>
+<p><strong>用户多未必影响大</strong></p>
+<p>判断语言影响力的常见标准，是使用这种语言的人数和使用这种语言的国家的国力，按照这两个标准，汉语是当之无愧的世界第二语言。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%AF%8D%E8%AF%AD%E4%BA%BA%E6%95%B0.jpg" rel="attachment wp-att-435937"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%AF%8D%E8%AF%AD%E4%BA%BA%E6%95%B0.jpg?resize=500%2C441" alt="母语人数" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/母语人数.jpg?resize=300%2C265 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/母语人数.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span><strong>▍汉语是世界上母语人数第一的语言，有近 14 亿母语使用者，远大于第二位的六亿母语者的印地-乌尔都语，第三到五位分别是英语、阿拉伯语、西班牙语（图片来源：华盛顿邮报）</strong></span></p>
+<p>从使用人数来讲，汉语是当之无愧的第一大语言。若是考虑国家经济实力（按 GDP 计算），虽不及英语国家总和，但也稳坐第二位。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/GDP%E8%AF%AD%E8%A8%80%E6%AF%94%E4%BE%8B.jpg" rel="attachment wp-att-435936"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/GDP%E8%AF%AD%E8%A8%80%E6%AF%94%E4%BE%8B.jpg?resize=500%2C318" alt="GDP语言比例" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/GDP语言比例.jpg?resize=300%2C191 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/GDP语言比例.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span><strong>▍2003-2010 年间 GDP 按照语言的比例分布，汉语仅次于英语，且占比逐年上升</strong></span></p>
+<p>不过，母语者人数和 GDP，不能直接表征语言本身的信息价值和传播情况。GDP 衡量的是国家经济情况，用它推测该国的语言影响力，实际上是假设了语言与经济情况之间存在正相关性，但这个前提本身并未得到确证。</p>
+<p>按照语言自身的标准，中文在“信息产量”上也是绝对的前二。例如期刊文章发表量和互联网信息量，中文都是仅次于英文的世界第二语言。不过这两个标准的问题在于，它们表征的仅仅是信息规模而非“信息质量”。</p>
+<p>那么，有没有一种数据，既能反映某种语言产出的信息规模，又可以体现信息的质量，甚至是与其他语言之间的关系呢？有，这就是书籍翻译量。</p>
+<p>在各种不同形式的信息载体中，正规出版的纸质书籍往往是较高质量的信息内容，大大过滤了垃圾信息。各种语言间互相翻译的书籍，更是一种二次过滤，因为只有具备较高价值或需求的书籍才会被翻译成其他语言。由此，不同语言的书籍翻译输出和输入数字，可以直观地反映高质量信息的流动、传播方向，以及不同语言在人类知识生产中的地位。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%9C%A3%E7%BB%8F.jpg" rel="attachment wp-att-435935"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%9C%A3%E7%BB%8F.jpg?resize=500%2C380" alt="圣经" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/圣经.jpg?resize=300%2C228 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/圣经.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span><strong>▍《圣经》不仅是最畅销的书籍，也是被翻译成最多语言的书籍。人类文明中越重要的书籍会被翻译成越多种语言</strong></span></p>
+<p>国际联盟从 1932 年开始就收集各国翻译图书的数据，后来这个任务交由联合国教科文组织负责，建立了世界书籍翻译数据库（UNESCO Index Translationum）。各国政府向联合国教科文组织提供正规出版物中翻译著作的信息，1979 年起的数据都已经完成电子化，可以线上检索。</p>
+<p>如果以书籍翻译量作为评判标，中文再也不是世界前二了。根据 2012 年截取的数据（此数据自 1979 年起记录，后文未加特别注明的“翻译量”“翻译排名”等均指这一部分数据），人类社会一共出版大约两百万种翻译书籍（不考虑印数，同一本书的不同译本分别计算）。</p>
+<p>其中由中文翻译成外文的书籍一万三千余种，由外文翻译成中文的六万三千余种，合计七万六千种左右，这一数字位于全部语言的第十四位。不仅远远不及英、德、法等语言，也不及许多小语言如丹麦语、捷克语等。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%BF%BB%E8%AF%91%E6%80%BB%E9%87%8F%E5%89%8D%E4%BA%8C%E5%8D%81%E7%9A%84%E8%AF%AD%E8%A8%80.jpg" rel="attachment wp-att-435934"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%BF%BB%E8%AF%91%E6%80%BB%E9%87%8F%E5%89%8D%E4%BA%8C%E5%8D%81%E7%9A%84%E8%AF%AD%E8%A8%80.jpg?resize=500%2C470" alt="翻译总量前二十的语言" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/翻译总量前二十的语言.jpg?resize=300%2C282 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/翻译总量前二十的语言.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span><strong>▍翻译总量前二十的语言，中文仅位列第十四位</strong></span></p>
+<p>翻译数据库所涉及到的超过一千种语言，非常明显地分为四个梯队：</p>
+<p>第一梯队是唯一的超核心语言，即英文，全部翻译书籍中约 60%是由英文译出或译为英文；</p>
+<p>第二梯队是两个核心语言，德文和法文，各 20%的翻译书籍由它们译出或译入；</p>
+<p>第三梯队是五个区域性核心语言，分别是西班牙文、俄文、日文、荷兰文、意大利文，由其中一种语言译出或译入的比例在 5-10%之间；</p>
+<p>第四梯队是所有其他语言，即边缘性语言，全部翻译书籍中由其中任意一种语言译出或译入均小于 5%（所有百分比加和应为 200%，因为一本书涉及翻译出与翻译入两种语言，被计算两次）。</p>
+<p>由中文译出或译入的书籍，只占人类社会全部翻译书籍的 3%，中文属于第四梯队的边缘性语言。</p>
+<p><strong>十三亿人的信息孤岛</strong></p>
+<p>翻译规模仅仅是一个方面，另一方面是各语言之间互相翻译的“通道”。全球语言之间的翻译构成一种网络结构，如同高速公路、铁路网，翻译量只能显示“通车量”，在这个网络中的位置以及和其他节点的连接情况决定了这种语言与其他语言的互通程度。</p>
+<p>MIT Media Lab 基于这个翻译数据库构建了全球语言网络结构，并计算了每种语言的特征向量中心性（Eigenvector Centrality）。特征向量中心性是网络中某个节点重要性的度量，与这个节点和其他节点的连接权重成正相关。谷歌的页面排名计算即是基于特征向量中心性。我们可以将这个值称为“语言中心性指数”。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%A8%E7%90%83%E8%AF%AD%E8%A8%80%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%841.jpg" rel="attachment wp-att-435933"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%A8%E7%90%83%E8%AF%AD%E8%A8%80%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%841.jpg?resize=500%2C360" alt="全球语言网络结构1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/全球语言网络结构1.jpg?resize=300%2C216 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/全球语言网络结构1.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span><strong>▍基于世界书籍翻译数据的全球语言网络结构。中文是下方的橙色圈“ZHO”。圈的大小表示语言中心性指数；圈的颜色表示语系；连线粗细表示翻译量</strong></span></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%A8%E7%90%83%E8%AF%AD%E8%A8%80%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%842.jpg" rel="attachment wp-att-435932"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%A8%E7%90%83%E8%AF%AD%E8%A8%80%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%842.jpg?resize=500%2C229" alt="全球语言网络结构2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/全球语言网络结构2.jpg?resize=300%2C137 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/全球语言网络结构2.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span><strong>▍各种语言的中心性指数排名，中文位于第二十位</strong></span></p>
+<p>在全球语言网络中，英文处于绝对的中心位置，是信息交互的枢纽，其中心性指数高达 0.90，法文以 0.30 居第二位，德语以 0.26 与法文同处第二梯队。第三梯队中，意大利文借由其在欧洲语言中的重要地位，尤其是和英文、法文、德文的良好信息交互，以 0.09 的中心性位列第三梯队的首位，但按照书籍翻译量排名意大利只是第三梯队的第五。和意大利文情况相反的是日文，因为日文与欧洲语言的信息交互较弱，其中心性指数排名低于翻译量排名。</p>
+<p>中文的中心性指数如何呢？很不幸，比按照翻译数量的排名还低，仅以 0.014 的特征向量中心性位于第二十位，这说明中文处在语言网络中的边缘位置。中文与英文、日文两种语言互相翻译较多，而与其他几种主要欧洲语言的翻译则相对较少。中文某种程度上也是一个“区域枢纽”，蒙文、藏文等高度依赖于中文，但这些语言本身即处于世界语言结构非常边缘的位置。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%A8%E7%90%83%E8%AF%AD%E8%A8%80%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%843.jpg" rel="attachment wp-att-435931"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%A8%E7%90%83%E8%AF%AD%E8%A8%80%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%843.jpg?resize=500%2C288" alt="全球语言网络结构3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/全球语言网络结构3.jpg?resize=300%2C173 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/全球语言网络结构3.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span><strong>▍以中文为关注焦点的结构示意图。中文直接与英文相连，此外与日文、韩文联系也较紧密，其他一些语言类似蒙文、藏文等则需要依靠中文作为信息中转枢纽</strong></span></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%A8%E7%90%83%E8%AF%AD%E8%A8%80%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%844.jpg" rel="attachment wp-att-435930"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%85%A8%E7%90%83%E8%AF%AD%E8%A8%80%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%844.jpg?resize=500%2C305" alt="全球语言网络结构4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/全球语言网络结构4.jpg?resize=300%2C183 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/全球语言网络结构4.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span><strong>▍以英文为关注焦点的结构示意图。英文作为核心中枢，与绝大多数重要语言建立了直接的、大量的信息交互</strong></span></p>
+<p>如果以交通网来比喻语言网络，英文就是北京，是四通八达的核心枢纽，德语、法文是上海、广州等全国性枢纽，日文是区域性枢纽如西安，中文则是西宁，而蒙文、藏文等则是德令哈、刚察。</p>
+<p>信息流动更类似于航空而非公路，每一次连接都需要巨大成本，所以不是按照最短距离，而是按照最少连接次数的原则进行传递信息。但不是任意两点之间都可以连接，一个节点只能和上级中枢或周围节点连接。</p>
+<p>二十世纪初，中文在世界语言网络中的位置更边缘。鲁迅翻译凡尔纳小说时，即是按日译本译成中文，日译本则是由英译本译出，英译本根据法文原文译出。这样一个法文-英文-日文-中文的途径，非常好的展示了英文作为核心中枢以及日文作为区域中枢的作用。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%B2%81%E8%BF%85%E7%BF%BB%E8%AF%91.jpg" rel="attachment wp-att-435929"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%B2%81%E8%BF%85%E7%BF%BB%E8%AF%91.jpg?resize=500%2C374" alt="鲁迅翻译" data-recalc-dims="1"></a><br><span><strong>▍鲁迅翻译的凡尔纳小说版本</strong></span></p>
+<p>当然，今天中文世界已经有许多直接根据法文原文译出的凡尔纳作品，但是，更小众的信息或是其他边缘性语言的信息想要进入中文世界，仍然要借助其他枢纽的中转，最主要的就是英文枢纽。</p>
+<p>所以，虽然中文有着最多的使用人数，占据了世界第二位的 GDP，但在全球语言信息网络中，处于信息的孤岛，外面的信息进来不易，中文世界的信息想传递出去也不易。与中文类似的这种体量大但信息交互性差的语言，还有阿拉伯语。</p>
+<p><strong>位置取决于对人类文明的贡献</strong></p>
+<p>既然中文有如此多的使用人数，现今中国的国力也不容小觑，那为什么中文仍处在全球语言网络的边缘位置？</p>
+<p>究其根本，是中国的文化影响力过低导致了中文的边缘性。</p>
+<p>对于上面的判断，有没有什么可以验证的数据呢？有。</p>
+<p>MIT 将他们计算出的语言中心性指数与各类数据进行拟合，发现与 <em>Human Accomplishment</em> 中提供的人类知名人士（1800-1950 年）数量存在高度相关性，确定系数 R 平方达 0.858。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E5%90%8D%E4%BA%BA%E5%A3%AB%E5%88%97%E8%A1%A8.jpg" rel="attachment wp-att-435928"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E5%90%8D%E4%BA%BA%E5%A3%AB%E5%88%97%E8%A1%A8.jpg?resize=375%2C353" alt="知名人士列表" data-recalc-dims="1"></a><br><span><strong>▍语言中心性指数与 <em>Human Accomplishment</em> 提供的知名人士数量的拟合结果，呈高度正相关</strong></span></p>
+<p><em>Human Accomplishment</em> 中的“知名人士列表”由查尔斯·默里制作，通过计算百科全书、学科史书籍中某人出现的次数和描述篇幅等，得出人物知名度指数。不计商人、政治家、明星等，只记科学家、艺术家、哲学家，故可认为是学者共同体所公认的“人类知识创造者”。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E5%90%8D%E4%BA%BA%E5%A3%AB%E5%88%97%E8%A1%A82.jpg" rel="attachment wp-att-435927"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%9F%A5%E5%90%8D%E4%BA%BA%E5%A3%AB%E5%88%97%E8%A1%A82.jpg?resize=500%2C320" alt="知名人士列表2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知名人士列表2.jpg?resize=300%2C192 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/知名人士列表2.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span><strong>▍按照国家和语言排序的 1800-1950 年间知名人士数量，由查尔斯·默里统计。语言根据国家文化背景有加权计算，所以出现非整数</strong></span></p>
+<p>在这份知名人士列表中，英语、德语、法语使用者位列前三，这三种语言也同样是目前世界知识体系中最核心的三种语言，处于信息网络的核心。</p>
+<p>近现代以来，中国人（或称“中文使用者）对人类整体知识的贡献非常小，是导致中文处于知识网络边缘地位的根本原因。另外，知识产出与语言影响力之间不是单向的因果关系，当语言影响力提升后，也会反过来促进使用该语言的人更容易地向外传播乃至创造知识。</p>
+<p>同样可以佐证这一点的是，涉及到中文的翻译书籍中，翻译入中文与由中文翻译出的比例为 4.7:1（翻译入 62,650 种，翻译出 13,337 种）。翻译入远多于翻译出，说明这种语言是一种文化弱势语言，接受外来文化程度大于向外输出文化。</p>
+<p>与此形成鲜明对比的是英文，英文的翻译入与翻译出比例为 1:8.4（翻译入 146,294 种，翻译出 1,225,237 种）。由英文翻译为其他语言的书籍远远多于由其他语言翻译为英文的书籍，说明英文是一种向外输出知识和文化的强势语言。</p>
+<p>实际上，英文是唯一一种翻译出远大于翻译入的语言（不算拉丁语等死语言）。第二梯队的德文、法文，第三梯队中的意大利文、俄文，它们的翻译入与翻译出大体持平，其他的所有语言几乎都是翻译出显著小于翻译入，而翻译入的源语言主要就是英文。</p>
+<p>在这已不算多的文化输出中，古代和所谓“传统”文化仍然占据了中文文化输出的一大部分。1979 年以来被翻译最多的前三位中文作家分别是老子、孙子和孔子，都是古人。2004-2014 年间，日本出版的由中文译出的书籍中，最多的是文学作品，其次分别是中医类书籍和中国传统艺术类书籍。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%A2%AB%E7%BF%BB%E8%AF%91%E4%B8%BA%E5%A4%96%E6%96%87%E6%9C%80%E5%A4%9A%E7%9A%84%E4%B8%AD%E6%96%87%E4%BD%9C%E5%AE%B6.jpg" rel="attachment wp-att-435926"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%A2%AB%E7%BF%BB%E8%AF%91%E4%B8%BA%E5%A4%96%E6%96%87%E6%9C%80%E5%A4%9A%E7%9A%84%E4%B8%AD%E6%96%87%E4%BD%9C%E5%AE%B6.jpg?resize=500%2C170" alt="被翻译为外文最多的中文作家" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/被翻译为外文最多的中文作家.jpg?resize=300%2C102 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/被翻译为外文最多的中文作家.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span><strong>▍1979 年以来被翻译为外文最多的中文作家，分别是老子、孙子、孔子、鲁迅、高行健，前三位都是古人</strong></span></p>
+<p>文化输出能力弱导致中文译为外文的书籍少，那么中文在翻译其他语言书籍方面如何呢？即便原创能力欠佳，若是由外文翻译为中文的书籍足够丰富，那么倘若中文是你唯一掌握的语言，也可以获取人类知识的多数内容了。</p>
+<p>遗憾的是这样的愿望也无法达成。</p>
+<p>由外文翻译入的数量，中文也只排第十三位。且不论欧洲各语言，看一看我们的近邻日本。与中文一样，日文是文化弱势语言，翻译入与翻译出比例为 4.9:1（翻译入 130,893，翻译出 26,921）。不过，日文翻译入的绝对数量远大于中文，是中文的 2.1 倍，位于全部语言的第五位。</p>
+<p>日本的翻译事业起步于明治维新时期，其时翻译了大量西文著作，中国人则借助日文书籍了解西方。甲午战争后中国人大量翻译日文书籍，1896-1911 年间翻译日文书籍 958 种，远远超出同期翻译西文书籍数量。二战后日本出现了第二个翻译高峰，而中国的翻译事业则因为政治环境的原因受到很大局限。八十年代后，中国翻译引入外文书籍的速度大大提升，近年来每年出版的翻译图书已逾万种。</p>
+<p>目前，美国成功学大师戴尔·卡耐基的作品，是中文世界输入最多的西方文明成果（207 种译本）。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E8%80%90%E5%9F%BA.jpg" rel="attachment wp-att-435925"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%8D%A1%E8%80%90%E5%9F%BA.jpg?resize=425%2C425" alt="卡耐基" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡耐基.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡耐基.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡耐基.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡耐基.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/卡耐基.jpg?w=500 500w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.png" rel="attachment wp-att-419061"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/%E5%A4%A7%E8%B1%A1%E5%B7%A5%E4%BC%9A.png?resize=500%2C180" alt="大象工会" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/大象工会.png?resize=300%2C108 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/大象工会.png?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E6%B1%89%E8%AF%AD%E5%AF%B9%E7%8E%B0%E4%BB%A3%E6%96%87%E6%98%8E%E7%9A%84%E8%B4%A1%E7%8C%AE%E6%9C%89%E5%A4%9A%E5%A4%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">大国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E8%BE%93%E5%87%BA/?category=18271" rel="tag">文化输出</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%88%B0%E4%B8%80%E5%B9%B4426%E7%A4%BE%E8%AE%BA%E6%97%A5/" target="cdt-mirror">【网络民议】又到一年“426社论日”</a>
 </h2>
 <p><p>历史上的今天：《必须旗帜鲜明地反对动乱》（又称“四·二六社论”）是中国共产党机关报《人民日报》于1989年4月26日在头版头条刊发的社论，内容是将之前全国各地因悼念前中共中央总书记胡耀邦而发展出来一系列学生运动定性为动乱。（维基百科）</p>
@@ -722,52 +819,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-10%E5%90%8D%E7%96%AB%E8%8B%97%E5%8F%97%E5%AE%B3%E8%80%85%E5%AE%B6%E9%95%BF%E5%8D%AB%E8%AE%A1%E5%A7%94%E8%AF%B7%E6%84%BF%E8%A2%AB%E6%8B%98/" target="cdt-mirror">自由亚洲 | 10名疫苗受害者家长卫计委请愿被拘</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-%E4%B8%8A%E5%8D%8811.34.38.png?resize=515%2C439" alt="Screen Shot 2016-04-23 at 上午11.34.38" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-上午11.34.38.png?resize=300%2C256 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-23-at-上午11.34.38.png?w=515 515w" sizes="(max-width: 515px) 100vw, 515px" data-recalc-dims="1"><br><span>疫苗致残儿童家长北京请愿被捕。（家长提供/记者乔龙）</span></p>
-<p>中国各地问题疫苗受害儿童家长孙燕、金玲、刘立军、易文龙、谢艳梅等十人，4月22日在北京国家卫生和计划生育委员会门前请愿，但诉求不获理睬反遭殴打。有家长因情绪激动将栅栏门推出轨道，被公安抓到北太平庄派出所羁押，据悉目前已遭刑事拘留。</p>
-<p>4月上旬刚获释的多位疫苗患儿家长，22日在北京请愿时，再度被公安抓走。其中一位家长熊女士23日告诉自由亚洲电台，被捕者已经被刑事拘留：“我们一行四十人去国家卫计委那边维权，不知道他们怎么回事，跟保安员起冲突，家长情绪有一点过激，推了那个门，其实推门也没什么，但是后来不知怎么警察就动手抓人”。</p>
-<p>记者：我听说抓了11人？</p>
-<p>回答：抓了10个家长，1个记者。记者在下午询问之后就放了。</p>
-<p>记者：现在有没有进一步消息？</p>
-<p>回答：应该是刑事拘留。</p>
-<p>据博讯新闻网4月22日报道，疫苗受害家长孙燕、金玲、刘立军、易文龙、谢艳梅等十多人，当天在北京国家卫生和计划生育委员会门前请愿疫苗立法，但遭到警察镇压。现场至少有11人被带走。据疫苗受害者家长称，在请愿期间，有家长在卫计委门前哭喊要见习近平，讨还孩子。警察约在中午12点抵达现场。由于疫苗受害家长距离卫计委门前的电动推拉门过近，疑因推搡导致推拉门出轨。警方随即将4名男性和7名女性家长带往北太平庄派出所。</p>
-<p>熊女士还说：“昨天他们被抓进去之后，我们所有的家属都去了北太平庄派出所，家属一直在那里等到晚上七点多，然后看着他们被戴着手铐，上了警车（去看守所）”。</p>
-<p>3月12日，山东、河北、山西、四川、安徽及黑龙江等地的疫苗受害儿童的家长易文龙、金玲等6人，向公众展示《恶魔选中的家庭——新疆8岁儿童接种疫苗致瘫》一文，被以“涉嫌寻衅滋事罪”刑拘30天，直至4月12日被以“取保候审”释放。</p>
-<p>熊女士说，她前一天在卫计委门前险些被保安员殴打：“我们站在卫计委门口时，我和孙燕站在一起，卫计委一个年纪很大、有点胖、戴眼镜的人出来，指着我们的鼻子骂。他骂的时候，我说你千万不要再指我，有话好好说，他就一巴掌打过来，我被后面的小保安拉开了，没有打到我”。</p>
-<p>深圳疫苗致残儿童家长王良清对政府不但不解决患儿的生存问题，反而抓家长表示愤怒，她说：“前几天就有人被打，昨天就有点激动。把铁门推坏了，我们赔偿。我们的孩子被疫苗打坏了，为什么不管？我们赔你的门，你赔我们的孩子吗？孩子都这样了，大家都不管，情绪肯定有点激动，但是也没有做出什么太过分的事情。前几天，我们的家长也被他们里面的人打了，那为什么他们不负责任”？</p>
-<p>4月18日，70多多位家长就疫苗事件要求当局立案及信息公开，北京第一中级法院接受家长立案，未来数日，家长到位于西直门卫计委信访办请愿，但无人理会。4月14日，上百名问题疫苗受害者家长，原计划于上午在北京天安门和长安街一带依法举行集会、游行及“示弱活动”，但被公安阻止。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-10%E5%90%8D%E7%96%AB%E8%8B%97%E5%8F%97%E5%AE%B3%E8%80%85%E5%AE%B6%E9%95%BF%E5%8D%AB%E8%AE%A1%E5%A7%94%E8%AF%B7%E6%84%BF%E8%A2%AB%E6%8B%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%AB%E8%AE%A1%E5%A7%94/?category=18271" rel="tag">卫计委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">疫苗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">疫苗维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%90%A2%E7%A3%A8%E5%85%88%E7%94%9F%EF%BC%9A%E8%BF%99%E5%B1%8A%E7%BE%A4%E4%BC%97%E4%B8%8D%E8%A1%8C/" target="cdt-mirror">【CDTV】琢磨先生：这届群众不行</a>
-</h2>
-<p><p>作者：琢磨先生，本名郭城，新浪微博签约自媒体、作家、自由培训师</p>
-<p><a href="https://www.youtube.com/v/wwzg1CLqB9k?version=3">https://www.youtube.com/v/wwzg1CLqB9k?version=3</a></p>
-<p>网上最近流行一个说法，说这届群众不行。我想了想，是真不行。</p>
-<p>首先是这届股民不行。股市赔了钱，哭爹喊娘的让国家救市，结果国家救市刚企稳，股民就跑了，把国家救市的钱都套里面了。你说说，还有这么不讲诚信的股民吗？这届股民都跟猴子一样，只跟股票一夜情，却不谈婚论嫁；就知道炒热点，却不乖乖拿着大蓝筹。搞得现在中国股市众叛亲离，人家美股欧股日韩股港股都在涨，唯独我们的股市就两个特点：一是突破后回调，二是直接回调。</p>
-<p>上市公司要圈钱，大股东要套现，国家队要盈利增值，政府要税收，券商要佣金，这届股民竟然想从股市里赚钱，你们还有没有一点韭菜的精神？你们要双底，股市就画了双底。你们要震荡，股市就给了震荡。你们要补缺口，股市也补了缺口。要什么就给什么，可是你们总想着要赚钱，那结果只能是3000点的股市小船说翻就翻。</p>
-<p>其次是这届炒房的人也不行，国家说好的是要去三四线城市的库存，结果都跑去一二线城市炒房，一二线城市本来就没有库存的问题啊，什么阅读理解啊，语文老师死得早吗？什么众筹炒房啊，什么联合炒房啊，各种千奇百怪的手段都用上了，搞的一二线城市的房地产暴涨的变态，三四线城市的房地产无人问津。去库存的关键是要让农民工买上城里的房子，这些炒房的人却发了疯一样的在抬高房地产的价格，结果造成的现状是，炒房的人根本不缺房子住，缺房子住的人根本买不起房。</p>
-<p>除了炒房的人不行，这届有房的人也不行。温州有一批20年产权住宅的土地使用权到期，报道说续期要按照房价的三分之一来缴费，才能重新办理土地证。竟然有人问房价是按照当初买房的房价还是现在的房价，当然是按照现在的评估价了，你以为国土局的智商跟你一样吗？</p>
-<p>竟然有些人说应该免费续期，人家温州国土局明确表示，不可能，因为这会造成国有资产的流失。有些有房的人竟然不依不饶，说自己就是国家的主人吗？为什么房子在我手里就国有资产流失了呢？连我自己都是国有资产呢。呸~你想得美，你要是国有资产，那也是坏账。</p>
-<p>这些有房的人把人家温州国土局搞得很尴尬，这几天出来否认自己说过这个话。其实土地本来就是国家的，买房的时候就说好了20年或者70的产权，你们自己不注意看，现在到期了又不想交钱，有本事你们把房子搬天上去啊。买个房，地就是你的，你要是张机票，难不成飞机都成你们家的了啊。做人不能这么自私，要大气，要像我一样，我买个包，包都是人家海关的。</p>
-<p>这届投资人也不行。很多搞P2P搞理财的投资管理公司，本来想通过很夸张的收益来吓跑投资人，结果呢，很多投资人竟然当真，连养老的钱都投进去，害得人家这些公司的领导接连跑路。本周又跑了一个望洲财富投资管理有限公司的董事长杨卫国，跑路的时候带走了10亿人民币，人家好端端一个老板，被你们害得成了在逃犯，你们这不是投资，你们这是给这个老板众筹跑路啊。</p>
-<p>所以我现在承认了，经济有问题，可能真的就是这届群众不行。</p>
-<p><a target="_blank" href="http://www.youtube.com/watch?v=wwzg1CLqB9k" title="琢磨先生：这届群众不行">琢磨先生：这届群众不行</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%90%A2%E7%A3%A8%E5%85%88%E7%94%9F%EF%BC%9A%E8%BF%99%E5%B1%8A%E7%BE%A4%E4%BC%97%E4%B8%8D%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%B8%82/?category=18271" rel="tag">房市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E5%B8%82/?category=18271" rel="tag">楼市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%A2%E7%A3%A8%E5%85%88%E7%94%9F/?category=18271" rel="tag">琢磨先生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82/?category=18271" rel="tag">股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">股市危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -779,7 +830,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -789,5 +840,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

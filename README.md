@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%86%9C%E6%9D%91%E5%84%BF%E7%AB%A5%E7%9A%84%E8%90%A5%E5%85%BB%E4%B8%8D%E8%89%AF%EF%BC%8C%E8%B4%AB%E8%A1%80%E4%BB%A5%E5%8F%8A%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93/" target="cdt-mirror">神乐坂卢纳 ｜被遗忘的农村儿童的营养不良，贫血及发育迟缓</a>
+</h2>
+<p><blockquote><p>本文所引用的论文皆来自斯坦福大学和国内机构合作的农村教育行动计划</p></blockquote>
+<p>尽管网上盛是流行对台湾关于中国人吃不起肉和茶叶蛋的”偏见”的反击（嘲讽），但是实际上营养不良依然在农村地区非常普遍，而农村儿童则占现儿童总数的近三分之二。对于一个典型的农村儿童，他的每日饮食中，淀粉占有极大比例，肉类则非常少。</p>
+<p><b>中国农村儿童的营养不良和贫血</b></p>
+<p>根据过往的研究，<b>缺铁</b>往往是发展中国家最为普遍的一种营养缺失，这自然也包括了中国在内。(Hipgrave et al., 2014, p.916) 实际上，农村地区普遍的贫血也往往属于缺铁性贫血。就Hipgrave为首的研究团队对总计上千名六个月到二十三个月大的婴儿的调查，仅有<b>不到一半</b>的受调查儿童摄取<b>最低</b>可接受的规定营养。(Hipgrave et al., 2014, p. 918)同时，研究也发现其结果和性别男，极度贫穷，低饮食频率，少数民族，母乳喂养以及高海拔有着极大的相关性。</p>
+<p>好在，贫血在儿童中的百分比随着年龄的增长而下降。(Hipgrave et al., 2014, p. 920) 然而就Luo为首的团队就四千名四五年级的农村学生进行调查的结果而言，依然存在近<b>四分之一</b>的 儿童患有贫血症。(Luo et al., 2011, p.471) 当然，贫血的比例也随着所调查的省份的不同而有变化，如2008年在山西调查的结果表明，接近38%的学龄儿童患有贫血，而在2009年的宁夏则只有 16%。不管怎么说，研究也表明，随着中国经济的发展，贫血率也在逐渐下降，如2010年在宁夏的调查表明，贫血率下降到了14%。</p>
+<p>因为研究团队在2008到2010之间在山西，宁夏，青海以及甘肃等农村地区调查了接近14000所学校，毫无疑问，巨大的贫血率并不只是单独地区的问题。</p>
+<p><b>如何解决普遍的贫血问题呢？</b></p>
+<p>很遗憾，虽然网民们对于“吃不起肉”这个偏见不屑一顾，但是近<b>两千万</b>的贫血儿童依然在忍受着贫血带来的严重且不可逆的后果以及逐渐落后于同龄城市儿童。</p>
+<p>为了应对这个问题，找出对应且合适的解决方案。研究团队在山西设计了对儿童父母的相关健康知识教育项目。在研究中，研究成员先是让学龄儿童将讲解关于贫血的原因，影响，以及解决方案的信件带给其父母，然就结果而言，贫血并没有任何的改善。后来，研究团队又给学生们的父母提供了面对面的关于贫血方面的健康知识教导，这方面的努力依然没有多少改善贫血的问题。(Luo et al., 2012, p.396)</p>
+<p>同时，在2009年到2010年之间的研究中，研究团队又给学校的领导，老师，以及厨师提供了关于贫血方面的教导。就结果表明，这种方式依然无法改善学龄孩子的贫血症。研究团队考虑相当多的原因，例如缺乏足够的金钱补助，孩子们至少每日要进食大概<b>半磅</b>的瘦肉才能预防贫血，遗憾的是学校以及部分贫困家庭<b>无法</b>承受这份花费，又例如家庭和学校<b>缺少</b>足够的保存手段（冰箱）来保存肉类。</p>
+<p>当然，还有最国情的原因，研究团队不知道学校的食物津贴是否真的都用在这方面上了。</p>
+<p>在另一方面，以Kleiman-weiner为首的研究团队也调查了每日一颗蛋（或一杯奶）的食物补贴计划的作用。研究团队在甘肃调查了接近千名学生，发现不论学术表现还是贫血，接受每日一颗鸡蛋的学生并没有比没有的学生来得要好。在2013年，研究团队在调查中对比了鸡蛋和维生素咀嚼片，他们发现每日服用含铁等营养成分维生素咀嚼片的学生比起仅仅每日食用一颗鸡蛋的学生，他们的血红蛋白明显提升，数学考试成绩也明显提升。(Kleiman-weiner et al., 2013, p.171-174)</p>
+<p>为什么呢?因为牛奶和鸡蛋几乎不含铁啊。</p>
+<p>张和他的团队也在2013年调查了符合微量营养素补充剂在贫血方面的作用，就结果而言，提供微量营养素补充剂可以显著地减少i学龄儿童的贫血率（7%）以及改善了他们的心理健康（如焦虑）。(Zhang et al., 2013, p.642)</p>
+<p><b>为什么做这些研究呢？</b></p>
+<p>因为营养不良会导致认知能力以及精神运动的<b>发育迟缓</b>。(Luo et al., 2015, p.1)</p>
+<p>Luo和他的团队的在山西贫困农村地区，测量了婴儿的心智发育以及精神运动发育指数，发现近<b>百分之二十</b>的受调查婴儿受到了认知能力方面的严重损害(发育迟缓)，近<b>百分之三十二</b>的婴儿受到了精神运动方面的严重损害。也就是说这些婴儿们在智力发育方面相对迟缓。同时就结果表明，低血红蛋白（贫血）的婴儿更容易在认知能力以及精神运动方面上发育迟缓。(Luo et al., 2015, p.3-4)</p>
+<p><b>这些孩子的父母，是这个国家经济快速增长的动力来源；这些孩子也会是这个国家的未来。然而在占近半总人口的网民或调侃，或嘲讽，来自其他国家的“偏见”的时候，无法上网的这些孩子的遭遇是那么无人问津。</b></p>
+<p><b>解决这些孩子的贫血问题，至少显著减少贫血率这件事情有多难呢？又有多昂贵呢？仅要每日四美分而已。每日价值四美分的维生素补充剂就能显著改善这些孩子的困境。</b></p>
+<p><b>不过，不会有多少人问津这种事情，不是吗？</b></p>
+<p><b>在这个国家，“每个人都有肉吃”这件事情，是“真实存在”的。就像贫富差距，数字鸿沟，都是真实存在的。就让拥有超过百分之七十的在家上网率的城市人口代表那不足百分之十上网率的农村人口，说出那“真实存在”的事情吧。</b></p>
+<p><strong>————————-<br>
+References</strong></p>
+<p>Hipgrave, D. B., Fu, X., Zhou, H., Jin, Y., Wang, X., Chang, S., & … Guo, S. (2014). Poor complementary feeding practices and high anemia prevalence among infants and young children in rural central and western China. European Journal of Clinical Nutrition, 68(8), 916-924. doi:10.1038/ejcn.2014.98</p>
+<p>Kleiman-Weiner, M., Luo, R., Zhang, L., Shi, Y., Medina, A., & Rozelle, S. (2013). Eggs versus chewable vitamins: Which intervention can increase nutrition and test scores in rural China?. China Economic Review, 24165-176. doi:10.1016/j.chieco.2012.12.005</p>
+<p>Luo, R., Shi, Y., Zhou, H., Yue, A., Zhang, L., Sylvia, S., & … Rozelle, S. (2015). Micronutrient deficiencies and developmental delays among infants: evidence from a cross-sectional survey in rural China. BMJ Open, 5(10), e008400. doi:10.1136/bmjopen-2015-008400</p>
+<p>Luo, R., Shi, Y., Zhang, L., Zhang, H., Miller, G., Medina, A., & Rozelle, S. (2012). The Limits of Health and Nutrition Education: Evidence from Three Randomized-Controlled Trials in Rural China. Cesifo Economic Studies, 58(2), 385-404.</p>
+<p>Luo, R., Zhang, L., Liu, C., Zhao, Q., Shi, Y., Miller, G., & … Martorell, R. (2011). Anaemia among students of rural China’s elementary schools: prevalence and correlates in Ningxia and Qinghai’s poor counties. Journal of Health, Population & Nutrition, 29(5), 471-485 15p.</p>
+<p>Zhang, L., Kleiman-Weiner, M., Luo, R., Shi, Y., Martorell, R., Medina, A., & Rozelle, S. (2013). Multiple Micronutrient Supplementation Reduces Anemia and Anxiety in Rural China’s Elementary School Children. Journal of Nutrition, 143(5), 640-647 8p. doi:10.3945/jn.112.171959</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%86%9C%E6%9D%91%E5%84%BF%E7%AB%A5%E7%9A%84%E8%90%A5%E5%85%BB%E4%B8%8D%E8%89%AF%EF%BC%8C%E8%B4%AB%E8%A1%80%E4%BB%A5%E5%8F%8A%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E5%81%A5%E5%BA%B7/?category=18271" rel="tag">儿童健康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">儿童权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0%E4%BA%BA%E5%8F%A3/?category=18271" rel="tag">贫困人口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%A6%99%E6%B8%AF%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%9B%9B%E5%A4%A9%E6%9C%89%E4%B8%93%E6%A0%8F%E5%BC%80%E5%A4%A9%E7%AA%97%E6%8A%97%E8%AE%AE/" target="cdt-mirror">BBC｜香港《明报》连续第四天有专栏“开天窗”抗议</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg" rel="attachment wp-att-435983"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg?resize=550%2C309" alt="160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
@@ -86,7 +125,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E8%A3%95
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/youtube/?category=18271" rel="tag">youtube</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E7%9C%BC%E7%A5%9E%E5%84%BF%E4%B8%8D%E8%A1%8C-%E6%B0%B4%E6%9E%9C%E4%B9%9F%E5%B1%85%E5%BF%83%E5%8F%B5%E6%B5%8B/" target="cdt-mirror">【网络民议】这届人民眼神儿不行 水果也居心叵测</a>
 </h2>
@@ -733,45 +772,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B8%E5%9E%8B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-24/" target="cdt-mirror">奇闻录 | 周末段子荟萃 4-24</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?resize=600%2C600" alt="CgvSaWmUkAATjhb" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?resize=300%2C300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?resize=50%2C50 50w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/CgvSaWmUkAATjhb.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>@Baidu360：你国省长手按宪法宣誓就职就是个大笑话，按照你国真实国情应该是脚踩宪法宣誓才对。</p>
-<p>@jerrymice：晚上老友聚餐，公务猿老友新换了单位，从教育系统调到区里拆迁办。说起现在出镜率最高的拆迁新闻，他说拆迁办都是把拆迁任务安排给民间机构，完成了给钱，出事了撇清关系。那些把事办砸了的民间机构就再不使用，反正大把的民间机构排队等着。真正办事麻利的民间机构，是让拆迁户都高高兴兴主动搬出去。</p>
-<p>@agostic：你以为在努力，在赚大钱，看看这个社会雾霾漫天，污染家园。即便你再富裕，你死去之后，留给后世是这样一个环境破坏，人性丧失的国度。你习惯于苟且，后代也跟着苟且，5千年文明在苟且中艰难地经历磨难。辉煌的历史埋葬更多的是冤屈和不幸。在写给后人的历史中，卑微的国人经历着独裁统治之下的悲剧。</p>
-<p>@mbssjsw1：转：当今已做好了“一房四吃”的准备，一吃土地出让金，二吃转让住房所得20%的个税，三吃房地产税，四吃遗产税。现在看来，七十年产权又是一道大菜！</p>
-<p>@yang12ming1：前几天我在拘留所遇到一个坚决的爱国者，卖快餐的。他为啥被拘留呢？因为他在马路上骑自行车抽烟，经过一加油站，有便衣招手，他以为是找他叫快餐的，他就过去了。结果，拘留两天。他对这个伟大的祖国热爱的发狂，即便自己被诱捕，他也觉得那是依法治国。</p>
-<p>@ranxiangmm：【中文太深奥了】一，“多党轮流执政照样腐败”……“照样”；二，“有人说花4.8万就可以投资移民台湾，天下哪有这样的好事”……“好事”；三，“美国才是这个时代的最大恶棍”……“才是”；四，“郭伯熊等穷二代升官手段更卑劣”……“更”。</p>
-<p>@freedomandlaw：对于检验、考验这样的字眼，实在是有些倦了。每到一个事件出现，经常会看到××是对中国法治的考验、检验等等，真是一次次地出现。连司法独立都做不到的“法治”有必要一次次地去检验吗？拿着无辜公民的自由去检验法治，检验费真的太昂贵了，但是人们还持续、坚决的不相信检验结果，还要继续检验。</p>
-<p>@YE5MQ5Vtp2jlWX7：经济学者马光远：“如果承认房子是有限的租期，那根本没有任何理由征收什么房产税，如果要征收房产税，就请把房子的‘永久产权属性’还给老百姓。既想把地高价卖了，又想每年收房产税，此种贪婪，旷世罕见。”</p>
-<p>@mozhixu：墙内又在吵70年产权，你国现行产权制度建立抢劫的基础上，诸如地主、富农、城市居民的土地包括房产，以及公私合营股份，都是现行产权制度所承认的形式，但都经历过抢劫，而从未矫正，在这个意义上，你国根本谈不上有什么产权制度，还吵个毛啊。</p>
-<p>@letscorp：大城市这轮房价疯涨过后，感觉工资已经没有意义了，疯涨透支了未来5年的上涨空间，一线城市房价普遍7、8万，南京、苏州这样的城市2-3万，中国财富分配已经彻底完成，财富格局已经注定，穷人将变得越来越难，一线城市买房已经基本无可能，二线城市压力也是巨大（相对于收入）。</p>
-<p>@MyDF：“中国人素质低，不宜民主”，这是最严重的种族歧视。#你国</p>
-<p>@Kan2akiS：「天朝」在以前其实也有那么一点「你国」这种词的韵味，然后又慢慢的中性化，太讽刺了。</p>
-<p>@INXIAN：2015年以来，支那所谓「互联网+创业」就是：1. 搞个微信公号；2. 弄一个APP；3. 忽悠一笔钱；4. 连网站都不做；5. 半年不到就人间蒸发了…还有一种所谓的「连续创业者」，更是屡创屡败、屡败屡创，不以忽悠为耻，只有能弄到钱就算“成功”。<br>
-支那的创业堪称是魔幻产业。</p>
-<p>@ranyunfei：世上几乎所有节日，都是一群不信的人比信的人更为强调。世界读书日也不例外，很少读书的人，往往喜欢在这个时候来谈读书。</p>
-<p>@modker：之前找的妇产科主任，其实不认识，只不过前期弄了电话有过联系混了脸熟，在产房生完小孩非要给我媳妇缝个处女膜，她推脱再三还是给缝上了，旁边的小护士说，别人都是花钱做的，主任免费给你们做还不领情。</p>
-<p>@三爪撬墙：和在澳门工作的表妹吃饭，她特地回来香港买手机。几个月前她香港买的手机被偷，在澳门的中国电讯买了新手机，以为和香港买的一样，结果发现所有Google 系列的软件被完全屏蔽，自己下载也不能用？？用了几个月，她终于忍无可忍，决定回香港重买。资讯自由在澳门原来已经这样被阉割了。</p>
-<p>@tengbiao：任何团体与中共谈判从来都没成功过。香港民主党本来在香港极有威望，但谈了之后被中共耍了。达赖喇嘛与北京的谈判也一样。国际社会常犯的错误是，把中共政府当做一般的政府。而事实上，中共政府只是一个流氓集团和恐怖集团。</p>
-<p>@Jackstraw_PRC：《法兰克福评论报》：女大学生董哲（化名），20岁的她受到文化监管机构的秘密委托，定期在北京各相声剧场观看演出，门票自然是不用自己掏腰包，她只需要向文化局提交一份简短的书面报告即可。这名年轻女孩几乎带着骄傲认为，自己是在为社会稳定做出贡献……</p>
-<p>@大鱼说漫画：国产反腐影视剧里一般都有个市委书记，而且都很巧，市里腐败团伙闹翻天时，市委书记都正好在中央党校学习。市里几个正义的干部讨论“怎么办呢？王书记在中央党校学习，我们怎么办？”“我去一趟北京，直接向王书记汇报！”然后这人跑到北京。书记闻讯大怒，大手一挥，把腐败分子远程一锅端。都这套路。</p>
-<p>@陈有西：【也许这届人民真不行】中国教育宣传成果真是巨大。转：别不服气——百度“热烈庆祝日本地震”结果2，600，000条。改成庆贺是765，000条。去掉热烈是8，570，000条。有没有懂日语的朋友，请到日语的GOOGLE去搜一下，有多少条“热烈祝贺汶川地震”的。</p>
-<p>@Zannmuling：这届人民是真的不行：领导推普惠金融，人民要玩炒p2p互联网+诈骗。领导推万众创新，人民要玩炒股炒创业板杠杆牛。领导推三四线去库存，人民要炒一二线地产。领导推供给侧改革，人民奔入期货猛抡螺纹钢。</p>
-<p>@haOFei：和女朋友一起去理发店，一妹子帮我洗头，和妹子聊的很开心。妹子突然问：你还没女朋友么？我说：有啊，不是在这洗头的么？<br>
-妹子听了后笑了笑，然后红着脸吻了一下的我的额头。一天过去了，现在脸还很疼。</p>
-<p>@cxiaoji：哥们说他一同事跳槽到亚马逊，入职被分了一个CRT显示器，他表示不爽要求换LED，没批。两周后辞职了。</p>
-<p>@jiezitui：“请问禅师，现在社会那么乱，我这一个弱质女子应当如何保护自己？”禅师二话不说，倒了一杯冷水，立即泼到了少女的脸上。少女一愣，说道：“难道你是要我保持冷静，以此对待世界的一切吗？”禅师摇摇头：“你素颜就可以了。”</p>
-<p>@游阿姨：一个男同事刚来的时候，办公室里的民谣狗问他平时喜欢听什么音乐，他说没什么想法，民谣狗们问他你喜欢听民谣吗，男同事说：民谣啊！我只知道有一首——李伯伯要当红军！红军不要那伯伯！因为李伯伯的屁股大呀！容易被鬼子发现目标！办公室陷入沉寂</p>
-<p>@Scswga：本人语文老师，今天改到一题。《黄鹤楼送孟浩然之广陵》那课，要求写出李白和孟浩然分别时的对话。一学生写道：“浩然哥，慢走，有空常来玩阿！”孟浩然说：“嗯，你一定要幸福。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-4-24/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -783,7 +783,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -793,5 +793,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

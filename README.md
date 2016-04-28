@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%B2%EF%BC%8C%E6%82%A8%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E7%9A%84%E6%83%85%E5%86%B5%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B7%B2%E5%8F%8D/" target="cdt-mirror">【立此存照】亲，您患癌去世的情况百度推广已反馈核实</a>
@@ -724,7 +724,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%85%E9%A1%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">“新加坡总书记”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?category=18271" rel="tag">Papi酱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">人民日报通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%AD%8C/?category=18271" rel="tag">国际歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1%E6%8E%92%E5%90%8D/?category=18271" rel="tag">新闻自由排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E4%B8%80%E6%B3%A2/?category=18271" rel="tag">薄一波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E6%97%A0%E5%9B%BD%E7%95%8C/?category=18271" rel="tag">记者无国界</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -736,7 +736,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8A%A0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -746,5 +746,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8A%A0
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

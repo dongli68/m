@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%B2%EF%BC%8C%E6%82%A8%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E7%9A%84%E6%83%85%E5%86%B5%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B7%B2%E5%8F%8D/" target="cdt-mirror">【立此存照】亲，您患癌去世的情况百度推广已反馈核实</a>
+</h2>
+<p><p>【编者注】魏则西大二时被诊断为滑膜肉瘤。两个多月前，他在回答知乎问题“<a href="https://www.zhihu.com/question/26792975/answer/88170767" target="_blank">你认为人性最大的「恶」是什么？</a>”时讲述了遭<a href="http://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/" target="_blank">百度竞价排名</a>推广的医院所欺骗的经历。2016年4月12日，魏则西去世。近日有微博用户（<a href="http://weibo.com/foxpupu" target="_blank">@孔狐狸</a>）提及此事，称欺骗魏则西的医院（北京武总二院）仍在百度搜索结果中排首位。<span title="百度推广客服官方微博">百度推广客服官方微博帐号<a href="http://weibo.com/n/%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B0%8F%E5%BA%A6%20target=">@百度推广小度</a>随后却用“卖萌”的语调回复了此事，让人大跌眼镜。</span></p>
+<blockquote><p><strong><a href="http://weibo.com/1418829665/DsWzPjnkd" target="_blank">@孔狐狸</a></strong>：逛知乎，看到这个叫魏则西患癌男生的帖子，又追到他父亲<a href="https://www.zhihu.com/question/42392347" target="_blank">发布</a>他去世的消息。然后百度了这个疾病，那家竞价排名的医院依旧在首位。好希望那些科技自媒体人写写这个，而不是享受了百度的迪拜游回来后，帮百度卖贴吧写洗地文。</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF.png" rel="attachment wp-att-436072"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF.png?resize=500%2C998" alt="百度推广" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/百度推广.png?resize=768%2C1532 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/百度推广.png?resize=513%2C1024 513w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/百度推广.png?w=1214 1214w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong><a href="http://weibo.com/2961327471" target="_blank">@百度推广小度</a>：亲，感谢您的反馈，您说的情况推广小度已经协助反馈核实，请您随时关注。<img title="[可爱]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif" alt="[可爱]" data-recalc-dims="1"></strong></p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkgfpvxj20gm0ia0xe.jpg" rel="attachment wp-att-436080"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkgfpvxj20gm0ia0xe.jpg?resize=525%2C578" alt="54919f61jw1f3bkkgfpvxj20gm0ia0xe" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkjif8aj20i509ogmi.jpg" rel="attachment wp-att-436079"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkjif8aj20i509ogmi.jpg?resize=525%2C280" alt="54919f61jw1f3bkkjif8aj20i509ogmi" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkjif8aj20i509ogmi.jpg?resize=300%2C160 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkjif8aj20i509ogmi.jpg?w=653 653w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkklccekj20mj0bg76d.jpg" rel="attachment wp-att-436078"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkklccekj20mj0bg76d.jpg?resize=525%2C267" alt="54919f61jw1f3bkklccekj20mj0bg76d" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkklccekj20mj0bg76d.jpg?resize=300%2C153 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkklccekj20mj0bg76d.jpg?w=690 690w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/03/3-15%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/" target="_blank">歪理邪说｜3.15，今天我被一家公司投诉了</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E9%98%91%E5%A4%95%EF%BC%9A%E7%99%BE%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8D%96%E8%B4%B4%E5%90%A7/" target="_blank">阑夕：百度为什么要“卖”贴吧</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/01/425415/">财新网 | 百度贴吧卖吧风波：为什么又是莆田系？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E5%86%8D%E8%B0%88%E7%99%BE%E5%BA%A6%EF%BC%9Akpi%E3%80%81%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%BB%99/" target="_blank">歪理邪说 | 再谈百度 一个必须给父母看的案例</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E8%AF%B4%E3%80%8C%E7%99%BE%E5%BA%A6%E5%85%A8%E9%9D%A2%E9%99%8D%E4%BD%8E%E4%BA%86%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91/" target="_blank">知乎｜为什么有人说「百度全面降低了中国互联网体验」？</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/chaonimab" target="_blank">@最斑狸</a>：最右这个轻描淡写的态度就好像原PO只是反映了百度一个页面BUG而已。</p>
+<p><a href="http://weibo.com/n/%E9%9D%92%E9%B2%A4%E5%90%9B?from=feed&loc=at" target="_blank">@青鲤君</a>: 最右把恶心和下作发挥得淋漓尽致</p>
+<p><a href="http://weibo.com/2297077994" target="_blank">@少女修行中</a>：图片评论…………那啥，那个医院现在不在了，现在换成三个这个了！<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">“全身热疗”“不手术拒放疗”我尼玛，还不如那个<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/88eaa0eagw1f3c65u65mkj20lk0ipwke.jpg" rel="attachment wp-att-436076"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/88eaa0eagw1f3c65u65mkj20lk0ipwke.jpg?resize=440%2C382" alt="88eaa0eagw1f3c65u65mkj20lk0ipwke" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/88eaa0eagw1f3c65u65mkj20lk0ipwke.jpg?resize=300%2C260 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/88eaa0eagw1f3c65u65mkj20lk0ipwke.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p>
+<p><a href="http://weibo.com/n/%E5%B8%8C%E6%B3%A2%E5%85%8B%E6%8B%89%E5%BA%95%E9%97%A8%E5%BE%92?from=feed&loc=at" target="_blank">@希波克拉底门徒</a>:依据相关法规，国内任何医院开展自体免疫细胞疗法（包括DC-CIK）必须得到国家卫计委审核批准，而公开政府信息显示，没有一家医院被允许，所以国内所有这类疗法都是非法<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7287b1afgw1f3c5i6vsvvj20em0i6myw.jpg" rel="attachment wp-att-436075"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7287b1afgw1f3c5i6vsvvj20em0i6myw.jpg?resize=400%2C497" alt="7287b1afgw1f3c5i6vsvvj20em0i6myw" data-recalc-dims="1"></a></p>
+<p>@女焉女未：霍炬：“百度控制着普通人接触信息时代的入口，却把路标指向邪恶欺骗的世界。它让人们对互联网世界失去信任、对技术失去尊重、在使用这个时代最先进的知识/信息获取方式时感到恐惧。加剧了信息占有乃至智识上的不平等。这种对弱势群体对普通大众的经年累月的作恶，是最深的恶。”</p>
+<p>@晏凌羊：赞同这句话：“（百度）对弱势群体、普通大众经年累月的作恶，是最深的恶。”然而，在逆淘汰机制盛行的商业体制和环境下，光苛责一家公司有什么用？很多恶，其实是因为“被鼓励”的结果，被偏爱的总是有恃无恐，官商勾结才是这个社会最大最恶的毒瘤。</p>
+<p><a href="http://weibo.com/qinyaping89" target="_blank">@覃菇凉yara</a><i title="微博达人"></i>： 曾经在长沙市中心医院肿瘤科生物治疗中心做文案策划，说的就是这个DC\CIK。慢慢了解后发现是在骗人，因为大部分肿瘤患者送来进行治疗花去大笔医疗费 不说，最后基本上都病逝。医院的高层与这些企业有协议，治疗中心设在医院急症楼，随便个什么人穿上白大褂就能进肿瘤科问询。他们的治疗中心遍布全国</p>
+<p><a href="http://weibo.com/qinyaping89" target="_blank">@覃菇凉yara</a>：2012年工作，感觉自己某种意义上也在骗人，所以两个月不到就辞职了。我当时有想过曝光他们，打了长沙地方频道的电话很多都不愿理会，后来被当时的办公室主任知道还被打电话威胁，说他们上面有人，根本不怕。<img title="[泪]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]" data-recalc-dims="1"><img title="[泪]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]" data-recalc-dims="1">上面所说的武警总医院就是他们的，还有衡阳南华大学第一附属医院，其他的我就不记得了</p>
+<p><a href="http://weibo.com/realtimewwii" target="_blank">@直播二战</a>：图片评论<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg" rel="attachment wp-att-436074"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?resize=375%2C375" alt="9689a410jw1f3c6iel5dxj20qo0qoq86" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p>
+<p><a href="http://weibo.com/n/%E7%8E%8B%E5%BC%A0%E4%B8%89%E5%85%88%E7%94%9F?from=feed&loc=at" target="_blank">@王张三先生</a>: 大写的讽刺<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"> 评论配图<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4d6e233fgw1f3c6sd8x61j20cq0iaq56.jpg" rel="attachment wp-att-436077"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4d6e233fgw1f3c6sd8x61j20cq0iaq56.jpg?resize=300%2C431" alt="4d6e233fgw1f3c6sd8x61j20cq0iaq56" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4d6e233fgw1f3c6sd8x61j20cq0iaq56.jpg?resize=209%2C300 209w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4d6e233fgw1f3c6sd8x61j20cq0iaq56.jpg?w=440 440w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"></a></p>
+<p><a href="http://weibo.com/3225709225" target="_blank">@蓝皮鼠的cc</a>：人血馒头啊<img title="[伤心]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ea/unheart.gif" alt="[伤心]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/highcloud" target="_blank">@山至高云为峰</a>：回复<a href="http://weibo.com/n/%E8%8C%83%E8%8D%A3%E8%BE%89%E7%9A%84%E5%BE%AE%E5%8D%9A?from=feed&loc=at" target="_blank">@范荣辉的微博</a>:早些年，百度和谷歌还是差不多的高科技公司，现在谷歌，研究出了阿尔法狗，无人驾驶汽车等，不断的在挑战人类的极限，当然百度也在挑战人类的极限，只不过谷歌挑战的是科技的上限，百度挑战的是良知的下限。</p>
+<p><a href="http://weibo.com/summerchain" target="_blank">@nyawu</a>：可是啊 百度删了我网盘里的GV为什么还到处打色情广告<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">百度微博查东西都是根据相关法律法规 谷歌维基又被共产裆一枪打死 信息时代上哪去查信息啊</p>
+<p><strong>附：网友为魏则西制作的时间轴</strong>（<a href="http://vdisk.weibo.com/s/zUmTEzs64Anxg" target="_blank">下载地址</a>）</p>
+<p><strong>另附</strong>：“<a href="http://tech.hexun.com/2015-12-24/181395485.html" target="_blank">李彦宏的情怀</a>”</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%9D%8E%E5%BD%A6%E5%AE%8F%E7%9A%84%E6%83%85%E6%80%80.png" rel="attachment wp-att-436073"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%9D%8E%E5%BD%A6%E5%AE%8F%E7%9A%84%E6%83%85%E6%80%80.png?resize=500%2C133" alt="李彦宏的情怀" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/李彦宏的情怀.png?resize=300%2C80 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/李彦宏的情怀.png?resize=768%2C204 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/李彦宏的情怀.png?resize=1024%2C272 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/李彦宏的情怀.png?w=1060 1060w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%B2%EF%BC%8C%E6%82%A8%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E7%9A%84%E6%83%85%E5%86%B5%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B7%B2%E5%8F%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E8%A2%AB%E5%8D%96/?category=18271" rel="tag">百度贴吧“被卖”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E5%A4%A7%E5%A4%A7%E8%A1%A8%E7%A4%BA%E4%B8%8D%E6%BB%A1%EF%BC%9A%E8%BF%99%E7%A7%8D%E5%8D%91%E9%84%99%E4%BC%8E%E4%BF%A9/" target="cdt-mirror">【网络民议】习大大表示不满</a>
 </h2>
 <p><p>台湾基隆一个文创园区星期三举办“为台湾英雄铜像揭幕”仪式活动，不过，这位“台湾英雄”的身份却引起网民热烈讨论，因为他是中国前总理温家宝。</p>
@@ -686,43 +725,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8A%A0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%83%A1%E6%B3%B3%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BF%A1%E6%81%AF%E7%9A%84%E8%87%AA%E7%94%B1%E6%B5%81%E5%8A%A8-%E5%B0%B1%E6%97%A0%E6%B3%95%E7%AE%A1%E7%90%86%E9%A3%8E%E9%99%A9%E7%A4%BE%E4%BC%9A/" target="cdt-mirror">胡泳：没有信息的自由流动 就无法管理风险社会</a>
-</h2>
-<p><p>4月26日，是切尔诺贝利核事故30周年。1986年4月26日凌晨1时23分，在前苏联乌克兰普里皮亚季市切尔诺贝利核电站，一场拙劣的技术试验引发了石墨着火，爆炸击穿屋顶，50吨放射性燃料进入大气层。瞬间，一道强烈的蓝白光线射向夜空，那道光比电影场景还美，人们竟抱着孩子，涌出家门来观看这异象。</p>
-<p>他们不知道自己看到的实际上是一幅末日异象，因为切尔诺比利核事故是历史上最严重的核电事故，也是人类迄今最惨烈的科技悲剧。</p>
-<p>这次灾难所释放出的辐射线剂量是二战时期爆炸于广岛的原子弹的400倍以上。核辐射尘污染过的云层飘往前苏联西部的部分地区、西欧、东欧、斯堪地那维亚半岛、不列颠群岛和北美东部部分地区。乌克兰、白俄罗斯及俄罗斯境内均受到严重的核污染，超过336,000名居民被迫撤离。引发的死亡和长期的健康影响在30年之后还是争议极大的话题。</p>
-<p>一个数字估计，近400万人受到切尔诺贝利辐射影响，他们和他们的后代将为此遭受毁灭性的后果。而在事故中心地，大自然接管了一切，唯有麋鹿、羊和野猪在奔跑，因为要过数万年以后，这里才会重新适合人类居住。</p>
-<p>经济上，这场灾难总共损失大概二十兆美元（已计算通货膨胀），是近代历史中代价最昂贵的灾难事件。政治上，灾难发生于前苏联在世界上仍举足轻重的时期，苏联社会的表面平静突然被打破：在祖国的技术奇迹被大肆吹嘘的年代，事情竟然可能出大错。</p>
-<p>可以说，作为一起无数人为之受难、却无人为之负责的事故，切尔诺贝利核灾难敲响了前苏联的丧钟。苏联当局被迫改变过去的强硬路线，事故发生五年后，前苏联轰然解体。</p>
-<p>在白俄罗斯作家斯维特兰娜·阿列克谢耶维奇的非虚构著作《切尔诺贝利的悲鸣：核灾难口述史》中，一个救治切尔诺贝利儿童项目的负责人说：“那个伟大的帝国瓦解了，四分五裂。首先是阿富汗，然后是切尔诺贝利。当这个帝国倒下后，我们发现自己一直都是一个人。”</p>
-<p>对切尔诺贝利灾难，有各种各样的原因总结：有人归之于反应堆设计缺陷，有人归之于行业管理不善，更有人上升到前苏联的体制：核电站从设计、管理到日常运营都极度草率马虎，是苏联高度僵化和无能的官僚体制种下了恶果。</p>
-<p>灾难固然可怕，更令人感觉荒诞的是政府在灾难发生后的信息处理方式。</p>
-<p>虽然时值戈尔巴乔夫刚刚提出“公开性”的时期，人们还是在上级长官的行为而不是在媒体的报道中寻求真相。</p>
-<p>白俄罗斯科学院核能研究所的首席工程师克哈诺夫去到隔离区，发现当地的农民依然在种地，妇女依旧在哺乳，孩子们一如既往地坐在沙坑里玩耍。食物被放置在露天环境里，它们已经称不上是食物了，而是辐射污染的副产品。</p>
-<p>他问领导该怎么办。领导回答说：“带上你们的测量结果。看电视。”而在电视上，戈尔巴乔夫安抚民众说：“我们已经迅速采取了行动。”</p>
-<p>当党领导服着碘片到现场视察时，有人确保他们在专门新铺的三层沥青上迈动方步，而同一时刻，当地储存的700千克浓缩碘却被锁在仓库里，没人敢拿出来发放给民众用于防辐射。原因是？没有收到上级长官的命令。</p>
-<p>国家安排投放到当地的防毒面具，也没有发放给民众。为什么？地方官员解释：为了避免造成恐慌。一位大学教师回忆：“事故发生后的最初几天，图书馆里所有关于辐射、关于广岛和长崎的书，甚至就连有关X射线的书都消失了。有人说这是从上面传达下来的命令，如此一来，人们就不会恐慌了。”</p>
-<p>政府甚至要求医疗人员在对被核辐射感染的志愿清理者的诊断中，不要使用“急性辐射综合症”，而是用其他术语代替。</p>
-<p>甚至灾难一开始都是由外国人首先披露的。</p>
-<p>瑞典核电站工作人员首先测到他们的工作服上出现了放射性粒子，追踪其来源，发现位于乌克兰-白俄罗斯边境。在污染云层向西部和北部大肆飘散的时候，苏联官方毫无动静。将近三天之后，塔斯社才发布了一条简讯，承认事故的发生。苏联也因此丧失了快速获得国际救援的机会。</p>
-<p>一名当时的核能研究所所长对阿列克谢耶维奇说：“这是一个权力的国家，而不是人民的国家。国家永远排在第一位，而人民的性命轻如鸿毛，几乎没有任何价值……人民对上级领导的畏惧远胜于对原子的恐惧。每个人都在等待上级下达指令，他们在等待上级的电话，可是没有一个人主动地为自己做点什么……”</p>
-<p>另一位口述者说：“收音机里什么都没说，报纸也一样。可是蜜蜂知道。有两天，它们没有一只飞出来。”</p>
-<p>当局派出了军队，他们带着枪，但是靶子是什么呢？难道是饱受污染的红树林？克格勃也在污染区展开搜捕，为的是发现那些不存在的敌人：颠覆国家政权的人和外国特务。</p>
-<p>记者之后的调查表明，干部的孩子早早就被疏散了，而一些工作人员在工厂死去，因为他们没有被下令离开。</p>
-<p>从信息流通的角度来看，在一个技术社会里，广泛的秘密性最终会导致事故的发生和恶化；为了避免技术和社会灾难，自由的信息交流是必须的。过度保密是所有集权主义政权的特点，也是其主要弱点之一。</p>
-<p>前苏联当局在事故后的掩盖行为，出发点是为了防止恐慌，但却在民众心头留下严重的不安，增加了他们对其他事故的长期关注。也就是说，一起事故发生后，尽管让公众停留在黑暗中可能会在短期内有所帮助，但长期来讲却会令公共事故的关注度大为增加。它给一个国家留下的创伤更多体现在不可见的一面：政府公信力的丧失，民众的怀疑与恐惧，对缺乏透明度的痛恨，点点滴滴汇聚到一起，造成了前苏联的一个根本性的裂纹，而这道裂纹终于无法弥合。</p>
-<p>归根结底，切尔诺贝利代表了苏联公民与国家之间的关系的根本性转变。爆炸发生前，大多数苏联人都并非心怀不满的持不同政见者；他们相信苏联体制，原谅它的缺陷，认定在其范围内可以实现更加美好的未来。但切尔诺贝利之后，这个体制不仅看起来可能是无法弥补的，而且充满了巨大的危险。因为每一个公民的安全都危在旦夕。</p>
-<p>戈尔巴乔夫后来说，他认为切尔诺贝利灾难是往苏联这副巨棺上钉的一颗大钉子。如果戈尔巴乔夫的说法是准确的，切尔诺贝利代表着苏维埃国家最后的归宿，这个国家最终被自由表达的力量所瓦解。令人悲哀的是，竟然需要一次核爆炸才能释放这股力量。</p>
-<p>切尔诺贝利之后，苏联在崩溃前还挣扎了好几年。1991年圣诞夜，苏联国旗从克里姆林宫上空缓缓降下，历史上最大的帝国之一从地球上消失了。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/sulian.jpg?resize=448%2C336" alt="sulian" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/sulian.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/sulian.jpg?w=448 448w" sizes="(max-width: 448px) 100vw, 448px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%83%A1%E6%B3%B3%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BF%A1%E6%81%AF%E7%9A%84%E8%87%AA%E7%94%B1%E6%B5%81%E5%8A%A8-%E5%B0%B1%E6%97%A0%E6%B3%95%E7%AE%A1%E7%90%86%E9%A3%8E%E9%99%A9%E7%A4%BE%E4%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9/?category=18271" rel="tag">切尔诺贝利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%AE%89%E5%85%A8/?category=18271" rel="tag">核安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E7%94%B5%E7%AB%99/?category=18271" rel="tag">核电站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%BE%E9%9A%BE/?category=18271" rel="tag">灾难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E7%90%86%E4%BD%93%E5%88%B6/?category=18271" rel="tag">管理体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E6%B3%B3/?category=18271" rel="tag">胡泳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E8%81%94/?category=18271" rel="tag">苏联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -744,5 +746,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

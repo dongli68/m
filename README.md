@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E5%A4%A7%E5%A4%A7%E8%A1%A8%E7%A4%BA%E4%B8%8D%E6%BB%A1%EF%BC%9A%E8%BF%99%E7%A7%8D%E5%8D%91%E9%84%99%E4%BC%8E%E4%BF%A9/" target="cdt-mirror">【网络民议】习大大表示不满</a>
@@ -291,7 +291,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E9%83%A8/?category=18271" rel="tag">交通部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%BD%A6%E8%BD%AF%E4%BB%B6/?category=18271" rel="tag">打车软件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5/?category=18271" rel="tag">深圳禁摩限电</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%96%B0%E8%A7%84%EF%BC%9A%E4%B8%8D%E5%BE%97%E5%AE%A3%E4%BC%A0%E7%82%92%E4%BD%9C%E6%9C%AA%E5%88%A0%E5%87%8F%E7%89%88/" target="cdt-mirror">财经网 | 广电总局新规：不得宣传炒作“未删减版”等概念</a>
 </h2>
@@ -734,7 +734,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -744,5 +744,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,151 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E5%A4%A7%E5%A4%A7%E8%A1%A8%E7%A4%BA%E4%B8%8D%E6%BB%A1%EF%BC%9A%E8%BF%99%E7%A7%8D%E5%8D%91%E9%84%99%E4%BC%8E%E4%BF%A9/" target="cdt-mirror">【网络民议】习大大表示不满</a>
+</h2>
+<p><p>台湾基隆一个文创园区星期三举办“为台湾英雄铜像揭幕”仪式活动，不过，这位“台湾英雄”的身份却引起网民热烈讨论，因为他是中国前总理温家宝。</p>
+<p>香港明报报道说，这个温家宝铜像，赤着脚，一手拿着皮鞋，底座写着“台湾英雄”，中间写着“和谐”两个大字，旁边写着“开放陆客观光，对台政策友善，维持两岸和平，扩大经贸交流”。</p>
+<p>活动策展人林坤明表示，温家宝任内对台湾开放经商，创造许多就业机会，因此可以说是台湾英雄。</p>
+<p>不过，基隆的立委则表示，不太能接受，他个人觉得挺夸张；但该文创区是私有场域，活动也未涉政府补助，因此对园区内办理的活动只能尊重。</p>
+<p>铜像引起台湾网民热议。有网民指“不放习大大吗？”、“干脆放毛泽东好了”等等。</p>
+<p>来源：自由亚洲</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/ChCIK_XU4AAlqPu.jpg?resize=550%2C667" alt="ChCIK_XU4AAlqPu" data-recalc-dims="1"></p>
+<p>相关阅读：<a href="https://www.youtube.com/watch?v=z3EDyb3m__E" target="_blank">温家宝被扔鞋后的反应</a></p>
+<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
+<p><em>@凤凰网友：这就是所谓的台式伪民主</em></p>
+<p><em>@老酸汤：嗯！？让我先擦亮眼，有点小震惊。还是拆了吧，只怕某一天跟老蒋的铜像屡屡被绿营拆除一样的命运，那可是真正伤害了大陆民众的感情。在当前岛内绿蛆横行的社会环境里树立温总理的铜像，其实也是亵渎了温总理睿智！</em></p>
+<p><em>@兔子家萌萌的小号：翻脸的时候别和对蒋公一样对我们温总理就行，我们对总理是很尊敬的，不像你们。</em></p>
+<p><em>@CatrionaLin：你们台湾人欺负人也不能这么欺负吧，大陆的朋友不知道，你们会不知道？这个拥恒文创园区是干嘛的？你们台湾人不知道吗？是墓地唉，你们见过有把活人铜像立到墓地里的？这叫哪门子尊敬？还是说你们台湾人对你们认为的英雄，就是给他在墓地里立一个铜像是吗？欺人太甚了吧。</em></p>
+<p>@計定高平陵：濤哥和寶寶真心不知道比現在的那些玩意兒強到哪去了。</p>
+<p>@门挤一挤：雕像：XXX在台湾提鞋？</p>
+<p>@维基百科：温家宝被扔鞋事件是2009年2月2日时任中国国务院总理温家宝在英国伦敦剑桥大学被该校德国籍男研究生马丁·杨克扔鞋的事件。当时温家宝正在“瑞德讲坛”发表题为“用发展的眼光看中国”的演讲，鞋子被扔到距离讲台约一米远的地方，未击中温家宝。之后马丁·杨克被安保人员带离现场，温家宝则表现冷静称“这种卑鄙的伎俩阻挡不了中英两国的友谊”，继续完成演讲。中国政府后来向英国局施压以对马丁·杨克提出控告，在剑桥的法庭上马丁·杨克被判决无罪，并当庭获释。</p>
+<p>@hnjhj：温总理问禅师：“请问禅师，我辅佐先帝以来，殚精竭虑，然天下倾覆，此何故也？”禅师二话不说，把鞋子递到他手上。总理猛然醒悟：“禅师把两只鞋合在一起，难道说要我时刻不忘社会和谐？”禅师摇摇头：“我是要你记住，你就是个拎鞋的。”</p>
+<p>@Zodiac4698：哈哈哈哈，这事儿太无厘头了，就因为温家宝当政的时候期盼“两岸和谐”就要为他立个像吗？！还英雄碑？一句话成英雄？荒唐。大陆今天那么多为中华的自由民主抛头颅，洒热血，身陷囹圄的气节之士一个都比不上“影帝”？要讨好中共，你也挑一个在职的啊。</p>
+<p>@二逼青年批话多：接过两只丢来的皮鞋。</p>
+<p>@奈何子非鱼：其实他的内涵是：光脚不怕穿鞋的。</p>
+<p>@枪枪与玫瑰：有病吧，大陆都没有他的铜像啊。你们谁见过。</p>
+<p>@Gromit_Gao：手提鞋子的塑像应该立在剑桥吧。</p>
+<p>@等待比时间慢一点的美：我还记得温总理说得控制房价 字字入心 然并卵</p>
+<p>@走下神坛的三胖：怎么立的是铜人，不是早都说了，欠宝宝一个小金人吗？</p>
+<p>@拥抱黑暗SSS：这种卑鄙的技俩…….</p>
+<p>@端康子是：“和鞋”！真点题。</p>
+<p>@三石醬：应该放在台北影展上啊，这位是影帝诶。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E5%A4%A7%E5%A4%A7%E8%A1%A8%E7%A4%BA%E4%B8%8D%E6%BB%A1%EF%BC%9A%E8%BF%99%E7%A7%8D%E5%8D%91%E9%84%99%E4%BC%8E%E4%BF%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E8%8B%B1%E9%9B%84/?category=18271" rel="tag">台湾英雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90/?category=18271" rel="tag">和谐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D/?category=18271" rel="tag">温家宝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87%EF%BD%9C%E4%B8%80%E5%90%8D%E5%B8%B8%E5%A4%96%E5%AE%B6%E9%95%BF%E7%9A%84%E4%BF%A1%E4%BB%B0%E5%9D%8D%E5%A1%8C%EF%BC%9A%E5%8F%AA%E6%81%A8%E6%B2%A1%E6%9C%89%E8%83%BD/" target="cdt-mirror">网易路标｜一名常外家长的信仰坍塌：只恨没有能力移民</a>
+</h2>
+<p><p><strong>网易《路标》文|徐至 编辑|周至美</strong></p>
+<p>调查组报告出来的那晚（4月25日），陈杏（化名）再次陷入了绝望。凌晨时分，她在朋友圈里发泄不满。就在半小时前，她还充满着希望：“如果得偿所愿，或可拯救信仰。”</p>
+<p>失眠了一夜之后，她决定不再抗争了，改用脚投票，决意为孩子办转学。</p>
+<p>从希望到失望，半年来，这位常州外国语学校的学生家长已反复历经多次。</p>
+<p><strong>半年多的经历，颠覆了她三十多年的人生经验。</strong>现在，她对周遭充满了怀疑。</p>
+<p>最新的失望来自常州官方援引的调查组的初步结论，认为常外校区与对照点位没有明显差异。这份报告让她觉得，原来寄望的学校搬迁过渡，现在希望越来越小了。</p>
+<p><strong>4月19日，陈杏对网易《路标》提到有家长考虑移民，她认为这伤及她的民族自尊心。25日的报告出来之后，她开始恨自己没有能力带孩子移民国外。</strong></p>
+<p>这块她熟悉的故乡，一下子成了陌路。“这个我从小长大的地方，原来我从来没有真正认识过。”她说。</p>
+<p>用她自己的话说，陈杏“是一路接受正统教育的产物”。毕业后，她找到一份工薪工作，直到孩子万云历（化名）上小学，她和丈夫才咬咬牙买了房。他们将房子买在了当时正迅猛发展的新区——新北区——离老城相对远，房价也不贵。</p>
+<p>万云历是常外八年级的学生。陈杏说起儿子的时候很自豪。万云历不仅会弹吉他，更是数学奇才，从小学开始学习编程，凭成绩考上了江苏省内名校常州外国语学校。</p>
+<p>这个学校是陈杏和万云历共同选择的结果。万云历喜欢常外，陈杏也认可常外的口号：让每一个生命尽情绽放。</p>
+<p>然而，持续半年的这次风波，常外的种种处理让她失望透顶。</p>
+<p>“我对常外毫无留恋”，陈杏说，“如果不是孩子舍不得同学，我们一开始就办转学了。”</p>
+<h2><strong>新北区关键词：化工、重污染</strong></h2>
+<p> <br>
+万云历就读的常州外国语学校位于常州新北区，这是1992年经国务院批准最早成立的52个国家级高新区之一。</p>
+<p>新北区的发展是中国城市扩张的缩影。在“快速推进城镇化”的旗帜之下，申报新城新区可以得到国家财政的支持与政策红利，也有利于漂亮的政绩报告。因此，地方政府、甚至每届地方政府，都热衷于规划新城新区建设。</p>
+<p>新北区的经济发展的第一批关键词就是化工、农药、重污染。这也是新北区的历史顽疾。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160428113336cefd9_550.jpg.549x10000.75.auto_.jpg" rel="attachment wp-att-436066"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160428113336cefd9_550.jpg.549x10000.75.auto_.jpg?resize=549%2C366" alt="20160428113336cefd9_550.jpg.549x10000.75.auto" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160428113336cefd9_550.jpg.549x10000.75.auto_.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160428113336cefd9_550.jpg.549x10000.75.auto_.jpg?w=549 549w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></a><p>网易《路标》在从常隆地块运至新北区李家村的土壤上看到一只死鸟。摄|徐至</p></div>
+<p>常隆老员工胥建伟告诉网易《路标》，新北区龙虎塘在建国前即建有新华农药厂，常隆化工厂在上世纪60年代末开始定址于此。</p>
+<p>因为靠近长江、排放便利，从上世纪90年代开始，新北区下属部分乡镇开始大量引进化工企业。据《财经国家周刊》报道，化工企业纷纷入驻的同时，当地身患癌症的人口数量也在不断攀升。数据显示，常州市新华村这个人口6000多人的村子，2004年到2008年间，身患各种癌症的人数高达近200人，死亡率超过历史上的血吸虫病。</p>
+<p>在“建设绿色、宜居的滨江新城”的口号下，辖内化工企业陆续搬迁、关闭。常隆化工厂在2010年搬迁至泰兴。</p>
+<p>农药厂旧址上入驻了大批地产商，一个个楼盘相继开盘。陈杏一家也是在这个时候将第一套房子买在了新北区。</p>
+<p><strong>那时她还不知道，离新购置房产七公里外的通江路和辽河路交叉口，新的规划已在雏形之中，而她将在起因于规划的纷争中，崩塌自己过往的所有信条。</strong></p>
+<h2><strong>奇怪的搬迁</strong></h2>
+<p> <br>
+按照规划，常外新址所在的新北区通江路和辽河路交叉口，将成为一个商业中心。在2011年10月的规划中，该地块用地类型调整为中小学教育设施用地。</p>
+<p>常外的新地址定在常隆化工厂原址南侧，直线距离不足100米。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811254118cb5_550.png.550x10000.75.auto_.jpg" rel="attachment wp-att-436065"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811254118cb5_550.png.550x10000.75.auto_.jpg?resize=550%2C361" alt="常隆地块和常外校园之间只隔了一条马路。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811254118cb5_550.png.550x10000.75.auto_.jpg?resize=300%2C197 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811254118cb5_550.png.550x10000.75.auto_.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>常隆地块和常外校园之间只隔了一条马路。</p></div>
+<p>原本希望商业开发的公司最后放弃了这块土地，原因可能是因为土地的健康原因。但常外的项目显然未受阻碍，不但如此，而且常外的建设于2011年8月动工时，常州市规划局为改项目核发的许可证还没有出炉。</p>
+<p>常外的动工仪式颇为隆重。在《常州日报》当天的报道里，重点强调了市委领导参加开工仪式。</p>
+<p>去年，刚读完初一的万云历随着学校搬迁也来到新校区。陈杏听说新校区在以前的化工区，曾隐隐担心，不过她还是愿意相信政府和学校，“再苦不能苦孩子，再怎么也不会乱来吧”。</p>
+<p>搬去新校区不久，陈杏开始发现孩子不太对劲。以往周末孩子六七点就起床，那时却怎么都睡不醒，15岁的年纪，本来应该精力充沛，却每天都喊累。万云历的头屑很多，陈杏还以为他没洗干净头，几次责令他好好洗头。</p>
+<p>陈杏后来才知道，万云历的症状，发生在很多孩子身上。很多孩子都诊断出甲状腺结节钙化，白细胞数下降，淋巴结节。</p>
+<p>万云历被诊断出“淋巴有结节，0.5已代表肿大，他较大的有2.1”。陈杏已被逼成医疗专家，她负责整理本班学生病历，专业术语能迅速理解。万云历被诊断出有血流信号，“有这个信号非常不好，它代表结节还会肿大”。</p>
+<h2><strong>“我非常非常胆小”</strong></h2>
+<p> <br>
+有一段时间，万云历总是抱怨教室里一股臭香蕉的味道：他们班级一直在找是哪位同学带了香蕉来学校却不吃掉，当时甚至成为班级的不解之谜。</p>
+<p>有家长去学校接孩子，老是闻到一股臭味，“等久了都头晕”，一位家长告诉网易《路标》。陈杏后来在学校看井的时候，也闻到一股“烧橡胶轮胎”的味道。</p>
+<p>家长认为孩子大规模出现相似病历与常隆的污染直接相关。一位坚持举报常隆违法处置污染物的常隆老员工的说法让家长更加担心。这位举报者称，常隆在搬迁过程中曾将大量危废（危险废物）埋于地下。</p>
+<p>网易《路标》在江苏省环境保护厅制定于2013年9月的《常隆（华达、常宇）公司原厂址地块污染场地土壤和地下水修复工程（报批稿）》中发现，“毒地”原有的三家化工厂，曾生产高毒、致癌化学品，搬迁过程中，均发现有倾倒废液导致土壤严重污染的情况。报告还强调，如果不治理污染，场地的污染物会慢慢散发，对周边环境及居民健康造成风险。</p>
+<p>“孩子在学校一天，就是‘吸毒’一天。”心急如焚的家长决定采取行动。</p>
+<p>2016年1月15日，家长代表向学校表达搬迁过渡的请求，并开会洽谈。学校态度坚决，搬迁过渡没有可能。</p>
+<p>陈杏和其他家长在学校外支持家长代表。一月份的常州，晚上太冷了。陈杏和家长们冷极了就一起唱国歌。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811212648513_550.jpg.550x10000.75.auto_.jpg" rel="attachment wp-att-436064"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811212648513_550.jpg.550x10000.75.auto_.jpg?resize=550%2C305" alt="1月15日，上千名家长聚集在常外门口。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811212648513_550.jpg.550x10000.75.auto_.jpg?resize=300%2C166 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811212648513_550.jpg.550x10000.75.auto_.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>1月15日，上千名家长聚集在常外门口。</p></div>
+<p>几乎所有与1月15日活动有关的家长都受到了问话，包括陈杏在内，她被警告“不要上访”。担任公职的则受到单位领导问询。一位家长向网易《路标》透露，常州某区政协委员也遭到约谈，要他保证不上访。一些家长在压力之下，逐渐缄口不言。</p>
+<p>陈杏打定主意不让万云历上学。这个决定却得不到家人的支持，孩子的父亲和外婆都认为“孩子不能在家里晃耽搁学业”。</p>
+<p>说到这里，陈杏再次哽咽：“你可以说我不孝，但我到现在都恨他们。”</p>
+<p>她多次对网易《路标》表示，自己是一个胆小的人，但她觉得不能继续沉默，“我们可以卑微如尘土，不可扭曲如蛆虫”。</p>
+<h2><strong>“最棒的战斗是快要全灭的胜利”</strong></h2>
+<p> <br>
+2016年的寒假结束前，陈杏收到班主任发来的消息。她被要求回复三条内容：学生寒假学习情况、身体状况，以及能否在21日上午8点半前按时报到。</p>
+<p>而在收到消息前一天，家长得到的承诺是：学校将对校园进行全方位环境检测，也同意家长聘请权威机构检测，如果有问题，学校会向政府申请过渡搬迁。</p>
+<p>但学校在未得到合格环境数据就定下报到时间，家长认为这违背了承诺。</p>
+<p>万云历在开学前也请求妈妈不要送她回学校。陈杏决定不让孩子报到，并做好转学的准备。</p>
+<p>没去报到的家长把孩子组织到一起，开了一个复习班，为即将到来的考试做准备。这个复习班成为了不去上学的少数派。再往后，万云历在复习班的同学越来越少，他逐渐被“孤立”了。</p>
+<p>“我那天早晨抱着孩子哭，复习班现在就只剩我一个了。”陈杏说。</p>
+<p>万云历没哭。这个倔强的中学生那天发了一条“空间说说”：“最棒的战斗不是全员通过的战斗，而是快要全灭的胜利。”</p>
+<p>回学校考完试的第二天，万云历对母亲说：“我的同学以生命向我保证，地下水是合格的，还想在那上学，我们班只有我一个孩子坚持到这个时候。”</p>
+<p>陈杏正骑着车，突然又开始大哭。</p>
+<p>班主任告诉陈杏，孩子初二，现在的期末期中考试都会计入自主招生考虑。压力之下，陈杏被迫将孩子送回了学校。</p>
+<h2><strong>“最难过孩子看到社会阴暗的一面”</strong></h2>
+<p> <br>
+希望在4月17日重燃，当天央视报道《不该建的学校》播出。一时间舆论沸腾，各路媒体都聚集常州。</p>
+<p>省内并非也完全不关心。江苏新闻广播一档《晓东有话说》在2月份报道了两期，随后戛然而止。</p>
+<p>面对央视的质疑，常州予以了回击。4月19日，《常州日报》头版刊登了《关于央视报道反映“常外”相关情况的说明》，对央视的几个主要、关键性证据予以反驳。</p>
+<p>国家环保部、卫计委参与的调查组来到常州。很多家长认为就要有说法了，陈杏也抱有希望。</p>
+<p>事实上，随着调查组的到来，信息反而越发闭塞。校长的电话再也无人接听，没有官员愿意接受采访。常州市委宣传部新闻处处长李吉祥对网易《路标》说，现在常州处于被调查状态，一切出口都由调查组把关。</p>
+<p>4月25日，常州官方出台调查组的初步结论，官方表示：经过环保调查组，医疗卫生专家组的初步调查，常外校区与对照点位没有明显差异。此外，909名学生中，有247人甲状腺结节，浅表淋巴结肿大35人，成因不明。</p>
+<p>不必再等盖棺定论了。陈杏当夜就翻出房产证，开始找新的学区，“孩子必须转学”。</p>
+<p>“不过，我最难过的是，孩子不仅身体受到伤害，还看到了社会上阴暗的一面。”陈杏对网易《路标》说。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87%EF%BD%9C%E4%B8%80%E5%90%8D%E5%B8%B8%E5%A4%96%E5%AE%B6%E9%95%BF%E7%9A%84%E4%BF%A1%E4%BB%B0%E5%9D%8D%E5%A1%8C%EF%BC%9A%E5%8F%AA%E6%81%A8%E6%B2%A1%E6%9C%89%E8%83%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E%E5%A4%96%E5%9B%BD%E8%AF%AD%E6%A0%A1%E5%9D%80%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">常州外国语校址污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%A8%E8%84%9A%E6%8A%95%E7%A5%A8/?category=18271" rel="tag">用脚投票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B5%84%E9%87%91%E9%95%BF%E5%9F%8E%E5%88%9A%E5%88%9A%E5%8F%88%E4%B8%80%E6%AC%A1%E6%B3%84%E9%9C%B2/" target="cdt-mirror">博谈网｜中国的资金长城刚刚又一次泄露</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/rtr4oufi-e1461678836502.jpg" rel="attachment wp-att-436058"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/rtr4oufi-e1461678836502.jpg?resize=575%2C324" alt="rtr4oufi-e1461678836502" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/rtr4oufi-e1461678836502.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/rtr4oufi-e1461678836502.jpg?w=700 700w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>（博谈网记者郑皓然编译报道）据《石英》（Quartz）4月26日报道，当资金要跑路的时候，真是拦也拦不住。</p>
+<p>问问对冲基金就知道了，资金撤出的时候谁也挡不住。</p>
+<p>不过，从对冲基金抽走的那几十亿与去年从中国外流的巨额资金相比真是小巫见大巫。</p>
+<p>‌‌‌‌“金融研究所‌‌‌‌”（IIF）近日发布的数据显示，预计2016年中国资金净流出大约为5300亿美元，比去年海量资金净流出的6750亿美元有所下降。</p>
+<p>国际金融研究所报告显示，在2016年第一季，中国资金净流出为1750亿美元，比2015年第一季净流出的1650亿美元略有增加，不过2015年8月北京意外让人民币贬值造成了去年随后的大量资金外流。</p>
+<p>资金外流不仅仅是因为外国资本撤出。国际金融研究所预计，今年外资撤出中国会有所放缓。报告写道：‌‌‌‌“我们预计外资流入中国会有温和复苏，但是中国居民的资金会持续大量外流。‌‌‌‌”中国的资金外流是造成最近几年新兴市场资金外流的主因。</p>
+<p>北京已经采取了一系列措施来限制资金外流，而资金外流方式最近再不断创新花样来规避现有的资金管制。中国的最大信用卡网络，国有中国银联，最近将中国大陆可以在香港购买保险产品的每笔交易金额限制在了5000美元。（这种购买保险方式已经成为了规避禁令将资金弄出中国大陆的流行方法）。去年年底，中国监管机构规定，银行应该更严厉地审查大额外汇交易，以确保其不是用来逃避资本管制。</p>
+<p>尽管如此，资金外流依旧。三月分中国官方数据显示，从香港出口到大陆的货物交易量跃升了117%。而同时，香港的统计数据却截然相反。今天，香港报告了从香港出口到大陆的货物交易实际比去年同期下滑了11%。这两组数据不可能都是真的。</p>
+<p>要理解这些数据的唯一方法是假设大陆人在‌‌‌‌“花钱进口‌‌‌‌”实际上不存在的货物，作为将钱从中国大陆转移到香港的手段。我们曾经在几年前看到过类似的‌‌‌‌“假发票‌‌‌‌”的例子，当时出现了大得离谱的从大陆到香港的‌‌‌‌“出口额‌‌‌‌”，意味着有人将资金偷偷转移到大陆。</p>
+<p>现在，相反的情况正在发生，这意味着尽管中国有了（经济）稳定的迹象，但是如果放任不管，那么资金的自然流向是流出中国。这意味着，在可以预见的未来，人民币会继续面临持续的压力。</p>
+<p><a href="http://qz.com/670541/chinas-great-wall-of-money-just-sprang-another-leak/" target="_blank">原文阅读：China’s great wall of money just sprang another leak</a></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B5%84%E9%87%91%E9%95%BF%E5%9F%8E%E5%88%9A%E5%88%9A%E5%8F%88%E4%B8%80%E6%AC%A1%E6%B3%84%E9%9C%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%A4%96%E9%80%83/?category=18271" rel="tag">资本外逃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E9%87%91%E5%A4%96%E6%B5%81/?category=18271" rel="tag">资金外流</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%9B%86%E4%BD%93%E5%AE%BF%E8%88%8D%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/" target="cdt-mirror">东方历史评论｜集体宿舍背后的意识形态</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9B%86%E4%BD%93%E5%AE%BF%E8%88%8D.jpg" rel="attachment wp-att-436051"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%9B%86%E4%BD%93%E5%AE%BF%E8%88%8D.jpg?resize=550%2C387" alt="集体宿舍" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/集体宿舍.jpg?resize=300%2C211 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/集体宿舍.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
@@ -581,110 +723,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%9F%B3%E6%89%89%E5%AE%A2%EF%BC%9A%E4%BB%8A%E5%A4%A9%E6%88%91%E4%BB%AC%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A3%B0%E6%8F%B4%E9%82%A3%E4%BA%9B%E8%A8%80%E8%AE%BA%E5%9C%BA%E4%B8%8A%E7%9A%84%E5%80%92%E9%9C%89/" target="cdt-mirror">石扉客：今天我们该如何声援那些言论场上的倒霉蛋们？</a>
-</h2>
-<p><p>很不想写这篇，所以犹豫了几天。考虑到得罪人是我的强项，还是把这篇放了出来。</p>
-<p>事关慕毅飞，浙江温岭那个倒霉蛋退休官员，详情见如下文件：</p>
-<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E5%AD%98%E6%AD%A4%E7%85%A7%E3%80%91%E7%BB%99%E4%BA%88%E6%85%95%E6%AF%85%E9%A3%9E%E5%85%9A%E5%86%85%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A%E5%A4%84%E5%88%86%E7%9A%84%E5%86%B3%E5%AE%9A/" target="_blank">【立存此照】给予慕毅飞党内严重警告处分的决定</a></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUoAMRjN8.jpg?resize=500%2C730" alt="Cgn4feZUoAMRjN8" width="500" height="730"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUkAAfLzZ.jpg?resize=500%2C781" alt="Cgn4feZUkAAfLzZ" width="500" height="781" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUkAAfLzZ.jpg?resize=192%2C300 192w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4feZUkAAfLzZ.jpg?w=512 512w" sizes="(max-width: 500px) 100vw, 500px"></p>
-<p>这份文件援引其因推销书本受过处分的“历史问题”，再归纳其因微博发言而受到过组织谈话处理，最后列出最新“罪行”是本月公开发表了一篇自曝“休而不退”的文章，内容“部分失实”且引发舆情。</p>
-<p>按照这份文件的描述，慕案并不复杂。但公文行事，都会有一番暗藏深意的讲究。</p>
-<p>这份处分文件也不例外，虽然列举了三个事实，但最后给出的处分理由却是“多次公开发布、转载与党的路线方针政策不一致的错误言论，严重损害了党的形象”。不仅如此，文件比较罕见的直接给出了微博举报者的身份就是下面这家：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Cgn4felU4AAuukm.jpg?resize=577%2C1024" alt="Cgn4felU4AAuukm"></p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/l4YyDibNqXqg8gAg79bT7Ghjt6p37iaxu9TjStrTvb88oK8tSJYhc8cLiarrruYFxeHvA83E5ARBl87vmuc1n2icQA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="577" height="1038"></p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/l4YyDibNqXqg8gAg79bT7Ghjt6p37iaxu9FVEnCp40EcliagnwGEicYujcbytZf4LAbw3dHg0vt3CShLwaMfpfBbqA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1" alt="" width="576" height="1032"></p>
-<p>不难看出，事情的关键在于这哥们的微博发言被人盯上了（最早的举报似是2月19日，详细列举了9条微博的截屏，然后逐日点名计时）。本来是民不举官不究，慕也已退休，但当此时势，风雷不断，当地政府已不易招架，慕又来了篇不合时宜的文章，最后给了个严重警告的党纪处分。</p>
-<p>这三年以来，这种定点清除的事情早不新鲜。兰州晨报赵野和嘉兴日报王垚峰两位兄弟就先后中招，饭碗被干掉。只不过慕毅飞比前两者在现实政治中的权重要高一点，在网络世界的知名度要大一点，情况也比他们要复杂不少。</p>
-<p>细看慕毅飞被举报的微博，主要集中在2011到2014年间，在当时的气氛里，内容也很难说是十分出格。事已时过境迁，博主也早已删帖关号，这些其实算不了什么。</p>
-<p>至于《一个“休而不退”者内心深处的愧疚》是一篇公开发表在报刊上中规中矩的时评文章，并非博文，无丝毫越矩之处，反倒显示了直面问题与反求诸己的勇气和诚意，说这是披肝沥胆的逆耳忠言也不为过。</p>
-<p>我只能感叹慕运气不好。这个处分是4月15日作出的，如果按照4天后的4.19网络舆论座谈会上最高领袖的最新讲话精神，他或者就能逃过此劫了。</p>
-<p>无论如何，我相信再深文周纳也无法否认这篇文章的立意确实是标准的善意批评（连“华夏军团作战部”都未举报这篇文章）。何况面对一个县级市里老资历的正科级官员，一个已经退休的老党员，一个小有名气的网红，相信稍明事理的地方主官都不会去多生事端。</p>
-<p>再次感叹慕运气不好。接下来要感叹的，是这事中各大媒体的跟进方式。有的照抄“温岭发布”的原文了事，有的将其放入打虎记序列，有的直接将“曾自曝休而不退照拿工资“放入标题与版式中，给人造成这是劣迹和处分原因的阅读感受。</p>
-<p>我发了一条微博评论此事，同时批评了最后这家媒体，大意是：媒体都只报处分结果，未见发掘处分原因与证据。媒体求稳固然第一，但往前这半步怎么走很见功力。同样的事实，可做完全不同的解读。往右是同情之理解，往左就是落井下石，原地止步也是积一份善缘。</p>
-<p>让我颇觉意外和感动的是，这家媒体的主管虚怀若谷，很快就回应了我的杯葛并对版式做了调整。</p>
-<p>另外先后看到三篇关于此事的评论，作者分别是深圳晚报评论员、腾讯副总李方、时评人陈杰人。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-1.jpg?resize=640%2C1139" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-1.jpg?resize=575%2C1024 575w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-1.jpg?w=640 640w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2.jpg?resize=640%2C1139" alt="2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2.jpg?resize=575%2C1024 575w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2.jpg?w=640 640w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3.jpg?resize=640%2C1139" alt="3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3.jpg?resize=575%2C1024 575w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3.jpg?w=640 640w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1"></p>
-<p>深圳晚报这篇选了一个精巧角度，避开慕毅飞是否该受到处理这个敏感的核心问题，转而讨论官员“休而不退”是否合理合法。陈杰人这篇写得最晚，正好赶上4.19讲话出台，很自然地援引最高指示棒喝温岭方面。</p>
-<p>这两篇都是来自时评界的声援，无论是围魏救赵还是拉大旗作虎皮，都是用心良苦。我想说的是同样出身时评界的李方老师这篇《为什么慕毅飞自曝收入自我忏悔的行为不值得提倡》。</p>
-<p>他的主要观点即标题所言——慕毅飞的行为不值得提倡。论据和论证分两个部分，先说从来没人公开讲收入多少，如何取得（从古至今就陶渊明亮过一次五斗米的收入数字），所以慕这种做法惊世骇俗，绝无仅有。接着说慕毅飞这个做法突破了行为规范与个人信用的双重底线，突破底线的公平正义不值得信任。</p>
-<p>先说事实。我读书不多，但视野所及，自曝收入多少以及如何取得的官场中人，实在太多了，完全不用举到晋朝，我来举个当下的顶级大官——现任政治局常委俞正声。</p>
-<p>俞在青岛市委书记和上海市委书记任上，都公开讲过自己的收入数字。青岛是通过电视公布自己的收入、住房和礼品处理情况（见新华社2012年12月24日电），上海是在上海交大上党课时说政治局委员收入是11000元，比时任上海市长的韩正略低（见南方周末2011年6月24日报道）。</p>
-<p>就算俞正声位置太高，敢于公开收入的普通公职人员所在多有。我认识的湖北黄石前一级警司吴幼明、和慕毅飞位置与级别类似的湖南汉寿县政法委副书记张天成，都曾经详细公开过自己的收入。</p>
-<p>即便是陶渊明这五斗米，也不能说是一个准确的例子。按照杨联陞的观点，五斗米就是县令的日薪。这个说法我理解主要用来形容区区一日之饱，而非所谓报酬一年之劳，跟慕毅飞的年入12万不是一回事。</p>
-<p>以浙江台州的经济水准，对一个高年资正科级官员来说，年入12万应该不是一个离谱的数字。慕这篇《一个“休而不退”者内心深处的愧疚》，反对的也不是这个数字，而是“休而不退”这种现象。</p>
-<p>我并不认识慕毅飞，但这十余年来，,常常能从网络上看到他的声音。我一边拜读他的文字，一边感叹还有这样的另类宣传部长与党校教师。</p>
-<p>我理解，他应该是当地官场里的另类，也是个总也管不住嘴的倒霉蛋。</p>
-<p>体制内，总归有这么一些既热心于公共事务，习惯了打抱不平与臧否是非，又对仕途没有完全死心的另类官员。我所熟悉的湖南御史在途（省纪委的处级干部），江西段郎说事（九江市公安局的班子成员）都是这种。</p>
-<p>网络给了他们更大更方便的发言舞台，而时势又越来越难以见容这种多言而好言的风格。所以御史已经离开纪委机关、段郎也曾被喝茶谈话，而“休而不退”对慕毅飞来说，与其说是一种待遇和享受，更不如说早就已经意味着是一种自废前途的惩罚了。</p>
-<p>回到这件事上，我真不觉得慕毅飞此举如何才能扯得上突破了行为规范与个人信用的伦理底线。</p>
-<p>作为党员和公务员，向组织申报是义务，向社会公开是勇气。作为时评写作者，援引自身情况作为论据是一份实诚。作为前官场中人，临到退休才写这篇点到为止的文字，是留有余地的审慎。他的发言远没有任大炮那种凌厉，而境遇却仿佛甚至有过之。</p>
-<p>那么今天我们该如何看待慕毅飞们？</p>
-<p>如果是同道，至少要对这种言论市场上的倒霉蛋抱一份同情心。</p>
-<p>如果还有过编发文章的老交情，就该私下提醒一句。</p>
-<p>如果有交情还能仗义，就要帮着喊一声。</p>
-<p>至不济，就明哲保身吧。这世道能自保也已相当不易，沉默沉默又不是罪。</p>
-<p>所以李方老师这篇文章真不该写。我从来不认为李方老师是坏人，相反，我对他的同情心印象深刻（他曾自述因一篇报道中遇难矿工的细节痛哭不已）。他可能被他的过于聪明害了，总习惯为自以为聪明且牛逼者代言，一定要站在大众声音的对立面去。</p>
-<p>想起前段他那篇《低价电商中邪恶的一面》，我担心李方老师再这么写下去，他很快就就会成为这个国家里最善于挑倒霉蛋毛病一族的李族长了。</p>
-<p>正经说一句，忝为知识精英，如果考虑问题总是不离高度务实的小白视角，总是本着绝对精算的利己主义，总是习惯以锱铢必究的职场利益规则来计算这世间所有真实与正义的冲动，再将这种算计以公开宣扬的方式化作洋洋得意的嘲弄，名为秀一把我总比你看得高想得远总能出奇制胜的智商优越感，其实就是端碗砸锅论的民间变种。</p>
-<p>这，和狼狈为奸，和落井下石，又有什么区别呢？</p>
-<p>石扉客</p>
-<p>2016年4月24日初稿，26日改定。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%9F%B3%E6%89%89%E5%AE%A2%EF%BC%9A%E4%BB%8A%E5%A4%A9%E6%88%91%E4%BB%AC%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A3%B0%E6%8F%B4%E9%82%A3%E4%BA%9B%E8%A8%80%E8%AE%BA%E5%9C%BA%E4%B8%8A%E7%9A%84%E5%80%92%E9%9C%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A/?category=18271" rel="tag">党内严重警告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%86%85%E5%A4%84%E5%88%86/?category=18271" rel="tag">党内处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%95%E6%AF%85%E9%A3%9E/?category=18271" rel="tag">慕毅飞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%B3%E6%89%89%E5%AE%A2/?category=18271" rel="tag">石扉客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">言论审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%AE%A1%E8%AE%AE%E5%A2%83%E5%A4%96ngo%E7%AE%A1%E7%90%86%E6%B3%95%E8%8D%89%E6%A1%88-%E6%9C%89%E6%9C%9B%E9%80%9A%E8%BF%87/" target="cdt-mirror">纽约时报 | 中国再次审议境外NGO管理法草案 有望通过</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26BEIJING-web1-articleLarge.jpg?resize=600%2C401" alt="2009年，绿色和平组织在北京永定门投影的一条标语。一项已提交审议的法律将把境外组织置于警方监管之下。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26BEIJING-web1-articleLarge.jpg?resize=300%2C201 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/26BEIJING-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2009年，绿色和平组织在北京永定门投影的一条标语。一项已提交审议的法律将把境外组织置于警方监管之下。</p></div>
-<p> </p>
-<p>北京——中国官方新闻社周一报道，中国距离一项新的立法越来越近，该法将严格控制数以千计的在华境外非政府组织。</p>
-<p>报道称，官员们有望快速通过该法案目前的版本，使之成为最终版本。</p>
-<p>外国政府和非政府机构曾对该法案更早的两个版本进行<a href="http://cn.nytimes.com/china/20160314/c14chinango/" target="_blank" rel="nofollow">谴责</a>，表示其措辞暗示中国政府将此类组织看作潜在的犯罪组织。批评者表示，该法案提出的限制将导致这些组织<a href="http://cn.nytimes.com/china/20150618/c18xxchinango/" target="_blank" rel="nofollow">减少在中国进行的一些重要工作</a>，比如法律援助和宣传法治的项目。</p>
-<p>去年9月，白宫曾<a href="https://www.whitehouse.gov/the-press-office/2015/09/23/readout-national-security-advisor-susan-e-rices-meeting-civil-society" target="_blank" rel="nofollow">发布一份声明</a>，对这部法案可能会“进一步缩小中国公民社会的空间”表示担忧。美国官员呼吁中国政府取消这项立法，或对其内容做出大幅修改，还希望中国能对<a title="Link: http://cn.nytimes.com/china/20150601/c01chinalaw/" href="http://cn.nytimes.com/china/20150601/c01chinalaw/" target="_blank" rel="nofollow">其他几部涉及面非常广的安全法规草案</a>做出修改，因为这些法规会限制和阻碍境外组织在华运作，包括商业运营。</p>
-<p>有可能成为最终版本的第三版草案没有对外公布，进行公众审议。中国官方通讯社新华社<a href="http://news.xinhuanet.com/politics/2016-04/25/c_1118726356.htm" target="_blank" rel="nofollow">周一的一篇报道</a>表示，该草案已提请有权批准共产党政策的人大常委会审议。报道称，全国人大法律委员会表示，该草案已经经过两次审议修改，将在本周四结束的常委会会议上进行投票。</p>
-<p>新华社表示，相比于第二版，第三版做出了一些修改，减少了一些限制。比如文中称新草案将允许境外非政府组织在中国设立不止一个代表机构。但数量和地点需要得到监管机构批准。</p>
-<p>此外，据新华社描述，目前版本要求这些组织披露财务细节，并向社会公布它们资助的所有活动。</p>
-<p>从第一版开始，该法案中对境外非政府组织的最严厉限制在于，每个组织必须在公安机关登记，必须找到一家愿意为该非政府组织所有在华活动承担责任的中方正式合作机构。</p>
-<p>官方报纸《环球时报》的一篇报道显示，有关将境外组织<a href="http://www.globaltimes.cn/content/979898.shtml" target="_blank" rel="nofollow">置于警方监管之下</a>的条款可能会在最终版本中予以保留。这将对7000多家在华运作的组织产生影响。</p>
-<p>新华社表示，新版本有一个显著的改变在于具体指出了哪些组织会受到这项法规的监管。据新华社报道，新草案显示该法规将适用于“基金会、社会团体、智库机构”等组织。而与学术机构、学校和医院等开展交流合作，则要按照“国家有关规定办理”。</p>
-<p>对之前版本提出批评的人士表示，草案的措辞太过宽泛，所有试图在中国开展工作或活动的外国大学或教育机构，都会受到这一新法规的制约，要接受警方监管。新华社的报道表示情况并非如此，但其措辞比较模糊。</p>
-<p>耶鲁大学法学院中国法律研究中心(China Center at Yale Law School)资深研究员杰里米·L·道姆(Jeremy L. Daum)周一在<a title="Link: http://chinalawtranslate.com/major-changes-anticipated-in-the-new-fngo-law/" href="http://chinalawtranslate.com/major-changes-anticipated-in-the-new-fngo-law/" target="_blank" rel="nofollow">中国法律问题翻译博客(China Law Translate blog)</a>上撰文表示，新华社的措辞“让中外组织必须自己猜测什么样的活动属于受监管范围。”</p>
-<p>道姆还表示，从新华社的概述看，新草案甚至会赋予警方更多权力，对境外非政府组织进行监管，其范围超过了前两个版本中所建议的随时对办公地点进行搜查，对所接受资金进行限制，取消其活动和撤销登记等。据新华社报道，目前的版本显示，警方有权“约谈”境外非政府组织的代表。安全官员长久以来一直可以这么做，但这项法规将明确授予他们这种权力。</p>
-<p>此前，中国没有相应的法规可以让境外非政府机构在官方进行登记，这迫使许多组织不得不在法律的灰色地带运作。多名法律专家曾表示，中国应该制定此类法规。</p>
-<p>但这些专家也表示，将监管和登记此类机构的权力交给公安部，有些说不通。他们表示，民政部才是更合适的监管机构。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 敏感瓷 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%AE%A1%E8%AE%AE%E5%A2%83%E5%A4%96ngo%E7%AE%A1%E7%90%86%E6%B3%95%E8%8D%89%E6%A1%88-%E6%9C%89%E6%9C%9B%E9%80%9A%E8%BF%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E7%BB%84%E7%BB%87/?category=18271" rel="tag">境外组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87/?category=18271" rel="tag">组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%94%BF%E5%BA%9C%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非政府组织</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%97%A7%E6%96%87%E3%80%91%E4%B8%AD%E5%85%B1%E4%B8%83%E5%A4%A7%EF%BC%9A%E5%85%B1%E4%BA%A7%E5%85%9A%E6%9D%80%E8%87%AA%E5%B7%B1%E5%90%8C%E5%BF%97%E6%AF%94%E5%9B%BD%E6%B0%91%E5%85%9A%E6%9D%80/" target="cdt-mirror">【旧文】中共七大：共产党杀自己同志比国民党杀的还多</a>
-</h2>
-<p><p>本文节选自《邱会作在“肃反”中死里逃生 》 作者：韩三洲</p>
-<p>“七大”召开时，会场上哭成一片</p>
-<p>1945年党的七大在讨论到除奸政策时，有位代表发言说：“除奸要十分稳重是完全正确的，左倾教条宗派在江西苏区杀人太多了。”就这一句话，立即震动了全场。不少代表纷纷接着说：“杀人多，杀得惨，把许多好干部都杀掉了！”有代表控诉：“在内战时期，老根据地的人口减少了近20%。人哪里去了？战争牺牲是主要的，但我们自己杀了不少自己的好同志。共产党杀的甚至比国民党杀的还要多。许多好干部都是自己杀的呀！我们对邓发的肃反政策很愤怒！”</p>
-<p>会场还在发言，已经有一些同志哭开了，有的还边哭边述说。对政治保卫局杀人的事，绝大多数都可以说出残酷的例子。有位代表说：“1934年秋，我们三军九师部队有位连长，上午打仗负了重伤，腿都断了，不能行走，可是晚上就把那位连长拉去杀了。因为腿断了不能走，硬是两个人拖出去杀了。”这个例子刺痛了更多人的心，全场出现了失声痛哭、擦抹眼泪的悲惨景象。</p>
-<p>对于肃反滥杀无辜的问题，有代表大声疾呼：“我们要求追查邓发的责任！”话音一落，全场此起彼伏地发出“同意”的响应。会议结束时，陈毅也以沉痛的心情说：“我们今天的会提出了过去杀人的问题，这是一个重大问题，代表团一定向大会主席团报告。”平时散会时，大家都是很活跃的，但这次会议结束后，代表们都心情沉重地离开会场。</p>
-<p>过了两天，毛泽东亲自来到邱会作所在的华中代表团，就苏区肃反问题讲了一次话：一、被错杀的人大都是好同志，我们悼念他们；二、那些同志都是烈士，将来革命成功后，我们应在当地为他们恢复名誉，并以烈士对待；三、肃反问题是错误的，是路线问题，不是某个人的问题，大家不要提出追查邓发的责任问题。</p>
-<p>毛泽东讲话后，代表们没再提出新的意见。肃反扩大化的执行者、当年的政治保卫局局长邓发，在七大预选中就从候选名单上落选了。张闻天夫人刘英在和何方谈及七大时曾说，毛泽东曾到张闻天处征询意见，落选的几位要不要列入七大正式名单？毛泽东笑着问她：你是娘娘，有何意见啊？刘英说，娘娘已经下台了。毛泽东说：你是三朝元老，应该听你的意见。刘英直率地说：除了邓发，其他几位都可以列入正式名单。邓发在肃反中错误太大，影响不好。最后选举的结果，邓发没有当选七大中央委员。到了次年的4月8日，邓发与王若飞、秦邦宪、叶挺等同志在重庆返回延安途中，因飞机失事在山西兴县黑茶山不幸遇难，成为著名的“四八烈士”。</p>
-<p>网传内容：</p>
-<p>@beidaijin：#禁令 《中共七大:共产党杀自己同志比国民党杀的还多》一文请全网删除 （一级）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%97%A7%E6%96%87%E3%80%91%E4%B8%AD%E5%85%B1%E4%B8%83%E5%A4%A7%EF%BC%9A%E5%85%B1%E4%BA%A7%E5%85%9A%E6%9D%80%E8%87%AA%E5%B7%B1%E5%90%8C%E5%BF%97%E6%AF%94%E5%9B%BD%E6%B0%91%E5%85%9A%E6%9D%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E5%A4%A7/?category=18271" rel="tag">七大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%83%E5%8F%8D/?category=18271" rel="tag">肃反</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%8F%91/?category=18271" rel="tag">邓发</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -696,7 +734,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E5%A4%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -706,5 +744,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E5%A4%A7
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%BB%8E%E5%AD%A6%E6%96%87%EF%BC%9A%E9%83%AD%E9%A3%9E%E9%9B%84%E7%9A%84%E4%BE%A0%E9%AA%A8%E6%9F%94%E5%BF%83/" target="cdt-mirror">黎学文：郭飞雄的侠骨柔心</a>
+</h2>
+<p><p>我第一次见到郭飞雄是2012年1月6日，那是他出狱后第一次来北京，我们凑巧同住在一个老师的家里，朝夕相处了一个多星期，我们几乎每夜畅谈，偶尔一起出去见朋友。我发现郭飞雄跟我在网络上了解的不太一样，我现在犹记得他当时的样子：戴着过时的厚眼镜，穿着厚重的棉衣，说话伴随着不停的咳嗽，偏矮的身材，不苟言笑，很像一位普通的乡村教师。他那时候很低调，圈内人基本不见，准备做点商业方面的事情，为在美国读书的孩子筹措一点学费。他走到哪里都背着自己的电脑和包，警惕性很高，几乎不愿意和陌生人说话。</p>
+<p>那时的他的身体很不好，五年的牢狱生活让一个曾经强壮的郭飞雄浑身内伤。他这次来京一方面是想在生存上有所发展，另一方面想见下老朋友们，当面向他们表达对他入狱声援的感谢。当时郭飞雄几次提出想见诗人芒克，要我帮忙联系。当时我不理解他何以那么想见芒克，在我看来，芒克是老一辈的诗人了，跟我们有很大的隔膜了。然而郭飞雄告诉我：芒克在他被抓后曾写文章声援过他，他早年做出版时也资助过一些诗歌活动，跟诗歌界交往颇深。他此次来京，就是要拜访、感恩那些为他坐牢说过话的人。他有诗歌情结，一直认为诗歌是开启人性自由的钥匙，人文主主义和自由主义密不可分。我这时发现郭飞雄有浓厚的人文主义的底色，并非外界所言的草莽英雄之类。</p>
+<p>为满足郭飞雄见芒克的愿望，我联系了一位朋友约到了芒克，在宋庄的一家咖啡馆见面，那天是我见到郭飞雄最开心最松弛的一次，我们一起喝酒吃面一起听芒克讲《今天》以及八九往事，当我向芒克介绍郭飞雄是维权界的领袖时，芒克很惊讶，他说想不到现在还有人在坚持做这些事情。尽管芒克已经不记得郭飞雄了，但郭飞雄毫不以为意，依然表示出对老前辈的深厚敬意。</p>
+<p>那段时间，我们多次深夜长谈，我对他的思想状况有了比较全面的了解。他对当时中国社会的发展很乐观，与我很多观点相反，我曾记得他说：「我很奇怪你怎么会对现在的民主前景如此悲观。现在比起五年前我坐牢的时候，公民社会的发展不知道要好多少。那时候我们搞维权，没有几个人，现在有了律师团，有了微博，有了很多觉醒的公民。」我说：「你不能光看到积极的一面，也要看到消极的一面。我承认现在比起五年前，公民社会发育了一些，但是中共依然非常强势，2011年对民间的全面打压比以前更加残酷，多人被重判，任何时候都不能低估它的残酷性。」他说：「我同意任何时候不能低估它的残酷性，但是对于体制内想变革的改良派，应该联合，某些阵营里的肮脏不比共产党更少，甚至有过之而无不及。我不排除跟体制内改良派联合的可能，只要是理念一致。这也是我出狱后提出大和解思想的基础，有许多人骂我妥协投降了，我不在乎，我愿意做永远的少数派，孤独的美」「我在牢里有次被暴打，是因为听到一个法轮功信仰者被虐待，每天惨叫，叫了一个月，我实在忍受不了良心的折磨，就向他们抗议，结果我被暴打。我曾经多次绝食，最长的一天是60多天，他们强制灌食——虽然我对某人去年被暴打表示同情，但我永远不会原谅他。」</p>
+<p>在谈到当年太石村维权事件时，他说：「我就是那次被农民激发了，有太多太多的农民让人感动，你想像不到那些农村妇女躺倒在推土机里维权时的勇敢和悲壮，那些农民感动我了，使我不怕坐牢。只有你被激发后，你才有不怕死的勇气。如果你被激发了，被感动了，你会觉得死不算什么。」郭飞雄说这些的时候，厚厚的眼镜后面闪烁着纯洁、动人的光芒，让你根本不会感觉到他是一个曾受酷刑、咳嗽不停、出狱不久的人。</p>
+<p>后来我在参加了几次现场公民围观活动后，终于理解了郭飞雄所说的「激发」的含义，在我看来，那是指肉身在场的抗争，和同道并肩时强烈的融入现场的豪迈和祛除恐惧的激情。这真是迟到的理解，等我真正理解这个老乡前辈的时候，他已经再度入狱，再次成为良心犯。</p>
+<p>思想与行动的完美结合，郭飞雄堪称典范。虽然他的很多想法现在已经看来是过于乐观，甚至天真了，如「中国政府内部一些改革家正逐波产生良心起义、信念皈依和机会投资新概念」、「可以明确断言，同任何时代都会出现内部分化一样，体制内必有相当数量皈依宪政民主理念的实干家，他们不会永远沉默和沦丧，必定乘时而起，有所冲击，甚至希望把握变革主动权，迎接历史的挑战和机遇。」与此同时，郭飞雄其实对体制有极其清醒的认识，有极强的现实感和在场感。他曾说：「改良改革革命之争是康有为孙中山年代和1920年代旧话题，置诸今日属低学术性质。辛亥革命已充分证明三者在根本道义和操作实践中的高度协同。对当今而言，只用一反证法便足以说明此义：自98以来，中国政治几乎极少改良，更多后退，因为极权主义明白：真诚的政治改良几乎无法遏制地通向根本变革。」</p>
+<p>郭飞雄更是一个行动者，当他认为有空间就会去做自己理念认同的事情，这在逻辑上而言没有问题，他不是投机派，他是知行合一的人。郭飞雄此次的辩护律师张雪忠曾讲：「在会见过程中，他说了一句让我印象深刻的话：『无论有多艰难，我都要努力做一个言行一致的人』」在当下的中国，「做一个言行一致的人」是一件极其艰难的事，有太多的人，言论高调而行为苟且，有太多的人，高屋建瓴宏言满天飞而嘴脸模糊行状鸡贼。郭飞雄显然不是这样的人，他践行的知行合一的精神在中国一直是最稀缺的，这种精神绵延了古代士大夫传统中最闪光的品质，也接续了近代以来由谭嗣同、林觉民等人彰显的大义风骨。</p>
+<p>在民间维权界和异议圈，尽管很多朋友和我一样，至今对郭飞雄的一些判断和观点不太认同，但几乎没有人对其人格有微词，大家对他铮铮铁骨的认同和尊重几乎高度统一，这在一直为各种人物和事件争论不已的民间极为罕见。由此可见，人格力量对于一个政治活动家是多么重要，这种人格力量的塑造不是朝夕之间可以建立的，而是长时间的牺牲、痛苦和付出换来的，是长期在残酷环境中知行合一的结果，如同美玉出于粗石，大浪淘沙方见本色。当很多人在感叹中国没有曼德拉、甘地的时候，他们总是容易将内心的关怀移情于外域，而忽视了本土真实的闪光人格存在，平心而论，高智晟郭飞雄这些当今志士所承受的苦难并不比曼德拉和甘地少，甚至我们面对的极权敌人比英国殖民者更邪恶，更没有底线。我认为中国已经拥有自己的曼德拉和甘地了，郭飞雄就是最有希望成为其一的人。</p>
+<p>有一件少有人知道的事不得不说，2012年郭飞雄曾经帮助过广东一个普通的打工女孩，这个叫小梅的女孩身患淋巴癌，家境贫寒，无钱医治，在微博上求助了两个月鲜有人关注，郭飞雄偶然看到，第二天就去医院看望她，然后决定出手相助这个素不相识的可怜女子，我曾收到他要求我帮忙转发微博的私信，因为有太多这样的事情发生，我只是转发后就没有更多关注，后来，我和郭飞雄共同的朋友卯丁响应郭飞雄的呼吁，捐出了十万元钱，加上其他朋友的善款共二十万元，帮助这个女孩做成了手术，卯丁也是因为感佩郭飞雄的人格才出手相助。这个叫小梅的女孩在得知郭飞雄入狱后，泣不成声，她不明白这样一位大善人怎么会遭遇如此迫害。</p>
+<p>当晓梅在做化疗时，，维稳部门的人到医院去找到晓梅，说飞雄是个坏人别上当。晓梅说：我身患绝症家贫如洗，四处求助红会及民政部门，而他们互相踢皮球，户籍地推务工所在地，广州推贵州的。最后是飞雄发起的网络捐款才做了干细胞移植手术，拣回了一条命。她说她的命是郭飞雄给的，飞雄是她的救命恩人。她一定要等飞雄出狱时亲自去迎接这位大恩人。</p>
+<p>这个女孩只是一个普通的打工妹，然而在善良的郭飞雄眼里，每一个人都是平等的，遇到灾难都需要进行人道救助，能帮一个就是一个。郭飞雄是真正胸有大爱的人，和那些眼里只有精英的伪精英们截然不同。</p>
+<p>这就是我认识的郭飞雄，侠骨柔心的郭飞雄。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%BB%8E%E5%AD%A6%E6%96%87%EF%BC%9A%E9%83%AD%E9%A3%9E%E9%9B%84%E7%9A%84%E4%BE%A0%E9%AA%A8%E6%9F%94%E5%BF%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">公民行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%A7%81%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异见人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E8%89%AF/?category=18271" rel="tag">改良</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">自由主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%AB%A0%E5%AE%B6%E6%95%A6%EF%BC%9A%E4%B9%A0%E6%9D%8E%E5%88%86%E6%AD%A7%E5%85%AC%E5%BC%80%E5%8C%96/" target="cdt-mirror">美国之音 | 章家敦：习李分歧公开化</a>
 </h2>
 <p><p>华盛顿—美国的中国问题学者说，中国国家主席习近平和总理李克强间的政治分歧日渐明显，顶层政治斗争渐趋公开化。不过，也有美国学者认为，习近平可能会在决策上做出重大让步，中国当局似乎能够控制局面。</p>
@@ -701,35 +724,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%88%B0%E4%B8%80%E5%B9%B4426%E7%A4%BE%E8%AE%BA%E6%97%A5/" target="cdt-mirror">【网络民议】又到一年“426社论日”</a>
-</h2>
-<p><p>历史上的今天：《必须旗帜鲜明地反对动乱》（又称“四·二六社论”）是中国共产党机关报《人民日报》于1989年4月26日在头版头条刊发的社论，内容是将之前全国各地因悼念前中共中央总书记胡耀邦而发展出来一系列学生运动定性为动乱。（维基百科）</p>
-<p>新华网报道<a href="http://news3.xinhuanet.com/ziliao/2005-02/23/content_2609426.htm" target="_blank">页面</a></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dongluan.jpg?resize=500%2C602" alt="dongluan" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dongluan.jpg?resize=249%2C300 249w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/dongluan.jpg?w=746 746w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
-<p>@catzoo Paul：永远都不敢忘记</p>
-<p>@pangjiaoming：在強權壓制下，新聞輿論終究是很不正常的，這兩天看到內地不少媒體在反思前蘇聯切爾諾貝利核電站的悲劇。其實，反觀中國，文革對中國之災難，八九對當下的恐懼餘毒等等，比核洩漏更嚴重，但是，媒體以種種藉口迴避，哭錯了靈堂。#讀報</p>
-<p>@mozhixu：426社论发表27年，你国墙内关注切尔诺贝利，这就是你国魔幻：此地的真实极权地狱，不得提及，充斥着的所谓反思，小心翼翼地指向其他地方，只为维持一种此地仍是正常人间的幻觉。</p>
-<p>@OldLi1：1989年4月26日，日人民報發表曾建徽起草的社論《必須旗幟鮮明地反對動亂》將學運定性為“動亂”。這就是四二六社論的出籠。四二六社论殺氣騰騰，發出了血腥鎮壓的信號。</p>
-<p>@eemtfree：在管束和疯狂掠夺的社会，总是这样一管就死，一放就乱。邓小平就做了杀二十万保二十年。以恐惧和收买让社会畸形扭曲。文革和邓的恐惧高压下的那一代渐渐退出主流人群，新一代没有被恐惧下破胆的成长起来。社会管控者向管控方向走去，如果举起屠刀，那么再寄希望与二十/三十年后。#当今中国</p>
-<p>@Zodiac4698：“一管就死”这个大家都看到了，“一放就乱”这个未必，89年，放了，没乱。什么时候乱的呢？426社论以后，绝望的散去，另一部分绝食。香港也是一样，雨伞运动乱了吗？没乱，直到普选被拒，书商被抓，小贩被打，才……一切所谓“乱”都是逼出来的</p>
-<p>@周青崖：明天426，想起一个著名的社论，二十七年了。</p>
-<p>@yisu_02 ：旗帜鲜明把学运定性为动乱的那个鬼社论</p>
-<p>@沉吟-鹿鸣：百姓对这个普遍不满，现在领导层也认识到这成了一个政治包袱，只是谁都没勇气和能力去卸下他。</p>
-<p>@wuyuanwugu：“必须旗帜鲜明”日。</p>
-<p>@dingtianran：必须旗帜鲜明地动乱。</p>
-<p>@青离麻：历史资料，以后可能会和炮打司令部其名。</p>
-<p><strong>相关阅读：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/2012/07/%E5%9B%9E%E9%A1%BE-%E5%85%AD-%E5%9B%9B-%E7%B3%BB%E5%88%9718%EF%BC%9A%E5%90%84%E7%95%8C%E4%BA%BA%E5%A3%AB%E5%AF%B9%E5%9B%9B%C2%B7%E4%BA%8C%E5%85%AD%E7%A4%BE%E8%AE%BA%E7%9A%84%E5%8F%8D/" target="_blank">回顾六四 系列18：各界人士对”四·二六社论”的反应</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/2014/10/%E5%B7%B4%E4%B8%A2%E8%8D%89-%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E5%8F%8D%E5%AF%B9%E9%A6%99%E6%B8%AF%E5%8A%A8%E4%B9%B1/" target="_blank">【麻辣总局】巴丢草：旗帜鲜明反对香港动乱</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%88%B0%E4%B8%80%E5%B9%B4426%E7%A4%BE%E8%AE%BA%E6%97%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%85%E9%A1%BB%E6%97%97%E5%B8%9C%E9%B2%9C%E6%98%8E%E5%9C%B0%E5%8F%8D%E5%AF%B9%E5%8A%A8%E4%B9%B1/?category=18271" rel="tag">"必须旗帜鲜明地反对动乱"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/426%E7%A4%BE%E8%AE%BA/?category=18271" rel="tag">426社论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E5%A4%A9%E5%AE%89%E9%97%A8%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">六四天安门事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -741,7 +735,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%85%E9%A1%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -751,5 +745,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%85%E9%A1%BB
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

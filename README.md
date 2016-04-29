@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E6%80%BB%E7%90%86%E5%95%8A%EF%BC%8C%E4%BD%A0%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E6%81%A9%E4%BA%BA%EF%BC%8C%E5%97%A8%E5%97%A8%E5%97%A8%EF%BC%81/" target="cdt-mirror">【CDTV】总理啊 你就是我们的大恩人 嗨嗨嗨！</a>
+</h2>
+<p><p>2016年4月24日，四川成都龙门古镇“新龙门客栈”前，以一对中年男女为首的大量“当地群众”围着李克强边拍边唱，煞是热闹。</p>
+<p>由于表演者使用了四川方言，数字时代编辑只听清了这几句：<strong>“总理啊…你就是我们的大恩人，嗨嗨嗨！”“龙门城建不服输，我们不靠不抱怨，自己的事情拼命干。”“我们新修了大房子，我们过上了好日子。”“新村新貌新风气，三年重建一瞬新…..超越震前五十年，中国梦啊一定会实现，幸福不忘共产党….听党话跟党走…..到永远”</strong></p>
+<p><em>视频来源：新浪微博@胖虎鲸</em></p>
+<blockquote><p><a href="http://weibo.com/1913094142/DsXM57YLK" target="_blank">@胖虎鲸</a>：太尴尬了。 <a title="秒拍视频" href="http://t.cn/Rqlb2T0" target="_blank">秒拍视频</a></p></blockquote>
+<p><br>
+（新浪秒拍<a href="http://weibo.com/p/230444a2906e85bfa28d4c7adce9d1d57ce8d6" target="_blank">视频地址</a>）</p>
+<p><strong>附：YouTube备份版<a href="https://youtu.be/ooNGQuSMfaE" target="_blank">地址</a></strong></p>
+<p>背景新闻：<a href="http://www.hn.chinanews.com/news/0425/gnxw/2016/265678.html" target="_blank">中新社｜李克强三年后再访芦山震区 昔日废墟焕新颜</a></p>
+<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/U19P9T1D265678F6DT20160425164413.jpg" rel="attachment wp-att-436293"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/U19P9T1D265678F6DT20160425164413.jpg?resize=450%2C302" alt="U19P9T1D265678F6DT20160425164413" data-recalc-dims="1"></a><br>
+4月24日，中国国务院总理李克强前往四川省雅安市芦山县，考察地震灾区重建成果。</p>
+<p>[…]数公里外，昔日震中龙门乡已“涅槃重生”，以便捷的交通、完善的基础设施、秀丽的风景迎接八方来客。</p>
+<p>龙门古镇“新龙门客栈”负责人邹烨告诉记者，交谈中，总理非常关心“乡村旅游互联网＋”以及“如何带动周边民众致富增收”。邹烨说，尽管“新龙门客栈”才开业不久，但已吸引了20多位本地村民就业。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@胖虎莉莉:“是男人就坚持一分钟”</p>
+<p>@去槑去槑：挺了三十秒，受不了，脸都要僵掉了。</p>
+<p>@俊河是深井冰：OMG一瞬间我还以为会到了文革</p>
+<p>@o_fire：没听清楚唱啥，但只听到12秒你是我们的大恩人，就没法看了，真难为总理要听完啊</p>
+<p><a href="http://weibo.com/n/%E6%B5%81%E6%B2%99%E6%9C%89%E9%87%917?from=feed&loc=at" target="_blank">@流沙有金7</a>: <img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">脑残的导演费了不少心思，演出的效果竟然像耍猴的。</p>
+<p><a href="http://weibo.com/n/%E6%9F%B3%E4%B8%8B%E5%86%B0%E5%BF%83?from=feed&loc=at" target="_blank">@柳下冰心</a>: 新龙门客栈门前耍猴的！<img title="[哆啦A梦微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/jqmweixiao_org.gif" alt="[哆啦A梦微笑]" data-recalc-dims="1"><img title="[哆啦A梦微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/jqmweixiao_org.gif" alt="[哆啦A梦微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/guokainan" target="_blank">@Kellen_Kwok</a><i title="微博达人"></i><i></i>：这是不是就叫”群嘲”<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p>@周家二狗子：这样的欢迎方式和歌唱内容有陷阱意图</p>
+<p>@南充耗子哥:建议这个节目上春晚！</p>
+<p>@胡三多：这大概算是“彩衣娱亲”？</p>
+<p><a href="http://weibo.com/5055860535" target="_blank">@66曾经的刻骨铭心</a><i></i>：尴尬症又犯了<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p>@爱吃土豆的花枝丸喜欢寿司卷：哈哈哈哈哈哈大写的尴尬，这唱的啥，宝宝蒙了</p>
+<p>@馗马2014：红着脸看完的。接受吹捧如同接受下跪一样。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E6%80%BB%E7%90%86%E5%95%8A%EF%BC%8C%E4%BD%A0%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E6%81%A9%E4%BA%BA%EF%BC%8C%E5%97%A8%E5%97%A8%E5%97%A8%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D/?category=18271" rel="tag">影帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">政治作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E6%80%BB%E7%90%86%E5%95%8A%EF%BC%8C%E4%BD%A0%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E6%81%A9%E4%BA%BA%EF%BC%8C%E5%97%A8%E5%97%A8%E5%97%A8%EF%BC%81/" target="cdt-mirror">【CDTV】总理啊，你就是我们的大恩人，嗨嗨嗨！</a>
 </h2>
 <p><p>2016年4月24日，四川成都龙门古镇“新龙门客栈”前，以一对中年男女为首的大量“当地群众”围着李克强边拍边唱，煞是热闹。</p>
@@ -326,6 +362,26 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 <p>
 	<small> ============== 7小时前</small>
 </p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E8%B8%8F%E9%9B%AA%E5%AF%BB%E6%A2%85/" target="cdt-mirror">【CDTV】改编自王嘉梅命案电影 – 踏雪寻梅</a>
+</h2>
+<p><p>《踏血寻梅》（英语： Port of Call ），是一部2015年上映的香港犯罪悬疑片，根据2008年香港轰动一时的王嘉梅命案作蓝本改编而成，翁子光执导，由郭富城领衔主演，春夏、白只、谭耀文、金燕玲主演。在第35届香港电影金像奖中本片夺下最佳编剧、最佳男主角、最佳女主角、最佳男配角、最佳女配角、最佳新演员和最佳摄影共7项奖，为首部于金像奖获得五项演技奖大满贯的影片。</p>
+<blockquote><p>王嘉梅命案，发生于2008年4月27日的香港，17岁女死者王嘉梅被杀害后遭残忍肢解，并且部分人骨被混入街市的肉档出售，事件在香港社会引起了极大轰动。</p></blockquote>
+<p> </p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/p2283225569.jpg?resize=426%2C600" alt="p2283225569" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/p2283225569.jpg?resize=213%2C300 213w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/p2283225569.jpg?w=426 426w" sizes="(max-width: 426px) 100vw, 426px" data-recalc-dims="1"></p>
+<p>踏血寻梅的剧情简介：</p>
+<p>2009年，十六岁的湖南女孩女孩王佳梅（春夏 饰）追随改嫁的妈妈和姐姐的脚步来到了香港，全新而陌生的环境，她感觉到格格不入，与家人的关系也逐渐紧张起来。志愿成为模特的佳梅以助理身份入行，尝尽了圈内的苦辣酸甜，最终为了赚更多的钱而出卖肉体。直到某天，她认识了拥有悲惨童年经历的肥仔林子聪（白只 饰），两人的命运同时朝着悲剧的方向转变。繁忙的警署内，肥仔前来自首，负责此案的臧SIR（郭富城 饰）针对相关人士展开调查，在此过程中，佳梅和丁子聪个人的故事交替展开。有如两条悲伤的河流，最终汇成混杂着血污与泪的黄泉之水……</p>
+<p>电影下载链接：</p>
+<p>magnet:?xt=urn:btih:8BF631020056A537D44A0C29AEAD845124D9C849&dn=Port.of.Call.2015.720p.BluRay.x264-WiKi%5BVR-56%5D</p>
+<p>相关阅读：<a title="永久性链接到【CDTV】香港金像奖最佳电影《十年》" href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E9%A6%99%E6%B8%AF%E9%87%91%E5%83%8F%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%81%E5%B9%B4%E3%80%8B/" rel="bookmark">【CDTV】香港金像奖最佳电影《十年》</a></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E8%B8%8F%E9%9B%AA%E5%AF%BB%E6%A2%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B8%8F%E9%9B%AA%E5%AF%BB%E6%A2%85/?category=18271" rel="tag">踏雪寻梅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">香港电影</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 10小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%AB%A0%E5%AE%B6%E6%95%A6%EF%BC%9A%E4%B9%A0%E6%9D%8E%E5%88%86%E6%AD%A7%E5%85%AC%E5%BC%80%E5%8C%96/" target="cdt-mirror">美国之音 | 章家敦：习李分歧公开化</a>
 </h2>
 <p><p>华盛顿—美国的中国问题学者说，中国国家主席习近平和总理李克强间的政治分歧日渐明显，顶层政治斗争渐趋公开化。不过，也有美国学者认为，习近平可能会在决策上做出重大让步，中国当局似乎能够控制局面。</p>
@@ -344,7 +400,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%A9%E6%BA%83%E8%AE%BA/?category=18271" rel="tag">中国崩溃论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%86%85%E6%96%97/?category=18271" rel="tag">习李内斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%88%86%E8%A3%82/?category=18271" rel="tag">习李分裂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E5%AE%B6%E6%95%A6/?category=18271" rel="tag">章家敦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%BE%B7%E8%8A%B3/?category=18271" rel="tag">金德芳</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%B2%EF%BC%8C%E6%82%A8%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E7%9A%84%E6%83%85%E5%86%B5%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B7%B2%E5%8F%8D/" target="cdt-mirror">【立此存照】亲，您患癌去世的情况百度推广已反馈核实</a>
 </h2>
@@ -726,74 +782,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%86%9C%E6%9D%91%E5%84%BF%E7%AB%A5%E7%9A%84%E8%90%A5%E5%85%BB%E4%B8%8D%E8%89%AF%EF%BC%8C%E8%B4%AB%E8%A1%80%E4%BB%A5%E5%8F%8A%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93/" target="cdt-mirror">神乐坂卢纳 ｜被遗忘的农村儿童的营养不良，贫血及发育迟缓</a>
-</h2>
-<p><blockquote><p>本文所引用的论文皆来自斯坦福大学和国内机构合作的农村教育行动计划</p></blockquote>
-<p>尽管网上盛是流行对台湾关于中国人吃不起肉和茶叶蛋的”偏见”的反击（嘲讽），但是实际上营养不良依然在农村地区非常普遍，而农村儿童则占现儿童总数的近三分之二。对于一个典型的农村儿童，他的每日饮食中，淀粉占有极大比例，肉类则非常少。</p>
-<p><b>中国农村儿童的营养不良和贫血</b></p>
-<p>根据过往的研究，<b>缺铁</b>往往是发展中国家最为普遍的一种营养缺失，这自然也包括了中国在内。(Hipgrave et al., 2014, p.916) 实际上，农村地区普遍的贫血也往往属于缺铁性贫血。就Hipgrave为首的研究团队对总计上千名六个月到二十三个月大的婴儿的调查，仅有<b>不到一半</b>的受调查儿童摄取<b>最低</b>可接受的规定营养。(Hipgrave et al., 2014, p. 918)同时，研究也发现其结果和性别男，极度贫穷，低饮食频率，少数民族，母乳喂养以及高海拔有着极大的相关性。</p>
-<p>好在，贫血在儿童中的百分比随着年龄的增长而下降。(Hipgrave et al., 2014, p. 920) 然而就Luo为首的团队就四千名四五年级的农村学生进行调查的结果而言，依然存在近<b>四分之一</b>的 儿童患有贫血症。(Luo et al., 2011, p.471) 当然，贫血的比例也随着所调查的省份的不同而有变化，如2008年在山西调查的结果表明，接近38%的学龄儿童患有贫血，而在2009年的宁夏则只有 16%。不管怎么说，研究也表明，随着中国经济的发展，贫血率也在逐渐下降，如2010年在宁夏的调查表明，贫血率下降到了14%。</p>
-<p>因为研究团队在2008到2010之间在山西，宁夏，青海以及甘肃等农村地区调查了接近14000所学校，毫无疑问，巨大的贫血率并不只是单独地区的问题。</p>
-<p><b>如何解决普遍的贫血问题呢？</b></p>
-<p>很遗憾，虽然网民们对于“吃不起肉”这个偏见不屑一顾，但是近<b>两千万</b>的贫血儿童依然在忍受着贫血带来的严重且不可逆的后果以及逐渐落后于同龄城市儿童。</p>
-<p>为了应对这个问题，找出对应且合适的解决方案。研究团队在山西设计了对儿童父母的相关健康知识教育项目。在研究中，研究成员先是让学龄儿童将讲解关于贫血的原因，影响，以及解决方案的信件带给其父母，然就结果而言，贫血并没有任何的改善。后来，研究团队又给学生们的父母提供了面对面的关于贫血方面的健康知识教导，这方面的努力依然没有多少改善贫血的问题。(Luo et al., 2012, p.396)</p>
-<p>同时，在2009年到2010年之间的研究中，研究团队又给学校的领导，老师，以及厨师提供了关于贫血方面的教导。就结果表明，这种方式依然无法改善学龄孩子的贫血症。研究团队考虑相当多的原因，例如缺乏足够的金钱补助，孩子们至少每日要进食大概<b>半磅</b>的瘦肉才能预防贫血，遗憾的是学校以及部分贫困家庭<b>无法</b>承受这份花费，又例如家庭和学校<b>缺少</b>足够的保存手段（冰箱）来保存肉类。</p>
-<p>当然，还有最国情的原因，研究团队不知道学校的食物津贴是否真的都用在这方面上了。</p>
-<p>在另一方面，以Kleiman-weiner为首的研究团队也调查了每日一颗蛋（或一杯奶）的食物补贴计划的作用。研究团队在甘肃调查了接近千名学生，发现不论学术表现还是贫血，接受每日一颗鸡蛋的学生并没有比没有的学生来得要好。在2013年，研究团队在调查中对比了鸡蛋和维生素咀嚼片，他们发现每日服用含铁等营养成分维生素咀嚼片的学生比起仅仅每日食用一颗鸡蛋的学生，他们的血红蛋白明显提升，数学考试成绩也明显提升。(Kleiman-weiner et al., 2013, p.171-174)</p>
-<p>为什么呢?因为牛奶和鸡蛋几乎不含铁啊。</p>
-<p>张和他的团队也在2013年调查了符合微量营养素补充剂在贫血方面的作用，就结果而言，提供微量营养素补充剂可以显著地减少i学龄儿童的贫血率（7%）以及改善了他们的心理健康（如焦虑）。(Zhang et al., 2013, p.642)</p>
-<p><b>为什么做这些研究呢？</b></p>
-<p>因为营养不良会导致认知能力以及精神运动的<b>发育迟缓</b>。(Luo et al., 2015, p.1)</p>
-<p>Luo和他的团队的在山西贫困农村地区，测量了婴儿的心智发育以及精神运动发育指数，发现近<b>百分之二十</b>的受调查婴儿受到了认知能力方面的严重损害(发育迟缓)，近<b>百分之三十二</b>的婴儿受到了精神运动方面的严重损害。也就是说这些婴儿们在智力发育方面相对迟缓。同时就结果表明，低血红蛋白（贫血）的婴儿更容易在认知能力以及精神运动方面上发育迟缓。(Luo et al., 2015, p.3-4)</p>
-<p><b>这些孩子的父母，是这个国家经济快速增长的动力来源；这些孩子也会是这个国家的未来。然而在占近半总人口的网民或调侃，或嘲讽，来自其他国家的“偏见”的时候，无法上网的这些孩子的遭遇是那么无人问津。</b></p>
-<p><b>解决这些孩子的贫血问题，至少显著减少贫血率这件事情有多难呢？又有多昂贵呢？仅要每日四美分而已。每日价值四美分的维生素补充剂就能显著改善这些孩子的困境。</b></p>
-<p><b>不过，不会有多少人问津这种事情，不是吗？</b></p>
-<p><b>在这个国家，“每个人都有肉吃”这件事情，是“真实存在”的。就像贫富差距，数字鸿沟，都是真实存在的。就让拥有超过百分之七十的在家上网率的城市人口代表那不足百分之十上网率的农村人口，说出那“真实存在”的事情吧。</b></p>
-<p><strong>————————-<br>
-References</strong></p>
-<p>Hipgrave, D. B., Fu, X., Zhou, H., Jin, Y., Wang, X., Chang, S., & … Guo, S. (2014). Poor complementary feeding practices and high anemia prevalence among infants and young children in rural central and western China. European Journal of Clinical Nutrition, 68(8), 916-924. doi:10.1038/ejcn.2014.98</p>
-<p>Kleiman-Weiner, M., Luo, R., Zhang, L., Shi, Y., Medina, A., & Rozelle, S. (2013). Eggs versus chewable vitamins: Which intervention can increase nutrition and test scores in rural China?. China Economic Review, 24165-176. doi:10.1016/j.chieco.2012.12.005</p>
-<p>Luo, R., Shi, Y., Zhou, H., Yue, A., Zhang, L., Sylvia, S., & … Rozelle, S. (2015). Micronutrient deficiencies and developmental delays among infants: evidence from a cross-sectional survey in rural China. BMJ Open, 5(10), e008400. doi:10.1136/bmjopen-2015-008400</p>
-<p>Luo, R., Shi, Y., Zhang, L., Zhang, H., Miller, G., Medina, A., & Rozelle, S. (2012). The Limits of Health and Nutrition Education: Evidence from Three Randomized-Controlled Trials in Rural China. Cesifo Economic Studies, 58(2), 385-404.</p>
-<p>Luo, R., Zhang, L., Liu, C., Zhao, Q., Shi, Y., Miller, G., & … Martorell, R. (2011). Anaemia among students of rural China’s elementary schools: prevalence and correlates in Ningxia and Qinghai’s poor counties. Journal of Health, Population & Nutrition, 29(5), 471-485 15p.</p>
-<p>Zhang, L., Kleiman-Weiner, M., Luo, R., Shi, Y., Martorell, R., Medina, A., & Rozelle, S. (2013). Multiple Micronutrient Supplementation Reduces Anemia and Anxiety in Rural China’s Elementary School Children. Journal of Nutrition, 143(5), 640-647 8p. doi:10.3945/jn.112.171959</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%86%9C%E6%9D%91%E5%84%BF%E7%AB%A5%E7%9A%84%E8%90%A5%E5%85%BB%E4%B8%8D%E8%89%AF%EF%BC%8C%E8%B4%AB%E8%A1%80%E4%BB%A5%E5%8F%8A%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E5%81%A5%E5%BA%B7/?category=18271" rel="tag">儿童健康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">儿童权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93/?category=18271" rel="tag">弱势群体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%9B%B0%E4%BA%BA%E5%8F%A3/?category=18271" rel="tag">贫困人口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%A6%99%E6%B8%AF%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%9B%9B%E5%A4%A9%E6%9C%89%E4%B8%93%E6%A0%8F%E5%BC%80%E5%A4%A9%E7%AA%97%E6%8A%97%E8%AE%AE/" target="cdt-mirror">BBC｜香港《明报》连续第四天有专栏“开天窗”抗议</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg" rel="attachment wp-att-435983"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg?resize=550%2C309" alt="160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/160427020837_cn_ming_pao_hongkong_blank_976x549_bbcchinese_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>香港《明报》前执行总编辑姜国元（笔名安裕）上周三（４月20日）<a href="http://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E6%89%A7%E8%A1%8C%E6%80%BB%E7%BC%96%E8%BE%91%E9%81%AD%E8%A7%A3%E9%9B%87-%E7%96%91%E6%B6%89%E6%8A%A5%E9%81%93%E5%B7%B4/" target="_blank">被辞退</a>，连续第四天有专栏作者“开天窗”抗议《明报》管理层决定。中国官媒《环球时报》发表社评，称该报连续有专栏“开天窗”一事为“政治天窗”。</p>
-<p>香港教育学院亚洲及政策研究学系助理教授方志恒周三（4月27日）“开天窗”。不过，与之前三天不同的是，方志恒的专栏是刊登在A叠观点版，并不是在D叠副刊时代版。</p>
-<p>方志恒的专栏题目是“撑安裕”，内容留白，同样加上备注。</p>
-<p>根据编者按，明报需积极采取节流紧缩政策，裁减人手实非得已，是次裁减涉及业务和编采部门人员，当中包括高层人员；公司希望尽快渡过此困难时刻；明报编采方针保持不变。</p>
-<p>《明报》D叠副刊中，仍有专栏作者继续撰文谈论安裕被辞退一事，包括吴志森、陈惜姿、黎佩芬等。</p>
-<p>明报职工协会要求周三与世华集团执行主席特别助理翁昌文、明报集团执行董事兼行政总裁张裘昌及总编辑钟天祥会面。假如员工诉求未能获得回应，不排除行动升级。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/13076919_10154998294259848_615928426751572228_n_bIK8l_1200x0.jpg" rel="attachment wp-att-435984"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/13076919_10154998294259848_615928426751572228_n_bIK8l_1200x0.jpg?resize=550%2C309" alt="明报开天窗" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/13076919_10154998294259848_615928426751572228_n_bIK8l_1200x0.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/13076919_10154998294259848_615928426751572228_n_bIK8l_1200x0.jpg?resize=768%2C431 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/13076919_10154998294259848_615928426751572228_n_bIK8l_1200x0.jpg?w=960 960w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>网络图片</span></p></div>
-<p><strong> 甚麼是“开天窗”？</strong></p>
-<p>“开天窗”──即把内容留白或省略正文──是传媒工作者对事情表达不满的做法，不过，香港过去“开天窗”并不常见。</p>
-<p>2014年，《明報》突然撤換總編輯劉進圖，亦有專欄作者“开天窗”表達不滿。</p>
-<p>最有名的一次是《文汇报》在1989年5月21日中央政府宣布戒严后，社评只刊登“痛心疾首”四只字，表示对北京处理手法的不满。</p>
-<p>除了香港传媒工作者外，近年匈牙利、埃及、土耳其、厄瓜多尔、等地的报章亦曾“开天窗”，表达不满，例如抗议打击新闻自由的法案等等。</p>
-<p><strong>《环球时报》社评：报纸“政治天窗”</strong></p>
-<p>中国官媒《人民日报》社旗下小报《环球时报》周三发表社论，将《明报》连续有专栏“开天窗”一事形容为“政治天窗”。</p>
-<p>该社评除了提到姜国元被裁一事外，亦有提及欧盟最新的香港状况年度报告、在台湾新注册的铜锣湾书店及“港独”。</p>
-<p>社论指，铜锣湾书店、报纸的“政治天窗”及“港独”在塑造香港的形象，而香港民众不会希望香港“全是政治，而且充满对抗”。</p>
-<p>《环球时报》指，激进反对派以为西方是“最亲的朋友”，但西方力量是希望把香港当成“牵制中国甚至对华做斗争可资利用的棋子”。</p>
-<p>社论形容“一国两制”是“长期磨合过程”，而香港出现反中央的力量是“完全非理性”。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E9%A6%99%E6%B8%AF%E3%80%8A%E6%98%8E%E6%8A%A5%E3%80%8B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%9B%9B%E5%A4%A9%E6%9C%89%E4%B8%93%E6%A0%8F%E5%BC%80%E5%A4%A9%E7%AA%97%E6%8A%97%E8%AE%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E8%A3%95/?category=18271" rel="tag">安裕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8E%E6%8A%A5/?category=18271" rel="tag">明报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -805,7 +793,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E8%A3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -815,5 +803,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E8%A3%95
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

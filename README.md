@@ -21,9 +21,183 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E6%80%BB%E7%90%86%E5%95%8A%EF%BC%8C%E4%BD%A0%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E6%81%A9%E4%BA%BA%EF%BC%8C%E5%97%A8%E5%97%A8%E5%97%A8%EF%BC%81/" target="cdt-mirror">【CDTV】总理啊，你就是我们的大恩人，嗨嗨嗨！</a>
+</h2>
+<p><p>2016年4月24日，四川成都龙门古镇“新龙门客栈”前，以一对中年男女为首的大量“当地群众”围着李克强边拍边唱，煞是热闹。</p>
+<p>由于表演者使用了四川方言，数字时代编辑只听清了这句：<strong>“总理啊…你就是我们的大恩人，嗨嗨嗨！”</strong></p>
+<p><em>视频来源：新浪微博@胖虎鲸</em></p>
+<blockquote><p><a href="http://weibo.com/1913094142/DsXM57YLK" target="_blank">@胖虎鲸</a>：太尴尬了。 <a title="秒拍视频" href="http://t.cn/Rqlb2T0" target="_blank">秒拍视频</a></p></blockquote>
+<p><br>
+（新浪秒拍<a href="http://weibo.com/p/230444a2906e85bfa28d4c7adce9d1d57ce8d6" target="_blank">视频地址</a>）</p>
+<p><strong>附：YouTube备份版<a href="https://youtu.be/ooNGQuSMfaE" target="_blank">地址</a></strong></p>
+<p>背景新闻：<a href="http://www.hn.chinanews.com/news/0425/gnxw/2016/265678.html" target="_blank">中新社｜李克强三年后再访芦山震区 昔日废墟焕新颜</a></p>
+<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/U19P9T1D265678F6DT20160425164413.jpg" rel="attachment wp-att-436293"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/U19P9T1D265678F6DT20160425164413.jpg?resize=450%2C302" alt="U19P9T1D265678F6DT20160425164413" data-recalc-dims="1"></a><br>
+4月24日，中国国务院总理李克强前往四川省雅安市芦山县，考察地震灾区重建成果。</p>
+<p>[…]数公里外，昔日震中龙门乡已“涅槃重生”，以便捷的交通、完善的基础设施、秀丽的风景迎接八方来客。</p>
+<p>龙门古镇“新龙门客栈”负责人邹烨告诉记者，交谈中，总理非常关心“乡村旅游互联网＋”以及“如何带动周边民众致富增收”。邹烨说，尽管“新龙门客栈”才开业不久，但已吸引了20多位本地村民就业。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@胖虎莉莉:“是男人就坚持一分钟”</p>
+<p>@去槑去槑：挺了三十秒，受不了，脸都要僵掉了。</p>
+<p>@俊河是深井冰：OMG一瞬间我还以为会到了文革</p>
+<p>@o_fire：没听清楚唱啥，但只听到12秒你是我们的大恩人，就没法看了，真难为总理要听完啊</p>
+<p><a href="http://weibo.com/n/%E6%B5%81%E6%B2%99%E6%9C%89%E9%87%917?from=feed&loc=at" target="_blank">@流沙有金7</a>: <img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">脑残的导演费了不少心思，演出的效果竟然像耍猴的。</p>
+<p><a href="http://weibo.com/n/%E6%9F%B3%E4%B8%8B%E5%86%B0%E5%BF%83?from=feed&loc=at" target="_blank">@柳下冰心</a>: 新龙门客栈门前耍猴的！<img title="[哆啦A梦微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/jqmweixiao_org.gif" alt="[哆啦A梦微笑]" data-recalc-dims="1"><img title="[哆啦A梦微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/jqmweixiao_org.gif" alt="[哆啦A梦微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/guokainan" target="_blank">@Kellen_Kwok</a><i title="微博达人"></i><i></i>：这是不是就叫”群嘲”<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p>@周家二狗子：这样的欢迎方式和歌唱内容有陷阱意图</p>
+<p>@南充耗子哥:建议这个节目上春晚！</p>
+<p>@胡三多：这大概算是“彩衣娱亲”？</p>
+<p><a href="http://weibo.com/5055860535" target="_blank">@66曾经的刻骨铭心</a><i></i>：尴尬症又犯了<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p>@爱吃土豆的花枝丸喜欢寿司卷：哈哈哈哈哈哈大写的尴尬，这唱的啥，宝宝蒙了</p>
+<p>@馗马2014：红着脸看完的。接受吹捧如同接受下跪一样。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E6%80%BB%E7%90%86%E5%95%8A%EF%BC%8C%E4%BD%A0%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E6%81%A9%E4%BA%BA%EF%BC%8C%E5%97%A8%E5%97%A8%E5%97%A8%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D/?category=18271" rel="tag">影帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">政治作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/436282/" target="cdt-mirror">美国之音｜BBC中文部再遭削减 向环时求助惹争议</a>
+</h2>
+<p><p><span><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2013/01/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5.jpg" rel="attachment wp-att-273810"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2013/01/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5.jpg?resize=440%2C337" alt="环球屎报" data-recalc-dims="1"></a></span><br><span> “一人一口环球屎报” by 变态辣椒</span></p>
+<p>华盛顿—《环球时报》根据BBC中文部内部人员爆料，刊登了一条关于英国广播公司BBC决定中文部裁员并削减在伦敦总部运作规模的消息。</p>
+<p><strong>轩然大波</strong></p>
+<p>《环球时报》的报道称，这条消息是环时记者26日据BBC一名不愿意透露姓名的员工透露的。环时的报道说，BBC中文部裁员的消息在该台引发轩然大波，很多员工已经开始担忧自己的工作。环时还援引一位BBC员工的话，他们试图把BBC总部的这一决定，往种族歧视的角度上引，声称这是对海外华人的歧视。</p>
+<p>BBC的员工向“左”媒《环球时报》求助，《环球时报》为BBC员工打抱不平的新闻，引发一些网友的热议。</p>
+<p>自由港@iyouport 在中文推特上发文说：“BBC中文部员工向《环球时报》爆料：大家正被逼离职……求证，居然向环球时报爆料，若真如此，你们还是干脆进入中国吧！”</p>
+<p><strong>封锁</strong></p>
+<p>“进入中国”，这是海外中文媒体共同的心愿。特别是近年来，数字媒体技术有了突飞猛进的进步。BBC，美国之音，法国国际广播电台等都计划把新媒体放到战略发展的高度，试图运用新科技，突破中国政府对信息的封锁。</p>
+<p>然而，中国政府的网络长城，至今成功地封住了海外的中文网站对大陆的传播。BBC中文网2009年9月23日全新改版，网址也中文化，改版后的初期，BBC中文网站在中国大陆一度可以直接进入，但好花不常开，仅仅数日，BBC中文网即被封锁，至今没有解禁。</p>
+<p>据报道，BBC国际台中文制作团队一共26人，都是新闻采编人员。该台计划在伦敦撤销16个中文部职位，并将10个职位转到香港，且需要竞聘上岗。BBC国际台希望在今年10月底启动这项计划。</p>
+<p>《环球时报》报道称，这是BBC中文部近来遭受的第二起沉重打击。去年11月，英国政府宣布向BBC国际台每年追加投入8500万英镑，增加BBC国际台在东亚、东南亚地区的新闻覆盖，希望增强在这些地区的话语权。与之形成鲜明对比的是，过去10年，BBC中文部被大规模裁减7次。</p>
+<p><strong>信心丧失</strong></p>
+<p>BBC工会代表张皓宇先生 在参加美国之音VOA卫视节目连线的时候表示：“最大的忧虑其实这次并不是（职位问题），因为经过这么多次的精减之后，已经不再是大家有没有职位的问题了。因为有很多人，以前的同事，现在的同事都已经对于这个公司很多行政管理部门人员已经失去了信心，都已经做好了走的准备。只不过觉得英国建立起这么一个广播机构，而且是已经有75年历史，从日本发动太平洋战争开始就建立了这么历史悠久的一个国家的财富。那么你们不经过议会，不经过人民的代表，这么一个国家公有的东西，就因为一两个小小经理个人的所谓的决定，就把它等于基本上摧毁了。那么，这种决定，大家认为是对于国家，对于民众的权利是不加考虑的，而且对将来在香港部的员工的安全也等于是没有考量到。”</p>
+<p>《环球时报》援引BBC一位匿名员工的话说，“高层给出的解释是点击量不够，未能体现价值”。很多BBC员工认为这是“欲加之罪”，“BBC国际台一直希望向外界输出自己的价值观，我们在前方努力，却被告知即将裁员，有一种被抛弃的感觉”。</p>
+<p>英国《卫报》报道称，BBC的这一决定，有可能损害BBC的新闻自由。卫报报道说，BBC的员工担心该计划“有可能破坏英国的长期的国家利益”和英国的“软实力”，同时“严重低估了中国政府在香港对BBC员工的安全以及新闻自由威胁的程度”。</p>
+<p><strong>新媒体环境下国际广播受到挑战</strong></p>
+<p>近年来，BBC和法广等先后取消了对华的无线电短波广播，把重点放在互联网上。美国之音上级主管单位BBG曾计划在2013财年中止对中国大陆的传统短波广播和卫星广播，调整为只通过互联网传播。这一战略调整计划公布后，被《环球时报》等中国官媒广泛报道，并加以“70年历史的美国之音终于寿终正寝”等耸人听闻的标题，至今一些党媒发表的文章中仍然称美国之音对华广播已经被取消。事实真相是，在美国朝野讨论之后，最后达成决议：对华广播，传统媒体和新媒体不可偏废。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/436282/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96%87%E7%BD%91/?category=18271" rel="tag">BBC中文网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-135/" target="cdt-mirror">【河蟹档案】小数点的游戏：中堂来了是物价，往后摞是GDP</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%A8%98%E9%8C%B2%E8%80%85%E9%99%B3%E5%AF%B3%E6%88%90">記録者陳寳成</a>：来自那个著名的大个子律师。<em><em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E7%BB%B4%E6%9D%83%E4%BA%BA%E5%A3%AB%E6%B5%A6%E5%BF%97%E5%BC%BA%EF%BC%9A%E4%BB%8E%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E6%88%91%E4%B8%8D%E5%86%8D%E6%98%AF%E5%BE%8B%E5%B8%88/">BBC<em><em>｜</em></em> 维权人士浦志强：从今天开始我不再是律师</a>》；《<a href="http://www.dw.com/zh/%E6%B5%A6%E5%BF%97%E5%BC%BA%E5%BE%8B%E5%B8%88%E6%89%A7%E7%85%A7%E5%90%8A%E9%94%80-%E7%BE%8E%E5%86%8D%E6%89%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E7%8A%B6%E5%86%B5/a-19185997">德国之声<em><em>｜</em></em>浦志强律师执照吊销 美再批中国人权状况</a>》；《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/yf2-05192015103423.html">自由亚洲<em><em>｜</em></em>浦志强外甥女屈振红被取保 民众热议微博屏蔽</a>》</em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-6.jpg?resize=469%2C834" alt="111" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-6.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-6.jpg?w=720 720w" sizes="(max-width: 469px) 100vw, 469px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3969391005011880" target="/weibo/396">2016年04月29日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9F%B3%E5%A6%82%E8%80%81%E5%B7%A2009">柳如老巢009</a>：昨天总理考察成都菜市场，碰巧老婆一表姐正好在那个菜市买菜，正好遇见总理，发来的微信照片清清楚楚，除了招手微笑的总理，还有每斤3元的蒲江大樱桃车厘子，今天总理一走，立刻变成每斤30元，尼玛连总理也敢骗！<em><em>相关阅读｜《<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8F%9C%E5%B8%82%E6%A8%B1%E6%A1%83%E4%BB%B7%E6%A0%BC%E4%B9%8B%E8%B0%9C%EF%BC%9A%E6%9D%8E%E5%85%8B%E5%BC%BA%E7%9C%8B%E5%88%B0%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF3%E5%85%83%E8%BF%98%E6%98%AF30/">菜市樱桃价格之谜：李克强看到的到底是3元还是30元一斤？</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E7%9C%BC%E7%A5%9E%E5%84%BF%E4%B8%8D%E8%A1%8C-%E6%B0%B4%E6%9E%9C%E4%B9%9F%E5%B1%85%E5%BF%83%E5%8F%B5%E6%B5%8B/">【网络民议】这届人民眼神儿不行 水果也居心叵测</a>》</em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-4.jpg?resize=368%2C491" alt="111" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-4.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-4.jpg?w=460 460w" sizes="(max-width: 368px) 100vw, 368px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-5.jpg?resize=369%2C493" alt="111" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3968913559165232" target="/weibo/396">2016年04月27日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%B5%A2%E5%9C%A8%E4%B8%9C%E5%8D%97">赢在东南</a>：总理：“给我四斤” 老板：“卖不了，知道您要来，刀被没收了”[泪]<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-10.jpg?resize=484%2C321" alt="111" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-10.jpg?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-10.jpg?resize=768%2C510 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-10.jpg?w=800 800w" sizes="(max-width: 484px) 100vw, 484px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3968995448779527" target="/weibo/396">2016年04月27日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%A4%A7%E5%B0%B8%E5%87%B6%E7%9A%84%E6%BC%AB%E7%94%BB">大尸凶的漫画</a>：道理其实是一样的[挖鼻]<a href="https://freeweibo.com/weibo/%E5%A4%A7%E5%B0%B8%E5%87%B6%E7%9A%84%E6%BC%AB%E7%94%BB">#大尸凶的漫画#</a><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-8.jpg?resize=457%2C324" alt="111" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-8.jpg?resize=300%2C213 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-8.jpg?resize=768%2C545 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-8.jpg?w=800 800w" sizes="(max-width: 457px) 100vw, 457px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3969202425652403" target="/weibo/396">2016年04月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%8A%A5%E5%BD%A9%E8%99%B9">报彩虹</a>：分享图片//*<a href="https://freeweibo.com/weibo/%40-%E9%99%88%E5%B3%B0">-陈峰</a>：小数点的游戏：中堂来了，往前挪，它成了物价。中堂走了，往后挪，它就成了GDP<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-7.jpg?resize=494%2C329" alt="111" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-7.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-7.jpg?w=664 664w" sizes="(max-width: 494px) 100vw, 494px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3969343547350251" target="/weibo/396">2016年04月28日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%91%E7%BB%9C%E5%9C%A8%E7%8E%B099">网络在现99</a>：#即兴还是彩排过？# <a href="http://t.cn/RqWSrsr" target="_BLANK">http://t.cn/RqWSrsr</a><img src="https://i1.wp.com/freeweibo.com/img/extlink.png?ssl=1" alt="" data-recalc-dims="1"><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-135/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3968797386423171" target="/weibo/396">2016年04月27日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%8B%AC%E4%BF%8F%E9%80%8D%E9%81%A52016">独俏逍遥2016</a>：这这这？<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-9.jpg?resize=484%2C362" alt="111" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-9.jpg?resize=300%2C224 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-9.jpg?w=599 599w" sizes="(max-width: 484px) 100vw, 484px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3969239989869330" target="/weibo/396">2016年04月28日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-135/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E9%98%B3%E5%B9%BC%E5%84%BF%E5%9B%AD/?category=18271" rel="tag">华阳幼儿园</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%B0%B8%E5%87%B6%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">大尸凶漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E6%95%B0%E7%82%B9/?category=18271" rel="tag">小数点</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%88%E6%8C%AF%E7%BA%A2/?category=18271" rel="tag">屈振红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E6%89%A7%E7%85%A7/?category=18271" rel="tag">律师执照</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BD/?category=18271" rel="tag">成都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%98%E5%84%BF/?category=18271" rel="tag">托儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%B8%AD%E5%A0%82/?category=18271" rel="tag">李中堂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8F%9C%E4%BB%B7/?category=18271" rel="tag">菜价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E5%9B%B0%E9%9A%BE%E6%89%BE%E8%AD%A6%E5%AF%9F%EF%BC%8C%E4%B8%8D%E8%BF%9D%E6%B3%95%E4%BD%A0%E6%80%95%E5%95%A5%EF%BC%9F%E5%A2%83%E5%A4%96%E6%B3%95%E5%87%BA%E5%8F%B0%E8%AE%B0/" target="cdt-mirror">NGOCN｜“有困难找警察，不违法你怕啥？”境外法记者会问答</a>
+</h2>
+<p><p><strong>微信公号：GiveNGOA5（ID: ngocn05）</strong></p>
+<p>今天下午，十二届全国人大常委会第二十次会议举行了闭幕会，会议应到166人，出席149人，出席人数符合法定人数。<strong>会议以147票赞成、1票反对、1票弃权，表决通过了中华人民共和国境外非政府组织境内活动管理法。本法将于2017年1月1日实施。</strong></p>
+<p>记者会中，全国人大常委会法工委副主任张勇先生、法工委社会法室巡视员郭林茂先生、公安部境外非政府组织管理办公室负责人郝云宏先生，共同回答大家提出的与境外非政府组织境内活动管理法有关的问题。</p>
+<p><strong>记者会问答摘录要点</strong><br><strong>（全文见后）</strong><br>
+文末有“第六章法律责任”截图</p>
+<p>►大家不要对我们的公安机关像老虎那样担心，我说一句中国老百姓的土话，“有困难找警察，不违法你怕啥？”</p>
+<p>►你说的境外关于人权的非政府组织到中国来，可不可以，当然可以。</p>
+<p>►你所说的黑名单问题，我们还不知道。</p>
+<p>►法律条文从原来的九章67条修改成现在的七章54条，内容上也作了比较大的修改，包括很多重要的制度性修改。</p>
+<p>►我们的管理体制有中国的特点，也符合中国的国情。一是双重管理，二是公安机关是登记管理机关，三是公安机关负主要的责任，对境外非政府组织进行监督管理。</p>
+<p>►境外非政府组织到中国来是做有利于公益事业发展的事情来的，不是拉队伍的，没有必要在我们这里发展会员</p>
+<p>►以后我们的一些科学家、专家学者也好，加入境外机构成为会员，要经过国家的同意。<br>
+►境外非政府组织的代表机构不是法人，境外非政府组织来临时活动都是短期，因此不符合慈善法关于募捐的规定。你所以就不得进行募捐。</p>
+<p>►自从我们把登记管理机关作为公安机关以后，就引起了国内外的不同反响。我们制定这部法律，不是禁止和限制境外非政府组织在中国进行活动。我们最近看到，有一些境外媒体，说我们这部法律赋予了公安三个权力，即约谈、停止临时活动、宣布不受欢迎的名单，觉得好像我们限制了境外非政府组织在中国的活动……授予他们三个权力也是有前提的，就是只有发现涉嫌违法行为的时候，公安机关才能采取相关措施。</p>
+<p>►所有到中国境内来合法的开展宗教活动是允许的。当然，如果非法从事和资助宗教活动，不仅我们国家不同意，任何国家也不同意。</p>
+<p>►我们会及时的发布程序和办事指南，为他们提供指引和便利。第二，我们也会抓紧会同有关部门，根据法律的规定研究制定相关的业务领域项目目录和业务主管单位的名录，在研究以后会在适当的时机对外发布。</p>
+<p>►们加强了对境外非政府组织的资金管理，因为我们管国内的社会组织的经验也是加强资金的管理。</p>
+<p><strong>记者会问答全文</strong><br>
+（与境外法相关部分）</p>
+<p>▼</p>
+<p><strong>中国日报记者:</strong><br><strong>想问一下刚刚通过的境外非政府组织境内活动管理法，我们发现跟二审稿相比有很大的修改，为什么？另外修改的主要内容和重点是什么？谢谢。</strong></p>
+<p>张勇（全国人大常委会法工委副主任）:的确，刚刚通过的境外非政府组织境内活动管理法与此前公布的法律草案二审稿作了比较大的修改，我在这里想说，这些修改不仅仅是法律条款、条文的改动，其实更重要的是它体现了立法机关制定这部法律所遵循的立法原则和所要达到的立法目的。</p>
+<p>首先在立法的过程中，贯彻开门立法、民主立法，充分听取各界意见。大家都知道，法律草案二审稿是在2015年4月公布的，到今天通过这部法律用了整整一年的时间。在这个过程中，立法机关和有关部门深入调查研究，广泛听取公众和社会各界的意见，在全国各地举办了很多场座谈会，这其中也包括专门去听取了在华活动的很多境外的非政府组织的意见和建议。</p>
+<p>比如国际地质科学联合会秘书处、美国能源基金会北京办事处、英国国际救助儿童会北京代表处，还有德国工商大会、英国英中贸易协会等等。在我们听取意见的过程中，不少的境外非政府组织表示，希望中国能有一部法律明确他们在中国的法律地位，同时也希望通过这部法律给他们在招聘人员、税收优惠等方面给予便利和保障。</p>
+<p>从立法的内容看，就是要努力的做到科学立法，务实开放，为境外非政府组织来华活动提供更多的便利。<strong>与一年前的二审稿相比，大家可以看到，法律条文从原来的九章67条修改成现在的七章54条，内容上也作了比较大的修改，包括很多重要的制度性修改。</strong>我相信大家都注意到了，4月25日媒体对草案的重要修改内容都作了详细的报道，在这里我就不再具体介绍。</p>
+<p>这部法律同时对有关机关的工作也提出了一些要求，比如<strong>要求登记管理机关要抓紧制定境外非政府组织在华的活动领域和项目目录，要公布业务主管单位的名录，要在网站上公布如何申请代表机构以及开展临时活动备案的程序。这些都是法律的要求，法律还要求有关机关对境外非政府组织要提供政策咨询和活动指导，年检不得收取任何费用等等</strong>，这些规定都是为了给境外非政府组织在华合法有序开展活动提供便利。</p>
+<p>第三，在法律的实施方面，努力加强规范引导，注重实际效果。法律预留了十分充分的实施准备期。大家都会看到，<strong>这部法律的实施日期是2017年1月1日，距今还有8个多月</strong><strong>。</strong>之所以规定实施的准备期，一方面是为了方便众多的境外非政府组织有足够多的时间去了解、熟悉这部法律的内容，知道自己的权利和义务，另一方面也促使负责这部法律实施的有关机关，包括登记管理机关、业务主管单位以及其他有关部门，在这段时间把相关的具体实施细则制定得更加细致周全，同时也需要培训相关的工作人员，让他们更好的熟悉相关的业务，提供更好的服务，从而确保这部法律能够取得比较好的实施效果。谢谢大家。</p>
+<p>▼</p>
+<p><strong>金融时报记者:</strong><br><strong>关于这部法律，外国媒体主要是关心国外融资的来源到国内的NGO，我想问一下，公安机构如果看国外的钱，例如中国的这些NGO，能不能详细地讲讲你们在担心什么？谢谢。</strong></p>
+<p>郝云宏（公安部境外非政府组织管理办公室负责人）:很高兴出席今天的发布会，也很高兴能够回答有关的问题。境外非政府组织境内活动管理法对资金的监督管理作了有关的规定，境外非政府组织活动主要是通过资助国内的社会组织来开展项目活动、进行交流与合作。这个方面我们不是担心什么问题。中国政府是欢迎境外非政府组织来华开展交流与合作。应该说，这些年来，特别是改革开放以来，境外非政府组织来华发展，在经济、教育、文化、科技、卫生、体育、环保等领域开展了大量的交流与合作，带来了新的理念、新的技术，也有资金和经验，推动我国的经济社会发展，包括公益事业的发展这方面都作出了积极的贡献。中国政府高度赞赏境外非政府组织的积极作用，所以我们是持欢迎的态度。但是我们也注意到，也有极少数的境外非政府组织通过资金的渠道和方法，从事一些损害中国的国家安全、利益和其他违法犯罪的事情，加强这方面的管理，包括对违法活动的处理，这也是我们应该做的。</p>
+<p>▼</p>
+<p><strong>人民日报记者:</strong><br><strong>我的问题也跟境外非政府组织境内活动管理法有关。这部法律制定过程中得到了很多境外的关注，也有一些担忧，我的问题是中国制定这部法律的目的是什么？制定这部法律是否意味着中国会收紧境外非政府组织来华活动的政策？谢谢。</strong></p>
+<p>张勇（全国人大常委会法工委副主任）:</p>
+<p>这个完全没有必要担心。其实大家看，中国改革开放30多年来，在华开展活动的境外非政府组织从无到有，从少到多，到今天据不完全统计有近万家境外非政府组织在华活动。应当说，绝大多数的境外非政府组织为促进中国人民和世界各国人民之间的交流、交往、合作，为推动中国这几十年改革开放事业和整个社会的进步作出了积极的有益的贡献。中国对境外非政府组织来华开展友好的交流、交往、合作一直抱着积极、开放和欢迎的态度，这是不争的事实。但是，我想也毋庸讳言，的确有极少数的境外非政府组织企图或者已经做过了危害中国社会稳定和国家安全的事情。所以说，将境外非政府组织在华的活动纳入法治轨道，这是中国推行全面依法治国，建设法治社会的必然要求。这位记者朋友问的这个问题很好，我可以在这里讲，我相信这部法律的制定，一定能够使境外非政府组织在华的活动更加顺利、更加有序的开展，境外非政府组织的合法权益一定会在这部法律的规范引导之下得到更加充分、更加有力的保障。谢谢。</p>
+<p>▼</p>
+<p><strong>法国新闻社记者:</strong><br><strong>我想问公安部的领导，对于境外非政府组织境内活动管理法的担忧，损害国家安全、损害国家利益、煽动分裂国家活动，这些概念比较模糊，从来没有一个比较详细的定义。你说过已经有个别国外的NGO在中国从事损害中国利益的活动，您可以详细介绍一下吗？这些NGO是什么？他们干过什么？另外，损害国家的利益，或者损害国家安全，跟损害共产党的安全是一回事吗？</strong></p>
+<p>郝云宏（公安部境外非政府组织管理办公室负责人）:</p>
+<p>刚才我在回答前一个记者提问的时候已经说到了这个问题。你提的这个问题，实际上我还是要说，我们是欢迎和支持境外非政府组织来华开展友好的交流与合作，刚才人大的张主任也提到，越来越多的境外非政府组织来华合作，带来了很多好的东西，也发挥了积极的作用，我们持开放、积极的、包容的态度，实现共赢的目的，这部法律对绝大多数的境外非政府组织在华的合法权益提供了有力的法律保障。我们公安机关也会按照法律的规定，在法律颁布后，认真的做准备工作，为境外非政府组织的在华活动提供必要的便利和服务措施，切实保障依法开展活动的顺利进行，也切实保障境外非政府组织的合法权益。</p>
+<p>中国是一个法治国家，境外非政府组织在中国活动，必须在法律允许的范围内开展。我们也注意到了，有的国家登记由警察部门负责，通过内政部门管理。所以凡是有损于国家安全的事情，有损于国家利益的事情，有损于社会公共利益和其他法人、其他组织利益的事情都是不允许的。任何一个国家都不允许任何组织和个人从事损害国家安全的行为。</p>
+<p>▼</p>
+<p><strong>北京青年报记者:</strong><br><strong>我的问题和境外非政府组织境内活动管理法有关，中国境内的社会组织登记管理机关是民政部门，我们比较疑问的是为什么对境外的非政府组织代表机构的设立要由公安机关负责？谢谢。</strong></p>
+<p>郭林茂（全国人大常委会法工委社会法室巡视员）:</p>
+<p>我来回答这个问题。境外非政府组织境内活动管理法向社会公开征求意见之后，大家都很关注一点，境外非政府组织为什么由中国的公安机关成为登记机关？而中国的社会组织是由民政部门来注册登记。这个问题我讲三点：</p>
+<p>第一，任何国家对境外非政府组织的管理都有不同的管理体制。如法国的法律规定，国外的境外非政府组织到法国进行活动，应当向所在地的警察局提出申请，经过法国内政部的批准。<strong>我们的管理体制有中国的特点，也符合中国的国情。一是双重管理，二是公安机关是登记管理机关，三是公安机关负主要的责任，对境外非政府组织进行监督管理。</strong></p>
+<p>第二，中国的公安机关有维护国家安全、维护社会秩序、制止和惩治违法犯罪行为的职责，同时中国公安机关还有管理户籍、国籍、出入境和外国人在华活动有关事务的管理职责。公安机关在管理外国组织机构及其人员在中国的活动，他们有着丰富的经验。<strong>我们制定境外非政府组织境内活动管理法，把这个权力给公安机关，有利于公安机关为境外非政府组织在华活动提供更加便捷的服务。我们的出发点是好的。</strong></p>
+<p>第三，自从我们把登记管理机关作为公安机关以后，就引起了国内外的不同反响。我们制定这部法律，不是禁止和限制境外非政府组织在中国进行活动。我们最近看到，<strong>有一些境外媒体，说我们这部法律赋予了公安三个权力，即约谈、停止临时活动、宣布不受欢迎的名单，觉得好像我们限制了境外非政府组织在中国的活动</strong>，实际上不是。公安机关在监督管理服务境外非政府组织的过程中也必须依法行政，境外非政府组织境内活动管理法对公安机关的依法行政也作出了规定。<strong>像境外媒体所说的，授予他们三个权力也是有前提的，就是只有发现涉嫌违法行为的时候，公安机关才能采取相关措施。</strong>另外法律责任当中也规定，公安机关及有关部门在监督管理的过程中，不履职或者徇私舞弊、滥用职权都要承担法律责任。<strong>所以，大家不要对我们的公安机关像老虎那样担心，我说一句中国老百姓的土话，“有困难找警察，不违法你怕啥？”。谢谢。</strong></p>
+<p>▼</p>
+<p><strong>香港南华早报记者:</strong><br><strong>刚才说到登记管理机关要抓紧制定境外非政府组织在华的活动与和项目目录，我想问郝局长，这是不是意味着公安部门要尽快建立一个目录，这个目录是不是就是规定不在这个目录上的项目是不能申请的？换句话说，可以起到让一些项目能进入，一些项目不进入中国，是吗？之前有一些公安大学的教授访谈当中也提到了一些例子，前几天公安也公布了一些所谓的违法事实，比如广东那边有劳工组织受境外的劳工组织的唆使，还提到一些性别权利平等的组织，我想问一下，这些组织会不会有可能成为不受欢迎的非政府组织？谢谢。</strong></p>
+<p>郝云宏（公安部境外非政府组织管理办公室负责人）:</p>
+<p>法律颁布以后，离法律实施还有一段时间，作为境外非政府组织登记管理机关，我们要履行好这个职责还有大量的工作要做，您提到的只是其中的一项。首先，我们要尽快的研究制定境外非政府组织申请登记代表机构，包括开展临时活动的一套程序和办法，<strong>我们会及时的发布程序和办事指南，为他们提供指引和便利。</strong>第二，我们也会抓紧会同有关部门，根据法律的规定<strong>研究制定相关的业务领域项目目录和业务主管单位的名录，在研究以后会在适当的时机对外发布</strong>。这都是在生效之前要提供给境外非政府组织的。</p>
+<p>刚才你还提到其他的一些问题，<strong>虽然法律上规定，确定了一些领域，但是还有一个“等”</strong>，境外非政府组织活动的领域很宽泛，很多活动我们都会合理的安排在有关的名录当中，这个不必要担心。同时你举的一个例子，我还是要强调，<strong>虽然我们对境外非政府组织来华活动是开放的、包容的、积极的、支持的，但是凡是有支持、操纵境内从事危害中国法律的事情，我们也会依法处理</strong><strong>。</strong>谢谢你的问题。</p>
+<p>▼</p>
+<p><strong>英国广播公司记者:</strong><br><strong>我还是不明白，那种损害中国国家利益的NGO是什么样的NGO？可以举个例子吗？按照法律规定，帮助资源环境的NGO是可以的，或者帮助穷人的是可以的，但是做关于中国人权问题的工作的组织可以在中国当NGO吗？</strong></p>
+<p>郭林茂（全国人大常委会法工委社会法室巡视员）:</p>
+<p>这个问题我来回答。什么叫损害中国的利益？我看了法国法律有这么一个规定，任何社会团体，其宗旨不得破坏法国领土完整，不得反对共和国政体，不得违反法律和社会风俗，否则不予批准成立。所以说<strong>什么叫危害国家利益，那就是国家的领土完整、国家政权的维护及广大人大群众的利益，这就是国家利益。</strong>具体我们的法律里面，怎么是损害，我们的刑法、治安管理处罚法等，都有具体的规定什么叫危害国家的利益。</p>
+<p>刚才公安部的郝云宏同志已经说了，境外非政府组织到中国来我们是欢迎的，境外非政府组织我们现在定了经济、教育、科学、卫生、文化、体育等领域和济困救灾等方面，这是根据这么多年来境外非政府组织到中国来，大部分是从事这样的工作，所以我们点出来了。但是后面还有一个“等”，<strong>你说的境外关于人权的非政府组织到中国来，可不可以，当然可以。</strong>我们欢迎和支持所有的境外非政府组织到中国开展友好的交流与合作，我们给提供便利，他的权利依法进行保障。但是违法的行为肯定依法惩处。只要境外非政府组织遵守中国的法律是可以安心在中国开展活动的。谢谢。</p>
+<p>▼</p>
+<p><strong>瞭望周刊记者:</strong><br><strong>我们也知道，过去境外非政府组织在国内登记的话，主要是在民政部门以及工商行政管理部门，过去已经登记了的代表机构的境外非政府组织，是不是要重新向公安部门登记？谢谢。</strong></p>
+<p>郝云宏（公安部境外非政府组织管理办公室负责人）:</p>
+<p>首先，我要说近几年来，依照我国的基金会管理条例等有关法律法规，已经依法登记的代表机构的合法权益应当受到法律的保护。第二，随着境外非政府组织境内活动管理法的颁布和实施，<strong>我们还是要围绕着便利服务，跟民政部门、工商行政管理等有关部门积极研究过渡政策，在法律生效前这段时间，保证他的活动继续开展。法律实施以后，只要他们依照法律规定补充有关的材料，我们会继续给他们作依法登记。</strong></p>
+<p>▼</p>
+<p><strong>香港有线电视记者:</strong><br><strong>我想问境外非政府组织境内活动管理法里面第5条提到“不得非法从事或者做宗教的活动”，为什么特别说宗教活动是不得从事的？而且不允许他们在中国境内募捐，这会影响他们的运作吗？谢谢。</strong></p>
+<p>郭林茂（全国人大常委会法工委社会法室巡视员）:</p>
+<p>谢谢，我回答这个问题。第一，为什么不得非法从事宗教和资助宗教活动。根据我国行政法规的规定，<strong>所有到中国境内来合法的开展宗教活动是允许的。当然，如果非法从事和资助宗教活动，不仅我们国家不同意，任何国家也不同意。</strong></p>
+<p>第二，关于为什么境外非政府组织在中国不能募捐的问题。我们今年大会刚刚通过了慈善法，慈善法规定，只有慈善组织才能有资格进行募捐。慈善组织进行募捐必须取得民政部门发的公开募捐资格。<strong>境外非政府组织的代表机构不是法人，境外非政府组织来临时活动都是短期，因此不符合慈善法关于募捐的规定。你所以就不得进行募捐。</strong>谢谢。</p>
+<p>▼</p>
+<p><strong>新华社记者:</strong><br><strong>我的问题还是关于境外非政府组织境内活动管理法，提问给公安部门。此前采访了解到，这部法律的制定贯穿了这样的一个理念，“要寓管理于服务中”，您刚才在陆续回答问题的时候也提到了一些怎么为境外非政府组织提供一些便利，我想请您具体一些、系统一些回答这个问题。我们也知道法律规定了，比如说境外非政府组织代表机构依法享受税收优惠，其实我们也知道，就算境内的一些非营利性社会组织他们想获取税收优惠也存在一定的困难，如果我们立法为境外非政府组织提供更多的便利，保护他们的权益，这些细节怎么落实到实处？谢谢。</strong></p>
+<p>郝云宏（公安部境外非政府组织管理办公室负责人）:</p>
+<p>我再重申一下，境外非政府组织最为关心的是申请设立代表机构和开展临时活动需要哪些具体的程序和办法，我们会抓紧研究出台一套办法，在适当的时间通过网站对外发布，提供指引。第二，我们会会同有关部门认真的研究、制定和发布境外非政府组织设立代表机构的一套办事指南和在境内活动的领域、项目目录以及业务主管单位的名录，这也是他们关注的问题。因为<strong>境外非政府组织活动，有的是在一个领域活动，有的是跨领域的活动，甚至有的是多领域的活动，所以提前需要发布项目的目录、活动的领域和业务主管单位的名录</strong>，对他们开展活动是一个很好的便利服务措施。</p>
+<p>第三，公安机关有很多的出入境管理的条件，在境外非政府组织代表机构的境外人员，在办理有关的就业工作手续上我们要提供便利的措施和服务。第四，对已经在民政、工商部门登记的，我们要有一套过渡的办法，使他们衔接到新的法律当中。总之，公安机关会发挥我们在户籍管理、国籍管理、出境入境管理、外国人在华活动管理各个方面的经验优势，切实依法履行好法律赋予的职责，发挥我们的职能优势，为境外非政府组织在华开展正常的交流与合作，依法开展活动提供有效的服务和保障，保护他们的合法权益，为我们经济社会发展，为我们的改革开放做出应有的贡献。谢谢。</p>
+<p>▼</p>
+<p><strong>华尔街日报记者:</strong><br><strong>关于境外非政府组织境内活动管理法，第一个问题，这部法律进行状况是怎么样的？执行的规定什么时候出台？也是明年的1月1日吗？第二个问题，有一些境外非政府组织说中国已经有一个黑名单，拒绝他们在中国活动，在这部法律执行以后这个黑名单要怎么处理？</strong></p>
+<p>郭林茂（全国人大常委会法工委社会法室巡视员）：我来回答你的问题。第一，我们的境外非政府组织境内活动管理法今天下午已经通过，只是到2017年1月1日起开始实施。第二，<strong>你所说的黑名单问题，我们还不知道。但是这里我要说明一点，我们制定境外非政府组织境内活动管理法，不是不让你来。</strong>刚才张主任说了，从去年的4月份到今年的4月份我们花了整整一年的时间，对这部法律进行完善与修改。我们召开座谈会、进行调研，听取有关专家的意见，与公安部和有关部门进行协商，协商做什么？就是要解决两个问题，即管理和服务的问题。</p>
+<p><strong>管理，我们是本着精准管理、突出重点。</strong>所以大家都看到了，我们这次的境外非政府组织境内活动管理法把概念缩小了，就是指在境外合法成立的基金会、社会团体及智库机构，把医院、学校等自然科学及技术工程这种研究机构及学术组织之间的交流与合作排除在外，所以说是精准管理，突出重点。还有刚才一位记者提出，<strong>我们加强了对境外非政府组织的资金管理，因为我们管国内的社会组织的经验也是加强资金的管理</strong>。另外，我们广泛服务，提供便利，欢迎境外非政府组织到中国来开展活动，我们要把完善境外非政府组织的便利措施。大家也看到了，我们这次修改的很多，法律委员会的审议结果报告中说明了9个内容，有30多处修改，经过这次常委会审议，我们对草案又进一步修改，将近20处，修改情况的报告，大家可以看到点了六处，<strong>可以说这部法律与大家看到的二审稿有一个翻天覆地的变化，这种变化，就是要解决既要做好管理，又要做好便利服务。</strong></p>
+<p>在这里我要跟大家说，我们这部法律的出台请大家放心，从开始立这部法律我们就有四个基本的判断：一是，我们充分肯定境外非政府组织在我们改革开放过程中所发挥的积极作用，为我们改革开放中的资金、技术和管理经验的引进确实发挥了积极的作用。二是，我们欢迎和支持所有的境外非政府组织到中国来，我们习总书记也说，中国改革开放的大门不会关，既然我们开放的大门不关，我们就欢迎大家来进行友好的交流与合作。三是，任何境外非政府组织到中国来只要进行友好的交流与合作，按照中国的法律办事，你所有的权利我们都要依法的进行保障，我们会为你提供一切便利。四是，如果有极少数境外非政府组织抱着、打着交流合作的旗号，来搞违法甚至犯罪活动，我们公安部门确实要进行制止，甚至要进行惩处。所以，<strong>总的来说，我们对境外非政府组织是欢迎的，我们的大门是敞开的，大家不要因为有这部法律、有公安机关就害怕。</strong></p>
+<p><strong>▼</strong></p>
+<p><strong>美联社北京分社记者:</strong><br><strong>既然中国对境外的非政府组织采取欢迎、开放的态度，而且刚才也肯定了他们在30年来中国改革开放的积极作用，但是为什么不允许他们在中国成立分社机构，不允许他们在中国发展会员？在法律当中又有一个例外，国务院另行规定，可不可讲哪些机构在中国有这个特殊的待遇在中国发展会员，为什么要进行这些差别化的对待。谢谢。</strong></p>
+<p>郭林茂（全国人大常委会法工委社会法室巡视员）:</p>
+<p>我回答这个问题。第一，为什么境外非政府组织在中国不能设分支机构。我们的境外非政府组织境内活动管理法，这部法律原来的二审稿大家都看到了，规定了境外非政府组织在中国只能设一个代表机构，通过这次我们的修改完善，境外非政府组织设多少代表机构不再限制，只是根据你的业务范围、活动地域及开展活动的需要，设若干个都行。既然我们的代表机构放开了，分支机构就没有必要存在。而为什么国务院另有规定的除外，就是原来有一些国外的自然科学的学术机构、学术单位曾经在中国设立分会，对这些已经设立的分会我们认可。</p>
+<p>第二，关于发展会员的问题。首先<strong>境外非政府组织到中国来是做有利于公益事业发展的事情来的，不是拉队伍的，没有必要在我们这里发展会员。</strong>其次，中国的组织，基金会也好，社会团体也好，可以在中国发展会员，但是中国这些社会组织发展会员是中国的法人，境外非政府组织在中国不具备法人资格，开展临时活动的也是短期活动，活动完就走了，发展会员不符合中国的法律规定。为什么还有一个国务院规定的除外？就是说原来一些境外非政府组织在中国发展过会员，这些会员主要指国外自然科学的学会，中国的专家、学者、科学家加入了这个学会，这是一个现状。另外，中国政府也支持科学家、学者加入国外的科学机构，<strong>所以国务院规定的除外，这就意味着以后我们的一些科学家、专家学者也好，加入境外机构成为会员，要经过国家的同意。</strong>谢谢。</p>
+<p>（图片来源不明，仅供参考）</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-2.jpg" rel="attachment wp-att-436272"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-2.jpg?resize=500%2C666" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-2.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1-2.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2-1.jpg" rel="attachment wp-att-436271"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2-1.jpg?resize=500%2C666" alt="2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2-1.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2-1.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3-1.jpg" rel="attachment wp-att-436270"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3-1.jpg?resize=500%2C666" alt="3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3-1.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/3-1.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4.jpg" rel="attachment wp-att-436269"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4.jpg?resize=500%2C666" alt="4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/ngocn.jpg" rel="attachment wp-att-436273"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/ngocn.jpg?resize=311%2C154" alt="ngocn" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/ngocn.jpg?resize=300%2C149 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/ngocn.jpg?w=311 311w" sizes="(max-width: 311px) 100vw, 311px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E5%9B%B0%E9%9A%BE%E6%89%BE%E8%AD%A6%E5%AF%9F%EF%BC%8C%E4%B8%8D%E8%BF%9D%E6%B3%95%E4%BD%A0%E6%80%95%E5%95%A5%EF%BC%9F%E5%A2%83%E5%A4%96%E6%B3%95%E5%87%BA%E5%8F%B0%E8%AE%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E7%9B%8A%E7%BB%84%E7%BB%87/?category=18271" rel="tag">公益组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96ngo%E6%B3%95%E6%A1%88/?category=18271" rel="tag">境外NGO法案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%87%BBngo/?category=18271" rel="tag">打击NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E8%90%A5%E5%88%A9%E7%BB%84%E7%BB%87/?category=18271" rel="tag">非营利组织</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%89%A5%E6%B4%8B%E8%91%B1-%E5%B8%B8%E5%A4%96%E4%BA%8B%E4%BB%B6%E4%B8%AD%E7%9A%84%E5%AE%B6%E9%95%BF%EF%BC%9A%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E5%9B%BD%E5%AE%B6%E4%BA%8B-%E5%85%B3%E8%B5%B7/" target="cdt-mirror">剥洋葱 | 常外事件家长：这是我们国家的事 我们关起门来说</a>
 </h2>
 <p><p><strong>漩涡中心，出现问题的不仅是学生的身体，人们的心理也有了隐疾。昔日生活与美好愿景，如自带柔光的肥皂泡，轻轻一戳，破了。</strong></p>
@@ -620,144 +794,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E8%A3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-3/" target="cdt-mirror">人民日报推特抱怨：YouTube对我们的三千多粉丝没有丝毫尊重</a>
-</h2>
-<p><p><strong>《人民日报》英文版官方推特账户于4月26日在推特公开“维权”，称YouTube无故让该报官方英语频道2天内掉了3552名粉丝，欲申诉时却发现该公司用户申诉渠道不通顺，找不到人解决问题</strong>。该账号最近上传了不久前在中国大陆热传的“<a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E8%BF%99%E4%B8%AA%E5%B0%8F%E7%94%B7%E5%AD%A9%E7%81%AB%E4%BA%86%EF%BC%81%E6%89%8B%E6%8C%81%E9%92%A2%E7%AE%A1%E5%AF%B9%E6%8A%97%E5%9F%8E%E7%AE%A1/" target="_blank">小孩手持钢管对抗城管</a>”视频，获得了不少点击量，也增加了许多新粉丝。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%BA%BA%E6%97%A5%E7%BB%B4%E6%9D%831.jpg" rel="attachment wp-att-435969"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%BA%BA%E6%97%A5%E7%BB%B4%E6%9D%831.jpg?resize=450%2C430" alt="人日维权1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/人日维权1.jpg?resize=300%2C287 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/人日维权1.jpg?resize=768%2C734 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/人日维权1.jpg?resize=1024%2C979 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/人日维权1.jpg?w=1784 1784w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>《人日》英语版推特官方认证账号内容截图</span></p></div>
-<blockquote><p>‏<a href="https://twitter.com/PDChina/status/725095976684363781" target="_blank">@PDChina</a>: 3,552 subscribers vanish in 2 days; @YouTube closes all doors to user inquiries @TeamYouTube http://english.people.com.cn/n3/2016/0427/c90000-9049990.html …</p></blockquote>
-<p>《人日》英语版还就此事发表了一篇<a href="http://en.people.cn/n3/2016/0427/c90000-9049990.html" target="_blank">文章</a>，<strong>大意如下</strong>（数字时代编辑作了简短翻译）：</p>
-<blockquote><p><strong>标题：2天内消失3552名粉丝；用户向YouTube申诉无门</strong></p>
-<p>YouTube后台数据显示我们一周内增了6019名新粉丝，但没几天后突然又一下子掉了3552名，目前数字还在持续下降。</p>
-<p>我把能找到的YouTube联系方式都试了一遍，包括他们在推特的客服账号。虽然该账号在推特介绍中声称工作日上午9点至下午5点之间能够提供帮助，但却没有任何人答复我。</p>
-<p>我所有的推都被无视了。我后来找到该公司的传媒查询邮箱，无奈之下给这个邮箱发了信，也没有任何回复。</p>
-<p>在YouTube问答社区内，也有“我的粉丝数量为什么一直在掉？”的提问，提问者呼吁Youtube尽快解决，并建议有同样问题的用户留下频道网址、掉粉时间、掉粉数量等信息。我也留下了自己的信息。还是没有任何答复。</p>
-<p><strong>YouTube在我们频道中无缘无故地移除了3552名粉丝，对我们的粉丝没有丝毫的尊重。</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/FOREIGN201604270650000050679353176.png" rel="attachment wp-att-435974"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/FOREIGN201604270650000050679353176.png?resize=490%2C181" alt="FOREIGN201604270650000050679353176" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/FOREIGN201604270650000050679353176.png?resize=300%2C111 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/FOREIGN201604270650000050679353176.png?w=767 767w" sizes="(max-width: 490px) 100vw, 490px" data-recalc-dims="1"></a><br><span>YouTube后台截图显示突然大量掉粉</span></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/u/1705564917" target="_blank">@老杜找乐儿</a> :这个笑话够我乐到礼拜天了 人民日报在推特上抱怨自己youtube账号2天掉粉3千多向youtube投诉没人管…（怎么没有笑得满地打滚的emoji啊 LMAO）</p>
-<p>@I静静I：风太大~我们在高墙里听不太清楚~~</p>
-<p>@EURECA-：放我们出去 我们一天给你涨一亿</p>
-<p><a href="http://weibo.com/2260191890" target="_blank">@Addoilphyllis</a><i></i>：付费买粉到期要续费的。<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/linkf" target="_blank">@林克复</a>：close all doors to users inquiries<img title="[吃惊]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]" data-recalc-dims="1">我的天呐，谁能编出这么贱的段子</p>
-<p>@意识跟不上手速：这届墙外人不行！不肯吃屎！</p>
-<p><a href="http://weibo.com/1158637794" target="_blank">@愉快犯</a><i title="微博达人"></i>：你们为什么不开放僵尸粉业务<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@Panblack：人日，你于敌营，做甚苟且？何不速回朝歌？</p>
-<p><a href="http://weibo.com/2296099433" target="_blank">@怎么连李狗蛋都被注册了啊</a>：出了国谁搭理你啊<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@谷大白话: 这届youtube不行啊</p>
-<p>@绿小水水水：妈蛋，人民网都能上youtube，凭什么我们不行。只管州官放火，不管百姓点灯啊</p>
-<p>ONETsing：还是回国内吧，有爹照着。</p>
-<p>Surgery9527：推上不建党支部怎么行？无组织无纪律</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/youtube/?category=18271" rel="tag">youtube</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E7%9C%BC%E7%A5%9E%E5%84%BF%E4%B8%8D%E8%A1%8C-%E6%B0%B4%E6%9E%9C%E4%B9%9F%E5%B1%85%E5%BF%83%E5%8F%B5%E6%B5%8B/" target="cdt-mirror">【网络民议】这届人民眼神儿不行 水果也居心叵测</a>
-</h2>
-<p><p>4月27日，在李克强访问成都东苑益民菜场而网络上出现“樱桃价格之谜”之后，益民菜场的新浪官方微博发布了一则辟谣消息，声称是由网传图片清晰度过低引发的误读误传。这条消息同样得到了四川在线、成都发布、成都晚报等官方账号的转载。辟谣消息发布后，引起了更多网友的热烈评论，其中不少网友都认为，即便樱桃和琵琶价格是30、35的价格，但这种价格的小数点标法和数字大小书写方式都是极其不规范的，具有明显的误导嫌疑。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c68b047egw1f3b1hwa3sjj20m80bo0wy.jpg?resize=650%2C341" alt="c68b047egw1f3b1hwa3sjj20m80bo0wy" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c68b047egw1f3b1hwa3sjj20m80bo0wy.jpg?resize=768%2C403 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/c68b047egw1f3b1hwa3sjj20m80bo0wy.jpg?w=800 800w" sizes="(max-width: 650px) 100vw, 650px" data-recalc-dims="1"></p>
-<p><strong>相关阅读：</strong><a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8F%9C%E5%B8%82%E6%A8%B1%E6%A1%83%E4%BB%B7%E6%A0%BC%E4%B9%8B%E8%B0%9C%EF%BC%9A%E6%9D%8E%E5%85%8B%E5%BC%BA%E7%9C%8B%E5%88%B0%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF3%E5%85%83%E8%BF%98%E6%98%AF30/" target="_blank">菜市樱桃价格之谜：李克强看到的到底是3元还是30元一斤？</a></p>
-<p><strong>以下内容为数字时代编辑摘自网友评论：</strong></p>
-<p>@谭人玮:哈，用两种字体造成错觉，你要是没认出来就算了，认出来我还有得辩，事先的准备狠充分，给一百分。</p>
-<p>@涉外赵律师：就问一句，这个价格标签规范吗？这是明显想误导总理视线嘛，35块钱的价签儿该咋个写，不用再告诉吧……</p>
-<p>@binghe1988：这届人民眼神儿不行<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@方墙墙墙墙：这届水果居心叵测。</p>
-<p>@成都洋宝贝：不知道谁愚弄谁！35元一斤，有这种3是大写，5是小写的吗？</p>
-<p>@花雨声Nice：该超市，存在严重误导消费者的行为，为什么把后面的“5”写的比前面的“3”小那么多？全国人都看成了3.5，你还怪全国人都看错了，你怎么不说超市标价不规范呢？那个价格不能好好写的工工整整的吗？非得用不同大小数字来写？不是超市的问题是谁的问题？</p>
-<p>@锦瑟荼靡：国家计委出台《禁止价格欺诈行为的规定》自2002年1月1日起施行，认定以下13种价格行为为价格欺诈行为：“3、使用欺骗性或者误导性的语言、文字、图片、计量单位等标价，诱导他人与其交易的。”</p>
-<p>@花画灬在路上：苹果是7.00，樱桃是35.0，我就想问这么标价和青岛大虾38元一只有什么区别？你这个数字大小也太奇怪了！工商难道不管的吗？</p>
-<p>@Blandy朱：不用辟谣，就算是真的谁又信呢？政府公信力何以至此？</p>
-<p>@Jofun：《禁止价格欺诈行为的规定》认定的价格欺诈行为：“3、使用欺骗性或者误导性的语言、文字、图片、计量单位等标价，诱导他人与其交易的。”</p>
-<p>@hnjhj：李公公不像习大大有个有钱的姐夫，李公公下不起馆子只能吃食堂，不但吃食堂还要自己带饭，不但自己带饭还要亲自买菜。</p>
-<p>@纸上建筑_：网友看错了，但是你们违法了，<i>°</i>小数点与大樱桃 早在2011年，这种标签戏法已被发改委认定为典型价格欺诈手段之一，家乐福门店因此被罚款50万……</p>
-<p>@米拉DE熊：看了评论就笑了，这届人民不好骗哩，内心都太复杂太有心眼了，只有那个圈子的低中高层们还一如既往的“单纯”着<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">，只是越来越显得突兀和好笑，每次自导自演挺嗨，你们玩的开心，百姓看得明白</p>
-<p>@溟子旭：在超市干过的都知道，前面大的数字是元，后面小的是角分………我在超市干了三年…………<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
-<p>@一路前行一路拼：这智商连造假都漏洞百出，现在还单位来洗地<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">，智商堪忧呀！</p>
-<p>@小炬：不回复还好些。</p>
-<p>@北京空气污染播报：以后去四川旅游购物要睁大眼睛了，太可恶了，这个和骗子有什么区别？</p>
-<p>@風滴皈迹：相国久不买菜购物，就会被这群孙子糊弄。他难道看不出来有猫腻和问题么？都是一群没有节操的演员而已。</p>
-<p>@HAO-OHA昊：真把别人当傻子耍吗？那旁边的苹果就是70元一斤罗？真是猪一样队友，马屁直接拍屁眼里去了！</p>
-<p>@helita：这届人民怎么连眼神都不行的？还有行的地方吗？</p>
-<p>@深蓝no马英久：我干了一辈子财务，尼玛，这不是三块五是神马？辩解个毛？/</p>
-<p>@四大皆空空小道士：我们看错了？？你当官的自己最清楚。哈哈中国当官的都不食人间烟火，不知柴米油盐酱醋茶，穿了xx新装？</p>
-<p>@香港FM：李家的超市当然是 必须是3块一斤</p>
-<p>@三俗大哥：我就不信，一个开门营业的大超市，价格这么重要的信息标注能让绝大多数人一看就“误读”！</p>
-<p>@HAO-OHA昊：真把别人当傻子耍吗？那旁边的苹果就是70元一斤罗？真是猪一样队友，马屁直接拍屁眼里去了！</p>
-<div>@爱吃小面的泽西<i></i>：成都影视学院的学生演员演得好！100分！<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></div>
-<div>
-<p>@美漩星：从字体大小看出你的小心思。不过天朝大环境不就是上骗下，下偏上么，能理解，不过下回你的危机公关能不能不做的这么差劲好么。</p>
-<p>@心心心心所系：新鲜玉米3.2一斤，要买，人家老板不卖，说商场要求改成3.2，实际是6.2一斤！！！亲身经历</p>
-<p>@逆落：讲真，什么年代了，省会城市以每天能否吃上肉作为体察民情开场白，略尴尬。</p>
-<p>@没事就再飞一会儿：每任总理都会提同样的要求。好总理啊！</p>
-<p>@hnjhj：李公公不像习大大有个有钱的姐夫，李公公下不起馆子只能吃食堂，不但吃食堂还要自己带饭，不但自己带饭还要亲自买菜。</p>
-<p>@小婵带你游川藏：总理一走马上换价牌。</p>
-<p>@青春呼啸而过的平措：哦，中国梦就是吃肉嗦，领导，你说的都对。</p>
-<p>@用户5909271559：你豁我，我豁你，都是一码事。</p>
-</div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E7%9C%BC%E7%A5%9E%E5%84%BF%E4%B8%8D%E8%A1%8C-%E6%B0%B4%E6%9E%9C%E4%B9%9F%E5%B1%85%E5%BF%83%E5%8F%B5%E6%B5%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D/?category=18271" rel="tag">影帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%BB%B7%E4%B8%8A%E6%B6%A8/?category=18271" rel="tag">物价上涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BD%91%E7%9B%98%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB%E5%90%AF%E5%8A%A8%EF%BC%9A%E6%96%B0%E6%B5%AA%E5%BE%AE%E7%9B%98%E3%80%81uc%E7%BD%91%E7%9B%98%E5%85%B3/" target="cdt-mirror">澎湃新闻 | 网盘专项整治启动：新浪微盘、UC网盘关闭存储服务</a>
-</h2>
-<p><p>新一波网盘整治行动来袭。</p>
-<p>4月25日，新浪微盘宣布将停止对免费用户提供存储服务，并暂停微盘文件的搜索、分享功能。这是两个月内第三家暂停部分功能的网盘。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/611.jpg?resize=550%2C864" alt="611" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/611.jpg?resize=191%2C300 191w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/611.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>对于此次业务调整的原因，新浪方面对澎湃新闻表示“以公告为准”，未透露是监管部门的哪个整治行动。</p>
-<p>澎湃新闻注意到，新浪的另一份公告称，为配合国家有关部门积极开展网盘上涉黄、涉盗版内容的清查工作，对不良信息进行集中清理，关闭新浪微盘的搜索、分享功能，直到清理完毕。</p>
-<p>3月17日，阿里巴巴旗下的UC网盘公告称，4月15日起终止网盘的存储服务，停止UC网盘的上传服务/离线资源存至网盘功能/视频转码服务。同时，UC网盘离线下载服务器将暂停“下载至本地”功能。UC网盘称，关闭是为了配合国家关于利用网盘传播淫秽色情信息专项整治行动。</p>
-<p>更早之前的3月8日，老牌网盘产品115网盘称：为遏制不法分子可能利用115产品进行违法犯罪活动，继关闭“礼包文件分享”功能之后，我司决定即日起对“我聊”功能进行整改；整改期间，我聊将下线“文件发送”模块。</p>
-<p>用户称，如此一改，115网盘等于成为了一个单机网络备份盘，即便是好友也无法互相发送文件了。<br>
-网盘是网友能进行在线云储存的空间。网盘可以存储各类文件，不仅有学习资料，也暗藏色情信息和盗版美剧小说等内容。</p>
-<p>上一波的网盘整治行动是在2015年年中。当时，全国“扫黄打非”办公室组织各地约谈了360云盘、乐视云、酷盘、华为网盘、115网盘、UC网盘、迅雷快盘等一大批网盘企业，并且对情节严重的迅雷快盘等网盘企业进行了行政处罚。</p>
-<p>新浪微盘当时表示，共审核删除了2.1万余条侵权内容，并自2015年5月起关闭了移动端和网页端的视频在线播放功能，停止了网页端大于100M文件的保存与下载，侵权内容大幅减少。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/615.jpg?resize=600%2C263" alt="615" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/615.jpg?resize=300%2C132 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/615.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>根据比达咨询的报告，截至2015年12月，新浪微盘有240万人的月活跃用户，115网盘有205万人的月活跃用户。</p>
-<p>百度云、华为云盘、360云盘是用户最多的中国移动网盘提供商。目前，澎湃新闻还未获悉这三家网盘进行产品调整。</p>
-<p>澎湃新闻注意到，2015年10月，国家版权局发布了《关于规范网盘服务版权秩序的通知》，进一步明确了网盘服务商在提供网盘服务中应当履行的义务和承担的责任，将法律法规中的有关要求具体化，增加了可操作性和执行性。</p>
-<p>国家版权局版权管理司负责人表示，《通知》的目的不是限制用户对网盘的正常使用，而是要规范利用网盘进行违法上传、存储并分享他人作品的行为，其中“分享”是引发作品传播的关键。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BD%91%E7%9B%98%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB%E5%90%AF%E5%8A%A8%EF%BC%9A%E6%96%B0%E6%B5%AA%E5%BE%AE%E7%9B%98%E3%80%81uc%E7%BD%91%E7%9B%98%E5%85%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90/?category=18271" rel="tag">不法分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%98%E5%82%A8/?category=18271" rel="tag">存储</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84/?category=18271" rel="tag">扫黄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84%E6%89%93%E9%9D%9E/?category=18271" rel="tag">扫黄打非</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%9B%98/?category=18271" rel="tag">网盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%9B%98%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BB/?category=18271" rel="tag">网盘专项整治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8F%9C%E5%B8%82%E6%A8%B1%E6%A1%83%E4%BB%B7%E6%A0%BC%E4%B9%8B%E8%B0%9C%EF%BC%9A%E6%9D%8E%E5%85%8B%E5%BC%BA%E7%9C%8B%E5%88%B0%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF3%E5%85%83%E8%BF%98%E6%98%AF30/" target="cdt-mirror">菜市樱桃价格之谜：李克强看到的到底是3元还是30元一斤？</a>
-</h2>
-<p><p>近日，中国官媒报道了<a href="http://finance.sina.com.cn/china/gncj/2016-04-26/doc-ifxrpvea1239554.shtml" target="_blank">李克强视察成都菜市</a>的新闻：</p>
-<blockquote><p>【李克强拎了拎成都的“菜篮子”】“你一个月挣多少钱？每天能吃上肉吗？”李克强26日一早到成都益民菜市询问一位买菜市民。总理沿摊位不时停下细问店员各类蔬菜和猪肉价格变化，随后对当地负责人提出三点要求：一要保障农产品供应充足，二要保障食品安全，三要保障低保及低保边缘困难群众基本生活。</p></blockquote>
-<p>然而由于这则新闻中的蔬果标价过低，随即引来大量网民吐槽。从视频中看，樱桃似乎是¥3／斤：</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/81901d44jw1f3act5g1yfj20qo0ez0vs.jpg" rel="attachment wp-att-435907"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/81901d44jw1f3act5g1yfj20qo0ez0vs.jpg?resize=550%2C309" alt="成都菜市樱桃标价1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/81901d44jw1f3act5g1yfj20qo0ez0vs.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/81901d44jw1f3act5g1yfj20qo0ez0vs.jpg?resize=768%2C431 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/81901d44jw1f3act5g1yfj20qo0ez0vs.jpg?w=960 960w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>图片来自新浪微博@四川张云强</span></p></div>
-<p>后有网民贴出更为清晰的现场照片，称菜市价格没错，只是小数点放的位置偏了。如果属实，<strong>这种标价方式却有误导消费者认为樱桃是3元一斤、枇杷¥3.5一斤的嫌疑。</strong>在日常生活中，<strong>标价30元的格式是<span>¥30.00</span>而不是¥30.0</strong>，“元”的数字较大，“分”的较小。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6362d8eajw1f3ahq03dvjj20k00zkwjj.jpg" rel="attachment wp-att-435905"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6362d8eajw1f3ahq03dvjj20k00zkwjj.jpg?resize=400%2C711" alt="成都菜市樱桃标价2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6362d8eajw1f3ahq03dvjj20k00zkwjj.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/6362d8eajw1f3ahq03dvjj20k00zkwjj.jpg?w=690 690w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>日常生活里的商品标价中，“元”的数字较大，“分”的较小。这种标价有误导消费者之嫌。<em>图片来自新浪微博@打奥特曼de小怪兽 </em></span></p></div>
-<p>但同时也有网民认为在类似的标价照片中PS上小数点并非难事：</p>
-<blockquote><p><a href="http://weibo.com/2322887150" target="_blank">@星星是水果味的</a>：回复<a href="http://weibo.com/n/%E6%89%93%E5%A5%A5%E7%89%B9%E6%9B%BCde%E5%B0%8F%E6%80%AA%E5%85%BD?from=feed&loc=at" target="_blank">@打奥特曼de小怪兽</a>:有技术就是好，羡慕<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg" rel="attachment wp-att-435915"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?resize=440%2C440" alt="成都菜市樱桃标价4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?resize=300%2C300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?resize=50%2C50 50w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8a7471eegw1f3ajcwe0y9j20i80i8wh9.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p></blockquote>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/883e450bjw1f3ahn83286j20ci0k9gni.jpg" rel="attachment wp-att-435906"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/883e450bjw1f3ahn83286j20ci0k9gni.jpg?resize=400%2C648" alt="李克强视察成都菜市吐槽" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/883e450bjw1f3ahn83286j20ci0k9gni.jpg?resize=185%2C300 185w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/883e450bjw1f3ahn83286j20ci0k9gni.jpg?w=450 450w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>疑似成都市民吐槽。<em>图片来自新浪微博</em></span></p></div>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>良药良心：欺负总理戴眼镜，个位数字写成小数位大小</p>
-<p>九十九宗：多么诡异的0和小数点啊。。</p>
-<p>小何传播：看小数点像是30元，看数字大小应该是3元。</p>
-<p>大风起兮-ZDH卓103：揭超市的锅盖，超市的锅盖被揭…</p>
-<p>来世做条狗：是30一斤的樱桃，不过也没那么便宜吧？</p>
-<p>天涯赵瑜：小数点是总理走了以后挪的吧。有这样标示小数点价格的吗，平常。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%8F%9C%E5%B8%82%E6%A8%B1%E6%A1%83%E4%BB%B7%E6%A0%BC%E4%B9%8B%E8%B0%9C%EF%BC%9A%E6%9D%8E%E5%85%8B%E5%BC%BA%E7%9C%8B%E5%88%B0%E7%9A%84%E5%88%B0%E5%BA%95%E6%98%AF3%E5%85%83%E8%BF%98%E6%98%AF30/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D/?category=18271" rel="tag">影帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%BB%B7%E4%B8%8A%E6%B6%A8/?category=18271" rel="tag">物价上涨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -769,7 +805,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -779,5 +815,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%95%B4%E8%82%83%E5%85%B1%E9%9D%92%E5%9B%A2%EF%BC%8C%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA%EF%BC%9F/" target="cdt-mirror">【CDTV】美国之音：习近平整肃共青团，意欲何为？</a>
+</h2>
+<p><p>素有中共“后备军”之称的共青团最近似乎陷入了四面楚歌的状态。继习近平怒斥其“高位截瘫”，中央巡视组历数其“贵族化，娱乐化”等罪名之后，有消息称团中央将大幅度缩编人员，其下属的中国青年政治学院也将停止招收本科生。</p>
+<p>而在民间，继房地产大亨任志强挑战共青团，称其口号“共产主义接班人”骗人几十年之后，现在更有北大法学院教授贺卫方等敢言之士呼吁政府取消对团中央的财政支持和人员编制，引起广泛回响。</p>
+<p>共青团系统为何面临从上到下，从内到外的巨大压力？与中国的政治大环境和权力格局有多大关系？在胡耀邦和胡锦涛时代一度鼎盛辉煌的共青团，在今天还有多大的存在价值？</p>
+<p>参加讨论的嘉宾是：中国民间学人，独立评论人士王康先生；中共党史学者、《晚年周恩来》一书的作者高文谦先生；专栏作家，政治分析人士陈破空先生；普林斯顿社会学博士，转型问题学者程晓农先生。</p>
+<p><a href="https://www.youtube.com/v/msAYd7bMGhA?version=3">https://www.youtube.com/v/msAYd7bMGhA?version=3</a></p>
+<p><a title="焦点对话：习近平整肃共青团，意欲何为？" href="http://www.youtube.com/watch?v=msAYd7bMGhA" target="_blank">焦点对话：习近平整肃共青团，意欲何为？</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%95%B4%E8%82%83%E5%85%B1%E9%9D%92%E5%9B%A2%EF%BC%8C%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%93%E5%87%BB%E5%9B%A2%E6%B4%BE/?category=18271" rel="tag">习近平打击团派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E6%B4%BE/?category=18271" rel="tag">团派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA/?category=18271" rel="tag">我们是共产主义接班人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%8C%91%E6%88%98%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">贺卫方挑战共青团</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8%E6%80%BB%E7%BB%8F%E7%90%86%E7%AD%89%E5%9B%A0%E5%8E%BB%E5%B9%B4%E8%82%A1%E7%81%BE%E8%A2%AB%E6%AD%A3%E5%BC%8F%E6%89%B9%E6%8D%95/" target="cdt-mirror">BBC | 中信证券总经理等因去年股灾被正式批捕</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-29-at-%E4%B8%8A%E5%8D%8810.08.34.png?resize=478%2C270" alt="Screen Shot 2016-04-29 at 上午10.08.34" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-29-at-上午10.08.34.png?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-29-at-上午10.08.34.png?w=478 478w" sizes="(max-width: 478px) 100vw, 478px" data-recalc-dims="1"></p>
+<p>中国当局一直在调查有关腐败官员和券商勾结，利用股灾敛财的指控。</p>
+<p><strong>中国官方媒体宣布，经过半年多调查，被指对去年中国股市动荡大跌负有责任的多名中国证券业大佬被正式逮捕。</strong></p>
+<p>新华社周五（4月29日）报道说，被青岛公安机关正式批捕的包括泽熙投资管理有限公司法定代表人、总经理徐翔、中信证券股份有限公司总经理程博明、经纪业务发展委员会行政负责人刘军、权益投资部负责人许骏等人。上述案件均在进一步侦办中。</p>
+<p>中国的《财新网》的分析报道指出，新华社在同一时间、同一消息发布批捕消息，或说明徐翔与中信证券程博明等人案件相关联。</p>
+<p>2015年初，中国沪深股市开始持续上升，逐渐出现所谓“国家牛市”的疯狂上涨乃至失控现象，中国包括官方的媒体多次发文助推。2014年12月31日到2015年6月12日近五个半月里，上证综指骤升60%，而深证成指暴涨122%。</p>
+<p>而6月15日开始，股市全面大跌，虽然政府投入万亿救市，两市仍然暴跌不已。股市市值缩水约5万亿美元，影响严重，甚至冲击全球金融市场。</p>
+<p>之后，中国政府就股灾展开针对金融证券业的反腐调查，参与救市的中国最大券商中信证券高层人员接连受到调查，公司董事长王东明退休。中国证监会的一些高官也因此落马。</p>
+<p><strong>“私募一哥”神话</strong></p>
+<p>这次被正式批捕的中国私募基金的著名人物徐翔曾被业界称为“私募一哥”。2015年，胡润百富榜将徐翔列为身价22亿美元的中国第188位富豪，但一些媒体认为他的财富可能不只公开列出的名义财富。</p>
+<p>徐翔现年39岁，生于宁波。据称他高中开始辍学炒股，成为所谓“中国最成功的对冲基金之一泽熙投资的创始人”。</p>
+<p>他管理下的基金一直取得“令人难以置信的数倍翻番回报”。虽然一直有指控称他与腐败官员勾结，但过去经历多次调查他仍然安然无恙。</p>
+<p>在去年的股灾中，徐翔管理的基金不仅没有受损，个别还超过180%大幅增长。当时就有媒体透露，泽熙持有的一大批股票被“国家队”重仓买入。泽熙旗下的所有基金似乎都在中国股市去年夏末短暂反弹之际清仓，之后中国 股市又一落千丈。</p>
+<p>经济学博士程博明1962年出生，于2001年加入中信证券，并于2012年6月20日担任中信证券董事，担任中信证券国际董事长、中信并购基金董事长、中信产业基金董事。</p>
+<p>2015年9月15日程博明因涉嫌内幕交易、泄露内幕信息被公安机关依法要求接受调查。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/bbc-%E4%B8%AD%E4%BF%A1%E8%AF%81%E5%88%B8%E6%80%BB%E7%BB%8F%E7%90%86%E7%AD%89%E5%9B%A0%E5%8E%BB%E5%B9%B4%E8%82%A1%E7%81%BE%E8%A2%AB%E6%AD%A3%E5%BC%8F%E6%89%B9%E6%8D%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%81%BE/?category=18271" rel="tag">中国股灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%BF%94/?category=18271" rel="tag">徐翔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E7%A5%A8/?category=18271" rel="tag">股票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">证券市场</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%A4%A7%E8%B5%A6%E8%B4%AA%E5%AE%98%EF%BC%9A%E8%A2%AB%E9%87%8D%E8%A7%86%E4%B8%8E%E8%A2%AB%E5%BF%BD%E8%A7%86%E7%9A%84/" target="cdt-mirror">旧闻评论 | 大赦贪官：被重视与被忽视的</a>
 </h2>
 <p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A4%A7%E8%B5%A6%E8%B4%AA%E5%AE%98.jpg?resize=450%2C566" alt="题图当代水墨，作者新浪微博：@秃头倔人" data-recalc-dims="1"><p>题图当代水墨，作者新浪微博：@秃头倔人</p></div>
@@ -143,7 +185,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%B1%E5%B8%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96%87%E7%BD%91/?category=18271" rel="tag">BBC中文网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-135/" target="cdt-mirror">【河蟹档案】小数点的游戏：中堂来了是物价，往后摞是GDP</a>
 </h2>
@@ -161,7 +203,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E9%98%B3%E5%B9%BC%E5%84%BF%E5%9B%AD/?category=18271" rel="tag">华阳幼儿园</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%B0%B8%E5%87%B6%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">大尸凶漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E6%95%B0%E7%82%B9/?category=18271" rel="tag">小数点</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%88%E6%8C%AF%E7%BA%A2/?category=18271" rel="tag">屈振红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E6%89%A7%E7%85%A7/?category=18271" rel="tag">律师执照</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BD/?category=18271" rel="tag">成都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%98%E5%84%BF/?category=18271" rel="tag">托儿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%B8%AD%E5%A0%82/?category=18271" rel="tag">李中堂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%A6%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">浦志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8F%9C%E4%BB%B7/?category=18271" rel="tag">菜价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E5%9B%B0%E9%9A%BE%E6%89%BE%E8%AD%A6%E5%AF%9F%EF%BC%8C%E4%B8%8D%E8%BF%9D%E6%B3%95%E4%BD%A0%E6%80%95%E5%95%A5%EF%BC%9F%E5%A2%83%E5%A4%96%E6%B3%95%E5%87%BA%E5%8F%B0%E8%AE%B0/" target="cdt-mirror">NGOCN｜“有困难找警察，不违法你怕啥？”境外法记者会问答</a>
 </h2>
@@ -731,40 +773,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%96%B0%E8%A7%84%EF%BC%9A%E4%B8%8D%E5%BE%97%E5%AE%A3%E4%BC%A0%E7%82%92%E4%BD%9C%E6%9C%AA%E5%88%A0%E5%87%8F%E7%89%88/" target="cdt-mirror">财经网 | 广电总局新规：不得宣传炒作“未删减版”等概念</a>
-</h2>
-<p><p>近日广电总局出了一份关于进一步规范电视剧及相关广告播出管理的通知，明确规定剧中不得插播广告及节目，不得宣传炒作“完整版”“未删减版”“被删片段”等概念；</p>
-<p>主要包括以下四点内容：</p>
-<p>1、播前审查，重播重审；</p>
-<p>2、片头片尾明确标明发证机关、发行许可证号、电视剧制作许可证号；</p>
-<p>3、不得宣传炒作“完整版”“未删减版”“被删片段”等概念；</p>
-<p>4、剧中不得插播广告及节目；片尾播出演职人员表时不得插播广告</p>
-<p>其实，早在2011年，国家新闻出版广电总局就下发规定，要求每集电视剧中间不得再以任何形式插播广告。</p>
-<p>而在今年2月27日上午举办的全国电视剧行业年会上，各大电视台在分组讨论中纷纷一致表示恢复电视剧中插广告。然而这一诉求并没有得到广电总局的支持。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461744185574.jpg?resize=449%2C559" alt="1461744185574" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461744185574.jpg?resize=241%2C300 241w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461744185574.jpg?w=449 449w" sizes="(max-width: 449px) 100vw, 449px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461744185712.jpg?resize=446%2C583" alt="1461744185712" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461744185961.jpg?resize=445%2C564" alt="1461744185961" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461744185961.jpg?resize=237%2C300 237w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461744185961.jpg?w=445 445w" sizes="(max-width: 445px) 100vw, 445px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461744185326.jpg?resize=451%2C430" alt="1461744185326" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461744185326.jpg?resize=300%2C286 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/1461744185326.jpg?w=451 451w" sizes="(max-width: 451px) 100vw, 451px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%96%B0%E8%A7%84%EF%BC%9A%E4%B8%8D%E5%BE%97%E5%AE%A3%E4%BC%A0%E7%82%92%E4%BD%9C%E6%9C%AA%E5%88%A0%E5%87%8F%E7%89%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E5%87%8F/?category=18271" rel="tag">删减</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E6%9C%AA%E5%88%A0%E5%87%8F%E7%89%88/?category=18271" rel="tag">审查未删减版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B1%9F%E6%B3%BD%E6%B0%91%E8%BF%91%E6%9C%9F%E4%B8%89%E6%AC%A1%E7%BC%BA%E5%B8%AD%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E8%87%B4%E5%93%80%E5%90%8D%E5%8D%95/" target="cdt-mirror">美国之音｜江泽民近期三次缺席中共高层致哀名单</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/09/%E6%B1%9F%E6%B3%BD%E6%B0%91.jpg" rel="attachment wp-att-408472"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/09/%E6%B1%9F%E6%B3%BD%E6%B0%91.jpg?resize=575%2C397" alt="江泽民" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/09/江泽民.jpg?resize=300%2C207 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/09/江泽民.jpg?w=579 579w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>图片来自微信公众号“小老鼠荐歌社”</span></p>
-<p>香港—4月18日病逝的原中国公安部长陶驷驹的遗体送别仪式，星期五在北京举行，包括国家主席习近平及前任胡锦涛在内的十名现任和前政治局常委送献花圈。不过，外界注意到，陶驷驹任上的前国家主席江泽民没有出现在哀悼名单中。据港媒报道，这是江泽民在一个月内第三次在此类中共高层集体露面名单中消失，对外释放的政治信息令人关注。</p>
-<p>此前，前湖北省委书记关广富4月16日去世，致哀的中共高层二十八人中包括习近平、胡锦涛、朱镕基等十六名新老常委，独缺江泽民。而被誉为“歼10战机之父”的宋文骢3月27日遗体告别，习近平、胡锦涛等十三位现任或前常委致哀，也不见江泽民。</p>
-<p>今年81岁的陶驷驹16岁进入公安部工作，1990至1998年担任公安部长，是目前最后一个由公安系统升职的。官方对他的一生高度评价。不过，海外媒体曾报道陶驷驹曾涉贪被查，后因主动交代问题并有“要人”力保，并未倒台，至2009年从人大离休安全“落地”。</p>
-<p>陶驷驹最为港人所熟悉的，是他1992年对港媒发表“香港黑社会也有爱国的”言论，被视为北京统战和招安香港黑帮，要他们确保1997年香港主权顺利回归中国。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B1%9F%E6%B3%BD%E6%B0%91%E8%BF%91%E6%9C%9F%E4%B8%89%E6%AC%A1%E7%BC%BA%E5%B8%AD%E4%B8%AD%E5%85%B1%E9%AB%98%E5%B1%82%E8%87%B4%E5%93%80%E5%90%8D%E5%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E9%95%BF%E8%80%85%E7%BB%AD%E5%91%BD/?category=18271" rel="tag">为长者续命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96/?category=18271" rel="tag">膜蛤文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E8%80%85/?category=18271" rel="tag">长者</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -776,7 +784,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E9%95%BF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -786,5 +794,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E9%95%BF
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

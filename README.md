@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%A4%A7%E8%B5%A6%E8%B4%AA%E5%AE%98%EF%BC%9A%E8%A2%AB%E9%87%8D%E8%A7%86%E4%B8%8E%E8%A2%AB%E5%BF%BD%E8%A7%86%E7%9A%84/" target="cdt-mirror">旧闻评论 | 大赦贪官：被重视与被忽视的</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E5%A4%A7%E8%B5%A6%E8%B4%AA%E5%AE%98.jpg?resize=450%2C566" alt="题图当代水墨，作者新浪微博：@秃头倔人" data-recalc-dims="1"><p>题图当代水墨，作者新浪微博：@秃头倔人</p></div>
+<p>在媒体追逐陈忠实离世的时候，有一条被忽略的新闻离大众的视线更远了，那就是最高法颁行的司法解释，对经济犯罪的量刑标准加以调整。这个调整幅度之大，影响面之广，竟然在舆论中毫无声响，也是让人意外，这届人民果然是不行的，抑或人民城府很深。</p>
+<p>这次量刑调整，入罪的起点从5000变成了3万，3万至20万，拘役或3年以下有期；十年以上徒刑的起点从10万上浮为300万；2000万至1亿，无期；1亿以上，一般不判死刑立即执行，可判处死缓。对贪官一般不适用死刑，以及调整十年刑的标准，近似大赦。</p>
+<p>在这个事之前，曾经在抗战胜利七十周年的时候搞过一次大赦，但具体放了多少人，数据不甚清楚。但相较于这次大赦，拉升量刑标准，间接造成大赦贪官的这次，恐怕数以万计不在话下。更为关键的是，它将贪官纳入了保险箱，所谓刑不上大夫，不算夸张。</p>
+<p>可以想象一下这个场面：许多三万元以下的待决官员等于听到福音，等待当场释放的美好时刻。而涉及金额动辄以千万、亿计的贪官也吃下了一颗定心丸，免死了，贪污款项变相地等于坐牢酬报。这样的好事，与平民财产型犯罪等原封不动的量刑案值形成了鲜明反差。</p>
+<p>为何出台这么个量刑调整办法，一直是让人猜疑的。通过拉高量刑标准，来减少特定罪犯，也可以为下游的监狱减少压力，这当然是直接的效果，却不一定是真实的目的。在某种程度上，它更像是官官相卫的成果之一，保卫官僚体系不受被最低限度的司法惩治所席卷。</p>
+<p>也就是说，在现有的量刑标准下，贪官数量激增，将会带来不可预料的政治影响。同时，贪官的涉案金额越来越庞大，如果以胡长清500万死刑、成克杰4000万死刑作为量刑参照，不知道有多少省部级以上高官会被处以极刑。量刑调整，从根本上避免出现这些难题。</p>
+<p>无期徒刑将会是一个定格的量刑，无论谈多少千万、多少亿元，最坏的结果是把牢底坐穿——而参照现实的运作，这也是要打个问号的。所以，量刑标准的大幅度调整更像是个政治问题，而不是单纯的司法考量。因此，其结果也无法用司法公平来衡量。</p>
+<p>对贪官的“大赦”，对平民财产型犯罪量刑数额不变，重写了刑法上一直强调的宽严相济原则。可以想象，当这套量刑标准公之于众的时候，一定是怀着极度不安的心情，预设了强烈的舆论反应之类。然而，大众反应平淡，并没有谴责量刑调整显见失衡的后果。</p>
+<p>公众的这种反应，与其说是有关方面舆情应对的结果，不如说是社会心态的真实写照。人们不再在乎你这个政府又做了什么小动作，也不在乎这种动作会导致什么更坏的后果，他们可能就抱着一种心态：反正我拿你没办法，而且，反正你自己最终兜不住。</p>
+<p>所以，在量刑调整的舆论冷淡反应的背后，暴露了官民之间深重的裂痕。前者因应现实做出自卫式政策、司法及管制，是一种现在时态下的反应。但是在民众那里，他们只管盯住一种必然的未来，对按需调整的现实予以“忽视”，谁能说得清这是更深的诅咒还是别的什么？</p>
+<p>2016/4/29</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E5%A4%A7%E8%B5%A6%E8%B4%AA%E5%AE%98%EF%BC%9A%E8%A2%AB%E9%87%8D%E8%A7%86%E4%B8%8E%E8%A2%AB%E5%BF%BD%E8%A7%86%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B5%A6%E8%B4%AA%E5%AE%98/?category=18271" rel="tag">大赦贪官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%B0%91%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">官民矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8F%E5%88%91/?category=18271" rel="tag">量刑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E6%80%BB%E7%90%86%E5%95%8A%EF%BC%8C%E4%BD%A0%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E6%81%A9%E4%BA%BA%EF%BC%8C%E5%97%A8%E5%97%A8%E5%97%A8%EF%BC%81/" target="cdt-mirror">【CDTV】总理啊 你就是我们的大恩人 嗨嗨嗨！</a>
 </h2>
 <p><p>2016年4月24日，四川成都龙门古镇“新龙门客栈”前，以一对中年男女为首的大量“当地群众”围着李克强边拍边唱，煞是热闹。</p>
@@ -743,45 +765,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E9%95%BF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B0%B1%E6%83%B3%E5%8F%AB%E6%82%A8%E4%B8%80%E5%A3%B0%E4%B9%A0%E5%A4%A7%E5%A4%A7/" target="cdt-mirror">德国之声｜长平：人民就想叫您一声“习大大”</a>
-</h2>
-<p><p><strong>有媒体报道中共禁用”习大大”。时评人长平认为，首先是权力结构，其次才是个人性格，决定了个人崇拜必然出现。</strong></p>
-<p><img src="http://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt.jpg" alt="" width="440" height="303"><br>
-网络图片</p>
-<p>（德国之声中文网）香港《明报》报道说，中共中央近日下发文件，禁止使用”习大大”来称呼”习近平同志”。法国国际广播电台披露，此指令至少已在政法委所辖媒体及新华社系统传达。</p>
-<p>报道说，这份文件还要求，对”核心”的用法不要泛化，习近平权位的标准表述为”以习近平同志为总书记的党中央”。</p>
-<p>今年3月初，美国《明镜邮报》曾报道说，习近平对党媒刻意塑造他的个人形象很不满意，明确要求：不要叫我”习大大”。”第一夫人”彭丽媛也对媒体的阿谀奉承也不买账，不想当全国人民的”彭麻麻”。</p>
-<p>“大大”是中国西北、华北及部分西南地区乡村方言，意指父亲或者父亲的兄辈。借助互联网”卖萌”之名，”习近平同志”成了全民的父亲或伯伯，他的妻子彭丽媛则成了母仪天下的”彭麻麻（妈妈）”。</p>
-<p>习近平以”领导小组”的名义重振朝纲，独揽大权，对”习大大”的各种歌功颂德遍及网络。今年初，多个省委书记表态”坚决维护习近平总书记这个核心”。人们担心狂热崇拜领导人的”文革”历史重演。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019146647_40100.jpg" rel="attachment wp-att-436002"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019146647_40100.jpg?resize=550%2C310" alt="0,,19146647_401,00" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019146647_40100.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/019146647_40100.jpg?w=700 700w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>这些报道有两个方面的暗示：一是中南海内部斗争激化，”这个核心”没有站稳，”习大大”遭到反对。二是”习近平同志”其实比”习大大”思想开明，头脑清醒，意志坚定，为了把中国人民带向民主自由的未来，一直同身边潜伏的各种小人作斗争。</p>
-<p>无论是哪种情况，都认为叫停”习大大”是一个信号，标志着习近平个人崇拜之风终于停歇了。</p>
-<p>跟海外媒体形成对比的是，作为”党的亲儿子”的新华社，不仅没有证实”习近平同志”不喜欢”习大大”，而且被写入正式报道的”习大大”并没有要清除的意思。例如，2015年9月9日教师节，习近平走访北京师范大学，来自贵州遵义的教师刘轶问：”总书记，我叫您’习大大’可以吗？”习近平爽快地回应说”YES”。看到北师大同学打出标语”习大大辛苦了”，习近平 “会心地笑了起来”， “还一直说’好好好'”。</p>
-<p><strong>父权与专制同构</strong></p>
-<p>我并不因此认为，”习近平同志”不买”习大大”的账，完全没有可能。翻手为云覆手为雨，正是专制者的通常性格。</p>
-<p>和诸多专制政权或官僚体制一样，官衔和等级在中共体系至关重要。同时，小朋友被引导称领导人为”爷爷”、”伯伯”、”奶奶”或”妈妈”。这是因为，父权与专制同构，互为表里。</p>
-<p>1958年9月，毛泽东亲笔写信给刘少奇、周恩来等中共领导人，建议对领导人”一律称某某同志”，并详细举例说，”例如：主席，称毛泽东同志；总理，称周恩来同志；林总，彭总，贺总，称林彪同志，彭德怀同志，贺龙同志。其他，以此类推。”</p>
-<p>然而，这并不是什么中共转向民主自由的信号。几年之后，文革爆发，毛泽东作为全民父亲的形象塑造达到高峰，”好儿女”们以”捍卫”他的名义互相残杀。在小学教科书中，周恩来仍然是”周伯伯”，邓颖超仍然是”邓妈妈”。</p>
-<p><strong>“儿子”把持”爷爷”的权力</strong></p>
-<p>邓小平上台之后，以”功过三七开”的定论，维持了毛泽东的父亲形象，只不过就像古代很多皇帝一样，是一位”晚年犯了错误”的父亲。邓小平由此提出”反对个人崇拜”，并自称”我是中国人民的儿子”，完成了颠覆毛泽东指定接班人华国锋权力的”合法”论述。</p>
-<p>在1978年12月召开的中共十一届三中全会上，邓小平保留了毛泽东时代的老规矩，强调”党内一律互称同志，不要叫官衔。”假如叫官衔，没有在名义上当过最高领导人的他，垂帘听政时大概没有”小平同志”这么顺耳。</p>
-<p>不过，”人民的儿子”并不介意人民称他为”邓爷爷”。他钦点的中共总书记们，也同时享有”同志”和”爷爷”的称谓，”儿子”反倒成了他独占的殊荣。并非像媒体所塑造的那样，这是因为他谦虚。事实上，这个”儿子”把持了至少四个”同志”及”爷爷”的权力。</p>
-<p><strong>不叫”大大”叫啥呢？</strong></p>
-<p>习近平上台之后，”儿子”的阴影逐渐散去，让他比两个前任更有机会塑造个人形象。独揽大权之后，无论他愿意还是不愿意，个人崇拜都必然产生。和很多分析家看法不同，我认为这首先取决于权力结构，其次才是个人性格。</p>
-<p>历史告诉我们，无论是怎样的专制者，宣传机器的任务都是为他塑造个人崇拜的形象。由于这种形象违背常识和人性，它也是自然的”高级黑”。但是，倘若以为宣传官员刻意”黑”之，不是对专制体制的无知，就是在和它演”双簧”。</p>
-<p>很多支持习近平的国际时尚人士也不满意”习大大”。在”亲民包子秀”之后，习近平在网络间获得绰号 “包子”–省略了民间这一称呼前面的”土”字。”习大大”的问世，更让人觉得这个”土”字不需要提了。</p>
-<p>力图摆脱”人民儿子”邓小平的阴影，向精神父亲毛泽东看齐的习近平政权，最大的宣传障碍就是伴随着思想贫乏的词语贫乏。很有可能，习近平既嫌”习近平同志”过时，也觉得”习大大”土气，甚至不愿意重复老套的”核心”，他还没有找到合适的称谓。</p>
-<p>至于个人崇拜，跟叫停什么称谓没有关系。惟有改变权力结构，它才有可能不成为祸害。</p>
-<p>接受专制教育的广大人民，发自肺腑地，就想叫他一声”习大大”。</p>
-<p><em>长平是中国资深媒体人、时事评论作家，现居德国。</em></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E4%BA%BA%E6%B0%91%E5%B0%B1%E6%83%B3%E5%8F%AB%E6%82%A8%E4%B8%80%E5%A3%B0%E4%B9%A0%E5%A4%A7%E5%A4%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7%E7%A7%B0%E5%91%BC%E8%A2%AB%E7%A6%81/?category=18271" rel="tag">习大大称呼被禁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AD%90%E5%B8%9D/?category=18271" rel="tag">包子帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E5%8A%9F%E9%A2%82%E5%BE%B7/?category=18271" rel="tag">歌功颂德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E8%A2%96%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">领袖崇拜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -793,7 +776,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -803,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%9C%9D%E9%B2%9C%E8%AE%A4%E7%9C%9F%E7%8E%A9%E6%A0%B8%E6%84%8F%E5%91%B3%E8%91%97%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">端传媒 | 朝鲜认真“玩核”意味著什么？</a>
+</h2>
+<p><p>特约撰稿人：金珍镐 发自韩国首尔</p>
+<blockquote><p>朝鲜在军备发展上动作频频，潜射弹道导弹试验更获国际社会承认成功，这将给东北亚地区再添不安全因素。</p></blockquote>
+<p>韩国国防部说，朝鲜28日上午试图二度发射1枚舞水端中程弹道飞弹，但失败收场。 而在本月23日，韩联社援引韩国联合参谋本部的消息称，朝鲜当天下午6时30分许在咸镜南道新浦市向朝鲜半岛东北方向海域，发射疑为潜射弹道导弹（SLBM）的1枚飞行物。</p>
+<p>朝中社24日报道，朝鲜日前再次发射潜射导弹并自称成功。之后，韩、美、日政府也发表声明，承认这次发射部分成功。</p>
+<p>朝鲜潜射弹道导弹（SLBM）的技术开发和发射试验，证明朝鲜在核遏制力和突发性攻击能力战略水准上，有了很大提升。朝鲜核武器开发及其准备布置的内容，让韩、美、日三国等周边国家有些担忧。针对朝鲜的核武器威胁，韩国保守派甚至主张在韩国布置相关防御系统和核武器。</p>
+<p>报道说，金正恩对这次发射训练结果表示满意。</p>
+<blockquote><p>金正恩说，此次试验的成功标志着朝鲜核攻击力又有所增强，朝鲜海军水下作战能力得到显著强化，今后朝鲜可在任何时候对韩美进行水下攻击。</p></blockquote>
+<p>2015年5月9日，在俄罗斯举行卫国战争胜利70周年阅兵式当天，朝中社发布一组金正恩视察“北极星1号”潜射弹道导弹水下发射试验的照片。这组照片在国际上引发了巨大回响。</p>
+<p>潜射弹道导弹由潜艇携带，可在水下发射攻击敌国目标。由于潜艇的隐蔽性，潜射弹道导弹是生存能力最强的战略武器，这也是五个核大国二次核反击能力的支柱，英法两国甚至干脆将所有洲际导弹交由核潜艇携带。</p>
+<p>朝鲜如果掌握弹道导弹潜射技术，即便其导弹射程较小，没有核潜艇，但美国及其盟国也很难通过空中打击来剥夺朝鲜的核攻击能力。因此，当时朝鲜领导人金正恩表示：“此次成功试射，是不亚于发射人造卫星的惊人成就。”不过在当时，朝鲜的潜射导弹技术层级却受到很多质疑。在首次试射中，朝鲜的潜射导弹仅飞行了180米，且由当时公布的图片显示来看，朝鲜的潜射导弹出水角度过小，预示着其水下弹道计算存在问题。</p>
+<p>但是本次朝鲜的潜射导弹出水角度大，比较正常，水下弹道计算应该没有问题，因此可以说朝鲜已经攻克了潜射弹道导弹正确姿态出水方面的技术难关，而且本次飞行距离达到30千米。从公布的照片来看，导弹发动机火焰属实，且能够在出水后适时顺利点火，这足以显示出朝鲜在潜射导弹方面的成就是惊人的。也因此可以推知，在今后的时间里，朝鲜只要再在潜射导弹发动机技术层级上有所突破，其潜射导弹飞行更远的距离，是没有问题的。</p>
+<p>此次朝鲜进行潜射导弹发射使用的是“新浦”级潜艇（在新浦港被拍到，由此命名），长约65米，宽6.6米，排水量约1500吨。据推测，“新浦”级潜艇只能携带一枚“北极星1号”潜射弹道导弹。但是如果朝鲜可以解决潜射导弹发动机问题，其潜射弹道导弹先期具备1000至1500千米的射程是没有问题的。 这意味著朝鲜潜射弹道可直接威胁韩国、日本和关岛等地的安全。而按照朝鲜接连攻克潜射弹道导弹技术难关的研发步伐来看，进行全状态试验弹试射并不遥远。</p>
+<blockquote><p>美韩此次也一改以往的讥嘲态度，都对朝鲜的行为表示密切关注。</p></blockquote>
+<p>通过此次潜射来看，朝鲜所掌握的技术可以说有很大提高。相对于其他掌握此项技术的国家所耗用的时间和资金来看，朝鲜所取得的突破着实很惊人。</p>
+<p>此次潜射导弹实验之后，联合国和各方都对朝鲜行为表示谴责。日本防相中谷元24日在东京向媒体表示，“若是可抵达我国领域和周边海域的弹道导弹能力有所增强，就要予以强烈关注。”中谷同时强调，“朝鲜正在努力加强包括新的导弹研发在内的军事实力。要保持高度关注，加强信息收集与分析工作以策万全。”他称此次发射没有影响日本安全。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/402ba2c162ad4d6c84ba18e9ae4fff0f.gif?resize=550%2C367" alt="402ba2c162ad4d6c84ba18e9ae4fff0f" data-recalc-dims="1"><br><span>朝鲜核武器射程覆盖地区变化图制图：端传媒设计部</span></p>
+<p>俄罗斯卫星网23日援引俄联邦海军总司令部前任司令维克多·克拉夫琴科的话称，朝鲜从潜艇上发射弹道导弹的行为，证明朝鲜在导弹技术领域取得了进展。他同时补充道，朝鲜进行导弹试验的行为对于俄罗斯而言是一种威胁。美国《纽约时报》称朝鲜的说法是“典型的夸大其词”，但是却不敢忽视朝鲜所取得的进步。美国总统奥巴马24日批评朝鲜仍在从事持续挑衅性举动，他表示已就对朝施压与中国展开合作，虽然合作尚未达到期待的水平。</p>
+<p>很显然，面对史上最严厉的制裁，朝鲜并未退缩，金正恩依然在我行我素。朝鲜潜射导弹发射当天，正在纽约参加联合国会议的朝鲜外务相李洙墉接受美联社采访，表示若美韩两国停止每年在朝鲜半岛进行的联合军演，朝鲜愿以停止核试验作为回应。</p>
+<p>朝鲜“玩核”的确很认真，东北亚未来国际局势也不透明，东北亚不安因素急速增加，制裁朝鲜是唯一解决朝核问题的方案吗？</p>
+<p>（作者为檀国大学政治外交系系主任）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%9C%9D%E9%B2%9C%E8%AE%A4%E7%9C%9F%E7%8E%A9%E6%A0%B8%E6%84%8F%E5%91%B3%E8%91%97%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E5%8D%8A%E5%B2%9B/?category=18271" rel="tag">朝鲜半岛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E6%A0%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝鲜核问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 27分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%95%B4%E8%82%83%E5%85%B1%E9%9D%92%E5%9B%A2%EF%BC%8C%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA%EF%BC%9F/" target="cdt-mirror">【CDTV】美国之音：习近平整肃共青团，意欲何为？</a>
 </h2>
 <p><p>素有中共“后备军”之称的共青团最近似乎陷入了四面楚歌的状态。继习近平怒斥其“高位截瘫”，中央巡视组历数其“贵族化，娱乐化”等罪名之后，有消息称团中央将大幅度缩编人员，其下属的中国青年政治学院也将停止招收本科生。</p>
@@ -732,47 +762,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-20/" target="cdt-mirror">【网络民议】打得起车你都不爽了，当初说好的共同富裕呢？</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5.jpg" rel="attachment wp-att-436017"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5.jpg?resize=550%2C377" alt="深圳禁摩限电" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/深圳禁摩限电.jpg?resize=768%2C526 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/深圳禁摩限电.jpg?w=983 983w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>深圳不久前“<a href="http://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5/" target="_blank">禁摩限电</a>”的“成果”（<span><a href="http://www.itdcw.com/news/focus/0403595A2016.html" target="_blank">图片来源</a></span>）</span></p>
-<p><strong><a href="http://news.xinhuanet.com/legal/2016-04/27/c_1118754570.htm" target="_blank">新华社｜多地整治网约车探索“规范路径” 各方期待“顶层设计”明确发展方向</a></strong></p>
-<blockquote><p>另一方面，为抢占市场，打车软件一直打“补贴战”。据业内披露的数字，２０１５年易到用车、优步和滴滴快的等平台企业在乘客补贴上“烧掉”约２００亿元。这一模式一度让网约车司机收入颇高，也给消费者带来一场低价打车盛宴。</p>
-<p>中国交通运输经济研究中心副主任李红昌说，过度依赖补贴恐不可持续，司机和乘客都形成习惯，一旦补贴少了或者没有了，就会不适应。<br>
-[…]<br>
-交通运输部相关负责人表示，<strong>网约车属于公共交通的一部分，但却是相对高端的公交服务，不是说应该让每个人都能打得起车。公交地铁才是城市公共交通的基本服务，把网约车当成代步工具的定位有问题。</strong></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1259977680" target="_blank">@三水淼fishandfish</a>：这届人民真的太差了，是的，网约车也不配坐！<img title="[怒]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2262263940" target="_blank">@王健_经济金融科普</a>：如果市场可以让每个人都坐得起车，而政府跑出来强行不让坐，那才是出了问题<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p>@李大寻欢：我觉得你们……定位都有问题</p>
-<p><a href="http://weibo.com/xlong0913" target="_blank">@xlong0913</a>：交通部的大爷都不用打车吧<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p>@半边儿脸笑：哦对了，凭什么呀？！不让买车，坐坐车也不行么？还特么不该坐得起，房价你们是不是也这么想的？某些屁民就不该买得起房子！那是高端消费！</p>
-<p><strong>@Sky的水色放逐：汽车不让开，摩托车不让骑，小电驴上路就被抓，公共交通系统不发达，出租贵且难打，现在就连滴滴也不让坐了！来，交通部的领导们请你们高速我怎么出行？11路吗？请你们带头每天乘坐公共交通出行，身先士卒给百姓看看！</strong></p>
-<p><strong>@谢瑾forward_rush：我真是服，政府想的不是降低居民生活成本提高生活质量，反而要让居民生活走下坡路，如果政府把整个公共交通建设完善，让居民出行便捷方便舒适，它有资格这样说，但是现在公共交通简陋人员拥堵，它有什么资格这样要求</strong></p>
-<p><a href="http://weibo.com/wwgood" target="_blank">@富晴su</a>：<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">穷人活该挤地铁公交是么？如果这些方便，我打车干嘛，装大款？</p>
-<p><a href="http://weibo.com/2098390077" target="_blank">@辩才无碍邓小闲</a>：不应该让每个人都打得起车，不应该让每个人都买的起房，不应该让每个人都上的起厕所<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/liuyangshuo" target="_blank">@刘洋硕</a>：农业部：不该让每个人吃得起饭。卫生部：不该让每个人看得起病。民政部：不该让每个人火得起化…<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1763475400" target="_blank">@苑子in院子</a>：地铁。。大多数城市根本没地铁，有的也才1.2条根本解决不了问题好吗。。你等地铁全部修完再来说这话吧到时不用你劝我都会坐地铁<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p>@头大的baicai：如果地铁公交很方便，我也不会花钱去打车。现在不去改善公共交通服务，反而去打击提供服务的网车。另外还说不应该让每个人都打得起车，尼玛当年还说共同富裕，现在车都不能坐，呵呵了</p>
-<p>@sparkling0902：切！就是老百姓就应该挤公交，打车不是你这个阶层干的事。神逻辑。</p>
-<p>@找不到我09：太可怕，打个车还要分等级</p>
-<blockquote><p>@残夜yj：图片评论<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8eaa5b45gw1f3bjkjvtd0j20jg0aymzc.jpg" rel="attachment wp-att-436013"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8eaa5b45gw1f3bjkjvtd0j20jg0aymzc.jpg?resize=400%2C225" alt="8eaa5b45gw1f3bjkjvtd0j20jg0aymzc" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8eaa5b45gw1f3bjkjvtd0j20jg0aymzc.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/8eaa5b45gw1f3bjkjvtd0j20jg0aymzc.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p></blockquote>
-<p>@沙漠蒲公英jack：草，还不让我们享受便宜出行了</p>
-<p>@HolaAslan：呵呵呵，别的我不想说，我只想说操你妈！中国人民买车贵，加油贵，现在约个车都不让了？屁民就只能去挤地铁挤公交是吧？花钱坐车都不行了？人家愿意载就行了，管那么多干嘛？我再说一遍，操你妈！</p>
-<p>@李继锋：“不是什么人都可以享受特供！”</p>
-<p>@贤雲：就现在出租车的服务水平还定位高端，这些官员还活在八十年代吧！</p>
-<p>@草原哥在追波：打得起车你都不爽了，当初说好的共同富裕呢？</p>
-<p>@美美男是个大富婆：交通部广电部就喜欢瞎BB！人民还说不是每个部门都该存在，你们就自我注销得了！瓜娃子</p>
-<p>@乱云深处：不能让每个人都吃得起饭，买得起房，生得起娃，我们要宏观调控，把利益调控到我们管理者的荷包里，所以一个司长都能贪上亿，这个国家牛气</p>
-<p><a href="http://weibo.com/1497329053" target="_blank">@Dannytan130</a>：从没见过这么不要脸的ZF<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"><img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"><img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1">。愣是把不要脸拼到了一个新高度<img title="[怒]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]" data-recalc-dims="1"></p>
-<p>@猫猫不吃鱼y：看到大家都在骂你，我都不知道骂什么了，怕重样……</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-20/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A%E9%83%A8/?category=18271" rel="tag">交通部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%BD%A6%E8%BD%AF%E4%BB%B6/?category=18271" rel="tag">打车软件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E7%A6%81%E6%91%A9%E9%99%90%E7%94%B5/?category=18271" rel="tag">深圳禁摩限电</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -784,7 +773,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -794,5 +783,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A4%E9%80%9A
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%AB%A0%E5%AE%B6%E6%95%A6%EF%BC%9A%E4%B9%A0%E6%9D%8E%E5%88%86%E6%AD%A7%E5%85%AC%E5%BC%80%E5%8C%96/" target="cdt-mirror">美国之音 | 章家敦：习李分歧公开化</a>
+</h2>
+<p><p>华盛顿—美国的中国问题学者说，中国国家主席习近平和总理李克强间的政治分歧日渐明显，顶层政治斗争渐趋公开化。不过，也有美国学者认为，习近平可能会在决策上做出重大让步，中国当局似乎能够控制局面。</p>
+<p>中国国务院总理李克强险遭车祸传闻发酵之际，中国观察人士透视习李一系列政治纠葛。</p>
+<p>美国的中国问题学者章家敦说，前不久两会期间，习近平对李克强的政府工作明显缺乏兴趣。他对美国之音说：“我们当然认为，习李关系两会期间很糟糕。有报道说，李克强做政府工作报告前见了习近平，见面气氛紧张，进行不顺利，这也许是李克强做报告期间习近平没有鼓掌的原因之一。”</p>
+<p>章家敦4月24日在福布斯杂志上发表的文章认为，李克强最近视察清华与北大是其政治地位迅速上升的标志之一。与此同时，中国青年政治学院（前身为“中央团校”）将取消本科教育，被认为是中共太子党斩断团派仕途天梯的行动，矛头指向李克强等团派大佬。另外，最近中国还出现劝习近平辞职的“神秘呼声”。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-28-at-%E4%B8%8B%E5%8D%884.56.20.png?resize=316%2C423" alt="Screen Shot 2016-04-28 at 下午4.56.20" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-28-at-下午4.56.20.png?resize=224%2C300 224w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-28-at-下午4.56.20.png?w=316 316w" sizes="(max-width: 316px) 100vw, 316px" data-recalc-dims="1"><br><span>中国问题评论家章家敦（美国之音申华拍摄）</span></p>
+<p>章家敦的文章说，习近平的反对派可能没有组织起来，但是他们几乎无处不在。习近平没有消灭这些反对者，只是把他们被赶到地下。随着这位“全面主席”政策的失利，反对派蠢蠢欲动，现在只等毛泽东所说的“星火燎原”，而经济是中国迫在眉睫需要解决的难题之一。章家敦最后说，中国没有数十年解决经济难题的时间，要么只有一年，至多也许两年。</p>
+<p>章家敦因《中国即将崩溃》一书受到争议，他对中共顶层政治动向的最新观察，是否可视为是《中国即将崩溃》一书的续篇？章家敦对美国之音说：“当然可以这样看，我是把它作为晚期中共政权演变的一个自然过程。大家看到，中共高级领导人彼此争斗，并暴露在光天化日之下。我认为，可以这样说， 这是共产制度不可避免的一个结局。”</p>
+<p>彭博新闻4月14日报道，中国2016年第一季度GDP比去年同期增长6.7%，达到接受彭博社调查的经济学家的中间预期，同时也与中国政府提出的2017年全年增长6.5-7%的目标相符，尽管负债累累的经济发展模式继续令人质疑。</p>
+<p>迈阿密大学政治学者，“对外政策研究所”亚洲项目资深研究员金德芳（June Teufel Dreyer）最近撰文，分析习近平和李克强等的微妙政治关系的来龙去脉。她说，最近的一系列事件将迫使习近平在决策方式上更加注重“共识”。她对美国之音说：“我认为，中国政府现在能够处理各种不满。我想，习近平很有可能被迫向反对派做出重大妥协和让步。”</p>
+<p>金德芳的文章还说，对于希望中国逐渐脱离强人统治，走向政治多元的人来说，习近平独裁统治遭遇抵制固然是好消息。但是也有分析人士认为，没有强有力的领导人带领中国进行“痛苦的结构改革”，实现经济更加健康的发展，中国接下来的路最终还是走不远，这是没有强人领导的“不利一面”。金德芳说，中国政局最终演变结果如何正在为各方密切关注。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%AB%A0%E5%AE%B6%E6%95%A6%EF%BC%9A%E4%B9%A0%E6%9D%8E%E5%88%86%E6%AD%A7%E5%85%AC%E5%BC%80%E5%8C%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%A9%E6%BA%83%E8%AE%BA/?category=18271" rel="tag">中国崩溃论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%86%85%E6%96%97/?category=18271" rel="tag">习李内斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%88%86%E8%A3%82/?category=18271" rel="tag">习李分裂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E5%AE%B6%E6%95%A6/?category=18271" rel="tag">章家敦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%BE%B7%E8%8A%B3/?category=18271" rel="tag">金德芳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%B2%EF%BC%8C%E6%82%A8%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E7%9A%84%E6%83%85%E5%86%B5%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B7%B2%E5%8F%8D/" target="cdt-mirror">【立此存照】亲，您患癌去世的情况百度推广已反馈核实</a>
 </h2>
 <p><p>【编者注】魏则西大二时被诊断为滑膜肉瘤。两个多月前，他在回答知乎问题“<a href="https://www.zhihu.com/question/26792975/answer/88170767" target="_blank">你认为人性最大的「恶」是什么？</a>”时讲述了遭<a href="http://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/" target="_blank">百度竞价排名</a>推广的医院所欺骗的经历。2016年4月12日，魏则西去世。近日有微博用户（<a href="http://weibo.com/foxpupu" target="_blank">@孔狐狸</a>）提及此事，称欺骗魏则西的医院（北京武总二院）仍在百度搜索结果中排首位。<span title="百度推广客服官方微博">百度推广客服官方微博帐号<a href="http://weibo.com/n/%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B0%8F%E5%BA%A6%20target=">@百度推广小度</a>随后却用“卖萌”的语调回复了此事，让人大跌眼镜。</span></p>
@@ -710,21 +730,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%85%E9%A1%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-134/" target="cdt-mirror">【河蟹档案】官媒又闹乌龙：新加坡出了个总书记</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%91%E6%98%93%E8%87%AA-%E7%94%B1%E8%93%9D%E8%8E%B2%E8%8A%B1">网易自-由蓝莲花</a>：一字不差，全文转载。[笑哈哈][笑哈哈][笑哈哈]<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.jpg?resize=504%2C896" alt="111" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.jpg?w=750 750w" sizes="(max-width: 504px) 100vw, 504px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3968237228431524" target="/weibo/396">2016年04月25日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%AE%B0%E8%80%85%E7%AB%99%E7%BD%91">记者站网</a>：【新闻自由指数排名发布，中国居倒数第五】无国界记者组织4月20日公布2016年世界新闻自由指数。新闻自由度最高的前三名分别为芬兰、荷兰和挪威。中国持续位于世界新闻自由的黑暗区，排名第176，倒数第五名。台湾的新闻自由度位于亚洲之冠，排在第51。美国排名第41位，韩国排第70位，日本排第72位。<em><em>相关阅读｜《<a href="http://www.voachinese.com/content/world-press-freedom-index-20160419/3293395.html">美国之音<em><em>｜</em></em>2016世界新闻自由指数出炉 中国持续倒数第五</a>》；《<a href="http://rsf.org/en/ranking#">记者无国界<em><em>｜2016</em></em>新闻自由指数完整排名</a>》</em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.png?resize=508%2C286" alt="111" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.png?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111.png?w=640 640w" sizes="(max-width: 508px) 100vw, 508px" data-recalc-dims="1"><br></p><p><a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-134/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3966664716471214" target="/weibo/396">2016年04月21日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%94%A8%E6%88%B75890704310">用户5890704310</a>：什么是信仰坚定？人民书记就是！在父亲的葬礼上高唱《国际歌》，特色之后，你是唯一[心][心][心]！ <em>相关阅读｜《<a href="http://tuku.news.china.com/history/html/2013-05-29/216244_2355001.htm#pic">老照片图库<em>｜</em>2007年薄一波追悼会:红二代云集</a>》</em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-1.jpg?resize=480%2C477" alt="薄熙来" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-1.jpg?resize=300%2C298 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-1.jpg?w=540 540w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3967884830710087" target="/weibo/396">2016年04月24日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%BB%8E%E6%B4%A5%E5%B9%B3%E8%80%81%E5%B8%88">黎津平老师</a>：今天我在北师大将为100多位中小学校长讲授法律问题，大家有啥说的？<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-2.jpg?resize=529%2C395" alt="111" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-2.jpg?resize=300%2C224 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/111-2.jpg?w=597 597w" sizes="(max-width: 529px) 100vw, 529px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3967695273161082" target="/weibo/396">2016年04月24日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-134/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">“新加坡总书记”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?category=18271" rel="tag">Papi酱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">人民日报通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%AD%8C/?category=18271" rel="tag">国际歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1%E6%8E%92%E5%90%8D/?category=18271" rel="tag">新闻自由排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BA%A2/?category=18271" rel="tag">网红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E4%B8%80%E6%B3%A2/?category=18271" rel="tag">薄一波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%96%84%E7%86%99%E6%9D%A5/?category=18271" rel="tag">薄熙来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E6%97%A0%E5%9B%BD%E7%95%8C/?category=18271" rel="tag">记者无国界</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -736,7 +741,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8A%A0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -746,5 +751,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8A%A0
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

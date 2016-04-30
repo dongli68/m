@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A-%E5%8F%8D%E5%AF%B9%E7%9A%84%E9%81%93%E8%B7%AF-%E4%BB%8E%E6%9E%97%E6%98%AD%E5%88%B0%E9%83%AD%E9%A3%9E%E9%9B%84/" target="cdt-mirror">东网 | 莫之许： 反对的道路 从林昭到郭飞雄</a>
+</h2>
+<p><p>4月29日是林昭逝世48周年，近年来，一些民间抗争者发起了每年林昭忌日的祭拜活动，参与人数一度有扩大之势，今年也不例外，也有一些人士试图前往苏州灵岩山的林昭墓进行祭拜。在冻结时代，可以想象，这样的尝试也会变得越发艰难：先期前往苏州的朱承志先生，被苏州警方拘押一天后，被扔在浙江长兴县某村口；沈良庆先生准备前往无锡探望友人，也被看作是试图暗渡陈仓前往苏州，而被拘押一天。或许，今天寥落的灵岩山，显示出了当局打压、冻结民间社会的阶段性成果。</p>
+<p>也就是这两天，一位堪与林昭媲美的当代抗争者的命运也引起了广泛的关注。郭飞雄（真名杨茂东）的姐姐在近日探望后披露，郭飞雄目前身处医院，身体状况极其糟糕，而没有得到应有的诊断和治疗，其生命处于危险之中。这一危急状态，随即引发了广泛的关注，一些活动人士也随即发起了紧急联署《关于立即对郭飞雄进行诊断治疗的紧急呼吁书》，短时间内获得了近千人的支持，然而，到目前为止，郭飞雄仍没有能够获得应有的诊断和治疗，相关的关注活动势必还需要进行下去。</p>
+<p>在大陆长达67年的专政统治中，从来都不缺乏反对者的存在，可谓不绝如缕。在改革时代前的“竹幕”之下，除了林昭等极少数人士，反对者的存在和事迹不仅在当时不为人所知，即使在文革后，也鲜有人提及。改革时代后，政治恐惧相对消散，国门也半遮半掩地打开，反对者的存在也开始不再随生随灭，而被外界关注者所记录，在境内也获得了一定存在的感知度，尤其是网络时代以来，借助互联网的无远弗届和即时传播功能，有更多的人开始了解到反对人士的存在，从魏京生到刘晓波，从胡石根到刘贤斌，从高智晟到郭飞雄，他们的名字不再是不能出口的“伏地魔”。</p>
+<p>不过，以人口比例而论，对反对群体有所了解的仍是极其少数，而且即使是这少数人，也大多只能在相当简略和粗浅的水平上有所了解，在专政体制的长期压制乃至屏蔽之下，无论是反对人士的主要事迹，还是他们的基本主张，都还局限在相当狭小和相对封闭的一个环境之内，而无法对当代中国社会产生实际上的影响力。作为其基本主张的反对话语，历经数十年的生长发育，实际上已经具有相当的话语高度，也处于事实上的自说自话境地，既无法引发大范围的共鸣，甚至连严肃的争议也很稀罕。</p>
+<p>相比话语传播，反对者的行动也遭遇到了同样的处境。数十年前仆后继的努力和牺牲，并没有得到最基本的感知，无论是中国民主党群体累积几百年的总刑期，还是高智晟、郭飞雄等人飞蛾扑火般的悲壮作为，又或者是刘晓波凭借多年坚持和《零八宪章》所获得的诺贝尔和平奖，在这个国度就跟好像未曾发生过一样，每时每刻都在发生的打压和牺牲，总是只能传达到特定的小群体，而无法激起更大的波澜，似乎，反对群体只是活在境外相关媒体和极少数积极分子中间的一种存在，被孤立于当代社会之外。</p>
+<p>对于这种尴尬的状态，曾有过许多所谓的反思。对于话语的无法扩张，有人认为，这可能是因为认为反对者的认识水平所限，又或者是对主流社会的了解不够，故而不能提出为更广泛的群体所接受的内容，可是，如果真正阅读过陈子明、刘晓波、张祖桦等人的作品，就会发现，其中具备相当深入的观察，也具有远超同时代知识分子的认知水平，相比之下，那些被体制相对容忍而得以流行的各种内容，更像是某种赝品，并不具备真正的价值。</p>
+<p>对于行动无法被感召和追随，也有所谓的反思认为，这是由于反对者不具备足够的行动力和坚定的意志力，故而无法穿透重重封锁，感召更多的人群，可是，从胡石根、刘贤斌、高智晟、郭飞雄、胡佳这样的人士身上可以发现，他们不仅锐于行动，而且坚定不摧，敢于牺牲，放之整个人类抗争史，也都是一等一的存在，他们的被忽视和被遗忘，不是因为他们自身有什么问题，这些所谓的反思实际是一种想当然而已。</p>
+<p>反对群体的边缘和孤立，根本原因还在于当下专政体制无所不至的压制。大陆的极权体制来自军事革命的成功，并伴之以全面的社会革命，不仅摧毁了既有的社会权力中心，还将所有个体编织进了一个总体性社会当中，形成了体制无所不能，而个体一无所依的普遍状态。大陆的反对群体诞生于这样的贫瘠状态之中，处境最为艰辛，不仅稍有露头，就会遭遇到立即的专政打击，无法形成气候和规模，并且在遭遇打击后，还有伴随着无期限的持续压制和屏蔽，这种即时的打击和持续的压制屏蔽，才是大陆反对群体始终处于边缘和孤立的根本原因。</p>
+<p>郭飞雄本人的经历就是如此，自2005年投身维权运动以来，就遭遇到了持续的打压，两次拘捕，他都以长期的绝食加以抗争，最终，还是在2006年被以莫须有的罪名判处五年有期徒刑。出狱未及两年，又因为参与声援《南方周末》和推动八城快闪等，拘押于看守所两年多以后，于法庭上被临时追加罪名，判处了六年有期徒刑，这样一次又一次进行打压的目的，除了摧毁其个人意志之外，更是为了将其从社会中拔出，加以隔离，最终将其孤立和边缘，并消除其可能的影响。郭飞雄的遭遇，也发生和正在发生于更多人身上。</p>
+<p>专政对于反对群体的打击和孤立，使得许多人对于反对的道路心生怀疑，在这些人看来，在专政下，反对的道路注定无法形成可以累积的效果，也无法影响到更大范围内的群体，注定只能是孤独的吶喊，也因此，许多人开始寻找所谓的中间路线，试图通过取消对体制的根本质疑，来换取观念的传播和组织的发育，通过一种可扩展的渐进过程，逐步推动体制的转变，直到最后的转型，在前些年体制寻求市场化的相对宽松期间，即使在反对群体中间，这种思路也获得了相当多的支持。</p>
+<p>但是，对于专政体制而言，并不会允许例外的出现，无论是从专政运行的长期实践，还是近几年的现实都表明，所谓的中间路线并不能换来体制的让步。与之相比，反对的道路固然艰辛而孤独，但却意味着对于体制的根本质疑，也意味着对于基本权利和值得追求的制度的根本坚持，它或许无法形成持续的扩展，甚至不为当下的社会主流所接受，但在现行体制难以为继的时候，它却能成为值得信赖的主张，和充满道义的感召。类似的过程曾发生在第三波民主化的东亚和东欧，也发生在不久前的北非茉莉花革命中。反对的道路从来都是孤独和艰辛的，但也是不可或缺，无从回避的。在这个意义上，对林昭的祭奠和对郭飞雄的声援，都是对于反对的坚持和传递，乃是这个冻结时代中，看似徒劳，实则弥足珍惜的努力。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A-%E5%8F%8D%E5%AF%B9%E7%9A%84%E9%81%93%E8%B7%AF-%E4%BB%8E%E6%9E%97%E6%98%AD%E5%88%B0%E9%83%AD%E9%A3%9E%E9%9B%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6%E7%BB%9F%E6%B2%BB/?category=18271" rel="tag">专制统治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AF%B9%E8%80%85/?category=18271" rel="tag">反对者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE/?category=18271" rel="tag">异议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%8F%8D%E5%AF%B9/?category=18271" rel="tag">政治反对</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%BD%93%E5%88%B6/?category=18271" rel="tag">极权体制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/ngocn-ingoer%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E6%95%8C/" target="cdt-mirror">NGOCN | INGOer：我们不是国家公敌</a>
 </h2>
 <p><p><strong>中国数字时代编辑注：</strong>本文首发于2015年5月8日《中华人民共和国境外非政府组织管理法（草案）（二次审议稿）》发布时，该法案最终版本已于日前发布，草案中有争议的条款如境外NGO必须挂靠中方合作单位、受公安机关而非民政部门管理等，均保留了下来。NGO新法案被认为是继《国家安全法》和《反恐怖主义法》之后，又一部可用于封杀异议声音的法律。一年前发布该文章的NGOCN微信公众号也多次被销号。</p>
@@ -741,30 +762,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B5%84%E9%87%91%E9%95%BF%E5%9F%8E%E5%88%9A%E5%88%9A%E5%8F%88%E4%B8%80%E6%AC%A1%E6%B3%84%E9%9C%B2/" target="cdt-mirror">博谈网｜中国的资金长城刚刚又一次泄露</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/rtr4oufi-e1461678836502.jpg" rel="attachment wp-att-436058"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/rtr4oufi-e1461678836502.jpg?resize=575%2C324" alt="rtr4oufi-e1461678836502" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/rtr4oufi-e1461678836502.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/rtr4oufi-e1461678836502.jpg?w=700 700w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>（博谈网记者郑皓然编译报道）据《石英》（Quartz）4月26日报道，当资金要跑路的时候，真是拦也拦不住。</p>
-<p>问问对冲基金就知道了，资金撤出的时候谁也挡不住。</p>
-<p>不过，从对冲基金抽走的那几十亿与去年从中国外流的巨额资金相比真是小巫见大巫。</p>
-<p>‌‌‌‌“金融研究所‌‌‌‌”（IIF）近日发布的数据显示，预计2016年中国资金净流出大约为5300亿美元，比去年海量资金净流出的6750亿美元有所下降。</p>
-<p>国际金融研究所报告显示，在2016年第一季，中国资金净流出为1750亿美元，比2015年第一季净流出的1650亿美元略有增加，不过2015年8月北京意外让人民币贬值造成了去年随后的大量资金外流。</p>
-<p>资金外流不仅仅是因为外国资本撤出。国际金融研究所预计，今年外资撤出中国会有所放缓。报告写道：‌‌‌‌“我们预计外资流入中国会有温和复苏，但是中国居民的资金会持续大量外流。‌‌‌‌”中国的资金外流是造成最近几年新兴市场资金外流的主因。</p>
-<p>北京已经采取了一系列措施来限制资金外流，而资金外流方式最近再不断创新花样来规避现有的资金管制。中国的最大信用卡网络，国有中国银联，最近将中国大陆可以在香港购买保险产品的每笔交易金额限制在了5000美元。（这种购买保险方式已经成为了规避禁令将资金弄出中国大陆的流行方法）。去年年底，中国监管机构规定，银行应该更严厉地审查大额外汇交易，以确保其不是用来逃避资本管制。</p>
-<p>尽管如此，资金外流依旧。三月分中国官方数据显示，从香港出口到大陆的货物交易量跃升了117%。而同时，香港的统计数据却截然相反。今天，香港报告了从香港出口到大陆的货物交易实际比去年同期下滑了11%。这两组数据不可能都是真的。</p>
-<p>要理解这些数据的唯一方法是假设大陆人在‌‌‌‌“花钱进口‌‌‌‌”实际上不存在的货物，作为将钱从中国大陆转移到香港的手段。我们曾经在几年前看到过类似的‌‌‌‌“假发票‌‌‌‌”的例子，当时出现了大得离谱的从大陆到香港的‌‌‌‌“出口额‌‌‌‌”，意味着有人将资金偷偷转移到大陆。</p>
-<p>现在，相反的情况正在发生，这意味着尽管中国有了（经济）稳定的迹象，但是如果放任不管，那么资金的自然流向是流出中国。这意味着，在可以预见的未来，人民币会继续面临持续的压力。</p>
-<p><a href="http://qz.com/670541/chinas-great-wall-of-money-just-sprang-another-leak/" target="_blank">原文阅读：China’s great wall of money just sprang another leak</a></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%8D%9A%E8%B0%88%E7%BD%91%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B5%84%E9%87%91%E9%95%BF%E5%9F%8E%E5%88%9A%E5%88%9A%E5%8F%88%E4%B8%80%E6%AC%A1%E6%B3%84%E9%9C%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%B8%B8%E6%80%81/?category=18271" rel="tag">新常态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%A4%96%E9%80%83/?category=18271" rel="tag">资本外逃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E9%87%91%E5%A4%96%E6%B5%81/?category=18271" rel="tag">资金外流</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -776,7 +773,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -786,5 +783,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

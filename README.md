@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A-%E5%8F%8D%E5%AF%B9%E7%9A%84%E9%81%93%E8%B7%AF-%E4%BB%8E%E6%9E%97%E6%98%AD%E5%88%B0%E9%83%AD%E9%A3%9E%E9%9B%84/" target="cdt-mirror">东网 | 莫之许： 反对的道路 从林昭到郭飞雄</a>
@@ -132,7 +132,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86%E7%BD%91/?category=18271" rel="tag">共识网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E8%AF%AD%E8%A8%80/?category=18271" rel="tag">官方语言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E8%85%94/?category=18271" rel="tag">官腔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AF%AD%E8%A8%80/?category=18271" rel="tag">网络语言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD/?category=18271" rel="tag">草泥马语</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%9C%9D%E9%B2%9C%E8%AE%A4%E7%9C%9F%E7%8E%A9%E6%A0%B8%E6%84%8F%E5%91%B3%E8%91%97%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">端传媒 | 朝鲜认真“玩核”意味著什么？</a>
 </h2>
@@ -773,7 +773,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -783,5 +783,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

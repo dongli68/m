@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%9A%E6%98%AF%E4%B8%8D%E4%BC%9A%E5%96%84%E7%BD%A2%E7%94%98%E4%BC%91%E7%9A%84/" target="cdt-mirror">【习总日记】 党是不会善罢甘休的</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，4，30）</p>
+<p>一</p>
+<p>4月26日在安徽调研期间召开座谈会，同来自安徽省和全国各地的70多名知识分子、劳动模范、青年代表座谈。我强调，全面建成小康社会，进而实现中华民族伟大复兴的中国梦，必须依靠知识，必须依靠劳动，必须依靠广大青年。广大知识分子、广大劳动群众、广大青年要紧跟时代、肩负使命、锐意进取，把自身的前途命运同国家和民族的前途命运紧紧联系在一起，努力为共同理想和目标而团结奋斗。等等。</p>
+<p>最后，我代表党中央，向全国广大知识分子、广大劳动群众、广大青年，致以诚挚的问候和“五一”国际劳动节、“五四”青年节的祝贺。</p>
+<p>会议结束后与会代表围拢过来竞相与我握手自拍留念。</p>
+<p>中科院院士、中国科技大学常务副校长潘建伟说，习总您说的比唱的还好听。中国工程院院士、中国电子科技集团公司第三十六研究所高级工程师杨小牛说，历届领导人里习总最关心我们知识分子。中船重工集团公司第七〇一研究所高级工程师、航母特种装置工程副总设计师王治国说，如果由习总领导反右一定不会扩大化。</p>
+<p>提起反右我问他们，如果我们搞第二次百花齐放百家争鸣，你们会不会上第二次当。</p>
+<p>安徽艾可蓝环保股份有限公司董事长刘屹，和西南大学生命科学学院教授罗凌飞二人认为很有可能。<br>
+我问，这是为啥呢？</p>
+<p>他们回答说，不上当党是不会善罢甘休的。</p>
+<p>二</p>
+<p>中共中央政治局4月29日召开会议，分析研究当前经济形势和经济工作。我主持会议并发表重要讲话。</p>
+<p>我问，为什么国际国内环境总是错综复杂？你们有谁能够回答？</p>
+<p>俞正声做球：“哎呀，难度太高，回答不了。”</p>
+<p>众人领会，清一色摇头。</p>
+<p>我回答道：“因为我们是共产党。”</p>
+<p>看他们是懂非懂的样子我进一步解释道：“共产党政权自建立起，就存在天然的敌人，就是帝国主义。帝国主义亡我之心不死，就是这个意思。”</p>
+<p>众人鼓掌，除李克强外。</p>
+<p>我提第二个问题，为何我们总是说，成绩是主要的？</p>
+<p>李克强回答道：“给自己脸上贴金。”</p>
+<p>我大声赞扬：“答对了。”</p>
+<p>大家都知道我在说反话。</p>
+<p>我提第三个问题，为何我们总是说，充分肯定的同时，也要看到困难。对问题要高度重视，冷静分析，采取有效措施，做好心理准备，把工作做好。为何在会议最后总是说，要按照党中央部署，贯彻精神，落实理念，坚持总体思路，落实任务，确保各项政策落实到位，推动经济持续健康发展。</p>
+<p>李克强又抢答：“八股会议嘛。有啥好奇怪的？”</p>
+<p>唉-，也是，这种会议开也白开。但不开不行，不得不开。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E4%B9%A0%E6%80%BB2013%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B.jpg?resize=492%2C369" alt="鳩鵪漫畫：习总2013新年愿望" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/鳩鵪漫畫：习总2013新年愿望.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/鳩鵪漫畫：习总2013新年愿望.jpg?w=500 500w" sizes="(max-width: 492px) 100vw, 492px" data-recalc-dims="1"></p>
+<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
+<hr><p><small>© 种花家 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%9A%E6%98%AF%E4%B8%8D%E4%BC%9A%E5%96%84%E7%BD%A2%E7%94%98%E4%BC%91%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A-%E5%8F%8D%E5%AF%B9%E7%9A%84%E9%81%93%E8%B7%AF-%E4%BB%8E%E6%9E%97%E6%98%AD%E5%88%B0%E9%83%AD%E9%A3%9E%E9%9B%84/" target="cdt-mirror">东网 | 莫之许： 反对的道路 从林昭到郭飞雄</a>
 </h2>
 <p><p>4月29日是林昭逝世48周年，近年来，一些民间抗争者发起了每年林昭忌日的祭拜活动，参与人数一度有扩大之势，今年也不例外，也有一些人士试图前往苏州灵岩山的林昭墓进行祭拜。在冻结时代，可以想象，这样的尝试也会变得越发艰难：先期前往苏州的朱承志先生，被苏州警方拘押一天后，被扔在浙江长兴县某村口；沈良庆先生准备前往无锡探望友人，也被看作是试图暗渡陈仓前往苏州，而被拘押一天。或许，今天寥落的灵岩山，显示出了当局打压、冻结民间社会的阶段性成果。</p>
@@ -681,87 +718,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87%EF%BD%9C%E4%B8%80%E5%90%8D%E5%B8%B8%E5%A4%96%E5%AE%B6%E9%95%BF%E7%9A%84%E4%BF%A1%E4%BB%B0%E5%9D%8D%E5%A1%8C%EF%BC%9A%E5%8F%AA%E6%81%A8%E6%B2%A1%E6%9C%89%E8%83%BD/" target="cdt-mirror">网易路标｜一名常外家长的信仰坍塌：只恨没有能力移民</a>
-</h2>
-<p><p><strong>网易《路标》文|徐至 编辑|周至美</strong></p>
-<p>调查组报告出来的那晚（4月25日），陈杏（化名）再次陷入了绝望。凌晨时分，她在朋友圈里发泄不满。就在半小时前，她还充满着希望：“如果得偿所愿，或可拯救信仰。”</p>
-<p>失眠了一夜之后，她决定不再抗争了，改用脚投票，决意为孩子办转学。</p>
-<p>从希望到失望，半年来，这位常州外国语学校的学生家长已反复历经多次。</p>
-<p><strong>半年多的经历，颠覆了她三十多年的人生经验。</strong>现在，她对周遭充满了怀疑。</p>
-<p>最新的失望来自常州官方援引的调查组的初步结论，认为常外校区与对照点位没有明显差异。这份报告让她觉得，原来寄望的学校搬迁过渡，现在希望越来越小了。</p>
-<p><strong>4月19日，陈杏对网易《路标》提到有家长考虑移民，她认为这伤及她的民族自尊心。25日的报告出来之后，她开始恨自己没有能力带孩子移民国外。</strong></p>
-<p>这块她熟悉的故乡，一下子成了陌路。“这个我从小长大的地方，原来我从来没有真正认识过。”她说。</p>
-<p>用她自己的话说，陈杏“是一路接受正统教育的产物”。毕业后，她找到一份工薪工作，直到孩子万云历（化名）上小学，她和丈夫才咬咬牙买了房。他们将房子买在了当时正迅猛发展的新区——新北区——离老城相对远，房价也不贵。</p>
-<p>万云历是常外八年级的学生。陈杏说起儿子的时候很自豪。万云历不仅会弹吉他，更是数学奇才，从小学开始学习编程，凭成绩考上了江苏省内名校常州外国语学校。</p>
-<p>这个学校是陈杏和万云历共同选择的结果。万云历喜欢常外，陈杏也认可常外的口号：让每一个生命尽情绽放。</p>
-<p>然而，持续半年的这次风波，常外的种种处理让她失望透顶。</p>
-<p>“我对常外毫无留恋”，陈杏说，“如果不是孩子舍不得同学，我们一开始就办转学了。”</p>
-<h2><strong>新北区关键词：化工、重污染</strong></h2>
-<p> <br>
-万云历就读的常州外国语学校位于常州新北区，这是1992年经国务院批准最早成立的52个国家级高新区之一。</p>
-<p>新北区的发展是中国城市扩张的缩影。在“快速推进城镇化”的旗帜之下，申报新城新区可以得到国家财政的支持与政策红利，也有利于漂亮的政绩报告。因此，地方政府、甚至每届地方政府，都热衷于规划新城新区建设。</p>
-<p>新北区的经济发展的第一批关键词就是化工、农药、重污染。这也是新北区的历史顽疾。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160428113336cefd9_550.jpg.549x10000.75.auto_.jpg" rel="attachment wp-att-436066"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160428113336cefd9_550.jpg.549x10000.75.auto_.jpg?resize=549%2C366" alt="20160428113336cefd9_550.jpg.549x10000.75.auto" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160428113336cefd9_550.jpg.549x10000.75.auto_.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/20160428113336cefd9_550.jpg.549x10000.75.auto_.jpg?w=549 549w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></a><p>网易《路标》在从常隆地块运至新北区李家村的土壤上看到一只死鸟。摄|徐至</p></div>
-<p>常隆老员工胥建伟告诉网易《路标》，新北区龙虎塘在建国前即建有新华农药厂，常隆化工厂在上世纪60年代末开始定址于此。</p>
-<p>因为靠近长江、排放便利，从上世纪90年代开始，新北区下属部分乡镇开始大量引进化工企业。据《财经国家周刊》报道，化工企业纷纷入驻的同时，当地身患癌症的人口数量也在不断攀升。数据显示，常州市新华村这个人口6000多人的村子，2004年到2008年间，身患各种癌症的人数高达近200人，死亡率超过历史上的血吸虫病。</p>
-<p>在“建设绿色、宜居的滨江新城”的口号下，辖内化工企业陆续搬迁、关闭。常隆化工厂在2010年搬迁至泰兴。</p>
-<p>农药厂旧址上入驻了大批地产商，一个个楼盘相继开盘。陈杏一家也是在这个时候将第一套房子买在了新北区。</p>
-<p><strong>那时她还不知道，离新购置房产七公里外的通江路和辽河路交叉口，新的规划已在雏形之中，而她将在起因于规划的纷争中，崩塌自己过往的所有信条。</strong></p>
-<h2><strong>奇怪的搬迁</strong></h2>
-<p> <br>
-按照规划，常外新址所在的新北区通江路和辽河路交叉口，将成为一个商业中心。在2011年10月的规划中，该地块用地类型调整为中小学教育设施用地。</p>
-<p>常外的新地址定在常隆化工厂原址南侧，直线距离不足100米。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811254118cb5_550.png.550x10000.75.auto_.jpg" rel="attachment wp-att-436065"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811254118cb5_550.png.550x10000.75.auto_.jpg?resize=550%2C361" alt="常隆地块和常外校园之间只隔了一条马路。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811254118cb5_550.png.550x10000.75.auto_.jpg?resize=300%2C197 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811254118cb5_550.png.550x10000.75.auto_.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>常隆地块和常外校园之间只隔了一条马路。</p></div>
-<p>原本希望商业开发的公司最后放弃了这块土地，原因可能是因为土地的健康原因。但常外的项目显然未受阻碍，不但如此，而且常外的建设于2011年8月动工时，常州市规划局为改项目核发的许可证还没有出炉。</p>
-<p>常外的动工仪式颇为隆重。在《常州日报》当天的报道里，重点强调了市委领导参加开工仪式。</p>
-<p>去年，刚读完初一的万云历随着学校搬迁也来到新校区。陈杏听说新校区在以前的化工区，曾隐隐担心，不过她还是愿意相信政府和学校，“再苦不能苦孩子，再怎么也不会乱来吧”。</p>
-<p>搬去新校区不久，陈杏开始发现孩子不太对劲。以往周末孩子六七点就起床，那时却怎么都睡不醒，15岁的年纪，本来应该精力充沛，却每天都喊累。万云历的头屑很多，陈杏还以为他没洗干净头，几次责令他好好洗头。</p>
-<p>陈杏后来才知道，万云历的症状，发生在很多孩子身上。很多孩子都诊断出甲状腺结节钙化，白细胞数下降，淋巴结节。</p>
-<p>万云历被诊断出“淋巴有结节，0.5已代表肿大，他较大的有2.1”。陈杏已被逼成医疗专家，她负责整理本班学生病历，专业术语能迅速理解。万云历被诊断出有血流信号，“有这个信号非常不好，它代表结节还会肿大”。</p>
-<h2><strong>“我非常非常胆小”</strong></h2>
-<p> <br>
-有一段时间，万云历总是抱怨教室里一股臭香蕉的味道：他们班级一直在找是哪位同学带了香蕉来学校却不吃掉，当时甚至成为班级的不解之谜。</p>
-<p>有家长去学校接孩子，老是闻到一股臭味，“等久了都头晕”，一位家长告诉网易《路标》。陈杏后来在学校看井的时候，也闻到一股“烧橡胶轮胎”的味道。</p>
-<p>家长认为孩子大规模出现相似病历与常隆的污染直接相关。一位坚持举报常隆违法处置污染物的常隆老员工的说法让家长更加担心。这位举报者称，常隆在搬迁过程中曾将大量危废（危险废物）埋于地下。</p>
-<p>网易《路标》在江苏省环境保护厅制定于2013年9月的《常隆（华达、常宇）公司原厂址地块污染场地土壤和地下水修复工程（报批稿）》中发现，“毒地”原有的三家化工厂，曾生产高毒、致癌化学品，搬迁过程中，均发现有倾倒废液导致土壤严重污染的情况。报告还强调，如果不治理污染，场地的污染物会慢慢散发，对周边环境及居民健康造成风险。</p>
-<p>“孩子在学校一天，就是‘吸毒’一天。”心急如焚的家长决定采取行动。</p>
-<p>2016年1月15日，家长代表向学校表达搬迁过渡的请求，并开会洽谈。学校态度坚决，搬迁过渡没有可能。</p>
-<p>陈杏和其他家长在学校外支持家长代表。一月份的常州，晚上太冷了。陈杏和家长们冷极了就一起唱国歌。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811212648513_550.jpg.550x10000.75.auto_.jpg" rel="attachment wp-att-436064"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811212648513_550.jpg.550x10000.75.auto_.jpg?resize=550%2C305" alt="1月15日，上千名家长聚集在常外门口。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811212648513_550.jpg.550x10000.75.auto_.jpg?resize=300%2C166 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/2016042811212648513_550.jpg.550x10000.75.auto_.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>1月15日，上千名家长聚集在常外门口。</p></div>
-<p>几乎所有与1月15日活动有关的家长都受到了问话，包括陈杏在内，她被警告“不要上访”。担任公职的则受到单位领导问询。一位家长向网易《路标》透露，常州某区政协委员也遭到约谈，要他保证不上访。一些家长在压力之下，逐渐缄口不言。</p>
-<p>陈杏打定主意不让万云历上学。这个决定却得不到家人的支持，孩子的父亲和外婆都认为“孩子不能在家里晃耽搁学业”。</p>
-<p>说到这里，陈杏再次哽咽：“你可以说我不孝，但我到现在都恨他们。”</p>
-<p>她多次对网易《路标》表示，自己是一个胆小的人，但她觉得不能继续沉默，“我们可以卑微如尘土，不可扭曲如蛆虫”。</p>
-<h2><strong>“最棒的战斗是快要全灭的胜利”</strong></h2>
-<p> <br>
-2016年的寒假结束前，陈杏收到班主任发来的消息。她被要求回复三条内容：学生寒假学习情况、身体状况，以及能否在21日上午8点半前按时报到。</p>
-<p>而在收到消息前一天，家长得到的承诺是：学校将对校园进行全方位环境检测，也同意家长聘请权威机构检测，如果有问题，学校会向政府申请过渡搬迁。</p>
-<p>但学校在未得到合格环境数据就定下报到时间，家长认为这违背了承诺。</p>
-<p>万云历在开学前也请求妈妈不要送她回学校。陈杏决定不让孩子报到，并做好转学的准备。</p>
-<p>没去报到的家长把孩子组织到一起，开了一个复习班，为即将到来的考试做准备。这个复习班成为了不去上学的少数派。再往后，万云历在复习班的同学越来越少，他逐渐被“孤立”了。</p>
-<p>“我那天早晨抱着孩子哭，复习班现在就只剩我一个了。”陈杏说。</p>
-<p>万云历没哭。这个倔强的中学生那天发了一条“空间说说”：“最棒的战斗不是全员通过的战斗，而是快要全灭的胜利。”</p>
-<p>回学校考完试的第二天，万云历对母亲说：“我的同学以生命向我保证，地下水是合格的，还想在那上学，我们班只有我一个孩子坚持到这个时候。”</p>
-<p>陈杏正骑着车，突然又开始大哭。</p>
-<p>班主任告诉陈杏，孩子初二，现在的期末期中考试都会计入自主招生考虑。压力之下，陈杏被迫将孩子送回了学校。</p>
-<h2><strong>“最难过孩子看到社会阴暗的一面”</strong></h2>
-<p> <br>
-希望在4月17日重燃，当天央视报道《不该建的学校》播出。一时间舆论沸腾，各路媒体都聚集常州。</p>
-<p>省内并非也完全不关心。江苏新闻广播一档《晓东有话说》在2月份报道了两期，随后戛然而止。</p>
-<p>面对央视的质疑，常州予以了回击。4月19日，《常州日报》头版刊登了《关于央视报道反映“常外”相关情况的说明》，对央视的几个主要、关键性证据予以反驳。</p>
-<p>国家环保部、卫计委参与的调查组来到常州。很多家长认为就要有说法了，陈杏也抱有希望。</p>
-<p>事实上，随着调查组的到来，信息反而越发闭塞。校长的电话再也无人接听，没有官员愿意接受采访。常州市委宣传部新闻处处长李吉祥对网易《路标》说，现在常州处于被调查状态，一切出口都由调查组把关。</p>
-<p>4月25日，常州官方出台调查组的初步结论，官方表示：经过环保调查组，医疗卫生专家组的初步调查，常外校区与对照点位没有明显差异。此外，909名学生中，有247人甲状腺结节，浅表淋巴结肿大35人，成因不明。</p>
-<p>不必再等盖棺定论了。陈杏当夜就翻出房产证，开始找新的学区，“孩子必须转学”。</p>
-<p>“不过，我最难过的是，孩子不仅身体受到伤害，还看到了社会上阴暗的一面。”陈杏对网易《路标》说。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87%EF%BD%9C%E4%B8%80%E5%90%8D%E5%B8%B8%E5%A4%96%E5%AE%B6%E9%95%BF%E7%9A%84%E4%BF%A1%E4%BB%B0%E5%9D%8D%E5%A1%8C%EF%BC%9A%E5%8F%AA%E6%81%A8%E6%B2%A1%E6%9C%89%E8%83%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%B7%9E%E5%A4%96%E5%9B%BD%E8%AF%AD%E6%A0%A1%E5%9D%80%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">常州外国语校址污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%A8%E8%84%9A%E6%8A%95%E7%A5%A8/?category=18271" rel="tag">用脚投票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -773,7 +729,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -783,5 +739,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

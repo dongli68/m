@@ -21,9 +21,139 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E6%A7%BD-%E4%B8%80%E4%B8%AA%E6%AD%BB%E5%9C%A8%E7%99%BE%E5%BA%A6%E5%92%8C%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E4%B9%8B%E6%89%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/" target="cdt-mirror">有槽 | 一个死在百度和部队医院之手的年轻人</a>
+</h2>
+<p><p>文/涓总（微信公众号：有槽）</p>
+<p>魏则西去世了，他爸爸通报死讯后，调查记者孔璞转载了魏则西在知乎上发表的这篇长答复，简而言之：这个21岁的年轻人出于对百度和部队三甲医院的信任，在罹患滑膜肉瘤这种罕见的癌症后，在武警北京总队第二医院尝试了一种号称与美国斯坦福大学合作的肿瘤生物免疫疗法，在借钱完成了治疗后出现肺部转移后才得知这种疗法并不靠谱。他回答的这个问题是“你认为人性最大的‘恶’是什么？”</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061078.png?resize=550%2C669" alt="134061078" data-recalc-dims="1"></p>
+<p><strong>有中国特色的癌症免疫治疗？</strong></p>
+<p>魏则西去的这家医院，是北京武警二院肿瘤生物中心，所接受的是DC-CIK细胞免疫治疗，这是种已经被国外淘汰、但在中国非常红火的肿瘤免疫治疗。</p>
+<p>首先要确认的是，生物免疫、免疫细胞疗法并不是“假”疗法，在世界多家医院和科研机构都有相关临床研究。治疗过程中，医生通过抽取患者的免疫细胞，在体外扩增和加工，并重新输回患者体内，从而达到提高患者免疫能力，抑制或预防肿瘤生长的目的。</p>
+<p>不过，从研究结果来看，它的意义有多大就见仁见智了。虽然这种治疗从美国开始，但由于临床试验屡遭失败，在美国国立癌症研究院(NCI)的网站上检索，可以看到目前仅有两家机构在进行CIK细胞治疗研究。第一项研究在斯坦福进行。有槽(Dr-Venting)在4月29日下午电话采访了斯坦福医学院媒体关系部的Becky Bach女士，她表示，斯坦福医学院确实有一项CIK方面的研究，不过是将它作为治疗骨髓增殖性疾病或骨髓发育不良的辅助治疗手段。在肿瘤免疫治疗方面，斯坦福希望探索更新、更有效的疗法。此外，Bach女士也澄清说，斯坦福并未与中国的任何一家医院从事细胞治疗方面的合作，当中包括北京武警二院，她不理解为什么该院在宣传中会强调是从该院引进技术，并承诺将与律师一起进一步调查。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061107.png?resize=600%2C705" alt="134061107" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061107.png?resize=255%2C300 255w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061107.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>但在中国就不是这么一回事了，在Pubmed医疗论文库中可以看到，虽然高质量的DC-CIK相关论文不多，但署名作者几乎清一色是中国人。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061121.png?resize=600%2C560" alt="134061121" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061121.png?resize=300%2C280 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061121.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>按照卫计委颁布的《首批允许临床应用的第三类医疗技术目录》，免疫细胞治疗被限定在临床研究范畴，医院可以开展免疫治疗临床研究，但原则上不得收取任何费用。但是对于这项技术的管理十分混乱，卫计委和食药总局似乎都避之不及。所以，一项本应通过三期临床、在有效性、适应症等诸多方面得到明确解答的实验性技术，现在已在全国各地医院成为重要的治疗手段和赢利工具。</p>
+<p>怎么个赚钱法？以下是某家以细胞技术为特色的生物公司给出的计算：一次CIK治疗收费为1.5万，毛利润为40%。如果与十家三甲医院合作，每家首年治疗200人，每人接受三个疗程，一年毛利润1512万元。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061143.png?resize=600%2C859" alt="134061143" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061182.png?resize=600%2C175" alt="134061182" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061182.png?resize=300%2C87 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061182.png?w=622 622w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><strong>武警二院是家什么样的医院？</strong></p>
+<p>有人总结称目前国内的肿瘤免疫疗法是“谋财不害命”。但是，如果病人轻信广告，散尽家财尝试这种几乎无效的疗法，贻误了宝贵的时机使用规范的放化疗和靶向治疗，这不是“谋财害命”又是什么？魏则西的遭遇便是如此。</p>
+<p>当初魏则西和他的家人走投无路，在百度搜索滑膜肉瘤治疗信息时，搜到的是这样的推荐页面。感谢热心网友留存，因为在最近两天百度发现再次面临公关困境时，已经删得一干二净了。可以看到，排在第二推荐位的就是北京武警二院。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061195.png?resize=597%2C944" alt="134061195" data-recalc-dims="1"></p>
+<p>而在他们一家进入武警二院主页时，想必也看到了这样的对话框，直接与发来对话框的“医生”开始沟通，甚至得到了一个相当积极的答复，促使他们在几天后就从西安来到了北京求医。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061204.png?resize=600%2C286" alt="134061204" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061204.png?resize=300%2C143 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061204.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>该网站标明是武警北京总队二院的官方网站，表示引进了肿瘤生物治疗领域的代表技术，采用DC免疫治疗以及CIK免疫治疗消灭癌细胞，可达到延长生存期，提高生活质量和抑制肿瘤恶化的目的。</p>
+<p>然而经验告诉我们，但凡主页做得如此花哨，又有对话框出现的医院，必然有蹊跷。我们的第一步从检查主办单位ICP备案开始。嗯，备案主体是个人，而非医院。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061214.png?resize=600%2C284" alt="134061214" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061214.png?resize=300%2C142 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061214.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>继续追查医院域名注册信息，北京武警二院注册人单位为：KangXin Hospital Investment and Management CO.LTD。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061221.png?resize=600%2C912" alt="134061221" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061223.png?resize=600%2C675" alt="134061223" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061223.png?resize=267%2C300 267w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061223.png?w=616 616w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>再反查KangXin Hospital Investment And Management CO.,LTD，可以看到该医院投资管理公司名下还注册着其他多家医疗机构域名，其中不乏同样以细胞免疫疗法为特色的“公立医院”。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061234.png?resize=555%2C385" alt="134061234" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061234.png?resize=300%2C208 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061234.png?w=555 555w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"></p>
+<p>KangXin Hospital Investment And Management CO.,LTD是何方神圣？不太好找，不过我们发现在领英上有数位医疗领域人士有该公司工作背景，从英文名反向查出，该公司中文名称为“康新医院投资管理有限公司”。</p>
+<p>查到此处，我们可以判断出：北京武警二院的肿瘤生物中心与康新医院投资管理有限公司（下简称“康新公司”），他们是相亲相爱的一家人。除了武警二院，康新旗下还管理着其他多家以生物免疫治疗为特色的肿瘤专科医院。</p>
+<p><strong>与北京武警二院合作是什么公司？</strong></p>
+<p>细胞免疫治疗难度并不高，不过在操作中规范化、无菌化和风险控制极其重要，所以，有能力的医院自己做符合GMP标准的细胞操作间，没能力的则是将相关业务外包给多家生物公司来做。由康新公司“承包”或“入股”的北京武警二院肿瘤生物中心属于后者。</p>
+<p>他们的技术合作伙伴是上海柯莱逊生物技术有限公司。关于该公司近期的新闻是：3月3日晚间，中源协和发布预案称，公司拟以11亿元收购上海柯莱逊生物技术有限公司100%股权。公开资料显示，柯莱逊是国内最大的免疫细胞治疗企业之一。柯莱逊的官网同样将斯坦福大学医学中心列为合作伙伴，斯坦福方面称并不了解该公司。</p>
+<p>从公开资料来看，上海柯莱逊与北京武警二院肿瘤生物中心同样也是相亲相爱的一家人。何以见得？柯莱逊甚至替二院招聘护士。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061285.png?resize=600%2C882" alt="134061285" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061285.png?resize=204%2C300 204w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061285.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>从柯莱逊的招聘广告还可以看出，这家公司的业务并不像其收购方中源协和所声称的那样，仅限于“给医院提供技术服务，包括细胞制备等，并不给患者提供临床治疗。”事实上，除了在北京，公司还在各地招聘包括肿瘤科医生、临床医生、护士等提供临床治疗的员工。此外，还招聘百度竞价专员等业务人员。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061318.png?resize=600%2C889" alt="134061318" data-recalc-dims="1"></p>
+<p><strong>谜底揭晓，老板根本是一个人</strong></p>
+<p>我们已经发现，康新公司是北京武警二院域名的管理者，柯莱逊是武警二院细胞免疫技术的支持者，那么，康新和柯莱逊又是什么关系？</p>
+<p>简而简之，他们也是相亲相爱的一家人，老板是莆田人士陈新贤和陈新喜兄弟。</p>
+<p>柯莱逊公司董事长叫陈新贤，他指导工作的消息刊登在公司官司网上。而公开交易信息显示，柯莱逊的原股东之一为陈新贤的胞弟陈新喜。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061321.png?resize=637%2C263" alt="134061321" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061321.png?resize=300%2C124 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061321.png?w=637 637w" sizes="(max-width: 637px) 100vw, 637px" data-recalc-dims="1"></p>
+<p>陈新贤除了是柯莱逊的董事长，旗下还有两大医疗机构，在接受公开采访时他介绍说，他在新加坡注册成立了华康医疗投资集团有限公司，在上海注册成立的就是康新医院投资管理集团有限公司。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061339.png?resize=639%2C186" alt="134061339" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061339.png?resize=300%2C87 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061339.png?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"></p>
+<p>所以，人物关系图就是这样的（时间紧，缺美工，抱歉只能手绘）：</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061357.png?resize=600%2C616" alt="134061357" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061357.png?resize=292%2C300 292w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061357.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>莆田人士陈新贤的康新公司通过承包科室等方式，管理多家公立医院肿瘤科室，从事医院和科室官网建设和维护、百度竞价、在线咨询导医，甚至直接参与临床治疗；陈新贤与其弟陈新喜的柯莱逊生物公司为这些肿瘤科室提供技术服务。这是稳赚不赔的生意，只要康新能继续搞掂主管医院。</p>
+<p>如此谋财害命的治疗，得到了主管医院的纵容，得到了百度竞价排名的助推，也得到了监管部门的睁一只眼闭一只眼的默许。得了癌症、被骗了钱又没了命的病人太可怜、太无助、太冤枉。</p>
+<p><strong>怎样远离问题医院？</strong></p>
+<p>年轻的魏则西去世了，他在死前将自己被百度公司、被部队医院和医生欺骗，视为人性中最大的恶。媒体和一大批医生曾在几年前质疑细胞免疫疗法无效，然而没用；包括有槽(Dr-Venting)在内的媒体和自媒体曾质疑百度竞价广告的操作不合规、披露部队医院被莆田系承包的种种弊端，也是然并卵。<br>
+但是，你可以帮助自己和家人朋友自保。</p>
+<p>首先，凡事不要问百度，凡事不要问百度，凡事不要问百度。原因不再解释。</p>
+<p>第二，谨慎对待部队医院。部队医院大量赢利科室被莆田系承包的问题已经说了无数次，男科、妇科、不孕不育、皮肤性病、中医这些科室是重灾区，但我也没想到，连肿瘤病人的钱他们也要赚，肿瘤病人的命他们也要榨。</p>
+<p>哪些科室被承包？查北京地区的医院有个最简单的办法，在手机应用程序“114生活助手”和联通114挂号网站(http://www.114menhu.com/)上，“社会知名医院”这一栏里：除了民营医院，就是部队医院承包科室，其中包括了有槽(Dr-Venting)曾揭露的北京466医院，即空军航空医学研究所附属医院。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061385.png?resize=600%2C332" alt="134061385" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061385.png?resize=300%2C166 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061385.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>我是无神论者，但在这件事情上我期待有报应，我希望涉事的所有人，包括医疗监管官员，百度的人，医院的人，康新的人，柯莱达的人，夜里能听到魏则西和其他受害者的哭声。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E6%A7%BD-%E4%B8%80%E4%B8%AA%E6%AD%BB%E5%9C%A8%E7%99%BE%E5%BA%A6%E5%92%8C%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E4%B9%8B%E6%89%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E8%89%AF%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">无良企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">问题医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B9%A0%E5%86%8D%E5%91%BC%E5%90%81%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%95%A2%E8%A8%80-%E7%BD%91%E6%B0%91%E6%8C%96%E8%8B%A6%E4%BF%A1%E8%80%85%E5%BE%AE%E5%8D%9A%E5%8F%B7/" target="cdt-mirror">法广｜习再呼吁知识分子敢言 网民挖苦信者微博号都没了</a>
+</h2>
+<p><p><img src="http://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt.jpg?w=440" alt="龙椅明黄杯" width="440" height="303"><br><span>网络图片</span></p>
+<p>中共总书记习近平再度呼吁知识分子和青年对各级党委政府积极进言批评，只要出发点是好的，政府坚持“不抓辫子、不扣帽子、不打棍子”。根据新华社报导，习近平是在4月26日在安徽研期间召开此次座谈会，有来自安徽省与全国各地的70多名知识分子、劳动模范、青年代表参与座谈，包括中科院院士、中国科技大学常务副校长潘建伟等。</p>
+<p>这是习近平在一周内再度表示对批评的宽容，他4月19日在网络安全和信息化工作座谈会上称，对网上那些出于善意的批评，不仅要欢迎，而且要认真研究和吸取。</p>
+<p>不过不少网民不但对习总书记的呼吁半信半疑，反而怀疑是类似当年毛泽东搞双百运动的“阳谋”，目的是引蛇出洞。</p>
+<p>有网民说：“请回顾双百（百家争鸣、百花齐放）和反右的关系。”另外有网民“验信珠”挖苦说：“孙海英信了，号没了；任志强信了，号没了；王亚军信了，号没了；文山娃信了，号没了；连我都信了，结果号也没了。”</p>
+<p>上述人都被称为所谓的大V，即微博上有众多的粉丝，但都因为批评政府而遭到帐户被封的命运，例如任志强就是因为批评习近平要传媒姓党而号没了。</p>
+<p>有网民甚至对习近平的所谓“三不”保证而感到耻辱。网民“世界之双目”说：“在文革结束四十年后的今天，还在承诺对知识分子不抓辫子，不扣帽子，不打棍子，真是替你们感到丢人，感到耻辱。”</p>
+<p>根据新华社，习近平在安徽的座谈会上，要求各级党委和政府要形成有利于知识分子干事创业的机制，减少对其创造性劳动的干扰，又称希望知识分子要坚持国家至上、民族至上、人民至上，多为推进党和人民事业献计出力。</p>
+<p>他又提到青年工作称，广大青年要“敢于做先锋，而不做过客、当看客”，“心中有阳光，脚下有力量，为了理想能坚持、不懈怠，才能创造无愧于时代的人生”。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B9%A0%E5%86%8D%E5%91%BC%E5%90%81%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%95%A2%E8%A8%80-%E7%BD%91%E6%B0%91%E6%8C%96%E8%8B%A6%E4%BF%A1%E8%80%85%E5%BE%AE%E5%8D%9A%E5%8F%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E8%9B%87%E5%87%BA%E6%B4%9E/?category=18271" rel="tag">引蛇出洞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E5%A4%A7v/?category=18271" rel="tag">微博大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E8%8A%B1%E9%BD%90%E6%94%BE/?category=18271" rel="tag">百花齐放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%9C%E8%88%AA%E8%88%B9northfleet%EF%BD%9C%E5%BC%80%E5%A4%A9%E7%AA%97/" target="cdt-mirror">夜航船Northfleet｜开天窗</a>
+</h2>
+<p><p><strong>【编者注】</strong>根据澎湃新闻网的后续报道，“北大青年”微信公众号于4月29日近午夜时，推送了两条调查稿件，分别是《你不知道的心理咨询中心》、《方格内外：北大校内电梯》，并在这两篇文章开头对稿件未能发布的原因进行了解释：</p>
+<blockquote><p>根据《北大青年》的出刊流程，本栏目稿件刊发前须经受访者确认。在4月27日之前，两篇稿件没有获得受访者肯定答复，未能及时推送。今天，我们收到回复，现予刊发。</p></blockquote>
+<p><strong>澎湃新闻网｜北大青年微信”开天窗“风波涉及的三篇文章都说了啥？</strong>（<a href="http://webcache.googleusercontent.com/search?q=cache:sM3XwqmoEYwJ:www.thepaper.cn/newsDetail_forward_1463180+" target="_blank">谷歌快照链接</a>）</p>
+<blockquote><p>4月30日早晨，澎湃新闻发现，“北大青年”微信公众号4月27日发的《今天无稿可发》一文已经被删除。</p>
+<p>而这两条稿件与之前网友公布的“两篇不能发的文章”选题一致，但内容与网上流传的有些出入。</p>
+<p>《你不知道的心理咨询中心》主要介绍了北大心理咨询中心如何服务学生并供不应求的内容，对学生普遍关心的保密性、专业性作了具体介绍，并无网传中提及的“泄漏学生隐私”等内容。</p>
+<p>《方格内外：北大校内电梯》从上文中网民“东林君”透露的一起电梯事故和调查数据（数据基本一致）说起，提及北大理科楼群的电梯运营安全话题，并引用采访对象的话说，一些师生对电梯问题的感受是因为和维管理部门之间缺乏沟通。</p></blockquote>
+<p><strong>截至发稿时，澎湃原文及部分门户网站转发均已消失。</strong></p>
+<p>———————————-</p>
+<p>今天，北大的一家校园媒体《北大青年》开天窗了：「今天我们有两篇文章不能发。」</p>
+<p>其中一篇是关于教学楼电梯安全的。我大一时，理教还是一栋低矮丑陋的教学楼，在短短两年时间内，理科变得高大丑陋，不知出于什么原因，校园里新修的教学楼大多是两种风格：灰色监狱风、仿古红楼风。</p>
+<p>因为理教修建时间极短（两年不到），而且上课时发生过天花板掉落砸到课桌的事，所以我对理教整栋楼的安全性都抱有怀疑。尤其是电梯，我做过一次，明显感觉摇摇晃晃。可能这种时间建一栋楼、这种乘电梯体验都是专业人士允许的范围内，但的确作为学生，我的确非常不安心。在校园媒体期间，我也考虑过做这个题，但因为切入口太大没能成行。</p>
+<p>结果，今天有五个学弟学妹们把这个题做出来了，起因是有同学直接被关在三教（第三教学楼）电梯里出不来了。包括调查问卷（16%的北大在校人员遇到过电梯问题，56%表示听说过电梯事故），现在使用的电梯是「最低中标」，而且三教的电梯已经到了大修期，更换却一直没有提到日程上。</p>
+<p>然后住建部向团委告状，把稿子封了。</p>
+<p>事情到此为止，还都是我们熟悉的中国逻辑，稿子成了内参，说不定问题还能解决。</p>
+<p>但是，不少围观者，很多还是北大校友，把矛头对向了北大学生，这让我出离愤怒了！</p>
+<ol><li>校外媒体跟进怎么办？对北大名誉造成影响，谁负责？</li>
+<li>在那个位置上，我也只能这么做，都是弱者，无可厚非。</li>
+<li>用情怀裹挟民意，转移众人视线；</li>
+<li>在报纸文案狗为了营销都可以随便开天窗的年代，天窗早就没那么神秘了。另外这个和党员毕姥爷酒桌辱毛的事一个性质，作为共青团的号情有可原，行要抵罚。</li>
+<li>这些学生都是看着社会上妓者写的东西长大的。写东西掌握不好技巧和力度，写东西让职能部门的人泛恶心，也不懂得影射和高级黑白，这样的报道于提升学校的管理水平没有任何意义。能解决问题的是BBS，不是团报。</li>
+<li>我希望你们只是不懂事，或者只是被当枪使了。要是陈老师被深爱的学生在背后插上一刀倒下，真的很讽刺。</li>
+</ol><p>我所诧异的是，这么简单一个事，这么利校利民一个事，这么是非分明的一件事，居然还能洗，还能往学生身上泼污水！</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%BF%98%E6%9C%89%E7%8E%8B%E6%B3%95%E5%90%971.jpg" rel="attachment wp-att-436354"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%BF%98%E6%9C%89%E7%8E%8B%E6%B3%95%E5%90%971.jpg?resize=550%2C247" alt="还有王法吗1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/还有王法吗1.jpg?resize=300%2C135 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/还有王法吗1.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%BF%98%E6%9C%89%E6%B3%95%E5%BE%8B%E5%90%97.jpg" rel="attachment wp-att-436353"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%BF%98%E6%9C%89%E6%B3%95%E5%BE%8B%E5%90%97.jpg?resize=550%2C220" alt="还有法律吗" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/还有法律吗.jpg?resize=300%2C120 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/还有法律吗.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>学校教学楼天花板砸下来，他们不觉得影响北大名誉；电梯把晚自习的学生关在里面出不来，不影响北大名誉；现在学生把电梯问题指出来了，北大名誉要被影响了！</p>
+<p>好一个北大名誉，是些个什么东西！</p>
+<p>我真想问一句：</p>
+<p>还有王法吗？</p>
+<p>还有法律吗？</p>
+<p>还能跟你们讲道理吗？！</p>
+<p>是什么让你们的是非观、正义感变成这种傻屌样？还有人拿毕姥爷说事，所以在这个国度，大家都已经默认了组织法律高于宪法了吗？！</p>
+<p>虽然我也没关注北大青年，他们之前发的什么总理在北大、师兄和我们在一起，我也一个字没看。但一码事归一码事。人偶尔都要吃屎，但不要因此认为吃饭是种偏食。<br>
+今天读茨威格的《昨日的世界》，他写得絮絮叨叨，从小时候讲起。他说他年轻时同学们都痴迷于戏剧，为文学癫狂，哪怕后来只有他一个人做了作家，但当时打下的功底让他受益终身。我早已关掉了朋友圈，因为里面大都不是我的朋友，内容大都是垃圾。我马上又要做我梦寐以求的工作，不需要加什么群、点什么赞、跟谁废话。说这些只是希望做这篇报道的五个同学、决定要在沉默中爆发的主编，不要被那些垃圾话影响。他们就是出事前说要相信学校住建部、出稿后说你拿情怀炒作、真的出现伤亡后会发[蜡烛]表情的理中客。</p>
+<p>最后，有人说这是公器私用。「要做自己的报纸可以，不要打着共青团的旗号让别人给你背锅。自己享受着北大团委的资源，不能这么自私地去害别人。燕园每日话题之类的非官方媒体很自由，为什么不去做呢？并没有不给你这种自由啊。」</p>
+<p>是啊，并没有不给你这种自由啊。你可以办报、结社、言论、游行啊。你还能说话就证明了民主，你还能呼吸就说明空气没问题，你还能开天窗，这简直就是一个自由的国家，一个自由的校园。</p>
+<p>（题图是北大校园一景，名叫民主科学）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%9C%E8%88%AA%E8%88%B9northfleet%EF%BD%9C%E5%BC%80%E5%A4%A9%E7%AA%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7/?category=18271" rel="tag">北大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%9A%E6%98%AF%E4%B8%8D%E4%BC%9A%E5%96%84%E7%BD%A2%E7%94%98%E4%BC%91%E7%9A%84/" target="cdt-mirror">【习总日记】 党是不会善罢甘休的</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，4，30）</p>
@@ -622,102 +752,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B8%8F%E9%9B%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%AB%A0%E5%AE%B6%E6%95%A6%EF%BC%9A%E4%B9%A0%E6%9D%8E%E5%88%86%E6%AD%A7%E5%85%AC%E5%BC%80%E5%8C%96/" target="cdt-mirror">美国之音 | 章家敦：习李分歧公开化</a>
-</h2>
-<p><p>华盛顿—美国的中国问题学者说，中国国家主席习近平和总理李克强间的政治分歧日渐明显，顶层政治斗争渐趋公开化。不过，也有美国学者认为，习近平可能会在决策上做出重大让步，中国当局似乎能够控制局面。</p>
-<p>中国国务院总理李克强险遭车祸传闻发酵之际，中国观察人士透视习李一系列政治纠葛。</p>
-<p>美国的中国问题学者章家敦说，前不久两会期间，习近平对李克强的政府工作明显缺乏兴趣。他对美国之音说：“我们当然认为，习李关系两会期间很糟糕。有报道说，李克强做政府工作报告前见了习近平，见面气氛紧张，进行不顺利，这也许是李克强做报告期间习近平没有鼓掌的原因之一。”</p>
-<p>章家敦4月24日在福布斯杂志上发表的文章认为，李克强最近视察清华与北大是其政治地位迅速上升的标志之一。与此同时，中国青年政治学院（前身为“中央团校”）将取消本科教育，被认为是中共太子党斩断团派仕途天梯的行动，矛头指向李克强等团派大佬。另外，最近中国还出现劝习近平辞职的“神秘呼声”。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-28-at-%E4%B8%8B%E5%8D%884.56.20.png?resize=316%2C423" alt="Screen Shot 2016-04-28 at 下午4.56.20" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-28-at-下午4.56.20.png?resize=224%2C300 224w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-28-at-下午4.56.20.png?w=316 316w" sizes="(max-width: 316px) 100vw, 316px" data-recalc-dims="1"><br><span>中国问题评论家章家敦（美国之音申华拍摄）</span></p>
-<p>章家敦的文章说，习近平的反对派可能没有组织起来，但是他们几乎无处不在。习近平没有消灭这些反对者，只是把他们被赶到地下。随着这位“全面主席”政策的失利，反对派蠢蠢欲动，现在只等毛泽东所说的“星火燎原”，而经济是中国迫在眉睫需要解决的难题之一。章家敦最后说，中国没有数十年解决经济难题的时间，要么只有一年，至多也许两年。</p>
-<p>章家敦因《中国即将崩溃》一书受到争议，他对中共顶层政治动向的最新观察，是否可视为是《中国即将崩溃》一书的续篇？章家敦对美国之音说：“当然可以这样看，我是把它作为晚期中共政权演变的一个自然过程。大家看到，中共高级领导人彼此争斗，并暴露在光天化日之下。我认为，可以这样说， 这是共产制度不可避免的一个结局。”</p>
-<p>彭博新闻4月14日报道，中国2016年第一季度GDP比去年同期增长6.7%，达到接受彭博社调查的经济学家的中间预期，同时也与中国政府提出的2017年全年增长6.5-7%的目标相符，尽管负债累累的经济发展模式继续令人质疑。</p>
-<p>迈阿密大学政治学者，“对外政策研究所”亚洲项目资深研究员金德芳（June Teufel Dreyer）最近撰文，分析习近平和李克强等的微妙政治关系的来龙去脉。她说，最近的一系列事件将迫使习近平在决策方式上更加注重“共识”。她对美国之音说：“我认为，中国政府现在能够处理各种不满。我想，习近平很有可能被迫向反对派做出重大妥协和让步。”</p>
-<p>金德芳的文章还说，对于希望中国逐渐脱离强人统治，走向政治多元的人来说，习近平独裁统治遭遇抵制固然是好消息。但是也有分析人士认为，没有强有力的领导人带领中国进行“痛苦的结构改革”，实现经济更加健康的发展，中国接下来的路最终还是走不远，这是没有强人领导的“不利一面”。金德芳说，中国政局最终演变结果如何正在为各方密切关注。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%AB%A0%E5%AE%B6%E6%95%A6%EF%BC%9A%E4%B9%A0%E6%9D%8E%E5%88%86%E6%AD%A7%E5%85%AC%E5%BC%80%E5%8C%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%A9%E6%BA%83%E8%AE%BA/?category=18271" rel="tag">中国崩溃论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%86%85%E6%96%97/?category=18271" rel="tag">习李内斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%88%86%E8%A3%82/?category=18271" rel="tag">习李分裂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E5%AE%B6%E6%95%A6/?category=18271" rel="tag">章家敦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E5%BE%B7%E8%8A%B3/?category=18271" rel="tag">金德芳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%B2%EF%BC%8C%E6%82%A8%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E7%9A%84%E6%83%85%E5%86%B5%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B7%B2%E5%8F%8D/" target="cdt-mirror">【立此存照】亲，您患癌去世的情况百度推广已反馈核实</a>
-</h2>
-<p><p>【编者注】魏则西大二时被诊断为滑膜肉瘤。两个多月前，他在回答知乎问题“<a href="https://www.zhihu.com/question/26792975/answer/88170767" target="_blank">你认为人性最大的「恶」是什么？</a>”时讲述了遭<a href="http://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/" target="_blank">百度竞价排名</a>推广的医院所欺骗的经历。2016年4月12日，魏则西去世。近日有微博用户（<a href="http://weibo.com/foxpupu" target="_blank">@孔狐狸</a>）提及此事，称欺骗魏则西的医院（北京武总二院）仍在百度搜索结果中排首位。<span title="百度推广客服官方微博">百度推广客服官方微博帐号<a href="http://weibo.com/n/%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B0%8F%E5%BA%A6%20target=">@百度推广小度</a>随后却用“卖萌”的语调回复了此事，让人大跌眼镜。</span></p>
-<blockquote><p><strong><a href="http://weibo.com/1418829665/DsWzPjnkd" target="_blank">@孔狐狸</a></strong>：逛知乎，看到这个叫魏则西患癌男生的帖子，又追到他父亲<a href="https://www.zhihu.com/question/42392347" target="_blank">发布</a>他去世的消息。然后百度了这个疾病，那家竞价排名的医院依旧在首位。好希望那些科技自媒体人写写这个，而不是享受了百度的迪拜游回来后，帮百度卖贴吧写洗地文。</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF.png" rel="attachment wp-att-436072"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF.png?resize=500%2C998" alt="百度推广" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/百度推广.png?resize=768%2C1532 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/百度推广.png?resize=513%2C1024 513w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/百度推广.png?w=1214 1214w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong><a href="http://weibo.com/2961327471" target="_blank">@百度推广小度</a>：亲，感谢您的反馈，您说的情况推广小度已经协助反馈核实，请您随时关注。<img title="[可爱]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/14/tza_org.gif" alt="[可爱]" data-recalc-dims="1"></strong></p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkgfpvxj20gm0ia0xe.jpg" rel="attachment wp-att-436080"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkgfpvxj20gm0ia0xe.jpg?resize=525%2C578" alt="54919f61jw1f3bkkgfpvxj20gm0ia0xe" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkjif8aj20i509ogmi.jpg" rel="attachment wp-att-436079"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkjif8aj20i509ogmi.jpg?resize=525%2C280" alt="54919f61jw1f3bkkjif8aj20i509ogmi" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkjif8aj20i509ogmi.jpg?resize=300%2C160 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkkjif8aj20i509ogmi.jpg?w=653 653w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkklccekj20mj0bg76d.jpg" rel="attachment wp-att-436078"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkklccekj20mj0bg76d.jpg?resize=525%2C267" alt="54919f61jw1f3bkklccekj20mj0bg76d" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkklccekj20mj0bg76d.jpg?resize=300%2C153 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/54919f61jw1f3bkklccekj20mj0bg76d.jpg?w=690 690w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/03/3-15%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/" target="_blank">歪理邪说｜3.15，今天我被一家公司投诉了</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E9%98%91%E5%A4%95%EF%BC%9A%E7%99%BE%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8D%96%E8%B4%B4%E5%90%A7/" target="_blank">阑夕：百度为什么要“卖”贴吧</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/01/425415/">财新网 | 百度贴吧卖吧风波：为什么又是莆田系？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E5%86%8D%E8%B0%88%E7%99%BE%E5%BA%A6%EF%BC%9Akpi%E3%80%81%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%BB%99/" target="_blank">歪理邪说 | 再谈百度 一个必须给父母看的案例</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/05/%E7%9F%A5%E4%B9%8E%EF%BD%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E8%AF%B4%E3%80%8C%E7%99%BE%E5%BA%A6%E5%85%A8%E9%9D%A2%E9%99%8D%E4%BD%8E%E4%BA%86%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91/" target="_blank">知乎｜为什么有人说「百度全面降低了中国互联网体验」？</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/chaonimab" target="_blank">@最斑狸</a>：最右这个轻描淡写的态度就好像原PO只是反映了百度一个页面BUG而已。</p>
-<p><a href="http://weibo.com/n/%E9%9D%92%E9%B2%A4%E5%90%9B?from=feed&loc=at" target="_blank">@青鲤君</a>: 最右把恶心和下作发挥得淋漓尽致</p>
-<p><a href="http://weibo.com/2297077994" target="_blank">@少女修行中</a>：图片评论…………那啥，那个医院现在不在了，现在换成三个这个了！<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">“全身热疗”“不手术拒放疗”我尼玛，还不如那个<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/88eaa0eagw1f3c65u65mkj20lk0ipwke.jpg" rel="attachment wp-att-436076"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/88eaa0eagw1f3c65u65mkj20lk0ipwke.jpg?resize=440%2C382" alt="88eaa0eagw1f3c65u65mkj20lk0ipwke" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/88eaa0eagw1f3c65u65mkj20lk0ipwke.jpg?resize=300%2C260 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/88eaa0eagw1f3c65u65mkj20lk0ipwke.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p>
-<p><a href="http://weibo.com/n/%E5%B8%8C%E6%B3%A2%E5%85%8B%E6%8B%89%E5%BA%95%E9%97%A8%E5%BE%92?from=feed&loc=at" target="_blank">@希波克拉底门徒</a>:依据相关法规，国内任何医院开展自体免疫细胞疗法（包括DC-CIK）必须得到国家卫计委审核批准，而公开政府信息显示，没有一家医院被允许，所以国内所有这类疗法都是非法<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7287b1afgw1f3c5i6vsvvj20em0i6myw.jpg" rel="attachment wp-att-436075"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/7287b1afgw1f3c5i6vsvvj20em0i6myw.jpg?resize=400%2C497" alt="7287b1afgw1f3c5i6vsvvj20em0i6myw" data-recalc-dims="1"></a></p>
-<p>@女焉女未：霍炬：“百度控制着普通人接触信息时代的入口，却把路标指向邪恶欺骗的世界。它让人们对互联网世界失去信任、对技术失去尊重、在使用这个时代最先进的知识/信息获取方式时感到恐惧。加剧了信息占有乃至智识上的不平等。这种对弱势群体对普通大众的经年累月的作恶，是最深的恶。”</p>
-<p>@晏凌羊：赞同这句话：“（百度）对弱势群体、普通大众经年累月的作恶，是最深的恶。”然而，在逆淘汰机制盛行的商业体制和环境下，光苛责一家公司有什么用？很多恶，其实是因为“被鼓励”的结果，被偏爱的总是有恃无恐，官商勾结才是这个社会最大最恶的毒瘤。</p>
-<p><a href="http://weibo.com/qinyaping89" target="_blank">@覃菇凉yara</a><i title="微博达人"></i>： 曾经在长沙市中心医院肿瘤科生物治疗中心做文案策划，说的就是这个DC\CIK。慢慢了解后发现是在骗人，因为大部分肿瘤患者送来进行治疗花去大笔医疗费 不说，最后基本上都病逝。医院的高层与这些企业有协议，治疗中心设在医院急症楼，随便个什么人穿上白大褂就能进肿瘤科问询。他们的治疗中心遍布全国</p>
-<p><a href="http://weibo.com/qinyaping89" target="_blank">@覃菇凉yara</a>：2012年工作，感觉自己某种意义上也在骗人，所以两个月不到就辞职了。我当时有想过曝光他们，打了长沙地方频道的电话很多都不愿理会，后来被当时的办公室主任知道还被打电话威胁，说他们上面有人，根本不怕。<img title="[泪]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]" data-recalc-dims="1"><img title="[泪]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9d/sada_org.gif" alt="[泪]" data-recalc-dims="1">上面所说的武警总医院就是他们的，还有衡阳南华大学第一附属医院，其他的我就不记得了</p>
-<p><a href="http://weibo.com/realtimewwii" target="_blank">@直播二战</a>：图片评论<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg" rel="attachment wp-att-436074"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?resize=375%2C375" alt="9689a410jw1f3c6iel5dxj20qo0qoq86" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/9689a410jw1f3c6iel5dxj20qo0qoq86.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p>
-<p><a href="http://weibo.com/n/%E7%8E%8B%E5%BC%A0%E4%B8%89%E5%85%88%E7%94%9F?from=feed&loc=at" target="_blank">@王张三先生</a>: 大写的讽刺<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"> 评论配图<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4d6e233fgw1f3c6sd8x61j20cq0iaq56.jpg" rel="attachment wp-att-436077"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4d6e233fgw1f3c6sd8x61j20cq0iaq56.jpg?resize=300%2C431" alt="4d6e233fgw1f3c6sd8x61j20cq0iaq56" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4d6e233fgw1f3c6sd8x61j20cq0iaq56.jpg?resize=209%2C300 209w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/4d6e233fgw1f3c6sd8x61j20cq0iaq56.jpg?w=440 440w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"></a></p>
-<p><a href="http://weibo.com/3225709225" target="_blank">@蓝皮鼠的cc</a>：人血馒头啊<img title="[伤心]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/ea/unheart.gif" alt="[伤心]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/highcloud" target="_blank">@山至高云为峰</a>：回复<a href="http://weibo.com/n/%E8%8C%83%E8%8D%A3%E8%BE%89%E7%9A%84%E5%BE%AE%E5%8D%9A?from=feed&loc=at" target="_blank">@范荣辉的微博</a>:早些年，百度和谷歌还是差不多的高科技公司，现在谷歌，研究出了阿尔法狗，无人驾驶汽车等，不断的在挑战人类的极限，当然百度也在挑战人类的极限，只不过谷歌挑战的是科技的上限，百度挑战的是良知的下限。</p>
-<p><a href="http://weibo.com/summerchain" target="_blank">@nyawu</a>：可是啊 百度删了我网盘里的GV为什么还到处打色情广告<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">百度微博查东西都是根据相关法律法规 谷歌维基又被共产裆一枪打死 信息时代上哪去查信息啊</p>
-<p><strong>附：网友为魏则西制作的时间轴</strong>（<a href="http://vdisk.weibo.com/s/zUmTEzs64Anxg" target="_blank">下载地址</a>）</p>
-<p><strong>另附</strong>：“<a href="http://tech.hexun.com/2015-12-24/181395485.html" target="_blank">李彦宏的情怀</a>”</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%9D%8E%E5%BD%A6%E5%AE%8F%E7%9A%84%E6%83%85%E6%80%80.png" rel="attachment wp-att-436073"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%9D%8E%E5%BD%A6%E5%AE%8F%E7%9A%84%E6%83%85%E6%80%80.png?resize=500%2C133" alt="李彦宏的情怀" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/李彦宏的情怀.png?resize=300%2C80 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/李彦宏的情怀.png?resize=768%2C204 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/李彦宏的情怀.png?resize=1024%2C272 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/李彦宏的情怀.png?w=1060 1060w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%B2%EF%BC%8C%E6%82%A8%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E7%9A%84%E6%83%85%E5%86%B5%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B7%B2%E5%8F%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E8%A2%AB%E5%8D%96/?category=18271" rel="tag">百度贴吧“被卖”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E5%A4%A7%E5%A4%A7%E8%A1%A8%E7%A4%BA%E4%B8%8D%E6%BB%A1%EF%BC%9A%E8%BF%99%E7%A7%8D%E5%8D%91%E9%84%99%E4%BC%8E%E4%BF%A9/" target="cdt-mirror">【网络民议】习大大表示不满</a>
-</h2>
-<p><p>台湾基隆一个文创园区星期三举办“为台湾英雄铜像揭幕”仪式活动，不过，这位“台湾英雄”的身份却引起网民热烈讨论，因为他是中国前总理温家宝。</p>
-<p>香港明报报道说，这个温家宝铜像，赤着脚，一手拿着皮鞋，底座写着“台湾英雄”，中间写着“和谐”两个大字，旁边写着“开放陆客观光，对台政策友善，维持两岸和平，扩大经贸交流”。</p>
-<p>活动策展人林坤明表示，温家宝任内对台湾开放经商，创造许多就业机会，因此可以说是台湾英雄。</p>
-<p>不过，基隆的立委则表示，不太能接受，他个人觉得挺夸张；但该文创区是私有场域，活动也未涉政府补助，因此对园区内办理的活动只能尊重。</p>
-<p>铜像引起台湾网民热议。有网民指“不放习大大吗？”、“干脆放毛泽东好了”等等。</p>
-<p>来源：自由亚洲</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/ChCIK_XU4AAlqPu.jpg?resize=550%2C667" alt="ChCIK_XU4AAlqPu" data-recalc-dims="1"></p>
-<p>相关阅读：<a href="https://www.youtube.com/watch?v=z3EDyb3m__E" target="_blank">温家宝被扔鞋后的反应</a></p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
-<p><em>@凤凰网友：这就是所谓的台式伪民主</em></p>
-<p><em>@老酸汤：嗯！？让我先擦亮眼，有点小震惊。还是拆了吧，只怕某一天跟老蒋的铜像屡屡被绿营拆除一样的命运，那可是真正伤害了大陆民众的感情。在当前岛内绿蛆横行的社会环境里树立温总理的铜像，其实也是亵渎了温总理睿智！</em></p>
-<p><em>@兔子家萌萌的小号：翻脸的时候别和对蒋公一样对我们温总理就行，我们对总理是很尊敬的，不像你们。</em></p>
-<p><em>@CatrionaLin：你们台湾人欺负人也不能这么欺负吧，大陆的朋友不知道，你们会不知道？这个拥恒文创园区是干嘛的？你们台湾人不知道吗？是墓地唉，你们见过有把活人铜像立到墓地里的？这叫哪门子尊敬？还是说你们台湾人对你们认为的英雄，就是给他在墓地里立一个铜像是吗？欺人太甚了吧。</em></p>
-<p>@計定高平陵：濤哥和寶寶真心不知道比現在的那些玩意兒強到哪去了。</p>
-<p>@门挤一挤：雕像：XXX在台湾提鞋？</p>
-<p>@维基百科：温家宝被扔鞋事件是2009年2月2日时任中国国务院总理温家宝在英国伦敦剑桥大学被该校德国籍男研究生马丁·杨克扔鞋的事件。当时温家宝正在“瑞德讲坛”发表题为“用发展的眼光看中国”的演讲，鞋子被扔到距离讲台约一米远的地方，未击中温家宝。之后马丁·杨克被安保人员带离现场，温家宝则表现冷静称“这种卑鄙的伎俩阻挡不了中英两国的友谊”，继续完成演讲。中国政府后来向英国局施压以对马丁·杨克提出控告，在剑桥的法庭上马丁·杨克被判决无罪，并当庭获释。</p>
-<p>@hnjhj：温总理问禅师：“请问禅师，我辅佐先帝以来，殚精竭虑，然天下倾覆，此何故也？”禅师二话不说，把鞋子递到他手上。总理猛然醒悟：“禅师把两只鞋合在一起，难道说要我时刻不忘社会和谐？”禅师摇摇头：“我是要你记住，你就是个拎鞋的。”</p>
-<p>@Zodiac4698：哈哈哈哈，这事儿太无厘头了，就因为温家宝当政的时候期盼“两岸和谐”就要为他立个像吗？！还英雄碑？一句话成英雄？荒唐。大陆今天那么多为中华的自由民主抛头颅，洒热血，身陷囹圄的气节之士一个都比不上“影帝”？要讨好中共，你也挑一个在职的啊。</p>
-<p>@二逼青年批话多：接过两只丢来的皮鞋。</p>
-<p>@奈何子非鱼：其实他的内涵是：光脚不怕穿鞋的。</p>
-<p>@枪枪与玫瑰：有病吧，大陆都没有他的铜像啊。你们谁见过。</p>
-<p>@Gromit_Gao：手提鞋子的塑像应该立在剑桥吧。</p>
-<p>@等待比时间慢一点的美：我还记得温总理说得控制房价 字字入心 然并卵</p>
-<p>@走下神坛的三胖：怎么立的是铜人，不是早都说了，欠宝宝一个小金人吗？</p>
-<p>@拥抱黑暗SSS：这种卑鄙的技俩…….</p>
-<p>@端康子是：“和鞋”！真点题。</p>
-<p>@三石醬：应该放在台北影展上啊，这位是影帝诶。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B9%A0%E5%A4%A7%E5%A4%A7%E8%A1%A8%E7%A4%BA%E4%B8%8D%E6%BB%A1%EF%BC%9A%E8%BF%99%E7%A7%8D%E5%8D%91%E9%84%99%E4%BC%8E%E4%BF%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E8%8B%B1%E9%9B%84/?category=18271" rel="tag">台湾英雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90/?category=18271" rel="tag">和谐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D/?category=18271" rel="tag">温家宝</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -729,7 +763,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -739,5 +773,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

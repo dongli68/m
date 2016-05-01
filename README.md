@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E6%A7%BD-%E4%B8%80%E4%B8%AA%E6%AD%BB%E5%9C%A8%E7%99%BE%E5%BA%A6%E5%92%8C%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E4%B9%8B%E6%89%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/" target="cdt-mirror">有槽 | 一个死在百度和部队医院之手的年轻人</a>
@@ -87,7 +87,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E8%89%AF%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">无良企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">问题医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B9%A0%E5%86%8D%E5%91%BC%E5%90%81%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%95%A2%E8%A8%80-%E7%BD%91%E6%B0%91%E6%8C%96%E8%8B%A6%E4%BF%A1%E8%80%85%E5%BE%AE%E5%8D%9A%E5%8F%B7/" target="cdt-mirror">法广｜习再呼吁知识分子敢言 网民挖苦信者微博号都没了</a>
 </h2>
@@ -106,7 +106,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E8%89%AF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E8%9B%87%E5%87%BA%E6%B4%9E/?category=18271" rel="tag">引蛇出洞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E5%A4%A7v/?category=18271" rel="tag">微博大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E8%8A%B1%E9%BD%90%E6%94%BE/?category=18271" rel="tag">百花齐放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%9C%E8%88%AA%E8%88%B9northfleet%EF%BD%9C%E5%BC%80%E5%A4%A9%E7%AA%97/" target="cdt-mirror">夜航船Northfleet｜开天窗</a>
 </h2>
@@ -763,7 +763,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B8%8F%E9%9B%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -773,5 +773,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B8%8F%E9%9B%AA
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

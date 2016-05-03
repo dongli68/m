@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/bbc-%E6%96%B0%E9%97%BB%E8%A7%82%E5%AF%9F%EF%BC%9A%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E7%BD%91%E5%8F%8B%E5%8A%9B%E9%87%8F/" target="cdt-mirror">BBC | 新闻观察：“魏则西事件”背后的网友力量</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160503044327_baidu_976x549_afp_nocredit.jpg?resize=550%2C309" alt="迄今为止，中国网民似乎经历了一个从关注、愤怒到理性的过程。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160503044327_baidu_976x549_afp_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160503044327_baidu_976x549_afp_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>迄今为止，中国网民似乎经历了一个从关注、愤怒到理性的过程。</p></div>
+<p><strong>随着“魏则西事件”的进一步发酵，中国国家网信办的联合调查组调查百度，百度在纳斯达的股价下跌7.92%。而这些新进展，不得不给中国的网友记上一功。</strong></p>
+<p>周一（5月2号）中国国家互联网信息办公室发言人姜军在谈到“魏则西事件”时，称受到网民的广泛关注。并“根据网民举报”，联合调查组进驻百度调查.</p>
+<p>被调查后，百度对BBC回应称：“百度力求为用户提供安全可信的搜索体验。并且已经立即对此事展开调查。”</p>
+<p>5月2日晚间，百度（NASDAQ:BIDU）股价开盘后大幅下跌，以178.91美元收盘，跌幅7.92%，市值缩水约53亿美元。</p>
+<p>百度被调查了，股价也跌了。中国网友们满意了吗？</p>
+<p>答案是并没有。他们还在持续关注整个事件的发展。以及，网友们在整个舆情里，到底扮演了怎样的角色，又经历了怎样的转变呢？</p>
+<p><strong>“吊打百度”</strong></p>
+<p>“魏则西事件”从4月30号开始在中国的社交媒体微和问答社区“知乎”上发酵，再后来话题#魏则西百度推广事件#成为微博上从5月1号至今高居前三的热门话题，有8319万阅读量。</p>
+<p>迄今为止，中国网民似乎经历了一个从关注、愤怒到理性的过程。</p>
+<p>在相对封闭的微信平台上，即使人们在欢度“五一”小长假，但还是积极转发一篇文章：《一个死在百度和部队医院之手的年轻人》。这是整个“魏则西事件”的开端，也似乎该给这篇文章记头功。</p>
+<p>随后，舆情一边倒开始“吊打”百度。另一篇叫《如何彻底远离百度》的文章开始占据了微信朋友圈。文章质疑百度在舆论危机出现时，“喜欢奉行鸵鸟策略，做个整改的样子然后把头埋进沙子里装作什么都不知道静待舆论的降温 ”。随后，文章不无巨细地教用户怎样绕开百度的搜索，并列举了百度收购的企业。</p>
+<p>但是有多少人在转发了文章之后，认真去研究文中提及的方法？这不过是网友们表达自己的态度：“我们很愤怒”罢了。</p>
+<p>当然，也有稍微理性一些的网友，开始质疑这篇文章的用意何在？</p>
+<p>因为目前为止，还没有直接的调查结果显示百度到底在魏则西的死亡中扮演了怎样的角色。而魏家父母前后说法不一，也是值得质疑的地方。</p>
+<p>所以，网友发问了，这有可能是百度的竞争对手或者别的人别有用心。</p>
+<p>此后，周二（5月3号）网友们开始变得理性，因为在“魏则西事件”里，百度只是一环。还有给魏则西看病的医院–莆田系的典型代表呢？</p>
+<p><strong>查莆田系</strong></p>
+<p>5月2号晚间，微信朋友圈的用户们开始分享所在城市的莆田系医院名单，有的用户在转发名单时还不忘附上一句：“珍爱生命，远离莆田系医院”。目前成都、北京、唐山、广州等地网友们已自查所在地的莆田系医院。</p>
+<p>随后一篇名叫《百度的中枪掩护了多少人安全撤退？ 》开始引领网友们理性思考，百度出面回应魏则西的死，但是在背后沉默的武警二院以及莆田系呢？网友们开始把注意力转移到莆田系医院，称莆田系的存在本身就是当下医疗制度的乱源。</p>
+<p>于是网友们再次发力，在自己的平台包括微信和微博等转发“莆田系给部队医院领导送礼名单”等文章来“尽自己的一份力”。</p>
+<p>当然，这些内容的真实性还有待核查。</p>
+<p>网友们发力了，接力棒是否该交到监管部门手里？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/bbc-%E6%96%B0%E9%97%BB%E8%A7%82%E5%AF%9F%EF%BC%9A%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E7%BD%91%E5%8F%8B%E5%8A%9B%E9%87%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B/?category=18271" rel="tag">中国网友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-2/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-2</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg?resize=400%2C559" alt="巴丢草：如何医党" data-recalc-dims="1"></p>
@@ -1357,44 +1390,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%AB%8B%E6%B3%95%E6%8E%88%E6%9D%83%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8%E7%AE%A1%E7%90%86%E5%A2%83%E5%A4%96ngo/" target="cdt-mirror">纽约时报 | 中国立法授权公安部门管理境外NGO</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-29-at-%E4%B8%8B%E5%8D%882.01.04.png?resize=534%2C366" alt="Screen Shot 2016-04-29 at 下午2.01.04" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-29-at-下午2.01.04.png?resize=300%2C206 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/Screen-Shot-2016-04-29-at-下午2.01.04.png?w=534 534w" sizes="(max-width: 534px) 100vw, 534px" data-recalc-dims="1"><br><span>2009年，绿色和平在北京举办的关于气候变化的活动。Elizabeth Dalziel/Associated Press</span></p>
-<p>北京——周四，中国在习近平削弱西方影响、强化社会控制的运动中迈出了重要的一步，政府通过了一项新法律，目的主要是通过警察监督，来限制境外非政府组织以及它们在当地的合作伙伴的工作。</p>
-<p>据官方新闻报道，7000多家境外非政府组织（简称NGO）将受到影响。</p>
-<p>从事各种中国公民社会工作，包括环境、慈善事业和文化交流，甚至可能包括教育和商业的境外团体，现在必须找到一个中国的官方合作单位，并确保其所从事的项目得到警方的批准。</p>
-<p>那些不符合这些条件的团体将被迫离开中国。许多团体为了能够留下来，可能会缩小或取消被视为政治敏感的项目，比如培训律师。</p>
-<p>新法律是习近平抵制某些西方影响和想法的一系列行动的最新动作，他本人及其他领导人把这些西方的东西看成是对共产党生存的威胁。</p>
-<p>习近平特别强调意识形态，预计将制定其它覆盖面广泛的安全法。他的做法与他的几位前任推行的方向有很大的偏离，那些领导人在过去几十年里一直在寻求用外国的专门知识来引导中国的社会发展。</p>
-<p>中国的最新动作也是更广泛的全球趋势的一部分，包括俄国和印度在内的大国都在打击非政府组织，巩固国家权力。</p>
-<p>去年，新法律草案的一个审议稿开始公开征求意见时，其成为法律的可能性，曾在外国和中国非政府组织中引起很大的焦虑。包括美国在内的国家开始争取让北京取消、或者从根本上改变这个拟议中的法律。大学也发表了意见，因为草案早期版本中的模糊措辞意味着，教育机构可能会受到影响。商业协会也提出了反对意见。</p>
-<p>周四下午，全国人大常委会表示，常委会于周一开始对草案进行第三次审议之后，通过了该法。全国人大常委会的工作就是把中国共产党的政策变成法律。</p>
-<p>尽管受到外国团体和政府的普遍抗议，但草案早期版本中最严厉的内容仍保留了下来。法律要求境外非政府组织到公安部门注册，允许警察在任何时候仔细审查它们的所有运作，包括财务方面的。</p>
-<p>虽然拥有巨大权力的国内公安机关在中国本来就可以这样做，但国外组织担心，在新法律的正式授权之下，警方将在监督境外NGO的工作上花更大的精力。法律规定，境外NGO的任何雇员可以在任何时候被讯问。</p>
-<p>另外，境外NGO必须找到一个中国的官方合作单位。法律对什么样的中国组织将是能得到批准的合作单位未做规定，目前也不清楚如何确定能得到批准的合作单位、或由谁来确定。国外团体担心，中国的组织不会想冒这个风险。</p>
-<p>“我觉得比法律本身更重要的是如何实施，我认为，境外NGO现在需要把它们的精力集中到如何参与到法律执行的过程中来，这个过程将是漫长和旷日持久的，”密切跟踪中国的非政府组织的工作的香港中国劳工通讯(China Labor Bulletin)副主任谢世宏(Shawn Shieh)说。</p>
-<p>公安部将需要聘任工作人员，并采取其他步骤来实施法律，他说，“境外NGO将需要与公安机关经常交流，针对如何管理非政府组织及其在中国的项目和活动，为公安人员提建议，甚至办诸如研讨会、培训班等活动，来引导他们。”</p>
-<p>北京的一些官员曾经把境外NGO定性为破坏中国一党统治的“黑手”。这种怀疑在习近平领导下有所增长。</p>
-<p>官员曾指责境外NGO煽动香港的亲民主“雨伞运动”(Umbrella Movement)以及西藏的抗议活动，还试图在暗中用毛泽东称之为“和平演变”的手法把中国社会引上西方道路。</p>
-<p>“《境外非政府组织管理法》与习近平时代的许多其他举措一样：它是又一个把侵犯人权的行为合法化的工具，”人权观察组织(Human Rights Watch)中国部主任芮莎菲(Sophie Richardson)说。</p>
-<p>官方通讯社新华社本周报道说，法律草案的三次审议稿包括一个新的措辞，该措辞把受该法影响的组织广泛定义为“基金会、社会团体、智库机构等”。</p>
-<p>草案还表示，学术团体、研究团体和医院将“按照国家有关规定办理”。根据新华社解释，这意味着这些组织可能不被纳入该法，因为一些外国人已对学术项目可能遭受的危害表达了担心。但耶鲁大学法学院中国法律研究中心(China Center at Yale Law School)资深研究员杰里米·L·道姆(Jeremy L. Daum)在中国法律问题翻译博客(China Law Translate)中指出，其措辞含糊不清，“让人有些困惑。”</p>
-<p>中国之前没有关于境外NGO注册登记的规定，所以几乎所有在中国开展活动的团体都处在法律的灰色地带。外国法律专家说，中国应该有一部法律来批准这些团体的活动。但他们说，从公民社会的角度看，由公安部而不是民政部充当监管机构，是讲不通的。</p>
-<p>一些境外NGO，包括比尔和梅琳达·盖茨基金会(Bill & Melinda Gates Foundation)，现在的运作的确是受官方认可的，目前还不清楚它们是否需要遵循新的手续。</p>
-<p>某些类型的NGO与中国的人权活动者和律师开展合作，它们要找到官方合作伙伴，或在警方那里获得注册的机会不大。比如人权卫士紧急救援协会(Chinese Urgent Action Working Group)，是一个中国律师和一个居住在北京的瑞典居民七年前组建的，作为企业在香港注册。</p>
-<p>该团体提供法律培训和援助，为维权律师和“民告官”类型的诉讼提供支持。近几个月来，警方逮捕其成员，强行解散了这个团体。瑞典人彼得·达林(Peter Dahlin)今年1月遭到羁押，在被驱逐出境之前，他还被迫在电视上供认了所谓罪行。</p>
-<p>北京对一些境内外NGO已经怀有疑心，它们得到了一些被认为有政治嫌疑的外部资金的支持，比如总部都在美国的国家民主基金会（National Endowment for Democracy，简称NED）和开放社会基金会(Open Society Foundation)。利用这种资金在中国开展活动的团体，新的法律生效后处境将会越发艰难。</p>
-<p>该法律的通过也让人担心，较主流的境外NGO是否会独立地决定削减某些项目，比如促进政府增加透明度的项目，或者为了找到中国合作伙伴以及在公安部门注册登记而进行自我审查。</p>
-<p>美国律师协会(American Bar Association)为了避免和中国政府产生任何不快，放弃了出版中国人权律师滕彪新书的计划，此事在本月引起了激烈争论。该协会在北京有一个小型办事处在开展一个法制项目，不过协会总部在周一的声明中表示，驻中国的员工对这个决策没有发言权。</p>
-<p>黄安伟(Edward Wong)是《纽约时报》北京分社社长。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%AB%8B%E6%B3%95%E6%8E%88%E6%9D%83%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8%E7%AE%A1%E7%90%86%E5%A2%83%E5%A4%96ngo/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96ngo%E6%B3%95%E6%A1%88/?category=18271" rel="tag">境外NGO法案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%87%BBngo/?category=18271" rel="tag">打击NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">纽约时报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1406,7 +1401,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1416,5 +1411,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

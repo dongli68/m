@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,113 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-2/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-2</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg?resize=400%2C559" alt="巴丢草：如何医党" data-recalc-dims="1"></p>
+<p>@mozhixu：你国四大自残： 百度治病，微信养生，专家荐股，微博时政。分别伤害身体，父母，财产和智力，总有一款适合你！</p>
+<p>@blogtd：如果阴间也有知乎，获点赞数量最多的一个回答肯定在问题《做中国人是种怎样的体验》下面。</p>
+<p>@damyata：一条特殊准则普遍存在于希特勒的德国：那些知道的人不说，那些不知道的人不问，那些问的人得不到答案。通过这种方式，典型的德国公民赢得并捍卫了他的无知，而他的无知，似乎让他对纳粹主义的支持有了充分的理由。 #乱翻书 #再度觉醒</p>
+<p>@jajia：如果不实践两早论，那么还有更犬儒的三巴论：闭上嘴巴，管好鸡巴，加紧尾巴。鼓吹移民，只是希望朋友们过得更好一些。我知道这在公共价值上是有问题的，也不必在道德立场上来反对这句话。</p>
+<p>@格瓦拉：【院内故事】孙子问爷爷：你知道吗？每次您视察工作时，动物们都是事先排演多遍，您看不到真实的情况啊！爷爷微笑：我看的就是它们排演的，看看它们是否用心演给我看，这是组织能力的体现……真实情况不是靠这样视察得来的，视察是一种仪式，祖法传下来大家都需要的心照不宣的表演仪式……</p>
+<p>@szstupidcool： 最高指示：“对待知识分子的善意批评，不要揪辫子，不要扣帽子，不要打棍子。”其实这个最高指示，满满的居高临下的圣旨感觉，摆明就是我现在就是奴役着你，你还能怎么着？让你提提意见还是可以的，但是就别太装逼了。</p>
+<p>@hnjhj：对待知识分子的善意批评，不要揪辫子，不要扣帽子，不要打棍子，抓他嫖娼就可以了嘛。</p>
+<p>@江枫时评：开会时称人民，落户时称居民，强拆时称刁民，发怒时称屁民，收税时成了公民，打仗时称亲人。对外，老子有钱，到处撒钱。对内，老子有枪，到处开枪。据说人民的幸福是档和ZF给的，那么人民的痛苦是谁给的？我们只能这样回答：人民的痛苦都是自找的。</p>
+<p>@MyDF：说到退党还有一个笑话，基督徒孙海英，微博大V，被《环球时报》点名批评「党员信教、发表政治煽动以及历史虚无主义言论」，一时间各大官媒纷纷响应，要求孙长老退党， 孙海英回应：「谢谢关心和批评，我受宠若惊！更正：孙海英，男，59岁，非党员。」，做人要讲道理，不能污蔑别人是党员啊？！</p>
+<p>@周濂：在家长制的政治传统中，合法性的依据在于“我是你爸爸”；在独裁或极权主义的政治传统中，合法性的真实基础在于“我比你更强大”；在精英制的政治传统中，合法性的依据在于“我是专家”；在现代民主政治中，政治合法性的基础只能诉诸每一个公民的理性认可。</p>
+<p>@szxiaojl：海口强拆事件，都把那帮政府杂碎人员说成土匪。我一点也不赞同，不要侮辱土匪。土匪做事也有底线即八不抢：1、即残疾人不抢；2、孝子节妇不抢；3、寡妇犊子不抢；4、婚丧嫁娶不抢；5、婊子老鸨不抢；6、学生苦力不抢；7、先生郎中不抢；8、清官还乡不抢。可是想想当今：土匪没做的，谁在做？</p>
+<p>@lxc777：刚毕业做社会新闻，领导老派给我医院相关的选题。当事人通常是罹患疑难重病的人家，还有活生生在医院走廊吐血身亡无人救治的流浪汉。我写他们的遭遇，以求他们得到捐助、恰当的就医机会以及公正的对待。第一次有母亲给我跪下的时候，我心里面就只有愤怒。对这个病人要靠记者来救的社会无比绝望。</p>
+<p>@zmt0516：很多年前就有老军医擅长治疗性病的传说，和平年代的军队无法强奸敌国妇女，为何会有这么多性病病例，军队当中一定暗藏了许多不为人知的交易。</p>
+<p>@blogtd：产房内-妻子：我们的孩子长大了念剑桥还是牛津？丈夫：老婆你醒醒，我们是中国人…妻子：哦，那我们的孩子长大了用谷歌还是百度？</p>
+<p>@njhuar：百毒控制了國內信息入口，而南極惡則控制了言論入口，所以你在朋友圈看見對百毒的轟炸，不要以為企鵝就是天使，覆巢之下安有完卵？</p>
+<p>@WeipingQin：青年魏则西之死，成为当下中国舆论焦点，人们或愤怒或庆幸。百度和莆田联袂作恶多年，监管部门岂有不知之理，丛林中国，生老病死，都是他人盘中餐。弱肉强食，动物凶猛，坑蒙拐骗偷，吃喝嫖赌抽，众恶随意，莫贪国是，哪怕娱乐至死。这是人类世界一个很特别的物种，其生存哲学就是出人头地，混吃等死。</p>
+<p>@Kyou_Kyouu：百度竞价排名这件事儿，让我们知道，给你50万按下一个按钮杀死一个你不认识的人这样的选择题，距离我们一点都不远。</p>
+<p>@zhilushi：网友西乔女士曾经评论到：「百度控制着普通人接触信息时代的入口，却把路标指向邪恶欺骗的世界。它让人们对互联网世界失去信任、对技术失去尊重、在使用这个时代最先进的知识/信息获取方式时感到恐惧。加剧了信息占有乃至智识上的不平等。这种对弱势群体对普通大众的经年累月的作恶，是最深的恶。」</p>
+<p>@libearal：而墙的作用，不是让人们“用不了谷歌只能用百度了”，而是通过对信息的封锁和控制，让人们产生“我们有百度就足够了没必要去用谷歌”的想法。这种信任的根基是虚假的，但是本身却是真实的。</p>
+<p>@Cloudbleu：魏则西的事情爆出来之后，在人提醒后搜了下东方医院换人工心脏手术的系列报道，可怕程度可以说有过之而无不及。逃得过初一逃不过十五，躲过了搜索的虚假广告躲不过恶毒医院，在中国，总有一种死法适合你。</p>
+<p>@huajack：为迎接G20，街上出现了很多临时上岗的女巡警，说是必须大学学历168以上，其实就是没经过训练的花瓶，真遇到突发事件跟普通女性的反应没啥两样，搞得20国领导人到杭州来招嫖似的～</p>
+<p>@heynancy45：说服长辈安装净水器历经数次沟通，央视只花两分钟时间，就能让长辈亲自把净水器卸下来。</p>
+<p>@海獭四四：很好奇中国社会的普遍观念到底把恋爱婚姻当成什么。我觉得为了应付社会压力、传宗接代和改善经济状况的结婚都应该算骗婚。</p>
+<p>@chuhan：“如果你不能坚持看完一集甄嬛传，我觉得你就不适合生活在这里。” 深以为然。</p>
+<p>@Air_Mu：你国的禁欲规则反而让一切都更淫俗。就拿直播网站来说，一大堆条例限制所谓的女主播卖肉行为。可这些网站除了游戏之外最大的卖点其实就是靠那群怪异丑女吸引猥琐男。像TWITCH就没有这样的。因为别人要撸管大可上直接上YOUPORN，色情直播也有正经门路。</p>
+<p>@alang198611：我和室友约定，每晚去街上慢跑半个小时，我们坚持了一个月，效果真的很明显，沿街的烧烤摊都被我们吃遍了。</p>
+<p>@Scswga：第一个月上班只拿到1000元工资，心情很失落。老板安慰我：“别灰心，好好干，下个月会更多。”果然第二个月比第一个月多开了十个会。</p>
+<p>@maylogcom：#转：建议把五一小长假的“长”字去掉，丢人。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%E6%96%B0%E9%97%BB%E9%81%AD%E5%85%A8%E9%9D%A2%E7%A6%81%E8%AF%84/" target="cdt-mirror">【立此存照】任志强留党察看新闻遭全面禁评</a>
+</h2>
+<p><p><strong><a href="http://politics.caijing.com.cn/20160502/4113463.shtml" target="_blank">财经网｜任志强被留党查看一年</a></strong></p>
+<blockquote><p>近日，经西城区纪委常委会议研究并报区委批准，对4起党员干部违纪案件进行了处理，西城区委通报了处理情况：华远集团原党委副书记、董事长任志强同志多次在微博、博客等网络平台和其他公开场合公开发表违背四项基本原则、违背党的路线方针政策等方面的错误言论，其行为严重违反党的政治纪律，决定给予任志强同志留党察看一年处分。</p></blockquote>
+<p><strong>目前，几乎所有在新浪微博内发布上述新闻的媒体认证账号均被限制了评论。</strong>以下截图由数字时代编辑截取自新浪微博：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91.png" rel="attachment wp-att-436530"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91.png?resize=500%2C221" alt="财经网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/财经网.png?resize=768%2C339 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/财经网.png?resize=1024%2C452 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/财经网.png?w=2090 2090w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+财经网</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB.png" rel="attachment wp-att-436529"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB.png?resize=500%2C222" alt="澎湃新闻" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻.png?resize=300%2C133 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻.png?resize=768%2C341 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻.png?resize=1024%2C454 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻.png?w=2096 2096w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><strong>澎湃新闻</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB.png" rel="attachment wp-att-436528"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB.png?resize=500%2C193" alt="网易新闻" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/网易新闻.png?resize=300%2C116 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/网易新闻.png?resize=768%2C297 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/网易新闻.png?resize=1024%2C396 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/网易新闻.png?w=2084 2084w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><strong>网易新闻客户端</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5.png" rel="attachment wp-att-436527"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5.png?resize=500%2C220" alt="环球时报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环球时报.png?resize=300%2C132 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环球时报.png?resize=768%2C338 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环球时报.png?resize=1024%2C451 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环球时报.png?w=2084 2084w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+环球时报</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E6%B5%AA%E5%A4%B4%E6%9D%A1.png" rel="attachment wp-att-436526"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E6%B5%AA%E5%A4%B4%E6%9D%A1.png?resize=500%2C214" alt="新浪头条" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪头条.png?resize=300%2C128 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪头条.png?resize=768%2C329 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪头条.png?resize=1024%2C438 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪头条.png?w=2094 2094w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+新浪头条新闻</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E6%B5%AA%E8%B4%A2%E7%BB%8F.png" rel="attachment wp-att-436519"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E6%B5%AA%E8%B4%A2%E7%BB%8F.png?resize=500%2C219" alt="新浪财经" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪财经.png?resize=768%2C337 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪财经.png?resize=1024%2C449 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪财经.png?w=2088 2088w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+新浪财经</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5.png" rel="attachment wp-att-436520"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5.png?resize=500%2C226" alt="南方日报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/南方日报.png?resize=300%2C136 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/南方日报.png?resize=768%2C347 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/南方日报.png?resize=1024%2C463 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/南方日报.png?w=2312 2312w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+南方日报</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E6%96%B0%E7%BD%91.png" rel="attachment wp-att-436521"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E6%96%B0%E7%BD%91.png?resize=500%2C219" alt="中新网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中新网.png?resize=300%2C131 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中新网.png?resize=768%2C336 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中新网.png?resize=1024%2C448 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中新网.png?w=2320 2320w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+中新网</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%BF%E5%B7%9E%E6%97%A5%E6%8A%A5.png" rel="attachment wp-att-436514"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%BF%E5%B7%9E%E6%97%A5%E6%8A%A5.png?resize=500%2C220" alt="广州日报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/广州日报.png?resize=300%2C132 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/广州日报.png?resize=768%2C338 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/广州日报.png?resize=1024%2C450 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/广州日报.png?w=2088 2088w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+广州日报</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5.png" rel="attachment wp-att-436524"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5.png?resize=500%2C223" alt="联合早报" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合早报.png?resize=300%2C134 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合早报.png?resize=768%2C343 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合早报.png?resize=1024%2C458 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合早报.png?w=2318 2318w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+联合早报</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%A6%99%E6%B8%AF%E6%96%87%E6%B1%87%E6%8A%A5.png" rel="attachment wp-att-436522"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%A6%99%E6%B8%AF%E6%96%87%E6%B1%87%E6%8A%A5.png?resize=500%2C178" alt="香港文汇报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/香港文汇报.png?resize=300%2C107 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/香港文汇报.png?resize=768%2C273 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/香港文汇报.png?resize=1024%2C364 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/香港文汇报.png?w=2316 2316w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+香港文汇报</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" rel="attachment wp-att-436523"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E5%9B%BD%E4%B9%8B%E5%A3%B0.png?resize=500%2C217" alt="中国之声" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国之声.png?resize=300%2C130 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国之声.png?resize=768%2C333 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国之声.png?resize=1024%2C444 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国之声.png?w=2314 2314w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+中国之声</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BD%87%E6%B9%98%E6%99%A8%E6%8A%A5.png" rel="attachment wp-att-436532"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BD%87%E6%B9%98%E6%99%A8%E6%8A%A5.png?resize=500%2C235" alt="潇湘晨报" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/潇湘晨报.png?resize=300%2C141 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/潇湘晨报.png?resize=768%2C362 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/潇湘晨报.png?resize=1024%2C482 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/潇湘晨报.png?w=2310 2310w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+潇湘晨报</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BB%8A%E6%99%9A%E6%8A%A5.png" rel="attachment wp-att-436513"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BB%8A%E6%99%9A%E6%8A%A5.png?resize=500%2C226" alt="今晚报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/今晚报.png?resize=300%2C136 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/今晚报.png?resize=768%2C347 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/今晚报.png?resize=1024%2C463 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/今晚报.png?w=2330 2330w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+今晚报</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B3%95%E7%BD%91.png" rel="attachment wp-att-436515"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B3%95%E7%BD%91.png?resize=500%2C169" alt="法网" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/法网.png?resize=300%2C101 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/法网.png?resize=768%2C259 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/法网.png?resize=1024%2C345 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/法网.png?w=2302 2302w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+法网</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/vista%E7%9C%8B%E5%A4%A9%E4%B8%8B.png" rel="attachment wp-att-436516"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/vista%E7%9C%8B%E5%A4%A9%E4%B8%8B.png?resize=500%2C221" alt="vista看天下" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/vista看天下.png?resize=768%2C339 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/vista看天下.png?resize=1024%2C452 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/vista看天下.png?w=2320 2320w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+Vista看天下</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93.png" rel="attachment wp-att-436517"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93.png?resize=500%2C214" alt="21世纪经济报道" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21世纪经济报道.png?resize=300%2C128 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21世纪经济报道.png?resize=768%2C329 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21世纪经济报道.png?resize=1024%2C438 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21世纪经济报道.png?w=2314 2314w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+21世纪经济报道</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%AF%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E6%96%B0%E9%97%BB.png" rel="attachment wp-att-436525"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%AF%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E6%96%B0%E9%97%BB.png?resize=500%2C212" alt="每日经济新闻" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/每日经济新闻.png?resize=300%2C127 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/每日经济新闻.png?resize=768%2C326 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/每日经济新闻.png?resize=1024%2C434 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/每日经济新闻.png?w=2316 2316w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+每日经济新闻</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%83%BD%E5%B8%82%E5%BF%AB%E6%8A%A5.png" rel="attachment wp-att-436518"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%83%BD%E5%B8%82%E5%BF%AB%E6%8A%A5.png?resize=500%2C227" alt="都市快报" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/都市快报.png?resize=300%2C136 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/都市快报.png?resize=768%2C348 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/都市快报.png?resize=1024%2C464 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/都市快报.png?w=2308 2308w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+都市快报</p>
+<p><strong>出于某种不为人知的原因，以下两位蓝V是唯一未被限制评论的媒体账号：</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B5%B7%E7%96%86%E5%9C%A8%E7%BA%BF.png" rel="attachment wp-att-436534"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B5%B7%E7%96%86%E5%9C%A8%E7%BA%BF.png?resize=500%2C214" alt="海疆在线" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/海疆在线.png?resize=300%2C128 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/海疆在线.png?resize=768%2C328 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/海疆在线.png?resize=1024%2C438 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/海疆在线.png?w=2320 2320w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+曾<a href="http://chinadigitaltimes.net/chinese/2015/02/%E5%B7%A6%E6%B4%BE%E7%BD%91%E7%AB%99%E6%B5%B7%E7%96%86%E5%9C%A8%E7%BA%BF-%E7%96%91%E8%A2%AB%E5%B0%81/" target="_blank">一度被停止解析</a>的海疆在线网</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD.png" rel="attachment wp-att-436533"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD.png?resize=500%2C228" alt="河南新闻广播" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/河南新闻广播.png?resize=300%2C137 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/河南新闻广播.png?resize=768%2C350 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/河南新闻广播.png?resize=1024%2C467 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/河南新闻广播.png?w=2308 2308w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+河南新闻广播</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/07/%E8%83%B6%E5%B8%A6%E5%98%B4-copy.jpeg" rel="attachment wp-att-396980"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/07/%E8%83%B6%E5%B8%A6%E5%98%B4-copy.jpeg?resize=400%2C531" alt="胶带嘴 copy" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/07/胶带嘴-copy.jpeg?resize=226%2C300 226w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/07/胶带嘴-copy.jpeg?w=716 716w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><span>当代水墨画 “胶带嘴” by 秃头倔人</span></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/ziyu2000" target="_blank">@亦同009</a>：任总没嫖娼，我就放心了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2471169362" target="_blank">@yue出dong山</a>：任先生居然没被开除党籍，一生的污点啊……<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/hellobinggege" target="_blank">@田野VN</a>：各媒体集体关评论！<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p>@王小_82313：5毛都懒的花了。</p>
+<p><a title="一套子_" href="http://weibo.com/2486955037">@一套子_</a>：关闭评论的可见自己都不愿看见自己的一副嘴脸，容不得别人说他半点不是<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3184406702" target="_blank">@斗者之魂</a>：还能再心虚点吗，不许评论的笑死了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/qqmen" target="_blank">@发型师烟叶</a>：宇宙真理支部：全网查删评论<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p>@回归真我V：皇帝的新衣 光着屁股也不能说。</p>
+<p>@水行君：所有转发这条通稿的媒体微博，似乎只有这个没有关闭评论。如果处理是对的，为什么害怕评论呢？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%E6%96%B0%E9%97%BB%E9%81%AD%E5%85%A8%E9%9D%A2%E7%A6%81%E8%AF%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90-%E8%B5%B7%E5%BA%95%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%BC%95%E5%8F%91%E5%85%AC%E6%84%A4%E7%9A%84%E5%8C%BB%E9%99%A2%E7%A7%91%E5%AE%A4%E8%83%8C%E5%90%8E%E7%9A%84%E8%8E%86%E7%94%B0/" target="cdt-mirror">搜狐弧度 | 起底调查：引发公愤的医院科室背后的莆田系身影</a>
 </h2>
 <p><p>22岁的西安电子科技大学计算机专业学生魏则西，因罹患恶性肿瘤滑膜肉瘤，于今年4月12日去世。半个月后，他在知乎讲述被位列百度搜索结果首位的医院蒙骗的经历，经网友转发后再次引发公众对百度医疗广告模式的口诛笔伐。</p>
@@ -1291,56 +1395,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%B1%E8%AF%86%E7%BD%91-%E6%B0%91%E9%97%B4%E8%AF%AD%E8%A8%80%E4%BD%8E%E4%BF%97%E5%8C%96%E6%98%AF%E5%AF%B9%E5%AE%98%E6%96%B9%E5%A5%97%E8%AF%9D%E7%A9%BA%E8%AF%9D%E7%9A%84%E6%8A%97%E8%AE%AE/" target="cdt-mirror">共识网 | 民间语言低俗化是对官方套话空话的抗议</a>
-</h2>
-<p><p>作者：史啸虎，广州市社会科学院经济学研究员、安徽大学兼职教授。</p>
-<p>昨天共识头条发表了苏祖祥先生的一篇谈论汉语粗鄙化的文章，题为《<a href="http://www.21ccom.net/html/2016/edu_0427/3684.html" target="_blank">为什么今天的汉语越来越猥琐?</a>》。阅后我觉得也有一些话想说，于是就写了这篇文章。</p>
-<p>我感到苏文写得挺好，将时下“汉语直奔‘脐下三寸’现象”揭露无遗，也提出他对当下汉语为何越来越污秽原因的分析。但我总觉得此文对民间粗言鄙语愈益低俗化的主因分析得还不够。<strong>倘能从宏观，尤其是社会意识形态角度观察这一社会现象的源头可能会更好。</strong></p>
-<p>当下中国，网络空间、私下之间，甚至街谈巷议中都出现了很多格调不高的粗鄙语言，以往人们羞于讲出口的脏话也是信手捻来，出口成章，甚至被有些人引以为时尚。汉语文字形意并举，本来是很美的，但社会上大量粗言鄙语的出现将汉语的这种美给污染了。这是很令人扼腕而叹的事情。现在很多有识之士面对这一现象忧心忡忡，也提出了很多如何清洁语言环境的建议和措施。官方媒体也是连连发文对此现象进行批判。但遗憾的是，很多人，尤其是官媒，将这种粗言鄙语社会现象的出现归咎于“部分人群心灵的枯萎、情感精神的粗鄙化”，甚至诿罪于网络，认为是网络，如一些自媒体、微信公众号等对此进行了推波助澜。(详见《网络不是语言粗鄙之风的温床》2016年1月21日人民网)</p>
-<p>我们知道，任何语言都是社会化的。这就是说，人们都是通过社会交流的语言来接受并融入他们所身处的社会的并逐步成为那种社会的成员的。社会化语言也是人与社会互动并发生相互作用的结果。据此我们可以得出这样的结论，即任何一种语言，无论是雅言还是俗语，也无论是官方主流语言还是民间世俗语言，它们都是一定社会的产物。因此，<strong>分析当下粗言鄙语产生的原因就不能不去分析当下的社会及其意识形态。一味地指责那些使用这些粗言鄙语的人是改变不了这一社会现象的。</strong></p>
-<p>众所周知，<strong>我们现在这个社会中存有两套截然不同的话语体系。一种是官方提倡的所谓主流话语体系，另一种则是民间普遍使用的所谓世俗话语体系。</strong>这本来也是正常的，任何社会都有这两种话语体系。语言本来也就是官民有别、雅俗共赏嘛。只要官方话语体系所代表和体现的主流意识形态的价值观能被其国民普遍接受的话，那么民间话语体系即便在表述方式及所用词语上与前者有所不同，但还是能够基本上反映出其与官方话语体系在价值观上的相同之处的。在这种情况下，国民的语言审美标准显然是趋于真善美的。在这样的一种正常社会里，粗言鄙语即便有，也不过是雅言美语的一种缝隙填充物或叫调味料罢了，是绝然不会形成当下的这种涛涛浊流的。<strong>现在之所以会粗言鄙语日盛，显然是我们的官方话语体系出了问题</strong>，而且是大问题。</p>
-<p>我们的官方话语体系究竟出了什么大问题呢?大家只要打开那些主流官媒的前四个版面或者更多版面就可以明白了。<strong>那里面几乎充斥了洪水一般汹涌的八股式的套话、空话，甚至假话，而且还千媒一面。</strong>如果让这些官媒以市场化方式让国人自行订阅并由它们依靠读者自己养活自己的话，我估计不要一年它们都会停刊的。这是因为官方的那套话语体系已经蜕变成一种令人厌恶的套话和空话语系了。在很多情况下，相比于官方的套话和空话语系，民间的那些粗言鄙语有时候倒显得有点亲切起来，尽管上不了台面。可以说，民间语言的低俗化其实是对官方的现代套话语系的一种反动，或叫抗议。</p>
-<p><strong>官方的套话和民间的粗话构成了中国社会化语言的两端。一个社会的粗言鄙语愈是低俗化，相应的就是官方套话语系的愈益空泛化。</strong>这两者几乎是同时发生并趋向其极端的。等到全民都开始骂娘时，可能也是那个套话语系登峰造极的时候吧。这是因为我们的主流意识形态存有大问题且长时间得不到厘清和纠正，民间的价值观必然导致混乱。我想，这才是时下中国民间粗言鄙语越演越烈的主因所在。</p>
-<p>官方话语体系的不彰，让中国的所谓上流社会和官场也在流行一些适应他们生活圈子的低俗语言，如绿茶婊和外围女等。这表明那种见不得人的低俗生活方式也在相当程度上浸濡了中国的达官贵人。其实，现在中国的官场中人也在私人之间悄悄地消费一些低俗和粗鄙程度丝毫不亚于社会底层民众粗言鄙语的语言。那些总以为粗俗语言仅仅是中低社会阶层专用品的观点显然是错误的。达官贵人骂起街来可能会更加难听和刺耳。由此可见，当一个社会主流意识形态充斥着套话、空话和谎言时，这个社会的所有阶层的人，无论是高阶层社会人士还是社会中低阶层民众，私下语言的恶俗化就是必然的趋势。对此视而不见或者干脆将语言恶俗化诿罪于普通民众的心灵和情感的粗鄙化都是站不住脚的。</p>
-<p>为此，要想<strong>净化我们的语言环境，首先得从净化我们的官方话语体系入手</strong>，逐步减少并最终消除那些套话、空话和大话，让我们的国民能够从一个正常而健康的官方话语体系中汲取到真正符合国民权利意识觉醒需要的主流意识形态及其价值观。这才是减少并消除粗言鄙语，净化国民语言环境，让汉语恢复其天然之美的正确措施。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%85%B1%E8%AF%86%E7%BD%91-%E6%B0%91%E9%97%B4%E8%AF%AD%E8%A8%80%E4%BD%8E%E4%BF%97%E5%8C%96%E6%98%AF%E5%AF%B9%E5%AE%98%E6%96%B9%E5%A5%97%E8%AF%9D%E7%A9%BA%E8%AF%9D%E7%9A%84%E6%8A%97%E8%AE%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E8%AF%86%E7%BD%91/?category=18271" rel="tag">共识网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E8%AF%AD%E8%A8%80/?category=18271" rel="tag">官方语言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E8%85%94/?category=18271" rel="tag">官腔</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%AF%AD%E8%A8%80/?category=18271" rel="tag">网络语言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8D%89%E6%B3%A5%E9%A9%AC%E8%AF%AD/?category=18271" rel="tag">草泥马语</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%9C%9D%E9%B2%9C%E8%AE%A4%E7%9C%9F%E7%8E%A9%E6%A0%B8%E6%84%8F%E5%91%B3%E8%91%97%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">端传媒 | 朝鲜认真“玩核”意味著什么？</a>
-</h2>
-<p><p>特约撰稿人：金珍镐 发自韩国首尔</p>
-<blockquote><p>朝鲜在军备发展上动作频频，潜射弹道导弹试验更获国际社会承认成功，这将给东北亚地区再添不安全因素。</p></blockquote>
-<p>韩国国防部说，朝鲜28日上午试图二度发射1枚舞水端中程弹道飞弹，但失败收场。 而在本月23日，韩联社援引韩国联合参谋本部的消息称，朝鲜当天下午6时30分许在咸镜南道新浦市向朝鲜半岛东北方向海域，发射疑为潜射弹道导弹（SLBM）的1枚飞行物。</p>
-<p>朝中社24日报道，朝鲜日前再次发射潜射导弹并自称成功。之后，韩、美、日政府也发表声明，承认这次发射部分成功。</p>
-<p>朝鲜潜射弹道导弹（SLBM）的技术开发和发射试验，证明朝鲜在核遏制力和突发性攻击能力战略水准上，有了很大提升。朝鲜核武器开发及其准备布置的内容，让韩、美、日三国等周边国家有些担忧。针对朝鲜的核武器威胁，韩国保守派甚至主张在韩国布置相关防御系统和核武器。</p>
-<p>报道说，金正恩对这次发射训练结果表示满意。</p>
-<blockquote><p>金正恩说，此次试验的成功标志着朝鲜核攻击力又有所增强，朝鲜海军水下作战能力得到显著强化，今后朝鲜可在任何时候对韩美进行水下攻击。</p></blockquote>
-<p>2015年5月9日，在俄罗斯举行卫国战争胜利70周年阅兵式当天，朝中社发布一组金正恩视察“北极星1号”潜射弹道导弹水下发射试验的照片。这组照片在国际上引发了巨大回响。</p>
-<p>潜射弹道导弹由潜艇携带，可在水下发射攻击敌国目标。由于潜艇的隐蔽性，潜射弹道导弹是生存能力最强的战略武器，这也是五个核大国二次核反击能力的支柱，英法两国甚至干脆将所有洲际导弹交由核潜艇携带。</p>
-<p>朝鲜如果掌握弹道导弹潜射技术，即便其导弹射程较小，没有核潜艇，但美国及其盟国也很难通过空中打击来剥夺朝鲜的核攻击能力。因此，当时朝鲜领导人金正恩表示：“此次成功试射，是不亚于发射人造卫星的惊人成就。”不过在当时，朝鲜的潜射导弹技术层级却受到很多质疑。在首次试射中，朝鲜的潜射导弹仅飞行了180米，且由当时公布的图片显示来看，朝鲜的潜射导弹出水角度过小，预示着其水下弹道计算存在问题。</p>
-<p>但是本次朝鲜的潜射导弹出水角度大，比较正常，水下弹道计算应该没有问题，因此可以说朝鲜已经攻克了潜射弹道导弹正确姿态出水方面的技术难关，而且本次飞行距离达到30千米。从公布的照片来看，导弹发动机火焰属实，且能够在出水后适时顺利点火，这足以显示出朝鲜在潜射导弹方面的成就是惊人的。也因此可以推知，在今后的时间里，朝鲜只要再在潜射导弹发动机技术层级上有所突破，其潜射导弹飞行更远的距离，是没有问题的。</p>
-<p>此次朝鲜进行潜射导弹发射使用的是“新浦”级潜艇（在新浦港被拍到，由此命名），长约65米，宽6.6米，排水量约1500吨。据推测，“新浦”级潜艇只能携带一枚“北极星1号”潜射弹道导弹。但是如果朝鲜可以解决潜射导弹发动机问题，其潜射弹道导弹先期具备1000至1500千米的射程是没有问题的。 这意味著朝鲜潜射弹道可直接威胁韩国、日本和关岛等地的安全。而按照朝鲜接连攻克潜射弹道导弹技术难关的研发步伐来看，进行全状态试验弹试射并不遥远。</p>
-<blockquote><p>美韩此次也一改以往的讥嘲态度，都对朝鲜的行为表示密切关注。</p></blockquote>
-<p>通过此次潜射来看，朝鲜所掌握的技术可以说有很大提高。相对于其他掌握此项技术的国家所耗用的时间和资金来看，朝鲜所取得的突破着实很惊人。</p>
-<p>此次潜射导弹实验之后，联合国和各方都对朝鲜行为表示谴责。日本防相中谷元24日在东京向媒体表示，“若是可抵达我国领域和周边海域的弹道导弹能力有所增强，就要予以强烈关注。”中谷同时强调，“朝鲜正在努力加强包括新的导弹研发在内的军事实力。要保持高度关注，加强信息收集与分析工作以策万全。”他称此次发射没有影响日本安全。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/402ba2c162ad4d6c84ba18e9ae4fff0f.gif?resize=550%2C367" alt="402ba2c162ad4d6c84ba18e9ae4fff0f" data-recalc-dims="1"><br><span>朝鲜核武器射程覆盖地区变化图制图：端传媒设计部</span></p>
-<p>俄罗斯卫星网23日援引俄联邦海军总司令部前任司令维克多·克拉夫琴科的话称，朝鲜从潜艇上发射弹道导弹的行为，证明朝鲜在导弹技术领域取得了进展。他同时补充道，朝鲜进行导弹试验的行为对于俄罗斯而言是一种威胁。美国《纽约时报》称朝鲜的说法是“典型的夸大其词”，但是却不敢忽视朝鲜所取得的进步。美国总统奥巴马24日批评朝鲜仍在从事持续挑衅性举动，他表示已就对朝施压与中国展开合作，虽然合作尚未达到期待的水平。</p>
-<p>很显然，面对史上最严厉的制裁，朝鲜并未退缩，金正恩依然在我行我素。朝鲜潜射导弹发射当天，正在纽约参加联合国会议的朝鲜外务相李洙墉接受美联社采访，表示若美韩两国停止每年在朝鲜半岛进行的联合军演，朝鲜愿以停止核试验作为回应。</p>
-<p>朝鲜“玩核”的确很认真，东北亚未来国际局势也不透明，东北亚不安因素急速增加，制裁朝鲜是唯一解决朝核问题的方案吗？</p>
-<p>（作者为檀国大学政治外交系系主任）</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%9C%9D%E9%B2%9C%E8%AE%A4%E7%9C%9F%E7%8E%A9%E6%A0%B8%E6%84%8F%E5%91%B3%E8%91%97%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E5%8D%8A%E5%B2%9B/?category=18271" rel="tag">朝鲜半岛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C%E6%A0%B8%E9%97%AE%E9%A2%98/?category=18271" rel="tag">朝鲜核问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1352,7 +1406,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1362,5 +1416,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

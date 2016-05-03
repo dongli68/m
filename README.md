@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,124 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%99%BE%E5%BA%A6%E5%86%85%E9%83%A8%E5%8F%91%E6%96%87%EF%BC%9A%E7%A0%A5%E7%A0%BA%E9%A3%8E%E9%9B%A8%E5%9D%9A%E5%AE%88%E4%BD%BF%E5%91%BD/" target="cdt-mirror">月光博客 | 百度内部发文：砥砺风雨坚守使命</a>
+</h2>
+<p><p>5月3日中午消息，据知情人士消息，百度内部今日通过内网发布题目为《砥砺风雨坚守使命》的文章，对五一期间的“魏则西事件”做出了内部说明。</p>
+<p>百度方面首先对魏则西事件做了说明，叙述了魏则西事件的经过。除了对两则声明和欢迎国家部委入驻监督外，百度还对“重要事实”做了澄清，百度方面称，此前有媒体以独家授权发布的魏则西父母的声明不实，百度在魏则西事件发生后曾联系过魏则西父母，而且有录音为证。</p>
+<p>此外，百度内文还称，欢迎国家部委监督，并会配合相关部门一起治理线下违规医院。百度还进一步表示：为此百度发布声明称打击虚假医疗的决心不会变，高门槛、严审核是百度推广长期持续的机制，“我们不会因为’问题医院’的抱团抵制而放宽要求，更不会与任何一家不合资质要求的的医疗机构进行合作。”</p>
+<p>最后，百度方面在内文中还表明了自己的决心：“搜索就像一面镜子，照见的是整个真实世界。当我们一起努力去建设一个好的世界，打击恶的，就会得到一个好的搜索。今天我们作为一家优秀的企业，需要去背负国家、行业本该履行的监管责任。”(李根)</p>
+<p>百度《砥砺风雨坚守使命》全文如下：</p>
+<p>可能从来没有一个五一假期让百度人过得如此揪心甚至委屈。我们一直引以为豪的公司，忽然间在微博、知乎、微信等社交媒体上，被一场浩浩荡荡的舆论讨伐推上了风口浪尖，也许你和小编一样，面对来自自己亲人、朋友以及陌生网友的询问、质疑甚至责难，百口莫辩、言不尽意。</p>
+<p>4月12日，年仅21岁的大学生魏则西，罹患“滑膜肉瘤”晚期而离世。他曾在西安的一家医院先后接受了4次化疗和25次放疗，但是效果并不理想。魏则西父母并未就此放弃，在北京某肿瘤医院医师的推荐下，通过央视和百度了解“武警北京总队第二医院”后，魏则西父母先行前往考察，并被该医院李姓医生告知可治疗，于是魏则西开始了在武警北京总队第二医院先后4次的治疗，花费了二十多万医疗费后未见好转。后来他又经过了其他多家医院的治疗，最后不幸离世。</p>
+<p>4月底，网友找出魏则西在2016年2月26日一则知乎问答，将百度搜索和百度推广推上风口浪尖。4月28日，百度通过“百度推广”微博账号中对此事做出回应，对逝者以慰问，并调查医院资质。4月30日，各路自媒体大V和媒体纷纷撰文。5月1日，百度推广再度发声，表示第一时间向发证单位及武警总部主管该院的相关部门递交审查申请函，希望相关部门能对其治疗效果及内部管理问题立即展开调查，并全力支持魏则西家属维权。5月2日，该门诊被关停，更多媒体报道爆出莆田系承包科室和民营医院虚假宣传各种乱象。5月2日晚，中央网信办负责人发表讲话宣布成立联合调查组，我们宣布欢迎调查并将积极配合，厘清事实真相。</p>
+<p>和每一个普通人一样，我们为年轻的生命难过，因此我们在了解情况后的第一时间就致电了则西的父母，这里有一个需要郑重澄清的事实，源自一篇媒体报道——5月1日22点某网站所谓的独家授权报道里，声称采访了魏则西的父母，“事实上，百度从未与他们联系过”。</p>
+<p>幸而我们打电话的小风同学留下了通话记录，这段通话发生在4月28日13:26分，时长为13分53秒，手机尾号为8723。在电话沟通中，小风慰问了魏父，在电话中魏父也讲述了则西治病的艰辛过程，以及其儿子对生命的热爱与坚韧。</p>
+<p>为了不让逝者家属重复悲伤，小风没有公开更多通话信息，然而却被指责“魏父说百度没打过电话，百度在撒谎！”这让堂堂七尺男儿的他辗转反侧——本是替公司表达真诚的慰问，却使公司成了被怀疑的对象，这份委屈让人震惊且愤怒。“有则改之，无则加勉”，我们欢迎各方指正，但是也绝对不允许扭曲事实！</p>
+<p>这三天里，我们还在积极申请、配合国家的监督管理。</p>
+<p>北京武警二院，全称为中国人民武装警察部队北京市总队第二医院，这是一所三级甲等综合性医院，同时是北京市首批基本医疗保险定点医院。这家资质齐全、公立三甲的医院此前也曾被央视多次正面报道。但如媒体调查爆出，他们的这一科室却被发现承包给了“莆田系”。</p>
+<p>2015年初，百度就曾加大整治力度并下线违规医院，引发民营医院群体“莆田系”的强烈反弹和联合抵制。为此百度发布声明称打击虚假医疗的决心不会变，高门槛、严审核是百度推广长期持续的机制，“我们不会因为’问题医院’的抱团抵制而放宽要求，更不会与任何一家不合资质要求的的医疗机构进行合作。”</p>
+<p>百度不断的把审核流程升级的更严格，但为什么这些医院就能证照齐全？疗法就能国家合法审批？要知道，百度做了最大的“雷达系统”，打击非法医疗机构，仅在2015年就拒绝医疗虚假推广3000万个，拒绝不良账户438,300个，判罚的违规消费金额达到了466,512,966.99元。百度从来没有仅以给钱的多少作为排位的标准，在社会责任和商业推广的道路上，始终未曾松懈。不但如此，我们始终和广大网友站在一起，不断加强加严审核流程，该整改整改，该拒绝拒绝，我们不会因商业利益丧失企业良心，这点毋庸置疑。</p>
+<p>搜索就像一面镜子，照见的是整个真实世界。当我们一起努力去建设一个好的世界，打击恶的，就会得到一个好的搜索。今天我们作为一家优秀的企业，需要去背负国家、行业本该履行的监管责任。这是社会对我们的期待，因为能力越大，责任越大。我们无意也不会逃避这份责任，正如我们自知做的还不够好，还有很多地方需要改进，这也是为什么我们这四万多人每天还在努力工作的动力。在每个崭新的今天，我们继续用心上班，独立思考，修炼内功，不断提升自己，找出产品体验和服务品质上的不足之处，把我们的产品打磨地更好、让我们的用户更满意，就是对外界最好的回应。</p>
+<p>相关阅读：</p>
+<p><a title="财经网 | 魏则西父母致电财新网 发独家声明" href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E9%AD%8F%E5%88%99%E8%A5%BF%E7%88%B6%E6%AF%8D%E8%87%B4%E7%94%B5%E8%B4%A2%E6%96%B0%E7%BD%91-%E5%8F%91%E7%8B%AC%E5%AE%B6%E5%A3%B0%E6%98%8E/">财经网 | 魏则西父母致电财新网 发独家声明</a></p>
+<p><a title="有槽 | 一个死在百度和部队医院之手的年轻人" href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E6%A7%BD-%E4%B8%80%E4%B8%AA%E6%AD%BB%E5%9C%A8%E7%99%BE%E5%BA%A6%E5%92%8C%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E4%B9%8B%E6%89%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/">有槽 | 一个死在百度和部队医院之手的年轻人</a></p>
+<p><a title="王五四 | 这届病人不行 但是这届病人值钱" href="https://chinadigitaltimes.net/chinese/2016/05/%E7%8E%8B%E4%BA%94%E5%9B%9B-%E8%BF%99%E5%B1%8A%E7%97%85%E4%BA%BA%E4%B8%8D%E8%A1%8C-%E4%BD%86%E6%98%AF%E8%BF%99%E5%B1%8A%E7%97%85%E4%BA%BA%E5%80%BC%E9%92%B1/">王五四 | 这届病人不行 但是这届病人值钱</a></p>
+<p><a title="歪理邪说 | 狼性多了 人性就少了" href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E7%8B%BC%E6%80%A7%E5%A4%9A%E4%BA%86-%E4%BA%BA%E6%80%A7%E5%B0%B1%E5%B0%91%E4%BA%86/">歪理邪说 | 狼性多了 人性就少了</a></p>
+<p><a title="歪理邪说｜3.15，今天我被一家公司投诉了 2016.03.15" href="https://chinadigitaltimes.net/chinese/2016/03/3-15%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/">歪理邪说｜3.15，今天我被一家公司投诉了</a></p>
+<p><a title="歪理邪说 | 再谈百度 一个必须给父母看的案例 2016.01.14" href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E5%86%8D%E8%B0%88%E7%99%BE%E5%BA%A6%EF%BC%9Akpi%E3%80%81%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%BB%99/">歪理邪说 | 再谈百度 一个必须给父母看的案例</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%99%BE%E5%BA%A6%E5%86%85%E9%83%A8%E5%8F%91%E6%96%87%EF%BC%9A%E7%A0%A5%E7%A0%BA%E9%A3%8E%E9%9B%A8%E5%9D%9A%E5%AE%88%E4%BD%BF%E5%91%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E9%99%A2%E5%A4%96%E5%8C%85%E7%A7%91%E5%AE%A4/?category=18271" rel="tag">医院外包科室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BB%91%E8%86%9C%E8%82%89%E7%98%A4/?category=18271" rel="tag">滑膜肉瘤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%8C%E7%97%87/?category=18271" rel="tag">癌症</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%BF%E7%98%A4%E7%94%9F%E7%89%A9%E5%85%8D%E7%96%AB%E7%96%97%E6%B3%95/?category=18271" rel="tag">肿瘤生物免疫疗法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/" target="cdt-mirror">搜狐弧度 | 莆田系股东曝与80所部队医院合作 给某院送礼百万</a>
+</h2>
+<p><p>大学生魏则西病逝事件发生后，涉事的百度和莆田系均遭受广泛质疑。</p>
+<p>5月2日半夜，网络上有人发布消息，称莆田系陈氏兄弟的上海康新、成都华康、上海柯莱逊生物公司与全国部队医院及地方医院共100所合作，其中就包括“魏则西事件”的武警北京市总队第二医院（下简称“武警北京二院”）。</p>
+<p>据搜狐新闻“弧度”栏目此前调查，武警二院虽为公立三甲医院，但其肿瘤生物治疗中心背景复杂，不仅网站注册资料繁杂混乱，且域名所有者系莆田系公司——上海康新医院投资管理有限公司。</p>
+<p>搜狐新闻联系到爆料人陈元发助理，对方称网曝信息的来源均为陈元发本人。搜狐新闻检索发现，陈元发自2013年8月至2014年4月，在其腾讯微博上陆续公布其与莆田系创始人陈氏兄弟（陈新贤、陈新喜）的经济纠纷细节，称”作为上海康新医疗集团的老板，而欠其康新股东之一陈元发几年(2011-2015)的股权分红约6000多万，至今一分钱也没给。”</p>
+<p>在陈元发的腾讯微博上，他曝出100所与陈氏兄弟旗下公司合作的部队及地方医院名单。其中，合作的部队医院占80所，不乏含多个地区的武警总医院。</p>
+
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/a3m1h089637249167596/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/a3m1h089637249167596-150x150.jpg" alt="a3m1h089637249167596" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3m1h089637249167596.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3m1h089637249167596.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3m1h089637249167596.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/a3zkql89637202452596/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/a3zkql89637202452596-150x150.jpg" alt="a3zkql89637202452596" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3zkql89637202452596.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3zkql89637202452596.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3zkql89637202452596.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/a04hgf89637217518596/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/a04hgf89637217518596-150x150.jpg" alt="a04hgf89637217518596" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a04hgf89637217518596.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a04hgf89637217518596.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a04hgf89637217518596.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/a8onm189637233181596/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/a8onm189637233181596-150x150.jpg" alt="a8onm189637233181596" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a8onm189637233181596.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a8onm189637233181596.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a8onm189637233181596.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/a3477089637262537596/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/a3477089637262537596-150x150.jpg" alt="a3477089637262537596" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3477089637262537596.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3477089637262537596.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3477089637262537596.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+
+<p>除此之外，陈元发还公布了陈氏兄弟的公司给多个部队医院及领导过节送礼的金额报表。报表显示，2012年新加坡华康医疗投资集团给合作方南京解放军第81医院院长的“春节送礼”金额高达40万元，且给该医院22名领导送的礼金共计98.7万元。</p>
+<p>根据陈元发提供的材料，2012年春节，上海康新给安庆空军第116医院21名领导送礼共计72.3万元。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394702.jpg?resize=600%2C450" alt="Img447394702" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394702.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394702.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394704.jpg?resize=600%2C450" alt="Img447394704" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394704.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394704.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394705.jpg?resize=600%2C431" alt="Img447394705" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394705.jpg?resize=300%2C216 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394705.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>在此之前，给合作医院送礼已是陈氏兄弟公司多年来的惯例。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394707.jpg?resize=600%2C450" alt="Img447394707" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394707.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394707.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394709.jpg?resize=600%2C450" alt="Img447394709" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394709.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394709.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394710.jpg?resize=600%2C341" alt="Img447394710" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394710.jpg?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394710.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394712.jpg?resize=460%2C613" alt="Img447394712" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394712.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394712.jpg?w=460 460w" sizes="(max-width: 460px) 100vw, 460px" data-recalc-dims="1"></p>
+<p>除此之外，陈元发还曝出，公司会给各个合作医院分配收入指标任务。例如，2010年，陈元发负责的14所医院被下达的指标共计3.25亿，完成了2.405亿。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394713.jpg?resize=460%2C613" alt="Img447394713" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394713.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394713.jpg?w=460 460w" sizes="(max-width: 460px) 100vw, 460px" data-recalc-dims="1"></p>
+<p>根据陈元发提供的上海康新集团2012年全年度财务汇总报表，显示出的31所合作医院妇产科的全年指标均、实际收入以千万数额来计算。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394714.jpg?resize=523%2C720" alt="Img447394714" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394714.jpg?resize=218%2C300 218w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394714.jpg?w=523 523w" sizes="(max-width: 523px) 100vw, 523px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394716.jpg?resize=523%2C720" alt="Img447394716" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394716.jpg?resize=218%2C300 218w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394716.jpg?w=523 523w" sizes="(max-width: 523px) 100vw, 523px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394718.jpg?resize=600%2C715" alt="Img447394718" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394718.jpg?resize=252%2C300 252w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394718.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>其实，在2013年9月，卫计委联合包括总后勤部卫生部医管局和武警部队后勤部卫生部在内的共计六个部门联合开展打击非法行医专项行动，明确要求解放军各大单位卫生部门和各武警总队参照地方单位同步执行，行动领导小组成员名单也显示，解放军总后勤部和武警部队后勤主管部门相关负责人均参与其中。</p>
+<p>此后的多次工作进展和成果通报文件，屡屡出现“要加强军地协调配合，特别是对于涉嫌假冒军队医疗机构、医务人员非法行医的，军队和地方有关部门要统一行动，齐抓共管，确保查处到位”、“军地各级相关部门按照各地领导小组的统一部署，分工明确，配合密切”等表述。2014年2月一次通报还介绍，在三个月的集中整治阶段，军队系统清理违规医疗合作项目44个，辞退违规聘用医务人员168名，关停假冒军队医疗机构网站46个，查处假冒军队医务人员13人，移送地方假冒军队医疗机构非法行医事件23起。</p>
+<p>一位接近卫计委的权威人士此前接受搜狐新闻表示，过去的十多年间，卫计委一直严厉打击医院外包科室行为，但其不了解部队卫生主管部门如何就此展开工作。</p>
+<p>另据中央军委今年3月印发《关于军队和武警部队全面停止有偿服务活动的通知》的要求，中央军委计划用3年左右时间，分步骤停止军队和武警部队一切有偿服务活动，其中就包括医院。</p>
+<p>栏目：新闻当事人<br>
+作者：付珊<br>
+栏目主编：王辰</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E9%99%A2%E5%A4%96%E5%8C%85%E7%A7%91%E5%AE%A4/?category=18271" rel="tag">医院外包科室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E6%90%9E%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%90%97/" target="cdt-mirror">【网络民议】党这是在搞社会调查吗</a>
+</h2>
+<p><p>5月3日凌晨1点30分，人民网发布了一条微博“假如以后没有网络了 你最担心什么”，这条让人联想丰富的提问之后引来了不少网友的评论。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%BA%E6%B0%91%E7%BD%91.jpg?resize=592%2C397" alt="人民网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网.jpg?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网.jpg?w=592 592w" sizes="(max-width: 592px) 100vw, 592px" data-recalc-dims="1"></p>
+<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
+<p>@薄学多柴：最担心像海南这种事被封锁！！而我们只看见的新闻联播里面歌舞升平………</p>
+<p>@天生反对者：我最担心的是，那些丑恶的腐败、暴力、强拆、知法犯法、执法犯法就会明目张胆，再也看不到了。</p>
+<p>@清蒸醉蟹：我党这是在搞社会调查吗？</p>
+<p>@森林里的酱菜：防火墙要增强了？</p>
+<p>@向着夕阳奔跑：你指的是局域网还是互联网？</p>
+<p>@不要no西多：异地恋灭绝了。</p>
+<p>@GAY督教：没有网络了，百度还咋骗钱？愁死李彦宏了…..</p>
+<p>@林建勇2014：开始放风了你。</p>
+<p>@太阳王-：人民网十年后：假如以后没有文字了，你最担心的是什么？</p>
+<p>@超哥看金融：可怕的提问！闭关锁国重回原始社会，难道是我们这代人的宿命？</p>
+<p>@那么的爱你我该怎么办：断网之后网民上街散步，然后坦克不够用，增加坦克产量，然后扩大内需，钢铁行业兴盛，经济发展，人民幸福。</p>
+<p>@汉风和雨：局域网已经不能满足某党的要求了。只有断网才能满足。现在是提起点放风声出来，好有个心理准备。</p>
+<p>@大炮小白兔：呵呵~~那便是“黎明前最黑暗的时刻”，大胆预测一下，如果瞬时没网了，相信天也要变了。不信就试试~</p>
+<p>@啊呗C嘚：假如没有共产党怎么办？</p>
+<p>@活肥马：担心领导的安全。</p>
+<p>@天蝎毒蛰：已经经历过啊……09年的时候，西北某省/直辖市/自治区，整整一年无网无短信啊！</p>
+<p>@过来看看你哈：最担心的是；看不到一点点的真话了。</p>
+<p>@瀰生：沒有網絡，幾億人就會暴動的。t狗還沒有蠢到那種地步，最多墻加厚而已。</p>
+<p>@tongjishi：几个意思啊……你TM把话说清楚。</p>
+<p>@探寻历史足迹：我最担心的是只能看到中央电视台、人民日报、新华社的新闻了。</p>
+<p>@明心_现性：担心你老板的脑袋。</p>
+<p>@有感之言：我相信中央政府没有一个人敢断网络。</p>
+<p>@Soul-Leobaby：最担心国家大事。</p>
+<p>@坡异民：五毛什么的咋活啊？</p>
+<p>@乱云飞789：人民网小编就得下岗转行。</p>
+<p>@一只_蘑菇：好像也没什么可以担心的了。</p>
+<p>@理想主义情怀邹_：支付宝上的钱怎么办！</p>
+<p>@乔玉东在深圳：我最担心看不见你们上绞刑架时的网络直播。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E6%90%9E%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%90%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E7%BD%91/?category=18271" rel="tag">人民网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/bbc-%E6%96%B0%E9%97%BB%E8%A7%82%E5%AF%9F%EF%BC%9A%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E7%BD%91%E5%8F%8B%E5%8A%9B%E9%87%8F/" target="cdt-mirror">BBC | 新闻观察：“魏则西事件”背后的网友力量</a>
 </h2>
 <p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160503044327_baidu_976x549_afp_nocredit.jpg?resize=550%2C309" alt="迄今为止，中国网民似乎经历了一个从关注、愤怒到理性的过程。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160503044327_baidu_976x549_afp_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160503044327_baidu_976x549_afp_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>迄今为止，中国网民似乎经历了一个从关注、愤怒到理性的过程。</p></div>
@@ -55,7 +170,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B/?category=18271" rel="tag">中国网友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-2/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-2</a>
 </h2>
@@ -1301,95 +1416,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%9A%E6%98%AF%E4%B8%8D%E4%BC%9A%E5%96%84%E7%BD%A2%E7%94%98%E4%BC%91%E7%9A%84/" target="cdt-mirror">【习总日记】 党是不会善罢甘休的</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，4，30）</p>
-<p>一</p>
-<p>4月26日在安徽调研期间召开座谈会，同来自安徽省和全国各地的70多名知识分子、劳动模范、青年代表座谈。我强调，全面建成小康社会，进而实现中华民族伟大复兴的中国梦，必须依靠知识，必须依靠劳动，必须依靠广大青年。广大知识分子、广大劳动群众、广大青年要紧跟时代、肩负使命、锐意进取，把自身的前途命运同国家和民族的前途命运紧紧联系在一起，努力为共同理想和目标而团结奋斗。等等。</p>
-<p>最后，我代表党中央，向全国广大知识分子、广大劳动群众、广大青年，致以诚挚的问候和“五一”国际劳动节、“五四”青年节的祝贺。</p>
-<p>会议结束后与会代表围拢过来竞相与我握手自拍留念。</p>
-<p>中科院院士、中国科技大学常务副校长潘建伟说，习总您说的比唱的还好听。中国工程院院士、中国电子科技集团公司第三十六研究所高级工程师杨小牛说，历届领导人里习总最关心我们知识分子。中船重工集团公司第七〇一研究所高级工程师、航母特种装置工程副总设计师王治国说，如果由习总领导反右一定不会扩大化。</p>
-<p>提起反右我问他们，如果我们搞第二次百花齐放百家争鸣，你们会不会上第二次当。</p>
-<p>安徽艾可蓝环保股份有限公司董事长刘屹，和西南大学生命科学学院教授罗凌飞二人认为很有可能。<br>
-我问，这是为啥呢？</p>
-<p>他们回答说，不上当党是不会善罢甘休的。</p>
-<p>二</p>
-<p>中共中央政治局4月29日召开会议，分析研究当前经济形势和经济工作。我主持会议并发表重要讲话。</p>
-<p>我问，为什么国际国内环境总是错综复杂？你们有谁能够回答？</p>
-<p>俞正声做球：“哎呀，难度太高，回答不了。”</p>
-<p>众人领会，清一色摇头。</p>
-<p>我回答道：“因为我们是共产党。”</p>
-<p>看他们是懂非懂的样子我进一步解释道：“共产党政权自建立起，就存在天然的敌人，就是帝国主义。帝国主义亡我之心不死，就是这个意思。”</p>
-<p>众人鼓掌，除李克强外。</p>
-<p>我提第二个问题，为何我们总是说，成绩是主要的？</p>
-<p>李克强回答道：“给自己脸上贴金。”</p>
-<p>我大声赞扬：“答对了。”</p>
-<p>大家都知道我在说反话。</p>
-<p>我提第三个问题，为何我们总是说，充分肯定的同时，也要看到困难。对问题要高度重视，冷静分析，采取有效措施，做好心理准备，把工作做好。为何在会议最后总是说，要按照党中央部署，贯彻精神，落实理念，坚持总体思路，落实任务，确保各项政策落实到位，推动经济持续健康发展。</p>
-<p>李克强又抢答：“八股会议嘛。有啥好奇怪的？”</p>
-<p>唉-，也是，这种会议开也白开。但不开不行，不得不开。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/%E9%B3%A9%E9%B5%AA%E6%BC%AB%E7%95%AB%EF%BC%9A%E4%B9%A0%E6%80%BB2013%E6%96%B0%E5%B9%B4%E6%84%BF%E6%9C%9B.jpg?resize=492%2C369" alt="鳩鵪漫畫：习总2013新年愿望" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/鳩鵪漫畫：习总2013新年愿望.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2012/12/鳩鵪漫畫：习总2013新年愿望.jpg?w=500 500w" sizes="(max-width: 492px) 100vw, 492px" data-recalc-dims="1"></p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 种花家 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%85%9A%E6%98%AF%E4%B8%8D%E4%BC%9A%E5%96%84%E7%BD%A2%E7%94%98%E4%BC%91%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A-%E5%8F%8D%E5%AF%B9%E7%9A%84%E9%81%93%E8%B7%AF-%E4%BB%8E%E6%9E%97%E6%98%AD%E5%88%B0%E9%83%AD%E9%A3%9E%E9%9B%84/" target="cdt-mirror">东网 | 莫之许： 反对的道路 从林昭到郭飞雄</a>
-</h2>
-<p><p>4月29日是林昭逝世48周年，近年来，一些民间抗争者发起了每年林昭忌日的祭拜活动，参与人数一度有扩大之势，今年也不例外，也有一些人士试图前往苏州灵岩山的林昭墓进行祭拜。在冻结时代，可以想象，这样的尝试也会变得越发艰难：先期前往苏州的朱承志先生，被苏州警方拘押一天后，被扔在浙江长兴县某村口；沈良庆先生准备前往无锡探望友人，也被看作是试图暗渡陈仓前往苏州，而被拘押一天。或许，今天寥落的灵岩山，显示出了当局打压、冻结民间社会的阶段性成果。</p>
-<p>也就是这两天，一位堪与林昭媲美的当代抗争者的命运也引起了广泛的关注。郭飞雄（真名杨茂东）的姐姐在近日探望后披露，郭飞雄目前身处医院，身体状况极其糟糕，而没有得到应有的诊断和治疗，其生命处于危险之中。这一危急状态，随即引发了广泛的关注，一些活动人士也随即发起了紧急联署《关于立即对郭飞雄进行诊断治疗的紧急呼吁书》，短时间内获得了近千人的支持，然而，到目前为止，郭飞雄仍没有能够获得应有的诊断和治疗，相关的关注活动势必还需要进行下去。</p>
-<p>在大陆长达67年的专政统治中，从来都不缺乏反对者的存在，可谓不绝如缕。在改革时代前的“竹幕”之下，除了林昭等极少数人士，反对者的存在和事迹不仅在当时不为人所知，即使在文革后，也鲜有人提及。改革时代后，政治恐惧相对消散，国门也半遮半掩地打开，反对者的存在也开始不再随生随灭，而被外界关注者所记录，在境内也获得了一定存在的感知度，尤其是网络时代以来，借助互联网的无远弗届和即时传播功能，有更多的人开始了解到反对人士的存在，从魏京生到刘晓波，从胡石根到刘贤斌，从高智晟到郭飞雄，他们的名字不再是不能出口的“伏地魔”。</p>
-<p>不过，以人口比例而论，对反对群体有所了解的仍是极其少数，而且即使是这少数人，也大多只能在相当简略和粗浅的水平上有所了解，在专政体制的长期压制乃至屏蔽之下，无论是反对人士的主要事迹，还是他们的基本主张，都还局限在相当狭小和相对封闭的一个环境之内，而无法对当代中国社会产生实际上的影响力。作为其基本主张的反对话语，历经数十年的生长发育，实际上已经具有相当的话语高度，也处于事实上的自说自话境地，既无法引发大范围的共鸣，甚至连严肃的争议也很稀罕。</p>
-<p>相比话语传播，反对者的行动也遭遇到了同样的处境。数十年前仆后继的努力和牺牲，并没有得到最基本的感知，无论是中国民主党群体累积几百年的总刑期，还是高智晟、郭飞雄等人飞蛾扑火般的悲壮作为，又或者是刘晓波凭借多年坚持和《零八宪章》所获得的诺贝尔和平奖，在这个国度就跟好像未曾发生过一样，每时每刻都在发生的打压和牺牲，总是只能传达到特定的小群体，而无法激起更大的波澜，似乎，反对群体只是活在境外相关媒体和极少数积极分子中间的一种存在，被孤立于当代社会之外。</p>
-<p>对于这种尴尬的状态，曾有过许多所谓的反思。对于话语的无法扩张，有人认为，这可能是因为认为反对者的认识水平所限，又或者是对主流社会的了解不够，故而不能提出为更广泛的群体所接受的内容，可是，如果真正阅读过陈子明、刘晓波、张祖桦等人的作品，就会发现，其中具备相当深入的观察，也具有远超同时代知识分子的认知水平，相比之下，那些被体制相对容忍而得以流行的各种内容，更像是某种赝品，并不具备真正的价值。</p>
-<p>对于行动无法被感召和追随，也有所谓的反思认为，这是由于反对者不具备足够的行动力和坚定的意志力，故而无法穿透重重封锁，感召更多的人群，可是，从胡石根、刘贤斌、高智晟、郭飞雄、胡佳这样的人士身上可以发现，他们不仅锐于行动，而且坚定不摧，敢于牺牲，放之整个人类抗争史，也都是一等一的存在，他们的被忽视和被遗忘，不是因为他们自身有什么问题，这些所谓的反思实际是一种想当然而已。</p>
-<p>反对群体的边缘和孤立，根本原因还在于当下专政体制无所不至的压制。大陆的极权体制来自军事革命的成功，并伴之以全面的社会革命，不仅摧毁了既有的社会权力中心，还将所有个体编织进了一个总体性社会当中，形成了体制无所不能，而个体一无所依的普遍状态。大陆的反对群体诞生于这样的贫瘠状态之中，处境最为艰辛，不仅稍有露头，就会遭遇到立即的专政打击，无法形成气候和规模，并且在遭遇打击后，还有伴随着无期限的持续压制和屏蔽，这种即时的打击和持续的压制屏蔽，才是大陆反对群体始终处于边缘和孤立的根本原因。</p>
-<p>郭飞雄本人的经历就是如此，自2005年投身维权运动以来，就遭遇到了持续的打压，两次拘捕，他都以长期的绝食加以抗争，最终，还是在2006年被以莫须有的罪名判处五年有期徒刑。出狱未及两年，又因为参与声援《南方周末》和推动八城快闪等，拘押于看守所两年多以后，于法庭上被临时追加罪名，判处了六年有期徒刑，这样一次又一次进行打压的目的，除了摧毁其个人意志之外，更是为了将其从社会中拔出，加以隔离，最终将其孤立和边缘，并消除其可能的影响。郭飞雄的遭遇，也发生和正在发生于更多人身上。</p>
-<p>专政对于反对群体的打击和孤立，使得许多人对于反对的道路心生怀疑，在这些人看来，在专政下，反对的道路注定无法形成可以累积的效果，也无法影响到更大范围内的群体，注定只能是孤独的吶喊，也因此，许多人开始寻找所谓的中间路线，试图通过取消对体制的根本质疑，来换取观念的传播和组织的发育，通过一种可扩展的渐进过程，逐步推动体制的转变，直到最后的转型，在前些年体制寻求市场化的相对宽松期间，即使在反对群体中间，这种思路也获得了相当多的支持。</p>
-<p>但是，对于专政体制而言，并不会允许例外的出现，无论是从专政运行的长期实践，还是近几年的现实都表明，所谓的中间路线并不能换来体制的让步。与之相比，反对的道路固然艰辛而孤独，但却意味着对于体制的根本质疑，也意味着对于基本权利和值得追求的制度的根本坚持，它或许无法形成持续的扩展，甚至不为当下的社会主流所接受，但在现行体制难以为继的时候，它却能成为值得信赖的主张，和充满道义的感召。类似的过程曾发生在第三波民主化的东亚和东欧，也发生在不久前的北非茉莉花革命中。反对的道路从来都是孤独和艰辛的，但也是不可或缺，无从回避的。在这个意义上，对林昭的祭奠和对郭飞雄的声援，都是对于反对的坚持和传递，乃是这个冻结时代中，看似徒劳，实则弥足珍惜的努力。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91-%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A-%E5%8F%8D%E5%AF%B9%E7%9A%84%E9%81%93%E8%B7%AF-%E4%BB%8E%E6%9E%97%E6%98%AD%E5%88%B0%E9%83%AD%E9%A3%9E%E9%9B%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6%E7%BB%9F%E6%B2%BB/?category=18271" rel="tag">专制统治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%AF%B9%E8%80%85/?category=18271" rel="tag">反对者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE/?category=18271" rel="tag">异议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%8F%8D%E5%AF%B9/?category=18271" rel="tag">政治反对</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%BD%93%E5%88%B6/?category=18271" rel="tag">极权体制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/ngocn-ingoer%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E6%95%8C/" target="cdt-mirror">NGOCN | INGOer：我们不是国家公敌</a>
-</h2>
-<p><p><strong>中国数字时代编辑注：</strong>本文首发于2015年5月8日《中华人民共和国境外非政府组织管理法（草案）（二次审议稿）》发布时，该法案最终版本已于日前发布，草案中有争议的条款如境外NGO必须挂靠中方合作单位、受公安机关而非民政部门管理等，均保留了下来。NGO新法案被认为是继《国家安全法》和《反恐怖主义法》之后，又一部可用于封杀异议声音的法律。一年前发布该文章的NGOCN微信公众号也多次被销号。</p>
-<p><strong>我们不是国家公敌<br>
-——致境外非政府组织管理法立法者</strong></p>
-<p>尊敬的立法者，你们代表着中国最有权势的一群人，制定的法律，影响社会的方方面面，做为一名曾服务于海外非政府组织（INGO），和多家INGO打过交道的多年公益组织从业者，本来应该要为你们重视公益和NGO感到高兴，但看完《中华人民共和国境外非政府组织管理法（草案）（二次审议稿）》，不仅高兴不起来，还彻底的感到心寒、心塞，脑海里只有几个词：<strong>国家公敌、二等公民、犯罪嫌疑人。</strong></p>
-<p>此时此刻，让我想起几年前在INGO工作的点点滴滴。</p>
-<p>我曾经所服务的机构，于中国大陆开展公益慈善工作多年，曾获得官方奖项。那些同事们同行们，<strong>一群可爱的人，多数是因为一份理想来到这里</strong>，在公益知识还不普及的年代，普遍被误解就不多说了，一次出差下乡半个月一个月，废寝忘食。</p>
-<p>和他们在一起，很少听到那些宏观的政治议题，日常议及的是怎么做，能有效的服务那些需要帮助的对象，怎么样能让他们的生活更好些。那些小小的细节，如何设计合理制度让贫困人群得到资源分配，服务对象吵架怎么化解矛盾，一次会议开到凌晨一两点……至今历历在目。</p>
-<p>在刚到INGO工作的时候，听起前辈们讲起故事，很多年前，他们去到哪里，警车跟到哪里，到处盘问。有时，他们前脚刚走，后脚警察直接去到村里，了解他们在做什么。</p>
-<p><strong>他们都能理解，毕竟那个年代，公益组织是新兴事物，有戒备心不了解很正常，尤其是国际NGO。他们相信，凭借他们的努力和服务，可以化解这种不信任。</strong></p>
-<p>所以在你们来调查的时候，他们听话，你们不让做的活动，不做，要提供的信息，提供。<strong>他们理解你们的担心，总相信，真心可以打消你们的疑虑。</strong></p>
-<p>我相信前辈们的话，也学习着配合，可是，若干年后到现在，才明白，信任，几乎是不可能的，在您的眼中，<strong>只要是国际NGO，只要做公益和社会发展有关，是带有原罪的，是带有不可告人目的的，要防着盯着打着。</strong></p>
-<p>这种不信任，按目前的趋势，将贯穿他们在中国的一生，连带着，只要和国际NGO有合作，也受到牵连影响。</p>
-<p>此时此刻，面对这一部即将要出台的法律，通<strong>篇24个“不得”，以保护和促进发展的名义提出种种限制，不知道那些还在国际NGO工作，那些和国际NGO有合作的前同行们，他们会有什么样的感受？</strong>会愤怒吗？会有强烈的耻辱感吗？什么时候，做公益，和INGO沾边，都成二等公民了？连办个活动做点好事，一不小心都可能要被罚款扣留了？</p>
-<p>要知道，即使在没有那么友好的时代，也没有到现在这样，一个公益组织，活动要事事汇报，甚至连招聘的权利都没有！尊敬的立法者，是什么，让您担心成这样？</p>
-<p>你说，<strong>你担心NGO卷入政治，可是，政治是一个中性词，本身就是现实生活当中的正常现象，NGO要服务社会，要研究社会问题解决社会问题，又怎么可能和政治完全不沾边？</strong>您要实在担心，是否可以清晰的规定，禁止NGO参与那些方面的政治活动，而不是以“政治”一个空泛的词汇来包括所有。</p>
-<p>你说，你担心NGO活动不规范，所以活动要审批。可是，<strong>“活动”本身也同样是非常宽泛的范围，哪些活动才是要禁止的范围？开个party出趟差都是活动，这些都要给到您审批，而且还要有中方单位才能进行，这些现实吗？</strong></p>
-<p>尊敬的立法者，你们不信任这些公益机构，总认为做的怀有不可告人的目的，花了大量的时间调查这些公益组织公益从业者来龙去脉。抚心自问，你们接触那么多人，真有多少人多少机构是为了颠覆国家来做NGO的？他们真的不怀好意吗？</p>
-<p>尊敬的立法者，为了可能的一小撮“敌对分子”，您的结论是制定一部严格的法律来规范他们，但别忘了，<strong>非政府组织是一个广泛的概念，商会、协会、志愿者团体等等都是非政府组织中的一员</strong>，因为这可能的一小部分，把所有机构都当成嫌疑犯监管起来，这就是中国对外输出的“开放、自信”的形象吗？当法律沦为笑话得不到执行，当法律成为选择性执法失去公信力，法的尊严何在？</p>
-<p>尊敬的立法者，<strong>我们不是敌人，我们是这个国家的一份子，我们的同事，同行，来自社会方方面面，当中不乏社会各界的栋梁之材，放弃本来可以更优越的生活投身社会工作，无非希望这个国家和它的人民，在社会转型的道路上可以走的平稳些，在当下和未来少受一些苦难</strong>，当你们把这些善意、温和、渐进的改良改革行动者视为敌人，硬生生的制造矛盾制造障碍，或许敌人也就真的不远了。这是你们想要的吗？</p>
-<p>以善意看待INGO吧，为中国服务，他们也需要未来。</p>
-<p>—— 一个公益老兵 卡西欧</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/ngocn-ingoer%EF%BC%9A%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E6%95%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=18271" rel="tag">NGO</a>, <a href="https://chinadigitaltimes.net/chinese/tag/ngocn/?category=18271" rel="tag">NGOCN</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%A4%96ngo/?category=18271" rel="tag">国外ngo</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96ngo%E6%B3%95%E6%A1%88/?category=18271" rel="tag">境外NGO法案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%87%BBngo/?category=18271" rel="tag">打击NGO</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1411,5 +1437,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ngo/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

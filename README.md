@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-bobs%E6%96%B0%E5%AA%92%E4%BD%93%E5%A4%A7%E8%B5%9B%E5%9B%BD%E9%99%85%E8%AF%84%E5%A7%94%E4%BC%9A%E5%85%AC%E5%B8%832016%E8%8E%B7%E5%A5%96%E4%BD%9C%E5%93%81/" target="cdt-mirror">德国之声 | Bobs新媒体大赛国际评委会公布2016获奖作品</a>
+</h2>
+<p><p><strong>2016年德国之声第12次锁定Bobs新媒体大赛的获奖者，该奖专门表彰那些在国际上有影响力力的网络行动派项目。今年的获奖者来自孟加拉、伊朗、德国和印度。德国之声台长林堡（Peter Limbourg）表示：“对于言论自由来说，2016年到目前为止不是个好年头。自由表达的权利经常受到侵犯－在全球各地都是如此。”</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/unnamed.jpg?resize=600%2C218" alt="bobs" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/unnamed.jpg?resize=300%2C109 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/unnamed.jpg?w=669 669w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>今年，入围Bobs新媒体大赛的中文作品或个人包括人权律师浦志强、美丽诗人余秀华、翻墙神器“自由浏览”、<strong>新锐网站“中国数字时代”</strong>和“大炮”任志强。中文公众奖的获奖者为“女声网”。其创办者为一家中国妇女维权组织。</p>
+<p>在国际新闻自由日到来的一天前，由全球14个国家的知名网络活动人士组成的国际评审团在柏林媒体会议中心上公布了获奖者的名单。今年4个跨语种大奖的获奖者分别是：</p>
+<p><strong>公民新闻奖：刀锋（Razor’s Edge）孟加拉语</strong></p>
+<p>今年35岁的电影人Nastiker Dharmakatha拍摄了一部反映孟加拉世俗派博主生存现状的纪录片。人们在其中可以看到这个以穆斯林为主要宗教的国家高层政界人物是如何间接支持谋害那些博主的。</p>
+<p>阿美得 （Rafida Bonya Ahmed）是本届Bobs大赛的国际评委会成员之一。她的丈夫Avijit Roy博士是孟加拉语世界第一个世俗人文主义博客平台Mukto Mona的创始人，于2015年2月26日被宗教激进分子杀害。她表示：“孟加拉的项目再次获奖表明了那里的情况并没有变好，反而更糟。仅在过去5周内，就有4起杀人案件发生。世俗派活动人士、作家、博主、教师和少数民族成员身处哪里都不再安全。”</p>
+<p><strong>科技为善奖：伊朗的“Gershad”手机应用软件 波斯语</strong></p>
+<p>在伊朗的许多城市中，差不多随处都可以看到所谓的“风俗警察”。他们的任务是检查妇女的妆着打扮是否符合宗教教义的严格规定。这个名为„Gershad“的APP能够记录伊朗大街上所谓“风俗警察”的位置并提前发出警告，让人们绕道而行。用户们可以自己上传警察的位置，运行原理和警告超速拍照雷达软件的原理非常相似。</p>
+<p>该软件的匿名制作者从评委Golnaz Esfandiari那里得知获奖消息后表示：“这是表彰我们APP用户的奖项。毫无疑问，这款软件是伊朗所有想躲避风俗警察人们的福音。Gershad不仅仅是一个众包（Crowdsourcing）式的应用软件。它也开启了有关风俗警察为所欲为问题的对话，关注加强维护伊朗人权的必要性。”</p>
+<p><strong>社会变革奖：“停止硫酸攻击” 印地语</strong></p>
+<p>停止硫酸攻击（SAA）是印度的一个抵制向妇女泼硫酸，并令其毁容的运动。它在受害者与社会之间架起了一座桥梁，因为大部分受害者遭袭后都将自己封闭起来，不与外界接触。来自印度的评委塞克里 （Abhinandan Sekhri）表示：“与硫酸攻击作斗争的过程非常艰难。虽然这个组织并不大，但却对性别不平等以及社会对这些受害者的认识具有重要的意义。硫酸攻击是社会的一个顽疾。这些妇女们不仅仅成功的将受害者团结在一起，让她们自食其力。而且还推动了法规上的变革。”</p>
+<p><strong>艺术和文化奖：“政治之美中心” 德语</strong></p>
+<p>“政治之美中心”是Bobs新媒体大赛历史上第二个来自德国的获奖者。它致力于组织介于艺术和政治之间的政治行为艺术，有唤醒和号召反抗的作用。通过名为“死人来了”（2015年）的行为艺术作品，“政治之美中心”对欧洲难民政策后果发出批评，并纪念那些年复一年尝试进入欧洲边境的死者。</p>
+<p><strong>全球媒体论坛上的颁奖仪式</strong></p>
+<p>德国之声台长林堡在柏林表示：“德国之声通过其节目，在全世界范围内支持言论自由。在Bobs大赛的框架下，我们超越语言和文化的差异，表彰那些创新并且勇敢的互联网作品。所有的获奖项目都有榜样作用。虽然它们的内容不同，但都有一个共同的目标：帮助那些受压迫的人们。”</p>
+<p>今年，全世界的互联网用户向Bobs新媒体大赛发来了超过2300份获奖作品推荐。国际评委会随后将提名作品的范围缩小至126个，并从中选出了最后4个跨语种大奖的获奖者。国际评委会选出的跨语种大奖获奖者和言论自由奖的获得者将受邀参加在德国之声全球媒体论坛（Deutsche Welle Global Media Forum）上举行的Bobs新媒体大赛颁奖典礼。</p>
+<p>2016年，德国之声第二次颁发言论自由奖（Freedom of Speech Award）。这个奖项的目的是表彰那些在数字网络世界里，用独特手段支持言论自由的个人或项目。今年的获奖者是土耳其《自由日报》的总编艾金（Sedat Ergin）。去年，身陷囹圄的沙特阿拉伯博客作家巴达维（Raif Badawi）荣获了首次颁发的“言论自由奖”。</p>
+<p><strong>2016Bobs新媒体大赛 国际评委会：</strong></p>
+<p>新加入的国际评委会成员包括雷格（Dolors Reig 西班牙语）、诺昆（Katharina Noun 德语）、卡里姆（Mona Kareem 阿拉伯语）、埃斯凡迪亚里（Golnaz Esfandiari 波斯语）、阿美得 （Rafida Bonya Ahmed 孟加拉语）、科瓦列夫（Alexey Kovalev 俄罗斯语）、塞克里 （Abhinandan Sekhri 印地语）和奥沃诺（Julie Owono 法语）。再次参与的评委会成员包括桑托罗（Maurício Santoro 葡萄牙语）、波普尔韦尔（Georgia Popplewell 英语）、萨卡（Erkan Saka 土耳其语）、罗曼纽克（Oksana Romaniuk 乌克兰语）和瓦希德（Alissa Wahid 印尼语）。</p>
+<p><strong>2016Bobs新媒体大赛的四大奖项：</strong></p>
+<p>“社会变革奖” (Social Change)</p>
+<p>奖励一个利用数字化手段推动社会变革的项目，比如说教育、推动平等、健康或环境领域的项目。</p>
+<p>“科技为善奖” (Tech for Good)</p>
+<p>网络文化的相关话题包括数据隐私保护和信息自由，以及积极推广自由创作的内容。所以，这一奖项所关注的重点为网络上的个人隐私、数据保护和安全。（例如通过技术讲解、提供软件或App等解决方案）此外，其它例如反腐败或反审查的软件工具也能够成为获奖对象。</p>
+<p>“艺术文化奖” (Arts and Culture)</p>
+<p>奖励的是一个来自艺术和文化界的项目。该项目能够出色利用数字化的通讯方式，用艺术的手段诠释社会话题。</p>
+<p>“公民新闻奖” (Citizen Journalism)</p>
+<p>该奖用于奖励那些勇敢的公民记者以及有启蒙作用、促成公众反对力量的创新项目。尤其是那些充分利用互联网的力量促进公民参与的网站。</p>
+<p>2016年5月2日</p>
+<p><strong>相关资料：</strong></p>
+<p>2016Bobs新媒体大赛评委和获奖者照片：<a href="http://flickr.com/photos/deutschewelle/collections">flickr.com/photos/deutschewelle/collections</a></p>
+<p>网页： <a href="http://thebobs.com/">thebobs.com</a></p>
+<p>推特：<a href="http://twitter.com/">twitter.com</a> ‒ #thebobs16</p>
+<p>脸书：<a href="http://facebook.com/dw.thebobs">facebook.com/dw.thebobs</a></p>
+<p>全球媒体论坛官网：<a href="http://dw.com/gmf">dw.com/gmf</a></p>
+<p>Bobs2016年获奖者作品链接：</p>
+<p>科技为善奖：<a href="http://www.gershad.com/">www.gershad.com</a></p>
+<p>艺术与文化奖：<a href="http://www.politicalbeauty.de/">www.politicalbeauty.de</a></p>
+<p>公民新闻奖：<a href="http://www.youtube.com/watch?v=Lxg_iHMGSjA&feature=youtu.be">www.youtube.com/watch?v=Lxg_iHMGSjA&feature=youtu.be</a></p>
+<p>社会变革奖：<a href="http://www.stopacidattacks.org/">www.stopacidattacks.org</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-bobs%E6%96%B0%E5%AA%92%E4%BD%93%E5%A4%A7%E8%B5%9B%E5%9B%BD%E9%99%85%E8%AF%84%E5%A7%94%E4%BC%9A%E5%85%AC%E5%B8%832016%E8%8E%B7%E5%A5%96%E4%BD%9C%E5%93%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bobs/?category=18271" rel="tag">bobs</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">数字时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93/?category=18271" rel="tag">新媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%96%E7%95%8C/?category=18271" rel="tag">网络世界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%8E%86%E7%94%B0%E7%B3%BB%E5%86%85%E5%B9%95/" target="cdt-mirror">【真理部】莆田系内幕</a>
 </h2>
 <p><p>请属地网站立即全面查删拦截涉莆田系内幕等相关信息，查删涉武警及部队医院的煽动性、行动性等相关信息；并请做好有害样本取证工作，相关样本（标题+链接）于今日20：30之前发送至群。</p>
@@ -68,7 +119,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%BB%BA/?category=18271" rel="tag">党建</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">违纪处分</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%99%BE%E5%BA%A6%E5%86%85%E9%83%A8%E5%8F%91%E6%96%87%EF%BC%9A%E7%A0%A5%E7%A0%BA%E9%A3%8E%E9%9B%A8%E5%9D%9A%E5%AE%88%E4%BD%BF%E5%91%BD/" target="cdt-mirror">月光博客 | 百度内部发文：砥砺风雨坚守使命</a>
 </h2>
@@ -1332,71 +1383,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E6%A7%BD-%E4%B8%80%E4%B8%AA%E6%AD%BB%E5%9C%A8%E7%99%BE%E5%BA%A6%E5%92%8C%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E4%B9%8B%E6%89%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/" target="cdt-mirror">有槽 | 一个死在百度和部队医院之手的年轻人</a>
-</h2>
-<p><p>文/涓总（微信公众号：有槽）</p>
-<p>魏则西去世了，他爸爸通报死讯后，调查记者孔璞转载了魏则西在知乎上发表的这篇长答复，简而言之：这个21岁的年轻人出于对百度和部队三甲医院的信任，在罹患滑膜肉瘤这种罕见的癌症后，在武警北京总队第二医院尝试了一种号称与美国斯坦福大学合作的肿瘤生物免疫疗法，在借钱完成了治疗后出现肺部转移后才得知这种疗法并不靠谱。他回答的这个问题是“你认为人性最大的‘恶’是什么？”</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061078.png?resize=550%2C669" alt="134061078" data-recalc-dims="1"></p>
-<p><strong>有中国特色的癌症免疫治疗？</strong></p>
-<p>魏则西去的这家医院，是北京武警二院肿瘤生物中心，所接受的是DC-CIK细胞免疫治疗，这是种已经被国外淘汰、但在中国非常红火的肿瘤免疫治疗。</p>
-<p>首先要确认的是，生物免疫、免疫细胞疗法并不是“假”疗法，在世界多家医院和科研机构都有相关临床研究。治疗过程中，医生通过抽取患者的免疫细胞，在体外扩增和加工，并重新输回患者体内，从而达到提高患者免疫能力，抑制或预防肿瘤生长的目的。</p>
-<p>不过，从研究结果来看，它的意义有多大就见仁见智了。虽然这种治疗从美国开始，但由于临床试验屡遭失败，在美国国立癌症研究院(NCI)的网站上检索，可以看到目前仅有两家机构在进行CIK细胞治疗研究。第一项研究在斯坦福进行。有槽(Dr-Venting)在4月29日下午电话采访了斯坦福医学院媒体关系部的Becky Bach女士，她表示，斯坦福医学院确实有一项CIK方面的研究，不过是将它作为治疗骨髓增殖性疾病或骨髓发育不良的辅助治疗手段。在肿瘤免疫治疗方面，斯坦福希望探索更新、更有效的疗法。此外，Bach女士也澄清说，斯坦福并未与中国的任何一家医院从事细胞治疗方面的合作，当中包括北京武警二院，她不理解为什么该院在宣传中会强调是从该院引进技术，并承诺将与律师一起进一步调查。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061107.png?resize=600%2C705" alt="134061107" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061107.png?resize=255%2C300 255w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061107.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>但在中国就不是这么一回事了，在Pubmed医疗论文库中可以看到，虽然高质量的DC-CIK相关论文不多，但署名作者几乎清一色是中国人。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061121.png?resize=600%2C560" alt="134061121" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061121.png?resize=300%2C280 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061121.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>按照卫计委颁布的《首批允许临床应用的第三类医疗技术目录》，免疫细胞治疗被限定在临床研究范畴，医院可以开展免疫治疗临床研究，但原则上不得收取任何费用。但是对于这项技术的管理十分混乱，卫计委和食药总局似乎都避之不及。所以，一项本应通过三期临床、在有效性、适应症等诸多方面得到明确解答的实验性技术，现在已在全国各地医院成为重要的治疗手段和赢利工具。</p>
-<p>怎么个赚钱法？以下是某家以细胞技术为特色的生物公司给出的计算：一次CIK治疗收费为1.5万，毛利润为40%。如果与十家三甲医院合作，每家首年治疗200人，每人接受三个疗程，一年毛利润1512万元。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061143.png?resize=600%2C859" alt="134061143" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061182.png?resize=600%2C175" alt="134061182" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061182.png?resize=300%2C87 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061182.png?w=622 622w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><strong>武警二院是家什么样的医院？</strong></p>
-<p>有人总结称目前国内的肿瘤免疫疗法是“谋财不害命”。但是，如果病人轻信广告，散尽家财尝试这种几乎无效的疗法，贻误了宝贵的时机使用规范的放化疗和靶向治疗，这不是“谋财害命”又是什么？魏则西的遭遇便是如此。</p>
-<p>当初魏则西和他的家人走投无路，在百度搜索滑膜肉瘤治疗信息时，搜到的是这样的推荐页面。感谢热心网友留存，因为在最近两天百度发现再次面临公关困境时，已经删得一干二净了。可以看到，排在第二推荐位的就是北京武警二院。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061195.png?resize=597%2C944" alt="134061195" data-recalc-dims="1"></p>
-<p>而在他们一家进入武警二院主页时，想必也看到了这样的对话框，直接与发来对话框的“医生”开始沟通，甚至得到了一个相当积极的答复，促使他们在几天后就从西安来到了北京求医。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061204.png?resize=600%2C286" alt="134061204" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061204.png?resize=300%2C143 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061204.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>该网站标明是武警北京总队二院的官方网站，表示引进了肿瘤生物治疗领域的代表技术，采用DC免疫治疗以及CIK免疫治疗消灭癌细胞，可达到延长生存期，提高生活质量和抑制肿瘤恶化的目的。</p>
-<p>然而经验告诉我们，但凡主页做得如此花哨，又有对话框出现的医院，必然有蹊跷。我们的第一步从检查主办单位ICP备案开始。嗯，备案主体是个人，而非医院。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061214.png?resize=600%2C284" alt="134061214" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061214.png?resize=300%2C142 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061214.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>继续追查医院域名注册信息，北京武警二院注册人单位为：KangXin Hospital Investment and Management CO.LTD。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061221.png?resize=600%2C912" alt="134061221" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061223.png?resize=600%2C675" alt="134061223" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061223.png?resize=267%2C300 267w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061223.png?w=616 616w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>再反查KangXin Hospital Investment And Management CO.,LTD，可以看到该医院投资管理公司名下还注册着其他多家医疗机构域名，其中不乏同样以细胞免疫疗法为特色的“公立医院”。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061234.png?resize=555%2C385" alt="134061234" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061234.png?resize=300%2C208 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061234.png?w=555 555w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"></p>
-<p>KangXin Hospital Investment And Management CO.,LTD是何方神圣？不太好找，不过我们发现在领英上有数位医疗领域人士有该公司工作背景，从英文名反向查出，该公司中文名称为“康新医院投资管理有限公司”。</p>
-<p>查到此处，我们可以判断出：北京武警二院的肿瘤生物中心与康新医院投资管理有限公司（下简称“康新公司”），他们是相亲相爱的一家人。除了武警二院，康新旗下还管理着其他多家以生物免疫治疗为特色的肿瘤专科医院。</p>
-<p><strong>与北京武警二院合作是什么公司？</strong></p>
-<p>细胞免疫治疗难度并不高，不过在操作中规范化、无菌化和风险控制极其重要，所以，有能力的医院自己做符合GMP标准的细胞操作间，没能力的则是将相关业务外包给多家生物公司来做。由康新公司“承包”或“入股”的北京武警二院肿瘤生物中心属于后者。</p>
-<p>他们的技术合作伙伴是上海柯莱逊生物技术有限公司。关于该公司近期的新闻是：3月3日晚间，中源协和发布预案称，公司拟以11亿元收购上海柯莱逊生物技术有限公司100%股权。公开资料显示，柯莱逊是国内最大的免疫细胞治疗企业之一。柯莱逊的官网同样将斯坦福大学医学中心列为合作伙伴，斯坦福方面称并不了解该公司。</p>
-<p>从公开资料来看，上海柯莱逊与北京武警二院肿瘤生物中心同样也是相亲相爱的一家人。何以见得？柯莱逊甚至替二院招聘护士。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061285.png?resize=600%2C882" alt="134061285" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061285.png?resize=204%2C300 204w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061285.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>从柯莱逊的招聘广告还可以看出，这家公司的业务并不像其收购方中源协和所声称的那样，仅限于“给医院提供技术服务，包括细胞制备等，并不给患者提供临床治疗。”事实上，除了在北京，公司还在各地招聘包括肿瘤科医生、临床医生、护士等提供临床治疗的员工。此外，还招聘百度竞价专员等业务人员。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061318.png?resize=600%2C889" alt="134061318" data-recalc-dims="1"></p>
-<p><strong>谜底揭晓，老板根本是一个人</strong></p>
-<p>我们已经发现，康新公司是北京武警二院域名的管理者，柯莱逊是武警二院细胞免疫技术的支持者，那么，康新和柯莱逊又是什么关系？</p>
-<p>简而简之，他们也是相亲相爱的一家人，老板是莆田人士陈新贤和陈新喜兄弟。</p>
-<p>柯莱逊公司董事长叫陈新贤，他指导工作的消息刊登在公司官司网上。而公开交易信息显示，柯莱逊的原股东之一为陈新贤的胞弟陈新喜。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061321.png?resize=637%2C263" alt="134061321" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061321.png?resize=300%2C124 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061321.png?w=637 637w" sizes="(max-width: 637px) 100vw, 637px" data-recalc-dims="1"></p>
-<p>陈新贤除了是柯莱逊的董事长，旗下还有两大医疗机构，在接受公开采访时他介绍说，他在新加坡注册成立了华康医疗投资集团有限公司，在上海注册成立的就是康新医院投资管理集团有限公司。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061339.png?resize=639%2C186" alt="134061339" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061339.png?resize=300%2C87 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061339.png?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"></p>
-<p>所以，人物关系图就是这样的（时间紧，缺美工，抱歉只能手绘）：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061357.png?resize=600%2C616" alt="134061357" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061357.png?resize=292%2C300 292w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061357.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>莆田人士陈新贤的康新公司通过承包科室等方式，管理多家公立医院肿瘤科室，从事医院和科室官网建设和维护、百度竞价、在线咨询导医，甚至直接参与临床治疗；陈新贤与其弟陈新喜的柯莱逊生物公司为这些肿瘤科室提供技术服务。这是稳赚不赔的生意，只要康新能继续搞掂主管医院。</p>
-<p>如此谋财害命的治疗，得到了主管医院的纵容，得到了百度竞价排名的助推，也得到了监管部门的睁一只眼闭一只眼的默许。得了癌症、被骗了钱又没了命的病人太可怜、太无助、太冤枉。</p>
-<p><strong>怎样远离问题医院？</strong></p>
-<p>年轻的魏则西去世了，他在死前将自己被百度公司、被部队医院和医生欺骗，视为人性中最大的恶。媒体和一大批医生曾在几年前质疑细胞免疫疗法无效，然而没用；包括有槽(Dr-Venting)在内的媒体和自媒体曾质疑百度竞价广告的操作不合规、披露部队医院被莆田系承包的种种弊端，也是然并卵。<br>
-但是，你可以帮助自己和家人朋友自保。</p>
-<p>首先，凡事不要问百度，凡事不要问百度，凡事不要问百度。原因不再解释。</p>
-<p>第二，谨慎对待部队医院。部队医院大量赢利科室被莆田系承包的问题已经说了无数次，男科、妇科、不孕不育、皮肤性病、中医这些科室是重灾区，但我也没想到，连肿瘤病人的钱他们也要赚，肿瘤病人的命他们也要榨。</p>
-<p>哪些科室被承包？查北京地区的医院有个最简单的办法，在手机应用程序“114生活助手”和联通114挂号网站(http://www.114menhu.com/)上，“社会知名医院”这一栏里：除了民营医院，就是部队医院承包科室，其中包括了有槽(Dr-Venting)曾揭露的北京466医院，即空军航空医学研究所附属医院。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061385.png?resize=600%2C332" alt="134061385" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061385.png?resize=300%2C166 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/134061385.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>我是无神论者，但在这件事情上我期待有报应，我希望涉事的所有人，包括医疗监管官员，百度的人，医院的人，康新的人，柯莱达的人，夜里能听到魏则西和其他受害者的哭声。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E6%A7%BD-%E4%B8%80%E4%B8%AA%E6%AD%BB%E5%9C%A8%E7%99%BE%E5%BA%A6%E5%92%8C%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E4%B9%8B%E6%89%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E8%89%AF%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">无良企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AE%E9%A2%98%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">问题医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1408,7 +1394,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E8%89%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1418,5 +1404,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E8%89%AF
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

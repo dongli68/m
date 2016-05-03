@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,22 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%8E%86%E7%94%B0%E7%B3%BB%E5%86%85%E5%B9%95/" target="cdt-mirror">【真理部】莆田系内幕</a>
+</h2>
+<p><p>请属地网站立即全面查删拦截涉莆田系内幕等相关信息，查删涉武警及部队医院的煽动性、行动性等相关信息；并请做好有害样本取证工作，相关样本（标题+链接）于今日20：30之前发送至群。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%8E%86%E7%94%B0%E7%B3%BB%E5%86%85%E5%B9%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B9%96%E5%8D%97%E6%97%A5%E6%8A%A5-%E5%85%9A%E5%91%98%E7%9A%84%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A7%81%E4%BA%BA%E7%A9%BA%E9%97%B4%EF%BC%9F%E5%85%9A/" target="cdt-mirror">【异闻观止】党建专家：党员的微信朋友圈不是私人空间</a>
 </h2>
 <p><p>新修订的《中国共产党廉洁自律准则》和《中国共产党纪律处分条例》（以下分别简称《准则》和《条例》）两项法规是十八大以来我们党严明政治纪律和政治规矩、落实八项规定、反对“四风”的制度化、常态化的重要成果，是全面从严治党最新实践的结晶。《条例》被很多党建专家称为“改革开放以来最全、最严的党纪”，是我们党成立以来第一部既一脉相承又与时俱进的系统成文的“党内法典”。《准则》是党执政以来第一部坚持正面倡导、面向全体党员的廉洁自律规范，是向全体党员发出的道德宣示和对全国人民的庄严承诺。</p>
@@ -88,7 +101,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E9%99%A2%E5%A4%96%E5%8C%85%E7%A7%91%E5%AE%A4/?category=18271" rel="tag">医院外包科室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BB%91%E8%86%9C%E8%82%89%E7%98%A4/?category=18271" rel="tag">滑膜肉瘤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%8C%E7%97%87/?category=18271" rel="tag">癌症</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%BF%E7%98%A4%E7%94%9F%E7%89%A9%E5%85%8D%E7%96%AB%E7%96%97%E6%B3%95/?category=18271" rel="tag">肿瘤生物免疫疗法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/" target="cdt-mirror">搜狐弧度 | 莆田系股东曝与80所部队医院合作 给某院送礼百万</a>
 </h2>
@@ -1384,25 +1397,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E8%89%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B9%A0%E5%86%8D%E5%91%BC%E5%90%81%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%95%A2%E8%A8%80-%E7%BD%91%E6%B0%91%E6%8C%96%E8%8B%A6%E4%BF%A1%E8%80%85%E5%BE%AE%E5%8D%9A%E5%8F%B7/" target="cdt-mirror">法广｜习再呼吁知识分子敢言 网民挖苦信者微博号都没了</a>
-</h2>
-<p><p><img src="http://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt.jpg?w=440" alt="龙椅明黄杯" width="440" height="303"><br><span>网络图片</span></p>
-<p>中共总书记习近平再度呼吁知识分子和青年对各级党委政府积极进言批评，只要出发点是好的，政府坚持“不抓辫子、不扣帽子、不打棍子”。根据新华社报导，习近平是在4月26日在安徽研期间召开此次座谈会，有来自安徽省与全国各地的70多名知识分子、劳动模范、青年代表参与座谈，包括中科院院士、中国科技大学常务副校长潘建伟等。</p>
-<p>这是习近平在一周内再度表示对批评的宽容，他4月19日在网络安全和信息化工作座谈会上称，对网上那些出于善意的批评，不仅要欢迎，而且要认真研究和吸取。</p>
-<p>不过不少网民不但对习总书记的呼吁半信半疑，反而怀疑是类似当年毛泽东搞双百运动的“阳谋”，目的是引蛇出洞。</p>
-<p>有网民说：“请回顾双百（百家争鸣、百花齐放）和反右的关系。”另外有网民“验信珠”挖苦说：“孙海英信了，号没了；任志强信了，号没了；王亚军信了，号没了；文山娃信了，号没了；连我都信了，结果号也没了。”</p>
-<p>上述人都被称为所谓的大V，即微博上有众多的粉丝，但都因为批评政府而遭到帐户被封的命运，例如任志强就是因为批评习近平要传媒姓党而号没了。</p>
-<p>有网民甚至对习近平的所谓“三不”保证而感到耻辱。网民“世界之双目”说：“在文革结束四十年后的今天，还在承诺对知识分子不抓辫子，不扣帽子，不打棍子，真是替你们感到丢人，感到耻辱。”</p>
-<p>根据新华社，习近平在安徽的座谈会上，要求各级党委和政府要形成有利于知识分子干事创业的机制，减少对其创造性劳动的干扰，又称希望知识分子要坚持国家至上、民族至上、人民至上，多为推进党和人民事业献计出力。</p>
-<p>他又提到青年工作称，广大青年要“敢于做先锋，而不做过客、当看客”，“心中有阳光，脚下有力量，为了理想能坚持、不懈怠，才能创造无愧于时代的人生”。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E6%B3%95%E5%B9%BF%EF%BD%9C%E4%B9%A0%E5%86%8D%E5%91%BC%E5%90%81%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%95%A2%E8%A8%80-%E7%BD%91%E6%B0%91%E6%8C%96%E8%8B%A6%E4%BF%A1%E8%80%85%E5%BE%AE%E5%8D%9A%E5%8F%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E8%9B%87%E5%87%BA%E6%B4%9E/?category=18271" rel="tag">引蛇出洞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E5%8D%9A%E5%A4%A7v/?category=18271" rel="tag">微博大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E8%8A%B1%E9%BD%90%E6%94%BE/?category=18271" rel="tag">百花齐放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1414,7 +1408,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1424,5 +1418,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

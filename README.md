@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B9%96%E5%8D%97%E6%97%A5%E6%8A%A5-%E5%85%9A%E5%91%98%E7%9A%84%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A7%81%E4%BA%BA%E7%A9%BA%E9%97%B4%EF%BC%9F%E5%85%9A/" target="cdt-mirror">【异闻观止】党建专家：党员的微信朋友圈不是私人空间</a>
+</h2>
+<p><p>新修订的《中国共产党廉洁自律准则》和《中国共产党纪律处分条例》（以下分别简称《准则》和《条例》）两项法规是十八大以来我们党严明政治纪律和政治规矩、落实八项规定、反对“四风”的制度化、常态化的重要成果，是全面从严治党最新实践的结晶。《条例》被很多党建专家称为“改革开放以来最全、最严的党纪”，是我们党成立以来第一部既一脉相承又与时俱进的系统成文的“党内法典”。《准则》是党执政以来第一部坚持正面倡导、面向全体党员的廉洁自律规范，是向全体党员发出的道德宣示和对全国人民的庄严承诺。</p>
+<p>在一个诱惑越来越多而要求越来越严的时代，党员干部对自己的言行不能不经常进行自省，避免“走错一步、毁掉一生”的发生。《准则》和《条例》就是党员干部作出正确的行为选择“指示灯”。党员要永葆政治青春，就要时刻不忘党旗下的宣言，自觉把两部法规作为一面镜子对照检查，在思想上多一些扪心自问，问一问自己的行为是否符合纪律的要求。问得清，守得住，才能行得正，走得远。从当前的关注点或者敏感点来看，尤其要做到以下“十问”：</p>
+<p><strong>一问：党员微信朋友圈是不是私人空间？</strong></p>
+<p>《条例》规定，妄议中央等违反政治纪律的行为，是通过信息网络、广播或者座谈会等途径公开的。微信是当今社会越来越重要的传播媒介。党员的微信朋友圈，无疑是信息传播的一种重要渠道，它的浏览对象是不特定人或者特定多数人，具有相当的公开性，并非仅有家人和少数经常交往的好友，不属于私人空间。如果党员通过微信朋友圈妄言妄语，胡言乱语，就会被广泛转发，造成恶劣影响，破坏党的集中统一，因此要受到违纪处分。比如，东部某市公安局副局长吴某，在微信朋友圈看到一篇关于攻击“一国两制”的文章，便轻点手机屏幕进行分享，发表评论附和。他的这一举动，看似不经意，其实违反了政治纪律，一条很重要的政治纪律——妄议中央大政方针。与此相关，党员微博不是法外之地。任志强作为一名共产党员，在微博上持续公开发布违法信息和错误言论并产生恶劣影响，严重损害了党的形象，不仅微博被关，而且受到了西城区委的处分。</p>
+<p><strong>二问：党员用手机短信表达诉求是否违纪？</strong></p>
+<p>《条例》规定，在民主推荐中搞拉票等非组织活动的，要受到纪律处分。这就是说，党员发短信表达诉求，关键看诉求的内容，如果是不正当的，是涉嫌为自己谋取私利的非组织活动，尽管没有送礼，不构成贿选，但一样构成违纪。</p>
+<p><strong>三问：党员能否参加老乡会、校友会、战友会？</strong></p>
+<p>《条例》规定，党员领导干部违反有关规定组织、参加自发成立的老乡会、校友会、战友会，要受到违纪处分。那么，是不是今后的老乡、同学、战友的聚会就都不能参加了？这里需要说明的是：一是规定针对的是“党员领导干部”，而不是普通党员，体现了对党员领导干部的高要求。二是“违反有关规定组织”，是指不得担任这类组织的发起人和组织者，不得在这类联谊会中担任相应职务；也不得借机编织“关系网”，搞亲亲疏疏，团团伙伙，更不得有“结盟”“金兰结义”等行为。三是“自发成立的”，主要是指未经登记注册的。如果在这三条之外，不是搞什么“刘关张桃源三结义”，正常的聚会还是允许的。</p>
+<p><strong>四问：党员干部填报事项报告表是不是小事？</strong></p>
+<p>《条例》规定，对违反个人有关事项报告规定，不报告、不如实报告的，要给予处分。填报个人事项报告表，是反腐倡廉的重要举措。是否如实报告事项，涉及到对党是否忠诚、对组织是否坦白、个人是否诚实的问题，不是小事情。因此，《条例》把它作为一条重要的组织纪律写进去了。现在，领导干部个人事项报告正在“升级”、不断细化，不仅对新任领导干部实行凡提必查，而且每年还要对一部分人进行抽查。2015年全国共43万副处级以上干部被抽查，近四千官员不如实报告被取消提拔资格。</p>
+<p><strong>五问：党员“正常的礼尚往来”行不行？</strong></p>
+<p>《条例》没有对这类行为搞简单的“一刀切”，而是区别了不同情况分别作出了规定：一是不准收受可能影响公正执行公务的礼品、礼金、消费卡等；二是不能收受其他明显超出正常礼尚往来的礼品、礼金、消费卡等。从近年来看，从事公务的党员干部收受礼品、礼金问题确实比较突出，这严重影响了党员干部形象，破坏了党群关系，确有必要对这类行为予以纪律规范。判断礼尚往来的标准，要看是否有来有往，如果只来不往，就有问题了。另外，如果“礼”明显超出了当地正常经济水平、风俗习惯、个人经济能力，肯定逃不出纪律的“法眼”。在这方面，我们要牢记两句话：“天下没有免费的午餐”，“天上掉馅饼的时候，是地上有陷阱的地方”。</p>
+<p><strong>六问：党员干部可不可以出入私人会所？</strong></p>
+<p>《条例》规定，对违反有关规定出入私人会所，情节较重或严重的，要分别给予处分。这是整治“会所中的歪风”的硬规定。对不收手、不知止，规避组织监督，出入私人会所，组织隐秘聚会的一律从严查处，对参加聚会的要找本人谈话，令其在民主生活会上作出深刻检查。很多高级干部由于出入会所受到了这样的惩处。比如，原广东省委常委、广州市委书记万庆良，在中央八项规定出台以后，多次出入私人会所，大吃大喝，这是他落马的重要原因。现在，《条例》写得这样明确，我们就不要犯这样的低级错误了。</p>
+<p><strong>七问：党员到底能不能炒股？</strong></p>
+<p>《条例》并没有改变原来的规定。原规定“个人违反规定买卖股票”是违纪的情形之一，这与现在条款第一款开头规定的“违反有关规定”在文字表述上重复。修订中只是从立法技术上删除了“个人违反规定”这一内容，没有改变原来的内容。党员只要不属于规定与内部有关的几类不能炒股的人员，不是靠内幕消息和非法手段从资本市场获利的，炒股是大可放心的。</p>
+<p><strong>八问：党员交通违法算不算违纪？</strong></p>
+<p>《条例》规定，不论何种犯罪行为，只要是犯罪情节轻微由检察院依法作出不起诉决定的，或者由法院依法作出有罪判决并免予刑事处罚的，均应当给予纪律处分。这就意味着，乱停车被贴条，闯红灯被扣分，乱并道压黄线……这些交通违法行为固然不可取，但从法律角度讲不算犯罪，也不需要动用《党纪处分条例》；但那些触犯刑律，被法院以交通肇事罪或危险驾驶罪等判刑的，那党纪就不会视而不见了。</p>
+<p><strong>九问：党员干部辞职后当“土豪”能否规避纪律处分？</strong></p>
+<p>《条例》规定，对生活奢靡、贪图享乐、追求低级趣味，造成不良影响的，要给予纪律处分。这是保持艰苦朴素政治本色的需要。挥金如土、过分奢靡，如果是发生在群众身上，别人最多是摇摇头，说句“土豪”。而对党员来讲，不管是否担任领导职务，都要受到纪律的追究。日前，一个村主任为了给独生子办个“像样的婚礼”，向纪委报备酒席数量未获通过后，选择辞职，顶风办了40多桌酒席，最后没逃脱纪律的惩罚。与此有关，一些党员用自己的钱买豪车豪表，只要超过当地的正常水平，纪委就要找他的麻烦。</p>
+<p><strong>十问：党员私生活不检点属不属私事？</strong></p>
+<p>《条例》把原来的“通奸”、“包养情妇（夫）”修改为“与他人发生不正当性关系”，使纪律处分的面更宽更严更准。在老百姓那里，通奸是两情相悦的事，而领导干部跟下属发生所谓的通奸，多数带有胁迫性或者诱惑性，用“与他人发生不正当性关系”更恰当。</p>
+<p>来源：湖北日报</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B9%96%E5%8D%97%E6%97%A5%E6%8A%A5-%E5%85%9A%E5%91%98%E7%9A%84%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A7%81%E4%BA%BA%E7%A9%BA%E9%97%B4%EF%BC%9F%E5%85%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%BB%BA/?category=18271" rel="tag">党建</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">违纪处分</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%99%BE%E5%BA%A6%E5%86%85%E9%83%A8%E5%8F%91%E6%96%87%EF%BC%9A%E7%A0%A5%E7%A0%BA%E9%A3%8E%E9%9B%A8%E5%9D%9A%E5%AE%88%E4%BD%BF%E5%91%BD/" target="cdt-mirror">月光博客 | 百度内部发文：砥砺风雨坚守使命</a>
 </h2>
 <p><p>5月3日中午消息，据知情人士消息，百度内部今日通过内网发布题目为《砥砺风雨坚守使命》的文章，对五一期间的“魏则西事件”做出了内部说明。</p>
@@ -209,7 +242,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%E6%96%B0%E9%97%BB%E9%81%AD%E5%85%A8%E9%9D%A2%E7%A6%81%E8%AF%84/" target="cdt-mirror">【立此存照】任志强留党察看新闻遭全面禁评</a>
 </h2>
@@ -1370,52 +1403,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%9C%E8%88%AA%E8%88%B9northfleet%EF%BD%9C%E5%BC%80%E5%A4%A9%E7%AA%97/" target="cdt-mirror">夜航船Northfleet｜开天窗</a>
-</h2>
-<p><p><strong>【编者注】</strong>根据澎湃新闻网的后续报道，“北大青年”微信公众号于4月29日近午夜时，推送了两条调查稿件，分别是《你不知道的心理咨询中心》、《方格内外：北大校内电梯》，并在这两篇文章开头对稿件未能发布的原因进行了解释：</p>
-<blockquote><p>根据《北大青年》的出刊流程，本栏目稿件刊发前须经受访者确认。在4月27日之前，两篇稿件没有获得受访者肯定答复，未能及时推送。今天，我们收到回复，现予刊发。</p></blockquote>
-<p><strong>澎湃新闻网｜北大青年微信”开天窗“风波涉及的三篇文章都说了啥？</strong>（<a href="http://webcache.googleusercontent.com/search?q=cache:sM3XwqmoEYwJ:www.thepaper.cn/newsDetail_forward_1463180+" target="_blank">谷歌快照链接</a>）</p>
-<blockquote><p>4月30日早晨，澎湃新闻发现，“北大青年”微信公众号4月27日发的《今天无稿可发》一文已经被删除。</p>
-<p>而这两条稿件与之前网友公布的“两篇不能发的文章”选题一致，但内容与网上流传的有些出入。</p>
-<p>《你不知道的心理咨询中心》主要介绍了北大心理咨询中心如何服务学生并供不应求的内容，对学生普遍关心的保密性、专业性作了具体介绍，并无网传中提及的“泄漏学生隐私”等内容。</p>
-<p>《方格内外：北大校内电梯》从上文中网民“东林君”透露的一起电梯事故和调查数据（数据基本一致）说起，提及北大理科楼群的电梯运营安全话题，并引用采访对象的话说，一些师生对电梯问题的感受是因为和维管理部门之间缺乏沟通。</p></blockquote>
-<p><strong>截至发稿时，澎湃原文及部分门户网站转发均已消失。</strong></p>
-<p>———————————-</p>
-<p>今天，北大的一家校园媒体《北大青年》开天窗了：「今天我们有两篇文章不能发。」</p>
-<p>其中一篇是关于教学楼电梯安全的。我大一时，理教还是一栋低矮丑陋的教学楼，在短短两年时间内，理科变得高大丑陋，不知出于什么原因，校园里新修的教学楼大多是两种风格：灰色监狱风、仿古红楼风。</p>
-<p>因为理教修建时间极短（两年不到），而且上课时发生过天花板掉落砸到课桌的事，所以我对理教整栋楼的安全性都抱有怀疑。尤其是电梯，我做过一次，明显感觉摇摇晃晃。可能这种时间建一栋楼、这种乘电梯体验都是专业人士允许的范围内，但的确作为学生，我的确非常不安心。在校园媒体期间，我也考虑过做这个题，但因为切入口太大没能成行。</p>
-<p>结果，今天有五个学弟学妹们把这个题做出来了，起因是有同学直接被关在三教（第三教学楼）电梯里出不来了。包括调查问卷（16%的北大在校人员遇到过电梯问题，56%表示听说过电梯事故），现在使用的电梯是「最低中标」，而且三教的电梯已经到了大修期，更换却一直没有提到日程上。</p>
-<p>然后住建部向团委告状，把稿子封了。</p>
-<p>事情到此为止，还都是我们熟悉的中国逻辑，稿子成了内参，说不定问题还能解决。</p>
-<p>但是，不少围观者，很多还是北大校友，把矛头对向了北大学生，这让我出离愤怒了！</p>
-<ol><li>校外媒体跟进怎么办？对北大名誉造成影响，谁负责？</li>
-<li>在那个位置上，我也只能这么做，都是弱者，无可厚非。</li>
-<li>用情怀裹挟民意，转移众人视线；</li>
-<li>在报纸文案狗为了营销都可以随便开天窗的年代，天窗早就没那么神秘了。另外这个和党员毕姥爷酒桌辱毛的事一个性质，作为共青团的号情有可原，行要抵罚。</li>
-<li>这些学生都是看着社会上妓者写的东西长大的。写东西掌握不好技巧和力度，写东西让职能部门的人泛恶心，也不懂得影射和高级黑白，这样的报道于提升学校的管理水平没有任何意义。能解决问题的是BBS，不是团报。</li>
-<li>我希望你们只是不懂事，或者只是被当枪使了。要是陈老师被深爱的学生在背后插上一刀倒下，真的很讽刺。</li>
-</ol><p>我所诧异的是，这么简单一个事，这么利校利民一个事，这么是非分明的一件事，居然还能洗，还能往学生身上泼污水！</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%BF%98%E6%9C%89%E7%8E%8B%E6%B3%95%E5%90%971.jpg" rel="attachment wp-att-436354"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%BF%98%E6%9C%89%E7%8E%8B%E6%B3%95%E5%90%971.jpg?resize=550%2C247" alt="还有王法吗1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/还有王法吗1.jpg?resize=300%2C135 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/还有王法吗1.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%BF%98%E6%9C%89%E6%B3%95%E5%BE%8B%E5%90%97.jpg" rel="attachment wp-att-436353"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%BF%98%E6%9C%89%E6%B3%95%E5%BE%8B%E5%90%97.jpg?resize=550%2C220" alt="还有法律吗" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/还有法律吗.jpg?resize=300%2C120 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/还有法律吗.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>学校教学楼天花板砸下来，他们不觉得影响北大名誉；电梯把晚自习的学生关在里面出不来，不影响北大名誉；现在学生把电梯问题指出来了，北大名誉要被影响了！</p>
-<p>好一个北大名誉，是些个什么东西！</p>
-<p>我真想问一句：</p>
-<p>还有王法吗？</p>
-<p>还有法律吗？</p>
-<p>还能跟你们讲道理吗？！</p>
-<p>是什么让你们的是非观、正义感变成这种傻屌样？还有人拿毕姥爷说事，所以在这个国度，大家都已经默认了组织法律高于宪法了吗？！</p>
-<p>虽然我也没关注北大青年，他们之前发的什么总理在北大、师兄和我们在一起，我也一个字没看。但一码事归一码事。人偶尔都要吃屎，但不要因此认为吃饭是种偏食。<br>
-今天读茨威格的《昨日的世界》，他写得絮絮叨叨，从小时候讲起。他说他年轻时同学们都痴迷于戏剧，为文学癫狂，哪怕后来只有他一个人做了作家，但当时打下的功底让他受益终身。我早已关掉了朋友圈，因为里面大都不是我的朋友，内容大都是垃圾。我马上又要做我梦寐以求的工作，不需要加什么群、点什么赞、跟谁废话。说这些只是希望做这篇报道的五个同学、决定要在沉默中爆发的主编，不要被那些垃圾话影响。他们就是出事前说要相信学校住建部、出稿后说你拿情怀炒作、真的出现伤亡后会发[蜡烛]表情的理中客。</p>
-<p>最后，有人说这是公器私用。「要做自己的报纸可以，不要打着共青团的旗号让别人给你背锅。自己享受着北大团委的资源，不能这么自私地去害别人。燕园每日话题之类的非官方媒体很自由，为什么不去做呢？并没有不给你这种自由啊。」</p>
-<p>是啊，并没有不给你这种自由啊。你可以办报、结社、言论、游行啊。你还能说话就证明了民主，你还能呼吸就说明空气没问题，你还能开天窗，这简直就是一个自由的国家，一个自由的校园。</p>
-<p>（题图是北大校园一景，名叫民主科学）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E5%A4%9C%E8%88%AA%E8%88%B9northfleet%EF%BD%9C%E5%BC%80%E5%A4%A9%E7%AA%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7/?category=18271" rel="tag">北大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1427,7 +1414,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1437,5 +1424,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E5%A4%A7
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

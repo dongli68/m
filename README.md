@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,97 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90-%E8%B5%B7%E5%BA%95%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%BC%95%E5%8F%91%E5%85%AC%E6%84%A4%E7%9A%84%E5%8C%BB%E9%99%A2%E7%A7%91%E5%AE%A4%E8%83%8C%E5%90%8E%E7%9A%84%E8%8E%86%E7%94%B0/" target="cdt-mirror">搜狐弧度 | 起底调查：引发公愤的医院科室背后的莆田系身影</a>
+</h2>
+<p><p>22岁的西安电子科技大学计算机专业学生魏则西，因罹患恶性肿瘤滑膜肉瘤，于今年4月12日去世。半个月后，他在知乎讲述被位列百度搜索结果首位的医院蒙骗的经历，经网友转发后再次引发公众对百度医疗广告模式的口诛笔伐。</p>
+<p>被质疑后，魏则西曾就诊的武警北京市总队第二医院（下简称“武警北京二院”）肿瘤生物治疗中心条目被从搜索结果中撤掉。百度方面继而表示该医院资质齐全。而经弧度调查，武警北京二院虽为公立三甲医院，但其肿瘤生物治疗中心背景复杂，不仅网站注册资料繁杂混乱，不仅域名所有者为莆田系公司，而且与莆田系关联公司关系异常密切。</p>
+<p>不过，对武警北京二院肿瘤生物诊疗中心被承包的说法，院办工作人员称，该中心仍归医院管理。</p>
+<p><strong>知乎上回顾被蒙骗经历 百度搜索结果为信息起点</strong></p>
+<p>“百度，当时根本不知道有多么邪恶，医学信息的竞价排名，还有之前血友病吧的事情，应该都明白它是怎么一个东西。”这是今年2月26日，魏则西在知乎问题“你认为人性最大的【恶】是什么？”下讲述自己被位列百度搜索结果首条的医院蒙骗经历时写下的一句话。</p>
+<p>魏父魏海全亦证实，当初用百度搜索“滑膜肉瘤”，得到的第一个结果就是武警北京二院肿瘤生物治疗中心的推广内容。他告诉搜狐新闻弧度栏目，在经历两次专程赴京踩点、现场询问专家和其他患者家属、以及搜索权威报道等过程后，自己才最终决定让唯一的爱子在此就诊。</p>
+<p>“你说你信不信？他们打出来的是跟美国斯坦福在一块合作，你信不信？中央电视台报道，你信不信？北京电视台报道，你信不信？”</p>
+<p>从2014年9月开始，魏则西以每三个月一次的频率，先后四次接受生物免疫治疗，但到2015年7月为止，“又转移又复发，复发两次”，魏母回忆，魏则西也曾写道，花费二十多万元后，癌细胞还是转移到肺部，“医生当时说我恐怕撑不了一两个月了”。</p>
+<p>魏父后来也得知，这家多次被中央电视台、北京电视台报道、也在百度搜索结果排名首位的“正规三甲、部队医院”所宣称“世界最先进”的生物免疫疗法，实际因有效率太低早已被美国淘汰。微信公众号“有槽(Dr-Venting)”在4月29日下午电话访问了斯坦福医学院媒体关系部的Becky Bach女士。她表示，斯坦福并未与中国的任何一家医院从事细胞治疗方面的合作，当中包括北京武警二院，她不理解为什么该院在宣传中会强调是从该院引进技术。</p>
+<p>当魏家上述的惨痛经历通过大量微博转发呈现在公众眼前，对百度医疗广告模式的谴责再次引爆舆论。尤其微博用户@孔狐狸 4月27日晚截图转发魏则西的回答帖时提到，通过百度搜索“滑膜肉瘤”，武警北京二院仍旧排在搜索结果首位。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.07.33.png?resize=594%2C334" alt="Screen Shot 2016-05-02 at 下午5.07.33" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.07.33.png?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.07.33.png?w=594 594w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"><br><span>截至4月28日中午，在百度搜索“滑膜肉瘤”，位列搜索结果首条的仍是魏则西曾就医的武警北京二院肿瘤生物治疗中心。</span></p>
+<p>28日上午的搜索结果依然如此。</p>
+<p>但在百度推广客服官方微博@百度推广小度 回应此质疑时称“已经协助反馈核实”几小时后，武警北京二院肿瘤生物治疗中心条目已无显示，从当晚开始，该网页一直显示错误，无法打开。</p>
+<p>当天下午，推广官方微博@百度推广 发布声明， “我们第一时间进行了搜索结果审查，该医院是一家公立三甲医院，其提交给百度的资质齐全”。微博中，@百度推广 还附上《武警部队单位对外有偿服务许可证》复印件。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.08.20.png?resize=596%2C414" alt="Screen Shot 2016-05-02 at 下午5.08.20" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.08.20.png?resize=300%2C208 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.08.20.png?w=596 596w" sizes="(max-width: 596px) 100vw, 596px" data-recalc-dims="1"><br><span>百度推广官微提供的武警北京二院的资质证明。来源：@百度推广</span></p>
+<p>5月1日凌晨，@百度推广 再度更新，称面对网友质疑，“我们正积极向发证单位及武警总部主管该院的相关部门递交审查申请函，希望相关部门能高度重视，立即展开调查，如果调查结果证实武警二院有不当行为，我们全力支持则西家属通过法律途径维权。”</p>
+<p><strong>起底调查：武警北京二院名下30个域名 注册信息五花八门</strong></p>
+<p>经搜狐新闻弧度栏目调查，百度声明中“该医院是一家公立三甲医院，其提交给百度的资质齐全”的说法亦值得考究：尽管武警北京二院确实为公立三甲医院，但百度投放了“滑膜肉瘤”关键词的机构，是否即武警北京二院法人主体，或说投放关键词的机构和提供资质的机构之间究竟是什么关系，却依然存在问题。</p>
+<p>问题1：“武警北京二院”为什么在百度投放了65个网站？</p>
+<p>这次被质疑的“北京武警二院肿瘤生物治疗中心”网站，为百度信誉V认证网站，在其百度商家信誉档案中，认证名称即“中国人民武装警察部队北京市总队第二医院”，性质是“企业”，认证类型是“实名认证”，合作时长122个月。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.09.32.png?resize=601%2C308" alt="Screen Shot 2016-05-02 at 下午5.09.32" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.09.32.png?resize=300%2C154 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.09.32.png?w=601 601w" sizes="(max-width: 601px) 100vw, 601px" data-recalc-dims="1"><br><span>北京武警二院肿瘤生物治疗中心的百度商家信誉档案显示，“该机构旗下网站”有65个。</span></p>
+<p>档案同时显示“该机构旗下网站”有65个。弧度逐一打开查询后发现共30个网站（详见列表）名称与武警北京二院相关，其中24个以“中国人民武装警察部队北京市总队第二医院”冠名，只是科室不同，包括癫痫科、精神科、麻醉科、儿童厌食症科，以及自闭症专科，传染科等等；另外还有4个以“武警北京总队第二医院”冠名、2个以“北京武总第二医院”冠名。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.10.21.png?resize=596%2C351" alt="Screen Shot 2016-05-02 at 下午5.10.21" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.10.21.png?resize=300%2C177 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.10.21.png?w=596 596w" sizes="(max-width: 596px) 100vw, 596px" data-recalc-dims="1"><br><span>30个网站名称与武警北京二院相关，但工信部备案信息查询结果显示，其基本都与医院无关。弧度制图</span></p>
+<p>问题2：“武警北京二院”为什么投放了上海的医院网站？</p>
+<p>上述65个网站中，除30个名称与武警北京二院相关外，还有35个网站或打不开，或为看起来和其毫无关系的医院，如“北京大慈中医医院”、“北京白癜风医院”等。甚至还一个地址为www.tj555.com的网站，显示“上海虹桥胎记医院”，其实体地址位于上海。</p>
+<p>问题3：“武警北京二院”和“BDV-312934279”是什么关系？</p>
+<p>百度信誉档案还显示，“武警北京二院”的“主体识别码”为BDV-312934279，实际上，这是指提供了“武警北京二院”资质证明的“BDV-312934279”在与百度合作，并投放“滑膜肉瘤”等关键词，让网民在百度搜索相关病种时被引导到“武警北京二院”，但二者之前的关系不得而知。</p>
+<p>问题4：“武警北京二院”的ICP备案信息为什么是“葫芦岛订房网”？</p>
+<p>根据65家网站标示的ICP备案号在工信部网站查询，又会发现上述网站的备案信息基本都与医院无关，包括“久久印象”、“开心的”、“开心就好”、“广阔导航”、“葫芦岛订房网”“我的路”等等在内的注册名称，更无一与武警北京总队第二医院相关。前述“武警北京二院肿瘤生物治疗中心”网站，在备案信息里的名称为“信息网”。</p>
+<p>另一方面，弧度却始终未能找到“武警北京总队二院”真正的官网。</p>
+<p><strong>涉事科室域名所有者为莆田系公司</strong></p>
+<p>更值得注意的是，搜狐新闻弧度栏目查询武警北京二院肿瘤生物治疗中心的域名bjwj2y.com，其在注册资料里显示的注册组织名为：KangXin Hospital Investment And Management CO.,LTD。而以这个公司名注册的域名，还有 “辽宁省人民医院肿瘤生物治疗中心”、“湖北省肿瘤医院生物免疫治疗中心”。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.11.18.png?resize=566%2C470" alt="Screen Shot 2016-05-02 at 下午5.11.18" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.11.18.png?resize=300%2C249 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.11.18.png?w=566 566w" sizes="(max-width: 566px) 100vw, 566px" data-recalc-dims="1"></p>
+<p>武警北京二院肿瘤生物治疗中心的域名注册资料显示，注册组织名为：KangXin Hospital Investment And Management CO.,LTD。</p>
+<p>在领英网用英文搜索该公司名，唯一结果为Shanghai Kangxin Hospital Investment Management Co.,Ltd。显然这是一家中国公司，位于上海，中文名直译应是“上海康新医院投资管理有限公司”（以下简称“康新公司”）。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.11.59.png?resize=594%2C516" alt="Screen Shot 2016-05-02 at 下午5.11.59" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.11.59.png?resize=300%2C261 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.11.59.png?w=594 594w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"></p>
+<p><span>公开资料显示，康新医院投资管理集团有限公司由莆田系医疗企业中排名靠前的大老板陈新贤成立。</span></p>
+<p>弧度发现，网上关于该公司的资料，很多都注明法定代表人是陈新贤。四川福建商会关于陈新贤的介绍资料称，他在新加坡注册成立华康医疗投资集团有限公司，在上海注册成立康新医院投资管理集团有限公司。“华康集团和康新集团是集医疗、投资、开发为一体的多元医疗投资实体，开启了国内医疗投资合作模式的新纪元，现年产值已经突破30多亿元。”</p>
+<p>当听闻武警北京二院名下网站注册资料繁杂混乱，且肿瘤生物治疗中心域名所有者为莆田系公司时，魏海全反问弧度：“你是说这个科室属于莆田系承包？”“我的妈，太可怕了！”</p>
+<p>据莆田系医疗公司内部知情人士张利（化名）介绍，陈新贤和陈新喜兄弟是莆田系医疗企业中排名靠前的大老板。莆田（中国）健康产业总会报道显示，陈新贤还是莆田（中国）健康产业总会常务副理事长。</p>
+<p>“莆田系”是对莆田籍人士掌握的以游医起家的系列医疗企业的俗称，在发家过程中因各种医疗丑闻而充满争议。据南方周末2014年报道，“莆田系”医院已占中国民营医院的近八成。</p>
+<p>另据微信公众号“有槽(Dr-Venting)”介绍，因为细胞免疫治疗难度并不高，有能力的医院自己做符合GMP标准的细胞操作间，没能力的则将相关业务外包给多家生物公司来做。由康新公司“承包”或“入股”的武警北京二院肿瘤生物治疗中心就属于后者，他们的技术合作伙伴是上海柯莱逊生物技术有限公司（下简称“柯莱逊公司”）。</p>
+<p>据柯莱逊公司官网介绍，其董事长也是陈新贤。柯莱逊公司除帮武警北京二院肿瘤生物治疗中心发布护士招聘广告外，也在各地招聘肿瘤科医生、临床医生、护士等提供临床治疗的员工，甚至包括网络竞价专员。</p>
+<p>“有槽(Dr-Venting)”总结，他们的业务模式是：“莆田人士陈新贤的康新公司通过承包科室等方式，管理多家公立医院肿瘤科室，从事医院和科室官网建设和维护、百度竞价、在线咨询导医，甚至直接参与临床治疗；陈新贤与其弟陈新喜的柯莱逊生物公司为这些肿瘤科室提供技术服务。”</p>
+<p><strong>现场探访：患者大多由百度搜索结果引导而来</strong></p>
+<p>4月30日，搜狐新闻弧度栏目曾拨打武警北京二院肿瘤生物治疗中心网站上的号码询问魏则西治疗情况，工作人员称未查到他的就医记录，另一号码的接听者却称，魏则西的主治医生李志亮已经退休回老家。现任肿瘤生物治疗中心主任李慧敏，则一直拒接电话。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.13.06.png?resize=595%2C444" alt="Screen Shot 2016-05-02 at 下午5.13.06" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.13.06.png?resize=300%2C224 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.13.06.png?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"><br><span>位于武警北京二院住院部一层的肿瘤生物治疗中心分诊台后挂着“生物诊疗中心”字样招牌。蔡芳予/摄</span></p>
+<p>5月1日上午，弧度前往武警北京二院探访，首先发现位于住院部一层的肿瘤生物治疗中心分诊台后挂着“生物诊疗中心”字样招牌，与网站介绍名称不符。之后随机交谈的五名癌症患者中，有四名跟魏海全一样，由百度搜索排名靠前的结果引导而来，搜索关键词包括“肿瘤”、“肺癌”、“癌细胞转移不化疗怎么治”等。</p>
+<p>“感觉还是这家比较权威，因为是武警医院嘛，军区医院各方面的条件比较好，方案比较成熟。”来自四川的刘女士说，肿瘤生物治疗中心官网上，曾有宣传语称通过“生物诊疗”延长病人寿命的概率在百分之八十左右，到医院后，医生也这样告诉她。另两名则表示未被医生承诺治愈。</p>
+<p>他们中也有一名曾通过在网站上输入诊断证明得到医生答复。更多综合看网站宣传和当面询问医生的人，对“生物诊疗”的一个普遍认知是，无痛、疗程短、效果好，即使没有起到效果，最差的结果也是维持癌细胞不扩散。在此治疗一个疗程的费用大约在3至6万元之间。</p>
+<p>还有患者向弧度介绍起肿瘤生物治疗中心的“大咖”专家，主任医师温洪泽。“这个温主任是09年参加三人小组的（成员之一），这是从美国和日本引进的技术。看它的宣传，1970年是一个加拿大的科学家发明的这个，11年获得国际诺贝尔奖。”</p>
+<p>弧度注意到，温洪泽的名片背面，专门印有“多细胞生物治疗 2011年诺贝尔医学奖成果”字样，当以患者名义问起该成果，他答道：“（诺贝尔奖）它有电视，你不要看，它那个是讲D3（音）细胞的报道，讲的不是我们。”但他随后又称，D3细胞的确获得诺贝尔奖，“大家都在做D3，包括307医院，我们做的那个也是D3。”不过，上述五名癌症患者及其家属均称不知温洪泽所言为何。</p>
+<p>此外，微信公众号“有槽(Dr-Venting)”也对肿瘤生物治疗中心所宣称与“斯坦福合作”的之事进行了核实，4月29日下午，美国斯坦福医学院媒体关系部的Becky Bach女士在电话中表示，斯坦福并未与中国的任何一家医院从事细胞治疗方面的合作，当中包括北京武警二院，她不理解为何其在宣传中会强调是从该院引进技术。</p>
+<p><strong>也许是一种有前途的疗法 但从未获批进入临床治疗</strong></p>
+<p>搜狐新闻弧度栏目检索发现，中央电视台新闻频道2011年9月21日一则报道曾介绍过武警北京二院肿瘤生物治疗中心最新研制的肿瘤绿色疗法——生物细胞免疫治疗。据业内人士介绍，该疗法是指医生通过抽取肿瘤患者的免疫细胞，在体外扩增和加工，并重新输回患者体内，从而达到提高患者免疫能力，抑制或预防肿瘤生长转移扩散的目的。报道称，当时卫生部（现卫计委）已将这种疗法列入第三类医疗技术在部分三甲医院进行推广，部分地区也将生物细胞免疫治疗纳入医保报销范围。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.14.02.png?resize=582%2C346" alt="Screen Shot 2016-05-02 at 下午5.14.02" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.14.02.png?resize=300%2C178 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.14.02.png?w=582 582w" sizes="(max-width: 582px) 100vw, 582px" data-recalc-dims="1"><br><span>2011年9月，中央电视台新闻频道对武警北京二院肿瘤生物治疗中心最新生物细胞免疫治疗的报道。来源：土豆网视频</span></p>
+<p>但在《南方周末》2014年9月4日在报道中指出，癌症免疫细胞疗法尚未得到任何官方有效性和安全性的认可，这项技术虽在中国流行，实际已被西方发达国家淘汰，并正在临床试验更先进的技术。</p>
+<p>果壳网针对本次事件发表文章澄清说“真正的癌症免疫疗法”，确实是一个颇有前途（哪怕还不能给出明确答案）的癌症治疗方向，但并没有机构获准将这些方法投入临床治疗。</p>
+<p>癌症免疫细胞疗法自进入国家监管部门视野之后的十余年间，几经波折却依旧处于监管盲区。肿瘤科医生希波（化名）也向弧度介绍，因免疫疗法为卫生行政部门严格控制管理、属于“安全性、有效性没有得到证实的，存在着重大伦理风险的医疗技术”，他曾就其临床试验结论和具备资质的医疗机构名录等内容提出信息公开申请，卫计委回复显示，截止2014年8月25日，所有国内免疫疗法，包括该疗法的临床试验均未经审批。但从去年7月起，卫计委取消第三类医疗技术临床应用准入审批，“等于是把这种疗法解套了”。</p>
+<p>微信公众号“有槽(Dr-Venting)”同时提出，免疫细胞治疗被限定在临床研究范畴，医院可以开展免疫治疗临床研究，但原则上不得收取任何费用。实际情况却是，“一项本应通过三期临床、在有效性、适应症等诸多方面得到明确解答的实验性技术，现在已在全国各地医院成为重要的治疗手段和赢利工具。”</p>
+<p>对于魏则西接受过的DC-CIK疗法，希波称，截至目前没有证据证明其能抗癌，“这是一种落后技术。”</p>
+<p><strong>代理商：百度信誉V认证600元轻松加</strong></p>
+<p>在此番针对百度医疗广告模式的口诛笔伐中，有人从法规角度阐释武警北京二院肿瘤生物治疗中心打的“是一个彻彻底底违法的广告”，其多个表述违反2015年9月1日开始实行《医疗广告管理办法（修订稿）》（下简称《办法》）。</p>
+<p>微博用户@我还是想改名 列举，比如，《办法》规定医疗机构不得以内部科室名义发布医疗广告，但百度接受了武警北京二院下属肿瘤生物治疗中心的广告；再比如，医疗广告的表现形式中不得含有说明治愈率或者有效率的，涉及医疗技术、诊疗方法、疾病名称、药物的，以及使用解放军和武警部队名义的内容。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.14.46.png?resize=613%2C360" alt="Screen Shot 2016-05-02 at 下午5.14.46" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.14.46.png?resize=300%2C176 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.14.46.png?w=613 613w" sizes="(max-width: 613px) 100vw, 613px" data-recalc-dims="1"></p>
+<p>武警北京二院肿瘤生物治疗中心网页上多个表述违反2015年9月1日开始实行《医疗广告管理办法（修订稿）》。</p>
+<p>也有人翻出百度曾承诺若加V搜索结果骗人全额赔付的声明。这份@百度推广 曾在2014年“3.15”发布声明称“目前百度已经对所有推广结果进行了严格的信誉V认证，所推广机构，包括医疗机构必须通过百度和第三方专业机构的联合认证才能在百度进行推广。如果网民在加V搜索结果中受骗上当，百度将给予全额赔付。”但搜狐新闻弧度栏目调查后发现，企业办理加V认证的流程其实并不复杂。</p>
+<p>据百度信誉官网介绍，“实名认证”的办理费用为600元/年。弧度以承包了某医院某科室为由向北京地区一家代理商咨询，工作人员告知，办理加V认证流程并不复杂：“需要提供营业执照、组织机构代码、法人身份证、医疗执业许可证，资质有了，网站也有的话，打电话，把这些扫描件发过来，咱们直接走流程就可以。网上签协议，然后盖章，打款。这个产品很简单，比如今天您提供资质，今天提交，一般当天就过了，只要资质没问题，一两天就够了。”如果签订1800元/3年的协议，还可增送一个信誉名片。</p>
+<p>该工作人员还提示，“承包科室的话，提交营业执照，医院的人家也未必给你用，如果用你自己的，营业执照是什么行业，我们认证出来就什么行业。”</p>
+<p><strong>业内人士抱怨 乱象源于部队医院不归卫计委管理</strong></p>
+<p>谈及由武警北京二院肿瘤生物治疗中心乱象引发的反思，医生希波提出，“虽然部队医院不归卫计委管，但部队医院并不只是给军人看病，它还给老百姓看病，这种医疗关系法理上卫计委应该能约束到。”两名熟知医疗行业的观察人士亦表示，解决问题的关键之一在于部队医院能够得到更加有效的监管。</p>
+<p>以2013年9月卫计委联合包括总后勤部卫生部医管局和武警部队后勤部卫生部在内的共计六个部门联合开展打击非法行医专项行动为例，一名接近卫计委的权威人士向搜狐新闻弧度栏目介绍，因为“有一个管辖权的问题”，尽管行动标准、要求均相同，实际工作却是“谁的医院谁来管”。</p>
+<p>弧度看到，上述专项行动方案中，明确要求解放军各大单位卫生部门和各武警总队参照地方单位同步执行，行动领导小组成员名单也显示，解放军总后勤部和武警部队后勤主管部门相关负责人均参与其中。</p>
+<p>此后的多次工作进展和成果通报文件，屡屡出现“要加强军地协调配合，特别是对于涉嫌假冒军队医疗机构、医务人员非法行医的，军队和地方有关部门要统一行动，齐抓共管，确保查处到位”、“军地各级相关部门按照各地领导小组的统一部署，分工明确，配合密切”等表述。2014年2月一次通报还介绍，在三个月的集中整治阶段，军队系统清理违规医疗合作项目44个，辞退违规聘用医务人员168名，关停假冒军队医疗机构网站46个，查处假冒军队医务人员13人，移送地方假冒军队医疗机构非法行医事件23起。</p>
+<p>“实际是两套系统，如果我们接到涉及部队医院的线索，会转给部队后勤部卫生部那边，我们不可能去人家的地方暗访、调查，基本来讲是分开的，他们怎么处理，结果一般也不反馈给卫计委，就在最终形成报告对外公布的时候，会有一个汇总”，上述权威人士说。</p>
+<p>该人士也坦言，过去的十多年间，卫计委一直严厉打击医院外包科室行为，但其不了解部队卫生主管部门如何就此展开工作。</p>
+<p>另据中央军委今年3月印发《关于军队和武警部队全面停止有偿服务活动的通知》的要求，中央军委计划用3年左右时间，分步骤停止军队和武警部队一切有偿服务活动，其中就包括医院。上述权威人士表示，未来只要部队医院划归地方，作为卫生行政主管部门，卫计委将会像对待地方医院一样，“能管的肯定会管。”</p>
+<p>5月1日下午，弧度向武警二院医院求证肿瘤生物诊疗中心被承包的说法，院办助理高先生及另一工作人员均称，该中心是医院的，仍归医院管理。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90-%E8%B5%B7%E5%BA%95%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%BC%95%E5%8F%91%E5%85%AC%E6%84%A4%E7%9A%84%E5%8C%BB%E9%99%A2%E7%A7%91%E5%AE%A4%E8%83%8C%E5%90%8E%E7%9A%84%E8%8E%86%E7%94%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E9%99%A2%E5%A4%96%E5%8C%85%E7%A7%91%E5%AE%A4/?category=18271" rel="tag">医院外包科室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%93%E8%80%81%E6%9D%BF%E8%81%8A%E7%A7%91%E6%8A%80-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E9%98%9F%E3%80%81%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%8E%BB/" target="cdt-mirror">卓老板聊科技 | 为什么军队、武警医院绝不能去</a>
 </h2>
 <p><p>很早以前我做过一期节目《年轻人的心脏病与猝死》，那次是我们公司请来了协和医院心外科的主任，给我们做科普，我整理的材料，其中医生有一个观点就是说军队医院、武警医院决不能去，本来是一个痛点可以好好聊聊，但是一直没有什么好材料，今天我们就从这一点说起。百度这回把各种疾病的贴吧贩卖给莆田系民营医院的负面确实闹得非常大，而且还愈演愈烈，尽管百度这次依然像从前很多次那样，用丰富的公关经验，在24小时之内就做出了迅速回应，停止一切疾病贴吧的商业化运营，取消了骗子医院贴吧上的管理权。看上去速度快，力度大，还挺诚恳，但这只是百度公关的手段而已，2008年央视《每周质量报告》用长篇报道曝光过百度在搜索结果中采用竞价排名的方式，存在大量虚假药片广告的问题，当时百度也是用同样迅速坚决的方式给大众交代的，但2011年新闻30分又连续2天报道百度搜索结果中竞价排名靠前的医院都是骗子的大篇幅报道。百度再一次做了信誓旦旦的保证。但是2016年初，这次血友病贴吧的事曝出后又人把百度各种疾病吧都做了调查统计，大约40%的疾病吧已经卖给了各种民营医疗机构。所以算起来这已经是百度第三次在同样的罪行上被人揪出来了。</p>
@@ -1253,23 +1341,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%95%B4%E8%82%83%E5%85%B1%E9%9D%92%E5%9B%A2%EF%BC%8C%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA%EF%BC%9F/" target="cdt-mirror">【CDTV】美国之音：习近平整肃共青团，意欲何为？</a>
-</h2>
-<p><p>素有中共“后备军”之称的共青团最近似乎陷入了四面楚歌的状态。继习近平怒斥其“高位截瘫”，中央巡视组历数其“贵族化，娱乐化”等罪名之后，有消息称团中央将大幅度缩编人员，其下属的中国青年政治学院也将停止招收本科生。</p>
-<p>而在民间，继房地产大亨任志强挑战共青团，称其口号“共产主义接班人”骗人几十年之后，现在更有北大法学院教授贺卫方等敢言之士呼吁政府取消对团中央的财政支持和人员编制，引起广泛回响。</p>
-<p>共青团系统为何面临从上到下，从内到外的巨大压力？与中国的政治大环境和权力格局有多大关系？在胡耀邦和胡锦涛时代一度鼎盛辉煌的共青团，在今天还有多大的存在价值？</p>
-<p>参加讨论的嘉宾是：中国民间学人，独立评论人士王康先生；中共党史学者、《晚年周恩来》一书的作者高文谦先生；专栏作家，政治分析人士陈破空先生；普林斯顿社会学博士，转型问题学者程晓农先生。</p>
-<p><a href="https://www.youtube.com/v/msAYd7bMGhA?version=3">https://www.youtube.com/v/msAYd7bMGhA?version=3</a></p>
-<p><a title="焦点对话：习近平整肃共青团，意欲何为？" href="http://www.youtube.com/watch?v=msAYd7bMGhA" target="_blank">焦点对话：习近平整肃共青团，意欲何为？</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%95%B4%E8%82%83%E5%85%B1%E9%9D%92%E5%9B%A2%EF%BC%8C%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%93%E5%87%BB%E5%9B%A2%E6%B4%BE/?category=18271" rel="tag">习近平打击团派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA/?category=18271" rel="tag">任志强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A2%E6%B4%BE/?category=18271" rel="tag">团派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E4%BB%AC%E6%98%AF%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E6%8E%A5%E7%8F%AD%E4%BA%BA/?category=18271" rel="tag">我们是共产主义接班人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9%E6%8C%91%E6%88%98%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">贺卫方挑战共青团</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1281,7 +1352,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1291,5 +1362,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

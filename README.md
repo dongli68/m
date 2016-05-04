@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%8B%BF%E5%B0%B1%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E8%A1%A8/" target="cdt-mirror">华尔街日报 | 中国要求经济学家勿就中国经济发表悲观看法</a>
+</h2>
+<p><p>中国政府部门正在瞄向一系列新的目标：那些对中国经济持悲观看法的经济学家、分析师和财经记者。</p>
+<p>据了解情况的政府官员和经济评论人士称，中国金融监管机构、新闻媒体审查机构以及其他政府部门官员已对一些评论人士发出口头警告，要求他们不要对经济发表与政府的乐观表态不一致的言论。</p>
+<p>上述知情人士透露，国泰君安证券(Guotai Junan Securities Co.)首席经济学家林采宜在近期就收到警告；林采宜曾对公司债规模上升、楼市供应过剩以及人民币贬值公开表达过担忧。这是她第二次接到警告。这些知情人士称，第一次来自证券监管部门，最近这一次来自她所在的国有企业的合规部门，要求她不要就中国经济尤其是人民币汇率发表过于悲观的言论。</p>
+<p>面对金融监管部门致力于稳定市场而施加的压力，券商的股票分析师越来越慎于发布针对上市公司的批评性报告。与此同时，至少有一家中国智库被宣传部门官员告知，不要质疑政府帮助国有企业削减债务的计划。</p>
+<p>虽然政府对经济言论控制的证据是零散的，但控制的范围似乎很广。政府部门没有回应置评请求或不予置评。不同于政治评论或社会政策评论，对经济和商业的评论在中国受到的限制较少，因为政府官员默认，相对自由的信息流动有利于提高经济活力。</p>
+<p>去年中国政府在股市和汇率政策上都有失误，之后又加强对经济报道的控制，这让投资者对于政府是否有能力应对增长的放缓心生疑虑。过去两个月，中共领导层极力唱好经济形势，试图缓解全球市场的担忧。</p>
+<p>对经济报道的控制使人更难获取中国这一全球第二大经济体的信息，从而令本就已对中国官方数据和声明可靠性心存疑虑的投资者更加感到不安。</p>
+<p>总部位于华盛顿的智库机构战略与国际问题研究中心(Center for Strategic and International Studies)的副主管肯尼迪(Scott Kennedy)表示，如果中国想要顺利涉过起伏不定的经济水域，经济学家的积极讨论以及公众对这种讨论的信心是非常关键的；如果中共和政府只想听好消息，那么最好还是什么也不要听，因为好消息没有任何价值。</p>
+<p>在数十年的经济增长后进行艰难经济转型之际，国家主席习近平试图使中共做好行动准备并争取公众的支持，在这种情况下，近年来政府一直在广泛收紧对社会的控制。目前为止，目标包括维权律师、社交媒体人士、外国非营利组织和批评政策的中共党员。</p>
+<p>尽管中国对外国媒体的限制一直很严，但目前变得越来越严，越来越多外国出版物的网站在中国境内被屏蔽，包括《华尔街日报》(The Wall Street Journal)。</p>
+<p>在索罗斯(George Soros)等国际金融家今年初对中国经济前景表示悲观的情况下，一些（（政府官员））表示，中国领导人和高层官员中出现了受围心态。了解讨论内容的官员表示，过去几个月在中南海召开的高级别会议上，一些高层官员呼吁压制任何可能鼓励外国人“做空中国”的批评。</p>
+<p>一位与会的官员称，当有人试图告诉那些官员外国投机者并不是最大的问题时，可以看出他们不太高兴。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/OJ-AJ293_CMUZZL_16U_20160503120915.jpg?resize=600%2C546" alt="OJ-AJ293_CMUZZL_16U_20160503120915" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/OJ-AJ293_CMUZZL_16U_20160503120915.jpg?resize=300%2C273 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/OJ-AJ293_CMUZZL_16U_20160503120915.jpg?resize=768%2C698 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/OJ-AJ293_CMUZZL_16U_20160503120915.jpg?resize=1024%2C931 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/OJ-AJ293_CMUZZL_16U_20160503120915.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>习近平今年年初走访了新华社、《人民日报》和中央电视台这三大国有新闻媒体。习近平教导他们要紧跟党的路线走、“讲好中国故事”、扩大中国在国际上的影响力。</p>
+<p>中国的记者称，在这样的压力下，他们不仅得避开批评性的话题，还得撰写有关经济的乐观报道。他们表示，举例来说，负责中国股市的记者被告知报道内容应以证券监管部门的官方公告为主要口径。</p>
+<p>某国有媒体的一名高级编辑称，作为一名中国记者，现在什么都能做，就是不能做新闻。这名编辑称，其所在单位认为一名记者对去年夏天股市暴跌原因所做的调查过于深入，因此强迫这名记者休假。</p>
+<p>阻止批评性观点表达的做法已不仅限于公共新闻和投资者论坛里的评论，同时还包括政策研究和市场分析文章。这样做可能会扭曲那些领导人、官员和投资者赖以作出决定的信息。</p>
+<p>在外界对于资金流出中国的担忧不断加剧的背景下，中国央行2月份时突然停止公布商业银行外汇占款数据，而该数据一直被市场分析师视为了解中国跨境资金流动状况的重要渠道。在几天后公布的声明中，中国央行称之所以这么做是因为该数据已不再能真实反映中国跨境资金流动情况。</p>
+<p>国泰君安的林采宜表示，她去年秋天收到指示，在对人民币进行公开评论时立场需要温和一些。去年10月份她参加上海复旦大学举办的一个经济论坛时承认获得此类指示。</p>
+<p>林采宜当时向与会者表示，她被监管部门告知不要建议做空人民币，因此她只能建议购买美元。</p>
+<p>林采宜、国泰君安和中国证监会未回覆置评请求。</p>
+<p>据一些经济学家透露，在作为中国金融中心的上海，市政府宣传部门近期指示一家本地智库机构停止对中国计划实施的一项债转股计划进行研究。该计划旨在帮助大型国有企业削减负债。据这些经济学家称，政府这么做的理由是，考虑到国务院总理李克强和其他一些官员已批准这一计划，不希望上述研究提出一些不利的证据。</p>
+<p>债转股计划允许银行将企业的不良贷款置换为股权。但许多分析师指出，该计划存在风险，可能令那些本该破产的公司苟延残喘，同时导致银行在资本困境中越陷越深。</p>
+<p>在这种背景下，一些经济学家正在改变其论调。4月中旬，中国一位著名经济学家在香港对投资者发表了悲观的经济评估。</p>
+<p>据参加了这次闭门会议的知情者透露，安信证券股份有限公司(Essence Securities Co.)首席经济学家高善文对投资者说，尽管近期出现了反弹迹象，但很多官方数据并不可靠，中国经济仍然面临很大问题。</p>
+<p>这些内容迅速在社交媒体上传播。两天后，高善文在中国热门通讯应用微信(WeChat)的公号上做出澄清，称上述内容是杜撰的。他随后就经济形势发表了一份不含批评言论的报告。高善文及安信证券的代表没有回复记者的置评请求。</p>
+<p>Lingling Wei</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%8B%BF%E5%B0%B1%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E8%A1%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%99%BA%E5%BA%93/?category=18271" rel="tag">中国智库</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%BF%83/?category=18271" rel="tag">信心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">媒体审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">金融监管</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA%E5%9C%A8%E7%BB%9D%E6%9C%9B%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%B8%8C%E6%9C%9B/" target="cdt-mirror">纽约时报｜经济衰退，中国工人在绝望中寻找希望</a>
 </h2>
 <p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web1-articleLarge.jpg" rel="attachment wp-att-436813"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web1-articleLarge.jpg?resize=585%2C390" alt="Gilles Sabrié for The New York Times 上周，沈阳一名男子在人行道上等候工作机会。失业的工人用挂在电瓶车上的牌子宣传自己的技能。 " srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web1-articleLarge.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>上周，沈阳一名男子在人行道上等候工作机会。失业的工人用挂在电瓶车上的牌子宣传自己的技能。</span><br><span> Gilles Sabrié for The New York Times</span></p></div>
@@ -1537,30 +1574,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E7%99%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%85%B3%E4%BA%8Epapi%E9%85%B1%E4%B9%8B%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE/" target="cdt-mirror">唐映红 | 关于papi酱之答记者问</a>
-</h2>
-<p><p>按：这是几天前应《南方周末》记者邀访完成的纸面采访。提问是记者提问，回复是本师的回复。</p>
-<p><strong>1、您在文章中说，papi酱难能可贵之处是她发布的短视频中反映的价值观相当清晰，在您看来，崇尚真实、摈弃虚伪等价值观拥有如此多的拥趸，可以反映出当下的哪些社会心态？</strong></p>
-<p>答：应该这么说，<strong>崇尚真实、摈弃虚伪的价值观在任何时代都会得到许多人的拥趸，不独当下。</strong>所谓<strong>“真实”意味着每个人按照本心来感受、表达与行为，这样会令人们更轻松、自然。</strong>相对于“真实”，我们每个人在生活中都难免会受到社会规范、情境的羁束，会顾忌他人的评价，因此就没那么轻松、自然，因而有一些人会在生活中觉得“累”。<strong>所谓“虚伪”就是太过刻意地去曲意迎合他人，没有人会喜欢这样。</strong>从心理学角度，我们每个人都有着公开的自我意识和私下的自我意识，公开的自我意识就是我们置身在社会情境中不由自主地要遵循社会规范，希望获得他人的赞许，避免受到排斥和孤立。私下的自我意识就是我们独处时可以随心所欲，不要顾忌社会规范，不用在意他人的评价。</p>
-<p><strong>2、papi酱替喜欢她的人说出了什么？这些情绪为什么在日常生活中难以宣泄？</strong></p>
-<p>答：<strong>papi酱其实并没有替喜欢她的人说出什么，她只是吐槽而已</strong>，但激发了人们的共鸣。<strong>papi酱所表达的内容没有什么新意，也没有提供任何新的意义价值给拥趸</strong>，它只是一个娱乐节目。作为一个娱乐节目，能引起拥趸的共鸣，宣泄某种压抑的情绪，就是它的成功之处。这就跟生活中我们有时候会热衷去吃一些没什么营养，但口感超爽的零食是一个道理。<strong>在一个普遍感到压抑的时代，能让拥趸觉得“爽”已经难能可贵。</strong>特别是，对于充斥着我们生活的那些逼婚的、八卦的、直男癌的、装（此处用“哔”屏蔽）的，你不必，也不可能像个勇士一样地去反击，去挑战，所以你得忍，得憋，<strong>papi酱的短视频用独特的方式将你憋着的表达出来，这跟便秘之后一泄如柱的感觉差不多</strong>，在心理学里被称为<strong>替代满足</strong>。</p>
-<p><strong>3、有一种观点认为，现在是“刻薄”文化流行的年代，人们喜欢吐槽和嘲讽胜过忠厚和一本正经的表达，您是否认同这种观点？在您看来，这样的一种对刻薄的趣味反映出什么社会心理？“吐槽”成为一种流行，甚至是一种景观，这是根植于什么样的社会土壤？</strong></p>
-<p>答：<strong>在这个时代能够一本正经地表达吗？</strong>你想表达你的不满、批评、反对、抵制，可以吗？你只能一本正经地表达你的拥护、赞美、满足、爽。<strong>不能表达前者的，只能表达后者的一本正经根本就是假正经嘛。</strong>半个多世纪以来，<strong>我们就没有正经过，只有假正经</strong>，所以所谓的“忠厚和一本正经”根本就不成立，非要说它成立，那也是<strong>伪忠厚，假正经</strong>。这个年代“刻薄”，不过是因为过去连消极自由也没有，现在进步了，可以消极自由了，所以“刻薄”就凸现出来了。<strong>papi酱的吐槽一点也谈不上“刻薄”，她其实相当温和</strong>，就这样也不被待见。<strong>流行“吐槽”，是因为这个社会假正经、伪忠厚太多；是因为嘲讽和批评被普遍地压制，这说明这个时代的社会土壤一直就是坏的，越来越坏</strong>；当然，如果人们连“吐槽”都不被允许，就坏得更加厉害。</p>
-<p><strong>4、您怎么看papi酱应对广电总局的“压力测试”的表现？怎么评价她被整改后最新的两期节目（一个人减肥、莎士比亚四大悲剧）？拿莎士比亚四大悲剧这一期来说，为什么不吐槽的papi酱就没那么好笑了？</strong></p>
-<p>答：<strong>papi酱要适应这个糟糕的社会并且努力发展下去，当然就只能配合广电总局的“压力测试”了</strong>，这无可厚非。至于她被整改后的节目，不能自由地“吐槽”难免会就变得有些假正经了，人们如果觉得这样好，那又何必看papi酱，于丹老师和新闻联播的段位多高。</p>
-<p><strong>5、从papi酱身边的人的讲述里，我们知道她是一个很“宅”、总是深居简出、性格比较内向的人，但是在网络上的她却张牙舞爪、活泼有趣，并且不介意展示自己的生活（例如她早年在豆瓣和微博上发照片、晒生活，也小范围地拥有过一些粉丝）。而我们在日常生活中也看到许多类似的人：他们在互联网上的人格和现实生活中差异很大，往往网上越喧闹，生活中越孤独。能否分析一下这样的“双重人格”与我们这个时代的关系？</strong></p>
-<p>答：<strong>papi酱性格内向、“宅”，这是她能够细致入微地观察和洞悉生活的人格基础，内向的人有这优势</strong>。这在心理学里被称为<strong>知识澄清</strong>，内向的人私下的自我意识更为发达，就更能感知和体验到生活背后的真实一面。相对地，外向的人则没有这样的优势，他们的优势在于积极的社会联系，这耗费他们大部分的注意力和认知资源。<strong>内向的人在特异性的情境下表现得活泼，与时代没有任何关系。</strong>如果要硬跟这个时代扯上这个关系，那就是<strong>互联网将内向的人活泼的一面展现了出来</strong>。过去内向的人在熟悉的、私下的场合活泼，没人多少人知道；现在可以通过节目的形式展现出来，更多的人看到她活泼的一面。这跟“双重人格”没有任何关系。别说内向了，就是一些自闭症，他们通过互联网也能活跃起来，甚至结成社团，发出自己的声音，像英国的一些高能自闭症者的组织，AFF(Aspies For Freedom ）就很活跃。</p>
-<p><strong>6、在您看来，追捧“网红”是不是一个成熟文明的社会的普遍状况？一个成熟的社会里的民众会关注什么？</strong></p>
-<p>答：<strong>我觉得在中国语境下谈“成熟的社会”是很可笑的</strong>，这种提法如果不是反讽，那就是滑稽。<strong>中国社会是一个失范的社会，沉疴到积重难返的社会，追捧“网红”是这个社会种种症状当中最轻微，也最接近正常的表现</strong>。道理很简单，（“哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔哔”，此处被一连串“哔”所屏蔽），<strong>谁还能腆着脸在这个社会提“成熟的社会”？！</strong></p>
-<p>注：6中被屏蔽的内容是：“<strong>在一个追捧身陷囹圄的诺贝尔奖获得者都成为犯罪的社会里。</strong>”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%85%B3%E4%BA%8Epapi%E9%85%B1%E4%B9%8B%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?category=18271" rel="tag">Papi酱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95/?category=18271" rel="tag">压力测试</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E7%86%9F%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">成熟社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E5%AE%9E/?category=18271" rel="tag">真实</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%82%E7%82%B9%E5%A4%9A%E5%85%83/?category=18271" rel="tag">观点多元</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1572,7 +1585,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?cat
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1582,5 +1595,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?cat
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

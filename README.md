@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%8B%BF%E5%B0%B1%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E8%A1%A8/" target="cdt-mirror">华尔街日报 | 中国要求经济学家勿就中国经济发表悲观看法</a>
@@ -59,7 +59,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%99%BA%E5%BA%93/?category=18271" rel="tag">中国智库</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%BF%83/?category=18271" rel="tag">信心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">媒体审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">金融监管</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA%E5%9C%A8%E7%BB%9D%E6%9C%9B%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%B8%8C%E6%9C%9B/" target="cdt-mirror">纽约时报｜经济衰退，中国工人在绝望中寻找希望</a>
 </h2>
@@ -1511,7 +1511,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E6%B6%A6/?category=18271" rel="tag">利润</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97/?category=18271" rel="tag">医疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E4%BD%93%E5%88%B6/?category=18271" rel="tag">医疗体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">医疗体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E7%97%85/?category=18271" rel="tag">看病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83/?category=18271" rel="tag">良心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AA%97%E5%AD%90/?category=18271" rel="tag">骗子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%9125%E5%B2%81%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E6%82%89%E5%B0%BC%E9%81%87%E5%AE%B3%E5%90%8E/" target="cdt-mirror">【图说天朝】25岁成都女孩悉尼遇害后</a>
 </h2>
@@ -1585,7 +1585,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E7%99%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1595,5 +1595,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E7%99%BE
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

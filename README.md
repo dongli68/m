@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%9B%B8%E4%BF%A1%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%EF%BC%9F27%E5%B9%B4%E5%89%8D%E5%90%91%E4%BA%BA%E6%B0%91%E5%BC%80%E6%9E%AA%E7%9A%84%E6%98%AF%E8%B0%81%E5%95%8A%EF%BC%9F/" target="cdt-mirror">【网络民议】相信“人民”军队？27年前向人民开枪的谁啊？</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg" rel="attachment wp-att-436644"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=450%2C628" alt=" 巴丢草 Badiucao ‏@badiucao 22h22 hours ago #巴丢草 漫画 【百度一下，你就完蛋】在没有谷歌的中国，#魏则西 同学百度了一下滑膜肉瘤，惨死；在没有谷歌的赵国，我期待着赵王 #习近平 百度一下，如何救党。#百度 pic.twitter.com/VxfUbk7NPr " srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=215%2C300 215w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=768%2C1073 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=733%2C1024 733w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?w=1024 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>“百度一下，你就完蛋” by 巴丢草：在没有谷歌的中国，#魏则西 同学百度了一下滑膜肉瘤，惨死；在没有谷歌的赵国，我期待着赵王 #习近平 百度一下，如何救党。</span></p></div>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%8E%86%E7%94%B0%E7%B3%BB%E5%86%85%E5%B9%95/" target="_blank">【真理部】莆田系内幕</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/" target="_blank">搜狐弧度 | 莆田系股东曝与80所部队医院合作 给某院送礼百万</a></li>
+<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/" target="_blank">魏则西事件</a>专题</li>
+</ul></blockquote>
+<p><strong><a href="http://chinadigitaltimes.net/chinese/2016/05/%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E4%B8%8D%E8%83%BD%E4%BB%A5%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6%E4%B8%AA%E6%A1%88%E8%AF%8B%E6%AF%81%E6%8A%B9%E9%BB%91%E4%BA%BA%E6%B0%91/" target="_blank">中国军视网｜任何人都不能以“魏则西事件”个案诋毁抹黑人民军队</a></strong></p>
+<blockquote><p>魏则西的离世，因为这种罕见的病症，<strong>或许总归不可避免</strong>。然而，这种生命的终结的历程，却无不让人看到多个链条上“仁术”、“仁心”及“仁爱”的贫乏。<br>
+[…]当然，现在，也有不少人开始把舆论的矛头影影绰绰地指向“部队医院”了。<br>
+其实，我们的广大网友很清楚，从小汤山到汶川，从抗洪大堤到玉树高原，在许多危险性极高的医疗应急任务中，在大量抗洪抢险与抗震救灾的第一方阵中，在枪林弹雨战火连绵的战场上，在生命需要的每一个紧急的瞬间，戴着军徽的“部队医院”医护人员，一直在以一颗对<strong>人民</strong>的赤诚之心，对职业的仁爱之心，对生命的敬重之心努力拼搏着。[…]<br>
+在军队深化改革大潮中，<strong><span>请相信</span>，“部队医院”一定会被放入越来越干净的“中国军队”大环境之内。想想吧，连徐、郭这样的人都能被拿下，难道，清理医疗环境这样关乎人民生命的事情，中国军队还会藏着掖着吗？</strong><br>
+[…]任何人也都不能以“魏则西事件”的个案，来诋毁和抹黑人民军队。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@quietheartforever：啊，军队不知道承包这事呢？我的天啊。</p>
+<p><strong>@哈哟哦呀呵：我看了原文，没有一个字提到科室外包。谁说那些真正的部队医生了，说的是外包这种行为好吗？医院收了钱，把科室外包出去，默许骗子打着自己的名号去行骗，再和骗子分赃。这文章的作者，真的对这些一无所知？好纯洁哦，好像生活在另外一个世界一样。</strong></p>
+<p>@going2four1：我说，外包科室不管啊？光忙着收拾百度了？看来部队医院背景太强大了吗？想笑都笑不出来！误导舆论……</p>
+<p><strong>@江山如故_願無歲月可回首：这篇文章真是大写的你国魔幻主义啊，据我了解?你他妈的那根葱啊以为自己天皇老子至高无上啊?！事实就是部队医院层层勾结私相授受，屁民理得你是生是死啊。不会违背人民军队宗旨?27年前向人民开枪的人是谁啊?你TM真是大写的不要脸</strong></p>
+<p>@冫波罗：横行霸道几十年了装得今天才知道一样，看着都恶心</p>
+<p><strong>@Tony_伴糖主义：除了武警总医院外几乎所有的武警医院和莆田系都有勾结，人尽皆知的事情军报你告诉我你什么都不知道？</strong></p>
+<p>@他找不到回精神病院的路了：他们假装自己是外国人呢啊？！</p>
+<p><a href="http://weibo.com/hezhizhou" target="_blank">@河之洲-坐井观蛙</a>：说什么“绝大多数是好的”这种狗屁话毫无意义。有人杀人了，你出来说“人类大部分都是好的”有什么用？别居高临下自我感觉良好了，反思，检讨吧<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1">。</p>
+<p>@朱芒：老套路，只说绝大部分和一小撮之间的关系，从来回避制度结构。</p>
+<p>@小纳保险：这么快就来洗地，先把送礼名单上的人查查。</p>
+<p>@飞扬的杨威利：好假的文章，口气貌似高高在上的统治者，像极了金三胖的宣传机构，恶心至极！</p>
+<p>@張仲匡匡：懂得少不清楚哈，不是说“军队一律不得经商”吗，部队医院为啥能对外承包科室呢？这次起底的不光武警医院，解放军医院也一大把，走的是啥帐啊？</p>
+<p><strong>@ljpbin：我就奇怪了，为什么不追责莆田系和部队医院的监管部门？老是追着百度打，就算百度推广倒闭了，还有更多的人根本就不上网还是进了莆田的黑窝，只要莆田系的那些坑人医院在，它就会继续害人！！</strong></p>
+<p>@灰原哀_June：嗯，正规军队医院服务领导，军队杂牌医院祸害普通百姓</p>
+<p>@行者2812449447：请把军队前面的人民二字去掉可好？</p>
+<p><strong>@第一共和：干了坏事又变成“人民军队”了？不是永远忠于裆的裆卫军嘛？</strong></p>
+<p>@驴马甲：“【如果】事情【真】【像】网上所议论的那样”—屁民先证明括号中的怀疑，然后接受“议论”这种轻描淡写预制洗地之后，再来讨论……..</p>
+<p><strong>@闫正兵：说了一堆废话。把百度、莆田、监管都鄙视了一遍，然后“据我了解，部队医院和绝大多数的医生一直秉持着救死扶伤的优良传统”。</strong></p>
+<p>@魏雷-老晚：一个事件捅开N个洞，是偶然吗？</p>
+<p>@丶哓蓝莓：那么 武警医院是怎么承包出去的呢…”某个环节”还真是牛呢!既能瞒得住上面 还能骗得了下面…</p>
+<p><strong>@89随便一个名字64：期待自罚三杯的处罚结果</strong></p>
+<p>@毛少感性：部队就是硬气这话说的好。出事严查，不出事收钱往死收钱。</p>
+<p><strong>@我是莫须有先生：再逼逼就突突了你们</strong></p>
+<p>@yyypy2：军网:给你们点脸见好就收吧，再打扰我们做生意就枪毙你们</p>
+<p>@勉强学习：长沙解放军163医院的医生，开药之前问你带了多少钱，卡里有多少钱，看着钱开药！！！！！</p>
+<p><a href="http://weibo.com/lihaicd" target="_blank">@朝阳群众举报</a><i></i>：“老人们说，军队医疗界的很多好作风，就是从白求恩大夫那里继承来的……”<img title="[心]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" alt="[心]" data-recalc-dims="1">点进链接看全文，军网在进行自我表扬<img src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee909f.png?resize=20%2C20" alt="" px data-recalc-dims="1"><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65012661gw1f3hzv50hhij20qo1be4aj.jpg" rel="attachment wp-att-436629"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65012661gw1f3hzv50hhij20qo1be4aj.jpg?resize=400%2C711" alt="65012661gw1f3hzv50hhij20qo1be4aj" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%9B%B8%E4%BF%A1%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%EF%BC%9F27%E5%B9%B4%E5%89%8D%E5%90%91%E4%BA%BA%E6%B0%91%E5%BC%80%E6%9E%AA%E7%9A%84%E6%98%AF%E8%B0%81%E5%95%8A%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87%E6%8C%A5%E6%9E%AA/?category=18271" rel="tag">党指挥枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%9A%E5%85%9A%E5%86%85%E5%AD%98%E5%9C%A8%E9%87%8E%E5%BF%83%E5%AE%B6%E3%80%81%E9%98%B4%E8%B0%8B%E5%AE%B6%EF%BC%8C%E8%BF%99%E4%B8%AA%E5%BF%85%E9%A1%BB%E8%AF%B4%E6%B8%85/" target="cdt-mirror">精读党报｜习近平：党内存在野心家、阴谋家，这个必须说清楚</a>
 </h2>
 <p><p>今天的人民日报，在第二版整版刊登了习近平在第十八届中央纪律检查委员会第六次全体会议上的讲话全文。十八大后，中央纪委每次全会，习近平都会到场讲话，但讲话全文，是第一次发布。</p>
@@ -1423,29 +1472,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9C%A8%E7%84%B6%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E4%BC%9A%E6%80%95%E5%87%BA%E7%8E%B0%E6%96%B0%E4%B8%80%E8%BD%AE%E7%9A%84/" target="cdt-mirror">东网｜木然：为什么知识分子会怕出现新一轮的“引蛇出洞”</a>
-</h2>
-<p><p>4月26日，中共中央总书记、国家主席、中央军委主席习近平在安徽合肥主持召开知识分子、劳动模范、青年代表座谈会并发表重要讲话。他说，对来自知识分子的意见和批评，只要出发点是好的，就要热忱欢迎。他认为，知识分子有思想、有主见、有责任，愿意对一些问题发表自己的见解。即使一些意见和批评有偏差，甚至不正确，也要多一些包容、多一些宽容，坚持不抓辫子、不扣帽子、不打棍子。</p>
-<p>习近平这段话，引起了网上热议。有人支持，有人吹呼，有人质疑，有人反对，有人挖历史。因为这样类似的讲话，在历史上已经出现过两次。</p>
-<p>凡是历史出现的类似，不是与引蛇出洞有关系，就是与解放思想有关系。</p>
-<p>这样的历史事件，一次以悲剧出现，一次以喜剧出现。</p>
-<p>喜剧还没有演完，又来了一场举世震动的悲剧。</p>
-<p>第一次是在1957年4月30日，毛泽东在天安门城楼上召集民主党派负责人座谈，请他们积极提意见， 帮助共产党整风。为消除党外人士的思想顾虑，他再次代表中国共产党重申了“知无不言，言无不尽；言者无罪，闻者足戒；有则改之，无则加勉”的合作原则。随后的事实告诉人们，毛泽东搞的是阳谋，阳谋的目的是引蛇出洞，于是至少55万名知识分子被打成右派，从此之后绝大部分知识分子再也不敢说话。敢说话的林昭、张志新被枪决。如果说在此之后还有知识分子，也只是有奴才型的知识分子，这其中，郭沫若就是典型一例。</p>
-<p>第二次是改革开放之后，邓小平强调实践是检验真理标准大讨论和解放思想实事求是。解放思想必然会出现不同的声音，甚至是政治上反对的声音。邓小平充满政治自信，对于反对的声音，邓小平的看法是：“一听到群众有一点议论，尤其是尖锐一点的议论，就要追查所谓‘政治背景’、所谓‘政治谣言’，就要立案，进行打击压制”的做法，“是软弱的表现，是神经衰弱的表现”。他还说，“群众有气就要出，我们的办法就是使群众有出气的地方，有说话的地方”，“使他们有意见就能提，有气就能出”。小道消息流传，是对长期没有民主政治的惩罚。他多次强调：“要重申‘三不主义’：不抓辫子，不扣帽子，不打棍子。”</p>
-<p>也正是在这样的条件和环境下，通过真理标准大讨论解放了人们的思想，并彻底否定了文化大革命。</p>
-<p>但是，好景不长，之后又出现了1983年的反精神污染，1986年的反资产阶级自由化，1989年的学潮，学潮之后知识分子沉寂了一段时间，到了1992年邓小平南方谈话之后才有所好转。上个世纪末的时候，知识分子又一次活跃起来，这个时期的一个重要标志就是自由主义开始浮出水面，并通过互联网获得了强大的生命力。互联网的思想启蒙也取得了巨大的成效。这种情况一直持续到2008年的汶川地震之时出现了反普世价值的浪潮之后，自由主义和思想启蒙的高潮才有所消退。自此之后，自由主义和思想启蒙又借着微博行进到2012年才逐步停滞不前。</p>
-<p>2012年之后，网络管制越来越严格，但知识分子对管治不满的程度逐渐上升。宪法规定的言论自由受到权力嘲弄，有些知识分子已经不能或者不敢在博客和微博发声。因为在发声之后轻者被删贴封号，在线下约谈甚至恐吓，重者则被抓。尤其是任志强微博被封之后，知识分子普遍具有了一种恐惧感，对公共权力已经失去了最基本的信任。习近平关于知识分子谈话就在这样的背景下产生的。</p>
-<p>习近平总书记这次重申邓小平的“不抓辫子、不扣帽子、不打棍子”，不是邓小平思想的简单重复，而是具有了新的内容，具有针对性。他认为，只要是善意的批评，只要是出发点是好的，那就允许知识分子批评。问题在于，何谓善意的批评？批评有善恶吗？何谓出发点是好的？在何地出发？善意和出发点好的标准是什么，由谁来定，由谁来实施，这都是极为现实的问题。</p>
-<p>其实，如果彻底落实《中华人民共和国宪法》第三十五条的言论自由条款，善意和出发点都不重要。</p>
-<p>何况善意和出发点都是以动机决定是非，以立场决定是非，以阶级立场决定是非，甚至是站队决定是非。这样做的主观随意性太大，极其不稳定。如果没有宪法保障言论自由，说得越好，也没有毛泽东说得好。毛泽东说得最好的时候，恰恰是搞“引蛇出洞”的时候。现在这样讲，很容易让人联想新一轮反右的“引蛇出洞”。这个不但知识分子怕，所有国人都怕。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9C%A8%E7%84%B6%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E4%BC%9A%E6%80%95%E5%87%BA%E7%8E%B0%E6%96%B0%E4%B8%80%E8%BD%AE%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">公共知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E8%9B%87%E5%87%BA%E6%B4%9E/?category=18271" rel="tag">引蛇出洞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">网络管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1457,7 +1483,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1467,5 +1493,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,66 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6%EF%B9%957%E5%AE%98%E5%BE%8C%E4%BB%A3%E6%B8%AF%E4%BA%BA%E8%BA%AB%E5%88%86%E6%9B%9D%E5%85%89/" target="cdt-mirror">明報｜巴拿馬文件﹕7官後代港人身分曝光</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add426b5fb11ebf70ae7071ae0e92b8c.jpg" rel="attachment wp-att-436684"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add426b5fb11ebf70ae7071ae0e92b8c.jpg?resize=575%2C341" alt="add426b5fb11ebf70ae7071ae0e92b8c" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add426b5fb11ebf70ae7071ae0e92b8c.jpg?resize=300%2C178 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add426b5fb11ebf70ae7071ae0e92b8c.jpg?resize=768%2C456 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add426b5fb11ebf70ae7071ae0e92b8c.jpg?w=800 800w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>【明報專訊】 《明報》、《南華早報》、《壹週刊》及《香港01》獲得由國際調查記者同盟（ICIJ）提供的「巴拿馬文件」，繼早前披露本港多名政商界名人的離岸公司及身分問題後，再就涉及內地政商界高層的文件作第二階段偵查。本報偵查揭開多名中共高層後代操控離岸公司的面紗，更證實部分內地「官後代」已正式成為香港永久居民，部分人早於回歸前已踏足香江。</p>
+<p><strong>「官後代」操控多家離岸公司</strong></p>
+<p>「巴拿馬文件」離岸公司泄密風波未停，本報偵查發現，至少7名中共高層或前高層的後人或其配偶擁有香港身分證，包括中央政治局常委張高麗女兒張曉燕、中央政治局常委劉雲山媳婦賈立青、中共前領導人鄧小平外甥女栗小兵及丈夫俞一平、全國政協前主席賈慶林女婿李伯潭及外孫女李紫丹，以及國務院前總理李鵬女兒李小琳。</p>
+<p>本報記者早前在元朗加州花園成功接觸張曉燕。被問到她身為「官二代」，何時及如何成為香港居民，張曉燕說：「呢啲我可以唔答你。」本報上周五亦透過中國大唐集團向李小琳查詢，截稿前未有回應。本報曾嘗試聯絡賈立青、俞一平、栗小兵、李伯潭及李紫丹，均未能接觸。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add4ce9e02ade731e9c3417dee9a8eec.jpg" rel="attachment wp-att-436679"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add4ce9e02ade731e9c3417dee9a8eec.jpg?resize=500%2C399" alt="add4ce9e02ade731e9c3417dee9a8eec" data-recalc-dims="1"></a></p>
+<p><strong>張高麗女兒與夫居元朗</strong></p>
+<p>「巴拿馬文件」令內地政要的後代身分曝光，其中文件顯示，張曉燕的丈夫李聖潑曾任3間離岸公司董事，其中一間報住地址為元朗加州花園。本報再透過查冊，發現張曉燕與李聖潑共同持有一間加州花園獨立屋，兩人是以香港身分證訂立樓契，而張曉燕的英文名字亦用上粵語拼音。本報早前亦在加州花園找到張曉燕（刊A6 版）。</p>
+<p>另外，本身為最高人民檢察院前檢察長賈春旺女兒的劉雲山媳婦賈立青，於2009年成為BVI公司Ultra Time Investments Limited的單一股東兼董事。賈立青在離岸公司文件披露自己的香港住址為南區豪宅貝沙灣一單位，文件上的香港身分證副本，顯示她的身分證首次簽發日期為2001年，現時持有2008年簽發的香港永久居民身分證。</p>
+<p>本報早前曾致電及發電郵至與賈立青有關的嘉實國際資產管理有限公司，並於昨日前往嘉實位於中環的辦公室查詢，賈立青的秘書鄭小姐表示賈一向不在港，已將相關查詢轉交至北京辦公室。本報至截稿前未獲回覆。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add441bb9b4a20f1a4b903d9cd70a0e3.jpg" rel="attachment wp-att-436683"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add441bb9b4a20f1a4b903d9cd70a0e3.jpg?resize=500%2C423" alt="add441bb9b4a20f1a4b903d9cd70a0e3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add441bb9b4a20f1a4b903d9cd70a0e3.jpg?resize=300%2C254 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add441bb9b4a20f1a4b903d9cd70a0e3.jpg?w=726 726w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>鄧小平甥女婿回歸前已取港身分證</strong></p>
+<p>鄧小平外甥女栗小兵及其丈夫俞一平亦曾以香港人身分擔任兩間英屬處女群島（BVI）公司董事，分別為香港水資源有限公司（Water Enterprise Ltd）、西藏5100水資源有限公司（Tibet 5100 Water Resources Ltd）。俞一平另為Galaxia Space Management Ltd的董事，該公司已註銷。</p>
+<p>巴拿馬文件更揭示俞一平的香港身分證早於1994年11月簽發，現時持有2009年簽發的香港永久居民身分證，而公司註冊處文件亦顯示，俞、栗二人擁有加拿大護照。本報曾前往俞報住的東涌住所，但無人應門。</p>
+<p>另外，全國政協前主席賈慶林女婿李伯潭旗下商業王國龐大，業務遍及地產、酒店、能源、教育及廣告行業，經營地域涵蓋北京、重慶、河北、雲南、福建、杭州及海南。其女兒李紫丹名下亦有多間公司。本報比對李氏父女的香港公司註冊文件及離岸公司文件，發現在一份本地公司文件中，顯示父女二人已取得香港身分證，旗下商業王國部分透過BVI公司運作，兩父女與恒大地產主席許家印的合作關係亦首度曝光（刊A4版）。</p>
+<p>至於國務院前總理李鵬女兒李小琳，巴拿馬文件附有她2013年簽發的香港特區護照的副本。根據特區護照的申請資格，申請人必須持有香港永久居民身分證。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add49e65fabd0001093d39210e64401e.jpg" rel="attachment wp-att-436680"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add49e65fabd0001093d39210e64401e.jpg?resize=500%2C418" alt="add49e65fabd0001093d39210e64401e" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add49e65fabd0001093d39210e64401e.jpg?resize=300%2C251 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add49e65fabd0001093d39210e64401e.jpg?w=728 728w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>劉銳紹﹕部分人來港或有政治目的</strong></p>
+<p>時事評論員劉銳紹指出，「官後代」來港各有目的，難以一概而論，但他們身分特殊，難免引人聯想。他分析，部分人或透過成為香港永久居民申請香港特區護照，因香港特區護照獲免簽證安排的國家比中國護照多，為這些「官後代」行動上帶來方便。另外一些「官後代」或會來港發展業務，因香港的法制較健全，稅制較內地簡單，亦較易將業務國際化。不少港商或外資公司亦看準這些「官後代」在內地的人脈背景，而拉攏他們合作做生意，或聘請他們當顧問，把他們帶來香港。</p>
+<p>劉又指出，不排除小部分「官後代」來港有政治目的。他說，早於1980、90年代，中共已安排不少內地人來港，讓他們在回歸前成為港人，或協助收集情報，或在主權移交時一旦出現政局動盪，他們可以協助阻止群眾運動發生，以穩定社會，中共稱為「種人」。劉說，回歸前早已流傳單程證每日150個名額，有部分是審批予「有任務在身」的人，因單程證審批權全在內地，港方並不知情。劉亦補充，部分「高官後」代投奔香港，或顯示他們對內地制度缺乏信心。</p>
+<p>據了解，回歸前內地人獲批來港，主要靠單程證，現時則有4個途徑，分別是單程證、輸入內地人才計劃、優秀人才入境計劃及非本地畢業生留港／回港就業安排，最大來源為單程證。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add471eccd77edefc4fa499dbb082b72.jpg" rel="attachment wp-att-436681"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add471eccd77edefc4fa499dbb082b72.jpg?resize=500%2C385" alt="add471eccd77edefc4fa499dbb082b72" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add471eccd77edefc4fa499dbb082b72.jpg?resize=300%2C231 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/add471eccd77edefc4fa499dbb082b72.jpg?w=730 730w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>保安局﹕單程證由內地簽發</strong></p>
+<p>統計處資料顯示，回歸以來至去年底，有近88萬內地人持單程證來港，各計劃合起來，多年來共有超過100萬內地人來港。保安局發言人回應稱，單程證是內地有關機關製發的證件，其受理、審批及簽發屬內地當局的職權範圍；特區政府會在個案層面作出配合，例如確定申請人的親子或配偶關係，但未有回應回歸前內地人有何途徑來港。</p>
+<p>《明報》、《南華早報》、《壹週刊》及《香港01》分別與國際調查記者同盟（ICIJ）接觸，獲得「巴拿馬文件」中部分與香港、澳門及中國內地有關的資料，4間機構對獲取的資料分別調查採訪，並協議同時發表有關報道。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%B7%B4%E6%8B%BF%E9%A6%AC%E6%96%87%E4%BB%B6%EF%B9%957%E5%AE%98%E5%BE%8C%E4%BB%A3%E6%B8%AF%E4%BA%BA%E8%BA%AB%E5%88%86%E6%9B%9D%E5%85%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E9%AB%98%E4%B8%BD/?category=18271" rel="tag">张高丽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%B8%89%E4%BB%A3/?category=18271" rel="tag">红三代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E5%BA%86%E6%9E%97/?category=18271" rel="tag">贾庆林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%85%9A%E6%8A%A5%E5%88%8A%E6%96%87%E9%A9%B3%E6%96%A5%E4%B8%AD%E5%85%B1%E8%A1%B0%E8%90%BD%E8%AF%B4/" target="cdt-mirror">美国之音 | 党报刊文驳斥中共“衰落”说</a>
+</h2>
+<p><p>中共中央党校主办的《学习时报》5月2日在其“思想理论”版面上刊登文章，回应西方学术圈中的又一轮中共“崩溃论”。文章说，中共有强大的“自我革新能力”，能够应对当代社会中的各种现实问题。中共总书记习近平发起的已持续三年多的反腐运动彰显了这种自我革新能力。与此同时，有美国知名学者指出，中共的反腐具有高度选择性和政治动机，虽遏制了腐败势头，但也严重打击了官僚体系，进一步分化了精英阶层，如不进行结构性改革反而会加剧中共的衰落。</p>
+<p>《学习时报》刊登的这篇文章标题是《“打铁还需自身硬”：中共的自我革新》，目前已被中国各大官媒和主流门户网站转载。</p>
+<p>文章说:“每隔几年就会重弹一遍的‘中国崩溃论’并没有真的唱衰中国，中共也没有像他们的预期那样，在社会矛盾的压力下垮台。”中共能够屡屡打破外界预言而没有步苏共的后尘，主要是得益于其“自身硬”的自我革新能力。</p>
+<p>文章把习近平上台以来开展的声势浩大的反腐运动解读为中共的自我革新能力，认为中共老虎苍蝇一起打凸显了中共解决自身问题的决心和力度。文章说，“十八大以来愈刮愈烈的反腐风暴出乎整个国际社会的预期，所有人都没有想到中共此次反腐的决心和力度如此之大，这场改变中国的‘廉政风暴’震撼了全世界，所查处官员人数之多、级别之高、涉及领域之广，问责力度之大都是空前的。”</p>
+<p>对于这种说法，美国知名中国问题专家、乔治华盛顿大学国际关系教授沈大伟(David Shambaugh)表示，习近平当然意识到大规模腐败已经威胁到中共的执政地位，本轮反腐力度之大正是因为腐败程度之深。</p>
+<p>“回顾历史，江泽民、胡锦涛上台时都搞过反腐，他们的反腐运动各持续了12个月。现在的这次反腐很显然持续的时间要长，力度也是前所未有。这或许体现了中共体制内腐败达到了前所未有的程度，甚至包括军队，4000军队干部和82名解放军将级军官被拿下，”他说，“腐败已经渗透到各个领域、企业、党政机构。所以说反腐是必要的，这是他对中共走向衰落的应对之举。”</p>
+<p>《学习时报》的文章盛赞中共的反腐，称其体现了党对腐败的“零容忍”。文章称，2014年中共反腐力度达到史无前例的高峰，被称为“反腐元年”。文章引述中国社科院法学研究所2015年3月18日发布的《法治蓝皮书：中国法治发展报告》的数据，称2014年平均每天有500多人被查处，包括平均一天查处2到3名厅局级官员，这一年还有80多名省部级以上官员，以及30多名军队官员。中国检察机关2014年前三个季度起诉的贪腐受贿案27235件，涉及人数35633人，分别比上年提高了9.9%和5.6%。</p>
+<p>但沈大伟认为，大规模、高强度的反腐运动虽然遏制了腐败的势头，却也带来了严重的副作用。他说：“我认为，反腐带来负面效果是中共的官僚体系被冻结，官员以懒政怠政的方式去抵制，导致十八届三中全会上制定的经济改革方案得不到执行。而且中国社会人人自危，不仅仅是干部、党员，连一般人也感到生活在一种恐惧的气氛中，他们甚至把目前和文革相提并论。”</p>
+<p>沈大伟还表示，中共的反腐具有高度的选择性和政治目的，习近平借此树立了自己在党内和民间的权威、清除了异己，大搞集权和个人崇拜。这使得中共的精英阶层内部出现裂痕。“我无法想象中共体制内的精英对习近平将权力个人化、集权化和集中化会高兴的起来。这与30多年来中共一直努力将权力分散化、所提倡的集体领导背道而驰。”</p>
+<p>值得注意的是，《学习时报》刊载的这篇文章是节选自北京时代华语图书股份有限公司在美国成立的子公司美国时代出版公司出版的《习近平时代》(The Xi Jinping Era)一书。该书2015年为配合习近平访美于当年8月在纽约出版。</p>
+<p>据北京时代华语图书股份有限公司董事长朱长平介绍，出版这本书的目的是“传播好中国的声音、讲好中国的故事”。他说：“美国一些主流媒体对中国发展繁荣视而不见，对中国的政经社会发展说三道四，‘中国威胁’、‘中国崩溃’等杂音严重干扰和影响美国社会对我的正确认识。”</p>
+<p>相关阅读：<a href="http://theory.people.com.cn/n1/2016/0503/c40531-28320574.html" target="_blank">“打铁还需自身硬”：中共的自我革新——《习近平时代》选载</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%85%9A%E6%8A%A5%E5%88%8A%E6%96%87%E9%A9%B3%E6%96%A5%E4%B8%AD%E5%85%B1%E8%A1%B0%E8%90%BD%E8%AF%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E8%A1%B0%E8%90%BD/?category=18271" rel="tag">中共衰落</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81/?category=18271" rel="tag">中国威胁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%A9%E6%BA%83/?category=18271" rel="tag">中国崩溃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%A9%E6%BA%83%E8%AE%BA/?category=18271" rel="tag">中国崩溃论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90%E9%A3%8E%E6%9A%B4/?category=18271" rel="tag">反腐风暴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E8%99%8E%E8%8B%8D%E8%9D%87/?category=18271" rel="tag">老虎苍蝇</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%9B%B8%E4%BF%A1%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%EF%BC%9F27%E5%B9%B4%E5%89%8D%E5%90%91%E4%BA%BA%E6%B0%91%E5%BC%80%E6%9E%AA%E7%9A%84%E6%98%AF%E8%B0%81%E5%95%8A%EF%BC%9F/" target="cdt-mirror">【网络民议】相信“人民”军队？27年前向人民开枪的谁啊？</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg" rel="attachment wp-att-436644"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=450%2C628" alt=" 巴丢草 Badiucao ‏@badiucao 22h22 hours ago #巴丢草 漫画 【百度一下，你就完蛋】在没有谷歌的中国，#魏则西 同学百度了一下滑膜肉瘤，惨死；在没有谷歌的赵国，我期待着赵王 #习近平 百度一下，如何救党。#百度 pic.twitter.com/VxfUbk7NPr " srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=215%2C300 215w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=768%2C1073 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=733%2C1024 733w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?w=1024 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>“百度一下，你就完蛋” by 巴丢草：在没有谷歌的中国，#魏则西 同学百度了一下滑膜肉瘤，惨死；在没有谷歌的赵国，我期待着赵王 #习近平 百度一下，如何救党。</span></p></div>
@@ -1389,89 +1446,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%99%90%E5%88%B6%E7%BD%91%E7%BB%9C%E8%87%AA%E7%94%B1-%E4%BF%84%E4%B8%AD%E5%90%88%E4%BD%9C%E6%96%B0%E9%A2%86%E5%9F%9F/" target="cdt-mirror">美国之音｜限制网络自由 俄中合作新领域</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/F4BCE2C7-86A5-49A5-8FB8-44100ABA72B7_w640_r1_s_cx0_cy6_cw0.jpg" rel="attachment wp-att-436451"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/F4BCE2C7-86A5-49A5-8FB8-44100ABA72B7_w640_r1_s_cx0_cy6_cw0.jpg?resize=575%2C323" alt="F4BCE2C7-86A5-49A5-8FB8-44100ABA72B7_w640_r1_s_cx0_cy6_cw0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/F4BCE2C7-86A5-49A5-8FB8-44100ABA72B7_w640_r1_s_cx0_cy6_cw0.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/F4BCE2C7-86A5-49A5-8FB8-44100ABA72B7_w640_r1_s_cx0_cy6_cw0.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>控制俄罗斯新闻媒体之后，克里姆林宫日益关注互联网。莫斯科红场和克里姆林宫。（美国之音白桦拍摄）</span></p>
-<p>俄罗斯与中国加强在互联网审查领域的合作并相互取经。中国以对互联网实施严格审查闻名。俄罗斯新闻媒体丧失自由之后，普京当局又把手伸向了尚未被全部控制，言论相对较为宽松的互联网领域，并逐渐加强对互联网的管控。</p>
-<p><strong>网络审查主管出席首次会议</strong></p>
-<p>俄罗斯与中国继续在各个领域密切双边关系，其中包括在互联网审查方面加强合作。一个名叫网络空间发展和安全论坛的会议几天前在俄罗斯对外宣传机构—今日俄罗斯传媒集团总部举行。</p>
-<p>两国互联网审查主管官员，网络专家等出席了这次会议。参加会议的一名中国官员说，俄罗斯打击网络儿童色情的经验值得中国借鉴。被称为中国互联网掌门人的国家互联网信息办公室主任鲁炜，以及中国互联网“防火墙”之父方滨兴分别在会上发表了演讲。鲁炜强调中俄都是互联网大国，合作前景广阔，而且能够互补。</p>
-<p>俄罗斯外交部、内务部、通讯部等部门官员，上下两院的议员等参加了这次会议。俄罗斯总统顾问，前通讯部部长谢戈廖夫说，这次会议具有重要象征意义，显示双方关系日益紧密，且对许多问题拥有共同看法。</p>
-<p><strong>过滤互联网</strong></p>
-<p>俄罗斯通讯监督署署长扎罗夫在会上呼吁应对手机上网服务实施监管。上议院联邦委员会宪法建设委员会副主席米租琳娜强调应对违反互联网相关法规的人士实施更为严厉的惩罚。她在发言中表示，已经到了捍卫俄罗斯传统价值观和信息主权，对互联网实施过滤并采取实际行动的时候了。</p>
-<p>米租琳娜因为经常提出各种打压反对派、以及同性恋人士的法律草案而在自由派和知识界人士中享有恶名。她一直呼吁清除掉互联网上当局所认为的有害信息。</p>
-<p><strong>联手对抗西方</strong></p>
-<p>许多发言者在会上抨击美国和西方主宰互联网世界。这次会议的组织者之一，与克里姆林宫和东正教会关系密切的俄罗斯富豪马洛菲耶夫说，俄罗斯和中国这两个国家有能力开发导弹、核武器、以及互联网搜索引擎，这两股重要力量联合在一起可对抗西方独霸互联网世界。</p>
-<p>玛拉菲耶夫同时是俄罗斯民间的互联网安全大会的领导人。他一直在积极推动对俄罗斯互联网实施审查。他和他的支持者正加强活动打击网络上的儿童色情、同性恋、毒品等不符合俄罗斯东正教道德要求的因素。</p>
-<p>俄罗斯与中国在价值观上越来越接近。双方不但在对抗所谓的颜色革命上拥有共同语言并彼此携手，同时也在媒体领域加强合作试图挑战所谓的西方话语霸权，这次两国又在互联网审查方面相互取经。</p>
-<p><strong>手伸向互联网</strong></p>
-<p>俄罗斯新闻媒体被克里姆林宫控制之后，相对较为自由的互联网成为人们获取信息的重要途径。互联网评论人士鲍利沙科夫说，当局不断采取各种手段限制和控制互联网，但迄今为止效果并不理想。</p>
-<p>鲍利沙科夫说，俄罗斯有一些批评政府，以及其他的反对派网站被当局下令关闭。但这些网站通过把服务器设在国外，或是采取镜面技术等方式绕过当局禁令，在俄罗斯境内登录这些网站根本不成问题。</p>
-<p><strong>中国模式在俄行不通</strong></p>
-<p>鲍利沙科夫说，俄罗斯的互联网建设从一开始就与中国走完全不同的道路。因此，对互联网限制和审查的中国模式不太可能在俄罗斯行得通。</p>
-<p>鲍利沙科夫：“如果我们提到重建和上个世纪90年代俄罗斯民主化所取得的重要成就的话，对于多数民众来说涉及切身利益的包括几个方面，那就是能自由出国旅行，商店中货架上有丰富商品，还有就是自由利用互联网，用社交媒体彼此联系。如果当局开始对这三个领域中的任何一个方面实施限制，那肯定会引起人们的强烈不满。”</p>
-<p>鲍利沙科夫说，从技术上来说，俄罗斯限制互联网自由非常困难，但不排除借鉴中国经验，甚至利用中国科技的可能。</p>
-<p><strong>中国仍是讨厌邻居</strong></p>
-<p>关注俄中关系的评论人士尼科里斯基说，限制互联网需要巨额资金，俄罗斯不具备中国那样的经济实力，莫斯科无法如同北京那样把互联网安全控制起来。包括谷歌在内的国际网络巨头更不愿意受克里姆林宫摆布。俄罗斯社会早已习惯互联网的自由开放，无法想象当局审查互联网后社会的反应。</p>
-<p>尼科里斯基说，普京当局如果把中国限制互联网的那一套搬过来，人们会认为中国向俄罗斯输出中国价值观念，那样肯定会受到抵制。</p>
-<p>尼科里斯基：“俄罗斯的所有官方宣传现在都把注意力集中在如何对抗美国和欧洲，批判美欧如何在俄罗斯传播西方价值观念，俄罗斯应该怎样捍卫自己的传统价值观。但如果一旦提到中国价值观念，中国对俄罗斯的影响等，人们就会自动联想到中国会侵略俄罗斯。我特别注意到，俄罗斯有太多的人仍然把中国看成是一个很讨厌的邻居。”</p>
-<p><strong>羡慕中国防火墙合作刚开始</strong></p>
-<p>但权力巨大的俄罗斯调查委员会负责人巴斯特雷金最近撰文呼吁效仿中国互联网审查体制，抵制西方影响。亲克里姆林宫的俄罗斯新闻媒体称赞中国拥有世界上最为完善的互联网监管制度，而且制定了限制互联网自由的有关法律，甚至羡慕中国的网络防火墙。</p>
-<p>俄中两国在互联网审查领域的合作仅刚刚开始。双方计划每年召开两次类似会议。下一次会议今年晚些时候将在中国举行。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E9%99%90%E5%88%B6%E7%BD%91%E7%BB%9C%E8%87%AA%E7%94%B1-%E4%BF%84%E4%B8%AD%E5%90%88%E4%BD%9C%E6%96%B0%E9%A2%86%E5%9F%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E7%9A%84%E8%80%81%E6%9C%8B%E5%8F%8B/?category=18271" rel="tag">中国人民的老朋友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%84%E7%BD%97%E6%96%AF/?category=18271" rel="tag">俄罗斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">网络主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">网络管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E7%82%9C/?category=18271" rel="tag">鲁炜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%89%E9%B9%BF%E5%91%98%E5%B7%A5%EF%BC%8C%E7%BA%B3%E7%B2%B9%E5%BE%B7%E5%9B%BD%E6%99%AE%E9%80%9A%E4%BA%BA%EF%BC%8C%E6%9F%90%E6%90%9C%E7%B4%A2%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%EF%BC%8C%E5%9B%B4/" target="cdt-mirror">詹膑｜三鹿员工，纳粹德国普通人，某搜索公司员工，围观者</a>
-</h2>
-<p><blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E6%A7%BD-%E4%B8%80%E4%B8%AA%E6%AD%BB%E5%9C%A8%E7%99%BE%E5%BA%A6%E5%92%8C%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E4%B9%8B%E6%89%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/" target="_blank">有槽 | 一个死在百度和部队医院之手的年轻人 </a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E4%B8%81%E9%A6%99%E5%9B%AD%EF%BD%9C%E6%BB%91%E8%86%9C%E8%82%89%E7%98%A4%E3%80%81%E4%BA%8C%E6%89%8B%E8%BD%A6%E5%92%8C%E6%88%91%E4%BB%AC%E7%9A%84%E6%9C%AA%E6%9D%A5/" target="_blank">丁香园｜滑膜肉瘤、二手车和我们的未来</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%B2%EF%BC%8C%E6%82%A8%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96%E7%9A%84%E6%83%85%E5%86%B5%E7%99%BE%E5%BA%A6%E6%8E%A8%E5%B9%BF%E5%B7%B2%E5%8F%8D/" target="_blank">【立此存照】亲，您患癌去世的情况百度推广已反馈核实</a></li>
-</ul></blockquote>
-<p><strong>来自微信公号：Story（ID: zhanbinstory）</strong></p>
-<blockquote><p><strong>朋友留言：没区别，罪恶的链条越长，一众罪人就越觉得自己无罪。</strong></p></blockquote>
-<p><strong>一、</strong></p>
-<p>我向大家提一个问题：在奶粉里掺加大量三聚氰胺，导致大量孩子治病和残疾，这算是大规模下毒吗？</p>
-<p>如果是，那么对于“在奶粉里面掺毒然后销售”这件事情，知情但是非直接参与者，是否需要承担道义责任？放到具体案例里，就是三鹿的行政人员、财务人员、营销人员和技术人员等，他们并不直接参与“下毒”这一行为，如果他们知情并知道后果的话，是否需要承担道义责任。</p>
-<p>当然，更进一步，还有法律责任的问题。毕竟犯罪是有“从犯”、“窝藏”等各种关联责任的。为了更好讨论和避免刺激，我们目前只讨论“道义责任”。</p>
-<p>我想，绝大多数人会认为，应该承担道义责任吧？</p>
-<p><strong>二、</strong></p>
-<p>好，那么我下一个问题可能就会有很多争议——在这个极其撕裂的国家并且互联网上习惯互骂SB的情境里。</p>
-<p>问题：某搜索引擎大规模支持和利用庸医获取收益，并无数次被指责和很多案例确认，它给人带来了误诊、延诊；而且其实大家真心心知肚明，这是在被有意识地用于大规模获利。在这种情况下，它的普通员工，在知情的情况下，在他目前的工作生活受益于此的情况下，他是否应该承担道义责任？</p>
-<p>这个问题开始变得很难面对了吧？请顺着自己的第一反应走。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2.jpg" rel="attachment wp-att-436434"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2.jpg?resize=500%2C427" alt="民营医院" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/民营医院.jpg?resize=300%2C256 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/04/民营医院.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-（截图来自“丁香园”公号《滑膜肉瘤、二手车和我们的未来》一文的留言）</p>
-<p><strong>三、</strong></p>
-<p>万一，如果你觉得他们举例实施伤害有很远的距离，不应该承担连带责任，那么我继续问：二战德国纳粹的大屠杀，对于普通德国人来说，需要承担道义的谴责吗？</p>
-<p>故事是，在刚结束战争的很长一段时间，大量大屠杀的信息披露，他们完全不知所措，逃避讨论、观看和回想。为什么？因为无法面对（内心和道义）。所以再后来，整个当代政治哲学甚至很多社会科学都反思这件事情。</p>
-<p>显然，对邻人遭遇屠杀却无动于衷，或者甚至某种程度“合谋”到其中，这是无法被原谅的。正是如此，德国才进入了漫长和深入的反思，以至于接受叙利亚难民这种事情，对于拥有这段历史的德国而言，基本是必须之举。</p>
-<p>因为不能因为任何原因，漠视伤害和极权。</p>
-<p><strong>四、</strong></p>
-<p>回到第二部分的问题：某搜索引擎员工，是否应该承担道义责任？</p>
-<p>前几次，我批评这家公司（甚至还有文章被删除），这其间，得到好几位朋友的单独留言，类似：“写得好，已赞赏。但是我就不转了，因为朋友圈好几个百度的人”。</p>
-<p>我的下一个问题来了：采取这种围观、回避策略的人，你们应该承担道义责任吗？呵呵！呵呵！因为你知道路径：你是在围观，也就是在“纵容”。</p>
-<p>其实，我想说的是，生活在这个时代的诸位都是命苦的，因为“正确”太难了，包括我自己在内也是如此。</p>
-<p>“围观”这种行为处处都能在；时时不留意都会有“过错”。</p>
-<p>而且，其实，我们并不爱这些百度的朋友，对不对？他只是我们的人脉，潜在的资源。如此而已。</p>
-<p>呵呵。</p>
-<p><strong>五、</strong></p>
-<p>为什么我会经常想到“雷猴”，想到“正视、兼听、直言”，是因为如此之难，需要时时提醒，并做辨识、讨论和分享。</p>
-<p>希望我们都能小小努力，让世界上少一例“魏则西”。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/04/%E4%B8%89%E9%B9%BF%E5%91%98%E5%B7%A5%EF%BC%8C%E7%BA%B3%E7%B2%B9%E5%BE%B7%E5%9B%BD%E6%99%AE%E9%80%9A%E4%BA%BA%EF%BC%8C%E6%9F%90%E6%90%9C%E7%B4%A2%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%EF%BC%8C%E5%9B%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E8%B4%A3%E4%BB%BB/?category=18271" rel="tag">公民责任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%B4%E8%A7%82/?category=18271" rel="tag">围观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1483,7 +1457,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1493,5 +1467,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

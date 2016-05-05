@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E9%AD%8F%E5%88%99%E8%A5%BF%E7%94%9F%E5%89%8D%E8%87%AA%E5%BD%95%E8%A7%86%E9%A2%91%EF%BC%9A%E6%88%91%E8%BF%98%E6%9C%89%E6%A2%A6%E6%83%B3%EF%BC%8C%E6%83%B3%E5%86%8D%E7%9C%8B/" target="cdt-mirror">【CDTV】魏则西生前自录视频：我想再看看这个世界</a>
+</h2>
+<p><p>魏则西事件，是发生于2016年4月的一起社会事件。</p>
+<p>魏则西及家人因相信百度推荐的武警北京市总队第二医院，从事虚假的治疗方法，导致耽误治疗，最终不治去世。</p>
+<p>魏则西是西安电子科技大学计算机系学生，2014年，大二时的魏则西被发现患有晚期滑膜肉瘤。在采取各种化疗、放疗的方法后，魏则西家庭通过百度推荐的武警北京市总队第二医院莆田系医院尝试所谓的“肿瘤生物免疫疗法”（即DC-CIK疗法），在大量医药费（超过20万）和时间后，仍然没有效果，2016年4月12日，因病身亡，魏则西去世前在网络上发文《你认为人性最大的“恶”是什么？》，质疑武警北京市总队第二医院及相关医生存在欺骗，包括其宣称与斯坦福大学合作研发的“肿瘤生物免疫疗法”（即树突细胞-细胞因子诱导的杀伤细胞疗法），在美国早已被淘汰；而百度也通过竞价排名而从中获利 魏则西的去世，使得百度百科的医学信息竞价遭受媒体及舆论批评。</p>
+<p>百度推广在事情爆发后，声明其立即与魏则西爸爸取得联系，致以慰问和哀悼；并支持魏则西家人对武警北京市总队第二医院采取法律措施。而魏则西家人则声称百度从未与其联系过，并认为“百度公司在说谎”。</p>
+<p><a href="https://www.youtube.com/v/-u3xipfa8Do?version=3">https://www.youtube.com/v/-u3xipfa8Do?version=3</a></p>
+<p><a title="魏则西生前自录视频：【我还有梦想，想再看看这个世界！】" href="http://www.youtube.com/watch?v=-u3xipfa8Do" target="_blank">魏则西生前自录视频：【我还有梦想，想再看看这个世界！】</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E9%AD%8F%E5%88%99%E8%A5%BF%E7%94%9F%E5%89%8D%E8%87%AA%E5%BD%95%E8%A7%86%E9%A2%91%EF%BC%9A%E6%88%91%E8%BF%98%E6%9C%89%E6%A2%A6%E6%83%B3%EF%BC%8C%E6%83%B3%E5%86%8D%E7%9C%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%99%BE%E5%BA%A6%EF%BC%9A%E5%85%9A%E5%9C%A8%E6%88%91%E5%BF%83%E4%B8%AD%EF%BC%81/" target="cdt-mirror">【立此存照】百度：党在我心中</a>
 </h2>
 <p><p>魏则西事件后，有一些网友表示百度似乎解禁了一些敏感词，像“六四”、“巴拿马文件”、“挡在坦克前的青年人”均可正常搜索。有网友指百度这是“要造反”，“哈哈，乖乖的，百度也是怒了？它一定想，多少年来，我一直为你们干脏活，这次不就赚了几百亿的脏钱吗，你们就要抛弃我？干脆……”</p>
@@ -817,39 +834,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B9%96%E5%8D%97%E6%97%A5%E6%8A%A5-%E5%85%9A%E5%91%98%E7%9A%84%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A7%81%E4%BA%BA%E7%A9%BA%E9%97%B4%EF%BC%9F%E5%85%9A/" target="cdt-mirror">【异闻观止】党建专家：党员的微信朋友圈不是私人空间</a>
-</h2>
-<p><p>新修订的《中国共产党廉洁自律准则》和《中国共产党纪律处分条例》（以下分别简称《准则》和《条例》）两项法规是十八大以来我们党严明政治纪律和政治规矩、落实八项规定、反对“四风”的制度化、常态化的重要成果，是全面从严治党最新实践的结晶。《条例》被很多党建专家称为“改革开放以来最全、最严的党纪”，是我们党成立以来第一部既一脉相承又与时俱进的系统成文的“党内法典”。《准则》是党执政以来第一部坚持正面倡导、面向全体党员的廉洁自律规范，是向全体党员发出的道德宣示和对全国人民的庄严承诺。</p>
-<p>在一个诱惑越来越多而要求越来越严的时代，党员干部对自己的言行不能不经常进行自省，避免“走错一步、毁掉一生”的发生。《准则》和《条例》就是党员干部作出正确的行为选择“指示灯”。党员要永葆政治青春，就要时刻不忘党旗下的宣言，自觉把两部法规作为一面镜子对照检查，在思想上多一些扪心自问，问一问自己的行为是否符合纪律的要求。问得清，守得住，才能行得正，走得远。从当前的关注点或者敏感点来看，尤其要做到以下“十问”：</p>
-<p><strong>一问：党员微信朋友圈是不是私人空间？</strong></p>
-<p>《条例》规定，妄议中央等违反政治纪律的行为，是通过信息网络、广播或者座谈会等途径公开的。微信是当今社会越来越重要的传播媒介。党员的微信朋友圈，无疑是信息传播的一种重要渠道，它的浏览对象是不特定人或者特定多数人，具有相当的公开性，并非仅有家人和少数经常交往的好友，不属于私人空间。如果党员通过微信朋友圈妄言妄语，胡言乱语，就会被广泛转发，造成恶劣影响，破坏党的集中统一，因此要受到违纪处分。比如，东部某市公安局副局长吴某，在微信朋友圈看到一篇关于攻击“一国两制”的文章，便轻点手机屏幕进行分享，发表评论附和。他的这一举动，看似不经意，其实违反了政治纪律，一条很重要的政治纪律——妄议中央大政方针。与此相关，党员微博不是法外之地。任志强作为一名共产党员，在微博上持续公开发布违法信息和错误言论并产生恶劣影响，严重损害了党的形象，不仅微博被关，而且受到了西城区委的处分。</p>
-<p><strong>二问：党员用手机短信表达诉求是否违纪？</strong></p>
-<p>《条例》规定，在民主推荐中搞拉票等非组织活动的，要受到纪律处分。这就是说，党员发短信表达诉求，关键看诉求的内容，如果是不正当的，是涉嫌为自己谋取私利的非组织活动，尽管没有送礼，不构成贿选，但一样构成违纪。</p>
-<p><strong>三问：党员能否参加老乡会、校友会、战友会？</strong></p>
-<p>《条例》规定，党员领导干部违反有关规定组织、参加自发成立的老乡会、校友会、战友会，要受到违纪处分。那么，是不是今后的老乡、同学、战友的聚会就都不能参加了？这里需要说明的是：一是规定针对的是“党员领导干部”，而不是普通党员，体现了对党员领导干部的高要求。二是“违反有关规定组织”，是指不得担任这类组织的发起人和组织者，不得在这类联谊会中担任相应职务；也不得借机编织“关系网”，搞亲亲疏疏，团团伙伙，更不得有“结盟”“金兰结义”等行为。三是“自发成立的”，主要是指未经登记注册的。如果在这三条之外，不是搞什么“刘关张桃源三结义”，正常的聚会还是允许的。</p>
-<p><strong>四问：党员干部填报事项报告表是不是小事？</strong></p>
-<p>《条例》规定，对违反个人有关事项报告规定，不报告、不如实报告的，要给予处分。填报个人事项报告表，是反腐倡廉的重要举措。是否如实报告事项，涉及到对党是否忠诚、对组织是否坦白、个人是否诚实的问题，不是小事情。因此，《条例》把它作为一条重要的组织纪律写进去了。现在，领导干部个人事项报告正在“升级”、不断细化，不仅对新任领导干部实行凡提必查，而且每年还要对一部分人进行抽查。2015年全国共43万副处级以上干部被抽查，近四千官员不如实报告被取消提拔资格。</p>
-<p><strong>五问：党员“正常的礼尚往来”行不行？</strong></p>
-<p>《条例》没有对这类行为搞简单的“一刀切”，而是区别了不同情况分别作出了规定：一是不准收受可能影响公正执行公务的礼品、礼金、消费卡等；二是不能收受其他明显超出正常礼尚往来的礼品、礼金、消费卡等。从近年来看，从事公务的党员干部收受礼品、礼金问题确实比较突出，这严重影响了党员干部形象，破坏了党群关系，确有必要对这类行为予以纪律规范。判断礼尚往来的标准，要看是否有来有往，如果只来不往，就有问题了。另外，如果“礼”明显超出了当地正常经济水平、风俗习惯、个人经济能力，肯定逃不出纪律的“法眼”。在这方面，我们要牢记两句话：“天下没有免费的午餐”，“天上掉馅饼的时候，是地上有陷阱的地方”。</p>
-<p><strong>六问：党员干部可不可以出入私人会所？</strong></p>
-<p>《条例》规定，对违反有关规定出入私人会所，情节较重或严重的，要分别给予处分。这是整治“会所中的歪风”的硬规定。对不收手、不知止，规避组织监督，出入私人会所，组织隐秘聚会的一律从严查处，对参加聚会的要找本人谈话，令其在民主生活会上作出深刻检查。很多高级干部由于出入会所受到了这样的惩处。比如，原广东省委常委、广州市委书记万庆良，在中央八项规定出台以后，多次出入私人会所，大吃大喝，这是他落马的重要原因。现在，《条例》写得这样明确，我们就不要犯这样的低级错误了。</p>
-<p><strong>七问：党员到底能不能炒股？</strong></p>
-<p>《条例》并没有改变原来的规定。原规定“个人违反规定买卖股票”是违纪的情形之一，这与现在条款第一款开头规定的“违反有关规定”在文字表述上重复。修订中只是从立法技术上删除了“个人违反规定”这一内容，没有改变原来的内容。党员只要不属于规定与内部有关的几类不能炒股的人员，不是靠内幕消息和非法手段从资本市场获利的，炒股是大可放心的。</p>
-<p><strong>八问：党员交通违法算不算违纪？</strong></p>
-<p>《条例》规定，不论何种犯罪行为，只要是犯罪情节轻微由检察院依法作出不起诉决定的，或者由法院依法作出有罪判决并免予刑事处罚的，均应当给予纪律处分。这就意味着，乱停车被贴条，闯红灯被扣分，乱并道压黄线……这些交通违法行为固然不可取，但从法律角度讲不算犯罪，也不需要动用《党纪处分条例》；但那些触犯刑律，被法院以交通肇事罪或危险驾驶罪等判刑的，那党纪就不会视而不见了。</p>
-<p><strong>九问：党员干部辞职后当“土豪”能否规避纪律处分？</strong></p>
-<p>《条例》规定，对生活奢靡、贪图享乐、追求低级趣味，造成不良影响的，要给予纪律处分。这是保持艰苦朴素政治本色的需要。挥金如土、过分奢靡，如果是发生在群众身上，别人最多是摇摇头，说句“土豪”。而对党员来讲，不管是否担任领导职务，都要受到纪律的追究。日前，一个村主任为了给独生子办个“像样的婚礼”，向纪委报备酒席数量未获通过后，选择辞职，顶风办了40多桌酒席，最后没逃脱纪律的惩罚。与此有关，一些党员用自己的钱买豪车豪表，只要超过当地的正常水平，纪委就要找他的麻烦。</p>
-<p><strong>十问：党员私生活不检点属不属私事？</strong></p>
-<p>《条例》把原来的“通奸”、“包养情妇（夫）”修改为“与他人发生不正当性关系”，使纪律处分的面更宽更严更准。在老百姓那里，通奸是两情相悦的事，而领导干部跟下属发生所谓的通奸，多数带有胁迫性或者诱惑性，用“与他人发生不正当性关系”更恰当。</p>
-<p>来源：湖北日报</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B9%96%E5%8D%97%E6%97%A5%E6%8A%A5-%E5%85%9A%E5%91%98%E7%9A%84%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A7%81%E4%BA%BA%E7%A9%BA%E9%97%B4%EF%BC%9F%E5%85%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98/?category=18271" rel="tag">党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%BB%BA/?category=18271" rel="tag">党建</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E7%BA%AA%E5%A4%84%E5%88%86/?category=18271" rel="tag">违纪处分</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -861,7 +845,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -871,5 +855,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

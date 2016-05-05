@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,233 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%B0%91%E4%B8%80%E7%82%B9%E5%A5%97%E8%B7%AF-%E5%A4%9A%E4%B8%80%E7%82%B9%E7%9C%9F%E8%AF%9A/" target="cdt-mirror">【CDTV】少一点套路 多一点真诚</a>
+</h2>
+<p><p>@Happy张江：大写的套路！！记者采访了一位游玩的小学生，这回答的也是没sei啦，一看就是三好学生！</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%B0%91%E4%B8%80%E7%82%B9%E5%A5%97%E8%B7%AF-%E5%A4%9A%E4%B8%80%E7%82%B9%E7%9C%9F%E8%AF%9A/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p>@Hyo_Matlab：这谁家的朗诵机器人，快领走！</p>
+<p>@格利德Greed：小小年纪就满嘴官腔，说假话不脸红，悲哀。</p>
+<p>@小米椒妖妖：我也这样sb过，我不会让我娃儿像我这样。</p>
+<p>@雨后初晴：可悲的是，在这国大多数家长都还会夸她。</p>
+<p>@我愿为卒：在你国，教育是刽子手！</p>
+<p>@事后诸葛亮：还是同情一下这个孩子吧，将来她看了这段不知会做何感想。</p>
+<p>@钛锌Cool：把孩子丢进染缸里还不如不生，有时候，不生也是积德。</p>
+<p>@梦过一生：把孩子教育的都快不能正常说话了。</p>
+<p>@谭谭喽：哈哈哈 记得小时候诗朗诵 表演的越浮夸老师越喜欢</p>
+<p>@鲸落_WhaleFall：富有灵气的孩童，是怎么变成这种摇头晃脑的机器人的… 忍不住想骂娘。</p>
+<p><strong>相关阅读：</strong></p>
+<p><a title="大象公会 | 学生干部发迹指南" href="http://chinadigitaltimes.net/chinese/2015/11/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8%E5%8F%91%E8%BF%B9%E6%8C%87%E5%8D%97/">大象公会 | 学生干部发迹指南</a></p>
+<p><a title="楚天都市报 | “五道杠”少年发文谈家长教育" href="http://chinadigitaltimes.net/chinese/2016/01/%E6%A5%9A%E5%A4%A9%E9%83%BD%E5%B8%82%E6%8A%A5-%E4%BA%94%E9%81%93%E6%9D%A0%E5%B0%91%E5%B9%B4%E5%8F%91%E6%96%87%E8%B0%88%E5%AE%B6%E9%95%BF%E6%95%99%E8%82%B2/">楚天都市报 | “五道杠”少年发文谈家长教育</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%B0%91%E4%B8%80%E7%82%B9%E5%A5%97%E8%B7%AF-%E5%A4%9A%E4%B8%80%E7%82%B9%E7%9C%9F%E8%AF%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%89%BA%E5%8D%9A/?category=18271" rel="tag">黄艺博</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E5%85%A5%E5%9B%B4%E4%BA%BA%E6%9D%83%E5%A5%96%E3%80%81%E7%96%AB%E8%8B%97%E7%A4%BA%E5%BC%B1%E6%B4%BB/" target="cdt-mirror">【敏感词库】伊力哈木入围人权奖、“疫苗示弱活动”等热点</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2014/01/%E8%87%AA%E7%94%B1-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8.jpg?resize=450%2C764" alt="自由 伊力哈木" data-recalc-dims="1"><br><em>图片作者：巴丢草</em></p>
+<p>［新浪微博搜索禁词测试时间：2016年5月4日］</p>
+<p><strong>伊力哈木＋人权奖</strong></p>
+<blockquote><p>详见：<a title="Permanent Link to 自由亚洲｜被判终身监禁的新疆维吾尔学者伊力哈木入围著名国际人权奖" href="https://chinadigitaltimes.net/chinese/2016/04/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%A2%AB%E5%88%A4%E7%BB%88%E8%BA%AB%E7%9B%91%E7%A6%81%E7%9A%84%E6%96%B0%E7%96%86%E7%BB%B4%E5%90%BE%E5%B0%94%E5%AD%A6%E8%80%85%E4%BC%8A%E5%8A%9B%E5%93%88/" rel="bookmark">自由亚洲｜被判终身监禁的新疆维吾尔学者伊力哈木入围著名国际人权奖</a></p>
+<p>相关专题：<a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/">伊力哈木</a></p></blockquote>
+<p><strong>示弱活动＋疫苗</strong><br><strong> 长安街＋疫苗</strong></p>
+<blockquote><p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/">山东疫苗事件</a></p></blockquote>
+<p><strong>下台＋习</strong></p>
+<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/04/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E7%AB%A0%E5%AE%B6%E6%95%A6%EF%BC%9A%E4%B9%A0%E6%9D%8E%E5%88%86%E6%AD%A7%E5%85%AC%E5%BC%80%E5%8C%96/">美国之音 | 章家敦：习李分歧公开化</a></p></blockquote>
+<p><strong><span>膜蛤</span></strong></p>
+<blockquote>
+<p>相关专题：<a href="http://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4%E6%96%87%E5%8C%96/">膜蛤文化</a></p>
+</blockquote>
+<p><strong>维狗</strong></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%EF%BC%8B%E4%BA%BA%E6%9D%83%E5%A5%96.png?resize=474%2C186" alt="伊力哈木＋人权奖" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/伊力哈木＋人权奖.png?resize=300%2C118 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/伊力哈木＋人权奖.png?w=701 701w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%A4%BA%E5%BC%B1%E6%B4%BB%E5%8A%A8%EF%BC%8B%E7%96%AB%E8%8B%97.png?resize=475%2C185" alt="示弱活动＋疫苗" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/示弱活动＋疫苗.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/示弱活动＋疫苗.png?w=704 704w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E9%95%BF%E5%AE%89%E8%A1%97%EF%BC%8B%E7%96%AB%E8%8B%97.png?resize=474%2C184" alt="长安街＋疫苗" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/长安街＋疫苗.png?resize=300%2C116 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/长安街＋疫苗.png?w=704 704w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E4%B8%8B%E5%8F%B0%EF%BC%8B%E4%B9%A0.png?resize=474%2C183" alt="下台＋习" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/下台＋习.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/下台＋习.png?w=704 704w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E8%86%9C%E8%9B%A4.png?resize=475%2C183" alt="膜蛤" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/膜蛤.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/04/膜蛤.png?w=701 701w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/%E7%BB%B4%E7%8B%97.png?resize=474%2C183" alt="维狗" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/维狗.png?resize=300%2C116 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/04/维狗.png?w=702 702w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E5%85%A5%E5%9B%B4%E4%BA%BA%E6%9D%83%E5%A5%96%E3%80%81%E7%96%AB%E8%8B%97%E7%A4%BA%E5%BC%B1%E6%B4%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E5%A5%96/?category=18271" rel="tag">人权奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E4%B8%9C%E7%96%AB%E8%8B%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">山东疫苗事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%86%9C%E8%9B%A4/?category=18271" rel="tag">膜蛤</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E5%89%8D%E5%94%B1%E7%BA%A2%E6%AD%8C%E4%BC%9A%E5%86%8D%E7%BA%A6%E7%9A%84%EF%BC%8C%E5%88%AB%E5%BF%98/" target="cdt-mirror">【立此存照】联合国总部前唱红歌会再约的，别忘了捧场哟</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E5%9B%BD2.jpg" rel="attachment wp-att-436871"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E5%9B%BD2.jpg?resize=525%2C577" alt="联合国2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国2.jpg?resize=273%2C300 273w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国2.jpg?resize=768%2C844 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国2.jpg?resize=932%2C1024 932w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国2.jpg?w=2014 2014w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B5%8E%E5%8D%97%E6%97%A5%E6%8A%A52.png" rel="attachment wp-att-436870"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B5%8E%E5%8D%97%E6%97%A5%E6%8A%A52.png?resize=525%2C841" alt="济南日报2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/济南日报2.png?resize=768%2C1231 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/济南日报2.png?resize=639%2C1024 639w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/济南日报2.png?w=1454 1454w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<blockquote><p>
+<strong><a href="http://weibo.com/jndaily" target="_blank">@济南日报</a></strong>： <a href="http://weibo.com/n/%E8%81%94%E5%90%88%E5%9B%BD" target="_blank">@联合国</a> 下次再约~<br>
+“济南日报号”千名老人游美国首发团的老人们上周六不揣冒昧，在咱联合国总部门前唱红歌，没想到一夜之间成为“网红”。老人们即兴而歌，绝没有半点冒犯的意 思。若您因为“休班，木有看到”而感到有些许小遗憾的话，请不要捉急，借今年“中美旅游年”的大好时机，“济南日报号”承诺组织千名老人游美国，我们还会再约的！下次一定工作日去，到时别忘了捧场哟</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E5%9B%BD%E5%BE%AE%E5%8D%9A.png" rel="attachment wp-att-436867"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E5%9B%BD%E5%BE%AE%E5%8D%9A.png?resize=525%2C261" alt="联合国微博" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国微博.png?resize=300%2C149 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国微博.png?resize=768%2C382 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国微博.png?resize=1024%2C509 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国微博.png?w=2012 2012w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2517118120" target="_blank">@五行大山压不住你_</a>：一边是海南强拆群众被打得屁滚尿流  百度推广导致一个少年死亡  而在地球另一端有人在联合国总部前高唱社会主义好  人民地位高   尴尬癌犯了<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">  生活好讽刺</p>
+<p><a href="http://weibo.com/5866641728" target="_blank">@行走着的人2011</a>：联合国回你了，显然不怎么欢迎，咱要不组织去天安门吧<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/163tech" target="_blank">@玩科技</a>：非法聚众哈哈哈哈<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p>@常见89：不远万里秀下限，这盛世如你所愿！</p>
+<p><a href="http://weibo.com/2219903857" target="_blank">@so-what-is铪丝</a>：忠字舞一定也要跳 不要光唱歌 显得没诚意<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/shoudong1965" target="_blank">@守东言论新版</a>：我去朝鲜旅游，回国临上火车前突然有女兵冲到候车室，一字排开，啥也没说，立即开始唱，懂朝语的同事说都是歌颂正恩兄的。人家唱完后也是啥也没说。我惊愕好久才回过神来。济南大妈勾起了我的朝鲜记忆。建议<a href="http://weibo.com/n/%E6%B5%8E%E5%8D%97%E6%97%A5%E6%8A%A5?from=feed&loc=at" target="_blank">@济南日报</a> 大妈二团去白宫门前唱，那里影响更大。就是在那里高喊打倒奥巴马也不会有人禁止。</p>
+<p>@导弹打蚊芝2：咋不去天安门广场唱，看让不让你唱。还是美国好，是吧。</p>
+<p><a href="http://weibo.com/2814501190" target="_blank">@品客薯片v</a>：为了证明美帝是个言论自由的国家？原来是高级黑啊！<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p>@otono-nueve：组团送到朝鲜 享受最纯粹的社会主义</p>
+<p>@burningtomato：屁股决定脑袋，吃着公粮，退休比在职工资还高，当然唱社会主义好了。</p>
+<p>@炎黄胄裔：金三胖一家似乎享受了更多的“社会主义优越性”，人家更有资格过去高唱“社会主义好”。</p>
+<p>@贺耀辉律师：如果我能移民去享受西方的自由，我也唱。</p>
+<p>@西域的颜色：呵呵<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/49b63783gw1f3j9b8skb8j20hs0bowg8.jpg" rel="attachment wp-att-436868"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/49b63783gw1f3j9b8skb8j20hs0bowg8.jpg?resize=400%2C263" alt="49b63783gw1f3j9b8skb8j20hs0bowg8" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/49b63783gw1f3j9b8skb8j20hs0bowg8.jpg?resize=300%2C197 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/49b63783gw1f3j9b8skb8j20hs0bowg8.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p>@贰鸭：社会主义好你特么还去美国玩，要爱国啊，有钱不能去外国花啊。</p>
+<p>@尤鵾鹏：那是因为GCD没撅他们老坟，没拆他们老家。</p>
+<p>@行走路上听风在歌：怎么不去海口唱</p>
+<p>@空山不语1：希望这些高唱“社会主义国家人民地位高”的济南大妈早点享受到海南秀英区琼华村妇女儿童的崇高待遇</p>
+<p>@_小_奇_：这群老人太坏了，跑到联合国门口讽刺自己的祖国</p>
+<p>@山水6355：美国人能在天安门广场高唱自由民主之歌吗？</p>
+<p>@平凡的梦love0828：我想从这个方面来评价，这群大妈在联合国前唱《社会主义好》，这是她们言论自由体现，也说明美国的言论自由能够包容她们这样 的行为，相反，可以想象，如果一群美国大妈或者是什么所谓的反华势力在天安门前面唱《资本主义好》或自由民主之歌什么的，我们现在言论自由能包容这样的行 为吗？这值得深思！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E5%89%8D%E5%94%B1%E7%BA%A2%E6%AD%8C%E4%BC%9A%E5%86%8D%E7%BA%A6%E7%9A%84%EF%BC%8C%E5%88%AB%E5%BF%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%B1%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">唱红歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E9%81%97%E9%A3%8E/?category=18271" rel="tag">文革遗风</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B2%A1%E7%9B%91%E7%9D%A3%E9%83%BD%E6%83%B3%E4%BD%9C%E6%81%B6-%E8%B0%B7%E6%AD%8C%E6%9B%BE%E4%B8%BA%E5%81%87%E8%8D%AF%E5%B9%BF%E5%91%8A%E4%BB%98%E5%A4%A9%E4%BB%B7%E7%BD%9A%E6%AC%BE/" target="cdt-mirror">美国之音｜没监督都想作恶 谷歌曾为假药广告付天价罚款</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7FD70B4D-E473-4F1B-BF58-5DC37FB8D8B2_w640_r1_s_cx0_cy3_cw0.jpg" rel="attachment wp-att-436863"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7FD70B4D-E473-4F1B-BF58-5DC37FB8D8B2_w640_r1_s_cx0_cy3_cw0.jpg?resize=575%2C323" alt="7FD70B4D-E473-4F1B-BF58-5DC37FB8D8B2_w640_r1_s_cx0_cy3_cw0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7FD70B4D-E473-4F1B-BF58-5DC37FB8D8B2_w640_r1_s_cx0_cy3_cw0.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7FD70B4D-E473-4F1B-BF58-5DC37FB8D8B2_w640_r1_s_cx0_cy3_cw0.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p><em>作者：于盟童</em></p>
+<p>华盛顿— 大学生魏则西之死在网上掀起了新一轮对百度和网络封锁的讨伐。不少网友认为正是因为网络防火墙封锁了谷歌，才导致百度“店大欺客”。然而实际上在2009年，号称“不作恶”的谷歌曾经因为违规给医药公司做广告被美国政府处以5亿美元的罚款，是历史上企业支付的最重的罚款之一。美国政府为了对谷歌调查取证，还与被逮捕的假药老板合作“钓鱼执法”，最终获得了谷歌违法的充足证据。华尔街时报报道认为，与谷歌的利润相比，5亿美元是一笔小钱，但是政府的处罚加强了谷歌的广告审查，特别是针对医疗企业的审查，减小了违法企业通过谷歌欺骗用户的可能性。</p>
+<p>2008年，谷歌广告曾因违反中国广告法被海淀工商局罚款。但是，与谷歌广告功能相同的百度“推广”却至今未被中国政府部门认定为是广告。</p>
+<p><strong>谷歌的摇钱树AdWords</strong></p>
+<p>谷歌公司从2000年开启了广告业务AdWords，此后AdWords一直是谷歌最大的收入来源。2004年8月谷歌上市，成为当年最被看好的公司之一，广告商也随之蜂拥而至。</p>
+<p>就在上市前不久，当时负责广告业务的谷歌副总裁谢莉尔·桑德伯格(Sheryl Sandberg)曾赴首都华盛顿就网络药店监管的提案向国会作证。桑德伯格称，政府直接审查会给企业带来沉重的负担，并保证谷歌已经对投广告的网上药店进行了内部审查，其严格程度已超越了已有的法律，同时谷歌还聘请了独立的第三方机构来协助审查。</p>
+<p>谷歌上市时交给美国证监会的文件中，专门附上了公司几位创始人签署的“不作恶”（Don’t be evil）公开信，其中写道：谷歌的座右铭是“不作恶”，即使我们需要为此付出一些短期的利益，我们仍然坚信从长远来看，一个能把世界变得更好的公司会给我们股东带来更大的收益。</p>
+<p><strong>“不作恶”的谷歌帮假药贩子作恶</strong></p>
+<p>“不作恶”的座右铭帮助谷歌建立了非常好的企业形象。然而，2009年曝出的“假药广告”事件让谷歌遇到了上市以来最大的公关挑战，最终在2011年以5亿美元的代价与监管机构达成和解。华尔街日报（WSJ）和连线（Wired）曾在2013年对这个事件做过详细报道。</p>
+<p>事件中的主角之一是通过网络卖假药的美国商人大卫·惠特克(David Whitaker)。2006年，因为金融欺诈等罪名数次入狱的惠特克从美国偷渡到墨西哥，做起了开网店卖假药的生意。</p>
+<p>惠特克把纯净水贴上类固醇的标签，通过谷歌AdWords打广告，以每瓶1000美元的价格从墨西哥卖给美国顾客。</p>
+<p>2008年，惠特克被交回美国。他对美国司法部供述称谷歌的客服在明知他的“药品”不符合美国法律的情况下，主动指导他避开谷歌的审查机制，在网上投放假药广告。</p>
+<p><strong>美国政府钓鱼执法，处罚谷歌5亿美元</strong></p>
+<p>为了争取减刑，惠特克以一个伪造的新身份重演了与谷歌合作卖假药的过程，帮助美国司法部为起诉谷歌取证。在调查过程中，谷歌客服主动帮助惠特克重新设计他的假药网站，暂时取消了一键结算功能，并在结算页面上加入了“申请审批”这个步骤，骗过了谷歌的审查机制。</p>
+<p>广告上线后，网站又恢复了原本的样子，列有各类减肥药、类固醇、堕胎药等美国法律规定的处方药，并且写明了药品从墨西哥寄出，购买无须正规处方。</p>
+<p>取证结束后，美国司法部门起诉了谷歌，并从谷歌公司获得了四百万份内部邮件和文件，其中显示谷歌高层明知AdWords客服的违规做法，却为了商业利益任其发展。</p>
+<p>最终谷歌在2011年以5亿美元的罚金与美国政府达成和解，牵头调查的检察官詹姆斯·科尔（James M. Cole）在公开声明中称，这是历史上政府对公司开出的最大的一笔罚款之一。</p>
+<p>此后谷歌加强了对所有广告、尤其是医疗类广告的审查。现在医药公司想与AdWords合作，必须提供美国食品药品管理局（FDA）的资质文件。根据谷歌发布的报告，2015年谷歌共计屏蔽了7.8亿条违规广告，封杀了21.4万家广告商，其中包括1250万条违规的医疗和药品广告涉及药品未获批准或者虚假误导性宣传。</p>
+<p><strong>网络公关公司经理：百度推广就像“软文”</strong></p>
+<p>想要让自己公司的网站排在搜索引擎结果前列，有两种方法：花钱找搜索引擎做广告，或是优化自己网页的搜索结果（SEO）。</p>
+<p>北京一家网络公关公司的总经理对美国之音表示，所有类似公司都会通过调整搜索引擎的结果帮助客户提高声誉。“理论上来说就是帮客户优化网站，比如加入一些搜索引擎容易识别的关键词，在百度百科上建立公司的词条之类的。”</p>
+<p>这位经理解释说，每个搜索引擎都有自己的算法，来决定搜索结果排序。“比如搜‘健身‘这个词，那肯定是百度健身贴吧和百度百科健身词条排在最前面，然后可能是在百度上做广告的健身产品，再后面是一些健身博客等等。”</p>
+<p>具体的算法非常复杂，而且经常改变。关键词清晰度、网站建立的时间长短、代码质量、更新频率、被其他网站链接的次数等等都是影响搜索排名的因素。同时，搜索引擎有时会把自己网站上的内容排在搜索结果前面，比如谷歌常把Google+社区的内容排在前面，百度则会优先考虑百度百科和百度贴吧等。</p>
+<p>但是这位经理同时说，在中国，公关公司帮助客户管理网络声誉的方法就是十分简单粗暴的“给钱删贴”，“按理说公关公司应该改善客户网站的SEO，但是实际上我们的工作就是打广告和给钱删贴。联系百度贴吧吧主、天涯这种社区网管，直接让他们删贴就好了。”</p>
+<p>她还说，百度的问题在于广告链接和普通链接的区分非常模糊，用户可能在不知情的情况下点了广告，“报纸和电视上都是内容和广告分开的，你一眼就能看出来。百度推广因为政府不把它看成是‘广告’，所以就像软文一样，用户不知不觉就上当了。”</p>
+<p>大学生魏则西被百度误导、在北京武警二院治疗癌症无效死亡的消息刚刚曝出时，有网友在百度上搜索“滑膜肉瘤”，第一条搜索结果仍是“北京武警二院肿瘤生物中心”，其中还显示“北京最好的癌症医院”等违反广告法规定的表述方式。</p>
+<p><strong>在中国，谷歌广告是广告，百度的广告不是</strong></p>
+<p>2010年，在谷歌因网络审查问题退出中国。而在两年前的2008年，海淀工商局罕见地受理了一件关于互联网推广的案子。</p>
+<p>据报道，上海宝岛服饰有限公司在谷歌网上做的广告里使用了“佐丹奴过时啦”这样的表述，海淀工商分局认为宝岛服饰和谷歌违反了广告法，要求谷歌撤下这条广告，没收广告费18.74元，罚款74.96元。</p>
+<p>而2011年，互联网虚假医疗广告公益联盟志愿者田军伟用百度搜索“微型摄像机”后，点击标题为“2012最时尚微型摄像机”的百度“推广”链接购买了一台摄像机，还购买了一支录音笔。收货后发现质量有问题，尝试联系销售网站维权未果，遂要求百度提供广告主名称和联系方式，遭到拒绝。</p>
+<p>之后，田军伟向北京工商局举报。案件被北京工商转到海淀工商处理。</p>
+<p>2012年，海淀工商公布了《关于对田军伟举报的答复》，答复中写道：“我局接到你的举报材料后，于2012年3月2日对你举报材料中所反映的北京百度网讯科技有限公司可能存在的广告违法行为进行了核查。根据核查情况，我局决定不予立案。特此告知。”</p>
+<p>工商局是如何核查的？为何不予立案？文件中均未说明。</p>
+<p>田军伟又向北京工商局申请行政复议，得到的答复是：北京工商局认为百度推广并非广告，不受广告法约束，不存在经营违法广告的前提条件。</p>
+<p>田军伟无奈，对百度提起诉讼，要求民事赔偿。2013年9月，北京第一中级法院做出判决，认定百度推广符合《广告法》关于广告的定义，属于广告。田军伟将法院的判决书转给海淀工商后，海淀工商答复称，已向国家工商总局请示，正在等待答复。“鉴于上述情况，对‘百度推广’是否适用《广告法》进行调整规范尚无定性，因此对你举报的百度可能存在的广告违法行为，我局决定不予立案。”</p>
+<p>直到今年，国家工商局仍然没有将百度“推广”定性为广告，而现在距田军伟第一次向海淀工商局举报百度“推广”已经过去了整整8年。</p>
+<p>5月2日，田军伟接受《21世纪经济报道》的采访时表示，“百度推广中有很多虚假信息，大多数医疗广告都违反《广告法》。我的心愿就是国家工商总局能将百度推广定性为广告直接监管起来，不要再出现魏则西等这样的惨剧。”</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B2%A1%E7%9B%91%E7%9D%A3%E9%83%BD%E6%83%B3%E4%BD%9C%E6%81%B6-%E8%B0%B7%E6%AD%8C%E6%9B%BE%E4%B8%BA%E5%81%87%E8%8D%AF%E5%B9%BF%E5%91%8A%E4%BB%98%E5%A4%A9%E4%BB%B7%E7%BD%9A%E6%AC%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A/?category=18271" rel="tag">虚假广告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9Apapi%E9%85%B1%E6%95%B4%E6%94%B9%E6%94%B6%E6%95%88%E4%B8%8D%E9%94%99/" target="cdt-mirror">【异闻观止】人民日报：Papi酱整改收效不错</a>
+</h2>
+<p><p>近年来，网络语言上广播电视节目、进教科书、入词典，热点频发，引起社会热议；同时大批低俗网络用语的普及化和日常化，也让人猝不及防。</p>
+<p>日前，在互联网上突然爆红的Papi酱系列视频，因主持人时常爆粗口而被勒令整改。广电总局要求其去除粗口低俗内容，符合网络视听行业的节目审核通则要求后，才能重新上线。这一事件也引发网友热议，有人认为这是网络文化的特色，不应过多干涉；<strong>有人认为这次监管是一次良性的互动，或可带来整治网络语言的良机。</strong></p>
+<p>在日益复杂的网络环境下，Papi酱身上所凸显的“话语失范”问题并非孤例。近年来，有关部门的规范与监管出现了真空，致使一些热衷于造词者过分“任性”，低俗语言满天飞。尽管教育部和国家语言文字工作委员会年年发布报告，指出网络低俗语言的危害，但却缺乏根治办法。网络低俗语言该不该管，该归谁管，该怎么管？</p>
+<p><strong>择善而从不善则改，谁来整治“脏乱差”</strong></p>
+<p>网络发展至今，碎片化书写、病毒式传播的“网络流行语”，正全面影响着大众文化视野。但媚俗表达全民风行，庸俗粗鄙大行其道，低俗詈语甚嚣尘上，让很多人不禁感慨：“<strong>如今的互联网越发地重口味了</strong>！”</p>
+<p>对于网络低俗语言的规范和治理，也有不同意见。知乎网友“小昭”认为，网络语言传播快、消亡快、生命周期短的特质，使得其本身带有“自净机制”。从最近席卷网络的“翻船体”，到年初刷屏的“猴赛雷”，网络热词往往都如昙花一现，经不起时间考验，会自行消散。据多家网站对整治网络流行语的专题调查显示，持这样观点的网友不在少数。</p>
+<p>针对这些观点，人民网舆情监测室副秘书长陈晓冉表示：“<strong>如果网络低俗语言大量涌现，聚集了社会戾气，影响了青少年的价值取向，必须及时依法治理。</strong>”</p>
+<p>人民网舆情监测室发布的《网络低俗语言调查报告》指出，期望社会活动中完全不使用脏话，不使用网络低俗语言，不太可能，但这并不意味着媒体报刊可以不加甄别全盘接受。针对网络语言的多样化和个性化，应给予更多疏导和教育，暴戾、低俗的网络词语应予批评。</p>
+<p>“网络语言作为广大群众文化生活的一部分，并不是脱离现实而存在的，对低俗网络语言进行规范和整治也是题中之义。”北京大学中文系教授张颐武说。</p>
+<p>近年来，对于网络语言的规范和整治，教育部、文化部、广电出版总局、网信办和国家语言文字工作委员会等部门都有一些个案，却欠缺一些专门的规范、具体的流程。</p>
+<p><strong>划定底线分清责任，多元治理大可为</strong></p>
+<p>由中国网络传播学会与华中科技大学新闻与信息传播学院主编的《中国新媒体社会责任研究报告》蓝皮书指出：“国家网信办已成为我国最主要的互联网内容规制机构，与工信部、国家新闻出版广电总局等机构通力合作，频繁出台新的新媒体管理政策”。</p>
+<p>专家指出，就治理主体来看，目前互联网治理通常由政府主导，以“自查自纠、责令查处、群众举报”三种形式组合，形成监管模式。而政府作为规制政策的提供者，可以确定大致的方向和明确的底线，由互联网企业具体拟定管理举措，并主导实施。</p>
+<p>从全世界范围来看，监管滞后是普遍存在的问题。陈晓冉认为，我国需要建立新的管理模式，把各相关责任主体都纳入到互联网治理体系中来。“互联网思维强调开放参与、群策群力，主张充分尊重和调动各参与方的积极性，诉诸他们的责任意识和道德良知，因此政府应该鼓励公众积极参与互联网治理。”陈晓冉说。</p>
+<p>“政府的监管其实更多起倡导建立网络礼仪的作用。”张颐武说，“在整治低俗网络语言的议题上，政府应在约束与开放、公权力管控与公民自由表达中保持一种平衡，构建一个健康有序的网络空间，改善互联网发展环境，打造良性生态圈。”</p>
+<p><strong>就近期Papi酱的案例而言，虽说整治行动收效不错，也达成了监管机构与市场主体之间一次有正面意义的良性互动</strong>。但整治时机的滞后，整顿标准的缺失，整改范围的模糊，仍然造成了小范围的负面舆论。</p>
+<p>陈晓冉建议，互联网活力在其创新性，监管者应与时俱进，综合运用引入“法制化”“常态化”“柔性化”等治理手段，形成政府主导下各利益相关方共同参与、多元互动的综合治理模式。</p>
+<p><strong>外立章法内修涵养，标本兼治成合力</strong></p>
+<p>“从长远来看，法制化是互联网治理的根本手段，有法可依也是互联网得以公正有效治理的基础保障。”教育部语言文字应用管理司副司长彭兴颀说，“首先要完善语言文字的法规规章。加快制定《〈国家通用语言文字法〉实施办法》，把职责框定和底线问责作为话语约束的有效机制，强调国家机关、学校、新闻媒体、公共服务行业这四大重点领域，要正确、合法、规范、有序地使用国家通用语言文字。”</p>
+<p>近年来，已有许多人文学者呼吁，借鉴其他国家维护本国语言文字纯洁性的有益举措，制定相应的语言文字保护条例。</p>
+<p>“语言文字是民族文化传承与发展的重要载体，应把学校教育作为加强青少年规范使用语言文字的主阵地，从教材、课程设置、课堂教学和考试标准等方面正本清源，提高青少年规范使用语言文字、开展健康文明的网络生活的意识和能力。”彭兴颀建议。</p>
+<p>在政府相关部门的有力倡导下，2015年，中国语言资源保护工程启动，开展全民阅读活动，举办“汉字听写大会”、“中国成语大会”和“中国诗词大会”，以鲜活的言语风尚、出彩的文化涵养，引发全社会对国民语言能力的关注，培养国民的文化自信和文化自觉，对低俗网络语言行成了一定的抵制之势。</p>
+<p>同时，有关部门也相继出台措施，规范网络词语评选活动，杜绝为网络低俗用语的传播推波助澜。作为我国语言规范的标杆《现代汉语词典》，历经改版也吸纳了诸多网络新词，收录了“雷人”“宅”“山寨”“草根”等网络热词，同时也拒绝了“剩男”“剩女”等具有歧义或歧视色彩的词汇和一些流行但庸俗化的网络词汇。</p>
+<p>陈晓冉表示，严肃的文本教育、公认的文化认知、共同的社会操守、严格的约束机制，唯有遵从这些，才能实现现实与虚拟世界的正向联动，促生网络语言的健康革新，让低俗语言日渐淡出，让文明优美加速生长。</p>
+<p>相关阅读：</p>
+<p><a title="唐映红 | 关于papi酱之答记者问" href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%85%B3%E4%BA%8Epapi%E9%85%B1%E4%B9%8B%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE/">唐映红 | 关于papi酱之答记者问</a></p>
+<p><a title="腾讯新闻 | 网传Papi酱遭广电总局封杀 2016.04.17" href="https://chinadigitaltimes.net/chinese/2016/04/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB-%E7%BD%91%E4%BC%A0papi%E9%85%B1%E9%81%AD%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%B0%81%E6%9D%80/">腾讯新闻 | 网传Papi酱遭广电总局封杀</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9Apapi%E9%85%B1%E6%95%B4%E6%94%B9%E6%94%B6%E6%95%88%E4%B8%8D%E9%94%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?category=18271" rel="tag">Papi酱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81/?category=18271" rel="tag">不同意见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%A0%B8/?category=18271" rel="tag">审核</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B4%E6%94%B9/?category=18271" rel="tag">整改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%BC%A0%E6%92%AD/?category=18271" rel="tag">网络传播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E6%83%85/?category=18271" rel="tag">舆情</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%89%BE%E4%B8%8D%E5%88%B0%E5%A4%A7%E6%81%B6%E4%BA%BA%E7%9A%84%E6%97%B6%E4%BB%A3/" target="cdt-mirror">六神磊磊：找不到大恶人的时代</a>
+</h2>
+<p><p><strong>来自微信账号：六神磊磊读金庸（ID: dujinyong6）</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.jpg" rel="attachment wp-att-436860"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.jpg?resize=475%2C345" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.jpg?resize=300%2C218 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.jpg?w=640 640w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<p><strong>一</strong></p>
+<p>前不久，一个年轻人因病去世了，引发很多关注。</p>
+<p>死亡，是这个世界上最常见的事情之一，但是有一些离世的方式会让我们很难接受。</p>
+<p>他去世的过程大致如此：得了一种罕见病，到处求医无方，最后百度到一家医院，花了很多钱，仍然没有挽回生命。有调查称，这类医院存在诸多问题，劣迹斑斑。</p>
+<p>几乎人人都在追问：这是谁的错？包括我在内，人们都想揪出一个大恶人，为整个事负责。</p>
+<p>我的主业是读金庸。在武侠小说的世界里，惨剧的背后往往都会有一个大恶人。只要你顺藤摸瓜、追根溯源，就会发现一切都是他的阴谋。他是终极的恶的代表，是江湖风波的源头。</p>
+<p>比如《倚天屠龙记》里的“大恶人”是成昆，《天龙八部》里的“大恶人”是慕容博，一切的仇杀都源于他们的阴谋。</p>
+<p>在武侠小说里，大侠们的使命就是寻找大恶人。杀了他，恶就结束了，仇就洗雪了，逝者就瞑目了，公平正义的阳光就重又洒满大地。</p>
+<p>可是，如果书上的大侠来到今天，拿着刀要为魏泽西报仇，他会发现一个魔幻的事实：</p>
+<p>恶明明就在眼前，可他却偏找不到大恶人。</p>
+<p><strong>二</strong></p>
+<p>和我们一样，他会先找到百度，圆睁虎目，擎着刀扑向上地科技园。</p>
+<p>首先百度够“大”，不然为什么是BAT；它还搞了那个糟糕的竞价排名，一种猥琐的赚钱方式；它特别像是那个大恶人。</p>
+<p>正如我们一开始对它口诛笔伐，无数炮火轰向了它，许多文章指向了它，恨不得劈它的雷早点上路。</p>
+<p>可是骂着骂着，我们大家又感觉有点不对，不是吗？一个年轻人患一种病不治死了，主犯是一家互联网公司，这个逻辑是不是有点不对头。</p>
+<p>集中炮轰了几天百度后，越来越多的人犹豫了，一些文章开始反思：</p>
+<p>干掉百度，首恶就伏法了吗？在百度的背后，是不是还有更大的恶人？如果所有人都只注意百度，会不会让真正的大恶人跑了？</p>
+<p>紧接着，有人站出来提醒：快看，莆田系正在全身而退！它才是害死魏泽西的真正的成昆！</p>
+<p>随着目光投向莆田系，更多的劣迹被发现了，似乎一个大恶人正露出庐山真面目。它被揭发为行业毒瘤、违规经营、威胁记者，而且多年前就曾被曝光……</p>
+<p>这一次，我们似乎发现了罪魁祸首了。为魏泽西报仇的大侠应该即刻改道南下，直奔湖建了。</p>
+<p><strong>三</strong></p>
+<p>可是且慢。什么叫大恶人？应该是一切小恶人背后的恶人，是恶的源头，如成昆，如慕容博，如左冷禅。</p>
+<p>莆田系是吗，莆田系配吗，为什么我们总觉得它的背后还有恶人？莆田系是有人管的呀，你见过大恶人还有人管？慕容博有人管吗？莆田系据说还要给人行贿的，你见过大恶人老要行贿吗，左冷禅用行贿拍马屁吗？</p>
+<p>再回头看百度，也是越看越不像大恶人啊，它再大也是有人管的啊，它原来也是有竞争对手的啊，怎么忽然没有了啊。</p>
+<p>还有病逝大学生就诊的引发很大争议的医院，据说在央视也露了脸来着，这个信用背书比百度更厉害，那央视是不是大恶人？我们的大侠是不是又要改道北上，直奔大裤衩？</p>
+<p>大侠真的很不容易，真的很崩溃。</p>
+<p>他会发现，这里和书上的江湖不同——成昆的背后没有人了，左冷禅的背后没有人了，慕容博的背后没有人了。可在今天一些事上，每揪出一个人，总觉得它的背后还站着人。小钻风背后还有总钻风，总钻风背后还有狮子，狮子背后有白象，白象背后有大鹏，如来又是大鹏的亲外甥。</p>
+<p><strong>四</strong></p>
+<p>更可能让大侠崩溃的是，不但人人都不像是大恶人，而且人人都没有直接作恶。每一个他揪出来的人，都可以摊开双手，作TVB状：</p>
+<p>“发生这种事，大家都不想的……”</p>
+<p>“可是你看，我没有害人啊，我只是做了自己业务环节内的一些事而已，至于其它的那些环节，我不能了解呀，我不能干预呀，不是我的能力范围啊。”</p>
+<p>比如：“我只是给医院做了节目而已，我们不治病啊，没说他家不让做啊……”“我只是提供了医院的链接而已，可医院是正规的呀……”“我只是承包医院收病人而已，不能办你们早讲啊，当时不要点头啊……”</p>
+<p>这个时代，一些事情，你揪不出“大恶人”，只有一场心照不宣的共谋，就像东方快车上的谋杀案，每一个人都有份，每一个人又都无辜，谁都参与了，但谁都不是大恶人。</p>
+<p>人类的害人方式，一直在进化。今天进化出的两大新种类，一种叫“互害”，你用你的地沟油害我，我用我的奶粉害回你，大家一起吃瘪。另一种就是所谓的“群害”，大家各自埋头完成作恶链条的一环，最后拼成一件坏事，拆开来都不叫作恶，每个人都可以埋头装无辜。</p>
+<p>就好比我造了云，你提供雷电，他降了雨，最后洪水滔天，一问起来，谁都没有作恶。</p>
+<p>当大侠悲怆地喝问：“到底谁是成昆，给我站出来”的时候，人们各自摆手，有的说“你看我明显不是成昆”，有的说“我只是被成昆利用的”，有的说：“大侠息怒，我对此十分重视，正在严查成昆！”</p>
+<p>你说我们的大侠该杀谁？</p>
+<p>此时此刻，我只能想到赵本山老师的一句小品台词：</p>
+<p>“我告诉你，就这个问题，你杀谁都不好使。”</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%89%BE%E4%B8%8D%E5%88%B0%E5%A4%A7%E6%81%B6%E4%BA%BA%E7%9A%84%E6%97%B6%E4%BB%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%8B%BF%E5%B0%B1%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E8%A1%A8/" target="cdt-mirror">华尔街日报 | 中国要求经济学家勿就中国经济发表悲观看法</a>
 </h2>
 <p><p>中国政府部门正在瞄向一系列新的目标：那些对中国经济持悲观看法的经济学家、分析师和财经记者。</p>
@@ -661,919 +885,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-2/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-2</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg?resize=400%2C559" alt="巴丢草：如何医党" data-recalc-dims="1"></p>
-<p>@mozhixu：你国四大自残： 百度治病，微信养生，专家荐股，微博时政。分别伤害身体，父母，财产和智力，总有一款适合你！</p>
-<p>@blogtd：如果阴间也有知乎，获点赞数量最多的一个回答肯定在问题《做中国人是种怎样的体验》下面。</p>
-<p>@damyata：一条特殊准则普遍存在于希特勒的德国：那些知道的人不说，那些不知道的人不问，那些问的人得不到答案。通过这种方式，典型的德国公民赢得并捍卫了他的无知，而他的无知，似乎让他对纳粹主义的支持有了充分的理由。 #乱翻书 #再度觉醒</p>
-<p>@jajia：如果不实践两早论，那么还有更犬儒的三巴论：闭上嘴巴，管好鸡巴，加紧尾巴。鼓吹移民，只是希望朋友们过得更好一些。我知道这在公共价值上是有问题的，也不必在道德立场上来反对这句话。</p>
-<p>@格瓦拉：【院内故事】孙子问爷爷：你知道吗？每次您视察工作时，动物们都是事先排演多遍，您看不到真实的情况啊！爷爷微笑：我看的就是它们排演的，看看它们是否用心演给我看，这是组织能力的体现……真实情况不是靠这样视察得来的，视察是一种仪式，祖法传下来大家都需要的心照不宣的表演仪式……</p>
-<p>@szstupidcool： 最高指示：“对待知识分子的善意批评，不要揪辫子，不要扣帽子，不要打棍子。”其实这个最高指示，满满的居高临下的圣旨感觉，摆明就是我现在就是奴役着你，你还能怎么着？让你提提意见还是可以的，但是就别太装逼了。</p>
-<p>@hnjhj：对待知识分子的善意批评，不要揪辫子，不要扣帽子，不要打棍子，抓他嫖娼就可以了嘛。</p>
-<p>@江枫时评：开会时称人民，落户时称居民，强拆时称刁民，发怒时称屁民，收税时成了公民，打仗时称亲人。对外，老子有钱，到处撒钱。对内，老子有枪，到处开枪。据说人民的幸福是档和ZF给的，那么人民的痛苦是谁给的？我们只能这样回答：人民的痛苦都是自找的。</p>
-<p>@MyDF：说到退党还有一个笑话，基督徒孙海英，微博大V，被《环球时报》点名批评「党员信教、发表政治煽动以及历史虚无主义言论」，一时间各大官媒纷纷响应，要求孙长老退党， 孙海英回应：「谢谢关心和批评，我受宠若惊！更正：孙海英，男，59岁，非党员。」，做人要讲道理，不能污蔑别人是党员啊？！</p>
-<p>@周濂：在家长制的政治传统中，合法性的依据在于“我是你爸爸”；在独裁或极权主义的政治传统中，合法性的真实基础在于“我比你更强大”；在精英制的政治传统中，合法性的依据在于“我是专家”；在现代民主政治中，政治合法性的基础只能诉诸每一个公民的理性认可。</p>
-<p>@szxiaojl：海口强拆事件，都把那帮政府杂碎人员说成土匪。我一点也不赞同，不要侮辱土匪。土匪做事也有底线即八不抢：1、即残疾人不抢；2、孝子节妇不抢；3、寡妇犊子不抢；4、婚丧嫁娶不抢；5、婊子老鸨不抢；6、学生苦力不抢；7、先生郎中不抢；8、清官还乡不抢。可是想想当今：土匪没做的，谁在做？</p>
-<p>@lxc777：刚毕业做社会新闻，领导老派给我医院相关的选题。当事人通常是罹患疑难重病的人家，还有活生生在医院走廊吐血身亡无人救治的流浪汉。我写他们的遭遇，以求他们得到捐助、恰当的就医机会以及公正的对待。第一次有母亲给我跪下的时候，我心里面就只有愤怒。对这个病人要靠记者来救的社会无比绝望。</p>
-<p>@zmt0516：很多年前就有老军医擅长治疗性病的传说，和平年代的军队无法强奸敌国妇女，为何会有这么多性病病例，军队当中一定暗藏了许多不为人知的交易。</p>
-<p>@blogtd：产房内-妻子：我们的孩子长大了念剑桥还是牛津？丈夫：老婆你醒醒，我们是中国人…妻子：哦，那我们的孩子长大了用谷歌还是百度？</p>
-<p>@njhuar：百毒控制了國內信息入口，而南極惡則控制了言論入口，所以你在朋友圈看見對百毒的轟炸，不要以為企鵝就是天使，覆巢之下安有完卵？</p>
-<p>@WeipingQin：青年魏则西之死，成为当下中国舆论焦点，人们或愤怒或庆幸。百度和莆田联袂作恶多年，监管部门岂有不知之理，丛林中国，生老病死，都是他人盘中餐。弱肉强食，动物凶猛，坑蒙拐骗偷，吃喝嫖赌抽，众恶随意，莫贪国是，哪怕娱乐至死。这是人类世界一个很特别的物种，其生存哲学就是出人头地，混吃等死。</p>
-<p>@Kyou_Kyouu：百度竞价排名这件事儿，让我们知道，给你50万按下一个按钮杀死一个你不认识的人这样的选择题，距离我们一点都不远。</p>
-<p>@zhilushi：网友西乔女士曾经评论到：「百度控制着普通人接触信息时代的入口，却把路标指向邪恶欺骗的世界。它让人们对互联网世界失去信任、对技术失去尊重、在使用这个时代最先进的知识/信息获取方式时感到恐惧。加剧了信息占有乃至智识上的不平等。这种对弱势群体对普通大众的经年累月的作恶，是最深的恶。」</p>
-<p>@libearal：而墙的作用，不是让人们“用不了谷歌只能用百度了”，而是通过对信息的封锁和控制，让人们产生“我们有百度就足够了没必要去用谷歌”的想法。这种信任的根基是虚假的，但是本身却是真实的。</p>
-<p>@Cloudbleu：魏则西的事情爆出来之后，在人提醒后搜了下东方医院换人工心脏手术的系列报道，可怕程度可以说有过之而无不及。逃得过初一逃不过十五，躲过了搜索的虚假广告躲不过恶毒医院，在中国，总有一种死法适合你。</p>
-<p>@huajack：为迎接G20，街上出现了很多临时上岗的女巡警，说是必须大学学历168以上，其实就是没经过训练的花瓶，真遇到突发事件跟普通女性的反应没啥两样，搞得20国领导人到杭州来招嫖似的～</p>
-<p>@heynancy45：说服长辈安装净水器历经数次沟通，央视只花两分钟时间，就能让长辈亲自把净水器卸下来。</p>
-<p>@海獭四四：很好奇中国社会的普遍观念到底把恋爱婚姻当成什么。我觉得为了应付社会压力、传宗接代和改善经济状况的结婚都应该算骗婚。</p>
-<p>@chuhan：“如果你不能坚持看完一集甄嬛传，我觉得你就不适合生活在这里。” 深以为然。</p>
-<p>@Air_Mu：你国的禁欲规则反而让一切都更淫俗。就拿直播网站来说，一大堆条例限制所谓的女主播卖肉行为。可这些网站除了游戏之外最大的卖点其实就是靠那群怪异丑女吸引猥琐男。像TWITCH就没有这样的。因为别人要撸管大可上直接上YOUPORN，色情直播也有正经门路。</p>
-<p>@alang198611：我和室友约定，每晚去街上慢跑半个小时，我们坚持了一个月，效果真的很明显，沿街的烧烤摊都被我们吃遍了。</p>
-<p>@Scswga：第一个月上班只拿到1000元工资，心情很失落。老板安慰我：“别灰心，好好干，下个月会更多。”果然第二个月比第一个月多开了十个会。</p>
-<p>@maylogcom：#转：建议把五一小长假的“长”字去掉，丢人。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%E6%96%B0%E9%97%BB%E9%81%AD%E5%85%A8%E9%9D%A2%E7%A6%81%E8%AF%84/" target="cdt-mirror">【立此存照】任志强留党察看新闻遭全面禁评</a>
-</h2>
-<p><p><strong><a href="http://politics.caijing.com.cn/20160502/4113463.shtml" target="_blank">财经网｜任志强被留党查看一年</a></strong></p>
-<blockquote><p>近日，经西城区纪委常委会议研究并报区委批准，对4起党员干部违纪案件进行了处理，西城区委通报了处理情况：华远集团原党委副书记、董事长任志强同志多次在微博、博客等网络平台和其他公开场合公开发表违背四项基本原则、违背党的路线方针政策等方面的错误言论，其行为严重违反党的政治纪律，决定给予任志强同志留党察看一年处分。</p></blockquote>
-<p><strong>目前，几乎所有在新浪微博内发布上述新闻的媒体认证账号均被限制了评论。</strong>以下截图由数字时代编辑截取自新浪微博：</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91.png" rel="attachment wp-att-436530"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91.png?resize=500%2C221" alt="财经网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/财经网.png?resize=768%2C339 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/财经网.png?resize=1024%2C452 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/财经网.png?w=2090 2090w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-财经网</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB.png" rel="attachment wp-att-436529"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB.png?resize=500%2C222" alt="澎湃新闻" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻.png?resize=300%2C133 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻.png?resize=768%2C341 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻.png?resize=1024%2C454 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻.png?w=2096 2096w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><strong>澎湃新闻</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB.png" rel="attachment wp-att-436528"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB.png?resize=500%2C193" alt="网易新闻" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/网易新闻.png?resize=300%2C116 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/网易新闻.png?resize=768%2C297 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/网易新闻.png?resize=1024%2C396 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/网易新闻.png?w=2084 2084w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><strong>网易新闻客户端</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5.png" rel="attachment wp-att-436527"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5.png?resize=500%2C220" alt="环球时报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环球时报.png?resize=300%2C132 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环球时报.png?resize=768%2C338 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环球时报.png?resize=1024%2C451 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环球时报.png?w=2084 2084w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-环球时报</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E6%B5%AA%E5%A4%B4%E6%9D%A1.png" rel="attachment wp-att-436526"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E6%B5%AA%E5%A4%B4%E6%9D%A1.png?resize=500%2C214" alt="新浪头条" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪头条.png?resize=300%2C128 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪头条.png?resize=768%2C329 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪头条.png?resize=1024%2C438 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪头条.png?w=2094 2094w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-新浪头条新闻</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E6%B5%AA%E8%B4%A2%E7%BB%8F.png" rel="attachment wp-att-436519"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E6%B5%AA%E8%B4%A2%E7%BB%8F.png?resize=500%2C219" alt="新浪财经" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪财经.png?resize=768%2C337 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪财经.png?resize=1024%2C449 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新浪财经.png?w=2088 2088w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-新浪财经</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5.png" rel="attachment wp-att-436520"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5.png?resize=500%2C226" alt="南方日报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/南方日报.png?resize=300%2C136 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/南方日报.png?resize=768%2C347 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/南方日报.png?resize=1024%2C463 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/南方日报.png?w=2312 2312w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-南方日报</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E6%96%B0%E7%BD%91.png" rel="attachment wp-att-436521"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E6%96%B0%E7%BD%91.png?resize=500%2C219" alt="中新网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中新网.png?resize=300%2C131 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中新网.png?resize=768%2C336 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中新网.png?resize=1024%2C448 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中新网.png?w=2320 2320w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-中新网</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%BF%E5%B7%9E%E6%97%A5%E6%8A%A5.png" rel="attachment wp-att-436514"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%BF%E5%B7%9E%E6%97%A5%E6%8A%A5.png?resize=500%2C220" alt="广州日报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/广州日报.png?resize=300%2C132 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/广州日报.png?resize=768%2C338 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/广州日报.png?resize=1024%2C450 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/广州日报.png?w=2088 2088w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-广州日报</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5.png" rel="attachment wp-att-436524"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5.png?resize=500%2C223" alt="联合早报" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合早报.png?resize=300%2C134 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合早报.png?resize=768%2C343 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合早报.png?resize=1024%2C458 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合早报.png?w=2318 2318w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-联合早报</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%A6%99%E6%B8%AF%E6%96%87%E6%B1%87%E6%8A%A5.png" rel="attachment wp-att-436522"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%A6%99%E6%B8%AF%E6%96%87%E6%B1%87%E6%8A%A5.png?resize=500%2C178" alt="香港文汇报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/香港文汇报.png?resize=300%2C107 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/香港文汇报.png?resize=768%2C273 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/香港文汇报.png?resize=1024%2C364 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/香港文汇报.png?w=2316 2316w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-香港文汇报</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" rel="attachment wp-att-436523"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E5%9B%BD%E4%B9%8B%E5%A3%B0.png?resize=500%2C217" alt="中国之声" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国之声.png?resize=300%2C130 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国之声.png?resize=768%2C333 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国之声.png?resize=1024%2C444 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国之声.png?w=2314 2314w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-中国之声</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BD%87%E6%B9%98%E6%99%A8%E6%8A%A5.png" rel="attachment wp-att-436532"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BD%87%E6%B9%98%E6%99%A8%E6%8A%A5.png?resize=500%2C235" alt="潇湘晨报" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/潇湘晨报.png?resize=300%2C141 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/潇湘晨报.png?resize=768%2C362 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/潇湘晨报.png?resize=1024%2C482 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/潇湘晨报.png?w=2310 2310w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-潇湘晨报</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BB%8A%E6%99%9A%E6%8A%A5.png" rel="attachment wp-att-436513"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BB%8A%E6%99%9A%E6%8A%A5.png?resize=500%2C226" alt="今晚报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/今晚报.png?resize=300%2C136 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/今晚报.png?resize=768%2C347 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/今晚报.png?resize=1024%2C463 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/今晚报.png?w=2330 2330w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-今晚报</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B3%95%E7%BD%91.png" rel="attachment wp-att-436515"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B3%95%E7%BD%91.png?resize=500%2C169" alt="法网" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/法网.png?resize=300%2C101 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/法网.png?resize=768%2C259 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/法网.png?resize=1024%2C345 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/法网.png?w=2302 2302w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-法网</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/vista%E7%9C%8B%E5%A4%A9%E4%B8%8B.png" rel="attachment wp-att-436516"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/vista%E7%9C%8B%E5%A4%A9%E4%B8%8B.png?resize=500%2C221" alt="vista看天下" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/vista看天下.png?resize=768%2C339 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/vista看天下.png?resize=1024%2C452 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/vista看天下.png?w=2320 2320w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-Vista看天下</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93.png" rel="attachment wp-att-436517"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21%E4%B8%96%E7%BA%AA%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93.png?resize=500%2C214" alt="21世纪经济报道" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21世纪经济报道.png?resize=300%2C128 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21世纪经济报道.png?resize=768%2C329 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21世纪经济报道.png?resize=1024%2C438 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/21世纪经济报道.png?w=2314 2314w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-21世纪经济报道</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%AF%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E6%96%B0%E9%97%BB.png" rel="attachment wp-att-436525"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%AF%8F%E6%97%A5%E7%BB%8F%E6%B5%8E%E6%96%B0%E9%97%BB.png?resize=500%2C212" alt="每日经济新闻" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/每日经济新闻.png?resize=300%2C127 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/每日经济新闻.png?resize=768%2C326 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/每日经济新闻.png?resize=1024%2C434 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/每日经济新闻.png?w=2316 2316w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-每日经济新闻</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%83%BD%E5%B8%82%E5%BF%AB%E6%8A%A5.png" rel="attachment wp-att-436518"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%83%BD%E5%B8%82%E5%BF%AB%E6%8A%A5.png?resize=500%2C227" alt="都市快报" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/都市快报.png?resize=300%2C136 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/都市快报.png?resize=768%2C348 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/都市快报.png?resize=1024%2C464 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/都市快报.png?w=2308 2308w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-都市快报</p>
-<p><strong>出于某种不为人知的原因，以下两位蓝V是唯一未被限制评论的媒体账号：</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B5%B7%E7%96%86%E5%9C%A8%E7%BA%BF.png" rel="attachment wp-att-436534"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B5%B7%E7%96%86%E5%9C%A8%E7%BA%BF.png?resize=500%2C214" alt="海疆在线" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/海疆在线.png?resize=300%2C128 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/海疆在线.png?resize=768%2C328 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/海疆在线.png?resize=1024%2C438 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/海疆在线.png?w=2320 2320w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-曾<a href="http://chinadigitaltimes.net/chinese/2015/02/%E5%B7%A6%E6%B4%BE%E7%BD%91%E7%AB%99%E6%B5%B7%E7%96%86%E5%9C%A8%E7%BA%BF-%E7%96%91%E8%A2%AB%E5%B0%81/" target="_blank">一度被停止解析</a>的海疆在线网</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD.png" rel="attachment wp-att-436533"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B2%B3%E5%8D%97%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD.png?resize=500%2C228" alt="河南新闻广播" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/河南新闻广播.png?resize=300%2C137 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/河南新闻广播.png?resize=768%2C350 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/河南新闻广播.png?resize=1024%2C467 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/河南新闻广播.png?w=2308 2308w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-河南新闻广播</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/07/%E8%83%B6%E5%B8%A6%E5%98%B4-copy.jpeg" rel="attachment wp-att-396980"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/07/%E8%83%B6%E5%B8%A6%E5%98%B4-copy.jpeg?resize=400%2C531" alt="胶带嘴 copy" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/07/胶带嘴-copy.jpeg?resize=226%2C300 226w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/07/胶带嘴-copy.jpeg?w=716 716w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><span>当代水墨画 “胶带嘴” by 秃头倔人</span></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/ziyu2000" target="_blank">@亦同009</a>：任总没嫖娼，我就放心了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2471169362" target="_blank">@yue出dong山</a>：任先生居然没被开除党籍，一生的污点啊……<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/hellobinggege" target="_blank">@田野VN</a>：各媒体集体关评论！<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p>@王小_82313：5毛都懒的花了。</p>
-<p><a title="一套子_" href="http://weibo.com/2486955037">@一套子_</a>：关闭评论的可见自己都不愿看见自己的一副嘴脸，容不得别人说他半点不是<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3184406702" target="_blank">@斗者之魂</a>：还能再心虚点吗，不许评论的笑死了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/qqmen" target="_blank">@发型师烟叶</a>：宇宙真理支部：全网查删评论<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p>@回归真我V：皇帝的新衣 光着屁股也不能说。</p>
-<p>@水行君：所有转发这条通稿的媒体微博，似乎只有这个没有关闭评论。如果处理是对的，为什么害怕评论呢？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BB%BB%E5%BF%97%E5%BC%BA%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%E6%96%B0%E9%97%BB%E9%81%AD%E5%85%A8%E9%9D%A2%E7%A6%81%E8%AF%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">任志强“反党”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%BF%97%E5%BC%BA%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%85%B3%E9%97%AD/?category=18271" rel="tag">任志强微博被关闭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90-%E8%B5%B7%E5%BA%95%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%BC%95%E5%8F%91%E5%85%AC%E6%84%A4%E7%9A%84%E5%8C%BB%E9%99%A2%E7%A7%91%E5%AE%A4%E8%83%8C%E5%90%8E%E7%9A%84%E8%8E%86%E7%94%B0/" target="cdt-mirror">搜狐弧度 | 起底调查：引发公愤的医院科室背后的莆田系身影</a>
-</h2>
-<p><p>22岁的西安电子科技大学计算机专业学生魏则西，因罹患恶性肿瘤滑膜肉瘤，于今年4月12日去世。半个月后，他在知乎讲述被位列百度搜索结果首位的医院蒙骗的经历，经网友转发后再次引发公众对百度医疗广告模式的口诛笔伐。</p>
-<p>被质疑后，魏则西曾就诊的武警北京市总队第二医院（下简称“武警北京二院”）肿瘤生物治疗中心条目被从搜索结果中撤掉。百度方面继而表示该医院资质齐全。而经弧度调查，武警北京二院虽为公立三甲医院，但其肿瘤生物治疗中心背景复杂，不仅网站注册资料繁杂混乱，不仅域名所有者为莆田系公司，而且与莆田系关联公司关系异常密切。</p>
-<p>不过，对武警北京二院肿瘤生物诊疗中心被承包的说法，院办工作人员称，该中心仍归医院管理。</p>
-<p><strong>知乎上回顾被蒙骗经历 百度搜索结果为信息起点</strong></p>
-<p>“百度，当时根本不知道有多么邪恶，医学信息的竞价排名，还有之前血友病吧的事情，应该都明白它是怎么一个东西。”这是今年2月26日，魏则西在知乎问题“你认为人性最大的【恶】是什么？”下讲述自己被位列百度搜索结果首条的医院蒙骗经历时写下的一句话。</p>
-<p>魏父魏海全亦证实，当初用百度搜索“滑膜肉瘤”，得到的第一个结果就是武警北京二院肿瘤生物治疗中心的推广内容。他告诉搜狐新闻弧度栏目，在经历两次专程赴京踩点、现场询问专家和其他患者家属、以及搜索权威报道等过程后，自己才最终决定让唯一的爱子在此就诊。</p>
-<p>“你说你信不信？他们打出来的是跟美国斯坦福在一块合作，你信不信？中央电视台报道，你信不信？北京电视台报道，你信不信？”</p>
-<p>从2014年9月开始，魏则西以每三个月一次的频率，先后四次接受生物免疫治疗，但到2015年7月为止，“又转移又复发，复发两次”，魏母回忆，魏则西也曾写道，花费二十多万元后，癌细胞还是转移到肺部，“医生当时说我恐怕撑不了一两个月了”。</p>
-<p>魏父后来也得知，这家多次被中央电视台、北京电视台报道、也在百度搜索结果排名首位的“正规三甲、部队医院”所宣称“世界最先进”的生物免疫疗法，实际因有效率太低早已被美国淘汰。微信公众号“有槽(Dr-Venting)”在4月29日下午电话访问了斯坦福医学院媒体关系部的Becky Bach女士。她表示，斯坦福并未与中国的任何一家医院从事细胞治疗方面的合作，当中包括北京武警二院，她不理解为什么该院在宣传中会强调是从该院引进技术。</p>
-<p>当魏家上述的惨痛经历通过大量微博转发呈现在公众眼前，对百度医疗广告模式的谴责再次引爆舆论。尤其微博用户@孔狐狸 4月27日晚截图转发魏则西的回答帖时提到，通过百度搜索“滑膜肉瘤”，武警北京二院仍旧排在搜索结果首位。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.07.33.png?resize=594%2C334" alt="Screen Shot 2016-05-02 at 下午5.07.33" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.07.33.png?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.07.33.png?w=594 594w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"><br><span>截至4月28日中午，在百度搜索“滑膜肉瘤”，位列搜索结果首条的仍是魏则西曾就医的武警北京二院肿瘤生物治疗中心。</span></p>
-<p>28日上午的搜索结果依然如此。</p>
-<p>但在百度推广客服官方微博@百度推广小度 回应此质疑时称“已经协助反馈核实”几小时后，武警北京二院肿瘤生物治疗中心条目已无显示，从当晚开始，该网页一直显示错误，无法打开。</p>
-<p>当天下午，推广官方微博@百度推广 发布声明， “我们第一时间进行了搜索结果审查，该医院是一家公立三甲医院，其提交给百度的资质齐全”。微博中，@百度推广 还附上《武警部队单位对外有偿服务许可证》复印件。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.08.20.png?resize=596%2C414" alt="Screen Shot 2016-05-02 at 下午5.08.20" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.08.20.png?resize=300%2C208 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.08.20.png?w=596 596w" sizes="(max-width: 596px) 100vw, 596px" data-recalc-dims="1"><br><span>百度推广官微提供的武警北京二院的资质证明。来源：@百度推广</span></p>
-<p>5月1日凌晨，@百度推广 再度更新，称面对网友质疑，“我们正积极向发证单位及武警总部主管该院的相关部门递交审查申请函，希望相关部门能高度重视，立即展开调查，如果调查结果证实武警二院有不当行为，我们全力支持则西家属通过法律途径维权。”</p>
-<p><strong>起底调查：武警北京二院名下30个域名 注册信息五花八门</strong></p>
-<p>经搜狐新闻弧度栏目调查，百度声明中“该医院是一家公立三甲医院，其提交给百度的资质齐全”的说法亦值得考究：尽管武警北京二院确实为公立三甲医院，但百度投放了“滑膜肉瘤”关键词的机构，是否即武警北京二院法人主体，或说投放关键词的机构和提供资质的机构之间究竟是什么关系，却依然存在问题。</p>
-<p>问题1：“武警北京二院”为什么在百度投放了65个网站？</p>
-<p>这次被质疑的“北京武警二院肿瘤生物治疗中心”网站，为百度信誉V认证网站，在其百度商家信誉档案中，认证名称即“中国人民武装警察部队北京市总队第二医院”，性质是“企业”，认证类型是“实名认证”，合作时长122个月。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.09.32.png?resize=601%2C308" alt="Screen Shot 2016-05-02 at 下午5.09.32" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.09.32.png?resize=300%2C154 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.09.32.png?w=601 601w" sizes="(max-width: 601px) 100vw, 601px" data-recalc-dims="1"><br><span>北京武警二院肿瘤生物治疗中心的百度商家信誉档案显示，“该机构旗下网站”有65个。</span></p>
-<p>档案同时显示“该机构旗下网站”有65个。弧度逐一打开查询后发现共30个网站（详见列表）名称与武警北京二院相关，其中24个以“中国人民武装警察部队北京市总队第二医院”冠名，只是科室不同，包括癫痫科、精神科、麻醉科、儿童厌食症科，以及自闭症专科，传染科等等；另外还有4个以“武警北京总队第二医院”冠名、2个以“北京武总第二医院”冠名。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.10.21.png?resize=596%2C351" alt="Screen Shot 2016-05-02 at 下午5.10.21" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.10.21.png?resize=300%2C177 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.10.21.png?w=596 596w" sizes="(max-width: 596px) 100vw, 596px" data-recalc-dims="1"><br><span>30个网站名称与武警北京二院相关，但工信部备案信息查询结果显示，其基本都与医院无关。弧度制图</span></p>
-<p>问题2：“武警北京二院”为什么投放了上海的医院网站？</p>
-<p>上述65个网站中，除30个名称与武警北京二院相关外，还有35个网站或打不开，或为看起来和其毫无关系的医院，如“北京大慈中医医院”、“北京白癜风医院”等。甚至还一个地址为www.tj555.com的网站，显示“上海虹桥胎记医院”，其实体地址位于上海。</p>
-<p>问题3：“武警北京二院”和“BDV-312934279”是什么关系？</p>
-<p>百度信誉档案还显示，“武警北京二院”的“主体识别码”为BDV-312934279，实际上，这是指提供了“武警北京二院”资质证明的“BDV-312934279”在与百度合作，并投放“滑膜肉瘤”等关键词，让网民在百度搜索相关病种时被引导到“武警北京二院”，但二者之前的关系不得而知。</p>
-<p>问题4：“武警北京二院”的ICP备案信息为什么是“葫芦岛订房网”？</p>
-<p>根据65家网站标示的ICP备案号在工信部网站查询，又会发现上述网站的备案信息基本都与医院无关，包括“久久印象”、“开心的”、“开心就好”、“广阔导航”、“葫芦岛订房网”“我的路”等等在内的注册名称，更无一与武警北京总队第二医院相关。前述“武警北京二院肿瘤生物治疗中心”网站，在备案信息里的名称为“信息网”。</p>
-<p>另一方面，弧度却始终未能找到“武警北京总队二院”真正的官网。</p>
-<p><strong>涉事科室域名所有者为莆田系公司</strong></p>
-<p>更值得注意的是，搜狐新闻弧度栏目查询武警北京二院肿瘤生物治疗中心的域名bjwj2y.com，其在注册资料里显示的注册组织名为：KangXin Hospital Investment And Management CO.,LTD。而以这个公司名注册的域名，还有 “辽宁省人民医院肿瘤生物治疗中心”、“湖北省肿瘤医院生物免疫治疗中心”。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.11.18.png?resize=566%2C470" alt="Screen Shot 2016-05-02 at 下午5.11.18" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.11.18.png?resize=300%2C249 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.11.18.png?w=566 566w" sizes="(max-width: 566px) 100vw, 566px" data-recalc-dims="1"></p>
-<p>武警北京二院肿瘤生物治疗中心的域名注册资料显示，注册组织名为：KangXin Hospital Investment And Management CO.,LTD。</p>
-<p>在领英网用英文搜索该公司名，唯一结果为Shanghai Kangxin Hospital Investment Management Co.,Ltd。显然这是一家中国公司，位于上海，中文名直译应是“上海康新医院投资管理有限公司”（以下简称“康新公司”）。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.11.59.png?resize=594%2C516" alt="Screen Shot 2016-05-02 at 下午5.11.59" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.11.59.png?resize=300%2C261 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.11.59.png?w=594 594w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"></p>
-<p><span>公开资料显示，康新医院投资管理集团有限公司由莆田系医疗企业中排名靠前的大老板陈新贤成立。</span></p>
-<p>弧度发现，网上关于该公司的资料，很多都注明法定代表人是陈新贤。四川福建商会关于陈新贤的介绍资料称，他在新加坡注册成立华康医疗投资集团有限公司，在上海注册成立康新医院投资管理集团有限公司。“华康集团和康新集团是集医疗、投资、开发为一体的多元医疗投资实体，开启了国内医疗投资合作模式的新纪元，现年产值已经突破30多亿元。”</p>
-<p>当听闻武警北京二院名下网站注册资料繁杂混乱，且肿瘤生物治疗中心域名所有者为莆田系公司时，魏海全反问弧度：“你是说这个科室属于莆田系承包？”“我的妈，太可怕了！”</p>
-<p>据莆田系医疗公司内部知情人士张利（化名）介绍，陈新贤和陈新喜兄弟是莆田系医疗企业中排名靠前的大老板。莆田（中国）健康产业总会报道显示，陈新贤还是莆田（中国）健康产业总会常务副理事长。</p>
-<p>“莆田系”是对莆田籍人士掌握的以游医起家的系列医疗企业的俗称，在发家过程中因各种医疗丑闻而充满争议。据南方周末2014年报道，“莆田系”医院已占中国民营医院的近八成。</p>
-<p>另据微信公众号“有槽(Dr-Venting)”介绍，因为细胞免疫治疗难度并不高，有能力的医院自己做符合GMP标准的细胞操作间，没能力的则将相关业务外包给多家生物公司来做。由康新公司“承包”或“入股”的武警北京二院肿瘤生物治疗中心就属于后者，他们的技术合作伙伴是上海柯莱逊生物技术有限公司（下简称“柯莱逊公司”）。</p>
-<p>据柯莱逊公司官网介绍，其董事长也是陈新贤。柯莱逊公司除帮武警北京二院肿瘤生物治疗中心发布护士招聘广告外，也在各地招聘肿瘤科医生、临床医生、护士等提供临床治疗的员工，甚至包括网络竞价专员。</p>
-<p>“有槽(Dr-Venting)”总结，他们的业务模式是：“莆田人士陈新贤的康新公司通过承包科室等方式，管理多家公立医院肿瘤科室，从事医院和科室官网建设和维护、百度竞价、在线咨询导医，甚至直接参与临床治疗；陈新贤与其弟陈新喜的柯莱逊生物公司为这些肿瘤科室提供技术服务。”</p>
-<p><strong>现场探访：患者大多由百度搜索结果引导而来</strong></p>
-<p>4月30日，搜狐新闻弧度栏目曾拨打武警北京二院肿瘤生物治疗中心网站上的号码询问魏则西治疗情况，工作人员称未查到他的就医记录，另一号码的接听者却称，魏则西的主治医生李志亮已经退休回老家。现任肿瘤生物治疗中心主任李慧敏，则一直拒接电话。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.13.06.png?resize=595%2C444" alt="Screen Shot 2016-05-02 at 下午5.13.06" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.13.06.png?resize=300%2C224 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.13.06.png?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"><br><span>位于武警北京二院住院部一层的肿瘤生物治疗中心分诊台后挂着“生物诊疗中心”字样招牌。蔡芳予/摄</span></p>
-<p>5月1日上午，弧度前往武警北京二院探访，首先发现位于住院部一层的肿瘤生物治疗中心分诊台后挂着“生物诊疗中心”字样招牌，与网站介绍名称不符。之后随机交谈的五名癌症患者中，有四名跟魏海全一样，由百度搜索排名靠前的结果引导而来，搜索关键词包括“肿瘤”、“肺癌”、“癌细胞转移不化疗怎么治”等。</p>
-<p>“感觉还是这家比较权威，因为是武警医院嘛，军区医院各方面的条件比较好，方案比较成熟。”来自四川的刘女士说，肿瘤生物治疗中心官网上，曾有宣传语称通过“生物诊疗”延长病人寿命的概率在百分之八十左右，到医院后，医生也这样告诉她。另两名则表示未被医生承诺治愈。</p>
-<p>他们中也有一名曾通过在网站上输入诊断证明得到医生答复。更多综合看网站宣传和当面询问医生的人，对“生物诊疗”的一个普遍认知是，无痛、疗程短、效果好，即使没有起到效果，最差的结果也是维持癌细胞不扩散。在此治疗一个疗程的费用大约在3至6万元之间。</p>
-<p>还有患者向弧度介绍起肿瘤生物治疗中心的“大咖”专家，主任医师温洪泽。“这个温主任是09年参加三人小组的（成员之一），这是从美国和日本引进的技术。看它的宣传，1970年是一个加拿大的科学家发明的这个，11年获得国际诺贝尔奖。”</p>
-<p>弧度注意到，温洪泽的名片背面，专门印有“多细胞生物治疗 2011年诺贝尔医学奖成果”字样，当以患者名义问起该成果，他答道：“（诺贝尔奖）它有电视，你不要看，它那个是讲D3（音）细胞的报道，讲的不是我们。”但他随后又称，D3细胞的确获得诺贝尔奖，“大家都在做D3，包括307医院，我们做的那个也是D3。”不过，上述五名癌症患者及其家属均称不知温洪泽所言为何。</p>
-<p>此外，微信公众号“有槽(Dr-Venting)”也对肿瘤生物治疗中心所宣称与“斯坦福合作”的之事进行了核实，4月29日下午，美国斯坦福医学院媒体关系部的Becky Bach女士在电话中表示，斯坦福并未与中国的任何一家医院从事细胞治疗方面的合作，当中包括北京武警二院，她不理解为何其在宣传中会强调是从该院引进技术。</p>
-<p><strong>也许是一种有前途的疗法 但从未获批进入临床治疗</strong></p>
-<p>搜狐新闻弧度栏目检索发现，中央电视台新闻频道2011年9月21日一则报道曾介绍过武警北京二院肿瘤生物治疗中心最新研制的肿瘤绿色疗法——生物细胞免疫治疗。据业内人士介绍，该疗法是指医生通过抽取肿瘤患者的免疫细胞，在体外扩增和加工，并重新输回患者体内，从而达到提高患者免疫能力，抑制或预防肿瘤生长转移扩散的目的。报道称，当时卫生部（现卫计委）已将这种疗法列入第三类医疗技术在部分三甲医院进行推广，部分地区也将生物细胞免疫治疗纳入医保报销范围。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.14.02.png?resize=582%2C346" alt="Screen Shot 2016-05-02 at 下午5.14.02" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.14.02.png?resize=300%2C178 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.14.02.png?w=582 582w" sizes="(max-width: 582px) 100vw, 582px" data-recalc-dims="1"><br><span>2011年9月，中央电视台新闻频道对武警北京二院肿瘤生物治疗中心最新生物细胞免疫治疗的报道。来源：土豆网视频</span></p>
-<p>但在《南方周末》2014年9月4日在报道中指出，癌症免疫细胞疗法尚未得到任何官方有效性和安全性的认可，这项技术虽在中国流行，实际已被西方发达国家淘汰，并正在临床试验更先进的技术。</p>
-<p>果壳网针对本次事件发表文章澄清说“真正的癌症免疫疗法”，确实是一个颇有前途（哪怕还不能给出明确答案）的癌症治疗方向，但并没有机构获准将这些方法投入临床治疗。</p>
-<p>癌症免疫细胞疗法自进入国家监管部门视野之后的十余年间，几经波折却依旧处于监管盲区。肿瘤科医生希波（化名）也向弧度介绍，因免疫疗法为卫生行政部门严格控制管理、属于“安全性、有效性没有得到证实的，存在着重大伦理风险的医疗技术”，他曾就其临床试验结论和具备资质的医疗机构名录等内容提出信息公开申请，卫计委回复显示，截止2014年8月25日，所有国内免疫疗法，包括该疗法的临床试验均未经审批。但从去年7月起，卫计委取消第三类医疗技术临床应用准入审批，“等于是把这种疗法解套了”。</p>
-<p>微信公众号“有槽(Dr-Venting)”同时提出，免疫细胞治疗被限定在临床研究范畴，医院可以开展免疫治疗临床研究，但原则上不得收取任何费用。实际情况却是，“一项本应通过三期临床、在有效性、适应症等诸多方面得到明确解答的实验性技术，现在已在全国各地医院成为重要的治疗手段和赢利工具。”</p>
-<p>对于魏则西接受过的DC-CIK疗法，希波称，截至目前没有证据证明其能抗癌，“这是一种落后技术。”</p>
-<p><strong>代理商：百度信誉V认证600元轻松加</strong></p>
-<p>在此番针对百度医疗广告模式的口诛笔伐中，有人从法规角度阐释武警北京二院肿瘤生物治疗中心打的“是一个彻彻底底违法的广告”，其多个表述违反2015年9月1日开始实行《医疗广告管理办法（修订稿）》（下简称《办法》）。</p>
-<p>微博用户@我还是想改名 列举，比如，《办法》规定医疗机构不得以内部科室名义发布医疗广告，但百度接受了武警北京二院下属肿瘤生物治疗中心的广告；再比如，医疗广告的表现形式中不得含有说明治愈率或者有效率的，涉及医疗技术、诊疗方法、疾病名称、药物的，以及使用解放军和武警部队名义的内容。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-%E4%B8%8B%E5%8D%885.14.46.png?resize=613%2C360" alt="Screen Shot 2016-05-02 at 下午5.14.46" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.14.46.png?resize=300%2C176 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-02-at-下午5.14.46.png?w=613 613w" sizes="(max-width: 613px) 100vw, 613px" data-recalc-dims="1"></p>
-<p>武警北京二院肿瘤生物治疗中心网页上多个表述违反2015年9月1日开始实行《医疗广告管理办法（修订稿）》。</p>
-<p>也有人翻出百度曾承诺若加V搜索结果骗人全额赔付的声明。这份@百度推广 曾在2014年“3.15”发布声明称“目前百度已经对所有推广结果进行了严格的信誉V认证，所推广机构，包括医疗机构必须通过百度和第三方专业机构的联合认证才能在百度进行推广。如果网民在加V搜索结果中受骗上当，百度将给予全额赔付。”但搜狐新闻弧度栏目调查后发现，企业办理加V认证的流程其实并不复杂。</p>
-<p>据百度信誉官网介绍，“实名认证”的办理费用为600元/年。弧度以承包了某医院某科室为由向北京地区一家代理商咨询，工作人员告知，办理加V认证流程并不复杂：“需要提供营业执照、组织机构代码、法人身份证、医疗执业许可证，资质有了，网站也有的话，打电话，把这些扫描件发过来，咱们直接走流程就可以。网上签协议，然后盖章，打款。这个产品很简单，比如今天您提供资质，今天提交，一般当天就过了，只要资质没问题，一两天就够了。”如果签订1800元/3年的协议，还可增送一个信誉名片。</p>
-<p>该工作人员还提示，“承包科室的话，提交营业执照，医院的人家也未必给你用，如果用你自己的，营业执照是什么行业，我们认证出来就什么行业。”</p>
-<p><strong>业内人士抱怨 乱象源于部队医院不归卫计委管理</strong></p>
-<p>谈及由武警北京二院肿瘤生物治疗中心乱象引发的反思，医生希波提出，“虽然部队医院不归卫计委管，但部队医院并不只是给军人看病，它还给老百姓看病，这种医疗关系法理上卫计委应该能约束到。”两名熟知医疗行业的观察人士亦表示，解决问题的关键之一在于部队医院能够得到更加有效的监管。</p>
-<p>以2013年9月卫计委联合包括总后勤部卫生部医管局和武警部队后勤部卫生部在内的共计六个部门联合开展打击非法行医专项行动为例，一名接近卫计委的权威人士向搜狐新闻弧度栏目介绍，因为“有一个管辖权的问题”，尽管行动标准、要求均相同，实际工作却是“谁的医院谁来管”。</p>
-<p>弧度看到，上述专项行动方案中，明确要求解放军各大单位卫生部门和各武警总队参照地方单位同步执行，行动领导小组成员名单也显示，解放军总后勤部和武警部队后勤主管部门相关负责人均参与其中。</p>
-<p>此后的多次工作进展和成果通报文件，屡屡出现“要加强军地协调配合，特别是对于涉嫌假冒军队医疗机构、医务人员非法行医的，军队和地方有关部门要统一行动，齐抓共管，确保查处到位”、“军地各级相关部门按照各地领导小组的统一部署，分工明确，配合密切”等表述。2014年2月一次通报还介绍，在三个月的集中整治阶段，军队系统清理违规医疗合作项目44个，辞退违规聘用医务人员168名，关停假冒军队医疗机构网站46个，查处假冒军队医务人员13人，移送地方假冒军队医疗机构非法行医事件23起。</p>
-<p>“实际是两套系统，如果我们接到涉及部队医院的线索，会转给部队后勤部卫生部那边，我们不可能去人家的地方暗访、调查，基本来讲是分开的，他们怎么处理，结果一般也不反馈给卫计委，就在最终形成报告对外公布的时候，会有一个汇总”，上述权威人士说。</p>
-<p>该人士也坦言，过去的十多年间，卫计委一直严厉打击医院外包科室行为，但其不了解部队卫生主管部门如何就此展开工作。</p>
-<p>另据中央军委今年3月印发《关于军队和武警部队全面停止有偿服务活动的通知》的要求，中央军委计划用3年左右时间，分步骤停止军队和武警部队一切有偿服务活动，其中就包括医院。上述权威人士表示，未来只要部队医院划归地方，作为卫生行政主管部门，卫计委将会像对待地方医院一样，“能管的肯定会管。”</p>
-<p>5月1日下午，弧度向武警二院医院求证肿瘤生物诊疗中心被承包的说法，院办助理高先生及另一工作人员均称，该中心是医院的，仍归医院管理。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90-%E8%B5%B7%E5%BA%95%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%BC%95%E5%8F%91%E5%85%AC%E6%84%A4%E7%9A%84%E5%8C%BB%E9%99%A2%E7%A7%91%E5%AE%A4%E8%83%8C%E5%90%8E%E7%9A%84%E8%8E%86%E7%94%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E9%99%A2%E5%A4%96%E5%8C%85%E7%A7%91%E5%AE%A4/?category=18271" rel="tag">医院外包科室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%93%E8%80%81%E6%9D%BF%E8%81%8A%E7%A7%91%E6%8A%80-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E9%98%9F%E3%80%81%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%8E%BB/" target="cdt-mirror">卓老板聊科技 | 为什么军队、武警医院绝不能去</a>
-</h2>
-<p><p>很早以前我做过一期节目《年轻人的心脏病与猝死》，那次是我们公司请来了协和医院心外科的主任，给我们做科普，我整理的材料，其中医生有一个观点就是说军队医院、武警医院决不能去，本来是一个痛点可以好好聊聊，但是一直没有什么好材料，今天我们就从这一点说起。百度这回把各种疾病的贴吧贩卖给莆田系民营医院的负面确实闹得非常大，而且还愈演愈烈，尽管百度这次依然像从前很多次那样，用丰富的公关经验，在24小时之内就做出了迅速回应，停止一切疾病贴吧的商业化运营，取消了骗子医院贴吧上的管理权。看上去速度快，力度大，还挺诚恳，但这只是百度公关的手段而已，2008年央视《每周质量报告》用长篇报道曝光过百度在搜索结果中采用竞价排名的方式，存在大量虚假药片广告的问题，当时百度也是用同样迅速坚决的方式给大众交代的，但2011年新闻30分又连续2天报道百度搜索结果中竞价排名靠前的医院都是骗子的大篇幅报道。百度再一次做了信誓旦旦的保证。但是2016年初，这次血友病贴吧的事曝出后又人把百度各种疾病吧都做了调查统计，大约40%的疾病吧已经卖给了各种民营医疗机构。所以算起来这已经是百度第三次在同样的罪行上被人揪出来了。</p>
-<p>之所以每次都能化险为夷，除了百度有丰富的危机公关经验外，他们统治着整个中国互联网搜索引擎也能起到很大作用，比如搜百度血友病吧事件，百度上的搜索结果被优化到只有5.2万个，360搜索的市场份额不到百度的十分之一，但是结果都有31.4万，可以这样理解，百度利用自己本身就是搜索垄断，把本该是314万篇负面报道削减到5.2万个，而且搜索结果的第一名还是一篇替百度撑腰的文章。08年和11年的两次虽然和这次本质上一样，但这次是百度遇到的最大的公关危机，原因就是移动端的流量百度搜素引擎无法统治。况且大量文章还是在腾讯微信上，百度更无法控制。所以这次血友病吧事件也可以从互联网信息传播大战的角度来看。</p>
-<p>咱们说回为什么军队医院和武警医院绝对不能去吧，这是因为绝大部分军队医院治疗妇科病，男科，皮肤病，不孕不育，痔疮，肝病，牙科，眼科，整形美容，性病，增高，这些相关的科室都已经被承包出去了，大部分指的是多少呢，具体来说就是99%以上的非三甲的军队医院，武警医院的这些科室都已经是莆田系医院承包出去的了。还有少部分北上广深的三甲军队、武警医院的个别科室也已经承包出去了。别看你去的是军队医院，武警医院，但要的就是这种效果，以为人民子弟兵不会骗你，但其实等在诊疗室里面的就是莆田系骗子医生，他们的处方、药物、全部是自己渠道获得的，有相当多药物没有国家药监局批文。</p>
-<p>现在全国民营医院11000家，莆田系民营医院就有8000家，在莆田，民营医疗系有著名的四大家族：陈，詹，林，黄。这四个人曾经的履历都是游医，就是赤脚医生，但到了2016年这四大家族已经有上百人的个人资产过亿了。根据卫生部公布的《中国卫生年鉴》的数据，到目前为止，虽然在数量上公立医院与民营医院基本持平，但是在诊疗人数上却呈现出15∶1的结构。民营医院的消费占医院总体的6%</p>
-<p>这类骗子医生其实最早是从文革期间的赤脚医生演变过来的，什么是赤脚医生呢，就是1960几年到1970几年，那些没经过正式医学教育，的半农半医的农村医疗人员，当时中国一片大乱，医疗资源极其紧缺，毛主席号召大力发展赤脚医生，甚至还鼓励城市医生向赤脚医生学习，在那个年代赤脚医生能不能治病，我看是没什么希望能治好，但是因为人数众多，比如1977年统计，全国已经有150多万赤脚医生了。你看，直到2014年我国执业医师数量才刚刚202万人，那个时候就涌现了150万无证，也没接受过正规医学教育的赤脚医生，所以数量还是非常庞大的，他们70%都是初中及以下学历，只是对常见病的经验比一般人丰富一些，有些甚至能做接生这样的工作，虽然治疗、诊断疾病方面基本靠阴阳五行这些中医话术，但确实给更大多数的病人一种感觉，就是起码病了以后有医生来照管他们了，虽然这“医生”是带引号的。这么一来也就缓解了医患需求严重不平衡的问题。等到文革结束，直到1985年我国才正式终止了赤脚医生这种叫法，之后都改叫做“乡村医生队伍”。你想，要消化150万无证医生的生计问题，不那么简单，你不能简单一刀劈，说这些人从此不能行医了，所以对他们的管理差不多就是不管理，拖下去，从1967年拖到了2004年，接近40年，其实很多赤脚医生也已经不在人世或者老的看不了病了，这才规范，是什么规范呢，就是乡村医生从业管理条例，就是说所有在乡村从事医疗的人员要注册培训考试通过后才能以正式名义执照开业。</p>
-<p>莆田系这4大家族就是在文革结束后从赤脚医生走出来的，他们当时背着医药包，全国各地游走，在电线杆子上贴广告，主要是性病、鼻炎、狐臭、风湿、皮肤病。他们基本都不懂医学知识也不懂药物原理，包里带的药大都没有什么药效，比如治疗皮肤病的药大都是凡士林和炉甘石调成的药膏，再加一些抗过敏的药丸，这些药丸都是自制的，先从特殊渠道批发来扑尔敏这类最常用的抗过敏药，然后碾碎，再用花生油和蜂蜜和成团，就像和面那样，揉搓成条，再揉成丸。很多药进价几毛钱到几块钱一斤，卖到患者手里如果按斤算就是几百、几千块钱了，这些药吃了以后大都能让你觉得症状减轻，但其实根本没有任何治疗效果。因为是游医，他们在某个地方骗几个人，等病人发现出了事儿，他们早就跑了。</p>
-<p>到了1995年时这种电线杆子上贴小广告的模式就落后了，那时国家刚刚开放公立医院科室承包，一旦承包出去，这个科室就按月给医院上交份子钱，剩下的就是自己的盈利，其实当时医院内部也有胆大的医生自己承包的，但是当了一辈子医生，缺少市场运作的经验，所以也有很多就干不下去了。这时靠贴广告为生赚到大钱的莆田系骗子医生就去找各地的二甲医院，以军队、武警、消防医院为主，他们承包科室后，挂牌什么什么中心，比如武警医院肝病治疗中心，治的还是他们从前电线杆子上贴的病，对内虽然是上交份子钱，对外却是医院正常的业务，医院也愿意帮他们从当地卫生部门买行医执照。这时和80年代比起来最大的区别是，他们包裹上一层公立医院的外衣，当时很少有患者意识到给自己看病的人并不是真正的医生，也不是这个医院里的人。因为有了公立医院，尤其是军队医院的门面，患者就诊就更持续了，所以盈利比之前要快很多。他们虽然没有医学知识，但广告宣传上的经验比学医出身的人强太多了，可以拉来一批一批的患者。不过没有知识毕竟不行，骗起来太不方便，于是再往下发展就是雇其他医生来科室打工，这些医生往往水平较低，他们只需要有医师证就足够了，然后在各地广播、报纸、电视大面积铺广告，把雇来的普通医生吹成主任医师，某某博导，专攻肝病34年的老教授就都出现了，中国肝病协会副理事等等根本没有的头衔也是必备的。他们把一些常见药物套上外国文字的包装充当进口药，也有开发出微创手术的，其实把患者麻醉后只是在病人身上划一刀，然后再封上，就告诉你已经帮你把病灶取出来了。其实什么手术也没做。这些承包出去的科室盈利非常巨大，他们还会拿钱买高端医疗设备，比如CT机，买回来后和医院签订合同，检查费用利润分成，这些机器对很多县级二等的医院来说实在太奢侈了，现在靠出租出去的科室就能买回来，他们也很乐意继续和莆田系医生合作。靠着这种租借公立医院科室的方式，莆田系医院的骗子积累了大量财富直到2000年卫生部颁布了规定，禁止非盈利性质医院中私人承包科室，但这并没有堵住了大批莆田游医，因为卫生部只能管理得了普通公立医院，军队医院和武警医院直接由解放军总后勤部管理，所以这些莆田游医依然盘踞在这些医院中。但同时卫生部在2002年开放了民营医院牌照，这时莆田人就可以开始创办自己的医院了，要知道，这个牌照是针对所有人的，但是公立医院的医生虽然有技能和知识，但是没有启动资金，更不要提市场运作经验了，他们还是很难脱离开公立医院提供的教学、晋升、这套福利模式。所以民营医院市场对莆田人来说是没有其他类别竞争者的。</p>
-<p>成立医院后莆田系涉足领域就比从前更广泛了，凡是医保没有覆盖的领域全都囊括进来，一般来说医保都覆盖不到的疾病其实都是一些不致命，对健康危害次一级的疾病，比如男科、妇科、不孕不育、美容整形。虽说民营医院一样可以设立儿科，内科，心外科之类的科室，但是这些科室涉及到的药费和手术的收费标准就必须按照国家规定收，不挣钱。做医院的生意最主要就是获得患者信任，首先就是要起好名字，名字和正经公立医院越像越好，比如江苏宿迁就2所看上去像公立医院的医院，其中一个叫宿迁市第一市民医院，宿迁还有一家医院，叫宿迁市人民医院，这个可就不是公立的了，因为当年宿迁市把所有公立医院都以“先卖后股”的方式处理了，所以宿迁也是全国唯一一个地级市却没有一家公立医院的地方，直到2015年初，宿迁才不得不投资18亿元，建设自己的市属公立医院，这才补上了从前的漏洞（更正内容）。等这些莆田系游医有了自己的医院后，他们又会返回头找到曾经承包科室的二甲医院甚至是三甲医院，因为这时他们的身份已经不是个人了，就可以用股份制的方式入驻。</p>
-<p>这些新开设的民营医院会到处搜罗医生，2002年公立医院的医生月收入很低，北京上海能到3000块，二三线城市也就只有7/800块，被莆田系医院挖走后每月收入会达到之前的4倍，药片提成按4%算，算上年终奖之类，收入会达到之前的6倍或者更高，但工作也比较累，每个医生每月需要完成高额的销售额才能拿工资。去了莆田系医院的医生也要经过培训，但培训的主要是销售技能，和医疗技能无关了，比如怎么看患者是不是有钱，怎么说服他们留下来进行10个疗程以上的治疗，针对某类疾病的药品哪些是医院自己开发的，怎么报价，什么样的病用什么套装药。我就看过一个肝病科的大夫的自述，他说只要来人是肝功能问题，就只有3种套装药，看病人的穿着谈吐而定，如果看着不像有钱的，就是十个疗程3000块钱的套装，如果是愿意花钱的就是5万块钱的，那些药都是吉林四平批发的胶囊，解毒片，和没有任何作用的中成药，给病人的药中只有降酶药物白介素-2有效，只有碰到来的病人很严重时才会用450个单位的甘利欣，但是很多病人只是乙肝携带者，肝功能正常，正规治疗方法就是什么药都不用吃，注意锻炼和休息，但是在这个医院里就是给病人大量用白介素-2，这其实就是谋财害命，16岁以下的儿童，少年，乙肝病毒本来在肝里没有什么破坏，一旦大量服用提高免疫系统的药物，激活免疫水平，免疫系统会出现过激反应，攻击自身的肝细胞，肝细胞死亡大量，有些人会出现早期肝硬化。这个医院20万单位白介素-2，进价7.6，卖给病人236元，而且还必须用药几个月，花上几万块钱还把肝搞坏了。</p>
-<p>莆田系医院和百度的紧密合作是从2003年开始的，那时候百度推出了竞价排名系统，一上线就遭到了很多人唾弃，因为这个系统会调整搜索结果的顺序，把有人花钱买的结果往前排，比如有1000家医药都购买了小三阳，有人出5块钱，有人出6块钱，有人最高出到10块钱，然后你就在竞价排名系统中填入一个你想要的链接，一般都是这家医院肝病的宣传广告，有人再在百度里搜索小三阳时，排名最靠前的就是出钱最多购买词条的，当然后期百度为了防止系统崩溃，又设置了词条价格第二名排在搜索结果的第一名。第二条到第N条小三阳的搜索结果全部按照出价的高低往下排，直到没有人出价了，才开始显示正常结果。莆田系医院对词条的竞争非常激烈，所有你能想到的这些医院主治的病症都已经被买了，而且第一二名的出价都在300多块钱，有人问出价是什么，就是如果有人在百度里搜索这个词并且点击了你家的链接，那么点一次，交给百度300块钱，当然还有更多公司花不起这么多钱买一个点击，那么就往下排，这些疾病的竞价排名，基本上你要是搜索，前2页都不会出现自然排序的结果，全部都是莆田系医院的推广链接。所以羊毛出在羊身上，就算是咱们闲的没事，把大三阳，小三阳，不孕不育，狐臭，高血压这些都搜出来，挨个点一遍，大概100多次，那其实百度就多了几万块钱的收入。你想，这么巨额的广告费要承担，不狠宰患者怎么能挣回来？</p>
-<p>后来竞价排名改名为百度推广，也还是原来那个根儿。百度市值600亿美元，相应的阿里和腾讯是1800亿和1700亿美元，你看虽然BAT总是连着叫，但百度在2013年后面发展不快，照这个趋势再走一年，他们BAT中的B就和AT就不是一个量级的企业了。2015年10月底的一个场合中，百度新兴业务对外合作总负责人李政就说，医疗健康在百度收入中的占比已经达到了35%的。他说的另外一句话是：“虽然之前的商业变现模式广受诟病，但医疗仍是百度输不起的行业”。莆田系医院的广告费对百度来说有多重要呢？我查到了莆田市委书记梁建勇曾经说过，2013年百度全年广告总量260亿元，莆田民营医院就做了120亿，所以从这个规模看，经过2年发展后2015，至少也不会低于120亿，而百度2015年的财报看，前三季度营收共476亿人民币，差不多全年就是630亿的规模。所以光莆田系医院就贡献了百度五分之一的营收。虽然国家对医疗机构监管越来越严，但这部分营收实在太集中占比太重，所以百度即便背着骂名也要挣这笔钱。贴吧影响力这么大是因为他流量巨大，百度的所有流量中贴吧占到14%，是仅次于搜索和音乐的流量第三名，搜索已经有了竞价排名，音乐有了区块广告，但贴吧在2010年前始终处于流量巨大，不知道怎么变现的局面，所以才导致最终想出这样一招：卖管理员权限。</p>
-<p>如果从网络信息传播的角度看，每个莆田系医院都是一个新闻宣传站点，市场部是医院里很重要的部门，他们需要摸索百度SEO的规律，需要有2-3个编辑每天写60篇左右的软文做推广，需要到各大论坛发广告，加各种qq群做推广，最近两年还要学会微博和微信公众号的运营，因为流量带来患者，患者带来钱。还需要搜索医院的负面报道，然后联系管理员删帖，当然，经常是通过塞红包啊，贿赂的方式删帖，莆田系的这帮人甚至养活了一种新兴的机构：删帖公司，这些公司开始是收客户钱后连续网站编辑，塞钱删帖，到了后来就直接自己发负面新闻，然后等着客户找上门，再自己删帖，这样赚的更多，对付这种流氓公司，莆田系医院也有门路，当地公安网监的人都会支持，查封这些删帖公司。2006年财经郎咸平有一集说的就是莆田系民营医院第一大派系詹国团他们怎么在上海兴办民营医院造假的，这一集播出后当天晚上XXXXXXX就责令上海电视台停播这个栏目了，并且警告节目组，不准谈论任何有关市委班子的话题。</p>
-<p>其实郎咸平当初准备了3集内容，第一集是詹国团莆田医院和政府关联的XX，第二集是呼吁中央引渡周正毅回香港受审，第三集是重头戏曝XXXXXXXXX，第一集的很多来源都是詹国团身边的人向郎咸平举报的，说虽然詹国团已经身价数十亿了，但还是良心不安，他本人随时准备在情势不对头时丢下手中几十家医院出走，他还常去五台山求神佛宽恕他的罪行，郎咸平当然懂得这些医院经营作风有多恶劣，但更想深挖的是为什么这么恶贯满盈的医院能在上海这种经济文化中心生存？凭借当年郎咸平的影响力，他本以为做了这期节目，詹国团真的能像他身边那个卧底说的，逃离上海，但没想到詹国团非但没逃走，反而搞定了XXXXXX，还不知道从哪儿得到的后两集内容，结果当晚XXXXX,XXXXXX停播了这档节目，命令文广集团和第一财经采取XXXX，最终在一个多月后彻底停播了这档节目。XXXXXXXXX部给出的理由是郎咸平普通话不标准，没有主持人上岗证。</p>
-<p>所以你看，这些民营医院的能量远不是我们之前想象的那样，他们能在中国各地这么嚣张的“行医”，背后是有雄厚力量撑腰的。全国80%的民营医院都来自莆田的东庄镇，这个镇总人口11万人，有7万人从事医疗行业，不是医院就是做药品，要不就是做医疗器械，他们在全国一共有1万家和医药相关的企业，年营业额超过3200亿元，这个规模甚至超过了西藏全省的GDP。全国打假第一人王海曾经在1997年去过东庄镇，形容那里的富裕程度和外出游医的猖獗令人震惊。开车往东庄镇的路上就会发现越接近镇子豪宅就越多，大都是4/5层的独栋别墅。绝大多数房子超过1000平米，40间以上，家里只有500平米面积的人都不好意思说话。但村子里人说造房子顶多也就花掉几百万块钱，对医院的老板来说九牛一毛，得等到过年的时候才能看出来他们到底有多富，医疗富豪们带着数以百计各种款式的名车，回到东庄，开着车互相串门，凡是家里有几家医院的，门口都停着好几辆百万元级别的跑车。村子里平时只能看见老人妇女和儿童，几乎看不到壮劳力，年青男人基本都出去搞医院了，甚至有些人根本没上过学，只能勉强写写自己的名字，都能开10多个门诊部。过年时到了初五，村子就是另一番景象，全国数以百计的医疗器械厂家和药厂都会来东庄，整个医疗行业的展会，每年最大的是北京上海，还有春节时的东庄。</p>
-<p>这些医院老板暴富以后春节回家甚至带着原配和二奶一起摆件父母和亲戚，过年打麻将时有男主人带着老婆和另外两个小三凑成一桌，其乐融融的。这种现象在村里已经见怪不怪了，你看这村子的道德观已经和大部分人类社会不一样了，就是最近这30年来暴富的冲击，让这里的人也渐渐适应了各种脑洞大开。</p>
-<p>媒体也有报道，我更愿意相信那些是莆田系的软文，就是说这些集团现在已经开始洗白，接纳真正有实力的医生入职，设备也是最先进的，不再做坑蒙拐骗的事情，这种说法我始终不相信，只是因为国家监管逐渐严格，他们不得不做出一些调整。而和百度勾结的事情上，百度和莆田系医生是一丘之貉，他们都是商人，是商人就会逐利，而且用尽各种手段。但为什么咱们国家其他行业没有出现如此庞大的恶势力，这和XX就分不开了，我相信XXXX不会对民营医院的整体经营情况不了解，但是仍然允许他们经验了10多年，这中间的XXXX如果都挖出来写一写也会是一桩惊天大新闻。</p>
-<p>如果从根上看，我国医疗体系中为什么生出这么一个大毒瘤呢？就是医疗体制的漏洞外加XXXXXX给莆田系医院和百度留下了巨大的盈利空间。那么发达国家在这方面监管是怎么做的呢？我们来看看Google，他们2012年公布的财报中，金融业、零售业、旅游业、教育业是广告投放前四名，而第一名金融业中最最主要的就是医疗保险，但是Google是不会遇到百度这样的良知拷问的。你假如想在Google上做广告，你全程都不需要和google 的具体员工有任何接触，一切都在后台自助完成，Google也没有某个专门审核广告的团队。那你说万一有网站卖假药在Google上做广告呢？这个问题是怎么解决的，在美国建立网站不需要任何许可，谁都可以，但是如果你想在网站上卖药，那就得向Google拿出2个证书，一个是美国国家药房委员会，简称是NABP的证书，还有一个是咱们节目中多次说过的美国食品药品管理局FDA对这个药的认证。Google不会费心审核每个客户是不是骗子，他只认NABP和FDA的认证，只要你拿出来了，就可以做广告，假如出了问题，那也是NABP或者FDA的责任。</p>
-<p>咱们节目里提过很多次FDA了，这个机构在整个西方世界是一个金字招牌，他也是目前全世界对药物、食品审核最严格的机构，以至于很多欧洲小国，东南亚小国，没有人力物力审核药片和食品，就直接认定，  凡是通过FDA认证的药片只要在自己国家注册一下就可以销售，不必再做任何安全性验证了。FDA负责新药审核的人员有4000多人，他们都是竭尽所能阻挡一切药效不明显、有安全隐患的的药物上市，就这样每年批准上市的新药大约也就十几款。中国药监局负责药品审核的审评中心一共才120多人，但每年批准上市的新药有上千款，所以从这个对比你也能大概感觉到FDA的标准有多严格了吧。</p>
-<p>所以有这么一个悍将存在，Google根本不必要求自己拥有药物鉴别真假、疗效的能力，只要FDA放行，Google就放行。所以从这个角度看，喊着打倒百度也只是一种不满的发泄，你就想，如果打倒了百度，莆田系医院的坑蒙拐骗就会终止了么？比如百度垮台了，中国大陆的搜索引擎都由Bing来代替，Bing可是没有竞价排名系统的，那我想所有莆田系医院又用同样多的广告成本做SEO排名优化甚至其他方式攻陷Bing的广告阵地。</p>
-<hr><p><strong>莆田系部分民营医院梳理</strong></p>
-<p><strong>1、詹氏家族</strong></p>
-<p>詹氏医疗集团，下属中屿、中骏等医疗集团，家族主要成员詹 国团、詹玉鹏、詹国营、詹国连、詹开土、詹阳斌为首，由于这个家族的关系和事业都是千丝万缕的，所以把他们合并起来。家族集团通过独立创办、参股合作等多 种形式，先后在黑龙江、辽宁、吉林、山东等全国各地开办了上百家的医疗机构，现有员工6000余人。</p>
-<p>詹国团</p>
-<p>1964年出生。詹国团2001年重组成立了上海华衡投资（集团）有限公司。</p>
-<p>旗下目前有三大机构：</p>
-<blockquote><p>上海衡域实业有限公司</p>
-<p>上海新钟广告有限公司</p>
-<p>浙江新安国际医院有限公司</p>
-<p>（下有 浙江新安国际医院）</p></blockquote>
-<p>詹玉鹏</p>
-<p>1957年出生。詹玉鹏嫡系机构有：坤如玛丽医院集团是全国性大型专业妇科、产科连锁医疗集团。集团年营业额预计三亿元。</p>
-<p>旗下医院有：</p>
-<blockquote><p>黑龙江玛丽亚妇产医院</p>
-<p>青岛妇婴医院</p>
-<p>青岛玛丽妇产医院</p>
-<p>济南乳腺医院</p>
-<p>无锡玛丽亚医院</p>
-<p>重庆华山中医乳腺病医院</p>
-<p>济南坤如玛丽医院</p>
-<p>重庆坤如玛丽医院</p>
-<p>泉州坤如玛丽医院</p>
-<p>天津坤如玛丽医院</p></blockquote>
-<p>詹阳斌</p>
-<blockquote><p>天津华北医院</p>
-<p>天津华厦医院</p>
-<p>天津丽人女子医院</p>
-<p>北京天院</p>
-<p>北京俪人女子医院</p>
-<p>北京北海医院</p>
-<p>上海万众医疗投资股份有限公司</p>
-<p>上海万众医院</p>
-<p>上海安真医院</p>
-<p>上海福华医院</p>
-<p>上海玛丽女子医院</p>
-<p>温岭和平医院</p>
-<p>深圳福华中西医结合医院</p>
-<p>黑龙江东北医院等</p></blockquote>
-<p>詹氏医疗集团，下属企业还有：</p>
-<blockquote><p>新加坡中骏医院（投资）集团</p>
-<p>上海中骏医学科学研究所</p>
-<p>上海澳信医院管理公司</p>
-<p>上海澳信实业有限公司</p>
-<p>厦门奥琪进出口贸易有限公司</p>
-<p>厦门福鹏山生态园</p>
-<p>厦门中屿基地工程有限公司</p>
-<p>福建莆田水利工程有限公司</p>
-<p>福建奥琪汽车贸易公司</p>
-<p>福州通产光电技术有限公司</p>
-<p>北京品康科技发展有限公司</p>
-<p>上海拓能医疗器械有限公司</p>
-<p>重庆兴渝药业有限公司</p>
-<p>山东中骏医院管理公司</p>
-<p>重庆华山医院管理有限公司</p>
-<p>北京品康医院管理有限公司</p></blockquote>
-<blockquote><p>天津华山医院</p>
-<p>上海博爱医院</p>
-<p>上海真爱女子医院</p>
-<p>江苏施尔美整形美容医院</p>
-<p>泉州南亚医院黑龙江和平医院</p>
-<p>福州鼓楼医院</p>
-<p>深圳福华中西医结合医院</p>
-<p>长春同济医院</p>
-<p>云南 玛莉亚女子医院</p>
-<p>中骏医学科学研究所</p>
-<p>珠海惠爱医院</p>
-<p>沈阳北陵医院</p>
-<p>青岛长征院</p>
-<p>成都长征医院</p></blockquote>
-<p><strong>2、西红柿医疗集团</strong></p>
-<p>陈金秀家族的上海西红柿投资有限公司已投资上海浦西医院、苏州美莱美容医院、苏州东吴医院等10余家医院,并拥有“美莱整形”和“华美整形”两个品牌。形成了以上海为中心、长江三角洲为重点区域的发展格局。</p>
-<p>麾下的企业有：</p>
-<blockquote><p>上海市闵行区中医院</p>
-<p>苏州东吴医院</p>
-<p>成都华美美莱整形医院</p>
-<p>泉州华美美莱整形医院</p>
-<p>苏州华美美莱整形医院</p>
-<p>广州华美美莱整形医院</p>
-<p>昆明华美美莱整形医院</p>
-<p>重庆华美美莱整形医院</p>
-<p>福州华美美莱整形医院</p>
-<p>北京华美美莱整形医院</p>
-<p>上海华美美莱整形医院</p>
-<p>一品健康体检中心（四家）</p>
-<p>杭州新东方妇产科医院</p>
-<p>厦门登特口腔医院</p></blockquote>
-<p><strong>3、陈建煌</strong></p>
-<p>1964年出生，莆田市秀屿区东峤镇。华夏时代投资集团地处政治经济文化发达的北京市海淀区，集团注册总资本2.8亿元，现有总资产40多亿元，全资和控股等六十多家子公司。拥有员工 10000余人，其中博士后20余名，博士120余名，硕士研究生600多名，大专以上学历员工占员工总人数85%。</p>
-<p>华夏时代投资集团三级医院两家，二级 医院六家：</p>
-<blockquote><p>济南华夏医院</p>
-<p>武汉华夏医院</p>
-<p>内蒙古天骄医院</p>
-<p>北京前海股骨头医院</p>
-<p>贵州退休医师医院</p>
-<p>荆州华康医院</p>
-<p>武汉华美医院</p>
-<p>瑞安华东医院</p>
-<p>铜仁华夏医院</p>
-<p>聊城东昌府三医院</p></blockquote>
-<p><strong>4、林志忠 林志程</strong></p>
-<p>中国博爱企业集团。中国博爱企业集团创建于1989年，是一家以医疗投资、医院管理和临床医疗服务为主导产业，融广告、影视、网络及相关产业为一体的大型现代化集团企业。下辖八大集团拥有近百家大型医疗机构，集团员工总数逾万人，是全球最大医疗企业集团之一。</p>
-<p>深圳博爱医疗集团旗下机构有：</p>
-<blockquote><p>医网</p>
-<p>中华整形网</p>
-<p>中华不育网</p>
-<p>广州人流网</p>
-<p>中华肿瘤网</p>
-<p>广州现代医院</p>
-<p>广州长安医院</p>
-<p>广州益寿医院</p>
-<p>惠州仁德妇科医院</p>
-<p>广州利德医院</p>
-<p>东方俪人医院</p>
-<p>番禺玛莉亚肛肠医院</p>
-<p>贵阳五官中心</p>
-<p>广州圣亚泌尿外科医院</p>
-<p>深圳博爱医院</p>
-<p>深圳曙光医院</p>
-<p>深圳远东妇儿科医院</p>
-<p>上海仁爱医院</p>
-<p>上海心脏病医院</p>
-<p>上海五官科医院</p></blockquote>
-<p><strong>5、香港和谐投资集团现投资</strong></p>
-<blockquote><p>贵阳长江医院</p>
-<p>贵阳和谐阳光医院</p>
-<p>贵阳马王庙医院</p>
-<p>安顺阳光妇科医院</p>
-<p>毕节现代医院</p>
-<p>长沙华夏医院</p>
-<p>长沙湘江医院七大医院</p></blockquote>
-<p><strong>6、湖南年轮医疗集团</strong></p>
-<blockquote><p>长沙阳光医院</p>
-<p>长沙仁爱医院</p>
-<p>长沙恒生手外科医院</p>
-<p>长沙博大泌尿专科医院</p>
-<p>长沙南方骨外科医院</p></blockquote>
-<p><strong>7、香港康联（国际）</strong></p>
-<p>投资集团现在员工1500余名。</p>
-<p>在江西省已拥有：</p>
-<blockquote><p>南昌市第五医院</p>
-<p>南昌仁爱女子医院</p>
-<p>南昌曙光手足外科医院</p>
-<p>南昌佳美美容医院</p>
-<p>南昌华山不孕不育医院</p>
-<p>南昌博爱泌尿专科医院</p>
-<p>南昌东大肛肠专科医院</p>
-<p>南昌博大耳鼻咽喉专科医院</p>
-<p>上饶东大肛肠专科医院</p></blockquote>
-<p><strong>8、江苏盛世同进集团</strong></p>
-<blockquote><p>南京曙光医院</p>
-<p>南京江宁博爱医院</p>
-<p>南京市江宁区众彩门诊部</p>
-<p>南京世纪现代妇产医院（南院、东院）</p></blockquote>
-<p><strong>9、上海远大医疗集团</strong></p>
-<blockquote><p>上海远大心胸医院</p>
-<p>上海仁爱医院</p>
-<p>上海天大医疗美容医院</p>
-<p>上海沪申五官科医院</p></blockquote>
-<p><strong>10、林宗金</strong></p>
-<p>1959年出生秀屿区东庄镇,林宗金的华世伟业集团旗下独资二十多家大型医疗机构旗下主要医院有:</p>
-<blockquote><p>南京华世佳宝妇产医院</p>
-<p>宿迁市妇产医院</p>
-<p>珠海惠爱医院</p>
-<p>温州长征医院</p>
-<p>江苏施尔美整形美容医院</p>
-<p>南京建国男科医院</p>
-<p>深圳仁爱医院</p>
-<p>云南玛莉亚医院</p>
-<p>杭州玛莉亚妇女医院</p>
-<p>上海真爱女子医院</p>
-<p>天津怡泰生殖专科医院</p>
-<p>无锡嘉仕恒信医院</p>
-<p>上海博爱医院</p>
-<p>福州鼓楼医院</p>
-<p>温州协和医院</p>
-<p>宁波博爱医院</p>
-<p>昆明西昌路医院</p>
-<p>无锡南站医院</p>
-<p>泉州南亚华侨医院</p>
-<p>湖南二院前列腺专科</p></blockquote>
-<p><strong>11、林玉明</strong></p>
-<p>原籍：秀屿区东庄镇后江村,林玉明先生创办博生医疗投资股份有限公司由，总部位于北京CBD商务中心区的金地中心。目前在全国范围拥有员工8000余名。</p>
-<p>旗下医院有：</p>
-<blockquote><p>天津现代女子医院</p>
-<p>威海现代女子医院</p>
-<p>山西现代女子医院</p>
-<p>临汾现代女子医院</p>
-<p>晋城现代女子医院</p>
-<p>西安俪人医院</p>
-<p>黑龙江和美妇产医院</p>
-<p>延吉博生现代妇科医院</p>
-<p>包头现代女子妇产医院</p>
-<p>广州女子医院</p>
-<p>中山现代妇科医院</p>
-<p>东莞现代妇科医院</p>
-<p>深圳和美妇儿科医院</p>
-<p>福州现代妇产医院</p>
-<p>舟山现代妇科医院</p>
-<p>武汉现代女子妇科医院</p>
-<p>长沙现代女子医院</p>
-<p>长沙丽人妇产医院</p>
-<p>成都丽人女子医院</p>
-<p>重庆现代女子医院</p>
-<p>重庆都市丽人医院</p>
-<p>重庆万州博生医院</p>
-<p>重庆万州美妇产医院</p>
-<p>涪陵博生和美妇产医院</p>
-<p>贵阳现代女子医院</p>
-<p>贵阳和美妇产医院</p></blockquote>
-<p><strong>12、李金圆</strong></p>
-<blockquote><p>国丹集团旗下机构有：</p>
-<p>海南永金制药股份有限公司</p>
-<p>海南国丹药业有限公司</p>
-<p>海南港澳医药有限公司</p>
-<p>海南阳康生物工程有限公司 上</p>
-<p>海阳康生物工程有限公司</p>
-<p>海南鑫得医药研究所</p>
-<p>香港国丹医院投资管理有限公司</p>
-<p>深圳市国丹实业有限公司</p>
-<p>深圳仁康医院</p>
-<p>深圳罗岗医院</p>
-<p>深圳雪象医院</p>
-<p>深圳健安医院</p>
-<p>上海新虹桥医院</p>
-<p>江苏泰州红房子医院</p>
-<p>江苏海安华山医院</p>
-<p>中山市国丹中医院</p>
-<p>顺德阳新侠义道光康复医院</p>
-<p>深圳市国丹广告有限公司</p>
-<p>深圳华南妇科医院</p>
-<p>深圳国瑞泌尿外科医院</p>
-<p>深圳韩美医疗美容医院</p>
-<p>深圳市国丹网络科技公司深圳国丹医疗器械有限公司</p></blockquote>
-<p><strong>13、翁国亮</strong></p>
-<p>1964年出生莆田荔城区黄石镇清中村,翁国亮旗下有惠好医药200个连锁店和华夏医疗集团，华夏医疗集团有限公司（ http://8143.HK ）为香港上市投资控股集团公司。</p>
-<p>主要医院有：</p>
-<blockquote><p>嘉兴曙光中西医结合医院</p>
-<p>上饶协和医院</p>
-<p>重庆市爱德华医院</p>
-<p>珠海九龙医院</p>
-<p>澳美佳女子医院</p></blockquote>
-<p><strong>14、郑建发</strong></p>
-<p>郑建发先生1976年出生，毕业于北京大学，获得EMBA硕士学位他带领下实现了集团直属精品医院30多家，托管经营及合作经营医院5家，公司管理的资产总额达6亿元。</p>
-<p>主要医院有：</p>
-<blockquote><p>龙岩女子医院</p>
-<p>安阳协和医院</p>
-<p>哈尔滨市生殖保健中心院</p>
-<p>北京市慧慈医院</p>
-<p>大连长城妇科医院</p>
-<p>惠阳女子医院</p>
-<p>哈尔滨欧亚男科医院</p>
-<p>廊坊万福医院</p>
-<p>廊坊世纪协和医院</p>
-<p>保定京津医院</p>
-<p>保定世纪协和医院</p>
-<p>保定长安医院</p>
-<p>洛阳牡丹女子医院</p>
-<p>平顶山市武警医院</p>
-<p>福州左海医院</p></blockquote>
-<p><strong>15、黄德锋、黄开飞</strong></p>
-<blockquote><p>北京五洲投资集团</p>
-<p>北京五洲女子医院</p>
-<p>呼和浩特五洲女子医院</p>
-<p>重庆五洲女子医院</p>
-<p>北京圣保罗男子医院</p>
-<p>北京东方伟业医院管理有限公司</p>
-<p>河北东方中西医结合医院</p>
-<p>江苏淮安中山医院</p>
-<p>天津怡泰医院</p>
-<p>天津乐园医院</p>
-<p>北京慧中医院</p>
-<p>北京恒安中医院</p>
-<p>北京建国医院</p>
-<p>北京国际医疗中心等十几家医院。</p>
-<p>上海邦泰医院投资管理公司</p>
-<p>上海九龙男子医院</p>
-<p>上海城市女子医院</p>
-<p>上海西郊骨科医院</p>
-<p>上海真美妇科医院</p>
-<p>上海南浦妇科医院等</p>
-<p>北京天伦不孕不育医院</p>
-<p>北京玛丽妇婴医院</p>
-<p>青岛曙光男科医院</p>
-<p>石家庄美联臣医疗美容医院</p>
-<p>北京美联臣医疗美容医院</p>
-<p>山东青岛曙光医院</p>
-<p>山东淄博金盾医院</p>
-<p>广州市江南医院</p>
-<p>北京慧中医院</p>
-<p>北京阳光丽人妇科医院</p>
-<p>北京恒安中医院</p>
-<p>北京国际医疗中心</p>
-<p>河北东方中西医结合医院</p>
-<p>山西阳泉东方生殖医院</p>
-<p>江苏淮安中山医院</p></blockquote>
-<p><strong>16、苏其远 苏其林</strong></p>
-<p>秀屿区东庄镇苏厝村,广东三奇医疗集团是长期立足于珠三角，主要经营医疗，旅游，汽车。旗下拥有综合性医院10多家，8个专科高科技医疗中心，60多家医疗门诊部。</p>
-<p>苏其林香港苏氏国际医院管理集团,最主要的医院是东莞港湾医院是一所综合性二甲级医院。医院一期投资2亿多元人民币，总占地面积30多亩，建筑面积5万多平方米，标准床位300余张。</p>
-<p>集团旗下机构有：</p>
-<blockquote><p>江门玛丽妇科医院</p>
-<p>佛山三水女子医院</p>
-<p>深圳健丰医院</p>
-<p>广州济慈医院</p>
-<p>广东民安医院</p>
-<p>广州长泰医院</p>
-<p>顺德广济中医院</p>
-<p>广州健安医院</p>
-<p>塘厦康桥医院</p>
-<p>东莞常平医院</p>
-<p>中山和平中医院</p>
-<p>东莞康桥妇科医院</p>
-<p>惠州东江泌尿专科医院</p>
-<p>深圳龙济医院</p>
-<p>东莞乌沙医院</p>
-<p>顺德新世纪泌尿医院</p>
-<p>东莞万福妇产医院</p>
-<p>顺德庄头医院</p></blockquote>
-<p><strong>17、卓朝阳</strong></p>
-<p>英国EDWARD国际投资管理有限公司CEO、成都博爱医疗投资管理有限公司董事长、四川省福建商会常务副会长。</p>
-<p>主要医院：</p>
-<blockquote><p>成都博爱医院</p>
-<p>西藏博爱医院</p>
-<p>成都安琪儿妇产医院</p>
-<p>宁夏妇产医院</p>
-<p>成都蜀都乳腺医院</p>
-<p>舟山市千岛医院</p>
-<p>舟山市千岛医院妇产科</p>
-<p>福州总医院第二附属医院</p>
-<p>蚌埠解放军一二三中心医院</p>
-<p>解放军第三七一中心医院</p>
-<p>乌海现代医院</p>
-<p>第三军医大学重庆新桥医院</p>
-<p>拉萨北大泌尿生殖医院</p></blockquote>
-<p><strong>18、陈金章、陈国兴</strong></p>
-<p>上海美迪亚医院集团旗下医院：</p>
-<blockquote><p>上海虹桥医院</p>
-<p>上海健桥医院</p>
-<p>上海博爱医院</p>
-<p>上海长江医院</p>
-<p>杭州虹桥医院</p>
-<p>杭州建国医院</p>
-<p>杭州天目山医院</p>
-<p>宁波虹桥医院</p>
-<p>温州建国医院</p>
-<p>温州红旗医院</p>
-<p>无锡虹桥医院</p>
-<p>昆山虹桥医院</p></blockquote>
-<p><strong>19、吴美先</strong></p>
-<p>北京祥云医疗集团现有下属医院和医疗机构10多家，遍布北京、河北、河南、安徽等地。公司核心业务是医院管理和医疗服务，资产规模达1亿多元，年营业额2亿多元，现有员工一千多名。</p>
-<p>北京祥云医院管理有限公司旗下医院：</p>
-<blockquote><p>北京京城皮肤病医院</p>
-<p>河南中都皮肤病医院</p>
-<p>唐山京城皮肤病医院</p>
-<p>北京京北医院</p>
-<p>唐山女子医院</p>
-<p>唐山红十字医院</p>
-<p>巢湖康平妇产医院</p>
-<p>淮北女子医院</p></blockquote>
-<p><strong>20、卓国金</strong></p>
-<p>香港瑞恩集团旗下医院:</p>
-<blockquote><p>山西民生医院</p>
-<p>太原糖尿病专科医院</p>
-<p>成都糖尿病专科医院</p>
-<p>北京瑞京糖尿病医院</p>
-<p>运城禹都人民医院</p>
-<p>太原新医医院</p>
-<p>太原益民中医院</p>
-<p>兰州仁和医院</p>
-<p>浙江金华博康生殖医院</p>
-<p>成都曙光男科医院</p></blockquote>
-<p><strong>21、刘亚勇</strong></p>
-<p>上海永宏投资有限公司注册资金叁仟万元，有员工2千多名。</p>
-<p>公司管理医院有：</p>
-<blockquote><p>武汉当代佳丽医院</p>
-<p>沈阳曙光男科医院</p>
-<p>泰州市海陵医院</p>
-<p>江西吉安市第二人民医院</p>
-<p>武警陕西总队医院</p>
-<p>吉林总队医院</p>
-<p>解放军411医院</p>
-<p>解放军534医院</p>
-<p>解放军422医院(武警辽宁总队医院</p>
-<p>广州458医院</p>
-<p>武警山西总队医院</p>
-<p>河南省军区医院</p>
-<p>湖北荣军医院</p></blockquote>
-<p><strong>22、上海中硕医疗集团</strong></p>
-<p>中硕集团多在上海、无锡、苏州、昆山、杭州、常熟等长三角经济发达县市拥有数十家现代化精品综合医院和女子专科医院。</p>
-<p>上海中硕医疗集团旗下医院：</p>
-<blockquote><p>江阴东方女子医院</p>
-<p>泰州海陵女子医院</p>
-<p>常熟东方妇科医院</p>
-<p>宜兴武警医院</p>
-<p>杭州萧山九龙男科医院</p>
-<p>江阴九龙泌尿外科医院</p>
-<p>黑龙江长庚耳鼻喉医院</p>
-<p>长春长庚耳鼻喉医院</p>
-<p>天津长庚耳鼻喉医院</p>
-<p>山西长庚耳鼻喉医院</p>
-<p>温州爱尔五官科医院</p>
-<p>张家港朝阳五官科医院</p></blockquote>
-<p><strong>23、詹国太</strong></p>
-<p>1968年出生秀屿区东庄镇马厂村。詹国太成功地托管、参股、独资、合资经营21家医院，其中有：</p>
-<blockquote><p>北京众安康中医骨科</p>
-<p>厦门友好妇科</p>
-<p>南京康豪妇科</p>
-<p>厦门湖里康乐门诊部</p></blockquote>
-<p><strong>24、吴鸣</strong></p>
-<p>1974年出生集美整形集团董事长兼首席执行官。吴鸣旗下拥有2家公司、3家整形美容医院和15家整形医院的股权 。</p>
-<p>现旗下拥有：</p>
-<blockquote><p>郑州集美整形美容医院</p>
-<p>青岛集美整形美容医院</p>
-<p>济南整形美容医院</p>
-<p>三家全资机构</p></blockquote>
-<p><strong>25、卓国华</strong></p>
-<p>卓国华独资参投机构：</p>
-<blockquote><p>成都玛利亚妇产医院</p>
-<p>宁波欧亚男科医院</p>
-<p>成都欧亚男科医院</p>
-<p>宁波甬城医院</p>
-<p>嘉兴博爱医院</p>
-<p>另外卓氏还在宁波和嘉兴两地参投承包了数多门诊、科室。嫡系机构卓国良、卓国善、卓国俊投资有 北京龙中龙医疗器械有限公司、北京军都医院等。</p></blockquote>
-<p><strong>26、友康集团</strong></p>
-<blockquote><p>信阳泌尿外科医院</p>
-<p>郑州华夏白癜风医院</p>
-<p>许昌新时代妇科医院</p>
-<p>九江玛丽亚医院</p>
-<p>九江新世纪医院</p>
-<p>赣州现代泌尿专科医院</p>
-<p>漯河东方医院</p>
-<p>黄冈泌尿专科医院</p>
-<p>萍乡市新世纪泌尿专科医院</p>
-<p>莆田丽人妇科医院</p>
-<p>萍乡妇科医院</p></blockquote>
-<p><strong>27、中健公司</strong></p>
-<blockquote><p>北京玛丽妇婴医院</p>
-<p>济南妇科医院</p>
-<p>山东红十字会医院</p>
-<p>合肥市中山医院</p>
-<p>北京麦瑞骨科医院</p>
-<p>济南骨科医院</p></blockquote>
-<p><strong>28、深圳中豪医院集团</strong></p>
-<blockquote><p>深圳同仁妇科医院</p>
-<p>东莞南华妇科医院</p>
-<p>广州花都人爱医院</p>
-<p>东莞东方泌尿专科医院</p>
-<p>汕头妇产医院</p></blockquote>
-<p><strong>29、上海曙光医院集团</strong></p>
-<blockquote><p>上海时光整形外科医院</p>
-<p>上海中医药大学附属曙光医院</p>
-<p>上海市黄浦区中西医结合医院</p>
-<p>安徽省淮北市中医医院浙江省玉环县中医院</p>
-<p>江苏省宜兴市十里牌医院</p>
-<p>上海曙康口腔医院</p>
-<p>上海市浦东新区传染病医院</p>
-<p>上海中医药大学附属曙光医院</p>
-<p>浦东肝病专科医院</p>
-<p>众仁曙光医疗保健中心</p>
-<p>上海市松江区方塔中医医院</p></blockquote>
-<p><strong>30、三角洲集团(医院投资管理)有限公司</strong></p>
-<blockquote><p>深圳凤凰医院</p>
-<p>常熟仁爱医院</p>
-<p>杭州广仁医院</p></blockquote>
-<p><strong>31、香港济丰集团</strong></p>
-<blockquote><p>洛阳牡丹女子医院</p></blockquote>
-<p><strong>32、香港凤凰国际医疗投资集团</strong></p>
-<blockquote><p>邯郸仁爱妇科医院</p>
-<p>许昌凤凰医院</p></blockquote>
-<p><strong>33、香港康联医疗（国际）投资集团</strong></p>
-<blockquote><p>博爱泌尿专科医院</p></blockquote>
-<p><strong>34、香港慈济医疗（国际）投资集团</strong></p>
-<blockquote><p>南昌仁爱女子医院</p></blockquote>
-<p><strong>35、加拿大凤凰医院管理公司</strong></p>
-<blockquote><p>北京健宫医院</p>
-<p>大连新世纪医院</p>
-<p>吉林创作医院</p>
-<p>无锡新区医院</p>
-<p>深圳凤凰医院</p></blockquote>
-<p><strong>36、阳光医院连锁集团</strong></p>
-<blockquote><p>深圳阳光医院</p>
-<p>黑龙江阳光女子医院</p>
-<p>重庆阳光医院</p>
-<p>上海阳光中医医院</p>
-<p>广西阳光医院</p>
-<p>四川阳光妇科医院</p>
-<p>北京阳光丽人妇科医院</p>
-<p>山西新阳光妇科医院</p>
-<p>上海阳光中医医院</p>
-<p>长春阳光女子医院</p>
-<p>长春阳光口腔医院</p>
-<p>涡阳阳光医院</p>
-<p>芜湖阳光眼科医院</p>
-<p>巢湖阳光妇幼医院</p>
-<p>淮北阳光心理院</p>
-<p>泉州新阳光女子医院</p>
-<p>龙岩阳光医院</p>
-<p>福清阳光女子医院</p>
-<p>四平阳光医院</p>
-<p>济南阳光女子医院</p>
-<p>青岛新阳光医院</p>
-<p>齐河阳光医院</p>
-<p>南京阳光肿瘤医院</p>
-<p>泗洪阳光儿童医院</p>
-<p>昆山阳光医院</p>
-<p>顺德阳光康复医院</p>
-<p>中山阳光医院</p>
-<p>珠海阳光医院</p>
-<p>长沙阳光医院</p>
-<p>湘潭阳光眼科中心</p>
-<p>昆明阳光医院</p>
-<p>富源阳光医院</p>
-<p>巩义阳光医院</p>
-<p>娄底阳光医院</p>
-<p>伊犁阳光女子医院</p>
-<p>伊宁阳光女子医院</p>
-<p>湖州阳光女子医院</p>
-<p>桂林阳光医院</p>
-<p>武汉阳光女子医院</p>
-<p>九江阳光女子医院</p>
-<p>万州阳光眼科医院</p>
-<p>西安阳光医院</p>
-<p>大连阳光医院</p></blockquote>
-<p><strong>37、上海盛康医院投资管理有限公司</strong></p>
-<blockquote><p>淮安中山医院</p>
-<p>嘉兴曙光中西医结合医院</p>
-<p>重庆爱德华医院</p>
-<p>上海英港泌尿外科医院</p>
-<p>上海阿波罗男子医院</p>
-<p>上海玫瑰女子医院</p>
-<p>郑州华山医院</p>
-<p>盐城协和康复医院</p>
-<p>杭州阿波罗男子医院</p>
-<p>许昌中山医院</p></blockquote>
-<p><strong>38、新加坡华康医疗投资集团</strong></p>
-<blockquote><p>成都康新妇科医院</p>
-<p>杭州和睦医院</p></blockquote>
-<p><strong>39、新加坡华康集团</strong></p>
-<blockquote><p>上海康新医院</p>
-<p>成都康新妇科医院</p>
-<p>解放军妇产科中心</p>
-<p>武警四川总队医院(原解放军372医院)</p>
-<p>武警海南总队医院妇科中心</p>
-<p>新彊维吾尔自治区人民医院肿瘤中心</p>
-<p>黑龙江省武警黄金医院妇科</p>
-<p>解放军沈阳463医院希美整形美容</p>
-<p>杭州和睦医院杭州真爱医院</p></blockquote>
-<p><strong>40、上海杰韦克医疗投资公司</strong></p>
-<blockquote><p>潍坊博爱医院</p>
-<p>潍坊长安医院潍坊和平医院</p></blockquote>
-<p><strong>41、鸿业医疗投资集团</strong></p>
-<blockquote><p>成都济民女子医院</p>
-<p>新疆爱德华医院院</p></blockquote>
-<p><strong>42、远东国际医疗投资集团</strong></p>
-<blockquote><p>广州远东美容医院</p>
-<p>郑州丽天整形医院</p></blockquote>
-<p><strong>43、上海常庚医院管理有限公司</strong></p>
-<blockquote><p>上海圣爱医院</p>
-<p>苏州圣爱医院</p>
-<p>慈溪圣爱医院</p>
-<p>上海同德医院</p>
-<p>昆明仁爱医院</p>
-<p>上海安平医院</p></blockquote>
-<p><strong>44、上海满红红医院投资管理公司</strong></p>
-<blockquote><p>合肥九龙男科医院</p>
-<p>合肥丹凤朝阳妇科医院</p>
-<p>芜湖丹凤朝阳妇科医院</p></blockquote>
-<p><strong>45、九州医院投资管理公司</strong></p>
-<blockquote><p>昆明九州医院</p>
-<p>玉溪九州医院</p>
-<p>曲靖九州医院</p></blockquote>
-<p><strong>46、上海恒达医疗投资公司</strong></p>
-<blockquote><p>重庆生殖健康医院</p>
-<p>重庆红楼医院雅安解放军第三十七医院</p>
-<p>武警湖南省总队医院</p>
-<p>南充解放军51医院</p>
-<p>解放军第324医院</p>
-<p>解放军478医院妇产中心</p>
-<p>涪陵三峡医院</p></blockquote>
-<p><strong>47、 京洲集团医院投资有限公司</strong></p>
-<blockquote><p>昆明九州泌尿医院</p>
-<p>江东泌尿外科医院</p>
-<p>上海九州泌尿医院</p>
-<p>上海青城医院</p>
-<p>上海博大医院</p>
-<p>上海中亚医院</p></blockquote>
-<p><strong>48、香港瑞恩集团董事长卓国金</strong></p>
-<blockquote><p>山西民生医院</p>
-<p>太原糖尿病专科医院</p>
-<p>成都糖尿病专科医院</p>
-<p>北京瑞京糖尿病医院</p>
-<p>运城禹都人民医院</p>
-<p>太原新医医院</p>
-<p>太原益民中医院</p>
-<p>兰州仁和医院</p>
-<p>浙江金华博康生殖医院</p>
-<p>成都曙光男科医院</p></blockquote>
-<p><strong>49、香港亚洲医疗投资集团</strong></p>
-<blockquote><p>遵义女子医院</p>
-<p>苏州新医科</p>
-<p>淮安生殖医院</p>
-<p>重庆红十字会医院</p></blockquote>
-<blockquote><p>福州东南女子医院</p></blockquote>
-<p><strong>50、北京中豪基业医疗投资管理有限公司</strong></p>
-<blockquote><p>保定现代女子医院</p>
-<p>长治女子医院</p>
-<p>淄博女子医院</p>
-<p>大同新时代妇科医院</p>
-<p>晋城生殖医院</p>
-<p>原白癜风医院</p>
-<p>保定白癜风医院</p></blockquote>
-<p><strong>51、福建誉盛投资(集团)公司</strong></p>
-<p>莆田盛兴医院</p>
-<p>福州福兴妇产医院</p>
-<p>福州誉盛医院</p>
-<p>南通和美家妇产科医院</p>
-<p>南通长城医院</p>
-<p>凉山妇产医院</p>
-<p>凉山男科医院</p>
-<p>莆田中西医肛肠医院</p>
-<p><strong>52、最新补充</strong></p>
-<blockquote><p>北京福来康投资管理有限公司</p>
-<p>广东福康医院</p>
-<p>柳州福康医院</p>
-<p>湖北黄石福康医院</p>
-<p>襄樊市第五人民医院</p>
-<p>武汉华仁医院</p>
-<p>北京京城皮肤病医院</p>
-<p>江门福康医院</p>
-<p>肇庆福康医院</p>
-<p>湖南郴州福康医院</p></blockquote>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%93%E8%80%81%E6%9D%BF%E8%81%8A%E7%A7%91%E6%8A%80-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9B%E9%98%9F%E3%80%81%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2%E7%BB%9D%E4%B8%8D%E8%83%BD%E5%8E%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E6%B6%A6/?category=18271" rel="tag">利润</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97/?category=18271" rel="tag">医疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E4%BD%93%E5%88%B6/?category=18271" rel="tag">医疗体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">医疗体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E7%97%85/?category=18271" rel="tag">看病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83/?category=18271" rel="tag">良心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AA%97%E5%AD%90/?category=18271" rel="tag">骗子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%9125%E5%B2%81%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E6%82%89%E5%B0%BC%E9%81%87%E5%AE%B3%E5%90%8E/" target="cdt-mirror">【图说天朝】25岁成都女孩悉尼遇害后</a>
-</h2>
-<p><p>@曝猛：中国的喷子，再一次刷新了我的三观！</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1.jpg?resize=440%2C782" alt="1" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2.jpg?resize=440%2C782" alt="2" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3.jpg?resize=440%2C782" alt="3" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4.jpg?resize=440%2C782" alt="4" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5.jpg?resize=440%2C782" alt="5" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6.jpg?resize=440%2C782" alt="6" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7.jpg?resize=440%2C782" alt="7" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8.jpg?resize=440%2C782" alt="8" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/9.jpg?resize=440%2C782" alt="9" data-recalc-dims="1"></p>
-<p><strong>相关新闻背景：</strong></p>
-<p>4月29日，成都商报记者获悉，正在澳大利亚留学的成都女孩冷梦梅遇害身亡。澳大利亚驻成都总领馆确认：“冷梦梅的亲属正在办理签证。”截至成都商报记者发稿时，冷梦梅的母亲已于昨日下午乘飞机飞往澳大利亚，预计30日就能到达悉尼。</p>
-<p>成都女孩失踪 几天后被确认遇害</p>
-<p>据澳大利亚当地媒体报道，今年25岁的冷梦梅身材高挑、面容姣好，此前刚从悉尼科技大学酒店管理专业毕业，并和姨妈等亲属一同居住在悉尼。本月21日起，冷梦梅突然失踪。其姨妈回忆：“失踪前一天她还在家里睡觉，第二天早上她起床的时候我们还没有起来，可能有人给她打电话，她就出去了。”心急如焚的亲属们开始在澳大利亚当地华人圈中发寻人启事，并到悉尼Campsie警察局报案。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/W020160429521746311041.jpg?resize=440%2C781" alt="W020160429521746311041" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/W020160429521746311041.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/W020160429521746311041.jpg?resize=577%2C1024 577w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/W020160429521746311041.jpg?w=640 640w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>24日上午，一具漂浮的裸体女尸在悉尼新南威尔士州中部曼莫拉湖国家保护区的海岸喷泉洞里被发现。警方线索显示：死者是一名亚裔女性，年龄在20-30岁，身高170cm左右，及肩黑发，颈部被多次刺伤，且身上没有被岩石撞击的伤痕。警方初步推断认为，女尸应该是被运到喷泉洞附近再被抛下去的。经过与冷梦梅的DNA进行比对，当地警方于29日确认，24日发现的遇害女子就是失踪多日的成都女孩冷梦梅。据当地媒体报道，冷梦梅最后被找到的地方距离悉尼市中心大约116公里，开车大概要1小时40分钟。冷梦梅的公交卡没有使用记录，那她最后究竟是怎么出现在那里的？</p>
-<p>曾就读玉林中学 高考时父亲去世</p>
-<p>冷梦梅的闺蜜李玲(化名)向记者回忆了当年读书时的点点滴滴。李玲说：“我和梦梅认识已整整十年了，听到她遇害的噩耗，我真的惊呆了。”</p>
-<p>2006年，李玲和冷梦梅是玉林中学高中同班同学。高考时，冷梦梅父亲不幸去世。李玲回忆说：“她当时是哭着参加完高考的。她没有把这个噩耗告诉同学，老师说她是我们班上最苦命的娃娃。不过，她是个很坚强的女生。”</p>
-<p>高中毕业后，李玲和冷梦梅都考入了四川大学锦城学院，冷梦梅读的是播音主持专业。读完大二后，冷梦梅就到澳大利亚留学了。李玲说：“她的姨妈一家都在那边。她去那边读书后偶尔也做代购，我和班上很多同学都经常找她代购东西。她为人相当低调。在我眼中，她是个相当单纯的女孩。”</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/W020160429521750997102.jpg?resize=440%2C781" alt="W020160429521750997102" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/W020160429521750997102.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/W020160429521750997102.jpg?resize=577%2C1024 577w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/W020160429521750997102.jpg?w=640 640w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>犯罪嫌疑人已经落网 警方：此人和冷梦梅相识</p>
-<p>新南威尔士州警方于29日上午公布了监控视频拍到的冷梦梅生前最后一段录像。录像显示：21日下午3点，冷梦梅出现在悉尼市中心的Pitt大街，然后在下午3点坐火车从St James火车站返回Campsie火车站。抵达Campsie火车站的时间是下午4点半左右。目前，当地警方正在拼凑她上周五(22日)的活动范围。警方认为，当晚冷梦梅是去约会了，之后就失踪了。</p>
-<p>昨日晚些时候，成都商报记者从澳大利亚新南威尔士州政府官网获悉，谋杀冷梦梅的犯罪嫌疑人已经落网！新洲警方发言人和警局官网均已确认，在当地时间29日下午逮捕了一名27岁男性，其涉嫌谋杀中国籍女留学生冷梦梅，犯罪嫌疑人现被关押在悉尼Campsie警局，他将被控谋杀，被警方拒绝保释，并将在明天出现在保释法庭。警方相信，此人和冷梦梅相识，是何关系需进一步核查。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%9125%E5%B2%81%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%A9%E6%82%89%E5%B0%BC%E9%81%87%E5%AE%B3%E5%90%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B/?category=18271" rel="tag">中国网友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%B7%E6%A2%A6%E6%A2%85/?category=18271" rel="tag">冷梦梅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%B7%E5%AD%90/?category=18271" rel="tag">喷子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%8B%E6%9D%80/?category=18271" rel="tag">谋杀</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E7%8B%BC%E6%80%A7%E5%A4%9A%E4%BA%86-%E4%BA%BA%E6%80%A7%E5%B0%B1%E5%B0%91%E4%BA%86/" target="cdt-mirror">歪理邪说 | 狼性多了 人性就少了</a>
-</h2>
-<p><p>为避免被投诉侵犯商誉，本文并没有出现这家公司的名称，请大家自行脑补。虽然我完全没认为他们有商誉存在。</p>
-<p>这几天，那家著名的懂中文公司又出事了，史称“魏则西“事件，相信到现在已经没人不知道这件事的详情了，我也无需在这里重复一次了。很多人问我，你要不要写一篇？起初我是不想写的，因为关于这家公司的观点，我之前写过好几篇，道理和逻辑已经说的足够清楚了，例子也举的足够多了，无论再怎么说，也没什么新东西了。</p>
-<p>但是这几天看了这家公司找来的各路有意无意的洗地党，我还得再补充一篇。</p>
-<p>一个医疗事件的产生，当然不是一家公司作恶的结果，必然是一个作恶的链条。那么为什么要揪住这家公司狠打呢？很简单，因为每个人有自己觉得必须要做的事。做为一个互联网从业者，我认为信息或者互联网入口是力量最大的资源，所以把用户导向这个欺骗链条的，就是首恶。再加上每次事件之后这家公司玩弄的公关技巧，更是让人厌恶，因此，我认为至少在互联网/科技行业从业者中，把传播这家公司的恶行做为首要目标，是没有问题的，也是职业特征的提现。让更多的人知道它是不可信的，就会少一些人受骗。</p>
-<p>下图来自这家公司常见问题页面。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/huoju.jpg?resize=550%2C540" alt="huoju" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/huoju.jpg?resize=300%2C294 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/huoju.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>当鼓吹这种模式优点的时候，他们不遗余力说明自己优秀，“客户意向高，效果好，成单率高”。等到有人受骗破财丧命的时候，他们反而谦虚起来了。这家公司的员工/公关/前员工以及不明真相群众这几天忙着指责我们这些批评他们的人，说我们是愤青。创始人甚至说如果关掉该公司就能解决问题，他立刻就关。这件事并不需要如果，他们自己的这个介绍页面说的很清楚，如果不通过他们的话，使用传统营销方式的话【全面覆盖 80% 的营销投入被浪费 在“非潜在客户”——广告遍地撒网，真正有需要的人却寥寥无几】，可见如果没有他们，骗子们投入同样的营销费用，受骗的人能少个80%。</p>
-<p>基于以上原因，我真心希望这家公司死掉，如果能少80%的人受骗，已经是很大的成绩了。等它死掉，我们自然会去批评下一个作恶者。进地狱下油锅的队伍，也得排队一个个下，是不是？</p>
-<p>当然，有一些人出于职业和经历的不同，真心认为医院、法律、监管部门责任更大，这种说法不都是为了给那家公司洗地。有这种看法是不错的，下一步，请用你的能力和影响力，去追查和宣传这些责任方具体人员的责任，写出逻辑、证据清晰的文章来。就像我们对这家公司一样，大家各自做自己擅长的事情，问题才能解决。做为工程师，我相信一个大问题是可以被拆散成小问题依次解决的，每个人在自己擅长的领域尽力就好，但是，那些列出来一堆名词，并不真去追求他们的责任，反而骂责怪这家公司的人是愤青，是别有用心，这不是洗地还能是什么？尤其是那家公司的员工前员工们，最喜欢说的就是“那么多环节有问题，为什么只骂我们？”就好像被公诉的骗子在法官面前给自己辩护，不应该判我的刑，骗子多了去了，我只是倒霉被抓住了，那么多没被抓住的，你们今天要判决我，这公平吗？我想任何一个有正常思考能力的人都会斩钉截铁的回答：“当然公平“。</p>
-<p>我之前曾经在文章中写过，我对这家公司改正不报任何希望。原因很简单，他们根本没打算改。这么说是有根据的，在“魏则西“事件之后，原始的“滑膜肉瘤”这个关键词相关的搜索结果中，广告部分立刻就被他们删掉了。但是搜索“软组织肉瘤”、“横纹肌肉瘤”、“纤维肉瘤”之类的相关疾病，结果依旧充满了广告，并且欺骗了“魏则西“仍然在其中。要知道，这家公司的后台是可以查到一个客户投过哪些关键词的，就连根据自己后台数据，把这个已经确定是骗子的客户投放所有关键词都删掉，相关网站都屏蔽这么简单的事情，这家公司都不肯干。这说明了什么？说明了骗得就是你。（以上相关疾病搜索结果来自 “我还是想改名但是”的文章 http://tech.sina.com.cn/zl/post/detail/i/2016-05-01/pid_8507315.htm ）</p>
-<p>很多人质疑说审核广告哪有那么容易。这就是一个现成的例子，事前审核的事情难不难暂且不说，出了大事，被媒体口诛笔伐之后尚且不舍得这些利润，这要歹毒到什么程度的人才能做如此决定？实在难以想象。这家公司一直在要求自己的员工有”狼性“，我觉得他们企业文化做的相当成功，一次又一次的事件都说明了，这家公司充满了狼性，以至于没剩下几分人性。</p>
-<p>请给企业文化部门加薪吧，他们真的很努力。</p>
-<p>还有一种说法是“不要一棍子打死，这家公司的XXX服务还不错”（比如视频或者网盘啥的），这种说法也挺糊涂的。无论你从什么服务进入这家公司的天罗地网，最后总是会被装一堆插件（业内称作XX全家桶），最后用户往往还是被导回搜索，因为那才是利润来源。互联网的商业模式大家都很清楚，各种免费服务用来导入用户，最终到某几个具体的业务变成收入，所有免费的，做的好的，不涉及核心业务的产品，最终都是为核心业务服务的。在这家公司的案例中，我们可以简单概括为，都是为骗人服务的。从这个角度看，这家公司做的越好的产品，害的人就越多。这家公司最让我欣赏的员工，就是那些浑水摸鱼，不好好工作，做出来一个个垃圾产品的员工，他们避免了更多的人受骗，值得尊重。</p>
-<p>我之前写过几篇关于这家公司的文章，几乎每篇都有数百条留言，简直是一部中国互联网血泪史，很多情况是我们这些对互联网非常熟悉的人也完全想不到的情况。比如：</p>
-<p>•有人跟我说，考研搜索考研资料，最后买到了假资料，考研失败。我知道洗地党会说“他买到真的也未必考研就成功”，是的，他是未必成功，但是做为一个正常人，我还是希望他买的真的资料而不是假的。</p>
-<p>•有人跟我说，发论文搜索期刊，遇到了假期刊，差点没能毕业。我知道洗地党会说“他投的真的期刊也未必就能发表”，是的，他是未必能发表，但是做为一个正常人，我还是希望他能投到真的期刊，而不是假的。</p>
-<p>•有人跟我说，搜索小米手机，最后买到了一个假手机。我知道洗地党会说“不去官网买，缺乏基本使用能力，给他真的他也用不出好来”，是的，给他一个真的小米手机，他可能用的也挺艰难。但是我仍然希望他付了小米手机的钱，拿到真的小米手机，哪怕他只是放在桌上当摆设。</p>
-<p>…</p>
-<p>有人说，“围绕这家公司的责骂显得缺乏新意”，我看是洗地的方法比较缺乏新意才对。</p>
-<p>我们未必能骂死这家公司，但至少我们能骂到媒体不敢为这家公司造谣，记者不敢被这家公司请去迪拜。如果有一天能做到这样，这件事就已经走在了成功的道路上。不要因为看起来没什么效果而不说话，不要因为怕得罪人而不敢说话，发出自己的声音吧。</p>
-<p>这就像一块大石头横在路上挡路，你踢了它一脚，它纹丝不动，你又踢了一脚，还没动，但你并不在乎，继续踢，累了休息一下继续踢。后来越来越多的人加入这个行列一起踢，他们并不在乎旁边的人说着风凉话，也不在乎有人笑他们愤青脑残别有用心，只管一脚一脚踢石头。终于有一天，这块巨石松动了，终于有一天，这块巨石轰然滚到了山下。</p>
-<hr><p>参考备注：以前我写过的关于这家公司的文章：</p>
-<ul><li><a href="http://mp.weixin.qq.com/s?__biz=MjM5MTE4Nzk1NA==&mid=401941606&idx=1&sn=72a6309b2a9c500213de6d0ccd288aea&scene=21#wechat_redirect" target="_blank">我是如何坚持10多年站在反某家公司第一线的</a></li>
-<li><a href="http://mp.weixin.qq.com/s?__biz=MjM5MTE4Nzk1NA==&mid=402943533&idx=1&sn=328238ae37ee3f467b6df0e6e447e0a6&scene=21#wechat_redirect" target="_blank">3.15，今天我被一家公司投诉了</a></li>
-<li>标题图  Engraving depicting the <a title="Beast of Gévaudan">beast of Gévaudan</a> (1764)  来自 wikipedia “Wolf attacks on humans” 条目</li>
-<li>原文链接：魏则西父母致电财新网 发独家声明</li>
-</ul><hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E7%8B%BC%E6%80%A7%E5%A4%9A%E4%BA%86-%E4%BA%BA%E6%80%A7%E5%B0%B1%E5%B0%91%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">反百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%B4%A2/?category=18271" rel="tag">搜索</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%8D%E7%82%AC/?category=18271" rel="tag">霍炬</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1585,7 +896,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E7%99%BE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1595,5 +906,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E7%99%BE
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%99%BE%E5%BA%A6%EF%BC%9A%E5%85%9A%E5%9C%A8%E6%88%91%E5%BF%83%E4%B8%AD%EF%BC%81/" target="cdt-mirror">【立此存照】百度：党在我心中</a>
+</h2>
+<p><p>魏则西事件后，有一些网友表示百度似乎解禁了一些敏感词，像“六四”、“巴拿马文件”、“挡在坦克前的青年人”均可正常搜索。有网友指百度这是“要造反”，“哈哈，乖乖的，百度也是怒了？它一定想，多少年来，我一直为你们干脏活，这次不就赚了几百亿的脏钱吗，你们就要抛弃我？干脆……”</p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E7%99%BE%E5%BA%A6%E9%80%A0%E5%8F%8D%EF%BC%9F%E7%BD%91%E6%B0%91%E6%90%9C%E5%88%B0%E5%85%AD%E5%9B%9B%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">苹果日报 | 百度造反？网民搜到六四+巴拿马文件</a></p></blockquote>
+<p>不过，中国数字时代编辑发现，消息爆出后不久，这些关键词又统统被封禁。</p>
+<p>“巴拿马文件”、“六四”、“习近平姐夫”都不符合相关法律法规和政策。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6.png?resize=550%2C234" alt="巴拿马文件" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴拿马文件.png?resize=300%2C128 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴拿马文件.png?resize=768%2C327 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴拿马文件.png?w=894 894w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%AD%E5%9B%9B.png?resize=550%2C296" alt="六四" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/六四.png?resize=300%2C162 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/六四.png?resize=768%2C414 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/六四.png?w=853 853w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%A7%90%E5%A4%AB.png?resize=550%2C238" alt="姐夫" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/姐夫.png?resize=300%2C130 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/姐夫.png?resize=768%2C333 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/姐夫.png?w=1024 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>“姐夫”倒是符合，“18禁”的内容也没关系。</p>
+<p> </p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%A7%90%E5%A4%AB%E9%BB%84.png?resize=550%2C289" alt="姐夫黄" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/姐夫黄.png?resize=300%2C158 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/姐夫黄.png?resize=768%2C404 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/姐夫黄.png?resize=1024%2C538 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/姐夫黄.png?w=1084 1084w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p> </p>
+<p>温家宝、李小琳、李紫丹。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/wen-jiabao.png?resize=550%2C380" alt="wen jiabao" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/wen-jiabao.png?resize=300%2C207 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/wen-jiabao.png?resize=768%2C531 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/wen-jiabao.png?w=794 794w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/li-xiaolin.png?resize=550%2C378" alt="li xiaolin" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/li-xiaolin.png?resize=300%2C206 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/li-xiaolin.png?resize=768%2C528 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/li-xiaolin.png?w=789 789w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/lizidan.png?resize=550%2C309" alt="lizidan" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/lizidan.png?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/lizidan.png?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/lizidan.png?resize=1024%2C576 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/lizidan.png?w=1920 1920w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>该不让看的还是不让看。</p>
+<p>百度上哪里有“挡在坦克前的青年人”？</p>
+<p>只有“党在我心中”。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%9A%E5%9C%A8.png?resize=550%2C193" alt="党在" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/党在.png?resize=768%2C270 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/党在.png?w=870 870w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>请允许小编做一个…悲伤的表情</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/baozou.jpg?resize=151%2C136" alt="baozou" data-recalc-dims="1"></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%99%BE%E5%BA%A6%EF%BC%9A%E5%85%9A%E5%9C%A8%E6%88%91%E5%BF%83%E4%B8%AD%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9C%A8%E6%88%91%E5%BF%83%E4%B8%AD/?category=18271" rel="tag">党在我心中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E9%94%AE%E8%AF%8D/?category=18271" rel="tag">关键词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E7%99%BE%E5%BA%A6%E9%80%A0%E5%8F%8D%EF%BC%9F%E7%BD%91%E6%B0%91%E6%90%9C%E5%88%B0%E5%85%AD%E5%9B%9B%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="cdt-mirror">苹果日报 | 百度造反？网民搜到六四+巴拿马文件</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430385_f51f.jpg?resize=600%2C348" alt="1462430385_f51f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430385_f51f.jpg?resize=300%2C174 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430385_f51f.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
@@ -819,39 +850,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%91%98
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%99%BE%E5%BA%A6%E5%86%85%E9%83%A8%E5%8F%91%E6%96%87%EF%BC%9A%E7%A0%A5%E7%A0%BA%E9%A3%8E%E9%9B%A8%E5%9D%9A%E5%AE%88%E4%BD%BF%E5%91%BD/" target="cdt-mirror">月光博客 | 百度内部发文：砥砺风雨坚守使命</a>
-</h2>
-<p><p>5月3日中午消息，据知情人士消息，百度内部今日通过内网发布题目为《砥砺风雨坚守使命》的文章，对五一期间的“魏则西事件”做出了内部说明。</p>
-<p>百度方面首先对魏则西事件做了说明，叙述了魏则西事件的经过。除了对两则声明和欢迎国家部委入驻监督外，百度还对“重要事实”做了澄清，百度方面称，此前有媒体以独家授权发布的魏则西父母的声明不实，百度在魏则西事件发生后曾联系过魏则西父母，而且有录音为证。</p>
-<p>此外，百度内文还称，欢迎国家部委监督，并会配合相关部门一起治理线下违规医院。百度还进一步表示：为此百度发布声明称打击虚假医疗的决心不会变，高门槛、严审核是百度推广长期持续的机制，“我们不会因为’问题医院’的抱团抵制而放宽要求，更不会与任何一家不合资质要求的的医疗机构进行合作。”</p>
-<p>最后，百度方面在内文中还表明了自己的决心：“搜索就像一面镜子，照见的是整个真实世界。当我们一起努力去建设一个好的世界，打击恶的，就会得到一个好的搜索。今天我们作为一家优秀的企业，需要去背负国家、行业本该履行的监管责任。”(李根)</p>
-<p>百度《砥砺风雨坚守使命》全文如下：</p>
-<p>可能从来没有一个五一假期让百度人过得如此揪心甚至委屈。我们一直引以为豪的公司，忽然间在微博、知乎、微信等社交媒体上，被一场浩浩荡荡的舆论讨伐推上了风口浪尖，也许你和小编一样，面对来自自己亲人、朋友以及陌生网友的询问、质疑甚至责难，百口莫辩、言不尽意。</p>
-<p>4月12日，年仅21岁的大学生魏则西，罹患“滑膜肉瘤”晚期而离世。他曾在西安的一家医院先后接受了4次化疗和25次放疗，但是效果并不理想。魏则西父母并未就此放弃，在北京某肿瘤医院医师的推荐下，通过央视和百度了解“武警北京总队第二医院”后，魏则西父母先行前往考察，并被该医院李姓医生告知可治疗，于是魏则西开始了在武警北京总队第二医院先后4次的治疗，花费了二十多万医疗费后未见好转。后来他又经过了其他多家医院的治疗，最后不幸离世。</p>
-<p>4月底，网友找出魏则西在2016年2月26日一则知乎问答，将百度搜索和百度推广推上风口浪尖。4月28日，百度通过“百度推广”微博账号中对此事做出回应，对逝者以慰问，并调查医院资质。4月30日，各路自媒体大V和媒体纷纷撰文。5月1日，百度推广再度发声，表示第一时间向发证单位及武警总部主管该院的相关部门递交审查申请函，希望相关部门能对其治疗效果及内部管理问题立即展开调查，并全力支持魏则西家属维权。5月2日，该门诊被关停，更多媒体报道爆出莆田系承包科室和民营医院虚假宣传各种乱象。5月2日晚，中央网信办负责人发表讲话宣布成立联合调查组，我们宣布欢迎调查并将积极配合，厘清事实真相。</p>
-<p>和每一个普通人一样，我们为年轻的生命难过，因此我们在了解情况后的第一时间就致电了则西的父母，这里有一个需要郑重澄清的事实，源自一篇媒体报道——5月1日22点某网站所谓的独家授权报道里，声称采访了魏则西的父母，“事实上，百度从未与他们联系过”。</p>
-<p>幸而我们打电话的小风同学留下了通话记录，这段通话发生在4月28日13:26分，时长为13分53秒，手机尾号为8723。在电话沟通中，小风慰问了魏父，在电话中魏父也讲述了则西治病的艰辛过程，以及其儿子对生命的热爱与坚韧。</p>
-<p>为了不让逝者家属重复悲伤，小风没有公开更多通话信息，然而却被指责“魏父说百度没打过电话，百度在撒谎！”这让堂堂七尺男儿的他辗转反侧——本是替公司表达真诚的慰问，却使公司成了被怀疑的对象，这份委屈让人震惊且愤怒。“有则改之，无则加勉”，我们欢迎各方指正，但是也绝对不允许扭曲事实！</p>
-<p>这三天里，我们还在积极申请、配合国家的监督管理。</p>
-<p>北京武警二院，全称为中国人民武装警察部队北京市总队第二医院，这是一所三级甲等综合性医院，同时是北京市首批基本医疗保险定点医院。这家资质齐全、公立三甲的医院此前也曾被央视多次正面报道。但如媒体调查爆出，他们的这一科室却被发现承包给了“莆田系”。</p>
-<p>2015年初，百度就曾加大整治力度并下线违规医院，引发民营医院群体“莆田系”的强烈反弹和联合抵制。为此百度发布声明称打击虚假医疗的决心不会变，高门槛、严审核是百度推广长期持续的机制，“我们不会因为’问题医院’的抱团抵制而放宽要求，更不会与任何一家不合资质要求的的医疗机构进行合作。”</p>
-<p>百度不断的把审核流程升级的更严格，但为什么这些医院就能证照齐全？疗法就能国家合法审批？要知道，百度做了最大的“雷达系统”，打击非法医疗机构，仅在2015年就拒绝医疗虚假推广3000万个，拒绝不良账户438,300个，判罚的违规消费金额达到了466,512,966.99元。百度从来没有仅以给钱的多少作为排位的标准，在社会责任和商业推广的道路上，始终未曾松懈。不但如此，我们始终和广大网友站在一起，不断加强加严审核流程，该整改整改，该拒绝拒绝，我们不会因商业利益丧失企业良心，这点毋庸置疑。</p>
-<p>搜索就像一面镜子，照见的是整个真实世界。当我们一起努力去建设一个好的世界，打击恶的，就会得到一个好的搜索。今天我们作为一家优秀的企业，需要去背负国家、行业本该履行的监管责任。这是社会对我们的期待，因为能力越大，责任越大。我们无意也不会逃避这份责任，正如我们自知做的还不够好，还有很多地方需要改进，这也是为什么我们这四万多人每天还在努力工作的动力。在每个崭新的今天，我们继续用心上班，独立思考，修炼内功，不断提升自己，找出产品体验和服务品质上的不足之处，把我们的产品打磨地更好、让我们的用户更满意，就是对外界最好的回应。</p>
-<p>相关阅读：</p>
-<p><a title="财经网 | 魏则西父母致电财新网 发独家声明" href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E9%AD%8F%E5%88%99%E8%A5%BF%E7%88%B6%E6%AF%8D%E8%87%B4%E7%94%B5%E8%B4%A2%E6%96%B0%E7%BD%91-%E5%8F%91%E7%8B%AC%E5%AE%B6%E5%A3%B0%E6%98%8E/">财经网 | 魏则西父母致电财新网 发独家声明</a></p>
-<p><a title="有槽 | 一个死在百度和部队医院之手的年轻人" href="https://chinadigitaltimes.net/chinese/2016/04/%E6%9C%89%E6%A7%BD-%E4%B8%80%E4%B8%AA%E6%AD%BB%E5%9C%A8%E7%99%BE%E5%BA%A6%E5%92%8C%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E4%B9%8B%E6%89%8B%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA/">有槽 | 一个死在百度和部队医院之手的年轻人</a></p>
-<p><a title="王五四 | 这届病人不行 但是这届病人值钱" href="https://chinadigitaltimes.net/chinese/2016/05/%E7%8E%8B%E4%BA%94%E5%9B%9B-%E8%BF%99%E5%B1%8A%E7%97%85%E4%BA%BA%E4%B8%8D%E8%A1%8C-%E4%BD%86%E6%98%AF%E8%BF%99%E5%B1%8A%E7%97%85%E4%BA%BA%E5%80%BC%E9%92%B1/">王五四 | 这届病人不行 但是这届病人值钱</a></p>
-<p><a title="歪理邪说 | 狼性多了 人性就少了" href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E7%8B%BC%E6%80%A7%E5%A4%9A%E4%BA%86-%E4%BA%BA%E6%80%A7%E5%B0%B1%E5%B0%91%E4%BA%86/">歪理邪说 | 狼性多了 人性就少了</a></p>
-<p><a title="歪理邪说｜3.15，今天我被一家公司投诉了 2016.03.15" href="https://chinadigitaltimes.net/chinese/2016/03/3-15%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%88%91%E8%A2%AB%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%8A%95%E8%AF%89%E4%BA%86/">歪理邪说｜3.15，今天我被一家公司投诉了</a></p>
-<p><a title="歪理邪说 | 再谈百度 一个必须给父母看的案例 2016.01.14" href="https://chinadigitaltimes.net/chinese/2016/01/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E5%86%8D%E8%B0%88%E7%99%BE%E5%BA%A6%EF%BC%9Akpi%E3%80%81%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%B8%AA%E5%BF%85%E9%A1%BB%E7%BB%99/">歪理邪说 | 再谈百度 一个必须给父母看的案例</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%9C%88%E5%85%89%E5%8D%9A%E5%AE%A2-%E7%99%BE%E5%BA%A6%E5%86%85%E9%83%A8%E5%8F%91%E6%96%87%EF%BC%9A%E7%A0%A5%E7%A0%BA%E9%A3%8E%E9%9B%A8%E5%9D%9A%E5%AE%88%E4%BD%BF%E5%91%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E9%99%A2%E5%A4%96%E5%8C%85%E7%A7%91%E5%AE%A4/?category=18271" rel="tag">医院外包科室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BB%91%E8%86%9C%E8%82%89%E7%98%A4/?category=18271" rel="tag">滑膜肉瘤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%8C%E7%97%87/?category=18271" rel="tag">癌症</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%BF%E7%98%A4%E7%94%9F%E7%89%A9%E5%85%8D%E7%96%AB%E7%96%97%E6%B3%95/?category=18271" rel="tag">肿瘤生物免疫疗法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -873,5 +871,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

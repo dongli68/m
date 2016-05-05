@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,91 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E7%99%BE%E5%BA%A6%E9%80%A0%E5%8F%8D%EF%BC%9F%E7%BD%91%E6%B0%91%E6%90%9C%E5%88%B0%E5%85%AD%E5%9B%9B%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="cdt-mirror">苹果日报 | 百度造反？网民搜到六四+巴拿马文件</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430385_f51f.jpg?resize=600%2C348" alt="1462430385_f51f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430385_f51f.jpg?resize=300%2C174 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430385_f51f.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>21岁陕西大学生近日透过百度搜索器，找到武警北京总队第二医院，结果治疗失败并去世，事件引起内地网民广泛关注，国家网信办日前更派员进驻百度调查。今日中午，内地网民爆料指，使用百度搜索找到「六四」、「挡在坦克前的青年人」、「王维林」、「巴拿马文件」、「刘晓波」等条目内容。网民写道：「哈哈，乖乖的，百度也是怒了？它一定想，多少年来，我一直为你们干脏活，这次不就赚了几百亿的脏钱吗，你们就要抛弃我？干脆……」「百度任性了，叫你们把我当替罪羊」另有网民指，显然是百度造反了！</p>
+<p>一般情况下，不会有使用者去百度搜索「六四」、「巴拿马文件 」等关键字，因搜索引擎会记录用户讯息。搜索必定是有准备而为，除非极度关注百度「变化」的网民、或者说明知百度「会有变」的网民，也就是百度网页管理员工。</p>
+<p>该消息瞬间在大陆各种平台上热传，想必短时间内百度搜索的流量会有突增。这次百度能搜出敏感讯息有多种可能性，早前也曾出现，暂时难以推测出自何种原因。有网民建议不要继续测试，至少搜索引擎会记录用户讯息或锁定用户的IP位置是可以肯定的。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430382_3edb.jpg?resize=600%2C348" alt="1462430382_3edb" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430382_3edb.jpg?resize=300%2C174 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430382_3edb.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430392_112c.jpg?resize=600%2C348" alt="1462430392_112c" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430392_112c.jpg?resize=300%2C174 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430392_112c.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462431690_eb4f.jpg?resize=600%2C338" alt="1462431690_eb4f" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462431690_eb4f.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462431690_eb4f.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430377_6da7.jpg?resize=600%2C348" alt="1462430377_6da7" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430377_6da7.jpg?resize=300%2C174 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1462430377_6da7.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5-%E7%99%BE%E5%BA%A6%E9%80%A0%E5%8F%8D%EF%BC%9F%E7%BD%91%E6%B0%91%E6%90%9C%E5%88%B0%E5%85%AD%E5%9B%9B%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E8%AF%8D/?category=18271" rel="tag">敏感词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%BB%B4%E6%9E%97/?category=18271" rel="tag">王维林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2/?category=18271" rel="tag">百度搜索</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%BA%E8%AF%81%E6%98%8E%E5%A7%90%E5%A7%90%E6%98%AF%E5%A7%90%E5%A7%90%EF%BC%8C%E5%A5%B9%E8%A2%AB%E6%8B%98%E7%95%9915%E5%A4%A9/" target="cdt-mirror">纽约时报｜为证明“姐姐是姐姐”，她被拘留15天</a>
+</h2>
+<p><p>北京——一部持续数月的官僚超现实主义大戏在上周终结。中国一家大型企业的退休经理、63岁的野靖环跌倒在北京一座法院的地板上，之后又和四位朋友一齐接受了15天的拘留处罚。</p>
+<p>在西城区法院一个分区发生的这些事，加深了野靖环的朋友及一些律师的一种感觉：中国的公安和司法系统出了严重的问题，尽管国家主席习近平等官员承诺要“依法治国”。</p>
+<p>事件始于一桩比较小且能轻易避免的不公行为。</p>
+<p>“去年初，她去找警察开文件，好证明她姐姐就是她姐姐，”61岁的郑威说。她是野靖环的朋友，上周事发时就陪在她身边。</p>
+<p>这种“亲属关系证明”在法律和行政案件中经常用到，需要由一个人户口所在的公安机关出具。</p>
+<p>同样已经退休的郑威和另一位朋友苏楠表示，野靖环需要有这个文件才能签署有关家里房屋拆迁的协议。苏楠是一家人权组织的成员，她说上周野靖环与法院工作人员的争执演变为肢体冲突时自己并不在场，不过她在那天晚些时候赶来帮忙。</p>
+<p>郑威称，警方拒绝给野靖环开具证明。“他们说，两个人父母一样，不一定就意味着她们是姐妹，”她说。</p>
+<p>今年3月初，受挫的野靖环和一群朋友前往北京西城区法院，就公安机关处理她的申请的方式提起诉讼。到了3月中，法院没有任何反应，尽管按照规定，法院应该在七天内回复是否立案。在3月14日，野靖环和她的朋友们前往法院询问。</p>
+<p>郑威表示，因为问了好几名工作人员都得不到答案，野靖环就在投诉引导窗口拍下一人的照片。这是她最终被指引去找的人，负责帮助人们提交诉讼文件。</p>
+<p>“我们是普通人，”郑威如此解释野靖环为什么那么做。“我们去了法院，怕他们”——那里的工作人员——“说我们没去过，所以我们得留下证据。那我们就拍了张照片。”</p>
+<p>郑威表示，被拍照行为激怒的工作人员要求野靖环删除，当她拒绝后，工作人员抢过手机，把野靖环和她72岁的朋友王秀珍扣押起来，在地下车库里关了20分钟。</p>
+<p>到了4月27日，野靖环和她的友人再次来到法院申诉工作人员没有处理她针对公安机关提起的诉讼，内容是她要求开具可以证明自己和姐姐亲属关系的证明却未得到对方的满足。</p>
+<p>作为证明，她们中有一人再次拍下法院一名工作人员接收野靖环文件的照片。工作人员又一次要求删除。郑威表示，几名官员试图带走拍照的那个人，拉扯之中野靖环跌倒在地上。她和苏楠说，工作人员以扰乱法院秩序的理由给五个人发出拘留令。其中有三人因年龄或健康原因在当天晚些时候释放。</p>
+<p>律师马连顺表示，目前只有野靖环和她50岁的朋友朱秀玲还被关在东城区看守所内。马连顺曾两次试图进去看望她们，都被拒之门外。<br>
+周二，记者多次拨打西城区法院南区的两个电话，始终无人接听。</p>
+<p>东城区看守所的一名人员在接起电话后表示，媒体采访需要联系当地的公安机关。东城区派出所又将请求转至负责媒体接待的科室。该科室无人接听电话。</p>
+<p>工作人员告诉马连顺，他不能见关在看守所里的野靖环等人，因为他的律师证上的印章模糊不清。他表示，自从事律师工作以来，他第一次听到这样的说法。</p>
+<p>“依法治国是虚伪的，”马连顺说。“面对工作人员自己发明的这些荒唐法规，我们无法自卫。老百姓上法院办事，应该能把事顺利办了才对。”</p>
+<p><em>狄雨霏(Didi Kirsten Tatlow)是《纽约时报》驻京记者。</em></p>
+<p><em>欢迎在Twitter关注狄雨霏 @dktatlow。</em><br><em> Vanessa Piao对本文有研究贡献。</em><br><em> 翻译：纽约时报中文网</em><br><em> <a href="http://www.nytimes.com/2016/05/05/world/asia/china-police-justice-systems.html" target="_blank">点击查看本文英文版。</a></em></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%BA%E8%AF%81%E6%98%8E%E5%A7%90%E5%A7%90%E6%98%AF%E5%A7%90%E5%A7%90%EF%BC%8C%E5%A5%B9%E8%A2%AB%E6%8B%98%E7%95%9915%E5%A4%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8E%E9%9D%96%E7%8E%AF/?category=18271" rel="tag">野靖环</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E5%AD%A6%E5%8F%8D%E8%AE%BD%EF%BC%9A%E8%BF%99%E5%B1%8A%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%B8%8D/" target="cdt-mirror">【异闻观止】环球时报学反讽：“这届美国人民不行”</a>
+</h2>
+<p><p><strong>【编者注】《环时》在未署名评论文章《<a href="http://news.sina.com.cn/w/sd/2016-05-05/doc-ifxryhhi8372914.shtml" target="_blank">视特朗普“跳梁小丑”，世界都看错了</a>》中，将“这届人民不行”这个最初被网民拿来讽刺中共政府的流行语用在了反讽美国大选上。这句话最初是因为2016年3月《人民日报》一篇题为《我们都是风气“一分子”》的文章而<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C-%E5%85%9A%E5%AA%92%E5%88%A0%E5%B8%96%E5%BE%88%E8%A1%8C/" target="_blank">流行起来</a>的。由于《人日》文章通篇强调了贪污腐败之风盛行人人都有责，没有人是无辜的，因此被网民调侃为通篇都在说“这届人民不行”。@人民日报 官方微博账户随后很快将相关微博的评论从2799条删到53条只见数字不见内容的“僵尸”评论。</strong></p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C-%E5%85%9A%E5%AA%92%E5%88%A0%E5%B8%96%E5%BE%88%E8%A1%8C/" target="_blank">【网络民议】这届人民不行 </a></p></blockquote>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E6%97%B6%E5%B0%8F%E7%BC%96.jpg" rel="attachment wp-att-436887"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E6%97%B6%E5%B0%8F%E7%BC%96.jpg?resize=500%2C449" alt="环时小编" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时小编.jpg?resize=300%2C269 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时小编.jpg?resize=768%2C689 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时小编.jpg?resize=1024%2C919 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时小编.jpg?w=2010 2010w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@环球时报 肾6小编为该社抱不平</span></p></div>
+<p><em>原标题：视特朗普“跳梁小丑”，世界都看错了</em></p>
+<p>美国地产大亨唐纳德·特朗普在3日举行的共和党印第安纳州初选中大胜，他的主要竞争者克鲁兹当天被迫宣布退选。特朗普至此扫清了通往共和党总统候选人提名的道路，共和党全国委员会主席普里伯斯当晚发推文，称特朗普将是共和党“假定提名人”，并呼吁全党团结集中力量击败希拉里·克林顿。</p>
+<p>这是一个震动美国政坛和舆论、也震动了世界的时刻。美国内外的绝大部分政治观察家、媒体精英都曾认为特朗普是一个跳梁小丑，而现在，一些新的民调显示，他的支持率开始超过希拉里。今天的局面仅仅几个月以前几乎不可想象，但“大嘴”特朗普真的走到与希拉里的单挑决斗。<strong>为什么大家都看错了呢？看来只能用当前流行的网络语解释了：是“这届美国人民不行”。</strong></p>
+<p>特朗普气势如虹，尽管很多专业分析人士仍认为他将被希拉里打败，但他们说这种话时的口气不敢很绝对了，给相反可能性留出了后门。之前小瞧特朗普的预测都错了，大家都有点怕再错最后一次。</p>
+<p>如果特朗普真的走进白宫，那将意味着什么，现在成为一个严肃的课题。</p>
+<p>美国社会已经出现很大变化，这种变化被美国传统政治精英和媒体忽视了。特朗普逆着共和党建制派的压制和阻挠，也逆着美国主流舆论的嘲弄强势崛起，必将对美国传统运行机制造成相当广泛的触动。他将凝聚改革的更多期待，<strong>他这样做的权威也会更多些</strong>，使美国更容易走向诸多政策的调整。</p>
+<p>按照特朗普目前宣称的政策主张，他领导下的美国可能朝孤立主义、美国利益至上、经济优先和意识形态重要性下降的方向靠拢。具体表现为美国会为了利益与盟国计较、摩擦，北约、中东盟国、日韩等会被要求“不再免费搭车”，个别吵架不排除出现。反移民倾向将冲击拉美裔，导致美国同有些拉美国家龃龉。中日是美最大贸易顺差国，将面临比目前更大的开放市场压力。</p>
+<p>希拉里如果当选，美国将更可预测，在人们熟悉的轨道下继续运转，美国的对华政策可能更趋强硬，但有可控性。特朗普代表实用主义，希拉里代表意识形态优先，对中国来说这个区别将更为明显。希拉里对中美关系的视角很传统，特朗普的视角相当新，后者意味着变化。</p>
+<p>怎么变？特朗普有可能更蛮横，也有可能对中国的实力更尊重，中美关系将面临新的磨合，调整空间有可能比较大。</p>
+<p>不过，中美关系势比人强，美国的国内问题同样如此。特朗普如果成为总统，美国内外现实对他的制约必将发生作用，造成他被“改造”。事实上他与美国的“改造”将是相互的，他一旦入主白宫，决不能像今天这样随便。细心的人不难发现，他现在已经比他刚开始参选时说话“收多了”。</p>
+<p>特朗普如果爆了大冷门登上总统宝座，他的主动性和改造力决不像他放荡不羁表象所预示的那样多。当然了，他走到今天，可以说已经“创造了历史”，即使他最后惜败于希拉里，他给美国政治留下的烙印也不会一扫而空。</p>
+<p>美国接下来的大选格局基本确定：特朗普vs希拉里，它将是真正意义上的政治超级秀，世界对它的关注度和真实利益相关性都前所未有。一边是颠覆了美国政治正确性的实用主义商业大亨。一边是浑身上下都是美国政治正确性符号的前国务卿、前总统夫人，主流得很彻底。两人都代表了某种“第一”。</p>
+<p>应对美国的不确定性，最可靠的东西是实力。相信无论特朗普还是希拉里，他们通过不同角度最终看到的中国都是“实力中国”，而非别的什么。</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1757755497" target="_blank">@小鱼君ZXY</a>：“这届人民不行”本是网友自我调侃来暗讽官方的一句话，作为官媒不引以为耻，反而用这来评论他国，这脸皮厚的也是没谁了<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">中国媒体宣布：这届世界人民不行<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/n/Akattsuki?from=feed&loc=at" target="_blank">@Akattsuki</a>: 这届胡编智商不行//<a href="http://weibo.com/n/Lubiowater?from=feed&loc=at" target="_blank">@Lubiowater</a>: 可以 //<a href="http://weibo.com/n/%E7%AD%8B%E8%82%89%E7%BB%AD%E4%BA%BA?from=feed&loc=at" target="_blank">@筋肉续人</a>:这届人民不行这梗也敢用啊？</p>
+<p><a href="http://weibo.com/5580340573" target="_blank">@赵家军团</a>：哈哈哈，笑岔气了，这届人民不行，本来是网民调侃那头肥猪发泄不满的，环球总能独辟蹊径，用另类方式把它扩散，让全国都知道这届人民不满了，真是不怕神一样的对手，就怕猪一样的队友<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1627159662" target="_blank">@小熊饼干抢馒头</a>：自己屁股流鲜血，还帮别人医痔疮。<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/29jiajiajia" target="_blank">@鹿人嘉嘉</a>：但你知道这句反讽出自哪吗？一时间分不清贵编是真憨还是高级黑。</p>
+<p>@春哥曾哥都是我的姐：我草，环球这是要作大死啊？这流星雨都敢说？</p>
+<p>@Tim_刘天明：那边结果出来前还有点悬念，咱这多少年前就知道是谁了</p>
+<p>@守守守夜人：噗，他们理解这句流行语内涵吗，小心被咔嚓</p>
+<p>@李将军9418：环球真是，明明给你吃的屎，你还有脸说别人</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E5%AD%A6%E5%8F%8D%E8%AE%BD%EF%BC%9A%E8%BF%99%E5%B1%8A%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%B0%91%E4%B8%80%E7%82%B9%E5%A5%97%E8%B7%AF-%E5%A4%9A%E4%B8%80%E7%82%B9%E7%9C%9F%E8%AF%9A/" target="cdt-mirror">【CDTV】少一点套路 多一点真诚</a>
 </h2>
 <p><p>@Happy张江：大写的套路！！记者采访了一位游玩的小学生，这回答的也是没sei啦，一看就是三好学生！</p>
@@ -770,121 +852,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/" target="cdt-mirror">搜狐弧度 | 莆田系股东曝与80所部队医院合作 给某院送礼百万</a>
-</h2>
-<p><p>大学生魏则西病逝事件发生后，涉事的百度和莆田系均遭受广泛质疑。</p>
-<p>5月2日半夜，网络上有人发布消息，称莆田系陈氏兄弟的上海康新、成都华康、上海柯莱逊生物公司与全国部队医院及地方医院共100所合作，其中就包括“魏则西事件”的武警北京市总队第二医院（下简称“武警北京二院”）。</p>
-<p>据搜狐新闻“弧度”栏目此前调查，武警二院虽为公立三甲医院，但其肿瘤生物治疗中心背景复杂，不仅网站注册资料繁杂混乱，且域名所有者系莆田系公司——上海康新医院投资管理有限公司。</p>
-<p>搜狐新闻联系到爆料人陈元发助理，对方称网曝信息的来源均为陈元发本人。搜狐新闻检索发现，陈元发自2013年8月至2014年4月，在其腾讯微博上陆续公布其与莆田系创始人陈氏兄弟（陈新贤、陈新喜）的经济纠纷细节，称”作为上海康新医疗集团的老板，而欠其康新股东之一陈元发几年(2011-2015)的股权分红约6000多万，至今一分钱也没给。”</p>
-<p>在陈元发的腾讯微博上，他曝出100所与陈氏兄弟旗下公司合作的部队及地方医院名单。其中，合作的部队医院占80所，不乏含多个地区的武警总医院。</p>
-
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/a3m1h089637249167596/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/a3m1h089637249167596-150x150.jpg" alt="a3m1h089637249167596" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3m1h089637249167596.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3m1h089637249167596.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3m1h089637249167596.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/a3zkql89637202452596/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/a3zkql89637202452596-150x150.jpg" alt="a3zkql89637202452596" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3zkql89637202452596.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3zkql89637202452596.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3zkql89637202452596.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/a04hgf89637217518596/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/a04hgf89637217518596-150x150.jpg" alt="a04hgf89637217518596" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a04hgf89637217518596.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a04hgf89637217518596.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a04hgf89637217518596.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/a8onm189637233181596/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/a8onm189637233181596-150x150.jpg" alt="a8onm189637233181596" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a8onm189637233181596.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a8onm189637233181596.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a8onm189637233181596.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/a3477089637262537596/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/a3477089637262537596-150x150.jpg" alt="a3477089637262537596" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3477089637262537596.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3477089637262537596.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a3477089637262537596.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
-
-<p>除此之外，陈元发还公布了陈氏兄弟的公司给多个部队医院及领导过节送礼的金额报表。报表显示，2012年新加坡华康医疗投资集团给合作方南京解放军第81医院院长的“春节送礼”金额高达40万元，且给该医院22名领导送的礼金共计98.7万元。</p>
-<p>根据陈元发提供的材料，2012年春节，上海康新给安庆空军第116医院21名领导送礼共计72.3万元。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394702.jpg?resize=600%2C450" alt="Img447394702" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394702.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394702.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394704.jpg?resize=600%2C450" alt="Img447394704" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394704.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394704.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394705.jpg?resize=600%2C431" alt="Img447394705" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394705.jpg?resize=300%2C216 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394705.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>在此之前，给合作医院送礼已是陈氏兄弟公司多年来的惯例。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394707.jpg?resize=600%2C450" alt="Img447394707" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394707.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394707.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394709.jpg?resize=600%2C450" alt="Img447394709" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394709.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394709.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394710.jpg?resize=600%2C341" alt="Img447394710" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394710.jpg?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394710.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394712.jpg?resize=460%2C613" alt="Img447394712" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394712.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394712.jpg?w=460 460w" sizes="(max-width: 460px) 100vw, 460px" data-recalc-dims="1"></p>
-<p>除此之外，陈元发还曝出，公司会给各个合作医院分配收入指标任务。例如，2010年，陈元发负责的14所医院被下达的指标共计3.25亿，完成了2.405亿。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394713.jpg?resize=460%2C613" alt="Img447394713" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394713.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394713.jpg?w=460 460w" sizes="(max-width: 460px) 100vw, 460px" data-recalc-dims="1"></p>
-<p>根据陈元发提供的上海康新集团2012年全年度财务汇总报表，显示出的31所合作医院妇产科的全年指标均、实际收入以千万数额来计算。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394714.jpg?resize=523%2C720" alt="Img447394714" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394714.jpg?resize=218%2C300 218w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394714.jpg?w=523 523w" sizes="(max-width: 523px) 100vw, 523px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394716.jpg?resize=523%2C720" alt="Img447394716" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394716.jpg?resize=218%2C300 218w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394716.jpg?w=523 523w" sizes="(max-width: 523px) 100vw, 523px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394718.jpg?resize=600%2C715" alt="Img447394718" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394718.jpg?resize=252%2C300 252w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img447394718.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>其实，在2013年9月，卫计委联合包括总后勤部卫生部医管局和武警部队后勤部卫生部在内的共计六个部门联合开展打击非法行医专项行动，明确要求解放军各大单位卫生部门和各武警总队参照地方单位同步执行，行动领导小组成员名单也显示，解放军总后勤部和武警部队后勤主管部门相关负责人均参与其中。</p>
-<p>此后的多次工作进展和成果通报文件，屡屡出现“要加强军地协调配合，特别是对于涉嫌假冒军队医疗机构、医务人员非法行医的，军队和地方有关部门要统一行动，齐抓共管，确保查处到位”、“军地各级相关部门按照各地领导小组的统一部署，分工明确，配合密切”等表述。2014年2月一次通报还介绍，在三个月的集中整治阶段，军队系统清理违规医疗合作项目44个，辞退违规聘用医务人员168名，关停假冒军队医疗机构网站46个，查处假冒军队医务人员13人，移送地方假冒军队医疗机构非法行医事件23起。</p>
-<p>一位接近卫计委的权威人士此前接受搜狐新闻表示，过去的十多年间，卫计委一直严厉打击医院外包科室行为，但其不了解部队卫生主管部门如何就此展开工作。</p>
-<p>另据中央军委今年3月印发《关于军队和武警部队全面停止有偿服务活动的通知》的要求，中央军委计划用3年左右时间，分步骤停止军队和武警部队一切有偿服务活动，其中就包括医院。</p>
-<p>栏目：新闻当事人<br>
-作者：付珊<br>
-栏目主编：王辰</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E9%99%A2%E5%A4%96%E5%8C%85%E7%A7%91%E5%AE%A4/?category=18271" rel="tag">医院外包科室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E6%90%9E%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%90%97/" target="cdt-mirror">【网络民议】党这是在搞社会调查吗</a>
-</h2>
-<p><p>5月3日凌晨1点30分，人民网发布了一条微博“假如以后没有网络了 你最担心什么”，这条让人联想丰富的提问之后引来了不少网友的评论。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%BA%E6%B0%91%E7%BD%91.jpg?resize=592%2C397" alt="人民网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网.jpg?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网.jpg?w=592 592w" sizes="(max-width: 592px) 100vw, 592px" data-recalc-dims="1"></p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
-<p>@薄学多柴：最担心像海南这种事被封锁！！而我们只看见的新闻联播里面歌舞升平………</p>
-<p>@天生反对者：我最担心的是，那些丑恶的腐败、暴力、强拆、知法犯法、执法犯法就会明目张胆，再也看不到了。</p>
-<p>@清蒸醉蟹：我党这是在搞社会调查吗？</p>
-<p>@森林里的酱菜：防火墙要增强了？</p>
-<p>@向着夕阳奔跑：你指的是局域网还是互联网？</p>
-<p>@不要no西多：异地恋灭绝了。</p>
-<p>@GAY督教：没有网络了，百度还咋骗钱？愁死李彦宏了…..</p>
-<p>@林建勇2014：开始放风了你。</p>
-<p>@太阳王-：人民网十年后：假如以后没有文字了，你最担心的是什么？</p>
-<p>@超哥看金融：可怕的提问！闭关锁国重回原始社会，难道是我们这代人的宿命？</p>
-<p>@那么的爱你我该怎么办：断网之后网民上街散步，然后坦克不够用，增加坦克产量，然后扩大内需，钢铁行业兴盛，经济发展，人民幸福。</p>
-<p>@汉风和雨：局域网已经不能满足某党的要求了。只有断网才能满足。现在是提起点放风声出来，好有个心理准备。</p>
-<p>@大炮小白兔：呵呵~~那便是“黎明前最黑暗的时刻”，大胆预测一下，如果瞬时没网了，相信天也要变了。不信就试试~</p>
-<p>@啊呗C嘚：假如没有共产党怎么办？</p>
-<p>@活肥马：担心领导的安全。</p>
-<p>@天蝎毒蛰：已经经历过啊……09年的时候，西北某省/直辖市/自治区，整整一年无网无短信啊！</p>
-<p>@过来看看你哈：最担心的是；看不到一点点的真话了。</p>
-<p>@瀰生：沒有網絡，幾億人就會暴動的。t狗還沒有蠢到那種地步，最多墻加厚而已。</p>
-<p>@tongjishi：几个意思啊……你TM把话说清楚。</p>
-<p>@探寻历史足迹：我最担心的是只能看到中央电视台、人民日报、新华社的新闻了。</p>
-<p>@明心_现性：担心你老板的脑袋。</p>
-<p>@有感之言：我相信中央政府没有一个人敢断网络。</p>
-<p>@Soul-Leobaby：最担心国家大事。</p>
-<p>@坡异民：五毛什么的咋活啊？</p>
-<p>@乱云飞789：人民网小编就得下岗转行。</p>
-<p>@一只_蘑菇：好像也没什么可以担心的了。</p>
-<p>@理想主义情怀邹_：支付宝上的钱怎么办！</p>
-<p>@乔玉东在深圳：我最担心看不见你们上绞刑架时的网络直播。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E6%90%9E%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%90%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E7%BD%91/?category=18271" rel="tag">人民网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/bbc-%E6%96%B0%E9%97%BB%E8%A7%82%E5%AF%9F%EF%BC%9A%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E7%BD%91%E5%8F%8B%E5%8A%9B%E9%87%8F/" target="cdt-mirror">BBC | 新闻观察：“魏则西事件”背后的网友力量</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160503044327_baidu_976x549_afp_nocredit.jpg?resize=550%2C309" alt="迄今为止，中国网民似乎经历了一个从关注、愤怒到理性的过程。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160503044327_baidu_976x549_afp_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160503044327_baidu_976x549_afp_nocredit.jpg?w=660 660w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>迄今为止，中国网民似乎经历了一个从关注、愤怒到理性的过程。</p></div>
-<p><strong>随着“魏则西事件”的进一步发酵，中国国家网信办的联合调查组调查百度，百度在纳斯达的股价下跌7.92%。而这些新进展，不得不给中国的网友记上一功。</strong></p>
-<p>周一（5月2号）中国国家互联网信息办公室发言人姜军在谈到“魏则西事件”时，称受到网民的广泛关注。并“根据网民举报”，联合调查组进驻百度调查.</p>
-<p>被调查后，百度对BBC回应称：“百度力求为用户提供安全可信的搜索体验。并且已经立即对此事展开调查。”</p>
-<p>5月2日晚间，百度（NASDAQ:BIDU）股价开盘后大幅下跌，以178.91美元收盘，跌幅7.92%，市值缩水约53亿美元。</p>
-<p>百度被调查了，股价也跌了。中国网友们满意了吗？</p>
-<p>答案是并没有。他们还在持续关注整个事件的发展。以及，网友们在整个舆情里，到底扮演了怎样的角色，又经历了怎样的转变呢？</p>
-<p><strong>“吊打百度”</strong></p>
-<p>“魏则西事件”从4月30号开始在中国的社交媒体微和问答社区“知乎”上发酵，再后来话题#魏则西百度推广事件#成为微博上从5月1号至今高居前三的热门话题，有8319万阅读量。</p>
-<p>迄今为止，中国网民似乎经历了一个从关注、愤怒到理性的过程。</p>
-<p>在相对封闭的微信平台上，即使人们在欢度“五一”小长假，但还是积极转发一篇文章：《一个死在百度和部队医院之手的年轻人》。这是整个“魏则西事件”的开端，也似乎该给这篇文章记头功。</p>
-<p>随后，舆情一边倒开始“吊打”百度。另一篇叫《如何彻底远离百度》的文章开始占据了微信朋友圈。文章质疑百度在舆论危机出现时，“喜欢奉行鸵鸟策略，做个整改的样子然后把头埋进沙子里装作什么都不知道静待舆论的降温 ”。随后，文章不无巨细地教用户怎样绕开百度的搜索，并列举了百度收购的企业。</p>
-<p>但是有多少人在转发了文章之后，认真去研究文中提及的方法？这不过是网友们表达自己的态度：“我们很愤怒”罢了。</p>
-<p>当然，也有稍微理性一些的网友，开始质疑这篇文章的用意何在？</p>
-<p>因为目前为止，还没有直接的调查结果显示百度到底在魏则西的死亡中扮演了怎样的角色。而魏家父母前后说法不一，也是值得质疑的地方。</p>
-<p>所以，网友发问了，这有可能是百度的竞争对手或者别的人别有用心。</p>
-<p>此后，周二（5月3号）网友们开始变得理性，因为在“魏则西事件”里，百度只是一环。还有给魏则西看病的医院–莆田系的典型代表呢？</p>
-<p><strong>查莆田系</strong></p>
-<p>5月2号晚间，微信朋友圈的用户们开始分享所在城市的莆田系医院名单，有的用户在转发名单时还不忘附上一句：“珍爱生命，远离莆田系医院”。目前成都、北京、唐山、广州等地网友们已自查所在地的莆田系医院。</p>
-<p>随后一篇名叫《百度的中枪掩护了多少人安全撤退？ 》开始引领网友们理性思考，百度出面回应魏则西的死，但是在背后沉默的武警二院以及莆田系呢？网友们开始把注意力转移到莆田系医院，称莆田系的存在本身就是当下医疗制度的乱源。</p>
-<p>于是网友们再次发力，在自己的平台包括微信和微博等转发“莆田系给部队医院领导送礼名单”等文章来“尽自己的一份力”。</p>
-<p>当然，这些内容的真实性还有待核查。</p>
-<p>网友们发力了，接力棒是否该交到监管部门手里？</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/bbc-%E6%96%B0%E9%97%BB%E8%A7%82%E5%AF%9F%EF%BC%9A%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E7%BD%91%E5%8F%8B%E5%8A%9B%E9%87%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B/?category=18271" rel="tag">中国网友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -896,7 +863,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -906,5 +873,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

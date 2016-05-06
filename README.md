@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,23 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB%E6%8E%A2%E8%AE%BF%E5%8C%97%E4%BA%AC%E6%AD%A6%E8%AD%A6%E4%BA%8C%E9%99%A2-%E6%82%A3%E8%80%85%E5%93%AD%E8%AF%89%E5%B0%B1%E8%AF%8A%E7%BB%8F/" target="cdt-mirror">【CDTV】新浪新闻探访北京武警二院 患者哭诉就诊经历</a>
+</h2>
+<p><p>5月2日上午9点，新浪视频探访了魏则西事件中的武警二院，虽生物诊疗中心前台无人，诊疗室和细胞室都大门紧锁，但门内仍有工作人员的身影。在见到新浪后，从湖南前来治疗的魏雪清母女俩被工作人员告知该技术不管用，并退回其27260.12元。然而，仍有不少抱希望前来就医的患者。</p>
+<p><a href="https://www.youtube.com/v/oRyIW6pNV0c?version=3">https://www.youtube.com/v/oRyIW6pNV0c?version=3</a></p>
+<p><a title="新浪新闻探访北京武警二院 患者哭诉就诊经历" href="http://www.youtube.com/watch?v=oRyIW6pNV0c" target="_blank">新浪新闻探访北京武警二院 患者哭诉就诊经历</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB%E6%8E%A2%E8%AE%BF%E5%8C%97%E4%BA%AC%E6%AD%A6%E8%AD%A6%E4%BA%8C%E9%99%A2-%E6%82%A3%E8%80%85%E5%93%AD%E8%AF%89%E5%B0%B1%E8%AF%8A%E7%BB%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97/?category=18271" rel="tag">医疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E4%BA%8C%E9%99%A2/?category=18271" rel="tag">武警二院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%8C%E7%97%87/?category=18271" rel="tag">癌症</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%B4%A0%E8%B4%A8%E7%A4%BA%E8%8C%83%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%B7%AE%E7%94%9F%E4%B8%8D%E9%85%8D%E5%8E%BB/" target="cdt-mirror">【立此存照】“素质示范学校”的“差生”不配去博物馆</a>
 </h2>
 <p><p><strong>在北京市朝阳区白家庄小学这样一所“素质示范学校”，“差的同学”似乎没有去博物馆参观的资格？</strong></p>
@@ -756,43 +770,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%8B%BF%E5%B0%B1%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E8%A1%A8/" target="cdt-mirror">华尔街日报 | 中国要求经济学家勿就中国经济发表悲观看法</a>
-</h2>
-<p><p>中国政府部门正在瞄向一系列新的目标：那些对中国经济持悲观看法的经济学家、分析师和财经记者。</p>
-<p>据了解情况的政府官员和经济评论人士称，中国金融监管机构、新闻媒体审查机构以及其他政府部门官员已对一些评论人士发出口头警告，要求他们不要对经济发表与政府的乐观表态不一致的言论。</p>
-<p>上述知情人士透露，国泰君安证券(Guotai Junan Securities Co.)首席经济学家林采宜在近期就收到警告；林采宜曾对公司债规模上升、楼市供应过剩以及人民币贬值公开表达过担忧。这是她第二次接到警告。这些知情人士称，第一次来自证券监管部门，最近这一次来自她所在的国有企业的合规部门，要求她不要就中国经济尤其是人民币汇率发表过于悲观的言论。</p>
-<p>面对金融监管部门致力于稳定市场而施加的压力，券商的股票分析师越来越慎于发布针对上市公司的批评性报告。与此同时，至少有一家中国智库被宣传部门官员告知，不要质疑政府帮助国有企业削减债务的计划。</p>
-<p>虽然政府对经济言论控制的证据是零散的，但控制的范围似乎很广。政府部门没有回应置评请求或不予置评。不同于政治评论或社会政策评论，对经济和商业的评论在中国受到的限制较少，因为政府官员默认，相对自由的信息流动有利于提高经济活力。</p>
-<p>去年中国政府在股市和汇率政策上都有失误，之后又加强对经济报道的控制，这让投资者对于政府是否有能力应对增长的放缓心生疑虑。过去两个月，中共领导层极力唱好经济形势，试图缓解全球市场的担忧。</p>
-<p>对经济报道的控制使人更难获取中国这一全球第二大经济体的信息，从而令本就已对中国官方数据和声明可靠性心存疑虑的投资者更加感到不安。</p>
-<p>总部位于华盛顿的智库机构战略与国际问题研究中心(Center for Strategic and International Studies)的副主管肯尼迪(Scott Kennedy)表示，如果中国想要顺利涉过起伏不定的经济水域，经济学家的积极讨论以及公众对这种讨论的信心是非常关键的；如果中共和政府只想听好消息，那么最好还是什么也不要听，因为好消息没有任何价值。</p>
-<p>在数十年的经济增长后进行艰难经济转型之际，国家主席习近平试图使中共做好行动准备并争取公众的支持，在这种情况下，近年来政府一直在广泛收紧对社会的控制。目前为止，目标包括维权律师、社交媒体人士、外国非营利组织和批评政策的中共党员。</p>
-<p>尽管中国对外国媒体的限制一直很严，但目前变得越来越严，越来越多外国出版物的网站在中国境内被屏蔽，包括《华尔街日报》(The Wall Street Journal)。</p>
-<p>在索罗斯(George Soros)等国际金融家今年初对中国经济前景表示悲观的情况下，一些（（政府官员））表示，中国领导人和高层官员中出现了受围心态。了解讨论内容的官员表示，过去几个月在中南海召开的高级别会议上，一些高层官员呼吁压制任何可能鼓励外国人“做空中国”的批评。</p>
-<p>一位与会的官员称，当有人试图告诉那些官员外国投机者并不是最大的问题时，可以看出他们不太高兴。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/OJ-AJ293_CMUZZL_16U_20160503120915.jpg?resize=600%2C546" alt="OJ-AJ293_CMUZZL_16U_20160503120915" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/OJ-AJ293_CMUZZL_16U_20160503120915.jpg?resize=300%2C273 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/OJ-AJ293_CMUZZL_16U_20160503120915.jpg?resize=768%2C698 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/OJ-AJ293_CMUZZL_16U_20160503120915.jpg?resize=1024%2C931 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/OJ-AJ293_CMUZZL_16U_20160503120915.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>习近平今年年初走访了新华社、《人民日报》和中央电视台这三大国有新闻媒体。习近平教导他们要紧跟党的路线走、“讲好中国故事”、扩大中国在国际上的影响力。</p>
-<p>中国的记者称，在这样的压力下，他们不仅得避开批评性的话题，还得撰写有关经济的乐观报道。他们表示，举例来说，负责中国股市的记者被告知报道内容应以证券监管部门的官方公告为主要口径。</p>
-<p>某国有媒体的一名高级编辑称，作为一名中国记者，现在什么都能做，就是不能做新闻。这名编辑称，其所在单位认为一名记者对去年夏天股市暴跌原因所做的调查过于深入，因此强迫这名记者休假。</p>
-<p>阻止批评性观点表达的做法已不仅限于公共新闻和投资者论坛里的评论，同时还包括政策研究和市场分析文章。这样做可能会扭曲那些领导人、官员和投资者赖以作出决定的信息。</p>
-<p>在外界对于资金流出中国的担忧不断加剧的背景下，中国央行2月份时突然停止公布商业银行外汇占款数据，而该数据一直被市场分析师视为了解中国跨境资金流动状况的重要渠道。在几天后公布的声明中，中国央行称之所以这么做是因为该数据已不再能真实反映中国跨境资金流动情况。</p>
-<p>国泰君安的林采宜表示，她去年秋天收到指示，在对人民币进行公开评论时立场需要温和一些。去年10月份她参加上海复旦大学举办的一个经济论坛时承认获得此类指示。</p>
-<p>林采宜当时向与会者表示，她被监管部门告知不要建议做空人民币，因此她只能建议购买美元。</p>
-<p>林采宜、国泰君安和中国证监会未回覆置评请求。</p>
-<p>据一些经济学家透露，在作为中国金融中心的上海，市政府宣传部门近期指示一家本地智库机构停止对中国计划实施的一项债转股计划进行研究。该计划旨在帮助大型国有企业削减负债。据这些经济学家称，政府这么做的理由是，考虑到国务院总理李克强和其他一些官员已批准这一计划，不希望上述研究提出一些不利的证据。</p>
-<p>债转股计划允许银行将企业的不良贷款置换为股权。但许多分析师指出，该计划存在风险，可能令那些本该破产的公司苟延残喘，同时导致银行在资本困境中越陷越深。</p>
-<p>在这种背景下，一些经济学家正在改变其论调。4月中旬，中国一位著名经济学家在香港对投资者发表了悲观的经济评估。</p>
-<p>据参加了这次闭门会议的知情者透露，安信证券股份有限公司(Essence Securities Co.)首席经济学家高善文对投资者说，尽管近期出现了反弹迹象，但很多官方数据并不可靠，中国经济仍然面临很大问题。</p>
-<p>这些内容迅速在社交媒体上传播。两天后，高善文在中国热门通讯应用微信(WeChat)的公号上做出澄清，称上述内容是杜撰的。他随后就经济形势发表了一份不含批评言论的报告。高善文及安信证券的代表没有回复记者的置评请求。</p>
-<p>Lingling Wei</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%8B%BF%E5%B0%B1%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%8F%91%E8%A1%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%99%BA%E5%BA%93/?category=18271" rel="tag">中国智库</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82/?category=18271" rel="tag">中国股市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%BF%83/?category=18271" rel="tag">信心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">媒体审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%A1%E5%B8%82%E6%9A%B4%E8%B7%8C/?category=18271" rel="tag">股市暴跌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">金融监管</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -804,7 +781,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -814,5 +791,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

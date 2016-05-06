@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%B4%A0%E8%B4%A8%E7%A4%BA%E8%8C%83%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%B7%AE%E7%94%9F%E4%B8%8D%E9%85%8D%E5%8E%BB/" target="cdt-mirror">【立此存照】“素质示范学校”的“差生”不配去博物馆</a>
+</h2>
+<p><p><strong>在北京市朝阳区白家庄小学这样一所“素质示范学校”，“差的同学”似乎没有去博物馆参观的资格？</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B7%AE%E7%9A%84%E5%AD%A6%E7%94%9F.jpg" rel="attachment wp-att-437035"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B7%AE%E7%9A%84%E5%AD%A6%E7%94%9F.jpg?resize=500%2C625" alt="差的学生" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/差的学生.jpg?resize=240%2C300 240w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/差的学生.jpg?resize=768%2C960 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/差的学生.jpg?resize=819%2C1024 819w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/差的学生.jpg?w=1808 1808w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p>@淼908876：我们学校教导我们4个尊重教育理念：尊重人人，尊重花草，尊重文化和尊重环境这四个理念，大人们也知道也证明过自己没有扔垃圾！我就问问你们那只眼睛看见我们扔了？我们招谁惹谁了？为什么叫我们熊孩子？我们一些差的同学都被留在了学校，我们要怎么做你们才能满意？ 你们就别再纠缠不清了。好吗？</p>
+<p><a href="http://weibo.com/u/1893390013" target="_blank">@国家动物博物馆员工</a>：这是刚刚学生们离开动物博物馆的现场，满地垃圾，一片狼藉。每次博物馆里只要来熊孩子，就好不了，破坏力很强，不仅扔垃圾，甚至还见到过有学生把大便排泄在小便池里。尽管进馆前我们说明了注意事项，但学校老师、家长也不教育孩子如何参观博物馆。博物馆成了游乐场，孩子进来追跑打闹，大声喧哗。我们的博物馆教育做得还差得很远。图为北京市朝阳区白家庄小学离开以后的休息区现场。</p></blockquote>
+<p>微博用户@淼908876 疑似为朝阳区白家庄小学的学生，曾在微博中发布过不少“炫富”的照片。截止发稿时，该用户已基本将自己微博账号内容清空。</p>
+<p><strong>类似于“差的同学”、“差生”的标签在中国大陆的高中小学内是司空见惯的，一般被老师或家长用来指学习成绩不理想或（和）“不听话”的学生。在这种环境中耳濡目染的未成年人，也许只是在模仿成年人的说话方式，而已。</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%8C%E4%BB%A31.jpg" rel="attachment wp-att-437034"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%8C%E4%BB%A31.jpg?resize=500%2C541" alt="二代1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/二代1.jpg?resize=277%2C300 277w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/二代1.jpg?resize=768%2C830 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/二代1.jpg?resize=947%2C1024 947w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/二代1.jpg?w=1798 1798w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+（微博截图）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%B4%A0%E8%B4%A8%E7%A4%BA%E8%8C%83%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%B7%AE%E7%94%9F%E4%B8%8D%E9%85%8D%E5%8E%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1%E6%95%99%E8%82%B2/?category=18271" rel="tag">精英教育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9C%89%E4%B8%80%E7%82%B9%E6%98%AF%E5%9F%BA%E6%9C%AC%E5%85%B1%E8%AF%86%EF%BC%9A%E5%87%BA%E7%8E%B0%E4%BA%A1%E5%9B%BD%E4%BF%A1%E5%8F%B7/" target="cdt-mirror">【网络民议】有一点是基本共识：出现亡国信号</a>
 </h2>
 <p><p>5月6日，共青团中央新浪微博账号发表了一则消息声称“当国家传媒均已操控在境外势力手中时，就是亡国的信号。”并附长篇评论文字，在这篇文字下，网友意见有显著分歧，成为中国式左右意见的争锋地，但从最新的评论看反对者占据上风（6日下午）。一些网友认为团中央又是发布典型的“一切都怪境外势力的阴谋论”，一些网友则为团中央欢呼认为其直指了“令人忧虑”的“事实”。</p>
@@ -205,7 +223,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F/?category=18271" rel="tag">中国军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87%E6%8C%A5%E6%9E%AA/?category=18271" rel="tag">党指挥枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E4%B8%89%E5%A8%83%EF%BD%9C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E6%AD%BB%E8%80%8C%E5%A4%8D%E7%94%9F%E7%9A%84%E8%83%8C%E5%90%8E/" target="cdt-mirror">文三娃｜美国大使馆官方微博“死而复生”的背后</a>
 </h2>
@@ -366,7 +384,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">医疗改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E9%83%A8%E7%97%85%E6%88%BF/?category=18271" rel="tag">干部病房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%BD%A0%E4%BB%96%E5%A6%88%E6%89%8D%E6%9C%89%E7%97%85/" target="cdt-mirror">【麻辣总局】你他妈才有病</a>
 </h2>
@@ -775,56 +793,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA%E5%9C%A8%E7%BB%9D%E6%9C%9B%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%B8%8C%E6%9C%9B/" target="cdt-mirror">纽约时报｜经济衰退，中国工人在绝望中寻找希望</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web1-articleLarge.jpg" rel="attachment wp-att-436813"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web1-articleLarge.jpg?resize=585%2C390" alt="Gilles Sabrié for The New York Times 上周，沈阳一名男子在人行道上等候工作机会。失业的工人用挂在电瓶车上的牌子宣传自己的技能。 " srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web1-articleLarge.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>上周，沈阳一名男子在人行道上等候工作机会。失业的工人用挂在电瓶车上的牌子宣传自己的技能。</span><br><span> Gilles Sabrié for The New York Times</span></p></div>
-<p>中国沈阳——天刚刚破晓，张宇增（音）匆匆喝下一碗热粥，把儿子送到学校，而后就来到南运河附近的一个街角。在那里的杨树下，他开始在工具箱里翻找些什么。</p>
-<p>钳子，有了。榔头，有了。香烟，有了。</p>
-<p>张宇增在他的电瓶车上挂了一块牌子——“电工、木工、水暖工”——耳机里播放着舞曲大串烧。他开始等待。</p>
-<p>“没有办法，”他说。“如果你不来这儿，你一分钱都挣不到。”</p>
-<p>在中国东北部最大的城市之一沈阳，42岁的张宇增过去两年来几乎每天早上都要到鲁园劳务市场，展示他的工作技能，寻找工作机会。就在不久前，他的前景还是不错的：刷墙或修马桶的工钱，一天下来曾经达到50美元甚至更多。</p>
-<p>然而随着经济放缓，东北的一些地区陷入衰退，沈阳的临时工机会日渐稀少。餐馆在裁人，建筑公司发不出工钱。所剩的那几个职位，日薪也降到了30美元以下。</p>
-<p>鲁园市场的每一天是在些许希冀中开始的，数以百计的工人天还没亮就聚集在南运河边，抽烟磕瓜子，讲笑话。</p>
-<p>这里面有厨师，曾经以制作丰盛的自助餐著称，如今要饿着肚子度过长夜；有白天给人整理衣橱，晚上睡在1.5美元一晚的肮脏房间里的保姆。工人们举着牌子，摆出他们的工具，一见到有车停下来就涌上去。</p>
-<p>到了午后时分，环卫工人把地上的塑料包装纸清扫干净，建筑工地的面包车也都走了，工人们陆续开始回家。有的在街上游荡着，显得绝望而沮丧。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web2-popup.jpg" rel="attachment wp-att-436815"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web2-popup.jpg?resize=585%2C391" alt="Gilles Sabrié for The New York Times 沈阳，失业男子聚集在一辆小货车周围，希望自己被雇佣。 " srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web2-popup.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web2-popup.jpg?w=650 650w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>沈阳，失业男子聚集在一辆小货车周围，希望自己被雇佣。</span><br><span> Gilles Sabrié for The New York Times</span></p></div>
-<p>拥有逾800万人口的沈阳曾经是个快速增长的城市，直到2012年经济增速还达到10%。但是在房地产过量供应和制造业滑坡的冲击下，经济开始放缓；去年增速为3.5%。</p>
-<p>张宇增在18岁那年从乡下来到了沈阳。靠着装修布线的手艺，他已经习惯了几乎每天都有活干的生活。</p>
-<p>如今他有时会连续一周以上没有工作。他担心作服务员的妻子会离开他。他们有一个10岁的儿子和一个20岁的女儿，他们大约3000美元的积蓄正日渐减少。</p>
-<p>“我挺难过的，”他说。“我是个男人，今年四十几了，却给不到家里人幸福。”</p>
-<p>张宇增说话的时候，一个名叫王宝成的乞丐出现了。他每天都会背着一个黑色垃圾袋在鲁园市场里蹒跚走过，袋里除了衣服，还有一只他认为会给他好运的猴子雕像。</p>
-<p>今天早上，他的前额有一块几乎已经是紫色的淤青。此前他试图说服一个隔热材料厂的经理给他一份工作。经理不太相信他，指责他有酗酒的习惯。</p>
-<p>“如果你不要我的话，我就钻到车轱辘里去，”王宝成威胁道。</p>
-<p>那人递给他一张50元人民币面额的钞票，约合8美元，王宝成接过钱，步履蹒跚地走开了。</p>
-<p>在另外一个角落里，58岁的寡妇赵艳（音）难以获得乘小汽车从旁边经过的那些潜在雇主的注意。她想找一份刷油漆的工作，但她说上岁数的劳动者——其中很多都不识字——越来越难以找到工作。她头戴一顶带有超人盾牌图案的蓝帽子，以显示自己与众不同。</p>
-<p>“和打仗似的，”她说。“老板都挑得很，他们都喜欢找年轻的，不喜欢找我们这样年纪的。”</p>
-<p>赵艳说她手头经常连买食物的钱都凑不够，只好吃售价为几毛钱的小吃。“别人能吃上干饭，而我只能喝粥。”</p>
-<p>在一个凉亭附近的人行道上，一群建筑工人正在剥茶叶蛋的壳。他们开玩笑说，他们住的是“蓝天旅馆”，意思是住在户外。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web4-popup.jpg" rel="attachment wp-att-436814"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web4-popup.jpg?resize=585%2C391" alt="Gilles Sabrié for The New York Times 每天早上，数以百计的失业工人会聚集在南运河河畔，试图找到工作。 " srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web4-popup.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/02SHENYANG-web4-popup.jpg?w=650 650w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>每天早上，数以百计的失业工人会聚集在南运河河畔，试图找到工作。</span><br><span> Gilles Sabrié for The New York Times</span></p></div>
-<p>不过，一些人仍然相信经济终将反弹。</p>
-<p>“不可能总这样吧，”58岁的电工黄伟（音）说。“这和股票一样，跌了就会升。不过也说不清楚要多久，我们老百姓很难估计，怎么着都是国家说了算。”</p>
-<p>聚集在附近一个展厅里的数十名厨师，衬衣上别着能表明自身特长的卡片：烙饼，面条，饺子。他们衣着整洁，但又并非过于整洁，他们说这样一来老板就会知道他们有经验。他们还说，夸大厨艺的人常常被赶出厨房。</p>
-<p>展厅外，一块公告板被用于推销政府部门天天念叨的热词——创业——并敦促居民自主创业。公告板上简明地列出了沃尔特·迪斯尼(Walt Disney)、发明家詹姆斯·瓦特(James Watt)、无线电先驱古列尔莫·马可尼(Guglielmo Marconi)等来自不同领域的榜样的履历，还阐述了玩具制造商美泰(Mattel)是如何把芭比娃娃变成昂贵藏品的。</p>
-<p>其中一句口号是，“创新是一个民族进步的不竭动力。”</p>
-<p>工人们不理会展板，而是聚在附近的面条摊旁边吸烟。</p>
-<p>张宇增坐在一张凳子上，待在自己的角落里，靠听音乐和与朋友聊天打发时间。他擦亮了自己的工具，并将它们进行整理，用毛巾和塑料袋裹好。</p>
-<p>当一辆黑色的宝马740Li在街道上停下来时，张宇增和几名电工冲向了乘客一侧的车窗。一名男子想找人帮忙装灯。经过几分钟的讨价还价后，那辆车疾驰而去。那名男子最多只愿出30美元，工人们则表示工作的地方太远，不划算。</p>
-<p>在这样的日子里，沈阳可能看上去特别沉闷。河里水流缓慢。工作机会可能会引发争吵，有时甚至会演变成暴力冲突。人们说着通过跳河来解决自己的问题的话。不过通常，他们只是在开玩笑。</p>
-<p>张宇增说，他常常会因为劳务市场的变幻无常而感到恼火。在山东的一个村子里长大的他，孩提时曾梦想着成为一名军人。但他家没有能让他参军的关系。他也没上过高中。</p>
-<p>1991年去沈阳时，他有了新的抱负，成为了一名木匠，想着自己有一天能当上老板。“我当年是初生牛犊不怕虎，”他说。</p>
-<p>现在，张宇增说，他除了每天早上回到鲁园劳务市场外别无选择，哪怕找到活儿干的希望渺茫。“我没有其他选择了，”他说。</p>
-<p>一个朋友指向了那条河。“你可以跳河啊，”她说。</p>
-<p><em>赫海威(Javier C. Hernández)是《纽约时报》驻京记者。</em></p>
-<p>欢迎在Twitter上关注赫海威<a href="https://twitter.com/hernandezjavier" target="_blank" rel="nofollow">@HernandezJavier</a>、Owen Guo<a href="https://twitter.com/bj_southerner" target="_blank" rel="nofollow">@bj_southerner</a>。<br>
-翻译：经雷、李琼<br><a href="http://www.nytimes.com/2016/05/03/world/asia/northeast-china-economy-jobs.html" target="_blank" rel="nofollow">点击查看本文英文版</a>。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA%E5%9C%A8%E7%BB%9D%E6%9C%9B%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%B8%8C%E6%9C%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8C%97/?category=18271" rel="tag">东北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E4%B8%9A%E7%8E%87/?category=18271" rel="tag">失业率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E4%BD%8E%E8%BF%B7/?category=18271" rel="tag">经济低迷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -836,7 +804,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8C%97
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -846,5 +814,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%8C%97
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

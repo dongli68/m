@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%9D%80%E6%9D%80%E6%9D%80-%E8%A7%A3%E6%94%BE%E5%86%9B%E5%BE%81%E5%85%B5%E8%A7%86%E9%A2%91%E5%98%BB%E5%93%88%E8%AF%B4%E5%94%B1%E6%8B%9B%E6%96%B0/" target="cdt-mirror">美国之音｜“杀杀杀” 解放军征兵视频嘻哈说唱招新</a>
+</h2>
+<p><p></p>
+<p><em>作者：海伦／任禺阳</em></p>
+<p>华盛顿— 五一小长假前，中国军网发布最新征兵视频。这个以嘻哈歌曲说唱、热血号召，同时高频展示新锐装备的视频一下子在网上火了。众多中国网友纷纷呐喊“兵哥哥帅气”，也有人认为此视频彰显了中国军队日益强硬的姿态。</p>
+<p>视频中说道：“战争随时爆发，你们准备好了吗？”</p>
+<p>中国军网的最新征兵视频《战斗宣言》在一首嘻哈说唱歌曲下，展示了火箭与导弹发射，新型坦克、战斗机、航空母舰等新型军事装备，快节奏的画面、具有攻击性的语言、动感的说唱都直击新一代年轻人，鼓励更多人应征入伍。</p>
+<p>视频开始是一名士兵穿戴白手套，整理着装。接着响起一个浑厚坚定的男声：</p>
+<p>视频说道：“ 脑子里永远有任务，眼睛里永远有敌人，肩膀上永远有责任，胸膛里永远有激情。”</p>
+<p>据英国《卫报》称，包括“只等一声令下，杀杀杀”之类的歌词，这个视频针对的是玩着“使命召唤”等第一人称射击类游戏长大的千禧一代年轻人。</p>
+<p>视频说道:“ 招之即来，来之能战，战之必胜，杀！”</p>
+<p>中国官媒《环球时报》社评指出，“血性是这个大民族永远不可被淡化的一种内质，尚武也是我们不可丢失的民族精神之一”，因此“中国必须有一支令全世界所有力量都充分敬重的军队，这是中国一切政策必不可少的原点之一”。</p>
+<p>中国常备军有230万人之多，为世界之最。习近平在去年9月大阅兵之际提出裁军30万人，后启动军改，要打造一支更加现代的高科技战斗部队，将重心从地面部队转向导弹、海军和空军。此举也意在更有力地应对南中国海、东中国海等不断升温的海上领土纷争。</p>
+<p>在这段3分钟左右的视频下，中国政府要传递给年轻人的除了当兵的帅气和酷炫，更多的是保持部队的士气。中国官媒《中国日报》引述国防部新闻发言人吴谦上校在4月的例行记者会上说的话：“青春不只是眼前的潇洒，也有家国与边关。”</p>
+<p>相较中国的爱国主义教育，美国军队的征兵视频则更加侧重入伍给个人带来的益处，例如，80年代以来一系列以“尽你所能”(Be All That You Can Be)为主题的征兵广告，宣称参军可以给年轻人带来接受教育、支付学费等机会，“在军队里找到未来”。</p>
+<p>当然，中国对自己的征兵新视频是信心十足的。中国媒体引述了美国海军陆战队的《陆战队时报》(Marin Corps Times)报道，称中国的这段新视频有电影《速度与激情》的节奏，在各个方面都胜过美军，却没有提到一些中国网友对于视频中使用电脑图像和电视剧画面感到的困惑与不解。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%9D%80%E6%9D%80%E6%9D%80-%E8%A7%A3%E6%94%BE%E5%86%9B%E5%BE%81%E5%85%B5%E8%A7%86%E9%A2%91%E5%98%BB%E5%93%88%E8%AF%B4%E5%94%B1%E6%8B%9B%E6%96%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F/?category=18271" rel="tag">中国军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87%E6%8C%A5%E6%9E%AA/?category=18271" rel="tag">党指挥枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E4%B8%89%E5%A8%83%EF%BD%9C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E6%AD%BB%E8%80%8C%E5%A4%8D%E7%94%9F%E7%9A%84%E8%83%8C%E5%90%8E/" target="cdt-mirror">文三娃｜美国大使馆官方微博“死而复生”的背后</a>
 </h2>
 <p><blockquote><p>相关阅读：</p>
@@ -183,7 +207,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">医疗改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E9%83%A8%E7%97%85%E6%88%BF/?category=18271" rel="tag">干部病房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%BD%A0%E4%BB%96%E5%A6%88%E6%89%8D%E6%9C%89%E7%97%85/" target="cdt-mirror">【麻辣总局】你他妈才有病</a>
 </h2>
@@ -806,55 +830,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%9B%B8%E4%BF%A1%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%EF%BC%9F27%E5%B9%B4%E5%89%8D%E5%90%91%E4%BA%BA%E6%B0%91%E5%BC%80%E6%9E%AA%E7%9A%84%E6%98%AF%E8%B0%81%E5%95%8A%EF%BC%9F/" target="cdt-mirror">【网络民议】相信“人民”军队？27年前向人民开枪的谁啊？</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg" rel="attachment wp-att-436644"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=450%2C628" alt=" 巴丢草 Badiucao ‏@badiucao 22h22 hours ago #巴丢草 漫画 【百度一下，你就完蛋】在没有谷歌的中国，#魏则西 同学百度了一下滑膜肉瘤，惨死；在没有谷歌的赵国，我期待着赵王 #习近平 百度一下，如何救党。#百度 pic.twitter.com/VxfUbk7NPr " srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=215%2C300 215w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=768%2C1073 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?resize=733%2C1024 733w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Chf_UlMUoAArB5V.jpg_large.jpg?w=1024 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>“百度一下，你就完蛋” by 巴丢草：在没有谷歌的中国，#魏则西 同学百度了一下滑膜肉瘤，惨死；在没有谷歌的赵国，我期待着赵王 #习近平 百度一下，如何救党。</span></p></div>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E8%8E%86%E7%94%B0%E7%B3%BB%E5%86%85%E5%B9%95/" target="_blank">【真理部】莆田系内幕</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E7%BD%91-%E8%8E%86%E7%94%B0%E7%B3%BB%E8%82%A1%E4%B8%9C%E6%9B%9D%E4%B8%8E80%E6%89%80%E9%83%A8%E9%98%9F%E5%8C%BB%E9%99%A2%E5%90%88%E4%BD%9C-%E7%BB%99%E6%9F%90%E9%99%A2%E9%80%81/" target="_blank">搜狐弧度 | 莆田系股东曝与80所部队医院合作 给某院送礼百万</a></li>
-<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/" target="_blank">魏则西事件</a>专题</li>
-</ul></blockquote>
-<p><strong><a href="http://chinadigitaltimes.net/chinese/2016/05/%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E4%B8%8D%E8%83%BD%E4%BB%A5%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6%E4%B8%AA%E6%A1%88%E8%AF%8B%E6%AF%81%E6%8A%B9%E9%BB%91%E4%BA%BA%E6%B0%91/" target="_blank">中国军视网｜任何人都不能以“魏则西事件”个案诋毁抹黑人民军队</a></strong></p>
-<blockquote><p>魏则西的离世，因为这种罕见的病症，<strong>或许总归不可避免</strong>。然而，这种生命的终结的历程，却无不让人看到多个链条上“仁术”、“仁心”及“仁爱”的贫乏。<br>
-[…]当然，现在，也有不少人开始把舆论的矛头影影绰绰地指向“部队医院”了。<br>
-其实，我们的广大网友很清楚，从小汤山到汶川，从抗洪大堤到玉树高原，在许多危险性极高的医疗应急任务中，在大量抗洪抢险与抗震救灾的第一方阵中，在枪林弹雨战火连绵的战场上，在生命需要的每一个紧急的瞬间，戴着军徽的“部队医院”医护人员，一直在以一颗对<strong>人民</strong>的赤诚之心，对职业的仁爱之心，对生命的敬重之心努力拼搏着。[…]<br>
-在军队深化改革大潮中，<strong><span>请相信</span>，“部队医院”一定会被放入越来越干净的“中国军队”大环境之内。想想吧，连徐、郭这样的人都能被拿下，难道，清理医疗环境这样关乎人民生命的事情，中国军队还会藏着掖着吗？</strong><br>
-[…]任何人也都不能以“魏则西事件”的个案，来诋毁和抹黑人民军队。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@quietheartforever：啊，军队不知道承包这事呢？我的天啊。</p>
-<p><strong>@哈哟哦呀呵：我看了原文，没有一个字提到科室外包。谁说那些真正的部队医生了，说的是外包这种行为好吗？医院收了钱，把科室外包出去，默许骗子打着自己的名号去行骗，再和骗子分赃。这文章的作者，真的对这些一无所知？好纯洁哦，好像生活在另外一个世界一样。</strong></p>
-<p>@going2four1：我说，外包科室不管啊？光忙着收拾百度了？看来部队医院背景太强大了吗？想笑都笑不出来！误导舆论……</p>
-<p><strong>@江山如故_願無歲月可回首：这篇文章真是大写的你国魔幻主义啊，据我了解?你他妈的那根葱啊以为自己天皇老子至高无上啊?！事实就是部队医院层层勾结私相授受，屁民理得你是生是死啊。不会违背人民军队宗旨?27年前向人民开枪的人是谁啊?你TM真是大写的不要脸</strong></p>
-<p>@冫波罗：横行霸道几十年了装得今天才知道一样，看着都恶心</p>
-<p><strong>@Tony_伴糖主义：除了武警总医院外几乎所有的武警医院和莆田系都有勾结，人尽皆知的事情军报你告诉我你什么都不知道？</strong></p>
-<p>@他找不到回精神病院的路了：他们假装自己是外国人呢啊？！</p>
-<p><a href="http://weibo.com/hezhizhou" target="_blank">@河之洲-坐井观蛙</a>：说什么“绝大多数是好的”这种狗屁话毫无意义。有人杀人了，你出来说“人类大部分都是好的”有什么用？别居高临下自我感觉良好了，反思，检讨吧<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1">。</p>
-<p>@朱芒：老套路，只说绝大部分和一小撮之间的关系，从来回避制度结构。</p>
-<p>@小纳保险：这么快就来洗地，先把送礼名单上的人查查。</p>
-<p>@飞扬的杨威利：好假的文章，口气貌似高高在上的统治者，像极了金三胖的宣传机构，恶心至极！</p>
-<p>@張仲匡匡：懂得少不清楚哈，不是说“军队一律不得经商”吗，部队医院为啥能对外承包科室呢？这次起底的不光武警医院，解放军医院也一大把，走的是啥帐啊？</p>
-<p><strong>@ljpbin：我就奇怪了，为什么不追责莆田系和部队医院的监管部门？老是追着百度打，就算百度推广倒闭了，还有更多的人根本就不上网还是进了莆田的黑窝，只要莆田系的那些坑人医院在，它就会继续害人！！</strong></p>
-<p>@灰原哀_June：嗯，正规军队医院服务领导，军队杂牌医院祸害普通百姓</p>
-<p>@行者2812449447：请把军队前面的人民二字去掉可好？</p>
-<p><strong>@第一共和：干了坏事又变成“人民军队”了？不是永远忠于裆的裆卫军嘛？</strong></p>
-<p>@驴马甲：“【如果】事情【真】【像】网上所议论的那样”—屁民先证明括号中的怀疑，然后接受“议论”这种轻描淡写预制洗地之后，再来讨论……..</p>
-<p><strong>@闫正兵：说了一堆废话。把百度、莆田、监管都鄙视了一遍，然后“据我了解，部队医院和绝大多数的医生一直秉持着救死扶伤的优良传统”。</strong></p>
-<p>@魏雷-老晚：一个事件捅开N个洞，是偶然吗？</p>
-<p>@丶哓蓝莓：那么 武警医院是怎么承包出去的呢…”某个环节”还真是牛呢!既能瞒得住上面 还能骗得了下面…</p>
-<p><strong>@89随便一个名字64：期待自罚三杯的处罚结果</strong></p>
-<p>@毛少感性：部队就是硬气这话说的好。出事严查，不出事收钱往死收钱。</p>
-<p><strong>@我是莫须有先生：再逼逼就突突了你们</strong></p>
-<p>@yyypy2：军网:给你们点脸见好就收吧，再打扰我们做生意就枪毙你们</p>
-<p>@勉强学习：长沙解放军163医院的医生，开药之前问你带了多少钱，卡里有多少钱，看着钱开药！！！！！</p>
-<p><a href="http://weibo.com/lihaicd" target="_blank">@朝阳群众举报</a><i></i>：“老人们说，军队医疗界的很多好作风，就是从白求恩大夫那里继承来的……”<img title="[心]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/hearta_org.gif" alt="[心]" data-recalc-dims="1">点进链接看全文，军网在进行自我表扬<img src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee909f.png?resize=20%2C20" alt="" px data-recalc-dims="1"><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65012661gw1f3hzv50hhij20qo1be4aj.jpg" rel="attachment wp-att-436629"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65012661gw1f3hzv50hhij20qo1be4aj.jpg?resize=400%2C711" alt="65012661gw1f3hzv50hhij20qo1be4aj" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%9B%B8%E4%BF%A1%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F%EF%BC%9F27%E5%B9%B4%E5%89%8D%E5%90%91%E4%BA%BA%E6%B0%91%E5%BC%80%E6%9E%AA%E7%9A%84%E6%98%AF%E8%B0%81%E5%95%8A%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87%E6%8C%A5%E6%9E%AA/?category=18271" rel="tag">党指挥枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -866,7 +841,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -876,5 +851,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

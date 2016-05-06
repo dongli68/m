@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%AE%A3%E4%BC%A0%E9%83%A8%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E5%AE%A3/" target="cdt-mirror">【真理部】中共中央宣传部社会主义核心价值观宣传教育办公室</a>
+</h2>
+<p><p>所有媒体迅速查删与［中共中央宣传部社会主义核心价值观宣传教育办公室］<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A7%E5%BA%A6-%E5%9C%A8%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%90%9E%E7%BA%A2%E6%AD%8C%E4%BC%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E9%AA%97%E5%95%A6/" target="_blank">相关的内容</a>。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%AE%A3%E4%BC%A0%E9%83%A8%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E5%AE%A3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/56%E6%9C%B5%E8%8A%B1%E5%B0%91%E5%A5%B3%E7%BB%84%E5%90%88/?category=18271" rel="tag">56朵花少女组合</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A7%E5%BA%A6-%E5%9C%A8%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%90%9E%E7%BA%A2%E6%AD%8C%E4%BC%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E9%AA%97%E5%95%A6/" target="cdt-mirror">弧度 | 在人民大会堂搞红歌会的一个主办方被骗啦？！</a>
+</h2>
+<p><p>原标题：什么？！在人民大会堂万人礼堂搞红歌会的一个主办方被骗啦？！</p>
+<p>作者：铁瑾 赵宁 吴荣奎 蔡芳予</p>
+<p>据多家媒体此前报道，5月2日晚，“在希望的田野上”大型交响演唱会在北京人民大会堂万人礼堂隆重上演，少女组合“五十六朵花”演唱了包括《大海航行靠舵手》等在内的30首红歌。然而事情在昨天（5月6日）突然反转，演出的主办方之一中国歌剧舞剧院发布声明称，该院一合作方虚构“中央宣传部社会主义核心价值观宣传教育办公室”骗取信任，对于欺骗行为，该院将依法追责。截至发稿，搜狐新闻联系多家主办方未果。“五十六朵花”团长陈光则表示，刚刚得知此事但不便发表任何态度。北京市西城区文化委员会亦发布声明，称申请方违规增加演出主办单位，虚构“中央宣传部社会主义核心价值观宣传教育办公室”，将依法依规严肃查处。</p>
+<p><strong>突然反转 主办方中国歌剧舞剧院发声明称被骗</strong></p>
+<p>新华网、北京青年报、腾讯网等媒体此前的报道显示，5月2日晚7点半，由中共中央宣传部社会主义核心价值观宣教办公室、中国国际文化交流中心、团中央中华未来之星全国组委会、中国歌剧舞剧院主办的“在希望的田野上”五十六朵花“社会主义经典歌曲”大型交响演唱会在人民大会堂如期唱响。演唱会现场，少女组合“五十六朵花”演唱了《大海航行靠舵手》、《没有共产党就没有新中国》、《社会主义好》、《中国梦最美丽》等三十首红歌。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-06-at-%E4%B8%8A%E5%8D%8810.27.02.png?resize=572%2C378" alt="Screen Shot 2016-05-06 at 上午10.27.02" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-06-at-上午10.27.02.png?resize=300%2C198 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-06-at-上午10.27.02.png?w=572 572w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"><br><span>演出现场。来源：微信公众号“临沂市大地艺术学校”</span></p>
+<p>报道称，从中老年人到首都高校年轻学生，观众一片好评。演唱会总导演谢军也评价，“30首演出曲目基本上都是大家熟悉的社会主义经典曲目，是千锤百炼的精品，艺术水准和内涵相当高，但现实生活中已很少被人们提起和听到，这一次在中共中央宣传部社会主义核心价值观宣教办公室的组织下，红歌浪潮再次从56个民族中涌起。”</p>
+<p>此外，中新网4月一篇对演唱会在京新闻发布会的报道中写道，少女组合“五十六朵花”团长陈光透露，演出将进行影像记录，未来会根据该影像资料及此后“56朵花”的演出“做一部电影”。他亦表示，“五十六朵花” 能够站上人民大会堂这个舞台是荣幸和骄傲，“但这只是起点，今年我们还会带给大家更多的惊喜”。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-06-at-%E4%B8%8A%E5%8D%8810.28.28.png?resize=550%2C318" alt="Screen Shot 2016-05-06 at 上午10.28.28" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-06-at-上午10.28.28.png?resize=300%2C174 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-06-at-上午10.28.28.png?resize=768%2C445 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-06-at-上午10.28.28.png?w=967 967w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>中国歌剧舞剧院声明。来源：中国歌剧舞剧院官方网站</span></p>
+<p>然而昨天事情突然反转。演出的主办方之一中国歌剧舞剧院在官网发布声明称，“‘在希望的田野上’——大型交响演唱会在筹备和演出过程中，与我院的合作方虚构‘中央宣传部社会主义核心价值观宣传教育办公室’，提供虚假材料，骗取我院信任，与我院共同作为演唱会举办单位，于5月2日在人民大会堂演出，对于这种欺骗行为，我院将依法追究有关人员的责任。”直到晚间10点半，这份盖有公章的纸质声明扫描件仍在中国歌剧舞剧院官网置顶位置处。</p>
+<p>截至发稿，搜狐新闻联系中国国际文化交流中心和中国歌剧舞剧院未果。陈光则表示，“我们现在刚听说，但对这件事情，我们不便发表任何态度，具体由官方来解释这个事情”。</p>
+<p>另据环球时报评论，上述演出因包括《大海航行靠舵手》这一“文革歌曲”而受到争议，舞台幕布也曾打出“全世界人民团结起来打败美国侵略者及其一切走狗”等容易唤起特殊政治记忆的口号。这篇发表于昨天下午的评论写道，“我们不相信这次演唱会有任何官方背景”，“今年是文革发生50周年，任何一个官方部门都不可能很突兀地搞可能引起争议的活动。”</p>
+<p>北京市西城区文化委员会亦发布声明，称申请方违规增加演出主办单位，虚构“中央宣传部社会主义核心价值观宣传教育办公室”，将依法依规严肃查处。</p>
+<p>声明全文如下：2016年4月7日，西城区文化委员会对中国歌剧舞剧院申请举办的“在希望的田野上”——大型交响演唱会，作出演出准予许可决定。2016年5月2日，演唱会举行时，申请方违规增加演出主办单位，虚构“中央宣传部社会主义核心价值观宣传教育办公室”。对此，我们将依法依规严肃查处。</p>
+<p><strong>参演艺校：被“五十六朵花”邀请去人民大会堂唱沂蒙山小调</strong></p>
+<p>搜狐新闻注意到，关于这次演出，微信公众号“临沂市大地艺术学校”曾多次推送通知，据了解，部分演出人员就来自该校。</p>
+<p>临沂市大地艺术学校常校长告诉弧度，学校在4月中旬收到少女组合“五十六朵花”，即北京诠声文化有限公司的邀请函，希望能有60名学生参演“在希望的田野上”。“让我们去人民大会堂，唱沂蒙山小调”，常校长称，对方通过临沂市教育局找到学校，其递交的邀请函上写明，活动是由中央宣传部社会主义核心价值观宣传教育办公室、中国国际文化交流中心、团中央中华未来之星组委会主办，中国歌剧舞剧院承办。</p>
+<p>“他们发的演出内容，我们看了，觉得挺可信的，特别是在人民大会堂，我们就去了。”常校长说，演出内容里说明演唱的曲目包括《大海航行靠舵手》《沂蒙山小调》等30首。最终，该校派出40名中专部女学生参加演出。5月2日演出结束后的第二天，学生即返校，“学生反映演出效果很不错，都是正能量，爱国主义的。”该校微信公众号显示，演出门票票价从380元到2080元不等。</p>
+<p>常校长还表示对中国歌剧舞剧院今晚发出的声明并不知情，“我们只是接到邀请函，就去演出了，其他情况不了解”。</p>
+<p>该校微信公众号亦透露，在湖南卫视小年夜春晚上，“五十六朵花”组合唱响了一首描述总书记湘西苗乡扶贫的代表作《不知该怎么称呼你》，这首歌春晚首演后立即爆红引发热议，因这首歌是整台春晚的核心，五十六朵花组合也因此在本场晚会出场6次、唱了5首歌，一举创下了历来春晚（卫视及央视）的演员出场纪录，被很多网友将湖南卫视小年夜春晚戏称为“五十六朵花与她们朋友们的演唱会”。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-06-at-%E4%B8%8A%E5%8D%8810.32.14.png?resize=550%2C369" alt="Screen Shot 2016-05-06 at 上午10.32.14" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-06-at-上午10.32.14.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-06-at-上午10.32.14.png?w=623 623w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><span>演出海报（图片来自网络）</span></p>
+<p><strong>“五十六朵花”曾遭遇讨薪危机 股东被列入失信名单</strong></p>
+<p>凭借主旋律歌曲和青春少女组合的强烈视觉反差而一夜成名的“五十六朵花”，此前已曾被报道多次，人称“社会主义少女天团”，其演出活动也屡屡见诸媒体，但对其的争议同时存在。</p>
+<p>早在2014年初，“五十六朵花”就开始招聘团员，需进行在团训练，工资是每月3000元外加演出补贴，队长戴沁仪透露，其加入五十六朵花时，团里有20人，之后陆续有50多人参加“海选”，有的因为承受不了辛苦而退出，有的因为考试不过关被刷下来。经过一年半的淘汰，只剩下了五朵“花”。</p>
+<p>然而，搜狐新闻去年7月了解到，尽管声称将耳目一新的青春少女组合与主旋律结合，坚持社会主义核心价值观，但该组合刚刚面世便遭遇讨薪危机。据了解，已经快到结款期了，但多名临时演员们没有领到演出报酬。从7月13日起，她们多次在微信群里向团长陈光讨薪——为了演出，她们从外地赶来，自己垫付路费。</p>
+<p>搜狐新闻调查发现，至少一位签约团员没有拿到最近一次的工资——五十六朵花工作人员向她们承诺，7月5日至10日之间发放工资，人均至少3000元，加上演出费用，有的签约团员能获得7000元月薪。当时，团长曾称将尽快解决。</p>
+<p>此外，《2015中国文化产业重点项目手册》显示，“五十六朵花最中国最美丽”大型歌舞秀项目开始于2015年2月，公司名称为北京诠声文化有限公司，法人股东为北京经典融商投资有限公司。而最高人民法院网信息称，北京经典融商投资有限公司被列入全国失信被执行人名单中。该公司被判给原告王茜支付1.249379万元，全部未履行。</p>
+<p><strong>【编者注】上述演出的相关照片，搜集自网络：</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449863395.jpg" rel="attachment wp-att-437060"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449863395.jpg?resize=550%2C340" alt="mmexport1462449863395" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449863395.jpg?resize=300%2C185 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449863395.jpg?resize=768%2C475 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449863395.jpg?resize=1024%2C633 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449863395.jpg?w=1058 1058w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449853808.jpg" rel="attachment wp-att-437058"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449853808.jpg?resize=550%2C375" alt="mmexport1462449853808" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449853808.jpg?resize=300%2C205 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449853808.jpg?resize=768%2C524 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449853808.jpg?resize=1024%2C698 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449853808.jpg?w=1242 1242w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449866113.jpg" rel="attachment wp-att-437061"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449866113.jpg?resize=550%2C309" alt="mmexport1462449866113" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449866113.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449866113.jpg?w=750 750w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449868565.jpg" rel="attachment wp-att-437062"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449868565.jpg?resize=550%2C413" alt="mmexport1462449868565" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449868565.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449868565.jpg?w=750 750w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449857806.jpg" rel="attachment wp-att-437059"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449857806.jpg?resize=550%2C413" alt="mmexport1462449857806" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449857806.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449857806.jpg?w=750 750w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449845365.jpg" rel="attachment wp-att-437057"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449845365.jpg?resize=550%2C413" alt="mmexport1462449845365" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449845365.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/mmexport1462449845365.jpg?w=750 750w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A7%E5%BA%A6-%E5%9C%A8%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%90%9E%E7%BA%A2%E6%AD%8C%E4%BC%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E9%AA%97%E5%95%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/56%E6%9C%B5%E8%8A%B1%E5%B0%91%E5%A5%B3%E7%BB%84%E5%90%88/?category=18271" rel="tag">56朵花少女组合</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/?category=18271" rel="tag">五十六朵花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%B1%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">唱红歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A/?category=18271" rel="tag">在希望的田野上</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A4%A9%E5%9B%A2/?category=18271" rel="tag">社会主义天团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">红歌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB%E6%8E%A2%E8%AE%BF%E5%8C%97%E4%BA%AC%E6%AD%A6%E8%AD%A6%E4%BA%8C%E9%99%A2-%E6%82%A3%E8%80%85%E5%93%AD%E8%AF%89%E5%B0%B1%E8%AF%8A%E7%BB%8F/" target="cdt-mirror">【CDTV】新浪新闻探访北京武警二院 患者哭诉就诊经历</a>
 </h2>
 <p><p>5月2日上午9点，新浪视频探访了魏则西事件中的武警二院，虽生物诊疗中心前台无人，诊疗室和细胞室都大门紧锁，但门内仍有工作人员的身影。在见到新浪后，从湖南前来治疗的魏雪清母女俩被工作人员告知该技术不管用，并退回其27260.12元。然而，仍有不少抱希望前来就医的患者。</p>
@@ -682,94 +734,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9Apapi%E9%85%B1%E6%95%B4%E6%94%B9%E6%94%B6%E6%95%88%E4%B8%8D%E9%94%99/" target="cdt-mirror">【异闻观止】人民日报：Papi酱整改收效不错</a>
-</h2>
-<p><p>近年来，网络语言上广播电视节目、进教科书、入词典，热点频发，引起社会热议；同时大批低俗网络用语的普及化和日常化，也让人猝不及防。</p>
-<p>日前，在互联网上突然爆红的Papi酱系列视频，因主持人时常爆粗口而被勒令整改。广电总局要求其去除粗口低俗内容，符合网络视听行业的节目审核通则要求后，才能重新上线。这一事件也引发网友热议，有人认为这是网络文化的特色，不应过多干涉；<strong>有人认为这次监管是一次良性的互动，或可带来整治网络语言的良机。</strong></p>
-<p>在日益复杂的网络环境下，Papi酱身上所凸显的“话语失范”问题并非孤例。近年来，有关部门的规范与监管出现了真空，致使一些热衷于造词者过分“任性”，低俗语言满天飞。尽管教育部和国家语言文字工作委员会年年发布报告，指出网络低俗语言的危害，但却缺乏根治办法。网络低俗语言该不该管，该归谁管，该怎么管？</p>
-<p><strong>择善而从不善则改，谁来整治“脏乱差”</strong></p>
-<p>网络发展至今，碎片化书写、病毒式传播的“网络流行语”，正全面影响着大众文化视野。但媚俗表达全民风行，庸俗粗鄙大行其道，低俗詈语甚嚣尘上，让很多人不禁感慨：“<strong>如今的互联网越发地重口味了</strong>！”</p>
-<p>对于网络低俗语言的规范和治理，也有不同意见。知乎网友“小昭”认为，网络语言传播快、消亡快、生命周期短的特质，使得其本身带有“自净机制”。从最近席卷网络的“翻船体”，到年初刷屏的“猴赛雷”，网络热词往往都如昙花一现，经不起时间考验，会自行消散。据多家网站对整治网络流行语的专题调查显示，持这样观点的网友不在少数。</p>
-<p>针对这些观点，人民网舆情监测室副秘书长陈晓冉表示：“<strong>如果网络低俗语言大量涌现，聚集了社会戾气，影响了青少年的价值取向，必须及时依法治理。</strong>”</p>
-<p>人民网舆情监测室发布的《网络低俗语言调查报告》指出，期望社会活动中完全不使用脏话，不使用网络低俗语言，不太可能，但这并不意味着媒体报刊可以不加甄别全盘接受。针对网络语言的多样化和个性化，应给予更多疏导和教育，暴戾、低俗的网络词语应予批评。</p>
-<p>“网络语言作为广大群众文化生活的一部分，并不是脱离现实而存在的，对低俗网络语言进行规范和整治也是题中之义。”北京大学中文系教授张颐武说。</p>
-<p>近年来，对于网络语言的规范和整治，教育部、文化部、广电出版总局、网信办和国家语言文字工作委员会等部门都有一些个案，却欠缺一些专门的规范、具体的流程。</p>
-<p><strong>划定底线分清责任，多元治理大可为</strong></p>
-<p>由中国网络传播学会与华中科技大学新闻与信息传播学院主编的《中国新媒体社会责任研究报告》蓝皮书指出：“国家网信办已成为我国最主要的互联网内容规制机构，与工信部、国家新闻出版广电总局等机构通力合作，频繁出台新的新媒体管理政策”。</p>
-<p>专家指出，就治理主体来看，目前互联网治理通常由政府主导，以“自查自纠、责令查处、群众举报”三种形式组合，形成监管模式。而政府作为规制政策的提供者，可以确定大致的方向和明确的底线，由互联网企业具体拟定管理举措，并主导实施。</p>
-<p>从全世界范围来看，监管滞后是普遍存在的问题。陈晓冉认为，我国需要建立新的管理模式，把各相关责任主体都纳入到互联网治理体系中来。“互联网思维强调开放参与、群策群力，主张充分尊重和调动各参与方的积极性，诉诸他们的责任意识和道德良知，因此政府应该鼓励公众积极参与互联网治理。”陈晓冉说。</p>
-<p>“政府的监管其实更多起倡导建立网络礼仪的作用。”张颐武说，“在整治低俗网络语言的议题上，政府应在约束与开放、公权力管控与公民自由表达中保持一种平衡，构建一个健康有序的网络空间，改善互联网发展环境，打造良性生态圈。”</p>
-<p><strong>就近期Papi酱的案例而言，虽说整治行动收效不错，也达成了监管机构与市场主体之间一次有正面意义的良性互动</strong>。但整治时机的滞后，整顿标准的缺失，整改范围的模糊，仍然造成了小范围的负面舆论。</p>
-<p>陈晓冉建议，互联网活力在其创新性，监管者应与时俱进，综合运用引入“法制化”“常态化”“柔性化”等治理手段，形成政府主导下各利益相关方共同参与、多元互动的综合治理模式。</p>
-<p><strong>外立章法内修涵养，标本兼治成合力</strong></p>
-<p>“从长远来看，法制化是互联网治理的根本手段，有法可依也是互联网得以公正有效治理的基础保障。”教育部语言文字应用管理司副司长彭兴颀说，“首先要完善语言文字的法规规章。加快制定《〈国家通用语言文字法〉实施办法》，把职责框定和底线问责作为话语约束的有效机制，强调国家机关、学校、新闻媒体、公共服务行业这四大重点领域，要正确、合法、规范、有序地使用国家通用语言文字。”</p>
-<p>近年来，已有许多人文学者呼吁，借鉴其他国家维护本国语言文字纯洁性的有益举措，制定相应的语言文字保护条例。</p>
-<p>“语言文字是民族文化传承与发展的重要载体，应把学校教育作为加强青少年规范使用语言文字的主阵地，从教材、课程设置、课堂教学和考试标准等方面正本清源，提高青少年规范使用语言文字、开展健康文明的网络生活的意识和能力。”彭兴颀建议。</p>
-<p>在政府相关部门的有力倡导下，2015年，中国语言资源保护工程启动，开展全民阅读活动，举办“汉字听写大会”、“中国成语大会”和“中国诗词大会”，以鲜活的言语风尚、出彩的文化涵养，引发全社会对国民语言能力的关注，培养国民的文化自信和文化自觉，对低俗网络语言行成了一定的抵制之势。</p>
-<p>同时，有关部门也相继出台措施，规范网络词语评选活动，杜绝为网络低俗用语的传播推波助澜。作为我国语言规范的标杆《现代汉语词典》，历经改版也吸纳了诸多网络新词，收录了“雷人”“宅”“山寨”“草根”等网络热词，同时也拒绝了“剩男”“剩女”等具有歧义或歧视色彩的词汇和一些流行但庸俗化的网络词汇。</p>
-<p>陈晓冉表示，严肃的文本教育、公认的文化认知、共同的社会操守、严格的约束机制，唯有遵从这些，才能实现现实与虚拟世界的正向联动，促生网络语言的健康革新，让低俗语言日渐淡出，让文明优美加速生长。</p>
-<p>相关阅读：</p>
-<p><a title="唐映红 | 关于papi酱之答记者问" href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%85%B3%E4%BA%8Epapi%E9%85%B1%E4%B9%8B%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE/">唐映红 | 关于papi酱之答记者问</a></p>
-<p><a title="腾讯新闻 | 网传Papi酱遭广电总局封杀 2016.04.17" href="https://chinadigitaltimes.net/chinese/2016/04/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB-%E7%BD%91%E4%BC%A0papi%E9%85%B1%E9%81%AD%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%B0%81%E6%9D%80/">腾讯新闻 | 网传Papi酱遭广电总局封杀</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9Apapi%E9%85%B1%E6%95%B4%E6%94%B9%E6%94%B6%E6%95%88%E4%B8%8D%E9%94%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?category=18271" rel="tag">Papi酱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81/?category=18271" rel="tag">不同意见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%A0%B8/?category=18271" rel="tag">审核</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B4%E6%94%B9/?category=18271" rel="tag">整改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">监管机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%BC%A0%E6%92%AD/?category=18271" rel="tag">网络传播</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E6%83%85/?category=18271" rel="tag">舆情</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%89%BE%E4%B8%8D%E5%88%B0%E5%A4%A7%E6%81%B6%E4%BA%BA%E7%9A%84%E6%97%B6%E4%BB%A3/" target="cdt-mirror">六神磊磊：找不到大恶人的时代</a>
-</h2>
-<p><p><strong>来自微信账号：六神磊磊读金庸（ID: dujinyong6）</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.jpg" rel="attachment wp-att-436860"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.jpg?resize=475%2C345" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.jpg?resize=300%2C218 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.jpg?w=640 640w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<p><strong>一</strong></p>
-<p>前不久，一个年轻人因病去世了，引发很多关注。</p>
-<p>死亡，是这个世界上最常见的事情之一，但是有一些离世的方式会让我们很难接受。</p>
-<p>他去世的过程大致如此：得了一种罕见病，到处求医无方，最后百度到一家医院，花了很多钱，仍然没有挽回生命。有调查称，这类医院存在诸多问题，劣迹斑斑。</p>
-<p>几乎人人都在追问：这是谁的错？包括我在内，人们都想揪出一个大恶人，为整个事负责。</p>
-<p>我的主业是读金庸。在武侠小说的世界里，惨剧的背后往往都会有一个大恶人。只要你顺藤摸瓜、追根溯源，就会发现一切都是他的阴谋。他是终极的恶的代表，是江湖风波的源头。</p>
-<p>比如《倚天屠龙记》里的“大恶人”是成昆，《天龙八部》里的“大恶人”是慕容博，一切的仇杀都源于他们的阴谋。</p>
-<p>在武侠小说里，大侠们的使命就是寻找大恶人。杀了他，恶就结束了，仇就洗雪了，逝者就瞑目了，公平正义的阳光就重又洒满大地。</p>
-<p>可是，如果书上的大侠来到今天，拿着刀要为魏泽西报仇，他会发现一个魔幻的事实：</p>
-<p>恶明明就在眼前，可他却偏找不到大恶人。</p>
-<p><strong>二</strong></p>
-<p>和我们一样，他会先找到百度，圆睁虎目，擎着刀扑向上地科技园。</p>
-<p>首先百度够“大”，不然为什么是BAT；它还搞了那个糟糕的竞价排名，一种猥琐的赚钱方式；它特别像是那个大恶人。</p>
-<p>正如我们一开始对它口诛笔伐，无数炮火轰向了它，许多文章指向了它，恨不得劈它的雷早点上路。</p>
-<p>可是骂着骂着，我们大家又感觉有点不对，不是吗？一个年轻人患一种病不治死了，主犯是一家互联网公司，这个逻辑是不是有点不对头。</p>
-<p>集中炮轰了几天百度后，越来越多的人犹豫了，一些文章开始反思：</p>
-<p>干掉百度，首恶就伏法了吗？在百度的背后，是不是还有更大的恶人？如果所有人都只注意百度，会不会让真正的大恶人跑了？</p>
-<p>紧接着，有人站出来提醒：快看，莆田系正在全身而退！它才是害死魏泽西的真正的成昆！</p>
-<p>随着目光投向莆田系，更多的劣迹被发现了，似乎一个大恶人正露出庐山真面目。它被揭发为行业毒瘤、违规经营、威胁记者，而且多年前就曾被曝光……</p>
-<p>这一次，我们似乎发现了罪魁祸首了。为魏泽西报仇的大侠应该即刻改道南下，直奔湖建了。</p>
-<p><strong>三</strong></p>
-<p>可是且慢。什么叫大恶人？应该是一切小恶人背后的恶人，是恶的源头，如成昆，如慕容博，如左冷禅。</p>
-<p>莆田系是吗，莆田系配吗，为什么我们总觉得它的背后还有恶人？莆田系是有人管的呀，你见过大恶人还有人管？慕容博有人管吗？莆田系据说还要给人行贿的，你见过大恶人老要行贿吗，左冷禅用行贿拍马屁吗？</p>
-<p>再回头看百度，也是越看越不像大恶人啊，它再大也是有人管的啊，它原来也是有竞争对手的啊，怎么忽然没有了啊。</p>
-<p>还有病逝大学生就诊的引发很大争议的医院，据说在央视也露了脸来着，这个信用背书比百度更厉害，那央视是不是大恶人？我们的大侠是不是又要改道北上，直奔大裤衩？</p>
-<p>大侠真的很不容易，真的很崩溃。</p>
-<p>他会发现，这里和书上的江湖不同——成昆的背后没有人了，左冷禅的背后没有人了，慕容博的背后没有人了。可在今天一些事上，每揪出一个人，总觉得它的背后还站着人。小钻风背后还有总钻风，总钻风背后还有狮子，狮子背后有白象，白象背后有大鹏，如来又是大鹏的亲外甥。</p>
-<p><strong>四</strong></p>
-<p>更可能让大侠崩溃的是，不但人人都不像是大恶人，而且人人都没有直接作恶。每一个他揪出来的人，都可以摊开双手，作TVB状：</p>
-<p>“发生这种事，大家都不想的……”</p>
-<p>“可是你看，我没有害人啊，我只是做了自己业务环节内的一些事而已，至于其它的那些环节，我不能了解呀，我不能干预呀，不是我的能力范围啊。”</p>
-<p>比如：“我只是给医院做了节目而已，我们不治病啊，没说他家不让做啊……”“我只是提供了医院的链接而已，可医院是正规的呀……”“我只是承包医院收病人而已，不能办你们早讲啊，当时不要点头啊……”</p>
-<p>这个时代，一些事情，你揪不出“大恶人”，只有一场心照不宣的共谋，就像东方快车上的谋杀案，每一个人都有份，每一个人又都无辜，谁都参与了，但谁都不是大恶人。</p>
-<p>人类的害人方式，一直在进化。今天进化出的两大新种类，一种叫“互害”，你用你的地沟油害我，我用我的奶粉害回你，大家一起吃瘪。另一种就是所谓的“群害”，大家各自埋头完成作恶链条的一环，最后拼成一件坏事，拆开来都不叫作恶，每个人都可以埋头装无辜。</p>
-<p>就好比我造了云，你提供雷电，他降了雨，最后洪水滔天，一问起来，谁都没有作恶。</p>
-<p>当大侠悲怆地喝问：“到底谁是成昆，给我站出来”的时候，人们各自摆手，有的说“你看我明显不是成昆”，有的说“我只是被成昆利用的”，有的说：“大侠息怒，我对此十分重视，正在严查成昆！”</p>
-<p>你说我们的大侠该杀谁？</p>
-<p>此时此刻，我只能想到赵本山老师的一句小品台词：</p>
-<p>“我告诉你，就这个问题，你杀谁都不好使。”</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%89%BE%E4%B8%8D%E5%88%B0%E5%A4%A7%E6%81%B6%E4%BA%BA%E7%9A%84%E6%97%B6%E4%BB%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%95%86%E5%8B%BE%E7%BB%93/?category=18271" rel="tag">政商勾结</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -781,7 +745,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -791,5 +755,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

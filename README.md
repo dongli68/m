@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB%E6%8E%A2%E8%AE%BF%E5%8C%97%E4%BA%AC%E6%AD%A6%E8%AD%A6%E4%BA%8C%E9%99%A2-%E6%82%A3%E8%80%85%E5%93%AD%E8%AF%89%E5%B0%B1%E8%AF%8A%E7%BB%8F/" target="cdt-mirror">【CDTV】新浪新闻探访北京武警二院 患者哭诉就诊经历</a>
@@ -237,7 +237,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F/?category=18271" rel="tag">中国军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87%E6%8C%A5%E6%9E%AA/?category=18271" rel="tag">党指挥枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E4%B8%89%E5%A8%83%EF%BD%9C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E6%AD%BB%E8%80%8C%E5%A4%8D%E7%94%9F%E7%9A%84%E8%83%8C%E5%90%8E/" target="cdt-mirror">文三娃｜美国大使馆官方微博“死而复生”的背后</a>
 </h2>
@@ -781,7 +781,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -791,5 +791,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

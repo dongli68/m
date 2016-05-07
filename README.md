@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,47 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E9%9A%94%E5%B2%B8%E8%A7%82%E5%B7%9D%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B0%91%E4%B8%BB%E4%B9%8B%E6%83%91/" target="cdt-mirror">译读 | 隔岸观川普：中国人的民主之惑</a>
+</h2>
+<p><p>在这个猴年，中国的注意力已完全被美国总统大选——更具体地说是被共和党的竞选者唐纳德·特朗普所吸引。那些常常自以为是地探讨民主本质和怎样的美国总统对中国更有利的人，如今在对中国公众解释特朗普现象时却显得一筹莫展。</p>
+<p>数十年来，对美国政治的解释一直存在两种平行却矛盾的版本，左右着中国人对美国的理解。保守派告诉公众，美式民主是个骗局，金钱和特殊利益集团玩弄民意，操纵体制以满足自身的利益——即“纸牌屋”（译者注：the House of Cards，2013年以来热播的政治题材美剧，站在讽刺与阴谋论的立场看待美国政治）式的版本。而自由派则把美国的民主政治宣传为一套人民可通过选举其支持的领导人而实现自决的政体，与中国的一党专政形成鲜明对比，是中国必须追求的目标——这便是“民主女神”（译者注：Goddess of Democracy “民主女神”是那年春天的标志性艺术品之一，后成为主张西式民主政治的中国自由派的代表形象）式的版本。</p>
+<p>中国对民主的普遍认知和对本国未来的看法很大程度上受到了美国政见的分野及美国现代民主旗手们的影响。但这位美国的地产大亨却迫使中国公众重新评估对美国政治制度的认识。基于最终的大选结果和其带来的长期影响，特朗普现象或许会改变中国人对民主的看法。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-%E4%B8%8A%E5%8D%8811.21.20.png?resize=569%2C380" alt="Screen Shot 2016-05-07 at 上午11.21.20" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午11.21.20.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午11.21.20.png?w=569 569w" sizes="(max-width: 569px) 100vw, 569px" data-recalc-dims="1"><br>
+纽约州共和党党内初选，唐纳德·特朗普在填写选票。Andrew Kelly / Reuters</p>
+<p>而在地缘政治方面，专家们的分歧甚至更加严重。特朗普的挑衅言论里，中国和日本、墨西哥一道被视为外国竞争对手，这几乎肯定会激怒中国的鹰派。然而他对中国所取得的成就表现出的钦佩以及限制对外干涉的主张却使得认知图景更为复杂。对那些蔑视美式民主的人而言，特朗普的崛起给他们印象在于，至少在共和党那边，普通美国人正倾向于制衡有钱的精英阶层。特朗普本身就是位富豪，但这不是重点。他是作为一个反对美国现有政治体制的候选人参选的。他的政策主张代表的是美国工人阶层的利益，且迄今为止，他在选举造势上的花费也仅仅是其他参选人的皮毛。同样，从伯尼·桑德斯出人意料的势头可以看出，民主党那边也经历着类似的现象。</p>
+<p>这和中国保守派长期鼓吹的那一套相左：因为特朗普现象，现在中国人开始觉得，或许美国“人民”还是有能力决定他们国家的前途的。中国旗帜性的保守刊物——《环球时报》便遭遇了这一挑战带来的困难。《环球时报》称特朗普“大嘴巴”、“骂骂咧咧”，并在一篇社论中毫不掩饰幸灾乐祸之情，指出特朗普现象凸显出美国政治制度的衰落。然而，它的另外两篇社论却认为，美国精英阶层给特朗普的支持者贴上民粹标签，反映了他们“理性的丧失”，并称特朗普是一位聪明且识时务的生意人，祝他一切顺利。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-%E4%B8%8A%E5%8D%8811.22.15.png?resize=571%2C379" alt="Screen Shot 2016-05-07 at 上午11.22.15" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午11.22.15.png?resize=300%2C199 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午11.22.15.png?w=571 571w" sizes="(max-width: 571px) 100vw, 571px" data-recalc-dims="1"><br>
+民主党总统参选人伯尼·桑德斯演讲现场，宾夕法尼亚大学的学生们。 Lucas Jackson / Reuters</p>
+<p>一贯把美式民主描绘为富人游戏的官方媒体新华社，也认为这次的情况有所不同。新华社报道称，特朗普的财富能让他反制已被华尔街和大公司巨头所掌控的体制。如果共和党内部能不顾其得票优势成功否决特朗普的提名，那么中国保守阵营的说辞还可以站稳脚跟。但在此刻，他们似乎已经陷入矛盾之中。</p>
+<p>而中国自由派同样不知所措。内部充斥着愤怒和绝望。他们鄙视特朗普，但又却不能简单地说富有的精英是正确的而人民是错的。那样说对他们在中国宣传西式民主政治毫无益处。毕竟，如果人民能错得如此离谱，又怎能放心让他们投票？</p>
+<p>一位著名的自由派评论员称特朗普的支持者为一群没受过高等教育、被遗忘和边缘化的美国人，并拿他们和中国本土的毛左相提并论。在自由派权威人士云集的凤凰卫视中，名嘴们要么贬低特朗普——比如揶揄他为“‘特’大炮”——要么翻来覆去地炒作对他千篇一律的指控，比如说他是孤陋寡闻的骗子。而另一位自由派评论员则称特朗普是“赤裸裸的法西斯嘴脸”。</p>
+<p>特朗普粗鄙的形象让自由派感到厌恶，然而其在选举中的大胜却让他们颇显语塞，因为自由派一直宣称选举是政治合法性的唯一基础。的确，特朗普现象让中国不得不在看待美国的民主政治时跳出学者们长期以来建构的两种刻板印象。一种更加复杂与现实主义的图景正在浮现。</p>
+<p>撇开困惑和绝望，大多数中国人本能地体会到特朗普现象的一个主题：阶级斗争。中国几乎所有的分析都指出：特朗普大部分的支持者来自工人阶层。一些权威人士借用了美国人自己的说法，称特朗普的崛起是99%美国大众的复仇。官方报刊《中国青年报》用刊载的统计数据表明美国中产阶级规模的萎缩，借此解释特朗普现象。</p>
+<p>考虑到中国的马克思主义传统，这并不值得惊讶。自西方世界取得冷战胜利后，中国人在很大程度都接受了这样一种观念：依托民主政治，西方各国可以成功处理阶级斗争。近代以来，由于中国人深受极端化的阶级斗争之苦，故而消除阶级划分的西方民主政治似乎让他们尤为羡慕。但是，特朗普现象却无疑向世界昭示，所谓的阶级融合可能只是美梦一场。美国的工人阶级其实正怒火中烧。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-%E4%B8%8A%E5%8D%8811.22.49.png?resize=570%2C378" alt="Screen Shot 2016-05-07 at 上午11.22.49" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午11.22.49.png?resize=300%2C199 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午11.22.49.png?w=570 570w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"><br>
+共和党参选人泰德·克鲁兹正在台上演讲。 Carlo Allegri / Reuters</p>
+<p>中国公众或许会惊讶地发现，美国的许多主流思想家也作出了这样的判断。早在特朗普呼声高涨之前，戴维·弗罗姆便在《大西洋月刊》上撰文写到，当下选举的混乱，实际上是因为数十年来美国精英阶层忽视、乃至背叛中产和劳工阶级利益的趋势达到了顶点。精英阶层支持的全球化让自己赚得盆满钵满，而普通美国人的收入却停滞不前甚至下滑。同样，精英阶层倡导的多元文化主义也只让富人和大企业受益，移民带来了更低的劳动力成本和更多的人才，而本土的工薪阶层却因此丢了饭碗，同时眼睁睁的看着社区的凝聚力受到外来者的威胁。而且，类似的情绪也在桑德斯的支持者中产生共鸣。</p>
+<p>早在2014年，新美利坚基金会（New America Foundation）的创始人迈克尔·林德（Michael Lind）便在文章《重组将至》（The Coming Realignment）中探讨道，长期以来，美国的两大党都是由松散的联盟组成。共和党这边，资本家精英通过灌输社会价值观和身份认同感将众多的美国工薪阶层揽入其麾下。而在民主党这边，他们也有自己的经济精英与持自由主义社会观的普通美国人维系联盟。也就是说，两党都同样被华尔街和大企业的精英所控制，而这些精英所推行的政策都没有本质差别，都无视了两方支持阵营中草根阶层的经济利益。简而言之，两大党通过政党结构吸收或抑制阶级冲突，从而在国家层面保持其支配力量。</p>
+<p>林德预测这种结构并不具有可持续性。随着美国政治中，社会价值观作为主要政治断层线的地位之衰落，美国工薪阶层会团结起来争取其自身的经济利益。这样的重组将跨越政党的分野。但是为这个新兴的、具有自我意识的工人阶级提供政治土壤的是民主党还是共和党，林德并不确定。在本次大选中，两党的工人阶级分别被特朗普和桑德斯所代表。现在看来，即使特朗普最终败选，他所带动的这一趋势也会让共和党转型为以美国工薪阶层为基础的政治势力，同时造成民主党部分程度的分裂。民粹主义或许会使美国政治重新洗牌，进而影响未来几代人。</p>
+<p>基于这种预设，共和党会成为美国工薪阶层的先锋组织，他们希望维持并扩大社保和医保福利，限制移民和商贸以保障就业，以及限制那些基本上只让全球化精英们受益的外交活动。同时，民主党会成为都市精英阶层的大本营，他们支持自由市场经济、自由贸易、鼓励移民与干涉性外交政策，并从中获益。</p>
+<p>如果本次大选为美国社会因阶级斗争而两极分化铺平了道路，那么它将对中国人理解民主的本质提供宝贵的一课。</p>
+<p><strong>中国公众将会明白民主政治并非解决阶级斗争的灵丹妙药。同时他们也会发现，尽管富有的精英阶层在西式民主游戏中占据很大的优势，普通人民偶尔也有能力违背精英的意愿去影响国家的走向。最后，中国人也将了解，即便在全世界最发达的国家，身为自由主义的民主实践也能产生民粹主义和反自由主义的后果。</strong></p>
+<p>特朗普对中国人理解美国政治的影响并不局限于民主。中国人对美国外交政策中的鹰派与鸽派的看法与偏好也可能因此发生质变。传统上，中国的意见领袖们更青睐两党中温和的国际主义者，比如前总统老布什和克林顿，他们似乎乐于把崛起的中国纳入当前的世界秩序之中。而对于共和党内的新保守主义者，比如小布什政府中的部分人士，以及像希拉里这样持干预型自由主义立场（liberal interventionists）的民主党人，意见领袖们则深感不安，因为这些人主张积极遏制中国，乃至直接干涉中国的内政。这其中甚至包括奥巴马。尽管除中国外全世界可能都看到了他在动用美国海外力量时的高度克制，然而他重返亚洲的外交战略导致了中美两国的关系紧张，因此许多中国人还是认为他对中国充满敌意。</p>
+<p>特朗普让中国对美国政治的看法重新洗牌。他把美国当前的困境归罪在中国身上，宣称一旦当选，便会缩减作为中国经济增长主要来源的双边贸易。在竞选活动中他充满挑衅意味的反华言辞在中国被大肆宣扬。在国防事务上持狂热民族主义立场的解放军军官戴旭称特朗普是美国的希特勒，并将他在赢得新罕布什尔州初选后的讲话贬为“一次帝国主义者兜售战争的演讲”。</p>
+<p>然而，特朗普如果真的当选，他更可能会克制自己在地缘政治或内政事务（诸如人权问题）方面对华咄咄逼人的态度。实际上，特朗普曾多次表达他对中国所取得的成就的羡慕。无论是“跨太平洋伙伴关系协议”还是让中国焦虑万分的奥巴马重返亚洲的战略，都可能会因此不了了之。他甚至宣称如果他当政，美国会减少其对日本和韩国的国防安全援助，除非这两国先向美国付钱。</p>
+<p>中国人一向认为，美国如果能专心处理本国看起来无比棘手的内政问题，对两国都更为有利。著名学者，同时也是中国外交政策领域鹰派人物金灿荣便称特朗普是位实用主义者，并表示中国人从来就“喜欢和实用主义者打交道”。毫无疑问，特朗普掌权下的美国会掀起一场针对中国的激烈竞争。但中国或许不会畏惧美国这个对手。有竞争并不是坏事。长期以来，中国抵制且憎恶的是美国总在想法设法按照自身形象改造世界其他地区。而这似乎并不是特朗普准备做的事。</p>
+<p>在这个充斥着美国人愤懑的春天，中国人关于民主的理解和对地缘政治的看法被粉碎得很彻底。无论特朗普是输是赢，他都给太平洋彼岸带来了一连串的困惑、冲突和新发现。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E9%9A%94%E5%B2%B8%E8%A7%82%E5%B7%9D%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B0%91%E4%B8%BB%E4%B9%8B%E6%83%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89/?category=18271" rel="tag">2016美国大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%91%E5%BE%B7%E6%96%AF/?category=18271" rel="tag">桑德斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%B0%E5%BE%B7%E5%85%8B%E9%B2%81%E5%85%B9/?category=18271" rel="tag">泰德克鲁兹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9C%97%E6%99%AE/?category=18271" rel="tag">特朗普</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%BC%8F%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">美式民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-50%E5%B9%B4%E5%90%8E%E7%9A%84%E7%BA%A2%E4%BA%94%E6%9C%88%EF%BC%8C%E8%B0%81%E5%9C%A8%E6%AD%A4%E6%97%B6%E6%AD%8C%E5%94%B1%E6%96%87%E9%9D%A9/" target="cdt-mirror">端传媒 | 50年后的“红五月”，谁在此时歌唱“文革”？</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-%E4%B8%8A%E5%8D%8811.06.16.png?resize=554%2C368" alt="Screen Shot 2016-05-07 at 上午11.06.16" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午11.06.16.png?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午11.06.16.png?w=554 554w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><br><span>汕头塔山，位于塔山风景区的文革博物馆在今年前夕停止开放，博物馆的石碑和雕塑等都被横幅遮盖。摄：叶家豪/端传媒</span></p>
@@ -88,6 +126,30 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/56%E6%9C%B5%E8%8A%
 <a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91-%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E7%BB%84%E5%90%88%E7%9A%84%E3%80%8A%E5%A4%A7%E6%B5%B7%E8%88%AA%E8%A1%8C%E9%9D%A0%E8%88%B5%E6%89%8B%E3%80%8B/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/56%E6%9C%B5%E8%8A%B1%E5%B0%91%E5%A5%B3%E7%BB%84%E5%90%88/?category=18271" rel="tag">56朵花少女组合</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A/?category=18271" rel="tag">在希望的田野上</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E5%B0%91%E5%A5%B3/?category=18271" rel="tag">爱国少女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A4%A9%E5%9B%A2/?category=18271" rel="tag">社会主义天团</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E7%9C%8B%E4%BA%86%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%EF%BC%8C%E4%BD%A0%E5%B0%B1%E4%BC%9A%E6%98%8E%E7%99%BD%E5%90%8C%E5%BF%97%E4%B8%BA%E4%BD%95%E9%9C%80%E8%A6%81%E5%A9%9A/" target="cdt-mirror">【CDTV】看了这个视频，你就会明白同志为何需要婚姻</a>
+</h2>
+<p><p>肖恩·柯隆（Shane Crone）是一位作家、电影人和同志权利抗争者。</p>
+<p>2011年，与肖恩相伴6年的男友汤姆·布莱德格鲁（Tom Bridegroom）意外坠楼死亡。由于当时同性婚姻在美国尚未合法，两人的关系不受法律的保护。在汤姆死后，沙恩无权处理其遗物，甚至被汤姆的家人禁止出席葬礼。</p>
+<p>2012年汤姆去世一周年时，肖恩将他们的故事做成视频《如果不幸降临在你身上》（<em>It can happen to you</em>）传到YouTube网站，在世界各地引起对同志权利的反思。</p>
+<p>2013年，他们的故事被拍成纪录片《再见，我的新郎》（<em>Bridegroom</em>）。</p>
+<p>2015年，美国最高法院通过同性婚姻。</p>
+<p>中国的同志群体也在为自己的权利作着抗争。2014年，北京市海淀区人民法院就中国首例“同性恋矫正治疗”案作出判决，判决书中明确写道“同性恋不是精神疾病，不需要接受治疗。”</p>
+<p>2015年，同志伴侣孙文麟和胡明亮试图登记结婚被拒绝后，将民政局告上了法庭，这个案子被称为“中国同性婚姻”第一案。2016年，湖南省长沙市芙蓉区人民法院判处孙胡二人败诉。理据是：“根据《婚姻法》第二条、第五条以及《婚姻登记条例》，缔结婚姻关系的两人须为一男一女。”</p>
+<p> </p>
+<p><a href="https://www.youtube.com/v/YCGWozkG0No?version=3">https://www.youtube.com/v/YCGWozkG0No?version=3</a></p>
+<blockquote><p>相关阅读：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%97%A2%E4%BA%89%E5%90%8C%E5%A9%9A%E5%B9%B3%E6%9D%83%EF%BC%8C%E4%B9%9F%E8%83%BD%E8%B6%85%E8%B6%8A%E5%A9%9A%E5%A7%BB/">微思客 | 既争同婚平权，也能超越婚姻</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2015/10/%E3%80%90cdtv%E3%80%91%E6%9A%97%E8%AE%BF%E4%B8%AD%E5%9B%BD%E8%AF%8A%E6%89%80%E5%90%8C%E6%80%A7%E6%81%8B%E7%9F%AB%E6%AD%A3%E7%94%B5%E5%87%BB%E7%96%97%E6%B3%95/">【CDTV】暗访中国诊所“同性恋矫正”电击疗法</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2014/12/%E6%B3%95%E5%B9%BF%EF%BD%9C%E9%A6%96%E4%BE%8B%E5%90%8C%E6%80%A7%E6%81%8B%E7%9F%AB%E6%AD%A3%E6%B2%BB%E7%96%97%E6%A1%88%E5%8E%9F%E5%91%8A%E8%83%9C%E8%AF%89%E5%90%8E%E6%8E%A5%E5%8F%97/">法广｜首例“同性恋矫正治疗”案原告胜诉后接受采访</a></p></blockquote>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E7%9C%8B%E4%BA%86%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%EF%BC%8C%E4%BD%A0%E5%B0%B1%E4%BC%9A%E6%98%8E%E7%99%BD%E5%90%8C%E5%BF%97%E4%B8%BA%E4%BD%95%E9%9C%80%E8%A6%81%E5%A9%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97%E5%B9%B3%E6%9D%83/?category=18271" rel="tag">同志平权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B/?category=18271" rel="tag">同性恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">婚姻</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
@@ -211,7 +273,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/betterread/?category=18271" rel="tag">BetterRead</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">医患关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">医患矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97/?category=18271" rel="tag">医疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">医疗体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">医疗改革</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%80%9D%E4%B9%90%E4%B9%A6-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E6%8A%97%E4%BA%89%E4%B8%AD%E7%9A%84%E4%BC%A0%E7%BB%9F%E6%9C%89%E5%A4%9A%E5%B0%91%E6%84%8F%E4%B9%89%EF%BC%9F/" target="cdt-mirror">思乐书 | 赵思乐：抗争中的“传统”有多少意义？</a>
 </h2>
@@ -818,150 +880,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%9D%80%E6%9D%80%E6%9D%80-%E8%A7%A3%E6%94%BE%E5%86%9B%E5%BE%81%E5%85%B5%E8%A7%86%E9%A2%91%E5%98%BB%E5%93%88%E8%AF%B4%E5%94%B1%E6%8B%9B%E6%96%B0/" target="cdt-mirror">美国之音｜“杀杀杀” 解放军征兵视频嘻哈说唱招新</a>
-</h2>
-<p><p></p>
-<p><em>作者：海伦／任禺阳</em></p>
-<p>华盛顿— 五一小长假前，中国军网发布最新征兵视频。这个以嘻哈歌曲说唱、热血号召，同时高频展示新锐装备的视频一下子在网上火了。众多中国网友纷纷呐喊“兵哥哥帅气”，也有人认为此视频彰显了中国军队日益强硬的姿态。</p>
-<p>视频中说道：“战争随时爆发，你们准备好了吗？”</p>
-<p>中国军网的最新征兵视频《战斗宣言》在一首嘻哈说唱歌曲下，展示了火箭与导弹发射，新型坦克、战斗机、航空母舰等新型军事装备，快节奏的画面、具有攻击性的语言、动感的说唱都直击新一代年轻人，鼓励更多人应征入伍。</p>
-<p>视频开始是一名士兵穿戴白手套，整理着装。接着响起一个浑厚坚定的男声：</p>
-<p>视频说道：“ 脑子里永远有任务，眼睛里永远有敌人，肩膀上永远有责任，胸膛里永远有激情。”</p>
-<p>据英国《卫报》称，包括“只等一声令下，杀杀杀”之类的歌词，这个视频针对的是玩着“使命召唤”等第一人称射击类游戏长大的千禧一代年轻人。</p>
-<p>视频说道:“ 招之即来，来之能战，战之必胜，杀！”</p>
-<p>中国官媒《环球时报》社评指出，“血性是这个大民族永远不可被淡化的一种内质，尚武也是我们不可丢失的民族精神之一”，因此“中国必须有一支令全世界所有力量都充分敬重的军队，这是中国一切政策必不可少的原点之一”。</p>
-<p>中国常备军有230万人之多，为世界之最。习近平在去年9月大阅兵之际提出裁军30万人，后启动军改，要打造一支更加现代的高科技战斗部队，将重心从地面部队转向导弹、海军和空军。此举也意在更有力地应对南中国海、东中国海等不断升温的海上领土纷争。</p>
-<p>在这段3分钟左右的视频下，中国政府要传递给年轻人的除了当兵的帅气和酷炫，更多的是保持部队的士气。中国官媒《中国日报》引述国防部新闻发言人吴谦上校在4月的例行记者会上说的话：“青春不只是眼前的潇洒，也有家国与边关。”</p>
-<p>相较中国的爱国主义教育，美国军队的征兵视频则更加侧重入伍给个人带来的益处，例如，80年代以来一系列以“尽你所能”(Be All That You Can Be)为主题的征兵广告，宣称参军可以给年轻人带来接受教育、支付学费等机会，“在军队里找到未来”。</p>
-<p>当然，中国对自己的征兵新视频是信心十足的。中国媒体引述了美国海军陆战队的《陆战队时报》(Marin Corps Times)报道，称中国的这段新视频有电影《速度与激情》的节奏，在各个方面都胜过美军，却没有提到一些中国网友对于视频中使用电脑图像和电视剧画面感到的困惑与不解。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%9D%80%E6%9D%80%E6%9D%80-%E8%A7%A3%E6%94%BE%E5%86%9B%E5%BE%81%E5%85%B5%E8%A7%86%E9%A2%91%E5%98%BB%E5%93%88%E8%AF%B4%E5%94%B1%E6%8B%9B%E6%96%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9B%E9%98%9F/?category=18271" rel="tag">中国军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87%E6%8C%A5%E6%9E%AA/?category=18271" rel="tag">党指挥枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">军队改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%81%E5%86%9B/?category=18271" rel="tag">裁军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E4%B8%89%E5%A8%83%EF%BD%9C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E6%AD%BB%E8%80%8C%E5%A4%8D%E7%94%9F%E7%9A%84%E8%83%8C%E5%90%8E/" target="cdt-mirror">文三娃｜美国大使馆官方微博“死而复生”的背后</a>
-</h2>
-<p><blockquote><p>相关阅读：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2013/07/%E7%BD%91%E6%9B%9D%E7%BE%8E%E9%A9%BB%E6%B8%AF%E6%80%BB%E9%A2%86%E9%A6%86%E9%81%AD%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E7%A6%81%E8%A8%80/" target="_blank">网曝美驻港总领馆帐号遭新浪微博禁言</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2012/07/%E7%BE%8E%E5%B8%9D%E9%A6%99%E6%B8%AF%E6%B2%AA%E8%AF%AD%E5%8D%96%E8%90%8C-%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A%E6%94%B6%E8%97%8F%E5%8F%AF%E7%9C%8B/" target="_blank">美帝香港沪语卖萌 被删微博收藏可看</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2012/05/%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE-%E9%A9%BB%E6%B8%AF%E7%BE%8E%E9%A2%86%E9%A6%86%E5%8D%96%E8%90%8Cpk%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/" target="_blank">网络民议| 驻港美领馆卖萌PK人民日报</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2012/05/%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%EF%BD%9C%E3%80%8A%E5%8C%97%E4%BA%AC%E6%97%A5%E6%8A%A5%E3%80%8B%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E4%BF%83%E9%AA%86%E5%AE%B6%E8%BE%89%E5%85%AC%E5%B8%83%E8%B4%A2/" target="_blank">网络民议｜《北京日报》官方微博促骆家辉公布财产 网友热议</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2012/05/%E6%8B%BF%E7%BE%8E%E5%B8%9D%E5%B7%A5%E8%B5%84%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BF%A1%E8%AE%BF%E5%8A%9E%E4%B8%BB%E4%BB%BB/" target="_blank">拿美帝工资的中国信访办主任</a></li>
-</ul></blockquote>
-<p><strong>来自微信公号：文三娃（ID: wentaonews）</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AA%86%E5%AE%B6%E8%BE%89.jpg" rel="attachment wp-att-436976"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AA%86%E5%AE%B6%E8%BE%89.jpg?resize=525%2C377" alt="骆家辉" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/骆家辉.jpg?resize=300%2C216 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/骆家辉.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>2016年5月5日19时左右，美国驻华大使馆新闻处管理新浪微博官微的工作人员发现，@美国驻华大使馆 打不开了。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BE%8E%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E9%A6%86.jpg" rel="attachment wp-att-436975"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BE%8E%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E9%A6%86.jpg?resize=425%2C754" alt="美驻华大使馆" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/美驻华大使馆.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/美驻华大使馆.jpg?w=451 451w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p>使馆工作人员立即向新浪微博官方投诉。</p>
-<p>正当使馆新闻处准备向媒体发布关于“封号”的声明时，当日21时许，该官微又“复活”了。</p>
-<p>据使馆工作人员透露：这期间，管理人员（对官微）没有任何操作，微博异常显然不是美国使馆方面的原因。</p>
-<p>“我都准备好了找新工作，” 这位使馆管理微博的工作人员告诉本文作者。</p>
-<p>这并非美国驻华使团的官方微博头一次遭遇封号。</p>
-<p>早在2012年7月14日，以“卖萌”著称的 @美国驻上海总领事馆 被封，至今未能恢复。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BE%8E%E9%A9%BB%E6%B2%AA%E6%80%BB%E9%A2%86%E4%BA%8B%E9%A6%86.jpg" rel="attachment wp-att-436974"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BE%8E%E9%A9%BB%E6%B2%AA%E6%80%BB%E9%A2%86%E4%BA%8B%E9%A6%86.jpg?resize=425%2C754" alt="美驻沪总领事馆" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/美驻沪总领事馆.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/美驻沪总领事馆.jpg?resize=577%2C1024 577w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/美驻沪总领事馆.jpg?w=640 640w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p><em><strong>娃按：下文2012年5月发表于《南都周刊》 有删节。</strong></em></p>
-<p><strong>洋微博那点事儿</strong></p>
-<p>越来越多洋微博出现在了中文网络圈儿里，他们打开了一扇中外交流的大门，在信息互动中，有价值观激烈碰撞的火花，也有面临网络监控时共同遭遇的尴尬。</p>
-<p>以美国驻华使团为例，截至2012年5月，他们一共在各种社交媒体平台开通60多个帐号（包括微博、博客和视频分享），抵达将近280万网民。</p>
-<p><strong>【美国人是这么干的】</strong></p>
-<p>美国使领馆利用官博，对美国的行政制度进行解读，在一些中国重大社会事件上也高调发声，自然是向网友传递美国的价值观。</p>
-<p>美国大使馆称，该机构的新浪微博由使馆新闻文化处维护。微博外交的目标是 让中国公众了解美国的政治、文化、历史以及核心价值观，同时获得有关美中关系和当前事务的资讯。</p>
-<p>2012年的一次价值观碰撞是由《北京日报》新浪官博的一条跟帖引起的。</p>
-<p>一位在新浪微博上有32个粉丝的网友“woodbell魏志奇”（这条微博火了一天之后，该账号的粉丝猛涨到274个）5月14日发表质疑：把骆家辉包装成“平民”是徒劳的。骆住的是耗资上亿美元修建的美国大使官邸。出行代步的是特制防弹豪华专车。家人连佣人开销由美国纳税人支付。这样的奢侈岂能算简朴？请问骆大使这些为何不发布？只公布喝咖啡，坐经济舱，不是摆拍作秀是什么？</p>
-<p>《北京日报》的新浪官博很快跟帖：请骆家辉公布财产。美国大使馆未在第一时间回应《北京日报》的呼吁。不过，很多热心网友很快从各种渠道收集到了骆家辉任公职以来公布个人财产的诸多官方文件。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AF%B7%E9%AA%86%E5%AE%B6%E8%BE%89%E5%85%AC%E5%B8%83%E8%B4%A2%E4%BA%A7.jpg" rel="attachment wp-att-436973"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AF%B7%E9%AA%86%E5%AE%B6%E8%BE%89%E5%85%AC%E5%B8%83%E8%B4%A2%E4%BA%A7.jpg?resize=425%2C651" alt="请骆家辉公布财产" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/请骆家辉公布财产.jpg?resize=196%2C300 196w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/请骆家辉公布财产.jpg?w=440 440w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p>李开复5月14日发帖，给出了美国联邦政府官员的个人财产链接。不到一天就转发近2万次。香港美领馆通过微博感谢李开复，并大声吆喝：看喽！看喽！随便看喽！随便转喽！这条微博还引来潘石屹的点评，他跟帖说：真逗，推销“官员财产公开”像卖菜一样吆喝着。我们卖房子都不这样吆喝了。 李开复回帖：人家部长都只有那么点钱，领事馆职员像卖菜的也不奇怪。</p>
-<p>香港美领馆的官博也凑了热闹，在跟帖中如此表达知遇之恩：知冷知热的李开复呀，被您感动得涕泪横流了！</p>
-<p>两个月后被永久封禁的上海总领馆也跟帖叫苦：小菜贩一枚！</p>
-<p>2012年5月15日，美国大使馆新闻发言人包日强在新浪微博上发布了美国外交官的工资详单。不但介绍了骆家辉的工资级别，还进一步说明高级外交官如克林顿国务卿的最高年薪不超过179,700美元。大使馆以及成都等领事馆官博随后转发了包日强的帖子。<strong>不少网友将此贴转给《北京日报》官博，要求该报社时任社长梅宁华公布个人财产。<br></strong></p>
-<p><strong>截至2016年5月5日，《北京日报》并未做出回应，其官博要求骆家辉公布财产的帖子已经删除。</strong></p>
-<p>美国使团的微博在官员财产公开上一直很热情，当然，他们的做法和《北京日报》的呼吁一致——不针对中国官员，而紧盯美国官员。</p>
-<p>广州美领馆在今年4月美国的缴税季，通过微博公布了美国总统等人的财产状况，并提供了链接查询：奥巴马夫妇2011年的收入是78.9万美元，他们交了16.2万的税。“要不要下载总统副总统的税单看看？”</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-1.jpg" rel="attachment wp-att-436972"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-1.jpg?resize=550%2C307" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-1.jpg?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-1.jpg?w=560 560w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br>
-美国高官在中国的衣食住行一直是民间关注的焦点。</p>
-<p>2011年达沃斯论坛上，央视主持人芮成钢问骆家辉：“听说你是坐经济舱来的，这是否在提醒大家美国欠中国的钱？” 骆家辉回答：“作为政府官员，不管是大使馆，领事馆，也包括总统内阁成员，一般规则就是坐经济舱。我代表了美国人的真实做法。”</p>
-<p>广州美领馆随后发表微博：这个是可以证实的。大使馆及领事馆的同事公务出行没有特殊情况都不能订头等舱和商务舱。</p>
-<p>美国大使馆转发最多的一条微博是去年描述拜登在北京吃的一顿饭。——今天拜登副总统等5人点了5碗炸酱面，10个包子，拌黄瓜，凉拌山药，凉拌土豆丝以及可乐等。总费用79元。拜登副总统在结帐时对店主说，给你们带来了许多不方便。他掏出100元结帐，剩下的按照美国习惯作为小费。</p>
-<p>这条微博很快被转发了5万多次。</p>
-<p>凤凰联动文化传媒公司老总张小波评论：装逼犯哪里都有，中美概莫能外。这家店你们使馆已有一众人打了前站，甚至连拜登来点几碗几个小菜共计多少钱都策划好了。小费21元，又适中又意味隽永。一场高端的和平演变。</p>
-<p>时评家李承鹏跟帖说：其实人人都装，可是他装的是好，而不是坏。</p>
-<p>2011年的温州动车事故，官方疑似有掩埋失事车头的举动，舆论哗然。美国大使馆的微博没有对此直接评论，而是发布了美国事故调查的正常程序：查扣物证和保护事故残骸是美国事故调查重要一环。在美国，一旦发生严重运输事故，为确定原因，除听取目击证人证词外，极其重要的一项工作是对涉及事故的交通工具和其他物证进行核查。</p>
-<p>在几起重大的校车事故后，使领馆的官博在向死难儿童默哀的同时，还不失时机地介绍了美国校车管理的情况。大使馆微博发布：美国联邦政府对校车有严格的安全标准。校车大小和巴士相当，但是安全性绝对一流。每辆价格在6万5千到12万美元之间。全国公立中小学校车运营费用每年215亿美元。由此可见，一件为社会所认同、造福于全体公民的社会公共品，通常都是非常昂贵的。</p>
-<p>美国人的这番话让不少网友唏嘘不已。但也有人质疑“美帝”的用意。网友“秋意炎炎的世界”在回帖中评论：美国驻华大使馆是以美国为首的西方反华势力在我京城的大本营，为什么中国政府不取缔这个反华组织呢？</p>
-<p><strong>（作者注：这个“反华组织”的官方微博在2016年5月5日被短暂取缔了近3个小时）</strong></p>
-<p>美国大使馆2011年开始独立公布北京局部区域pm2.5指数，让中国的环境保护部门尴尬难言，网友们调侃这是美帝利用环保问题“反华”。</p>
-<p>2012年5月14日，上海总领馆在微博上发布通告，该馆也将发布pm2.5指数。不过，也许是为了避免让人觉得是“别有用心”，这次美领馆很低调，通告很反常，不但没有中文版本，还特别指出该数据的目的只是为美国人社区提供健康参考，相关数据不会通过微博，而是通过推特发布。</p>
-<p><strong>【卖萌抵制封杀，有趣抗议无趣】</strong></p>
-<p>美国使团官方微博在遭遇删帖时的表现，一度引起网友的热烈围观。</p>
-<p>2012年5月初美国大使馆官博的几条博文被删，而上海美领馆发布相关的资讯也被清理得干干净净。</p>
-<p>香港美领馆决定出来“走两步”。</p>
-<p>与正统谨慎的大使馆官博相比，在723动车事故这天开通的香港美领馆微博，堪称“混不吝”，经常与删帖的微博小秘书对抗，它与网友的互动也是最多的，互动的风格，大概一个词儿就能概括：卖萌。</p>
-<p>香港美领馆接力在微博上传播了“敏感信息”，不过链接很快变成了“抱歉，此微博不适宜对外公开。”</p>
-<p>官博开始撒娇了：真是“一转没”﹗  折腾半天才上一张，您点一下就没了﹐Not fair!</p>
-<p>香港美领馆的微博维护人员开始和网友们围绕这条“阵亡”的微博互相吐槽。</p>
-<p>一个叫“香港廉政公署”的ID说:请问领事先生，你们的博文很多都是这样的，你们的删除是出于自愿还是迫于新浪的压力？</p>
-<p>官博回复：哪壶不开您偏提哪壶！本博吃饱了撑的自己搧自己？谁刪您问谁去！另外，本博雅号“一转没”！</p>
-<p>一个叫萱晓璇的ID跟帖:我太喜欢看你说话了。BTW，你是一个人还是几个？</p>
-<p>官博回复：一小撮！</p>
-<p>一位叫“西安路易”的网友评论:被小秘书血洗过的萌领馆微博，一片凄凄惨惨戚戚。</p>
-<p>这个“萌领馆”在微博上最爱干的事儿就是跟各色网友扯蛋。</p>
-<p>潘石屹在微博上感慨 ：微博写还是不写？我在纠结中。写家里事，张欣不让写。写公司的事，粉丝不让写，说是广告。写国家事，领导</p>
-<p>不让写，说影响和谐。我只能写：“我小时候……”</p>
-<p>萌领馆逮到机会卖弄了：不能写你们国家的事，那就写我们国家的事。谁急咱起诉他。</p>
-<p>这番言论引起了网友的热烈讨论。大概自觉欠妥，它又找补了一句：虾米了！给人家惹祸了！罪过呀。对不起！</p>
-<p>网友“飞机的鸡腿”义正词严声讨：卖萌可耻！以后卖一次萌，给中国人民一张绿卡。</p>
-<p>新浪名博“作业本”因为青岛植树一事写了几封异议信。萌领馆按捺不住开评：多好的市民！多棒的一封信！忍不住要赞一个。如果因为“领事馆一介入，这个围脖恐怕很快要。。。”这里先陪个不是！</p>
-<p>韩寒最近的一篇文章《太平洋的风》在网路上疯传，先是本地的上海美领馆微博力荐：你们都看过了吧？</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E9%A3%8E.jpg" rel="attachment wp-att-436971"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E7%9A%84%E9%A3%8E.jpg?resize=550%2C281" alt="太平洋的风" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/太平洋的风.jpg?resize=300%2C153 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/太平洋的风.jpg?w=556 556w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>香港美领馆的萌主远程声援：手又痒了！看到一篇文章，特別想顶一顶！怎么办呢？网友们鉴于它“一转没”的前科，纷纷建言它低调。</p>
-<p>不过，萌领馆还是没忍住：对不住了，韩寒！烈士了！</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9F%A9%E5%AF%92%E7%83%88%E5%A3%AB.jpg" rel="attachment wp-att-436970"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9F%A9%E5%AF%92%E7%83%88%E5%A3%AB.jpg?resize=550%2C371" alt="韩寒烈士" data-recalc-dims="1"></a></p>
-<p>这篇文章意外存活了下来。它得意忘形：《太平洋的风》还在呢，这下“一转没”的恶名算是洗干净喽，叫什么来着：满血复原！</p>
-<p>网友“余料”怪它用词不当：是满血复活。学着点儿。</p>
-<p>萌领馆回复：Full blood re-live!  学了！ 谢！</p>
-<p>2012年初，温总理在多哈记者会提到阿联酋副总统把他进咖啡店与当地民众交谈的事儿发表在推特上。他说“不信，你们上推特看看。”</p>
-<p><strong> 内地无法直接登录推特的网友们热情把玩着这条花絮。香港美领馆再次忘了自己外交使团的身份，坏坏地在微博上来了一句：温总理有推特账号嘛﹖很想follow! </strong></p>
-<p>它卖萌卖得最离谱的是拿领事事务打岔。网友咨询：请问我在香港办的美国旅游visa可以从上海出境吗？香港美领馆居然这样回答：哪都行﹐从月球出境也行。唉！收到好多类似的问题，得！下回就板脸说：请上网查。烦着呢！</p>
-<p>广州美领馆的新浪官博要比香港的同门正经得多，大部分的微博是在介绍领事事务，以及发布每周该馆举行的免费美国文化讲座。不过，偶现几段冷幽默也很惊艳。</p>
-<p>该官博在2011年推荐网友粉“纽约旅游局中国代表处”的官博，软文是这么写的：想去看“占领华尔街”的热闹吗？…那里有全美最著名的步行街、唐人街…</p>
-<p>网友“恶魔岛的纪念”评论说，美国拿示威当旅游买点，这样的气度我们xx有嘛？</p>
-<p>香港美领馆曾在微博上提了个问题：中国的史蒂夫乔布斯是谁？ 广州美领馆的吐槽让围观的中国网友哭笑不得：如果中国将来能逐步减少山寨手机、山寨电器……，中国会有真正的史蒂夫-乔布斯。</p>
-<p>北京赢得CBA总冠军后，大使馆的官博写道：祝贺马布里和北京金隅队！广州总领馆打理微博的工作人员看来是个球迷，该官博“反击”了北京总部的言论：广东下年必卷土重来！</p>
-<p>美国大使馆新浪官博一共关注了180个账号。绝大部分是美国使团的微博群，其它国际机构，中外媒体等。在关注的个人账号中，网络“公知”占的比例不小，如王克勤，五岳散人，赵楚，安替，王小山，笑蜀等，此外，司马南，孔庆东等也是大使馆微博关注的对象。</p>
-<p>美国使团不少外交官都是中文的微博的认证用户，比如大使馆新闻发言人包日强，美国驻沈阳领事馆的副新闻文化领事吴剑等。不过，也有些外交官选择了潜水。比如成都总领馆政治经济处的领事高大伟 （David Cowhig）先生，他在2010年就注册了新浪微博，但一直没有申请认证。他在新浪微博和推特上的个人简介是：住在成都的美国人。我个人意见与偏好，不代表任何一个人，政权，团体或者外星人背后所控制的傀儡。</p>
-<p><strong>【 谁在玩儿洋微博？】</strong></p>
-<p>洋微博最大的群体是各国以及国际组织的官博。比如各国使领馆，联合国，欧盟及其下属组织等。体育组织NBA,NFL等也都开设了中文微博。</p>
-<p>国内的微博还致力于吸引那些国际名人开通个人账号。像体育明星马布里，纳什，林书豪等都相继开博。</p>
-<p>新浪微博也把外国政要当做“拉人头”的重点。</p>
-<p>2012年5月美国内布拉斯加州州长戴夫·海涅曼、美国奥马哈市市长吉姆·萨特尔相继开通了新浪微博。</p>
-<p>据新浪微博市场管理中心公关部刘婧怡提供的统计数据，截止当年5月份，已有14名美国政要开通新浪微博。其中，最早意识到微博影响力的美国政要是美国首位华裔市长黄锦波，他于2009年8月31日开通新浪微博，已有20495名粉丝。</p>
-<p>此外，前总统小布什的弟弟尼尔·布什、美中关系全国委员会会长欧伦斯、爱荷华州农业部部长比尔·诺西、参议员候选人WilliamTong、旧金山市市长李孟贤、美国国务院翻译陈一川等美国政要均开通了新浪微博。其中，尼尔·布什的人气最旺，迄今已拥有11.8万余名粉丝。</p>
-<p>自去年年底，国际货币基金组织总裁拉加德、欧盟轮值主席范龙佩、旧金山亚裔市长李孟贤、澳大利亚前总理陆克文等国际政要纷纷入驻新浪微博，“他们主要看中的是如何扩大自己的影响力，参与选举的政要则通过微博争取华人群体的支持。”新浪微博运营人员介绍。</p>
-<p>新浪微博里也有一个叫非认证的“奥巴马_Obama” 账号，自动同步奥巴马总统的推特信息，也吸引了2万多名粉丝。</p>
-<p>陆克文的每一条微博，都会署名“老陆”，娓娓道来，像是在跟网友写信。老陆的微博无疑是已经开通中文微博的西方政要里最具亲和力的。</p>
-<p>4月底陆克文到北京探亲（他的儿子在中国留学），他通过微博跟网友分享了他的旅途经历：我昨天已经到了北京。所以这是我第一次从中国发的微博！希望犯的错误不太多。要不然的话我在你们的国家会丢脸，丢得很厉害！</p>
-<p>老陆还通过微博，以个人身份介入了悉尼中国留学生遭遇抢劫事件的调查，他大概是外国政要通过中文微博处理外交事件的第一人。</p>
-<p>陆克文4月24日通过新浪微博发布信息：关于在悉尼中国留学生的安全的问题，我接受了微博朋友的担心。我昨天跟有关周（州）政府的警察局的局长联络，也跟有关部门表达我的担心。 我完全讨厌种族歧视。我相信保证留学生的安全是我们最根本的责任。</p>
-<p>以新浪微博为例，一些知名的国际媒体也开设了官博。例如美国全国公共广播电台NPR，路透中文网，福布斯中文网，华尔街日报中文网等。</p>
-<p>还有一些外媒记者以个人名义在新浪微博做了认证，特殊的身份让他们在微博上的发言屡屡遭遇删帖，不少人叫苦不迭。</p>
-<p>CNN的Steven是新浪微博认证用户，他的个人简介是：CNN驻北京记者——微博仅代表个人观点，如有异议请勿操劳新建反CNN网站。</p>
-<p>Steven5月初试图在新浪微博传播某敏感事件的信息，遭遇秒删。 他不得已发布了一条微博：我在娘家网站上吐槽新浪围脖遭遇，这个总行吧？</p>
-<p>所谓娘家网站，就是CNN的官网。他在报道中提到这么个信息，他的认证账号StevenCNN在新浪微博上成了敏感词——根据相关法律法规和政策，“StevenCNN”搜索结果未予显示。</p>
-<p>CNN北京记者站首席记者、北京分社社长Jaime FlorCruz也有自己的认证的微博账号——吉米CNN，不过，这个账号最近一次更新要倒推至2011年11月份了。也许是新浪微博严格的审查制度让他心灰意懒。</p>
-<p>这年5月初半岛台英文部记者陈嘉韵被当局吊销了签证，他的同事，半岛台北京分社制片人田川在新浪微博上替她鸣不平，他转发了陈的文章《别了矛盾的中国》，该文章认为她在中国采访活动没有违反中国法律，希望能回到中国采访。</p>
-<p>国内的微博也给一些没有官方的背景的外国名人加了认证。比较著名的有南非人Jeremy Goldkorn。他的新浪微博账号就是他的中文名——金玉米。金玉米是中国新媒体观察家，他开设的英文网站“单位网”非常有名，上面的内容经常被中外媒体引用。不过，目前单位网还必须借助翻墙工具才能浏览。</p>
-<p>金玉米坦言，微博严格的审查制度在控制敏感信息传播方面非常奏效。不过，在互联网时代，“如果人们对一件事件真的感兴趣，一定找到办法突破封锁的。”</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E4%B8%89%E5%A8%83%EF%BD%9C%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E6%AD%BB%E8%80%8C%E5%A4%8D%E7%94%9F%E7%9A%84%E8%83%8C%E5%90%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%8E%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">反华势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%83%E9%A5%B1%E4%BA%86%E6%B2%A1%E4%BA%8B%E5%B9%B2%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">吃饱了没事干的外国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">美国大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E9%A2%86%E9%A6%86/?category=18271" rel="tag">美领馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AA%86%E5%AE%B6%E8%BE%89%E5%90%8C%E5%BF%97/?category=18271" rel="tag">骆家辉同志</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -973,7 +891,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -983,5 +901,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

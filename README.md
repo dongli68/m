@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,147 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E5%9B%A2%E9%95%BF%E5%9B%9E%E5%BA%94%E7%BA%A2%E6%AD%8C%E4%BC%9A%E9%A3%8E%E6%B3%A2%EF%BC%9A%E7%BB%9D%E5%AF%B9%E6%B2%A1%E6%9C%89%E5%AE%A3%E4%BC%A0%E6%96%87/" target="cdt-mirror">凤凰资讯｜五十六朵花团长回应红歌会风波：绝对没有宣传文革</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/edc6b137jw1f371jqtxr7j20zk0npgun.jpg" rel="attachment wp-att-437097"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/edc6b137jw1f371jqtxr7j20zk0npgun.jpg?resize=550%2C366" alt="edc6b137jw1f371jqtxr7j20zk0npgun" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/edc6b137jw1f371jqtxr7j20zk0npgun.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/edc6b137jw1f371jqtxr7j20zk0npgun.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/edc6b137jw1f371jqtxr7j20zk0npgun.jpg?w=1024 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>（“五十六朵花”官方微博图片）</span></p>
+<p><em>作者：许晔</em></p>
+<blockquote><p>5月6日，五十六朵花文工团陈光在接受凤凰网采访时，承认了中国歌剧舞剧院的合作方就是五十六花文工团，但回避了虚构单位的问题，让记者“再观望一下，观察一下”，并否认此次晚会有任何“文革文化”倾向。</p></blockquote>
+<p>5月2日，五十六朵花文工团在人民大会堂举办了名为“在希望的田野上”大型交响演唱会。这场由少女团体演出的红歌会引起了舆论风波——在网上流传的歌单中，除了《社会主义好》《没有共产党就没有新中国》等，还有《大海航行靠舵手》这一“文革歌曲”。</p>
+<p>五十六朵花的官微称，当晚的人民大会堂“人山人海”，“来自全国各地的党政军代表和社会各界代表及主流新闻媒体近万人见证了这场红歌颂扬社会主义伟大的盛况。”之后，这条微博被删除。</p>
+<p>5月5日，政协前副主席马文瑞的女儿马晓力致信中央办公厅，称此项活动是“文革文化再现”：“他们以这种形式纪念文革发动50周年，完全不顾党的政治纪律。”“其演出内容中充斥着文革镜头，大有文革再现之感，其中竟然出现干扰党的外交路线的巨大横标作大背景。这必将影响到国内外对我国未来走势的判断，也势必对党心、民心产生极大影响和误导！”</p>
+<p>5月6日，作为承办单位的中国歌剧舞剧院在官网上发表声明，称“与我院的合作方虚构’中央宣传部社会主义核心价值观宣传教育办公室’，提供虚假材料，骗取我院信任。”</p>
+<p>同日，作为批准单位的北京市西城区文化委员会也发表声明：“演唱会举行时，申请方违规增加演出主办单位，虚构‘中央宣传部社会主义核心价值观宣传教育办公室’。对此，我们将依法依规严肃查处。”</p>
+<p>根据当天的媒体报道，此次演出是由“中央宣传部社会主义核心价值观宣教办公室”、中国国际文化交流中心、共青团中央中华未来之星全国组委会、中国歌剧舞剧院主办。</p>
+<p><strong>5月6日，五十六朵花文工团陈光在接受凤凰网采访时，承认了中国歌剧舞剧院的合作方就是五十六花文工团，但回避了虚构单位的问题，让记者“再观望一下，观察一下”，并否认此次晚会有任何“文革文化”倾向。</strong></p>
+<p><strong>中国歌剧舞剧院合作方是五十六朵花文工团</strong></p>
+<p><em><strong>凤凰网：今天中国歌剧舞剧院发了一个声明，说“中央宣传部社会主义核心价值观宣传教育办公室”是虚构的，是有这个事吗？</strong></em></p>
+<p>陈光：这个事情我们不做任何（声明回应）。这（指中国歌剧舞剧院）是关键的一个声明，那么有没有别的声明我现在不太清楚。我们就是演员，我们只是演员，对我们来说，我们做好自己的艺术，唱好自己的歌，这个对我们来说是更重要的。我们可能对别的事情，包括团办组办之间的一个事情，也不一定很明白或者很清楚。至于说这个演出的事情，我想可能还是请以最终官方说明为准吧，我们自己就不说什么了，我们只是演员。</p>
+<p><em><strong>凤凰网：这个活动是有单位找你们去表演吗？</strong></em></p>
+<p>陈光：在人民大会堂唱歌是我们自己的心愿，我们自己想在人民大会堂唱这些歌曲，然后我们跟歌剧舞剧院也达成了合作，就是我们合作共同来办理这场演唱会。</p>
+<p><em><strong>凤凰网：意思是你们自己去找中国歌剧舞剧院，然后说大家一起合作是吗？</strong></em></p>
+<p>陈光：对，是的。</p>
+<p><em><strong>凤凰网：那也就是说中国歌剧舞剧院的合作方是五十六朵花文工团？</strong></em></p>
+<p>陈光：对。（那个声明）不一定是针对我们，我们只是演员。</p>
+<p><em><strong>凤凰网：这个意思是还有第三方？</strong></em></p>
+<p>陈光：好多情况我们不太清楚，也不能回答。我们对我们来说就是唱歌，其他好多东西我们也没法回答也不太清楚，一切以官方为准。</p>
+<p><em><strong>凤凰网：“官方”指的是谁？剧院还是五十六朵花？</strong></em></p>
+<p>陈光：反正就是说你再观望一下，观察一下吧。有些东西我们不是能回答的，或者是所能回答的，再观望一下，再观望一下。反正剧院是一方嘛，对吧，然后就是说可能最终……反正我们就是说，演唱会是我们的一个愿望，其他事情我们现在也不便回答。</p>
+<p><em><strong>凤凰网：你不知道“中央宣传部社会主义核心价值观宣传教育办公室”是什么单位？</strong></em></p>
+<p>陈光：这个现在我们不能去回答。</p>
+<p><strong>“大家感觉特别正能量”</strong></p>
+<p><em><strong>凤凰网：网上有评论说你们是“文革文化”。</strong></em></p>
+<p>陈光：这个绝对没有，这里没有一首歌曲是文革期间的歌曲，没有一首。这个我觉得完全是对我们一种无独生有的一个非议。</p>
+<p><em><strong>凤凰网：也有人说你们在搞个人崇拜？</strong></em></p>
+<p>陈光：我觉得，因为我们是一个歌唱团，就是我们所唱的歌曲是我们自己发自内心的一个（想法）。</p>
+<p><em><strong>凤凰网：当晚演出当时情况怎么样？</strong></em></p>
+<p>陈光：非常好，没有任何（文革）的联想，现场有两千名大学生，反应都非常好，大家都觉得这非常正能量。现场观众的反应没有任何跟文革有关的联想，大家都觉得特别正能量的，特别主旋律的。</p>
+<p><em><strong>凤凰网：这是多大的场？</strong></em></p>
+<p>陈光：五千多，将近六千。</p>
+<p><em><strong>凤凰网：都坐满了？</strong></em></p>
+<p>陈光：对，对，对，都坐满了。</p>
+<p><em><strong>凤凰网：你们是怎么卖票的？在官网上卖票？</strong></em></p>
+<p>陈光：这个有专门的售票网站。我们当时有提到，我们是更多的把它（这场演出）看作是一个公益的行为，就是说我们邀请了很多学生、孩子们来观看。</p>
+<p><em><strong>凤凰网：“邀请”的意思是你们去发免费的邀请函？</strong></em></p>
+<p>陈光：对。</p>
+<p><em><strong>凤凰网：那你们怎么在学校发邀请函？</strong></em></p>
+<p>陈光：口口相传嘛，他们觉得挺好就愿意来。</p>
+<p><em><strong>凤凰网：但你们票价最高上千。</strong></em></p>
+<p>陈光：对，是有，但这个是咱人民大会堂的惯例，一般在大会堂演出一般都是这个价位。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E5%9B%A2%E9%95%BF%E5%9B%9E%E5%BA%94%E7%BA%A2%E6%AD%8C%E4%BC%9A%E9%A3%8E%E6%B3%A2%EF%BC%9A%E7%BB%9D%E5%AF%B9%E6%B2%A1%E6%9C%89%E5%AE%A3%E4%BC%A0%E6%96%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B%E5%BE%8B/?category=18271" rel="tag">主旋律</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/?category=18271" rel="tag">五十六朵花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%94%9F%E6%84%8F/?category=18271" rel="tag">爱国生意</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">红歌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E6%80%8E%E6%A0%B7%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AD%9D%E5%AD%90/" target="cdt-mirror">大象公会｜怎样成为一个感动中国的孝子</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m3ujaz7sj20p20dwdit.jpg" rel="attachment wp-att-437085"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m3ujaz7sj20p20dwdit.jpg?resize=550%2C305" alt="c2b02f81gw1f3m3ujaz7sj20p20dwdit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m3ujaz7sj20p20dwdit.jpg?resize=300%2C166 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m3ujaz7sj20p20dwdit.jpg?resize=768%2C426 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m3ujaz7sj20p20dwdit.jpg?w=902 902w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p><strong>《二十四孝》为什么到处都是自残和自虐？什么样的孝行才能让你脱颖而出？当今时代，如何尽孝才能感动中国？</strong></p>
+<p>文｜李思楚</p>
+<p>从 2009 年开始，“中华慈孝节”，“全国孝老爱亲道德模范”，“当代新二十四孝”不断出现，近年来一些省市也评选了本地的“十大孝子”“孝星”。中国自汉代起就“以孝治天下”，今天重提孝道，正是中华文明正在复兴的标志之一。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/37fe4712ce594dec793566aace17c4ea.jpg" rel="attachment wp-att-437084"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/37fe4712ce594dec793566aace17c4ea.jpg?resize=585%2C293" alt="37fe4712ce594dec793566aace17c4ea" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/37fe4712ce594dec793566aace17c4ea.jpg?resize=300%2C150 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/37fe4712ce594dec793566aace17c4ea.jpg?resize=768%2C384 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/37fe4712ce594dec793566aace17c4ea.jpg?resize=1024%2C512 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/37fe4712ce594dec793566aace17c4ea.jpg?w=1280 1280w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
+<p>在古代，朝廷推行孝道，可不只是随便说说的精神鼓励，往往还有配套的物质刺激。被公开旌表的孝子不仅直接受赏，还能终身免税，甚至可以被推举为“孝廉”获得官职。</p>
+<p>正因为如此，孝子要被旌表也须经过一套复杂的程序：从民间上报，到州县考察，再到中央评议。朝廷每年的旌表名额有限，清代大约只有 20 人—80 人不等，大约相当于目前评选“全国道德模范”的数量。</p>
+<p>这个数字也许可以反映出“孝子”评选竞争之激烈残酷。那么，什么样的孝行会在竞争中胜出？哪种孝子能够得到旌表，成为人生赢家呢？</p>
+<h2><span><strong>家门不幸孝子幸</strong></span></h2>
+<p> <br>
+孝心多重无法精确衡量，可以衡量的只有事迹。一般来说，家庭太幸福，就没有多少表现孝心的机会。所以，孝子通常都生在一个不幸的家庭。</p>
+<p>贫困是最基本的标准。“家贫出孝子，国乱显忠臣”，元代的《全相二十四孝诗选集》收集了从先秦到唐宋时期的典型孝子事迹，对后世影响很大。《二十四孝》中，特别说明主角家贫的多达 8 人，其他的也明显不富裕。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/9350edae66a3a68513ca71e70ba4512a.jpg" rel="attachment wp-att-437083"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/9350edae66a3a68513ca71e70ba4512a.jpg?resize=475%2C643" alt="9350edae66a3a68513ca71e70ba4512a" data-recalc-dims="1"></a></p>
+<p>如孔子的弟子子路，年少时家贫，自己采野菜充饥，却跑到百里之外背米回来给父母吃。子路的孝行受到孔子的称赞，说他“生事尽力，死事尽思”。</p>
+<p>贫困家庭生活总有诸多困难，孝子们尽起孝来自然花样百出。除了卧冰求鱼、割股疗亲的行为艺术，有些孝子不分时间场合的尽孝可能会给父母造成生活不便——晋代吴猛自幼贫寒，夏天没有蚊帐，吴猛总是赤身坐在父母床前，任蚊虫叮咬而不驱赶，身上的每一个包都是孝心。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1337908cc58dabc0a720983e8dd97d7f.jpg" rel="attachment wp-att-437082"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1337908cc58dabc0a720983e8dd97d7f.jpg?resize=550%2C348" alt="1337908cc58dabc0a720983e8dd97d7f" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1337908cc58dabc0a720983e8dd97d7f.jpg?resize=300%2C190 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1337908cc58dabc0a720983e8dd97d7f.jpg?w=708 708w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span><strong>▍二十四孝童子鉴‧吴猛，歌川国芳 / 画</strong></span></p>
+<p>问题家庭也是孝子故事的惯用背景。年幼丧父或丧母是孝子故事的常见剧情，《二十四孝》中，早年丧父或丧母者高达 13 例，其中母死父续弦者 4 例，早年父母双亡者 2 例。</p>
+<p>单亲儿童往往与父亲或母亲相依为命，更容易感动中国。东汉时九岁丧母的黄香，夏天为父亲扇凉枕席，寒冬用身体为父亲暖被子，事迹之突出，在 12 岁时被太守召见，被称为“天下无双”的孝子。</p>
+<p>孝子的故事也需要出现合适的反派，通常是邪恶的后妈，如果有同父异母的弟弟搞鬼名堂效果更好，最好亲生父亲都不主持公道，主角的形象才能达到完美。</p>
+<p>最典型的是舜。《尚书》中对他家庭的记载是：“瞽子，父顽，母嚚，象傲；克谐以孝”。《孟子》中的故事更加完整：舜的父亲，继母，同父异母的弟弟联起手来想要谋害他，从火烧到活埋，手段无所不用其极，舜不但不怪罪他们，还故意赶回家里弹琴，装作什么都没发生，家人不得不服。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5e7c5ce85f5ea5755f7c344b8de1b9c5.jpg" rel="attachment wp-att-437081"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5e7c5ce85f5ea5755f7c344b8de1b9c5.jpg?resize=475%2C659" alt="5e7c5ce85f5ea5755f7c344b8de1b9c5" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5e7c5ce85f5ea5755f7c344b8de1b9c5.jpg?resize=216%2C300 216w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5e7c5ce85f5ea5755f7c344b8de1b9c5.jpg?w=665 665w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><span><strong>▍唐土廿四孝<strong>‧大舜<strong>，歌川国芳 / 画</strong></strong></strong></span></p>
+<p>孔子的弟子闵子骞孝行也很有名，他的继母在冬天给两个亲儿子棉衣，却给他穿芦花代替棉花的假棉衣。偶然发现的父亲大怒，要赶走他的继母，闵子骞却说：“母在一子寒，母去三子单。”这个故事美中不足的地方在于，闵子骞生活的春秋时代，中国还没有棉花。</p>
+<p>所以，孝道通常会体现为对后娘忍辱负重，对兄弟们各自忍让。最后必须皆大欢喜，后母幡然悔悟，与孝子抱头痛哭，被气氛感染的读者也不禁落泪。</p>
+<h2><span><strong>谁敢比我惨</strong></span></h2>
+<p> <br>
+家贫、父母双亡或一方早亡，是普遍现象，朝廷鼓励，行孝者众。到了明清时代，孝行竞赛之激烈，舜的事迹最多只能在村里找到听众，事亲至孝要能上达天听，必须足够惨烈，能为常人所不能为。</p>
+<p>最有冲击力的是割股疗亲。可靠文献中最早割股的孝子，是隋代的陈杲仁。他重病的继母需要吃肉，可是正赶上朝廷下令禁屠，情急之下只能割自己的大腿肉给继母充饥。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/caf1545feae45a1c4bd2b7fb4e6421f1.jpg" rel="attachment wp-att-437080"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/caf1545feae45a1c4bd2b7fb4e6421f1.jpg?resize=475%2C644" alt="caf1545feae45a1c4bd2b7fb4e6421f1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/caf1545feae45a1c4bd2b7fb4e6421f1.jpg?resize=221%2C300 221w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/caf1545feae45a1c4bd2b7fb4e6421f1.jpg?w=493 493w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><span><strong>▍陈杲卿，南朝陈宗室，隋灭陈后仕隋，为煬帝屡建功勋。煬帝驾崩，遂与沈法兴扣押长官，在小朝廷中官至司徒，终于被不放心的沈法兴毒杀。史称其忠、孝、文、武、信、义、谋、辩为八绝</strong></span></p>
+<p>不过，隋朝割股疗亲只是个例。到了唐代，陈藏器的《本草拾遗》中说“人肉治羸疾”，中唐以后割股疗亲成为普遍现象，并发展到全家集体割股。如宋代严州人徐大发与姐姐徐五娘，分水陈氏三兄弟等，都是同时割股救母的孝子孝女。明代的尹周虎妻子病重，四个孩子“伸臂交缚而相为割”，其中最大的 16 岁，最小的仅 9 岁。</p>
+<p>除了同时割，还可以多次割、循环割。清代徽州休宁人汪应铭病重，以后又多次复发，长子汪灏与六子汪晨四次割臂肉、股肉。汪应铭终于不治而死，汪晨也因为多次割臂而致病，七弟汪昂又割臂为兄治疗。汪晨不久后生命垂危，八弟汪昇又截断手指试图救兄。</p>
+<p>割股有什么好处？除了博得好名声，最实在的就是免税。</p>
+<p>据《新五代史》，孝子们往往割股以规免州县赋役，户部每年发给这些孝子们的免税券不可胜计。中唐以后割股的孝子太多，成为社会问题，韩愈曾著文声讨这类行为——既然古代以孝著称的圣贤都没有割股，割股疗亲自然是错误的。唐末五代时期割股疗亲之流行，鉴于朝廷需要足够的税源，对割股者不再给予优惠政策。于是，以割股为基础衍生出一些更激烈的行为。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/83b41715618aff7693f30c1e667ce56c.jpg" rel="attachment wp-att-437079"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/83b41715618aff7693f30c1e667ce56c.jpg?resize=306%2C432" alt="83b41715618aff7693f30c1e667ce56c" data-recalc-dims="1"></a><br><span><strong>▍蔡元培曾在书中提到自己“割肉疗亲”的故事，他的三弟蔡元坚在母亲临终前也贡献了一块自己的臂肉</strong></span></p>
+<p>割股的孝子太多，要想脱颖而出只能打别的主意，比如割肝。北宋莱州孝子吕昇父亲失明，他想到肝脏可以明目，遂剖腹取肝和药给父亲吃，此后割肝者日渐增加。</p>
+<p>不过，割肝的孝子们细节不够严谨，很快就被有识之士看破。宋徽宗时兖州地方官员王诏上书说：兖州各县呈报上来许多割肝的孝子，验看伤势时发现肋部只有很小一点伤口。</p>
+<p>孝子们割股千年，直到清朝才出现逆转——股肉出自下半身，给父母吃是大不敬，所以清朝人只能改为割臂疗亲。成书于清代的《江南通志》记载了 2000 多个受到朝廷旌表的孝子，其中有过割肉（含割肝，剜眼等）疗亲行为的多达 500 个以上。</p>
+<p>除了自残，自虐也是常见孝行，最有代表性的就是卧冰求鲤。首创者是东汉末年的王祥，其继母生病，想要吃鲜鱼，可正值寒冬河流结冰，王祥只能跑到冰面上脱掉衣服，用体温融化坚冰，没想到冰层真的裂开，两条鲤鱼从水中跳出，原来他的孝心感动了上天。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/294c40a0f4c44342ce668cbfdbf20b3c.jpg" rel="attachment wp-att-437078"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/294c40a0f4c44342ce668cbfdbf20b3c.jpg?resize=550%2C348" alt="294c40a0f4c44342ce668cbfdbf20b3c" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/294c40a0f4c44342ce668cbfdbf20b3c.jpg?resize=300%2C190 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/294c40a0f4c44342ce668cbfdbf20b3c.jpg?resize=768%2C486 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/294c40a0f4c44342ce668cbfdbf20b3c.jpg?resize=1024%2C649 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/294c40a0f4c44342ce668cbfdbf20b3c.jpg?w=1039 1039w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span><strong>▍二十四孝童子鉴‧王祥，歌川国芳 / 画</strong></span></p>
+<p>王祥的事迹引起后人纷纷效仿，但清代学者焦循指出，其实王祥并没有“卧冰”。“卧冰求鲤”的最早记录来自《晋阳秋》：“方盛寒冰冻，母欲生鱼，祥解衣将剖冰求之，会有处冰小解，鱼出。”冬月衣服厚重，王祥解衣是为了凿冰而不是“卧冰”。可这样一个误会，启发了许多真的去“卧冰”的孝子。明朝初年，朱元璋还曾特地下诏禁止孝子们卧冰行孝，以免冻死。</p>
+<p>不愿自残、自虐的话，还可以杀子、休妻。《二十四孝》中的郭巨，把父亲留下的遗产都分给了两个兄弟，他和妻子给人打工供养母亲。两口子有了孩子，郭巨想到养孩子花费太大，会耽误对母亲行孝，就跑到野外挖坑准备把孩子活埋了。幸运的是他挖坑时得到了一坛黄金，原因当然是上天又看不下去了。</p>
+<p>对老婆下手的好处，在于父母双亡后依然能当孝子——《二十四孝》中的丁兰，幼年父母双亡，想要尽孝而不可得，只能用木头雕刻成父母的形象，像侍奉活人一样侍奉木像。有一天他的妻子用针刺木像的手指，竟然流出鲜血。木像见了丁兰，眼中垂泪，丁兰问得实情，赶紧休妻，孝名自然远播。</p>
+<h2><span><strong>奇迹和名人效应</strong></span></h2>
+<p> <br>
+如果孝心能感动上天，降下奇迹，那么，无须在自己身上动刀或拿老婆孩子开刀，孝心也能广泛传播。</p>
+<p>《二十四孝》和正史中，这类感应都非常多。例如三国时的孟宗，父母想要吃竹笋，就跑到竹林里抱着竹子哭泣，竹笋自动生长出来；晋代许孜为父母守墓三年，墓旁种植的松柏被鹿啃食，孝子对天悲叹，次日发现鹿被老虎咬死，放在被啃食的松柏下面。孝子觉得未免太对不起这头鹿，于是把鹿埋在墓侧，次日，老虎在孝子面前以头撞地而死。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2507d431882a9c259f88e914ff61993f.jpg" rel="attachment wp-att-437077"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2507d431882a9c259f88e914ff61993f.jpg?resize=475%2C617" alt="2507d431882a9c259f88e914ff61993f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2507d431882a9c259f88e914ff61993f.jpg?resize=231%2C300 231w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2507d431882a9c259f88e914ff61993f.jpg?w=697 697w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><span><strong>▍在《二十四孝》中排名第三位的孟宗，<strong>唐土廿四孝<strong>‧孟宗<strong>，歌川国芳 / 画</strong></strong></strong></strong></span></p>
+<p>当然，感动上天的难度远大于自残，穿帮的可能性也更大，比如唐代孝子郭纯丧母，每次痛哭就引来一大群乌鸦落在他身旁。朝廷派人亲自查看证明情况属实，为他旌表门闾。后来事情败露，原来郭纯每次痛哭时顺便把饼掰碎撒在地上，引得乌鸦们纷纷前来觅食。可见早在巴甫洛夫发现动物的条件反射前一千多年，聪明的中国人民已经开始利用它为自己服务了。</p>
+<p>凡事皆有例外。有时候，你既不需要生在一个倒霉的家，也无须有特别惊悚的举动，甚至不需要祥瑞，也有可能感动中国。前提是你必须有特殊的权力和地位。</p>
+<p>比如汉文帝就以“亲口为母亲试药”入选《二十四孝》，高居孝子排行榜第二名，把卖身葬父的董永、埋儿养母的郭巨远远甩在后面——第一名是无论德行、名望都远胜于他的舜帝。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7107552217b8ddb9b9ee92500584e02f.jpg" rel="attachment wp-att-437076"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7107552217b8ddb9b9ee92500584e02f.jpg?resize=475%2C653" alt="7107552217b8ddb9b9ee92500584e02f" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7107552217b8ddb9b9ee92500584e02f.jpg?resize=218%2C300 218w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7107552217b8ddb9b9ee92500584e02f.jpg?w=677 677w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><span><strong>▍唐土廿四孝<strong>‧汉文帝<strong>，歌川国芳 / 画</strong></strong></strong></span></p>
+<p>如果做不了皇帝，也可以尝试成为名臣或者名士。宋代名士黄庭坚就凭借“亲手为母亲洗刷马桶”的优秀事迹入选《二十四孝》。前述“为父亲扇枕温席”的孝子黄香虽出身贫困家庭却官至太守，他的子孙黄琼、黄琬则做到位极人臣的太尉，黄香因此被广泛宣扬。</p>
+<p>如果你暂时还不是一个大人物，最好想办法受到大人物的赏识。比如有机会接触大人物的话，要借机表现自己的孝心。</p>
+<p>东汉末年的陆绩曾有幸和四世三公的袁术同席用餐。当时只有六岁的他偷偷把两个橘子藏在怀里。拜别袁术的时候一不小心橘子滚了出来，陆绩急忙解释说：“我的母亲喜欢橘子，我想要带给她吃。”他的解释令袁术感到十分新奇，仅凭一句话就列入《二十四孝》。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bc28f2d42aa57ae76cc55a4a03b6507f.jpg" rel="attachment wp-att-437075"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bc28f2d42aa57ae76cc55a4a03b6507f.jpg?resize=475%2C656" alt="bc28f2d42aa57ae76cc55a4a03b6507f" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bc28f2d42aa57ae76cc55a4a03b6507f.jpg?resize=217%2C300 217w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bc28f2d42aa57ae76cc55a4a03b6507f.jpg?w=667 667w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><span><strong>▍不过陆绩的事迹注定了他只能在排行榜上居 23 位。<strong>唐土廿四孝<strong>‧陆绩<strong>，歌川国芳 / 画</strong></strong></strong></strong></span></p>
+<p>即使没有直接接触大人物的机会，也可以考虑住在大人物的附近，你表现出的孝心显然更容易被发现和荐举。</p>
+<p>东晋的吴坦之、隐之兄弟两人，居住在官员韩康伯母亲殷氏家附近，他们丧母时的痛哭不仅令路人落泪，也令殷氏动容。殷氏对韩康伯说：“你如果掌管选举，一定要照顾这两个孝子。”后来韩康伯果然做了吏部尚书，而吴隐之立刻被举荐和重用，官至广州刺史。</p>
+<h2><span><strong>把握时代脉搏</strong></span></h2>
+<p> <br>
+既然孝道是朝廷推广的，哪种行为算值得肯定的孝道，哪种不算，解释权自然在中央。</p>
+<p>先秦时代儒家宣扬的孝道，允许孝子反抗君主的命令。《韩非子》中，有一个鲁国人跟随国君上战场，每次都临阵脱逃，孔子询问他，他说：“我家有年老的父亲，如果我死了谁来养活他呢？”孔子认为他很孝顺，就把此人推荐给国君。韩非讽刺道：“由此观之，夫父之孝子，君之背臣也。”</p>
+<p>到了汉代，儒家意识形态经过精心改造，孝子们无法“忠孝难两全”，必须善于处理二者之间的平衡。前述卧冰求鲤的孝子王祥，就非常善于在权力之间寻找自己的立身之道——汉献帝时坚决不出仕，直到曹丕称帝才步入仕途，随着司马氏一步步对曹氏夺权，官也越做越大。</p>
+<p>不过，在紧跟司马昭的同时，他也不忘为横遭杀戮的旧主曹髦哭泣。虽然在讨伐司马昭的敌人时毫不犹豫，却能做到不向加封晋王的司马昭跪拜。激烈的权力斗争中，他始终稳坐三公的位置，并且保持了高洁的名声。</p>
+<p>与王祥形成鲜明对比的是比他年长一些的孔融。孔融幼年让梨的故事至今传颂不休，他丧父时哀悴过度需要搀扶才能站立，因此也以孝行闻名于州郡。但他言行激烈令曹操无法容忍，终于被诛杀。曹操杀孔融后给出了义正词严的解释：“有人听到祢衡转述孔融的话，说父母对子女没有恩德，这种伤天害理的不孝之徒早就应该杀掉了。”</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m3w9fisnj20hs0980ue.jpg" rel="attachment wp-att-437074"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m3w9fisnj20hs0980ue.jpg?resize=550%2C285" alt="c2b02f81gw1f3m3w9fisnj20hs0980ue" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m3w9fisnj20hs0980ue.jpg?resize=300%2C156 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m3w9fisnj20hs0980ue.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>如果孝子能够在忠于朝廷以外的其他方面，为国家做出一些贡献，比如教化邻里，感化盗贼，自然也能为自己加分。《宋书》里的孝子郭原平，为了亲手给去世的父亲营造坟墓，向专门修墓的工匠学了一手本领，居丧完毕以后又为穷苦乡亲修墓。他出售自家生产的农产品，总是主动报一个过低的价格，故意让买家感到过意不去而主动抬高买价。</p>
+<p>南齐时的孝子萧叡明，除了自己尽孝以外，还见不得他人不孝。听说有一个叫朱绪的不孝之子被母亲诅咒而死，他气愤得好几天吃不下饭。他打听到朱绪尸体的所在之处，打算砍上几刀以解心头之恨，转念一想这样做可能会玷污他的刀，于是作罢。</p>
+<p>当然，不同的皇帝，对同一种孝行的态度可能会截然不同。郭巨因为埋儿而受到称颂，但朱元璋对这种行为深恶痛绝，把杀子者决杖一百，遣戍海南。此后杀子孝亲即使不治罪，通常也不会获得朝廷奖赏。</p>
+<p>一个朝代的早晚期，对孝行的奖励也有差异。台湾学者邱仲麟研究了明清两代民间割股疗亲的现象，指出：明初与清初对割股疗亲的孝子一般不予旌表，或通过特恩的方式奖励极少数人。但明代嘉靖以后，清代道光以后，就对割股疗亲的孝子大量旌表。也许一个王朝走下坡路的时候，会更需要孝子们来维护纲纪。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m42rxke0j20jy0fv7am.jpg" rel="attachment wp-att-437073"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m42rxke0j20jy0fv7am.jpg?resize=550%2C437" alt="c2b02f81gw1f3m42rxke0j20jy0fv7am" data-recalc-dims="1"></a><br><span><strong>▍邱仲麟《不孝之孝——隋唐以来割股疗亲现象的社会史考察》，台北：《新史学》第六卷第一期</strong></span></p>
+<p>皇帝胃口各有不同，但专制王朝推行以孝治天下的态度不变。重视孝道的传统到了 1949 年后才被扭转。建国之初由于重视阶级斗争，亲不亲，阶级分，所以鼓励各种年轻人与家庭划清界限：做地主阶级的孝子贤孙是不行的，大义灭亲则更加可取。</p>
+<p>近些年来，随着中华民族复兴日期临近，以及国家改口强调养老还是要靠自己，孝道逐渐升温。</p>
+<p>在当代，值得提倡的孝行有哪些？一些流行于古代的孝道已经过时——文化程度的提高与科学的普及让人们不再相信祥瑞，医疗水平的进步使捐肾代替了割股。但有些传统的孝子元素，如贫寒出身、问题家庭等依然吃香。</p>
+<p>当然，最大的孝是孝顺国家。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m42l2b4ij20x40dmwid.jpg" rel="attachment wp-att-437072"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m42l2b4ij20x40dmwid.jpg?resize=585%2C240" alt="c2b02f81gw1f3m42l2b4ij20x40dmwid" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m42l2b4ij20x40dmwid.jpg?resize=300%2C123 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m42l2b4ij20x40dmwid.jpg?resize=768%2C316 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m42l2b4ij20x40dmwid.jpg?resize=1024%2C421 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c2b02f81gw1f3m42l2b4ij20x40dmwid.jpg?w=1192 1192w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A%EF%BD%9C%E6%80%8E%E6%A0%B7%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AD%9D%E5%AD%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%AD%9D/?category=18271" rel="tag">二十四孝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%81%93/?category=18271" rel="tag">孝道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%AE%A3%E4%BC%A0%E9%83%A8%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E5%AE%A3/" target="cdt-mirror">【真理部】中共中央宣传部社会主义核心价值观宣传教育办公室</a>
 </h2>
 <p><p>所有媒体迅速查删与［中共中央宣传部社会主义核心价值观宣传教育办公室］<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A7%E5%BA%A6-%E5%9C%A8%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%90%9E%E7%BA%A2%E6%AD%8C%E4%BC%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E9%AA%97%E5%95%A6/" target="_blank">相关的内容</a>。</p>
@@ -74,7 +212,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/56%E6%9C%B5%E8%8A%
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/56%E6%9C%B5%E8%8A%B1%E5%B0%91%E5%A5%B3%E7%BB%84%E5%90%88/?category=18271" rel="tag">56朵花少女组合</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/?category=18271" rel="tag">五十六朵花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%B1%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">唱红歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A/?category=18271" rel="tag">在希望的田野上</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A4%A9%E5%9B%A2/?category=18271" rel="tag">社会主义天团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">红歌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB%E6%8E%A2%E8%AE%BF%E5%8C%97%E4%BA%AC%E6%AD%A6%E8%AD%A6%E4%BA%8C%E9%99%A2-%E6%82%A3%E8%80%85%E5%93%AD%E8%AF%89%E5%B0%B1%E8%AF%8A%E7%BB%8F/" target="cdt-mirror">【CDTV】新浪新闻探访北京武警二院 患者哭诉就诊经历</a>
 </h2>
@@ -649,91 +787,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E5%89%8D%E5%94%B1%E7%BA%A2%E6%AD%8C%E4%BC%9A%E5%86%8D%E7%BA%A6%E7%9A%84%EF%BC%8C%E5%88%AB%E5%BF%98/" target="cdt-mirror">【立此存照】联合国总部前唱红歌会再约的，别忘了捧场哟</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E5%9B%BD2.jpg" rel="attachment wp-att-436871"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E5%9B%BD2.jpg?resize=525%2C577" alt="联合国2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国2.jpg?resize=273%2C300 273w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国2.jpg?resize=768%2C844 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国2.jpg?resize=932%2C1024 932w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国2.jpg?w=2014 2014w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B5%8E%E5%8D%97%E6%97%A5%E6%8A%A52.png" rel="attachment wp-att-436870"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B5%8E%E5%8D%97%E6%97%A5%E6%8A%A52.png?resize=525%2C841" alt="济南日报2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/济南日报2.png?resize=768%2C1231 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/济南日报2.png?resize=639%2C1024 639w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/济南日报2.png?w=1454 1454w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<blockquote><p>
-<strong><a href="http://weibo.com/jndaily" target="_blank">@济南日报</a></strong>： <a href="http://weibo.com/n/%E8%81%94%E5%90%88%E5%9B%BD" target="_blank">@联合国</a> 下次再约~<br>
-“济南日报号”千名老人游美国首发团的老人们上周六不揣冒昧，在咱联合国总部门前唱红歌，没想到一夜之间成为“网红”。老人们即兴而歌，绝没有半点冒犯的意 思。若您因为“休班，木有看到”而感到有些许小遗憾的话，请不要捉急，借今年“中美旅游年”的大好时机，“济南日报号”承诺组织千名老人游美国，我们还会再约的！下次一定工作日去，到时别忘了捧场哟</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E5%9B%BD%E5%BE%AE%E5%8D%9A.png" rel="attachment wp-att-436867"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%81%94%E5%90%88%E5%9B%BD%E5%BE%AE%E5%8D%9A.png?resize=525%2C261" alt="联合国微博" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国微博.png?resize=300%2C149 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国微博.png?resize=768%2C382 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国微博.png?resize=1024%2C509 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/联合国微博.png?w=2012 2012w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2517118120" target="_blank">@五行大山压不住你_</a>：一边是海南强拆群众被打得屁滚尿流  百度推广导致一个少年死亡  而在地球另一端有人在联合国总部前高唱社会主义好  人民地位高   尴尬癌犯了<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">  生活好讽刺</p>
-<p><a href="http://weibo.com/5866641728" target="_blank">@行走着的人2011</a>：联合国回你了，显然不怎么欢迎，咱要不组织去天安门吧<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/163tech" target="_blank">@玩科技</a>：非法聚众哈哈哈哈<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p>@常见89：不远万里秀下限，这盛世如你所愿！</p>
-<p><a href="http://weibo.com/2219903857" target="_blank">@so-what-is铪丝</a>：忠字舞一定也要跳 不要光唱歌 显得没诚意<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/shoudong1965" target="_blank">@守东言论新版</a>：我去朝鲜旅游，回国临上火车前突然有女兵冲到候车室，一字排开，啥也没说，立即开始唱，懂朝语的同事说都是歌颂正恩兄的。人家唱完后也是啥也没说。我惊愕好久才回过神来。济南大妈勾起了我的朝鲜记忆。建议<a href="http://weibo.com/n/%E6%B5%8E%E5%8D%97%E6%97%A5%E6%8A%A5?from=feed&loc=at" target="_blank">@济南日报</a> 大妈二团去白宫门前唱，那里影响更大。就是在那里高喊打倒奥巴马也不会有人禁止。</p>
-<p>@导弹打蚊芝2：咋不去天安门广场唱，看让不让你唱。还是美国好，是吧。</p>
-<p><a href="http://weibo.com/2814501190" target="_blank">@品客薯片v</a>：为了证明美帝是个言论自由的国家？原来是高级黑啊！<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p>@otono-nueve：组团送到朝鲜 享受最纯粹的社会主义</p>
-<p>@burningtomato：屁股决定脑袋，吃着公粮，退休比在职工资还高，当然唱社会主义好了。</p>
-<p>@炎黄胄裔：金三胖一家似乎享受了更多的“社会主义优越性”，人家更有资格过去高唱“社会主义好”。</p>
-<p>@贺耀辉律师：如果我能移民去享受西方的自由，我也唱。</p>
-<p>@西域的颜色：呵呵<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/49b63783gw1f3j9b8skb8j20hs0bowg8.jpg" rel="attachment wp-att-436868"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/49b63783gw1f3j9b8skb8j20hs0bowg8.jpg?resize=400%2C263" alt="49b63783gw1f3j9b8skb8j20hs0bowg8" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/49b63783gw1f3j9b8skb8j20hs0bowg8.jpg?resize=300%2C197 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/49b63783gw1f3j9b8skb8j20hs0bowg8.jpg?w=440 440w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p>@贰鸭：社会主义好你特么还去美国玩，要爱国啊，有钱不能去外国花啊。</p>
-<p>@尤鵾鹏：那是因为GCD没撅他们老坟，没拆他们老家。</p>
-<p>@行走路上听风在歌：怎么不去海口唱</p>
-<p>@空山不语1：希望这些高唱“社会主义国家人民地位高”的济南大妈早点享受到海南秀英区琼华村妇女儿童的崇高待遇</p>
-<p>@_小_奇_：这群老人太坏了，跑到联合国门口讽刺自己的祖国</p>
-<p>@山水6355：美国人能在天安门广场高唱自由民主之歌吗？</p>
-<p>@平凡的梦love0828：我想从这个方面来评价，这群大妈在联合国前唱《社会主义好》，这是她们言论自由体现，也说明美国的言论自由能够包容她们这样 的行为，相反，可以想象，如果一群美国大妈或者是什么所谓的反华势力在天安门前面唱《资本主义好》或自由民主之歌什么的，我们现在言论自由能包容这样的行 为吗？这值得深思！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%81%94%E5%90%88%E5%9B%BD%E6%80%BB%E9%83%A8%E5%89%8D%E5%94%B1%E7%BA%A2%E6%AD%8C%E4%BC%9A%E5%86%8D%E7%BA%A6%E7%9A%84%EF%BC%8C%E5%88%AB%E5%BF%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%B1%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">唱红歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E9%81%97%E9%A3%8E/?category=18271" rel="tag">文革遗风</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B2%A1%E7%9B%91%E7%9D%A3%E9%83%BD%E6%83%B3%E4%BD%9C%E6%81%B6-%E8%B0%B7%E6%AD%8C%E6%9B%BE%E4%B8%BA%E5%81%87%E8%8D%AF%E5%B9%BF%E5%91%8A%E4%BB%98%E5%A4%A9%E4%BB%B7%E7%BD%9A%E6%AC%BE/" target="cdt-mirror">美国之音｜没监督都想作恶 谷歌曾为假药广告付天价罚款</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7FD70B4D-E473-4F1B-BF58-5DC37FB8D8B2_w640_r1_s_cx0_cy3_cw0.jpg" rel="attachment wp-att-436863"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7FD70B4D-E473-4F1B-BF58-5DC37FB8D8B2_w640_r1_s_cx0_cy3_cw0.jpg?resize=575%2C323" alt="7FD70B4D-E473-4F1B-BF58-5DC37FB8D8B2_w640_r1_s_cx0_cy3_cw0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7FD70B4D-E473-4F1B-BF58-5DC37FB8D8B2_w640_r1_s_cx0_cy3_cw0.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7FD70B4D-E473-4F1B-BF58-5DC37FB8D8B2_w640_r1_s_cx0_cy3_cw0.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p><em>作者：于盟童</em></p>
-<p>华盛顿— 大学生魏则西之死在网上掀起了新一轮对百度和网络封锁的讨伐。不少网友认为正是因为网络防火墙封锁了谷歌，才导致百度“店大欺客”。然而实际上在2009年，号称“不作恶”的谷歌曾经因为违规给医药公司做广告被美国政府处以5亿美元的罚款，是历史上企业支付的最重的罚款之一。美国政府为了对谷歌调查取证，还与被逮捕的假药老板合作“钓鱼执法”，最终获得了谷歌违法的充足证据。华尔街时报报道认为，与谷歌的利润相比，5亿美元是一笔小钱，但是政府的处罚加强了谷歌的广告审查，特别是针对医疗企业的审查，减小了违法企业通过谷歌欺骗用户的可能性。</p>
-<p>2008年，谷歌广告曾因违反中国广告法被海淀工商局罚款。但是，与谷歌广告功能相同的百度“推广”却至今未被中国政府部门认定为是广告。</p>
-<p><strong>谷歌的摇钱树AdWords</strong></p>
-<p>谷歌公司从2000年开启了广告业务AdWords，此后AdWords一直是谷歌最大的收入来源。2004年8月谷歌上市，成为当年最被看好的公司之一，广告商也随之蜂拥而至。</p>
-<p>就在上市前不久，当时负责广告业务的谷歌副总裁谢莉尔·桑德伯格(Sheryl Sandberg)曾赴首都华盛顿就网络药店监管的提案向国会作证。桑德伯格称，政府直接审查会给企业带来沉重的负担，并保证谷歌已经对投广告的网上药店进行了内部审查，其严格程度已超越了已有的法律，同时谷歌还聘请了独立的第三方机构来协助审查。</p>
-<p>谷歌上市时交给美国证监会的文件中，专门附上了公司几位创始人签署的“不作恶”（Don’t be evil）公开信，其中写道：谷歌的座右铭是“不作恶”，即使我们需要为此付出一些短期的利益，我们仍然坚信从长远来看，一个能把世界变得更好的公司会给我们股东带来更大的收益。</p>
-<p><strong>“不作恶”的谷歌帮假药贩子作恶</strong></p>
-<p>“不作恶”的座右铭帮助谷歌建立了非常好的企业形象。然而，2009年曝出的“假药广告”事件让谷歌遇到了上市以来最大的公关挑战，最终在2011年以5亿美元的代价与监管机构达成和解。华尔街日报（WSJ）和连线（Wired）曾在2013年对这个事件做过详细报道。</p>
-<p>事件中的主角之一是通过网络卖假药的美国商人大卫·惠特克(David Whitaker)。2006年，因为金融欺诈等罪名数次入狱的惠特克从美国偷渡到墨西哥，做起了开网店卖假药的生意。</p>
-<p>惠特克把纯净水贴上类固醇的标签，通过谷歌AdWords打广告，以每瓶1000美元的价格从墨西哥卖给美国顾客。</p>
-<p>2008年，惠特克被交回美国。他对美国司法部供述称谷歌的客服在明知他的“药品”不符合美国法律的情况下，主动指导他避开谷歌的审查机制，在网上投放假药广告。</p>
-<p><strong>美国政府钓鱼执法，处罚谷歌5亿美元</strong></p>
-<p>为了争取减刑，惠特克以一个伪造的新身份重演了与谷歌合作卖假药的过程，帮助美国司法部为起诉谷歌取证。在调查过程中，谷歌客服主动帮助惠特克重新设计他的假药网站，暂时取消了一键结算功能，并在结算页面上加入了“申请审批”这个步骤，骗过了谷歌的审查机制。</p>
-<p>广告上线后，网站又恢复了原本的样子，列有各类减肥药、类固醇、堕胎药等美国法律规定的处方药，并且写明了药品从墨西哥寄出，购买无须正规处方。</p>
-<p>取证结束后，美国司法部门起诉了谷歌，并从谷歌公司获得了四百万份内部邮件和文件，其中显示谷歌高层明知AdWords客服的违规做法，却为了商业利益任其发展。</p>
-<p>最终谷歌在2011年以5亿美元的罚金与美国政府达成和解，牵头调查的检察官詹姆斯·科尔（James M. Cole）在公开声明中称，这是历史上政府对公司开出的最大的一笔罚款之一。</p>
-<p>此后谷歌加强了对所有广告、尤其是医疗类广告的审查。现在医药公司想与AdWords合作，必须提供美国食品药品管理局（FDA）的资质文件。根据谷歌发布的报告，2015年谷歌共计屏蔽了7.8亿条违规广告，封杀了21.4万家广告商，其中包括1250万条违规的医疗和药品广告涉及药品未获批准或者虚假误导性宣传。</p>
-<p><strong>网络公关公司经理：百度推广就像“软文”</strong></p>
-<p>想要让自己公司的网站排在搜索引擎结果前列，有两种方法：花钱找搜索引擎做广告，或是优化自己网页的搜索结果（SEO）。</p>
-<p>北京一家网络公关公司的总经理对美国之音表示，所有类似公司都会通过调整搜索引擎的结果帮助客户提高声誉。“理论上来说就是帮客户优化网站，比如加入一些搜索引擎容易识别的关键词，在百度百科上建立公司的词条之类的。”</p>
-<p>这位经理解释说，每个搜索引擎都有自己的算法，来决定搜索结果排序。“比如搜‘健身‘这个词，那肯定是百度健身贴吧和百度百科健身词条排在最前面，然后可能是在百度上做广告的健身产品，再后面是一些健身博客等等。”</p>
-<p>具体的算法非常复杂，而且经常改变。关键词清晰度、网站建立的时间长短、代码质量、更新频率、被其他网站链接的次数等等都是影响搜索排名的因素。同时，搜索引擎有时会把自己网站上的内容排在搜索结果前面，比如谷歌常把Google+社区的内容排在前面，百度则会优先考虑百度百科和百度贴吧等。</p>
-<p>但是这位经理同时说，在中国，公关公司帮助客户管理网络声誉的方法就是十分简单粗暴的“给钱删贴”，“按理说公关公司应该改善客户网站的SEO，但是实际上我们的工作就是打广告和给钱删贴。联系百度贴吧吧主、天涯这种社区网管，直接让他们删贴就好了。”</p>
-<p>她还说，百度的问题在于广告链接和普通链接的区分非常模糊，用户可能在不知情的情况下点了广告，“报纸和电视上都是内容和广告分开的，你一眼就能看出来。百度推广因为政府不把它看成是‘广告’，所以就像软文一样，用户不知不觉就上当了。”</p>
-<p>大学生魏则西被百度误导、在北京武警二院治疗癌症无效死亡的消息刚刚曝出时，有网友在百度上搜索“滑膜肉瘤”，第一条搜索结果仍是“北京武警二院肿瘤生物中心”，其中还显示“北京最好的癌症医院”等违反广告法规定的表述方式。</p>
-<p><strong>在中国，谷歌广告是广告，百度的广告不是</strong></p>
-<p>2010年，在谷歌因网络审查问题退出中国。而在两年前的2008年，海淀工商局罕见地受理了一件关于互联网推广的案子。</p>
-<p>据报道，上海宝岛服饰有限公司在谷歌网上做的广告里使用了“佐丹奴过时啦”这样的表述，海淀工商分局认为宝岛服饰和谷歌违反了广告法，要求谷歌撤下这条广告，没收广告费18.74元，罚款74.96元。</p>
-<p>而2011年，互联网虚假医疗广告公益联盟志愿者田军伟用百度搜索“微型摄像机”后，点击标题为“2012最时尚微型摄像机”的百度“推广”链接购买了一台摄像机，还购买了一支录音笔。收货后发现质量有问题，尝试联系销售网站维权未果，遂要求百度提供广告主名称和联系方式，遭到拒绝。</p>
-<p>之后，田军伟向北京工商局举报。案件被北京工商转到海淀工商处理。</p>
-<p>2012年，海淀工商公布了《关于对田军伟举报的答复》，答复中写道：“我局接到你的举报材料后，于2012年3月2日对你举报材料中所反映的北京百度网讯科技有限公司可能存在的广告违法行为进行了核查。根据核查情况，我局决定不予立案。特此告知。”</p>
-<p>工商局是如何核查的？为何不予立案？文件中均未说明。</p>
-<p>田军伟又向北京工商局申请行政复议，得到的答复是：北京工商局认为百度推广并非广告，不受广告法约束，不存在经营违法广告的前提条件。</p>
-<p>田军伟无奈，对百度提起诉讼，要求民事赔偿。2013年9月，北京第一中级法院做出判决，认定百度推广符合《广告法》关于广告的定义，属于广告。田军伟将法院的判决书转给海淀工商后，海淀工商答复称，已向国家工商总局请示，正在等待答复。“鉴于上述情况，对‘百度推广’是否适用《广告法》进行调整规范尚无定性，因此对你举报的百度可能存在的广告违法行为，我局决定不予立案。”</p>
-<p>直到今年，国家工商局仍然没有将百度“推广”定性为广告，而现在距田军伟第一次向海淀工商局举报百度“推广”已经过去了整整8年。</p>
-<p>5月2日，田军伟接受《21世纪经济报道》的采访时表示，“百度推广中有很多虚假信息，大多数医疗广告都违反《广告法》。我的心愿就是国家工商总局能将百度推广定性为广告直接监管起来，不要再出现魏则西等这样的惨剧。”</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B2%A1%E7%9B%91%E7%9D%A3%E9%83%BD%E6%83%B3%E4%BD%9C%E6%81%B6-%E8%B0%B7%E6%AD%8C%E6%9B%BE%E4%B8%BA%E5%81%87%E8%8D%AF%E5%B9%BF%E5%91%8A%E4%BB%98%E5%A4%A9%E4%BB%B7%E7%BD%9A%E6%AC%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A/?category=18271" rel="tag">虚假广告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -745,7 +798,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -755,5 +808,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

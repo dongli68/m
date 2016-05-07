@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-50%E5%B9%B4%E5%90%8E%E7%9A%84%E7%BA%A2%E4%BA%94%E6%9C%88%EF%BC%8C%E8%B0%81%E5%9C%A8%E6%AD%A4%E6%97%B6%E6%AD%8C%E5%94%B1%E6%96%87%E9%9D%A9/" target="cdt-mirror">端传媒 | 50年后的“红五月”，谁在此时歌唱“文革”？</a>
@@ -73,7 +73,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/56%E6%9C%B5%E8%8A%B1%E5%B0%91%E5%A5%B3%E7%BB%84%E5%90%88/?category=18271" rel="tag">56朵花少女组合</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%B1%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">唱红歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%A8%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%94%B0%E9%87%8E%E4%B8%8A/?category=18271" rel="tag">在希望的田野上</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%94%E6%9C%88/?category=18271" rel="tag">红五月</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">红歌</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 24分钟前</small>
+	<small> ============== 29分钟前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91-%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E7%BB%84%E5%90%88%E7%9A%84%E3%80%8A%E5%A4%A7%E6%B5%B7%E8%88%AA%E8%A1%8C%E9%9D%A0%E8%88%B5%E6%89%8B%E3%80%8B/" target="cdt-mirror">【CDTV】 “五十六朵花”组合的《大海航行靠舵手》</a>
 </h2>
@@ -211,7 +211,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/betterread/?category=18271" rel="tag">BetterRead</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">医患关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">医患矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97/?category=18271" rel="tag">医疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">医疗体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">医疗改革</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%80%9D%E4%B9%90%E4%B9%A6-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E6%8A%97%E4%BA%89%E4%B8%AD%E7%9A%84%E4%BC%A0%E7%BB%9F%E6%9C%89%E5%A4%9A%E5%B0%91%E6%84%8F%E4%B9%89%EF%BC%9F/" target="cdt-mirror">思乐书 | 赵思乐：抗争中的“传统”有多少意义？</a>
 </h2>
@@ -372,7 +372,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E5%85%AC%E4%BF%A1%E5%8A%9B/?category=18271" rel="tag">政府公信力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%8F%A3%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">海口强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%9F%E8%B0%A3/?category=18271" rel="tag">辟谣</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%EF%BC%9A%E4%B8%8A%E6%9C%89%E6%89%80%E5%A5%BD%EF%BC%8C%E4%B8%8B%E5%BF%85%E7%94%9A%E7%84%89/" target="cdt-mirror">【网络民议】五十六朵花：上有所好，下必甚焉</a>
 </h2>
@@ -973,7 +973,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -983,5 +983,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

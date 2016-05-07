@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,124 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AE%B0%E8%80%85%E5%AE%9E%E5%9C%B0%E9%87%87%E8%AE%BF%E6%B5%B7%E5%8F%A3%E6%8B%86%E8%BF%9D-%E5%8F%91%E7%8E%B0%E7%8E%B0%E5%9C%BA%E8%BF%9C%E6%AF%94%E6%89%93%E4%BA%BA%E8%A7%86%E9%A2%91%E4%B8%A5%E9%87%8D/" target="cdt-mirror">新闻当事人｜记者实地采访海口拆违 发现现场远比打人视频严重</a>
+</h2>
+<p><p>【导读】5月6日，有关海口拆迁的深度报道出炉，参与事件调查的记者吴雪峰坦言，这次海口强拆远比那段视频严重，有老太睡觉被打，有男人“看热闹”以妨害公务罪被刑拘，有大爷保护女儿和三个孙女一起被抓。村民未公开的多段视频（文内）可见，村民倒地毫无反抗，他们却是长棍电击脚踹，至少十几人围殴老弱妇孺，只有7人被处理。现在政府正追查偷拍者，全村力保“救命恩人”，当地领导一边恐吓村民不要接受采访………</p>
+<p>5月3日，海口琼华村村民没等来预警中的拆迁，却迎来一场大风大雨。大片楼房成废墟，没来得及拆的房屋里满目疮痍，婚房家具被砸，金饰不翼而飞，一米来长铁棍遗留在现场。</p>
+<p>3天前，为了阻止那支1200人的拆迁队伍，村民们用尽浑身解数：排人墙、掷石块、点烟花、跳楼、跪地求情……终究不敌千人拆迁队。</p>
+<p>一切努力，不如一段火满网络的打人视频。视频中被打的13岁初一男生，不想让伙伴知道，他觉得被打丢人。</p>
+<p>搜狐“新闻当事人”栏目调查发现，强拆之中，有妇女围观被打，有六旬老太睡觉被打；有男子“看热闹”被打，随后以妨害公务罪被刑拘；有老人护女儿和孙女被打，大人一起被抓。</p>
+<p>官方在追查视频偷拍者，而全村都在坚决保护这个“救命恩人”。</p>
+<p>《人民日报》指出，无论如何，野蛮执法、暴力执法，都不该发生。过去几天，海口市秀英区官方致歉，7名联防队员被处理，区长引咎辞职……但村民担心，房子白拆、打水漂了吗？</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-2.jpg" rel="attachment wp-att-437197"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-2.jpg?resize=500%2C623" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-2.jpg?resize=241%2C300 241w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-2.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p>5月3日，海口琼华村被没预期的后续强拆，狂风骤雨后，这里像是地震灾难现场。吴雪峰摄</p></div>
+<p><strong>跪地求情与跳楼相逼</strong></p>
+<p>4月29日清晨五点，天还没亮，44岁的谭高岳就被外面的轰隆声吵醒。1200多名拆迁执法人员和30台炮机正在集结，拆迁大军从几个方向围住琼华村。</p>
+<p>文质彬彬的秀英区区长黄鸿儒亲自坐镇指挥——这是海口市秀英区今年最大的拆违行动，计划在“两天内拆除104宗非法占地违建”。</p>
+<p>早在4月初，各种拆除违建通知单便已贴遍村中民宅。国土、城管部门相继指出村民违建，违反土地管理法和城乡规划法，要求村民自行处置违建，恢复原貌。部分通知要求7日内，部分要求5月2日前。</p>
+<p>随后降临的是停水断电和全副武装的深色制服人员。恐慌情绪在村里迅速蔓延，直到4月29日清晨那一幕——在上千名拆迁人员和数十台炮机面前，几个小孩拿着“求求您高抬贵手”的牌子，跪在最前面；老人紧跪其后，哭嚎一片；还有老妇匍匐在地，向拆迁人员逐个下跪。</p>
+<p>然而这没能阻止拆迁的进行。46岁的残疾人陈有朝跪了20多分钟，有人抬他起来，让他找领导。但走出人堆，没找到领导，自家房子被拆了。湖北人老程耗资近200万，盖的两栋共1300平楼房，也被推平。</p>
+<p>4月30日清晨，在更大规模的跪地求情之外，村民也开始武力反抗——几个男人占领房屋最高点，地面是冲锋队，抱着孩子的妇女也挤进来。有人手持长棍，有人随地捡起石块。</p>
+<p>百米之外，是黑压压的拆迁队。当他们想要靠近时，村民齐扔石块。部分拆迁队身着制服的人也操起石块反砸过去。</p>
+<p>随后，拆迁队开始用高压水枪扫射，眼看制高点的男人守不住阵地了，又有村民提来一个煤气罐，在几十米外打开火——但没人敢真把它引爆。</p>
+<p>村子另一头，有人直接爬上顶楼，以跳楼相逼。交锋终于暂停——村外提前备好的120和消防车也马上就位，在楼下铺起救生气垫。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6403.jpg" rel="attachment wp-att-437195"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6403.jpg?resize=550%2C396" alt="6403" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6403.jpg?resize=300%2C216 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6403.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>海口琼华村强拆当天，老人小孩向拆迁队下跪求情。村民视频截图</p></div>
+<p><strong>“不拆你家，怎么拆别人”</strong></p>
+<p>谭高岳本以为自己能幸免——身为本地人，祖祖辈辈生活在这。去年女儿要成年了，不能再挤爷爷20多年前的老房子。他便拾掇好父辈80年代留下的荒地，一个来月的功夫，就盖好了二层小楼。花费22万，没钱再装修了。今年4月，他突然收到违建通知。</p>
+<p>十天前刚被评为“海口好人”的谭高岳，不得不搬出这道护身符，向区长求情：“市委书记也说了，对海口好人生活有困难的要给与帮助。”黄区长反问：“不拆你家，怎么拆别人？”</p>
+<p>不愿离开房屋的谭母，在哭喊中被城管强行往外拖拽。挖掘机、炮机随即启动。一位领导劝谭高岳：你是好人，确实是好人，但房子确实是违建——你作为好人，更应该支持政府的工作啊。</p>
+<p>未被拆除的部分民宅也未能幸免。小婷的哥哥年后刚结婚，婚房的桌椅床柜都被砸了，柜子和抽屉都被拉出来，“八千现金，一到两万的金饰，还有手机……都被拿走了。”另一户人家紧闭的房门上还印着一个清晰的脚印。</p>
+<p>当跪地和对峙无用时，一段视频横空出世——4月30日，几段名为“联防施暴”的视频在互联网上刷屏了。</p>
+<p>搜狐新闻当事人栏目获取的几段高清视频中，能清晰听见拆迁人员电棍的电击声和不同女人的哭喊声，还有模糊的孩童哭声。画面中至少12名身着制服的男子参与殴打。然而事后官方只处置了7人。</p>
+<p>视频中被打的男孩13岁，正在上初一。他向搜狐新闻回忆，那天12点多探出家门看热闹，刚走到墙角，就被三四个身着制服者围住。他只记得自己被脚踹、棒打，持续了七八分钟，不敢反抗也不敢哭喊。</p>
+<p>剧痛之中，他还看到那些黑衣人轮番殴打手无寸铁、毫无反抗能力的妇女和老人——棍打、脚踹，电棍反复击打面部，用短棍击打头部。在女人们绝望的嘶喊中，一米多长的棍棒一次次砸了下来。</p>
+<p>事后回忆这段经历，母亲直喊“畜生”，13岁男孩却很平静，他不想让小伙伴知道——被打丢人。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6405.jpg" rel="attachment wp-att-437192"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6405.jpg?resize=400%2C499" alt="6405" data-recalc-dims="1"></a><p>琼华村一男子在强拆中被抓，亲属说其围观强拆玩手机，后以妨害公务罪被刑拘。吴雪峰摄</p></div>
+<p><strong>村民：老太睡觉被打 男子看热闹被刑拘</strong></p>
+<p>搜狐新闻当事人栏目在琼华村走访了30多位村民，多名村民表示被打，也有亲属朋友被抓。</p>
+<p>拆迁地范围外，小婷的母亲碰到“视频中的黑衣人”，“二话不说就打了七八棍。”她摔倒在地，哭着求别打人，他们又打了几棍，等她躺在地上不动他们才走。事后看到母亲身上的淤青，阿婷“恨不得杀了那些人”。</p>
+<p>66岁的李博爱（音）记得，当天她在家睡觉，那些人不知怎么闯进来，什么都不说就打，“哭喊之中打了4分钟”。三天以后，臀部大腿两侧大片的淤青已发紫。</p>
+<p>比打人更恐怖的，是抓人。</p>
+<p>4月30日拆迁全面进行时，在这打了20多年工的黄青夫妇，护着12岁的儿子躲在二楼不敢出来。</p>
+<p>12岁的孩子亲眼看到，站在楼下的舅舅葛河成背部被打了两三棍，木棍都断了，然后被拉上车。当晚黄青去公安局问，对方说正在调查，次日她拿到了海口市秀英分局的拘留通知书——“将涉嫌妨害公务罪的葛河成刑事拘留，羁押于海口市第一看守所。”</p>
+<p>而50岁的薛美英（音）至今都不知道，丈夫和女儿为何会被抓走。混乱发生时，50岁的陈壮强正在照看三个孙女，最大的7岁，最小的才4个月。女儿躲门缝看到执法人员走过来了，赶紧冲回去抱孩子。制服男冲进屋打抱着孩子的大人，随后连同三个小孩一起带走。</p>
+<p>薛美英偷偷摸上强拆点外集结的120的车，求医护人员跟拆迁点驻扎的领导说情，才把三个一直哭的孩子抱了回来。</p>
+<p>4月30日拆迁结束时，执法人员燃放了一个大烟花。此后村民中流传，5月3日政府将启动下一轮拆迁。</p>
+<p>殴打老弱妇孺的视频火遍全国。网民声讨之下，5月1日，海口秀英官方致歉，7名联防队员被处理。5月2日，拆迁总指挥、秀英区长黄鸿儒引咎辞职。</p>
+<p>有接近官方调查组人士称，被拘者的违法证据已锁定，正在走程序。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6406.jpg" rel="attachment wp-att-437193"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6406.jpg?resize=550%2C408" alt="6406" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6406.jpg?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6406.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p>海口琼华村强拆后标语还在，“反对强拆还我家园”，“留我们一条生路”。吴雪峰摄</p></div>
+<p><strong>“政府做了很多事要感激”</strong></p>
+<p>村民发现，政府也在暗自追查视频偷拍者，但全村人达成“攻守同盟”，坚决不肯供出这位“救命恩人”。有村领导带队下来，挨家挨户警告村民不要接受记者采访。</p>
+<p>但村民深知，舆论这把火一灭，被拆掉的房子就没人管。区长辞职之后，一堆烂摊子没人解决，赔偿问题无人来谈。本地和外地村民反映的共同问题是，在村里建房，没听说要啥手续，从建前到建成无人说是违建，怎么现在就要强拆呢？</p>
+<p>谭高岳和村里大多数人想得一样，村里从一两千人发展到四五千人，“红线”就那么大，那总得盖房生存吧。在村里，买卖土地并不鲜见，但土地证很少见——“要么没有，要么就是村里没发下来。”</p>
+<p>从海南儋州来的残疾人陈有朝，2009年前后跟另外六户老乡凑了近25万元，找琼华本村人买了一块地，村委会同意并盖章。后来七户人家分别盖楼，各自占地面积不到80平米。</p>
+<p>2014年陈有朝的房子被贴上违建的封条，但贴条的工作人员说，“放心，走走流程，不可能拆你们的房子。”他也觉得，镇里发了宗地图，村里也有土地证明，写明地块权属，很多人建房十多年了，不会说拆就拆的。</p>
+<p>多名村民提供了深圳市勘察研究院测量绘制的宗地图，时间显示为2011年的不同月份，且无盖章。而另一村民提供的2015年琼华村委会盖章的土地权属来源证明书复印件中，则明确交代了这块地的区域、面积，并写明，土地源于“继承”，目前用来建房。</p>
+<p>证明书显示，村委会规定，本村村民、本村外来人员、本村华侨、外来人员均可申请土地，而土地来源，则包括村民与村民置换、赠与、继承、有偿购买等类型。</p>
+<p>村民称，村里多数人没有土地证，而镇里的宗地图、村里的土地证明，被视作“双保险”。接近官方调查组的人士透露，有村民集体自主找来单位测量绘制宗地图，且没有国土部门盖章认可，言下之意是，宗地图是假的，房子仍属违建。</p>
+<p>据中国青年报报道，曾有村民拿宗地图信访，接待者开始说宗地图是假的，后来又说没有存档。</p>
+<p>政府拆违的本意在村民看另有目的。有人私下透露，去年邻村强拆了30多栋，今年年初就有小飞机来航拍，马上有开发商嗅过来。很多人猜测，政府一刀切强拆是为了腾出更多的地。</p>
+<p>海口官方曾披露，2016年，落户秀英区各类建设项目共166个，其中包括省重点项目41个，市重点项目52个，区重点项目64个，为民办实事项目9个，总投资达2920亿元，年度计划投资500亿元。</p>
+<p>5月4日，搜狐新闻恰逢一行人来琼华村视察，面对媒体提问，领头的领导连连赞赏——强拆后续工作开展的很好，政府做了很多事情，要感激政府。然而，对于网友们关注的“村委会是否卖地给村民”，他答复说不知道。对于拘留了多少人、接下来是否继续拆迁等问题，他避而不答。</p>
+<p>接近官方调查组人士透露，当地纪委正在核查“村委会卖地”一事——此次拆迁是合法合规拆违，而非强拆。目前，计划内的104宗拆迁，已完成69宗，剩余的35宗暂缓。</p>
+<p>很多村民担心房子就这样白拆了，连续几天，谭高岳去镇政府过问解决方案。3日，接待他的官员只说，眼下很多工作棘手，再放一两天。4日再去，答复仍是，再等等。他唯一的诉求，是希望政府能解决他的住房问题。（记者吴雪峰）</p>
+<p>（应受访者要求，小婷系化名，部分村民匿名）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AE%B0%E8%80%85%E5%AE%9E%E5%9C%B0%E9%87%87%E8%AE%BF%E6%B5%B7%E5%8F%A3%E6%8B%86%E8%BF%9D-%E5%8F%91%E7%8E%B0%E7%8E%B0%E5%9C%BA%E8%BF%9C%E6%AF%94%E6%89%93%E4%BA%BA%E8%A7%86%E9%A2%91%E4%B8%A5%E9%87%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%86%E5%93%AA/?category=18271" rel="tag">拆哪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%8F%A3%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">海口强拆</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%B5%B7%E5%8F%A3%E5%85%AC%E5%AE%89%E8%BE%9F%E8%B0%A3%E6%B2%A1%E4%BA%BA%E4%BF%A1/" target="cdt-mirror">【立此存照】海口公安辟谣没人信</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005GgY2ggw1f3mr8086gvj30j60y4gqr.jpg" rel="attachment wp-att-437185"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005GgY2ggw1f3mr8086gvj30j60y4gqr.jpg?resize=400%2C712" alt="005GgY2ggw1f3mr8086gvj30j60y4gqr" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005GgY2ggw1f3mr8086gvj30j60y4gqr.jpg?resize=575%2C1024 575w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005GgY2ggw1f3mr8086gvj30j60y4gqr.jpg?w=690 690w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>微博图片</span></p></div>
+<p>一份网络热传的拘留书显示，2015年5月1日，海南强拆事件发生地一位名为葛河成的居民因涉嫌“妨碍公务罪”而遭刑事拘留，并被带往位于海口市琼山区新大洲大道的看守所。最初发布拘留书照片的网民称，被刑拘者为海口强拆视频拍摄者。海口公安随后发布<a href="http://www.thepaper.cn/newsDetail_forward_1466067" target="_blank">辟谣公告</a>，称“打人视频拍摄者”被拘留是谣言，并提示网民“勿信谣传谣”。</p>
+<p><strong>然而并没什么人信。</strong>有图为证。</p>
+<p><strong><a href="http://weibo.com/5044281310/DupmeEaH6" target="_blank">@澎湃新闻</a> 微博评论截图：</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A1.png" rel="attachment wp-att-437179"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A1.png?resize=550%2C2137" alt="澎湃新闻微博1" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A2.png" rel="attachment wp-att-437178"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A2.png?resize=550%2C1202" alt="澎湃新闻微博2" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A-3.png" rel="attachment wp-att-437177"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A-3.png?resize=550%2C1384" alt="澎湃新闻微博 3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻微博-3.png?resize=407%2C1024 407w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻微博-3.png?w=609 609w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p><strong><a href="http://weibo.com/1642088277/DupInxh46" target="_blank">@财经网</a> 微博评论截图：</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A.png" rel="attachment wp-att-437180"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A.png?resize=550%2C2420" alt="财经网微博" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A2.png" rel="attachment wp-att-437176"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A2.png?resize=550%2C1216" alt="财经网微博2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/财经网微博2.png?resize=463%2C1024 463w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/财经网微博2.png?w=604 604w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A3.png" rel="attachment wp-att-437175"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A3.png?resize=550%2C1792" alt="财经网微博3" data-recalc-dims="1"></a></p>
+<p>不少网民指出，海口警方辟谣说明过于含糊其辞，并未真正解答网民的问题，比如这名葛河成是谁、拘留书内容是否属实、而“妨碍公务罪”又具体指何种行为等。同时有大量网民直言，政府公信力太差使得他们无法相信官方辟谣。<strong><br></strong></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：<br></strong><br>
+@<a href="http://weibo.com/2158279392" target="_blank">二郎神再二也是神二世</a>：至今为止，没看到被打方的人出来露面、说话，只有单方面的声音，你说我是信呢还是信呢还是信呢？<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1862283351" target="_blank">@海盗王去哦</a>：这一次支持海口警方！就是，秋后算账哪有这么早的，那最多只是人家内部的初稿，等出台还有段时间呢<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<p>@Felix_陈雪锋：海口公安局真搞笑，自己给自己辟谣。</p>
+<p>@我也真是无语了：政府已经没公信力。 没人会信</p>
+<p>@浅唱Freedom：哦？你说谣言就谣言？政府说的话谁信啊。</p>
+<p>@崔小平律师：拘留通知书假的？还是通知书为真，警方认为其不是拍摄者？或者抓人原因不是拍摄行为？能说具体点吗？</p>
+<p>@phone0x：即使是谣言，也不信你们</p>
+<p>@揭秘者007008：本来不信，一辟谣我信了。。。</p>
+<p><a href="http://weibo.com/1735580567" target="_blank">@LeeChiPen</a>：糟糕了 那位英雄真的被抓了！<img title="[生病]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/sb_org.gif" alt="[生病]" data-recalc-dims="1"></p>
+<p>@徐大章量：他抓的人，又是他说的谣言，他就是公安局</p>
+<p>@U嘘嘘嘘嘘：你党说的话 我不信</p>
+<p>@莫名第一锅：谣言是遥遥领先的预言</p>
+<p>@暗夜的怒吼：能说明一下拘留通知书咋回事吗？</p>
+<p>@快乐就是OK：这个声明没说服力</p>
+<p>@敏感文字：辟谣，一般都真的，官方的话要反着听，呵呵</p>
+<p>@关山曰归：什么叫造谣，你们可以起诉，然后才能证明是造谣。知法犯法。</p>
+<p>@爱穿中山装的老男孩：呵呵。影响大都是造谣</p>
+<p>@天外飞砖客：要保证当事人、知情人发声的权利才有公信力，而不是一删了之，一辟谣了之。</p>
+<p>@rpf1012：道德泯灭，信用坍塌，这样的ZF还有什么脸执政？</p>
+<p>@海底是否也是蔚蓝：一般来说，官方辟谣等于承认</p>
+<p>@魏致静：先抓一个，然后又说你传谣，又抓一批，他们除了会抓人会打人，还会些啥？养狗都不至于这样吧。</p>
+<p>@渣打money1：那个人到底妨碍了什么公务呢？</p>
+<p>@非主流的农二代：你们的话能信吗？！！！！！！</p>
+<p>@书画诗词分享：公信力为什么没有了？为什么老百姓宁愿相信谣言也不相信政府？</p>
+<p>@木头8724：又是遥远的语言吗，那份拘留书是谁的，你们也不会解释</p>
+<p>@黃亣雲A：这个申明的本身，涉嫌造谣。</p>
+<p>@顺道之德：现在的局面是：与民争利，地方政府失去信用，讲什么都没人相信。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%B5%B7%E5%8F%A3%E5%85%AC%E5%AE%89%E8%BE%9F%E8%B0%A3%E6%B2%A1%E4%BA%BA%E4%BF%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E5%85%AC%E4%BF%A1%E5%8A%9B/?category=18271" rel="tag">政府公信力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%8F%A3%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">海口强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%9F%E8%B0%A3/?category=18271" rel="tag">辟谣</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%EF%BC%9A%E4%B8%8A%E6%9C%89%E6%89%80%E5%A5%BD%EF%BC%8C%E4%B8%8B%E5%BF%85%E7%94%9A%E7%84%89/" target="cdt-mirror">【网络民议】五十六朵花：上有所好，下必甚焉</a>
 </h2>
 <p><p>近日成为舆论焦点的“在希望的田野上”红歌音乐会主办方之一，中国歌剧舞剧院昨日<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A7%E5%BA%A6-%E5%9C%A8%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%90%9E%E7%BA%A2%E6%AD%8C%E4%BC%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E9%AA%97%E5%95%A6/" target="_blank">发表声明</a>，称合作方“提供虚假材料，骗取我院信任”。而批准该演出的西城区文化委员会则称，“申请方违规增加演出主办单位，虚构‘中央宣传部社会主义核心价值观宣传教育办公室’”。</p>
@@ -224,7 +339,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%97%8B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%AD%9D/?category=18271" rel="tag">二十四孝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%81%93/?category=18271" rel="tag">孝道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9D%E9%A1%BA%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">孝顺国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%AE%A3%E4%BC%A0%E9%83%A8%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82%E5%AE%A3/" target="cdt-mirror">【真理部】中共中央宣传部社会主义核心价值观宣传教育办公室</a>
 </h2>
@@ -734,72 +849,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%BA%E8%AF%81%E6%98%8E%E5%A7%90%E5%A7%90%E6%98%AF%E5%A7%90%E5%A7%90%EF%BC%8C%E5%A5%B9%E8%A2%AB%E6%8B%98%E7%95%9915%E5%A4%A9/" target="cdt-mirror">纽约时报｜为证明“姐姐是姐姐”，她被拘留15天</a>
-</h2>
-<p><p>北京——一部持续数月的官僚超现实主义大戏在上周终结。中国一家大型企业的退休经理、63岁的野靖环跌倒在北京一座法院的地板上，之后又和四位朋友一齐接受了15天的拘留处罚。</p>
-<p>在西城区法院一个分区发生的这些事，加深了野靖环的朋友及一些律师的一种感觉：中国的公安和司法系统出了严重的问题，尽管国家主席习近平等官员承诺要“依法治国”。</p>
-<p>事件始于一桩比较小且能轻易避免的不公行为。</p>
-<p>“去年初，她去找警察开文件，好证明她姐姐就是她姐姐，”61岁的郑威说。她是野靖环的朋友，上周事发时就陪在她身边。</p>
-<p>这种“亲属关系证明”在法律和行政案件中经常用到，需要由一个人户口所在的公安机关出具。</p>
-<p>同样已经退休的郑威和另一位朋友苏楠表示，野靖环需要有这个文件才能签署有关家里房屋拆迁的协议。苏楠是一家人权组织的成员，她说上周野靖环与法院工作人员的争执演变为肢体冲突时自己并不在场，不过她在那天晚些时候赶来帮忙。</p>
-<p>郑威称，警方拒绝给野靖环开具证明。“他们说，两个人父母一样，不一定就意味着她们是姐妹，”她说。</p>
-<p>今年3月初，受挫的野靖环和一群朋友前往北京西城区法院，就公安机关处理她的申请的方式提起诉讼。到了3月中，法院没有任何反应，尽管按照规定，法院应该在七天内回复是否立案。在3月14日，野靖环和她的朋友们前往法院询问。</p>
-<p>郑威表示，因为问了好几名工作人员都得不到答案，野靖环就在投诉引导窗口拍下一人的照片。这是她最终被指引去找的人，负责帮助人们提交诉讼文件。</p>
-<p>“我们是普通人，”郑威如此解释野靖环为什么那么做。“我们去了法院，怕他们”——那里的工作人员——“说我们没去过，所以我们得留下证据。那我们就拍了张照片。”</p>
-<p>郑威表示，被拍照行为激怒的工作人员要求野靖环删除，当她拒绝后，工作人员抢过手机，把野靖环和她72岁的朋友王秀珍扣押起来，在地下车库里关了20分钟。</p>
-<p>到了4月27日，野靖环和她的友人再次来到法院申诉工作人员没有处理她针对公安机关提起的诉讼，内容是她要求开具可以证明自己和姐姐亲属关系的证明却未得到对方的满足。</p>
-<p>作为证明，她们中有一人再次拍下法院一名工作人员接收野靖环文件的照片。工作人员又一次要求删除。郑威表示，几名官员试图带走拍照的那个人，拉扯之中野靖环跌倒在地上。她和苏楠说，工作人员以扰乱法院秩序的理由给五个人发出拘留令。其中有三人因年龄或健康原因在当天晚些时候释放。</p>
-<p>律师马连顺表示，目前只有野靖环和她50岁的朋友朱秀玲还被关在东城区看守所内。马连顺曾两次试图进去看望她们，都被拒之门外。<br>
-周二，记者多次拨打西城区法院南区的两个电话，始终无人接听。</p>
-<p>东城区看守所的一名人员在接起电话后表示，媒体采访需要联系当地的公安机关。东城区派出所又将请求转至负责媒体接待的科室。该科室无人接听电话。</p>
-<p>工作人员告诉马连顺，他不能见关在看守所里的野靖环等人，因为他的律师证上的印章模糊不清。他表示，自从事律师工作以来，他第一次听到这样的说法。</p>
-<p>“依法治国是虚伪的，”马连顺说。“面对工作人员自己发明的这些荒唐法规，我们无法自卫。老百姓上法院办事，应该能把事顺利办了才对。”</p>
-<p><em>狄雨霏(Didi Kirsten Tatlow)是《纽约时报》驻京记者。</em></p>
-<p><em>欢迎在Twitter关注狄雨霏 @dktatlow。</em><br><em> Vanessa Piao对本文有研究贡献。</em><br><em> 翻译：纽约时报中文网</em><br><em> <a href="http://www.nytimes.com/2016/05/05/world/asia/china-police-justice-systems.html" target="_blank">点击查看本文英文版。</a></em></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E4%B8%BA%E8%AF%81%E6%98%8E%E5%A7%90%E5%A7%90%E6%98%AF%E5%A7%90%E5%A7%90%EF%BC%8C%E5%A5%B9%E8%A2%AB%E6%8B%98%E7%95%9915%E5%A4%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8E%E9%9D%96%E7%8E%AF/?category=18271" rel="tag">野靖环</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E5%AD%A6%E5%8F%8D%E8%AE%BD%EF%BC%9A%E8%BF%99%E5%B1%8A%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%B8%8D/" target="cdt-mirror">【异闻观止】环球时报学反讽：“这届美国人民不行”</a>
-</h2>
-<p><p><strong>【编者注】《环时》在未署名评论文章《<a href="http://news.sina.com.cn/w/sd/2016-05-05/doc-ifxryhhi8372914.shtml" target="_blank">视特朗普“跳梁小丑”，世界都看错了</a>》中，将“这届人民不行”这个最初被网民拿来讽刺中共政府的流行语用在了反讽美国大选上。这句话最初是因为2016年3月《人民日报》一篇题为《我们都是风气“一分子”》的文章而<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C-%E5%85%9A%E5%AA%92%E5%88%A0%E5%B8%96%E5%BE%88%E8%A1%8C/" target="_blank">流行起来</a>的。由于《人日》文章通篇强调了贪污腐败之风盛行人人都有责，没有人是无辜的，因此被网民调侃为通篇都在说“这届人民不行”。@人民日报 官方微博账户随后很快将相关微博的评论从2799条删到53条只见数字不见内容的“僵尸”评论。</strong></p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C-%E5%85%9A%E5%AA%92%E5%88%A0%E5%B8%96%E5%BE%88%E8%A1%8C/" target="_blank">【网络民议】这届人民不行 </a></p></blockquote>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E6%97%B6%E5%B0%8F%E7%BC%96.jpg" rel="attachment wp-att-436887"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E6%97%B6%E5%B0%8F%E7%BC%96.jpg?resize=500%2C449" alt="环时小编" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时小编.jpg?resize=300%2C269 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时小编.jpg?resize=768%2C689 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时小编.jpg?resize=1024%2C919 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时小编.jpg?w=2010 2010w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@环球时报 肾6小编为该社抱不平</span></p></div>
-<p><em>原标题：视特朗普“跳梁小丑”，世界都看错了</em></p>
-<p>美国地产大亨唐纳德·特朗普在3日举行的共和党印第安纳州初选中大胜，他的主要竞争者克鲁兹当天被迫宣布退选。特朗普至此扫清了通往共和党总统候选人提名的道路，共和党全国委员会主席普里伯斯当晚发推文，称特朗普将是共和党“假定提名人”，并呼吁全党团结集中力量击败希拉里·克林顿。</p>
-<p>这是一个震动美国政坛和舆论、也震动了世界的时刻。美国内外的绝大部分政治观察家、媒体精英都曾认为特朗普是一个跳梁小丑，而现在，一些新的民调显示，他的支持率开始超过希拉里。今天的局面仅仅几个月以前几乎不可想象，但“大嘴”特朗普真的走到与希拉里的单挑决斗。<strong>为什么大家都看错了呢？看来只能用当前流行的网络语解释了：是“这届美国人民不行”。</strong></p>
-<p>特朗普气势如虹，尽管很多专业分析人士仍认为他将被希拉里打败，但他们说这种话时的口气不敢很绝对了，给相反可能性留出了后门。之前小瞧特朗普的预测都错了，大家都有点怕再错最后一次。</p>
-<p>如果特朗普真的走进白宫，那将意味着什么，现在成为一个严肃的课题。</p>
-<p>美国社会已经出现很大变化，这种变化被美国传统政治精英和媒体忽视了。特朗普逆着共和党建制派的压制和阻挠，也逆着美国主流舆论的嘲弄强势崛起，必将对美国传统运行机制造成相当广泛的触动。他将凝聚改革的更多期待，<strong>他这样做的权威也会更多些</strong>，使美国更容易走向诸多政策的调整。</p>
-<p>按照特朗普目前宣称的政策主张，他领导下的美国可能朝孤立主义、美国利益至上、经济优先和意识形态重要性下降的方向靠拢。具体表现为美国会为了利益与盟国计较、摩擦，北约、中东盟国、日韩等会被要求“不再免费搭车”，个别吵架不排除出现。反移民倾向将冲击拉美裔，导致美国同有些拉美国家龃龉。中日是美最大贸易顺差国，将面临比目前更大的开放市场压力。</p>
-<p>希拉里如果当选，美国将更可预测，在人们熟悉的轨道下继续运转，美国的对华政策可能更趋强硬，但有可控性。特朗普代表实用主义，希拉里代表意识形态优先，对中国来说这个区别将更为明显。希拉里对中美关系的视角很传统，特朗普的视角相当新，后者意味着变化。</p>
-<p>怎么变？特朗普有可能更蛮横，也有可能对中国的实力更尊重，中美关系将面临新的磨合，调整空间有可能比较大。</p>
-<p>不过，中美关系势比人强，美国的国内问题同样如此。特朗普如果成为总统，美国内外现实对他的制约必将发生作用，造成他被“改造”。事实上他与美国的“改造”将是相互的，他一旦入主白宫，决不能像今天这样随便。细心的人不难发现，他现在已经比他刚开始参选时说话“收多了”。</p>
-<p>特朗普如果爆了大冷门登上总统宝座，他的主动性和改造力决不像他放荡不羁表象所预示的那样多。当然了，他走到今天，可以说已经“创造了历史”，即使他最后惜败于希拉里，他给美国政治留下的烙印也不会一扫而空。</p>
-<p>美国接下来的大选格局基本确定：特朗普vs希拉里，它将是真正意义上的政治超级秀，世界对它的关注度和真实利益相关性都前所未有。一边是颠覆了美国政治正确性的实用主义商业大亨。一边是浑身上下都是美国政治正确性符号的前国务卿、前总统夫人，主流得很彻底。两人都代表了某种“第一”。</p>
-<p>应对美国的不确定性，最可靠的东西是实力。相信无论特朗普还是希拉里，他们通过不同角度最终看到的中国都是“实力中国”，而非别的什么。</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1757755497" target="_blank">@小鱼君ZXY</a>：“这届人民不行”本是网友自我调侃来暗讽官方的一句话，作为官媒不引以为耻，反而用这来评论他国，这脸皮厚的也是没谁了<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">中国媒体宣布：这届世界人民不行<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/n/Akattsuki?from=feed&loc=at" target="_blank">@Akattsuki</a>: 这届胡编智商不行//<a href="http://weibo.com/n/Lubiowater?from=feed&loc=at" target="_blank">@Lubiowater</a>: 可以 //<a href="http://weibo.com/n/%E7%AD%8B%E8%82%89%E7%BB%AD%E4%BA%BA?from=feed&loc=at" target="_blank">@筋肉续人</a>:这届人民不行这梗也敢用啊？</p>
-<p><a href="http://weibo.com/5580340573" target="_blank">@赵家军团</a>：哈哈哈，笑岔气了，这届人民不行，本来是网民调侃那头肥猪发泄不满的，环球总能独辟蹊径，用另类方式把它扩散，让全国都知道这届人民不满了，真是不怕神一样的对手，就怕猪一样的队友<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1627159662" target="_blank">@小熊饼干抢馒头</a>：自己屁股流鲜血，还帮别人医痔疮。<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/29jiajiajia" target="_blank">@鹿人嘉嘉</a>：但你知道这句反讽出自哪吗？一时间分不清贵编是真憨还是高级黑。</p>
-<p>@春哥曾哥都是我的姐：我草，环球这是要作大死啊？这流星雨都敢说？</p>
-<p>@Tim_刘天明：那边结果出来前还有点悬念，咱这多少年前就知道是谁了</p>
-<p>@守守守夜人：噗，他们理解这句流行语内涵吗，小心被咔嚓</p>
-<p>@李将军9418：环球真是，明明给你吃的屎，你还有脸说别人</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E5%AD%A6%E5%8F%8D%E8%AE%BD%EF%BC%9A%E8%BF%99%E5%B1%8A%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E5%B1%8E%E6%8A%A5/?category=18271" rel="tag">环球屎报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E8%A1%8C/?category=18271" rel="tag">这届人民不行</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -811,7 +860,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -821,5 +870,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

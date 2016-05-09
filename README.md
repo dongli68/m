@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E8%BF%99%E4%B8%80%E6%AC%A1-%E4%BB%96%E4%BB%AC%E5%9B%A0%E6%9D%80%E5%8C%BB%E8%B5%B0%E4%B8%8A%E5%B9%BF%E5%B7%9E%E8%A1%97%E5%A4%B4/" target="cdt-mirror">旧闻评论 | 这一次 他们因杀医走上广州街头</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%99%88%E4%BB%B2%E4%BC%9F5.jpg?resize=550%2C367" alt="题图，摄于7日深夜广东省医门口。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟5.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟5.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>题图，摄于7日深夜广东省医门口。</p></div>
+<p>五月七日夜里十一点半多，到了校场路英雄广场的时候，纪念人群已经散去。几个小时前，这里聚集了前来悼念省医陈仲伟的人，满地白烛、鲜花已经被清扫完毕，而且显然是用水冲过，水渍痕迹明显。几个练习滑轮的，枯燥地重复，滑过蹲在黑影中的闲人。</p>
+<p>转悠了一圈，不得门径。返回时，要路过省医门诊大楼门口，远远望见肃立的年轻人，走近了发现火烛的光影，再近些，看见多个背着战术包的警察站在外围，默视蜡烛的阵营。这里原来是另一处纪念场所，只是夜深，临近终了，悼亡的人打量着白烛与医院。</p>
+<p>七日夜悼念陈仲伟的活动，完全自发，走上街头的人群中，涵盖了各个年龄段，秩序井然，人们在公开展现丧仪所带来的尴尬与拘谨中，释放着对不幸亡故者的追念与惋惜。这是七八年来，广州市民再一次走上街头，而上一次则要追溯到四年的反日游行。</p>
+<p>08年奥运火炬的传递，广州和其他城市一样出现狂欢一样的景象，人群堵塞街道，爬上巴士，挤满桥头。09年11月，反对垃圾焚烧项目，人群在老城心脏地带的市府游行，坐地抗争。10年7月，撑粤语行动挤爆江南西地铁站。12年9月，广州街头反日游行。</p>
+<p>广州在尚存可以自夸的市民社会特征的时代，上街聚集，表达抗议，将公共意见带到公共场所，向来有着官方、媒体与市民乐见及默认的习惯。但是以09年那次作为转折点，广州的公共治理急速收窄，走上街头从市民自发演进到特批，街头的气氛就变味了。</p>
+<p>纵观这么多年广州街头的人群聚集，激荡着大小两条主线，要么是为民族，要么是为社区，要么是为全体，要么是为小众。纪念医生这次，不大也不小，没有民族或社区因素，单纯是纪念受害者，确实是让人惊讶的。医患关系的网络争议，只在广州有了线下的呼应。</p>
+<p>按理说，对于一个拥有健康价值观的人来说，如果全部参加上述四件街头活动，是难以想象的。你不能既反日，又撑粤语，就像你不能既反日又反建那样，但具体到悼念医生这次，反日的到场收敛戾气，撑粤语的点燃一支蜡烛，反烧的前来默念，倒是不意外。</p>
+<p>四年间，公共议题所驱使的人群再也没能在广州街头集合。这一方面是公共议题的衰落，导致凝聚力与号召力锐减，另一方面也显示出街头管控的力度增强，导致弱议题无法在街头借势。悼念医生这次，靠死亡成全了召唤，关键是它不会挑战街头秩序。</p>
+<p>表达伤医的痛感，不在街头活动中扮演“角色”，是这次聚集得以实现的主要原因。而在反烧、反建、反日、撑粤语等运动中，无一不是表达出强烈的角色扮演意味。是不是可以这样说，去角色化是一个趋势？如果是，十年一觉广州梦并未因为杀医纪念而苏醒。</p>
+<p>如此这般温顺的表达伤感，在街头当众切掉了抗议这条运动的“阑尾”，街头运动终于无害化了。这也使得，没人再去提及那个杀人后跳楼自杀的凶手，是一件非常合理的事情。要是有谁谈及凶手被孤独隔绝与被遗忘，他那分崩离析的世界，该会多么不合时宜。</p>
+<p>2016/5/9</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%97%A7%E9%97%BB%E8%AF%84%E8%AE%BA-%E8%BF%99%E4%B8%80%E6%AC%A1-%E4%BB%96%E4%BB%AC%E5%9B%A0%E6%9D%80%E5%8C%BB%E8%B5%B0%E4%B8%8A%E5%B9%BF%E5%B7%9E%E8%A1%97%E5%A4%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">医患关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">医患纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%8B%E5%88%B6/?category=18271" rel="tag">压制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%82%BC%E5%BF%B5/?category=18271" rel="tag">悼念</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E6%BA%83%E8%B4%A5/?category=18271" rel="tag">社会溃败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%AE%A1%E7%90%86/?category=18271" rel="tag">社会管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%BB%B2%E4%BC%9F/?category=18271" rel="tag">陈仲伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-8/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-8</a>
 </h2>
 <p><p>@被遗忘者的雪国：这届人民不行，既不能坦然面对生死，也不能明辨真伪。</p>
@@ -828,20 +850,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/56%E6%9C%B5%E8%8A%
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB%E6%8E%A2%E8%AE%BF%E5%8C%97%E4%BA%AC%E6%AD%A6%E8%AD%A6%E4%BA%8C%E9%99%A2-%E6%82%A3%E8%80%85%E5%93%AD%E8%AF%89%E5%B0%B1%E8%AF%8A%E7%BB%8F/" target="cdt-mirror">【CDTV】新浪新闻探访北京武警二院 患者哭诉就诊经历</a>
-</h2>
-<p><p>5月2日上午9点，新浪视频探访了魏则西事件中的武警二院，虽生物诊疗中心前台无人，诊疗室和细胞室都大门紧锁，但门内仍有工作人员的身影。在见到新浪后，从湖南前来治疗的魏雪清母女俩被工作人员告知该技术不管用，并退回其27260.12元。然而，仍有不少抱希望前来就医的患者。</p>
-<p><a href="https://www.youtube.com/v/oRyIW6pNV0c?version=3">https://www.youtube.com/v/oRyIW6pNV0c?version=3</a></p>
-<p><a title="新浪新闻探访北京武警二院 患者哭诉就诊经历" href="http://www.youtube.com/watch?v=oRyIW6pNV0c" target="_blank">新浪新闻探访北京武警二院 患者哭诉就诊经历</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%96%B0%E6%B5%AA%E6%96%B0%E9%97%BB%E6%8E%A2%E8%AE%BF%E5%8C%97%E4%BA%AC%E6%AD%A6%E8%AD%A6%E4%BA%8C%E9%99%A2-%E6%82%A3%E8%80%85%E5%93%AD%E8%AF%89%E5%B0%B1%E8%AF%8A%E7%BB%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97/?category=18271" rel="tag">医疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E4%BA%8C%E9%99%A2/?category=18271" rel="tag">武警二院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%8C%E7%97%87/?category=18271" rel="tag">癌症</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -853,7 +861,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -863,5 +871,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

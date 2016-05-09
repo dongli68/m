@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,76 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-8/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-8</a>
+</h2>
+<p><p>@被遗忘者的雪国：这届人民不行，既不能坦然面对生死，也不能明辨真伪。</p>
+<p>@hnjhj：人民日报真说了“遇到绝症应坦然面对生死”吗？好家伙，赤裸裸地反党啊。</p>
+<p>@gehouhun：现在的问题是一群垄断着最优医疗资源且无经济压力的人，出来教育我们面对绝症要理性……可是，在高干病房里多少应该去死的人，在那靠药物维持生命，浪费医疗资源……但是，这确实挺理性的，毕竟人活着治病不花钱，还有钱可拿……</p>
+<p>@alicedreamss：上联：高干生小病，不惜一切代价；下联：百姓患绝症，坦然面对生死；横批：一国两制。</p>
+<p>@bafield：一愤青告诉我：若帝国主义近在咫尺，没有强大的国防力量、没有原子弹、没有航母、不能发射远程核武器，国土就会有被分裂的危险；若没有党的领导、不实行社会主义制度、不是广大工农当家做主，人民就会跌入苦难的深渊。我按他的标准查了一下，这个倒霉国家叫加拿大。</p>
+<p>@HowardLuoCN：谣传：发现一个规律：但凡一九四九以前的学生运动，从五四运动到一二九，到西安事变，再到四七年反饥饿反内战，都是爱国运动。而一九四九后，所有的学生运动都是反动的，都是非爱国的，都是境外势力煽动的。我忍不住思考，为什么建国以后，学生就变坏了呢？……</p>
+<p>@xiucai1911：我搞不懂了！我和你非亲非故，素昧平身，你算哪根葱？你凭什么要求我们“始终与党中央保持高度一致”？你是人还是神？是人就不会永远是对的。你对的时候，保持一致尚可；如果你做错了，我也与你一致，我难道是弱智吗？几十年来，你做错的事，你做的坏事，还少吗？凭啥要求别人与你始终保持高度一致！</p>
+<p>@xiucai1911：转：相声《对比》谷歌：我创业15年 百度：我也创业15年 谷歌：大家用我测试能否翻墙 百度：大家用我测试能否上网<br>
+谷歌：我每天在研究量子计算机、无人驾驶、人工智能 百度：我每天在研究卖广告、卖假药、卖盒饭 谷歌：我一直在突破人类极限 百度：我一直在突破人类底线。</p>
+<p>@中国乱象：国内媒体与国外媒体的不同：连续发生假货泛滥、食物中毒等事件后西方媒体：政府应当反省，加大整治、监管力度，不能推诿责任！CCTV：公民应该加强防范意识，提高识别假货的能力，不要购买过期变质食品。</p>
+<p>@KevinZL：科技圈六大幻觉 ：1.索尼破产 2.脸书入华 3.wp崛起 4.谷歌 解禁 5.水果药丸 6.百度从良</p>
+<p>@av69bb：转帖：民国时，大部分男人拒绝剪辫子，大部分女人拒绝不缠足。这与现在的老百姓大部分拒绝关心政治一样，傻的冒烟，蠢的流油。但，他们自己，绝对认为自己非常聪明。</p>
+<p>@jerrymice：广东省医一位口腔科主任被一个患者砍了，据说原因是：26年前做的烤瓷变颜色要求索赔。妈的，世界真是疯了。连人都不能保证自己能活26年，何况要让一个烤瓷不变色！医生同学里几个牙医都坐不住了，原以为口腔科算是最安全的科室。照现在这趋势，恐怕兽医都有被砍的风险。</p>
+<p>@jerrymice：我的儿科医生同学听到广医口腔医生被砍的新闻，无不悲愤的说：26年……哪天一个三十几岁的脑瘫患者挥刀向我砍来，结果是当年我奋力抢救的早产儿的话，我不会惊讶……</p>
+<p>@HeQinglian：文革时期，我父亲医院一位同事，因在急救室值班时，一位工人造反派头头武斗受伤送来救治，送治者下命令必须救活，否则一命填还一命。因送来时失血过多，瞳孔都已经放大，无法救活。这位医生被打得筋骨寸断，严重残废——希望中国的医疗事故纠纷处理回归到专业领域。</p>
+<p>@x6A0A：一大妈在讲她当年当红卫兵时的光辉事迹：去饭店吃饭不要钱，去上海寺庙造反时和尚尼姑给她洗脚真舒服，去北京见毛主席坐火车一路不要钱…然后哼起了红卫兵的歌曲，得意洋洋地说：“这个写的真好，作者真有才，他们要敢不写好就打死他们！”——记第一次亲耳听亲眼见到红卫兵“老”将</p>
+<p>@Rabbitlili：本月，乘坐高铁从上海到北京，沿途无风景，能见度几十米，路过大城市时几乎窒息，身体健康之人尚且如此，老弱病残该如何生存？支国人回：友邦夸大其词恶意中伤居心叵测，我们不是都活得好好的？相信党和政府，中国会越来越好。受害者如此理解，体恤，袒护zf， 让人目瞪口呆。</p>
+<p>@renfanzi：我看到海关在给海淘加税，银行在给僵尸续命，有人在讲外储企稳，墙内温和通胀，今年不会降息。哈哈哈，去你马勒戈壁的，谁愿意信谁信吧。</p>
+<p>@guxiaojun53：常常遇到部分中国留学生，他们毕业了，甚至取得了硕士或博士学位，他们很多已经找到了工作，他们非常爱国，有谁批评中国政府时，他们会反感，会反驳，有时甚至会上街游行，但是他们坚决要留在美国，无论如何也不回中国，不惜作重大牺牲也要拿到美国绿卡。实在不明白这是为甚么？谁能帮忙解释一下吗？</p>
+<p>@duoremifa：有个小伙伴，老婆在家全职。他每天自驾上班，饭及零食家里安排带。一毛钱的零花钱都没有，现在还在用小米2，坏的不能接电话了，都劝他换个电话，但是他说他老婆讲，周末去修修，继续用。请同事吃饭，要电话向老婆要费用，还要和另外一个同事“核实”。</p>
+<p>@duoremifa：还有个小伙伴，老婆上班。他每天都装作很忙的样子，下班后就在公司看球赛及电影，老婆怀孕了也要早起给他准备早饭，问他怎么还不回家，他说回家烦的很。房子是他婚前财产，自己的工资自理，一毛钱不给老婆花，然而会为弟弟付20万的首付。两口人加起来一个月开销不能超过3k，否则会心痛好久。</p>
+<p>@WanCW：朋友的公司好一陣子發不出薪水（有人被欠了8個月），然後前陣子他們在公司的 IM bot 加了新功能：每日一句正能量。 #奴性有沒有這麼重。</p>
+<p>@chuandaoren：一位医生朋友：抗癌、治疗白血病和胃肠间质瘤的特效药：格列卫，印度是合法仿制国，约200元／盒，而其在中国的价格是人民币23500/盒，但该药在韩国仅售3000元/盒，澳大利亚医保患者仅仅是200元/盒，在泰国干脆免费。每一个中国人自问：23500元/盒，是救命？还是要命？</p>
+<p>@QiubaiBot：你们知道中国的地域性歧视和攻击达到什么地步了吗？今天我碰见一老外，他说：我们北京老外打心眼里瞧不起上海的老外！</p>
+<p>@LizhaoJ：“混得不好”，大概没有比这句话更能伤害一个中国人感情的评语了。</p>
+<p>@于小师：近年来获得的成功主要分为三类：登录成功、下载成功、付款成功。</p>
+<p>@Scswga：现在的小孩太可怕了！我逗上幼儿园的小侄子：找女朋友了吗？小侄子一巴掌呼我脸上：不要再提她了！</p>
+<p>@xie107：毕业多年后才发现，如今身家最高、混得最好的同学，不是学习成绩最好的，也不是社团活动最丰富的，而是当初家里最有钱的。</p>
+<p>@大咕咕咕鸡25：中国女的过了三十岁没结婚没生育没房子，大家就会觉得她完了，这是现象还是规律，问题出在哪，是人的问题还是猴的问题，关键是她自己也觉得完了，我完了！女的说，后来事实证明确实完了。</p>
+<p>猜你喜欢 周末段子荟萃 4-24 一日段子荟萃 4-13 一日段子荟萃 4-21 一日段子荟萃 4-28 一日段子荟萃 5-3</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© Anne.Henochowicz for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E9%99%88%E4%BB%B2%E4%BC%9F%E5%8C%BB%E7%94%9F%E4%B9%8B%E6%AD%BB%E7%A9%B6%E7%AB%9F%E8%B0%81%E4%B9%8B%E8%BF%87/" target="cdt-mirror">唐映红 | 心理学问答：陈仲伟医生之死究竟谁之过？</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%99%88%E4%BB%B2%E4%BC%9F.jpg?resize=480%2C314" alt="陈仲伟" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟.jpg?resize=300%2C196 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟.jpg?resize=230%2C150 230w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟.jpg?w=480 480w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"></p>
+<p><strong>问：陈仲伟医生之死究竟谁之过？</strong></p>
+<p>答：昨天晚上，广州市英雄广场，<strong>市民群众自发组织悼念广东省人民医院口腔科主任医师陈仲伟。</strong>陈医生于5月5日在家中被20几年前治疗过的病人袭击，伤重不治不幸逝世。这起事件与此前多起医生被袭击事件不同，<strong>在医疗界，乃至社会引发了极大的反响</strong>，不仅昨夜有规模不小的市民自发悼念致哀；媒体和自媒体关于此事也有了诸多的热议。甚至，包括我朋友圈里的多位医生朋友，都纷纷以<strong>黑丝带</strong>作为头像以表示他们的态度。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%99%88%E4%BB%B2%E4%BC%9F2.jpg?resize=450%2C799" alt="陈仲伟2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟2.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟2.jpg?resize=577%2C1024 577w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟2.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>据悉，袭击陈医生的前病人本身是一名<strong>精神病患者</strong>，在砍杀陈医生时完全可能处于精神病发病期。如果确系如此，这应该是一件<strong>令人痛心的小概率事件，亲人和同事为之哀悼，但也不至于引发成巨大社会反响的热点舆论事件。</strong>从常识来看，一个25年前治疗过的牙科病人，突然出现对陈医生砍杀，于情于理都难以解释。通常的医患纠纷往往发生在病患因不治身亡或者致残的结果之后，随即发生的家属或病人的袭扰。</p>
+<p>那么，陈仲伟医生之死为什么会引发这么巨大的社会反响和热议呢？每年那么多起真正意义上因为医患纠纷而导致的伤医事件，<strong>偏偏这起完全可能归咎于精神病患失控下的砍杀事件却引起了医生群体的集体愤慨和表达呢？</strong></p>
+<p>首先，<strong>陈医生之死是一个导火索</strong>，它所引发的社会反响和舆论热议远远超过事件本身所能承载的讨论。<strong>医患纠纷，医患冲突十多年来不仅未见改善，反而愈演愈烈。</strong>10年前，深圳龙岗区的山厦医院医护人员带着钢盔上班的新闻曾引起舆论热议。<strong>10年过去了，医患纠纷、医患冲突并没有减少，反而呈现出愈加严重的趋势。</strong>随着近十年来社会管理部门维稳力度的加大，许多医患冲突在萌芽状态下就被及时地化解，但<strong>医生群体的压力却并未因此有稍减。</strong>在维稳的思维逻辑下，<strong>针对医患冲突一般采取两头压，导致医患冲突的根源却未加改善，反而医生群体压力负荷下的诉求和愤懑在维稳的逻辑下不能正常地表达和主张。</strong>陈医生被前病人砍杀事件作为医生群体<strong>长期压力下的一个愤怒的宣泄口，许多医生借此将长期以来所不堪承受的怨怼和愤懑表达和宣泄出来。</strong>此其一。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%99%88%E4%BB%B2%E4%BC%9F3.jpg?resize=450%2C300" alt="（2006年，深圳龙岗区山厦医院戴着钢盔的护士。）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟3.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟3.jpg?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>（2006年，深圳龙岗区山厦医院戴着钢盔的护士。）</p></div>
+<p>其次，仅仅在一周之前，因罹患罕见滑膜肉瘤而不治身故的<strong>魏则西事件</strong>被曝光，<strong>引发了媒体和舆论强烈的聚焦和关注</strong>。魏则西事件的舆论矛头指向了百度的医疗机构竞价排名以及莆田系医院的诈骗病患“临终掠夺”。<strong>尽管莆田系医院的诈骗和掠夺病患并不能代表医疗界，但无论如何都是给医疗界抹黑，对于广大并未参与莆田系医疗诈骗和掠夺病患的医生来说多少有“躺中”的味道，并对社会上医患关系带来可以预见的消极效应。</strong>仅仅几天后，陈仲伟医生遇袭以来直至昨天的不治逝世，相对于魏则西事件铺天盖地的媒体报道和舆论热议，<strong>媒体报道寥寥，舆论也几乎未见关注</strong>。这种“冰火两重天”的悬殊“对待”令到部分医生感到愤慨，甚至<strong>认为媒体过分渲染患者的不幸，却对医生的不幸置若罔闻是导致医患冲突愈演愈烈的罪魁祸首之一。</strong>当陈仲伟医生不幸逝世后，<strong>这种被压制后反弹的情绪被激烈地表达出来，在医生群体中迅速得到普遍的共鸣。</strong>此其二。</p>
+<p>再者，由于陈医生被前病人砍杀事件并非发生在医院，而是在<strong>家里</strong>；砍杀他的病患也不是近期的病患，而是<strong>25年前的旧病患</strong>；砍杀的由头并非怀疑医疗事故致病患死亡或致残，而是<strong>补的牙齿出现瑕疵</strong>。正是因为如此微不足道的因素促使，<strong>使广大的医生群体在感同身受的同时加大了他们的不安和焦虑</strong>，类似的事件完全防不胜防呀！总不能让全国的医护人员都带着钢盔生活吧！这就使得医生群体在这件事中<strong>感受到连苟安都是难保，压抑的愤怒也就愈加地炽烈。</strong>此其三。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%99%88%E4%BB%B2%E4%BC%9F4.jpg?resize=550%2C306" alt="陈仲伟4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟4.jpg?resize=300%2C167 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟4.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>最后，其实也是最重要的一个因素是，无论是昨天陈仲伟医生的不治逝世，还是一周前曝出的癌症病患魏则西的不治身亡，<strong>从其事件性质而言都不应当具有成为舆论焦点和热点的潜力。</strong>每年，甚至每月每周都有被精神病患砍杀的无辜者；而因为“临终掠夺”而不治身亡的癌症患者可能每天都有数例。但这两件并无潜力的事件恰好成为5月以来的舆论焦点和热点事件，这更可能反映的是<strong>长期以来的社会失范乃至社会溃败在医疗领域逐渐成为掩饰不住的“溃疡”。</strong>民众对百度毫无底线的胡作非为以及莆田系肆无忌惮对病患的诈骗和掠夺已经忍无可忍，所以透过魏则西事件而宣泄出来。同样道理，医生群体对医患冲突的忍耐也突破阈限再也按捺不住。<strong>由于医疗领域关系民生安危，无论医生还是民众都休戚相关，因而具有感知显著性，所以凸显出来。</strong>在其他不那么具有感知显著性的领域，如经济、金融、教育、食品、交通、城市管理，等等，<strong>可能都或多或少反映着同样的社会失范乃至濒临溃败的种种迹象</strong>，只不过与民生安危不那么直接，所以率先在医疗领域爆发出来。换言之，<strong>无论是陈仲伟医生之死，还是魏则西病患之死，它们都是在社会濒临全面失范乃至溃败下的“恰逢其时”，碰巧遇到了这么个时间点。</strong>此其四。</p>
+<p>事实上，正如中山医院杨震医生的比喻，医患纠纷好比是“糖尿病足”，糖尿病发展到晚期，患者常常在下肢出现溃疡或者坏疽，这被称为“糖尿病足”。<strong>如果仅仅是局部治疗，脚痛医脚，根本于事无补。</strong>糖尿病是全身性疾病，而<strong>中国社会现在出现的种种医患冲突，也是整个社会机体病入沉疴的反映。</strong></p>
+<p>以此观之，<strong>医者无辜，病者无辜；甚至百度的无耻，莆田系的无良，都不是医生陈仲伟之死，病人魏则西之死以及由此所引发舆论热潮的根源。</strong><strong>那头尸位素餐的大象盘踞着房间，控制着一切，牠除了不停地掠夺，似乎丝毫也担当不起治理社会的基本职责。</strong></p>
+<p><strong>而我们甚至不能说出牠的名字</strong>。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E9%99%88%E4%BB%B2%E4%BC%9F%E5%8C%BB%E7%94%9F%E4%B9%8B%E6%AD%BB%E7%A9%B6%E7%AB%9F%E8%B0%81%E4%B9%8B%E8%BF%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">医患关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">医患纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%8B%E5%88%B6/?category=18271" rel="tag">压制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%82%BC%E5%BF%B5/?category=18271" rel="tag">悼念</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E6%BA%83%E8%B4%A5/?category=18271" rel="tag">社会溃败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%AE%A1%E7%90%86/?category=18271" rel="tag">社会管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%BB%B2%E4%BC%9F/?category=18271" rel="tag">陈仲伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%A9%AC%E6%99%93%E5%8A%9B%EF%BC%9A%E4%B8%BE%E6%8A%A5%E6%96%87%E9%9D%A9%E6%BC%94%E5%87%BA-2/" target="cdt-mirror">“红二代”马晓力：举报文革演出</a>
 </h2>
 <p><p>（全国政协前副主席马文瑞的女儿马晓力女士确认以下她对5月2日人民大会党的演出发表明确的反对意见，希望中宣部能对此行为作出澄清，也希望党员干部警惕文革余毒）</p>
@@ -775,71 +842,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%B4%A0%E8%B4%A8%E7%A4%BA%E8%8C%83%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%B7%AE%E7%94%9F%E4%B8%8D%E9%85%8D%E5%8E%BB/" target="cdt-mirror">【立此存照】“素质示范学校”的“差生”不配去博物馆</a>
-</h2>
-<p><p><strong>在北京市朝阳区白家庄小学这样一所“素质示范学校”，“差的同学”似乎没有去博物馆参观的资格？</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B7%AE%E7%9A%84%E5%AD%A6%E7%94%9F.jpg" rel="attachment wp-att-437035"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B7%AE%E7%9A%84%E5%AD%A6%E7%94%9F.jpg?resize=500%2C625" alt="差的学生" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/差的学生.jpg?resize=240%2C300 240w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/差的学生.jpg?resize=768%2C960 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/差的学生.jpg?resize=819%2C1024 819w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/差的学生.jpg?w=1808 1808w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p>@淼908876：我们学校教导我们4个尊重教育理念：尊重人人，尊重花草，尊重文化和尊重环境这四个理念，大人们也知道也证明过自己没有扔垃圾！我就问问你们那只眼睛看见我们扔了？我们招谁惹谁了？为什么叫我们熊孩子？我们一些差的同学都被留在了学校，我们要怎么做你们才能满意？ 你们就别再纠缠不清了。好吗？</p>
-<p><a href="http://weibo.com/u/1893390013" target="_blank">@国家动物博物馆员工</a>：这是刚刚学生们离开动物博物馆的现场，满地垃圾，一片狼藉。每次博物馆里只要来熊孩子，就好不了，破坏力很强，不仅扔垃圾，甚至还见到过有学生把大便排泄在小便池里。尽管进馆前我们说明了注意事项，但学校老师、家长也不教育孩子如何参观博物馆。博物馆成了游乐场，孩子进来追跑打闹，大声喧哗。我们的博物馆教育做得还差得很远。图为北京市朝阳区白家庄小学离开以后的休息区现场。</p></blockquote>
-<p>微博用户@淼908876 疑似为朝阳区白家庄小学的学生，曾在微博中发布过不少“炫富”的照片。截止发稿时，该用户已基本将自己微博账号内容清空。</p>
-<p><strong>类似于“差的同学”、“差生”的标签在中国大陆的高中小学内是司空见惯的，一般被老师或家长用来指学习成绩不理想或（和）“不听话”的学生。在这种环境中耳濡目染的未成年人，也许只是在模仿成年人的说话方式，而已。</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%8C%E4%BB%A31.jpg" rel="attachment wp-att-437034"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%8C%E4%BB%A31.jpg?resize=500%2C541" alt="二代1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/二代1.jpg?resize=277%2C300 277w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/二代1.jpg?resize=768%2C830 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/二代1.jpg?resize=947%2C1024 947w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/二代1.jpg?w=1798 1798w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
-（微博截图）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%B4%A0%E8%B4%A8%E7%A4%BA%E8%8C%83%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%B7%AE%E7%94%9F%E4%B8%8D%E9%85%8D%E5%8E%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1%E6%95%99%E8%82%B2/?category=18271" rel="tag">精英教育</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9C%89%E4%B8%80%E7%82%B9%E6%98%AF%E5%9F%BA%E6%9C%AC%E5%85%B1%E8%AF%86%EF%BC%9A%E5%87%BA%E7%8E%B0%E4%BA%A1%E5%9B%BD%E4%BF%A1%E5%8F%B7/" target="cdt-mirror">【网络民议】有一点是基本共识：出现亡国信号</a>
-</h2>
-<p><p>5月6日，共青团中央新浪微博账号发表了一则消息声称“当国家传媒均已操控在境外势力手中时，就是亡国的信号。”并附长篇评论文字，在这篇文字下，网友意见有显著分歧，成为中国式左右意见的争锋地，但从最新的评论看反对者占据上风（6日下午）。一些网友认为团中央又是发布典型的“一切都怪境外势力的阴谋论”，一些网友则为团中央欢呼认为其直指了“令人忧虑”的“事实”。</p>
-<p><a href="http://weibo.com/ttarticle/p/show?id=2309403972043480683384#_0" target="_blank">全文链接</a></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE.jpg?resize=592%2C547" alt="共青团中央" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/共青团中央.jpg?resize=300%2C277 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/共青团中央.jpg?w=592 592w" sizes="(max-width: 592px) 100vw, 592px" data-recalc-dims="1"></p>
-<p><strong>以下内容为数字时代编辑摘自该微博下的评论：</strong></p>
-<p><strong>支持意见：</strong></p>
-<p><em>@慕斯雨茶：早该注意这个问题了，问题是这些年谁在大声疾呼？中国大部分媒体都是全球主义，呵呵。中国的话语权这么差，党宣不行，这也是很大的原因所在！</em></p>
-<p><em>@浪人同学：其实说到底还是阿拉伯之春那一套，通过操纵舆论瓦解国家暴力机关的权威及政府的公信力，再煽动群众上街，这次海南事件就太明显了，再不抓人，大清吃枣药丸。</em></p>
-<p><em>@八卦盖房子斯基：查一查bat 渣浪，等主流媒体哪一家是中资背景？全部都是通过vie架构，实质都是红皮白心</em></p>
-<p><em>@Taurus-Christine：望严查造谣媒体！就是担心他们说“言论不自由”所以才被处处被动，舆论风气如此之差，说爱国都被人笑话，这难道不是最大的笑话？</em></p>
-<p><em>@任康_喽：如果没了国家媒体，外媒之下真的就是“穹顶之下”了。</em></p>
-<p><em>@早睡早起的TT小盆友：防微杜渐 一定要把境外反动势力买断的公知汉奸全部扼杀在摇篮里！</em></p>
-<p><em>@司马平邦：这是篇对未来中国传媒业非常重要的文章，团中央能发出，证明该组织的前卫性和先进性俱在。中国的主流媒体，为国家前途计，那些业已在传播场中占主导的门户网站未来在合法程序里迈向国有化，这是左派已讨论多年的话题，相信不久后坚冰会破。</em></p>
-<p><em>@蜜罐里的猫儿：查央视、新浪、腾讯  建中国话语权</em></p>
-<p><em>@蓝青骑士：团团也是耸人听闻，中国可能亡吗？</em></p>
-<p><strong>反对意见：</strong></p>
-<p>@狂躁高速飞行体：我只能说敌在中宣。</p>
-<p>@肝胆小僧：朝鲜也总拿境外势力说事。</p>
-<p>@总感觉哪儿不对：媒体不是都姓党了吗？你们还有什么不放心的？</p>
-<p>@最好的Galaxy月月：亡国和亡天下实则区别很大。</p>
-<p>@傻乎乎靖哥哥：你们共青团的小藺不是送儿子去加拿大留学吗？</p>
-<p>@梅虔：瞧这疯狂荒谬状态，这个组织真的要发展成为义和共青团了。</p>
-<p>@社会主义下的9527：高级黑吗？让领导们公布一下国籍，看看有几个没有“境外势力”护照？</p>
-<p>@用户5260381760：境外势力是个筐，所有烦恼往里装。</p>
-<p>@鱼香肉丝大米饭：稍微有点政治常识的人都知道全国的媒体都受某宣部操控，这么大的屎盆子都敢往人家头上扣，团团，你这么屌，你的领导知道吗？小心被云三大大拉去勤城捡肥皂哦~</p>
-<p>@Justin-Wxb：这届人民不行，老是跟着被境外操控的媒体转，还是亡国了好，让他们尝尝亡国的滋味。</p>
-<p>@天堂豁口：都什么年代了，还拿亡国吓唬老百姓？你去问问99%的朝鲜人，哪个不希望现行的国家赶紧亡，最次亡给韩国，要是能亡给美国，那更是喜大普奔。谁怕亡国？作威作福的毒菜统治者们。</p>
-<p>@那年秋天4213：得了吧，你们掌握媒体几十年，任意删帖，任意屏蔽，到现在你们的骗局已经很难维持下去。再这样下去，你们离灭亡已经不远了。</p>
-<p>@思维之狼：亡国这种事要辩证来看，比如夏朝灭亡，在统治者来看，是神禹建立的伟大帝国江山变色，人民陷入水深火热之中，永不超生。可是在民众眼中，这是时日曷丧，吾与汝偕亡的梦想实现之日，大快人心啊。</p>
-<p>@陈业文新大都：《人民日报》的东主是外国财阀这一天恐怕不远了？作者是如何得出这个骇人听闻结论的？</p>
-<p>@期待明天再说全球：我就想问一句,为什么国外敌对势力总是渗透到我们这里。而我们却不能渗透到敌对势力那里呢！何况我们还有防火墙。人家却是敞开大门。我们不是更好渗透？</p>
-<p>@Seckill向前：哈哈哈 这是害怕了么？</p>
-<p>@郑维：当团团向萱萱发起逆袭……</p>
-<p>@光影幻化：我是来看评论的，顺便问一下，团中央领导能不能先公布下收入和财产情况？先锋队嘛。</p>
-<p>@冰蓝黯焰：跟三胖一个理论，暴政者看谁都是敌人，没有敌人也要制造敌人。</p>
-<p>@热气青年3代：我国五千年哪个风浪没见过，倒是你国……呵呵</p>
-<p><strong>相关阅读：</strong></p>
-<p><a href="http://chinadigitaltimes.net/chinese/2016/05/%E9%98%B4%E8%B0%8B%E8%AE%BA%E4%B8%80%E5%87%BA%E7%8E%B0%EF%BC%8C%E5%B0%B1%E6%98%AF%E6%9C%89%E4%BA%BA%E4%B8%8D%E6%83%B3%E8%AE%B2%E7%90%86%E4%BA%86/" target="_blank">精读党报｜阴谋论一出现，就是有人不想讲理了</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%9C%89%E4%B8%80%E7%82%B9%E6%98%AF%E5%9F%BA%E6%9C%AC%E5%85%B1%E8%AF%86%EF%BC%9A%E5%87%BA%E7%8E%B0%E4%BA%A1%E5%9B%BD%E4%BF%A1%E5%8F%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A1%E5%9B%BD/?category=18271" rel="tag">亡国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -851,7 +853,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -861,5 +863,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

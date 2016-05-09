@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%A9%AC%E6%99%93%E5%8A%9B%EF%BC%9A%E4%B8%BE%E6%8A%A5%E6%96%87%E9%9D%A9%E6%BC%94%E5%87%BA-2/" target="cdt-mirror">“红二代”马晓力：举报文革演出</a>
@@ -345,7 +345,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/betterread/?category=18271" rel="tag">BetterRead</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">医患关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">医患矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97/?category=18271" rel="tag">医疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">医疗体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">医疗改革</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%80%9D%E4%B9%90%E4%B9%A6-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E6%8A%97%E4%BA%89%E4%B8%AD%E7%9A%84%E4%BC%A0%E7%BB%9F%E6%9C%89%E5%A4%9A%E5%B0%91%E6%84%8F%E4%B9%89%EF%BC%9F/" target="cdt-mirror">思乐书 | 赵思乐：抗争中的“传统”有多少意义？</a>
 </h2>
@@ -851,7 +851,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -861,5 +861,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

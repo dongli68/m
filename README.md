@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%B1%B1%E7%BE%8A%E6%9C%88-%E4%B8%BA%E4%BA%BA%E7%88%B6%E7%9A%84%E4%BA%BA%E5%A4%A7%E7%A1%95%E5%A3%AB-%E4%B8%BA%E4%BD%95%E4%B8%80%E5%B0%8F%E6%97%B6%E5%86%85%E7%A6%BB%E5%A5%87%E6%AD%BB%E4%BA%A1/" target="cdt-mirror">山羊月 | 为人父的人大硕士 为何一小时内离奇死亡？</a>
+</h2>
+<p><p>雷洋，湖南澧县人，从山村走出的中国人民大学环境学院本科生和硕士生。他于2012年以优异的成绩毕业，任职于中国循环经济协会，成为我国环境经济和循环经济领域的专家，曾参与了多个工业园规划，生态文明规划，污染物处理规划和循环经济规划的编制工作，在中国最著名的三个环境保护期刊《环境保护》，《环境科学》，《环境工程》上面都发表过论文，是我国环境保护事业中不可多得的青年才俊。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e0049b557abb890c532c91c0154abd46_b.png?resize=600%2C230" alt="e0049b557abb890c532c91c0154abd46_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e0049b557abb890c532c91c0154abd46_b.png?resize=300%2C115 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e0049b557abb890c532c91c0154abd46_b.png?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><b>如今，他的尸体却躺在医院冰冷的太平间。</b><b>而他的女儿，刚刚出生两周，还没足月。</b></p>
+<p>中间到底发生了什么？以下是我们所有同学在律师的指导下，根据<b>事实</b>整理的说明。</p>
+<blockquote><p><关于人民大学雷洋同学意外身亡的情况说明></p>
+<p>雷洋，系中国人民大学2005级环境学院的本科及硕士研究生，任职于中国循环经济协会。现于2016年5月7日晚离奇死亡，我们作为同学经过与亲属初步沟通了解，现知道的主要情况如下：</p>
+<p>1、 事件大致过程：</p>
+<p>由于雷洋在4月24日刚和老婆生下一个可爱的女孩，他的亲属要过来探望，所以他于2016年5月7日晚21时左右从家里出门去首都机场接他的亲属（航班预计到达时间23点30分）；之后就失去联系。</p>
+<p>从晚上23:30至第二天凌晨1点，其妻子和亲属不间断打电话，但手机一直处于无人接听状态。直到凌晨1点电话有人接听，接听人自称来自昌平区东小口镇派出所，并告知亲属需要去派出所，亲属于1:30左右达到派出所。派出所告知的大意是：雷洋因涉嫌嫖娼，在警车带往派出所的途中因心脏病突发死亡。根据昌平区中西医结合医院给出信息，雷洋达到医院时间为2016年5月7日晚22点09分，到达时已经死亡。</p>
+<p>凌晨4:30左右，亲属随警察来到医院，见到雷洋手臂和头部都有明显淤血，与警察交涉，警察给出答复为路途中雷洋反抗强烈，跳车头部着地所致。亲属要求对遗体拍照留存被禁止。</p>
+<p>2、我们的疑问：</p>
+<p>根据我们了解到的情况，我们产生了一系列疑问：</p>
+<p>1） 雷洋几乎每周都会踢足球，全年无休，据了解亲属也没有心脏病史，为何会突发心脏病？</p>
+<p>2） 手臂和头部的淤血如果为跳车所致，应有明显外伤，可是据家属观察无明显外伤。按照东小口镇派出所所述，执法后已被制服并招供，为何还会尝试并成功做到跳车？</p>
+<p>3） 医院给出的雷洋死亡时间为22点09分（达到医院时间），可是在之后长达近两个小时的时间，为何派出所不联系亲属，并且亲属一直打电话也无人接听？</p>
+<p>4） 亲属交涉后发现，雷洋手机中死亡前几日的通话记录，微信朋友圈里面关于孩子和家庭的信息，手机里面的位置记录都被部分删除，这是何人所为？为什么需要这样做？</p>
+<p>3、现在的情况；</p>
+<p>我们是雷洋人大的同学，在今天上午听到此事后都非常震惊，完全不敢相信此事会发生在我们身边。我们无比痛惜一个刚出生2周多的孩子就这样失去了父亲，我们无比痛惜一个刚生产完的妻子就这样失去了挚爱，我们无比痛惜其年迈的父母就这样失去了年轻而前途光明的儿子。</p>
+<p>所以，我们需要了解更多，我们需要我们的疑问得到解答，我们需要社会各界的帮助和支持，支持我们为一个逝去的年轻生命还原真实过程，给其悲痛的亲属一个交代。</p></blockquote>
+<p>上述说明，已经被朋友圈，天涯，水木等网站和论坛删除。</p>
+<p>雷洋的朋友圈里，全部是他参加会议，讨论和研究的消息，而他的头像，是他的女儿握着他的手指。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1b78ff64815aea460927bfdae78de1db_b.jpg?resize=500%2C888" alt="1b78ff64815aea460927bfdae78de1db_b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1b78ff64815aea460927bfdae78de1db_b.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1b78ff64815aea460927bfdae78de1db_b.jpg?resize=577%2C1024 577w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1b78ff64815aea460927bfdae78de1db_b.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4dedc952d7d69180d9d42db9ddb2dfe5_b.jpg?resize=500%2C888" alt="4dedc952d7d69180d9d42db9ddb2dfe5_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4dedc952d7d69180d9d42db9ddb2dfe5_b.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4dedc952d7d69180d9d42db9ddb2dfe5_b.jpg?resize=577%2C1024 577w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4dedc952d7d69180d9d42db9ddb2dfe5_b.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<div>
+<p>我知道，我的力量很小，我的声音很弱。但我愿意相信，关注我们的知友们，是了解我的真诚的。我更愿意相信，在中国，在北京，在互联网上，是有公道的，有正义的！</p>
+<p><b>根据上述说明信息，雷洋手机中的信息存在被破坏的可能性。</b><b>我们非常担心还会有别有用心的人破坏证据，阻挠调查。因此</b><b>在目前这个阶段，这篇文章的主要诉求就是希望将这个悲剧和相关的说明通过各位知友的努力扩散出去，以舆论的力量遏制这些人破坏证据的行为，以公众的力量保障程序的正义！</b></p>
+<p><b>大家如果在其他网站看到相关报道，请以本文中<关于人民大学雷洋同学意外身亡的情况说明>中的信息为准。我们保证，说明中的所有内容没有揣测，没有谣言，只有事实。</b></p>
+<p><b>我愿意用我在知乎730多天298个答案十万个赞同积累下来的这一点真诚，换大家一次信任，还雷洋一个公道，好吗？</b></p>
+<p>作者：山羊月<br>
+链接：https://zhuanlan.zhihu.com/p/20871027<br>
+来源：知乎<br>
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p></div>
+<div></div>
+<div><strong>另附：</strong></div>
+<div></div>
+<div>@平安昌平：情况通报</div>
+<div></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005H5Isugw1f3pga1q2byj30de0hcgoq.jpg?resize=482%2C624" alt="005H5Isugw1f3pga1q2byj30de0hcgoq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005H5Isugw1f3pga1q2byj30de0hcgoq.jpg?resize=232%2C300 232w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005H5Isugw1f3pga1q2byj30de0hcgoq.jpg?w=482 482w" sizes="(max-width: 482px) 100vw, 482px" data-recalc-dims="1"></div>
+<div></div>
+<div>以下为数字时代编辑截取自该微博下的部分热门评论：</div>
+<div></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B3.jpg?resize=529%2C1156" alt="平安昌平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平.jpg?resize=469%2C1024 469w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平.jpg?w=529 529w" sizes="(max-width: 529px) 100vw, 529px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B32.jpg?resize=533%2C1197" alt="平安昌平2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平2.jpg?resize=456%2C1024 456w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平2.jpg?w=533 533w" sizes="(max-width: 533px) 100vw, 533px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B33.jpg?resize=533%2C1238" alt="平安昌平3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平3.jpg?resize=441%2C1024 441w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平3.jpg?w=533 533w" sizes="(max-width: 533px) 100vw, 533px" data-recalc-dims="1"></div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%B1%B1%E7%BE%8A%E6%9C%88-%E4%B8%BA%E4%BA%BA%E7%88%B6%E7%9A%84%E4%BA%BA%E5%A4%A7%E7%A1%95%E5%A3%AB-%E4%B8%BA%E4%BD%95%E4%B8%80%E5%B0%8F%E6%97%B6%E5%86%85%E7%A6%BB%E5%A5%87%E6%AD%BB%E4%BA%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E7%A1%95%E5%A3%AB%E6%9A%B4%E6%AD%BB/?category=18271" rel="tag">人大硕士暴死</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">平安昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E7%8C%96/?category=18271" rel="tag">被嫖猖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E6%8D%AE/?category=18271" rel="tag">证据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%85%AC%E5%B8%83%E8%BF%9B%E9%A9%BB%E7%99%BE%E5%BA%A6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C/" target="cdt-mirror">中国网信网 | 网信办公布进驻百度调查结果</a>
 </h2>
 <p><p>国家网信办5月2日会同国家工商总局、国家卫生计生委和北京市有关部门成立联合调查组进驻百度公司，集中围绕百度搜索在“魏则西事件”中存在的问题、搜索竞价排名机制存在的缺陷进行了调查取证。调查组认为，百度搜索相关关键词竞价排名结果客观上对魏则西选择就医产生了影响，百度竞价排名机制存在付费竞价权重过高、商业推广标识不清等问题，影响了搜索结果的公正性和客观性，容易误导网民，必须立即整改。</p>
@@ -854,52 +906,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%B5%B7%E5%8F%A3%E5%85%AC%E5%AE%89%E8%BE%9F%E8%B0%A3%E6%B2%A1%E4%BA%BA%E4%BF%A1/" target="cdt-mirror">【立此存照】海口公安辟谣没人信</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005GgY2ggw1f3mr8086gvj30j60y4gqr.jpg" rel="attachment wp-att-437185"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005GgY2ggw1f3mr8086gvj30j60y4gqr.jpg?resize=400%2C712" alt="005GgY2ggw1f3mr8086gvj30j60y4gqr" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005GgY2ggw1f3mr8086gvj30j60y4gqr.jpg?resize=575%2C1024 575w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005GgY2ggw1f3mr8086gvj30j60y4gqr.jpg?w=690 690w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>微博图片</span></p></div>
-<p>一份网络热传的拘留书显示，2015年5月1日，海南强拆事件发生地一位名为葛河成的居民因涉嫌“妨碍公务罪”而遭刑事拘留，并被带往位于海口市琼山区新大洲大道的看守所。最初发布拘留书照片的网民称，被刑拘者为海口强拆视频拍摄者。海口公安随后发布<a href="http://www.thepaper.cn/newsDetail_forward_1466067" target="_blank">辟谣公告</a>，称“打人视频拍摄者”被拘留是谣言，并提示网民“勿信谣传谣”。</p>
-<p><strong>然而并没什么人信。</strong>有图为证。</p>
-<p><strong><a href="http://weibo.com/5044281310/DupmeEaH6" target="_blank">@澎湃新闻</a> 微博评论截图：</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A1.png" rel="attachment wp-att-437179"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A1.png?resize=550%2C2137" alt="澎湃新闻微博1" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A2.png" rel="attachment wp-att-437178"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A2.png?resize=550%2C1202" alt="澎湃新闻微博2" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A-3.png" rel="attachment wp-att-437177"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB%E5%BE%AE%E5%8D%9A-3.png?resize=550%2C1384" alt="澎湃新闻微博 3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻微博-3.png?resize=407%2C1024 407w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/澎湃新闻微博-3.png?w=609 609w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p><strong><a href="http://weibo.com/1642088277/DupInxh46" target="_blank">@财经网</a> 微博评论截图：</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A.png" rel="attachment wp-att-437180"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A.png?resize=550%2C2420" alt="财经网微博" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A2.png" rel="attachment wp-att-437176"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A2.png?resize=550%2C1216" alt="财经网微博2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/财经网微博2.png?resize=463%2C1024 463w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/财经网微博2.png?w=604 604w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A3.png" rel="attachment wp-att-437175"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%E5%BE%AE%E5%8D%9A3.png?resize=550%2C1792" alt="财经网微博3" data-recalc-dims="1"></a></p>
-<p>不少网民指出，海口警方辟谣说明过于含糊其辞，并未真正解答网民的问题，比如这名葛河成是谁、拘留书内容是否属实、而“妨碍公务罪”又具体指何种行为等。同时有大量网民直言，政府公信力太差使得他们无法相信官方辟谣。<strong><br></strong></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：<br></strong><br>
-@<a href="http://weibo.com/2158279392" target="_blank">二郎神再二也是神二世</a>：至今为止，没看到被打方的人出来露面、说话，只有单方面的声音，你说我是信呢还是信呢还是信呢？<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1862283351" target="_blank">@海盗王去哦</a>：这一次支持海口警方！就是，秋后算账哪有这么早的，那最多只是人家内部的初稿，等出台还有段时间呢<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
-<p>@Felix_陈雪锋：海口公安局真搞笑，自己给自己辟谣。</p>
-<p>@我也真是无语了：政府已经没公信力。 没人会信</p>
-<p>@浅唱Freedom：哦？你说谣言就谣言？政府说的话谁信啊。</p>
-<p>@崔小平律师：拘留通知书假的？还是通知书为真，警方认为其不是拍摄者？或者抓人原因不是拍摄行为？能说具体点吗？</p>
-<p>@phone0x：即使是谣言，也不信你们</p>
-<p>@揭秘者007008：本来不信，一辟谣我信了。。。</p>
-<p><a href="http://weibo.com/1735580567" target="_blank">@LeeChiPen</a>：糟糕了 那位英雄真的被抓了！<img title="[生病]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/sb_org.gif" alt="[生病]" data-recalc-dims="1"></p>
-<p>@徐大章量：他抓的人，又是他说的谣言，他就是公安局</p>
-<p>@U嘘嘘嘘嘘：你党说的话 我不信</p>
-<p>@莫名第一锅：谣言是遥遥领先的预言</p>
-<p>@暗夜的怒吼：能说明一下拘留通知书咋回事吗？</p>
-<p>@快乐就是OK：这个声明没说服力</p>
-<p>@敏感文字：辟谣，一般都真的，官方的话要反着听，呵呵</p>
-<p>@关山曰归：什么叫造谣，你们可以起诉，然后才能证明是造谣。知法犯法。</p>
-<p>@爱穿中山装的老男孩：呵呵。影响大都是造谣</p>
-<p>@天外飞砖客：要保证当事人、知情人发声的权利才有公信力，而不是一删了之，一辟谣了之。</p>
-<p>@rpf1012：道德泯灭，信用坍塌，这样的ZF还有什么脸执政？</p>
-<p>@海底是否也是蔚蓝：一般来说，官方辟谣等于承认</p>
-<p>@魏致静：先抓一个，然后又说你传谣，又抓一批，他们除了会抓人会打人，还会些啥？养狗都不至于这样吧。</p>
-<p>@渣打money1：那个人到底妨碍了什么公务呢？</p>
-<p>@非主流的农二代：你们的话能信吗？！！！！！！</p>
-<p>@书画诗词分享：公信力为什么没有了？为什么老百姓宁愿相信谣言也不相信政府？</p>
-<p>@木头8724：又是遥远的语言吗，那份拘留书是谁的，你们也不会解释</p>
-<p>@黃亣雲A：这个申明的本身，涉嫌造谣。</p>
-<p>@顺道之德：现在的局面是：与民争利，地方政府失去信用，讲什么都没人相信。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%B5%B7%E5%8F%A3%E5%85%AC%E5%AE%89%E8%BE%9F%E8%B0%A3%E6%B2%A1%E4%BA%BA%E4%BF%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E5%85%AC%E4%BF%A1%E5%8A%9B/?category=18271" rel="tag">政府公信力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E5%8F%A3%E5%BC%BA%E6%8B%86/?category=18271" rel="tag">海口强拆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%9F%E8%B0%A3/?category=18271" rel="tag">辟谣</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -911,7 +917,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -921,5 +927,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

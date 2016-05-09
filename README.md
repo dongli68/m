@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%85%AC%E5%B8%83%E8%BF%9B%E9%A9%BB%E7%99%BE%E5%BA%A6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C/" target="cdt-mirror">中国网信网 | 网信办公布进驻百度调查结果</a>
+</h2>
+<p><p>国家网信办5月2日会同国家工商总局、国家卫生计生委和北京市有关部门成立联合调查组进驻百度公司，集中围绕百度搜索在“魏则西事件”中存在的问题、搜索竞价排名机制存在的缺陷进行了调查取证。调查组认为，百度搜索相关关键词竞价排名结果客观上对魏则西选择就医产生了影响，百度竞价排名机制存在付费竞价权重过高、商业推广标识不清等问题，影响了搜索结果的公正性和客观性，容易误导网民，必须立即整改。</p>
+<p>调查组对百度公司提出了以下整改要求：</p>
+<p>一、立即全面清理整顿医疗类等事关人民群众生命健康安全的商业推广服务。即日起，对医疗、药品、保健品等相关商业推广活动，进行全面清理整顿，对违规信息一经发现立即下线，对未获得主管部门批准资质的医疗机构不得进行商业推广。</p>
+<p>二、改变竞价排名机制，不能仅以给钱多少作为排位标准。立即调整相关技术系统，在2016年5月31日前，提出以信誉度为主要权重的排名算法并落实到位；对商业推广信息逐条加注醒目标识，并予以风险提示；严格限制商业推广信息比例，每页面不得超过30%。</p>
+<p>三、建立完善先行赔付等网民权益保障机制。畅通网民监督举报渠道，提高对网民举报的受理、处置效率；对违法违规信息及侵害网民权益行为，一经发现立即终止服务；建立完善相关机制，对网民因受商业推广信息误导而造成的损失予以先行赔付。</p>
+<p>搜索引擎是网民获取信息的重要渠道，具有很强的引导作用。国家网信办将于近期在全国开展搜索服务专项治理，加快出台《互联网信息搜索服务管理规定》，促进搜索服务管理的法治化、规范化；会同相关部门严厉打击网上传播医疗、药品、保健品等事关人民群众生命健康安全的虚假信息、虚假广告等违法违规行为。国家工商总局将加快出台《互联网广告管理暂行办法》，进一步规范互联网广告市场秩序。</p>
+<p>“魏则西事件”中涉及相关医疗机构的调查结果，由相关主管部门另行公布。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%85%AC%E5%B8%83%E8%BF%9B%E9%A9%BB%E7%99%BE%E5%BA%A6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%BA%E7%BB%99%E4%B9%98%E5%AE%A2%E5%87%8F%E8%82%A5-%E5%A4%A7%E9%99%86%E9%AB%98%E9%93%81%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83/" target="cdt-mirror">【图说天朝】为给乘客减肥 大陆高铁操碎了心</a>
 </h2>
 <p><p>@何兵 ：高铁上45元的盒饭。</p>
@@ -883,50 +900,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%EF%BC%9A%E4%B8%8A%E6%9C%89%E6%89%80%E5%A5%BD%EF%BC%8C%E4%B8%8B%E5%BF%85%E7%94%9A%E7%84%89/" target="cdt-mirror">【网络民议】五十六朵花：上有所好，下必甚焉</a>
-</h2>
-<p><p>近日成为舆论焦点的“在希望的田野上”红歌音乐会主办方之一，中国歌剧舞剧院昨日<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A7%E5%BA%A6-%E5%9C%A8%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%90%9E%E7%BA%A2%E6%AD%8C%E4%BC%9A%E7%9A%84%E4%B8%80%E4%B8%AA%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%A2%AB%E9%AA%97%E5%95%A6/" target="_blank">发表声明</a>，称合作方“提供虚假材料，骗取我院信任”。而批准该演出的西城区文化委员会则称，“申请方违规增加演出主办单位，虚构‘中央宣传部社会主义核心价值观宣传教育办公室’”。</p>
-<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/" target="_blank">五十六朵花</a>专题</p></blockquote>
-<p>以下两张@环球时报 微博截图由数字时代编辑截取，按时间顺序排列。图(1)显示该微博有<strong>1974条评论</strong>和<strong>3961次转发</strong>（评论及转发内容均无法显示）。图(2)为发稿前所截，<strong>仅仅几小时后，不仅评论数被删到只剩90条，转发量也下降到3384</strong>。这很可能意味着，不少微博用户的转发也遭到了删除。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E6%97%B61.jpg" rel="attachment wp-att-437137"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E6%97%B61.jpg?resize=450%2C590" alt="环时1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时1.jpg?resize=229%2C300 229w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时1.jpg?resize=768%2C1007 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时1.jpg?resize=781%2C1024 781w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时1.jpg?w=1814 1814w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><span>图(1)</span></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E6%97%B63.jpg" rel="attachment wp-att-437136"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%8E%AF%E6%97%B63.jpg?resize=450%2C590" alt="环时3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时3.jpg?resize=229%2C300 229w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时3.jpg?resize=768%2C1007 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时3.jpg?resize=781%2C1024 781w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/环时3.jpg?w=1806 1806w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><span>图(2)</span></p>
-<p>@五十六朵花官微 提及“中共中央宣传部社会主义核心价值观宣传教育办公室”的微博已经消失。以下为百度快照，来自新浪微博用户<a href="http://weibo.com/u/5177590067?refer_flag=1001030103_" target="_blank">@小白妖妖_艾瑞蒙</a>：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%99%BE%E5%BA%A6%E5%BF%AB%E7%85%A7.jpg" rel="attachment wp-att-437138"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%99%BE%E5%BA%A6%E5%BF%AB%E7%85%A7.jpg?resize=550%2C359" alt="百度快照" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/百度快照.jpg?resize=300%2C196 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/百度快照.jpg?resize=768%2C501 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/百度快照.jpg?resize=230%2C150 230w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/百度快照.jpg?w=777 777w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>2014年5月27日，<strong>中共中央宣传部、中央文明办和中国文联曾共同下发了《<a href="http://www.shzyhxjzg.com/html/2015/tongzhigonggao_0602/312.html" target="_blank">开展社会主义核心价值观主题文艺活动的通知</a>》</strong>，其中包含了这样一段内容：</p>
-<blockquote><p><strong>政府有关部门可通过购买社会服务的方式</strong>，为活动的顺利进行提供物质保障、创造有利条件。中国文联要切实履行组织、联络、协调、服务的基本职能，发挥好桥梁纽带作用。各地文联要按照统一部署，在当地党委宣传部、文明办的领导下，<strong>组织包括国有、民营等不同性质的艺术表演团体和广大文艺工作者</strong>，以文艺志愿服务小分队等方式深入到基层，扎实开展主题文艺实践活动。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/airtouch" target="_blank">@小童看天下</a>：受骗单位还有：新华社、中央电视台、人民网、新华网、人民政协报、搜狐网、腾讯网等数十家新闻单位和媒体。真魔幻</p>
-<p><a href="http://weibo.com/easymeeting" target="_blank">@信命了</a>：人家是魔幻现实主义，中国是现实魔幻主义<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><strong><a href="http://weibo.com/2143595483" target="_blank">@醉醉高兴</a>：这届人民不行，骗子最正能量<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></strong></p>
-<p><a href="http://weibo.com/n/%E4%B8%8A%E6%B5%B7%E7%9A%84Q%E5%85%AC?from=feed&loc=at" target="_blank">@上海的Q公</a>:怎麼都緊趕著表態呢？是聖上發話了<img title="[疑问]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/yw_org.gif" alt="[疑问]" data-recalc-dims="1"></p>
-<p>@银色de沙子：政治投机搞砸了，赶紧编个理由切割</p>
-<p><strong>@略懂常识：是骗子的问题吗？明明是一出无所适从，揣摩上意的活报剧</strong></p>
-<p><strong>@谢文:上有所好，下必甚焉</strong></p>
-<p><a href="http://weibo.com/1886926857" target="_blank">@羊肠小道2010</a>：就算合作方单位名称造假，但是演出内容是你们审核同意并盖章的，这是问题的关键，看你们怎么解释呢？玩过头就想溜之大吉，没门啊!<img title="[围观]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif" alt="[围观]" data-recalc-dims="1"><img title="[围观]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f2/wg_org.gif" alt="[围观]" data-recalc-dims="1"></p>
-<p>@水墨樵夫: 如今只能用骗说事了，关键这个谎能圆圆满吗？有人信吗？一个区审批的演出进人大会堂演出？</p>
-<p>@望风楼321:不可能是受骗。气势搞这么大，在大会堂举行，党政军领导出席，全国最重要媒体广泛报道。这是骗谁，自己骗自己吧。只能说伴君如伴虎，永远不知道领导下一出想的是什么。也说明当今的政府和领导毫无远见，做任何事都是临时拍脑袋。</p>
-<p>@徘徊的空灵：骗中骗，假面狂欢，意淫至死！</p>
-<p><a href="http://weibo.com/2963524275" target="_blank">@熙乡评话</a>：本是同林鸟，难来各自飞。开撕方料是预感风头不对，果断翻船。<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p>@一头小活猪：审批方说被主办方骗了，主办方说被合作方骗了，合作方是谁？呵呵，打死不说。老子们上网发个牢骚，你们都知道；几万人在人民大会堂跳大神，马屁拍到马脚，结果找不到负责人了。骗鬼哦！</p>
-<p>@谭人玮: 这回56朵花不用自己的人马了，把演出任务外包给某艺校，产业升级啦。另外，百度搜这56朵花，前面的结果几乎没有负面报道，原来那一大波挖底调查都不知道上哪儿了。</p>
-<p><a href="http://weibo.com/1527318174" target="_blank">@整合之道刘鸿雁</a>：是骗子？还是被骗子骗了的骗子？<img title="[挤眼]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c3/zy_org.gif" alt="[挤眼]" data-recalc-dims="1"></p>
-<p><strong>@zhuxp999：谁主办不重要，重要的是内容！</strong></p>
-<p>@国行者1314：原来是大小骗子打着“社会主义核心”的招牌忽悠文革余孽和脑残们进行敛财的闹剧！难怪说“第一次文革是悲剧，第二次文革是闹剧”。</p>
-<p>@夢裡瓜落知多少：谁信呐，无非是试水失败，找个理由罢了，人民群众眼睛是贼亮贼亮的。</p>
-<p>@falcon伯爵：两个都是国家单位，竟然不知道对方是假的？</p>
-<p>@李大善人的新浪微博: 坚决支持党中央依法表演。</p>
-<p>@谢文:大难临头各自飞</p>
-<p>@乌托国民16: 骗子遇见骗子了</p>
-<p>@弗兰克51020：没有就是骗那么简单，也许在唱双簧呢，上头一个调定下来，抢功都来不及。</p>
-<p>@Kingyuan53719：“你骗了我”，“对不起，我也是被那个狗日的社会主义价值观教育办公室给骗了”</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%EF%BC%9A%E4%B8%8A%E6%9C%89%E6%89%80%E5%A5%BD%EF%BC%8C%E4%B8%8B%E5%BF%85%E7%94%9A%E7%84%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/?category=18271" rel="tag">五十六朵花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -938,7 +911,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -948,5 +921,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

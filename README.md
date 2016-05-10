@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%AB%96-%E6%9A%A7%E6%98%A7%E7%9A%84%E6%8A%93-%E8%B9%8A%E8%B7%B7%E7%9A%84%E6%AD%BB-%E4%BB%A5%E5%8F%8A%E9%BA%BB%E5%88%A9%E7%9A%84%E5%88%A0/" target="cdt-mirror">导弹熊 | 模糊的嫖 暧昧的抓 蹊跷的死 以及麻利的删</a>
+</h2>
+<p><p>北京市民雷洋涉嫌嫖娼被抓途中死，这件事骤然热起来。</p>
+<p>我没有使用人大硕士这种称谓，因为我觉得是不是硕士无所谓，只要是个人，就不能稀里糊涂地死。</p>
+<p>雷洋同学和家属的主要质疑点是：警方说雷洋是在对抗警方执法时心脏病突发死亡的，但家人证实其人身体健康且没有家族病史，真实死因待查；死者身上有伤，伤情和警方提供的说法似不吻合；死亡后长达两小时警方没有通知家属；死者手机里的位置信息被删除。</p>
+<p>这几个疑点，如果不能用强有力的证据来一一排除，则昌平警方会陷入大麻烦。尤其删除位置信息这一点很关键，这意味着删除者不希望手机信息成为不利于自己的证据。</p>
+<p>注意，我说的是“如果”和“可能”。</p>
+<p>一切皆有可能。</p>
+<p>让我们先根据现有信息做一次事件还原：</p>
+<p>2016年5月7日晚9点左右，雷洋出门去机场接亲戚，亲戚航班预计23点30分到达。如果警方所言不虚，则雷洋没有直接去机场，而是先去涉事足疗店嫖娼，结果被警方逮住。根据医院结论，雷洋在当晚22点09分抵达医院时已经死亡。</p>
+<p>这就是说，在短短一小时内，雷洋从家里去足疗店嫖妓、被警察控制盘问、被带上车押往派出所、在车上反抗并死亡，然后被送到医院。纵然东小口镇派出所、中西医结合医院和足疗店大致都在霍营一带，他也够忙的了！</p>
+<p>但是让我再说一遍，一切皆有可能。</p>
+<p>雷洋有可能在接亲戚之前，扣除大约40分钟或者更远一些的车程，利用一个半小时的富裕时间去一趟足疗店，也许只是洗脚按摩，也许真的是去嫖妓。</p>
+<p>他的学历和职业，不能先天证明他不会购买性服务。而我要说的是：即便他真的去购买了这种服务，警方处置他的方式，也和可能有问题，甚至有硬伤。</p>
+<p>当然，从雷洋的身份来看，他作为一名环境工作者，似乎不该和警方有什么过节，所以很难说警方蓄意陷害他甚至谋杀他，阴谋论未免牵强。</p>
+<p>可毕竟人死了。</p>
+<p>毕竟是死在了警察手上。</p>
+<p>而他就算嫖娼也遥遥地罪不至死。</p>
+<p>他到底是摔死的还是心脏病发作死的？取其中任何一个，都意味着另一个不真实。</p>
+<p>警方先前的说法是他已经被控制了，而且使用了强制约束手段，也就是绑起来了。后面又说他跳车逃跑，以至于头触地。这两个说法之间显然有点矛盾。</p>
+<p>如果雷洋是跳车而死的，那就意味着车速不低。雷洋是理科背景，不会不懂在奔驰的汽车上跳下去是什么结果。</p>
+<p>如果他是从静止的车子上跳下去的，那么在那个高度上，就算脑袋磕地，似乎也不至于摔死。</p>
+<p>而且既然采取了强制措施，那么能在手被绑着、车里还有警察的条件下拉开车门跳出去，好像也过于神勇了，或者说警察过于无能了。</p>
+<p>既然人送到医院时已经死了，那死因就不是医院判断的，而是警方现场判断的。</p>
+<p>警方在抓嫖过程中，似乎不会带着专业医生，那么他们是依据雷洋的何种表现来判明他是死于心脏病突发呢？为什么不是脑溢血？</p>
+<p>没有权威手段就得出结论，纵然不是撒谎，那也是极不专业的，因此是对死者家属不负责任的。</p>
+<p>不排除警方为了减轻责任而炮制说辞。</p>
+<p>一切皆有可能。</p>
+<p>我们不能因为以前出过警察胡来的案例，就先入为主地怀疑警察，臆测他们使用了暴力手段，甚至臆测他们有更深的图谋。</p>
+<p>可是且慢，回到最初一幕，有些细节还需要澄清：</p>
+<p>雷洋是在什么情况下被作为嫖客控制的？</p>
+<p>如果他正在实施嫖娼动作，或者说被抓了现行，那没话可说，下一步调查必须搞清楚这个。</p>
+<p>如果他只是刚刚进去，还没有宽衣解带，或者说已经完事要走了，裤子穿得好好的，那么警察凭什么认定他嫖娼了呢？</p>
+<p>简言之：即便是在一个有嫖娼嫌疑的场所，一个公民只要没有和那里的陌生女子发生性接触，警方咋给他定性嫖娼呢？仅仅靠妓女把他咬出来，或者拿出口袋了若干钱说这就是嫖资吗？</p>
+<p>联系到雷洋手机的位置信息被删除，这就令人不能不怀疑他到底是不是在足疗店被抓的。</p>
+<p>也就是说，假设他真的嫖妓了，警察也可能是根据妓女或者皮条客口供，在他离开足疗店后，在外面控制了他。</p>
+<p>如果是这样，就是严重的问题，因为无法证明他嫖妓了，除非足疗店有偷拍录像。</p>
+<p>嫖娼是违法行为而非犯罪。《治安管理处罚法》第六十六条规定： 卖淫、嫖娼的，处十日以上十五日以下拘留，可以并处五千元以下罚款；情节较轻的，处五日以下拘留或者五百元以下罚款。</p>
+<p>假如查实雷洋确系嫖娼，那么有形的惩罚不过如此，至于无形的身败名裂，那个另当别论。也就是说，警方犯不着跟他较劲到出人命的地步。</p>
+<p>既然如此，死人了，为何两小时不通知家属？是要摆平什么才能面对人家吗？比如统一口径？</p>
+<p>雷洋，一个公民，或许是有点隐情的公民，离开家门，一去不归，留下一个不光彩的疑点，和蹊跷的死因。他的家人将长久地背负荣誉和真相的十字架。</p>
+<p>警方有自己的办事流程，他们也许真的没有做什么手脚。</p>
+<p>但既往发生过的一些事情，让老百姓不太相信官方的说法，这个责任不在老百姓一方。</p>
+<p>我们只能是那句话：一切皆有可能。这句话对雷洋和警方同时有效。</p>
+<p>在检方调查清楚之前，警方、家属和舆论都在受煎熬。光是看新闻后面的评论，就已经知道此事又引爆了很多陈年话题，将社会再撕裂一次。</p>
+<p>总之——</p>
+<p>一个公民不能模糊地嫖或者“被嫖”，暧昧地被抓，蹊跷地死去，而为他叫屈的帖子却被极其麻利地删掉。</p>
+<p>静候真相。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%AB%96-%E6%9A%A7%E6%98%A7%E7%9A%84%E6%8A%93-%E8%B9%8A%E8%B7%B7%E7%9A%84%E6%AD%BB-%E4%BB%A5%E5%8F%8A%E9%BA%BB%E5%88%A9%E7%9A%84%E5%88%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E7%A1%95%E5%A3%AB%E6%9A%B4%E6%AD%BB/?category=18271" rel="tag">人大硕士暴死</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">平安昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E7%8C%96/?category=18271" rel="tag">被嫖猖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E6%8D%AE/?category=18271" rel="tag">证据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B8%AD%E5%85%B1%E7%8E%B0%E5%85%9A%E8%B4%B9%E5%8D%B1%E6%9C%BA-%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%89%B9%E5%9B%BD%E4%BC%81%E5%85%9A%E5%91%98%E6%8B%96%E6%AC%A0/" target="cdt-mirror">自由亚洲 | 中共现党费危机 中纪委批国企党员拖欠党费</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-09-at-%E4%B8%8B%E5%8D%885.59.29.png?resize=480%2C321" alt="Screen Shot 2016-05-09 at 下午5.59.29" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-09-at-下午5.59.29.png?resize=300%2C201 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-09-at-下午5.59.29.png?w=480 480w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"><br><span>上个世纪九十年代，江泽民赴寺庙朝拜(Public Domain)</span></p>
@@ -43,7 +99,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E8%B4%B9/?category=18271" rel="tag">党费</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%B1%B1%E7%BE%8A%E6%9C%88-%E4%B8%BA%E4%BA%BA%E7%88%B6%E7%9A%84%E4%BA%BA%E5%A4%A7%E7%A1%95%E5%A3%AB-%E4%B8%BA%E4%BD%95%E4%B8%80%E5%B0%8F%E6%97%B6%E5%86%85%E7%A6%BB%E5%A5%87%E6%AD%BB%E4%BA%A1/" target="cdt-mirror">山羊月 | 为人父的人大硕士 为何一小时内离奇死亡？</a>
 </h2>
@@ -812,52 +868,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/betterread/?catego
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%80%9D%E4%B9%90%E4%B9%A6-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E6%8A%97%E4%BA%89%E4%B8%AD%E7%9A%84%E4%BC%A0%E7%BB%9F%E6%9C%89%E5%A4%9A%E5%B0%91%E6%84%8F%E4%B9%89%EF%BC%9F/" target="cdt-mirror">思乐书 | 赵思乐：抗争中的“传统”有多少意义？</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-%E4%B8%8A%E5%8D%889.56.43.png?resize=423%2C421" alt="Screen Shot 2016-05-07 at 上午9.56.43" data-recalc-dims="1"></p>
-<p>作者：赵思乐，首刊于东网大陆评论专栏</p>
-<blockquote><p>“今天我自愿绝食24小时，为郭飞雄争取人道对待，也为支持我的中大校友于世文先生的正义诉求。</p>
-<p>我知道，一个人绝食24小时没什么大不了的，绝对饿不死；而没有人性的体制也并不会因此被撼动。但是，我们需要表达个人的政治态度，表达我们的是非原则，抗争需要透明度和公开性……”</p></blockquote>
-<p>5月4日，63岁的中国知名学者、纪录片导演艾晓明，在自己的朋友圈发出了这则“绝食声明”。</p>
-<p>这是艾晓明在参加声援狱中维权人士郭飞雄的<strong>“接力绝食”</strong>活动，每一个参与者都需要自愿绝食一天，并在当天发布简短的绝食声明。</p>
-<p>据悉，接力从5月4日正式开始，截至5月5日晚上12点，报名参与的人数已超过140人，接力的日期已经排到了8月3日。</p>
-<p>郭飞雄是资深的维权抗争者，曾于2006年入狱5年，出狱两年又因“南方周末事件”被捕，去年11月被判处6年徒刑。</p>
-<p>此次“接力绝食”源于郭飞雄的姐姐4月26日到广东阳春监狱探视郭飞雄，<strong>得知他一年来断续便血腹泻，到监狱后咽部和口腔间断出血，4月7日住进医院，4月19日大出血，行走不稳，有时几乎难以站立。郭飞雄曾要求进行相关检查，医院声称需要狱政刘姓干事批准，而刘干事不予批准。</strong></p>
-<p>郭飞雄病情危急的消息传出后，民间抗争者迅速推动了一系列声援行动，比如号召网友持续给监狱方面打电话、给郭飞雄寄去慰问的明信片、联署公开信等等。其中，公开信在发出三天后联署人数已超过1000人。</p>
-<p>郭飞雄的议题可以说是高度政治化的人权议题，在大众舆论中能见度几乎为零，加上连续打击让中国抗争群体四散蛰伏，能有这样的联署数字，可见抗争群体面对生命底线的艰难“总动员”。</p>
-<p>紧接着出现的“接力绝食”，则更是以实名且决绝的姿态，要为郭飞雄的议题做长期的集体抗争。</p>
-<blockquote><p>“接力绝食”还有一层深意：</p>
-<p>这种抗争手法的第一次使用是在2006年，也是由于郭飞雄在“太石村事件”中遭遇官方打击和暴力对待，维权律师高智晟为抗议对抗争者的侵害，发起时称“维权绝食”的接力绝食活动。</p>
-<p>这种明确抗争的激烈方式，在当时以理性温和姿态寻求体制内外互动为主流的民间来说，引发了不小的争议。最早参与“维权绝食”的多人也陆续遭到警方骚扰，发起人高智晟、胡佳一两年后均被逮捕判刑。</p>
-<p>但“接力绝食”作为一种光谱中较为激烈的抗争手法被保留下来，在接下来几年多次被使用。</p></blockquote>
-<p>2012年之后，一方面，之前以推特为平台的抗争群体受到“茉莉花事件”的打击而飘零，另一方面，以微博为基础的抗争群体兴起，常用的抗争手法要么是相对温和的联署、诉讼、行为艺术，要么是更为激烈的上街举牌，“接力绝食”很少再使用。</p>
-<p>十年之后，当新兴的抗争群体再度遭打击四散，“接力绝食”却在郭飞雄声援中重现，令人唏嘘。这是一种有意识的抗争传统的展示，似乎在说：</p>
-<p><strong>我们没有死，我们没有忘。</strong></p>
-<p><strong>然而，“接力绝食”的倡议书虽然在传统的异议维权圈子都获得了广泛的转发参与，但在青年运动群体中却鲜有关注。</strong></p>
-<p>当笔者在朋友圈转发“接力绝食”的倡议文本，一位数次参与其他政治犯声援工作的青年运动者留言道：“这个有意义吗？”80后的他又补充说：“无力感。”之后，又有一位关心抗争运动的青年记者留言：“当年也搞过，这样效果不大啊。”</p>
-<p>这样冷热不均的情景，引人深思：若从“四五运动”开始计算，共产党执政时期的民间抗争运动已有长达40年的历史，即便从“公民社会元年”的2003年开始算，至今亦有13年，<strong>然而，过往的抗争运动对于当下的新一代运动者来说，有没有意义？又在什么层面上有意义？</strong></p>
-<p><strong>两位青年人的留言则透露着现状：他们要么并不知道这些“传统”，要么知道也无感。</strong></p>
-<p>若论手法，抗争和战争类似，战略、武器总是越新越好，尤其在中国大陆的抗争主要依靠传播，新的戏码、新的话语，才更有可能让人提起兴趣，也更能让对手措手不及。</p>
-<p>若谈认知，过去抗争运动，最大的认知积累就是让人看清楚极权的本质：当“江山万年红”成为唯一宗旨，期待、沟通、妥协都不可能丝毫打动当权者。在这样的基础上才能分析管控手法和抗争窗口。然而，管控手法会随阶段变化，因而抗争窗口也个个不同，过去的经验在这方面的帮助有限。</p>
-<p>另一方面，以极权为基础认知，抗争就必然指向激进化——<strong>抗争者在希望渺茫的前提下坚持决绝的思考和行动</strong>——这对于新生的抗争者几乎是不可承受之重。</p>
-<p>一个人如何会走向激进，往往不是靠了解前人的经验，而是要自己去遭受暴政的碾压，反复经历击碎和无望。在这之后，是否会进一步投身激进化，还主要看个人的处境和性格。</p>
-<p>再加上，在严酷环境下，抗争的发育几乎不可能通过组织化培养，而需靠个人觉悟和聚合。也就是说，前人走过的路、流过的血，在年轻新人的激进化方面作用微乎其微。</p>
-<p>那么 ，在抗争的道路上，“传统”到底对后人有什么意义？</p>
-<p>笔者不可能有完整的答案，<strong>答案需要每一个成长中的运动者各自给出</strong>，但作为其中一员，我也希望分享自己的初步体会，那就是：<strong>我们总能活下去（Life will go on）</strong>。</p>
-<blockquote><p>前人散兵游勇／残兵败将的模样，最起码向我们展示着：失败、伤害、边缘化就是如此，也不过如此，总能活下去的。</p></blockquote>
-<p>数十年的反复失败，朋友们，甚至自己，一次次在监狱进进出出，但总也能有得吃、有得穿、有书、有电影、有陪着自己一同等着天亮的人……</p>
-<p>可能被原有的家庭和圈子排斥，但总能有新的朋友和新的爱人；可能不会大富大贵，但总是有瓦遮头、有饭有酒，偶尔能看个电影旅个游；可能边缘失意，但总算逍遥自在、站着做人；可能经历种种的痛苦折磨，但总能确信作恶的并不是自己。</p>
-<blockquote><p>郭飞雄的种种遭遇，即使在抗争者中也是极悲痛的，可以说大多数人都难以也不愿意承受，但从他的发言和行动来看，若知道自己的坚持能带来“抗争传统”的复活，或是得其所哉。这也是民间在对他致以极大的敬意。</p></blockquote>
-<p>抗争者的生活，以世俗的标准或许不好的，甚至是“失败的”，但至少，若再让Ta选择路上的每一步，他们依然宁愿与世俗的成功背道而驰。</p>
-<p>今天的Ta们，或许就是明天的我们，即使那意味着我们又是悲剧的、被辜负的一代，我们却恰在黑暗的时代选择了别人下辈子才敢经历的人生。得其所哉。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%80%9D%E4%B9%90%E4%B9%A6-%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E6%8A%97%E4%BA%89%E4%B8%AD%E7%9A%84%E4%BC%A0%E7%BB%9F%E6%9C%89%E5%A4%9A%E5%B0%91%E6%84%8F%E4%B9%89%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%8A%97%E4%BA%89/?category=18271" rel="tag">公民抗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E6%8A%97%E4%BA%89/?category=18271" rel="tag">民间抗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E9%A3%9F/?category=18271" rel="tag">绝食</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E9%A3%9F%E6%8E%A5%E5%8A%9B/?category=18271" rel="tag">绝食接力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E9%A3%9F%E6%8F%B4%E5%8A%A9%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">绝食援助郭飞雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E6%80%9D%E4%B9%90/?category=18271" rel="tag">赵思乐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -869,7 +879,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -879,5 +889,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

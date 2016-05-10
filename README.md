@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%EF%BD%9C%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8%E7%BA%AF%E6%B4%81%E5%B0%91%E5%A5%B3%E5%81%9A/" target="cdt-mirror">唐映红 ｜“五十六朵花”为什么要用纯洁少女做“图腾”？</a>
+</h2>
+<p><p><strong>【编者注】唐映红微信原文已被和谐。作者微信公号：PsyEyes（ID: psyeyes）。</strong></p>
+<p>Q&A160507</p>
+<p>问：“五十六朵花”为什么要用纯洁少女做“图腾”？</p>
+<p>答：近日，在人民大会堂万人礼堂高调举办“在希望的田野上”大型交响演唱会因被同一体制内精英举报而引发舆论的关注，合作主办方中国歌剧舞剧院以及审批机构北京市西城区文化委员会为此专门发红头文件以撇清与申请方的关系。抛开体制内哔咬哔（此处有两字被“哔”所屏蔽）的是非纠葛不论<strong>，主唱的“五十六朵花”少女天团为弘扬主旋律，把歌唱祖国、歌唱党放到第一位，</strong>号称<strong>“要培养最纯净的中华少女”</strong>。据“五十六朵花”文工团的团长陈光解释，“<span><em><strong>我们国家的形象是美、和平、向上、阳光、朝气、未来，这不就是少女的形象吗？</strong></em></span>”</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_1.jpg" rel="attachment wp-att-437397"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_1.jpg?resize=400%2C551" alt="71289909_1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_1.jpg?resize=218%2C300 218w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_1.jpg?w=581 581w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_2.jpg" rel="attachment wp-att-437396"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_2.jpg?resize=400%2C537" alt="71289909_2" data-recalc-dims="1"></a></p>
+<p>那么，为什么他们要用纯洁少女来作为“图腾”呢？</p>
+<p>从文化人类学角度，<strong>人类自古以来就有用“图腾”来满足或表达某种心理诉求的传统</strong>。例如，原始人类部落为了表达希望自己像猛虎一样勇猛，所以把“虎”作为部落的“图腾”。在心理学家谢里夫（Muzafer Sherif）半个多世纪前著名的罗伯斯夏令营实验（The RobbersCave Experiment）中，参加夏令营的男孩们刚一分成两个组，两个组的男孩就给自己的组以满足“图腾”心理的命名，一组叫“响尾蛇”（Rattler），另一组叫“老鹰”（Eagle）。一般来说，<strong>用某种象征物来作为“图腾”满足了人类自身愿望的一种投射和自我激励</strong>，即希望自己能具有像“图腾”象征物那样的特质或品质，并以此指引努力和奋斗的方向。因此，一个群体的“图腾”也同时具有了某种符号标识作用，其他人看到这个群体的“图腾”象征物，也就大体上了解了这个群体崇尚什么。</p>
+<p>按理说，“图腾”象征物的符号标识作用是一个群体使用某种象征物来作为“图腾”的副作用，但正是因为具有这样的作为符号标识的副作用，近现代一些竭力向外传播某种形象的群体也<strong>会有意识地通过设计某种“图腾”象征物来标识自己的对外形象</strong>。一个企业、社团、一个国家都会精心选择最能体现和代表本群体精神诉求的“图腾”象征物以示人。</p>
+<p><strong>“纯洁少女”在历史上就常常被那些有“宣传部”的国家或组织用来作为某种“图腾”象征物。</strong>例如，<strong>希特勒时期的纳粹德国</strong>就曾经有德国少女联盟（Bund Deutscher Mädel，BDM）。<strong>前苏联</strong>也常常用纯洁少女形象来作为标榜其政权的常用标识，从货币、邮票、宣传画、形象代表等方面，充斥着纯洁少女的形象。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_3.jpg" rel="attachment wp-att-437395"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_3.jpg?resize=475%2C317" alt="71289909_3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_3.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_3.jpg?w=600 600w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><span>（纳粹德国时期的德国少女联盟。）</span></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_4.jpg" rel="attachment wp-att-437394"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_4.jpg?resize=475%2C391" alt="71289909_4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_4.jpg?resize=300%2C247 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/71289909_4.jpg?w=482 482w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><span>（前苏联时期的纯洁少女形象。）</span></p>
+<p>从上面图中可以发现纳粹时期的纯洁少女形象，前苏联的纯洁少女形象与“五十六朵花”营造的纯洁少女形象有着<strong>相似的特征</strong>。</p>
+<p>之所以纳粹和前苏联都热衷于用纯洁少女来作为某种“图腾”象征物，最简单的原因就是<strong>“纯洁少女”形象所蕴含的特质与纳粹和前苏联所具有的典型特质正好形成两个极端</strong>，如果用<strong>“<span><em>美、和平、向上、阳光、朝气、未来</em></span>”</strong>来形容“纯洁少女”的特质，那么纳粹和前苏联的实质都可以用<strong>“<span><em>丑陋、暴虐、堕落、阴暗、沉疴、穷途末路</em></span>”</strong>来形容。由此，<strong>用纯洁少女来作为某种“图腾”象征物，不过是用来掩盖自身相反的特质</strong>。纳粹的拥趸不会承认他们所拥护的帝国是暴虐、阴暗、沉疴和穷途末路的；前苏联的粉丝也绝不会认为他们所青睐的帝国是丑陋、堕落、暴虐和阴暗的，哪怕全世界除了他们自己之外都能一目了然地看到他们这些腐朽的特质。从心理学角度，这反映了一种<strong>以“否认”来进行防御的心理机制，他们要用对立的美好特质来自欺欺人地掩饰自己的本质，并以此来误导更多的人</strong>。</p>
+<p>不仅如此，用“纯洁少女”的特质来粉饰暴虐、阴暗和穷途末路的实质，还能够像《1984》里面通过操弄和模糊一些关键概念，通过鼓吹“<span><em>战争即和平，自由即奴役，无知即力量</em></span>”<strong>来隔绝有害讯息的干扰和侵袭</strong>。特别地，人们对纯洁少女发乎本能的喜爱，也能通过与特定的组织联系起来转移到对组织的喜爱上，这在心理学里被称为<strong>积极联想</strong>。</p>
+<p>既此，不难看出<strong>“五十六朵花”之所以用纯洁少女作为某种“图腾”象征物，不过是试图用“纯洁少女”美好的特质来掩盖他们所怀念的那个时代的本质，</strong>其心理历程与历史上曾经同样推崇“纯洁少女”的组织或时代大同小异罢。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png" rel="attachment wp-att-416940"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png?resize=400%2C403" alt="psy-eyes" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png?resize=298%2C300 298w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/11/psy-eyes.png?w=427 427w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%EF%BD%9C%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8%E7%BA%AF%E6%B4%81%E5%B0%91%E5%A5%B3%E5%81%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81%E5%85%AD%E6%9C%B5%E8%8A%B1/?category=18271" rel="tag">五十六朵花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AE%B0%E8%80%85%E7%BB%84%E7%BB%87%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/" target="cdt-mirror">美国之音｜记者组织对外开放巴拿马文件信息</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3AF85D4A-A870-419A-8E73-95F818CBE789_w640_r1_s.jpg" rel="attachment wp-att-437390"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3AF85D4A-A870-419A-8E73-95F818CBE789_w640_r1_s.jpg?resize=575%2C323" alt="3AF85D4A-A870-419A-8E73-95F818CBE789_w640_r1_s" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3AF85D4A-A870-419A-8E73-95F818CBE789_w640_r1_s.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3AF85D4A-A870-419A-8E73-95F818CBE789_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>香港人在莫萨克·冯赛卡律师事务所的香港地区总部附近示威，举着的标语牌上有习近平等人的像（2016年4月12日）</p></div>
+<blockquote><p><strong>相关专题</strong>：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a></p></blockquote>
+<p>所谓的巴拿马文件揭示了全球权贵们利用离岸避税天堂隐藏财富的秘密。有关报道上个月曝光后，导致冰岛和西班牙高层官员下台，给英国首相卡梅伦带来难堪，并指称俄罗斯总统普京的一名同僚涉嫌洗钱。</p>
+<p>国际调查记者联盟说，星期一向公众开放资料库将可能带来更大的影响。该联盟掌握了从一个巴拿马律师事务所泄露的1150多万份文件，这些文件最初只提供给记者。</p>
+<p>该联盟星期一下午美东时间2点在其网站上开通了一个包含20万个离岸公司的可搜索数据库，预计这些公司的持有人来自200多个国家和地区。这个数据库融合了巴拿马的莫萨克·冯赛卡律师事务所被盗文件的信息，以及国际调查记者联盟之前有关国际避税调查的信息。</p>
+<p>这些信息可以根据国家、姓名、地址和其它等进行检索。诸如银行帐户和个人身份等敏感信息已被去除。</p>
+<p>巴拿马文件调查项目最初吸引了大约80个国家的100多家新闻机构的370多名记者。有关报道于四月初开始推出。他们的报道发现了各种各样的权贵要人在离岸公司中的参与，其中有140名政治人物，包括12名现任和前任政治领袖；亿万富翁；体育明星；毒品走私犯和黑手党成员。同时至少还有33人和公司由于有证据显示违法介入与墨西哥毒枭或朝鲜和伊朗等无赖国家做生意而被列入美国政府的黑名单。</p>
+<p>美国总统奥巴马星期五对巴拿马文件调查作出回应，呼吁国会通过立法，提高透明度，减少腐败。他呼吁要求所有美国成立的公司公布“受益人”，即指那些可能会从税收优惠中受益的人。他还要求美国国内银行和外资银行必须与打击腐败的执法部门共享信息。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AE%B0%E8%80%85%E7%BB%84%E7%BB%87%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%AB%96-%E6%9A%A7%E6%98%A7%E7%9A%84%E6%8A%93-%E8%B9%8A%E8%B7%B7%E7%9A%84%E6%AD%BB-%E4%BB%A5%E5%8F%8A%E9%BA%BB%E5%88%A9%E7%9A%84%E5%88%A0/" target="cdt-mirror">导弹熊 | 模糊的嫖 暧昧的抓 蹊跷的死 以及麻利的删</a>
 </h2>
 <p><p>北京市民雷洋涉嫌嫖娼被抓途中死，这件事骤然热起来。</p>
@@ -747,127 +791,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%97%A2%E4%BA%89%E5%90%8C%E5%A9%9A%E5%B9%B3%E6%9D%83%EF%BC%8C%E4%B9%9F%E8%83%BD%E8%B6%85%E8%B6%8A%E5%A9%9A%E5%A7%BB/" target="cdt-mirror">微思客 | 既争同婚平权，也能超越婚姻</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-%E4%B8%8A%E5%8D%8810.13.51.png?resize=498%2C329" alt="Screen Shot 2016-05-07 at 上午10.13.51" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午10.13.51.png?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午10.13.51.png?w=498 498w" sizes="(max-width: 498px) 100vw, 498px" data-recalc-dims="1"><br><span>一对男性同性恋者在北京举办一个私人的结婚仪式。摄 : Jason Lee/REUTERS</span></p>
-<p>作者：半爷</p>
-<p>孙文麟拿到的判决书，只有寥寥五页，比起美国加州围绕同性婚姻“八号提案”长达十二天的庭审和三千多页的卷宗，似乎略显苍白。</p>
-<p>有人说“中国同性婚姻第一案”徒有虚名——各方都明知法院只是被推到了风口浪尖，依照法律不得不走个过场，因此任何强行攀附的意义都可能是一厢情愿。然而我宁可认为，在鲜有同志权益大事件的荒漠的一滴甘霖，哪怕是大开脑洞地解读也并不为过。</p>
-<p>况且，对细节的深描，或许能缓解空谈理论的傲慢与偏见。为此，我访谈了孙文麟和一位旁听律师，希望从他们对此案的叙述里捕捉一些意义。</p>
-<p><strong>中国同性婚姻第一案：</strong><strong>法庭上的掌声与默言</strong></p>
-<p>法庭向来充满仪式感，孙文麟甚至把它变成了一个“准婚礼”殿堂——他给对方律师及合议庭成员都送上了喜糖，他们笑盈盈地收下了。这场庭审也是一个课堂，在近两百名前来旁听的成员里，有湖南女子学院一整个班的学生，老师希望带她们见证历史性事件。不少学生表示，这是生平第一次见到“活的同性恋者”。庭审结束后，她们还在法院门口举着彩虹旗拍了集体照。旁听席上还有不少该院的法官和法警，尽管对于同性婚姻态度不一，但大都认真听审，甚至有旁听的法官对此合议庭的潦草判决表示不满意。</p>
-<p>庭审过程中，尽管书记员宣布法庭不许鼓掌，但当孙文麟和律师说到精彩动容之处，旁听群众还是有些按捺不住。一个女生开始鼓掌，三个法警立即上前呵斥。慢慢地，鼓掌的人越来越多，法庭也不再阻拦。</p>
-<p>“我国法律只有在违法犯罪等限制权利的时候才会想到同性恋，其他时候根本不提，我们也是公民，法律凭什么不保障我们？”孙文麟说完，掌声热烈；孙的律师石伏龙的总结陈词，“相信法律会公平，合议庭会公正，虽然今天赢的可能是他们，但赢得未来的必定是我们”，这句话赢得了当日最长的掌声。</p>
-<p>这让我联想到吉野贤治在其回忆录《掩饰──同性恋的双重生活及其他》中提到的，2003年，美国联邦最高法院审理劳伦斯诉德克萨斯州案（最终宣布鸡奸罪违宪）时，旁听席里的“同志”们对保守派大法官斯卡利亚的问题爆发出的大胆嘲笑。尽管我们不能仅凭席间的掌声或笑声乐观地揣测民意，但它们的存在至少提醒着官方，有些声音已经不容忽视了。</p>
-<p>与这些戏剧性的场面相对应的，是被告与合议庭的敷衍。法庭辩论过程中，孙文麟倾向于实体法的争论，其律师则主要质疑民政局的程序漏洞。实体与程序，正义的这两个面向本应不分高下，但后者在中国却常常不了了之。此案中，民政局在行政程序上有诸多漏洞，尽管律师一一提出质疑，但法院并未采纳。另外在庭审中，原告律师要求查明对方的证据原件、证据真实性，法官表示可以庭后再查，却在十五分钟休庭后当庭宣判，让“庭后再查”成为戏言。</p>
-<p>通常，当庭宣判只适用于事实法律清楚、争议不大的案件。此案的当庭宣判，或许是基于官方眼里的“常识”：按照现有一夫一妻的婚姻法，同性伴侣“显然”不能注册，因此当庭驳回原告诉讼请求。这种理直气壮的显然，搁置了本可深入辩论的，关于传统、婚姻的功能与目的、公权力的界限等问题；也颇有利用当庭宣判的权威，打击同志运动积极性之意。当然，匆忙宣判，也可以解读为官方从含蓄压制同性恋，到近年突然屡屡被逼表态之后的捉襟见肘。</p>
-<blockquote><p>正是上述细节让我们看到，一场同性婚姻诉讼，绝不是一对出柜同志以卵击石那么简单。如果只是把庭前掌声当成花边新闻，那么我们就小看了，诉讼中的辩驳质证也是一种宣传教育而其开启的民意，可能会成为未来修法的基础。如果不去质疑法院对程序问题的沉默不语，我们就会轻易得出此案“败诉早在意料之中”的结论，放弃了以程序违法争取胜诉的可能，也忽略了诉讼本身就是对程序正义理念的推动。而我更愿意相信，真正的变革，正是发生在这掌声和默言的对峙里。</p></blockquote>
-<p><strong>对“同性婚姻”的期待与忐忑</strong></p>
-<p>不止一次听到一些“基友”感叹，如果哪天同性婚姻在中国合法了，自己或许就更有勇气向家人出柜——因为，合法化毕竟意味着国家社会对同性关系的承认。这的确是一部分同志的心声；其也意味着，争取同性婚姻承载了为同性恋“去污名”的意义（即卡维波说的“剩余承认”）。</p>
-<p>也许有人会说，这是不敢出柜者懦弱的说辞，或者他们想结婚的愿望，只是被结婚生子养老送终的人生轨迹洗了脑。然而子非鱼，对于一个长期不被认可的群体，被宣布为合法公民的抚慰和激励，很难说只是虚假意识。</p>
-<p>况且，婚姻不是只有象征意义，它也是一系列权利的通行证。写作此文时，手机上传来一则消息：一名24岁女生，女友车祸去世，她连夜奔赴医院，却因不是直系亲属（配偶、父母、子女、祖父母、孙子女、兄弟姐妹）而不能见到遗体。三年前，东莞一位中年男同性恋者突患中风，医院却不让其男友查看病历。如果同性伴侣关系被认可，不管是婚姻还是民事结合的形式（如台湾高雄的“阳光注记”），至少在关系到伴侣生命和健康的时刻，可以少些痛苦。</p>
-<p>但与此同时，同性婚姻的群众基础也许并不是那么深厚，甚至不少同志自己都对其无感。华东师范大学教授魏伟的研究发现，许多“圈内人”并不看好同性婚姻，反而会主动选择与异性结婚——在一个充满变数、缺乏福利保障的社会，许多同志悲观地相信同性感情难以长久的“宿命论”，认为异性婚姻和家庭养老是一条平坦得多的道路。而就算有了同性婚姻，如果身为同志依然会处处碰壁，许多人恐怕还是会选择不出柜，甚至跟异性结婚。</p>
-<p><strong>对婚家制度的屈服？</strong></p>
-<p>另一方面，婚姻这个工厂，生产的不只是权利和社会道德评价的标准化套餐，它也在标准化着套餐的消费者。进入婚姻的同性恋者必须服从婚姻的规则。不管同性结婚在社会文化观念上有多大的颠覆意义，他们对法律的强制性规定，的确没有太大改造空间，包括与婚姻捆绑的一系列关系到生老病死的权利。</p>
-<p>甚至，结婚的同志也不得不服从并强化那些支撑主流性道德的法律。同志一旦结婚，就必须遵循一对一的规则，也必须为婚外同性恋情承担离婚时的不利，过去只限男女之间的“破坏军婚罪”也会随之扩张（在台湾甚至可能触犯通奸罪）。当然，这些可以说成是同性恋享受主流权利所必须遵守的主流义务，但它的代价，或许是让非婚的性承担更多污名。</p>
-<blockquote><p>因此，同性婚姻作为同志运动的目标之一，长期以来都是两头不讨好：保守主义者认为它动摇了“传统”婚姻中夫妻的定义；而相对激进的酷儿或一些女权主义者，则认为争取同性婚姻是在向已然腐坏的婚姻制度屈服，丧失了同性恋本可以有的“毁家废婚”的革命性。</p></blockquote>
-<p>譬如针对前述的遗体探视问题，“超越婚姻”的思路可以让我们反思，为什么非要先结婚才能看到遗体？为什么所有婚姻家庭以外的关系都被认为不够亲密？配偶和血缘关系为何在这些场合具有天然的正当性和优先性？受到歧视的仅仅是同性伴侣，还是所有直系亲属以外的所有亲密关系？要呼吁修改的是婚姻法，让同志享受特权，还是具体的关于探视的规定，打破特权？这些问题，或许会引发同志运动的路线之争。</p>
-<p>当今中国的同婚运动，暂时没有遭到来自基督教或反性势力的攻击（尽管网络上对同性恋的谩骂不断），也暂时没有出现如美国“超越婚姻”（beyond marriage）、“反对平等”（Against Equality）或台湾“想象不家庭”的酷儿反婚阵线，然而要不要同性婚姻的探讨，已经萌芽。有作者认为，以异性恋为范本的婚姻制度是“阴险的政治圈套”，“摒弃婚姻制度也许才能真正摆脱私有制及其男性霸权的宰制，这本是异性恋的原罪”，而中国同志追求同性婚姻则是背弃了本可能在“一个战壕”里的激进女权运动。然而这种抽象的反婚论述，忽略了“同性”、“婚姻”、“女权”，每个词都是复杂的多面体。受篇幅所限，下文对女权主义在中国的脉络暂不展开分析。</p>
-<p><strong>“婚姻”与“同志”从不单一</strong></p>
-<p>孙文麟在一篇文章中谈到，他并不认为自己是“阳光好同志”——“我抽烟，喝酒，不健身，讨厌假健康，不喜欢爱情歌曲或其它相关的作品，也不遵守忠孝的游戏规则”。当然，或许在挑剔者眼中，抽烟喝酒只是小打小闹的叛逆，拒绝被婚姻的糖衣炮弹收买才够革命，而争取同性婚姻仍然是向主流靠拢、获得良民资格、成为“好同志”的行动。然而我更倾向于认为，孙文麟对“好同志”地位的既争取又不认同，恰恰体现了同化与颠覆之间，并不是泾渭分明的。</p>
-<p>孙的诉求向社会宣告了同性恋和婚姻家庭不是反义词；但这并不等于，同性恋想要的婚姻与异性恋一模一样。若将同志以“想不想结婚”为主要标准分为好坏两种，似乎是暗示只有够“坏”，才能挑战到婚姻家庭。这反而可能忽略了：选择结婚的同志也可以在日常生活中实践个人的政治；迎头对抗只是“弱者的武器”里并不那么常用的一种。</p>
-<p>例如，孙文麟在此案一审败诉之后，成立了一个组织，准备在全国筹办100场婚礼。同志举办婚礼并在媒体曝光，本身就有强烈的符号意义，可以说是加强版的、戏剧化的出柜。两男或两女承诺“我愿意”的同时，也直截了当地宣告“我是同性恋，谁说只有你们才能办婚礼”。其把本被认为“见不得光”的同性恋，变成了公共领域的事情；难怪很多保守人士，会觉得同性恋者穿着婚纱礼服亲吻拥抱不堪入目。</p>
-<p>然而酷儿理论家麦克·沃纳（Michael Warner）也提醒，婚礼其实是一种相对安全的出柜形式，毕竟，单单“出柜”，相当于向全世界宣布你的性欲；而通过结婚出柜，则暗示你已经找到了一个人，管好了你的私生活——你已通过“神圣”的仪式，把社会不愿意看到的同性情欲安放在了卧室里。这两种解读，再次体现了同化与颠覆之间的冲突，然而在同性恋出柜仍面临辱骂甚至“扭转治疗”的当下，前一种意义不容小觑，尽管后一种提醒也值得深思。</p>
-<p>笼统地批判“同性恋者追求婚姻，是向现有异性恋婚家制度屈服”的人，似乎忘记了一件事：从来不会有人苛求异性恋群体中的每个人，都要一致选择扛起打破婚家制度的重任。这些批评家们也忘记了，同性恋在中国连“屈服”于同性婚姻的选择都还没有，而“屈服”于异性婚姻又会被指责为骗婚，可谓是“双重捆绑”。</p>
-<blockquote><p>更重要的是，婚姻带给普通人的，向来不是单一的感受。不管是从电视剧、综艺节目还是网络情感问答中，我们都可以看到在婚恋面前不分直弯的人性——既渴望亲密，又害怕受伤，既渴望停泊，又向往漂泊。就算是坚定的不婚主义者，也不妨换位感受，汝之砒霜可能是彼之蜜糖。作为学者，当我们试图操起艰涩理论批判同志“不够革命”时，或许可以反问，自己脑中纠结的、身边亲友经历的，那些对爱情和婚姻的矛盾感受，都去哪儿了？</p>
-<p>同样，同志也不是一个整齐划一的群体：有守在法庭前或手机前，焦急等待孙文麟和胡明亮判决结果的同志，也有完全不知道或不关心同性婚姻第一案的同志；有向往婚姻的，也有放荡不羁的；有渴望真爱的，也有与真“艾”共生的；有大胆出柜的，也有与异性结婚的；有富同志，穷同志；有卖淫的同志，跨性别的同志——当然，还有千千万万游离在这些立场和身份之间或之外的同志。当我们说“同志想要什么”、“同运应该如何做”的时候，我们说的是谁？</p></blockquote>
-<p>如此不断质问或许显得优柔寡断，难以站定立场，但恰恰是婚姻的复杂性和同志的多样性，使得“站定”这个隐喻变得可疑——为什么一定要在同性婚姻和超越婚姻之间做非此即彼的选择？同志可不可以说，我们既“正常”，又“流氓”；我们既要婚姻，又不要现在这种问题重重的婚姻？</p>
-<p><strong>同志运动：既争平等，也要超越</strong></p>
-<p>异性恋正统制是狡猾的，它从制造出“异性恋/ 同性恋”两种暗含道德高下的分类开始，就让同志始终处于怎么做都是错的两难——如果只说同志“不是妖怪”（蔡康永语），强调与异性恋“没什么不同”，应该享有同样的婚姻权，当然有助于获得社会认可，但也是间接承认了异性婚家是正统的参照系。如果同志说：“我才不屑模仿异性恋去结婚呢，我们应该开拓新的关系形式”，也还是上了异性恋正统制的当。因为同志从来都被当成婚姻殿堂外的孤魂野鬼，在没有结婚选项之前，坚持不结婚或会强化次等公民的形象。当然，许多酷儿甘做“魑魅魍魉”，不愿被体面收编，但这种反叛也让一些希望建立稳定家庭、低调过日子、儿孙绕膝的同志难以产生共鸣。如果这些都是值得肯定的生活方式，那么到底要不要同性婚姻，则永远众口难调。</p>
-<p>或许我们可以把改良（同性婚姻）和革命（超越婚姻）看成并驾齐驱，而不是你死我活的关系；或许正是在某种并行的选择下，多元复杂的同志，可以变成有共同朝向的公共力量。事实上，西方国家自上世纪八十年代，同志社群开始大范围讨论同性婚姻以来，两种路线就一直不相上下。虽然今天，婚姻平权看上去成为了主流，但我们并不能说酷儿的反婚思想已经偃旗息鼓。相反，三十多年来，不管是理论上还是政治实践上，两条路线都在竞逐中得到了充实和发展。</p>
-<blockquote><p>另外，西方酷儿左翼经常批评“同运投注了过多人力物力财力在同性婚姻上，但生活更艰难的底层同性恋和跨性别群体却得不到资助”，但在中国社会运动空间普遍被压缩的大环境下，这句话不能照搬——在所有同志议题都没有足够发声渠道时，任何议题突出重围，都有可能提高同志整体的能见度，进而带动社会关注同志的其他诉求。因而就算在此刻，同性婚姻因为孙文麟案而成为焦点，并不等于未来漫长的同志运动中，同性婚姻始终都是优先事项。</p></blockquote>
-<p>据由同志友好律师组成的“彩虹律师团”的成员透露，他们在准备孙文麟案上诉的同时，也会继续推动其他议题的诉讼或后续倡导，包括同性恋完全“去病化”（目前同性恋在《中国精神障碍分类与诊断标准第3版》中仍属于性取向障碍）、修改恐同教科书，以及挑战最近出台的关于禁播同性恋网剧的决定。</p>
-<p>这些议题看似与“超越婚姻”相去甚远，但如果我们承认，对婚姻家庭观念和法律制度的改造不可能一步到位，那么这些“游击战”式的小运动，实际上是在潜移默化地改写婚和家的内涵，也是在一点一滴重新勾勒能够进入婚家的主体样子。</p>
-<p>总之，把结婚与妥协、反婚与激进画等号，既扁平化了同志群体，又简化了矛盾复杂、不断进行中的运动，还浪漫化了推翻婚姻之后的乌托邦。</p>
-<p>孙文麟曾说，自己既想要结婚，又说反感婚姻制度。我问他二者矛盾吗？他说，不矛盾。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%97%A2%E4%BA%89%E5%90%8C%E5%A9%9A%E5%B9%B3%E6%9D%83%EF%BC%8C%E4%B9%9F%E8%83%BD%E8%B6%85%E8%B6%8A%E5%A9%9A%E5%A7%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97%E5%B9%B3%E6%9D%83/?category=18271" rel="tag">同志平权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">同性婚姻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B/?category=18271" rel="tag">同性恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E6%96%87%E9%BA%9F/?category=18271" rel="tag">孙文麟</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/betterread-%E6%B2%BB%E7%96%97%E7%9A%84%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%E4%BB%8E%E7%93%A6%E8%A7%A3%E9%82%AA%E6%81%B6%E5%90%8C%E7%9B%9F%E5%A7%8B/" target="cdt-mirror">BetterRead | 治疗的最高境界从瓦解邪恶同盟始</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-%E4%B8%8A%E5%8D%8810.05.34.png?resize=488%2C247" alt="Screen Shot 2016-05-07 at 上午10.05.34" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午10.05.34.png?resize=300%2C152 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-07-at-上午10.05.34.png?w=488 488w" sizes="(max-width: 488px) 100vw, 488px" data-recalc-dims="1"><br><span>100多年前，苏格兰医生梅藤更在杭州广济医院查房。</span></p>
-<p>作者：<strong>王烁</strong></p>
-<p>一</p>
-<p>每个家庭都经历过我的这次就医。</p>
-<p>二宝蔫了。</p>
-<p>摸额头，烫手。测体温，39度多。抱着往医院赶。</p>
-<p>其实，二宝一天前才去过这家医院。咳嗽已经三个月，在这家医院先看的是位外籍女医生，听诊器胸前背后听了很久，说是有些支气管肿胀，其余无大碍。为了确保我们理解，还手绘了上呼吸道和肺部的草图。开了点药给二宝做雾化，好让呼吸顺畅点。</p>
-<p>现在二宝高烧了。为什么？</p>
-<p>急诊室里，大夫做了血常规检查，又给了点退烧药，服下后要观察半小时。等待结果时，这位中年男大夫跟我说，二宝多半是上呼吸道感染，喉咙里呼噜声是有痰。血检是为了判断是不是细菌感染，如果是细菌感染，才会考虑用抗生素；如果是病毒感染，那就没有特效药，只能对症治疗。</p>
-<p>什么是”对症治疗”？</p>
-<p>医生说，与对因治疗相对，对症治疗只能缓解症状，对二宝这次来说，就是降温、怯痰、舒张支气管之类。至于对付病因，就要靠自己的免疫力了。</p>
-<p>我恨不得把二宝托付给医生你，而你说二宝还得靠自己？</p>
-<p>医生看我表情迷茫，说，”其实治疗小朋友是其次，主要是’治疗’小朋友的父母。”</p>
-<p>这是真的。</p>
-<p>大夫接着说，”我也有孩子。如果我是你，如果小朋友体温降下来了，建议回家观察。回家后体温在38度以内，擦身，多喝水，物理降温；38度5以上，吃退烧药；只要孩子精神好，就不会有事，如果精神忽然不好了，必须马上来医院。”他把电话留给我，”有任何事随时打电话。”</p>
-<p>“如果我是你……”，这句话是医生能给病人最诚恳的建议了。</p>
-<p>半小时后，体温降了，我抱着二宝回家。第二天一早，带二宝再到这家医院，见到第三位医生，一位老大夫。听诊，血检，全套又来了一次，对此二宝已经很熟悉，看见护士过来，先发制人地哭了。护士趁机取了点二宝的鼻涕，多做了一项合胞病毒检查。</p>
-<p>结果是阳性。</p>
-<p>医生和我都长出了一口气，确诊为病毒引发的肺炎。医生最担心的是不确定，我最受不了的也是提心吊胆。</p>
-<p>二宝几个月来一直有这些症状，跑过好几家医院，做遍了过敏测试、细菌感染测试、病毒感染测试，从来没有得到过确切结果。医生们含混地说：可能是细菌感染，可能是病毒感染，可能两者都有，可能，可能，可能，但从来没有检查结果的确切支持。</p>
-<p>这次好歹确诊。</p>
-<p>对付病毒感染，回到”对症治疗“。医生开药与此前其他医生开的并无多大区别：一味烧药降温，一味雾化扩张支气管，一味止咳怯痰。我给二宝用类似的药前后好几个月了，凭什么这次会有效？</p>
-<p>我没有追问，知道答案是什么：第一，一岁多的小朋友本来就没有多少药可以选择。第二，那句老话：对症（状）治疗，解决症因靠自己。</p>
-<p>三天后，缠绵二宝近三个月的症状，那些咳嗽、呼噜呼噜的呼吸声、流不完的鼻涕，消失了。</p>
-<p>我想知道它们为什么消失，只要消失。</p>
-<p>又一次坐在年长医生前，为二宝复查，医生听完叙述，在电脑上敲了一会儿，说，”我还是把诊断改为支气管炎吧。”</p>
-<p>原来医生也不知道。</p>
-<p>二</p>
-<p>我看到了这些：</p>
-<p>第一，医生是非常专业的共同体，接受同样的训练，分享同一套知识体系，按同一套规程操作。二宝几个月来见过七位大夫，诊断和治疗遵循同一套流程，同一根决策树：发烧？血检结果？病毒检测？根据检查结果决定走决策树接下来的哪一个分叉。另外，他们都尽量避免给小朋友使用抗生素，尽量不拍X光。</p>
-<p>第二，哪怕是如此常见病，大夫们判断也并不相同。有的认为是支气管炎，有的认为是肺炎，有的认为两者都有。而病因，有的认为是病毒感染，有的认为病毒和细菌感染都有。显然，医学不是一门精确科学，而治疗是摸着石头过河。</p>
-<p>第三，治疗这件事，结果当然最重要，但如果治疗不是一个药到病除的事情，而是在隧道中前行的旅程，面对众多的不确定性、难决的取舍，最终仍是在许多不好的结果中找到一个不是那么不好的结果，那么，医生与患者如何一起走过这个旅程，也至关重要，有时简直同样重要。</p>
-<p>每一次治疗都有三层：治病本身；治疗的决策过程；患者的情绪管理，而贯穿始终的，必须有信任。</p>
-<p>三</p>
-<p>病人检查出癌症，恶化速度很快，必须要马上做决定。坐在候诊室里，满怀恐惧，周围都是癌症患者，一个比一个病重，病人仿佛看到了下场。轮到他了，医生叫进去，又做了点检查，然后谈话，满脸疲态。</p>
-<p>医生说，你这情况很常见。</p>
-<p>死亡，对病人比天还大，对医生只是个数字变动。这不是谁的错，所处位置不同，看问题角度有差。</p>
-<p>可命是你的，怎么办呢？</p>
-<p>治疗决策，人生最想回避、准备最不足但又最重要的决定，太沉重。</p>
-<p>四</p>
-<p>如果疾病带来的苦痛有十分，那么直接间接地，至少有五分要归于信息鸿沟。</p>
-<p>在魏则西悲剧中，百度-莆田系-医院组成的利益链条，无一不是利用信息操纵牟利。百度假装提供中立的搜索信息，其实是放任、默许、纵容骗子，收其买路钱，向其导流；骗子假装提供先进医疗服务；医院则是外包科室，向骗子出售声誉。最后，患者入毂，被榨取最后一点价值。</p>
-<p>这条由信息操纵钩连起来的邪恶同盟存在了很久。对中国医疗体系做任何手术，都必须将其瓦解，但这仍只是病人良性医疗决策的起点，远非终点。</p>
-<p>健康扫盲（Health literacy），病人作循证决策，而不是靠道听途说的故事。它至少包含三部分，第一，了解治疗数据的含义，得有一点统计学常识；第二，了解数据的呈现方式，导向对患者决策影响很大；第三，了解治疗方案的风险。</p>
-<p>充分告知患者病情及各种治疗方案利弊，然后了解患者的需求，再制定治疗方案，美国国家科学院医学部称之为知情患者偏好，高质量治疗的标准。即便如此，也只是走到了中途，困难贯穿始终：</p>
-<p>——面对急症重症，患者必须做重大决策，而这常常是一次性的、不可逆的；比如，手术成功能治愈，但手术本身有20%的死亡风险；不动手术则有80%的风险活不过5年。没有谁擅长在这般两难前作选择。</p>
-<p>——更何况，治疗方案的风险收益时常无法量化；</p>
-<p>——哪怕医生医德高尚，医生与病人的目标天然不尽重合。</p>
-<p>Jerome Groopman专注研究医生与患者的医疗决策，曾写过How Doctors Think，讲医生思维，Your Medical Mind：How to Decide What is Right for You则从患者角度着手，运用认知科学方法，分析几十位病人作出医疗决定的过程。</p>
-<p>书中有一位患者，本人是企业战略顾问，决心把商业决策逻辑与流程用于自己的医疗决策，结果放弃：医疗决策跟商业决定完全不同，无法做到像后者一般理性。</p>
-<p>第一，疾病的所有方面都了解清楚了吗？第二，了解所有可能的治疗方案吗？第三，医生和病人共有清晰的目标吗？第四，各种治疗方案分别有何后果都了解吗？第五，对结果有没有客观的评估标准？</p>
-<p>答案都是否定的。</p>
-<p>这是患者的天问，也是医生心中最大的无底。医生不担心死亡，它每天都在眼前发生。如果风险确定，不论多高，医生并不担心冒险，如果舍开刀无他途，那开刀就是。可治病几乎没有这么简单的时候，它是一连串的权衡取舍，而在这条路上，医生和患者共同最担心最害怕的，就是不确定性：在无法量化的诸风险中，作出不可能完美几乎总会后悔的选择。</p>
-<p>五</p>
-<p>医疗决策如此之难，信息不对称如此之高，深刻地刻画了病人与医生的关系。医患之间的紧张关系，以中国当下为最，但它在哪里都不陌生。病人热望找到医术高超医德高尚的医生，把自己彻底交给他。一开始神化医生，治疗无效又妖魔化医生，根源在此。</p>
-<p>医生既非天使，亦非魔鬼，跟患者一样，是凡人。</p>
-<p>人各有天命，治疗只能首先关注过程：尊重各种病症的最佳操作准则，基于实证数据，提供基础概率；同时，要理解决策本身总是主观的。充分告知，患者自决，不仅是因为患者主权，也不仅是因为患者差异，还因为治疗方案的利弊，往往连医生之间也有分歧，难有确切答案。</p>
-<p>许多时候，就医不再是不得不忍受的从正常生活状态的短暂脱离，其本身就成为生活非常重要的一部分，特别是对那些难以治愈的病症来说，就医体验与治疗效果几乎一样重要。就像婚姻，无论找谁做伴侣，生活都有可能经历波折考验，但与一位相互信任的人共同面对，极为重要。就医注定是人生的低谷体验，信任更显珍贵。</p>
-<p>治疗手段、治疗决策，医患关系管理，这是治疗中难解难分的三位一体。好医生是这样一种人：不仅掌握患者病情、治疗知识和数据，循证医疗（evidence-based medicine），还能再走一步，作循判医疗（judgement-based medicine）。这是治疗的最高境界：充分告知，透彻沟通，穷尽医术，但医生与患者理解并包容彼此的无力与脆弱，在患者人生的低谷，携手寻找与不如意处共存的方法，并接受命运的最终裁决。</p>
-<p>通往这个境界的路极为漫长。让我们先回到现实，从瓦解信息操纵的邪恶同盟开始。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/betterread-%E6%B2%BB%E7%96%97%E7%9A%84%E6%9C%80%E9%AB%98%E5%A2%83%E7%95%8C%E4%BB%8E%E7%93%A6%E8%A7%A3%E9%82%AA%E6%81%B6%E5%90%8C%E7%9B%9F%E5%A7%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/betterread/?category=18271" rel="tag">BetterRead</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">医患关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">医患矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97/?category=18271" rel="tag">医疗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">医疗体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">医疗改革</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -879,7 +802,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/betterread/?catego
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -889,5 +812,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/betterread/?catego
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

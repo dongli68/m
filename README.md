@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%A4%E5%87%B0%E8%AF%84%E8%AE%BA-%E5%AF%B9%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%88%91%E6%83%B3%E7%9F%A5%E9%81%93%E9%9B%B7%E6%B4%8B%E5%A6%82%E4%BD%95%E6%AD%BB%E4%BA%A1%EF%BC%8C%E8%80%8C%E9%9D%9E/" target="cdt-mirror">凤凰评论 | 对不起，我想知道雷洋如何死亡，而非怎样嫖娼</a>
+</h2>
+<p><p>作者：胡涵</p>
+<blockquote><p>我们只需要完整的不带加工的证据，而不是当事一方根据舆情动态不断裁切出来的“通报”。</p></blockquote>
+<p>呼吁多时，雷洋案的证据终于说话了。对着镜头，足疗女向全国人民指出了雷洋的私隐，“我给他打了个飞机”。</p>
+<p>很难想象雷洋的亲属如何观看这段镜头。雷洋那位开明的新婚妻子，将如何面对这些：自己死去丈夫的裤裆，在众目睽睽之下被扒开。更难以想象若干年后，雷洋的孩子会怎样看待这位父亲。</p>
+<p>一个男青年的隐私，只是因为舆论的质疑就被在网络中扒个精光，既不尊重死者，也不体贴生者。更对不起公众。因为迄今为止，警方公布的信息，都是孜孜不倦证明雷洋曾经嫖娼、如何嫖娼。</p>
+<p>无论是前后通报还是接受官方媒体采访，警方都不断地在嫖娼二字上做文章。比如，警方查到了避孕套证明其嫖娼，警方询问了足疗女证明其嫖娼，警方在门外盯点发现其嫖娼，雷洋亲口承认自己嫖娼。</p>
+<p>不断强调嫖娼的企图有多明显？</p>
+<p>北京卫视播出的对足疗女的询问中，他们是这样提问的，“戴还是不戴眼镜？”、“根据你们俩这种简单的交流，你感觉，这个人是不是类似你们这样的场所去过，或者经常去？”</p>
+<p>这样的提问我们一点儿也不陌生：诱导式采访。就算是要证明雷洋确实这次嫖娼了，又何必非要卖淫女亲口指控雷洋是个“老司机”呢？这与雷洋案无关，更与公众质疑无关，唯一的解释是，试图用这样的信息达成某种传播效果。但让嫌疑人上电视这种事做多了，人们看清了很多东西。雷洋是否嫖娼，和我们所质疑的有关吗？</p>
+<p>现有的被公布的证据，都在不断强加给公众这样的印象，雷洋死于嫖娼。很遗憾，我一点也不想知道雷洋是否嫖娼，如何嫖娼，足疗女长相如何，我只想知道在从足疗店出来到去世前，雷洋究竟经历了什么？这段经历，才是雷洋去世的直接原因。</p>
+<p>而这部分内容呢？警方的描述是这些：咬伤警察、打坏设备、踢踹驾驶员、跳车逃跑。</p>
+<p>结合起来看，这是一段被加工的证据，镜头里只有雷洋，那几个便衣民警做了什么？他们是如何执法的？</p>
+<p>先是小区监控探头坏了，接着说是视频拍摄设备摔坏了，大家又说存储卡呢？警方又说是手机拍摄的，手机也摔坏了。鉴于此，我建议开发行人记录仪，每人随时佩戴在胸前，以帮助解决这届小区监控、执法记录仪和执法人员手机经常摔坏的问题。</p>
+<p>我们只需要完整的不带加工的证据，而不是当事一方根据舆情动态不断裁切出来的“通报”。</p>
+<p>当然事件的疑点还远远不止这些。今天一大早，有媒体探访发现，“北京昌平警方将涉雷洋案的昌平龙锦三街16家足疗店招牌全部拆除”。有附近居民介绍，这条街的足疗店大约在最近4年兴起，“十分猖獗”。对于警方此前是否有专门的整治，居民反问：“有专门整治还能出雷洋这事？”</p>
+<p>既然警方能轻而易举就能接到群众举报擒获雷洋，按这执行力，端掉16家足疗店应该是分分钟的事，何必非要等到雷洋去世，才一鼓作气全部拆除？</p>
+<p>为什么会有这些足疗店存在？为什么一直在查处却始终营业？这可能才是雷洋之死的又一个深层原因。如果真像很多网友所质疑的，这是“养鱼执法”，那警方就要对死亡担负更大的责任。</p>
+<p>我们要的是雷洋的死亡真相，是执法和足疗店乱象的真相，不是嫖娼的具体细节。该公开的不公开，不该公开的却在大肆宣扬。回避死亡而大谈嫖娼，这是逼着大家“今夜都是雷洋”。</p>
+<p><strong>『凤凰评论原创出品，版权稿件，转载请注明来源，违者必究！』</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%A4%E5%87%B0%E8%AF%84%E8%AE%BA-%E5%AF%B9%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%88%91%E6%83%B3%E7%9F%A5%E9%81%93%E9%9B%B7%E6%B4%8B%E5%A6%82%E4%BD%95%E6%AD%BB%E4%BA%A1%EF%BC%8C%E8%80%8C%E9%9D%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95/?category=18271" rel="tag">执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA/?category=18271" rel="tag">执法记录仪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84/?category=18271" rel="tag">扫黄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%B8%9F%E6%89%98%E9%82%A6-%E9%A3%93%E9%A3%8E%E6%9C%AA%E8%B5%B7%E4%B9%8B%E5%89%8D-%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%A1%A3%E5%86%A0%E6%A5%9A%E6%A5%9A%E5%9C%B0%E8%A3%B8%E5%A5%94/" target="cdt-mirror">鸟托邦 | 飓风未起之前 所有人都在衣冠楚楚地裸奔</a>
 </h2>
 <p><p>作者： 录人甲</p>
@@ -719,21 +748,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%BA%E7%BB%99%E4%B9%98%E5%AE%A2%E5%87%8F%E8%82%A5-%E5%A4%A7%E9%99%86%E9%AB%98%E9%93%81%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83/" target="cdt-mirror">【图说天朝】为给乘客减肥 大陆高铁操碎了心</a>
-</h2>
-<p><p>@何兵 ：高铁上45元的盒饭。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/b3e3e393c77e35a4a3f3cbd1e429b5dc.10058.jpg?resize=639%2C480" alt="b3e3e393c77e35a4a3f3cbd1e429b5dc.10058" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/b3e3e393c77e35a4a3f3cbd1e429b5dc.10058.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/b3e3e393c77e35a4a3f3cbd1e429b5dc.10058.jpg?w=639 639w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1"></p>
-<p>@琴声-响起:我最担心是不是用地沟油！价钱还是其次。看看台湾高铁的便当，100台币一盒。100台币=20.13人民币。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e115d9bfff4267372c4b2d0cce6fc6cc.jpg?resize=640%2C480" alt="e115d9bfff4267372c4b2d0cce6fc6cc" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e115d9bfff4267372c4b2d0cce6fc6cc.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e115d9bfff4267372c4b2d0cce6fc6cc.jpg?w=640 640w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1"></p>
-<p>来源：萝卜网</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%BA%E7%BB%99%E4%B9%98%E5%AE%A2%E5%87%8F%E8%82%A5-%E5%A4%A7%E9%99%86%E9%AB%98%E9%93%81%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%BB%B7/?category=18271" rel="tag">物价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A3%9F%E7%89%A9/?category=18271" rel="tag">食物</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E9%93%81/?category=18271" rel="tag">高铁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -745,7 +759,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%BB%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -755,5 +769,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%BB%B7
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

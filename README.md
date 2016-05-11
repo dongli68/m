@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,64 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%BB%84%E8%96%84%E7%A0%81-%E4%B8%80%E5%BC%A0%E5%80%9F%E4%B9%A6%E8%AF%81%E9%87%8C%E7%9A%84%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD/" target="cdt-mirror">黄薄码：一张借书证里的秘密花园</a>
+</h2>
+<p><p>相关阅读：</p>
+<ul><li><a title="黄薄码：我们来谈谈「江选研讨会」这个号" href="http://chinadigitaltimes.net/chinese/2015/11/%E9%BB%84%E8%96%84%E7%A0%81%EF%BC%9A%E6%88%91%E4%BB%AC%E6%9D%A5%E8%B0%88%E8%B0%88%E3%80%8C%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A%E3%80%8D%E8%BF%99%E4%B8%AA%E5%8F%B7/">黄薄码：我们来谈谈「江选研讨会」这个号</a></li>
+<li><a title="江选研讨会 | 一名老派文艺青年的自我修养" href="http://chinadigitaltimes.net/chinese/2015/08/%E9%BB%84%E8%96%84%E7%A0%81-%E4%B8%80%E5%90%8D%E8%80%81%E6%B4%BE%E6%96%87%E8%89%BA%E9%9D%92%E5%B9%B4%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/">江选研讨会 | 一名老派文艺青年的自我修养</a></li>
+<li><a title="江选研讨会 | 香港记者到底跑的有多快？" href="http://chinadigitaltimes.net/chinese/2015/03/%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E5%88%B0%E5%BA%95%E8%B7%91%E7%9A%84%E6%9C%89%E5%A4%9A%E5%BF%AB%EF%BC%9F/">江选研讨会 | 香港记者到底跑的有多快？</a></li>
+<li><a title="江选研讨会 | 长者与1990年春晚" href="http://chinadigitaltimes.net/chinese/2015/02/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A-%E9%95%BF%E8%80%85%E4%B8%8E1990%E5%B9%B4%E6%98%A5%E6%99%9A/">江选研讨会 | 长者与1990年春晚</a></li>
+<li> <a title="江选研讨会 | 一朝天子一朝逼格" href="http://chinadigitaltimes.net/chinese/2014/11/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A-%E4%B8%80%E6%9C%9D%E5%A4%A9%E5%AD%90%E4%B8%80%E6%9C%9D%E9%80%BC%E6%A0%BC/">江选研讨会 | 一朝天子一朝逼格</a></li>
+</ul><p>在南京，顺着汉口路走，就到了南大校门口，穿过一段满是梧桐树漏下的碎阳光，右手边就是图书馆，三十年前的夏天，20出头的赵益每天的工作就是在这里的特藏部整理档案，当整理到一张写有“JZM”的借书证时，“并无特别处理”，而是和其他档案放在一起。当时是1986年，江正在南京以东300公里的上海任市长。三十年后，赵益已经是南京大学文学院的教授，他跟笔者回忆起当时的情境时不断强调，“没有传奇色彩，并无经过，只是发现”。</p>
+<p>南大百年校庆前，图书馆旁边建起校史博物馆，随着这张借书证主人的不断晋升，这张证并没有像其他学生的档案那样被移走，而是继续留在了校史馆内，并被放在了显眼的位置。这张借书证上分“姓名”、“学号”、“院别”、“系科”，右边还贴着一张江的证件照，当时他并未戴眼镜，证件主体则是频繁的图书借还记录，包括书号、借期和还期，用红黑两种墨水笔标记得一目了然。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9atptesj20ij0m8wh5.jpg?resize=550%2C660" alt="632d7e8egw1f3r9atptesj20ij0m8wh5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9atptesj20ij0m8wh5.jpg?resize=250%2C300 250w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9atptesj20ij0m8wh5.jpg?w=667 667w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>南大校史馆里的借书证</p></div>
+<p>一个人的全部会映射在他所读的书上，有时这种映射是如此完整而精妙，而借书证和普通书单不一样，书单是分享行为，分享难免不包含展示的成分在内，借书证更单纯，一如学生时代的恋爱，单纯、纯粹，从某种角度上说，借书证暴露的不仅仅是一个人的喜好——而是你是一个怎样的人，你的喜好你的品位你的心路历程，都在人面前一览无余。江本人也没想到自己的借书证会在四十多年后被人翻出来，这是他“一丝不挂”的“闺房”，出于同是一名爱书人的好奇，更多也是窥私欲的作祟，笔者吃了一个月泡面斥重金购入了江入学那年的南京中央大学的图书目录，封面还有当时校长樊仲云的题字。我就像一个莽撞的后生，假装不小心的闯入江的秘密花园一探究竟。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9ejq82qj21f01w0x6p.jpg?resize=550%2C733" alt="632d7e8egw1f3r9ejq82qj21f01w0x6p" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9ejq82qj21f01w0x6p.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9ejq82qj21f01w0x6p.jpg?resize=768%2C1024 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9ejq82qj21f01w0x6p.jpg?w=1836 1836w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>1943年南京中央大学图书馆藏书目录</p></div>
+<p>对爱读书的江来说，1943年入学是件幸运地事情，南京中央大学“复校”两年后，搬迁到条件较好的金陵大学校园内，继承了金大图书馆，虽然比不上世界藏书量最大的梁家河图书馆，但据1936年申报馆作过的一次全国大学图书馆藏书量的调查，藏书量超过20万册的仅有5所，金大图书馆即为其中一所，而西迁前金大图书馆文献总藏量已达339184册，加之中大“复校”三年来的一些采购，呈现在年青的江面前的是战时藏书量首屈一指的图书馆。</p>
+<p>下图为对比图书目录上的书号还原出的江一年时间内借还书记录。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r93tmxxaj20pe0zkjvb.jpg?resize=550%2C770" alt="对比记录" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r93tmxxaj20pe0zkjvb.jpg?resize=214%2C300 214w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r93tmxxaj20pe0zkjvb.jpg?resize=768%2C1076 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r93tmxxaj20pe0zkjvb.jpg?resize=731%2C1024 731w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r93tmxxaj20pe0zkjvb.jpg?w=914 914w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>对比记录</p></div>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r97hs1ovj20lm0iswn7.jpg?resize=550%2C478" alt="整理后的“江氏借书证”" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r97hs1ovj20lm0iswn7.jpg?resize=300%2C261 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r97hs1ovj20lm0iswn7.jpg?resize=768%2C667 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r97hs1ovj20lm0iswn7.jpg?w=778 778w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>整理后的“江氏借书证”</p></div>
+<p>江第一本书是11月11日借的，这一天去图书馆借书确实是件挺孤单的事，巧合的是五十年后在同一个校园里，这一天几个男生庆祝单身，并逐渐在南京高校流传开来，成为光棍节的起源。江借的第一本是《电工学原理》，译者为顾毓琇老先生，光棍节这天书架上偶然的邂逅，让两个人生开挂的人，纠缠一生，三年后在交大，顾毓琇成为了江的老师，顾回国期间江还邀请他去中南海做客，97年访美江还特意去费城看望了他。细究借书日期，还可以发现专业类图书多在秋冬天借阅，而《往事》、《寄云的信》、《恋爱的妇人》、《两条血痕》、《春天》、《归来》这六本纯文学的书则全部在三、四、五三个月内借阅，看来春天容易让人变得柔软。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9h29iy2j20ts15pgxa.jpg?resize=550%2C770" alt="江所借部分图书封面" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9h29iy2j20ts15pgxa.jpg?resize=214%2C300 214w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9h29iy2j20ts15pgxa.jpg?resize=768%2C1075 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9h29iy2j20ts15pgxa.jpg?resize=731%2C1024 731w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9h29iy2j20ts15pgxa.jpg?w=1072 1072w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>江所借部分图书封面</p></div>
+<p>江自小接受的是传统私塾教育，中学阶段在扬中接受的是西式教育，在那里他爱上俄罗斯文学和西方文学，起码在刚入大学的第一年的借书记录里看，像所有十七八岁的青年一样，江开始对新文学乃至革命文学产生了兴趣。冰心的《往事》当时付梓时为纯散文集，包含六篇散文，语言隽永流畅，成就高于早期诗歌和小说。《寄云的信》则为海派作家徐蔚南寄给妻子的书信集，平素写作“喋谈性欲”的他却在书信中表现出了清新脱俗。</p>
+<p>《恋爱的妇人》这本书值得一提，这是借书证上唯一的一部戏剧，这部剧很小众，法国的心理剧作家Porto Riche所著，著名语言学家王了一翻译，三幕剧的剧本主要讲述男主替朋友向一个少女表白，谁知少女爱上他了，婚后她爱他的激情不减，导致男主厌烦“用恋爱的方式来专制人家，精神上，物质上，都受痛苦”，便将她拱手让给朋友，事后男主却痛苦万分，最终还是回归家庭成了爱情的俘虏。所有好的文学都是悲剧，爱人是痛苦的，被爱也是痛苦的，不知江在他人的故事里是否流下了自己的泪，但后来江似乎并未被这渗出纸面的爱情虚无主义影响，其婚姻长跑到今年已是第66个年头。</p>
+<p>《两条血痕》则为日本短篇小说、剧本合集，周作人在日本文学翻译方面对其他译者来说几成碾压之势，其特有清隽幽雅略带涩味的味道为作品打上了周氏印记。有点意思的是，看图书目录，江是在一堆鲁迅作品里选择了他的弟弟，结合以上四本书来看，小清新的写作风格是江这一阶段的偏爱。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9jvfd55j20m408t75u.jpg?resize=550%2C219" alt="632d7e8egw1f3r9jvfd55j20m408t75u" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9jvfd55j20m408t75u.jpg?resize=300%2C119 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9jvfd55j20m408t75u.jpg?resize=768%2C306 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9jvfd55j20m408t75u.jpg?w=796 796w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>《归来》是东北作家罗烽的中篇小说集，其与妻子白朗出现在了电影《黄金时代》里。江这一年的书单不光都是阳春白雪，艾芜的《春天》是唯一偏乡土文学的，刻画了南方农村的图景，含蓄克制，尚未像抗战胜利后人物刻画的脸谱化。而杨幼炯的《俄国革命史》详述了俄国革命的经过，那几年江对发生在遥远中国北方的革命产生了兴趣，《世界珍闻》是民国名记陶菊隐收集整理的“西方国家”猎奇文章，翻看这本书的目录，我们也可以看到当时的江已经关注一些如何保持长寿的文章。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9hyzzg5j20yi0nmtdn.jpg?resize=600%2C411" alt="632d7e8egw1f3r9hyzzg5j20yi0nmtdn" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9hyzzg5j20yi0nmtdn.jpg?resize=300%2C205 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9hyzzg5j20yi0nmtdn.jpg?resize=768%2C526 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9hyzzg5j20yi0nmtdn.jpg?resize=1024%2C701 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9hyzzg5j20yi0nmtdn.jpg?w=1242 1242w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>细看这些书单上的作者，为左联或近左联的就有罗烽、冰心，而艾芜是共产党员，施存统更曾担任第一任团中央书记。借书证上之外，江的室友回忆说他们最爱读的是1934年出版的艾思奇写的《大众哲学》，也在被窝里打手电筒读瞿秋白的《赤都心史》，这就不难解释他在46年4月，国府形势仍优的情况下选择加入了共产党。</p>
+<p>人是不会变的，穷其余生都在巩固早年形成的“偏见”，吃过的东西爱过的人读过的书都已构成了你的骨架，以后再学新知遇新欢，但一有机会还是会回去。很多年后，一次记者招待会上，当被问及他有何爱好时，江回答说：“作为一个知识分子，我喜欢读书。我阅读与我工作有关的东西：一是机械，二是电子。“ 后来，江还把其苏联导师所著的《机械制造厂如何合理利用电力》一书翻译成中文，此刻他肯定想到当年在图书馆里感激为他带来新知识的译者们。同样他会专程前往马赛参观大仲马创作基督山伯爵的地方，去巴黎蒙玛特高地希望为“茶花女”扫墓。在借书证被发现的同一年，86年8月16日，《解放日报》选登了一幅漫画家为时任市长的江画的漫画像。漫画的标题是“书迷江泽民”。据信，江在上海的市长办公室里就藏书愈3000本。江的阅读经历自始而终，令人信服，而突兀的抛出庞大书目、追求磅礴气势是一种恶劣的美学倾向，读书不是打架，可以倚多取胜。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9iwmd89j205p07i3ym.jpg?resize=205%2C270" alt="632d7e8egw1f3r9iwmd89j205p07i3ym" data-recalc-dims="1"></p>
+<p>回望这张借书证，你会发现江每个月都有借书，一次两到四本，几无断绝，这样的阅读习惯伴随一生，文革中，无论在武汉被撤职接受批斗还是河南渤海农场“五七”干校接受再教育，江始终手不释卷，甚至在探望同样被批斗的汪道涵时，还建议他读读莎士比亚，读书最好的目的就在于此，你会发现凭借自身阅读构建起来的小世界，能以体恤式的温柔，消解自身的苦难。</p>
+<p><strong>以下为数字时代编辑摘自改篇文章下的部分网友评论：</strong></p>
+<p>@有点痞：有的人，书单是粉丝考据出来的；有的人，书单是自己吹出来的。</p>
+<p>@CRH380A_：“江的阅读经历自始而终，令人信服，而突兀的抛出庞大书目、追求磅礴气势是一种恶劣的美学倾向，读书不是打架，可以倚多取胜。”高下立判吃顿好</p>
+<p>@孔浩遵医嘱：顶级考据。</p>
+<p>@IM李大仁：恭喜你，搞了个大新闻！</p>
+<p>@言夭书店戥羽：现在的长者，一言不合就开书单。</p>
+<p>@老爱老蔡：完爆只会报菜名的工农兵初中生。</p>
+<p>@一笑菩提：说真的，这书单某人报还不一定能报出来。</p>
+<p>@交易员_秦川八百：怀念是另一种打脸！</p>
+<p>@耐力控：相比之下现在这帮红二、青团简直不够看，就晓得xjb内斗</p>
+<p>@溪上対鸥闲：硬考据，膜界的又一篇光辉文献。</p>
+<p>@KeyserSoze：一点人生的经验，其实是厚积薄发。</p>
+<p>@喃喃头：我觉得好像其实书看得越多的人对于很多事的态度倒更随意。表现出来可能就是幽默、不摆架子。</p>
+<p>@葭浮PaulLee：不知道你们发现没有，长者阅读时间最短的书就是微积分了，相比其他借了一个月才还的书，微积分借了一天就还了。这说明什么：国家领导人都不喜欢的书教育部还拿来当教材荼毒大学生，罪不容诛啊！</p>
+<p>@悲伤罐子：说实话，虽然看到有人称它为“长者”感觉有点恶心，但是，论文化修养，它确实比当今背书名的X大大要强太多！</p>
+<p>@听音乐和你聊：中科院院长蛮适合的。治国是另一码事。</p>
+<p>@高致如一：很厉害，要在大舞台上不被笑场，还真得有积累才行。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%BB%84%E8%96%84%E7%A0%81-%E4%B8%80%E5%BC%A0%E5%80%9F%E4%B9%A6%E8%AF%81%E9%87%8C%E7%9A%84%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A/?category=18271" rel="tag">江选研讨会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E8%AF%BB/?category=18271" rel="tag">阅读</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%96%84%E7%A0%81/?category=18271" rel="tag">黄薄码</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%B1%8A%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9C%89%E5%85%9A%E6%80%A7%EF%BC%8C%E8%AE%A9%E5%AE%83%E5%9D%8F%E5%B0%B1%E5%9D%8F/" target="cdt-mirror">【网络民议】这届执法记录仪有党性，让它坏就坏</a>
 </h2>
 <p><p>昌平公安在描述雷洋事件过程的<a href="http://weibo.com/5217409150/DuWTADiTs" target="_blank">公告</a>里，称其“<strong>将民警所持视频拍摄设备打落摔坏</strong>”：</p>
@@ -832,31 +887,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E9%99%88%E4%BB%B2%E4%BC%9F%E5%8C%BB%E7%94%9F%E4%B9%8B%E6%AD%BB%E7%A9%B6%E7%AB%9F%E8%B0%81%E4%B9%8B%E8%BF%87/" target="cdt-mirror">唐映红 | 心理学问答：陈仲伟医生之死究竟谁之过？</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%99%88%E4%BB%B2%E4%BC%9F.jpg?resize=480%2C314" alt="陈仲伟" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟.jpg?resize=300%2C196 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟.jpg?resize=230%2C150 230w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟.jpg?w=480 480w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"></p>
-<p><strong>问：陈仲伟医生之死究竟谁之过？</strong></p>
-<p>答：昨天晚上，广州市英雄广场，<strong>市民群众自发组织悼念广东省人民医院口腔科主任医师陈仲伟。</strong>陈医生于5月5日在家中被20几年前治疗过的病人袭击，伤重不治不幸逝世。这起事件与此前多起医生被袭击事件不同，<strong>在医疗界，乃至社会引发了极大的反响</strong>，不仅昨夜有规模不小的市民自发悼念致哀；媒体和自媒体关于此事也有了诸多的热议。甚至，包括我朋友圈里的多位医生朋友，都纷纷以<strong>黑丝带</strong>作为头像以表示他们的态度。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%99%88%E4%BB%B2%E4%BC%9F2.jpg?resize=450%2C799" alt="陈仲伟2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟2.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟2.jpg?resize=577%2C1024 577w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟2.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
-<p>据悉，袭击陈医生的前病人本身是一名<strong>精神病患者</strong>，在砍杀陈医生时完全可能处于精神病发病期。如果确系如此，这应该是一件<strong>令人痛心的小概率事件，亲人和同事为之哀悼，但也不至于引发成巨大社会反响的热点舆论事件。</strong>从常识来看，一个25年前治疗过的牙科病人，突然出现对陈医生砍杀，于情于理都难以解释。通常的医患纠纷往往发生在病患因不治身亡或者致残的结果之后，随即发生的家属或病人的袭扰。</p>
-<p>那么，陈仲伟医生之死为什么会引发这么巨大的社会反响和热议呢？每年那么多起真正意义上因为医患纠纷而导致的伤医事件，<strong>偏偏这起完全可能归咎于精神病患失控下的砍杀事件却引起了医生群体的集体愤慨和表达呢？</strong></p>
-<p>首先，<strong>陈医生之死是一个导火索</strong>，它所引发的社会反响和舆论热议远远超过事件本身所能承载的讨论。<strong>医患纠纷，医患冲突十多年来不仅未见改善，反而愈演愈烈。</strong>10年前，深圳龙岗区的山厦医院医护人员带着钢盔上班的新闻曾引起舆论热议。<strong>10年过去了，医患纠纷、医患冲突并没有减少，反而呈现出愈加严重的趋势。</strong>随着近十年来社会管理部门维稳力度的加大，许多医患冲突在萌芽状态下就被及时地化解，但<strong>医生群体的压力却并未因此有稍减。</strong>在维稳的思维逻辑下，<strong>针对医患冲突一般采取两头压，导致医患冲突的根源却未加改善，反而医生群体压力负荷下的诉求和愤懑在维稳的逻辑下不能正常地表达和主张。</strong>陈医生被前病人砍杀事件作为医生群体<strong>长期压力下的一个愤怒的宣泄口，许多医生借此将长期以来所不堪承受的怨怼和愤懑表达和宣泄出来。</strong>此其一。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%99%88%E4%BB%B2%E4%BC%9F3.jpg?resize=450%2C300" alt="（2006年，深圳龙岗区山厦医院戴着钢盔的护士。）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟3.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟3.jpg?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>（2006年，深圳龙岗区山厦医院戴着钢盔的护士。）</p></div>
-<p>其次，仅仅在一周之前，因罹患罕见滑膜肉瘤而不治身故的<strong>魏则西事件</strong>被曝光，<strong>引发了媒体和舆论强烈的聚焦和关注</strong>。魏则西事件的舆论矛头指向了百度的医疗机构竞价排名以及莆田系医院的诈骗病患“临终掠夺”。<strong>尽管莆田系医院的诈骗和掠夺病患并不能代表医疗界，但无论如何都是给医疗界抹黑，对于广大并未参与莆田系医疗诈骗和掠夺病患的医生来说多少有“躺中”的味道，并对社会上医患关系带来可以预见的消极效应。</strong>仅仅几天后，陈仲伟医生遇袭以来直至昨天的不治逝世，相对于魏则西事件铺天盖地的媒体报道和舆论热议，<strong>媒体报道寥寥，舆论也几乎未见关注</strong>。这种“冰火两重天”的悬殊“对待”令到部分医生感到愤慨，甚至<strong>认为媒体过分渲染患者的不幸，却对医生的不幸置若罔闻是导致医患冲突愈演愈烈的罪魁祸首之一。</strong>当陈仲伟医生不幸逝世后，<strong>这种被压制后反弹的情绪被激烈地表达出来，在医生群体中迅速得到普遍的共鸣。</strong>此其二。</p>
-<p>再者，由于陈医生被前病人砍杀事件并非发生在医院，而是在<strong>家里</strong>；砍杀他的病患也不是近期的病患，而是<strong>25年前的旧病患</strong>；砍杀的由头并非怀疑医疗事故致病患死亡或致残，而是<strong>补的牙齿出现瑕疵</strong>。正是因为如此微不足道的因素促使，<strong>使广大的医生群体在感同身受的同时加大了他们的不安和焦虑</strong>，类似的事件完全防不胜防呀！总不能让全国的医护人员都带着钢盔生活吧！这就使得医生群体在这件事中<strong>感受到连苟安都是难保，压抑的愤怒也就愈加地炽烈。</strong>此其三。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%99%88%E4%BB%B2%E4%BC%9F4.jpg?resize=550%2C306" alt="陈仲伟4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟4.jpg?resize=300%2C167 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/陈仲伟4.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>最后，其实也是最重要的一个因素是，无论是昨天陈仲伟医生的不治逝世，还是一周前曝出的癌症病患魏则西的不治身亡，<strong>从其事件性质而言都不应当具有成为舆论焦点和热点的潜力。</strong>每年，甚至每月每周都有被精神病患砍杀的无辜者；而因为“临终掠夺”而不治身亡的癌症患者可能每天都有数例。但这两件并无潜力的事件恰好成为5月以来的舆论焦点和热点事件，这更可能反映的是<strong>长期以来的社会失范乃至社会溃败在医疗领域逐渐成为掩饰不住的“溃疡”。</strong>民众对百度毫无底线的胡作非为以及莆田系肆无忌惮对病患的诈骗和掠夺已经忍无可忍，所以透过魏则西事件而宣泄出来。同样道理，医生群体对医患冲突的忍耐也突破阈限再也按捺不住。<strong>由于医疗领域关系民生安危，无论医生还是民众都休戚相关，因而具有感知显著性，所以凸显出来。</strong>在其他不那么具有感知显著性的领域，如经济、金融、教育、食品、交通、城市管理，等等，<strong>可能都或多或少反映着同样的社会失范乃至濒临溃败的种种迹象</strong>，只不过与民生安危不那么直接，所以率先在医疗领域爆发出来。换言之，<strong>无论是陈仲伟医生之死，还是魏则西病患之死，它们都是在社会濒临全面失范乃至溃败下的“恰逢其时”，碰巧遇到了这么个时间点。</strong>此其四。</p>
-<p>事实上，正如中山医院杨震医生的比喻，医患纠纷好比是“糖尿病足”，糖尿病发展到晚期，患者常常在下肢出现溃疡或者坏疽，这被称为“糖尿病足”。<strong>如果仅仅是局部治疗，脚痛医脚，根本于事无补。</strong>糖尿病是全身性疾病，而<strong>中国社会现在出现的种种医患冲突，也是整个社会机体病入沉疴的反映。</strong></p>
-<p>以此观之，<strong>医者无辜，病者无辜；甚至百度的无耻，莆田系的无良，都不是医生陈仲伟之死，病人魏则西之死以及由此所引发舆论热潮的根源。</strong><strong>那头尸位素餐的大象盘踞着房间，控制着一切，牠除了不停地掠夺，似乎丝毫也担当不起治理社会的基本职责。</strong></p>
-<p><strong>而我们甚至不能说出牠的名字</strong>。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E9%99%88%E4%BB%B2%E4%BC%9F%E5%8C%BB%E7%94%9F%E4%B9%8B%E6%AD%BB%E7%A9%B6%E7%AB%9F%E8%B0%81%E4%B9%8B%E8%BF%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">医患关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">医患纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%8B%E5%88%B6/?category=18271" rel="tag">压制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%82%BC%E5%BF%B5/?category=18271" rel="tag">悼念</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E6%BA%83%E8%B4%A5/?category=18271" rel="tag">社会溃败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%AE%A1%E7%90%86/?category=18271" rel="tag">社会管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E4%BB%B2%E4%BC%9F/?category=18271" rel="tag">陈仲伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -868,7 +898,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -878,5 +908,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

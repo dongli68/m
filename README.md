@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%B8%9F%E6%89%98%E9%82%A6-%E9%A3%93%E9%A3%8E%E6%9C%AA%E8%B5%B7%E4%B9%8B%E5%89%8D-%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%A1%A3%E5%86%A0%E6%A5%9A%E6%A5%9A%E5%9C%B0%E8%A3%B8%E5%A5%94/" target="cdt-mirror">鸟托邦 | 飓风未起之前 所有人都在衣冠楚楚地裸奔</a>
+</h2>
+<p><p>作者： 录人甲</p>
+<p>如果不加“人大”、“硕士”两个修饰词，光说雷洋“涉嫌嫖娼”被控制后身亡，或许一时间反应过来的人并不多。</p>
+<p>非名人亦非官员，毫无特色的名字，了无新意的嫖娼，惯例般使用的群众举报。这些元素的拼凑，也无法引起公众的高度关注。</p>
+<p>当然，你会说，以上的元素中还缺了最重要的“身亡”。人死了，而且是在警方的眼皮底下死的。羁押期间，是否由警方暴力执法，或者不负责任导致死亡，成为事件讨论的关键。</p>
+<p>但是，就在雷洋事件爆出同时，还有另一则新闻是《醉驾教师被抓30小时后死亡》。5月2日在深圳，来自湖北的中学教师徐贤飞驾车与一小车碰撞后逃逸，并与一辆垃圾清运车追尾，执勤民警将他带走调查。翌日中午，徐的家属就接到电话通知赶往医院，到达时，徐已经死了，胸前有淤青，脖子和脸都有红斑。</p>
+<p>在交警调出的视频中，徐贤飞手捂肚子，连腰都直不起来。家属怀疑交警暴力执法，交警回应由于当事人不同意无法强制体检。</p>
+<p>两个事件的性质相似，问题关键疑点也类似，信息发布的时间同在9号，徐贤飞的事件获取的物证还更多。然而后者却没像前者那样引起关注、媒体跟踪、舆论讨论。</p>
+<p>所以人死了，在如今的社会，仿佛也不是让事件受关注的必要因素。</p>
+<p>雷洋事件的引爆源于知乎，作者同是中国人民大学的校友，知乎ID为“山羊月”。</p>
+<p>他表示以其在知乎上730多天298个答案十万个赞同积累换取网友信任。他的一篇《刚为人父的人大硕士，为何一小时内离奇死亡？》激起舆论关注。文章思路清晰，先对雷洋进行简介，然后写下《关于人民大学雷洋同学意外身亡的情况说明》。其中简述事件经过，就雷洋身体状况，伤势情况，医院派出所的行为、手机记录提出四点疑问，最后再展示了雷洋身边人的现状。</p>
+<p>如今，这篇知乎文章的网页已经404。</p>
+<p>从十天前的五一开始，人们经历了海南殴打妇孺视频的冲击、百度竞价与莆田系大揭秘、广东弑医后全民大讨论、外加进入雨季，倾盆大雨与泥石流开始出没。这十天，神经一直在紧绷。</p>
+<p>一个事件仿佛总在拯救着另一个事件。</p>
+<p>我们来不及充分搞明白一件事，因为另一个大新闻总会随之而来。就在我敲字的间隙，手机上的新闻app推送了一条《南京宝马撞人案将重新鉴定》的新闻。</p>
+<p>去年六月，南京宝马事件曾引起社会普遍关注。关于肇事者的精神是否有问题，当时的鉴定结果是“急性短暂性精神障碍”，引得舆论一片哗然。</p>
+<p>可是，在雷洋事件刷屏之际，几乎无人再去关注这位宝马车司机，被重新鉴定的结果和意义。</p>
+<p>人们忙于进行雷洋事件的沙盘推演，去假设所有的可能性，去追问背后的逻辑，去质问官方的说辞。相关文章标题从事件24小时，推演至致命两小时，再到关键半小时。媒体重回事发现场，采访其他抓嫖便衣，询问事件现场当时的围观群众如今的关键见证者，细数现场的监控摄像头……</p>
+<p>5月9日晚9点多，北京昌平公安在微博首发事件的情况通报。今天凌晨1点44分，微博上对事件进行跟进通报。每一轮的通报都披露了更多的信息，同时每一轮的通报也都带动新一轮的质疑。媒体的调查，官方的通报，当事人的说辞，交叉比对后，人们感到更加疑惑。</p>
+<p>看着@平安昌平 的微博评论里，群情激奋的场景，再看着微博背景图片上的警徽，最直观的感受，是普通人对公权力的极度不信任。</p>
+<p>我们总说人与人的生命总是平等的，每个个体生命价值是一样的，无论他是不是名校出生，无论他从事什么职业，无论他是道德意义上的好人坏人，基本的生命权总是需要受到保护。</p>
+<p>然而，整个社会的运转仿佛不是这样的。</p>
+<p>雷洋的背后支撑着的是人大的校友团。作为国内一流大学校友团，这些校友深谙社会运转规律，也同时掌握着社会的资源，他们能行文顺畅，理据得当地表达观点，会运用媒介推动消息传播，或许更可以一键转发给朋友圈里的重要人物。</p>
+<p>因此有人会觉得，比起徐贤飞，雷洋是幸运的，因为作为县一级学校的教师，前者身后没有上述资源，整不出声势，他的死亡自然不受重视。</p>
+<p>但这种比较是避重就轻，没有意义的。因为从本质上，无论是雷洋还是徐贤飞，都是不幸的。因为当他们面对强势的机构时，同样难以找到一条顺畅而有效的通道去对话，平等提出诉求。</p>
+<p>去年天津爆炸事件后一个月，曾经有媒体回访爆炸地，写出了《厨娘、女职员和老板：天津爆炸后挣不开的网》。</p>
+<p>那时候，已经过了事件的公众关注期，然而爆炸的善后工作依旧在继续。在灾难之后，无论是底层厨娘还是城市白领，亦或是公司老板，他们都用着自己的方法寻求合理的赔偿。他们有的选择认命，有的请愿，还有的“拦轿式”合作，</p>
+<p>最终，无论你处于什么阶层，抵抗风险的能力都很低，与官方议价的力度都很弱。</p>
+<p>雷洋后面的校友团也好，徐贤飞的同乡家属也罢，要想利用群众的关注，唤起事件的解决，速度必须快。</p>
+<p>因为在这个复杂魔幻奇特的世界里，正有一大波新闻在赶来的路上。过了这个点，追问仿佛就没有了价值。过了这个点，或许只能用“这届人民身体不行”来划上讨论的句号。过了这个点，或许这种讨论将被无声地禁止。</p>
+<p>就当文章要结尾的时候，手机上又被推送了另一条新闻《重庆一名外科医生被砍，伤势严重住进ICU病房》。</p>
+<p>砍人、打人、摔死、治死……当我们的生活被这堆新闻包裹的时候，人们觉得总是觉得肯定有些地方出现了问题。有人觉得是媒体报道出现了问题，夸大事实，满满的负能量，让生活变得沉重。</p>
+<p>生活的希望与信心本不应该用选择性视听来满足，我不看不听不讨论负面的东西，我只看只说好的一面，于是生活就阳光灿烂了。</p>
+<p>每一个对生活的信心与希望，应该建立在社会的沟通渠道变得更加顺畅、阶级的流动变得更加频繁、权益与财产的保护变得更加有力。</p>
+<p>我们本来相信，像雷洋那样好好学习，考上好的大学，获得一份体面的工作，获得可观的收入，我们在社会上可以过着舒适有保障的生活，名校、硕士、中产能对危机有较强的抵抗力。</p>
+<p>事实却告诉我们，就算如此，你也什么都不是。颟顸的公权力面前，大家一起裸奔。 当被强制力粗暴地剥夺了一个人的人生自由后，在这个人死了的这件事上，所有的标签都随即化为乌有。</p>
+<p>这就是现实，赤裸裸地刀尖生存。穿不穿裤衩，其实都是裸奔。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%B8%9F%E6%89%98%E9%82%A6-%E9%A3%93%E9%A3%8E%E6%9C%AA%E8%B5%B7%E4%B9%8B%E5%89%8D-%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%A1%A3%E5%86%A0%E6%A5%9A%E6%A5%9A%E5%9C%B0%E8%A3%B8%E5%A5%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B/?category=18271" rel="tag">网络水军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%AB%96%E5%A8%BC%E5%9C%A8%E9%81%93%E5%BE%B7%E4%B8%8A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%81%B6%EF%BC%9F/" target="cdt-mirror">唐映红 | “嫖娼”在道德上到底有多“恶”？</a>
 </h2>
 <p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160511_142933.jpg?resize=600%2C450" alt="网友恶搞图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160511_142933.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160511_142933.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160511_142933.jpg?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160511_142933.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>网友恶搞图</p></div>
@@ -77,7 +123,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%AC%E5%B8%83%EF%BC%8C%E6%8F%AD%E6%9B%B4%E5%A4%9A%E4%B8%AD%E5%9B%BD%E9%AB%98/" target="cdt-mirror">美国之音｜巴拿马文件数据库公布，揭更多中国高官</a>
 </h2>
@@ -693,98 +739,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E9%B8%A1%E6%B1%A4%E6%96%87%E4%BA%A7%E4%B8%9A%E9%93%BE%EF%BC%9A%E4%B8%80%E7%AF%8710%E4%B8%87%E6%96%87%E7%AB%A0-%E8%BD%AC%E5%8F%91%E5%B9%B3%E5%8F%B0%E8%B5%9A3%E4%B8%87/" target="cdt-mirror">新京报 | 鸡汤文产业链：一篇10万+文章 转发平台赚3万</a>
-</h2>
-<p><p>每天打开微信朋友圈，你总能看到一些微信好友转发各式各样的鸡汤文和养生帖，令人想不到的是，这些被转发的文章背后，暗藏着虚假广告的“转发”产业链。鸡汤文除了制造垃圾信息，内置的广告还会给网友带来误导，甚至就是一场骗局。每天早上起来打开微信，总会发现朋友圈被各式各样的鸡汤文刷屏。标题往往是这样的：《生活的坑往往是自己挖的》、《给对将来感到不安的你》，抑或是以专家学者口吻告诫你：《姑娘啊!可长点心眼》、《人生不得不提的30个忠告》、《这五种食物千万不能吃》……</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a08e30789778a3d190b8484fc08c522b.jpg?resize=300%2C535" alt="a08e30789778a3d190b8484fc08c522b" data-recalc-dims="1"></p>
-<p>微转啦官方群聊天记录</p>
-<p>令人想不到的是，微信好友们转发的这些文章，是在为别人赚钱。</p>
-<p>近日，重案组37号(微信ID:zhonganzu37)探员调查发现，鸡汤文大多由专门的微信公号或者APP等转发平台进行分发，注册人员再通过转发此类附带广告的文章来获取分成，转发一次1到5分钱；一篇10万+文章，转发平台可获得3万元的灰色收入。</p>
-<p>鸡汤文除了制造垃圾信息，内置的广告还会给网友带来误导，甚至就是一场骗局。</p>
-<p>网络安全专家指出，朋友圈鸡汤文逐渐取代电视购物，成为劣质保健品、假冒伪劣药物、减肥丰胸类产品的营销渠道。由于缺乏监管，虚假夸大广告效果，其产品质量甚至会更差。</p>
-<p>鸡汤文刷屏背后的虚假广告</p>
-<p>去年6月，宋瑜的父亲申请了微信号，之后每天都会给她转发大量的养生和心灵鸡汤文章，最多一天二三十条。</p>
-<p>有时早上不到六点钟，手机叮叮的提示音就将宋瑜吵醒，她一看是父亲发来的一条《早晨吃鸡蛋的惊人好处，你知道吗？》”</p>
-<p>还没到单位，父亲又来一条《郁闷的时候看看这条驴，改变你的心态！》”</p>
-<p>经常会开到一半，宋瑜的手机就响起一连串的“叮叮叮”，她说，不用看，一定又是她老爸转发的养生鸡汤文。</p>
-<p>“他不仅单独发给我，还每天发朋友圈，觉得有用的他就转。”宋瑜说。</p>
-<p>在宋瑜父亲的朋友圈里，“人生要交的四位朋友”、“枸杞搭一物抗衰老，胜过吃唐僧肉”等此类题目被刷屏。</p>
-<p>但宋瑜想不到的是，父亲的热心肠转发可能是在替别人“挣钱”，更有可能会害人。</p>
-<p>2015年3月，据《南方日报》报道，广东老刘在网上花1760元，买了一种“血钻野燕麦”的男性保健品。服用之后，老刘接到骚扰电话。不断有“总监”、“院长”等人物，以治病为借口让老刘买各种乱七八糟的药物；而后出现的“消保委人员”、“财务人员”、“经理”等角色，则说前面“出场”的人有问题，称给老刘补偿，但要其交税。</p>
-<p>就这样，短短几个月时间，老刘汇了14笔款，共计54万多元。然而，吃了这么久，一点效果都没有，最终老刘报警。警方经过两个多月调查，在广西南宁一举捣毁这个诈骗团伙，共抓获17人。据悉，为了骗老刘，诈骗团伙先后出动了8人。</p>
-<p>“血钻野燕麦”的骗局还在继续，而他们可能正隐藏在鸡汤文当中。4月18日，重案组37号(微信ID:zhonganzu37)探员在两家不同转发平台的文章下方广告链接中，找到两个宣称免费领取的商品。</p>
-<p>其中《这样减肥，10人有9人成功》文章下方链接的正是上述被曝光的“血钻野燕麦”，广告宣称“进口阿拉伯，服用20到40天，能持续生长4-7厘米”。</p>
-<p>重案组37号(微信ID:zhonganzu37)探员在广告页填写了电话、住址之后提交。次日，客服打来电话称，商家在武汉，从武汉邮寄两盒产品，需要邮费及材料费共计200元。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/55f9b05c4b00fbefb077fe10c1105686.jpg?resize=480%2C360" alt="55f9b05c4b00fbefb077fe10c1105686" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/55f9b05c4b00fbefb077fe10c1105686.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/55f9b05c4b00fbefb077fe10c1105686.jpg?w=480 480w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"></p>
-<p>探员购买的血钻野燕麦</p>
-<p>4月21日，探员收到了“血钻野燕麦”，包装盒上写有代收200元。快递人员表示，商品寄过来的邮费已经付清，为18元。</p>
-<p>“血钻野燕麦”的外包装上则用小字标示“压片糖果”，制造商为广东省的一家生物科技公司，采用的则是食品生产许可证号。通过国家食药监官网查询得知，该企业食品生产许可证号仅为生产糖果。</p>
-<p>猎豹移动安全专家李铁军指出，上述付邮免费送实则就是陷进，消费者所付费用远远高于邮费及商品价值。此种广告通过微转平台传播，平台利用转发文章或者广告链接分成诱导网友在朋友圈大量转发虚假广告。</p>
-<p>转发文章，“躺着月入万元”？</p>
-<p>“转发分享文章就能赚钱，1分钟赚1元，躺着月入万元。”这样的广告语在每个人的朋友圈都有可能出现。</p>
-<p>重案组37号(微信ID:zhonganzu37)探员通过微信及相关APP平台，搜索“转发文章”，能够搜到很多此类转发任务平台公众号。</p>
-<p>认证为“厦门某网络科技有限公司”的转发类公众号中，有“开始赚钱”“新手学堂”等功能，点击“开始赚钱”，会跳转到第三方页面，需要用户用手机号注册登录。</p>
-<p>在多款任务平台转发页面，探员发现，转发文章不外“健康”、“育儿”、“风水”、“情感”等类型，每篇文章都有转发及浏览收益，从0.01元到0.05元不等。</p>
-<p>该平台客服人员介绍，用户将文章分享到朋友圈后，只要有人阅读，系统会自动统计阅读量，每次有效阅读，用户可以获得0.03元至0.05元，如果有人再次转发的话，阅读提成也同样分给注册用户。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/76ffcc4c3a72069803f45f3b0e0ba661.jpg?resize=300%2C533" alt="76ffcc4c3a72069803f45f3b0e0ba661" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/76ffcc4c3a72069803f45f3b0e0ba661.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/76ffcc4c3a72069803f45f3b0e0ba661.jpg?w=300 300w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"></p>
-<p>一位转发者的收益记录</p>
-<p>上述任务平台称，用户还可以招收徒弟，当徒弟分享文章获得收入时，每次收入提现成功时，会有提现金额的20%作为初始客户的下线提成。</p>
-<p>不难发现，转发平台上的每一篇文章末尾都植入了广告。曾经做过半年转发文章业务的网友“温水杯”说。平台和转发者的收益都来自广告主，当然转发者拿到的只是一小部分。</p>
-<p>“温水杯”介绍，2013年左右，各类的转发平台开始在微信中出现，去年达到竞争高峰。“原来好的时候，一天能赚到百十来块，后来转发平台多了，做的人也多，加之腾讯打击，转发文章的收益逐渐下降。”</p>
-<p>而那些链接在鸡汤文中的广告，也会视文章内容而定，比如健身类文章，头尾部的广告就会是丰胸、减肥等等。同时，这些鸡汤文的尾部都带有产品推广链接，只要点击进去，就会看到相应产品的功能介绍和购买链接。</p>
-<p>“这样在正常转发的人不知道的情况下，有人就把钱赚了。买的人还不少，不然哪来的钱付给转发者。”温水杯说。</p>
-<p>“只要给钱，啥广告都可以投”</p>
-<p>在多个鸡汤文转发平台，每篇文章首尾均有大量广告，多涉及丰胸减肥、保健品等。</p>
-<p>一篇“上班族经常感冒需要减减压”的养生文章内，植入大量广告，图片上的女性性感暴露，配文挑逗露骨。“艺校女生被潜规则”、“17岁女友被囚禁当xx”。点击进入后，则是一款男性保健用品的广告，当中的康复感言类似于色情文章。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/9cb6fd688d993d836afbae5156d8d290.jpg?resize=300%2C534" alt="9cb6fd688d993d836afbae5156d8d290" data-recalc-dims="1"></p>
-<p>鸡汤文内附广告</p>
-<p>同样在一篇转发10万+的新闻视频文章内，植入了大量的色情广告，点击进入后，发现是一款保健内裤的广告。</p>
-<p>经过对比发现，在淘宝上几十元包邮的减肥茶、减肥胶囊、保健内裤等，同品牌、同规格产品在朋友圈里可以卖数百上千元，价格相差十倍以上。</p>
-<p>一位转发平台业内人士介绍，转发文章的头尾位置会自动显示广告，植入色情图片的目的就是让人看了就想点，这样才能提高广告转化率。</p>
-<p>前述转发平台的负责人称，目前转发平台广告大多针对丰胸减肥、男性保健等产品，这些产品都有虚假宣传的嫌疑，因此这些产品在正规平台投放不了广告。</p>
-<p>转发平台也会对广告有所顾忌，一眼就看出危及到人命的虚假广告，转发平台也不敢接。一转发平台负责人透露，例如有广告主要宣传癌症药，告诉人家几个疗程就能治愈，这种广告就不做，相对风险大，“几十块钱的东西对外卖几千，我们也不敢接。”</p>
-<p>重案组37号(微信ID:zhonganzu37)探员以投放广告为由联系了多家转发平台，工作人员均表示，不需要对记者的产品进行提前检测，即使不在同一城市，也可交钱直接上广告。</p>
-<p>对于产品质量，一位平台负责人表示，“不会检验你产品的真假，因为鸡汤文广告本身就有打擦边球嫌疑。只要产品不害人害命，别的都没事。</p>
-<p>非正规平台的生意经</p>
-<p>4月12日，探员联系一家名为“微转淘金”的转发平台，该平台位于通州北关桥附近一小区内的三室一厅房间内。</p>
-<p>4月14日上午11时许，该平台办公室内，10多名员工正在在维护网页。</p>
-<p>该平台负责人王业武自称做茶生意，微转淘金只是公司的一款产品。他把这个平台当做赚钱的“机会”，“要是想挣钱就要进行一些规避。就像保健品，正规平台不可能随意夸大宣传。”</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/47cb2489174ef43188d0a582cc35a1bf.jpg?resize=300%2C533" alt="47cb2489174ef43188d0a582cc35a1bf" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/47cb2489174ef43188d0a582cc35a1bf.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/47cb2489174ef43188d0a582cc35a1bf.jpg?w=300 300w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"></p>
-<p>转发即可赚钱的微转平台</p>
-<p>王业武的名片显示为问山问水(北京)科技有限公司总经理，自称创办了中国茶道网。而此网站地址正是“微转淘金”的通州办公地点。</p>
-<p>“微转淘金主要接一些不能在正规平台投放的保健品广告。”王业武介绍，该平台广告主要按三种方式付费，一种是按文章点击量，通过文章将广告转入到产品页面，0.5元每次;二是按阅读量，把产品写在文章里面，加入产品和个人QQ微信号，一次阅读0.35元;还有一种是留电，广告上会让消费者留电话，平台再以每个电话60元卖给商家。</p>
-<p>王业武解释，平台上有个系统，广告主和平台方都能看到，阅读者每天留了多少电话都有登记。广告主让对方留电话，也有噱头，“送些小礼品，对方就会主动留下电话、住址，广告主把这些信息收回来，再给对方打电话进行主动营销。”</p>
-<p>在微转淘金平台，王业武把保健丰胸美容产品归类到高风险广告，每点击一次，广告主需付0.5元。广告主商通过预付费“充值”方式交费。比如某保健品广告一个月的预算是五万元，广告主就先充值五万，然后按文章点击量消耗，等消耗完了再进行充值。</p>
-<p>王业武的说法得到了另一转发平台的负责人的印证。转发平台用大量的注册用户来吸引广告主。每次点击，广告主按0.35元到0.5元付费。</p>
-<p>按照王业武给出的数据，如果碰上10万+的阅读文章，一篇鸡汤文的广告费就达3.5元，除去转发平台每点击一次0.03元至0.05元的成本，一篇10万+鸡汤文，转发平台至少赚到3万元。</p>
-<p>王业武坦言，想赚钱，就要打擦边球，一些类似微转金的平台还涉及到传销，转发文章按照倒金字塔结构逐一分成，越往上层的用户拿到的分成也就越多。他称，微转淘金平台主除了减肥，保健品广告，还有风水类的貔貅及高仿手表广告，这些出现在电视购物上的广告，如今都转战到了微信朋友圈。</p>
-<p>无序的市场与监管空白</p>
-<p>一位转发平台的内部人员介绍，转发平台最初的兴起就是面对微信群体，伴随着微信的发展而泛滥。</p>
-<p>“去年年底，转发平台业务量达到高峰。伴随此现象，微信方面的封号屏蔽的力度也开始加大。很多积累到大量用户的转发平台都开发了APP。或是通过公众号转入第三方链接来规避。”他说。</p>
-<p>网络安全业内人士说，微信刚刚兴起时，一些人就发现了利用流量变现的方式。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/07b50dfe8645046af3cf8c2167b1feab.jpg?resize=480%2C288" alt="07b50dfe8645046af3cf8c2167b1feab" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/07b50dfe8645046af3cf8c2167b1feab.jpg?resize=300%2C180 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/07b50dfe8645046af3cf8c2167b1feab.jpg?resize=80%2C48 80w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/07b50dfe8645046af3cf8c2167b1feab.jpg?w=480 480w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"></p>
-<p>虚假广告赚钱方法</p>
-<p>“朋友圈的干扰越来越多，只能说明这里面有问题。” 这位网络安全人士说，三四线城市及刚使用微信的中老年人喜欢转发一些骇人听闻事件及养生鸡汤等文章，不法分子正是利用这一点，在文章当中植入虚假广告，以此牟利。</p>
-<p>他表示，目前的转发平台，类似互联网时代的个人站长，手法也比较接近，有很多小站，扒其他网站的内容，稍加修改后向外宣传，达到一定流量之后，去换广告。此前一些不正规的保健品、假冒伪劣商品的广告主要投放在一些小网站，如今已将阵地转移至微信朋友圈。</p>
-<p>“现在对于这类APP的监管，不能说是漏洞，而是空白。程序本身不违法，但利用程序干违法的事儿，却很难监管。”这位网络安全人士表示。</p>
-<p>重案组37号(微信ID:zhonganzu37)探员注意到，2016年3月10日，微信公告称，将对“转发赚钱、刷分刷榜类”的诱导行为进行处罚，处罚形式包括删文、限制帐号部分能力或封禁帐号等。</p>
-<p>对此，微信团队回复称，“很多转发平台所进入的均是外部链接，微信有相应的管理规范，主要的措施还是依据用户举报。”</p>
-<p>而对于存在的虚假违规广告，微信团队表示，对于此类恶意广告在微信中的出现，微信也是受害者。</p>
-<p>据一名工商系统人士介绍，目前针对朋友圈的广告监管确实为空白。目前，工商能做的也就是提示风险。该人士解释，微信等网络交易行为隐蔽，不能提供发票等相关证据，一旦出现投诉，兜售产品的一方可以随时消失，让监管部门无法找到当事人。“如同微商一样，说到底是没有资质的，也不好监管，像两人之间的私下交易。”</p>
-<p>该人士建议，对于微商可通过消费者举报和线上线下一体化管理，重点从商品及服务提供者是否具备相关资质，是否发布虚假宣传信息，是否涉嫌传销等方面开展日常监管。</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E9%B8%A1%E6%B1%A4%E6%96%87%E4%BA%A7%E4%B8%9A%E9%93%BE%EF%BC%9A%E4%B8%80%E7%AF%8710%E4%B8%87%E6%96%87%E7%AB%A0-%E8%BD%AC%E5%8F%91%E5%B9%B3%E5%8F%B0%E8%B5%9A3%E4%B8%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90/?category=18271" rel="tag">不法分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%80%81%E5%B9%B4/?category=18271" rel="tag">中老年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E9%94%80/?category=18271" rel="tag">传销</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E7%BD%9A/?category=18271" rel="tag">处罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E5%8F%B7/?category=18271" rel="tag">封号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%85%AC%E5%8F%B7/?category=18271" rel="tag">微信公号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BF%83%E7%81%B5%E9%B8%A1%E6%B1%A4/?category=18271" rel="tag">心灵鸡汤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E8%B4%B9%E8%80%85/?category=18271" rel="tag">消费者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%9C%E8%A7%84%E5%88%99/?category=18271" rel="tag">潜规则</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%B0%E8%89%B2%E6%94%B6%E5%85%A5/?category=18271" rel="tag">灰色收入</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95/?category=18271" rel="tag">聊天记录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%90%A5%E9%94%80/?category=18271" rel="tag">营销</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A/?category=18271" rel="tag">虚假广告</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -796,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -806,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

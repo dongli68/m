@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%B1%8A%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9C%89%E5%85%9A%E6%80%A7%EF%BC%8C%E8%AE%A9%E5%AE%83%E5%9D%8F%E5%B0%B1%E5%9D%8F/" target="cdt-mirror">【网络民议】这届执法记录仪有党性，让它坏就坏</a>
+</h2>
+<p><p>昌平公安在描述雷洋事件过程的<a href="http://weibo.com/5217409150/DuWTADiTs" target="_blank">公告</a>里，称其“<strong>将民警所持视频拍摄设备打落摔坏</strong>”：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%80%9A%E5%91%8A.jpg" rel="attachment wp-att-437488"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%80%9A%E5%91%8A.jpg?resize=482%2C143" alt="通告" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/通告.jpg?resize=300%2C89 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/通告.jpg?w=482 482w" sizes="(max-width: 482px) 100vw, 482px" data-recalc-dims="1"></a></p>
+<p>然而有网民翻出了2015年昌平分局购置警用设备的中标结果内容，其中包括了<strong>500台</strong>由北京智敏科技发展有限公司生产的<strong>“裸机可承受3.3米任意面跌落”的“执法记录仪”</strong>：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8C%97%E4%BA%AC%E6%99%BA%E6%95%8F%E7%A7%91%E6%8A%80%E4%B8%AD%E6%A0%87.png" rel="attachment wp-att-437489"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8C%97%E4%BA%AC%E6%99%BA%E6%95%8F%E7%A7%91%E6%8A%80%E4%B8%AD%E6%A0%87.png?resize=500%2C786" alt="北京智敏科技中标" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/北京智敏科技中标.png?resize=191%2C300 191w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/北京智敏科技中标.png?resize=768%2C1207 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/北京智敏科技中标.png?resize=652%2C1024 652w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/北京智敏科技中标.png?w=1460 1460w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>从智敏科技官网<a href="http://www.zhiminkeji.com/cases/cases2.html" target="_blank">发布</a>的记录仪佩戴方式来看，<strong>要将这种执法记录仪“打落”似乎是非常困难的：</strong></p>
+<blockquote><p>现场执法记录仪采用了360度可旋转的<strong>强咬合力全钢制背夹</strong>，人性化的挂式配件。可以根据现场拍摄需要进行多个角度旋转，可任意调节执法仪的摄像角度，不易下垂，<strong>挂式背夹配有专用配件与执法仪双重固定，一般佩戴于肩前；在执法过程中，佩戴牢固耐用，无论是行走或跑动均不会跌落。</strong></p></blockquote>
+<p>下图为智敏科技为北京市门头沟工商局进行执法记录仪培训的现场照片，摄于2014年，当时使用了型号为DSJ-Z8的旧款记录仪：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20141205101929_7714.jpg" rel="attachment wp-att-437490"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20141205101929_7714.jpg?resize=550%2C366" alt="20141205101929_7714" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20141205101929_7714.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20141205101929_7714.jpg?resize=768%2C511 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20141205101929_7714.jpg?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>图片来源：<a href="http://www.zhiminkeji.com/news/newsde304.html" target="_blank">北京智敏科技官网</a></span></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@四喜蜀黍：这么点空间能发力，能找到足够摔坏的接触面，绕过车里一堆人，然后成功摔坏，这是投掷专精LV99吗？为什么不说踩碎了，或者掉进洗脚水里面呢？攻击副驾驶是吧？行车记录仪有没有晃动？有没有不正常的行驶画面出现？</p>
+<p>@伊春环宇:枪杀许纯合时视频记录仪没电了，现场围观群众的手机恰巧都坏了；击毙雷洋时视频记录仪摔坏了，附近的摄像头恰巧都不好使了。昌平，你们说的这些，你们自己信吗？</p>
+<blockquote><p>@sdvina: 新闻对照着看，才有意思@青光楚辞<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/59f80bd4jw1f3r8wf28udj20k00zkwm8.jpg" rel="attachment wp-att-437494"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/59f80bd4jw1f3r8wf28udj20k00zkwm8.jpg?resize=375%2C666" alt="59f80bd4jw1f3r8wf28udj20k00zkwm8" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/59f80bd4jw1f3r8wf28udj20k00zkwm8.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/59f80bd4jw1f3r8wf28udj20k00zkwm8.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p></blockquote>
+<p>@木匠周:呵呵。可以看看咬人的视频啊</p>
+<p><a href="http://weibo.com/yimaobuba?refer_flag=1001030103_" target="_blank">@一毛不拔大师 </a>：你们这些年轻人啊，总想搞个大新闻。执法记录仪摔坏了就集体嗷嗷，说什么存储不该坏。没看人家都准备好钩了吗，记录仪是在第一次扭打时坏的，过几天努力读出了记录卡的内容，看到的是警方除个别人推搡外都在文明执法；而第二次采取强制措施到心脏病死亡期间记录仪已经坏了不能给看也可以理解嘛<img title="[爱你]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif" alt="[爱你]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1856024335" target="_blank">@哈亚那887</a>：嘛，视频剪辑需要时间嘛，正好记录仪打坏了也有理由剪了，完美<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><strong>@吴语的鱼：群众:“受害人从一个正规的足疗店里出来，你们是怎么断定或怀疑他刚才进行了嫖娼活动的？” 警方:“什么正规足疗店，那里根本就没足疗，去那里的就是进行嫖娼的”。 “哦，原来你们早就知道那里在从事卖淫嫖娼活动，那咋早不查处呢？” 警方:“……这届人民不行，问题太多。”</strong></p>
+<p>@西门不暗：1.昌平警方的通稿，把警方描述成了受害者，然而，施害的人却死了。2.抓嫖娼要抓现场吧，出了按摩店还能把人扑倒，依据的是哪条法律？3.执法摄像仪坏得真是时候，公务员体系采购价格超高不是没道理，关键时候通人性。4.北京嫖娼200元，这是形象广告，这么接地气的首都，一平米的房子可以嫖300次。</p>
+<p>@肉团团和小胖胖：执法记录仪，我15年替美国某市警局采购过一批300台警用执法仪，交货单价110美金（715人民币），规格配置和竞标文件里一模一样。 这家伙居然采购价格2180人民币， 100万采购额，差价赚73万！ @十年砍柴 这真的是竞标来的么？ 如果需要我可以提供详细的采购资料，产品规格资料。</p>
+<p>@valar_morghulis-KingLy：建议严查摄像头、执法记录仪采购和生产方，要背锅就得背到底，这鸟质量怎么能帮助建设伟大的社会主义呢→_→</p>
+<p>@哈哈哦哈哈：我国的监控，记录设备都是很高端，很人性化的，让它坏就坏，该恢复的时候又能恢复</p>
+<p>@色色猴:内，存，卡，也，摔，坏，了？</p>
+<p>@养猪专业户王福贵：也就是说，执行任务的人只有一个有执法记录仪，而且恰好这台记录仪摔坏了，还必须连储存卡一起摔坏。这个故事讲起来有点累。</p>
+<p>@伊然狂想：数码设备跌落还能把数据跌没了，连带着别人手机的数据都跌么的了……</p>
+<p>@TIDY小熊他爸：内存卡再怎么损坏，数据也能恢复。除非是烧了、完全砸碎……</p>
+<p>@深肖朕躬：3.3米任意跌落摔不坏，人家说的是产品质量。到该坏的时候一准坏，人家说的是产品的党性。质量要讲，党性也要讲，并且，到任何时候，质量也要服从党性。这也是我们天天讲的党要领导一切。</p>
+<p>@innesfry：记录仪姓党，请你检阅</p>
+<p>@让卡渣飞啊飞：已经有自称自己也是警察的洗地党说了，执法记录仪记录的内容是国家机密，岂能对民众公开</p>
+<p><strong>@大唐帝國系列 ： 这一届摄像头行，有党性知道维护执法者，有思想的摄影头，执法记录仪有党性，知道即使摔坏，维护了执法者的光明正确伟大</strong></p>
+<p><strong>@Super_Vik：托自带党性的记录仪和监控的福，现在每隔几天就有全民破案活动，比我小时候喜欢看的三分钟推理强多了</strong></p>
+<p>@猫咪又怀孕了：这届记录仪立了大功，将进常委。</p>
+<p>@再减重5公斤：几个执法记录仪同时坏，论统战工作的重要性</p>
+<p>@北极九段_柳承哲：任何想把问题的关键从”咋死的”变成”嫖没嫖”的人都是在耍流氓 。审讯被抓起来的其他涉案卖淫嫖娼的人，就会知道雷洋是不是嫖娼？公开视频录像就知道他是怎么死的？不要混淆视听，嫖娼不是重点，人怎么死的才是重点！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%B1%8A%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9C%89%E5%85%9A%E6%80%A7%EF%BC%8C%E8%AE%A9%E5%AE%83%E5%9D%8F%E5%B0%B1%E5%9D%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA/?category=18271" rel="tag">执法记录仪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%85%AD%E5%9B%9B%E5%90%8E%E7%BE%8E%E4%B8%AD%E5%A4%96%E4%BA%A4%E5%AE%8F%E5%9B%BE%E4%B8%AD%E4%B8%80%E4%B8%AA%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF/" target="cdt-mirror">美国之音｜六四后美中外交宏图中一个年轻政治犯</a>
 </h2>
 <p><p>编者按：曹雅学女士是英文网站chinachange.org的创办人兼编辑。这篇文章不代表美国之音的观点。转载者请注明来自美国之音或者VOA。</p>
@@ -815,24 +857,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%A6%96%E5%AE%B6%E5%85%A8%E5%9B%BD%E7%9B%91%E7%8B%B1%E7%B3%BB%E7%BB%9F%E5%AD%94%E5%AD%90%E5%AD%A6%E5%A0%82%E5%9C%A8%E5%B1%B1/" target="cdt-mirror">【异闻观止】首家全国监狱系统“孔子学堂”在山东揭牌</a>
-</h2>
-<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/l6M-fxryhhi8511250.jpg?resize=550%2C365" alt="-l6M-fxryhhi8511250" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/l6M-fxryhhi8511250.jpg?resize=300%2C199 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/l6M-fxryhhi8511250.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>服刑人员正在孔子学堂学习孔子文化</p></div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rBi-fxrytex7277974.jpg?resize=550%2C365" alt="-rBi-fxrytex7277974" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rBi-fxrytex7277974.jpg?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rBi-fxrytex7277974.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>山东省鲁中监狱孔子学堂揭牌仪式现场</p></div>
-<p>7日上午，山东省鲁中监狱举行“全国监狱系统首家‘孔子学堂’——暨鲁中监狱‘孔子学堂’揭牌仪式”，中国孔子基金会副理事长邢成湖同志、山东省 监狱管理局党委委员、副局长林国军同志出席揭牌仪式并致辞，山东省鲁中监狱监狱领导、部分警察以及全体服刑人员参加了活动。</p>
-<p>揭牌仪式 上，林国军副局长发表讲话，指出，鲁中监狱“孔子学堂”揭牌仪式是全省监狱系统的一件大事，也是推进“安全文明现代化监狱”创建工作的一项重要举措。此次 在鲁中监狱设立“孔子学堂”，属全国监狱系统首家，对于提升全省教育改造工作科学化、专业化、社会化水平，推动各项工作创新发展具有十分重要的意义。对下 一步工作，林国军副局长强调：一是要发挥平台优势，继续创新教育改造思路。</p>
-<p>据了解，孔子学堂的建立，为专业文化机构和监狱之间搭建了一个合作、交流、互助、发展的重要平台，是监狱弥补系统内部教育资源单一、专业力量薄弱的重要措 施，要继续丰富形式、发挥优势，主动强化教育改造职能，为推动山东省监狱教育改造工作“走在前列”添砖加瓦。二是要把握合作机遇，持续提升教育改造质量。 鲁中监狱要借智借力，充分借助“孔子学堂”的资源优势，深入挖掘文化主题内涵，实现优势互补、合作共赢，进一步健全完善教育改造体系机制，促进监狱教育改 造质量的持续提升。三是要打造特色品牌，不断增强辐射带动作用。要把鲁中监狱“孔子学堂”办成一个具有鲜明特色的教育品牌，充分展现山东罪犯教育改造工作的先进性。同时要尽快形成良性运转机制，发挥好辐射带动作用，为“文化育人工程”建设再添新亮点。</p>
-<p>据悉，“孔子学堂”是中国孔子基金会 倾力打造的大型公益文化项目，其以“写好字、读好书、做好人”为宗旨，有力推动了优秀传统文化的传播、转化和发展。鲁中监狱开办孔子学堂，本着“教育改 造、攻心治本、文化育人、涤荡新生”的理念，进一步丰富教育改造形式，营造良好育人环境，提升服刑人员传统文化素养，引导他们重新树立正确的道德信仰。</p>
-<p>揭牌仪式上，鲁中监狱监狱长杨森同志致欢迎辞，并介绍：鲁中监狱“孔子学堂”下一步将从环境塑造、孔子书房、师资培训 、孝亲活动等多个方面，对监狱教育改造文化进行全方位、系统性建设：一方面，利用服刑人员集中学习时间，通过聆听文化名家讲座、观看影像资料、阅读国学经典、临摹大家字帖等形式，继承和传播中华优秀传统文化，培育和践行社会主义核心价值观，另一方面通过开展“诵经典、祭先贤、倡民俗、传家风、树榜样、立信 仰”等系列学堂活动，夯实教育改造成效。</p>
-<p>此次揭牌仪式上，中国孔子基金会普及及传播部主任张华先生还向鲁中监狱“孔子学堂”赠送了国学 经典听读机；山东孔子文化产业发展有限公司经理白杨先生带领服刑人员向至圣先师孔子行拜师礼，并背诵论语名句；中国孔子基金会孔子文化艺术中心主任蔡祥军 先生做了专题讲座，深受服刑人员欢迎。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%A6%96%E5%AE%B6%E5%85%A8%E5%9B%BD%E7%9B%91%E7%8B%B1%E7%B3%BB%E7%BB%9F%E5%AD%94%E5%AD%90%E5%AD%A6%E5%A0%82%E5%9C%A8%E5%B1%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AE%B6/?category=18271" rel="tag">儒家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AD%A6/?category=18271" rel="tag">国学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90/?category=18271" rel="tag">孔子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90%E5%9F%BA%E9%87%91/?category=18271" rel="tag">孔子基金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90%E5%AD%A6%E5%A0%82/?category=18271" rel="tag">孔子学堂</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -844,7 +868,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AE%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -854,5 +878,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%92%E5%AE%B6
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

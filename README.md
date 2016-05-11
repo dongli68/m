@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%B8%9F%E6%89%98%E9%82%A6-%E9%A3%93%E9%A3%8E%E6%9C%AA%E8%B5%B7%E4%B9%8B%E5%89%8D-%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%A1%A3%E5%86%A0%E6%A5%9A%E6%A5%9A%E5%9C%B0%E8%A3%B8%E5%A5%94/" target="cdt-mirror">鸟托邦 | 飓风未起之前 所有人都在衣冠楚楚地裸奔</a>
@@ -68,7 +68,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B/?category=18271" rel="tag">网络水军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%AB%96%E5%A8%BC%E5%9C%A8%E9%81%93%E5%BE%B7%E4%B8%8A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%81%B6%EF%BC%9F/" target="cdt-mirror">唐映红 | “嫖娼”在道德上到底有多“恶”？</a>
 </h2>
@@ -290,6 +290,41 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 <a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%85%AD%E5%9B%9B%E5%90%8E%E7%BE%8E%E4%B8%AD%E5%A4%96%E4%BA%A4%E5%AE%8F%E5%9B%BE%E4%B8%AD%E4%B8%80%E4%B8%AA%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%E9%9C%80%E8%A6%81%E7%9A%84%E6%98%AF%E6%AD%BB%E4%BA%A1%E7%9C%9F%E7%9B%B8%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%AB%96%E6%B2%A1%E5%AB%96%E5%A8%BC/" target="cdt-mirror">朱人奉：“雷洋之死”需要的是死亡真相，而不是嫖没嫖娼</a>
+</h2>
+<p><p><em>来自微信公号：新周刊（ID: new-weekly）</em></p>
+<blockquote><p><strong>雷洋与家人失联的那几个小时到底发生了什么，在疑点重重的通告中，他们只看到“嫖娼”这两个大大的字。</strong></p></blockquote>
+<p>文/朱人奉</p>
+<p>5月7日，是雷洋和妻子的结婚纪念日，晚上吃过饭，他要去机场接一个亲戚。9点多，看到雷洋还在家里玩手机，岳父催他出门，亲戚的航班预计11点半就到。雷洋没有等到11点半，出门后一个小时，他死在了医院急救室，死亡时间为22点09分。</p>
+<p>这短短一个小时里发生了什么？据昌平警方通报，雷洋出门后没有直接去机场，而是去了昌平区某间足疗店寻欢，被带回公安机关审查过程中，雷洋突然“身体不适”（5月8日1时雷洋家人接昌平东小口派出所通知并赶到后，被告知雷洋是因心脏病突发死亡），送院后不治身亡。案情似曾相识，2002年武汉理工大学教授程树良死于奔丧途中，通报结论是程树良在路上去了嫖娼，被押回派出所途中跳车受伤，送院后不治。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image.jpg" rel="attachment wp-att-437468"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image.jpg?resize=500%2C468" alt="image" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image.jpg?resize=300%2C281 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image.jpg?w=654 654w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>新京报报道，图为雷洋当时的抢救地。拍摄/赵赫廷</span></p>
+<p>这次不是朝阳群众，而是昌平群众举报了雷洋事件中的卖淫足疗店。据警方说，此次行动抓获了6人，其他5人涉嫌“协助组织卖淫罪”。也就是说，被捕的六个人要么是“嫖客”，要么是“鸡头”，卖淫者却不见了，难道这是一场没有被嫖对象的嫖娼？还有，谁报的案？哪个足疗店？死前到底发生了什么？</p>
+<p>腾讯探针报道，雷洋在急诊室时仍然戴着手铐，这是真的吗？代理雷洋家属的彭律师告诉新京报，雷洋身上有伤疤，又是怎么回事？目击者对北青报记者爆料，雷洋被捕时身边“围了一二十人”，他一直在喊救命，这是案发现场的情况吗？还有多位目击者对财新网表示，雷洋在小区内被便衣男子追赶并发生打斗，为何在通告中只字未提？疑点重重，现在的通告远远不能解释清楚。</p>
+<p>真相还堵在路上，网上却有人说“关键是嫖没嫖”。嫖娼仿佛成了这个时代最大的恶与罪，只要沾上这个污点，死不足惜。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2.jpg" rel="attachment wp-att-437467"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2.jpg?resize=500%2C455" alt="image2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2.jpg?resize=300%2C273 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2.jpg?w=641 641w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>腾讯探针、财新网与北青报的报道。</span></p>
+<p>人都死了，为什么重点却成了“嫖没嫖”？</p>
+<p>自从薛蛮子登上央视为嫖娼道歉忏悔后，社会上轰轰烈烈地掀起了对“嫖娼”和“嫖娼者”的道德审判。嫖娼、出轨和吸毒，大V和明星但凡沾上一星半点，事业必毁无疑。嫖娼成了一种不可原谅的“原罪”，如果带上这个罪名，他们这个“人”就可以被全然地否定掉。</p>
+<p>李普曼在《公众舆论》中指出，成见具有屏蔽其他观点和立场的左右能力，每一套成见中都有一个点，在那个点上，全部努力均告停止，事情会按照你喜欢的样子自行发展。这个点会使人忽视很多需要考虑的东西，掩盖某种事实，所以可以利用它来做议题设置。</p>
+<p>当人们开始对雷洋“嫖没嫖”进行讨论和分析，就完成了第一次舆论转移。微博认证为果壳达人的@警察蜀黍，煞有介事地分析“刚有小孩就肯定不会嫖娼或出轨？”“接机中途去HIGH一下，路线上是可以做到的，时间是来得及，这个地图一下你就知道”。这类科普党已经进化到可以通过“万事皆有可能”的想象来审判当事人。“嫖娼”一说划定了讨论的范围和方向，他们在这个“指引”下脑洞大开，在警方还没有提供更多证据的情况下，就已经设想到了雷洋嫖娼的一切可能性。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3.jpg" rel="attachment wp-att-437471"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3.jpg?resize=500%2C375" alt="image3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3.jpg?w=654 654w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>昌平区东小口派出所，雷洋被带回这里接受审查。图/中国青年网</span></p>
+<p>第二次舆论转移几乎是自发的，从雷洋“嫖没嫖”谈到了“卖淫嫖娼应否合法化”，开始重复以往明星嫖娼事件中讨论过的东西。无效的讨论，转移焦点的激辩，一些边缘性的话题进入了事件的中心。在雷洋之死中，他的死亡竟然远离了舆论中心，他有没有嫖娼才是决定能否上热搜榜的“关键”。</p>
+<p>让法律的归法律，道德的归道德</p>
+<p>退一万万步说，即使雷洋嫖娼，对妻子不忠，对家庭不负责任，他的死就活该吗？根据《中华人民共和国治安管理处罚法》第六十六条规定：“卖淫、嫖娼的，处十日以上十五日以下拘留，可以并处五千元以下罚款；情节较轻的，处五日以下拘留或者五百元以下罚款。”这条法规无论如何解读，一般的卖淫和嫖娼都不是什么重罪。</p>
+<p>但“嫖娼”罪名的可怕之处就在于，它就是道德审判的高帽，戴上了之后，人人都可以朝你吐口水。围观中等着吃人血馒头的人，既要求一个“完美的公知”，大V和公知不能有言行和人品上的污点，否则他们就没有资格主张他们的权利；他们也要求一个“完美的受害者”，受害者死后要受到严厉的“政审”，他们最好祈祷自己生前不要有什么“不光彩”的历史，否则死不足惜，死有余辜。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image4.jpg" rel="attachment wp-att-437470"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image4.jpg?resize=500%2C357" alt="image4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image4.jpg?resize=300%2C214 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image4.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>甘肃，12岁女学生跳楼自杀后，民众包围了事发超市。</span></p>
+<p>去年12月28日，甘肃12岁女学生在超市偷了几块巧克力后被责打，通知家长后，她选择了跳楼自杀。对此悲剧应该问的是谁逼死了孩子，但网上却有人大讲做人的道理——“再穷再饿也不能偷东西”。</p>
+<p>雷洋与家人失联的那几个小时到底发生了什么，在疑点重重的官方通报中，他们只看到“嫖娼”这两个大大的字。如果嫖娼能够掩盖真相，那么它就可能成为一种手段。这才是真正的“娱乐至死”，一切严肃的追问都被这个带着软色情想象的道德批判消解了。</p>
+<p>法律的归法律，道德的归道德，这是一个国家走向文明的标志之一。在一个人的死亡面前，“嫖没嫖”算什么事？不管他有没有嫖娼，他的死亡都应该得到彻查。况且，诚如人民日报的评论所说，警方的通报只有寥寥数语，缺乏事发时间、地点、经过等关键要素，而根据财新网的报道，雷洋是在小区停车位被捕的，所以并不是在足疗店被抓现行，那么何以构成“嫖娼”？这些疑惑和质问，有关部门必须一一向家属和公众澄清和解答。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image5.jpg" rel="attachment wp-att-437469"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image5.jpg?resize=500%2C305" alt="image5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image5.jpg?resize=300%2C183 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image5.jpg?w=550 550w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>雷洋“身体不适”后背送至昌平区中西医结合医院。</span></p>
+<p>无论调查结果如何都应该记得，要求受害者的历史是“完美的”，很可能会导致这种结果：如果我们也遭遇了不幸，我们都会成为“该死”的那一位。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%E9%9C%80%E8%A6%81%E7%9A%84%E6%98%AF%E6%AD%BB%E4%BA%A1%E7%9C%9F%E7%9B%B8%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%AB%96%E6%B2%A1%E5%AB%96%E5%A8%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
@@ -699,46 +734,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E4%BB%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%88%86%E8%AE%BA%E5%9C%BA%E7%9A%84%E8%BE%B9%E7%95%8C/" target="cdt-mirror">端传媒 | 魏则西事件：舆论场的边界</a>
-</h2>
-<p><p>青年学生魏则西罹患癌症。他通过百度找到新抗癌技术，花了二十多万，发现技术和医院是一场骗局。在“知乎”网站的问题“你认为人性最大的恶是什么”下，他写道：“希望我的回答能让受骗的人少一些，毕竟对肿瘤病人而言，代价太大了”。</p>
-<p>魏则西死了，缠住魏则西的利益链条现已清晰：“莆田系”私人医院出钱在百度上头条、获得推广，魏则西被百度提供的医疗信息引领至三甲医院──武警北京市总队第二医院。而武警二院又将部分科室，包括重症肿瘤科室，外包给了莆田系医院──这些私人医院，大多数由来自福建莆田的老板经营，以贴小广告、治疗性病起家，医疗水平低劣。</p>
-<p>舆论压力下，涉事三方处境不同。百度和莆田系处在风口浪尖：媒体人、律师、医生等联合批评监督，推动相关部门调查。武警二院方面，卫计委和中央军委已经展开调查；而媒体对部队医院的报道，则遇到审查。</p>
-<p>整件魏则西事件表明：媒体和舆论可以监督商家，但批评止步于公权力。</p>
-<p>追问</p>
-<p>百度和莆田系遭到围剿。媒体报道与网友意见、评论配合，质疑百度、莆田系违规经营及制度漏洞。5月2日，网信办牵头成立联合调查组，进驻百度。5日，国家卫计委表示立即全面清理违规出租科室、违规开展临床应用。</p>
-<p>关注从自媒体（self-media）起，后有专业媒体、医生及律师跟进挖掘。</p>
-<p>事情源自知乎。知乎是开放式的问答平台，类似于中国大陆版的Quora。魏则西在知乎介绍了自己遭遇医疗欺诈，4月26日，他的父亲帮他更新了最后一条知乎状态：则西去世了。</p>
-<p>4月27日，媒体人孔璞@孔狐狸 将魏则西的消息从知乎转到微博，肿瘤科医生@“希波拉底门徒”第一个转发孔璞的微博，引起医生加入讨论，医疗领域对魏则西事件开始探讨。</p>
-<p>5月1日，另一位媒体人“涓总”在微信发布《一个死在百度和部队医院之手的年轻人》，迅速获得10万以上的浏览。</p>
-<blockquote><p>截止7日上午，微博话题 #魏则西事件，阅读达3.7亿次。</p></blockquote>
-<p>从医学的专业视角看来：魏则西在武警二院接受的免疫生物疗法，处于试验阶段；它可能是一种有效的癌症治疗手段。魏则西去世，不等于这是一种虚假疗法。但是在大陆，免疫疗法监管缺失，免疫生物疗法在临床上，常涉及行骗。5月4日，卫计委明确表示：细胞免疫治疗属于临床研究阶段，叫停了临床收费治疗。</p>
-<p>有律师指出，百度竞价推广医疗信息不仅有违商业伦理，而且涉嫌违反广告法。《血，染的谁家馒头》一文认为，“百度竞价排名”服务类别产生的付费问题，法院认可为广告。然而，互联网广告监督办法并不完善。</p>
-<p>专业媒体迎头跟上。百度和莆田系的利益链条重回审判台：《新京报》5月3日刊发调查：“医疗行业每天百度推广花费数千万元”，其中多属于莆田系医院。针对莆田系的调查报导，早已有之。2006年，《瞭望东方周刊》揭露莆田系收购医疗执照以经营医疗科室、制造使用低劣医疗器械、承包公立医院。2014年，《南方周末》刊出一期专题，列出陈、詹、林、黄“四大家族”，商业体量庞大，医疗质量堪忧。莆田系是医改难题。</p>
-<p>同时，网上出现莆田系老板给部队医院送礼的截图。莆田系康新公司原股东陈元发，与大股东产生矛盾，索性内部揭发，在微博上晒出给部队医院送礼的名单。</p>
-<p>5月1日，官方媒体《人民日报》批评百度和莆田系，凭借其行业垄断地位，形成商业联姻， “所以能够胡来”。</p>
-<p>面对批评，百度有所准备。4月28日，百度官方微博@百度推广在魏则西去世后表示哀悼，同时表明，百度医疗竞价推广有资质审核系统；虚假医疗的责任方在于医院。但这条预防针似的微博没有防护效果。微博下点赞最高的评论说，“百度控制着普通人接触信息时代的入口，却把路标指向邪恶欺骗的世界”。</p>
-<p>上周开盘后，百度纳斯达克指数不断下挫，跌幅将近10%，5月2日市值缩水近350亿元；同时，百度接受网信办调查。莆田系的各家医院，则没有公开回应。事件发酵后，属于莆田系的上市公司，股价齐跌。以“华夏医疗”为例，5月3日一天跌幅达到13%。</p>
-<p>审查</p>
-<p>与百度、莆田系相比，直接涉事方武警二院处境神秘。院方对事件没有回应，但已暂停一切对外业务。3日，卫计委宣布，联合中央军委后勤保障部卫生局、武警部队后勤部卫生局联合对其进行调查。而媒体对武警二院的调查遭到阻拦。在涉及部队医院腐败、管理混乱的报道刊出后，媒体审查也接踵而至。</p>
-<p>莆田系股东内斗，揭露莆田系“和各地医院最早合作，都是从部队医院开始的”。媒体跟进挖掘，指出部队医院存在腐败、监管缺位问题。部队医院属于军队系统，不归地方管辖；地方卫生系统无法监管部队医院。</p>
-<p>有消息称，部队医院腐败消息曝光之后，中宣部要求删除相关报道，给“魏则西事件”报道降温。4号下午，微信上广传一篇文章──《关于“魏则西”事件，上面有最新报道要求》，文中贴出审查禁令，要求对魏则西事件的报道全面降温，尤其要删除“借机攻击党和政府、医疗制度、社会制度等相关言论”，该文现已无法打开。</p>
-<p>4日、5日，部分涉及部队医院的文章消失。搜狐报道“莆田系股东曝与80所部队医院合作，给某院送礼百万”已无法打开；其他公号的转载，显示为“此内容因违规无法查看”。</p>
-<p>5日，解放军报下属军网发表评论称：军队医院因魏则西事件跟着挨骂，很冤。</p>
-<p>6日，人民日报再发评论，没有追问魏则西之死，而是教导人民需要提高科学素养，生死为自然规律，医学没有神话。</p>
-<p>但是，降温消息传出后，有媒体报道莆田系借“借部队医院野蛮生长”，列出给部队医院送礼明细；也有媒体再查武警二院，发现“治癌神医”已经不见。相比此前重大新闻事件，如2015年6月的长江沉船，此次审查、降温力度有限。</p>
-<p>或许不应该很意外，魏则西事件发酵后，知乎开始封号。6位用户，粉丝达62万，被永久封号。起因在有多位用户举报他们是百度的公关。微信文章《知乎6大V被永久封号，没有比这篇讲得更清楚了》中介绍：“这几篇文章的思路大体一致，都像是企图通过批判医院或体制从而转移群众视线，达到为百度洗地的目的”。</p>
-<blockquote><p>魏则西事件引起了社会大讨论。这场算得上自由、充分的讨论，让我们看到言论的边界：商家可以批评，官家很难撼动。媒体与部队医院在舆论上的交锋，正是言论尝试开拓的地方。</p></blockquote>
-<p>某种意义上讲，这也是当下社会改革的边界。</p>
-<p>（韩笑，香港大学新闻及传媒研究中心研究助理）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6%EF%BC%9A%E8%88%86%E8%AE%BA%E5%9C%BA%E7%9A%84%E8%BE%B9%E7%95%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">公权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E5%9C%B0/?category=18271" rel="tag">洗地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6%E5%85%AC%E5%85%B3/?category=18271" rel="tag">百度公关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -760,5 +755,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

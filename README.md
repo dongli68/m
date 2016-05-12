@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%9C%89%E4%BC%81%E4%B8%9A%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%B3%95%E5%BA%AD%E5%A3%B0%E7%A7%B0%E6%8B%A5%E6%9C%89%E4%B8%BB/" target="cdt-mirror">自由亚洲｜中国国有企业在美国法庭声称拥有“主权豁免权”</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/61e6c1b3-a097-4d99-9bba-5bbef5cf7608.jpeg" rel="attachment wp-att-437606"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/61e6c1b3-a097-4d99-9bba-5bbef5cf7608.jpeg?resize=585%2C366" alt="美中关系走向令人关注（资料图片）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/61e6c1b3-a097-4d99-9bba-5bbef5cf7608.jpeg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/61e6c1b3-a097-4d99-9bba-5bbef5cf7608.jpeg?w=622 622w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>美中关系走向令人关注（资料图片）</span></p></div>
+<p>由政府机构支持的一些中国主要国有企业，如今在美国面对诉讼时经常采取一种具有争议的辩护理由，即：他们享有“主权豁免权”。但法律专家们解释，美国1979年通过的《外国主权豁免法》的保护对象是主权国家的政府，并不包括商业实体。</p>
+<p>路透社5月11日的报道说，中国最大的国有航空航天和国防公司“中国航空工业集团公司（ AVIC） ，迄今已两次采用了“主权豁免权”的辩护战略。而中国国有建筑产品公司“中国建材集团有限公司”（中国建材） ，也在一起涉及中国制造的石膏板墙损害了美国房主的健康的案子中，成功地利用了该辩护理由。</p>
+<p>报道说，这些法律诉讼涉及的问题是，由中国政府控制的公司企业，当他们在美国的子公司涉入商业纠纷时，是否能享受美国国会1979年通过的《外国主权豁免法》（FSIA）”的保护呢？</p>
+<p>报道说，中国建材集团一发言人表示，他们的案例已根据美国法律作出裁决，但拒绝发表进一步的评论。中国外交部发言人陆康在上周三的新闻发布会上说，“我们要求东道国切实尊重和维护海外中国企业的合法权益。”，但他又表示，并不清楚具体情况。</p>
+<p>此外，中国外交部也在去年十月对美国政府抱怨说，涉及中国建材集团石膏板案的原告律师，试图在诉讼中把中国国务院属下的“国有资产监督管理委员会”（国资委）列入被告名列中去。中国外交部也在一份有关外交照会中说，美国法院对一个主权国家的“国有资产”不具有管辖权。</p>
+<p>中国的国资委负责资产总和为4.7万亿元人民币的106家国有企业，其中包括“中国建材集团有限公司”和“中国航空工业集团公司”。</p>
+<p>在美国纽约的“美中科技文化交流协会”会长谢家叶博士表示，中国国有企业是否能够利用美国法律来享受主权豁免权，这是一个很复杂的问题，能否胜诉可能更取决于各法官怎么解读美国法律；</p>
+<p>“美国的主权豁免权法律是否适用于中国的国有企业，这是一个复杂的问题。<strong>中国国有企业通常到国外运作时，更希望别的国家把自己看成是商业实体，但出了问题却又想利用主权豁免权来保护自己</strong>，这能否成功似乎更多地取决于各法官如何解读有关法律。”</p>
+<p>路透社的报道说，今年三月，中航工业集团对达拉斯美国联邦地区法院所作的一项7千万美元的仲裁裁决提出质疑，表示该公司作为一家中国国有企业享有主权豁免权。该案例目前还有待判决。</p>
+<p>美国第六上诉法院去年十二月在另一起案子中作出了有利于中航工业集团的裁决，下令密歇根州联邦地区法院重审其决定，即：不驳回“环球科技股份有限公司（GTI）有关中航工业违背合同的起诉。</p>
+<p>美国第六上诉法院表示，密歇根州联邦地区法院应该赋予中国航空工业集团公司主权豁免权。此案现在已被下发到密歇根州的联邦地区法院，而且当事双方已同意接受法院监督下的调解。</p>
+<p>报道说，美国和中国法律制度之间的冲突，也开始在其他领域出现。例如，中国审计公司在美国监管机构调查在美国股市上市的中国公司时，也拒绝交出有关公司的工作文件，并说中国的国家保密法禁止他们这样做。</p>
+<p>此外，美国一法官去年11月因中国工商银行拒绝交出被指控控销售假冒奢侈品公司的账户记录，而判其为蔑视法庭。工商银行说，提供这些记录违反中国的法律，但当法官处以该行每日被罚款五万美金之后，它在今年一月遵从了法官的要求。</p>
+<p>正在诉讼中的“中国航空工业集团公司”案件涉及位于达拉斯市的“唐能源集团”，这是一家清洁能源公司。去年十二月，“唐能源集团”获得了针对中航集团公司及其境外分支机构的多方仲裁违约裁决。这个属于“国际争议解决中心”的仲裁小组发现，中国航空工业集团公司，未履行其资助西德克萨斯州一风力发电场开发全球风能业务的合资协议中的承诺。</p>
+<p>但中航空集团公司在其三月的备案中，要求美国达拉斯的地方法院放弃已作出的判决，它认为，有关仲裁小组的构成并不公平，而且它在判决中包括中航公司的境外分支是超出了裁决范围。同时，中航集团公司还宣称，它享有主权豁免权。</p>
+<p>担任“唐能源集团”资深法律顾问的格雷格-莱维克律师表示，中航空集团公司声称享有主权豁免这点是“令人震惊和不安的”。他说，“<strong>任何与中航工业集团公司及其子公司做生意的公司企业，都不得不忧虑</strong>，如果发生纠纷，他们是会要求豁免权呢、还是会采取负责的行动。？”</p>
+<p>关于中建集团公司的石膏板墙案件，中国外交部说，中国国资委被列入诉讼中是“非常荒谬的”。中国外交部的外交照会说，美国法院接受该诉讼并通过各种渠道试图把国资委拉入诉讼案，严重侵害了中国的国家主权和利益。”</p>
+<p>今年3月，涉案法官驳回了针对中国建材集团的诉讼，理由是原告没能证明该公司在美国从事了任何有关石膏板墙的商业活动。律师事务所奥利克纽约办事处合伙人、代表中建材集团公司的詹姆斯-斯坦格尔表示，声称享有“主权豁免权”对中国国有企业是相当适合的。 他表示，“你可以说，不同的经济和政治制度给中国国有企业提供了某些方面的优势。这是美国法律，美国政府已明确决定，会承认国有企业享有主权豁免权。”</p>
+<p>在美国纽约的“美中科技文化交流协会”会长谢家叶博士就此表示：</p>
+<p>“中国这些国有企业利用外国法律来为自己辩护有时也会胜诉，但对方可能还会上诉到更高一级法院，所以胜诉一次不能以为这就是最后胜利。此外，中国企业若想在国际上市场获得真正的业务发展，更应该在产品质量和信誉上多下功夫，而不只是专注于如何利用类似“主权豁免权”的外国法律来保护自己，即使自己有时可能能侥幸胜诉。”</p>
+<p>路透社的报道说，中国国有企业在美国法庭上利用“主权豁免权”,凸显出当中国海外投资迅速增长之际，其国家资本主义模式与法律制度的运行，如何日趋与西方国家的法规和其管辖权相冲突。一些法律专家解释说，利用“主权豁免权”作法律辩护，其目的是希望通过国际法来保护一个国家免受另一个国家政府的法律裁决，但它通常并不适用于商业实体。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%9C%89%E4%BC%81%E4%B8%9A%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%B3%95%E5%BA%AD%E5%A3%B0%E7%A7%B0%E6%8B%A5%E6%9C%89%E4%B8%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%88%AA%E5%B7%A5%E4%B8%9A/?category=18271" rel="tag">中航工业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">国企改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">国家主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%9C%89%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">国有企业</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E4%B8%89%E5%A8%83%EF%BC%9A%E8%A2%AB%E4%BE%BF%E8%A1%A3%E5%BD%93%E8%A1%97%E6%8A%93%E8%B5%B0%E4%B9%8B%E5%88%9D%E4%BD%93%E9%AA%8C/" target="cdt-mirror">简书｜文三娃：被便衣当街抓走之初体验</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg" rel="attachment wp-att-437591"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg?resize=358%2C314" alt="2033943-74d664833e134511" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg?resize=300%2C263 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg?w=358 358w" sizes="(max-width: 358px) 100vw, 358px" data-recalc-dims="1"></a></p>
@@ -242,6 +274,19 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%A8%BC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 7小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-7/" target="cdt-mirror">【真理部】”雷洋涉嫖死亡”</a>
+</h2>
+<p><p>“雷洋涉嫖死亡”相关报道撤出首页突出位置，已刊登的消息必须确保来源规范，对于上级主管部门要求的部分帖子请做出关评或删评处理，各部门负责人注意对网站编辑公开社交账号评论内容的监督，不得发表与媒体立场严重不符的言论。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%B8%9F%E6%89%98%E9%82%A6-%E9%A3%93%E9%A3%8E%E6%9C%AA%E8%B5%B7%E4%B9%8B%E5%89%8D-%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%A1%A3%E5%86%A0%E6%A5%9A%E6%A5%9A%E5%9C%B0%E8%A3%B8%E5%A5%94/" target="cdt-mirror">鸟托邦 | 飓风未起之前 所有人都在衣冠楚楚地裸奔</a>
 </h2>
@@ -774,80 +819,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E5%8D%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AE%B0%E8%80%85%E7%BB%84%E7%BB%87%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/" target="cdt-mirror">美国之音｜记者组织对外开放巴拿马文件信息</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3AF85D4A-A870-419A-8E73-95F818CBE789_w640_r1_s.jpg" rel="attachment wp-att-437390"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3AF85D4A-A870-419A-8E73-95F818CBE789_w640_r1_s.jpg?resize=575%2C323" alt="3AF85D4A-A870-419A-8E73-95F818CBE789_w640_r1_s" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3AF85D4A-A870-419A-8E73-95F818CBE789_w640_r1_s.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3AF85D4A-A870-419A-8E73-95F818CBE789_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p>香港人在莫萨克·冯赛卡律师事务所的香港地区总部附近示威，举着的标语牌上有习近平等人的像（2016年4月12日）</p></div>
-<blockquote><p><strong>相关专题</strong>：<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a></p></blockquote>
-<p>所谓的巴拿马文件揭示了全球权贵们利用离岸避税天堂隐藏财富的秘密。有关报道上个月曝光后，导致冰岛和西班牙高层官员下台，给英国首相卡梅伦带来难堪，并指称俄罗斯总统普京的一名同僚涉嫌洗钱。</p>
-<p>国际调查记者联盟说，星期一向公众开放资料库将可能带来更大的影响。该联盟掌握了从一个巴拿马律师事务所泄露的1150多万份文件，这些文件最初只提供给记者。</p>
-<p>该联盟星期一下午美东时间2点在其网站上开通了一个包含20万个离岸公司的可搜索数据库，预计这些公司的持有人来自200多个国家和地区。这个数据库融合了巴拿马的莫萨克·冯赛卡律师事务所被盗文件的信息，以及国际调查记者联盟之前有关国际避税调查的信息。</p>
-<p>这些信息可以根据国家、姓名、地址和其它等进行检索。诸如银行帐户和个人身份等敏感信息已被去除。</p>
-<p>巴拿马文件调查项目最初吸引了大约80个国家的100多家新闻机构的370多名记者。有关报道于四月初开始推出。他们的报道发现了各种各样的权贵要人在离岸公司中的参与，其中有140名政治人物，包括12名现任和前任政治领袖；亿万富翁；体育明星；毒品走私犯和黑手党成员。同时至少还有33人和公司由于有证据显示违法介入与墨西哥毒枭或朝鲜和伊朗等无赖国家做生意而被列入美国政府的黑名单。</p>
-<p>美国总统奥巴马星期五对巴拿马文件调查作出回应，呼吁国会通过立法，提高透明度，减少腐败。他呼吁要求所有美国成立的公司公布“受益人”，即指那些可能会从税收优惠中受益的人。他还要求美国国内银行和外资银行必须与打击腐败的执法部门共享信息。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AE%B0%E8%80%85%E7%BB%84%E7%BB%87%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%AB%96-%E6%9A%A7%E6%98%A7%E7%9A%84%E6%8A%93-%E8%B9%8A%E8%B7%B7%E7%9A%84%E6%AD%BB-%E4%BB%A5%E5%8F%8A%E9%BA%BB%E5%88%A9%E7%9A%84%E5%88%A0/" target="cdt-mirror">导弹熊 | 模糊的嫖 暧昧的抓 蹊跷的死 以及麻利的删</a>
-</h2>
-<p><p>北京市民雷洋涉嫌嫖娼被抓途中死，这件事骤然热起来。</p>
-<p>我没有使用人大硕士这种称谓，因为我觉得是不是硕士无所谓，只要是个人，就不能稀里糊涂地死。</p>
-<p>雷洋同学和家属的主要质疑点是：警方说雷洋是在对抗警方执法时心脏病突发死亡的，但家人证实其人身体健康且没有家族病史，真实死因待查；死者身上有伤，伤情和警方提供的说法似不吻合；死亡后长达两小时警方没有通知家属；死者手机里的位置信息被删除。</p>
-<p>这几个疑点，如果不能用强有力的证据来一一排除，则昌平警方会陷入大麻烦。尤其删除位置信息这一点很关键，这意味着删除者不希望手机信息成为不利于自己的证据。</p>
-<p>注意，我说的是“如果”和“可能”。</p>
-<p>一切皆有可能。</p>
-<p>让我们先根据现有信息做一次事件还原：</p>
-<p>2016年5月7日晚9点左右，雷洋出门去机场接亲戚，亲戚航班预计23点30分到达。如果警方所言不虚，则雷洋没有直接去机场，而是先去涉事足疗店嫖娼，结果被警方逮住。根据医院结论，雷洋在当晚22点09分抵达医院时已经死亡。</p>
-<p>这就是说，在短短一小时内，雷洋从家里去足疗店嫖妓、被警察控制盘问、被带上车押往派出所、在车上反抗并死亡，然后被送到医院。纵然东小口镇派出所、中西医结合医院和足疗店大致都在霍营一带，他也够忙的了！</p>
-<p>但是让我再说一遍，一切皆有可能。</p>
-<p>雷洋有可能在接亲戚之前，扣除大约40分钟或者更远一些的车程，利用一个半小时的富裕时间去一趟足疗店，也许只是洗脚按摩，也许真的是去嫖妓。</p>
-<p>他的学历和职业，不能先天证明他不会购买性服务。而我要说的是：即便他真的去购买了这种服务，警方处置他的方式，也和可能有问题，甚至有硬伤。</p>
-<p>当然，从雷洋的身份来看，他作为一名环境工作者，似乎不该和警方有什么过节，所以很难说警方蓄意陷害他甚至谋杀他，阴谋论未免牵强。</p>
-<p>可毕竟人死了。</p>
-<p>毕竟是死在了警察手上。</p>
-<p>而他就算嫖娼也遥遥地罪不至死。</p>
-<p>他到底是摔死的还是心脏病发作死的？取其中任何一个，都意味着另一个不真实。</p>
-<p>警方先前的说法是他已经被控制了，而且使用了强制约束手段，也就是绑起来了。后面又说他跳车逃跑，以至于头触地。这两个说法之间显然有点矛盾。</p>
-<p>如果雷洋是跳车而死的，那就意味着车速不低。雷洋是理科背景，不会不懂在奔驰的汽车上跳下去是什么结果。</p>
-<p>如果他是从静止的车子上跳下去的，那么在那个高度上，就算脑袋磕地，似乎也不至于摔死。</p>
-<p>而且既然采取了强制措施，那么能在手被绑着、车里还有警察的条件下拉开车门跳出去，好像也过于神勇了，或者说警察过于无能了。</p>
-<p>既然人送到医院时已经死了，那死因就不是医院判断的，而是警方现场判断的。</p>
-<p>警方在抓嫖过程中，似乎不会带着专业医生，那么他们是依据雷洋的何种表现来判明他是死于心脏病突发呢？为什么不是脑溢血？</p>
-<p>没有权威手段就得出结论，纵然不是撒谎，那也是极不专业的，因此是对死者家属不负责任的。</p>
-<p>不排除警方为了减轻责任而炮制说辞。</p>
-<p>一切皆有可能。</p>
-<p>我们不能因为以前出过警察胡来的案例，就先入为主地怀疑警察，臆测他们使用了暴力手段，甚至臆测他们有更深的图谋。</p>
-<p>可是且慢，回到最初一幕，有些细节还需要澄清：</p>
-<p>雷洋是在什么情况下被作为嫖客控制的？</p>
-<p>如果他正在实施嫖娼动作，或者说被抓了现行，那没话可说，下一步调查必须搞清楚这个。</p>
-<p>如果他只是刚刚进去，还没有宽衣解带，或者说已经完事要走了，裤子穿得好好的，那么警察凭什么认定他嫖娼了呢？</p>
-<p>简言之：即便是在一个有嫖娼嫌疑的场所，一个公民只要没有和那里的陌生女子发生性接触，警方咋给他定性嫖娼呢？仅仅靠妓女把他咬出来，或者拿出口袋了若干钱说这就是嫖资吗？</p>
-<p>联系到雷洋手机的位置信息被删除，这就令人不能不怀疑他到底是不是在足疗店被抓的。</p>
-<p>也就是说，假设他真的嫖妓了，警察也可能是根据妓女或者皮条客口供，在他离开足疗店后，在外面控制了他。</p>
-<p>如果是这样，就是严重的问题，因为无法证明他嫖妓了，除非足疗店有偷拍录像。</p>
-<p>嫖娼是违法行为而非犯罪。《治安管理处罚法》第六十六条规定： 卖淫、嫖娼的，处十日以上十五日以下拘留，可以并处五千元以下罚款；情节较轻的，处五日以下拘留或者五百元以下罚款。</p>
-<p>假如查实雷洋确系嫖娼，那么有形的惩罚不过如此，至于无形的身败名裂，那个另当别论。也就是说，警方犯不着跟他较劲到出人命的地步。</p>
-<p>既然如此，死人了，为何两小时不通知家属？是要摆平什么才能面对人家吗？比如统一口径？</p>
-<p>雷洋，一个公民，或许是有点隐情的公民，离开家门，一去不归，留下一个不光彩的疑点，和蹊跷的死因。他的家人将长久地背负荣誉和真相的十字架。</p>
-<p>警方有自己的办事流程，他们也许真的没有做什么手脚。</p>
-<p>但既往发生过的一些事情，让老百姓不太相信官方的说法，这个责任不在老百姓一方。</p>
-<p>我们只能是那句话：一切皆有可能。这句话对雷洋和警方同时有效。</p>
-<p>在检方调查清楚之前，警方、家属和舆论都在受煎熬。光是看新闻后面的评论，就已经知道此事又引爆了很多陈年话题，将社会再撕裂一次。</p>
-<p>总之——</p>
-<p>一个公民不能模糊地嫖或者“被嫖”，暧昧地被抓，蹊跷地死去，而为他叫屈的帖子却被极其麻利地删掉。</p>
-<p>静候真相。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E6%A8%A1%E7%B3%8A%E7%9A%84%E5%AB%96-%E6%9A%A7%E6%98%A7%E7%9A%84%E6%8A%93-%E8%B9%8A%E8%B7%B7%E7%9A%84%E6%AD%BB-%E4%BB%A5%E5%8F%8A%E9%BA%BB%E5%88%A9%E7%9A%84%E5%88%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E7%A1%95%E5%A3%AB%E6%9A%B4%E6%AD%BB/?category=18271" rel="tag">人大硕士暴死</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">平安昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E7%8C%96/?category=18271" rel="tag">被嫖猖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E6%8D%AE/?category=18271" rel="tag">证据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -859,7 +830,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -869,5 +840,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

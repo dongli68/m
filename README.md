@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%AB%98%E6%98%8E%E7%94%B5%E5%8F%B0-%E8%BA%BA%E5%9C%A8%E6%97%B6%E9%97%B4%E7%9A%84%E6%B2%B3%E6%B5%81%E4%B8%8A%E6%80%80%E5%BF%B5%E4%BB%96%E4%BB%AC/" target="cdt-mirror">高明电台 | 躺在时间的河流上怀念他们</a>
@@ -48,7 +48,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/512/?category=18271" rel="tag">512</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">大地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E5%BF%97%E6%A0%87/?category=18271" rel="tag">宋志标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB/?category=18271" rel="tag">我们的生活</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">汶川地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">遇难学生</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%89%91%E5%AE%A2%E4%BC%9A%EF%BD%9C%E9%83%AD%E5%BB%BA%E9%BE%99%EF%BC%9A%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6%E5%BF%85%E6%AD%BB%E4%BA%8E%E8%84%86%E6%96%AD/" target="cdt-mirror">剑客会｜郭建龙：警察国家必死于脆断</a>
 </h2>
@@ -797,7 +797,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -807,5 +807,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

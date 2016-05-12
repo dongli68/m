@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,144 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%86%8D%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%99%E5%BF%97%E5%88%9A/" target="cdt-mirror">詹膑：不可能再有一个“孙志刚”</a>
+</h2>
+<p><p><strong>【编者注】詹膑微信原文已被和谐。作者微信公号：Story（ID: zhanbinstory）</strong></p>
+<p>最近有两个死者，舆论沸沸扬扬。讨论中，屡屡看到人提到“孙志刚”，但是看到这三个字，我就心里发慌，充满沉重。</p>
+<p>提到孙志刚的人，估计心里还会有一点点美好的想象，但这真心就是幼稚病。不可预期的随机死亡，变成阴影，会笼罩越来越多的人；所以，就会有越来越多的舆论，也会有更多次提到“孙志刚”。</p>
+<p>但是我想说的是，不可能再有一个孙志刚了。</p>
+<p><strong>一、</strong></p>
+<p>“孙志刚”事件最为标志性的推动事件，是三个法学博士向全国人大常委递交了“请愿建议书”。但这三个博士如今在哪里：</p>
+<ul><li>一个在教育系统内有很好职位，一直做法律史的研究，最近这些年基本看不到公共发言</li>
+<li>一个持续公共发言，并成为维权律师，目前属于“流亡状态”</li>
+<li>一个持续公共发言，但是现在在牢里，什么都没法说</li>
+</ul><p>在过去这些年里，后面两位付出的努力，并没有得到足够多社会公众的了解和支持——所以，我们要承担社会状况恶化的后果，这是必然的果报。</p>
+<p>一部分原因是我们并没有想关心和支持他们；另一部分原因，他们做的所有事情，发出的所有声音，都在持续“被删帖”，所以，看不到。</p>
+<p>我也没法提他们的名字。</p>
+<p><strong>二、</strong></p>
+<p>当年报道“孙志刚”事件的两个记者，都转行到互联网了。</p>
+<p>调查报道基本消失了，准确的说：涉及到权力对抗的社会事件完全没有专业报道了。新闻行业还有根儿吗？</p>
+<p>南方系几经洗涤。</p>
+<p>没有了新闻媒体这样的社会监督，整个社会不可能会好。想想普利策新闻奖的获奖名单？全部是对社会负面的报道。</p>
+<p>没有记者和新闻了，我们只有靠自己在微信公号里面张罗了。</p>
+<p>但是我们删帖的系统更加强大和健全了，帖子被删的更加及时了，这个时候，人们是没有什么力量的。</p>
+<p><strong>三、</strong></p>
+<p>刚才提到了维权律师。这个“行当”，过去两年，被全部“铲除了”。</p>
+<p><strong>四、</strong></p>
+<p>请问这个时候，还会有“孙志刚”吗？会有无数次莫名的随机死亡，但是不会有作为典型的“孙志刚”了，因为“孙志刚”出现背后的那些力量，全部没有了，守望社会的力量全部没有了。</p>
+<p>所以，不要提“孙志刚”了——提到他，我感到的是暗黑，毫无希望。他不是一个正面典型，而是见证了我们过去的麻木，见证了社会的滑落。</p>
+<p><strong>五、</strong></p>
+<p>我没有什么想说的，对于刚刚死掉的人。</p>
+<p>我只想说：当删帖开始时，我就对权力失去了全部信任。</p>
+<p>敢不删帖吗？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%86%8D%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%99%E5%BF%97%E5%88%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E6%95%99%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">劳教制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E5%BF%97%E5%88%9A/?category=18271" rel="tag">孙志刚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 24分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%B2%A1%E4%BA%BA%E5%96%9C%E6%AC%A2%E9%98%B2%E7%81%AB%E5%A2%99/" target="cdt-mirror">【网络民议】胡锡进：没人喜欢“防火墙”</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.31-PM.png?resize=549%2C327" alt="Screen Shot 2016-05-11 at 5.55.31 PM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.31-PM.png?resize=768%2C457 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.31-PM.png?resize=1024%2C609 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.31-PM.png?w=1302 1302w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>@胡锡进 ：没人喜欢“防火墙”。同时必须指出，它在今天的中国有正面作用。网民对“防火墙”有些抱怨，可以理解。但若严肃看这个问题，互联网发端于西方，它本身“内置”“自带”了西方的意识形态秩序和规则，能帮助西方引导非西方国家的舆论注意力，主导后者的政治议程。“防火墙”是对这种格局的冲破。决不可无视导致“防火墙”出现的这一复杂背景。然而，防火墙应被当成临时性措施，不能让社会治理对它产生长期依赖性。“防火墙”毕竟不可以真当“永久长城”用，它不是化解问题的“万能钥匙”。应当利用“防火墙”带来的缓冲加紧解决中国的问题，构建软实力，提高中国社会对有害信息的自然承受力和免疫力。所有长城最后都是会荒弃的，这点切不能忘。这是我对“防火墙”的完整看法。</p>
+<p>4月11日 15:41 来自 iPhone 6 Plus</p>
+<p>以下网民评论搜集自新浪微博：</p>
+<p>呉下限：墙的好处就是巴拿马现在还没什么人知道，一句捕风捉影就过去了，人家普京可是说这是真的。</p>
+<p>中续所：你们怕什么?  1，你们手握百万大兵。 2，你们把持舆论媒体。 你们拥有千亿家产。 4，你们掌握宇宙真理。 5，你们自古战无不胜。 6，你们从来光荣伟大。 7，你们号称一心为民。 8，你们吹嘘强势崛起。 9，你们高喊无数自信。10，你们叫嚣宇宙无敌。 我说句话，你们都删,你们到底怕什么?(哈哈网友)</p>
+<p>草根博视：“防火墙”的存在实际上是对三个自信的嘲讽！看看互联网上那些被屏蔽的所谓关键词，我们就更清楚了。</p>
+<p>gggghz：用来挡巴拿马用的。</p>
+<p>神婴涵瑀：给人民一个胶带。</p>
+<p>塞纳河日落_：我他吗就想问，你拦谷歌干什么！Gmail，Google Drive 对于我们留学生来说就是写作业的命根！回国后你把这些东西拦了，VPN也不让用，作业不写，你让我们怎么办？！</p>
+<p>西贝-文：因为有我党的防火墙，所以保护了一大批国内毫无竞争力，只能靠垄断苟延残喘的极烂互联网公司以及媒体→比如世界最大盗版搜索引擎的百度啊，比如法西斯分子猖獗的新浪微博啊，比如抄袭盗版起家的腾讯啊，比如只能整天靠洗脑和利用五六十年代思维来企图愚弄百姓的环球屎报啊，人民日爆啊，新华社啊等等。</p>
+<p>郭健guojian：是想利用防火牆帶來的緩衝，讓權貴們趕緊把搶來的那些幾十輩子都花不完的錢都搬海外離岸公司去吧！</p>
+<p>2016春夏之交：就是害怕慌言被戳穿。</p>
+<p>山东阿舅：那不是“防火墙”，那是“网络柏林墙”。</p>
+<p>笑看云天02：胡总编，能否诚实地告诉大家，你们反对的“西方思想”到底是什么？或者说，政治层面，所谓中国特色与全世界主流做法（你们叫西方思想）区别是什么？无非是民选官，权力关进笼子，人民可以监督，批评政府，包括最高领导人，官员财产公示。对吧？</p>
+<p>恩泽百合：防火墙是就是思想的监狱墙，被破是墙内区域的解放！大趋势！</p>
+<p>泰山令：防什么？民主之火？自由之火？墙倒了谁会被烧死？</p>
+<p>看海的狼lion：如果是真理，为什么要怕？有什么可怕可怕的？建了墙，墙内的文章为什么还删，又在怕什么？为什么怕？古语说，身正不怕影斜，请自信。</p>
+<p>沉舟侧畔999：解决个鸟毛，禁锢的思想得到解放，再想圈禁回去，我说飞盘先生，您觉得可能吗？</p>
+<p>天那么黑你却看不见：不只有防火墙啊，还有删帖，删评论，删人啊！</p>
+<p>唐seng洗头用漂柔：这个体制已经不适合国家的前进创新了，推了大唐还有大宋！不要以为以为没有共产党中国就会灭亡！！！！</p>
+<p>流水行风：互联网发端于西方，它本身“内置”“自带”了西方的意识形态秩序和规则，能帮助西方引导非西方国家的舆论注意力！—–话说马某某主义也发端于西方！咱不说代数，物理，化学，微积分了。。。。。。。</p>
+<p>舒影2012：公开透明是大趋势，改革开放没有回头箭，设再高的墙也挡不住中国人渴望了解世界的目光。</p>
+<p>jhjflystar：放屁，防火墙纯粹是愚民的政策！</p>
+<p>矿工阿呆：如果有天我偶遇胡主编，我将不惜一些代价削他一顿，仅仅是为了痛快。//@龚晓跃: 你孩子知道你这么说吗？</p>
+<p>吴xiansheng2015：自从有了防火墙，感觉宽带费白交了。</p>
+<p>荒野迷茫：光是封外网吗？百度新浪的都给糟践的快无法用了.每天删封帖的人至少得有几十万了吧。中国老百姓纳税养着共青团不说，还养着这些人。</p>
+<p>the-promised-land：哇，这次跑了好远，终于叼住了！辛苦了！</p>
+<p>升值器-：回复@Young_Daydream:他也配姓赵？！米西了几千块就被吊打的货…</p>
+<p>海南某座岛：翻墙在现在已经不是很难了，怎么说也有几百万人在翻墙的。</p>
+<p>炸酱面馆大叔：主编依旧叼的一口好飞盘。评论区里支持墙的人，您祖上是姓贱吗？</p>
+<p>唐seng洗头用漂柔：文革，大跃进，三年人吃人，还没找你们算账！</p>
+<p>立夏11281010250955：胡总再论证一下腐败的积极意义。</p>
+<p>anywherebuthere___：防火墙这东西在东西南北方都是没有的，西方个毛啊。</p>
+<p>Betteryuannnnn：不公平 不公平 凭什么港澳台可以用 难道中国人还分等级吗[偷乐][偷乐][偷乐][偷乐]</p>
+<p>司禄言：胡编乱造。</p>
+<p>胖俊的美好生活：当我们都是傻蛋。</p>
+<p>lujiakun：呸！呸！呸呸！</p>
+<p>南八好男儿：真不怕下地狱。</p>
+<p>：飞盘接得，飞翔也接得，不愧胡编。</p>
+<p>恒昌聚鑫：唯一阻止的，是真相吧。</p>
+<p>vanvanbest：说的太含蓄了，我帮着捋一捋，意思就是，1.西方的确强势，不这么搞扛不住。但我们不去探讨为什么强势，归结为阴谋。2.争取时间让官员能转移财产，否则人民一旦开明智，麻烦大了，参见卡梅隆。3.官员子女去国外接受西方文明就算了，就是欺负你们不会翻墙看不懂英文的！</p>
+<p>我叫钟勤0：不过是党的遮羞布罢了。</p>
+<p>一刀倾城的美好生活08376：拿马巴是个什么鬼？小胡？</p>
+<p>铁锁星桥：有了防火墙，很多人民就不知道他们在国外藏了多少钱呀！至少皇帝的新衣还可以再穿一穿！</p>
+<p>柯小达达：外面的世界这么吓人，还把长公主送出去，佩服佩服！</p>
+<p>老猪11918：我是做外贸的，很多有用的网站都屏蔽了。我要找一个外国的送货地址，上谷歌地图就上不了。很恼火。</p>
+<p>施元庆：胡编，所有的长城都不是主动废弃的，而是被外部势力以更强大压力碾压过后、作用全失、不得已放弃的，你说长城必定荒废究竟是什么居心[偷笑]</p>
+<p>张佐乐在路上：总是喜欢把政府凌驾于国家之上，我到死都爱我的国家，但爱不爱政府 爱不爱D 你做的好我就爱，你做的不好，爱你妹。</p>
+<p>牧歌__2012：也就是说墙始终是要倒的，只是在倒塌之前当局先做好逃离的准备而已！</p>
+<p>雕刻时光21克：防民墙。</p>
+<p>江南梁柏梧：西方搞互联网，咱就搞互不联网。决不搞西方那一套！咱每年还要举行一次世界互不联网大会。</p>
+<p>智慧长者：你们拥有多种自信，掌握宇宙真理，精通政治绝技，在现实面前咋么那么虚弱哪？</p>
+<p>小马哥20111888：我们有三个自信，不需要防火墙。</p>
+<p>二横7号：还是这届人民思想觉悟不行，无法自主抵抗完我之心不死的敌对势力的圈套，得由胡总这样洞若观火的专业人士为我们点拨。</p>
+<p>Global：防火墙是我党的遮羞布，或者黑夜下的蒙面巾。</p>
+<p>还是大牛牛：报告领导。。胡编说谎。。。因为他说。。没人喜欢“防火墙”。。</p>
+<p>武康路的花园：对于西方的意识形态，只要有利于一党专制的就是好的，应该拿来用，比如苏联的。只要不利于一党专制的都是敌对的，都要堵，比如欧美的。</p>
+<p>往复：胡锡进说：互联网发端于西方，它本身“内置”“自带”了西方的意识形态秩序和规则。今后大家汽车也不要开了，飞机也不要坐了，这些交通工具发端于西方，内置了西方的意识形态秩序和规则。[哈哈]马克思主义也不要坚持了，因为马克思主义发端于西方，内置了西方的意识形态秩序和规则。[哈哈]</p>
+<p>蔣智勇：对中国有害的信息还是对政府有害的信息？</p>
+<p>Romanc3_Dawn：防火墙不也起源于西方么？</p>
+<p>唐seng洗头用漂柔：社会主义国家都是这副熊样！看看世界上这几个社会主义国家有几个拿得出手的？没见社会主义哪里好，只知道都是独裁，腐败，无人权，无平等！无选票！</p>
+<p>同桌的香水味：中国最大最严重的社会问题就是民与官的信任问题，中国一直不透明，腐败甚至有些方面经常受到西方国家的指责不是没根据的。以至于现在政府说真的民众不信，假的民众也不信最终导致民与官的对抗。</p>
+<p>跟风看景：他其实只想说一句话“没人喜欢防火墙”，但是他不敢说，所以后面缀了许多无用的屁话，目的是逃避责任，如果他真的认为防火墙有作用，就不会说我也不喜欢防火墙了，懂不，说明什么呢，说明胡总是条油条//@北村: 胡总的标志性句式：虽然……但是……</p>
+<p>西门郊外大官人：防火墙的实质是防人民。</p>
+<p>tomas狂想曲：网络筑墙、微博删帖，这种掩耳盗铃式的蔽塞民众视听的蠢行，只能说明一个事实：如果没有见不得人的龌龊勾当，为何要“修墙”“禁言”！民众有足够的智慧辨析国外媒介说的真假对错，难道我们看什么、学什么、想什么，都要靠一个没有胆量让民众看见事实真相的党和政府来决定！这本身就很好的说明了一切！</p>
+<p>若愚24633：接飞盘的，历史会记下你说的话，人在做，天在看。//@北村: 胡总的标志性句式：虽然……但是……</p>
+<p>蓝天的想：“在今天的中国有正面作用”这一句暴露了胡编的真实意思，民主了的中国防火墙就是负面作用了</p>
+<p>金楠街人：胡编的造句格式先哼哈然后论证“但是”的重要性，似乎两边讨好，实际在贩卖“但是”</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.21-PM.png?resize=549%2C321" alt="Screen Shot 2016-05-11 at 5.55.21 PM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.21-PM.png?resize=300%2C175 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.21-PM.png?resize=768%2C449 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.21-PM.png?resize=1024%2C598 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.21-PM.png?w=1198 1198w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>锅铲玲玲妻：今天做的这事之人，日后必为民族罪人!</p>
+<p>甄瑞英：我最佩服胡总的一点就是，背万世唾骂，享半生荣华。</p>
+<p>洲长叔叔：胡长老，快收了神通吧！你的盘子丢了？没接住啊。</p>
+<p>开心测谎仪：拿钱发贴，这用在胡编身上最恰当不过了。</p>
+<p>柳升9561：愚民墙可以挡住那千军万马，比如最近的那个吧拉马！</p>
+<p>红尘客栈-原罪：航海时代封海，互联网时代封网。嗯，这就是这个民族的命运。</p>
+<p>一峰不在1989：党有多久，墙就有多久。这是我对墙的的完整看法。</p>
+<p>广西你大爷：这个party，这个制度，随随便便，三言两语就能被颠覆。</p>
+<p>08_县长：我非常关心一件事：你和你背后的那个东西啥时完蛋！</p>
+<p>廖睿：“防火墙”必须搞万万年，否则象“运河”那样的事怎么面对？</p>
+<p>湖南光哥：推到这无官不贪，无处申冤，无法无天的体制！</p>
+<p>物理的知识巅峰：YouTube上很多被删的屏蔽的视频让我知道了中国某政党执政期间的事情，和一些偷拍的视频。 哎，生于不义，死于耻辱。</p>
+<p>昵称被抢的小册子：造纸和印刷术还是我们发明，内置自带东方意识形态的呢，咋书也没少禁？</p>
+<p>我只说两句话：胡总，，这个墙越来越高越来越结实，会倒么？</p>
+<p>Jimmy-Lee88：防火墙垮塌之日，即乃国庆之日！</p>
+<p>梦东瓜：已截图，待墙倒了后再来看。</p>
+<p>讓思想衝破牢籠:[蜡烛]「王師北定中原日，家祭無忘告乃翁。」</p>
+<hr><p><small>© 中国好网民 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%B2%A1%E4%BA%BA%E5%96%9C%E6%AC%A2%E9%98%B2%E7%81%AB%E5%A2%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E7%B2%BE%E9%80%89/?category=18271" rel="tag">胡锡进精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E8%A2%AB%E5%A4%84%E5%88%86/?category=18271" rel="tag">胡锡进被处分</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%A4%E5%87%B0%E8%AF%84%E8%AE%BA-%E5%AF%B9%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%88%91%E6%83%B3%E7%9F%A5%E9%81%93%E9%9B%B7%E6%B4%8B%E5%A6%82%E4%BD%95%E6%AD%BB%E4%BA%A1%EF%BC%8C%E8%80%8C%E9%9D%9E/" target="cdt-mirror">凤凰评论 | 对不起，我想知道雷洋如何死亡，而非怎样嫖娼</a>
 </h2>
 <p><p>作者：胡涵</p>
@@ -679,75 +814,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E8%B4%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%B1%B1%E7%BE%8A%E6%9C%88-%E4%B8%BA%E4%BA%BA%E7%88%B6%E7%9A%84%E4%BA%BA%E5%A4%A7%E7%A1%95%E5%A3%AB-%E4%B8%BA%E4%BD%95%E4%B8%80%E5%B0%8F%E6%97%B6%E5%86%85%E7%A6%BB%E5%A5%87%E6%AD%BB%E4%BA%A1/" target="cdt-mirror">山羊月 | 为人父的人大硕士 为何一小时内离奇死亡？</a>
-</h2>
-<p><p>雷洋，湖南澧县人，从山村走出的中国人民大学环境学院本科生和硕士生。他于2012年以优异的成绩毕业，任职于中国循环经济协会，成为我国环境经济和循环经济领域的专家，曾参与了多个工业园规划，生态文明规划，污染物处理规划和循环经济规划的编制工作，在中国最著名的三个环境保护期刊《环境保护》，《环境科学》，《环境工程》上面都发表过论文，是我国环境保护事业中不可多得的青年才俊。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e0049b557abb890c532c91c0154abd46_b.png?resize=600%2C230" alt="e0049b557abb890c532c91c0154abd46_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e0049b557abb890c532c91c0154abd46_b.png?resize=300%2C115 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e0049b557abb890c532c91c0154abd46_b.png?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><b>如今，他的尸体却躺在医院冰冷的太平间。</b><b>而他的女儿，刚刚出生两周，还没足月。</b></p>
-<p>中间到底发生了什么？以下是我们所有同学在律师的指导下，根据<b>事实</b>整理的说明。</p>
-<blockquote><p><关于人民大学雷洋同学意外身亡的情况说明></p>
-<p>雷洋，系中国人民大学2005级环境学院的本科及硕士研究生，任职于中国循环经济协会。现于2016年5月7日晚离奇死亡，我们作为同学经过与亲属初步沟通了解，现知道的主要情况如下：</p>
-<p>1、 事件大致过程：</p>
-<p>由于雷洋在4月24日刚和老婆生下一个可爱的女孩，他的亲属要过来探望，所以他于2016年5月7日晚21时左右从家里出门去首都机场接他的亲属（航班预计到达时间23点30分）；之后就失去联系。</p>
-<p>从晚上23:30至第二天凌晨1点，其妻子和亲属不间断打电话，但手机一直处于无人接听状态。直到凌晨1点电话有人接听，接听人自称来自昌平区东小口镇派出所，并告知亲属需要去派出所，亲属于1:30左右达到派出所。派出所告知的大意是：雷洋因涉嫌嫖娼，在警车带往派出所的途中因心脏病突发死亡。根据昌平区中西医结合医院给出信息，雷洋达到医院时间为2016年5月7日晚22点09分，到达时已经死亡。</p>
-<p>凌晨4:30左右，亲属随警察来到医院，见到雷洋手臂和头部都有明显淤血，与警察交涉，警察给出答复为路途中雷洋反抗强烈，跳车头部着地所致。亲属要求对遗体拍照留存被禁止。</p>
-<p>2、我们的疑问：</p>
-<p>根据我们了解到的情况，我们产生了一系列疑问：</p>
-<p>1） 雷洋几乎每周都会踢足球，全年无休，据了解亲属也没有心脏病史，为何会突发心脏病？</p>
-<p>2） 手臂和头部的淤血如果为跳车所致，应有明显外伤，可是据家属观察无明显外伤。按照东小口镇派出所所述，执法后已被制服并招供，为何还会尝试并成功做到跳车？</p>
-<p>3） 医院给出的雷洋死亡时间为22点09分（达到医院时间），可是在之后长达近两个小时的时间，为何派出所不联系亲属，并且亲属一直打电话也无人接听？</p>
-<p>4） 亲属交涉后发现，雷洋手机中死亡前几日的通话记录，微信朋友圈里面关于孩子和家庭的信息，手机里面的位置记录都被部分删除，这是何人所为？为什么需要这样做？</p>
-<p>3、现在的情况；</p>
-<p>我们是雷洋人大的同学，在今天上午听到此事后都非常震惊，完全不敢相信此事会发生在我们身边。我们无比痛惜一个刚出生2周多的孩子就这样失去了父亲，我们无比痛惜一个刚生产完的妻子就这样失去了挚爱，我们无比痛惜其年迈的父母就这样失去了年轻而前途光明的儿子。</p>
-<p>所以，我们需要了解更多，我们需要我们的疑问得到解答，我们需要社会各界的帮助和支持，支持我们为一个逝去的年轻生命还原真实过程，给其悲痛的亲属一个交代。</p></blockquote>
-<p>上述说明，已经被朋友圈，天涯，水木等网站和论坛删除。</p>
-<p>雷洋的朋友圈里，全部是他参加会议，讨论和研究的消息，而他的头像，是他的女儿握着他的手指。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1b78ff64815aea460927bfdae78de1db_b.jpg?resize=500%2C888" alt="1b78ff64815aea460927bfdae78de1db_b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1b78ff64815aea460927bfdae78de1db_b.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1b78ff64815aea460927bfdae78de1db_b.jpg?resize=577%2C1024 577w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1b78ff64815aea460927bfdae78de1db_b.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4dedc952d7d69180d9d42db9ddb2dfe5_b.jpg?resize=500%2C888" alt="4dedc952d7d69180d9d42db9ddb2dfe5_b" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4dedc952d7d69180d9d42db9ddb2dfe5_b.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4dedc952d7d69180d9d42db9ddb2dfe5_b.jpg?resize=577%2C1024 577w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4dedc952d7d69180d9d42db9ddb2dfe5_b.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<div>
-<p>我知道，我的力量很小，我的声音很弱。但我愿意相信，关注我们的知友们，是了解我的真诚的。我更愿意相信，在中国，在北京，在互联网上，是有公道的，有正义的！</p>
-<p><b>根据上述说明信息，雷洋手机中的信息存在被破坏的可能性。</b><b>我们非常担心还会有别有用心的人破坏证据，阻挠调查。因此</b><b>在目前这个阶段，这篇文章的主要诉求就是希望将这个悲剧和相关的说明通过各位知友的努力扩散出去，以舆论的力量遏制这些人破坏证据的行为，以公众的力量保障程序的正义！</b></p>
-<p><b>大家如果在其他网站看到相关报道，请以本文中<关于人民大学雷洋同学意外身亡的情况说明>中的信息为准。我们保证，说明中的所有内容没有揣测，没有谣言，只有事实。</b></p>
-<p><b>我愿意用我在知乎730多天298个答案十万个赞同积累下来的这一点真诚，换大家一次信任，还雷洋一个公道，好吗？</b></p>
-<p>作者：山羊月<br>
-链接：https://zhuanlan.zhihu.com/p/20871027<br>
-来源：知乎<br>
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</p></div>
-<div></div>
-<div><strong>另附：</strong></div>
-<div></div>
-<div>@平安昌平：情况通报</div>
-<div></div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005H5Isugw1f3pga1q2byj30de0hcgoq.jpg?resize=482%2C624" alt="005H5Isugw1f3pga1q2byj30de0hcgoq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005H5Isugw1f3pga1q2byj30de0hcgoq.jpg?resize=232%2C300 232w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005H5Isugw1f3pga1q2byj30de0hcgoq.jpg?w=482 482w" sizes="(max-width: 482px) 100vw, 482px" data-recalc-dims="1"></div>
-<div></div>
-<div>以下为数字时代编辑截取自该微博下的部分热门评论：</div>
-<div></div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B3.jpg?resize=529%2C1156" alt="平安昌平" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平.jpg?resize=469%2C1024 469w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平.jpg?w=529 529w" sizes="(max-width: 529px) 100vw, 529px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B32.jpg?resize=533%2C1197" alt="平安昌平2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平2.jpg?resize=456%2C1024 456w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平2.jpg?w=533 533w" sizes="(max-width: 533px) 100vw, 533px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B33.jpg?resize=533%2C1238" alt="平安昌平3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平3.jpg?resize=441%2C1024 441w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平安昌平3.jpg?w=533 533w" sizes="(max-width: 533px) 100vw, 533px" data-recalc-dims="1"></div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%B1%B1%E7%BE%8A%E6%9C%88-%E4%B8%BA%E4%BA%BA%E7%88%B6%E7%9A%84%E4%BA%BA%E5%A4%A7%E7%A1%95%E5%A3%AB-%E4%B8%BA%E4%BD%95%E4%B8%80%E5%B0%8F%E6%97%B6%E5%86%85%E7%A6%BB%E5%A5%87%E6%AD%BB%E4%BA%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E7%A1%95%E5%A3%AB%E6%9A%B4%E6%AD%BB/?category=18271" rel="tag">人大硕士暴死</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%91%E8%AE%AF%E9%80%BC%E4%BE%9B/?category=18271" rel="tag">刑讯逼供</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">平安昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E7%8C%96/?category=18271" rel="tag">被嫖猖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E6%8D%AE/?category=18271" rel="tag">证据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%85%AC%E5%B8%83%E8%BF%9B%E9%A9%BB%E7%99%BE%E5%BA%A6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C/" target="cdt-mirror">中国网信网 | 网信办公布进驻百度调查结果</a>
-</h2>
-<p><p>国家网信办5月2日会同国家工商总局、国家卫生计生委和北京市有关部门成立联合调查组进驻百度公司，集中围绕百度搜索在“魏则西事件”中存在的问题、搜索竞价排名机制存在的缺陷进行了调查取证。调查组认为，百度搜索相关关键词竞价排名结果客观上对魏则西选择就医产生了影响，百度竞价排名机制存在付费竞价权重过高、商业推广标识不清等问题，影响了搜索结果的公正性和客观性，容易误导网民，必须立即整改。</p>
-<p>调查组对百度公司提出了以下整改要求：</p>
-<p>一、立即全面清理整顿医疗类等事关人民群众生命健康安全的商业推广服务。即日起，对医疗、药品、保健品等相关商业推广活动，进行全面清理整顿，对违规信息一经发现立即下线，对未获得主管部门批准资质的医疗机构不得进行商业推广。</p>
-<p>二、改变竞价排名机制，不能仅以给钱多少作为排位标准。立即调整相关技术系统，在2016年5月31日前，提出以信誉度为主要权重的排名算法并落实到位；对商业推广信息逐条加注醒目标识，并予以风险提示；严格限制商业推广信息比例，每页面不得超过30%。</p>
-<p>三、建立完善先行赔付等网民权益保障机制。畅通网民监督举报渠道，提高对网民举报的受理、处置效率；对违法违规信息及侵害网民权益行为，一经发现立即终止服务；建立完善相关机制，对网民因受商业推广信息误导而造成的损失予以先行赔付。</p>
-<p>搜索引擎是网民获取信息的重要渠道，具有很强的引导作用。国家网信办将于近期在全国开展搜索服务专项治理，加快出台《互联网信息搜索服务管理规定》，促进搜索服务管理的法治化、规范化；会同相关部门严厉打击网上传播医疗、药品、保健品等事关人民群众生命健康安全的虚假信息、虚假广告等违法违规行为。国家工商总局将加快出台《互联网广告管理暂行办法》，进一步规范互联网广告市场秩序。</p>
-<p>“魏则西事件”中涉及相关医疗机构的调查结果，由相关主管部门另行公布。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%85%AC%E5%B8%83%E8%BF%9B%E9%A9%BB%E7%99%BE%E5%BA%A6%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">baidu 百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E7%96%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">医疗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E8%AD%A6%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">武警医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">民营医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB/?category=18271" rel="tag">莆田系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -769,5 +835,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/baidu-%E7%99%BE%E5
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

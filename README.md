@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%AB%98%E6%98%8E%E7%94%B5%E5%8F%B0-%E8%BA%BA%E5%9C%A8%E6%97%B6%E9%97%B4%E7%9A%84%E6%B2%B3%E6%B5%81%E4%B8%8A%E6%80%80%E5%BF%B5%E4%BB%96%E4%BB%AC/" target="cdt-mirror">高明电台 | 躺在时间的河流上怀念他们</a>
+</h2>
+<p><p>八年，一刹。</p>
+<p>2008年5月12日，汶川地震。</p>
+<p>2011年5月12日，高明电台在墙外播出了《南方都市报》社论《躺在时间的河流上怀念他们》。</p>
+<p>我们知道，死亡已经发生，而遗忘等候一旁，觊觎他们的再一次死亡。</p>
+<p>如果不怀念，遗忘就会越来越强大。</p>
+<p>今天的祭祀就是为了拒绝遗忘，拒绝再次失去他们。</p>
+<p>高明电台念念不忘。</p>
+<audio preload="none" controls="controls"><source type="audio/mpeg" src="http://chinadigitaltimes.net/chinese/files/2016/05/110512_NanDu.mp3?_=2"></source><a href="http://chinadigitaltimes.net/chinese/files/2016/05/110512_NanDu.mp3">http://chinadigitaltimes.net/chinese/files/2016/05/110512_NanDu.mp3</a></audio><p>今天是汶川地震三周年纪念日，读者诸君一定知道我们的哀悼所在。那场大地震令山河破碎，八万多人罹难失踪，连绵不绝的哀伤延续至今。哀伤是为同胞一去不还，五月就此成为悲哀的月份；哀伤也因为念及自身无力，不能抵挡决绝的离逝。又一年祭祀重来，躺在时间的河流上怀念他们，实有必要确认诸多问题：他们是谁？他们遇到了什么？他们在哪里？他们想要我们做什么？</p>
+<p>馨香几枝，烟气袅袅，升腾至虚空。他们不是冰冷的数字，他们也曾顶着百家姓活泼泼地存在过。他们用整整一生，走进五月的废墟。他们开心地在世上生活过七年，抑或更长更短的岁月。他们是父母，是子女，是姐妹，是兄弟，是黄皮肤的人。他们是寨子里的居民和过客，是跋涉山川河流的人，看云起云落，他们是一切真情。他们是你遇见或未见的人类，是住在大地上的灵魂。</p>
+<p>生是偶然的，死亡是必然。三年前的今天，同个时刻，下午黄昏黑夜如朽木，纷纷落下，壅塞时间的河流。红色是血，灰色是扬尘，白色是眩晕，黑色是死神的衣袂，他们在颜色横流中倒下，像是不幸的庄稼，被锐利的刀锋杀害。他们失去了所有，他们的老年中年青年或童年时代结束得太早太快。他们成了各种各样碎片，使用尖锐的边缘，把日子割出眼泪，将故乡抛弃。</p>
+<p>他们从四方而来，往八方而去。我们悔恨，他们本该有更好的死亡方式，譬如从容悼念，并且允许泪飞成雨。匆匆复匆匆，他们永远离开伤感的村庄和城市，他们现在石头长有新绿的山坡上，他们仍在学校，在路上，在地下，在无名之处。他们和他们在一起，就像麦子与麦子长在一起。在夏天，在他们最后的黄昏去了我们看不见的地方，他们是生者唯一的痛楚，唯一的安慰。</p>
+<p>我们在心里为他们降过半旗，我们在哀悼日为他们招魂请安，我们搜集过他们一世为人的证据，我们一起念出过他们的名字。我们答应过要念念不忘，要生生不息。我们做了很多，又做得太少。迷途不返的人，你们在哪里？我们点燃的光能否照亮你们的路？我们无法做得更多，只好摆上铁做的十二生肖，敬上瓷做的瓜子，象征且祭奠你们凝固了的生命。你们还想要我们做什么？</p>
+<p>我们知道，死亡已经发生，而遗忘等候一旁，觊觎他们的再一次死亡。如果不怀念，遗忘就会越来越强大。今天的祭祀就是为了拒绝遗忘，拒绝再次失去他们。以后的纪念，目的无他，也是一遍遍证明给他们看：我们从未远离，我们一直在一起，哪怕是遇到死亡和恐惧。这是一种要被记取的承诺，人千古，人又永远在。这是我们对整座村落、整座城市、良知国民的交代。</p>
+<p>起于尘土而又归于尘土，可有一种责任无法推卸。这就是我们对他们的纪念，是校园对学生的纪念，山野对农夫的纪念，黄泥雕群对凝视者的纪念，是家庭对逝者的纪念，是鲜花对坟墓的纪念，是生命对生命的纪念。我们始终不忘，始终向着他们的方向眺望。我们的生活里有他们，我们不只是为自己过活。时间的河流联系彼此，让我们重聚在一起，就像是真的没有失去过。</p>
+<p>止歇欢娱，今天此时，让我们躺在时间的河流上，采用他们惯常的姿势，感知他们的所在和请求，察觉我们的对话与诺言。在他们走后，没有一个夜晚能让我们安睡。可三年来，我们谨记并警醒我们的原则。五月是悲哀的，又是清醒的。通过对他们的取态，丈量我们与人类的距离。祝愿大地上的神祇同样能保佑他们，就像他们保佑我们一样。祈祷彼岸乐土。伏食尚飨。</p>
+<p>本期题图来自Flickr.com，作者: Patrick He。该作品在Creative Commons BY-NC-ND协议下发布。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%AB%98%E6%98%8E%E7%94%B5%E5%8F%B0-%E8%BA%BA%E5%9C%A8%E6%97%B6%E9%97%B4%E7%9A%84%E6%B2%B3%E6%B5%81%E4%B8%8A%E6%80%80%E5%BF%B5%E4%BB%96%E4%BB%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/512/?category=18271" rel="tag">512</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">大地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E5%BF%97%E6%A0%87/?category=18271" rel="tag">宋志标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB/?category=18271" rel="tag">我们的生活</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">汶川地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">遇难学生</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%89%91%E5%AE%A2%E4%BC%9A%EF%BD%9C%E9%83%AD%E5%BB%BA%E9%BE%99%EF%BC%9A%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6%E5%BF%85%E6%AD%BB%E4%BA%8E%E8%84%86%E6%96%AD/" target="cdt-mirror">剑客会｜郭建龙：警察国家必死于脆断</a>
 </h2>
 <p><blockquote><p>政府为了维稳而建立庞大的警察队伍，但最终破坏社会稳定的必然还是这些政府仰仗的警察。</p></blockquote>
@@ -759,42 +785,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%E9%9C%80%E8%A6%81%E7%9A%84%E6%98%AF%E6%AD%BB%E4%BA%A1%E7%9C%9F%E7%9B%B8%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%AB%96%E6%B2%A1%E5%AB%96%E5%A8%BC/" target="cdt-mirror">朱人奉：“雷洋之死”需要的是死亡真相，而不是嫖没嫖娼</a>
-</h2>
-<p><p><em>来自微信公号：新周刊（ID: new-weekly）</em></p>
-<blockquote><p><strong>雷洋与家人失联的那几个小时到底发生了什么，在疑点重重的通告中，他们只看到“嫖娼”这两个大大的字。</strong></p></blockquote>
-<p>文/朱人奉</p>
-<p>5月7日，是雷洋和妻子的结婚纪念日，晚上吃过饭，他要去机场接一个亲戚。9点多，看到雷洋还在家里玩手机，岳父催他出门，亲戚的航班预计11点半就到。雷洋没有等到11点半，出门后一个小时，他死在了医院急救室，死亡时间为22点09分。</p>
-<p>这短短一个小时里发生了什么？据昌平警方通报，雷洋出门后没有直接去机场，而是去了昌平区某间足疗店寻欢，被带回公安机关审查过程中，雷洋突然“身体不适”（5月8日1时雷洋家人接昌平东小口派出所通知并赶到后，被告知雷洋是因心脏病突发死亡），送院后不治身亡。案情似曾相识，2002年武汉理工大学教授程树良死于奔丧途中，通报结论是程树良在路上去了嫖娼，被押回派出所途中跳车受伤，送院后不治。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image.jpg" rel="attachment wp-att-437468"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image.jpg?resize=500%2C468" alt="image" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image.jpg?resize=300%2C281 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image.jpg?w=654 654w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>新京报报道，图为雷洋当时的抢救地。拍摄/赵赫廷</span></p>
-<p>这次不是朝阳群众，而是昌平群众举报了雷洋事件中的卖淫足疗店。据警方说，此次行动抓获了6人，其他5人涉嫌“协助组织卖淫罪”。也就是说，被捕的六个人要么是“嫖客”，要么是“鸡头”，卖淫者却不见了，难道这是一场没有被嫖对象的嫖娼？还有，谁报的案？哪个足疗店？死前到底发生了什么？</p>
-<p>腾讯探针报道，雷洋在急诊室时仍然戴着手铐，这是真的吗？代理雷洋家属的彭律师告诉新京报，雷洋身上有伤疤，又是怎么回事？目击者对北青报记者爆料，雷洋被捕时身边“围了一二十人”，他一直在喊救命，这是案发现场的情况吗？还有多位目击者对财新网表示，雷洋在小区内被便衣男子追赶并发生打斗，为何在通告中只字未提？疑点重重，现在的通告远远不能解释清楚。</p>
-<p>真相还堵在路上，网上却有人说“关键是嫖没嫖”。嫖娼仿佛成了这个时代最大的恶与罪，只要沾上这个污点，死不足惜。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2.jpg" rel="attachment wp-att-437467"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2.jpg?resize=500%2C455" alt="image2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2.jpg?resize=300%2C273 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2.jpg?w=641 641w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>腾讯探针、财新网与北青报的报道。</span></p>
-<p>人都死了，为什么重点却成了“嫖没嫖”？</p>
-<p>自从薛蛮子登上央视为嫖娼道歉忏悔后，社会上轰轰烈烈地掀起了对“嫖娼”和“嫖娼者”的道德审判。嫖娼、出轨和吸毒，大V和明星但凡沾上一星半点，事业必毁无疑。嫖娼成了一种不可原谅的“原罪”，如果带上这个罪名，他们这个“人”就可以被全然地否定掉。</p>
-<p>李普曼在《公众舆论》中指出，成见具有屏蔽其他观点和立场的左右能力，每一套成见中都有一个点，在那个点上，全部努力均告停止，事情会按照你喜欢的样子自行发展。这个点会使人忽视很多需要考虑的东西，掩盖某种事实，所以可以利用它来做议题设置。</p>
-<p>当人们开始对雷洋“嫖没嫖”进行讨论和分析，就完成了第一次舆论转移。微博认证为果壳达人的@警察蜀黍，煞有介事地分析“刚有小孩就肯定不会嫖娼或出轨？”“接机中途去HIGH一下，路线上是可以做到的，时间是来得及，这个地图一下你就知道”。这类科普党已经进化到可以通过“万事皆有可能”的想象来审判当事人。“嫖娼”一说划定了讨论的范围和方向，他们在这个“指引”下脑洞大开，在警方还没有提供更多证据的情况下，就已经设想到了雷洋嫖娼的一切可能性。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3.jpg" rel="attachment wp-att-437471"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3.jpg?resize=500%2C375" alt="image3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3.jpg?w=654 654w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>昌平区东小口派出所，雷洋被带回这里接受审查。图/中国青年网</span></p>
-<p>第二次舆论转移几乎是自发的，从雷洋“嫖没嫖”谈到了“卖淫嫖娼应否合法化”，开始重复以往明星嫖娼事件中讨论过的东西。无效的讨论，转移焦点的激辩，一些边缘性的话题进入了事件的中心。在雷洋之死中，他的死亡竟然远离了舆论中心，他有没有嫖娼才是决定能否上热搜榜的“关键”。</p>
-<p>让法律的归法律，道德的归道德</p>
-<p>退一万万步说，即使雷洋嫖娼，对妻子不忠，对家庭不负责任，他的死就活该吗？根据《中华人民共和国治安管理处罚法》第六十六条规定：“卖淫、嫖娼的，处十日以上十五日以下拘留，可以并处五千元以下罚款；情节较轻的，处五日以下拘留或者五百元以下罚款。”这条法规无论如何解读，一般的卖淫和嫖娼都不是什么重罪。</p>
-<p>但“嫖娼”罪名的可怕之处就在于，它就是道德审判的高帽，戴上了之后，人人都可以朝你吐口水。围观中等着吃人血馒头的人，既要求一个“完美的公知”，大V和公知不能有言行和人品上的污点，否则他们就没有资格主张他们的权利；他们也要求一个“完美的受害者”，受害者死后要受到严厉的“政审”，他们最好祈祷自己生前不要有什么“不光彩”的历史，否则死不足惜，死有余辜。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image4.jpg" rel="attachment wp-att-437470"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image4.jpg?resize=500%2C357" alt="image4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image4.jpg?resize=300%2C214 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image4.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>甘肃，12岁女学生跳楼自杀后，民众包围了事发超市。</span></p>
-<p>去年12月28日，甘肃12岁女学生在超市偷了几块巧克力后被责打，通知家长后，她选择了跳楼自杀。对此悲剧应该问的是谁逼死了孩子，但网上却有人大讲做人的道理——“再穷再饿也不能偷东西”。</p>
-<p>雷洋与家人失联的那几个小时到底发生了什么，在疑点重重的官方通报中，他们只看到“嫖娼”这两个大大的字。如果嫖娼能够掩盖真相，那么它就可能成为一种手段。这才是真正的“娱乐至死”，一切严肃的追问都被这个带着软色情想象的道德批判消解了。</p>
-<p>法律的归法律，道德的归道德，这是一个国家走向文明的标志之一。在一个人的死亡面前，“嫖没嫖”算什么事？不管他有没有嫖娼，他的死亡都应该得到彻查。况且，诚如人民日报的评论所说，警方的通报只有寥寥数语，缺乏事发时间、地点、经过等关键要素，而根据财新网的报道，雷洋是在小区停车位被捕的，所以并不是在足疗店被抓现行，那么何以构成“嫖娼”？这些疑惑和质问，有关部门必须一一向家属和公众澄清和解答。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image5.jpg" rel="attachment wp-att-437469"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image5.jpg?resize=500%2C305" alt="image5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image5.jpg?resize=300%2C183 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image5.jpg?w=550 550w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>雷洋“身体不适”后背送至昌平区中西医结合医院。</span></p>
-<p>无论调查结果如何都应该记得，要求受害者的历史是“完美的”，很可能会导致这种结果：如果我们也遭遇了不幸，我们都会成为“该死”的那一位。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%E9%9C%80%E8%A6%81%E7%9A%84%E6%98%AF%E6%AD%BB%E4%BA%A1%E7%9C%9F%E7%9B%B8%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%AB%96%E6%B2%A1%E5%AB%96%E5%A8%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -806,7 +797,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -816,5 +807,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

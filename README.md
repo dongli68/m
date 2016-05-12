@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,64 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E4%B8%89%E5%A8%83%EF%BC%9A%E8%A2%AB%E4%BE%BF%E8%A1%A3%E5%BD%93%E8%A1%97%E6%8A%93%E8%B5%B0%E4%B9%8B%E5%88%9D%E4%BD%93%E9%AA%8C/" target="cdt-mirror">简书｜文三娃：被便衣当街抓走之初体验</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg" rel="attachment wp-att-437591"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg?resize=358%2C314" alt="2033943-74d664833e134511" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg?resize=300%2C263 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg?w=358 358w" sizes="(max-width: 358px) 100vw, 358px" data-recalc-dims="1"></a></p>
+<p><b>曾有所谓体面工作，有脉络清晰，自认合法的私人和公共生活，也被莫名其妙关押过83天。没有任何机构，任何人，哪怕是ISIS，声称对此负责。这种特别随机的不安全感，像是喝了过量的咖啡后的心悸，只好再借酒壮胆，暂时抵挡住恐惧。</b></p>
+<p><b> 2016年5月7日，北京籍湖南青年雷某在去首都机场接人过程中被昌平警方以涉嫌非法性交易采取强制措施，在被羁押期间死亡。</b></p>
+<p>雷某是被“便衣警察”当街掳走的。</p>
+<p>5年前的4月3日，和雷某的经历类似，我也被北京的“便衣警察”从街头绑架，塞进了一辆“便衣警车”。</p>
+<p>不尽相同的细节包括但不限于：雷某独自一人，我是与未婚妻同行；雷某被塞进车前大声求救，我根本来不及说一句话就已经被装车黑头套了；雷某有警方指控的“违法行为”，警方到现在都没有透露为什么会抓我；雷某是否挨打，警方没有说明或者还未承认，我是挨打了；雷某死了，我还活着。</p>
+<p>我的个人体验是：会不会被警察抓，警方会不会告诉你被抓的原因，被抓后会不会挨打，挨打后会不会有生命危险，其实都蛮随机的。<br><span>_______________________________________________</span></p>
+<p><strong>抓捕我的过程是这样的。</strong></p>
+<p>这天中午，我和未婚妻走在北京五元桥附近的一条街道上，大约5、6名壮汉悄然欺身，形成合围之势。</p>
+<p>后来才知道，这些掳我、打我、审我的“警察”，好些是从北京体育大学、北京体育师范学院（现名首都体育学院）引进的。</p>
+<p>他们平均身高1米8左右，神情中洋溢着体育生的气质：入伍能进仪仗队，从警能慑嫌疑人。</p>
+<p>其中一位中年壮汉身材略矮，显然是这群人的头儿，或者说，警长。</p>
+<p>中年人几乎跟我在耳语，大意是我的车剐蹭了他们的车跑了。</p>
+<p>与此同时，妻子已经被挡开，我的胳膊被架了起来，意识开始模糊，隐约能看见不远处，候着一辆深色的别克商务车。（一点小感想：抓我的警察蛮专业，无声无息就把人掳走了，雷某能对着行人喊救命，我想在警方的内部总结里，这个环节一定会被判为败笔。）</p>
+<p>这群大汉抓着1米59的我，怕是轻松得像拎着一件衣服。</p>
+<p>车门关上前，我甚至没有机会、或者是还没反应过来，像29岁的雷某那样对着路人喊救命。</p>
+<p>关门一刹那，我看见妻子发疯似的想拽住车门。</p>
+<p>门一关，当脸吃了一拳，眼镜飞开，眼前一暗，头被罩住了。</p>
+<p>头套的材质还能记得，遮光效果好好啊。</p>
+<p>90年代在中国新闻学院读书时上过摄影课，嗯，就是那种为冲洗胶片准备的暗房袋。</p>
+<p>暴打一顿后，被扔进了一个房间，再离开这个挂着厚窗帘的小屋子，是快三个月之后了。<br><span>_______________________________________________</span></p>
+<p>这期间没人再打我，但规矩不少，单手铐在一张圈椅上，睡觉不能取，上洗手间得自己抓着椅子，一点一点挪过去，对了，还不能洗澡，从早春到仲夏，房间里郁积的味道……每每看到换班进来的看守脸上表现出来的厌恶，我大约会自动回应一个“实在抱歉”的表情。</p>
+<p>对于“请通知我的家属”这个诉求，从头至尾没有得到回应。</p>
+<p>后来才知道，我的家人们在那段时间里跑了很多很多地方，去了我消失前那个街区的派出所和我居住地的派出所，都报过失踪，但警方均不立案，也拒绝提供其它任何形式的帮助。</p>
+<p>父亲写了申诉信，还去了市局、市政府上访，以至于上了维稳名册，此后好几年，他每次住宾馆，登记完身份证后，警察很快就会赶到现场。</p>
+<p>我有生以来觉得最对不起父母的，就是这件事。</p>
+<p>抓的时候没有任何法律文书，放的时候，也一样。</p>
+<p>但放我的前提是：得写一份保证书。内容大约是承诺与XXX，XXX等断绝关系，保证不向外界透露被关押过的任何信息等，还按了手印。</p>
+<p>直到现在，我仍这么想：能用检讨书换来和家人重逢的机会，就是写一百份，我也愿意。</p>
+<p>在被关押期间，我一度特别想让自己的“罪名”给确定下来，按法律程序被送进看守所，这样就有了见到律师和家人的一线希望。</p>
+<p>但我连名义上的“犯罪嫌疑人”都没能当上。</p>
+<p>一位美国记者曾问我，是否觉得自己算dissident。</p>
+<p>这是一个很难回答的问题。</p>
+<p>对dissident 的定义，最常见的是在政治范畴，我个人更愿意去分析它的哲学意味。</p>
+<p>毕竟在中国大陆，它可以有多种解释，但却唯独不是一个具有法律意义的名词。</p>
+<p>其实，我是特别想它被法律化、制度化、规范化。</p>
+<p>比如，“赵国”、“赵家人”这些概念，提一次，关一天，提两次，关两天，以此类推；将包子拟人化的，10天起。</p>
+<p>有了具体的规则或者法条，处罚起来有据可依，被处罚者也就没了喊冤的理由。</p>
+<p>那个恨不得把名片印上“早发早移”口号却一直没移的专栏作家贾葭，从3月18日起，一度从家人朋友的视线里消失。</p>
+<p>一位叫“思乐”的网友，在3月19日写了这篇叫《<a href="http://hk.on.cc/cn/bkn/cnt/commentary/20160319/bkncn-20160319000320548-0319_05411_001_cn.html" target="_blank">家人“被失踪”？24小时后可以做什么</a>》的文章 。</p>
+<p>这篇文章很快就不见于墙内。</p>
+<p>4月份朋友圈转发的这篇文章，我也觉得蛮生活指南的。</p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzAxNzA4MjYyMQ==&mid=2660218412&idx=1&sn=b3b6a310b15e6f4cb444eb1307206efc&scene=1&srcid=05113gajkKebe0I48KTXPovW&pass_ticket=4KHswFByr13jJMDSXrEWwni2W7zu2hWt3rx9rAuvXwVhxTYN8HWdiUhobwRf%2B9Aa#rd" target="_blank">“开门，我是警察”，这时他做了22件事</a></p>
+<p>我觉得这些文章都应该收录进大陆知识分子家属生活手册。</p>
+<p>它们不但详述了法律程序ABC,更重要的是，它亦讲述了在某些情况下，“臭老九”的家属应该如何面对黑洞一样的未知。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E4%B8%89%E5%A8%83%EF%BC%9A%E8%A2%AB%E4%BE%BF%E8%A1%A3%E5%BD%93%E8%A1%97%E6%8A%93%E8%B5%B0%E4%B9%8B%E5%88%9D%E4%BD%93%E9%AA%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%BF%E8%A1%A3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">便衣警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%86%8D%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%99%E5%BF%97%E5%88%9A/" target="cdt-mirror">詹膑：不可能再有一个“孙志刚”</a>
 </h2>
 <p><p><strong>【编者注】詹膑微信原文已被和谐。作者微信公号：Story（ID: zhanbinstory）</strong></p>
@@ -793,27 +848,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B8%AD%E5%85%B1%E7%8E%B0%E5%85%9A%E8%B4%B9%E5%8D%B1%E6%9C%BA-%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%89%B9%E5%9B%BD%E4%BC%81%E5%85%9A%E5%91%98%E6%8B%96%E6%AC%A0/" target="cdt-mirror">自由亚洲 | 中共现党费危机 中纪委批国企党员拖欠党费</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-09-at-%E4%B8%8B%E5%8D%885.59.29.png?resize=480%2C321" alt="Screen Shot 2016-05-09 at 下午5.59.29" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-09-at-下午5.59.29.png?resize=300%2C201 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-09-at-下午5.59.29.png?w=480 480w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"><br><span>上个世纪九十年代，江泽民赴寺庙朝拜(Public Domain)</span></p>
-<p>中共中央纪律检查委员会网站星期一罕有的点名山西、天津两地八十多家国有企业的领导干部，拖欠党费近三亿元人民币，并指一些领导干部不信马列信鬼神，烧香拜佛、求仙问卦看风水。此事引发网民热议，人们要求党库与国库分家，全职党务工作的领导退还领取政府部门的工资。有评论认为，当局向党员追讨党费，似乎是为了要求党员对党忠诚。</p>
-<p>中共中纪委罕有的点名国企领导干部拿高薪却不足额交党费，引发网民热议。中央纪委监察部网站5月9日报道，现在有的国有企业、金融机构的党员干部，拿着高薪却不及时、足额交党费。山西20多家国企的党员干部补交了8900多万元党费，天津60多家国企补交了2亿多元党费。</p>
-<p>报道还称，共产党员是马克思主义唯物论者，但一些党员领导干部不信马列信鬼神，烧香拜佛、求仙问卦看风水，把佛龛神像都供到了办公室，哪还有一点党员领导干部的样子。有的党组织居然把预备党员甚至是非党员任命为党的干部，可见党章意识淡漠到何等地步。十八大以来，习近平同志一再强调牢固树立党章意识，是有其现实针对性的。党的观念一旦淡漠，组织必然涣散、纪律必然松弛，党就会成为一盘散沙，就不可能经受住长期执政的考验。</p>
-<p>湖北民生观察工作室网站负责人刘飞跃5月9日接受自由亚洲电台采访时表示，目前很多共产党员不信马列主义，更多的是信奉权力与金钱：“他们信的更多的是权力和金钱，首先要取得权力，有了权力后再捞钱。所以我们在现实生活中看到很多。现在的领导人上台后，要对党员管理，收党费只是一个方面，也想加强他们的凝聚力，他们那一套东西的信仰。但是能不能达到目的，我看未必。因为这点钱对他们干部来说，是九牛一毛。他交了党费，并不见得信仰党章上说的那一套”。</p>
-<p>中共前总书记江泽民在任期内，曾多次参观寺庙，烧香拜佛，曾有人拍到江泽民亲自进香的照片。江泽民在就任中共总书记期间，曾多次去陕西的法门寺朝拜。1991年2月4日，江到河南白马寺朝拜；1993年，他先是去了陕西法门寺朝拜，然后又去了青海西宁塔尔寺，接受藏族活佛敬献哈达；2001年11月，江泽民又到河北赵县柏林禅寺，大赞佛教文化博大精深。2004年6月，江到安徽九华山朝拜地藏王菩萨，点香求佛，寺庙住持特别为江点燃三炷香，然后由江插进香炉。武汉归元寺的人对记者称，江泽民曾多次到位于汉阳的归元寺上香。</p>
-<p>众多网民发帖热议中共党员不交党费。网民“冲动丶惩罚”写道，只有党内职务的，请自觉退还政府所发工资，到党组织去领工资。“牧炎言”称，“不是我看不起有些人，他们甚至连党章都不清楚，别说会背诵，哪怕是做成选择题，看看能不能选及格”。另一位天津网民不满的说，“天津医药集团的领导拿高薪的不交党费，现在却让普通党员补缴党费3000元。严重影响我们的生活”。“云云任2012”写道，“我在天津外企工作，为什么也需要补交2200 元党费。怎么没有听说公务员要补交呀？”广东一网民称，这些党员干部能积极发扬“铁公鸡”精神，自觉戳穿了其“先进性”的面具！</p>
-<p>山东大学退休教授孙文广9号对记者说，当前国企高管的薪水很高，除了多赚钱，他们早已没有理想：“这些高官他们要讲什么理念，都没有，就是怎么捞钱，怎么样把自己的钱转移到国外什么离岸公司，把妻子、子女送到国外。他们不会讲什么理念，因为现在党管干部，各级官员由党委任命”。</p>
-<p>孙文广对中纪委提出党员欠党费的问题，感到奇怪。他说，共产党的经费应该自己筹集：“以前是没有这样强调要交党费的，党委系统的经费数量相当高的，（政府）拨给他们的款是相当高的，但大家对此都有非议，你共产党的经费应该自筹。但是现在他们有很多是从国库里拿的，你国库和党库是相通的吗”。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© Anne.Henochowicz for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E4%B8%AD%E5%85%B1%E7%8E%B0%E5%85%9A%E8%B4%B9%E5%8D%B1%E6%9C%BA-%E4%B8%AD%E7%BA%AA%E5%A7%94%E6%89%B9%E5%9B%BD%E4%BC%81%E5%85%9A%E5%91%98%E6%8B%96%E6%AC%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E8%B4%B9/?category=18271" rel="tag">党费</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -825,7 +859,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E8%B4%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -835,5 +869,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E8%B4%B9
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B1%9F%E9%9B%AA%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%9C%9F%E7%9B%B8-%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%9D%92%E5%B9%B4%E7%BB%9D%E6%9C%9B%E7%9A%84%E5%91%BC%E5%96%8A/" target="cdt-mirror">江雪｜雷洋案：没有真相 只有一个青年绝望的呼喊</a>
+</h2>
+<p><p><strong>作者微信公号：雪访（ID: jiangxuedulifangwen）</strong></p>
+<p>帮忙一下……帮帮忙一下……</p>
+<p>夜色笼罩，人声喧哗。在一个<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%8E%B7%E4%B8%A4%E5%8D%83%E4%B8%87%E6%AC%A1%E6%92%AD%E6%94%BE%E5%90%8E-4%E5%88%86%E5%A4%9A%E9%92%9F%E9%9B%B7%E6%B4%8B%E6%A1%88%E8%B0%83%E6%9F%A5/" target="_blank">已被删除的视频</a>（5月10日腾讯新闻“焦点现场”发布）中，我听到了他的呼喊，是南方口音，带着无力的恐惧。这很可能是青年雷洋留在这世间的最后的声音。</p>
+<p>是怕被事后自称“亮明了身份”的便衣警察拖向不可知的黑暗？是怕落入“抓嫖”的官差手中身败名裂，甚或失去自己的亲人？我们无从得知，雷洋在最后的时刻，承受了怎样巨大的恐惧。只知道，他死了，按照官方的说法，是在他发出这呼喊之后的一个小时。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%B1%82%E5%8A%A9.png" rel="attachment wp-att-437740"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%B1%82%E5%8A%A9.png?resize=525%2C299" alt="雷洋求助" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋求助.png?resize=300%2C171 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋求助.png?resize=768%2C437 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋求助.png?resize=1024%2C583 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋求助.png?w=1278 1278w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><span>雷洋被带走前的网络视频截图</span></p>
+<p><strong>一</strong></p>
+<p>一个人死在了警察手里。这个5月，是雷洋。2015年5月，是徐纯合。在庆安小城的火车站，当着徐的母亲和孩子，警察开枪打死了他。</p>
+<p>他们命运本无交集。一个是身居京城、名校毕业的中产青年，一个是多年上访、“名声不佳”的底层失意中年男人。只是谁能想到呢，最终，他们都不明不白，死在了差人的手里。哦，他们也有一样的“待遇”，在一切真相未明之前，在“姓党”的官媒上，都由出事了的警察，向大众振振有词，宣告他们的死是咎由自取，之前没有受到哪怕一丝一毫的“不公正待遇”。</p>
+<p>在警察的脸上，我看不到，有对死者的哪怕一点点痛惜，或者一点点抱歉。物伤其类，而我，在这些镜头里，看不到真相，更看不到一点点的人性。</p>
+<p>是的，嫖娼，买春，在中国，一个人如果被曝光这些隐私，基本上就完成了污名的过程。李庄、薛蛮子，之前甘肃武威的记者张永生，不都是吗。就是徐纯合，被打死之后也被曝出来多年“缠访”、“不务正业”，一句话，也不是什么“好人”，仿佛打死了也就没有什么可惜。</p>
+<p>可问题是，我们中间，谁又是完美的？那些并不完美的人，就该死吗？该死在警察手里吗？</p>
+<p>是什么时候开始，我们发现，这个国家，警察的权力越来越大？</p>
+<p>我们身处的地方，是警察国家，还是法治国家，我想，不需要太多政治学的论述，生活在其中的每个人，应该都能在心里给出一个答案。</p>
+<p>可还是想起2003年前后的陕北“黄碟事件”，以及孙志刚事件。</p>
+<p>黄碟事件，我参与过报道。我以为，这个案子最大的贡献，就是提供了一个如此清晰的样本，让人能明明白白看到，公权和私权的边界在哪里。警察代表的公权，应该止步在哪里。</p>
+<p>于公民，“法无明文禁止皆可为”，于警察，“法无明文授权皆不可为。”这是法治国家的基本原则。说来也荒诞，10多年前，在中国的媒体上，这些都曾被相当充分地讨论过。</p>
+<p>但讨论的基础，是真相。而彼时的真相，乃是还有元气淋漓的媒体，在禁令之下，一点点引领舆论倒逼，使得公权理屈词穷。要知道，当年的孙志刚，在广州街头被警察以查暂住证为名抓走，又被活活打死，最初警方公布的原因，竟是心脏病。</p>
+<p>2003年元月，黄碟事件的当事人得到了1万余元的国家赔偿。 2003年6 月，孙志刚事件有了一系列结果。多名行凶者被判重刑，其中有被处极刑者。</p>
+<p>之后，不管粤地政法系统对南方都市报如何恨之入骨，并疯狂反扑，让南都蒙受巨大损失。而它的总编辑程 益中、总经理喻华峰等人，也各自付出了自由的代价。毕竟，南都为中国媒体人引领了一份荣光，也因此，将此国的人权理念，向前推动了一步。<strong><br></strong></p>
+<p><strong>二</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AD%99%E5%BF%97%E5%88%9A%E7%88%B6%E4%BA%B2-e1463119055487.png" rel="attachment wp-att-437741"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AD%99%E5%BF%97%E5%88%9A%E7%88%B6%E4%BA%B2-e1463119055487.png?resize=500%2C343" alt="" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/孙志刚父亲-e1463119055487.png?resize=300%2C206 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/孙志刚父亲-e1463119055487.png?resize=768%2C527 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/孙志刚父亲-e1463119055487.png?w=792 792w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>当年孙志刚（中立者）的父亲向公众致谢</span></p>
+<p>可终究如前面所说，那时，在悲剧发生之后，有真相一点点被倒逼了出来。</p>
+<p>而今天呢，雷洋的死，我们会等来什么，会等来真相吗？</p>
+<p>5月11日，看到胡泳的一条微博：“雷洋案中，最沉痛的，是听到一位律师这样说：这件事不会有真相了！”</p>
+<p>此语也真是沉痛到了极点。是的，在今天的状况下，我们还有信心期待一个所谓的真相吗。</p>
+<p>10多年前，不管是黄碟事件，还是孙志刚事件，至少在一段时间内，有全国媒体铺天盖地的报道。记得黄碟事件，新浪等多家门户网站，每天悬挂纸媒的追踪在首页，法学界的评论不绝于缕。而孙志刚事件中，法学界更与媒体呼应，有许 志永、滕 彪等五博士“上书”，要求废止收容遣送制度。</p>
+<p>那时，中国调查报道勃勃待兴。在禁令与反抗之间，媒体人自觉寻找着表达，寻求着真相。管制下也有缝隙可钻，而公权机关，还没有那么自信，也没有那么快习得信息控制、应对舆论的全套手段。</p>
+<p>就在这样的时间差中，真相被披露，而漫是“影帝”，也最终还有回应的声音，最终使得恶法被中止。</p>
+<p>5月11日，雷洋案后，宋志标的“旧闻评论”，有文章曰《心意难平 遥望孙志刚》，末了也叹到：以今年纪，若孙志刚在世，也都四十岁了。</p>
+<p>是的，也是一代人，一段重要的时间了。由彼时起，行进到2016年。自2013年之后，公权强悍，盛气凌人，一次次打击大V，一个个央视忏悔，一波波自命“真相”，傲慢地回击每一次公众的疑问，官方正掌握应对舆论的秘笈，“自干五”如今竟然已经是明目张胆的褒义词了。</p>
+<p>2015年5月，徐纯合事件发生时，尚有多位死磕律师赶赴庆安。也不过两月之遥，当年的7月，死磕律师便遭受大面积“围剿”，到如今花果飘零，与媒体人的处境遥遥呼应。</p>
+<p>遂到了今天。不管那青年雷洋，曾发出怎样绝望的呼喊，我们已看不到死磕律师，也看不到更多声音传递出来的媒体。</p>
+<p>我们只看到，BTV，人日，放下自诩“媒体”者也应该有的一点点颜面，让涉嫌非法剥夺公民生命的公权一方，自说自话般地振振有词。</p>
+<p>于今，大家都在呼吁独立的第三方介入调查。在现有司法体系下，检察院也当然可以作为“第三方”推动相关的尸检工作。</p>
+<p>但这就是真的吗。它会是一个独立的报告吗。人们会相信吗？这不是什么塔西陀陷阱，这是一个无可跳出的死循环。</p>
+<p>在这个意义上，真相是不可期的。而沉痛，是真实的。</p>
+<p>但我，还是记住了那个青年恐惧的呼喊。“帮帮我，帮帮我。”我想，如果是我，有一天，面临巨大的国家机器迫近，也会这样本能地呼喊。</p>
+<p>可是，到那时，谁会来帮我呢。而对免于恐惧的呼喊，又将怎样在每个人心中汇聚，汹涌如河流呢？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B1%9F%E9%9B%AA%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%9C%9F%E7%9B%B8-%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%9D%92%E5%B9%B4%E7%BB%9D%E6%9C%9B%E7%9A%84%E5%91%BC%E5%96%8A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E5%BF%97%E5%88%9A/?category=18271" rel="tag">孙志刚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E7%A3%95%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">死磕律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%9A%E8%AE%AF%E6%96%B0%E9%97%BB-%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A788%E7%BA%A7%E9%83%A8%E5%88%86%E6%A0%A1%E5%8F%8B%E5%85%B3%E4%BA%8E%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A3%B0/" target="cdt-mirror">博讯新闻 | 西安交大88级部分校友关于雷洋事件的声明</a>
+</h2>
+<p><p>近日，“雷洋涉嫖猝死”事件又似乎演变成社会舆论聚焦的一个疑案，嫖娼、猝死、执法过程等细节，都打上一个个问号，亟待掀起谜团，找出公平公开合理的答案。</p>
+<p>一封《中国人民大学88级部分校友就雷洋同学意外身亡的声明》在各个微信群中流传。随后又有人大89、90级的声明。还有人大77、78级实名签署的《我们不得不发声—中国人民大学77、78级部分校友关于雷洋事件的声明》，请求北京市检察机关立即组织独立职务侦查，北京市人大常委会介入督办，昌平等公安机关皆应回避。全部原始证据、监控录像、各方证人等应置于检察机关控制之下，不仅仅是尸检由第三方进行。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0065xzJfgw1f3pzpx8mrpj318g0qo44g.jpg?resize=550%2C330" alt="0065xzJfgw1f3pzpx8mrpj318g0qo44g" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0065xzJfgw1f3pzpx8mrpj318g0qo44g.jpg?resize=300%2C180 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0065xzJfgw1f3pzpx8mrpj318g0qo44g.jpg?resize=80%2C48 80w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0065xzJfgw1f3pzpx8mrpj318g0qo44g.jpg?w=720 720w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>网民大呼：“这届人民不行，人民大学还行！”</p>
+<p>我们交通大学的校友也大声响应：“这届交通还行，交通大学也行！”</p>
+<p>雷洋事件不仅是人民大学校友的事，也是其他大学校友的事，更应是全体公民的事。我们发表声明，不是因为雷洋是人大硕士，而是因为他是一名公民，一名受法律保护的公民。我们认为任何公民都是平等的，无论他是硕士还是民工。</p>
+<p>犹太人屠杀纪念碑上所铭刻的马丁·尼莫拉的话：<br>
+“在德国，起初他们追杀共产主义者，我没有说话——因为我不是共产主义者；接着他们追杀犹太人，我没有说话——因为我不是犹太人；后来他们追杀工会成员，我没有说话——因为我不是工会成员；此后他们追杀天主教徒，我没有说话，因为我是新教教徒；最后他们奔我而来。却再也没有人站出来为我说话了。”</p>
+<p>我们西安交大88级部分校友认为维护社会公平正义是每一个公民的义务，我们有义务为雷洋事件发声，虽然我们理工生不如人民大学的政法同学懂法律。</p>
+<p>目前网上多数意见是警察的暴力执法导致雷洋死亡。我们交大的学风素有独立之精神，就目前的网上报道，我们无法判断此次事件孰是孰非。我们不愿看到雷洋“被死亡”，也不愿看到执法的警察被冤枉。人命关天，我们期待本届政府能给我们一个令人信服的公平公正的答案。</p>
+<p>虽然我们知道公检法和人大政协系统被抓出了不少贪官，但是目前我们只能依靠他们对雷洋事件进行执法、调查、监督。希望处理此事件时，贪官、说假话的、缺乏正义感的人员不要参与，还公众一个真相。</p>
+<p>由缺乏正义感的人来执法，再完善的法律制度也是空中楼阁。</p>
+<p>我们相信每个人心中都有一颗公平正义的心，都不愿意说假话，但有时为了自己的私利不得不主动或被动地说假话、卑躬屈膝、阿谀奉承、趋炎附势。虽然我们的社会离每个人都敢说真话还差得很远，但我们不从现在做起，我们的子孙后代将继续说假话、做着违心的事。雷洋事件还会不停的上演。</p>
+<p>网上还有说是阴谋论的，雷洋是常外毒地调查的环保专家，被陷害；莆田系弃兵保帅之计等等。</p>
+<p>疫苗、常外毒地、魏则西……每个事件只是在网上热两三天，然后转入下一个事件，没人关心以前事件的结果。雷洋事件可能也是如此，现在人人说没有安全感，出门就可能“被死亡”。过几天就忘得一干二净，关心另一个热点话题了。我们能不能做一个CHECK LIST，跟踪以前事件的处理结果？每个月回顾一下政府是否处理了？公众是否满意？做到前事不忘后事之师。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/201605131140china2.jpg?resize=495%2C117" alt="201605131140china2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/201605131140china2.jpg?resize=300%2C71 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/201605131140china2.jpg?w=495 495w" sizes="(max-width: 495px) 100vw, 495px" data-recalc-dims="1"></p>
+<p>倘若我中华先人之富贵不能淫、贫贱不能移、威武不能屈的正义做人准则尚在，这些龌蹉事件是不会发生的。正义，从你我做起！杜绝主动做坏事，尽量少地被动做坏事！</p>
+<p>西安交通大学1988级部分校友 2016年5月12日</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%9A%E8%AE%AF%E6%96%B0%E9%97%BB-%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A788%E7%BA%A7%E9%83%A8%E5%88%86%E6%A0%A1%E5%8F%8B%E5%85%B3%E4%BA%8E%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A3%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B/?category=18271" rel="tag">网络水军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7/?category=18271" rel="tag">西安交大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E9%AB%98%E5%AE%98%E5%92%8C%E5%AF%8C%E8%B1%AA%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8A%E6%9B%9D%E5%85%89/" target="cdt-mirror">美国之音｜中共高官和富豪个人信息在推特上曝光</a>
 </h2>
 <p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg" rel="attachment wp-att-437726"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?resize=381%2C228" alt="方滨兴" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?resize=300%2C180 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?resize=80%2C48 80w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?w=381 381w" sizes="(max-width: 381px) 100vw, 381px" data-recalc-dims="1"></a><br><span>@shenfenzheng 被注销前在推特发布的疑似方滨兴身份证照片</span></p>
@@ -59,6 +135,88 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
 <a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%AF%E4%BC%9F%E6%B1%9F%EF%BC%9A%E8%A6%81%E6%83%B3%E6%88%90%E4%B8%BA%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%AC%AC%E4%BA%8C%EF%BC%8C%E5%BE%88%E9%9A%BE/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E4%BA%91%E4%BC%9A/?category=18271" rel="tag">钱云会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87652%E4%BA%BF%E6%8D%90%E6%AC%BE8%E6%88%90%E5%85%A5%E6%94%BF%E5%BA%9C%E8%B4%A6%E6%88%B7-501%E4%BA%BF%E5%8E%BB/" target="cdt-mirror">【真理部】汶川地震652亿捐款8成入政府账户501亿去向未明</a>
+</h2>
+<p><p>各网站不要转载财经网《汶川地震652亿捐款8成入政府账户 501亿去向未明》一文，已经转的请立即撤下。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p><strong>附：财经网｜汶川地震652亿捐款8成入政府账户 501亿去向未明</strong></p>
+<blockquote>
+<p><strong>核心提示</strong>：媒体盘点汶川地震652亿捐款去向，清华大学研究称“八成地震捐款可能转入政府财政账户”。综合各方数据计算，公布使用明细的约有151亿元，约占总额的23.16%。而其余501亿元的详细去向至今并未在公开资料中明确显示，甚至连捐款来源也无从查证。</p></blockquote>
+<p><em>原标题：汶川大地震的600多亿捐款怎么花了？</em></p>
+<p>又是一年5·12。距离2008年的汶川大地震，已经过去整整八年。</p>
+<p>据民政局资料显示，仅地震后半年内，全国为5·12汶川地震灾区募集款物762.14亿元，其中捐款652亿元，超过了1996年至2007年全国接收的救 灾捐赠款物的总和(累计557亿元，其中捐款420亿元)，打破了中国捐赠史上的纪录。至少600多亿的捐款流向何处？有多少用在灾区人民身上？相关单位是否有可查证的善款使用明细？每一个问题的答案都在公众的知情权范畴，也关系到灾区同胞的一粥一饭。</p>
+<p><strong>汶川地震捐款流向研究</strong></p>
+<p><strong>“八成地震捐款可能转入政府财政账户”。</strong></p>
+<p>8年前，清华大学公共管理学院教授邓国胜团队对“汶川地震善款流向”的研究报告显示，截至2008年11月，全国捐赠的资金为652.5亿元，其中政府直接受捐约占58%，约379亿元；各地红十字会、慈善会以及地方公募基金会的捐款约占31%，约199亿元；中国红十字总会、中华慈善总会和16家全国性公 募基金会只占了约11%。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a68c2fee0c769f4fd461_size16_w456_h278.jpg" rel="attachment wp-att-437696"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a68c2fee0c769f4fd461_size16_w456_h278.jpg?resize=456%2C278" alt="a68c2fee0c769f4fd461_size16_w456_h278" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a68c2fee0c769f4fd461_size16_w456_h278.jpg?resize=300%2C183 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a68c2fee0c769f4fd461_size16_w456_h278.jpg?w=456 456w" sizes="(max-width: 456px) 100vw, 456px" data-recalc-dims="1"></a></p>
+<p>根据邓国胜团队的统计，前两类善款中的“绝大多数都交由政府部门去使用”，第三类“可以自行安排使用”的部分，“到了地方红十字会或慈善会的资金往往还是收到政府财政账户，或由地方政府来实际执行项目。”</p>
+<p>2008年12月，在录制央视节目时，民政部官员表示，民政部正在建立一个公示捐款的信息平台，并专门组建了中民慈善捐助信息中心，能够将善款的流向进行公示，包括公众的捐款经过什么渠道，现在到了哪里，最后落实到什么项目上，会有一个动态性的流向显示。他表示，希望到年底就能公示一大批，到明年（2009年）能把更多的内容公示出来。</p>
+<p>但公开信息显示，并未有此平台问世，对600多亿捐款的流向和用途，公众能获取的信息仅有四川省政府、中国红十字总会、中华慈善总会等官方捐款平台，壹基金、腾讯网等非官方捐款平台披露的报告及数据。</p>
+<p>调查显示，汶川地震一年后，仅有4.7%的捐赠者非常清楚捐赠资金的流向，而66.7%的公众明确表示不太清楚捐赠资金的流向。而“不清楚”并非是因为民众不想弄清楚。</p>
+<p>当然，有关接收捐款的机构、单位、组织以及每笔欠款的流向，我们不能也不可能获知所有信息。目前可以查证的，对占一定份额的捐款进行管理、配置的至少有四川省政府、全国红十字会系统、中华慈善总会、壹基金、腾讯网等。</p>
+<p><strong>四川省政府</strong></p>
+<p><strong>接收捐赠资金共201亿</strong></p>
+<p>2010年1月，四川省财政厅、省慈善总会、省红十字会连续对汶川地震该省接收社会捐赠资金使用情况通过网络、平面媒体向社会公开、公示项目明细。查阅四川省政府网站发布的有关公告发现，捐款类别、数额、捐款单位(个人)、使用方向及说明被公开明示。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65458355d0dc154a75b5_size52_w500_h331.jpg" rel="attachment wp-att-437695"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65458355d0dc154a75b5_size52_w500_h331.jpg?resize=500%2C331" alt="65458355d0dc154a75b5_size52_w500_h331" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65458355d0dc154a75b5_size52_w500_h331.jpg?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65458355d0dc154a75b5_size52_w500_h331.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>其中，四川省财政厅共接收汶川地震抗震救灾捐赠资金40.93亿元，已使用40.07亿元；四川省红十字会共接收汶川地震抗震救灾捐赠资金13.90亿元（含利息），已安排使用13.84亿元，待安排0.06亿元；四川省慈善总会共接收汶川地震抗震救灾捐赠资金41.28亿元，已安排使用41.13亿元，待安排0.15亿元。</p>
+<p>另据四川当地媒体报道，2008年香港特别行政区政府与四川省政府签署《就香港特别行政区支援四川地震灾后恢复重建合作的安排》，计划分阶段援助100亿港元，其中仅仅通过省财政厅的捐款就达9.1亿元。</p>
+<p>四川省政府2010年2月的一则公告则显示，截至2009年9月30日，全省共接收捐赠资金201.95亿元，其中：中央各部门、全国性基金会等拨入55.64亿元；四川省本省募集96.96亿元；外省拨入49.35亿元。对于支出的具体流向，公告也给予了说明。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c8eb9f14f8ac8824d4d6_size41_w500_h411.jpg" rel="attachment wp-att-437694"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c8eb9f14f8ac8824d4d6_size41_w500_h411.jpg?resize=500%2C411" alt="c8eb9f14f8ac8824d4d6_size41_w500_h411" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c8eb9f14f8ac8824d4d6_size41_w500_h411.jpg?resize=300%2C247 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c8eb9f14f8ac8824d4d6_size41_w500_h411.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>但是，据以上官方数据计算，四川省官方共公布的95.83亿元的捐款流向，仅占总捐款额201亿元一半，公开资料上查不到2011年2月以后四川官方有关捐款流向的公告。媒体对其最新的报道则是4年前，时任副省长魏宏的回应：捐赠资金按渠道集中在四川省慈善总会、四川红十字会和四川省财政厅。对捐赠资金有明 确使用捐赠范围和方向的，用到捐赠人希望捐赠的项目和地方去。对没有明确捐赠资金使用方向的，主要用于事关老百姓的生产生活方面的问题，比如学校、医院机构。</p>
+<p>此外，据四川省慈善总会一位负责人介绍，该总会接收的41亿元的汶川地震抗震救灾捐赠资金中，按照 “5·12”抗震救灾指挥部的要求，在灾后重建中，有5亿左右明确划归财政统筹安排，余下的30多亿是按照捐赠方的意愿，按照项目管理制的模式运行。但在 全国范围内的捐款中有多少划归财政确实不清楚。</p>
+<p><strong>全国红十字系统</strong></p>
+<p><strong>接收资金160亿物资价值39亿</strong></p>
+<p>据中国红十字总会2011年5月公布的数据，截至2011年2月28日，全国红十字系统共接收汶川地震救灾款物价值人民币199亿元。中国红十字会官方未发布有关汶川地震捐款流向的公告，可查证的公开资料仅有2011年5月发布的审计报告。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/60eaabdcb3355614c848_size37_w500_h311.jpg" rel="attachment wp-att-437693"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/60eaabdcb3355614c848_size37_w500_h311.jpg?resize=500%2C311" alt="60eaabdcb3355614c848_size37_w500_h311" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/60eaabdcb3355614c848_size37_w500_h311.jpg?resize=300%2C187 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/60eaabdcb3355614c848_size37_w500_h311.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>公告显示，截至2011年2月28日，中国红十字会总会累计收到国内外捐赠款物合计人民币42.97亿元；累计拨出捐赠款物合计人民币37.74亿元；待拨付合计人民币5.23亿元。</p>
+<p>由于上述公告仅寥寥四段，并没有列出捐款支出明细。有不少网友表示希望能细化账目：不只是公布一些粗线条的收支数字，而是每一笔捐款的用途、去向也应该“晒一晒”。还有网友表示希望能公布捐赠物资中的帐篷采购价、重建的学校中标单位、中标价等信息。而红十字系统接收的199亿资金中，也仅有中国红十字会总会接收的42.97亿去向有所交待。</p>
+<p>5年前，红十字会等慈善机构因“郭美美事件”深陷信任危机，汶川地震的过百亿捐赠资金去向由此成了网友热烈讨论的问题。中国红十字总会秘书长王汝鹏7月初表示，将争取月底前建立捐款信息发布平台。</p>
+<p>2011年7月31日，中国红十字总会对外承诺的捐赠信息发布平台（fabu.redcross.org.cn）终于上线试运行，发布了2010年4月发生的青海 玉树地震捐赠收支和资助使用的有关情况，捐赠者输入名字还可查询2010年1月11日以来的捐赠信息，但2010年1月11日以前的捐赠信息不能查询。</p>
+<p>据报道，在“捐赠查询”中输入李连杰的名字，和李连杰相关的3项信息分别是：“李连杰壹基金玉树赈灾”在2010年4月22日捐赠了230元；“李连杰”4月23日捐赠300元；以及“李连杰壹基金计划”在8月30日捐赠400元。但对照李连杰壹基金计划的工作小结，玉树地震发生后，截至2010年4月22日，壹基金在青海玉树震区捐赠物资的金额超过了200万。与在平台查询到的数字有很大出入。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5bf92d761dd25e234d00_size27_w500_h310.jpg" rel="attachment wp-att-437692"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5bf92d761dd25e234d00_size27_w500_h310.jpg?resize=500%2C310" alt="5bf92d761dd25e234d00_size27_w500_h310" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5bf92d761dd25e234d00_size27_w500_h310.jpg?resize=300%2C186 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5bf92d761dd25e234d00_size27_w500_h310.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>该平台公布2010年1月11日以来社会向中国红十字会总会捐赠的信息、玉树地震捐款和使用情况、2010年财务和审计报告、汶川地震捐款财务和审计报告等信息。但是，捐款５０万元以上的单位和10万元以上的个人，才可以查询到捐款信息和相对应的援建项目及善款的具体使用情况。全国人大代表、湖北省统计局副局长叶青当时表示，该平台公布的数据还比较笼统，审计报告过于简单难以让人信服。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2525a4683caf4a346ee5_size26_w499_h324.jpg" rel="attachment wp-att-437691"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2525a4683caf4a346ee5_size26_w499_h324.jpg?resize=499%2C324" alt="2525a4683caf4a346ee5_size26_w499_h324" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2525a4683caf4a346ee5_size26_w499_h324.jpg?resize=300%2C195 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2525a4683caf4a346ee5_size26_w499_h324.jpg?w=499 499w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></a></p>
+<p>平台公布的中审亚太会计师事务所作的汶川地震捐赠款物财务收支情况专项审计报告仅5页，第1页封面，第2到第4页交代了“管理层的责任”、“注册会计师的责任”及审计意见之后，仅第5页为正文，列了5项收支情况。</p>
+<p>距该平台上线近4年后的现在，再次登录红十字总会的捐赠信息发布平台，发现该平台已经打不开。取而代之的是“捐赠信息查询平台”。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e39680ae4f6c7eedbc3_size19_w499_h332.jpg" rel="attachment wp-att-437690"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e39680ae4f6c7eedbc3_size19_w499_h332.jpg?resize=499%2C332" alt="1e39680ae4f6c7eedbc3_size19_w499_h332" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e39680ae4f6c7eedbc3_size19_w499_h332.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e39680ae4f6c7eedbc3_size19_w499_h332.jpg?w=499 499w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></a></p>
+<p><strong>中华慈善总会</strong></p>
+<p><strong>接受抗震救灾捐赠款物共计10.835亿多元</strong></p>
+<p>中华慈善总会于2009年5月对外公布，截止2009年4月30日，该会接收抗震救灾捐赠款物共计10.835亿元，其中资金9.272亿元，物资折款1.563亿元。所接收的9.272亿元捐款中，已拨付和分配的资金8.59亿多元；在总会立项待执行的资金5826万元；待安排资金约990万多元。</p>
+<p>公示还列出了捐赠资金支出明细，其中包括救灾物资购置费18302.58万元，直接拨付四川省定向捐款47319.5454万元，拨付甘肃省7300万元，拨付陕西省6800万元，拨付重庆市慈善总会2000万元，拨付云南省慈善总会2000万元，支持全国政协举办的“灾区学校图书馆捐赠图书活动”653.063万元等。</p>
+<p>此外，救灾工作经费支出和预留920万元，主要包括赴灾区交通费、邮寄费、灾区前线工作费、通信费、宣传费、志愿者误餐费、办公费等必要的开支。</p>
+<p>在资金分配问题上，中华慈善总会表示将严格按照中央的部署，本着“救灾所需”和“尊重捐赠者意愿”的原则进行分配。在抗震救灾捐款总额中，约4.8亿元资金是定向捐赠，占资金总额的52％。约20％用于紧急抢救阶段购置救灾物资运送灾区，其余的多用于灾区的恢复重建。恢复重建资金主要通过省级慈善机构，根据灾区需要和当地政府的部署，合理分配，逐一立项，签署协议，按照项目管理的办法实施和监督。</p>
+<p><strong>壹基金</strong></p>
+<p><strong>筹得汶川地震捐款金额8235.66万</strong></p>
+<p>除官方捐款平台外，一些非官方捐款平台也是汶川地震捐款资金的募集和管理主体。李连杰的壹基金就在2008年抗震救灾活动中名声大噪。</p>
+<p>地震发生当晚19:00，壹基金联手阿里巴巴、淘宝、支付宝、天涯、搜狐、网易、雅虎等网站，开展大型网络救助活动，号召网友通过网络向灾区快速捐款，“早一点到达多一份希望”。</p>
+<p>震后一个多月里，壹基金通过网络及国内个人捐款筹得4951.23万元，另外海外个人捐款也达到了400万元，总计收到国内、国际的个人捐款为 5351.23万元，占同期捐款总数的66.12%,累计捐款人次超过了73.6万人。而同期的企业捐款只有2741.92万元，只占同期捐款总数的33.88%。</p>
+<p>至当年7月，壹基金启动地震专项募款活动后，总共筹措到了超过8000万元的款项。对于为什么目前才拨出了500万元进行救灾的问题，壹基金的回答是：救灾和重建是一个长期的过程，壹基金不可能在开始的阶段就把8000多万元都投入进去。而且具体的重建等需要投入大量善款的项目，壹基金都不会单独进行，而会与当地政府、红十字会共同合作，从他们的大量重建项目中选择符合壹基金理念的项目。</p>
+<p>壹基金官网上可以查询到壹基金的财务报告，其中包括自5月12日以来，筹得汶川地震捐款金额、汶川地震灾后重建计划总体方向及预算、壹基金近期救助支出明细表。报告显示，壹基金自地震后募捐到8200多万元，近期救助汶川地震支出4000万，计算得知捐汶川地震款剩余4200多万。但是，汶川地震灾后重建预算为5500万元，这就意味着，如案预算支出，用于汶川重建的资金会超过捐款总额。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/157e5ef3b1abdf084e11_size24_w500_h440.jpg" rel="attachment wp-att-437689"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/157e5ef3b1abdf084e11_size24_w500_h440.jpg?resize=500%2C440" alt="157e5ef3b1abdf084e11_size24_w500_h440" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/157e5ef3b1abdf084e11_size24_w500_h440.jpg?resize=300%2C264 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/157e5ef3b1abdf084e11_size24_w500_h440.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>但是2008年地震时，壹基金还未获得独立公募基金的资格，这也意味着它只不过是中国红十字总会下属的一个筹款计划，并没有法人资格。由于并无独立的账户和公章，只能挂靠在红十字会这样的官方机构下才能获得全国性募捐的资格。因此它所筹得的资金均进入红十字会下属的银行账户，壹基金无权自行使用，每一笔财务支出都需经过红十字会同意。</p>
+<p>2013年5月，受中国红十字会风波影响，有媒体报道称壹基金挪用汶川地震善款2000万元用于创办现在的北京师范大学中国公益研究院。但壹基金拿出多方证据，跟公众说明这部分钱是企业的定向捐赠，很短的时间内事情就平息。</p>
+<p><strong>企业</strong></p>
+<p><strong>淘宝网、腾讯网参与募捐</strong></p>
+<p>在汶川地震发生后的第二天：13日凌晨2时，淘宝网开设了募捐快速通道。短短一分钟内就有1900位网友捐款，10000元善款即时到账。三四天的时间，3个网络平台捐款突破1000万元，每一笔均是网友的个人自发捐款。截至5月16日，淘宝网的募捐通道已经汇集了淘友们的爱心捐款近2000万。</p>
+<p>但是关于这笔钱的去向，并无公开消息。</p>
+<p>同时，腾讯公益慈善基金会、腾讯网联合中国红十字会李连杰壹基金计划发起紧急募捐。腾讯网还向中国企业、各界知名人士、热心公众发出倡议，号召大家关注地震灾情，及时捐助，推进全民救灾抗灾，帮助灾区恢复生产、重建家园。腾讯官网数据显示，截止2008年6越日，海内外社会各界通过腾讯网向灾区捐赠款物共计2000万元。</p>
+<p>据中国红十字总会开具的一份特殊的赈灾捐款证明——《确认函》显示，从5月15日至20日12时，腾讯财付通已分六次向中国红十字总会赈灾账户转入腾讯网友募捐善款。5月20日12时以后的<br>
+网友捐款也已陆续转入红十字会账户，目前实际汇款已经超过2000万元，后续红十字总会将再开具相应的捐款证明，数据将陆续公示。</p>
+<p>腾讯还公示了一份《腾讯和员工直接捐助款用途明细表》，资料中确认此前腾讯和全体员工先后四次累计2000万的直接捐款，也分别打入了中国红十字总会、中国儿童基金会、民政部等相关接收单位。腾讯表示，腾讯总额4000万元的直接捐款、筹款已经全部汇出并落实到位。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/cebde7c9de263703104c_size55_w499_h557.jpg" rel="attachment wp-att-437688"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/cebde7c9de263703104c_size55_w499_h557.jpg?resize=499%2C557" alt="cebde7c9de263703104c_size55_w499_h557" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/cebde7c9de263703104c_size55_w499_h557.jpg?resize=269%2C300 269w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/cebde7c9de263703104c_size55_w499_h557.jpg?w=499 499w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></a></p>
+<p><strong>综合以上数据计算得知，汶川地震652亿捐款中，公布使用明细的约有151亿元，约占总额的23.16%。而其余501亿元的详细去向至今并未在公开资料中明确显示，甚至连捐款来源也无从查证。</strong></p>
+<p>汶川地震激发了国人的爱心与捐赠热潮，但由于少数具有垄断地位的募捐机构缺乏能力管好、用好庞大的资金和物资，结果在救灾过程中出现了不少管理上的纰漏，募捐机构所募集的钱越多，公众的担心越大、社会的质疑越多，募捐机构面临的资金使用风险和社会压力也越高。</p>
+<p>面对不知所踪的巨额捐款，公众需要的不过是一张能够看得见、摸得着、对得上号的捐款去向明细表。只有知道钱去了它该去的地方，才能放心地伸出捐助之手。</p>
+<p>来源：财经网综合《公益时报》、京华时报、南方周末、新华每日电讯、青年报、新华网、财政部网站</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87652%E4%BA%BF%E6%8D%90%E6%AC%BE8%E6%88%90%E5%85%A5%E6%94%BF%E5%BA%9C%E8%B4%A6%E6%88%B7-501%E4%BA%BF%E5%8E%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E4%BC%9A/?category=18271" rel="tag">中国红会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%88%E5%96%84%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">慈善机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE/?category=18271" rel="tag">抗震救灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8D%90%E4%BD%A0%E5%A6%B9/?category=18271" rel="tag">捐你妹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">汶川地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97/?category=18271" rel="tag">红十字</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 5小时前</small>
@@ -678,90 +836,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%AB%96%E5%A8%BC%E5%9C%A8%E9%81%93%E5%BE%B7%E4%B8%8A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%81%B6%EF%BC%9F/" target="cdt-mirror">唐映红 | “嫖娼”在道德上到底有多“恶”？</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160511_142933.jpg?resize=600%2C450" alt="网友恶搞图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160511_142933.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160511_142933.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160511_142933.jpg?resize=1024%2C768 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160511_142933.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>网友恶搞图</p></div>
-<p><strong>问：“嫖娼”在道德上到底有多“恶”？</strong></p>
-<p>答：<strong>性交易在大多数文化都是具有道德争议的议题</strong>。从历史来看，自从有记录的历史开始，性交易就已经出现，以至于提供性服务被称为人类历史上“<strong>最古老的职业</strong>”。</p>
-<p>孟子曾经说，“<strong>食色性也</strong>”，用现代心理学的术语来表达就是，<strong>饮食和性是人类与生俱来最大的两种生物性的行为动机，甚至可以看作只有这两种生物性的行为动机。</strong>尽管动物行为学的创始人洛仑兹提出攻击是人类第三种基本的生物性动机，但事实上从动物行为学角度，人类与其它动物物种的攻击几乎都是为了获得食物或者性，归根到底仍然可以归入到饮食与性的动机范畴。</p>
-<p>由于男女两性性选择进化的途径不同，<strong>男性更容易获得食物资源，而女性天然地拥有性资源（生育资源）</strong>。男性由于自身不能生育，也无法确保哪个孩子是自己的血脉，因此，男性在性选择上发展出了短期策略，即尽可能在短时间内与更多的女性交配。而女性由于性行为之后可能付出的生物能量代价巨大，孕、娩、育会耗费女性一生中极其巨大的资源，同时也会阻碍她获得食物的机会。因此，<strong>女性用自己的性资源来换取男性拥有的食物资源就成为自然而然的一种平衡资源的模式，这也就成为性交易的雏形。</strong></p>
-<p>可以这么说，<strong>只要男女两性在性、食物及其他随着社会发展而越来越重要的社会资源，如权力、信息、安全等资源上的不平等，那么用性来交换其他资源就如同用其他资源来交换不同的资源一样，不可能杜绝。</strong>广义的性交易不仅包括通常人们所理解的买春，直接用货币来购买性服务；也包括<strong>通过性交易来获得食物、权力、信息、安全、尊重，等等，可能通过婚姻的方式，也可能通过包养的方式，或者贿赂的方式。</strong>之所以狭义的性交易在许多社会文化里会被严厉地禁止，主要跟构成一个社会意识形态的性道德有关。<strong>禁止性交易的性道德既可能来源于社会竞争中的文化嬗变，也可能来自于纯粹的观念系统，如宗教。</strong></p>
-<p>在一个传统社会，或者保守的社会里，性交易在道德上的“恶”，除了反映在宗教信仰上的违背教义之外，主要是它<strong>对构成社会基本单元的婚姻关系的潜在的威胁和破坏力。</strong>传统社会里，婚姻的价值在于它既是社会经济的基本单位，同时也是确保一对夫妇能够齐心协力共同抚养他们的子嗣的保障，以确保社会人口的生产能够有序、高效地维持和发展。</p>
-<p>事实上，随着现代人类社会的技术进步、经济发展以及生产方式的颠覆性变革，<strong>性交易在道德上的“恶”事实上已经变得微不足道。</strong>抛开基于宗教的教义限制，现代社会里婚姻不再是社会经济的基本单位，抚养孩子也不再是家庭的责任，而成为社会共同承担的责任。<strong>婚姻越来越成为现代社会个体的一种可选择的生活方式，那么传统意义上性交易对婚姻的威胁和破坏基本上形同虚设。</strong></p>
-<p>所以，像北欧，包括法国这样的现代社会，性交易获得了法律上的认可和保障，使其成为<strong>合法职业之一种</strong>。但美国除内华达州之外其余的州仍然将公开的性交易视为非法，其主要的道德依据仍然来源于<strong>宗教的意识形态传统</strong>。</p>
-<p>换言之，<strong>性交易在现代社会里所具有的道德上的“恶”已经微不足道，更多只是基于文化传统，特别是宗教传统。</strong>像在中国大陆，传统文化并不排斥性交易，像台湾地区现在仍然保留着政府颁发执照的公娼制度；而且也没有反对性交易的宗教意识形态基础。<strong>中国大陆对性交易的限制和禁止仅仅是法律上的限制和禁止，而并非出于道德的考量。</strong></p>
-<p>从社会和历史所呈现的种种显见的现象就可以看出，<strong>中国大陆对性交易的限制和禁止并非出于道德上的顾虑。</strong>首先，权力集团无论是半个多世纪前，还是现在，<strong>性都是可以分配和摆布的资源。</strong>无论是半个多世纪前组织几万湘女到新疆，还是近年来失败官员被披露出来的普遍“妻妾成群”，以及权力集团几乎无所作为甚至默许的拐卖女性到贫困地区为妻（<em>例如，相关法律规定，对于购买被拐卖女性，实施强奸、监禁、强制生育等一系列行为，只要配合解救就不算违反犯罪</em>）。<strong>如果制定法律和执行法律的权力集团有丝毫性道德上的顾虑和考量，这些远比性交易更为恶劣和败坏的现象就不可能堂而皇之公然实施，并以此津津乐道。</strong></p>
-<p>因此，<strong>以法律形式限制和禁止性交易更多地反映是一种管制和钳制社会的方便的方式。</strong>相比于性交易在道德上微不足道的“恶”，下面屡见不鲜，早已公开披露过的行为，<strong>无论哪一项在道德上的“恶”都比自愿的性交易不知要恶劣和败坏几千倍。</strong>例如下面一些现象例子：</p>
-<p>1、<strong>以“嫖娼”为名构陷无辜民众，特别是异议人士。</strong>像去年曝出的广东区伯“被嫖娼”丑闻并没有被深究，事实以“嫖娼”名义成为构陷异议者最为常用的方式之一。</p>
-<p>2、<strong>以“抓嫖”名义创收，甚至由执法机构布置“仙人跳”陷阱。</strong>这在基层执法机构里并不是什么秘密。</p>
-<p>3、<strong>权力寻租，选择性打击不合作的性交易，庇护缴纳高昂“保护费”的性交易；甚至执法机构直接或间接控制性交易。</strong>像重庆前政法系高官文强就曾控制解放碑一带的性交易。</p>
-<p>4、<strong>借“扫黄”名义进行运动式社会清理，以攫取道德资源。</strong>像朝阳区这么高调的群众举报、警方抓捕和媒体曝光明星大V的“嫖娼”丑闻，但仍然发生淫媒人员误将酒店女房客误认为串界的“流莺”并殴打事件，可见其“扫黄”不过是攫取道德资源的一种途径，而非真正想禁绝性交易。</p>
-<p>总之，无论雷洋有没有“嫖娼”，他在道德上并不比马丁·路德·金博士更差，后者作为全球广受赞誉的美国国家英雄，<strong>雷洋至少在性道德方面，丝毫也不逊色于金博士。</strong></p>
-<p>雷洋如果“嫖娼”，当然违反法律；<strong>但他因此而“依法”死亡，其性质不仅是令人发指的“恶”，根本就是令人齿寒的“坏”。</strong></p>
-<p>相关阅读：<a title="精读党报 | 妻子都不care嫖娼 还有人要把雷洋搞成“老司机”！" href="https://chinadigitaltimes.net/chinese/2016/05/%E7%B2%BE%E8%AF%BB%E5%85%9A%E6%8A%A5-%E5%A6%BB%E5%AD%90%E9%83%BD%E4%B8%8Dcare%E5%AB%96%E5%A8%BC-%E8%BF%98%E6%9C%89%E4%BA%BA%E8%A6%81%E6%8A%8A%E9%9B%B7%E6%B4%8B%E6%90%9E%E6%88%90%E8%80%81/">精读党报 | 妻子都不care嫖娼 还有人要把雷洋搞成“老司机”！</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%AB%96%E5%A8%BC%E5%9C%A8%E9%81%93%E5%BE%B7%E4%B8%8A%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E6%81%B6%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B/?category=18271" rel="tag">网络水军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%8E%B7%E4%B8%A4%E5%8D%83%E4%B8%87%E6%AC%A1%E6%92%AD%E6%94%BE%E5%90%8E-4%E5%88%86%E5%A4%9A%E9%92%9F%E9%9B%B7%E6%B4%8B%E6%A1%88%E8%B0%83%E6%9F%A5/" target="cdt-mirror">【立此存照】获两千万次播放后 4分多钟雷洋案调查视频被掉包</a>
-</h2>
-<p><p>腾讯新闻“焦点·现场”节目于中国时间2016年5月11日发布了一则题为《雷洋涉嫖身亡事件：目击者拍摄执法现场曝光》的视频，<strong>其中有网民拍摄的雷洋被抓时求助的画面，还有腾讯记者采访现场目击者的内容，时长4分多钟</strong>。遭到替换前已有一千多条评论和超两千万的播放量。</p>
-<p>数小时后，腾讯移花接木，将原始链接下的视频内容替换成只有12秒且画面模糊、无任何讲解的现场视频，评论被删至仅剩16条，但保留了两千多万的播放量。</p>
-<p>不久后，原链接内容再次被换，目前为北京电视台报道该案的新闻片段。这则标题为《“雷洋案”足疗女露面受访》的报道中，一名“足疗女”身穿看守所的衣服在摄像机前接受采访，称雷洋前去足疗时“帮他打了飞机”。</p>
-<p>中国数字时代已将4分多钟的原始视频内容上传至<strong>YouTube备份</strong>（<a href="https://youtu.be/tXbTFvYJhUA" target="_blank">地址</a>）：</p>
-<p></p>
-<p><strong>4分钟版原始视频截图：</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%8A%A5%E9%81%93%E5%8E%9F%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE1.jpg" rel="attachment wp-att-437521"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%8A%A5%E9%81%93%E5%8E%9F%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE1.jpg?resize=500%2C283" alt="雷洋报道原视频截图1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图1.jpg?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图1.jpg?resize=768%2C435 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图1.jpg?resize=1024%2C580 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图1.jpg?w=1698 1698w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%8A%A5%E9%81%93%E5%8E%9F%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE2.jpg" rel="attachment wp-att-437520"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%8A%A5%E9%81%93%E5%8E%9F%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE2.jpg?resize=500%2C283" alt="雷洋报道原视频截图2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图2.jpg?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图2.jpg?resize=768%2C434 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图2.jpg?resize=1024%2C579 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图2.jpg?w=1692 1692w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%8A%A5%E9%81%93%E5%8E%9F%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE3.jpg" rel="attachment wp-att-437519"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%8A%A5%E9%81%93%E5%8E%9F%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE3.jpg?resize=500%2C284" alt="雷洋报道原视频截图3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图3.jpg?resize=300%2C170 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图3.jpg?resize=768%2C436 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图3.jpg?resize=1024%2C581 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋报道原视频截图3.jpg?w=1692 1692w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>原视频页面截图</strong>（<a href="http://v.qq.com/cover/p/pevi81lpi14li4l.html" target="_blank">链接</a>），<strong>此时已无法观看，简介内容也已被清空。</strong>但评论仍显示为1240条：</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%A7%86%E9%A2%91%E6%9B%BF%E6%8D%A21.jpg" rel="attachment wp-att-437517"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%A7%86%E9%A2%91%E6%9B%BF%E6%8D%A21.jpg?resize=550%2C538" alt="视频替换1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/视频替换1.jpg?resize=300%2C294 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/视频替换1.jpg?resize=768%2C752 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/视频替换1.jpg?resize=1024%2C1002 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/视频替换1.jpg?w=1682 1682w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p><strong>从原始视频热门评论截图中可以看出，多数网民对“足疗嫖娼”的说法并不买账：</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8E%9F%E8%A7%86%E9%A2%91%E8%AF%84%E8%AE%BA-1.png" rel="attachment wp-att-437518"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8E%9F%E8%A7%86%E9%A2%91%E8%AF%84%E8%AE%BA-1.png?resize=500%2C817" alt="原视频评论" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/原视频评论-1.png?resize=768%2C1254 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/原视频评论-1.png?resize=627%2C1024 627w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/原视频评论-1.png?w=1254 1254w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>原内容遭第一次替换后变成仅剩12秒且画面模糊、无任何讲解的视频，评论数被删至16条：</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%A7%86%E9%A2%91%E6%9B%BF%E6%8D%A2.jpg" rel="attachment wp-att-437516"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%A7%86%E9%A2%91%E6%9B%BF%E6%8D%A2.jpg?resize=550%2C532" alt="视频替换" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/视频替换.jpg?resize=300%2C290 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/视频替换.jpg?resize=768%2C742 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/视频替换.jpg?resize=1024%2C990 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/视频替换.jpg?w=1676 1676w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>截至发稿时，<strong>原视频已再次遭到替换</strong>，目前为转发北京电视台新闻节目。评论内容被清零，但还是保留了两千多万的播放量：</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%9B%BF%E6%8D%A23.jpg" rel="attachment wp-att-437515"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%9B%BF%E6%8D%A23.jpg?resize=550%2C524" alt="替换3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/替换3.jpg?resize=300%2C286 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/替换3.jpg?resize=768%2C732 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/替换3.jpg?resize=1024%2C975 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/替换3.jpg?w=1684 1684w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>姓党的<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%B1%8A%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9C%89%E5%85%9A%E6%80%A7%EF%BC%8C%E8%AE%A9%E5%AE%83%E5%9D%8F%E5%B0%B1%E5%9D%8F/" target="_blank">不只是执法记录仪</a>。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%8E%B7%E4%B8%A4%E5%8D%83%E4%B8%87%E6%AC%A1%E6%92%AD%E6%94%BE%E5%90%8E-4%E5%88%86%E5%A4%9A%E9%92%9F%E9%9B%B7%E6%B4%8B%E6%A1%88%E8%B0%83%E6%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%AC%E5%B8%83%EF%BC%8C%E6%8F%AD%E6%9B%B4%E5%A4%9A%E4%B8%AD%E5%9B%BD%E9%AB%98/" target="cdt-mirror">美国之音｜巴拿马文件数据库公布，揭更多中国高官</a>
-</h2>
-<p><p><em>作者: 于盟童</em></p>
-<p><span>华盛顿—</span>继揭露多名中国高干家人有离岸公司的巴拿马文件曝光后，披露这一文件的国际调查记者联盟（ICIJ）再度在网上披露更多文件，其中涉及起码15名有名有姓和中国现任高官同名同姓的中国高干，比如现任财政部长楼继伟。</p>
-<p>据香港《苹果日报》周一报道，目前疑似卷入最新“巴拿马文件”的中共高官包括财政部长楼继伟（Lou Jiwei）、工业和信息化部部长苗圩（Miao Wei）、中共政协副主席王正伟（Wang Zhengwei）、四川省长尹力（Yin Li）、安徽省长王学军（Wang Xuejun）、广西自治区主席陈武（Chen Wu）。</p>
-<p>香港媒体还说，另外还有名字较为常见、重名较多的，可能包括国务院秘书长杨晶（Yang Jing）、国务委员王勇（Wang Yong）、水利部长陈雷（Chen Lei）、卫计委主任李斌（Li Bin）、内蒙古自治区书记王君（Wang Jun）、云南省长陈豪（Chen Hao）、浙江省长李强（Li Qiang）、宁夏书记李建华（Li Jianhua）、黑龙江省长陆昊（Lu Hao）。</p>
-<p>美国东部时间5月9日下午，国际调查记者联盟（ICIJ）在网上公布了一个离岸公司信息数据库，该数据库中包括今年4月曝出的“巴拿马文件”（Panama Papers）和2013年曝出的“离岸解密”（Offshore Leaks）相关信息。</p>
-<p>今年4月，位于美国首都华盛顿的国际调查记者联盟曝光了一批总部设在巴拿马的莫萨克•冯赛卡律师事务所（Mossack Fonseca Co.）内部文件，有50多个国家的元首、高官及其家属以及商界人士被曝拥有离岸公司，引发全球震动。</p>
-<p>先前曝光的文件中涉及的中共官员及其家属包括李鹏之女李小琳、薄熙来之妻谷开来、习近平之姐夫邓家贵、贾庆林外孙女李紫丹、张高丽之女婿李圣泼、刘云山指儿媳贾丽青、曾庆红之弟曾庆淮、胡耀邦之子胡德华、毛泽东之孙女婿陈东升。</p>
-<p>国际调查记者联盟新公布的离岸文件数据库（ https://offshoreleaks.icij.org/ ）包含20万个离岸公司，其中涉及4188家中国公司和3.3万名中国人，网民可输入人名、国家名和公司名进行搜索。</p>
-<p>据香港媒体报道，在新公布的数据库中输入中共高级官员姓名拼音搜索，又发现疑似卷入的副国级、省部级高官十余人，当中可能包括财政部长楼继伟、黑龙江省长陆昊、工业和信息化部部长苗圩、安徽省长王学军等。</p>
-<p>美国之音记者发现疑似黑龙江省委书记王宪魁（Wang Xiankui）和山西省长李小鹏（Li Xiaopeng）的名字也出现在数据库中。</p>
-<p>许多中国的大型企业也榜上有名，包括中国投资有限责任公司（China Investment Corporation）、万达（Wanda Group Co.，LTD）、宝能（China Baoneng Group Limited）等。</p>
-<p>国际调查记者联盟在官网上表示离岸公司也有正当用途，因此数据库中提到的人和公司并不一定违反了法律。</p>
-<p>5月6日，“巴拿马文件”的匿名泄密者（John Doe）发表声明，称他并非受雇于任何政府或间谍组织，他的目的是为了揭示不公义，期望遏止避税手段和引伸的财富不均问题。同时他表示，历史常见因为税收和权力失衡衍生革命，那下一场革命必然是“一场电子化的革命”。</p>
-<p>“巴拿马文件”曝光以来，中国媒体只有《环球时报》发表了相关社评，将事件归结为“西方情报机构”的阴谋，并只字未提有中国领导人牵涉其中。</p>
-<p>而上海报业集团创办的新媒体“界面新闻”在4月中罕见地转载了海外网站“文学城”的文章，其中写道邓家贵的公司与习近平无关，而且习上任之前公司已经关闭，说明“习总”管好了自己的家人。然而文章发布之后几小时就被删除。</p>
-<p>据端传媒4月的报道，通过对所泄露的文件的分析显示，中国是莫萨克•冯赛卡律师事务所最大的市场，香港是其最繁忙的办公室，该律所有29%的业务来自设在香港和大陆分所。</p>
-<p>“巴拿马文件”中可能还包括其他中国官员家属和亲信有待继续挖掘。</p>
-<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/" target="_blank">巴拿马文件</a>专题</p></blockquote>
-<p><em>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</em></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%AC%E5%B8%83%EF%BC%8C%E6%8F%AD%E6%9B%B4%E5%A4%9A%E4%B8%AD%E5%9B%BD%E9%AB%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E8%B0%83%E6%9F%A5%E8%AE%B0%E8%80%85%E5%90%8C%E7%9B%9Ficij/?category=18271" rel="tag">国际调查记者同盟ICIJ</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">官二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%BE%E5%BA%86%E6%B7%AE/?category=18271" rel="tag">曾庆淮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E7%90%B3/?category=18271" rel="tag">李小琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%B0%8F%E9%B9%8F/?category=18271" rel="tag">李小鹏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E7%B4%AB%E4%B8%B9/?category=18271" rel="tag">李紫丹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A5%BC%E7%BB%A7%E4%BC%9F/?category=18271" rel="tag">楼继伟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">离岸公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E5%A7%90%E5%A4%AB/?category=18271" rel="tag">离岸姐夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%B8%89%E4%BB%A3/?category=18271" rel="tag">红三代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E4%B8%BD%E9%9D%92/?category=18271" rel="tag">贾丽青</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%AE%B6%E8%B4%B5/?category=18271" rel="tag">邓家贵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -773,7 +847,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -783,5 +857,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E8%AF%84%E8%AE%BA%E5%91%98%E8%B0%88%E9%9B%B7%E6%B4%8B%E6%A1%88/" target="cdt-mirror">【CDTV】深圳卫视评论员谈雷洋案</a>
+</h2>
+<p><p><a href="https://www.youtube.com/v/CerUrdH1J5Y?version=3">https://www.youtube.com/v/CerUrdH1J5Y?version=3</a></p>
+<p><a title="深圳卫视评论员谈雷洋案" href="http://www.youtube.com/watch?v=CerUrdH1J5Y" target="_blank">深圳卫视评论员谈雷洋案</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E8%AF%84%E8%AE%BA%E5%91%98%E8%B0%88%E9%9B%B7%E6%B4%8B%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88/" target="cdt-mirror">【真理部】令计划案</a>
+</h2>
+<p><p>对令计划案，各网站不得自采自编稿件、不可自制专题、不可篡改标题，不能集纳以往报道，只可转载新华社等中央权威部门的稿件。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88/?category=18271" rel="tag">令计划案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%9B%E5%85%88%E7%94%9F%EF%BD%9C%E6%88%B4%E5%B8%8C%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BF%A1%E6%81%AF%E4%B8%8D%E8%83%BD%E8%87%AA%E7%94%B1%E4%BC%A0%E6%92%AD%EF%BC%8C%E7%A7%91%E5%AD%A6%E5%B0%86%E4%BC%9A/" target="cdt-mirror">赛先生｜戴希：如果信息不能自由传播，科学将会怎样？</a>
 </h2>
 <p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png" rel="attachment wp-att-437766"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png?resize=550%2C305" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png?resize=300%2C166 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
@@ -43,7 +69,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6/?category=18271" rel="tag">科学研究</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B1%9F%E9%9B%AA%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%9C%9F%E7%9B%B8-%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%9D%92%E5%B9%B4%E7%BB%9D%E6%9C%9B%E7%9A%84%E5%91%BC%E5%96%8A/" target="cdt-mirror">江雪｜雷洋案：没有真相 只有一个青年绝望的呼喊</a>
 </h2>
@@ -769,48 +795,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%A4%E5%87%B0%E8%AF%84%E8%AE%BA-%E5%AF%B9%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%88%91%E6%83%B3%E7%9F%A5%E9%81%93%E9%9B%B7%E6%B4%8B%E5%A6%82%E4%BD%95%E6%AD%BB%E4%BA%A1%EF%BC%8C%E8%80%8C%E9%9D%9E/" target="cdt-mirror">凤凰评论 | 对不起，我想知道雷洋如何死亡，而非怎样嫖娼</a>
-</h2>
-<p><p>作者：胡涵</p>
-<blockquote><p>我们只需要完整的不带加工的证据，而不是当事一方根据舆情动态不断裁切出来的“通报”。</p></blockquote>
-<p>呼吁多时，雷洋案的证据终于说话了。对着镜头，足疗女向全国人民指出了雷洋的私隐，“我给他打了个飞机”。</p>
-<p>很难想象雷洋的亲属如何观看这段镜头。雷洋那位开明的新婚妻子，将如何面对这些：自己死去丈夫的裤裆，在众目睽睽之下被扒开。更难以想象若干年后，雷洋的孩子会怎样看待这位父亲。</p>
-<p>一个男青年的隐私，只是因为舆论的质疑就被在网络中扒个精光，既不尊重死者，也不体贴生者。更对不起公众。因为迄今为止，警方公布的信息，都是孜孜不倦证明雷洋曾经嫖娼、如何嫖娼。</p>
-<p>无论是前后通报还是接受官方媒体采访，警方都不断地在嫖娼二字上做文章。比如，警方查到了避孕套证明其嫖娼，警方询问了足疗女证明其嫖娼，警方在门外盯点发现其嫖娼，雷洋亲口承认自己嫖娼。</p>
-<p>不断强调嫖娼的企图有多明显？</p>
-<p>北京卫视播出的对足疗女的询问中，他们是这样提问的，“戴还是不戴眼镜？”、“根据你们俩这种简单的交流，你感觉，这个人是不是类似你们这样的场所去过，或者经常去？”</p>
-<p>这样的提问我们一点儿也不陌生：诱导式采访。就算是要证明雷洋确实这次嫖娼了，又何必非要卖淫女亲口指控雷洋是个“老司机”呢？这与雷洋案无关，更与公众质疑无关，唯一的解释是，试图用这样的信息达成某种传播效果。但让嫌疑人上电视这种事做多了，人们看清了很多东西。雷洋是否嫖娼，和我们所质疑的有关吗？</p>
-<p>现有的被公布的证据，都在不断强加给公众这样的印象，雷洋死于嫖娼。很遗憾，我一点也不想知道雷洋是否嫖娼，如何嫖娼，足疗女长相如何，我只想知道在从足疗店出来到去世前，雷洋究竟经历了什么？这段经历，才是雷洋去世的直接原因。</p>
-<p>而这部分内容呢？警方的描述是这些：咬伤警察、打坏设备、踢踹驾驶员、跳车逃跑。</p>
-<p>结合起来看，这是一段被加工的证据，镜头里只有雷洋，那几个便衣民警做了什么？他们是如何执法的？</p>
-<p>先是小区监控探头坏了，接着说是视频拍摄设备摔坏了，大家又说存储卡呢？警方又说是手机拍摄的，手机也摔坏了。鉴于此，我建议开发行人记录仪，每人随时佩戴在胸前，以帮助解决这届小区监控、执法记录仪和执法人员手机经常摔坏的问题。</p>
-<p>我们只需要完整的不带加工的证据，而不是当事一方根据舆情动态不断裁切出来的“通报”。</p>
-<p>当然事件的疑点还远远不止这些。今天一大早，有媒体探访发现，“北京昌平警方将涉雷洋案的昌平龙锦三街16家足疗店招牌全部拆除”。有附近居民介绍，这条街的足疗店大约在最近4年兴起，“十分猖獗”。对于警方此前是否有专门的整治，居民反问：“有专门整治还能出雷洋这事？”</p>
-<p>既然警方能轻而易举就能接到群众举报擒获雷洋，按这执行力，端掉16家足疗店应该是分分钟的事，何必非要等到雷洋去世，才一鼓作气全部拆除？</p>
-<p>为什么会有这些足疗店存在？为什么一直在查处却始终营业？这可能才是雷洋之死的又一个深层原因。如果真像很多网友所质疑的，这是“养鱼执法”，那警方就要对死亡担负更大的责任。</p>
-<p>我们要的是雷洋的死亡真相，是执法和足疗店乱象的真相，不是嫖娼的具体细节。该公开的不公开，不该公开的却在大肆宣扬。回避死亡而大谈嫖娼，这是逼着大家“今夜都是雷洋”。</p>
-<p><strong>『凤凰评论原创出品，版权稿件，转载请注明来源，违者必究！』</strong></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%A4%E5%87%B0%E8%AF%84%E8%AE%BA-%E5%AF%B9%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%88%91%E6%83%B3%E7%9F%A5%E9%81%93%E9%9B%B7%E6%B4%8B%E5%A6%82%E4%BD%95%E6%AD%BB%E4%BA%A1%EF%BC%8C%E8%80%8C%E9%9D%9E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95/?category=18271" rel="tag">执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA/?category=18271" rel="tag">执法记录仪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%AB%E9%BB%84/?category=18271" rel="tag">扫黄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-7/" target="cdt-mirror">【真理部】”雷洋涉嫖死亡”</a>
-</h2>
-<p><p>“雷洋涉嫖死亡”相关报道撤出首页突出位置，已刊登的消息必须确保来源规范，对于上级主管部门要求的部分帖子请做出关评或删评处理，各部门负责人注意对网站编辑公开社交账号评论内容的监督，不得发表与媒体立场严重不符的言论。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -822,7 +806,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -832,5 +816,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

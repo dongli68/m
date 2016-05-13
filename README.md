@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%9B%E5%85%88%E7%94%9F%EF%BD%9C%E6%88%B4%E5%B8%8C%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BF%A1%E6%81%AF%E4%B8%8D%E8%83%BD%E8%87%AA%E7%94%B1%E4%BC%A0%E6%92%AD%EF%BC%8C%E7%A7%91%E5%AD%A6%E5%B0%86%E4%BC%9A/" target="cdt-mirror">赛先生｜戴希：如果信息不能自由传播，科学将会怎样？</a>
+</h2>
+<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png" rel="attachment wp-att-437766"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png?resize=550%2C305" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png?resize=300%2C166 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>戴希（中国科学院物理研究所研究员）</p>
+<p>许多人在学进化论的时候，都曾有过这样的疑问：现在的猿类会不会继续进化成类似人类的高等智慧生物？说实话，这个问题也曾困扰我许久，特别是看完电影《人猿星球》以后（本人是该系列电影的粉丝）。后来我想明白其中一个重要因素，我称之为技术创新的回报率问题。举例来说，在远古时代，第一个发现如何使用火和轮子的部落，会在短时间内拥有对于其他部落的巨大优势，从而迅速崛起，占有地球表面大部分优质资源，剩下的群落或者被其同化，或者遁入穷山恶水，被迫依赖别的进化策略而生存下来。假设现在非洲某处的类人猿群落再次发现了如何使用火，会怎么样呢？很显然它们再也无法取得史前人类曾经获得过的巨大的进化优势，也不能籍此获取更多的自然资源，因为绝大多数资源已被它们远古时代的表亲，一种被称为人类的生物牢牢占有了。这些偶发性的技术进步、创新，由于不能获得足够大的生存竞争优势，既无法积累，也无法有效传播，因此不会发生某个类人猿部落因重新发明了轮子而信心爆棚，纠集起一支“猿军”，试图攻克旧金山的情况。</p>
+<p>永远不会再进化成人的类人猿或许是一个太极端的例子，但很好地说明了这样一个道理，即仅仅具有发明轮子的能力是不够的，要在竞争中获取最大的优势，就必须成为第一个发明轮子的人。弄清楚科技创新时效性的重大意义之后，就不难理解信息自由传播，对于科学发展是多么重要了。与十九世纪相比，在当代，人类的科技创新活动已经不再依赖个人的单打独斗，而是被整合成一张全球性的创新网络，每一个具有有效创新能力的研究组就是其中的一个节点。在网络中流动的，是信息流、人才流和资金流。衡量一个国家的创新能力的大小，就看它在全球创新网络中占有多大的比重。从严格意义上讲，并不存在孤立的所谓中国科学或者美国科学，只有中国或美国科学家在全球创新网络中的不同贡献，不同权重。要使得创新网络高效运行，有三个关键的要素，有效创新节点的数目、每个节点的创新能力和信息在网络中的流转速度。在节点数目基本固定、能力基本定型的情况下，创新网络的运行效率就主要由信息的流转速度决定。因此，对网络信息进行过度的审查、设限，必然会大大阻碍信息流动的速度，从而降低整个创新网络的运行效率。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6402-1.jpg" rel="attachment wp-att-437765"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6402-1.jpg?resize=585%2C271" alt="6402" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6402-1.jpg?resize=300%2C139 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6402-1.jpg?w=640 640w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><span>图片来自网络</span></p>
+<p>改革开放以来，中国的科学技术水平，特别是基础科学的水平有了极大的提升，这一方面是由于科研人员待遇的提高和研究经费的大幅增加，而另一方面也极大地获益于互联网普及所带来的专业知识传播速度的加快。甚至可以说，互联网的普及从某种程度上打破了长期困扰科技后发国家的“信息壁垒”。在国内，相信许多资深的科学家都还记得要等一年才能读到国外科技期刊的日子。那样的时代永远过去了，全球化和互联网时代的到来，使得信息流动变得前所未有的通畅，而在这一轮巨变中，中国是最重要的获益方之一，无论在经济还是科技方面都是如此。当然，在巨大的信息流中，有资金、技术、知识，也有许多阴暗的东西。做为政府部门，对此抱有警惕是可以理解的，也是其责任所在，但希望有关部门能对网络信息进行更加智能化的监管，而不只是简单屏蔽了事。</p>
+<p>事实上，目前互联网已经储存了人类在其进化过程中，对客观世界进行过的所有思考的总和，这是全人类的共同记忆，不属于任何国家、任何组织、任何个人。而我们目前的科研活动，也的确到了需要随时随地以最便利的方式获取到这些信息的地步。从这个角度看，有关部门目前对于网络信息的监管方式就过于简单粗暴了。举一个明显的例子，谷歌学术（google scholar）是目前被广泛使用的学术搜索工具，它是如此的出色，以至于大有超越SCI数据库的趋势。谷歌学术的搜索范围不局限于正式发表的论文，还包括大量的图书、文稿、笔记、科学演讲视频等各种丰富的资料。从实效性和完备性上看，至少在今后相当一段时间内，很难有别的学术搜索引擎能对其构成挑战，尤其是国内的类似服务，比如所谓的“百度学术”，就完全不在一个档次上。但遗憾的是，这么一个纯学术的搜索引擎，却被国内有关部门屏蔽了，不能直接登录使用。当然，科研人员们可以通过设置代理，也就是俗称“翻墙”以后使用，但这一来增添了许多不必要的麻烦，二来也给广大科学工作者带来潜在的法律风险。</p>
+<p>全球科技创新活动的一个重要发展趋势是无处不在的国际协作，越来越多的科学发现有赖于跨国、跨洲的国际协作，这是因为强强合作，才能最高效地推动科学发展。而对每个发展迅速的研究领域而言，世界上站在最前沿的科学家就那么几个，不太可能都来自同一个国家。大多数的国际协作研究，需要实时地共享大量的数据、图表、程序代码、文稿、音频、视频等，有时候需要来自不同国家的科学家们同时在一个文件或者目录里面工作，对文稿、源代码进行同步修改、开发。为了完成这些功能，现在国外有许多很强大的软件，在中国以外的科技界都几乎是通用的，比如dropbox、google Doc、github等等。但是很可惜，这些应用中的大多数在国内都不可用，这在很大程度上阻碍了中国科学家群体参与国际合作，并在其中争取更重要的地位。近年来，国内也出现了一些类似的应用程序，比如百度云、金山快盘等，特别是金山快盘能提供异地协作功能，一直是我们无奈中的选择。可令人震惊的是，最近金山快盘的个人网盘服务和协作功能突然被终止，我们只能再次艰难地寻找别的方式。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%91%E5%AD%98%E5%82%A8.jpg" rel="attachment wp-att-437764"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%91%E5%AD%98%E5%82%A8.jpg?resize=585%2C217" alt="云存储" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/云存储.jpg?resize=300%2C111 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/云存储.jpg?w=640 640w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><span>OneDrive、Dropbox、GoogleDrive、box等国外常用文件共享软件。图片来自cnet.com。</span></p>
+<p>除了科研过程以外，建立健康有序的科研和创新文化也同样离不开信息的自由传播。在去年的一次国际学术会议上，一位知名的印度裔美国物理学家D教授拉着我聊天，在夸奖了一通我们最近的工作之后，他不无感慨地跟我说起10年前他跟于渌先生的一次谈话。当时的胡温政府正开始大幅度增大科研投入，提高科研人员待遇，在那次谈话中他跟于渌先生预言，只要这样的投入能够维持下去，大概20年左右中国的物理学水平可以赶上日本。而现在才过去十年，至少在D教授看来，这几年来自中国的一流工作数量已经跟来自日本的持平了，作为“中国人民老朋友”的D教授自然是非常欣慰。同时，他也谈到中日之间令他困惑的差异，他发现除了那些一流的工作以外同时存在着大量来自中国的“垃圾文章”，而出自日本的“垃圾文章”则很少。对此，我的理解是，这一现象也跟信息传播的受限有关。经过十多年的快速发展，中国科技界形成了一个较为明显的分层结构，其中一部分已经完全融入国际创新网络，成为其中不可分割的成分，可以称之为“精英层”，而另一部分则由于种种原因不能有效融入国际创新网络，而形成所谓的“草根层”，两层之间犹如水和油一般界线分明。令D教授感到困惑的现象，就跟这种分层结构有关，而信息传播的受限又是形成这种分层结构的重要因素。令人感到忧虑的是，在中国科技界的两层之间已经形成了颇为不同的价值判断和取向，近年来数起轰动全国的科技界“公案”背后，如南大“王闻之争”，“透明计算之争”和最近的“磁性蛋白之争”，都隐藏着两种不同价值取向的碰撞。</p>
+<p>中国科学的未来，在于彻底融入国际创新网络，成为其不可分割的重要组成部分。以中华文明的源远流长和中国经济（人口）的体量，我们对人类现代科技文明的贡献，目前来看还是不成比例的，我们应该继续保持谦逊的态度，以积极的而不是霍元甲面对西方大力士的心态来对待科技创新活动的全球化趋势，更不应该画地为牢，躲在里面重新发明轮子，况且在许多情况下那个被重新发明的轮子并不圆，百度之于谷歌不是很好的例子吗？</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%9B%E5%85%88%E7%94%9F%EF%BD%9C%E6%88%B4%E5%B8%8C%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BF%A1%E6%81%AF%E4%B8%8D%E8%83%BD%E8%87%AA%E7%94%B1%E4%BC%A0%E6%92%AD%EF%BC%8C%E7%A7%91%E5%AD%A6%E5%B0%86%E4%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6/?category=18271" rel="tag">科学研究</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B1%9F%E9%9B%AA%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%9C%9F%E7%9B%B8-%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%9D%92%E5%B9%B4%E7%BB%9D%E6%9C%9B%E7%9A%84%E5%91%BC%E5%96%8A/" target="cdt-mirror">江雪｜雷洋案：没有真相 只有一个青年绝望的呼喊</a>
 </h2>
 <p><p><strong>作者微信公号：雪访（ID: jiangxuedulifangwen）</strong></p>
@@ -70,7 +91,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E5%BF%97%E5%88%9A/?category=18271" rel="tag">孙志刚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E7%A3%95%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">死磕律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%9A%E8%AE%AF%E6%96%B0%E9%97%BB-%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A788%E7%BA%A7%E9%83%A8%E5%88%86%E6%A0%A1%E5%8F%8B%E5%85%B3%E4%BA%8E%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A3%B0/" target="cdt-mirror">博讯新闻 | 西安交大88级部分校友关于雷洋事件的声明</a>
 </h2>
@@ -790,52 +811,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%B8%9F%E6%89%98%E9%82%A6-%E9%A3%93%E9%A3%8E%E6%9C%AA%E8%B5%B7%E4%B9%8B%E5%89%8D-%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%A1%A3%E5%86%A0%E6%A5%9A%E6%A5%9A%E5%9C%B0%E8%A3%B8%E5%A5%94/" target="cdt-mirror">鸟托邦 | 飓风未起之前 所有人都在衣冠楚楚地裸奔</a>
-</h2>
-<p><p>作者： 录人甲</p>
-<p>如果不加“人大”、“硕士”两个修饰词，光说雷洋“涉嫌嫖娼”被控制后身亡，或许一时间反应过来的人并不多。</p>
-<p>非名人亦非官员，毫无特色的名字，了无新意的嫖娼，惯例般使用的群众举报。这些元素的拼凑，也无法引起公众的高度关注。</p>
-<p>当然，你会说，以上的元素中还缺了最重要的“身亡”。人死了，而且是在警方的眼皮底下死的。羁押期间，是否由警方暴力执法，或者不负责任导致死亡，成为事件讨论的关键。</p>
-<p>但是，就在雷洋事件爆出同时，还有另一则新闻是《醉驾教师被抓30小时后死亡》。5月2日在深圳，来自湖北的中学教师徐贤飞驾车与一小车碰撞后逃逸，并与一辆垃圾清运车追尾，执勤民警将他带走调查。翌日中午，徐的家属就接到电话通知赶往医院，到达时，徐已经死了，胸前有淤青，脖子和脸都有红斑。</p>
-<p>在交警调出的视频中，徐贤飞手捂肚子，连腰都直不起来。家属怀疑交警暴力执法，交警回应由于当事人不同意无法强制体检。</p>
-<p>两个事件的性质相似，问题关键疑点也类似，信息发布的时间同在9号，徐贤飞的事件获取的物证还更多。然而后者却没像前者那样引起关注、媒体跟踪、舆论讨论。</p>
-<p>所以人死了，在如今的社会，仿佛也不是让事件受关注的必要因素。</p>
-<p>雷洋事件的引爆源于知乎，作者同是中国人民大学的校友，知乎ID为“山羊月”。</p>
-<p>他表示以其在知乎上730多天298个答案十万个赞同积累换取网友信任。他的一篇《刚为人父的人大硕士，为何一小时内离奇死亡？》激起舆论关注。文章思路清晰，先对雷洋进行简介，然后写下《关于人民大学雷洋同学意外身亡的情况说明》。其中简述事件经过，就雷洋身体状况，伤势情况，医院派出所的行为、手机记录提出四点疑问，最后再展示了雷洋身边人的现状。</p>
-<p>如今，这篇知乎文章的网页已经404。</p>
-<p>从十天前的五一开始，人们经历了海南殴打妇孺视频的冲击、百度竞价与莆田系大揭秘、广东弑医后全民大讨论、外加进入雨季，倾盆大雨与泥石流开始出没。这十天，神经一直在紧绷。</p>
-<p>一个事件仿佛总在拯救着另一个事件。</p>
-<p>我们来不及充分搞明白一件事，因为另一个大新闻总会随之而来。就在我敲字的间隙，手机上的新闻app推送了一条《南京宝马撞人案将重新鉴定》的新闻。</p>
-<p>去年六月，南京宝马事件曾引起社会普遍关注。关于肇事者的精神是否有问题，当时的鉴定结果是“急性短暂性精神障碍”，引得舆论一片哗然。</p>
-<p>可是，在雷洋事件刷屏之际，几乎无人再去关注这位宝马车司机，被重新鉴定的结果和意义。</p>
-<p>人们忙于进行雷洋事件的沙盘推演，去假设所有的可能性，去追问背后的逻辑，去质问官方的说辞。相关文章标题从事件24小时，推演至致命两小时，再到关键半小时。媒体重回事发现场，采访其他抓嫖便衣，询问事件现场当时的围观群众如今的关键见证者，细数现场的监控摄像头……</p>
-<p>5月9日晚9点多，北京昌平公安在微博首发事件的情况通报。今天凌晨1点44分，微博上对事件进行跟进通报。每一轮的通报都披露了更多的信息，同时每一轮的通报也都带动新一轮的质疑。媒体的调查，官方的通报，当事人的说辞，交叉比对后，人们感到更加疑惑。</p>
-<p>看着@平安昌平 的微博评论里，群情激奋的场景，再看着微博背景图片上的警徽，最直观的感受，是普通人对公权力的极度不信任。</p>
-<p>我们总说人与人的生命总是平等的，每个个体生命价值是一样的，无论他是不是名校出生，无论他从事什么职业，无论他是道德意义上的好人坏人，基本的生命权总是需要受到保护。</p>
-<p>然而，整个社会的运转仿佛不是这样的。</p>
-<p>雷洋的背后支撑着的是人大的校友团。作为国内一流大学校友团，这些校友深谙社会运转规律，也同时掌握着社会的资源，他们能行文顺畅，理据得当地表达观点，会运用媒介推动消息传播，或许更可以一键转发给朋友圈里的重要人物。</p>
-<p>因此有人会觉得，比起徐贤飞，雷洋是幸运的，因为作为县一级学校的教师，前者身后没有上述资源，整不出声势，他的死亡自然不受重视。</p>
-<p>但这种比较是避重就轻，没有意义的。因为从本质上，无论是雷洋还是徐贤飞，都是不幸的。因为当他们面对强势的机构时，同样难以找到一条顺畅而有效的通道去对话，平等提出诉求。</p>
-<p>去年天津爆炸事件后一个月，曾经有媒体回访爆炸地，写出了《厨娘、女职员和老板：天津爆炸后挣不开的网》。</p>
-<p>那时候，已经过了事件的公众关注期，然而爆炸的善后工作依旧在继续。在灾难之后，无论是底层厨娘还是城市白领，亦或是公司老板，他们都用着自己的方法寻求合理的赔偿。他们有的选择认命，有的请愿，还有的“拦轿式”合作，</p>
-<p>最终，无论你处于什么阶层，抵抗风险的能力都很低，与官方议价的力度都很弱。</p>
-<p>雷洋后面的校友团也好，徐贤飞的同乡家属也罢，要想利用群众的关注，唤起事件的解决，速度必须快。</p>
-<p>因为在这个复杂魔幻奇特的世界里，正有一大波新闻在赶来的路上。过了这个点，追问仿佛就没有了价值。过了这个点，或许只能用“这届人民身体不行”来划上讨论的句号。过了这个点，或许这种讨论将被无声地禁止。</p>
-<p>就当文章要结尾的时候，手机上又被推送了另一条新闻《重庆一名外科医生被砍，伤势严重住进ICU病房》。</p>
-<p>砍人、打人、摔死、治死……当我们的生活被这堆新闻包裹的时候，人们觉得总是觉得肯定有些地方出现了问题。有人觉得是媒体报道出现了问题，夸大事实，满满的负能量，让生活变得沉重。</p>
-<p>生活的希望与信心本不应该用选择性视听来满足，我不看不听不讨论负面的东西，我只看只说好的一面，于是生活就阳光灿烂了。</p>
-<p>每一个对生活的信心与希望，应该建立在社会的沟通渠道变得更加顺畅、阶级的流动变得更加频繁、权益与财产的保护变得更加有力。</p>
-<p>我们本来相信，像雷洋那样好好学习，考上好的大学，获得一份体面的工作，获得可观的收入，我们在社会上可以过着舒适有保障的生活，名校、硕士、中产能对危机有较强的抵抗力。</p>
-<p>事实却告诉我们，就算如此，你也什么都不是。颟顸的公权力面前，大家一起裸奔。 当被强制力粗暴地剥夺了一个人的人生自由后，在这个人死了的这件事上，所有的标签都随即化为乌有。</p>
-<p>这就是现实，赤裸裸地刀尖生存。穿不穿裤衩，其实都是裸奔。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%B8%9F%E6%89%98%E9%82%A6-%E9%A3%93%E9%A3%8E%E6%9C%AA%E8%B5%B7%E4%B9%8B%E5%89%8D-%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E8%A1%A3%E5%86%A0%E6%A5%9A%E6%A5%9A%E5%9C%B0%E8%A3%B8%E5%A5%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B/?category=18271" rel="tag">网络水军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -857,5 +832,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

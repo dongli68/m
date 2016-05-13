@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,105 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%AF%E4%BC%9F%E6%B1%9F%EF%BC%9A%E8%A6%81%E6%83%B3%E6%88%90%E4%B8%BA%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%AC%AC%E4%BA%8C%EF%BC%8C%E5%BE%88%E9%9A%BE/" target="cdt-mirror">斯伟江：要想成为雷洋案第二，很难</a>
+</h2>
+<p><p>看到有网友说，下一个雷洋，正在路上。这话可能没错，有人说，国人活得苟且，死得莫名。虽然有些极端，但也不是没有一点道理。但，下一个雷洋式遭遇的人，你可能未必会知道，因为未必会引起舆论关注。正如钱云会案，或许是第一起被舆论关注的拆迁引发的死亡案，现在，拆迁死几个人，被当场压死的，压死在教堂下面的，关注度都在下降，盖民众“审冤疲劳”。以前温州於其一双规死了，当时舆论也很关心，现在呢？</p>
+<p>雷洋案引发的广泛关注，可能的原因是，人大留京硕士，初为人父，结婚纪念日，嫖娼、年青力壮等，触动了中产阶级的心中软处。换一个人，或许，也就亲戚或余悲，他人亦已歌，和雷洋生前一样，只关心正能量的事情，对这种阴暗面的负能量，敬而远之。</p>
+<p>现在刑辩律师接受伸冤的案子，或者刑事案子，冤不冤是一个因素，更关键的是，冤得有没有特点？这很类似周星驰电影中，必须互相比惨。冤案或者死亡必须有特点，否则，无法引发媒体关注，更不用说舆论广泛关注。</p>
+<p>那读者一定要问，你为什么要引起舆论关注，你想运用舆论来干涉司法？问这问题的，可能是中国正能量人，也可能是假冒外国宁。为什么，因为，如果雷洋案没有舆论关注，这事很可能就公安下个结论，结案了。死的已经死了，哪怕有嫖娼恶名，而生的亲属，不但要日夜流泪思念失去的亲人，还需背负被人嘲弄的恶名。不会如香港一样，会有一个独立的法庭来调查死因。因为，没有这样的制度。最多是检察院来查查，但检察院、法院、公安，都有一个共同的上级。所以，独立，谈何容易？</p>
+<p>以前温州纪委双规期间死人，开始纪委办案人员（其中有检察官），曾建立攻守联盟，说是死于意外。还删除了录像，（刑讯人员用报纸包住录像头，但现场声音依然在），后来这个事情由于媒体揭露（内媒外媒都有），领导重视，让浙江衢州的公安局来查，公安办案，还是有一手，攻守联盟被攻破，删除的录像被恢复，事情真相就被查实，作恶的最重判十几年徒刑。如果没有异地指定办案，恐怕於其一也是死于意外了。可见，虽然没有完全独立的调查，但领导的意志下，要相对独立，也还是有空间，但关键在哪里？在领导想不想独立调查。</p>
+<p>领导想不想，首先领导得知道这个事情，领导日理万机，要想他们知道这个事情，只能通过内部汇报或者外部舆论关注，因此，舆论是和奏折一样重要的渠道。很多冤案受害人希望领导知道，但要知道，天意从来高难问。其次，领导知悉了，还需要权衡，是留中不发，还是朱笔批注，领导还要看事情够不够大，会不会影响体制内强力部门的士气，国内外恶劣影响等等，或者，领导心里也有柔软处被打动，当然，最后一点要运气极好。因为一般来说，如礼记所说，喜怒哀乐之未发谓之中，发而皆中节谓之和。领导肯定到最高境界：致中和，没有柔软处。</p>
+<p>不同的制度下，都会有雷洋这样警察执法时死的情况，检验制度高下的，是不管有没有舆论关注，制度是否能独立公正调查，运作，即便独立调查，也会有错，这点我们必须承认。因为人不是神，不可能如传说中的一样，下到阴间查案，但独立的调查，至少可以找到现场能发现的证据，手机视频被删了，能否恢复，执法时拍照的录像能否找到，街头的录像能否找到，办案人员分别询问等，其中是否有矛盾？而不是立马安排警察上电视。一句话，就是要有公信力的调查，公信力，是靠公正独立的制度，以及一个个案子来建立的。正如做人的信誉一样，不靠自己说不说，而靠别人认不认。</p>
+<p>目前的司法制度，个人觉得，仍然是以侦查为中心，做菜、端菜、吃菜的流程，依然存在。因为抓人无需法院审批，警察、检察官、纪委各自都可以抓人，证人也很少出庭。所谓以审判为中心，只是一种良好的愿望，和一些法律人舞弄的辞藻。所以，个人认为，目前依法办案，关键是靠办案机关自我歉抑，以及领导、办案人员的素质，要靠互相制衡的，除非弄出大动静来。一旦素质不高的人来操作，意外难免发生。</p>
+<p>因此，要想成为雷洋案第二，成为公共事件，那天和朋友聊天，都说，除非下一个受害者是北大学生、年青女性等等，更吸引眼球的事件，而且还要看天意，后者更关键。否则，下一个雷洋，怕是很难变成雷洋案。当然，我们这样说是很不厚道的，希望上帝和读者原谅我们。但客观而已，惨剧，不管什么制度下，都可能发生，但事后一个公正、独立的调查制度，给一个说法，却是需要大多数民众有态度：不苟且，才能不枉死。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%AF%E4%BC%9F%E6%B1%9F%EF%BC%9A%E8%A6%81%E6%83%B3%E6%88%90%E4%B8%BA%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%AC%AC%E4%BA%8C%EF%BC%8C%E5%BE%88%E9%9A%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E4%BA%91%E4%BC%9A/?category=18271" rel="tag">钱云会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%EF%BD%9C%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87652%E4%BA%BF%E6%8D%90%E6%AC%BE8%E6%88%90%E5%85%A5%E6%94%BF%E5%BA%9C%E8%B4%A6%E6%88%B7-501%E4%BA%BF%E5%8E%BB%E5%90%91%E6%9C%AA/" target="cdt-mirror">财经网｜汶川地震652亿捐款8成入政府账户 501亿去向未明</a>
+</h2>
+<p><blockquote><p><strong>核心提示</strong>：媒体盘点汶川地震652亿捐款去向，清华大学研究称“八成地震捐款可能转入政府财政账户”。综合各方数据计算，公布使用明细的约有151亿元，约占总额的23.16%。而其余501亿元的详细去向至今并未在公开资料中明确显示，甚至连捐款来源也无从查证。</p></blockquote>
+<p><em>原标题：汶川大地震的600多亿捐款怎么花了？</em></p>
+<p>又是一年5·12。距离2008年的汶川大地震，已经过去整整八年。</p>
+<p>据民政局资料显示，仅地震后半年内，全国为5·12汶川地震灾区募集款物762.14亿元，其中捐款652亿元，超过了1996年至2007年全国接收的救 灾捐赠款物的总和(累计557亿元，其中捐款420亿元)，打破了中国捐赠史上的纪录。至少600多亿的捐款流向何处？有多少用在灾区人民身上？相关单位是否有可查证的善款使用明细？每一个问题的答案都在公众的知情权范畴，也关系到灾区同胞的一粥一饭。</p>
+<p><strong>汶川地震捐款流向研究</strong></p>
+<p><strong>“八成地震捐款可能转入政府财政账户”。</strong></p>
+<p>8年前，清华大学公共管理学院教授邓国胜团队对“汶川地震善款流向”的研究报告显示，截至2008年11月，全国捐赠的资金为652.5亿元，其中政府直接受捐约占58%，约379亿元；各地红十字会、慈善会以及地方公募基金会的捐款约占31%，约199亿元；中国红十字总会、中华慈善总会和16家全国性公 募基金会只占了约11%。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a68c2fee0c769f4fd461_size16_w456_h278.jpg" rel="attachment wp-att-437696"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a68c2fee0c769f4fd461_size16_w456_h278.jpg?resize=456%2C278" alt="a68c2fee0c769f4fd461_size16_w456_h278" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a68c2fee0c769f4fd461_size16_w456_h278.jpg?resize=300%2C183 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a68c2fee0c769f4fd461_size16_w456_h278.jpg?w=456 456w" sizes="(max-width: 456px) 100vw, 456px" data-recalc-dims="1"></a></p>
+<p>根据邓国胜团队的统计，前两类善款中的“绝大多数都交由政府部门去使用”，第三类“可以自行安排使用”的部分，“到了地方红十字会或慈善会的资金往往还是收到政府财政账户，或由地方政府来实际执行项目。”</p>
+<p>2008年12月，在录制央视节目时，民政部官员表示，民政部正在建立一个公示捐款的信息平台，并专门组建了中民慈善捐助信息中心，能够将善款的流向进行公示，包括公众的捐款经过什么渠道，现在到了哪里，最后落实到什么项目上，会有一个动态性的流向显示。他表示，希望到年底就能公示一大批，到明年（2009年）能把更多的内容公示出来。</p>
+<p>但公开信息显示，并未有此平台问世，对600多亿捐款的流向和用途，公众能获取的信息仅有四川省政府、中国红十字总会、中华慈善总会等官方捐款平台，壹基金、腾讯网等非官方捐款平台披露的报告及数据。</p>
+<p>调查显示，汶川地震一年后，仅有4.7%的捐赠者非常清楚捐赠资金的流向，而66.7%的公众明确表示不太清楚捐赠资金的流向。而“不清楚”并非是因为民众不想弄清楚。</p>
+<p>当然，有关接收捐款的机构、单位、组织以及每笔欠款的流向，我们不能也不可能获知所有信息。目前可以查证的，对占一定份额的捐款进行管理、配置的至少有四川省政府、全国红十字会系统、中华慈善总会、壹基金、腾讯网等。</p>
+<p><strong>四川省政府</strong></p>
+<p><strong>接收捐赠资金共201亿</strong></p>
+<p>2010年1月，四川省财政厅、省慈善总会、省红十字会连续对汶川地震该省接收社会捐赠资金使用情况通过网络、平面媒体向社会公开、公示项目明细。查阅四川省政府网站发布的有关公告发现，捐款类别、数额、捐款单位(个人)、使用方向及说明被公开明示。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65458355d0dc154a75b5_size52_w500_h331.jpg" rel="attachment wp-att-437695"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65458355d0dc154a75b5_size52_w500_h331.jpg?resize=500%2C331" alt="65458355d0dc154a75b5_size52_w500_h331" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65458355d0dc154a75b5_size52_w500_h331.jpg?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65458355d0dc154a75b5_size52_w500_h331.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>其中，四川省财政厅共接收汶川地震抗震救灾捐赠资金40.93亿元，已使用40.07亿元；四川省红十字会共接收汶川地震抗震救灾捐赠资金13.90亿元（含利息），已安排使用13.84亿元，待安排0.06亿元；四川省慈善总会共接收汶川地震抗震救灾捐赠资金41.28亿元，已安排使用41.13亿元，待安排0.15亿元。</p>
+<p>另据四川当地媒体报道，2008年香港特别行政区政府与四川省政府签署《就香港特别行政区支援四川地震灾后恢复重建合作的安排》，计划分阶段援助100亿港元，其中仅仅通过省财政厅的捐款就达9.1亿元。</p>
+<p>四川省政府2010年2月的一则公告则显示，截至2009年9月30日，全省共接收捐赠资金201.95亿元，其中：中央各部门、全国性基金会等拨入55.64亿元；四川省本省募集96.96亿元；外省拨入49.35亿元。对于支出的具体流向，公告也给予了说明。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c8eb9f14f8ac8824d4d6_size41_w500_h411.jpg" rel="attachment wp-att-437694"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c8eb9f14f8ac8824d4d6_size41_w500_h411.jpg?resize=500%2C411" alt="c8eb9f14f8ac8824d4d6_size41_w500_h411" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c8eb9f14f8ac8824d4d6_size41_w500_h411.jpg?resize=300%2C247 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/c8eb9f14f8ac8824d4d6_size41_w500_h411.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>但是，据以上官方数据计算，四川省官方共公布的95.83亿元的捐款流向，仅占总捐款额201亿元一半，公开资料上查不到2011年2月以后四川官方有关捐款流向的公告。媒体对其最新的报道则是4年前，时任副省长魏宏的回应：捐赠资金按渠道集中在四川省慈善总会、四川红十字会和四川省财政厅。对捐赠资金有明 确使用捐赠范围和方向的，用到捐赠人希望捐赠的项目和地方去。对没有明确捐赠资金使用方向的，主要用于事关老百姓的生产生活方面的问题，比如学校、医院机构。</p>
+<p>此外，据四川省慈善总会一位负责人介绍，该总会接收的41亿元的汶川地震抗震救灾捐赠资金中，按照 “5·12”抗震救灾指挥部的要求，在灾后重建中，有5亿左右明确划归财政统筹安排，余下的30多亿是按照捐赠方的意愿，按照项目管理制的模式运行。但在 全国范围内的捐款中有多少划归财政确实不清楚。</p>
+<p><strong>全国红十字系统</strong></p>
+<p><strong>接收资金160亿物资价值39亿</strong></p>
+<p>据中国红十字总会2011年5月公布的数据，截至2011年2月28日，全国红十字系统共接收汶川地震救灾款物价值人民币199亿元。中国红十字会官方未发布有关汶川地震捐款流向的公告，可查证的公开资料仅有2011年5月发布的审计报告。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/60eaabdcb3355614c848_size37_w500_h311.jpg" rel="attachment wp-att-437693"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/60eaabdcb3355614c848_size37_w500_h311.jpg?resize=500%2C311" alt="60eaabdcb3355614c848_size37_w500_h311" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/60eaabdcb3355614c848_size37_w500_h311.jpg?resize=300%2C187 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/60eaabdcb3355614c848_size37_w500_h311.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>公告显示，截至2011年2月28日，中国红十字会总会累计收到国内外捐赠款物合计人民币42.97亿元；累计拨出捐赠款物合计人民币37.74亿元；待拨付合计人民币5.23亿元。</p>
+<p>由于上述公告仅寥寥四段，并没有列出捐款支出明细。有不少网友表示希望能细化账目：不只是公布一些粗线条的收支数字，而是每一笔捐款的用途、去向也应该“晒一晒”。还有网友表示希望能公布捐赠物资中的帐篷采购价、重建的学校中标单位、中标价等信息。而红十字系统接收的199亿资金中，也仅有中国红十字会总会接收的42.97亿去向有所交待。</p>
+<p>5年前，红十字会等慈善机构因“郭美美事件”深陷信任危机，汶川地震的过百亿捐赠资金去向由此成了网友热烈讨论的问题。中国红十字总会秘书长王汝鹏7月初表示，将争取月底前建立捐款信息发布平台。</p>
+<p>2011年7月31日，中国红十字总会对外承诺的捐赠信息发布平台（fabu.redcross.org.cn）终于上线试运行，发布了2010年4月发生的青海 玉树地震捐赠收支和资助使用的有关情况，捐赠者输入名字还可查询2010年1月11日以来的捐赠信息，但2010年1月11日以前的捐赠信息不能查询。</p>
+<p>据报道，在“捐赠查询”中输入李连杰的名字，和李连杰相关的3项信息分别是：“李连杰壹基金玉树赈灾”在2010年4月22日捐赠了230元；“李连杰”4月23日捐赠300元；以及“李连杰壹基金计划”在8月30日捐赠400元。但对照李连杰壹基金计划的工作小结，玉树地震发生后，截至2010年4月22日，壹基金在青海玉树震区捐赠物资的金额超过了200万。与在平台查询到的数字有很大出入。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5bf92d761dd25e234d00_size27_w500_h310.jpg" rel="attachment wp-att-437692"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5bf92d761dd25e234d00_size27_w500_h310.jpg?resize=500%2C310" alt="5bf92d761dd25e234d00_size27_w500_h310" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5bf92d761dd25e234d00_size27_w500_h310.jpg?resize=300%2C186 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5bf92d761dd25e234d00_size27_w500_h310.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>该平台公布2010年1月11日以来社会向中国红十字会总会捐赠的信息、玉树地震捐款和使用情况、2010年财务和审计报告、汶川地震捐款财务和审计报告等信息。但是，捐款５０万元以上的单位和10万元以上的个人，才可以查询到捐款信息和相对应的援建项目及善款的具体使用情况。全国人大代表、湖北省统计局副局长叶青当时表示，该平台公布的数据还比较笼统，审计报告过于简单难以让人信服。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2525a4683caf4a346ee5_size26_w499_h324.jpg" rel="attachment wp-att-437691"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2525a4683caf4a346ee5_size26_w499_h324.jpg?resize=499%2C324" alt="2525a4683caf4a346ee5_size26_w499_h324" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2525a4683caf4a346ee5_size26_w499_h324.jpg?resize=300%2C195 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2525a4683caf4a346ee5_size26_w499_h324.jpg?w=499 499w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></a></p>
+<p>平台公布的中审亚太会计师事务所作的汶川地震捐赠款物财务收支情况专项审计报告仅5页，第1页封面，第2到第4页交代了“管理层的责任”、“注册会计师的责任”及审计意见之后，仅第5页为正文，列了5项收支情况。</p>
+<p>距该平台上线近4年后的现在，再次登录红十字总会的捐赠信息发布平台，发现该平台已经打不开。取而代之的是“捐赠信息查询平台”。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e39680ae4f6c7eedbc3_size19_w499_h332.jpg" rel="attachment wp-att-437690"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e39680ae4f6c7eedbc3_size19_w499_h332.jpg?resize=499%2C332" alt="1e39680ae4f6c7eedbc3_size19_w499_h332" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e39680ae4f6c7eedbc3_size19_w499_h332.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e39680ae4f6c7eedbc3_size19_w499_h332.jpg?w=499 499w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></a></p>
+<p><strong>中华慈善总会</strong></p>
+<p><strong>接受抗震救灾捐赠款物共计10.835亿多元</strong></p>
+<p>中华慈善总会于2009年5月对外公布，截止2009年4月30日，该会接收抗震救灾捐赠款物共计10.835亿元，其中资金9.272亿元，物资折款1.563亿元。所接收的9.272亿元捐款中，已拨付和分配的资金8.59亿多元；在总会立项待执行的资金5826万元；待安排资金约990万多元。</p>
+<p>公示还列出了捐赠资金支出明细，其中包括救灾物资购置费18302.58万元，直接拨付四川省定向捐款47319.5454万元，拨付甘肃省7300万元，拨付陕西省6800万元，拨付重庆市慈善总会2000万元，拨付云南省慈善总会2000万元，支持全国政协举办的“灾区学校图书馆捐赠图书活动”653.063万元等。</p>
+<p>此外，救灾工作经费支出和预留920万元，主要包括赴灾区交通费、邮寄费、灾区前线工作费、通信费、宣传费、志愿者误餐费、办公费等必要的开支。</p>
+<p>在资金分配问题上，中华慈善总会表示将严格按照中央的部署，本着“救灾所需”和“尊重捐赠者意愿”的原则进行分配。在抗震救灾捐款总额中，约4.8亿元资金是定向捐赠，占资金总额的52％。约20％用于紧急抢救阶段购置救灾物资运送灾区，其余的多用于灾区的恢复重建。恢复重建资金主要通过省级慈善机构，根据灾区需要和当地政府的部署，合理分配，逐一立项，签署协议，按照项目管理的办法实施和监督。</p>
+<p><strong>壹基金</strong></p>
+<p><strong>筹得汶川地震捐款金额8235.66万</strong></p>
+<p>除官方捐款平台外，一些非官方捐款平台也是汶川地震捐款资金的募集和管理主体。李连杰的壹基金就在2008年抗震救灾活动中名声大噪。</p>
+<p>地震发生当晚19:00，壹基金联手阿里巴巴、淘宝、支付宝、天涯、搜狐、网易、雅虎等网站，开展大型网络救助活动，号召网友通过网络向灾区快速捐款，“早一点到达多一份希望”。</p>
+<p>震后一个多月里，壹基金通过网络及国内个人捐款筹得4951.23万元，另外海外个人捐款也达到了400万元，总计收到国内、国际的个人捐款为 5351.23万元，占同期捐款总数的66.12%,累计捐款人次超过了73.6万人。而同期的企业捐款只有2741.92万元，只占同期捐款总数的33.88%。</p>
+<p>至当年7月，壹基金启动地震专项募款活动后，总共筹措到了超过8000万元的款项。对于为什么目前才拨出了500万元进行救灾的问题，壹基金的回答是：救灾和重建是一个长期的过程，壹基金不可能在开始的阶段就把8000多万元都投入进去。而且具体的重建等需要投入大量善款的项目，壹基金都不会单独进行，而会与当地政府、红十字会共同合作，从他们的大量重建项目中选择符合壹基金理念的项目。</p>
+<p>壹基金官网上可以查询到壹基金的财务报告，其中包括自5月12日以来，筹得汶川地震捐款金额、汶川地震灾后重建计划总体方向及预算、壹基金近期救助支出明细表。报告显示，壹基金自地震后募捐到8200多万元，近期救助汶川地震支出4000万，计算得知捐汶川地震款剩余4200多万。但是，汶川地震灾后重建预算为5500万元，这就意味着，如案预算支出，用于汶川重建的资金会超过捐款总额。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/157e5ef3b1abdf084e11_size24_w500_h440.jpg" rel="attachment wp-att-437689"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/157e5ef3b1abdf084e11_size24_w500_h440.jpg?resize=500%2C440" alt="157e5ef3b1abdf084e11_size24_w500_h440" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/157e5ef3b1abdf084e11_size24_w500_h440.jpg?resize=300%2C264 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/157e5ef3b1abdf084e11_size24_w500_h440.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>但是2008年地震时，壹基金还未获得独立公募基金的资格，这也意味着它只不过是中国红十字总会下属的一个筹款计划，并没有法人资格。由于并无独立的账户和公章，只能挂靠在红十字会这样的官方机构下才能获得全国性募捐的资格。因此它所筹得的资金均进入红十字会下属的银行账户，壹基金无权自行使用，每一笔财务支出都需经过红十字会同意。</p>
+<p>2013年5月，受中国红十字会风波影响，有媒体报道称壹基金挪用汶川地震善款2000万元用于创办现在的北京师范大学中国公益研究院。但壹基金拿出多方证据，跟公众说明这部分钱是企业的定向捐赠，很短的时间内事情就平息。</p>
+<p><strong>企业</strong></p>
+<p><strong>淘宝网、腾讯网参与募捐</strong></p>
+<p>在汶川地震发生后的第二天：13日凌晨2时，淘宝网开设了募捐快速通道。短短一分钟内就有1900位网友捐款，10000元善款即时到账。三四天的时间，3个网络平台捐款突破1000万元，每一笔均是网友的个人自发捐款。截至5月16日，淘宝网的募捐通道已经汇集了淘友们的爱心捐款近2000万。</p>
+<p>但是关于这笔钱的去向，并无公开消息。</p>
+<p>同时，腾讯公益慈善基金会、腾讯网联合中国红十字会李连杰壹基金计划发起紧急募捐。腾讯网还向中国企业、各界知名人士、热心公众发出倡议，号召大家关注地震灾情，及时捐助，推进全民救灾抗灾，帮助灾区恢复生产、重建家园。腾讯官网数据显示，截止2008年6越日，海内外社会各界通过腾讯网向灾区捐赠款物共计2000万元。</p>
+<p>据中国红十字总会开具的一份特殊的赈灾捐款证明——《确认函》显示，从5月15日至20日12时，腾讯财付通已分六次向中国红十字总会赈灾账户转入腾讯网友募捐善款。5月20日12时以后的<br>
+网友捐款也已陆续转入红十字会账户，目前实际汇款已经超过2000万元，后续红十字总会将再开具相应的捐款证明，数据将陆续公示。</p>
+<p>腾讯还公示了一份《腾讯和员工直接捐助款用途明细表》，资料中确认此前腾讯和全体员工先后四次累计2000万的直接捐款，也分别打入了中国红十字总会、中国儿童基金会、民政部等相关接收单位。腾讯表示，腾讯总额4000万元的直接捐款、筹款已经全部汇出并落实到位。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/cebde7c9de263703104c_size55_w499_h557.jpg" rel="attachment wp-att-437688"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/cebde7c9de263703104c_size55_w499_h557.jpg?resize=499%2C557" alt="cebde7c9de263703104c_size55_w499_h557" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/cebde7c9de263703104c_size55_w499_h557.jpg?resize=269%2C300 269w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/cebde7c9de263703104c_size55_w499_h557.jpg?w=499 499w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></a></p>
+<p><strong>综合以上数据计算得知，汶川地震652亿捐款中，公布使用明细的约有151亿元，约占总额的23.16%。而其余501亿元的详细去向至今并未在公开资料中明确显示，甚至连捐款来源也无从查证。</strong></p>
+<p>汶川地震激发了国人的爱心与捐赠热潮，但由于少数具有垄断地位的募捐机构缺乏能力管好、用好庞大的资金和物资，结果在救灾过程中出现了不少管理上的纰漏，募捐机构所募集的钱越多，公众的担心越大、社会的质疑越多，募捐机构面临的资金使用风险和社会压力也越高。</p>
+<p>面对不知所踪的巨额捐款，公众需要的不过是一张能够看得见、摸得着、对得上号的捐款去向明细表。只有知道钱去了它该去的地方，才能放心地伸出捐助之手。</p>
+<p>来源：财经网综合《公益时报》、京华时报、南方周末、新华每日电讯、青年报、新华网、财政部网站</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B4%A2%E7%BB%8F%E7%BD%91%EF%BD%9C%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87652%E4%BA%BF%E6%8D%90%E6%AC%BE8%E6%88%90%E5%85%A5%E6%94%BF%E5%BA%9C%E8%B4%A6%E6%88%B7-501%E4%BA%BF%E5%8E%BB%E5%90%91%E6%9C%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BA%A2%E4%BC%9A/?category=18271" rel="tag">中国红会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%85%88%E5%96%84%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">慈善机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE/?category=18271" rel="tag">抗震救灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8D%90%E4%BD%A0%E5%A6%B9/?category=18271" rel="tag">捐你妹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">汶川地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%81%E5%AD%97/?category=18271" rel="tag">红十字</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%AB%98%E6%98%8E%E7%94%B5%E5%8F%B0-%E8%BA%BA%E5%9C%A8%E6%97%B6%E9%97%B4%E7%9A%84%E6%B2%B3%E6%B5%81%E4%B8%8A%E6%80%80%E5%BF%B5%E4%BB%96%E4%BB%AC/" target="cdt-mirror">高明电台 | 躺在时间的河流上怀念他们</a>
 </h2>
 <p><p>八年，一刹。</p>
@@ -701,91 +797,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%B1%8A%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9C%89%E5%85%9A%E6%80%A7%EF%BC%8C%E8%AE%A9%E5%AE%83%E5%9D%8F%E5%B0%B1%E5%9D%8F/" target="cdt-mirror">【网络民议】这届执法记录仪有党性，让它坏就坏</a>
-</h2>
-<p><p>昌平公安在描述雷洋事件过程的<a href="http://weibo.com/5217409150/DuWTADiTs" target="_blank">公告</a>里，称其“<strong>将民警所持视频拍摄设备打落摔坏</strong>”：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%80%9A%E5%91%8A.jpg" rel="attachment wp-att-437488"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%80%9A%E5%91%8A.jpg?resize=482%2C143" alt="通告" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/通告.jpg?resize=300%2C89 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/通告.jpg?w=482 482w" sizes="(max-width: 482px) 100vw, 482px" data-recalc-dims="1"></a></p>
-<p>然而有网民翻出了2015年昌平分局购置警用设备的中标结果内容，其中包括了<strong>500台</strong>由北京智敏科技发展有限公司生产的<strong>“裸机可承受3.3米任意面跌落”的“执法记录仪”</strong>：</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8C%97%E4%BA%AC%E6%99%BA%E6%95%8F%E7%A7%91%E6%8A%80%E4%B8%AD%E6%A0%87.png" rel="attachment wp-att-437489"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8C%97%E4%BA%AC%E6%99%BA%E6%95%8F%E7%A7%91%E6%8A%80%E4%B8%AD%E6%A0%87.png?resize=500%2C786" alt="北京智敏科技中标" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/北京智敏科技中标.png?resize=191%2C300 191w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/北京智敏科技中标.png?resize=768%2C1207 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/北京智敏科技中标.png?resize=652%2C1024 652w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/北京智敏科技中标.png?w=1460 1460w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>从智敏科技官网<a href="http://www.zhiminkeji.com/cases/cases2.html" target="_blank">发布</a>的记录仪佩戴方式来看，<strong>要将这种执法记录仪“打落”似乎是非常困难的：</strong></p>
-<blockquote><p>现场执法记录仪采用了360度可旋转的<strong>强咬合力全钢制背夹</strong>，人性化的挂式配件。可以根据现场拍摄需要进行多个角度旋转，可任意调节执法仪的摄像角度，不易下垂，<strong>挂式背夹配有专用配件与执法仪双重固定，一般佩戴于肩前；在执法过程中，佩戴牢固耐用，无论是行走或跑动均不会跌落。</strong></p></blockquote>
-<p>下图为智敏科技为北京市门头沟工商局进行执法记录仪培训的现场照片，摄于2014年，当时使用了型号为DSJ-Z8的旧款记录仪：</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20141205101929_7714.jpg" rel="attachment wp-att-437490"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20141205101929_7714.jpg?resize=550%2C366" alt="20141205101929_7714" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20141205101929_7714.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20141205101929_7714.jpg?resize=768%2C511 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20141205101929_7714.jpg?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>图片来源：<a href="http://www.zhiminkeji.com/news/newsde304.html" target="_blank">北京智敏科技官网</a></span></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@四喜蜀黍：这么点空间能发力，能找到足够摔坏的接触面，绕过车里一堆人，然后成功摔坏，这是投掷专精LV99吗？为什么不说踩碎了，或者掉进洗脚水里面呢？攻击副驾驶是吧？行车记录仪有没有晃动？有没有不正常的行驶画面出现？</p>
-<p>@伊春环宇:枪杀许纯合时视频记录仪没电了，现场围观群众的手机恰巧都坏了；击毙雷洋时视频记录仪摔坏了，附近的摄像头恰巧都不好使了。昌平，你们说的这些，你们自己信吗？</p>
-<blockquote><p>@sdvina: 新闻对照着看，才有意思@青光楚辞<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/59f80bd4jw1f3r8wf28udj20k00zkwm8.jpg" rel="attachment wp-att-437494"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/59f80bd4jw1f3r8wf28udj20k00zkwm8.jpg?resize=375%2C666" alt="59f80bd4jw1f3r8wf28udj20k00zkwm8" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/59f80bd4jw1f3r8wf28udj20k00zkwm8.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/59f80bd4jw1f3r8wf28udj20k00zkwm8.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p></blockquote>
-<p>@木匠周:呵呵。可以看看咬人的视频啊</p>
-<p><a href="http://weibo.com/yimaobuba?refer_flag=1001030103_" target="_blank">@一毛不拔大师 </a>：你们这些年轻人啊，总想搞个大新闻。执法记录仪摔坏了就集体嗷嗷，说什么存储不该坏。没看人家都准备好钩了吗，记录仪是在第一次扭打时坏的，过几天努力读出了记录卡的内容，看到的是警方除个别人推搡外都在文明执法；而第二次采取强制措施到心脏病死亡期间记录仪已经坏了不能给看也可以理解嘛<img title="[爱你]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/lovea_org.gif" alt="[爱你]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1856024335" target="_blank">@哈亚那887</a>：嘛，视频剪辑需要时间嘛，正好记录仪打坏了也有理由剪了，完美<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><strong>@吴语的鱼：群众:“受害人从一个正规的足疗店里出来，你们是怎么断定或怀疑他刚才进行了嫖娼活动的？” 警方:“什么正规足疗店，那里根本就没足疗，去那里的就是进行嫖娼的”。 “哦，原来你们早就知道那里在从事卖淫嫖娼活动，那咋早不查处呢？” 警方:“……这届人民不行，问题太多。”</strong></p>
-<p>@西门不暗：1.昌平警方的通稿，把警方描述成了受害者，然而，施害的人却死了。2.抓嫖娼要抓现场吧，出了按摩店还能把人扑倒，依据的是哪条法律？3.执法摄像仪坏得真是时候，公务员体系采购价格超高不是没道理，关键时候通人性。4.北京嫖娼200元，这是形象广告，这么接地气的首都，一平米的房子可以嫖300次。</p>
-<p>@肉团团和小胖胖：执法记录仪，我15年替美国某市警局采购过一批300台警用执法仪，交货单价110美金（715人民币），规格配置和竞标文件里一模一样。 这家伙居然采购价格2180人民币， 100万采购额，差价赚73万！ @十年砍柴 这真的是竞标来的么？ 如果需要我可以提供详细的采购资料，产品规格资料。</p>
-<p>@valar_morghulis-KingLy：建议严查摄像头、执法记录仪采购和生产方，要背锅就得背到底，这鸟质量怎么能帮助建设伟大的社会主义呢→_→</p>
-<p>@哈哈哦哈哈：我国的监控，记录设备都是很高端，很人性化的，让它坏就坏，该恢复的时候又能恢复</p>
-<p>@色色猴:内，存，卡，也，摔，坏，了？</p>
-<p>@养猪专业户王福贵：也就是说，执行任务的人只有一个有执法记录仪，而且恰好这台记录仪摔坏了，还必须连储存卡一起摔坏。这个故事讲起来有点累。</p>
-<p>@伊然狂想：数码设备跌落还能把数据跌没了，连带着别人手机的数据都跌么的了……</p>
-<p>@TIDY小熊他爸：内存卡再怎么损坏，数据也能恢复。除非是烧了、完全砸碎……</p>
-<p>@深肖朕躬：3.3米任意跌落摔不坏，人家说的是产品质量。到该坏的时候一准坏，人家说的是产品的党性。质量要讲，党性也要讲，并且，到任何时候，质量也要服从党性。这也是我们天天讲的党要领导一切。</p>
-<p>@innesfry：记录仪姓党，请你检阅</p>
-<p>@让卡渣飞啊飞：已经有自称自己也是警察的洗地党说了，执法记录仪记录的内容是国家机密，岂能对民众公开</p>
-<p><strong>@大唐帝國系列 ： 这一届摄像头行，有党性知道维护执法者，有思想的摄影头，执法记录仪有党性，知道即使摔坏，维护了执法者的光明正确伟大</strong></p>
-<p><strong>@Super_Vik：托自带党性的记录仪和监控的福，现在每隔几天就有全民破案活动，比我小时候喜欢看的三分钟推理强多了</strong></p>
-<p>@猫咪又怀孕了：这届记录仪立了大功，将进常委。</p>
-<p>@再减重5公斤：几个执法记录仪同时坏，论统战工作的重要性</p>
-<p>@北极九段_柳承哲：任何想把问题的关键从”咋死的”变成”嫖没嫖”的人都是在耍流氓 。审讯被抓起来的其他涉案卖淫嫖娼的人，就会知道雷洋是不是嫖娼？公开视频录像就知道他是怎么死的？不要混淆视听，嫖娼不是重点，人怎么死的才是重点！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%BF%99%E5%B1%8A%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA%E6%9C%89%E5%85%9A%E6%80%A7%EF%BC%8C%E8%AE%A9%E5%AE%83%E5%9D%8F%E5%B0%B1%E5%9D%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA/?category=18271" rel="tag">执法记录仪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%85%AD%E5%9B%9B%E5%90%8E%E7%BE%8E%E4%B8%AD%E5%A4%96%E4%BA%A4%E5%AE%8F%E5%9B%BE%E4%B8%AD%E4%B8%80%E4%B8%AA%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF/" target="cdt-mirror">美国之音｜六四后美中外交宏图中一个年轻政治犯</a>
-</h2>
-<p><p>编者按：曹雅学女士是英文网站chinachange.org的创办人兼编辑。这篇文章不代表美国之音的观点。转载者请注明来自美国之音或者VOA。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/jinian_2.jpg?resize=550%2C309" alt="jinian_2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/jinian_2.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/jinian_2.jpg?w=700 700w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>吴建民在华盛顿纪念六四26周年活动中讲话（2015年6月4日）</p>
-<p>中国前外交部长钱其琛2003年退休后写了一本回忆录，名为《外交十记》，在国家媒体、党宣的力荐下成为畅销书。其中一章叙述“六四屠杀”后的外交。“天安门事件”还是“六四屠杀”都是不能说出口的词，于是钱其琛称之为“上世界80年代末到90年代初的那段时间。”此书的英文版2006年由Harper Collins 出版，由哈佛教授傅高义帮忙“润色”。</p>
-<p>根据钱其琛的叙述，1989年6月21日，天安门屠杀后仅仅两个多星期，老布什总统便秘密致函邓小平，要求派特使密访中国，进行“坦率的谈话”。7月1日，布什总统的国家安全顾问斯考克罗夫特（Brent Scowcroft）与副国务卿伊格尔伯格（Lawrence Eagleburger）秘密访华。为了瞒过美国媒体以及美国政府其它部门的注意，他们所乘坐的C-141型美军运输机做了外部伪装，涂掉了标记。他们自带两名报务人员，以避免使用美国驻华大使馆的通讯设备。他们在中国的活动也没有通知美国使馆。在北京期间，斯考克罗夫特乘坐的汽车、下榻的宾馆均不悬挂国旗，所有摄影资料一律封存。</p>
-<p>六四屠杀后，美国撤走了大使，美国众议院通过了制裁中国的措施。根据钱其琛的说法，布什派斯考克罗夫特秘密访问中国的目的，是向中国领导人“解释布什总统所面临的困境和他努力维护、恢复和加强中美关系的立场。”布什对天安门事件给中美关系引起的风波“深感不安”，派特使秘密访华“没有其他含义，就是要同中国领导人取得联系，维护中美关系。”</p>
-<p>7月28日，布什总统又给邓小平写信。信中说：“请理解这是一封亲笔信，它来自一个希望看到我们共同前进的人。……如果我们能够使我们的友谊重新回到正轨，那么我们都能为世界的和平和我们两国人民的幸福做更多的事。”</p>
-<p>1989年11月6日，布什总统再次给邓小平写信，表示12月初将在马耳他举行的美苏会晤不会影响美中关系。他提出在美苏会晤后，美国希望再次派特使访问中国，“探讨如何使中美关系正常化。”</p>
-<p>这封信发出后不久，基辛格访问中国（布什与基辛格十分密切），面见邓小平。后者请他向布什总统转达解决中美纠葛（换言之，六四以后的制裁和不快）的一揽子建议，这包括在一定前提下允许在美国驻中国大使馆避难的方励之夫妇离开中国；美国宣布解除对中国的制裁；近期内落实几项大的中国经济合作项目；美国邀请江泽民访美。</p>
-<p>1989年12月9日，斯考克罗夫特再访北京，这次虽然是公开的，但在他到达北京前没有通知媒体。中国提出的这些得寸进尺的要求，显然令布什总统十分为难。斯考克罗夫特希望钱其琛理解美国政治的复杂性和布什总统的难处。钱其琛说，斯考克罗夫特对他说，6月宣布的对中国制裁措施，是为了照顾美国人民感情上的需要而采取的行动。双方同意尽快“结束纠葛，开辟未来。”斯考克罗夫特在为他举行的国宴上向中华人民共和国祝词说，“我们来到这里是为了减少我们关系中的一些打扰物引起的负面影响。”</p>
-<p>据说这张与东道主举杯祝酒的照片在美国媒体与公众中引起强烈反响，但是我在网上却怎么也找不到那张照片。</p>
-<p>1989年年底，以齐奥塞斯库被枪杀为标志的东欧剧变开始，美国放缓了恢复美中关系的步伐。1991年海湾战争爆发后，布什派贝克国务卿于11月15日访问中国，希望此行“成为两国关系的转折点”。经过两天的谈判，美国承诺支持中国加入世界贸易组织，同意取消中止向中国出口卫星等三项制裁措施。中国则承诺加大保护知识产权的力度。</p>
-<p>最后来到了人权问题上，篮子中的一项。钱其琛写道：</p>
-<p>美方拿出了一份长长的所谓被拘押的“不同政见者”的名单，其中，以讹传讹，错误百出，有的只有拼音，没有汉字，常常不知所指。名单中有“吴建民”其人，我向贝克说，我们的新闻司司长叫吴建民，正在现场。此时，吴建民答道：“在。”贝克见状，反应还算机敏，马上说：“噢，你放出来了。”引起哄堂大笑。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/E3CC5299-3AB5-4D5B-91CB-E1BC77A5899B_w268.jpg?resize=268%2C373" alt="E3CC5299-3AB5-4D5B-91CB-E1BC77A5899B_w268" data-recalc-dims="1"></p>
-<p>名单上的吴建民</p>
-<p>贝克带去的那份名单上的吴建民的确是包括香港支联会在内的各方希望营救的一个六四学生领袖。</p>
-<p>1989年时吴建民是位于南京的江苏商业管理学院87级学生。在游行示威中他被推举成学生领导人。5月底北京学生绝食已进行多日，戒严令已下达，政府没有任何对话诚意，抗议学生与政府僵持着。在南京，吴建民发起了南京高自联徒步北上声援北京的活动。他去各个大学讲演、动员。一位当年的参与者这样回忆吴建民在南京大学演讲的情景，说他是个非常有感染力、乐观明朗的男生。他的词语间回荡着某种爱慕。“同学们，我们北上，就是要沿着民主的道路向北京出发，向天安门出发。让我们一路联合沿途的各大城市，各大高校的同学们一起，走到天安门广场。我们要向中央喊话，向李鹏喊话，我们要合法注册‘全高联’，我们不是动乱者，我们是真正的爱国者。”</p>
-<p>6月4号戒严部队在北京天安门强行清场、并且开枪打死人的消息传来的时候，吴建民正在和千余名南京大学生行走在安徽滁州通往北京的路上。当日他们被江苏省和安徽省两省政府率武警强行拦劫回南京。</p>
-<p>在接下来不到几个月里，虽然政治环境极度恶劣，人人都要接受问话和清理，吴建民仍然带着很多不肯放弃的学生继续办刊物，建组织。</p>
-<p>1990年他被南京市国家安全局逮捕，并当作重要犯人关押在南京军区看守所，尽管他和军队毫无关系。1991年7月，南京市中院以吴建民组织领导反革命集团罪首犯的罪名将他判处10年徒刑。</p>
-<p>吴建民不知道他出现在钱其琛的书中。前不久，他收到了朋友的一封信，敦促他去看钱其琛的书。“里面说的那个吴建民是你！”</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8CE1E00D-AE34-42AB-B676-2099B5681C22_w640_r1_s.jpg?resize=549%2C309" alt="8CE1E00D-AE34-42AB-B676-2099B5681C22_w640_r1_s" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8CE1E00D-AE34-42AB-B676-2099B5681C22_w640_r1_s.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8CE1E00D-AE34-42AB-B676-2099B5681C22_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>1991年11月17日，中国外交部长钱其琛和美国国务卿因为他的名字而哄笑的时候，吴建民刚开始在南京龙潭监狱服刑。之前的六个月里，他被关在军队的牢房里，他每天与人的“接触”就是狱警打开牢房上的一个小窗口递饭进来的那几秒。为了防止自己被逼成疯子，他每天用唱歌的方式保持清醒。他高唱所有能记得的歌，包括《国际歌》。在龙潭监狱，他和十几人关在一个狭长的牢房。牢房一头的铁门用于送饭和看守观察，牢房另一头的铁门通往放风场。牢房一天24小时亮着一盏裸灯，犯人睡在一条大通铺上，吃饭、睡觉都在上面。牢房一天三次供水，每次15分钟。放风每星期二到三次，每次15分钟。看守心情不好的话，有时候几个星期也不放风。</p>
-<p>“从放风的门出去，是一个六米高的水泥墙围合的一个天井，顶部是铁丝网，哨兵在放风期间来回走动，观察笼子里面的犯人，”他在给我的一封邮件中写道。</p>
-<p>看到钱其琛的书后，他忽然想起了1991年发生的一件事。他在最近发表的一篇反驳的文章中写道：“1991年的冬天，天已经很冷，我记得我第一次穿上了父母送来的我在外面曾穿过的羽绒服，在我服刑的监狱，来过几位官员找我谈话，他们带着一副傲慢的神情告诉我，要改变反动立场，只有向政府认罪悔罪，用自己反悔的行为去教育大家，才能得到政府的宽大处理。否则，随便哪个都救不了你，不要以为有什么境外敌对势力在帮助你。可以说，即使是美国政府想帮你，贝克救不了你，布什也救不了你。当时我听到这些话，觉得很可笑，我一个不在北京的学生，怎么会联想到美国政府，别说是贝克，布什了……我会那么无知，坐在牢房里面等待国际援救吗？”</p>
-<p>现在他才一下明白了。</p>
-<p>钱其琛清清楚楚知道名单上的吴建民是谁，但是他还是不眨眼地哄骗了美国国务卿，并且为自己的“机智”洋洋得意。的确，钱其琛这样总结1989年至1990年代初与美国的外交：“在邓小平同志的直接领导下，我们敢于斗争，又善于应对，很快打破了西方的种种制裁，遏制了反华浪潮。历史证明，中国的长城，坚不可摧。”</p>
-<p>在场的新闻司司长吴建民，也明明知道名单上的吴建民是谁，但还是像一个忠实的奴才那样配合演出。巧的是，新闻司长吴建民也是南京人，而且和年轻的政治犯吴建民毕业于同一所中学。据说这位吴建民外交官很受西方同行赞赏，在后者眼中是可以共事的温和鸽派，经常露面。</p>
-<p>20多年后的今天，吴建民对1991年冬天因为他而引发的哄笑有两点疑问：美国人被中共耍了吗？在中共前外交部长钱其琛的笔下，贝克很愚蠢，我们用50多岁同名同姓的官员去顶替一个20多岁的学生领袖，他居然相信了，还跟着调侃，化解窘境。或者是，贝克完全知道中共在张冠李戴，但是为了美国的利益，装傻调侃，取悦中共，换取美国想要的访华成果？美国的利益到底是什么？美国的利益为什么要瞒着美国人民、美国媒体、美国议会，只为几个人所知、所操控？</p>
-<p>2015年初，吴建民来到美国政治避难，原因起于在中国国内参与组织纪念赵紫阳逝世十周年，再次面临入狱的危险。在他之前，浦志强和于世文已经因为类似的活动而被捕。他的申请还没有得到批准，他和妻儿仍然在等待面试通知。</p>
-<p>对于中国的流氓和可耻，他毫不惊奇意外。但是他想问美国的政治家和外交官，乃至贝克本人：六四以后，在与中共政权的交往中，美国的价值观体现在哪里？美国的价值观难道如同1991年11月17日与中共官员的一阵哄笑那样轻佻吗？</p>
-<p>共产党知道它的核心价值是在中国维持一党独裁专政，六四以后这一点成为中共党内无论是所谓的“改革派”还是“保守派”的共识。但是美国总统和美国国务卿难道不知道美国的核心利益是什么吗</p>
-<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%85%AD%E5%9B%9B%E5%90%8E%E7%BE%8E%E4%B8%AD%E5%A4%96%E4%BA%A4%E5%AE%8F%E5%9B%BE%E4%B8%AD%E4%B8%80%E4%B8%AA%E5%B9%B4%E8%BD%BB%E6%94%BF%E6%B2%BB%E7%8A%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -797,7 +808,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -807,5 +818,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

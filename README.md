@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E9%AB%98%E5%AE%98%E5%92%8C%E5%AF%8C%E8%B1%AA%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8A%E6%9B%9D%E5%85%89/" target="cdt-mirror">美国之音｜中共高官和富豪个人信息在推特上曝光</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg" rel="attachment wp-att-437726"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?resize=381%2C228" alt="方滨兴" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?resize=300%2C180 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?resize=80%2C48 80w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?w=381 381w" sizes="(max-width: 381px) 100vw, 381px" data-recalc-dims="1"></a><br><span>@shenfenzheng 被注销前在推特发布的疑似方滨兴身份证照片</span></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLm_7GVEAEiKSc.jpg" rel="attachment wp-att-437724"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLm_7GVEAEiKSc.jpg?resize=550%2C309" alt="胡锡进" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLm_7GVEAEiKSc.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLm_7GVEAEiKSc.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>@shenfenzheng 被注销前在推特发布的疑似胡锡进户籍信息</span></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLqc3_VEAAk-_t.jpg" rel="attachment wp-att-437725"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLqc3_VEAAk-_t.jpg?resize=550%2C310" alt="司马南" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLqc3_VEAAk-_t.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLqc3_VEAAk-_t.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>@shenfenzheng 被注销前在推特发布的疑似司马南户籍信息</span></p>
+<p>华盛顿— 中国数十名高官和包括马云、王健林等在内的诸多富豪的个人信息可能已经在推特上曝光。这应该是中国最大的网上敏感信息泄露事件。</p>
+<p>推特（Twitter）系统注销了一个名为 “shenfenzheng”（疑为‘身份证’）的帐户，该账户据称曾公布过政府、银行界、客机和工业界众多著名人物从官方身份证件到家庭住址等在内的详尽信息。在一些信息中，他们孩子的详细信息也被公之于众。其中的很多推特信息被迅速删除，但是彭博新闻社证实，其中至少两个身份证号是真实可信的。</p>
+<p>综合各家媒体5月12日的报道，“shenfenzheng”帐户目前不显示新发布的消息，而是标注着“帐户已停用”的字样。据报，被公布个人信息的人包括阿里巴巴集团创始人和理事会主席马云、腾讯公司控股董事会主席马化腾、小米公司董事长雷军、大连万达集团董事长王健林和三一集团董事长梁稳根等。</p>
+<p>目前还不清楚谁控制着这个账户，或者这个人是在中国境内还是境外。但是这个人显然对中国的网络控制充满鄙视，因为“shenfenzheng”账号上公开的一个身份证据称是中国网络防火墙之父方滨兴的。</p>
+<p>虽然中国通过世界最大的网络防火墙对互联网实行严格控制，但是这起事件凸显中国在防控信息在本国境内扩散面临着挑战。</p>
+<p>据《纽约时报》报道，推特已成为一些中国流亡政治活动人士的网上聚居地，他们利用这个平台进行交流，也与世界各地人士分享自己有关中国时事的观点。和许多外国互联网公司一样，推特在中国一直遭到屏蔽。即便有这些限制，中国依然是一个规模庞大、极具获利前景的市场。包括脸书（Facebook）和谷歌(Google)在内，许多在中国遭屏蔽的公司，依然在那里开展业务，为希望发展海外受众的中国企业服务，或者开始迎合日益增多的中国网民的需求。</p>
+<p>脸书创始人扎克伯格曾进行公开努力，讨好中国领导层，但推特几乎没有显示过有意接受发展中国市场所施加的限制。推特发言人普罗瑟曾表示，推特公司并不想在中国获得解禁。正所谓“无欲则刚”。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E9%AB%98%E5%AE%98%E5%92%8C%E5%AF%8C%E8%B1%AA%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8A%E6%9B%9D%E5%85%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/?category=18271" rel="tag">个人信息安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2/?category=18271" rel="tag">信息泄露</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%BB%A8%E5%85%B4/?category=18271" rel="tag">方滨兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%AF%E4%BC%9F%E6%B1%9F%EF%BC%9A%E8%A6%81%E6%83%B3%E6%88%90%E4%B8%BA%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%AC%AC%E4%BA%8C%EF%BC%8C%E5%BE%88%E9%9A%BE/" target="cdt-mirror">斯伟江：要想成为雷洋案第二，很难</a>
 </h2>
 <p><p>看到有网友说，下一个雷洋，正在路上。这话可能没错，有人说，国人活得苟且，死得莫名。虽然有些极端，但也不是没有一点道理。但，下一个雷洋式遭遇的人，你可能未必会知道，因为未必会引起舆论关注。正如钱云会案，或许是第一起被舆论关注的拆迁引发的死亡案，现在，拆迁死几个人，被当场压死的，压死在教堂下面的，关注度都在下降，盖民众“审冤疲劳”。以前温州於其一双规死了，当时舆论也很关心，现在呢？</p>
@@ -742,61 +762,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%BB%84%E8%96%84%E7%A0%81-%E4%B8%80%E5%BC%A0%E5%80%9F%E4%B9%A6%E8%AF%81%E9%87%8C%E7%9A%84%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD/" target="cdt-mirror">黄薄码：一张借书证里的秘密花园</a>
-</h2>
-<p><p>相关阅读：</p>
-<ul><li><a title="黄薄码：我们来谈谈「江选研讨会」这个号" href="http://chinadigitaltimes.net/chinese/2015/11/%E9%BB%84%E8%96%84%E7%A0%81%EF%BC%9A%E6%88%91%E4%BB%AC%E6%9D%A5%E8%B0%88%E8%B0%88%E3%80%8C%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A%E3%80%8D%E8%BF%99%E4%B8%AA%E5%8F%B7/">黄薄码：我们来谈谈「江选研讨会」这个号</a></li>
-<li><a title="江选研讨会 | 一名老派文艺青年的自我修养" href="http://chinadigitaltimes.net/chinese/2015/08/%E9%BB%84%E8%96%84%E7%A0%81-%E4%B8%80%E5%90%8D%E8%80%81%E6%B4%BE%E6%96%87%E8%89%BA%E9%9D%92%E5%B9%B4%E7%9A%84%E8%87%AA%E6%88%91%E4%BF%AE%E5%85%BB/">江选研讨会 | 一名老派文艺青年的自我修养</a></li>
-<li><a title="江选研讨会 | 香港记者到底跑的有多快？" href="http://chinadigitaltimes.net/chinese/2015/03/%E9%A6%99%E6%B8%AF%E8%AE%B0%E8%80%85%E5%88%B0%E5%BA%95%E8%B7%91%E7%9A%84%E6%9C%89%E5%A4%9A%E5%BF%AB%EF%BC%9F/">江选研讨会 | 香港记者到底跑的有多快？</a></li>
-<li><a title="江选研讨会 | 长者与1990年春晚" href="http://chinadigitaltimes.net/chinese/2015/02/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A-%E9%95%BF%E8%80%85%E4%B8%8E1990%E5%B9%B4%E6%98%A5%E6%99%9A/">江选研讨会 | 长者与1990年春晚</a></li>
-<li> <a title="江选研讨会 | 一朝天子一朝逼格" href="http://chinadigitaltimes.net/chinese/2014/11/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A-%E4%B8%80%E6%9C%9D%E5%A4%A9%E5%AD%90%E4%B8%80%E6%9C%9D%E9%80%BC%E6%A0%BC/">江选研讨会 | 一朝天子一朝逼格</a></li>
-</ul><p>在南京，顺着汉口路走，就到了南大校门口，穿过一段满是梧桐树漏下的碎阳光，右手边就是图书馆，三十年前的夏天，20出头的赵益每天的工作就是在这里的特藏部整理档案，当整理到一张写有“JZM”的借书证时，“并无特别处理”，而是和其他档案放在一起。当时是1986年，江正在南京以东300公里的上海任市长。三十年后，赵益已经是南京大学文学院的教授，他跟笔者回忆起当时的情境时不断强调，“没有传奇色彩，并无经过，只是发现”。</p>
-<p>南大百年校庆前，图书馆旁边建起校史博物馆，随着这张借书证主人的不断晋升，这张证并没有像其他学生的档案那样被移走，而是继续留在了校史馆内，并被放在了显眼的位置。这张借书证上分“姓名”、“学号”、“院别”、“系科”，右边还贴着一张江的证件照，当时他并未戴眼镜，证件主体则是频繁的图书借还记录，包括书号、借期和还期，用红黑两种墨水笔标记得一目了然。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9atptesj20ij0m8wh5.jpg?resize=550%2C660" alt="632d7e8egw1f3r9atptesj20ij0m8wh5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9atptesj20ij0m8wh5.jpg?resize=250%2C300 250w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9atptesj20ij0m8wh5.jpg?w=667 667w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>南大校史馆里的借书证</p></div>
-<p>一个人的全部会映射在他所读的书上，有时这种映射是如此完整而精妙，而借书证和普通书单不一样，书单是分享行为，分享难免不包含展示的成分在内，借书证更单纯，一如学生时代的恋爱，单纯、纯粹，从某种角度上说，借书证暴露的不仅仅是一个人的喜好——而是你是一个怎样的人，你的喜好你的品位你的心路历程，都在人面前一览无余。江本人也没想到自己的借书证会在四十多年后被人翻出来，这是他“一丝不挂”的“闺房”，出于同是一名爱书人的好奇，更多也是窥私欲的作祟，笔者吃了一个月泡面斥重金购入了江入学那年的南京中央大学的图书目录，封面还有当时校长樊仲云的题字。我就像一个莽撞的后生，假装不小心的闯入江的秘密花园一探究竟。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9ejq82qj21f01w0x6p.jpg?resize=550%2C733" alt="632d7e8egw1f3r9ejq82qj21f01w0x6p" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9ejq82qj21f01w0x6p.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9ejq82qj21f01w0x6p.jpg?resize=768%2C1024 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9ejq82qj21f01w0x6p.jpg?w=1836 1836w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>1943年南京中央大学图书馆藏书目录</p></div>
-<p>对爱读书的江来说，1943年入学是件幸运地事情，南京中央大学“复校”两年后，搬迁到条件较好的金陵大学校园内，继承了金大图书馆，虽然比不上世界藏书量最大的梁家河图书馆，但据1936年申报馆作过的一次全国大学图书馆藏书量的调查，藏书量超过20万册的仅有5所，金大图书馆即为其中一所，而西迁前金大图书馆文献总藏量已达339184册，加之中大“复校”三年来的一些采购，呈现在年青的江面前的是战时藏书量首屈一指的图书馆。</p>
-<p>下图为对比图书目录上的书号还原出的江一年时间内借还书记录。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r93tmxxaj20pe0zkjvb.jpg?resize=550%2C770" alt="对比记录" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r93tmxxaj20pe0zkjvb.jpg?resize=214%2C300 214w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r93tmxxaj20pe0zkjvb.jpg?resize=768%2C1076 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r93tmxxaj20pe0zkjvb.jpg?resize=731%2C1024 731w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r93tmxxaj20pe0zkjvb.jpg?w=914 914w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>对比记录</p></div>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r97hs1ovj20lm0iswn7.jpg?resize=550%2C478" alt="整理后的“江氏借书证”" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r97hs1ovj20lm0iswn7.jpg?resize=300%2C261 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r97hs1ovj20lm0iswn7.jpg?resize=768%2C667 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r97hs1ovj20lm0iswn7.jpg?w=778 778w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>整理后的“江氏借书证”</p></div>
-<p>江第一本书是11月11日借的，这一天去图书馆借书确实是件挺孤单的事，巧合的是五十年后在同一个校园里，这一天几个男生庆祝单身，并逐渐在南京高校流传开来，成为光棍节的起源。江借的第一本是《电工学原理》，译者为顾毓琇老先生，光棍节这天书架上偶然的邂逅，让两个人生开挂的人，纠缠一生，三年后在交大，顾毓琇成为了江的老师，顾回国期间江还邀请他去中南海做客，97年访美江还特意去费城看望了他。细究借书日期，还可以发现专业类图书多在秋冬天借阅，而《往事》、《寄云的信》、《恋爱的妇人》、《两条血痕》、《春天》、《归来》这六本纯文学的书则全部在三、四、五三个月内借阅，看来春天容易让人变得柔软。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9h29iy2j20ts15pgxa.jpg?resize=550%2C770" alt="江所借部分图书封面" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9h29iy2j20ts15pgxa.jpg?resize=214%2C300 214w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9h29iy2j20ts15pgxa.jpg?resize=768%2C1075 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9h29iy2j20ts15pgxa.jpg?resize=731%2C1024 731w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9h29iy2j20ts15pgxa.jpg?w=1072 1072w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>江所借部分图书封面</p></div>
-<p>江自小接受的是传统私塾教育，中学阶段在扬中接受的是西式教育，在那里他爱上俄罗斯文学和西方文学，起码在刚入大学的第一年的借书记录里看，像所有十七八岁的青年一样，江开始对新文学乃至革命文学产生了兴趣。冰心的《往事》当时付梓时为纯散文集，包含六篇散文，语言隽永流畅，成就高于早期诗歌和小说。《寄云的信》则为海派作家徐蔚南寄给妻子的书信集，平素写作“喋谈性欲”的他却在书信中表现出了清新脱俗。</p>
-<p>《恋爱的妇人》这本书值得一提，这是借书证上唯一的一部戏剧，这部剧很小众，法国的心理剧作家Porto Riche所著，著名语言学家王了一翻译，三幕剧的剧本主要讲述男主替朋友向一个少女表白，谁知少女爱上他了，婚后她爱他的激情不减，导致男主厌烦“用恋爱的方式来专制人家，精神上，物质上，都受痛苦”，便将她拱手让给朋友，事后男主却痛苦万分，最终还是回归家庭成了爱情的俘虏。所有好的文学都是悲剧，爱人是痛苦的，被爱也是痛苦的，不知江在他人的故事里是否流下了自己的泪，但后来江似乎并未被这渗出纸面的爱情虚无主义影响，其婚姻长跑到今年已是第66个年头。</p>
-<p>《两条血痕》则为日本短篇小说、剧本合集，周作人在日本文学翻译方面对其他译者来说几成碾压之势，其特有清隽幽雅略带涩味的味道为作品打上了周氏印记。有点意思的是，看图书目录，江是在一堆鲁迅作品里选择了他的弟弟，结合以上四本书来看，小清新的写作风格是江这一阶段的偏爱。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9jvfd55j20m408t75u.jpg?resize=550%2C219" alt="632d7e8egw1f3r9jvfd55j20m408t75u" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9jvfd55j20m408t75u.jpg?resize=300%2C119 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9jvfd55j20m408t75u.jpg?resize=768%2C306 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9jvfd55j20m408t75u.jpg?w=796 796w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>《归来》是东北作家罗烽的中篇小说集，其与妻子白朗出现在了电影《黄金时代》里。江这一年的书单不光都是阳春白雪，艾芜的《春天》是唯一偏乡土文学的，刻画了南方农村的图景，含蓄克制，尚未像抗战胜利后人物刻画的脸谱化。而杨幼炯的《俄国革命史》详述了俄国革命的经过，那几年江对发生在遥远中国北方的革命产生了兴趣，《世界珍闻》是民国名记陶菊隐收集整理的“西方国家”猎奇文章，翻看这本书的目录，我们也可以看到当时的江已经关注一些如何保持长寿的文章。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9hyzzg5j20yi0nmtdn.jpg?resize=600%2C411" alt="632d7e8egw1f3r9hyzzg5j20yi0nmtdn" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9hyzzg5j20yi0nmtdn.jpg?resize=300%2C205 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9hyzzg5j20yi0nmtdn.jpg?resize=768%2C526 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9hyzzg5j20yi0nmtdn.jpg?resize=1024%2C701 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9hyzzg5j20yi0nmtdn.jpg?w=1242 1242w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>细看这些书单上的作者，为左联或近左联的就有罗烽、冰心，而艾芜是共产党员，施存统更曾担任第一任团中央书记。借书证上之外，江的室友回忆说他们最爱读的是1934年出版的艾思奇写的《大众哲学》，也在被窝里打手电筒读瞿秋白的《赤都心史》，这就不难解释他在46年4月，国府形势仍优的情况下选择加入了共产党。</p>
-<p>人是不会变的，穷其余生都在巩固早年形成的“偏见”，吃过的东西爱过的人读过的书都已构成了你的骨架，以后再学新知遇新欢，但一有机会还是会回去。很多年后，一次记者招待会上，当被问及他有何爱好时，江回答说：“作为一个知识分子，我喜欢读书。我阅读与我工作有关的东西：一是机械，二是电子。“ 后来，江还把其苏联导师所著的《机械制造厂如何合理利用电力》一书翻译成中文，此刻他肯定想到当年在图书馆里感激为他带来新知识的译者们。同样他会专程前往马赛参观大仲马创作基督山伯爵的地方，去巴黎蒙玛特高地希望为“茶花女”扫墓。在借书证被发现的同一年，86年8月16日，《解放日报》选登了一幅漫画家为时任市长的江画的漫画像。漫画的标题是“书迷江泽民”。据信，江在上海的市长办公室里就藏书愈3000本。江的阅读经历自始而终，令人信服，而突兀的抛出庞大书目、追求磅礴气势是一种恶劣的美学倾向，读书不是打架，可以倚多取胜。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/632d7e8egw1f3r9iwmd89j205p07i3ym.jpg?resize=205%2C270" alt="632d7e8egw1f3r9iwmd89j205p07i3ym" data-recalc-dims="1"></p>
-<p>回望这张借书证，你会发现江每个月都有借书，一次两到四本，几无断绝，这样的阅读习惯伴随一生，文革中，无论在武汉被撤职接受批斗还是河南渤海农场“五七”干校接受再教育，江始终手不释卷，甚至在探望同样被批斗的汪道涵时，还建议他读读莎士比亚，读书最好的目的就在于此，你会发现凭借自身阅读构建起来的小世界，能以体恤式的温柔，消解自身的苦难。</p>
-<p><strong>以下为数字时代编辑摘自改篇文章下的部分网友评论：</strong></p>
-<p>@有点痞：有的人，书单是粉丝考据出来的；有的人，书单是自己吹出来的。</p>
-<p>@CRH380A_：“江的阅读经历自始而终，令人信服，而突兀的抛出庞大书目、追求磅礴气势是一种恶劣的美学倾向，读书不是打架，可以倚多取胜。”高下立判吃顿好</p>
-<p>@孔浩遵医嘱：顶级考据。</p>
-<p>@IM李大仁：恭喜你，搞了个大新闻！</p>
-<p>@言夭书店戥羽：现在的长者，一言不合就开书单。</p>
-<p>@老爱老蔡：完爆只会报菜名的工农兵初中生。</p>
-<p>@一笑菩提：说真的，这书单某人报还不一定能报出来。</p>
-<p>@交易员_秦川八百：怀念是另一种打脸！</p>
-<p>@耐力控：相比之下现在这帮红二、青团简直不够看，就晓得xjb内斗</p>
-<p>@溪上対鸥闲：硬考据，膜界的又一篇光辉文献。</p>
-<p>@KeyserSoze：一点人生的经验，其实是厚积薄发。</p>
-<p>@喃喃头：我觉得好像其实书看得越多的人对于很多事的态度倒更随意。表现出来可能就是幽默、不摆架子。</p>
-<p>@葭浮PaulLee：不知道你们发现没有，长者阅读时间最短的书就是微积分了，相比其他借了一个月才还的书，微积分借了一天就还了。这说明什么：国家领导人都不喜欢的书教育部还拿来当教材荼毒大学生，罪不容诛啊！</p>
-<p>@悲伤罐子：说实话，虽然看到有人称它为“长者”感觉有点恶心，但是，论文化修养，它确实比当今背书名的X大大要强太多！</p>
-<p>@听音乐和你聊：中科院院长蛮适合的。治国是另一码事。</p>
-<p>@高致如一：很厉害，要在大舞台上不被笑场，还真得有积累才行。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%BB%84%E8%96%84%E7%A0%81-%E4%B8%80%E5%BC%A0%E5%80%9F%E4%B9%A6%E8%AF%81%E9%87%8C%E7%9A%84%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E9%80%89%E7%A0%94%E8%AE%A8%E4%BC%9A/?category=18271" rel="tag">江选研讨会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BB%E4%B9%A6/?category=18271" rel="tag">读书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%85%E8%AF%BB/?category=18271" rel="tag">阅读</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%96%84%E7%A0%81/?category=18271" rel="tag">黄薄码</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -818,5 +783,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

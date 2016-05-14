@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,80 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E9%9D%A9%E4%B8%AD%E7%9A%84%E6%96%97%E4%B8%8E%E6%89%B9%EF%BC%9A%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5/" target="cdt-mirror">刘释予｜文革中的“斗”与“批”：钱钢老师课上的生日报㊱</a>
+</h2>
+<p><p>文／刘释予</p>
+<blockquote><p><em><strong>钱钢老师附言</strong></em></p>
+<p><em>《‘斗私、批修’是无产阶级文化大革命的根本方针》，刘释予翻阅旧报看到的这个社论标题，显示了毛发动文革的两大目标：政治颠覆和精神清洗。批修，是打倒刘少奇为代表的走资派，斗私呢？是要在包括红卫兵在内的所有人灵魂深处爆发革命。刘同学是军人后代，她尝试对文革初期的解放军报做点考察；这是几本大书也写不完的故事。我曾在微博略微涉及。不料一点就着。</em></p></blockquote>
+<p>我的童年是和外公外婆一起度过的，外公是革命军人，曾参加过解放战争与抗美援朝，我从小就习惯了听外公讲跨过鸭绿江的故事；家里用的勺子是刻着“USA”字样的战争纪念品；闲来无事我便会趁外公睡着，用牙签小心拨弄嵌在外公腿上细屑般的弹壳碎片。身为传统军人的后代，我对解放军报有种特别的情结。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1niaWBaGpfzfkZsQp8ATtoA.png" rel="attachment wp-att-437817"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1niaWBaGpfzfkZsQp8ATtoA.png?resize=575%2C325" alt="1*niaWBaGpfzfkZsQp8ATtoA" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1niaWBaGpfzfkZsQp8ATtoA.png?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1niaWBaGpfzfkZsQp8ATtoA.png?resize=768%2C434 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1niaWBaGpfzfkZsQp8ATtoA.png?w=800 800w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>外公出生于1932年，籍贯山西五台县，隶属60军179师537团，抗美援朝以后随部队来到南京花旗营，也才有了后来父母在南京的结合。</p>
+<p>我父亲生于1965年8月24日，母亲生于1967年10月21日，恰在两人生日之间，中国进入文化大革命。我自幼对文革并不陌生，不仅我的外婆曾是红卫兵的一分子，曾入京见毛主席；连我母亲也可以说是文革的“副产品”，那时外公外婆长期分隔两地，直到文革开始学校放假了外婆才有机会回到部队，也是那时候有的我母亲。</p>
+<p>了解文革开始前后的历史，应该从哪里开始？毛主席曾经说过，“《人民日报》没有什么可看的，要看《解放军报》，看《中国青年报》。工人、战士写的东西实际、活泼，又能说明问题。”说这话的两年后，文革发动。于是我翻出了父母生日那两天的解放军报，进行比对。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14iFLlttlYOR0I4geBXFgtA.png" rel="attachment wp-att-437812"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14iFLlttlYOR0I4geBXFgtA.png?resize=575%2C413" alt="1*4iFLlttlYOR0I4geBXFgtA" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14iFLlttlYOR0I4geBXFgtA.png?resize=300%2C216 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14iFLlttlYOR0I4geBXFgtA.png?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>1965年8月24日与1967年10月21日的解放军报头版</span></p>
+<p>我首先留意到这两个版面报眼的差异，1967年的头版报眼是毛主席语录，1965年的却不是（虽然据史料记载军报在文革前已开始刊登毛语录，但显然还没有每日必登）。1965年的头版没有任何加粗的字体，而1967年的头版却有很多加粗的强调字句。那细看一下67年版的加粗字体，是什么呢？我发现有两个动词特别突出：“斗私，批修”。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1VpCKrP2iOTT3q1ej_RzhkA.png" rel="attachment wp-att-437818"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1VpCKrP2iOTT3q1ej_RzhkA.png?resize=500%2C158" alt="1*VpCKrP2iOTT3q1ej_RzhkA" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1VpCKrP2iOTT3q1ej_RzhkA.png?resize=300%2C95 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1VpCKrP2iOTT3q1ej_RzhkA.png?w=570 570w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>不仅是加粗部分，在1967年每个版面的大标题里，几乎都出现了这四个字，经统计，在1967年版的13篇报道中，“斗私，批修”四个字在标题和加粗字体，一共出现19次。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e2nqDaTx1SXm9oi39e9uAQ.png" rel="attachment wp-att-437814"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e2nqDaTx1SXm9oi39e9uAQ.png?resize=575%2C316" alt="1*e2nqDaTx1SXm9oi39e9uAQ" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e2nqDaTx1SXm9oi39e9uAQ.png?resize=300%2C165 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e2nqDaTx1SXm9oi39e9uAQ.png?resize=768%2C422 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1e2nqDaTx1SXm9oi39e9uAQ.png?w=800 800w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p><strong>什么是斗私批修?</strong></p>
+<p>“斗私，批修”的核心思想与“兴无灭资”一脉相承 — — “兴无产阶级思想，灭资产阶级思想”。“兴无灭资”是大纲领，而“斗私、批修”则是具体的行动指导。看字面，“斗私”，是斗掉私心；“批修”，则是批判修正主义。虽然他倆在报纸上孟不离焦，焦不离孟，但两者间总会加一个逗号 — — 说明这两个词要拆开来看。怎么看？先卖个关子，等会儿再聊。</p>
+<p>斗私批修是谁提出的？根据钱钢老师文章《红色词语的勃兴和流变》，周恩来曾在1967年9月底使用“批修、斗私” — — 当时，“批修”还放在“斗私”前。</p>
+<p>1967年9月25日的人民日报报道，毛泽东在1967年在视察华北、中南和华东地区的文化大革命成绩时，提出要“斗私、批修”。六天后，林彪在国庆讲话中正式传达毛泽东的指示：“要斗私，批修”。</p>
+<p>而1967年10月6日《人民日报》社论《“斗私、批修”是无产阶级文化大革命的根本方针》，为这个词的迅速蹿红定了调。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/15Vo0bx-ehxrZBZP05CylLg.png" rel="attachment wp-att-437813"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/15Vo0bx-ehxrZBZP05CylLg.png?resize=575%2C354" alt="1*5Vo0bx-ehxrZBZP05CylLg" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/15Vo0bx-ehxrZBZP05CylLg.png?resize=300%2C185 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/15Vo0bx-ehxrZBZP05CylLg.png?resize=768%2C473 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/15Vo0bx-ehxrZBZP05CylLg.png?w=800 800w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>1967年10月6日人民日报社论版面</span></p>
+<p>根据钱老师的统计，1967年最后3个月，这个新提法在《解放军报》就有554篇文章使用。此后一直保持很高的传播强度。</p>
+<p>说了半天，“斗私”和“批修”有何分别？“批修”好理解，从1963年开始批判“苏联修正主义”的风潮就已铺天盖地，文革开始后更是有批判“中国的赫鲁晓夫”的说法。具体到1967年，“批修”首先指的是批判“党内最大的走资本主义道路当权派”刘少奇。</p>
+<p>“斗私”其实是“革命小将们”内部的“自我批评”，当时的说法叫“狠斗私字一闪念”，要“深挖隐藏在思想深处的私念，在灵魂深处爆发革命”。当时还在读中小学的学生们，也常常要开“斗私批修会”，每个人都要做自我检讨。有人说自己爱美是“资产阶级思想”，有人说自己不爱吃窝头是“没有吃苦精神”，有人说斗私批修后再靠近猪圈也不觉得臭了，因为“私字一闪念”已经被“斗”掉。但“斗私”活动中讲的其实都是些无关痛痒、鸡毛蒜皮的小事，真心话少有人说。</p>
+<p><strong>解放军报:倒在文革枪口下的“吹鼓手”</strong></p>
+<p>爸妈生日报的内容，标题，形式差别很大，短短两年，这样的转变如何发生？</p>
+<p>这要从1966年冬天说起。当时文革刚开始不久，一个刚从北京大学毕业的女大学生进入解放军报工作，她的名字叫肖力。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1lS-mg7cMe0lMSfaE7tX1Xg.png" rel="attachment wp-att-437815"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1lS-mg7cMe0lMSfaE7tX1Xg.png?resize=500%2C383" alt="1*lS-mg7cMe0lMSfaE7tX1Xg" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1lS-mg7cMe0lMSfaE7tX1Xg.png?resize=300%2C230 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1lS-mg7cMe0lMSfaE7tX1Xg.png?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>左为肖力</span></p>
+<p>1967年元旦，《人民日报》、《红旗》杂志联名发表社论提出：“1967年，将是全国全面展开阶级斗争的一年。1967年，将是无产阶级联合其他革命群众，向党内一小撮走资本主义道路的当权派和社会上的牛鬼蛇神，展开总攻击的一年。”</p>
+<p>于是，1月13日凌晨，年仅26岁的肖力带领“革命造反突击队”，在编辑部贴出了题为《解放军报向何处去？》的大字报，向解放军报编辑部“展开总攻击”。</p>
+<p>大字报写道，“在刘志坚反动路线的直接影响下，报纸的宣传和社内的文化革命背离了以毛主席为代表的革命路线，走上了歧途”。刘志坚是解放军的开国中将，本来是全军文革领导小组的组长，却在九天前的1月4日突然被打倒，中央文革小组的顾问康生批之为“刘、邓资产阶级反动路线在军队里的代表”，背后原因，据说是江青认为刘志坚向叶剑英、陈毅汇报工作多于向自己，感到他“不可靠”。她说，“像刘志坚这样的人物，我们帮你们揭发。我名义上是军队的文化顾问，但是他从不同我汇报……他是典型的两面派。”</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1NevDWxskpPtnKscwucZ0zw.png" rel="attachment wp-att-437816"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1NevDWxskpPtnKscwucZ0zw.png?resize=200%2C246" alt="1*NevDWxskpPtnKscwucZ0zw" data-recalc-dims="1"></a><br><span>刘志坚</span></p>
+<p>同一天，上海的“星火燎原”革命造反总部夺了《文汇报》编辑部的权，第二天中共上海市委机关报《解放日报》也沦陷了。肖力的大字报提到要向这两份报纸的夺权者学习，“自己解放自己，自己起来闹革命”。</p>
+<p>这张大字报一呼百应。根据园丁文章《肖力与解放军报夺权风暴》，“革命到底造反纵队”和“金猴战斗队”等不知道从哪儿冒出来的造反派组织纷纷题写大字报，对肖力的造反行动，表示了“最热烈的响应和最坚决的支持”，并呼吁立即成立左派的新领导班子。更重要的是，大字报获得了林彪与毛泽东的支持。</p>
+<p>轰动的“1．13事件”过后，到解放军报任记者还不满三个月的肖力，就这样夺取了军报的领导权。在她控制该报的1年6个月时间里，她率领“革命造反突击队”和后来改组的“新革命造反突击队”，制造了一系列政治案件，涉及数十人。编辑部60%以上的人遭批斗，其中有的被投进监狱，有的开除党籍、军籍，有的甚至家破人亡。她还以办“学习班”为名，关押了一大批编辑记者。</p>
+<p>讽刺的是，在这波文革造反浪潮中被斗倒的解放军报编辑部，曾是文革最忠实的吹鼓手，也是毛泽东口中写东西“实际、活泼”的代表。根据钱钢老师的研究，解放军报是毛泽东酝酿文革时最重要的舆论阵地。它高度自觉地紧跟中央，以“坚信、紧跟、合拍”为六字真言，“捧红”了雷锋等一批典型，强力传播了“突出政治”、“思想革命化”、“阶级斗争”等红色词语。1966年4月18日，解放军报以社论方式披露了林彪委托江青召开的“部队文艺工作座谈会”纪要，射出了文革的信号弹。</p>
+<p>这不禁使我更加好奇，一个20多岁的年轻人何以具备撼动军方宣传机器的能力？江青与毛泽东在解放军报夺权过程中的种种加持，就是答案。肖力还有另一个名字 — — 李讷。她是毛泽东和江青结婚后生下的唯一女儿。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-qFxNVr2WIdIQffCKw-BkA.png" rel="attachment wp-att-437811"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-qFxNVr2WIdIQffCKw-BkA.png?resize=373%2C300" alt="1*-qFxNVr2WIdIQffCKw-BkA" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-qFxNVr2WIdIQffCKw-BkA.png?resize=300%2C241 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-qFxNVr2WIdIQffCKw-BkA.png?w=373 373w" sizes="(max-width: 373px) 100vw, 373px" data-recalc-dims="1"></a></p>
+<p>解放军报创刊60周年、文革50周年之际，回顾这段充满波折与劫难的历史，唯愿历史不再重蹈覆辙。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1vXbPnqlsJwAPhxTznncw7w.png" rel="attachment wp-att-437819"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1vXbPnqlsJwAPhxTznncw7w.png?resize=370%2C591" alt="1*vXbPnqlsJwAPhxTznncw7w" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1vXbPnqlsJwAPhxTznncw7w.png?resize=188%2C300 188w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1vXbPnqlsJwAPhxTznncw7w.png?w=533 533w" sizes="(max-width: 370px) 100vw, 370px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>作者介绍</strong></p>
+<p>刘释予，2015级香港大学新闻及传媒研究中心研究生在读</p></blockquote>
+<p>【下期预告】</p>
+<p>伟大领袖畅游长江的速度有多快？谁翻译了红歌《大海航行靠舵手》的英文版？罗晓月用严谨的计算和探究，量化了那个时代的奇异与荒谬。</p>
+<p>5月16日是文革正式启动的日子，敬请期待这一天第三十七期“钱钢老师课上的生日报”《“大海航行”靠泳技？毛泽东VS孙杨》。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E9%9D%A9%E4%B8%AD%E7%9A%84%E6%96%97%E4%B8%8E%E6%89%B9%EF%BC%9A%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E8%AE%B7/?category=18271" rel="tag">李讷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A5/?category=18271" rel="tag">解放军报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%B5%B7%E6%A3%AE%E5%B4%B4%EF%BC%9A%E6%9D%83%E5%A8%81%E4%BA%BA%E5%A3%AB%E4%B8%BA%E4%BD%95%E6%95%A2%E8%AF%B4%E4%B8%8D%E6%95%A2%E5%BD%93/" target="cdt-mirror">东网｜海森崴：权威人士为何敢说不敢当</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiQvclWUYAEGWfE.jpg_large.jpg" rel="attachment wp-att-437808"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiQvclWUYAEGWfE.jpg_large.jpg?resize=525%2C394" alt="严厉打击借助媒体泄私愤" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiQvclWUYAEGWfE.jpg_large.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiQvclWUYAEGWfE.jpg_large.jpg?w=690 690w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><span>微博图片；题图无关</span></p>
+<p>中央禁止媒体和经济分析师唱淡当前的中国经济，但官方《人民日报》却公然违反命令，在5 月9日头版刊登了“权威人士”的访问《开局首季问大——权威人士谈当前中国经济》，该权威人士说：“我国经济运行不可能U型，更不可能是V型，而是L型的走势。这个L型是一个阶段，不是一两年能过去的。”这位神秘的权威人士到底是谁？引起不少猜测，有人认为是当今的最高领导人。除了谁是权威人士这个问题外，我们更应该要问的是：为何权威人士不愿意曝光身份？为何敢说不敢当？为何在涉及民生国计的重大施政方针上，我们可以允许由一位不明不白的权威人士来公布？</p>
+<p>能够在《人民日报》头版和第二版刊登万字长文访问内容，这位权威人士当然非比寻常。人民日报海外版微博帐号“侠客岛”今年1月份曾发表题为《人民日报“权威人士”到底是谁？》，指出上世纪四十年代，中共最高领导人毛泽东多次在人民日报以“权威人士”身份，痛駡蒋介石和美国，自此成为中国历史上一项悠久的传统。由此可见，今天《人民日报》的权威人士身份也非一般。</p>
+<p>身份非一般，可是大家依然只能猜，永远点不破。我们先来猜猜这位躲在权威人士面纱背后的领导人之意图。首先，在《人民日报》头版来放话，肯定是要显示其讲话内容的重要性。权威人士这次的讲话内容，主要是告诉老百姓别抱有梦想，中国经济不会在短期内反弹，也不要期盼政府再像08年那样用4万亿的杠杆方式来撬动中国经济。说到底其实是风险管理，要把社会期望降下来，让社会事先有个心理准备，当经济继续往下走，民众的落差也不会太大，借此维护社会稳定，目的最终也是保护自己的政权。</p>
+<p>而用权威人士的这种模糊身份，表面好处是可以减少放话所引起的市场震荡，用权威人士肯定比由习近平具名所引起的震荡会来得轻，但更重要的是中国习惯报喜不报悲，这种不光彩的话怎么叫领导人说的出口，中国的经济最差也要每年GDP增长 6.5%，L型发展不是自打嘴巴吗？所以，这种负面的事只能交给权威人士来出面。但更更重要的是，戴了权威人士这面具，就不用怕留下了白纸黑字的把柄，为日后一百八十度大转身留下空间，直白地说就是随时可以说话不算数，拍拍屁股就可以不认帐。</p>
+<p>用权威人士身份来放话，既可以立即收到效果，又不用负责任，当然领导人越来越爱用。在过去一年，《人民日报》已先后出现三次权威人士谈中国经济的访问，第一次是去年5月25日题为《五问中国经济》，第二次是今年1月4日题为《七问供给侧结构性改革》，5月9日这次是第三次，这种频密度是以往少见的。</p>
+<p>在西方国家，政府也常用消息人士方式来发放消息，但主要是用于一些不便表达政府立场的议题，或者是希望引起社会讨论的政府构思，在涉及重大民生国计的政策，政府是不可能躲在背后，仅用权威人士放一话就可以搞定的，只有专制国家才可以。</p>
+<p>去年的A股股灾，今年初朝令夕改的熔断机制，都告诉着我们政策不透明的恶果。向人民负责，是执政者的责任；向社会公开施政方向、清楚解释政策内容，也是执政者的责任。政策越透明社会只越稳定，请落实中南海照壁上的口号——为人民服务。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%B5%B7%E6%A3%AE%E5%B4%B4%EF%BC%9A%E6%9D%83%E5%A8%81%E4%BA%BA%E5%A3%AB%E4%B8%BA%E4%BD%95%E6%95%A2%E8%AF%B4%E4%B8%8D%E6%95%A2%E5%BD%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">中南海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%94%BF%E7%AD%96/?category=18271" rel="tag">国家政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">权威人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E8%AF%84%E8%AE%BA%E5%91%98%E8%B0%88%E9%9B%B7%E6%B4%8B%E6%A1%88/" target="cdt-mirror">【CDTV】深圳卫视评论员谈雷洋案</a>
 </h2>
 <p><p><a href="https://www.youtube.com/v/CerUrdH1J5Y?version=3">https://www.youtube.com/v/CerUrdH1J5Y?version=3</a></p>
@@ -369,7 +440,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/512/?category=18271" rel="tag">512</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E9%83%BD/?category=18271" rel="tag">南都</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">大地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E5%BF%97%E6%A0%87/?category=18271" rel="tag">宋志标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E4%BB%AC%E7%9A%84%E7%94%9F%E6%B4%BB/?category=18271" rel="tag">我们的生活</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87/?category=18271" rel="tag">汶川地震</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%9C%AA%E6%9C%AA/?category=18271" rel="tag">艾未未</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">遇难学生</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%89%91%E5%AE%A2%E4%BC%9A%EF%BD%9C%E9%83%AD%E5%BB%BA%E9%BE%99%EF%BC%9A%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6%E5%BF%85%E6%AD%BB%E4%BA%8E%E8%84%86%E6%96%AD/" target="cdt-mirror">剑客会｜郭建龙：警察国家必死于脆断</a>
 </h2>
@@ -660,141 +731,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%86%8D%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%99%E5%BF%97%E5%88%9A/" target="cdt-mirror">詹膑：不可能再有一个“孙志刚”</a>
-</h2>
-<p><p><strong>【编者注】詹膑微信原文已被和谐。作者微信公号：Story（ID: zhanbinstory）</strong></p>
-<p>最近有两个死者，舆论沸沸扬扬。讨论中，屡屡看到人提到“孙志刚”，但是看到这三个字，我就心里发慌，充满沉重。</p>
-<p>提到孙志刚的人，估计心里还会有一点点美好的想象，但这真心就是幼稚病。不可预期的随机死亡，变成阴影，会笼罩越来越多的人；所以，就会有越来越多的舆论，也会有更多次提到“孙志刚”。</p>
-<p>但是我想说的是，不可能再有一个孙志刚了。</p>
-<p><strong>一、</strong></p>
-<p>“孙志刚”事件最为标志性的推动事件，是三个法学博士向全国人大常委递交了“请愿建议书”。但这三个博士如今在哪里：</p>
-<ul><li>一个在教育系统内有很好职位，一直做法律史的研究，最近这些年基本看不到公共发言</li>
-<li>一个持续公共发言，并成为维权律师，目前属于“流亡状态”</li>
-<li>一个持续公共发言，但是现在在牢里，什么都没法说</li>
-</ul><p>在过去这些年里，后面两位付出的努力，并没有得到足够多社会公众的了解和支持——所以，我们要承担社会状况恶化的后果，这是必然的果报。</p>
-<p>一部分原因是我们并没有想关心和支持他们；另一部分原因，他们做的所有事情，发出的所有声音，都在持续“被删帖”，所以，看不到。</p>
-<p>我也没法提他们的名字。</p>
-<p><strong>二、</strong></p>
-<p>当年报道“孙志刚”事件的两个记者，都转行到互联网了。</p>
-<p>调查报道基本消失了，准确的说：涉及到权力对抗的社会事件完全没有专业报道了。新闻行业还有根儿吗？</p>
-<p>南方系几经洗涤。</p>
-<p>没有了新闻媒体这样的社会监督，整个社会不可能会好。想想普利策新闻奖的获奖名单？全部是对社会负面的报道。</p>
-<p>没有记者和新闻了，我们只有靠自己在微信公号里面张罗了。</p>
-<p>但是我们删帖的系统更加强大和健全了，帖子被删的更加及时了，这个时候，人们是没有什么力量的。</p>
-<p><strong>三、</strong></p>
-<p>刚才提到了维权律师。这个“行当”，过去两年，被全部“铲除了”。</p>
-<p><strong>四、</strong></p>
-<p>请问这个时候，还会有“孙志刚”吗？会有无数次莫名的随机死亡，但是不会有作为典型的“孙志刚”了，因为“孙志刚”出现背后的那些力量，全部没有了，守望社会的力量全部没有了。</p>
-<p>所以，不要提“孙志刚”了——提到他，我感到的是暗黑，毫无希望。他不是一个正面典型，而是见证了我们过去的麻木，见证了社会的滑落。</p>
-<p><strong>五、</strong></p>
-<p>我没有什么想说的，对于刚刚死掉的人。</p>
-<p>我只想说：当删帖开始时，我就对权力失去了全部信任。</p>
-<p>敢不删帖吗？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%86%8D%E6%9C%89%E4%B8%80%E4%B8%AA%E5%AD%99%E5%BF%97%E5%88%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E6%95%99%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">劳教制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E5%BF%97%E5%88%9A/?category=18271" rel="tag">孙志刚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%B2%A1%E4%BA%BA%E5%96%9C%E6%AC%A2%E9%98%B2%E7%81%AB%E5%A2%99/" target="cdt-mirror">【网络民议】胡锡进：没人喜欢“防火墙”</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.31-PM.png?resize=549%2C327" alt="Screen Shot 2016-05-11 at 5.55.31 PM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.31-PM.png?resize=768%2C457 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.31-PM.png?resize=1024%2C609 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.31-PM.png?w=1302 1302w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>@胡锡进 ：没人喜欢“防火墙”。同时必须指出，它在今天的中国有正面作用。网民对“防火墙”有些抱怨，可以理解。但若严肃看这个问题，互联网发端于西方，它本身“内置”“自带”了西方的意识形态秩序和规则，能帮助西方引导非西方国家的舆论注意力，主导后者的政治议程。“防火墙”是对这种格局的冲破。决不可无视导致“防火墙”出现的这一复杂背景。然而，防火墙应被当成临时性措施，不能让社会治理对它产生长期依赖性。“防火墙”毕竟不可以真当“永久长城”用，它不是化解问题的“万能钥匙”。应当利用“防火墙”带来的缓冲加紧解决中国的问题，构建软实力，提高中国社会对有害信息的自然承受力和免疫力。所有长城最后都是会荒弃的，这点切不能忘。这是我对“防火墙”的完整看法。</p>
-<p>4月11日 15:41 来自 iPhone 6 Plus</p>
-<p>以下网民评论搜集自新浪微博：</p>
-<p>呉下限：墙的好处就是巴拿马现在还没什么人知道，一句捕风捉影就过去了，人家普京可是说这是真的。</p>
-<p>中续所：你们怕什么?  1，你们手握百万大兵。 2，你们把持舆论媒体。 你们拥有千亿家产。 4，你们掌握宇宙真理。 5，你们自古战无不胜。 6，你们从来光荣伟大。 7，你们号称一心为民。 8，你们吹嘘强势崛起。 9，你们高喊无数自信。10，你们叫嚣宇宙无敌。 我说句话，你们都删,你们到底怕什么?(哈哈网友)</p>
-<p>草根博视：“防火墙”的存在实际上是对三个自信的嘲讽！看看互联网上那些被屏蔽的所谓关键词，我们就更清楚了。</p>
-<p>gggghz：用来挡巴拿马用的。</p>
-<p>神婴涵瑀：给人民一个胶带。</p>
-<p>塞纳河日落_：我他吗就想问，你拦谷歌干什么！Gmail，Google Drive 对于我们留学生来说就是写作业的命根！回国后你把这些东西拦了，VPN也不让用，作业不写，你让我们怎么办？！</p>
-<p>西贝-文：因为有我党的防火墙，所以保护了一大批国内毫无竞争力，只能靠垄断苟延残喘的极烂互联网公司以及媒体→比如世界最大盗版搜索引擎的百度啊，比如法西斯分子猖獗的新浪微博啊，比如抄袭盗版起家的腾讯啊，比如只能整天靠洗脑和利用五六十年代思维来企图愚弄百姓的环球屎报啊，人民日爆啊，新华社啊等等。</p>
-<p>郭健guojian：是想利用防火牆帶來的緩衝，讓權貴們趕緊把搶來的那些幾十輩子都花不完的錢都搬海外離岸公司去吧！</p>
-<p>2016春夏之交：就是害怕慌言被戳穿。</p>
-<p>山东阿舅：那不是“防火墙”，那是“网络柏林墙”。</p>
-<p>笑看云天02：胡总编，能否诚实地告诉大家，你们反对的“西方思想”到底是什么？或者说，政治层面，所谓中国特色与全世界主流做法（你们叫西方思想）区别是什么？无非是民选官，权力关进笼子，人民可以监督，批评政府，包括最高领导人，官员财产公示。对吧？</p>
-<p>恩泽百合：防火墙是就是思想的监狱墙，被破是墙内区域的解放！大趋势！</p>
-<p>泰山令：防什么？民主之火？自由之火？墙倒了谁会被烧死？</p>
-<p>看海的狼lion：如果是真理，为什么要怕？有什么可怕可怕的？建了墙，墙内的文章为什么还删，又在怕什么？为什么怕？古语说，身正不怕影斜，请自信。</p>
-<p>沉舟侧畔999：解决个鸟毛，禁锢的思想得到解放，再想圈禁回去，我说飞盘先生，您觉得可能吗？</p>
-<p>天那么黑你却看不见：不只有防火墙啊，还有删帖，删评论，删人啊！</p>
-<p>唐seng洗头用漂柔：这个体制已经不适合国家的前进创新了，推了大唐还有大宋！不要以为以为没有共产党中国就会灭亡！！！！</p>
-<p>流水行风：互联网发端于西方，它本身“内置”“自带”了西方的意识形态秩序和规则，能帮助西方引导非西方国家的舆论注意力！—–话说马某某主义也发端于西方！咱不说代数，物理，化学，微积分了。。。。。。。</p>
-<p>舒影2012：公开透明是大趋势，改革开放没有回头箭，设再高的墙也挡不住中国人渴望了解世界的目光。</p>
-<p>jhjflystar：放屁，防火墙纯粹是愚民的政策！</p>
-<p>矿工阿呆：如果有天我偶遇胡主编，我将不惜一些代价削他一顿，仅仅是为了痛快。//@龚晓跃: 你孩子知道你这么说吗？</p>
-<p>吴xiansheng2015：自从有了防火墙，感觉宽带费白交了。</p>
-<p>荒野迷茫：光是封外网吗？百度新浪的都给糟践的快无法用了.每天删封帖的人至少得有几十万了吧。中国老百姓纳税养着共青团不说，还养着这些人。</p>
-<p>the-promised-land：哇，这次跑了好远，终于叼住了！辛苦了！</p>
-<p>升值器-：回复@Young_Daydream:他也配姓赵？！米西了几千块就被吊打的货…</p>
-<p>海南某座岛：翻墙在现在已经不是很难了，怎么说也有几百万人在翻墙的。</p>
-<p>炸酱面馆大叔：主编依旧叼的一口好飞盘。评论区里支持墙的人，您祖上是姓贱吗？</p>
-<p>唐seng洗头用漂柔：文革，大跃进，三年人吃人，还没找你们算账！</p>
-<p>立夏11281010250955：胡总再论证一下腐败的积极意义。</p>
-<p>anywherebuthere___：防火墙这东西在东西南北方都是没有的，西方个毛啊。</p>
-<p>Betteryuannnnn：不公平 不公平 凭什么港澳台可以用 难道中国人还分等级吗[偷乐][偷乐][偷乐][偷乐]</p>
-<p>司禄言：胡编乱造。</p>
-<p>胖俊的美好生活：当我们都是傻蛋。</p>
-<p>lujiakun：呸！呸！呸呸！</p>
-<p>南八好男儿：真不怕下地狱。</p>
-<p>：飞盘接得，飞翔也接得，不愧胡编。</p>
-<p>恒昌聚鑫：唯一阻止的，是真相吧。</p>
-<p>vanvanbest：说的太含蓄了，我帮着捋一捋，意思就是，1.西方的确强势，不这么搞扛不住。但我们不去探讨为什么强势，归结为阴谋。2.争取时间让官员能转移财产，否则人民一旦开明智，麻烦大了，参见卡梅隆。3.官员子女去国外接受西方文明就算了，就是欺负你们不会翻墙看不懂英文的！</p>
-<p>我叫钟勤0：不过是党的遮羞布罢了。</p>
-<p>一刀倾城的美好生活08376：拿马巴是个什么鬼？小胡？</p>
-<p>铁锁星桥：有了防火墙，很多人民就不知道他们在国外藏了多少钱呀！至少皇帝的新衣还可以再穿一穿！</p>
-<p>柯小达达：外面的世界这么吓人，还把长公主送出去，佩服佩服！</p>
-<p>老猪11918：我是做外贸的，很多有用的网站都屏蔽了。我要找一个外国的送货地址，上谷歌地图就上不了。很恼火。</p>
-<p>施元庆：胡编，所有的长城都不是主动废弃的，而是被外部势力以更强大压力碾压过后、作用全失、不得已放弃的，你说长城必定荒废究竟是什么居心[偷笑]</p>
-<p>张佐乐在路上：总是喜欢把政府凌驾于国家之上，我到死都爱我的国家，但爱不爱政府 爱不爱D 你做的好我就爱，你做的不好，爱你妹。</p>
-<p>牧歌__2012：也就是说墙始终是要倒的，只是在倒塌之前当局先做好逃离的准备而已！</p>
-<p>雕刻时光21克：防民墙。</p>
-<p>江南梁柏梧：西方搞互联网，咱就搞互不联网。决不搞西方那一套！咱每年还要举行一次世界互不联网大会。</p>
-<p>智慧长者：你们拥有多种自信，掌握宇宙真理，精通政治绝技，在现实面前咋么那么虚弱哪？</p>
-<p>小马哥20111888：我们有三个自信，不需要防火墙。</p>
-<p>二横7号：还是这届人民思想觉悟不行，无法自主抵抗完我之心不死的敌对势力的圈套，得由胡总这样洞若观火的专业人士为我们点拨。</p>
-<p>Global：防火墙是我党的遮羞布，或者黑夜下的蒙面巾。</p>
-<p>还是大牛牛：报告领导。。胡编说谎。。。因为他说。。没人喜欢“防火墙”。。</p>
-<p>武康路的花园：对于西方的意识形态，只要有利于一党专制的就是好的，应该拿来用，比如苏联的。只要不利于一党专制的都是敌对的，都要堵，比如欧美的。</p>
-<p>往复：胡锡进说：互联网发端于西方，它本身“内置”“自带”了西方的意识形态秩序和规则。今后大家汽车也不要开了，飞机也不要坐了，这些交通工具发端于西方，内置了西方的意识形态秩序和规则。[哈哈]马克思主义也不要坚持了，因为马克思主义发端于西方，内置了西方的意识形态秩序和规则。[哈哈]</p>
-<p>蔣智勇：对中国有害的信息还是对政府有害的信息？</p>
-<p>Romanc3_Dawn：防火墙不也起源于西方么？</p>
-<p>唐seng洗头用漂柔：社会主义国家都是这副熊样！看看世界上这几个社会主义国家有几个拿得出手的？没见社会主义哪里好，只知道都是独裁，腐败，无人权，无平等！无选票！</p>
-<p>同桌的香水味：中国最大最严重的社会问题就是民与官的信任问题，中国一直不透明，腐败甚至有些方面经常受到西方国家的指责不是没根据的。以至于现在政府说真的民众不信，假的民众也不信最终导致民与官的对抗。</p>
-<p>跟风看景：他其实只想说一句话“没人喜欢防火墙”，但是他不敢说，所以后面缀了许多无用的屁话，目的是逃避责任，如果他真的认为防火墙有作用，就不会说我也不喜欢防火墙了，懂不，说明什么呢，说明胡总是条油条//@北村: 胡总的标志性句式：虽然……但是……</p>
-<p>西门郊外大官人：防火墙的实质是防人民。</p>
-<p>tomas狂想曲：网络筑墙、微博删帖，这种掩耳盗铃式的蔽塞民众视听的蠢行，只能说明一个事实：如果没有见不得人的龌龊勾当，为何要“修墙”“禁言”！民众有足够的智慧辨析国外媒介说的真假对错，难道我们看什么、学什么、想什么，都要靠一个没有胆量让民众看见事实真相的党和政府来决定！这本身就很好的说明了一切！</p>
-<p>若愚24633：接飞盘的，历史会记下你说的话，人在做，天在看。//@北村: 胡总的标志性句式：虽然……但是……</p>
-<p>蓝天的想：“在今天的中国有正面作用”这一句暴露了胡编的真实意思，民主了的中国防火墙就是负面作用了</p>
-<p>金楠街人：胡编的造句格式先哼哈然后论证“但是”的重要性，似乎两边讨好，实际在贩卖“但是”</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.21-PM.png?resize=549%2C321" alt="Screen Shot 2016-05-11 at 5.55.21 PM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.21-PM.png?resize=300%2C175 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.21-PM.png?resize=768%2C449 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.21-PM.png?resize=1024%2C598 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-11-at-5.55.21-PM.png?w=1198 1198w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>锅铲玲玲妻：今天做的这事之人，日后必为民族罪人!</p>
-<p>甄瑞英：我最佩服胡总的一点就是，背万世唾骂，享半生荣华。</p>
-<p>洲长叔叔：胡长老，快收了神通吧！你的盘子丢了？没接住啊。</p>
-<p>开心测谎仪：拿钱发贴，这用在胡编身上最恰当不过了。</p>
-<p>柳升9561：愚民墙可以挡住那千军万马，比如最近的那个吧拉马！</p>
-<p>红尘客栈-原罪：航海时代封海，互联网时代封网。嗯，这就是这个民族的命运。</p>
-<p>一峰不在1989：党有多久，墙就有多久。这是我对墙的的完整看法。</p>
-<p>广西你大爷：这个party，这个制度，随随便便，三言两语就能被颠覆。</p>
-<p>08_县长：我非常关心一件事：你和你背后的那个东西啥时完蛋！</p>
-<p>廖睿：“防火墙”必须搞万万年，否则象“运河”那样的事怎么面对？</p>
-<p>湖南光哥：推到这无官不贪，无处申冤，无法无天的体制！</p>
-<p>物理的知识巅峰：YouTube上很多被删的屏蔽的视频让我知道了中国某政党执政期间的事情，和一些偷拍的视频。 哎，生于不义，死于耻辱。</p>
-<p>昵称被抢的小册子：造纸和印刷术还是我们发明，内置自带东方意识形态的呢，咋书也没少禁？</p>
-<p>我只说两句话：胡总，，这个墙越来越高越来越结实，会倒么？</p>
-<p>Jimmy-Lee88：防火墙垮塌之日，即乃国庆之日！</p>
-<p>梦东瓜：已截图，待墙倒了后再来看。</p>
-<p>讓思想衝破牢籠:[蜡烛]「王師北定中原日，家祭無忘告乃翁。」</p>
-<hr><p><small>© 中国好网民 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BC%9A%E6%B2%A1%E4%BA%BA%E5%96%9C%E6%AC%A2%E9%98%B2%E7%81%AB%E5%A2%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E7%B2%BE%E9%80%89/?category=18271" rel="tag">胡锡进精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E8%A2%AB%E5%A4%84%E5%88%86/?category=18271" rel="tag">胡锡进被处分</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -806,7 +742,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -816,5 +752,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

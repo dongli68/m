@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,54 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%B8%AF%E5%8D%83%E4%BD%99%E8%AD%A6%E5%AF%9F%E5%BC%AF%E8%85%B0%E7%B2%98%E5%9C%B0%E7%A0%96-%E8%BF%8E%E6%8E%A5%E5%BC%A0%E5%BE%B7%E6%B1%9F/" target="cdt-mirror">美国之音｜港千余警察弯腰粘地砖 迎接张德江</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/02/%E5%BC%A0%E5%BE%90%E8%96%84.png" rel="attachment wp-att-382520"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/02/%E5%BC%A0%E5%BE%90%E8%96%84.png?resize=575%2C320" alt="张徐薄" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/02/张徐薄.png?resize=300%2C167 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/02/张徐薄.png?w=854 854w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>八一电影制片厂拍摄的《建国60周年国庆阅兵》画面截图</span></p>
+<p>上千名香港警察据报道正忙着粘地砖，以迎接中国领导人张德江的来访。今年年初香港旺角夜市发生“鱼蛋革命”，参与者用地砖做武器攻击香港警方。港媒报道称，粘地砖是为保证中国领导人的安全，避免再次发生“砸砖头”的混乱场景。</p>
+<p>中共中央政治局常委、全国人大常委会委员长张德江预计将于5月17日至19日赴香港，出席“一带一路”高峰论坛。为了迎接张德江的来访，香港当局动员千余警察粘补街道两旁的地砖。香港律师、公民党党员郭荣铿对媒体说：“粘地砖的行为明显是为了迎接张德江的来访。他们显然担心发生暴乱，就像旺角发生的扔砖头的事情。”</p>
+<p>据悉，张德江在港期间，所有的抗议活动均被禁止，同时有六千名警察在值。</p>
+<p>据大陆媒体报道，香港特区政府下周三（5月18日）设晚宴欢迎张德江，要求与会者提交相片等个人资料并着正装。填写个人资料的表格会交给警察处确认身份，并交给执法机构或负责保安的部门，用来防止和侦查罪案。公民党、人民力量、工党及新民主同盟都以限制多为由，表明不会出席。</p>
+<p>民建联会务顾问谭耀宗表示，晚宴涉及高级别的中央领导人，个别议员不获邀请，“可能考虑过他们过往行为，认为有些议员不是太适合出席晚宴，为了安全不一定邀请。”</p>
+<p>海外媒体报道，张德江访港期间，可能会遇到民间人权阵线等多个团体示威，要求中央停止干预香港事务。香港保安局长黎栋国5月13日表示，这期间的保安措施可能对市民构成不便。</p>
+<p>民间人权阵线召集人岑子杰对此评论说：“如果张德江先生来到香港，是要了解香港的情况，张德江先生是应该亲自出来接信，警方部署五千警力，将半个湾仔封锁，这个做法我们民阵是不能认同，我不知道 是香港警察自把自为，用这种方式保护张德江先生，还是张德江先生的要求，但我们见到这种将半个湾仔封锁的做法，反而令张德江无法看清香港的现况。”</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E6%B8%AF%E5%8D%83%E4%BD%99%E8%AD%A6%E5%AF%9F%E5%BC%AF%E8%85%B0%E7%B2%98%E5%9C%B0%E7%A0%96-%E8%BF%8E%E6%8E%A5%E5%BC%A0%E5%BE%B7%E6%B1%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E7%99%BD%E7%9A%AE%E4%B9%A6/?category=18271" rel="tag">一国两制白皮书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91%E5%85%AC%E6%8A%95/?category=18271" rel="tag">全民公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA%EF%BD%9C%E9%92%9F%E8%87%AA%E9%B8%A3%EF%BC%9A%E9%9B%B7%E6%B4%8B%E7%9A%84%E6%AD%BB%E8%AE%A9%E6%88%91%E6%83%B3%E8%B5%B7%E4%BA%86%E6%88%91%E8%A2%AB%E7%97%9B%E6%AE%B4/" target="cdt-mirror">凯迪社区｜钟自鸣：雷洋的死让我想起了我被痛殴的一段经历</a>
+</h2>
+<p><p>满满正能量的青年，体制内的精英——雷洋，在警察手里稀里糊涂的死了，他的死不禁让我想起了我自己的一段经历。</p>
+<p>时间应该是99年的秋天，我清楚记得我那次穿的是皮鞋，地点是深圳市福田区的沙尾村，我和我的几个伙伴租住在这里。这天晚上，照例吃完饭打“拖拉机”，打到大概8点钟，几乎不抽烟的我，鬼使神差的想下去买包烟。</p>
+<p>沙尾的房子密密麻麻的，房子与房子之间都是窄窄的巷子，而小店在小巷外头，一条大点的巷子上。小巷里一个人都没有，我悠闲的走着，丝毫也不知道危险就在眼前，虽然在深圳，我们平时很警觉，但是这个时候我可能只是想抽一根烟。</p>
+<p>一出巷子、头还没抬起来，两个大盖帽就拦住了我：暂住证，你的暂住证。我抬眼一看，傻了，一巷子的大盖帽，定睛一看足足有二三十个，我后悔了，我为什么要抽这根烟，我为什么不精神点抬头四处看看。我有点慌了，立马作势掏裤兜，边掏边说，我有暂住证，我有暂住证。</p>
+<p>这时两个女孩撞了过来，她们好像迷迷糊糊的，一看就是新来深圳的，也不知道她们有没有暂住证，后来我被抓了，没看到她们。拦住我的大盖帽转向她俩。我一瞅、机会，立马撒开了腿。</p>
+<p>巷口离我租住的房子大约100米，我是发足狂奔，狂奔的同时我听到后面呼啦啦一片，至少四五个大盖帽跟着我冲了进来，那可能是我一生中跑得最快的一次，最后一步，离大门最后一步，眼看就要跨进大门，后衣领被人抓住了。还是身体不行啊！锻炼太少，我先跑的居然没跑赢。遗憾。</p>
+<p>一个踉跄，将倒未倒之际，肚子上狠狠的挨了一拳，这一拳我刻骨铭心，永世难忘，太痛了，我抱着肚子不由自主地往地上滑。噼里啪啦，头、胸、背，后面的拳头我没什么感觉了，我躺在地上，像个虾米一样卷曲着，拳脚狠狠的击打在我身上，我闭着眼睛，已经感觉不来痛了。</p>
+<p>伙伴们从楼上窗口望下来，他们都不敢下来，我们谁也舍不得去办那一年360元的暂住证。被拖走的一刻，我看到了伙伴们在窗口伸得长长的头，那一夜对于他们来说也是难以忘记的。</p>
+<p>我后来没有大碍，可能是这个卷曲的动作救了我，这个动作让他们没办法继续击打我的前面。十分钟后，我被他们拖走了，当时我穿的皮鞋，皮鞋在拖的过程中都掉了，后来一直到揭阳，我都是赤脚。</p>
+<p>当时我们被抓的人应该是被带到了下沙派出所，在派出所集合后我们又被连夜送到了银湖，然后在银湖的水泥地上我们睡了一夜。那天晚上很奇怪，水泥地应该是很凉的，但是那一夜我把银湖冰凉的水泥地睡得滚烫，到今天我还记得那个滚烫的水泥地，那个感觉。</p>
+<p>第二天一大早，排队，装车，在车上我彻底清醒了，身体也许还有痛的感觉，但是头脑非常的清晰，我发现我的嘴出血了，大腿小腿，胳膊都青了，这大概是昨晚被他们踢的，而肚子、胸部的伤看不出来，头与后背看不见。</p>
+<p>到揭阳应该是中午，不知那是揭阳的什么地方，应该是收容所吧，或者拘留所，铁门铁栅栏，虽然没进过监狱，但那感觉就是监狱。送我们来的车是一种黄色的带铁栅栏的老式大巴，大概有四辆，从车上人群的交谈看，这次送去揭阳的不都是没有暂住证的，有些是香港遣返的，有些是小偷小摸的，还有些是犯了其它事的。</p>
+<p>我们一车人关在两个监室里，很快香港遣返的几个男男女女走了，他们很轻松，应该是常客，对他们、负责管理的大盖帽态度也较好，不过对我们就不那么客气了，有一个男孩，大概十七八岁，个头挺小，不知道是吃中午饭的时候笑了一下还是说了一句，（中午饭，铁碗，几根干萝卜，半碗米饭），被这个管理人员看到了，他把他叫了过去，我们在监室里隔着栏杆看着，他让男孩脱掉鞋子，然后拿一根棍子敲他的脚，先是蹲在敲，后来站在敲，敲得那个男孩就像热锅上乱蹦的虾，边蹦边哭，而他边敲边看男孩的表情，那个样子好像感觉很过瘾，有点像做爱中的表情。</p>
+<p>对于那个警察我很长时间不能理解，为什么折磨别人，他会有那种魔幻性的笑容，那样享受的表情，我想起了一些顽皮小男孩在玩他抓的甲壳虫时，弄掉甲壳虫的脚，再让甲壳虫在地上爬，然后的表情。</p>
+<p>现代医学说，很多人都有心理疾病，以前我不能理解，现在我终于明白了一些，那么在中国是哪个人群心理疾病最严重呢？这个好像医学上没有说，不过就我个人感觉，警察群体好像蛮严重的。</p>
+<p>感谢我的伙伴顾国栋先生（今天的果楞法师），在第二天上午赶到了揭阳，花了400元赎金把我赎了出来，感谢我的其他的伙伴，这个时候他们已经离开了深圳，在广州等着我会合。在揭阳只过了一夜是我不幸中的万幸，感谢伙伴们！</p>
+<p>这是我一段难忘的经历，让我经历了痛苦，也让我感受到了友情，友情无价，永世难忘。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA%EF%BD%9C%E9%92%9F%E8%87%AA%E9%B8%A3%EF%BC%9A%E9%9B%B7%E6%B4%8B%E7%9A%84%E6%AD%BB%E8%AE%A9%E6%88%91%E6%83%B3%E8%B5%B7%E4%BA%86%E6%88%91%E8%A2%AB%E7%97%9B%E6%AE%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E7%B1%8D%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">户籍制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%82%E4%BD%8F%E8%AF%81/?category=18271" rel="tag">暂住证</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E9%9D%A9%E4%B8%AD%E7%9A%84%E6%96%97%E4%B8%8E%E6%89%B9%EF%BC%9A%E9%92%B1%E9%92%A2%E8%80%81%E5%B8%88%E8%AF%BE%E4%B8%8A%E7%9A%84%E7%94%9F%E6%97%A5%E6%8A%A5/" target="cdt-mirror">刘释予｜文革中的“斗”与“批”：钱钢老师课上的生日报㊱</a>
 </h2>
 <p><p>文／刘释予</p>
@@ -661,76 +706,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E4%B8%89%E5%A8%83%EF%BC%9A%E8%A2%AB%E4%BE%BF%E8%A1%A3%E5%BD%93%E8%A1%97%E6%8A%93%E8%B5%B0%E4%B9%8B%E5%88%9D%E4%BD%93%E9%AA%8C/" target="cdt-mirror">简书｜文三娃：被便衣当街抓走之初体验</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg" rel="attachment wp-att-437591"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg?resize=358%2C314" alt="2033943-74d664833e134511" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg?resize=300%2C263 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2033943-74d664833e134511.jpg?w=358 358w" sizes="(max-width: 358px) 100vw, 358px" data-recalc-dims="1"></a></p>
-<p><b>曾有所谓体面工作，有脉络清晰，自认合法的私人和公共生活，也被莫名其妙关押过83天。没有任何机构，任何人，哪怕是ISIS，声称对此负责。这种特别随机的不安全感，像是喝了过量的咖啡后的心悸，只好再借酒壮胆，暂时抵挡住恐惧。</b></p>
-<p><b> 2016年5月7日，北京籍湖南青年雷某在去首都机场接人过程中被昌平警方以涉嫌非法性交易采取强制措施，在被羁押期间死亡。</b></p>
-<p>雷某是被“便衣警察”当街掳走的。</p>
-<p>5年前的4月3日，和雷某的经历类似，我也被北京的“便衣警察”从街头绑架，塞进了一辆“便衣警车”。</p>
-<p>不尽相同的细节包括但不限于：雷某独自一人，我是与未婚妻同行；雷某被塞进车前大声求救，我根本来不及说一句话就已经被装车黑头套了；雷某有警方指控的“违法行为”，警方到现在都没有透露为什么会抓我；雷某是否挨打，警方没有说明或者还未承认，我是挨打了；雷某死了，我还活着。</p>
-<p>我的个人体验是：会不会被警察抓，警方会不会告诉你被抓的原因，被抓后会不会挨打，挨打后会不会有生命危险，其实都蛮随机的。<br><span>_______________________________________________</span></p>
-<p><strong>抓捕我的过程是这样的。</strong></p>
-<p>这天中午，我和未婚妻走在北京五元桥附近的一条街道上，大约5、6名壮汉悄然欺身，形成合围之势。</p>
-<p>后来才知道，这些掳我、打我、审我的“警察”，好些是从北京体育大学、北京体育师范学院（现名首都体育学院）引进的。</p>
-<p>他们平均身高1米8左右，神情中洋溢着体育生的气质：入伍能进仪仗队，从警能慑嫌疑人。</p>
-<p>其中一位中年壮汉身材略矮，显然是这群人的头儿，或者说，警长。</p>
-<p>中年人几乎跟我在耳语，大意是我的车剐蹭了他们的车跑了。</p>
-<p>与此同时，妻子已经被挡开，我的胳膊被架了起来，意识开始模糊，隐约能看见不远处，候着一辆深色的别克商务车。（一点小感想：抓我的警察蛮专业，无声无息就把人掳走了，雷某能对着行人喊救命，我想在警方的内部总结里，这个环节一定会被判为败笔。）</p>
-<p>这群大汉抓着1米59的我，怕是轻松得像拎着一件衣服。</p>
-<p>车门关上前，我甚至没有机会、或者是还没反应过来，像29岁的雷某那样对着路人喊救命。</p>
-<p>关门一刹那，我看见妻子发疯似的想拽住车门。</p>
-<p>门一关，当脸吃了一拳，眼镜飞开，眼前一暗，头被罩住了。</p>
-<p>头套的材质还能记得，遮光效果好好啊。</p>
-<p>90年代在中国新闻学院读书时上过摄影课，嗯，就是那种为冲洗胶片准备的暗房袋。</p>
-<p>暴打一顿后，被扔进了一个房间，再离开这个挂着厚窗帘的小屋子，是快三个月之后了。<br><span>_______________________________________________</span></p>
-<p>这期间没人再打我，但规矩不少，单手铐在一张圈椅上，睡觉不能取，上洗手间得自己抓着椅子，一点一点挪过去，对了，还不能洗澡，从早春到仲夏，房间里郁积的味道……每每看到换班进来的看守脸上表现出来的厌恶，我大约会自动回应一个“实在抱歉”的表情。</p>
-<p>对于“请通知我的家属”这个诉求，从头至尾没有得到回应。</p>
-<p>后来才知道，我的家人们在那段时间里跑了很多很多地方，去了我消失前那个街区的派出所和我居住地的派出所，都报过失踪，但警方均不立案，也拒绝提供其它任何形式的帮助。</p>
-<p>父亲写了申诉信，还去了市局、市政府上访，以至于上了维稳名册，此后好几年，他每次住宾馆，登记完身份证后，警察很快就会赶到现场。</p>
-<p>我有生以来觉得最对不起父母的，就是这件事。</p>
-<p>抓的时候没有任何法律文书，放的时候，也一样。</p>
-<p>但放我的前提是：得写一份保证书。内容大约是承诺与XXX，XXX等断绝关系，保证不向外界透露被关押过的任何信息等，还按了手印。</p>
-<p>直到现在，我仍这么想：能用检讨书换来和家人重逢的机会，就是写一百份，我也愿意。</p>
-<p>在被关押期间，我一度特别想让自己的“罪名”给确定下来，按法律程序被送进看守所，这样就有了见到律师和家人的一线希望。</p>
-<p>但我连名义上的“犯罪嫌疑人”都没能当上。</p>
-<p>一位美国记者曾问我，是否觉得自己算dissident。</p>
-<p>这是一个很难回答的问题。</p>
-<p>对dissident 的定义，最常见的是在政治范畴，我个人更愿意去分析它的哲学意味。</p>
-<p>毕竟在中国大陆，它可以有多种解释，但却唯独不是一个具有法律意义的名词。</p>
-<p>其实，我是特别想它被法律化、制度化、规范化。</p>
-<p>比如，“赵国”、“赵家人”这些概念，提一次，关一天，提两次，关两天，以此类推；将包子拟人化的，10天起。</p>
-<p>有了具体的规则或者法条，处罚起来有据可依，被处罚者也就没了喊冤的理由。</p>
-<p>那个恨不得把名片印上“早发早移”口号却一直没移的专栏作家贾葭，从3月18日起，一度从家人朋友的视线里消失。</p>
-<p>一位叫“思乐”的网友，在3月19日写了这篇叫《<a href="http://hk.on.cc/cn/bkn/cnt/commentary/20160319/bkncn-20160319000320548-0319_05411_001_cn.html" target="_blank">家人“被失踪”？24小时后可以做什么</a>》的文章 。</p>
-<p>这篇文章很快就不见于墙内。</p>
-<p>4月份朋友圈转发的这篇文章，我也觉得蛮生活指南的。</p>
-<p><a href="https://mp.weixin.qq.com/s?__biz=MzAxNzA4MjYyMQ==&mid=2660218412&idx=1&sn=b3b6a310b15e6f4cb444eb1307206efc&scene=1&srcid=05113gajkKebe0I48KTXPovW&pass_ticket=4KHswFByr13jJMDSXrEWwni2W7zu2hWt3rx9rAuvXwVhxTYN8HWdiUhobwRf%2B9Aa#rd" target="_blank">“开门，我是警察”，这时他做了22件事</a></p>
-<p>我觉得这些文章都应该收录进大陆知识分子家属生活手册。</p>
-<p>它们不但详述了法律程序ABC,更重要的是，它亦讲述了在某些情况下，“臭老九”的家属应该如何面对黑洞一样的未知。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%87%E4%B8%89%E5%A8%83%EF%BC%9A%E8%A2%AB%E4%BE%BF%E8%A1%A3%E5%BD%93%E8%A1%97%E6%8A%93%E8%B5%B0%E4%B9%8B%E5%88%9D%E4%BD%93%E9%AA%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%BF%E8%A1%A3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">便衣警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%9B%B7%E6%B4%8B%E5%AE%B6%E5%B1%9E%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%AD%A6%E6%96%B9%E7%9A%84%E5%81%9A%E6%B3%95%E6%98%AF%E5%9C%A8%E6%B7%B7%E6%B7%86%E8%A7%86%E5%90%AC/" target="cdt-mirror">凤凰网｜雷洋家属发表声明：警方的做法是在混淆视听</a>
-</h2>
-<p><p>今日晚间，雷洋同学代表雷洋家属向媒体发表声明，抗议警方对外发布信息。雷洋家属认为，警方所发布的信息是在故意混淆视听，强调关注重点应当放在案情本身。</p>
-<p>雷洋家属告诉凤凰网，对于案情的核心部分，比如雷洋究竟如何死亡，警方始终没有做出正面回应。</p>
-<p>今日凌晨，昌平警方发布第二次案情通报，并接受电视台采访。另一方面，被公安带走的一位足浴店工作的女性接受电视台采访，承认雷洋接受其性服务。</p>
-<p>律师陈有西认为，雷洋案中几位警察涉嫌职务犯罪，警方应当回避。“必须要有一个第三方来独立调查这件事。”</p>
-<p>（凤凰网/朱诗琦）</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%9B%B7%E6%B4%8B%E5%AE%B6%E5%B1%9E%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%EF%BC%9A%E8%AD%A6%E6%96%B9%E7%9A%84%E5%81%9A%E6%B3%95%E6%98%AF%E5%9C%A8%E6%B7%B7%E6%B7%86%E8%A7%86%E5%90%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -742,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -752,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

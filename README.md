@@ -21,9 +21,59 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E8%AE%A9%E6%B1%9F%E8%8B%8F%E6%8D%90%E7%B2%BE-%E4%B8%8D%E5%A6%82%E7%BB%99%E8%A5%BF%E9%83%A8%E5%A3%AE%E9%98%B3/" target="cdt-mirror">导弹熊 | 让江苏捐精  不如给西部壮阳</a>
+</h2>
+<p><p>为了高考名额的事情，江苏湖北一片哭爹喊娘。不，准确地说是一片爹哭娘喊。</p>
+<p>政策这个东西，从庙堂到草泽，要软着陆，要有降落伞，不能duang地一声，鸡飞狗跳、泥水四溅。</p>
+<p>政策这个东西，要像蒸汽熨斗，把民意褶皱给弄平展了，而不是像蒸汽，造成新的抽巴。</p>
+<p>政策这个东西，交给老百姓的时候，要打磨一下，别带着倒刺钉子就往怀里杵。</p>
+<p>中国人，尤其是计划生育以来生了独苗苗的这一代，啥都可以将就，唯独不能容忍一切可能伤及他家娃的事情。高考虽然有些毛病，但依然是迄今为止寒门子弟可以靠自身实力改变命运的最不坏的办法。任何在这条路上安置路障，或疑似安置路障的做法，都可能招致老百姓豁出来斗。</p>
+<p>从官方表态来看，苏鄂填西部，这个点子肯定不是教育部几个头儿玩骰子玩出来的。数据表明，江苏高考实际报考人数在逐年下降，因为有不少孩子选择去国外读书，这是和江苏的发达程度匹配的。这部分空出来的名额，似乎可以转移给西部，算是损有余以补不足。</p>
+<p>再就是地方解释说：中国高等教育体系庞杂，一省之内，既有中央军，又有地方军，中央军和地方军内部，又有甲种乙种之分，还有本科专科之别，以及方兴未艾的职业教育，最近一些年还有民营团练加入，考虑到学生本身也是未必都要入太学做翰林，其实执行起来还是有腾挪空间的。这头切割，那头补充，两相抵消，能量守恒，本地没有显著的损失。</p>
+<p>我也相信这么大一个动作，一定会有补偿机制，不太会明显地伤害地方。</p>
+<p>可老百姓不是教育专家，也不是统计局干部，他们没有那么精细的数据，只有一个简单的认识：大学就那么多，升学率差不多就那个水平，招生量也有天花板，我这里切走一块，不就意味着每个人上榜的概率降低了吗？</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-14-at-%E4%B8%8B%E5%8D%882.37.50.png?resize=347%2C693" alt="Screen Shot 2016-05-14 at 下午2.37.50" data-recalc-dims="1"><br><span>（图片由CDT编辑添加 来自网络）</span></p>
+<p>江苏古来多进士，湖北高考甲天下，惟其如此，内部竞争也格外激烈。江苏湖北又不是京兆，两地学子拼死拼活上三本的成绩，北京孩子拿着就能进清华。此种内部不易和外部不公本来就积淀深厚腹诽，现在又要做出头鸟，爹妈们焉能不急。</p>
+<p>在衙门里定政策，在公文上出政策，面对市场意识，孤行计划之道，一切看上去很美好，唯独不顾及老百姓的感受，没有跟民间商量的意思，结果风声一出，立刻遭到阻击，理固宜然。照例，谣言和阴谋论雨后春笋，秀才们甚至一直把账算到了科举时代。</p>
+<p>用名额支援西部建设的想法很美好，体现出这个国家对发展均衡的追求，只不过目前还没有摧枯拉朽以实现彻底公平的魄力和能量，所以只好在现状上修修补补。或者用这些年耳朵都磨出老茧的话来说：当国家没有办法大刀阔斧地平衡配置教育资源时，就只好拿出江苏湖北贴补西部这种救济性办法。</p>
+<p>甚至说得更严重一些：教育领域里的资源不均和利益分割如此强固，以至于国家都很难矫正。而之所以如此，从根子上讲，是因为国家就是这种格局的设计者，掌握教育决策权的人本身就是这种格局的既得利益者。</p>
+<p>往深处说：我们虽然处在21世纪，号称现代国家，而且有统一的大市场，但实际上公民还是被种种绳索束缚住，而其中最粗大的一根就是户籍制度。户籍制度是高考改革最大的桎梏，它迟缓的改革进程注定未来若干届高中毕业生只能在出生地高考，而无法因为自己优秀、父母打拼、依法纳税而自由选择考场。也正是因为有这样一根救命稻草，优质资源集中地的人们，可以撇开日常挂在嘴上的公平正义，堂而皇之地阻击外来者分一杯羹的诉求。</p>
+<p>江苏这样的地方，很容易面临一种局面，那就是它在户籍制度上没法像北京那样顽固，所以会随着户籍改革而向外来人口让渡本地高考权利，但与此同时又要向遥远西部输送考生名额，相对于北京的双重聚敛，它简直就是双重损失。</p>
+<p>全国一张考卷，只要是学生，住在哪里就在哪里考试，分数线面前八荒平等，所有行政区考生打乱了过筛子，从第一名排到全国招生总量的最后一名，解名尽处是孙山。这样理论上很公平，但在中国行不通。</p>
+<p>北京的孩子，就是要在低分数线上进清华北大，这是一种很霸道的特权，维护者既有权贵，也有寒门，无论你喊得多凶也不肯让步，决死一拼的勇气可观而可怕。</p>
+<p>边疆少数民族地区，若没有现代意义上的羁縻办法，也是有大忧患的，更何况要改变那里不发达的状况，不能不让本土人才繁盛起来，而恶劣的自然条件和落后的经济状况，先天决定了那里不可能和苏湖天堂拼教育。</p>
+<p>还有若干种国家需要照顾和奖掖的人群，还有形形色色的诸如扶贫这样需要国家来还的欠债，还有N多种只有中国才有的微妙平衡与博弈。</p>
+<p>是的，教育从来都是离政治最近的东西，甚至本身就是政治，国情决定了中国教育必然复杂，这块骨头必然难啃，要不你看最强悍的改革者在这个领域里也没有多少大手笔的破立。</p>
+<p>有专家提出，解决东西部招生不均衡和标准不公平，最终还是得靠继续扩招，这其实就是一种做大蛋糕的思路。尽管扩招导致大学教育含金量事实上下降，大学毕业即失业现象跟着扩容，但毕竟比大批青春骚动的孩子在家乡失业好多了，受过高等教育的人总比没有经过这一道的人更容易驾驭。或者说，扩招至少可以将一个孩子的失望推后四年。</p>
+<p>在我看来，与其让江苏湖北捐精，不如给西部大学壮阳。</p>
+<p>国家如果有足够魄力，就不举倾国之力，让西部高校更强大。</p>
+<p>我说这话的前提是我国有集中力量办大事的传统。如果一件事没办好，一定是没有集中力量去办，或者没有像嘴上说的那样用力去办。</p>
+<p>如果把西部发展作为大事，把在西部办一流大学作为大事，那就没有办不成的道理。</p>
+<p>中国大学的校长不是有行政待遇吗？给西部大学校长部长待遇（虽然我很反感校长是官员这种设计）！</p>
+<p>实在不行，教育部可以搬到成都、重庆、兰州、西安或者乌鲁木齐中的任何一地！</p>
+<p>每年的教育经费，别再锦上添花，要大尺度向西部倾斜！</p>
+<p>国家部委和央企优先聘用西部大学毕业生！</p>
+<p>好教授如果在西部大学任教，除了比北上广高很多的薪酬，国家还要奖励别墅、汽车和保姆！</p>
+<p>卓越的研究者和讲课人，搞科研带学生，不考核！</p>
+<p>甚至主管教育的政治局委员可以常驻那里，将办成这样的大学作为在位时的政绩和退位后的遗产。</p>
+<p>国家最高领导人每年专项视察一次！</p>
+<p>当然世界上有另一种创办和运行好大学的逻辑，但既然中国有自己的办学逻辑，那就把这种逻辑的激励效应做到最大，给西部最大限度的领导重视、资金充足、资源丰沛和环境宽松。</p>
+<p>是的，目前西部对好教师和好生源的吸引力肯定不如东部，但我只能说那是诱惑还不足够大，无论从物质还是精神上。</p>
+<p>当年的西南联大，当年的兰州大学，当年的四川大学，都偏居一隅，物质上和今日有云泥之别，可照样生机勃勃、栋梁无数。武汉大学很好，可湖北不算发达地区；山东大学不错，但很长时间这个省的GDP排不到前头。美国的那些好大学，难道都在美国经济最发达的地方？</p>
+<p>国家如果真有这种诚意，舍得给政策，舍得花大钱，舍得架桥铺路，像办特区一样办西部大学，胜算还是有的。一带一路，何如就从一心一意办大学做起？</p>
+<p>更何况网络时代，教育的地域落差是可以通过先进技术弥补的。</p>
+<p>西部有了一流大学，西部的孩子不需要冒着溽热去南方读书，南方的孩子可以不必担心西部同龄人抢他们的蛋糕，他们的爹妈无需跑去跟官员哭天抢地，功德无量啊！</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E8%AE%A9%E6%B1%9F%E8%8B%8F%E6%8D%90%E7%B2%BE-%E4%B8%8D%E5%A6%82%E7%BB%99%E8%A5%BF%E9%83%A8%E5%A3%AE%E9%98%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">教育不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F%E5%87%8F%E6%8B%9B/?category=18271" rel="tag">江苏减招</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">高考改革</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%8E%E5%BB%BA%E5%B5%98%E7%9A%84%E4%B8%9C%E4%B9%A6%E6%88%BF-%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E9%82%A3%E6%97%A5%E6%99%9A%E4%B8%8A%EF%BC%8C%E6%88%91%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93/" target="cdt-mirror">于建嵘的东书房 | 李承鹏：那日晚上，我嫖娼被抓</a>
 </h2>
 <p><p><strong>中国数字时代编辑注：文章作者为李承鹏，“于建嵘的东书房”微信公号授权发布了这篇文章，目前文章已从微信上被删除。</strong></p>
@@ -247,7 +297,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E7%91%9C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">文革50周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E5%8F%91%E4%BA%91/?category=18271" rel="tag">胡发云</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/cnd%E9%AB%98%E8%A5%BF%E5%BA%86%EF%BC%9A%E6%94%BF%E5%BA%9C%E5%B7%B2%E6%94%BE%E5%BC%83%E5%B8%82%E5%9C%BA%E8%B5%B7%E5%86%B3%E5%AE%9A%E4%BD%9C%E7%94%A8%E7%9A%84%E5%8E%9F%E5%88%99/" target="cdt-mirror">CND｜高西庆：政府已放弃市场起决定作用的原则</a>
 </h2>
@@ -284,7 +334,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%A5%BF%E5%BA%86/?category=18271" rel="tag">高西庆</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B1%9F%E8%8B%8F%E6%8A%97%E8%AE%AE%E5%AE%B6%E9%95%BF-%E7%9C%81%E6%94%BF%E5%BA%9C%E5%89%8D%E9%AB%98%E5%96%8A%E7%9C%81%E9%95%BF%E5%87%BA%E6%9D%A5/" target="cdt-mirror">【CDTV】江苏考生家长抗议现场：省政府前高喊“省长出来”</a>
 </h2>
@@ -599,25 +649,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%AF%E4%BC%9F%E6%B1%9F%EF%BC%9A%E8%A6%81%E6%83%B3%E6%88%90%E4%B8%BA%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%AC%AC%E4%BA%8C%EF%BC%8C%E5%BE%88%E9%9A%BE/" target="cdt-mirror">斯伟江：要想成为雷洋案第二，很难</a>
-</h2>
-<p><p>看到有网友说，下一个雷洋，正在路上。这话可能没错，有人说，国人活得苟且，死得莫名。虽然有些极端，但也不是没有一点道理。但，下一个雷洋式遭遇的人，你可能未必会知道，因为未必会引起舆论关注。正如钱云会案，或许是第一起被舆论关注的拆迁引发的死亡案，现在，拆迁死几个人，被当场压死的，压死在教堂下面的，关注度都在下降，盖民众“审冤疲劳”。以前温州於其一双规死了，当时舆论也很关心，现在呢？</p>
-<p>雷洋案引发的广泛关注，可能的原因是，人大留京硕士，初为人父，结婚纪念日，嫖娼、年青力壮等，触动了中产阶级的心中软处。换一个人，或许，也就亲戚或余悲，他人亦已歌，和雷洋生前一样，只关心正能量的事情，对这种阴暗面的负能量，敬而远之。</p>
-<p>现在刑辩律师接受伸冤的案子，或者刑事案子，冤不冤是一个因素，更关键的是，冤得有没有特点？这很类似周星驰电影中，必须互相比惨。冤案或者死亡必须有特点，否则，无法引发媒体关注，更不用说舆论广泛关注。</p>
-<p>那读者一定要问，你为什么要引起舆论关注，你想运用舆论来干涉司法？问这问题的，可能是中国正能量人，也可能是假冒外国宁。为什么，因为，如果雷洋案没有舆论关注，这事很可能就公安下个结论，结案了。死的已经死了，哪怕有嫖娼恶名，而生的亲属，不但要日夜流泪思念失去的亲人，还需背负被人嘲弄的恶名。不会如香港一样，会有一个独立的法庭来调查死因。因为，没有这样的制度。最多是检察院来查查，但检察院、法院、公安，都有一个共同的上级。所以，独立，谈何容易？</p>
-<p>以前温州纪委双规期间死人，开始纪委办案人员（其中有检察官），曾建立攻守联盟，说是死于意外。还删除了录像，（刑讯人员用报纸包住录像头，但现场声音依然在），后来这个事情由于媒体揭露（内媒外媒都有），领导重视，让浙江衢州的公安局来查，公安办案，还是有一手，攻守联盟被攻破，删除的录像被恢复，事情真相就被查实，作恶的最重判十几年徒刑。如果没有异地指定办案，恐怕於其一也是死于意外了。可见，虽然没有完全独立的调查，但领导的意志下，要相对独立，也还是有空间，但关键在哪里？在领导想不想独立调查。</p>
-<p>领导想不想，首先领导得知道这个事情，领导日理万机，要想他们知道这个事情，只能通过内部汇报或者外部舆论关注，因此，舆论是和奏折一样重要的渠道。很多冤案受害人希望领导知道，但要知道，天意从来高难问。其次，领导知悉了，还需要权衡，是留中不发，还是朱笔批注，领导还要看事情够不够大，会不会影响体制内强力部门的士气，国内外恶劣影响等等，或者，领导心里也有柔软处被打动，当然，最后一点要运气极好。因为一般来说，如礼记所说，喜怒哀乐之未发谓之中，发而皆中节谓之和。领导肯定到最高境界：致中和，没有柔软处。</p>
-<p>不同的制度下，都会有雷洋这样警察执法时死的情况，检验制度高下的，是不管有没有舆论关注，制度是否能独立公正调查，运作，即便独立调查，也会有错，这点我们必须承认。因为人不是神，不可能如传说中的一样，下到阴间查案，但独立的调查，至少可以找到现场能发现的证据，手机视频被删了，能否恢复，执法时拍照的录像能否找到，街头的录像能否找到，办案人员分别询问等，其中是否有矛盾？而不是立马安排警察上电视。一句话，就是要有公信力的调查，公信力，是靠公正独立的制度，以及一个个案子来建立的。正如做人的信誉一样，不靠自己说不说，而靠别人认不认。</p>
-<p>目前的司法制度，个人觉得，仍然是以侦查为中心，做菜、端菜、吃菜的流程，依然存在。因为抓人无需法院审批，警察、检察官、纪委各自都可以抓人，证人也很少出庭。所谓以审判为中心，只是一种良好的愿望，和一些法律人舞弄的辞藻。所以，个人认为，目前依法办案，关键是靠办案机关自我歉抑，以及领导、办案人员的素质，要靠互相制衡的，除非弄出大动静来。一旦素质不高的人来操作，意外难免发生。</p>
-<p>因此，要想成为雷洋案第二，成为公共事件，那天和朋友聊天，都说，除非下一个受害者是北大学生、年青女性等等，更吸引眼球的事件，而且还要看天意，后者更关键。否则，下一个雷洋，怕是很难变成雷洋案。当然，我们这样说是很不厚道的，希望上帝和读者原谅我们。但客观而已，惨剧，不管什么制度下，都可能发生，但事后一个公正、独立的调查制度，给一个说法，却是需要大多数民众有态度：不苟且，才能不枉死。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%AF%E4%BC%9F%E6%B1%9F%EF%BC%9A%E8%A6%81%E6%83%B3%E6%88%90%E4%B8%BA%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%AC%AC%E4%BA%8C%EF%BC%8C%E5%BE%88%E9%9A%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%B1%E4%BA%91%E4%BC%9A/?category=18271" rel="tag">钱云会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -629,7 +660,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -639,5 +670,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

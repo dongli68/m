@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,72 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%88%98%E7%91%9C%EF%BC%9A%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%85%B3%E4%BA%8E%E6%B6%88%E8%B4%B9%E6%AD%BB%E8%80%85/" target="cdt-mirror">微思客 | 刘瑜：雷洋事件，关于“消费死者”</a>
+</h2>
+<p><p>作者：刘瑜，清华大学人文社会科学学院政治学系副教授</p>
+<p>把公众对一个普通人非正常死亡的追问说成是“消费死者”，没有比这更混乱的了。由于信息不对称，追问过程中必然会有各种猜测，而这些猜测很可能被后者更多资料的涌现推翻，把这种猜测过程中的错误称为“妄想”，继而把一些猜测的被推翻称为“打脸”，也没有比这更“贱民”的心态了。</p>
+<p>只要参与讨论的人不是刻意造谣传谣，所有“恶猜公权”的行为都是公民的基本权利，而且是“建设性行为”——它推动政府公布更多资料，并启动公正的调查程序。由于警察一开始垄断绝大多数相关信息，甚至不排除刻意隐瞒、操控信息，没有理由苛求民众所有的猜测都是准确无误的；由于权力机构垄断所有的合法暴力，公众舆论是弱者最后的武器——在一个警察经常滥用权力，又缺乏具有公信力第三方权威机构的国家，尤其如此。</p>
+<p>就算最后证明雷洋的确嫖娼了，的确死于心脏病，推动这一调查的大讨论依然是有意义的，因为舆论压力是推动这一调查过程启动，敦促其公正性和透明性的重要条件。就像一个孩子在父母监督下做好了作业，你不能拿着做好的作业说“你看，我说了这个孩子会做好作业的吧，你还在旁边虎视眈眈什么！”做好作业是虎视眈眈的结果，不是一个自发自然的过程。如果雷案从一开始大家都完全不发声，抱着“相信警察”、漠不关心的态度，相关机构会进行同样充分的调查、采用同样谦卑的姿态、做同样严谨的交代？</p>
+<p>此外，这类讨论具有长期的“外部性”。从一开始，人们的讨论就不仅仅是出于对雷洋个人的关心，而是对警察权力滥用的担忧。从这个意义上讲，相关讨论带来：第一，普法，比如对警察何时可以强制带人、何时必须出示证件这些问题，大讨论有助于传播相关知识；第二，督促警察严格依法执法，尽量带执法记录仪，需“合理盘查”而不是任意盘查等等，这样的大讨论给基层警察敲响警钟，兴许以后可以因此少死几个张洋李洋，或少几个挨打；第三，促进警民冲突案发后矛盾解决的程序意识——及时的第三方引入，对证据证人的隔离与保护等等。一个法律知识更普及、警察更审慎和冲突解决程序更公正的体制，每个人包括警察自身都是受益者。</p>
+<p>由于信息关注焦点不同，更倾向于相信官方说法，为警察说话，完全也应得到尊重。但是，认为别人的质疑都是在“消费死者”，把信息不充分情形下的推测都视为“妄想”，实际上就是要求民众把任何警民冲突的处置权交给黑箱，大家只需在黑箱外沉默等待。说到底，警察是合法掌握杀人武器的人，作为手无寸铁的普通人，对其进行最严苛的追问又何妨？而舆论永远只是一个自我过滤、时时更新、四分五裂的场域，又何以要求其中句句是真理、人人永远正确？</p>
+<p>这不仅仅是针对这一件事情的看法。每次出现针对类似事件的讨论，总有人以人为制造的信息短缺作为自我禁言的依据，却不去思考这种信息短缺本身何以形成；又总有人以悲剧人物“不应被再次惊扰”为由抗拒公共讨论，仿佛警民冲突中的非正常死亡真的仅仅是一个“私人事件”。于是，整个社会以“审慎”的名义沉默，以“同情”的名义冷漠，仿佛权力机构可以在不受任何公众监督的情况下完美行事，而民众在信息和权利短缺中的任何不完美的言论都不可原谅。难以想象一个永远在被动等待公正的社会会得到公正，难以想象只要鸵鸟把头埋在沙子里时间足够长，再抬起头来的时候身边的沙漠就会变成绿洲。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%88%98%E7%91%9C%EF%BC%9A%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%85%B3%E4%BA%8E%E6%B6%88%E8%B4%B9%E6%AD%BB%E8%80%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E7%91%9C/?category=18271" rel="tag">刘瑜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B3%95%E5%B9%BF-%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%A2%AB%E7%BF%BB%E8%80%81%E8%B4%A6-%E9%9A%90%E7%9E%92%E5%B9%BF%E4%B8%9C%E9%9D%9E%E5%85%B8%E7%B4%AF299%E6%B8%AF%E4%BA%BA%E9%80%81%E5%91%BD/" target="cdt-mirror">法广 | 张德江被翻老账 隐瞒广东非典累299港人送命</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-14-at-%E4%B8%8B%E5%8D%887.21.39.png?resize=600%2C344" alt="Screen Shot 2016-05-14 at 下午7.21.39" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-14-at-下午7.21.39.png?resize=300%2C172 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-14-at-下午7.21.39.png?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>即将在下周访港的全国人大委员长张德江被翻老账，有网民揭发2003年广东首发非典（又称沙士）病例及后传染香港，时任广东省委书记张德江决定隐瞒疫情，最终致使香港299人病亡，包括8名医护人员殉职，而适逢其中一名殉职医生、“香港女儿”谢婉雯昨逝世13周年，受到大批网民悼念，张德江涉嫌“害死人”却反而步步高升。</p>
+<p>张德江订于下周二至四访港，出席一带一路论坛。有网民昨在facebook撰文，提及广东省省委在2003年涉隐瞒内地沙士疫情，令香港未能及时防范，张德江正是当年广东省委书记，帖文被分享至facebook专页“今日香港”，张被批是疫情恶化的罪魁祸首之一。</p>
+<p>张德江访港前夕，5月13日碰巧是因治疗非典而牺牲了性命的香港女医生谢婉雯逝世13周年，谢葬于殉职公务员浩园的坟前，摆放了不少鲜花。网民在追悼谢医生之余，不忘批评隐瞒疫情的张德江。</p>
+<p>本身是医生的立法会议员郭家麒亦对事件感受甚深，“谢婉雯当年主动进入去屯门医院深切治疗部照顾病人，这种精神所有香港人都不会忘记”。他指张德江当年隐暪疫情，“染满鲜血的国家领导人，现在就扶摇直上，很讽刺，政府还要用大量警力去招呼他”。他相信事件势令民怨升温，又指以往政府亦会悼念殉职医护人员，但近年似刻意淡忘事件，质疑与内地官员有关，但他不会出席与张会面的活动，故无法向他转达市民感受。</p>
+<p>另一将会与张德江会面的立法会议员李国麟本身是护士，他指自己尊重殉职医护人员，但认为事件与张访港关系不大，故不打算在与张会面的酒会上有任何行动。</p>
+<p>2003年张德江为中共政治局委员兼广东省委书记，其时广东发生非典型肺炎疫情，大批患者死亡，但张德江压住不公开，又禁止传媒报道，导致疫情向各地特别是香港蔓延爆发，仅香港就有299人染疫身亡。</p>
+<p>非典最早于2002年12月在广州出现，当地医院出现一种类似肺炎的怪病，有传医院陆续有患者因染疫不治，且会人传人；民间出现恐慌，并传煲醋和喝板蓝根可预防。但广东省委、省政府一直无发布相关消息，传张德江下令禁止广东媒体报道疫情，并切断香港电视台有关报道。</p>
+<p>到2003年2月初，疫情波及内地多个省市，北京陆续有人不治身亡，广东当局才开始公布疫情，但每次都称已受控制。3月初全国两会，南方都市报采访与会的衞生部长和广州呼吸科名医钟南山，表示疫情仍未受控，传张德江十分恼怒，批示处分记者及编辑。 </p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B3%95%E5%B9%BF-%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%A2%AB%E7%BF%BB%E8%80%81%E8%B4%A6-%E9%9A%90%E7%9E%92%E5%B9%BF%E4%B8%9C%E9%9D%9E%E5%85%B8%E7%B4%AF299%E6%B8%AF%E4%BA%BA%E9%80%81%E5%91%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF/?category=18271" rel="tag">2016张德江访港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E5%85%B8/?category=18271" rel="tag">非典</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%86%85%E5%9C%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">香港内地关系</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B7%B1%E5%9C%B3%E8%AD%A6%E6%96%B9%E9%92%88%E5%AF%B9%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA%E9%87%87%E9%9B%86%E4%BF%A1%E6%81%AF/" target="cdt-mirror">美国之音 | 深圳警方针对维吾尔人采集信息</a>
+</h2>
+<p><p><span>华盛顿—</span>中国深圳公安部门按照上层命令制定了针对维吾尔人采集信息的计划。维吾尔人权益组织认为，此举表明中国政府继续执行内控维吾尔人的政策，这种政策不仅伤害维吾尔人，也给汉族人带来恐慌。</p>
+<p>深圳公安局下属东门派出所的一张《维族人员信息采集表》日前传到海外。表格要求所有进入派出所辖区的所有维吾尔人，无论来自中国大陆哪个省份，都必须如实填写。</p>
+<p>对于这份表格的真伪，美国之音致电深圳罗湖分局东门派出所，希望核实有关情况。值班民警证实确有此表。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5789F8EC-83E0-4CA7-96DC-DF4619B77DD7_w640_s.png?resize=600%2C1067" alt="5789F8EC-83E0-4CA7-96DC-DF4619B77DD7_w640_s" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5789F8EC-83E0-4CA7-96DC-DF4619B77DD7_w640_s.png?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5789F8EC-83E0-4CA7-96DC-DF4619B77DD7_w640_s.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>记者:维吾尔人到深圳，要填这样一个表格，是这样吗?</p>
+<p>民警: 要登记，要登记，就是维吾尔族。</p>
+<p>记者：其他族的不登记，是吧?</p>
+<p>民警: 对，就是维吾尔族的，新疆维吾尔的。</p>
+<p>记者：为什么只有维吾尔人要登记？我想问一下？</p>
+<p>民警: 这是上面有这样的规定。</p>
+<p>记者：不是所里自己的规定，是吧？</p>
+<p>民警:不是，不是。</p>
+<p>记者：北京的规定？</p>
+<p>民警：也有，这是全国的规定。</p>
+<p>这份单页表格上的事项包括：本人文化水平，婚姻状况，工作情况等。四分之一的篇幅要求介绍同行人情况，例如与同行人的关系和联系方式等。备注部分要求接待维吾尔人的单位登记造册，有关信息要“上传”，并叫派出所警务室备案。</p>
+<p>针对深圳东门派出所的这份维族人信息采集表，世界维吾尔代表大会发言人迪里夏提对美国之音说： “我认为，这是当局典型的针对维吾尔人的敌意心态，纵容当地出台一些变态的政策。由于当局高调的针对维吾尔人的敌意宣传，导致了有形和无形的针对维吾尔人的歧视。二是，此举增加了当地人的恐慌。”</p>
+<p>他认为，深圳当局奉命执行的这种填表制，进一步分化其他民族与维吾尔人的关系。他说，据了解，北京和上海都有针对维吾尔人的防控措施，深圳流传出来的《维族人员信息采集表》并不令人感到十分意外。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B7%B1%E5%9C%B3%E8%AD%A6%E6%96%B9%E9%92%88%E5%AF%B9%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA%E9%87%87%E9%9B%86%E4%BF%A1%E6%81%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E4%BA%BA/?category=18271" rel="tag">新疆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%89%E6%8B%A9%E6%80%A7%E6%89%A7%E6%B3%95/?category=18271" rel="tag">选择性执法</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E8%AE%A9%E6%B1%9F%E8%8B%8F%E6%8D%90%E7%B2%BE-%E4%B8%8D%E5%A6%82%E7%BB%99%E8%A5%BF%E9%83%A8%E5%A3%AE%E9%98%B3/" target="cdt-mirror">导弹熊 | 让江苏捐精  不如给西部壮阳</a>
 </h2>
 <p><p>为了高考名额的事情，江苏湖北一片哭爹喊娘。不，准确地说是一片爹哭娘喊。</p>
@@ -72,7 +135,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">教育不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F%E5%87%8F%E6%8B%9B/?category=18271" rel="tag">江苏减招</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">高考改革</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%8E%E5%BB%BA%E5%B5%98%E7%9A%84%E4%B8%9C%E4%B9%A6%E6%88%BF-%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E9%82%A3%E6%97%A5%E6%99%9A%E4%B8%8A%EF%BC%8C%E6%88%91%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93/" target="cdt-mirror">于建嵘的东书房 | 李承鹏：那日晚上，我嫖娼被抓</a>
 </h2>
@@ -553,102 +616,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B1%9F%E9%9B%AA%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%9C%9F%E7%9B%B8-%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%9D%92%E5%B9%B4%E7%BB%9D%E6%9C%9B%E7%9A%84%E5%91%BC%E5%96%8A/" target="cdt-mirror">江雪｜雷洋案：没有真相 只有一个青年绝望的呼喊</a>
-</h2>
-<p><p><strong>作者微信公号：雪访（ID: jiangxuedulifangwen）</strong></p>
-<p>帮忙一下……帮帮忙一下……</p>
-<p>夜色笼罩，人声喧哗。在一个<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%8E%B7%E4%B8%A4%E5%8D%83%E4%B8%87%E6%AC%A1%E6%92%AD%E6%94%BE%E5%90%8E-4%E5%88%86%E5%A4%9A%E9%92%9F%E9%9B%B7%E6%B4%8B%E6%A1%88%E8%B0%83%E6%9F%A5/" target="_blank">已被删除的视频</a>（5月10日腾讯新闻“焦点现场”发布）中，我听到了他的呼喊，是南方口音，带着无力的恐惧。这很可能是青年雷洋留在这世间的最后的声音。</p>
-<p>是怕被事后自称“亮明了身份”的便衣警察拖向不可知的黑暗？是怕落入“抓嫖”的官差手中身败名裂，甚或失去自己的亲人？我们无从得知，雷洋在最后的时刻，承受了怎样巨大的恐惧。只知道，他死了，按照官方的说法，是在他发出这呼喊之后的一个小时。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%B1%82%E5%8A%A9.png" rel="attachment wp-att-437740"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%B1%82%E5%8A%A9.png?resize=525%2C299" alt="雷洋求助" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋求助.png?resize=300%2C171 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋求助.png?resize=768%2C437 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋求助.png?resize=1024%2C583 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋求助.png?w=1278 1278w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><span>雷洋被带走前的网络视频截图</span></p>
-<p><strong>一</strong></p>
-<p>一个人死在了警察手里。这个5月，是雷洋。2015年5月，是徐纯合。在庆安小城的火车站，当着徐的母亲和孩子，警察开枪打死了他。</p>
-<p>他们命运本无交集。一个是身居京城、名校毕业的中产青年，一个是多年上访、“名声不佳”的底层失意中年男人。只是谁能想到呢，最终，他们都不明不白，死在了差人的手里。哦，他们也有一样的“待遇”，在一切真相未明之前，在“姓党”的官媒上，都由出事了的警察，向大众振振有词，宣告他们的死是咎由自取，之前没有受到哪怕一丝一毫的“不公正待遇”。</p>
-<p>在警察的脸上，我看不到，有对死者的哪怕一点点痛惜，或者一点点抱歉。物伤其类，而我，在这些镜头里，看不到真相，更看不到一点点的人性。</p>
-<p>是的，嫖娼，买春，在中国，一个人如果被曝光这些隐私，基本上就完成了污名的过程。李庄、薛蛮子，之前甘肃武威的记者张永生，不都是吗。就是徐纯合，被打死之后也被曝出来多年“缠访”、“不务正业”，一句话，也不是什么“好人”，仿佛打死了也就没有什么可惜。</p>
-<p>可问题是，我们中间，谁又是完美的？那些并不完美的人，就该死吗？该死在警察手里吗？</p>
-<p>是什么时候开始，我们发现，这个国家，警察的权力越来越大？</p>
-<p>我们身处的地方，是警察国家，还是法治国家，我想，不需要太多政治学的论述，生活在其中的每个人，应该都能在心里给出一个答案。</p>
-<p>可还是想起2003年前后的陕北“黄碟事件”，以及孙志刚事件。</p>
-<p>黄碟事件，我参与过报道。我以为，这个案子最大的贡献，就是提供了一个如此清晰的样本，让人能明明白白看到，公权和私权的边界在哪里。警察代表的公权，应该止步在哪里。</p>
-<p>于公民，“法无明文禁止皆可为”，于警察，“法无明文授权皆不可为。”这是法治国家的基本原则。说来也荒诞，10多年前，在中国的媒体上，这些都曾被相当充分地讨论过。</p>
-<p>但讨论的基础，是真相。而彼时的真相，乃是还有元气淋漓的媒体，在禁令之下，一点点引领舆论倒逼，使得公权理屈词穷。要知道，当年的孙志刚，在广州街头被警察以查暂住证为名抓走，又被活活打死，最初警方公布的原因，竟是心脏病。</p>
-<p>2003年元月，黄碟事件的当事人得到了1万余元的国家赔偿。 2003年6 月，孙志刚事件有了一系列结果。多名行凶者被判重刑，其中有被处极刑者。</p>
-<p>之后，不管粤地政法系统对南方都市报如何恨之入骨，并疯狂反扑，让南都蒙受巨大损失。而它的总编辑程 益中、总经理喻华峰等人，也各自付出了自由的代价。毕竟，南都为中国媒体人引领了一份荣光，也因此，将此国的人权理念，向前推动了一步。<strong><br></strong></p>
-<p><strong>二</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AD%99%E5%BF%97%E5%88%9A%E7%88%B6%E4%BA%B2-e1463119055487.png" rel="attachment wp-att-437741"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AD%99%E5%BF%97%E5%88%9A%E7%88%B6%E4%BA%B2-e1463119055487.png?resize=500%2C343" alt="" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/孙志刚父亲-e1463119055487.png?resize=300%2C206 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/孙志刚父亲-e1463119055487.png?resize=768%2C527 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/孙志刚父亲-e1463119055487.png?w=792 792w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>当年孙志刚（中立者）的父亲向公众致谢</span></p>
-<p>可终究如前面所说，那时，在悲剧发生之后，有真相一点点被倒逼了出来。</p>
-<p>而今天呢，雷洋的死，我们会等来什么，会等来真相吗？</p>
-<p>5月11日，看到胡泳的一条微博：“雷洋案中，最沉痛的，是听到一位律师这样说：这件事不会有真相了！”</p>
-<p>此语也真是沉痛到了极点。是的，在今天的状况下，我们还有信心期待一个所谓的真相吗。</p>
-<p>10多年前，不管是黄碟事件，还是孙志刚事件，至少在一段时间内，有全国媒体铺天盖地的报道。记得黄碟事件，新浪等多家门户网站，每天悬挂纸媒的追踪在首页，法学界的评论不绝于缕。而孙志刚事件中，法学界更与媒体呼应，有许 志永、滕 彪等五博士“上书”，要求废止收容遣送制度。</p>
-<p>那时，中国调查报道勃勃待兴。在禁令与反抗之间，媒体人自觉寻找着表达，寻求着真相。管制下也有缝隙可钻，而公权机关，还没有那么自信，也没有那么快习得信息控制、应对舆论的全套手段。</p>
-<p>就在这样的时间差中，真相被披露，而漫是“影帝”，也最终还有回应的声音，最终使得恶法被中止。</p>
-<p>5月11日，雷洋案后，宋志标的“旧闻评论”，有文章曰《心意难平 遥望孙志刚》，末了也叹到：以今年纪，若孙志刚在世，也都四十岁了。</p>
-<p>是的，也是一代人，一段重要的时间了。由彼时起，行进到2016年。自2013年之后，公权强悍，盛气凌人，一次次打击大V，一个个央视忏悔，一波波自命“真相”，傲慢地回击每一次公众的疑问，官方正掌握应对舆论的秘笈，“自干五”如今竟然已经是明目张胆的褒义词了。</p>
-<p>2015年5月，徐纯合事件发生时，尚有多位死磕律师赶赴庆安。也不过两月之遥，当年的7月，死磕律师便遭受大面积“围剿”，到如今花果飘零，与媒体人的处境遥遥呼应。</p>
-<p>遂到了今天。不管那青年雷洋，曾发出怎样绝望的呼喊，我们已看不到死磕律师，也看不到更多声音传递出来的媒体。</p>
-<p>我们只看到，BTV，人日，放下自诩“媒体”者也应该有的一点点颜面，让涉嫌非法剥夺公民生命的公权一方，自说自话般地振振有词。</p>
-<p>于今，大家都在呼吁独立的第三方介入调查。在现有司法体系下，检察院也当然可以作为“第三方”推动相关的尸检工作。</p>
-<p>但这就是真的吗。它会是一个独立的报告吗。人们会相信吗？这不是什么塔西陀陷阱，这是一个无可跳出的死循环。</p>
-<p>在这个意义上，真相是不可期的。而沉痛，是真实的。</p>
-<p>但我，还是记住了那个青年恐惧的呼喊。“帮帮我，帮帮我。”我想，如果是我，有一天，面临巨大的国家机器迫近，也会这样本能地呼喊。</p>
-<p>可是，到那时，谁会来帮我呢。而对免于恐惧的呼喊，又将怎样在每个人心中汇聚，汹涌如河流呢？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B1%9F%E9%9B%AA%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%9C%9F%E7%9B%B8-%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E9%9D%92%E5%B9%B4%E7%BB%9D%E6%9C%9B%E7%9A%84%E5%91%BC%E5%96%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E5%BF%97%E5%88%9A/?category=18271" rel="tag">孙志刚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E7%A3%95%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">死磕律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%9A%E8%AE%AF%E6%96%B0%E9%97%BB-%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A788%E7%BA%A7%E9%83%A8%E5%88%86%E6%A0%A1%E5%8F%8B%E5%85%B3%E4%BA%8E%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A3%B0/" target="cdt-mirror">博讯新闻 | 西安交大88级部分校友关于雷洋事件的声明</a>
-</h2>
-<p><p>近日，“雷洋涉嫖猝死”事件又似乎演变成社会舆论聚焦的一个疑案，嫖娼、猝死、执法过程等细节，都打上一个个问号，亟待掀起谜团，找出公平公开合理的答案。</p>
-<p>一封《中国人民大学88级部分校友就雷洋同学意外身亡的声明》在各个微信群中流传。随后又有人大89、90级的声明。还有人大77、78级实名签署的《我们不得不发声—中国人民大学77、78级部分校友关于雷洋事件的声明》，请求北京市检察机关立即组织独立职务侦查，北京市人大常委会介入督办，昌平等公安机关皆应回避。全部原始证据、监控录像、各方证人等应置于检察机关控制之下，不仅仅是尸检由第三方进行。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0065xzJfgw1f3pzpx8mrpj318g0qo44g.jpg?resize=550%2C330" alt="0065xzJfgw1f3pzpx8mrpj318g0qo44g" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0065xzJfgw1f3pzpx8mrpj318g0qo44g.jpg?resize=300%2C180 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0065xzJfgw1f3pzpx8mrpj318g0qo44g.jpg?resize=80%2C48 80w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0065xzJfgw1f3pzpx8mrpj318g0qo44g.jpg?w=720 720w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>网民大呼：“这届人民不行，人民大学还行！”</p>
-<p>我们交通大学的校友也大声响应：“这届交通还行，交通大学也行！”</p>
-<p>雷洋事件不仅是人民大学校友的事，也是其他大学校友的事，更应是全体公民的事。我们发表声明，不是因为雷洋是人大硕士，而是因为他是一名公民，一名受法律保护的公民。我们认为任何公民都是平等的，无论他是硕士还是民工。</p>
-<p>犹太人屠杀纪念碑上所铭刻的马丁·尼莫拉的话：<br>
-“在德国，起初他们追杀共产主义者，我没有说话——因为我不是共产主义者；接着他们追杀犹太人，我没有说话——因为我不是犹太人；后来他们追杀工会成员，我没有说话——因为我不是工会成员；此后他们追杀天主教徒，我没有说话，因为我是新教教徒；最后他们奔我而来。却再也没有人站出来为我说话了。”</p>
-<p>我们西安交大88级部分校友认为维护社会公平正义是每一个公民的义务，我们有义务为雷洋事件发声，虽然我们理工生不如人民大学的政法同学懂法律。</p>
-<p>目前网上多数意见是警察的暴力执法导致雷洋死亡。我们交大的学风素有独立之精神，就目前的网上报道，我们无法判断此次事件孰是孰非。我们不愿看到雷洋“被死亡”，也不愿看到执法的警察被冤枉。人命关天，我们期待本届政府能给我们一个令人信服的公平公正的答案。</p>
-<p>虽然我们知道公检法和人大政协系统被抓出了不少贪官，但是目前我们只能依靠他们对雷洋事件进行执法、调查、监督。希望处理此事件时，贪官、说假话的、缺乏正义感的人员不要参与，还公众一个真相。</p>
-<p>由缺乏正义感的人来执法，再完善的法律制度也是空中楼阁。</p>
-<p>我们相信每个人心中都有一颗公平正义的心，都不愿意说假话，但有时为了自己的私利不得不主动或被动地说假话、卑躬屈膝、阿谀奉承、趋炎附势。虽然我们的社会离每个人都敢说真话还差得很远，但我们不从现在做起，我们的子孙后代将继续说假话、做着违心的事。雷洋事件还会不停的上演。</p>
-<p>网上还有说是阴谋论的，雷洋是常外毒地调查的环保专家，被陷害；莆田系弃兵保帅之计等等。</p>
-<p>疫苗、常外毒地、魏则西……每个事件只是在网上热两三天，然后转入下一个事件，没人关心以前事件的结果。雷洋事件可能也是如此，现在人人说没有安全感，出门就可能“被死亡”。过几天就忘得一干二净，关心另一个热点话题了。我们能不能做一个CHECK LIST，跟踪以前事件的处理结果？每个月回顾一下政府是否处理了？公众是否满意？做到前事不忘后事之师。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/201605131140china2.jpg?resize=495%2C117" alt="201605131140china2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/201605131140china2.jpg?resize=300%2C71 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/201605131140china2.jpg?w=495 495w" sizes="(max-width: 495px) 100vw, 495px" data-recalc-dims="1"></p>
-<p>倘若我中华先人之富贵不能淫、贫贱不能移、威武不能屈的正义做人准则尚在，这些龌蹉事件是不会发生的。正义，从你我做起！杜绝主动做坏事，尽量少地被动做坏事！</p>
-<p>西安交通大学1988级部分校友 2016年5月12日</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%9A%E8%AE%AF%E6%96%B0%E9%97%BB-%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A788%E7%BA%A7%E9%83%A8%E5%88%86%E6%A0%A1%E5%8F%8B%E5%85%B3%E4%BA%8E%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A3%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B/?category=18271" rel="tag">网络水军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7/?category=18271" rel="tag">西安交大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E9%AB%98%E5%AE%98%E5%92%8C%E5%AF%8C%E8%B1%AA%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8A%E6%9B%9D%E5%85%89/" target="cdt-mirror">美国之音｜中共高官和富豪个人信息在推特上曝光</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg" rel="attachment wp-att-437726"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?resize=381%2C228" alt="方滨兴" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?resize=300%2C180 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?resize=80%2C48 80w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLrfJXU4AI5GJV.jpg?w=381 381w" sizes="(max-width: 381px) 100vw, 381px" data-recalc-dims="1"></a><br><span>@shenfenzheng 被注销前在推特发布的疑似方滨兴身份证照片</span></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLm_7GVEAEiKSc.jpg" rel="attachment wp-att-437724"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLm_7GVEAEiKSc.jpg?resize=550%2C309" alt="胡锡进" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLm_7GVEAEiKSc.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLm_7GVEAEiKSc.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>@shenfenzheng 被注销前在推特发布的疑似胡锡进户籍信息</span></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLqc3_VEAAk-_t.jpg" rel="attachment wp-att-437725"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLqc3_VEAAk-_t.jpg?resize=550%2C310" alt="司马南" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLqc3_VEAAk-_t.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiLqc3_VEAAk-_t.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>@shenfenzheng 被注销前在推特发布的疑似司马南户籍信息</span></p>
-<p>华盛顿— 中国数十名高官和包括马云、王健林等在内的诸多富豪的个人信息可能已经在推特上曝光。这应该是中国最大的网上敏感信息泄露事件。</p>
-<p>推特（Twitter）系统注销了一个名为 “shenfenzheng”（疑为‘身份证’）的帐户，该账户据称曾公布过政府、银行界、客机和工业界众多著名人物从官方身份证件到家庭住址等在内的详尽信息。在一些信息中，他们孩子的详细信息也被公之于众。其中的很多推特信息被迅速删除，但是彭博新闻社证实，其中至少两个身份证号是真实可信的。</p>
-<p>综合各家媒体5月12日的报道，“shenfenzheng”帐户目前不显示新发布的消息，而是标注着“帐户已停用”的字样。据报，被公布个人信息的人包括阿里巴巴集团创始人和理事会主席马云、腾讯公司控股董事会主席马化腾、小米公司董事长雷军、大连万达集团董事长王健林和三一集团董事长梁稳根等。</p>
-<p>目前还不清楚谁控制着这个账户，或者这个人是在中国境内还是境外。但是这个人显然对中国的网络控制充满鄙视，因为“shenfenzheng”账号上公开的一个身份证据称是中国网络防火墙之父方滨兴的。</p>
-<p>虽然中国通过世界最大的网络防火墙对互联网实行严格控制，但是这起事件凸显中国在防控信息在本国境内扩散面临着挑战。</p>
-<p>据《纽约时报》报道，推特已成为一些中国流亡政治活动人士的网上聚居地，他们利用这个平台进行交流，也与世界各地人士分享自己有关中国时事的观点。和许多外国互联网公司一样，推特在中国一直遭到屏蔽。即便有这些限制，中国依然是一个规模庞大、极具获利前景的市场。包括脸书（Facebook）和谷歌(Google)在内，许多在中国遭屏蔽的公司，依然在那里开展业务，为希望发展海外受众的中国企业服务，或者开始迎合日益增多的中国网民的需求。</p>
-<p>脸书创始人扎克伯格曾进行公开努力，讨好中国领导层，但推特几乎没有显示过有意接受发展中国市场所施加的限制。推特发言人普罗瑟曾表示，推特公司并不想在中国获得解禁。正所谓“无欲则刚”。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E9%AB%98%E5%AE%98%E5%92%8C%E5%AF%8C%E8%B1%AA%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8A%E6%9B%9D%E5%85%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/?category=18271" rel="tag">个人信息安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E6%B3%84%E9%9C%B2/?category=18271" rel="tag">信息泄露</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%BB%A8%E5%85%B4/?category=18271" rel="tag">方滨兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -660,7 +627,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -670,5 +637,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

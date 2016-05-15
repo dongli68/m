@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%88%98%E7%91%9C%EF%BC%9A%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%85%B3%E4%BA%8E%E6%B6%88%E8%B4%B9%E6%AD%BB%E8%80%85/" target="cdt-mirror">微思客 | 刘瑜：雷洋事件，关于“消费死者”</a>
@@ -470,7 +470,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E7%99%BD%E7%9A%AE%E4%B9%A6/?category=18271" rel="tag">一国两制白皮书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91%E5%85%AC%E6%8A%95/?category=18271" rel="tag">全民公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA%EF%BD%9C%E9%92%9F%E8%87%AA%E9%B8%A3%EF%BC%9A%E9%9B%B7%E6%B4%8B%E7%9A%84%E6%AD%BB%E8%AE%A9%E6%88%91%E6%83%B3%E8%B5%B7%E4%BA%86%E6%88%91%E8%A2%AB%E7%97%9B%E6%AE%B4/" target="cdt-mirror">凯迪社区｜钟自鸣：雷洋的死让我想起了我被痛殴的一段经历</a>
 </h2>
@@ -637,5 +637,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%88%98%E7%91%9C%EF%BC%9A%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%85%B3%E4%BA%8E%E6%B6%88%E8%B4%B9%E6%AD%BB%E8%80%85/" target="cdt-mirror">微思客 | 刘瑜：雷洋事件，关于“消费死者”</a>
@@ -135,7 +135,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">教育不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F%E5%87%8F%E6%8B%9B/?category=18271" rel="tag">江苏减招</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">高考改革</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%8E%E5%BB%BA%E5%B5%98%E7%9A%84%E4%B8%9C%E4%B9%A6%E6%88%BF-%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E9%82%A3%E6%97%A5%E6%99%9A%E4%B8%8A%EF%BC%8C%E6%88%91%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93/" target="cdt-mirror">于建嵘的东书房 | 李承鹏：那日晚上，我嫖娼被抓</a>
 </h2>
@@ -637,5 +637,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

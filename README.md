@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98%E4%B8%8A%E5%B7%B2%E7%BB%8F%E8%BF%9B%E9%80%80%E4%B8%A4%E9%9A%BE/" target="cdt-mirror">共识网｜马云根：中国在南海问题上已经进退两难</a>
+</h2>
+<p><p>中国政府发现，南海问题已脱离自己的掌控，南海争端的含义已经失去了中国政府的定义，成为了美国定义的自由航行权之争。美国的自由航行权与南海争端，应该是两件事，但在如今的南海问题中，却被搅成了一件事。中国认为是美国想要介入南海争端，从而打着海上自由航行权的名义，中国基于这一判断做出了强烈的反应，为此全力出击抵御美国的力量。问题出在，南海周边与中国有岛屿争端的国家，成功的将话题转向自由航行权方向，让美国成功地用海上自由航行权的法理，来占据了南海主导的上风，却是个不争的事实。赫然发现，中国一贯采取的反对域外国家“干预”南海事务，主要针对的就是包括美日在内的西方国家利用南海议题拓展本国利益的举动，却将更多的国家卷入进来，自己却是孤独的一国，势单力薄，实力不济，同时议题也落入下风。</p>
+<p>由于中国不接受菲律宾提交国际法庭解决争端的方式，也未能出庭答辩，彻底的关闭了中菲法律解决岛屿争端的意愿。菲律宾等争端国家，无法在中国的双方谈判解决中占得优势，唯一的手段将争端的焦点转移给美国，岛屿争端的焦点转向自由航行权成为必然。从此开始，中国成为美国及众多国家的对手，当南海争端变为了海上自由航行权的问题，中国却是孤军奋战，也将不得不咽下失败的苦果。我们的优势为何突然间消失了，外交上的判断失误，是一个重要的因素。</p>
+<p>公海自由航行权始于一战，是美国总统威尔逊贡献了战后两大秩序，一是求公海自由航行权;二是国际联盟的创立。并非如今专家们所称，是1982年实施的美国干涉其他国家海上权益争端的一个项目“航行自由项目”。而公海自由航行权近百年来，使世界各国的经济自由与社会繁荣受益，中国也不例外。二战中美国参战的理由，就源自于此，认为德国法西斯、日本都在摧毁自由市场的秩序，向德国法西斯开战、当初封锁日本都是。日本的1941年12月8日宣战诏书揭示了这一点，宣战书中指责美国“于帝国之周围增强武备，向我挑衅，并对帝国之和平通商横加阻碍，终于断绝经济关系，给予帝国生存以重大威胁，”，故采取了偷袭珍珠港，进而引发美国对日宣战。美国更是在德国和英国死战的时候，美国通过了《中立法修正案》《租借法案》明显的偏袒英国，使德国潜艇无法对美国军舰保护的英国商船进行有效的打击，德国不得不对美国宣战。</p>
+<p>改革开放后，中国融入世界的经济后得以快速发展，从根本上也是受惠于这两大秩序，而对于其他国家，其经济繁荣也是要依靠于此。虽然，美国的航行自由权挑战了许多国家的领海和专属经济区，但各国都只是口头上提提抗议或默不作声，并不采取军事对抗行为。因为，各国的经济繁荣都受惠于海上航行自由。况且，目前还没有可以替代美国这一秩序的有效方法，故大都选择参加到与美国一起保护海上自由航行权，这是最优的选择。</p>
+<p>中国在南海的做法，在南海周边国家来看，是在客观上挑战了这一秩序，南海九段线的含义极为模糊，至今仍没有任何机构能对九段线做出清晰的解释，每当被别国质问时，只能笼统回答不是什么，如不是专属经济区，不是大陆架，不是领水等，但是至今没人能够回答九段线是什么。然而，九段线就在模糊的认知中，却成为中国人心中不容侵犯的海疆，已深入人心。进难，退却无路，民众与政府已陷入进退两难的困境，而加大南海的维权力度，将有更多的国家成为中国的对手或潜在的对手。更为令人烦恼的是，原本无法对南海及东南亚国家施加影响的各国，都在趁机出手加大在东南亚的影响力。</p>
+<p>中国主流媒体和智库的研究，对国内宣传中介绍美国站在南海争端前台的原因，是从三个层面上来解释：一是认为，美国把南海问题当做制约中国快速崛起的抓手;二是认为，美国强调“专属经济区划分原则”、“领海的无害通过原则”等原则来斗争;三是认为，美国借机加快“重返亚太”的步伐，加大在该地区的军事存在。这种似是而非式的解读，根本就会对民众产生误导，也会使国家政策发生偏离，在处理南海问题上的错误更加严重，被动的局面频频出现。可以预料，仲裁庭作出的最终裁决，将可能否定南海断续线的法律基础，以及中国在断续线内的主权权利。中国在南海问题，外交上采用延续一贯的“模糊政策”对南海进行立场表述，而国内民众对“九段线”认知，形成的是不容侵犯的海疆，这一个混合体，无法自圆其说。固有权利不可让渡，民主体制下的国家，大多无法通过谈判解决固有权利的争端问题，法律框架下解决是唯一的途径。虽然双方谈判解决可以造成双赢的假象，但民主国家政党竞争的质询制度，让双赢的面具不在，更无法承受选民的流失，而秘密协议是这些国家无法想象的。换句话说，这些国家以目前的实力，只能够通过法律框架下，解决固有权力的争端问题。“海上航行自由”原则，则是美国压迫中国回到法律框架下解决争端的有力武器。</p>
+<p>这是一个让各国的经济繁荣都受惠的“海上航行自由”原则，而目前也还没有可以替代美国这一秩序的有效方法。中国的南海政策一旦陷入到“海上自由航行权”的问题上，就将成为了孤独的挑战者，而且，还将是唯一失败和信誉受损的国家。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98%E4%B8%8A%E5%B7%B2%E7%BB%8F%E8%BF%9B%E9%80%80%E4%B8%A4%E9%9A%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B5%B7/?category=18271" rel="tag">公海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">南海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E8%88%AA%E8%A1%8C/?category=18271" rel="tag">自由航行</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E4%BC%9A%E8%AF%AF%E4%BB%A5%E4%B8%BA%E9%AB%98%E8%80%83%E6%98%AF%E5%85%AC%E5%B9%B3%E7%9A%84%E8%80%83%E8%AF%95%EF%BC%9F/" target="cdt-mirror">唐映红 | 为什么人们会误以为高考是公平的考试？</a>
 </h2>
 <p><p><strong>问：为什么人们会误以为高考是公平的考试？</strong></p>
@@ -611,19 +630,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E8%AF%84%E8%AE%BA%E5%91%98%E8%B0%88%E9%9B%B7%E6%B4%8B%E6%A1%88/" target="cdt-mirror">【CDTV】深圳卫视评论员谈雷洋案</a>
-</h2>
-<p><p><a href="https://www.youtube.com/v/CerUrdH1J5Y?version=3">https://www.youtube.com/v/CerUrdH1J5Y?version=3</a></p>
-<p><a title="深圳卫视评论员谈雷洋案" href="http://www.youtube.com/watch?v=CerUrdH1J5Y" target="_blank">深圳卫视评论员谈雷洋案</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E8%AF%84%E8%AE%BA%E5%91%98%E8%B0%88%E9%9B%B7%E6%B4%8B%E6%A1%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -635,7 +641,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -645,5 +651,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

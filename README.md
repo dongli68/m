@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E5%AD%A9%E5%AD%90-%E4%BD%A0%E8%A6%81%E7%9A%84%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3%E5%A4%AA%E9%9A%BE%E5%AE%9E%E7%8E%B0/" target="cdt-mirror">海涛评论 | 孩子 你要的教育公平太难实现</a>
@@ -90,7 +90,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BE%90%E8%B4%B2%EF%BC%9A%E6%96%87%E9%9D%A9%E9%81%93%E6%AD%89%E5%BF%85%E9%A1%BB%E5%85%88%E6%B8%85%E9%99%A4%E6%96%87%E9%9D%A9%E5%9F%BA/" target="cdt-mirror">端传媒 | 徐贲：“文革道歉”必须先清除“文革基因”</a>
 </h2>
@@ -153,7 +153,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%B2%E5%8E%86%E8%80%85/?category=18271" rel="tag">亲历者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%9F%E7%BD%AA/?category=18271" rel="tag">原罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D/?category=18271" rel="tag">反思</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%B4%B2/?category=18271" rel="tag">徐贲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">政治运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">文化大革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E9%81%93%E6%AD%89/?category=18271" rel="tag">文革道歉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83/?category=18271" rel="tag">极权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">极权制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A7%A9%E5%BA%8F/?category=18271" rel="tag">社会秩序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1/?category=18271" rel="tag">自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%8E%E8%A8%80/?category=18271" rel="tag">谎言</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98%E4%B8%8A%E5%B7%B2%E7%BB%8F%E8%BF%9B%E9%80%80%E4%B8%A4%E9%9A%BE/" target="cdt-mirror">共识网｜马云根：中国在南海问题上已经进退两难</a>
 </h2>
@@ -214,7 +214,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF/?category=18271" rel="tag">中国队长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF/?category=18271" rel="tag">美国队长</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%88%98%E7%91%9C%EF%BC%9A%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%85%B3%E4%BA%8E%E6%B6%88%E8%B4%B9%E6%AD%BB%E8%80%85/" target="cdt-mirror">微思客 | 刘瑜：雷洋事件，关于“消费死者”</a>
 </h2>
@@ -674,7 +674,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -684,5 +684,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

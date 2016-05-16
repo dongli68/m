@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%87%E9%9D%A950%E5%B9%B4%E5%90%8E-%E4%BB%96%E4%BB%8D%E5%9C%A8%E7%AD%89%E5%BE%85%E7%88%B6%E4%BA%B2%E6%AD%BB%E4%BA%A1%E7%9A%84%E7%9C%9F%E7%9B%B8/" target="cdt-mirror">纽约时报 | 文革50年后 他仍在等待父亲死亡的真相</a>
@@ -80,7 +80,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">中国历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">国家主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">敏感问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">文化大革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">文革50周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">非正常死亡</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%A4%E5%87%B0%E5%8E%86%E5%8F%B2-%E6%88%91%E4%BB%AC%E9%87%87%E8%AE%BF%E4%BA%86%E4%B8%8D%E5%B0%91%E5%B9%B4%E8%BD%BB%E4%BA%BA-%E5%8F%91%E7%8E%B0%E6%96%87%E9%9D%A9%E7%9C%9F%E7%9A%84%E5%BF%AB/" target="cdt-mirror">凤凰历史 | 我们采访了不少年轻人 发现文革真的快被忘干净了</a>
 </h2>
@@ -219,7 +219,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BE%90%E8%B4%B2%EF%BC%9A%E6%96%87%E9%9D%A9%E9%81%93%E6%AD%89%E5%BF%85%E9%A1%BB%E5%85%88%E6%B8%85%E9%99%A4%E6%96%87%E9%9D%A9%E5%9F%BA/" target="cdt-mirror">端传媒 | 徐贲：“文革道歉”必须先清除“文革基因”</a>
 </h2>
@@ -773,7 +773,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -783,5 +783,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

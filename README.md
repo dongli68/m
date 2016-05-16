@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E4%BC%9A%E8%AF%AF%E4%BB%A5%E4%B8%BA%E9%AB%98%E8%80%83%E6%98%AF%E5%85%AC%E5%B9%B3%E7%9A%84%E8%80%83%E8%AF%95%EF%BC%9F/" target="cdt-mirror">唐映红 | 为什么人们会误以为高考是公平的考试？</a>
+</h2>
+<p><p><strong>问：为什么人们会误以为高考是公平的考试？</strong></p>
+<p>答：虽然生活中不少人会认为，尽管高考有种种不是，但毕竟它是一个公平的考试。其实，<strong>高考从来就不是一个公平的考试。</strong>那么，为什么这么多年来，人们会普遍地对高考制度中明显不公正的因素视而不见，以致使<strong>这么一个显失公平的考试制度延宕了近40年，对加剧地域的不平等，戕害真正的人才可谓“功不可没”。</strong></p>
+<p>从社会学角度，公正通常包含了三个部分：<strong>分配公</strong>正（distributive justice）、<strong>程序公正</strong>（procedural justice）以及<strong>互动公正</strong>（(interactional justice）。<strong>分配公正在高考制度上的反映应该为同等优秀的学生应该得到同等的机会，有同等的概率追求到同样的结果</strong>。程序公正在高考制度上的反映则是出台的高考政策必须满足正当且合法的程序，而且正当性优先于合法性。<strong>符合程序公正的高考政策应当经过各利益方的充分博弈，以最终达到兼顾各方利益的政策结果。</strong>互动公正在高考制度上的反映就意味着考生、家长和教师都应当<strong>获得充分的讯息以从容备考。</strong></p>
+<p>以此观之，<strong>高考制度从一开始就建立在不公正的基础上</strong>。</p>
+<p>首先<strong>高考制度缺乏起码的分配公正</strong>，不同地域的考生，取得同样的考试成绩，却不能得到同等的机会。<strong>一个在四川分数仅够上二本，甚至三本院校的学生，同样的成绩放到北京、天津等地，却能够轻松上一本院校。</strong>下面一组数据足以显示，<strong>现行的高考制度是不折不扣充满地域歧视的制度，其歧视程度丝毫不亚于种族隔离时期美国南部各州区别对待白人学生和黑人学生的歧视程度。</strong>下面数据中，北京的一本上线率（2013~2015）为<strong>24.42%</strong>，而四川的一本上线率仅为<strong>5.37%</strong>，<strong>北京是四川的4.5倍</strong>。以2014年为例，四川考生57.12万，一本只录取3.12万人，二本录取9.09万人，二本及以上录取率共<strong>22.14%</strong>，仍然低于北京的一本录取率<strong>24.81%</strong>，也低于天津的一本录取率<strong>24.25%</strong>。换言之，<strong>四川一些只能读三本院校的学生，如果在北京或天津，同样的成绩却能轻松读到一本。</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E8%80%83%E5%85%AC%E6%AD%A3.jpg?resize=388%2C776" alt="高考公正" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高考公正.jpg?resize=150%2C300 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高考公正.jpg?w=388 388w" sizes="(max-width: 388px) 100vw, 388px" data-recalc-dims="1"></p>
+<p><strong>其次高考政策的出台严重缺乏起码程序公正，利益攸关方竟然没有机会参与到政策决策前的博弈中</strong>。例如，权力集团试图缩小东西部的大学录取率的差距（<em>最大相差4.5倍，足以令那什么核心价值观里的“公正”看起来像砣<strong>鼻屎</strong></em>），计划将部分东部高录取率的指标调配到西部低录取率的指标。按说这是在分配公正上稍有改善的一步，应该具有进步意义。可是，<strong>政策的决策和出台，完全成为少数权力精英的算计。</strong>一本录取率在20%以上的北京、天津、上海<strong>一个指标不调减</strong>，却将一本录取率仅列14、21的湖北（10.87%）、江苏（9.66%）中要调减3万5千到4万个指标。要知道，<strong>湖北、江苏的一本录取率仅仅只有北京、天津和上海的一半还不到。</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E8%80%83%E5%85%AC%E6%AD%A32.jpg?resize=559%2C373" alt="高考公正2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高考公正2.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高考公正2.jpg?w=559 559w" sizes="(max-width: 559px) 100vw, 559px" data-recalc-dims="1"></p>
+<p>再者，<strong>高考制度的互动公正也基本匮乏</strong>。例如，<strong>为了掩盖四川高考一本录取率畸低的现象</strong>，2015年权力集团为了提高一本录取率，将成都理工、西华师大、西南石油、川师大、西科大等大批专业<strong>提升到一本录取</strong>，同时又大幅缩小二本录取率，为了掩盖后者，干脆<strong>将三本合并到二本招生。</strong>也就是说，如果从权力集团披露的统计信息来看，<strong>四川2015年的一本录取率在没有任何实质性改善的情况下，仅仅移花接木就迅速“提高”，以此来蒙骗考生和家长。</strong></p>
+<p>由此不难看出，<strong>高考制度无论在分配公正、程序公正还是互动公正上都严重缺乏，甚至倒行逆施到令人发指的程度。</strong>严重缺乏起码公正的高考制度下的高考，当然就是不公正的一种考试。可是，近40年来，充满赤裸裸地域歧视的高考却被许多人误以为是公平的考试。这与下面几个因素有关。</p>
+<p>1、<strong>高考的地域歧视，长期以来不具有感知显著性。</strong>相比于高考的严重歧视，中国大陆的城乡歧视、体制歧视、户籍歧视、民族歧视等等的严重程度比高考的歧视要严重得多得多。当社会舆论还在关注进城务工者子女的义务教育阶段的制度性入学障碍时，高考中的地域歧视就显得不那么明显。</p>
+<p>2、<strong>高考作为国家考试，采取分省出题的模式，掩盖了省间招生名额的严重歧视问题。</strong>由于每个省的教材、教学和应试各有不同，因此考生和教师更容易注意到不同省考题的难易程度，而忽略<strong>考题的难易根本就无关录取率</strong>。江苏的考题再难，根据权力集团分配给江苏的一本录取指标，其录取率都将在10%左右。像四川，其考题就算简单到如同抽签，一本的录取率也只有5%左右。</p>
+<p>3、<strong>高考的公正与否，从来每年都只涉及到部分人群，而且每位考生和家长大多都只关注到省内的竞争，而无暇也不大可能关注到省间的竞争。</strong>特别是，绝大多数家长都只能关注到影响孩子被录取的细枝末节的因素，而难以想到阻挠他们孩子考上理想大学的最大障碍来自于歧视性的政策。家长们为了孩子考试的顺利，不仅陪同参考的孩子，而且自发地阻止考试学校外的车辆通行，而须臾也想不到应该去争取在高考招录名额上的公正。</p>
+<p>4、<strong>房间的大象效应。</strong>由于高考的严重地域歧视源自控制和垄断一切社会资源的权力集团，这头大象不仅影响着高考的公平与否，更控制和影响着社会生活的方方面面。<strong>正是因为庞然大物的大象垄断和控制了一切社会资源，所以人们就习以为常，对这个庞大的影响因素视而不见，视若无睹。</strong></p>
+<p>上述种种，就使得许多人误以为高考时公平的考试，而<strong>丝毫也意识不到高考从一开始就是充满着赤裸裸地域歧视的一种不公正的制度。</strong></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E4%BC%9A%E8%AF%AF%E4%BB%A5%E4%B8%BA%E9%AB%98%E8%80%83%E6%98%AF%E5%85%AC%E5%B9%B3%E7%9A%84%E8%80%83%E8%AF%95%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权力集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8B%E5%BA%8F%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">程序公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%90%AC%E8%AF%B4%E8%A6%81%E6%8B%8D%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF%E3%80%8B-%E7%BD%91%E5%8F%8B%E7%AC%91%E4%BA%86/" target="cdt-mirror">【CDTV】听说要拍《中国队长》 网友笑了</a>
+</h2>
+<p><p>@教你写剧本：《美国队长3》导演安东尼·罗素、乔·罗素已经确定要拍“中国队长了”。小编猜拍出来一定是这样的……</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/63b000287004e4b514f.jpg?resize=550%2C462" alt="63b000287004e4b514f" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/63b000287004e4b514f.jpg?resize=300%2C252 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/63b000287004e4b514f.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>新闻报道，《美国队长3》的导演打算和中国内地合拍《中国队长》。</p></div>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%90%AC%E8%AF%B4%E8%A6%81%E6%8B%8D%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF%E3%80%8B-%E7%BD%91%E5%8F%8B%E7%AC%91%E4%BA%86/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p>墙内视频<a href="http://weibo.com/p/230444ff26f190bc0a9bbe97b4b3e79ce15c00" target="_blank">链接</a></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6390002910e13132eee.jpg?resize=284%2C443" alt="6390002910e13132eee" data-recalc-dims="1"></p>
+<p>视频来源</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%90%AC%E8%AF%B4%E8%A6%81%E6%8B%8D%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF%E3%80%8B-%E7%BD%91%E5%8F%8B%E7%AC%91%E4%BA%86/"><em>点击这里查看嵌入的视频。</em></a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%90%AC%E8%AF%B4%E8%A6%81%E6%8B%8D%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF%E3%80%8B-%E7%BD%91%E5%8F%8B%E7%AC%91%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF/?category=18271" rel="tag">中国队长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF/?category=18271" rel="tag">美国队长</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E5%88%98%E7%91%9C%EF%BC%9A%E9%9B%B7%E6%B4%8B%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%85%B3%E4%BA%8E%E6%B6%88%E8%B4%B9%E6%AD%BB%E8%80%85/" target="cdt-mirror">微思客 | 刘瑜：雷洋事件，关于“消费死者”</a>
 </h2>
 <p><p>作者：刘瑜，清华大学人文社会科学学院政治学系副教授</p>
@@ -582,40 +624,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88/" target="cdt-mirror">【真理部】令计划案</a>
-</h2>
-<p><p>对令计划案，各网站不得自采自编稿件、不可自制专题、不可篡改标题，不能集纳以往报道，只可转载新华社等中央权威部门的稿件。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88/?category=18271" rel="tag">令计划案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%9B%E5%85%88%E7%94%9F%EF%BD%9C%E6%88%B4%E5%B8%8C%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BF%A1%E6%81%AF%E4%B8%8D%E8%83%BD%E8%87%AA%E7%94%B1%E4%BC%A0%E6%92%AD%EF%BC%8C%E7%A7%91%E5%AD%A6%E5%B0%86%E4%BC%9A/" target="cdt-mirror">赛先生｜戴希：如果信息不能自由传播，科学将会怎样？</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png" rel="attachment wp-att-437766"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png?resize=550%2C305" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png?resize=300%2C166 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640.png?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>戴希（中国科学院物理研究所研究员）</p>
-<p>许多人在学进化论的时候，都曾有过这样的疑问：现在的猿类会不会继续进化成类似人类的高等智慧生物？说实话，这个问题也曾困扰我许久，特别是看完电影《人猿星球》以后（本人是该系列电影的粉丝）。后来我想明白其中一个重要因素，我称之为技术创新的回报率问题。举例来说，在远古时代，第一个发现如何使用火和轮子的部落，会在短时间内拥有对于其他部落的巨大优势，从而迅速崛起，占有地球表面大部分优质资源，剩下的群落或者被其同化，或者遁入穷山恶水，被迫依赖别的进化策略而生存下来。假设现在非洲某处的类人猿群落再次发现了如何使用火，会怎么样呢？很显然它们再也无法取得史前人类曾经获得过的巨大的进化优势，也不能籍此获取更多的自然资源，因为绝大多数资源已被它们远古时代的表亲，一种被称为人类的生物牢牢占有了。这些偶发性的技术进步、创新，由于不能获得足够大的生存竞争优势，既无法积累，也无法有效传播，因此不会发生某个类人猿部落因重新发明了轮子而信心爆棚，纠集起一支“猿军”，试图攻克旧金山的情况。</p>
-<p>永远不会再进化成人的类人猿或许是一个太极端的例子，但很好地说明了这样一个道理，即仅仅具有发明轮子的能力是不够的，要在竞争中获取最大的优势，就必须成为第一个发明轮子的人。弄清楚科技创新时效性的重大意义之后，就不难理解信息自由传播，对于科学发展是多么重要了。与十九世纪相比，在当代，人类的科技创新活动已经不再依赖个人的单打独斗，而是被整合成一张全球性的创新网络，每一个具有有效创新能力的研究组就是其中的一个节点。在网络中流动的，是信息流、人才流和资金流。衡量一个国家的创新能力的大小，就看它在全球创新网络中占有多大的比重。从严格意义上讲，并不存在孤立的所谓中国科学或者美国科学，只有中国或美国科学家在全球创新网络中的不同贡献，不同权重。要使得创新网络高效运行，有三个关键的要素，有效创新节点的数目、每个节点的创新能力和信息在网络中的流转速度。在节点数目基本固定、能力基本定型的情况下，创新网络的运行效率就主要由信息的流转速度决定。因此，对网络信息进行过度的审查、设限，必然会大大阻碍信息流动的速度，从而降低整个创新网络的运行效率。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6402-1.jpg" rel="attachment wp-att-437765"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6402-1.jpg?resize=585%2C271" alt="6402" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6402-1.jpg?resize=300%2C139 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6402-1.jpg?w=640 640w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><span>图片来自网络</span></p>
-<p>改革开放以来，中国的科学技术水平，特别是基础科学的水平有了极大的提升，这一方面是由于科研人员待遇的提高和研究经费的大幅增加，而另一方面也极大地获益于互联网普及所带来的专业知识传播速度的加快。甚至可以说，互联网的普及从某种程度上打破了长期困扰科技后发国家的“信息壁垒”。在国内，相信许多资深的科学家都还记得要等一年才能读到国外科技期刊的日子。那样的时代永远过去了，全球化和互联网时代的到来，使得信息流动变得前所未有的通畅，而在这一轮巨变中，中国是最重要的获益方之一，无论在经济还是科技方面都是如此。当然，在巨大的信息流中，有资金、技术、知识，也有许多阴暗的东西。做为政府部门，对此抱有警惕是可以理解的，也是其责任所在，但希望有关部门能对网络信息进行更加智能化的监管，而不只是简单屏蔽了事。</p>
-<p>事实上，目前互联网已经储存了人类在其进化过程中，对客观世界进行过的所有思考的总和，这是全人类的共同记忆，不属于任何国家、任何组织、任何个人。而我们目前的科研活动，也的确到了需要随时随地以最便利的方式获取到这些信息的地步。从这个角度看，有关部门目前对于网络信息的监管方式就过于简单粗暴了。举一个明显的例子，谷歌学术（google scholar）是目前被广泛使用的学术搜索工具，它是如此的出色，以至于大有超越SCI数据库的趋势。谷歌学术的搜索范围不局限于正式发表的论文，还包括大量的图书、文稿、笔记、科学演讲视频等各种丰富的资料。从实效性和完备性上看，至少在今后相当一段时间内，很难有别的学术搜索引擎能对其构成挑战，尤其是国内的类似服务，比如所谓的“百度学术”，就完全不在一个档次上。但遗憾的是，这么一个纯学术的搜索引擎，却被国内有关部门屏蔽了，不能直接登录使用。当然，科研人员们可以通过设置代理，也就是俗称“翻墙”以后使用，但这一来增添了许多不必要的麻烦，二来也给广大科学工作者带来潜在的法律风险。</p>
-<p>全球科技创新活动的一个重要发展趋势是无处不在的国际协作，越来越多的科学发现有赖于跨国、跨洲的国际协作，这是因为强强合作，才能最高效地推动科学发展。而对每个发展迅速的研究领域而言，世界上站在最前沿的科学家就那么几个，不太可能都来自同一个国家。大多数的国际协作研究，需要实时地共享大量的数据、图表、程序代码、文稿、音频、视频等，有时候需要来自不同国家的科学家们同时在一个文件或者目录里面工作，对文稿、源代码进行同步修改、开发。为了完成这些功能，现在国外有许多很强大的软件，在中国以外的科技界都几乎是通用的，比如dropbox、google Doc、github等等。但是很可惜，这些应用中的大多数在国内都不可用，这在很大程度上阻碍了中国科学家群体参与国际合作，并在其中争取更重要的地位。近年来，国内也出现了一些类似的应用程序，比如百度云、金山快盘等，特别是金山快盘能提供异地协作功能，一直是我们无奈中的选择。可令人震惊的是，最近金山快盘的个人网盘服务和协作功能突然被终止，我们只能再次艰难地寻找别的方式。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%91%E5%AD%98%E5%82%A8.jpg" rel="attachment wp-att-437764"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%91%E5%AD%98%E5%82%A8.jpg?resize=585%2C217" alt="云存储" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/云存储.jpg?resize=300%2C111 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/云存储.jpg?w=640 640w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><span>OneDrive、Dropbox、GoogleDrive、box等国外常用文件共享软件。图片来自cnet.com。</span></p>
-<p>除了科研过程以外，建立健康有序的科研和创新文化也同样离不开信息的自由传播。在去年的一次国际学术会议上，一位知名的印度裔美国物理学家D教授拉着我聊天，在夸奖了一通我们最近的工作之后，他不无感慨地跟我说起10年前他跟于渌先生的一次谈话。当时的胡温政府正开始大幅度增大科研投入，提高科研人员待遇，在那次谈话中他跟于渌先生预言，只要这样的投入能够维持下去，大概20年左右中国的物理学水平可以赶上日本。而现在才过去十年，至少在D教授看来，这几年来自中国的一流工作数量已经跟来自日本的持平了，作为“中国人民老朋友”的D教授自然是非常欣慰。同时，他也谈到中日之间令他困惑的差异，他发现除了那些一流的工作以外同时存在着大量来自中国的“垃圾文章”，而出自日本的“垃圾文章”则很少。对此，我的理解是，这一现象也跟信息传播的受限有关。经过十多年的快速发展，中国科技界形成了一个较为明显的分层结构，其中一部分已经完全融入国际创新网络，成为其中不可分割的成分，可以称之为“精英层”，而另一部分则由于种种原因不能有效融入国际创新网络，而形成所谓的“草根层”，两层之间犹如水和油一般界线分明。令D教授感到困惑的现象，就跟这种分层结构有关，而信息传播的受限又是形成这种分层结构的重要因素。令人感到忧虑的是，在中国科技界的两层之间已经形成了颇为不同的价值判断和取向，近年来数起轰动全国的科技界“公案”背后，如南大“王闻之争”，“透明计算之争”和最近的“磁性蛋白之争”，都隐藏着两种不同价值取向的碰撞。</p>
-<p>中国科学的未来，在于彻底融入国际创新网络，成为其不可分割的重要组成部分。以中华文明的源远流长和中国经济（人口）的体量，我们对人类现代科技文明的贡献，目前来看还是不成比例的，我们应该继续保持谦逊的态度，以积极的而不是霍元甲面对西方大力士的心态来对待科技创新活动的全球化趋势，更不应该画地为牢，躲在里面重新发明轮子，况且在许多情况下那个被重新发明的轮子并不圆，百度之于谷歌不是很好的例子吗？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%9B%E5%85%88%E7%94%9F%EF%BD%9C%E6%88%B4%E5%B8%8C%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BF%A1%E6%81%AF%E4%B8%8D%E8%83%BD%E8%87%AA%E7%94%B1%E4%BC%A0%E6%92%AD%EF%BC%8C%E7%A7%91%E5%AD%A6%E5%B0%86%E4%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6/?category=18271" rel="tag">科学研究</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -627,7 +635,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -637,5 +645,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

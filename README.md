@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,22 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%912015%E5%B9%B4%E5%BA%A6%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84/" target="cdt-mirror">【真理部】“2015年度‘五个一百’网络正能量精品评选结果”</a>
+</h2>
+<p><p>各网首页重要位置要突出转载“<a href="https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&ch=&tn=baidu&bar=&wd=2015%E5%B9%B4%E5%BA%A6%E2%80%98%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E2%80%99%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84%E9%80%89%E7%BB%93%E6%9E%9C&oq=2015%E5%B9%B4%E5%BA%A6%E2%80%98%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E2%80%99%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84%E9%80%89%E7%BB%93%E6%9E%9C&rsv_pq=ac7b0fa80003fb91&rsv_t=6e7eA6rqrV%2FuofQnq92HaeLOQIiry3Yhk%2BNw0PAC6frJKsf3oAljJbiJJys" target="_blank">2015年度‘五个一百’网络正能量精品评选结果</a>”专题页面，严格管理跟帖。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%912015%E5%B9%B4%E5%BA%A6%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%87%E9%9D%A950%E5%B9%B4%E5%90%8E-%E4%BB%96%E4%BB%8D%E5%9C%A8%E7%AD%89%E5%BE%85%E7%88%B6%E4%BA%B2%E6%AD%BB%E4%BA%A1%E7%9A%84%E7%9C%9F%E7%9B%B8/" target="cdt-mirror">纽约时报 | 文革50年后 他仍在等待父亲死亡的真相</a>
 </h2>
 <p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14CHINACULTREV-web1-articleLarge.jpg?resize=600%2C400" alt="陈书祥手捧祖父的照片及他曾在一所大学工作过的证明文件。他将此视若珍宝，因为他在文革中遇害的父亲没有留下一张照片。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14CHINACULTREV-web1-articleLarge.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14CHINACULTREV-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>陈书祥手捧祖父的照片及他曾在一所大学工作过的证明文件。他将此视若珍宝，因为他在文革中遇害的父亲没有留下一张照片。</p></div>
@@ -743,25 +756,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B1%9F%E8%8B%8F%E6%8A%97%E8%AE%AE%E5%AE%B6%E9%95%BF-%E7%9C%81%E6%94%BF%E5%BA%9C%E5%89%8D%E9%AB%98%E5%96%8A%E7%9C%81%E9%95%BF%E5%87%BA%E6%9D%A5/" target="cdt-mirror">【CDTV】江苏考生家长抗议现场：省政府前高喊“省长出来”</a>
-</h2>
-<p><blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E9%9D%9E%E6%96%B0%E9%97%BB%EF%BD%9C5-13-%E5%A4%A7%E6%89%B9%E6%B1%9F%E8%8B%8F%E8%80%83%E7%94%9F%E5%AE%B6%E9%95%BF-%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%89%8D%E6%8A%97%E8%AE%AE%E5%87%8F%E6%8B%9B/" target="_blank">【组图】非新闻｜5.13 大批江苏考生家长 省教育厅前抗议减招</a></p></blockquote>
-<p>2016年5月13日，大量江苏考生家长聚集在省政府前抗议该省“高考减招”，家长一­度齐声高喊“省长出来”。现场视频由网民拍摄，来自新浪微博@Jinvivi。特此备­份。</p>
-<p>截至发稿时，尚无任何中国大陆媒体对此进行报道。</p>
-<p><br>
-来源：新浪微博（<a href="http://weibo.com/p/230444a35e532cb84a3c04333f0e5e1de5b761" target="_blank">地址</a>）</p>
-<p><br>
-中国数字时代YouTube<a href="https://youtu.be/nGR3Rq1myzU" target="_blank">备份地址</a></p>
-<p><strong>以下图片来自新浪微博@王琦-V：</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqymgvz3j20zk0qodoz.jpg" rel="attachment wp-att-437901"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqymgvz3j20zk0qodoz.jpg?resize=550%2C413" alt="7f340df0gw1f3uqymgvz3j20zk0qodoz" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqymgvz3j20zk0qodoz.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqymgvz3j20zk0qodoz.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqymgvz3j20zk0qodoz.jpg?resize=1024%2C768 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqymgvz3j20zk0qodoz.jpg?w=1280 1280w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqylt5d1j20qo0zk45q.jpg" rel="attachment wp-att-437900"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqylt5d1j20qo0zk45q.jpg?resize=475%2C633" alt="7f340df0gw1f3uqylt5d1j20qo0zk45q" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqylt5d1j20qo0zk45q.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqylt5d1j20qo0zk45q.jpg?w=690 690w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqyncehaj20zk0qoti9.jpg" rel="attachment wp-att-437899"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqyncehaj20zk0qoti9.jpg?resize=550%2C413" alt="7f340df0gw1f3uqyncehaj20zk0qoti9" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqyncehaj20zk0qoti9.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqyncehaj20zk0qoti9.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqyky1yzj20zk0k2qcr.jpg" rel="attachment wp-att-437898"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqyky1yzj20zk0k2qcr.jpg?resize=550%2C310" alt="7f340df0gw1f3uqyky1yzj20zk0k2qcr" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqyky1yzj20zk0k2qcr.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqyky1yzj20zk0k2qcr.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqynyep1j20zk0k2gv4.jpg" rel="attachment wp-att-437897"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqynyep1j20zk0k2gv4.jpg?resize=550%2C310" alt="7f340df0gw1f3uqynyep1j20zk0k2gv4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqynyep1j20zk0k2gv4.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqynyep1j20zk0k2gv4.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqypyatbj20zk0jzn6r.jpg" rel="attachment wp-att-437896"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqypyatbj20zk0jzn6r.jpg?resize=550%2C309" alt="7f340df0gw1f3uqypyatbj20zk0jzn6r" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqypyatbj20zk0jzn6r.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7f340df0gw1f3uqypyatbj20zk0jzn6r.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B1%9F%E8%8B%8F%E6%8A%97%E8%AE%AE%E5%AE%B6%E9%95%BF-%E7%9C%81%E6%94%BF%E5%BA%9C%E5%89%8D%E9%AB%98%E5%96%8A%E7%9C%81%E9%95%BF%E5%87%BA%E6%9D%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">抗议示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">教育公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F/?category=18271" rel="tag">江苏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F%E5%87%8F%E6%8B%9B/?category=18271" rel="tag">江苏减招</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -773,7 +767,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -783,5 +777,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

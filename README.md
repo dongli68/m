@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,54 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E5%A9%9A%E4%B9%8B%E5%A4%9C%E6%9D%A5%E7%82%B9%E6%B1%A1%E7%9A%84/" target="cdt-mirror">【网络民议】新婚之夜来点污的</a>
+</h2>
+<p><p>5月16日消息，南昌供电段南昌西供电车间助理工程师李云鹏、检修车间助工陈宣池新婚之夜，铺开纸张，工整地抄下党章，称给新婚之夜留下美好记忆。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?resize=601%2C404" alt="16129128_980x1200_0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?resize=300%2C202 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?w=601 601w" sizes="(max-width: 601px) 100vw, 601px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129130_980x1200_0.png?resize=604%2C403" alt="16129130_980x1200_0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129130_980x1200_0.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129130_980x1200_0.png?w=604 604w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129131_980x1200_0.png?resize=603%2C398" alt="16129131_980x1200_0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129131_980x1200_0.png?resize=300%2C198 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129131_980x1200_0.png?w=603 603w" sizes="(max-width: 603px) 100vw, 603px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129132_980x1200_0.png?resize=601%2C396" alt="16129132_980x1200_0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129132_980x1200_0.png?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129132_980x1200_0.png?w=601 601w" sizes="(max-width: 601px) 100vw, 601px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129133_980x1200_0.png?resize=595%2C399" alt="16129133_980x1200_0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129133_980x1200_0.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129133_980x1200_0.png?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>@hnjhj：- 宝贝，新婚之夜你难道不想干点污的？ – 好啊，我们来抄党章吧。</p>
+<p>@绿凤孤鸣：→_→ 心中有了党，新婚忘了裆……</p>
+<p>@寒夜黙姫：所谓党指挥枪吗？</p>
+<p>@夏日午后的围脖：劳力士日志型间玫瑰金表，售价十万左右。原来铁路局记录员工资可以那么高！</p>
+<p>@melinda妖：我只想知道你在家抄党章，你单位怎么知道的？</p>
+<p>@小闲2010：有网友问：新婚之夜，还有第三者？谁拍的照？有网友答：估计是南昌铁路局的书记，共产共妻嘛。</p>
+<p>@酒心5798236680：有些党员就是这么拧巴，该性交时不性交抄党章，该按党章办事时不按党章办事搞破鞋。</p>
+<p>@margk：党章纹在杰宝上，一抽一插觉悟强！</p>
+<p>@哟哟哟哟哟卧槽：两口子结婚进洞房了 为什么会有个摄影师在洞房里 细思恐极啊</p>
+<p>@zhonghuazheng：党员小李夫妇常年坚持同房时#手抄党章 ，妻子奇迹般的有感而孕，而且像极了她单位党委的王书记。</p>
+<p>@一头鲸 ： 中国梦四大喜：久霾逢晴日，国考录取时，洞房花烛夜，前戏抄党章~~</p>
+<p>@揚州鴻祥興 ： “落红不在无情物，党章抄来更性福”。</p>
+<p>@欢乐小厨娘：药不能停。</p>
+<p>@团掌大人：我还以为是文革时期的新闻。</p>
+<p>@北极小毛毛虫：两学一做工作这么忙，咋还有空结婚啊。</p>
+<p>@正道-不忘初心方得始终：党性和人性的高度统一。</p>
+<p>@犬马o0O：新婚之夜洞房内扛着单反的摄影师其实是雷锋私人摄影师的关门弟子。</p>
+<p>@j-j终结者：在文化大革命50周年纪念日结婚！ 牛逼!</p>
+<p>@正觉99：大脑和生理都病的不轻。</p>
+<p>@爫塵：你确定这新闻不是给党挖坑？</p>
+<p>@沐云归尘：初夜献给党。</p>
+<p>@Royees_爱体育：党性党性，先党后性，有错吗？</p>
+<p>@章海东东：随身带着摄影师的人运气不会太差。</p>
+<p>@新西兰二哥：配个好点的图行吗？</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6b4d2533gw1f3y62jm4bij20bn0ewwgk.jpg?resize=419%2C536" alt="6b4d2533gw1f3y62jm4bij20bn0ewwgk" data-recalc-dims="1"></p>
+<p>@屌三爷：老公手抚老婆俩腿之间问：这是什么？老婆答：这是党！ 老公说：我想入党，行不？老婆道：你要求入党的心情我理解，但正式入党还需要符合以下条件：1.必需你得过硬，党的大门才为你敞开；2.你的枪要完全服从党指挥！3.入了我的党就不能入别的党；4.对党要绝对忠诚，并誓死捍卫党……..</p>
+<p>@Unicorn唐：上行下效。感觉在思想、文化和舆论上，相比起长者和面瘫，刁太大是铁了心了要把我朝搞成曹县。</p>
+<p>@坏人方小盒：躲在柜子里的老王拍下了这感人的一幕。</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E5%A9%9A%E4%B9%8B%E5%A4%9C%E6%9D%A5%E7%82%B9%E6%B1%A1%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%99%9A%E5%AE%89-%E4%BD%A0%E7%9C%8B%E4%B8%8D%E8%A7%81%E6%88%91%EF%BC%8C%E4%BD%86%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E5%9C%A8/" target="cdt-mirror">【立此存照】晚安——你看不见我，但你知道我在</a>
 </h2>
 <p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E7%BD%91.jpg" rel="attachment wp-att-438076"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E7%BD%91.jpg?resize=500%2C620" alt="中国警察网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?resize=242%2C300 242w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?resize=768%2C953 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?resize=826%2C1024 826w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?w=1572 1572w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
@@ -692,61 +737,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E7%91%9C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E8%83%A1%E5%8F%91%E4%BA%91%EF%BC%9A%E8%AE%A9%E6%88%91%E4%BB%AC%E8%AE%B0%E4%BD%8F%EF%BC%8C%E5%B9%B6%E4%B8%8D%E5%86%8D%E8%B8%8F%E5%85%A5%E9%82%A3%E4%B8%80/" target="cdt-mirror">华夏文摘｜胡发云：让我们记住，并不再踏入那一片疯狂之海</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/images.jpg?resize=213%2C237" alt="images" data-recalc-dims="1">[《迷冬—青春的狂歡與煉獄》——文化大革命五十週年祭—還原史實與靈魂的長篇小說。台湾南方家园出版社出版]</p>
-<p>一九八四年，我的职业写作生活开始的时候，便动了写《迷冬》念头 —— 那时，离文革爆发已近二十年 —— 当年那一群伙伴以及周边的各色人等，一直刺激着我的创作冲动，我想写出一个我所见所闻所思所想的真实的文革。</p>
-<p>文革结束不久，曾出现了一大批文革题材的作品，汇聚成后来文学史称之为「伤痕文学」的一股潮流。 相对于此前十多年的极左文艺，这当然是一次勇敢的破冰。 但是渐渐地，我感觉到，冰层虽已打破，但暗流依然汹涌，更谈不上水落石出。</p>
-<p>但那毕竟是一个一九四九年以来最好的时期，一个充满了活力，充满了变化，充满了希望的时期。 过高的期求和过早的结论可能都是轻率的。</p>
-<p>不久之后，西单民主墙被封，星星美展被禁，电影《苦恋》被批，连曾是大陆意识形态总管的前宣传部长周扬，因反思文革、重提「马克思主义的人道主义」也被围剿……</p>
-<p>历史又一次进入诡异的迷宫。 特别是一九八一年出台的《关于建国以来党的若干历史问题的决议》，所描述和定义的文革，与我的亲身经历多有抵牾。 许多问题云遮雾罩，许多问题文过饰非，许多问题张冠李戴……</p>
-<p>再回过头来看那些伤痕文学，便觉出了其中的一些蹊跷，他们所写的苦难与伤痛，只是某一部分人的伤痛与苦难，他们所写的邪恶与凶残，也只是某一部分人的邪恶与凶残。 这些引起我的疑虑，就像当年我在一首诗中所表达的：</p>
-<p>……<br>
-在这歌唱与跳跃的岁月，<br>
-你是不是显得过于老成；</p>
-<p>——看看吧！<br>
-看我心上的刀口，<br>
-看我身上的疤痕。<br>
-谁受过如此长久的磨难，<br>
-谁也会像岩石一般坚硬。<br>
-我厌恶 老奸巨滑的表演，<br>
-我怜悯 天真幼稚的兴奋。<br>
-因为<br>
-为了那被出卖了的信仰，<br>
-我曾亵渎过自己的热情。</p>
-<p>摘自《性格》一九八一年五月。</p>
-<p>春寒料峭，乍暖还寒，前景充满了各种不确定性。 《迷冬》写了五六万字的时候，我决定停下来。 我知道，我还没有把握住那个波谲云诡的时代，我还没有清除多年来盘踞在我脑子里的那些连自己都没有发现的魔障，我还被眼下这样的所谓「新时期」、「大变革」困扰着。 换一句话说，我还有着期待。</p>
-<p>直到一九八九。 我终于明白了，这个时代，从本质上来说，没有改变。</p>
-<p>我决定，回过头去重新审视我和我的祖国这数十年的风雨历程。</p>
-<p>我庆幸在八十年代没有将《迷冬》太过草率地写下去。 一个没有弄懂「文革前史」和「文革后史」的人，是不可能弄懂文革的。 我开始重读文革，阅读大量的史料，拜访很多当事人，和那些对文革有独立思考的友人探讨。 努力以局外人的身份，重返文革现场。 以一种更加超然的眼光看它。</p>
-<p>一九九四年我有了第一台计算机（台湾部件在大陆组装的），九十年代后期，我走进了通往世界的互联网，那时，封网技术还没有今天这样完备而强大，我看见了幽微的历史深处，许许多多的碎片，渐渐拼接出一幅幅真实的历史原图。</p>
-<p>那些个在文革中受尽磨难甚至死去的人，很多也曾用同样的方式折磨过别人、并让别人死去。 那些控诉四人帮剥夺了他们受教育权利的红卫兵小将，当年曾率先提出废除高考，那些被誉为祖国钢铁长城的军人，曾是文革中权倾一时生杀予夺的人，无数的冤案都出自于他们之手。 一九六八年，一位叫刘万泉的军代表，逼死黄梅戏名伶严凤英后，又叫来外科医生当着他的面给严凤英开肠破肚，搜查她藏在肚子里的发报机。 「直到二ＯＯ九年被网友人肉搜索时，他正在南昌东湖区的一个小区颐养天年。 」（熊培云《一个村庄里的中国》）而无数进入新时代的干部，恰恰是文革时期被提拔起来的，并留下过种种劣迹。 至于那些文革初期，对那些毫无反抗意图更无反抗能力的「阶级敌人」进行过戏谑般虐杀的人们，早已掩埋好了自己那一段历史，进入「第三梯队」准备接班了。 当然，更多的是普普通通的民众，他们豪情万丈投身文革，伤痕累累走出浩劫，懵懵懂懂中就这么丢失了十多年岁月也丢失了日后的前程，等待着一次又一次被边缘化的命运。</p>
-<p>一九九五年，中国社会科学院学者、文革研究专家徐友渔先生，向我约写一篇自己在文革中亲身经历的文章。 在那之前几年，徐友渔先生由哲学家萌萌介绍，曾来武汉与我做过关于文革的长谈。 于是，我给他写了一万多字的纪实散文《红鲁艺》——这就是《迷冬》的前身。 当时，文革已成敏感领域。 几经磨难，那部名为《1966，我们那一代的回忆》在一九九六年文革三十周年之际终于得以出版。</p>
-<p>《红鲁艺》让我找到了书写文革的「葵花宝典」 —— 那就是真实。 只有在真实的前提下，我们的反思与否定才是有意义的。</p>
-<p>接下来的数年中，我写了一系列文革题材的中篇小说：《处决》、《隐匿者》、《媒鸟 5 》、《死于合唱》、《葛麻的 1976—1978 》……尽管每一部的发表都困难重重，但那时文学多少还有一些空间。 再往后，便一年年萧瑟，以至于被《关于建国以来党内若干历史问题的决议》否定过的东西，也登堂入室了。 到了薄熙来主政重庆，就干脆把文革那一套冠以「唱红打黑」之名搬上了社会舞台，一时间红旗飘飘，红歌涛涛，恍若文革重现。 文革后渐渐弥合的社会又开始撕裂。 多年来积累的社会问题，变成一股股怨气戾气火气，在寻找一个可以喷发的火山口。 野心家们也想将它们调配成一剂新时代义和团的神药，以对抗那个日益逼近世界文明。</p>
-<p>我知道，该写《迷冬》了。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/564fbea828608.jpg?resize=350%2C420" alt="564fbea828608" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/564fbea828608.jpg?resize=250%2C300 250w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/564fbea828608.jpg?w=350 350w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1">在二十世纪三大极权主义社会运动中，中国的文革是最为复杂、最为诡异、最为多元的。 纳粹与苏俄都有基本固定的政治结构模型：领袖、政党、群众及他们要打击迫害的敌人，有基本统一的意识形态与理论纲领，数年数十年一以贯之。 但是大陆复杂的思想文化资源，盘根错节的宗派关系，领袖浪漫主义随心所欲的山大王风格，以及各种派别各阶层民众的社会智能，让这场运动变得格外扑朔迷离，也让各种力量有了表演的机会。 看似一个领袖，一个政党，一个主义，实际上以上三者，都变成各种集团、各种阶层、各色人等使用的行头与台词。 所有的人，都在用毛的语言攻击对方，保护自己，并竭力表达出自己的利益诉求。</p>
-<p>文革，是数十年来积累的各种矛盾的一次社会大博弈。 在大陆版《迷冬》的后记中我曾说过：「文革就像一头巨大的怪兽，有人看见了头，有人看见了尾，有人看见了一鳞半爪，有人看到的是它巍峨的身影。 有人受了它的惠，有人遭过它的罪，有人在此时当过打手，在彼时又做了阶下囚，有人一直顺风顺水左右逢源一直到今天……有人说，那是一次上层的权斗，有人说那是一场民间的造反，有人说那是突如其来的大劫难，也有人说这场劫难早已开始，文革只是把它推往极致，有人说，物极必反，没有文革，说不定今天就是一个大北韩……其实，文革是一个极其漫长、极其复杂的过程。 从路线的分歧，理念的冲突，派系的倾轧，阶级的博弈，到私人的过结，利益的选择，历史的恩怨，文化的差异，贫富的悬殊，官民的对立……都成为文革的底色与背景。 」</p>
-<p>有些官员否定文革，只是否定当年某一时段民众对他的造反行为，让他戴高帽、「架飞机」，而不会否定自己对民众之前的镇压和之后的报复。 有些知识分子否定文革，只否定自己被关牛棚挨批斗，不否定之前自己对当局的效忠和之后的顺从。 农民否定文革只否定让他们挨饿受累连个鸡蛋小菜也不许叫卖，而不否定自己文革中对地主富农的残酷斗争。 有些当年的知识青年红卫兵否定文革，只否定停课闹革命上山下乡让自己吃了多少苦头，而没有否定当年殴打老师辱骂同学抄家烧书毁坏文物。 那些红二代否定文革，只否定文革给他们父辈带来多少苦难，而没有否定他们和他们的父辈给地富反坏右等各种阶级敌人、思想者、异见者以及数以亿计的民众所带来的更加深重的苦难……所以我在那篇后记中说了：「空洞地肯定文革或否定文革，等于什么也没说。 」</p>
-<p>完整的真相！ 才是否定与反思的唯一前提。</p>
-<p>由此，我希望写出我所经历我所感受的历史真相，各色人等的生活真相与心灵真相。 写出文革的前史与后史，把文革放在一个大历史的背景中去看，以此来解读这个诡谲的怪物。</p>
-<p>大陆学者朱学勤给台版《迷冬》写了一段荐语：「文革之祸不仅在于它的发动与过程，也在于它的最终结局：官僚特权阶层成为胜利者。 由此形成的官方话语，更多反映的是胜利者对社会记忆的裁剪与禁忌。 胡发云也否定文革，但他突破了官方禁忌，尽可能还原被禁忌的社会记忆。 因此，他的《迷冬》既可以当小说读，也可以当历史读。 只有允许还原，文革才能真正否定，只有还原真相，否定才经得起历史检验。 」</p>
-<p>朱学勤先生以他的观察和敏思，看到了问题的要害。</p>
-<p>只要我们还没有面对这个问题的勇气，文革便是一个永远徘徊不去的幽灵。</p>
-<p>还有一个月，就是史学界所说的文革爆发纪念日 — 《五一六通知》发布五十周年之日。 在那之前的半个世纪，历经大清王朝覆灭，民国政府诞生，日寇入侵，国共内战，两岸分离以及中共建政，及其后的一系列运动，最终抵达了文革—这个世界史上最为奇特最为荒唐也最为惨烈的社会运动，至今还没有被彻底的披露与清算。</p>
-<p>再过一二十年，文革的参与者、见证者也将彻底退出历史舞台，官方的文革史或许会成为信史，这当然是他们乐意看到的，也是他们多年努力的目标。 更重要的是，由于阻止了对文革真相的揭示与反思，文革的遗传因子，已深深融入几代人的血液之中，我们今天看到的所有丑恶、无耻、疯狂、卑劣、冷酷、麻木……几乎都能从文革中找到它们的渊源。</p>
-<p>感谢互联网，让许许多多的当事人、知情人、追寻人，一点一点挖掘出文革真相，保存于互联网的数据库中，历史不再会在一把火中随风而去了。</p>
-<p>让我们记住，并不再踏入那一片疯狂之海。</p>
-<p>二Ｏ一六年四月十二日于武汉</p>
-<p>来源：《迷冬—青春的狂歡與煉獄》后记</p>
-<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E8%83%A1%E5%8F%91%E4%BA%91%EF%BC%9A%E8%AE%A9%E6%88%91%E4%BB%AC%E8%AE%B0%E4%BD%8F%EF%BC%8C%E5%B9%B6%E4%B8%8D%E5%86%8D%E8%B8%8F%E5%85%A5%E9%82%A3%E4%B8%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">文革50周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E5%8F%91%E4%BA%91/?category=18271" rel="tag">胡发云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -758,7 +748,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -768,5 +758,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,78 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF%EF%BD%9C%E6%88%91%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A0/" target="cdt-mirror">【麻辣总局】我的名字叫警长｜我抄完党章再睡你</a>
+</h2>
+<p><p><strong>来自微信公号：我的名字叫警长（ID: wdmzjjz1987）</strong></p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E5%A9%9A%E4%B9%8B%E5%A4%9C%E6%9D%A5%E7%82%B9%E6%B1%A1%E7%9A%84/" target="_blank">【网络民议】新婚之夜来点污的</a></p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A0-.jpg" rel="attachment wp-att-438134"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A0-.jpg?resize=500%2C393" alt="抄完党章再睡你" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/抄完党章再睡你-.jpg?resize=300%2C236 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/抄完党章再睡你-.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/nc18.jpg" rel="attachment wp-att-438133"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/nc18.jpg?resize=500%2C451" alt="nc18" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A01.jpg" rel="attachment wp-att-438132"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A01.jpg?resize=500%2C1740" alt="抄完党章再睡你1" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A02.jpg" rel="attachment wp-att-438131"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A02.jpg?resize=500%2C1645" alt="抄完党章再睡你2" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A03.jpg" rel="attachment wp-att-438130"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A03.jpg?resize=500%2C1823" alt="抄完党章再睡你3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/抄完党章再睡你3.jpg?resize=281%2C1024 281w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/抄完党章再睡你3.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF.jpg" rel="attachment wp-att-438129"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF.jpg?resize=500%2C386" alt="我的名字叫警长" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长.jpg?resize=300%2C232 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>附：</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E5%A9%9A%E5%A4%9C%E5%AD%A6%E4%B9%A0%E6%AF%9B%E8%AF%AD%E5%BD%95.jpg" rel="attachment wp-att-438136"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E5%A9%9A%E5%A4%9C%E5%AD%A6%E4%B9%A0%E6%AF%9B%E8%AF%AD%E5%BD%95.jpg?resize=500%2C670" alt="新婚夜学习毛语录" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新婚夜学习毛语录.jpg?resize=224%2C300 224w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新婚夜学习毛语录.jpg?w=690 690w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>图片来源：新浪微博@共识网</span></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/644e8aa7gw1f3ybbptxu5j20l00m8dkg.jpg" rel="attachment wp-att-438137"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/644e8aa7gw1f3ybbptxu5j20l00m8dkg.jpg?resize=450%2C476" alt="644e8aa7gw1f3ybbptxu5j20l00m8dkg" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/644e8aa7gw1f3ybbptxu5j20l00m8dkg.jpg?resize=284%2C300 284w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/644e8aa7gw1f3ybbptxu5j20l00m8dkg.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><span>图片来源：新浪微博@评论员李铁</span></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF%EF%BD%9C%E6%88%91%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">中共党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%B1%E7%BA%A2%E6%AD%8C/?category=18271" rel="tag">唱红歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E6%B7%B1%E5%A4%9C%E6%89%93%E7%A0%B4%E6%B2%89%E9%BB%98%EF%BC%9A%E5%86%B3%E4%B8%8D%E5%85%81%E8%AE%B8%E6%96%87%E9%9D%A9/" target="cdt-mirror">纽约时报 | 中国官媒深夜打破沉默：决不允许文革错误重演</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/17china-web-articleLarge.jpg?resize=600%2C430" alt="1967年，红卫兵举着毛泽东的肖像在北京的街道上游行。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/17china-web-articleLarge.jpg?resize=300%2C215 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/17china-web-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>1967年，红卫兵举着毛泽东的肖像在北京的街道上游行。</p></div>
+<p>50年前的这一天，中共领导层发动了毛泽东提出的文化大革命，使中国陷入长达十年的血腥政治风暴。中共的重要报纸打破了媒体在这个纪念日问题上的普遍沉默，敦促民众接受此前对这一事件的定性，将目光聚焦于未来。</p>
+<p>“历史总是向前发展的，我们总结和吸取历史教训，目的是以史为鉴、更好前进，”周一深夜出现在人民网上的这篇评论文章写道。当天官方新闻媒体对这个纪念日基本保持了沉默。“我们一定要牢牢记取‘文革’的历史教训。”</p>
+<p>这篇文章是目前为止党内出现的有关文革开始50周年的最高级别的公开评论。为了清洗队伍，给共产主义重新注入活力，毛泽东在当时发动了文革，攻击自己的同僚，煽动狂热的学生激进分子“红卫兵”，希望实现他的初衷。</p>
+<p>不过，这篇评论并没有体现出新的突破。文中坚称，中共在1981年通过的历史决议中对文革所做的定性“具有不可动摇的科学性和权威性”，并呼吁人们团结在国家主席习近平及其政策周围。</p>
+<p>“决不允许‘文革’这样的错误重演，”文中还写道。</p>
+<p>这篇评论不太可能让历史学者和亲历文革的人士感到满意。他们一直在呼吁对这个历史教训进行更加开诚布公和更为彻底的审视。在审查的重压之下，中国的新闻机构几乎全都回避了这个纪念日，无从提及中国现代史上这一令人痛心的转折点——文革期间，可能有上百万人遇害。</p>
+<p>“时间过去得越久，就越难承认这些错误，”居住在北京的社会学者戴建中说。当时他就读的高中是红卫兵组织的发源地。“知识的封闭，让更年轻的一代对过去几乎一无所知。”</p>
+<p>另一个打破沉默的媒体是《环球时报》。这是一份热衷民族主义的报纸，其言论比大多数官方媒体更直接。周一深夜，该报也发表了一篇评论，驳斥了中国会再次经历文革的说法，呼吁人们将注意力放在党所取得的成就上。</p>
+<p>“我们早就对‘文革’说拜拜了，”这篇评论写道。文章署名为单仁平，是该报主编胡锡进通常使用的笔名。“今天可以再说一遍，‘文革’不能也不会卷土重来。”</p>
+<p>几十年前，中共就对文革进行了否定，但领导层一直不大愿意就近现代史上的诸多议题公开发表争议性观点。在习近平领导下，这种不情愿进一步加剧。</p>
+<p>自2012年上台以来，他一直在力图巩固毛泽东作为共产党统治构建者的崇高地位。一些历史学者和经历过文革的人士表示，在文革发动纪念日问题上的普遍沉默，反映出了这种政治氛围。</p>
+<p>“官方的总结非常简单——文革是一场灾难、一场浩劫，”郑义说。文革期间他曾是激进学生，后来成为作家，现居美国弗吉尼亚州。“但如今中国甚至不鼓励研究文革这段历史和教训。”</p>
+<p>他还表示，“从某种意义上讲，现在的社会分化程度比当时更严重，领导层不喜欢暴露他们在什么情况下可能会丧失政权。”</p>
+<p>毛泽东之所以发动“伟大的无产阶级文化大革命”，是因为他认为共产党逐渐变得腐化和妥协，需要进行一场严酷的大规模政治运动，以净化和复兴革命。</p>
+<p>在1966年5月16日举行的一场会议上，中共领导层通过了一份通知，文中阐述了毛泽东的信念：革命正面临来自内部的威胁。这份通知的完整内容直到一年后才正式公布，但它的影响很快就开始显现。批准这份通知的官员有不少后来被剥夺了公职，受到违背毛泽东意志的指控，而且大多遭到了红卫兵和激进官员极其严重的虐待。</p>
+<p>随之而来的是多年的政治动荡。到了1976年，毛泽东去世后，他的继任者很快逮捕了文革的激进支持者。在1981年，中共正式对文革予以了否定，当时集中出现了很多回忆录、承认错误的声明和相关历史研究。但是在之后的岁月里，尤其是在习近平的领导下，这种坦诚的态度又逐渐减弱。</p>
+<p>然而，沉默并不是全部。</p>
+<p>近一年里，自由派刊物和网站陆续发布回忆录和文章，呼吁对文革的历史教训进行更深刻的反思。然而，在中国的左翼网站上，不断有维护毛泽东政策的评论文章冒出来，有一篇甚至暗示这个国家需要来一场“2.0版本的文革”。（这篇文章后来从一个新毛派网站上删除。）</p>
+<p>“几十年没有进行过有关文革的历史教育，不曾告知人们当时发生哪些可怕的事，产生了多大的破坏力量，年轻人几乎没有听说过这些事，所以比较年轻的官员和学生实际上并不懂什么是文革，”北京大学教授、文革历史学者印红标在接受电话采访时说。1966年，他正在上初中，亲眼见证了红卫兵运动席卷和吞没北京。</p>
+<p>“一些人将自己对现在的不满投射到过去，”印红标说。“所以在他们看来，毛泽东时代的生活似乎反倒更好。”</p>
+<p><strong>附：</strong></p>
+<p><strong>人民日报 | 以史为鉴是为了更好前进</strong></p>
+<p>作者：任平</p>
+<p>“文化大革命”是我们党和国家发展进程中的一个重大曲折。应该如何认识“文革”？1980年8月，邓小平同志两次会见意大利记者法拉奇，以坦荡的历史胸襟和客观鲜明的政治态度回答了当时国内国际都非常关注的中国共产党对毛泽东同志和“文化大革命”的评价问题。一年后，党的十一届六中全会通过了《关于建国以来党的若干历史问题的决议》，对新中国成立以来的一系列重大历史问题作出正确结论，彻底否定了“文化大革命”和“无产阶级专政下继续革命的理论”，实事求是地评价了毛泽东同志的历史地位，充分论述了毛泽东思想作为党的指导思想的伟大意义。这个决议对“文革”的政治定性和原因分析，经受住了实践的检验、人民的检验和历史的检验，具有不可动摇的科学性和权威性。</p>
+<p>“文化大革命”是一场由领导者错误发动、被反革命集团利用，给党、国家和各族人民带来严重灾难的内乱，造成的危害是全面而严重的。历史已充分证明，“文化大革命”在理论和实践上是完全错误的，它不是也不可能是任何意义上的革命或社会进步。</p>
+<p>我们党对自己包括领袖人物的失误和错误历来采取郑重的态度，一是敢于承认，二是正确分析，三是坚决纠正，从而使失误和错误连同党的成功经验一起成为宝贵的历史教材。《历史决议》把“文化大革命”时期同作为政治运动的“文化大革命”区分开来，把“文化大革命”的错误理论与实践同这十年的整个历史区分开来，有力回击了借否定“文化大革命”来否定党的历史、否定党的领导和社会主义制度的错误观点。正是有了这种正确态度，我们党从挫折中警醒，重申了实事求是的思想路线，实现了工作重心的转移，制定了党在社会主义初级阶段的基本路线，确立了中国特色社会主义道路，实现了伟大历史转折，开拓了改革开放新征程。改革开放30多年来，我们的国家日益强大，人民生活水平得到极大提高，社会主义民主法制不断健全，我们的道路越走越宽阔，不会也决不允许“文革”这样的错误重演。</p>
+<p>历史总是向前发展的，我们总结和吸取历史教训，目的是以史为鉴、更好前进。“前事不忘，后事之师”。我们一定要牢牢记取“文革”的历史教训，牢牢坚持党对“文革”的政治结论，坚决防范和抵制围绕“文革”问题来自“左”的和右的干扰，既不走封闭僵化的老路，也不走改旗易帜的邪路，而要毫不动摇走中国特色社会主义道路。</p>
+<p>党的十八大以来，以习近平同志为总书记的党中央，总结历史、面向未来，从坚持和发展中国特色社会主义全局出发，提出一系列治国理政新理念新思想新战略，按照“五位一体”总体布局，协调推进“四个全面”战略布局，树立和贯彻新发展理念，带领党和人民开创社会主义现代化建设新局面。党中央确定的目标、方向和任务是明确的，深得党心民心，深受人民的拥护。现在我们比历史上任何时期都更接近中华民族伟大复兴的目标，比历史上任何时期都更有信心、有能力实现这个目标。越是这个时候，越需要全党全国各族人民拧成一股绳，团结一致、齐心协力，排除一切干扰，聚精会神、埋头苦干，把我们今天的事情办好，把我们的既定目标实现好。我们要把思想和行动统一到党中央的决策部署上来，统一到习近平总书记系列重要讲话精神上来，坚持用党的理论创新成果武装全党、教育人民、指导实践，坚定中国特色社会主义道路自信、理论自信、制度自信。要牢固树立政治意识、大局意识、核心意识、看齐意识，紧密团结在以习近平同志为总书记的党中央周围，矢志不渝为实现“两个一百年”奋斗目标、实现中华民族伟大复兴的中国梦而团结奋斗。</p>
+<p><strong>环球时报 | “文革”已被彻底否定</strong></p>
+<p>作者：单仁平</p>
+<p>互联网上有一些关于“文革”的谈论。那场持续十年的内乱给中国带来巨大灾难，在“文革”发动50周年这个时间节点上，出现一些讨论是正常的。但另一方面，若是把这种讨论看作一种认识上的“撕裂”，恐怕与社会真实思想面貌不太对得上。或者换句话说，中国社会看待“文革”的共识远远大于分歧。</p>
+<p>中共中央1981年《关于建国以来党的若干历史问题的决议》，对“文革”作出彻底否定的权威定性，从那时起，几代中共领导人都坚定维持了《决议》的结论，党的所有正式文献也都未出现过任何异议。彻底否定“文革”，不仅是全党上下的认识，而且应当说是中国社会整体上相当稳定的共识。</p>
+<p>党的十八大以来，随着“四个全面”战略布局的协调推进，改革开放之初“国家现代化”的目标，也在爬坡过坎的突破中不断接近。从当年“被开除球籍”的焦虑，到今天世界第二大经济体，尽管“发展起来以后的问题”还有不少，但中国人前所未有的“获得感”是真实的，对今天所走道路的认同是真切的。公众在这个时候尤其不会把“文革”重拾为样板。应当说，站在今天的高度上，中国人对“文革”的集体认识比那个时候更加清醒而坚定。</p>
+<p>“文革”在中国不可能重演。十年浩劫给中国发展造成了严重损失，也让许多中国人留下了永久的人生伤痛。那份集体记忆无法抹去。“文革”结束后，山西农民、棉花专家吴吉昌对新华社记者穆青动情地说：“老穆，俺不怕穷，只怕乱。今后可不能再折腾了，越折腾越穷，将来国家靠啥呀？”彻底否定“文革”，有助于中国社会对各种失序的危险保持高度敏感和警惕。最近这些年，不少发展中国家持续发生内乱，但却难以撼动中国，一个重要原因就是“文革”的惨痛教训给中国人带来了某种“免疫力”。没有人比我们更害怕动荡，没有人比我们更渴求稳定。</p>
+<p>舆论场变得开放后，各种各样的声音一直都存在，这样的多元化在互联网时代表现得更为显著。而“文革”发动50周年又是一个“难得的命题”，网上出现了一些不正确的观点，也不足为怪。这些声音虽然有的调门不算低，但它脱离了中国人的现实关切，终究掀不起大浪。</p>
+<p>党在上世纪八十年代带领全国人民，在思想上、组织上、法律上已经对“文革”做了深刻反思，对林彪、“四人帮”反党集团案主犯进行公开审判，既清算了他们的罪行，也教育了更多的人。那一场大反思，奠定了中国全面走向改革开放的思想基础。随后三十多年的伟大实践则彻底覆盖了“文革”，它大大超越了否定“文革”的政治评判。</p>
+<p>可以说，中国这几十年的发展，是从“拨乱反正”迈出的第一步。在思想上是彻底否定“文革”，在实践上则是停止“以阶级斗争为纲”，把党和国家工作重心转移到“以经济建设为中心”上来。30多年来，我们憋着一股劲“把失去的损失夺回来”，发展走上正轨，生活也变好了。大家一起谋发展、向前看，这为国家的前进提供了强大动力，也为我们巩固社会团结减少了不少困扰。既不走老路，也不走邪路，这个道理经实践反复磨砺变得愈发强大，获得了人民的广泛支持。</p>
+<p>“文革”那一页彻底翻过去了，改革开放的大跨度前进把中国带到全球化的前沿，我们用一心一意做实事，创造了与外部世界相比的赢局。而把发展放在中心位置，是最基本的历史经验。无论是严惩腐败、依法治国，还是发展民生、缩小社会差距，必须坚持中国特色社会主义道路，努力做世界上最有活力的探索者、实践者。这方面，我们理应有“三个自信”。在最接近中华民族伟大复兴的时候，最要紧的是凝心聚力、团结奋斗，不忘“发展才是硬道理”，把自己的事情做得更好。一些干扰或许很难避免，但只要我们有排除干扰的能力，有不为干扰所动的定力，中国的前进就不会被打折扣。</p>
+<p>我们早就对“文革”说拜拜了，今天可以再说一遍，“文革”不能也不会卷土重来。中国今天的格局中已根本不再有“文革”的位置，关于它是否会重演的争论，答案是非常明确的。计算机联网的时代，何须担忧算盘会不会涨价。中国人的集体思维升华了不知几个维度，人们绝不会允许“文革”那一套再追上来纠缠我们。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E6%B7%B1%E5%A4%9C%E6%89%93%E7%A0%B4%E6%B2%89%E9%BB%98%EF%BC%9A%E5%86%B3%E4%B8%8D%E5%85%81%E8%AE%B8%E6%96%87%E9%9D%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E8%B5%B0%E9%82%AA%E8%B7%AF/?category=18271" rel="tag">不走邪路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">党的历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E9%97%AE%E9%A2%98/?category=18271" rel="tag">历史问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%9A/?category=18271" rel="tag">反党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D/?category=18271" rel="tag">反思</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">反革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%8A%A8%E8%8D%A1/?category=18271" rel="tag">政治动荡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">文革50周年</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E6%97%A0%E6%B3%95%E8%BA%B2%E9%81%BF%E7%9A%84%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">温克坚：无法躲避的债务危机</a>
 </h2>
 <p><p>在众多表征经济趋势的市场信号中，有些信号因为受到太多污染——比如失业率，因而很难成为可靠判断的基础，但近期债券市场的频频违约，无疑是经济危机深化的重要表征。</p>
@@ -199,7 +268,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%BF%E8%A1%A3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">便衣警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">警察国家</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%912015%E5%B9%B4%E5%BA%A6%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84/" target="cdt-mirror">【真理部】“2015年度‘五个一百’网络正能量精品评选结果”</a>
 </h2>
@@ -621,99 +690,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E8%AE%A9%E6%B1%9F%E8%8B%8F%E6%8D%90%E7%B2%BE-%E4%B8%8D%E5%A6%82%E7%BB%99%E8%A5%BF%E9%83%A8%E5%A3%AE%E9%98%B3/" target="cdt-mirror">导弹熊 | 让江苏捐精  不如给西部壮阳</a>
-</h2>
-<p><p>为了高考名额的事情，江苏湖北一片哭爹喊娘。不，准确地说是一片爹哭娘喊。</p>
-<p>政策这个东西，从庙堂到草泽，要软着陆，要有降落伞，不能duang地一声，鸡飞狗跳、泥水四溅。</p>
-<p>政策这个东西，要像蒸汽熨斗，把民意褶皱给弄平展了，而不是像蒸汽，造成新的抽巴。</p>
-<p>政策这个东西，交给老百姓的时候，要打磨一下，别带着倒刺钉子就往怀里杵。</p>
-<p>中国人，尤其是计划生育以来生了独苗苗的这一代，啥都可以将就，唯独不能容忍一切可能伤及他家娃的事情。高考虽然有些毛病，但依然是迄今为止寒门子弟可以靠自身实力改变命运的最不坏的办法。任何在这条路上安置路障，或疑似安置路障的做法，都可能招致老百姓豁出来斗。</p>
-<p>从官方表态来看，苏鄂填西部，这个点子肯定不是教育部几个头儿玩骰子玩出来的。数据表明，江苏高考实际报考人数在逐年下降，因为有不少孩子选择去国外读书，这是和江苏的发达程度匹配的。这部分空出来的名额，似乎可以转移给西部，算是损有余以补不足。</p>
-<p>再就是地方解释说：中国高等教育体系庞杂，一省之内，既有中央军，又有地方军，中央军和地方军内部，又有甲种乙种之分，还有本科专科之别，以及方兴未艾的职业教育，最近一些年还有民营团练加入，考虑到学生本身也是未必都要入太学做翰林，其实执行起来还是有腾挪空间的。这头切割，那头补充，两相抵消，能量守恒，本地没有显著的损失。</p>
-<p>我也相信这么大一个动作，一定会有补偿机制，不太会明显地伤害地方。</p>
-<p>可老百姓不是教育专家，也不是统计局干部，他们没有那么精细的数据，只有一个简单的认识：大学就那么多，升学率差不多就那个水平，招生量也有天花板，我这里切走一块，不就意味着每个人上榜的概率降低了吗？</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-14-at-%E4%B8%8B%E5%8D%882.37.50.png?resize=347%2C693" alt="Screen Shot 2016-05-14 at 下午2.37.50" data-recalc-dims="1"><br><span>（图片由CDT编辑添加 来自网络）</span></p>
-<p>江苏古来多进士，湖北高考甲天下，惟其如此，内部竞争也格外激烈。江苏湖北又不是京兆，两地学子拼死拼活上三本的成绩，北京孩子拿着就能进清华。此种内部不易和外部不公本来就积淀深厚腹诽，现在又要做出头鸟，爹妈们焉能不急。</p>
-<p>在衙门里定政策，在公文上出政策，面对市场意识，孤行计划之道，一切看上去很美好，唯独不顾及老百姓的感受，没有跟民间商量的意思，结果风声一出，立刻遭到阻击，理固宜然。照例，谣言和阴谋论雨后春笋，秀才们甚至一直把账算到了科举时代。</p>
-<p>用名额支援西部建设的想法很美好，体现出这个国家对发展均衡的追求，只不过目前还没有摧枯拉朽以实现彻底公平的魄力和能量，所以只好在现状上修修补补。或者用这些年耳朵都磨出老茧的话来说：当国家没有办法大刀阔斧地平衡配置教育资源时，就只好拿出江苏湖北贴补西部这种救济性办法。</p>
-<p>甚至说得更严重一些：教育领域里的资源不均和利益分割如此强固，以至于国家都很难矫正。而之所以如此，从根子上讲，是因为国家就是这种格局的设计者，掌握教育决策权的人本身就是这种格局的既得利益者。</p>
-<p>往深处说：我们虽然处在21世纪，号称现代国家，而且有统一的大市场，但实际上公民还是被种种绳索束缚住，而其中最粗大的一根就是户籍制度。户籍制度是高考改革最大的桎梏，它迟缓的改革进程注定未来若干届高中毕业生只能在出生地高考，而无法因为自己优秀、父母打拼、依法纳税而自由选择考场。也正是因为有这样一根救命稻草，优质资源集中地的人们，可以撇开日常挂在嘴上的公平正义，堂而皇之地阻击外来者分一杯羹的诉求。</p>
-<p>江苏这样的地方，很容易面临一种局面，那就是它在户籍制度上没法像北京那样顽固，所以会随着户籍改革而向外来人口让渡本地高考权利，但与此同时又要向遥远西部输送考生名额，相对于北京的双重聚敛，它简直就是双重损失。</p>
-<p>全国一张考卷，只要是学生，住在哪里就在哪里考试，分数线面前八荒平等，所有行政区考生打乱了过筛子，从第一名排到全国招生总量的最后一名，解名尽处是孙山。这样理论上很公平，但在中国行不通。</p>
-<p>北京的孩子，就是要在低分数线上进清华北大，这是一种很霸道的特权，维护者既有权贵，也有寒门，无论你喊得多凶也不肯让步，决死一拼的勇气可观而可怕。</p>
-<p>边疆少数民族地区，若没有现代意义上的羁縻办法，也是有大忧患的，更何况要改变那里不发达的状况，不能不让本土人才繁盛起来，而恶劣的自然条件和落后的经济状况，先天决定了那里不可能和苏湖天堂拼教育。</p>
-<p>还有若干种国家需要照顾和奖掖的人群，还有形形色色的诸如扶贫这样需要国家来还的欠债，还有N多种只有中国才有的微妙平衡与博弈。</p>
-<p>是的，教育从来都是离政治最近的东西，甚至本身就是政治，国情决定了中国教育必然复杂，这块骨头必然难啃，要不你看最强悍的改革者在这个领域里也没有多少大手笔的破立。</p>
-<p>有专家提出，解决东西部招生不均衡和标准不公平，最终还是得靠继续扩招，这其实就是一种做大蛋糕的思路。尽管扩招导致大学教育含金量事实上下降，大学毕业即失业现象跟着扩容，但毕竟比大批青春骚动的孩子在家乡失业好多了，受过高等教育的人总比没有经过这一道的人更容易驾驭。或者说，扩招至少可以将一个孩子的失望推后四年。</p>
-<p>在我看来，与其让江苏湖北捐精，不如给西部大学壮阳。</p>
-<p>国家如果有足够魄力，就不举倾国之力，让西部高校更强大。</p>
-<p>我说这话的前提是我国有集中力量办大事的传统。如果一件事没办好，一定是没有集中力量去办，或者没有像嘴上说的那样用力去办。</p>
-<p>如果把西部发展作为大事，把在西部办一流大学作为大事，那就没有办不成的道理。</p>
-<p>中国大学的校长不是有行政待遇吗？给西部大学校长部长待遇（虽然我很反感校长是官员这种设计）！</p>
-<p>实在不行，教育部可以搬到成都、重庆、兰州、西安或者乌鲁木齐中的任何一地！</p>
-<p>每年的教育经费，别再锦上添花，要大尺度向西部倾斜！</p>
-<p>国家部委和央企优先聘用西部大学毕业生！</p>
-<p>好教授如果在西部大学任教，除了比北上广高很多的薪酬，国家还要奖励别墅、汽车和保姆！</p>
-<p>卓越的研究者和讲课人，搞科研带学生，不考核！</p>
-<p>甚至主管教育的政治局委员可以常驻那里，将办成这样的大学作为在位时的政绩和退位后的遗产。</p>
-<p>国家最高领导人每年专项视察一次！</p>
-<p>当然世界上有另一种创办和运行好大学的逻辑，但既然中国有自己的办学逻辑，那就把这种逻辑的激励效应做到最大，给西部最大限度的领导重视、资金充足、资源丰沛和环境宽松。</p>
-<p>是的，目前西部对好教师和好生源的吸引力肯定不如东部，但我只能说那是诱惑还不足够大，无论从物质还是精神上。</p>
-<p>当年的西南联大，当年的兰州大学，当年的四川大学，都偏居一隅，物质上和今日有云泥之别，可照样生机勃勃、栋梁无数。武汉大学很好，可湖北不算发达地区；山东大学不错，但很长时间这个省的GDP排不到前头。美国的那些好大学，难道都在美国经济最发达的地方？</p>
-<p>国家如果真有这种诚意，舍得给政策，舍得花大钱，舍得架桥铺路，像办特区一样办西部大学，胜算还是有的。一带一路，何如就从一心一意办大学做起？</p>
-<p>更何况网络时代，教育的地域落差是可以通过先进技术弥补的。</p>
-<p>西部有了一流大学，西部的孩子不需要冒着溽热去南方读书，南方的孩子可以不必担心西部同龄人抢他们的蛋糕，他们的爹妈无需跑去跟官员哭天抢地，功德无量啊！</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E8%AE%A9%E6%B1%9F%E8%8B%8F%E6%8D%90%E7%B2%BE-%E4%B8%8D%E5%A6%82%E7%BB%99%E8%A5%BF%E9%83%A8%E5%A3%AE%E9%98%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">教育不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F%E5%87%8F%E6%8B%9B/?category=18271" rel="tag">江苏减招</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">高考改革</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%8E%E5%BB%BA%E5%B5%98%E7%9A%84%E4%B8%9C%E4%B9%A6%E6%88%BF-%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E9%82%A3%E6%97%A5%E6%99%9A%E4%B8%8A%EF%BC%8C%E6%88%91%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93/" target="cdt-mirror">于建嵘的东书房 | 李承鹏：那日晚上，我嫖娼被抓</a>
-</h2>
-<p><p><strong>中国数字时代编辑注：文章作者为李承鹏，“于建嵘的东书房”微信公号授权发布了这篇文章，目前文章已从微信上被删除。</strong></p>
-<p>2008年，我嫖娼被抓。</p>
-<p>虽然那天晚上，我通宵跟俩爷们在房里聊朝鲜战争、米卢、麻将，口沫四溅，喝了好多红牛……但仍然“嫖娼被抓”。你看，如果不是嫖娼被抓，就得和两个男人通宵、红牛，情节更火爆。</p>
-<p>我嫖娼被抓，是因为08奥运会前我批评中国足协乱搞，一家常给足协叨飞盘的报纸（时隔已久，不透露名字了）就在其网站上揭发我其实才在乱搞，就是嫖娼被抓。</p>
-<p>网站还揭发，我把一名卖淫小姐培养成了名记（以后请称我为淫 民的教育家），亲率五十余名兄弟夜袭山东向一龙头国企勒索（虽然登机牌和海关信息显示当时我在马德里，但我其实有分身术），种种恶行中倒有一条还透着宅心仁厚：我被富婆包养。而被富婆包养，一直是我的梦想。</p>
-<p>那一场风花雪月的事……最后我赢了官司。</p>
-<p>2009年，我写了一本中国足坛操纵比赛的书，得罪了一个教练。他就目击了我吸毒且是在裸体舞会上吸毒，他指出这可耻的一幕发生时旁边还有电视台的（有创意，我玩真人秀直播）。网易奋力地把它登上了频道头条。是的，你没看错，那个现在看来挺可爱的网易。</p>
-<p>有天我正感冒得鼻涕口水，活像毒瘾发作。一个北京大姐对我说：别这么追求感官刺激。看着她恨铁不成钢的眼神，我只有含混说其实不是这样子的。</p>
-<p>我赢了官司，再次逃脱法律制裁。我常庆幸那时还没打击大V，否则我现在真在里面捡肥皂，顺便跟薛蛮子请教一下养身术。</p>
-<p>天网恢恢、疏而不漏。大家都知道，前两天我因涉嫌黑社会，终于被抓了。环球时报和一个民间曝料者原创、转发、暗示、渲染“李承鹏涉黑被抓”原贴很多条、转过数千，打击力度之大，超过对黑社会一号人物。</p>
-<p>作为已故球评人、蔫巴公知、现役黑社会的我，重复一下揭发材料：6年前我写过一篇汶川地震中不倒希望小学的文章，记录一名叫句艳东的平民监工，为了保证校舍质量，跟当地政府拍桌子吵架，天天用小铁锤敲着水泥柱听沙子有没有多掺、混凝土比例是否用足、逃生用的小操场何时开建……那个学校在地震中屹立不倒、玻璃都没碎，全校学生无一伤亡，最终师生历经艰险翻过三座山逃到了下面的绵阳城。</p>
-<p>可我仍是不折不扣的黑社会，因为他们明察秋毫，学校主要捐资者正是当地一名罪大恶极的黑社会，刘汉。是的，当地小孩只要听到这名字就不敢哭的罪大恶极的黑社会。6年前，我居然夸那学校质量好那监工有良心，我不黑社会，谁黑社会（至于当地政府是另一捐资者，已不重要了）。</p>
-<p>《环球时报》金毛凛凛地出场，自估不出一柱香必可斩我首级于马下，也为马年开个好马头。可是它只顾开着好马头，就忽略了马脚。不到半柱香时，有人就搜索出数百条报道链接：</p>
-<p>“刘汉希望小学的奇迹感动了很多人”“我一眼就认出你了，去年你报道过我们学校，很感谢你们一年来对我们刘汉希望小学师生的关心啊……史校长疲惫的脸上露出微笑”“去年采访刘汉希望小学时最强烈的感受是‘感动’，此刻，是‘希望’。”“史上最牛的希望小学”——署名者，“环球时报”。</p>
-<p>是的，你没看错。</p>
-<p>一柱香时，更肉麻的文章被人肉出来：“向施工者致敬！要将这所最牛的教学楼背后的建筑商搜索出来，希望所有的教学楼都能由这个房地产商负责。不多说了，我们要给建筑商鞠躬！磕头！”出处——新华网。</p>
-<p>当时我的心灵被狠狠震撼到。我不过记录平民监工天天跟当地政府吵架、追款，创造了校舍不倒奇迹，主角是监工和学生。你们却直接表扬黑老大还要“下跪、磕头”，赤裸裸通黑嘛。</p>
-<p>我忽生忧伤。你揭发我时，即使不跟新华社沟通一个，也该想想自己写过什么吧。当然，那些年你们追过的飞盘太多，确实难以记清了。我早说过，中国的报纸每一篇都很正确，只是不方便看合订本。</p>
-<p>表扬黑社会捐资的学校质量好，就是涉黑。表扬过杜月笙捐医院买药品组织红十字呢，报道过深圳大运会场馆、巴巴排队粉过世博会、力挺过中国高铁呢。</p>
-<p>环球时报，你天天叼飞盘、叼飞盘、叼飞盘，总有一天会叼到铁饼的。叼到了铁饼，环球总编胡锡进却说这只是批评的时候，不够谨慎。哦，你转谣造谣我涉黑被抓，只是批评时做得不够谨慎。让我也不够谨慎地批评一下你吧：</p>
-<p>环球者，叼盘圣者也。凭“复杂中国说”，其见屎，必从屎里发现玉米。其见米，也能深刻预见未来必成屎，所以不必吃。见腐败，精辟入里“腐败在任何国都无法根治，关键要控制到民众允许的程度”。其大力推广发展“大规模说服性武器”，令敌军精神崩溃，亦发文倡导《雾霾有利于军事防守》，与张召忠将军一文一武、龟蛇守望、绮情缱绻。总之，环球乃古往今来第一大皇家无穷循环版解释神器，上嘴唇挨着天，下嘴唇接着地……</p>
-<p>经此不谨慎批评，你膀胱经有无尿意？大肠经是否艳丽？</p>
-<p>你是中央级超大型党报哪，你得为党站好岗。我真心认为哮天犬就得为天庭效力，要是跑去给七十二洞洞主当客服，当然是不忠。但哮天犬也别跟柴狗混在一起了，要自恃身份。党现在正大力打击十恶不赦的黑社会，这个节骨眼上你忽然插播这么一段，转移视线么。表面揭发我涉黑，其实想通过逼我自证清白，让很多不明真相的群众忽然联想起，咦，那么多学校都倒了，为什么这所……我真是不忍写全了，你是哪一头的？你境外的拉普拉多磨了腮跑中国冒充哮天犬卧底？</p>
-<p>要懂政治哪，全世界都要打击黑社会犯罪，他修学校与他杀人放火，是两码事，并不影响判决。这事儿初中文化都看得明白，你却装不明白。所以我把与环球时报、胡锡进定义为私仇。你不好好为天庭站岗，你是冲我来的。而且已不是第一次了。</p>
-<p>我夸过学校不倒就与黑社会有染，你们赞过高铁、世博、中石油，秦城里得关多少环球时报的记者、编辑……真的，要不是你们说我涉黑，我还想不起2012年我在警察围追堵截下去什邡声援当地民众时，谁在拼命为刘汉占了大股份的这钼铜项目背书，大骂我破坏经济建设，又是谁帮刘汉辩护满地打滚还跟一女人约架。这下我可全想起了，我反刘汉被请喝茶时，那些誓死捍卫刘什邡钼铜矿的猪下水群像，历历在目。</p>
-<p>还有，我批评发改委乱涨油价，我骂中石油《打得一手好飞机》，谁为石油系辩护？要点名和截屏么（删，来不及了）</p>
-<p>算了，不比哪个提前站队精准了，一点都不好耍。我一直以为，男人并非不可以出卖身体的，只要是自由意志自由贸易。男人迫不得已也可出卖灵魂，刀架老婆脖子上枪顶孩子脑门上你招不招？建议速速招。但男人真不能出卖染色体。本来是想起苍井空就流鼻血的主，为了被抽到绿头牌子，就剃了毛假装花枝乱颤还菊蕊绽放的样子，那真对不起自己的染色体。</p>
-<p>至于染色体存疑，另当别论。</p>
-<p>你看，老榕向你走来了，文三娃向你走来了，潘采夫、王小山、阿丁、龚晓跃都向你走来了，我们都自首写过大量表扬厦门远华队的文章，至今热爱杨钰莹，我们都私通赖昌星？至于那些夸过大连实德、重庆、汤歌星、沈主持的人儿，你们看着办吧。</p>
-<p>这是我和环球时报、胡锡进之间的私仇。不是观点之争，而是事实之争。我很少主动招惹人的，一般情况也不回击，但有谁再三挑衅，我会穷追猛打的。所以我正式起诉你们，我委托了浦志强、周泽、袁裕来三位律师，为了不让你们给上峰撒娇说这些律师是右路死磕派，上密奏折子，呵，玩玩吧，我先堵住你的嘴，这不是意识形态之争，这是事实之争。</p>
-<p>我无权无势无背景，论才华勇气，多有不及。走在街上，我不过一名屌丝。我早年写足球，后来写小说，见江湖上一些不公的事情，偶有发作，一年文章也就十来篇，不过骂骂贪官、说说食品安全、污染、要点最基本的公平。我本来都想撤了，回成都开个茶铺，你们要是不搭理我，慢慢地我就步入老年痴呆群体，眼神不好打麻将还会诈和。可是这些年你们太重视我了，太爱我了，生生把我逼到这个份上，你看，2008年我嫖娼被抓、2009年吸毒、2012年是美国人卧底、2013年盗窃帐蓬、2014年又成黑社会被抓了……这样五毒俱全的大恶棍，还没被党和政府镇压，可真是人间奇迹。</p>
-<p>最后一句。既然你们这么爱我，等打完这场官司后，我真会坐下来跟你讨论一下染色体。</p>
-<p>胡锡进，我等着你接招。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%8E%E5%BB%BA%E5%B5%98%E7%9A%84%E4%B8%9C%E4%B9%A6%E6%88%BF-%E6%9D%8E%E6%89%BF%E9%B9%8F%EF%BC%9A%E9%82%A3%E6%97%A5%E6%99%9A%E4%B8%8A%EF%BC%8C%E6%88%91%E5%AB%96%E5%A8%BC%E8%A2%AB%E6%8A%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%89%BF%E9%B9%8F/?category=18271" rel="tag">李承鹏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -735,5 +711,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%96%E5%A8%BC
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

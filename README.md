@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A7%E5%BA%A6-%E5%9B%A0%E6%8B%8D%E6%91%84%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95-%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B1%81%E8%82%A1%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%89%93%E5%BC%80%E8%8A%B1/" target="cdt-mirror">弧度 | 因拍摄暴力执法 大学生屁股被警察打开花</a>
+</h2>
+<p><p><strong>中国数字时代编辑注：原帖中包含的图片可能引起不适，请读者注意。</strong></p>
+<p>今天（5月17日）下午，兰州市和平镇民警粗暴执法，暴力殴打大学生一事被网友曝光。“用警棍和耳光轮番伺候，而且不准叫出声来，叫一声加5棍，两个人的屁股都开花了”。当事人吴义（化名）告诉搜狐新闻弧度栏目，他是兰州财经大学学生，事发昨天上午，他和伙伴在派出所被警员殴打两次，逾一小时。兰州市公安局官方微博@兰州公安 回复网友评论时称将“尽快核实，妥善处理”。榆中县纪委工作人员同时表示知晓此事，正在等待公安局反馈调查结果，“如果有问题，纪委会给处分。”</p>
+<p>弧度了解到，被打的吴义和他的伙伴均为兰州财经大学学生。昨天上午，他在一家店里因上厕所与他人发生冲突后警方到场调解。警员让他上车时车锁没开，却说吴义“不能上车吗”并踢他。这一过程被他的伙伴拍下，随后警员试图拿走视频，但视频被吴义的哥哥带走。</p>
+<p>吴义提供的视频显示，现场一名警员先将一名男子拉往右后车门处让其上车，随即自己回到驾驶座，但男子拉把手车门未能开启，警员开完门后便踢了他一脚。当发现此事被拍，警员走向视频拍摄者。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1.png?resize=567%2C318" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1.png?resize=300%2C168 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1.png?w=567 567w" sizes="(max-width: 567px) 100vw, 567px" data-recalc-dims="1"><br><span>警员让吴义上车时车锁没开，却说吴义“不能上车吗”并踢他。来源：受访者提供</span></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2.png?resize=561%2C317" alt="2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2.png?resize=300%2C170 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/2.png?w=561 561w" sizes="(max-width: 561px) 100vw, 561px" data-recalc-dims="1"><br><span>当发现此事被拍，警员走向视频拍摄者。来源：受访者提供</span></p>
+<p>吴义描述，视频被他哥哥带走后，他和伙伴被警方带到和平镇派出所，警员要求他和哥哥沟通，让哥哥主动交回视频，他和伙伴不从，之后被打。据吴义回忆，他和伙伴被打了两次，一次是在10点多，打了半个小时，另一次是在12点多，打了近四十分钟，用警棍打屁股及打耳光，“直接一个人按着，啪啪啪，就几十个耳光，不准叫出声，叫一声加5棍。”</p>
+<p>他还介绍，被打后伙伴扛不住，透露了他哥哥的个人信息，警察随即要求他让哥哥拿视频过来，“你不把你哥叫下来也行，我给他们学校打电话，毕业证和学业证都拿不到”。最终吴义的哥哥拿着视频前往派出所并要求警察道歉，“他们和我哥说道歉了，然后视频给了他们，但其实没有道歉”。</p>
+<p>另一名当事人吴青（化名）讲述，他当时正在拍摄警员暴力执法的视频，因拒绝警员抢夺手机，他就被带往派出所。在派出所里时，“（警员）让你双手扶在椅子上，不要动，手不能脱离椅子，警棍使劲抽你臀部，连续抽，一棍就能让你躺在地上，而且不能叫出声，叫出声要加5棍，还使劲抽耳光”</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3.png?resize=448%2C596" alt="3" data-recalc-dims="1"><br><span>吴义的臀部出现淤青红肿。来源：受访者提供</span></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4.png?resize=599%2C447" alt="4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4.png?resize=300%2C224 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4.png?w=599 599w" sizes="(max-width: 599px) 100vw, 599px" data-recalc-dims="1"><br><span>病历显示，吴青臀部可见直径为12*12cm的皮肤青紫，局部肿胀青紫。 来源：受访者提供</span></p>
+<p>吴义告诉弧度，今天上午两名当事警员又联系他们，“让我们去派出所，但我们肯定不可能啊。我们不敢去了，担心又是一顿毒打”。他还称，涉事警员警号分别为018685和018743，他和伙伴接下来打算做伤情鉴定。</p>
+<p>下午14时29分，兰州市公安局官方微博@兰州公安 在回复网友爆料图文信息时回复“请将消息的事发地址告诉我们，我们立刻核实”，15时35分，@兰州公安 再次回复网友称，“已收悉”“我们尽快核实”“我们会妥善处理的”。</p>
+<p>弧度注意到，@兰州公安 亦在16时23分发布一条消息：“你好，蜀黍正在核查哦！”但未指明核查内容，一些网友则在评论中询问是否为“屁股打开花”一事，还有人表示“暴力执法那么严重的事，让您说的很俏皮的样子！无语了。”该微博随后被@兰州公安 删除。</p>
+<p>截至发稿，搜狐新闻弧度栏目多次联系兰州市公安局宣传处，均未获得回应。拨打和平镇派出所昨日出警警员手机号时，接听者称并非本人，问及“打屁股”事件的处理情况，他表示不了解，但透露当事人分别是魏姓和宋姓两名警员。</p>
+<p>此外，榆中县纪委工作人员表示已知晓此事，“等公安的调查结果出来，如果有问题会报给我们，纪委给处分，没有问题的话，纪委也就不介入了。”</p>
+<p>18时，甘肃省兰州市榆中县公安局官方微博发布通报，称已就此事安排纪检、督察部门专人开展调查，相关调查结果将及时公布。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A7%E5%BA%A6-%E5%9B%A0%E6%8B%8D%E6%91%84%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95-%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B1%81%E8%82%A1%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%89%93%E5%BC%80%E8%8A%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF%EF%BD%9C%E6%88%91%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A0/" target="cdt-mirror">【麻辣总局】我的名字叫警长｜我抄完党章再睡你</a>
 </h2>
 <p><p><strong>来自微信公号：我的名字叫警长（ID: wdmzjjz1987）</strong></p>
@@ -118,7 +145,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%88%B8/?category=18271" rel="tag">债券</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">债务危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%BA%E6%BF%80/?category=18271" rel="tag">刺激</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E5%BC%88/?category=18271" rel="tag">博弈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84%E4%BA%BA/?category=18271" rel="tag">投资人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%85%8B%E5%9D%9A/?category=18271" rel="tag">温克坚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BF%80%E5%8A%B1%E6%9C%BA%E5%88%B6/?category=18271" rel="tag">激励机制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC/?category=18271" rel="tag">生产总值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A4%B1%E9%80%9F/?category=18271" rel="tag">经济失速</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E5%80%BA/?category=18271" rel="tag">负债</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81/?category=18271" rel="tag">货币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80/?category=18271" rel="tag">通货膨胀</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%94%BF%E8%A7%81%EF%BD%9C%E7%BA%A2%E5%8D%AB%E5%85%B5%E7%9A%84%E6%B4%BE%E7%B3%BB%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84%EF%BC%9F/" target="cdt-mirror">政见｜红卫兵的派系是怎么形成的？</a>
 </h2>
@@ -663,33 +690,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%BC%A0%E5%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B7%B1%E5%9C%B3%E8%AD%A6%E6%96%B9%E9%92%88%E5%AF%B9%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA%E9%87%87%E9%9B%86%E4%BF%A1%E6%81%AF/" target="cdt-mirror">美国之音 | 深圳警方针对维吾尔人采集信息</a>
-</h2>
-<p><p><span>华盛顿—</span>中国深圳公安部门按照上层命令制定了针对维吾尔人采集信息的计划。维吾尔人权益组织认为，此举表明中国政府继续执行内控维吾尔人的政策，这种政策不仅伤害维吾尔人，也给汉族人带来恐慌。</p>
-<p>深圳公安局下属东门派出所的一张《维族人员信息采集表》日前传到海外。表格要求所有进入派出所辖区的所有维吾尔人，无论来自中国大陆哪个省份，都必须如实填写。</p>
-<p>对于这份表格的真伪，美国之音致电深圳罗湖分局东门派出所，希望核实有关情况。值班民警证实确有此表。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5789F8EC-83E0-4CA7-96DC-DF4619B77DD7_w640_s.png?resize=600%2C1067" alt="5789F8EC-83E0-4CA7-96DC-DF4619B77DD7_w640_s" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5789F8EC-83E0-4CA7-96DC-DF4619B77DD7_w640_s.png?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/5789F8EC-83E0-4CA7-96DC-DF4619B77DD7_w640_s.png?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>记者:维吾尔人到深圳，要填这样一个表格，是这样吗?</p>
-<p>民警: 要登记，要登记，就是维吾尔族。</p>
-<p>记者：其他族的不登记，是吧?</p>
-<p>民警: 对，就是维吾尔族的，新疆维吾尔的。</p>
-<p>记者：为什么只有维吾尔人要登记？我想问一下？</p>
-<p>民警: 这是上面有这样的规定。</p>
-<p>记者：不是所里自己的规定，是吧？</p>
-<p>民警:不是，不是。</p>
-<p>记者：北京的规定？</p>
-<p>民警：也有，这是全国的规定。</p>
-<p>这份单页表格上的事项包括：本人文化水平，婚姻状况，工作情况等。四分之一的篇幅要求介绍同行人情况，例如与同行人的关系和联系方式等。备注部分要求接待维吾尔人的单位登记造册，有关信息要“上传”，并叫派出所警务室备案。</p>
-<p>针对深圳东门派出所的这份维族人信息采集表，世界维吾尔代表大会发言人迪里夏提对美国之音说： “我认为，这是当局典型的针对维吾尔人的敌意心态，纵容当地出台一些变态的政策。由于当局高调的针对维吾尔人的敌意宣传，导致了有形和无形的针对维吾尔人的歧视。二是，此举增加了当地人的恐慌。”</p>
-<p>他认为，深圳当局奉命执行的这种填表制，进一步分化其他民族与维吾尔人的关系。他说，据了解，北京和上海都有针对维吾尔人的防控措施，深圳流传出来的《维族人员信息采集表》并不令人感到十分意外。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B7%B1%E5%9C%B3%E8%AD%A6%E6%96%B9%E9%92%88%E5%AF%B9%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA%E9%87%87%E9%9B%86%E4%BF%A1%E6%81%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E4%BA%BA/?category=18271" rel="tag">新疆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%89%E6%8B%A9%E6%80%A7%E6%89%A7%E6%B3%95/?category=18271" rel="tag">选择性执法</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -701,7 +701,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -711,5 +711,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

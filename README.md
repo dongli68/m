@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%99%9A%E5%AE%89-%E4%BD%A0%E7%9C%8B%E4%B8%8D%E8%A7%81%E6%88%91%EF%BC%8C%E4%BD%86%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E5%9C%A8/" target="cdt-mirror">【立此存照】晚安——你看不见我，但你知道我在</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E7%BD%91.jpg" rel="attachment wp-att-438076"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E7%BD%91.jpg?resize=500%2C620" alt="中国警察网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?resize=242%2C300 242w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?resize=768%2C953 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?resize=826%2C1024 826w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?w=1572 1572w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p>@中国警察网：晚安——“你看不见我，但你知道我在”</p></blockquote>
+<p><strong>背景信息：</strong></p>
+<p>5月17至18日，2016年公安政务新媒体暨微警务论坛在北京举办，各地公安局派出代表参加，并在新浪微博统一使用 #警察蜀黍在北京# 发表相关内容。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/725f1802gw1f3y3cfptqaj20zk0qogwd.jpg" rel="attachment wp-att-438077"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/725f1802gw1f3y3cfptqaj20zk0qogwd.jpg?resize=500%2C375" alt="725f1802gw1f3y3cfptqaj20zk0qogwd" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/725f1802gw1f3y3cfptqaj20zk0qogwd.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/725f1802gw1f3y3cfptqaj20zk0qogwd.jpg?w=690 690w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博@六安公安在线</span></p></div>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/7fl3b0yh" target="_blank">@Vincent耳朵</a>：大家都知道你在洗脚房外<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/n/sam%E7%9A%84%E6%A9%98%E5%AD%90%E5%A6%88%E5%A6%88?from=feed&loc=at" target="_blank">@sam的橘子妈妈</a>:一不留神就从足浴店旁边窜出来了<img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"><img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"><img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"></p>
+<p>@大叔爱看挂路灯：你们当然在了，在各个洗头房门口，在各个拆迁现场，在各个刑讯逼供的小黑屋里</p>
+<p>@二井零六：这句话着实牛逼</p>
+<p>@自甘五-神棍:當然，big brother asked.</p>
+<p>@黄粱梦霾里神州：警察国家，牛逼</p>
+<p>玄川zs：公开宣言自己是警察政权了</p>
+<p>@超级无敌月美美：我向平安北京举办了半个多月的北京一处非法聚众赌博窝点，到现在也没见有行动，那帮人还在开，真是呵呵了</p>
+<p>@老锅威武：确实，需要你们的时候真的看不见但是我知道你们在</p>
+<p>@_唐僧_v：继续抓票，然后分钱</p>
+<p>@单名一个禹：有些人在，有些人良心不在……</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%80%81%E5%A4%A7%E5%93%A5.jpg" rel="attachment wp-att-438080"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%80%81%E5%A4%A7%E5%93%A5.jpg?resize=450%2C450" alt="老大哥" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/老大哥.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/老大哥.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/老大哥.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/老大哥.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/老大哥.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>图片来源：Twitter @StarKnight</span></p></div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%99%9A%E5%AE%89-%E4%BD%A0%E7%9C%8B%E4%B8%8D%E8%A7%81%E6%88%91%EF%BC%8C%E4%BD%86%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E5%9C%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%BF%E8%A1%A3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">便衣警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">警察国家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%912015%E5%B9%B4%E5%BA%A6%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84/" target="cdt-mirror">【真理部】“2015年度‘五个一百’网络正能量精品评选结果”</a>
 </h2>
 <p><p>各网首页重要位置要突出转载“<a href="https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&ch=&tn=baidu&bar=&wd=2015%E5%B9%B4%E5%BA%A6%E2%80%98%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E2%80%99%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84%E9%80%89%E7%BB%93%E6%9E%9C&oq=2015%E5%B9%B4%E5%BA%A6%E2%80%98%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E2%80%99%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84%E9%80%89%E7%BB%93%E6%9E%9C&rsv_pq=ac7b0fa80003fb91&rsv_t=6e7eA6rqrV%2FuofQnq92HaeLOQIiry3Yhk%2BNw0PAC6frJKsf3oAljJbiJJys" target="_blank">2015年度‘五个一百’网络正能量精品评选结果</a>”专题页面，严格管理跟帖。</p>
@@ -719,43 +747,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/cnd%E9%AB%98%E8%A5%BF%E5%BA%86%EF%BC%9A%E6%94%BF%E5%BA%9C%E5%B7%B2%E6%94%BE%E5%BC%83%E5%B8%82%E5%9C%BA%E8%B5%B7%E5%86%B3%E5%AE%9A%E4%BD%9C%E7%94%A8%E7%9A%84%E5%8E%9F%E5%88%99/" target="cdt-mirror">CND｜高西庆：政府已放弃市场起决定作用的原则</a>
-</h2>
-<p><p>被称为具有“济世情怀”的“海归愤青”、清华大学法学院教授高西庆，昨天在纽约表示，中国的“经济改革”正朝着与中共确立的改革蓝图相反的方向走。在中国改革五大关键之一的“去产能”问题上，最高层左右为难、相持不下，当局“实际上已经放弃了三中全会确定的‘让市场在资源配置中起决定作用’的原则”。而无法推动真正改革的根本原因，是“政府已被最大的利益集团——低效的国有企业绑架。”</p>
-<p>清华大学法学院教授高西庆在纽约外交关系协会举行的十三五规划影响讨论会上讲话</p>
-<p>去产能变成按指标关厂高西庆说，直到上周，他第一次听到了有关执行“去产能”的具体落实措施。但这些措施“几乎等于是放弃关闭无效工厂、留下好工厂的做法。现在他们说，不管你关闭哪家工厂，就关掉13.5%的工厂，即便你关的是最有效的厂，关掉就是。”</p>
-<p>高西庆说，这项指令已经下发各省。他表示，这些措施说明了政府“无法从总体上控制什么是有效的，什么是无效的，他们实际上是放弃了三中全会决定的‘让市场在资源配置中起决定作用’的原则”。</p>
-<p>高西庆是在纽约外交关系协会星期二举行的有关中国“十三五规划”影响的讨论会上作上述表示的。</p>
-<p>在中国“十三五”规划开局的2016年前一年，即2015年底，中共举行了中央经济工作会议，提出深化改革的五大任务：“去产能、去库存、去杠杆、降成本、补短板”，其中“去产能”列第一，被认为最为关键。</p>
-<p>高西庆在描述当前中国政治经济现状时，突出了2013年底中共18届三中全会通过的《全面深化改革决定》是中共60年仅见的、“非常接近普世价值”的文件，但同时他也表达了对文件制定以来一直无法落实的沮丧。</p>
-<p>在谈到关闭去除低效产能的国有企业时，他插了一句话，“在紫禁城（中南海），北院是国务院，南院是中共中央。北院的国务院一直说要去产能，但一直做不到。”</p>
-<p>中南海北院南院关系紧张</p>
-<p>讨论会主持人、福布斯杂志亚洲编辑蒂姆·弗格森问高西庆：“你的北院、南院之间紧张的分析是否解释了先要改革国企，后来又要扩大国企的现象，你的分析是否解释了这种紧张关系，是否解释了国务院与中共中央之间的分歧？”</p>
-<p>这位曾任中国国际银行执行总裁和中国投资公司首席投资官的高西庆说，“这开放给媒体吧，我个人对此不作评论，因为在这些问题上我仍然受到重重监管。”</p>
-<p>不过他还是描述了北院南院之间不同于中共历史上残酷斗争的另类相持不下的紧张关系，“我对这些问题的感觉基本上是，过去有些斗争，1989年，或者1976年，你总能看见反对派，这次不同。我最害怕的不在这里，如果两大派在那里斗，你至少知道应该站在那一边。但现在，在我看来，绝对没有问题的是，双方虽然对一些问题意见都一致——如果确实有双方的话——但看上去他们却没有能力，或是……”</p>
-<p>政府被最大利益集团绑架</p>
-<p>高西庆接着说，“你看看所有党的文件，是啊，所有人都表示有意愿去做（改革），但不知什么原因，就是做不到。为什么？我的解释是，这个政府，从经济学角度讲，被不同的利益集团所绑架。最大的利益集团是国有企业，这是我的看法，我们的政府不喜欢这种说法，但确实是这样。”</p>
-<p>中国深化改革的根本矛盾在于，一方面经济增长在持续下行，另一方面最无效、产能最过剩的国企又动不得。北京高层很清楚，要改革必须去除产能、改革国企，但这意味着让成千上万工人下岗，不可避免地引发社会动荡。在中共的优先顺序中，稳定永远压倒一切。</p>
-<p>当中共指出，既要化解产能过剩，又要保持社会稳定——“尽可能多兼并重组、少破产清算，做好职工安置工作”的时侯，实际就已表明动不得既得利益集团的奶酪，无法“让市场在资源配置中起决定”。</p>
-<p>多数国企改革草案反改革方向而行</p>
-<p>高西庆说，“过去三年一直说要出台一个国企改革的计划，还未见出台，只看到了一些没有公开的草案，但大部分计划都太差，甚至是跟我们认为应该走方向反着的。”</p>
-<p>高西庆认为，应该去除中国80%的国企，“我认为应该这样，那情况会好多了。”</p>
-<p>但他说，过去一年的发展令人遗憾，“有些行业国企垄断在朱镕基总理时代被打破了，去年有几个又重新垄断了。”</p>
-<p>高西庆称赞“负面清单”的做法，称中国两千年历史上从来是上面没说的你就不能做，而负面清单的做法则是清单上没有的都可以去做。他说“过去两年来，李克强总理每次出来几乎都要提负面清单”。</p>
-<p>鼓励放开手脚的负面清单无法推广</p>
-<p>但这一提倡放开手脚大胆改革的做法一直无法推广。高西庆说，“政府反复说，只要没列在清单上的，你都可以做。但现在从国际视野里只有上海自由贸易区采用了这个做法。”</p>
-<p>高西庆表示，李克强总理还反复要求国务院各部列出负面清单，结果也无法落实。“直到上周，我要做某事，有人还说，‘你不能做’，我说，‘为什么’，他说，‘文件上没说你可以做’。”</p>
-<p>中国官场如同广为报道的，早已被习近平、王岐山的强力反腐打得万马齐喑。高西庆表示，现在从总体上看，官员普遍不愿多做事，“每个人都在抱怨别人，说反腐扩大了。”</p>
-<p>高西庆于1986年获美国杜克大学法学博士学位，80年代末“海归”，参与创建中国股票交易市场，曾于1992年至1995年任中国证监会首席律师、发行部主任。</p>
-<p>来源：天涯人比邻</p>
-<hr><p><small>© 你兔腹黑 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/cnd%E9%AB%98%E8%A5%BF%E5%BA%86%EF%BC%9A%E6%94%BF%E5%BA%9C%E5%B7%B2%E6%94%BE%E5%BC%83%E5%B8%82%E5%9C%BA%E8%B5%B7%E5%86%B3%E5%AE%9A%E4%BD%9C%E7%94%A8%E7%9A%84%E5%8E%9F%E5%88%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%A5%BF%E5%BA%86/?category=18271" rel="tag">高西庆</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -767,7 +758,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -777,5 +768,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

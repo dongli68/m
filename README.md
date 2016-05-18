@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%AE%BA%E5%9D%9B%E4%BA%8E%E4%B8%A5%E5%AF%86%E4%BF%9D%E5%AE%89%E4%B8%AD%E5%8F%AC%E5%BC%80/" target="cdt-mirror">纽约时报 | 张德江访问香港遭遇民众抗议</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/18HongKong-web1-articleLarge.jpg?resize=550%2C367" alt="全国人民代表大会常务委员会委员长张德江周二在香港。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/18HongKong-web1-articleLarge.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/18HongKong-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>全国人民代表大会常务委员会委员长张德江周二在香港。</p></div>
+<p>中国执政党共产党的一名政治局常委在高级别安保下和抗议声中于周二抵达香港，他称赞香港政府在2003年抗击急性非典型性肺炎(SARS)取得“胜利”，这个说法很快引起当地的愤怒。</p>
+<p>这名官员是张德江，他还担任全国人大常委会委员长。他是自从近两年前香港发生亲民主抗议活动以来，访问这个半自治城市的最高级别的中央政府官员。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiqPPn7VEAAAf3h.jpg?resize=550%2C413" alt="街头地砖被胶水固定" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiqPPn7VEAAAf3h.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiqPPn7VEAAAf3h.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>街头地砖被胶水固定</p></div>
+<p>在他为期三天的访问开始时，张德江说，他当年作为广东省党委书记，曾与香港政府一起控制非典（又名“严重急性呼吸道综合征”），回想起来仍“历历在目”。非典于2002年在中国大陆的广东省首次感染人类，最终在全世界导致774人死亡。</p>
+<p>张德江曾主持工作淡化疫情，让非典蔓延到香港，最终夺走了299名港人的生命。在所有爆发了非典的城市中，香港的死亡人数最高。由于这个原因，一些香港人对张德江的说法表示震惊。</p>
+<p>“他这么说真的非常具有讽刺意义：如果他当初不隐瞒疫情，这里就不会有这么多的人死亡。他手上沾满了鲜血，”罗冠聪说。周二，在张德江的车队到达湾仔附近的酒店时，罗冠聪曾试图拦截车队，但被警察压在了地上。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0061Mxw5jw1f3zh8quhcqj30qo0f0got.jpg?resize=550%2C309" alt="0061Mxw5jw1f3zh8quhcqj30qo0f0got" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0061Mxw5jw1f3zh8quhcqj30qo0f0got.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0061Mxw5jw1f3zh8quhcqj30qo0f0got.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>现场横幅</p></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ciqw-PMUYAA6YVx.jpg?resize=550%2C413" alt="Ciqw-PMUYAA6YVx" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ciqw-PMUYAA6YVx.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ciqw-PMUYAA6YVx.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>现场横幅</p></div>
+<p> </p>
+<p>除了非典，大约有100名示威者对更多的事情也表达了愤怒。罗冠聪最近与另一名活跃人士黄之锋一起，成立了一个名叫“香港众志”(Demosisto)的政党。在越来越多的香港年轻人眼里，北京曾对香港保证的“高度自治权”，因共产党对香港文化和公民自由进行施压而受到威胁，罗冠聪正是持有这种观点的年轻人中的一个。</p>
+<p>美国国务院在上周的一份报告中表示，几名出版有关中国大陆领导人的政治书籍的香港出版商最近失踪一事“引起了严重的关切”，并表示，“这看来是自1997年以来对‘一国两制’政策的最严重的违背”，该政策是当年香港回归中国主权的基本指导原则。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1306524_8ea40d6246e41d14a0ff711912ece4c6_620.jpg?resize=550%2C366" alt="1306524_8ea40d6246e41d14a0ff711912ece4c6_620" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1306524_8ea40d6246e41d14a0ff711912ece4c6_620.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1306524_8ea40d6246e41d14a0ff711912ece4c6_620.jpg?w=620 620w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>中环广场外围设置了一字排开的水马阵</p></div>
+<p>虽然张德江周二誓言要听取香港居民的“建议和要求”，但罗冠聪表示，他不相信这种说法。</p>
+<p>“如果他真想听取我们的意见，为什么示威区设在这么远的地方，让他连我们都看不到？”罗冠聪问。</p>
+<p>预计张德江将在周三与几名香港立法会议员见面，并将在“一带一路”高峰论坛上发表讲话，“一带一路”是中国发起的、与古代丝绸之路沿线的几十个国家发展更紧密经贸关系的项目。</p>
+<p>在他来访前的日子里，香港政府的各个部门都做出了严密的准备工作，包括制定“反恐”安全措施。</p>
+<p>尽管如此，活动人士仍设法在维多利亚港对面山上的一块巨石上悬挂了一个条幅，条幅上写着“我要真普选”的字样。在张德江的车队经过的一个施工工地上也出现了一个写有“结束中共专政”的标语。</p>
+<p>据该党在Facebook页面上发表的声明，社会民主联线有至少七名成员周二被逮捕，原因与标语有关。</p>
+<p>该声明还说，“欠下香港299条人命的张德江，”指的是香港死于非典的人数。“应该做的，是负荆请罪跪求香港人原谅！”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%AE%BA%E5%9D%9B%E4%BA%8E%E4%B8%A5%E5%AF%86%E4%BF%9D%E5%AE%89%E4%B8%AD%E5%8F%AC%E5%BC%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A/?category=18271" rel="tag">人大常委会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">党委书记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%8A%A1%E9%99%A2/?category=18271" rel="tag">国务院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE/?category=18271" rel="tag">抗议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">抗议活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E6%99%AE%E9%80%89/?category=18271" rel="tag">真普选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E5%85%B8/?category=18271" rel="tag">非典</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%BA%A6%E8%87%AA%E6%B2%BB/?category=18271" rel="tag">高度自治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/" target="cdt-mirror">搜狐弧度 | 大学生拍粗暴执法屁股被打开花 涉事民警被关禁闭</a>
 </h2>
 <p><p><strong>最新进展：</strong></p>
@@ -58,7 +88,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%9C%E8%81%8C/?category=18271" rel="tag">停职</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">兰州大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%B2%E7%AA%81/?category=18271" rel="tag">冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E5%88%86/?category=18271" rel="tag">处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E8%82%A1%E5%BC%80%E8%8A%B1/?category=18271" rel="tag">屁股开花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B4%E6%89%93/?category=18271" rel="tag">殴打</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%BE%E5%87%BA%E6%89%80/?category=18271" rel="tag">派出所</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%94%E8%81%94%E7%96%AB%E8%8B%97%EF%BC%8C%E8%A2%AB%E5%81%B7%E6%A2%81%E6%8D%A2%E6%9F%B1%E4%BA%86%E4%B9%88%EF%BC%9F/" target="cdt-mirror">疫苗与科学｜五联疫苗，被偷梁换柱了么？</a>
 </h2>
@@ -137,7 +167,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%9C%E8%81%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">疫苗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E5%BA%86%E5%81%87%E7%96%AB%E8%8B%97/?category=18271" rel="tag">重庆假疫苗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2%E9%85%8D%E5%A4%87%E5%A2%83%E5%A4%96%E6%8A%A5%E7%BA%B8%E7%9A%84%E9%80%9A%E7%9F%A5/" target="cdt-mirror">疑似国航内部通告：关于停止配备境外报纸的通知</a>
 </h2>
@@ -752,45 +782,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-15/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-15</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Cifewt1UkAEHM2k.jpg?resize=450%2C800" alt="Cifewt1UkAEHM2k" data-recalc-dims="1"></p>
-<p>@letscorp：中国人早已经习惯于二十年来的增速，认为将来会依然这样。每到一个地方，和老百姓聊起拆迁和建设，他们都会高兴地预言这里三年之后会建成什么中心，那里五年之后会拆迁，等什么什么建成之后，房价会怎么怎么样。但是很显然，中国不太可能继续保持高增速了，可老百姓依然以过去的速度憧憬未来。</p>
-<p>@letscorp：江苏这件事说明中国人是活在来世的人群，总幻想下一代会更好，只有当明确看见下一代不会更好的时候才会放手一搏。我们这代人权贵怎么虐都可以，高房价、股灾、P2P跑路，因为还有希望在下一代身上。如果动了下一代，老百姓就艹了！三聚氰胺奶粉就是个好例子，你不让闹还抓人？好，永远不买国产奶粉！</p>
-<p>@Vela1680：为什么要高考呀？为了拿文凭。为什么要文凭呀？为了要赚钱。为什么要赚钱呀？为了买学区房。为什么要买学区房啊？为了继续高考。嗯。</p>
-<p>@tixiang：抱着一颗「宁做鸡头不做凤尾」的心，结果发现自己撑死也就是个鸡中翅。</p>
-<p>@梁惠王：革命导师列宁是得梅毒死的，我禁不住废书而叹，要是他当年碰上了昌平警察就好了，就没有苏联了，世界将免去多少祸害啊。 // @酒呑童子：没有苏联就不会有昌平的警察。</p>
-<p>@左春和：嫖娼是一把虚伪的道德利剑，在传统观念浓厚的语境中可以迅速把你污名化，如果被公器所掌握，则可以击碎你所有的权利盾牌。嫖娼又好为大众舆论提供谈资，既可以表明公器的政治正确，又可以闪转腾挪转移视线。但是，这次雷洋之死中它已经不灵了，她的夫人不关注他是否嫖娼，只需要他的死亡真相。我也不关注他是否嫖娼，我只要他的死亡真相。已经成熟的公众舆论也表示不关注他是否嫖娼，只要他的死亡真相。</p>
-<p>@大咕咕咕鸡：基层警力严重不足！住酒店被人当鸡拖走没人管，但去嫖个娼十分钟就给你丫干死，供给侧出警！去政府门口站几分钟立刻四脚朝天抬走，我看特警警力很足么，四抬一还很富余，你国警力结构性不合理。</p>
-<p>@zmt0516：今天uber司机提起雷阳案很愤慨说：嫖娼有什么错，嫖娼又没有社会危害，为什么要抓嫖……我：抓嫖客有钱赚，我们天津那边捞一个嫖客要交四五万呢……司机：北方太黑了，上海这边只要七千……又遇到老司机了。</p>
-<p>@YE5MQ5Vtp2jlWX7：每个人都可以保持沉默，但要为自己的沉默负责。等自己遭遇不公哭天喊地时，再面对一个沉默的世界，那才是最大的悲哀。</p>
-<p>@hawkyeee：【中国中产阶级的焦虑】他们焦虑贬值的财产、糟糕的空气、质量可疑的食物，甚至想离开中国。他们抱怨制度，却不愿意看到制度改变，因为他们正是体制的受益者。</p>
-<p>@freedomandlaw：说高考江苏比山东河南还难，绝对是瞎扯。但问题不在这，一个省级政府随机出台事关万千家庭利益的政策才真是够够的。政府官员踩着老百姓的头去亲上级的屁股，丝毫不以脚底下老百姓的切身利益为意，是当下政制运行特征的生动体现。如果说这土地上有暴民，那是因为暴政在先。</p>
-<p>@ld0905：贵国人，一代又一代，抱着三十而立的信条一边评价着别人，一边当成鞭子抽打着自己。三十一过，尘埃落定，坦然接受自己日渐下垂的肚腩，酒醉后仰望天花板呆滞的眼神。谨慎地选择社会中一个罅隙，安安稳稳地插在那儿，图的就是一句话：请人吃饭，或者加油的时候，骄傲的给服务员说：要发票。</p>
-<p>@gongminyaoyao：关注雷洋事件是一个参照系，一定程度印证对主流社会抱有相当的希望，甚至于考虑在主流社会里面博个成功。关注范华培是另一个参照系，印证是更为彻底的告别了对主流社会的幻想。混合型的属于还缺乏深入思考，也意味着会更偏向前者。</p>
-<p>@十年砍柴：郑州强拆爆血案致四死一伤村民吊唁凶手被拦：（官媒）报道中形容范华培“性格孤僻，脾气暴躁”、“借酒发泄，六亲不认”，多名受访的薛岗村及附近村庄的知情村民表示不满，他们描述：“孩儿可好了”。——明末顾宪成说：天下之是非，庙堂必欲反之耳。</p>
-<p>@cdef_global：中国的乞求强拆史因范华培而转为激进抗暴型。</p>
-<p>@wuzuolai：转：中国警察最擅长于4件事：第一，扫黄，第二，抓赌，第三，阻止上访，第四，协助拆迁。扫黄可以养眼罚款，抓赌更可以分钱，阻止上访可以讨好上司，协助拆迁可以认识有钱人。而且这四个项目，都没有风险。所以一见到这些项目，警察们就像打了鸡血一样兴奋。其他的就别指望了。</p>
-<p>@MyDF：自从引入谈判专家制度，劫匪被击毙的几率反而大幅提高。有关部门很困惑，把现场谈判的录音拿来研究，发现总是到这一句时谈判宣告破裂：”你要相信政府。” #相信政府</p>
-<p>@jerrymice：今天去办了16年地税国税核税，正好赶上李相的营改增减税政策。我对今年的缴税金额还是有点减少的期待。税单到手一看，确实是营业税改为增值税。税务局不但给我指定了一个营业额，还给我指定了一个进货成本，然后算出来增值税。最后我在新政的光辉下，交出比去年还多10%的税。#批发轶事</p>
-<p>@hmt22610：呃，在我眼里什么是“优越感满满”呢，具体表现之一大概是，在哪个学校就爱说“我大xx校很牛逼”，是哪的人就说“我大xx省牛逼”，总之大概是你在的有的就得是最好的，别人说不得。举个例子，比如小粉红…</p>
-<p>@MyDF：与沙漠国家达成南海共识，是中国外交史上的一大发明。</p>
-<p>@damyata：所以也不喜欢“反思”这个词，被淹没的受难者不需要反思，被拯救的幸存者不需要反思，作恶者依然权力在握不需要反思。“反思”在大多数人那里成了一种口头的廉价自我安慰，一种姿态。借用陀氏的话，我们这个民族，配不上自己所受的苦难。</p>
-<p>@shellehs：在中国，有三种存在形态。一种叫做「自主知识产权」，一种叫做「微创新」，还有一种叫做「用心做产品」。前者主要是将开源产品的源闭掉；中间主要是将原来的产品修修补补或者本土化；后者主要是做的和iPhone几乎一样。</p>
-<p>@ld0905：坦然面对自己身处一个巨大集中营的残酷事实，摆正了心态，再看那些站在塔楼迎风而立指点江山感慨：这盛景如你所愿的人，就会获得一种冲破云霄的荒谬与欢乐。这种喜感是岳云鹏捂着嘴说“我的天呐”完全比拟不了的……</p>
-<p>@ld0905：今天晚上奇葩说论生死，一个个都想起来了家人离去的那一刻，很是动情。关于生死，我觉得最大的意义就在于让你时刻意识到，对于你来说，这场热闹非凡，张灯结彩，熙熙攘攘的园游会肯定有请你出去的那一刻。所以，最为理智的选择就是好好儿的，投入的，畅快地，逛遍园游会的每个角落。</p>
-<p>@Zannmuling：有些已婚朋友总喜欢用“我家孩子都几岁了/我二胎都满月了你还不结婚！”来教育未婚人士。据我所知，狗一年最多可以生三窝，每窝4-8只；危害玉米的玉米螟一只雌虫可产卵1250粒；白蚁的蚁后一昼夜可产卵3万多粒。所以我觉得你的繁殖能力并不值得炫耀，也和结不结婚没有任何逻辑上的联系。</p>
-<p>@Elaoshi：把头发梳成大人模样，换一身帅气西装。描写大学生毕业后到链家卖房子的情形。</p>
-<p>@lifent：稳赚不赔：如果从1990年起，你拿出1000元，每次国足比赛都押一半买输，如今您将拥有约459万元。国内25年来综合回报率最高最稳健最无风险的投资品种，没有之一。</p>
-<p>@Scswga：我妈说过最经典的一句话就是：我这辈子算是倒霉了，遇到你们两个骗子！你爸骗色！你骗钱！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-15/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -802,7 +793,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -812,5 +803,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

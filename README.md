@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-7/" target="cdt-mirror">【真理部】关于台湾地区新领导人就职仪式有关问题的通知</a>
+</h2>
+<p><p>关于台湾地区新领导人就职仪式有关问题的通知</p>
+<p>各互联网视听节目服务单位：</p>
+<p>台湾地区新领导人就职仪式将于5月20日举行。具有时政类视听新闻服务资质的持证网站在报道台湾地区新领导人就职仪式时，请遵照《互联网视听节目服务管理规定》执行。《互联网视听节目服务管理规定》第十七条规定：“互联网视听节目服务单位播出时政类视听新闻节目，应当是地（市）级以上广播电台、电视台制作、播出的节目和中央新闻单位网站登载的时政类视听新闻节目”。各互联网视听节目服务单位不得直播、转播、登载、转载非上述稿源的时政类视听新闻节目。</p>
+<p>特此通知</p>
+<p>国家新闻出版广电总局</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%AE%BA%E5%9D%9B%E4%BA%8E%E4%B8%A5%E5%AF%86%E4%BF%9D%E5%AE%89%E4%B8%AD%E5%8F%AC%E5%BC%80/" target="cdt-mirror">纽约时报 | 张德江访问香港遭遇民众抗议</a>
 </h2>
 <p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/18HongKong-web1-articleLarge.jpg?resize=550%2C367" alt="全国人民代表大会常务委员会委员长张德江周二在香港。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/18HongKong-web1-articleLarge.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/18HongKong-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>全国人民代表大会常务委员会委员长张德江周二在香港。</p></div>
@@ -753,35 +770,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E9%99%A4
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E5%AD%A9%E5%AD%90-%E4%BD%A0%E8%A6%81%E7%9A%84%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3%E5%A4%AA%E9%9A%BE%E5%AE%9E%E7%8E%B0/" target="cdt-mirror">海涛评论 | 孩子 你要的教育公平太难实现</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E8%80%83%E5%85%AC%E6%AD%A33.jpg?resize=500%2C640" alt="高考公正3" data-recalc-dims="1"></p>
-<p>先从这张照片说起。</p>
-<p>2016年5月14日下午，我在朋友圈看到这张照片后，把它转发到微博上。到我写这篇文字的时候，那条微博已经有48万的阅读量。这一方面是因为这张图很“震撼”，一方面是因为这张图引发了“撕X”。</p>
-<p>这张图引发的撕，在我预料之中——成年人该不该把小孩子放到这样的场合，这一定是会引发争议的。但我本人不屑于参与这种争论，甚至有些痛恨。因为这种争论，在一定程度上消解了这件事本身。很多人不再关心小女孩举起的那张纸上的字，而是关心小女孩该不该去举起那张纸——这就是消解。</p>
-<p>这类似雷洋在警方控制之后死于非命，很多人探究雷洋到底有没有嫖——这也涉嫌消解核心议题。有的人参与消解，可以领到钱，很多人拿不到一分钱却乐此不疲，实在是傻得可爱。</p>
-<p>当然，追求真理是没有界限的。我并不是说，不懂事的孩子上街参与了公共事务，你不能批评别那个孩子的家长。你当然是有权力批评的，而且有权力选择性批评，选择批评那个让孩子“举牌”的家长，既可以显得具有保护未成年人的爱心，又没有任何风险。</p>
-<p>当鸡蛋撞向墙的时候，如果去指责鸡蛋的姿势不够标准而对墙的蛮横不置可否，我是不认同的——毕竟，孩子上街不是“恐怖行为”。而那些以孩子的安全为由责骂孩子父母的人，在潜意识里已经认为，上街就意味着巨大的危险。其实，上街本来应该是很安全的。</p>
-<p>好吧，这张图就说到这儿。接下来要说的是孩子举着的牌子上的4个字：教育公平。</p>
-<p>这4个字，说起来让人伤心。几乎可以断言，教育公平，从来就没有实现过——只是，最被不公平对待的地方，根本就不具备写出“教育公平”4个字的意识和能力——当一个人长期被不公平对待，他便容易失去追求公平的能力。这就像一个长期生活在饥饿状态的人，根本没有提出“我也要天天吃肉”的能力和意识。</p>
-<p>比如，我出生在高校资源相对贫乏的河南，我当年高考的时候，河南的一本录取率大概只有5%。当年，除了自卑自己高考成绩不好之外，我根本没有想过去质疑国家对河南的高等教育资源投入太少。很多的学生家长，看到自己的孩子没有考上大学，也只是感叹孩子不争气，基本上不会去考虑孩子没有考上大学的“政策原因”。</p>
-<p>事实上，在中国，政策是最“要命”的。一个文件，一个政策。一个政策，千千万万人的命运就被改变了。我小时候看主流的新闻媒体上经常有一句话，叫“感谢党的富民政策”。大家由衷地相信，能够致富，都够有好日子，都是政策给的。但政策未必所有人都好，有时候，一个政策的些许改动，千千万万人辛苦的汗水，可能就化为乌有了。我想这正是有些家长上街的原因吧。</p>
-<p>可是，即便在家长上街之前，在没有所谓的“减招”政策之前，难道在江苏就有教育公平吗？当然没有。举目全国，似乎都不曾实现过教育公平。绝对的公平，古今中外，都不可能，而在中国教育领域，即便相对的公平也难以实现。</p>
-<p>很多人说北京的本科录取率最高，可是你若稍微了解北京的教育，就会发现这个全国教育资源最丰富的城市，可能是教育不公平最大的地方——在北京，有的家长愿意拿几百万买一套学区房给孩子争取一个更好的小学，不就是因为教育不公吗？《凤凰周刊》的报道显示，曾经，赞助费相当流行，北京的“好小学”，赞助费最高可以高达25万元，这不就是因为教育不公吗？</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E8%80%83%E5%85%AC%E6%AD%A34.jpg?resize=500%2C690" alt="高考公正4" data-recalc-dims="1"></p>
-<p>于是，你会发现一个神奇的现象，即便在教育资源最丰富的地方，家长们仍然为孩子的教育焦虑。是什么神奇地原因，可以让资源丰富和与资源匮乏的地方的家长们都为教育发愁，都能体会到教育不公呢？原因当然很多，其中之一是“计划经济”。</p>
-<p>中国改革放开了很多年，计划经济早已经被认为过时，但在教育领域，依然与计划经济时代完全一样——从幼儿园到大学，一切都在国家的计划之下。每一个省每年有多少高校招生名额，都是被国家计划的，教育部、发改委一商量，名额就定了。</p>
-<p>计划经济就是短缺经济，或者说，计划必然导致短缺，计划必然导致资源的金字塔结构，计划必然导致所有人都争取进阶到金字塔的上一层努力甚至不择手段——即便很多人认为，基础教育不就是让小孩子被“洗”吗，为什么大家还要挤破脑袋找一个好点的学校“洗”呢？因为教育资源被垄断了。垄断之下，被计划成“好学校”的学校就是“好学校”——你不认同，你的孩子被既定的价值体系淘汰。这就是中国教育事业的重要成功之处——基本上，绝大多数家长，都服服帖帖。</p>
-<p>这一次，江苏的家长表现出了“不服”，当然是被“逼急”了。可是他们一“着急”，就有人提出一个难以回答的问题——难道江苏的教育资源都是江苏人民的？言外之意，难道江苏的教育资源多就要多分配给江苏人民？这个问题，我觉得不探讨最好，计划之下，你根本找到不到教育资源的“主人”，这正是计划之“魅”。</p>
-<p>为什么要教育事业要计划呢？放之四海而皆准的道理是：学校是为国家生产符合国家需要的“材料”的工厂。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E5%AD%A9%E5%AD%90-%E4%BD%A0%E8%A6%81%E7%9A%84%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3%E5%A4%AA%E9%9A%BE%E5%AE%9E%E7%8E%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权力集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8B%E5%BA%8F%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">程序公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83%EF%BC%8C%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3%EF%BC%8C%E8%AE%A1%E5%88%92%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">高考，教育公平，计划经济</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -793,7 +781,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -803,5 +791,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

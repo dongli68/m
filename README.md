@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%AE%BA%E5%9D%9B%E4%BA%8E%E4%B8%A5%E5%AF%86%E4%BF%9D%E5%AE%89%E4%B8%AD%E5%8F%AC%E5%BC%80/" target="cdt-mirror">纽约时报 | 张德江访问香港遭遇民众抗议</a>
@@ -88,7 +88,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%9C%E8%81%8C/?category=18271" rel="tag">停职</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">兰州大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%B2%E7%AA%81/?category=18271" rel="tag">冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E5%88%86/?category=18271" rel="tag">处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E8%82%A1%E5%BC%80%E8%8A%B1/?category=18271" rel="tag">屁股开花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B4%E6%89%93/?category=18271" rel="tag">殴打</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%BE%E5%87%BA%E6%89%80/?category=18271" rel="tag">派出所</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%94%E8%81%94%E7%96%AB%E8%8B%97%EF%BC%8C%E8%A2%AB%E5%81%B7%E6%A2%81%E6%8D%A2%E6%9F%B1%E4%BA%86%E4%B9%88%EF%BC%9F/" target="cdt-mirror">疫苗与科学｜五联疫苗，被偷梁换柱了么？</a>
 </h2>
@@ -167,7 +167,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%9C%E8%81%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">疫苗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E5%BA%86%E5%81%87%E7%96%AB%E8%8B%97/?category=18271" rel="tag">重庆假疫苗</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2%E9%85%8D%E5%A4%87%E5%A2%83%E5%A4%96%E6%8A%A5%E7%BA%B8%E7%9A%84%E9%80%9A%E7%9F%A5/" target="cdt-mirror">疑似国航内部通告：关于停止配备境外报纸的通知</a>
 </h2>
@@ -793,7 +793,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -803,5 +803,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

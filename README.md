@@ -21,9 +21,207 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/" target="cdt-mirror">搜狐弧度 | 大学生拍粗暴执法屁股被打开花 涉事民警被关禁闭</a>
+</h2>
+<p><p><strong>最新进展：</strong></p>
+<p><strong>晚间23时30分许，搜狐新闻弧度栏目获悉，涉事民警和相关责任人已被处分。据@兰州榆中公安 通报，事发后省、市公安督察部门组成联合调查组开展调查，认定网上反映情况属实。“经我局研究决定，对负有领导责任的和平派出所所长、教导员及分管和平派出所的县公安局副政委停止执行职务；对涉事民警宋冬冬、未得文先行采取禁闭措施，县纪检监察部门介入做进一步调查，依纪依法严肃处理。”</strong></p>
+<blockquote><p>针对5月17日网上反映我局“和平派出所民警暴力执法，用警棍殴打大学生”一事，省、市公安督察部门组成联合调查组开展调查，认定网上反映情况属实。经我局研究决定，对负有领导责任的和平派出所所长、教导员及分管和平派出所的县公安局副政委停止执行职务；对涉事民警宋冬冬、未得文先行采取禁闭措施，县纪检监察部门介入做进一步调查，依纪依法严肃处理。（甘肃省兰州市榆中县公安局官方微博）</p></blockquote>
+<p><strong>对此，被打大学生吴义（化名）告诉弧度，并不希望有人被停职，“可能都是人吧，拥有一份工作不容易”。但他称，涉事民警至今并未道歉，“道歉是必须的，经济赔偿也应该”。</strong></p>
+<p>5月17日下午，兰州市和平镇民警粗暴执法，殴打大学生一事被网友曝光。“用警棍和耳光轮番伺候，而且不准叫出声来，叫一声加5棍，两个人的屁股都开花了”。当事人吴义（化名）告诉搜狐新闻弧度栏目，他是兰州财经大学学生，事发昨天上午，他和伙伴在派出所被警员殴打两次，逾一小时。兰州市公安局官方微博@兰州公安 回复网友评论时称将“尽快核实，妥善处理”。榆中县纪委工作人员同时表示知晓此事，正在等待公安局反馈调查结果，“如果有问题，纪委会给处分。”</p>
+
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/img449957363/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/Img449957363-150x150.jpg" alt="Img449957363" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957363.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957363.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957363.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/img449957365/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/Img449957365-150x150.jpg" alt="Img449957365" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957365.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957365.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957365.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+
+<p>吴青的臀部出现淤青红肿。来源：受访者提供</p>
+<p>以下为大学生所拍摄的视频</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p>弧度了解到，被打的吴义和他的伙伴均为兰州财经大学学生。昨天上午，他在一家店里因上厕所与他人发生冲突后警方到场调解。警员让他上车时车锁没开，却说吴义“不能上车吗”并踢他。这一过程被他的伙伴拍下，随后警员试图拿走视频，但视频被吴义的哥哥带走。</p>
+<p>吴义提供的视频显示，现场一名警员先将一名男子拉往右后车门处让其上车，随即自己回到驾驶座，但男子拉把手车门未能开启，警员开完门后便踢了他一脚。当发现此事被拍，警员走向视频拍摄者。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957367.jpg?resize=568%2C320" alt="警员让吴义上车时车锁没开，却说吴义“不能上车吗”并踢他。来源：受访者提供" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957367.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957367.jpg?w=568 568w" sizes="(max-width: 568px) 100vw, 568px" data-recalc-dims="1"><p>警员让吴义上车时车锁没开，却说吴义“不能上车吗”并踢他。来源：受访者提供</p></div>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957370.jpg?resize=568%2C320" alt="当发现此事被拍，警员走向视频拍摄者。来源：受访者提供" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957370.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957370.jpg?w=568 568w" sizes="(max-width: 568px) 100vw, 568px" data-recalc-dims="1"><p>当发现此事被拍，警员走向视频拍摄者。来源：受访者提供</p></div>
+<p>吴义描述，视频被他哥哥带走后，他和伙伴被警方带到和平镇派出所，警员要求他和哥哥沟通，让哥哥主动交回视频，他和伙伴不从，之后被打。据吴义回忆，他和伙伴被打了两次，一次是在10点多，打了半个小时，另一次是在12点多，打了近四十分钟，用警棍打屁股及打耳光，“直接一个人按着，啪啪啪，就几十个耳光，不准叫出声，叫一声加5棍。”</p>
+<p>他还介绍，被打后伙伴扛不住，透露了他哥哥的个人信息，警察随即要求他让哥哥拿视频过来，“你不把你哥叫下来也行，我给他们学校打电话，毕业证和学业证都拿不到”。最终吴义的哥哥拿着视频前往派出所并要求警察道歉，“他们和我哥说道歉了，然后视频给了他们，但其实没有道歉”。</p>
+<p>另一名当事人吴青（化名）讲述，他当时正在拍摄警员粗暴执法的视频，因拒绝警员抢夺手机，他就被带往派出所。在派出所里时，“（警员）让你双手扶在椅子上，不要动，手不能脱离椅子，警棍使劲抽你臀部，连续抽，一棍就能让你躺在地上，而且不能叫出声，叫出声要加5棍，还使劲抽耳光”</p>
+<p>吴义告诉弧度，今天上午两名当事警员又联系他们，“让我们去派出所，但我们肯定不可能啊。我们不敢去了，担心又是一顿毒打”。他还称，涉事警员警号分别为018685和018743，他和伙伴接下来打算做伤情鉴定。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957371.jpg?resize=600%2C450" alt="病历显示，吴青臀部可见直径为12*12cm的皮肤青紫，局部肿胀青紫。 来源：受访者提供 " srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957371.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957371.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>病历显示，吴青臀部可见直径为12*12cm的皮肤青紫，局部肿胀青紫。 来源：受访者提供</p></div>
+<p>下午14时29分，兰州市公安局官方微博@兰州公安 在回复网友爆料图文信息时回复“请将消息的事发地址告诉我们，我们立刻核实”，15时35分，@兰州公安 再次回复网友称，“已收悉”“我们尽快核实”“我们会妥善处理的”。</p>
+<p>弧度注意到，@兰州公安 亦在16时23分发布一条消息：“你好，蜀黍正在核查哦！”但未指明核查内容，一些网友则在评论中询问是否为“屁股打开花”一事，还有人表示“暴力执法那么严重的事，让您说的很俏皮的样子！无语了。”该微博随后被@兰州公安 删除。</p>
+<p>截至发稿，搜狐新闻弧度栏目多次联系兰州市公安局宣传处，均未获得回应。拨打和平镇派出所昨日出警警员手机号时，接听者称并非本人，问及“打屁股”事件的处理情况，他表示不了解，但透露当事人分别是魏姓和宋姓两名警员。</p>
+<p>此外，榆中县纪委工作人员表示已知晓此事，“等公安的调查结果出来，如果有问题会报给我们，纪委给处分，没有问题的话，纪委也就不介入了。”</p>
+<p>18时，甘肃省兰州市榆中县公安局官方微博发布通报，称已就此事安排纪检、督察部门专人开展调查，相关调查结果将及时公布。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%9C%E8%81%8C/?category=18271" rel="tag">停职</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">兰州大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%B2%E7%AA%81/?category=18271" rel="tag">冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E5%88%86/?category=18271" rel="tag">处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E8%82%A1%E5%BC%80%E8%8A%B1/?category=18271" rel="tag">屁股开花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B4%E6%89%93/?category=18271" rel="tag">殴打</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%BE%E5%87%BA%E6%89%80/?category=18271" rel="tag">派出所</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 26分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%94%E8%81%94%E7%96%AB%E8%8B%97%EF%BC%8C%E8%A2%AB%E5%81%B7%E6%A2%81%E6%8D%A2%E6%9F%B1%E4%BA%86%E4%B9%88%EF%BC%9F/" target="cdt-mirror">疫苗与科学｜五联疫苗，被偷梁换柱了么？</a>
+</h2>
+<p><blockquote><p>这事可能么？请看我的分析。我很希望最后证明是我错了，那只是一个误会。</p></blockquote>
+<p><strong>一、事件背景</strong></p>
+<p>昨晚，多名网友告诉我重庆市某接种门诊涉嫌将五联疫苗偷梁换柱，很多家长聚集在接种门诊门口，当地出动了大量警察维持秩序。经过一夜发酵，一些信息浮出水面，我先来把目前掌握的情况梳理一遍：</p>
+<p>信息主要来源于医信妇儿频道的报导，如下：</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/d09a8bb37b3ea85ed6a180ec59af44d9.jpg" rel="attachment wp-att-438220"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/d09a8bb37b3ea85ed6a180ec59af44d9.jpg?resize=550%2C410" alt="d09a8bb37b3ea85ed6a180ec59af44d9" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/d09a8bb37b3ea85ed6a180ec59af44d9.jpg?resize=300%2C224 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/d09a8bb37b3ea85ed6a180ec59af44d9.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>一位细心的妈妈在涉事接种门诊给宝宝接种第1剂五联疫苗时，看到接种医生使用五联疫苗包装中拆出的标配注射器（蓝色针筒）进行接种。</p>
+<p>这位妈妈去涉事接种门诊给宝宝接种第2剂五联疫苗时，她发现接种医生没有使用标配的注射器，而是用了普通注射器（透明针筒）。她问医生何故，医生表示标配注射器被污染了。</p>
+<p>宝宝接种第3剂五联疫苗时，这位妈妈去了重庆妇幼保健院。妇保院护士告诉她，标配注射器被污染的可能性非常小。</p>
+<p>这位妈妈又到涉事接种门诊观察其他孩子如何接种五联疫苗。她发现有的孩子使用包装盒里的标配注射器，有的孩子使用普通注射器。她质疑接种医生时，医生又说是标配注射器污染了。经质疑后，接种医生放弃使用普通注射器，改用标配注射器。在场家长报警后，涉事医生离开了现场。</p>
+<p>之后有消息称，涉事接种门诊进货的五联疫苗数量少于接种数量。</p>
+<p>目前，相关部门正在调查情况，并承诺会尽快向群众公布调查结果和处理意见。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/548c4dd6d9102d37e5e5fe8e0c31eca2.jpg" rel="attachment wp-att-438219"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/548c4dd6d9102d37e5e5fe8e0c31eca2.jpg?resize=550%2C181" alt="548c4dd6d9102d37e5e5fe8e0c31eca2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/548c4dd6d9102d37e5e5fe8e0c31eca2.jpg?resize=300%2C99 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/548c4dd6d9102d37e5e5fe8e0c31eca2.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p><strong>二、事件分析</strong></p>
+<p>我的判断：五联疫苗被掉包可能性很大。</p>
+<p>理由如下：</p>
+<p><strong>①标配注射器反复被污染一说不成立</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg" rel="attachment wp-att-438218"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg?resize=575%2C220" alt="69a54c65gw1f3vd8livmnj211z0ejjt6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg?resize=300%2C115 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg?resize=768%2C294 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg?resize=1024%2C392 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg?w=1367 1367w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br>
+上图是五联疫苗的原始包装，包括一支标配的注射器和一支疫苗瓶，全部封装在密封的塑料包装内，注射器针头有针帽保护。注射器内预装了液体剂型的白百破疫苗和脊灰疫苗，疫苗瓶内是冻干粉剂的流感嗜血杆菌疫苗。</p>
+<p>涉事医生所称的标配注射器被污染的情况，只可能发生在取出注射器并卸下针帽后。这时，如果注射器掉在地上或是针管针头碰到了其他物品，才能说其被污染，否则我很难想像出来注射器是如何被污染的。</p>
+<p>退一步说，如果真的发生了注射器被污染的情况，也可以对针筒和针头进行消毒，并挤掉一小部分可能受污染的疫苗液，不需要用其他注射器来替代。我很难想像，如何把标配注射器里的疫苗液转移到其他注射器内（这个过程污染概率可能更高）。</p>
+<p>宝妈作为旁观者，在涉事门诊观察到有一些孩子使用普通注射器接种五联疫苗。接种医生都将其解释为“标配注射器被污染了”，这个解释实在苍白无力。戴针帽的注射器，怎么那么容易被污染呢？</p>
+<p>补充说明：上图中的五联疫苗，产于2010年。其注射器针筒上的贴纸为白色，该事件中的五联疫苗注射器针筒上贴纸为蓝色。生产企业何时更换的针筒贴纸包装，这个我不清楚。所以，不能泛泛地认为“如果自己孩子接种五联疫苗的针筒不是蓝色的，就一定是被掉包了”。</p>
+<p><strong>②当事医生的表现</strong></p>
+<p>当被家长质疑给孩子打的五联疫苗是否假疫苗时，当事医生未做正面回应，选择了回避。</p>
+<p>如果真的只是注射器被污染，医生完全可以告知家长疫苗是真的，没有必要选择回避。</p>
+<p><strong>③疫苗账目</strong></p>
+<p>已有消息说涉事接种门诊五联疫苗进货数量和接种数量差距较大，这个消息尚未得到官方证实。</p>
+<p>五联疫苗的入库数量很容易查清楚，但如果涉事医生有意做手脚，把接种数量调查清楚，有一定的难度。</p>
+<p>接种门诊内部，涉事医生可以通过虚假登记的方式，隐瞒五联疫苗接种记录。但是，孩子的接种证上肯定会登记在五联疫苗栏目里，如果漏登记或错误登记，家长很容易发现。所以，要调查清楚到底登记接种了多少剂五联疫苗，需要联系该门诊可能接种过五联疫苗的孩子，逐一核实其接种证上是否有五联疫苗接种记录，并汇总剂次数。</p>
+<p><strong>④接种门诊的日常管理</strong></p>
+<p>有网友提供给我一份涉事接种门诊在接种证上登记的接种记录，缺少了生产企业、疫苗批号和接种医生签字，见下图。</p>
+<p>接种证是法定证件，接种记录具有法律效应。接种疫苗后，按要求填写接种记录是最基本的工作要求。该接种门诊能填出如此不规范的接种记录，足以证明接种门诊平时疏于管理，对疫苗做手脚也并非难以理解。</p>
+<p>上级疾控中心是否对该门诊进行了认真的督导，我也表示怀疑。</p>
+<p><strong>三、你能怎么做？</strong></p>
+<p>在涉事接种门诊接种了五联疫苗的孩子，我建议等待调查结果。一定要明确到底接种的是什么东西，再决定是否需要补种。涉事的家长们可以联合起来，推选1～2位信得过的人做代表，与调查组进行沟通，并尝试是否能参与调查。</p>
+<p>为了尽量避免类似事件，我建议你在接种时注意以下4点：</p>
+<p><strong>①接种前的登记</strong></p>
+<p>关注本次接种哪些疫苗，自费疫苗选择什么厂家。查看接种证上接种记录页预登记的内容是否准确，是否有缺项：包括疫苗种类、接种日期、生产厂家、疫苗批号、接种单位。</p>
+<p><strong>②接种前的核对</strong></p>
+<p>接种医生应该根据接种记录页登记的内容从冰箱里取用疫苗。此时，接种医生应该将疫苗实物与登记内容进行核对，保证一致。如果接种医生没有执行这个核对环节，你应该提醒医生核对。</p>
+<p>有时登记的疫苗批号可能用完了，实际接种了另一个批号，就需要修改已登记的批号。</p>
+<p><strong>③注意疫苗包装和取用情况</strong></p>
+<p>自费疫苗一般为单支单剂次包装（狂犬病疫苗除外），免费疫苗50%以上已做到单支单剂次或多支单剂次包装，也有不少是单支多剂次包装（卡介苗、流脑A群多糖疫苗、液体剂型脊灰减活疫苗、白破疫苗）。</p>
+<p>单支单剂次：指每支疫苗只接种1人，一盒内只有1支疫苗。这种疫苗一般会封装在密封的塑料包装或铝箔包装内。接种医生应该做到从冰箱内取出疫苗盒，当着你的面撕开塑料或铝箔，取出疫苗进行抽吸操作。</p>
+<p>多支单剂次：指每支疫苗只接种1人，但一盒内有多支疫苗，目前有乙肝疫苗、白百破疫苗、流脑AC多糖疫苗等。这种疫苗，接种医生可能直接从冰箱里拿出单支疫苗进行抽吸操作。这种单支疫苗有2种包装工艺：一种是安瓿，需要用手扳断安瓿的玻璃瓶颈；一种是西林瓶，需要摘下顶部的塑料瓶盖（如下图）：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd9yyyj2j20iy0dsq38.jpg" rel="attachment wp-att-438217"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd9yyyj2j20iy0dsq38.jpg?resize=500%2C364" alt="69a54c65gw1f3vd9yyyj2j20iy0dsq38" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd9yyyj2j20iy0dsq38.jpg?resize=300%2C218 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd9yyyj2j20iy0dsq38.jpg?w=682 682w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>这种西林瓶的塑料瓶盖摘下后无法再安装上去。你应该注意，接种医生手上的西林瓶是否有塑料瓶盖，摘下瓶盖时是否有扳断的声音。</p>
+<p>单支多剂次：指一支疫苗要供多人接种使用。限于各种因素，我国还有一些免费疫苗做成了单支多剂次。这种疫苗没啥可注意的，还好都是免费疫苗，不至于被换包。</p>
+<p><strong>④索要疫苗包装盒</strong></p>
+<p>你拿到疫苗包装盒后，就可以将盒子上的生产企业、疫苗批号等信息与登记的接种记录进行核对，还可以查看疫苗是否在有效期内。</p>
+<p>绝大多数疫苗包装盒上还有一个20位数字的药品监管码，你可以使用一个叫【药品管家】的官方手机APP扫描药品监管码，查询该疫苗的基础信息和流向信息。其查询结果如下图：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vdb3gtlvj20f00qoaba.jpg" rel="attachment wp-att-438216"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vdb3gtlvj20f00qoaba.jpg?resize=450%2C800" alt="69a54c65gw1f3vdb3gtlvj20f00qoaba" data-recalc-dims="1"></a></p>
+<p>对于多支单剂次和单支多剂次包装的疫苗，接种医生没法把单份包装盒和说明书给所有人，你可以用手机拍摄包装盒和说明书。</p>
+<p><strong>四、结语</strong></p>
+<p>五联疫苗是否真的被调包了？我很希望最后证明是我错了，那只是一个误会。</p>
+<p>但不管怎样，我提到的那些注意事项，都有助于提高预防接种的规范性。所有预防接种专业人员，应该主动关注并做好这些细节，让我们的预防接种服务做到无懈可击。</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@围观售楼部：科普的很好，问题是他妈的这些也应该是中国人必修课吗？国家定点给儿童接种疫苗的地方都跟去菜市场一样要时刻防着奸商了？</p>
+<p>@倔小柔：重庆官方发布了调查结果，还是说碰触了护士的皮肤针管被污染，护士就换了一个针管，那么原装针管里面的药呢？而且根本没解释为什么针管被频繁污染。真的当人民是傻瓜啊。</p>
+<p>@yolanda可可：现在怀疑真假已经没有用了啊！五联疫苗打到一半的宝宝怎么办？已经打了2针了，是继续打下去还是换国产疫苗？打完的疫苗的宝宝怎么办？现在辩论真假已经无用了，就算去医院闹也查不出来，我们现在需要的是自救的解决方案，有没有专业人员给我们指引个方向？</p>
+<p>@舔屏美少女：就这样的国家，还要呼吁我们爱国。脸呢</p>
+<p>@夏緯軒-Winans：解决问题的方式不是去掩盖问题。三月份的问题疫苗事件被封锁一年，澎湃算少有的媒体敢于曝光。当初相关部门甚至洗地说是旧新闻，这恰恰证明了封锁消息的事实。最后终于出面说解决问题，却再一次不了了之，至今没有任何联系接种人补种的行动，这等于让注射疫苗尤其狂犬疫苗的同胞在赌命，你们简直禽兽！</p>
+<p>@飞言不可：说实话，这么复杂的问题一般人很难搞清楚，所以，这种事情根本不应该走行政调查代替法律——不是法治社会吗？如此属于非法侵占他人财产的主观故意，且危及他人生命健康，造成恶劣社会影响，就该移交司法，多简单！行政调查不过就是袒护。</p>
+<p>@马菁菁_：现在晓得勒些晚了，已经打了3只五联老，要疯老，我亲爱的儿子，妈妈觉得好对不起你。努力挣钱，好想移……</p>
+<p>@月华静：你要知道五联疫苗一针就要800块，调换的可能性比较大</p>
+<p>@小胡子8888：这个国家烂了！这都要调包！想当初我小孩打什么疫苗工作人员说要988，共两针，我相信他们，乖乖掏钱</p>
+<p>@哆嘟嘟56：实在没想到你居然敢发声，还推测是被调包了，新浪的头条新闻都是删了评论，设置评论，所谓媒体都是些没种的…我就在重庆，重庆的媒体全部集体闭声，来了也走了，不敢报道，这样的社会，这样的中国！真的令人寒心！</p>
+<p>@Ashitaka777：重庆疫苗事件给很多人敲响了警钟 : 我们父辈的沉默，换来了我们的被奴役， 如果我们继续沉默，被奴役的不单只有我们， 还有我们的下一代。</p>
+<p><a href="http://weibo.com/2522353420" target="_blank">@物名事</a>：各位医生咋不提医闹了,咋不评论了,咋不说没医生了患者怎么办？谋财害命,死得还是少,唉,精神病人不够用,这届病人不行<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%94%E8%81%94%E7%96%AB%E8%8B%97%EF%BC%8C%E8%A2%AB%E5%81%B7%E6%A2%81%E6%8D%A2%E6%9F%B1%E4%BA%86%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">疫苗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E5%BA%86%E5%81%87%E7%96%AB%E8%8B%97/?category=18271" rel="tag">重庆假疫苗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 30分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2%E9%85%8D%E5%A4%87%E5%A2%83%E5%A4%96%E6%8A%A5%E7%BA%B8%E7%9A%84%E9%80%9A%E7%9F%A5/" target="cdt-mirror">疑似国航内部通告：关于停止配备境外报纸的通知</a>
+</h2>
+<p><p>疑似中国国际航空内部通告：</p>
+<blockquote><p>贝带劲 <a href="https://twitter.com/beidaijin/status/732437748414582785" target="_blank">@beidaijin</a>:航空公司［关于停止配备境外报纸的通知］单一渠道消息</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiokPsIWgAAHEwL.jpg" rel="attachment wp-att-438211"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiokPsIWgAAHEwL.jpg?resize=449%2C800" alt="CiokPsIWgAAHEwL" data-recalc-dims="1"></a></p>
+<blockquote><p>根据上级关于加强境外报刊政治审查、进口许可等相关国家新闻舆论的要求，为防范境外非法出版物经公司航班进入客舱及入境的风险，公司将不在外站配备境外回程报纸，所有报刊改为由北京出港统一携带。</p>
+<p>请乘务组严格落实回程报纸、杂志的预留和交接。如遇有旅客问询是，请做好相关的解释工作，提示语言如下“________先生／女士，由于国家加大了境外报刊的审查力度，我们将不再配备境外报纸。在机上，我们为您准备了多种杂志、环球时报、中国日报……供您选择，希望您喜欢。”</p>
+<p>” Mr./Ms.________, overseas newspapers are not available as the government increases the <strong>scrutiny process(?)</strong>. However, we have prepared many magazines, Global Times, China Daily……for you on board, We hope you will like it.’</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2%E9%85%8D%E5%A4%87%E5%A2%83%E5%A4%96%E6%8A%A5%E7%BA%B8%E7%9A%84%E9%80%9A%E7%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%AA%92%E4%BD%93/?category=18271" rel="tag">境外媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%AD%94%E5%B9%BB%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E7%BB%93%E5%B1%80/" target="cdt-mirror">【图说天朝】魔幻现实主义结局</a>
+</h2>
+<p><p>@蚍蜉种树：2014年，汪龙起诉了中国联通，因为它没有提供完整的互联网服务（上不去 Google）。这个案子，最后的结局，居然是如此这般魔幻现实主义。本文已经获得原作者授权转载。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/DDav4.jpg?resize=600%2C560" alt="DDav4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/DDav4.jpg?resize=300%2C280 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/DDav4.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><strong>新闻背景：</strong></p>
+<p><a href="http://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9B%A0%E6%97%A0%E6%B3%95%E7%99%BB%E9%99%86%E8%B0%B7%E6%AD%8C%E7%8A%B6%E5%91%8A%E8%81%94%E9%80%9A/a-17903260" target="_blank">德国之声 | 中国公民因无法登陆谷歌状告联通</a></p>
+<p><a href="http://www.letscorp.net/archives/75792" target="_blank">墙外楼 | 公民汪龙起诉中国联通“封锁谷歌第一案”开庭</a></p>
+<p><a href="http://www.bbc.com/zhongwen/simp/china/2014/09/140930_shenzhen_wanglong_hk" target="_blank">BBC | 深圳市民汪龙因转发香港占中帖被刑拘</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%AD%94%E5%B9%BB%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E7%BB%93%E5%B1%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%AA%E9%BE%99/?category=18271" rel="tag">汪龙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8A%B6%E5%91%8A%E8%81%94%E9%80%9A/?category=18271" rel="tag">状告联通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%9F%A9%E5%AF%92%E9%A9%AC%E4%BC%AF%E5%BA%B8%E8%A2%AB%E9%BB%91%E6%9C%80%E7%8B%A0%E7%9A%84%E4%B8%80%E6%AC%A1/" target="cdt-mirror">【网络民议】韩寒马伯庸被黑最狠的一次</a>
+</h2>
+<p><p><strong>盖范 | 洞房夜抄党章的小夫妻现实中却爱韩寒、马伯庸</strong></p>
+<p>洞房花烛夜，做什么事情才能让人一辈子难以忘怀？这两天的新闻报道告诉我们春宵一刻“抄党章”。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?resize=550%2C370" alt="16129128_980x1200_0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?resize=300%2C202 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?w=601 601w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>“南昌铁路”微信公号发文称，南昌供电段南昌西供电车间助理工程师李云鹏、检修车间助工陈宣池新婚之夜，铺开纸张，工整地抄下党章，给新婚之夜留下美好记忆。对于新婚之夜抄党章这事，各种调侃与观点很多，我们就一一累述了。不过大家在感叹之余，似乎很少关注现实中他们这对夫妻到底是怎样的人。</p>
+<p>据我们了解，他们一点也不像传统意义上的“小粉红”。似乎与我们一样，听着欧美流行音乐，喜欢韩寒、马伯庸。</p>
+<p><strong>女方：听着詹姆斯·布朗特写群众路线材料</strong></p>
+<p>同在南昌铁路局下属南昌供电段工作的李云鹏、陈宣池这对小夫妻，实际上并不是在近期结婚的。今年4月26日，南昌铁路局为了本系统职工们在婺源举办了一场集体婚礼。当时多家媒体在报道中都使用了李云鹏掀开陈宣池盖头的图片。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e593ba1e0562b037bbfa056c231cada7.jpeg?resize=554%2C311" alt="e593ba1e0562b037bbfa056c231cada7" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e593ba1e0562b037bbfa056c231cada7.jpeg?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e593ba1e0562b037bbfa056c231cada7.jpeg?w=554 554w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"></p>
+<p>被掀开盖头陈宣池是本次“洞房抄党章”事件中的重要人物之一，现实中的她实际上是一个“挺有意思”的人。对外来看，她是一名“活动积极分子”。“南昌铁路”官方微博曾在2014年7月16日发过一条带视频的微博，微博内容是关于他们主办的一次主题演讲比赛。这条微博配发的视频便是那场比赛1号选手陈宣池的演讲。</p>
+<p>陈宣池当时演讲的主题是“我的中国梦，我的铁路情”，看起来并没有十分突出的地方。或许，与演讲相比，她更擅长唱歌。她在“唱吧”上存了不少自己演唱得曲目，值得一提的是，我们把她用粤语演唱的《漫步人生路》给了多位广东小伙伴听，大家一致认为她粤语相当不错。</p>
+<p>从她的个人微博上来看，她更像一位内敛的“文艺女青年”。今年2月，她也参与了韩寒发起的关于把哪部作品拍摄成电影的投票，她投票给了“一座城池”。早年间“韩方大战”的时候，她转发微博评论韩寒的手稿“韩寒！！！”，配上了三个惊叹号。</p>
+<p>对于马伯庸，她应该是觉得马亲王在某些时候和自己观点一致，比如当年柴静雾霾纪录片争议的时候，她就转发了亲王的评论。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4061ffe34c020c49535b0b8b8aa5ca85.jpeg?resize=545%2C150" alt="图为陈宣池微博截图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4061ffe34c020c49535b0b8b8aa5ca85.jpeg?resize=300%2C83 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4061ffe34c020c49535b0b8b8aa5ca85.jpeg?w=545 545w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1"><p>图为陈宣池微博截图</p></div>
+<p>另外，她也是一名知乎的重度用户。在她微博上，分享了不少知乎里面优秀问答的链接，从“如何挑选旗袍”这种生活常识到“如何为PPT找配图”这种工作技能，她应该都依靠知乎在学习。</p>
+<p>她对欧美音乐有种特别的爱，她甚至会在写群众路线材料的时候听詹姆斯·布朗特。她自己在微博介绍中也专门表明了“浅爱欧美音乐”。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/11597006da8c646c1a1dd34a2f6cb528.jpg?resize=550%2C138" alt="图为陈宣池微博截图" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/11597006da8c646c1a1dd34a2f6cb528.jpg?resize=300%2C75 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/11597006da8c646c1a1dd34a2f6cb528.jpg?w=538 538w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>图为陈宣池微博截图</p></div>
+<p><strong>男方：用“人生最大的愚蠢是欺骗”激励自己</strong></p>
+<p>相较于女方私下表现出的才气，男方表现出来的就少多了。作为这次“洞房抄党章”的关键人物，李云鹏自己的微博乍看一样更像“营销小马甲”。因为他最近三条微博都是关于乐视抽奖活动的，我们估计他很可能是因为结婚的原因，想免费抽一台乐视超级电视。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/30c4dd99d368929ab3434f04b8a0b0c0.jpeg?resize=210%2C213" alt="图为李云鹏微博头像" data-recalc-dims="1"><p>图为李云鹏微博头像</p></div>
+<p>不过，乐视官方似乎并没有随他的愿。再更早之前的微博，大多是关于吃吃喝喝。并且时不时@ 一下自己的女朋友。从这里来看，看来追女孩子最好的办法，还是不断地请对方吃好吃的……</p>
+<p>在他身上非常有意思是，他在自己的微博简介中写下的一段话：</p>
+<blockquote><p><strong>人生最大的敌人是自己。人生最大的失败是自大。人生最大的愚蠢是欺骗。人生最可怜的是嫉妒。人生最大的错误是自卑。</strong></p></blockquote>
+<p>从这段话中我们不难看出，他应该是一个有着“力争上游”思想的人。或许他还是朝着各个方面在努力的。据我们所知，华东交通大学2014年在职工程硕士拟录取名单中，就有一个“李云鹏”的名字，“电气工程”专业与抄党章的这位李云鹏刚好契合。2014年，李云鹏还参加了专业技术人员职称外语考试，当时他只拿了一个C级，刚好够评上初级职称。</p>
+<p>最后，我们想跟大家分享一下他们身上有趣的现场：这对在洞房抄党章的夫妻，在微博上几乎从不秀恩爱。而且4月中旬集体婚礼前夕开始，两人也再也没有发过微博了。</p>
+<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E5%A9%9A%E4%B9%8B%E5%A4%9C%E6%9D%A5%E7%82%B9%E6%B1%A1%E7%9A%84/" target="_blank">【网络民议】新婚之夜来点污的</a></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>@yycyrus：这是韩寒和马伯庸在微博上被黑的最狠的一次。</p>
+<p>@起床好难-：真是上辈子倒血霉被这样的人喜欢。</p>
+<p>@桔子你个大西瓜_：评论里都说这是在黑@马伯庸 和 @韩寒。我倒觉得情况基本属实，反正大家都活在《寂静之城》和《他的国》里。</p>
+<p>@根红苗歪：抄了一晚上的党章，仍然过不好这一生。</p>
+<p>@Q江湖乱弹Q：组织上安排的高大上闹洞房比群众自发的下三路闹洞房不知道高到哪里去了！晓得伐侬！</p>
+<p>@龙廷国旅魅途网顾险峰：为什么不抄宪法。</p>
+<p>@邓眼WHO说：人格精神双重分裂才能修炼到如此境界。</p>
+<p>@郁侬：党性猖狂，人性泯灭。党性终于压倒了人性。</p>
+<p>@Hi-RainMan：人生四大悲：洞房春宵抄党章，洗脚足疗遇嫖娼，久病住院逢莆田，金榜指标落他乡。</p>
+<p>@mozhixu：拿新婚之夜抄党章开涮的人，有点太假装你国目前是正常国家了。这是所谓两学一做活动捧出来的典型，是你国掌握权力、资源、符号的人群正搞得很起劲的日常活动。两口子确实官迷心窍了一点，但别不服气，就是这样的人正在和将要统治着你，靠开涮和嘲笑改变不了这个事实的。</p>
+<p>@MyDF：阿伦特说：“权威的最大敌人是轻蔑，而破坏它的最有效的方法是嘲笑。”这是一个全民段子手的时代，这是消解威权的精神狂欢。伟大光荣正确的执政党被扯掉底裤群嘲，这是正在发生的事实。</p>
+<p>@laoyang945： 新婚之夜应该用双方体毛混合起来做的一支毛笔，蘸着落红(如果还有)抄一遍党章才有纪念意义啊。</p>
+<p>@千里马常有：【新婚之夜抄完党章之后】新婚夜的晚上，抄完党章后，大哥哥和妹子心照不宣地回到卧室。“你……？” 大哥刚想说些什么，却被一只玉手捂住了嘴。“嘘……“ 妹子把头凑到哥哥耳边，轻声说：“……今天是新婚夜……人家……人家想和你一起……一起……建设中国特色社会主义新农村嘛……”只感到一股社会责任感与民族归属感冲上了他的头，于是双手开始不自觉的对妹子薄薄的一带一路实行伟大的改革开放政策，牢牢把握一个中心两个基本点，刺激消费扩大内需。让一切创造财富的潺泉涌流……“啊……啊……那里不行……我的社会主义核心价值观……要缺失了……”话音未落，哥哥那高速增长的GDP已经在经济特区开始了社会主义现代化建设，深入贯彻落实“三个代表”重要思想，以人为本推动经济社会发展，围绕主题，抓住主线，全面提高开放型经济水平，坚持“引进来”和“走出去”相结合的战略，优化结构，拓展深度，极大地初进了社会生产力的发展。而妹子则结合具体国情，新出台了紧缩性财政政策缓解通货膨胀，吸纳了大量社会流动资金，取得了卓越成效。“供给则经济太有效了……“ 哥哥满头大汗的感叹：“原来以为经过那么多年量化宽松，经济水平难以持续，没想到，社会越来越和谐，社会经济稳定持续增长了呢……”哥哥直起身来，开始实施创新驱动发展战略，深化改革，加快转变经济发展方式的主攻方向，促进资本在全球范围内的流动。牢牢扭住经济建设为中心，聚精会神搞建设，一心一意谋发展，推动了城乡发展一体化。在大哥哥的双轮驱动之下，妹子日益增长的物质文化需求终于无法忍受：”啊……啊……要全面建成……小康社会了……马上……马上……就要实现共产主义了……啊……好幸福……”“啊……我….也快要实现伟大中国梦了！”</p>
+<p>@草水北口：新婚之夜抄党章，摄影大师入洞房。</p>
+<p>@VikongLi：本想拍马屁，奈何手段太拙劣，反而变成抹黑。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%9F%A9%E5%AF%92%E9%A9%AC%E4%BC%AF%E5%BA%B8%E8%A2%AB%E9%BB%91%E6%9C%80%E7%8B%A0%E7%9A%84%E4%B8%80%E6%AC%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%94%BF%E8%A7%81%EF%BD%9C%E4%BB%BB%E5%85%B6%E7%84%B6%EF%BC%9A%E4%BA%BA%E4%BB%AC%E5%AF%B9%E6%94%BF%E6%B2%BB%E6%82%B2%E5%89%A7%E7%9A%84%E8%AE%B0%E5%BF%86%E9%9D%A0%E8%B0%B1%E5%90%97%EF%BC%9F/" target="cdt-mirror">政见｜任其然：人们对政治悲剧的记忆靠谱吗？</a>
 </h2>
 <p><p>1975 年 6 月 25 日，在总理英迪拉•甘地的要求下，印度总统法赫鲁丁•阿里•艾哈迈德（Fakhruddin Ali Ahmed）宣布全国进入 “紧急状态”（Emergency）。印度共和国翻开了它 “民主历史上最黑暗的一页”。</p>
@@ -87,7 +285,7 @@ Das, V. (1995). Critical events: An anthropological perspective on contemporary 
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">历史</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-137/" target="cdt-mirror">【河蟹档案】网传政治部领导慰问雷洋案“参战民警”</a>
 </h2>
@@ -593,154 +791,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BE%90%E8%B4%B2%EF%BC%9A%E6%96%87%E9%9D%A9%E9%81%93%E6%AD%89%E5%BF%85%E9%A1%BB%E5%85%88%E6%B8%85%E9%99%A4%E6%96%87%E9%9D%A9%E5%9F%BA/" target="cdt-mirror">端传媒 | 徐贲：“文革道歉”必须先清除“文革基因”</a>
-</h2>
-<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0de5a463767847ee909e0fa6b786cd41.jpg?resize=600%2C400" alt="北京,一间售卖书画的商店。摄：Kevin Frayer/Getty" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0de5a463767847ee909e0fa6b786cd41.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0de5a463767847ee909e0fa6b786cd41.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0de5a463767847ee909e0fa6b786cd41.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0de5a463767847ee909e0fa6b786cd41.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>北京,一间售卖书画的商店。摄：Kevin Frayer/Getty</p></div>
-<p>人都有懊悔的时刻，但未必有真诚的悔过和悔改。懊悔是事后觉得不该做一些事，而不一定是觉得自己做错了。懊悔是因为觉得，有些事以前做了，已经无法改变，但时过境迁，今天成为摆脱不了的麻烦。</p>
-<p>加拿大出生的英国小说家, 政治家吉尔伯特·帕克（Gilbert Parker） 说，“这个世界上没有可以躲避记忆和懊悔的地方，无论我们悔改与否，愚蠢行为的幽灵一直会纠缠着我们。”仅仅是为了摆脱往事的纠缠，甩掉恼人的麻烦，以这种想法来道歉，不可能有真诚的悔过和悔改。</p>
-<p>不幸的是，只是为摆脱往事纠缠的“文革道歉”正出现在我们的公共生活中。它之所以不能成为真正的悔改和道歉，重要的原因之一是它还不能清除“文革基因”──其中包括对“文革”罪恶本质的认识，和对“文革”发起者兼最高领导人的罪责追究。“文革基因”的残存，不仅让忏悔者仍然在心理和道义上享受着某种政治合理性的保护，而且让他们不充分的忏悔暗中起着为“文革”辩解的作用。</p>
-<p><strong>道歉不只是“对不起”</strong></p>
-<p>道歉并不只是说一句“对不起”。社会学、心理学和法学讨论“道歉”的取向虽不尽相同，但都强调，道歉者必须说清自己过错行为的责任，并无条件地承担这个责任。非如此，不能证明有真诚的悔意。现有的各种道歉研究，都把悔意和承担个人责任当作道歉的两个最关键要素。例如，法学家克利费尔德（John C. Kleefeld）引用心理语言学家希尔（Steven J. Scher）和达莱（John M. Darley）的研究，对道歉作了著名的4R定义：道歉必须包含悔意（remorse）、责任(responsibility)、决心(resolution)和补偿(reparation)。心理学家贝弗勒斯（Janet Bavelas）则指出：为伤害性过失行为道歉，悔意与责任是最重要的，道歉者必须承认自己是伤害行为的行使人，也必须详细说清行为的经过和性质。</p>
-<p>严重伤害别人的过失行为，是一个人从文明道德秩序的自我放逐。道歉是他郑重要求回到所有社会成员同等受尊重的道德秩序中来。社会学家塔维切斯（Nicolas Tavuchis）指出，道歉是社会和谐和道德社会所必不可少的，道歉不只是个人表示感情或心意，而且是起社会、道德作用的“言语行为”（speech act）。道歉是一种“只能用言语来进行的社会行为，因此，如果不用言语，便没有道歉”。道歉的根本作用不是让道歉人获得良心安宁或纾解罪感，而是“维护和修复被破坏的社会关系，让过错者重新在社会秩序中找到自己的位置。”美国心理学家查普曼（Gary Chapman）说，“当道歉成为一种生活方式的时候，人类关系会很健康。”</p>
-<p>道歉中不可缺少的悔意和责任承担，是通过言语来表达的。道歉是否被认可、接受，取决于道歉者是否有真诚的悔意，是否真正承担了责任。这两个“真”都是一种言语效果，是受害者或公众对道歉言语的解读和评判。解读和评判是看法和感觉，不是确实无疑的“事实”，因此，在如何看待某个具体的道歉问题上，总是会有分歧和争议。</p>
-<p>人们用“真诚”来衡量道歉的悔意，是因为“真诚”（真实地说出自己的感觉、想法、愿望）被普遍视为一种“美德”。但是，现代心理学、心理分析理论和文学理论告诉我们，“真诚”是一种构建，而不是直观现象。正如已故美国文学理论家，哈佛大学教授莱特里林（Lionel Trilling）在《真诚与真实》（Sincerity and Authenticity）一书中指出的：“真诚”与“真实”是不同的。我们把真诚视为一种德行，并用它来评价道歉时，应该知道，今天的真诚并不能减轻昨天罪行的严重性。这是因为，过去的罪行有它自己的“真实”性质，它并不会因悔罪是否真诚而有所改变。</p>
-<blockquote><p>道歉者自认为是真诚的道歉，未必在受害者眼里就是真诚的。这是因为，“害”对加害者和受害人具有不同的意义。现在的道歉往往看重肉体的伤害超过精神的伤害，所以针对的经常是“打人”、“揪斗”一类的事情。</p></blockquote>
-<p>而文革中发生的伤害，不只是肉体的，更是精神的。精神的伤害更持久，对受害人后来人生品质的损毁极为严重，其中之一便是造成难以平抚的“有害情绪”（negative emotions），以至于终身不得幸福。心理学家奈特（Daniel Nettle）在《幸福》（Happiness, Oxford University Press, 2005）一书中指出，“有害的情绪——恐惧、忧虑、悲伤、愤怒、羞耻——是一个人不幸福最主要的原因。”文革虽然过去了，但遭受到文革摧残，甚至家破人亡的人们，其伤痛并未成为过去。他们常常会做恶梦，被自己无法控制的梦魇所折磨；他们会为失去亲人而久久悲伤，为自己被迫对亲人或好友所做的见不得人的事感到羞耻；他们会对政治和社会生活充满了恐惧，时时提防别人，唯恐被人出卖和背叛。</p>
-<p>这样的精神伤害，并不会因为听到一句“对不起”而就此消失。</p>
-<p>加害者和被害人对于伤害事件的认识角度是不同的。文革加害者，往往是因为自己后来也成了受害人，才对自己害人行为的严重性有所认识。</p>
-<p>受害与加害的角度差别是一般“性命/晚餐问题”的一个特例。性命/晚餐问题是这样的：当猎豹追杀羚羊的时候，哪一个会跑得更长久一些？羚羊是为逃命而奔跑，而猎豹则是为了一顿美餐而奔跑。羚羊不跑到筋疲力尽、颓然倒地，是不会停止的；而猎豹则不会跑到那个的程度。在受害人与加害人之间，谁会对“害”有更深刻、更长久的记忆呢？答案是不言而喻的。</p>
-<p>文革中的加害者们经常不是加害于一人，他们很可能根本不把自己的一些恶行看作加害行为，他们也可能根本不在乎（或不知道）伤害人到底痛苦到什么程度。因此，今天他们虽然道歉了，却只是为所谓的“不知晓宪法”而道歉，看起来很“深刻”，很有“高度”，但其实只是一种冷漠傲慢的轻描淡写。受害人不同，他们是血淋淋暴行的直接承受者，他们的身体伤残使他们终生不能像正常人一样生活，他们失去丈夫、妻子的锥骨之痛非亲历者不能想象，与亲人天人永隔的悲情在每一个清明、中秋、除夕、新年撕裂他们的心。还有那些让他们永远难以幸福的恐惧、忧虑、愤怒、羞耻，那些他们为之感到痛苦，却难以拔除的有害情绪。真诚的道歉尚不能平抚这一切，更何况是虚假、空洞、轻描淡写的道歉？</p>
-<p><strong>有些“道歉”，并不是道歉</strong></p>
-<p>评估道歉是否真诚，涉及“人心”的问题。中国有“人心难测，海水难量”的说法。基督教传统里也有“人心不可知”的认识──任何一个凡人都不可能真切地知晓另一个凡人在心里到底是怎么想的，因此无法对他的悔恨是否真诚在道德上做出确定的评断，只有上帝才知道一个人的悔过是否真诚，并决定他是否应该得到原谅。这种人心不可知论使得“原谅”或“宽恕”的道德价值蒙上了神秘的色彩。</p>
-<p>在世俗的中国公共生活中，没有上帝来透视我们的心灵，我们表示真诚的唯一途径是运用语言。悔过和道歉是一种“言语行为”，它是否真诚，几乎完全取决于人们如何理解和解释它的言语。这使得我们格外需要关注和细查悔过和道歉所使用的语言。</p>
-<blockquote><p>如果你受过某人很大的伤害，而只是你一个人评判他对你的悔意，那么，由于你对他的深度反感，不管他如何表示悔意，你都可能觉得他不真诚。但是，只要他是公开地表示悔意，作出评判就不止是你一人，而且也是广大的公众。在一个公共说理起作用的理性社会里，公众能够对悔意是否真诚作出相对公允的评判，他们识别真假悔意或道歉，主要是从言语来看道歉者是否逃避自己的责任。</p></blockquote>
-<p>逃避真实责任的道歉被称为“非道歉的道歉”（non-apology apology），也就是假道歉。例如，“假惺惺道歉”（tongue-in-cheek apology）会说，“对这件事我比谁都感到对不起你，但是我当时确实不知道”。又例如， “如果让你觉得受委屈了，对不起”或“如果让你受委屈了，对不起”，也是假道歉（叫 “If apology”，“如果式道歉”）。道歉者只是说自己不幸让你有了委屈的感觉，并没有承认自己做错了什么。“委屈”也许是你自己太敏感、多心、偏执的缘故，并不是道歉者真的有什么必须担负的责任。</p>
-<p>美国幽默作家麦考（Bruce MaCall）曾在《纽约时报》上发表过一篇题为《完美的非道歉道歉》（“ The Perfect Non-apology Apology）的文章，称这种非道歉的道歉为“艺术性的矛盾说法”。“矛盾说法”（double talk）一词来自奥威尔的《1984》，指的是“模棱两可的欺人之谈”。常见的非道歉的道歉还有替上司扛过的“形式道歉”（formalistic apology，“原来的路线政策是好的，但我求成心切，造成了损害，对不起！”）、为躲避更大罪责的“战术性道歉”（tactical apology）等等。</p>
-<p>利用道歉来作某种解释和表白，以此反驳和消除别人对自己的批评，借以逃避责任。这也是一种常见的“非道歉的道歉”，叫做“解释性道歉”（explanation apology），它的真正目的是辩白，不是道歉。宋彬彬表示道歉的《我的道歉和感谢》中有许多这样的解释和表白。她说，自己犯错是因为“欠缺基本的宪法常识和法律意识”，这等于说，如果她有宪法知识，就不会批斗、残害老师。这种推诿的借口与文革时的实际情况并不符合。刘少奇在被批斗时，手里拿着《宪法》，要求保护他的公民权利，红卫兵照样把他打得鼻青眼肿，红卫兵的暴行不是无知犯错，而是明知故犯。正因为宋彬彬的道歉中有不少这样的自我辩解说辞，她被许多人认为是缺乏道歉诚意，并不是真的在道歉。</p>
-<p>在道歉中承担责任，需要对过错与罪责的性质有所认识，这是道歉中最难的部分。例如，宋彬彬在为自己文革行为道歉时，应该告知世人她是在为什么道歉，是因为普通性质的“错误”呢？还是因为参与了某种邪恶而犯下的“罪过”？文革道歉应该是一种“悔罪”，而不仅仅是普通的“认错”。如果她道歉是起于“罪”而不是“错”，那么，她就必须说清什么是自己为之承担一份罪责的那个罪恶。宋彬彬在师大女附中打死卞仲芸校长的8·5事件中也许确实没有直接行凶的责任，但是，作为这个学校文革领导人之一的她，有责任说出谁参与了行凶。她隐瞒真相至今，这是文革结束后几十年间，她在原来文革罪过之外，新添加的一份罪责。她完全可以用真诚的道歉来放下这份罪责的重负，但她并没有这么做。</p>
-<p><strong>“半真话”比假话更糟糕</strong></p>
-<blockquote><p>只涉及对具体个人的伤害行为罪责，而不触及文革极权帮凶的罪责，承认前面那一部分，而掩盖后面这一部分，那只是“半真”的道歉。</p></blockquote>
-<p>这种“半真”的道歉是目前大多数文革道歉的特点。不能认识，或不愿触及文革极权帮凶的罪责，可能有两种不同的原因。一是根本就缺乏这样的认识，二是就算认识到了，由于现实的环境，也不能说出来。无论是哪一种原因，文革道歉都无法深入到文革罪过的本质层次。例如，据报道，文革早期红卫兵领袖人物之一的陈小鲁为自己在文革中“违反五四宪法第89条”而道歉。他的道歉相比其他根本不道歉者，虽然形成积极的对比，但终究没有能触及极权帮凶的罪责，因此也不可能彻底。</p>
-<p>道歉并非要么是彻底的，要么是表面的；也并非要么是真诚的，要么是虚假的。真和假之间有许多不同的情况，造成道歉不真和不彻底的原因也不相同。</p>
-<p>陈小鲁道歉的不彻底，与宋彬彬的避实就虚、避重就轻、诿过饰非并不相同。因为宋彬彬的道歉关系到卞仲芸之死的真相能否解开。陈小鲁道歉的不彻底在于，不管他的悔意多么真诚，由于他并没有说清自己必须承担极权帮凶责任，他的道歉不过是一个“半真话”（half truth），希伯来谚语说，半真话就是谎话，英国杰出的政治家鲍德温（Stanley Baldwin，1867-1947）则说，“虽然自古以来人们都承认半个面包比没有面包强，但半个真理不但不比没有真理强，它比许多谎言还要坏，谎言和半真理的奴仆则都是无知。”</p>
-<p>陈小鲁的道歉中，有一部分真相被他有意隐瞒掉了，有意隐瞒就是不诚实，而任何形式的不诚实都是与真诚忏悔相悖的。那么陈小鲁的半真忏悔所隐瞒的另一半又是什么呢？</p>
-<p>据一篇题为《陈小鲁称文革是灾难，毛泽东仍是伟大领袖》的报道，陈小鲁在接受法国广播公司的采访时说，虽然毛泽东犯了很多错误，虽然他一手发动和主导的文革“没有任何进步意义，是一场灾难”，但毛泽东仍然是一位伟大领袖。陈小鲁强调这位领袖的“伟大”，是出于他的“毛泽东心结”，表明他自己仍然认可这位领袖及其所代表和象征的“毛泽东价值观”。</p>
-<p>“伟大”是一个有道德取向的高度赞美之词，“伟大”不仅是一个人建功立业，而且更是能成为世人的道德表率和正义价值（自由、平等、人的尊严和权利）的捍卫者。因此，除非我们在道德和价值观上认同秦始皇、希特勒、斯大林，我们并不会在今天的政治和社会生活中认可他们的“伟大”。陈小鲁的“毛泽东心结”在宋彬彬那里也有。网上流传她于2011年与毛泽东前女秘书张玉凤共庆毛诞的照片，便是她的这种心结的展露──这也是人们怀疑她的文革道歉真诚性的一个原因。</p>
-<p>否定“毛泽东价值观”并不是简单地批评他的个人性格缺陷或政策失误，而是拒绝他所主张和身体力行的邪恶价值。他主张仇恨、暴力、恶斗，几十年如一日，对此身体力行、创造变化、丰富发展、推向极致。他用仇恨、暴力、恶斗败坏了整个国家和社会（不只是一个党），发动了一场又一场政治运动，直至文革。这些邪恶价值充分体现在文革的理念和实践中，是毛泽东本人坚持要留给后继者的政治遗产，他死之前最担心的就是有人会否定他一手炮制的文化大革命。任何一个真正认同民主、文明、和谐，自由、平等、公正、法治（这些也都包括在今天提倡的“社会主义核心价值”里），都会反对专制、野蛮、仇恨、暴力、残忍。这是两种完全不同的，彼此对立的价值。任何一个能逻辑思考而不自欺欺人、自相矛盾的人，都不可能把一个集后一种价值之大成的人赞美和认可为“伟大领袖”。</p>
-<p>这样的赞美和认可中有一种是非观和价值判断的分裂，限制和扭曲了反思和忏悔所必需的道德思考。陈小鲁对“伟大领袖”的赞美，流露了他自己的习惯性盲目迷恋（虽然他也有了一些醒悟）。这在“红二代”中是有代表性的，也比一般人表现的更为明显。他们不能认识到的是，那些带着“革命家”光环的人物中，许多人身上都带着丑陋、肮脏、不善或恶的东西。他们的后代要在精神上有所提高和人格上有所成长，需要摆脱血缘或政治血缘亲情的拘禁和束缚，不要被蒙昧的尊崇习惯所控制。</p>
-<p>只有摆脱血缘和政治血缘亲情的拘禁和束缚，道歉者才有可能走出父辈的阴影，充分独立地审视和检讨自己的文革过错，并承担应付的全部责任。全部责任必须包括两个部分：一是对具体个人造成伤害罪过，二是在一个仇恨、暴力、恶斗、专权的极权制度中为虎作伥、助纣为虐的罪过。这两个部分的责任是交织在一起的，无法相互剥离，必须同时承担。如果谁在文革中以革命的名义逞凶施虐、残害他人，今天他为自己的残忍行为向受害者道歉，就不能只是说，“我以前打过你，是不对的，现在向你道歉，对不起”，因为这并不是普通情况下一个人因为打了另一个人而做的那种道歉。他是在一个他助长的邪恶制度中犯下残忍罪过的，他必须同时为自己助长邪恶的罪行承担责任。</p>
-<p><strong>“极权帮凶”，红卫兵的原罪</strong></p>
-<p>如果只是为文革中“打人”而不为自己的“极权帮凶”罪过道歉，那么，文革的“历史环境”便可以被用来减轻和开脱“打人”罪过的借口（身不由己、情非得已、大势所逼）。结果施害者与受害者一样，都成了作恶制度的“受害者”。这种“历史分析”的笼统抽象说法会淡化个人的罪责，也会为不愿承担罪责的个人制造逃避的借口。历史分析与个人道歉是两种不同目的的话语，正是因为历史分析不能代替个人道歉，所以才需要有个人道歉。</p>
-<p>强调个人道歉与历史分析不同，是因为历史并不自动地，无缘无故的发生，作恶发生时的历史性制度环境并不完全是由他人制造出来强加于作恶者的，它也是由作恶者自己参与制造的。在作恶制度状况中，每个人的暴力和作恶与他人的暴力和作恶都有互激和无限放大的作用，作恶者所受的“害”（被作恶制度利用）一部分是他自己参与施加于自己的。在道歉中，这一部分责任必须由他自己，而不是作恶制度的抽象“他人”来为此承担。</p>
-<p>不要说是像陈小鲁和宋彬彬这样的红卫兵重要人物，就连最普通的红卫兵也负有这种责任，只是程度不同而已。德国作家本哈德·施林克（Bernhard Schlink）在《朗读者》（1995）中描述的那个目不识丁的小人物纳粹分子，她为了求生而糊里糊涂地成为纳粹集中营的看管。在希特勒作恶制度中照，样有她必须担负的那一部分制度责任。</p>
-<p>直到今天，触及文革作恶制度问题在中国仍然是一个忌讳，这是文革道歉无法“说到点子上”的根本原因，这个责任不全在陈小鲁和宋彬彬身上。但他们的道歉没有说到位，却是一个事实。这个事实严重削弱他们道歉的真诚性。在这方面，他们似乎不如文革红卫兵造反派司令蒯大富。蒯大富在与田炳信的访谈《蒯大富：讲出文革历史真相很难》里有这么一段对话：</p>
-<p>田炳信：我再问个问题，你说为甚么我们现在不让碰文革这一块？</p>
-<p>蒯大富：发动文革的根子，就是共产党的命根子。发动文革的最重要的根子，共产党不敢碰。毛主席说：“革命不是请客吃饭”。文革为甚么发动？党的体制造成的。</p>
-<p>田炳信：你刚刚说那个根子，是甚么体制？</p>
-<p>蒯大富：那就还是封建体制，一个人说了算。随意性太强。这样的话深究文革，根本就究不了，就没法究。</p>
-<blockquote><p>文革红卫兵的暴行是在特殊的制度环境中发生的，不触及这个制度的本质，不能触及那个唯有他“说了算”的人，只是一句“没有按宪法办事”，不可能让人相信那就是真实、真诚的道歉。</p></blockquote>
-<p>在正常的社会制度中，一个人与另一个人无怨无仇，并不会去打他，就像平时文文静静的女中学生不会无缘无故打死她们的校长一样。文革中，红卫兵殴打、残害、杀害无辜的受害者（或有其他暴行或罪行），是因为毛泽东为他们制造了一个“良心作恶”的环境，给了他们一个残害别人的正当理由，而他们自己的暴力行为则又在帮助营造和加强这样的一个作恶环境。这种被叫嚣为“红色恐怖”的作恶环境正是他们的杰作。</p>
-<p>有鉴于此，就算宋彬彬并没有亲自行凶打人（这当然应该由事实来说话），她也必须向被打的人（或他们的家属）承认的极权帮凶罪责，并说出谁是凶手。参与营造文革的作恶环境，并在其中充当鹰犬和打手，这样的极权帮凶行为是陈小鲁和宋彬彬们最为严重的文革罪责，他们必须为这一罪责道歉。无论他们因为什么原因而无法作这样的道歉，其道歉都不是充分真诚的，因此也是不能被接受的。</p>
-<p><strong>文革道歉必须清除“文革基因”</strong></p>
-<p>道歉并不只是说一声“对不起”，道歉更是一种澄清罪恶，消除罪恶，恢复生活世界应有的道德规范的社会行为，如果不能针对自己在文革中为虎作伥、助纣为虐的恶行有所醒悟和悔恨，谈不上真正的悔悟和道歉。陈小鲁在接受法广采访时说，“文革的基因依然存在。如果我们的后代不了解文革的历史的话，那么，这一幕就有可能会重演。”话虽说得很好，但在肯定毛泽东是伟大领袖的前提下，这个说法就会变得空洞而虚伪。</p>
-<p>既然看到了“文革的基因”依然存在，什么是“文革基因”呢？恐怕连毛泽东的崇拜者都不会否认，没有毛泽东便不会有文革，文革是毛泽东的发明和得意之作，也是他准备最后留给中国的政治遗产。这位文革的发明者、始作俑者和领导人不就是文革最恶性的基因吗？今天，如果我们仍然把他当作“伟大领袖”，就会为政治野心家保留将他借尸还魂的机会（薄熙来的教训殷鉴不远），这又怎么能说是真的在否定文革基因和努力去除那些基因呢？</p>
-<blockquote><p>任何对文革罪过的道歉必须包含自己在文革中为虎作伥、助纣为虐罪责的忏悔，必须包含对文革的“虎”是什么，“纣”又是谁的清醒认识。否则便不可能有真正的诚恳悔意和责任承担。没有这两个道歉要素的道歉是不能被接受的。道歉的悔意越真诚，承担的责任越明确，道歉就越有效，受害者和公众也就越能接受道歉，并对道歉者予以宽恕和原谅。但是，即使是真诚的道歉，受害者也没有必须予以道歉者宽恕的道德义务。受害者的宽恕是一种善意的礼物，不是道歉的等价交换物。</p></blockquote>
-<p>在道歉和宽恕之间起调解作用的是“同情”（感同身受，empathy）。真诚的悔过释放出人的心灵痛苦和煎熬，这会触发他人的同情，并因此促使他人予以原谅和宽恕。但是，社会和公众应该欢迎和接受真诚的道歉（尽管从宽恕的伦理来说，除了上帝，没有任何“第三者”真正具有予以宽恕的资格），法律也不应该把道歉和忏悔的罪过用作起诉和追究的罪证（有的国家对此有明确法律规定），因为真诚的道歉和忏悔有助于人际冲突或社会矛盾的和解，也有助于整个社会恢复和维持文明的道德秩序。</p>
-<p>在看到道歉和原谅的社会意义的同时，也应该看到，在不该给予原谅时给予原谅，对国家和社会都是一件有害的事情。著名的美国法学和哲学教授莫菲（Jeffrie G. Murphy）在《算账：原谅及其限度》(Getting Even: Forgiveness and Its Limits)一书里指出，不当的原谅会成为罪犯的实际帮凶，真正的原谅必须包括认真考量是否应该给予原谅。南非裔新西兰著名哲学家诺维兹（David Novitz）在《原谅与自尊》(“Forgiveness and Self-Respect”)一文中把“太容易的原谅”看成是一种缺乏自尊的病症。</p>
-<p>这样的想法并不是今天的思考者和研究者才有的。亚里士多德在《伦理学》里说，在应该愤怒的时候不觉得愤怒的人“是不太可能保卫自己的”，他会“忍气吞声、息事宁人”，这样的人不过是一个“傻瓜”而已。康德认为，遭受不义的对待而不愤怒，这不是美德，而是缺乏尊严和自尊（Lectures on Ethics）。休谟则认为，爱和恨都是人类天性和性格中自然就有的，谁要是缺少了这些感觉，只能证明他的“孱弱和无能”（A Treatise of Human Nature）。原谅并不总是能达到好的道德目标，因此并不总是在道德上值得赞美或在公义上有充分理由。区分正当的和不正当的原谅是每一个正派社会的共同责任，在我们今天思考文革道歉，尤其是那些包含“文革基因”的“文革道歉”，并考虑是否要给予接受或原谅的时候，这是不可不知的道理。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BE%90%E8%B4%B2%EF%BC%9A%E6%96%87%E9%9D%A9%E9%81%93%E6%AD%89%E5%BF%85%E9%A1%BB%E5%85%88%E6%B8%85%E9%99%A4%E6%96%87%E9%9D%A9%E5%9F%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%B2%E5%8E%86%E8%80%85/?category=18271" rel="tag">亲历者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E6%81%B6/?category=18271" rel="tag">作恶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%9F%E7%BD%AA/?category=18271" rel="tag">原罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D/?category=18271" rel="tag">反思</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%B4%B2/?category=18271" rel="tag">徐贲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">政治运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">文化大革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E9%81%93%E6%AD%89/?category=18271" rel="tag">文革道歉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83/?category=18271" rel="tag">极权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">极权制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A7%A9%E5%BA%8F/?category=18271" rel="tag">社会秩序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1/?category=18271" rel="tag">自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%8E%E8%A8%80/?category=18271" rel="tag">谎言</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%9A%E6%80%A7%E5%92%8C%E4%BA%BA%E6%80%A7%E5%86%B2%E7%AA%81%E6%97%B6-%E5%9D%9A%E5%86%B3%E5%8F%AA%E8%AE%BA%E5%85%9A%E6%80%A7%E4%B8%8D%E8%AE%BA/" target="cdt-mirror">【异闻观止】党性和人性冲突时 坚决只论党性不论人性</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/189.jpg?resize=600%2C338" alt="内乡法院干部创业核心思想。 " srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/189.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/189.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>内乡法院干部创业核心思想。</p></div>
-<p>5月15日晚，一条法院院长“论党性不论人性”的帖子在微博热传。帖子的配图是一张印有国徽的宣传标语，“内乡法院干事创业核心思想：论党性不论人性，论规矩不论初犯，论主观不论客观，论业绩不论原由”。</p>
-<p>5月16日上午，澎湃新闻联系河南内乡县人民法院，该院工作人员经请示向记者转发了一条该院院长成延洲的回应，称被误解和置疑，“不论本身也含着论”，“当党性和人性重合时，既论党性又论人性；当党性和人性并列时，先论党性后论人性；当党性和人性冲突时，我们坚决只论党性不论人性”。</p>
-<p>“论党性不论人性”</p>
-<p>澎湃新闻记者检索发现，“论党性不论人性”最早出现在河南内乡县人民法院官方网站的“院长致辞”中。<br>
-“近年来，内乡法院在内乡县委的正确领导下，在人大、政府、政协和上级法院的监督、支持下，以党的十八大会议精神为指针，确立了“钢铁队伍、廉正审判、美好生活”的工作基本路线，以及“论党性、不论人性，论规矩、不论初犯，论主观、不论客观，论业绩、不论原由”的干事创业核心思想，以保证“让人民群众在每一个司法案件中都感受到公平正义”目标的实现，狠抓审判第一要务，切实加强队伍建设和司法管理，各项工作都取得了新的进展。”此文的发布时间为2016年3月1日上午11时。</p>
-<p>该网站当日下午4时31分发布的“党组书记、院长成延洲同志情况简介”中，再次引用了这一段内容，“上任伊始，立足内乡法院的实际，便确立了该院的院训（总体路线）：“钢铁队伍，廉正审判，美好生活”；精神追求：“讲理想，讲纪律，讲境界，讲情怀”；干事创业的核心思想：“论党性不论人性，论规矩不论初犯，论主观不论客观，论业绩不论原由”。统一了全院干警的思想，凝聚了全院干警的力量。”<br>
-3月29日，中新网南阳站发布的《内乡县法院三项措施强化思想教育提高队伍素质》新闻中，第一项措施就是该“论党性不论人性”的内容。</p>
-<p>院长回应：“不论本身也含着论”</p>
-<p>5月16日，澎湃新闻联系内乡县人民法院，该院办公室宋姓工作人员承认，该院确有“论党性不论人性”的宣传标语，也确为院长成延洲上任后提出。十几分钟后，他经请示转发了一条短信至澎湃新闻记者手机：</p>
-<p>转自成院长：关于有人误解和置疑我院“论党性，不论人性”的回复：</p>
-<p>鉴于内乡法院队伍建设和审判绩效近三年来出现的多人被纪委检察机关公诉处理，全省排名后十的现实状况，为了扭转这种落后挨打的局面，我们断然提出了“论党性，不论人性”等“四论四不论”的干事创业的核心思想。</p>
-<p>正像法律上的“可以本身含着不可以”一样，这里的“不论本身也含着论”，因为人性中丑恶的东西太多太多，如：好色，饕餮，贪婪，懒惰，媚俗，愤怒，嫉妒，傲慢，淫荡等等等等，而党性却是人性中光辉一面的结晶体。所以我们讲的是“当党性和人性重合时，既论党性又论人性；当党性和人性并列时，先论党性后论人性；当党性和人性冲突时，我们坚决只论党性不论人性”。</p>
-<p>来源：澎湃新闻</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%9A%E6%80%A7%E5%92%8C%E4%BA%BA%E6%80%A7%E5%86%B2%E7%AA%81%E6%97%B6-%E5%9D%9A%E5%86%B3%E5%8F%AA%E8%AE%BA%E5%85%9A%E6%80%A7%E4%B8%8D%E8%AE%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%80%A7/?category=18271" rel="tag">人性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7/?category=18271" rel="tag">党性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%A0%87%E8%AF%AD/?category=18271" rel="tag">宣传标语</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98%E4%B8%8A%E5%B7%B2%E7%BB%8F%E8%BF%9B%E9%80%80%E4%B8%A4%E9%9A%BE/" target="cdt-mirror">共识网｜马云根：中国在南海问题上已经进退两难</a>
-</h2>
-<p><p>中国政府发现，南海问题已脱离自己的掌控，南海争端的含义已经失去了中国政府的定义，成为了美国定义的自由航行权之争。美国的自由航行权与南海争端，应该是两件事，但在如今的南海问题中，却被搅成了一件事。中国认为是美国想要介入南海争端，从而打着海上自由航行权的名义，中国基于这一判断做出了强烈的反应，为此全力出击抵御美国的力量。问题出在，南海周边与中国有岛屿争端的国家，成功的将话题转向自由航行权方向，让美国成功地用海上自由航行权的法理，来占据了南海主导的上风，却是个不争的事实。赫然发现，中国一贯采取的反对域外国家“干预”南海事务，主要针对的就是包括美日在内的西方国家利用南海议题拓展本国利益的举动，却将更多的国家卷入进来，自己却是孤独的一国，势单力薄，实力不济，同时议题也落入下风。</p>
-<p>由于中国不接受菲律宾提交国际法庭解决争端的方式，也未能出庭答辩，彻底的关闭了中菲法律解决岛屿争端的意愿。菲律宾等争端国家，无法在中国的双方谈判解决中占得优势，唯一的手段将争端的焦点转移给美国，岛屿争端的焦点转向自由航行权成为必然。从此开始，中国成为美国及众多国家的对手，当南海争端变为了海上自由航行权的问题，中国却是孤军奋战，也将不得不咽下失败的苦果。我们的优势为何突然间消失了，外交上的判断失误，是一个重要的因素。</p>
-<p>公海自由航行权始于一战，是美国总统威尔逊贡献了战后两大秩序，一是求公海自由航行权;二是国际联盟的创立。并非如今专家们所称，是1982年实施的美国干涉其他国家海上权益争端的一个项目“航行自由项目”。而公海自由航行权近百年来，使世界各国的经济自由与社会繁荣受益，中国也不例外。二战中美国参战的理由，就源自于此，认为德国法西斯、日本都在摧毁自由市场的秩序，向德国法西斯开战、当初封锁日本都是。日本的1941年12月8日宣战诏书揭示了这一点，宣战书中指责美国“于帝国之周围增强武备，向我挑衅，并对帝国之和平通商横加阻碍，终于断绝经济关系，给予帝国生存以重大威胁，”，故采取了偷袭珍珠港，进而引发美国对日宣战。美国更是在德国和英国死战的时候，美国通过了《中立法修正案》《租借法案》明显的偏袒英国，使德国潜艇无法对美国军舰保护的英国商船进行有效的打击，德国不得不对美国宣战。</p>
-<p>改革开放后，中国融入世界的经济后得以快速发展，从根本上也是受惠于这两大秩序，而对于其他国家，其经济繁荣也是要依靠于此。虽然，美国的航行自由权挑战了许多国家的领海和专属经济区，但各国都只是口头上提提抗议或默不作声，并不采取军事对抗行为。因为，各国的经济繁荣都受惠于海上航行自由。况且，目前还没有可以替代美国这一秩序的有效方法，故大都选择参加到与美国一起保护海上自由航行权，这是最优的选择。</p>
-<p>中国在南海的做法，在南海周边国家来看，是在客观上挑战了这一秩序，南海九段线的含义极为模糊，至今仍没有任何机构能对九段线做出清晰的解释，每当被别国质问时，只能笼统回答不是什么，如不是专属经济区，不是大陆架，不是领水等，但是至今没人能够回答九段线是什么。然而，九段线就在模糊的认知中，却成为中国人心中不容侵犯的海疆，已深入人心。进难，退却无路，民众与政府已陷入进退两难的困境，而加大南海的维权力度，将有更多的国家成为中国的对手或潜在的对手。更为令人烦恼的是，原本无法对南海及东南亚国家施加影响的各国，都在趁机出手加大在东南亚的影响力。</p>
-<p>中国主流媒体和智库的研究，对国内宣传中介绍美国站在南海争端前台的原因，是从三个层面上来解释：一是认为，美国把南海问题当做制约中国快速崛起的抓手;二是认为，美国强调“专属经济区划分原则”、“领海的无害通过原则”等原则来斗争;三是认为，美国借机加快“重返亚太”的步伐，加大在该地区的军事存在。这种似是而非式的解读，根本就会对民众产生误导，也会使国家政策发生偏离，在处理南海问题上的错误更加严重，被动的局面频频出现。可以预料，仲裁庭作出的最终裁决，将可能否定南海断续线的法律基础，以及中国在断续线内的主权权利。中国在南海问题，外交上采用延续一贯的“模糊政策”对南海进行立场表述，而国内民众对“九段线”认知，形成的是不容侵犯的海疆，这一个混合体，无法自圆其说。固有权利不可让渡，民主体制下的国家，大多无法通过谈判解决固有权利的争端问题，法律框架下解决是唯一的途径。虽然双方谈判解决可以造成双赢的假象，但民主国家政党竞争的质询制度，让双赢的面具不在，更无法承受选民的流失，而秘密协议是这些国家无法想象的。换句话说，这些国家以目前的实力，只能够通过法律框架下，解决固有权力的争端问题。“海上航行自由”原则，则是美国压迫中国回到法律框架下解决争端的有力武器。</p>
-<p>这是一个让各国的经济繁荣都受惠的“海上航行自由”原则，而目前也还没有可以替代美国这一秩序的有效方法。中国的南海政策一旦陷入到“海上自由航行权”的问题上，就将成为了孤独的挑战者，而且，还将是唯一失败和信誉受损的国家。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B1%E8%AF%86%E7%BD%91%EF%BD%9C%E9%A9%AC%E4%BA%91%E6%A0%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98%E4%B8%8A%E5%B7%B2%E7%BB%8F%E8%BF%9B%E9%80%80%E4%B8%A4%E9%9A%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B5%B7/?category=18271" rel="tag">公海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">南海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E8%88%AA%E8%A1%8C/?category=18271" rel="tag">自由航行</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E4%BC%9A%E8%AF%AF%E4%BB%A5%E4%B8%BA%E9%AB%98%E8%80%83%E6%98%AF%E5%85%AC%E5%B9%B3%E7%9A%84%E8%80%83%E8%AF%95%EF%BC%9F/" target="cdt-mirror">唐映红 | 为什么人们会误以为高考是公平的考试？</a>
-</h2>
-<p><p><strong>问：为什么人们会误以为高考是公平的考试？</strong></p>
-<p>答：虽然生活中不少人会认为，尽管高考有种种不是，但毕竟它是一个公平的考试。其实，<strong>高考从来就不是一个公平的考试。</strong>那么，为什么这么多年来，人们会普遍地对高考制度中明显不公正的因素视而不见，以致使<strong>这么一个显失公平的考试制度延宕了近40年，对加剧地域的不平等，戕害真正的人才可谓“功不可没”。</strong></p>
-<p>从社会学角度，公正通常包含了三个部分：<strong>分配公</strong>正（distributive justice）、<strong>程序公正</strong>（procedural justice）以及<strong>互动公正</strong>（(interactional justice）。<strong>分配公正在高考制度上的反映应该为同等优秀的学生应该得到同等的机会，有同等的概率追求到同样的结果</strong>。程序公正在高考制度上的反映则是出台的高考政策必须满足正当且合法的程序，而且正当性优先于合法性。<strong>符合程序公正的高考政策应当经过各利益方的充分博弈，以最终达到兼顾各方利益的政策结果。</strong>互动公正在高考制度上的反映就意味着考生、家长和教师都应当<strong>获得充分的讯息以从容备考。</strong></p>
-<p>以此观之，<strong>高考制度从一开始就建立在不公正的基础上</strong>。</p>
-<p>首先<strong>高考制度缺乏起码的分配公正</strong>，不同地域的考生，取得同样的考试成绩，却不能得到同等的机会。<strong>一个在四川分数仅够上二本，甚至三本院校的学生，同样的成绩放到北京、天津等地，却能够轻松上一本院校。</strong>下面一组数据足以显示，<strong>现行的高考制度是不折不扣充满地域歧视的制度，其歧视程度丝毫不亚于种族隔离时期美国南部各州区别对待白人学生和黑人学生的歧视程度。</strong>下面数据中，北京的一本上线率（2013~2015）为<strong>24.42%</strong>，而四川的一本上线率仅为<strong>5.37%</strong>，<strong>北京是四川的4.5倍</strong>。以2014年为例，四川考生57.12万，一本只录取3.12万人，二本录取9.09万人，二本及以上录取率共<strong>22.14%</strong>，仍然低于北京的一本录取率<strong>24.81%</strong>，也低于天津的一本录取率<strong>24.25%</strong>。换言之，<strong>四川一些只能读三本院校的学生，如果在北京或天津，同样的成绩却能轻松读到一本。</strong></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E8%80%83%E5%85%AC%E6%AD%A3.jpg?resize=388%2C776" alt="高考公正" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高考公正.jpg?resize=150%2C300 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高考公正.jpg?w=388 388w" sizes="(max-width: 388px) 100vw, 388px" data-recalc-dims="1"></p>
-<p><strong>其次高考政策的出台严重缺乏起码程序公正，利益攸关方竟然没有机会参与到政策决策前的博弈中</strong>。例如，权力集团试图缩小东西部的大学录取率的差距（<em>最大相差4.5倍，足以令那什么核心价值观里的“公正”看起来像砣<strong>鼻屎</strong></em>），计划将部分东部高录取率的指标调配到西部低录取率的指标。按说这是在分配公正上稍有改善的一步，应该具有进步意义。可是，<strong>政策的决策和出台，完全成为少数权力精英的算计。</strong>一本录取率在20%以上的北京、天津、上海<strong>一个指标不调减</strong>，却将一本录取率仅列14、21的湖北（10.87%）、江苏（9.66%）中要调减3万5千到4万个指标。要知道，<strong>湖北、江苏的一本录取率仅仅只有北京、天津和上海的一半还不到。</strong></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E8%80%83%E5%85%AC%E6%AD%A32.jpg?resize=559%2C373" alt="高考公正2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高考公正2.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高考公正2.jpg?w=559 559w" sizes="(max-width: 559px) 100vw, 559px" data-recalc-dims="1"></p>
-<p>再者，<strong>高考制度的互动公正也基本匮乏</strong>。例如，<strong>为了掩盖四川高考一本录取率畸低的现象</strong>，2015年权力集团为了提高一本录取率，将成都理工、西华师大、西南石油、川师大、西科大等大批专业<strong>提升到一本录取</strong>，同时又大幅缩小二本录取率，为了掩盖后者，干脆<strong>将三本合并到二本招生。</strong>也就是说，如果从权力集团披露的统计信息来看，<strong>四川2015年的一本录取率在没有任何实质性改善的情况下，仅仅移花接木就迅速“提高”，以此来蒙骗考生和家长。</strong></p>
-<p>由此不难看出，<strong>高考制度无论在分配公正、程序公正还是互动公正上都严重缺乏，甚至倒行逆施到令人发指的程度。</strong>严重缺乏起码公正的高考制度下的高考，当然就是不公正的一种考试。可是，近40年来，充满赤裸裸地域歧视的高考却被许多人误以为是公平的考试。这与下面几个因素有关。</p>
-<p>1、<strong>高考的地域歧视，长期以来不具有感知显著性。</strong>相比于高考的严重歧视，中国大陆的城乡歧视、体制歧视、户籍歧视、民族歧视等等的严重程度比高考的歧视要严重得多得多。当社会舆论还在关注进城务工者子女的义务教育阶段的制度性入学障碍时，高考中的地域歧视就显得不那么明显。</p>
-<p>2、<strong>高考作为国家考试，采取分省出题的模式，掩盖了省间招生名额的严重歧视问题。</strong>由于每个省的教材、教学和应试各有不同，因此考生和教师更容易注意到不同省考题的难易程度，而忽略<strong>考题的难易根本就无关录取率</strong>。江苏的考题再难，根据权力集团分配给江苏的一本录取指标，其录取率都将在10%左右。像四川，其考题就算简单到如同抽签，一本的录取率也只有5%左右。</p>
-<p>3、<strong>高考的公正与否，从来每年都只涉及到部分人群，而且每位考生和家长大多都只关注到省内的竞争，而无暇也不大可能关注到省间的竞争。</strong>特别是，绝大多数家长都只能关注到影响孩子被录取的细枝末节的因素，而难以想到阻挠他们孩子考上理想大学的最大障碍来自于歧视性的政策。家长们为了孩子考试的顺利，不仅陪同参考的孩子，而且自发地阻止考试学校外的车辆通行，而须臾也想不到应该去争取在高考招录名额上的公正。</p>
-<p>4、<strong>房间的大象效应。</strong>由于高考的严重地域歧视源自控制和垄断一切社会资源的权力集团，这头大象不仅影响着高考的公平与否，更控制和影响着社会生活的方方面面。<strong>正是因为庞然大物的大象垄断和控制了一切社会资源，所以人们就习以为常，对这个庞大的影响因素视而不见，视若无睹。</strong></p>
-<p>上述种种，就使得许多人误以为高考时公平的考试，而<strong>丝毫也意识不到高考从一开始就是充满着赤裸裸地域歧视的一种不公正的制度。</strong></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%BB%AC%E4%BC%9A%E8%AF%AF%E4%BB%A5%E4%B8%BA%E9%AB%98%E8%80%83%E6%98%AF%E5%85%AC%E5%B9%B3%E7%9A%84%E8%80%83%E8%AF%95%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权力集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8B%E5%BA%8F%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">程序公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%90%AC%E8%AF%B4%E8%A6%81%E6%8B%8D%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF%E3%80%8B-%E7%BD%91%E5%8F%8B%E7%AC%91%E4%BA%86/" target="cdt-mirror">【CDTV】听说要拍《中国队长》 网友笑了</a>
-</h2>
-<p><p>@教你写剧本：《美国队长3》导演安东尼·罗素、乔·罗素已经确定要拍“中国队长了”。小编猜拍出来一定是这样的……</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/63b000287004e4b514f.jpg?resize=550%2C462" alt="63b000287004e4b514f" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/63b000287004e4b514f.jpg?resize=300%2C252 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/63b000287004e4b514f.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>新闻报道，《美国队长3》的导演打算和中国内地合拍《中国队长》。</p></div>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%90%AC%E8%AF%B4%E8%A6%81%E6%8B%8D%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF%E3%80%8B-%E7%BD%91%E5%8F%8B%E7%AC%91%E4%BA%86/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p>墙内视频<a href="http://weibo.com/p/230444ff26f190bc0a9bbe97b4b3e79ce15c00" target="_blank">链接</a></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6390002910e13132eee.jpg?resize=284%2C443" alt="6390002910e13132eee" data-recalc-dims="1"></p>
-<p>视频来源</p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%90%AC%E8%AF%B4%E8%A6%81%E6%8B%8D%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF%E3%80%8B-%E7%BD%91%E5%8F%8B%E7%AC%91%E4%BA%86/"><em>点击这里查看嵌入的视频。</em></a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%90%AC%E8%AF%B4%E8%A6%81%E6%8B%8D%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF%E3%80%8B-%E7%BD%91%E5%8F%8B%E7%AC%91%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%BF/?category=18271" rel="tag">中国队长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF/?category=18271" rel="tag">美国队长</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -752,7 +802,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -762,5 +812,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

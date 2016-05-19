@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%B8%AF%E5%AA%92%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%95%E5%9B%BE%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB/" target="cdt-mirror">德国之声 | 港媒：习近平试图打造自己的理论体系</a>
+</h2>
+<p><p><strong>据中国官方媒体报道，习近平5月17日在京主持召开哲学社会科学工作座谈会，并发表讲话，提出“加快构建中国特色哲学社会科学”。香港媒体认为，与几位前任相比，习近平对共产主义思想理论显示出更大的热情。</strong></p>
+<p>（德国之声中文网）在有近150名专家和党政干部参加的会议上，习近平指出，”坚持和发展中国特色社会主义，哲学社会科学具有不可替代的重要地位，哲学社会科学工作者具有不可替代的重要作用。”他强调坚持以马克思主义为指导，”是当代中国哲学社会科学区别于其他哲学社会科学的根本标志”。</p>
+<p>习近平呼吁要构建中国特色哲学社会科学，”在指导思想、学科体系、学术体系、话语体系等方面充分体现中国特色、中国风格、中国气派”。</p>
+<p>法新社报道称，这次会议是习近平希望在文化领域树立更大权威的一次新的尝试。今年早些时候，习近平在会议场合分别阐述了自己对新媒体和互联网的发展理念。</p>
+<p>近年来习近平还多次要求加强”党对高校的领导”，提出高等教育应在意识形态引导方面发挥更大作用。习近平在周二的会议上强调，哲学社会科学领域”是知识分子密集的地方，要把这支队伍关心好、培养好、使用好”。</p>
+<p>习近平还对与会者分析指出：”我们的哲学社会科学有没有中国特色，归根到底要看有没有主体性、原创性。只有以我国实际为研究起点，提出具有主体性、原创性的理论观点，构建具有自身特质的学科体系、学术体系、话语体系，我国哲学社会科学才能形成自己的特色和优势。”他强调”坚定中国特色社会主义道路自信、理论自信、制度自信，说到底是要坚定文化自信。”</p>
+<blockquote><p>柏拉图的《理想国》、亚里士多德的《政治学》、托马斯·莫尔的《乌托邦》、康帕内拉的《太阳城》、洛克的《政府论》、孟德斯鸠的《论法的精神》、卢梭的《社会契约论》、汉密尔顿等人著的《联邦党人文集》、黑格尔的《法哲学原理》、克劳塞维茨的《战争论》、亚当·斯密的《国民财富的性质和原因的研究》、马尔萨斯的《人口原理》、凯恩斯的《就业利息和货币通论》、约瑟夫·熊彼特的《经济发展理论》、萨缪尔森的《经济学》、弗里德曼的《资本主义与自由》、西蒙·库兹涅茨的《各国的经济增长》等著作，过去我都翻阅过，一个重要感受就是这些著作都是时代的产物，都是思考和研究当时当地社会突出矛盾和问题的结果。 —— 习近平在讲话中提到</p></blockquote>
+<p>香港《南华早报》援引分析人士指出，习近平一再强调马列主义理论的重要性，与其说是要回归中共的正统意识形态，不如说是反映了他意欲建立自己的政治理论体系的渴望。与其几位前任相比，习近平对共产主义思想理论显示出更大的热情，上任以来他已主持了多次有关马克思主义理论的中共高层会议，其中包括三次政治局会议。</p>
+<p>在周二的座谈会上，习近平要求各级党委”要把哲学社会科学工作纳入重要议事日程，加强政治领导和工作指导，一手抓繁荣发展、一手抓引导管理”。他还提出”要抓好教材体系建设，形成适应中国特色社会主义发展要求、立足国际学术前沿、门类齐全的哲学社会科学教材体系”。此外还要加强”中国特色新型智库”建设，建立健全决策咨询制度。</p>
+<p>曾任中共中央党校刊物《学习时报》副主编的邓聿文在新浪微博上写道：”从今天哲学社会科学座谈会发言人的名单来看，右派知识分子彻底失去了执政党的信任，中国模式派走向舞台。”</p>
+<p>据官方媒体报道，参加此次座谈会的专家有中国社科院研究员汝信、北京大学国家发展研究院教授林毅夫、中国社科院马克思主义研究院研究员钟君、复旦大学中国研究院教授张维为、中国政法大学教授马怀德、武汉大学马克思主义学院教授沈壮海、国防大学战略研究所教授金一南等。</p>
+<p>中共中央政治局常委刘云山、各省区市党委宣传部部长、马克思主义理论研究和建设工程咨询委员也出席座谈会。</p>
+<p>相关阅读：<a href="http://politics.people.com.cn/n1/2016/0518/c1024-28361421.html" target="_blank">习近平：在哲学社会科学工作座谈会上的讲话（全文）</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%B8%AF%E5%AA%92%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%95%E5%9B%BE%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%94%BF%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">党政干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%9D%E8%AF%AD%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">话语体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%AA%92%E4%BD%93/?category=18271" rel="tag">香港媒体</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%EF%BD%9C%E6%9C%89%E5%A4%9A%E5%B0%91%E7%83%AD%E9%97%A8%E4%BA%8B%E4%BB%B6%E6%9F%A5%E6%97%A0%E5%90%8E%E7%BB%AD%EF%BC%9F/" target="cdt-mirror">鸡蛋与高墙｜有多少热门事件查无后续？</a>
+</h2>
+<p><p><strong>【编者注】凯风微信原文已被和谐。作者微信公号：鸡蛋与高墙（ID: eggs-walls）</strong></p>
+<p>文｜凯风</p>
+<p>后台有人留言问起雷洋案的最新进展，说实话，除了知乎删帖、律师介入、雷洋妻子报案之外，并无任何实质性的进展，而舆论关注的热度已经开始呈现衰减趋势。自媒体时代，新闻事件一旦演变成为舆论事件，就会成为席卷全网的热门事件。无论是常州毒土地风波，还是魏则西雷洋事件，事发当时，舆论一哄而上；随后新的热门话题出现，舆论一哄而散。梳理今年以来的网络热门事件，关注度最高的当属土地70年产权续期、问题疫苗、如家酒店风波、常州毒土地、三亚城管打人、魏则西事件、暴力伤医案、雷洋案、高考减招。这些问题，除了雷洋案因为真相未明尚有持续关注之外，其他事件都已基本淡出公众视野。 譬如下图“莆田系”搜索指数的变化，经过一轮近乎全网络的广泛关注之后，迅速恢复常态，而百度与莆田系的问题并未得到实质性的解决，依旧等待下一轮的舆论引爆，希望下一次不用再付出生命的代价。</p>
+<p>有一种阴谋论认为，如家酒店为问题疫苗转移焦点，常州毒土地为如家风波转移焦点，三亚城管打人迅速让常州毒土地成为过去，魏则西事件让上述的一切都成为过去，随后雷洋事件取而代之，高考减招则成功吸引走雷洋案的注意力…… 人们不无恶意的揣测，每一起热门事件都充当着救火员。无论有意还是刻意，处于舆论漩涡的当事方，显然对舆论的半衰期报以希望，由此形成典型的的中国式舆论应付术：在舆论高压之下，不对核心问题作出具体回应，不对事件做出盖棺定论，所有的一切都要等到舆论关注消退，再静悄悄地发布最终结果。静悄悄的表彰，静悄悄的复出，静悄悄的消除所有痕迹。 去年以来的重大灾难，沿袭的就是这种路径。长江翻船事件，时隔半年在元旦前后方才公布调查结果，原因可以想象，“强对流天气带来的强风暴雨袭击导致的特别重大灾难性事件”，不但所有人都能从中摆脱责任，而且灾难很快变成喜事：2016年1月26日，湖北发布公示：拟推荐监利县民政局等99个集体为“东方之星”号客轮翻沉事件湖北省救援和处置工作先进集体，推荐官东同志等253名个人为该事件湖北省救援和处置工作先进个人”拟表彰对象。</p>
+<p>今年以来的所有热点事件，因循的同样是这种模式。譬如常州毒土地风波，去年媒体就有报道，当地官方媒体却强调周边没有化工厂；随后更多媒体介入，当地仍旧强调没有污染；直到央视介入，“641人送医，甚至查出淋巴癌白血病”，国务院介入，舆论引爆。这一事件最终的结果是什么？你以为常州官方承认错误、责任人下台、学校搬迁、毒土地全面清理？ 不要这么乐观，4月25日，常州发布官方通报，宣称一切正常，校内外空气环境没差异，学生发病原因不明。进一步的反思有吗？当然有，是这样的：存在重视程度不够、应急处置不及时、与学生家长沟通不到位等问题。对此，我们将认真吸取教训，全面深刻反思，查找自身不足，严格落实主体责任，抓好问题整改，并举一反三，严防此类事件再次发生。 魏则西事件又如何？联合调查组高调进驻百度，最终处理结果只是要求百度进行整改。至于竞价排名算不算广告，要不要按照广告法进行规范，无论是调查组还是工商部门，都不置一词。 当事方百度呢？百度董事长李彦宏发布《勿忘初心不负梦想》的内部信，说百度失去了对价值观的坚守。从头到尾，没有一句道歉。 雷洋事件的最终结果是什么，我们不知道。但如果每一起事件都这样虎头蛇尾，那所谓的舆论关注终究只是一场泡沫式的舆论狂欢。 这个时代，如果遭遇不够悲惨，或者事件不够戏剧，大多数的不幸都不会被舆论所捕捉到。而那些有幸形成舆论事件的，也未必会有一个美好的结果。 记忆是一项政治工程，除了权力刻意的删减增改之外，还有舆论健忘症的无意配合。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" rel="attachment wp-att-438293"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?resize=300%2C293" alt="鸡蛋与高墙二维码" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?resize=300%2C293 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?resize=768%2C749 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?w=818 818w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%EF%BD%9C%E6%9C%89%E5%A4%9A%E5%B0%91%E7%83%AD%E9%97%A8%E4%BA%8B%E4%BB%B6%E6%9F%A5%E6%97%A0%E5%90%8E%E7%BB%AD%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A7%E4%BA%8B%E5%96%9C%E5%8A%9E/?category=18271" rel="tag">丧事喜办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E5%A4%96%E6%AF%92%E5%9C%B0%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">常外“毒地”事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%A4%8F%E7%9F%A5%E9%9D%92%EF%BD%9C%E9%99%B6%E4%B8%9C%E9%A3%8E%EF%BC%9A%E9%98%BF%E4%BC%A6%E7%89%B9%E5%85%B3%E4%BA%8E%E6%9A%B4%E5%8A%9B%E7%9A%84%E6%80%9D%E8%80%83%E5%8F%8A%E5%85%B6%E5%90%AF/" target="cdt-mirror">华夏知青｜陶东风：阿伦特关于暴力的思考及其启示</a>
 </h2>
 <p><p>阿伦特关于暴力的思想非常深刻，对我们反思人类历史上的暴力，特别是“文革”时期的暴力，有很深刻的启发。目前，《南方周末》《中国青年报》等媒体纷纷报道了当年的红卫兵对自己文革时期对老师的施暴行为进行道歉。我以为在这个时候介绍阿伦特的暴力理论是非常必要的。</p>
@@ -671,77 +710,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%BF%E8%A1%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%912015%E5%B9%B4%E5%BA%A6%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84/" target="cdt-mirror">【真理部】“2015年度‘五个一百’网络正能量精品评选结果”</a>
-</h2>
-<p><p>各网首页重要位置要突出转载“<a href="https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&ch=&tn=baidu&bar=&wd=2015%E5%B9%B4%E5%BA%A6%E2%80%98%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E2%80%99%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84%E9%80%89%E7%BB%93%E6%9E%9C&oq=2015%E5%B9%B4%E5%BA%A6%E2%80%98%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E2%80%99%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84%E9%80%89%E7%BB%93%E6%9E%9C&rsv_pq=ac7b0fa80003fb91&rsv_t=6e7eA6rqrV%2FuofQnq92HaeLOQIiry3Yhk%2BNw0PAC6frJKsf3oAljJbiJJys" target="_blank">2015年度‘五个一百’网络正能量精品评选结果</a>”专题页面，严格管理跟帖。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%912015%E5%B9%B4%E5%BA%A6%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%E7%BD%91%E7%BB%9C%E6%AD%A3%E8%83%BD%E9%87%8F%E7%B2%BE%E5%93%81%E8%AF%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%87%E9%9D%A950%E5%B9%B4%E5%90%8E-%E4%BB%96%E4%BB%8D%E5%9C%A8%E7%AD%89%E5%BE%85%E7%88%B6%E4%BA%B2%E6%AD%BB%E4%BA%A1%E7%9A%84%E7%9C%9F%E7%9B%B8/" target="cdt-mirror">纽约时报 | 文革50年后 他仍在等待父亲死亡的真相</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14CHINACULTREV-web1-articleLarge.jpg?resize=600%2C400" alt="陈书祥手捧祖父的照片及他曾在一所大学工作过的证明文件。他将此视若珍宝，因为他在文革中遇害的父亲没有留下一张照片。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14CHINACULTREV-web1-articleLarge.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14CHINACULTREV-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>陈书祥手捧祖父的照片及他曾在一所大学工作过的证明文件。他将此视若珍宝，因为他在文革中遇害的父亲没有留下一张照片。</p></div>
-<p>陈书祥的父亲50年前被打死了，至今他仍想知道父亲血迹斑斑的尸体哪里去了。他保留着一张边缘已经磨损的纸条，这张当年的纸条让他在文化大革命的混乱之中，找到了那些打死他父亲的狂热学生，给了他们钱，让他们把父亲的遗体送去火化。</p>
-<p>他从未找到父亲的遗体。从那时起，他一直希望能有答案，等待着曾经打死自己父亲的学生站出来。他们变老了，对当初很懊悔，并表示他们感到歉疚。但没有人出现。</p>
-<p>陈书祥仍在等待着对毛泽东发动的文化大革命的遗留问题的一个坦诚评判，中国也在等待着。</p>
-<p>“我父亲临死的时候，连一口水都不让他喝了，”现年72岁的陈书祥说。他是一名退休教师，住在北京的西北部，走几分钟就能到他父亲当年住过的地方。“这个事情我现在都不愿意去想，但同时还想听听干的这个事那些人是有什么说的。”</p>
-<p>“他们为什么选中了他？他的骨灰到哪里去了？”</p>
-<p>半个世纪前，毛泽东发动了文化大革命，他想动员广大群众用轰轰烈烈的运动来清除中国的意识形态敌人，许多经历了那个时代的人认为，文革遗留下来的问题仍在困扰着自己的国家。</p>
-<p>从1966年5月16日文革正式开始，直到1976年毛泽东逝世后文革逐渐收尾，在那段时间里，也许有上百万人非正常死亡，上千万人遭受迫害，经济停滞不前，还有上千个历史和文化古迹被毁坏。</p>
-<p>共产党在1981年谴责了那场运动，称其使中华人民共和国自1949年建国以来遭到了“最严重的挫折和损失”。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14CHINACULTREV-web1-articleLarge2.jpg?resize=600%2C400" alt="记载了陈父死于红卫兵手中的两份文件。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14CHINACULTREV-web1-articleLarge2.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14CHINACULTREV-web1-articleLarge2.jpg?w=647 647w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>记载了陈父死于红卫兵手中的两份文件。</p></div>
-<p>但是，中国一直没能正视那个时代。共产党近来也更加强烈地反对彻底评估毛泽东，不愿触及有关毛泽东和共产党的无节制权力这一敏感问题，也不愿重温那个时代的有争议的记忆，当年的肇事者往往自己成了受害人。</p>
-<p>记忆的压制阻止了对那段历史的公开讨论，更不用说判断法律上的罪责由谁承担了。许多经受了文革折磨的人认为，公开的讨论会帮助这个国家向前迈进。</p>
-<p>中国的历史学家往往不能发表有关文革的研究。教科书把那段历史一带而过。很多年轻人也不知道自己的学校曾经是被称为红卫兵的学生武装分子的战场。今年，政府还未举行过任何有关文革周年的纪念活动，并阻止公开的哀悼。</p>
-<p>“共产党是执政党，而对它来说这个是一个污点，”当年在打死陈书祥父亲的学校里读书的陈兵说。“宣传太多的话，那就等于给自己抹黑。”</p>
-<p>许多幸存者、以前的红卫兵，以及历史学家表示，官方的沉默使人们对毛泽东时代产生了一种危险的怀旧感。</p>
-<p>他们不认为有文革全面重演的风险。国家主席习近平没有毛泽东那种喜欢动乱的胃口，中国社会现在也远不像那时那么死板和与世隔绝。不过，许多人表示，他们担心那些严酷的政治手段、对意识形态的狂热追求以及专制主义的论调会卷土重来，而正是它们当初助长了红卫兵的胡作非为。红卫兵是听毛泽东指挥的、由青少年组成的突击队。</p>
-<p>他们的担忧在习近平的领导下有所增长。文革期间，习近平的家庭也遭受了巨大的痛苦。他的父亲遭到了毛泽东的清洗，并受到了红卫兵的迫害。他的姐姐被认为是因为遭受红卫兵的迫害而自杀的，习近平本人在北京陷入冲突的年月里曾在城里四处游荡。</p>
-<p>但是，历史学家对他的一个转折仍非常不解，习近平作为成熟的政治人士一直公开崇拜毛泽东。自从习近平2012年掌权以来，他打击异议、把大权集中到自己手里的做法，让批评者看到了毛泽东的痕迹。</p>
-<p>前红卫兵卜伟华曾在陈书祥读过书、后来当过教师的高中就读。卜伟华现在是研究那段历史的中国最受尊敬的历史学家之一，他说，“如果文革的阴魂不散、并得以生长的话，我们将滑向另一场文革，更多文革言论、文革手法和信条的残渣将会浮起。”</p>
-<p>对很多人来说，最近由共产党支持的声讨一名批评习近平的退休房地产开发商的行为，就让人联想到文革式的清洗。也有人觉得，近期在人民大会堂上演的赞美毛泽东的演出透露出一种令人不安的迹象。</p>
-<p>“没有经历文革的人只知道，文革中大批官员受到迫害，不知道受害的普通群众是受害官员的十倍、百倍，”中国历史学者杨继绳最近在北京发表演讲时表示。因对毛泽东时代进行批判性研究，他逐渐面临来自中国官方的压力。“令人遗憾的是，现在有的人却极力掩盖历史上的错误。”</p>
-<p>杨继绳认为，文革是毛泽东为铲除内部的敌人而开展的运动。按照毛泽东的说法，这些人遭到了资本主义和苏联“修正主义”妥协的诱惑。学生当中形成了红卫兵组织，执行毛泽东的意愿，毛则给予他们许可。后来，混乱状况升级，尤其是在学校里，学生们开始大肆声讨教师和职工。</p>
-<p>退休之前，陈书祥是颇具盛名的清华附中的一名老师。该校为红卫兵组织的最初发源地。即便当时学生针对教师的行动已经从口诛笔伐转向身体上的羞辱——给他们带上高帽子，拉上街游行——乃至进行殴打，陈书祥依然觉得他家是安全的。</p>
-<p>他的父亲为实打实的工人阶级出身，是一个几乎没受过什么教育的锅炉工，他的祖父以前也做这种卑微的工作。他母亲帮人洗衣服赚些外快。陈书祥是家里七个孩子中的老大，为了帮助养活弟弟妹妹，他放弃了上大学的希望。他在自己以前上学的这所中学找了一份教职。</p>
-<p>然而，陈书祥回忆，1966年8月27日傍晚，当他转过拐角，快到家门口的时候，隐约看到附近有十多个穿着绿军装带着红袖章的年轻人——那是红卫兵青睐的装束。一位邻居看到了他，朝他摆手，让他躲开。</p>
-<p>当天晚上，他悄悄回到家里，看到屋子里一片凌乱。弟弟妹妹大哭着，母亲原先准备做晚饭的饺子被砸到墙上、扔到地上，他的父母人不见了。</p>
-<p>第二天上午，母亲刘万才脚步蹒跚地回到家里，几乎讲不出话来，她的脸上血迹斑斑，衣服也被撕烂了。</p>
-<p>“我爸呢？”陈书祥在一本个人出版的回忆录中写到，自己当时发问。</p>
-<p>“被他们打死了，”母亲说。“这是真的，就死了在我的身边。”</p>
-<p>母亲刘万才告诉他，自己和丈夫是被红卫兵带走了，而他的父亲被指控为“阶级敌人”。陈书祥父亲家里曾拥有20多亩地，足以令他父亲被打上“地主”的标签，这类人是革命分子深恶痛绝的对象。</p>
-<p>据陈书祥后来讲述，这帮年少的暴徒将这对夫妇扔进一辆卡车的车斗里，把他们带到一所学校，拿军用皮带抽打他们——这是红卫兵最喜欢使用的惩罚工具——其他工具还包括拧成鞭子的跳绳和带钉子的鞋。之后，他们又把这对夫妇拉到另一所学校，继续殴打，包括用钢筋抽打。</p>
-<p>他的父亲、37岁的陈彦荣坚持认为自己不该被认定为地主，因为家里早就放弃了那份地产。但是在那个时候，“你否认得越厉害，就被打得越狠，”陈书祥说。</p>
-<p>倒在血泊之中的陈彦荣曾请求给他点水喝，但学生们不同意。没过多久，他就停止了呼吸。</p>
-<p>“在抓人的问题上，存在一定的随机性，”宾夕法尼亚大学(University of Pennsylvania)教授杨国斌说。他刚刚出版了一本新的论著《红卫兵一代和中国的政治激进主义》(The Red Guard Generation and Political Activism in China)。“最重要的实际上是，证明我们——组织——是真正的革命者。”</p>
-<p>后来的官方统计显示，共有1772人在1966年8月和9月席卷北京各地的这场骚乱中丧生。算上自杀和被驱逐出京之后遇害的人，实际数目很可能比这个更多。</p>
-<p>据陈书祥母亲讲述和其他一些官方资料后来记录，将陈书祥父母带走的红卫兵来自北京的一所顶尖学校——北大附中。</p>
-<p>他们属于最早出现的一批红卫兵，多是党政官员的子女。后来，毛泽东将矛头指向党内权贵，第一批红卫兵失宠，让位给新的“造反派”红卫兵。之后这些造反派与其他红卫兵派系有过血腥的武斗。</p>
-<p>父亲被带走的第二天，陈书祥找到清华附中的红卫兵，请他们开了一份证明，以便他去北京附中交火葬费。但在学校门口，他听人说那里昨晚有人遭到了毒打，两具尸体已经被拉走了。</p>
-<p>感到害怕的陈书祥没有进学校，也没见到父亲的遗体。他把那份证明藏在一个相框的背面，保存至今。</p>
-<p>他的母亲在2011年离世，生前未获机会指认当日殴打她的人。家里在母亲的墓地旁给父亲预留了位置。如果还能找到父亲的尸骨，就将他与母亲合葬。</p>
-<p>毛泽东于1976年去世。后来，陈书祥一家领到2500元的经济赔偿。现在看没多少钱，不过以当时的物价论，是笔不小的数目。北大附中也给他们发了一份证明，承认该校自称为“红旗战斗小组”的红卫兵组织打死了他的父亲。</p>
-<p>但陈书祥说，从来没有哪个人站出来为父亲的死承担责任。</p>
-<p>曾担任“红旗战斗小组”领头人的彭小蒙如今年近七旬，在北京一家经济政策类杂志做编辑，用的是另外一个名字。记者打电话联系到她，问起50年前的这些事时，她似乎吓了一跳。不过，她表示自己记不得有这样的事。</p>
-<p>“我真的不知道是不是红旗，”她回答。“我不想多说。”</p>
-<p>陈书祥则坚持母亲的说法，这个版本也得到了一些官方文件的证实。</p>
-<p>“现在，我告诉你，他们这帮人都是这样，都是推来推去，”他声音有些哽咽地表示，“说‘我不在校，我不在会场，我不知道。’”</p>
-<p>“他们这些人都是50年以后一点认识都没有，”他说。</p>
-<p>储百亮(Chris Buckley)是《纽约时报》驻京记者。Vanessa Piao、Adam Wu对本文有研究贡献。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%96%87%E9%9D%A950%E5%B9%B4%E5%90%8E-%E4%BB%96%E4%BB%8D%E5%9C%A8%E7%AD%89%E5%BE%85%E7%88%B6%E4%BA%B2%E6%AD%BB%E4%BA%A1%E7%9A%84%E7%9C%9F%E7%9B%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">中国历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">历史真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD/?category=18271" rel="tag">国家主席</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">敏感问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">文化大革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">文革50周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">非正常死亡</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -753,7 +721,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -763,5 +731,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

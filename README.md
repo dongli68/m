@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,49 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E9%93%81%E6%B5%81%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5/" target="cdt-mirror">美国之音｜中国作家铁流失联多日</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg" rel="attachment wp-att-438328"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg?resize=500%2C281" alt="AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>敢言老作家铁流（网络图片）</span></p></div>
+<p>文／叶兵</p>
+<p>北京— 被打成右派的中国作家铁流在成都监视居住中与外界失联多日。家人表示，公安称他们带铁流出去住几天，但是没有透露具体原因。</p>
+<p>铁流的夫人任女士星期四对致电问询的美国之音记者表示，成都公安局的人把被判缓行四年的铁流带走喝茶，但是没有说明人在何处，也讲不出带走的具体原因。</p>
+<p>她说：“什么都不因为，不知道。听他们说，没什么大事，都是些老问题。好像说，他是缓刑人员，不遵守一些规矩，没有写什么思想汇报，没有参加学习。就这些。但是我感觉不是这个问题。我问他们说，这不都是老问题吗？司法局那边有什么问题，应该通过司法处理嘛。怎么会是你们（公安）把人带走呢？ 他们也说不出来。”</p>
+<p>在83岁的铁流与外界电话联系中断5天后，他在成都的朋友黃曉敏等人星期二和星期三连续两次前往成都二環路西一段怡馨花園住宅區到铁流住处查看，获悉这位资深作家5月13日下午被公安人员从家中帶走，理由是給他做体检。</p>
+<p>任女士对美国之音披露，铁流的微信最近曾两次被封号，4月底铁流曾被带走，3天后放回，被判寻衅滋事，刑拘5天，不予执行，罚款二百元。任女士说，当局宣布对铁流监视居住半年，并收走他的身份证。她说，北京的朋友告诉铁流，他的受到的处罚可能与主管宣传工作的中共中央政治局常委刘云山到四川去了几天有关。</p>
+<p>2013年3月初，一百多位高龄中国公民联名上书，要求落实赋予公民言论、出版、集会、结社、游行、示威的自由的中华人民共和国宪法第35条，并指出中共总书记习近平提出的遵宪主张遭到党内以刘云山为首的保守顽固势力抵制反对。铁流是这封公开信的发起人之一。其后不久，铁流在美国之音电视直播节目中呼吁习近平领导中国走和平社会转型之路。</p>
+<p>2014年7月末，铁流上网发文点名批评刘云山依仗有后台支持， 跟习近平对着干， 并阻挠习近平领导的反腐倡廉。</p>
+<p>同年9月14日，北京警方以“涉嫌寻衅滋事罪”刑事拘留铁流，后来在正式逮捕时又被加控“涉嫌非法经营罪”。</p>
+<p>据中国官方媒体报道，习近平上个月曾公开表示，欢迎知识分子的善意批评，并要求包容有偏差甚至不正确的批评意见，不抓辫子、不扣帽子、不打棍子。而成都公安对作家铁流刑拘处罚、微信封号、监视居住和莫名失踪等一系列举动都是习近平上述开明言论发表后发生的。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E9%93%81%E6%B5%81%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%9D%E8%8C%B6/?category=18271" rel="tag">喝茶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%81%E6%B5%81/?category=18271" rel="tag">铁流</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B8%80%E4%BA%BA%E5%88%86%E9%A5%B022%E8%A7%92-%E4%B8%BA%E5%AE%98%E6%96%B9%E5%94%B1%E8%B5%9E%E6%AD%8C/" target="cdt-mirror">【立此存照】一人分饰22角 为官方唱赞歌</a>
+</h2>
+<p><p>中国大陆网站在遇到重大、敏感、或涉及最高领导人的新闻时常启用水军／发帖机来控制评论内容，这已经是众人皆知的秘密。比如，近期雷洋事件中，昌平公安一度大量<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%98%8C%E5%B9%B3%E5%85%AC%E5%AE%89%E6%8D%A7%E7%BA%A2%E4%BA%86%E6%B1%9F%E8%8B%8F%E5%BE%90%E5%B7%9E%E7%9A%84%E7%90%86%E6%83%B3%E5%8A%9E/" target="_blank">启用网络水军为自己辩护</a>；今年4月，《中国日报》被本站曝光在新闻报道中引用微博<a href="http://chinadigitaltimes.net/chinese/2016/04/%E6%B2%A1%E6%9C%89%E7%9C%9F%E4%BA%BA%EF%BC%8C%E5%83%B5%E5%B0%B8%E8%B4%A6%E5%8F%B7%E4%B9%9F%E8%83%BD%E7%82%B9%E8%B5%9E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%AE%B2/" target="_blank">“僵尸号”为习近平“点赞”</a>。</p>
+<p>近日，新浪新闻转发了一则关于习近平在哲学社会科学工作座谈会发表重要讲话的<a href="http://news.sina.com.cn/2016-05-17/doc-ifxsenvm0533979.shtml" target="_blank">新华社通稿</a>，<strong>该文<a href="http://comment5.news.sina.com.cn/comment/skin/default.html?channel=sh&newsid=comos-fxsenvm0533979" target="_blank">评论页</a>内出现了一人分饰22角为官方唱赞歌的奇景。</strong></p>
+<p>以下22条评论均来自永久ID为 5467551131 的新浪微博用户（<a href="http://weibo.com/u/5467551131" target="_blank">链接</a>）。该用户很显然是<strong>通过修改微博昵称的方式，反复使用同一账户发表不同署名的评论内容</strong>：</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%B4%E5%86%9B.jpg" rel="attachment wp-att-438313"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%B4%E5%86%9B.jpg?resize=450%2C2239" alt="水军" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/水军.jpg?resize=768%2C3821 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/水军.jpg?w=992 992w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>22条评论均截取自新浪新闻《习近平：脱离人民 哲学社会科学就不会有生命力》一文；中国数字时代制图</span></p></div>
+<p>截至发稿时，“进出口公司DSHG”是该用户就上述新闻发表的最后一条评论的署名，其微博昵称目前与此吻合。靠修改昵称一人分饰22角这样“充分利用”的操作方法，似乎只适用于可以微博账号直接发表评论的新闻平台。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%98%AD%E9%80%9A.jpg" rel="attachment wp-att-438310"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%98%AD%E9%80%9A.jpg?resize=525%2C331" alt="昭通" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/昭通.jpg?resize=300%2C189 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/昭通.jpg?resize=768%2C484 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/昭通.jpg?resize=1024%2C646 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/昭通.jpg?w=2778 2778w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>永久ID为 5467551131 的微博账号截图</span></p></div>
+<p><strong>（注：并非所有来自相同地区<如“云南邵通”>的评论都来自同一账号）</strong></p>
+<p><strong>附</strong>：新闻评论中常见的水军账号一般如下图所示，即使用同一账号在不同的官方通稿下发表与官方立场一致或赞扬最高领导人的评论。类似昌平公安案例中使用不同的微博“僵尸号”为通稿发表评论的操作方式也相当普遍。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/gxnd%E7%9A%84%E8%AF%84%E8%AE%BA1536%E6%9D%A1.png" rel="attachment wp-att-438318"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/gxnd%E7%9A%84%E8%AF%84%E8%AE%BA1536%E6%9D%A1.png?resize=425%2C1795" alt="gxnd的评论1536条" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/gxnd的评论1536条.png?resize=71%2C300 71w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/gxnd的评论1536条.png?w=645 645w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B8%80%E4%BA%BA%E5%88%86%E9%A5%B022%E8%A7%92-%E4%B8%BA%E5%AE%98%E6%96%B9%E5%94%B1%E8%B5%9E%E6%AD%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%83%B5%E5%B0%B8%E7%B2%89/?category=18271" rel="tag">僵尸粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B/?category=18271" rel="tag">网络水军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%B8%AF%E5%AA%92%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%95%E5%9B%BE%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB/" target="cdt-mirror">德国之声 | 港媒：习近平试图打造自己的理论体系</a>
 </h2>
 <p><p><strong>据中国官方媒体报道，习近平5月17日在京主持召开哲学社会科学工作座谈会，并发表讲话，提出“加快构建中国特色哲学社会科学”。香港媒体认为，与几位前任相比，习近平对共产主义思想理论显示出更大的热情。</strong></p>
@@ -637,79 +677,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E5%A9%9A%E4%B9%8B%E5%A4%9C%E6%9D%A5%E7%82%B9%E6%B1%A1%E7%9A%84/" target="cdt-mirror">【网络民议】新婚之夜来点污的</a>
-</h2>
-<p><p>5月16日消息，南昌供电段南昌西供电车间助理工程师李云鹏、检修车间助工陈宣池新婚之夜，铺开纸张，工整地抄下党章，称给新婚之夜留下美好记忆。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?resize=601%2C404" alt="16129128_980x1200_0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?resize=300%2C202 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?w=601 601w" sizes="(max-width: 601px) 100vw, 601px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129130_980x1200_0.png?resize=604%2C403" alt="16129130_980x1200_0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129130_980x1200_0.png?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129130_980x1200_0.png?w=604 604w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129131_980x1200_0.png?resize=603%2C398" alt="16129131_980x1200_0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129131_980x1200_0.png?resize=300%2C198 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129131_980x1200_0.png?w=603 603w" sizes="(max-width: 603px) 100vw, 603px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129132_980x1200_0.png?resize=601%2C396" alt="16129132_980x1200_0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129132_980x1200_0.png?resize=300%2C198 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129132_980x1200_0.png?w=601 601w" sizes="(max-width: 601px) 100vw, 601px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129133_980x1200_0.png?resize=595%2C399" alt="16129133_980x1200_0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129133_980x1200_0.png?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129133_980x1200_0.png?w=595 595w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1"></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>@hnjhj：- 宝贝，新婚之夜你难道不想干点污的？ – 好啊，我们来抄党章吧。</p>
-<p>@绿凤孤鸣：→_→ 心中有了党，新婚忘了裆……</p>
-<p>@寒夜黙姫：所谓党指挥枪吗？</p>
-<p>@夏日午后的围脖：劳力士日志型间玫瑰金表，售价十万左右。原来铁路局记录员工资可以那么高！</p>
-<p>@melinda妖：我只想知道你在家抄党章，你单位怎么知道的？</p>
-<p>@小闲2010：有网友问：新婚之夜，还有第三者？谁拍的照？有网友答：估计是南昌铁路局的书记，共产共妻嘛。</p>
-<p>@酒心5798236680：有些党员就是这么拧巴，该性交时不性交抄党章，该按党章办事时不按党章办事搞破鞋。</p>
-<p>@margk：党章纹在杰宝上，一抽一插觉悟强！</p>
-<p>@哟哟哟哟哟卧槽：两口子结婚进洞房了 为什么会有个摄影师在洞房里 细思恐极啊</p>
-<p>@zhonghuazheng：党员小李夫妇常年坚持同房时#手抄党章 ，妻子奇迹般的有感而孕，而且像极了她单位党委的王书记。</p>
-<p>@一头鲸 ： 中国梦四大喜：久霾逢晴日，国考录取时，洞房花烛夜，前戏抄党章~~</p>
-<p>@揚州鴻祥興 ： “落红不在无情物，党章抄来更性福”。</p>
-<p>@欢乐小厨娘：药不能停。</p>
-<p>@团掌大人：我还以为是文革时期的新闻。</p>
-<p>@北极小毛毛虫：两学一做工作这么忙，咋还有空结婚啊。</p>
-<p>@正道-不忘初心方得始终：党性和人性的高度统一。</p>
-<p>@犬马o0O：新婚之夜洞房内扛着单反的摄影师其实是雷锋私人摄影师的关门弟子。</p>
-<p>@j-j终结者：在文化大革命50周年纪念日结婚！ 牛逼!</p>
-<p>@正觉99：大脑和生理都病的不轻。</p>
-<p>@爫塵：你确定这新闻不是给党挖坑？</p>
-<p>@沐云归尘：初夜献给党。</p>
-<p>@Royees_爱体育：党性党性，先党后性，有错吗？</p>
-<p>@章海东东：随身带着摄影师的人运气不会太差。</p>
-<p>@新西兰二哥：配个好点的图行吗？</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6b4d2533gw1f3y62jm4bij20bn0ewwgk.jpg?resize=419%2C536" alt="6b4d2533gw1f3y62jm4bij20bn0ewwgk" data-recalc-dims="1"></p>
-<p>@屌三爷：老公手抚老婆俩腿之间问：这是什么？老婆答：这是党！ 老公说：我想入党，行不？老婆道：你要求入党的心情我理解，但正式入党还需要符合以下条件：1.必需你得过硬，党的大门才为你敞开；2.你的枪要完全服从党指挥！3.入了我的党就不能入别的党；4.对党要绝对忠诚，并誓死捍卫党……..</p>
-<p>@Unicorn唐：上行下效。感觉在思想、文化和舆论上，相比起长者和面瘫，刁太大是铁了心了要把我朝搞成曹县。</p>
-<p>@坏人方小盒：躲在柜子里的老王拍下了这感人的一幕。</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E5%A9%9A%E4%B9%8B%E5%A4%9C%E6%9D%A5%E7%82%B9%E6%B1%A1%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%99%9A%E5%AE%89-%E4%BD%A0%E7%9C%8B%E4%B8%8D%E8%A7%81%E6%88%91%EF%BC%8C%E4%BD%86%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E5%9C%A8/" target="cdt-mirror">【立此存照】晚安——你看不见我，但你知道我在</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E7%BD%91.jpg" rel="attachment wp-att-438076"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E7%BD%91.jpg?resize=500%2C620" alt="中国警察网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?resize=242%2C300 242w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?resize=768%2C953 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?resize=826%2C1024 826w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/中国警察网.jpg?w=1572 1572w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p>@中国警察网：晚安——“你看不见我，但你知道我在”</p></blockquote>
-<p><strong>背景信息：</strong></p>
-<p>5月17至18日，2016年公安政务新媒体暨微警务论坛在北京举办，各地公安局派出代表参加，并在新浪微博统一使用 #警察蜀黍在北京# 发表相关内容。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/725f1802gw1f3y3cfptqaj20zk0qogwd.jpg" rel="attachment wp-att-438077"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/725f1802gw1f3y3cfptqaj20zk0qogwd.jpg?resize=500%2C375" alt="725f1802gw1f3y3cfptqaj20zk0qogwd" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/725f1802gw1f3y3cfptqaj20zk0qogwd.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/725f1802gw1f3y3cfptqaj20zk0qogwd.jpg?w=690 690w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博@六安公安在线</span></p></div>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/7fl3b0yh" target="_blank">@Vincent耳朵</a>：大家都知道你在洗脚房外<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/n/sam%E7%9A%84%E6%A9%98%E5%AD%90%E5%A6%88%E5%A6%88?from=feed&loc=at" target="_blank">@sam的橘子妈妈</a>:一不留神就从足浴店旁边窜出来了<img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"><img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"><img title="[鄙视]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/71/bs2_org.gif" alt="[鄙视]" data-recalc-dims="1"></p>
-<p>@大叔爱看挂路灯：你们当然在了，在各个洗头房门口，在各个拆迁现场，在各个刑讯逼供的小黑屋里</p>
-<p>@二井零六：这句话着实牛逼</p>
-<p>@自甘五-神棍:當然，big brother asked.</p>
-<p>@黄粱梦霾里神州：警察国家，牛逼</p>
-<p>玄川zs：公开宣言自己是警察政权了</p>
-<p>@超级无敌月美美：我向平安北京举办了半个多月的北京一处非法聚众赌博窝点，到现在也没见有行动，那帮人还在开，真是呵呵了</p>
-<p>@老锅威武：确实，需要你们的时候真的看不见但是我知道你们在</p>
-<p>@_唐僧_v：继续抓票，然后分钱</p>
-<p>@单名一个禹：有些人在，有些人良心不在……</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%80%81%E5%A4%A7%E5%93%A5.jpg" rel="attachment wp-att-438080"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%80%81%E5%A4%A7%E5%93%A5.jpg?resize=450%2C450" alt="老大哥" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/老大哥.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/老大哥.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/老大哥.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/老大哥.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/老大哥.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>图片来源：Twitter @StarKnight</span></p></div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%99%9A%E5%AE%89-%E4%BD%A0%E7%9C%8B%E4%B8%8D%E8%A7%81%E6%88%91%EF%BC%8C%E4%BD%86%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E5%9C%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%BF%E8%A1%A3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">便衣警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">警察国家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -721,7 +688,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%BF%E8%A1%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -731,5 +698,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%BF%E8%A1%A3
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

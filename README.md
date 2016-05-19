@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA-%E5%B0%81%E8%BD%AC%E5%8F%91-%E4%B8%8D%E6%8A%A4%E7%9F%AD/" target="cdt-mirror">【网络民议】平安北京：删评论 封转发 不护短</a>
@@ -168,6 +168,25 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 11小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF%EF%BD%9C%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A7/" target="cdt-mirror">我的名字叫警长｜鸡公村有多少中产</a>
+</h2>
+<p><p><strong>来自微信公号：镜外（ID: jingwai01）</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF-1.jpg" rel="attachment wp-att-438334"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF-1.jpg?resize=500%2C437" alt="我的名字叫警长" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长-1.jpg?resize=300%2C262 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长-1.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A7.jpg" rel="attachment wp-att-438333"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A7.jpg?resize=500%2C393" alt="鸡公村有多少中产" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产.jpg?resize=300%2C236 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote>
+<p><strong>新闻提要</strong></p>
+<p>5月16日召开的中央财经领导小组第十三次会议提出,在发展中不断扩大中等收入群体。会议提出了6个“必须”,为扩大中等收入群体指明了方向。</p>
+<p>会议指出,扩大中等收入群体,关系全面建成小康社会目标的实现,是转方式调结构的必然要求,是维护社会和谐稳定、国家长治久安的必然要求。</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A71.jpg" rel="attachment wp-att-438338"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A71.jpg?resize=500%2C1152" alt="鸡公村有多少中产1" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A72.jpg" rel="attachment wp-att-438337"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A72.jpg?resize=500%2C1698" alt="鸡公村有多少中产2" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A73.jpg" rel="attachment wp-att-438336"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A73.jpg?resize=500%2C1529" alt="鸡公村有多少中产3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产3.jpg?resize=335%2C1024 335w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产3.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A74.jpg" rel="attachment wp-att-438335"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A74.jpg?resize=500%2C781" alt="鸡公村有多少中产4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产4.jpg?resize=192%2C300 192w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产4.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF.jpg" rel="attachment wp-att-438129"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF.jpg?resize=500%2C386" alt="我的名字叫警长" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长.jpg?resize=300%2C232 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF%EF%BD%9C%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A9%E5%8F%91%E8%B4%A2%E6%97%A9%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">早发财早移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%A4%96%E9%80%83/?category=18271" rel="tag">资本外逃</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E9%93%81%E6%B5%81%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5/" target="cdt-mirror">美国之音｜中国作家铁流失联多日</a>
 </h2>
@@ -483,7 +502,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%AA%E9%BE%99/?category=18271" rel="tag">汪龙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8A%B6%E5%91%8A%E8%81%94%E9%80%9A/?category=18271" rel="tag">状告联通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%9F%A9%E5%AF%92%E9%A9%AC%E4%BC%AF%E5%BA%B8%E8%A2%AB%E9%BB%91%E6%9C%80%E7%8B%A0%E7%9A%84%E4%B8%80%E6%AC%A1/" target="cdt-mirror">【网络民议】韩寒马伯庸被黑最狠的一次</a>
 </h2>
@@ -718,33 +737,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E6%97%A0%E6%B3%95%E8%BA%B2%E9%81%BF%E7%9A%84%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA/" target="cdt-mirror">温克坚：无法躲避的债务危机</a>
-</h2>
-<p><p>在众多表征经济趋势的市场信号中，有些信号因为受到太多污染——比如失业率，因而很难成为可靠判断的基础，但近期债券市场的频频违约，无疑是经济危机深化的重要表征。</p>
-<p>债券违约背后是日益逼近的债务危机，而这一轮的债务危机的形成有独特的历史渊源。为了应对美国次贷危机带来的经济失速，2008年底以来，官方通过海量货币投放和积极财政政策，来推动经济发展，其带来的一个自然后果是债务／GDP比例问题日渐突出；2013年以来，由于房地产市场投资下降，经济发展乏力，官方再次低调推行财政扩张政策，债务／GDP比例一直在不断攀高，英国《金融时报》根据官方数据进行的计算显示，中国总债务在2016年3月底触及163万亿元人民币（合25万亿美元）的创纪录高位，相当于GDP的237%。</p>
-<p>无论是历史和国别经验都表明，这种超高比例的债务负担，往往是不可持续的。从微观层面看，政府主导的经济刺激计划，因为缺乏产权约束和激励机制，投资效率低下，那些投资项目基本上都不会有合理的回报，很多项目甚至根本不产生有意义的现金流，甚至连利息都无法支付，因此大面积的债务违约因在所难免，本轮债务危机的到来，完全是意料之中的事情，最近4—5年之间的众多评论文章，对此都有充分的警示。</p>
-<p>2014年超日太阳能公司宣布不能按期兑付一笔企业债券，拉开了债券市场违约的序幕。2015年，债券市场发生10多起实质性违约，违约逐渐进入常态化。而到了2016年，债券违约已经成为某种蔚为可观的现象，截至到3月底，已有至少七家公司债券违约，违约机构中不但有民营企业，地方政府投资平台，也有包括中国铁物这样的国有企业。</p>
-<p>更严峻的情势正在到来。因为经济不断下行，诸多行业都面临着暗淡前景，据彭博统计的数据，金属和矿产行业上市公司在2015年的盈利只够支付利息费用的一半，到今年年底，它们将面临本金3890亿元人民币的债券到期。发电行业则将有3320亿元债券到期，而煤炭企业的到期债券金额也升至2920亿元。根据国资委发布的消息称，在中国铁物债务风险爆发后，国资委近期对央企各类债券全面摸底，截至3月底，共有82家中央企业发行债券余额4.05万亿。</p>
-<p>而从特定区域来看，情势同样严峻。2015年，辽宁省地方政府债券频频流标，债券发行困难，反映了市场对东北经济的担忧，而公开信息显示，山西七大煤企到2016年1季度末负债总额已超过1.19万亿元，与山西省2015年全省生产总值1.28万亿几乎相当，这些数据表明，区域性债券危机几乎一触即发。当然，在单一制政体下，这些风险最终都将被挪移到整个金融体系中，成为系统性风险的一部分。</p>
-<p>2016年5月10日，国际评级机构穆迪发布报告，称中国整体债务已增至大约GDP的280%，根据简单推算，可以看出利息支出与名义GDP增值大致相等；这意味着资产回报已经不足以支撑资产的利息负担，明斯基时刻正在到来。（请参阅笔者之前文章）</p>
-<p>而财经资讯供应商万得资讯的的统计数据也表明，55.7%债券发行筹集的资金专门用于偿还各种各样的现有债务。但这是一个十分脆弱的链接，随着风险意识和悲观情绪的蔓延，市场对新发债券疑惑重重，新发行的债券利率走高，债券发行难度加大，取消或推迟发行的债券急剧增多。根据媒体报道，今年4月债券收益率创下超1年来最快增速，而债券发行量大跌43%。此外，大量的债券发售计划取消。据不完全统计，4月份共有超过150家发行人，累计1543.3亿元人民币的短融、中票及企业债等取消发行。</p>
-<p>债务市场的违约事件，会影响到投资基金的表现，尤其是债券型基金，在风险意识驱动下，很可能会引发投资者的赎回风险，进而带来更大的流动性压力，特定类别的资产为了回应集中的变现压力，很可能形成某种踩踏场景。简单归纳得出的结论是，债务违约导致债券市场发行门槛提高，债券市场门槛提升引发更大规模违约，为了获得流动性导致抛售资产，资产抛售导致资产价格崩溃，引发进一步债务危机，这个循环过程正在生成中，给予12个月到18个月的时间，其带来的震荡将会更加清晰可见。</p>
-<p>当然，债务危机从来不是一个单纯的金融现象，它必定带来深刻的溢出效应。</p>
-<p>可以预见的是，随着更多债券违约的涌现，兑付机制变得越来越混杂，那些遭遇厄运的投资者，将不得不承受巨额的投资损失。表面看来，这是一个符合市场逻辑的后果，债券违约将有助于提升投资者风险意识，让市场对风险实施差别化定价，最终导致债券市场的规范化。</p>
-<p>这也是经济内在调整，市场出清过程的一部分，在一个法治严明、尊重契约的经济体中，违约可以通过事先约好的合同或者通过法律诉讼来解决，但由于发债企业本身，要么是国有企业或者央企，要么是大型民营企业，博弈能力比较强，并不容易能够通过一个公正的司法过程来进行资产处置和债务偿还。</p>
-<p>蒙受损失的投资人也会通过各种方式联合起来发声维权，进行社会动员，这种利益导向性的维权诉求，将会越来越频繁，并在特定的时候构成意想不到的社会和政治压力。云南泛亚、E租宝等轰动全国的投资平台爆仓事件正是这种逻辑的现实写生。</p>
-<p>如前所述，债务危机带动的第二个后果是融资环境的变化，众多处于困境中的企业，为了获取流动性而大量抛售资产，土地和房地产作为融资过程中主要的抵押物，将会是被处置的首选，而这个正好耦合着房地产下行趋势，两种效应的叠加，不但对房地产价格形成冲击，同时也会导致降低抵押物的价值，形成一种相互强化的循环。</p>
-<p>巨额债务对货币政策也形成了某种裹挟。大部分债务承担者都是有强大实力的央企和地方政府投资平台，为了降低他们的融资成本，延续他们的债务安全边界，央行往往被迫通过货币宽松政策，甚至一定程度上的有意识地刺激通货膨胀，来降低债务压力，而与此同时，在人民币汇率端，带来了贬值的压力，在回应不同的政策目标，和不同的利益群体博弈过程中，央行捉襟见肘，缺乏腾挪空间。</p>
-<p>从宏观视角来看，有能力在债务端加杠杆的往往是国有企业或大型民营企业，而中小企业和普通居民则在债务加杠杆方面力不从心，这也是目前不同市场主体的现状。债务扩张往往伴随着通货膨胀，通货膨胀对债务端是一种补贴，而对资产端则是一种掠夺。那些通过债务扩张获得的资产收益往往流向了少数靠近权力的群体，而债务违约作为一种公共负担，最终却通过税收等机制转移到了公众身上。</p>
-<p>因此，面对这一场越演越烈的债务危机，不同资产结构的个体，会有不同的痛感，但没有人是局外人。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E6%97%A0%E6%B3%95%E8%BA%B2%E9%81%BF%E7%9A%84%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%88%B8/?category=18271" rel="tag">债券</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">债务危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%BA%E6%BF%80/?category=18271" rel="tag">刺激</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E5%BC%88/?category=18271" rel="tag">博弈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84%E4%BA%BA/?category=18271" rel="tag">投资人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%85%8B%E5%9D%9A/?category=18271" rel="tag">温克坚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BF%80%E5%8A%B1%E6%9C%BA%E5%88%B6/?category=18271" rel="tag">激励机制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC/?category=18271" rel="tag">生产总值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A4%B1%E9%80%9F/?category=18271" rel="tag">经济失速</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E5%80%BA/?category=18271" rel="tag">负债</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81/?category=18271" rel="tag">货币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80/?category=18271" rel="tag">通货膨胀</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -756,7 +748,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -766,5 +758,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

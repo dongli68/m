@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,154 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA-%E5%B0%81%E8%BD%AC%E5%8F%91-%E4%B8%8D%E6%8A%A4%E7%9F%AD/" target="cdt-mirror">【网络民议】平安北京：删评论 封转发 不护短</a>
+</h2>
+<p><p><a href="http://weibo.com/1288915263/DweaWbnKF" target="_blank">@平安北京</a>于中国时间2016年5月19日发布雷洋案情况通报，此时距雷洋死亡已过了将近两周：</p>
+<blockquote><p>北京市公安局对雷洋案高度重视，事发后立即责成昌平分局及时通报检察机关，并积极配合开展调查工作，相关人员接受调查。公安机关坚决尊重事实、尊重法律，坚决依纪依法处理，绝不护短。</p></blockquote>
+<p>同时有许多网民在微博抱怨@平安北京 删除了自己的评论。截至发稿时，新浪微博在使用“延时”手法来过滤审查评论，该微博转发内容也遭隐藏。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AF%84%E8%AE%BA%E9%99%90%E5%88%B6.jpg" rel="attachment wp-att-438358"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AF%84%E8%AE%BA%E9%99%90%E5%88%B6.jpg?resize=525%2C406" alt="评论限制" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/评论限制.jpg?resize=300%2C232 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/评论限制.jpg?resize=768%2C595 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/评论限制.jpg?resize=1024%2C793 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/评论限制.jpg?w=2258 2258w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>对@平安北京 相关微博的评论需要通过新浪严格审查后，有选择性地发表；中国数字时代截图</span></p></div>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@Mr大大大大龙：这还叫及时？立即？</p>
+<p>@小小艺com：我本来想表扬你们的，奈何你们不让我评论，公民的言论自由呢@平安北京</p>
+<p>@慕鱼般若：迟来也就算了，还要删除评论！我问评论到底谁删除的，那条评论也被删除了，@平安北京 垃圾！</p>
+<p><a href="http://weibo.com/wangshuchonghua?refer_flag=1001030103_" target="_blank">@汤汤若望 </a>：法治国家的概念下，这话太失水准！似乎法律还可以允许你有选择做家长的权力似的。这是装逼的水平没有，还是出于蔑视法律机制的高傲？让人带评转发都不敢！公仆也算是逆天了<img title="[衰]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/cry.gif" alt="[衰]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[拍照]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d5/lxhpz_org.gif" alt="[拍照]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/u/1334152342?refer_flag=1001030103_" target="_blank">@恍惚De岁月</a>：请<a href="http://weibo.com/n/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC?refer_flag=1001030001_" target="_blank">@平安北京</a> 不要干扰评论隐藏转发<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"></p>
+<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4f858c96gw1f40m2wkdkhj20ka0l3dhm.jpg" rel="attachment wp-att-438352"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4f858c96gw1f40m2wkdkhj20ka0l3dhm.jpg?resize=440%2C457" alt="4f858c96gw1f40m2wkdkhj20ka0l3dhm" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4f858c96gw1f40m2wkdkhj20ka0l3dhm.jpg?resize=289%2C300 289w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4f858c96gw1f40m2wkdkhj20ka0l3dhm.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p></blockquote>
+<p>@吗啡肾上腺素：@平安北京 评论：没点实际性内容。就删帖拉黑！这就是平安北京的气度？！</p>
+<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laprk0kj20ku112n2n.jpg" rel="attachment wp-att-438350"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laprk0kj20ku112n2n.jpg?resize=375%2C667" alt="8f6d054ejw1f40laprk0kj20ku112n2n" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laszhnpj20ku0e175v.jpg" rel="attachment wp-att-438349"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laszhnpj20ku0e175v.jpg?resize=375%2C252" alt="8f6d054ejw1f40laszhnpj20ku0e175v" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laszhnpj20ku0e175v.jpg?resize=300%2C202 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laszhnpj20ku0e175v.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40larm6qfj20ku112dix.jpg" rel="attachment wp-att-438348"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40larm6qfj20ku112dix.jpg?resize=375%2C667" alt="8f6d054ejw1f40larm6qfj20ku112dix" data-recalc-dims="1"></a></p></blockquote>
+<p><a href="http://weibo.com/u/2073887417?refer_flag=1001030103_" target="_blank">@sunny哇 </a>：#平安北京##雷洋案# 果不其然 评论转发数出现不正常变动 发两个评论均被删除 说了不护短 删评论转发为何呢 这是心虚呢心虚呢还是心虚呢<img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<blockquote><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l436e4cj20hs0vkaj9.jpg" rel="attachment wp-att-438343"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l436e4cj20hs0vkaj9.jpg?resize=375%2C666" alt="7b9d02b9gw1f40l436e4cj20hs0vkaj9" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l436e4cj20hs0vkaj9.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l436e4cj20hs0vkaj9.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l42dij7j20hs0vkk0l.jpg" rel="attachment wp-att-438344"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l42dij7j20hs0vkk0l.jpg?resize=375%2C666" alt="7b9d02b9gw1f40l42dij7j20hs0vkk0l" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l42dij7j20hs0vkk0l.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l42dij7j20hs0vkk0l.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l416bf7j20hs0vkwnm.jpg" rel="attachment wp-att-438345"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l416bf7j20hs0vkwnm.jpg?resize=375%2C666" alt="7b9d02b9gw1f40l416bf7j20hs0vkwnm" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l416bf7j20hs0vkwnm.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l416bf7j20hs0vkwnm.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41ti10j20hs0vkgut.jpg" rel="attachment wp-att-438346"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41ti10j20hs0vkgut.jpg?resize=375%2C666" alt="7b9d02b9gw1f40l41ti10j20hs0vkgut" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41ti10j20hs0vkgut.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41ti10j20hs0vkgut.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41cg4jj20hs0vkk0m.jpg" rel="attachment wp-att-438347"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41cg4jj20hs0vkk0m.jpg?resize=375%2C666" alt="7b9d02b9gw1f40l41cg4jj20hs0vkk0m" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41cg4jj20hs0vkk0m.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41cg4jj20hs0vkk0m.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p></blockquote>
+<p>@TopcrestWatchin：如何在制度层面上做到“不能护短”，将牢牢掌握在你手中的“护短权”收回来，才是彻底解决问题的核心所在。如今，“护”与不“护”全在你一念间，由你意气用事，这种事不靠谱。不解决这个核心问题，你的坚决表态毫无意义。因为，雷洋之后必还有雷洋。@平安北京</p>
+<p>@还是刘文浩: 最后一句“决不护短” 说的没水平了。文字前面的表述都是“依法进入程序”。法制社会就不应该有“护短”的说法，更何况是首善之都的公安</p>
+<p>@茅山修士17 ： 护短惯了，特别要指出这次不护短</p>
+<p>@张_三_疯_ ： 没有认可的第三方 自己上级说不护短 不能服众啊</p>
+<p>@兔斯基_7：【北京警方:雷洋案坚决尊重事实尊重法律决不护短】 这种说法本身就很可笑，意思是闹大了，才会不护短，没闹大就护短，草菅人命咯？</p>
+<p>@张文学 ： 不护短要：开放评论；不要删除律师的发言和调查结果。</p>
+<p>@四月是你的消失 ： 就是说之前都在护短咯？~~</p>
+<p>@光头金007：在@平安北京 下面发了个评论，这帮傻比就把我拉黑了，你党就这出息！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA-%E5%B0%81%E8%BD%AC%E5%8F%91-%E4%B8%8D%E6%8A%A4%E7%9F%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">平安北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-%E4%B8%80%E5%9C%BA%E5%90%8C%E5%BF%97%E5%A9%9A%E7%A4%BC%E7%9A%84%E8%83%BD%E8%A7%81%E5%BA%A6/" target="cdt-mirror">中国青年报 | 一场“同志婚礼”的能见度</a>
+</h2>
+<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za1rejcxj20fa0bh0vw.jpg?resize=550%2C413" alt="5月17日，长沙同性恋人孙文麟、胡明亮举行婚礼。孙文麟的母亲和胡明亮的父亲出席。中国青年报·中青在线记者 陈轶男/摄" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za1rejcxj20fa0bh0vw.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za1rejcxj20fa0bh0vw.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>5月17日，长沙同性恋人孙文麟、胡明亮举行婚礼。孙文麟的母亲和胡明亮的父亲出席。中国青年报·中青在线记者 陈轶男/摄</p></div>
+<p>“结婚证”终于来了。</p>
+<p>婚礼开场前半个小时，这两本从武汉发货的证件才有惊无险抵达长沙的会场。不同于平常的结婚证，上面没有钢印，“有效期：一生一世。”</p>
+<p>来帮忙的志愿者匆匆贴上孙文麟及其同性爱人胡明亮的红底免冠合影，又用黑色签字笔填上两人的名字。照片太大，几乎超过了证书的宽度。</p>
+<p>“孙文麟和胡明亮正式确定为夫妻关系”，两本假证一本正经地宣布。虽然，连盖在上面的红色印章指代的“中国幸福委员会”都不存在。</p>
+<p>“本证书仅供娱乐，勿作他用。”最下方印着一行小字。</p>
+<p>尽管如此，当孙文麟的母亲将这个不具备法律效力的棕色小本子交给他时，这个一向冷静寡言的27岁男人红了眼眶，婚礼的来宾爆发出热烈的掌声。</p>
+<p>他们选定的“婚期”是2016年5月17日，提倡多元性别平等的“国际不再恐同日”。此时距离孙文麟试图结婚领证已经过去将近一年。在他出生的第二年，1990年5月17日，世界卫生组织将同性恋从《国际疾病分类》中除去，同性恋不再被视为精神疾病，“国际不再恐同日”由此而来。</p>
+<p>2015年6月23日，孙文麟和胡明亮带着户口本去长沙市芙蓉区民政局登记结婚，不出意料被工作人员拒绝。婚姻登记处主任对他说：“如果你带个女的来，我现在就发证给你。”</p>
+<p>如今，他和胡明亮携手站上了婚礼舞台。作为中国“同性恋婚姻登记第一案”当事人，他在一个多月前向基层法院起诉了民政局，等来了败诉的结果。他们随后向长沙中级人民法院提起上诉，并决定要举办一场让社会看得见的公开婚礼。</p>
+<p>他们还众筹发起“100场同志婚礼”项目，希望将同性恋者的婚姻诉求告诉社会。</p>
+<p>现在，第一场开始了。</p>
+<p>曾是一名单身主义者的他，觉得自己必须追求婚姻</p>
+<p>为了这场未获婚姻登记处承认的“婚姻”，很多人忙了很多天。</p>
+<p>5月15日下午，长沙库爱餐厅3楼的一扇木门背后，圆桌边的15个座位陆续坐满了人。有在校大学生、年过半百的工人，还有成家生子的“直男”。他们都是孙文麟从网上招募到的志愿者，共同参与两天后婚礼的筹备。</p>
+<p>这是一场效率颇高的临时会议。两个半小时内，会场布置、婚礼流程、背景音乐等诸多细节被一一敲定。有人提议在婚礼后增设现场相亲环节，被以“不好掌控”的理由否决。还有人问，有没有“嘭地一下”喷彩带的东西，免费提供服务的婚庆公司负责人急得直拍桌子：“我又不是哆啦A梦，我怎么能什么都有？”</p>
+<p>白净纤瘦的孙文麟坐在靠里面的位置，听着这些大多与他初次见面的人七嘴八舌地讨论，多数时间在安静地抽烟和嚼槟榔。</p>
+<p>在烟雾缭绕的桌边，逐渐成型的不仅是他的婚礼，也是“100场同志婚礼”项目启动仪式。这个项目是败诉之后，孙文麟和几个朋友想出来的。他还将征募99对同性恋伴侣，为他们公开举办婚礼。</p>
+<p>他在12岁时就发觉自己喜欢同性，3年后，中国官方才首次向世界公布有关男性同性恋人数数据。卫生部门估算，中国有500万至1000万名男性同性恋者。</p>
+<p>26岁时，他遇到了想共度一生的爱人——比他大10岁的保安胡明亮。在他寻求真爱的这些年里，世界上陆续认可同性婚姻已有20个国家。</p>
+<p>“我就是想让同志伴侣以办婚礼的方式来提高能见度。”孙文麟说，“让大家不能再说这个国家没有同性恋人群的存在，不能再说同性恋没有结婚的诉求。”</p>
+<p>在遇到胡明亮之前，孙文麟从未想过结婚。自小父母离异、跟时常吵架的爷爷奶奶一起生活的他，长期是一名单身主义者，直到“一见钟情”。</p>
+<p>他们很快就同居了。胡明亮性格温和，对孙文麟十分体贴包容。“志趣相投”的他们还曾经一同经营茶馆，组织沙龙。孙文麟觉得，有胡明亮在身边，自己更加有力量面对一切。他们的“同志爱情”有一分“革命情谊”。</p>
+<p>相爱半年后，两人有了成家的愿望。“你要跟你没有血缘关系的人成为家人，你只能通过结婚这种方式。”孙文麟打趣说，“我们又不能互相收养。”</p>
+<p>虽然结婚证只是一张纸，在面对生老病死的时刻，他们可以用那张纸来证明互为爱人而非陌生人，从而有权利在对方的病危通知书上签字。</p>
+<p>婚姻还涉及财产继承、购房补贴等一些现实利益。</p>
+<p>孙文麟和胡明亮住在租来的房子里，二三十平方米的开间里摆放着几件简单的家具，一开伙就满屋油烟。这是他们的婚房。除了在床边墙上贴了一面彩虹旗，这对“新婚夫夫”没有对婚房做任何布置。</p>
+<p>对于婚礼的细节，孙文麟也没有设想太多。他唯一的意见是“更特别一点”，要给人留下深刻的印象。</p>
+<p>说到捧花，说到异性恋婚礼的传统誓词，他都从烟圈后面幽幽地吐出两个字“不要”。</p>
+<p>安排志愿者去购买小彩虹旗时，孙文麟才摁下烟头，不紧不慢地追问了一句：“到那边顺便买两本结婚证咯。”</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za2wtejpj20fa0bhwhx.jpg?resize=550%2C413" alt="“本证书仅供娱乐”，孙文麟和胡明亮领不到结婚证，买了一本戏谑式的，贴上二人的合影。中国青年报·中青在线记者 陈轶男/摄" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za2wtejpj20fa0bhwhx.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za2wtejpj20fa0bhwhx.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>“本证书仅供娱乐”，孙文麟和胡明亮领不到结婚证，买了一本戏谑式的，贴上二人的合影。中国青年报·中青在线记者 陈轶男/摄</p></div>
+<p>他被爸爸踹翻在地</p>
+<p>这两本“结婚证”，他们本想花9元去民政局领取。</p>
+<p>然而，去年6月，他们在相识周年纪念日里手牵手到婚姻登记处时，对方以“没有法律规定同性可以结婚”为由拒绝了他们。</p>
+<p>孙文麟不服，向芙蓉区人民法院提交了诉状。4月13日，法院一审驳回请求。5月5日，他再次提交了诉状。</p>
+<p>婚礼的准备也并不顺利。离婚礼只剩4天，原先同意免费提供场地的婚礼场地工作人员突然告知，老板坚决不同意举办同性婚礼。场地临时更换为库爱餐厅。所幸，这家餐厅为他们免去近3万元的场租，并竭力配合布场。</p>
+<p>婚礼两天前，孙文麟和朋友们召集志愿者开筹备会议，到场的只有10多人，远少于网上报名的人数。</p>
+<p>最大的问题在于资金的募集。志愿者通过“腾讯公益”平台联系了十几家公募机构，没有一家机构愿意来认领“100场同志婚礼”的项目。</p>
+<p>这一点让孙文麟始料未及。</p>
+<p>志愿者们告诉他，这些公募机构普遍认为，同志组织的活动除了教育和培训类的之外都不属于公益活动，但他认为，人们实际上就是存在偏见。</p>
+<p>募捐转向“轻松筹”平台。第一期众筹资金整体预算是8万元，截至目前仅有1万多元筹款。</p>
+<p>这不仅没有动摇他的决心，反而让他更坚定。他在个人微信公众号上写道：“这正是我们现在要去推动其改变的一个领域，这也更加说明我们非常有必要去做这100场同志婚礼，让所有人都记住这100场同志婚礼。”</p>
+<p>对于同性恋处境的艰难，从“出柜”那一天起，孙文麟已经感知了13年。</p>
+<p>14岁时，他在奶奶的生日宴会上当着远方亲戚的面宣布自己喜欢男生。虽然两年前，湖南卫视《有话好说》栏目制作播出了“走近同性恋”节目，这是中国电视媒体首次关注同性恋，这个位于省会的家庭没能与它碰面。</p>
+<p>回家后，孙文麟被爸爸踹翻在地，然后被家人“轮流批斗”。</p>
+<p>“你就说你这个是很丢脸的事情，你怎么还能够跟别人讲？”“你应该为此感到羞耻。”“你这样讲出来，你让奶奶以后怎么在亲戚朋友面前做人？”</p>
+<p>直到现在，孙文麟对当时的场景还历历在目。而那时“一不阅读二不思考”的他只能任由他们攻击，“没有任何武器”。</p>
+<p>更让他心寒的是，那一天，他最依赖的爷爷奶奶没有为他说话，暗中理解他的堂姐也默不作声。家不再是“最温暖的港湾”，他不能原谅家人辜负了他的信任。那天以后，孙文麟学会了抽烟，开始跟家人冷战。</p>
+<p>认为孙文麟应该“羞耻”的家人们并不知道，早在2001年，中国精神病学会颁布第三版《中国精神障碍分类与诊断标准》（CCMD3），将“同性恋”分为自我认同型和自我不和谐型，前者被从精神疾病名单中剔除，实现了中国同性恋非病理化。</p>
+<p>没有接收到信息更新的不只是他的家人。在“出柜”之后的若干年里，孙文麟屡屡面对各种网络论坛里指责同性恋“恶心”“变态”的词语，不知该如何回应。</p>
+<p>今年案子开庭前，还有网友向他提问：“有研究表明，同性恋是一种病，你怎么看？”</p>
+<p>那一项更改在孙文麟看来“悄无声息”。</p>
+<p>“像美国、法国他们以前同性恋去病化的时候就是全国所有普通的民众都在那里讨论，所以公众对同性恋不是病这件事情印象深刻。”他皱着眉头说：“我们国家在同性恋去病化这件事情上依然没有做完整，CCMD3中依然保留了‘自我不和谐型’的同性恋。可以看到的是，‘治疗’同性恋的机构在中国依然猖獗。”</p>
+<p>朴实的父亲微笑着说：“要得。”</p>
+<p>察觉自己的性取向之后，孙文麟在网络聊天室里找到了不少成年的同性恋男子。他们往往告诉孙文麟，年轻时还可以“玩一玩”，以后总要像异性恋一样结婚生子的。</p>
+<p>十三四岁的孙文麟对他们有些“看不起”，觉得他们活得好窝囊，不仅欺骗别人，回到家里还要扮演另一个人。</p>
+<p>随着阅历的增长，他对这些人的选择多了一分理解。</p>
+<p>2005年夏天，孙文麟无意中看到了一则让他永远无法忘记的新闻——伊朗将一对分别为16岁和18岁的同性恋少年处以绞刑。</p>
+<p>在距行刑地5000多公里的中国长沙一家网吧里，16岁的孙文麟颤抖着点开了这两名同龄人被蒙上眼罩、套上绞索的照片。</p>
+<p>“太难过了。”孙文麟回忆说，那一次震惊世界的残酷行为让他意识到，面对社会存在的不合理，敢于面对真实的自我已是一种反抗。</p>
+<p>让他震惊的还有新闻下面的评论，有网友说，这种人就“活该”被绞死。</p>
+<p>高三之后，孙文麟开始大量阅读与同性恋相关的学术资料。</p>
+<p>他了解到，在20世纪70年代的美国，有一群非常激进的同性恋者。他们冲进了美国医学会的会场，去撕海报、抢麦克风，宣告同性恋不是病，要求精神医生赶快停止对同性恋的“治疗”。</p>
+<p>“当时有很多人，他们不但不来争取权利，还斥责那些冲进会场的同性恋太激进。”孙文麟加重了语气。正是那批“激进分子”的努力，促使医生认真倾听。1973年，美国精神病学会便将同性恋剔除出精神疾病分类。</p>
+<p>孙文麟更加坚定了自己的方向——不逃避！</p>
+<p>孙文麟至今能复述2005年西班牙通过同性婚姻法案时总统说的话：我们国家虽然不是第一个，但我相信我们国家也不会是最后一个，因为整个人类世界都会被两种不可阻挡的力量所驱使去推动同性婚姻合法，这两种力量就是自由和平等。</p>
+<p>2013年，法国司法部长陶比拉发表了支持通过同性婚姻法案的演讲。她透过历史和法制史的脉络，层层铺述了有关婚姻、家庭的种种重要改革，告诉人们把婚姻和收养开放给同性伴侣、让婚姻不再限于某种类别的公民而成为普世的制度，正阐明了“自由、平等、博爱”的精神。</p>
+<p>孙文麟觉得，她讲出了自己想讲的话。</p>
+<p>第二年的母亲节，他约母亲到长沙橘子洲头散步。3个多小时，他用这番论述打动了母亲。这位曾在14岁儿子向自己“出柜”时质疑他“赶时髦”的母亲，彻底站在了儿子这一边。她支持他去争取平等结婚的权利，她告诉孙文麟，不要在乎别人的眼光，要在乎的是自己。</p>
+<p>与此同时，经过与胡明亮的一段时间接触，孙文麟祖父母的态度也渐渐发生变化。就连从来不给胡明亮好脸看的孙父，也在去年中秋节家宴后第一次主动对他说话——“以后孙文麟就靠你好好照顾了。”</p>
+<p>今年春节，孙文麟跟爱人回湘潭农村老家。当着他的面，胡明亮对一辈子干体力活儿的父亲说：“这是我要待一辈子的人。”</p>
+<p>朴实的父亲微笑着说：“要得。”</p>
+<p>就在他们去民政局申请的第3天，美国最高法院以5∶4的投票结果裁定，同性婚姻合乎宪法。这一结果意味着同性婚姻在全美50个州全部合法，美国也因此成为第21个在全境承认同性婚姻的国家。</p>
+<p>不管怎么说，5月17日14时，孙文麟和胡明亮的婚礼举行了。</p>
+<p>没有婚宴。每个到来的宾客都能从入口处领到一面小小的彩虹旗。挂着彩色气球的白色座椅环抱着中央舞台。</p>
+<p>孙文麟事先关于工作日下午没人会来的担忧被证明是多虑了。不仅200张座位被坐满，会场外围还站了一圈人。网友，逃课来的大学生，中老年人也不在少数。有人专程从外地赶来。</p>
+<p>在司仪的引导下，身着西装的新人携手走上舞台。这十几秒的路程，他们走了两年。</p>
+<p>觉得自己平时关心公共事务、不善说甜言蜜语的孙文麟对爱人补上了迟到的求婚誓言：“我非常感谢你出现在我的生命中，陪着我去做一些很多人都不敢做的事情，我们一起打开了非常多一辈子都不会打开的地图。你愿意与我共同扶持、互相照顾，成为我的爱人吗？”</p>
+<p>孙文麟的妈妈和胡明亮的爸爸上台为儿子们颁发“结婚证”。</p>
+<p>胡父用“开心”二字回答司仪抛来的所有问题，孙母为新人送上祝福： “妈妈现在的心情很激动。我想祝福我的儿子孙文麟，还有另一个儿子胡明亮，幸福快乐相伴到老！”</p>
+<p>为了增添喜气，她今早决定，在之前准备的服装外面加上一件红色开衫。而就在婚礼前一天，她坐在儿子家里，一边往喜糖上贴婚礼标志，一边忍不住对记者哭了起来。</p>
+<p>“我的心情太矛盾了。”她抽泣着说，一方面支持儿子，另一方面充满担心，不知道儿子能“撑到什么时候”。像他这样出头的人太少了。</p>
+<p>“妈妈再支持你，又能帮上你什么呢？”母亲泣不成声。</p>
+<p>“你可以的，现在安静一点就帮我了。”儿子平静地回答她。</p>
+<p>站在婚礼现场，这位47岁的母亲紧紧握着儿子的手，呼吁所有像她儿子一样的同性恋者站出来为自己发声。“要为自己争取权利。”她提高了声音，“婚姻的、家庭的权利！不要还没做就说不可能。我会永远支持你们。”</p>
+<p>两位长辈与新人在婚礼上紧紧抱在一起。很多人看哭了。</p>
+<p>满场不见一个“囍”字。满场挥舞着彩虹旗。</p>
+<p>中国青年报·中青在线记者 陈轶男　　来源：中国青年报　　（ 2016年05月18日 09 版）</p>
+<p><strong>以下为数字时代编辑摘自该微博文章下的部分网友评论：</strong></p>
+<p><em>@5403954748mei：觉的特别恶心，应该管管这些同性恋。现在这是怎么了，变得都不是人了。</em></p>
+<p><em>@神洲股侠：不管是不是真爱，但我真的觉得恶心。</em></p>
+<p><em>@我想要套房子：一起很友好很亲密知己，情同兄弟，为什么要男男性关系呢， 不反对他们怎么搞性关系生活，但别在众目睽睽秀，因为还很多心智未成熟的小孩。媒体也别为了一味博取眼球而忘了自己社会责任，与自己的良心，对社会和小孩子不良影响。哗众取宠，有什么好引导？违反大自然主流规律，害父母有伤风化断烟火。</em></p>
+<p><em>@商演策划执行：现在这年头，两个男的在一起的理直气壮的，你不支持好像还是你的错了！</em></p>
+<p><em>@听雨咖啡馆的马吉克先生：话糙理不糙 你不是同性恋你就别转发别支持 万一误导了别人家孩子 他们变成了同性恋 这孽造大了 几辈子都还不清 毁人家族</em></p>
+<p><em>@适度偏离：没人觉得恶心？这社会怎么了？！</em></p>
+<p>@chnxxx：不支持，不接受，不反对</p>
+<p>@春风榴火三百里：其实不光在性少数群体争取权利这一件事，中国人能不能不要总是指点他人的生活？你不能理解，不能认同，没关系，这是你的自由，但是因为别人和你不一样、你自己不能理解他人的生活，就指责别人恶心是怪物，这就是恶毒了。</p>
+<p>@Foxcatcher24：有时候真的不知道哪些反对同性结婚的人是怎么想的。首先结婚是每一个人的基本人权（追求幸福的权利）。其次，你自己的孩子也有可能是同性恋，假如是，你想让他一辈子活在阴暗里吗。最后，在一个同性婚姻得不到认可的社会，你的女儿可能会沦为同妻。于人于己，支持同性恋婚姻，都是正确的也是必要的。</p>
+<p>@肿肿肿肿怎麽了：什么叫活的最真实，这就叫做活的真实，无论自己如何都要认同自己，自己想做的事情都努力去做。看到结婚证瞬间就泪奔了！ ！为什么一提到同性恋你想到的就是滥交，我想到的是长相厮守，是不是你内心阴暗，才看到的阴暗呢！？</p>
+<p>@奶茶糖：这第一步总要有人走出来，很勇敢。</p>
+<p>@文硕：这样的爱既没有违背伦理道德，也没有触犯法律，并且对别人没有造成干扰和伤害，为什么不能被祝福[伤心]？有些人的评论让我心寒，你可以不认同，但你没必要去破口大骂或者攻击他人，你不是同志，你能保证你的孩子和子孙后代就不是吗？每个人都有爱的权利，不论种族甚至不论性别[心]，祝福他们。</p>
+<p>@不羁浪子7：挺想去参加他们的婚礼的。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-%E4%B8%80%E5%9C%BA%E5%90%8C%E5%BF%97%E5%A9%9A%E7%A4%BC%E7%9A%84%E8%83%BD%E8%A7%81%E5%BA%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E8%BA%AB/?category=18271" rel="tag">单身</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%8A%97/?category=18271" rel="tag">反抗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97/?category=18271" rel="tag">同志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">同性婚姻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B/?category=18271" rel="tag">同性恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%8F%96%E5%90%91/?category=18271" rel="tag">性取向</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%88%A9/?category=18271" rel="tag">权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%94%BF%E5%B1%80/?category=18271" rel="tag">民政局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85/?category=18271" rel="tag">精神病</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E9%93%81%E6%B5%81%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5/" target="cdt-mirror">美国之音｜中国作家铁流失联多日</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg" rel="attachment wp-att-438328"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg?resize=500%2C281" alt="AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>敢言老作家铁流（网络图片）</span></p></div>
@@ -600,83 +745,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%94%BF%E8%A7%81%EF%BD%9C%E7%BA%A2%E5%8D%AB%E5%85%B5%E7%9A%84%E6%B4%BE%E7%B3%BB%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84%EF%BC%9F/" target="cdt-mirror">政见｜红卫兵的派系是怎么形成的？</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-5.jpg" rel="attachment wp-att-438105"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-5.jpg?resize=525%2C400" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-5.jpg?resize=300%2C229 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-5.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p><strong>微信公号：政见CNPolitics（ID: cnpolitics2011）</strong></p>
-<blockquote><p><strong>摘要</strong>：在那个模糊混乱的年代里，高校学生们稀里糊涂的偶然选择，却决定了整整一代人的命运。</p></blockquote>
-<p><strong>张跃然 / 政见观察员</strong></p>
-<p>在新中国历史上，可能再没有比红卫兵运动更奇怪的政治运动了。</p>
-<p>作为一股政治力量，红卫兵们在极短的时间内蔚然成势、遍布全国，又在两年之后彻底退出政治舞台。青年人旺盛的政治热情、做事不计后果的草率冲动，都在红卫兵身上体现得淋漓尽致。红卫兵运动深刻影响了高层政治的走向，而高层对于红卫兵的态度，最终却发生了一百八十度大转弯。</p>
-<p>在所有对这段历史的研究中，斯坦福大学社会学教授魏昂德（Andrew Walder）的成果可谓扎实而独到。在 2009 年出版的《分裂的造反派》（Fractured Rebellion）一书中，魏昂德细致分析了大量史料，展现了在模糊变动的政治大环境中，红卫兵运动是如何一步步动员、壮大、选择策略、内斗、与高层政治互动、最终走向消亡的。</p>
-<p>红卫兵派系的来源，是这本书讨论的一个重点问题。这一部分内容，也曾以单篇论文的形式发表在了 2006 年的《美国社会学杂志》上。</p>
-<p><span><strong>派系分裂=阶级分裂？错！</strong></span></p>
-<p>一个十分诡异的事实是，当北京的红卫兵运动在 1966 年 8 月正式登上政治舞台的时候，它已然分裂成了两派：人数较多的“保守派”和人数较少的 “造反派”。</p>
-<p>这两派之间的斗争在 1966 年下半年不断激化，直到造反派红卫兵取得全面胜利。之后，得胜的造反派红卫兵内部再次分裂，这场内斗一直持续到 1968 年红卫兵运动被镇压。</p>
-<p>为什么红卫兵运动从诞生之初就有派系分裂？一种流行的解释是，在 1966 年六七月份，中央为每个在京高校都派驻了一个工作组，这些工作组保护学校当权者、压制学生对当权者的不满。在八月份，工作组从各大高校撤出之后，支持工作组的学生就成了 “保守派红卫兵”，他们认同既有的权力结构。这部分红卫兵的人员构成，主要是既有权力结构下的获益者——党员、学生干部、家庭出身好的学生。</p>
-<p>而 “造反派红卫兵” 主要是反对工作组、受工作组压制的学生，他们希望彻底打破现有的权力结构。这部分人，主要来自既有政治格局的边缘，家庭出身不好。换言之，这种观点认为：红卫兵内部的派系分裂，体现的是当时中国社会两个政治阶级之间的分裂。</p>
-<p>但魏昂德指出，这一解释不符合史实。</p>
-<p>首先，保守派红卫兵和造反派红卫兵之间的路线差异，根本不体现在 “支不支持当权者” 这个问题上。诚然，保守派支持工作组、造反派反对工作组，但大多数学校的工作组，在进驻的短短两月内，就已经将学校的全部或部分领导层打倒了，哪里还有什么学生敢支持被打倒的当权者？</p>
-<p>更重要的是，一个人的政治出身，和他最终加入造反派还是保守派没有必然关系。许多史料表明，大量来自红五类家庭的学生、已经入党的学生站在了反对工作组的一边，并最终成为造反派红卫兵。</p>
-<p>另外，如果政治出身真的决定了学生们加入哪个派系，那么其背后隐含的假设是：人们可以根据自己的阶级利益和所处的社会位置，“理性” 地选择自己的政治行动。然而，在 1966 年这个政治环境剧烈变动、模糊不定的时间点上，人们真的能理性计算自己应该采取怎样的行动策略吗？魏昂德的答案是：不能。</p>
-<p><span><strong>为什么要 “造” 工作组的 “反”？</strong></span></p>
-<p>在魏昂德分析的 22 所北京高校中，只有两所学校的工作组从始至终都支持学校的主要领导。进驻其他高校的工作组，要么打倒了相当一部分学校领导，要么将学校的权力体系完全推翻。在短短两月时间内，许多工作组的政治立场发生剧烈变化，从起先支持学校领导到最终惩办学校领导。还有一些学校的工作组，因为政治立场保守而被中央撤回，替换他们的新工作组往往政治作风激进、不遗余力地将学校领导打倒。</p>
-<p>换句话说，在绝大部分高校中，根本就不存在 “要不要支持学校当权者” 的问题——当权者已然被踏上一万只脚、万劫不复了。那么，为什么一部分学生反对进驻学校的工作组呢？在工作组撤出高校之后，这些反对者为什么进一步发展成了造反派红卫兵呢？</p>
-<p>在不同学校，工作组遭到学生反对的原因各不相同。在那些当权者被打倒的高校，一些学生试图使用极端、暴力的方式 “教训” 被打倒的当权者。而这些学校的工作组，往往想控制学生使用暴力的幅度、让学生的行为不要太出格。工作组试图在 “应该用什么方式对当权者进行斗争” 的问题上说了算，而一些学生则认为轮不到工作组来干涉学生采取什么斗争方式。学生的不满由此产生。</p>
-<p>在许多高校，工作组往往先容许学生对任何校领导进行随意批判，然后再有选择性地把某些校领导作为斗争对象 “揪出来”。这样一来，一些学生起初大肆批判过的校领导，有可能不仅没被工作组打倒，反而被认定为 “政治可靠”、从而与工作组配合打倒其他校领导。而那些选错批判目标的学生，自然引火烧身，在政治斗争中遭到打击报复。</p>
-<p>在那些工作组的立场发生重大转变的学校，一些学生对工作组的突然 “变心” 感到怀疑，坚持认为工作组最初对校领导的支持已经说明了其立场的保守反动。而在那些工作组遭到撤换的学校，新的工作组没能对成功逼走了原先工作组的 “有功” 学生进行 “论功行赏”，也招致了许多学生不满。</p>
-<p>可以想见，当时的高校学生，面对的是一个复杂、模糊、让人无法理解的政治环境。在这样的环境中，他们必须做出一系列棘手的选择：是应该听从工作组指挥、在工作组划定的框架内批判校领导，还是应该反对工作组的干涉、坚持采用极端暴力手段？是应该只批判那些已经被工作组打倒的人，还是应该继续给工作组施加压力、迫使其揪出其他人？当工作组的立场突然从保守转向激进，是应该支持工作组，还是应该批判工作组 “假装激进”、实则是 “当权者的走狗”？</p>
-<p>没有人能看透波诡云谲的政治形势，也很少有人能从自己的阶级利益、出身成分出发，去思考自己该怎样做。学生们必须在稀里糊涂的情况下当机立断。这样的选择，往往带有很大的随意性、偶然性。大家在懵懂之中迅速完成了选边站队。</p>
-<p>而这一懵懂的选择，却招致了严重的政治后果。在六月底、七月初，各大高校的工作组开始对那些挑战自身权威的学生进行打击报复。反对工作组的学生，和已经被打倒的当权者一起，成为了斗争对象——讽刺的是，这些被打倒的学生，一开始恰恰是因为主张使用最极端的方式严惩当权者，才站到了工作组的对立面上。</p>
-<p><span><strong>从 “反动派” 到 “造反派”</strong></span></p>
-<p>七月底八月初，因为各种复杂的原因，中央决定将派驻在各大高校的工作组悉数撤回。工作组的撤回使得高校出现了权力真空，学生领导的红卫兵组织继而成为实质上的校园掌权者。这些红卫兵组织的领导权掌握在那些原先支持、配合工作组的学生手里。</p>
-<p>原先反对工作组的学生，本已被工作组打成 “反动派”。而工作组的撤出，使得这些被打倒的学生获得了宝贵的翻案机会。为了摘掉 “反动派” 标签，这些学生动员起来、另立新的红卫兵组织，对工作组的行径严加批判，已证明自己才是 “革命” 的、“正确” 的，并对正在掌权的红卫兵组织形成夺权之势。</p>
-<p>对于正在掌权的红卫兵组织来说，受到这样的威胁，当然也不能坐视不管，旋即也开始大规模的政治动员，“保守派红卫兵” 就此成型。而之前被工作组打倒的学生，则成为了 “造反派红卫兵” 的骨干。两派之间的内斗层层升级。</p>
-<p>为了将工作组批倒批臭，许多造反派红卫兵对派遣这些工作组的中央部委进行了围攻、以揪出工作组的负责人。一方面，红卫兵的派系斗争为高层政治的进一步发展创造了可利用的民意资源；另一方面，在高层政治的干预之下，造反派红卫兵最终获得了内斗的胜利。</p>
-<p>换句话说，决定了红卫兵派系分裂的政治身份，在 1966 年 6 月以前是不存在的。这一政治身份并非来自于学生们的阶级出身和社会背景，而是来源于他们在工作组进驻高校的两月时间内所做出的稀里糊涂的选择。工作组的所作所为，使得一部分学生们为自己在懵懂之中做出的选择付出了巨大的政治代价。这种政治代价，创造出了新的 “敌我” 格局，也成为学生们进一步开展政治动员的基础。</p>
-<p>在模糊与混乱的局势中，人们在短时间内做出的选择必然是高度随机的。但政治环境的快速变化，却逼迫人们不得不用一连串的行动来回应当初的选择所带来的政治后果。无奈之中的不经意选择，最终决定了一整代人的命运——这样的结局不得不让我们感叹，历史是多么的荒诞、讽刺、无情。</p>
-<p><strong>参考文献：</strong><br>
-Gwalder A. (2006). Ambiguity and choice in political movements : The origins of Beijing red guard factionalism. American Journal of Sociology, 112(3) ,710-750.</p>
-<p>Gwalder A. (2009). Fractured rebellion : The Beijing Red Guard movement. Harvard University Press.</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%94%BF%E8%A7%81%EF%BD%9C%E7%BA%A2%E5%8D%AB%E5%85%B5%E7%9A%84%E6%B4%BE%E7%B3%BB%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">文革50周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/bbc%EF%BD%9C%E5%BC%A0%E5%BE%B7%E6%B1%9F%E6%8A%B5%E6%B8%AF%E8%A7%86%E5%AF%9F-%E9%83%8A%E9%87%8E%E5%85%AC%E5%9B%AD%E7%8E%B0%E6%8A%97%E8%AE%AE%E6%A0%87%E8%AF%AD/" target="cdt-mirror">BBC｜张德江抵港“视察” 郊野公园现抗议标语</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678f2231ecb493a7f3ffdc58a9e9e5fd.jpg" rel="attachment wp-att-438095"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678f2231ecb493a7f3ffdc58a9e9e5fd.jpg?resize=550%2C387" alt="678f2231ecb493a7f3ffdc58a9e9e5fd" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678f2231ecb493a7f3ffdc58a9e9e5fd.jpg?resize=300%2C211 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678f2231ecb493a7f3ffdc58a9e9e5fd.jpg?resize=768%2C541 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678f2231ecb493a7f3ffdc58a9e9e5fd.jpg?resize=1024%2C721 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678f2231ecb493a7f3ffdc58a9e9e5fd.jpg?w=1280 1280w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>5月17日，狮子山上再现“我要真普选”；图片来源：<span><a href="http://www.hk01.com/%E6%B8%AF%E8%81%9E/21319/-%E5%BC%B5%E5%BE%B7%E6%B1%9F%E8%A8%AA%E6%B8%AF-%E8%AD%A6%E5%93%A1%E5%AE%88%E5%B1%B1%E9%A0%82-%E6%88%91%E8%A6%81%E7%9C%9F%E6%99%AE%E9%81%B8-%E7%8F%BE%E7%8D%85%E5%AD%90%E5%B1%B1%E9%9A%94%E9%84%B0" target="_blank">香港01</a></span></span></p>
-<p><strong>中国全国人大常委会委员长张德江于周二（5月17日）中午抵达香港并展开三日访问行程。但在香港警方的严密布控下，位于九龙狮子山郊野公园的笔架山山腰周二早上挂上了一幅“LSD我要真普选”的巨幅标语。</strong></p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2014/10/%E3%80%90%E7%BB%84%E5%9B%BE%EF%BC%8B%E8%A7%86%E9%A2%91%E3%80%91%E9%A6%99%E6%B8%AF%E8%9C%98%E8%9B%9B%E4%BB%94%E7%9A%84%E7%8B%AE%E5%AD%90%E5%B1%B1%E7%B2%BE%E7%A5%9E%EF%BC%9A%E6%88%91%E8%A6%81/" target="_blank">【组图＋视频】香港蜘蛛仔的狮子山精神：“我要真普选” </a></p></blockquote>
-<p>LSD 是香港本地泛民主派政治团体“社会民主连线”（社民连）的英文简称。社民连当天早上在其Facebook网页上贴出笔架山上悬挂巨幅标语的照片，称“今日清晨社民连义工爬上狮子山，绕过山顶的‘反恐’特种部队，在山腰挂上‘我要真普选’的自制横额。这是社民连送给张德江的手信，目的是宣示香港人追求民主自由的决心，训斥想来‘视察’做show的中共领导人别再扮盲！”</p>
-<p>香港警方表示，警方在早上8时30分左右接到公众报告有关抗议标语，并指示消防部门派人取下。</p>
-<p>香港电台引述警方说，警方已在上午10时将抗议标语取下。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160517034720__pedestrians_walk_between_barriers_used_to_cordon_off_a_security_area__976x549_epa_nocredit.jpg" rel="attachment wp-att-438096"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160517034720__pedestrians_walk_between_barriers_used_to_cordon_off_a_security_area__976x549_epa_nocredit.jpg?resize=550%2C309" alt="160517034720__pedestrians_walk_between_barriers_used_to_cordon_off_a_security_area__976x549_epa_nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160517034720__pedestrians_walk_between_barriers_used_to_cordon_off_a_security_area__976x549_epa_nocredit.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/160517034720__pedestrians_walk_between_barriers_used_to_cordon_off_a_security_area__976x549_epa_nocredit.jpg?w=624 624w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>中国官媒新华社在稍早前的消息中称，张德江于5月17日至19日赴香港，出席香港特别行政区政府主办的“一带一路”高峰论坛，并视察香港特别行政区。香港本地媒体称，这是中国领导人访港首次使用“视察”一词。</p>
-<p>张德江抵达香港机场后发表简短讲话，称上次来港是2004年，自己在广东工作期间曾推动泛珠三角合作、粤港合作以及联手抗击非典。</p>
-<p>他表示，此次来港主要目的是“看、听、讲”：看看香港近年来的新变化和市民生活情况；听取特区政府工作情况，各界对贯彻“一国两制、高度自治”方针以及贯彻香港基本法有什么建议和要求，对国家发展以及香港发展有什么建议和要求；在香港政府主办的“一带一路高峰论坛”上发表讲话，在欢迎晚宴上发表讲话，以及在其他场合发表一些讲话。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Cin0ph4VEAAoPRh.jpg_large.jpg" rel="attachment wp-att-438097"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Cin0ph4VEAAoPRh.jpg_large.jpg?resize=450%2C600" alt="Cin0ph4VEAAoPRh.jpg_large" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Cin0ph4VEAAoPRh.jpg_large.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Cin0ph4VEAAoPRh.jpg_large.jpg?resize=768%2C1024 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Cin0ph4VEAAoPRh.jpg_large.jpg?w=1024 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><span>图片来源：Twitter @fion_li</span></p>
-<p><strong> 高级别安保<br></strong><br>
-《明报》称，张德江访港前夕，湾仔及金钟一带保安严阵以待，在湾仔中环广场（左方）通往会展中心的行人天桥，已挂了“请勿阻塞通道”的警告字句。天桥下的马路日前设置了水马阵，水马之间留了出口，昨日加装了高过人头的铁闸。</p>
-<p>除了张德江住地外，前年“占领中环”运动期间曾有人挂上“我要真普选”巨幅标语的狮子山顶，有市民称周一见到有9名警员扎营驻守。</p>
-<p>香港警方回应《明报》查询时指，因应过往经验，可能有市民会在特别日子，在狮子山顶悬挂巨型标语表达要求或意见，因而吸引大批公众人士围观甚至记者采访。但因该处位置险要，不论是悬挂标语者，或是其他到该处观看人士，实属非常危险，行动（派警员驻守）是要保障公众安全。</p>
-<p><strong>议员陆续发声</strong></p>
-<p>在张德江的三天访问行程中，和包括四名泛民派议员在内的十名香港立法会议员举行小范围会谈备受关注。获邀出席的议员最近几天纷纷透露了将要和张德江交流的主题。</p>
-<p>《明报》引用公民党党魁梁家杰的话称，将在酒会上倡议在9月立法会选举后由香港政府筹组及主导「港是会议」，或可由退休法官公正主持，就回归以来在《基本法》、政制和民生经济等不善之处，与社会商议建设性改革。民建联主席李慧琼则称会反映从深圳到香港的高速铁路“一地两检”问题。</p>
-<p>梁家杰在接受法新社采访时还表示，“他（张德江）应该听听政府以外的声音，了解我们对香港当前局势和未来走势的看法。”</p>
-<p>“我要告诉他香港正处于回归中国后最困难的时期。”另一位受邀的泛民派议员刘慧卿表示。</p>
-<p>对于香港政府的安保安排，香港政治团体民间人权阵线的岑子杰抱怨说，“张德江来香港是为了了解香港的真是情况，但他的视线被完全挡住了。”</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/bbc%EF%BD%9C%E5%BC%A0%E5%BE%B7%E6%B1%9F%E6%8A%B5%E6%B8%AF%E8%A7%86%E5%AF%9F-%E9%83%8A%E9%87%8E%E5%85%AC%E5%9B%AD%E7%8E%B0%E6%8A%97%E8%AE%AE%E6%A0%87%E8%AF%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91%E5%85%AC%E6%8A%95/?category=18271" rel="tag">全民公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E6%99%AE%E9%80%89/?category=18271" rel="tag">真普选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%99%AE%E9%80%89/?category=18271" rel="tag">香港普选</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -688,7 +756,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -698,5 +766,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

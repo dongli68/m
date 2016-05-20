@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%E3%80%81%E9%A6%99%E6%B8%AF%E6%99%AE%E9%80%89-%E7%AD%89%E7%83%AD%E7%82%B9/" target="cdt-mirror">【敏感词库】雷洋之死、“我要真普选” 等热点 2016-5-19</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B7%B4%E4%B8%A2%E8%8D%89_%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB.jpg?resize=575%2C306" alt="巴丢草_雷洋之死" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?resize=300%2C160 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?resize=768%2C409 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?w=1024 1024w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"><br><em>图片作者：巴丢草</em></p>
+<p>［新浪微博搜索禁词测试时间：2016年5月19日］</p>
+<p><strong>雷洋＋报案</strong><br><strong> 雷洋＋阴部</strong><br><strong> 雷洋＋睾丸</strong><br><strong> 雷洋＋右额部</strong></p>
+<blockquote><p>相关专题：<a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/">雷洋之死</a></p></blockquote>
+<p><strong>我要真普选</strong></p>
+<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%AE%BA%E5%9D%9B%E4%BA%8E%E4%B8%A5%E5%AF%86%E4%BF%9D%E5%AE%89%E4%B8%AD%E5%8F%AC%E5%BC%80/">纽约时报 | 张德江访问香港遭遇民众抗议</a></p></blockquote>
+<p><strong>文革＋重来</strong></p>
+<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E6%B7%B1%E5%A4%9C%E6%89%93%E7%A0%B4%E6%B2%89%E9%BB%98%EF%BC%9A%E5%86%B3%E4%B8%8D%E5%85%81%E8%AE%B8%E6%96%87%E9%9D%A9/">纽约时报 | 中国官媒深夜打破沉默：决不允许文革错误重演</a></p></blockquote>
+<p><strong>426＋四二六社论</strong></p>
+<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%88%B0%E4%B8%80%E5%B9%B4426%E7%A4%BE%E8%AE%BA%E6%97%A5/">【网络民议】又到一年“426社论日”</a></p></blockquote>
+<p><strong>红树林</strong></p>
+<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%83%A1%E6%B3%B3%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BF%A1%E6%81%AF%E7%9A%84%E8%87%AA%E7%94%B1%E6%B5%81%E5%8A%A8-%E5%B0%B1%E6%97%A0%E6%B3%95%E7%AE%A1%E7%90%86%E9%A3%8E%E9%99%A9%E7%A4%BE%E4%BC%9A/">胡泳：没有信息的自由流动 就无法管理风险社会</a></p></blockquote>
+<p><strong>光天化日＋前中共</strong></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E6%8A%A5%E6%A1%88.png?resize=474%2C185" alt="雷洋＋报案" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋报案.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋报案.png?w=704 704w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E9%98%B4%E9%83%A8.png?resize=474%2C185" alt="雷洋＋阴部" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋阴部.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋阴部.png?w=705 705w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E7%9D%BE%E4%B8%B8.png?resize=475%2C186" alt="雷洋＋睾丸" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋睾丸.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋睾丸.png?w=705 705w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E5%8F%B3%E9%A2%9D%E9%83%A8.png?resize=476%2C184" alt="雷洋＋右额部" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋右额部.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋右额部.png?w=703 703w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E8%A6%81%E7%9C%9F%E6%99%AE%E9%80%89.png?resize=474%2C185" alt="我要真普选" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我要真普选.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我要真普选.png?w=704 704w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%87%E9%9D%A9%EF%BC%8B%E9%87%8D%E6%9D%A5.png?resize=476%2C184" alt="文革＋重来" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革＋重来.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革＋重来.png?w=703 703w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/426%EF%BC%8B%E5%9B%9B%E4%BA%8C%E5%85%AD%E7%A4%BE%E8%AE%BA.png?resize=475%2C182" alt="426＋四二六社论" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/426＋四二六社论.png?resize=300%2C115 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/426＋四二六社论.png?w=704 704w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BA%A2%E6%A0%91%E6%9E%97.png?resize=475%2C185" alt="红树林" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/红树林.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/红树林.png?w=708 708w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%89%E5%A4%A9%E5%8C%96%E6%97%A5%EF%BC%8B%E5%89%8D%E4%B8%AD%E5%85%B1.png?resize=475%2C185" alt="光天化日＋前中共" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/光天化日＋前中共.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/光天化日＋前中共.png?w=703 703w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%E3%80%81%E9%A6%99%E6%B8%AF%E6%99%AE%E9%80%89-%E7%AD%89%E7%83%AD%E7%82%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/426%E7%A4%BE%E8%AE%BA/?category=18271" rel="tag">426社论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E6%99%AE%E9%80%89/?category=18271" rel="tag">真普选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5-%E8%94%A1%E8%8B%B1%E6%96%87520%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E5%85%A8%E6%96%87/" target="cdt-mirror">联合早报 | 台湾总统蔡英文520就职演说全文</a>
 </h2>
 <p><p><strong>台湾总统蔡英文今天发表就职演说，以下为演说全文：</strong></p>
@@ -699,22 +724,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2%E9%85%8D%E5%A4%87%E5%A2%83%E5%A4%96%E6%8A%A5%E7%BA%B8%E7%9A%84%E9%80%9A%E7%9F%A5/" target="cdt-mirror">疑似国航内部通告：关于停止配备境外报纸的通知</a>
-</h2>
-<p><p>疑似中国国际航空内部通告：</p>
-<blockquote><p>贝带劲 <a href="https://twitter.com/beidaijin/status/732437748414582785" target="_blank">@beidaijin</a>:航空公司［关于停止配备境外报纸的通知］单一渠道消息</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiokPsIWgAAHEwL.jpg" rel="attachment wp-att-438211"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiokPsIWgAAHEwL.jpg?resize=449%2C800" alt="CiokPsIWgAAHEwL" data-recalc-dims="1"></a></p>
-<blockquote><p>根据上级关于加强境外报刊政治审查、进口许可等相关国家新闻舆论的要求，为防范境外非法出版物经公司航班进入客舱及入境的风险，公司将不在外站配备境外回程报纸，所有报刊改为由北京出港统一携带。</p>
-<p>请乘务组严格落实回程报纸、杂志的预留和交接。如遇有旅客问询是，请做好相关的解释工作，提示语言如下“________先生／女士，由于国家加大了境外报刊的审查力度，我们将不再配备境外报纸。在机上，我们为您准备了多种杂志、环球时报、中国日报……供您选择，希望您喜欢。”</p>
-<p>” Mr./Ms.________, overseas newspapers are not available as the government increases the <strong>scrutiny process(?)</strong>. However, we have prepared many magazines, Global Times, China Daily……for you on board, We hope you will like it.’</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2%E9%85%8D%E5%A4%87%E5%A2%83%E5%A4%96%E6%8A%A5%E7%BA%B8%E7%9A%84%E9%80%9A%E7%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%AA%92%E4%BD%93/?category=18271" rel="tag">境外媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -726,7 +735,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -736,5 +745,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

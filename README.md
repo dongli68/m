@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E8%A7%86%E9%A2%91/" target="cdt-mirror">【CDTV】蔡英文就职演说视频</a>
+</h2>
+<p><p><a href="https://www.youtube.com/v/LdwJMbrJAK4?version=3">https://www.youtube.com/v/LdwJMbrJAK4?version=3</a></p>
+<p><a title="中華民國第十四屆總統蔡英文就職演說" href="http://www.youtube.com/watch?v=LdwJMbrJAK4" target="_blank">中華民國第十四屆總統蔡英文就職演說</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-taiwan&sz=85E7&t=2&s=T4JIFHVBGCYLUT62IYHY35BG4WKBEWDBNNNCROSSLN5S4JQ2NYYA&i=CKFREMMTC5MAPWXFA73D7IGFUUBQICNSU&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E8%A7%86%E9%A2%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-8/" target="cdt-mirror">【真理部】蔡英文就职报道</a>
+</h2>
+<p><p>蔡英文就职报道一律以权威媒体统一口径为准  不得转发违规信源  相关有害时政信息要及时查删。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%9A%E7%AB%A0%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%83%8E%E6%95%99/" target="cdt-mirror">【立此存照】党章是最好的胎教</a>
 </h2>
 <p><blockquote><p><a href="https://freeweibo.com/en/weibo/3977199264701543" target="_blank">@李方平律师</a>：【新疆、云南干部异口同声：党章是最好的胎教】“党章党规是最好的胎教”，怀二胎4月参加竞赛的（云南）陇川县防震减灾局副局长李擎说。新疆医科大一附院党办三孕妇也是如此说…</p></blockquote>
@@ -592,53 +618,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-7/" target="cdt-mirror">【真理部】关于台湾地区新领导人就职仪式有关问题的通知</a>
-</h2>
-<p><p>关于台湾地区新领导人就职仪式有关问题的通知</p>
-<p>各互联网视听节目服务单位：</p>
-<p>台湾地区新领导人就职仪式将于5月20日举行。具有时政类视听新闻服务资质的持证网站在报道台湾地区新领导人就职仪式时，请遵照《互联网视听节目服务管理规定》执行。《互联网视听节目服务管理规定》第十七条规定：“互联网视听节目服务单位播出时政类视听新闻节目，应当是地（市）级以上广播电台、电视台制作、播出的节目和中央新闻单位网站登载的时政类视听新闻节目”。各互联网视听节目服务单位不得直播、转播、登载、转载非上述稿源的时政类视听新闻节目。</p>
-<p>特此通知</p>
-<p>国家新闻出版广电总局</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%AE%BA%E5%9D%9B%E4%BA%8E%E4%B8%A5%E5%AF%86%E4%BF%9D%E5%AE%89%E4%B8%AD%E5%8F%AC%E5%BC%80/" target="cdt-mirror">纽约时报 | 张德江访问香港遭遇民众抗议</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/18HongKong-web1-articleLarge.jpg?resize=550%2C367" alt="全国人民代表大会常务委员会委员长张德江周二在香港。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/18HongKong-web1-articleLarge.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/18HongKong-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>全国人民代表大会常务委员会委员长张德江周二在香港。</p></div>
-<p>中国执政党共产党的一名政治局常委在高级别安保下和抗议声中于周二抵达香港，他称赞香港政府在2003年抗击急性非典型性肺炎(SARS)取得“胜利”，这个说法很快引起当地的愤怒。</p>
-<p>这名官员是张德江，他还担任全国人大常委会委员长。他是自从近两年前香港发生亲民主抗议活动以来，访问这个半自治城市的最高级别的中央政府官员。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiqPPn7VEAAAf3h.jpg?resize=550%2C413" alt="街头地砖被胶水固定" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiqPPn7VEAAAf3h.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CiqPPn7VEAAAf3h.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>街头地砖被胶水固定</p></div>
-<p>在他为期三天的访问开始时，张德江说，他当年作为广东省党委书记，曾与香港政府一起控制非典（又名“严重急性呼吸道综合征”），回想起来仍“历历在目”。非典于2002年在中国大陆的广东省首次感染人类，最终在全世界导致774人死亡。</p>
-<p>张德江曾主持工作淡化疫情，让非典蔓延到香港，最终夺走了299名港人的生命。在所有爆发了非典的城市中，香港的死亡人数最高。由于这个原因，一些香港人对张德江的说法表示震惊。</p>
-<p>“他这么说真的非常具有讽刺意义：如果他当初不隐瞒疫情，这里就不会有这么多的人死亡。他手上沾满了鲜血，”罗冠聪说。周二，在张德江的车队到达湾仔附近的酒店时，罗冠聪曾试图拦截车队，但被警察压在了地上。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0061Mxw5jw1f3zh8quhcqj30qo0f0got.jpg?resize=550%2C309" alt="0061Mxw5jw1f3zh8quhcqj30qo0f0got" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0061Mxw5jw1f3zh8quhcqj30qo0f0got.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0061Mxw5jw1f3zh8quhcqj30qo0f0got.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>现场横幅</p></div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ciqw-PMUYAA6YVx.jpg?resize=550%2C413" alt="Ciqw-PMUYAA6YVx" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ciqw-PMUYAA6YVx.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ciqw-PMUYAA6YVx.jpg?w=600 600w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>现场横幅</p></div>
-<p> </p>
-<p>除了非典，大约有100名示威者对更多的事情也表达了愤怒。罗冠聪最近与另一名活跃人士黄之锋一起，成立了一个名叫“香港众志”(Demosisto)的政党。在越来越多的香港年轻人眼里，北京曾对香港保证的“高度自治权”，因共产党对香港文化和公民自由进行施压而受到威胁，罗冠聪正是持有这种观点的年轻人中的一个。</p>
-<p>美国国务院在上周的一份报告中表示，几名出版有关中国大陆领导人的政治书籍的香港出版商最近失踪一事“引起了严重的关切”，并表示，“这看来是自1997年以来对‘一国两制’政策的最严重的违背”，该政策是当年香港回归中国主权的基本指导原则。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1306524_8ea40d6246e41d14a0ff711912ece4c6_620.jpg?resize=550%2C366" alt="1306524_8ea40d6246e41d14a0ff711912ece4c6_620" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1306524_8ea40d6246e41d14a0ff711912ece4c6_620.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1306524_8ea40d6246e41d14a0ff711912ece4c6_620.jpg?w=620 620w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>中环广场外围设置了一字排开的水马阵</p></div>
-<p>虽然张德江周二誓言要听取香港居民的“建议和要求”，但罗冠聪表示，他不相信这种说法。</p>
-<p>“如果他真想听取我们的意见，为什么示威区设在这么远的地方，让他连我们都看不到？”罗冠聪问。</p>
-<p>预计张德江将在周三与几名香港立法会议员见面，并将在“一带一路”高峰论坛上发表讲话，“一带一路”是中国发起的、与古代丝绸之路沿线的几十个国家发展更紧密经贸关系的项目。</p>
-<p>在他来访前的日子里，香港政府的各个部门都做出了严密的准备工作，包括制定“反恐”安全措施。</p>
-<p>尽管如此，活动人士仍设法在维多利亚港对面山上的一块巨石上悬挂了一个条幅，条幅上写着“我要真普选”的字样。在张德江的车队经过的一个施工工地上也出现了一个写有“结束中共专政”的标语。</p>
-<p>据该党在Facebook页面上发表的声明，社会民主联线有至少七名成员周二被逮捕，原因与标语有关。</p>
-<p>该声明还说，“欠下香港299条人命的张德江，”指的是香港死于非典的人数。“应该做的，是负荆请罪跪求香港人原谅！”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%AE%BA%E5%9D%9B%E4%BA%8E%E4%B8%A5%E5%AF%86%E4%BF%9D%E5%AE%89%E4%B8%AD%E5%8F%AC%E5%BC%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A/?category=18271" rel="tag">人大常委会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">党委书记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%8A%A1%E9%99%A2/?category=18271" rel="tag">国务院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE/?category=18271" rel="tag">抗议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">抗议活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E6%99%AE%E9%80%89/?category=18271" rel="tag">真普选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E5%85%B8/?category=18271" rel="tag">非典</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%BA%A6%E8%87%AA%E6%B2%BB/?category=18271" rel="tag">高度自治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -660,5 +639,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

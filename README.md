@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%9A%E7%AB%A0%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%83%8E%E6%95%99/" target="cdt-mirror">【立此存照】党章是最好的胎教</a>
+</h2>
+<p><blockquote><p><a href="https://freeweibo.com/en/weibo/3977199264701543" target="_blank">@李方平律师</a>：【新疆、云南干部异口同声：党章是最好的胎教】“党章党规是最好的胎教”，怀二胎4月参加竞赛的（云南）陇川县防震减灾局副局长李擎说。新疆医科大一附院党办三孕妇也是如此说…</p></blockquote>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6a80bfcdgw1f41s4j5hr3j20m80ci76p.jpg" rel="attachment wp-att-438478"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6a80bfcdgw1f41s4j5hr3j20m80ci76p.jpg?resize=550%2C309" alt="6a80bfcdgw1f41s4j5hr3j20m80ci76p" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6a80bfcdgw1f41s4j5hr3j20m80ci76p.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6a80bfcdgw1f41s4j5hr3j20m80ci76p.jpg?resize=768%2C432 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6a80bfcdgw1f41s4j5hr3j20m80ci76p.jpg?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>来源：自由微博</span></p></div>
+<p><em>背景新闻：</em></p>
+<p><strong><a href="http://www.jjjc.yn.gov.cn/info-87-18990.html" target="_blank">德宏州纪委｜德宏：举办党章党规知识竞赛6名厅级11名处级领导干部带队上阵参赛</a></strong></p>
+<blockquote><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/45038600317fdb48c6b15fc97e499bda_thumb.jpg" rel="attachment wp-att-438480"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/45038600317fdb48c6b15fc97e499bda_thumb.jpg?resize=475%2C315" alt="45038600317fdb48c6b15fc97e499bda_thumb" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/45038600317fdb48c6b15fc97e499bda_thumb.jpg?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/45038600317fdb48c6b15fc97e499bda_thumb.jpg?w=536 536w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br>
+就此次党章党规知识竞赛，参赛选手如何评价和准备呢？[…]“为参加此次知识竞赛，我每天空余时间都在学党章党规，走路、吃饭、坐车在记，连晚上睡觉时也在背，自身的党章党规意识得到了较大的提升。”参赛的梁河县副县长郑瑜告诉笔者。“<strong>党章党规是最好的胎教</strong>”<strong>怀二胎4月参加竞赛的陇川县防震减灾局副局长李擎说。</strong></p></blockquote>
+<p><strong>另附：</strong></p>
+<blockquote><p><a href="https://freeweibo.com/en/weibo/3976430322970735" target="_blank">@互联网的那点事</a>：有些行业就是反应迅速，值得学习！</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6106a4f0gw1f3zbtdj14ej20qo0zkdii.jpg" rel="attachment wp-att-438479"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6106a4f0gw1f3zbtdj14ej20qo0zkdii.jpg?resize=425%2C567" alt="6106a4f0gw1f3zbtdj14ej20qo0zkdii" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6106a4f0gw1f3zbtdj14ej20qo0zkdii.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6106a4f0gw1f3zbtdj14ej20qo0zkdii.jpg?resize=768%2C1024 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6106a4f0gw1f3zbtdj14ej20qo0zkdii.jpg?w=960 960w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%9A%E7%AB%A0%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%83%8E%E6%95%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">中共党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E7%A0%94%E7%A9%B6%E8%AE%A4%E4%B8%BA%E4%BA%94%E6%AF%9B%E5%85%9A%E5%8F%91%E5%B8%96%E6%97%A8%E5%9C%A8%E8%BD%AC%E7%A7%BB%E6%B3%A8%E6%84%8F%E5%8A%9B/" target="cdt-mirror">奇客资讯 | 研究认为五毛党发帖旨在转移注意力</a>
+</h2>
+<p><p>中国政府一方面严控社交网络的评论，大规模的删除呼吁集体行动的帖子；另一方面，它大规模的雇佣水军去社交网络发表亲政府的评论，制造“伪草根舆论”，这些水军的正式名称叫网评员，但网民将他们称为“五毛党”，五毛党是有薪水可拿的，还有一群不拿钱的被称为“自干五”。中国政府被怀疑雇佣了多达200万的五毛党，在社交网络上发表了数以亿计的帖子。在逆向工程中国社交网站的审查机制之后，哈佛大学政治学者Gary King和同事研究了中国网评员的发帖策略。他们分析了一位叫Xiaolan的匿名博主在2014年泄漏的章贡区网宣办发给网评员的邮箱内容，<a href="http://gking.harvard.edu/files/gking/files/50c.pdf?m=1463587807" target="_blank"><u>发现五毛党发帖旨在转移注意力</u></a>（PDF），不参与受争议问题的讨论，而是转移话题。研究人员估计，每年五毛党写了4.48亿社交媒体帖子，其中52.7% 出现在政府网站上，其余2.12亿帖子插入到商业社交媒体网站的800亿实时信息流中。大部分政府网站的评论和1/178的社交媒体帖子都是网评员写的。帖子不是随机分布的，而是有高度导向性，都有着特定的目的。其中分散注意力是一个最明显的控制信息策略。研究人员还发现，五毛党绝大部分是由政府雇员组成，他们主要是在工作时间之外发帖，不是付费雇佣的普通网民。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E7%A0%94%E7%A9%B6%E8%AE%A4%E4%B8%BA%E4%BA%94%E6%AF%9B%E5%85%9A%E5%8F%91%E5%B8%96%E6%97%A8%E5%9C%A8%E8%BD%AC%E7%A7%BB%E6%B3%A8%E6%84%8F%E5%8A%9B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B%E5%85%9A/?category=18271" rel="tag">五毛党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E9%99%A4/?category=18271" rel="tag">删除</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BF%E5%90%8D/?category=18271" rel="tag">匿名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E5%B8%96/?category=18271" rel="tag">发帖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E8%B4%A1%E5%8C%BA%E7%BD%91%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">章贡区网宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%E3%80%81%E9%A6%99%E6%B8%AF%E6%99%AE%E9%80%89-%E7%AD%89%E7%83%AD%E7%82%B9/" target="cdt-mirror">【敏感词库】雷洋之死、“我要真普选” 等热点 2016-5-19</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B7%B4%E4%B8%A2%E8%8D%89_%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB.jpg?resize=575%2C306" alt="巴丢草_雷洋之死" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?resize=300%2C160 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?resize=768%2C409 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?w=1024 1024w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"><br><em>图片作者：巴丢草</em></p>
@@ -609,121 +639,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/" target="cdt-mirror">搜狐弧度 | 大学生拍粗暴执法屁股被打开花 涉事民警被关禁闭</a>
-</h2>
-<p><p><strong>最新进展：</strong></p>
-<p><strong>晚间23时30分许，搜狐新闻弧度栏目获悉，涉事民警和相关责任人已被处分。据@兰州榆中公安 通报，事发后省、市公安督察部门组成联合调查组开展调查，认定网上反映情况属实。“经我局研究决定，对负有领导责任的和平派出所所长、教导员及分管和平派出所的县公安局副政委停止执行职务；对涉事民警宋冬冬、未得文先行采取禁闭措施，县纪检监察部门介入做进一步调查，依纪依法严肃处理。”</strong></p>
-<blockquote><p>针对5月17日网上反映我局“和平派出所民警暴力执法，用警棍殴打大学生”一事，省、市公安督察部门组成联合调查组开展调查，认定网上反映情况属实。经我局研究决定，对负有领导责任的和平派出所所长、教导员及分管和平派出所的县公安局副政委停止执行职务；对涉事民警宋冬冬、未得文先行采取禁闭措施，县纪检监察部门介入做进一步调查，依纪依法严肃处理。（甘肃省兰州市榆中县公安局官方微博）</p></blockquote>
-<p><strong>对此，被打大学生吴义（化名）告诉弧度，并不希望有人被停职，“可能都是人吧，拥有一份工作不容易”。但他称，涉事民警至今并未道歉，“道歉是必须的，经济赔偿也应该”。</strong></p>
-<p>5月17日下午，兰州市和平镇民警粗暴执法，殴打大学生一事被网友曝光。“用警棍和耳光轮番伺候，而且不准叫出声来，叫一声加5棍，两个人的屁股都开花了”。当事人吴义（化名）告诉搜狐新闻弧度栏目，他是兰州财经大学学生，事发昨天上午，他和伙伴在派出所被警员殴打两次，逾一小时。兰州市公安局官方微博@兰州公安 回复网友评论时称将“尽快核实，妥善处理”。榆中县纪委工作人员同时表示知晓此事，正在等待公安局反馈调查结果，“如果有问题，纪委会给处分。”</p>
-
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/img449957363/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/Img449957363-150x150.jpg" alt="Img449957363" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957363.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957363.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957363.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/img449957365/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/Img449957365-150x150.jpg" alt="Img449957365" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957365.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957365.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957365.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
-
-<p>吴青的臀部出现淤青红肿。来源：受访者提供</p>
-<p>以下为大学生所拍摄的视频</p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p>弧度了解到，被打的吴义和他的伙伴均为兰州财经大学学生。昨天上午，他在一家店里因上厕所与他人发生冲突后警方到场调解。警员让他上车时车锁没开，却说吴义“不能上车吗”并踢他。这一过程被他的伙伴拍下，随后警员试图拿走视频，但视频被吴义的哥哥带走。</p>
-<p>吴义提供的视频显示，现场一名警员先将一名男子拉往右后车门处让其上车，随即自己回到驾驶座，但男子拉把手车门未能开启，警员开完门后便踢了他一脚。当发现此事被拍，警员走向视频拍摄者。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957367.jpg?resize=568%2C320" alt="警员让吴义上车时车锁没开，却说吴义“不能上车吗”并踢他。来源：受访者提供" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957367.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957367.jpg?w=568 568w" sizes="(max-width: 568px) 100vw, 568px" data-recalc-dims="1"><p>警员让吴义上车时车锁没开，却说吴义“不能上车吗”并踢他。来源：受访者提供</p></div>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957370.jpg?resize=568%2C320" alt="当发现此事被拍，警员走向视频拍摄者。来源：受访者提供" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957370.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957370.jpg?w=568 568w" sizes="(max-width: 568px) 100vw, 568px" data-recalc-dims="1"><p>当发现此事被拍，警员走向视频拍摄者。来源：受访者提供</p></div>
-<p>吴义描述，视频被他哥哥带走后，他和伙伴被警方带到和平镇派出所，警员要求他和哥哥沟通，让哥哥主动交回视频，他和伙伴不从，之后被打。据吴义回忆，他和伙伴被打了两次，一次是在10点多，打了半个小时，另一次是在12点多，打了近四十分钟，用警棍打屁股及打耳光，“直接一个人按着，啪啪啪，就几十个耳光，不准叫出声，叫一声加5棍。”</p>
-<p>他还介绍，被打后伙伴扛不住，透露了他哥哥的个人信息，警察随即要求他让哥哥拿视频过来，“你不把你哥叫下来也行，我给他们学校打电话，毕业证和学业证都拿不到”。最终吴义的哥哥拿着视频前往派出所并要求警察道歉，“他们和我哥说道歉了，然后视频给了他们，但其实没有道歉”。</p>
-<p>另一名当事人吴青（化名）讲述，他当时正在拍摄警员粗暴执法的视频，因拒绝警员抢夺手机，他就被带往派出所。在派出所里时，“（警员）让你双手扶在椅子上，不要动，手不能脱离椅子，警棍使劲抽你臀部，连续抽，一棍就能让你躺在地上，而且不能叫出声，叫出声要加5棍，还使劲抽耳光”</p>
-<p>吴义告诉弧度，今天上午两名当事警员又联系他们，“让我们去派出所，但我们肯定不可能啊。我们不敢去了，担心又是一顿毒打”。他还称，涉事警员警号分别为018685和018743，他和伙伴接下来打算做伤情鉴定。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957371.jpg?resize=600%2C450" alt="病历显示，吴青臀部可见直径为12*12cm的皮肤青紫，局部肿胀青紫。 来源：受访者提供 " srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957371.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Img449957371.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>病历显示，吴青臀部可见直径为12*12cm的皮肤青紫，局部肿胀青紫。 来源：受访者提供</p></div>
-<p>下午14时29分，兰州市公安局官方微博@兰州公安 在回复网友爆料图文信息时回复“请将消息的事发地址告诉我们，我们立刻核实”，15时35分，@兰州公安 再次回复网友称，“已收悉”“我们尽快核实”“我们会妥善处理的”。</p>
-<p>弧度注意到，@兰州公安 亦在16时23分发布一条消息：“你好，蜀黍正在核查哦！”但未指明核查内容，一些网友则在评论中询问是否为“屁股打开花”一事，还有人表示“暴力执法那么严重的事，让您说的很俏皮的样子！无语了。”该微博随后被@兰州公安 删除。</p>
-<p>截至发稿，搜狐新闻弧度栏目多次联系兰州市公安局宣传处，均未获得回应。拨打和平镇派出所昨日出警警员手机号时，接听者称并非本人，问及“打屁股”事件的处理情况，他表示不了解，但透露当事人分别是魏姓和宋姓两名警员。</p>
-<p>此外，榆中县纪委工作人员表示已知晓此事，“等公安的调查结果出来，如果有问题会报给我们，纪委给处分，没有问题的话，纪委也就不介入了。”</p>
-<p>18时，甘肃省兰州市榆中县公安局官方微博发布通报，称已就此事安排纪检、督察部门专人开展调查，相关调查结果将及时公布。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6-%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8B%8D%E7%B2%97%E6%9A%B4%E6%89%A7%E6%B3%95%E5%B1%81%E8%82%A1%E8%A2%AB%E6%89%93%E5%BC%80%E8%8A%B1-%E6%B6%89%E4%BA%8B%E6%B0%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%9C%E8%81%8C/?category=18271" rel="tag">停职</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E5%B7%9E%E5%A4%A7%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">兰州大学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%B2%E7%AA%81/?category=18271" rel="tag">冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%84%E5%88%86/?category=18271" rel="tag">处分</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E8%82%A1%E5%BC%80%E8%8A%B1/?category=18271" rel="tag">屁股开花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%90%9C%E7%8B%90%E5%BC%A7%E5%BA%A6/?category=18271" rel="tag">搜狐弧度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B4%E6%89%93/?category=18271" rel="tag">殴打</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%BE%E5%87%BA%E6%89%80/?category=18271" rel="tag">派出所</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%94%E8%81%94%E7%96%AB%E8%8B%97%EF%BC%8C%E8%A2%AB%E5%81%B7%E6%A2%81%E6%8D%A2%E6%9F%B1%E4%BA%86%E4%B9%88%EF%BC%9F/" target="cdt-mirror">疫苗与科学｜五联疫苗，被偷梁换柱了么？</a>
-</h2>
-<p><blockquote><p>这事可能么？请看我的分析。我很希望最后证明是我错了，那只是一个误会。</p></blockquote>
-<p><strong>一、事件背景</strong></p>
-<p>昨晚，多名网友告诉我重庆市某接种门诊涉嫌将五联疫苗偷梁换柱，很多家长聚集在接种门诊门口，当地出动了大量警察维持秩序。经过一夜发酵，一些信息浮出水面，我先来把目前掌握的情况梳理一遍：</p>
-<p>信息主要来源于医信妇儿频道的报导，如下：</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/d09a8bb37b3ea85ed6a180ec59af44d9.jpg" rel="attachment wp-att-438220"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/d09a8bb37b3ea85ed6a180ec59af44d9.jpg?resize=550%2C410" alt="d09a8bb37b3ea85ed6a180ec59af44d9" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/d09a8bb37b3ea85ed6a180ec59af44d9.jpg?resize=300%2C224 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/d09a8bb37b3ea85ed6a180ec59af44d9.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>一位细心的妈妈在涉事接种门诊给宝宝接种第1剂五联疫苗时，看到接种医生使用五联疫苗包装中拆出的标配注射器（蓝色针筒）进行接种。</p>
-<p>这位妈妈去涉事接种门诊给宝宝接种第2剂五联疫苗时，她发现接种医生没有使用标配的注射器，而是用了普通注射器（透明针筒）。她问医生何故，医生表示标配注射器被污染了。</p>
-<p>宝宝接种第3剂五联疫苗时，这位妈妈去了重庆妇幼保健院。妇保院护士告诉她，标配注射器被污染的可能性非常小。</p>
-<p>这位妈妈又到涉事接种门诊观察其他孩子如何接种五联疫苗。她发现有的孩子使用包装盒里的标配注射器，有的孩子使用普通注射器。她质疑接种医生时，医生又说是标配注射器污染了。经质疑后，接种医生放弃使用普通注射器，改用标配注射器。在场家长报警后，涉事医生离开了现场。</p>
-<p>之后有消息称，涉事接种门诊进货的五联疫苗数量少于接种数量。</p>
-<p>目前，相关部门正在调查情况，并承诺会尽快向群众公布调查结果和处理意见。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/548c4dd6d9102d37e5e5fe8e0c31eca2.jpg" rel="attachment wp-att-438219"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/548c4dd6d9102d37e5e5fe8e0c31eca2.jpg?resize=550%2C181" alt="548c4dd6d9102d37e5e5fe8e0c31eca2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/548c4dd6d9102d37e5e5fe8e0c31eca2.jpg?resize=300%2C99 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/548c4dd6d9102d37e5e5fe8e0c31eca2.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p><strong>二、事件分析</strong></p>
-<p>我的判断：五联疫苗被掉包可能性很大。</p>
-<p>理由如下：</p>
-<p><strong>①标配注射器反复被污染一说不成立</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg" rel="attachment wp-att-438218"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg?resize=575%2C220" alt="69a54c65gw1f3vd8livmnj211z0ejjt6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg?resize=300%2C115 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg?resize=768%2C294 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg?resize=1024%2C392 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd8livmnj211z0ejjt6.jpg?w=1367 1367w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br>
-上图是五联疫苗的原始包装，包括一支标配的注射器和一支疫苗瓶，全部封装在密封的塑料包装内，注射器针头有针帽保护。注射器内预装了液体剂型的白百破疫苗和脊灰疫苗，疫苗瓶内是冻干粉剂的流感嗜血杆菌疫苗。</p>
-<p>涉事医生所称的标配注射器被污染的情况，只可能发生在取出注射器并卸下针帽后。这时，如果注射器掉在地上或是针管针头碰到了其他物品，才能说其被污染，否则我很难想像出来注射器是如何被污染的。</p>
-<p>退一步说，如果真的发生了注射器被污染的情况，也可以对针筒和针头进行消毒，并挤掉一小部分可能受污染的疫苗液，不需要用其他注射器来替代。我很难想像，如何把标配注射器里的疫苗液转移到其他注射器内（这个过程污染概率可能更高）。</p>
-<p>宝妈作为旁观者，在涉事门诊观察到有一些孩子使用普通注射器接种五联疫苗。接种医生都将其解释为“标配注射器被污染了”，这个解释实在苍白无力。戴针帽的注射器，怎么那么容易被污染呢？</p>
-<p>补充说明：上图中的五联疫苗，产于2010年。其注射器针筒上的贴纸为白色，该事件中的五联疫苗注射器针筒上贴纸为蓝色。生产企业何时更换的针筒贴纸包装，这个我不清楚。所以，不能泛泛地认为“如果自己孩子接种五联疫苗的针筒不是蓝色的，就一定是被掉包了”。</p>
-<p><strong>②当事医生的表现</strong></p>
-<p>当被家长质疑给孩子打的五联疫苗是否假疫苗时，当事医生未做正面回应，选择了回避。</p>
-<p>如果真的只是注射器被污染，医生完全可以告知家长疫苗是真的，没有必要选择回避。</p>
-<p><strong>③疫苗账目</strong></p>
-<p>已有消息说涉事接种门诊五联疫苗进货数量和接种数量差距较大，这个消息尚未得到官方证实。</p>
-<p>五联疫苗的入库数量很容易查清楚，但如果涉事医生有意做手脚，把接种数量调查清楚，有一定的难度。</p>
-<p>接种门诊内部，涉事医生可以通过虚假登记的方式，隐瞒五联疫苗接种记录。但是，孩子的接种证上肯定会登记在五联疫苗栏目里，如果漏登记或错误登记，家长很容易发现。所以，要调查清楚到底登记接种了多少剂五联疫苗，需要联系该门诊可能接种过五联疫苗的孩子，逐一核实其接种证上是否有五联疫苗接种记录，并汇总剂次数。</p>
-<p><strong>④接种门诊的日常管理</strong></p>
-<p>有网友提供给我一份涉事接种门诊在接种证上登记的接种记录，缺少了生产企业、疫苗批号和接种医生签字，见下图。</p>
-<p>接种证是法定证件，接种记录具有法律效应。接种疫苗后，按要求填写接种记录是最基本的工作要求。该接种门诊能填出如此不规范的接种记录，足以证明接种门诊平时疏于管理，对疫苗做手脚也并非难以理解。</p>
-<p>上级疾控中心是否对该门诊进行了认真的督导，我也表示怀疑。</p>
-<p><strong>三、你能怎么做？</strong></p>
-<p>在涉事接种门诊接种了五联疫苗的孩子，我建议等待调查结果。一定要明确到底接种的是什么东西，再决定是否需要补种。涉事的家长们可以联合起来，推选1～2位信得过的人做代表，与调查组进行沟通，并尝试是否能参与调查。</p>
-<p>为了尽量避免类似事件，我建议你在接种时注意以下4点：</p>
-<p><strong>①接种前的登记</strong></p>
-<p>关注本次接种哪些疫苗，自费疫苗选择什么厂家。查看接种证上接种记录页预登记的内容是否准确，是否有缺项：包括疫苗种类、接种日期、生产厂家、疫苗批号、接种单位。</p>
-<p><strong>②接种前的核对</strong></p>
-<p>接种医生应该根据接种记录页登记的内容从冰箱里取用疫苗。此时，接种医生应该将疫苗实物与登记内容进行核对，保证一致。如果接种医生没有执行这个核对环节，你应该提醒医生核对。</p>
-<p>有时登记的疫苗批号可能用完了，实际接种了另一个批号，就需要修改已登记的批号。</p>
-<p><strong>③注意疫苗包装和取用情况</strong></p>
-<p>自费疫苗一般为单支单剂次包装（狂犬病疫苗除外），免费疫苗50%以上已做到单支单剂次或多支单剂次包装，也有不少是单支多剂次包装（卡介苗、流脑A群多糖疫苗、液体剂型脊灰减活疫苗、白破疫苗）。</p>
-<p>单支单剂次：指每支疫苗只接种1人，一盒内只有1支疫苗。这种疫苗一般会封装在密封的塑料包装或铝箔包装内。接种医生应该做到从冰箱内取出疫苗盒，当着你的面撕开塑料或铝箔，取出疫苗进行抽吸操作。</p>
-<p>多支单剂次：指每支疫苗只接种1人，但一盒内有多支疫苗，目前有乙肝疫苗、白百破疫苗、流脑AC多糖疫苗等。这种疫苗，接种医生可能直接从冰箱里拿出单支疫苗进行抽吸操作。这种单支疫苗有2种包装工艺：一种是安瓿，需要用手扳断安瓿的玻璃瓶颈；一种是西林瓶，需要摘下顶部的塑料瓶盖（如下图）：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd9yyyj2j20iy0dsq38.jpg" rel="attachment wp-att-438217"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd9yyyj2j20iy0dsq38.jpg?resize=500%2C364" alt="69a54c65gw1f3vd9yyyj2j20iy0dsq38" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd9yyyj2j20iy0dsq38.jpg?resize=300%2C218 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vd9yyyj2j20iy0dsq38.jpg?w=682 682w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>这种西林瓶的塑料瓶盖摘下后无法再安装上去。你应该注意，接种医生手上的西林瓶是否有塑料瓶盖，摘下瓶盖时是否有扳断的声音。</p>
-<p>单支多剂次：指一支疫苗要供多人接种使用。限于各种因素，我国还有一些免费疫苗做成了单支多剂次。这种疫苗没啥可注意的，还好都是免费疫苗，不至于被换包。</p>
-<p><strong>④索要疫苗包装盒</strong></p>
-<p>你拿到疫苗包装盒后，就可以将盒子上的生产企业、疫苗批号等信息与登记的接种记录进行核对，还可以查看疫苗是否在有效期内。</p>
-<p>绝大多数疫苗包装盒上还有一个20位数字的药品监管码，你可以使用一个叫【药品管家】的官方手机APP扫描药品监管码，查询该疫苗的基础信息和流向信息。其查询结果如下图：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vdb3gtlvj20f00qoaba.jpg" rel="attachment wp-att-438216"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/69a54c65gw1f3vdb3gtlvj20f00qoaba.jpg?resize=450%2C800" alt="69a54c65gw1f3vdb3gtlvj20f00qoaba" data-recalc-dims="1"></a></p>
-<p>对于多支单剂次和单支多剂次包装的疫苗，接种医生没法把单份包装盒和说明书给所有人，你可以用手机拍摄包装盒和说明书。</p>
-<p><strong>四、结语</strong></p>
-<p>五联疫苗是否真的被调包了？我很希望最后证明是我错了，那只是一个误会。</p>
-<p>但不管怎样，我提到的那些注意事项，都有助于提高预防接种的规范性。所有预防接种专业人员，应该主动关注并做好这些细节，让我们的预防接种服务做到无懈可击。</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@围观售楼部：科普的很好，问题是他妈的这些也应该是中国人必修课吗？国家定点给儿童接种疫苗的地方都跟去菜市场一样要时刻防着奸商了？</p>
-<p>@倔小柔：重庆官方发布了调查结果，还是说碰触了护士的皮肤针管被污染，护士就换了一个针管，那么原装针管里面的药呢？而且根本没解释为什么针管被频繁污染。真的当人民是傻瓜啊。</p>
-<p>@yolanda可可：现在怀疑真假已经没有用了啊！五联疫苗打到一半的宝宝怎么办？已经打了2针了，是继续打下去还是换国产疫苗？打完的疫苗的宝宝怎么办？现在辩论真假已经无用了，就算去医院闹也查不出来，我们现在需要的是自救的解决方案，有没有专业人员给我们指引个方向？</p>
-<p>@舔屏美少女：就这样的国家，还要呼吁我们爱国。脸呢</p>
-<p>@夏緯軒-Winans：解决问题的方式不是去掩盖问题。三月份的问题疫苗事件被封锁一年，澎湃算少有的媒体敢于曝光。当初相关部门甚至洗地说是旧新闻，这恰恰证明了封锁消息的事实。最后终于出面说解决问题，却再一次不了了之，至今没有任何联系接种人补种的行动，这等于让注射疫苗尤其狂犬疫苗的同胞在赌命，你们简直禽兽！</p>
-<p>@飞言不可：说实话，这么复杂的问题一般人很难搞清楚，所以，这种事情根本不应该走行政调查代替法律——不是法治社会吗？如此属于非法侵占他人财产的主观故意，且危及他人生命健康，造成恶劣社会影响，就该移交司法，多简单！行政调查不过就是袒护。</p>
-<p>@马菁菁_：现在晓得勒些晚了，已经打了3只五联老，要疯老，我亲爱的儿子，妈妈觉得好对不起你。努力挣钱，好想移……</p>
-<p>@月华静：你要知道五联疫苗一针就要800块，调换的可能性比较大</p>
-<p>@小胡子8888：这个国家烂了！这都要调包！想当初我小孩打什么疫苗工作人员说要988，共两针，我相信他们，乖乖掏钱</p>
-<p>@哆嘟嘟56：实在没想到你居然敢发声，还推测是被调包了，新浪的头条新闻都是删了评论，设置评论，所谓媒体都是些没种的…我就在重庆，重庆的媒体全部集体闭声，来了也走了，不敢报道，这样的社会，这样的中国！真的令人寒心！</p>
-<p>@Ashitaka777：重庆疫苗事件给很多人敲响了警钟 : 我们父辈的沉默，换来了我们的被奴役， 如果我们继续沉默，被奴役的不单只有我们， 还有我们的下一代。</p>
-<p><a href="http://weibo.com/2522353420" target="_blank">@物名事</a>：各位医生咋不提医闹了,咋不评论了,咋不说没医生了患者怎么办？谋财害命,死得还是少,唉,精神病人不够用,这届病人不行<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%94%E8%81%94%E7%96%AB%E8%8B%97%EF%BC%8C%E8%A2%AB%E5%81%B7%E6%A2%81%E6%8D%A2%E6%9F%B1%E4%BA%86%E4%B9%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97%E5%AE%89%E5%85%A8/?category=18271" rel="tag">疫苗安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8/?category=18271" rel="tag">监管部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E5%BA%86%E5%81%87%E7%96%AB%E8%8B%97/?category=18271" rel="tag">重庆假疫苗</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -745,5 +660,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%96%AB%E8%8B%97
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,118 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5-%E8%94%A1%E8%8B%B1%E6%96%87520%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E5%85%A8%E6%96%87/" target="cdt-mirror">联合早报 | 台湾总统蔡英文520就职演说全文</a>
+</h2>
+<p><p><strong>台湾总统蔡英文今天发表就职演说，以下为演说全文：</strong></p>
+<p>各位友邦的元首与贵宾、各国驻台使节及代表、现场的好朋友，全体国人同胞，大家好</p>
+<p><strong>感谢与承担</strong></p>
+<p>就在刚刚，我和陈建仁已经在总统府里面，正式宣誓就任中华民国第十四任总统与副总统。我们要感谢这块土地对我们的栽培，感谢人民对我们的信任，以及，最重要的，感谢这个国家的民主机制，让我们透过和平的选举过程，实现第三次政党轮替，并且克服种种不确定因素，顺利渡过长达四个月的交接期，完成政权和平移转。</p>
+<p>台湾，再一次用行动告诉世界，作为一群民主人与自由人，我们有坚定的信念，去扞卫民主自由的生活方式。这段旅程，我们每一个人都参与其中。亲爱的台湾人民，我们做到了。</p>
+<p>我要告诉大家，对于一月十六日的选举结果，我从来没有其他的解读方式。人民选择了新总统、新政府，所期待的就是四个字：解决问题。此时此刻，台湾的处境很困难，迫切需要执政者义无反顾的承担。这一点，我不会忘记。</p>
+<p>我也要告诉大家，眼前的种种难关，需要我们诚实面对，需要我们共同承担。所以，这个演说是一个邀请，我要邀请全体国人同胞一起来，扛起这个国家的未来。</p>
+<p>国家不会因为领导人而伟大；全体国民的共同奋斗，才让这个国家伟大。总统该团结的不只是支持者，总统该团结的是整个国家。团结是为了改变，这是我对这个国家最深切的期待。在这里，我要诚恳地呼吁，请给这个国家一个机会，让我们抛下成见，抛下过去的对立，我们一起来完成新时代交给我们的使命。</p>
+<p>在我们共同奋斗的过程中，身为总统，我要向全国人民宣示，未来我和新政府，将领导这个国家的改革，展现决心，绝不退缩。</p>
+<p><strong>为年轻人打造一个更好的国家</strong></p>
+<p>未来的路并不好走，台湾需要一个正面迎向一切挑战的新政府，我的责任就是领导这个新政府。</p>
+<p>我们的年金制度，如果不改，就会破产。</p>
+<p>我们僵化的教育制度，已经逐渐与社会脉动脱节。</p>
+<p>我们的能源与资源十分有限，我们的经济缺乏动能，旧的代工模式已经面临瓶颈，整个国家极需要新的经济发展模式。</p>
+<p>我们的人口结构急速老化，长照体系却尚未健全。</p>
+<p>我们的人口出生率持续低落，完善的托育制度却始终遥遥无期。</p>
+<p>我们环境污染问题仍然严重。</p>
+<p>我们国家的财政并不乐观。</p>
+<p>我们的司法已经失去人民的信任。</p>
+<p>我们的食品安全问题，困扰着所有家庭。</p>
+<p>我们的贫富差距越来越严重。</p>
+<p>我们的社会安全网还是有很多破洞。</p>
+<p>最重要的，我要特别强调，我们的年轻人处于低薪的处境，他们的人生，动弹不得，对于未来，充满无奈与茫然。</p>
+<p>年轻人的未来是政府的责任。如果不友善的结构没有改变，再多个人菁英的出现，都不足以让整体年轻人的处境变好。我期许自己，在未来的任期之内，要一步一步，从根本的结构来解决这个国家的问题。</p>
+<p>这就是我想为台湾的年轻人做的事。虽然我没有办法立刻帮所有的年轻人加薪，但是我愿意承诺，新政府会立刻展开行动。请给我们一点时间，也请跟我们一起走上改革的这一条路。</p>
+<p>改变年轻人的处境，就是改变国家的处境。一个国家的年轻人没有未来，这个国家必定没有未来。帮助年轻人突破困境，实现世代正义，把一个更好的国家交到下一代手上，就是新政府重大的责任。</p>
+<p><strong>第一、 经济结构的转型</strong></p>
+<p>要打造一个更好的国家，未来，新政府要做到以下几件事情。</p>
+<p>首先，就是让台湾的经济结构转型。这是新政府所必须承担的最艰钜使命。我们不要妄自菲薄，更不要失去信心。台湾有很多别的国家没有的优势，我们有海洋经济的活力和靭性，高素质的人力资源、务实可靠的工程师文化、完整的产业链、敏捷灵活的中小企业，以及，永不屈服的创业精神。</p>
+<p>我们要让台湾经济脱胎换骨，就必须从现在起就下定决心，勇敢地走出另外一条路。这一条路，就是打造台湾经济发展的新模式。</p>
+<p>新政府将打造一个以创新、就业、分配为核心价值，追求永续发展的新经济模式。改革的第一步，就是强化经济的活力与自主性，加强和全球及区域的连结，积极参与多边及双边经济合作及自由贸易谈判，包括TPP、RCEP等，并且，推动新南向政策，提升对外经济的格局及多元性，告别以往过于依赖单一市场的现象。</p>
+<p>除此之外，新政府相信，唯有激发新的成长动能，我们才能突破当前经济的停滞不前。我们会以出口和内需作为双引擎，让企业生产和人民生活互为表里，让对外贸易和在地经济紧密连结。</p>
+<p>我们会优先推动五大创新研发计画，藉着这些产业来重新塑造台湾的全球竞争力。我们也要积极提升劳动生产力，保障劳工权益，让薪资和经济成长能同步提升。</p>
+<p>这是台湾经济发展的关键时刻。我们有决心，也有沟通能力。我们已经有系统性的规划，未来，会以跨部会联手的模式，把整个国家的力量集结起来，一起来催生这个新模式。</p>
+<p>在经济发展的同时，我们不要忘记对环境的责任。经济发展的新模式会和国土规划、区域发展及环境永续，相互结合。产业的布局和国土的利用，应该抛弃零碎的规画，和短视近利的眼光。我们必须追求区域的均衡发展，这需要中央来规画、整合，也需要地方政府充分发挥区域联合治理的精神。</p>
+<p>我们也不能再像过去，无止尽地挥霍自然资源及国民健康。所以，对各种污染的控制，我们会严格把关，更要让台湾走向循环经济的时代，把废弃物转换为再生资源。对于能源的选择，我们会以永续的观念去逐步调整。新政府会严肃看待气候变迁、国土保育、灾害防治的相关议题，因为，我们只有一个地球，我们也只有一个台湾。</p>
+<p><strong>第二、 强化社会安全网</strong></p>
+<p>新政府必须要承担的第二件事情，就是强化台湾的社会安全网。这些年，几件关于儿少安全及随机杀人的事件，都让整个社会震惊。不过，一个政府不能永远在震惊，它必须要有同理心。没有人可以替受害者家属承受伤痛，但是，一个政府，尤其是第一线处理问题的人，必须要让受害者以及家属觉得，不幸事件发生的时候，政府是站在他们这一边。</p>
+<p>除了同理心之外，政府更应该要提出解决的方法。全力防止悲剧一再发生，从治安、教育、心理健康、社会工作等各个面向，积极把破洞补起来。尤其是治安与反毒的工作，这些事情，新政府会用最严肃的态度和行动来面对。</p>
+<p>在年金的改革方面，这是攸关台湾生存发展的关键改革，我们不应该迟疑，也不可以躁进。由陈建仁副总统担任召集人的年金改革委员会，已经紧锣密鼓在筹备之中。过去的政府在这个议题上，曾经有过一些努力。但是，缺乏社会的参与。新政府的做法，是发动一个集体协商，因为年金改革必须是一个透过协商来团结所有人的过程。</p>
+<p>这就是为什么，我们要召开年金改革国是会议，由不同阶层、不同职业代表，在社会团结的基础上，共同协商。一年之内，我们会提出可行的改革方案。无论是劳工还是公务员，每一个国民的退休生活都应该得到公平的保障。</p>
+<p>另外，在长期照顾的议题上，我们将会把优质、平价、普及的长期照顾系统建立起来。和年金改革一样，长照体系也是一个社会总动员的过程。新政府的做法是由政府主导和规划，鼓励民间发挥社区主义的精神，透过社会集体互助的力量，来建立一套妥善而完整的体系。每一个老年人都可以在自己熟悉的社区，安心享受老年生活，每一个家庭的照顾压力将会减轻。照顾老人的工作不能完全让它变成自由市场。我们会把责任扛起来，按部就班来规划与执行，为超高龄社会的来临，做好准备。</p>
+<p><strong>第三、 社会的公平与正义</strong></p>
+<p>新政府要承担的第三件事情，就是社会的公平与正义。在这个议题上，新政府会持续和公民社会一起合作，让台湾的政策更符合多元、平等、开放、透明、人权的价值，让台湾的民主机制更加深化与进化。</p>
+<p>新的民主制度要能够上路，我们必须先找出面对过去的共同方法。未来，我会在总统府成立真相与和解委员会，用最诚恳与谨慎的态度，来处理过去的历史。追求转型正义的目标是在追求社会的真正和解，让所有台湾人都记取那个时代的错误。</p>
+<p>我们将从真相的调查与整理出发，预计在三年之内，完成台湾自己的转型正义调查报告书。我们将会依据调查报告所揭示的真相，来进行后续的转型正义工作。挖掘真相、弥平伤痕、厘清责任。从此以后，过去的历史不再是台湾分裂的原因，而是台湾一起往前走的动力。</p>
+<p>同样在公平正义的议题上，我会秉持相同的原则，来面对原住民族的议题。今天的就职典礼，原住民族的小朋友在唱国歌之前，先唱了他们部落传统的古调。这象征了，我们不敢忘记，这个岛上先来后到的顺序。</p>
+<p>新政府会用道歉的态度，来面对原住民族相关议题，重建原民史观，逐步推动自治，复育语言文化，提升生活照顾，这就是我要领导新政府推动的改变。</p>
+<p>接下来，新政府也会积极推动司法改革。这是现阶段台湾人民最关心的议题。司法无法亲近人民、不被人民信任、司法无法有效打击犯罪，以及，司法失去作为正义最后一道防线的功能，是人民普遍的感受。</p>
+<p>为了展现新政府的决心，我们会在今年十月召开司法国是会议，透过人民实际的参与，让社会力进来，一起推动司法改革。司法必须回应人民的需求，不再只是法律人的司法，而是全民的司法。司法改革也不只是司法人的家务事，而是全民参与的改革。这就是我对司法改革的期待。</p>
+<p><strong>第四、区域的和平稳定发展及两岸关系</strong></p>
+<p>新政府要承担的第四件事情，是区域的和平稳定与发展，以及妥善处理两岸关系。过去三十年，无论是对亚洲或是全球，都是变动最剧烈的时期；而全球及区域的经济稳定和集体安全，也是各国政府越来越关切的课题。</p>
+<p>台湾在区域发展当中，一直是不可或缺的关键角色。但是近年来，区域的情势快速变动，如果台湾不善用自己的实力和筹码，积极参与区域事务，不但将会变得无足轻重，甚至可能被边缘化，丧失对于未来的自主权。</p>
+<p>我们有危机，但也有转机。台湾现阶段的经济发展，和区域中许多国家高度关联和互补。如果将打造经济发展新模式的努力，透过和亚洲、乃至亚太区域的国家合作，共同形塑未来的发展策略，不但可以为区域的经济创新、结构调整和永续发展，做出积极的贡献，更可以和区域内的成员，建立紧密的“经济共同体”意识。</p>
+<p>我们要和其他国家共享资源、人才与市场，扩大经济规模，让资源有效利用。“新南向政策”就是基于这样的精神。我们会在科技、文化与经贸等各层面，和区域成员广泛交流合作，尤其是增进与东协、印度的多元关系。为此，我们也愿意和对岸，就共同参与区域发展的相关议题，坦诚交换意见，寻求各种合作与协力的可能性。</p>
+<p>在积极发展经济的同时，亚太地区的安全情势也变得越来越复杂，而两岸关系，也成为建构区域和平与集体安全的重要一环。这个建构的进程，台湾会做一个“和平的坚定维护者”，积极参与，绝不缺席；我们也将致力维持两岸关系的和平稳定；我们更会努力促成内部和解，强化民主机制，凝聚共识，形成一致对外的立场。</p>
+<p>对话和沟通，是我们达成目标最重要的关键。台湾也要成为一个“和平的积极沟通者”，我们将和相关的各方，建立常态、紧密的沟通机制，随时交换意见，防止误判，建立互信，有效解决争议。我们将谨守和平原则、利益共享原则，来处理相关的争议。</p>
+<p>我依照中华民国宪法当选总统，我有责任扞卫中华民国的主权和领土；对于东海及南海问题，我们主张应搁置争议，共同开发。</p>
+<p>两岸之间的对话与沟通，我们也将努力维持现有的机制。1992年两岸两会秉持相互谅解、求同存异的政治思维，进行沟通协商，达成若干的共同认知与谅解，我尊重这个历史事实。92年之后，20多年来双方交流、协商所累积形成的现状与成果，两岸都应该共同珍惜与维护，并在这个既有的事实与政治基础上，持续推动两岸关系和平稳定发展；新政府会依据中华民国宪法、两岸人民关系条例及其他相关法律，处理两岸事务。两岸的两个执政党应该要放下历史包袱，展开良性对话，造福两岸人民。</p>
+<p>我所讲的既有政治基础，包含几个关键元素，第一，1992年两岸两会会谈的历史事实与求同存异的共同认知，这是历史事实；第二，中华民国现行宪政体制；第三，两岸过去20多年来协商和交流互动的成果；第四，台湾民主原则及普遍民意。</p>
+<p><strong>第五、外交与全球性议题</strong></p>
+<p>新政府要承担的第五件事情，是善尽地球公民的责任，在外交与全球性的议题上做出贡献。让台湾走向世界，也要让世界走进台湾。</p>
+<p>现场有许多来自各国的元首与使节团，我要特别谢谢他们，长久以来一直帮助台湾，让我们有机会参与国际社会。未来，我们会持续透过官方互动、企业投资与民间合作各种方式，分享台湾发展的经验，与友邦建立永续的伙伴关系。</p>
+<p>台湾是全球公民社会的模范生，民主化以来，我们始终坚持和平、自由、民主及人权的普世价值。我们会秉持这个精神，加入全球议题的价值同盟。我们会继续深化与包括美国、日本、欧洲在内的友好民主国家的关系，在共同的价值基础上，推动全方位的合作。</p>
+<p>我们会积极参与国际经贸合作及规则制定，坚定维护全球的经济秩序，并且融入重要的区域经贸体系。我们也不会在防制全球暖化、气候变迁的议题上缺席。我们将会在行政院设立专责的能源和减碳办公室，并且根据COP21巴黎协议的规定，定期检讨温室气体的减量目标，与友好国家携手，共同维护永续的地球。</p>
+<p>同时，新政府会支持并参与，全球性新兴议题的国际合作，包括人道救援、医疗援助、疾病的防治与研究、反恐合作，以及共同打击跨国犯罪，让台湾成为国际社会不可或缺的伙伴。</p>
+<p><strong>结语</strong></p>
+<p>1996年台湾第一次总统直选，到今天刚好20年。过去20年，在几任政府以及公民社会的努力之下，我们成功渡过了许多新兴民主国家必须面对的难关。在这个过程中，我们曾经有过许多感动人心的时刻和故事，不过，正如同世界上其他国家一样，我们也曾经有过焦虑、不安、矛盾、与对立。</p>
+<p>我们看到了社会的对立，进步与保守的对立，环境与开发的对立，以及，政治意识之间的对立。这些对立，曾经激发出选举时的动员能量，不过也因为这些对立，我们的民主逐渐失去了解决问题的能力。</p>
+<p>民主是一个进程，每一个时代的政治工作者，都要清楚认识他身上所肩负的责任。民主会前进，民主也有可能倒退。今天，我站在这里，就是要告诉大家，倒退不会是我们的选项。新政府的责任就是把台湾的民主推向下一个阶段：以前的民主是选举的输赢，现在的民主则是关于人民的幸福；以前的民主是两个价值观的对决，现在的民主则是不同价值观的对话。</p>
+<p>打造一个没有被意识形态绑架的“团结的民主”，打造一个可以回应社会与经济问题的“有效率的民主”，打造一个能够实质照料人民的“务实的民主”，这就是新时代的意义。</p>
+<p>只要我们相信，新时代就会来临。只要这个国家的主人，有坚定的信念，新时代一定会在我们这一代人的手上诞生。</p>
+<p>各位亲爱的台湾人民，演讲要结束了，改革要开始了。从这一刻起，这个国家的担子交在新政府身上。我会让大家看见这个国家的改变。</p>
+<p>历史会记得我们这个勇敢的世代，这个国家的繁荣、尊严、团结、自信和公义，都有我们努力的痕迹。历史会记得我们的勇敢，我们在2016年一起把国家带向新的方向。这块土地上的每一个人，都因为参与台湾的改变，而感到骄傲。</p>
+<p>刚才表演节目中的一首歌曲当中，有一句让我很感动的歌词：</p>
+<p>(台语)现在是彼一天，勇敢ㄟ台湾人。</p>
+<p>各位国人同胞，两千三百万的台湾人民，等待已经结束，现在就是那一天。今天，明天，未来的每一天，我们都要做一个守护民主、守护自由、守护这个国家的台湾人。</p>
+<p>谢谢大家。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5-%E8%94%A1%E8%8B%B1%E6%96%87520%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E5%85%A8%E6%96%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8/?category=18271" rel="tag">两岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89/?category=18271" rel="tag">公平正义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF%E4%BD%93%E5%88%B6/?category=18271" rel="tag">宪政体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4/?category=18271" rel="tag">就职演说</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%85%9A/?category=18271" rel="tag">执政党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88/?category=18271" rel="tag">改革方案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%90%8C%E5%AD%98%E5%BC%82/?category=18271" rel="tag">求同存异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E7%BB%93%E6%9E%84/?category=18271" rel="tag">经济结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B3%95%E5%B9%BF-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E7%A7%91%E9%99%A2%E5%AE%A3%E5%B8%83-%E5%B0%86%E5%AF%B9%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E8%BF%9B%E8%A1%8C%E6%84%8F%E8%AF%86%E5%BD%A2/" target="cdt-mirror">法广 | 中国社科院宣布 将对学位论文进行“意识形态审读”</a>
+</h2>
+<p><p><strong>两天前（5月17日），习近平在京召开哲学社会科学工作座谈会并发表讲话。习近平提出要构建中国特色哲学社会科学，在指导思想、学科体系、学术体系、话语体系等方面充分体现“中国特色、中国风格、中国气派”。</strong></p>
+<p>昨天（5月18日），据社科院知情人士透露，近日，社科院党组对各教学系、教育中心发出通知，称据《中央纪委驻中国社会科学院纪检组纪律检查建议书》（2016年第28期）的要求，中国社科院的学位论文需进行意识形态审读。</p>
+<p>中国社会科学院（CASS）是中共中央直接领导、国务院直属的社会科学研究机构。据说，其三大定位是：马克思主义的坚强阵地、中国哲学社会科学研究的最高殿堂、党中央国务院重要的思想库和智囊团。</p>
+<p>此番“意识形态审读”相信是习近平提出的构建“中国特色”哲学社会科学的重要举措。</p>
+<p>根据该通知，在中国社科院学位论文的评阅、答辩和审议过程中，将着重审查学位论文是否存在以下四个方面的问题。</p>
+<p>首先，是否存在坚持资产阶级自由化立场、反对四项基本原则，反对党的改革开放决策等情况；其次，是否违背党的基本理论、基本路线、基本纲领、基本经验、基本要求或者重大方针政策；第三，是否存在丑化党和国家形象，或者诋毁、诬蔑党和国家领导人，或者歪曲党史、军史等情形；最后，是否存在“去意识形态化”问题。</p>
+<p>去年底，中共中央第一巡视组对中国社会科学院进行了专项巡视。1月31日，中央第一巡视组向中国社会科学院党组反馈了专项巡视意见。</p>
+<p>根据社科院网站消息，中央第一巡视组组长王怀臣当时要求，社科院应对理论学术舆情研判，对错误思潮和言论及时发声、敢于亮剑。加强院所期刊、报纸、网络等意识形态阵地和境外合作项目的管理。</p>
+<p>4月29日，社科院党组在中纪委网站发布了“关于专项巡视整改情况的通报”，专项提出了“意识形态学术阵地存在问题”的整改。</p>
+<p>提出了五项具体政策有：加强研讨会、论坛、讲座、交流会等意识形态阵地和学术活动的监督管理工作，不给错误言论提供传播渠道；加强对学术期刊的监督管理，对违反政治纪律的相关单位和责任人作出处理。督促院属期刊加强政治方向、学术质量把关；是修订完善《中国社会科学院学术期刊采编指南》，强化问责机制，确保院属期刊不发表存在政治方向问题的文章；是严格执行重大出版选题送审备案制度，严格执行三审制度，对政治倾向有问题、思想观点存在错误的选题和书稿，坚决予以撤销；是启动创新工程资助图书质量检查工作，重点查处出版社政治方向和出版导向的违规出版行为。</p>
+<p>此次对学位论文进行“意识形态审读”，与巡视整改措施直接相关。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B3%95%E5%B9%BF-%E4%B8%AD%E5%9B%BD%E7%A4%BE%E7%A7%91%E9%99%A2%E5%AE%A3%E5%B8%83-%E5%B0%86%E5%AF%B9%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87%E8%BF%9B%E8%A1%8C%E6%84%8F%E8%AF%86%E5%BD%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">国家形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%87%E5%AF%BC%E6%80%9D%E6%83%B3/?category=18271" rel="tag">指导思想</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E7%A7%91%E9%99%A2/?category=18271" rel="tag">社科院</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8F%82%EF%BC%88%E7%BE%8E%EF%BC%89%E5%86%9B%E5%90%A7-%E5%85%84%E5%BC%9F%EF%BC%81/" target="cdt-mirror">【图说天朝】参（美）军吧 兄弟！</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/humeibast" target="_blank">@湖美百事通</a>：我们的人里面出现了一个叛徒～！@防务君 武汉·五里界街区</p></blockquote>
@@ -606,73 +715,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%AD%94%E5%B9%BB%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E7%BB%93%E5%B1%80/" target="cdt-mirror">【图说天朝】魔幻现实主义结局</a>
-</h2>
-<p><p>@蚍蜉种树：2014年，汪龙起诉了中国联通，因为它没有提供完整的互联网服务（上不去 Google）。这个案子，最后的结局，居然是如此这般魔幻现实主义。本文已经获得原作者授权转载。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/DDav4.jpg?resize=600%2C560" alt="DDav4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/DDav4.jpg?resize=300%2C280 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/DDav4.jpg?w=640 640w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><strong>新闻背景：</strong></p>
-<p><a href="http://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9B%A0%E6%97%A0%E6%B3%95%E7%99%BB%E9%99%86%E8%B0%B7%E6%AD%8C%E7%8A%B6%E5%91%8A%E8%81%94%E9%80%9A/a-17903260" target="_blank">德国之声 | 中国公民因无法登陆谷歌状告联通</a></p>
-<p><a href="http://www.letscorp.net/archives/75792" target="_blank">墙外楼 | 公民汪龙起诉中国联通“封锁谷歌第一案”开庭</a></p>
-<p><a href="http://www.bbc.com/zhongwen/simp/china/2014/09/140930_shenzhen_wanglong_hk" target="_blank">BBC | 深圳市民汪龙因转发香港占中帖被刑拘</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%AD%94%E5%B9%BB%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E7%BB%93%E5%B1%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%AA%E9%BE%99/?category=18271" rel="tag">汪龙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8A%B6%E5%91%8A%E8%81%94%E9%80%9A/?category=18271" rel="tag">状告联通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B0%B7%E6%AD%8C/?category=18271" rel="tag">谷歌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%9F%A9%E5%AF%92%E9%A9%AC%E4%BC%AF%E5%BA%B8%E8%A2%AB%E9%BB%91%E6%9C%80%E7%8B%A0%E7%9A%84%E4%B8%80%E6%AC%A1/" target="cdt-mirror">【网络民议】韩寒马伯庸被黑最狠的一次</a>
-</h2>
-<p><p><strong>盖范 | 洞房夜抄党章的小夫妻现实中却爱韩寒、马伯庸</strong></p>
-<p>洞房花烛夜，做什么事情才能让人一辈子难以忘怀？这两天的新闻报道告诉我们春宵一刻“抄党章”。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?resize=550%2C370" alt="16129128_980x1200_0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?resize=300%2C202 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/16129128_980x1200_0.png?w=601 601w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>“南昌铁路”微信公号发文称，南昌供电段南昌西供电车间助理工程师李云鹏、检修车间助工陈宣池新婚之夜，铺开纸张，工整地抄下党章，给新婚之夜留下美好记忆。对于新婚之夜抄党章这事，各种调侃与观点很多，我们就一一累述了。不过大家在感叹之余，似乎很少关注现实中他们这对夫妻到底是怎样的人。</p>
-<p>据我们了解，他们一点也不像传统意义上的“小粉红”。似乎与我们一样，听着欧美流行音乐，喜欢韩寒、马伯庸。</p>
-<p><strong>女方：听着詹姆斯·布朗特写群众路线材料</strong></p>
-<p>同在南昌铁路局下属南昌供电段工作的李云鹏、陈宣池这对小夫妻，实际上并不是在近期结婚的。今年4月26日，南昌铁路局为了本系统职工们在婺源举办了一场集体婚礼。当时多家媒体在报道中都使用了李云鹏掀开陈宣池盖头的图片。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e593ba1e0562b037bbfa056c231cada7.jpeg?resize=554%2C311" alt="e593ba1e0562b037bbfa056c231cada7" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e593ba1e0562b037bbfa056c231cada7.jpeg?resize=300%2C168 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/e593ba1e0562b037bbfa056c231cada7.jpeg?w=554 554w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"></p>
-<p>被掀开盖头陈宣池是本次“洞房抄党章”事件中的重要人物之一，现实中的她实际上是一个“挺有意思”的人。对外来看，她是一名“活动积极分子”。“南昌铁路”官方微博曾在2014年7月16日发过一条带视频的微博，微博内容是关于他们主办的一次主题演讲比赛。这条微博配发的视频便是那场比赛1号选手陈宣池的演讲。</p>
-<p>陈宣池当时演讲的主题是“我的中国梦，我的铁路情”，看起来并没有十分突出的地方。或许，与演讲相比，她更擅长唱歌。她在“唱吧”上存了不少自己演唱得曲目，值得一提的是，我们把她用粤语演唱的《漫步人生路》给了多位广东小伙伴听，大家一致认为她粤语相当不错。</p>
-<p>从她的个人微博上来看，她更像一位内敛的“文艺女青年”。今年2月，她也参与了韩寒发起的关于把哪部作品拍摄成电影的投票，她投票给了“一座城池”。早年间“韩方大战”的时候，她转发微博评论韩寒的手稿“韩寒！！！”，配上了三个惊叹号。</p>
-<p>对于马伯庸，她应该是觉得马亲王在某些时候和自己观点一致，比如当年柴静雾霾纪录片争议的时候，她就转发了亲王的评论。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4061ffe34c020c49535b0b8b8aa5ca85.jpeg?resize=545%2C150" alt="图为陈宣池微博截图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4061ffe34c020c49535b0b8b8aa5ca85.jpeg?resize=300%2C83 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4061ffe34c020c49535b0b8b8aa5ca85.jpeg?w=545 545w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1"><p>图为陈宣池微博截图</p></div>
-<p>另外，她也是一名知乎的重度用户。在她微博上，分享了不少知乎里面优秀问答的链接，从“如何挑选旗袍”这种生活常识到“如何为PPT找配图”这种工作技能，她应该都依靠知乎在学习。</p>
-<p>她对欧美音乐有种特别的爱，她甚至会在写群众路线材料的时候听詹姆斯·布朗特。她自己在微博介绍中也专门表明了“浅爱欧美音乐”。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/11597006da8c646c1a1dd34a2f6cb528.jpg?resize=550%2C138" alt="图为陈宣池微博截图" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/11597006da8c646c1a1dd34a2f6cb528.jpg?resize=300%2C75 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/11597006da8c646c1a1dd34a2f6cb528.jpg?w=538 538w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>图为陈宣池微博截图</p></div>
-<p><strong>男方：用“人生最大的愚蠢是欺骗”激励自己</strong></p>
-<p>相较于女方私下表现出的才气，男方表现出来的就少多了。作为这次“洞房抄党章”的关键人物，李云鹏自己的微博乍看一样更像“营销小马甲”。因为他最近三条微博都是关于乐视抽奖活动的，我们估计他很可能是因为结婚的原因，想免费抽一台乐视超级电视。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/30c4dd99d368929ab3434f04b8a0b0c0.jpeg?resize=210%2C213" alt="图为李云鹏微博头像" data-recalc-dims="1"><p>图为李云鹏微博头像</p></div>
-<p>不过，乐视官方似乎并没有随他的愿。再更早之前的微博，大多是关于吃吃喝喝。并且时不时@ 一下自己的女朋友。从这里来看，看来追女孩子最好的办法，还是不断地请对方吃好吃的……</p>
-<p>在他身上非常有意思是，他在自己的微博简介中写下的一段话：</p>
-<blockquote><p><strong>人生最大的敌人是自己。人生最大的失败是自大。人生最大的愚蠢是欺骗。人生最可怜的是嫉妒。人生最大的错误是自卑。</strong></p></blockquote>
-<p>从这段话中我们不难看出，他应该是一个有着“力争上游”思想的人。或许他还是朝着各个方面在努力的。据我们所知，华东交通大学2014年在职工程硕士拟录取名单中，就有一个“李云鹏”的名字，“电气工程”专业与抄党章的这位李云鹏刚好契合。2014年，李云鹏还参加了专业技术人员职称外语考试，当时他只拿了一个C级，刚好够评上初级职称。</p>
-<p>最后，我们想跟大家分享一下他们身上有趣的现场：这对在洞房抄党章的夫妻，在微博上几乎从不秀恩爱。而且4月中旬集体婚礼前夕开始，两人也再也没有发过微博了。</p>
-<p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E5%A9%9A%E4%B9%8B%E5%A4%9C%E6%9D%A5%E7%82%B9%E6%B1%A1%E7%9A%84/" target="_blank">【网络民议】新婚之夜来点污的</a></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>@yycyrus：这是韩寒和马伯庸在微博上被黑的最狠的一次。</p>
-<p>@起床好难-：真是上辈子倒血霉被这样的人喜欢。</p>
-<p>@桔子你个大西瓜_：评论里都说这是在黑@马伯庸 和 @韩寒。我倒觉得情况基本属实，反正大家都活在《寂静之城》和《他的国》里。</p>
-<p>@根红苗歪：抄了一晚上的党章，仍然过不好这一生。</p>
-<p>@Q江湖乱弹Q：组织上安排的高大上闹洞房比群众自发的下三路闹洞房不知道高到哪里去了！晓得伐侬！</p>
-<p>@龙廷国旅魅途网顾险峰：为什么不抄宪法。</p>
-<p>@邓眼WHO说：人格精神双重分裂才能修炼到如此境界。</p>
-<p>@郁侬：党性猖狂，人性泯灭。党性终于压倒了人性。</p>
-<p>@Hi-RainMan：人生四大悲：洞房春宵抄党章，洗脚足疗遇嫖娼，久病住院逢莆田，金榜指标落他乡。</p>
-<p>@mozhixu：拿新婚之夜抄党章开涮的人，有点太假装你国目前是正常国家了。这是所谓两学一做活动捧出来的典型，是你国掌握权力、资源、符号的人群正搞得很起劲的日常活动。两口子确实官迷心窍了一点，但别不服气，就是这样的人正在和将要统治着你，靠开涮和嘲笑改变不了这个事实的。</p>
-<p>@MyDF：阿伦特说：“权威的最大敌人是轻蔑，而破坏它的最有效的方法是嘲笑。”这是一个全民段子手的时代，这是消解威权的精神狂欢。伟大光荣正确的执政党被扯掉底裤群嘲，这是正在发生的事实。</p>
-<p>@laoyang945： 新婚之夜应该用双方体毛混合起来做的一支毛笔，蘸着落红(如果还有)抄一遍党章才有纪念意义啊。</p>
-<p>@千里马常有：【新婚之夜抄完党章之后】新婚夜的晚上，抄完党章后，大哥哥和妹子心照不宣地回到卧室。“你……？” 大哥刚想说些什么，却被一只玉手捂住了嘴。“嘘……“ 妹子把头凑到哥哥耳边，轻声说：“……今天是新婚夜……人家……人家想和你一起……一起……建设中国特色社会主义新农村嘛……”只感到一股社会责任感与民族归属感冲上了他的头，于是双手开始不自觉的对妹子薄薄的一带一路实行伟大的改革开放政策，牢牢把握一个中心两个基本点，刺激消费扩大内需。让一切创造财富的潺泉涌流……“啊……啊……那里不行……我的社会主义核心价值观……要缺失了……”话音未落，哥哥那高速增长的GDP已经在经济特区开始了社会主义现代化建设，深入贯彻落实“三个代表”重要思想，以人为本推动经济社会发展，围绕主题，抓住主线，全面提高开放型经济水平，坚持“引进来”和“走出去”相结合的战略，优化结构，拓展深度，极大地初进了社会生产力的发展。而妹子则结合具体国情，新出台了紧缩性财政政策缓解通货膨胀，吸纳了大量社会流动资金，取得了卓越成效。“供给则经济太有效了……“ 哥哥满头大汗的感叹：“原来以为经过那么多年量化宽松，经济水平难以持续，没想到，社会越来越和谐，社会经济稳定持续增长了呢……”哥哥直起身来，开始实施创新驱动发展战略，深化改革，加快转变经济发展方式的主攻方向，促进资本在全球范围内的流动。牢牢扭住经济建设为中心，聚精会神搞建设，一心一意谋发展，推动了城乡发展一体化。在大哥哥的双轮驱动之下，妹子日益增长的物质文化需求终于无法忍受：”啊……啊……要全面建成……小康社会了……马上……马上……就要实现共产主义了……啊……好幸福……”“啊……我….也快要实现伟大中国梦了！”</p>
-<p>@草水北口：新婚之夜抄党章，摄影大师入洞房。</p>
-<p>@VikongLi：本想拍马屁，奈何手段太拙劣，反而变成抹黑。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%9F%A9%E5%AF%92%E9%A9%AC%E4%BC%AF%E5%BA%B8%E8%A2%AB%E9%BB%91%E6%9C%80%E7%8B%A0%E7%9A%84%E4%B8%80%E6%AC%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -684,7 +726,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -694,5 +736,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

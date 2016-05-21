@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,90 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E7%AE%A1%E5%AE%83%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E9%80%9A%E7%A8%BF%E8%AF%B4%E6%98%AF%E9%B9%BF%E6%88%91%E4%BB%AC%E5%86%B3%E4%B8%8D%E8%AF%B4%E6%98%AF%E9%A9%AC/" target="cdt-mirror">【网络民议】不管它是什么，通稿说是鹿我们决不说是马</a>
+</h2>
+<p><p><strong>【编者注】截至发稿时，这则曾有4千多条评论和2千多次转发的热门微博已遭删除。</strong></p>
+<blockquote><p><a href="http://weibo.com/renminwang" target="_blank">@人民网</a> ：#保护方言#在你们那，这叫什么？<img title="[馋嘴]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a5/cza_org.gif" alt="[馋嘴]" data-recalc-dims="1"></p></blockquote>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%BA%E6%B0%91%E7%BD%91-1.jpg" rel="attachment wp-att-438521"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%BA%E6%B0%91%E7%BD%91-1.jpg?resize=525%2C430" alt="人民网" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网-1.jpg?resize=300%2C246 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网-1.jpg?resize=768%2C629 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网-1.jpg?resize=1024%2C839 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网-1.jpg?w=2410 2410w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>人民网官方微博内容网页截屏；来自中国数字时代</span></p></div>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/vipskaterboy" target="_blank">@老铁匠的洋葱</a>：枪杆子<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/luochangping" target="_blank">@罗昌平</a> ：坐等通稿。</p>
+<p><a href="http://weibo.com/n/%E4%B8%8A%E8%A1%97%E9%87%8C?from=feed&loc=at" target="_blank">@上街里</a>:不知道，一切以新华社通稿为准<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/n/%E8%80%81%E5%A4%AB%E5%AE%8B%E7%A5%96%E6%B3%95?from=feed&loc=at" target="_blank">@老夫宋祖法</a>:不管它是什么，你说是鹿，我们决不说是马。</p>
+<p><strong>@rzluhai：我是权威人士，这叫竹鞭（主编）</strong></p>
+<p><a href="http://weibo.com/n/%E5%B9%BF%E5%B7%9E%E5%9F%8E%E5%A0%A1%E5%A0%A1%E4%B8%BB?from=feed&loc=at" target="_blank">@广州城堡堡主</a>:领导说叫什么就是什么<img title="[闭嘴]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif" alt="[闭嘴]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2471169362" target="_blank">@yue出dong山</a><i></i>：人日御用：谣棍～<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/n/%E5%8C%97%E9%A9%AC%E5%8D%97%E5%B1%B1?from=feed&loc=at" target="_blank">@北马南山</a>:不信谣，不传谣。<img title="[闭嘴]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif" alt="[闭嘴]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/paocaitan" target="_blank">@泡菜谭</a><i title="微博个人认证 "></i>：不敢说，会被删帖抓人</p>
+<p>@林奇视角：这不会是引蛇出洞吧</p>
+<p>@凄风苦雨话中国：党说啥是啥</p>
+<p>@张洲：这东西在我们那叫“党和政府无微不至的关怀”。</p>
+<p><strong>@我是回复王：你都说叫什么了，这东西就叫什么，不敢妄议</strong></p>
+<p><a href="http://weibo.com/2850664863" target="_blank">@熊眼会说话</a>：这届人民觉悟了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p>@踩不死的青蛙：图片评论<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65c33d66gw1f42yxzz65qj20ku112ae4.jpg" rel="attachment wp-att-438524"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65c33d66gw1f42yxzz65qj20ku112ae4.jpg?resize=325%2C578" alt="65c33d66gw1f42yxzz65qj20ku112ae4" data-recalc-dims="1"></a></p>
+<p><strong>附：中国数字时代编辑保存的微博转发页截屏</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%BF%99%E5%8F%AB%E4%BB%80%E4%B9%88%EF%BC%9F.png" rel="attachment wp-att-438519"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%BF%99%E5%8F%AB%E4%BB%80%E4%B9%88%EF%BC%9F.png?resize=500%2C2877" alt="这叫什么？" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/这叫什么？.png?resize=178%2C1024 178w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/这叫什么？.png?w=603 603w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E6%90%9E%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%90%97/" target="_blank">【网络民议】党这是在搞社会调查吗</a></p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E7%AE%A1%E5%AE%83%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E9%80%9A%E7%A8%BF%E8%AF%B4%E6%98%AF%E9%B9%BF%E6%88%91%E4%BB%AC%E5%86%B3%E4%B8%8D%E8%AF%B4%E6%98%AF%E9%A9%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">新华社通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E4%B8%A5%E6%8E%A7%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99-%E5%BC%BA%E5%88%B6%E6%8E%A5%E5%8F%97%E7%89%B9%E7%AE%A1%E8%82%A1/" target="cdt-mirror">美国之音｜中国严控视频网站 强制接受“特管股”</a>
+</h2>
+<p><blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2%E9%85%8D%E5%A4%87%E5%A2%83%E5%A4%96%E6%8A%A5%E7%BA%B8%E7%9A%84%E9%80%9A%E7%9F%A5/" target="_blank">疑似国航内部通告：关于停止配备境外报纸的通知</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%99%8E%E5%97%85%E7%BD%91-%E5%87%BA%E7%89%88%E7%AE%A1%E7%90%86%E6%96%B0%E8%A7%84%E5%AE%9A%E6%98%8E%E8%B5%B7%E5%AE%9E%E6%96%BD-%E8%B0%81%E9%9C%80%E8%A6%81%E6%8B%85%E5%BF%83%EF%BC%9F/" target="_blank">虎嗅网 | 出版管理新规定明起实施 谁需要担心？</a></li>
+</ul></blockquote>
+<p><em>文／许湘筠</em></p>
+<p>华盛顿— 中国政府从严监控基本是私营资本为主的服务器设在中国大陆的视频网站，要求必须接受国家入股。有专家认为，这是政府希望能加强对互联网的管控。</p>
+<p>国家新闻出版广电总局5月18日对中国视频网站提出新要求，国内大型视频网站如优库、土豆、爱奇艺及腾讯等须接受国资“特殊管理股”入股。“特殊管理股”每股享有超越普通股的若干表决权，在重大事件上拥有否决权。</p>
+<p>设在美国的“中国数字时代”网站总编辑萧强是密切关注互联网的专家，他认为，当局要求入股，显然是为了加强对互联网内容的管控，让互联网公司进一步配合政府政策进行内容审查。</p>
+<p>按照中国的视频网站目前的管理格局和市场份额来大致划分，受到影响的视频网站主要包括优酷、土豆、爱奇艺、乐视网、腾讯视频、搜狐视频还有我乐等。</p>
+<p>据报道，广电总局和提出三项要求：第一，网络视频行业必须有国资股东，不允许外资股东。第二，国资出资价格及所持股份有商量空间，但“多少都得有”。第三，有外资背景的企业（如优库）须转让内资股东。</p>
+<p><strong>政府入股</strong></p>
+<p>传媒圈网站说，有网友在博文中还透露，国资出资金额占视频网站股权比例1%~10%，按市场估值，且拥有公司董事名额，并拥有在试听内容的生产、投资、合作的表决权、审查权、以及主管内容高管任命的表决权。</p>
+<p>报道说，目前五家备选国有股入股的单位是中央人民广播电台、中国国际广播电台、北京广播电视台、湖南广播电视台和上海东方明珠新媒体股份公司。视频网站公司须在6月10日前向广电总局汇报与特殊管理股股东达成的协议。总局审核通过后向地方局申报，7月份完成正式上报。</p>
+<p>有网友评论说：总局和网信办已经胜任了文化内容监管的角色，为什么还要采取资本入股的方式呢？至会是上个世纪50年代公私合营的重演吗？这位网友在文章中说，国资还拥有主管内容高管任命的表决权，即人事安排的权力，看似没那么重要，实则好比选定春晚总导演，其价值观、审美观完全决定内容。</p>
+<p>这位网友质疑：“此次的政策如果真的出炉，是否真会影响到亿万观众的精神文化幸福呢？”</p>
+<p><strong>政府入股，外国有之</strong></p>
+<p>特殊管理股制度在国际上行之有年，政府持有的象征性一股或极少数股份使其在重要事务上拥有超级投票权和终极否决权。新加坡报业控股有限公司即为一例，管理股只占总股份1%，但其每股拥有相当于普通股200股的表决权。此外，该公司规定任何个人和机构不得拥有超过3%的股份。此制度巩固了新加坡政府对媒体的管控。</p>
+<p><strong>航班禁报？</strong></p>
+<p>有消息说，中国国航将停止在国际航班上提供境外报纸。流传出来的<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2%E9%85%8D%E5%A4%87%E5%A2%83%E5%A4%96%E6%8A%A5%E7%BA%B8%E7%9A%84%E9%80%9A%E7%9F%A5/" target="_blank">国航内部通告</a>说，上级要求加强境外报刊政治审查，故“为防范境外非法出版物经公司航班进入客舱及入境的风险”，公司将统一从国内携带报刊，不再于外站配备境外回程报纸，只提供环球时报，中国日报等供选择。</p>
+<p>萧强认为国航这样的作法十分荒唐，因为世界各国的航空公司都在中国进进出出，即便国内航班禁了境外媒体，其他航空公司仍会提供境外资讯。萧强说：“除了给中国的航空公司降低竞争力以外，对限制这些信息的流通，在我看来没有什么用处。”</p>
+<p>萧强表示，当局要求入股视频网站，及禁止在国航上阅读境外报刊等加强审查的行为，说明了其对信息控制的不安全感 ，深怕若不能取得全盘控制，便会威胁政权与国家安全。 萧强说：“如果一个政权虚弱到这种程度 ，应该思考如何增加自己的合法性并进行改革，而不是更加控制信息。严加控制的结果，只会使政权更加脆弱。”</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E4%B8%A5%E6%8E%A7%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99-%E5%BC%BA%E5%88%B6%E6%8E%A5%E5%8F%97%E7%89%B9%E7%AE%A1%E8%82%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E3%80%8B%E7%89%B5%E5%87%BA%E6%B8%A9%E5%AE%B6%E5%AE%9D-%E6%B8%AF%E5%AA%92%E4%BB%A3%E4%B8%BA%E5%90%A6/" target="cdt-mirror">自由亚洲｜《巴拿马文件》牵出温家宝 港媒代为否认后又删文</a>
+</h2>
+<p><p>日前有媒体报道，巴拿马文件中披露美国亿万富翁斯泰尔曾为中国前国务院总理温家宝的家族企业融资，引发舆论哗然。本周四，香港亲中媒体大公网发表文章否认上述报道，为温家宝正名。但至5月20日，该篇文章已被全网删除。</p>
+<p>引发巨大风波的《巴拿马文件》曝光中国当局众多政要权贵家人持有离岸公司。其中与中国前总理温家宝家人有关的公司被指接受美国民主党的重要捐款人汤姆•斯泰尔（Tom Steyer）的投资，该公司设立在英属维京群岛，而斯泰尔是旧金山投资公司法拉龙资本管理公司（Farallon Capital）的创始人及前总裁。</p>
+<p>一名关注事件的网民告诉本台，对此并不感到意外，因为近年有不少媒体均报道了温家宝海外藏富的消息：</p>
+<p>“温家宝一直以来，包括他在位的时候也传出他有境外资产。巴拿马文件究竟是不是属实我们不知道，可能别人借这个事情来攻击他，但其实就算有也不是什么奇怪的事情。”</p>
+<p>消息引发外界哗然，总部设在美国的博闻社报导，香港亲中的大公网为温家宝出声，指温的家人对此表示极大愤慨，称报导纯属无中生有，恶意捏造。大公网引消息人士表示，温家宝家人与该报导中的汤姆斯泰尔及其投资活动毫无关系，温家宝家人也没有通过任何境外公司参与任何投资。这是事件发生以来，首度有中国前国家级领导人通过境外的党媒出声回应。不过， 至5月20日，该篇文章已无法显示。</p>
+<p>资深媒体人黄先生接受本台采访时称，政敌不断抛出温家宝的负面消息：</p>
+<p>“在2014年我曾经主持过美国博讯香港杂志的组稿工作。当时他们也是有一些东西曝光温家宝的贪腐，但是当时我作为编辑我坚决不同意这种一面之词，我认为这个指控大多是他的政敌捏造的，不是属实的。实际上据我的了解，温家宝的夫人只是因为她的专业是地质勘探，当时温家宝调到北京之后她没办法安排工作，后来就安排到地质协会现在有个钻石委员会。我们知道首饰珠宝行业也都是国家垄断的，她也没有从中得到什么，甚至有一个公司也跟她是没有关系的。有人说温家宝的家人在公司里面有多少股份，后来经过查证那也不是事实，因为那个公司的股份是香港一个老板的，不是温家宝的家族的。他在位时唯一的问题是他儿子温云松在国资委下面的一个央企担任副总经理，他有点内举不避亲。你想在中国的官场那到目前为止他是习近平的支持者，第二也是党内难得的开明派和温和派，现在有可能还是一个中国走向现代民主的推手，所以说这些贪腐的势力，包括右派包括左派的一些顽固的势力都是对温家宝恨之入骨的，政敌不断地抛出对他不利的信息传言。”</p>
+<p>根据已经披露的文件，除温家宝的家属外，有至少9名现任或前任中央政治局常委成员持有离岸资产。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E3%80%8B%E7%89%B5%E5%87%BA%E6%B8%A9%E5%AE%B6%E5%AE%9D-%E6%B8%AF%E5%AA%92%E4%BB%A3%E4%B8%BA%E5%90%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D/?category=18271" rel="tag">温家宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D%E5%AE%B6%E6%97%8F%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">温家宝家族财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%EF%BC%9A%E5%93%88%E4%BD%9B%E5%9B%A2%E9%98%9F%E4%B8%8D%E4%BA%86%E8%A7%A3%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BD%93/" target="cdt-mirror">环球时报：哈佛团队不了解“舆论引导”在中国体制中的正当性</a>
 </h2>
 <p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/04/hongkong_14.jpg" rel="attachment wp-att-388451"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/04/hongkong_14.jpg?resize=550%2C311" alt="青年网络文明志愿者" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/04/hongkong_14.jpg?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/04/hongkong_14.jpg?w=1023 1023w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>青年网络文明志愿者（网络图片）</span></p></div>
@@ -553,69 +634,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E9%93%81%E6%B5%81%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5/" target="cdt-mirror">美国之音｜中国作家铁流失联多日</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg" rel="attachment wp-att-438328"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg?resize=500%2C281" alt="AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/AEB97CF8-E18D-4D00-B1E5-4CCDA629B0D3_w640_r1_s_cx0_cy11_cw0.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>敢言老作家铁流（网络图片）</span></p></div>
-<p>文／叶兵</p>
-<p>北京— 被打成右派的中国作家铁流在成都监视居住中与外界失联多日。家人表示，公安称他们带铁流出去住几天，但是没有透露具体原因。</p>
-<p>铁流的夫人任女士星期四对致电问询的美国之音记者表示，成都公安局的人把被判缓行四年的铁流带走喝茶，但是没有说明人在何处，也讲不出带走的具体原因。</p>
-<p>她说：“什么都不因为，不知道。听他们说，没什么大事，都是些老问题。好像说，他是缓刑人员，不遵守一些规矩，没有写什么思想汇报，没有参加学习。就这些。但是我感觉不是这个问题。我问他们说，这不都是老问题吗？司法局那边有什么问题，应该通过司法处理嘛。怎么会是你们（公安）把人带走呢？ 他们也说不出来。”</p>
-<p>在83岁的铁流与外界电话联系中断5天后，他在成都的朋友黃曉敏等人星期二和星期三连续两次前往成都二環路西一段怡馨花園住宅區到铁流住处查看，获悉这位资深作家5月13日下午被公安人员从家中帶走，理由是給他做体检。</p>
-<p>任女士对美国之音披露，铁流的微信最近曾两次被封号，4月底铁流曾被带走，3天后放回，被判寻衅滋事，刑拘5天，不予执行，罚款二百元。任女士说，当局宣布对铁流监视居住半年，并收走他的身份证。她说，北京的朋友告诉铁流，他的受到的处罚可能与主管宣传工作的中共中央政治局常委刘云山到四川去了几天有关。</p>
-<p>2013年3月初，一百多位高龄中国公民联名上书，要求落实赋予公民言论、出版、集会、结社、游行、示威的自由的中华人民共和国宪法第35条，并指出中共总书记习近平提出的遵宪主张遭到党内以刘云山为首的保守顽固势力抵制反对。铁流是这封公开信的发起人之一。其后不久，铁流在美国之音电视直播节目中呼吁习近平领导中国走和平社会转型之路。</p>
-<p>2014年7月末，铁流上网发文点名批评刘云山依仗有后台支持， 跟习近平对着干， 并阻挠习近平领导的反腐倡廉。</p>
-<p>同年9月14日，北京警方以“涉嫌寻衅滋事罪”刑事拘留铁流，后来在正式逮捕时又被加控“涉嫌非法经营罪”。</p>
-<p>据中国官方媒体报道，习近平上个月曾公开表示，欢迎知识分子的善意批评，并要求包容有偏差甚至不正确的批评意见，不抓辫子、不扣帽子、不打棍子。而成都公安对作家铁流刑拘处罚、微信封号、监视居住和莫名失踪等一系列举动都是习近平上述开明言论发表后发生的。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E9%93%81%E6%B5%81%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%9D%E8%8C%B6/?category=18271" rel="tag">喝茶</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%81%E6%B5%81/?category=18271" rel="tag">铁流</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B8%80%E4%BA%BA%E5%88%86%E9%A5%B022%E8%A7%92-%E4%B8%BA%E5%AE%98%E6%96%B9%E5%94%B1%E8%B5%9E%E6%AD%8C/" target="cdt-mirror">【立此存照】一人分饰22角 为官方唱赞歌</a>
-</h2>
-<p><p>中国大陆网站在遇到重大、敏感、或涉及最高领导人的新闻时常启用水军／发帖机来控制评论内容，这已经是众人皆知的秘密。比如，近期雷洋事件中，昌平公安一度大量<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%98%8C%E5%B9%B3%E5%85%AC%E5%AE%89%E6%8D%A7%E7%BA%A2%E4%BA%86%E6%B1%9F%E8%8B%8F%E5%BE%90%E5%B7%9E%E7%9A%84%E7%90%86%E6%83%B3%E5%8A%9E/" target="_blank">启用网络水军为自己辩护</a>；今年4月，《中国日报》被本站曝光在新闻报道中引用微博<a href="http://chinadigitaltimes.net/chinese/2016/04/%E6%B2%A1%E6%9C%89%E7%9C%9F%E4%BA%BA%EF%BC%8C%E5%83%B5%E5%B0%B8%E8%B4%A6%E5%8F%B7%E4%B9%9F%E8%83%BD%E7%82%B9%E8%B5%9E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BA%A7%E8%B0%88%E4%BC%9A%E8%AE%B2/" target="_blank">“僵尸号”为习近平“点赞”</a>。</p>
-<p>近日，新浪新闻转发了一则关于习近平在哲学社会科学工作座谈会发表重要讲话的<a href="http://news.sina.com.cn/2016-05-17/doc-ifxsenvm0533979.shtml" target="_blank">新华社通稿</a>，<strong>该文<a href="http://comment5.news.sina.com.cn/comment/skin/default.html?channel=sh&newsid=comos-fxsenvm0533979" target="_blank">评论页</a>内出现了一人分饰22角为官方唱赞歌的奇景。</strong></p>
-<p>以下22条评论均来自永久ID为 5467551131 的新浪微博用户（<a href="http://weibo.com/u/5467551131" target="_blank">链接</a>）。该用户很显然是<strong>通过修改微博昵称的方式，反复使用同一账户发表不同署名的评论内容</strong>：</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%B4%E5%86%9B.jpg" rel="attachment wp-att-438313"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%B4%E5%86%9B.jpg?resize=450%2C2239" alt="水军" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/水军.jpg?resize=768%2C3821 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/水军.jpg?w=992 992w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>22条评论均截取自新浪新闻《习近平：脱离人民 哲学社会科学就不会有生命力》一文；中国数字时代制图</span></p></div>
-<p>截至发稿时，“进出口公司DSHG”是该用户就上述新闻发表的最后一条评论的署名，其微博昵称目前与此吻合。靠修改昵称一人分饰22角这样“充分利用”的操作方法，似乎只适用于可以微博账号直接发表评论的新闻平台。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%98%AD%E9%80%9A.jpg" rel="attachment wp-att-438310"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%98%AD%E9%80%9A.jpg?resize=525%2C331" alt="昭通" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/昭通.jpg?resize=300%2C189 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/昭通.jpg?resize=768%2C484 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/昭通.jpg?resize=1024%2C646 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/昭通.jpg?w=2778 2778w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>永久ID为 5467551131 的微博账号截图</span></p></div>
-<p><strong>（注：并非所有来自相同地区<如“云南邵通”>的评论都来自同一账号）</strong></p>
-<p><strong>附</strong>：新闻评论中常见的水军账号一般如下图所示，即使用同一账号在不同的官方通稿下发表与官方立场一致或赞扬最高领导人的评论。类似昌平公安案例中使用不同的微博“僵尸号”为通稿发表评论的操作方式也相当普遍。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/gxnd%E7%9A%84%E8%AF%84%E8%AE%BA1536%E6%9D%A1.png" rel="attachment wp-att-438318"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/gxnd%E7%9A%84%E8%AF%84%E8%AE%BA1536%E6%9D%A1.png?resize=425%2C1795" alt="gxnd的评论1536条" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/gxnd的评论1536条.png?resize=71%2C300 71w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/gxnd的评论1536条.png?w=645 645w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%B8%80%E4%BA%BA%E5%88%86%E9%A5%B022%E8%A7%92-%E4%B8%BA%E5%AE%98%E6%96%B9%E5%94%B1%E8%B5%9E%E6%AD%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%83%B5%E5%B0%B8%E7%B2%89/?category=18271" rel="tag">僵尸粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B/?category=18271" rel="tag">网络水军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%B8%AF%E5%AA%92%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%95%E5%9B%BE%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB/" target="cdt-mirror">德国之声 | 港媒：习近平试图打造自己的理论体系</a>
-</h2>
-<p><p><strong>据中国官方媒体报道，习近平5月17日在京主持召开哲学社会科学工作座谈会，并发表讲话，提出“加快构建中国特色哲学社会科学”。香港媒体认为，与几位前任相比，习近平对共产主义思想理论显示出更大的热情。</strong></p>
-<p>（德国之声中文网）在有近150名专家和党政干部参加的会议上，习近平指出，”坚持和发展中国特色社会主义，哲学社会科学具有不可替代的重要地位，哲学社会科学工作者具有不可替代的重要作用。”他强调坚持以马克思主义为指导，”是当代中国哲学社会科学区别于其他哲学社会科学的根本标志”。</p>
-<p>习近平呼吁要构建中国特色哲学社会科学，”在指导思想、学科体系、学术体系、话语体系等方面充分体现中国特色、中国风格、中国气派”。</p>
-<p>法新社报道称，这次会议是习近平希望在文化领域树立更大权威的一次新的尝试。今年早些时候，习近平在会议场合分别阐述了自己对新媒体和互联网的发展理念。</p>
-<p>近年来习近平还多次要求加强”党对高校的领导”，提出高等教育应在意识形态引导方面发挥更大作用。习近平在周二的会议上强调，哲学社会科学领域”是知识分子密集的地方，要把这支队伍关心好、培养好、使用好”。</p>
-<p>习近平还对与会者分析指出：”我们的哲学社会科学有没有中国特色，归根到底要看有没有主体性、原创性。只有以我国实际为研究起点，提出具有主体性、原创性的理论观点，构建具有自身特质的学科体系、学术体系、话语体系，我国哲学社会科学才能形成自己的特色和优势。”他强调”坚定中国特色社会主义道路自信、理论自信、制度自信，说到底是要坚定文化自信。”</p>
-<blockquote><p>柏拉图的《理想国》、亚里士多德的《政治学》、托马斯·莫尔的《乌托邦》、康帕内拉的《太阳城》、洛克的《政府论》、孟德斯鸠的《论法的精神》、卢梭的《社会契约论》、汉密尔顿等人著的《联邦党人文集》、黑格尔的《法哲学原理》、克劳塞维茨的《战争论》、亚当·斯密的《国民财富的性质和原因的研究》、马尔萨斯的《人口原理》、凯恩斯的《就业利息和货币通论》、约瑟夫·熊彼特的《经济发展理论》、萨缪尔森的《经济学》、弗里德曼的《资本主义与自由》、西蒙·库兹涅茨的《各国的经济增长》等著作，过去我都翻阅过，一个重要感受就是这些著作都是时代的产物，都是思考和研究当时当地社会突出矛盾和问题的结果。 —— 习近平在讲话中提到</p></blockquote>
-<p>香港《南华早报》援引分析人士指出，习近平一再强调马列主义理论的重要性，与其说是要回归中共的正统意识形态，不如说是反映了他意欲建立自己的政治理论体系的渴望。与其几位前任相比，习近平对共产主义思想理论显示出更大的热情，上任以来他已主持了多次有关马克思主义理论的中共高层会议，其中包括三次政治局会议。</p>
-<p>在周二的座谈会上，习近平要求各级党委”要把哲学社会科学工作纳入重要议事日程，加强政治领导和工作指导，一手抓繁荣发展、一手抓引导管理”。他还提出”要抓好教材体系建设，形成适应中国特色社会主义发展要求、立足国际学术前沿、门类齐全的哲学社会科学教材体系”。此外还要加强”中国特色新型智库”建设，建立健全决策咨询制度。</p>
-<p>曾任中共中央党校刊物《学习时报》副主编的邓聿文在新浪微博上写道：”从今天哲学社会科学座谈会发言人的名单来看，右派知识分子彻底失去了执政党的信任，中国模式派走向舞台。”</p>
-<p>据官方媒体报道，参加此次座谈会的专家有中国社科院研究员汝信、北京大学国家发展研究院教授林毅夫、中国社科院马克思主义研究院研究员钟君、复旦大学中国研究院教授张维为、中国政法大学教授马怀德、武汉大学马克思主义学院教授沈壮海、国防大学战略研究所教授金一南等。</p>
-<p>中共中央政治局常委刘云山、各省区市党委宣传部部长、马克思主义理论研究和建设工程咨询委员也出席座谈会。</p>
-<p>相关阅读：<a href="http://politics.people.com.cn/n1/2016/0518/c1024-28361421.html" target="_blank">习近平：在哲学社会科学工作座谈会上的讲话（全文）</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%B8%AF%E5%AA%92%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AF%95%E5%9B%BE%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%94%BF%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">党政干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">共产主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E5%AA%92%E4%BD%93/?category=18271" rel="tag">官方媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%9D%E8%AF%AD%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">话语体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%AA%92%E4%BD%93/?category=18271" rel="tag">香港媒体</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -637,5 +655,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

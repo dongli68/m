@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%8B%9F%E5%BC%BA%E6%8E%A8%E5%9B%BD%E8%B5%84%E5%85%A5%E8%82%A1%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%8F%8D/" target="cdt-mirror">唐映红 | 广电总局拟强推国资“入股”视频网站反映了什么？</a>
@@ -86,7 +86,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E8%BD%A6/?category=18271" rel="tag">公车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E8%BD%A6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">公车改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/?category=18271" rel="tag">出租车司机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">县委书记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97/?category=18271" rel="tag">同志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%94%9F%E6%80%81/?category=18271" rel="tag">政治生态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E5%82%B2%E6%85%A2/?category=18271" rel="tag">权力傲慢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%A6%E6%94%B9/?category=18271" rel="tag">车改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%88%98%E5%B7%BD%E8%BE%BE%EF%BC%9A%E5%A6%88%E8%9B%8B%E5%A5%BD%E8%A0%A2-%E4%BD%A0%E7%9A%84%E7%A7%92%E5%88%A0%E6%88%90%E5%85%A8%E4%BA%86%E5%A5%B9%E7%9A%84%E5%9C%B0%E7%81%AB%E8%BF%90%E8%A1%8C/" target="cdt-mirror">刘巽达：妈蛋好蠢 你的秒删成全了她的“地火运行”</a>
 </h2>
@@ -618,5 +618,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

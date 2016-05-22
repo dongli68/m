@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,66 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B3%9B%E6%B0%91%E6%89%B9%E8%AF%84%E4%BA%AC%E5%AE%98%E5%A4%84%E7%90%86%E6%B8%AF%E7%8B%AC%E6%9E%AA%E7%82%AE%E8%AE%BA%E6%AD%A6%E5%8A%9B%E6%81%90%E5%90%93/" target="cdt-mirror">美国之音 | 泛民批评京官处理港独枪炮论武力恐吓</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/B5DA7C65-EE9C-444B-8A29-696422D07A01_w640_r1_s_cx0_cy4_cw0.jpg?resize=550%2C309" alt="全国人大法工委副主任、基本法委员会副主任张荣顺(苹果日报图片)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/B5DA7C65-EE9C-444B-8A29-696422D07A01_w640_r1_s_cx0_cy4_cw0.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/B5DA7C65-EE9C-444B-8A29-696422D07A01_w640_r1_s_cx0_cy4_cw0.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>全国人大法工委副主任、基本法委员会副主任张荣顺(苹果日报图片)</p></div>
+<p>香港—据港媒报道，全国人大法工委副主任、基本法委员会副主任张荣顺在会见香港一个律师团体后被引述说，如果港独具备实力，中央很易处理，“要法律有法律，要枪有枪，要炮有炮”。北京官员处理港独枪炮说，引发泛民强烈反弹，批评该说破坏了人大委员长张德江近期访港刻意营造的宽松气氛。</p>
+<p>由亲中的民建联的执业大律师马恩国率领的中澳法学交流基金会访京团，星期六在北京与张荣顺会面。马恩国会后引述了张荣顺的处理港独问题枪炮说法。马恩国还引述称，港独分子令香港社会不安宁，不能姑息，应以言论和法理抨击，基本法已订明，若香港进入紧急状态，驻军可以出动。马恩国被追问是否指会用枪炮镇压港独时，称不是这样的意思，但没有进一步解释。</p>
+<p>早前与张德江会面的泛民会议召集人、工党的何秀兰议员表示，马恩国做传声筒，传出一股杀气，又枪又炮，将早前“张德江营造的宽松气氛一扫而光”。何秀兰批评，这种武力恐吓只会挑动港人情绪，令对一国两制更加担心。法律界立法会议员郭荣铿，批评张荣顺的枪炮论不负责任，无助于理性沟通。</p>
+<p>温和泛民的民主思路召集人汤家骅大律师表示，相信即使中央有法可依，也不会轻言行使武力。</p>
+<p>主张港独的香港民族党反驳说，动用枪炮言论只属空谈，呼吁港人不必因这些虚张声势而害怕，因香港对中国攸关重要，不敢轻易动用解放军进犯。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B3%9B%E6%B0%91%E6%89%B9%E8%AF%84%E4%BA%AC%E5%AE%98%E5%A4%84%E7%90%86%E6%B8%AF%E7%8B%AC%E6%9E%AA%E7%82%AE%E8%AE%BA%E6%AD%A6%E5%8A%9B%E6%81%90%E5%90%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7/?category=18271" rel="tag">全国人大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E6%9C%AC%E6%B3%95/?category=18271" rel="tag">基本法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E7%8B%AC/?category=18271" rel="tag">港独</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%9B%AA%E8%AE%BF-%E9%81%A5%E5%BF%B5%E5%BD%BC%E5%B2%B8%E8%87%AA%E7%94%B1%E8%8A%B1/" target="cdt-mirror">雪访 | 遥念彼岸自由花</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8F%B0%E6%B9%BE.jpg?resize=550%2C413" alt="台北紫藤庐一角" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>台北紫藤庐一角</p></div>
+<p>5月20日，从台湾回来的隔一日。在YouTube上看蔡英 文就职典礼的直播，当然，先得翻一道“墙”过去。</p>
+<p>虽说从2000年到2016年，这已是台湾的第三次政党轮替，对台湾民众来说，已是民主社会的正常权力移交，行礼如仪。而于我们，隔水遥望，却是一窥自由社会的窗口。只是，这样的大事，在互联网如此发达的今天，墙内的我们，却难以看到更多信息。微信朋友圈里，转发的“就职演说”，也很快就被删得不见了影子。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8F%B0%E6%B9%BE2.jpg?resize=550%2C413" alt="5月14日到16日，卓越新闻奖基金会在台北举办“亚洲华文新闻专业论坛”。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾2.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾2.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>5月14日到16日，卓越新闻奖基金会在台北举办“亚洲华文新闻专业论坛”。</p></div>
+<p>恰好是前几日，我有幸获邀，在台北参加“亚洲华文新闻专业论坛”，见到了多位优秀的台湾媒体人，能感受到，从当年冲撞威权、追求自由的民主化运动中，媒体人一路延续下来的那份理想主义薪火，与社会运动结合，依然至今。很多资深的传统媒体人，在今天，又投身网络传媒，追求真正的独立报道。“被压迫者难道不应该和被压迫者在一起吗？”曾一路追到立法院、要求给予公民记者采访权的独立记者李惠仁，所说的这句话，让我印象极深。</p>
+<p>不过，今天，在这里谈的却不是关于台湾媒体，而是一些最基本的感性认识。</p>
+<p>在台北坐“的士”，极为方便。不管是早晨上班的高峰期，还是傍晚，都能轻松打到车。司机先生多在中年以上，彬彬有礼，和和气气。问起一位，说到“520”这天，当然是照旧工作，看电视直播就好，因为人太多。而另一位司机先生则大骂马英九太无能。 知道我来自大陆，又乐呵呵笑言：我们是自由社会嘛，想骂谁都可以的，你们那边不行吧。说起来，你们的情况，和我们30年前蛮像呢。</p>
+<p>又是“30年前”。</p>
+<p>不禁想起在嘉义，路过乡间一个派出所，朋友建议可以进去坐坐。我们推开玻璃门进去，值班的女警察对素不相识的我们热情招呼，又泡高山茶，又把附近老奶奶送来的凤梨，招呼我们吃，特别的清甜。</p>
+<p>“你们大陆的警察好有权威呦。”女警察笑嘻嘻地说。她腰里鼓鼓囊囊地别着手枪，却亲昵地把来访的老奶奶搂在怀里，这不才是“警民鱼水情”嘛。她说，当警察28年了，当过10多年“便衣”，又干了10年最基层的工作，很辛苦琐屑。说到前不久大陆发生的“雷洋案”，她听了几句，便说，“和我们台湾三十多年前差不多哎。”</p>
+<p>“30年前”，人人都说30年前，听起来随意，可了解台湾民主化历程的人们知道，今日这份已浸泽入生活中的自由，是多少血汗、多少眼泪换来的啊。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8F%B0%E6%B9%BE3.jpg?resize=550%2C343" alt="台湾3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾3.jpg?resize=300%2C187 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾3.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>《自由中国》杂志在上个世纪50年代的台湾掀开反威权运动的大幕</p></div>
+<p>去紫藤庐，一个素朴低调的美丽茶馆，当年，是异议知识分子和社会运动者聚会的场所。1960年代，殷海光等自由知识分子常出没这里。主人周德伟先生是结合儒家与自由主义的传奇人物，是哈耶克的第一位中国弟子。1970年代，紫藤庐在周公子周渝的执掌下，又成为党外运动的重要聚会地，周渝曾在一篇《紫藤庐几代人的共同记忆》一文中，回忆“美丽岛”事件后，几位受刑者的太太来到紫藤庐，一起商议在狱中发动绝食引起外部注意，来营救受难者的往事……</p>
+<p>二二八纪念馆、景美人权文化园区……在台湾，曾承载了民主化过程中苦痛记忆的一些地方，如今都成了历史的地标。景美，原是戒严时期的台湾警备总司令部军法处和国防部军法局所在处，关押和审判过很多政治犯。如今，1979年“美丽 岛审判”的法庭，已开放供人们参观。而园区中展示“白色恐怖时期”的厅内，烛光幽暗微，映照着一个个死难者的姓名，和一个个惨痛的故事。</p>
+<p>一路筚路蓝缕，艰难抗争，热爱自由的人们，不断冲撞威权制度，一直到1987年，台湾终于“解严”，并逐步开启民主之路，最终，顺利实现两党轮替，民主制度也逐渐成熟，台湾也成为今日全球“公民社会的模范生。”</p>
+<p>也或许因此，在“520”的就职典礼上，宏大的戏剧表演，是将台湾的历史一幕幕呈现出来。 从原住民时期，到清廷统治，到日本占领，再到战后回归中国，又到国民党治下的“二二八”事件，以及国府败走台湾后的戒严……历史的回味，为“嘉年华”般的典礼，平添了一抹沉重。</p>
+<p>“不自由毋宁死”、“争取百分之百言论自由”，这些台湾当年反对运动中的标语口号，再现于今日的总统府大道。戏剧的一幕幕，将台湾争取民主的历史再次呈现在人们面前。</p>
+<p>“今天，有这么多代表台湾民主的意象，以昂然的姿态，走过总统府大道。”美丽的主持人小姐的声音，也有那么一点点动情。</p>
+<p>“权力来自人民，政府再也不能无视人民的心声。” 在典礼结束时，人们一起唱的那首歌，便是《美丽 岛》，旋律优美，是那个抗争的年代，回响在人们心头的自由之歌。</p>
+<p>但这样的表演，也有反对者。据报道，之前，庆典本来还要推出一个历次社会运动口号和标语的表演秀，结果遭到社会运动团体的猛烈抗议。“人民的抗争不是道具，人民的血泪不是表演……”社运团体批评，这是民进党的无知与狂妄。“收割社运果实”，要把社运当成了太平庆典的道具，把人民的抗争历史变成为执政党背书。民进党对这样的批评或许始料未及吧，最终，表演中还是取消了这个环节。</p>
+<p>我想，这就是公民社会吧。永远有警醒的目光，监督着权力。就如参与社运的公民们不会忘记初心，社运是为监察政府，而非为政党服务。也因此，政府的任何行为，都可能被批评。而面对和接受一切批评，也是政治人物的应有之义。</p>
+<p>或许也是因此吧，蔡英文在回顾过去20年时，会说到，是“在几任政府和公民社会的努力下”。也所以，蔡英文的承诺包括转型正义。“追寻转型正义的目标，是追求社会真正的和解。”“三年之内，完成台湾转型正义报告书。挖掘真相，弥平伤痕，厘清责任。”让过去的历史，成为向前的动力。重要的是，从真相出发，“让所有台湾人民记取那个时代的情况。”</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8F%B0%E6%B9%BE4.jpg?resize=550%2C413" alt="台湾4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾4.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾4.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>我不禁又想起了去过的几个书店。在唐山书店这样的独立书店里，各种有关台湾历史、以及社会运动议题的书，如汗牛充栋。自由出版的书籍和报刊在传递思想，而电视上，名嘴在大骂政治人物，毫无忌惮，在信息自由充分流通的土地上，人民对历史了然于胸，也就难以被愚弄了。</p>
+<p>5月17日，我在嘉义的中正大学。路过校园内一片宽阔的草坪。看到了一个“学术自由”的石碑。罗世宏老师告诉我，2014年，太阳花学运时，校园里，为了是否停课去台北参加运动，意见不一，一些学生去了台北，而另外一些学生坚持上课，在此其间，这片草地成了临时的教室，有人在这里上课，更多的人在这里讨论关于这场运动的一切……这一片草坪，成了人们自由辩论的思想场所。“太阳花”之后，为了纪念这段故事，在草坪边上，就立下了这个学术自由的碑。</p>
+<p>中正大学校园一角</p>
+<p>碑上的文字摘自当时中正大学的一个声明，内容是：“大学为知识殿堂，探寻真理，没有包袱，亦无所畏惧，被视为国家行政、立法、司法与媒体之外的第五权。因此，学生与教师以非暴力方式关心公共事务与国家发展，乃公共知识分子的表现，不容抹黑与漠视。”</p>
+<p>中正大学建于1989年，是以纪念蒋介石百岁为由头，台湾的最后一所国立大学。这个建立于威权时代正待结束时的大学，如今，也成为了自由的一片芳草地。</p>
+<p>这就是台湾。我们能看到，文化的包容、多元，制度的民主开放，社会的平等对话，以及一次次理想主义对现实的警醒砥砺，都让这里成为自由人的家园。</p>
+<p>今日，我们在彼岸遥遥相看，那一片自由之花如此明媚。却也明白，自由不可能从天而降，需要每一个热爱自由的人，用心灵、用头脑，甚至用血泪去争取。</p>
+<p>而这一切，是值得的。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%9B%AA%E8%AE%BF-%E9%81%A5%E5%BF%B5%E5%BD%BC%E5%B2%B8%E8%87%AA%E7%94%B1%E8%8A%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8/?category=18271" rel="tag">两岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E4%BA%8C%E5%85%AB/?category=18271" rel="tag">二二八</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89/?category=18271" rel="tag">公平正义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">台湾历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF%E4%BD%93%E5%88%B6/?category=18271" rel="tag">宪政体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4/?category=18271" rel="tag">就职演说</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%85%9A/?category=18271" rel="tag">执政党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88/?category=18271" rel="tag">改革方案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%90%8C%E5%AD%98%E5%BC%82/?category=18271" rel="tag">求同存异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E7%BB%93%E6%9E%84/?category=18271" rel="tag">经济结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%8B%9F%E5%BC%BA%E6%8E%A8%E5%9B%BD%E8%B5%84%E5%85%A5%E8%82%A1%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%8F%8D/" target="cdt-mirror">唐映红 | 广电总局拟强推国资“入股”视频网站反映了什么？</a>
 </h2>
 <p><p><strong>问：广电总局拟强推国资“入股”视频网站反映了什么？</strong></p>
@@ -538,65 +595,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-%E9%87%91%E6%97%A5%E6%88%90%E5%A4%A7%E5%AD%A6%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%AD%A6%E6%A0%A1/" target="cdt-mirror">【网络民议】金日成大学是个好学校</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-19-at-12.03.56-PM.png?resize=550%2C520" alt="Screen Shot 2016-05-19 at 12.03.56 PM" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-19-at-12.03.56-PM.png?resize=768%2C725 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-19-at-12.03.56-PM.png?resize=1024%2C967 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-19-at-12.03.56-PM.png?w=1226 1226w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>雁塔晓木屋：张德江，男，汉族，1946年11月生，辽宁台安人，1968年11月参加工作，1971年1月加入中国共产党，朝鲜金日成综合大学经济系毕业，大学学历。</p>
-<p>5月18日 16:17 来自 微博 weibo.com</p>
-<p>以下评论来自新浪微博：</p>
-<p><a href="http://weibo.com/5259443590" target="_blank">EW东邪西毒</a>：<img title="[good]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]" data-recalc-dims="1">金日成大学是个好学校，名流辈出，中华脊梁。</p>
-<p><a href="http://weibo.com/1669653527" target="_blank">风格黎然</a>：原来是宇宙第一真理国教出来的<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">，怪不得发生温州动车事件时，下令掩埋火车车厢<img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5038996888" target="_blank">虫不殇风</a>：专业学的是考古吧。专门挖坑埋火车的.</p>
-<p><a href="http://weibo.com/5828675575" target="_blank">为曾经的自己03</a>：港网友称港财政司长曾俊华读香港喇沙（教会中学）, 麻省理工学士，波士顿硕士，哈佛硕士，要被北韩金日成大学读经济的“批评”，真是一大侮辱！/<a href="http://weibo.com/n/%E5%86%B3%E4%B8%8D%E5%81%9A%E5%A5%B4%E9%9A%B66?from=feed&loc=at" target="_blank">@决不做奴隶6</a>/<a href="http://weibo.com/n/%E9%A3%8E%E9%9C%9C%E4%B9%8B%E6%AD%8C181?from=feed&loc=at" target="_blank">@风霜之歌181</a>/<a href="http://weibo.com/n/%E6%B0%B4%E5%85%B5%E6%9D%8E%E9%93%AD?from=feed&loc=at" target="_blank">@水兵李铭</a>/<a href="http://weibo.com/n/%E7%91%9E%E5%AE%89%E4%B8%B0%E5%92%8C18?from=feed&loc=at" target="_blank">@瑞安丰和18</a>:学到宇宙真理/<a href="http://weibo.com/n/Frozen_IV_Sunshine?from=feed&loc=at" target="_blank">@Frozen_IV_Sunshine</a>: 最牛逼的还是专业，在朝鲜学经济/<a href="http://weibo.com/n/%E4%B8%8D%E6%89%93%E6%A3%8D%E5%AD%90%E4%B8%8D%E6%8A%93%E8%BE%AB%E5%AD%90%E4%B8%8D%E6%89%A3%E5%B8%BD%E5%AD%90?from=feed&loc=at" target="_blank">@不打棍子不抓辫子不扣帽子</a></p>
-<p><a href="http://weibo.com/1877174923" target="_blank">朝圣者001</a>：人才啊//<a href="http://weibo.com/n/%E5%8D%8E%E6%B0%91%E6%97%8F3041467643?from=feed&loc=at" target="_blank">@华民族3041467643</a>: //<a href="http://weibo.com/n/%E6%97%A0%E5%BF%A7%E6%97%A0%E8%99%91_%E7%87%95%E5%84%BF?from=feed&loc=at" target="_blank">@无忧无虑_燕儿</a>:<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">人才啊 //<a href="http://weibo.com/n/%E6%B2%A6%E8%90%BD%E4%BA%BA%E5%AE%89%E4%B9%8B2?from=feed&loc=at" target="_blank">@沦落人安之2</a>:<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">//<a href="http://weibo.com/n/%E7%BF%BB%E6%A0%8F%E4%B9%8B%E8%B7%AF?from=feed&loc=at" target="_blank">@翻栏之路</a>: //<a href="http://weibo.com/n/%E9%A3%8E%E9%9C%9C%E4%B9%8B%E6%AD%8C181?from=feed&loc=at" target="_blank">@风霜之歌181</a>:学到了饿死人的经济!//<a href="http://weibo.com/n/%E6%B0%B4%E5%85%B5%E6%9D%8E%E9%93%AD?from=feed&loc=at" target="_blank">@水兵李铭</a>://<a href="http://weibo.com/n/%E7%91%9E%E5%AE%89%E4%B8%B0%E5%92%8C18?from=feed&loc=at" target="_blank">@瑞安丰和18</a>:学到宇宙真理了//<a href="http://weibo.com/n/Frozen_IV_Sunshine?from=feed&loc=at" target="_blank">@Frozen_IV_Sunshine</a>: 最牛逼的还是专业，在朝鲜学经济<img title="[汗]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]" data-recalc-dims="1">//<a href="http://weibo.com/n/%E4%B8%8D%E6%89%93%E6%A3%8D%E5%AD%90%E4%B8%8D%E6%8A%93%E8%BE%AB%E5%AD%90%E4%B8%8D%E6%89%A3%E5%B8%BD%E5%AD%90?from=feed&loc=at" target="_blank">@不打棍子不抓辫子不扣帽子</a>: 最牛逼的就是这学历，崇拜中！</p>
-<p><a href="http://weibo.com/1867169664" target="_blank">虢鞱</a>：金日成综合大学经济系？太监学院学性交<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5112672098" target="_blank">zomin03</a>：朝鲜的党校//<a href="http://weibo.com/n/A60008%E7%9A%84%E8%8A%B1%E9%A9%AC%E7%94%B2?from=feed&loc=at" target="_blank">@A60008的花马甲</a>: 居然没弄个党校毕业<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">//<a href="http://weibo.com/n/%E5%BF%83%E5%84%BF%E7%85%AE%E7%84%96%E6%B8%A3%E6%B5%AA?from=feed&loc=at" target="_blank">@心儿煮焖渣浪</a>: <img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">难怪香港五毛敢叫其“新主席”了非常牛逼。。。//<a href="http://weibo.com/n/%E4%B8%8D%E6%89%93%E6%A3%8D%E5%AD%90%E4%B8%8D%E6%8A%93%E8%BE%AB%E5%AD%90%E4%B8%8D%E6%89%A3%E5%B8%BD%E5%AD%90?from=feed&loc=at" target="_blank">@不打棍子不抓辫子不扣帽子</a>:右边反动，抓起来！<img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1">//<a href="http://weibo.com/n/%E6%BC%94%E5%AF%BC%E5%AE%89%E5%85%A8%E7%8E%8B?from=feed&loc=at" target="_blank">@演导安全王</a>: 那玩意也算大学，这种学历也能承认?</p>
-<p><a href="http://weibo.com/5888878782" target="_blank">青山怎能不妩媚</a><a href="http://weibo.com/5860158118" target="_blank">：<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">为嘛毕业后不留在北韩？//</a><a href="http://weibo.com/n/%E4%B8%8D%E6%89%93%E6%A3%8D%E5%AD%90%E4%B8%8D%E6%8A%93%E8%BE%AB%E5%AD%90%E4%B8%8D%E6%89%A3%E5%B8%BD%E5%AD%90?from=feed&loc=at" target="_blank">@不打棍子不抓辫子不扣帽子</a><a href="http://weibo.com/5860158118" target="_blank">: 最牛逼的就是这学历，崇拜中！小二不穿堂</a>：卧槽！朝鲜的经济系！不点赞我都不好意思看微博了啊….<img title="[赞]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d0/z2_org.gif" alt="[赞]" data-recalc-dims="1">//<a href="http://weibo.com/n/%E7%8E%8B%E4%BA%9A%E4%B8%9C522?from=feed&loc=at" target="_blank">@王亚东522</a>: 也算海龟<img title="[阴险]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/yx_org.gif" alt="[阴险]" data-recalc-dims="1">/<a href="http://weibo.com/n/A60008%E7%9A%84%E8%8A%B1%E9%A9%AC%E7%94%B2?from=feed&loc=at" target="_blank">@A60008的花马甲</a>:居然没弄个党校毕业<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1707556033" target="_blank">HONGLG</a>：朝鲜大学，还经济系，应该没有比我们的工农兵大学根基更。。。。。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-19-at-12.04.46-PM.png?resize=551%2C445" alt="Screen Shot 2016-05-19 at 12.04.46 PM" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-19-at-12.04.46-PM.png?resize=300%2C242 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-19-at-12.04.46-PM.png?resize=768%2C620 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-19-at-12.04.46-PM.png?resize=1024%2C827 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-19-at-12.04.46-PM.png?w=1206 1206w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-%E9%87%91%E6%97%A5%E6%88%90%E5%A4%A7%E5%AD%A6%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%AD%A6%E6%A0%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF/?category=18271" rel="tag">2016张德江访港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A6%81%E9%9D%A9%E6%9D%8E%E5%85%8B%E5%BC%BA%E6%94%BF%E5%BA%9C%E7%9A%84%E5%91%BD/" target="cdt-mirror">【习总日记】习近平要革李克强政府的命</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016，5，19）</p>
-<p>5月16日上午主持召开中央财经领导小组第十三次会议，分别研究落实供给侧结构性改革、扩大中等收入群体工作。我发表重要讲话强调，推进供给侧结构性改革，是综合研判世界经济形势和我国经济发展新常态作出的重大决策，各地区各部门要把思想和行动统一到党中央决策部署上来，重点推进“三去一降一补”，不能因为包袱重而等待、困难多而不作为、有风险而躲避、有阵痛而不前，要树立必胜信念，坚定不移把这项工作向前推进。要坚持以人民为中心的发展思想，在全社会大力弘扬勤劳致富、艰苦奋斗精神，激励人们通过劳动创造美好生活，不断提高生活水平。</p>
-<p>副组长李克强不高兴了：“习组长的四个‘而’分明在说我吧。我们国务院没有等待，没有不作为，也没有躲避，更没有不前。”</p>
-<p>我说：“经济运行的总体态势符合预期，有些亮点还好于预期。但经济运行的固有矛盾没缓解，一些新问题也超出预期。很难用‘开门红’‘小阳春’等简单的概念加以描述。”</p>
-<p>李克强反驳说：“我认为第一季度经济运行平稳、结构优化、民生持续改善。通俗来说称得上‘开门红’‘小阳春’。”</p>
-<p>我指出：“综合判断，我国经济运行将是L型的走势。这个L型是一个阶段，不是一两年能过去的。”</p>
-<p>李克强不同意：“我认为将会是U或V型走势。”</p>
-<p>我认为：“退一步为了进两步。我国经济潜力足、韧性强、回旋余地大，即使不刺激，速度也跌不到哪里去。希望你们保持战略定力，多做标本兼治、重在治本的事情，避免用‘大水漫灌’的扩张办法给经济打强心针，造成短期兴奋过后经济越来越糟。”</p>
-<p>李克强针锋相对：“我认为采取适当的财政政策刺激经济是必须的。近年来，面对持续下行压力，宏观决策保持战略定力，保持宏观政策的连续性和稳定性，没有搞强刺激和大水漫灌，而是创新宏观调控，实施区间调控、定向调控、相机抉择、精准施策，保证了国民经济运行在合理区间。”</p>
-<p>我提醒道：“对一些经济指标回升，不要喜形于色；对一些经济指标下行，也别惊慌失措。”</p>
-<p>李克强表示不满：“这是对国务院所有工作人员的侮辱。我们有权利对自己的工作成绩自豪欢呼，有责任对经济下行状况作出积极反应。”</p>
-<p>我不以为然：“当前及今后一个时期，供给侧是主要矛盾，供给侧结构性改革必须加强、必须作为主攻方向。需求侧起着为解决主要矛盾营造环境的作用，投资扩张只能适度，不能过度，决不可越俎代庖、主次不分。”</p>
-<p>李克强自负地：“适度扩大总需求是我们的既定政策。至于如何掌握‘度’，国务院比任何部门任何人都清楚，谢谢关心。”</p>
-<p>我发出警告：“树不能长到天上，高杠杆必然带来高风险，控制不好就会引发系统性金融危机，导致经济负增长，甚至让老百姓储蓄泡汤。”</p>
-<p>李克强力辩：“各项数据显示，今年以来经济运行总体平稳、稳中有进、亮点纷呈，是改革发力、创新增力、转型给力、政策助力、预期蓄力综合作用的结果。”</p>
-<p>我批评道：“‘五大任务’是一个系统设计，每项任务都很吃重。从具体操作看，饭要一口一口吃，路要一步一步走。”</p>
-<p>李克强辩解道：“今年以来，简政放权、放管结合、优化服务改革不断深化，投资审批制度和商事制度改革步伐加快，事中事后监管持续加强，‘营改增’有序展开，去产能、去库存、去杠杆、降成本、补短板积极推进，市场主体的潜力和活力得到有效激发。一是市场主体大幅增加。二是供给侧结构性改革边际效应开始显现。三是企业效益增长。”</p>
-<p>我亮出重点：“国务院要更多地减少行政干预，让市场机制更多地发挥好决定性作用。但“解铃还须系铃人”，减少行政干预离不开政府自我革命。那些本身没有行政干预、市场机制发挥较好的领域，就别再去指手画脚了。”</p>
-<p>李克强质问：“不知习组长要国务院怎么革自己的命？挥刀自宫？把政府权力都交给各个以习总为小组长的中央领导小组吗？”</p>
-<p>我表态说：“我倒是想啊。今天提醒这些，是不愿看着国务院在经济管理政策制定上犯错误走邪路。党领导一切，党领导政府天经地义。我作为中央财经领导小组组长，更有责任对国务院的工作提出自己的看法和意见。”</p>
-<p>李克强应对道：“国务院坚决拥护党中央的领导，认真听取中央财经领导小组组长副组长和同志们的意见批评和建议。我们要按照中央经济工作会议决策部署和《政府工作报告》总体安排，适度扩大总需求，坚持实行积极的财政政策和稳健的货币政策，注重把握重点、节奏和力度；坚定不移以推进供给侧结构性改革为主线，着眼于矫正供需结构错配和要素配置扭曲，全面落实“三去一降一补”五大重点任务；注重引导良好发展预期，增强各方面对经济发展的良好信心，全力抓好政策落实，积极释放改革红利，努力巩固积极变化，促进经济稳中向好，实现全年经济社会发展预期目标，为‘十三五’规划开好局、起好步，促进经济保持中高速增长、发展迈向中高端水平。”</p>
-<p>张高丽劝说道：“你们第一第二把手针尖对麦芒，使我们无所适从。若是让西方敌对势力知道了，还不笑痛肚皮。以前是两条路线斗争，现在也是两条路线斗争，只不过换成经济政策路线。我以为，条条大路通罗马，经济怎么搞都可以。文革十年即使如此，日子还不照样过？二位何必吵得惊天动地将相失和？”</p>
-<p>我不愿意听这种话：“你说清楚，谁是将谁是相？”</p>
-<p>张高丽涨红了脸：“不是将相是什么，你还想当皇帝？”</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A6%81%E9%9D%A9%E6%9D%8E%E5%85%8B%E5%BC%BA%E6%94%BF%E5%BA%9C%E7%9A%84%E5%91%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%86%85%E6%96%97/?category=18271" rel="tag">习李内斗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%9D%8E%E5%88%86%E8%A3%82/?category=18271" rel="tag">习李分裂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E5%B2%B8%E6%B3%89/?category=18271" rel="tag">何岸泉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -608,7 +606,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -618,5 +616,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,108 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%88%98%E5%B7%BD%E8%BE%BE%EF%BC%9A%E5%A6%88%E8%9B%8B%E5%A5%BD%E8%A0%A2-%E4%BD%A0%E7%9A%84%E7%A7%92%E5%88%A0%E6%88%90%E5%85%A8%E4%BA%86%E5%A5%B9%E7%9A%84%E5%9C%B0%E7%81%AB%E8%BF%90%E8%A1%8C/" target="cdt-mirror">刘巽达：妈蛋好蠢 你的秒删成全了她的“地火运行”</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160520_130951-e1463728216668.png?resize=450%2C780" alt="IMG_20160520_130951"></p>
+<p>早上醒来打开手机，关于海峡对岸那个女总统的就职演说视频和全文，像潮水一般涌来了。我亲爱的朋友们以及朋友的朋友们，谢谢你们了！你们肯定是因为朋友圈里的正常转发被迅速秒删，所以出于好心，一旦见到能从其它渠道获得内容，就不约而同以最快的速度转发出去。于是，我就在各种群里，以及一对一里，看到了形式各异的同一内容：有视频，有图片，有文字……这种前所未有的疯狂转发，让见多识广的我，还是惊讶得目瞪口呆。</p>
+<p>也就是说，本来在朋友圈一条微信就能搞定的事，现在必须通过频繁的转发才能搞定。这就在实际操作中出现了“溢出现象”：你可能通过各种各样的群甚至一对一，频频转发这条消息。一旦我本人在某些群里交叉存在，一旦我的朋友里太多“热情分享者”，就出现了今天类似刷屏的效果。有的群，可能只是“吃货”的聚集地，有的群，可能只是“家装”的集合点，换了以前，这样的“就职演说”内容，你或许不会和这些群友共享。可是现在不一样了，秒删带来了“奇货可居”的神秘感——能够第一时间让朋友们看到海峡对岸“神秘的就职演说”，那是多牛的事！其中，或有很多“敏感”和“适禁”的内容哦！分享分享分享！共同的群体心理，催发了如潮的转发。</p>
+<p>我的朋友圈中，媒体人不少。我在已被秒删的微信下面的留言里，看到了长串的评论。除了提醒“已被秒删”加上怒火燃烧的表情包外，这些评论集合起来，就是一篇高质量的“时评”了。</p>
+<p>有曰：这样的“新闻事实”为什么要屏蔽删除呢？别的完全不相干地方的总统就职，你们还积极报道呢！自己国家海峡对面的重大事项，怎么就不能了解呢？你们央视不播也就罢了，民间流传还要封杀，也太过分了吧？</p>
+<p>有曰：这又不是黄色内容，也不是反动政治内容，况且也没有什么“评点”之类的导向。禁播禁言总得出于什么依据，无据可依的粗暴删禁，只会给别人的文明作“反衬”。这不等于在做反广告吗？</p>
+<p>有曰：屏蔽删除，显得我们很胆怯，我们这边为什么那么心虚呢？不是有“三个自信”吗？你越这样，老百姓越有兴趣了解。真是很不得人心！心好堵……</p>
+<p>有曰：“堵不如疏”的道理难道不懂吗？为什么老做蠢事？为渊驱鱼，为丛驱雀，我们的做法蠢级了！无非就是让人看到蔡英文的演讲口才好罢了，她脱稿讲了半小时，也就是背功了得罢了，人家很多天前或许就倒背如流了。这能有多大危害呢？讲话的内容是面对全世界的，秒删有用吗？</p>
+<p>更有人如此曰：如果对所有人贩子、诈骗电话、骗人广告、扰民推销，以及莆田系，也都这么高效秒删和秒杀，那就好了！为什么在那些地方，总是低效和无效呢？</p>
+<p>总之，妈蛋好蠢——这是几乎所有评点者的共同“标点符号”。蠢就蠢在，海峡对岸的政治存在，分分秒秒要与此岸对接。你今天删除屏蔽了它，明天还得和他们打交道，甚至还要“热烈握手”，口口声声“血浓于水”。她的“民国总统”是选民选出来的，你无视也罢，藐视也罢，未来少不了要互相平视。彼此少交恶，应该是大家乐见的吧？既然如此，一开始就封杀新闻，善意就一并“屏蔽”了。</p>
+<p>咱们这边很少使用“枪口抬高一寸”的柔软身段，习惯“来硬”的。国际事务方面，咱们就暂时不置喙了；国内事务的处置上，经常用僵硬的惯性思维，把本来可以软性处理的事，一件件弄得不可收拾。一级绑架一级，层层绑架，都是“僵硬思维”惹的祸。</p>
+<p>在这件事上，假如“央视等主流媒体”以“硬性规定”屏蔽之，这也就算了；但民间的传播，你网开一面，就比较英明了。说到底，作为一个中国国民，面临海峡对面如此重大的事情，不关心不关注，那才奇了怪了。你的屏蔽删除，除了激发好奇心，没有任何作用！假如原来只有一小部分人关心的话，这么一来，就引发了极大部分人的关注。这大概就是所谓的“事与愿违”吧？</p>
+<p>真的，中华民族是可以更优秀更伟大的，如果我们不跟人类文明脱节，凭着中华民族的勤劳智慧，完全有可能进入世界第一方阵。只是我们时不时会做一些蠢事，蠢得“无一方受益”——对谁都没有好处。有时，还起了反作用。比如你这样秒删，台湾受损了吗？没有，反而衬托出它的民主。大陆人民受损了吗？没有，反而激发起了解彼岸的热情；咱们的当政者受益了吗？没有，反而被人诟病。这又是何苦呢？</p>
+<p>《国语》有曰：“防民之口，甚于防川，川壅而溃，伤人必多，民亦如之。是故为川者，决之使导；为民者，宣之使言。”翻译成大白话，一言以蔽之：不让人民说话，必有大害。言路有通道，社会就会良性平衡。一经阻塞，必然形成梗阻，一旦决堤，就不可收拾。这个基本道理谁都懂，假如我想引用各届领导人的有关言论，比比皆是。随便搜出一条——习近平指出，要继续加强民主监督。对中国共产党而言，要容得下尖锐批评，做到有则改之、无则加勉；对党外人士而言，要敢于讲真话，敢于讲逆耳之言，真实反映群众心声，做到知无不言、言无不尽。</p>
+<p>你看，最高领导人都号召我这样的党外人士“知无不言言无不尽”了。可是，我连“言无不尽”还早着呢，就有“会错意”（会对意？）的人“动手”了：把我冷静分析的谏言之文粗暴删除。害得很多朋友连连索取——你那写什么什么的文章，能不能不通过朋友圈私下发给我？你看看，就像今天上午的火爆转发一样，一旦地面上的光明不让通行，“地火运行”就开始了。</p>
+<p>“她”，这个尙显陌生的“民国总统”蔡英文，就是这样通过“地火运行”，侥幸地在这儿扩大了她的影响。这是始料未及的吧？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%88%98%E5%B7%BD%E8%BE%BE%EF%BC%9A%E5%A6%88%E8%9B%8B%E5%A5%BD%E8%A0%A2-%E4%BD%A0%E7%9A%84%E7%A7%92%E5%88%A0%E6%88%90%E5%85%A8%E4%BA%86%E5%A5%B9%E7%9A%84%E5%9C%B0%E7%81%AB%E8%BF%90%E8%A1%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8/?category=18271" rel="tag">两岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89/?category=18271" rel="tag">公平正义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF%E4%BD%93%E5%88%B6/?category=18271" rel="tag">宪政体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4/?category=18271" rel="tag">就职演说</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%85%9A/?category=18271" rel="tag">执政党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88/?category=18271" rel="tag">改革方案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%90%8C%E5%AD%98%E5%BC%82/?category=18271" rel="tag">求同存异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E7%BB%93%E6%9E%84/?category=18271" rel="tag">经济结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%A6%96%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E5%A5%B3%E5%A3%AB%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/" target="cdt-mirror">【异闻观止】首都大学生致蔡英文女士的一封信</a>
+</h2>
+<p><p>5月20日，蔡英文将就职台湾地区领导人，北京一些大学生在网上发出一封公开信，呼吁台湾地区新任领导人不要让两岸青年的心越走越远。   来源：中华全国学联微信公号</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20160519153027_0c145e66fe3078682da10cabe461e368_1.jpeg?resize=435%2C640" alt="20160519153027_0c145e66fe3078682da10cabe461e368_1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20160519153027_0c145e66fe3078682da10cabe461e368_1.jpeg?resize=204%2C300 204w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20160519153027_0c145e66fe3078682da10cabe461e368_1.jpeg?w=435 435w" sizes="(max-width: 435px) 100vw, 435px" data-recalc-dims="1"></p>
+<p>台湾地区嗣领导人蔡英文女士敬启：</p>
+<p>在这封公开信的开头，我们首先代表首都高校的莘莘学子，向即将在台北就职的您表示祝贺。</p>
+<p>这一祝贺，既是祝贺您即将正式就任台湾地区领导人，并与您领导的政党在未来几年内执掌台湾的印信；更是要祝贺您正拥有着决定下一代台湾青年命运的权力。</p>
+<p>我们是在首都北京求学的中国青年，而海峡对岸的、与我们年龄相仿的一群人，是生长在台湾的中国青年，是同样夙兴韬奋的青年。在日益复杂的国际局势和两岸同样迅速、深刻地变化着的社会中，我们将面对同样的挑战和风浪，也终将铸就属于我们的时代，写下我们的历史篇章。因此，今天的青年正是明日的历史，而今天青年的命运，正是两岸未来的命运。我们的这封信，正是想与您浅薄明白地探讨两岸青年的未来。</p>
+<p>朱子云，“将心比心，如此则各得其平矣”，我们不妨从换位思考开始。过去的四十年，大陆通过改革开放获得了令世人瞩目的发展成就，跃升全球第二大经济体。为促进双方发展，两岸开始在经济等领域进行合作，台湾对陆贸易占总贸易额更近四成。但也就是在两岸合作日益密切、经济文化交流日益深入的同时，作为青年的我们，设身处地地发现了台湾青年的忧虑。这份忧虑，来自两岸经济体量的巨大悬殊，来自对所谓文化同化与入侵的忧虑，来自对固有生活模式恐将变易的不安。我们隐然猜测，就是在这样的情绪中，两岸青年的心越走越远。</p>
+<p>其实，这种不安，既是当代台湾青年的不安，也是随着大陆的崛起而成长起来的您的不安——毕竟您也曾是热血沸腾的青年，是读着“毋忘在莒”长大的学子，是攻研法学的年轻人。</p>
+<p>但台湾青年，真的有必要筑起这样一道高墙吗？</p>
+<p>也许是时候放下这种零和博弈的思想，放下这种小大之辩的恶习。并非一切庞大的东西都像童话书中的恶龙，要吞没静谧的村庄。大陆近年来取得了长足的发展，却诚然是建立在互助与和平的基础上的，我们只是凭借自己的一双手、一颗心，凭着中国人那股子最传统的精气神，面朝黄土背朝天地干出了踏实诚恳的事业。我们尊重他国的文化和艺术，尊重对方的思想和生活，更何况对岸的、打断骨头连着筋的台湾同胞！当一群青年试着向另一群青年伸出友好的双手，我们期待的只是友好的回应。<br>
+这就是北京青年想到的台湾，想到的那些支持您的淳朴的台湾青年。他们的投票与信任是对您振兴台湾的期待，期待您给他们带来更好的生活环境，而绝不是支持您与大陆割席而居的推手。刚刚我们说到将心比心，那么请您和台湾青年，不妨也来替大陆的青年想一想吧。</p>
+<p>还记得日前《人民日报》的一篇社论，大意是“蔡英文承认九二共识是两岸关系的基石和底线”，此言不虚；它同时也是首都大学生和大陆所有莘莘学子的底线，是大陆十三亿生民的底线。因为九二共识的核心就是一个中国，它代表着一个亘古不变的真理，那就是在这片孕育了黄皮肤黑眼睛的中国人的古老的土地上，无论两岸做出怎样的口头表述，都只能有一个中国，而不是两个独立的、哪怕亲如一家的主权国家。</p>
+<p>当七十年前的一代人随着“蒋公”撤往台湾，他们和他们的后人都只看到了建设台澎金马的不易，感念“美台协防”的法案，却对对岸人民的辛劳几无所知。我们多么希望，您和全体的台湾青年，能够理解这片多灾多难的国土上所生养的中国人民，在经受了一百五十年的入侵和割裂之苦后，对民族复兴、国家统一的不可阻挠的期盼！</p>
+<p>顾炎武曾言，“国家兴亡，匹夫有责”，殊不知国家兴亡，最是青年有责。青年，是最有理想、最有力量的一个群体，却因为资历的不足，无力客观系统地表达自己的见解，无力决定自己的命运。但当大陆的一代青年人在中国梦的指引下，大胆向岛另一侧的世界微笑挥手的时候——蔡女士，您的肩上便已多了这份沉甸的责任。是时候直面大陆青年不容动摇的底线，回首台湾青年渴望发展的诉求。也许您会选择一种矫揉的说法在明天谈及或淡化九二共识，又也许您会采取熟络的政治文书来满足各方的高见；但我们期望，您终究不会选择回避“一个中国”的事实。</p>
+<p>当大陆在过去的岁月里不断释出丰厚的善意，当大陆的青年在未来的日子里将愈加平等地理解台湾的文化，当日历簿在初夏的风中向着五月二十号迈进，历史的皮球也即将传到您的脚下。从破冰之旅到习马会；过去的台湾当局所留下的政治遗产并非沙上之塔，两岸共同铸就的和谐的局面决非唾手可得。我们也期待您能够为台湾的下一代青年带来稳定的发展环境，拓展宽裕的生存空间；为他们打开与大陆青年互动互信的未来之门。</p>
+<p>这道门的钥匙，现在就卷藏在您就职典礼演说的最里层——文舒锁钥现，且行且珍惜。</p>
+<p>此致<br>
+敬礼！</p>
+<p>北京化工大学 刘一君</p>
+<p>北京林业大学 李嘉译</p>
+<p>华北电力大学 朱健斌</p>
+<p>北京大学 石爽爽</p>
+<p>清华大学 刘书田</p>
+<p>中国人民大学 唐塘</p>
+<p>北京师范大学 钟明浩</p>
+<p>北京建筑大学 高源</p>
+<p>中央民族大学 任静</p>
+<p>北京第二外国语学院 黄从浩</p>
+<p>北京工商大学 马菊生</p>
+<p>北京科技大学 陈鑫兰</p>
+<p>中央民族大学 黄曦</p>
+<p>防灾科技学院 吴遂心</p>
+<p>首都经济贸易大学 刘涛</p>
+<p>北京林业大学 王一哲</p>
+<p>国际关系学院 黄万霖</p>
+<p>中国传媒大学 常顼雯</p>
+<p>北京邮电大学 杨昊</p>
+<p>中国人民公安大学 何杨杨</p>
+<p>中国人民公安大学 王泽宇</p>
+<p>北京交通大学 靳扬</p>
+<p>中国传媒大学 许嘉博</p>
+<p>中国农业大学 丁艺</p>
+<p>华北科技学院 李春洋</p>
+<p>中国政法大学 陈慕寒</p>
+<p>中国石油大学 张董莹</p>
+<p>北京信息科技大学 陈一鸣</p>
+<p>北京理工大学 邓雨轩</p>
+<p>2016年5月19日</p>
+<p>相关阅读：</p>
+<p><a title="【CDTV】蔡英文就职演说视频" href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E8%A7%86%E9%A2%91/">【CDTV】蔡英文就职演说视频</a></p>
+<p><a title="【真理部】蔡英文就职报道" href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-8/">【真理部】蔡英文就职报道</a></p>
+<p><a title="联合早报 | 台湾总统蔡英文520就职演说全文" href="https://chinadigitaltimes.net/chinese/2016/05/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5-%E8%94%A1%E8%8B%B1%E6%96%87520%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E5%85%A8%E6%96%87/">联合早报 | 台湾总统蔡英文520就职演说全文</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%A6%96%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E5%A5%B3%E5%A3%AB%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8/?category=18271" rel="tag">两岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89/?category=18271" rel="tag">公平正义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF%E4%BD%93%E5%88%B6/?category=18271" rel="tag">宪政体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4/?category=18271" rel="tag">就职演说</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%85%9A/?category=18271" rel="tag">执政党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88/?category=18271" rel="tag">改革方案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%90%8C%E5%AD%98%E5%BC%82/?category=18271" rel="tag">求同存异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E7%BB%93%E6%9E%84/?category=18271" rel="tag">经济结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E5%9C%A8%E7%9F%A5%E4%B9%8E%E7%9A%84%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%88%A0%E9%99%A4/" target="cdt-mirror">奇客资讯 | 美国驻华使馆在知乎的账号被删除</a>
+</h2>
+<p><p>美国驻华使馆的外交官在中国的问答网站知乎上注册账号回答网友的提问，结果被中国政府视为是“<a href="https://mp.weixin.qq.com/s?__biz=MzA3NTE5MzQzMA==&mid=2654949237&idx=3&sn=6f0ce3a7b61b65b3fc3b656f518882ee&scene=2&srcid=0517U1SD2EBl5CH9SDW1KNYw&from=timeline&isappinstalled=0#wechat_redirect" target="_blank"><u>舆论战</u></a>”，似乎这群美国人想通过中国社交网站阴谋颠覆中国，仿佛防火长城还做的不够彻底。为了避免不懂事的中国网民被美国外交官传播的西方价值所吸引，相关问题以及美国大使馆的账号<a href="https://webcache.googleusercontent.com/search?q=cache:xkkI6f6IvqwJ:https://www.zhihu.com/roundtable/usa%3Futm_campaign%3Dofficial_account%26amp%3Butm_source%3Dwexin%26amp%3Butm_medium%3Dzhihu%26amp%3Butm_content%3Droundtable+&cd=5&hl=en&ct=clnk&gl=us" target="_blank"><u>全部被删除（Google快照）</u></a>。美国驻北京使馆发言人Benjamin Weber<a href="http://blogs.wsj.com/chinarealtime/2016/05/20/not-so-soft-spot-u-s-embassy-qa-scrubbed-from-chinese-social-media-site/" target="_blank"><u>确认了这一消息</u></a>，对中国政府的做法表达了失望。知乎则拒绝对此发表评论。四位公共事务、教育和领事处的外交官的账号，以及两位参与问答的教授的账号被删除。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E5%9C%A8%E7%9F%A5%E4%B9%8E%E7%9A%84%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%88%A0%E9%99%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">中国政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/?category=18271" rel="tag">公共事务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E9%99%A4/?category=18271" rel="tag">删除</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%AB%99/?category=18271" rel="tag">社交网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA/?category=18271" rel="tag">舆论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E7%AE%A1%E5%AE%83%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E9%80%9A%E7%A8%BF%E8%AF%B4%E6%98%AF%E9%B9%BF%E6%88%91%E4%BB%AC%E5%86%B3%E4%B8%8D%E8%AF%B4%E6%98%AF%E9%A9%AC/" target="cdt-mirror">【网络民议】不管它是什么，通稿说是鹿我们决不说是马</a>
 </h2>
 <p><p><strong>【编者注】截至发稿时，这则曾有4千多条评论和2千多次转发的热门微博已遭删除。</strong></p>
@@ -470,170 +569,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA-%E5%B0%81%E8%BD%AC%E5%8F%91-%E4%B8%8D%E6%8A%A4%E7%9F%AD/" target="cdt-mirror">【网络民议】平安北京：删评论 封转发 不护短</a>
-</h2>
-<p><p><a href="http://weibo.com/1288915263/DweaWbnKF" target="_blank">@平安北京</a>于中国时间2016年5月19日发布雷洋案情况通报，此时距雷洋死亡已过了将近两周：</p>
-<blockquote><p>北京市公安局对雷洋案高度重视，事发后立即责成昌平分局及时通报检察机关，并积极配合开展调查工作，相关人员接受调查。公安机关坚决尊重事实、尊重法律，坚决依纪依法处理，绝不护短。</p></blockquote>
-<p>同时有许多网民在微博抱怨@平安北京 删除了自己的评论。截至发稿时，新浪微博在使用“延时”手法来过滤审查评论，该微博转发内容也遭隐藏。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AF%84%E8%AE%BA%E9%99%90%E5%88%B6.jpg" rel="attachment wp-att-438358"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AF%84%E8%AE%BA%E9%99%90%E5%88%B6.jpg?resize=525%2C406" alt="评论限制" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/评论限制.jpg?resize=300%2C232 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/评论限制.jpg?resize=768%2C595 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/评论限制.jpg?resize=1024%2C793 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/评论限制.jpg?w=2258 2258w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>对@平安北京 相关微博的评论需要通过新浪严格审查后，有选择性地发表；中国数字时代截图</span></p></div>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@Mr大大大大龙：这还叫及时？立即？</p>
-<p>@小小艺com：我本来想表扬你们的，奈何你们不让我评论，公民的言论自由呢@平安北京</p>
-<p>@慕鱼般若：迟来也就算了，还要删除评论！我问评论到底谁删除的，那条评论也被删除了，@平安北京 垃圾！</p>
-<p><a href="http://weibo.com/wangshuchonghua?refer_flag=1001030103_" target="_blank">@汤汤若望 </a>：法治国家的概念下，这话太失水准！似乎法律还可以允许你有选择做家长的权力似的。这是装逼的水平没有，还是出于蔑视法律机制的高傲？让人带评转发都不敢！公仆也算是逆天了<img title="[衰]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/af/cry.gif" alt="[衰]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[拍照]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d5/lxhpz_org.gif" alt="[拍照]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/u/1334152342?refer_flag=1001030103_" target="_blank">@恍惚De岁月</a>：请<a href="http://weibo.com/n/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC?refer_flag=1001030001_" target="_blank">@平安北京</a> 不要干扰评论隐藏转发<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"></p>
-<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4f858c96gw1f40m2wkdkhj20ka0l3dhm.jpg" rel="attachment wp-att-438352"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4f858c96gw1f40m2wkdkhj20ka0l3dhm.jpg?resize=440%2C457" alt="4f858c96gw1f40m2wkdkhj20ka0l3dhm" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4f858c96gw1f40m2wkdkhj20ka0l3dhm.jpg?resize=289%2C300 289w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4f858c96gw1f40m2wkdkhj20ka0l3dhm.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p></blockquote>
-<p>@吗啡肾上腺素：@平安北京 评论：没点实际性内容。就删帖拉黑！这就是平安北京的气度？！</p>
-<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laprk0kj20ku112n2n.jpg" rel="attachment wp-att-438350"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laprk0kj20ku112n2n.jpg?resize=375%2C667" alt="8f6d054ejw1f40laprk0kj20ku112n2n" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laszhnpj20ku0e175v.jpg" rel="attachment wp-att-438349"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laszhnpj20ku0e175v.jpg?resize=375%2C252" alt="8f6d054ejw1f40laszhnpj20ku0e175v" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laszhnpj20ku0e175v.jpg?resize=300%2C202 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40laszhnpj20ku0e175v.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40larm6qfj20ku112dix.jpg" rel="attachment wp-att-438348"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/8f6d054ejw1f40larm6qfj20ku112dix.jpg?resize=375%2C667" alt="8f6d054ejw1f40larm6qfj20ku112dix" data-recalc-dims="1"></a></p></blockquote>
-<p><a href="http://weibo.com/u/2073887417?refer_flag=1001030103_" target="_blank">@sunny哇 </a>：#平安北京##雷洋案# 果不其然 评论转发数出现不正常变动 发两个评论均被删除 说了不护短 删评论转发为何呢 这是心虚呢心虚呢还是心虚呢<img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<blockquote><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l436e4cj20hs0vkaj9.jpg" rel="attachment wp-att-438343"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l436e4cj20hs0vkaj9.jpg?resize=375%2C666" alt="7b9d02b9gw1f40l436e4cj20hs0vkaj9" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l436e4cj20hs0vkaj9.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l436e4cj20hs0vkaj9.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l42dij7j20hs0vkk0l.jpg" rel="attachment wp-att-438344"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l42dij7j20hs0vkk0l.jpg?resize=375%2C666" alt="7b9d02b9gw1f40l42dij7j20hs0vkk0l" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l42dij7j20hs0vkk0l.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l42dij7j20hs0vkk0l.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l416bf7j20hs0vkwnm.jpg" rel="attachment wp-att-438345"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l416bf7j20hs0vkwnm.jpg?resize=375%2C666" alt="7b9d02b9gw1f40l416bf7j20hs0vkwnm" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l416bf7j20hs0vkwnm.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l416bf7j20hs0vkwnm.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41ti10j20hs0vkgut.jpg" rel="attachment wp-att-438346"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41ti10j20hs0vkgut.jpg?resize=375%2C666" alt="7b9d02b9gw1f40l41ti10j20hs0vkgut" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41ti10j20hs0vkgut.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41ti10j20hs0vkgut.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41cg4jj20hs0vkk0m.jpg" rel="attachment wp-att-438347"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41cg4jj20hs0vkk0m.jpg?resize=375%2C666" alt="7b9d02b9gw1f40l41cg4jj20hs0vkk0m" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41cg4jj20hs0vkk0m.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/7b9d02b9gw1f40l41cg4jj20hs0vkk0m.jpg?w=440 440w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p></blockquote>
-<p>@TopcrestWatchin：如何在制度层面上做到“不能护短”，将牢牢掌握在你手中的“护短权”收回来，才是彻底解决问题的核心所在。如今，“护”与不“护”全在你一念间，由你意气用事，这种事不靠谱。不解决这个核心问题，你的坚决表态毫无意义。因为，雷洋之后必还有雷洋。@平安北京</p>
-<p>@还是刘文浩: 最后一句“决不护短” 说的没水平了。文字前面的表述都是“依法进入程序”。法制社会就不应该有“护短”的说法，更何况是首善之都的公安</p>
-<p>@茅山修士17 ： 护短惯了，特别要指出这次不护短</p>
-<p>@张_三_疯_ ： 没有认可的第三方 自己上级说不护短 不能服众啊</p>
-<p>@兔斯基_7：【北京警方:雷洋案坚决尊重事实尊重法律决不护短】 这种说法本身就很可笑，意思是闹大了，才会不护短，没闹大就护短，草菅人命咯？</p>
-<p>@张文学 ： 不护短要：开放评论；不要删除律师的发言和调查结果。</p>
-<p>@四月是你的消失 ： 就是说之前都在护短咯？~~</p>
-<p>@光头金007：在@平安北京 下面发了个评论，这帮傻比就把我拉黑了，你党就这出息！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA-%E5%B0%81%E8%BD%AC%E5%8F%91-%E4%B8%8D%E6%8A%A4%E7%9F%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">平安北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-%E4%B8%80%E5%9C%BA%E5%90%8C%E5%BF%97%E5%A9%9A%E7%A4%BC%E7%9A%84%E8%83%BD%E8%A7%81%E5%BA%A6/" target="cdt-mirror">中国青年报 | 一场“同志婚礼”的能见度</a>
-</h2>
-<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za1rejcxj20fa0bh0vw.jpg?resize=550%2C413" alt="5月17日，长沙同性恋人孙文麟、胡明亮举行婚礼。孙文麟的母亲和胡明亮的父亲出席。中国青年报·中青在线记者 陈轶男/摄" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za1rejcxj20fa0bh0vw.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za1rejcxj20fa0bh0vw.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>5月17日，长沙同性恋人孙文麟、胡明亮举行婚礼。孙文麟的母亲和胡明亮的父亲出席。中国青年报·中青在线记者 陈轶男/摄</p></div>
-<p>“结婚证”终于来了。</p>
-<p>婚礼开场前半个小时，这两本从武汉发货的证件才有惊无险抵达长沙的会场。不同于平常的结婚证，上面没有钢印，“有效期：一生一世。”</p>
-<p>来帮忙的志愿者匆匆贴上孙文麟及其同性爱人胡明亮的红底免冠合影，又用黑色签字笔填上两人的名字。照片太大，几乎超过了证书的宽度。</p>
-<p>“孙文麟和胡明亮正式确定为夫妻关系”，两本假证一本正经地宣布。虽然，连盖在上面的红色印章指代的“中国幸福委员会”都不存在。</p>
-<p>“本证书仅供娱乐，勿作他用。”最下方印着一行小字。</p>
-<p>尽管如此，当孙文麟的母亲将这个不具备法律效力的棕色小本子交给他时，这个一向冷静寡言的27岁男人红了眼眶，婚礼的来宾爆发出热烈的掌声。</p>
-<p>他们选定的“婚期”是2016年5月17日，提倡多元性别平等的“国际不再恐同日”。此时距离孙文麟试图结婚领证已经过去将近一年。在他出生的第二年，1990年5月17日，世界卫生组织将同性恋从《国际疾病分类》中除去，同性恋不再被视为精神疾病，“国际不再恐同日”由此而来。</p>
-<p>2015年6月23日，孙文麟和胡明亮带着户口本去长沙市芙蓉区民政局登记结婚，不出意料被工作人员拒绝。婚姻登记处主任对他说：“如果你带个女的来，我现在就发证给你。”</p>
-<p>如今，他和胡明亮携手站上了婚礼舞台。作为中国“同性恋婚姻登记第一案”当事人，他在一个多月前向基层法院起诉了民政局，等来了败诉的结果。他们随后向长沙中级人民法院提起上诉，并决定要举办一场让社会看得见的公开婚礼。</p>
-<p>他们还众筹发起“100场同志婚礼”项目，希望将同性恋者的婚姻诉求告诉社会。</p>
-<p>现在，第一场开始了。</p>
-<p>曾是一名单身主义者的他，觉得自己必须追求婚姻</p>
-<p>为了这场未获婚姻登记处承认的“婚姻”，很多人忙了很多天。</p>
-<p>5月15日下午，长沙库爱餐厅3楼的一扇木门背后，圆桌边的15个座位陆续坐满了人。有在校大学生、年过半百的工人，还有成家生子的“直男”。他们都是孙文麟从网上招募到的志愿者，共同参与两天后婚礼的筹备。</p>
-<p>这是一场效率颇高的临时会议。两个半小时内，会场布置、婚礼流程、背景音乐等诸多细节被一一敲定。有人提议在婚礼后增设现场相亲环节，被以“不好掌控”的理由否决。还有人问，有没有“嘭地一下”喷彩带的东西，免费提供服务的婚庆公司负责人急得直拍桌子：“我又不是哆啦A梦，我怎么能什么都有？”</p>
-<p>白净纤瘦的孙文麟坐在靠里面的位置，听着这些大多与他初次见面的人七嘴八舌地讨论，多数时间在安静地抽烟和嚼槟榔。</p>
-<p>在烟雾缭绕的桌边，逐渐成型的不仅是他的婚礼，也是“100场同志婚礼”项目启动仪式。这个项目是败诉之后，孙文麟和几个朋友想出来的。他还将征募99对同性恋伴侣，为他们公开举办婚礼。</p>
-<p>他在12岁时就发觉自己喜欢同性，3年后，中国官方才首次向世界公布有关男性同性恋人数数据。卫生部门估算，中国有500万至1000万名男性同性恋者。</p>
-<p>26岁时，他遇到了想共度一生的爱人——比他大10岁的保安胡明亮。在他寻求真爱的这些年里，世界上陆续认可同性婚姻已有20个国家。</p>
-<p>“我就是想让同志伴侣以办婚礼的方式来提高能见度。”孙文麟说，“让大家不能再说这个国家没有同性恋人群的存在，不能再说同性恋没有结婚的诉求。”</p>
-<p>在遇到胡明亮之前，孙文麟从未想过结婚。自小父母离异、跟时常吵架的爷爷奶奶一起生活的他，长期是一名单身主义者，直到“一见钟情”。</p>
-<p>他们很快就同居了。胡明亮性格温和，对孙文麟十分体贴包容。“志趣相投”的他们还曾经一同经营茶馆，组织沙龙。孙文麟觉得，有胡明亮在身边，自己更加有力量面对一切。他们的“同志爱情”有一分“革命情谊”。</p>
-<p>相爱半年后，两人有了成家的愿望。“你要跟你没有血缘关系的人成为家人，你只能通过结婚这种方式。”孙文麟打趣说，“我们又不能互相收养。”</p>
-<p>虽然结婚证只是一张纸，在面对生老病死的时刻，他们可以用那张纸来证明互为爱人而非陌生人，从而有权利在对方的病危通知书上签字。</p>
-<p>婚姻还涉及财产继承、购房补贴等一些现实利益。</p>
-<p>孙文麟和胡明亮住在租来的房子里，二三十平方米的开间里摆放着几件简单的家具，一开伙就满屋油烟。这是他们的婚房。除了在床边墙上贴了一面彩虹旗，这对“新婚夫夫”没有对婚房做任何布置。</p>
-<p>对于婚礼的细节，孙文麟也没有设想太多。他唯一的意见是“更特别一点”，要给人留下深刻的印象。</p>
-<p>说到捧花，说到异性恋婚礼的传统誓词，他都从烟圈后面幽幽地吐出两个字“不要”。</p>
-<p>安排志愿者去购买小彩虹旗时，孙文麟才摁下烟头，不紧不慢地追问了一句：“到那边顺便买两本结婚证咯。”</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za2wtejpj20fa0bhwhx.jpg?resize=550%2C413" alt="“本证书仅供娱乐”，孙文麟和胡明亮领不到结婚证，买了一本戏谑式的，贴上二人的合影。中国青年报·中青在线记者 陈轶男/摄" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za2wtejpj20fa0bhwhx.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/66eeadffjw1f3za2wtejpj20fa0bhwhx.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>“本证书仅供娱乐”，孙文麟和胡明亮领不到结婚证，买了一本戏谑式的，贴上二人的合影。中国青年报·中青在线记者 陈轶男/摄</p></div>
-<p>他被爸爸踹翻在地</p>
-<p>这两本“结婚证”，他们本想花9元去民政局领取。</p>
-<p>然而，去年6月，他们在相识周年纪念日里手牵手到婚姻登记处时，对方以“没有法律规定同性可以结婚”为由拒绝了他们。</p>
-<p>孙文麟不服，向芙蓉区人民法院提交了诉状。4月13日，法院一审驳回请求。5月5日，他再次提交了诉状。</p>
-<p>婚礼的准备也并不顺利。离婚礼只剩4天，原先同意免费提供场地的婚礼场地工作人员突然告知，老板坚决不同意举办同性婚礼。场地临时更换为库爱餐厅。所幸，这家餐厅为他们免去近3万元的场租，并竭力配合布场。</p>
-<p>婚礼两天前，孙文麟和朋友们召集志愿者开筹备会议，到场的只有10多人，远少于网上报名的人数。</p>
-<p>最大的问题在于资金的募集。志愿者通过“腾讯公益”平台联系了十几家公募机构，没有一家机构愿意来认领“100场同志婚礼”的项目。</p>
-<p>这一点让孙文麟始料未及。</p>
-<p>志愿者们告诉他，这些公募机构普遍认为，同志组织的活动除了教育和培训类的之外都不属于公益活动，但他认为，人们实际上就是存在偏见。</p>
-<p>募捐转向“轻松筹”平台。第一期众筹资金整体预算是8万元，截至目前仅有1万多元筹款。</p>
-<p>这不仅没有动摇他的决心，反而让他更坚定。他在个人微信公众号上写道：“这正是我们现在要去推动其改变的一个领域，这也更加说明我们非常有必要去做这100场同志婚礼，让所有人都记住这100场同志婚礼。”</p>
-<p>对于同性恋处境的艰难，从“出柜”那一天起，孙文麟已经感知了13年。</p>
-<p>14岁时，他在奶奶的生日宴会上当着远方亲戚的面宣布自己喜欢男生。虽然两年前，湖南卫视《有话好说》栏目制作播出了“走近同性恋”节目，这是中国电视媒体首次关注同性恋，这个位于省会的家庭没能与它碰面。</p>
-<p>回家后，孙文麟被爸爸踹翻在地，然后被家人“轮流批斗”。</p>
-<p>“你就说你这个是很丢脸的事情，你怎么还能够跟别人讲？”“你应该为此感到羞耻。”“你这样讲出来，你让奶奶以后怎么在亲戚朋友面前做人？”</p>
-<p>直到现在，孙文麟对当时的场景还历历在目。而那时“一不阅读二不思考”的他只能任由他们攻击，“没有任何武器”。</p>
-<p>更让他心寒的是，那一天，他最依赖的爷爷奶奶没有为他说话，暗中理解他的堂姐也默不作声。家不再是“最温暖的港湾”，他不能原谅家人辜负了他的信任。那天以后，孙文麟学会了抽烟，开始跟家人冷战。</p>
-<p>认为孙文麟应该“羞耻”的家人们并不知道，早在2001年，中国精神病学会颁布第三版《中国精神障碍分类与诊断标准》（CCMD3），将“同性恋”分为自我认同型和自我不和谐型，前者被从精神疾病名单中剔除，实现了中国同性恋非病理化。</p>
-<p>没有接收到信息更新的不只是他的家人。在“出柜”之后的若干年里，孙文麟屡屡面对各种网络论坛里指责同性恋“恶心”“变态”的词语，不知该如何回应。</p>
-<p>今年案子开庭前，还有网友向他提问：“有研究表明，同性恋是一种病，你怎么看？”</p>
-<p>那一项更改在孙文麟看来“悄无声息”。</p>
-<p>“像美国、法国他们以前同性恋去病化的时候就是全国所有普通的民众都在那里讨论，所以公众对同性恋不是病这件事情印象深刻。”他皱着眉头说：“我们国家在同性恋去病化这件事情上依然没有做完整，CCMD3中依然保留了‘自我不和谐型’的同性恋。可以看到的是，‘治疗’同性恋的机构在中国依然猖獗。”</p>
-<p>朴实的父亲微笑着说：“要得。”</p>
-<p>察觉自己的性取向之后，孙文麟在网络聊天室里找到了不少成年的同性恋男子。他们往往告诉孙文麟，年轻时还可以“玩一玩”，以后总要像异性恋一样结婚生子的。</p>
-<p>十三四岁的孙文麟对他们有些“看不起”，觉得他们活得好窝囊，不仅欺骗别人，回到家里还要扮演另一个人。</p>
-<p>随着阅历的增长，他对这些人的选择多了一分理解。</p>
-<p>2005年夏天，孙文麟无意中看到了一则让他永远无法忘记的新闻——伊朗将一对分别为16岁和18岁的同性恋少年处以绞刑。</p>
-<p>在距行刑地5000多公里的中国长沙一家网吧里，16岁的孙文麟颤抖着点开了这两名同龄人被蒙上眼罩、套上绞索的照片。</p>
-<p>“太难过了。”孙文麟回忆说，那一次震惊世界的残酷行为让他意识到，面对社会存在的不合理，敢于面对真实的自我已是一种反抗。</p>
-<p>让他震惊的还有新闻下面的评论，有网友说，这种人就“活该”被绞死。</p>
-<p>高三之后，孙文麟开始大量阅读与同性恋相关的学术资料。</p>
-<p>他了解到，在20世纪70年代的美国，有一群非常激进的同性恋者。他们冲进了美国医学会的会场，去撕海报、抢麦克风，宣告同性恋不是病，要求精神医生赶快停止对同性恋的“治疗”。</p>
-<p>“当时有很多人，他们不但不来争取权利，还斥责那些冲进会场的同性恋太激进。”孙文麟加重了语气。正是那批“激进分子”的努力，促使医生认真倾听。1973年，美国精神病学会便将同性恋剔除出精神疾病分类。</p>
-<p>孙文麟更加坚定了自己的方向——不逃避！</p>
-<p>孙文麟至今能复述2005年西班牙通过同性婚姻法案时总统说的话：我们国家虽然不是第一个，但我相信我们国家也不会是最后一个，因为整个人类世界都会被两种不可阻挡的力量所驱使去推动同性婚姻合法，这两种力量就是自由和平等。</p>
-<p>2013年，法国司法部长陶比拉发表了支持通过同性婚姻法案的演讲。她透过历史和法制史的脉络，层层铺述了有关婚姻、家庭的种种重要改革，告诉人们把婚姻和收养开放给同性伴侣、让婚姻不再限于某种类别的公民而成为普世的制度，正阐明了“自由、平等、博爱”的精神。</p>
-<p>孙文麟觉得，她讲出了自己想讲的话。</p>
-<p>第二年的母亲节，他约母亲到长沙橘子洲头散步。3个多小时，他用这番论述打动了母亲。这位曾在14岁儿子向自己“出柜”时质疑他“赶时髦”的母亲，彻底站在了儿子这一边。她支持他去争取平等结婚的权利，她告诉孙文麟，不要在乎别人的眼光，要在乎的是自己。</p>
-<p>与此同时，经过与胡明亮的一段时间接触，孙文麟祖父母的态度也渐渐发生变化。就连从来不给胡明亮好脸看的孙父，也在去年中秋节家宴后第一次主动对他说话——“以后孙文麟就靠你好好照顾了。”</p>
-<p>今年春节，孙文麟跟爱人回湘潭农村老家。当着他的面，胡明亮对一辈子干体力活儿的父亲说：“这是我要待一辈子的人。”</p>
-<p>朴实的父亲微笑着说：“要得。”</p>
-<p>就在他们去民政局申请的第3天，美国最高法院以5∶4的投票结果裁定，同性婚姻合乎宪法。这一结果意味着同性婚姻在全美50个州全部合法，美国也因此成为第21个在全境承认同性婚姻的国家。</p>
-<p>不管怎么说，5月17日14时，孙文麟和胡明亮的婚礼举行了。</p>
-<p>没有婚宴。每个到来的宾客都能从入口处领到一面小小的彩虹旗。挂着彩色气球的白色座椅环抱着中央舞台。</p>
-<p>孙文麟事先关于工作日下午没人会来的担忧被证明是多虑了。不仅200张座位被坐满，会场外围还站了一圈人。网友，逃课来的大学生，中老年人也不在少数。有人专程从外地赶来。</p>
-<p>在司仪的引导下，身着西装的新人携手走上舞台。这十几秒的路程，他们走了两年。</p>
-<p>觉得自己平时关心公共事务、不善说甜言蜜语的孙文麟对爱人补上了迟到的求婚誓言：“我非常感谢你出现在我的生命中，陪着我去做一些很多人都不敢做的事情，我们一起打开了非常多一辈子都不会打开的地图。你愿意与我共同扶持、互相照顾，成为我的爱人吗？”</p>
-<p>孙文麟的妈妈和胡明亮的爸爸上台为儿子们颁发“结婚证”。</p>
-<p>胡父用“开心”二字回答司仪抛来的所有问题，孙母为新人送上祝福： “妈妈现在的心情很激动。我想祝福我的儿子孙文麟，还有另一个儿子胡明亮，幸福快乐相伴到老！”</p>
-<p>为了增添喜气，她今早决定，在之前准备的服装外面加上一件红色开衫。而就在婚礼前一天，她坐在儿子家里，一边往喜糖上贴婚礼标志，一边忍不住对记者哭了起来。</p>
-<p>“我的心情太矛盾了。”她抽泣着说，一方面支持儿子，另一方面充满担心，不知道儿子能“撑到什么时候”。像他这样出头的人太少了。</p>
-<p>“妈妈再支持你，又能帮上你什么呢？”母亲泣不成声。</p>
-<p>“你可以的，现在安静一点就帮我了。”儿子平静地回答她。</p>
-<p>站在婚礼现场，这位47岁的母亲紧紧握着儿子的手，呼吁所有像她儿子一样的同性恋者站出来为自己发声。“要为自己争取权利。”她提高了声音，“婚姻的、家庭的权利！不要还没做就说不可能。我会永远支持你们。”</p>
-<p>两位长辈与新人在婚礼上紧紧抱在一起。很多人看哭了。</p>
-<p>满场不见一个“囍”字。满场挥舞着彩虹旗。</p>
-<p>中国青年报·中青在线记者 陈轶男　　来源：中国青年报　　（ 2016年05月18日 09 版）</p>
-<p><strong>以下为数字时代编辑摘自该微博文章下的部分网友评论：</strong></p>
-<p><em>@5403954748mei：觉的特别恶心，应该管管这些同性恋。现在这是怎么了，变得都不是人了。</em></p>
-<p><em>@神洲股侠：不管是不是真爱，但我真的觉得恶心。</em></p>
-<p><em>@我想要套房子：一起很友好很亲密知己，情同兄弟，为什么要男男性关系呢， 不反对他们怎么搞性关系生活，但别在众目睽睽秀，因为还很多心智未成熟的小孩。媒体也别为了一味博取眼球而忘了自己社会责任，与自己的良心，对社会和小孩子不良影响。哗众取宠，有什么好引导？违反大自然主流规律，害父母有伤风化断烟火。</em></p>
-<p><em>@商演策划执行：现在这年头，两个男的在一起的理直气壮的，你不支持好像还是你的错了！</em></p>
-<p><em>@听雨咖啡馆的马吉克先生：话糙理不糙 你不是同性恋你就别转发别支持 万一误导了别人家孩子 他们变成了同性恋 这孽造大了 几辈子都还不清 毁人家族</em></p>
-<p><em>@适度偏离：没人觉得恶心？这社会怎么了？！</em></p>
-<p>@chnxxx：不支持，不接受，不反对</p>
-<p>@春风榴火三百里：其实不光在性少数群体争取权利这一件事，中国人能不能不要总是指点他人的生活？你不能理解，不能认同，没关系，这是你的自由，但是因为别人和你不一样、你自己不能理解他人的生活，就指责别人恶心是怪物，这就是恶毒了。</p>
-<p>@Foxcatcher24：有时候真的不知道哪些反对同性结婚的人是怎么想的。首先结婚是每一个人的基本人权（追求幸福的权利）。其次，你自己的孩子也有可能是同性恋，假如是，你想让他一辈子活在阴暗里吗。最后，在一个同性婚姻得不到认可的社会，你的女儿可能会沦为同妻。于人于己，支持同性恋婚姻，都是正确的也是必要的。</p>
-<p>@肿肿肿肿怎麽了：什么叫活的最真实，这就叫做活的真实，无论自己如何都要认同自己，自己想做的事情都努力去做。看到结婚证瞬间就泪奔了！ ！为什么一提到同性恋你想到的就是滥交，我想到的是长相厮守，是不是你内心阴暗，才看到的阴暗呢！？</p>
-<p>@奶茶糖：这第一步总要有人走出来，很勇敢。</p>
-<p>@文硕：这样的爱既没有违背伦理道德，也没有触犯法律，并且对别人没有造成干扰和伤害，为什么不能被祝福[伤心]？有些人的评论让我心寒，你可以不认同，但你没必要去破口大骂或者攻击他人，你不是同志，你能保证你的孩子和子孙后代就不是吗？每个人都有爱的权利，不论种族甚至不论性别[心]，祝福他们。</p>
-<p>@不羁浪子7：挺想去参加他们的婚礼的。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5-%E4%B8%80%E5%9C%BA%E5%90%8C%E5%BF%97%E5%A9%9A%E7%A4%BC%E7%9A%84%E8%83%BD%E8%A7%81%E5%BA%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E8%BA%AB/?category=18271" rel="tag">单身</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%8A%97/?category=18271" rel="tag">反抗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97/?category=18271" rel="tag">同志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB/?category=18271" rel="tag">同性婚姻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B/?category=18271" rel="tag">同性恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%8F%96%E5%90%91/?category=18271" rel="tag">性取向</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2/?category=18271" rel="tag">最高法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%88%A9/?category=18271" rel="tag">权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%94%BF%E5%B1%80/?category=18271" rel="tag">民政局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85/?category=18271" rel="tag">精神病</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF%EF%BD%9C%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A7/" target="cdt-mirror">我的名字叫警长｜鸡公村有多少中产</a>
-</h2>
-<p><p><strong>来自微信公号：镜外（ID: jingwai01）</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF-1.jpg" rel="attachment wp-att-438334"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF-1.jpg?resize=500%2C437" alt="我的名字叫警长" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长-1.jpg?resize=300%2C262 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长-1.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A7.jpg" rel="attachment wp-att-438333"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A7.jpg?resize=500%2C393" alt="鸡公村有多少中产" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产.jpg?resize=300%2C236 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote>
-<p><strong>新闻提要</strong></p>
-<p>5月16日召开的中央财经领导小组第十三次会议提出,在发展中不断扩大中等收入群体。会议提出了6个“必须”,为扩大中等收入群体指明了方向。</p>
-<p>会议指出,扩大中等收入群体,关系全面建成小康社会目标的实现,是转方式调结构的必然要求,是维护社会和谐稳定、国家长治久安的必然要求。</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A71.jpg" rel="attachment wp-att-438338"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A71.jpg?resize=500%2C1152" alt="鸡公村有多少中产1" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A72.jpg" rel="attachment wp-att-438337"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A72.jpg?resize=500%2C1698" alt="鸡公村有多少中产2" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A73.jpg" rel="attachment wp-att-438336"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A73.jpg?resize=500%2C1529" alt="鸡公村有多少中产3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产3.jpg?resize=335%2C1024 335w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产3.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A74.jpg" rel="attachment wp-att-438335"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A74.jpg?resize=500%2C781" alt="鸡公村有多少中产4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产4.jpg?resize=192%2C300 192w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡公村有多少中产4.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF.jpg" rel="attachment wp-att-438129"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF.jpg?resize=500%2C386" alt="我的名字叫警长" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长.jpg?resize=300%2C232 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF%EF%BD%9C%E9%B8%A1%E5%85%AC%E6%9D%91%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A9%E5%8F%91%E8%B4%A2%E6%97%A9%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">早发财早移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E6%9C%AC%E5%A4%96%E9%80%83/?category=18271" rel="tag">资本外逃</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -645,7 +580,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -655,5 +590,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

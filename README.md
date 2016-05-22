@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,73 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%8B%9F%E5%BC%BA%E6%8E%A8%E5%9B%BD%E8%B5%84%E5%85%A5%E8%82%A1%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%8F%8D/" target="cdt-mirror">唐映红 | 广电总局拟强推国资“入股”视频网站反映了什么？</a>
+</h2>
+<p><p><strong>问：广电总局拟强推国资“入股”视频网站反映了什么？</strong></p>
+<p>答：近日，<strong>“哔”</strong>名昭著的国家新闻出版广电总局有意采取<strong>国资以“特殊股”形式“入股”视频网站以加强奸管</strong><strong>，“建议”视频网站拿出1%—10%的股份给国有单位股东。</strong>那么，作为<strong>奸管</strong>部门的广电总局拟推行的这种措施反映了怎样的决策心理？以及会带来怎样的效应？</p>
+<p>由于目前关于<strong>奸管</strong>部门的这项措施的决策意图以及过程均未见披露，因此很难清晰地了解和分析“<strong>哔”</strong>名昭著的广电总局推出这项政策到底有何意图，作何考量。不过，从现象而言，倒可以对这项政策的决策心理以及可能带来的社会心理效应做一个“沙盘推演”，<strong>奸管部门请勿对号入座。</strong></p>
+<p>首先，<strong>由于现时代中国社会无论是内还是外都处于微妙和多元利益诉求错综交织杂陈的局面，任何公共政策都难以根据其决策初衷而决定其走向。</strong>在权力集团<strong>越来越保守和退缩</strong>的语境下，一个政策，或者政策诉求都会得到不同层面、角度、立场的参差解读，带来截然不同的多种效应，<strong>在强化或巩固某个方面的同时，完全可能在加倍地削弱或损害另一些更为重要的方面。</strong>特别地，缺乏充分和公平的利益博弈下的公共政策，事实上就成为<strong>部门技术官僚们</strong>闭门造车的结果。这反映在：</p>
+<p>1、<strong>部门利益的优化和体制利益的次优化。</strong>这通常表现为，<strong>部门只从本部门利益和效率的角度进行考量，罔顾可能带给体制的其他副作用。</strong>本部门常常只是为了<strong>奸管</strong>的方便，寻租空间的更大，或者体制内攫取资源的更为便利，<strong>决策的出发点和初衷都是为了本部门效益的最大化。</strong>但由于一个复杂体制往往有着此消彼长，此建彼塌的特点，<strong>当某一部门追求利益最大化的同时，体制整体的利益却被次优化了。</strong>例如，广电总局的这项拟行政策，对部门来说不仅方便“依法”<strong>奸管</strong>，也方便<strong>隐形寻租</strong>，但带来的效应对体制而言却几乎可以肯定是<strong>弊大于利。只不过“弊”都是由其他部门来“擦屁股”而已。</strong></p>
+<p>2、<strong>部门官僚可能给体制“挖坑”“埋雷”。</strong>由于高度复杂的现代社会里，各个部门也根据分工而各司其职，部门与部门之间，部门与元首之间，都存在着不可避免同时又极为深广的<strong>信息不对称鸿沟</strong>。因此，<strong>部门官僚精英完全可能出于种种目的和动机，明知道不利后果的情况下，强行推行某一个政策，或事先高调传播某一政策诉求，以此作为体制内部对抗的途径和手段。</strong>用以前的老话，就叫“<strong>打着红旗反红旗</strong>”。</p>
+<p>其次，从管理监管的角度，<strong>“入股”能否加强奸管根本就是自说自话，没有任何依据和常识表明国资入股就能“加强监管”。</strong>且不说广电总局有着不受制衡的行政权力，而且无论是广电总局，还是视频网站都受着同一集团的领导。<strong>以“入股”方式更像是暗示领导集团对视频网站的领导无效，假“加强监管”为借口进行对上的权力僭越，对同级部门（如网监办、工信部）的权力篡夺。</strong>特别地，<strong>通过由广电总局可以直接控制的所谓国资广电机构“入股”视频网站，就能理直气壮从公司治理的角度从工信部或网监部门手里“抢地盘”。</strong>从客观而言，作为一个职能奸管部门，广电有无数的办法和方式管好视频网站，强推国资“入股”绝不是唯一可行，甚至不是有效的途径。</p>
+<p>再者，在整个社会经济濒临衰退危机的语境下，<strong>广电总局此时高调传播国资入股视频网站的政策诉求，不啻是给危机中的中国经济再扔一块石头。</strong>如果广电总局强推的国资“入股”能够得以实行，那么无疑给整个社会乃至整个世界一个强烈而明确的信号：<strong>“合作化运动又要来了”</strong>。稍微了解历史的童鞋都应该知道，建国初期的公私合营的“合作化运动”对中国经济带来的负面影响和严重损害，<strong>而广电总局所诉求的国资“入股”其性质与建国初期的公私合营运动逻辑上并无二致</strong>，而且<strong>从一开始的1%—10%的“特殊股”；到得寸进尺的要求不超过50%的非控股；再到要求控股，这并不是天方夜谭，而是完全可能付诸实践的登门槛效应。</strong>同时，广电对视频网站的国资“入股”诉求一旦得逞，那么<strong>其他部门基于同样的理由，对所管理领域进行驱逐外资，蚕食民资，不过是分分钟的事情。</strong>要知道，相比于视频网站的所谓“问题”，食品领域、药品领域、房地产领域、矿冶领域、化工领域、服务领域，等等，哪个的“问题”不比视频网站严重？</p>
+<p>综上所述，尽管现在尚不能确知<strong>奸管</strong>部门到底是意欲何为，但其政策所诉求的国资“入股”很可能是<strong>体制内部门间鏖战争抢地盘的幌子</strong>；或者<strong>阳奉阴违故意给体制摆烂，攫取目前尚不清楚的某种利益</strong>；或者根本就是<strong>重蹈60多年前以“公私合营”的“入股”为始，开始新一轮资本收割，消灭外资和民间资本的投石问路。</strong></p>
+<p>（本文中的“哔”掩盖的是“臭”。另，“奸”与“监”，在本文中通用。）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%8B%9F%E5%BC%BA%E6%8E%A8%E5%9B%BD%E8%B5%84%E5%85%A5%E8%82%A1%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%8F%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E5%AE%88/?category=18271" rel="tag">保守</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E6%94%BF%E7%AD%96/?category=18271" rel="tag">公共政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BF%A1%E9%83%A8/?category=18271" rel="tag">工信部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权力集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%86%E9%A2%91/?category=18271" rel="tag">视频</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99/?category=18271" rel="tag">视频网站</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 28分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E6%98%AF%E5%AE%98%E8%AF%9D-%E6%9C%BA%E5%85%B3%E5%8F%B8%E6%9C%BA%EF%BC%9A%E5%A4%A7%E9%A2%86%E5%AF%BC%E4%B8%BA%E5%95%A5%E4%B8%8D%E7%88%B1%E8%87%AA%E5%B7%B1%E5%BC%80%E8%BD%A6%EF%BC%9F/" target="cdt-mirror">不是官话 | 机关司机：大领导为啥不爱自己开车？</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%AC%E8%BD%A6%E6%94%B9%E9%9D%A9.jpg?resize=495%2C373" alt="公车改革" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/公车改革.jpg?resize=300%2C226 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/公车改革.jpg?w=495 495w" sizes="(max-width: 495px) 100vw, 495px" data-recalc-dims="1"></p>
+<p>公车改革热闹了一阵子，但在我们这似乎显得“静悄悄”。中央部委机关和省上相关部门基本已完成车改，而有的市、县、乡正在推进中，因此不能说真正实现了全国车改的目标。在个别地方，实情是，一级瞄着一级，能拖一天算一天，能坐一天是一天。</p>
+<p>车改就是一项改革，改革必然会动到一部分人的“奶酪”。而车改动的是领导们的“奶酪”，领导当然不愿意咯，但一般的普通干部是相当欢迎的。</p>
+<p>普通干部对车改兴趣最大的就是有车补了，反正以前也坐不了公车，虽然现在也坐不了公车，但一个月多出了几百上千元的钱，肯定是支持的。</p>
+<p>有的地方考虑到实际情况，也不是一刀切，比如厅级干部和县上一二把手可以在领车补与保留专车二选一，这个选择，有人说就是个“呵呵”。这个账就不用算了，光油钱都不够，更不用说还专门的司机、维修费用等等，只有傻瓜才选择领车补。</p>
+<p>有人断言：“一个处级干部的车补标准是800元，给他们10000元钱的车补，他们也不会愿意车改的”。但是，还是有些领导选择了领车补，比如湖北省统计局副局长叶青，车改前就不享受单位提供的公车。不知道这样的领导，您身边有多少？</p>
+<p>对于车改，应该说领导的司机们最有发言权。笔者曾给不同的领导当司机近十年，其实透过领导司机可以看出车改的矛盾利弊、车改前后的政治生态、甚至可以破解“为官不为”的部分原因。</p>
+<p>1大领导开车“不像话”？</p>
+<p>省一级车改后，一厅级领导以前早上一出门有车接，晚上回到家有车送，私事公事都有公车保障，现在一下子没有了公车，用他自己的话说就是“生活质量下降了一大截儿！”</p>
+<p>当领导坐公车坐惯了能舒服吗？没有了公车是会导致生活质量下降的，这不免要发发牢骚，怎么发？当然不能说自己的生活不方便了，赖到影响工作上是个不错的借口。</p>
+<p>不可否认的是，公车改革确实影响到了工作。一些边远偏僻的乡镇，你去哪儿坐公交、坐出租？因此还是保留有部分必要的通信应急、执纪执法等用车。所谓影响工作肯定有的，但不至于像有的领导说的那么糟糕。想想看，老百姓半夜孩子发高烧，没有公车，他们怎么办？但如果领导遇到这样的情况，用公车谁也不会说什么的。</p>
+<p>但因为这是中央的决定，而中央又率先作表率，当前“守纪律讲规矩”高悬头项，没有一个敢在公车场合抵制车改的。但软磨硬泡是可以的，用影响工作、要考虑实际情况不能一刀切来回应，至少让中央松了一些口子，政策也宽松了一些。</p>
+<p>有司机戏谑道：“以前的公车制度，就是用勺子给领导喂饭，喂惯了有一天让他自己用筷子，他又哭又闹，说让我用筷子我怎么吃饭嘛？”</p>
+<p>前美国驻华大使骆家辉，因“没钱坐头等舱，住不起五星级酒店”而被很多人骂：“堂堂一大使相当于我们的正部级了，你这么做就是作秀，故意让我们难堪！”据我所知，在其他国家或者地区，所谓部级官员自己开车上下班的是理所当然的，引不起任何议论，是“本该如此”的。</p>
+<p>不过话说回来，在我们这里，部级领导自己开车，确实是“闻所未闻”（即使有也不便公开，怕好事者炒作？）。所以，对此普通老百姓会认为大领导自己开车有点“不像话”，既然老百姓都这么想，领导们不愿车改似乎也在情理之中了。</p>
+<p>2不坐轿了，又该如何当官？</p>
+<p>公车不仅仅是官员的代步工具，更是身份、地位的象征。过去官老爷们坐的是轿子，用图案、轿子的材质和几抬来显示身份。而今，用车也可以看出领导的尊贵身份，比如有没有人簇拥送到车门、有没有人开车门、有没有开道引路车、车是几缸和配制，等等。</p>
+<p>车也不仅是一个车，有时没了公车，别人要意思一下，东西放哪里；紧要时要打个别人不能听的电话，要在哪里打；等等。专车有司机、秘书，车上有牙签、必备药品、有小冰箱、有开水、有拖鞋。没有了公车，不仅仅是出行不方便，是很多事都不方便。公车更像是领导们的“移动平台”。取消了这个平台，对如何当官是个很大的考验。</p>
+<p>从这个意义上讲，车改的主要目的是改变官员“当官老爷坐轿子”的官本位思想。车改难的背后，是官本位思想的根深蒂固。</p>
+<p>车改必将改变官员如何当官。他们会尝到老百姓挤公交、等地铁是啥滋味，车改了说不定在交通出行、城市管理上，领导会因为自己的切身体验后有所改观。</p>
+<p>像2016年5月初，湖南省省长杜家毫“自曝”在长沙街头骑车，一路骑行并不顺利：遇到过天桥，不得不扛起自行车；有时路面拥挤，还要骑上人行道，被警察教训；做手势表示行车方向，被出租车司机骂作“摆谱”……想想看，如果更多的省级领导、厅级干部都有杜家毫同志这般体验，相信交警、出租车司机的形象会有所改观。</p>
+<p>有领导司机吐槽：“要想当好官，先做回一个正常的人”，这话不虚。据报道，十八大以后，全国各大机场贵宾厅关闭，加之没有了秘书的陪同，有的不会坐飞机了。河北一名县委书记感叹：“虽然坐了无数次飞机，但取消贵宾厅等细致服务后，我比刚进城的农民还懵懂，订票、取票、换登机牌等，不问就不知道，像刘姥姥进了大观园。”</p>
+<p>还有一些干部去医院不知道怎么挂号、乘公交车不知道如何投币刷卡、参加培训会走错教室……无怪乎，连《人民日报》也看不下去了，直言这毛病是惯出来的，“干部生活能力不足的背后，是权力的无所不能”。</p>
+<p>3还有司机仍待“解救”</p>
+<p>我之前干了十来年的领导司机，感触至深。外人看到领导司机光鲜，陪在领导身边，近水楼台，有好处，能办好多事，还吃香的喝辣的。面上不说，私下骂领导司机的人很多，大多是些这样的话：“不就是一个车夫吗？神气什么？”“你除了会开车、会当奴才，还会啥？”（详见<a href="http://mp.weixin.qq.com/s?__biz=MzA3MjI0MDQ3MQ==&mid=208740589&idx=1&sn=24e39fc01a57c5b76cf33a8bf9ceb4f3&scene=21#wechat_redirect" target="_blank">《给领导当司机是怎样的体验》</a>）</p>
+<p>十八大前，给领导当司机确有好处，但也付出了畸形的代价：顾不了家、身体搞垮、胃口搞大。我给当领导司机时，孩子上幼儿园一次没接送过、一个月在家吃不上几顿饭、尾椎颈椎出问题。但我有个跟别人不一样的习惯，爱看书思考爱写写东西，驾驶座位边随时放着书和一个本子和一枝笔，停车时、等领导时就写。要不，您也许就看不到这些切身的体验和感受。</p>
+<p>对于车改，绝大多数的领导司机们是举双手赞同的，用他们的话说：“终于解放了！”一个给县委书记当司机的老同志退休后，从此不摸车，他说见到车就想吐，他现在出行就骑自行车。而现在有的地方车改迟迟不来，领导司机天天打听消息，什么时候车改，这个成了他们现在最关心的事儿。</p>
+<p>但也有为数不少的司机尚未“解放”，仍眼巴巴地盼着有关方面出手解救。他们最害怕车改走过场——面上要按规定，底下又要想办法躲避规定。这无疑会增加司机的工作量，比如把车停得远远的，跑过来吃饭，吃完饭又跑过去开车。</p>
+<p>现在省上一些车改了的司机们，除了有工作任务出车外，大都闲着，都知道公车用于工作上的事有多少？只占以往用车时间的1/5都不到。规定公车必须要停放在单位，这对很多司机来讲，是最高兴的。每天可以正常上下班，没有车拴着，下班后可以放心去干自己的事。不用再担心领导打电话来。</p>
+<p>可以这样说，司机最怕接到领导电话，电话一挂，就得出门。还有，手机24小时都得开着，哪儿也不敢去，就这样候着耗着，好多司机就这样青丝熬成了白发。现在，一些司机们煅炼起了身体，反正办公室里没自己的事，早上从家里走路到单位，下午又从单位走路回家，成了单位里最清闲的人。</p>
+<p>如今，有很多司机宁愿开机动车，也不愿意给领导开专车。从领导司机的这一心态变化，也可以看出当下官员的“为官不为”的原因。过去司机们争着抢着给领导当司机，甚至动用关系打招呼，现在都避而远之。</p>
+<p>为什么呢？道理很简单：以前，工作再畸形，有好处；现在，工作依然畸形，却没有了好处，谁愿意干？官员们以前的工作生活也畸形，一天陪洗桑拿七八次、喝了这场赶那场……司机的状态什么样，其实官员也就什么样，只不过他们是官儿，显得高大上一些。没了好处，现在又没了公车，恐怕这也是“为官不为”很大的一个原因，和一些车改迟迟不落实的原因吧。</p>
+<p>哈哈，如果各位喜欢看“领导司机系列”，我再续。</p>
+<p>（作者为机关职员，“不是官话”读书群群友）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E6%98%AF%E5%AE%98%E8%AF%9D-%E6%9C%BA%E5%85%B3%E5%8F%B8%E6%9C%BA%EF%BC%9A%E5%A4%A7%E9%A2%86%E5%AF%BC%E4%B8%BA%E5%95%A5%E4%B8%8D%E7%88%B1%E8%87%AA%E5%B7%B1%E5%BC%80%E8%BD%A6%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E8%BD%A6/?category=18271" rel="tag">公车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E8%BD%A6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">公车改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/?category=18271" rel="tag">出租车司机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">县委书记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97/?category=18271" rel="tag">同志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%94%9F%E6%80%81/?category=18271" rel="tag">政治生态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E5%82%B2%E6%85%A2/?category=18271" rel="tag">权力傲慢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%A6%E6%94%B9/?category=18271" rel="tag">车改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%88%98%E5%B7%BD%E8%BE%BE%EF%BC%9A%E5%A6%88%E8%9B%8B%E5%A5%BD%E8%A0%A2-%E4%BD%A0%E7%9A%84%E7%A7%92%E5%88%A0%E6%88%90%E5%85%A8%E4%BA%86%E5%A5%B9%E7%9A%84%E5%9C%B0%E7%81%AB%E8%BF%90%E8%A1%8C/" target="cdt-mirror">刘巽达：妈蛋好蠢 你的秒删成全了她的“地火运行”</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160520_130951-e1463728216668.png?resize=450%2C780" alt="IMG_20160520_130951"></p>
@@ -533,42 +597,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-8/" target="cdt-mirror">【真理部】兰州晨报记者张永生案</a>
-</h2>
-<p><p><a href="http://china.caixin.com/2016-05-19/100945468.html" target="_blank">兰州晨报记者张永生案检查机关不起诉</a>——该事件不报道。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E5%B7%9E%E6%99%A8%E6%8A%A5/?category=18271" rel="tag">兰州晨报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E6%B0%B8%E7%94%9F/?category=18271" rel="tag">张永生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-138/" target="cdt-mirror">【河蟹档案】洞房抄党章, 接站被嫖娼, 久病逢莆田, 金榜落他乡</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%94%A8%E6%88%B6-16">用戶-16</a>：真大支嘢</p>
-<blockquote><p><em><em><em>相关阅读：《<a href="http://hk.apple.nextmedia.com/realtime/news/20160519/55120888">苹果日报<em><em><em>｜</em></em></em>【張德江訪港】又逆線行車 截車封路 車隊玩轉港九</a>》</em></em></em></p>
-<p><em><em><em>《<a href="https://thestandnews.com/politics/%E5%BC%B5%E5%BE%B7%E6%B1%9F%E8%BB%8A%E9%9A%8A%E7%A7%91%E5%AD%B8%E5%9C%92%E9%80%86%E7%B7%9A%E8%A1%8C%E8%BB%8A-%E7%B6%B2%E6%B0%91%E8%BD%9F%E6%BC%A0%E8%A6%96%E9%A6%99%E6%B8%AF%E6%B3%95%E5%BE%8B/">立場新聞<em><em><em>｜</em></em></em>張德江車隊科學園逆線行車 網民轟漠視香港法律</a>》</em></em></em></p>
-<p><em><em><em>《<a href="https://hk.news.yahoo.com/%E5%9B%9E%E6%87%89%E5%BC%B5%E5%BE%B7%E6%B1%9F%E8%BB%8A%E9%9A%8A%E6%98%AF%E5%90%A6%E9%80%86%E7%B7%9A%E8%A1%8C%E8%BB%8A-%E8%AD%A6%E6%96%B9%E7%A8%B1%E6%88%96%E6%9C%89%E8%87%A8%E6%99%82%E4%BA%A4%E9%80%9A%E6%94%B9%E9%81%93-091844170.html">Yahoo<em><em><em>｜</em></em></em>回應張德江車隊是否逆線行車 警方稱或有臨時交通改道</a>》</em></em></em></p>
-<p>《<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%AE%BA%E5%9D%9B%E4%BA%8E%E4%B8%A5%E5%AF%86%E4%BF%9D%E5%AE%89%E4%B8%AD%E5%8F%AC%E5%BC%80/"><em>纽约时报<em><em><em>｜</em></em></em>张德江访问香港遭遇民众抗议</em></a>》</p></blockquote>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-17.jpg?resize=502%2C539" alt="张德江" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-17.jpg?resize=768%2C824 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-17.jpg?w=900 900w" sizes="(max-width: 502px) 100vw, 502px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3976598212118526" target="/weibo/397">2016年05月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E6%9C%89%E8%A5%BF">陈有西</a>：这几天为大量媒体朋友找我，未能接受釆访请谅。刚在腾讯作了半小时直播访谈，能说的都说了。再申明几点：1，京衡律师第一阶段工作顺利完成已经离开北京。2，上午北京市检察院已经受理家属刑事报案，下一步两个等待：立案与否；尸检结论。3，目前为止，北京检方对本案是高度重视的，立案前的初查工作做…全文：<a href="http://m.weibo.cn/1803570001/3976224647168977" target="_BLANK">http://m.weibo.cn/1803570001/3976224647168977</a>  <em><em><em>相关阅读｜《<a href="http://www.voachinese.com/content/leiyang-20160515/3330967.html">美国之音<em><em><em>｜</em></em></em>北京雷洋案尸检完成 二十天后公布结果</a>》</em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-12.jpg?resize=440%2C587" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-12.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-12.jpg?resize=768%2C1024 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-12.jpg?w=960 960w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3976224647168977" target="/weibo/397">2016年05月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BF%9F%E5%91%88%E7%BE%A4%E5%BE%8B%E5%B8%88">翟呈群律师</a>：央视采访足浴女可以，律师发布调查进程不可以；五毛党在微博下谩骂可以，网友关心转发不可以；涉事民警接受采访是澄清，代理律师接受采访就是炒作。重大公共事件基本上都是一个套路。当代中国最大矛盾就是日益增长的公民意识与传统维稳的宣传思路！<em><em><em>相关阅读｜</em></em></em>《<em><a href="http://www.dw.com/zh/%E9%9B%B7%E6%B4%8B%E5%AE%B6%E5%B1%9E%E5%88%91%E4%BA%8B%E6%8E%A7%E5%91%8A%E8%AD%A6%E6%96%B9-%E5%B0%B8%E6%A3%80%E6%8A%A5%E5%91%8A%E6%88%90%E5%85%B3%E9%94%AE/a-19267781">德国之声｜雷洋家属刑事控告警方 尸检报告成关键</a></em>》<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-16.jpg?resize=482%2C832" alt="陈有西" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-16.jpg?resize=593%2C1024 593w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-16.jpg?w=741 741w" sizes="(max-width: 482px) 100vw, 482px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3976762188776459" target="/weibo/397">2016年05月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%B8%80%E6%AF%9B%E4%B8%8D%E6%8B%94%E5%A4%A7%E5%B8%88">一毛不拔大师</a>：黑白都分不清楚[怒]//*<a href="https://freeweibo.com/weibo/%40%E9%BB%84%E7%AB%A0%E6%99%8Bster">@黄章晋ster</a>: 足疗女是有心人。<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-15.jpg?resize=424%2C571" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-15.jpg?resize=223%2C300 223w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-15.jpg?w=594 594w" sizes="(max-width: 424px) 100vw, 424px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3976837962668630" target="/weibo/397">2016年05月19日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%88%9F%E8%8B%87%E6%A8%AA">舟苇横</a>：最早的抄党章——窑洞里、上炕之前。<em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E5%A9%9A%E4%B9%8B%E5%A4%9C%E6%9D%A5%E7%82%B9%E6%B1%A1%E7%9A%84/">【网络民议】新婚之夜来点污的</a>》</em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-10.jpg?resize=450%2C303" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-10.jpg?resize=300%2C202 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-10.jpg?w=327 327w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3976433938724368" target="/weibo/397">2016年05月18日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%A4%A7%E4%BF%97%E8%80%81%E5%BC%A0">大俗老张</a>：人生四大悲～～洞房抄党章，接站被嫖娼，久病逢莆田，金榜落他乡。<em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF%EF%BD%9C%E6%88%91%E6%8A%84%E5%AE%8C%E5%85%9A%E7%AB%A0%E5%86%8D%E7%9D%A1%E4%BD%A0/">【麻辣总局】我的名字叫警长｜我抄完党章再睡你</a>》</em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-14.jpg?resize=472%2C402" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-14.jpg?resize=300%2C255 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-14.jpg?resize=768%2C653 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-14.jpg?resize=1024%2C871 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-14.jpg?w=1129 1129w" sizes="(max-width: 472px) 100vw, 472px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-13.jpg?resize=352%2C492" alt="1" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3976184137745058" target="/weibo/397">2016年05月17日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%A7%9A%E9%86%92%E9%BE%99">姚醒龙</a>：他们若可以删雷洋妻子的刑事报案书，也可以删你我的。因此，我必须转。<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/1-9.jpg?resize=415%2C6367" alt="1" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3976385754208364" target="/weibo/397">2016年05月18日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-138/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B8%E6%A3%80/?category=18271" rel="tag">尸检</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BE%B7%E6%B1%9F/?category=18271" rel="tag">张德江</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E8%A8%80/?category=18271" rel="tag">禁言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%A6%E9%98%9F%E9%80%86%E8%A1%8C/?category=18271" rel="tag">车队逆行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%9C%89%E8%A5%BF/?category=18271" rel="tag">陈有西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E6%A1%88/?category=18271" rel="tag">雷洋案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -580,7 +608,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -590,5 +618,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

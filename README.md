@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%84%E5%85%9A%E7%AB%A0%E8%AE%A8%E8%96%AA/" target="cdt-mirror">【图说天朝】抄党章讨薪</a>
+</h2>
+<p><p>@周蓬安 ：【全国多地展开抄党章活动 场面热烈】自中办印发《关于在全体党员中开展“学党章党规、学系列讲话，做合格党员”学习教育方案》以来，全国多地展开员党员手抄党章活动，气氛热烈。5月23日，江西省高院门口，10多位农民工摆起桌椅，集体抄党章。微评：弱弱地问一声，网传此为农民工抄党章讨薪，真的吗？</p>
+<p>@董郎dxp：江西民工在江西省高院门口抄党章讨薪。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g7tur9j20nq0hsaby.jpg?resize=440%2C330" alt="678207a7gw1f453g7tur9j20nq0hsaby" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g7tur9j20nq0hsaby.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g7tur9j20nq0hsaby.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g89q7vj20nq0hswgq.jpg?resize=440%2C330" alt="678207a7gw1f453g89q7vj20nq0hswgq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g89q7vj20nq0hswgq.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g89q7vj20nq0hswgq.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453fvv5lrj20go0m8aat.jpg?resize=440%2C587" alt="678207a7gw1f453fvv5lrj20go0m8aat" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453fvv5lrj20go0m8aat.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453fvv5lrj20go0m8aat.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><strong>编辑注：</strong>横幅文字为“抄党章100天 敦促郭斌副院长做合格的共产党员”</p>
+<p>@宏风王：洞房抄党章，讨薪来模仿。法院如拒判，也可抄党章。正反皆可用，真理远名扬。</p>
+<p>@okpranfu：此举已成为行为艺术。</p>
+<p>@王思想021 ：【我最爱党】洞房不举怎么办？抄党章。怀孕胎教怎么办？抄党章。民工讨薪怎么办？抄党章。经济下行怎么办？抄党章……</p>
+<p>@ wangxhui：这些农民工里可能有假冒党员，建议江西高院火速派人查查，是党员的在门口抄党章太热了，对同志要春天般温暖要请进门一块儿抄，不是党员的就属于刺探党的机密，完全可以找个罪名弄弄他。</p>
+<p>@上海惜玉：继散步之后，刁民又发明了一个给领导施压的新方法！</p>
+<p>@律师张无忌：高家庄的高，实在是高！</p>
+<p>@莺歌海-止水微澜：如此讨薪，算不算是“恶意”呢？[哈哈]</p>
+<p>@孙亚1968：这个需要新华社的通稿为准。</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%84%E5%85%9A%E7%AB%A0%E8%AE%A8%E8%96%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">中共党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E4%B8%8A%E6%B5%B7%E9%98%BF%E5%A7%A8%E8%A6%81%E6%B1%82%E5%8F%B0%E5%8D%97%E5%B8%82%E9%95%BF%E7%BB%9F%E4%B8%80%E7%A5%96%E5%9B%BD/" target="cdt-mirror">【CDTV】上海阿姨要求台南市长“统一祖国”</a>
 </h2>
 <p><p>据网友@HK_CC_BEST爆料，台南市长赖清德昨日结束上午回老家行程后，下午到野柳地质公园参观，在观赏女王头时，他和来自上海旅行团相谈甚欢。 一位上海阿姨说：“谢谢你把两岸关系搞好，人民团结起來，统一祖国！”赖清德则回应：“但台湾大多数民众是希望自己当家做主。”</p>
@@ -530,31 +557,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%E3%80%81%E9%A6%99%E6%B8%AF%E6%99%AE%E9%80%89-%E7%AD%89%E7%83%AD%E7%82%B9/" target="cdt-mirror">【敏感词库】雷洋之死、“我要真普选” 等热点 2016-5-19</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B7%B4%E4%B8%A2%E8%8D%89_%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB.jpg?resize=575%2C306" alt="巴丢草_雷洋之死" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?resize=300%2C160 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?resize=768%2C409 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?w=1024 1024w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"><br><em>图片作者：巴丢草</em></p>
-<p>［新浪微博搜索禁词测试时间：2016年5月19日］</p>
-<p><strong>雷洋＋报案</strong><br><strong> 雷洋＋阴部</strong><br><strong> 雷洋＋睾丸</strong><br><strong> 雷洋＋右额部</strong></p>
-<blockquote><p>相关专题：<a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/">雷洋之死</a></p></blockquote>
-<p><strong>我要真普选</strong></p>
-<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%BC%A0%E5%BE%B7%E6%B1%9F%E8%AE%BF%E6%B8%AF%EF%BC%9A%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E8%AE%BA%E5%9D%9B%E4%BA%8E%E4%B8%A5%E5%AF%86%E4%BF%9D%E5%AE%89%E4%B8%AD%E5%8F%AC%E5%BC%80/">纽约时报 | 张德江访问香港遭遇民众抗议</a></p></blockquote>
-<p><strong>文革＋重来</strong></p>
-<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E6%B7%B1%E5%A4%9C%E6%89%93%E7%A0%B4%E6%B2%89%E9%BB%98%EF%BC%9A%E5%86%B3%E4%B8%8D%E5%85%81%E8%AE%B8%E6%96%87%E9%9D%A9/">纽约时报 | 中国官媒深夜打破沉默：决不允许文革错误重演</a></p></blockquote>
-<p><strong>426＋四二六社论</strong></p>
-<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/04/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%8F%88%E5%88%B0%E4%B8%80%E5%B9%B4426%E7%A4%BE%E8%AE%BA%E6%97%A5/">【网络民议】又到一年“426社论日”</a></p></blockquote>
-<p><strong>红树林</strong></p>
-<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/04/%E8%83%A1%E6%B3%B3%EF%BC%9A%E6%B2%A1%E6%9C%89%E4%BF%A1%E6%81%AF%E7%9A%84%E8%87%AA%E7%94%B1%E6%B5%81%E5%8A%A8-%E5%B0%B1%E6%97%A0%E6%B3%95%E7%AE%A1%E7%90%86%E9%A3%8E%E9%99%A9%E7%A4%BE%E4%BC%9A/">胡泳：没有信息的自由流动 就无法管理风险社会</a></p></blockquote>
-<p><strong>光天化日＋前中共</strong></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E6%8A%A5%E6%A1%88.png?resize=474%2C185" alt="雷洋＋报案" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋报案.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋报案.png?w=704 704w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E9%98%B4%E9%83%A8.png?resize=474%2C185" alt="雷洋＋阴部" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋阴部.png?resize=300%2C117 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋阴部.png?w=705 705w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E7%9D%BE%E4%B8%B8.png?resize=475%2C186" alt="雷洋＋睾丸" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋睾丸.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋睾丸.png?w=705 705w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E5%8F%B3%E9%A2%9D%E9%83%A8.png?resize=476%2C184" alt="雷洋＋右额部" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋右额部.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋右额部.png?w=703 703w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E8%A6%81%E7%9C%9F%E6%99%AE%E9%80%89.png?resize=474%2C185" alt="我要真普选" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我要真普选.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我要真普选.png?w=704 704w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%87%E9%9D%A9%EF%BC%8B%E9%87%8D%E6%9D%A5.png?resize=476%2C184" alt="文革＋重来" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革＋重来.png?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革＋重来.png?w=703 703w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/426%EF%BC%8B%E5%9B%9B%E4%BA%8C%E5%85%AD%E7%A4%BE%E8%AE%BA.png?resize=475%2C182" alt="426＋四二六社论" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/426＋四二六社论.png?resize=300%2C115 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/426＋四二六社论.png?w=704 704w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BA%A2%E6%A0%91%E6%9E%97.png?resize=475%2C185" alt="红树林" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/红树林.png?resize=300%2C117 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/红树林.png?w=708 708w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%89%E5%A4%A9%E5%8C%96%E6%97%A5%EF%BC%8B%E5%89%8D%E4%B8%AD%E5%85%B1.png?resize=475%2C185" alt="光天化日＋前中共" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/光天化日＋前中共.png?resize=300%2C117 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/光天化日＋前中共.png?w=703 703w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%E3%80%81%E9%A6%99%E6%B8%AF%E6%99%AE%E9%80%89-%E7%AD%89%E7%83%AD%E7%82%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/426%E7%A4%BE%E8%AE%BA/?category=18271" rel="tag">426社论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E6%99%AE%E9%80%89/?category=18271" rel="tag">真普选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -576,5 +578,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/426%E7%A4%BE%E8%AE
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

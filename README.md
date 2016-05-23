@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,210 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%8A%84%E5%85%9A%E7%AB%A0%E6%B4%BB%E5%8A%A8-%E5%9C%BA%E9%9D%A2%E7%83%AD%E7%83%88/" target="cdt-mirror">【异闻观止】全国多地开展抄党章活动 场面热烈</a>
+</h2>
+<p><p>5月17日，郑州市第三人民医院召开了党支部书记专题会议，对院党委举办的“抄党章 比书法 内外兼修做合格党员”硬笔书法比赛相关工作进行了部署安排。图为党委书记陈军军带头抄写党章。人民网河南频道</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1.jpg?resize=600%2C450" alt="0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>据悉，本次硬笔书法比赛以摘抄《中国共产党党章》为内容，《党章》共11章，每个支部摘抄一章。图为院长、党委副书记李安州带头抄写党章。李安州强调: 党章是党员的第一课、必修课、常修课，学习党章、抄写党章，才能让每一个党员在学习中深刻领悟，才会真正树立起对党章的尊崇之心，才会在行动中产生遵守党章的自觉动力。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1-1.jpg?resize=600%2C450" alt="0 (1)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1-1.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1-1.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>6月10日前各支部进行初赛作品征集。6月15日前每支部选送至少5幅以上作品参加复赛。此次硬笔书法比赛设一等奖1名、二等奖2名、三等奖3名优秀奖若干名及组织奖3名。图为常务副院长胡明带头抄写党章。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-2.jpg?resize=600%2C450" alt="0 (2)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-2.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-2.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>副院长王放带头抄写党章。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-3.jpg?resize=600%2C450" alt="0 (3)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-3.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-3.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>各支部党员在认真抄写党章。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-4.jpg?resize=600%2C450" alt="0 (4)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-4.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-4.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>5月21日，黑龙江黑河，黑龙江省军区某边防巡逻艇大队一中队百名余名党员正在船艇的甲板上抄党章读党章，教育、引导部队全体党员进一步坚定理想信念，牢固树立尊崇党章、遵守党章、维护党章的意识。摄影：魏建顺</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-6.jpg?resize=600%2C400" alt="0 (6)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-6.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-6.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-6.jpg?resize=1024%2C683 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-6.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>为深入开展“两学一做”学习教育活动，该中队营党委要求全体党员逐字逐句通读党章，不限时间、地点每天坚持手抄党章。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-7.jpg?resize=600%2C400" alt="0 (7)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-7.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-7.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-7.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-7.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>他们充分借助自5月16日至21日百艘船艇正式下水出航分散到黑龙江近千里边防线驻点巡逻执勤的时机，要求全体党员利用航行途中、饭前饭后、军港码头等不同的时间和地点坚持抄写学党章。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-8.jpg?resize=600%2C400" alt="0 (8)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-8.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-8.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-8.jpg?resize=1024%2C683 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-8.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>在水兵巡逻的888公里路途上，官兵们时时刻刻在抄党章读党章。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-9.jpg?resize=600%2C393" alt="0 (9)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-9.jpg?resize=300%2C196 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-9.jpg?resize=768%2C502 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-9.jpg?resize=1024%2C670 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-9.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>战士在轮机舱内读党章。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-10.jpg?resize=600%2C400" alt="0 (10)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-10.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-10.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-10.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-10.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>巡逻艇大队还专门制作了“两学一做”专门笔记本，通过活动，既增强了上至营主官下至普通一名党员的光荣感、责任感和使命感，又提高了全体党员学习党章党规、遵守党章党规的主动性和自觉性。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-11.jpg?resize=600%2C400" alt="0 (11)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-11.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-11.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-11.jpg?resize=1024%2C683 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-11.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>5月13日，为扎实开展“两学一做”学习教育活动，国网河北邱县供电公司在全体党员中开展了精读党章、手抄党章活动。新华网甘肃站</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-12.jpg?resize=600%2C401" alt="0 (12)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-12.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-12.jpg?w=545 545w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>广大党员在读和写的同时，重温了党的性质、宗旨、指导思想，进一步明确了党员的义务、权利，自觉对照党章争做合格共产党员。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-13.jpg?resize=600%2C415" alt="0 (13)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-13.jpg?resize=300%2C207 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-13.jpg?w=551 551w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>5月18日，贵州镇宁县顺立达纺织有限公司，60余名来自县841家企业年轻党员聚集一起，共同参加镇宁自治县委企业工委组织举办的非公有制企业“手抄党章”书法竞赛活动。新华网贵州频道</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-14.jpg?resize=600%2C394" alt="0 (14)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-14.jpg?resize=300%2C197 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-14.jpg?w=500 500w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>5月17日，南昌供电段南昌西供电车间助理工程师李云鹏、检修车间助工陈宣池新婚之夜，铺开纸张，工整地抄下党章，给新婚之夜留下美好记忆。中国网</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-15.jpg?resize=601%2C404" alt="0 (15)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-15.jpg?resize=300%2C202 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-15.jpg?w=601 601w" sizes="(max-width: 601px) 100vw, 601px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%8A%84%E5%85%9A%E7%AB%A0%E6%B4%BB%E5%8A%A8-%E5%9C%BA%E9%9D%A2%E7%83%AD%E7%83%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">中共党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91-%E8%94%A1%E8%8B%B1%E6%96%87%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%AA%E9%98%B3%E8%8A%B1%E8%BF%90%E5%8A%A8%E5%AD%A6%E7%94%9F%E7%9A%84/" target="cdt-mirror">日经中文网 | 蔡英文撤销对“太阳花运动”学生的起诉</a>
+</h2>
+<p><p>5月23日，刚刚上台的台湾蔡英文政权宣布撤销国民党马英九前政权对“太阳花运动”参与学生提起的起诉。2014年，台湾学生为抗议马英九前政权与大陆缔结“服务贸易协定”，发起“太阳花学生运动”，占领立法院约3周时间。相比前政权推进的对大陆融合路线，蔡英文政权转变路线的动作十分明显。</p>
+<p><strong>另附中央通讯社报道：</strong></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/55258587.jpg?resize=450%2C629" alt="55258587" data-recalc-dims="1"></p>
+<p>（中央社記者戴雅真台北23日電）行政院發言人童振源今天上午宣布，行政院長林全20日上任後第二份公文，就是撤回對太陽花學生運動人士的告訴。1050523</p>
+<p>政院首政治決策 對126學運被告撤告</p>
+<p>（中央社記者戴雅真台北23日電）行政院發言人童振源今天上午表示，行政院長林全20日已批出公文，對太陽花學生運動126名被告撤回告訴乃論的刑事告訴，這也是林全內閣的第一個政治決策。</p>
+<p>他說，行政院提告太陽花學運人士民國103年3月23日夜間到24日凌晨進入行政院案，林全20日批出上任後第二份公文裁示，行政院將對126名被告撤回告訴乃論的刑事告訴。</p>
+<p>童振源轉述，林全表示，太陽花學運是政治事件，非單純法律事件，應在多一點和諧、少一點衝突原則下儘量從寬處理， 決定撤告。</p>
+<p>林全說，行政院當年對學生提刑事告訴具政治考量，但現今太陽花學運訴求已普遍成為社會共識，立法院也依訴求針對兩岸協議監督條例進行立法，突顯太陽花學運正當性與社會貢獻。政治事件不該只單純用法律問題看待，決定撤告。</p>
+<p>童振源受訪表示，林全上任後簽署第一份公文是例行性人事公文，第二份公文就是撤告，可說是行政院第一個政治決策。決策前，相信林全有和總統蔡英文充分討論。1050523</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91-%E8%94%A1%E8%8B%B1%E6%96%87%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%AA%E9%98%B3%E8%8A%B1%E8%BF%90%E5%8A%A8%E5%AD%A6%E7%94%9F%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8/?category=18271" rel="tag">两岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89/?category=18271" rel="tag">公平正义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1/?category=18271" rel="tag">太阳花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF%E4%BD%93%E5%88%B6/?category=18271" rel="tag">宪政体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4/?category=18271" rel="tag">就职演说</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%85%9A/?category=18271" rel="tag">执政党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88/?category=18271" rel="tag">改革方案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%90%8C%E5%AD%98%E5%BC%82/?category=18271" rel="tag">求同存异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E7%BB%93%E6%9E%84/?category=18271" rel="tag">经济结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%B5%99%E6%B1%9F%E4%B8%A4%E5%B9%B4%E6%8B%86%E4%B8%8A%E5%8D%83%E5%8D%81%E5%AD%97%E6%9E%B6-%E4%B8%AD%E5%9B%BD%E6%88%96%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%99%90/" target="cdt-mirror">纽约时报 | 浙江两年拆上千十字架 中国或进一步限制基督教</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/22chinacross-web-articleLarge.jpg?resize=600%2C400" alt="去年，浙江台头镇一座新教教堂的十字架被政府工作人员拆下。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/22chinacross-web-articleLarge.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/22chinacross-web-articleLarge.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>去年，浙江台头镇一座新教教堂的十字架被政府工作人员拆下。</p></div>
+<p>中国水头——中国政府正在东部沿海山峦起伏的地区开展一项运动，拆除教堂尖顶上的十字架，这场运动让这一带的村庄看上去像是经历了一场台风的袭击，建筑物的屋顶被随机地剃了光头。</p>
+<p>在水头镇，工人用气割将一个3米多高的十字架从基督教救恩堂36米高的尖顶上切割下来。这个十字架现在用一块红布包裹着，躺在教堂的院子里。</p>
+<p>在往东大约15公里的麻步镇，防暴警察阻止教民进入大厂教堂的场地，同时，工人搭建了一个脚手架，把教堂顶上的十字架锯了下来。在附近的溪美、鳌江、山门和藤桥等村，教堂上原有的十字架现在或倒在屋顶上，或倒在院子里，或是像尸体一样被埋了起来。</p>
+<p>中国浙江省的这片土地郁郁葱葱，在为期四天的旅行中，我从当地居民那里听到了有关这项规模惊人的运动的新细节，这是一次让基督教最有力的象征从公众视野中消失的努力。官员和居民说，在过去的两年中，当局拆除了1200到1700所教堂上的十字架，有时由于教徒试图阻止拆除十字架，还发生了暴力冲突。</p>
+<p>“这让我们很难办，”水头镇的一位教会长老说，他和其他人一样，由于害怕当局报复而不愿透露姓名。“我们只能跪下来祈祷。”</p>
+<p>虽然这场运动只限于浙江省，这里有中国最大、最有活力的基督教信徒群体之一。但熟悉政府考虑的人说，拆除这些十字架的工作，是为在全国展开一项新的、更严格地规范中国宗教生活的运动作准备，反映了国家主席习近平喜欢的<a href="http://cn.nytimes.com/china/20150227/c27transition/" target="_blank" rel="nofollow">对社会采取更严格控制</a>的做法。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9F%BA%E7%9D%A3%E5%BE%92.jpg?resize=600%2C400" alt="2014年，温州一座官方认可的教堂举办的周日礼拜。中国目前有约6000万基督教徒。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/基督徒.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/基督徒.jpg?w=648 648w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014年，温州一座官方认可的教堂举办的周日礼拜。中国目前有约6000万基督教徒。</p></div>
+<p>习近平在上个月就宗教政策发表了一篇<a href="http://news.xinhuanet.com/politics/2016-04/23/c_1118716540.htm" target="_blank" rel="nofollow">重要讲话</a>，呼吁执政的共产党“坚决抵御境外利用宗教进行渗透”，他警告说，中国的宗教必须“中国化”，也就是说要变成中国的东西。他的讲话反映了政府长期以来对基督教可能破坏党的权威的担忧。中国的许多人权律师是基督教徒，许多异见人士表示，他们受到了上帝赐予权利这一思想的影响。</p>
+<p>近几十年来，共产党容忍了中国的宗教复兴，允许大多数中国人按照自己的选择做礼拜，甚至鼓励过教堂、清真寺和寺庙的建设，虽然政府对未注册的教会进行经常性的打击，并且<a title="Link: http://www.nytimes.com/2009/04/28/world/asia/28china.html" href="http://www.nytimes.com/2009/04/28/world/asia/28china.html" target="_blank" rel="nofollow">禁止了诸如法轮功等宗教团体</a>。</p>
+<p>有数以亿计的中国人接受了国内的主要宗教：佛教、道教、伊斯兰教，以及基督教。中国目前有6000万基督徒。许多人加入了在政府登记注册的教会，但至少有一半基督徒加入了未曾登记注册的教会，地方政府对此往往睁一眼闭一眼。</p>
+<p>但是，习近平在上个月召开“全国宗教工作会议”的决定表明，他对有些政策并不满意，这是15年来领导人首次召集这种会议。熟悉党的讨论的人说，会议打算把浙江省运动取得的经验应用到控制全国的宗教团体上。</p>
+<p>消息人士表示，虽然政府不大可能开始在全国各地拆除十字架，但地方当局预计将开始审查教堂等宗教机构的财政及它们与国外的关系，这是限制宗教影响的努力的一部分，共产党认为某些宗教，尤其是基督教，具有威胁。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9F%BA%E7%9D%A3%E5%BE%923.jpg?resize=369%2C495" alt="去年，浙江一座天主教堂的十字架被政府工作人员推倒。官员和当地居民称，过去两年间，当局已经拆除了1200至1700座教堂的十字架。" data-recalc-dims="1"><p>去年，浙江一座天主教堂的十字架被政府工作人员推倒。官员和当地居民称，过去两年间，当局已经拆除了1200至1700座教堂的十字架。</p></div>
+<p>“浙江发生的事情是一次测验，”北京的独立法律学者范亚峰说。“如果政府认为其成功的话，那种做法将会得到推广。”</p>
+<p>把规范宗教的运动扩大化可能会给习近平带来事与愿违的后果，即让信徒脱离政府管理的教会，加入地下教会。这类教会通常在办公楼或家中不张扬地活动。也可能会引起城市中许多信奉基督教的白领专业人士的敌意。</p>
+<p>“把基督教作为一种外来宗教对待，可能会让这些人产生疏远感，”在瑞典的哥德堡大学研究中国基督教的学者杨富雷(Fredrik Fallman)说。“但是，这也可能正是其目的，是对这些人的一个警告。”</p>
+<p>坐落距离海岸线约15公里的一个山谷里的水头镇是一个小集镇，这里有墙上渗透着水迹的混凝土住宅区和杂乱的街道。大多数这里的传统宗教场所，包括佛教的、道教的，以及祭奠祖先的祠堂等，都是小型建筑，有的建在山边，一般都不显眼。</p>
+<p>但自20世纪80年代起，水头镇上的14所教堂的建设都得到了当地企业家的捐款，他们热衷于炫耀自己新获得的成功和来之不易的信仰。教堂有几层楼高的正厅，还有30多米高的尖顶。</p>
+<p>直到前不久，大多数教堂的尖顶上都有鲜红色的十字架。但是水头镇上一半教堂的十字架已经被拆除，每个月都有命令下来，要求拆除更多的十字架。许多接受采访的礼拜者说，他们担心一个时代即将结束。</p>
+<p>“多年来，我们和政府一直相安无事，”当地一名教徒说。“我们的教堂得到了政府的欢迎。”</p>
+<p>这场运动始于2014年。当时，政府突然<a href="http://cn.nytimes.com/china/20140530/c30chinachristians/dual/" target="_blank" rel="nofollow">宣布</a>计划拆除邻市温州的一座教堂，称其未获得相应的建筑许可证。之后，政府开始下令全省的教堂<a href="http://cn.nytimes.com/china/20150511/c11china/" target="_blank" rel="nofollow">拆除十字架</a>。</p>
+<p>很快，救恩堂成了抵抗的中心。有三个尖塔的救恩堂设有一个三层楼高的礼拜大厅、多间办公室和一个停车场。为了保护十字架，数百名教众将教堂围了起来，与数百名防暴警察对峙。</p>
+<p>在其中一场冲突中，大约50名教众受伤。受伤和挨打的基督徒的照片，如潮水般涌向社交媒体和海外基督徒权益倡导团体的网站。</p>
+<p>据教民们称，政府向最活跃的教友施压。一些商人表示，他们的合作伙伴迫于压力，取消了与他们签订的合同。还有一些人被雇主告知，如果继续参加抗议，他们便会丢掉工作。</p>
+<p>温州那座教堂被拆除后，救恩堂放弃了，同意取下十字架。</p>
+<p>政府称自己是在执行建筑规范，所有建筑都会受影响，不只是教堂。但《纽约时报》查阅的文件显示，省级官员担心教堂开始成为该地区天际线最显眼的建筑。</p>
+<p>十字架接连被拆除。据在政府管理的教会中任职的人透露，截至去年夏天，至少有1200座十字架被拆除。很多当地居民估计，这个数字现在接近1700。</p>
+<p>“去年年底平息了一阵，”当地的一名基督徒说。“但政府现在明确表示，所有十字架都要拆。”</p>
+<p>随着当局推进这场运动，全国著名的新教和天主教领袖，包括在政府的宗教事务局任职的高层人士，公开通过布道和社交媒体表示反对。</p>
+<p>顾约瑟便是其中之一。他在浙江省会杭州的崇一堂任牧师，那是华语世界最大的教堂之一。作为中国最有名的新教领袖之一，顾约瑟颇具影响力，他的批评激起的共鸣不仅限于该地区。</p>
+<p>“这是对党和国家已经执行及不断完善了六十余年来宗教信仰自由政策的公然践踏，”顾约瑟在一封印有正式的政府信头的公开信中写道。</p>
+<p>之后，他被禁言。今年一月，警方<a href="http://www.bbc.com/news/world-asia-china-35457150" target="_blank" rel="nofollow">拘捕</a>顾约瑟，指控他挪用教堂资金。几天后，浙江另一名公开发言的牧师也被以类似的罪名拘押。</p>
+<p>“这是一种提醒我们注意的方式，”温州一名政府管理教会的牧师说。“我们谁都没接受过财务培训，因此如果派会计来，他们可能就会找出毛病。”</p>
+<p>该地区的多名神职人员表示，他们面临着向共产党表示忠诚的压力。比如，一些教堂已经开始称赞习近平宣扬“<a href="http://en.people.cn/90785/8494839.html" target="_blank" rel="nofollow">社会主义核心价值观</a>”的运动。“社会主义核心价值观”这个口号意在提供一个世俗的信仰体系，增强共产党的合法性。</p>
+<p>其他教堂则开始展示自己的建筑许可证，含蓄地认可政府批准或否决包括十字架在内的教堂建筑的权力。</p>
+<p>“我们得表现出我们是忠诚的基督徒，”历史悠久的温州教堂城西堂的一名工作人员说，“否则，我们就会遇到麻烦。”</p>
+<p>今年2月，一位知名律师出现在官方电视台上，供认自己勾结外国势力，特别是美国的组织，煽动当地的基督徒。在那之前，这位名为张凯的律师一直在浙江为反对拆除十字架的教堂提供法律咨询。</p>
+<p>未登记的教会看来也无法幸免。去年12月，未登记的贵州省<a href="https://chinachange.org/2015/12/22/living-stone-a-portrait-of-a-house-church-in-china/" target="_blank" rel="nofollow">活石教会</a>的几名成员在拒绝加入由政府开办的一家新教教堂后，被警方拘押。后来，活石教会的牧师被以“故意泄露国家秘密”的罪名逮捕。</p>
+<p>“他们捏造罪名告你很容易，”温州一家未登记的大教堂的牧师说。“我们不得不非常小心。”</p>
+<p>水头镇的很多教众渴望低调行事，希望这场风暴赶快过去。</p>
+<p>上月的一个周日，大约300人参加了救恩堂的礼拜。女性坐在左边，男性坐在右边——反映了一种传统的礼拜观念。教堂的前面，一个红色的大十字架上方，写着六个大字：“归耶和华为圣。”</p>
+<p>现场大部分人是五六十岁的年纪，这部分是因为很多年轻信众拒绝参加周日的礼拜，以此抗议教堂决定服从政府的命令，拆下十字架。</p>
+<p>他们开始周四做礼拜，以纪念十字架被拆下来的那一天。他们过去会参加教堂的圣经学习小组，但现在，他们独立学习。一些人怀疑，他们可能会完全停止在登记教堂做礼拜，转入地下。</p>
+<p>一名要求匿名的教会高级领袖称，他和其他人同意取下十字架是因为他们害怕如果不这么做，教堂可能会被拆。他还表示，人们面临着丢掉工作的危险，教会长老觉得除了呼吁教众让步外别无选择。</p>
+<p>“三十多年前，我们连教堂都没有，”他说。“在教会历史上，迫害从没停过。我们只能祈祷。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%B5%99%E6%B1%9F%E4%B8%A4%E5%B9%B4%E6%8B%86%E4%B8%8A%E5%8D%83%E5%8D%81%E5%AD%97%E6%9E%B6-%E4%B8%AD%E5%9B%BD%E6%88%96%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%99%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%AD%97%E6%9E%B6/?category=18271" rel="tag">十字架</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E4%B8%8B%E6%95%99%E4%BC%9A/?category=18271" rel="tag">地下教会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E5%BE%92/?category=18271" rel="tag">基督徒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%9D%A3%E6%95%99/?category=18271" rel="tag">基督教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0/?category=18271" rel="tag">宗教信仰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E4%BF%A1%E4%BB%B0%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教信仰自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E3%80%8A%E6%AC%A2%E4%B9%90%E9%A2%82%E3%80%8B%E7%83%AD%E6%98%A0%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%83%BD%E5%B8%82%E6%AE%8B%E9%85%B7%E7%89%A9%E8%AF%AD/" target="cdt-mirror">端传媒 | 《欢乐颂》热映背后的中国都市残酷物语</a>
+</h2>
+<p><p><strong>上海欢乐颂小区的2202室，海归精英、富二代、小城姑娘、乖学生、现实奋斗女……五个女性的都市故事，红遍了电视屏幕，也令无数挣扎在中国大城市的人看到自己。</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4ebb381916db42c6a31ddd98a5e63fc1.jpg?resize=600%2C400" alt="4ebb381916db42c6a31ddd98a5e63fc1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4ebb381916db42c6a31ddd98a5e63fc1.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4ebb381916db42c6a31ddd98a5e63fc1.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4ebb381916db42c6a31ddd98a5e63fc1.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4ebb381916db42c6a31ddd98a5e63fc1.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>五月一个天阴欲雨的上午，踱出房产中介公司，我长长吐出一口气。签完一系列购房合同后，我基本把后半生都搭进一套北京郊区的两居室里：不仅此刻我的家族都已囊空如洗，在未来三十年内，我将月月还贷，不得翻身。</p>
+<p>卖家是位五十岁上下的女性，北京土著，衣着无奇，谈吐无奇。几年前，她全款买下这套房，毛坯囤着，甚至没怎么进去过。房东怀揣着我的血本，迈着广场舞一样轻盈的步伐远去时，中介说道：阿姨在这小区还有三套房子，这次是要卖了两套换别墅，给她19岁的儿子做生日礼物。</p>
+<p>我之终点，他人之起点。那霎，我忽然觉得自己的北漂人生正在上演一幕真人版的《欢乐颂》，樊胜美的台词腾地跳入脑际：一个人的家庭就是一个人的宿命。</p>
+<p>《欢乐颂》是春节后中国最热播的电视剧集，讲述了同住在上海一栋商品楼22层、五个阶层迥异的都市女生的故事，“欢乐颂”就是这个楼盘的名字。</p>
+<p>我已经有十年没看过电视了，尤其国产剧。但随意点开《欢乐颂》第一集，我被里面的对话击中了：<br>
+年轻的“沪漂”（指来自非上海地区、非上海户口而在上海生活和工作的人们）邱莹莹和关雎尔在回家路上正聊着：我们的小区环境又好，配套又好，离地铁也近，要是有一天能在这个租住的小区买上一套房子，那真是美梦成真了。然后她们走进电梯，新搬来的邻居一家三口也正在对话。当着一众人的面，周身笔挺的富豪父亲正在劝慰那个跟她们年纪相仿、戴着墨镜、嚼着口香糖的女儿曲筱绡：这小区环境不行，跟鸽子笼似的，楼与楼之间也隔得太近了，“委屈了咱们女儿”，“比爸爸给你准备的别墅差远了”。</p>
+<blockquote><p>不管你认可和接受与否，它恰恰冷眼道出了大部分的真实中国：贫富悬殊，阶层固化，权力和金钱几乎可以解决一切问题。</p></blockquote>
+<p>自此，我竟然一口气追完了《欢乐颂》。一系列故事发生在这五个女生身上：</p>
+<p>2201室的安迪，把三室二厅打通成一室一厅，房间大得惊人。她是符合人们想象的典型“精英”形象，孤儿院长大，被美国人领养，哥伦比亚商学院毕业，华尔街投行高管，被国内商业大鳄以百万年薪聘回中国做并购，同时，她在寻找失散多年的亲弟弟和自己的身世。</p>
+<p>2203室的曲筱绡，纨绔富二代，夜店女王，留学归来后为了和同父异母的哥哥争家产，放着父亲为她购置的别墅不住，住进了这套上海中档小区以展示自己“吃苦耐劳”。</p>
+<p>2202室隔出了几个房间，由三个沪漂合租：小城姑娘邱莹莹，人傻、直肠子，凭一腔热血要在上海立足，最大的特点是做事没条理、分不清形势；关雎尔，家境良好的乖乖女，在世界500强企业做实习生，每天忙碌加班，周末偶尔过一下文艺生活，读小说、听音乐会；樊胜美，在外资企业做HR，美貌的大龄单身女青年，生于一个重男轻女的泥沼般的贫困家庭，每天敷面膜睡觉、精心打扮自己，她寄希望于嫁个有车有房的有钱人改变命运，但岁月正一天一天爬上她的脸。</p>
+<p>电视剧的人物设定很清楚：前两者是富人代表，而后三者是穷人乃至普通人的代表。</p>
+<p>尽管很多观众抱怨这样的人物设定过于脸谱化，漏洞也不少，但不得不承认，除了精英、富二代的生活很难被普通人检验，2202室“租房三人组”的日常：泡面、挤地铁、交房租，简直就是你我的人生嘛！“我想活成安迪，过得像曲筱绡。结果却活成邱莹莹，过得像关雎尔，最后变成了樊胜美”，不少女性观众感慨如是。</p>
+<p>樊胜美是久居上海现实主义的女子，资历老些，动不动言传声教邱莹莹和关雎尔。小城姑娘邱莹莹闪电般恋爱后，理直气壮问出“裸婚”（指情侣中一种高于物质的结婚方式，除了结婚证，车、房、钻戒、婚礼、蜜月，什么都可以不要）有什么不可以，樊胜美姐姐则一连串金句如鞭炮般炸响：“那你可以在租来的房子里结婚，生没户口的孩子，请不起保姆，整天要么就是你老公跟你妈吵架，要么就是你跟你婆婆开战。这生活啊，鸡飞狗跳，用不了一年你就得变成黄脸婆！”</p>
+<p>这话听来刺耳，但在北京要花70万人民币买一个户口，46万人民币买一平方米“学区房”的今天，这讽刺沦肌浃髓——就在5月20日上午，一位没有北京户口的父亲在孩子就读北京公立学校反复被拒绝后，选择了在北京昌平区政府门前自焚，浑身八级烧伤住进医院。而这样走投无路的“北漂”父母，并非孤例。</p>
+<p>邱莹莹无知者无畏，义无反顾投奔了爱情。但剧情并没有走向灰姑娘遇上王子、从此过上幸福美好生活的童话模式。在《欢乐颂》里，同居之后，邱莹莹发现她的上司兼男朋友上了另一个女人的敞篷车。邱莹莹大闹办公室，揭露男友虚开发票的事实。冰冷职场里，公司没有对这个道出真话的职员褒赏有佳，而是轻描淡写开除了她，一个办公室规矩的破坏者——邱莹莹丢了爱情，丢了工作，一无所有地坐在2202室的小房间里，苦恼着下个季度的房租从哪儿找。</p>
+<p>邱莹莹至此成了一个存在感越来越孱弱的角色，许多人从这个混沌未开的奋斗女生身上看到了青涩的自己：“你就是邱莹莹，不配生活在北上深（指北京、上海、深圳，如今中国房价最贵的三个一线城市）！”</p>
+<p>而当剧情进一步推进，邱莹莹被抛诸脑后，樊胜美和她的父母成了盘桓微博一周的热词——樊有个不靠谱的哥哥，把人打伤住院后，对方没完没了地上门索要医疗赔款。樊家父母千方百计护着哥哥，如同过去十几年一样，让妹妹给钱、给钱、给钱，樊胜美实在没钱了，那就让她借钱，因为她迟早嫁出去，成为别人家的人。在樊胜美父母成功取代《还珠格格》里的容嬷嬷成为全民公敌后，各大社区论坛里，又见得姑娘们三三两两在共情：“我就是现实中的樊胜美！”</p>
+<p>在电视剧里，穷人的事总是陈谷子烂芝麻一堆，说到底离不开一个字：钱。</p>
+<p>富人安迪和曲筱绡的人生则被设置了更丰富的精神世界。她们遇到的所有困难都来源于自我超越的梦想和恋爱。不止如此，她们还能够时不时利用自己的权、钱和智力，替穷人们指点迷津。《欢乐颂》所展示的都市生活如此直白：穷人藏藏掖掖地揹着A货皮包，富人穿着一身琳琅的Armani走过，再不屑抛下一句：地摊货；穷人生病了去不起医院，富人正在和年轻有为的主治医生调情；穷人在家欢喜地泡面，富人做完SPA后光顾了上海新开的一家跪式服务的日本料理店；穷人周末闲得打苍蝇，千载难逢地被富人领着去朋友买下的私人岛屿度假……</p>
+<p>不少观众对这样的剧情设置很不满，评价道：“三观已毁、节操尽碎”。但换一个角，不管你认可和接受与否，它恰恰冷眼道出了大部分的真实中国：贫富悬殊，阶层固化，权力和金钱几乎可以解决一切问题。</p>
+<blockquote><p>我更愿意相信，阶级与阶级之间不是一层楼上的平起平坐，而是金字塔与食物链的关系。</p></blockquote>
+<p>也有不能道的现实，比如这部由小说改编的电视剧里隐去了一些政治敏感因素。</p>
+<p>原著里，安迪的生父是一位部级高官，文革年代上山下乡时，与乡下一个患有精神病的女子生下了安迪，之后考上大学，返城还乡，抛弃家人，音讯杳无。后来他为了躲避审查，又将家族的巨额遗产赠给安迪。在电视剧里，部级高官的身份被替换成一名经济学家。原著里，樊胜美家被恐吓不休时，安迪出面找到当地一位巨商朋友，请出一名“地头蛇”轻松摆平樊家的纠纷，这名地头蛇的身份在小说中本来是当地公安局的原刑侦队长，剧中，他成了一名律师。</p>
+<p>电视剧热播后，热心的中国观众们几乎把《欢乐颂》里每个人物的阶层、服饰、人格、职业翻出来一一咀嚼了一遍。媒体也借势推出各种专题：五个姑娘在现实中应该怎样理财？应该在北京上海购买怎样的小区？应当如何规划职业生涯？像2202室那样，房屋漏水，邻居找上门应该如何处理？遇见樊胜美家的医疗纠纷如何处理？</p>
+<p>尽管这部电视剧因“直指现实”之名蹿红，我仍然好奇，现实之中，五个不同阶层真能凑成一台戏吗？那些月薪不到一万，每天为房租犯愁的“漂”在北京、上海、深圳的年轻人们，有多大概率会遇见家族资产过亿的富二代、年薪过百万的投资界精英，并邻里相闻、互为肢体？</p>
+<p>北京大学的中国社会科学调查中心曾发布《中国民生发展报告2014》，报告指出，2012年中国家庭净财产的基尼系数达到0.73，相比收入差距，中国人的财富差距更大：顶端1%的家庭占有全国三分之一的财产，底端25%的家庭拥有的财产总量仅在1%左右。这道鸿沟还在继续加深。</p>
+<p>《欢乐颂》中的主角也讨论过“阶级”问题。安迪和关雎尔在上班路上，这样讨论一心想攀高枝挤进更高阶层的底层人民樊胜美：</p>
+<p>关雎尔：这种档次的活动，她去了又能怎么样呢？虽然人跟人是平等的，可这社会就是有阶级之分，你无视阶级只会碰壁，努力做事，克服局限才是真的。</p>
+<p>安迪则优雅地回应：很多时候所谓的阶级，其实就是自己内心的一片魔障。</p>
+<p>但是，这位年薪百万的投行女精英并没有打消一般大学毕业生关雎尔的困惑：在残酷的现实中，一个人得多有勇气才能无视这些客观存在的阶级！</p>
+<p>我更愿意相信，阶级与阶级之间不是一层楼上的平起平坐，而是金字塔与食物链的关系。</p>
+<p>《欢乐颂》剧集落幕的第二周，5月18日，离上海市中心陆家嘴直线距离20公里外的郊区周浦，土地拍卖拍出了一块54.5亿元的“地王”。业内人士估计，这个房地产项目至少会卖到每平方米7万至8万以上，而目前周浦地区的平均房价仅为4万每平方米左右。这意味着，在土地供给紧缩的局面中，中国一线城市的房价还将迎来不可估量的暴涨。</p>
+<p>不妨代入一下五个姐妹的生活：安迪和曲筱绡的固定资产会增值一倍，樊胜美、关雎尔、邱莹莹需要支付的房租也翻了一倍。那时，穷人和富人，还能聚在一起，凑成一幕和谐的“欢乐颂”吗？</p>
+<p><strong>另附：</strong></p>
+<p><strong>薛静：阶级夹缝间，不再任性的中国新中产</strong></p>
+<p>端传媒编按：本文最早以《“欢乐颂”中的新中产：他们的集体时代气质是“不敢任性”》为题，刊发于澎湃新闻“思想市场”栏目。经作者授权端传媒编修转载。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/610c1e2bfaf147cba944311c58c1b6d7.jpg?resize=600%2C400" alt="薛静：走红的热剧《欢乐颂》，反映出中国中产在板结社会中努力创造空间的生存境况。 图为北京上班族拥挤在地铁车厢中。摄：Kevin Frayer/GETTY" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/610c1e2bfaf147cba944311c58c1b6d7.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/610c1e2bfaf147cba944311c58c1b6d7.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/610c1e2bfaf147cba944311c58c1b6d7.jpg?resize=1024%2C683 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/610c1e2bfaf147cba944311c58c1b6d7.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>薛静：走红的热剧《欢乐颂》，反映出中国中产在板结社会中努力创造空间的生存境况。 图为北京上班族拥挤在地铁车厢中。摄：Kevin Frayer/GETTY</p></div>
+<p>TVB刚刚把《琅琊榜》搬上香港的荧幕。大陆那边，则是《欢乐颂》在一片火爆中落下帷幕。两部热剧都来自侯鸿亮的“正午阳光”制作团队。《琅琊榜》在演绎“家国天下、情义千秋”，《欢乐颂》却讲述“家国”当中个体的艰难、“情义”背后阶级的阻隔。</p>
+<p>《琅琊榜》改编自粉丝众多的知名网络文学作品。而《欢乐颂》与此不同，它以名不见经传的原著，同样在电视收视、网络点播与社交媒体热度三大战场赢得胜利。甚至，这个胜利比《琅琊榜》来得更为迅速。《琅琊榜》与《欢乐颂》，一个温情一个残酷，但都受到观众的追捧，它们的成功，正在于对时代脉搏的精准把握与全新阐释。</p>
+<p>早在《琅琊榜》中，主创团队就已经敏锐地捕捉到了时代变革的讯号：《瑯琊榜》里的“家国”宏大叙述，早已变成“空洞的能指”──徒具其表。它的巧妙之处在于，当它拉起“家国天下”为表，争取官方认可的同时，悄然间以“情义千秋”为里，将王朝权力的更迭，讲述为个人的平反昭雪、重归正统。梅长苏的故事，借用“正义”的名分，行的是“亲我主义”（在法律允许范围内，不避讳人情伦理）的情感法则。为现实中的逻辑，寻找到了合乎官方价值的表达方式。</p>
+<p>及至《欢乐颂》，“缝合”的主题变为了“撕裂”：来自不同的社会阶层的五位姑娘，阴差阳错共同住进了欢乐颂小区22层：高管安迪智商超群，但却疏于人情世故，从海外归来寻找失散的弟弟；“富二代”曲筱绡貌美又毒舌，向老爸表态自力更生，以博好感抢家产；外企HR樊胜美一心想钓金龟婿，原因却是有个无底洞一样榨取女儿的家庭；小康之家出身的关雎尔，乖巧又倔强地想要在上海独立；小城姑娘邱莹莹，憨直淳朴，感情受骗后终于发愤图强。五个背景不同的姑娘相遇在人生的十字路口，相互之间有欣赏也有鄙夷，期待理解却又难以认同。</p>
+<p>当代都市光鲜亮丽的背后，是个体的艰辛生活。欢歌笑语“姐妹情谊”的背后，是阶级的隐隐现形。但也正是这种撕裂，令身处夹缝之中的中国新一代中产阶级显露出寻求自身定位、创造自我话语的顽强努力。</p>
+<p>不敢再任性的青年一代</p>
+<p>提到表现当代都市青年生活的电视剧，绕不开的是2007年赵宝刚导演的《奋斗》。在这部剧作中，主人公陆涛从爱情到事业，都充满了浪漫主义色彩。他甩掉“富二代”女友，想与平凡姑娘共同奋斗。他设计项目获得两千万奖金，最终又让公司亏损三个亿。但是“赚了两千万又怎样，赔了三个亿又怎样？”佟大为饰演的陆涛，将POLO衫的领子高高竖起，梗着脖子、抬起下巴，骄傲地睥睨着这个世界。</p>
+<p>在《奋斗》中，一群生活在北京的青年男女，住在废弃工厂的大厂房，门口漆着“乌托邦”——这的确是一个乌托邦之梦，他们仍旧怀有成为著名建筑师、服装设计师的理想，心心念念着“法国”这个浪漫的彼岸，坚定地相信可以通过奋斗获得成功，并且在这个充满规则的社会中任性，横行霸道。</p>
+<blockquote><p>然而，《奋斗》作为里程碑式的作品，与其说是一个阶段的开始，不如说是一个时代的结束。50后导演赵宝刚的青春幻梦和热血激情，以这种理想主义的方式，完成了最后的谢幕。</p></blockquote>
+<p>2008年全球金融海啸所引发的，是轰轰烈烈的全球化浪潮的新变化：经济领域的全球交流仍旧继续，但是人们却发现，资源的全球配置，带来的是本地底层民众生活质量下降，而上层食利者赚得盆满钵满。经济蓬勃发展的时期，在人人梦想成真的宣传，和账户上不断上涨的数字的双重作用下，阶级区隔并不明显。而大浪退去，现实就会如同岸上的沙石一般显露出来。国内阶级矛盾和国际民族矛盾互相推进：小到不欢迎外地游客，大到要筑美墨边境墙，整个世界范围内，都遭遇着社会结构板结和民族主义高涨。而在中国大众文化领域中，人们从《奋斗》的浪漫情愫，调头进入《蜗居》、《裸婚时代》和《北京爱情故事》的严峻现实，直到今日的《欢乐颂》。</p>
+<p>十年之间，时代精神已然改变。青年人从北京郊野、废弃厂房的“乌托邦”，搬入高楼林立的繁华上海。在《欢乐颂》里，“追求理想”被“只求生存”替代，成为中产生活的主旋律。北京皇城根下那种就算喝着大碗茶、也要指点江山笑谈天下的雄心壮志，变成了上海黄浦江畔的精明、务实与利己。而这种变化，也正昭示着八十年代末那些残存的启蒙主义理想已被涤荡净尽，人们的目光，从政治上的“大历史”转向金钱里的“小时代”。</p>
+<p>《欢乐颂》中，合租在欢乐颂小区2202的三位姑娘，哪个不用在算盘里生活？从房租水电，到约会开销，还有家乡的父母兄弟，哪怕是月入上万，小账本上各项开销盘算下来，也是所剩无几。连衣食住行都要好生计算，哪里还敢任性？生活如此，爱情和婚姻也逐渐变成搭伙过日子，因此才需要把各自条件和婚前财产一一理清，这是越来越多奔波在相亲路途上的中国青年人，正在感受的现实。</p>
+<p>“不敢任性”不仅收入，更是一种集体共有的时代气质。连剧中的富二代曲筱绡，谈起生意都会为二百万毛利润锱铢必较，哪里还有《奋斗》中，陆涛那样拿着两千万不当回事儿的潇洒？如安迪和魏渭这样的商务精英，网上再怎么心有灵犀、相谈甚欢，第一次见面也会财不外露、刻意隐藏。70后的侯鸿亮，显然比50后的赵宝刚更具现实主义精神。</p>
+<blockquote><p>在这个时代，拥有理想是种幸运，而不是崇高，谈论爱情是种奢侈，而不是浪漫。</p></blockquote>
+<p>无论哪个阶层，对于自身的状态，总是充满不安全感，这才是“不敢任性”的根源。特别是近年来，中国的意识形态，一直在变动中重组；经济发展也从原先的轻车快马变为减速前进。2015年的一轮股市过山车，更是让刚刚安稳的中产阶级再次惴惴不安。当没有既定的规则可供依循，唯一能够抓住的就只剩金钱。剧中樊胜美有难，安迪递上一万元钱时，我们倏尔发现：原来金钱已经成了最大的情义。人们小心翼翼的守护住自己的财富，无论多少，再也不敢任性而为。</p>
+<p>“阶级”的隐身与现形</p>
+<p>《欢乐颂》一剧最让人感到痛切之处，在于它以创造乌托邦为开始，却以不断打破乌托邦作为故事发展的动力。</p>
+<p>22楼五位美女，原本出身于不同的家庭背景，各自的人生经历也划定了她们实际所处的阶层，但是机缘巧合，共同入驻“欢乐颂”小区22楼。同住一层楼，看起来是生活在同一平面，然而这背后的差异，就如同下楼时有人按了“1层”（大堂）而有人按了“B1”（地下车库）一样，隐蔽而深刻。</p>
+<p>在消费主义面前，一切都被折算成金钱与购买力，这种计算方法大大简化了阶级之间的差异。在当前，各个商业品牌都希望上下通吃、全产业链布局。哪怕是国际一线的奢侈品牌，也会推出入门级的包包、买得起的口红或与快消品牌合作的服装。这种现象给人一种错觉：只要赚到足够多的钱，就可以在社会阶级中通行无阻。如果没有原生家庭的负累，月薪几万的樊胜美之流，与月薪几十万的安迪之流，在生活的舒适程度上，并不会产生天壤之别，她们都可以在别人的目光中披挂一身名牌，哪怕一个是入门级、一个是限量版。</p>
+<p>改革开放、市场经济初期，中国人常常惊叹于资本主义物质的丰富，继而发现金钱的不公和万恶──它竟然可以让有的人沿路乞讨、食不果腹；而有的人可以吃一个扔一个。然而新世纪的今天，社会进入普遍中产、普遍均等的阶段，所有人都能吃得饱穿得暖的时候，超市牛肉与神户和牛的差别，已经没有饥与饱这么大。在外企做HR的樊胜美，也一样买得起富二代曲筱绡所用的东西。</p>
+<p>“阶级”的差异，在消费主义的物质资源面前，仿佛已经消失不见。</p>
+<p>但是另一方面，“阶级”所造成的裂痕，向着更隐蔽也更深入的方向发展。“富二代”在清晨看见穿大牌款式睡衣的樊胜美，便出言讽刺道：“你衣服哪儿买的呀？我妈今天早上穿的也是这件。”一下刺中了樊胜美的软肋：“买得起”和“用得起”是不一样的。如富贵人家曲母之辈，自然有底气穿大牌正品睡衣。而对于有钱用在刀刃上的樊胜美，不穿出去给人看的睡衣，当然买的是仿品。</p>
+<blockquote><p>这些“穿在里面的衣服”，成为标定阶级的关键。这是属于新中产的焦虑症：她们全心全意遵循上一阶级制定的规则，从内到外模仿精英的生活方式，却无从创造属于自己的话语体系，时不时露出马脚、遭到嘲笑，作为社会结构的主要组成、经济发展的直接动力，却只能站在任人评判的位置。</p></blockquote>
+<p>中国中产日常生活有一个耐人寻味的变化：经济上属于同一阶层的人，气质越来越趋近。这背后，是异常残酷的事实：依靠一己之力跨越阶层的突围者、搅局者越来越少，中国社会正日益走向板结。中国人曾嘲笑那些以他者姿态闯入富裕阶层的前辈，他们磕磕巴巴不会讲一句完整的英语、黑西裤黑皮鞋中露出一截白袜、吃饭总是改不了吧唧嘴的恶习。然而三代以后，他们的儿孙终于在哈罗公学（Harrow School）里用英语谈笑风生、身着礼服在各种“公主之夜”上翩翩起舞、懂得分辨不同年份和产地的红葡萄酒，优雅得体。但这却昭示局外人：他们再也没有入局的机会了。</p>
+<p>社会板结，阶级固化。为了维持与富裕阶层的相似，《欢乐颂》里的新中产们或是费尽心力想进入上流社会交际圈，或是亦步亦趋尾随其后、从专业知识学到生活方式。然而她们又在工作、生活、感情危机突然降临的时刻惊慌失措，显现出内里的空虚——这些由家庭背景、成长经历积累而成的话语经验，就不是金钱可以购买的了。这里现形的“阶级”彰显的，正是队伍日渐扩大的中国新中产在自我话语上的匮乏。</p>
+<p>中国新中产：寻找新的话语空间</p>
+<p>按照中国国家统计局2014年的调查报告，以平均三口一家计算，家庭年收入人民币6至50万元，是界定城市中等收入群体的标准。中国新一代“中产”，首次得到了官方的数字化界定。</p>
+<p>按照这个标准，尽管仰望着2201和2203的两位富裕业主，《欢乐颂》里2202房三位租户中的两位，都算是标准的城市中产，剩下一个也是相差不多的准中产。按照原著的发展，她们三个都会是中国最典型的中产，代表中国绝大多数城市青年的生存状态。</p>
+<p>“中产”的名字固然动听，然而如果只能成为富裕阶层的模仿者，她们的生活，或许“舒适”，但永不“体面”。樊胜美来自重男轻女的乡镇，要承受父母一辈的盘剥压榨，关雎尔自二线城市的小康家庭，想靠自己闯出天地。她们的原生家庭各不相同，但最终交会在欢乐颂小区2202室这个中国新中产的汇集地。不同的起点与路径，令中产内部就充满了诸多分歧，因此话语统和也就更加艰难。</p>
+<p>什么是富有情趣的生活？中国中产试图摆脱先富之人的脚印，转而重新定义自我。因为只有创造出属于自己的生活方式、价值体系，他们才不会被指认为相对于富裕阶层的后来者与低等人，而是成为与之平等但不同的另一社会集团，甚至在文化与道德上，享有更多的话语权。</p>
+<p>在《欢乐颂》里，最无所挂碍的邱莹莹，对安、曲二人的高端生活坦然羡慕，但从不模仿，毫无自卑与嫉妒，充满乐观、进取与知足，展现了蓬勃如野草一般的生命力。当邱莹莹萌生了开咖啡网店的想法时，安迪瞧不上她的智商，曲筱绡看不上她的本钱。但是这种充满个人特色和时代气息的方式，恰恰让她创造了属于自己的成功之道。邱莹莹不像关雎尔一样处处模仿安迪的行事做派，也不像樊胜美一样总是想挤进曲筱绡的富人圈子，但是她在网店事业中展现的机灵、勤勉与行动力，却最终让安曲二人刮目相看。其他角色里，樊胜美将目光放回经营自己而非挤入上流，赵医生也靠自己的聪慧才智和个人魅力，获得了安迪的友谊和曲筱绡的爱慕。</p>
+<blockquote><p><strong>什么是可以成功的道路？这一代中国中产的道路之所以崎岖，是因为他们是全新一代，是改革开放后，社会主义中国语境下孕育出来的本土中产阶级。他们没有前辈可供参考，因而充满了拙劣的模仿，也充满了创造的可能。和西方语境下的传统中产相比，他们无法在政治上开拓更多的空间，只能以经济水平来确定自我的存在，也尽力尝试着在文化上标明自我的身份。站在贫富两极的中间，他们的姿态正从“惶恐”转为“自觉”，努力撑破贫富两极的界定，为社会酝酿着流动的力量。</strong></p></blockquote>
+<p>《欢乐颂》里的年轻中产，既对抗着来自原生家庭、传统社会的阻挠，又反击着来自富裕阶层、上流社会的打压，在当代社会中顽强生存。在身为富裕阶层的安迪和曲筱绡不带她们一起玩耍的时间中，这三位姐妹相互鼓励、相互帮助，为自己的生活赋予价值和意义。</p>
+<p>诚然，《欢乐颂》中，智商不同无法成为朋友、财富差距不能愉快玩耍。但是三位年轻的中产一代，依旧在创造着自己的话语资源和价值体系。中产阶级在板结社会中开拓属于自己的空间，这是《欢乐颂》留下的时代命题。</p>
+<p><strong>（薛静，北京大学中文系博士研究生，从事大众文化、网络文学与新媒体等领域的研究。）</strong></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E3%80%8A%E6%AC%A2%E4%B9%90%E9%A2%82%E3%80%8B%E7%83%AD%E6%98%A0%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%83%BD%E5%B8%82%E6%AE%8B%E9%85%B7%E7%89%A9%E8%AF%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82/?category=18271" rel="tag">一线城市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%A7%82/?category=18271" rel="tag">三观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E9%9D%A9/?category=18271" rel="tag">变革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">富二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AC%A2%E4%B9%90%E9%A2%82/?category=18271" rel="tag">欢乐颂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">消费主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">现实主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">理想主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82/?category=18271" rel="tag">社会阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">社会阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95/?category=18271" rel="tag">经济发展</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%9D%E8%AF%AD%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">话语体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%BD%E5%B8%82/?category=18271" rel="tag">都市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7%E5%9B%BA%E5%8C%96/?category=18271" rel="tag">阶级固化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%84%E5%85%9A%E7%AB%A0%E8%AE%A8%E8%96%AA/" target="cdt-mirror">【图说天朝】抄党章讨薪</a>
 </h2>
 <p><p>@周蓬安 ：【全国多地展开抄党章活动 场面热烈】自中办印发《关于在全体党员中开展“学党章党规、学系列讲话，做合格党员”学习教育方案》以来，全国多地展开员党员手抄党章活动，气氛热烈。5月23日，江西省高院门口，10多位农民工摆起桌椅，集体抄党章。微评：弱弱地问一声，网传此为农民工抄党章讨薪，真的吗？</p>
@@ -65,6 +266,42 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-22/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-22</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ci9lCPtUkAAtRsj.jpg?resize=450%2C800" alt="Ci9lCPtUkAAtRsj" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ci9lCPtUkAAtRsj.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ci9lCPtUkAAtRsj.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>@Zodiac4698：小时候听罗大佑在歌里唱中华民国“每天进步一点点”，心说“一点点”算什么，那时候江泽民天天在电视里唱中华民族的伟大复兴，多带劲啊！现如今我们不进反退，一杆子打回文革原形。人家却已经“国为民而立”，三次轮替了！蔡英文演讲处处体现具体民生，这才叫千里之行始于足下。宏大叙事者都他妈狗屎！</p>
+<p>@fufuji97：有人拿陈水扁来说台湾制度，并不奇怪，这些人基本上不懂人性，人性的关键，不在犯错，而在纠错，人就是在不断纠错中建立起一套经验系统的，最坏的制度其实就是无法建立起纠错制度或者模糊纠错，蠢人的表现往往是在同一个错误上不断犯。</p>
+<p>@doctor8888：有好多大陆朋友担心蔡英文执政能力，我有一个简单的方法让你随时能判断蔡英文和台湾的情况：如果台湾的新闻出现很多在大陆媒体里，那蔡英文就不太好；如果台湾的新闻在之后出现不多在大陆媒体，那蔡英文就是有能力的。以上逻辑可以推广至一切战后民主化的国家。</p>
+<p>@xiaoming50：听中共外交部发言人、对台办批评民选总统蔡英文就职演说是“没有完成的答卷”，以及赵姓媒体假港媒的随声附和，感觉中共超级搞笑：一个60多年从来不敢让国人享有普选国家领导人政治权利的独裁政权，却自以为是考官，可给一个民选政权发考卷，可给一个民选总统的治国方略打分，真不知羞耻！</p>
+<p>@wentommy：520是啥日子啊？北京满大街都是穿蓝褂子的套红袖箍的“首都治安志愿者”，我问一位大爷：又开两会了？大爷：差不多吧，听说在选总统。</p>
+<p>@xiucai1911：对世界各国而言，中国大陆是一台取款机，这台取款机的密码是“只承认一个中国！台湾属于中国！”</p>
+<p>@上海老顽童吴德余：近半小时的就职演说虽举世瞩目，却无主义思想理论核心代表一大堆，通篇平白直朴娓娓道来，整个过程连讲稿都没瞧一次，非背诵能力超凡，而是足证全是自己所思所想早已烂熟于心。直言处境艰苦却又不失信心，条分缕析棉里藏针，有承诺却又不吹大牛。凡此种种，不得不令人刮目，其实这才是正常的。</p>
+<p>@mozhixu：从最低一块木板出发，就会看到，大陆目前的人权状况，实际是1992年重启市场化以来最糟糕的，当初为融入国际经济秩序而作出的姿态，以及适应市场化的调整期带来的某些缝隙和时滞，都曾经给予了民间社会少许空间，如今都被重装后的市场新极权体制一一收回，这一事实也同时否定了所谓的渐进图景。</p>
+<p>@mozhixu：可以肯定，大陆人权状况还将继续恶化下去，勇敢的积极分子们仍将前赴后继，随着时间的推移，或者会有越来越多的人意识到最短木板这一事实，认识到渐进的虚妄，认识到根本质疑的必须，从而酝酿出足以撼动体制的力量，但在当下，无论是国际还是国内，都并没有任何力量可以约束极权体制，寒冬仍将持续</p>
+<p>@c338ki_selina：清华大学社会学教授孙立平：现在大陆已是一个与法治完全格格不入的国家，且愈走愈远，其中维稳就是对法治的一大破坏、大倒退。政府为了达到目的（指标）可以不择手段，这叫“作恶授权”。政府默认甚至鼓励下属用违法规则，以违法方式达成任务。</p>
+<p>@紧爷的菜园子：中共建政以来许多人的许多所谓思想，无非是为某党坐江山编织理论上的依据。然后再把这套东西敷衍成一套庞大的洗脑教材，充斥其中的则是一套狼奶词汇。所以天朝的政治学、经济学乃至哲学、史学，都有一套意识形态修辞学和写作上的潜规则，知道什么能说什么不能说，既照顾了当局的禁区也照顾了作者面子。</p>
+<p>@紧爷的菜园子：党国不允许自治组织与反对派存在，更没有西方可随时接管政府的影子内阁，当出现重大变动时，没有现成的替代品如自治机构，替代原有秩序提供者，实现权力和平过渡。唯有打碎现有的国家机器，付出昂贵代价后重建秩序。归根结底，中国的制度是一种没有缓冲与刹车的制度，一旦出大意外无可挽回地走向毁灭。</p>
+<p>@diamrem：「“天朝的人民无法理解电报的工作原理，…如果在电报线附近发生了什么不幸的事情，立即就会有人造谣…这种谣言通常会引起骚乱，暴徒们将毫不犹豫地冲过来，砸毁机器。有一次，因电报线附近某个人生病，一夜之间，1英里长的电报线就被毁坏了」《跌荡一百年（上）》 140年过去了，情况还是差不多。</p>
+<p>@MyDF：去过浙江，见过仙居、兰溪、留下、画溪、雁荡、玉环、丽水、夏履、玲珑、瞻岐、霞浦、桐琴、瑶琳、泽雅、墨林、甘霖、梅渚……这样的地名。去过东北，见过葫芦岛、铁岭、大洼、苏家屯、瓦房店、佟二堡、烧锅、老边、平房……这样的地名。 （转）</p>
+<p>@nonozone： 从众心理很厉害，比如你一个人冒雨骑车，就感觉是纯傻逼，但是突然有一帮傻逼一起，突然发现，艾玛，这还有点浪漫呢…</p>
+<p>@kinglin0818： 在从前，嫖娼是一种时尚，睡别人老婆是要浸猪笼的。现在，睡别人老婆成了时尚，嫖娼是犯法的。传统文化的丢失让我感到万分心痛。</p>
+<p>@iamdalaba：现在的人究竟能傻到什么程度？可以把性格寄予星座，努力交给鸡汤，情绪归于水逆，运势托付锦鲤。然后点支烟，淡淡的说，从小听过很多大道理，但依然过不好一生。</p>
+<p>@txyyss：经过推友提醒，这个程序员的侮辱性称呼中外还是可以统一的，国外叫 code monkey，国内叫程序猿。 #信达雅的典范</p>
+<p>@xueshudi：“我要把你打入7层地狱！”“哪7层？”“应用层，表示层，会话层，传输层，网络层，数据链路层，物理层！！”尼玛劳资搞网络工程的不就是一直在地狱扑腾么？</p>
+<p>@重庆言子哥：刚刚在天桥上看到一个崽儿用粉笔在地上写了：我好饿，求好心人给钱买点吃的。我看完车个背去买了四个馒头过来。崽儿看了我一眼，勉强吃下去了。吃完准备走，我悄悄咪咪跟到后头，等他到另一个地方写完字，我又去买了六个。当我把馒头放在他面前的时候，我这辈子都不会忘记他的眼神。也许很感激我吧…</p>
+<p>@Tin_Tse：机场车站安检排队心得：如果排在你前面的女生穿黑衣服，跟着她，通常她会很利落；如果排在前面的女生穿粉色或紫色，或者拉着亮粉色行李箱，甚至上面贴着Hello Kitty，请另换一队排，她会耽误至少三个人的时间。</p>
+<p>@barcalan：早上等地铁时我排第一个，后面一个妹子看车来了一声不响就“嗖儿”地一声站我旁边了，我拉住她问怎么着就要插队，她说“我没插队啊，我会让你先上车的，这不是插队”。话音未落，车门打开，妹子一猫腰就上了车根本不等人。不守秩序、谎言、背叛。15秒的一个小事件，浓缩了你国人人性精华。</p>
+<p>@l1989127x：如果你的女朋友某天突然非常任性要买一些可有可无，无关紧要的小物件，千万要依着她的性子，你只管负责提包就好。因为她需要用小物件带来的幸福感抚平生活里挫折和困难带来的痛苦。等她冷静下来，就会把这些东西卖二手，接着沉浸在“贤惠精明”的喜悦之中。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-22/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E8%80%81%E8%B4%AB%E5%86%9C-%EF%BC%9A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%8F%91%E5%8A%A8%E6%96%87%E9%9D%A9%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%8A%A8%E6%9C%BA%E5%88%B0/" target="cdt-mirror">华夏文摘｜老贫农 ：毛泽东发动文革的真实动机到底是什么？</a>
 </h2>
@@ -471,92 +708,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%84%E5%85%9A%E7%AB%A0%EF%BC%9F/" target="cdt-mirror">西木：他们为什么要抄党章？</a>
-</h2>
-<p><p><strong>来自微信公号：西木1984（ID: ximu_1984）</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6b4d2533gw1f3y62jm4bij20bn0ewwgk.jpg" rel="attachment wp-att-438092"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6b4d2533gw1f3y62jm4bij20bn0ewwgk.jpg?resize=419%2C536" alt="6b4d2533gw1f3y62jm4bij20bn0ewwgk" data-recalc-dims="1"></a><br><span>（网络图片）</span></p>
-<p>近日，一对新婚燕尔在春宵时刻抄党章的事情引来了许多的议论，继而我们又发现，原来抄党章并非是他们的“突发奇想”，而是一次有组织、有系统的政治行为，据说全国不少地方也都在积极组织“手抄党章”活动。</p>
-<p>如此，便实在激起了不少舆论的风波，也让不少人着实吃了一惊。有人不理解，到了今天这个价值已经多元的时代，这种带有明显一元价值宣传、作秀式的“表忠心”做法，为何会突然被推行，并能如此大行其道。他们到底是出于什么原因要抄党章？</p>
-<p>对于这个问题，我觉得实在不必惊讶，一来这样的做法我们向来是有传统，甚至比之更甚；二来这也是我们的现实情况所要求的。这可以从两个层面来说。一个是从组织的层面，我们要理清楚这种看起来十分幼稚可笑的行为，党组织还要推行的原因。另一个是从个人的层面，我们要知道为什么许多人在明知“不可为”的情况下，依然作秀式地配合的原因。</p>
-<p>首先，让我们从组织的层面来看。我以为，一个以极权方式统治的政党，其用以钳制人的思想的常用手段便是神化它的领袖和党组织本身。当这个政党还处于开创型领袖时代时，那么神化党的领袖便是其一种常用的手段。此时，党的组织是领袖的一种外延，自有其相应的威严和地位。</p>
-<p>因此，在那个时代，我们看到的领袖被歌颂成太阳般地升起、天神般地降临人间，党被比喻为母亲、比喻为大地，这些都不只是肉麻的阿谀奉承之词，而是一种必需的仪式。因为，只有具备无条件的宗教般的信仰，才能理解领袖和党的绝对正确，才能将领袖奉之为神，才能控制成员的思想。</p>
-<p>到了后极权时代的今天，与被神化的领袖相比，其继任者的形象便显得平庸了，因此，突出他们重要性和正确领导的宣传方法也会有所改变，最明显的便是把宣传重点从一贯英明、伟大的领袖转移到“永远正确”的党。</p>
-<p>比如，在鼎盛期的纳粹德国，极权统治用以统一人民思想的最高意志是来自永远正确的希特勒，而在极权已经不如纳粹成功的前共产党东德，这个最高意志则来自于永远正确的党。如果说无比崇高的领袖类似于一个至高无上的神，那么“永远正确”的党便形同于一个制度严密、墨守成规的“教会”。</p>
-<p>当党的崇拜代替了以前的领袖个人崇拜，为了巩固和强化党的权威性，进一步钳制成员的思想和行为，一个政党往往会采取一切手段来达到这个目的，甚至不惜以一国之财力来支持一党之统治。所以，在这种情况下，我们看到的许多不可思议的统治手段，如推行“八项规定”、各种批评会，都是不足为奇的。事实上，这些都是神化“党”的必要手段。</p>
-<p>虽然，这些手段在很大程度上已经失败，而他们自己也知道这个，但他们并没有其他可以代替这种思想控制手段，所以还是不得不需要继续使用这些手段。而且，在他们看来，哪怕一个人的想法没有真正改变，但只要他的公开行为是按照这类手段所规定的样子被改变了，这种手段就已经成功地达到了它的目的。</p>
-<p>对于他们来说，改变人的公开行为远比改变个人的想法更重要。只要每个人看到别人如何“正确行动”，并加入这种行为，又因此影响别人如此“正确行为”。如果能够把一个社会整肃成这样，他们的目的就达到了。</p>
-<p>而从控制个体的手段来说，将个体放置在一个“正确政治”的环境之中，让他们相互监督，相互模仿，做着相同一致的事情，如开会、谈体会、说空话、机械重复，这也是极权政党惯用的手段之一，虽然看起来没有意义，没有效果，但其实是发挥着重要作用。</p>
-<p>比如，1952年，东德共产党发起一个百万人写信的运动，要求东德人给在西德的亲朋好友写信，告诉他们社会主义的优越性。虽然写信的人未必真能写出什么打动收信人的作品来，但对于他们来说，让民众做写信这件事，比做这件事能达到什么效果更重要，因为这表示写信人响应了党和国家的号召。</p>
-<p>写信因此成为一种集体性的效忠行为。当一个不情愿写信的人看到别人个个都在写信时，他知道不写是不行的，这件事对他的警示和教育作用会让他在别的事情上也更积极地与他人保持一致。中国的许多“无效”运动，如“唱红歌”“学习系列重要讲话精神”，并不纯粹是一种浪费，而是对管制民心，统一意志很有助益的集体活动。抄党章也是同理。</p>
-<p>此外，从个人层面而言。在一个政党掌握绝大部分资源的国家，个体就犹如无根的飘萍，其命运的轨迹几乎完全掌握在党组织手中，因此，在组织内的许多人自然会觉得自己比在组织外的人更安全，更受信任，并将能在组织里视为一种“优秀”和“荣誉”的身份标志。在这样的组织环境中，自然是“党叫干啥就干啥，党叫咋想就咋想”。甚至在他们心中，这种顺从成了一件光荣的、比组织外人“先进”的行为。</p>
-<p>有人说，到了后极权时代，许多人已经不相信党所宣传的“价值观”和所追求的事业，但极权统治依然在进行，当党的“政治正确”代替了社会的是非观，并不容置疑时，党所定义的“正确行为”便会继续被大部分成员接受。因此，即便是在这种“光荣诱惑”已经失效的情况下，功利分羹的心理也仍能起作用。入党总比不入党好，抄了党章总比不抄好，这种简单的利害判断，是人性的本能。</p>
-<p>当然，这种“正确行为”已经不再是下意识的了，而是变成了有意识的行为，也就是故意做出来的假面行为。在这种情况下，个体知道什么是“不正确行为”，甚至有做出“不正确行为”的意向和事实，比如抄党章的两位青年就喜欢韩寒和马伯庸，但同时又知道这样做会给自己带来麻烦，所以必须隐藏，换一种“正确行为”，比如抄党章，又或者参加批评会，只有这样，才能安全保护自己，甚至从中获利。</p>
-<p>因此，他们至少在表面上要替党说话，说党的话。就算做样子，也得做得与党同心同德，做得像是党的忠实信徒，就算心里不情愿，既然已经踏上与党有利共享的贼船，就不得不老老实实待在船上，就算在内心背负着人性与道德的双重谴责。</p>
-<p>可见，只要一元价值当道的极权统治还在继续，类似抄党章这般幼稚可笑的行为就会继续存在。只是，这种行为是极其有害的，尤其是在一个普遍对党已经缺乏认可的社会，它会使人在不知不觉中，变得习惯于把政治正确当做真理，用条件反射来代替思想，用冷淡麻木来对待堕落，以至于整个社会陷入思想僵化、道德麻痹、人性扭曲的异化状态。这也是我为什么反对组织化“抄党章”的原因。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BB%96%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%84%E5%85%9A%E7%AB%A0%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%8B%E9%BD%90%E6%84%8F%E8%AF%86/?category=18271" rel="tag">看齐意识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E8%A7%86%E9%A2%91/" target="cdt-mirror">【CDTV】蔡英文就职演说视频</a>
-</h2>
-<p><p><a href="https://www.youtube.com/v/LdwJMbrJAK4?version=3">https://www.youtube.com/v/LdwJMbrJAK4?version=3</a></p>
-<p><a title="中華民國第十四屆總統蔡英文就職演說" href="http://www.youtube.com/watch?v=LdwJMbrJAK4" target="_blank">中華民國第十四屆總統蔡英文就職演說</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-taiwan&sz=85E7&t=2&s=T4JIFHVBGCYLUT62IYHY35BG4WKBEWDBNNNCROSSLN5S4JQ2NYYA&i=CKFREMMTC5MAPWXFA73D7IGFUUBQICNSU&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E8%A7%86%E9%A2%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-8/" target="cdt-mirror">【真理部】蔡英文就职报道</a>
-</h2>
-<p><p>蔡英文就职报道一律以权威媒体统一口径为准  不得转发违规信源  相关有害时政信息要及时查删。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%9A%E7%AB%A0%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%83%8E%E6%95%99/" target="cdt-mirror">【立此存照】党章是最好的胎教</a>
-</h2>
-<p><blockquote><p><a href="https://freeweibo.com/en/weibo/3977199264701543" target="_blank">@李方平律师</a>：【新疆、云南干部异口同声：党章是最好的胎教】“党章党规是最好的胎教”，怀二胎4月参加竞赛的（云南）陇川县防震减灾局副局长李擎说。新疆医科大一附院党办三孕妇也是如此说…</p></blockquote>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6a80bfcdgw1f41s4j5hr3j20m80ci76p.jpg" rel="attachment wp-att-438478"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6a80bfcdgw1f41s4j5hr3j20m80ci76p.jpg?resize=550%2C309" alt="6a80bfcdgw1f41s4j5hr3j20m80ci76p" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6a80bfcdgw1f41s4j5hr3j20m80ci76p.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6a80bfcdgw1f41s4j5hr3j20m80ci76p.jpg?resize=768%2C432 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6a80bfcdgw1f41s4j5hr3j20m80ci76p.jpg?w=800 800w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>来源：自由微博</span></p></div>
-<p><em>背景新闻：</em></p>
-<p><strong><a href="http://www.jjjc.yn.gov.cn/info-87-18990.html" target="_blank">德宏州纪委｜德宏：举办党章党规知识竞赛6名厅级11名处级领导干部带队上阵参赛</a></strong></p>
-<blockquote><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/45038600317fdb48c6b15fc97e499bda_thumb.jpg" rel="attachment wp-att-438480"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/45038600317fdb48c6b15fc97e499bda_thumb.jpg?resize=475%2C315" alt="45038600317fdb48c6b15fc97e499bda_thumb" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/45038600317fdb48c6b15fc97e499bda_thumb.jpg?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/45038600317fdb48c6b15fc97e499bda_thumb.jpg?w=536 536w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br>
-就此次党章党规知识竞赛，参赛选手如何评价和准备呢？[…]“为参加此次知识竞赛，我每天空余时间都在学党章党规，走路、吃饭、坐车在记，连晚上睡觉时也在背，自身的党章党规意识得到了较大的提升。”参赛的梁河县副县长郑瑜告诉笔者。“<strong>党章党规是最好的胎教</strong>”<strong>怀二胎4月参加竞赛的陇川县防震减灾局副局长李擎说。</strong></p></blockquote>
-<p><strong>另附：</strong></p>
-<blockquote><p><a href="https://freeweibo.com/en/weibo/3976430322970735" target="_blank">@互联网的那点事</a>：有些行业就是反应迅速，值得学习！</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6106a4f0gw1f3zbtdj14ej20qo0zkdii.jpg" rel="attachment wp-att-438479"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6106a4f0gw1f3zbtdj14ej20qo0zkdii.jpg?resize=425%2C567" alt="6106a4f0gw1f3zbtdj14ej20qo0zkdii" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6106a4f0gw1f3zbtdj14ej20qo0zkdii.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6106a4f0gw1f3zbtdj14ej20qo0zkdii.jpg?resize=768%2C1024 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6106a4f0gw1f3zbtdj14ej20qo0zkdii.jpg?w=960 960w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%9A%E7%AB%A0%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%83%8E%E6%95%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">中共党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E7%A0%94%E7%A9%B6%E8%AE%A4%E4%B8%BA%E4%BA%94%E6%AF%9B%E5%85%9A%E5%8F%91%E5%B8%96%E6%97%A8%E5%9C%A8%E8%BD%AC%E7%A7%BB%E6%B3%A8%E6%84%8F%E5%8A%9B/" target="cdt-mirror">奇客资讯 | 研究认为五毛党发帖旨在转移注意力</a>
-</h2>
-<p><p>中国政府一方面严控社交网络的评论，大规模的删除呼吁集体行动的帖子；另一方面，它大规模的雇佣水军去社交网络发表亲政府的评论，制造“伪草根舆论”，这些水军的正式名称叫网评员，但网民将他们称为“五毛党”，五毛党是有薪水可拿的，还有一群不拿钱的被称为“自干五”。中国政府被怀疑雇佣了多达200万的五毛党，在社交网络上发表了数以亿计的帖子。在逆向工程中国社交网站的审查机制之后，哈佛大学政治学者Gary King和同事研究了中国网评员的发帖策略。他们分析了一位叫Xiaolan的匿名博主在2014年泄漏的章贡区网宣办发给网评员的邮箱内容，<a href="http://gking.harvard.edu/files/gking/files/50c.pdf?m=1463587807" target="_blank"><u>发现五毛党发帖旨在转移注意力</u></a>（PDF），不参与受争议问题的讨论，而是转移话题。研究人员估计，每年五毛党写了4.48亿社交媒体帖子，其中52.7% 出现在政府网站上，其余2.12亿帖子插入到商业社交媒体网站的800亿实时信息流中。大部分政府网站的评论和1/178的社交媒体帖子都是网评员写的。帖子不是随机分布的，而是有高度导向性，都有着特定的目的。其中分散注意力是一个最明显的控制信息策略。研究人员还发现，五毛党绝大部分是由政府雇员组成，他们主要是在工作时间之外发帖，不是付费雇佣的普通网民。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E7%A0%94%E7%A9%B6%E8%AE%A4%E4%B8%BA%E4%BA%94%E6%AF%9B%E5%85%9A%E5%8F%91%E5%B8%96%E6%97%A8%E5%9C%A8%E8%BD%AC%E7%A7%BB%E6%B3%A8%E6%84%8F%E5%8A%9B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B%E5%85%9A/?category=18271" rel="tag">五毛党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E9%99%A4/?category=18271" rel="tag">删除</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BF%E5%90%8D/?category=18271" rel="tag">匿名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%91%E5%B8%96/?category=18271" rel="tag">发帖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E8%B4%A1%E5%8C%BA%E7%BD%91%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">章贡区网宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -568,7 +719,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -578,5 +729,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

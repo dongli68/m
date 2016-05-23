@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-138/" target="cdt-mirror">【河蟹档案】大学课堂设“便衣巡视员”，像特务一样监控他们</a>
@@ -45,7 +45,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%90%86%E8%AE%BA%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">习近平理论体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%B0%E7%B2%89/?category=18271" rel="tag">买粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%BF%E8%A1%A3%E5%B7%A1%E8%A7%86%E5%91%98/?category=18271" rel="tag">便衣巡视员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%83%B5%E5%B0%B8%E7%B2%89/?category=18271" rel="tag">僵尸粉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E6%88%B7%E5%8F%A3/?category=18271" rel="tag">北京户口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%8F%B0%E5%8A%9E/?category=18271" rel="tag">国台办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A7%93%E5%85%9A/?category=18271" rel="tag">姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E8%87%AA%E7%94%B1/?category=18271" rel="tag">学术自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%BA%94%E5%87%AF/?category=18271" rel="tag">张应凯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%90%9E/?category=18271" rel="tag">恶搞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC/?category=18271" rel="tag">指鹿为马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E8%A8%80/?category=18271" rel="tag">禁言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E5%9D%80%E5%AF%BC%E8%88%AA/?category=18271" rel="tag">网址导航</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B8%E4%B9%A6/?category=18271" rel="tag">脸书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%84%9A/?category=18271" rel="tag">自焚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%9C%89%E8%A5%BF/?category=18271" rel="tag">陈有西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E4%BA%AC%E7%B1%8D%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">非京籍学生</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%8A%84%E5%85%9A%E7%AB%A0%E6%B4%BB%E5%8A%A8-%E5%9C%BA%E9%9D%A2%E7%83%AD%E7%83%88/" target="cdt-mirror">【异闻观止】全国多地开展抄党章活动 场面热烈</a>
 </h2>
@@ -715,7 +715,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -725,5 +725,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

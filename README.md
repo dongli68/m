@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,68 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%B0%E6%A6%9C%E5%BF%AB%E6%8A%A5-%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%E7%82%B9%E8%AF%84%E6%98%9F%E5%AE%BF%E6%B4%BE%E6%90%9E%E4%B8%8D%E5%A5%BD%E5%85%AC%E5%85%B3-%E8%A2%AB%E5%85%B3%E5%B0%8F/" target="cdt-mirror">新榜快报 | 六神磊磊点评星宿派搞不好公关 被关小黑屋一个月</a>
+</h2>
+<p><p>5月22日下午七点，新榜获悉，前新华社记者王晓磊创办的微信公众号“六神磊磊读金庸”确认被封号一个月，原因疑与今日下午发布的《星宿派的公关为什么搞不好》有关。有意思的是，《星宿派的公关为什么搞不好》一文，阅读数已过十万，且至今仍可查看，并未被举报删除。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A.jpg?resize=450%2C801" alt="六神磊磊" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/六神磊磊.jpg?resize=575%2C1024 575w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/六神磊磊.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>六神磊磊已经在微博中公开此事，并求粉丝不要取关。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A2.jpg?resize=450%2C800" alt="六神磊磊2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/六神磊磊2.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/六神磊磊2.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>依据公开报道可知，他接受媒体采访时，曾多次表明自己是一位老党员，社会主义核心价值观是一切创作的出发点，也希望自己永远站在弘扬主旋律的桥头，2015年9月，他还曾参加中央网信办网络新闻信息传播局举办的第二期“网络传播沙龙”，和公号“共产党员”等一起，讨论“微信上的正能量表达”话题。</p>
+<p><strong>附：</strong></p>
+<p>六神磊磊 | 星宿派的公关为什么搞不好</p>
+<p>一<br>
+在金庸的江湖里，宣传工作，或者说公关工作，是一切工作的生命线。</p>
+<p>有的公司就一直不太重视宣传，比如少林公司，他们的工作模式完全是被动式的，出大事了，酿成舆情了，众光头才出来危机公关一下，平时完全缺位。</p>
+<p>少林派的管理团队里，一个分管宣传的都没有。《天龙八部》里，“玄”字辈的高僧一大堆，说起来都是高管，有一个抓宣传的吗？没有！《倚天屠龙》里四大神僧，有一个抓宣传的吗？也没有。</p>
+<p>这个门派在机构设置上也比较缺位，一贯地重业务、轻宣传。你看达摩堂是管业务的（就是打架），罗汉堂也是管业务的，藏经阁也是管业务的，唯一有点宣传职能的是知客寮——特么都把公关部和接待办并到一起去办公了，公关工作能不弱化吗。</p>
+<p>所以少林派的宣传工作才总是那么被动。举个典型的例子——有一次，少林方丈被殷素素给阴了，当着群豪的面，殷素素假装把屠龙刀的秘密告诉了方丈空闻大师，实际上半个字都没说，逗老和尚玩。</p>
+<p>不明真相的江湖群豪们被蒙蔽了，多年来一直跑到少林派群访集访，打砸抢闹，暴力索刀，酿成多起流血冲突。可是少林派呢？这个谣言始终辟不下来，“空闻发誓赌咒，说道实在不知”“不论空闻如何解说，旁人总是不信”。</p>
+<p>堂堂一个大单位，辟谣居然要靠一把手出来“赌咒发誓”，而且大家还不信，少林派的公关能力也真是差得可以。</p>
+<p>二<br>
+那么，在金庸的江湖里，最重视公关的公司是哪一个呢？毫无疑问是星宿派。</p>
+<p>星宿派以宣传为立派之本，一把手亲自抓宣传，群弟子人人搞宣传，遇到任何工作，都是宣传工作先行。</p>
+<p>比如和丐帮的大决战：</p>
+<p>“众人颂声大作： ‘师父功力，震烁古今！这些叫化儿和咱们作对，那真乃荧火虫与日月争光！’ ‘螳臂挡车，自不量力，可笑啊可笑！’ ‘师父你老人家谈笑之间，便将一干幺魔小丑置于死地，真是闻所未闻……’”</p>
+<p>比如和少林寺的大决战：</p>
+<p>“呼喝之声，随风飘下山来： ‘星宿老仙今日亲自督战，自然百战百胜！’ ‘你们几个幺魔小丑，竟敢顽抗老仙，当真大胆之极！’ ‘星宿老仙邕临少室山，小指头儿一点，少林寺立即塌倒……’”</p>
+<p>它还非常注重对员工公关素养的培训。据金庸说，新入星宿派的门人，未学本领，先学谄谀师父之术，一到开战，就可以千余人颂声盈耳，一片歌功颂德，掀起压倒性的强大舆论气势。</p>
+<p>除此之外，星宿公司还很重视宣传公关工作的创新和转型，善用新技术、新渠道、新方法，把锣鼓丝竹、箫笛唢呐、歌曲杂技、小品相声都变成了宣传的武器，十分丰富多彩：</p>
+<p>“千余人依声高唱，更有人取出锣鼓箫笛，或敲或吹，好不热闹。”</p>
+<p>按道理说，公关抓得这么好，这家公司的公众形象应该很好，人贱人爱了？可惜完全不是这样。星宿派越宣传越臭，连续荣膺“江湖最臭门派奖”，比不搞宣传的少林派还臭一百倍。</p>
+<p>这是为什么？</p>
+<p>三<br>
+这就要求我们回到一个本质问题：公关，或者说宣传的根本目的是什么？</p>
+<p>是说服。归根结底，是要影响别人、改变别人、最后说服别人，让大家认同星宿老仙是个好人，星宿公司是个好公司。</p>
+<p>可是星宿公司的员工，他们拼命搞公关的目的是什么？是说服吗？明显不是，而是自证——证明自己很忠心。</p>
+<p>在这家大公司里，形成了这样一种氛围：谁不搞宣传，谁会显得落后、迟钝、掉队。搞宣传不积极，就是对企业不忠心。</p>
+<p>如果一不小心在宣传上落后了，会怎么样呢？结果可能很不好，比如：</p>
+<p>“有三个胆子特别小的……想起自己没喝采，太也落后，忙跟着叫好，但那三个 ‘好’ 字总是迟了片刻，显得不够整齐。”</p>
+<p>于是，“众同门射来的眼光中充满责备之意”，那三个人“登时羞愧无地，惊惧不已。”</p>
+<p>你看，给师父叫好稍微迟了一点，同门就会对你充满责备之意。还好这只是同门，如果是“师父射来的目光充满责备之意”，那你就麻烦了。</p>
+<p>在这样的环境下，员工们的宣传必然不是做给受众看的，而是做给师父和同门看的。他们的锣鼓丝竹、唢呐箫笛不是演奏给受众听的，而是给师父和同门听的。</p>
+<p>他们宣传的目的，是为了证明自己在宣传；他们创新的目的，是为了证明自己在创新。一切只为了一点：表明自己忠诚、听话、没有变色。</p>
+<p>四<br>
+这样一来，公关的效果就被忽略了——只要师父、师兄听见就好，至于江湖人士信不信，宣传效果好不好，谁关心啊。</p>
+<p>而且这还会产生形成一种效应：越是夸张的宣传，就越能引起师父的注意和青睐；越是极端的文案，就越能证明自己的忠心，越不会被怀疑变心、变色。</p>
+<p>于是各种极端的说法就不断抛出来，因为越极端越安全啊。你说师父武功西域第一，我就说他天下第一，其他的弟子就干脆说他太阳系第一、宇宙第一、宇宙大爆炸前都是第一。</p>
+<p>所以到后来，门派的宣传口径就变成了“日月无星宿老仙之明，天地无星宿老仙之大，自盘古氏开天辟地以来，更无第二人能有星宿老仙的威德。周公、孔子、佛祖、老君，以及玉皇大帝、十殿阎王，无不甘拜下风。”</p>
+<p>你看书上，有人说：星宿老仙放了屁，做弟子的应该连声赞叹，大声呼吸。</p>
+<p>这种说法本来已经很极端了、很忠心了，但马上有其它弟子严肃指出：这话不对，还不够正确。更正确的版本是：师父放了屁，做弟子的应该大声吸、小声呼，否则你是嫌师父的屁不够香吗？</p>
+<p>这时候，假如有一个清醒老实的人出来说：我觉得师父的武功以后不宜宣传说“宇宙第一”，这样效果不太好，太耸人听闻，还要是要客观一点，说“太阳系第一”就可以了。</p>
+<p>那他肯定会被群起围攻：你什么玩意，你什么居心，你什么后台，谁给你了这样污蔑师父的底气！</p>
+<p>因为他们都懂：围攻，是比宣传更好的证明自己的机会。</p>
+<p>所以，当有爱讲实话的二货冒出来的时候，千万不要错过围攻的时机哦！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%96%B0%E6%A6%9C%E5%BF%AB%E6%8A%A5-%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A%E7%82%B9%E8%AF%84%E6%98%9F%E5%AE%BF%E6%B4%BE%E6%90%9E%E4%B8%8D%E5%A5%BD%E5%85%AC%E5%85%B3-%E8%A2%AB%E5%85%B3%E5%B0%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B3/?category=18271" rel="tag">公关</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E7%A5%9E%E7%A3%8A%E7%A3%8A/?category=18271" rel="tag">六神磊磊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%9F%E5%AE%BF%E6%B4%BE/?category=18271" rel="tag">星宿派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E6%B3%9B%E6%B0%91%E6%89%B9%E8%AF%84%E4%BA%AC%E5%AE%98%E5%A4%84%E7%90%86%E6%B8%AF%E7%8B%AC%E6%9E%AA%E7%82%AE%E8%AE%BA%E6%AD%A6%E5%8A%9B%E6%81%90%E5%90%93/" target="cdt-mirror">美国之音 | 泛民批评京官处理港独枪炮论武力恐吓</a>
 </h2>
 <p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/B5DA7C65-EE9C-444B-8A29-696422D07A01_w640_r1_s_cx0_cy4_cw0.jpg?resize=550%2C309" alt="全国人大法工委副主任、基本法委员会副主任张荣顺(苹果日报图片)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/B5DA7C65-EE9C-444B-8A29-696422D07A01_w640_r1_s_cx0_cy4_cw0.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/B5DA7C65-EE9C-444B-8A29-696422D07A01_w640_r1_s_cx0_cy4_cw0.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>全国人大法工委副主任、基本法委员会副主任张荣顺(苹果日报图片)</p></div>
@@ -571,30 +630,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8F%82%EF%BC%88%E7%BE%8E%EF%BC%89%E5%86%9B%E5%90%A7-%E5%85%84%E5%BC%9F%EF%BC%81/" target="cdt-mirror">【图说天朝】参（美）军吧 兄弟！</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/humeibast" target="_blank">@湖美百事通</a>：我们的人里面出现了一个叛徒～！@防务君 武汉·五里界街区</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Civ5s3FVEAE45QY.jpg" rel="attachment wp-att-438418"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Civ5s3FVEAE45QY.jpg?resize=575%2C427" alt="Civ5s3FVEAE45QY" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Civ5s3FVEAE45QY.jpg?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Civ5s3FVEAE45QY.jpg?w=599 599w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Civ5s3JUoAArxuo.jpg" rel="attachment wp-att-438419"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Civ5s3JUoAArxuo.jpg?resize=500%2C673" alt="Civ5s3JUoAArxuo" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Civ5s3JUoAArxuo.jpg?resize=223%2C300 223w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Civ5s3JUoAArxuo.jpg?w=600 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Civ5s3JUoAArxuo-copy.jpg" rel="attachment wp-att-438420"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Civ5s3JUoAArxuo-copy.jpg?resize=255%2C248" alt="Civ5s3JUoAArxuo copy" data-recalc-dims="1"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/zhongyulin0323" target="_blank">@Rediscover</a>：不用谢<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/86b3b551jw1f40c97j74sj20k00qoae1.jpg" rel="attachment wp-att-438422"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/86b3b551jw1f40c97j74sj20k00qoae1.jpg?resize=440%2C587" alt="86b3b551jw1f40c97j74sj20k00qoae1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/86b3b551jw1f40c97j74sj20k00qoae1.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/86b3b551jw1f40c97j74sj20k00qoae1.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p>
-<p>@Kevin梁001：@锕美利坚 美帝都要来中帝抓壮丁了？</p>
-<p><a href="http://weibo.com/5136716706" target="_blank">@王同学_www</a><i></i>：入美军，保中国<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/n/%E9%98%B2%E5%8A%A1%E5%90%9B?from=feed&loc=at" target="_blank">@防务君</a>: 这一定是带路党干的<a href="http://huodong.weibo.com/pai2016" target="_blank"><img title="[拍照]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d5/lxhpz_org.gif" alt="[拍照]" data-recalc-dims="1"></a></p>
-<p><a href="http://weibo.com/2563059797" target="_blank">@河源硬汉黄维恒</a>：盗了图连改都懒得改<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3269503404" target="_blank">@演员何凯</a>：就问一句，给绿卡吗？<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5618077920" target="_blank">@方便卫生起效快</a>：哪有这种好事<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@村头黄师傅：第二张图。美国解放军教你打飞机？</p>
-<p>@SS-287:参（pan)  军（bian) 吧！兄弟！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8F%82%EF%BC%88%E7%BE%8E%EF%BC%89%E5%86%9B%E5%90%A7-%E5%85%84%E5%BC%9F%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87%E6%8C%A5%E6%9E%AA/?category=18271" rel="tag">党指挥枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -606,7 +641,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -616,5 +651,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

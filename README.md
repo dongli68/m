@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,54 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%8F%B0%E6%B9%BE%E5%A4%AA%E9%98%B3%E8%8A%B1%E8%BF%90%E5%8A%A8%E4%B8%89%E9%83%A8%E6%9B%B2%E5%AE%8C%E6%95%B4%E7%89%88/" target="cdt-mirror">【CDTV】台湾太阳花运动三部曲完整版</a>
+</h2>
+<p><blockquote><p>背景阅读：中国数字时代关于<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/">“太阳花学运”的全部文章</a></p></blockquote>
+<p>太阳花运动对台湾的民主有何意义?是否将改变台湾的蓝绿政治板块?台湾年轻世代的国家认同出现什么样的变化?对两岸关系又有什么影响?</p>
+<p>请收看VOA卫视针对台湾年轻世代以及两岸关系制作的特别专题报道太阳花三部曲。 订阅VOA YouTube频道：http://bit.ly/dingyue-youtube</p>
+<p><a href="https://www.youtube.com/v/XAFHvHbgUdE?version=3">https://www.youtube.com/v/XAFHvHbgUdE?version=3</a></p>
+<p><a title="台湾太阳花运动三部曲完整版" href="http://www.youtube.com/watch?v=XAFHvHbgUdE" target="_blank">台湾太阳花运动三部曲完整版</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-taiwan&sz=85E7&t=2&s=T4JIFHVBGCYLUT62IYHY35BG4WKBEWDBNNNCROSSLN5S4JQ2NYYA&i=CKFREMMTC5MAPWXFA73D7IGFUUBQICNSU&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%8F%B0%E6%B9%BE%E5%A4%AA%E9%98%B3%E8%8A%B1%E8%BF%90%E5%8A%A8%E4%B8%89%E9%83%A8%E6%9B%B2%E5%AE%8C%E6%95%B4%E7%89%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/318%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">318学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E6%9C%8D%E8%B4%B8%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">两岸服贸协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%9C%8D%E8%B4%B8/?category=18271" rel="tag">反服贸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">台湾青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E8%A5%BF%E6%96%B9%E8%AE%B0%E8%80%85%E5%9C%A8%E6%9C%9D%E9%B2%9C%EF%BC%9A%E9%85%8D%E5%90%88%E6%BC%94%E5%87%BA%EF%BC%9F/" target="cdt-mirror">译读 | 西方记者在朝鲜：配合演出？</a>
+</h2>
+<p><p>本文原载于The New Yorker<br>
+编译/Nelson & Kev & 豪豪<br>
+译读：T-Read | 译读小号二世：WinnieTheFool</p>
+<p>朝鲜上一任领导人金正日声称自己对朝鲜新闻工作者有着“无穷的爱”。为此，朝鲜官方媒体甚至在1983年为他出版了一本书，名为《新闻记者的伟大导师》。书中写道，在金正日的亲切关怀下，记者在工作前吃上了热腾腾的早饭，在下雨天外出报道时有了雨伞。作为回报，记者们“必须成为我党的宣传者，广泛传播我党的理念”。</p>
+<p>然而，当朝鲜方面与外国记者接触时，双方却经常相处得不够愉快。周一，朝鲜拘留了BBC记者傅东飞长达8个小时（译者注：傅东飞曾任BBC驻北京记者，他的英文原名叫做温斯菲尔德-海耶斯），显示了双方的对立。之后，他被要求签署一份道歉声明，并被驱逐出境。朝鲜拥护和平全国民族委员会秘书长吴灵日召开了记者发布会，指控傅东飞犯了不敬之罪，并“对朝鲜的体制和领导人出言不逊”。</p>
+<p>在朝鲜劳动党召开近几十年来的第一次代表大会之前，傅东飞和他的团队一直跟随一个诺贝尔获奖者代表团游览朝鲜。而傅东飞错就错在报道了他们的亲眼所见。参观平壤儿童医院时，这位BBC记者引用了一位代表团成员的话——“所谓的病人看起来都是十分健康的儿童，在场的大人也不是医生。”在镜头中，傅东飞总结道：“我们见到的一切都像是做秀”。报道的影像资料中也有记者们同朝鲜方面陪同人员的争执。画面中，陪同人员不同意记者播出在金正日（朝鲜的上一任独裁者）雕像前所做的一则报道。傅东飞说：“我们体验到的控制力度和紧张程度暴露了深层的脆弱和不安感。”陪同人员也不喜欢傅东飞对朝鲜现任领导人金正恩的评论。在一篇报道中，傅东飞说道：“他到底做了什么配得上元帅称号的事？真是说不上来。看看朝鲜的电视报道，这个年轻的统治者似乎总是坐在一把大椅子上，看着大炮朝山腰开火。”也许，让朝鲜官方最为恼火的一点，是傅东飞称金正恩“肥胖”。</p>
+<p>BBC对于朝鲜的评论绝不能算是新颖——傅东飞绝不是第一个注意到朝鲜领导人肥胖的记者。不同的是，这些言论在当下这个最为敏感的时刻于朝鲜境内播出，公之于众。朝鲜正要召开提升金正恩为劳动党委员长的劳动党代表大会，要招待由一百三十位记者组成的代表团。金正恩于2011年父亲死后掌权，才30出头的他如今已有无数头衔，所以这次会议的做秀意义大于实际意义。劳动党想向世人展示，穿戴银行家同款细直条纹西装和眼镜的金正恩是一个标准的当代领袖，而且朝鲜也不再是那个与世隔绝的王国。外国记者也应当配合演出，就像古时的希腊合唱队一样，对新上任的领导人歌功颂德。</p>
+<p>但不出所料，记者们并不接受这样的角色设定。</p>
+<p>《华盛顿邮报》记者安娜·费菲尔德的陪同人员对她说：“你问的问题太多了，跟你共事有点难。”</p>
+<p>记者们也同样不满。按照金正恩的安排，朝鲜大摆筵席招待记者们。且不同于普通朝鲜人，记者们可以自由上网。然而，他们来这是做报道的，却几乎对会议内容一无所知。代表大会于周五召开，记者们却被装进一辆巴士，带往一座电线厂。费菲尔德在推特上抱怨说她毫无选择，她的大部分信息都是从一位在犹他的朋友（迈克尔·麦登，“朝鲜领导观察”网站运营者）那得到的。</p>
+<p>记者们被安排入住羊角岛酒店，位于朝鲜大同江中的一座岛屿。这样一来，记者就不可能逃脱陪同人员的视线。（媒体把这家酒店称为朝鲜的恶魔岛。）记者们被带去参观的大部分地方都是以同样的套路精心布置的，过去几十年可谓专为外国代表团设计开放。参观一家妇产科医院和上文提到的电线厂时，费菲尔德认出了导游们。在2005年同样的地点，就是他们带的队。在平壤，记者可以在指定的两个地铁站之间乘坐地铁——每个参观团都是这个规矩。记者们还被带到了一个看上去像农场，但却一尘不染、且一个农民都没有的地方。“在朝鲜，这个将波将金风格（译者注：波将金曾任俄国元帅，传说其为讨好俄国女皇，在女皇访问的必经之路上建造了很多赏心悦目的假村庄）演绎到极致的地方，看上去像鸭子、叫起来也像鸭子的动物可能是鸡，有时也许甚至是青蛙。”《洛杉矶时报》记者朱莉亚·麦肯雷上星期这样写道。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/chaoxian.png?resize=572%2C375" alt="chaoxian" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/chaoxian.png?resize=300%2C197 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/chaoxian.png?w=572 572w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"><br><span>媒体只能参观模范工厂，出席演练好的活动，整个行程都被密切监视</span></p>
+<p>就像被关久了的幼儿园孩子，记者们很快就不愿乖乖听话了。在参观朝鲜建国领导人金日成出生地时，记者们爆发了。麦肯雷记录下了这一过程：一群记者围住了导游（一个身着宽大的朝鲜传统服饰的女人），连珠炮式地向她发问：</p>
+<p>“如果你能选择自己的政府，岂不是更好？”一个记者这样问。</p>
+<p>“难道那（核武器计划）不是在夺取普通百姓的资源吗？”另一个记者语气强硬。</p>
+<p>朝鲜方面的组织者终于还是意识到了烦躁不安的记者会惹麻烦。在周一，也就是代表大会的最后一天，朝鲜邀请了三十位记者旁听。傅东飞被驱逐出境也是在这一天。但奇怪的是，另一组BBC工作人员却可以进入会场。《华盛顿邮报》、《洛杉矶时报》、《金融时报》和路透社的记者团队都被拒之门外。麦肯雷不在旁听名单上，理由是她的报道“不够优美”。</p>
+<p>这不是朝鲜第一次向外国媒体打开国门。2008年纽约爱乐乐团来平壤表演、2010年宣布金正恩接班金日成时，朝鲜都是这么做的。但当时，朝鲜政府与媒体之间的紧张关系还没有像这次这样闹得世人皆知，也许是因为那时的记者在社交媒体上还没有那么活跃。</p>
+<p>这次的事件表明了朝鲜有多爱面子，程度可能比任何其它国家都要深。这么多年来，朝鲜一直把涂脂抹粉的美女和健康粉嫩的婴儿陈列在外国访客的眼前，在外国人访问途经的超市里摆满自己国家没在销售的商品，并拔掉全国其他地区的电源，以点亮平壤。在我2005年第一次去平壤时，为了省电，我每天早上都提醒自己关好灯。但每天晚上回来总会发现所有的灯，包括衣橱里的灯都被打开了。当时中国国家主席胡锦涛正带队访问朝鲜，劳动党想要给他们留下深刻印象。</p>
+<p>1972年的故事很好地反映出朝鲜的世界观：当时有一个朝鲜代表团访问首尔，震惊于亲眼所见的韩国经济发展程度，便指控韩国为了不丢面，特地把全国的汽车都运来首尔，“吓唬”来访者。作为反诘，一位韩国官员说了句著名的话，大意是“没错，我们还特地给这些建筑装上轮子，也把它们运到这里来。”这已经是四十多年前的事情了。但如今，朝鲜的心态并未有太多改变——不相信外面的世界，捂住耳朵，不去听别人说它有多滑稽。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E8%A5%BF%E6%96%B9%E8%AE%B0%E8%80%85%E5%9C%A8%E6%9C%9D%E9%B2%9C%EF%BC%9A%E9%85%8D%E5%90%88%E6%BC%94%E5%87%BA%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">外国人在朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%BD%E7%BA%A6%E5%AE%A2/?category=18271" rel="tag">纽约客</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%9C%E6%81%B6%E5%87%A0%E5%8D%81%E5%B9%B4-%E5%BA%94%E8%AF%A5%E7%BB%99%E4%BB%80%E4%B9%88%E8%BA%AB%E4%BB%BD/" target="cdt-mirror">【网络民议】计生有难 八方点赞</a>
 </h2>
 <p><p>5月24日，新浪微博上出现数条“湖北公安县计生工作者维权消息”。这些网友所发布的图片看，似乎是湖北公安县当地部分计生工作者在计生办门前抗议要求落实“应有待遇和身份”，而这些“鸣冤叫屈”的图文消息几乎招致了网友的一致批评。</p>
@@ -740,67 +785,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%9B%AA%E8%AE%BF-%E9%81%A5%E5%BF%B5%E5%BD%BC%E5%B2%B8%E8%87%AA%E7%94%B1%E8%8A%B1/" target="cdt-mirror">雪访 | 遥念彼岸自由花</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8F%B0%E6%B9%BE.jpg?resize=550%2C413" alt="台北紫藤庐一角" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>台北紫藤庐一角</p></div>
-<p>5月20日，从台湾回来的隔一日。在YouTube上看蔡英 文就职典礼的直播，当然，先得翻一道“墙”过去。</p>
-<p>虽说从2000年到2016年，这已是台湾的第三次政党轮替，对台湾民众来说，已是民主社会的正常权力移交，行礼如仪。而于我们，隔水遥望，却是一窥自由社会的窗口。只是，这样的大事，在互联网如此发达的今天，墙内的我们，却难以看到更多信息。微信朋友圈里，转发的“就职演说”，也很快就被删得不见了影子。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8F%B0%E6%B9%BE2.jpg?resize=550%2C413" alt="5月14日到16日，卓越新闻奖基金会在台北举办“亚洲华文新闻专业论坛”。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾2.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾2.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>5月14日到16日，卓越新闻奖基金会在台北举办“亚洲华文新闻专业论坛”。</p></div>
-<p>恰好是前几日，我有幸获邀，在台北参加“亚洲华文新闻专业论坛”，见到了多位优秀的台湾媒体人，能感受到，从当年冲撞威权、追求自由的民主化运动中，媒体人一路延续下来的那份理想主义薪火，与社会运动结合，依然至今。很多资深的传统媒体人，在今天，又投身网络传媒，追求真正的独立报道。“被压迫者难道不应该和被压迫者在一起吗？”曾一路追到立法院、要求给予公民记者采访权的独立记者李惠仁，所说的这句话，让我印象极深。</p>
-<p>不过，今天，在这里谈的却不是关于台湾媒体，而是一些最基本的感性认识。</p>
-<p>在台北坐“的士”，极为方便。不管是早晨上班的高峰期，还是傍晚，都能轻松打到车。司机先生多在中年以上，彬彬有礼，和和气气。问起一位，说到“520”这天，当然是照旧工作，看电视直播就好，因为人太多。而另一位司机先生则大骂马英九太无能。 知道我来自大陆，又乐呵呵笑言：我们是自由社会嘛，想骂谁都可以的，你们那边不行吧。说起来，你们的情况，和我们30年前蛮像呢。</p>
-<p>又是“30年前”。</p>
-<p>不禁想起在嘉义，路过乡间一个派出所，朋友建议可以进去坐坐。我们推开玻璃门进去，值班的女警察对素不相识的我们热情招呼，又泡高山茶，又把附近老奶奶送来的凤梨，招呼我们吃，特别的清甜。</p>
-<p>“你们大陆的警察好有权威呦。”女警察笑嘻嘻地说。她腰里鼓鼓囊囊地别着手枪，却亲昵地把来访的老奶奶搂在怀里，这不才是“警民鱼水情”嘛。她说，当警察28年了，当过10多年“便衣”，又干了10年最基层的工作，很辛苦琐屑。说到前不久大陆发生的“雷洋案”，她听了几句，便说，“和我们台湾三十多年前差不多哎。”</p>
-<p>“30年前”，人人都说30年前，听起来随意，可了解台湾民主化历程的人们知道，今日这份已浸泽入生活中的自由，是多少血汗、多少眼泪换来的啊。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8F%B0%E6%B9%BE3.jpg?resize=550%2C343" alt="台湾3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾3.jpg?resize=300%2C187 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾3.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>《自由中国》杂志在上个世纪50年代的台湾掀开反威权运动的大幕</p></div>
-<p>去紫藤庐，一个素朴低调的美丽茶馆，当年，是异议知识分子和社会运动者聚会的场所。1960年代，殷海光等自由知识分子常出没这里。主人周德伟先生是结合儒家与自由主义的传奇人物，是哈耶克的第一位中国弟子。1970年代，紫藤庐在周公子周渝的执掌下，又成为党外运动的重要聚会地，周渝曾在一篇《紫藤庐几代人的共同记忆》一文中，回忆“美丽岛”事件后，几位受刑者的太太来到紫藤庐，一起商议在狱中发动绝食引起外部注意，来营救受难者的往事……</p>
-<p>二二八纪念馆、景美人权文化园区……在台湾，曾承载了民主化过程中苦痛记忆的一些地方，如今都成了历史的地标。景美，原是戒严时期的台湾警备总司令部军法处和国防部军法局所在处，关押和审判过很多政治犯。如今，1979年“美丽 岛审判”的法庭，已开放供人们参观。而园区中展示“白色恐怖时期”的厅内，烛光幽暗微，映照着一个个死难者的姓名，和一个个惨痛的故事。</p>
-<p>一路筚路蓝缕，艰难抗争，热爱自由的人们，不断冲撞威权制度，一直到1987年，台湾终于“解严”，并逐步开启民主之路，最终，顺利实现两党轮替，民主制度也逐渐成熟，台湾也成为今日全球“公民社会的模范生。”</p>
-<p>也或许因此，在“520”的就职典礼上，宏大的戏剧表演，是将台湾的历史一幕幕呈现出来。 从原住民时期，到清廷统治，到日本占领，再到战后回归中国，又到国民党治下的“二二八”事件，以及国府败走台湾后的戒严……历史的回味，为“嘉年华”般的典礼，平添了一抹沉重。</p>
-<p>“不自由毋宁死”、“争取百分之百言论自由”，这些台湾当年反对运动中的标语口号，再现于今日的总统府大道。戏剧的一幕幕，将台湾争取民主的历史再次呈现在人们面前。</p>
-<p>“今天，有这么多代表台湾民主的意象，以昂然的姿态，走过总统府大道。”美丽的主持人小姐的声音，也有那么一点点动情。</p>
-<p>“权力来自人民，政府再也不能无视人民的心声。” 在典礼结束时，人们一起唱的那首歌，便是《美丽 岛》，旋律优美，是那个抗争的年代，回响在人们心头的自由之歌。</p>
-<p>但这样的表演，也有反对者。据报道，之前，庆典本来还要推出一个历次社会运动口号和标语的表演秀，结果遭到社会运动团体的猛烈抗议。“人民的抗争不是道具，人民的血泪不是表演……”社运团体批评，这是民进党的无知与狂妄。“收割社运果实”，要把社运当成了太平庆典的道具，把人民的抗争历史变成为执政党背书。民进党对这样的批评或许始料未及吧，最终，表演中还是取消了这个环节。</p>
-<p>我想，这就是公民社会吧。永远有警醒的目光，监督着权力。就如参与社运的公民们不会忘记初心，社运是为监察政府，而非为政党服务。也因此，政府的任何行为，都可能被批评。而面对和接受一切批评，也是政治人物的应有之义。</p>
-<p>或许也是因此吧，蔡英文在回顾过去20年时，会说到，是“在几任政府和公民社会的努力下”。也所以，蔡英文的承诺包括转型正义。“追寻转型正义的目标，是追求社会真正的和解。”“三年之内，完成台湾转型正义报告书。挖掘真相，弥平伤痕，厘清责任。”让过去的历史，成为向前的动力。重要的是，从真相出发，“让所有台湾人民记取那个时代的情况。”</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8F%B0%E6%B9%BE4.jpg?resize=550%2C413" alt="台湾4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾4.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/台湾4.jpg?w=640 640w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>我不禁又想起了去过的几个书店。在唐山书店这样的独立书店里，各种有关台湾历史、以及社会运动议题的书，如汗牛充栋。自由出版的书籍和报刊在传递思想，而电视上，名嘴在大骂政治人物，毫无忌惮，在信息自由充分流通的土地上，人民对历史了然于胸，也就难以被愚弄了。</p>
-<p>5月17日，我在嘉义的中正大学。路过校园内一片宽阔的草坪。看到了一个“学术自由”的石碑。罗世宏老师告诉我，2014年，太阳花学运时，校园里，为了是否停课去台北参加运动，意见不一，一些学生去了台北，而另外一些学生坚持上课，在此其间，这片草地成了临时的教室，有人在这里上课，更多的人在这里讨论关于这场运动的一切……这一片草坪，成了人们自由辩论的思想场所。“太阳花”之后，为了纪念这段故事，在草坪边上，就立下了这个学术自由的碑。</p>
-<p>中正大学校园一角</p>
-<p>碑上的文字摘自当时中正大学的一个声明，内容是：“大学为知识殿堂，探寻真理，没有包袱，亦无所畏惧，被视为国家行政、立法、司法与媒体之外的第五权。因此，学生与教师以非暴力方式关心公共事务与国家发展，乃公共知识分子的表现，不容抹黑与漠视。”</p>
-<p>中正大学建于1989年，是以纪念蒋介石百岁为由头，台湾的最后一所国立大学。这个建立于威权时代正待结束时的大学，如今，也成为了自由的一片芳草地。</p>
-<p>这就是台湾。我们能看到，文化的包容、多元，制度的民主开放，社会的平等对话，以及一次次理想主义对现实的警醒砥砺，都让这里成为自由人的家园。</p>
-<p>今日，我们在彼岸遥遥相看，那一片自由之花如此明媚。却也明白，自由不可能从天而降，需要每一个热爱自由的人，用心灵、用头脑，甚至用血泪去争取。</p>
-<p>而这一切，是值得的。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%9B%AA%E8%AE%BF-%E9%81%A5%E5%BF%B5%E5%BD%BC%E5%B2%B8%E8%87%AA%E7%94%B1%E8%8A%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8/?category=18271" rel="tag">两岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E4%BA%8C%E5%85%AB/?category=18271" rel="tag">二二八</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89/?category=18271" rel="tag">公平正义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">公民社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">台湾历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF%E4%BD%93%E5%88%B6/?category=18271" rel="tag">宪政体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4/?category=18271" rel="tag">就职演说</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%85%9A/?category=18271" rel="tag">执政党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88/?category=18271" rel="tag">改革方案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%90%8C%E5%AD%98%E5%BC%82/?category=18271" rel="tag">求同存异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E7%BB%93%E6%9E%84/?category=18271" rel="tag">经济结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%8B%9F%E5%BC%BA%E6%8E%A8%E5%9B%BD%E8%B5%84%E5%85%A5%E8%82%A1%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%8F%8D/" target="cdt-mirror">唐映红 | 广电总局拟强推国资“入股”视频网站反映了什么？</a>
-</h2>
-<p><p><strong>问：广电总局拟强推国资“入股”视频网站反映了什么？</strong></p>
-<p>答：近日，<strong>“哔”</strong>名昭著的国家新闻出版广电总局有意采取<strong>国资以“特殊股”形式“入股”视频网站以加强奸管</strong><strong>，“建议”视频网站拿出1%—10%的股份给国有单位股东。</strong>那么，作为<strong>奸管</strong>部门的广电总局拟推行的这种措施反映了怎样的决策心理？以及会带来怎样的效应？</p>
-<p>由于目前关于<strong>奸管</strong>部门的这项措施的决策意图以及过程均未见披露，因此很难清晰地了解和分析“<strong>哔”</strong>名昭著的广电总局推出这项政策到底有何意图，作何考量。不过，从现象而言，倒可以对这项政策的决策心理以及可能带来的社会心理效应做一个“沙盘推演”，<strong>奸管部门请勿对号入座。</strong></p>
-<p>首先，<strong>由于现时代中国社会无论是内还是外都处于微妙和多元利益诉求错综交织杂陈的局面，任何公共政策都难以根据其决策初衷而决定其走向。</strong>在权力集团<strong>越来越保守和退缩</strong>的语境下，一个政策，或者政策诉求都会得到不同层面、角度、立场的参差解读，带来截然不同的多种效应，<strong>在强化或巩固某个方面的同时，完全可能在加倍地削弱或损害另一些更为重要的方面。</strong>特别地，缺乏充分和公平的利益博弈下的公共政策，事实上就成为<strong>部门技术官僚们</strong>闭门造车的结果。这反映在：</p>
-<p>1、<strong>部门利益的优化和体制利益的次优化。</strong>这通常表现为，<strong>部门只从本部门利益和效率的角度进行考量，罔顾可能带给体制的其他副作用。</strong>本部门常常只是为了<strong>奸管</strong>的方便，寻租空间的更大，或者体制内攫取资源的更为便利，<strong>决策的出发点和初衷都是为了本部门效益的最大化。</strong>但由于一个复杂体制往往有着此消彼长，此建彼塌的特点，<strong>当某一部门追求利益最大化的同时，体制整体的利益却被次优化了。</strong>例如，广电总局的这项拟行政策，对部门来说不仅方便“依法”<strong>奸管</strong>，也方便<strong>隐形寻租</strong>，但带来的效应对体制而言却几乎可以肯定是<strong>弊大于利。只不过“弊”都是由其他部门来“擦屁股”而已。</strong></p>
-<p>2、<strong>部门官僚可能给体制“挖坑”“埋雷”。</strong>由于高度复杂的现代社会里，各个部门也根据分工而各司其职，部门与部门之间，部门与元首之间，都存在着不可避免同时又极为深广的<strong>信息不对称鸿沟</strong>。因此，<strong>部门官僚精英完全可能出于种种目的和动机，明知道不利后果的情况下，强行推行某一个政策，或事先高调传播某一政策诉求，以此作为体制内部对抗的途径和手段。</strong>用以前的老话，就叫“<strong>打着红旗反红旗</strong>”。</p>
-<p>其次，从管理监管的角度，<strong>“入股”能否加强奸管根本就是自说自话，没有任何依据和常识表明国资入股就能“加强监管”。</strong>且不说广电总局有着不受制衡的行政权力，而且无论是广电总局，还是视频网站都受着同一集团的领导。<strong>以“入股”方式更像是暗示领导集团对视频网站的领导无效，假“加强监管”为借口进行对上的权力僭越，对同级部门（如网监办、工信部）的权力篡夺。</strong>特别地，<strong>通过由广电总局可以直接控制的所谓国资广电机构“入股”视频网站，就能理直气壮从公司治理的角度从工信部或网监部门手里“抢地盘”。</strong>从客观而言，作为一个职能奸管部门，广电有无数的办法和方式管好视频网站，强推国资“入股”绝不是唯一可行，甚至不是有效的途径。</p>
-<p>再者，在整个社会经济濒临衰退危机的语境下，<strong>广电总局此时高调传播国资入股视频网站的政策诉求，不啻是给危机中的中国经济再扔一块石头。</strong>如果广电总局强推的国资“入股”能够得以实行，那么无疑给整个社会乃至整个世界一个强烈而明确的信号：<strong>“合作化运动又要来了”</strong>。稍微了解历史的童鞋都应该知道，建国初期的公私合营的“合作化运动”对中国经济带来的负面影响和严重损害，<strong>而广电总局所诉求的国资“入股”其性质与建国初期的公私合营运动逻辑上并无二致</strong>，而且<strong>从一开始的1%—10%的“特殊股”；到得寸进尺的要求不超过50%的非控股；再到要求控股，这并不是天方夜谭，而是完全可能付诸实践的登门槛效应。</strong>同时，广电对视频网站的国资“入股”诉求一旦得逞，那么<strong>其他部门基于同样的理由，对所管理领域进行驱逐外资，蚕食民资，不过是分分钟的事情。</strong>要知道，相比于视频网站的所谓“问题”，食品领域、药品领域、房地产领域、矿冶领域、化工领域、服务领域，等等，哪个的“问题”不比视频网站严重？</p>
-<p>综上所述，尽管现在尚不能确知<strong>奸管</strong>部门到底是意欲何为，但其政策所诉求的国资“入股”很可能是<strong>体制内部门间鏖战争抢地盘的幌子</strong>；或者<strong>阳奉阴违故意给体制摆烂，攫取目前尚不清楚的某种利益</strong>；或者根本就是<strong>重蹈60多年前以“公私合营”的“入股”为始，开始新一轮资本收割，消灭外资和民间资本的投石问路。</strong></p>
-<p>（本文中的“哔”掩盖的是“臭”。另，“奸”与“监”，在本文中通用。）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E6%8B%9F%E5%BC%BA%E6%8E%A8%E5%9B%BD%E8%B5%84%E5%85%A5%E8%82%A1%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99%E5%8F%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E5%AE%88/?category=18271" rel="tag">保守</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E6%94%BF%E7%AD%96/?category=18271" rel="tag">公共政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%BF%A1%E9%83%A8/?category=18271" rel="tag">工信部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权力集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E7%AE%A1/?category=18271" rel="tag">监管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%86%E9%A2%91/?category=18271" rel="tag">视频</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99/?category=18271" rel="tag">视频网站</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -812,7 +796,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -822,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

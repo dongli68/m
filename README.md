@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%8D%8A%E5%A4%9C%E5%8F%91%E4%B8%80%E6%96%87%E5%B0%B1%E8%83%BD%E8%B6%9F%E8%BF%87%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4%E7%9A%84%E5%9D%8E%EF%BC%9F/" target="cdt-mirror">乔木：半夜发一文就能趟过文革50周年的坎？</a>
+</h2>
+<p><p>5月16日是「文革」爆发50周年纪念日。当天中国社交媒体上关於文革的讨论，就我的个人体验和视野所见，悉数被删除或屏蔽。与此同时，被官方直接掌控的所有报刊和广播电视等传统媒体，也没有任何关於文革的言论，显然是受到了统一的管制。</p>
+<p>晚些时候，各媒体收到当局指令，称晚上将有大新闻发布，要求做好宣传配合工作。人们想到也许和文革有关，也许是别的什麽事，毕竟当天即将结束，或许是又有什麽官员反腐下台的通报。</p>
+<p>就在516已经结束，第二天零点三十分以後，《人民日报》、人民网等官方微博发表「以史为监是为了更好前进」的评论员文章，算是对纷纷攘攘的文革五十年表了个态。一个强大的执政党，在早已有了历史定论并为国内外广泛关注的文革问题上，避开纪念日当天，选择在午夜发声，不说内部是否有分歧，就说发布的时间，也是相当值得玩味。</p>
+<p>文章的内容先是引用1981年《关於建国以来党的若干历史问题的决议》，对文革做了否定，但肯定了毛泽东的历史地位。继而又重申了2012年十八大那段着名的话：既不走封闭僵化的老路，也不走改旗易帜的邪路，而要毫不动摇走中国特色社会主义道路。最後又落脚在「树立核心意识、看齐意识，紧密团结在以习近平同志为总书记的党中央周围」。</p>
+<p>所有的历史都是当代史，为现实的政治服务。过去不否定文革，不能树立邓的权威，也没法进行改革开放。现在面对的舆论和政治，则又和过去不同。从舆论上来看，害怕民间热议，把历史和现实问题联系起来，无法收场。面对这麽大一个历史节点，当局不表态不行，表态过早又担心助推舆论热议，只好选在午夜滞後发一文，淡化处理，尽快过去这个坎。</p>
+<p>最大的考虑还在政治。文革爆发的原因、长期延续的政治基础，当局不愿说清楚，更不可能清算。就像重庆在薄的时代搞了场小文革，最後薄因意外下台，以贪污、受贿、滥用职权三宗刑事罪下狱，但重庆模式在政治上却是不容讨论的。特别是经历89一难，任何对政治、历史、思想的讨论都害怕影响稳定。因此要麽不提，要麽沿袭旧论。</p>
+<p>文革其中的一个重要原因是个人崇拜，现在如果深入否定个人崇拜，显然也不合时宜。明摆着，这些年不说外面的公民社会、言论空间被挤压，就是党内民主、集体领导也已不是主流话语。权力高度集中，前所未有。一再强调的「核心意识、看齐意识、紧密团结在周围」，在此次关於文革的文章中再次出现，就是明证。</p>
+<p>邓小平当年告诫警惕右，但主要是防止「左」，发展到现在变成警惕「左」，但主要是防止右。因为「左」政治上正确，越左越安全。而右主张的民主、自由、人权，都是那麽敏感。</p>
+<p>在文革问题上，「左」可以在北京的人民大会堂唱文革歌曲，西安、大连等地可以公开集会，为文革和毛唱赞歌，网络上「左」的言论文章也不会被删除。但右主张的深入否定文革和毛，藉以发展政治民主和公民权利，现实中不容许有任何集会和行动，网络上也是饱受封杀。</p>
+<p>就此次文革50周年，官方可以否定，民间不容批评，但放任纪念。官方想用半夜的一篇文章否定後，就此罢休。可民间恐怕没那麽简单，今年整个一年都会波澜继续，特别是在9月毛的忌日、10月所谓粉碎「四人帮」文革结束等节点上，再有争论。而文革十年浩劫对整个民族的戕害，深入反思、去除根源，绝不是现在一年能完成的。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%8D%8A%E5%A4%9C%E5%8F%91%E4%B8%80%E6%96%87%E5%B0%B1%E8%83%BD%E8%B6%9F%E8%BF%87%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4%E7%9A%84%E5%9D%8E%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">中国特色社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%A4%A7/?category=18271" rel="tag">十八大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9%E4%BA%94%E5%8D%81%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">文革五十周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E7%A9%BA%E9%97%B4/?category=18271" rel="tag">言论空间</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E8%AF%97%E3%80%91%E4%B8%80%E5%B9%B3%EF%BC%9A%E8%8C%AB%E7%84%B6%E4%B8%89%E9%A6%96/" target="cdt-mirror">【诗】一平：茫然三首</a>
 </h2>
 <p><p><strong>给D</strong></p>
@@ -709,37 +729,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E4%B8%A5%E6%8E%A7%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99-%E5%BC%BA%E5%88%B6%E6%8E%A5%E5%8F%97%E7%89%B9%E7%AE%A1%E8%82%A1/" target="cdt-mirror">美国之音｜中国严控视频网站 强制接受“特管股”</a>
-</h2>
-<p><blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2%E9%85%8D%E5%A4%87%E5%A2%83%E5%A4%96%E6%8A%A5%E7%BA%B8%E7%9A%84%E9%80%9A%E7%9F%A5/" target="_blank">疑似国航内部通告：关于停止配备境外报纸的通知</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%99%8E%E5%97%85%E7%BD%91-%E5%87%BA%E7%89%88%E7%AE%A1%E7%90%86%E6%96%B0%E8%A7%84%E5%AE%9A%E6%98%8E%E8%B5%B7%E5%AE%9E%E6%96%BD-%E8%B0%81%E9%9C%80%E8%A6%81%E6%8B%85%E5%BF%83%EF%BC%9F/" target="_blank">虎嗅网 | 出版管理新规定明起实施 谁需要担心？</a></li>
-</ul></blockquote>
-<p><em>文／许湘筠</em></p>
-<p>华盛顿— 中国政府从严监控基本是私营资本为主的服务器设在中国大陆的视频网站，要求必须接受国家入股。有专家认为，这是政府希望能加强对互联网的管控。</p>
-<p>国家新闻出版广电总局5月18日对中国视频网站提出新要求，国内大型视频网站如优库、土豆、爱奇艺及腾讯等须接受国资“特殊管理股”入股。“特殊管理股”每股享有超越普通股的若干表决权，在重大事件上拥有否决权。</p>
-<p>设在美国的“中国数字时代”网站总编辑萧强是密切关注互联网的专家，他认为，当局要求入股，显然是为了加强对互联网内容的管控，让互联网公司进一步配合政府政策进行内容审查。</p>
-<p>按照中国的视频网站目前的管理格局和市场份额来大致划分，受到影响的视频网站主要包括优酷、土豆、爱奇艺、乐视网、腾讯视频、搜狐视频还有我乐等。</p>
-<p>据报道，广电总局和提出三项要求：第一，网络视频行业必须有国资股东，不允许外资股东。第二，国资出资价格及所持股份有商量空间，但“多少都得有”。第三，有外资背景的企业（如优库）须转让内资股东。</p>
-<p><strong>政府入股</strong></p>
-<p>传媒圈网站说，有网友在博文中还透露，国资出资金额占视频网站股权比例1%~10%，按市场估值，且拥有公司董事名额，并拥有在试听内容的生产、投资、合作的表决权、审查权、以及主管内容高管任命的表决权。</p>
-<p>报道说，目前五家备选国有股入股的单位是中央人民广播电台、中国国际广播电台、北京广播电视台、湖南广播电视台和上海东方明珠新媒体股份公司。视频网站公司须在6月10日前向广电总局汇报与特殊管理股股东达成的协议。总局审核通过后向地方局申报，7月份完成正式上报。</p>
-<p>有网友评论说：总局和网信办已经胜任了文化内容监管的角色，为什么还要采取资本入股的方式呢？至会是上个世纪50年代公私合营的重演吗？这位网友在文章中说，国资还拥有主管内容高管任命的表决权，即人事安排的权力，看似没那么重要，实则好比选定春晚总导演，其价值观、审美观完全决定内容。</p>
-<p>这位网友质疑：“此次的政策如果真的出炉，是否真会影响到亿万观众的精神文化幸福呢？”</p>
-<p><strong>政府入股，外国有之</strong></p>
-<p>特殊管理股制度在国际上行之有年，政府持有的象征性一股或极少数股份使其在重要事务上拥有超级投票权和终极否决权。新加坡报业控股有限公司即为一例，管理股只占总股份1%，但其每股拥有相当于普通股200股的表决权。此外，该公司规定任何个人和机构不得拥有超过3%的股份。此制度巩固了新加坡政府对媒体的管控。</p>
-<p><strong>航班禁报？</strong></p>
-<p>有消息说，中国国航将停止在国际航班上提供境外报纸。流传出来的<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2%E9%85%8D%E5%A4%87%E5%A2%83%E5%A4%96%E6%8A%A5%E7%BA%B8%E7%9A%84%E9%80%9A%E7%9F%A5/" target="_blank">国航内部通告</a>说，上级要求加强境外报刊政治审查，故“为防范境外非法出版物经公司航班进入客舱及入境的风险”，公司将统一从国内携带报刊，不再于外站配备境外回程报纸，只提供环球时报，中国日报等供选择。</p>
-<p>萧强认为国航这样的作法十分荒唐，因为世界各国的航空公司都在中国进进出出，即便国内航班禁了境外媒体，其他航空公司仍会提供境外资讯。萧强说：“除了给中国的航空公司降低竞争力以外，对限制这些信息的流通，在我看来没有什么用处。”</p>
-<p>萧强表示，当局要求入股视频网站，及禁止在国航上阅读境外报刊等加强审查的行为，说明了其对信息控制的不安全感 ，深怕若不能取得全盘控制，便会威胁政权与国家安全。 萧强说：“如果一个政权虚弱到这种程度 ，应该思考如何增加自己的合法性并进行改革，而不是更加控制信息。严加控制的结果，只会使政权更加脆弱。”</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E4%B8%A5%E6%8E%A7%E8%A7%86%E9%A2%91%E7%BD%91%E7%AB%99-%E5%BC%BA%E5%88%B6%E6%8E%A5%E5%8F%97%E7%89%B9%E7%AE%A1%E8%82%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -751,7 +740,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -761,5 +750,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

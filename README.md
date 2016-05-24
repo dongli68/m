@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,99 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%9C%E6%81%B6%E5%87%A0%E5%8D%81%E5%B9%B4-%E5%BA%94%E8%AF%A5%E7%BB%99%E4%BB%80%E4%B9%88%E8%BA%AB%E4%BB%BD/" target="cdt-mirror">【网络民议】计生有难 八方点赞</a>
+</h2>
+<p><p>5月24日，新浪微博上出现数条“湖北公安县计生工作者维权消息”。这些网友所发布的图片看，似乎是湖北公安县当地部分计生工作者在计生办门前抗议要求落实“应有待遇和身份”，而这些“鸣冤叫屈”的图文消息几乎招致了网友的一致批评。</p>
+<p>@王小贱1108：公安县天下第一难计生工作者的漫漫维权路：为这份工作付出了汗水、泪水、甚至鲜血，最美好的青春奉献给了这份事业，得到的就是冷冰冰的1950……</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zpoz6xj20zk0k1wj5.jpg?resize=600%2C338" alt="a0198189gw1f451zpoz6xj20zk0k1wj5" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zpoz6xj20zk0k1wj5.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zpoz6xj20zk0k1wj5.jpg?resize=768%2C433 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zpoz6xj20zk0k1wj5.jpg?resize=1024%2C577 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zpoz6xj20zk0k1wj5.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zq8utqj20zk0k1wj0.jpg?resize=600%2C338" alt="a0198189gw1f451zq8utqj20zk0k1wj0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zq8utqj20zk0k1wj0.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zq8utqj20zk0k1wj0.jpg?resize=768%2C433 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zq8utqj20zk0k1wj0.jpg?resize=1024%2C577 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zq8utqj20zk0k1wj0.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zqwrunj20zk0k178t.jpg?resize=600%2C338" alt="a0198189gw1f451zqwrunj20zk0k178t" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zqwrunj20zk0k178t.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zqwrunj20zk0k178t.jpg?resize=768%2C433 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zqwrunj20zk0k178t.jpg?resize=1024%2C577 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/a0198189gw1f451zqwrunj20zk0k178t.jpg?w=1280 1280w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>@大卫小乔_188：18岁进入这条战线，当时动员我们做这项天下第一难工作时，说对计生工作干部要高看一眼，厚爱一层，现在公安县党委政府就是这样“高看、厚爱”！计划生育依然是基本国策，计生队伍却生计艰难，改革的初衷是提高工作效率，调动工作热情，更好的服务人民，现在这支队伍已寒心绝望，如何能为人民服务？</p>
+<p>@大卫小乔_188：差距愈来愈大的微薄待遇！＂此一时、彼一时＂！在依法治国、履职尽责的当下，我们如何象以前一样尽心尽力地去工作、去服务？！被遗忘在角落里的我们不禁要问：我的祖国，你是怎么了？！政府的公信力在哪里？！</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006ts97qgw1f45ln7idrej30qo0zkn0q_720.jpg?resize=450%2C600" alt="006ts97qgw1f45ln7idrej30qo0zkn0q_720" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006ts97qgw1f45ln7idrej30qo0zkn0q_720.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006ts97qgw1f45ln7idrej30qo0zkn0q_720.jpg?w=540 540w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006ts97qgw1f456yn1blhj30qo0zkagl_720.jpg?resize=450%2C600" alt="006ts97qgw1f456yn1blhj30qo0zkagl_720" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006ts97qgw1f456yn1blhj30qo0zkagl_720.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006ts97qgw1f456yn1blhj30qo0zkagl_720.jpg?w=540 540w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>目前以上两条微博已删除</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%88%A0%E9%99%A4%E5%BE%AE%E5%8D%9A.jpg?resize=600%2C418" alt="删除微博" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/删除微博.jpg?resize=300%2C209 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/删除微博.jpg?resize=768%2C535 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/删除微博.jpg?w=929 929w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>其中一名发布者的<a href="http://weibo.com/u/5938215530">微博</a></p>
+<p>部分网友评论截图</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb6sn0ij30lf0zktev.jpg?resize=440%2C730" alt="006prMOCjw1f46gb6sn0ij30lf0zktev" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb6sn0ij30lf0zktev.jpg?resize=181%2C300 181w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb6sn0ij30lf0zktev.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb7jlf3j30lf0zkq6w.jpg?resize=440%2C730" alt="006prMOCjw1f46gb7jlf3j30lf0zkq6w" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb7jlf3j30lf0zkq6w.jpg?resize=181%2C300 181w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb7jlf3j30lf0zkq6w.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb7vubmj30lf0zkdjn.jpg?resize=440%2C730" alt="006prMOCjw1f46gb7vubmj30lf0zkdjn" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb7vubmj30lf0zkdjn.jpg?resize=181%2C300 181w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb7vubmj30lf0zkdjn.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb8je9bj30lf0zk0wh.jpg?resize=440%2C730" alt="006prMOCjw1f46gb8je9bj30lf0zk0wh" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb8je9bj30lf0zk0wh.jpg?resize=181%2C300 181w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb8je9bj30lf0zk0wh.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb9i66tj30lf0zk41p.jpg?resize=440%2C730" alt="006prMOCjw1f46gb9i66tj30lf0zk41p" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb9i66tj30lf0zk41p.jpg?resize=181%2C300 181w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb9i66tj30lf0zk41p.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb9xnk3j30lf0zktcp.jpg?resize=440%2C730" alt="006prMOCjw1f46gb9xnk3j30lf0zktcp" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb9xnk3j30lf0zktcp.jpg?resize=181%2C300 181w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb9xnk3j30lf0zktcp.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb79dhej30lf0zktd5.jpg?resize=440%2C730" alt="006prMOCjw1f46gb79dhej30lf0zktd5" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb79dhej30lf0zktd5.jpg?resize=181%2C300 181w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb79dhej30lf0zktd5.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb86xonj30lf0zk0w5.jpg?resize=440%2C730" alt="006prMOCjw1f46gb86xonj30lf0zk0w5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb86xonj30lf0zk0w5.jpg?resize=181%2C300 181w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb86xonj30lf0zk0w5.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb99a88j30lf0zkwi2.jpg?resize=440%2C730" alt="006prMOCjw1f46gb99a88j30lf0zkwi2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb99a88j30lf0zkwi2.jpg?resize=181%2C300 181w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/006prMOCjw1f46gb99a88j30lf0zkwi2.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_154939.jpg?resize=450%2C800" alt="IMG_20160524_154939" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_154939.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_154939.jpg?w=720 720w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_154952.jpg?resize=450%2C800" alt="IMG_20160524_154952" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_154952.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_154952.jpg?w=720 720w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_154954.jpg?resize=450%2C800" alt="IMG_20160524_154954" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_154954.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_154954.jpg?w=720 720w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_155006.jpg?resize=450%2C800" alt="IMG_20160524_155006" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_155006.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160524_155006.jpg?w=720 720w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>编辑注：以下内容可能包含让你不适的画面</p>
+<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
+<p>@明天一定不会好：湖北公安县计生干部发微博维权，遭遇了疯狂的民意围剿。那些年中的计生干部恶行我都亲眼所见，罚款拆房，都快生拉去迎产，牲畜全拖走…..比鬼子还厉害。这页历史翻不过去，未来必被清算。</p>
+<p>@资深流氓晁谠瘴：活该！报应！这些人是最不值得同情的之一。</p>
+<p>@半瓶酒4-网易：助纣为虐者的下场！</p>
+<p>@李子暘Lee：别再弄什么维权了，赶紧各寻生路。走之前尽可能销毁自己在计生系统的资料，免得以后被清算。现在没把你们交给民众私刑处死就已经表明政府负责任的态度了。</p>
+<p>@睿创新能源：曾经有个参加“自卫还击战”转业回来的兵，分配到地方乡政府的计划生育办公室，专门负责逮孕妇，然而只要他带队，孕妇基本上抓不到……每次他都堵后门，然后让孕妇从后门出去……后来，计划生育办公室领导把他弄走了……因为他娘和他老婆一直叮嘱他不要干这种缺德的事~</p>
+<p>@不明真相的围观群众-林：一个为了个人利益，祸害民族未来的组织，早该解散，支持法办！</p>
+<p>@晚霞中的小豆娘：他们本可以把枪口抬高一公分的，可是数据说明他们曾经很卖力。</p>
+<p>@kelvinzeng2012：这些人都该去死，还有脸维权。</p>
+<p>@爱晓汐：被你们亲手杀死的婴儿都没找你们理论呢。</p>
+<p>@徐傑NO1：作恶几十年，应该给什么身份？是罪犯的身份吧！</p>
+<p>@岁月的童话01：他们工作越尽职，越是罪有应得。</p>
+<p>@胡同小串V：不会有人同情这群败类的！</p>
+<p>@天黑我就闭上眼：本来就是嗜血寄生虫，还觉得挺有价值？</p>
+<p>@北京韩非子：他们的身份就是土匪的刽子手。</p>
+<p>@李正曦Sissi ：看到湖北公安县计生维权一事，只想说一句：不是不报，时候未到。别尼玛维权了，狡兔死走狗烹，没把你们推出来“计生掉”以泄民愤就是好的了，没被那些受害者们偷偷干掉就庆幸吧。下半辈子多做点善事积点德或许来世还能投个猪胎牛胎的，否则变蛆虫的可能性大。反正这样的人生也如同蛆虫一般恶心。</p>
+<p>@落花一片海：草，刚才评论近2000，现在还剩下600，不断消失中。</p>
+<p>@牛妖盖饭：十八岁就开始作恶，到今天依然不觉悟，就是你的错。你的错，你的恶，你自己买单。善恶相随，因果报应。</p>
+<p>@蓝田-抢生：你们一直说中国人口太多了，既然都这么艰难建议你们自行了断，这样人口能减少一点，你们也解脱了，一举两得何乐而不为？</p>
+<p>@哔哔爷爷：她叫冯建梅 而他/她的名字我不知道</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/p9dgv1foat0.jpg?resize=500%2C330" alt="p9dgv1foat0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/p9dgv1foat0.jpg?resize=300%2C198 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/p9dgv1foat0.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>@肖兔子不爱笑：还奉献了青春奉献了热血。看你们不是该生娃的生娃，该旅游的时候旅游，也没见哪个计生人员终生不嫁不娶不孕不育孤独终老啊。</p>
+<p>@watchmen_88：世间360行，行行都会受人尊敬，唯你是行业是欠人捶万人骂，现在这样的你们就是现世报。</p>
+<p>@爱笑的我是xu：法西斯刽子手老了不得善终……人权法庭必定审判你们。</p>
+<p>@鲸鱼小千：删除评论了再来骂一次!公布30多年搜刮来的社会抚养费收支明细！</p>
+<p>@哥是兔wang：为人民服务什么了？</p>
+<p>@建国前老中医：有本事别删啊，看看评论，让你们明白清楚且知晓在人民群众眼里你们是什么东西！</p>
+<p>@__蓝句：双手沾满鲜血的杀人犯。</p>
+<p>@麻辣火锅ssj：计生本来就是怪胎，整人害人，有什么理由存在，早该散了。</p>
+<p>@绽放的紫鳶花：社会再进步，科技再发展！但始终人才是第一生产力！没有人一切都是白废，只有老年人和中年人能创造什么生产力？现在老年人在吃婴幼儿的红利！彼此循环，生生不息。只不过你们抢劫的罚款少了些，因为即使你们不扼杀婴儿，现在的育龄妇女都在减少！人们养一个孩子的成本有多高？不知道吗？</p>
+<p>@流水行风：这是一份沾满人民鲜血的工作，多少条无辜的婴儿！孽障！</p>
+<p>@蘑菇中的战斗菇：什么叫平庸的恶，就是心安理得地把作恶推托在体制借口上，而无视作为一个人，应具备的最基本的道德和良知底线。</p>
+<p>@姐姐最爱冯赛卡：你们心寒就去死啊，没人拦着。当初杀人子时考虑别人的感受了吗？</p>
+<p>@皇帝的新装1972：这叫兔死狗烹！</p>
+<p>@不死_老鸟：哈哈，转身一变成了维稳对象！</p>
+<p>@麦田守望翁2：头顶三尺有神明！善恶到头终有报！</p>
+<p>@文盲李世威 ：国家统计局数据显示2011年生育率只有1.04，远远低于世代更替水平的生育率2.3。这些搞计生杂种也好意思出来维权？一个杀人的职业也好意思说是为人民服务？什么是报应？这就是！太他妈解恨了！</p>
+<p>@曾盛敏：计生有难，八方点赞。</p>
+<p>@熏熏了了：我是80尾巴的人，因为我是二胎，我妈妈停了工作，我妈生我前被计生办打了两胎，生我后我们家的房子都被拆了，罚了巨款，真是家徒四壁。我恨他们。对了，当年我爸妈只是想要个娃，多个陪伴。</p>
+<p> </p>
+<p><strong>相关阅读：</strong></p>
+<p>数字时代全站<a href="http://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?view=all" target="_blank">计划生育专题</a>文章</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%9C%E6%81%B6%E5%87%A0%E5%8D%81%E5%B9%B4-%E5%BA%94%E8%AF%A5%E7%BB%99%E4%BB%80%E4%B9%88%E8%BA%AB%E4%BB%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%98%8E%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">不明真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B5%81/?category=18271" rel="tag">人流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E5%BB%BA%E6%A2%85/?category=18271" rel="tag">冯建梅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E4%BA%A7/?category=18271" rel="tag">引产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E4%BA%A7/?category=18271" rel="tag">流产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E7%AE%97/?category=18271" rel="tag">清算</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E8%82%B2%E7%8E%87/?category=18271" rel="tag">生育率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F/?category=18271" rel="tag">计生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E5%8A%9E/?category=18271" rel="tag">计生办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">计生工作</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%94%BF%E6%B2%BB%E4%BF%A1%E6%81%AF%E8%A7%A6%E6%80%92%E5%AE%98%E6%96%B9-%E9%A6%99%E6%B8%AF%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%80%92/" target="cdt-mirror">纽约时报 | 政治信息触怒官方 香港“一国两制”倒计时被撤</a>
+</h2>
+<p><p>艺术家揭示了在香港最高建筑的外立面展示的一件巨大艺术品中嵌入的<a href="http://cn.nytimes.com/china/20160519/c19chinacountdown/" target="_blank" rel="nofollow">隐晦政治信息</a>仅仅几天之后，官员和展览组织者取消了这件作品。她们周日晚间在声明中说，艺术家们对主办方表现了“不尊重”，因为他们事先没有与主办方就作品的改变进行协商。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%80%92%E8%AE%A1%E6%97%B6.jpg?resize=600%2C333" alt="倒计时" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/倒计时.jpg?resize=300%2C167 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/倒计时.jpg?w=650 650w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>这段九分钟的视频由艺术家黄宇轩(Sampson Wong)和林志辉(Jason Lam)共同制作，片名是《从现在开始，我们就是60秒的朋友》，视频包含了一系列的倒计时、以及似乎与政治无关的中文和英文短语。但在5月18日，也就是视频在香港环球贸易广场首次展出后的第二天，艺术家们表示，视频的最后一个部分，也就是由闪烁的九位数字表示的倒计时，包含着一个颠覆性的信息。</p>
+<p>这些数字显示的是从现在到2047年7月1日的秒数，该日期是这个英国前殖民地的主权回归中国的50周年，也是保证香港半自治状态的协议过期的日子，因此，这件艺术品实际上是在每天晚上的一分多钟里，把这个地标性建筑物变成了一个巨大的倒计时时钟。</p>
+<p>艺术家们通过提到2047年，触及了香港一些居民不断增长的担忧，这些人担心中国大陆日益坚持自己的主张，进一步加强对香港公民自由的限制。这件作品于5月17日首次展示，那是张德江为期三天的香港之行的第一天，张德江是执政的共产党的政治局常委，负责香港和澳门事务。</p>
+<p>艺术品用含蓄的方式表达的信息，如果不是艺术家出面解释，也许不会引起人们的注意。但官员和组织者对艺术家的解释非常不满。</p>
+<p>在周日晚间发布的<a title="Link: http://www.hkadc.org.hk/?p=14364&lang=en" href="http://www.hkadc.org.hk/?p=14364&lang=en" target="_blank" rel="nofollow">联合声明</a>中，香港艺术发展局（简称艺发局）电影及媒体艺术组主席鲍蔼伦，以及《第五届大型公共媒体艺术展：感频共振》的策展人卡洛琳∙哈-突克(Caroline Ha Thuc)宣布，取消这件艺术品，该作品是由艺发局委托制作的。这个视频原定每晚在香港环球贸易广场的大楼外表播放，直到6月22日。</p>
+<p>联合声明说，“黄宇轩先生及林志辉先生违反当初与策展人和艺发局之间的协议和理解，是对主办方的不尊重，并危及业界于公共空间展示艺术品的可能性。”</p>
+<p>声明说，这两位艺术家“在没有知会策展人及艺发局的情况下”，自行向媒体宣布更改作品。</p>
+<p>声明补充说，“我们相信艺术表达自由并支持我们的艺术家。”</p>
+<p>截至周一，尚不清楚艺发局是否会用其他动画作品取代已取消的作品。艺发局没有回复用电子邮件发过去的问题。</p>
+<p>黄宇轩此前曾表示担心，一旦该信息被公众知晓，作品可能会被取消。</p>
+<p>记者周一下午找到黄宇轩对此事置评时，他说，“我们对这份声明、其所描述的事实和争论持不同意见。我们没有改变我们的作品《从现在开始，我们就是60秒的朋友》。”</p>
+<p>黄宇轩说，他和林志辉不久将就他们的作品被取消发表一份更全面声明。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%94%BF%E6%B2%BB%E4%BF%A1%E6%81%AF%E8%A7%A6%E6%80%92%E5%AE%98%E6%96%B9-%E9%A6%99%E6%B8%AF%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%80%92/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81/?category=18271" rel="tag">不同意见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86/?category=18271" rel="tag">中国大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E7%A9%BA%E9%97%B4/?category=18271" rel="tag">公共空间</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94/?category=18271" rel="tag">政治局常委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%96%E6%B0%91%E5%9C%B0/?category=18271" rel="tag">殖民地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BA%E6%9C%AF%E5%AE%B6/?category=18271" rel="tag">艺术家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A8%E8%BE%BE%E8%87%AA%E7%94%B1/?category=18271" rel="tag">表达自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E7%B2%B9%E6%89%93%E5%B1%81%E8%82%A1%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E5%88%91%E7%BD%9A%E5%8F%B2/" target="cdt-mirror">千歌哲学｜民警张际勇之死，真相在哪里</a>
 </h2>
 <p><p>前几天，一个年轻的警察离开了这个世界，过几天就是她女儿的生日。</p>
@@ -711,76 +801,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E6%98%AF%E5%AE%98%E8%AF%9D-%E6%9C%BA%E5%85%B3%E5%8F%B8%E6%9C%BA%EF%BC%9A%E5%A4%A7%E9%A2%86%E5%AF%BC%E4%B8%BA%E5%95%A5%E4%B8%8D%E7%88%B1%E8%87%AA%E5%B7%B1%E5%BC%80%E8%BD%A6%EF%BC%9F/" target="cdt-mirror">不是官话 | 机关司机：大领导为啥不爱自己开车？</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%AC%E8%BD%A6%E6%94%B9%E9%9D%A9.jpg?resize=495%2C373" alt="公车改革" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/公车改革.jpg?resize=300%2C226 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/公车改革.jpg?w=495 495w" sizes="(max-width: 495px) 100vw, 495px" data-recalc-dims="1"></p>
-<p>公车改革热闹了一阵子，但在我们这似乎显得“静悄悄”。中央部委机关和省上相关部门基本已完成车改，而有的市、县、乡正在推进中，因此不能说真正实现了全国车改的目标。在个别地方，实情是，一级瞄着一级，能拖一天算一天，能坐一天是一天。</p>
-<p>车改就是一项改革，改革必然会动到一部分人的“奶酪”。而车改动的是领导们的“奶酪”，领导当然不愿意咯，但一般的普通干部是相当欢迎的。</p>
-<p>普通干部对车改兴趣最大的就是有车补了，反正以前也坐不了公车，虽然现在也坐不了公车，但一个月多出了几百上千元的钱，肯定是支持的。</p>
-<p>有的地方考虑到实际情况，也不是一刀切，比如厅级干部和县上一二把手可以在领车补与保留专车二选一，这个选择，有人说就是个“呵呵”。这个账就不用算了，光油钱都不够，更不用说还专门的司机、维修费用等等，只有傻瓜才选择领车补。</p>
-<p>有人断言：“一个处级干部的车补标准是800元，给他们10000元钱的车补，他们也不会愿意车改的”。但是，还是有些领导选择了领车补，比如湖北省统计局副局长叶青，车改前就不享受单位提供的公车。不知道这样的领导，您身边有多少？</p>
-<p>对于车改，应该说领导的司机们最有发言权。笔者曾给不同的领导当司机近十年，其实透过领导司机可以看出车改的矛盾利弊、车改前后的政治生态、甚至可以破解“为官不为”的部分原因。</p>
-<p>1大领导开车“不像话”？</p>
-<p>省一级车改后，一厅级领导以前早上一出门有车接，晚上回到家有车送，私事公事都有公车保障，现在一下子没有了公车，用他自己的话说就是“生活质量下降了一大截儿！”</p>
-<p>当领导坐公车坐惯了能舒服吗？没有了公车是会导致生活质量下降的，这不免要发发牢骚，怎么发？当然不能说自己的生活不方便了，赖到影响工作上是个不错的借口。</p>
-<p>不可否认的是，公车改革确实影响到了工作。一些边远偏僻的乡镇，你去哪儿坐公交、坐出租？因此还是保留有部分必要的通信应急、执纪执法等用车。所谓影响工作肯定有的，但不至于像有的领导说的那么糟糕。想想看，老百姓半夜孩子发高烧，没有公车，他们怎么办？但如果领导遇到这样的情况，用公车谁也不会说什么的。</p>
-<p>但因为这是中央的决定，而中央又率先作表率，当前“守纪律讲规矩”高悬头项，没有一个敢在公车场合抵制车改的。但软磨硬泡是可以的，用影响工作、要考虑实际情况不能一刀切来回应，至少让中央松了一些口子，政策也宽松了一些。</p>
-<p>有司机戏谑道：“以前的公车制度，就是用勺子给领导喂饭，喂惯了有一天让他自己用筷子，他又哭又闹，说让我用筷子我怎么吃饭嘛？”</p>
-<p>前美国驻华大使骆家辉，因“没钱坐头等舱，住不起五星级酒店”而被很多人骂：“堂堂一大使相当于我们的正部级了，你这么做就是作秀，故意让我们难堪！”据我所知，在其他国家或者地区，所谓部级官员自己开车上下班的是理所当然的，引不起任何议论，是“本该如此”的。</p>
-<p>不过话说回来，在我们这里，部级领导自己开车，确实是“闻所未闻”（即使有也不便公开，怕好事者炒作？）。所以，对此普通老百姓会认为大领导自己开车有点“不像话”，既然老百姓都这么想，领导们不愿车改似乎也在情理之中了。</p>
-<p>2不坐轿了，又该如何当官？</p>
-<p>公车不仅仅是官员的代步工具，更是身份、地位的象征。过去官老爷们坐的是轿子，用图案、轿子的材质和几抬来显示身份。而今，用车也可以看出领导的尊贵身份，比如有没有人簇拥送到车门、有没有人开车门、有没有开道引路车、车是几缸和配制，等等。</p>
-<p>车也不仅是一个车，有时没了公车，别人要意思一下，东西放哪里；紧要时要打个别人不能听的电话，要在哪里打；等等。专车有司机、秘书，车上有牙签、必备药品、有小冰箱、有开水、有拖鞋。没有了公车，不仅仅是出行不方便，是很多事都不方便。公车更像是领导们的“移动平台”。取消了这个平台，对如何当官是个很大的考验。</p>
-<p>从这个意义上讲，车改的主要目的是改变官员“当官老爷坐轿子”的官本位思想。车改难的背后，是官本位思想的根深蒂固。</p>
-<p>车改必将改变官员如何当官。他们会尝到老百姓挤公交、等地铁是啥滋味，车改了说不定在交通出行、城市管理上，领导会因为自己的切身体验后有所改观。</p>
-<p>像2016年5月初，湖南省省长杜家毫“自曝”在长沙街头骑车，一路骑行并不顺利：遇到过天桥，不得不扛起自行车；有时路面拥挤，还要骑上人行道，被警察教训；做手势表示行车方向，被出租车司机骂作“摆谱”……想想看，如果更多的省级领导、厅级干部都有杜家毫同志这般体验，相信交警、出租车司机的形象会有所改观。</p>
-<p>有领导司机吐槽：“要想当好官，先做回一个正常的人”，这话不虚。据报道，十八大以后，全国各大机场贵宾厅关闭，加之没有了秘书的陪同，有的不会坐飞机了。河北一名县委书记感叹：“虽然坐了无数次飞机，但取消贵宾厅等细致服务后，我比刚进城的农民还懵懂，订票、取票、换登机牌等，不问就不知道，像刘姥姥进了大观园。”</p>
-<p>还有一些干部去医院不知道怎么挂号、乘公交车不知道如何投币刷卡、参加培训会走错教室……无怪乎，连《人民日报》也看不下去了，直言这毛病是惯出来的，“干部生活能力不足的背后，是权力的无所不能”。</p>
-<p>3还有司机仍待“解救”</p>
-<p>我之前干了十来年的领导司机，感触至深。外人看到领导司机光鲜，陪在领导身边，近水楼台，有好处，能办好多事，还吃香的喝辣的。面上不说，私下骂领导司机的人很多，大多是些这样的话：“不就是一个车夫吗？神气什么？”“你除了会开车、会当奴才，还会啥？”（详见<a href="http://mp.weixin.qq.com/s?__biz=MzA3MjI0MDQ3MQ==&mid=208740589&idx=1&sn=24e39fc01a57c5b76cf33a8bf9ceb4f3&scene=21#wechat_redirect" target="_blank">《给领导当司机是怎样的体验》</a>）</p>
-<p>十八大前，给领导当司机确有好处，但也付出了畸形的代价：顾不了家、身体搞垮、胃口搞大。我给当领导司机时，孩子上幼儿园一次没接送过、一个月在家吃不上几顿饭、尾椎颈椎出问题。但我有个跟别人不一样的习惯，爱看书思考爱写写东西，驾驶座位边随时放着书和一个本子和一枝笔，停车时、等领导时就写。要不，您也许就看不到这些切身的体验和感受。</p>
-<p>对于车改，绝大多数的领导司机们是举双手赞同的，用他们的话说：“终于解放了！”一个给县委书记当司机的老同志退休后，从此不摸车，他说见到车就想吐，他现在出行就骑自行车。而现在有的地方车改迟迟不来，领导司机天天打听消息，什么时候车改，这个成了他们现在最关心的事儿。</p>
-<p>但也有为数不少的司机尚未“解放”，仍眼巴巴地盼着有关方面出手解救。他们最害怕车改走过场——面上要按规定，底下又要想办法躲避规定。这无疑会增加司机的工作量，比如把车停得远远的，跑过来吃饭，吃完饭又跑过去开车。</p>
-<p>现在省上一些车改了的司机们，除了有工作任务出车外，大都闲着，都知道公车用于工作上的事有多少？只占以往用车时间的1/5都不到。规定公车必须要停放在单位，这对很多司机来讲，是最高兴的。每天可以正常上下班，没有车拴着，下班后可以放心去干自己的事。不用再担心领导打电话来。</p>
-<p>可以这样说，司机最怕接到领导电话，电话一挂，就得出门。还有，手机24小时都得开着，哪儿也不敢去，就这样候着耗着，好多司机就这样青丝熬成了白发。现在，一些司机们煅炼起了身体，反正办公室里没自己的事，早上从家里走路到单位，下午又从单位走路回家，成了单位里最清闲的人。</p>
-<p>如今，有很多司机宁愿开机动车，也不愿意给领导开专车。从领导司机的这一心态变化，也可以看出当下官员的“为官不为”的原因。过去司机们争着抢着给领导当司机，甚至动用关系打招呼，现在都避而远之。</p>
-<p>为什么呢？道理很简单：以前，工作再畸形，有好处；现在，工作依然畸形，却没有了好处，谁愿意干？官员们以前的工作生活也畸形，一天陪洗桑拿七八次、喝了这场赶那场……司机的状态什么样，其实官员也就什么样，只不过他们是官儿，显得高大上一些。没了好处，现在又没了公车，恐怕这也是“为官不为”很大的一个原因，和一些车改迟迟不落实的原因吧。</p>
-<p>哈哈，如果各位喜欢看“领导司机系列”，我再续。</p>
-<p>（作者为机关职员，“不是官话”读书群群友）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E6%98%AF%E5%AE%98%E8%AF%9D-%E6%9C%BA%E5%85%B3%E5%8F%B8%E6%9C%BA%EF%BC%9A%E5%A4%A7%E9%A2%86%E5%AF%BC%E4%B8%BA%E5%95%A5%E4%B8%8D%E7%88%B1%E8%87%AA%E5%B7%B1%E5%BC%80%E8%BD%A6%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E8%BD%A6/?category=18271" rel="tag">公车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E8%BD%A6%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">公车改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA/?category=18271" rel="tag">出租车司机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0/?category=18271" rel="tag">县委书记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97/?category=18271" rel="tag">同志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%94%9F%E6%80%81/?category=18271" rel="tag">政治生态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E5%82%B2%E6%85%A2/?category=18271" rel="tag">权力傲慢</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%A6%E6%94%B9/?category=18271" rel="tag">车改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%88%98%E5%B7%BD%E8%BE%BE%EF%BC%9A%E5%A6%88%E8%9B%8B%E5%A5%BD%E8%A0%A2-%E4%BD%A0%E7%9A%84%E7%A7%92%E5%88%A0%E6%88%90%E5%85%A8%E4%BA%86%E5%A5%B9%E7%9A%84%E5%9C%B0%E7%81%AB%E8%BF%90%E8%A1%8C/" target="cdt-mirror">刘巽达：妈蛋好蠢 你的秒删成全了她的“地火运行”</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/IMG_20160520_130951-e1463728216668.png?resize=450%2C780" alt="IMG_20160520_130951"></p>
-<p>早上醒来打开手机，关于海峡对岸那个女总统的就职演说视频和全文，像潮水一般涌来了。我亲爱的朋友们以及朋友的朋友们，谢谢你们了！你们肯定是因为朋友圈里的正常转发被迅速秒删，所以出于好心，一旦见到能从其它渠道获得内容，就不约而同以最快的速度转发出去。于是，我就在各种群里，以及一对一里，看到了形式各异的同一内容：有视频，有图片，有文字……这种前所未有的疯狂转发，让见多识广的我，还是惊讶得目瞪口呆。</p>
-<p>也就是说，本来在朋友圈一条微信就能搞定的事，现在必须通过频繁的转发才能搞定。这就在实际操作中出现了“溢出现象”：你可能通过各种各样的群甚至一对一，频频转发这条消息。一旦我本人在某些群里交叉存在，一旦我的朋友里太多“热情分享者”，就出现了今天类似刷屏的效果。有的群，可能只是“吃货”的聚集地，有的群，可能只是“家装”的集合点，换了以前，这样的“就职演说”内容，你或许不会和这些群友共享。可是现在不一样了，秒删带来了“奇货可居”的神秘感——能够第一时间让朋友们看到海峡对岸“神秘的就职演说”，那是多牛的事！其中，或有很多“敏感”和“适禁”的内容哦！分享分享分享！共同的群体心理，催发了如潮的转发。</p>
-<p>我的朋友圈中，媒体人不少。我在已被秒删的微信下面的留言里，看到了长串的评论。除了提醒“已被秒删”加上怒火燃烧的表情包外，这些评论集合起来，就是一篇高质量的“时评”了。</p>
-<p>有曰：这样的“新闻事实”为什么要屏蔽删除呢？别的完全不相干地方的总统就职，你们还积极报道呢！自己国家海峡对面的重大事项，怎么就不能了解呢？你们央视不播也就罢了，民间流传还要封杀，也太过分了吧？</p>
-<p>有曰：这又不是黄色内容，也不是反动政治内容，况且也没有什么“评点”之类的导向。禁播禁言总得出于什么依据，无据可依的粗暴删禁，只会给别人的文明作“反衬”。这不等于在做反广告吗？</p>
-<p>有曰：屏蔽删除，显得我们很胆怯，我们这边为什么那么心虚呢？不是有“三个自信”吗？你越这样，老百姓越有兴趣了解。真是很不得人心！心好堵……</p>
-<p>有曰：“堵不如疏”的道理难道不懂吗？为什么老做蠢事？为渊驱鱼，为丛驱雀，我们的做法蠢级了！无非就是让人看到蔡英文的演讲口才好罢了，她脱稿讲了半小时，也就是背功了得罢了，人家很多天前或许就倒背如流了。这能有多大危害呢？讲话的内容是面对全世界的，秒删有用吗？</p>
-<p>更有人如此曰：如果对所有人贩子、诈骗电话、骗人广告、扰民推销，以及莆田系，也都这么高效秒删和秒杀，那就好了！为什么在那些地方，总是低效和无效呢？</p>
-<p>总之，妈蛋好蠢——这是几乎所有评点者的共同“标点符号”。蠢就蠢在，海峡对岸的政治存在，分分秒秒要与此岸对接。你今天删除屏蔽了它，明天还得和他们打交道，甚至还要“热烈握手”，口口声声“血浓于水”。她的“民国总统”是选民选出来的，你无视也罢，藐视也罢，未来少不了要互相平视。彼此少交恶，应该是大家乐见的吧？既然如此，一开始就封杀新闻，善意就一并“屏蔽”了。</p>
-<p>咱们这边很少使用“枪口抬高一寸”的柔软身段，习惯“来硬”的。国际事务方面，咱们就暂时不置喙了；国内事务的处置上，经常用僵硬的惯性思维，把本来可以软性处理的事，一件件弄得不可收拾。一级绑架一级，层层绑架，都是“僵硬思维”惹的祸。</p>
-<p>在这件事上，假如“央视等主流媒体”以“硬性规定”屏蔽之，这也就算了；但民间的传播，你网开一面，就比较英明了。说到底，作为一个中国国民，面临海峡对面如此重大的事情，不关心不关注，那才奇了怪了。你的屏蔽删除，除了激发好奇心，没有任何作用！假如原来只有一小部分人关心的话，这么一来，就引发了极大部分人的关注。这大概就是所谓的“事与愿违”吧？</p>
-<p>真的，中华民族是可以更优秀更伟大的，如果我们不跟人类文明脱节，凭着中华民族的勤劳智慧，完全有可能进入世界第一方阵。只是我们时不时会做一些蠢事，蠢得“无一方受益”——对谁都没有好处。有时，还起了反作用。比如你这样秒删，台湾受损了吗？没有，反而衬托出它的民主。大陆人民受损了吗？没有，反而激发起了解彼岸的热情；咱们的当政者受益了吗？没有，反而被人诟病。这又是何苦呢？</p>
-<p>《国语》有曰：“防民之口，甚于防川，川壅而溃，伤人必多，民亦如之。是故为川者，决之使导；为民者，宣之使言。”翻译成大白话，一言以蔽之：不让人民说话，必有大害。言路有通道，社会就会良性平衡。一经阻塞，必然形成梗阻，一旦决堤，就不可收拾。这个基本道理谁都懂，假如我想引用各届领导人的有关言论，比比皆是。随便搜出一条——习近平指出，要继续加强民主监督。对中国共产党而言，要容得下尖锐批评，做到有则改之、无则加勉；对党外人士而言，要敢于讲真话，敢于讲逆耳之言，真实反映群众心声，做到知无不言、言无不尽。</p>
-<p>你看，最高领导人都号召我这样的党外人士“知无不言言无不尽”了。可是，我连“言无不尽”还早着呢，就有“会错意”（会对意？）的人“动手”了：把我冷静分析的谏言之文粗暴删除。害得很多朋友连连索取——你那写什么什么的文章，能不能不通过朋友圈私下发给我？你看看，就像今天上午的火爆转发一样，一旦地面上的光明不让通行，“地火运行”就开始了。</p>
-<p>“她”，这个尙显陌生的“民国总统”蔡英文，就是这样通过“地火运行”，侥幸地在这儿扩大了她的影响。这是始料未及的吧？</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%88%98%E5%B7%BD%E8%BE%BE%EF%BC%9A%E5%A6%88%E8%9B%8B%E5%A5%BD%E8%A0%A2-%E4%BD%A0%E7%9A%84%E7%A7%92%E5%88%A0%E6%88%90%E5%85%A8%E4%BA%86%E5%A5%B9%E7%9A%84%E5%9C%B0%E7%81%AB%E8%BF%90%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8/?category=18271" rel="tag">两岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89/?category=18271" rel="tag">公平正义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF%E4%BD%93%E5%88%B6/?category=18271" rel="tag">宪政体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4/?category=18271" rel="tag">就职演说</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%85%9A/?category=18271" rel="tag">执政党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88/?category=18271" rel="tag">改革方案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%90%8C%E5%AD%98%E5%BC%82/?category=18271" rel="tag">求同存异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E7%BB%93%E6%9E%84/?category=18271" rel="tag">经济结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -792,7 +812,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -802,5 +822,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

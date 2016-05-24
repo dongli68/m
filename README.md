@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%9C%E6%81%B6%E5%87%A0%E5%8D%81%E5%B9%B4-%E5%BA%94%E8%AF%A5%E7%BB%99%E4%BB%80%E4%B9%88%E8%BA%AB%E4%BB%BD/" target="cdt-mirror">【网络民议】计生有难 八方点赞</a>
@@ -88,7 +88,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%98%8E%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">不明真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E8%83%8E/?category=18271" rel="tag">二胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B5%81/?category=18271" rel="tag">人流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E5%BB%BA%E6%A2%85/?category=18271" rel="tag">冯建梅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E4%BA%A7/?category=18271" rel="tag">引产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E4%BA%A7/?category=18271" rel="tag">流产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E7%AE%97/?category=18271" rel="tag">清算</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E8%82%B2%E7%8E%87/?category=18271" rel="tag">生育率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F/?category=18271" rel="tag">计生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E5%8A%9E/?category=18271" rel="tag">计生办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E5%B7%A5%E4%BD%9C/?category=18271" rel="tag">计生工作</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%94%BF%E6%B2%BB%E4%BF%A1%E6%81%AF%E8%A7%A6%E6%80%92%E5%AE%98%E6%96%B9-%E9%A6%99%E6%B8%AF%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%80%92/" target="cdt-mirror">纽约时报 | 政治信息触怒官方 香港“一国两制”倒计时被撤</a>
 </h2>
@@ -822,5 +822,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

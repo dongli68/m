@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,63 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E8%AF%97%E3%80%91%E4%B8%80%E5%B9%B3%EF%BC%9A%E8%8C%AB%E7%84%B6%E4%B8%89%E9%A6%96/" target="cdt-mirror">【诗】一平：茫然三首</a>
+</h2>
+<p><p><strong>给D</strong></p>
+<p>我在远方听到你的歌唱<br>
+如群鸟飞翔<br>
+清澈的水激荡山林<br>
+那些铃声，快乐的音符<br>
+你的生命——<br>
+那些无数艰辛的经历<br>
+已为阳光<br>
+远古的智慧洗涤<br>
+当涤去那些卑俗的欲望<br>
+每片草叶，每撮泥土<br>
+每滴松针上的露水<br>
+都清新可爱<br>
+都是神灵的祝福<br>
+死亡的阴影<br>
+像溃败的乌云<br>
+雪峰、码头<br>
+天空如此辽阔、晴朗<br>
+一切、一切<br>
+唯有歌唱</p>
+<p>2016.1.5</p>
+<p><strong>无题</strong></p>
+<p>经历了所有<br>
+不会再惊奇、困惑<br>
+如此简单<br>
+万物在晨雾中淡然<br>
+毁灭、复生<br>
+或复生、毁灭</p>
+<p>人，是一种不幸<br>
+所谓智慧不过是懂得</p>
+<p>灰尘倾泻于星球<br>
+而抵达星辰的梦想<br>
+如此绚丽</p>
+<p>树木、水<br>
+倾斜的天空<br>
+逃匿的野兽<br>
+石隙间瞭望大地</p>
+<p><strong>茫然</strong></p>
+<p>苍凉。苍凉的离别，多年离别后的思念、温情，丝丝的悔歉。那些喜悦、激情、大雪中的奔跑…。</p>
+<p>浩大的城市，喧嚣，让我们激昂，也让我们困顿。争吵，出走，然后是泪水，是彻夜的温柔；然而又是伤害、怨疚…。仿佛白昼与黑夜。</p>
+<p>交错的街巷，横陈的路桥，日子到了尽头，即使星辰都已疲惫。</p>
+<p>一年，又是一年…。庞大、旋转的城市，我们经历了更多，更多的撞击，更多的错误、悲伤和不幸。这就是生活。</p>
+<p>时光将我们彼此消逝。熙攘的人流，有时猛然听到你的声音，如青春的呼唤，回头，一片茫然。</p>
+<p>2016.2.18</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E8%AF%97%E3%80%91%E4%B8%80%E5%B9%B3%EF%BC%9A%E8%8C%AB%E7%84%B6%E4%B8%89%E9%A6%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%97/?category=18271" rel="tag">诗</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-138/" target="cdt-mirror">【河蟹档案】大学课堂设“便衣巡视员”，像特务一样监控他们</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -686,24 +740,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E3%80%8B%E7%89%B5%E5%87%BA%E6%B8%A9%E5%AE%B6%E5%AE%9D-%E6%B8%AF%E5%AA%92%E4%BB%A3%E4%B8%BA%E5%90%A6/" target="cdt-mirror">自由亚洲｜《巴拿马文件》牵出温家宝 港媒代为否认后又删文</a>
-</h2>
-<p><p>日前有媒体报道，巴拿马文件中披露美国亿万富翁斯泰尔曾为中国前国务院总理温家宝的家族企业融资，引发舆论哗然。本周四，香港亲中媒体大公网发表文章否认上述报道，为温家宝正名。但至5月20日，该篇文章已被全网删除。</p>
-<p>引发巨大风波的《巴拿马文件》曝光中国当局众多政要权贵家人持有离岸公司。其中与中国前总理温家宝家人有关的公司被指接受美国民主党的重要捐款人汤姆•斯泰尔（Tom Steyer）的投资，该公司设立在英属维京群岛，而斯泰尔是旧金山投资公司法拉龙资本管理公司（Farallon Capital）的创始人及前总裁。</p>
-<p>一名关注事件的网民告诉本台，对此并不感到意外，因为近年有不少媒体均报道了温家宝海外藏富的消息：</p>
-<p>“温家宝一直以来，包括他在位的时候也传出他有境外资产。巴拿马文件究竟是不是属实我们不知道，可能别人借这个事情来攻击他，但其实就算有也不是什么奇怪的事情。”</p>
-<p>消息引发外界哗然，总部设在美国的博闻社报导，香港亲中的大公网为温家宝出声，指温的家人对此表示极大愤慨，称报导纯属无中生有，恶意捏造。大公网引消息人士表示，温家宝家人与该报导中的汤姆斯泰尔及其投资活动毫无关系，温家宝家人也没有通过任何境外公司参与任何投资。这是事件发生以来，首度有中国前国家级领导人通过境外的党媒出声回应。不过， 至5月20日，该篇文章已无法显示。</p>
-<p>资深媒体人黄先生接受本台采访时称，政敌不断抛出温家宝的负面消息：</p>
-<p>“在2014年我曾经主持过美国博讯香港杂志的组稿工作。当时他们也是有一些东西曝光温家宝的贪腐，但是当时我作为编辑我坚决不同意这种一面之词，我认为这个指控大多是他的政敌捏造的，不是属实的。实际上据我的了解，温家宝的夫人只是因为她的专业是地质勘探，当时温家宝调到北京之后她没办法安排工作，后来就安排到地质协会现在有个钻石委员会。我们知道首饰珠宝行业也都是国家垄断的，她也没有从中得到什么，甚至有一个公司也跟她是没有关系的。有人说温家宝的家人在公司里面有多少股份，后来经过查证那也不是事实，因为那个公司的股份是香港一个老板的，不是温家宝的家族的。他在位时唯一的问题是他儿子温云松在国资委下面的一个央企担任副总经理，他有点内举不避亲。你想在中国的官场那到目前为止他是习近平的支持者，第二也是党内难得的开明派和温和派，现在有可能还是一个中国走向现代民主的推手，所以说这些贪腐的势力，包括右派包括左派的一些顽固的势力都是对温家宝恨之入骨的，政敌不断地抛出对他不利的信息传言。”</p>
-<p>根据已经披露的文件，除温家宝的家属外，有至少9名现任或前任中央政治局常委成员持有离岸资产。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E3%80%8A%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6%E3%80%8B%E7%89%B5%E5%87%BA%E6%B8%A9%E5%AE%B6%E5%AE%9D-%E6%B8%AF%E5%AA%92%E4%BB%A3%E4%B8%BA%E5%90%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%96%87%E4%BB%B6/?category=18271" rel="tag">巴拿马文件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D/?category=18271" rel="tag">温家宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E5%AE%B6%E5%AE%9D%E5%AE%B6%E6%97%8F%E8%B4%A2%E4%BA%A7/?category=18271" rel="tag">温家宝家族财产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%BB%E5%B2%B8%E7%A7%98%E5%AF%86%E8%B5%84%E4%BA%A7/?category=18271" rel="tag">离岸秘密资产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%B1%82%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">高层政治</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -725,5 +761,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E6%8B%BF
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

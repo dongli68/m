@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,166 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E7%B2%B9%E6%89%93%E5%B1%81%E8%82%A1%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E5%88%91%E7%BD%9A%E5%8F%B2/" target="cdt-mirror">千歌哲学｜民警张际勇之死，真相在哪里</a>
+</h2>
+<p><p>前几天，一个年轻的警察离开了这个世界，过几天就是她女儿的生日。</p>
+<p>2016年5月17日，33岁的江苏兴化交警张际勇不明失联，当天本该轮休的张际勇原计划一家人去看电影，却突然被领导安排临时值班，值班当晚开完会约21:35独自一人离开，失联70小时，最后其尸体在兴化南官河打捞上岸，尸体上伤痕累累，疑似非正常死亡。</p>
+<p>兴化警方称张系抑郁症轻生自杀而溺水身亡，并称张家属表示认可该鉴定。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB1.png" rel="attachment wp-att-438766"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB1.png?resize=585%2C218" alt="民警张际勇之死1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死1.png?resize=300%2C112 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死1.png?w=591 591w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
+<p>我们暂且不论尸检结果怎么这么快出来了（雷洋案检了20天），难道家属认可就能代表事实么？关键的是，张际勇妻子<a href="http://weibo.com/u/1298295757" target="_blank">发微博</a>称只是认可溺水死亡并未认可自杀身亡，好嘛，原来是偷换概念！</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB2.png" rel="attachment wp-att-438765"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB2.png?resize=550%2C408" alt="民警张际勇之死2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死2.png?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死2.png?w=579 579w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>事情并不简单，据张妻子讲述，一年前张扣了一辆违法的三菱车，队长王某让他放行他没放，后来他在车上发现了毒品，立即报告王某，王某说：“际勇啊，这个事情你不要过问，不要把自己圈进去，还有也不要跟别人说你跟我说过这件事。在事发的前一段时间张已经察觉到有些事情不对劲，似乎有人跟踪他。17号下午，张回家时脸上、腰和下体有红色斑点，舌头发麻，疑似被人下了毒。张对妻子说：“他们要下手了，这次我完了。”当天下午6点，本该轮休的张接到值班通知。他妻子对他说：“我送你去上班，我要看看谁要害你。”这几天张的妻子常陪伴他，但总不能一直陪着。送张到中队后张妻子便回家照顾小孩了，没想到这一别便是天人永隔。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1.gif" rel="attachment wp-att-438764"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1.gif?resize=300%2C165" alt="0" data-recalc-dims="1"></a></p>
+<p>20日，张的尸体被捞出。张的死亡特征符合被报复的可能，媒体的描述是：张际勇尸体的视频显示，被打捞上来的张际勇遗体面部发青肿大，并伴有血渍。可见，张际勇之死很反常，与被谋害、被报复有关。暂且不问是否有人害死了张，有的话会是谁，这点会由公安机关查明（查不查另说）。我们想问张际勇遭到恐吓，属于公开的秘密，作为其所在单位，为何没有采取防范措施？比如让其“公休”，暂缓上班，或者增派同伴，加强对其人身安全的保护？总之不能有丝毫的大意，否则可有失职之嫌伴有血渍。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB3.png" rel="attachment wp-att-438763"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB3.png?resize=496%2C474" alt="民警张际勇之死3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死3.png?resize=300%2C287 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死3.png?w=496 496w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"></a></p>
+<p>人死了，他死前的事本就奇怪，死后事情也在向奇怪的方向发展。张的妻子5月23日（今天）在新浪头条文章上发的“申冤文”过不久便被被删除，这个就值得深思了。兴化不过是一个小地方，兴化的警察局的权力按理说应也不大，怎么能左右新浪这么大的一个媒体呢？文章说删就删。是兴化警局某领导给了新浪钱，多少钱才能买新浪的良心啊；或者是上头有大人物发了话，慎言慎言；又或者是新浪日本投资方妄图坏我国体，这可是其心可诛啊。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB4.jpg" rel="attachment wp-att-438762"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB4.jpg?resize=550%2C319" alt="民警张际勇之死4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死4.jpg?resize=300%2C174 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死4.jpg?resize=768%2C445 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死4.jpg?w=815 815w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>之后，人民日报也发了一篇微博，话不多，基本照搬兴化警方的话，张是自杀溺水身亡并且其家属认可该结果。人民日报啊！暂且不说你姓不姓人民，我党一向是坚定和人民站在一起的。主要是一个没有经过严格调查还存有许多疑点的事情，你居然就敢这么随意地定论，新闻三大原则忘记了么？另外人民日报微博附带的几张图片里有一张是张妻子表明并未认可结果的微博截图，这就有点奇怪了，人民日报微博说的含糊不清，又似乎是故意放了一张和自己观点不一样的图片并且没有说明，难道人民日报小编也有隐言，难道背后真有某大人物？大家需要注意的是，这件事不仅仅是一个警察的不明死亡，还可能涉及到一个隐藏的毒品官匪勾结链。即使张是一个坏警察死有余辜，面对毒品我们还是应当深恶痛绝坚决抵制，这时候媒体的言行便显得很重要。即使张确是自杀死亡，跟进毒品线索依旧是大众、媒体、公安机关的责任。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB5.png" rel="attachment wp-att-438761"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB5.png?resize=450%2C800" alt="民警张际勇之死5" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死5.png?resize=768%2C1365 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死5.png?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死5.png?w=1080 1080w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>一个负责任的交警死了，一个女人失去了丈夫，一个孩子失去了父亲。张际勇案又一次挑战了社会的道德认知，又一次暴露了社会体制的各种问题，大家众说纷纭，小编也只是做一些猜想，还请诸君保持一个清新的头脑，理性看待事件走向，积极维护社会公平与正义，莫要事不关己高高挂起，因为下一个可能就是你。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB6.jpg" rel="attachment wp-att-438760"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB6.jpg?resize=475%2C845" alt="民警张际勇之死6" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死6.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死6.jpg?w=690 690w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<p>另外，提醒大家关注张际勇案的同时不要忘了雷洋案，不要让某些人趁乱蒙混过关，就像巴-拿-马事件那样。</p>
+<p>虽然张际勇妻子的文章已经被删除，小编还是找到了文章截图，分享给诸君以供参考：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB7.jpg" rel="attachment wp-att-438759"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB7.jpg?resize=450%2C800" alt="民警张际勇之死7" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死7.jpg?resize=768%2C1366 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死7.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死7.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB8.jpg" rel="attachment wp-att-438758"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB8.jpg?resize=450%2C800" alt="民警张际勇之死8" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死8.jpg?resize=768%2C1366 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死8.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死8.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB9.jpg" rel="attachment wp-att-438757"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB9.jpg?resize=450%2C800" alt="民警张际勇之死9" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死9.jpg?resize=768%2C1366 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死9.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死9.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB10.jpg" rel="attachment wp-att-438756"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB10.jpg?resize=450%2C800" alt="民警张际勇之死10" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死10.jpg?resize=768%2C1366 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死10.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死10.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB11.jpg" rel="attachment wp-att-438755"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB11.jpg?resize=450%2C800" alt="民警张际勇之死11" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死11.jpg?resize=768%2C1366 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死11.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死11.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB12.jpg" rel="attachment wp-att-438754"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB12.jpg?resize=450%2C800" alt="民警张际勇之死12" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死12.jpg?resize=768%2C1366 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死12.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死12.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB13.jpg" rel="attachment wp-att-438753"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB13.jpg?resize=450%2C800" alt="民警张际勇之死13" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死13.jpg?resize=768%2C1366 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死13.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死13.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB14.jpg" rel="attachment wp-att-438752"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB14.jpg?resize=450%2C800" alt="民警张际勇之死14" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死14.jpg?resize=768%2C1366 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死14.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死14.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB15.jpg" rel="attachment wp-att-438751"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB15.jpg?resize=450%2C800" alt="民警张际勇之死15" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死15.jpg?resize=768%2C1366 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死15.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死15.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>遇害民警张际勇妻子：女儿刚刚问我，爸爸不会回来了，我知道的，眼睛闪着泪花</p>
+<p>练祁河：溺水窒息只是死因，这并不能排除他杀。公告中说张警官失联后警方做了大量工作。如果做了大量工作，怎么会只知道当晚9点半他独自一人离开，不知去向？街道上的监控探头至少能查看到他当晚的行踪。当地警方是否能公开事发当晚，出事民警的街头监控录像来回应民众的疑问。</p>
+<p>梦晚南巷：巨人观现象，溺水者都会出现，仅从鼻青脸肿无法判断是被人殴打致死。</p>
+<p>夜幕丶未央：作为他父母的邻居不能相信。他是公务员，老婆在电视台上班，两人工作稳定。有个六岁的女儿，聪明可爱，老婆现在还怀着二胎。今年买了新房刚装 修好，就离他父母小区二百米距离。生活算得上幸福美满。我家里人跟他爸经常打麻将，说他人孝顺脾气好，家里都是奖状，原来是老师又考上警察，这么优秀会自杀</p>
+<p>hirokawasyunpei：人民日报日人民。好样的</p>
+<p>倪永杭：作为具有巨大公众影响力的媒体，竟如此草率发布未得到证实之消息，实在有支持恶势力猖狂作乱之嫌！@人民日报 事到如今，依然没能给国人一个足以信服的解释，社会黑暗，实在是华夏之悲！！！@平安兴化 呵呵</p>
+<p>中国电信北京分部：@#遇害民警张际勇妻子# 中国电信今天力挺你，不为别的，只为正义，为明天被扔到河里的不会是我们</p>
+<p>恋上夏的味道q：已经被冻结多次账号，还是想帮你顶上去@遇害民警张际勇妻子</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E7%B2%B9%E6%89%93%E5%B1%81%E8%82%A1%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E5%88%91%E7%BD%9A%E5%8F%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87/?category=18271" rel="tag">民警张际勇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E6%83%B6%E6%83%B6%E5%A4%9C%E8%A1%8C%E8%80%85-%E4%B8%BA%E4%BA%86%E4%B8%80%E5%BC%A0%E5%85%A5%E5%9F%8E%E8%AF%81/" target="cdt-mirror">南方周末 | 惶惶夜行者 为了一张入城证</a>
+</h2>
+<p><p><strong>“2010年北京增加的机动车大部分是小汽车，有80万辆。一个小汽车5米，80万辆就是4000公里，这要从北京到香港一个来回。这些车绝大部分在北京城市中心，且没有地方停，相当一部分停在路边。如果还不限制，不要说顺畅的通行，人都没有地方走了。”</strong></p>
+<p><strong>眼看着气氛僵持住，他一句话也说不出来。这时排在他身后的朋友弯下腰，拿起被退回来的证件再次往里递，一边小心地说：“不好意思，我朋友身份证消磁了，这个月底就回老家补办，通融一下，通融一下……”</strong></p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/103232.jpg?resize=660%2C440" alt="103232" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/103232.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/103232.jpg?w=660 660w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"><p>北京，西二环复兴门桥附近的二环主路上，夜间的车辆川流不息。（南方周末记者 张涛/图）</p></div>
+<p>晚上8时45分，燕参观出现在京城南三环外的云彩屋美发店门口。在美发店周边，水果铺、小吃店、烟酒行等一应俱全，不远处还有大红门京深海鲜批发市场，这些地方统统都被外地来京者包揽了。</p>
+<p>在他心里，住在丰台的人比较穷，譬如自己。</p>
+<p>十五分钟前，他刚刚从夜市收摊，匆匆把桌椅工具塞进停在路边的小轿车里。通常，白天他在洋桥的永外城文化用品批发市场打工，五点下班以后，他就转战到附近的四路通夜市给别人贴手机膜。</p>
+<p>这是4月底的一个晚上。华灯初上，洋桥麦当劳前的空地上，广场舞的音乐此起彼伏。有了点年纪的女人们打着兰花指，认真地摆动腰肢。路边的烧烤摊开始释放出孜然的香味。川流不息的车流里，有人拖着疲惫的身体回家，有人兴致勃勃地赶赴饭局，也有情侣去逛街约会。</p>
+<p>像往常一样，燕参观今天又空着肚子出摊了三个多小时，赚了两百多块。按照多年的经验，碰上这样的大风天，晚上九点多他就回家喝酒去了。</p>
+<p>但当晚他更早就收摊了，因为要去40公里外的西集检查站进行一次“短途旅行”，行车路线他早已烂熟于心：从沙子口走蒲黄榆到方庄路，再从方庄东路左拐进入南三环，华威桥右拐，最后从松榆南路直接上京哈高速。</p>
+<p>基本上每隔六天，他都会和不同的“惶惶夜行者”挤在一辆车里，开往同一个地方。</p>
+<p>成本</p>
+<p>等了十多分钟，云彩屋的老板阿华才出来，阿华染着栗色的头发，时尚整洁的发型配着修身小西服和翻毛皮鞋。</p>
+<p>挂着皖SLxxxx的外地车，就停在云彩屋前面的空地上。燕参观惊喜地发现，阿华和自己竟然是老乡——都是安徽人。</p>
+<p>每周，燕参观都要和不同的车主拼车，一起前往六环外的综合检查站，为自己的车办理一张“通行证”。周边一共有24个办理地点，全部都在六环以外。其中白庙综合检查站距离最近。像西集、琉璃河、长沟办理地点距离六环交界处还有二十多公里。</p>
+<p>“通行证”必须要及时更新，否则一旦被摄像头或者交警发现，被罚款100元不说，还会被以“机动车违反禁令标志指示”为由扣3分。“通行证”只有7天的寿命，车主可以去指定地点办理延期，再续命5天。也就是说，最长12天，必须更换一次。实际上，办理延期也是去跑一大圈，大多数车主会直接选择去检查站更换。</p>
+<p>然而即使有了它，每天6点到22点，燕参观的车也不能在二环、长安街以及部分相邻车道行驶。工作日的早7点到9点，下午5点到晚8点，也不能行驶进五环。此外，他的车也要遵循北京市的尾号限行政策，计算下来，每天只有8个小时可以不受任何限制，一周的自由时间总共是48个小时。</p>
+<p>从汽车产业的发展速度看，对外地车牌管控情有可原，因为北京市的交通确实一年比一年拥堵。2011年，北京不得不走上了限购的道路，严格管理小汽车的供求关系。随之而来的，还有对外地车牌更加严格的层层限制。2012年12月，治堵措施再次更新，办理过证件的车辆在早晚高峰时段不能进入五环路。2013年，惩罚举措更加严格，取消长期证件，只办理7天临时证。2014年，对外地牌照车辆限制扩大到六环。</p>
+<p>北京市政协委员、北京交通发展研究中心主任郭继孚对南方周末记者反复强调，治理交通问题，除了要靠发展公共交通，还要坚决对小汽车进行需求管理。用“一推一拉”的方法解决——把人从小汽车里推出来，拉到公共交通上去。</p>
+<p>“基于这样的治理方式，对于外地车量的限制也是必要的，如果不限制外地车辆，就相当于北京限购的政策无法起到作用。”郭继孚说。</p>
+<p>根据规定，只有拥有北京户籍的人员、拥有北京工作居住证和暂住证及社保、个税满5年的人员，才有资格参与北京的汽车摇号。在这座偌大的城市里，不要说社保，大多数像燕参观这样的打工仔，雇主是不会为他们上任何保险的。2015年，为了方便同在北京打拼的家人和自己使用，燕参观用攒了7年的钱终于买下了这辆“现代”牌轿车，他给车挂上了一副安徽车牌。</p>
+<p>为了生计，燕参观在大红门卖过鞋子、卖过台湾手抓饼、也卖过女孩儿用的发饰。如果不是为了要办证，他现在应该坐在夜市的杨树下给别人贴手机膜，或者和两边摆摊的人闲聊。</p>
+<p>燕参观之所以能够跟人拼车去办证，还要感谢一些外地车主建的车友群，他们为了节省成本，时不时相约去京郊。河北车主刘阳甚至注册了微信公号“北京外地车联盟”。刘阳的初衷是给外地车友们提供分享信息的平台，比如发布最新的摄像头分布图，或者分享关于外地车的最新政策，后来有些人开始在群里发起拼车。</p>
+<p>他们每个人心里都算计得清清楚楚，往返将近100公里，加上过路费，如果自己开车去的话，成本要100多块。然而像燕参观与阿华兄弟拼车的话，每人分摊只要20元就够了。</p>
+<p>与燕参观碰上头之后，阿华开车去接哥哥。他的哥哥也经营了一家美发店。等了半个多小时，阿华的哥哥才忙完手里的活计，其间又来了两个车主。</p>
+<p>21时40分，一行五人终于出发了。</p>
+<p>黄牛</p>
+<p>五人到西集检查站的时候，现场并没有多少人。临近23点，检查站三个窗口前，每队只排了三四个人。</p>
+<p>检查站的门口贴着丢失身份证和驾驶证的寻物启事。燕参观开始挨个给朋友们打电话，他突然发现自己没有带身份证，好不容易来一趟，他想无论如何也得把证办了。</p>
+<p>他带了身份证也没有用。西集检查站近日贴出新通知：没带身份证、临时身份证、消磁身份证，都无法办理手续。燕参观的身份证早就消磁了。并且，他的身份证号和户口本上的证件号不一致，补办起来需要开一系列证明，这让他一直没有补办。</p>
+<p>为车辆办理入京的证件，必须提供六种证明材料：本人身份证、驾驶证、行驶证，以及有效的机动车交通事故责任强制保险凭证，有效的机动车安全技术检验合格标志，经本市环境保护主管部门确认车辆符合环保要求的凭证。</p>
+<p>为防止部分人员利用代办等方式非法牟利，官方要求严格内部手续流程的监管，要求办证人身份证、驾驶证统一。</p>
+<p>那天晚上，不走运的还有阿华的哥哥。他先帮朋友代办了证件，才发现同一套身份证和驾驶证只能办理一次手续，反而他自己的没办下来。不甘心无功而返，他还掏出自己另外一张身份证试验，还是没通过。</p>
+<p>“要不找一个需要办证的朋友带自己过来，要不自己开车过来。”燕参观犹豫不决，不论哪一种选择都是再耗费一整个晚上。</p>
+<p>他又给黄牛打电话，看看能不能帮忙办一张。对方说，要办就得包月，一个月200元，出4张。这样算起来，一个晚上的收入就都赔进去了，不划算。</p>
+<p>虽说官方明令禁止，但这一行当的黄牛还是秘密而且迅速地繁衍滋生起来。</p>
+<p>燕参观忙不过来的时候也找过代办。对方骑着摩托车过来，驮着几百张证等着一个个去发放。</p>
+<p>河北车主石瑞本来是拒绝代办的，因为原本办证就是免费的，但2014年下半年开始，排队的人越来越多，队形也呈S形发展。他算好时间赶到周末去办，必须得早晨六七点出门，那样也要排一个小时。</p>
+<p>“我认了，70块就70块。”这是单次的价格，石瑞为了节省时间和精力，还是代办了大半年。后来查得严了，代办的价格也一路飙升，涨到130元一次的时候，石瑞放弃了。</p>
+<p>很多车主抱怨，为何不能在网上办理手续，而必须每周跑一趟五环外。对此，官方一直没有明确的解释。</p>
+<p>在北京市政协委员、北京市交通发展研究中心主任郭继孚看来，这样的政策虽有待商榷，但限行、限外的行政性措施也是无可奈何之举，“如果北京仅限购，不限制外地车，就没有用了。”</p>
+<p>曾经在北京交通发展研究中心任职十年、现任清华同衡技术创新中心副总工程师的高永发现，在限购之后，北京五环外有大量的人购买河北车牌。“这种方式其实是一部分折抵了我们限购的效果。如果再不加以控制，就会造成更多的人买外地的车牌。”</p>
+<p>根据《北京晚报》2013年7月的报道，三河、霸州、香河、涿州等地已经形成了给北京车主上外地牌照的产业链。其中，与天安门直线距离65公里的河北省涿州市成了北京车主办理外地牌照的首选。</p>
+<p>这些开着外地车牌的在京务工者，也时常遭到北京人的吐槽。在微信公号里，经常有北京人给刘阳留言：“北京的拥堵都是外地车造成的，外地车滚出北京去。”</p>
+<p>在这时候，刘阳选择默默把他们加入黑名单，从不回复。</p>
+<p>治标</p>
+<p>刘阳经常会碰到这样尴尬的场景。车全停在红绿灯前面，眼瞅着警察绕了两辆车冲自己过来了，说，“证件看一下。”两边京牌的车都停着没事，车主们摇下车窗来围观自己，让他觉得很挂不住面儿。</p>
+<p>“看见外地车牌，交警会从老远伸着脖子张望。他看见你有证会失落一下，然后又会想有没有过期，他就会拦下你。到后来我就在车里指那个日期给他。他的表情一瞬间就很无奈，摆摆手，让我走了。”刘阳告诉南方周末记者。</p>
+<p>有时候，石瑞想找一天开着车满京城跑，哪有交警往哪跑，只是为了证明：“我是良民，合法进到北京的，而不是过街老鼠，偷偷摸摸进来的。”</p>
+<p>如今，石瑞改开妻子的京牌车了，妻子乘地铁，原先的外地牌车被他们丢在楼底下晒太阳。于是，石瑞有了完全不一样的感觉。不久前，一辆衡水的车剐蹭了他的京牌车，交警半小时出警，跟他和颜悦色地介绍处理办法。他建议石瑞私了，因为对方是外地牌，很可能不经常在北京。</p>
+<p>站在立交桥上，他想起以前开外地牌出的一次事故。同样是别人剐蹭他的车，或许因为自己是外地牌，对方是京牌，交警过了两个小时才出现。出现之后，先查他本人和车辆的所有证件，之后才开始处理交通事故。</p>
+<p>有人质疑过这项政策。律师王秋实在2014年初买了一辆山西牌照的车，他认为，这项政策作为六部委联合下发的公告，并没有支持它的相关法律条文。王秋实申请过政府信息公开，北京交管局的回复是：这项规定是非行政许可的行政审批。之后，王秋实又发起千人联名倡议信，寄到国务院法制办。</p>
+<p>千人中有几百位是北京人。很多人摇不到号，只能选择外地牌照。其中，让他记忆深刻的是一个自闭症儿童的家庭。他们住在东四附近，孩子出门没法坐公交或出租车，因为在陌生的环境会抓人、咬人，甚至踢打。他们必须买一辆车，摇不到号，不得已买了一个河北牌照。政策出台以后，孩子上学、医疗的需要还是无法满足。</p>
+<p>政府当然有限购的充分理由。作为北京市限购政策的具体推动者之一，郭继孚记得曾经有香港媒体问过他：为什么要从2011年开始采取限购这样一个政策？</p>
+<p>郭继孚给出了一个现实数据：“2010年北京增加的机动车大部分是小汽车，有80万辆。一个小汽车5米，80万辆就是4000公里，这要从北京到香港一个来回。这些车绝大部分在北京城市中心，且没有地方停，相当一部分停在路边。如果还不限制，不要说顺畅的通行，人都没有地方走了。”</p>
+<p>“现在的限购、限行是中国特色，在国外没有这样的先例。”郭继孚说，“我们也很清楚，目前这些限制措施只是治标的手段，但治标是为了给治本赢得时间。”</p>
+<p>通融</p>
+<p>4月26日晚，北京已逐渐能嗅到夏天的气息。杨树下，一对本地夫妻身穿睡衣，推着婴儿车遛弯儿。燕参观刚刚给他们留了电话和微信，约好明天再给他们贴膜。</p>
+<p>由于前一次没有办成证件，今晚他不得不再去一趟。还是差不多21时，燕参观坐在朋友的车里，再次上路了。今晚他要去榆垡检查站，靠近河北固安。</p>
+<p>相比西集和白庙，榆垡检查站要破败得多。没有办证大厅，只简单搭了个棚子，只开放两个办事窗口。虽然没有白庙的人多，等待的时间却更加漫长。</p>
+<p>在队伍周围，有卖煎饼、手抓饼、烤冷面和各种饮料的，还有卖盗版光碟的。那天晚上等了1个小时左右，才轮到燕参观。</p>
+<p>担心自己的身份证办不了，他还带了哥哥的一套证件。但在下一个就轮到自己的时候，他还抱有一丝侥幸，突然开口问窗口办证人员：“消磁的身份证能办吗？”</p>
+<p>“不能。”回答迅速、明确。</p>
+<p>当燕参观把哥哥的一套证件递给工作人员之后，对方很警惕地从窗口里侧扬起头看看他，又看看手中的证件，高扬声调：“这是你吗？”</p>
+<p>“是，怎么不是啊。”没办法，他只能硬着头皮抗。</p>
+<p>“背一下身份证号，生日是什么时候？”</p>
+<p>燕参观支支吾吾地无法回答，对方白了他一眼，很不客气地说：“行了，该回哪回哪吧！”</p>
+<p>眼看着气氛僵持住，他一句话也说不出来。这时排在他身后的朋友弯下腰，拿起被退回来的证件再次往里递，一边小心地说：“不好意思，我朋友身份证消磁了，这个月底就回老家补办，通融一下，通融一下……”</p>
+<p>好说歹说，办事员终于再次接下了证件，甩了一句：“就不该给你办！”</p>
+<p>在旁边又等了三四个人，燕参观的证才出来，随后又让他做了一下登记，才算完。其间他一直低着头，拥挤的队伍不断从他身边擦身而过，看不清他的表情。当他收起自己的证件，抬起头的一瞬间，眼圈是红的。</p>
+<p>凌晨时分，他们终于回到洋桥，这时燕参观才发现，刚刚在办证时攥栏杆攥得太紧，右手掌心被上面的钉子磨破了皮。为了缓解一下疲劳的神经，他和朋友又在路边的烧烤摊喝了两瓶燕京啤酒，才回去睡觉。</p>
+<p>第二天晚上，燕参观摆摊给人贴膜时，那张证还没来得及放进车里，它就在他上衣贴身的内侧口袋里。还有6天，它就又变成废纸一张了。</p>
+<p><span>（应采访者要求，阿华、刘阳为化名）</span></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E6%83%B6%E6%83%B6%E5%A4%9C%E8%A1%8C%E8%80%85-%E4%B8%BA%E4%BA%86%E4%B8%80%E5%BC%A0%E5%85%A5%E5%9F%8E%E8%AF%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E4%BA%A4%E9%80%9A/?category=18271" rel="tag">北京交通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE/?category=18271" rel="tag">开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%A5%E5%A0%B5/?category=18271" rel="tag">拥堵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%82%E4%BD%8F%E8%AF%81/?category=18271" rel="tag">暂住证</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%8C%E7%85%A7/?category=18271" rel="tag">牌照</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E6%8E%A7/?category=18271" rel="tag">管控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E5%AE%A1%E6%89%B9/?category=18271" rel="tag">行政审批</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E8%B4%B9/?category=18271" rel="tag">路费</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%90%E8%B4%AD/?category=18271" rel="tag">限购</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%90%E8%B4%AD%E6%94%BF%E7%AD%96/?category=18271" rel="tag">限购政策</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%99%BE%E7%A7%91%E5%90%9B-%E3%80%8A%E9%B2%81%E6%8F%90%E8%BE%96%E6%8B%B3%E6%89%93%E9%95%87%E5%85%B3%E8%A5%BF%E3%80%8B%E8%A2%AB%E6%95%99%E6%9D%90%E6%8B%BF%E6%8E%89-%E5%8E%9F%E6%9D%A5%E6%98%AF/" target="cdt-mirror">百科君 | 《鲁提辖拳打镇关西》被教材拿掉 原来是因为这个</a>
+</h2>
+<p><p>据媒体报道，中小学教材更换40%课文，其中《鲁提辖拳打镇关西》由于与现代和谐社会导向不符，被换为《智取生辰纲》。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14dwOr.jpg?resize=600%2C400" alt="拳打镇关西" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14dwOr.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14dwOr.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><strong>背景新闻：</strong><a href="http://news.cjn.cn/gnxw/201605/t2828496.htm">北京晚报 | 中小学教材更换40%课文：《鲁提辖拳打镇关西》被换掉</a></p>
+<p>百科君（微信号：newspedia）首先要发扬党的优良作风，进行严厉的自我批评。作为一枚《水浒传》资深骨灰粉，竟然愚昧到喜欢号称“侠之大者”的鲁智深，没有认清鲁智深“侠”的本质不是无产阶级的“侠”，没有政治敏感度，没有紧跟和谐社会步伐。感谢中小学教材，给了百科君正确的、积极向上的政治观，百科君痛定思痛，昨晚彻夜重读了《水浒传》鲁智深篇幅，深感有责任将鲁智深所犯滔天大罪一一昭示天下。</p>
+<p>首先，百科君要深切剖析一下《鲁提辖拳打镇关西》为何与现代和谐社会导向不符，其主要原因如下：</p>
+<p>1.听闻金老父女遭遇后，鲁智深没有向金翠莲指出当今社会“笑贫不笑娼”，没有苦口婆心的劝导“有些动人的颜色”的金翠莲走官员情妇的飞黄腾达之路。</p>
+<p>2.鲁智深身为一名中高层军官，不知道充分利用军官的权力来解决人民群众内部矛盾，反倒靠武力处理问题，方式方法严重欠妥。</p>
+<p>3.鲁智深斗殴导致“两边过路的人都立住了脚”，制造了群体性事件。</p>
+<p>4.鲁智深当街杀人，破坏了“平安渭州”的伟大形象。</p>
+<p>5.打死民营企业家“此间有个财主，叫做镇关西郑大官人”，严重影响了渭州的经济发展。</p>
+<p>插播一则最新消息，据路边社报道，事发后，“平安渭州”吸取经验教训，向“平安昌平”取经后，于次日微博通报，“镇关西郑大官人”死于心脏病突发。</p>
+<p>其次，百科君（微信号：newspedia）彻夜重读《水浒传》鲁智深篇幅后，还发现鲁智深犯下了如下几个重要的罪行：</p>
+<p>1.鲁智深大闹五台山时，不仅破坏了宗教文物，还两次聚众斗殴，制造了数起群体性事件。</p>
+<p>2.花和尚大闹桃花村回目中，鲁智深在新娘房中“脱得赤条条地”，有伤风化；其后再次使用暴力，痛打前来迎亲的“小霸王”周通，破坏了他人美满的婚姻。鲁智深还结交了犯有颠覆国家政权罪的落草为寇的“打虎将”李忠，并在桃花山时盗窃财物，且未阻止李忠、周通二人“明日下山，但得多少，尽送与哥哥作路费”犯下抢劫罪。</p>
+<p>3.鲁智深火烧瓦官寺回目中，与从犯“九纹龙”史进一起杀死二人后，再次逃逸，并烧坏文物瓦官寺。</p>
+<p>4.大闹野猪林救林冲时意图杀人未果；其后一路护送林冲至沧州，严重影响了“防送公人”董超、薛霸的合理执法。</p>
+<p>5.与“青面兽”杨志、“行者”武松一起落草为寇、占山为王，犯有颠覆国家政权罪。</p>
+<p>6.又与前来收剿的“双鞭”呼延灼官军对抗，杀害了国家军官军人。</p>
+<p>7.宋江安排大筵席，宣布招安策略后，鲁智深与“行者”武松、“黑旋风”李逵等一起反对招安，妄议中央。</p>
+<p>8.在梁山期间，再次与国家领导人童贯、高俅等率领的官军对抗，杀害国家军官军人。</p>
+<p>总而言之，言而总之，何止与和谐社会导向不符，鲁智深简直犯了滔天大罪！</p>
+<hr><p>百科君还留意到，针对此次中小学教材课文调整，语文出版社社长王旭明称：</p>
+<blockquote><p>首先，一些优秀的传统篇目得到了保留。比如，保留了体现爱国主义和革命传统教育的篇目《朱德的扁担》等。“对于一年级的孩子们，我们有责任和义务让他们知道，今天的幸福生活来之不易。”</p></blockquote>
+<p>百科君只想了解一个问题：这根扁担到底是谁的，到底是教科书在撒谎，还是《看历史》下文在制造谣言：</p>
+<blockquote><p>1950年代初期，一篇颂扬朱德艰苦朴素精神的文章——《朱德的扁担》被编入了小学教材。然而，在十多年之后的1967年2月，学生们过完寒假回到学校后发现，同样一篇课文，已经换成了《林彪的扁担》。无数的“红小兵”们又开始在这篇课文中学习林彪的艰苦朴素的精神。</p>
+<p>仅仅数年之后，林彪事件发生，教材又悄然换回了《朱德的扁担》。一根扁担，就这样随着政治风云变幻而不断发生换位。</p></blockquote>
+<p>呵呵！呵呵！呵呵！重要的“呵呵”要说三遍！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%99%BE%E7%A7%91%E5%90%9B-%E3%80%8A%E9%B2%81%E6%8F%90%E8%BE%96%E6%8B%B3%E6%89%93%E9%95%87%E5%85%B3%E8%A5%BF%E3%80%8B%E8%A2%AB%E6%95%99%E6%9D%90%E6%8B%BF%E6%8E%89-%E5%8E%9F%E6%9D%A5%E6%98%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%B0%8F%E5%AD%A6/?category=18271" rel="tag">中小学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E5%AD%A6%E6%95%99%E6%9D%90/?category=18271" rel="tag">小学教材</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%8F%E6%84%9F/?category=18271" rel="tag">政治敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E7%A7%91%E4%B9%A6/?category=18271" rel="tag">教科书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B4%E6%B5%92%E4%BC%A0/?category=18271" rel="tag">水浒传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BD%93%E6%80%A7%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">群体性事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B9%94%E6%9C%A8%EF%BC%9A%E5%8D%8A%E5%A4%9C%E5%8F%91%E4%B8%80%E6%96%87%E5%B0%B1%E8%83%BD%E8%B6%9F%E8%BF%87%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4%E7%9A%84%E5%9D%8E%EF%BC%9F/" target="cdt-mirror">乔木：半夜发一文就能趟过文革50周年的坎？</a>
 </h2>
 <p><p>5月16日是「文革」爆发50周年纪念日。当天中国社交媒体上关於文革的讨论，就我的个人体验和视野所见，悉数被删除或屏蔽。与此同时，被官方直接掌控的所有报刊和广播电视等传统媒体，也没有任何关於文革的言论，显然是受到了统一的管制。</p>
@@ -624,111 +781,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%A6%96%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E5%A5%B3%E5%A3%AB%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/" target="cdt-mirror">【异闻观止】首都大学生致蔡英文女士的一封信</a>
-</h2>
-<p><p>5月20日，蔡英文将就职台湾地区领导人，北京一些大学生在网上发出一封公开信，呼吁台湾地区新任领导人不要让两岸青年的心越走越远。   来源：中华全国学联微信公号</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20160519153027_0c145e66fe3078682da10cabe461e368_1.jpeg?resize=435%2C640" alt="20160519153027_0c145e66fe3078682da10cabe461e368_1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20160519153027_0c145e66fe3078682da10cabe461e368_1.jpeg?resize=204%2C300 204w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/20160519153027_0c145e66fe3078682da10cabe461e368_1.jpeg?w=435 435w" sizes="(max-width: 435px) 100vw, 435px" data-recalc-dims="1"></p>
-<p>台湾地区嗣领导人蔡英文女士敬启：</p>
-<p>在这封公开信的开头，我们首先代表首都高校的莘莘学子，向即将在台北就职的您表示祝贺。</p>
-<p>这一祝贺，既是祝贺您即将正式就任台湾地区领导人，并与您领导的政党在未来几年内执掌台湾的印信；更是要祝贺您正拥有着决定下一代台湾青年命运的权力。</p>
-<p>我们是在首都北京求学的中国青年，而海峡对岸的、与我们年龄相仿的一群人，是生长在台湾的中国青年，是同样夙兴韬奋的青年。在日益复杂的国际局势和两岸同样迅速、深刻地变化着的社会中，我们将面对同样的挑战和风浪，也终将铸就属于我们的时代，写下我们的历史篇章。因此，今天的青年正是明日的历史，而今天青年的命运，正是两岸未来的命运。我们的这封信，正是想与您浅薄明白地探讨两岸青年的未来。</p>
-<p>朱子云，“将心比心，如此则各得其平矣”，我们不妨从换位思考开始。过去的四十年，大陆通过改革开放获得了令世人瞩目的发展成就，跃升全球第二大经济体。为促进双方发展，两岸开始在经济等领域进行合作，台湾对陆贸易占总贸易额更近四成。但也就是在两岸合作日益密切、经济文化交流日益深入的同时，作为青年的我们，设身处地地发现了台湾青年的忧虑。这份忧虑，来自两岸经济体量的巨大悬殊，来自对所谓文化同化与入侵的忧虑，来自对固有生活模式恐将变易的不安。我们隐然猜测，就是在这样的情绪中，两岸青年的心越走越远。</p>
-<p>其实，这种不安，既是当代台湾青年的不安，也是随着大陆的崛起而成长起来的您的不安——毕竟您也曾是热血沸腾的青年，是读着“毋忘在莒”长大的学子，是攻研法学的年轻人。</p>
-<p>但台湾青年，真的有必要筑起这样一道高墙吗？</p>
-<p>也许是时候放下这种零和博弈的思想，放下这种小大之辩的恶习。并非一切庞大的东西都像童话书中的恶龙，要吞没静谧的村庄。大陆近年来取得了长足的发展，却诚然是建立在互助与和平的基础上的，我们只是凭借自己的一双手、一颗心，凭着中国人那股子最传统的精气神，面朝黄土背朝天地干出了踏实诚恳的事业。我们尊重他国的文化和艺术，尊重对方的思想和生活，更何况对岸的、打断骨头连着筋的台湾同胞！当一群青年试着向另一群青年伸出友好的双手，我们期待的只是友好的回应。<br>
-这就是北京青年想到的台湾，想到的那些支持您的淳朴的台湾青年。他们的投票与信任是对您振兴台湾的期待，期待您给他们带来更好的生活环境，而绝不是支持您与大陆割席而居的推手。刚刚我们说到将心比心，那么请您和台湾青年，不妨也来替大陆的青年想一想吧。</p>
-<p>还记得日前《人民日报》的一篇社论，大意是“蔡英文承认九二共识是两岸关系的基石和底线”，此言不虚；它同时也是首都大学生和大陆所有莘莘学子的底线，是大陆十三亿生民的底线。因为九二共识的核心就是一个中国，它代表着一个亘古不变的真理，那就是在这片孕育了黄皮肤黑眼睛的中国人的古老的土地上，无论两岸做出怎样的口头表述，都只能有一个中国，而不是两个独立的、哪怕亲如一家的主权国家。</p>
-<p>当七十年前的一代人随着“蒋公”撤往台湾，他们和他们的后人都只看到了建设台澎金马的不易，感念“美台协防”的法案，却对对岸人民的辛劳几无所知。我们多么希望，您和全体的台湾青年，能够理解这片多灾多难的国土上所生养的中国人民，在经受了一百五十年的入侵和割裂之苦后，对民族复兴、国家统一的不可阻挠的期盼！</p>
-<p>顾炎武曾言，“国家兴亡，匹夫有责”，殊不知国家兴亡，最是青年有责。青年，是最有理想、最有力量的一个群体，却因为资历的不足，无力客观系统地表达自己的见解，无力决定自己的命运。但当大陆的一代青年人在中国梦的指引下，大胆向岛另一侧的世界微笑挥手的时候——蔡女士，您的肩上便已多了这份沉甸的责任。是时候直面大陆青年不容动摇的底线，回首台湾青年渴望发展的诉求。也许您会选择一种矫揉的说法在明天谈及或淡化九二共识，又也许您会采取熟络的政治文书来满足各方的高见；但我们期望，您终究不会选择回避“一个中国”的事实。</p>
-<p>当大陆在过去的岁月里不断释出丰厚的善意，当大陆的青年在未来的日子里将愈加平等地理解台湾的文化，当日历簿在初夏的风中向着五月二十号迈进，历史的皮球也即将传到您的脚下。从破冰之旅到习马会；过去的台湾当局所留下的政治遗产并非沙上之塔，两岸共同铸就的和谐的局面决非唾手可得。我们也期待您能够为台湾的下一代青年带来稳定的发展环境，拓展宽裕的生存空间；为他们打开与大陆青年互动互信的未来之门。</p>
-<p>这道门的钥匙，现在就卷藏在您就职典礼演说的最里层——文舒锁钥现，且行且珍惜。</p>
-<p>此致<br>
-敬礼！</p>
-<p>北京化工大学 刘一君</p>
-<p>北京林业大学 李嘉译</p>
-<p>华北电力大学 朱健斌</p>
-<p>北京大学 石爽爽</p>
-<p>清华大学 刘书田</p>
-<p>中国人民大学 唐塘</p>
-<p>北京师范大学 钟明浩</p>
-<p>北京建筑大学 高源</p>
-<p>中央民族大学 任静</p>
-<p>北京第二外国语学院 黄从浩</p>
-<p>北京工商大学 马菊生</p>
-<p>北京科技大学 陈鑫兰</p>
-<p>中央民族大学 黄曦</p>
-<p>防灾科技学院 吴遂心</p>
-<p>首都经济贸易大学 刘涛</p>
-<p>北京林业大学 王一哲</p>
-<p>国际关系学院 黄万霖</p>
-<p>中国传媒大学 常顼雯</p>
-<p>北京邮电大学 杨昊</p>
-<p>中国人民公安大学 何杨杨</p>
-<p>中国人民公安大学 王泽宇</p>
-<p>北京交通大学 靳扬</p>
-<p>中国传媒大学 许嘉博</p>
-<p>中国农业大学 丁艺</p>
-<p>华北科技学院 李春洋</p>
-<p>中国政法大学 陈慕寒</p>
-<p>中国石油大学 张董莹</p>
-<p>北京信息科技大学 陈一鸣</p>
-<p>北京理工大学 邓雨轩</p>
-<p>2016年5月19日</p>
-<p>相关阅读：</p>
-<p><a title="【CDTV】蔡英文就职演说视频" href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E8%A7%86%E9%A2%91/">【CDTV】蔡英文就职演说视频</a></p>
-<p><a title="【真理部】蔡英文就职报道" href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-8/">【真理部】蔡英文就职报道</a></p>
-<p><a title="联合早报 | 台湾总统蔡英文520就职演说全文" href="https://chinadigitaltimes.net/chinese/2016/05/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5-%E8%94%A1%E8%8B%B1%E6%96%87520%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4%E5%85%A8%E6%96%87/">联合早报 | 台湾总统蔡英文520就职演说全文</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E9%A6%96%E9%83%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E5%A5%B3%E5%A3%AB%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8/?category=18271" rel="tag">两岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89/?category=18271" rel="tag">公平正义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE2016%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾2016大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF%E4%BD%93%E5%88%B6/?category=18271" rel="tag">宪政体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4/?category=18271" rel="tag">就职演说</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%85%9A/?category=18271" rel="tag">执政党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88/?category=18271" rel="tag">改革方案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%90%8C%E5%AD%98%E5%BC%82/?category=18271" rel="tag">求同存异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E7%BB%93%E6%9E%84/?category=18271" rel="tag">经济结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E5%9C%A8%E7%9F%A5%E4%B9%8E%E7%9A%84%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%88%A0%E9%99%A4/" target="cdt-mirror">奇客资讯 | 美国驻华使馆在知乎的账号被删除</a>
-</h2>
-<p><p>美国驻华使馆的外交官在中国的问答网站知乎上注册账号回答网友的提问，结果被中国政府视为是“<a href="https://mp.weixin.qq.com/s?__biz=MzA3NTE5MzQzMA==&mid=2654949237&idx=3&sn=6f0ce3a7b61b65b3fc3b656f518882ee&scene=2&srcid=0517U1SD2EBl5CH9SDW1KNYw&from=timeline&isappinstalled=0#wechat_redirect" target="_blank"><u>舆论战</u></a>”，似乎这群美国人想通过中国社交网站阴谋颠覆中国，仿佛防火长城还做的不够彻底。为了避免不懂事的中国网民被美国外交官传播的西方价值所吸引，相关问题以及美国大使馆的账号<a href="https://webcache.googleusercontent.com/search?q=cache:xkkI6f6IvqwJ:https://www.zhihu.com/roundtable/usa%3Futm_campaign%3Dofficial_account%26amp%3Butm_source%3Dwexin%26amp%3Butm_medium%3Dzhihu%26amp%3Butm_content%3Droundtable+&cd=5&hl=en&ct=clnk&gl=us" target="_blank"><u>全部被删除（Google快照）</u></a>。美国驻北京使馆发言人Benjamin Weber<a href="http://blogs.wsj.com/chinarealtime/2016/05/20/not-so-soft-spot-u-s-embassy-qa-scrubbed-from-chinese-social-media-site/" target="_blank"><u>确认了这一消息</u></a>，对中国政府的做法表达了失望。知乎则拒绝对此发表评论。四位公共事务、教育和领事处的外交官的账号，以及两位参与问答的教授的账号被删除。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E5%9C%A8%E7%9F%A5%E4%B9%8E%E7%9A%84%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%88%A0%E9%99%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">中国政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/?category=18271" rel="tag">公共事务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A0%E9%99%A4/?category=18271" rel="tag">删除</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%BD%BF%E9%A6%86/?category=18271" rel="tag">大使馆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E4%B9%8E/?category=18271" rel="tag">知乎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%AB%99/?category=18271" rel="tag">社交网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA/?category=18271" rel="tag">舆论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E7%AE%A1%E5%AE%83%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E9%80%9A%E7%A8%BF%E8%AF%B4%E6%98%AF%E9%B9%BF%E6%88%91%E4%BB%AC%E5%86%B3%E4%B8%8D%E8%AF%B4%E6%98%AF%E9%A9%AC/" target="cdt-mirror">【网络民议】不管它是什么，通稿说是鹿我们决不说是马</a>
-</h2>
-<p><p><strong>【编者注】截至发稿时，这则曾有4千多条评论和2千多次转发的热门微博已遭删除。</strong></p>
-<blockquote><p><a href="http://weibo.com/renminwang" target="_blank">@人民网</a> ：#保护方言#在你们那，这叫什么？<img title="[馋嘴]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a5/cza_org.gif" alt="[馋嘴]" data-recalc-dims="1"></p></blockquote>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%BA%E6%B0%91%E7%BD%91-1.jpg" rel="attachment wp-att-438521"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%BA%E6%B0%91%E7%BD%91-1.jpg?resize=525%2C430" alt="人民网" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网-1.jpg?resize=300%2C246 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网-1.jpg?resize=768%2C629 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网-1.jpg?resize=1024%2C839 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/人民网-1.jpg?w=2410 2410w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>人民网官方微博内容网页截屏；来自中国数字时代</span></p></div>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/vipskaterboy" target="_blank">@老铁匠的洋葱</a>：枪杆子<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/luochangping" target="_blank">@罗昌平</a> ：坐等通稿。</p>
-<p><a href="http://weibo.com/n/%E4%B8%8A%E8%A1%97%E9%87%8C?from=feed&loc=at" target="_blank">@上街里</a>:不知道，一切以新华社通稿为准<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/n/%E8%80%81%E5%A4%AB%E5%AE%8B%E7%A5%96%E6%B3%95?from=feed&loc=at" target="_blank">@老夫宋祖法</a>:不管它是什么，你说是鹿，我们决不说是马。</p>
-<p><strong>@rzluhai：我是权威人士，这叫竹鞭（主编）</strong></p>
-<p><a href="http://weibo.com/n/%E5%B9%BF%E5%B7%9E%E5%9F%8E%E5%A0%A1%E5%A0%A1%E4%B8%BB?from=feed&loc=at" target="_blank">@广州城堡堡主</a>:领导说叫什么就是什么<img title="[闭嘴]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif" alt="[闭嘴]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2471169362" target="_blank">@yue出dong山</a><i></i>：人日御用：谣棍～<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/n/%E5%8C%97%E9%A9%AC%E5%8D%97%E5%B1%B1?from=feed&loc=at" target="_blank">@北马南山</a>:不信谣，不传谣。<img title="[闭嘴]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif" alt="[闭嘴]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/paocaitan" target="_blank">@泡菜谭</a><i title="微博个人认证 "></i>：不敢说，会被删帖抓人</p>
-<p>@林奇视角：这不会是引蛇出洞吧</p>
-<p>@凄风苦雨话中国：党说啥是啥</p>
-<p>@张洲：这东西在我们那叫“党和政府无微不至的关怀”。</p>
-<p><strong>@我是回复王：你都说叫什么了，这东西就叫什么，不敢妄议</strong></p>
-<p><a href="http://weibo.com/2850664863" target="_blank">@熊眼会说话</a>：这届人民觉悟了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p>@踩不死的青蛙：图片评论<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65c33d66gw1f42yxzz65qj20ku112ae4.jpg" rel="attachment wp-att-438524"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/65c33d66gw1f42yxzz65qj20ku112ae4.jpg?resize=325%2C578" alt="65c33d66gw1f42yxzz65qj20ku112ae4" data-recalc-dims="1"></a></p>
-<p><strong>附：中国数字时代编辑保存的微博转发页截屏</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%BF%99%E5%8F%AB%E4%BB%80%E4%B9%88%EF%BC%9F.png" rel="attachment wp-att-438519"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%BF%99%E5%8F%AB%E4%BB%80%E4%B9%88%EF%BC%9F.png?resize=500%2C2877" alt="这叫什么？" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/这叫什么？.png?resize=178%2C1024 178w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/这叫什么？.png?w=603 603w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%BF%99%E6%98%AF%E5%9C%A8%E6%90%9E%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%90%97/" target="_blank">【网络民议】党这是在搞社会调查吗</a></p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%8D%E7%AE%A1%E5%AE%83%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E9%80%9A%E7%A8%BF%E8%AF%B4%E6%98%AF%E9%B9%BF%E6%88%91%E4%BB%AC%E5%86%B3%E4%B8%8D%E8%AF%B4%E6%98%AF%E9%A9%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE%E9%80%9A%E7%A8%BF/?category=18271" rel="tag">新华社通稿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E4%BA%BA%E6%B0%91%E6%8A%A5/?category=18271" rel="tag">日人民报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -740,7 +792,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -750,5 +802,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

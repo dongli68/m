@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E8%80%83%E5%87%8F%E6%8B%9B%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5-%E5%A4%9A%E5%9C%B0%E5%AE%B6%E9%95%BF%E4%B8%8A%E8%A1%97%E6%8A%97/" target="cdt-mirror">自由亚洲｜高考“减招”持续发酵 多地家长上街抗议</a>
@@ -49,7 +49,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%B8%8A%E5%B9%BF%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C/?category=18271" rel="tag">北上广‌‌‌‌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E7%B1%8D%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">户籍制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">教育公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F%E5%87%8F%E6%8B%9B/?category=18271" rel="tag">江苏减招</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83%E5%87%8F%E6%8B%9B/?category=18271" rel="tag">高考减招</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%82%A3%E4%BD%8D%E5%9B%A0%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%E4%B8%A2%E4%BA%86%E9%A5%AD%E7%A2%97%E7%9A%84%E8%80%81%E8%AE%B0%E8%80%85%E5%9C%A8%E5%9B%B0%E7%AA%98%E5%92%8C%E6%B2%89%E9%BB%98%E4%B8%AD/" target="cdt-mirror">石扉客：那位因一张照片丢了饭碗的老记者在困窘和沉默中走了</a>
 </h2>
@@ -127,7 +127,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%B8%8A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%AE%B0%E8%80%85/?category=18271" rel="tag">新闻记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%AE%BA%E4%BA%8C%E5%A9%9A%E5%AF%B9%E6%9F%90%E4%BA%BA%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%BD%B1%E5%93%8D/" target="cdt-mirror">【网络民议】论二婚对某人政治风格的影响</a>
 </h2>
@@ -892,7 +892,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -902,5 +902,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

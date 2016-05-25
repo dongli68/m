@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AF%9B%E5%B7%A6%E5%9C%A8%E6%B8%AF%E6%B4%BB%E8%B7%83-%E6%B8%AF%E4%BA%BA%E5%BF%A7%E8%A2%AB%E6%9F%93%E7%BA%A2/" target="cdt-mirror">美国之音 | 毛左在港活跃 港人忧被染红</a>
+</h2>
+<p><p>作者：谭嘉琪</p>
+<p>香港—在中国被斥为“十年浩劫”的文革发动50周年之际，香港左派3年前成立的“毛泽东思想学会”在香港九龙城设立会址，并举办游行公开宣扬毛泽东的思想，令许多港人担心“二次文革”的出现。</p>
+<p> 在香港九龙城衙前塱道与衙前围道交界，街坊邻里都察觉到几块写著“中国共产党万岁”、“只有社会主义能够救中国”等字眼的鲜红色牌匾。不少路过的人都带著疑惑的眼光抬头看个究竟。</p>
+<p> 九龙城街坊林先生说：“我在九龙城住了40年左右吧，从来没有像现在那样感觉到有政治入侵的感觉，可能现在香港是在太乱了，可能关于共产的意识开始侵入民间。”</p>
+<p>“香港毛泽东思想学会”4月底完成了他们新会址的外墙装修后，举办了一连串活动，包括邀请中国多个省份的毛粉来港参与研讨会和聚餐，又高举红旗围绕九龙城举行街头游行，庆祝文革发动50周年。这是香港回归后首次出现公开悼念毛泽东和文化大革命的活动。</p>
+<p>毛粉的活跃让部分港人感到忧虑香港会被染红。香港时事评论员程翔表示，自从习近平上台后，内地已经出现“亚文革”的现象，意思是很多中国政府的做法跟文革当时的情况类似，如中央极权、搞个人崇拜等。而这些情况在某些程度上的恢复，引起大家担心文革会不会复辟。他认为，这个学会对香港的影响应该不会太大，但背后中国政府所推动的“亚文革”情况就会有影响。</p>
+<p> 香港时事评论员程翔表示：“显然香港的毛左是受国内的毛左重新活跃起来这个有关系的，所以可以直接把香港这个团体一直追踪到中国毛左的活跃。而中国毛左的活跃就跟习近平的‘两个30年不互相否定’这个定性有关。”</p>
+<p> 习近平上台后不到一年，2013年提出不能够以改革开放后的历史来否定前30年的历史。而程翔认为，这句话改变了中国共产党1981年有关建国以来若干历史问题决议的性质。</p>
+<p> 程翔认为，目前香港年轻人很厌恶和讨厌有关文革的东西，甚至想远离中国，因此毛左思想的抬头不会影响香港年轻人的思想。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AF%9B%E5%B7%A6%E5%9C%A8%E6%B8%AF%E6%B4%BB%E8%B7%83-%E6%B8%AF%E4%BA%BA%E5%BF%A7%E8%A2%AB%E6%9F%93%E7%BA%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">中国香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6%E6%B4%BE/?category=18271" rel="tag">毛左派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/" target="cdt-mirror">【异闻观止】新华社 | 单身导致蔡英文政治风格偏向极端化</a>
+</h2>
+<p><p>原标题：起底蔡英文</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?resize=450%2C271" alt="5月18日，一些台湾民众在台北举行集会，他们手持“九二共识”牌匾，警告蔡英文勿破坏两岸和平。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?resize=300%2C181 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>5月18日，一些台湾民众在台北举行集会，他们手持“九二共识”牌匾，警告蔡英文勿破坏两岸和平。</p></div>
+<blockquote><p><strong>编辑注：本文目前已在新华网本站删除 -2016.5.25 8时（北京时间）</strong></p></blockquote>
+<p>【作者】王卫星（海峡两岸关系协会理事、军事科学院外军研究部部长）</p>
+<p>《国际先驱导报》文章2016年5月20日，在台湾地区领导人选举中获胜的蔡英文，即将成为首位女性最高领导人。她是一个在变态的台湾社会与政治生态环境中成长起来的复杂人。从上世纪九十年代以后，蔡英文从一名大学教授投身政治，亲身参与了台湾几个重要历史性阶段：在1990年到2002年台湾加入WTO过程中，担任谈判总顾问；在1990年代后期到2015年两岸关系的几次巨变过程中，先后担任台湾“国安会”咨询委员会、“陆委会”主委、民进党主席；在2000年民进党执政到2008年台湾二次政党轮替、2016年民进党再次执政过程中，均扮演着重要角色。</p>
+<p>蔡英文不仅是李登辉时期“两国论”的重要策划者，也是陈水扁时期强烈阻挠两岸关系改善的“幕后黑手”，更是国民党执政8年中诸多“暴力事件”的策划者。由此可见，我们即将面对的是一个坚决反对“一中原则”、拒不承认“九二共识”的民进党，百世不变、笑脸相迎的“蔡式台独”。</p>
+<p>绿营富裕阶层的代表人物</p>
+<p>分析蔡英文的经历，有两点对她个人性格和从政风格有着重要的影响。一是蔡父的亲日亲绿情结深厚，对其影响较大。蔡家属于日本殖民台湾时期的既得利益集团中的一员，对日本的历史记忆、观感，以及对日本殖民统治的认识，与因怀有国仇家恨而奋起抗日的两岸人民的感受绝然不同。蔡父年轻时就被殖民当局选中，赴日学习飞机维修技术，给日军修理过飞机，还在日本工作了一段时间。后在台北经营汽车维修厂、投资房地产等，逐渐成为台北市的“大地主”。蔡英文的哥哥蔡瀛南常年往返于台日之间经商，也曾留学日本。蔡英文小名取的是日本名“吉米牙”（意思是“小不点”）。从小请的是日文家教。饮食上，在学生时代，她中午常吃的是母亲做的日式饭团，成年后经常到日本休假，认同日本亲台势力的“台湾地位未定论”；与日本首相安倍晋三及其胞弟、众院议员岸信夫私交甚深等。蔡英文在情感上乃至政治立场上的亲日是毋庸置疑的。</p>
+<p>蔡父对国民党统治非常不满，早年资助“党外”运动，与“台独”分子关系深厚，本土意识很强，自称是“李登辉的崇拜者”。据说，李登辉有次宴请蔡英文，蔡英文还提出带着父亲赴宴，以了乃父见李一面的心愿。蔡英文多次表示，“翻看民进党的党纲和许多文件，我和民进党的理念相当一致。”“我的家庭一直是民主运动的无声支持者。”“我再没有软弱的权利，更没有任性的权利。我是终身党员，我不会离开民进党。”</p>
+<p>二是身处多房妻室合成的家庭、精英与草莽混杂的政党、国家认同冲突的社会，对其影响较大。蔡英文的性格夹杂着野性与谨慎、低调与强势、积极自信与缺少安全感等复杂元素。其爱好广泛，打网球、看书、喝红酒、养狗、养猫；酷爱飙车，一个人可以一口气开14小时的车，曾被男同事谓之“流寇”。未婚，感情经历较单纯。在美国康奈尔大学就读期间曾交往一男友，男友意外丧生。</p>
+<p>从人性的角度分析，作为单身女政客，她没有爱的情感拖累，没有“家”的掣肘，没有子女的牵挂，在政治上的行事风格与行事策略，往往偏向情感化、个性化、极端化发展，政治权术上则在战略方向上考量少，战术细节上考量多，短期目标所示到极致，长期目标则较少顾及。</p>
+<p>蔡英文没有陈水扁煽动激情的语言、跳跃式的思考模式，以及大呼口号、大开支票和善变；更没有陈水扁那么强烈的投机、急躁与十足的赌性，但似乎也没有足够的务实性。坚持“不说做不到的话”，更像出生于好家庭、受过国外高等教育、温良恭俭让的马英九，“一头清汤挂面短发，有点微微驼背，白暂的脸上有几颗斑”，有“女版马英九”“马英九2.0”的名号。但她不像马英九那么不知变通，更缺乏马那种为理想灼身的使命感。</p>
+<p>作风强势擅诡辩，“暴力小英”名不虚传</p>
+<p>蔡英文在台湾政坛是一个“另类”。亲日亲美亲绿反共使其在政治上有着浓厚的“台独”情结；为人低调，性格复杂，又使其在行事风格上不同与传统的台湾政治人物。台湾著名媒体人陈文茜曾对蔡英文有这样的描述：“站在山峰高处的一只野豹，攻击性强”“有着天生的自信、专业领域的执着，看似清纯，眼神却跟豹一样，驼着背，穿着深色外衣，让男性立委看了退避三舍”。</p>
+<p>她有如下特点：</p>
+<p>诡谲多变，作风强势。蔡英文善于随身份及职务的转换调整处事风格。优越的成长环境使她养成了自信强势的作风，很难听进别人建言。她不喜欢开冗长会议，向来是有事开会，无事散会；很少和人聊天，晋用官员一定亲自面谈；对部属要求严格，规定下属不得越级报告；管理风格“不怒而威”“柔中带刚”，经常话中带刺，让被批评的人下不了台；遭政敌攻击时，会正面迎战。民进党人士柯建铭、陈朝文表示，竞选时，蔡的竞选政策他们不清楚，要求蔡说清楚，不料触怒了她，蔡勃然大怒足足骂了半个小时。同时，对需要争取的对象，面对民众时，低调谦和、温柔有加。岛内媒体戏称蔡是“谜样的女人”。</p>
+<p>擅长逻辑诡辩。蔡英文以思维敏捷、能言善辩闻名政坛。说话多实问虚答，喜故弄玄虚，不停地弯弯绕，让人不知其所云，被媒体冠名之“废话神功”。蔡自称习惯于“用逻辑来思考问题，用问话来给对方压力。”“如果用对方的逻辑来应对、回答，他就可以一直问下去，不啻给自己找麻烦。如果你在原来的组成里找不出答案，就把它拆掉，再重新组合，用自己的逻辑另辟蹊径，经常可以杀出另一条路来。”这既是她操作空间的策略运用，也是确保其实际利益不受损害的挡箭牌。批评者因其政策抽象、空灵、飘渺、模糊、游移而称其为“空心菜(蔡)”。如2010年5月，她宣布参选新北市长。当媒体问她，“当选后是否会做满四年”，她答“一定会负责到底”，始终对“做满四年”这个核心问题避而不谈。因为她根本不想当什么市长，她志在选“总统”。</p>
+<p>操弄民意手段高明，“暴力事件”幕后黑手。她之所以能从一个研究国民党时代地方选举的助理，变成了与国民党分庭抗礼的“总统”参选人，自有其一套独到的操弄民意的办法。她谙熟政治，早在“戒严”时期，蔡英文为了研究台湾政治和选举，曾经长期待在《联合报》的剪报室，详细研究当时所有关于地方选举的剪报。每次到造势现场时，都采取“大进场”的方式，刻意从后端入场，一直跟群众握手到走向舞台，让台上的主持人不断地喊着让人热血沸腾的口号或话语，把现场情绪拉到高点。蔡在自述中说，“在跟群众握手的过程中，政治人物会感受到群众的热情，肾上腺素会改变。真的！当你上台演讲时，会更有自信，因为你会感受到台下有人在听，是热情的，是真的关心你！”“我真是竭尽力气，使出看家本领来炒热场子。”她惯用问答式的演讲风格，先问一个问题，然后问台下：“好不好？”让民众回答“好”，以此掀起煽动民意。</p>
+<p>她深谙并利用了民进党“打打杀杀”的街头“台独”路线，策划和组织了许多起街头暴力活动。如2008年陈云林第一次访台时的“呛马围城事件”、2009年的“5·17反倾中、护台湾”大游行、2013年的“8·3白衫军送仲丘”大游行、2014年的“太阳花学运”冲击“立法院”事件、2015年的“反课纲事件”等。有对手称其是暴力黑手，称她为“暴力小英”。近年来台湾发生的重大暴力事件，没有一个能离开“暴力小英”的幕后黑手。</p>
+<p>推行“理念型台独”，将走“蔡式台独路线”</p>
+<p>蔡英文长期担任李登辉幕僚，在两岸关系领域浸淫已久，有一系列深思熟虑的主张，被认为是“理念型台独”的推出者。蔡既驾驭“台独”激进势力为其所用，又将具有“台独”史观与思维的青年群体纳入其预定轨道，更在享受两岸和平红利的同时引领“台独”意识成长。</p>
+<p>她反对一中原则和“一国两制”，试图建立以“维持现状”为核心的新两岸关系论述。</p>
+<p>她主张扩大台湾“本土认同论”，坚持“台湾主体价值和主权地位”。</p>
+<p>她提倡务实开放两岸经贸交流，限制性地发展两岸关系。</p>
+<p>她希望借助美、日等反华势力，积极推动台湾“国际参与”。</p>
+<p>我们分析，蔡英文执政后将会走一条完全不同于李登辉、陈水扁的“蔡式台独路线”：首先，实施“隐独化”策略，将大搞“去中国化”；其次，运用逻辑诡辩，将掏空“九二共识”的实质内涵；第三，以“拖”待变，将破坏两岸现状的责任转嫁给大陆。</p>
+<p>总之，蔡英文的性格具有鲜明的两面性，其政治操作手法也充斥着面上一套、私下一套的两面手法，具有相当的欺骗性。她的一生似乎注定要在矛盾体中生存。我们在和蔡英文打交道时，一定要时时考虑其经历、性格与心理素质等重要因素。这个过程实质上就是一种意志与智慧的较量。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/?category=18271" rel="tag">九二共识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%95%E5%90%8E%E9%BB%91%E6%89%8B/?category=18271" rel="tag">幕后黑手</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE/?category=18271" rel="tag">总统选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5%EF%BC%9A%E7%94%A8%E4%BA%92%E8%81%94%E7%BD%91%E6%80%9D%E7%BB%B4%E6%8A%84%E5%85%9A%E7%AB%A0/" target="cdt-mirror">【CDTV】三表龙门阵：用互联网思维抄党章</a>
 </h2>
 <p><p>来源：微信ID sanbiao1984</p>
@@ -176,6 +232,32 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E7%89%A9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 9小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90126%E5%90%8D%E8%A2%AB%E5%91%8A%E8%8E%B7%E6%92%A4%E8%AF%89%EF%BC%8C%E5%8F%B0%E6%B9%BE%E6%9C%9D%E9%87%8E%E5%8F%8D%E5%BA%94/" target="cdt-mirror">端传媒 | 太阳花学运126名被告获撤诉，台湾朝野反应不一</a>
+</h2>
+<p><p> </p>
+<p>2014年3月至4月台湾“太阳花学运”期间，部分学运人士闯入并占领行政院，后因此被起诉。时隔两年，5月23日，台湾行政院发言人童振源宣布，行政院长林全在20日上任后批出的第二份公文，就是撤回对126名太阳花学运人士的起诉。</p>
+<p>童振源引述林全表示，太阳花学运是“政治事件”，而非单纯的法律事件，应在“多一点和谐、少一点冲突”的原则下尽量从宽处理， 因此决定撤告。</p>
+<p>他还引述林全表示，太阳花学运诉求已普遍成为社会共识，立法院也依诉求对两岸协议监督条例进行立法，凸显太阳花学运的正当性与社会贡献。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/chaoxian-1.png?resize=600%2C398" alt="chaoxian" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/chaoxian-1.png?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/chaoxian-1.png?w=617 617w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><br><span>图为2014年3月20日，学生和公民团体占领立法院议场。摄：Ashley Pon/Getty</span></p>
+<p>立法院长苏嘉全于23日表示，社会对太阳花运动的诉求持正面看法，对于行政院的做法，立法院“基本上还是尊重”的。总统府发言人黄重谚也于24日表示，太阳花学运是深化台湾民主的重要里程碑，支持行政院撤回对太阳花学运人士的控诉。</p>
+<blockquote><p>过去政府不做，就由现在政府来做。—— <cite>民进党立法院党团书记长陈亭妃</cite></p>
+<footer></footer></blockquote>
+<p>2014年3月23日晚上7时左右，部分反服贸群众和学生爬入行政院，在行政院正门前广场静坐抗议。社运组织“黑色岛国青年阵线”随后在 Facebook 宣布占领行政院；台湾清华大学研究所学生魏扬宣称是占领行动的总指挥。</p>
+<p>警方在24日凌晨展开强制驱离行动，过程中与学运人士发生肢体冲突；警方还开动镇暴水车，以水柱驱离学运人士。后经行政院评估，驱离过程中约有107人受伤，包括学生与警察，另学运人士闯入行政院破坏公物，造成约300万新台币损失。</p>
+<p>台北地检署于2015年侦办此案，依侵入建筑物罪起诉魏扬等93名被告；部分人被指窃取行政院内的浓烟逃生袋、以手机拍下行政院公文、对警员呛声、破坏行政院的门等，依窃盗、妨害公务、毁损等罪名被起诉。</p>
+<p>对于今次相关学运人士被撤诉，国民党文传会副主委王鸿薇于23日表示，行政院以政治方式解决司法案件，是纵容民众入侵公署、损害公物，认同群众以违法手段达到政治目的，国民党对此深表遗憾。</p>
+<p>王鸿薇还表示，新政府在第一个上班日，即以政治考量撤告，未经法律层面的广泛讨论就草率决定，是不负责任的做法，并指：“如果行政公署都可以攻占，那么新政府可下令各机关不必再设置驻卫警了。”</p>
+<p>民进党立法院党团书记长陈亭妃则表示，太阳花学运是民众对自己国家的未来发声，但（当届）政府不听，所以民众才走上街头。时代力量立法院党团总召徐永明也表示，撤诉是正面的事情，希望林全进一步追究当时警察殴打学生跟民众的责任。</p>
+<p>率领占领行政院行动的魏扬表示，撤诉代表政府肯定公民不服从的权利。太阳花学运领袖林飞帆也在 <a href="https://www.facebook.com/permalink.php?story_fbid=10206782340786062&id=1501674746&pnref=story">Facebook</a> 表示，撤诉是很好的开始，而他更期待的是学运的诉求能真正落实于新政府施政中，包括两岸协议监督条例的六大主张，以及公民参与宪政改革的实质推动。</p>
+<p>曾参与太阳花学运的时代力量执行党主席黄国昌也表示，相关决定代表林全承认学运对台湾民主的重要贡献，个人给予林全“相当高度的评价”。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90126%E5%90%8D%E8%A2%AB%E5%91%8A%E8%8E%B7%E6%92%A4%E8%AF%89%EF%BC%8C%E5%8F%B0%E6%B9%BE%E6%9C%9D%E9%87%8E%E5%8F%8D%E5%BA%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/318%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">318学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E6%9C%8D%E8%B4%B8%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">两岸服贸协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%9C%8D%E8%B4%B8/?category=18271" rel="tag">反服贸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%8F%B0%E6%B9%BE%E5%A4%AA%E9%98%B3%E8%8A%B1%E8%BF%90%E5%8A%A8%E4%B8%89%E9%83%A8%E6%9B%B2%E5%AE%8C%E6%95%B4%E7%89%88/" target="cdt-mirror">【CDTV】台湾太阳花运动三部曲完整版</a>
 </h2>
@@ -793,76 +875,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E4%B8%8A%E6%B5%B7%E9%98%BF%E5%A7%A8%E8%A6%81%E6%B1%82%E5%8F%B0%E5%8D%97%E5%B8%82%E9%95%BF%E7%BB%9F%E4%B8%80%E7%A5%96%E5%9B%BD/" target="cdt-mirror">【CDTV】上海阿姨要求台南市长“统一祖国”</a>
-</h2>
-<p><p>据网友@HK_CC_BEST爆料，台南市长赖清德昨日结束上午回老家行程后，下午到野柳地质公园参观，在观赏女王头时，他和来自上海旅行团相谈甚欢。 一位上海阿姨说：“谢谢你把两岸关系搞好，人民团结起來，统一祖国！”赖清德则回应：“但台湾大多数民众是希望自己当家做主。”</p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E4%B8%8A%E6%B5%B7%E9%98%BF%E5%A7%A8%E8%A6%81%E6%B1%82%E5%8F%B0%E5%8D%97%E5%B8%82%E9%95%BF%E7%BB%9F%E4%B8%80%E7%A5%96%E5%9B%BD/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p>墙内视频<a href="http://weibo.com/p/230444b17ea0c5074d9d000ca77705d78b4b52" target="_blank">地址</a></p>
-<p> </p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E4%B8%8A%E6%B5%B7%E9%98%BF%E5%A7%A8%E8%A6%81%E6%B1%82%E5%8F%B0%E5%8D%97%E5%B8%82%E9%95%BF%E7%BB%9F%E4%B8%80%E7%A5%96%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E6%B5%B7%E9%98%BF%E5%A7%A8/?category=18271" rel="tag">上海阿姨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%96%E6%B8%85%E5%BE%B7/?category=18271" rel="tag">赖清德</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-22/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-22</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ci9lCPtUkAAtRsj.jpg?resize=450%2C800" alt="Ci9lCPtUkAAtRsj" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ci9lCPtUkAAtRsj.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Ci9lCPtUkAAtRsj.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
-<p>@Zodiac4698：小时候听罗大佑在歌里唱中华民国“每天进步一点点”，心说“一点点”算什么，那时候江泽民天天在电视里唱中华民族的伟大复兴，多带劲啊！现如今我们不进反退，一杆子打回文革原形。人家却已经“国为民而立”，三次轮替了！蔡英文演讲处处体现具体民生，这才叫千里之行始于足下。宏大叙事者都他妈狗屎！</p>
-<p>@fufuji97：有人拿陈水扁来说台湾制度，并不奇怪，这些人基本上不懂人性，人性的关键，不在犯错，而在纠错，人就是在不断纠错中建立起一套经验系统的，最坏的制度其实就是无法建立起纠错制度或者模糊纠错，蠢人的表现往往是在同一个错误上不断犯。</p>
-<p>@doctor8888：有好多大陆朋友担心蔡英文执政能力，我有一个简单的方法让你随时能判断蔡英文和台湾的情况：如果台湾的新闻出现很多在大陆媒体里，那蔡英文就不太好；如果台湾的新闻在之后出现不多在大陆媒体，那蔡英文就是有能力的。以上逻辑可以推广至一切战后民主化的国家。</p>
-<p>@xiaoming50：听中共外交部发言人、对台办批评民选总统蔡英文就职演说是“没有完成的答卷”，以及赵姓媒体假港媒的随声附和，感觉中共超级搞笑：一个60多年从来不敢让国人享有普选国家领导人政治权利的独裁政权，却自以为是考官，可给一个民选政权发考卷，可给一个民选总统的治国方略打分，真不知羞耻！</p>
-<p>@wentommy：520是啥日子啊？北京满大街都是穿蓝褂子的套红袖箍的“首都治安志愿者”，我问一位大爷：又开两会了？大爷：差不多吧，听说在选总统。</p>
-<p>@xiucai1911：对世界各国而言，中国大陆是一台取款机，这台取款机的密码是“只承认一个中国！台湾属于中国！”</p>
-<p>@上海老顽童吴德余：近半小时的就职演说虽举世瞩目，却无主义思想理论核心代表一大堆，通篇平白直朴娓娓道来，整个过程连讲稿都没瞧一次，非背诵能力超凡，而是足证全是自己所思所想早已烂熟于心。直言处境艰苦却又不失信心，条分缕析棉里藏针，有承诺却又不吹大牛。凡此种种，不得不令人刮目，其实这才是正常的。</p>
-<p>@mozhixu：从最低一块木板出发，就会看到，大陆目前的人权状况，实际是1992年重启市场化以来最糟糕的，当初为融入国际经济秩序而作出的姿态，以及适应市场化的调整期带来的某些缝隙和时滞，都曾经给予了民间社会少许空间，如今都被重装后的市场新极权体制一一收回，这一事实也同时否定了所谓的渐进图景。</p>
-<p>@mozhixu：可以肯定，大陆人权状况还将继续恶化下去，勇敢的积极分子们仍将前赴后继，随着时间的推移，或者会有越来越多的人意识到最短木板这一事实，认识到渐进的虚妄，认识到根本质疑的必须，从而酝酿出足以撼动体制的力量，但在当下，无论是国际还是国内，都并没有任何力量可以约束极权体制，寒冬仍将持续</p>
-<p>@c338ki_selina：清华大学社会学教授孙立平：现在大陆已是一个与法治完全格格不入的国家，且愈走愈远，其中维稳就是对法治的一大破坏、大倒退。政府为了达到目的（指标）可以不择手段，这叫“作恶授权”。政府默认甚至鼓励下属用违法规则，以违法方式达成任务。</p>
-<p>@紧爷的菜园子：中共建政以来许多人的许多所谓思想，无非是为某党坐江山编织理论上的依据。然后再把这套东西敷衍成一套庞大的洗脑教材，充斥其中的则是一套狼奶词汇。所以天朝的政治学、经济学乃至哲学、史学，都有一套意识形态修辞学和写作上的潜规则，知道什么能说什么不能说，既照顾了当局的禁区也照顾了作者面子。</p>
-<p>@紧爷的菜园子：党国不允许自治组织与反对派存在，更没有西方可随时接管政府的影子内阁，当出现重大变动时，没有现成的替代品如自治机构，替代原有秩序提供者，实现权力和平过渡。唯有打碎现有的国家机器，付出昂贵代价后重建秩序。归根结底，中国的制度是一种没有缓冲与刹车的制度，一旦出大意外无可挽回地走向毁灭。</p>
-<p>@diamrem：「“天朝的人民无法理解电报的工作原理，…如果在电报线附近发生了什么不幸的事情，立即就会有人造谣…这种谣言通常会引起骚乱，暴徒们将毫不犹豫地冲过来，砸毁机器。有一次，因电报线附近某个人生病，一夜之间，1英里长的电报线就被毁坏了」《跌荡一百年（上）》 140年过去了，情况还是差不多。</p>
-<p>@MyDF：去过浙江，见过仙居、兰溪、留下、画溪、雁荡、玉环、丽水、夏履、玲珑、瞻岐、霞浦、桐琴、瑶琳、泽雅、墨林、甘霖、梅渚……这样的地名。去过东北，见过葫芦岛、铁岭、大洼、苏家屯、瓦房店、佟二堡、烧锅、老边、平房……这样的地名。 （转）</p>
-<p>@nonozone： 从众心理很厉害，比如你一个人冒雨骑车，就感觉是纯傻逼，但是突然有一帮傻逼一起，突然发现，艾玛，这还有点浪漫呢…</p>
-<p>@kinglin0818： 在从前，嫖娼是一种时尚，睡别人老婆是要浸猪笼的。现在，睡别人老婆成了时尚，嫖娼是犯法的。传统文化的丢失让我感到万分心痛。</p>
-<p>@iamdalaba：现在的人究竟能傻到什么程度？可以把性格寄予星座，努力交给鸡汤，情绪归于水逆，运势托付锦鲤。然后点支烟，淡淡的说，从小听过很多大道理，但依然过不好一生。</p>
-<p>@txyyss：经过推友提醒，这个程序员的侮辱性称呼中外还是可以统一的，国外叫 code monkey，国内叫程序猿。 #信达雅的典范</p>
-<p>@xueshudi：“我要把你打入7层地狱！”“哪7层？”“应用层，表示层，会话层，传输层，网络层，数据链路层，物理层！！”尼玛劳资搞网络工程的不就是一直在地狱扑腾么？</p>
-<p>@重庆言子哥：刚刚在天桥上看到一个崽儿用粉笔在地上写了：我好饿，求好心人给钱买点吃的。我看完车个背去买了四个馒头过来。崽儿看了我一眼，勉强吃下去了。吃完准备走，我悄悄咪咪跟到后头，等他到另一个地方写完字，我又去买了六个。当我把馒头放在他面前的时候，我这辈子都不会忘记他的眼神。也许很感激我吧…</p>
-<p>@Tin_Tse：机场车站安检排队心得：如果排在你前面的女生穿黑衣服，跟着她，通常她会很利落；如果排在前面的女生穿粉色或紫色，或者拉着亮粉色行李箱，甚至上面贴着Hello Kitty，请另换一队排，她会耽误至少三个人的时间。</p>
-<p>@barcalan：早上等地铁时我排第一个，后面一个妹子看车来了一声不响就“嗖儿”地一声站我旁边了，我拉住她问怎么着就要插队，她说“我没插队啊，我会让你先上车的，这不是插队”。话音未落，车门打开，妹子一猫腰就上了车根本不等人。不守秩序、谎言、背叛。15秒的一个小事件，浓缩了你国人人性精华。</p>
-<p>@l1989127x：如果你的女朋友某天突然非常任性要买一些可有可无，无关紧要的小物件，千万要依着她的性子，你只管负责提包就好。因为她需要用小物件带来的幸福感抚平生活里挫折和困难带来的痛苦。等她冷静下来，就会把这些东西卖二手，接着沉浸在“贤惠精明”的喜悦之中。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-22/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E8%80%81%E8%B4%AB%E5%86%9C-%EF%BC%9A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%8F%91%E5%8A%A8%E6%96%87%E9%9D%A9%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%8A%A8%E6%9C%BA%E5%88%B0/" target="cdt-mirror">华夏文摘｜老贫农 ：毛泽东发动文革的真实动机到底是什么？</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20121203033936610.jpg?resize=580%2C448" alt="毛－女人" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20121203033936610.jpg?resize=300%2C232 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/02/20121203033936610.jpg?w=580 580w" sizes="(max-width: 580px) 100vw, 580px" data-recalc-dims="1"></p>
-<p>文革已经过去整整50年了，由于有人一直阻挠对文革历史的揭示和研究，所以大部分中国人对文革的本质，对毛泽东发动文革的动机，一直缺乏正确的认识。更有甚者，近年来有越来越多的人反对1981年中共中央关于全面否定文革的历史决议，公开为文革招魂，为发动者毛泽东大唱赞歌。</p>
-<p>为什么要发动文革？毛泽东和他的理论家们解释说，是为了反修防修，为了继续革命。因为各级领导权都被走资本主义道路的当权派篡夺了，所以要把权夺回来，要清除“混进党里、政府里、军队里和各种文化界的资产阶级代表人物”。文革是“毛主席的革命路线”和“刘少奇的反革命修正主义路线”的斗争。这些都是毛泽东为了掩盖其真实目的、欺骗中国人民而编造出来的“理论”。历史的真相是，自从1949年中共夺取政权以后，党政军大权一直牢牢地掌握在毛泽东一个人的手中，历次政治运动都是毛亲自发动的，经济建设的主要指标都是毛亲自提出或亲自拍板的，所以根本就不存在大权旁落的问题。至于1959年毛泽东不当国家主席，退居二线一事，主要是因为他不喜欢那些礼节性和事务性的工作，绝不是他放权。嗜权如命的毛泽东一直坚守“大权独揽，小权分散”的信条，不允许任何人挑战他的权威，甚至不允许对他的指示稍有怠慢。</p>
-<p>1949年以后，在中共党内，只有毛泽东的左倾路线，从来就没有什么刘少奇的路线，刘少奇、周恩来、邓小平等人，一直都在忠实执行毛泽东的路线。一直到文革前夕的“四清”运动，刘少奇都在积极执行毛的重大决策，他自己根本就不敢另搞一套，毛泽东也不允许他另搞一套。他只是在如何执行的具体细节上有时未能完全理解毛的意图，说出有违圣意的言论。刘、周、邓等人虽然在一线主持具体工作，但遇到重大问题（包括文革初期的派工作组），都要专门向毛报告和请示（经常专程到外地向毛请示），如果毛不同意，政治局开会做出的决议也可以推翻。至于说各级领导中的大部分人都是走资本主义道路的当权派，也是无稽之谈，无中生有。这些领导人经过几十年党的教育和斗争锻炼，绝大多数都是坚定的马列信徒和毛泽东的追随者，他们的全部工作就是执行党中央文件和毛的指示，他们既没有愿望也没有机会去走资本主义道路。这些情况在毛泽东的心里实际上是清楚的。</p>
-<p>既然从中央到地方的各级党政大权都掌握在毛泽东和他的追随者手里，那么他为什么还要打倒这些追随者呢？只有弄清楚毛泽东的心病，才能解释这个奇怪的现象。毛泽东的病根就在1960年的大饥荒。在1958和1959年，毛泽东为了争当世界革命的领袖，也想成为中国的千古一帝，头脑发烧，神经错乱，相继搞了大跃进、人民公社、大食堂和反右倾等运动，结果造成饿死三千多万农民的巨大惨剧。毛泽东是个铁石心肠的人，当他得知这个惨剧的真相之后，既没有悲痛，也没有自责，而是把责任推给了下面的各级干部，说是因为许多地方阶级敌人篡夺了领导权，是这些坏人破坏造成的。而刘少奇还是个有人性、有良心的人，虽然他积极追随毛泽东搞大跃进，在庐山会议上配合毛整彭德怀，对大饥荒的发生也负有重要责任，可是当他得知大饥荒的惨况之后心慌了，坐不住了，觉得我们党闯下了滔天大祸。他找到毛泽东，对毛说：“饿死这么多人历史要记上你我的。人相食，是要上书的。”毛却斥责道：“你慌什么？稳不住阵脚了？”</p>
-<p>党犯下如此巨大的错误，刘少奇、邓小平等人觉得应该好好总结一下教训。在1962年“七千人大会”召开之前，根据刘、邓的指示，彭真指派北京市委的邓拓等人，在北京西郊的畅观楼查阅了大跃进时期的中央文件和中央领导人的批示与讲话，分析造成重大失误的原因，这就是著名的“畅观楼事件”。此事极大地触怒了毛泽东，所以在文革正式开始之前的准备阶段，他就先拿北京市委的邓拓、彭真等人开刀祭旗。在“七千人大会”的报告中，刘少奇提出了“三分天灾，七分人祸”的说法，使毛泽东大为不悦。刘还说：“三面红旗，我们现在都不取消，都继续保持。现在，有些问题还看得不那么清楚，但是再经过5年、10年以后，我们再来总结经验。”这使毛泽东深深感到，刘少奇可能会在他死后否定三面红旗，会象赫鲁晓夫那样做反毛的秘密报告，清算他制造大饥荒的罪责。用江青的话来说：“在七千人大会上主席憋了一肚子气。” 在“七千人大会”之后毛泽东就下定了打倒刘少奇以绝后患的决心。</p>
-<p>虽然毛泽东对刘少奇说“我动一个小指头就可以把你打倒”，但实际上要打倒刘还不是那么轻而易举的，因为刘在党内有很高的威望，还有一大批忠实的追随者，如果找不到过硬的罪名，在党的会议上就很难把刘和一大批追随者打倒。善于和人斗争的毛泽东认为必须采取非常规手段才能打倒刘少奇，这就是依靠群众运动。文革开始后，毛利用广播北大聂元梓的大字报把全国的大学搞乱，然后他躲到外地去，让刘、邓派出工作组到大学。然后他看准时机回到北京，指责工作组镇压群众运动，给刘、邓扣上“资产阶级反动路线”的帽子。他乘势召开8届11中全会，以刘犯路线错误为借口，把他从党内第二的位置上拉了下来（仍保留常委），把林彪扶上了接班人的宝座。后来又鼓动红卫兵多次批斗刘少奇。再后来又把重病在身的刘送到河南，直到折磨至死。刘少奇的众多老部下和支持者也被毛发动的群众运动纷纷打倒。</p>
-<p>所以说毛泽东发动文革的真实动机，就是为了避免刘少奇等人在他死后清算他制造大饥荒的罪行。他为此谋划已久，绝不是一时心血来潮。他利用群众运动这一非常手段，打倒刘少奇和一大批对他制造大饥荒表示不满的高级干部。“大饥荒”是毛时代的核心事件，起到承上启下的作用，因为它是反右、大跃进、反右倾等一系列极左行为的必然恶果，又是毛泽东发动文革的根本起因。“大饥荒”是毛泽东的死穴，是他的犯罪铁证，也是中共历史上最不光彩的一页，所以毛以后的历届领导人和党的喉舌都绝口不提此事，好象从来没有发生过一样，现在的毛左们也都极力否认大饥荒的存在。赫鲁晓夫是毛泽东最憎恨的恶魔，而“中国的赫鲁晓夫”是他最惧怕的魔影。其实刘少奇是被冤枉的，他在“七千人大会”上的报告是代表中央的，是代表党承认错误、承担责任的，并非追究毛泽东个人的责任。如果他死在毛泽东之后，估计他不会做赫鲁晓夫那样的秘密报告，不会公开否定和批判毛，他会象邓小平那样，既承认毛有错误，又捍卫毛的历史地位。而毛泽东和所有的独裁暴君一样疑心很重，刘少奇的言行在他的眼里，越看越象赫鲁晓夫，甚至在头脑中出现过刘做秘密报告的幻影，所以他决定痛下杀手，绝不能让幻影成为现实。</p>
-<p>2016.5.16</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%8E%E5%A4%8F%E6%96%87%E6%91%98%EF%BD%9C%E8%80%81%E8%B4%AB%E5%86%9C-%EF%BC%9A%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%8F%91%E5%8A%A8%E6%96%87%E9%9D%A9%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%8A%A8%E6%9C%BA%E5%88%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E5%B0%91%E5%A5%87/?category=18271" rel="tag">刘少奇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">文革50周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -874,7 +886,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E5%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -884,5 +896,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E5%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

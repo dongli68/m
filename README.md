@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/" target="cdt-mirror">蔡英文在会谈中说了“我说中文有困难”吗？</a>
+</h2>
+<p><p>台湾第一任女总统蔡英文近日接见了美国商务部助理部长贾朵德。经观察者网<a href="http://news.sina.com.cn/c/gat/2016-05-25/doc-ifxsktkr6068873.shtml" target="_blank">报道</a>后，会谈中蔡英文的一处“卡壳”迅速成为了中国网民热议的话题，其中多以讥讽为主。中国数字时代编辑找到了上述会面的完整视频：</p>
+<p><br><span>蔡英文会见美国商务部助理部长完整视频（</span>YouTube<a href="https://youtu.be/7Ul_Kimo_Ik" target="_blank">地址</a><span>；共15分钟）</span></p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%BE%E6%9C%B5%E5%BE%B7.jpg" rel="attachment wp-att-438910"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%BE%E6%9C%B5%E5%BE%B7.jpg?resize=500%2C265" alt="蔡英文贾朵德" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=300%2C159 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=768%2C406 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=1024%2C542 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?w=2850 2850w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>YouTube视频截图</span></p></div>
+<h3>第一个争议点：</h3>
+<p> <br>
+会面正式开始前，蔡英文对贾朵德说：<strong>Because the camera is here, I have to say things I want to say in Mandarin. I apologize for that.（因为摄像机在这儿，我需要用国语说我想要讲的内容。抱歉。）</strong></p>
+<p>贾朵德回应：I understand.（我理解。）</p>
+<p><strong>正常解读：</strong>谈话双方都知道蔡英文本可以用英语直接交流（参考：<a href="https://www.youtube.com/watch?v=PHJYjDXhCzE" target="_blank">蔡英文哈佛演讲问答环节 全程英语</a>），但因为现场有摄像机，且这些画面的<strong>主要收看者是台湾观众，所以需要讲中文</strong>，通过翻译进行对话<strong>。</strong></p>
+<p><strong>观察网版本：</strong></p>
+<blockquote><p>其实，两人刚刚落座时，蔡英文就用英文说了一句：“Before the camera here, I have to say…first I want to say in Mandarin.”（在镜头面前，我不得不先用中文讲话。）似乎在蔡英文看来，说中文是“不得已而为之”。</p></blockquote>
+<p><strong>必须指出的是，蔡英文并没有使用”Before the camera””say in Mandarin”这种中式英语。</strong></p>
+<h3>第二个争议点：</h3>
+<p> <br><strong>蔡英文</strong>：很高兴在我上任的这个时刻，看到美国的高层的访问团来台湾访问。那么我了解这是我们（此处卡壳）……贾……</p>
+<p><strong>贾朵德</strong>：知道。</p>
+<p><strong>蔡英文</strong>：I have problem of…saying that thing…the Chinese language…I’m sorry.  我们非常感谢贾朵德助理部长把台湾列作这次行程里的一站。</p>
+<p><strong>正常理解：这里蔡英文明显是卡在“Marcus Jadotte”的中文名“贾朵德”上</strong>，<strong>所以贾朵德此时才会微笑说“知道”</strong>，以示理解。随后蔡英文用英语解释，<strong>自己卡壳是因为用中文读 Marcus Jadotte 的名字有点困难</strong>。</p>
+<p><strong>观察网版本：</strong></p>
+<blockquote><p>“很高兴在我上任的这个时刻，看到美国高级的访问团来台湾访问，我了解这是我们…呃…呃…呃…I have problem of saying Chinese language. I’m sorry. 呃…”蔡英文试图脱稿寒暄几句，不料讲话时突然“卡壳”，令现场尴尬不已，只得用英文自嘲“我说中文有困难”。</p>
+<p>坐在对面的美国人贾朵德忍不住微笑，用中文接了一句：“知道。”</p>
+<p>[…]最后，小编友情提醒，“say Chinese language”是错误用法，正确的动词应该是speak。</p></blockquote>
+<p><strong>这里值得注意的是，原视频中讲话内容的顺序也与观察者网的文章有所出入。</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E8%80%83%E5%87%8F%E6%8B%9B%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5-%E5%A4%9A%E5%9C%B0%E5%AE%B6%E9%95%BF%E4%B8%8A%E8%A1%97%E6%8A%97/" target="cdt-mirror">自由亚洲｜高考“减招”持续发酵 多地家长上街抗议</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg" rel="attachment wp-att-438901"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg?resize=575%2C411" alt="不满高考名额削减数万引发湖北、江苏两省家长的强烈不满。（Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg?resize=300%2C215 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg?w=622 622w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>不满高考名额削减数万引发湖北、江苏两省家长的强烈不满。（Public Domain）</span></p></div>
@@ -287,7 +318,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5/?category=18271" rel="tag">三表龙门阵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">抄党章</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BA%BA%E7%89%A9-%E5%81%B7%E6%B8%A1%E5%AE%A2%E5%9C%A8%E7%BE%8E%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">人物 | 偷渡客在美杀人事件</a>
 </h2>
@@ -841,46 +872,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%8A%84%E5%85%9A%E7%AB%A0%E6%B4%BB%E5%8A%A8-%E5%9C%BA%E9%9D%A2%E7%83%AD%E7%83%88/" target="cdt-mirror">【异闻观止】全国多地开展抄党章活动 场面热烈</a>
-</h2>
-<p><p>5月17日，郑州市第三人民医院召开了党支部书记专题会议，对院党委举办的“抄党章 比书法 内外兼修做合格党员”硬笔书法比赛相关工作进行了部署安排。图为党委书记陈军军带头抄写党章。人民网河南频道</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1.jpg?resize=600%2C450" alt="0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>据悉，本次硬笔书法比赛以摘抄《中国共产党党章》为内容，《党章》共11章，每个支部摘抄一章。图为院长、党委副书记李安州带头抄写党章。李安州强调: 党章是党员的第一课、必修课、常修课，学习党章、抄写党章，才能让每一个党员在学习中深刻领悟，才会真正树立起对党章的尊崇之心，才会在行动中产生遵守党章的自觉动力。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1-1.jpg?resize=600%2C450" alt="0 (1)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1-1.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1-1.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>6月10日前各支部进行初赛作品征集。6月15日前每支部选送至少5幅以上作品参加复赛。此次硬笔书法比赛设一等奖1名、二等奖2名、三等奖3名优秀奖若干名及组织奖3名。图为常务副院长胡明带头抄写党章。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-2.jpg?resize=600%2C450" alt="0 (2)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-2.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-2.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>副院长王放带头抄写党章。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-3.jpg?resize=600%2C450" alt="0 (3)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-3.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-3.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>各支部党员在认真抄写党章。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-4.jpg?resize=600%2C450" alt="0 (4)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-4.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-4.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>5月21日，黑龙江黑河，黑龙江省军区某边防巡逻艇大队一中队百名余名党员正在船艇的甲板上抄党章读党章，教育、引导部队全体党员进一步坚定理想信念，牢固树立尊崇党章、遵守党章、维护党章的意识。摄影：魏建顺</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-6.jpg?resize=600%2C400" alt="0 (6)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-6.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-6.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-6.jpg?resize=1024%2C683 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-6.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>为深入开展“两学一做”学习教育活动，该中队营党委要求全体党员逐字逐句通读党章，不限时间、地点每天坚持手抄党章。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-7.jpg?resize=600%2C400" alt="0 (7)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-7.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-7.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-7.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-7.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>他们充分借助自5月16日至21日百艘船艇正式下水出航分散到黑龙江近千里边防线驻点巡逻执勤的时机，要求全体党员利用航行途中、饭前饭后、军港码头等不同的时间和地点坚持抄写学党章。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-8.jpg?resize=600%2C400" alt="0 (8)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-8.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-8.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-8.jpg?resize=1024%2C683 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-8.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>在水兵巡逻的888公里路途上，官兵们时时刻刻在抄党章读党章。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-9.jpg?resize=600%2C393" alt="0 (9)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-9.jpg?resize=300%2C196 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-9.jpg?resize=768%2C502 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-9.jpg?resize=1024%2C670 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-9.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>战士在轮机舱内读党章。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-10.jpg?resize=600%2C400" alt="0 (10)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-10.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-10.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-10.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-10.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>巡逻艇大队还专门制作了“两学一做”专门笔记本，通过活动，既增强了上至营主官下至普通一名党员的光荣感、责任感和使命感，又提高了全体党员学习党章党规、遵守党章党规的主动性和自觉性。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-11.jpg?resize=600%2C400" alt="0 (11)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-11.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-11.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-11.jpg?resize=1024%2C683 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-11.jpg?w=1200 1200w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>5月13日，为扎实开展“两学一做”学习教育活动，国网河北邱县供电公司在全体党员中开展了精读党章、手抄党章活动。新华网甘肃站</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-12.jpg?resize=600%2C401" alt="0 (12)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-12.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-12.jpg?w=545 545w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>广大党员在读和写的同时，重温了党的性质、宗旨、指导思想，进一步明确了党员的义务、权利，自觉对照党章争做合格共产党员。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-13.jpg?resize=600%2C415" alt="0 (13)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-13.jpg?resize=300%2C207 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-13.jpg?w=551 551w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>5月18日，贵州镇宁县顺立达纺织有限公司，60余名来自县841家企业年轻党员聚集一起，共同参加镇宁自治县委企业工委组织举办的非公有制企业“手抄党章”书法竞赛活动。新华网贵州频道</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-14.jpg?resize=600%2C394" alt="0 (14)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-14.jpg?resize=300%2C197 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-14.jpg?w=500 500w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>5月17日，南昌供电段南昌西供电车间助理工程师李云鹏、检修车间助工陈宣池新婚之夜，铺开纸张，工整地抄下党章，给新婚之夜留下美好记忆。中国网</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-15.jpg?resize=601%2C404" alt="0 (15)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-15.jpg?resize=300%2C202 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-15.jpg?w=601 601w" sizes="(max-width: 601px) 100vw, 601px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%BC%80%E5%B1%95%E6%8A%84%E5%85%9A%E7%AB%A0%E6%B4%BB%E5%8A%A8-%E5%9C%BA%E9%9D%A2%E7%83%AD%E7%83%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">中共党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -892,7 +883,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -902,5 +893,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

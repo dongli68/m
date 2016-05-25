@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%AE%BA%E4%BA%8C%E5%A9%9A%E5%AF%B9%E6%9F%90%E4%BA%BA%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%BD%B1%E5%93%8D/" target="cdt-mirror">【网络民议】论二婚对某人政治风格的影响</a>
+</h2>
+<p><p><strong><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/" target="_blank">新华网 | 单身导致蔡英文政治风格偏向极端化</a></strong></p>
+<blockquote><p>蔡英文的性格夹杂着野性与谨慎、低调与强势、积极自信与缺少安全感等复杂元素。其爱好广泛，打网球、看书、喝红酒、养狗、养猫；酷爱飙车，一个人可以一口气开14小时的车，曾被男同事谓之“流寇”。未婚，感情经历较单纯。在美国康奈尔大学就读期间曾交往一男友，男友意外丧生。</p>
+<p>从人性的角度分析，作为单身女政客，她没有爱的情感拖累，没有“家”的掣肘，没有子女的牵挂，在政治上的行事风格与行事策略，往往偏向情感化、个性化、极端化发展，政治权术上则在战略方向上考量少，战术细节上考量多，短期目标所示到极致，长期目标则较少顾及。</p></blockquote>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%9C%B4%E6%A7%BF%E6%83%A0-copy.jpg" rel="attachment wp-att-438864"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%9C%B4%E6%A7%BF%E6%83%A0-copy.jpg?resize=525%2C425" alt="朝鲜官媒曾在2014年发表评论文章，就朴槿惠未婚无孩的事实对其进行人身攻击；凤凰网页面截图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/朴槿惠-copy.jpg?resize=300%2C243 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/朴槿惠-copy.jpg?resize=768%2C621 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/朴槿惠-copy.jpg?resize=1024%2C828 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/朴槿惠-copy.jpg?w=2156 2156w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>朝鲜官媒曾在2014年发表评论文章，就朴槿惠未婚无孩的事实对其进行人身攻击；凤凰网<span><a href="http://news.ifeng.com/world/detail_2014_04/03/35418940_0.shtml" target="_blank">页面</a></span>截图</span></p></div>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@侯虹斌:还是中国大陆强，都是一群“与多名女性发生不正当关系”的官员在管理，最不极端。</p>
+<p><a href="http://weibo.com/hayaterin" target="_blank">@N-B-Z-B</a><i></i>：<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">二婚的就会<a href="http://chinadigitaltimes.net/chinese/tag/%E6%8A%84%E5%85%9A%E7%AB%A0/" target="_blank">操党章</a></p>
+<p>@闵行yang ： 我感觉蔡要起码包个二奶小三什么的，否则太不合群了，没共同语言，大家怎么谈两岸和平统一的事？</p>
+<p>@叮脖蚊 ： 真low。人家要是结婚了是不是会说”家庭影响了她做决策，导致政治上优柔寡断blabla”</p>
+<p><strong>@袁从嘉：哈哈哈，请问离异再婚如何影响外交？</strong></p>
+<p>@Joeson_Chen：朴槿惠普大帝躺枪。。。</p>
+<p><strong>@一生俯首拜阳明II：长安街一号那具死腊肉有四个老婆，怎么也那么极端。</strong></p>
+<p>@PatrickWong-：要是人家结婚有一子，这个撰稿者是不是准备说「无二胎导致政治风格偏向极端化」？</p>
+<p><strong>@YuriWangLoveSaintyAndSchalke04：按照作者的逻辑，是不是中国大陆民主法制越来越差和刁某死了爹变孤儿有着直接必然的联系？</strong></p>
+<p>@vitsippe：小编你要知道大清都灭亡了！！！看这样的题目我还以为是朝中社？虽然不太喜欢蔡英文 但是你起码写一些有力的抨击言论好吗？论女性政治家的单身危害？卧槽 我真是不明白了单身和政治领导有关？按照你的逻辑送个大陆美男给蔡英文是不是可以一统台湾？</p>
+<p><a href="http://weibo.com/1835584421" target="_blank">@小鱼少女</a>：他们在对女性领导人评头论足的时候，首先关注的是她作为女性的身份，选择了人身攻击这样的政治错误的方式，用“没结婚”“单身”这种仅关乎个人选择（并且是无人能干涉的）来来抹黑她的形象，狭隘市井之气溢于言表。作者其心明昭，看！这是个没结婚的女人，能有什么作为<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2259102630" target="_blank">@Zaccccccccccc</a>：朝鲜也是这样攻击朴槿惠的。。。。<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><strong>@驻家火头军-余坚：那么某人结婚两次真的最适合执政了呗</strong></p>
+<p>@在加拿大看风云：对，妻妾成群的思维比较客观、全面、不极端。</p>
+<p><a href="http://weibo.com/n/LifeTime?from=feed&loc=at" target="_blank">@LifeTime</a>: 不知新华社怎么看单身的普京。<img title="[瞧瞧]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8b/lxhqiaoqiao_org.gif" alt="[瞧瞧]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1871975663" target="_blank">@二菇梁</a><i title="微博达人"></i>：我特么还以为是台媒黑大陆了，结果是我看错标题。 <img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2182141320" target="_blank">@不存在的马林</a>：打算结婚生小孩的女性职场遭排斥 打算独善其身的女性现在又被说因为没有家庭导致职场行为偏激<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<blockquote><p><a href="http://weibo.com/2187752727" target="_blank">@榕粉团</a>：这篇也是新华社系统发的吧？怎么口径差距这么大<img title="[来]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif" alt="[来]" data-recalc-dims="1"></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/82667517jw1f47dglz96cj20im0bjdi4.jpg" rel="attachment wp-att-438858"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/82667517jw1f47dglz96cj20im0bjdi4.jpg?resize=440%2C273" alt="82667517jw1f47dglz96cj20im0bjdi4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/82667517jw1f47dglz96cj20im0bjdi4.jpg?resize=300%2C186 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/82667517jw1f47dglz96cj20im0bjdi4.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p></blockquote>
+<p>@被删文弄得很心烦：虽然我因为她的台独立场很讨厌蔡英文，但是新华网拿别人单身说事儿是傻逼，政治本来就是血腥肮脏不择手段的事情，因为单身所以政客容易走极端，这观点当众多不单身却照样冷血极端的政客是死的？</p>
+<p>@清风No无痕：不论她做过什么，这样说可不地道，韩国总统朴槿惠也无丈无父无儿无女，你怎么不这样说她？</p>
+<p><strong>@孤独跑者94cpa：和朝鲜攻击朴槿惠的文章一脉相承</strong></p>
+<p>@高龄死宅少女 ： 新华社这样宣扬直男癌三观我也是醉了…下不下作</p>
+<p><a href="http://weibo.com/xiangyunyi" target="_blank">@被驯服的向</a>：虽然很讨厌她但是一个媒体这么光明正大的直男癌真的好吗<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/cotb" target="_blank">@cotB</a>：骂到没地方骂了，就拿单身说事，想骂人家内分泌失调，女性更年期直说就好啦<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><strong>@未来中流浪： @曾经我国某位女副总理，也是一生未婚。新华社在发布这篇稿子的时候，是否想过这点？</strong></p>
+<p>@一只不求上进的狗：这TM的就是新华网？和小报小刊有什么区别。《智商导致新华网写作套路偏向脑残化》</p>
+<p>@铁拳掌柜：充分证明和朝鲜称兄道弟的国家，也就只能是泼妇骂街的水平了！！！</p>
+<p>@wangmeimei66993：某个组织的成员倒是不单身，二奶三奶成群，大房偏房争锋，行事如之几何？</p>
+<p>@Lily-况莉莉：人家名牌大学的法学博士，不比你们那初中没毕业的文盲强？</p>
+<p>@香港智汇达JEEDA：单身也被拿来说事，果然，看不顺眼的哪哪都是错</p>
+<p>@卜卜星小坏：人生攻击都上了，是水平不够，还是穷途末路</p>
+<p><a href="http://weibo.com/1840148872" target="_blank">@不准吐槽我名字-</a>：<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">事情开始向奇怪的方向发展</p>
+<p><a href="http://weibo.com/1448123454" target="_blank">@这社会怎么了</a>：全国选妃吧，我没意见。<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5012824610" target="_blank">@草根锋语</a>：这个猪队友+高级黑我给250分！<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p>@是枝裕和的碎碎念：感觉我朝宣传部门混入了一些蠢货，没见干点实事，给人感觉他们是蠢而不自知…</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%AE%BA%E4%BA%8C%E5%A9%9A%E5%AF%B9%E6%9F%90%E4%BA%BA%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%BD%B1%E5%93%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%BA%AB%E6%94%BB%E5%87%BB/?category=18271" rel="tag">人身攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AF%9B%E5%B7%A6%E5%9C%A8%E6%B8%AF%E6%B4%BB%E8%B7%83-%E6%B8%AF%E4%BA%BA%E5%BF%A7%E8%A2%AB%E6%9F%93%E7%BA%A2/" target="cdt-mirror">美国之音 | 毛左在港活跃 港人忧被染红</a>
 </h2>
 <p><p>作者：谭嘉琪</p>
@@ -39,6 +90,44 @@
 <a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AF%9B%E5%B7%A6%E5%9C%A8%E6%B8%AF%E6%B4%BB%E8%B7%83-%E6%B8%AF%E4%BA%BA%E5%BF%A7%E8%A2%AB%E6%9F%93%E7%BA%A2/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">中国香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6%E6%B4%BE/?category=18271" rel="tag">毛左派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/" target="cdt-mirror">【异闻观止】新华网 | 单身导致蔡英文政治风格偏向极端化</a>
+</h2>
+<p><p>原标题：起底蔡英文</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?resize=450%2C271" alt="5月18日，一些台湾民众在台北举行集会，他们手持“九二共识”牌匾，警告蔡英文勿破坏两岸和平。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?resize=300%2C181 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>5月18日，一些台湾民众在台北举行集会，他们手持“九二共识”牌匾，警告蔡英文勿破坏两岸和平。</p></div>
+<blockquote><p><strong>编辑注：本文目前已在新华网本站删除 -2016.5.25 8时（北京时间）</strong></p></blockquote>
+<p>【作者】王卫星（海峡两岸关系协会理事、军事科学院外军研究部部长）</p>
+<p>《国际先驱导报》文章2016年5月20日，在台湾地区领导人选举中获胜的蔡英文，即将成为首位女性最高领导人。她是一个在变态的台湾社会与政治生态环境中成长起来的复杂人。从上世纪九十年代以后，蔡英文从一名大学教授投身政治，亲身参与了台湾几个重要历史性阶段：在1990年到2002年台湾加入WTO过程中，担任谈判总顾问；在1990年代后期到2015年两岸关系的几次巨变过程中，先后担任台湾“国安会”咨询委员会、“陆委会”主委、民进党主席；在2000年民进党执政到2008年台湾二次政党轮替、2016年民进党再次执政过程中，均扮演着重要角色。</p>
+<p>蔡英文不仅是李登辉时期“两国论”的重要策划者，也是陈水扁时期强烈阻挠两岸关系改善的“幕后黑手”，更是国民党执政8年中诸多“暴力事件”的策划者。由此可见，我们即将面对的是一个坚决反对“一中原则”、拒不承认“九二共识”的民进党，百世不变、笑脸相迎的“蔡式台独”。</p>
+<p><strong>绿营富裕阶层的代表人物</strong></p>
+<p>分析蔡英文的经历，有两点对她个人性格和从政风格有着重要的影响。一是蔡父的亲日亲绿情结深厚，对其影响较大。蔡家属于日本殖民台湾时期的既得利益集团中的一员，对日本的历史记忆、观感，以及对日本殖民统治的认识，与因怀有国仇家恨而奋起抗日的两岸人民的感受绝然不同。蔡父年轻时就被殖民当局选中，赴日学习飞机维修技术，给日军修理过飞机，还在日本工作了一段时间。后在台北经营汽车维修厂、投资房地产等，逐渐成为台北市的“大地主”。蔡英文的哥哥蔡瀛南常年往返于台日之间经商，也曾留学日本。蔡英文小名取的是日本名“吉米牙”（意思是“小不点”）。从小请的是日文家教。饮食上，在学生时代，她中午常吃的是母亲做的日式饭团，成年后经常到日本休假，认同日本亲台势力的“台湾地位未定论”；与日本首相安倍晋三及其胞弟、众院议员岸信夫私交甚深等。蔡英文在情感上乃至政治立场上的亲日是毋庸置疑的。</p>
+<p>蔡父对国民党统治非常不满，早年资助“党外”运动，与“台独”分子关系深厚，本土意识很强，自称是“李登辉的崇拜者”。据说，李登辉有次宴请蔡英文，蔡英文还提出带着父亲赴宴，以了乃父见李一面的心愿。蔡英文多次表示，“翻看民进党的党纲和许多文件，我和民进党的理念相当一致。”“我的家庭一直是民主运动的无声支持者。”“我再没有软弱的权利，更没有任性的权利。我是终身党员，我不会离开民进党。”</p>
+<p>二是身处多房妻室合成的家庭、精英与草莽混杂的政党、国家认同冲突的社会，对其影响较大。<strong><span>蔡英文的性格夹杂着野性与谨慎、低调与强势、积极自信与缺少安全感等复杂元素。</span></strong>其爱好广泛，打网球、看书、喝红酒、养狗、养猫；<strong><span>酷爱飙车，一个人可以一口气开14小时的车，曾被男同事谓之“流寇”。</span></strong>未婚，感情经历较单纯。<strong><span>在美国康奈尔大学就读期间曾交往一男友，男友意外丧生。</span></strong></p>
+<p><strong><span>从人性的角度分析，作为单身女政客，她没有爱的情感拖累，没有“家”的掣肘，没有子女的牵挂，在政治上的行事风格与行事策略，往往偏向情感化、个性化、极端化发展，政治权术上则在战略方向上考量少，战术细节上考量多，短期目标所示到极致，长期目标则较少顾及。</span></strong></p>
+<p>蔡英文没有陈水扁煽动激情的语言、跳跃式的思考模式，以及大呼口号、大开支票和善变；更没有陈水扁那么强烈的投机、急躁与十足的赌性，但似乎也没有足够的务实性。坚持“不说做不到的话”，更像出生于好家庭、受过国外高等教育、温良恭俭让的马英九，“一头清汤挂面短发，有点微微驼背，白暂的脸上有几颗斑”，有“女版马英九”“马英九2.0”的名号。但她不像马英九那么不知变通，更缺乏马那种为理想灼身的使命感。</p>
+<p><strong>作风强势擅诡辩，“暴力小英”名不虚传</strong></p>
+<p>蔡英文在台湾政坛是一个“另类”。亲日亲美亲绿反共使其在政治上有着浓厚的“台独”情结；为人低调，性格复杂，又使其在行事风格上不同与传统的台湾政治人物。台湾著名媒体人陈文茜曾对蔡英文有这样的描述：“站在山峰高处的一只野豹，攻击性强”“有着天生的自信、专业领域的执着，看似清纯，眼神却跟豹一样，驼着背，穿着深色外衣，让男性立委看了退避三舍”。</p>
+<p>她有如下特点：</p>
+<p><strong>诡谲多变，作风强势。</strong>蔡英文善于随身份及职务的转换调整处事风格。优越的成长环境使她养成了自信强势的作风，很难听进别人建言。她不喜欢开冗长会议，向来是有事开会，无事散会；很少和人聊天，晋用官员一定亲自面谈；对部属要求严格，规定下属不得越级报告；管理风格“不怒而威”“柔中带刚”，经常话中带刺，让被批评的人下不了台；遭政敌攻击时，会正面迎战。民进党人士柯建铭、陈朝文表示，竞选时，蔡的竞选政策他们不清楚，要求蔡说清楚，不料触怒了她，蔡勃然大怒足足骂了半个小时。同时，对需要争取的对象，面对民众时，低调谦和、温柔有加。岛内媒体戏称蔡是“谜样的女人”。</p>
+<p><strong>擅长逻辑诡辩。</strong>蔡英文以思维敏捷、能言善辩闻名政坛。说话多实问虚答，喜故弄玄虚，不停地弯弯绕，让人不知其所云，被媒体冠名之“废话神功”。蔡自称习惯于“用逻辑来思考问题，用问话来给对方压力。”“如果用对方的逻辑来应对、回答，他就可以一直问下去，不啻给自己找麻烦。如果你在原来的组成里找不出答案，就把它拆掉，再重新组合，用自己的逻辑另辟蹊径，经常可以杀出另一条路来。”这既是她操作空间的策略运用，也是确保其实际利益不受损害的挡箭牌。批评者因其政策抽象、空灵、飘渺、模糊、游移而称其为“空心菜(蔡)”。如2010年5月，她宣布参选新北市长。当媒体问她，“当选后是否会做满四年”，她答“一定会负责到底”，始终对“做满四年”这个核心问题避而不谈。因为她根本不想当什么市长，她志在选“总统”。</p>
+<p><strong>操弄民意手段高明，“暴力事件”幕后黑手。</strong>她之所以能从一个研究国民党时代地方选举的助理，变成了与国民党分庭抗礼的“总统”参选人，自有其一套独到的操弄民意的办法。她谙熟政治，早在“戒严”时期，蔡英文为了研究台湾政治和选举，曾经长期待在《联合报》的剪报室，详细研究当时所有关于地方选举的剪报。每次到造势现场时，都采取“大进场”的方式，刻意从后端入场，一直跟群众握手到走向舞台，让台上的主持人不断地喊着让人热血沸腾的口号或话语，把现场情绪拉到高点。蔡在自述中说，“在跟群众握手的过程中，政治人物会感受到群众的热情，肾上腺素会改变。真的！当你上台演讲时，会更有自信，因为你会感受到台下有人在听，是热情的，是真的关心你！”“我真是竭尽力气，使出看家本领来炒热场子。”她惯用问答式的演讲风格，先问一个问题，然后问台下：“好不好？”让民众回答“好”，以此掀起煽动民意。</p>
+<p>她深谙并利用了民进党“打打杀杀”的街头“台独”路线，策划和组织了许多起街头暴力活动。如2008年陈云林第一次访台时的“呛马围城事件”、2009年的“5·17反倾中、护台湾”大游行、2013年的“8·3白衫军送仲丘”大游行、2014年的“太阳花学运”冲击“立法院”事件、2015年的“反课纲事件”等。有对手称其是暴力黑手，称她为“暴力小英”。近年来台湾发生的重大暴力事件，没有一个能离开“暴力小英”的幕后黑手。</p>
+<p><strong>推行“理念型台独”，将走“蔡式台独路线”</strong></p>
+<p>蔡英文长期担任李登辉幕僚，在两岸关系领域浸淫已久，有一系列深思熟虑的主张，被认为是“理念型台独”的推出者。蔡既驾驭“台独”激进势力为其所用，又将具有“台独”史观与思维的青年群体纳入其预定轨道，更在享受两岸和平红利的同时引领“台独”意识成长。</p>
+<p>她反对一中原则和“一国两制”，试图建立以“维持现状”为核心的新两岸关系论述。</p>
+<p>她主张扩大台湾“本土认同论”，坚持“台湾主体价值和主权地位”。</p>
+<p>她提倡务实开放两岸经贸交流，限制性地发展两岸关系。</p>
+<p>她希望借助美、日等反华势力，积极推动台湾“国际参与”。</p>
+<p>我们分析，蔡英文执政后将会走一条完全不同于李登辉、陈水扁的“蔡式台独路线”：首先，实施“隐独化”策略，将大搞“去中国化”；其次，运用逻辑诡辩，将掏空“九二共识”的实质内涵；第三，以“拖”待变，将破坏两岸现状的责任转嫁给大陆。</p>
+<p>总之，蔡英文的性格具有鲜明的两面性，其政治操作手法也充斥着面上一套、私下一套的两面手法，具有相当的欺骗性。<strong>她的一生似乎注定要在矛盾体中生存。</strong>我们在和蔡英文打交道时，一定要时时考虑其经历、性格与心理素质等重要因素。这个过程实质上就是一种意志与智慧的较量。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E5%8D%8E%E7%BD%91.jpg" rel="attachment wp-att-438861"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E5%8D%8E%E7%BD%91.jpg?resize=550%2C664" alt="新华网刊登的旗下所属《国际先驱导报》文章《起底蔡英文 》，目前已被删除；谷歌快照截屏" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新华网.jpg?resize=768%2C927 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新华网.jpg?resize=849%2C1024 849w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新华网.jpg?w=1838 1838w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>新华网刊登的旗下所属《国际先驱导报》文章《起底蔡英文》，目前已被删除；<a href="http://webcache.googleusercontent.com/search?q=cache%3Anews.xinhuanet.com%2Fherald%2F2016-05%2F24%2Fc_135381217.htm&ie=utf-8&oe=utf-8" target="_blank">谷歌快照</a>截屏</span></p></div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/?category=18271" rel="tag">九二共识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%95%E5%90%8E%E9%BB%91%E6%89%8B/?category=18271" rel="tag">幕后黑手</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE/?category=18271" rel="tag">总统选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 4小时前</small>
@@ -763,118 +852,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E3%80%8A%E6%AC%A2%E4%B9%90%E9%A2%82%E3%80%8B%E7%83%AD%E6%98%A0%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%83%BD%E5%B8%82%E6%AE%8B%E9%85%B7%E7%89%A9%E8%AF%AD/" target="cdt-mirror">端传媒 | 《欢乐颂》热映背后的中国都市残酷物语</a>
-</h2>
-<p><p><strong>上海欢乐颂小区的2202室，海归精英、富二代、小城姑娘、乖学生、现实奋斗女……五个女性的都市故事，红遍了电视屏幕，也令无数挣扎在中国大城市的人看到自己。</strong></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4ebb381916db42c6a31ddd98a5e63fc1.jpg?resize=600%2C400" alt="4ebb381916db42c6a31ddd98a5e63fc1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4ebb381916db42c6a31ddd98a5e63fc1.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4ebb381916db42c6a31ddd98a5e63fc1.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4ebb381916db42c6a31ddd98a5e63fc1.jpg?resize=1024%2C683 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/4ebb381916db42c6a31ddd98a5e63fc1.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>五月一个天阴欲雨的上午，踱出房产中介公司，我长长吐出一口气。签完一系列购房合同后，我基本把后半生都搭进一套北京郊区的两居室里：不仅此刻我的家族都已囊空如洗，在未来三十年内，我将月月还贷，不得翻身。</p>
-<p>卖家是位五十岁上下的女性，北京土著，衣着无奇，谈吐无奇。几年前，她全款买下这套房，毛坯囤着，甚至没怎么进去过。房东怀揣着我的血本，迈着广场舞一样轻盈的步伐远去时，中介说道：阿姨在这小区还有三套房子，这次是要卖了两套换别墅，给她19岁的儿子做生日礼物。</p>
-<p>我之终点，他人之起点。那霎，我忽然觉得自己的北漂人生正在上演一幕真人版的《欢乐颂》，樊胜美的台词腾地跳入脑际：一个人的家庭就是一个人的宿命。</p>
-<p>《欢乐颂》是春节后中国最热播的电视剧集，讲述了同住在上海一栋商品楼22层、五个阶层迥异的都市女生的故事，“欢乐颂”就是这个楼盘的名字。</p>
-<p>我已经有十年没看过电视了，尤其国产剧。但随意点开《欢乐颂》第一集，我被里面的对话击中了：<br>
-年轻的“沪漂”（指来自非上海地区、非上海户口而在上海生活和工作的人们）邱莹莹和关雎尔在回家路上正聊着：我们的小区环境又好，配套又好，离地铁也近，要是有一天能在这个租住的小区买上一套房子，那真是美梦成真了。然后她们走进电梯，新搬来的邻居一家三口也正在对话。当着一众人的面，周身笔挺的富豪父亲正在劝慰那个跟她们年纪相仿、戴着墨镜、嚼着口香糖的女儿曲筱绡：这小区环境不行，跟鸽子笼似的，楼与楼之间也隔得太近了，“委屈了咱们女儿”，“比爸爸给你准备的别墅差远了”。</p>
-<blockquote><p>不管你认可和接受与否，它恰恰冷眼道出了大部分的真实中国：贫富悬殊，阶层固化，权力和金钱几乎可以解决一切问题。</p></blockquote>
-<p>自此，我竟然一口气追完了《欢乐颂》。一系列故事发生在这五个女生身上：</p>
-<p>2201室的安迪，把三室二厅打通成一室一厅，房间大得惊人。她是符合人们想象的典型“精英”形象，孤儿院长大，被美国人领养，哥伦比亚商学院毕业，华尔街投行高管，被国内商业大鳄以百万年薪聘回中国做并购，同时，她在寻找失散多年的亲弟弟和自己的身世。</p>
-<p>2203室的曲筱绡，纨绔富二代，夜店女王，留学归来后为了和同父异母的哥哥争家产，放着父亲为她购置的别墅不住，住进了这套上海中档小区以展示自己“吃苦耐劳”。</p>
-<p>2202室隔出了几个房间，由三个沪漂合租：小城姑娘邱莹莹，人傻、直肠子，凭一腔热血要在上海立足，最大的特点是做事没条理、分不清形势；关雎尔，家境良好的乖乖女，在世界500强企业做实习生，每天忙碌加班，周末偶尔过一下文艺生活，读小说、听音乐会；樊胜美，在外资企业做HR，美貌的大龄单身女青年，生于一个重男轻女的泥沼般的贫困家庭，每天敷面膜睡觉、精心打扮自己，她寄希望于嫁个有车有房的有钱人改变命运，但岁月正一天一天爬上她的脸。</p>
-<p>电视剧的人物设定很清楚：前两者是富人代表，而后三者是穷人乃至普通人的代表。</p>
-<p>尽管很多观众抱怨这样的人物设定过于脸谱化，漏洞也不少，但不得不承认，除了精英、富二代的生活很难被普通人检验，2202室“租房三人组”的日常：泡面、挤地铁、交房租，简直就是你我的人生嘛！“我想活成安迪，过得像曲筱绡。结果却活成邱莹莹，过得像关雎尔，最后变成了樊胜美”，不少女性观众感慨如是。</p>
-<p>樊胜美是久居上海现实主义的女子，资历老些，动不动言传声教邱莹莹和关雎尔。小城姑娘邱莹莹闪电般恋爱后，理直气壮问出“裸婚”（指情侣中一种高于物质的结婚方式，除了结婚证，车、房、钻戒、婚礼、蜜月，什么都可以不要）有什么不可以，樊胜美姐姐则一连串金句如鞭炮般炸响：“那你可以在租来的房子里结婚，生没户口的孩子，请不起保姆，整天要么就是你老公跟你妈吵架，要么就是你跟你婆婆开战。这生活啊，鸡飞狗跳，用不了一年你就得变成黄脸婆！”</p>
-<p>这话听来刺耳，但在北京要花70万人民币买一个户口，46万人民币买一平方米“学区房”的今天，这讽刺沦肌浃髓——就在5月20日上午，一位没有北京户口的父亲在孩子就读北京公立学校反复被拒绝后，选择了在北京昌平区政府门前自焚，浑身八级烧伤住进医院。而这样走投无路的“北漂”父母，并非孤例。</p>
-<p>邱莹莹无知者无畏，义无反顾投奔了爱情。但剧情并没有走向灰姑娘遇上王子、从此过上幸福美好生活的童话模式。在《欢乐颂》里，同居之后，邱莹莹发现她的上司兼男朋友上了另一个女人的敞篷车。邱莹莹大闹办公室，揭露男友虚开发票的事实。冰冷职场里，公司没有对这个道出真话的职员褒赏有佳，而是轻描淡写开除了她，一个办公室规矩的破坏者——邱莹莹丢了爱情，丢了工作，一无所有地坐在2202室的小房间里，苦恼着下个季度的房租从哪儿找。</p>
-<p>邱莹莹至此成了一个存在感越来越孱弱的角色，许多人从这个混沌未开的奋斗女生身上看到了青涩的自己：“你就是邱莹莹，不配生活在北上深（指北京、上海、深圳，如今中国房价最贵的三个一线城市）！”</p>
-<p>而当剧情进一步推进，邱莹莹被抛诸脑后，樊胜美和她的父母成了盘桓微博一周的热词——樊有个不靠谱的哥哥，把人打伤住院后，对方没完没了地上门索要医疗赔款。樊家父母千方百计护着哥哥，如同过去十几年一样，让妹妹给钱、给钱、给钱，樊胜美实在没钱了，那就让她借钱，因为她迟早嫁出去，成为别人家的人。在樊胜美父母成功取代《还珠格格》里的容嬷嬷成为全民公敌后，各大社区论坛里，又见得姑娘们三三两两在共情：“我就是现实中的樊胜美！”</p>
-<p>在电视剧里，穷人的事总是陈谷子烂芝麻一堆，说到底离不开一个字：钱。</p>
-<p>富人安迪和曲筱绡的人生则被设置了更丰富的精神世界。她们遇到的所有困难都来源于自我超越的梦想和恋爱。不止如此，她们还能够时不时利用自己的权、钱和智力，替穷人们指点迷津。《欢乐颂》所展示的都市生活如此直白：穷人藏藏掖掖地揹着A货皮包，富人穿着一身琳琅的Armani走过，再不屑抛下一句：地摊货；穷人生病了去不起医院，富人正在和年轻有为的主治医生调情；穷人在家欢喜地泡面，富人做完SPA后光顾了上海新开的一家跪式服务的日本料理店；穷人周末闲得打苍蝇，千载难逢地被富人领着去朋友买下的私人岛屿度假……</p>
-<p>不少观众对这样的剧情设置很不满，评价道：“三观已毁、节操尽碎”。但换一个角，不管你认可和接受与否，它恰恰冷眼道出了大部分的真实中国：贫富悬殊，阶层固化，权力和金钱几乎可以解决一切问题。</p>
-<blockquote><p>我更愿意相信，阶级与阶级之间不是一层楼上的平起平坐，而是金字塔与食物链的关系。</p></blockquote>
-<p>也有不能道的现实，比如这部由小说改编的电视剧里隐去了一些政治敏感因素。</p>
-<p>原著里，安迪的生父是一位部级高官，文革年代上山下乡时，与乡下一个患有精神病的女子生下了安迪，之后考上大学，返城还乡，抛弃家人，音讯杳无。后来他为了躲避审查，又将家族的巨额遗产赠给安迪。在电视剧里，部级高官的身份被替换成一名经济学家。原著里，樊胜美家被恐吓不休时，安迪出面找到当地一位巨商朋友，请出一名“地头蛇”轻松摆平樊家的纠纷，这名地头蛇的身份在小说中本来是当地公安局的原刑侦队长，剧中，他成了一名律师。</p>
-<p>电视剧热播后，热心的中国观众们几乎把《欢乐颂》里每个人物的阶层、服饰、人格、职业翻出来一一咀嚼了一遍。媒体也借势推出各种专题：五个姑娘在现实中应该怎样理财？应该在北京上海购买怎样的小区？应当如何规划职业生涯？像2202室那样，房屋漏水，邻居找上门应该如何处理？遇见樊胜美家的医疗纠纷如何处理？</p>
-<p>尽管这部电视剧因“直指现实”之名蹿红，我仍然好奇，现实之中，五个不同阶层真能凑成一台戏吗？那些月薪不到一万，每天为房租犯愁的“漂”在北京、上海、深圳的年轻人们，有多大概率会遇见家族资产过亿的富二代、年薪过百万的投资界精英，并邻里相闻、互为肢体？</p>
-<p>北京大学的中国社会科学调查中心曾发布《中国民生发展报告2014》，报告指出，2012年中国家庭净财产的基尼系数达到0.73，相比收入差距，中国人的财富差距更大：顶端1%的家庭占有全国三分之一的财产，底端25%的家庭拥有的财产总量仅在1%左右。这道鸿沟还在继续加深。</p>
-<p>《欢乐颂》中的主角也讨论过“阶级”问题。安迪和关雎尔在上班路上，这样讨论一心想攀高枝挤进更高阶层的底层人民樊胜美：</p>
-<p>关雎尔：这种档次的活动，她去了又能怎么样呢？虽然人跟人是平等的，可这社会就是有阶级之分，你无视阶级只会碰壁，努力做事，克服局限才是真的。</p>
-<p>安迪则优雅地回应：很多时候所谓的阶级，其实就是自己内心的一片魔障。</p>
-<p>但是，这位年薪百万的投行女精英并没有打消一般大学毕业生关雎尔的困惑：在残酷的现实中，一个人得多有勇气才能无视这些客观存在的阶级！</p>
-<p>我更愿意相信，阶级与阶级之间不是一层楼上的平起平坐，而是金字塔与食物链的关系。</p>
-<p>《欢乐颂》剧集落幕的第二周，5月18日，离上海市中心陆家嘴直线距离20公里外的郊区周浦，土地拍卖拍出了一块54.5亿元的“地王”。业内人士估计，这个房地产项目至少会卖到每平方米7万至8万以上，而目前周浦地区的平均房价仅为4万每平方米左右。这意味着，在土地供给紧缩的局面中，中国一线城市的房价还将迎来不可估量的暴涨。</p>
-<p>不妨代入一下五个姐妹的生活：安迪和曲筱绡的固定资产会增值一倍，樊胜美、关雎尔、邱莹莹需要支付的房租也翻了一倍。那时，穷人和富人，还能聚在一起，凑成一幕和谐的“欢乐颂”吗？</p>
-<p><strong>另附：</strong></p>
-<p><strong>薛静：阶级夹缝间，不再任性的中国新中产</strong></p>
-<p>端传媒编按：本文最早以《“欢乐颂”中的新中产：他们的集体时代气质是“不敢任性”》为题，刊发于澎湃新闻“思想市场”栏目。经作者授权端传媒编修转载。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/610c1e2bfaf147cba944311c58c1b6d7.jpg?resize=600%2C400" alt="薛静：走红的热剧《欢乐颂》，反映出中国中产在板结社会中努力创造空间的生存境况。 图为北京上班族拥挤在地铁车厢中。摄：Kevin Frayer/GETTY" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/610c1e2bfaf147cba944311c58c1b6d7.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/610c1e2bfaf147cba944311c58c1b6d7.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/610c1e2bfaf147cba944311c58c1b6d7.jpg?resize=1024%2C683 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/610c1e2bfaf147cba944311c58c1b6d7.jpg?w=1080 1080w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>薛静：走红的热剧《欢乐颂》，反映出中国中产在板结社会中努力创造空间的生存境况。 图为北京上班族拥挤在地铁车厢中。摄：Kevin Frayer/GETTY</p></div>
-<p>TVB刚刚把《琅琊榜》搬上香港的荧幕。大陆那边，则是《欢乐颂》在一片火爆中落下帷幕。两部热剧都来自侯鸿亮的“正午阳光”制作团队。《琅琊榜》在演绎“家国天下、情义千秋”，《欢乐颂》却讲述“家国”当中个体的艰难、“情义”背后阶级的阻隔。</p>
-<p>《琅琊榜》改编自粉丝众多的知名网络文学作品。而《欢乐颂》与此不同，它以名不见经传的原著，同样在电视收视、网络点播与社交媒体热度三大战场赢得胜利。甚至，这个胜利比《琅琊榜》来得更为迅速。《琅琊榜》与《欢乐颂》，一个温情一个残酷，但都受到观众的追捧，它们的成功，正在于对时代脉搏的精准把握与全新阐释。</p>
-<p>早在《琅琊榜》中，主创团队就已经敏锐地捕捉到了时代变革的讯号：《瑯琊榜》里的“家国”宏大叙述，早已变成“空洞的能指”──徒具其表。它的巧妙之处在于，当它拉起“家国天下”为表，争取官方认可的同时，悄然间以“情义千秋”为里，将王朝权力的更迭，讲述为个人的平反昭雪、重归正统。梅长苏的故事，借用“正义”的名分，行的是“亲我主义”（在法律允许范围内，不避讳人情伦理）的情感法则。为现实中的逻辑，寻找到了合乎官方价值的表达方式。</p>
-<p>及至《欢乐颂》，“缝合”的主题变为了“撕裂”：来自不同的社会阶层的五位姑娘，阴差阳错共同住进了欢乐颂小区22层：高管安迪智商超群，但却疏于人情世故，从海外归来寻找失散的弟弟；“富二代”曲筱绡貌美又毒舌，向老爸表态自力更生，以博好感抢家产；外企HR樊胜美一心想钓金龟婿，原因却是有个无底洞一样榨取女儿的家庭；小康之家出身的关雎尔，乖巧又倔强地想要在上海独立；小城姑娘邱莹莹，憨直淳朴，感情受骗后终于发愤图强。五个背景不同的姑娘相遇在人生的十字路口，相互之间有欣赏也有鄙夷，期待理解却又难以认同。</p>
-<p>当代都市光鲜亮丽的背后，是个体的艰辛生活。欢歌笑语“姐妹情谊”的背后，是阶级的隐隐现形。但也正是这种撕裂，令身处夹缝之中的中国新一代中产阶级显露出寻求自身定位、创造自我话语的顽强努力。</p>
-<p>不敢再任性的青年一代</p>
-<p>提到表现当代都市青年生活的电视剧，绕不开的是2007年赵宝刚导演的《奋斗》。在这部剧作中，主人公陆涛从爱情到事业，都充满了浪漫主义色彩。他甩掉“富二代”女友，想与平凡姑娘共同奋斗。他设计项目获得两千万奖金，最终又让公司亏损三个亿。但是“赚了两千万又怎样，赔了三个亿又怎样？”佟大为饰演的陆涛，将POLO衫的领子高高竖起，梗着脖子、抬起下巴，骄傲地睥睨着这个世界。</p>
-<p>在《奋斗》中，一群生活在北京的青年男女，住在废弃工厂的大厂房，门口漆着“乌托邦”——这的确是一个乌托邦之梦，他们仍旧怀有成为著名建筑师、服装设计师的理想，心心念念着“法国”这个浪漫的彼岸，坚定地相信可以通过奋斗获得成功，并且在这个充满规则的社会中任性，横行霸道。</p>
-<blockquote><p>然而，《奋斗》作为里程碑式的作品，与其说是一个阶段的开始，不如说是一个时代的结束。50后导演赵宝刚的青春幻梦和热血激情，以这种理想主义的方式，完成了最后的谢幕。</p></blockquote>
-<p>2008年全球金融海啸所引发的，是轰轰烈烈的全球化浪潮的新变化：经济领域的全球交流仍旧继续，但是人们却发现，资源的全球配置，带来的是本地底层民众生活质量下降，而上层食利者赚得盆满钵满。经济蓬勃发展的时期，在人人梦想成真的宣传，和账户上不断上涨的数字的双重作用下，阶级区隔并不明显。而大浪退去，现实就会如同岸上的沙石一般显露出来。国内阶级矛盾和国际民族矛盾互相推进：小到不欢迎外地游客，大到要筑美墨边境墙，整个世界范围内，都遭遇着社会结构板结和民族主义高涨。而在中国大众文化领域中，人们从《奋斗》的浪漫情愫，调头进入《蜗居》、《裸婚时代》和《北京爱情故事》的严峻现实，直到今日的《欢乐颂》。</p>
-<p>十年之间，时代精神已然改变。青年人从北京郊野、废弃厂房的“乌托邦”，搬入高楼林立的繁华上海。在《欢乐颂》里，“追求理想”被“只求生存”替代，成为中产生活的主旋律。北京皇城根下那种就算喝着大碗茶、也要指点江山笑谈天下的雄心壮志，变成了上海黄浦江畔的精明、务实与利己。而这种变化，也正昭示着八十年代末那些残存的启蒙主义理想已被涤荡净尽，人们的目光，从政治上的“大历史”转向金钱里的“小时代”。</p>
-<p>《欢乐颂》中，合租在欢乐颂小区2202的三位姑娘，哪个不用在算盘里生活？从房租水电，到约会开销，还有家乡的父母兄弟，哪怕是月入上万，小账本上各项开销盘算下来，也是所剩无几。连衣食住行都要好生计算，哪里还敢任性？生活如此，爱情和婚姻也逐渐变成搭伙过日子，因此才需要把各自条件和婚前财产一一理清，这是越来越多奔波在相亲路途上的中国青年人，正在感受的现实。</p>
-<p>“不敢任性”不仅收入，更是一种集体共有的时代气质。连剧中的富二代曲筱绡，谈起生意都会为二百万毛利润锱铢必较，哪里还有《奋斗》中，陆涛那样拿着两千万不当回事儿的潇洒？如安迪和魏渭这样的商务精英，网上再怎么心有灵犀、相谈甚欢，第一次见面也会财不外露、刻意隐藏。70后的侯鸿亮，显然比50后的赵宝刚更具现实主义精神。</p>
-<blockquote><p>在这个时代，拥有理想是种幸运，而不是崇高，谈论爱情是种奢侈，而不是浪漫。</p></blockquote>
-<p>无论哪个阶层，对于自身的状态，总是充满不安全感，这才是“不敢任性”的根源。特别是近年来，中国的意识形态，一直在变动中重组；经济发展也从原先的轻车快马变为减速前进。2015年的一轮股市过山车，更是让刚刚安稳的中产阶级再次惴惴不安。当没有既定的规则可供依循，唯一能够抓住的就只剩金钱。剧中樊胜美有难，安迪递上一万元钱时，我们倏尔发现：原来金钱已经成了最大的情义。人们小心翼翼的守护住自己的财富，无论多少，再也不敢任性而为。</p>
-<p>“阶级”的隐身与现形</p>
-<p>《欢乐颂》一剧最让人感到痛切之处，在于它以创造乌托邦为开始，却以不断打破乌托邦作为故事发展的动力。</p>
-<p>22楼五位美女，原本出身于不同的家庭背景，各自的人生经历也划定了她们实际所处的阶层，但是机缘巧合，共同入驻“欢乐颂”小区22楼。同住一层楼，看起来是生活在同一平面，然而这背后的差异，就如同下楼时有人按了“1层”（大堂）而有人按了“B1”（地下车库）一样，隐蔽而深刻。</p>
-<p>在消费主义面前，一切都被折算成金钱与购买力，这种计算方法大大简化了阶级之间的差异。在当前，各个商业品牌都希望上下通吃、全产业链布局。哪怕是国际一线的奢侈品牌，也会推出入门级的包包、买得起的口红或与快消品牌合作的服装。这种现象给人一种错觉：只要赚到足够多的钱，就可以在社会阶级中通行无阻。如果没有原生家庭的负累，月薪几万的樊胜美之流，与月薪几十万的安迪之流，在生活的舒适程度上，并不会产生天壤之别，她们都可以在别人的目光中披挂一身名牌，哪怕一个是入门级、一个是限量版。</p>
-<p>改革开放、市场经济初期，中国人常常惊叹于资本主义物质的丰富，继而发现金钱的不公和万恶──它竟然可以让有的人沿路乞讨、食不果腹；而有的人可以吃一个扔一个。然而新世纪的今天，社会进入普遍中产、普遍均等的阶段，所有人都能吃得饱穿得暖的时候，超市牛肉与神户和牛的差别，已经没有饥与饱这么大。在外企做HR的樊胜美，也一样买得起富二代曲筱绡所用的东西。</p>
-<p>“阶级”的差异，在消费主义的物质资源面前，仿佛已经消失不见。</p>
-<p>但是另一方面，“阶级”所造成的裂痕，向着更隐蔽也更深入的方向发展。“富二代”在清晨看见穿大牌款式睡衣的樊胜美，便出言讽刺道：“你衣服哪儿买的呀？我妈今天早上穿的也是这件。”一下刺中了樊胜美的软肋：“买得起”和“用得起”是不一样的。如富贵人家曲母之辈，自然有底气穿大牌正品睡衣。而对于有钱用在刀刃上的樊胜美，不穿出去给人看的睡衣，当然买的是仿品。</p>
-<blockquote><p>这些“穿在里面的衣服”，成为标定阶级的关键。这是属于新中产的焦虑症：她们全心全意遵循上一阶级制定的规则，从内到外模仿精英的生活方式，却无从创造属于自己的话语体系，时不时露出马脚、遭到嘲笑，作为社会结构的主要组成、经济发展的直接动力，却只能站在任人评判的位置。</p></blockquote>
-<p>中国中产日常生活有一个耐人寻味的变化：经济上属于同一阶层的人，气质越来越趋近。这背后，是异常残酷的事实：依靠一己之力跨越阶层的突围者、搅局者越来越少，中国社会正日益走向板结。中国人曾嘲笑那些以他者姿态闯入富裕阶层的前辈，他们磕磕巴巴不会讲一句完整的英语、黑西裤黑皮鞋中露出一截白袜、吃饭总是改不了吧唧嘴的恶习。然而三代以后，他们的儿孙终于在哈罗公学（Harrow School）里用英语谈笑风生、身着礼服在各种“公主之夜”上翩翩起舞、懂得分辨不同年份和产地的红葡萄酒，优雅得体。但这却昭示局外人：他们再也没有入局的机会了。</p>
-<p>社会板结，阶级固化。为了维持与富裕阶层的相似，《欢乐颂》里的新中产们或是费尽心力想进入上流社会交际圈，或是亦步亦趋尾随其后、从专业知识学到生活方式。然而她们又在工作、生活、感情危机突然降临的时刻惊慌失措，显现出内里的空虚——这些由家庭背景、成长经历积累而成的话语经验，就不是金钱可以购买的了。这里现形的“阶级”彰显的，正是队伍日渐扩大的中国新中产在自我话语上的匮乏。</p>
-<p>中国新中产：寻找新的话语空间</p>
-<p>按照中国国家统计局2014年的调查报告，以平均三口一家计算，家庭年收入人民币6至50万元，是界定城市中等收入群体的标准。中国新一代“中产”，首次得到了官方的数字化界定。</p>
-<p>按照这个标准，尽管仰望着2201和2203的两位富裕业主，《欢乐颂》里2202房三位租户中的两位，都算是标准的城市中产，剩下一个也是相差不多的准中产。按照原著的发展，她们三个都会是中国最典型的中产，代表中国绝大多数城市青年的生存状态。</p>
-<p>“中产”的名字固然动听，然而如果只能成为富裕阶层的模仿者，她们的生活，或许“舒适”，但永不“体面”。樊胜美来自重男轻女的乡镇，要承受父母一辈的盘剥压榨，关雎尔自二线城市的小康家庭，想靠自己闯出天地。她们的原生家庭各不相同，但最终交会在欢乐颂小区2202室这个中国新中产的汇集地。不同的起点与路径，令中产内部就充满了诸多分歧，因此话语统和也就更加艰难。</p>
-<p>什么是富有情趣的生活？中国中产试图摆脱先富之人的脚印，转而重新定义自我。因为只有创造出属于自己的生活方式、价值体系，他们才不会被指认为相对于富裕阶层的后来者与低等人，而是成为与之平等但不同的另一社会集团，甚至在文化与道德上，享有更多的话语权。</p>
-<p>在《欢乐颂》里，最无所挂碍的邱莹莹，对安、曲二人的高端生活坦然羡慕，但从不模仿，毫无自卑与嫉妒，充满乐观、进取与知足，展现了蓬勃如野草一般的生命力。当邱莹莹萌生了开咖啡网店的想法时，安迪瞧不上她的智商，曲筱绡看不上她的本钱。但是这种充满个人特色和时代气息的方式，恰恰让她创造了属于自己的成功之道。邱莹莹不像关雎尔一样处处模仿安迪的行事做派，也不像樊胜美一样总是想挤进曲筱绡的富人圈子，但是她在网店事业中展现的机灵、勤勉与行动力，却最终让安曲二人刮目相看。其他角色里，樊胜美将目光放回经营自己而非挤入上流，赵医生也靠自己的聪慧才智和个人魅力，获得了安迪的友谊和曲筱绡的爱慕。</p>
-<blockquote><p><strong>什么是可以成功的道路？这一代中国中产的道路之所以崎岖，是因为他们是全新一代，是改革开放后，社会主义中国语境下孕育出来的本土中产阶级。他们没有前辈可供参考，因而充满了拙劣的模仿，也充满了创造的可能。和西方语境下的传统中产相比，他们无法在政治上开拓更多的空间，只能以经济水平来确定自我的存在，也尽力尝试着在文化上标明自我的身份。站在贫富两极的中间，他们的姿态正从“惶恐”转为“自觉”，努力撑破贫富两极的界定，为社会酝酿着流动的力量。</strong></p></blockquote>
-<p>《欢乐颂》里的年轻中产，既对抗着来自原生家庭、传统社会的阻挠，又反击着来自富裕阶层、上流社会的打压，在当代社会中顽强生存。在身为富裕阶层的安迪和曲筱绡不带她们一起玩耍的时间中，这三位姐妹相互鼓励、相互帮助，为自己的生活赋予价值和意义。</p>
-<p>诚然，《欢乐颂》中，智商不同无法成为朋友、财富差距不能愉快玩耍。但是三位年轻的中产一代，依旧在创造着自己的话语资源和价值体系。中产阶级在板结社会中开拓属于自己的空间，这是《欢乐颂》留下的时代命题。</p>
-<p><strong>（薛静，北京大学中文系博士研究生，从事大众文化、网络文学与新媒体等领域的研究。）</strong></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E3%80%8A%E6%AC%A2%E4%B9%90%E9%A2%82%E3%80%8B%E7%83%AD%E6%98%A0%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%83%BD%E5%B8%82%E6%AE%8B%E9%85%B7%E7%89%A9%E8%AF%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82/?category=18271" rel="tag">一线城市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%A7%82/?category=18271" rel="tag">三观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E9%9D%A9/?category=18271" rel="tag">变革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%8C%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">富二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">市场经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AC%A2%E4%B9%90%E9%A2%82/?category=18271" rel="tag">欢乐颂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B6%88%E8%B4%B9%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">消费主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">现实主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">理想主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E5%B1%82/?category=18271" rel="tag">社会阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">社会阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95/?category=18271" rel="tag">经济发展</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%9D%E8%AF%AD%E4%BD%93%E7%B3%BB/?category=18271" rel="tag">话语体系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%BD%E5%B8%82/?category=18271" rel="tag">都市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B6%E7%BA%A7%E5%9B%BA%E5%8C%96/?category=18271" rel="tag">阶级固化</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%84%E5%85%9A%E7%AB%A0%E8%AE%A8%E8%96%AA/" target="cdt-mirror">【图说天朝】抄党章讨薪</a>
-</h2>
-<p><p>@周蓬安 ：【全国多地展开抄党章活动 场面热烈】自中办印发《关于在全体党员中开展“学党章党规、学系列讲话，做合格党员”学习教育方案》以来，全国多地展开员党员手抄党章活动，气氛热烈。5月23日，江西省高院门口，10多位农民工摆起桌椅，集体抄党章。微评：弱弱地问一声，网传此为农民工抄党章讨薪，真的吗？</p>
-<p>@董郎dxp：江西民工在江西省高院门口抄党章讨薪。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g7tur9j20nq0hsaby.jpg?resize=440%2C330" alt="678207a7gw1f453g7tur9j20nq0hsaby" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g7tur9j20nq0hsaby.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g7tur9j20nq0hsaby.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g89q7vj20nq0hswgq.jpg?resize=440%2C330" alt="678207a7gw1f453g89q7vj20nq0hswgq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g89q7vj20nq0hswgq.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453g89q7vj20nq0hswgq.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453fvv5lrj20go0m8aat.jpg?resize=440%2C587" alt="678207a7gw1f453fvv5lrj20go0m8aat" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453fvv5lrj20go0m8aat.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/678207a7gw1f453fvv5lrj20go0m8aat.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p><strong>编辑注：</strong>横幅文字为“抄党章100天 敦促郭斌副院长做合格的共产党员”</p>
-<p>@宏风王：洞房抄党章，讨薪来模仿。法院如拒判，也可抄党章。正反皆可用，真理远名扬。</p>
-<p>@okpranfu：此举已成为行为艺术。</p>
-<p>@王思想021 ：【我最爱党】洞房不举怎么办？抄党章。怀孕胎教怎么办？抄党章。民工讨薪怎么办？抄党章。经济下行怎么办？抄党章……</p>
-<p>@ wangxhui：这些农民工里可能有假冒党员，建议江西高院火速派人查查，是党员的在门口抄党章太热了，对同志要春天般温暖要请进门一块儿抄，不是党员的就属于刺探党的机密，完全可以找个罪名弄弄他。</p>
-<p>@上海惜玉：继散步之后，刁民又发明了一个给领导施压的新方法！</p>
-<p>@律师张无忌：高家庄的高，实在是高！</p>
-<p>@莺歌海-止水微澜：如此讨薪，算不算是“恶意”呢？[哈哈]</p>
-<p>@孙亚1968：这个需要新华社的通稿为准。</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E6%8A%84%E5%85%9A%E7%AB%A0%E8%AE%A8%E8%96%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">中共党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -886,7 +863,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -896,5 +873,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

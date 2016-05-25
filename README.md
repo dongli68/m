@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E8%80%83%E5%87%8F%E6%8B%9B%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5-%E5%A4%9A%E5%9C%B0%E5%AE%B6%E9%95%BF%E4%B8%8A%E8%A1%97%E6%8A%97/" target="cdt-mirror">自由亚洲｜高考“减招”持续发酵 多地家长上街抗议</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg" rel="attachment wp-att-438901"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg?resize=575%2C411" alt="不满高考名额削减数万引发湖北、江苏两省家长的强烈不满。（Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg?resize=300%2C215 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg?w=622 622w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>不满高考名额削减数万引发湖北、江苏两省家长的强烈不满。（Public Domain）</span></p></div>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E6%B5%B7%E6%B6%9B%E8%AF%84%E8%AE%BA-%E5%AD%A9%E5%AD%90-%E4%BD%A0%E8%A6%81%E7%9A%84%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3%E5%A4%AA%E9%9A%BE%E5%AE%9E%E7%8E%B0/">海涛评论 | 孩子 你要的教育公平太难实现</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E6%B1%9F%E8%8B%8F%E6%8A%97%E8%AE%AE%E5%AE%B6%E9%95%BF-%E7%9C%81%E6%94%BF%E5%BA%9C%E5%89%8D%E9%AB%98%E5%96%8A%E7%9C%81%E9%95%BF%E5%87%BA%E6%9D%A5/">【CDTV】江苏考生家长抗议现场：省政府前高喊“省长出来”</a></li>
+<li> <a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E8%AE%A9%E6%B1%9F%E8%8B%8F%E6%8D%90%E7%B2%BE-%E4%B8%8D%E5%A6%82%E7%BB%99%E8%A5%BF%E9%83%A8%E5%A3%AE%E9%98%B3/">导弹熊 | 让江苏捐精 不如给西部壮阳</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E9%9D%9E%E6%96%B0%E9%97%BB%EF%BD%9C5-13-%E5%A4%A7%E6%89%B9%E6%B1%9F%E8%8B%8F%E8%80%83%E7%94%9F%E5%AE%B6%E9%95%BF-%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%89%8D%E6%8A%97%E8%AE%AE%E5%87%8F%E6%8B%9B/">【组图】非新闻｜5.13 大批江苏考生家长 省教育厅前抗议减招</a></li>
+</ul></blockquote>
+<p>中国高考“减招”引发的抗议持续发酵，继江苏、湖北之后，河北、浙江、河南等地的学生家长连日来也走上街头表达抗议。有评论认为，高考不公持续已久，此次“减招”只是一个导火索，引爆了家长们长期以来的不满。</p>
+<p>本台日前曾报道，江苏及湖北两省多个城市的学生家长，因不满教育部发文将省内生源调出数万分配给中西部省份而前往当地政府前聚集抗议。其后，当地政府也做出了回应，明确表示招生规模不会缩减。不过，抗议行动并未因此结束，而是蔓延到了更多省份。</p>
+<p>根据海外“参与网”的报道，5月22日，河南郑州、洛阳、安阳、焦作、商丘等地的学生家长纷纷到各地市政府进行抗议，要求“教育公平”与“高考平权”。23日，河南的家长继续抗议，郑州的学生家长继续聚集在“二七广场”抗议。河北、浙江省也都出现了家长上街抗议的情况。</p>
+<p>一名河南郑州的市民24日向本台证实了有关消息，他说：“我也听说了，我没有上学的孩子，我没去。听他们说，到省政府请愿，说郑州这边感觉录取分数高，比北京高得多，好像是这样。我感觉中国还是不合理，不合理的地方太多了。”</p>
+<p>今年4月底，中国教育部及发改委下发了《关于做好2016年普通高等教育招生计划编制和管理工作的通知》。通知要求2016年升学压力较小的省（市）进一步增加面向部分中西部省（区）的生源计划。受影响的省份包括河北、内蒙古、辽宁、吉林、黑龙江、上海、江苏、浙江、福建、湖北、陕西及青海。</p>
+<p>有家长抗议的浙江省，省教育厅23日回应指是一些人对国家政策有误读。又指自2008年开始，教育部已会同国家发改委启动实施支援中西部地区招生协作计划，每年由高等教育资源相对丰富、录取率较高省份的高校面向高等教育资源不足、录取率较低的中西部省份和人口大省招生，逐渐缩小省与省之间过大的高考录取率差距。</p>
+<p>浙江省教育厅还强调，今年省内完全可以做到：普通高考录取率不会低于去年，本科录取率不会低于去年，高水平大学在浙招生录取人数不会低于去年。</p>
+<p>河北学者史宗伟5月24日接受本台采访时表示，此次高考“减招”事件之所以会引发诸多抗议是因为长期以来，高考不公平已让人们积累了太多的不满。</p>
+<p>“这个高考不公，非常的不公，已经长期积累的矛盾，积累了极大的怨气。这次是怨气的一个发泄、一个爆发。我觉得中国教育出现的问题非常严重、非常广泛、非常深刻，中国的孩子们太苦太苦了。”</p>
+<p>网民“又开始倒数了”在微博上抱怨道：作为今年的河北高考生，我真醉。中西部开发怎么了？有必要从河北调资格？既然京津冀一体，为什么抛开北京天津，还整天背政治，多公平多高效多么会合理配置资源。做作。别的不说，广东出来解释一下，不发达？落后？偏远？中西部？</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E8%80%83%E5%87%8F%E6%8B%9B%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5-%E5%A4%9A%E5%9C%B0%E5%AE%B6%E9%95%BF%E4%B8%8A%E8%A1%97%E6%8A%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%B8%8A%E5%B9%BF%E2%80%8C%E2%80%8C%E2%80%8C%E2%80%8C/?category=18271" rel="tag">北上广‌‌‌‌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E7%B1%8D%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">户籍制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E5%85%AC%E5%B9%B3/?category=18271" rel="tag">教育公平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F%E5%87%8F%E6%8B%9B/?category=18271" rel="tag">江苏减招</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83%E5%87%8F%E6%8B%9B/?category=18271" rel="tag">高考减招</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E9%82%A3%E4%BD%8D%E5%9B%A0%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%E4%B8%A2%E4%BA%86%E9%A5%AD%E7%A2%97%E7%9A%84%E8%80%81%E8%AE%B0%E8%80%85%E5%9C%A8%E5%9B%B0%E7%AA%98%E5%92%8C%E6%B2%89%E9%BB%98%E4%B8%AD/" target="cdt-mirror">石扉客：那位因一张照片丢了饭碗的老记者在困窘和沉默中走了</a>
 </h2>
 <p><p><strong>作者微信公号：石扉客栈（ID: shifeiker2015）</strong></p>
@@ -854,26 +881,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91-%E8%94%A1%E8%8B%B1%E6%96%87%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%AA%E9%98%B3%E8%8A%B1%E8%BF%90%E5%8A%A8%E5%AD%A6%E7%94%9F%E7%9A%84/" target="cdt-mirror">日经中文网 | 蔡英文撤销对“太阳花运动”学生的起诉</a>
-</h2>
-<p><p>5月23日，刚刚上台的台湾蔡英文政权宣布撤销国民党马英九前政权对“太阳花运动”参与学生提起的起诉。2014年，台湾学生为抗议马英九前政权与大陆缔结“服务贸易协定”，发起“太阳花学生运动”，占领立法院约3周时间。相比前政权推进的对大陆融合路线，蔡英文政权转变路线的动作十分明显。</p>
-<p><strong>另附中央通讯社报道：</strong></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/55258587.jpg?resize=450%2C629" alt="55258587" data-recalc-dims="1"></p>
-<p>（中央社記者戴雅真台北23日電）行政院發言人童振源今天上午宣布，行政院長林全20日上任後第二份公文，就是撤回對太陽花學生運動人士的告訴。1050523</p>
-<p>政院首政治決策 對126學運被告撤告</p>
-<p>（中央社記者戴雅真台北23日電）行政院發言人童振源今天上午表示，行政院長林全20日已批出公文，對太陽花學生運動126名被告撤回告訴乃論的刑事告訴，這也是林全內閣的第一個政治決策。</p>
-<p>他說，行政院提告太陽花學運人士民國103年3月23日夜間到24日凌晨進入行政院案，林全20日批出上任後第二份公文裁示，行政院將對126名被告撤回告訴乃論的刑事告訴。</p>
-<p>童振源轉述，林全表示，太陽花學運是政治事件，非單純法律事件，應在多一點和諧、少一點衝突原則下儘量從寬處理， 決定撤告。</p>
-<p>林全說，行政院當年對學生提刑事告訴具政治考量，但現今太陽花學運訴求已普遍成為社會共識，立法院也依訴求針對兩岸協議監督條例進行立法，突顯太陽花學運正當性與社會貢獻。政治事件不該只單純用法律問題看待，決定撤告。</p>
-<p>童振源受訪表示，林全上任後簽署第一份公文是例行性人事公文，第二份公文就是撤告，可說是行政院第一個政治決策。決策前，相信林全有和總統蔡英文充分討論。1050523</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%97%A5%E7%BB%8F%E4%B8%AD%E6%96%87%E7%BD%91-%E8%94%A1%E8%8B%B1%E6%96%87%E6%92%A4%E9%94%80%E5%AF%B9%E5%A4%AA%E9%98%B3%E8%8A%B1%E8%BF%90%E5%8A%A8%E5%AD%A6%E7%94%9F%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8/?category=18271" rel="tag">两岸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%B9%B3%E6%AD%A3%E4%B9%89/?category=18271" rel="tag">公平正义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1/?category=18271" rel="tag">太阳花</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%AA%E6%94%BF%E4%BD%93%E5%88%B6/?category=18271" rel="tag">宪政体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%B1%E8%81%8C%E6%BC%94%E8%AF%B4/?category=18271" rel="tag">就职演说</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%85%9A/?category=18271" rel="tag">执政党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B9%E9%9D%A9%E6%96%B9%E6%A1%88/?category=18271" rel="tag">改革方案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E4%B8%96%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">普世价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">民主制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">民主自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%90%8C%E5%AD%98%E5%BC%82/?category=18271" rel="tag">求同存异</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E7%BB%93%E6%9E%84/?category=18271" rel="tag">经济结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">领导人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -885,7 +892,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -895,5 +902,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

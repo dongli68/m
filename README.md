@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%85%B3%E6%B3%A8%E7%90%86%E6%83%B3%E5%9B%BD%E4%B9%A6%E7%B3%BB%E7%BC%94%E9%80%A0%E8%80%85%E8%A2%AB%E6%8D%95%EF%BC%9F/" target="cdt-mirror">读书旅行｜我们为什么会关注“理想国书系缔造者”被捕？</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%90%86%E6%83%B3%E5%9B%BD.png" rel="attachment wp-att-438960"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%90%86%E6%83%B3%E5%9B%BD.png?resize=400%2C549" alt="理想国" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%B9%BF%E5%B8%88%E7%A4%BE%E5%89%8D%E8%91%A3%E4%BA%8B%E9%95%BF%E4%BD%95%E6%9E%97%E5%A4%8F3%E6%9C%88%E5%B7%B2%E8%A2%AB%E6%8D%95-%E6%80%BB%E7%BC%96%E8%BE%91%E5%88%98%E7%91%9E%E7%90%B3%E5%90%8C%E6%9C%9F/" target="_blank">凤凰网｜广师社前董事长何林夏3月已被捕 总编辑刘瑞琳同期被免职</a></p></blockquote>
+<p><em>文/郁风</em></p>
+<p>广西师范大学出版社，原本偏居西南，不大多数人所知，但随着柴静《看见》一书的出版，以及“理想国书系”的接踵推出，让人眼光一新，该社也被公认为人文社科出版领域的翘楚。赢得赞誉之后，该社并没有裹足不前，在人文，启蒙领域继续发力，新书赢得一片叫好又叫座的同时，让人对它的命运也多了一分担忧。今年以来，随着某些书的下架，已有多次该社出版高层被查的传言流出。以致今日，该社原董事长何林夏涉受贿被捕引来了不一般的关注和联想。</p>
+<p>媒体人、出版人因经济问题入狱，之前已不鲜见，2004年，南方都市报的副总编喻华峰与副主编程益中曾因此获罪，但人们更多的将其与之前南都编发的孙志刚案等报道联系起来，而事实上，程益中在入狱半年后被无罪释放。今年甘肃记者张永生曾先后以嫖娼、敲诈罪被捕，事后证明嫖娼纯属子虚乌有，敲诈一事如今当局也对其撤销起诉。现今何林夏因受贿被捕，结合近期的舆论氛围，人们的联想与猜测则更多的有了一丝异样的味道。</p>
+<p>媒体人朱学东对此在微博上称：“何的问题，到底是什么，我不清楚。这个时代收拾人，两条，一财二性。但若个人财务问题，固然是个人咎由自取，但却与相关制度密切相关，这个制度它无视个人付出和成就，逼人为圣，以至于几乎所有体制岗位的每一个有权者，都可能有不义，都可能违法。此前报刊出版已有许多案例。以后还会有。可以肯定的是，体制内做事的力量越来越消解的势头，在新技术新资本带来更多选择可能性的时代，会进一步加速。”</p>
+<p>据熟悉何林夏的人称，何为人胆子大，也因此带出版社闯出了一片天地。有广师大出版社的前员工回忆，何工作勤勉，甚至有时在半夜三四点还在回复邮件。其在用餐时，习惯把纸巾分成两半，将另一半分于他人使用。但其在带领出版社向前打拼的过程中，对他的行事作风和经济情况，也有不同看法传出。</p>
+<p>同时，理想国书系的推出，与广师大出版社总编辑刘瑞林女士也密不可分。在此之前，刘也多次陷入被责罚的传言当中，但据今天网易路标的采访，刘瑞林称其现前一切安好。</p>
+<p>何林夏被查后，人们对广师大出版社及理想国书系的未来走向也多了一分担忧。随着出版社高管的相继被查，人事撤换不可避免，广师大社能否坚持之前的人文启蒙路线，这要打一个大大的问号。同时，何林夏被查，无疑给出版界一场巨大的震荡，其他出版社是否会因此变得更为小心谨慎，也是个未知数。</p>
+<p>何林夏有功，这毋庸置疑，他是否有过，还待检查机关的调查结果公布让更多人信服。但何林夏的功，在一部分人眼中，却是他的过。这也让何夏林在很多人眼中扮演了一个悲情英雄的角色。或许，这才是社会的悲情。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AF%BB%E4%B9%A6%E6%97%85%E8%A1%8C.jpg" rel="attachment wp-att-438959"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AF%BB%E4%B9%A6%E6%97%85%E8%A1%8C.jpg?resize=400%2C190" alt="读书旅行" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/读书旅行.jpg?resize=300%2C143 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/读书旅行.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%85%B3%E6%B3%A8%E7%90%86%E6%83%B3%E5%9B%BD%E4%B9%A6%E7%B3%BB%E7%BC%94%E9%80%A0%E8%80%85%E8%A2%AB%E6%8D%95%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%9E%97%E5%A4%8F/?category=18271" rel="tag">何林夏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%83%B3%E5%9B%BD/?category=18271" rel="tag">理想国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%97%E4%B8%8E%E5%B8%9D%E5%9B%BD%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E5%AB%96%E5%A8%BC%E4%B9%8B%E5%A4%96%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD/" target="cdt-mirror">诗与帝国｜雷洋案：嫖娼之外的另一种可能</a>
 </h2>
 <p><p><strong>【编者注】作者萧瀚。微信公号“诗与帝国”原文已被和谐。下文内容来自微信公号“历史是个什么玩意儿”（ID: lishiweixin）转发。</strong></p>
@@ -898,43 +919,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%99%BE%E7%A7%91%E5%90%9B-%E3%80%8A%E9%B2%81%E6%8F%90%E8%BE%96%E6%8B%B3%E6%89%93%E9%95%87%E5%85%B3%E8%A5%BF%E3%80%8B%E8%A2%AB%E6%95%99%E6%9D%90%E6%8B%BF%E6%8E%89-%E5%8E%9F%E6%9D%A5%E6%98%AF/" target="cdt-mirror">百科君 | 《鲁提辖拳打镇关西》被教材拿掉 原来是因为这个</a>
-</h2>
-<p><p>据媒体报道，中小学教材更换40%课文，其中《鲁提辖拳打镇关西》由于与现代和谐社会导向不符，被换为《智取生辰纲》。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14dwOr.jpg?resize=600%2C400" alt="拳打镇关西" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14dwOr.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/14dwOr.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><strong>背景新闻：</strong><a href="http://news.cjn.cn/gnxw/201605/t2828496.htm">北京晚报 | 中小学教材更换40%课文：《鲁提辖拳打镇关西》被换掉</a></p>
-<p>百科君（微信号：newspedia）首先要发扬党的优良作风，进行严厉的自我批评。作为一枚《水浒传》资深骨灰粉，竟然愚昧到喜欢号称“侠之大者”的鲁智深，没有认清鲁智深“侠”的本质不是无产阶级的“侠”，没有政治敏感度，没有紧跟和谐社会步伐。感谢中小学教材，给了百科君正确的、积极向上的政治观，百科君痛定思痛，昨晚彻夜重读了《水浒传》鲁智深篇幅，深感有责任将鲁智深所犯滔天大罪一一昭示天下。</p>
-<p>首先，百科君要深切剖析一下《鲁提辖拳打镇关西》为何与现代和谐社会导向不符，其主要原因如下：</p>
-<p>1.听闻金老父女遭遇后，鲁智深没有向金翠莲指出当今社会“笑贫不笑娼”，没有苦口婆心的劝导“有些动人的颜色”的金翠莲走官员情妇的飞黄腾达之路。</p>
-<p>2.鲁智深身为一名中高层军官，不知道充分利用军官的权力来解决人民群众内部矛盾，反倒靠武力处理问题，方式方法严重欠妥。</p>
-<p>3.鲁智深斗殴导致“两边过路的人都立住了脚”，制造了群体性事件。</p>
-<p>4.鲁智深当街杀人，破坏了“平安渭州”的伟大形象。</p>
-<p>5.打死民营企业家“此间有个财主，叫做镇关西郑大官人”，严重影响了渭州的经济发展。</p>
-<p>插播一则最新消息，据路边社报道，事发后，“平安渭州”吸取经验教训，向“平安昌平”取经后，于次日微博通报，“镇关西郑大官人”死于心脏病突发。</p>
-<p>其次，百科君（微信号：newspedia）彻夜重读《水浒传》鲁智深篇幅后，还发现鲁智深犯下了如下几个重要的罪行：</p>
-<p>1.鲁智深大闹五台山时，不仅破坏了宗教文物，还两次聚众斗殴，制造了数起群体性事件。</p>
-<p>2.花和尚大闹桃花村回目中，鲁智深在新娘房中“脱得赤条条地”，有伤风化；其后再次使用暴力，痛打前来迎亲的“小霸王”周通，破坏了他人美满的婚姻。鲁智深还结交了犯有颠覆国家政权罪的落草为寇的“打虎将”李忠，并在桃花山时盗窃财物，且未阻止李忠、周通二人“明日下山，但得多少，尽送与哥哥作路费”犯下抢劫罪。</p>
-<p>3.鲁智深火烧瓦官寺回目中，与从犯“九纹龙”史进一起杀死二人后，再次逃逸，并烧坏文物瓦官寺。</p>
-<p>4.大闹野猪林救林冲时意图杀人未果；其后一路护送林冲至沧州，严重影响了“防送公人”董超、薛霸的合理执法。</p>
-<p>5.与“青面兽”杨志、“行者”武松一起落草为寇、占山为王，犯有颠覆国家政权罪。</p>
-<p>6.又与前来收剿的“双鞭”呼延灼官军对抗，杀害了国家军官军人。</p>
-<p>7.宋江安排大筵席，宣布招安策略后，鲁智深与“行者”武松、“黑旋风”李逵等一起反对招安，妄议中央。</p>
-<p>8.在梁山期间，再次与国家领导人童贯、高俅等率领的官军对抗，杀害国家军官军人。</p>
-<p>总而言之，言而总之，何止与和谐社会导向不符，鲁智深简直犯了滔天大罪！</p>
-<hr><p>百科君还留意到，针对此次中小学教材课文调整，语文出版社社长王旭明称：</p>
-<blockquote><p>首先，一些优秀的传统篇目得到了保留。比如，保留了体现爱国主义和革命传统教育的篇目《朱德的扁担》等。“对于一年级的孩子们，我们有责任和义务让他们知道，今天的幸福生活来之不易。”</p></blockquote>
-<p>百科君只想了解一个问题：这根扁担到底是谁的，到底是教科书在撒谎，还是《看历史》下文在制造谣言：</p>
-<blockquote><p>1950年代初期，一篇颂扬朱德艰苦朴素精神的文章——《朱德的扁担》被编入了小学教材。然而，在十多年之后的1967年2月，学生们过完寒假回到学校后发现，同样一篇课文，已经换成了《林彪的扁担》。无数的“红小兵”们又开始在这篇课文中学习林彪的艰苦朴素的精神。</p>
-<p>仅仅数年之后，林彪事件发生，教材又悄然换回了《朱德的扁担》。一根扁担，就这样随着政治风云变幻而不断发生换位。</p></blockquote>
-<p>呵呵！呵呵！呵呵！重要的“呵呵”要说三遍！</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%99%BE%E7%A7%91%E5%90%9B-%E3%80%8A%E9%B2%81%E6%8F%90%E8%BE%96%E6%8B%B3%E6%89%93%E9%95%87%E5%85%B3%E8%A5%BF%E3%80%8B%E8%A2%AB%E6%95%99%E6%9D%90%E6%8B%BF%E6%8E%89-%E5%8E%9F%E6%9D%A5%E6%98%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%B0%8F%E5%AD%A6/?category=18271" rel="tag">中小学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%84%E8%AE%AE%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">妄议中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E5%AD%A6%E6%95%99%E6%9D%90/?category=18271" rel="tag">小学教材</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%8F%E6%84%9F/?category=18271" rel="tag">政治敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E7%A7%91%E4%B9%A6/?category=18271" rel="tag">教科书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B4%E6%B5%92%E4%BC%A0/?category=18271" rel="tag">水浒传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BD%93%E6%80%A7%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">群体性事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -946,7 +930,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%B0%8F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -956,5 +940,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%B0%8F
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

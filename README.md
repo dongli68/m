@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%9C%A5%E5%A4%A7%E5%A4%A7%E8%AE%A9%E8%9B%A4%E8%9B%A4%E9%97%AD%E5%98%B4/" target="cdt-mirror">【麻辣总局】蜥大大让蛤蛤闭嘴</a>
@@ -112,7 +112,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%B9%E5%85%8B/?category=18271" rel="tag">习夹克</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E8%A2%96%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">领袖崇拜</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/psy-eyes%EF%BD%9C%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E6%94%BB%E8%AE%A6%E6%9C%B4%E6%A7%BF%E6%83%A0%E5%8D%95%E8%BA%AB%E5%8F%8D%E6%98%A0%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">psy-eyes｜心理学问答：攻讦朴槿惠单身反映了什么？</a>
 </h2>
@@ -541,7 +541,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%BA%AB%E6%94%BB%E5%87%BB/?category=18271" rel="tag">人身攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AF%9B%E5%B7%A6%E5%9C%A8%E6%B8%AF%E6%B4%BB%E8%B7%83-%E6%B8%AF%E4%BA%BA%E5%BF%A7%E8%A2%AB%E6%9F%93%E7%BA%A2/" target="cdt-mirror">美国之音 | 毛左在港活跃 港人忧被染红</a>
 </h2>
@@ -852,5 +852,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/318%E5%AD%A6%E8%BF
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

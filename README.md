@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,109 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BB%8E%E4%B8%AD%E5%B1%B1%E8%A3%85%E5%88%B0%E4%B9%A0%E5%A4%B9%E5%85%8B%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%9C%8D%E8%A3%85%E7%AC%A6%E5%8F%B7/" target="cdt-mirror">纽约时报｜从中山装到“习夹克”：习近平的服装符号</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/26XIJACKET-web1-articleLarge.jpg" rel="attachment wp-att-439000"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/26XIJACKET-web1-articleLarge.jpg?resize=575%2C370" alt="26XIJACKET-web1-articleLarge" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/26XIJACKET-web1-articleLarge.jpg?resize=300%2C193 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/26XIJACKET-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>二月，习近平在北京视察中央电视台的总控中心。他穿的这种夹克展现的是一种日理万机、绝对不光芒四射的形象。  </span> <span>Ma Zhancheng/Xinhua, via Associated Press</span></p></div>
+<p>北京——深色、毫无特点、显而易见的单调，它几乎像保镖一样，始终陪伴着习近平。</p>
+<p>在有关中国国家主席的众多谜团中，最明显的可能就是那种带拉链的藏青色防风夹克，仿佛是他的第二层皮肤。</p>
+<p>毛泽东让衣领紧扣的中山装流行了起来，这种服装甚至直接被称为Mao Suit（毛装）。邓小平也经常穿中山装，不过他的继任者却接受了西方的商务装。</p>
+<p>但习近平如此钟情于他的防风夹克，或许现在可以把它叫做“习夹克”。</p>
+<p>最近去农村考察时，身穿防风夹克的习近平<a href="http://news.xinhuanet.com/photo/2016-04/27/c_128938007.htm" target="_blank" rel="nofollow">挨着</a>一名村民坐着，后者看起来对见到国家领导人而且穿着相似的衣服感到很兴奋。但在更正式的场合，习近平也会穿这种夹克，比如前不久在北京的一次<a href="http://news.xinhuanet.com/photo/2016-05/17/c_128991081_2.htm" target="_blank" rel="nofollow">哲学社会科学工作座谈会</a>上。</p>
+<p>尽管不知道习近平是否公开讨论过自己的着装选择，但这种夹克已经成了他的统治的一种恰当的服装符号。</p>
+<p>它亲民的款式，加上谄媚地称习近平为“习大大”的媒体运动，帮助软化了他更强硬的威权主义锋芒，而它故意不炫耀奢华，又为一名寻求打击官员腐败和铺张浪费的领导人奠定了基调。</p>
+<p>和与习近平有关的大部分人和物——他的饮食习惯、质朴的言语、身为名人的妻子——一样，他的夹克<a href="http://politics.people.com.cn/GB/8198/392365/" target="_blank" rel="nofollow">被中国媒体大肆吹捧</a>，认为它证明了习近平的政治智慧。</p>
+<p>主要的官方通讯社新华社发布的一篇文章称，夹克有着“‘效率先生’的气质”。</p>
+<p>“免熨、利索、耐脏、亲民，”<a href="http://www.qh.xinhuanet.com/2014-04/14/c_1110222529.htm" target="_blank" rel="nofollow">文章</a>写道。“这使得夹克成为中国官场上受欢迎的文官便服。”</p>
+<p>的确，这种款式得到了习近平的同僚和下属的广泛采纳。比如，在去年的一场<a title="Link: http://news.xinhuanet.com/politics/2015-04/03/c_1114868498.htm" href="http://news.xinhuanet.com/politics/2015-04/03/c_1114868498.htm" target="_blank" rel="nofollow">植树活动</a>上，几乎所有高层官员都身着类似的夹克现身。在一个领导人要求不遗余力地保持统一的政府，这似乎不足为奇。</p>
+<p>今年二月，习近平在国家和党主办的新闻机构调研，<a href="http://cn.nytimes.com/china/20160223/c23beijing/" target="_blank" rel="nofollow">告诉</a>那些机构，它们的主要工作是服务共产党。当时，他和同僚都穿着类似的夹克，出现在中央电视台的节目制作现场。流传的官方<a href="http://news.haiwainet.cn/n/2016/0219/c3541083-29653714.html" target="_blank" rel="nofollow">照片</a>上，习近平坐在主持人坐的桌子旁，看上去非常无精打采，身后的随从和他的神情相似，只有两名新闻主播的着装利落时尚。</p>
+<p>这种夹克随意、实际，并且和中山装一样，绝对不光芒四射。它传达了一种民粹主义的、日理万机的形象。</p>
+<p>“它和中山装那种像工蚁似的整齐划一有很大的不同，但依然会令人想起中山装体现的那种精神：节俭、实用、亲民，”澳大利亚新南威尔士大学(University of New South Wales)教授、研究服装在中国的政治象征意义的李木兰(<a href="https://hal.arts.unsw.edu.au/about-us/people/louise-edwards/" target="_blank" rel="nofollow">Louise Edwards</a>)说。“想显示自己该工作了时，他就会穿防风夹克。”</p>
+<p>他说，这种夹克传达的信息是，“管理国家是我的工作，我在努力做这件事，我是政治工作者。”</p>
+<p>习近平<a href="http://news.workercn.cn/c/2011/04/02/110402202923375882167.html" target="_blank" rel="nofollow">不是首位</a>把防风夹克作为会见民众时的服装的中国领导人。它有点像一种“挽起袖子的衬衫”的保暖版，其历史可以追溯到几十年前。习近平的前任胡锦涛也是它的<a href="http://news.ifeng.com/gundong/detail_2012_12/10/20004198_0.shtml" target="_blank" rel="nofollow">铁杆粉丝</a>。</p>
+<p>“夹克由于其轻便大方的特点，使其深受历代国家领导人的喜爱，”亲共产党的香港报纸《大公报》在2014年<a href="http://news.takungpao.com/mainland/focus/2014-03/2374872.html" target="_blank" rel="nofollow">解释</a>道。“夹克形式活泼、富有朝气。”</p>
+<p>记者通过传真发出的有关中国领导人着装规范的问题，未获负责解答政府相关问题的国务院新闻办公室的回复。</p>
+<p>西方领导人在处理公务时很少会不穿西装或礼服，而中国统治者却会像走秀的模特一样随意更换服装，从中山装到西装再到绿色军装，还有防风夹克。对于像习近平这么繁忙的共产党领导人来说，这些可能会出现在同一天的工作场合中。习近平也因此赢得了“<a href="http://cn.nytimes.com/china/20151109/c09sino-barme/" target="_blank" rel="nofollow">全抓全管的老总</a>”的外号。</p>
+<p>夏天，习近平会沿袭传统，穿着白色长袖衬衫和深色裤子与普通百姓打成一片。通常，<a href="http://news.xinhuanet.com/photo/2015-06/18/c_1115651502_4.htm" target="_blank" rel="nofollow">陪同的官员也会效仿</a>。此时的他们，会让人想起一群帝企鹅。</p>
+<p>虽对照片进行了仔细的研究，但迄今为止尚未发现习近平所穿的防风夹克的牌子。中共不会公布这类信息。</p>
+<p>在北京市百货大楼（没错，这就是它的名字），可以买到适合崭露头角的领导干部穿的成衣。在这里，卖带拉链的藏青色防风夹克的品牌有十多个，夹克价格大约在70到700美元之间。</p>
+<p>“在我老家要便宜得多，”坐在百货大楼外的退休人员李传德（音）说。来自中国中部湖北省的他也穿着一件藏青色的拉链式防风夹克。他说，在习近平上台之前很久，他就在穿这种夹克了。</p>
+<p>“习近平是想表现得和我们普通人一样，”他说。“这种衣服哪里都能穿，都没问题。”</p>
+<p>芝加哥保尔森基金会(Paulson Institute)的高级研究员戴青丽(<a href="http://www.paulsoninstitute.org/about/about-our-people/" target="_blank" rel="nofollow">Deborah M. Lehr</a>)表示，对习近平来说，就连鞋的设计意图也是要表明他工作勤勉，无暇顾及令人分心的事物。戴青丽在参加与中国领导人的会议期间，<a href="http://www.huffingtonpost.com/deborah-lehr/in-chinas-great-hall-of-the-people-shoes-speak-louder-than-words_b_9666828.html" target="_blank" rel="nofollow">仔细研究过他们的鞋</a>。</p>
+<p>她说，习近平似乎更喜欢有假鞋带——其实是一些小的塑料凸起物——的鞋子，省去了系鞋带这个耗时、费力的步骤。</p>
+<p>“习主席参加正式会议时，总是会穿总体上没什么特色的深色西装、白衬衫，通常会搭配一条亮色的领带，裤子提得比其他人稍微高一点，”戴青丽在电子邮件中说。“西装好看，但不至于过分好看，很实用，就像他穿的有假鞋带的鞋子一样。”</p>
+<p><em>储百亮(Chris Buckley)是《纽约时报》驻京记者。</em><br><em> 欢迎在Twitter上关注储百亮<a href="https://twitter.com/ChuBailiang" target="_blank" rel="nofollow">@ChuBailiang</a>。</em><br><em> 翻译：纽约时报中文网</em><br><em> <a href="http://www.nytimes.com/2016/05/26/world/asia/china-president-xi-jinping-windbreaker.html" target="_blank" rel="nofollow">点击查看本文英文版。</a></em></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BB%8E%E4%B8%AD%E5%B1%B1%E8%A3%85%E5%88%B0%E4%B9%A0%E5%A4%B9%E5%85%8B%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%9C%8D%E8%A3%85%E7%AC%A6%E5%8F%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%B9%E5%85%8B/?category=18271" rel="tag">习夹克</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E8%A2%96%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">领袖崇拜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/psy-eyes%EF%BD%9C%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E6%94%BB%E8%AE%A6%E6%9C%B4%E6%A7%BF%E6%83%A0%E5%8D%95%E8%BA%AB%E5%8F%8D%E6%98%A0%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">psy-eyes｜心理学问答：攻讦朴槿惠单身反映了什么？</a>
+</h2>
+<p><p>【编者注】唐映红微信原文已被删除。作者微信公号：psy-eyes（ID: psyeyes ）</p>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E6%96%B0%E5%8D%8E%E7%BD%91%E3%80%8A%E8%B5%B7%E5%BA%95%E8%94%A1%E8%8B%B1%E6%96%87%E3%80%8B/">【真理部】新华网《起底蔡英文》</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/">蔡英文在会谈中说了“我说中文有困难”吗？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%AE%BA%E4%BA%8C%E5%A9%9A%E5%AF%B9%E6%9F%90%E4%BA%BA%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%BD%B1%E5%93%8D/">【网络民议】论二婚对某人政治风格的影响</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/">【异闻观止】新华网 | 单身导致蔡英文政治风格偏向极端化</a></li>
+</ul></blockquote>
+<p><strong>问：攻讦朴瑾惠单身反映了什么？</strong></p>
+<p>答：<strong>朴槿惠是韩国总统</strong>，<strong>也是</strong><strong>东亚国家或地区的两位女性领导人之一</strong>。与韩国同文同种的朝鲜却动用官方新闻社高调地<strong>攻讦朴槿惠的女性身份，特别是她作为单身女性的身份。</strong>认为“<strong><em>没结婚生孩子的朴槿惠无法理解幸福的人</em></strong>”，甚至认为<em>作为单身女政客，没有“家”的掣肘，没有子女的牵绊，在政治上的行事风格与行事策略，往往偏向情感化、个性化、极端化发展，政治权术上则在战略上考量少，战术细节上考量多，短期目标所示到极致，长期目标则较少顾及。</em>等等。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2-1.jpg" rel="attachment wp-att-438990"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2-1.jpg?resize=400%2C710" alt="image2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2-1.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2-1.jpg?resize=577%2C1024 577w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2-1.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p>从心理学角度，朝鲜官方新闻社如此高调地攻讦韩国女性领导人的单身，首先反映了朝鲜<strong>官方意识形态上深刻的性别偏见</strong>。一般来说，<strong>对女性有着深刻偏见的个人或组织，往往也同样地对其他弱势群体有着深刻偏见和歧视</strong>，对个体而言，这往往意味着他具有<strong>权威主义人</strong><strong>格</strong>（authoritarian personality）；对组织而言，则反映了<strong>权威主义倾向的组织意识形态</strong>。</p>
+<p>如果一名具有<strong>权威主义人格</strong>的个体，那么他不仅会表现出对弱势人群的一贯的偏见和歧视，无论是女性、少数族裔、小教派、性少数派、社会低底层，在他眼里都是咎由自取；而且，权威主义人格还会对比他强势的人群表现出无原则的膜拜，崇尚强权。换言之，<strong>权威主义人格具有迥异的两副嘴脸：对权威强权的膜拜、跪舔；对弱势群体的歧视、排斥。</strong></p>
+<p><strong>如果一个组织具有权威主义的意识形态，那么它也会表现出对各种弱势人群的一贯的偏见和歧视</strong>，如<strong>政策性地歧视</strong>，甚至<strong>不加掩饰地高调打压</strong>女性、少数民族、西部内陆省份、一小撮异议者，等等。同时，这样的组织会以<strong>社会达尔文主义</strong>（Social Darwinism）<strong>的丛林法则</strong>（the law of the jungle）<strong>作为对内管控、对外交往的价值尺度，他们不相信有什么普世的伦理原则，所有考量的核心仅仅围绕利益。</strong>他们会倾向对外用大撒币的方式来收买、贿赂、拉拢、瓦解所谓的敌对势力；对内则耗费巨额公帑来豢养和维护国家暴力机器，强调先军政治。</p>
+<p>对于一个权威主义人格的个体高调地攻讦女性竞争对手单身，不仅是<strong>缺乏教养</strong>的表现，而且本质上就是<strong>下流</strong>。一个具有权威主义意识形态的组织高调地攻讦同文同种的另一个政权的女性领导人的单身问题，也同样是这个组织<strong>缺乏教养，下流的表现。</strong></p>
+<p>另一方面，作为同文同种不同制度竞争一方，不是通过有理有据的方式来说服对方，不是通过积极努力发展出比对方各位优秀和优越的社会来赶超对方，而是诉诸泼妇骂街式的谩骂和人身攻讦，本身也反映了在不同制度竞争中<strong>已经濒临穷途末路的心态，和理屈词穷的窘境。</strong>本来，朝鲜完全可以用它国名里嵌镶的核心价值观“<strong>民主</strong>”来说服和赶超韩国。（朝鲜的全称为<strong>朝鲜民主主义人民共和国</strong>，朝鲜语为：조선민주주의인민공화국，英语为：Democratic People’s Republic of Korea，缩写为：DPRK）</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3-1.jpg" rel="attachment wp-att-438989"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3-1.jpg?resize=575%2C323" alt="image3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3-1.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3-1.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3-1.jpg?w=800 800w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>附：朝鲜官方新闻社攻讦朴槿惠言论汇集</p>
+<p><span>1、<strong>臭婆娘、毒蛇、天下头号丑女、恶女。</strong>（朝中社平壤2015年5月17日电，朝鲜全国联合群众团体发言人发表谈话）</span></p>
+<p><span>2、<strong>独裁者，民族的羞耻、悲剧和祸端。</strong>（朝中社平壤2015年5月27日电，朝鲜“祖国统一研究院”发表白皮书）</span></p>
+<p><span>3、<strong>臭嘴、天下头号对抗恶妇、走入坟墓。</strong>（朝中社平壤2015年7月25日电，全国联合群众团体发言人发表谈话）</span></p>
+<p><span>4、<strong>劣迹斑斑的身躯、臭嘴、进入坟墓。</strong>（朝中社平壤2015年8月19日电，全国联合群众团体发言人发表谈话）</span></p>
+<p><span>5、<strong>丧心病狂的老母狗，东西不分、不谙事理的青瓦台疯母狗，不会数数、无知无能、不懂事的头号大笨蛋。</strong>（朝中社平壤2016年2月20日电）</span></p>
+<p><span>6、<strong>熊相、堂吉诃德、骨瘦如柴的躯干。</strong>（朝中社平壤2016年2月27日电 朝鲜社会科学院历史研究员李君灿日前发表题为《穿裙佩剑的现代版堂吉诃德》的文章）</span></p>
+<p><span>7、<strong>没有尾巴的青瓦台老母狗，提着裙子对美国献媚献宠，今天对中国、明天又对日本撒娇，老婊子，母蝙蝠。</strong>（朝中社平壤2016年3月2日电 朝鲜动物学家朴丽恩日前发表题为《天大逆贼的污名——丑陋的母蝙蝠》的文章）</span></p>
+<p><span>8、<strong>似女非女的石女、常与独裁者身边的一些野男人厮混、老母鸡、废鸡、老妖魔、世界一流婊子、狗娘、卖春的荡妇、天下头号恶鬼。</strong>（朝中社平壤2016年3月3日电，朝鲜妇女李秀京近日发表了一篇题为《以妇女的名义剖析罪孽和羞辱的代称——朴槿惠》的文章）</span></p>
+<p><span>9、<strong>围了裙子的老妖怪、冷血动物、稀世罕见的魔女、卖国贼。</strong>（朝中社平壤2016年3月26日电，朝鲜“民族和解协议会”发表长篇控告书）</span></p>
+<p><span>10、<strong>虫子都不如的朴槿惠无赖集团、撒旦集团、匪帮。</strong>（朝中社平壤2016年3月29日电，朝鲜天主教协会中央委员会发言人发表谈话）</span></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/psy-eyes%EF%BD%9C%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E6%94%BB%E8%AE%A6%E6%9C%B4%E6%A7%BF%E6%83%A0%E5%8D%95%E8%BA%AB%E5%8F%8D%E6%98%A0%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">北朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">极权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%89%B9%E7%BA%A6%E8%AF%84%E8%AE%BA%E5%91%98%E6%B0%B4%E5%B9%B3/" target="cdt-mirror">奇闻录 | 人民日报特约评论员水平</a>
+</h2>
+<p><p>日前，山东莱芜一位大爷在当地公园模仿领导干部的讲话爆红网络，他在视频中讲述了自己对莱芜建设发展的一些想法，并且完整背诵了一些中共领导如温家宝的讲话内容。很多网友看完视频后称，虽然有些内容听不太懂，但要推荐他当市长。</p>
+<p></p>
+<p>视频<a href="http://wsqncdn.miaopai.com/stream/f9MVjCxc3Pb5RMQ4TYQGqw__.mp4?yx=&refer=weibo_app">地址</a></p>
+<p>@王子铭呢: 话说，在每个城市的公园、广场、老年人活动室等场所里，每天都会召开政治局扩大会议。</p>
+<p>@竹林ZZY：此人有党校博士文凭。</p>
+<p>@轻描淡写地幸福：这水平要是去写申论，那80以上啊。</p>
+<p>@静思果园：有背景的话能当省长。</p>
+<p>@贺延光: 证明，只要说一样的话，那个位置谁都能干。</p>
+<p>@开心的闲云野鹤：此类大爷官语练得娴熟流利，身在草野，心在庙堂，官当不了，过把嘴瘾再死。病态社会！</p>
+<p>@城阳骑手郭建良：许多领导还真达不到这个水平，接受记者采访前面要有提示板，否则就说不出话来。做过电视采访的小朋友都知道。</p>
+<p>@腾讯网友：高手在民间，废物在机关。</p>
+<p>@哈哈哈哈哈：深刻诠释官方文本的本质：无意义的大量废话的反复 精神病患的表现水平和领导差别不大</p>
+<p>@小米椒妖妖：中了新闻联播的毒。</p>
+<p>@三月不插秧2：好讽刺的画面。扫地老头为什么会模仿这种东西？吸引他的是权力的幻影，即便他不了解自己说的是什么，但这种腔调、文本，这种滔滔不绝使他得到了一种快感，仿佛身居高位。也不必笑话他，许多官员讲起这一套话来，和这个扫地的并无区别，只是这老头没有机会而已。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%89%B9%E7%BA%A6%E8%AF%84%E8%AE%BA%E5%91%98%E6%B0%B4%E5%B9%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E9%95%BF/?category=18271" rel="tag">市长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%97%85%E6%80%81%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">病态社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85/?category=18271" rel="tag">精神病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E8%AF%9D/?category=18271" rel="tag">讲话</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%85%B3%E6%B3%A8%E7%90%86%E6%83%B3%E5%9B%BD%E4%B9%A6%E7%B3%BB%E7%BC%94%E9%80%A0%E8%80%85%E8%A2%AB%E6%8D%95%EF%BC%9F/" target="cdt-mirror">读书旅行｜我们为什么会关注“理想国书系缔造者”被捕？</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%90%86%E6%83%B3%E5%9B%BD.png" rel="attachment wp-att-438960"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%90%86%E6%83%B3%E5%9B%BD.png?resize=400%2C549" alt="理想国" data-recalc-dims="1"></a></p>
@@ -775,150 +875,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%98%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%94%BF%E6%B2%BB%E4%BF%A1%E6%81%AF%E8%A7%A6%E6%80%92%E5%AE%98%E6%96%B9-%E9%A6%99%E6%B8%AF%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%80%92/" target="cdt-mirror">纽约时报 | 政治信息触怒官方 香港“一国两制”倒计时被撤</a>
-</h2>
-<p><p>艺术家揭示了在香港最高建筑的外立面展示的一件巨大艺术品中嵌入的<a href="http://cn.nytimes.com/china/20160519/c19chinacountdown/" target="_blank" rel="nofollow">隐晦政治信息</a>仅仅几天之后，官员和展览组织者取消了这件作品。她们周日晚间在声明中说，艺术家们对主办方表现了“不尊重”，因为他们事先没有与主办方就作品的改变进行协商。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%80%92%E8%AE%A1%E6%97%B6.jpg?resize=600%2C333" alt="倒计时" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/倒计时.jpg?resize=300%2C167 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/倒计时.jpg?w=650 650w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>这段九分钟的视频由艺术家黄宇轩(Sampson Wong)和林志辉(Jason Lam)共同制作，片名是《从现在开始，我们就是60秒的朋友》，视频包含了一系列的倒计时、以及似乎与政治无关的中文和英文短语。但在5月18日，也就是视频在香港环球贸易广场首次展出后的第二天，艺术家们表示，视频的最后一个部分，也就是由闪烁的九位数字表示的倒计时，包含着一个颠覆性的信息。</p>
-<p>这些数字显示的是从现在到2047年7月1日的秒数，该日期是这个英国前殖民地的主权回归中国的50周年，也是保证香港半自治状态的协议过期的日子，因此，这件艺术品实际上是在每天晚上的一分多钟里，把这个地标性建筑物变成了一个巨大的倒计时时钟。</p>
-<p>艺术家们通过提到2047年，触及了香港一些居民不断增长的担忧，这些人担心中国大陆日益坚持自己的主张，进一步加强对香港公民自由的限制。这件作品于5月17日首次展示，那是张德江为期三天的香港之行的第一天，张德江是执政的共产党的政治局常委，负责香港和澳门事务。</p>
-<p>艺术品用含蓄的方式表达的信息，如果不是艺术家出面解释，也许不会引起人们的注意。但官员和组织者对艺术家的解释非常不满。</p>
-<p>在周日晚间发布的<a title="Link: http://www.hkadc.org.hk/?p=14364&lang=en" href="http://www.hkadc.org.hk/?p=14364&lang=en" target="_blank" rel="nofollow">联合声明</a>中，香港艺术发展局（简称艺发局）电影及媒体艺术组主席鲍蔼伦，以及《第五届大型公共媒体艺术展：感频共振》的策展人卡洛琳∙哈-突克(Caroline Ha Thuc)宣布，取消这件艺术品，该作品是由艺发局委托制作的。这个视频原定每晚在香港环球贸易广场的大楼外表播放，直到6月22日。</p>
-<p>联合声明说，“黄宇轩先生及林志辉先生违反当初与策展人和艺发局之间的协议和理解，是对主办方的不尊重，并危及业界于公共空间展示艺术品的可能性。”</p>
-<p>声明说，这两位艺术家“在没有知会策展人及艺发局的情况下”，自行向媒体宣布更改作品。</p>
-<p>声明补充说，“我们相信艺术表达自由并支持我们的艺术家。”</p>
-<p>截至周一，尚不清楚艺发局是否会用其他动画作品取代已取消的作品。艺发局没有回复用电子邮件发过去的问题。</p>
-<p>黄宇轩此前曾表示担心，一旦该信息被公众知晓，作品可能会被取消。</p>
-<p>记者周一下午找到黄宇轩对此事置评时，他说，“我们对这份声明、其所描述的事实和争论持不同意见。我们没有改变我们的作品《从现在开始，我们就是60秒的朋友》。”</p>
-<p>黄宇轩说，他和林志辉不久将就他们的作品被取消发表一份更全面声明。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E6%94%BF%E6%B2%BB%E4%BF%A1%E6%81%AF%E8%A7%A6%E6%80%92%E5%AE%98%E6%96%B9-%E9%A6%99%E6%B8%AF%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%80%92/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81/?category=18271" rel="tag">不同意见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86/?category=18271" rel="tag">中国大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E7%A9%BA%E9%97%B4/?category=18271" rel="tag">公共空间</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94/?category=18271" rel="tag">政治局常委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%96%E6%B0%91%E5%9C%B0/?category=18271" rel="tag">殖民地</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BA%E6%9C%AF%E5%AE%B6/?category=18271" rel="tag">艺术家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%A8%E8%BE%BE%E8%87%AA%E7%94%B1/?category=18271" rel="tag">表达自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E7%B2%B9%E6%89%93%E5%B1%81%E8%82%A1%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E5%88%91%E7%BD%9A%E5%8F%B2/" target="cdt-mirror">千歌哲学｜民警张际勇之死，真相在哪里</a>
-</h2>
-<p><p>前几天，一个年轻的警察离开了这个世界，过几天就是她女儿的生日。</p>
-<p>2016年5月17日，33岁的江苏兴化交警张际勇不明失联，当天本该轮休的张际勇原计划一家人去看电影，却突然被领导安排临时值班，值班当晚开完会约21:35独自一人离开，失联70小时，最后其尸体在兴化南官河打捞上岸，尸体上伤痕累累，疑似非正常死亡。</p>
-<p>兴化警方称张系抑郁症轻生自杀而溺水身亡，并称张家属表示认可该鉴定。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB1.png" rel="attachment wp-att-438766"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB1.png?resize=585%2C218" alt="民警张际勇之死1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死1.png?resize=300%2C112 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死1.png?w=591 591w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
-<p>我们暂且不论尸检结果怎么这么快出来了（雷洋案检了20天），难道家属认可就能代表事实么？关键的是，张际勇妻子<a href="http://weibo.com/u/1298295757" target="_blank">发微博</a>称只是认可溺水死亡并未认可自杀身亡，好嘛，原来是偷换概念！</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB2.png" rel="attachment wp-att-438765"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB2.png?resize=550%2C408" alt="民警张际勇之死2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死2.png?resize=300%2C223 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死2.png?w=579 579w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>事情并不简单，据张妻子讲述，一年前张扣了一辆违法的三菱车，队长王某让他放行他没放，后来他在车上发现了毒品，立即报告王某，王某说：“际勇啊，这个事情你不要过问，不要把自己圈进去，还有也不要跟别人说你跟我说过这件事。在事发的前一段时间张已经察觉到有些事情不对劲，似乎有人跟踪他。17号下午，张回家时脸上、腰和下体有红色斑点，舌头发麻，疑似被人下了毒。张对妻子说：“他们要下手了，这次我完了。”当天下午6点，本该轮休的张接到值班通知。他妻子对他说：“我送你去上班，我要看看谁要害你。”这几天张的妻子常陪伴他，但总不能一直陪着。送张到中队后张妻子便回家照顾小孩了，没想到这一别便是天人永隔。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1.gif" rel="attachment wp-att-438764"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0-1.gif?resize=300%2C165" alt="0" data-recalc-dims="1"></a></p>
-<p>20日，张的尸体被捞出。张的死亡特征符合被报复的可能，媒体的描述是：张际勇尸体的视频显示，被打捞上来的张际勇遗体面部发青肿大，并伴有血渍。可见，张际勇之死很反常，与被谋害、被报复有关。暂且不问是否有人害死了张，有的话会是谁，这点会由公安机关查明（查不查另说）。我们想问张际勇遭到恐吓，属于公开的秘密，作为其所在单位，为何没有采取防范措施？比如让其“公休”，暂缓上班，或者增派同伴，加强对其人身安全的保护？总之不能有丝毫的大意，否则可有失职之嫌伴有血渍。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB3.png" rel="attachment wp-att-438763"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB3.png?resize=496%2C474" alt="民警张际勇之死3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死3.png?resize=300%2C287 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死3.png?w=496 496w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"></a></p>
-<p>人死了，他死前的事本就奇怪，死后事情也在向奇怪的方向发展。张的妻子5月23日（今天）在新浪头条文章上发的“申冤文”过不久便被被删除，这个就值得深思了。兴化不过是一个小地方，兴化的警察局的权力按理说应也不大，怎么能左右新浪这么大的一个媒体呢？文章说删就删。是兴化警局某领导给了新浪钱，多少钱才能买新浪的良心啊；或者是上头有大人物发了话，慎言慎言；又或者是新浪日本投资方妄图坏我国体，这可是其心可诛啊。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB4.jpg" rel="attachment wp-att-438762"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB4.jpg?resize=550%2C319" alt="民警张际勇之死4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死4.jpg?resize=300%2C174 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死4.jpg?resize=768%2C445 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死4.jpg?w=815 815w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>之后，人民日报也发了一篇微博，话不多，基本照搬兴化警方的话，张是自杀溺水身亡并且其家属认可该结果。人民日报啊！暂且不说你姓不姓人民，我党一向是坚定和人民站在一起的。主要是一个没有经过严格调查还存有许多疑点的事情，你居然就敢这么随意地定论，新闻三大原则忘记了么？另外人民日报微博附带的几张图片里有一张是张妻子表明并未认可结果的微博截图，这就有点奇怪了，人民日报微博说的含糊不清，又似乎是故意放了一张和自己观点不一样的图片并且没有说明，难道人民日报小编也有隐言，难道背后真有某大人物？大家需要注意的是，这件事不仅仅是一个警察的不明死亡，还可能涉及到一个隐藏的毒品官匪勾结链。即使张是一个坏警察死有余辜，面对毒品我们还是应当深恶痛绝坚决抵制，这时候媒体的言行便显得很重要。即使张确是自杀死亡，跟进毒品线索依旧是大众、媒体、公安机关的责任。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB5.png" rel="attachment wp-att-438761"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB5.png?resize=450%2C800" alt="民警张际勇之死5" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死5.png?resize=768%2C1365 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死5.png?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死5.png?w=1080 1080w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>一个负责任的交警死了，一个女人失去了丈夫，一个孩子失去了父亲。张际勇案又一次挑战了社会的道德认知，又一次暴露了社会体制的各种问题，大家众说纷纭，小编也只是做一些猜想，还请诸君保持一个清新的头脑，理性看待事件走向，积极维护社会公平与正义，莫要事不关己高高挂起，因为下一个可能就是你。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB6.jpg" rel="attachment wp-att-438760"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB6.jpg?resize=475%2C845" alt="民警张际勇之死6" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死6.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死6.jpg?w=690 690w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<p>另外，提醒大家关注张际勇案的同时不要忘了雷洋案，不要让某些人趁乱蒙混过关，就像巴-拿-马事件那样。</p>
-<p>虽然张际勇妻子的文章已经被删除，小编还是找到了文章截图，分享给诸君以供参考：</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB7.jpg" rel="attachment wp-att-438759"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB7.jpg?resize=450%2C800" alt="民警张际勇之死7" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死7.jpg?resize=768%2C1366 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死7.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死7.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB8.jpg" rel="attachment wp-att-438758"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB8.jpg?resize=450%2C800" alt="民警张际勇之死8" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死8.jpg?resize=768%2C1366 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死8.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死8.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB9.jpg" rel="attachment wp-att-438757"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB9.jpg?resize=450%2C800" alt="民警张际勇之死9" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死9.jpg?resize=768%2C1366 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死9.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死9.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB10.jpg" rel="attachment wp-att-438756"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB10.jpg?resize=450%2C800" alt="民警张际勇之死10" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死10.jpg?resize=768%2C1366 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死10.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死10.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB11.jpg" rel="attachment wp-att-438755"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB11.jpg?resize=450%2C800" alt="民警张际勇之死11" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死11.jpg?resize=768%2C1366 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死11.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死11.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB12.jpg" rel="attachment wp-att-438754"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB12.jpg?resize=450%2C800" alt="民警张际勇之死12" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死12.jpg?resize=768%2C1366 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死12.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死12.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB13.jpg" rel="attachment wp-att-438753"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB13.jpg?resize=450%2C800" alt="民警张际勇之死13" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死13.jpg?resize=768%2C1366 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死13.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死13.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB14.jpg" rel="attachment wp-att-438752"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB14.jpg?resize=450%2C800" alt="民警张际勇之死14" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死14.jpg?resize=768%2C1366 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死14.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死14.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB15.jpg" rel="attachment wp-att-438751"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87%E4%B9%8B%E6%AD%BB15.jpg?resize=450%2C800" alt="民警张际勇之死15" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死15.jpg?resize=768%2C1366 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死15.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/民警张际勇之死15.jpg?w=960 960w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>遇害民警张际勇妻子：女儿刚刚问我，爸爸不会回来了，我知道的，眼睛闪着泪花</p>
-<p>练祁河：溺水窒息只是死因，这并不能排除他杀。公告中说张警官失联后警方做了大量工作。如果做了大量工作，怎么会只知道当晚9点半他独自一人离开，不知去向？街道上的监控探头至少能查看到他当晚的行踪。当地警方是否能公开事发当晚，出事民警的街头监控录像来回应民众的疑问。</p>
-<p>梦晚南巷：巨人观现象，溺水者都会出现，仅从鼻青脸肿无法判断是被人殴打致死。</p>
-<p>夜幕丶未央：作为他父母的邻居不能相信。他是公务员，老婆在电视台上班，两人工作稳定。有个六岁的女儿，聪明可爱，老婆现在还怀着二胎。今年买了新房刚装 修好，就离他父母小区二百米距离。生活算得上幸福美满。我家里人跟他爸经常打麻将，说他人孝顺脾气好，家里都是奖状，原来是老师又考上警察，这么优秀会自杀</p>
-<p>hirokawasyunpei：人民日报日人民。好样的</p>
-<p>倪永杭：作为具有巨大公众影响力的媒体，竟如此草率发布未得到证实之消息，实在有支持恶势力猖狂作乱之嫌！@人民日报 事到如今，依然没能给国人一个足以信服的解释，社会黑暗，实在是华夏之悲！！！@平安兴化 呵呵</p>
-<p>中国电信北京分部：@#遇害民警张际勇妻子# 中国电信今天力挺你，不为别的，只为正义，为明天被扔到河里的不会是我们</p>
-<p>恋上夏的味道q：已经被冻结多次账号，还是想帮你顶上去@遇害民警张际勇妻子</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E7%B2%B9%E6%89%93%E5%B1%81%E8%82%A1%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E7%9A%84%E5%88%91%E7%BD%9A%E5%8F%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%AD%A6%E5%BC%A0%E9%99%85%E5%8B%87/?category=18271" rel="tag">民警张际勇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E6%83%B6%E6%83%B6%E5%A4%9C%E8%A1%8C%E8%80%85-%E4%B8%BA%E4%BA%86%E4%B8%80%E5%BC%A0%E5%85%A5%E5%9F%8E%E8%AF%81/" target="cdt-mirror">南方周末 | 惶惶夜行者 为了一张入城证</a>
-</h2>
-<p><p><strong>“2010年北京增加的机动车大部分是小汽车，有80万辆。一个小汽车5米，80万辆就是4000公里，这要从北京到香港一个来回。这些车绝大部分在北京城市中心，且没有地方停，相当一部分停在路边。如果还不限制，不要说顺畅的通行，人都没有地方走了。”</strong></p>
-<p><strong>眼看着气氛僵持住，他一句话也说不出来。这时排在他身后的朋友弯下腰，拿起被退回来的证件再次往里递，一边小心地说：“不好意思，我朋友身份证消磁了，这个月底就回老家补办，通融一下，通融一下……”</strong></p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/103232.jpg?resize=660%2C440" alt="103232" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/103232.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/103232.jpg?w=660 660w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"><p>北京，西二环复兴门桥附近的二环主路上，夜间的车辆川流不息。（南方周末记者 张涛/图）</p></div>
-<p>晚上8时45分，燕参观出现在京城南三环外的云彩屋美发店门口。在美发店周边，水果铺、小吃店、烟酒行等一应俱全，不远处还有大红门京深海鲜批发市场，这些地方统统都被外地来京者包揽了。</p>
-<p>在他心里，住在丰台的人比较穷，譬如自己。</p>
-<p>十五分钟前，他刚刚从夜市收摊，匆匆把桌椅工具塞进停在路边的小轿车里。通常，白天他在洋桥的永外城文化用品批发市场打工，五点下班以后，他就转战到附近的四路通夜市给别人贴手机膜。</p>
-<p>这是4月底的一个晚上。华灯初上，洋桥麦当劳前的空地上，广场舞的音乐此起彼伏。有了点年纪的女人们打着兰花指，认真地摆动腰肢。路边的烧烤摊开始释放出孜然的香味。川流不息的车流里，有人拖着疲惫的身体回家，有人兴致勃勃地赶赴饭局，也有情侣去逛街约会。</p>
-<p>像往常一样，燕参观今天又空着肚子出摊了三个多小时，赚了两百多块。按照多年的经验，碰上这样的大风天，晚上九点多他就回家喝酒去了。</p>
-<p>但当晚他更早就收摊了，因为要去40公里外的西集检查站进行一次“短途旅行”，行车路线他早已烂熟于心：从沙子口走蒲黄榆到方庄路，再从方庄东路左拐进入南三环，华威桥右拐，最后从松榆南路直接上京哈高速。</p>
-<p>基本上每隔六天，他都会和不同的“惶惶夜行者”挤在一辆车里，开往同一个地方。</p>
-<p>成本</p>
-<p>等了十多分钟，云彩屋的老板阿华才出来，阿华染着栗色的头发，时尚整洁的发型配着修身小西服和翻毛皮鞋。</p>
-<p>挂着皖SLxxxx的外地车，就停在云彩屋前面的空地上。燕参观惊喜地发现，阿华和自己竟然是老乡——都是安徽人。</p>
-<p>每周，燕参观都要和不同的车主拼车，一起前往六环外的综合检查站，为自己的车办理一张“通行证”。周边一共有24个办理地点，全部都在六环以外。其中白庙综合检查站距离最近。像西集、琉璃河、长沟办理地点距离六环交界处还有二十多公里。</p>
-<p>“通行证”必须要及时更新，否则一旦被摄像头或者交警发现，被罚款100元不说，还会被以“机动车违反禁令标志指示”为由扣3分。“通行证”只有7天的寿命，车主可以去指定地点办理延期，再续命5天。也就是说，最长12天，必须更换一次。实际上，办理延期也是去跑一大圈，大多数车主会直接选择去检查站更换。</p>
-<p>然而即使有了它，每天6点到22点，燕参观的车也不能在二环、长安街以及部分相邻车道行驶。工作日的早7点到9点，下午5点到晚8点，也不能行驶进五环。此外，他的车也要遵循北京市的尾号限行政策，计算下来，每天只有8个小时可以不受任何限制，一周的自由时间总共是48个小时。</p>
-<p>从汽车产业的发展速度看，对外地车牌管控情有可原，因为北京市的交通确实一年比一年拥堵。2011年，北京不得不走上了限购的道路，严格管理小汽车的供求关系。随之而来的，还有对外地车牌更加严格的层层限制。2012年12月，治堵措施再次更新，办理过证件的车辆在早晚高峰时段不能进入五环路。2013年，惩罚举措更加严格，取消长期证件，只办理7天临时证。2014年，对外地牌照车辆限制扩大到六环。</p>
-<p>北京市政协委员、北京交通发展研究中心主任郭继孚对南方周末记者反复强调，治理交通问题，除了要靠发展公共交通，还要坚决对小汽车进行需求管理。用“一推一拉”的方法解决——把人从小汽车里推出来，拉到公共交通上去。</p>
-<p>“基于这样的治理方式，对于外地车量的限制也是必要的，如果不限制外地车辆，就相当于北京限购的政策无法起到作用。”郭继孚说。</p>
-<p>根据规定，只有拥有北京户籍的人员、拥有北京工作居住证和暂住证及社保、个税满5年的人员，才有资格参与北京的汽车摇号。在这座偌大的城市里，不要说社保，大多数像燕参观这样的打工仔，雇主是不会为他们上任何保险的。2015年，为了方便同在北京打拼的家人和自己使用，燕参观用攒了7年的钱终于买下了这辆“现代”牌轿车，他给车挂上了一副安徽车牌。</p>
-<p>为了生计，燕参观在大红门卖过鞋子、卖过台湾手抓饼、也卖过女孩儿用的发饰。如果不是为了要办证，他现在应该坐在夜市的杨树下给别人贴手机膜，或者和两边摆摊的人闲聊。</p>
-<p>燕参观之所以能够跟人拼车去办证，还要感谢一些外地车主建的车友群，他们为了节省成本，时不时相约去京郊。河北车主刘阳甚至注册了微信公号“北京外地车联盟”。刘阳的初衷是给外地车友们提供分享信息的平台，比如发布最新的摄像头分布图，或者分享关于外地车的最新政策，后来有些人开始在群里发起拼车。</p>
-<p>他们每个人心里都算计得清清楚楚，往返将近100公里，加上过路费，如果自己开车去的话，成本要100多块。然而像燕参观与阿华兄弟拼车的话，每人分摊只要20元就够了。</p>
-<p>与燕参观碰上头之后，阿华开车去接哥哥。他的哥哥也经营了一家美发店。等了半个多小时，阿华的哥哥才忙完手里的活计，其间又来了两个车主。</p>
-<p>21时40分，一行五人终于出发了。</p>
-<p>黄牛</p>
-<p>五人到西集检查站的时候，现场并没有多少人。临近23点，检查站三个窗口前，每队只排了三四个人。</p>
-<p>检查站的门口贴着丢失身份证和驾驶证的寻物启事。燕参观开始挨个给朋友们打电话，他突然发现自己没有带身份证，好不容易来一趟，他想无论如何也得把证办了。</p>
-<p>他带了身份证也没有用。西集检查站近日贴出新通知：没带身份证、临时身份证、消磁身份证，都无法办理手续。燕参观的身份证早就消磁了。并且，他的身份证号和户口本上的证件号不一致，补办起来需要开一系列证明，这让他一直没有补办。</p>
-<p>为车辆办理入京的证件，必须提供六种证明材料：本人身份证、驾驶证、行驶证，以及有效的机动车交通事故责任强制保险凭证，有效的机动车安全技术检验合格标志，经本市环境保护主管部门确认车辆符合环保要求的凭证。</p>
-<p>为防止部分人员利用代办等方式非法牟利，官方要求严格内部手续流程的监管，要求办证人身份证、驾驶证统一。</p>
-<p>那天晚上，不走运的还有阿华的哥哥。他先帮朋友代办了证件，才发现同一套身份证和驾驶证只能办理一次手续，反而他自己的没办下来。不甘心无功而返，他还掏出自己另外一张身份证试验，还是没通过。</p>
-<p>“要不找一个需要办证的朋友带自己过来，要不自己开车过来。”燕参观犹豫不决，不论哪一种选择都是再耗费一整个晚上。</p>
-<p>他又给黄牛打电话，看看能不能帮忙办一张。对方说，要办就得包月，一个月200元，出4张。这样算起来，一个晚上的收入就都赔进去了，不划算。</p>
-<p>虽说官方明令禁止，但这一行当的黄牛还是秘密而且迅速地繁衍滋生起来。</p>
-<p>燕参观忙不过来的时候也找过代办。对方骑着摩托车过来，驮着几百张证等着一个个去发放。</p>
-<p>河北车主石瑞本来是拒绝代办的，因为原本办证就是免费的，但2014年下半年开始，排队的人越来越多，队形也呈S形发展。他算好时间赶到周末去办，必须得早晨六七点出门，那样也要排一个小时。</p>
-<p>“我认了，70块就70块。”这是单次的价格，石瑞为了节省时间和精力，还是代办了大半年。后来查得严了，代办的价格也一路飙升，涨到130元一次的时候，石瑞放弃了。</p>
-<p>很多车主抱怨，为何不能在网上办理手续，而必须每周跑一趟五环外。对此，官方一直没有明确的解释。</p>
-<p>在北京市政协委员、北京市交通发展研究中心主任郭继孚看来，这样的政策虽有待商榷，但限行、限外的行政性措施也是无可奈何之举，“如果北京仅限购，不限制外地车，就没有用了。”</p>
-<p>曾经在北京交通发展研究中心任职十年、现任清华同衡技术创新中心副总工程师的高永发现，在限购之后，北京五环外有大量的人购买河北车牌。“这种方式其实是一部分折抵了我们限购的效果。如果再不加以控制，就会造成更多的人买外地的车牌。”</p>
-<p>根据《北京晚报》2013年7月的报道，三河、霸州、香河、涿州等地已经形成了给北京车主上外地牌照的产业链。其中，与天安门直线距离65公里的河北省涿州市成了北京车主办理外地牌照的首选。</p>
-<p>这些开着外地车牌的在京务工者，也时常遭到北京人的吐槽。在微信公号里，经常有北京人给刘阳留言：“北京的拥堵都是外地车造成的，外地车滚出北京去。”</p>
-<p>在这时候，刘阳选择默默把他们加入黑名单，从不回复。</p>
-<p>治标</p>
-<p>刘阳经常会碰到这样尴尬的场景。车全停在红绿灯前面，眼瞅着警察绕了两辆车冲自己过来了，说，“证件看一下。”两边京牌的车都停着没事，车主们摇下车窗来围观自己，让他觉得很挂不住面儿。</p>
-<p>“看见外地车牌，交警会从老远伸着脖子张望。他看见你有证会失落一下，然后又会想有没有过期，他就会拦下你。到后来我就在车里指那个日期给他。他的表情一瞬间就很无奈，摆摆手，让我走了。”刘阳告诉南方周末记者。</p>
-<p>有时候，石瑞想找一天开着车满京城跑，哪有交警往哪跑，只是为了证明：“我是良民，合法进到北京的，而不是过街老鼠，偷偷摸摸进来的。”</p>
-<p>如今，石瑞改开妻子的京牌车了，妻子乘地铁，原先的外地牌车被他们丢在楼底下晒太阳。于是，石瑞有了完全不一样的感觉。不久前，一辆衡水的车剐蹭了他的京牌车，交警半小时出警，跟他和颜悦色地介绍处理办法。他建议石瑞私了，因为对方是外地牌，很可能不经常在北京。</p>
-<p>站在立交桥上，他想起以前开外地牌出的一次事故。同样是别人剐蹭他的车，或许因为自己是外地牌，对方是京牌，交警过了两个小时才出现。出现之后，先查他本人和车辆的所有证件，之后才开始处理交通事故。</p>
-<p>有人质疑过这项政策。律师王秋实在2014年初买了一辆山西牌照的车，他认为，这项政策作为六部委联合下发的公告，并没有支持它的相关法律条文。王秋实申请过政府信息公开，北京交管局的回复是：这项规定是非行政许可的行政审批。之后，王秋实又发起千人联名倡议信，寄到国务院法制办。</p>
-<p>千人中有几百位是北京人。很多人摇不到号，只能选择外地牌照。其中，让他记忆深刻的是一个自闭症儿童的家庭。他们住在东四附近，孩子出门没法坐公交或出租车，因为在陌生的环境会抓人、咬人，甚至踢打。他们必须买一辆车，摇不到号，不得已买了一个河北牌照。政策出台以后，孩子上学、医疗的需要还是无法满足。</p>
-<p>政府当然有限购的充分理由。作为北京市限购政策的具体推动者之一，郭继孚记得曾经有香港媒体问过他：为什么要从2011年开始采取限购这样一个政策？</p>
-<p>郭继孚给出了一个现实数据：“2010年北京增加的机动车大部分是小汽车，有80万辆。一个小汽车5米，80万辆就是4000公里，这要从北京到香港一个来回。这些车绝大部分在北京城市中心，且没有地方停，相当一部分停在路边。如果还不限制，不要说顺畅的通行，人都没有地方走了。”</p>
-<p>“现在的限购、限行是中国特色，在国外没有这样的先例。”郭继孚说，“我们也很清楚，目前这些限制措施只是治标的手段，但治标是为了给治本赢得时间。”</p>
-<p>通融</p>
-<p>4月26日晚，北京已逐渐能嗅到夏天的气息。杨树下，一对本地夫妻身穿睡衣，推着婴儿车遛弯儿。燕参观刚刚给他们留了电话和微信，约好明天再给他们贴膜。</p>
-<p>由于前一次没有办成证件，今晚他不得不再去一趟。还是差不多21时，燕参观坐在朋友的车里，再次上路了。今晚他要去榆垡检查站，靠近河北固安。</p>
-<p>相比西集和白庙，榆垡检查站要破败得多。没有办证大厅，只简单搭了个棚子，只开放两个办事窗口。虽然没有白庙的人多，等待的时间却更加漫长。</p>
-<p>在队伍周围，有卖煎饼、手抓饼、烤冷面和各种饮料的，还有卖盗版光碟的。那天晚上等了1个小时左右，才轮到燕参观。</p>
-<p>担心自己的身份证办不了，他还带了哥哥的一套证件。但在下一个就轮到自己的时候，他还抱有一丝侥幸，突然开口问窗口办证人员：“消磁的身份证能办吗？”</p>
-<p>“不能。”回答迅速、明确。</p>
-<p>当燕参观把哥哥的一套证件递给工作人员之后，对方很警惕地从窗口里侧扬起头看看他，又看看手中的证件，高扬声调：“这是你吗？”</p>
-<p>“是，怎么不是啊。”没办法，他只能硬着头皮抗。</p>
-<p>“背一下身份证号，生日是什么时候？”</p>
-<p>燕参观支支吾吾地无法回答，对方白了他一眼，很不客气地说：“行了，该回哪回哪吧！”</p>
-<p>眼看着气氛僵持住，他一句话也说不出来。这时排在他身后的朋友弯下腰，拿起被退回来的证件再次往里递，一边小心地说：“不好意思，我朋友身份证消磁了，这个月底就回老家补办，通融一下，通融一下……”</p>
-<p>好说歹说，办事员终于再次接下了证件，甩了一句：“就不该给你办！”</p>
-<p>在旁边又等了三四个人，燕参观的证才出来，随后又让他做了一下登记，才算完。其间他一直低着头，拥挤的队伍不断从他身边擦身而过，看不清他的表情。当他收起自己的证件，抬起头的一瞬间，眼圈是红的。</p>
-<p>凌晨时分，他们终于回到洋桥，这时燕参观才发现，刚刚在办证时攥栏杆攥得太紧，右手掌心被上面的钉子磨破了皮。为了缓解一下疲劳的神经，他和朋友又在路边的烧烤摊喝了两瓶燕京啤酒，才回去睡觉。</p>
-<p>第二天晚上，燕参观摆摊给人贴膜时，那张证还没来得及放进车里，它就在他上衣贴身的内侧口袋里。还有6天，它就又变成废纸一张了。</p>
-<p><span>（应采访者要求，阿华、刘阳为化名）</span></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%97%E6%96%B9%E5%91%A8%E6%9C%AB-%E6%83%B6%E6%83%B6%E5%A4%9C%E8%A1%8C%E8%80%85-%E4%B8%BA%E4%BA%86%E4%B8%80%E5%BC%A0%E5%85%A5%E5%9F%8E%E8%AF%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E4%BA%A4%E9%80%9A/?category=18271" rel="tag">北京交通</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE/?category=18271" rel="tag">开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%A5%E5%A0%B5/?category=18271" rel="tag">拥堵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%82%E4%BD%8F%E8%AF%81/?category=18271" rel="tag">暂住证</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%8C%E7%85%A7/?category=18271" rel="tag">牌照</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E6%8E%A7/?category=18271" rel="tag">管控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E5%AE%A1%E6%89%B9/?category=18271" rel="tag">行政审批</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%AF%E8%B4%B9/?category=18271" rel="tag">路费</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%90%E8%B4%AD/?category=18271" rel="tag">限购</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%90%E8%B4%AD%E6%94%BF%E7%AD%96/?category=18271" rel="tag">限购政策</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -930,7 +886,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -940,5 +896,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

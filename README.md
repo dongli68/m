@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,139 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%80%E4%BB%BD%E8%80%90%E4%BA%BA%E5%AF%BB%E5%91%B3%E7%9A%84%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E9%AB%98%E7%BA%A7%E9%BB%91/" target="cdt-mirror">精读党报｜一份耐人寻味的调查：如何识别高级黑</a>
+</h2>
+<p><blockquote><p><strong>推荐阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E6%80%BB%E7%90%86%E5%95%8A%EF%BC%8C%E4%BD%A0%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E6%81%A9%E4%BA%BA%EF%BC%8C%E5%97%A8%E5%97%A8%E5%97%A8%EF%BC%81/">【CDTV】总理啊 你就是我们的大恩人 嗨嗨嗨！</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/431730/">【CDTV】湖南省书记向习近平汇报歌曲《不知该怎么称呼你》</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E9%81%AD%E5%88%A0%E7%9A%84%E9%A2%82%E4%B9%A0%E7%A5%9E%E6%9B%B2%EF%BC%9A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%EF%BC%8C%E5%A4%AA%E9%98%B3%E9%87%8D%E5%8D%87/">【CDTV】遭删的颂习神曲：东方又红，太阳重升</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/" target="_blank">枫行天下｜秦枫：西藏代表团戴习近平像章</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%85%9A%E6%8A%A5%E7%9A%84%E6%97%A5%E5%B8%B8%EF%BC%9A%E4%B9%A0%EF%BC%8C%E4%BD%A0%E6%98%AF%E5%94%AF%E4%B8%80/">【图说天朝】党报的日常：习，你是唯一</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/12/423513/">【立此存照】习总办公室 大家来找茬</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%89%E5%B2%81%E5%8D%8A%E5%B0%8F%E5%AD%A9%E8%83%BD%E9%80%9A%E8%AF%BB%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86/">【异闻观止】三岁半小孩能通读《习近平谈治国理政》</a></li>
+</ul></blockquote>
+<p>近日，人民论坛问卷调查中心发起一份调查：“高级黑”，究竟如何识别？</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E7%BA%A7%E9%BB%911.jpg" rel="attachment wp-att-439029"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E7%BA%A7%E9%BB%911.jpg?resize=500%2C154" alt="高级黑1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高级黑1.jpg?resize=300%2C92 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高级黑1.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>文章首先说：</p>
+<blockquote><p>近年来网络上兴起一个词——“高级黑”，意思是用高等、文明、幽默的语言来“黑”某个事物。比如，表面上听着是在夸你，实际起到的效果是害你；看起来对你绝对忠心，实际上是捧高摔你；听着是在客观地指出你的缺点，实际上是在恶意中伤你……</p></blockquote>
+<p>做这个调查，想了解什么呢？文章列出以下几种：</p>
+<blockquote><p>对于“高级黑”，它有哪些典型的特征，如何识别？“高级黑”和“一般黑”有何区别？发表“高级黑”言论的人，多持有什么样的心态和目的？“高级黑”会带来哪些值得警惕的社会危害……</p></blockquote>
+<p>杜宝俊查了一下，《人民论坛》创刊于1992年，人民日报社主管主办，其刊名由江泽民题写。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E7%BA%A7%E9%BB%912.jpg" rel="attachment wp-att-439028"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E7%BA%A7%E9%BB%912.jpg?resize=500%2C145" alt="高级黑2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高级黑2.jpg?resize=300%2C87 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高级黑2.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>《人民论坛》这份问卷，涉及的问题包括“高级黑”的主要表现、特点、手法、抹黑对象、传播主体、传播渠道、传播主体及其心态、涉及领域、后果，以及如何应对等多个问题，可以说是面面俱到。</p>
+<p>每项问题之下，调查都详细列举的多个选项，供网友选择。</p>
+<p>比如，现实中“高级黑”的主要表现？，列举了多达9个选项。其中有：</p>
+<blockquote><p>过度热情地表忠心唱赞歌，实际上是帮倒忙。</p></blockquote>
+<p>还有：</p>
+<blockquote><p>对上级精神偷换概念，转移话题，诱导反向解读。</p></blockquote>
+<p>透过这些选项的设计，杜宝俊认为，调研者其实已有自己想法。</p>
+<p>目前，这份问卷调查，尚无法查看网友的投票结果。</p>
+<p>杜宝俊把这份调查问卷原样照搬过来，感兴趣的朋友可以参与下。（由于微信公众号最多只能放10个问题，原问卷有12个问题，第8个问题“据您观察和了解，那些发表‘高级黑’的人，多持有什么样的心态或目的？”以及第9个问题，“据您观察和了解，‘高级黑’在哪些领域更突出？”未能列入。</p>
+<p>1.据您观察和了解，与之前相比，近几年来“高级黑”出现的频率和数量？（单选）</p>
+<blockquote>
+<ul><li>更多了</li>
+<li>更少了</li>
+<li>没变化</li>
+</ul></blockquote>
+<p>2.在您看来，“高级黑”和“一般黑”的主要区别有?（多选）</p>
+<blockquote>
+<ul><li>“一般黑”直接唱反调，“高级黑”通常反话正说，表达隐晦</li>
+<li>“一般黑”站在你的对立面，“高级黑”很多隐藏在对你好、对你忠心的外衣下</li>
+<li>“一般黑”只是黑一点，“高级黑”往往是黑一片</li>
+<li>“一般黑”黑的是表面，“高级黑”则黑的是本质</li>
+<li>如果“一般黑”是直接反应，“高级黑”则是带有阴谋、蓄意，要精心策划一番<br>
+其他</li>
+</ul></blockquote>
+<p>3.据您观察和了解，现实中“高级黑”的主要表现有？（多选）</p>
+<blockquote>
+<ul><li>人为拔高，好人好事上升为“高大全”，让人感觉太假</li>
+<li>过度热情地表忠心唱赞歌，实际上是帮倒忙</li>
+<li>粗暴对待质疑言论或不同意见，加重逆反心理</li>
+<li>对上级精神偷换概念，转移话题，诱导反向解读</li>
+<li>为“引导舆论”而扭曲事实，反遭质疑炮轰</li>
+<li>突发事件中某些官员封闭信息、推卸责任，加重民怨</li>
+<li>负面新闻报道夸大事实，放大负面效果，挑拨对立情绪</li>
+<li>将社会痼疾归咎于政治制度，把对现实的不满归咎于“现存体制”</li>
+<li>“揭秘”“内幕”扭曲事实或选择性呈现，引发负面联想</li>
+<li>其他</li>
+</ul></blockquote>
+<p>4.据您观察和了解，“高级黑”的主要特点有？（多选）</p>
+<blockquote>
+<ul><li>明褒实贬——表面上是在褒扬，实际上是丑化</li>
+<li>隐晦难辨——在抹黑效果显现之前很难被察觉</li>
+<li>靶子效应——报道或信息呈现的对象变成公众批评质疑的靶子</li>
+<li>心照不宣——往往只可意会不可言传</li>
+<li>常与官僚主义相伴——官僚主义越重，越容易被黑</li>
+<li>其他</li>
+</ul></blockquote>
+<p>5.据您观察和了解，“高级黑”的主要手法有?（多选）</p>
+<blockquote>
+<ul><li>暗语影射</li>
+<li>反语捧杀</li>
+<li>夸大其词</li>
+<li>扭曲事实</li>
+<li>偷梁换柱</li>
+<li>借题发挥</li>
+<li>其他</li>
+</ul></blockquote>
+<p>6.据您观察和了解，“高级黑”的抹黑对象主要有（多选）</p>
+<blockquote>
+<ul><li>党的理论、路线方针政策</li>
+<li>社会主义制度</li>
+<li>政府形象、官员形象</li>
+<li>党和国家重大改革举措</li>
+<li>社会敏感事件</li>
+<li>公众人物</li>
+<li>其他</li>
+</ul></blockquote>
+<p>7.据您观察和了解，“高级黑”言行的传播主体主要有（多选）</p>
+<blockquote>
+<ul><li>青年网民</li>
+<li>主流媒体</li>
+<li>商业类媒体</li>
+<li>党政干部</li>
+<li>专家学者</li>
+<li>敌对势力</li>
+<li>普通民众</li>
+<li>其他</li>
+</ul></blockquote>
+<p>8.据您观察和了解，“高级黑”更多通过哪些渠道发布或传播？（单选）</p>
+<blockquote>
+<ul><li>电视、报纸、杂志等传统媒体</li>
+<li>微博、微信、网络社区等新媒体</li>
+<li>课堂、讲座、沙龙等公开场合</li>
+<li>亲友聚会、茶余饭后聊天等私人场合</li>
+<li>其他</li>
+</ul></blockquote>
+<p>9.据您观察和了解，“高级黑”带来了哪些后果？（最多选三项）（多选）</p>
+<blockquote>
+<ul><li>抹黑了党和政府的形象</li>
+<li>激化了社会冲突与矛盾</li>
+<li>恶化了干群之间的关系</li>
+<li>扰乱了政治生态环境</li>
+<li>扭曲了人们的价值观念</li>
+<li>其他</li>
+</ul></blockquote>
+<p>10.在您看来，“高级黑”现象当如何应对？（多选）</p>
+<blockquote>
+<ul><li>提高组织和个人对“高级黑”行为的识别判断能力</li>
+<li>列出“高级黑”者的典型特征，让其无处匿藏</li>
+<li>一经时间和实践证明属于“高级黑”的，对其问责</li>
+<li>在全党全社会营造实事求是的良好文化氛围</li>
+<li>不回避重大问题，引导积极有序的研究和讨论</li>
+<li>其他</li>
+</ul></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%80%E4%BB%BD%E8%80%90%E4%BA%BA%E5%AF%BB%E5%91%B3%E7%9A%84%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E9%AB%98%E7%BA%A7%E9%BB%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%AA%E4%B8%80%E6%A0%B7%E7%9A%84%E9%98%9F%E5%8F%8B/?category=18271" rel="tag">猪一样的队友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%9C%A5%E5%A4%A7%E5%A4%A7%E8%AE%A9%E8%9B%A4%E8%9B%A4%E9%97%AD%E5%98%B4/" target="cdt-mirror">【麻辣总局】蜥大大让蛤蛤闭嘴</a>
 </h2>
 <p><p>@三联生活周刊 ：【有趣！青蛙呱呱叫不停 被变色龙“封嘴”】土耳其业余摄影师Sener博士在一次大学考察时拍到了这样一组照片：一只叫声吵人的青蛙惹一只变色龙烦心，变色龙顺着树枝爬过去直接堵住了青蛙的嘴。（图：视觉中国）</p>
@@ -815,22 +945,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/318%E5%AD%A6%E8%BF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%8F%B0%E6%B9%BE%E5%A4%AA%E9%98%B3%E8%8A%B1%E8%BF%90%E5%8A%A8%E4%B8%89%E9%83%A8%E6%9B%B2%E5%AE%8C%E6%95%B4%E7%89%88/" target="cdt-mirror">【CDTV】台湾太阳花运动三部曲完整版</a>
-</h2>
-<p><blockquote><p>背景阅读：中国数字时代关于<a href="http://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/">“太阳花学运”的全部文章</a></p></blockquote>
-<p>太阳花运动对台湾的民主有何意义?是否将改变台湾的蓝绿政治板块?台湾年轻世代的国家认同出现什么样的变化?对两岸关系又有什么影响?</p>
-<p>请收看VOA卫视针对台湾年轻世代以及两岸关系制作的特别专题报道太阳花三部曲。 订阅VOA YouTube频道：http://bit.ly/dingyue-youtube</p>
-<p><a href="https://www.youtube.com/v/XAFHvHbgUdE?version=3">https://www.youtube.com/v/XAFHvHbgUdE?version=3</a></p>
-<p><a title="台湾太阳花运动三部曲完整版" href="http://www.youtube.com/watch?v=XAFHvHbgUdE" target="_blank">台湾太阳花运动三部曲完整版</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-taiwan&sz=85E7&t=2&s=T4JIFHVBGCYLUT62IYHY35BG4WKBEWDBNNNCROSSLN5S4JQ2NYYA&i=CKFREMMTC5MAPWXFA73D7IGFUUBQICNSU&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E5%8F%B0%E6%B9%BE%E5%A4%AA%E9%98%B3%E8%8A%B1%E8%BF%90%E5%8A%A8%E4%B8%89%E9%83%A8%E6%9B%B2%E5%AE%8C%E6%95%B4%E7%89%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/318%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">318学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E6%9C%8D%E8%B4%B8%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">两岸服贸协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%9C%8D%E8%B4%B8/?category=18271" rel="tag">反服贸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">台海两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">台湾青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -842,7 +956,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/318%E5%AD%A6%E8%BF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -852,5 +966,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/318%E5%AD%A6%E8%BF
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

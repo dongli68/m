@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,68 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E5%86%99%E7%9A%84%E9%9B%B7%E6%B4%8B%E6%96%87%E7%AB%A0%E5%88%9A%E8%A2%AB%E5%88%A0%E8%AD%A6%E5%AF%9F%E5%B0%B1%E4%B8%8A%E9%97%A8%E4%BA%86%EF%BC%88%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B3%EF%BC%89/" target="cdt-mirror">华涌：我写的雷洋文章刚被删警察就上门了（宋庄故事3）</a>
+</h2>
+<p><p><strong>作者微信公号：向死而行（ID: tooooobe）</strong></p>
+<p>《太阳照常升起、雷洋正被遗忘、剩下恐惧在心底（宋庄故事3）》本来这个是今天的标题。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8901.jpg" rel="attachment wp-att-439046"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8901.jpg?resize=450%2C338" alt="宋庄故事三01" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三01.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三01.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>昨天的文章《雷洋死亡之地写生采访记》被和谐了，本以为雷洋事件如今已经被人淡忘，没想到这篇文章成为我写公众号以来最火的一篇文章，看后台有1万6千人阅读，有63人64次打赏。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%892.jpg" rel="attachment wp-att-439045"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%892.jpg?resize=400%2C400" alt="宋庄故事三2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三2.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三2.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三2.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三2.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三2.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br>
+非常感谢朋友们一直以来到支持和鼓励，我是一个有阅读障碍的人写300字的文章我也要弄上3个小时，错字连篇的原因是校对文字会让我无比痛苦，但是在朋友们的鼓励下我开始渐渐地客服自己的阅读障碍。</p>
+<p>其实昨天我文章里没有阐述一点我个人观点，只是写一这句采访小区居民时的一种“憋屈、堵塞、咽下很多老鼠毛一样”的感受。</p>
+<p>因为采访小区里的居民，我听到最多的词就是“我不知道”，“我不在这里住”。这么大一个发生在家门口的事情，电视网络天天说的人，就像皇帝的新衣，没人愿意 对着镜头告诉我他知道的“真相”或者“观点”，仿佛有种无形地恐惧压在人们的头顶，离我们很近，甚至已经侵入心底渗入骨髓。</p>
+<p>这让我想起了鲁迅笔下的那些看客和旁观者。他90年前写一篇短小精悍的小说《示众》比照今天看起来仍然很有意思。</p>
+<p>回北京的这几天我强烈地感受到了这种逼向我心底地阴霾之气，这些天我接触的朋友家里都有警察上门，打听我到情况。我让朋友们把我的电话给他们，让他们有事有问题直接找我问我，可是至今没接到一个电话。</p>
+<p>今天我先后接到了妈妈、大姐和二姐的电话：二姐要给我买机票让我去雨崩她开的客栈里躲一躲，心想难道我是个逃犯吗？大姐说不让我再乱写，她的心始终是揪揪着 好像被拉扯，心脏病要犯了一样。妈妈更是带哭腔地求我早点回家，那个日子快到了，不要再惹事，妈妈我已经无法再次经历你坐大牢的打击了。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8908.jpg" rel="attachment wp-att-439039"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8908.jpg?resize=450%2C338" alt="宋庄故事三08" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三08.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三08.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>我仿佛看见有帕金森病的爸爸，坐在老旧的沙发里，满头白发孤独呆滞的眼神凝视着窗外，那把天空充满让人透不过气来的乌云压顶～～～</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8909.jpg" rel="attachment wp-att-439038"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8909.jpg?resize=350%2C466" alt="宋庄故事三09" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三09.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三09.jpg?w=640 640w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
+<blockquote><p>干什么</p>
+<p>你们</p>
+<p>这是要干什么</p>
+<p>制造恐惧吗</p>
+<p>恐惧只能使真的勇士</p>
+<p>更加无比勇敢</p>
+<p>恐惧只能使</p>
+<p>堂吉歌德的热血</p>
+<p>喷涌</p>
+<p>沸腾</p>
+<p>来吧</p>
+<p>我不惧怕</p>
+<p>终有一天</p>
+<p>十四亿人挺直腰杆</p>
+<p>打个喷嚏</p>
+<p>你们这团乌云将</p>
+<p>瞬间散去</p>
+<p>勇敢的我们</p>
+<p>手挽手</p>
+<p>街上</p>
+<p>广场上</p>
+<p>一起打喷嚏</p>
+<p>打喷嚏</p>
+<p>打喷嚏</p></blockquote>
+<p>这几天写的3篇宋庄的故事被和谐了2篇，刚刚一个要投资“向死而行”的朋友打电话来说：“兄弟三天被删了两篇，今天还写吗？” 我：“写” 他：“会被封号的” 我：“都向死而行了还怕封号？” 他：“你现在可是靠这个号的打赏在生活，还有我们的投资你也不想要了吗？” 我：“就是乞讨我也要写，如果被封号更好，我就可以无顾忌地去为自由而疯狂，不过收你的订金我都花了，你先别吹我还就行。”他：“～～～”</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8911.jpg" rel="attachment wp-att-439036"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8911.jpg?resize=400%2C385" alt="宋庄故事三11" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三11.jpg?resize=300%2C289 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三11.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p>本来是想写到这里就收笔，看看表10:30了。可是现实的编剧就是这样魔幻，我工作室的门口传来杂乱打脚步声，有人咚咚咚地敲门进来4个人，于是我拍下了这3段视频。</p>
+<p></p>
+<p></p>
+<p></p>
+<p>这三天写的文章就剩这一篇未被和谐：</p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340608&idx=1&sn=fe010a30d35e47f5355739656d248282&scene=21#wechat_redirect" target="_blank">华涌回京：被莫名绑架、被疯子暴打！（宋庄故事1）</a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%90%91%E6%AD%BB%E8%80%8C%E8%A1%8C.jpg" rel="attachment wp-att-439035"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%90%91%E6%AD%BB%E8%80%8C%E8%A1%8C.jpg?resize=250%2C250" alt="向死而行" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?w=258 258w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a><br>
+关注向死而行公众号请长按上面二维码</p>
+<p>有问题想问华涌，可以点击左下角“原文链接”，有问必答。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E5%86%99%E7%9A%84%E9%9B%B7%E6%B4%8B%E6%96%87%E7%AB%A0%E5%88%9A%E8%A2%AB%E5%88%A0%E8%AD%A6%E5%AF%9F%E5%B0%B1%E4%B8%8A%E9%97%A8%E4%BA%86%EF%BC%88%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B3%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%B6%8C/?category=18271" rel="tag">华涌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%80%E4%BB%BD%E8%80%90%E4%BA%BA%E5%AF%BB%E5%91%B3%E7%9A%84%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E9%AB%98%E7%BA%A7%E9%BB%91/" target="cdt-mirror">精读党报｜一份耐人寻味的调查：如何识别高级黑</a>
 </h2>
 <p><blockquote><p><strong>推荐阅读：</strong></p>
@@ -919,32 +978,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E7%89%A9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90126%E5%90%8D%E8%A2%AB%E5%91%8A%E8%8E%B7%E6%92%A4%E8%AF%89%EF%BC%8C%E5%8F%B0%E6%B9%BE%E6%9C%9D%E9%87%8E%E5%8F%8D%E5%BA%94/" target="cdt-mirror">端传媒 | 太阳花学运126名被告获撤诉，台湾朝野反应不一</a>
-</h2>
-<p><p> </p>
-<p>2014年3月至4月台湾“太阳花学运”期间，部分学运人士闯入并占领行政院，后因此被起诉。时隔两年，5月23日，台湾行政院发言人童振源宣布，行政院长林全在20日上任后批出的第二份公文，就是撤回对126名太阳花学运人士的起诉。</p>
-<p>童振源引述林全表示，太阳花学运是“政治事件”，而非单纯的法律事件，应在“多一点和谐、少一点冲突”的原则下尽量从宽处理， 因此决定撤告。</p>
-<p>他还引述林全表示，太阳花学运诉求已普遍成为社会共识，立法院也依诉求对两岸协议监督条例进行立法，凸显太阳花学运的正当性与社会贡献。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/chaoxian-1.png?resize=600%2C398" alt="chaoxian" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/chaoxian-1.png?resize=300%2C199 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/chaoxian-1.png?w=617 617w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><br><span>图为2014年3月20日，学生和公民团体占领立法院议场。摄：Ashley Pon/Getty</span></p>
-<p>立法院长苏嘉全于23日表示，社会对太阳花运动的诉求持正面看法，对于行政院的做法，立法院“基本上还是尊重”的。总统府发言人黄重谚也于24日表示，太阳花学运是深化台湾民主的重要里程碑，支持行政院撤回对太阳花学运人士的控诉。</p>
-<blockquote><p>过去政府不做，就由现在政府来做。—— <cite>民进党立法院党团书记长陈亭妃</cite></p>
-<footer></footer></blockquote>
-<p>2014年3月23日晚上7时左右，部分反服贸群众和学生爬入行政院，在行政院正门前广场静坐抗议。社运组织“黑色岛国青年阵线”随后在 Facebook 宣布占领行政院；台湾清华大学研究所学生魏扬宣称是占领行动的总指挥。</p>
-<p>警方在24日凌晨展开强制驱离行动，过程中与学运人士发生肢体冲突；警方还开动镇暴水车，以水柱驱离学运人士。后经行政院评估，驱离过程中约有107人受伤，包括学生与警察，另学运人士闯入行政院破坏公物，造成约300万新台币损失。</p>
-<p>台北地检署于2015年侦办此案，依侵入建筑物罪起诉魏扬等93名被告；部分人被指窃取行政院内的浓烟逃生袋、以手机拍下行政院公文、对警员呛声、破坏行政院的门等，依窃盗、妨害公务、毁损等罪名被起诉。</p>
-<p>对于今次相关学运人士被撤诉，国民党文传会副主委王鸿薇于23日表示，行政院以政治方式解决司法案件，是纵容民众入侵公署、损害公物，认同群众以违法手段达到政治目的，国民党对此深表遗憾。</p>
-<p>王鸿薇还表示，新政府在第一个上班日，即以政治考量撤告，未经法律层面的广泛讨论就草率决定，是不负责任的做法，并指：“如果行政公署都可以攻占，那么新政府可下令各机关不必再设置驻卫警了。”</p>
-<p>民进党立法院党团书记长陈亭妃则表示，太阳花学运是民众对自己国家的未来发声，但（当届）政府不听，所以民众才走上街头。时代力量立法院党团总召徐永明也表示，撤诉是正面的事情，希望林全进一步追究当时警察殴打学生跟民众的责任。</p>
-<p>率领占领行政院行动的魏扬表示，撤诉代表政府肯定公民不服从的权利。太阳花学运领袖林飞帆也在 <a href="https://www.facebook.com/permalink.php?story_fbid=10206782340786062&id=1501674746&pnref=story">Facebook</a> 表示，撤诉是很好的开始，而他更期待的是学运的诉求能真正落实于新政府施政中，包括两岸协议监督条例的六大主张，以及公民参与宪政改革的实质推动。</p>
-<p>曾参与太阳花学运的时代力量执行党主席黄国昌也表示，相关决定代表林全承认学运对台湾民主的重要贡献，个人给予林全“相当高度的评价”。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90126%E5%90%8D%E8%A2%AB%E5%91%8A%E8%8E%B7%E6%92%A4%E8%AF%89%EF%BC%8C%E5%8F%B0%E6%B9%BE%E6%9C%9D%E9%87%8E%E5%8F%8D%E5%BA%94/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/318%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">318学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E6%9C%8D%E8%B4%B8%E5%8D%8F%E8%AE%AE/?category=18271" rel="tag">两岸服贸协议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%9C%8D%E8%B4%B8/?category=18271" rel="tag">反服贸</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -956,7 +989,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/318%E5%AD%A6%E8%BF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -966,5 +999,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/318%E5%AD%A6%E8%BF
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E7%8E%8B%E6%96%87%E8%89%AF%E4%B8%8E%E4%B8%B9%E4%B8%9C%E7%9A%84%E6%B7%B1%E6%B0%B4/" target="cdt-mirror">美国之音｜中国人大代表王文良与丹东的深水</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0981D8BB-ECEA-4847-BE28-555D2BFBEF2E_w640_r1_s_cx0_cy21_cw0.png" rel="attachment wp-att-439576"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0981D8BB-ECEA-4847-BE28-555D2BFBEF2E_w640_r1_s_cx0_cy21_cw0.png?resize=585%2C329" alt="0981D8BB-ECEA-4847-BE28-555D2BFBEF2E_w640_r1_s_cx0_cy21_cw0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0981D8BB-ECEA-4847-BE28-555D2BFBEF2E_w640_r1_s_cx0_cy21_cw0.png?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0981D8BB-ECEA-4847-BE28-555D2BFBEF2E_w640_r1_s_cx0_cy21_cw0.png?w=640 640w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>美国维吉尼亚州《里士满时代快报》发出询问：“给（州长）麦考利夫捐款的中国商人王文良是个什么人”？（网站截图）</span></p></div>
+<p>美国司法部调查维吉尼亚州州长麦考利夫的竞选捐款问题，使中国全国人大代表、美国永久居民王文良成为美国新闻人物，因为在被调查的竞选捐款当中，有12万美元来自王文良。</p>
+<p>5月24日，维吉尼亚州首府里士满的《里士满时代快报》发表新闻人物报道，题目是：《<a href="http://www.richmond.com/news/virginia/government-politics/article_6f710af2-1086-56ee-bef8-24c08531baf9.html" target="_blank">给（州长）麦考利夫捐款的中国商人王文良是个什么人？</a>》。报道列举了王文良在过去一些年里在美国的一系列捐款，其中包括给克林顿基金会200万美元，给纽约大学2500万美元，以及给哈佛大学捐款，指出王文良及其公司拥有中国东北深水港丹东港的控制权，承包中国驻美国大使馆的建筑工程等等。</p>
+<p>截至目前，美国英文媒体有关王文良的报道主要是集中于他在美国的捐款，以及他的公司在美国的活动，鲜少王文良在中国如何发家致富的报道。</p>
+<p>在中国则有批评者声称，王文良行贿收买丹东官员以及公检法部门，而王文良及其公司丹东港集团获取丹东港控制权、从而一举获得滚滚的财源则是典型的官商勾结的黑幕交易，是侵吞国有资产的典型例证。批评者说，2005年王文良获取丹东港时，丹东港的土地就价值17亿元人民币，但王只是用了2亿就把丹东港拿到手。</p>
+<p>王文良先前的商业合作伙伴、美籍商人胡铭举报王文良在获取丹东港之前（2004年夏季），向当时的中共丹东市委副书记、市长陈铁新行贿至少3万美元和500万元人民币，随后在陈铁新的帮助下获取了丹东港。</p>
+<p>辽宁丹东的水究竟有多深？王文良在丹东到底有一种什么影响力？换言之，王文良在丹东究竟有一种什么样的经商环境或法律环境？对这样的至关重要的问题，北京律师朱平一开始显然不太清楚。</p>
+<p>一位不愿透露姓名的知情者告诉美国之音，在举报王文良行贿之后，胡铭被引诱到丹东然后被抓、旋即被王文良告上法庭、受到起诉和判刑之后，朱平承接了胡铭的案子。然后，就发生了令人难以置信的奇事。</p>
+<p>2016年1月18日，朱平到辽宁省大连市出差，在旅馆中突然失踪。他的同事和家人四处寻访，大连当地公安机关表示没有线索，不知朱平是如何人间蒸发的。</p>
+<p>知情者在接受美国之音采访的时候说，他们通过调阅旅馆的监控录像，发现是朱平旅馆隔壁房间一批人将朱平绑架。旅馆通过监控录像上的人的面孔，核对客人入住身份证件，得知那些人是丹东市公安局的人。</p>
+<p>知情者说，他们随后立即追踪到丹东。丹东公安机关和检察机关相互推诿，都说抓捕朱平的事情不是自己这边的人干的。</p>
+<p>接下来，又一件法律奇事在丹东发生——丹东检察机关打破基本的法律常规，省略公安机关的立案程序，直接对朱平律师提出起诉，罪名是在胡铭案中涉嫌妨害作证。</p>
+<p>朱平律师被绑架到丹东的奇事当中还套着一件奇事，这就是，朱平在1月18日被绑架，但朱平说，他刚刚被抓进看守所，丹东检察机关就告诉他，已经在1月16日对他实行逮捕。</p>
+<p>朱平的辩护人对王文良所在的丹东市司法当局一系列违规违法办案的举措提出强烈抗议，并指出按照中国现行刑事诉讼法，朱平作为辩护人涉嫌犯罪，这种案子不应当由丹东侦查机关办理。</p>
+<p>实际上，中国现行的《中华人民共和国刑事诉讼法》第四十二条明文规定，“辩护人涉嫌犯罪的，应当由办理辩护人所承办案件的侦查机关以外的侦查机关办理。辩护人是律师的，应当及时通知其所在的律师事务所或者所属的律师协会。”而刑诉法之所以有这种规定，就是为了防止侦查机关对辩护人进行打击报复。</p>
+<p>然而，丹东司法当局坚持说，就是要在丹东办理朱平案，并在今年4月19日进行了总共7天庭审。庭审之后，法庭又说有关案件要补充侦查，至今没有做出宣判。按照中国法律，补充侦查可以进行4个月，4个月不够，侦查机关还可以申请再延长3个月。</p>
+<p>此外，媒体人梁石川（梁东强）因为在网络上发表文章为胡铭并批评王文良和丹东司法机关的一系列成问题的做法也被抓捕，罪名是诽谤。</p>
+<p>梁东强的律师张维玉指出，丹东检察机关处理所谓的梁东强诽谤案中的做法令人难以信服，因为丹东当局根本就没有弄清基本的事实，因为诽谤的前提是蓄意捏造事实，而检察机关根本就没有对有关的事实进行起码的调查，对梁东强文章中所提到的王文良是否行贿，是否侵吞过国有资产、是否派人传话给胡铭说假如胡铭跟王文良和解、检察院就会对胡铭案件撤诉、即使到了二审也可以想办法等一系列关键性的事实没有调查和确认。</p>
+<p>张维玉律师为梁石川（梁东强）写的辩护词指出：“辩护人还注意到本案没有对王文良、…丹东市公安局经侦支队姜本强、安然进行询问。为什么？辩护人不愿意相信与他们的地位、权势有关。”</p>
+<p>王文良在丹东是否有超乎寻常的地位或权势，各方的看法各有不同。但在胡铭举报王文良行贿侵吞国有资产并被抓捕判刑之后，截至目前，凡是公开质疑王文良和丹东当局如此整治胡铭的合法性、为胡铭辩护、为提供胡铭无罪证明的人被抓了一串，仅仅在从4月19日开始的为期7天的庭审中，就有6个人：</p>
+<p>他们分别是：</p>
+<p>于兴隆（胡的妹夫）、迟兰（胡的女友）、金小鹏（胡的辩护律师）、朱平（胡的律师）、刘炜（胡的同事）、梁东强（网络作家）。</p>
+<p>这些人的罪名分别是：妨害作证、诽谤、掩饰、隐瞒犯罪所得、诈骗。</p>
+<p>美国之音试图联系王文良，请他对相关指控亲自做出回应。但是到截稿时间为止，一直无法跟王文良本人直接取得联系。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E7%8E%8B%E6%96%87%E8%89%AF%E4%B8%8E%E4%B8%B9%E4%B8%9C%E7%9A%84%E6%B7%B1%E6%B0%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%96%87%E8%89%AF/?category=18271" rel="tag">王文良</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91-2/" target="cdt-mirror">【CDTV】中国洗衣广告成功“输出价值观”</a>
 </h2>
 <p><p>@西雅图黄都督：这两天一则中国广告在美国网上炸锅了：一个浑身脏的壮黑人进屋要亲一个中国妞，结果被中国妞塞进洗衣机用一个叫做俏比的洗衣球珠暴洗，再出来的时候变成了一个锅盖头全身干净的白肤华人……</p>
@@ -625,6 +659,40 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
 <p>
 	<small> ============== 2天前</small>
 </p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/" target="cdt-mirror">蔡英文在会谈中说了“我说中文有困难”吗？（更正）</a>
+</h2>
+<p><p><strong>【更正】</strong>有微博用户提出在蔡英文“卡壳”时，贾朵德说的不是“知道”而是他自己的名字“Jadotte”。数字时代编辑重新回顾视频后，认同上述说法，特此更正。<span>修改内容由红字标出</span>。</p>
+<blockquote><p><a href="http://weibo.com/2470143765" target="_blank">@普里朊</a>：谢 po 主分析。补充下，第二处贾多德的说的是自己的名字“Jadotte”而不是“知道”，戴上耳机把音量调到极大，可以听到“t”的尾音。</p></blockquote>
+<p>____________________________</p>
+<p>台湾第一任女总统蔡英文近日接见了美国商务部助理部长贾朵德。经观察者网<a href="http://news.sina.com.cn/c/gat/2016-05-25/doc-ifxsktkr6068873.shtml" target="_blank">报道</a>后，会谈中蔡英文的一处“卡壳”迅速成为了中国网民热议的话题，其中多以讥讽为主。中国数字时代编辑找到了上述会面的完整视频：</p>
+<p><br><span>蔡英文会见美国商务部助理部长完整视频（</span>YouTube<a href="https://youtu.be/7Ul_Kimo_Ik" target="_blank">地址</a><span>；共15分钟）</span></p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%BE%E6%9C%B5%E5%BE%B7.jpg" rel="attachment wp-att-438910"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%BE%E6%9C%B5%E5%BE%B7.jpg?resize=500%2C265" alt="蔡英文贾朵德" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=300%2C159 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=768%2C406 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=1024%2C542 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?w=2850 2850w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>YouTube视频截图</span></p></div>
+<h3>第一个争议点：</h3>
+<p> <br>
+会面正式开始前，蔡英文对贾朵德说：<strong>Because the camera is here, I have to say things I want to say in Mandarin. I apologize for that.（因为摄像机在这儿，我需要用国语说我想要讲的内容。抱歉。）</strong></p>
+<p>贾朵德回应：I understand.（我理解。）</p>
+<p><strong>正常解读：</strong>谈话双方都知道蔡英文本可以用英语直接交流（参考：<a href="https://www.youtube.com/watch?v=PHJYjDXhCzE" target="_blank">蔡英文哈佛演讲问答环节 全程英语</a>），但因为现场有摄像机，且这些画面的<strong>主要收看者是台湾观众，所以需要讲中文</strong>，通过翻译进行对话<strong>。</strong></p>
+<p><strong>观察网版本：</strong></p>
+<blockquote><p>其实，两人刚刚落座时，蔡英文就用英文说了一句：“Before the camera here, I have to say…first I want to say in Mandarin.”（在镜头面前，我不得不先用中文讲话。）似乎在蔡英文看来，说中文是“不得已而为之”。</p></blockquote>
+<p><strong>必须指出的是，蔡英文并没有使用”Before the camera””say in Mandarin”这种中式英语。</strong></p>
+<h3>第二个争议点：</h3>
+<p> <br><strong>蔡英文</strong>：很高兴在我上任的这个时刻，看到美国的高层的访问团来台湾访问。那么我了解这是我们（此处卡壳）……贾……</p>
+<p><strong>贾朵德</strong>：<span><del datetime="2016-05-27T06:42:38+00:00">知道。</del><del datetime="2016-05-27T06:42:38+00:00"></del>Jadotte.</span></p>
+<p><strong>蔡英文</strong>：I have problem of…saying that thing…the Chinese language…I’m sorry.  我们非常感谢贾朵德助理部长把台湾列作这次行程里的一站。</p>
+<p><strong>正常理解：这里蔡英文明显是卡在“Marcus Jadotte”的中文名“贾朵德”上</strong>，<span><del><strong>所以贾朵德此时才会微笑说“知道”</strong>，以示理解。</del><strong>贾朵德意识到这点后主动说出了自己的名字</strong>“Jadotte”</span>。随后蔡英文用英语解释，<strong>自己卡壳是因为用中文读 Marcus Jadotte 的名字有点困难</strong>。</p>
+<p><strong>观察网版本：</strong></p>
+<blockquote><p>“很高兴在我上任的这个时刻，看到美国高级的访问团来台湾访问，我了解这是我们…呃…呃…呃…I have problem of saying Chinese language. I’m sorry. 呃…”蔡英文试图脱稿寒暄几句，不料讲话时突然“卡壳”，令现场尴尬不已，只得用英文自嘲“我说中文有困难”。</p>
+<p>坐在对面的美国人贾朵德忍不住微笑，用中文接了一句：“知道。”</p>
+<p>[…]最后，小编友情提醒，“say Chinese language”是错误用法，正确的动词应该是speak。</p></blockquote>
+<p><strong>这里值得注意的是，原视频中讲话内容的顺序也与观察者网的文章有所出入。</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%AB%98%E8%80%83%E5%87%8F%E6%8B%9B%E6%8C%81%E7%BB%AD%E5%8F%91%E9%85%B5-%E5%A4%9A%E5%9C%B0%E5%AE%B6%E9%95%BF%E4%B8%8A%E8%A1%97%E6%8A%97/" target="cdt-mirror">自由亚洲｜高考“减招”持续发酵 多地家长上街抗议</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg" rel="attachment wp-att-438901"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg?resize=575%2C411" alt="不满高考名额削减数万引发湖北、江苏两省家长的强烈不满。（Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg?resize=300%2C215 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-26.jpg?w=622 622w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>不满高考名额削减数万引发湖北、江苏两省家长的强烈不满。（Public Domain）</span></p></div>
@@ -799,81 +867,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/" target="cdt-mirror">【异闻观止】新华网 | 单身导致蔡英文政治风格偏向极端化</a>
-</h2>
-<p><p>原标题：起底蔡英文</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?resize=450%2C271" alt="5月18日，一些台湾民众在台北举行集会，他们手持“九二共识”牌匾，警告蔡英文勿破坏两岸和平。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?resize=300%2C181 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>5月18日，一些台湾民众在台北举行集会，他们手持“九二共识”牌匾，警告蔡英文勿破坏两岸和平。</p></div>
-<blockquote><p><strong>编辑注：本文目前已在新华网本站删除 -2016.5.25 8时（北京时间）</strong></p></blockquote>
-<p>【作者】王卫星（海峡两岸关系协会理事、军事科学院外军研究部部长）</p>
-<p>《国际先驱导报》文章2016年5月20日，在台湾地区领导人选举中获胜的蔡英文，即将成为首位女性最高领导人。她是一个在变态的台湾社会与政治生态环境中成长起来的复杂人。从上世纪九十年代以后，蔡英文从一名大学教授投身政治，亲身参与了台湾几个重要历史性阶段：在1990年到2002年台湾加入WTO过程中，担任谈判总顾问；在1990年代后期到2015年两岸关系的几次巨变过程中，先后担任台湾“国安会”咨询委员会、“陆委会”主委、民进党主席；在2000年民进党执政到2008年台湾二次政党轮替、2016年民进党再次执政过程中，均扮演着重要角色。</p>
-<p>蔡英文不仅是李登辉时期“两国论”的重要策划者，也是陈水扁时期强烈阻挠两岸关系改善的“幕后黑手”，更是国民党执政8年中诸多“暴力事件”的策划者。由此可见，我们即将面对的是一个坚决反对“一中原则”、拒不承认“九二共识”的民进党，百世不变、笑脸相迎的“蔡式台独”。</p>
-<p><strong>绿营富裕阶层的代表人物</strong></p>
-<p>分析蔡英文的经历，有两点对她个人性格和从政风格有着重要的影响。一是蔡父的亲日亲绿情结深厚，对其影响较大。蔡家属于日本殖民台湾时期的既得利益集团中的一员，对日本的历史记忆、观感，以及对日本殖民统治的认识，与因怀有国仇家恨而奋起抗日的两岸人民的感受绝然不同。蔡父年轻时就被殖民当局选中，赴日学习飞机维修技术，给日军修理过飞机，还在日本工作了一段时间。后在台北经营汽车维修厂、投资房地产等，逐渐成为台北市的“大地主”。蔡英文的哥哥蔡瀛南常年往返于台日之间经商，也曾留学日本。蔡英文小名取的是日本名“吉米牙”（意思是“小不点”）。从小请的是日文家教。饮食上，在学生时代，她中午常吃的是母亲做的日式饭团，成年后经常到日本休假，认同日本亲台势力的“台湾地位未定论”；与日本首相安倍晋三及其胞弟、众院议员岸信夫私交甚深等。蔡英文在情感上乃至政治立场上的亲日是毋庸置疑的。</p>
-<p>蔡父对国民党统治非常不满，早年资助“党外”运动，与“台独”分子关系深厚，本土意识很强，自称是“李登辉的崇拜者”。据说，李登辉有次宴请蔡英文，蔡英文还提出带着父亲赴宴，以了乃父见李一面的心愿。蔡英文多次表示，“翻看民进党的党纲和许多文件，我和民进党的理念相当一致。”“我的家庭一直是民主运动的无声支持者。”“我再没有软弱的权利，更没有任性的权利。我是终身党员，我不会离开民进党。”</p>
-<p>二是身处多房妻室合成的家庭、精英与草莽混杂的政党、国家认同冲突的社会，对其影响较大。<strong><span>蔡英文的性格夹杂着野性与谨慎、低调与强势、积极自信与缺少安全感等复杂元素。</span></strong>其爱好广泛，打网球、看书、喝红酒、养狗、养猫；<strong><span>酷爱飙车，一个人可以一口气开14小时的车，曾被男同事谓之“流寇”。</span></strong>未婚，感情经历较单纯。<strong><span>在美国康奈尔大学就读期间曾交往一男友，男友意外丧生。</span></strong></p>
-<p><strong><span>从人性的角度分析，作为单身女政客，她没有爱的情感拖累，没有“家”的掣肘，没有子女的牵挂，在政治上的行事风格与行事策略，往往偏向情感化、个性化、极端化发展，政治权术上则在战略方向上考量少，战术细节上考量多，短期目标所示到极致，长期目标则较少顾及。</span></strong></p>
-<p>蔡英文没有陈水扁煽动激情的语言、跳跃式的思考模式，以及大呼口号、大开支票和善变；更没有陈水扁那么强烈的投机、急躁与十足的赌性，但似乎也没有足够的务实性。坚持“不说做不到的话”，更像出生于好家庭、受过国外高等教育、温良恭俭让的马英九，“一头清汤挂面短发，有点微微驼背，白暂的脸上有几颗斑”，有“女版马英九”“马英九2.0”的名号。但她不像马英九那么不知变通，更缺乏马那种为理想灼身的使命感。</p>
-<p><strong>作风强势擅诡辩，“暴力小英”名不虚传</strong></p>
-<p>蔡英文在台湾政坛是一个“另类”。亲日亲美亲绿反共使其在政治上有着浓厚的“台独”情结；为人低调，性格复杂，又使其在行事风格上不同与传统的台湾政治人物。台湾著名媒体人陈文茜曾对蔡英文有这样的描述：“站在山峰高处的一只野豹，攻击性强”“有着天生的自信、专业领域的执着，看似清纯，眼神却跟豹一样，驼着背，穿着深色外衣，让男性立委看了退避三舍”。</p>
-<p>她有如下特点：</p>
-<p><strong>诡谲多变，作风强势。</strong>蔡英文善于随身份及职务的转换调整处事风格。优越的成长环境使她养成了自信强势的作风，很难听进别人建言。她不喜欢开冗长会议，向来是有事开会，无事散会；很少和人聊天，晋用官员一定亲自面谈；对部属要求严格，规定下属不得越级报告；管理风格“不怒而威”“柔中带刚”，经常话中带刺，让被批评的人下不了台；遭政敌攻击时，会正面迎战。民进党人士柯建铭、陈朝文表示，竞选时，蔡的竞选政策他们不清楚，要求蔡说清楚，不料触怒了她，蔡勃然大怒足足骂了半个小时。同时，对需要争取的对象，面对民众时，低调谦和、温柔有加。岛内媒体戏称蔡是“谜样的女人”。</p>
-<p><strong>擅长逻辑诡辩。</strong>蔡英文以思维敏捷、能言善辩闻名政坛。说话多实问虚答，喜故弄玄虚，不停地弯弯绕，让人不知其所云，被媒体冠名之“废话神功”。蔡自称习惯于“用逻辑来思考问题，用问话来给对方压力。”“如果用对方的逻辑来应对、回答，他就可以一直问下去，不啻给自己找麻烦。如果你在原来的组成里找不出答案，就把它拆掉，再重新组合，用自己的逻辑另辟蹊径，经常可以杀出另一条路来。”这既是她操作空间的策略运用，也是确保其实际利益不受损害的挡箭牌。批评者因其政策抽象、空灵、飘渺、模糊、游移而称其为“空心菜(蔡)”。如2010年5月，她宣布参选新北市长。当媒体问她，“当选后是否会做满四年”，她答“一定会负责到底”，始终对“做满四年”这个核心问题避而不谈。因为她根本不想当什么市长，她志在选“总统”。</p>
-<p><strong>操弄民意手段高明，“暴力事件”幕后黑手。</strong>她之所以能从一个研究国民党时代地方选举的助理，变成了与国民党分庭抗礼的“总统”参选人，自有其一套独到的操弄民意的办法。她谙熟政治，早在“戒严”时期，蔡英文为了研究台湾政治和选举，曾经长期待在《联合报》的剪报室，详细研究当时所有关于地方选举的剪报。每次到造势现场时，都采取“大进场”的方式，刻意从后端入场，一直跟群众握手到走向舞台，让台上的主持人不断地喊着让人热血沸腾的口号或话语，把现场情绪拉到高点。蔡在自述中说，“在跟群众握手的过程中，政治人物会感受到群众的热情，肾上腺素会改变。真的！当你上台演讲时，会更有自信，因为你会感受到台下有人在听，是热情的，是真的关心你！”“我真是竭尽力气，使出看家本领来炒热场子。”她惯用问答式的演讲风格，先问一个问题，然后问台下：“好不好？”让民众回答“好”，以此掀起煽动民意。</p>
-<p>她深谙并利用了民进党“打打杀杀”的街头“台独”路线，策划和组织了许多起街头暴力活动。如2008年陈云林第一次访台时的“呛马围城事件”、2009年的“5·17反倾中、护台湾”大游行、2013年的“8·3白衫军送仲丘”大游行、2014年的“太阳花学运”冲击“立法院”事件、2015年的“反课纲事件”等。有对手称其是暴力黑手，称她为“暴力小英”。近年来台湾发生的重大暴力事件，没有一个能离开“暴力小英”的幕后黑手。</p>
-<p><strong>推行“理念型台独”，将走“蔡式台独路线”</strong></p>
-<p>蔡英文长期担任李登辉幕僚，在两岸关系领域浸淫已久，有一系列深思熟虑的主张，被认为是“理念型台独”的推出者。蔡既驾驭“台独”激进势力为其所用，又将具有“台独”史观与思维的青年群体纳入其预定轨道，更在享受两岸和平红利的同时引领“台独”意识成长。</p>
-<p>她反对一中原则和“一国两制”，试图建立以“维持现状”为核心的新两岸关系论述。</p>
-<p>她主张扩大台湾“本土认同论”，坚持“台湾主体价值和主权地位”。</p>
-<p>她提倡务实开放两岸经贸交流，限制性地发展两岸关系。</p>
-<p>她希望借助美、日等反华势力，积极推动台湾“国际参与”。</p>
-<p>我们分析，蔡英文执政后将会走一条完全不同于李登辉、陈水扁的“蔡式台独路线”：首先，实施“隐独化”策略，将大搞“去中国化”；其次，运用逻辑诡辩，将掏空“九二共识”的实质内涵；第三，以“拖”待变，将破坏两岸现状的责任转嫁给大陆。</p>
-<p>总之，蔡英文的性格具有鲜明的两面性，其政治操作手法也充斥着面上一套、私下一套的两面手法，具有相当的欺骗性。<strong>她的一生似乎注定要在矛盾体中生存。</strong>我们在和蔡英文打交道时，一定要时时考虑其经历、性格与心理素质等重要因素。这个过程实质上就是一种意志与智慧的较量。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E5%8D%8E%E7%BD%91.jpg" rel="attachment wp-att-438861"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%B0%E5%8D%8E%E7%BD%91.jpg?resize=550%2C664" alt="新华网刊登的旗下所属《国际先驱导报》文章《起底蔡英文 》，目前已被删除；谷歌快照截屏" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新华网.jpg?resize=768%2C927 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新华网.jpg?resize=849%2C1024 849w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/新华网.jpg?w=1838 1838w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>新华网刊登的旗下所属《国际先驱导报》文章《起底蔡英文》，目前已被删除；<a href="http://webcache.googleusercontent.com/search?q=cache%3Anews.xinhuanet.com%2Fherald%2F2016-05%2F24%2Fc_135381217.htm&ie=utf-8&oe=utf-8" target="_blank">谷歌快照</a>截屏</span></p></div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/?category=18271" rel="tag">九二共识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%95%E5%90%8E%E9%BB%91%E6%89%8B/?category=18271" rel="tag">幕后黑手</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE/?category=18271" rel="tag">总统选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/" target="cdt-mirror">【异闻观止】新华社 | 单身导致蔡英文政治风格偏向极端化</a>
-</h2>
-<p><p>原标题：起底蔡英文</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?resize=450%2C271" alt="5月18日，一些台湾民众在台北举行集会，他们手持“九二共识”牌匾，警告蔡英文勿破坏两岸和平。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?resize=300%2C181 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/68166b1f26c2e05b7e68c494422deda3.jpeg?w=450 450w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>5月18日，一些台湾民众在台北举行集会，他们手持“九二共识”牌匾，警告蔡英文勿破坏两岸和平。</p></div>
-<blockquote><p><strong>编辑注：本文目前已在新华网本站删除 -2016.5.25 8时（北京时间）</strong></p></blockquote>
-<p>【作者】王卫星（海峡两岸关系协会理事、军事科学院外军研究部部长）</p>
-<p>《国际先驱导报》文章2016年5月20日，在台湾地区领导人选举中获胜的蔡英文，即将成为首位女性最高领导人。她是一个在变态的台湾社会与政治生态环境中成长起来的复杂人。从上世纪九十年代以后，蔡英文从一名大学教授投身政治，亲身参与了台湾几个重要历史性阶段：在1990年到2002年台湾加入WTO过程中，担任谈判总顾问；在1990年代后期到2015年两岸关系的几次巨变过程中，先后担任台湾“国安会”咨询委员会、“陆委会”主委、民进党主席；在2000年民进党执政到2008年台湾二次政党轮替、2016年民进党再次执政过程中，均扮演着重要角色。</p>
-<p>蔡英文不仅是李登辉时期“两国论”的重要策划者，也是陈水扁时期强烈阻挠两岸关系改善的“幕后黑手”，更是国民党执政8年中诸多“暴力事件”的策划者。由此可见，我们即将面对的是一个坚决反对“一中原则”、拒不承认“九二共识”的民进党，百世不变、笑脸相迎的“蔡式台独”。</p>
-<p>绿营富裕阶层的代表人物</p>
-<p>分析蔡英文的经历，有两点对她个人性格和从政风格有着重要的影响。一是蔡父的亲日亲绿情结深厚，对其影响较大。蔡家属于日本殖民台湾时期的既得利益集团中的一员，对日本的历史记忆、观感，以及对日本殖民统治的认识，与因怀有国仇家恨而奋起抗日的两岸人民的感受绝然不同。蔡父年轻时就被殖民当局选中，赴日学习飞机维修技术，给日军修理过飞机，还在日本工作了一段时间。后在台北经营汽车维修厂、投资房地产等，逐渐成为台北市的“大地主”。蔡英文的哥哥蔡瀛南常年往返于台日之间经商，也曾留学日本。蔡英文小名取的是日本名“吉米牙”（意思是“小不点”）。从小请的是日文家教。饮食上，在学生时代，她中午常吃的是母亲做的日式饭团，成年后经常到日本休假，认同日本亲台势力的“台湾地位未定论”；与日本首相安倍晋三及其胞弟、众院议员岸信夫私交甚深等。蔡英文在情感上乃至政治立场上的亲日是毋庸置疑的。</p>
-<p>蔡父对国民党统治非常不满，早年资助“党外”运动，与“台独”分子关系深厚，本土意识很强，自称是“李登辉的崇拜者”。据说，李登辉有次宴请蔡英文，蔡英文还提出带着父亲赴宴，以了乃父见李一面的心愿。蔡英文多次表示，“翻看民进党的党纲和许多文件，我和民进党的理念相当一致。”“我的家庭一直是民主运动的无声支持者。”“我再没有软弱的权利，更没有任性的权利。我是终身党员，我不会离开民进党。”</p>
-<p>二是身处多房妻室合成的家庭、精英与草莽混杂的政党、国家认同冲突的社会，对其影响较大。蔡英文的性格夹杂着野性与谨慎、低调与强势、积极自信与缺少安全感等复杂元素。其爱好广泛，打网球、看书、喝红酒、养狗、养猫；酷爱飙车，一个人可以一口气开14小时的车，曾被男同事谓之“流寇”。未婚，感情经历较单纯。在美国康奈尔大学就读期间曾交往一男友，男友意外丧生。</p>
-<p>从人性的角度分析，作为单身女政客，她没有爱的情感拖累，没有“家”的掣肘，没有子女的牵挂，在政治上的行事风格与行事策略，往往偏向情感化、个性化、极端化发展，政治权术上则在战略方向上考量少，战术细节上考量多，短期目标所示到极致，长期目标则较少顾及。</p>
-<p>蔡英文没有陈水扁煽动激情的语言、跳跃式的思考模式，以及大呼口号、大开支票和善变；更没有陈水扁那么强烈的投机、急躁与十足的赌性，但似乎也没有足够的务实性。坚持“不说做不到的话”，更像出生于好家庭、受过国外高等教育、温良恭俭让的马英九，“一头清汤挂面短发，有点微微驼背，白暂的脸上有几颗斑”，有“女版马英九”“马英九2.0”的名号。但她不像马英九那么不知变通，更缺乏马那种为理想灼身的使命感。</p>
-<p>作风强势擅诡辩，“暴力小英”名不虚传</p>
-<p>蔡英文在台湾政坛是一个“另类”。亲日亲美亲绿反共使其在政治上有着浓厚的“台独”情结；为人低调，性格复杂，又使其在行事风格上不同与传统的台湾政治人物。台湾著名媒体人陈文茜曾对蔡英文有这样的描述：“站在山峰高处的一只野豹，攻击性强”“有着天生的自信、专业领域的执着，看似清纯，眼神却跟豹一样，驼着背，穿着深色外衣，让男性立委看了退避三舍”。</p>
-<p>她有如下特点：</p>
-<p>诡谲多变，作风强势。蔡英文善于随身份及职务的转换调整处事风格。优越的成长环境使她养成了自信强势的作风，很难听进别人建言。她不喜欢开冗长会议，向来是有事开会，无事散会；很少和人聊天，晋用官员一定亲自面谈；对部属要求严格，规定下属不得越级报告；管理风格“不怒而威”“柔中带刚”，经常话中带刺，让被批评的人下不了台；遭政敌攻击时，会正面迎战。民进党人士柯建铭、陈朝文表示，竞选时，蔡的竞选政策他们不清楚，要求蔡说清楚，不料触怒了她，蔡勃然大怒足足骂了半个小时。同时，对需要争取的对象，面对民众时，低调谦和、温柔有加。岛内媒体戏称蔡是“谜样的女人”。</p>
-<p>擅长逻辑诡辩。蔡英文以思维敏捷、能言善辩闻名政坛。说话多实问虚答，喜故弄玄虚，不停地弯弯绕，让人不知其所云，被媒体冠名之“废话神功”。蔡自称习惯于“用逻辑来思考问题，用问话来给对方压力。”“如果用对方的逻辑来应对、回答，他就可以一直问下去，不啻给自己找麻烦。如果你在原来的组成里找不出答案，就把它拆掉，再重新组合，用自己的逻辑另辟蹊径，经常可以杀出另一条路来。”这既是她操作空间的策略运用，也是确保其实际利益不受损害的挡箭牌。批评者因其政策抽象、空灵、飘渺、模糊、游移而称其为“空心菜(蔡)”。如2010年5月，她宣布参选新北市长。当媒体问她，“当选后是否会做满四年”，她答“一定会负责到底”，始终对“做满四年”这个核心问题避而不谈。因为她根本不想当什么市长，她志在选“总统”。</p>
-<p>操弄民意手段高明，“暴力事件”幕后黑手。她之所以能从一个研究国民党时代地方选举的助理，变成了与国民党分庭抗礼的“总统”参选人，自有其一套独到的操弄民意的办法。她谙熟政治，早在“戒严”时期，蔡英文为了研究台湾政治和选举，曾经长期待在《联合报》的剪报室，详细研究当时所有关于地方选举的剪报。每次到造势现场时，都采取“大进场”的方式，刻意从后端入场，一直跟群众握手到走向舞台，让台上的主持人不断地喊着让人热血沸腾的口号或话语，把现场情绪拉到高点。蔡在自述中说，“在跟群众握手的过程中，政治人物会感受到群众的热情，肾上腺素会改变。真的！当你上台演讲时，会更有自信，因为你会感受到台下有人在听，是热情的，是真的关心你！”“我真是竭尽力气，使出看家本领来炒热场子。”她惯用问答式的演讲风格，先问一个问题，然后问台下：“好不好？”让民众回答“好”，以此掀起煽动民意。</p>
-<p>她深谙并利用了民进党“打打杀杀”的街头“台独”路线，策划和组织了许多起街头暴力活动。如2008年陈云林第一次访台时的“呛马围城事件”、2009年的“5·17反倾中、护台湾”大游行、2013年的“8·3白衫军送仲丘”大游行、2014年的“太阳花学运”冲击“立法院”事件、2015年的“反课纲事件”等。有对手称其是暴力黑手，称她为“暴力小英”。近年来台湾发生的重大暴力事件，没有一个能离开“暴力小英”的幕后黑手。</p>
-<p>推行“理念型台独”，将走“蔡式台独路线”</p>
-<p>蔡英文长期担任李登辉幕僚，在两岸关系领域浸淫已久，有一系列深思熟虑的主张，被认为是“理念型台独”的推出者。蔡既驾驭“台独”激进势力为其所用，又将具有“台独”史观与思维的青年群体纳入其预定轨道，更在享受两岸和平红利的同时引领“台独”意识成长。</p>
-<p>她反对一中原则和“一国两制”，试图建立以“维持现状”为核心的新两岸关系论述。</p>
-<p>她主张扩大台湾“本土认同论”，坚持“台湾主体价值和主权地位”。</p>
-<p>她提倡务实开放两岸经贸交流，限制性地发展两岸关系。</p>
-<p>她希望借助美、日等反华势力，积极推动台湾“国际参与”。</p>
-<p>我们分析，蔡英文执政后将会走一条完全不同于李登辉、陈水扁的“蔡式台独路线”：首先，实施“隐独化”策略，将大搞“去中国化”；其次，运用逻辑诡辩，将掏空“九二共识”的实质内涵；第三，以“拖”待变，将破坏两岸现状的责任转嫁给大陆。</p>
-<p>总之，蔡英文的性格具有鲜明的两面性，其政治操作手法也充斥着面上一套、私下一套的两面手法，具有相当的欺骗性。她的一生似乎注定要在矛盾体中生存。我们在和蔡英文打交道时，一定要时时考虑其经历、性格与心理素质等重要因素。这个过程实质上就是一种意志与智慧的较量。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/?category=18271" rel="tag">九二共识</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89/?category=18271" rel="tag">台湾大选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F/?category=18271" rel="tag">台湾总统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E9%98%B3%E8%8A%B1%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">太阳花学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%95%E5%90%8E%E9%BB%91%E6%89%8B/?category=18271" rel="tag">幕后黑手</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE/?category=18271" rel="tag">总统选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A%E8%BD%AE%E6%9B%BF/?category=18271" rel="tag">政党轮替</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -885,7 +878,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -895,5 +888,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

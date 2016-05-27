@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91-2/" target="cdt-mirror">【CDTV】中国洗衣广告成功“输出价值观”</a>
+</h2>
+<p><p>@西雅图黄都督：这两天一则中国广告在美国网上炸锅了：一个浑身脏的壮黑人进屋要亲一个中国妞，结果被中国妞塞进洗衣机用一个叫做俏比的洗衣球珠暴洗，再出来的时候变成了一个锅盖头全身干净的白肤华人……</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fknqydrj30hi09uwi7.jpg?resize=440%2C247" alt="005I7KWsgw1f49fknqydrj30hi09uwi7" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fknqydrj30hi09uwi7.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fknqydrj30hi09uwi7.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fku16exj30hi09tn1k.jpg?resize=440%2C247" alt="005I7KWsgw1f49fku16exj30hi09tn1k" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fku16exj30hi09tn1k.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fku16exj30hi09tn1k.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91-2/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p>墙内视频<a href="http://weibo.com/p/230444c3e3b50db29f5bc4c7e145a0b540b7fa" target="_blank">地址</a></p>
+<p>@YY_CodingBear：我的天啊 中国的marketing people都没有一点对种族认识的教育吗？</p>
+<p>@凌都凯璇：这个还好吧……没感觉到歧视啊</p>
+<p>@预感33：一天到晚管别人有没有受歧视，华人、黄种人受了歧视你们管不管？ 一个广告创意而已，至于吗？</p>
+<p>@嘘_不够字数：看不出哪里歧视的，恭喜你，你就是种族歧视者。</p>
+<p>@代码君七号：你国人就是过得太随便了，觉得什么都无所谓。</p>
+<p>@他确实在笑：种族歧视这个事情，国内影响太微不足道了，所以连官媒也敢写“没钱只能娶个越南媳妇”这种段子。大概也只能自己跑出去了才有机会切身体会到。</p>
+<p>@帅杀：广告商国内混太久了吧？拿出去分分钟告你到破产啊。</p>
+<p>@C_thun：你国为啥是种族歧视最强的地方呢，因为一直就是三六九等这么奴化过来的。</p>
+<p>@蝌蚪往人: 哈哈哈哈。输出价值观了！</p>
+<p>@纳兰性急：真正做到了politically incorrect in every possible way</p>
+<p>youtube视频<a href="https://www.youtube.com/watch?v=Xq-I0JRhvt4" target="_blank">传送门</a>  目前该视频评论中已经有了相当多的网友争议</p>
+<p>来自shanghaiist的<a href="http://shanghaiist.com/2016/05/26/racist_laundry_detergent_ad.php" target="_blank">报道</a>称，这个广告实际上是一个抄袭作品，几乎完全翻制了一个约9年前的意大利洗衣粉广告，原广告也存在有种族主义色彩，只是原广告认为“有色更好”。</p>
+<p><strong>相关阅读：</strong></p>
+<p><a title="【麻辣总局】九秒见识下山东台广告的魅力" href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B9%9D%E7%A7%92%E8%A7%81%E8%AF%86%E4%B8%8B%E5%B1%B1%E4%B8%9C%E5%8F%B0%E5%B9%BF%E5%91%8A%E7%9A%84%E9%AD%85%E5%8A%9B/">【麻辣总局】九秒见识下山东台广告的魅力</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%8F%E6%AF%94/?category=18271" rel="tag">俏比</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%BA%BA/?category=18271" rel="tag">华人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%91%8A/?category=18271" rel="tag">广告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">种族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E4%BA%BA/?category=18271" rel="tag">黑人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9D%A8%E5%BD%BC%E5%BE%97%EF%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%9D%83%E5%8A%9B%E6%B8%85%E5%8D%95/" target="cdt-mirror">东网｜杨彼得：总书记的权力清单</a>
 </h2>
 <p><div><img src="http://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt.jpg?w=440" alt="" width="440" height="303"><p><span>网络图片</span></p></div>
@@ -846,21 +874,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E4%BA%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5%EF%BC%9A%E7%94%A8%E4%BA%92%E8%81%94%E7%BD%91%E6%80%9D%E7%BB%B4%E6%8A%84%E5%85%9A%E7%AB%A0/" target="cdt-mirror">【CDTV】三表龙门阵：用互联网思维抄党章</a>
-</h2>
-<p><p>来源：微信ID sanbiao1984</p>
-<p><a href="https://www.youtube.com/v/hqSYX8trBvY?version=3">https://www.youtube.com/v/hqSYX8trBvY?version=3</a></p>
-<p>以「压根不像」为最大看点的三表龙门阵又来了。今天「洞房抄党章」的事火了，大家伙冷嘲热讽的特别不严肃。我虽然不是党员，但我是第一个把「党章」写进艺 名（三表）里的艺人，可谓前无古人，后也难有来者。 我觉得如果把「抄党章」这事和「互联网思维」结合起来，可能就不会有嘲笑声了。为什么呢？具体请看顶部的视频吧，今天的歌是翻唱陈奕迅的《红玫瑰》——得 不到永远是骚货，被偏爱的都狂得不行。 也请大家在留言区，说出你的好创意。</p>
-<p><a title="三表龙门阵：用互联网思维抄党章" href="http://www.youtube.com/watch?v=hqSYX8trBvY" target="_blank">三表龙门阵：用互联网思维抄党章</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-parody&sz=68E7&t=2&s=OL7XLE5563C7NUSLFBYFHLQLXHARRD3KYXMVXVYBEDEZ3PWNPDSA&i=CTWFCDHR7HRPA7MGGQIBISTXMDM6KAR5V&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5%EF%BC%9A%E7%94%A8%E4%BA%92%E8%81%94%E7%BD%91%E6%80%9D%E7%BB%B4%E6%8A%84%E5%85%9A%E7%AB%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E8%A1%A8%E9%BE%99%E9%97%A8%E9%98%B5/?category=18271" rel="tag">三表龙门阵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">抄党章</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -872,7 +885,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -882,5 +895,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

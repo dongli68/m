@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%AC%BC%E7%95%9C%E6%96%B0%E7%B4%A0%E6%9D%90%E4%B9%9F%E8%BF%87%E4%B8%8D%E4%BA%86%E5%AE%A1%E6%A0%B8/" target="cdt-mirror">【立此存照】爱国鬼畜新素材也过不了审核</a>
+</h2>
+<p><p>观察者网近日对蔡英文“卡壳”一事揶揄的报道迅速走红，但该网对她的嘲讽很显然是<strong>完全建立在误解（或故意扭曲）视频对话内容的基础上</strong>的。（详见：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/" target="_blank">蔡英文在会谈中说了“我说中文有困难”吗？</a>）</p>
+<p>观察者网的一名编辑甚至将蔡英文“卡壳”视频内容<a href="http://www.guancha.cn/local/2016_05_25_361690.shtml" target="_blank">做成了</a>“鬼畜新素材”：</p>
+<blockquote><p>不好意思，一下子没管住自己的手。（<a href="http://yuntv.letv.com/bcloud.html?uu=58238181e9&vu=7dd54ef295" target="_blank">视频地址</a>）</p></blockquote>
+<p>然而面对网民的热情支持，<strong>该网编辑似乎有些力不从心</strong>：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BC%96%E8%BE%91%E5%9B%9E%E5%A4%8D2.png" rel="attachment wp-att-440726"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BC%96%E8%BE%91%E5%9B%9E%E5%A4%8D2.png?resize=550%2C227" alt="编辑回复2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复2.png?resize=300%2C124 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复2.png?resize=768%2C316 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复2.png?resize=1024%2C422 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复2.png?w=1796 1796w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p>其实王毅很多，只是不敢动手～</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BC%96%E8%BE%91%E5%9B%9E%E5%A4%8D1.png" rel="attachment wp-att-440727"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BC%96%E8%BE%91%E5%9B%9E%E5%A4%8D1.png?resize=550%2C147" alt="编辑回复1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复1.png?resize=300%2C80 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复1.png?resize=768%2C205 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复1.png?resize=1024%2C273 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复1.png?w=1786 1786w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p>审核过不了</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BC%96%E8%BE%91%E5%9B%9E%E5%A4%8D3.png" rel="attachment wp-att-440706"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%BC%96%E8%BE%91%E5%9B%9E%E5%A4%8D3.png?resize=550%2C149" alt="编辑回复3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复3.png?resize=300%2C81 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复3.png?resize=768%2C209 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复3.png?resize=1024%2C278 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/编辑回复3.png?w=1790 1790w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p>传了，A站审核挂了，B站一直审核中</p></blockquote>
+<p><strong>“能不能先拿市长县长什么的先试试”？</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%AC%BC%E7%95%9C%E6%96%B0%E7%B4%A0%E6%9D%90%E4%B9%9F%E8%BF%87%E4%B8%8D%E4%BA%86%E5%AE%A1%E6%A0%B8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%94%BF%E6%B2%BB%E6%96%B0%E9%97%BB%E7%9A%84%E4%BA%A7%E4%B8%9A%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%9A%E8%87%AA%E7%94%B1%E7%9A%84%E5%AA%92%E4%BD%93%E5%A7%93%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">敦伦政经｜政治新闻的产业经济学：自由的媒体“姓什么”？</a>
+</h2>
+<p><p><strong>来自微信公号：敦伦政经（ID: DonlonSE）</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-6.jpg" rel="attachment wp-att-440086"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-6.jpg?resize=575%2C326" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-6.jpg?resize=300%2C170 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-6.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br>
+文/ 小墙</p>
+<p>2000年5月11日，弗拉基米尔·普京宣誓就任俄罗斯总统不到一周，克格勃的实际继承者联邦安全局(FSB)带领税务警察闯入了独立媒体NTV在莫斯科的总部，进行了长达十几小时的搜查。六月，NTV母公司Media-Most创始人古辛斯基因“盗用资金”的罪名遭到逮捕。考虑到NTV的独立属性和大选期间对普京的大胆批评，舆论认为此举背后必有政治动机。选前刚刚卸任联邦国家安全局局长的普京对此矢口否认(Remington 2006)，却在私下召集NTV记者谈话，透露出他对这一系列行动了如指掌。</p>
+<p>90年代后期，俄国媒体行业正在逐渐走出苏联时代噤声的阴影。根据经济学家Aslund (2007)回忆，那时的莫斯科新闻市场是媒体竞争的典范——尽管媒体各自怀有或多或少的偏见，但多样性使它们得以互相制衡。然而，融资不足、渠道局限和苏联媒体管制的路径依赖让莫斯科之外的新闻市场仍然处于政府的控制下。这时，NTV的扩张让更多地区民众听到了不同的声音。NTV批评第二次车臣战争，并在2000年的大选中公开支持反对党”Fatherland”和“All Russia”。Enikolopovet al. (2011)利用地区间的差异估算，NTV让普京领导的统一党损失了四分之一的选票，同时让反对党的得票增加了1.6倍。</p>
+<p><strong>普京的野心并不止步于秋后算账。</strong>2000年7月，古辛斯基再次遭到逮捕，并在绕过法律程序的非正式交易中被要求把NTV 30%的股份卖给油气巨头Gazprom抵债换取人身自由。古辛斯基接受交易后收拾细软跑到了国外，声称自己当时面临刑事诉讼的威胁。此时，普京已经罢免了Gazprom董事会主席，并换上了自己的心腹梅德韦杰夫。</p>
+<p>一月，Gazprom购得了NTV 46%的股权，Media-Most手中19%的股份的投票权则被法院冻结。这样，Gazprom实际上获得了NTV控制权。在随后的日子里，NTV原有的的记者和管理人员一个接一个地被开除。<strong>以普京为首的前克格勃要员新寡头迎来了黎明，手握输油管的Gazprom成了他们的最得意的经济肌肉，篡夺NTV则宣示着这一王朝治下的电视媒体也必须姓普。</strong></p>
+<p>此后，普京以破产、私有化不当、执照过期等“不涉政治”的名义扳倒了一家又一家独立媒体，一步步使得刚刚萌芽的媒体业趋于臣服(Aslund 2007)。</p>
+<p>和其他试图把媒体关进牢笼的野心家一样，普京脑中大概有这样一条逻辑链。首先，媒体报道的密度和倾向性对受众的政治立场、政治知识有重要的影响；其次，这些立场和知识对有不可忽视的政治和政策后果；最后，媒体环境是否自由一定程度上决定了其报道密度和倾向性——因此，一些政治目标可以通过控制和垄断媒体来达成。如此看来，普京可能下了一步好棋。我们有理由相信，这一推理的三个前提都是正确的。近几十年的经验研究提供了一条清晰的证据链。</p>
+<h3><strong>媒体报道的政治效应</strong></h3>
+<p> <br><strong>频繁的媒体跟踪和曝光让公民关心、了解政治。</strong>Snyder和Strömberg(2010)的经典研究对此提供了最全面的证据。这一领域的研究往往面临着内生性难题。选民的政治意识也会影响到他们对政治信息的需求，因此，直接观察均衡中的政治报道密度与政治意识的相关性很难解答我们所感兴趣的因果关系。Snyder和Strömberg巧妙地利用了地方报纸市场分割这一供给面因素。美国各地报纸市场的分割受各种经济、地理因素的影响，与众议院选区的“叠合(congruence)”程度不尽相同。在叠合度低的地区，选民不得不与其他选区的居民订阅同一份地方报纸。这样，接收到关于自己选区众议员的信息量也会相应地打折扣。结果显示，<strong>高叠合度选区更少有选民记不起本地议员的名字，对当届国会的组成更了解，在议员选举中投票也更加积极</strong>。</p>
+<p>Snyder和Strömberg还发现，<strong>美国的国会政治确实把这种关注度转化成了更强的政治问责</strong>。在媒体监督下，高叠合度选区的众议员更频繁地在听证会上出席作证，投票时党派性更低。同时，这些议员也更倾向于参与拨款(Appropriations)、税收(Ways and Means)等涉及收支分配的国会委员会，并成功地给自己来自的选区带来了更多的联邦开支。这也核实了Strömberg (2004) 早年对大萧条期间收音机电台政策影响的研究——该研究利用地形传导性和植被覆盖产生的外生电台信号差异，发现收音机覆盖是获得新政开支的重要决定因素——如果一个郡的收音机覆盖从全国最低水平迈入全国最高行列，它获得新政开支会增加六成。</p>
+<p><strong>除了报道密度之外，报道的倾向性也有深刻的政治影响。人对事件的认知和判断部分地取决于事件被呈现给他们的方式</strong>(Kahneman & Tversky 1981)。媒体可以策略性地利用受众的这一特点来改变他们的立场。Nelson, Clawson 和 Oxley (1997)核实了政治信息的框架效应(Framing Effect)在实验室环境中的存在。作者把实验对象随机分为两组，分别向他们提供了一些关于美国3K党集会的影像资料。两组信息的差别在于，一组所观看的新闻视频中该示威活动被描述为涉及言论与集会自由的问题（包括抗议者举着“种族主义者没有言论自由”标牌等镜头），另一组则更侧重于强调3K党寻衅滋事、破坏公共秩序（比如受访者在镜头前表达对暴力的担忧）。实验结果显示，在观看视频之后，第一组受访对象明显对3K党集表达出了相对较多的容忍。这与Kahneman和Tversky对框架效应的经典研究结果相一致，并进一步说明了该效应在政治信息传播的背景下也存在。</p>
+<p>既然如此，我们也容易理解，为什么具有一定报道倾向的媒体可以说服或动员选民参与特定政治行动，从而产生重要的政治后果。在前文中我们已经看到，自由派的NTV在俄国2000年大选中助了反对党一臂之力（Enikolopovet al. 2011）。在我们对族群冲突的讨论里（见敦伦政经公共号文章“族群与宗教冲突的政治经济学：三个国家的故事”），我们曾经见过更令人发指的例子——在卢旺达大屠杀中，官方运营的RTLM电台起到了动员民间武装参与杀戮图西人的作用(Yanagizawa-Drott 2014)。</p>
+<p>从这些例子中不难看出，媒体虽然通常不是政府部门，却通过影响民意、协调政治活动掌握着可观的权力，难怪媒体在美国被称作“第四权”。权力的存在总是伴随着担忧：这样的影响力会不会以违背公共利益方式被媒体所有者所滥用？经验表明，<strong>自由的媒体市场和官方操纵下的媒体环境遵循不同的逻辑。</strong></p>
+<h3><strong>作为宣传工具的媒体：纳粹德国的电台</strong></h3>
+<p> <br><strong>当媒体成为政府手中的宣传工具，政府的宣传意志会成为偏向性的重要决定因素。</strong>希特勒和他的心腹戈培尔是政治宣传的高手。事实上，当代实证媒体研究很大程度上归功于法西斯政权的崛起——30年代，希特勒和墨索里尼立竿见影的政治宣传激发了学者们对媒体的兴趣(Strömberg<br>
+2015)。</p>
+<p>早在希特勒接过权杖之前，魏玛德国就实施了对政治新闻的有力控制(Jelavich 2005)。面对魏玛德国碎片化的政党格局，德意志广播业的先驱认为政治新闻应该做到不偏不倚。然而作为德国政治新闻的主要来源的报纸往往被各政党所控制。出于对报道平衡的考量，<strong>内政部长于1926年七月规定所有电台的政治新闻都必须来自由内政部控制多数股份的“无线服务”(Wireless Service，德文简写Dradag)提供</strong>。其监督成员则由七个主要政党的代表组成，从右翼的民族党到左翼的社民党都具有代表权。出于保护德国现行议会制民主的考量，威权与颠覆倾向强烈的纳粹党和共产党无缘于这一建制。</p>
+<p><strong>起初，Dradag控制下的广播新闻拥护民主、抵制纳粹的宣传口径起到了一定的作用。</strong>Adena 等(2015)发现，<strong>在1930年到1932年的选举中，电台覆盖减缓了纳粹支持率的增长。</strong>一个选区的电台订阅量增加8.2%（相当于样本中的一个标准差），盖选区内纳粹党得票增长会减缓1.8个百分点。根据作者估算，如果没有电台宣传，纳粹党在1930年选举全国范围内的得票会达到22.3%，而无线电波把实际的票率控制在了18.2%。</p>
+<p>然而众所周知，这些努力没能阻止纳粹党的崛起。<strong>1933年一月，希特勒被任命为德国总理并重新组阁，这套广播审查系统也顺理成章地被纳粹收入囊中。</strong>新内阁宣传部长戈培尔在日记中喜不自胜地写道：“现在这场战斗容易多了。政府的一切资源都等着我们动员。电台和出版业都在我们的手中，我们要炮制出大师级的宣传。”(Shirer 1960) <strong>随后，Dradag控制下的电台的政治导向转了180度的大弯。</strong>在三月举行的议会选举前，纳粹党的领导层获得了大量的正面曝光，而其他政党的播送时间则大幅缩水。Adena 等(2015)发现，在这短短一两个月的时间里，新的宣传班子就达成了显著的政治绩效——与前些年完全相反，<strong>在1933年三月的选举中，电台覆盖越强的选区纳粹党员和得票增长势头越猛</strong>。最终，纳粹党获得了44%的选票，与得票8%的德国民族大众党组成了多数联盟。模型模拟显示，<strong>假如电台在希特勒就职之后被切断，纳粹党的得票会减少到41%，使其联盟无法控制多数席位。</strong></p>
+<p>纳粹政权巩固后，电台继续起着传递当局意志的作用。无线电波载着反犹主义的毒液渗入德国的大街小巷。根据Adena等人的研究，第三帝国建立后，收音机信号强的地区成了相对的反犹重灾区，针对犹太人的暴力袭击显著较多。到了30年代末40年代初，收音机信号强的地区遣送了更多的犹太人，也发表了更多反犹主义公开信。</p>
+<h3><strong>作为市场主体的媒体：美国的传媒业</strong></h3>
+<p> <br><strong>在私营为主的自由媒体市场中，利润和竞争对“第四权”形成了相对有效的制衡。媒体股东固然有理由鼓吹自己偏爱的观点，也需要考虑到读者的立场和判断才能获取利润、避免淘汰。</strong>Gentzkow和Shapiro (2010)统计分析了美国地方报纸倾向性的决定因素。结果表明新闻媒体的盈利动机高效地制约了媒体所有者兜售自己政治主张的能力。作者首先用“党派性语言”的频率量化了媒体的倾向性。在国会辩论中，不同党派的议员经常刻意使用不同的语言。例如，共和党议员倾向于把他们所反对的遗产税称为“死亡税(death tax)”，使该税项显得不近人情；类似地，民主党喜欢用“未登记移民(undocumented immigrants)”称呼非法移民，淡化其与法律冲突的现状。这些倾向也反映在媒体报道上，如保守派的《华盛顿时报》使用“死亡税”这一说法的相对频率大大高于自由派的《华盛顿邮报》。作者设计算法，通过分析两党议员的修辞差异选取了国会发言记录中最具党派性的1000个词语，进而用这些词语的词频度量地方报纸的倾向性。</p>
+<p>Gentzkow和Shapiro进一步用地区差异定量分析了地方报纸倾向性的供给和需求因素。<strong>他们发现，报纸倾向性更多是报纸迎合当地选民整体政治立场的结果。</strong>从需求上看，在一家报纸的地方市场中，与其政治立场越相近的社区发售量越大。相应地，报纸对倾向性的供应也趋于迎合其本地市场中读者的政治立场。这一供给面关联的因果性经过以宗教热忱作为工具变量的检验——这确保我们观察到的相关并不反映媒体的倾向说服乃至洗脑了读者，而是读者的立场牵引媒体的倾向。</p>
+<p>该研究还计算了全国地方性报纸的平均倾向性，得到的实际数值与“每家报纸以迎合读者的方式最大化利润”这一假设下计算出来的理论倾向性高度吻合。这说明<strong>美国地方报纸所有者整体上受到读者需求制约，不能系统性、结构性地操纵舆论</strong>。在微观层面，<strong>媒体的所有者对其倾向几乎毫无影响</strong>。一旦控制了读者和地理的因素，<strong>相同集团控制的两家媒体立场并不比随机选取的两家更相近。此外，没有证据表明媒体的倾向性受到当局压力影响</strong>——相反，控制了需求面因素后，媒体倾向性平均而言会偏向在任州长党派的反面。</p>
+<p><strong>在百家争鸣的全国性媒体市场，声誉与竞争则起到了规范媒体报道的作用。</strong>DellaVigna和Hermle (2014) 提供了相关的证据。今天，美国的电影制片公司和新闻媒体多由大型传媒集团所有。默多克新闻集团同时控制着福克斯电视台、《华尔街日报》和制片企业21世纪福克斯；而CNN、《时代周刊》和华纳兄弟则都隶属于时代华纳集团。假如媒体是资本家影响读者的传声筒，那么传媒集团有动机操纵旗下的的新闻媒体，鼓吹同集团的制作的电影，从而获取利润。作者基于已有文献对媒体“说服效应”的测算(DellaVigna & Gentzkow 2010; Reinstein & Snyder 2005)保守估计，<strong>假如《时代周刊》给一部华纳兄弟旗下的电影多打一星，时代华纳集团可以揽入30万美元额外票房收入。</strong>DellaVigna和Hermle用双重分差策略分析了默多克集团和时代华纳旗下媒体的电影评分数据。作者发现<strong>媒体给同一集团的电影打分并不相对慷慨，给竞争对手的打分也并不相对严苛。声誉是竞争性传媒机构的重要资产，它有效地遏制了媒体所有者出于自利的偏袒。</strong></p>
+<p>市场化传媒的特点，在德国电台的案例参照下最为清晰。在政权更替之际，德国电台成了联邦政治的风向下的三姓家奴。<strong>经过被审查和中央化指导的驯化后，媒体无力抵抗自上而下的操纵和摆布，以至于沦为政治宣传机器。相反，在市场导向的美国媒体业，利润动机和行业竞争有效钳制了摆布媒体的可能。我们已经看到，市场化的媒体既不姓赵，也不姓钱：从当局压力到股东的政治倾向、商业利益都对它们的报道立场影响甚微。</strong>对于普京总统这类追求舆论一律和言论控制的强人而言，哪种体制更合其胃口自是不言而喻。</p>
+<p>↘长按二维码，订阅<strong>敦伦政经</strong><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%95%A6%E4%BC%A6%E6%94%BF%E7%BB%8F.jpg" rel="attachment wp-att-440095"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%95%A6%E4%BC%A6%E6%94%BF%E7%BB%8F.jpg?resize=250%2C250" alt="敦伦政经" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/敦伦政经.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/敦伦政经.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/敦伦政经.jpg?resize=50%2C50 50w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/敦伦政经.jpg?w=258 258w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a></p>
+<p><strong>参考文献</strong></p>
+<ul><li>Adena, M., Enikolopov, R., Petrova, M., Santarosa, V., & Zhuravskaya, E. (2015). Radio and the Rise of The Nazis in Prewar Germany. The Quarterly Journal of Economics, 130(4), 1885-1939.</li>
+<li>Aslund, A. (2007). Russia’s Capitalist Revolution: Why Market Reform Succeeded and Democracy Failed. Peterson Institute.</li>
+<li>DellaVigna, S., & Hermle, J. (2014). Does Conflict of Interest Lead to Biased Coverage? Evidence from Movie Reviews (No. w20661). National Bureau of Economic Research.</li>
+<li>DellaVigna, S., & Gentzkow, M. (2010). Persuasion: Empirical Evidence. Annual Review of Economics, 2(1), 643-669.</li>
+<li>Enikolopov, R., Petrova, M., & Zhuravskaya, E. (2011). Media and Political Persuasion: Evidence from Russia. The American Economic Review, 101(7), 3253-3285.</li>
+<li>Gentzkow, M., & Shapiro, J. M. (2010). What drives media slant? Evidence from US daily newspapers. Econometrica, 78(1), 35-71.</li>
+<li>Jelavich, P. (2005). Berlin Alexanderplatz: Radio, Film, and the Death of Weimar Culture. University of California Press.</li>
+<li>Nelson, T. E., Clawson, R. A., & Oxley, Z. M. (1997). Media framing of a civil liberties conflict and its effect on tolerance. American Political Science Review, 91(03), 567-583.</li>
+<li>Reinstein, D., & Snyder, C. M. (2005). The Influence of Expert Reviews on Consumer Demand For Experience Goods: A Case Study of Movie Critics. Journal of Industrial Economics, 53(1), 27-51.</li>
+<li>Remington, T. F. (2015). Politics in Russia. Routledge.</li>
+<li>Shirer, W. L. (1960). The Rise and Fall of the Third Reich. Simon and Schuster.</li>
+<li>Snyder Jr, J. M., & Strömberg, D. (2010). Press Coverage and Political Accountability. Journal of Political Economy, 118(2), 355-408.</li>
+<li>Strömberg, D. (2004). Radio’s Impact on Public Spending. The Quarterly Journal of Economics, 199(1), 189-221.</li>
+<li>Strömberg, D. (2015). Media and Politics. Annual Review of Economics, 7(1),173-205.</li>
+<li>Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458.</li>
+<li>Yanagizawa-Drott, D. (2014). Propaganda and conflict: Evidence from the Rwandan genocide. The Quarterly Journal of Economics, 129(4), 1947-1994.</li>
+</ul><hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%94%BF%E6%B2%BB%E6%96%B0%E9%97%BB%E7%9A%84%E4%BA%A7%E4%B8%9A%E7%BB%8F%E6%B5%8E%E5%AD%A6%EF%BC%9A%E8%87%AA%E7%94%B1%E7%9A%84%E5%AA%92%E4%BD%93%E5%A7%93%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E7%8E%8B%E6%96%87%E8%89%AF%E4%B8%8E%E4%B8%B9%E4%B8%9C%E7%9A%84%E6%B7%B1%E6%B0%B4/" target="cdt-mirror">美国之音｜中国人大代表王文良与丹东的深水</a>
 </h2>
 <p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0981D8BB-ECEA-4847-BE28-555D2BFBEF2E_w640_r1_s_cx0_cy21_cw0.png" rel="attachment wp-att-439576"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0981D8BB-ECEA-4847-BE28-555D2BFBEF2E_w640_r1_s_cx0_cy21_cw0.png?resize=585%2C329" alt="0981D8BB-ECEA-4847-BE28-555D2BFBEF2E_w640_r1_s_cx0_cy21_cw0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0981D8BB-ECEA-4847-BE28-555D2BFBEF2E_w640_r1_s_cx0_cy21_cw0.png?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/0981D8BB-ECEA-4847-BE28-555D2BFBEF2E_w640_r1_s_cx0_cy21_cw0.png?w=640 640w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>美国维吉尼亚州《里士满时代快报》发出询问：“给（州长）麦考利夫捐款的中国商人王文良是个什么人”？（网站截图）</span></p></div>
@@ -797,76 +874,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%AE%BA%E4%BA%8C%E5%A9%9A%E5%AF%B9%E6%9F%90%E4%BA%BA%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%BD%B1%E5%93%8D/" target="cdt-mirror">【网络民议】论二婚对某人政治风格的影响</a>
-</h2>
-<p><p><strong><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/" target="_blank">新华网 | 单身导致蔡英文政治风格偏向极端化</a></strong></p>
-<blockquote><p>蔡英文的性格夹杂着野性与谨慎、低调与强势、积极自信与缺少安全感等复杂元素。其爱好广泛，打网球、看书、喝红酒、养狗、养猫；酷爱飙车，一个人可以一口气开14小时的车，曾被男同事谓之“流寇”。未婚，感情经历较单纯。在美国康奈尔大学就读期间曾交往一男友，男友意外丧生。</p>
-<p>从人性的角度分析，作为单身女政客，她没有爱的情感拖累，没有“家”的掣肘，没有子女的牵挂，在政治上的行事风格与行事策略，往往偏向情感化、个性化、极端化发展，政治权术上则在战略方向上考量少，战术细节上考量多，短期目标所示到极致，长期目标则较少顾及。</p></blockquote>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%9C%B4%E6%A7%BF%E6%83%A0-copy.jpg" rel="attachment wp-att-438864"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%9C%B4%E6%A7%BF%E6%83%A0-copy.jpg?resize=525%2C425" alt="朝鲜官媒曾在2014年发表评论文章，就朴槿惠未婚无孩的事实对其进行人身攻击；凤凰网页面截图" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/朴槿惠-copy.jpg?resize=300%2C243 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/朴槿惠-copy.jpg?resize=768%2C621 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/朴槿惠-copy.jpg?resize=1024%2C828 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/朴槿惠-copy.jpg?w=2156 2156w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>朝鲜官媒曾在2014年发表评论文章，就朴槿惠未婚无孩的事实对其进行人身攻击；凤凰网<span><a href="http://news.ifeng.com/world/detail_2014_04/03/35418940_0.shtml" target="_blank">页面</a></span>截图</span></p></div>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@侯虹斌:还是中国大陆强，都是一群“与多名女性发生不正当关系”的官员在管理，最不极端。</p>
-<p><a href="http://weibo.com/hayaterin" target="_blank">@N-B-Z-B</a><i></i>：<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">二婚的就会<a href="http://chinadigitaltimes.net/chinese/tag/%E6%8A%84%E5%85%9A%E7%AB%A0/" target="_blank">操党章</a></p>
-<p>@闵行yang ： 我感觉蔡要起码包个二奶小三什么的，否则太不合群了，没共同语言，大家怎么谈两岸和平统一的事？</p>
-<p>@叮脖蚊 ： 真low。人家要是结婚了是不是会说”家庭影响了她做决策，导致政治上优柔寡断blabla”</p>
-<p><strong>@袁从嘉：哈哈哈，请问离异再婚如何影响外交？</strong></p>
-<p>@Joeson_Chen：朴槿惠普大帝躺枪。。。</p>
-<p><strong>@一生俯首拜阳明II：长安街一号那具死腊肉有四个老婆，怎么也那么极端。</strong></p>
-<p>@PatrickWong-：要是人家结婚有一子，这个撰稿者是不是准备说「无二胎导致政治风格偏向极端化」？</p>
-<p><strong>@YuriWangLoveSaintyAndSchalke04：按照作者的逻辑，是不是中国大陆民主法制越来越差和刁某死了爹变孤儿有着直接必然的联系？</strong></p>
-<p>@vitsippe：小编你要知道大清都灭亡了！！！看这样的题目我还以为是朝中社？虽然不太喜欢蔡英文 但是你起码写一些有力的抨击言论好吗？论女性政治家的单身危害？卧槽 我真是不明白了单身和政治领导有关？按照你的逻辑送个大陆美男给蔡英文是不是可以一统台湾？</p>
-<p><a href="http://weibo.com/1835584421" target="_blank">@小鱼少女</a>：他们在对女性领导人评头论足的时候，首先关注的是她作为女性的身份，选择了人身攻击这样的政治错误的方式，用“没结婚”“单身”这种仅关乎个人选择（并且是无人能干涉的）来来抹黑她的形象，狭隘市井之气溢于言表。作者其心明昭，看！这是个没结婚的女人，能有什么作为<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2259102630" target="_blank">@Zaccccccccccc</a>：朝鲜也是这样攻击朴槿惠的。。。。<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><strong>@驻家火头军-余坚：那么某人结婚两次真的最适合执政了呗</strong></p>
-<p>@在加拿大看风云：对，妻妾成群的思维比较客观、全面、不极端。</p>
-<p><a href="http://weibo.com/n/LifeTime?from=feed&loc=at" target="_blank">@LifeTime</a>: 不知新华社怎么看单身的普京。<img title="[瞧瞧]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8b/lxhqiaoqiao_org.gif" alt="[瞧瞧]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1871975663" target="_blank">@二菇梁</a><i title="微博达人"></i>：我特么还以为是台媒黑大陆了，结果是我看错标题。 <img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2182141320" target="_blank">@不存在的马林</a>：打算结婚生小孩的女性职场遭排斥 打算独善其身的女性现在又被说因为没有家庭导致职场行为偏激<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<blockquote><p><a href="http://weibo.com/2187752727" target="_blank">@榕粉团</a>：这篇也是新华社系统发的吧？怎么口径差距这么大<img title="[来]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/come_org.gif" alt="[来]" data-recalc-dims="1"></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/82667517jw1f47dglz96cj20im0bjdi4.jpg" rel="attachment wp-att-438858"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/82667517jw1f47dglz96cj20im0bjdi4.jpg?resize=440%2C273" alt="82667517jw1f47dglz96cj20im0bjdi4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/82667517jw1f47dglz96cj20im0bjdi4.jpg?resize=300%2C186 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/82667517jw1f47dglz96cj20im0bjdi4.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p></blockquote>
-<p>@被删文弄得很心烦：虽然我因为她的台独立场很讨厌蔡英文，但是新华网拿别人单身说事儿是傻逼，政治本来就是血腥肮脏不择手段的事情，因为单身所以政客容易走极端，这观点当众多不单身却照样冷血极端的政客是死的？</p>
-<p>@清风No无痕：不论她做过什么，这样说可不地道，韩国总统朴槿惠也无丈无父无儿无女，你怎么不这样说她？</p>
-<p><strong>@孤独跑者94cpa：和朝鲜攻击朴槿惠的文章一脉相承</strong></p>
-<p>@高龄死宅少女 ： 新华社这样宣扬直男癌三观我也是醉了…下不下作</p>
-<p><a href="http://weibo.com/xiangyunyi" target="_blank">@被驯服的向</a>：虽然很讨厌她但是一个媒体这么光明正大的直男癌真的好吗<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/cotb" target="_blank">@cotB</a>：骂到没地方骂了，就拿单身说事，想骂人家内分泌失调，女性更年期直说就好啦<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><strong>@未来中流浪： @曾经我国某位女副总理，也是一生未婚。新华社在发布这篇稿子的时候，是否想过这点？</strong></p>
-<p>@一只不求上进的狗：这TM的就是新华网？和小报小刊有什么区别。《智商导致新华网写作套路偏向脑残化》</p>
-<p>@铁拳掌柜：充分证明和朝鲜称兄道弟的国家，也就只能是泼妇骂街的水平了！！！</p>
-<p>@wangmeimei66993：某个组织的成员倒是不单身，二奶三奶成群，大房偏房争锋，行事如之几何？</p>
-<p>@Lily-况莉莉：人家名牌大学的法学博士，不比你们那初中没毕业的文盲强？</p>
-<p>@香港智汇达JEEDA：单身也被拿来说事，果然，看不顺眼的哪哪都是错</p>
-<p>@卜卜星小坏：人生攻击都上了，是水平不够，还是穷途末路</p>
-<p><a href="http://weibo.com/1840148872" target="_blank">@不准吐槽我名字-</a>：<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">事情开始向奇怪的方向发展</p>
-<p><a href="http://weibo.com/1448123454" target="_blank">@这社会怎么了</a>：全国选妃吧，我没意见。<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5012824610" target="_blank">@草根锋语</a>：这个猪队友+高级黑我给250分！<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p>@是枝裕和的碎碎念：感觉我朝宣传部门混入了一些蠢货，没见干点实事，给人感觉他们是蠢而不自知…</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%AE%BA%E4%BA%8C%E5%A9%9A%E5%AF%B9%E6%9F%90%E4%BA%BA%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%BD%B1%E5%93%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E8%BA%AB%E6%94%BB%E5%87%BB/?category=18271" rel="tag">人身攻击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AF%9B%E5%B7%A6%E5%9C%A8%E6%B8%AF%E6%B4%BB%E8%B7%83-%E6%B8%AF%E4%BA%BA%E5%BF%A7%E8%A2%AB%E6%9F%93%E7%BA%A2/" target="cdt-mirror">美国之音 | 毛左在港活跃 港人忧被染红</a>
-</h2>
-<p><p>作者：谭嘉琪</p>
-<p>香港—在中国被斥为“十年浩劫”的文革发动50周年之际，香港左派3年前成立的“毛泽东思想学会”在香港九龙城设立会址，并举办游行公开宣扬毛泽东的思想，令许多港人担心“二次文革”的出现。</p>
-<p> 在香港九龙城衙前塱道与衙前围道交界，街坊邻里都察觉到几块写著“中国共产党万岁”、“只有社会主义能够救中国”等字眼的鲜红色牌匾。不少路过的人都带著疑惑的眼光抬头看个究竟。</p>
-<p> 九龙城街坊林先生说：“我在九龙城住了40年左右吧，从来没有像现在那样感觉到有政治入侵的感觉，可能现在香港是在太乱了，可能关于共产的意识开始侵入民间。”</p>
-<p>“香港毛泽东思想学会”4月底完成了他们新会址的外墙装修后，举办了一连串活动，包括邀请中国多个省份的毛粉来港参与研讨会和聚餐，又高举红旗围绕九龙城举行街头游行，庆祝文革发动50周年。这是香港回归后首次出现公开悼念毛泽东和文化大革命的活动。</p>
-<p>毛粉的活跃让部分港人感到忧虑香港会被染红。香港时事评论员程翔表示，自从习近平上台后，内地已经出现“亚文革”的现象，意思是很多中国政府的做法跟文革当时的情况类似，如中央极权、搞个人崇拜等。而这些情况在某些程度上的恢复，引起大家担心文革会不会复辟。他认为，这个学会对香港的影响应该不会太大，但背后中国政府所推动的“亚文革”情况就会有影响。</p>
-<p> 香港时事评论员程翔表示：“显然香港的毛左是受国内的毛左重新活跃起来这个有关系的，所以可以直接把香港这个团体一直追踪到中国毛左的活跃。而中国毛左的活跃就跟习近平的‘两个30年不互相否定’这个定性有关。”</p>
-<p> 习近平上台后不到一年，2013年提出不能够以改革开放后的历史来否定前30年的历史。而程翔认为，这句话改变了中国共产党1981年有关建国以来若干历史问题决议的性质。</p>
-<p> 程翔认为，目前香港年轻人很厌恶和讨厌有关文革的东西，甚至想远离中国，因此毛左思想的抬头不会影响香港年轻人的思想。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%AF%9B%E5%B7%A6%E5%9C%A8%E6%B8%AF%E6%B4%BB%E8%B7%83-%E6%B8%AF%E4%BA%BA%E5%BF%A7%E8%A2%AB%E6%9F%93%E7%BA%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">中国香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6/?category=18271" rel="tag">毛左</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E5%B7%A6%E6%B4%BE/?category=18271" rel="tag">毛左派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -878,7 +885,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -888,5 +895,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

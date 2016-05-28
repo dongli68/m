@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%AF%E9%A3%8E%EF%BC%9A%E8%AE%A1%E7%94%9F%E5%B9%B2%E9%83%A8%E7%BB%B4%E6%9D%83%E5%80%BC%E4%B8%8D%E5%80%BC%E5%BE%97%E5%90%8C%E6%83%85%EF%BC%9F/" target="cdt-mirror">凯风：计生干部维权值不值得同情？</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg" rel="attachment wp-att-452886"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?resize=403%2C242" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?resize=300%2C180 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?resize=80%2C48 80w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?w=403 403w" sizes="(max-width: 403px) 100vw, 403px" data-recalc-dims="1"></a></p>
+<p><strong>作者微信公号：鸡蛋与高墙（ID: eggs-walls）</strong></p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%9C%E6%81%B6%E5%87%A0%E5%8D%81%E5%B9%B4-%E5%BA%94%E8%AF%A5%E7%BB%99%E4%BB%80%E4%B9%88%E8%BA%AB%E4%BB%BD/" target="_blank">【网络民议】计生有难 八方点赞</a></p></blockquote>
+<p>湖北多名计生官员拉横幅维权，肇因是事业编制取消，社会抚养费不再返还，导致身份陡失、待遇下降。计生干部不无悲催：我们成了弃子和路人。</p>
+<p><strong>说到底，这只是体制内部利益分赃不均的结果，显然不该由社会来埋单。</strong>且不说社会抚养费本身合法性就存疑，社会抚养费返还更是一切乱象的始作俑者，恢复社会抚养费返还既不现实也不合理。至于事业编制身份，在人口红利消耗殆尽、政策转向的关口，更不可能得到支持。</p>
+<p>计生官员认为自己曾作出“<strong>不可磨灭的贡献</strong>”，但所谓的贡献，只是相对于体制内部的绩效考核而言，于公民权利和国家利益，则有着全然不同的解读。不说人口大形势下强制计生已经显得不合时宜，即便是在二三十年前，其作用和意义也未得到社会普遍认可，反而在执行过程中的强制与暴力，更为人所知。</p>
+<p>面对这种诘问，计生官员不再强调“贡献”，反而开始自我辩护：“<strong>只是为了完成上级交代的任务</strong>”。这种辩解的言外之意，无非是作为命令的执行者，不该为体制的问题承担责任。但问题恰恰在于，<strong>作恶总是某一个人在作恶，而不是体制这个非人格的怪物在作恶。体制之恶，终究是经由个体之手来达成。</strong>这些“个体之手”在考核压力和利益诱惑面前，曾经无所不用其极——非法拘禁，强制堕胎，甚至扒房牵牛，这是任何说辞都无法得到辩护的。</p>
+<p><strong>没有人限制你的自由，你完全可以不去从事计生这一行业；即便贪恋稳定和油水，在执行时枪口同样可以抬高一厘米。</strong>在如今严峻的人口形势下，还在絮叨过往在“消灭出生人口”所做出的“不可磨灭的贡献”，真是不知今夕何夕，又置失独老人于何地？</p>
+<p>这些人可能从未想过有一天，会面临身份从强者向弱者的转换。以前，都以国策之名，枉顾公民的基本权利，如今当自己沦为“弃子”时，是否明白所有的强势不过是虚张声势，而所有的恶都必须有人来承担？</p>
+<p>德国哲学家阿伦特有本书《责任与判断》，剖析的就是集体责任下的个人责任问题。阿伦特认为，<strong>那些效力于体制的人，通常不是因为被迫和无奈，更多是主动的投送。无论是为铁饭碗所诱惑，还是为牵牛扒屋的权力欲所沉迷，个体在其中都不是被动的、无动于衷的，都不只是庞大机器上的一个螺丝钉。平时享受体制庇护的种种好处，关键时刻却又拿体制来为自己开脱，天底下哪有这么好的事情？</strong></p>
+<p>在中国，弱者本身就有天然的道德正义性，同情弱者也是最基本的公众情绪。但当计生干部从强者沦为弱者之后，非但得不到同情，反而遭遇倒扔臭鸡蛋的不堪，这难道不值得所有人深思吗？</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" rel="attachment wp-att-438293"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?resize=250%2C244" alt="鸡蛋与高墙二维码" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?resize=300%2C293 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?resize=768%2C749 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?w=818 818w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%AF%E9%A3%8E%EF%BC%9A%E8%AE%A1%E7%94%9F%E5%B9%B2%E9%83%A8%E7%BB%B4%E6%9D%83%E5%80%BC%E4%B8%8D%E5%80%BC%E5%BE%97%E5%90%8C%E6%83%85%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E4%BA%BA%E5%91%98/?category=18271" rel="tag">计生人员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E9%83%A8%E9%97%A8/?category=18271" rel="tag">计生部门</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%BA%B2%E7%BB%BF%E7%9A%84%E5%8F%B0%E6%B9%BE%E6%B0%91%E6%84%8F%E5%9F%BA%E9%87%91%E4%BC%9A%E5%85%AC%E5%B8%83%E4%BA%94%E6%88%90%E4%B8%80%E5%8F%B0%E6%B9%BE/" target="cdt-mirror">自由亚洲｜亲绿的台湾民意基金会公布:五成一台湾民众赞成独立</a>
 </h2>
 <p><p>在台湾的蔡英文政府上台后，由亲绿的台湾民意基金会公布的最新民调指出，超过五成一的民众赞成，未来台湾要独立。八成的人自认为自己是台湾人，这两项调查的数字，都创下新高纪录。有学者解读，若是两岸都靠民意来制订政策，这对两岸关系相当危险。</p>
@@ -785,40 +807,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/" target="cdt-mirror">蔡英文在会谈中说了“我说中文有困难”吗？（更正）</a>
-</h2>
-<p><p><strong>【更正】</strong>有微博用户提出在蔡英文“卡壳”时，贾朵德说的不是“知道”而是他自己的名字“Jadotte”。数字时代编辑重新回顾视频后，认同上述说法，特此更正。<span>修改内容由红字标出</span>。</p>
-<blockquote><p><a href="http://weibo.com/2470143765" target="_blank">@普里朊</a>：谢 po 主分析。补充下，第二处贾多德的说的是自己的名字“Jadotte”而不是“知道”，戴上耳机把音量调到极大，可以听到“t”的尾音。</p></blockquote>
-<p>____________________________</p>
-<p>台湾第一任女总统蔡英文近日接见了美国商务部助理部长贾朵德。经观察者网<a href="http://news.sina.com.cn/c/gat/2016-05-25/doc-ifxsktkr6068873.shtml" target="_blank">报道</a>后，会谈中蔡英文的一处“卡壳”迅速成为了中国网民热议的话题，其中多以讥讽为主。中国数字时代编辑找到了上述会面的完整视频：</p>
-<p><br><span>蔡英文会见美国商务部助理部长完整视频（</span>YouTube<a href="https://youtu.be/7Ul_Kimo_Ik" target="_blank">地址</a><span>；共15分钟）</span></p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%BE%E6%9C%B5%E5%BE%B7.jpg" rel="attachment wp-att-438910"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%BE%E6%9C%B5%E5%BE%B7.jpg?resize=500%2C265" alt="蔡英文贾朵德" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=300%2C159 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=768%2C406 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=1024%2C542 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?w=2850 2850w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>YouTube视频截图</span></p></div>
-<h3>第一个争议点：</h3>
-<p> <br>
-会面正式开始前，蔡英文对贾朵德说：<strong>Because the camera is here, I have to say things I want to say in Mandarin. I apologize for that.（因为摄像机在这儿，我需要用国语说我想要讲的内容。抱歉。）</strong></p>
-<p>贾朵德回应：I understand.（我理解。）</p>
-<p><strong>正常解读：</strong>谈话双方都知道蔡英文本可以用英语直接交流（参考：<a href="https://www.youtube.com/watch?v=PHJYjDXhCzE" target="_blank">蔡英文哈佛演讲问答环节 全程英语</a>），但因为现场有摄像机，且这些画面的<strong>主要收看者是台湾观众，所以需要讲中文</strong>，通过翻译进行对话<strong>。</strong></p>
-<p><strong>观察网版本：</strong></p>
-<blockquote><p>其实，两人刚刚落座时，蔡英文就用英文说了一句：“Before the camera here, I have to say…first I want to say in Mandarin.”（在镜头面前，我不得不先用中文讲话。）似乎在蔡英文看来，说中文是“不得已而为之”。</p></blockquote>
-<p><strong>必须指出的是，蔡英文并没有使用”Before the camera””say in Mandarin”这种中式英语。</strong></p>
-<h3>第二个争议点：</h3>
-<p> <br><strong>蔡英文</strong>：很高兴在我上任的这个时刻，看到美国的高层的访问团来台湾访问。那么我了解这是我们（此处卡壳）……贾……</p>
-<p><strong>贾朵德</strong>：<span><del datetime="2016-05-27T06:42:38+00:00">知道。</del><del datetime="2016-05-27T06:42:38+00:00"></del>Jadotte.</span></p>
-<p><strong>蔡英文</strong>：I have problem of…saying that thing…the Chinese language…I’m sorry.  我们非常感谢贾朵德助理部长把台湾列作这次行程里的一站。</p>
-<p><strong>正常理解：这里蔡英文明显是卡在“Marcus Jadotte”的中文名“贾朵德”上</strong>，<span><del><strong>所以贾朵德此时才会微笑说“知道”</strong>，以示理解。</del><strong>贾朵德意识到这点后主动说出了自己的名字</strong>“Jadotte”</span>。随后蔡英文用英语解释，<strong>自己卡壳是因为用中文读 Marcus Jadotte 的名字有点困难</strong>。</p>
-<p><strong>观察网版本：</strong></p>
-<blockquote><p>“很高兴在我上任的这个时刻，看到美国高级的访问团来台湾访问，我了解这是我们…呃…呃…呃…I have problem of saying Chinese language. I’m sorry. 呃…”蔡英文试图脱稿寒暄几句，不料讲话时突然“卡壳”，令现场尴尬不已，只得用英文自嘲“我说中文有困难”。</p>
-<p>坐在对面的美国人贾朵德忍不住微笑，用中文接了一句：“知道。”</p>
-<p>[…]最后，小编友情提醒，“say Chinese language”是错误用法，正确的动词应该是speak。</p></blockquote>
-<p><strong>这里值得注意的是，原视频中讲话内容的顺序也与观察者网的文章有所出入。</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -840,5 +828,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

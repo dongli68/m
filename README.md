@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%B8%88%E6%89%80%E5%BC%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8-%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E7%A0%94%E7%A9%B6%E7%94%9F%E9%81%87%E9%9A%BE/" target="cdt-mirror">导师所开工厂爆炸 华东理工研究生遇难</a>
+</h2>
+<p><p>2016年5月23日，位于上海青浦的上海焦耳蜡业有限公司内的工厂发生爆炸，<strong>三人遇难</strong>，其中包括一位名叫李鹏的华东理工大学在读研究生。<strong>根据上海工商公示信息显示，李鹏的研究生导师张建雨是该公司唯一出资人。焦耳蜡业在2015年6月30日进行过法人变更，由张建雨变为疑似原法人哥哥的张建军。这是该公司唯一一次法人变更记录，也就是说从公司成立的2007年4月起至2015年6月，张建雨一直都是法人身份。</strong></p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%8A%E6%B5%B7%E7%84%A6%E8%80%B3%E8%9C%A1%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%BF%A1%E6%81%AF.png" rel="attachment wp-att-455794"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%8A%E6%B5%B7%E7%84%A6%E8%80%B3%E8%9C%A1%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%BF%A1%E6%81%AF.png?resize=600%2C457" alt="上海焦耳蜡业有限公司信息" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/上海焦耳蜡业有限公司信息.png?resize=300%2C229 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/上海焦耳蜡业有限公司信息.png?resize=768%2C585 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/上海焦耳蜡业有限公司信息.png?resize=1024%2C780 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/上海焦耳蜡业有限公司信息.png?w=2494 2494w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></a><p><span>上海焦耳蜡业有限公司工商公示信息截图</span></p></div>
+<p>华东理工大学后发表声明，称“涉事企业负责人已被公安部门刑事拘留”。然而有不少网民质疑，为何明明是5月23日发生的意外，华东理工大学却直到5月28日才出面发布一则内容空洞的简短声明。截至发稿时，除校方声明外，没有任何大陆媒体对此事进行进一步报道。</p>
+<blockquote><p><a href="http://weibo.com/2028734565/DxvT9u14c" target="_blank">@华东理工大学</a>：2016年5月23日15：00左右，青浦区上海焦耳蜡业有限公司厂房发生爆炸，我校二年级李姓研究生不幸遇难。学校深感痛心，并高度重视，迅速成立工作组，一直在努力做好学生家属的慰问、接待和服务等工作，积极配合相关部门开展事故调查。目前，涉事企业负责人已被公安部门刑事拘留，有关部门正在调查事故原因，进行责任认定。学校将积极善后、妥善处理。</p></blockquote>
+<p><strong><br>
+以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@lindem：企业主和教授是兄弟吗？研究生为何在小工坊？</p>
+<p>@新闻武汉 ： 学生在工厂打工？学生在工厂做导师的项目？</p>
+<p>@天邊一朵雲SH：家属到达上海三天时间内除了见到当地镇政府事故善后小组的陆部长和学校的学院院长外，再无其他接触。家属提出要见张建雨，被告知张建雨已被拘留无法见到，后又说张建雨请了委托人，可仍未见到。在百般交涉下，最终也没有见到所谓的专案组，自始至终只见到过两个警察还是当地派出所的。</p>
+<blockquote><p>@李楠楠TAT：#青浦公司厂房爆炸# 5月23日下午，据@新民晚报新民网 消息，上海青浦区练塘镇老朱枫公里6186弄21号的上海焦耳蜡业有限公司厂房发生爆炸事故，目前已造成2人死亡。其中有一名是华东理工大学的在读研究生，也是我邻家一起长大的朋友，至今没有得到校方回应，请校方给公众一个说法@华东理工大学<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8muxuj20hs0nqgo5.jpg" rel="attachment wp-att-455486"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8muxuj20hs0nqgo5.jpg?resize=350%2C467" alt="bb1f1ef2jw1f4agi8muxuj20hs0nqgo5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8muxuj20hs0nqgo5.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8muxuj20hs0nqgo5.jpg?w=640 640w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8zmgaj20vm0hsgp6.jpg" rel="attachment wp-att-455487"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8zmgaj20vm0hsgp6.jpg?resize=450%2C253" alt="bb1f1ef2jw1f4agi8zmgaj20vm0hsgp6" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8zmgaj20vm0hsgp6.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8zmgaj20vm0hsgp6.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi9r5wej20vm0hsgop.jpg" rel="attachment wp-att-455488"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi9r5wej20vm0hsgop.jpg?resize=450%2C253" alt="bb1f1ef2jw1f4agi9r5wej20vm0hsgop" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi9r5wej20vm0hsgop.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi9r5wej20vm0hsgop.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8jkizj20hs0vmae3.jpg" rel="attachment wp-att-455490"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8jkizj20hs0vmae3.jpg?resize=350%2C622" alt="bb1f1ef2jw1f4agi8jkizj20hs0vmae3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8jkizj20hs0vmae3.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8jkizj20hs0vmae3.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8jkizj20hs0vmae3.jpg?w=640 640w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agib0indj20hs0vmdj4.jpg" rel="attachment wp-att-455493"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agib0indj20hs0vmdj4.jpg?resize=400%2C711" alt="bb1f1ef2jw1f4agib0indj20hs0vmdj4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agib0indj20hs0vmdj4.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agib0indj20hs0vmdj4.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agiajdx1j20hs0vmwhc.jpg" rel="attachment wp-att-455491"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agiajdx1j20hs0vmwhc.jpg?resize=400%2C711" alt="bb1f1ef2jw1f4agiajdx1j20hs0vmwhc" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agiajdx1j20hs0vmwhc.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agiajdx1j20hs0vmwhc.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhy35j20k00cm77y.jpg" rel="attachment wp-att-455494"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhy35j20k00cm77y.jpg?resize=550%2C347" alt="bb1f1ef2jw1f4agibhy35j20k00cm77y" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhy35j20k00cm77y.jpg?resize=300%2C189 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhy35j20k00cm77y.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhn4xj20km06o76g.jpg" rel="attachment wp-att-455495"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhn4xj20km06o76g.jpg?resize=550%2C178" alt="bb1f1ef2jw1f4agibhn4xj20km06o76g" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhn4xj20km06o76g.jpg?resize=300%2C97 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhn4xj20km06o76g.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibzs6fj20np0hstbs.jpg" rel="attachment wp-att-455496"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibzs6fj20np0hstbs.jpg?resize=450%2C338" alt="bb1f1ef2jw1f4agibzs6fj20np0hstbs" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibzs6fj20np0hstbs.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibzs6fj20np0hstbs.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p></blockquote>
+<p>@青子草鱼：当我听到你的噩耗，我瞬间脑子空白，不知道该说什么，完全不能接受你的离去。2016年5月23日下午三点左右，一场爆炸发生在上海青浦区练塘镇的一所工厂内，同时也带走了他年轻的生命，一个华东理工资环学院的研二学生就这样不明不白的没了。一个本该在华东理工校园里的学生怎么会丧生在一个作坊式工厂的破旧厂房里？敢问，他的导师张建雨带他去工厂做什么？而且去的是一个毫无安全保证的作坊式工厂，厂房破旧，毫无消防安全设施。而此工厂的法人正是张建军（张建雨的哥哥），张建雨占了95％的股份。一个老师带着自己的学生第一次去做中试放大实验，明知道实验具有危险性，而你张建雨去了哪儿？反应釜是否规范合格？有安全放空装置吗？在实验区域有防爆操作室吗？统统没有，这样的导师为了一己之利置自己的学生安危于不顾，这难道不是草菅人命吗？</p>
+<p><a href="http://weibo.com/2287249354" target="_blank">@隼子83</a>：请校领导见微知著，理工科研究生下工厂干苦力没文章无学位，谁受益？<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9096.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p>
+<p>@yfzzzzzzzzzzzzzz：研究生为什么在公司厂房？？谁让去的？？涉事企业负责人和研究生导师什么关系？？什么时候来自室友同学的关心可以代表学校了？？哪个领导给的许可？哪个领导真正出来处理？？被害人李某，可是负责人是什么某？代表院系的人员又是什么某？？代表学校的又是什么某？？通篇看完我能得到哪些有用的信息？！</p>
+<p>@魔孑大帝：憋了4天就这么说一下就完了？说的都是空话，对于事实却避重就轻！为何在校学生会在一个小工厂？是谁派他去的？去干什么的？怎么都没有提！这不是意外，是谋杀，是黑心导师的一己私利，是学校教育安全管理的纰漏，我们需要的是事情过程的真相，相关责任人的刑事责任，不能让学长就这么含冤而逝！</p>
+<p>@龙腾腾ECHO追梦人：学校真该关注下学生安全了，别总死命逼学生做实验了</p>
+<p>@关东大侠周十七：是终于捂不住了吗，这种事不该第一时间发声明吗</p>
+<p>@AmorphisDM：终于有大媒体报道了，感动，一定要为无辜逝去的校友学弟讨回公道啊，无良导师丧尽天良，一定要受到法律制裁！高校研究生导师权利太大，一定要好好纠正这长期以来形成的毒瘤！</p>
+<p><a href="http://weibo.com/1766316314" target="_blank">@空空小秃驴</a>：算起来应该是我同届，RIP<img title="[蜡烛]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]" data-recalc-dims="1">另外只说涉事企业负责人什么的，这种事学校和导师都有不可推卸的责任吧，希望母校能真的采取措施避免相关的事再次发生</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%B8%88%E6%89%80%E5%BC%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8-%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E7%A0%94%E7%A9%B6%E7%94%9F%E9%81%87%E9%9A%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5/?category=18271" rel="tag">华东理工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%94%E7%A9%B6%E7%94%9F/?category=18271" rel="tag">研究生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BF%9D%E6%8A%A4%E8%AE%B0%E8%80%85%E5%A7%94%E5%91%98%E4%BC%9A%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%AA%E8%8E%B7%E5%92%A8%E5%95%86%E5%9C%B0%E4%BD%8D/" target="cdt-mirror">德国之声｜“保护记者委员会”在联合国未获咨商地位</a>
 </h2>
 <p><p><strong>由于中国、俄罗斯等十个国家的反对，媒体监督组织“保护记者委员会”未能获得在联合国的咨商地位。对于联合国非政府组织委员会的这一决定，美国表示 “极其失望”。</strong></p>
@@ -76,7 +104,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC/?category=18271" rel="tag">奥巴马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%B8%9D/?category=18271" rel="tag">美帝</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E8%A3%B4%E6%95%8F%E6%AC%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%8D%B3%E5%B0%86%E8%A6%81%E6%B1%82%E9%87%8D%E5%A4%A7%E5%8F%98/" target="cdt-mirror">博谈网｜裴敏欣：中国的中产阶级即将要求重大变革</a>
 </h2>
@@ -698,92 +726,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%97%E4%B8%8E%E5%B8%9D%E5%9B%BD%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E5%AB%96%E5%A8%BC%E4%B9%8B%E5%A4%96%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD/" target="cdt-mirror">诗与帝国｜雷洋案：嫖娼之外的另一种可能</a>
-</h2>
-<p><p><strong>【编者注】作者萧瀚。微信公号“诗与帝国”原文已被和谐。下文内容来自微信公号“历史是个什么玩意儿”（ID: lishiweixin）转发。</strong></p>
-<p>雷洋案情爆发已经有近20天，舆论的热潮似乎也已经过去。任何一个公民在与公职人员打交道的时候都不应该死得不明不白，尽管检察机关已经展开调查，这与民间的努力应当并行不悖。有鉴于此，笔者以及几个朋友对雷案的前因后果做了一些讨论，并对案发现场做了一些考察，现在与大家分享如下。我们的结论是：由于目前警方的说法漏洞和疑点太多，雷洋案的缘起也许存在另一种可能。</p>
-<p>目前已经呈现的信息，存在诸多漏洞和疑点：</p>
-<p>1. 为什么足疗女在采访中说嫖客穿黑色衣服，而其它所有信息都显示雷洋穿的是白色衣服？</p>
-<p>2. 为什么足疗女说给嫖客提供的性服务是打飞机，而警察说发现雷洋使用过的避孕套？（当然理论上戴套打飞机也不是不可能，只是有点不合常情）</p>
-<p>3. 为什么雷洋会在时间很紧的接人路上，匆匆忙忙去嫖妓？</p>
-<p>4. 雷洋怎么能够在8分钟内完成进店、询价、选人、打飞机、事后处理？而足疗女却说打飞机服务一般是45分钟。</p>
-<p>5. 为什么警察从来没有公布过雷洋进入足疗店的时间？他们20：40左右赶到现场，雷21：04还在龙锦三街路口，他们应该能够看到雷洋进入足疗店。如此重大的、对警方有利的信息，警方各种自我辩解中却从来没有提及，为什么？</p>
-<p>6. 为什么“雷洋”67米要走两分多钟？警察说雷洋走出足疗店是21：14，四号摄像头捕捉到雷洋是21：16：50，两个地点之间是67米。正常人走67米大概需要50秒左右，而根据警察说法，当时“雷洋”慌慌张张、走路很快，这种情况下怎么会花两分多钟走67米？</p>
-<p>……</p>
-<p>从雷洋非正常死亡这一刑案角度看待，他有没有嫖娼根本不重要，重要的是雷洋死在警察控制期间，他怎么死的？我们没有能力揭开雷洋死亡之谜，也没有确凿的证据证明雷洋一定没有嫖娼，但是我们相信，关于雷洋为何出现在足疗店附近，存在着嫖娼之外的另一种可能性，并且它看起来似乎更为合理。</p>
-<p>下面的分析基于警方发布的监控资料、媒体的公开报道，以及我们自己的现场考察资料，当然还包括一些基于生活常识的推论，我们没有外人不知的特别证据。</p>
-<p>警方公布的监控资料表明，一号摄像头显示21:00:34雷洋出现在天鑫家园北门，自西向东行走，二号显示21:02:50出现在霍营东路西边的龙锦苑东四区14号楼附近，三号显示雷洋在9:04：18到达龙锦三街东端北口，四号显示雷洋于21:16:50在足疗店西边67米的位置，随后某个时间他就被警察截停并且发生了后续事件。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8801.jpg" rel="attachment wp-att-438947"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8801.jpg?resize=450%2C600" alt="雷洋案01" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案01.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案01.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><span>图一：监控资料显示的时间线（网络截图）</span></p>
-<p>警察认为，雷洋在出现于三号和四号两个摄像头之间的这12分钟32秒的时间里嫖娼了（下文将表明，如果警方说法成立，那么雷洋应该是在8分钟之内完成嫖娼全过程），我们和许多人一样表示怀疑。</p>
-<h3><strong>一．雷洋去机场的路线奇怪吗？</strong></h3>
-<p> <br><strong>1.去机场时间充裕吗？</strong></p>
-<p>从前述摄像头资料，以及雷洋家住址天鑫家园x楼的位置推测，雷洋是21:00左右出门，距离接机时间2个半小时。腾讯地图显示，从13号线+机场线，需要95分钟。从天鑫家园到13号霍营站，无论是558、371还是专21（这是本文认为非常重要的一班车，下文会详述），都要坐5、6站，预算15分钟。加上一次等公交10分钟时间、等13号线地铁5分钟，等机场线5分钟，即20分钟。加上从家里到车站、从机场线下车到接人路口所需的零碎时间，假设共15分钟。95+15+20+15=145分钟，即两个小时25分钟（这里的计算只能是大致的，因人而异）。可见，2个半小时非常紧张，不容差错和堵车。</p>
-<p><strong>这是讨论雷洋案的起点和基础。</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8802.jpg" rel="attachment wp-att-438946"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8802.jpg?resize=575%2C253" alt="雷洋案02" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案02.jpg?resize=300%2C132 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案02.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>图二：腾讯地图显示的从天鑫家园去首都机场的路线和相应时间资料</span></p>
-<p><strong>2.夜间坐558和371方便吗？</strong></p>
-<p>按常理，雷洋应该出天鑫家园北门，到路对面（回龙观东大街路北）乘坐558或371去13号线霍营地铁站，然后换机场专线，再到达机场，其中霍营地铁站是他家门口出发去机场最合理路线的必经之站。天鑫家园马路对面有三俩公共汽车，除了371和558之外，还有441，但441不经过霍营地铁，本文不讨论它。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8803.jpg" rel="attachment wp-att-438948"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8803.jpg?resize=307%2C424" alt="雷洋案03" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案03.jpg?resize=217%2C300 217w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案03.jpg?w=307 307w" sizes="(max-width: 307px) 100vw, 307px" data-recalc-dims="1"></a><br><span>图三：雷洋案的三个重要地点天鑫家园、足疗店、13号线霍营地铁的相对位置</span></p>
-<p>如图所示，霍营地铁在天鑫家园西南方向，天鑫家园门口马路对面就是558、371，但是事发当晚雷洋却出现在了天鑫家园北边的龙锦三街的足疗店附近，这就是为什么很多人感到困惑、继而认为他很可能是去嫖娼的原因。</p>
-<p>但是，很多人有所不知的是，晚上9:00以后，558和371路车次很少。根据我们某晚8—10点的实地考察，来车的间隔时间较长——371是平均20分钟来一趟（最长一次35分钟），558平均15分钟来一趟，专21路在我们考察时段（停运前）明显频次更多——大约7、8分钟就有一班。应该说，558和371都还算是方便的车，即便是晚上，但对于急于赶路、时间完全没有机动性的人来说，这种方便程度可能不够。</p>
-<p><strong>3.有没有另外的车呢？</strong></p>
-<p>事发现场所处的龙锦三街东段，有一班专21路车，也能到达霍营地铁站，它在这里的站名叫龙锦苑东五区南门，站牌在龙锦三街路北马路牙子上，距涉事足疗店门口的西南方向约10-15米，垂直距离也就10米。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8804.jpg" rel="attachment wp-att-438945"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8804.jpg?resize=575%2C313" alt="雷洋案04" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案04.jpg?resize=300%2C163 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案04.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>图四：专21路站牌与涉事足疗店的距离（自摄的照片，点图片放大）</span></p>
-<p><strong>4.等车还是换车？</strong></p>
-<p>如果雷洋出门时见到对面马路上558和371同时到达，眼睁睁地看到它们走了，那么雷洋很可能因为不愿意再等15分钟，而去专21路，这很合理。一号和二号摄像头都显示雷洋根本没有走上述隔离带豁口，而是直接去龙锦三街，那么最大可能性的解释，就是雷洋要坐另外的车去。</p>
-<p>尤其需要指出的是，虽然专21车站在天鑫家园北部，需要绕行，但是绕行时间和距离并不长。从他家门口走到专21路龙锦苑东五区南门站，走得快的话，也就5分钟时间（我们测过这段路的步行时间，与监控资料显示的时间大致相当），与在回龙观东大街路北等371或558相比，并不浪费时间，更何况371到站后，还需要走一段混乱得根本不像正常马路的150米才能进地铁站，而专21路到站后则跟霍营地铁站几乎无缝对接。</p>
-<p>简单地说，我们怀疑，看到558、371离开，他可能决定多走5分钟路程，但是少等10分钟车。这是一个并不离奇的简单换算。</p>
-<p><strong>5.末班车时间</strong></p>
-<p>也就是说，雷洋可能是要坐专21路车去霍营地铁站。但问题是这班车的末班车时间是20:30，从第一站龙锦苑公交场站到达龙锦苑东五区南门站，以20:30以后这个时间点看，行车最多不会超过十分钟。也就是说，20：40以后，这个站应该就没车了。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8805.jpg" rel="attachment wp-att-438944"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8805.jpg?resize=450%2C600" alt="雷洋案05" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案05.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案05.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><span>图五：专21路站牌，末班车时间为20:30（自摄照片）</span></p>
-<p>雷洋是否知道末班车时间？他平时出行坐公交车，当以天鑫家园门口与马路对面的公交车为主，专21路不是常坐车几乎可以肯定。即使雷洋知道末班车时间，只是到达之后一看路牌才豁然想起，也没什么奇怪的……不管因为什么，急于赶路的雷洋因为独辟蹊径而没赶上专21路，我们认为这是普通人的生活常态。</p>
-<p>北京的公交车末班车时间很少会设定8:30之类的时间，一般是10点或10:30，专21路因为是专门为龙锦苑一带居民提供上下班高峰时间出行方便才安排的车，所以末班车时间较早，但一个匆忙出行并且并不常坐这班车的人未必会了解这些。</p>
-<p>为此，我们认为，雷洋没有在回龙观东大街路北乘车，而是出现在足疗店附近根本不奇怪。<strong>雷洋从家天鑫家园19号楼出门之后，直接去龙锦三街，很可能是要去专21路龙锦苑东五区南门站坐车去霍营地铁，站牌就离涉事足疗店门口很近，这可能就是为什么雷洋会在接人途中出现在足疗店附近的原因。</strong></p>
-<h3><strong>二．赶路的雷洋可能在八分钟内完成嫖娼吗？</strong></h3>
-<p> <br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8806.jpg" rel="attachment wp-att-438943"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8806.jpg?resize=407%2C555" alt="雷洋案06" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案06.jpg?resize=220%2C300 220w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案06.jpg?w=407 407w" sizes="(max-width: 407px) 100vw, 407px" data-recalc-dims="1"></a><br><span>图六：雷洋案案发现场相关环境图（由于足疗店和专21路太近，因此图上无法清晰显示距离，基本上是重合状态，另外，为了使得图片简洁一些，我们P掉了一些与本案关系不大的地点，因制图技术业余，所以可能会有诸多纰漏甚至差错）</span></p>
-<p><strong>1.警方没有视频证据证明雷洋走出足疗店</strong></p>
-<p>按警方的说法及其公布的资料所显示雷洋行踪，雷洋在21:04:18到21:16:50这12分钟32秒时间里，不但已经从龙锦三街最东头走进足疗店，而且进去嫖娼结束出来后又往西走了67米了，他们至今没有公布雷洋进出足疗店的目击证据，更没有视频证据，但警方却认定雷洋21:14走出足疗店。</p>
-<p><strong>2.做完一套“大保健”只需要8分钟？</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8807.jpg" rel="attachment wp-att-438942"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8807.jpg?resize=575%2C367" alt="雷洋案07" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案07.jpg?resize=300%2C192 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案07.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>图七：自三号摄像头到足疗店，根据不同位置起算，约170—180米，步行过来需时约2分钟</span></p>
-<p>如果警方的这个信息是真的，那么意味着雷洋用了大约8分钟的时间，完成了进店、询价、选人、打飞机、事后处理。可能性到底有多大？</p>
-<p>足疗女在接受采访时说她提供性服务的人是穿黑衣服的，而事实上雷洋却是穿白衣服的。如果说黑色和灰色容易混淆，黑白两色混淆的概率很低。而且，视频中足浴女是毫不犹豫回答的，不像是记不清楚的样子。</p>
-<p><strong>3.走67米要两分多钟？接受性服务却只要8分钟？</strong></p>
-<p>雷洋在大约8分钟之内就完成了足疗店一个“大保健”的全过程，而按照足疗女张某的说法，一个“大保健”的时间是45分钟。按雷洋去机场坐公交车的行为，可以推断他是个节俭的人，为什么会浪费200元钱接受只有不到五分之一时间的性服务？</p>
-<p>那么警方认为雷洋21:14走出足疗店，而四号摄像头记录的是雷洋21:16：50在足疗店以西67米的位置，这短短的67米距离，普通人50秒钟就能走完，雷洋为什么走了两分钟多？一个刚嫖完娼的人，往往会担心遇到危险，通常会快速离开，而他竟然走得这么慢，更何况，时间已经很紧张，他为什么在这里磨蹭？</p>
-<p><strong>一个人在卖淫场所只呆8分钟就浮皮潦草地结束花了200元的服务，却在出来以后磨蹭2分多钟才走了67米，而这个人还是急着去机场接人的，这得多么复杂的逻辑链才能支撑起这个故事？</strong></p>
-<h3><strong>三．警方截停人过程中的诸多解释不通</strong></h3>
-<p> <br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8808.jpg" rel="attachment wp-att-438941"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8808.jpg?resize=575%2C258" alt="雷洋案08" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案08.jpg?resize=300%2C135 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案08.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>图八：从龙锦三街东段路南拍摄的足疗店到雷洋被截停位置的照片，红字标出的三个重要地标，自东向西分别是（从右向左）：涉事足疗店、21路站牌、离足疗店67米处（自摄照片，点击图片放大）</span></p>
-<p><strong>1.警察蹲守在哪里？</strong></p>
-<p>现在来分析昌平警方通报二里提到的所谓21:14雷洋走出足疗店这个信息。四号摄像头显示21:16:50雷洋在足疗店以西将近67米处。那么警方是在哪个位置蹲守，以至于如此铁板钉钉地说他们看到走出足疗店的人就是雷洋？</p>
-<p>再者，警方看到有人走出足疗店，为什么会在至少超过两分多钟以后才截停他？</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8809.jpg" rel="attachment wp-att-438940"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%8809.jpg?resize=575%2C269" alt="雷洋案09" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案09.jpg?resize=300%2C140 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案09.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><br><span>图九：从雷洋第一次被截停到霍营东路路口（三号摄像头位置）230~240米</span></p>
-<p><strong>2.截停前警察离雷洋有多远？所谓目击靠谱吗？</strong></p>
-<p>警方非常快速的赶过来截停雷洋需要花2分多钟时间，这得离得有多远？这么远的距离，又是晚上，带队并且最初截停雷洋的警察邢永瑞还戴眼镜，警方如何保证自己没看错人？他们真的是埋伏在前门，能够直接目击“雷洋”出来的地方吗？还是——不排除一种可能性——他们是埋伏在远处、通过线人获得嫖客出来的信息？后来赶过来的三位协警，按照邢永瑞的说法是在小区里蹲守的，有人走出足疗店这一事实，他们应该不是目击者。</p>
-<p><strong>3.走出足疗店的是“黑衣人”还是雷洋？</strong></p>
-<p>而这2分多钟时间里，雷洋才走了67米，怎么会是警方眼中行色匆匆呢？我相信警方在这个问题上没有撒谎，雷洋确实行色匆匆。问题在于，有可能当时是别的人在这里，并且在警察赶到之前已经消失，而雷洋可能此时正好因为急于赶路而进入警方此前一边看路一边小跑盯人的视线——雷洋悲惨地替黑衣人顶包了。雷洋可能压根儿就没有进出过足疗店，进出足疗店的“黑衣人”早已消失在夜幕中，简单说，警方可能把人跟丢了。</p>
-<p><strong>4.雷洋何以行色匆匆？</strong></p>
-<p>如果雷洋只是在等车，那么20:40之后专21路在这里就没车了，雷洋发现之后，他会怎么办？以三号摄像头时间推断，雷洋发现没车了至少在21:06之后，而21:06这个时间只是雷洋意识到没车了的最早时间，也就是说一到车站就发现没车了，当然，他也可能走到车站时没有立刻查看站牌，在那儿等了一会儿才看站牌，才发现没车了。</p>
-<p>我们认为，雷洋很有可能在站牌往西的50米距离内等着打车，等了几分钟后没车，于是继续慢慢一边往西走，一边回头看有没有车，如此走走停停甚至稍等片刻，所以走得不会很快，直到感觉打不到车了之后才会快速离去——这可能就是邢永瑞说他行色匆匆的时间，很可能他是想去西边的黄平路。</p>
-<p>如果是这样，那么从三号摄像头到四号摄像头之间约230~240米的距离，雷洋花了12分钟32秒的时间就得到了解释：他可能在等车，包括在专21路车站等公交车和在这一带等出租车的时间。</p>
-<h3><strong>结论：雷洋可能只是去坐车</strong></h3>
-<p> <br>
-许多事也许本身未必有多复杂，就像雷洋案，他可能只是要去机场接人，并且在途中受到莫名其妙的无妄伤害，以至于不幸死亡。</p>
-<p>公民行为，“法无禁止，即为许可”，公民的违法犯罪需要公权力去证明，在被证明之前必须善意推定为其行为合法；公权力执法是“法无授权，即为禁止”，它需要证明自己合法地执法，证明自己合法地对待公民。这是现代法治的常识。</p>
-<p>在雷洋案中，在遵循正当程序的调查结果出来之前，我们有义务以最大的善意推断雷洋5月7日晚案发整个过程中的行为。现在雷洋已经不幸去世，他再也不能为自己说话了，我们活着的人，依然有义务用最大善意推断他的行为，对于他去机场途中发生的这一不幸事件，有义务以最大善意推测所有看似不完全合乎他日常生活习惯的行踪。</p>
-<p>如果警方无法提出未经污染的足够证据，并且在证据与证据之间无法形成合理的完整逻辑链，同时未经程序正当的司法审查，那么我们活着的人们永远有义务相信雷洋没有嫖娼。警方代表的是公权力，在公权力指控普通公民时，应当拿出确凿的未经污染、经过司法审查的证据，指控或许才能成立。</p>
-<p>由于雷洋已经死于警方控制期间，警方已成为雷洋非正常死亡案件的涉嫌凶手，因此，他们在检方介入调查之后，应该就不再有资格单独接触证据，否则即为经过污染的证据；他们也不再有资格单方公布所谓证据，一旦公布，这些未经司法审查的证据，一切有利于他们的都应当重新调查，不利于他们的，在经过正当司法确认之前，民间有权利将其作为有利于雷洋的正常信息使用，也就是通常所谓“疑点利益归被告”这一刑事司法原则部分运用于评价行政法律事实中。</p>
-<p>有鉴于上述对公民理应持有的善意推定原则，以及公权力自证清白原则，我们在相信雷洋未嫖娼的基础上，通过实地考察和公开资讯相结合的方式，提出雷洋出现在足疗店附近的另一种解释。这个解释的过程看似复杂其实简单，虽然未必可靠，但是，我们依然认为在本报告所设定的诸多生活常理范围内，它很可能是成立的。</p>
-<p>我们非常欢迎关心这起案件的朋友们——尤其希望对案件经过有了解的朋友们，能够发布对探求此案真相有价值的信息，无论是补充本报告的内容，还是质疑我们的意见，只要是事实就都是好的。用事实和证据质疑我们的结论，提出有理有据的其他可能性，也是往真相的艰难迈进，同样是我们所希望并且应当认真对待的。在追求真相的道路上，事实本身才是最高的权威，其他任何人都不是；或者，如果确切真相已不可得，程序正义的中立、独立、公正对待各方的调查也是其次的权威。</p>
-<p>2016年5月25日</p>
-<p>附笔：</p>
-<p>本文的分析以及观点不是一个人完成的，而是几个朋友讨论并且实地考察后的可能性结论，我尤其不是思路的主要贡献者，只是执笔人。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%97%E4%B8%8E%E5%B8%9D%E5%9B%BD%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E5%AB%96%E5%A8%BC%E4%B9%8B%E5%A4%96%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -795,7 +737,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -805,5 +747,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

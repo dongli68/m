@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,135 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%89%93%E7%A0%B4%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A6%81%E5%BF%8C%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%96%E7%95%8C%E7%BB%8F%E6%9C%9F%E5%8D%AB/" target="cdt-mirror">端传媒 | 打破不能说的禁忌，今天是“世界经期卫生日”</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%888.38.41.png?resize=553%2C368" alt="Screen Shot 2016-05-28 at 上午8.38.41" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.38.41.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.38.41.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>高洁丝（Kotex）公司日前在纽约第五大道开设的经期商店（The Period Shop），内有从食品到服务等各种为经期女性提供的产品。来源：U by Kotex Twitter</span></p>
+<p>在这个星球上，每个月总有那么几天，有些女性无法进行下列事宜：</p>
+<ul><li>和丈夫同床，或是进出宗教场合。（如果她在印度）</li>
+<li>将用完的卫生巾扔进垃圾袋，因为那会“传播癌症”。（如果她在玻利维亚）</li>
+<li>沐浴，否则将会“丧失生育功能”。（如果她在阿富汗）</li>
+<li>不能挤奶或是浇灌植物。（如果她在肯尼亚）</li>
+<li>不能上学。（如果她在孟加拉）</li>
+</ul><p>是的，在不少国家，月经仍被看作肮脏不祥的象征。经期的女性也被视为受诅咒的恶梦，所到之处，万物都会受到污染，萎靡枯朽。当月经成为社会成员需要避讳的禁忌，人们自然而然也就无法得到关于月经和女性身体的科学认识和相关教育——一项调查显示，印度70%的女性在初潮来临之前，甚至从未听说过月经这回事情。</p>
+<p>“经期卫生”在这些文化中属于天方夜谭。女人既不懂得她们需要干净的卫生巾、棉条，也压根没有钱买到这些东西，于是只能“就地取材”——干树叶、用过的抹布袜子、沙粒、灰烬、青草等都能成为经期用品。</p>
+<p>你也许会觉得这是落后的“第三世界”才有的问题——看着电视和网络广告中“带了就和没带一样”、“更轻、更薄、吸收力更强”的各种广告，自信在你生活的开放社会，月经早就不会再给女性带来麻烦。</p>
+<p>但你是否知道，在日本，男性在寿司制作行业中更受青睐，原因在于人们相信经期的女性味觉会有失精准，无法胜任本职工作；在美国，有四十个州施行所谓“卫生棉棒税”（Tampon Tax）——州政府一般会对所有个人动产征税，但将生活必需品列为例外，这类“非奢华产品”包括一般药物、农副产品、食物券等，但经期用品却不在此列；在中国大陆、台湾和香港，有些人相信来月经的女性最好也不要去“拜拜”，就算进到寺庙中，也最好不要敬香。</p>
+<p>在千奇百怪的“民俗”中，有一些共通的“古老智慧”。比如认为女性的身体是不洁的，月经又是最为肮脏的分泌物，如果不做好隔离，就会传播疾病，污染环境。在有些地方，这些鄙陋的思想仍然发挥效用；在另一些不存在这些思想习俗的地方，与月经连在一起的“肮脏”、“羞耻”等情绪还是隐藏在生活之中。不信？你可以想想，为什么卫生巾的广告总是强调别人根本不会察觉到你在使用它。</p>
+<p><a href="http://www.wash-united.org/">WASH United</a>（Water, Sanitation and Hygiene，水源、公共和个人卫生）是一家总部位于德国柏林的NGO组织。2014年，它发起了“国际经期卫生日”，将每年的5月28日订为有关月经的特别“节日”，希望能够借此引起公众对于月经和经期健康、卫生等议题的重视。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%888.39.26.png?resize=553%2C369" alt="Screen Shot 2016-05-28 at 上午8.39.26" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.39.26.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.39.26.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>图为月经博物馆的创办人 Harry Finley 和博物馆展品。来源：月经博物馆网页</span></p>
+<p>今年是这个活动的第三年，WASH网站上用地图标出了世界各地教育机构、艺术组织和个人、社会活动家、社区、政治领袖等发起的“节庆活动”：</p>
+<ul><li>巴基斯坦卡拉奇的一家私人公司将会在该市公共空间摆放大型告示牌，传播关于经期卫生的知识；</li>
+<li>位于匈牙利布达佩斯的中欧大学（Central European University）会举办“全球月经禁忌展览”，鼓励学生自己做研究，搜集相关资料；</li>
+<li>印度德拉顿市（Dehradun）的NGO组织则会在附近500户乡村家庭中派发卫生巾并传播相关常识；</li>
+<li>香港的<a href="http://www.happeriod.com/p/about.html">“小刺猬happeriod”组织</a>则会开展一系列的正向月事工作坊；</li>
+<li>台北则有三个不同组织邀请多位推动改变月经文化的人士分享经验</li>
+</ul><p>除了WASH United以及和它合作的这些组织个人之外，一直以来，来自不同领域的专业人士其实都在辛勤耕耘，改善月经文化。</p>
+<p>他们或致力于科学知识的传播，比如印度专门为贫民窟底层妇女提供相关教育的NGO Roshini；或致力于破除关于月经的种种迷思，比如英国Finley夫妇用地下室改造的“月经博物馆”，里面收藏了从过去到未来与月经有关的各种文化再现、商业产品和艺术作品；或推动更加廉价安全的经期用品生产和销售，比如高洁丝（Kotex）公司日前在纽约第五大道开设的经期商店（The Period Shop），销售从食品到服务等各种转为经期女性提供的产品；或探索环境保护与经期卫生用品的关系，比如在尼泊尔推行使用布卫生棉的台湾女孩林秀苹。</p>
+<p>无论是男性、女性还是性小众，是商家、科研机构、NGO还是个人，有许多人都在努力让更多女性能够客观、积极的面对月经、面对身体和面对自己。就像WASH United一个庆祝活动的口号一样，他们希望能够“让女性的每一天都是美好的一天”。</p>
+<p>对了，位于东京秋叶原的寿司店Nadeshiko Sushi 也已经开幕了，这是日本第一家全女性师傅的寿司店。</p>
+<p>那么，“经期卫生日”快乐！</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%89%93%E7%A0%B4%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A6%81%E5%BF%8C%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%96%E7%95%8C%E7%BB%8F%E6%9C%9F%E5%8D%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/528%E4%B8%96%E7%95%8C%E7%BB%8F%E6%9C%9F%E5%8D%AB%E7%94%9F%E6%97%A5/?category=18271" rel="tag">528世界经期卫生日</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女性主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E5%88%A9/?category=18271" rel="tag">女性权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4%EF%BC%9A1984%E5%B9%B4%E7%9A%84%E4%B8%9C%E5%BE%B7%E5%9B%BD%E4%BF%9D%EF%BC%8C%E4%BC%BC%E6%9B%BE%E7%9B%B8%E8%AF%86/" target="cdt-mirror">【CDTV】窃听风暴：1984年的东德国保，似曾相识</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%888.29.36.png?resize=553%2C344" alt="Screen Shot 2016-05-28 at 上午8.29.36" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.29.36.png?resize=300%2C187 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.29.36.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>窃听风暴剧照  豆瓣评分：9.1/10</span></p>
+<p>《窃听风暴》（德语：Das Leben der Anderen，又名《他人的生活》、《别人的生活》，港译《窃听者》），2006年德国影片。影片是德国导演弗洛里安·亨克尔·冯·杜能斯马克的处女作，并由他亲自编剧。影片于2006年3月23日在德国发行。获得了第79届奥斯卡金像奖最佳外语片奖。</p>
+<p>本片主要讲述了1984年东德东柏林史塔西（国家安全局）的一名秘密探员负责监听一男剧作家及其女友（知名演员），逐渐被他们的生活所吸引，转而同情他们的遭遇，以至最后暗中对他们施以援手的故事，整个影片从侧面影射了当时东德对于媒体和言论自由的政治气氛，从本质上来讲，整个电影体现的是东德的思想解放的一个缩影。（维基百科 <a href="https://zh.wikipedia.org/zh-cn/%E7%AB%8A%E8%81%BD%E9%A2%A8%E6%9A%B4">窃听风暴</a>）</p>
+<p>CDTV推荐《窃听风暴》，如果您在墙内无法看到YouTube上的视频, 请<span><a href="https://link.getsync.com/#f=CDTV-movie&sz=56E8&t=2&s=RCHZFABDZB3CHHMKIKKV3QAXIVITGGCQEQKMOTMMXX324IVXGZBA&i=CIT7FJ5IYL7EIL5XZRYVBIKZNX42GLCX7&v=2.0"><strong>点击这里</strong></a></span>使用BitTorrent Sync (Sync) 下载观看。</p>
+<p><a href="https://www.youtube.com/v/79yJESOeVDc?version=3">https://www.youtube.com/v/79yJESOeVDc?version=3</a></p>
+<p><a title="《窃听风暴》" href="http://www.youtube.com/watch?v=79yJESOeVDc" target="_blank">《窃听风暴》</a></p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4%EF%BC%9A1984%E5%B9%B4%E7%9A%84%E4%B8%9C%E5%BE%B7%E5%9B%BD%E4%BF%9D%EF%BC%8C%E4%BC%BC%E6%9B%BE%E7%9B%B8%E8%AF%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6%E7%BB%9F%E6%B2%BB/?category=18271" rel="tag">专制统治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%BE%B7/?category=18271" rel="tag">东德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E5%90%AC/?category=18271" rel="tag">监听</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">秘密警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4/?category=18271" rel="tag">窃听风暴</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2-%E5%85%8B%E6%A0%BC%E5%8B%83-%EF%BC%8C%E5%9C%A8%E7%AC%91%E8%AF%9D%E4%B8%AD%E5%92%8C%E8%8B%8F%E8%81%94%E4%B8%80%E8%B5%B7%E9%99%B7%E5%85%A5/" target="cdt-mirror">国家人文历史 | 前苏联，不允许正直克格勃的存在</a>
+</h2>
+<p><p>原题：勃列日涅夫时代的克格勃 ：在笑话中和苏联一起陷入泥潭</p>
+<p>作者：李思达</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%887.59.38.png?resize=571%2C407" alt="Screen Shot 2016-05-28 at 上午7.59.38" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午7.59.38.png?resize=300%2C214 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午7.59.38.png?w=571 571w" sizes="(max-width: 571px) 100vw, 571px" data-recalc-dims="1"><br><span>1987年的卢比扬卡大楼，苏联克格勃总部，位于俄罗斯首都莫斯科卢比扬卡广场。该建筑属新巴洛克式建筑</span></p>
+<p>1964年10月13日，正在黑海度假的赫鲁晓夫被紧急召唤回莫斯科参加主席团（即苏共政治局）的经济会议。等他抵达莫斯科的时候，前来迎接的只有克格勃主席谢米恰斯内和一名警卫局长。谢米恰斯内明显有点紧张，他向赫鲁晓夫俯下身去，压低嗓门告诉这位总书记：“大家都在克里姆林宫等着你。”</p>
+<p>等着这位总书记的是一场政变。由于受不了赫鲁晓夫取消各种特权福利，触动整个苏联官僚阶层既得利益的“十大打击”（苏联官僚给赫鲁晓夫改革起的绰号），下属联手发动了此次政变。而接替赫鲁晓夫的是列昂尼德·伊里奇·勃列日涅夫，这个党内公认的最没有能力的人物。所有的人都认为这个任命只是临时过渡，再过几年，总书记这个职务就会由党内那些强有力的人物，比如曾经的克格勃主席谢列平来接手。然而正如当初大家小看了斯大林和赫鲁晓夫一样，这次大家也没有估计到勃列日涅夫超强的官僚手腕——他不仅成功保住了自己的位置，挤走了所有可能挑战的对手，还成为继斯大林之后在位时间最长的苏联领导人。从1964年到1982年，苏联进入漫长的勃列日涅夫时代。</p>
+<p><strong>1. 社会停滞，笑话却井喷的时代</strong></p>
+<blockquote><p>斯大林、赫鲁晓夫和勃列日涅夫一起乘火车出门。开着开着，突然火车停了。</p>
+<p>斯大林把头伸出车窗之外，怒吼道：“枪毙火车司机！”可是火车没有动；赫鲁晓夫也把头伸出车窗之外，说：“给司机恢复名誉！”火车仍然没有动；这时候，勃列日涅夫说：“同志们，不如我们拉上窗帘，坐在座位上自己摇动身体，做出列车还在前进的样子！”</p></blockquote>
+<p>从外表来看，勃列日涅夫统治前期可谓是苏联的黄金时代，国力蒸蒸日上，不仅在核武器上和美国实现了恐怖的核威慑平衡，还在全球范围内带着自家小弟和北约集团展开了针锋相对的地缘争霸，成为让所有其他国家都为之忌惮的超级大国。尤其是在20世纪60年代后期和70年代初中期，是苏联历史上人民生活最好、和美国差距最小的时期。1975年，在“新经济体制”的刺激下、苏联的国民生产总值达到峰值，排名欧洲第一，世界第二。</p>
+<p>然而，这种好景只是在透支未来，勃列日涅夫享受的只是赫鲁晓夫改革的红利和国际原油价格暴涨带来的好处。据统计，在1974年到1984年10年间，光石油出口就给苏联赚回了2700到3000亿美元的外汇。但外汇入超也掩盖不了苏联经济走向深渊的本质。在“八五”之后，苏联连续3个五年计划经济增长率都急剧下降。糟糕的不只是经济，整个苏联社会在政治、经济、社会文化等诸多方面都出现了严重的停滞现象。情况就正如笑话所说，苏联这列火车已经在事实上停滞不前了，但以勃列日涅夫为首的苏共领导层却只看见原油外汇带来的巨大收入，自欺欺人地认为形势一片大好，甚至连头都不愿意探出车窗，只是装出火车还在继续前进的样子。</p>
+<p>在这种社会停滞、气氛压抑的大环境下，苏联民间的政治笑话却突然发生井喷。各种辛辣讽刺笑话纷纷出台，流传甚广。美国学者布鲁斯·亚当斯曾在《俄国的微弱反抗》中收集了总共794则苏联政治笑话，其中勃列日涅夫时代的就有211则，占了1/4强！此时的政治笑话不仅产量大，而且流传速度奇快，在斯大林时代，一则政治笑话传遍莫斯科的大街小巷大概需要两到三天，而在1970年，克格勃对蔓延在社会上的政治笑话做了一番调查，结论是“一则政治笑话只需要6到8个小时就可以传遍一座如莫斯科市大小的城市”。</p>
+<p>为什么政治笑话突然在这个时候发生井喷？归根到底是因为以勃列日涅夫为首的苏共领导层出了问题。在长达18年的时间里，苏联一步步走向了僵化和腐败的深渊。长期存在的理论和现实不一致的情况，导致了大量民众对政府的极度失望；此外，由于勃列日涅夫任人唯亲，搞干部任命终身制，给苏联社会带来极其严重的弊病：老人政治、官僚阶层集体腐化、思想僵化、特权阶级、克格勃对意识形态的严厉控制等问题，都是在这个时期发生的。这些广为人民所诟病和痛恨的事情，也为这些政治笑话提供了源源不断的素材。而另一方面，勃列日涅夫治下的整个苏共高层种种匪夷所思的腐败和堕落，又给广大民众展现了一副丑态百出的现实笑话。</p>
+<p>勃列日涅夫时代的苏联也好，克格勃也好，就是在这种荒诞的笑话中，一步步走向了泥潭。</p>
+<p><strong>2. 老人政治和特权，笑话钟爱的题材 </strong></p>
+<blockquote><p>新闻报道：“苏联共产党中央委员会、政治局和部长会议沉痛宣告：列昂尼德·伊里奇·勃列日涅夫同志在长期患重病之后没有苏醒过来，但是目前仍在工作。”</p>
+<p>苏斯洛夫临终前，政治局委员围在他的床边。他们在等着医生宣布苏斯洛夫死亡。沉默良久之后，医生终于开口说：“没有办法啊，没有人能顶得住。我们主要敌人就是老年化。”“不对”，勃列日涅夫说，“我们主要敌人是缺乏自律。大家看看，我们已经等了半个小时，但苏斯洛夫居然还没有来！”</p></blockquote>
+<p>1981年3月的苏共二十六大选出了14 名政治局委员，其中只有两人年纪在60 岁以下，70岁以上的竟有8人，占一半以上。除此之外，政治局候补委员的平均年龄也达到了67岁，部长会议领导层的平均年龄也高达到了68. 1岁。就是这么一帮行将就木的老头子，牢牢把持住了苏联政坛。这些人的生活已经越来越远离现实世界，面对苏联日益加深的社会矛盾和危机，他们既没有精力，更没有任何动力去推动任何有意义的改革。对苏联政坛上这种死气沉沉的“老人政治”，人民都看在眼里，社会上开始大量流传着讽刺勃列日涅夫老糊涂的笑话，然而更加可悲的是，现实比笑话还要可笑：晚年的勃列日涅夫在某次主持召开阿塞拜疆党代会时，由于秘书疏忽给错了讲稿，在众目睽睽之下，他毫无察觉地拿着错误讲稿念了整整两页。这时，惊慌失措的秘书才匆匆忙忙给他换了正确讲稿，而勃列日涅夫只是嘟哝着：“同志们，这不是我的错，让我们从头来过。”就又从头念起。</p>
+<p>老人政治的根源来自干部任命终身制，而干部任命终身制又来源于勃列日涅夫的上台。他是在党政官僚阶层的支持下，通过“宫廷政变”将赫鲁晓夫赶下去。为了巩固自己的统治，他与各部门和地方领导干部达成默契：各部门和地方干部支持勃列日涅夫把持总书记的宝座，而他则从制度上保证他们的特权和终身制。而随着时间演化，苏联逐渐形成了一个脱离普通群众的“特权阶级”，更可怕的是，这些人还建立一个专收这些子弟的教育制度，然后通过一套任命和提升职务的制度来使得自己特权得以继承，形成了一种“特权继承制”！对此，苏联人民辛辣地讽刺道：</p>
+<p>一位老将军和他的孙子正在散步。“爷爷，我长大之后能当上将军吗？”“当然能！”“那我能当上元帅吗？”“那不能，元帅们也有他们自己的孙子啊。”</p>
+<p>面对这些不满和愤怒，苏共高层并没有意识到问题根源，而是出于维护自己既得利益的角度，大肆加强了对思想方面的限制和管控，妄图用国家力量去压制。而这个任务被交给了他们心目中无所不能的机关——克格勃，事实证明，即便是这种糟践自己名声的任务，克格勃也完成得很好，生生地让自己从一个威震敌胆的机关，变成了人人厌恶的思想警察，被勃列日涅夫集团拖到了泥潭之中，成为政治笑话的主角。</p>
+<p><strong>3. 臭名昭著的思想警察 </strong></p>
+<blockquote><p>在勃列日涅夫时代，广大民众中间形成了“厨房政治”，就是在公用厨房中和亲密的朋友讨论一些敏感话题，发泄对苏共特权阶层的不满。每当大家谈话告一段落的时候，就会抬头望着厨房电灯：“那个，少校同志，您还在听吗？”</p>
+<p>在莫斯科的地铁上，突然有一个人问另外一个人：“同志，请问您在克格勃里工作吗？”“没有。”“那您有亲戚在克格勃工作吗？”“没有。”“那您有朋友在克格勃工作吗？”“也没有。”“那你赶紧给我把脚挪开，你踩着我了！”</p></blockquote>
+<p>1966年9月15日，苏共政治局通过决议，对刑法第190条作了几项增补：</p>
+<p>以口头形式散布诋毁苏联国家和社会制度的明显谎言，以及书面形式创作同样内容的作品，处以剥夺三年以下的自由，或劳动营改造一年，或处以100 卢布的罚款； ……对组织和参加破坏社会制度的集体行动者进行惩处。</p>
+<p>到底什么算是明显谎言？什么算是破坏社会制度的集体行动者？这件事情，本人说了不算；律师说了不算；甚至连法官说了也不算，苏共中央把解释权交给了自己最宝贝的机关——克格勃，让他们随心所欲解释法律。1967年5月19日，安德罗波夫被任命为克格勃主席，在他的主持下，克格勃成立一个专门局来负责这方面的工作，这就是臭名昭著的思想警察——第五局。</p>
+<p>一开始，第五局只有六个处，第一处负责文化交流渠道；第二处负责针对国外，反和平演变；第三处负责大学生工作；第四处负责宗教界工作；第五处负责侦查“反苏”作品和传单；第六处负责理论研究。随着克格勃对苏联社会生活干涉的深入，这个局迅速扩大，到1982年已经扩充到15个处共2.5万名工作人员，负责监视艺术、文化、体育、新闻、出版、宗教等所有人们能想到的和意识形态沾边的领域。这个局的工作“卓有成效”，仅1967到1970年，就有2456人根据第五局提供的黑材料被追究刑事责任，其中以反苏宣传和鼓动罪被判刑的有281人。而这些人可能仅仅是因为收听了国外电台，然后在公开场合一不留神把听到的内容当奇闻逸事给讲了出来而已（库布拉诺夫案，因定期收听并转述“以色列之声”“美国之音”内容，被判刑两年）。</p>
+<p>但第五局可怕的地方不在于仅仅能把人送到劳改营，为了对付所有“思想颠覆分子”，他们甚至会动用国家资源对目标的名誉进行破坏，甚至将他们诬蔑为“精神病”，然后送到精神病院加以囚禁。直到此人签署自白书，承认自己是在精神不正常的情况下发布了反苏言论才有可能释放——但这么一来更坐实此人有精神病的嫌疑，第五局以后就更有理由把此人弄到精神病院去。这种比《二十二条军规》还要荒谬的情景，就发生在现实中。活生生地将生活变成了笑话，而把人们原本以为的笑话变成了苏联现实！</p>
+<p>到底有多少人被第五局诬蔑迫害成精神病人？由于打着保护病人隐私的旗号，普通人并不清楚其规模和受害者姓名。但可以从克格勃的报告中见到一些端倪：1967年，克格勃主席安德罗波夫和总检察长鲁坚科联名给苏共政治局打报告，称在全苏各地都发生了“闻所未闻”的挑衅苏维埃政权案件……这些案件是如此之多，以至于“精神病院不够用了”，因此他们坚决要求中央“至少拨给他们（劳改营管理总局）5所精神病院！”这种疯狂的政治精神病直到1988年才正式终止，而克格勃手中的精神病院已经多达16所，一次性被摘掉精神病帽子的就有80万人之多！</p>
+<p>除了将看不惯的人送到“精神病院”之外，对于一些名气较大的人物，第五局则采取流放或者驱逐出境的措施，比如著名作家索尔仁尼琴，第五局在1974年2月13日直接将其押上飞机驱逐出境。而对于一些“小虾米”，第五局则是进行威胁性的“预防警告”。光1967年到1970年3年之中，克格勃第五局的就对58298人进行了预防警告，平均约每天53人（全国范围），而20世纪70年代后频率更高，1971年到1974年同样3年之中，第五局对63108人进行了预防警告。</p>
+<p>在克格勃第五局的严厉监制和压迫之下，苏联成了一座压抑心灵的大监狱，正如笑话所讲，在克格勃监听和思想控制下，谁也不敢表露心声，谁也不敢得罪克格勃这个权力无限的机关，但也绝不会有人会喜欢它。就在克格勃在政治地位高升的同时，它已经在人民心目中堕落为最讨厌的机关了。</p>
+<p><strong>4. 不允许正直克格勃的存在</strong></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%888.03.08.png?resize=266%2C400" alt="Screen Shot 2016-05-28 at 上午8.03.08" data-recalc-dims="1"><br><span>谢苗·库兹米奇·茨维贡</span></p>
+<p>在勃列日涅夫统治后期，由于苏共高层的腐败已经深入骨髓，大案奇案频出，只有想不到，没有做不到，整个苏联社会已经完全成了笑话的世界。1980年的鱼子酱走私案就是如此，一名克格勃人员偶然买到了一批鲱鱼罐头，打开之后发现里面装的居然是价格昂贵的鱼子酱。大吃一惊的侦查人员经过调查，结果揭发出一起严重的走私案：以渔业部副部长、渔业生产销售管理局副局长为首的官员，伙同涉及苏联外贸部、食品工业部、太平洋舰队、莫斯科、索契等地领导，将索契和阿斯特拉罕的鱼子酱装入贴有鲱鱼标签的罐头走私到国外，然后牟取高额差价，猖獗的走私活动居然持续了长达十余年之久，涉案人员高达300人之多。此案最后也只是以负责人调职而不了了之。</p>
+<p>其实，鱼子酱走私案只是冰山一角，此时的苏联已经从根子上烂掉，就连第五局也无法挽救了。况且就算是克格勃本身也好不到哪里去，叛逃、走私、参与黑社会犯罪等各种丑闻频出。而更可悲的是，如果在克格勃中还有坚持原则的人，那么他自己反而没有什么好下场。</p>
+<p>1981年12月，莫斯科的演艺圈接连发生两起影响恶劣的重大刑事案件：12月11日，著名演员卓娅·费多洛娃在家中被害；12月30日，著名的马戏团驯虎女郎伊琳娜·布格林莫娃家失窃，许多贵重的珠宝钻石被窃。案件侦破很快，因为4天之后的1982年1月3日，海关在莫斯科截获了一名叫作鲍里斯·布里亚采的人，在他身上发现了伊琳娜·布格林莫娃家被窃的珠宝。但随着调查的深入，案件性质变得越来越严重，调查人员不仅在布里亚采家搜出了许多来历不明的珠宝，还发现他和卓娅·费多洛娃被害案件有千丝万缕的关系。于是，案件被移交给克格勃第一副主席谢苗·库兹米奇·茨维贡负责处理。这桩“珠宝走私案”真相迅速被查清，布里亚采是勃列日涅夫女儿加琳娜的情夫，在他周围有一个“克里姆林宫子女”的圈子，他们疯狂倒卖走私黄金、古董和钻石。布格林莫娃和费多洛娃都是这个团伙中的一员，费多洛娃之所以被害，是因为她掌握了太多团伙犯罪证据而被灭口。</p>
+<p>1982年1月11日，茨维贡已经完全了解了此案的来龙去脉，由于牵涉到勃列日涅夫的家人，他不得不赶往孔策沃别墅向身体状况欠佳的勃列日涅夫做了汇报，要求惩办牵涉其中的加琳娜。勃列日涅夫躺在沙发上听完汇报，一边指示“全部依法律审判”，一边转过身子面朝墙壁哭了。但是接下来的事情完全出乎所有人的意料，1982年1月18日，苏共第二号人物苏斯洛夫紧急从华沙赶了回来，和茨维贡进行了一番“艰难的谈话”，谈得具体内容虽不得而知，但是可以肯定是与加琳娜和“珠宝走私案”有关。谈完之后苏斯洛夫血压升高，直接住进的医院。第二天，也就是1月19日，茨维贡突然蹊跷地自杀了：没有留下任何遗书、遗言，保险柜里面的贵重物品没有任何事先安排过的迹象；而且事前也没有任何征兆，就在当天出门前，他还在和妻子讨论装修别墅的问题，但是出门后不久，他就在一个栅栏旁“使用”警卫员的手枪自戕了。现场只有他和警卫员两人，到底是自杀还是“被自杀”，就成了一桩死无对证的悬案。</p>
+<p>堂堂的克格勃第一副主席，在触犯到勃列日涅夫集团核心利益的时候，就不明不白地“自杀”了。昔日铁面无私，为了国家利益而牺牲一切在所不惜的机构，此时也不得不成为特权集团的看门狗，甚至连稍微有点正义感的人也不允许存在！失去了人民的爱戴，成为权贵的工具，昔日战功赫赫的克格勃，也不得不屈从在苏共特权阶级的意志下，悲哀地成为人民眼中令人厌恶的笑话对象了。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2-%E5%85%8B%E6%A0%BC%E5%8B%83-%EF%BC%8C%E5%9C%A8%E7%AC%91%E8%AF%9D%E4%B8%AD%E5%92%8C%E8%8B%8F%E8%81%94%E4%B8%80%E8%B5%B7%E9%99%B7%E5%85%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%8B%E6%A0%BC%E5%8B%83/?category=18271" rel="tag">克格勃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8B%83%E5%88%97%E6%97%A5%E6%B6%85%E5%A4%AB/?category=18271" rel="tag">勃列日涅夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E8%81%94%E5%8F%B2/?category=18271" rel="tag">苏联史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%AB%E9%B2%81%E6%99%93%E5%A4%AB/?category=18271" rel="tag">赫鲁晓夫</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA%E9%98%B5%E5%9C%B0%E5%8D%B1%E9%99%A9%EF%BC%8C%E5%91%BC%E5%8F%AB%E6%AD%A3%E8%83%BD%E9%87%8F%E6%94%AF%E6%8F%B4/" target="cdt-mirror">【异闻观止】中国舆论阵地危险，呼叫正能量支援！</a>
+</h2>
+<p><p>作者：猫眼看天下</p>
+<p>从百度莆田门到雷某嫖娼死看中国舆论阵地的危险</p>
+<p>五月还没结束，就让人已经感觉到中国网络舆论的乱象。从恶炒常外毒地案，到广东医生被杀案，从百度莆田门到雷某嫖娼死，从新婚抄党章到新安肾消失，从郑州杀人犯被捧红，到苏湘高考减招案，一起接一起负面舆情扑面而来，压得有点让人喘不过气来。一片舆情皆危机，满屏怨声从未息。</p>
+<p>谣言乘风而起，疯传网络却鲜有打击</p>
+<p>众所周知的原因，在中国只要一发生舆情事件，就算是一起并不起眼的普通事（案）件，都有可能被一些黑手进行炒作直至发热发烫，随之而来的，则是各种千奇百怪的谣言，充斥于微信微博和网站新闻。</p>
+<p>魏则西事件发生后，知名网络写手水木然于5月3日发表了一篇《比承包医院更黑：莆田人承包了中国90%的寺庙！》帖文，再次将本已热得发烫的莆田系推上舆论的巅峰，中国的佛教应声中枪，形象也由此大受折损。5月18日，杭州拱墅警方经过侦查，确认此谣言的出处并以涉嫌寻衅滋事罪将造谣者魏某刑事拘留。而抓获造谣者这本是一件令人拍手称快的事，但奇怪的是，各路媒体及网络公知大V，却突然不约而同集体陷入沉默，居然无一家媒体或公知提及此事，他们的冷静，与之前的疯狂喧嚣相比，判若两人。而雷某人嫖娼死事件发生后，某些媒体和死磕律师迫不及待抛出了“下一个嫖娼死就可能是你”、“中国嫖娼合法化”等话题，这种图穷匕首见的歇斯底里，远比那些诸如雷某人被电击视频等谣言的危害更大。</p>
+<p>顺便说一下，雷某人舆情事件持续发酵，产生了较为恶劣的影响，某湃网公然叫嚣限制警察执法权，这是为最后上街扫清障碍么？</p>
+<p>主流媒体失聪，选择性发声令人费解</p>
+<p>部分中国媒体，公知大V、死磕律师等对中国军人是视如仇敌，不把军人黑出翔来誓不收兵，没有丑事，就制造丑事。某外国维和军人性侵当地女子，却被国内媒体配上中国维和警察的照片进行恶意炒作，在中国维和警察愤然反击辟谣之后，这些媒体却象个没事的人似的，连一声道歉都没有。</p>
+<p><span><strong>在魏则西事件中，不少媒体把矛头从武警二院齐刷刷地对准了军队，谣言四起（贫猫一直怀疑这起事件是有预谋的，莆田系并非偶发事件，早就有之，为何偏偏集中在五月爆发？）</strong></span>最后，某报、某网站不得不公开向部队道歉才算了事。再来看4月底发生在日本的驻日美军奸杀日本女孩，有一些媒体和网络大V却摇身一变，俨然完全成了美国利益的代言人，美国形象的自觉维护者。那种胎里生的”不炒作，毋宁死“的优良传统瞬间消失，以异常低调、谨慎的态度简单地报道了这起美军奸杀案，甚至对嫌犯名字也讲究一番，用”弗兰克林“而非”富兰克林“，公知大V们更是视而不见。一说到美国的丑事，那些国内媒体的自我修养一夜间提高了一大截，他们的真实身份令人怀疑。</p>
+<p>而在江苏湖南等地高考减招事件中，一些媒体和自媒体人枉顾事实真相，将根本不相干的视频进行恶意传播，发布各类政府关于高考最新改革措施的虚假信息，不断干扰民众的客观判断，竭力挑起民众的愤怒情绪。某官方媒体无视北京无一块蛋糕分出来的事实，却发文嘲讽江苏官方“半夜鸡叫”，结果网民们回应：你咋不上天咧？！同样，在常州外国语所谓毒地事件中，在调查结果还没有出来的时候，这家媒体就未审先判，在文章中给当地政府扣上了“无视群众利益，掩耳盗铃”的帽子。</p>
+<p>媒体控制权旁落，中国舆论阵地岌岌可危</p>
+<p>自古得民心者得天下。今天可以说得舆论者得天下。<span><strong>细心的人应该不难发现，中国现在的主流媒体，还有多少的控股权属于中国，不是美国就是日本，</strong></span>这些数据在网上应该是不难查到的。境外资本皆占据大额的股份配比，具有很强的内部话语权，它们利用“资本优势”、“技术优势”、“理念优势”，潜移默化地影响了这些企业的根本文化。因此，我们不得不正视一个话题，受外资深刻影响的中国互联网企业，对意识形态领域的偏见，存在可能延伸到为他国政治服务的危险性，甚至成为他国遏制中国网络主权的政治“大棒”。</p>
+<p>从本月连续发生的数起重大舆情事件不难看出，在网络舆情阵地的争夺战中，一些国内外资本媒体已经牢牢掌控了话语权，甚至为数不多的正面主流媒体也患上了间歇性癫痫症，不时冒出痴言妄语，令人费解。比如说雷某人一起普通的治安案件，居然能被炒作成国之殇事；再如说抄党章一事，铺天盖地的吐槽甚至以调侃为名对执政党进行各种高中低级抹黑，甚至出现5月24日江西赣鄱置业有限公司为达到逃避巨额债务目的，雇请民工在高院门口抄党章为噱头进行非法闹访的活动。<strong><span>百度排名引发的魏则西个案能扯上中国的佛教界甚至整个军队，贫猫若说这些都只是偶然事件，背后没有推手，您信么？</span></strong></p>
+<p>面对这种情况，国信办密集出台发布了“微信十条”、“账号十条”、“约谈十条”等，依法处理了一批长期发布有害言论的公知大V和不法网站，有效强化了我国互联网秩序规范。但从长远斗争来看，仅仅靠网信部门一家是远远不够的。网络阵地的主力军，应该是广大网民。从两三年前说一声“我爱你中国”就会在网上被数万人围攻谩骂，到如今很多人都敢于自豪地再说出这句话，我们有理由相信中国互联网世界的明天是光明的。</p>
+<p>也正是有了越来越多的爱国网民的支持，今年以来互联网环境得到了明显的好转，但这并不意味着危险的解除。今年以来，重大负面舆情事件频频发生，各种媒体人密集发声意图搅乱大局，可以肯定，一方面与管理力度不够有关，另一方面也说明黑恶势力愈发猖獗。一些极端主义思潮、极左极右势力、境内外反华势力交织在一起，暗流涌动。<strong><span>可以预言，在接下来的一段时期内，还将会出现更多、更复杂的舆情事件，那些黑手们还将会以更加疯狂的手法不断搅局，试图内外结合，沉船砸锅，这一点我们必须要有清醒的认识。</span></strong></p>
+<p>知名自干五总书记、网络意见领袖@点子正 曾经引用过这句话来形容正能量网民的真实心境：我们的事业并不显赫一时，但将永远存在；而面对我们的骨灰，高尚的人们将洒下热泪。中国的舆论阵地危机重重，愿以此文呼叫正能量聚集、奋起！</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA%E9%98%B5%E5%9C%B0%E5%8D%B1%E9%99%A9%EF%BC%8C%E5%91%BC%E5%8F%AB%E6%AD%A3%E8%83%BD%E9%87%8F%E6%94%AF%E6%8F%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%AB%E7%9C%BC%E7%9C%8B%E5%A4%A9%E4%B8%8B/?category=18271" rel="tag">猫眼看天下</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">网络舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%B8%88%E6%89%80%E5%BC%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8-%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E7%A0%94%E7%A9%B6%E7%94%9F%E9%81%87%E9%9A%BE/" target="cdt-mirror">导师所开工厂爆炸 华东理工研究生遇难</a>
 </h2>
 <p><p>2016年5月23日，位于上海青浦的上海焦耳蜡业有限公司内的工厂发生爆炸，<strong>三人遇难</strong>，其中包括一位名叫李鹏的华东理工大学在读研究生。<strong>根据上海工商公示信息显示，李鹏的研究生导师张建雨是该公司唯一出资人。焦耳蜡业在2015年6月30日进行过法人变更，由张建雨变为疑似原法人哥哥的张建军。这是该公司唯一一次法人变更记录，也就是说从公司成立的2007年4月起至2015年6月，张建雨一直都是法人身份。</strong></p>
@@ -72,7 +198,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%B8%9C
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E6%8A%A4%E8%AE%B0%E8%80%85%E5%A7%94%E5%91%98%E4%BC%9A/?category=18271" rel="tag">保护记者委员会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5%E7%BD%91%EF%BC%9A%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%96%B0%E5%AE%B6%E7%A7%9F%E9%87%91430%E4%B8%87/" target="cdt-mirror">【立此存照】中国日报网：奥巴马新家“租金430万”</a>
 </h2>
@@ -605,127 +731,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BB%8E%E4%B8%AD%E5%B1%B1%E8%A3%85%E5%88%B0%E4%B9%A0%E5%A4%B9%E5%85%8B%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%9C%8D%E8%A3%85%E7%AC%A6%E5%8F%B7/" target="cdt-mirror">纽约时报｜从中山装到“习夹克”：习近平的服装符号</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/26XIJACKET-web1-articleLarge.jpg" rel="attachment wp-att-439000"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/26XIJACKET-web1-articleLarge.jpg?resize=575%2C370" alt="26XIJACKET-web1-articleLarge" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/26XIJACKET-web1-articleLarge.jpg?resize=300%2C193 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/26XIJACKET-web1-articleLarge.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>二月，习近平在北京视察中央电视台的总控中心。他穿的这种夹克展现的是一种日理万机、绝对不光芒四射的形象。  </span> <span>Ma Zhancheng/Xinhua, via Associated Press</span></p></div>
-<p>北京——深色、毫无特点、显而易见的单调，它几乎像保镖一样，始终陪伴着习近平。</p>
-<p>在有关中国国家主席的众多谜团中，最明显的可能就是那种带拉链的藏青色防风夹克，仿佛是他的第二层皮肤。</p>
-<p>毛泽东让衣领紧扣的中山装流行了起来，这种服装甚至直接被称为Mao Suit（毛装）。邓小平也经常穿中山装，不过他的继任者却接受了西方的商务装。</p>
-<p>但习近平如此钟情于他的防风夹克，或许现在可以把它叫做“习夹克”。</p>
-<p>最近去农村考察时，身穿防风夹克的习近平<a href="http://news.xinhuanet.com/photo/2016-04/27/c_128938007.htm" target="_blank" rel="nofollow">挨着</a>一名村民坐着，后者看起来对见到国家领导人而且穿着相似的衣服感到很兴奋。但在更正式的场合，习近平也会穿这种夹克，比如前不久在北京的一次<a href="http://news.xinhuanet.com/photo/2016-05/17/c_128991081_2.htm" target="_blank" rel="nofollow">哲学社会科学工作座谈会</a>上。</p>
-<p>尽管不知道习近平是否公开讨论过自己的着装选择，但这种夹克已经成了他的统治的一种恰当的服装符号。</p>
-<p>它亲民的款式，加上谄媚地称习近平为“习大大”的媒体运动，帮助软化了他更强硬的威权主义锋芒，而它故意不炫耀奢华，又为一名寻求打击官员腐败和铺张浪费的领导人奠定了基调。</p>
-<p>和与习近平有关的大部分人和物——他的饮食习惯、质朴的言语、身为名人的妻子——一样，他的夹克<a href="http://politics.people.com.cn/GB/8198/392365/" target="_blank" rel="nofollow">被中国媒体大肆吹捧</a>，认为它证明了习近平的政治智慧。</p>
-<p>主要的官方通讯社新华社发布的一篇文章称，夹克有着“‘效率先生’的气质”。</p>
-<p>“免熨、利索、耐脏、亲民，”<a href="http://www.qh.xinhuanet.com/2014-04/14/c_1110222529.htm" target="_blank" rel="nofollow">文章</a>写道。“这使得夹克成为中国官场上受欢迎的文官便服。”</p>
-<p>的确，这种款式得到了习近平的同僚和下属的广泛采纳。比如，在去年的一场<a title="Link: http://news.xinhuanet.com/politics/2015-04/03/c_1114868498.htm" href="http://news.xinhuanet.com/politics/2015-04/03/c_1114868498.htm" target="_blank" rel="nofollow">植树活动</a>上，几乎所有高层官员都身着类似的夹克现身。在一个领导人要求不遗余力地保持统一的政府，这似乎不足为奇。</p>
-<p>今年二月，习近平在国家和党主办的新闻机构调研，<a href="http://cn.nytimes.com/china/20160223/c23beijing/" target="_blank" rel="nofollow">告诉</a>那些机构，它们的主要工作是服务共产党。当时，他和同僚都穿着类似的夹克，出现在中央电视台的节目制作现场。流传的官方<a href="http://news.haiwainet.cn/n/2016/0219/c3541083-29653714.html" target="_blank" rel="nofollow">照片</a>上，习近平坐在主持人坐的桌子旁，看上去非常无精打采，身后的随从和他的神情相似，只有两名新闻主播的着装利落时尚。</p>
-<p>这种夹克随意、实际，并且和中山装一样，绝对不光芒四射。它传达了一种民粹主义的、日理万机的形象。</p>
-<p>“它和中山装那种像工蚁似的整齐划一有很大的不同，但依然会令人想起中山装体现的那种精神：节俭、实用、亲民，”澳大利亚新南威尔士大学(University of New South Wales)教授、研究服装在中国的政治象征意义的李木兰(<a href="https://hal.arts.unsw.edu.au/about-us/people/louise-edwards/" target="_blank" rel="nofollow">Louise Edwards</a>)说。“想显示自己该工作了时，他就会穿防风夹克。”</p>
-<p>他说，这种夹克传达的信息是，“管理国家是我的工作，我在努力做这件事，我是政治工作者。”</p>
-<p>习近平<a href="http://news.workercn.cn/c/2011/04/02/110402202923375882167.html" target="_blank" rel="nofollow">不是首位</a>把防风夹克作为会见民众时的服装的中国领导人。它有点像一种“挽起袖子的衬衫”的保暖版，其历史可以追溯到几十年前。习近平的前任胡锦涛也是它的<a href="http://news.ifeng.com/gundong/detail_2012_12/10/20004198_0.shtml" target="_blank" rel="nofollow">铁杆粉丝</a>。</p>
-<p>“夹克由于其轻便大方的特点，使其深受历代国家领导人的喜爱，”亲共产党的香港报纸《大公报》在2014年<a href="http://news.takungpao.com/mainland/focus/2014-03/2374872.html" target="_blank" rel="nofollow">解释</a>道。“夹克形式活泼、富有朝气。”</p>
-<p>记者通过传真发出的有关中国领导人着装规范的问题，未获负责解答政府相关问题的国务院新闻办公室的回复。</p>
-<p>西方领导人在处理公务时很少会不穿西装或礼服，而中国统治者却会像走秀的模特一样随意更换服装，从中山装到西装再到绿色军装，还有防风夹克。对于像习近平这么繁忙的共产党领导人来说，这些可能会出现在同一天的工作场合中。习近平也因此赢得了“<a href="http://cn.nytimes.com/china/20151109/c09sino-barme/" target="_blank" rel="nofollow">全抓全管的老总</a>”的外号。</p>
-<p>夏天，习近平会沿袭传统，穿着白色长袖衬衫和深色裤子与普通百姓打成一片。通常，<a href="http://news.xinhuanet.com/photo/2015-06/18/c_1115651502_4.htm" target="_blank" rel="nofollow">陪同的官员也会效仿</a>。此时的他们，会让人想起一群帝企鹅。</p>
-<p>虽对照片进行了仔细的研究，但迄今为止尚未发现习近平所穿的防风夹克的牌子。中共不会公布这类信息。</p>
-<p>在北京市百货大楼（没错，这就是它的名字），可以买到适合崭露头角的领导干部穿的成衣。在这里，卖带拉链的藏青色防风夹克的品牌有十多个，夹克价格大约在70到700美元之间。</p>
-<p>“在我老家要便宜得多，”坐在百货大楼外的退休人员李传德（音）说。来自中国中部湖北省的他也穿着一件藏青色的拉链式防风夹克。他说，在习近平上台之前很久，他就在穿这种夹克了。</p>
-<p>“习近平是想表现得和我们普通人一样，”他说。“这种衣服哪里都能穿，都没问题。”</p>
-<p>芝加哥保尔森基金会(Paulson Institute)的高级研究员戴青丽(<a href="http://www.paulsoninstitute.org/about/about-our-people/" target="_blank" rel="nofollow">Deborah M. Lehr</a>)表示，对习近平来说，就连鞋的设计意图也是要表明他工作勤勉，无暇顾及令人分心的事物。戴青丽在参加与中国领导人的会议期间，<a href="http://www.huffingtonpost.com/deborah-lehr/in-chinas-great-hall-of-the-people-shoes-speak-louder-than-words_b_9666828.html" target="_blank" rel="nofollow">仔细研究过他们的鞋</a>。</p>
-<p>她说，习近平似乎更喜欢有假鞋带——其实是一些小的塑料凸起物——的鞋子，省去了系鞋带这个耗时、费力的步骤。</p>
-<p>“习主席参加正式会议时，总是会穿总体上没什么特色的深色西装、白衬衫，通常会搭配一条亮色的领带，裤子提得比其他人稍微高一点，”戴青丽在电子邮件中说。“西装好看，但不至于过分好看，很实用，就像他穿的有假鞋带的鞋子一样。”</p>
-<p><em>储百亮(Chris Buckley)是《纽约时报》驻京记者。</em><br><em> 欢迎在Twitter上关注储百亮<a href="https://twitter.com/ChuBailiang" target="_blank" rel="nofollow">@ChuBailiang</a>。</em><br><em> 翻译：纽约时报中文网</em><br><em> <a href="http://www.nytimes.com/2016/05/26/world/asia/china-president-xi-jinping-windbreaker.html" target="_blank" rel="nofollow">点击查看本文英文版。</a></em></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BB%8E%E4%B8%AD%E5%B1%B1%E8%A3%85%E5%88%B0%E4%B9%A0%E5%A4%B9%E5%85%8B%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%9C%8D%E8%A3%85%E7%AC%A6%E5%8F%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%B9%E5%85%8B/?category=18271" rel="tag">习夹克</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E8%A2%96%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">领袖崇拜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/psy-eyes%EF%BD%9C%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E6%94%BB%E8%AE%A6%E6%9C%B4%E6%A7%BF%E6%83%A0%E5%8D%95%E8%BA%AB%E5%8F%8D%E6%98%A0%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">psy-eyes｜心理学问答：攻讦朴槿惠单身反映了什么？</a>
-</h2>
-<p><p>【编者注】唐映红微信原文已被删除。作者微信公号：psy-eyes（ID: psyeyes ）</p>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E6%96%B0%E5%8D%8E%E7%BD%91%E3%80%8A%E8%B5%B7%E5%BA%95%E8%94%A1%E8%8B%B1%E6%96%87%E3%80%8B/">【真理部】新华网《起底蔡英文》</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/">蔡英文在会谈中说了“我说中文有困难”吗？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%AE%BA%E4%BA%8C%E5%A9%9A%E5%AF%B9%E6%9F%90%E4%BA%BA%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E7%9A%84%E5%BD%B1%E5%93%8D/">【网络民议】论二婚对某人政治风格的影响</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91-%E5%8D%95%E8%BA%AB%E5%AF%BC%E8%87%B4%E8%94%A1%E8%8B%B1%E6%96%87%E6%94%BF%E6%B2%BB%E9%A3%8E%E6%A0%BC%E5%81%8F/">【异闻观止】新华网 | 单身导致蔡英文政治风格偏向极端化</a></li>
-</ul></blockquote>
-<p><strong>问：攻讦朴瑾惠单身反映了什么？</strong></p>
-<p>答：<strong>朴槿惠是韩国总统</strong>，<strong>也是</strong><strong>东亚国家或地区的两位女性领导人之一</strong>。与韩国同文同种的朝鲜却动用官方新闻社高调地<strong>攻讦朴槿惠的女性身份，特别是她作为单身女性的身份。</strong>认为“<strong><em>没结婚生孩子的朴槿惠无法理解幸福的人</em></strong>”，甚至认为<em>作为单身女政客，没有“家”的掣肘，没有子女的牵绊，在政治上的行事风格与行事策略，往往偏向情感化、个性化、极端化发展，政治权术上则在战略上考量少，战术细节上考量多，短期目标所示到极致，长期目标则较少顾及。</em>等等。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2-1.jpg" rel="attachment wp-att-438990"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2-1.jpg?resize=400%2C710" alt="image2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2-1.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2-1.jpg?resize=577%2C1024 577w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image2-1.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p>从心理学角度，朝鲜官方新闻社如此高调地攻讦韩国女性领导人的单身，首先反映了朝鲜<strong>官方意识形态上深刻的性别偏见</strong>。一般来说，<strong>对女性有着深刻偏见的个人或组织，往往也同样地对其他弱势群体有着深刻偏见和歧视</strong>，对个体而言，这往往意味着他具有<strong>权威主义人</strong><strong>格</strong>（authoritarian personality）；对组织而言，则反映了<strong>权威主义倾向的组织意识形态</strong>。</p>
-<p>如果一名具有<strong>权威主义人格</strong>的个体，那么他不仅会表现出对弱势人群的一贯的偏见和歧视，无论是女性、少数族裔、小教派、性少数派、社会低底层，在他眼里都是咎由自取；而且，权威主义人格还会对比他强势的人群表现出无原则的膜拜，崇尚强权。换言之，<strong>权威主义人格具有迥异的两副嘴脸：对权威强权的膜拜、跪舔；对弱势群体的歧视、排斥。</strong></p>
-<p><strong>如果一个组织具有权威主义的意识形态，那么它也会表现出对各种弱势人群的一贯的偏见和歧视</strong>，如<strong>政策性地歧视</strong>，甚至<strong>不加掩饰地高调打压</strong>女性、少数民族、西部内陆省份、一小撮异议者，等等。同时，这样的组织会以<strong>社会达尔文主义</strong>（Social Darwinism）<strong>的丛林法则</strong>（the law of the jungle）<strong>作为对内管控、对外交往的价值尺度，他们不相信有什么普世的伦理原则，所有考量的核心仅仅围绕利益。</strong>他们会倾向对外用大撒币的方式来收买、贿赂、拉拢、瓦解所谓的敌对势力；对内则耗费巨额公帑来豢养和维护国家暴力机器，强调先军政治。</p>
-<p>对于一个权威主义人格的个体高调地攻讦女性竞争对手单身，不仅是<strong>缺乏教养</strong>的表现，而且本质上就是<strong>下流</strong>。一个具有权威主义意识形态的组织高调地攻讦同文同种的另一个政权的女性领导人的单身问题，也同样是这个组织<strong>缺乏教养，下流的表现。</strong></p>
-<p>另一方面，作为同文同种不同制度竞争一方，不是通过有理有据的方式来说服对方，不是通过积极努力发展出比对方各位优秀和优越的社会来赶超对方，而是诉诸泼妇骂街式的谩骂和人身攻讦，本身也反映了在不同制度竞争中<strong>已经濒临穷途末路的心态，和理屈词穷的窘境。</strong>本来，朝鲜完全可以用它国名里嵌镶的核心价值观“<strong>民主</strong>”来说服和赶超韩国。（朝鲜的全称为<strong>朝鲜民主主义人民共和国</strong>，朝鲜语为：조선민주주의인민공화국，英语为：Democratic People’s Republic of Korea，缩写为：DPRK）</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3-1.jpg" rel="attachment wp-att-438989"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3-1.jpg?resize=575%2C323" alt="image3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3-1.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3-1.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image3-1.jpg?w=800 800w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>附：朝鲜官方新闻社攻讦朴槿惠言论汇集</p>
-<p><span>1、<strong>臭婆娘、毒蛇、天下头号丑女、恶女。</strong>（朝中社平壤2015年5月17日电，朝鲜全国联合群众团体发言人发表谈话）</span></p>
-<p><span>2、<strong>独裁者，民族的羞耻、悲剧和祸端。</strong>（朝中社平壤2015年5月27日电，朝鲜“祖国统一研究院”发表白皮书）</span></p>
-<p><span>3、<strong>臭嘴、天下头号对抗恶妇、走入坟墓。</strong>（朝中社平壤2015年7月25日电，全国联合群众团体发言人发表谈话）</span></p>
-<p><span>4、<strong>劣迹斑斑的身躯、臭嘴、进入坟墓。</strong>（朝中社平壤2015年8月19日电，全国联合群众团体发言人发表谈话）</span></p>
-<p><span>5、<strong>丧心病狂的老母狗，东西不分、不谙事理的青瓦台疯母狗，不会数数、无知无能、不懂事的头号大笨蛋。</strong>（朝中社平壤2016年2月20日电）</span></p>
-<p><span>6、<strong>熊相、堂吉诃德、骨瘦如柴的躯干。</strong>（朝中社平壤2016年2月27日电 朝鲜社会科学院历史研究员李君灿日前发表题为《穿裙佩剑的现代版堂吉诃德》的文章）</span></p>
-<p><span>7、<strong>没有尾巴的青瓦台老母狗，提着裙子对美国献媚献宠，今天对中国、明天又对日本撒娇，老婊子，母蝙蝠。</strong>（朝中社平壤2016年3月2日电 朝鲜动物学家朴丽恩日前发表题为《天大逆贼的污名——丑陋的母蝙蝠》的文章）</span></p>
-<p><span>8、<strong>似女非女的石女、常与独裁者身边的一些野男人厮混、老母鸡、废鸡、老妖魔、世界一流婊子、狗娘、卖春的荡妇、天下头号恶鬼。</strong>（朝中社平壤2016年3月3日电，朝鲜妇女李秀京近日发表了一篇题为《以妇女的名义剖析罪孽和羞辱的代称——朴槿惠》的文章）</span></p>
-<p><span>9、<strong>围了裙子的老妖怪、冷血动物、稀世罕见的魔女、卖国贼。</strong>（朝中社平壤2016年3月26日电，朝鲜“民族和解协议会”发表长篇控告书）</span></p>
-<p><span>10、<strong>虫子都不如的朴槿惠无赖集团、撒旦集团、匪帮。</strong>（朝中社平壤2016年3月29日电，朝鲜天主教协会中央委员会发言人发表谈话）</span></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/psy-eyes%EF%BD%9C%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E6%94%BB%E8%AE%A6%E6%9C%B4%E6%A7%BF%E6%83%A0%E5%8D%95%E8%BA%AB%E5%8F%8D%E6%98%A0%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E6%9C%9D%E9%B2%9C/?category=18271" rel="tag">北朝鲜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">极权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%89%B9%E7%BA%A6%E8%AF%84%E8%AE%BA%E5%91%98%E6%B0%B4%E5%B9%B3/" target="cdt-mirror">奇闻录 | 人民日报特约评论员水平</a>
-</h2>
-<p><p>日前，山东莱芜一位大爷在当地公园模仿领导干部的讲话爆红网络，他在视频中讲述了自己对莱芜建设发展的一些想法，并且完整背诵了一些中共领导如温家宝的讲话内容。很多网友看完视频后称，虽然有些内容听不太懂，但要推荐他当市长。</p>
-<p></p>
-<p>视频<a href="http://wsqncdn.miaopai.com/stream/f9MVjCxc3Pb5RMQ4TYQGqw__.mp4?yx=&refer=weibo_app">地址</a></p>
-<p>@王子铭呢: 话说，在每个城市的公园、广场、老年人活动室等场所里，每天都会召开政治局扩大会议。</p>
-<p>@竹林ZZY：此人有党校博士文凭。</p>
-<p>@轻描淡写地幸福：这水平要是去写申论，那80以上啊。</p>
-<p>@静思果园：有背景的话能当省长。</p>
-<p>@贺延光: 证明，只要说一样的话，那个位置谁都能干。</p>
-<p>@开心的闲云野鹤：此类大爷官语练得娴熟流利，身在草野，心在庙堂，官当不了，过把嘴瘾再死。病态社会！</p>
-<p>@城阳骑手郭建良：许多领导还真达不到这个水平，接受记者采访前面要有提示板，否则就说不出话来。做过电视采访的小朋友都知道。</p>
-<p>@腾讯网友：高手在民间，废物在机关。</p>
-<p>@哈哈哈哈哈：深刻诠释官方文本的本质：无意义的大量废话的反复 精神病患的表现水平和领导差别不大</p>
-<p>@小米椒妖妖：中了新闻联播的毒。</p>
-<p>@三月不插秧2：好讽刺的画面。扫地老头为什么会模仿这种东西？吸引他的是权力的幻影，即便他不了解自己说的是什么，但这种腔调、文本，这种滔滔不绝使他得到了一种快感，仿佛身居高位。也不必笑话他，许多官员讲起这一套话来，和这个扫地的并无区别，只是这老头没有机会而已。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%89%B9%E7%BA%A6%E8%AF%84%E8%AE%BA%E5%91%98%E6%B0%B4%E5%B9%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E9%95%BF/?category=18271" rel="tag">市长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%97%85%E6%80%81%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">病态社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85/?category=18271" rel="tag">精神病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B2%E8%AF%9D/?category=18271" rel="tag">讲话</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%85%B3%E6%B3%A8%E7%90%86%E6%83%B3%E5%9B%BD%E4%B9%A6%E7%B3%BB%E7%BC%94%E9%80%A0%E8%80%85%E8%A2%AB%E6%8D%95%EF%BC%9F/" target="cdt-mirror">读书旅行｜我们为什么会关注“理想国书系缔造者”被捕？</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%90%86%E6%83%B3%E5%9B%BD.png" rel="attachment wp-att-438960"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%90%86%E6%83%B3%E5%9B%BD.png?resize=400%2C549" alt="理想国" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E5%B9%BF%E5%B8%88%E7%A4%BE%E5%89%8D%E8%91%A3%E4%BA%8B%E9%95%BF%E4%BD%95%E6%9E%97%E5%A4%8F3%E6%9C%88%E5%B7%B2%E8%A2%AB%E6%8D%95-%E6%80%BB%E7%BC%96%E8%BE%91%E5%88%98%E7%91%9E%E7%90%B3%E5%90%8C%E6%9C%9F/" target="_blank">凤凰网｜广师社前董事长何林夏3月已被捕 总编辑刘瑞琳同期被免职</a></p></blockquote>
-<p><em>文/郁风</em></p>
-<p>广西师范大学出版社，原本偏居西南，不大多数人所知，但随着柴静《看见》一书的出版，以及“理想国书系”的接踵推出，让人眼光一新，该社也被公认为人文社科出版领域的翘楚。赢得赞誉之后，该社并没有裹足不前，在人文，启蒙领域继续发力，新书赢得一片叫好又叫座的同时，让人对它的命运也多了一分担忧。今年以来，随着某些书的下架，已有多次该社出版高层被查的传言流出。以致今日，该社原董事长何林夏涉受贿被捕引来了不一般的关注和联想。</p>
-<p>媒体人、出版人因经济问题入狱，之前已不鲜见，2004年，南方都市报的副总编喻华峰与副主编程益中曾因此获罪，但人们更多的将其与之前南都编发的孙志刚案等报道联系起来，而事实上，程益中在入狱半年后被无罪释放。今年甘肃记者张永生曾先后以嫖娼、敲诈罪被捕，事后证明嫖娼纯属子虚乌有，敲诈一事如今当局也对其撤销起诉。现今何林夏因受贿被捕，结合近期的舆论氛围，人们的联想与猜测则更多的有了一丝异样的味道。</p>
-<p>媒体人朱学东对此在微博上称：“何的问题，到底是什么，我不清楚。这个时代收拾人，两条，一财二性。但若个人财务问题，固然是个人咎由自取，但却与相关制度密切相关，这个制度它无视个人付出和成就，逼人为圣，以至于几乎所有体制岗位的每一个有权者，都可能有不义，都可能违法。此前报刊出版已有许多案例。以后还会有。可以肯定的是，体制内做事的力量越来越消解的势头，在新技术新资本带来更多选择可能性的时代，会进一步加速。”</p>
-<p>据熟悉何林夏的人称，何为人胆子大，也因此带出版社闯出了一片天地。有广师大出版社的前员工回忆，何工作勤勉，甚至有时在半夜三四点还在回复邮件。其在用餐时，习惯把纸巾分成两半，将另一半分于他人使用。但其在带领出版社向前打拼的过程中，对他的行事作风和经济情况，也有不同看法传出。</p>
-<p>同时，理想国书系的推出，与广师大出版社总编辑刘瑞林女士也密不可分。在此之前，刘也多次陷入被责罚的传言当中，但据今天网易路标的采访，刘瑞林称其现前一切安好。</p>
-<p>何林夏被查后，人们对广师大出版社及理想国书系的未来走向也多了一分担忧。随着出版社高管的相继被查，人事撤换不可避免，广师大社能否坚持之前的人文启蒙路线，这要打一个大大的问号。同时，何林夏被查，无疑给出版界一场巨大的震荡，其他出版社是否会因此变得更为小心谨慎，也是个未知数。</p>
-<p>何林夏有功，这毋庸置疑，他是否有过，还待检查机关的调查结果公布让更多人信服。但何林夏的功，在一部分人眼中，却是他的过。这也让何夏林在很多人眼中扮演了一个悲情英雄的角色。或许，这才是社会的悲情。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AF%BB%E4%B9%A6%E6%97%85%E8%A1%8C.jpg" rel="attachment wp-att-438959"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AF%BB%E4%B9%A6%E6%97%85%E8%A1%8C.jpg?resize=400%2C190" alt="读书旅行" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/读书旅行.jpg?resize=300%2C143 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/读书旅行.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%85%B3%E6%B3%A8%E7%90%86%E6%83%B3%E5%9B%BD%E4%B9%A6%E7%B3%BB%E7%BC%94%E9%80%A0%E8%80%85%E8%A2%AB%E6%8D%95%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%9E%97%E5%A4%8F/?category=18271" rel="tag">何林夏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%83%B3%E5%9B%BD/?category=18271" rel="tag">理想国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -737,7 +742,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -747,5 +752,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

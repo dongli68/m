@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E8%A3%B4%E6%95%8F%E6%AC%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%8D%B3%E5%B0%86%E8%A6%81%E6%B1%82%E9%87%8D%E5%A4%A7%E5%8F%98/" target="cdt-mirror">博谈网｜裴敏欣：中国的中产阶级即将要求重大变革</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/petrochem_0.jpg" rel="attachment wp-att-454035"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/petrochem_0.jpg?resize=575%2C316" alt="petrochem_0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/petrochem_0.jpg?resize=300%2C165 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/petrochem_0.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>（博谈网记者欧阳剑编译报道）5月26日，裴敏欣在《财富》（Fortune）上发表了同名文章，以下是原文译文。</p>
+<p>一个有关中国的疑问就是其新兴的中产阶级为什么甘于共产党的一党专制。根据民主的基本理论，持续的经济发展会导致民主，而不是独裁的继续残存。</p>
+<p>以中国的情况来看，这一规则似乎并不适用，至少至今还没有出现。根据不同的数据来源，2013年麦肯锡的研究显示中国的中产阶级人数大约是城市人口的70%，而2015年8月对4万户家庭进行的权威调查则认为中国的中产阶级是2亿人。这部分快速增长的中国人口是受过高等教育的，见多识广的，精通技术的，所有这些因素都应该让他们成为政治变革的倡导者。</p>
+<p>但是，与理论相反的是，中国的中产阶级在政治上很被动。或许中国共产党（CCP）不知何故已经发现了无视历史规律的秘方。</p>
+<p>然而，仔细审查中国总体社会经济发展，以及审视庞大且不断增长的中产阶级的政治意涵，应该让我们相信，否认中国的中产阶级是政治变革力量还为时尚早。相反，中产阶级最有可能即将要求突然的巨变。</p>
+<p>当我们衡量中国的社会经济发展，并与过去四十年中向民主转型的中等收入国家进行比较，中国的收入和教育水平正好在中间，以购买力平价衡量人均GDP是1.3万美元，年龄在25岁以上的成年人平均受教育程度是7.5年的学校教育。</p>
+<p>这表明，尽管有着其巨大的经济增长，但中国还没有繁荣到让一党专制无法生存的程度。但是，再过10年左右，中国的收入和教育水平会进一步提升，中产阶级的规模也会变大。换句话说，在未来十年，中国的社会变革会让其更不甘于一党专政的延续。</p>
+<p>国际经验也表明，中国共产党会发现自己越来越难以满足中国中产阶级不断提高的期望。自从天安门镇压以来的27年间，党一直非常成功地实现了一种改善，那就是物质消费的改善。在基本生活必需品和住房汽车的消费上，普通的中产阶级家庭经历了一个很大的飞跃。对于中国中产阶级的大多数人来说，在毛统治下的物质匮乏仍然记忆犹新。任何提供了这种改善的政权至少有一些功劳。</p>
+<p>然而，中产阶级和一个依靠经济表现来持续其权力的暴政面临的一个问题是，中产阶级会不断地提高其期望，这是独裁政权最终无法满足的。</p>
+<p>以中国人的情况来看，现在中产阶级的愿望集中在个人保障和社会保障上，这对中共（CCP）而言将更具挑战性。</p>
+<p>在个人保障方面，中国的中产阶级想要保护他们的权利。这样的愿望是一个视法制为对其权力垄断致命威胁的政权很难满足的。</p>
+<p>最近的一系列事件表明，中国的中产阶级对他们个人的权利越来越敏感，也越来越能够为之发声。一个例子就是北京著名大学的毕业生死亡后引发的全国骚动。雷洋在警察的拘留所离奇死亡。外界普遍认为，他死于警察的施暴，他的死亡让民意爆发，因为很多中产阶级认为同样的厄运可能也会降临到他们身上。</p>
+<p>为中国的中产阶级提供社会保障对中共（CCP）而言将是很困难的挑战。随着中国人口老龄化，中产阶级需要高品质的医疗保健和收入保障。两者都是昂贵的，需要更大程度的监管和财政透明，这些都不是中共（CCP）能够或愿意提供的。</p>
+<p>一个公众可以信任的健保系统必须至少有一个明确和有效的法规，由一个可靠的法律制度和自由媒体来执行。要确保中产阶级退休收入的保障，需要征收专用税款，并专款专用，由此会大大减少中共转移国家财政资源为己用和用于（其认为的）首要目标的能力。</p>
+<p>当然，这些都是中长期的挑战。中共（CCP）在维持其一党专制的同时要满足这些是极不可能的。对中共（CCP）来说，好消息是它还不会马上就面临中产阶级的造反。坏消息是很明显这迟早会发生。</p>
+<p>本文作者裴敏欣是美国克莱蒙特·麦肯纳学院的政府学教授，也是美国‌‌“German Marshall Fund‌‌”的非常驻高级研究员。</p>
+<p><small>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</small></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E8%A3%B4%E6%95%8F%E6%AC%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%8D%B3%E5%B0%86%E8%A6%81%E6%B1%82%E9%87%8D%E5%A4%A7%E5%8F%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%AF%E9%A3%8E%EF%BC%9A%E8%AE%A1%E7%94%9F%E5%B9%B2%E9%83%A8%E7%BB%B4%E6%9D%83%E5%80%BC%E4%B8%8D%E5%80%BC%E5%BE%97%E5%90%8C%E6%83%85%EF%BC%9F/" target="cdt-mirror">凯风：计生干部维权值不值得同情？</a>
 </h2>
 <p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg" rel="attachment wp-att-452886"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?resize=403%2C242" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?resize=300%2C180 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?resize=80%2C48 80w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?w=403 403w" sizes="(max-width: 403px) 100vw, 403px" data-recalc-dims="1"></a></p>
@@ -776,37 +804,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/" target="cdt-mirror">蔡英文在会谈中说了“我说中文有困难”吗？</a>
-</h2>
-<p><p>台湾第一任女总统蔡英文近日接见了美国商务部助理部长贾朵德。经观察者网<a href="http://news.sina.com.cn/c/gat/2016-05-25/doc-ifxsktkr6068873.shtml" target="_blank">报道</a>后，会谈中蔡英文的一处“卡壳”迅速成为了中国网民热议的话题，其中多以讥讽为主。中国数字时代编辑找到了上述会面的完整视频：</p>
-<p><br><span>蔡英文会见美国商务部助理部长完整视频（</span>YouTube<a href="https://youtu.be/7Ul_Kimo_Ik" target="_blank">地址</a><span>；共15分钟）</span></p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%BE%E6%9C%B5%E5%BE%B7.jpg" rel="attachment wp-att-438910"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E8%B4%BE%E6%9C%B5%E5%BE%B7.jpg?resize=500%2C265" alt="蔡英文贾朵德" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=300%2C159 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=768%2C406 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?resize=1024%2C542 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/蔡英文贾朵德.jpg?w=2850 2850w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>YouTube视频截图</span></p></div>
-<h3>第一个争议点：</h3>
-<p> <br>
-会面正式开始前，蔡英文对贾朵德说：<strong>Because the camera is here, I have to say things I want to say in Mandarin. I apologize for that.（因为摄像机在这儿，我需要用国语说我想要讲的内容。抱歉。）</strong></p>
-<p>贾朵德回应：I understand.（我理解。）</p>
-<p><strong>正常解读：</strong>谈话双方都知道蔡英文本可以用英语直接交流（参考：<a href="https://www.youtube.com/watch?v=PHJYjDXhCzE" target="_blank">蔡英文哈佛演讲问答环节 全程英语</a>），但因为现场有摄像机，且这些画面的<strong>主要收看者是台湾观众，所以需要讲中文</strong>，通过翻译进行对话<strong>。</strong></p>
-<p><strong>观察网版本：</strong></p>
-<blockquote><p>其实，两人刚刚落座时，蔡英文就用英文说了一句：“Before the camera here, I have to say…first I want to say in Mandarin.”（在镜头面前，我不得不先用中文讲话。）似乎在蔡英文看来，说中文是“不得已而为之”。</p></blockquote>
-<p><strong>必须指出的是，蔡英文并没有使用”Before the camera””say in Mandarin”这种中式英语。</strong></p>
-<h3>第二个争议点：</h3>
-<p> <br><strong>蔡英文</strong>：很高兴在我上任的这个时刻，看到美国的高层的访问团来台湾访问。那么我了解这是我们（此处卡壳）……贾……</p>
-<p><strong>贾朵德</strong>：知道。</p>
-<p><strong>蔡英文</strong>：I have problem of…saying that thing…the Chinese language…I’m sorry.  我们非常感谢贾朵德助理部长把台湾列作这次行程里的一站。</p>
-<p><strong>正常理解：这里蔡英文明显是卡在“Marcus Jadotte”的中文名“贾朵德”上</strong>，<strong>所以贾朵德此时才会微笑说“知道”</strong>，以示理解。随后蔡英文用英语解释，<strong>自己卡壳是因为用中文读 Marcus Jadotte 的名字有点困难</strong>。</p>
-<p><strong>观察网版本：</strong></p>
-<blockquote><p>“很高兴在我上任的这个时刻，看到美国高级的访问团来台湾访问，我了解这是我们…呃…呃…呃…I have problem of saying Chinese language. I’m sorry. 呃…”蔡英文试图脱稿寒暄几句，不料讲话时突然“卡壳”，令现场尴尬不已，只得用英文自嘲“我说中文有困难”。</p>
-<p>坐在对面的美国人贾朵德忍不住微笑，用中文接了一句：“知道。”</p>
-<p>[…]最后，小编友情提醒，“say Chinese language”是错误用法，正确的动词应该是speak。</p></blockquote>
-<p><strong>这里值得注意的是，原视频中讲话内容的顺序也与观察者网的文章有所出入。</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E4%BC%9A%E8%B0%88%E4%B8%AD%E8%AF%B4%E4%BA%86%E6%88%91%E8%AF%B4%E4%B8%AD%E6%96%87%E6%9C%89%E5%9B%B0%E9%9A%BE%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -818,7 +815,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -828,5 +825,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

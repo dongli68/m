@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E4%BF%9D%E9%99%A9%E4%B8%9A%EF%BC%9A%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%E6%97%B6%E4%BB%A3%E5%B0%86%E7%BB%88%E7%BB%93%EF%BC%9F/" target="cdt-mirror">译读 | 中国保险业：野蛮生长时代将终结？</a>
@@ -45,7 +45,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/psy-eyes-%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%81%90%E6%83%A7%E8%AF%AD%E8%A8%80%E7%9A%84%E5%8A%9B%E9%87%8F/" target="cdt-mirror">psy-eyes | 唐映红：恐惧语言的力量</a>
 </h2>
@@ -163,7 +163,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/528%E4%B8%96%E7%95
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6%E7%BB%9F%E6%B2%BB/?category=18271" rel="tag">专制统治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%BE%B7/?category=18271" rel="tag">东德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E5%90%AC/?category=18271" rel="tag">监听</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">秘密警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4/?category=18271" rel="tag">窃听风暴</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2-%E5%85%8B%E6%A0%BC%E5%8B%83-%EF%BC%8C%E5%9C%A8%E7%AC%91%E8%AF%9D%E4%B8%AD%E5%92%8C%E8%8B%8F%E8%81%94%E4%B8%80%E8%B5%B7%E9%99%B7%E5%85%A5/" target="cdt-mirror">国家人文历史 | 前苏联，不允许正直克格勃的存在</a>
 </h2>
@@ -651,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%B6%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -661,5 +661,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%B6%8C
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

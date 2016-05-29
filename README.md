@@ -21,9 +21,99 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E4%BF%9D%E9%99%A9%E4%B8%9A%EF%BC%9A%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%E6%97%B6%E4%BB%A3%E5%B0%86%E7%BB%88%E7%BB%93%EF%BC%9F/" target="cdt-mirror">译读 | 中国保险业：野蛮生长时代将终结？</a>
+</h2>
+<p><p>本文原载于The Economist<br>
+编译/公仔 & 伍豪<br>
+译读：T-Read | 译读小号二世：WinnieTheFool</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8B%E5%8D%885.36.17.png?resize=596%2C398" alt="Screen Shot 2016-05-28 at 下午5.36.17" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.36.17.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.36.17.png?w=596 596w" sizes="(max-width: 596px) 100vw, 596px" data-recalc-dims="1"></p>
+<p>即便各种各样的高增长在中国已是司空见惯，但保险业的扩张速度也足够令人瞩目。不到4年的时间，保险公司的资产规模便翻了一番，达到13.9万亿元（2.1万亿美元）。销售保单带来的收入也在增加，2016年第一季度同比增长了42%（详见下图）。然而最引人注目的是从业人员数量的增长。仅过去六个月间，保险从业人员就多了200万，达到720万人，比去年年初更是增长了120%。换言之，在如今的中国，大约每50个劳动者中就有一个是卖保险的。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8B%E5%8D%885.32.51.png?resize=516%2C535" alt="Screen Shot 2016-05-28 at 下午5.32.51" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.32.51.png?resize=289%2C300 289w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.32.51.png?w=516 516w" sizes="(max-width: 516px) 100vw, 516px" data-recalc-dims="1"><br><span>光速增长——中国的保险公司 | 蓝色：每年十月保险公司保费同比变化 棕色：保险公司总资产（单位：10亿元） 数据来源：中国保监会 （16年数据于三月份录得）</span></p>
+<p>从一方面讲，中国的保险行业本来就需要高速增长。未来几十年中国的人口将愈发老龄化，然而中国的养老金体系还不成熟。政府希望通过以公共保障为主，私人保险为辅的方式，让人民在垂垂老矣之时免于赤贫。根据保险咨询公司Enhance International的分析，目前政府承担约三分之一的国民医疗费用，保险公司承担不到十分之一，剩下的费用超过一半都要个人买单。负担相当沉重，对老年人来说自然更是如此。</p>
+<p>但是在商业模式仍然薄弱的情况下，过快的扩张可能弊大于利。许多现象可以说明这一点。某些激进的保险公司承诺客户可以从他们的短期保收益投资产品中得到至少6%的回报，在这个本应是理智和清醒的行业中，这样的策略是极其冒险的。在中国股市如此萧条的情况下，为了实现这么高的回报率，保险公司已经开始堆砌债务，牺牲自己的利润。再者，这种短期投资产品并不能解决投资者的养老问题：当这些保单到期后，投资者便可以全额提款退出保险，而他们可能面临的死亡、疾病或事故依然没有保障。</p>
+<p>很明显监管机构已经充分意识到这些问题。今年三月，他们出台了史上最严规定以遏制投机行为。规定禁止保险公司销售一年之内到期的产品，并且逐步淘汰市场上的三年内到期产品。这些规定虽然略显简单粗暴，但有助于避免保险资产负债期限错配（译者注：即保险公司用短期负债滚动的方式进行长期投资，在利率上行周期可能出现流动性紧张和成本上升的再融资风险）的问题。</p>
+<p>本月，监管部门开始把注意力转向扩张最为激进的几家保险公司上。监管人员首先到了富德生命人寿保险公司，最近几个季度该公司的资本规模一直在缩水。然后他们去到安邦，该公司过去两年间把自己的资产翻了50倍。此类调查能够显示出监管部门手中有多少权力。考虑到保险公司背后的政治关系（安邦董事长是邓小平的外孙女婿），许多人都认为安邦会受到优待，但结果是，监管部门叫停了安邦对喜达屋高达140亿美元的收购案，似乎开始同时在国内打压安邦的势头。</p>
+<p>从更根本上，中国政府已经对保险公司偿付能力的评估标准进行大整改，从而迫使保险公司改变经营方式；监管者要求以简单的规模数量来评判公司的资本充足程度。这一举措更接近发达国家的市场标准，根据保单到期时间与保险公司如何利用保费投资来确定资本充足程度。对于那些过分依赖短期保单及过量投资股市的保险公司，规定的准备金持有量还要更大。</p>
+<p>平安保险是中国最大的保险公司之一，该集团的副总经理李源祥预测认为保险公司靠投机野蛮扩张的时代已经终结。“政府早在情况失去控制之前就嗅到了危机。”倘若新规定能够起效，保险公司就必须改变销售策略，说服民众把保险作为避险的手段而不是投资的选择。这样更保险，不过更难销。</p>
+<p>原文地址：http://www.economist.com/news/finance-and-economics/21699170-regulators-try-tame-unruly-parts-important-industry-safe-or-sorry</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E4%BF%9D%E9%99%A9%E4%B8%9A%EF%BC%9A%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%E6%97%B6%E4%BB%A3%E5%B0%86%E7%BB%88%E7%BB%93%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/psy-eyes-%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%81%90%E6%83%A7%E8%AF%AD%E8%A8%80%E7%9A%84%E5%8A%9B%E9%87%8F/" target="cdt-mirror">psy-eyes | 唐映红：恐惧语言的力量</a>
+</h2>
+<p><p>Q&A160528</p>
+<p><strong>谁恐惧语言的力量</strong></p>
+<p>现时代<strong>最伟大的心理学家之一</strong>，<strong>史蒂芬•平克</strong>（Steven Pinker），他还有另一个头衔，最伟大的语言学家之一。其实，出生于加拿大蒙特利尔的平克，可谓是正宗的心理学科班出生。他1976年获得加拿大麦吉尔大学心理学学士学位，1979年取得哈佛大学实验心理学博士学位。</p>
+<p>在推荐平克教授经典著作《<strong>语言本能</strong>》（The Language Instinct）中，中国据说最性感的物理学大咖李淼教授说，“<em>平克是一位了不起的语言学家，心理学家，并具备深厚的生物学功底。</em>”直接就把平克首先标签为“语言学家”。不过，曾提出多元智力理论，在教育心理学领域堪称世界级大咖的霍华德•加登纳（Harward Gardener）教授就只是说，“<em>史蒂芬•平克是世界顶尖的语言研究者。</em>”</p>
+<p>事实上，语言是现代心理学研究最重要也是最主要的领域之一。在被称为心理学史上“第二次革命”的认知心理学的强势崛起，其不可获缺的主要基础之一就是著名<strong>诺姆•乔姆斯基</strong>（Avram Noam Chomsky）所开创的<strong>心理语言学</strong>。从某种意义上说，<strong>平克教授《语言本能》一书，不仅其基本思想来源于乔姆斯基所提出的语言学理论，而且从根本上就是将乔姆斯基所提出的语言学分析理论从心理学实证研究的角度进一步系统阐释并发扬光大了。</strong>在接受媒体采访时，平克认为自己与乔姆斯基的区别在于，“<em>乔姆斯基是一位语言学家，而我所学的专业是实验心理学。</em>”</p>
+<p><strong>　　一位心理学家，或者心理学者研究语言实在是稀松平常。</strong>我所接受的心理学科班训练的三年，所从事的也是语言研究，不过我不敢给自己贴一个“语言学者”的标签，可我是当仁不让的“心理学者”。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8B%E5%8D%885.28.07.png?resize=596%2C334" alt="Screen Shot 2016-05-28 at 下午5.28.07" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.28.07.png?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.28.07.png?w=596 596w" sizes="(max-width: 596px) 100vw, 596px" data-recalc-dims="1"><br><span>现时代最伟大的心理学家之一，史蒂芬•平克（Steven Pinker）</span></p>
+<p>一</p>
+<p>语言之所以在现代心理学里面是最重要也是最主要和最经常的研究领域之一，就在于<strong>人类的高级认知和智力活动都是基于语言的发展和运用。</strong></p>
+<p>例如，人类作为生物物种与黑猩猩、倭黑猩猩在亲缘上是相当接近的，德国马普学会的全基因测序结果表明，人类与黑猩猩、倭黑猩猩的共享基因比例高达<strong>98.7%</strong>。这是一个很惊人的数据，因为两个人类个体最大的基因差异可以达到<strong>1.5%</strong>，超过了人类与黑猩猩、倭黑猩猩的平均基因差异。</p>
+<p>可是，<strong>人类与黑猩猩、倭黑猩猩在智力上却有着天壤之别。</strong>人类可以思考极其复杂的抽象问题，能够交流和传递异常丰富的知识，并发展了璀璨的文化。而黑猩猩、倭黑猩猩仍然与几百万年前一样，与猴子为伍生活在丛林中。</p>
+<p>其间的分别就在于<strong>人类在进化历程中发展出了语言能力，并且成为唯一具有语言能力的物种。</strong>威斯康辛大学的马库斯•佩尔曼（Marcus Perlman）通过对黑猩猩Koko的研究，发现黑猩猩不仅能够通过手势简单地交流，也能够发出有意识的咕噜声来表达，但由于在进化过程中没有发展出类似人类的发声器官，因此无论如何黑猩猩都学不会像人类那样系统的语言。<strong>语言能力是一道障碍，横亘在人类与其近亲物种之间。人类一旦发展出语言能力，其智力就能以突飞猛进之势迅速进化，将黑猩猩远远地抛在脑后。</strong></p>
+<p>在美国影片《星球崛起》里面，<strong>黑猩猩凯撒一旦学会了人类的语言，他和小伙伴们就拥有了逆袭人类的智力并能学习和掌握相关的能力。</strong></p>
+<p><strong>二</strong></p>
+<p>不过，从其本质上来说，语言只不过是<strong>人类认知和表征世界的一种符号体系。</strong>我在这里写下几个字：</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8B%E5%8D%885.29.21.png?resize=535%2C401" alt="Screen Shot 2016-05-28 at 下午5.29.21" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.29.21.png?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.29.21.png?w=535 535w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"><br><span>现时代最伟大的心理学家之一，史蒂芬•平克（Steven Pinker）</span></p>
+<p><strong>这只是几个符号，不会感染任何人，也不可能对任何人构成威胁。</strong>但是，它们所表征的某种微生物，却能通过血液交换，或者性行为途径进行传播，并感染被传播者，摧毁他的免疫系统以至戕害他的生命。</p>
+<p>换言之，“艾滋病毒”这几个字只不过是语言符号，它们是抽象的，不具有任何威胁的力量；但这几个语言符号所表征的事物却对人类个体具有致命威胁。所以，一般情况下，<strong>人们仅仅看到，或者听到这几个语言符号，并不会恐惧它们的力量</strong>，不会担心仅仅看到我这篇文章里写了这几个字符就会被感染艾滋病。人们只有与艾滋病患者共用吸毒针头，或者发生无防护措施的性行为才有可能感染艾滋病。</p>
+<p>可是，<strong>有些人仅仅看到这几个字符就会唤起恐惧或者焦虑。</strong>从心理学角度，有两种情况会使人们恐惧这几个字符，或者因为这几个字符而被唤起恐惧的情绪反应。</p>
+<p>一种情况是<strong>迷信</strong>。现代科学知识普及之前，<strong>人类对超出自身经验和理解的事物和现象往往会发展出种种迷信的观念</strong>，其中就包括对语言符号的恐惧。迷信的人会认为语言符号与它所表征的事物一样给人们带来威胁的力量，所以通过<strong>念咒语、请笔仙</strong>就足以使其感到不安和惶恐。</p>
+<p>另一种常见情况是<strong>内心的虚弱</strong>。他可能与别人共用针头注射毒品，也可能与陌生人发生无防护措施的性行为，他也知道这样的生活方式危险，所以心有惴惴。于是，仅仅看到我写的这几个字符就可能足以唤起他的恐惧。这就好比，<strong>你不能对秃子提“秃”，不能对太监提“丁丁”，他们恐惧这些语言符号，只不过是因为他们内心的虚弱。</strong></p>
+<p>对语言的恐惧现象不仅见诸于个体，也见诸于群体。像美国的敌人们每天对美国进行语言上的诋毁、诬蔑、抹黑、咒骂可谓汗牛充栋，但从来没有见到美国政府或者“人民”因此而感到恐惧，因为恐惧而愤怒。但是，<strong>仅仅美国一些不受政府控制的媒体或个人对美国敌人的批评，却能令敌人的政府和“人民”感到愤怒，因为恐惧而滋生的愤怒。</strong></p>
+<p><strong>三</strong></p>
+<p>语言当然是有力量的，<strong>语言的力量就在于能够调动和唤起读者、听者的感受。</strong></p>
+<p>正是因为人类的语言只不过是一种表征符号系统，我写在前面的“艾滋病毒”几个语言符号，虽然它表征了某种致病的微生物，但每个人对这种微生物的了解不同，以及自身面对这个概念的处境不同，所以，<strong>每个人对“艾滋病毒”这几个语言符号所接收和理解到的意蕴可能完全不同。</strong></p>
+<p>“艾滋病毒”所表征的还只是一种客观存在的实体，一种稳定的自然生命体，但<strong>人们用它来做的表达就可能人言人殊，理解更是五花八门。</strong>如果我无意中把这几个语言符号转给某个罹患艾滋病而不欲为人知的盆友看，他的理解恐怕就要比我想表达的意蕴意味深长得多。</p>
+<p>对于一些抽象的概念，比如对一位名人的评价、批评，尽管这位名人是一种客观的存在，但他的声誉、人格却是<strong>抽象而且具有多义性</strong>，每个人的看法都可能各异。誉之者奉为神圣，毁之者视之若寇本来也实属正常。在这个过程中，<strong>每个人对于意见相左的言论都难免感到不悦，会有表达自己观点的欲望。</strong>所以，关于一位名人的声誉、人格的评价和批评往往就能成为一起公共事件，成为舆论纷争的热点。</p>
+<p>按理说，意见不一，观点各异，但各自畅所欲言，互相碰撞交流，那么清者自清，浊者自浊，<strong>这种言论竞争的过程本身就是去芜存菁的过程。</strong>可是，<strong>总会有人恐惧语言的力量。</strong></p>
+<p>像最近因杨绛女士高龄仙逝而引发的关于她和钱钟书先生伉俪的毁誉之争，就有人恐惧语言的力量。一对才情出众的伉俪拥有忠诚的粉丝十分正常，而粉丝维护他们拥戴的偶像的清誉也无可厚非。但对于那些并非粉丝的人看来，<strong>历经种种人祸不仅幸存而且还得以诸般荣誉加身，誉之过高当然可疑，批评、质疑也实属正常。</strong>正如才情盖世的<strong>莱妮•瑞芬斯丹</strong>（Leni Riefenstahl），拥趸誉之为美学一派的宗师，其美学形式在东亚某大国得以传承光大；而其他人以其依附纳粹，助纣为虐而严厉批评之。<strong>观点冲突，意见对立，拥趸也好，反对者也好，都不必恐惧语言的力量，各自历数事实，纠正偏误，对瑞芬斯丹的研究和理解也就愈加地深入和丰富。</strong></p>
+<p>有意思的是，在毁誉之辩中，其中一派拥护钟杨夫妇的独“善”其身，而认为对其偶像的批评是“<strong>逼人做英雄</strong>”。可是，<strong>语言只能唤起听者、读者的感受，又如何可能“逼”谁就范呢？</strong>“逼”人就范需要<strong>现实的力量</strong>，而<strong>批评者所能运用的只有语言</strong>。<strong>他何以会恐惧语言的力量呢？</strong></p>
+<p>从心理分析的角度，正如例举的“艾滋病毒”会令到一些人心有戚戚，甚至感到恐惧或者焦虑，那只不过是因为他们迷信，或者内心的虚弱。做为一名文化人，显然不便归因为迷信，那么<strong>因为批评者对偶像的批评言论而感到恐惧和不安，最大的可能就只能是内心的虚弱。</strong></p>
+<p>正如心理学所揭示的另一种现象，<strong>人们膜拜的偶像往往反应了膜拜者内心的投射和向往。</strong>钱杨夫妇<strong>在强权下“独善其身”，与一些人倚靠高墙何其相似。</strong>其实，无论是因为利益所驱使，还是胆怯所忌惮而倚靠高墙本也<strong>无可厚非</strong>，总好过为虎作伥。<strong>如果自己能够因此而坦坦荡荡，对批评者的批评言论大可嗤之以鼻，不以为意，又何必上纲上线到“逼人做英雄”？</strong></p>
+<p><strong>能逼人做英雄的，也能逼人闭嘴</strong>。我的一位叫王五四，有着无数化名的朋友，<strong>因为批评那些给予钱杨夫妇誉过其实的拥趸们而遭到一次又一次的删文消声对待。</strong>说起来天可怜见，<strong>连自己的言论文字也不能保住的批评者，又从何而来“逼人做英雄”的本事？</strong>相反，<strong>那些恐惧“逼人做英雄”的批评言论的文化人，他们所倚靠的高墙，有着轻而易举砸碎批评者蛋蛋的现实的力量。</strong></p>
+<p><strong>他们不恐惧高墙的现实的力量，恐惧蛋蛋的语言的力量。</strong></p>
+<p><strong>四</strong></p>
+<p>所以，<strong>语言问题是心理学研究的核心问题。</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/psy-eyes-%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%81%90%E6%83%A7%E8%AF%AD%E8%A8%80%E7%9A%84%E5%8A%9B%E9%87%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/psy-eyes/?category=18271" rel="tag">psy-eyes</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E8%AF%AD%E8%A8%80/?category=18271" rel="tag">官方语言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">思想控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%AD%E8%A8%80/?category=18271" rel="tag">语言</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%B8%AF%E5%AA%92%EF%BC%9A%E5%86%9B%E4%B8%AD%E6%89%93%E8%99%8E%E7%8C%9B%E5%B0%86%E8%87%AA%E5%B7%B1%E6%88%90%E8%80%81%E8%99%8E/" target="cdt-mirror">德国之声 | 港媒：军中“打虎”猛将自己成“老虎”</a>
+</h2>
+<p><p>作者：任琛</p>
+<p>香港媒体《南华早报》本周六援引中国军中消息人士报道称，中国军队的反腐纪检机关已经以涉嫌贪污的名义逮捕了中国人民解放军少将廖锡俊。但发起调查的很有可能是廖锡俊胞兄廖锡龙的政治对手。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8B%E5%8D%885.12.58.png?resize=518%2C292" alt="Screen Shot 2016-05-28 at 下午5.12.58" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.12.58.png?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.12.58.png?w=518 518w" sizes="(max-width: 518px) 100vw, 518px" data-recalc-dims="1"><br><span>中国军队的腐败现象严重</span></p>
+<p>（德国之声中文网）《南华早报》称是从多名和军方交往密切的消息人士口中获得上述消息的。据称，调查人员在突击搜查廖锡俊位于贵州省贵阳市住地的过程中发现了数千万人民币现金和大量贵重物品。</p>
+<p>报道称，廖锡俊的哥哥廖锡龙如今是一名退伍将军。他也是习近平在推进 军队反腐过程中的一名干将。据称，调查人员突击检查了廖锡俊在贵阳拥有的三处住所。共查获大约3700万人民币现金及黄金等其他物品。消息人士透露，中国省级军方领导已经于上周五得到了相关消息的通报。</p>
+<p><strong>“军中某条龙是顶不住了”</strong></p>
+<p>同时，在中国社交媒体新浪微博上自称是”抗美援朝战史学者、军史作家。铁原大血战名将蔡长元之子蔡小心”于5月25日在个人微博帐户上发布了一张豪华客厅的照片。并附言：”看来，军中某条龙是顶不住了，掉下来是时间早晚的问题。”此帖下面有不少网友留言称，蔡小心所指的”某条龙”就是廖锡龙。</p>
+<p>廖锡龙1959年入伍，在贵州省军区17军从一名普通的战士升为连长。随后因参加了中越战争中的指挥工作，获邓小平重任。于1995年出任成都军区司令员。2000年6月21日，廖锡龙被授予上将军衔。廖锡龙曾一度协助前中国国家主席刘少奇之子–上将刘源扳倒了解放军总后勤部的”老虎”谷俊山。</p>
+<p>据消息人士透露，上将刘源在军中执行习近平”打虎”令的过程中，曾得到廖锡龙的大力支持。网上流传的一份”向总后告別讲话全文”的演讲稿中，刘源表示谷俊山是”徐才厚安插在总后的泼皮无赖”。如果没有廖锡龙部长下决心”我重回总后还不满一年，又怎么会没事找事呢？”</p>
+<p>2015年8月10日，中国军事法院一审认定谷俊山犯贪污罪、受贿罪、挪用公款罪、行贿罪、滥用职权罪，数罪并罚，决定 执行死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产，赃款赃物予以追缴，剥夺中将军衔。<br>
+就此，消息人士向《南华早报》表示，最新抓捕廖锡俊的行动很有可能是之前被查处军中”老虎”残余亲信的一种反扑。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%B8%AF%E5%AA%92%EF%BC%9A%E5%86%9B%E4%B8%AD%E6%89%93%E8%99%8E%E7%8C%9B%E5%B0%86%E8%87%AA%E5%B7%B1%E6%88%90%E8%80%81%E8%99%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%96%E9%94%A1%E9%BE%99/?category=18271" rel="tag">廖锡龙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%89%93%E7%A0%B4%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A6%81%E5%BF%8C%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%96%E7%95%8C%E7%BB%8F%E6%9C%9F%E5%8D%AB/" target="cdt-mirror">端传媒 | 打破不能说的禁忌，今天是“世界经期卫生日”</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%888.38.41.png?resize=553%2C368" alt="Screen Shot 2016-05-28 at 上午8.38.41" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.38.41.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.38.41.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>高洁丝（Kotex）公司日前在纽约第五大道开设的经期商店（The Period Shop），内有从食品到服务等各种为经期女性提供的产品。来源：U by Kotex Twitter</span></p>
@@ -73,7 +163,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/528%E4%B8%96%E7%95
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6%E7%BB%9F%E6%B2%BB/?category=18271" rel="tag">专制统治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%BE%B7/?category=18271" rel="tag">东德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E5%90%AC/?category=18271" rel="tag">监听</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">秘密警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4/?category=18271" rel="tag">窃听风暴</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2-%E5%85%8B%E6%A0%BC%E5%8B%83-%EF%BC%8C%E5%9C%A8%E7%AC%91%E8%AF%9D%E4%B8%AD%E5%92%8C%E8%8B%8F%E8%81%94%E4%B8%80%E8%B5%B7%E9%99%B7%E5%85%A5/" target="cdt-mirror">国家人文历史 | 前苏联，不允许正直克格勃的存在</a>
 </h2>
@@ -550,187 +640,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%B6%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%80%E4%BB%BD%E8%80%90%E4%BA%BA%E5%AF%BB%E5%91%B3%E7%9A%84%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E9%AB%98%E7%BA%A7%E9%BB%91/" target="cdt-mirror">精读党报｜一份耐人寻味的调查：如何识别高级黑</a>
-</h2>
-<p><blockquote><p><strong>推荐阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E3%80%90cdtv%E3%80%91%E6%80%BB%E7%90%86%E5%95%8A%EF%BC%8C%E4%BD%A0%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%A4%A7%E6%81%A9%E4%BA%BA%EF%BC%8C%E5%97%A8%E5%97%A8%E5%97%A8%EF%BC%81/">【CDTV】总理啊 你就是我们的大恩人 嗨嗨嗨！</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/431730/">【CDTV】湖南省书记向习近平汇报歌曲《不知该怎么称呼你》</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E3%80%90cdtv%E3%80%91%E9%81%AD%E5%88%A0%E7%9A%84%E9%A2%82%E4%B9%A0%E7%A5%9E%E6%9B%B2%EF%BC%9A%E4%B8%9C%E6%96%B9%E5%8F%88%E7%BA%A2%EF%BC%8C%E5%A4%AA%E9%98%B3%E9%87%8D%E5%8D%87/">【CDTV】遭删的颂习神曲：东方又红，太阳重升</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/" target="_blank">枫行天下｜秦枫：西藏代表团戴习近平像章</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%85%9A%E6%8A%A5%E7%9A%84%E6%97%A5%E5%B8%B8%EF%BC%9A%E4%B9%A0%EF%BC%8C%E4%BD%A0%E6%98%AF%E5%94%AF%E4%B8%80/">【图说天朝】党报的日常：习，你是唯一</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/12/423513/">【立此存照】习总办公室 大家来找茬</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%89%E5%B2%81%E5%8D%8A%E5%B0%8F%E5%AD%A9%E8%83%BD%E9%80%9A%E8%AF%BB%E3%80%8A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86/">【异闻观止】三岁半小孩能通读《习近平谈治国理政》</a></li>
-</ul></blockquote>
-<p>近日，人民论坛问卷调查中心发起一份调查：“高级黑”，究竟如何识别？</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E7%BA%A7%E9%BB%911.jpg" rel="attachment wp-att-439029"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E7%BA%A7%E9%BB%911.jpg?resize=500%2C154" alt="高级黑1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高级黑1.jpg?resize=300%2C92 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高级黑1.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>文章首先说：</p>
-<blockquote><p>近年来网络上兴起一个词——“高级黑”，意思是用高等、文明、幽默的语言来“黑”某个事物。比如，表面上听着是在夸你，实际起到的效果是害你；看起来对你绝对忠心，实际上是捧高摔你；听着是在客观地指出你的缺点，实际上是在恶意中伤你……</p></blockquote>
-<p>做这个调查，想了解什么呢？文章列出以下几种：</p>
-<blockquote><p>对于“高级黑”，它有哪些典型的特征，如何识别？“高级黑”和“一般黑”有何区别？发表“高级黑”言论的人，多持有什么样的心态和目的？“高级黑”会带来哪些值得警惕的社会危害……</p></blockquote>
-<p>杜宝俊查了一下，《人民论坛》创刊于1992年，人民日报社主管主办，其刊名由江泽民题写。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E7%BA%A7%E9%BB%912.jpg" rel="attachment wp-att-439028"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%AB%98%E7%BA%A7%E9%BB%912.jpg?resize=500%2C145" alt="高级黑2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高级黑2.jpg?resize=300%2C87 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/高级黑2.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>《人民论坛》这份问卷，涉及的问题包括“高级黑”的主要表现、特点、手法、抹黑对象、传播主体、传播渠道、传播主体及其心态、涉及领域、后果，以及如何应对等多个问题，可以说是面面俱到。</p>
-<p>每项问题之下，调查都详细列举的多个选项，供网友选择。</p>
-<p>比如，现实中“高级黑”的主要表现？，列举了多达9个选项。其中有：</p>
-<blockquote><p>过度热情地表忠心唱赞歌，实际上是帮倒忙。</p></blockquote>
-<p>还有：</p>
-<blockquote><p>对上级精神偷换概念，转移话题，诱导反向解读。</p></blockquote>
-<p>透过这些选项的设计，杜宝俊认为，调研者其实已有自己想法。</p>
-<p>目前，这份问卷调查，尚无法查看网友的投票结果。</p>
-<p>杜宝俊把这份调查问卷原样照搬过来，感兴趣的朋友可以参与下。（由于微信公众号最多只能放10个问题，原问卷有12个问题，第8个问题“据您观察和了解，那些发表‘高级黑’的人，多持有什么样的心态或目的？”以及第9个问题，“据您观察和了解，‘高级黑’在哪些领域更突出？”未能列入。</p>
-<p>1.据您观察和了解，与之前相比，近几年来“高级黑”出现的频率和数量？（单选）</p>
-<blockquote>
-<ul><li>更多了</li>
-<li>更少了</li>
-<li>没变化</li>
-</ul></blockquote>
-<p>2.在您看来，“高级黑”和“一般黑”的主要区别有?（多选）</p>
-<blockquote>
-<ul><li>“一般黑”直接唱反调，“高级黑”通常反话正说，表达隐晦</li>
-<li>“一般黑”站在你的对立面，“高级黑”很多隐藏在对你好、对你忠心的外衣下</li>
-<li>“一般黑”只是黑一点，“高级黑”往往是黑一片</li>
-<li>“一般黑”黑的是表面，“高级黑”则黑的是本质</li>
-<li>如果“一般黑”是直接反应，“高级黑”则是带有阴谋、蓄意，要精心策划一番<br>
-其他</li>
-</ul></blockquote>
-<p>3.据您观察和了解，现实中“高级黑”的主要表现有？（多选）</p>
-<blockquote>
-<ul><li>人为拔高，好人好事上升为“高大全”，让人感觉太假</li>
-<li>过度热情地表忠心唱赞歌，实际上是帮倒忙</li>
-<li>粗暴对待质疑言论或不同意见，加重逆反心理</li>
-<li>对上级精神偷换概念，转移话题，诱导反向解读</li>
-<li>为“引导舆论”而扭曲事实，反遭质疑炮轰</li>
-<li>突发事件中某些官员封闭信息、推卸责任，加重民怨</li>
-<li>负面新闻报道夸大事实，放大负面效果，挑拨对立情绪</li>
-<li>将社会痼疾归咎于政治制度，把对现实的不满归咎于“现存体制”</li>
-<li>“揭秘”“内幕”扭曲事实或选择性呈现，引发负面联想</li>
-<li>其他</li>
-</ul></blockquote>
-<p>4.据您观察和了解，“高级黑”的主要特点有？（多选）</p>
-<blockquote>
-<ul><li>明褒实贬——表面上是在褒扬，实际上是丑化</li>
-<li>隐晦难辨——在抹黑效果显现之前很难被察觉</li>
-<li>靶子效应——报道或信息呈现的对象变成公众批评质疑的靶子</li>
-<li>心照不宣——往往只可意会不可言传</li>
-<li>常与官僚主义相伴——官僚主义越重，越容易被黑</li>
-<li>其他</li>
-</ul></blockquote>
-<p>5.据您观察和了解，“高级黑”的主要手法有?（多选）</p>
-<blockquote>
-<ul><li>暗语影射</li>
-<li>反语捧杀</li>
-<li>夸大其词</li>
-<li>扭曲事实</li>
-<li>偷梁换柱</li>
-<li>借题发挥</li>
-<li>其他</li>
-</ul></blockquote>
-<p>6.据您观察和了解，“高级黑”的抹黑对象主要有（多选）</p>
-<blockquote>
-<ul><li>党的理论、路线方针政策</li>
-<li>社会主义制度</li>
-<li>政府形象、官员形象</li>
-<li>党和国家重大改革举措</li>
-<li>社会敏感事件</li>
-<li>公众人物</li>
-<li>其他</li>
-</ul></blockquote>
-<p>7.据您观察和了解，“高级黑”言行的传播主体主要有（多选）</p>
-<blockquote>
-<ul><li>青年网民</li>
-<li>主流媒体</li>
-<li>商业类媒体</li>
-<li>党政干部</li>
-<li>专家学者</li>
-<li>敌对势力</li>
-<li>普通民众</li>
-<li>其他</li>
-</ul></blockquote>
-<p>8.据您观察和了解，“高级黑”更多通过哪些渠道发布或传播？（单选）</p>
-<blockquote>
-<ul><li>电视、报纸、杂志等传统媒体</li>
-<li>微博、微信、网络社区等新媒体</li>
-<li>课堂、讲座、沙龙等公开场合</li>
-<li>亲友聚会、茶余饭后聊天等私人场合</li>
-<li>其他</li>
-</ul></blockquote>
-<p>9.据您观察和了解，“高级黑”带来了哪些后果？（最多选三项）（多选）</p>
-<blockquote>
-<ul><li>抹黑了党和政府的形象</li>
-<li>激化了社会冲突与矛盾</li>
-<li>恶化了干群之间的关系</li>
-<li>扰乱了政治生态环境</li>
-<li>扭曲了人们的价值观念</li>
-<li>其他</li>
-</ul></blockquote>
-<p>10.在您看来，“高级黑”现象当如何应对？（多选）</p>
-<blockquote>
-<ul><li>提高组织和个人对“高级黑”行为的识别判断能力</li>
-<li>列出“高级黑”者的典型特征，让其无处匿藏</li>
-<li>一经时间和实践证明属于“高级黑”的，对其问责</li>
-<li>在全党全社会营造实事求是的良好文化氛围</li>
-<li>不回避重大问题，引导积极有序的研究和讨论</li>
-<li>其他</li>
-</ul></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%80%E4%BB%BD%E8%80%90%E4%BA%BA%E5%AF%BB%E5%91%B3%E7%9A%84%E8%B0%83%E6%9F%A5%EF%BC%9A%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E9%AB%98%E7%BA%A7%E9%BB%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%AA%E4%B8%80%E6%A0%B7%E7%9A%84%E9%98%9F%E5%8F%8B/?category=18271" rel="tag">猪一样的队友</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%9C%A5%E5%A4%A7%E5%A4%A7%E8%AE%A9%E8%9B%A4%E8%9B%A4%E9%97%AD%E5%98%B4/" target="cdt-mirror">【麻辣总局】蜥大大让蛤蛤闭嘴</a>
-</h2>
-<p><p>@三联生活周刊 ：【有趣！青蛙呱呱叫不停 被变色龙“封嘴”】土耳其业余摄影师Sener博士在一次大学考察时拍到了这样一组照片：一只叫声吵人的青蛙惹一只变色龙烦心，变色龙顺着树枝爬过去直接堵住了青蛙的嘴。（图：视觉中国）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CjV5twcVEAAUkja.jpg?resize=596%2C483" alt="CjV5twcVEAAUkja" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CjV5twcVEAAUkja.jpg?resize=300%2C243 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CjV5twcVEAAUkja.jpg?w=596 596w" sizes="(max-width: 596px) 100vw, 596px" data-recalc-dims="1"></p>
-<p>@V研客：不要总想搞个大新闻。</p>
-<p>@单身的狗：这个蜥大大有点厉害。</p>
-<p>@前进的战士呢：摄影师肯定在变色龙的手上涂了502胶！</p>
-<p>@经略幽燕我童贯: 你们啊，整天嘻嘻哈哈，不务正业，闭嘴！</p>
-<p>@apolnysus：蜥大大：闷声发大财！</p>
-<p>@青争里予：憋说话，听我背书名。</p>
-<p>@TeDoIcLee：年轻人，活着不好么？</p>
-<p>@this回复有毒：蜥进平的安抚：好好休息，工作就留给我们这些寿命长的年轻人吧。</p>
-<p>@玻璃味西瓜气泡：青蛙： I’m angry.</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E8%9C%A5%E5%A4%A7%E5%A4%A7%E8%AE%A9%E8%9B%A4%E8%9B%A4%E9%97%AD%E5%98%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E4%B8%9D/?category=18271" rel="tag">蛤丝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9B%A4%E8%9B%A4/?category=18271" rel="tag">蛤蛤</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%9C%A5%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">蜥大大</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E4%BB%AC%E6%9C%80%E5%B9%B8%E7%A6%8F/" target="cdt-mirror">【立此存照】我们最幸福</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/1916961712/DxiCKzAhB" target="_blank">@短账号</a>：噢大家开心就好咯<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"><img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">。</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48okzetsij20hs1bd4b1.jpg" rel="attachment wp-att-439015"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48okzetsij20hs1bd4b1.jpg?resize=450%2C1199" alt="724283b0jw1f48okzetsij20hs1bd4b1" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48ol0586kj20hs0xa0yz.jpg" rel="attachment wp-att-439014"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48ol0586kj20hs0xa0yz.jpg?resize=450%2C842" alt="724283b0jw1f48ol0586kj20hs0xa0yz" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48ol0586kj20hs0xa0yz.jpg?resize=547%2C1024 547w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48ol0586kj20hs0xa0yz.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48okxu0cnj20hs2im1j6.jpg" rel="attachment wp-att-439013"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48okxu0cnj20hs2im1j6.jpg?resize=450%2C2294" alt="724283b0jw1f48okxu0cnj20hs2im1j6" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48olxn59rj20hs0f7449.jpg" rel="attachment wp-att-439012"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48olxn59rj20hs0f7449.jpg?resize=500%2C427" alt="724283b0jw1f48olxn59rj20hs0f7449" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48olxn59rj20hs0f7449.jpg?resize=300%2C256 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48olxn59rj20hs0f7449.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48olzqnevj20hs1es196.jpg" rel="attachment wp-att-439011"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48olzqnevj20hs1es196.jpg?resize=450%2C1285" alt="724283b0jw1f48olzqnevj20hs1es196" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48olzqnevj20hs1es196.jpg?resize=105%2C300 105w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48olzqnevj20hs1es196.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48om2bjtcj20hs1nd1cg.jpg" rel="attachment wp-att-439010"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48om2bjtcj20hs1nd1cg.jpg?resize=450%2C1503" alt="724283b0jw1f48om2bjtcj20hs1nd1cg" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48om4by76j20hs1ejk7x.jpg" rel="attachment wp-att-439009"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48om4by76j20hs1ejk7x.jpg?resize=450%2C1279" alt="724283b0jw1f48om4by76j20hs1ejk7x" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48om6l54dj20hs1gz7n8.jpg" rel="attachment wp-att-439008"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48om6l54dj20hs1gz7n8.jpg?resize=450%2C1341" alt="724283b0jw1f48om6l54dj20hs1gz7n8" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48om8kwx5j20hs13agyq.jpg" rel="attachment wp-att-439016"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/724283b0jw1f48om8kwx5j20hs13agyq.jpg?resize=450%2C994" alt="724283b0jw1f48om8kwx5j20hs13agyq" data-recalc-dims="1"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@Ken工作充：「幸福感来自比烂」，「安全感要靠网上发声」，「遭遇不幸的弱者都是活该」…微博上还真是不少这种魔幻精神演出</p>
-<p>@DanFara：别国女性的苦难:触目惊心！好可怕！庆幸生活在中国！自己国家女性的苦难:有吗？没听说过哎。只要闭上眼睛，世界永远是岁月静好的。</p>
-<p>@西又大人：要么闭目塞听 要么一谈到黑暗面就拿别国刷新底线 从他们对董珊珊魏则西陈仲伟雷洋张际勇们的态度应该就能分辨出来 别国人的生死更不可能放在眼里的 他人的血泪不过用以展示顺民的优越感的谈资</p>
-<p>@这是个小号你发现了么：这不一样，我国的特殊国情会告诉我们这种事的发生都是受害人的错，你看只要她们乖乖的不嚷嚷不就没事了嘛，所以说到底我国还是安全的，屌渣能有错嘛？</p>
-<p>@月半狐狸：他们会说这种比例很低，所以整体是幸福的，不幸的女人都是自找的，你是好女人谁会拐卖你侵犯你？</p>
-<p>@喵星人袭击地球：童养媳是啥？2016年了好吗，用这个词是什么意思？明明童就是儿童，养就是囚禁！媳就是性奴！！加一起就是囚禁儿童作性奴！！</p>
-<p>@从前叫人家小甜甜现在叫牛夫人：前段时间不是还有河南某十四岁女孩晒“甜蜜”大肚照么，童婚在西部地区尤其是宁夏那种地方有很多，只不过小粉豚们眼睛瞎心也瞎看不到而已。</p>
-<p>@哲学家国王：强行幸福，小粉红既蠢且坏。</p>
-<p>@逸览狂澜：捂住眼睛歌舞升平</p>
-<p>@球磨巡洋舰舰长：你看不见，中国便不黑暗。</p>
-<p>@甜心小软糖：感谢国家帮我们挡住黑暗！让我们以为身处光明！（呸</p>
-<div><a href="http://weibo.com/5081719149" target="_blank">@WRY-一个老爷苏</a><i></i>：天朝不是国情好，是国民瞎<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></div>
-<p>@midpushplease：来世还在种花家，喷了</p>
-<p>@維秋Tse：小粉紅氣的漲紅了臉，爭辯道家庭糾紛的事能算強姦嗎？警察都說了！接連便是難懂的話，什麼這盛世，種花家，你若不看，便沒有黑暗之類的話，引得眾人都哄笑起來，微博里充滿了快樂的空氣[鮮花]</p>
-<p><a href="http://weibo.com/n/%E7%8E%8B%E9%A5%BF%E5%B0%8F%E5%A7%90?from=feed&loc=at" target="_blank">@王饿小姐</a>：还是那句话，有些人啊，涉及到社会福利，平均工资的时候你们要和发达国家比，涉及到女性权利的时候你们却要和非洲印度比，要脸吗？<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<blockquote><p>附：<a href="http://news.163.com/16/0526/02/BNV7DDPE00014AED.html" target="_blank">网易｜重庆童养媳婚内遭受家暴 8年4次逃跑终成功(图)</a></p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E4%BB%AC%E6%9C%80%E5%B9%B8%E7%A6%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%99%E7%9B%9B%E4%B8%96%E5%A6%82%E4%BD%A0%E6%89%80%E6%84%BF/?category=18271" rel="tag">这盛世如你所愿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -742,7 +651,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -752,5 +661,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

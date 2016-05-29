@@ -21,9 +21,104 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B6%8A%E5%8D%97%E6%BC%94%E8%AE%B2%E5%85%A8%E6%96%87/" target="cdt-mirror">【真理部】奥巴马越南演讲全文</a>
+</h2>
+<p><p>各网站请迅速清理奥巴马越南演讲全文，并报数。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>附：奥巴马越南演讲全文 （转自<a href="http://www.voachinese.com/content/vietnam-obama-20160527/3349380.html" target="_blank">美国之音</a>）</p>
+<p>你好！（掌声）你好越南！（掌声）谢谢，感谢你们。感谢越南政府与人民在我这次到访时所展现的欢迎与热情。谢谢到场的各位。（掌声）这里有来自你们伟大国家各地的越南人，还有这么多年轻人，你们代表着活力、人才,你们是越南的希望。</p>
+<p>在这次访问中，我的心被越南人民广为人知的热情所感动。很多人站在路边向我微笑、挥手致意，让我感受到两国人民的友谊。我昨晚参观了河内老城区，品尝了越南美食。我吃了烤肉米线，喝了河内啤酒。不过我不得不说，我这辈子从来没有看到过像河内繁忙的街道上这么多摩托车。（笑声）所以呢，我还没有尝试过马路，不过等我下次再来访问时，你们可以告诉我怎样来过马路。</p>
+<p>我并不是近代来访越南的第一位美国总统，不过像你们中很多人的年纪一样，我是首位在两国战争结束后成年的总统。当年最后一批美国部队离开越南时，我只有13岁。所以，我对越南和越南人民的初步了解是在夏威夷，夏威夷有着让我们引以为豪的越南裔美国人社区。</p>
+<p>不过，越南的很多人比我年轻得多。像我的两个女儿一样，你们许多人只知道两国的一种状态，那就是越南与美国的和平和正常化关系。所以我来到这里，铭记过去，铭记我们艰难的烈士，然而更是聚焦于未来，我们能够一同推进的繁荣、安全与人类尊严。</p>
+<p>我也带着对越南悠久文化遗产的深深敬意来到这里。数千年来，农夫们耕耘着这块土地，铜鼓见证了这段历史。在这段弯曲的河流孕育了河内一千多年的历史。世界珍视越南丝绸和绘画，文庙是越南人民寻求真知的见证。然而，数百年来，越南的命运经常被他人主宰，越南的国土并不总是属于它的人民。然而，越南人民不屈的精神如竹子一般，就像李常杰将军说的一样——“南方的皇帝统治南方的土地。天书镌刻着我们的命运。”</p>
+<p>今天，我们要铭记经常被忽视的越南人民与美国人民之间更悠久的历史。 200多年前，美国国父托马斯· 杰弗逊为他的农场寻找稻谷时，他看到的是越南稻谷。他说越南大米有着“色泽最白，口味最好，产量最高”的声誉。不久之后，寻求商业机会的美国商船就抵达了越南港口。</p>
+<p>第二次世界大战期间，美国人来到越南支持你们反占领的斗争。美国飞行员被击落，越南人民向他们施以援手。在越南宣布独立的当天，人群走上河内街头，胡志明援引了美国独立宣言。他说：“人人生而平等，造物主赋予他们若干不可让与的权利，其中包括生存权、自由权和追求幸福的权利。”</p>
+<p>本来，这些共同理想的表述和打败殖民主义的类似经历可以使我们更早地走到一起，但是，冷战的对抗以及对共产主义的恐惧却使我们陷入了冲突。与人类历史上的其它冲突一样，我们从中再次明白了一个苦涩的事实：那就是，不管战争的动机如何，都造成苦难和悲剧。</p>
+<p>在距这里不远的战争纪念碑和越南各地家庭的祭坛中，铭记着三百万失去生命的越南人，他们来自南方北方，有战士有平民。在我们华盛顿的越南纪念墙上，有58315位在战争中阵亡的美方人员。两个国家里，我们的退伍老兵和家庭仍然为失去朋友和亲人感到悲痛。我们美国人认为，即使我们对战争观点不同，我们必须要尊重军人，在他们回家时给予他们应有的尊重。今天，越南人与美国人，我们一同承认双方人员所承受的痛苦和做出的牺牲。</p>
+<p>近二十年来，越南取得了巨大的进步，今天，世界看到你们所取得的巨大成就。 通过经济改革以及与包括美国在内的国家签署的一系列贸易协议，你们融入了全球经济，向世界各地出售越南商品。更多的外国投资进入越南。作为亚洲发展最快的经济体之一，越南已经成为中等收入国家。</p>
+<p>从河内和胡志明市的摩天大厦和高层建筑，新的大商场和市区中心，我们看到了越南的进步。 从越南发射升空的卫星，网上创业和运营新企业的新一代越南人身上，我们看到了越南的进步。从脸书和Instagram数百万越南用户身上，我们看到了越南的进步。你们并不只是发自拍照，不过我听说你们特别喜欢自拍（笑声），到现在，已经有好几个人要我一起自拍。你们也在网上为关心的事情发声，例如挽救河内的老树。</p>
+<p>这些活力给人们的生活带来了真正的改善。越南的赤贫人数大幅减少，家庭收入增加，数百万人进入快速壮大的中产阶级。饥饿、疾病、儿童和女性生产死亡率全部在下降。拥有洁净饮用水和电力的人口，入学的男女儿童人数以及识字率都在上升。这是巨大的进步，是你们在很短的时间内取得的进步。</p>
+<p>随着越南的改变，我们两国的关系也发生了改变。尊敬的一行禅师告诉我们：“在真正的对话中，双方都愿意做出改变。”这样，那场曾经分离我们的战争变成了伤口愈合的源泉。它使我们可以寻找失踪人员，将他们带回国。它让我们清除地雷和未爆炸弹，不让一个孩子在外面玩耍时可能失去一条腿。我们继续帮助包括儿童在内的越南残障人士，我们也继续帮助去除橙剂，也就是二恶英，使越南能够有更多的土地恢复耕种。我们对我们在岘港的合作感到自豪，我们期待支持你们在边河市开展的工作。</p>
+<p>我们不能忘记，我们两国的和解是由一度在战场上对阵的老兵们所主导的。 想想作为一名战俘曾在河内被关押多年的参议员约翰·麦肯恩与武元甲将军见了面。武将军说，我们两国不应当成为敌人，而应当成为朋友。想想所有这些老兵，不管是越南人还是美国人，他们帮助我们愈合战争的伤痛，建立新的纽带。多年以来，在这方面做出最杰出贡献的是前海军中尉、现任国务卿约翰·克里。他今天也在这里。约翰， 我代表我们所有人，感谢你所做出的重大贡献。</p>
+<p>正是由于老兵为我们指明了道路，由于战士们有追求和平的勇气，我们两国人民的关系比 以往任何时候都要密切。两国的贸易额增加了，我们的学生和学者共同学习。到美国学习的越南学生人数是东南亚国家中最多的。每年，越来越多的美国游客到访越南，其中包括那些年轻的背包客，他们走向河内的36街、会安的商店和越南古都顺化。作为越南人和美国人，我们都能够认同Van Cao所写的话：“从现在起，我们了解了对方的家园。从现在起，我们学会了解对方的感受。”</p>
+<p>作为总统，我以这一进步为基础继续发展两国关系。根据我们新的全面伙伴关系，两国 政府的合作现在比以往任何时候都要密切。在这次访问中，我们已将两国关系建立在更加牢固的基础上，为未来的数十年作好准备。从某种意义上说，托马斯·杰弗逊开拓的两国关系经过两百多年终于恢复了正常。这花费了多年的时间，需要付出巨大的努力。但现在，一度不可想象的事情摆在我们眼前： 越南与美国成为合作伙 伴。</p>
+<p>我相信，我们的经验为世界上了一课。许多冲突令人束手无策，看似永远不会停歇，但是我们显示了，想法可以改变，只要我们摆脱过去，就可能创造不同的未来。我们展示出和平远胜过战争。我们展示出，进步和人类尊严是通过合作而不是冲突所达成的。这就是美国和越南为世界展示的东西。</p>
+<p>现在，美国与越南的新伙伴关系立足于一些基本事实。越南是一个独立的主权国家，任何其他国家都不能将其意志强加于越南，或决定越南命运。(掌声) 。越南关系到美国的利益，越南的成功关系到美国的利益。然而，我们的全面伙伴关系仍处于初步阶段。在剩下的时间里，我想与你们分享我对于未来数十年两国关系的构想。</p>
+<p>首先，让我们共同努力，为所有人民创造真正的机会与繁荣。我们知道21世纪经济成功的要素。在全球经济中，投资和贸易流向法制之地，因为没有人愿意通过行贿来做生意。人们不会愿意到不知道会受到何种待遇的地方去做生意或上学。在这个知识社会，工作机会总是流向那些人们可以自由思考、交换看法并且创新的地方。真正的经济伙伴关系不只是一个国家从另一个国家那里获得资源，而是去投资一个国家最重要的资源，那就是我们的人民、他们的技能和才能，不论是在大城市还是小乡村。这就是美国所提出的伙伴关系。　　</p>
+<p>我昨天宣布，和平队将首次来到越南，重点将是教授英语。在上一代美国人年轻时来这里作战之后，新一代美国人来到这里，他们将来这里教学，建设和深化两国的友谊。(掌声) 一些美国著名科技公司和学术机构将与越南大 学合作，以深化在科学、技术、工程、教学和医学方面的教育。在我们欢迎更多越南学生来美国深造的同时，我们认为年轻人也应当享有在越南获得世界级教育的 权利。</p>
+<p>一个让人激动的消息是，在这个秋季，新的越南富布赖特大学将在胡志明市开校，这是越南首个独立的非营利大学，这里将拥有完全的学术自由，并为有需要的学生提供奖学金。学生、学者、研究人员将聚焦于公共政策、商业管理；聚焦工程学和电脑科技，还有人文科学，包括阮游的诗歌、潘周桢的哲学、吴宝珠的数学在内的所有内容。</p>
+<p>我们将与年轻人和企业家保持伙伴关系，因为我们相信，如果你能够获得你所需的技能、 技术和资本，那么你前进的道路将一片光明。当然，这也包括有才华的越南女性。(掌声)我们认为性别平等是非常重要的。从二徵姐妹到今天，坚强自信的女性一直在帮助越南前进。我在访问全球各地时一直在这样说，证据是很明显的，当女孩和女性在学校、工作和政府拥有平等的成功机会时，家庭、社区和国家将会更加繁荣。在世界每一个地方都是这样，在越南也是如此。(掌声)</p>
+<p>我们将继续努力，在跨太平洋伙伴关系框架下发挥越南经济的全部潜力。 跨太平洋伙伴关系协定将使越南向全球出售更多越南产品，并吸引新的投资。TPP协议将要求改革，以保护工人、法制和知识产权。在越南履行这些承诺的过程中，美国将为越南提供帮助。我想告诉你们，作为美国总统，我强烈支持跨太平洋伙伴关系协议，因为你们也可以购买到更多我们的商品，更多的美国制造。</p>
+<p>我支持跨太平洋伙伴关系协议是因为其重要的战略益处。越南对任何一个贸易伙伴的依赖度将降低，可以与包括美国在内的更多伙伴发展更广泛的关系。(掌声) 跨太平洋伙伴关系协定将会加强地区合作。它将帮助解决经济不平等，推进人权， 给予劳工更高工资和更安全的工作条件。越南人将首次获得建立独立工会的权利，将禁止强制劳动和童工。与有史以来所有贸易协议相比，跨太平洋伙伴关系协定所要求的环境保护和反腐败标准都是最为严格的。这是未来跨太平洋伙伴关系协议能够赋予我们所有国家的益处，美国、越南和所有签字方将遵守我们共同制定的规则。这是我们触手可及的未来。所以，为了我们的经济繁荣和国家安全，我们要保证完成这项使命。</p>
+<p>这是我想谈的第二个合作领域，那就是确保我们的共同安全。在访问期间，我们同意加强安全合作，加强我们的军队之间的信任。我们将继续向越南海岸警卫队提供训练和装备，以提高越南的海事能力。我们将在灾难发生时提供人道主义物资方面与越南保持伙伴关系。我昨天已宣布全面解除对越南的武器禁运。越南在获得为确保安全所需的军事装备采购方面将有更大的自由度。美国将履行我们的承诺，以实现美越关系全面正常化。(掌声)</p>
+<p>从广义角度来说，20世纪使包括美国和越南在内的所有国家认识到，我们共同安全所依赖的国际秩序是植根于一些特定规则之上的。国家是拥有主权的，不管国土大小，国家的主权必须得到尊重，领土不可侵犯。大国不能欺负小国，并应和平解决争端。 (掌声)东盟和东亚首脑峰会等地区机制应当继续得到强化。我对此坚信不疑，美国对此坚信不疑。这是美国向东南亚地区倡议的伙伴关系。今年晚些时候，在我成为访问老挝的首位美国总统时，我希望能推进这样的尊重和和解精神。</p>
+<p>南海问题方面，美国不是目前争端的当事方，但我们将支持合作伙伴维护核心原则，诸如自由航行和飞越权，合法的商业活动不应该遭到阻扰，应按照国际法通过法律途径和平解决争端。今后，美国将继续在国际法容许的任何地方飞行、航行和活动。我们将支持所有国家拥有采取同样行动的权利。(掌声)　</p>
+<p>我们两国在我刚才所说的方面紧密合作的同时，我们的伙伴关系里也包括第三个要素——那就是处理两国政府的分歧，包括人权问题。这一点不是针对越南，没有任何国家是完美的。两个世纪以来，美国仍然在努力实现建国时的理念。我们在应对我们的问题：政治活动中过多的金钱介入，不断上升的贫富差距，刑事司法体系中的种族偏见，以及男女同工同酬问题。美国有自己的问题，而且我保证，并不是没有批评美国的声音。每天我都在聆听这种批评。但是这种审视，这种公开辩论，这种直击我们的不完美，这种允许所有人发表自己意见的方式使得我们的国家更加强大、繁荣、公平。</p>
+<p>我反复强调，美国不愿将我们的政府形式强加于越南。我相信，我所说的这些权利并不是美国的价值观，它们是写入《世界人权宣言》的普世价值观。它们也被写入越南宪法，越南宪法规定：“公民有权享有言论自由、新闻自由，拥有获得信息的权利、集会 的权利、结社的权利、示威的权利。”(掌声)。所以，这是与我们所有国家的共同议题，我们每个国家应当持续遵守这些原则，确保我们的政府官员忠于这些理念。</p>
+<p>最近几年，越南取得了一些成绩。越南承诺使其法律符合新宪法和国际准则。根据最近通过的法律，政府将公布更多预算信息，公众将有权利获得更多信息。正如我刚刚提到的，越南已承诺根据跨太平洋伙伴协议来实施经济和劳工改革。这些都是积极的改变。越南的未来最终将由越南人民来决定，每个国家将走自己的道路，我们两个国家有不同的传统、政治制度和文化。但作为越南的朋友，请允许我分享我的观点，那就是当尊重普世价值的时候国家会更为成功。</p>
+<p>当人们享有自由表达和言论自由时，当人们可以交换想法，能够不受限制地上网和登录社 交媒体时，经济繁荣所需要的创新就有了动力。新的想法就是这样诞生的。脸书就是这样开始的，一些最了不起的公司就是这样起步的，都是因为一个人有个新想法。他们能够分享共享这个想法。当新闻自由得到保障，记者和博客写手能够揭露不公正和滥用权力的情况，就实现了官员问责并建立起公众对制度有效性的信心。当候选人能够自由参加竞选，选民能够在自由公正的选举中选择自己的领导人，国家将更加稳定，因为选民们知道有人听取他们的声音，知道和平变革是可能的。这将带领更多人进入这个体制。</p>
+<p>当人们享有宗教自由时，它允许人们全面地表达爱和同情，这是所有伟大宗教的核心，同时也使宗教团体可以通过学校和医院来为社区服务，照顾穷人和弱势群体。当人们享有集会自由时，也就是公民可以在公民社会内自由组织，那么国家就可以更好地应对政府无法靠自身力量解决的挑战。在我看来，捍卫这些权利不是对稳定的威胁，而且事实上它加强了稳定，是进步的基础。</p>
+<p>毕竟，正是对这些权利的渴望鼓舞包括越南在内的全世界人民抛弃了殖民主义。我相信，捍卫这些权利充分体现了很多国家珍视的独立，包括越南这样一个宣布“民有、民治、民享”的国家。</p>
+<p>越南采取的行动将不同于美国。我们两个国家采取的方式将与世界其它许多国家不同。 但我认为，我们所有国家都应当坚持并完善这些基本原则。我马上就要离任了，在过去的八年里我有幸能够看到我们的体制是如何运作，并如何于世界上其他不断完善自身体制的国家进行互动的。</p>
+<p>我认为我们的伙伴关系可以应对全球挑战，没有一个国家可以独自应对这些挑战。如果要确保人民的健康和地球的美丽，可持续发展是必不可少的。我们要为子孙后代保留像下龙湾和韩松洞这样的天然美景。不断上升的海平面威胁着很多越南人所依赖生存的海岸和水路。所以，作为应对气候变化的伙伴，我们需要兑现在巴黎会议做出的承诺，需要帮助农民、村庄和以渔业为生的人们来应对变化，在诸如湄公河三角洲这类地方引进更多清洁能源。湄公河三角洲是世界的饭碗，我们需要它来养活未来的人口。　　</p>
+<p>我们可以在国界之外挽救生命。帮助其它国家强化卫生医疗体系，我们可以防止疾病蔓延成威胁我们所有人的瘟疫。在越南加强对联合国维和行动的承诺之际，美国将自豪地帮助训练越南的维和人员。这是一项盛举：我们两个一度敌对的国家现在站在一起，帮助其它国家获得和平。除了双边关系，我们的伙伴关系使得我们能塑造积极的国际环境。</p>
+<p>完全实现我所描述的构想是不可能在一夜之间完成的，有不是必然能实现的。可能存在绊跌和挫折，可能会有相互误解的时候，它需要持续的努力和真正的对话，双方都要不断改变。但是考虑到所有的历史和我们已克服的障碍，我今天站在你们面 前，对我们两国共同的未来感到非常乐观。(掌声) 我的信心植根于我们两国人民的友谊和共同愿望。</p>
+<p>在大洋两岸的美国人和越南人，一些人在数十年里首次与家人团聚。正如郑公山在他的歌中所唱的那样，他们握手，打开心扉，看到了我们共同的人性之美。(掌声)</p>
+<p>我想到了在各行各业取得成功的越南裔美国人：医生，记者，法官，公务员。他们中有一个人出生在河内，他写了一封信给我，信中说：“蒙上帝的恩典，我能够实现美国梦，我为作为美国人而非常自豪，也为自己是越南人感到非常自豪。” (掌声) 今天，他也在这里，回到他所出生的地方，因为他说，他的热情所在是“改善每一个越南人的生活”。</p>
+<p>新一代越南人，你们中的许多人，在这里的这么多的年轻人，你们作好了给世界留下自己印记的准备。我想对所有在听的年轻人们说：你的才能，你的动力，你的梦想，正是越南实现繁荣的关键所在。你们的命运在自己手中，这 是你们的时刻。在你们追求自己未来时，我想告诉你们，美国将作为你们的伙伴和朋友与你们站在一起。(掌声)</p>
+<p>今后的许多年，当越来越多的越南人和美国人将互相学习，共同创新，共同经商，为我们的安全挺身而出，推动人权，保护我们的星球时，我希望你们能回想起今天这一时刻，从我今天勾画的愿景中找到希望。或者，我可以换句话说，用你们所熟知的《金云翘传》中的词句来说：“请接受我的信任的象征，开始我们的百年征程。” (掌声)</p>
+<p>谢谢你们。(越南语) 非常感谢你们，感谢你，越南，谢谢你。(掌声)</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B6%8A%E5%8D%97%E6%BC%94%E8%AE%B2%E5%85%A8%E6%96%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%AE%BF%E9%97%AE%E8%B6%8A%E5%8D%97/?category=18271" rel="tag">奥巴马访问越南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%B4%AB%E5%AF%8C%E6%82%AC%E6%AE%8A%E6%97%A5%E7%9B%8A%E5%8A%A0%E5%89%A7/" target="cdt-mirror">德国之声｜中国贫富悬殊日益加剧</a>
+</h2>
+<p><p>北京上海等大城市的富裕程度令人瞠目，而另一方面，按照联合国和世界银行的标准，中国人口的大多数却长期处于贫困状态。贫困悬殊问题加剧显然是影响社会稳定的隐患。</p>
+<p>距离上海奢华的购物中心几步之遥，往往就是那些传统简陋的小卖部。一名退休女工正在这里抱怨：“价格简直是在发疯，无论是肉类，还是蔬菜，都贵得无法负担。”“我们老年人还好凑合，养孩子就很难了。”</p>
+<p>中国的富人变得越来越有钱，与此同时，价格也在不断上涨。在这个共产党执政的国家里，据估计有六百名拥有十亿以上美元的富翁，百万富翁则有三百万名之多。</p>
+<p>北京大学社会学研究所不久前做的一项统计显示，目前只占人口百分之一的人群已经拥有中国总财富的三分之一。而占总人口四分之一的收入较低人群却只拥有总财富的百分之一。</p>
+<p>北京理工大学的胡星斗教授认为，七十年代末开始改革以来，分配不均问题目前发展到了极其严重的地步，已经危害到社会稳定。这位学者说：贫富悬殊非常严重，反映贫富差距的基尼系数十年前就已经超过0.4，现在想必已经介入0.5到0.7。基尼系数为0，表示收入分配绝对平等，基尼系数为1，则表示收入分配完全不平均。</p>
+<p>胡教授表示：“基尼系数从0.4起就越过了红线，社会上出现暴力和抗议的风险就越来越大。”世界上只有南非和巴西的基尼指数比中国更高。胡教授认为，贫富悬殊加剧的趋势不会很快出现改观。</p>
+<p>胡星斗认为：“中国大多数人并没有机会改变社会地位。按照联合国和世界银行的标准，中国人口的大多数长期处于贫困状态。”对于经历过北京上海街头富裕景象的人，确实难以想象中国仍有如此多的贫困人口。而这还不是全部真相：真正的财富是外界看不到的。</p>
+<p>经济学家胡星斗说：“最富的人在政府里，他们滥用权力，剥夺别人的财富。这是一些隐形的富人。”</p>
+<p>税制改革势在必行</p>
+<p>政府也越来越担心，贫富悬殊可能引发的社会后果。2013年北京当局就启动了应对措施：提高了最低工资，并开始征收“富人税”。但胡教授认为，这些措施还远远不够。</p>
+<p>“要想公平分配财富，首先要关闭那些获得巨额补贴的国有企业。中国人缴纳税赋的额度至少同北欧国家一样，但他们却没有相应的社会福利体制。”北京领导层显然也意识到了这一问题：新的五年计划增添了教育机会均等以及人人有钱看病就医等目标。不过，胡教授认为，鉴于腐败和裙带关系，仅凭这些目标是无法解决问题的。他说：“中国需要政治改革：只有实现民主和建立法治，才能纠正这些资本主义的弊端。”这位经济学家很清楚当今中国的苦涩现实：这里所开展的市场经济改革使这个人民共和国变成了世界上最不平等的国家。但是由于这里没有民主文化，所以迄今也就没有人站起来公开反对。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 先存后转 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%B4%AB%E5%AF%8C%E6%82%AC%E6%AE%8A%E6%97%A5%E7%9B%8A%E5%8A%A0%E5%89%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">收入不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">贫富差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E6%82%AC%E6%AE%8A/?category=18271" rel="tag">贫富悬殊</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%B0%91%E5%B0%86%E6%9C%B1%E6%96%B0%E5%BB%BA%E4%BC%A0%E5%8F%8C%E8%A7%84/" target="cdt-mirror">东方日报｜少将朱新建传“双规”</a>
+</h2>
+<p><p>原解放军“四总部”据传已成军中反腐新焦点。海外传媒报道，现任中央军委科学技术委员会专职委员的朱新建少将，传上个周末被军纪委带走“双规”，成为原“总装”二级部主官当中首个被查军官。分析指，朱受查或打开原总装腐败案的缺口，且有可能波及更高层将领。</p>
+<p>据报道，朱新建曾任“总装（即解放军总装备部，改制前的军中“四总部”之一）”综合计划部副部长、军兵种部副总工程师、综合局局长等职。在军事机构改革后，朱新建由“总装”二级部副部长，转任军委科技委专职委员的“虚职”，有指被视为“平安着陆”，而他今年四月到军工厂调研，据报还非常高调地讲话。</p>
+<p>曾任江泽民心腹李继耐秘书</p>
+<p>分析指，朱受查的消息对原“总装”将领震动极大，因为朱新建是前任总装备部部长、上届中央军委委员李继耐的秘书，李继耐被指是江泽民心腹。据了解，上将军衔的李继耐主管“总装”后，曾调回总政治部，并出任总政主任要职，因此被称为横跨总装备部和总政治部两大部的军委委员。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%B0%91%E5%B0%86%E6%9C%B1%E6%96%B0%E5%BB%BA%E4%BC%A0%E5%8F%8C%E8%A7%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E6%96%B0%E5%BB%BA/?category=18271" rel="tag">朱新建</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E4%BF%9D%E9%99%A9%E4%B8%9A%EF%BC%9A%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%E6%97%B6%E4%BB%A3%E5%B0%86%E7%BB%88%E7%BB%93%EF%BC%9F/" target="cdt-mirror">译读 | 中国保险业：野蛮生长时代将终结？</a>
 </h2>
 <p><p>本文原载于The Economist<br>
@@ -532,114 +627,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91-2/" target="cdt-mirror">【CDTV】中国洗衣广告成功“输出价值观”</a>
-</h2>
-<p><p>@西雅图黄都督：这两天一则中国广告在美国网上炸锅了：一个浑身脏的壮黑人进屋要亲一个中国妞，结果被中国妞塞进洗衣机用一个叫做俏比的洗衣球珠暴洗，再出来的时候变成了一个锅盖头全身干净的白肤华人……</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fknqydrj30hi09uwi7.jpg?resize=440%2C247" alt="005I7KWsgw1f49fknqydrj30hi09uwi7" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fknqydrj30hi09uwi7.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fknqydrj30hi09uwi7.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fku16exj30hi09tn1k.jpg?resize=440%2C247" alt="005I7KWsgw1f49fku16exj30hi09tn1k" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fku16exj30hi09tn1k.jpg?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/005I7KWsgw1f49fku16exj30hi09tn1k.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91-2/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p>墙内视频<a href="http://weibo.com/p/230444c3e3b50db29f5bc4c7e145a0b540b7fa" target="_blank">地址</a></p>
-<p>@YY_CodingBear：我的天啊 中国的marketing people都没有一点对种族认识的教育吗？</p>
-<p>@凌都凯璇：这个还好吧……没感觉到歧视啊</p>
-<p>@预感33：一天到晚管别人有没有受歧视，华人、黄种人受了歧视你们管不管？ 一个广告创意而已，至于吗？</p>
-<p>@嘘_不够字数：看不出哪里歧视的，恭喜你，你就是种族歧视者。</p>
-<p>@代码君七号：你国人就是过得太随便了，觉得什么都无所谓。</p>
-<p>@他确实在笑：种族歧视这个事情，国内影响太微不足道了，所以连官媒也敢写“没钱只能娶个越南媳妇”这种段子。大概也只能自己跑出去了才有机会切身体会到。</p>
-<p>@帅杀：广告商国内混太久了吧？拿出去分分钟告你到破产啊。</p>
-<p>@C_thun：你国为啥是种族歧视最强的地方呢，因为一直就是三六九等这么奴化过来的。</p>
-<p>@蝌蚪往人: 哈哈哈哈。输出价值观了！</p>
-<p>@纳兰性急：真正做到了politically incorrect in every possible way</p>
-<p>youtube视频<a href="https://www.youtube.com/watch?v=Xq-I0JRhvt4" target="_blank">传送门</a>  目前该视频评论中已经有了相当多的网友争议</p>
-<p>来自shanghaiist的<a href="http://shanghaiist.com/2016/05/26/racist_laundry_detergent_ad.php" target="_blank">报道</a>称，这个广告实际上是一个抄袭作品，几乎完全翻制了一个约9年前的意大利洗衣粉广告，原广告也存在有种族主义色彩，只是原广告认为“有色更好”。</p>
-<p><strong>相关阅读：</strong></p>
-<p><a title="【麻辣总局】九秒见识下山东台广告的魅力" href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B9%9D%E7%A7%92%E8%A7%81%E8%AF%86%E4%B8%8B%E5%B1%B1%E4%B8%9C%E5%8F%B0%E5%B9%BF%E5%91%8A%E7%9A%84%E9%AD%85%E5%8A%9B/">【麻辣总局】九秒见识下山东台广告的魅力</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%8F%E6%AF%94/?category=18271" rel="tag">俏比</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%BA%BA/?category=18271" rel="tag">华人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%91%8A/?category=18271" rel="tag">广告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">种族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E4%BA%BA/?category=18271" rel="tag">黑人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9D%A8%E5%BD%BC%E5%BE%97%EF%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%9D%83%E5%8A%9B%E6%B8%85%E5%8D%95/" target="cdt-mirror">东网｜杨彼得：总书记的权力清单</a>
-</h2>
-<p><div><img src="http://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/a41d71c9gw1ezj9fz8lxcj20ku0ed0tt.jpg?w=440" alt="" width="440" height="303"><p><span>网络图片</span></p></div>
-<p>近几年，中国一直在提“权力清单”的问题，据说是要明晰各级行政权力的边界，坚决消除权力设租寻租空间。但同时我们看到，有些领导人权力无边无际，什么事都要管，什么话都敢说。比如党的总书记，他管政治、经济、文化、社会，不仅管政策、管事，而且管人的思想与灵魂。在一个推行权力清单的时代，这种无边无际的权力显得很特别。</p>
-<p>推行“权力清单”，在中国其实已经时髦了多年。2014年10月，中共十八届四中全会通过《中共中央关于全面推进依法治国若干重大问题的决定》，正式提出“推行政府权力清单制度”，加快建设法治政府。此前，国务院已公开了各部门行政审批事项汇总清单，也就是60个有行政审批事项的国务院部门的“权力清单”。此后各地从省至县竞相晒“权力清单”。河北的邯郸市还公布了市长权力清单。</p>
-<p>制定权力清单的目的，《中共中央关于全面推进依法治国若干重大问题的决定》说得非常清楚，就是加快建设法治政府，坚决消除权力设租寻租空间。限权面前“权权平等”，即对权力的限制要覆盖全部权力。在中国，党的领导权与行政权力都是权力，实际上各级党委掌握的权力比政府还要大，其权力设租寻租的空间自然也更大，这种权力对掌权者的腐蚀性也更强。既然要清晰界定权力边界，清晰界定党所掌握与行使的权力就是题中应有之义。如果只限制政府权力，却放任党的领导人的权力野蛮生长，那限制政府权力就变得毫无意义。</p>
-<p>总书记的权力是中国最典型的一种权力，它其实是一种超级权力。平时人民只听到总书记在各种场合高谈阔论，有时候谈真理，有时候论道德评是非，有时候作指示提要求，其权力似乎很“虚”，实则很实极大。比如总书记开一个文艺座谈会，各部门就开始揣摩上意，转变政策风向，对文艺的各种审查就加强了，赵本山等人的日子就不好过了，全国人民都不知道究竟是怎么回事。总书记开一个新闻工作座谈会，中国的媒体就全部姓“党”了，舆论监督一下子哑了火。他提倡善意的批评，但在一帮被阉割的媒体把关人看来，与其善意批评不如什么都别说。</p>
-<p>说这种权力是一种超级权力，不如直接称之为专制独裁，中国古代又叫“宸衷独断”。他时不时要开一个座谈会，甚至会认真记笔记，摆出一种倾听民意的姿态，但其实他早就“宸衷独断”，不会因为外界异议而有丝毫改变。他自认为天纵英明，对国家的治理基于光辉思想和英明决策。但在一个专制体制下，整个官僚体系实际上是一个奴才集中营，这些奴才和阉人除了阉割社会和众生，就没有别的本事了。总书记再开明，全国人民的感受还是难受。</p>
-<p>总书记的权力，本质上就是党的领导权。党领导什么、如何领导，没有人能够说清楚，其结果就看领导人自己如何发挥了。毛泽东提出了“党管一切”的主张，习近平现在又让这一主张复活了。但中国共产党现在推行权力清单的事实又表明，它很清楚地知道权力必须受到某种必要的限制与制衡，必须将权力关进制度的笼子。问题是，如果只将政府的权力关进制度的笼子，而任由党掌握的权力逍遥于制度的笼子之外，局部的、看人下菜式的限权又有什么意义呢？这是一个巨大的悖论。</p>
-<p>我不想以恶意揣测总书记的权力和党的领导人，说这种权力如何邪恶，但其不受限制的事实已经导致严重的政治恶果。中共认为它掌握了人类社会发展的真理，他们要为真理而斗争，具体地说是要改造中国的现实。他们显然是认为，限制政府权力，可以解除权力对经济社会的压制，释放社会活力，加快中国经济的发展。而党的领导权有利于对社会的控制，防止中国社会分裂和失控。但中国共产党不是宣称谋求“人的全面发展”么？社会失控是一个问题，禁锢社会、窒息思想、奴化人民其实是一个更严重的问题。</p>
-<p>深刻的悖论还在于，既然党的权力不受限制，政府权力凭什么就甘于权力清单的限制？事实上党和政府客观上是两位一体的，党的权力覆盖政府权力，政府权力是党的权力的实现形式，两种权力很难截然分开。限制政府权力，等于限制党的权力；党的权力不受限制，意味著政府权力也不可能有什么边界。在中国，党即法律，总书记的话就是方针政策。政府权力不过是党的权力的白手套。党的权力有多大，政府权力这只白手套就可以干多少事。公布一个政府权力清单在那里，是没有实质意义的。</p>
-<p>今日之中国不仅仅是经济需要放活，整个中国社会都渴望自由。中国社会不仅需要行动的自由，还需要思想的自由。没有自由，中国就不会有创造力，所谓创新型国家也就成了无源之水、无本之木。前不久总书记开了一个知识分子座谈会，强调“充分信任知识分子”。其实对知识分子的真正信任，是不开这个座谈会，权力与知识分子相忘于江湖。</p>
-<p>现在中国一个老生常谈是，政府应当从不该管、也管不好的领域退出来。我看，党也应当从不该党管、党也管不好的领域退出来。总书记什么都要管，什么都要作一番论述，中国社会也就无所适从了。每一个座谈会过去，党宣部门总是组织媒体宣传说，总书记的讲话在社会各界甚至国际间引起热烈反响，其实那纯属谎言，人民已经厌倦了这些谎言。有没有可能给党及其总书记制定一个权力清单，这是一个严肃的政治问题。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%9C%E7%BD%91%EF%BD%9C%E6%9D%A8%E5%BD%BC%E5%BE%97%EF%BC%9A%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%9D%83%E5%8A%9B%E6%B8%85%E5%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8C%87%E6%8C%A5%E6%9E%AA/?category=18271" rel="tag">党指挥枪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E5%86%99%E7%9A%84%E9%9B%B7%E6%B4%8B%E6%96%87%E7%AB%A0%E5%88%9A%E8%A2%AB%E5%88%A0%E8%AD%A6%E5%AF%9F%E5%B0%B1%E4%B8%8A%E9%97%A8%E4%BA%86%EF%BC%88%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B3%EF%BC%89/" target="cdt-mirror">华涌：我写的雷洋文章刚被删警察就上门了（宋庄故事3）</a>
-</h2>
-<p><p><strong>作者微信公号：向死而行（ID: tooooobe）</strong></p>
-<p>《太阳照常升起、雷洋正被遗忘、剩下恐惧在心底（宋庄故事3）》本来这个是今天的标题。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8901.jpg" rel="attachment wp-att-439046"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8901.jpg?resize=450%2C338" alt="宋庄故事三01" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三01.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三01.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>昨天的文章《雷洋死亡之地写生采访记》被和谐了，本以为雷洋事件如今已经被人淡忘，没想到这篇文章成为我写公众号以来最火的一篇文章，看后台有1万6千人阅读，有63人64次打赏。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%892.jpg" rel="attachment wp-att-439045"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%892.jpg?resize=400%2C400" alt="宋庄故事三2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三2.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三2.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三2.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三2.jpg?resize=50%2C50 50w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三2.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br>
-非常感谢朋友们一直以来到支持和鼓励，我是一个有阅读障碍的人写300字的文章我也要弄上3个小时，错字连篇的原因是校对文字会让我无比痛苦，但是在朋友们的鼓励下我开始渐渐地客服自己的阅读障碍。</p>
-<p>其实昨天我文章里没有阐述一点我个人观点，只是写一这句采访小区居民时的一种“憋屈、堵塞、咽下很多老鼠毛一样”的感受。</p>
-<p>因为采访小区里的居民，我听到最多的词就是“我不知道”，“我不在这里住”。这么大一个发生在家门口的事情，电视网络天天说的人，就像皇帝的新衣，没人愿意 对着镜头告诉我他知道的“真相”或者“观点”，仿佛有种无形地恐惧压在人们的头顶，离我们很近，甚至已经侵入心底渗入骨髓。</p>
-<p>这让我想起了鲁迅笔下的那些看客和旁观者。他90年前写一篇短小精悍的小说《示众》比照今天看起来仍然很有意思。</p>
-<p>回北京的这几天我强烈地感受到了这种逼向我心底地阴霾之气，这些天我接触的朋友家里都有警察上门，打听我到情况。我让朋友们把我的电话给他们，让他们有事有问题直接找我问我，可是至今没接到一个电话。</p>
-<p>今天我先后接到了妈妈、大姐和二姐的电话：二姐要给我买机票让我去雨崩她开的客栈里躲一躲，心想难道我是个逃犯吗？大姐说不让我再乱写，她的心始终是揪揪着 好像被拉扯，心脏病要犯了一样。妈妈更是带哭腔地求我早点回家，那个日子快到了，不要再惹事，妈妈我已经无法再次经历你坐大牢的打击了。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8908.jpg" rel="attachment wp-att-439039"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8908.jpg?resize=450%2C338" alt="宋庄故事三08" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三08.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三08.jpg?w=640 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>我仿佛看见有帕金森病的爸爸，坐在老旧的沙发里，满头白发孤独呆滞的眼神凝视着窗外，那把天空充满让人透不过气来的乌云压顶～～～</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8909.jpg" rel="attachment wp-att-439038"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8909.jpg?resize=350%2C466" alt="宋庄故事三09" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三09.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三09.jpg?w=640 640w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
-<blockquote><p>干什么</p>
-<p>你们</p>
-<p>这是要干什么</p>
-<p>制造恐惧吗</p>
-<p>恐惧只能使真的勇士</p>
-<p>更加无比勇敢</p>
-<p>恐惧只能使</p>
-<p>堂吉歌德的热血</p>
-<p>喷涌</p>
-<p>沸腾</p>
-<p>来吧</p>
-<p>我不惧怕</p>
-<p>终有一天</p>
-<p>十四亿人挺直腰杆</p>
-<p>打个喷嚏</p>
-<p>你们这团乌云将</p>
-<p>瞬间散去</p>
-<p>勇敢的我们</p>
-<p>手挽手</p>
-<p>街上</p>
-<p>广场上</p>
-<p>一起打喷嚏</p>
-<p>打喷嚏</p>
-<p>打喷嚏</p></blockquote>
-<p>这几天写的3篇宋庄的故事被和谐了2篇，刚刚一个要投资“向死而行”的朋友打电话来说：“兄弟三天被删了两篇，今天还写吗？” 我：“写” 他：“会被封号的” 我：“都向死而行了还怕封号？” 他：“你现在可是靠这个号的打赏在生活，还有我们的投资你也不想要了吗？” 我：“就是乞讨我也要写，如果被封号更好，我就可以无顾忌地去为自由而疯狂，不过收你的订金我都花了，你先别吹我还就行。”他：“～～～”</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8911.jpg" rel="attachment wp-att-439036"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B%E4%B8%8911.jpg?resize=400%2C385" alt="宋庄故事三11" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三11.jpg?resize=300%2C289 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/宋庄故事三11.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p>本来是想写到这里就收笔，看看表10:30了。可是现实的编剧就是这样魔幻，我工作室的门口传来杂乱打脚步声，有人咚咚咚地敲门进来4个人，于是我拍下了这3段视频。</p>
-<p></p>
-<p></p>
-<p></p>
-<p>这三天写的文章就剩这一篇未被和谐：</p>
-<p><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340608&idx=1&sn=fe010a30d35e47f5355739656d248282&scene=21#wechat_redirect" target="_blank">华涌回京：被莫名绑架、被疯子暴打！（宋庄故事1）</a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%90%91%E6%AD%BB%E8%80%8C%E8%A1%8C.jpg" rel="attachment wp-att-439035"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%90%91%E6%AD%BB%E8%80%8C%E8%A1%8C.jpg?resize=250%2C250" alt="向死而行" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?w=258 258w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a><br>
-关注向死而行公众号请长按上面二维码</p>
-<p>有问题想问华涌，可以点击左下角“原文链接”，有问必答。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%88%91%E5%86%99%E7%9A%84%E9%9B%B7%E6%B4%8B%E6%96%87%E7%AB%A0%E5%88%9A%E8%A2%AB%E5%88%A0%E8%AD%A6%E5%AF%9F%E5%B0%B1%E4%B8%8A%E9%97%A8%E4%BA%86%EF%BC%88%E5%AE%8B%E5%BA%84%E6%95%85%E4%BA%8B3%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%B6%8C/?category=18271" rel="tag">华涌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -651,7 +638,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%B6%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -661,5 +648,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E6%B6%8C
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

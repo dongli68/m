@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,84 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E7%86%8A%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E7%86%8A%E5%AE%B6%E9%95%BF/" target="cdt-mirror">【网络民议】每个熊孩子背后都有一个熊家长？</a>
+</h2>
+<p><p>5月30日，新浪微博盛传一个遭到“熊孩子”破坏的疯狂动物城主角尼克的乐高塑像。据悉作者为了拼出此作品共计花费时间以月计，虽然微博上整件事情的来龙去脉并不详细，但这件事因“熊孩子”起已足以点燃不少网友愤怒的情绪，评论一片批评“熊孩子”父母的声音。中国大陆不乏“熊孩子事件”，曾掀起过关于教育问题的争论，个中许多事件自然有孩子爱玩喜折腾的天性引发，但同时许多也是中国式家长疏于管教甚至放任所致，因此有传言称“每个熊孩子背后都有一个熊家长”。</p>
+<p>@虚像馆-西野承：现在的孩纸，丢你雷姆啊！看了都心痛！</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6b9eb57egw1f4d9fe038hj20k00qoacu.jpg?resize=440%2C587" alt="6b9eb57egw1f4d9fe038hj20k00qoacu" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6b9eb57egw1f4d9fe038hj20k00qoacu.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6b9eb57egw1f4d9fe038hj20k00qoacu.jpg?w=690 690w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6b9eb57egw1f4d9fi4p9jj20k00qo0wv.jpg?resize=440%2C587" alt="6b9eb57egw1f4d9fi4p9jj20k00qo0wv" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6b9eb57egw1f4d9fi4p9jj20k00qo0wv.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/6b9eb57egw1f4d9fi4p9jj20k00qo0wv.jpg?w=690 690w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>@迷之ALiu：我感到十分沮丧 甚至开始怀疑人生。</p>
+
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E7%86%8A%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E7%86%8A%E5%AE%B6%E9%95%BF/3eb0544bgw1f4c7zb8694j20qo0zkwm4/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/3eb0544bgw1f4c7zb8694j20qo0zkwm4-150x150.jpg" alt="3eb0544bgw1f4c7zb8694j20qo0zkwm4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zb8694j20qo0zkwm4.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zb8694j20qo0zkwm4.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zb8694j20qo0zkwm4.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E7%86%8A%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E7%86%8A%E5%AE%B6%E9%95%BF/3eb0544bgw1f4c7zbtlijj20qo0zkn4u/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/3eb0544bgw1f4c7zbtlijj20qo0zkn4u-150x150.jpg" alt="3eb0544bgw1f4c7zbtlijj20qo0zkn4u" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zbtlijj20qo0zkn4u.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zbtlijj20qo0zkn4u.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zbtlijj20qo0zkn4u.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E7%86%8A%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E7%86%8A%E5%AE%B6%E9%95%BF/3eb0544bgw1f4c7zcgpx5j20qo0zk7a3/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/3eb0544bgw1f4c7zcgpx5j20qo0zk7a3-150x150.jpg" alt="3eb0544bgw1f4c7zcgpx5j20qo0zk7a3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zcgpx5j20qo0zk7a3.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zcgpx5j20qo0zk7a3.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zcgpx5j20qo0zk7a3.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E7%86%8A%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E7%86%8A%E5%AE%B6%E9%95%BF/3eb0544bgw1f4c7zdjse5j20qo0zkqbf/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/3eb0544bgw1f4c7zdjse5j20qo0zkqbf-150x150.jpg" alt="3eb0544bgw1f4c7zdjse5j20qo0zkqbf" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zdjse5j20qo0zkqbf.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zdjse5j20qo0zkqbf.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zdjse5j20qo0zkqbf.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E7%86%8A%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E7%86%8A%E5%AE%B6%E9%95%BF/3eb0544bgw1f4c7zewd0oj20qo0zk460/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/3eb0544bgw1f4c7zewd0oj20qo0zk460-150x150.jpg" alt="3eb0544bgw1f4c7zewd0oj20qo0zk460" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zewd0oj20qo0zk460.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zewd0oj20qo0zk460.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zewd0oj20qo0zk460.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E7%86%8A%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E7%86%8A%E5%AE%B6%E9%95%BF/3eb0544bgw1f4c7zfdrxbj20qo0zkqbh/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/3eb0544bgw1f4c7zfdrxbj20qo0zkqbh-150x150.jpg" alt="3eb0544bgw1f4c7zfdrxbj20qo0zkqbh" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zfdrxbj20qo0zkqbh.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zfdrxbj20qo0zkqbh.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zfdrxbj20qo0zkqbh.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E7%86%8A%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E7%86%8A%E5%AE%B6%E9%95%BF/3eb0544bgw1f4c7zhid0vj20qo0zkdrk/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/3eb0544bgw1f4c7zhid0vj20qo0zkdrk-150x150.jpg" alt="3eb0544bgw1f4c7zhid0vj20qo0zkdrk" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zhid0vj20qo0zkdrk.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zhid0vj20qo0zkdrk.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zhid0vj20qo0zkdrk.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E7%86%8A%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E7%86%8A%E5%AE%B6%E9%95%BF/3eb0544bgw1f4c7zjrwskj20qo0zkdtz/"><img width="150" height="150" src="https://chinadigitaltimes.net/wp-content/blogs.dir/4/files/2016/05/3eb0544bgw1f4c7zjrwskj20qo0zkdtz-150x150.jpg" alt="3eb0544bgw1f4c7zjrwskj20qo0zkdtz" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zjrwskj20qo0zkdtz.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zjrwskj20qo0zkdtz.jpg?resize=70%2C70 70w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4c7zjrwskj20qo0zkdtz.jpg?resize=50%2C50 50w" sizes="(max-width: 150px) 100vw, 150px"></a>
+
+<p>@迷之ALiu：大家好我是作者[微笑]谢谢大家关心。孩子比较小家长和工作人员也没有及时控制住所以悲剧发生了。下午孩子父亲来诚恳道歉，我们也接受了。在特别感谢我的老板付出大量精力财力支持我，她比我更受打击，希望她能走出阴影[鼓掌] (ps:附图是老板出事后做了块板子，虽然很冲动，但真的是个好老板。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4dfky6k6bj20qo0zkjyu.jpg?resize=440%2C587" alt="3eb0544bgw1f4dfky6k6bj20qo0zkjyu" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4dfky6k6bj20qo0zkjyu.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/3eb0544bgw1f4dfky6k6bj20qo0zkjyu.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
+<p>@一坨性感的五花肉：对不起我就是一个偏激的人，所以熊孩子什么的都去死吧！</p>
+<p>@污水少女：这是乐高啊…不是那种一推就倒的超市里摞起来的肥皂或者牙膏…这是被硬生生掰下来、然后一点点拆毁的，脑补那个破坏的过程感觉如同犯罪现场，有一句话说“儿童的恶才是真正的恶”，不懂的去看看告白或者伊甸湖。</p>
+<p>@拍照的杨：别怨孩子，逮到了就打死吧。</p>
+<p>@南梦宫百代：我觉得让熊孩子的爹妈和熊孩子自己就在现场重新做一个，不做完不允许离开，估计下回就不会去手贱了！</p>
+<p>@MulTi_Puzz-Joy：我的天！这种孩子家长肯定说“小孩子啊计较什么，不就是玩具拼的嘛有什么了不起”呵呵……</p>
+<p>@JuniorParkluv：我拼个mini乐高都要拼两个小时，我妈碰一下都要担惊受怕，碰到这种情况我估计会打死他。</p>
+<p>@套袖哥ToadSugar：“对不起，小孩子不懂事。”“他不懂事您懂事啊，没关系的，该怎么赔怎么赔吧。”</p>
+<p>@眉来眼去的师太太：作者你好，我觉得你这种圣母心不可取，虽然家长诚恳道歉了，但是必要的物质赔偿还是要的。家长没有付出肉疼的代价的话，是不会有教育熊孩子的觉悟的。</p>
+<p>@福久哥：尼玛昨晚拼个小小的花了一晚上，那心血，换成是我可能会杀人。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/67f0a2d4gw1f4dhpfoaajj20qo0zkwje.jpg?resize=440%2C587" alt="67f0a2d4gw1f4dhpfoaajj20qo0zkwje" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/67f0a2d4gw1f4dhpfoaajj20qo0zkwje.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/67f0a2d4gw1f4dhpfoaajj20qo0zkwje.jpg?w=440 440w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>@谁家少年初识春：心疼……另外，熊孩子不感觉到疼是不会改的，亲身体会，以理服他们就是个笑话。</p>
+<p>@小小小王姐：“等你有孩子了就知道了”我有孩子，还很调皮，但是带出去了我会看好孩子不让碰不该碰的东西，吃饭的地方吵吵我会和家人轮班带孩子出去逛，玩…..不打扰别人。我理解孩子精力旺盛，好奇心强，但是大人没死就自己累点，自己和你家孩子折腾，不要让你孩子折腾别人，把你孩子管好。</p>
+<p>@MONSTER花：父母素质低决定的，上次在商场，看到人家在中庭展示的钢琴，一堆人带着孩子在那抢着弹琴，围挡形同虚设，孩子在钢琴上乱按，家长乐呵呵的拍照。这就是今日中国的现实。</p>
+<p>@土肥圆大佐丶：为什么我小时候出门我妈都会告诉我手不要贱，不要东摸西摸。</p>
+<p>@风铃FPA爱吃提子：“不就是玩具嘛，拆了再给你拼起来……哟，这么大啊，那就补点钱……100元够了吧？……啥，就这东西还要10000+……我家孩子不是故意的，他（她）年纪小，不懂事……吧啦吧啦……”某些熊孩子家长如是说。麻蛋的，孩子不懂事，做家长的还不懂事咩！这样的事情只可能是家庭教育问题，没有其他原因。</p>
+<p>@松井龙马：觉得言论过激的，说如果自己是孩子家人的就不会这么说的，可以预见对自己的孩子也是没有是非对错教育的。</p>
+<p>@胡麦麦emma：所以还是那句话，会疼孩子的给他良好的教养和独立性，走上社会也会如鱼得水，婚姻家庭幸福。不会教孩子的，往死里纵容，社会却要狠狠地把丫的脸抽肿。那时候代价成百上千倍~别责怪愚蠢的人。</p>
+<p>@呢称短一点：把监控视频调出来，搞个电视，在展览馆24小时播放。或者把捣蛋的人做成表情包，让他在网络上永流传。</p>
+<p>@Sy_Jessicar0418：熊孩子有很多并不是家长管不了而是家长压根儿自己就这德行，昨天去书店签售后面排着一百多号人有对母女就好意思前排插队，小女孩跟她妈说了在后面排队她妈就一直说没事儿赶紧签完好走，前面排队的妹子跟她说要在后面排队拿号才行她叽叽歪歪半天才走，你们说就这样的家长能教出什么样的小孩。</p>
+<p>@泥泞之中Oo：父母那一辈就没素质，教育出来的孩子自然也就没有素质咯！从小不培养孩子的公德心！公共场合追逐打闹，东西乱丢，乱涂乱画，周围还少么！？我前天在路边摊吃东西就遇到一个小孩过生日，一群小孩拿着那种雪花乱喷！全都喷进菜里了大人也不管！</p>
+<p>@没话说是我：熊孩子长大就是熊大人变老就是熊老人 不是插队就硬要你让他 然后他们再孕育熊孩子熊孙子</p>
+<p>@智商追不上身高的boy：我家狗也不懂事。但是我管的好啊～所以它很乖。您家这孩子……</p>
+<p>@Adrianne鸭鸭鸭：”等你有了小孩你就知道了””等你小孩没了你就知道了！”</p>
+<p>@元气元气元气柰：有天我在夹娃娃，已经努力很久把喜欢的挪到了出口旁，最后一下有信心抓起来了，然后一个熊孩子一拍，没了。旁边的家长说，唉给你一个硬币嘛，没有任何道歉，很无关痛痒的语气。整个心情都被毁了。之所以觉得早生孩子弊大于利，是觉得比较年轻的爸妈可能会欠缺教育孩子必要的素质和意识。</p>
+<p>@_谭彩莲如果换成我爸妈 我碰一下都把我手剁了。</p>
+<p>@牛鲜花H：熊孩子家长：“哎呀孩子还是懂事的，还知道给你们留个脚”</p>
+<p>@到底为什么要叫为什么：没有什么熊孩子就一个大嘴巴解决不了的。</p>
+<p>@你就是我的那口大饼：这种情况可以饶过孩子，可是监护人的责任不应该免得，没有严惩的规矩，才造就了父母带领孩子肆无忌惮地“熊”。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%AF%8F%E4%B8%AA%E7%86%8A%E5%AD%A9%E5%AD%90%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E7%86%8A%E5%AE%B6%E9%95%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2/?category=18271" rel="tag">家庭教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%86%8A%E5%AD%A9%E5%AD%90/?category=18271" rel="tag">熊孩子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B3%95%E5%B9%BF-%E5%9B%9B%E5%B7%9D%E7%94%B7%E5%AD%90%E5%88%B6%E9%85%92%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B-%E8%A2%AB%E6%8D%95/" target="cdt-mirror">法广 | 四川男子符海陆制酒纪念六四被捕</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/64499163.jpg?resize=600%2C339" alt="64499163" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/64499163.jpg?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/64499163.jpg?resize=768%2C434 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/64499163.jpg?w=1023 1023w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>在六四27周年将届之际，四川成都警方以“煽动颠覆国家政权罪”拘捕当地一名被指制作“铭记八酒六四”酒的男子符海陆，同时被捕的还有推荐这款酒的成都女诗人马青。</p>
+<p>据《中央社》引述香港《明报》报导，符海陆的妻子表示，这些酒并未上港媒报导，只是图片在微信朋友圈中传播。</p>
+<p>据网路流通的图片显示，符海陆自制的酒瓶贴纸上，画了当年六四天安门事件坦克车镇压的场景，并写了“铭记八酒六四－中国北京”，另外还有“永不忘记，永不放弃”的字句。</p>
+<p>报导称，今年30岁的符海陆28日在成都市光荣西路自己刚开业的茶馆内被警方抓捕。成都市公安局成华区分局发出的拘留通知书指出，他被羈押在成都市看守所。</p>
+<p>符海陆的太太刘天艳表示，“我也不知道他究竟是做了什么被抓走的，大家都在问我酒的事情，其实那只是一张图片，瓶子上贴的是八九六四的内容，我也没有见过什么酒”。</p>
+<p>报导指出，符海陆与太太育有一名2岁孩子。由于2011年大陆官方处理温州高铁撞车事件的方式，让他惊觉社会阴暗，从此积极关注时政，与成都维权人士多有接触。</p>
+<p>此外，这次被逮捕的还有成都女诗人马青。她曾在微信推荐“铭记八酒六四”，表示确有实物，并贴出实物照片。马青28日在家中被带走，据传也已被拘留。</p>
+<p>目前，“铭记八酒六四”的照片也在海外维权人士的社群网路上流行。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B3%95%E5%B9%BF-%E5%9B%9B%E5%B7%9D%E7%94%B7%E5%AD%90%E5%88%B6%E9%85%92%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B-%E8%A2%AB%E6%8D%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">煽动颠覆国家政权罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%A6%E6%B5%B7%E9%99%86/?category=18271" rel="tag">符海陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%AD%E8%AE%B0%E5%85%AB%E9%85%92%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">铭记八酒六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E9%9D%92/?category=18271" rel="tag">马青</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%9D%92%E5%B2%9B%E5%89%8D%E5%85%AC%E5%AE%89%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E8%87%AA%E7%88%86%E7%8B%B1%E4%B8%AD%E9%81%AD%E9%85%B7%E5%88%91/" target="cdt-mirror">自由亚洲 | 青岛前公安局副局长自爆狱中遭酷刑</a>
 </h2>
 <p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-27.jpg?resize=500%2C400" alt="杨加平在任职青岛公安局副局长时的照片。（原青岛公安局官网，拍摄时间不详）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-27.jpg?resize=300%2C240 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-27.jpg?w=620 620w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><p>杨加平在任职青岛公安局副局长时的照片。（原青岛公安局官网，拍摄时间不详）</p></div>
@@ -228,7 +303,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%9A
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%AD%A6%E4%B8%80%E5%81%9A/?category=18271" rel="tag">两学一做</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/?category=18271" rel="tag">学习小组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">形式主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-29/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-29</a>
 </h2>
@@ -655,56 +730,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E8%A3%B4%E6%95%8F%E6%AC%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%8D%B3%E5%B0%86%E8%A6%81%E6%B1%82%E9%87%8D%E5%A4%A7%E5%8F%98/" target="cdt-mirror">博谈网｜裴敏欣：中国的中产阶级即将要求重大变革</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/petrochem_0.jpg" rel="attachment wp-att-454035"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/petrochem_0.jpg?resize=575%2C316" alt="petrochem_0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/petrochem_0.jpg?resize=300%2C165 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/petrochem_0.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>（博谈网记者欧阳剑编译报道）5月26日，裴敏欣在《财富》（Fortune）上发表了同名文章，以下是原文译文。</p>
-<p>一个有关中国的疑问就是其新兴的中产阶级为什么甘于共产党的一党专制。根据民主的基本理论，持续的经济发展会导致民主，而不是独裁的继续残存。</p>
-<p>以中国的情况来看，这一规则似乎并不适用，至少至今还没有出现。根据不同的数据来源，2013年麦肯锡的研究显示中国的中产阶级人数大约是城市人口的70%，而2015年8月对4万户家庭进行的权威调查则认为中国的中产阶级是2亿人。这部分快速增长的中国人口是受过高等教育的，见多识广的，精通技术的，所有这些因素都应该让他们成为政治变革的倡导者。</p>
-<p>但是，与理论相反的是，中国的中产阶级在政治上很被动。或许中国共产党（CCP）不知何故已经发现了无视历史规律的秘方。</p>
-<p>然而，仔细审查中国总体社会经济发展，以及审视庞大且不断增长的中产阶级的政治意涵，应该让我们相信，否认中国的中产阶级是政治变革力量还为时尚早。相反，中产阶级最有可能即将要求突然的巨变。</p>
-<p>当我们衡量中国的社会经济发展，并与过去四十年中向民主转型的中等收入国家进行比较，中国的收入和教育水平正好在中间，以购买力平价衡量人均GDP是1.3万美元，年龄在25岁以上的成年人平均受教育程度是7.5年的学校教育。</p>
-<p>这表明，尽管有着其巨大的经济增长，但中国还没有繁荣到让一党专制无法生存的程度。但是，再过10年左右，中国的收入和教育水平会进一步提升，中产阶级的规模也会变大。换句话说，在未来十年，中国的社会变革会让其更不甘于一党专政的延续。</p>
-<p>国际经验也表明，中国共产党会发现自己越来越难以满足中国中产阶级不断提高的期望。自从天安门镇压以来的27年间，党一直非常成功地实现了一种改善，那就是物质消费的改善。在基本生活必需品和住房汽车的消费上，普通的中产阶级家庭经历了一个很大的飞跃。对于中国中产阶级的大多数人来说，在毛统治下的物质匮乏仍然记忆犹新。任何提供了这种改善的政权至少有一些功劳。</p>
-<p>然而，中产阶级和一个依靠经济表现来持续其权力的暴政面临的一个问题是，中产阶级会不断地提高其期望，这是独裁政权最终无法满足的。</p>
-<p>以中国人的情况来看，现在中产阶级的愿望集中在个人保障和社会保障上，这对中共（CCP）而言将更具挑战性。</p>
-<p>在个人保障方面，中国的中产阶级想要保护他们的权利。这样的愿望是一个视法制为对其权力垄断致命威胁的政权很难满足的。</p>
-<p>最近的一系列事件表明，中国的中产阶级对他们个人的权利越来越敏感，也越来越能够为之发声。一个例子就是北京著名大学的毕业生死亡后引发的全国骚动。雷洋在警察的拘留所离奇死亡。外界普遍认为，他死于警察的施暴，他的死亡让民意爆发，因为很多中产阶级认为同样的厄运可能也会降临到他们身上。</p>
-<p>为中国的中产阶级提供社会保障对中共（CCP）而言将是很困难的挑战。随着中国人口老龄化，中产阶级需要高品质的医疗保健和收入保障。两者都是昂贵的，需要更大程度的监管和财政透明，这些都不是中共（CCP）能够或愿意提供的。</p>
-<p>一个公众可以信任的健保系统必须至少有一个明确和有效的法规，由一个可靠的法律制度和自由媒体来执行。要确保中产阶级退休收入的保障，需要征收专用税款，并专款专用，由此会大大减少中共转移国家财政资源为己用和用于（其认为的）首要目标的能力。</p>
-<p>当然，这些都是中长期的挑战。中共（CCP）在维持其一党专制的同时要满足这些是极不可能的。对中共（CCP）来说，好消息是它还不会马上就面临中产阶级的造反。坏消息是很明显这迟早会发生。</p>
-<p>本文作者裴敏欣是美国克莱蒙特·麦肯纳学院的政府学教授，也是美国‌‌“German Marshall Fund‌‌”的非常驻高级研究员。</p>
-<p><small>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</small></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E8%A3%B4%E6%95%8F%E6%AC%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%E5%8D%B3%E5%B0%86%E8%A6%81%E6%B1%82%E9%87%8D%E5%A4%A7%E5%8F%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%AF%E9%A3%8E%EF%BC%9A%E8%AE%A1%E7%94%9F%E5%B9%B2%E9%83%A8%E7%BB%B4%E6%9D%83%E5%80%BC%E4%B8%8D%E5%80%BC%E5%BE%97%E5%90%8C%E6%83%85%EF%BC%9F/" target="cdt-mirror">凯风：计生干部维权值不值得同情？</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg" rel="attachment wp-att-452886"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?resize=403%2C242" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?resize=300%2C180 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?resize=80%2C48 80w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/640-7.jpg?w=403 403w" sizes="(max-width: 403px) 100vw, 403px" data-recalc-dims="1"></a></p>
-<p><strong>作者微信公号：鸡蛋与高墙（ID: eggs-walls）</strong></p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%9C%E6%81%B6%E5%87%A0%E5%8D%81%E5%B9%B4-%E5%BA%94%E8%AF%A5%E7%BB%99%E4%BB%80%E4%B9%88%E8%BA%AB%E4%BB%BD/" target="_blank">【网络民议】计生有难 八方点赞</a></p></blockquote>
-<p>湖北多名计生官员拉横幅维权，肇因是事业编制取消，社会抚养费不再返还，导致身份陡失、待遇下降。计生干部不无悲催：我们成了弃子和路人。</p>
-<p><strong>说到底，这只是体制内部利益分赃不均的结果，显然不该由社会来埋单。</strong>且不说社会抚养费本身合法性就存疑，社会抚养费返还更是一切乱象的始作俑者，恢复社会抚养费返还既不现实也不合理。至于事业编制身份，在人口红利消耗殆尽、政策转向的关口，更不可能得到支持。</p>
-<p>计生官员认为自己曾作出“<strong>不可磨灭的贡献</strong>”，但所谓的贡献，只是相对于体制内部的绩效考核而言，于公民权利和国家利益，则有着全然不同的解读。不说人口大形势下强制计生已经显得不合时宜，即便是在二三十年前，其作用和意义也未得到社会普遍认可，反而在执行过程中的强制与暴力，更为人所知。</p>
-<p>面对这种诘问，计生官员不再强调“贡献”，反而开始自我辩护：“<strong>只是为了完成上级交代的任务</strong>”。这种辩解的言外之意，无非是作为命令的执行者，不该为体制的问题承担责任。但问题恰恰在于，<strong>作恶总是某一个人在作恶，而不是体制这个非人格的怪物在作恶。体制之恶，终究是经由个体之手来达成。</strong>这些“个体之手”在考核压力和利益诱惑面前，曾经无所不用其极——非法拘禁，强制堕胎，甚至扒房牵牛，这是任何说辞都无法得到辩护的。</p>
-<p><strong>没有人限制你的自由，你完全可以不去从事计生这一行业；即便贪恋稳定和油水，在执行时枪口同样可以抬高一厘米。</strong>在如今严峻的人口形势下，还在絮叨过往在“消灭出生人口”所做出的“不可磨灭的贡献”，真是不知今夕何夕，又置失独老人于何地？</p>
-<p>这些人可能从未想过有一天，会面临身份从强者向弱者的转换。以前，都以国策之名，枉顾公民的基本权利，如今当自己沦为“弃子”时，是否明白所有的强势不过是虚张声势，而所有的恶都必须有人来承担？</p>
-<p>德国哲学家阿伦特有本书《责任与判断》，剖析的就是集体责任下的个人责任问题。阿伦特认为，<strong>那些效力于体制的人，通常不是因为被迫和无奈，更多是主动的投送。无论是为铁饭碗所诱惑，还是为牵牛扒屋的权力欲所沉迷，个体在其中都不是被动的、无动于衷的，都不只是庞大机器上的一个螺丝钉。平时享受体制庇护的种种好处，关键时刻却又拿体制来为自己开脱，天底下哪有这么好的事情？</strong></p>
-<p>在中国，弱者本身就有天然的道德正义性，同情弱者也是最基本的公众情绪。但当计生干部从强者沦为弱者之后，非但得不到同情，反而遭遇倒扔臭鸡蛋的不堪，这难道不值得所有人深思吗？</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" rel="attachment wp-att-438293"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?resize=250%2C244" alt="鸡蛋与高墙二维码" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?resize=300%2C293 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?resize=768%2C749 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?w=818 818w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%AF%E9%A3%8E%EF%BC%9A%E8%AE%A1%E7%94%9F%E5%B9%B2%E9%83%A8%E7%BB%B4%E6%9D%83%E5%80%BC%E4%B8%8D%E5%80%BC%E5%BE%97%E5%90%8C%E6%83%85%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6%E5%86%85/?category=18271" rel="tag">体制内</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E4%BA%BA%E5%91%98/?category=18271" rel="tag">计生人员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E7%94%9F%E9%83%A8%E9%97%A8/?category=18271" rel="tag">计生部门</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -716,7 +741,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -726,5 +751,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

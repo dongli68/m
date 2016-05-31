@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,40 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%B0%B1%E8%BF%9E%E5%91%A8%E5%B0%8F%E5%B9%B3%E4%B9%9F%E5%BE%97%E4%B8%8Ayoutube%E4%BA%AB%E5%8F%97%E8%A8%80%E8%AE%BA%E8%87%AA/" target="cdt-mirror">【立此存照】“就连”周小平也得上YouTube享受言论自由</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%91%A8%E5%B0%8F%E5%B9%B3.jpg" rel="attachment wp-att-502460"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%91%A8%E5%B0%8F%E5%B9%B3.jpg?resize=500%2C174" alt="周小平" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?resize=300%2C104 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?resize=768%2C267 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?resize=1024%2C356 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?w=2018 2018w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>周小平新浪微博截图</span></p></div>
+<p>近日，周小平写网文公开<a href="http://blog.sina.com.cn/s/blog_4ee8cf410102x1li.html" target="_blank">抱怨</a>，称自己制作的“正能量”网络视频节目《平芳公理》遭到包括腾讯视频在内的各大视频平台封杀。周声称自己制作的节目不仅在腾讯视频无法通过审核，对方还删除了部分往期节目，并拒绝给出理由。而优酷、土豆、爱奇艺更是将周的视频“全盘删光”。周对此感叹，“<strong>就连我也无法在这个平台上得到应有的言论自由</strong>”。</p>
+<p>然而，周小平所抱怨的在大陆被删的三集《平芳公理》视频，在<strong> YouTube</strong> 上虽然点击量极低，但却可以正常观看。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%86.jpg" rel="attachment wp-att-501843"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%86.jpg?resize=550%2C109" alt="平芳公理" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理.jpg?resize=300%2C60 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理.jpg?resize=768%2C152 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理.jpg?resize=1024%2C203 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理.jpg?w=2862 2862w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>被删往期节目《平芳公理》第8集 YouTube 观看页面截图</span></p></div>
+<p>在被删视频之一的《平芳公理》第8集里，<strong>下图这名主持人一脸满足地说</strong>：</p>
+<blockquote><p>美国有600万人的自来水受到重金属铅污染。[…]网友纷纷评论说，不喝热水，所以他们就霍乱加黑死病了，之后他们就发明了净水器。</p>
+<p>记得前几日还有美国媒体自豪地报道说，热水是中国人“最好的饮料”，而美国人都是喝冷水的。然而我们喝了好几千年的热水，把水烧开是最安全的水处理方式。美国人这是准备用重金属消毒的节奏吗？</p></blockquote>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%868-1.jpg" rel="attachment wp-att-501827"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%868-1.jpg?resize=500%2C266" alt="平芳公理8-1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-1.jpg?resize=300%2C160 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-1.jpg?resize=768%2C409 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-1.jpg?resize=1024%2C545 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-1.jpg?w=2798 2798w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>《平芳公理》第8集视频截图一</span></p></div>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%868-2.jpg" rel="attachment wp-att-501825"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%868-2.jpg?resize=500%2C268" alt="平芳公理8-2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-2.jpg?resize=300%2C161 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-2.jpg?resize=768%2C411 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-2.jpg?resize=1024%2C548 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-2.jpg?w=2778 2778w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>《平芳公理》第8集视频截图二</span></p></div>
+<p><em>【编者注】：将水煮沸是无法去除重金属的，所以才有 Flint 政府给居民分发瓶装饮用水的措施。非营利性机构美国国家卫生基金会（NSF）有对净水器铅过滤功能的认证项目。</em></p>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%AC%BC%E7%95%9C%E6%96%B0%E7%B4%A0%E6%9D%90%E4%B9%9F%E8%BF%87%E4%B8%8D%E4%BA%86%E5%AE%A1%E6%A0%B8/" target="_blank">相关阅读：【立此存照】爱国鬼畜新素材也过不了审核</a></p></blockquote>
+<p><strong><a href="http://blog.sina.com.cn/s/blog_4ee8cf410102x1li.html" target="_blank">附：周小平｜祖国啊，腾讯视频正疯狂封杀爱国者，您知道吗！</a></strong>（部分）</p>
+<blockquote><p>从上周开始，腾讯视频的编辑已经不满足于在审核这道环节上卡住我们的新视频作品了，他们甚至已经开始悄然下手删除我们过去的视频作品。连续好几天，我们都有往期甚至是刚刚发布的视频被编辑删除。[…]</p>
+<p>周小平不能理解的是，无论我们怎么打电话去投诉和反应，腾讯视频的客服和管理人员至今都没有给出任何一个明确的答复，<strong>我们到底违反了哪条规定，我们到底触碰了哪条法律？</strong></p>
+<p>令我更感到奇怪的是，网络上这些视频平台一方面死活都不让我们传播这些视频，（<strong>不仅是腾讯，其他如优酷、土豆、爱奇艺等更是几乎把我们的视频<span>全盘删光</span></strong>）。然而一方面这些视频网站疯狂删除辟谣和反对历史虚无主义的视频，而另一方面某些视频网站又极力推出一些网络大V的历史虚无主义视频。[…]</p>
+<p>腾讯视频号称自己公平公正自由公开，<strong>腾讯创始人马化腾也是我们全国青联副主席，而我是全国青联文艺界副秘书长</strong>。<strong>然而即便如此，<span>就连我也无法在这个平台上得到应有的言论自由</span>，无法得到应有的基本权力</strong>，反而屡遭封杀和围堵。[…]</p>
+<p>只是周小平不明白，我应该向谁去伸冤，我应该向谁去投诉，我又应该如何再坚持下去？传播正能量本来就不是一件容易的事，如果再加上我们<strong>被堵住了嘴巴，绑住了双手</strong>，那么我们将彻底死去。</p>
+<p>[…]而我和我的团队这两年做出了点击过亿的视频，而点击过千万的视频更是做出了好几个，但结果是媒体全部保持沉默，<strong>而且也<span>没有任何机构给我们投资一分钱</span>。</strong></p>
+<p>[…]毕竟，我们是在捍卫中国人的名誉，我们是在打击谣言，我们是在维护我们这个民族的形象，我们是在为所有青年人增加对祖国对未来的信心，所以我们一定会坚持走下去的。</p>
+<p>[…]这一切的一切都需要有一个基本的起点，那就是我们<strong>至少得有一个说话的平台</strong>，我们<strong>至少得享有一个中国人基本的言论自由权力</strong>。</p>
+<p>可是当优酷土豆封杀我们时，我们放弃了。当爱奇艺封杀我们，我们也放弃了。直到最后的阵地腾讯视频也开始围堵和封杀我们时，我们已经走投无路了。</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%B0%B1%E8%BF%9E%E5%91%A8%E5%B0%8F%E5%B9%B3%E4%B9%9F%E5%BE%97%E4%B8%8Ayoutube%E4%BA%AB%E5%8F%97%E8%A8%80%E8%AE%BA%E8%87%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E9%B1%BC%E4%BE%AF/?category=18271" rel="tag">长鱼侯</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%B5%E5%A8%81%E7%8B%B1%E4%B8%AD%E5%8F%97%E8%BE%B1%E6%88%96%E9%81%AD%E6%80%A7%E4%BE%B5-%E5%AE%98%E6%B4%BE%E5%BE%8B%E5%B8%88%E6%B2%89%E9%BB%98-%E5%AE%B6%E5%B1%9E%E5%8F%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA/" target="cdt-mirror">自由亚洲｜赵威狱中受辱或遭性侵 官派律师沉默 家属及辩护人促当局调查</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg" rel="attachment wp-att-501522"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=450%2C450" alt="「709」中被关押的赵威（考拉）也被指「涉嫌煽动颠覆国家政权罪」正式被逮捕。（网络图片）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?w=622 622w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>「709」中被关押的赵威（考拉）也被指「涉嫌煽动颠覆国家政权罪」正式被逮捕。（网络图片）</span></p></div>
@@ -673,7 +704,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E6%96%B0%E5%BB%BA/?category=18271" rel="tag">朱新建</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E4%BF%9D%E9%99%A9%E4%B8%9A%EF%BC%9A%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%E6%97%B6%E4%BB%A3%E5%B0%86%E7%BB%88%E7%BB%93%EF%BC%9F/" target="cdt-mirror">译读 | 中国保险业：野蛮生长时代将终结？</a>
 </h2>
@@ -764,41 +795,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%89%93%E7%A0%B4%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A6%81%E5%BF%8C%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%96%E7%95%8C%E7%BB%8F%E6%9C%9F%E5%8D%AB/" target="cdt-mirror">端传媒 | 打破不能说的禁忌，今天是“世界经期卫生日”</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%888.38.41.png?resize=553%2C368" alt="Screen Shot 2016-05-28 at 上午8.38.41" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.38.41.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.38.41.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>高洁丝（Kotex）公司日前在纽约第五大道开设的经期商店（The Period Shop），内有从食品到服务等各种为经期女性提供的产品。来源：U by Kotex Twitter</span></p>
-<p>在这个星球上，每个月总有那么几天，有些女性无法进行下列事宜：</p>
-<ul><li>和丈夫同床，或是进出宗教场合。（如果她在印度）</li>
-<li>将用完的卫生巾扔进垃圾袋，因为那会“传播癌症”。（如果她在玻利维亚）</li>
-<li>沐浴，否则将会“丧失生育功能”。（如果她在阿富汗）</li>
-<li>不能挤奶或是浇灌植物。（如果她在肯尼亚）</li>
-<li>不能上学。（如果她在孟加拉）</li>
-</ul><p>是的，在不少国家，月经仍被看作肮脏不祥的象征。经期的女性也被视为受诅咒的恶梦，所到之处，万物都会受到污染，萎靡枯朽。当月经成为社会成员需要避讳的禁忌，人们自然而然也就无法得到关于月经和女性身体的科学认识和相关教育——一项调查显示，印度70%的女性在初潮来临之前，甚至从未听说过月经这回事情。</p>
-<p>“经期卫生”在这些文化中属于天方夜谭。女人既不懂得她们需要干净的卫生巾、棉条，也压根没有钱买到这些东西，于是只能“就地取材”——干树叶、用过的抹布袜子、沙粒、灰烬、青草等都能成为经期用品。</p>
-<p>你也许会觉得这是落后的“第三世界”才有的问题——看着电视和网络广告中“带了就和没带一样”、“更轻、更薄、吸收力更强”的各种广告，自信在你生活的开放社会，月经早就不会再给女性带来麻烦。</p>
-<p>但你是否知道，在日本，男性在寿司制作行业中更受青睐，原因在于人们相信经期的女性味觉会有失精准，无法胜任本职工作；在美国，有四十个州施行所谓“卫生棉棒税”（Tampon Tax）——州政府一般会对所有个人动产征税，但将生活必需品列为例外，这类“非奢华产品”包括一般药物、农副产品、食物券等，但经期用品却不在此列；在中国大陆、台湾和香港，有些人相信来月经的女性最好也不要去“拜拜”，就算进到寺庙中，也最好不要敬香。</p>
-<p>在千奇百怪的“民俗”中，有一些共通的“古老智慧”。比如认为女性的身体是不洁的，月经又是最为肮脏的分泌物，如果不做好隔离，就会传播疾病，污染环境。在有些地方，这些鄙陋的思想仍然发挥效用；在另一些不存在这些思想习俗的地方，与月经连在一起的“肮脏”、“羞耻”等情绪还是隐藏在生活之中。不信？你可以想想，为什么卫生巾的广告总是强调别人根本不会察觉到你在使用它。</p>
-<p><a href="http://www.wash-united.org/">WASH United</a>（Water, Sanitation and Hygiene，水源、公共和个人卫生）是一家总部位于德国柏林的NGO组织。2014年，它发起了“国际经期卫生日”，将每年的5月28日订为有关月经的特别“节日”，希望能够借此引起公众对于月经和经期健康、卫生等议题的重视。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%888.39.26.png?resize=553%2C369" alt="Screen Shot 2016-05-28 at 上午8.39.26" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.39.26.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.39.26.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>图为月经博物馆的创办人 Harry Finley 和博物馆展品。来源：月经博物馆网页</span></p>
-<p>今年是这个活动的第三年，WASH网站上用地图标出了世界各地教育机构、艺术组织和个人、社会活动家、社区、政治领袖等发起的“节庆活动”：</p>
-<ul><li>巴基斯坦卡拉奇的一家私人公司将会在该市公共空间摆放大型告示牌，传播关于经期卫生的知识；</li>
-<li>位于匈牙利布达佩斯的中欧大学（Central European University）会举办“全球月经禁忌展览”，鼓励学生自己做研究，搜集相关资料；</li>
-<li>印度德拉顿市（Dehradun）的NGO组织则会在附近500户乡村家庭中派发卫生巾并传播相关常识；</li>
-<li>香港的<a href="http://www.happeriod.com/p/about.html">“小刺猬happeriod”组织</a>则会开展一系列的正向月事工作坊；</li>
-<li>台北则有三个不同组织邀请多位推动改变月经文化的人士分享经验</li>
-</ul><p>除了WASH United以及和它合作的这些组织个人之外，一直以来，来自不同领域的专业人士其实都在辛勤耕耘，改善月经文化。</p>
-<p>他们或致力于科学知识的传播，比如印度专门为贫民窟底层妇女提供相关教育的NGO Roshini；或致力于破除关于月经的种种迷思，比如英国Finley夫妇用地下室改造的“月经博物馆”，里面收藏了从过去到未来与月经有关的各种文化再现、商业产品和艺术作品；或推动更加廉价安全的经期用品生产和销售，比如高洁丝（Kotex）公司日前在纽约第五大道开设的经期商店（The Period Shop），销售从食品到服务等各种转为经期女性提供的产品；或探索环境保护与经期卫生用品的关系，比如在尼泊尔推行使用布卫生棉的台湾女孩林秀苹。</p>
-<p>无论是男性、女性还是性小众，是商家、科研机构、NGO还是个人，有许多人都在努力让更多女性能够客观、积极的面对月经、面对身体和面对自己。就像WASH United一个庆祝活动的口号一样，他们希望能够“让女性的每一天都是美好的一天”。</p>
-<p>对了，位于东京秋叶原的寿司店Nadeshiko Sushi 也已经开幕了，这是日本第一家全女性师傅的寿司店。</p>
-<p>那么，“经期卫生日”快乐！</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%89%93%E7%A0%B4%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A6%81%E5%BF%8C%EF%BC%8C%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%B8%96%E7%95%8C%E7%BB%8F%E6%9C%9F%E5%8D%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/528%E4%B8%96%E7%95%8C%E7%BB%8F%E6%9C%9F%E5%8D%AB%E7%94%9F%E6%97%A5/?category=18271" rel="tag">528世界经期卫生日</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女性主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%9D%83%E5%88%A9/?category=18271" rel="tag">女性权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -810,7 +806,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/528%E4%B8%96%E7%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -820,5 +816,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/528%E4%B8%96%E7%95
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

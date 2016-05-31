@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,166 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B2%B3%E5%8C%97%E4%B8%A4%E4%BD%8D%E6%AE%8B%E7%96%BE%E7%A7%8D%E6%A0%91%E8%80%81%E4%BA%BA%E7%81%AB%E9%81%8D%E5%85%A8%E7%90%83%E4%B9%8B%E5%90%8E%EF%BC%9A%E6%88%90%E4%BA%86%E5%85%B8%E5%9E%8B%EF%BC%8C/" target="cdt-mirror">澎湃新闻｜残疾种树老人火遍全球后：成了典型，树也不敢卖了</a>
+</h2>
+<p><p><em>原标题：河北两位残疾种树老人火遍全球之后：成了典型，树也不敢卖了</em></p>
+<p>主动联络本地媒体报道的那一年，盲人贾海霞没有想到，三年后，他会因为外媒的报道而名扬世界。</p>
+<p>而他和他十几年的种树搭档——失了双臂的贾文其，也被媒体这三年以来塑造的光辉形象，给困住了——招来了市委书记的慰问，“感动了河北”，但作为“植树绿化”的典型，老兄弟俩如今感觉进退两难，“再也不敢卖河滩上的那些树了。”</p>
+<p><strong>“日子不能这么过了”<br></strong></p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/460.jpg" rel="attachment wp-att-500757"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/460.jpg?resize=575%2C323" alt="460" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/460.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/460.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>贾海霞家 澎湃新闻记者 章文立 图</span></p></div>
+<p>河北省石家庄市井陉县，古代韩信“背水之战”的主战场，如今群山环绕，村庄掩映在大山之间。从307国道旁的客运站坐村际公交一路向北，不时有大型货车运载着满满的石砂 ，扬起大片干燥的尘土。</p>
+<p>绕山路颠簸十几公里，能看到孙庄乡口的一座大桥。过桥沿河再往西北，就到了冶里村。这是贾海霞和贾文其生长的地方。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/479.jpg" rel="attachment wp-att-500755"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/479.jpg?resize=575%2C323" alt="479" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/479.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/479.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>冶里村，妇女们在水塘边洗衣服。澎湃新闻记者 章文立 图</span></p></div>
+<p>贾海霞1962年出生，比贾文其大一岁。两家父辈相识，房子就隔几米远，两人从小就一起玩儿。贾文其三岁那年，跟着母亲与表哥去弹棉花，不慎在变压器上触电，失去了双臂。年纪小，他习惯得快，也没把自己当残疾人，捡粪、游泳、写字……别人能干的，他都一样学。贾海霞也当他是好朋友，小学、初中都在一起上， 关系更铁。初中毕业后，贾文其去了林业队，种树、看护园林，给家里挣工分。</p>
+<p>贾海霞上了邻村的高中。后来结婚分了家，家里穷，没地方住，他和妻子儿女在村里四处借居，还曾在贾文其家住过一阵。九十年代末，贾海霞在邻村的采石场找了一份爆破员的工作，一天能赚25块钱。妻子则在石家庄打零工，一个月有将近千元收入。</p>
+<p>2000年春天，贾海霞花三万多块钱盖了新房。一家四口终于有了自己的家，欢天喜地搬了进去。没成想，到了年底，他就在一次凿石爆破事故中被炸瞎了双眼。一瞬间，天塌地陷，“上吊的心都有，喝农药的心都有！”多年后，贾海霞回忆当时仍然激动。他要离婚，妻子不肯，把家里的绳子、剪刀、农药统统藏起来，每天在家看着他。</p>
+<p>一家人在愁云惨雾中挨到了2001年春节。有一天，妻子出去了，四岁的儿子从外面跑回来，说爸爸我吃了个橘子。贾海霞纳闷：“谁给你买的？”儿子知道贾海霞看不见，说“我捡的，你摸摸。”贾海霞摸了摸，是个橘子皮。</p>
+<p>“他出生以后我就是盖房子，也没钱给他买橘子。他长到四岁，也不知道橘子咋吃的，都不知道橘子什么样。他说你闻闻，让我闻那个橘子皮。哎呀，这下我是……冲击太大了。”</p>
+<p>贾海霞开始觉得，日子不能这么过了。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/473.jpg" rel="attachment wp-att-500754"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/473.jpg?resize=575%2C323" alt="473" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/473.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/473.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>贾文其家 澎湃新闻记者 章文立 图</span></p></div>
+<p>这个时候，贾文其找上门来。他原本跟着残疾人艺术团在全国各地演出，2001年老父亲突然偏瘫，不得已辞了工作回乡照顾。在家待着没了收入，他想起八十年代曾经卖过一棵树，拿到了1800元，那是一九七六年林业队解散的时候他花25元买下的。</p>
+<p>虽说种树时间长，但总归是件正经事做，看护树木又是老本行。贾文其想想，觉得村里就他和贾海霞两个残疾人，又是发小，贾海霞也挺可怜，就打算带他一起做。</p>
+<p>他们看中了河边那片50来亩无人理会的荒滩。想了想，又去找村委会签了个协议。“要是植好成别人的了，我们这干了个啥？”贾海霞想得明白。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/453.jpg" rel="attachment wp-att-500752"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/453.jpg?resize=450%2C653" alt="453" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/453.jpg?resize=207%2C300 207w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/453.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>老哥俩当年与村委会签的协议。澎湃新闻记者 章文立 图</span></p></div>
+<p>村里同意了。协议上清清楚楚写：“自己处理树木，收入归自己所有。如果被洪水刮了，村委不赔偿任何损失。”</p>
+<p>就这样，2002年开春，老哥俩在河滩上种起了树。</p>
+<p><strong>“香椿活了”</strong></p>
+<p>第一年种柳树。贾文其说：“无心插柳柳成荫嘛，就想着柳树插下就能活。也不用买树苗，砍个枝子就能种。”结果栽了800多枝，就活了两颗，剩下的都旱死了。河滩中心都是石子儿地，没水，就算是河滩也没用。</p>
+<p>被村里人嘲笑，贾海霞灰心了：“算了吧，白费力。”</p>
+<p>贾文其悠悠儿的：“有驴不怕慢，只要天天赶，总会走远的。”</p>
+<p>贾海霞想，人家从小没了双臂，过了这几十年，自己眼睛刚刚瞎，要说耐心和毅力还真是比不上，那就听他的吧。</p>
+<p>第二年吸取了教训，从河边离水最近的地方开始栽，除了柳树，还栽更抗旱的杨树。他们买不起树苗，就用扦插法。栽树一轮分两天，第一天先去砍树枝。村里没有杨树、柳树，他们就跑到几里地以外的邻村四处砍，为此没少挨骂。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/464.jpg" rel="attachment wp-att-500751"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/464.jpg?resize=500%2C562" alt="464" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/464.jpg?resize=267%2C300 267w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/464.jpg?w=550 550w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>贾海霞和贾文其合作砍树。</span></p></div>
+<p>爬树的是贾海霞。<strong>贾文其没胳膊，用肩膀顶着贾海霞上树。贾海霞看不见，等爬到了树上，就等贾文其告诉他树枝的具体位置，摸索着砍下来，再自己慢慢溜下树。贾文其收拾好树枝，贾海霞帮他放在背上，再拉着他空荡荡的袖管，俩人一起走回村里去</strong>。</p>
+<p>第二天就是扦插种植。到河滩得先趟过河，河宽二十多米，最深处及膝。虽说种树的季节是春季，但刚开春的二月，北方还是要穿棉袄的温度。为了少让一个人湿鞋裤袜，贾文其要先过河把树枝放下，回来背着贾海霞再过一次。</p>
+<p><strong>到了河滩上，石子儿地不好挖坑，他们就找粗钢棍打眼。这自然是贾海霞的活儿，可他看不见，起初常常一锤敲在自己手上。等在地下砸出四五十厘米的眼，把树枝插进去，填上土，又得去河边打水。</strong>一颗树枝需半桶水灌溉，一天栽百十来颗，就得来回打水几十趟。</p>
+<p>春季过去，夏秋是管理的季节。浇水、剪枝、割草……虽说不比栽树时辛苦，可也不轻松。冬天里，最怕的是干燥起火，总要时时小心看护，生怕努力付之一炬。</p>
+<p>第二年，水边的树枝成活了一百多棵。尝到了有水的甜头，他们开始挖渠引水。接下来的十年，每年种三千多棵枝条，总有一千能成活了。第六年的时候，他们也终于不用再去砍别人家的树枝，可以用自己河滩上的树移植了，尽管偶尔也会去找些新品种。</p>
+<p>“你看这些树，都是有大有小的，因为都不是一年种的。还有些后来的是前面的树砍下枝子种的。所以我就说，都种在一起，但它们有的是爷爷，有的是孙子。”贾文其笑呵呵地说。</p>
+<p>他走两步，指着一颗桃树：“看，去年栽下的，今年就要开始结果喽！”又走两步，弯腰看一颗低矮的香椿，然后咬下一片嫩芽，抬起脸的时候满面笑容，冲着几米外树荫下坐着的贾海霞，用方言大喊着：“海霞哥！这颗香椿活了！”</p>
+<p><strong>事情失控了</strong></p>
+<p>种树到第十二年，眼见着河滩上绿树成荫，林间鸟叫声都多了起来，老哥俩心里高兴。</p>
+<p>贾文其心思活络，想找媒体报道一下：“残疾人也有自尊心，也展示一下自己存在的价值！要是能有人看见了，愿意帮帮我们，那就更好了。”</p>
+<p>几经周折，他找到了一家中央媒体井陉站的一位负责人。2014年植树节当天，稿件发了出去，贾海霞听说，报道还被新浪和腾讯转载，点击量超过了30万。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/455.jpg" rel="attachment wp-att-500750"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/455.jpg?resize=575%2C261" alt="455" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/455.jpg?resize=300%2C136 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/455.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2016年，老哥俩被评为石家庄市残疾人“自强之星”。澎湃新闻记者 章文立 图</span></p></div>
+<p>很快，《燕赵都市报》来了，《石家庄日报》来了。“连新华社都有记者来了！”贾海霞挺激动。到了4月21号晚上，县委书记突然出现，告诉他们，明天有大领导来。“乡干部都跑到我家来打扫卫生，早上村里的路都让派出所看住了，我也不能出屋，就在家里等。”</p>
+<p>等来的是时任石家庄市委书记孙瑞彬。2014年《石家庄日报》头版报道：“孙瑞彬满怀深情地说，你们身残志坚，十几年如一日坚持植树绿化，你们的先进事迹和执着精神非常了不起，感动了全市人民，非常值得大家学习。植树造林可以改善生态、美化环境，一棵树就是一个除尘器，一片林就是一个制氧站。希望你们能够继续把这项事业坚持下去，并带动更多的人加入到植树绿化的行业中。”</p>
+<p>贾海霞高兴：“我们是有些张扬。可不唱高调，别人谁知道你存在？我们种了十几年，谁理过我们？”</p>
+<p>在河北省电视台的帮助下，河滩上开挖了新渠。西藏的一位医生写信联系上他们，从此每年捐助他们2000元钱。还有人给他们寄来了米、面、油。十几年来每个月只靠一百多元低保费生活的老哥俩，生活都有了一点改善。</p>
+<p>但渐渐地，他们觉得事情有点失控了。媒体纷至沓来，从地方小报到省级卫视，从中央媒体到德国、韩国、美国的媒体，都陆续邀约采访。</p>
+<p>贾海霞记得最开始的几个月里，<strong>有一家很大的媒体来拍摄。“跟我说，你们就实话实说。我说行。后来问我，你最希望的是什么？我说我最希望的，就是等树卖了都变成钱！他们就笑了，说不行不行，你可不能这样说，你这样说我们就拍不了了。”</strong></p>
+<p><strong>再后来，被媒体问起为什么要种树的时候，老哥俩都学会了：“咱们河北这一块要创建森林城市，防止大气污染。现在空气质量这么差，我们就种些树，净化环境么。”</strong></p>
+<p>很多相关报道中提到，老哥俩说过，种树就像养孩子，有感情了，河滩上的树不会卖。</p>
+<p>“这也是媒体教你们说的？”</p>
+<p>“啊呀，那时候确实还没想卖。原来还没长大呢，卖不了啊，那个小的谁要啊。”贾文其说。</p>
+<p>贾海霞则颇为恼悔地摇摇头：“我们两个通过媒体吧，就是‘大帽子底下开小车’，说了些冠冕堂皇的话。”</p>
+<p>漂亮话说出去了，想收回来就难了。<strong>2014年底，老哥俩被评为当年度“感动河北十大人物”之一。各大媒体来采访的更多了，渐渐的，他们就成了“身残志坚、植树造林”的典型。</strong>2016年，美国有线电视新闻网CNN旗下的GBS工作室以他们为题材制作了一则短片，在Facebook、Youtube等平台累计播放破百万。</p>
+<p>如今，河滩上树木成林，卖出去少说也能有十几万元钱，也常有树贩子来找他们，可他们却不敢卖了。</p>
+<p>“说老实话吧，我们现在对媒体也是挺反感的，<strong>现在报道一次，相当于给我们头上戴了一次紧箍咒。全世界都知道了，你说你要卖树，你咋卖？别说我们不敢，就是（我们真敢）卖，别人也不同意啊。”</strong></p>
+<p>贾海霞说，乡里的干部找他们谈过话：“说弄不好了是你们的事，弄好了大伙都沾光。”所以他们要真想卖树，乡里和村里也都存在不少阻力。“我们现在就是‘饿着肚子’喊好。”贾海霞挥挥手。</p>
+<p>但他也坦承，接受媒体采访、出名，并不是全无好处。2016年，接受一家省级地方电视台采访后，老哥俩拿到了一万块钱。被残联评为“自强之星”，又发了三万元奖励。这样，俩人一平摊，一人就有两万块钱，相比起前两年几千元的好心人捐助，翻了好几倍。</p>
+<p>他们打电话给那位每年捐2000元的藏族医生，说今年钱够用，不要捐了。推了两回，还是没推掉。</p>
+<p>更发愁的还是河滩上卖不掉的树。“这河边就是水，要是涨一次，发大水了，马上就刮完了。你说这个损失谁来给我们赔？”贾海霞梗着脖子，有些忿忿。</p>
+<p>转瞬语气又软了下来。“现在……就这么耗着呗。”</p>
+<p><strong>还要上山种树</strong></p>
+<p>河滩这边耗着，另一边，老哥俩又开始琢磨着上山种树了。</p>
+<p>2015年底，他们主动向村里提出，要去后山植树：“河滩上植满了，我们也跟树木结缘了。想把后面山上也种上。”</p>
+<p>问他们：“山上种的树，到时候就能卖吗？“</p>
+<p>“山上种树太慢了，那就是植被了，不可能卖了。你就是植一些果木，或者是绿化的松柏树啊什么的。山上比较干旱，栽杨柳树可活不了。”贾文其说。</p>
+<p>“那还能补贴家用吗？”</p>
+<p>贾文其想想：“要是栽水果、干果树，也可以，比如说核桃树。（那也）还得好几年哩。也不知道能不能行，没在山上种过。种着看吧，慢慢来。”</p>
+<p>“种树不是为了换钱吗？现在河滩上的卖不了，山上的要是也不能换钱，还继续种？”</p>
+<p>“种。要不说我们跟树结缘了呢。就这样干呗，我们两个残疾人，别的也干不了啥。就种呗，植树造林，保护水土，是吧？”</p>
+<p>“这回真是为环保？不图补贴家用了？”</p>
+<p>“啊呀……山上种图不了钱。反正我这么十几年也过来了，前几年老父亲还有病，没办法，就那么过呗，苦一点呗。种了十几年了，我们俩也喜欢种树。”贾文其说。</p>
+<p>贾海霞则说，<strong>种树已经成了他们俩的快乐。“烦恼了我们就来种树了。造了这一片，不说成就感吧，我们也感到很成功了。坐在树林里一看，上不着天下不着地的，像一片森林一样，嘿嘿。”虽然眼睛看不见，但他能感受到夏日里树的阴凉，也能听见鸟儿在林间的鸣叫。</strong></p>
+<p>“我们感到挺满足的，也就是图这种满足感。”贾海霞说起来都带着笑。</p>
+<p>“种树那么累，不觉得辛苦？”</p>
+<p>“人活着不就得辛苦吗！每天想着安逸、享受，那有什么意思？”他不以为然地摇摇头。</p>
+<p>贾海霞说，种树就像养儿子。刚开始种树的时候，儿子四岁。他看不见，常摸着儿子的小脑袋，矮矮的。砍来的树枝刚种下，也是矮矮的。十几年过去，儿子越长越高，“现在比我还高呢！那树也是，你看这个树，一年涨一层，现在多高！”他说着，仰起头，一双空洞的眼望向天空的方向。</p>
+<p>村支书挺支持他们继续种树的想法。一百多亩荒山，又答应给了他们。</p>
+<p>但在山上种树，水是大问题。正愁的时候，2016年4月，他们突然得到通知，说有网站给他们募捐了六万块钱，要给他们修个蓄水池。“还带了技术专家来考察。”贾海霞说。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/454.jpg" rel="attachment wp-att-500749"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/454.jpg?resize=575%2C323" alt="454" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/454.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/454.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>捐款的大红牌子，被贾文其放在家中客厅茶几上，十分显眼。 澎湃新闻记者 章文立 图</span></p></div>
+<p>钱打进了村里的对公账户，施工队叮叮咣咣建了一个多月，将蓄水池建在了半山腰。从贾文其家往后山走，经过一块块种着小麦、苹果树和金银花的梯田农地，约莫二十分钟，便渐渐没了作物。再往上，偶尔能见一颗核桃树或者柿子树，粗壮的枝干暗示着它们几十年的树龄，余下的便是丛生的灌木。灌木丛中一条新开的土路，正通向蓄水池的方向。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/452.jpg?resize=575%2C324" alt="452" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/452.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/452.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"><p><span>半山腰的水渠。右上角树旁白色的那一块，就是蓄水池。澎湃新闻记者 章文立 图</span></p></div>
+<p>蓄水池是修好了，却还是没水。山腰上有个围山绕的水渠，供农作物轮灌用，每年四次浇地时会供水。渠道离蓄水池最近的地方，在蓄水池下方十几米。贾文其说：“要有个水泵，再有几十米水管，就成了。”</p>
+<p>但据村支书说，在半山腰修蓄水池不比平地，又要开路，六万元已经用完了。装水泵要电源，还要通过电力局。电、水泵、水管这些配套设施和资金，还要向资助单位继续申请。</p>
+<p>“都知道我们接受捐助，有蓄水池了。可是有啥用？有了水源，明年就能种，没有水，后年也种不了。”贾文其觉得这事儿不靠谱，但也只能等着。</p>
+<p>贾海霞念念不忘河滩上的树：<strong>“（在山上种树）虽然还不现实，也是我们的一种梦吧。现在整个光秃秃一片荒山，也想把它变成花果园啊，或者是一片小森林啊，也想着三年五年以后把它变绿了。我们就是想着看看有机会的话，把（河滩上）这一片树卖掉，以后有吃有喝、填饱肚皮了，我们在（山）上面无忧无虑的，哎呀……就种吧。”</strong></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B2%B3%E5%8C%97%E4%B8%A4%E4%BD%8D%E6%AE%8B%E7%96%BE%E7%A7%8D%E6%A0%91%E8%80%81%E4%BA%BA%E7%81%AB%E9%81%8D%E5%85%A8%E7%90%83%E4%B9%8B%E5%90%8E%EF%BC%9A%E6%88%90%E4%BA%86%E5%85%B8%E5%9E%8B%EF%BC%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">感动中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%83%A1%E6%80%BB%EF%BC%8C%E5%A5%84%E5%A5%84%E4%B8%80%E6%81%AF%E7%9A%84%E9%95%BF%E5%AF%BF%E6%98%AF%E8%8B%9F%E5%BB%B6%E6%AE%8B%E5%96%98%E7%9A%84%E6%84%8F%E6%80%9D%E5%90%97%EF%BC%9F/" target="cdt-mirror">【网络民议】胡总，奄奄一息的长寿是苟延残喘的意思吗？</a>
+</h2>
+<p><p>《环球时报》总编胡锡进今日在新浪微博上宣布，自己正在付费语音问答平台“分答”上接受网民提问，价格为 ¥100／题。胡总编在“分答”上的自我简介为：我奄奄一息地活着并且长寿。</p>
+<blockquote><p><a href="http://weibo.com/1989660417/DxVwmnUWJ" target="_blank">@胡锡进</a>：什么都经历过的我，再趟一趟分答。欢迎用要问倒我的劲头来问我。</p></blockquote>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%83%A1%E9%94%A1%E8%BF%9B%E5%88%86%E7%AD%94.png" rel="attachment wp-att-500147"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%83%A1%E9%94%A1%E8%BF%9B%E5%88%86%E7%AD%94.png?resize=375%2C667" alt="胡锡进分答" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/胡锡进分答.png?resize=768%2C1365 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/胡锡进分答.png?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/胡锡进分答.png?w=1080 1080w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><p><span>“分答”界面截图</span></p></div>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E7%BD%91%E4%BF%A1%E5%8A%9E%EF%BC%9A%E7%8E%AF%E7%90%83%E7%BD%91%E5%B1%A1%E6%AC%A1%E6%B8%B2%E6%9F%93%E7%82%92%E4%BD%9C%E6%95%8F%E6%84%9F%E4%BA%8B%E4%BB%B6-%E6%89%B0%E4%B9%B1%E4%BA%92%E8%81%94/" target="_blank">【此贴必火】中央网信办通报批评环球网</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%8F%BC%E4%B8%80%E8%BE%88%E5%AD%90%E9%A3%9E%E7%9B%98%E4%BD%A0%E4%B9%9F%E4%B8%8D%E5%A7%93%E8%B5%B5/" target="_blank">【网络民议】叼一辈子飞盘你也不姓赵</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BD%9C%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%BC%96%E5%A7%94%E4%BC%9A%E5%85%B3%E4%BA%8E%E5%B7%A1%E8%A7%86%E6%95%B4%E6%94%B9%E6%83%85%E5%86%B5%E7%9A%84%E9%80%9A%E6%8A%A5/" target="_blank">中纪委｜人民日报编委会关于巡视整改情况的通报</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E8%BE%9C%E8%B4%9F%E8%83%A1%E6%80%BB%E7%BC%96/" target="_blank">【网络民议】共产主义理想没有辜负胡总编</a></li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@吕布他哥:请问一个太监，总是挖空心思去论述性生活对男人身体的危害，这么多年来乐此不疲，是什么在支撑着你呢？</p>
+<p>@DefendorKN：芮成钢到底噎没噎到？</p>
+<p><strong>@佳人信言：工农兵博士生真的读过那么多名著吗？</strong></p>
+<p>@清溪借雨：请问，做屎壳郎是一种什么感觉？</p>
+<p>@张張嘉戌：请问你作为一个总编，你只能被支配，你难受吗？</p>
+<p>@平按天下：人都说你是跪舔，你是什么时候站起来的？——你说要问倒你的一丝疑惑。</p>
+<p>@暂时没想到好的：知乎体：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BD%9C%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%BC%96%E5%A7%94%E4%BC%9A%E5%85%B3%E4%BA%8E%E5%B7%A1%E8%A7%86%E6%95%B4%E6%94%B9%E6%83%85%E5%86%B5%E7%9A%84%E9%80%9A%E6%8A%A5/" target="_blank">公费出国游玩</a>是一种什么样的感受？</p>
+<p>@木头人快跑8：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%8F%BC%E4%B8%80%E8%BE%88%E5%AD%90%E9%A3%9E%E7%9B%98%E4%BD%A0%E4%B9%9F%E4%B8%8D%E5%A7%93%E8%B5%B5/" target="_blank">波兰的大保健</a>和东莞的有什么不一样？</p>
+<p>@天chao尘民：问：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%9A%E6%80%A7%E5%92%8C%E4%BA%BA%E6%80%A7%E5%86%B2%E7%AA%81%E6%97%B6-%E5%9D%9A%E5%86%B3%E5%8F%AA%E8%AE%BA%E5%85%9A%E6%80%A7%E4%B8%8D%E8%AE%BA/" target="_blank">党性和人性冲突</a>时你选哪个？</p>
+<p>@市民東先生：什么是春夏之交？历史上的今天有没有5月35日？</p>
+<p><strong>@木头人200804：奄奄一息的活着并且长寿——这是在说专制和极权传统源远流长的某伟大国家的吧？</strong></p>
+<p><a href="http://weibo.com/hbg0303" target="_blank">@不会唱戏的胖胖的猴子</a>：“受身无间者永远不死，寿长乃无间地狱中之大劫。”<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p>@云蒸霞蔚草木葱笼：奄奄一息的长寿是苟延残喘的意思吗？</p>
+<p>@鹰脱乃雄奈尔：胡总，我就问一句:飞盘好叼吗？骨头好啃吗？</p>
+<p>@信卅轶史：那我可问了：您的牙是用钛合金加固过的吗？</p>
+<p>@一眼看尽红尘：胡老师，我的牙出了问题，医生建议拔掉，我想问问您，装什么材质的假牙比较结实耐用？谢谢了。</p>
+<p>@疏钟淡月：怎么？胡总得病了么？什么病啊？应该会是癌症吧！！</p>
+<p>@育瀛：你经历过资本主义吗？（去玩的不算）。如没，你又怎么能肯定资本主义不好？（防五毛说法–没怎样就不能怎样）</p>
+<p>@许合文：七长老是无产阶级么？</p>
+<p>@逍遥一叟：中国现在是社会主义国家还是修正主义国家？</p>
+<p>@川藏线木雅人：你不说假话会死吗</p>
+<p><a href="http://weibo.com/3145813371" target="_blank">@微暖初晴</a>：真能吹哦<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">有被“嫖娼”过?有被“幸福”过?有因言获罪过?有思想被禁锢在局域网内被开心的利用着?有忠诚的用生命和青春为“崇拜者”去甘做“炮灰”?……</p>
+<p><strong>@雨夜思语：请问胡编：为什么社会主义社会一定会战胜资本主义社会？是因为社会主义社会善于革命吗？革人的命吗？</strong></p>
+<p>@蜡烛油炒饭：请问你们一直说美国总统是财团扶持的，也就是说是花钱买来的，为什么到现在你国还没有顺利地买下一个美国总统？你国政府这么有钱，因为不难办到吧。</p>
+<p>@老虎之围脖：共产党说他自己是光荣伟大正确的，请问，这是按照什么标准来确定的，我们平时所做人要谦虚，不要自大，可是一个党派为什么就可以说自己是光荣伟大正确的呢？既然伟光正，为什么害怕别人反对他不许成立反对党呢</p>
+<p>@水哥就是water哥：把瞎话说的振振有词是咋修炼的？</p>
+<p>@管窥象：文革死了多少人？所谓的自然灾害是什么？周永康的幕后老板为啥不就出来？</p>
+<p>@悠悠果的爱人：胡总是如何在众多非议中活下去的？而且貌似活得蛮滋润的？</p>
+<p>@马叉开italk：有一不解，想请教胡编: 面对那么多反对挖苦甚至谩骂你的网友，你是抱有一种怎样的心态？觉得自己捍卫的是真理，经得起时下和历史的考验，觉得自己是披荆斩棘排除万难的英雄？还是觉得自己应该“在其位谋其政”，谁给饭吃给谁摇尾巴？</p>
+<p>@乡野草民流年往返：胡总编，你发微博后看评论吗？</p>
+<p>@骑羊驼的树袋熊：请问你觉得你老板还能活多久</p>
+<p>@济公-活佛：【共产党还能统治多少年？】</p>
+<p>@康德拉伯爵：胡编你觉得你哪种叼飞盘的姿势最潇洒？</p>
+<p>@I三三哥I：像你这种诡辩之人，问你有什么意思呢？</p>
+<p>@馴o獸o師：狗被主人不待见，那就赶紧卖力多叫几声多舔几下</p>
+<p>@太史公传：要命的是，问倒了你，你第二天还是在环球上班———最要命的是，标准答案第三天公布在“环球”上。</p>
+<p>@Keyman-Lai：想问下你几时死，居然要钱wor，顶你个肺</p>
+<p>@磨镜2012：你的叼盘技术天下第一，谁能问得倒你？</p>
+<p>@金泽丰：标准答案都在姓党的媒体，有必要问你吗？如果你肯戴着测谎器来回答，倒是可以试一试。</p>
+<p><a href="http://weibo.com/5868438244" target="_blank">@那山那水背包客</a>：胡编有一点你不服不行:他的脸皮比长城拐弯还厚，他可以在口水里畅游！<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"><img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3661615703" target="_blank">@我如寄居</a><i></i>：练就了一身无下限的<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8192.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee849a.png?resize=20%2C20" alt="" px data-recalc-dims="1">，当然不怕了。</p>
+<p>@采花蟊尖：不问，你这把年纪了，早就练就什么角度的盘都能轻松接住的绝招，没意思，我不自己恶心自己</p>
+<p>@刘春：看问题把我笑喷了，提醒胡兄记得分答收入要缴个人所得税</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%83%A1%E6%80%BB%EF%BC%8C%E5%A5%84%E5%A5%84%E4%B8%80%E6%81%AF%E7%9A%84%E9%95%BF%E5%AF%BF%E6%98%AF%E8%8B%9F%E5%BB%B6%E6%AE%8B%E5%96%98%E7%9A%84%E6%84%8F%E6%80%9D%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E8%A2%AB%E5%A4%84%E5%88%86/?category=18271" rel="tag">胡锡进被处分</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%AD%E5%9B%9B%E6%9C%9F%E9%97%B4%E4%B8%81%E5%AD%90%E9%9C%96%E5%AE%B6%E7%94%B5%E8%AF%9D%E8%A2%AB%E5%81%9C/" target="cdt-mirror">法广｜六四期间丁子霖家电话被停</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%81%E5%AD%90%E9%9C%96.jpg" rel="attachment wp-att-499157"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%81%E5%AD%90%E9%9C%96.jpg?resize=500%2C516" alt="丁子霖" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?resize=291%2C300 291w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?resize=768%2C793 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?resize=992%2C1024 992w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?w=1782 1782w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>高瑜（@gaoyu200812）推特内容截图</span></p></div>
@@ -656,61 +813,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA%E9%98%B5%E5%9C%B0%E5%8D%B1%E9%99%A9%EF%BC%8C%E5%91%BC%E5%8F%AB%E6%AD%A3%E8%83%BD%E9%87%8F%E6%94%AF%E6%8F%B4/" target="cdt-mirror">【异闻观止】中国舆论阵地危险，呼叫正能量支援！</a>
-</h2>
-<p><p>作者：猫眼看天下</p>
-<p>从百度莆田门到雷某嫖娼死看中国舆论阵地的危险</p>
-<p>五月还没结束，就让人已经感觉到中国网络舆论的乱象。从恶炒常外毒地案，到广东医生被杀案，从百度莆田门到雷某嫖娼死，从新婚抄党章到新安肾消失，从郑州杀人犯被捧红，到苏湘高考减招案，一起接一起负面舆情扑面而来，压得有点让人喘不过气来。一片舆情皆危机，满屏怨声从未息。</p>
-<p>谣言乘风而起，疯传网络却鲜有打击</p>
-<p>众所周知的原因，在中国只要一发生舆情事件，就算是一起并不起眼的普通事（案）件，都有可能被一些黑手进行炒作直至发热发烫，随之而来的，则是各种千奇百怪的谣言，充斥于微信微博和网站新闻。</p>
-<p>魏则西事件发生后，知名网络写手水木然于5月3日发表了一篇《比承包医院更黑：莆田人承包了中国90%的寺庙！》帖文，再次将本已热得发烫的莆田系推上舆论的巅峰，中国的佛教应声中枪，形象也由此大受折损。5月18日，杭州拱墅警方经过侦查，确认此谣言的出处并以涉嫌寻衅滋事罪将造谣者魏某刑事拘留。而抓获造谣者这本是一件令人拍手称快的事，但奇怪的是，各路媒体及网络公知大V，却突然不约而同集体陷入沉默，居然无一家媒体或公知提及此事，他们的冷静，与之前的疯狂喧嚣相比，判若两人。而雷某人嫖娼死事件发生后，某些媒体和死磕律师迫不及待抛出了“下一个嫖娼死就可能是你”、“中国嫖娼合法化”等话题，这种图穷匕首见的歇斯底里，远比那些诸如雷某人被电击视频等谣言的危害更大。</p>
-<p>顺便说一下，雷某人舆情事件持续发酵，产生了较为恶劣的影响，某湃网公然叫嚣限制警察执法权，这是为最后上街扫清障碍么？</p>
-<p>主流媒体失聪，选择性发声令人费解</p>
-<p>部分中国媒体，公知大V、死磕律师等对中国军人是视如仇敌，不把军人黑出翔来誓不收兵，没有丑事，就制造丑事。某外国维和军人性侵当地女子，却被国内媒体配上中国维和警察的照片进行恶意炒作，在中国维和警察愤然反击辟谣之后，这些媒体却象个没事的人似的，连一声道歉都没有。</p>
-<p><span><strong>在魏则西事件中，不少媒体把矛头从武警二院齐刷刷地对准了军队，谣言四起（贫猫一直怀疑这起事件是有预谋的，莆田系并非偶发事件，早就有之，为何偏偏集中在五月爆发？）</strong></span>最后，某报、某网站不得不公开向部队道歉才算了事。再来看4月底发生在日本的驻日美军奸杀日本女孩，有一些媒体和网络大V却摇身一变，俨然完全成了美国利益的代言人，美国形象的自觉维护者。那种胎里生的”不炒作，毋宁死“的优良传统瞬间消失，以异常低调、谨慎的态度简单地报道了这起美军奸杀案，甚至对嫌犯名字也讲究一番，用”弗兰克林“而非”富兰克林“，公知大V们更是视而不见。一说到美国的丑事，那些国内媒体的自我修养一夜间提高了一大截，他们的真实身份令人怀疑。</p>
-<p>而在江苏湖南等地高考减招事件中，一些媒体和自媒体人枉顾事实真相，将根本不相干的视频进行恶意传播，发布各类政府关于高考最新改革措施的虚假信息，不断干扰民众的客观判断，竭力挑起民众的愤怒情绪。某官方媒体无视北京无一块蛋糕分出来的事实，却发文嘲讽江苏官方“半夜鸡叫”，结果网民们回应：你咋不上天咧？！同样，在常州外国语所谓毒地事件中，在调查结果还没有出来的时候，这家媒体就未审先判，在文章中给当地政府扣上了“无视群众利益，掩耳盗铃”的帽子。</p>
-<p>媒体控制权旁落，中国舆论阵地岌岌可危</p>
-<p>自古得民心者得天下。今天可以说得舆论者得天下。<span><strong>细心的人应该不难发现，中国现在的主流媒体，还有多少的控股权属于中国，不是美国就是日本，</strong></span>这些数据在网上应该是不难查到的。境外资本皆占据大额的股份配比，具有很强的内部话语权，它们利用“资本优势”、“技术优势”、“理念优势”，潜移默化地影响了这些企业的根本文化。因此，我们不得不正视一个话题，受外资深刻影响的中国互联网企业，对意识形态领域的偏见，存在可能延伸到为他国政治服务的危险性，甚至成为他国遏制中国网络主权的政治“大棒”。</p>
-<p>从本月连续发生的数起重大舆情事件不难看出，在网络舆情阵地的争夺战中，一些国内外资本媒体已经牢牢掌控了话语权，甚至为数不多的正面主流媒体也患上了间歇性癫痫症，不时冒出痴言妄语，令人费解。比如说雷某人一起普通的治安案件，居然能被炒作成国之殇事；再如说抄党章一事，铺天盖地的吐槽甚至以调侃为名对执政党进行各种高中低级抹黑，甚至出现5月24日江西赣鄱置业有限公司为达到逃避巨额债务目的，雇请民工在高院门口抄党章为噱头进行非法闹访的活动。<strong><span>百度排名引发的魏则西个案能扯上中国的佛教界甚至整个军队，贫猫若说这些都只是偶然事件，背后没有推手，您信么？</span></strong></p>
-<p>面对这种情况，国信办密集出台发布了“微信十条”、“账号十条”、“约谈十条”等，依法处理了一批长期发布有害言论的公知大V和不法网站，有效强化了我国互联网秩序规范。但从长远斗争来看，仅仅靠网信部门一家是远远不够的。网络阵地的主力军，应该是广大网民。从两三年前说一声“我爱你中国”就会在网上被数万人围攻谩骂，到如今很多人都敢于自豪地再说出这句话，我们有理由相信中国互联网世界的明天是光明的。</p>
-<p>也正是有了越来越多的爱国网民的支持，今年以来互联网环境得到了明显的好转，但这并不意味着危险的解除。今年以来，重大负面舆情事件频频发生，各种媒体人密集发声意图搅乱大局，可以肯定，一方面与管理力度不够有关，另一方面也说明黑恶势力愈发猖獗。一些极端主义思潮、极左极右势力、境内外反华势力交织在一起，暗流涌动。<strong><span>可以预言，在接下来的一段时期内，还将会出现更多、更复杂的舆情事件，那些黑手们还将会以更加疯狂的手法不断搅局，试图内外结合，沉船砸锅，这一点我们必须要有清醒的认识。</span></strong></p>
-<p>知名自干五总书记、网络意见领袖@点子正 曾经引用过这句话来形容正能量网民的真实心境：我们的事业并不显赫一时，但将永远存在；而面对我们的骨灰，高尚的人们将洒下热泪。中国的舆论阵地危机重重，愿以此文呼叫正能量聚集、奋起！</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B8%AD%E5%9B%BD%E8%88%86%E8%AE%BA%E9%98%B5%E5%9C%B0%E5%8D%B1%E9%99%A9%EF%BC%8C%E5%91%BC%E5%8F%AB%E6%AD%A3%E8%83%BD%E9%87%8F%E6%94%AF%E6%8F%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%AB%E7%9C%BC%E7%9C%8B%E5%A4%A9%E4%B8%8B/?category=18271" rel="tag">猫眼看天下</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">网络舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%86%E7%94%B0%E7%B3%BB%E5%8C%BB%E9%99%A2/?category=18271" rel="tag">莆田系医院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">魏则西之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%B8%88%E6%89%80%E5%BC%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8-%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E7%A0%94%E7%A9%B6%E7%94%9F%E9%81%87%E9%9A%BE/" target="cdt-mirror">导师所开工厂爆炸 华东理工研究生遇难</a>
-</h2>
-<p><p>2016年5月23日，位于上海青浦的上海焦耳蜡业有限公司内的工厂发生爆炸，<strong>三人遇难</strong>，其中包括一位名叫李鹏的华东理工大学在读研究生。<strong>根据上海工商公示信息显示，李鹏的研究生导师张建雨是该公司唯一出资人。焦耳蜡业在2015年6月30日进行过法人变更，由张建雨变为疑似原法人哥哥的张建军。这是该公司唯一一次法人变更记录，也就是说从公司成立的2007年4月起至2015年6月，张建雨一直都是法人身份。</strong></p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%8A%E6%B5%B7%E7%84%A6%E8%80%B3%E8%9C%A1%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%BF%A1%E6%81%AF.png" rel="attachment wp-att-455794"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%8A%E6%B5%B7%E7%84%A6%E8%80%B3%E8%9C%A1%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E4%BF%A1%E6%81%AF.png?resize=600%2C457" alt="上海焦耳蜡业有限公司信息" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/上海焦耳蜡业有限公司信息.png?resize=300%2C229 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/上海焦耳蜡业有限公司信息.png?resize=768%2C585 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/上海焦耳蜡业有限公司信息.png?resize=1024%2C780 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/上海焦耳蜡业有限公司信息.png?w=2494 2494w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></a><p><span>上海焦耳蜡业有限公司工商公示信息截图</span></p></div>
-<p>华东理工大学后发表声明，称“涉事企业负责人已被公安部门刑事拘留”。然而有不少网民质疑，为何明明是5月23日发生的意外，华东理工大学却直到5月28日才出面发布一则内容空洞的简短声明。截至发稿时，除校方声明外，没有任何大陆媒体对此事进行进一步报道。</p>
-<blockquote><p><a href="http://weibo.com/2028734565/DxvT9u14c" target="_blank">@华东理工大学</a>：2016年5月23日15：00左右，青浦区上海焦耳蜡业有限公司厂房发生爆炸，我校二年级李姓研究生不幸遇难。学校深感痛心，并高度重视，迅速成立工作组，一直在努力做好学生家属的慰问、接待和服务等工作，积极配合相关部门开展事故调查。目前，涉事企业负责人已被公安部门刑事拘留，有关部门正在调查事故原因，进行责任认定。学校将积极善后、妥善处理。</p></blockquote>
-<p><strong><br>
-以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@lindem：企业主和教授是兄弟吗？研究生为何在小工坊？</p>
-<p>@新闻武汉 ： 学生在工厂打工？学生在工厂做导师的项目？</p>
-<p>@天邊一朵雲SH：家属到达上海三天时间内除了见到当地镇政府事故善后小组的陆部长和学校的学院院长外，再无其他接触。家属提出要见张建雨，被告知张建雨已被拘留无法见到，后又说张建雨请了委托人，可仍未见到。在百般交涉下，最终也没有见到所谓的专案组，自始至终只见到过两个警察还是当地派出所的。</p>
-<blockquote><p>@李楠楠TAT：#青浦公司厂房爆炸# 5月23日下午，据@新民晚报新民网 消息，上海青浦区练塘镇老朱枫公里6186弄21号的上海焦耳蜡业有限公司厂房发生爆炸事故，目前已造成2人死亡。其中有一名是华东理工大学的在读研究生，也是我邻家一起长大的朋友，至今没有得到校方回应，请校方给公众一个说法@华东理工大学<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8muxuj20hs0nqgo5.jpg" rel="attachment wp-att-455486"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8muxuj20hs0nqgo5.jpg?resize=350%2C467" alt="bb1f1ef2jw1f4agi8muxuj20hs0nqgo5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8muxuj20hs0nqgo5.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8muxuj20hs0nqgo5.jpg?w=640 640w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8zmgaj20vm0hsgp6.jpg" rel="attachment wp-att-455487"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8zmgaj20vm0hsgp6.jpg?resize=450%2C253" alt="bb1f1ef2jw1f4agi8zmgaj20vm0hsgp6" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8zmgaj20vm0hsgp6.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8zmgaj20vm0hsgp6.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi9r5wej20vm0hsgop.jpg" rel="attachment wp-att-455488"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi9r5wej20vm0hsgop.jpg?resize=450%2C253" alt="bb1f1ef2jw1f4agi9r5wej20vm0hsgop" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi9r5wej20vm0hsgop.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi9r5wej20vm0hsgop.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8jkizj20hs0vmae3.jpg" rel="attachment wp-att-455490"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8jkizj20hs0vmae3.jpg?resize=350%2C622" alt="bb1f1ef2jw1f4agi8jkizj20hs0vmae3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8jkizj20hs0vmae3.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8jkizj20hs0vmae3.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agi8jkizj20hs0vmae3.jpg?w=640 640w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agib0indj20hs0vmdj4.jpg" rel="attachment wp-att-455493"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agib0indj20hs0vmdj4.jpg?resize=400%2C711" alt="bb1f1ef2jw1f4agib0indj20hs0vmdj4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agib0indj20hs0vmdj4.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agib0indj20hs0vmdj4.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agiajdx1j20hs0vmwhc.jpg" rel="attachment wp-att-455491"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agiajdx1j20hs0vmwhc.jpg?resize=400%2C711" alt="bb1f1ef2jw1f4agiajdx1j20hs0vmwhc" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agiajdx1j20hs0vmwhc.jpg?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agiajdx1j20hs0vmwhc.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhy35j20k00cm77y.jpg" rel="attachment wp-att-455494"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhy35j20k00cm77y.jpg?resize=550%2C347" alt="bb1f1ef2jw1f4agibhy35j20k00cm77y" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhy35j20k00cm77y.jpg?resize=300%2C189 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhy35j20k00cm77y.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhn4xj20km06o76g.jpg" rel="attachment wp-att-455495"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhn4xj20km06o76g.jpg?resize=550%2C178" alt="bb1f1ef2jw1f4agibhn4xj20km06o76g" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhn4xj20km06o76g.jpg?resize=300%2C97 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibhn4xj20km06o76g.jpg?w=690 690w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibzs6fj20np0hstbs.jpg" rel="attachment wp-att-455496"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibzs6fj20np0hstbs.jpg?resize=450%2C338" alt="bb1f1ef2jw1f4agibzs6fj20np0hstbs" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibzs6fj20np0hstbs.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb1f1ef2jw1f4agibzs6fj20np0hstbs.jpg?w=690 690w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p></blockquote>
-<p>@青子草鱼：当我听到你的噩耗，我瞬间脑子空白，不知道该说什么，完全不能接受你的离去。2016年5月23日下午三点左右，一场爆炸发生在上海青浦区练塘镇的一所工厂内，同时也带走了他年轻的生命，一个华东理工资环学院的研二学生就这样不明不白的没了。一个本该在华东理工校园里的学生怎么会丧生在一个作坊式工厂的破旧厂房里？敢问，他的导师张建雨带他去工厂做什么？而且去的是一个毫无安全保证的作坊式工厂，厂房破旧，毫无消防安全设施。而此工厂的法人正是张建军（张建雨的哥哥），张建雨占了95％的股份。一个老师带着自己的学生第一次去做中试放大实验，明知道实验具有危险性，而你张建雨去了哪儿？反应釜是否规范合格？有安全放空装置吗？在实验区域有防爆操作室吗？统统没有，这样的导师为了一己之利置自己的学生安危于不顾，这难道不是草菅人命吗？</p>
-<p><a href="http://weibo.com/2287249354" target="_blank">@隼子83</a>：请校领导见微知著，理工科研究生下工厂干苦力没文章无学位，谁受益？<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9096.png?resize=20%2C20" alt="" px data-recalc-dims="1"></p>
-<p>@yfzzzzzzzzzzzzzz：研究生为什么在公司厂房？？谁让去的？？涉事企业负责人和研究生导师什么关系？？什么时候来自室友同学的关心可以代表学校了？？哪个领导给的许可？哪个领导真正出来处理？？被害人李某，可是负责人是什么某？代表院系的人员又是什么某？？代表学校的又是什么某？？通篇看完我能得到哪些有用的信息？！</p>
-<p>@魔孑大帝：憋了4天就这么说一下就完了？说的都是空话，对于事实却避重就轻！为何在校学生会在一个小工厂？是谁派他去的？去干什么的？怎么都没有提！这不是意外，是谋杀，是黑心导师的一己私利，是学校教育安全管理的纰漏，我们需要的是事情过程的真相，相关责任人的刑事责任，不能让学长就这么含冤而逝！</p>
-<p>@龙腾腾ECHO追梦人：学校真该关注下学生安全了，别总死命逼学生做实验了</p>
-<p>@关东大侠周十七：是终于捂不住了吗，这种事不该第一时间发声明吗</p>
-<p>@AmorphisDM：终于有大媒体报道了，感动，一定要为无辜逝去的校友学弟讨回公道啊，无良导师丧尽天良，一定要受到法律制裁！高校研究生导师权利太大，一定要好好纠正这长期以来形成的毒瘤！</p>
-<p><a href="http://weibo.com/1766316314" target="_blank">@空空小秃驴</a>：算起来应该是我同届，RIP<img title="[蜡烛]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d9/lazhuv2_org.gif" alt="[蜡烛]" data-recalc-dims="1">另外只说涉事企业负责人什么的，这种事学校和导师都有不可推卸的责任吧，希望母校能真的采取措施避免相关的事再次发生</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%AF%BC%E5%B8%88%E6%89%80%E5%BC%80%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8-%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5%E7%A0%94%E7%A9%B6%E7%94%9F%E9%81%87%E9%9A%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%B8%9C%E7%90%86%E5%B7%A5/?category=18271" rel="tag">华东理工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%94%E7%A9%B6%E7%94%9F/?category=18271" rel="tag">研究生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -722,7 +824,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%B8%9C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -732,5 +834,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%B8%9C
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

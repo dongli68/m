@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,59 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%B5%E5%A8%81%E7%8B%B1%E4%B8%AD%E5%8F%97%E8%BE%B1%E6%88%96%E9%81%AD%E6%80%A7%E4%BE%B5-%E5%AE%98%E6%B4%BE%E5%BE%8B%E5%B8%88%E6%B2%89%E9%BB%98-%E5%AE%B6%E5%B1%9E%E5%8F%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA/" target="cdt-mirror">自由亚洲｜赵威狱中受辱或遭性侵 官派律师沉默 家属及辩护人促当局调查</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg" rel="attachment wp-att-501522"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=450%2C450" alt="「709」中被关押的赵威（考拉）也被指「涉嫌煽动颠覆国家政权罪」正式被逮捕。（网络图片）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?w=622 622w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>「709」中被关押的赵威（考拉）也被指「涉嫌煽动颠覆国家政权罪」正式被逮捕。（网络图片）</span></p></div>
+<p>在中国当局去年的“709大抓捕”行动中遭羁押的北京维权律师李和平的女助理赵威日前传出在狱中遭受人身侮辱，不排除是性侵。赵威的家人称将立即赶赴天津看守所了解情况，抗议当局虐待赵威，并坚持更换官派的律师。家属委托的辩护人任全牛呼吁官派律师董亚南打破沉默，秉持律师职业操守和法律底线，公开就上述消息作出回应。</p>
+<p>北京维权律师李和平的助理赵威在去年“709大抓捕”中被带走，关押至今。日前，她的委托律师任全牛指赵威在看守所内遭到人身侮辱，不排除遭到性侵，目前正在核实有关消息。</p>
+<p>任全牛接受本台采访时称：“传出来的消息说，有朋友通过各种渠道听到的看守所里的狱警在外面炫耀，在看守所里面玩弄了多少女囚犯，他也说出了赵威的名字。现在我们正从各种渠道了解中，我们准备六月份以后选一个时间去天津看守所，要求会见，核实到底怎么回事，寻求真相。听说看守所里面的情况很乱，这种情况很多，我亲自听到过一个在看守所里干过武警的人跟里面那些女的都比较乱，包括语言上的、行为上也都很乱，带有一定的普遍性。</p>
+<p>记者：“意思就是说在看守所里面，女犯遭到性侵是很普遍的事情是吗？”</p>
+<p>任全牛：“严重的程度可能有所不同，但是这种情况的发生肯定是具有普遍性的，因为他的管理很差劲。前一段时间我听说过一些女的在押人员跟管教或里面的人发生过关系，有的甚至是死刑犯发生关系后……,因为法律有规定怀孕的妇女不适用死刑，有这样的事情就是经常会听到。”</p>
+<p>本台记者就此致电天津第一看守所，但电话无人接听。</p>
+<p>网名考拉的赵威毕业于江西师范大学新闻专业。2014年10月起，担任北京锋锐律师事务所律师李和平的助手。去年7月10日，赵威被警方从家中带走；今年1月，被当局以涉嫌“煽动颠覆国家政权罪”正式逮捕。</p>
+<p>赵威的丈夫游明磊告诉本台：“赵威被抓走快一年了，她受到人身侮辱是肯定有的，但是什么时间的问题，是被抓走的那个时候，还是之后的一段时间,还是最近,这个就很难讲。所谓遭到强暴这个事情我之前也在微信有看到有人在传，人身侮辱的范围很广，不能确定一定是被强暴了。我们目前没办法做什么事情，人在看守所是我们唯一知道的消息。这边我委托的律师和她母亲委托的律师都没办法见到赵威。”</p>
+<p>游明磊还表示，官方不容许家人聘请的律师处理赵威案件，而该案官派律师董亚南在接受其电话和发短讯质询时，没有任何回覆。</p>
+<p>任全牛律师也向本台表示，呼吁董亚南秉持律师职业操守和法律底线，公开就上述消息作出回应。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%B5%E5%A8%81%E7%8B%B1%E4%B8%AD%E5%8F%97%E8%BE%B1%E6%88%96%E9%81%AD%E6%80%A7%E4%BE%B5-%E5%AE%98%E6%B4%BE%E5%BE%8B%E5%B8%88%E6%B2%89%E9%BB%98-%E5%AE%B6%E5%B1%9E%E5%8F%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E7%AE%A1%E5%A4%A9%E7%AE%A1%E5%9C%B0%E7%AE%A1%E7%BA%BE%E5%8E%8B%E9%80%94%E5%BE%84/" target="cdt-mirror">奇闻录 | 管天管地管纾压途径</a>
+</h2>
+<p><p>据中青报报道，厦门市教育局发布通知，称高三考生藉由撕教科书、在教学楼吼叫等方式宣泄高考压力，“背离了学校育人的宗旨”，“应予以纠正”。</p>
+<blockquote><p>各普通高中要严格规范管理，坚持正面引导，坚持正确的方式方法，科学开展高三学生心理疏导工作，切实提高高考备考的心理疏导效果，杜绝简单地通过组织学生撕书、吼楼等形式宣泄压力。</p>
+<p>——厦门市教育下发的《关于做好高三年学生心理疏导工作的通知》</p></blockquote>
+<p>厦门市教育局下发的通知称，高考临近，近日个别高中校组织学生以撕书、吼楼等形式宣泄考前压力，并上传视频，在社会上造成了不良影响。</p>
+<p>通知指出，撕书、吼楼等形式背离了学校育人的宗旨，也不是排解高考心理压力的正确方法，应予以纠正。通知要求，各普通高中要坚持开展体育锻炼等日常教育教学活动，及时舒缓和疏导学生的心理压力，防止负面情绪的积累；要坚持正面引导，加强心理健康教育研究，并积极采取科学合理的减压方式。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/33.jpg?resize=600%2C450" alt="2015年6月5日，河南省夏邑县高级中学内掀起“撕书大战”。（微博网友图片）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/33.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/33.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/33.jpg?w=800 800w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2015年6月5日，河南省夏邑县高级中学内掀起“撕书大战”。（微博网友图片）</p></div>
+<p>在中国网站新浪上发起“厦门教育局禁止毕业生撕书吼楼发泄压力，你怎么看？”的调查，1967名，约占投票人数51.1%的使用者认为“不支持，不必如此上纲上线”。而有1727票，约44.9%的网民投票支持禁止撕书，认为“应正确疏导考生心理”。</p>
+<p>有些网民则指出，学生不太可能在考试前撕教科书，因此很多情况下被撕碎的是废纸。</p>
+<p>也有些新浪网民赞成教育局下达禁止撕书令，认为撕书是浪费资源的行为，并建议可以将这些书送给其他同学或卖掉，不需要撕毁。</p>
+<p>回应关于浪费资源、增加清洁人员负担的批评，网友“抽烟的猫88”说：“人生在世几十年，疯狂也就那么一两次，姑且就不要考虑文明不文明了吧，撕完书自己打扫干净就是咯。”</p>
+<p>“–顾昀顾昀–”说：“反正我是撕了不止一次两次了，宗旨是什么？我撕了自己资料也自己打扫了，没有妨碍任何人，说得好像你们把学生往死里逼就符合育人宗旨似的，看着不爽就撕怎么的？至少我们没有安排一系列的政策让别个一晚上都睡不了六个小时吧。”</p>
+<p>在中国社交媒体新浪微博上，#禁止学生撕书吼楼#的标签累计至今超过103万人阅读，一千多次讨论。</p>
+<p>网友“Jimmy_方元”说：“高考在即，即便有错，应该正面鼓励，而不是指责！”</p>
+<p>“Aulgo”表示：“试卷撕一撕无所谓，书还是可以留着用的。”</p>
+<p>在去年，七名在武汉的高中生因为撕书且将碎片抛出窗外，被学校勒令退学。</p>
+<p>校方稍后解释，学生只是被警告，并没有真的被开除，他们还是能继续参加考试。</p>
+<p>猜你喜欢 政委进驻视频网站 老大哥在偷窥你微信 应该要求观众看完写一篇思想汇报 看不顺眼哪哪都是错 八成捐款去向未明</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E7%AE%A1%E5%A4%A9%E7%AE%A1%E5%9C%B0%E7%AE%A1%E7%BA%BE%E5%8E%8B%E9%80%94%E5%BE%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E7%BA%B2%E4%B8%8A%E7%BA%BF/?category=18271" rel="tag">上纲上线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA/?category=18271" rel="tag">情绪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E6%98%8E/?category=18271" rel="tag">文明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%95%E4%B8%9A%E7%94%9F/?category=18271" rel="tag">毕业生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E5%8D%97/?category=18271" rel="tag">河南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4/?category=18271" rel="tag">社交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/?category=18271" rel="tag">社交媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E7%94%9F/?category=18271" rel="tag">考生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B2%B3%E5%8C%97%E4%B8%A4%E4%BD%8D%E6%AE%8B%E7%96%BE%E7%A7%8D%E6%A0%91%E8%80%81%E4%BA%BA%E7%81%AB%E9%81%8D%E5%85%A8%E7%90%83%E4%B9%8B%E5%90%8E%EF%BC%9A%E6%88%90%E4%BA%86%E5%85%B8%E5%9E%8B%EF%BC%8C/" target="cdt-mirror">澎湃新闻｜残疾种树老人火遍全球后：成了典型，树也不敢卖了</a>
 </h2>
 <p><p><em>原标题：河北两位残疾种树老人火遍全球之后：成了典型，树也不敢卖了</em></p>
@@ -749,70 +799,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/528%E4%B8%96%E7%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4%EF%BC%9A1984%E5%B9%B4%E7%9A%84%E4%B8%9C%E5%BE%B7%E5%9B%BD%E4%BF%9D%EF%BC%8C%E4%BC%BC%E6%9B%BE%E7%9B%B8%E8%AF%86/" target="cdt-mirror">【CDTV】窃听风暴：1984年的东德国保，似曾相识</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%888.29.36.png?resize=553%2C344" alt="Screen Shot 2016-05-28 at 上午8.29.36" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.29.36.png?resize=300%2C187 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午8.29.36.png?w=553 553w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>窃听风暴剧照  豆瓣评分：9.1/10</span></p>
-<p>《窃听风暴》（德语：Das Leben der Anderen，又名《他人的生活》、《别人的生活》，港译《窃听者》），2006年德国影片。影片是德国导演弗洛里安·亨克尔·冯·杜能斯马克的处女作，并由他亲自编剧。影片于2006年3月23日在德国发行。获得了第79届奥斯卡金像奖最佳外语片奖。</p>
-<p>本片主要讲述了1984年东德东柏林史塔西（国家安全局）的一名秘密探员负责监听一男剧作家及其女友（知名演员），逐渐被他们的生活所吸引，转而同情他们的遭遇，以至最后暗中对他们施以援手的故事，整个影片从侧面影射了当时东德对于媒体和言论自由的政治气氛，从本质上来讲，整个电影体现的是东德的思想解放的一个缩影。（维基百科 <a href="https://zh.wikipedia.org/zh-cn/%E7%AB%8A%E8%81%BD%E9%A2%A8%E6%9A%B4">窃听风暴</a>）</p>
-<p>CDTV推荐《窃听风暴》，如果您在墙内无法看到YouTube上的视频, 请<span><a href="https://link.getsync.com/#f=CDTV-movie&sz=56E8&t=2&s=RCHZFABDZB3CHHMKIKKV3QAXIVITGGCQEQKMOTMMXX324IVXGZBA&i=CIT7FJ5IYL7EIL5XZRYVBIKZNX42GLCX7&v=2.0"><strong>点击这里</strong></a></span>使用BitTorrent Sync (Sync) 下载观看。</p>
-<p><a href="https://www.youtube.com/v/79yJESOeVDc?version=3">https://www.youtube.com/v/79yJESOeVDc?version=3</a></p>
-<p><a title="《窃听风暴》" href="http://www.youtube.com/watch?v=79yJESOeVDc" target="_blank">《窃听风暴》</a></p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90cdtv%E3%80%91%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4%EF%BC%9A1984%E5%B9%B4%E7%9A%84%E4%B8%9C%E5%BE%B7%E5%9B%BD%E4%BF%9D%EF%BC%8C%E4%BC%BC%E6%9B%BE%E7%9B%B8%E8%AF%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6%E7%BB%9F%E6%B2%BB/?category=18271" rel="tag">专制统治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E5%BE%B7/?category=18271" rel="tag">东德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D/?category=18271" rel="tag">国保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E6%96%AF%E5%8D%A1/?category=18271" rel="tag">奥斯卡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E5%90%AC/?category=18271" rel="tag">监听</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">秘密警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AA%83%E5%90%AC%E9%A3%8E%E6%9A%B4/?category=18271" rel="tag">窃听风暴</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2-%E5%85%8B%E6%A0%BC%E5%8B%83-%EF%BC%8C%E5%9C%A8%E7%AC%91%E8%AF%9D%E4%B8%AD%E5%92%8C%E8%8B%8F%E8%81%94%E4%B8%80%E8%B5%B7%E9%99%B7%E5%85%A5/" target="cdt-mirror">国家人文历史 | 前苏联，不允许正直克格勃的存在</a>
-</h2>
-<p><p>原题：勃列日涅夫时代的克格勃 ：在笑话中和苏联一起陷入泥潭</p>
-<p>作者：李思达</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%887.59.38.png?resize=571%2C407" alt="Screen Shot 2016-05-28 at 上午7.59.38" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午7.59.38.png?resize=300%2C214 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-上午7.59.38.png?w=571 571w" sizes="(max-width: 571px) 100vw, 571px" data-recalc-dims="1"><br><span>1987年的卢比扬卡大楼，苏联克格勃总部，位于俄罗斯首都莫斯科卢比扬卡广场。该建筑属新巴洛克式建筑</span></p>
-<p>1964年10月13日，正在黑海度假的赫鲁晓夫被紧急召唤回莫斯科参加主席团（即苏共政治局）的经济会议。等他抵达莫斯科的时候，前来迎接的只有克格勃主席谢米恰斯内和一名警卫局长。谢米恰斯内明显有点紧张，他向赫鲁晓夫俯下身去，压低嗓门告诉这位总书记：“大家都在克里姆林宫等着你。”</p>
-<p>等着这位总书记的是一场政变。由于受不了赫鲁晓夫取消各种特权福利，触动整个苏联官僚阶层既得利益的“十大打击”（苏联官僚给赫鲁晓夫改革起的绰号），下属联手发动了此次政变。而接替赫鲁晓夫的是列昂尼德·伊里奇·勃列日涅夫，这个党内公认的最没有能力的人物。所有的人都认为这个任命只是临时过渡，再过几年，总书记这个职务就会由党内那些强有力的人物，比如曾经的克格勃主席谢列平来接手。然而正如当初大家小看了斯大林和赫鲁晓夫一样，这次大家也没有估计到勃列日涅夫超强的官僚手腕——他不仅成功保住了自己的位置，挤走了所有可能挑战的对手，还成为继斯大林之后在位时间最长的苏联领导人。从1964年到1982年，苏联进入漫长的勃列日涅夫时代。</p>
-<p><strong>1. 社会停滞，笑话却井喷的时代</strong></p>
-<blockquote><p>斯大林、赫鲁晓夫和勃列日涅夫一起乘火车出门。开着开着，突然火车停了。</p>
-<p>斯大林把头伸出车窗之外，怒吼道：“枪毙火车司机！”可是火车没有动；赫鲁晓夫也把头伸出车窗之外，说：“给司机恢复名誉！”火车仍然没有动；这时候，勃列日涅夫说：“同志们，不如我们拉上窗帘，坐在座位上自己摇动身体，做出列车还在前进的样子！”</p></blockquote>
-<p>从外表来看，勃列日涅夫统治前期可谓是苏联的黄金时代，国力蒸蒸日上，不仅在核武器上和美国实现了恐怖的核威慑平衡，还在全球范围内带着自家小弟和北约集团展开了针锋相对的地缘争霸，成为让所有其他国家都为之忌惮的超级大国。尤其是在20世纪60年代后期和70年代初中期，是苏联历史上人民生活最好、和美国差距最小的时期。1975年，在“新经济体制”的刺激下、苏联的国民生产总值达到峰值，排名欧洲第一，世界第二。</p>
-<p>然而，这种好景只是在透支未来，勃列日涅夫享受的只是赫鲁晓夫改革的红利和国际原油价格暴涨带来的好处。据统计，在1974年到1984年10年间，光石油出口就给苏联赚回了2700到3000亿美元的外汇。但外汇入超也掩盖不了苏联经济走向深渊的本质。在“八五”之后，苏联连续3个五年计划经济增长率都急剧下降。糟糕的不只是经济，整个苏联社会在政治、经济、社会文化等诸多方面都出现了严重的停滞现象。情况就正如笑话所说，苏联这列火车已经在事实上停滞不前了，但以勃列日涅夫为首的苏共领导层却只看见原油外汇带来的巨大收入，自欺欺人地认为形势一片大好，甚至连头都不愿意探出车窗，只是装出火车还在继续前进的样子。</p>
-<p>在这种社会停滞、气氛压抑的大环境下，苏联民间的政治笑话却突然发生井喷。各种辛辣讽刺笑话纷纷出台，流传甚广。美国学者布鲁斯·亚当斯曾在《俄国的微弱反抗》中收集了总共794则苏联政治笑话，其中勃列日涅夫时代的就有211则，占了1/4强！此时的政治笑话不仅产量大，而且流传速度奇快，在斯大林时代，一则政治笑话传遍莫斯科的大街小巷大概需要两到三天，而在1970年，克格勃对蔓延在社会上的政治笑话做了一番调查，结论是“一则政治笑话只需要6到8个小时就可以传遍一座如莫斯科市大小的城市”。</p>
-<p>为什么政治笑话突然在这个时候发生井喷？归根到底是因为以勃列日涅夫为首的苏共领导层出了问题。在长达18年的时间里，苏联一步步走向了僵化和腐败的深渊。长期存在的理论和现实不一致的情况，导致了大量民众对政府的极度失望；此外，由于勃列日涅夫任人唯亲，搞干部任命终身制，给苏联社会带来极其严重的弊病：老人政治、官僚阶层集体腐化、思想僵化、特权阶级、克格勃对意识形态的严厉控制等问题，都是在这个时期发生的。这些广为人民所诟病和痛恨的事情，也为这些政治笑话提供了源源不断的素材。而另一方面，勃列日涅夫治下的整个苏共高层种种匪夷所思的腐败和堕落，又给广大民众展现了一副丑态百出的现实笑话。</p>
-<p>勃列日涅夫时代的苏联也好，克格勃也好，就是在这种荒诞的笑话中，一步步走向了泥潭。</p>
-<p><strong>2. 老人政治和特权，笑话钟爱的题材 </strong></p>
-<blockquote><p>新闻报道：“苏联共产党中央委员会、政治局和部长会议沉痛宣告：列昂尼德·伊里奇·勃列日涅夫同志在长期患重病之后没有苏醒过来，但是目前仍在工作。”</p>
-<p>苏斯洛夫临终前，政治局委员围在他的床边。他们在等着医生宣布苏斯洛夫死亡。沉默良久之后，医生终于开口说：“没有办法啊，没有人能顶得住。我们主要敌人就是老年化。”“不对”，勃列日涅夫说，“我们主要敌人是缺乏自律。大家看看，我们已经等了半个小时，但苏斯洛夫居然还没有来！”</p></blockquote>
-<p>1981年3月的苏共二十六大选出了14 名政治局委员，其中只有两人年纪在60 岁以下，70岁以上的竟有8人，占一半以上。除此之外，政治局候补委员的平均年龄也达到了67岁，部长会议领导层的平均年龄也高达到了68. 1岁。就是这么一帮行将就木的老头子，牢牢把持住了苏联政坛。这些人的生活已经越来越远离现实世界，面对苏联日益加深的社会矛盾和危机，他们既没有精力，更没有任何动力去推动任何有意义的改革。对苏联政坛上这种死气沉沉的“老人政治”，人民都看在眼里，社会上开始大量流传着讽刺勃列日涅夫老糊涂的笑话，然而更加可悲的是，现实比笑话还要可笑：晚年的勃列日涅夫在某次主持召开阿塞拜疆党代会时，由于秘书疏忽给错了讲稿，在众目睽睽之下，他毫无察觉地拿着错误讲稿念了整整两页。这时，惊慌失措的秘书才匆匆忙忙给他换了正确讲稿，而勃列日涅夫只是嘟哝着：“同志们，这不是我的错，让我们从头来过。”就又从头念起。</p>
-<p>老人政治的根源来自干部任命终身制，而干部任命终身制又来源于勃列日涅夫的上台。他是在党政官僚阶层的支持下，通过“宫廷政变”将赫鲁晓夫赶下去。为了巩固自己的统治，他与各部门和地方领导干部达成默契：各部门和地方干部支持勃列日涅夫把持总书记的宝座，而他则从制度上保证他们的特权和终身制。而随着时间演化，苏联逐渐形成了一个脱离普通群众的“特权阶级”，更可怕的是，这些人还建立一个专收这些子弟的教育制度，然后通过一套任命和提升职务的制度来使得自己特权得以继承，形成了一种“特权继承制”！对此，苏联人民辛辣地讽刺道：</p>
-<p>一位老将军和他的孙子正在散步。“爷爷，我长大之后能当上将军吗？”“当然能！”“那我能当上元帅吗？”“那不能，元帅们也有他们自己的孙子啊。”</p>
-<p>面对这些不满和愤怒，苏共高层并没有意识到问题根源，而是出于维护自己既得利益的角度，大肆加强了对思想方面的限制和管控，妄图用国家力量去压制。而这个任务被交给了他们心目中无所不能的机关——克格勃，事实证明，即便是这种糟践自己名声的任务，克格勃也完成得很好，生生地让自己从一个威震敌胆的机关，变成了人人厌恶的思想警察，被勃列日涅夫集团拖到了泥潭之中，成为政治笑话的主角。</p>
-<p><strong>3. 臭名昭著的思想警察 </strong></p>
-<blockquote><p>在勃列日涅夫时代，广大民众中间形成了“厨房政治”，就是在公用厨房中和亲密的朋友讨论一些敏感话题，发泄对苏共特权阶层的不满。每当大家谈话告一段落的时候，就会抬头望着厨房电灯：“那个，少校同志，您还在听吗？”</p>
-<p>在莫斯科的地铁上，突然有一个人问另外一个人：“同志，请问您在克格勃里工作吗？”“没有。”“那您有亲戚在克格勃工作吗？”“没有。”“那您有朋友在克格勃工作吗？”“也没有。”“那你赶紧给我把脚挪开，你踩着我了！”</p></blockquote>
-<p>1966年9月15日，苏共政治局通过决议，对刑法第190条作了几项增补：</p>
-<p>以口头形式散布诋毁苏联国家和社会制度的明显谎言，以及书面形式创作同样内容的作品，处以剥夺三年以下的自由，或劳动营改造一年，或处以100 卢布的罚款； ……对组织和参加破坏社会制度的集体行动者进行惩处。</p>
-<p>到底什么算是明显谎言？什么算是破坏社会制度的集体行动者？这件事情，本人说了不算；律师说了不算；甚至连法官说了也不算，苏共中央把解释权交给了自己最宝贝的机关——克格勃，让他们随心所欲解释法律。1967年5月19日，安德罗波夫被任命为克格勃主席，在他的主持下，克格勃成立一个专门局来负责这方面的工作，这就是臭名昭著的思想警察——第五局。</p>
-<p>一开始，第五局只有六个处，第一处负责文化交流渠道；第二处负责针对国外，反和平演变；第三处负责大学生工作；第四处负责宗教界工作；第五处负责侦查“反苏”作品和传单；第六处负责理论研究。随着克格勃对苏联社会生活干涉的深入，这个局迅速扩大，到1982年已经扩充到15个处共2.5万名工作人员，负责监视艺术、文化、体育、新闻、出版、宗教等所有人们能想到的和意识形态沾边的领域。这个局的工作“卓有成效”，仅1967到1970年，就有2456人根据第五局提供的黑材料被追究刑事责任，其中以反苏宣传和鼓动罪被判刑的有281人。而这些人可能仅仅是因为收听了国外电台，然后在公开场合一不留神把听到的内容当奇闻逸事给讲了出来而已（库布拉诺夫案，因定期收听并转述“以色列之声”“美国之音”内容，被判刑两年）。</p>
-<p>但第五局可怕的地方不在于仅仅能把人送到劳改营，为了对付所有“思想颠覆分子”，他们甚至会动用国家资源对目标的名誉进行破坏，甚至将他们诬蔑为“精神病”，然后送到精神病院加以囚禁。直到此人签署自白书，承认自己是在精神不正常的情况下发布了反苏言论才有可能释放——但这么一来更坐实此人有精神病的嫌疑，第五局以后就更有理由把此人弄到精神病院去。这种比《二十二条军规》还要荒谬的情景，就发生在现实中。活生生地将生活变成了笑话，而把人们原本以为的笑话变成了苏联现实！</p>
-<p>到底有多少人被第五局诬蔑迫害成精神病人？由于打着保护病人隐私的旗号，普通人并不清楚其规模和受害者姓名。但可以从克格勃的报告中见到一些端倪：1967年，克格勃主席安德罗波夫和总检察长鲁坚科联名给苏共政治局打报告，称在全苏各地都发生了“闻所未闻”的挑衅苏维埃政权案件……这些案件是如此之多，以至于“精神病院不够用了”，因此他们坚决要求中央“至少拨给他们（劳改营管理总局）5所精神病院！”这种疯狂的政治精神病直到1988年才正式终止，而克格勃手中的精神病院已经多达16所，一次性被摘掉精神病帽子的就有80万人之多！</p>
-<p>除了将看不惯的人送到“精神病院”之外，对于一些名气较大的人物，第五局则采取流放或者驱逐出境的措施，比如著名作家索尔仁尼琴，第五局在1974年2月13日直接将其押上飞机驱逐出境。而对于一些“小虾米”，第五局则是进行威胁性的“预防警告”。光1967年到1970年3年之中，克格勃第五局的就对58298人进行了预防警告，平均约每天53人（全国范围），而20世纪70年代后频率更高，1971年到1974年同样3年之中，第五局对63108人进行了预防警告。</p>
-<p>在克格勃第五局的严厉监制和压迫之下，苏联成了一座压抑心灵的大监狱，正如笑话所讲，在克格勃监听和思想控制下，谁也不敢表露心声，谁也不敢得罪克格勃这个权力无限的机关，但也绝不会有人会喜欢它。就在克格勃在政治地位高升的同时，它已经在人民心目中堕落为最讨厌的机关了。</p>
-<p><strong>4. 不允许正直克格勃的存在</strong></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8A%E5%8D%888.03.08.png?resize=266%2C400" alt="Screen Shot 2016-05-28 at 上午8.03.08" data-recalc-dims="1"><br><span>谢苗·库兹米奇·茨维贡</span></p>
-<p>在勃列日涅夫统治后期，由于苏共高层的腐败已经深入骨髓，大案奇案频出，只有想不到，没有做不到，整个苏联社会已经完全成了笑话的世界。1980年的鱼子酱走私案就是如此，一名克格勃人员偶然买到了一批鲱鱼罐头，打开之后发现里面装的居然是价格昂贵的鱼子酱。大吃一惊的侦查人员经过调查，结果揭发出一起严重的走私案：以渔业部副部长、渔业生产销售管理局副局长为首的官员，伙同涉及苏联外贸部、食品工业部、太平洋舰队、莫斯科、索契等地领导，将索契和阿斯特拉罕的鱼子酱装入贴有鲱鱼标签的罐头走私到国外，然后牟取高额差价，猖獗的走私活动居然持续了长达十余年之久，涉案人员高达300人之多。此案最后也只是以负责人调职而不了了之。</p>
-<p>其实，鱼子酱走私案只是冰山一角，此时的苏联已经从根子上烂掉，就连第五局也无法挽救了。况且就算是克格勃本身也好不到哪里去，叛逃、走私、参与黑社会犯罪等各种丑闻频出。而更可悲的是，如果在克格勃中还有坚持原则的人，那么他自己反而没有什么好下场。</p>
-<p>1981年12月，莫斯科的演艺圈接连发生两起影响恶劣的重大刑事案件：12月11日，著名演员卓娅·费多洛娃在家中被害；12月30日，著名的马戏团驯虎女郎伊琳娜·布格林莫娃家失窃，许多贵重的珠宝钻石被窃。案件侦破很快，因为4天之后的1982年1月3日，海关在莫斯科截获了一名叫作鲍里斯·布里亚采的人，在他身上发现了伊琳娜·布格林莫娃家被窃的珠宝。但随着调查的深入，案件性质变得越来越严重，调查人员不仅在布里亚采家搜出了许多来历不明的珠宝，还发现他和卓娅·费多洛娃被害案件有千丝万缕的关系。于是，案件被移交给克格勃第一副主席谢苗·库兹米奇·茨维贡负责处理。这桩“珠宝走私案”真相迅速被查清，布里亚采是勃列日涅夫女儿加琳娜的情夫，在他周围有一个“克里姆林宫子女”的圈子，他们疯狂倒卖走私黄金、古董和钻石。布格林莫娃和费多洛娃都是这个团伙中的一员，费多洛娃之所以被害，是因为她掌握了太多团伙犯罪证据而被灭口。</p>
-<p>1982年1月11日，茨维贡已经完全了解了此案的来龙去脉，由于牵涉到勃列日涅夫的家人，他不得不赶往孔策沃别墅向身体状况欠佳的勃列日涅夫做了汇报，要求惩办牵涉其中的加琳娜。勃列日涅夫躺在沙发上听完汇报，一边指示“全部依法律审判”，一边转过身子面朝墙壁哭了。但是接下来的事情完全出乎所有人的意料，1982年1月18日，苏共第二号人物苏斯洛夫紧急从华沙赶了回来，和茨维贡进行了一番“艰难的谈话”，谈得具体内容虽不得而知，但是可以肯定是与加琳娜和“珠宝走私案”有关。谈完之后苏斯洛夫血压升高，直接住进的医院。第二天，也就是1月19日，茨维贡突然蹊跷地自杀了：没有留下任何遗书、遗言，保险柜里面的贵重物品没有任何事先安排过的迹象；而且事前也没有任何征兆，就在当天出门前，他还在和妻子讨论装修别墅的问题，但是出门后不久，他就在一个栅栏旁“使用”警卫员的手枪自戕了。现场只有他和警卫员两人，到底是自杀还是“被自杀”，就成了一桩死无对证的悬案。</p>
-<p>堂堂的克格勃第一副主席，在触犯到勃列日涅夫集团核心利益的时候，就不明不白地“自杀”了。昔日铁面无私，为了国家利益而牺牲一切在所不惜的机构，此时也不得不成为特权集团的看门狗，甚至连稍微有点正义感的人也不允许存在！失去了人民的爱戴，成为权贵的工具，昔日战功赫赫的克格勃，也不得不屈从在苏共特权阶级的意志下，悲哀地成为人民眼中令人厌恶的笑话对象了。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%9B%BD%E5%AE%B6%E4%BA%BA%E6%96%87%E5%8E%86%E5%8F%B2-%E5%85%8B%E6%A0%BC%E5%8B%83-%EF%BC%8C%E5%9C%A8%E7%AC%91%E8%AF%9D%E4%B8%AD%E5%92%8C%E8%8B%8F%E8%81%94%E4%B8%80%E8%B5%B7%E9%99%B7%E5%85%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%8B%E6%A0%BC%E5%8B%83/?category=18271" rel="tag">克格勃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%89%8D%E8%8B%8F%E8%81%94/?category=18271" rel="tag">前苏联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8B%83%E5%88%97%E6%97%A5%E6%B6%85%E5%A4%AB/?category=18271" rel="tag">勃列日涅夫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E8%81%94%E5%8F%B2/?category=18271" rel="tag">苏联史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%AB%E9%B2%81%E6%99%93%E5%A4%AB/?category=18271" rel="tag">赫鲁晓夫</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -824,7 +810,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -834,5 +820,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,25 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%AD%E5%9B%9B%E6%9C%9F%E9%97%B4%E4%B8%81%E5%AD%90%E9%9C%96%E5%AE%B6%E7%94%B5%E8%AF%9D%E8%A2%AB%E5%81%9C/" target="cdt-mirror">法广｜六四期间丁子霖家电话被停</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%81%E5%AD%90%E9%9C%96.jpg" rel="attachment wp-att-499157"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%81%E5%AD%90%E9%9C%96.jpg?resize=500%2C516" alt="丁子霖" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?resize=291%2C300 291w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?resize=768%2C793 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?resize=992%2C1024 992w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?w=1782 1782w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>高瑜（@gaoyu200812）推特内容截图</span></p></div>
+<p>六四二十七周年日临近，著名独立记者高瑜周一在推特上告知，天安门母亲丁子霖教授被国保通知从6月1日起在她家上岗并将切断她的家用电话。国保交给的专用手机，其中只有三个号码，分别是国保，丁子霖的儿子以及120紧急呼救号。</p>
+<p>丁子霖教授在电话中向本台确认了上述消息，并且表示，自从她的先生蒋培坤教授去世后，既不上网，又不用微信的她，几乎过着与外界隔绝的生活。</p>
+<p>丁子霖教授向本台表示，正在集中精力撰写回忆录，把自己的亲身经历留给下一代，使他们了解1989年6月4日究竟发生了什么。</p>
+<p>随着“八九六四”纪念日的临近，北京当局加强了控制，重庆公民刘亚璇因在网上转发六四网帖而遭到警方十余小时传唤。此外，中国各地公民声援郭飞雄的行动也持续遭到当局打压，据报道，至少有九人被警方传唤，有人甚至遭到拘留。维权网周日报道说，四川成都警方在六四27周年前，以「煽动颠覆国家政权罪」拘捕当地一名涉嫌製作「铭记八酒六四」（「八酒」谐音八九）的男子符海陆，同时被捕的还有曾推荐该酒的成都女诗人马青。</p>
+<p>另据报道，流亡旧金山的六四学运参与者与支持者以及人权活动人士数十人周日在旧金山唐人街花园角清洗民主女神的雕像，活动的发起者、“人道中国”主席葛洵表示，清洗民主女神像，象征着对历史真相和六四精神坚持不懈的追求。香港立法会议员、支联会主席何俊仁也专程赶来，为民主女神像献花。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%AD%E5%9B%9B%E6%9C%9F%E9%97%B4%E4%B8%81%E5%AD%90%E9%9C%96%E5%AE%B6%E7%94%B5%E8%AF%9D%E8%A2%AB%E5%81%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90%E9%9C%96/?category=18271" rel="tag">丁子霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-139/" target="cdt-mirror">【河蟹档案】终于明白警察为什么这么热衷于黄赌毒了</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -695,28 +711,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%B8%9C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BF%9D%E6%8A%A4%E8%AE%B0%E8%80%85%E5%A7%94%E5%91%98%E4%BC%9A%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%AA%E8%8E%B7%E5%92%A8%E5%95%86%E5%9C%B0%E4%BD%8D/" target="cdt-mirror">德国之声｜“保护记者委员会”在联合国未获咨商地位</a>
-</h2>
-<p><p><strong>由于中国、俄罗斯等十个国家的反对，媒体监督组织“保护记者委员会”未能获得在联合国的咨商地位。对于联合国非政府组织委员会的这一决定，美国表示 “极其失望”。</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/019285500_30300.jpg" rel="attachment wp-att-455149"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/019285500_30300.jpg?resize=585%2C329" alt="0,,19285500_303,00" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/019285500_30300.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/019285500_30300.jpg?w=700 700w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
-<p>（德国之声中文网）周四（5月26日），联合国非政府组织委员会否决了”保护记者委员会”在联合国经济和社会理事会（ECOSOC）的咨商地位认证申请。</p>
-<p>对于该媒体监督组织的认证申请，由19国组成的联合国非政府组织委员会中的十国投了反对票，其中就包括中国、俄罗斯和南非。另外有3国投了弃权票，其中就包括被”记者无疆界”组织指出近年来媒体自由走下坡路的土耳其。</p>
-<p>对于这一否决，”保护记者委员会”的负责人西蒙（Joel Simon）说：”少数新闻自由情况不佳的国家利用官僚拖延战术，来破坏、阻挠一切让其政策陋习昭然若揭的努力。”</p>
-<p><a href="https://www.cpj.org/" target="external" rel="nofollow">据”保护记者委员会”网站</a>称，该组织从2012年开始申请咨商地位，但根据联合国的”神秘程序”被推迟了7次。”近来，（联合国）非政府组织委员会遭到维权组织的批评，维权组织对该委员会的19国组成感到沮丧、无奈，这19国中包括俄罗斯、中国、阿塞拜疆、南非、苏丹、委内瑞拉和古巴。”</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CPJ-UN-Vote.jpg" rel="attachment wp-att-455169"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CPJ-UN-Vote.jpg?resize=425%2C684" alt="CPJ UN Vote" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CPJ-UN-Vote.jpg?resize=768%2C1237 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CPJ-UN-Vote.jpg?resize=636%2C1024 636w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CPJ-UN-Vote.jpg?w=1258 1258w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
-<p>美国常驻联合国代表鲍尔（Samantha Power）称，对于联合国非政府组织委员会的这一决定”极其失望”，并表示华盛顿计划向由54个成员国组成的联合国经社理事会重新提出认证申请。</p>
-<p>“（联合国）非政府组织委员会的表现越来越像一个反非政府组织委员会，这一点越来越清晰”，鲍尔说。</p>
-<p>与此同时，俄罗斯方面的代表则对于”保护记者委员会”的合法性表示质疑，声称他对于”该组织是否真的是非政府组织深表怀疑”。</p>
-<p>“保护记者委员会”的总部位于纽约，对于俄罗斯的媒体自由、没有保护记者合法权益的问题进行了大量抨击。</p>
-<p>在该组织的网站上，可以找到大量针对中国新闻自由、媒体审查的批评性文章。该组织2015年底发表的特别报道称，”在中国，大量记者（49人）在蹲监狱，创下了该国最高纪录……占全球记者入狱总数的四分之一，连续第二年成为全球关押新闻工作者最多的国家”。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%BF%9D%E6%8A%A4%E8%AE%B0%E8%80%85%E5%A7%94%E5%91%98%E4%BC%9A%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%AA%E8%8E%B7%E5%92%A8%E5%95%86%E5%9C%B0%E4%BD%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E6%8A%A4%E8%AE%B0%E8%80%85%E5%A7%94%E5%91%98%E4%BC%9A/?category=18271" rel="tag">保护记者委员会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">新闻审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -738,5 +732,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

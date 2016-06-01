@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E5%90%AB%E9%93%85%E6%B6%82%E6%96%99%E5%86%B3%E8%AE%AE/" target="cdt-mirror">美国之音｜中国封杀联合国有关含铅涂料决议</a>
@@ -335,7 +335,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E9%B1%BC%E4%BE%AF/?category=18271" rel="tag">长鱼侯</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%B5%E5%A8%81%E7%8B%B1%E4%B8%AD%E5%8F%97%E8%BE%B1%E6%88%96%E9%81%AD%E6%80%A7%E4%BE%B5-%E5%AE%98%E6%B4%BE%E5%BE%8B%E5%B8%88%E6%B2%89%E9%BB%98-%E5%AE%B6%E5%B1%9E%E5%8F%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA/" target="cdt-mirror">自由亚洲｜赵威狱中受辱或遭性侵 官派律师沉默 家属及辩护人促当局调查</a>
 </h2>
@@ -903,7 +903,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -913,5 +913,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

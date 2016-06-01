@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E5%90%AB%E9%93%85%E6%B6%82%E6%96%99%E5%86%B3%E8%AE%AE/" target="cdt-mirror">美国之音｜中国封杀联合国有关含铅涂料决议</a>
@@ -790,7 +790,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E6%9D%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%9A%E4%BC%9A/?category=18271" rel="tag">世博会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">中国政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B8%85%E5%9B%BD/?category=18271" rel="tag">大清国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E5%AE%98%E5%91%98/?category=18271" rel="tag">政府官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%9A%E6%B8%85/?category=18271" rel="tag">晚清</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%85%E6%9C%9D/?category=18271" rel="tag">清朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/?category=18271" rel="tag">生活方式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E4%BA%BA/?category=18271" rel="tag">西方人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%AD%E5%85%B3%E9%94%81%E5%9B%BD/?category=18271" rel="tag">闭关锁国</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0100%E5%A4%A9%E7%9A%84%E6%96%B0%E5%AA%92%E4%BD%93%E5%AE%9E%E9%AA%8C-%E6%80%8E%E4%B9%8883%E5%A4%A9%E5%B0%B1%E5%81%9C/" target="cdt-mirror">端传媒 | “手抄党章100天”的新媒体实验 怎么83天就停了？</a>
 </h2>
@@ -903,7 +903,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -913,5 +913,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

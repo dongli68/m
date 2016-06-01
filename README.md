@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%9F%E6%B5%AA%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%BA%8C%E5%8D%81%E4%B8%83%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E8%AF%97/" target="cdt-mirror">孟浪：六四二十七周年纪念诗</a>
+</h2>
+<p><p><span>注：本诗原载于6月1日香港《明报》世纪副刊</span></p>
+<p><span><strong>口诀：六四二十七或三九二十七</strong></span></p>
+<p><span><strong>孟 浪 </strong></span></p>
+<p>血手与血手印之间</p>
+<p>隔着氧气，褪去了涂抹、擦拭</p>
+<p>出发的和抵达的，相撞在一起</p>
+<p>记忆押着遗忘，有人视而不见</p>
+<p>而我要让你分明看见这无形</p>
+<p>那曾经直接的割取和甩脱</p>
+<p>头颅中的火焰跃过，再一次跃过</p>
+<p>罪啊，罪，却学习着消失</p>
+<p>二十七年，一整个国家的羞耻</p>
+<p> </p>
+<p>痕迹，犯罪学，学会了逃跑</p>
+<p>扎进政府里面端坐，佯装无辜</p>
+<p>车队、人群，一条细线，一根神经</p>
+<p>被这双用罪来涤净的手抽走</p>
+<p>狠狠揉捏十几亿张面团：愤怒的脸</p>
+<p>别过去，别过去，终于扭断</p>
+<p>啊，断然的牺牲，滋养、哺育丧失</p>
+<p>轰隆隆，呼啦啦，涌泉般壮丽</p>
+<p>二十七年，一整个民族的酵素——</p>
+<p> </p>
+<p>血手印印在天上，谁又在</p>
+<p>诬指，是神的塑胶指纹？</p>
+<p>我指出了，这虚无并不可取</p>
+<p>大地之上，就这一点最后的绿</p>
+<p>一片草尖，把无言的露珠抖落</p>
+<p>她，托起整个天空的重量</p>
+<p>她的一声叹息自最深处传来</p>
+<p>记忆的口诀，无可挽回，也无可阻挡</p>
+<p>从三九二十七，迈向四七二十八</p>
+<p> </p>
+<p>2016.5.27</p>
+<p> </p>
+<p> </p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%9F%E6%B5%AA%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%BA%8C%E5%8D%81%E4%B8%83%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E8%AF%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">六四事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E6%B5%AA/?category=18271" rel="tag">孟浪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%97%E6%AD%8C/?category=18271" rel="tag">诗歌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 24分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E5%90%AB%E9%93%85%E6%B6%82%E6%96%99%E5%86%B3%E8%AE%AE/" target="cdt-mirror">美国之音｜中国封杀联合国有关含铅涂料决议</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg" rel="attachment wp-att-516822"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg?resize=575%2C323" alt="2016年5月27日，在内罗毕召开的联合国环境大会期间，一位街头涂鸦艺术家用不含铅的涂料绘制壁画。（美国之音伊艾米拍摄）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2016年5月27日，在内罗毕召开的联合国环境大会期间，一位街头涂鸦艺术家用不含铅的涂料绘制壁画。（美国之音伊艾米拍摄）</span></p></div>
@@ -859,39 +905,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%AD%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-29/" target="cdt-mirror">奇闻录 | 周末段子荟萃 5-29</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CjcVYGUUoAEaoEh.jpg?resize=468%2C351" alt="CjcVYGUUoAEaoEh" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CjcVYGUUoAEaoEh.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/CjcVYGUUoAEaoEh.jpg?w=468 468w" sizes="(max-width: 468px) 100vw, 468px" data-recalc-dims="1"></p>
-<p>@av69bb：【请看党国令人啼笑皆非的新名词】经济萧条叫增速放缓；圈地运动叫城镇化；拔苗助长叫保增长；人民收入下降叫收入负增长；货币贬值叫购买力下降；增加税赋叫保民生；通货膨胀叫量化宽松政策；操纵股市叫救市；经济危机叫新常态；搜刮民脂民膏叫为人民服务；陪和尚上床叫开光！</p>
-<p>@格瓦拉：【小猴奇遇记】小猴问猪说：你觉得现在的生活怎么样？猪说：吃得饱，有窝住，主人不再随便打骂，这真是美好的时代……小猴叹道：出生为猪不可怕，如果知道挣扎，还有希望；若是从猪的生活中寻出美来，就是万劫不复了……猪摇头说：听不懂你说些什么，猪肉价格又上涨了，以后，看谁还敢轻视我们了。</p>
-<p>@郭解放v：1940年毛泽东对陈嘉庚描绘未来的国家：一没贪官污吏；二没土豪劣绅；三没赌博；四没娼妓；五没小老婆；六没叫化子；七没结党营私之徒；八没萎靡不振之气；九没人吃摩擦饭；十没人发国难财。经过70年的奋斗，今天，一切都齐了。</p>
-<p>@西雅图黄都督：这两天一则中国广告在美国网上炸锅了：一个浑身脏的壮黑人进屋要亲一个中国妞，结果被中国妞塞进洗衣机用一个叫做俏比的洗衣球珠暴洗，再出来的时候变成了一个锅盖头全身干净的白肤华人……///有外国网友表示：“中国也许很有钱，但道德层面仍很贫瘠。”</p>
-<p>@作业本：北京已初步制定拥堵费方案，专家说收费应在每天20到50元…专家是不是搞错了啊？拥堵费应发给车主，买车缴那么多税养那么多部门连个路都没弄好，难道不该罚他们？政府设计的道路给人民带来拥堵还要人民掏钱？难道管理就是收费？执法就是罚款？</p>
-<p>@Sherlo1：所以漫威编辑同我讲话，说“神盾局已经决定了，你来当大反派吧”。我说另请高明吧。我实在也不是谦虚，我一个刚上任的新复仇者头头，怎么到hydra去了呢？但是呢，编辑同志讲“大家已经研究决定了”，所以我后来就念了两首诗，叫“苟利冬兵生死以，岂因黑化避趋之？”</p>
-<p>@博谈网：【自古以来】借用一下外交部的“自古以来”：自古以来，中国的寺庙都不收门票，你们一来，就筑高门坎收门票；自古以来，中国的土地房屋都私人所有，自由买卖，你们一来，就归你所有限制买卖；自古以来，百姓大江南北自由迁移，你们一来，就划地为牢户藉限制；自古以来，祖国的名胜古迹髙山大川自由欣赏，你们一来，就跑马圈地拦路收费；自由以来，中国官首乡道自由通行，从不收费，你们一来，就雁过拨毛鱼过挖鳞，收费站多过超市；自古以来，中国百姓生育自由，生多生少自己作主，你们一来，女人的子宫你作主，产房门口收人头费……你们是不是想证明，这个朝代是最霸道的朝代？</p>
-<p>@szshu：广东推行两天半休息，深圳记者街头采访，路人说我们公司现在还单休，双休都没有。两天半跟普通市民有毛关系，而且这跟小平的让一部分人先富起来的道理一样。让一部分机关事业单位企业的人先放假两天半起来，提前周五就休假出游，不跟只能放双休单休的人抢节假日高峰期资源而已。</p>
-<p>@黄章晋ster：问：为什么我在国外几乎没有看见过他们为国外的社会问题吵架？为啥中国网民那么那么那么超出人类正常范畴的爱操心欧洲是否绿化 美国是否要完……这种心理太奇怪了，为什么？答：人类天然都爱操心自家的事，不太操心别人家的事，除非是操心自家的会坐牢。</p>
-<p>@mazhaqiu：一个医生，收治一个儿童。孩子家里的经济现状无法战胜病情，于是医生找到民间爱心人士发起募捐。后来就是正能量了：医生良心好，募捐者爱心好，孩子发誓长大回馈社会感恩好。故事很好，好得令人绝望——如果一个社会的正常运转需要心脏的质地，那么，这个社会和绞肉机有何区别？</p>
-<p>@YE5MQ5Vtp2jlWX7：先不要说卖国，你能卖自家的菜吗？你能卖自家的地吗？说句粗话，你的女人能卖自家的器官吗？连我们自已身上的东西都不能卖，都有人管，我们能卖什么？我们能卖国？国家的土地、国家的企业、国家的鸡密、国家的权力，我们能瞅就不错了。你唯一能卖的是只有良心，但我明确告诉你们，我不卖！</p>
-<p>@redfireage：鉴定中国大陆人：1.不说谎，未成年。 2.会说谎，是团员。 3.说谎不眨眼，是党员。4.说谎直视不眨眼慷慨激昂，是官员。 5.说谎令测谎仪也失灵的，是高官。 6.把谎话说成真理的，是最高领导人。</p>
-<p>@haOFei：2013：卫计委：放开单独二孩年均多生200万 2014：卫计委：单独二孩每年多生新生儿不会超过200万 2015：卫计委：预计2015年出生人口将比2014年多100万 2015：卫计委：二孩放开后最高年或多生2000万 2016：统计局：2015全年出生人口比上年减少32万</p>
-<p>@自由的鱼：总书记亲切地拉着土家族大妈的手说：“您今年多大年纪了？”“64了。”一旁的村长连连摆手说：“这个数儿不能说，你得说明年65岁。”</p>
-<p>@liudimouse：教育部有个司长说，他衷心拥护国家的教材多样化政策，否则他早就完蛋了。原来，动不动就有红二代给他打电话，质问写TA爹的课文怎么不见了。司长便立即搬来十几套中小学语文教科书查来查去，总能在某个版本查到那个爹，于是恭敬地回复：你爹还在呢！红二代一听，就破涕为笑并夸他工作做得好。</p>
-<p>@xcityonfire：人性的阴暗一面告诉我们，政治作恶不受惩罚，惩罚不落实到作恶个体，善治不会出现。</p>
-<p>@mazhaqiu：这几天都有来书店问，有党章卖吗？我真想以岳云鹏的招牌：翘兰花指，用剩下四指竖嘴部，然后以最无辜、最天真、最娘的语调问：你他妈买药看看招牌啊！“常怀感恩之心，永谋兴盛之道。”有如此气度、理想的雷洋死于被“打飞机”，你们就把党章当成免死牌了？那玩意太贵，小店容不下。</p>
-<p>@andyyeung12： 前苏联笑话：一位老将军和他的孙子正在散步。“爷爷，我长大之后能当上将军吗？”“当然能！”“那我能当上元帅吗？”“那不能，元帅们也有他们自己的孙子啊。”</p>
-<p>@老刘在德克萨斯：当年在北大念书的时候，圈子里流传个段子，说文化部没文化，教育部不懂教育。二十多年后，官府也是与时俱进了：文化部糟蹋文化，教育部糟蹋教育。</p>
-<p>@fndhrt：在地铁站看到一个年轻人的小米平衡车失控了，嗷嗷追着满车站跑，跟抓鸡似的。</p>
-<p>@dearemon：刚才听到有人唱：“宁静的夏天，一个人在吃大便，手指头只蘸一点，吃一口说好甜……”哈哈哈哈哈哈哈</p>
-<p>@wukra：神父来到广东传教，看到路边一个乞丐，就走过去怜悯地说：“poor guy…” 话没说完就被乞丐暴打了一顿</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-5-29/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -903,7 +916,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -913,5 +926,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

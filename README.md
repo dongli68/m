@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%9B%BD%E6%96%B0%E5%8A%9E%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8E%E4%BA%BA%E6%89%93%E8%B5%B7%E4%BA%86%E5%8F%A3%E6%B0%B4%E4%BB%97/" target="cdt-mirror">【立此存照】国新办在推特与人打起了口水仗</a>
+</h2>
+<p><p>中国国务院新闻办公室在推特的<strong>官方账号 </strong><a href="https://twitter.com/chinascio/" target="_blank">@chinascio</a>，近日因频频与西藏活动人士在推特打嘴仗而引起不小的关注。由于该账号屡屡出言不逊，许多推特用户甚至都不能确定该账号的真实性。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png" rel="attachment wp-att-515125"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png?resize=500%2C170" alt="greatfire" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png?resize=300%2C102 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png?resize=768%2C261 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png?resize=1024%2C348 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png?w=1548 1548w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p>@GreatFireChina:恶搞帐号？像@relevantorgans 那样的？还是真帐号？如果是后者，有谁帮忙打110吧他们需要帮助。<br>
+//@chinascio: 老兄你去过西藏吗？</p></blockquote>
+<p>经中国数字时代编辑查证，<strong><a href="http://www.scio.gov.cn/" target="_blank">国新办官方主页</a>中的官方推特帐号链接的确指向了@chinascio</strong> (https://twitter.com/chinascio)。<strong>这名与西藏活动人士在推特打口水仗，要对方去“自己照照镜子”的用户，就是如假包换的国新办官方推特帐号</strong>：</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B9%E5%B8%90%E5%8F%B7.jpg" rel="attachment wp-att-514577"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B9%E5%B8%90%E5%8F%B7.jpg?resize=610%2C252" alt="国新办推特帐号" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特帐号.jpg?resize=300%2C124 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特帐号.jpg?resize=768%2C317 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特帐号.jpg?resize=1024%2C423 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特帐号.jpg?w=3140 3140w" sizes="(max-width: 610px) 100vw, 610px" data-recalc-dims="1"></a><p><span>国新办官方推特帐号链接的确指向了@chinascio；网页源码查询工具截图（点击查看大图）</span></p></div>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E4%B8%BB%E9%A1%B5.jpg" rel="attachment wp-att-514588"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E4%B8%BB%E9%A1%B5.jpg?resize=500%2C193" alt="国新办主页" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办主页.jpg?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办主页.jpg?resize=768%2C296 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办主页.jpg?resize=1024%2C394 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办主页.jpg?w=3096 3096w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>国新办主页页首截图</span></p></div>
+<p><strong>中国数字时代编辑将该账号近日部分嘴仗语录译成中文（附截图）：</strong></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B91.png" rel="attachment wp-att-515001"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B91.png?resize=450%2C769" alt="国新办推特1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特1.png?resize=768%2C1312 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特1.png?resize=599%2C1024 599w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特1.png?w=1200 1200w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<blockquote><p>@sanverde @Travis_M Long way to go, China will be a hub to attract more talents, Chinese talents and foreign talents<br>
+（任重而道远，中国终会成为一个吸引更多人才的枢纽，包括中国人才和外国人才）</p>
+<p>@BhoRangzen @ProfJonTaylor @Tibetans Yeah we see that coming, when you’re out of words you just start to slander and curse, BTW, who pays u?<br>
+（我们就知道你会这么说，没话讲了你只能污蔑谩骂了。<strong>顺便问句，谁在付你钱？</strong>）</p>
+<p>@raghavan1314 @XHNews Unite we stand, depart we fall<br>
+（团结则存分裂则亡<译者注：原文语法混乱，其实是不通的。正确版本为“United we stand. Divided we fall.”>）</p>
+<p>@BhoRangzen @Tibetans We are proud of our country, not because we’re paid, because we love, but for you, did you just use Ctrl+C and Ctrl+V?<br>
+（我们为自己的国家自豪，不是因为我们收了钱，而是因为爱。但你的话，你只是复制黏贴吧？）</p>
+<p>@BhoRangzen @ProfJonTaylor Are you a repeater? So you’ve got nothing but repeating those hatred words, truth ain’t lie dude, know yourself<br>
+（<strong>你是复读机吗？</strong>除了重复那些仇恨话语其他什么都说不出来。真相不是谎言，老兄。<译者注：不能肯定 know yourself 在这里的意思。“好自为之”？>）</p>
+<p>@BhoRangzen Wait for 10+ years before you make the judgements: who is pushing forward peace and who is being obstacle and messing things up<br>
+（等上10年再来断言：谁在推动和平，而谁又在阻碍、在捣乱？）</p>
+<p>@BhoRangzen @kmgupta_india The seeds of tomorrow are rooted deeply in the heart, although someone’s heart is drying up because of hatred<br>
+（未来的种子深埋于内心，然而有些人的心已经因为仇恨干涸了。）</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B92.png" rel="attachment wp-att-514998"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B92.png?resize=450%2C222" alt="国新办推特2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特2.png?resize=300%2C148 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特2.png?resize=768%2C379 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特2.png?resize=1024%2C505 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特2.png?w=1558 1558w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B93.png" rel="attachment wp-att-514994"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B93.png?resize=450%2C322" alt="国新办推特3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特3.png?resize=300%2C215 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特3.png?resize=768%2C550 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特3.png?resize=1024%2C733 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特3.png?w=1558 1558w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<blockquote><p>@BhoRangzen @tibetan Legitimacy don’t run away dude, and never try to represent the rest of world, look at the mirror and know who you are<br>
+（合法的<达赖喇嘛>是不会逃跑的，老兄。永远也不要代表全世界，<strong>照照镜子看看自己是谁吧</strong>。）</p>
+<p>@BhoRangzen Exactly, why don’t u prove yourself a Tibetan, not a “Bird in a Golden Cage” raised by someone, dare you?<br>
+（对啊，你为什么不证明自己真的是西藏人，而不是<strong>别人养的“金丝雀”</strong>？你敢吗？）</p>
+<p>@BhoRangzen @Tibetans Every year foreign journalists are invited and organized to report Tibet, don’t use your ignorance to cover up timid<br>
+（每年都有外国记者被邀请来报到西藏，不要用你的无知掩饰自己的怯懦。）</p>
+<p>@BhoRangzen @Tibetans Again, don’t try to hype things up with fabricated pictures or other cheeky moves. You don’t represent Tibet AT ALL<br>
+（再重复一次，不要用虚假图片来炒作或做其他无耻的举动。你根本就不能代表西藏！）</p>
+<p>@BhoRangzen @Tibetans This kind of picture can be forged easily with PS, just admit it. The method you are using now is pointless<br>
+（这种照片很容易用PS造假的，承认吧。你的手段是毫无意义的。）</p>
+<p>@BhoRangzen @Tibetans Are u a Tibetan yourself? Go make a survey in Tibet at first before you talk the nonsense<br>
+（你自己是西藏人吗？去西藏自己做个调查再来这儿胡扯。）</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%9B%BD%E6%96%B0%E5%8A%9E%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8E%E4%BA%BA%E6%89%93%E8%B5%B7%E4%BA%86%E5%8F%A3%E6%B0%B4%E4%BB%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/twitter/?category=18271" rel="tag">Twitter</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%96%B0%E5%8A%9E/?category=18271" rel="tag">国新办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%94%B7%E5%AD%90%E5%9B%A0%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%E9%85%92%E7%93%B6%E7%85%A7%E7%89%87%E8%A2%AB%E6%8B%98/" target="cdt-mirror">纽约时报｜男子因纪念“六四”酒瓶照片被拘</a>
 </h2>
 <p><p>北京——近27年前发生在<a title="Link: http://www.nytimes.com/2014/06/04/world/asia/times-coverage-of-tiananmen-square-25-years-ago.html" href="http://www.nytimes.com/2014/06/04/world/asia/times-coverage-of-tiananmen-square-25-years-ago.html" target="_blank" rel="nofollow">1989年6月4日</a>的大屠杀，给中国留下的政治伤痕仍未愈合。伤痕未愈的程度表现在，最近一名男子因颠覆罪被拘留，他的支持者说，因为他在网上分享了一些酒瓶标签的照片，上面有当年士兵在北京天安门广场镇压抗议活动的日子。</p>
@@ -839,22 +885,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%B0%91%E5%B0%86%E6%9C%B1%E6%96%B0%E5%BB%BA%E4%BC%A0%E5%8F%8C%E8%A7%84/" target="cdt-mirror">东方日报｜少将朱新建传“双规”</a>
-</h2>
-<p><p>原解放军“四总部”据传已成军中反腐新焦点。海外传媒报道，现任中央军委科学技术委员会专职委员的朱新建少将，传上个周末被军纪委带走“双规”，成为原“总装”二级部主官当中首个被查军官。分析指，朱受查或打开原总装腐败案的缺口，且有可能波及更高层将领。</p>
-<p>据报道，朱新建曾任“总装（即解放军总装备部，改制前的军中“四总部”之一）”综合计划部副部长、军兵种部副总工程师、综合局局长等职。在军事机构改革后，朱新建由“总装”二级部副部长，转任军委科技委专职委员的“虚职”，有指被视为“平安着陆”，而他今年四月到军工厂调研，据报还非常高调地讲话。</p>
-<p>曾任江泽民心腹李继耐秘书</p>
-<p>分析指，朱受查的消息对原“总装”将领震动极大，因为朱新建是前任总装备部部长、上届中央军委委员李继耐的秘书，李继耐被指是江泽民心腹。据了解，上将军衔的李继耐主管“总装”后，曾调回总政治部，并出任总政主任要职，因此被称为横跨总装备部和总政治部两大部的军委委员。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%9C%E6%96%B9%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%B0%91%E5%B0%86%E6%9C%B1%E6%96%B0%E5%BB%BA%E4%BC%A0%E5%8F%8C%E8%A7%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E6%96%B0%E5%BB%BA/?category=18271" rel="tag">朱新建</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%B3%BD%E6%B0%91/?category=18271" rel="tag">江泽民</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -866,7 +896,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E6%96%B0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -876,5 +906,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E6%96%B0
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

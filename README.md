@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E5%90%AB%E9%93%85%E6%B6%82%E6%96%99%E5%86%B3%E8%AE%AE/" target="cdt-mirror">美国之音｜中国封杀联合国有关含铅涂料决议</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg" rel="attachment wp-att-516822"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg?resize=575%2C323" alt="2016年5月27日，在内罗毕召开的联合国环境大会期间，一位街头涂鸦艺术家用不含铅的涂料绘制壁画。（美国之音伊艾米拍摄）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2016年5月27日，在内罗毕召开的联合国环境大会期间，一位街头涂鸦艺术家用不含铅的涂料绘制壁画。（美国之音伊艾米拍摄）</span></p></div>
+<p>内罗毕— 在肯尼亚首都内罗毕召开的联合国环境大会最后的谈判期间，中国封杀了人们期待已久的有关限制含铅涂料的联合国决议。不过，其它国家已经在采取行动，修改有关含铅涂料的法律。这种涂料有可能造成儿童的大脑损伤。</p>
+<p>在有全球“环境议会”之称的联合国环境大会(UNEA)期间，在发展中国家逐渐取消含铅涂料的运动排在议事日程的重要位置。</p>
+<p>针对“鼓励”各国政府通过限制含铅涂料法律的建议，<strong>中国是唯一的反对国家</strong>。因此，一项限制全球范围化学品和废料的联合国决议没有提及含铅涂料。</p>
+<p>如果小孩子吃进或吸入铅末，有可能导致终生脑损伤。</p>
+<p>总部在内罗毕的联合国环境规划署环境法律处的艾伦·梅索说： “除非我们现在拿出一些行动，否则我们就会让我们的孩子接触到严重的危险。”</p>
+<p>美国的规定是涂料的含铅浓度不得超过90百万分率(ppm)。</p>
+<p>不过，在发展中国家进行的检测发现，装饰性涂料的含铅浓度达到了一万到十万百万分率。这些涂料用在住宅、学校、医院和其它建筑物.</p>
+<p>铅暴露可导致低智商并减弱一生中赚取收入的能力。</p>
+<p>在联合国环境大会期间，纽约大学医学院发表的一份报告说，铅中毒造成的儿童智商降低在发展中国家造成9770亿美元的经济损失。</p>
+<p>把含铅涂料从联合国决议中排除令决策人员深感失望。不过，很多发展中国家正在起草本国有关含铅涂料的法规，这是2020年前消除含铅涂料全球联盟的一部分。</p>
+<p>在全球联盟的支持下，斯里兰卡、菲律宾、尼泊尔和泰国已经落实了新的法律，限制涂料中的含铅量。印度和孟加拉国正在最后敲定法规草案。</p>
+<p>国际消除持久性有机污染物网络(IPEN)消除含铅涂料运动经办人萨拉·布罗舍说： “事情真的进展得很快。其中一个主要原因是利益相关方的合作共事。所以，当业界意识到这样的局面时，他们和决策人员和民间组织一样，也希望推动这件事。所以，这是一个令人感到鼓舞的好例子，表明所有利益相关方携手合作，在这些国家一起来推动这件事。”</p>
+<p>15个非洲国家，包括肯尼亚和埃塞俄比亚，已经在制定新法规，预计在今年最后敲定。</p>
+<p>联合国环境规划署的梅索去年12月参加了在埃塞俄比亚首都亚的斯亚贝巴举行的非洲合作伙伴会议。</p>
+<p>他说：“这不是攻击业界。这是挽救我们的孩子的未来。所以，让业界参与进来至关重要。我不认为2020年的最后期限是达不到的。它是可以实现的。我们只需要有政治意愿，把这件事推动下去。”</p>
+<p>对含铅涂料的健康威胁缺乏意识，这是一大障碍。检测方面缺乏专业知识以及如何监管非正式的涂料生产者，这些也都是挑战。</p>
+<p>不过，倡导人士说，用安全的替代物取代含铅涂料相对来说简单可行而且成本不高。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E5%90%AB%E9%93%85%E6%B6%82%E6%96%99%E5%86%B3%E8%AE%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">儿童权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E9%87%91%E5%B1%9E%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">重金属污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%85%E4%B8%AD%E6%AF%92/?category=18271" rel="tag">铅中毒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%9B%BD%E6%96%B0%E5%8A%9E%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8E%E4%BA%BA%E6%89%93%E8%B5%B7%E4%BA%86%E5%8F%A3%E6%B0%B4%E4%BB%97/" target="cdt-mirror">【立此存照】国新办在推特与人打起了口水仗</a>
 </h2>
 <p><p>中国国务院新闻办公室在推特的<strong>官方账号 </strong><a href="https://twitter.com/chinascio/" target="_blank">@chinascio</a>，近日因频频与西藏活动人士在推特打嘴仗而引起不小的关注。由于该账号屡屡出言不逊，许多推特用户甚至都不能确定该账号的真实性。</p>
@@ -68,7 +96,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/twitter/?category=18271" rel="tag">Twitter</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%96%B0%E5%8A%9E/?category=18271" rel="tag">国新办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%94%B7%E5%AD%90%E5%9B%A0%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%E9%85%92%E7%93%B6%E7%85%A7%E7%89%87%E8%A2%AB%E6%8B%98/" target="cdt-mirror">纽约时报｜男子因纪念“六四”酒瓶照片被拘</a>
 </h2>
@@ -862,29 +890,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%B4%AB%E5%AF%8C%E6%82%AC%E6%AE%8A%E6%97%A5%E7%9B%8A%E5%8A%A0%E5%89%A7/" target="cdt-mirror">德国之声｜中国贫富悬殊日益加剧</a>
-</h2>
-<p><p>北京上海等大城市的富裕程度令人瞠目，而另一方面，按照联合国和世界银行的标准，中国人口的大多数却长期处于贫困状态。贫困悬殊问题加剧显然是影响社会稳定的隐患。</p>
-<p>距离上海奢华的购物中心几步之遥，往往就是那些传统简陋的小卖部。一名退休女工正在这里抱怨：“价格简直是在发疯，无论是肉类，还是蔬菜，都贵得无法负担。”“我们老年人还好凑合，养孩子就很难了。”</p>
-<p>中国的富人变得越来越有钱，与此同时，价格也在不断上涨。在这个共产党执政的国家里，据估计有六百名拥有十亿以上美元的富翁，百万富翁则有三百万名之多。</p>
-<p>北京大学社会学研究所不久前做的一项统计显示，目前只占人口百分之一的人群已经拥有中国总财富的三分之一。而占总人口四分之一的收入较低人群却只拥有总财富的百分之一。</p>
-<p>北京理工大学的胡星斗教授认为，七十年代末开始改革以来，分配不均问题目前发展到了极其严重的地步，已经危害到社会稳定。这位学者说：贫富悬殊非常严重，反映贫富差距的基尼系数十年前就已经超过0.4，现在想必已经介入0.5到0.7。基尼系数为0，表示收入分配绝对平等，基尼系数为1，则表示收入分配完全不平均。</p>
-<p>胡教授表示：“基尼系数从0.4起就越过了红线，社会上出现暴力和抗议的风险就越来越大。”世界上只有南非和巴西的基尼指数比中国更高。胡教授认为，贫富悬殊加剧的趋势不会很快出现改观。</p>
-<p>胡星斗认为：“中国大多数人并没有机会改变社会地位。按照联合国和世界银行的标准，中国人口的大多数长期处于贫困状态。”对于经历过北京上海街头富裕景象的人，确实难以想象中国仍有如此多的贫困人口。而这还不是全部真相：真正的财富是外界看不到的。</p>
-<p>经济学家胡星斗说：“最富的人在政府里，他们滥用权力，剥夺别人的财富。这是一些隐形的富人。”</p>
-<p>税制改革势在必行</p>
-<p>政府也越来越担心，贫富悬殊可能引发的社会后果。2013年北京当局就启动了应对措施：提高了最低工资，并开始征收“富人税”。但胡教授认为，这些措施还远远不够。</p>
-<p>“要想公平分配财富，首先要关闭那些获得巨额补贴的国有企业。中国人缴纳税赋的额度至少同北欧国家一样，但他们却没有相应的社会福利体制。”北京领导层显然也意识到了这一问题：新的五年计划增添了教育机会均等以及人人有钱看病就医等目标。不过，胡教授认为，鉴于腐败和裙带关系，仅凭这些目标是无法解决问题的。他说：“中国需要政治改革：只有实现民主和建立法治，才能纠正这些资本主义的弊端。”这位经济学家很清楚当今中国的苦涩现实：这里所开展的市场经济改革使这个人民共和国变成了世界上最不平等的国家。但是由于这里没有民主文化，所以迄今也就没有人站起来公开反对。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 先存后转 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%B8%AD%E5%9B%BD%E8%B4%AB%E5%AF%8C%E6%82%AC%E6%AE%8A%E6%97%A5%E7%9B%8A%E5%8A%A0%E5%89%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">收入不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96/?category=18271" rel="tag">贫富分化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">贫富差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E6%82%AC%E6%AE%8A/?category=18271" rel="tag">贫富悬殊</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -896,7 +901,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -906,5 +911,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

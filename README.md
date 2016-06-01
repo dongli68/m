@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E6%95%8F%E6%84%9F%E6%97%B6%E5%88%BB%E8%87%B4%E6%88%98%E5%8F%8B%EF%BC%9A%E6%80%BB%E4%BC%9A%E8%A7%81%E5%BD%A9%E8%99%B9/" target="cdt-mirror">【立此存照】海淀公安敏感时刻致战友：总会见彩虹</a>
+</h2>
+<p><p>海淀公安分局官方账号于北京时间6月1日在新浪发布了一则相当耐人寻味的微博：</p>
+<blockquote><p><a href="http://webcache.googleusercontent.com/search?q=cache:OfSx9BWec2QJ:weibo.com/1710175603/DycR50hCn+" target="_blank"><strong>@海淀公安分局</strong></a>：致战友：这一路，有风有雨，但只要我们在一起，总会见彩虹！！</p></blockquote>
+<p><strong>因时值昌平公安五名涉<a href="http://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/" target="_blank">雷洋案</a>的警察被宣布立案侦查，网民普遍认为海淀公安的这条微博是为昌平公安打气、与其抱团的表态。</strong>截至发稿时，@海淀公安分局 已删除上述微博。</p>
+<p>从以下这张<a href="http://webcache.googleusercontent.com/search?q=cache:AeRh1-Hk59cJ:weibo.com/1233227211/DyejHt9wT+" target="_blank">谷歌快照</a>截图可以看出，海淀公安“致战友”的微博在当时已收到近900条评论和转发。该网页缓存时间为北京时间2016年6月1日16时04分。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E5%88%86%E5%B1%80.jpg" rel="attachment wp-att-526389"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E5%88%86%E5%B1%80.jpg?resize=550%2C532" alt="海淀公安分局" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/海淀公安分局.jpg?resize=300%2C290 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/海淀公安分局.jpg?resize=768%2C742 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/海淀公安分局.jpg?resize=1024%2C990 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/海淀公安分局.jpg?w=1204 1204w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@光老顽童：海淀公安发了一个致战友，大意是要抱成一团，等待彩虹再现。其背景是在雷洋案中的警察被立案侦查之后有感而发。点开评论，跟帖的全国各地战友们个个悲壮万分，大有黑云压城城欲摧之悲沧。我想知道，这个完全合法又顺乎民意甚至来得有些晚的决定，为何公安系统引发如此反弹？想再研究一番，人家删帖了。</p>
+<p>@思量不思量：他们应该也对那位溺忘亡去世的交警同样发表一下看法</p>
+<p>@沧州鹰：社会黑暗，弱民命如楼蚁，一切都证实了。</p>
+<p>@海达郝老师：跟谁战？又是谁的友？</p>
+<p>@去V的刘建锋:还在把法律当自己家的。</p>
+<p>@紧的爷: 养狗不能惯狗，惯得过分就会反咬主子。——-《养狗者说》柳宗元</p>
+<p>@禾厶享木加：土匪从来都认为自己是最正确的</p>
+<p>@变相：执法机关不以法为准，跑微博上煽情，这是在蔑视法律尊严么</p>
+<p>@东方一朔牟德鸿：对一群涉嫌草菅人命的恶棍依法制裁，竟然引起其他同类的兔死狐悲？这种主动对号入座、为恶棍站台的蠢行，只能暴露出他们骨子里不想受法律约束的特权思维惯性，让人们感觉他们可能确实是一丘之貉。</p>
+<p>@wfg西游：难道都是坏警察？不解啊！清除害群之马对正义的警察和刚从警的警察不是好事吗？</p>
+<p>@两棵白杨树的天堂：一种赚钱模式要黄了，能不急啊？</p>
+<p>@律师音之影：它们在发信号，等待风头过后再作恶？！</p>
+<p>@瓏藏堂：警察被溺爱的不轻，觉得不好就辞职呗，这只是一份工作而已。别跟我扯什么奉献，好像工资外块拿的比普通工人少似的</p>
+<p>@1030ZT：删帖还是想要饭碗啊，这么多怨气应该辞职啊</p>
+<p>@Jack1973：何谓战友？那是要共同对敌的。对公安战线来说，谁是敌人？是那些违法犯罪分子，还是路过足疗店的无辜公民？——希望海淀公安能将我这个问题交给战友讨论！</p>
+<p>@五湖听风：这个博毫无意义，不仅于事无补，反被人诟病，并且加深不信任感。微博本是一种公关手段,如此使用，无法理解。</p>
+<p>@新王小二：嗯，丁点委屈都受不了，怎么让党和政府放心，继续为党国尽忠效劳呢，@海淀公安分局 ？</p>
+<p>@大连老白钢：被权力宠的太久了，脑子坏掉了</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E6%95%8F%E6%84%9F%E6%97%B6%E5%88%BB%E8%87%B4%E6%88%98%E5%8F%8B%EF%BC%9A%E6%80%BB%E4%BC%9A%E8%A7%81%E5%BD%A9%E8%99%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E7%B3%BB%E7%BB%9F/?category=18271" rel="tag">公安系统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">国家机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">平安昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89/?category=18271" rel="tag">海淀公安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%9F%E6%B5%AA%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%BA%8C%E5%8D%81%E4%B8%83%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E8%AF%97/" target="cdt-mirror">孟浪：六四二十七周年纪念诗</a>
 </h2>
 <p><p><span>注：本诗原载于6月1日香港《明报》世纪副刊</span></p>
@@ -837,74 +871,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E5%8D%9A
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0100%E5%A4%A9%E7%9A%84%E6%96%B0%E5%AA%92%E4%BD%93%E5%AE%9E%E9%AA%8C-%E6%80%8E%E4%B9%8883%E5%A4%A9%E5%B0%B1%E5%81%9C/" target="cdt-mirror">端传媒 | “手抄党章100天”的新媒体实验 怎么83天就停了？</a>
-</h2>
-<p><p><strong>这场乍看起来别具“向心力”的自下而上示忠活动，让94岁的党章成为另类“网红”，为何在最后关头从“政治正确”沦为“形式主义”而草草收场？</strong></p>
-<p>怎样管理“世界最大党”？最根本的，怎样重建中国共产党今天作为执政党的精神内核，重建8800万党员对其的精神信仰，确保他们的忠诚纯洁？这恐怕是习近平执政以来，最大的焦虑之一。在他提出的“四个全面”治国理政战略中，第四维就是“全面从严治党”。</p>
-<p>“八项规定”、“反四风”、“政治规矩”、“不得妄议”、“看齐中央”、“核心意识”、“补交党费”、“排查党员关系”，3年多来，在一系列如通关秘钥一般的党员行为、作风、纪律、忠诚建设关键词之后，共产党的自我建设，近来又有了画面感极强、娱乐性十足的崭新延伸：手抄党章。</p>
-<p>“手抄党章100天”，这场由头号党媒旗下新媒体平台发起，乍看起来别具“向心力”的自下而上的示忠活动，让面世94年的《中国共产党章程》第一次成为了移动时代营销模式中的另类“网红”。它甚至在文化大革命发动50周年的纪念日随新婚夫妇入了洞房，达到了80多天来舆论传播的最高潮，但同时也触犯了党的禁忌，在最后关头从“政治正确”沦为“形式主义”而草草收场。</p>
-<blockquote><p>截至发稿，“学习小组”已经足足7天没有发布专场内容。</p></blockquote>
-<p><strong>新媒体党建实验：一个公号撬动百万人</strong></p>
-<p>2016年2月29日，中共中央办公厅正式发布《关于在全体党员中开展‘学党章党规、学系列讲话，做合格党员’学习教育方案》，这份简称“两学一做”的党内整顿方案，要求党员逐条逐句诵读党章，学习习近平系列重要讲话等，做信仰坚定、政治正确、精神振奋、道德高尚的中共党员。</p>
-<p>当天深夜近11时，人民日报海外版旗下的著名微信公号“学习小组”，就套用网络打卡的传播潮流，发起一个“手抄党章100天”的活动。</p>
-<p>活动鼓励党员从3月1日开始，用100天时间，抄写15000多字的党章全文，每天平均150字左右。 “学习小组”会每天发布当天要抄写的内容，党员可以跟随抄写，还可以边抄写边拍照，照片发给“学习小组”后台、微社区或者邮箱，小组会在第二天选登。 “学习小组”还说，“欢迎更多有创意的书写方式”……“让我们重温书写的美好”。</p>
-<p>发起“手抄党章100天”之后，“学习小组”开始每天推送网友的“抄党章”照片，照片里有各种花样装饰的手抄党章，有人们聚集在一起诵读或抄写党章的场景，还有很多单位部门为抄写党章专门设计的笔记本……和以往共产党活动只依靠中央电视台播放一些呆板的画面不同，众人抄党章、晒成果的互动过程充满噱头，在网上越滚越热。</p>
-<p>据“学习小组”自己的文章称：活动开始后，每天微信后台会收到超过2000张照片，邮箱有15屏左右的新邮件（1屏25条，约合375条），社区里有上千个新帖，至少有25个省份数百个单位一起参与了抄党章活动，“不夸张地说，手抄党章活动，可能直接带动了上百万人参与”。</p>
-<blockquote><p>“在当前的政治环境和气氛下，地方都想通过一些创新的手段和新的所谓的党建方式，来做组织上的邀功。”</p></blockquote>
-<p>微信平台上有超过1300万个公号，能点起这把“两学一做手抄党章”星星之火的，绝非等闲之辈。</p>
-<p>“学习小组”两年前由《人民日报》海外版几个年轻的记者、编辑以业余时间主理成立，以善于用年轻时尚的方式发布与习近平有关的新闻──尤其是一些非贴身追访不可获得的消息──出名，也常被视为共产党布局新媒体战略的典型案例之一。它的自我介绍这样写：“这十年，我们好好学习。与习一起进步，一起担当。”“学”、“习”二字，一语双关。</p>
-<p>根据《人民日报》海外版记者陈振凯发表在《网络传播》杂志上的报导，2015年2月，“学习小组”成立一周年时，已经在微信平台收获40万订阅者，其中三分之一是公务员，包括大量厅处科级干部和一定数量的部级干部，和少数党和国家领导人，包括已退休的国家领导人，覆盖31个省市地区。公号下属的微社区，单日页面浏览量峰值达到150多万，接近中国一个中等网站的规模。</p>
-<p>《人民日报》海外版副总编王咏赋曾向《南方周末》表示：“有些地方领导干部，对人民日报海外版可能比较陌生…但对这两个微信公号（‘学习小组’和‘侠客岛’）如雷贯耳。”</p>
-<p>新一轮“两学一做”党建号召下，正愁不知如何“学”、怎样“做”的众多基层党组织，如焦渴地探着风向的离离原上草，一遇“权威公号”推送到指尖上的动员“星火”，即响应出燎原之势。</p>
-<p>长期观察中国政情的九鼎投资研究部主任王箐丰向端传媒表示：“两学一做这件事情，地方上很多也不知道通过什么方式形式搞会比较好。前几天在济南，有个山东省党史博物馆，本来是党史馆，现在改成了两学一做的展览，让各个单位组织人去看。”“在当前的政治环境和气氛下，地方都想通过一些创新的手段和新的所谓的党建方式，来做组织上的邀功。”</p>
-<p><strong>后50天的荒诞：党章不止事关洞房与胎教</strong></p>
-<p>端传媒统计发现，“学习小组”发布的“手抄党章100天”活动情况在第50天和51天（4月19和20日）之间出现分水岭。</p>
-<p>从3月1日开始的前50天，“学习小组”展示的主要是人们发来的手抄党章照片，有零散组合的，也有分地方整理集合的，小组也会每周对手抄稿进行“评选”。第22天，“学习小组”表示，据不完全统计，全国已经有65家各级单位，响应“手抄党章”组织集体抄写，因此决定与各单位合作推出“专场”，集体发布作品。</p>
-<p>4月20日开始，活动进入后50天，“学习小组”开始了以各地基层党组织为单位的“手抄党章专场展示”。这时，以具体的基层单位为主角，抄党章场景照片、专场视频、乃至一些引起争议的表态，开始较密集地出现。</p>
-<p>第69天，新疆生产建设兵团第六师芳草湖农场子女学校，两名女老师带着四名学生在课室里问答：“我们的幸福生活是谁创造的？”“中国共产党！”“我们要像爱妈妈一样爱我们的国家爱我们的党”……</p>
-<p>当天“小组”布置的抄写内容是第二十五条，“党的地方各级代表大会的职权”。</p>
-<p>第75天，新疆医科大学第一附属医院的三位怀孕女员工，站成一排，右手抚着隆起的腹部，左手将红色的党章举在身前，齐声说：“学习党章是最好的胎教”。</p>
-<p>当天布置的抄写内容是第三十条，有关党的基层委员会的任期以及书记副书记的选举报批。</p>
-<p>第78天，河北邯郸复兴区石化街道办机关支部四名年轻党员在小公园里围坐读党章，齐声说：“抄党章，学党章，我们最时尚”。</p>
-<p>当天要抄写的是第三十一条之（五），“充分发挥党员和群众的积极性创造性”。</p>
-<p>此前一天──第77天──党员的积极性和创造性，让“手抄党章100天”红透内地网络，两个多月来网民们对“抄党章”活动的零碎嘲讽与调笑，在“新婚之夜”的场景里瞬间爆发，将这场新媒体版本的党建实验推向无法回头的荒唐与尴尬。</p>
-<p>消息传出那天正是文化大革命发动50周年的5月16日，江西南昌铁路局南昌西供电车间的助理工程师李云鹏、检修车间助工陈宣池，在他们的新婚之夜，“铺开纸张，工整地抄下党章”，“留下美好记忆”。两人身穿礼服的洞房抄党章合照，一经南昌铁路局官方微博宣传，迅速传遍网络。</p>
-<p>端传媒曾致电南昌铁路局宣传科，对方一听询问即挂断电话，之后不再接听。 “新婚之夜抄党章”的初始消息和报导，随后也在内地网络被大面积删除。</p>
-<p>“我觉得有点……不知道是不是炒作，还是真的这么坚定的信仰，反正我是做不到……可能我的水平还没到，”被问及那对南昌小夫妻时，新疆医科大学第一附属医院党院办党支部的胡书记在电话中“呵呵”几声之后，向端传媒如是说。</p>
-<p>但他没有回应几天之前，他们医院那个“学习党章是最好的胎教”的视频。</p>
-<p>胡书记进一步向端传媒解释了新疆医科大学第一附属医院是怎样“抄党章”的：“今年‘两学一做’、学习党章的活动，我们自己也在号召大家学习党章党规、学习（习近平系列）讲话，筹备自己活动的时候，看到‘学习小组’（发起手抄党章），正好契合……全国人民都在搞这个。”</p>
-<p>医院党总支3月开始响应“学习小组”，为了鼓励大家坚持，医院自己也成立了专门的微信群，“抄完之后要拍照，发到微信群里‘晒一晒’。党总支下面有6个党支部，每个党支部的书记、委员都在群里面。坚持不下去，也不会怎么样，工作忙、出差…抄不了也没关系，可以两三天‘补交作业’。”胡书记说：“我们给‘学习小组’只是投了一天的稿子，平时会在我们自己的公众号里面发。”</p>
-<p>据胡书记说，新疆医科大学第一附属医院共有101名党员参加了活动，也有十几名“积极向党组织靠拢”的非党员参与。</p>
-<p>抄完党章，“两学一做”下一步要做什么呢？胡书记说，计划抄党规。习近平系列重要讲话抄吗？ “讲话就不抄了。”</p>
-<p>但实际上，“抄党章”似乎也难以继续下去了。</p>
-<p><strong>中止于第83天：党媒们终于发现了形式主义错误</strong></p>
-<p>5月22日，“手抄党章”的第83天，“学习小组”的公号发布了55551部队专场。该部队的一名班长在视频中说：“枪听我的话，我听党的话”。</p>
-<p>此后，“学习小组”停止了“手抄党章”的活动更新，截至发稿已经足足7天没有发布专场内容。</p>
-<p>此前，端传媒曾致电“学习小组”成员，对方请示“领导”之后表示，活动尚未完结，没有什么经验可以介绍的，并数次明确表示“不接受访问”。</p>
-<p>5月23日，江西省高级人民法院大门外出现了一群上访的工人，他们头戴安全帽，摆上桌椅坐成三排，人人面前摆放一本红色封面的《中国共产党章程》，铺纸持笔手抄。他们背后是一条红底黄字的横额：“抄写党章100天 敦促郭斌副院长做合格的共产党员”。</p>
-<p>这一天，也是“学习小组”迄今最后一次布置“手抄党章”内容，为第三十五和第三十六条，“党员干部要善于同党外干部合作共事”，“党的各级领导干部…职务都不是终身的”。</p>
-<p>第二天，中国江西网引述“有关部门”指，这群民工是“每人每天180元（包午餐）受雇非法闹访”。</p>
-<p>“抄党章只能用来闹洞房，绝不允许用来闹访！”事件立刻变成段子，在微博上传开。</p>
-<p>5月23、24日，“手抄党章100天”的新专场悄然隐匿，取而代之的是中规中矩的《习近平总书记系列重要讲话读本（2016年版）》节选、《习主席国防和军队建设重要论述读本（201年版）》摘编、《人民日报》对习近平考察黑龙江的报导。</p>
-<p>5月25日，《解放军报》刊文针对抄党章活动，称如果抄写只动笔而不“走心”，只“晒字”而不见行动的“真章”，不触及思想和灵魂，就会让这一初衷很好的活动沦为“精致的形式主义”，需要注意和防止。 5月26日，《人民日报》发表评论员文章，称“一些自我感觉不错的创新之举，可能招来网民集体批评……形式主义是最大政治不正确。”《光明日报》也刊文，警告“当心被形式主义带跑题”。</p>
-<p>国家行政学院的竹立家教授在接受端传媒采访时明确表示，抄党章是“一些地方、一些部门的不正当行为，搞一些形式主义，这种做法是不提倡的”，“民众反感很正常”──竹立家也透露，国家行政学院也学党章，“但我们是研讨、讨论，我们层次这么高，怎么能抄呢？”</p>
-<p>一场官方社媒账号发起的新媒体党建实验，就这样在党章段子化的尴尬中草草收尾。</p>
-<blockquote><p>“整体来说，不是为学习党章，或认同党章，而恰恰是一个形式主义、自我保护、自我升值的目的”，“反映了北京或者中共现在思想的凝聚力，其实是完全没有了”。</p></blockquote>
-<p>在香港的资深中国观察家、评论员刘锐绍认为，热热闹闹的抄党章活动，有人捧，官方又好像想要压，但真正意图如何，必须要细致去分析当中的过程、主导力量和动机。 “官方过去做了多次政治动员，对党的高层、政策和形象有破坏没建设，所以近年他们开始懂得‘转弯动员’──我想讲，但不从我的口讲，让别人去讲。但这些东西，在中国官场中也会成为一种上行下效、互相跟风……上有好者，下有什者，变成一种政治自我保护的形式，”刘锐绍说。</p>
-<p>在他看来，跟风“手抄党章”恰恰出自“趋利基因”，“整体来说，不是为学习党章，或认同党章，而恰恰是一个形式主义、自我保护、自我升值的目的”，“反映了北京或者中共现在思想的凝聚力，其实是完全没有了”。</p>
-<p>王箐丰认为，过去的党建活动主要是思想汇报、心得体会，不是太有实际效果，“这个有很多党委想做成比较实体性的运动，展览啊、手抄党章100天啊，实际上主要是为了增强党的存在感……对普通党员传递了一个非常明确的信号。”</p>
-<p>但他也认为，“手抄党章”不见得会成为一场“运动”：虽然“学习小组”发起这个活动，作为宣传和意识形态的动作，示范效应比较明显，目前看不出来背后有多强的中央意志──比如中组部就未见有相关的正式通知，而且地方上也未见必须参与的明确要求，只不过“一旦搞起来，中央不可能说它不对，只要搞了‘左’的活动，哪怕可能社会观感不好，也没有人会指出这样做是不妥的…反而越来越多地方和团体要跟进。”</p>
-<p>“中国这种事儿，真要强调什么政治挂帅啊，‘学习’啊，肯定会有人跟着起哄，（文革时）夫妻学毛选、学‘老三篇’，其实没什么用，有些地方通过这些东西来表示他们做得怎么好，有些只是噱头，”在北京的中国人民大学政治系教授张鸣遥相呼应。</p>
-<p>玩大了危险，“形式主义”又无用，但8800万党员的理想、信仰和忠诚还是要重新抓在手里。对这个早已从革命党转型为执政党，共产主义信仰幻灭，走上中国特色资本主义道路的“世界最大党”来说，这会否是一个“不可能的任务”呢？</p>
-<p>（下篇待续）</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0100%E5%A4%A9%E7%9A%84%E6%96%B0%E5%AA%92%E4%BD%93%E5%AE%9E%E9%AA%8C-%E6%80%8E%E4%B9%8883%E5%A4%A9%E5%B0%B1%E5%81%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%AD%A6%E4%B8%80%E5%81%9A/?category=18271" rel="tag">两学一做</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/?category=18271" rel="tag">学习小组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">形式主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -916,7 +882,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%AD%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -926,5 +892,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%AD%A6
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

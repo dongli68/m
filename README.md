@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E5%90%AB%E9%93%85%E6%B6%82%E6%96%99%E5%86%B3%E8%AE%AE/" target="cdt-mirror">美国之音｜中国封杀联合国有关含铅涂料决议</a>
@@ -558,7 +558,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90%E9%9C%96/?category=18271" rel="tag">丁子霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-139/" target="cdt-mirror">【河蟹档案】终于明白警察为什么这么热衷于黄赌毒了</a>
 </h2>
@@ -903,7 +903,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -913,5 +913,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

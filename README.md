@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,75 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%88%B1%E5%9B%BD%E8%80%85%E7%9A%84%E4%B8%89%E6%9D%BF%E6%96%A7/" target="cdt-mirror">平说｜刘云枫：如何应对“爱国者”的三板斧</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%88%B1%E5%9B%BD%E8%80%85.jpg" rel="attachment wp-att-513272"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%88%B1%E5%9B%BD%E8%80%85.jpg?resize=500%2C375" alt="爱国者" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/爱国者.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/爱国者.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>微信公号：平说（ID: iNews-）<br></strong><br>
+在中国，“爱国者”数不胜数，如和尚、鱼侯……看起来似乎都特爱国。遇到和他们意见不一致的人，“爱国者”就会蜂拥而上，展现他们的爱国热情和辩才。</p>
+<p>但有些“爱国者”，不过，一不小时翻船，沦为“爱国贼”，比如卷入官斗颇深的芮代表。</p>
+<p>本人不才，经过分析，发现：“爱国者”的策略，不过“三板斧”。</p>
+<p><strong>第一种，称之为“五十步等同于一百步”策略。</strong></p>
+<p>就是说，既然A不圆满，B也不圆满，这两种不圆满就是等同的，没有优劣之分。“五十步笑百步”，是孟老夫子的经典。有了这个经典，那些逃跑了100步的人，也自信满满，有恃无恐了。心下在想：你也是逃兵，我也是逃兵，谁也别说谁。</p>
+<p>对此，我持反对态度。试想，当100步的逃兵，跑出去不到50步的时候，50步的逃兵，是不是还在坚持战斗呢。此时，50和100，就不再是量的差别，而是本质的不同。再者，如果，100步的人不逃的话，就不会引起恐慌和混乱，大家都顽强抵抗的话，结果可能会完全相反。此其二。</p>
+<p>因此，“五十步笑百步”的逻辑，是不成立的，但因为亚圣的名号，使得中国人以此为凭，而拒绝一小步一小步的改良。——须知，社会的进步，都是小步挪移，而不是大跨度飞跃。看不到、不反省自己即便是最微小的差距，却沉浸在“50步100步”彼此彼此的自我陶醉中，应该是中国社会停止不前的原因之一。</p>
+<p>以下，是实例。不是我编的，而是转载的——</p>
+<p><span>“专制社会固然是不好的，但是，民主也不见得都好。既然都有优点和缺点，那么，就没有好坏之分了。……世界上没有绝对的事情，因而，也就什么都无所谓了。”</span>这段来自微信。</p>
+<p><span>“对什么事都不能太绝对地看，要么好，要么坏，可世界其实不是这样划分的，绝大多数是灰色的。”</span>这是绎明宇的一段话。他将之称为辩证法。单独看，也没毛病；不只是没毛病，简直是天衣无缝地正确。但是，他用这段话来说明，美国也不怎么样。</p>
+<p><span>“美国人成天喊人权，这段时间不断报道出侵犯人权的事，美国人的话你敢信吗？”</span>这也是绎明宇的原话，联系起来，你就知道他是什么意思了，是不是属于“五十步一百步”策略呢？读者自判自明。</p>
+<p><span>“任何事情都有利有弊，民主有利也有弊，法治有利也有弊，自由有利也有弊。反对民主的人，用民主也有弊端去否定民主的必要性，热衷人治的人用人治也有好处去为人治招魂！”</span>如绎明宇所言，这就是中式一贯的辩证法。倘如此，何谈优劣，何谈改良呢？</p>
+<p>民主有弊端，但是，其弊端要少于专制。正因此，才使得世界各国打倒专制而走向民主，如果，半斤八两彼此彼此，那世界人民岂不是都傻了，只剩下聪明的中国人，醉心于“专制”的日子也不错了吗？！49年之前，那个口口声声反对蒋介石和国民党专制、争取民主的组织，岂不是彻头彻尾的欺骗？</p>
+<p>如果，不区分小恶和大恶、小善与大善，那一个贪污数亿的巨贪，和一个只拿了群众“一针一线”的小偷，岂不该同罪了吗？法院的区别对待，岂不是多此一举了呢？是法院的法官们白痴？还是不区分“哪一种制度更优”的思路更愚蠢呢？</p>
+<p>一波未去，一波又来。这个周日，我在某微信群，发了一句牢骚，说：这个体制，需要另起炉灶了。</p>
+<p>马上来了一个“爱国者”，说：是改成美国、欧洲还是日本呢？</p>
+<p>我知道，只要我一说欧美日，我就是汉奸了；再者，这是朋友的微信群，为了避免大争执，我就给了一个中国样板，说：改成台湾吧。</p>
+<p>“爱国者”说：台湾就好吗？</p>
+<p>我说：台湾没有大面积腐败。</p>
+<p>“爱国者”说：台湾没有腐败？</p>
+<p>注意，“爱国者”极为无耻地把我说的“大面积腐败”，换成了“腐败”。</p>
+<p>他接着问：你知道陈水扁吗？</p>
+<p>我说：你这种屁话，我听多了。闭嘴。</p>
+<p>实在是，这种人遇见的太多了，我不想和他废话，也不想在他们面前展现什么风度。他们结论依然是：台湾也有腐败，大陆也有腐败。凭什么说台湾就比大陆好呢。</p>
+<p>我对此的回击是：这种逻辑等于——良家妇女也睡男人，妓女也睡，妓女只是多睡了几个，而已。这不是“五十步和一百步”吗？所以，妓女等于良家妇女。</p>
+<p>爱国者的逻辑，不过如此。进一步推理：“爱国者”的妻子母亲，都是妓女。推理过程，略！</p>
+<p><strong>第二种，称之为“田忌赛马”策略。</strong></p>
+<p>就是，用自己的长处去和对方的短处比。反过来，却对对方的长处视而不见。</p>
+<p>以专制和民主为例——</p>
+<p>“爱国者”说，印度也是民主国家，你看他们，就发展得不怎么样吧。比中国差远了吧。</p>
+<p>先说，印度只是民主国家中的一个。迄今，世界上所有发达国家，都是民主国家，没有一个是专制的。反倒是，所有专制国家，无一例外是不发达和落后国家，甚至是愚昧国家，远远落在人类文明的地平线之下，如朝鲜。以一个印度之失，并不能说明民主不好；恰恰相反，如果没有民主，印度只能是更差，这是印度的有识之士的共识。</p>
+<p>再者，关于印度的状况，国内的报道都是选择性的。如何选择，不用多言。所以，印度的真实情况，中国人并不了解；我也不是很了解印度的情况。但是，我坚信常识，常识就是民主胜过专制。</p>
+<p>还有，民主的步子，或许是缓慢的，但是，它是扎实的。因为，在民主国家，每走一步，都需要获得全社会、最大多数人的认可。否则，就无法推动。专制制度，有时是飞快的。可是，那是不扎实的。因为其决策并没有获得多数人的认同。因此，今天中国之成就，根基并不牢靠。一旦社会矛盾激化，大幅度地回调、停滞和退步，是难以避免的。这样的循环，中国人是有经验的。</p>
+<p>另一种攻击民主的说辞是：台湾议员在议会里打架，成何体统！看看中国的议会，众口一词，多么欢乐和谐。可问题是，议会议会，就是辩论的；人和人意见不一致，争吵的急了，拳脚相向，的确不绅士，但是，这是人的常态，也是民主的早期形态。你看现在，台湾议会的打架频率，就越来越少了。</p>
+<p>变态的、不正常的，是众口一词，是全体一致通过。如果，所有人的意见都一样，要那么多人干什么？不是浪费吗？如果，你和领导的意见是一致的，要你干什么？如果，你不代表一部分人的不同利益，你这个代表不是多余的吗？在我们忘记了议会的基本性质之后，在我们伪造了一个“团结祥和”的气氛之后，却指责真实的民主早期弊端，岂不是愚蠢的可怜！还别说，表面之后的重重黑幕、勾心斗角、肆意妄为和肮脏不堪。</p>
+<p>如果，在议会里打架，解决了社会的大部分矛盾，这不是一种较好、较少的恶吗？既然，我们不能杜绝恶，就要选择一种较少的恶。</p>
+<p>大陆人不在议会里打，但，绝不说明我们打的能力差频率低。在泰国飞往南京的飞机上，中国同胞打出了“最高水平”——美日欧有吗？没有；连印度、菲律宾、越南和非洲人，也没有。中国男篮和黎巴嫩比赛，朱芳雨等国手，上演了中国武术的“连环脚”和组合拳，让世界体育人士大开眼界。</p>
+<p>论篮球水平，美国最牛；论拳脚功夫，中国男篮天下无敌——直把黎巴嫩打得再也不敢来比赛了。不止这一例，中国男篮和波多黎各、澳大利亚、巴西、美国队等等，都曾有过不俗的“战绩”。论国际比赛次数，中国男篮数不上，可要论“战绩”，中国男篮肯定是No 1。</p>
+<p>不仅外战频频，内战也是很火爆的。最让人开眼的是，12月14日，国内WCBA浙江女篮和四川女篮爆发了大面积群殴。</p>
+<p>来点儿实况——</p>
+<p>担任四川女篮领队的阴钰辰则指出，浙江队助理教练吴乃群竟然公然骂裁判，还冲过来指着自己的鼻子辱骂。“冲突中我方队员陈晓萌被打成脑震荡，浙江队的国手高颂将龚芳竹摁倒，用脚踢她的脸直至需要缝针！目前受伤的4名队员都是主力，接下来还要接受进一步检查，下一场比赛基本不可能上场了。”</p>
+<p>在世界任何一个国家的赛场，见过这样火爆的场面吗？没有。特别是女性。</p>
+<p>民主国家及其国民，所信奉的是规则；专制国家及其国民所信奉的，是强权和暴力。国家如此，国民也如此。有什么样的国家，就有什么样的国民；反之，亦然。</p>
+<p><strong>第三种，称之为“翻历史旧账”策略。</strong></p>
+<p>你说，美国的民主制度好。反对者说，好什么好，美国妇女一直没有选举权；你说，美国是个平等的国家。反对者说，哪儿有什么平等，黑人在美国就一直受歧视。不是马丁路德金领导黑人民权运动的话，黑人到今天还处于被歧视的境地呢。</p>
+<p>反对者说得，好像颇有道理。但，其实是胡搅蛮缠。</p>
+<p>佛家说，放下屠刀立地成佛。这是什么意思？一个人、一个社会只要认识到过去的错误，并彻底改正，就不应该被反复算旧账。一个非常好的例子是上海滩的青帮头领杜月笙。没人否认杜月笙起家，靠的是打打杀杀，开妓院、占码头、贩卖毒品、走私军火，但是，得势之后的杜月笙，反思自己的过去，痛改前非，从善如流，黑道生意不做了，做的都是合法买卖，并大力资助文化事业，广做慈善，并在抗击日本侵略中做出了卓越贡献。</p>
+<p>试问，该如何评价杜月笙呢？是揪住他早期的黑道生涯，一直不放；还是既往不咎，向前看，以今日的时间坐标，来看一个改过自新的杜老板呢？</p>
+<p>历史是一个不断演化和进步的过程。个人如此，社会亦然。“好汉不提当年勇，别说祖上有多阔”，过去的辉煌，只能证明今天的不堪；今天像过去一样，只能说明子孙不屑，不上进。诉说过去多张狂，恰似“我爸是李刚”！揪住他人、他国的历史问题不放，除了说明自我的停滞和对方的进步之外，还有何意义？</p>
+<p>换言之，比较应该基于相同的时点，如果说公元前，就说公元前；说19世纪，就说19世纪；说今天，就都说21世纪的此时此刻。而不是当别人指责你今日之弊时，你却去翻别人的旧账。过去是处女，不代表今日依旧清纯；往日的妓女，也会洗去泥污，改恶从良。莫非强盗的儿子，永远是强盗？英雄的后代，就永远是英雄？一代红，就代代红？</p>
+<p>福泽谕吉第一次去美国，上了岸，就问美国人：华盛顿的后代在干什么？美国人哈哈大笑，说：我们不知道。美国人只问现在，可不管你的祖上是谁？澳大利亚是由英伦三岛流放的囚犯建立的，但是，现在的澳大利亚是文明国家的典范之一。如此，说澳大利亚历史的不堪，意义何在？说我们祖上多光荣，意义又何在？</p>
+<p>评价一个社会，重要的不是它是好还是坏，而是它的变化趋势：如果，它在变好，那就是一个好社会；如果，在变坏，或者停滞不前，那就是一个坏社会。在这个意义上，我们说西方好，不是因为它一直好，不是说它早期没有坏过，而是它一天天变好，且，已经变好了。我们说中国不好，是因为它停滞不前。至少，在政治上，大大落后于世界文明的普遍水准。</p>
+<p>对“爱国者”，我是看不上的。可是，这些人层出不穷，实在是烦，为了以一挡百，我就写这个长文，把他们全打发了。</p>
+<p>当然，效果也许相反。不过，我也不惧。再多的苍蝇，也是苍蝇。这个世界，要是没有苍蝇嗡嗡乱叫，或许也是很单调的。天下太平了的话，我的文章还有啥用呢？呵呵。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%88%B1%E5%9B%BD%E8%80%85%E7%9A%84%E4%B8%89%E6%9D%BF%E6%96%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%AE%E6%88%90%E9%92%A2/?category=18271" rel="tag">芮成钢</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%B0%B1%E8%BF%9E%E5%91%A8%E5%B0%8F%E5%B9%B3%E4%B9%9F%E5%BE%97%E4%B8%8Ayoutube%E4%BA%AB%E5%8F%97%E8%A8%80%E8%AE%BA%E8%87%AA/" target="cdt-mirror">【立此存照】“就连”周小平也得上YouTube享受言论自由</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%91%A8%E5%B0%8F%E5%B9%B3.jpg" rel="attachment wp-att-502460"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%91%A8%E5%B0%8F%E5%B9%B3.jpg?resize=500%2C174" alt="周小平" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?resize=300%2C104 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?resize=768%2C267 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?resize=1024%2C356 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?w=2018 2018w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>周小平新浪微博截图</span></p></div>
@@ -774,27 +840,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/psy-eyes/?category
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%B8%AF%E5%AA%92%EF%BC%9A%E5%86%9B%E4%B8%AD%E6%89%93%E8%99%8E%E7%8C%9B%E5%B0%86%E8%87%AA%E5%B7%B1%E6%88%90%E8%80%81%E8%99%8E/" target="cdt-mirror">德国之声 | 港媒：军中“打虎”猛将自己成“老虎”</a>
-</h2>
-<p><p>作者：任琛</p>
-<p>香港媒体《南华早报》本周六援引中国军中消息人士报道称，中国军队的反腐纪检机关已经以涉嫌贪污的名义逮捕了中国人民解放军少将廖锡俊。但发起调查的很有可能是廖锡俊胞兄廖锡龙的政治对手。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8B%E5%8D%885.12.58.png?resize=518%2C292" alt="Screen Shot 2016-05-28 at 下午5.12.58" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.12.58.png?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.12.58.png?w=518 518w" sizes="(max-width: 518px) 100vw, 518px" data-recalc-dims="1"><br><span>中国军队的腐败现象严重</span></p>
-<p>（德国之声中文网）《南华早报》称是从多名和军方交往密切的消息人士口中获得上述消息的。据称，调查人员在突击搜查廖锡俊位于贵州省贵阳市住地的过程中发现了数千万人民币现金和大量贵重物品。</p>
-<p>报道称，廖锡俊的哥哥廖锡龙如今是一名退伍将军。他也是习近平在推进 军队反腐过程中的一名干将。据称，调查人员突击检查了廖锡俊在贵阳拥有的三处住所。共查获大约3700万人民币现金及黄金等其他物品。消息人士透露，中国省级军方领导已经于上周五得到了相关消息的通报。</p>
-<p><strong>“军中某条龙是顶不住了”</strong></p>
-<p>同时，在中国社交媒体新浪微博上自称是”抗美援朝战史学者、军史作家。铁原大血战名将蔡长元之子蔡小心”于5月25日在个人微博帐户上发布了一张豪华客厅的照片。并附言：”看来，军中某条龙是顶不住了，掉下来是时间早晚的问题。”此帖下面有不少网友留言称，蔡小心所指的”某条龙”就是廖锡龙。</p>
-<p>廖锡龙1959年入伍，在贵州省军区17军从一名普通的战士升为连长。随后因参加了中越战争中的指挥工作，获邓小平重任。于1995年出任成都军区司令员。2000年6月21日，廖锡龙被授予上将军衔。廖锡龙曾一度协助前中国国家主席刘少奇之子–上将刘源扳倒了解放军总后勤部的”老虎”谷俊山。</p>
-<p>据消息人士透露，上将刘源在军中执行习近平”打虎”令的过程中，曾得到廖锡龙的大力支持。网上流传的一份”向总后告別讲话全文”的演讲稿中，刘源表示谷俊山是”徐才厚安插在总后的泼皮无赖”。如果没有廖锡龙部长下决心”我重回总后还不满一年，又怎么会没事找事呢？”</p>
-<p>2015年8月10日，中国军事法院一审认定谷俊山犯贪污罪、受贿罪、挪用公款罪、行贿罪、滥用职权罪，数罪并罚，决定 执行死刑，缓期二年执行，剥夺政治权利终身，并处没收个人全部财产，赃款赃物予以追缴，剥夺中将军衔。<br>
-就此，消息人士向《南华早报》表示，最新抓捕廖锡俊的行动很有可能是之前被查处军中”老虎”残余亲信的一种反扑。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E6%B8%AF%E5%AA%92%EF%BC%9A%E5%86%9B%E4%B8%AD%E6%89%93%E8%99%8E%E7%8C%9B%E5%B0%86%E8%87%AA%E5%B7%B1%E6%88%90%E8%80%81%E8%99%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E8%85%90/?category=18271" rel="tag">反腐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%96%E9%94%A1%E9%BE%99/?category=18271" rel="tag">廖锡龙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E8%80%81%E8%99%8E/?category=18271" rel="tag">打“老虎”</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -806,7 +851,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -816,5 +861,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

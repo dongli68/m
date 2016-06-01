@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E5%90%AB%E9%93%85%E6%B6%82%E6%96%99%E5%86%B3%E8%AE%AE/" target="cdt-mirror">美国之音｜中国封杀联合国有关含铅涂料决议</a>
@@ -48,6 +48,64 @@
 <a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E5%90%AB%E9%93%85%E6%B6%82%E6%96%99%E5%86%B3%E8%AE%AE/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">儿童权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E9%87%91%E5%B1%9E%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">重金属污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%85%E4%B8%AD%E6%AF%92/?category=18271" rel="tag">铅中毒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%89%A9%E4%B8%8B%E5%8D%8A%E4%B8%AA%E8%87%AA%E7%94%B1%EF%BC%88%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B81%EF%BC%89%E5%89%AF%E5%88%8A%E5%BE%81%E7%A8%BF%E7%BB%A7%E7%BB%AD%E4%B8%AD/" target="cdt-mirror">向死而行｜华涌：剩下半个自由（华涌被旅游1）</a>
+</h2>
+<p><p><strong>作者微信公号：向死而行（ID: tooooobe）</strong></p>
+<p>昨晚回复向死而行的朋友们留言到早上4点多，最后困的拿着手机睡着了。今早被咚咚的敲门声惊醒，是“他们”来了。外面传来了W的声音，这个声音非常熟悉，每年6月这个声音都会陪伴我，穿越大半个中国去香格里拉“旅游”。</p>
+<p>上了一辆白色大吉普车，车上3人W和司机都是通州分局的，还有一个是宋庄派出所的Z。到达首都机场我才知道这次陪同我来的明面就是W和Z两个人，2014年6月明面陪同我的也是两个通州分局的人W和L，当我那天晚上翻山跑出雨崩村后在西当村被抓获时才知道还有一个是暗地过来潜伏在德钦县城的一个北京市局的负支队长（以后有时间再给朋友们讲2014和2015年我被旅游的故事，里面有逃跑、追踪、拦截、抓获和监牢）。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B81.jpg" rel="attachment wp-att-516624"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B81.jpg?resize=400%2C533" alt="华涌被旅游1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游1.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游1.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p>睡眼惺忪地上了飞机，经过讨价还价我被批准可以拍照，但是不能拍摄他们。</p>
+<p></p>
+<p>自2013年出狱以来W和L就负责看管我的专职人员，交往几年我们的关系非常奇妙，我们再一起聊天外人听来好像是多年的老朋友，蛋逼、打混、开玩笑一点儿不生分，我还送给过他们俩个人每人一张小油画。后来L提前退休，W说是因为我雨崩逃跑的事儿L才被提前退休的，我始终不信W的这种说法。</p>
+<p></p>
+<p>我如以往向死而行的路上一样拿着自拍杆自拍，和同行人说笑。W和Z躲的老远皮笑肉不笑地盯着我，我便当他们没存在尽心尽责地充当向死而行的前沿记者。</p>
+<p></p>
+<p>飞机降落香格里拉后，我感觉有点恶心，应该是轻度高反。接机是迪庆州的国宝藏族小伙子阿峻，晚饭是他请我们的，由于不舒服匆匆吃过大家就陪我回酒店休息。一进房间我就上床睡了一觉，被闹钟叫醒后感觉能好了一点，便爬起来给朋友们写今天的游记，今天状态不好就写的这里吧。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B82.jpg" rel="attachment wp-att-516625"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B82.jpg?resize=525%2C394" alt="华涌被旅游2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游2.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游2.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>向死而行副刊继续征稿启示：</p>
+<p>现在正式向所有向死而行的朋友们征稿，可以在向死而行公众号里留言发来你的文章、诗歌、摄影、小视频等作品即可，让我们一起勇敢地向死而行……</p>
+<p>文章主题要求：以对向死而行的理解和对华涌其人其行为的看法，拒收其他内容文稿。</p>
+<p>向死而行是华涌给自己</p>
+<p>没有目的地</p>
+<p>没有方向</p>
+<p>没有时间限制的旅行</p>
+<p>起的名字</p>
+<p>即玩到死也不停止的一次旅行</p>
+<p>主张另类非普世价值观</p>
+<p>提倡追求自由</p>
+<p>自己掌握自己的命运</p>
+<p>反抗金钱物欲对人性自由的绑架</p>
+<p>倡导回归自然本性</p>
+<p>追求生命尊严和解放</p>
+<p>勇敢地面对恐惧和死亡</p>
+<p>老子曰：出生入死</p>
+<p>人在出生后唯一的去向就是面向死亡</p>
+<p>不要回避勇敢面对</p>
+<p>自己做自己人生的主人</p>
+<p>不重结果珍惜过程</p>
+<p>不求辉煌不惧卑微</p>
+<p>志同道合的人我们一起</p>
+<p>在路上</p>
+<p>一起向死而行</p>
+<p>（华涌等您来稿）</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B83.jpg" rel="attachment wp-att-516626"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B83.jpg?resize=525%2C394" alt="华涌被旅游3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游3.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游3.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br>
+（下榻的酒店和去年是同一个酒店，古城国际酒店几星不知道挺豪华的，旅游旺季钱很贵，这样花纳税人的钱我感到可耻。）</p>
+<p>在宋庄时写的7篇故事牺牲2、3两篇还剩下面5篇：</p>
+<blockquote><p><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340675&idx=1&sn=74a886f2fed47e8240e8ee9ae938bba0&scene=21#wechat_redirect" target="_blank">患难见真情，此生足矣！张琦你在哪里？（宋庄故事7）另：副刊征稿</a><br><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340663&idx=1&sn=95946ad55c09aead816c0cf0c33dac9a&scene=21#wechat_redirect" target="_blank">各路朋友来送饭、半夜来人打赏点赞、华涌酸奶待看守（宋庄故事6）</a><br><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340653&idx=1&sn=3bdccccd9d7aa8444e4ed42f055eae8a&scene=21#wechat_redirect" target="_blank">华涌实拍深夜被陌生人跟踪的自救应急办法（宋庄故事5）</a><br><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340651&idx=1&sn=83c8350f1ff1d2be4058632ff3b36b15&scene=21#wechat_redirect" target="_blank">我还活着，但感觉不好（宋庄故事4）</a><br><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340608&idx=1&sn=fe010a30d35e47f5355739656d248282&scene=21#wechat_redirect" target="_blank">华涌回京：被莫名绑架、被疯子暴打！（宋庄故事1）</a></p></blockquote>
+<p>那个日子越来越近</p>
+<p>故事也将越来越悬疑和精彩</p>
+<p>从今天起华涌将为你讲</p>
+<p>被旅行中的故事</p>
+<p>预知后事如何</p>
+<p>请关注向死而行公众号<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%90%91%E6%AD%BB%E8%80%8C%E8%A1%8C.jpg" rel="attachment wp-att-439035"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%90%91%E6%AD%BB%E8%80%8C%E8%A1%8C.jpg?resize=225%2C225" alt="向死而行" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?w=258 258w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%89%A9%E4%B8%8B%E5%8D%8A%E4%B8%AA%E8%87%AA%E7%94%B1%EF%BC%88%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B81%EF%BC%89%E5%89%AF%E5%88%8A%E5%BE%81%E7%A8%BF%E7%BB%A7%E7%BB%AD%E4%B8%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%97%85%E6%B8%B8/?category=18271" rel="tag">被旅游</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3小时前</small>
@@ -96,7 +154,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/twitter/?category=18271" rel="tag">Twitter</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%96%B0%E5%8A%9E/?category=18271" rel="tag">国新办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%94%B7%E5%AD%90%E5%9B%A0%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%E9%85%92%E7%93%B6%E7%85%A7%E7%89%87%E8%A2%AB%E6%8B%98/" target="cdt-mirror">纽约时报｜男子因纪念“六四”酒瓶照片被拘</a>
 </h2>
@@ -834,62 +892,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B6%8A%E5%8D%97%E6%BC%94%E8%AE%B2%E5%85%A8%E6%96%87/" target="cdt-mirror">【真理部】奥巴马越南演讲全文</a>
-</h2>
-<p><p>各网站请迅速清理奥巴马越南演讲全文，并报数。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>附：奥巴马越南演讲全文 （转自<a href="http://www.voachinese.com/content/vietnam-obama-20160527/3349380.html" target="_blank">美国之音</a>）</p>
-<p>你好！（掌声）你好越南！（掌声）谢谢，感谢你们。感谢越南政府与人民在我这次到访时所展现的欢迎与热情。谢谢到场的各位。（掌声）这里有来自你们伟大国家各地的越南人，还有这么多年轻人，你们代表着活力、人才,你们是越南的希望。</p>
-<p>在这次访问中，我的心被越南人民广为人知的热情所感动。很多人站在路边向我微笑、挥手致意，让我感受到两国人民的友谊。我昨晚参观了河内老城区，品尝了越南美食。我吃了烤肉米线，喝了河内啤酒。不过我不得不说，我这辈子从来没有看到过像河内繁忙的街道上这么多摩托车。（笑声）所以呢，我还没有尝试过马路，不过等我下次再来访问时，你们可以告诉我怎样来过马路。</p>
-<p>我并不是近代来访越南的第一位美国总统，不过像你们中很多人的年纪一样，我是首位在两国战争结束后成年的总统。当年最后一批美国部队离开越南时，我只有13岁。所以，我对越南和越南人民的初步了解是在夏威夷，夏威夷有着让我们引以为豪的越南裔美国人社区。</p>
-<p>不过，越南的很多人比我年轻得多。像我的两个女儿一样，你们许多人只知道两国的一种状态，那就是越南与美国的和平和正常化关系。所以我来到这里，铭记过去，铭记我们艰难的烈士，然而更是聚焦于未来，我们能够一同推进的繁荣、安全与人类尊严。</p>
-<p>我也带着对越南悠久文化遗产的深深敬意来到这里。数千年来，农夫们耕耘着这块土地，铜鼓见证了这段历史。在这段弯曲的河流孕育了河内一千多年的历史。世界珍视越南丝绸和绘画，文庙是越南人民寻求真知的见证。然而，数百年来，越南的命运经常被他人主宰，越南的国土并不总是属于它的人民。然而，越南人民不屈的精神如竹子一般，就像李常杰将军说的一样——“南方的皇帝统治南方的土地。天书镌刻着我们的命运。”</p>
-<p>今天，我们要铭记经常被忽视的越南人民与美国人民之间更悠久的历史。 200多年前，美国国父托马斯· 杰弗逊为他的农场寻找稻谷时，他看到的是越南稻谷。他说越南大米有着“色泽最白，口味最好，产量最高”的声誉。不久之后，寻求商业机会的美国商船就抵达了越南港口。</p>
-<p>第二次世界大战期间，美国人来到越南支持你们反占领的斗争。美国飞行员被击落，越南人民向他们施以援手。在越南宣布独立的当天，人群走上河内街头，胡志明援引了美国独立宣言。他说：“人人生而平等，造物主赋予他们若干不可让与的权利，其中包括生存权、自由权和追求幸福的权利。”</p>
-<p>本来，这些共同理想的表述和打败殖民主义的类似经历可以使我们更早地走到一起，但是，冷战的对抗以及对共产主义的恐惧却使我们陷入了冲突。与人类历史上的其它冲突一样，我们从中再次明白了一个苦涩的事实：那就是，不管战争的动机如何，都造成苦难和悲剧。</p>
-<p>在距这里不远的战争纪念碑和越南各地家庭的祭坛中，铭记着三百万失去生命的越南人，他们来自南方北方，有战士有平民。在我们华盛顿的越南纪念墙上，有58315位在战争中阵亡的美方人员。两个国家里，我们的退伍老兵和家庭仍然为失去朋友和亲人感到悲痛。我们美国人认为，即使我们对战争观点不同，我们必须要尊重军人，在他们回家时给予他们应有的尊重。今天，越南人与美国人，我们一同承认双方人员所承受的痛苦和做出的牺牲。</p>
-<p>近二十年来，越南取得了巨大的进步，今天，世界看到你们所取得的巨大成就。 通过经济改革以及与包括美国在内的国家签署的一系列贸易协议，你们融入了全球经济，向世界各地出售越南商品。更多的外国投资进入越南。作为亚洲发展最快的经济体之一，越南已经成为中等收入国家。</p>
-<p>从河内和胡志明市的摩天大厦和高层建筑，新的大商场和市区中心，我们看到了越南的进步。 从越南发射升空的卫星，网上创业和运营新企业的新一代越南人身上，我们看到了越南的进步。从脸书和Instagram数百万越南用户身上，我们看到了越南的进步。你们并不只是发自拍照，不过我听说你们特别喜欢自拍（笑声），到现在，已经有好几个人要我一起自拍。你们也在网上为关心的事情发声，例如挽救河内的老树。</p>
-<p>这些活力给人们的生活带来了真正的改善。越南的赤贫人数大幅减少，家庭收入增加，数百万人进入快速壮大的中产阶级。饥饿、疾病、儿童和女性生产死亡率全部在下降。拥有洁净饮用水和电力的人口，入学的男女儿童人数以及识字率都在上升。这是巨大的进步，是你们在很短的时间内取得的进步。</p>
-<p>随着越南的改变，我们两国的关系也发生了改变。尊敬的一行禅师告诉我们：“在真正的对话中，双方都愿意做出改变。”这样，那场曾经分离我们的战争变成了伤口愈合的源泉。它使我们可以寻找失踪人员，将他们带回国。它让我们清除地雷和未爆炸弹，不让一个孩子在外面玩耍时可能失去一条腿。我们继续帮助包括儿童在内的越南残障人士，我们也继续帮助去除橙剂，也就是二恶英，使越南能够有更多的土地恢复耕种。我们对我们在岘港的合作感到自豪，我们期待支持你们在边河市开展的工作。</p>
-<p>我们不能忘记，我们两国的和解是由一度在战场上对阵的老兵们所主导的。 想想作为一名战俘曾在河内被关押多年的参议员约翰·麦肯恩与武元甲将军见了面。武将军说，我们两国不应当成为敌人，而应当成为朋友。想想所有这些老兵，不管是越南人还是美国人，他们帮助我们愈合战争的伤痛，建立新的纽带。多年以来，在这方面做出最杰出贡献的是前海军中尉、现任国务卿约翰·克里。他今天也在这里。约翰， 我代表我们所有人，感谢你所做出的重大贡献。</p>
-<p>正是由于老兵为我们指明了道路，由于战士们有追求和平的勇气，我们两国人民的关系比 以往任何时候都要密切。两国的贸易额增加了，我们的学生和学者共同学习。到美国学习的越南学生人数是东南亚国家中最多的。每年，越来越多的美国游客到访越南，其中包括那些年轻的背包客，他们走向河内的36街、会安的商店和越南古都顺化。作为越南人和美国人，我们都能够认同Van Cao所写的话：“从现在起，我们了解了对方的家园。从现在起，我们学会了解对方的感受。”</p>
-<p>作为总统，我以这一进步为基础继续发展两国关系。根据我们新的全面伙伴关系，两国 政府的合作现在比以往任何时候都要密切。在这次访问中，我们已将两国关系建立在更加牢固的基础上，为未来的数十年作好准备。从某种意义上说，托马斯·杰弗逊开拓的两国关系经过两百多年终于恢复了正常。这花费了多年的时间，需要付出巨大的努力。但现在，一度不可想象的事情摆在我们眼前： 越南与美国成为合作伙 伴。</p>
-<p>我相信，我们的经验为世界上了一课。许多冲突令人束手无策，看似永远不会停歇，但是我们显示了，想法可以改变，只要我们摆脱过去，就可能创造不同的未来。我们展示出和平远胜过战争。我们展示出，进步和人类尊严是通过合作而不是冲突所达成的。这就是美国和越南为世界展示的东西。</p>
-<p>现在，美国与越南的新伙伴关系立足于一些基本事实。越南是一个独立的主权国家，任何其他国家都不能将其意志强加于越南，或决定越南命运。(掌声) 。越南关系到美国的利益，越南的成功关系到美国的利益。然而，我们的全面伙伴关系仍处于初步阶段。在剩下的时间里，我想与你们分享我对于未来数十年两国关系的构想。</p>
-<p>首先，让我们共同努力，为所有人民创造真正的机会与繁荣。我们知道21世纪经济成功的要素。在全球经济中，投资和贸易流向法制之地，因为没有人愿意通过行贿来做生意。人们不会愿意到不知道会受到何种待遇的地方去做生意或上学。在这个知识社会，工作机会总是流向那些人们可以自由思考、交换看法并且创新的地方。真正的经济伙伴关系不只是一个国家从另一个国家那里获得资源，而是去投资一个国家最重要的资源，那就是我们的人民、他们的技能和才能，不论是在大城市还是小乡村。这就是美国所提出的伙伴关系。　　</p>
-<p>我昨天宣布，和平队将首次来到越南，重点将是教授英语。在上一代美国人年轻时来这里作战之后，新一代美国人来到这里，他们将来这里教学，建设和深化两国的友谊。(掌声) 一些美国著名科技公司和学术机构将与越南大 学合作，以深化在科学、技术、工程、教学和医学方面的教育。在我们欢迎更多越南学生来美国深造的同时，我们认为年轻人也应当享有在越南获得世界级教育的 权利。</p>
-<p>一个让人激动的消息是，在这个秋季，新的越南富布赖特大学将在胡志明市开校，这是越南首个独立的非营利大学，这里将拥有完全的学术自由，并为有需要的学生提供奖学金。学生、学者、研究人员将聚焦于公共政策、商业管理；聚焦工程学和电脑科技，还有人文科学，包括阮游的诗歌、潘周桢的哲学、吴宝珠的数学在内的所有内容。</p>
-<p>我们将与年轻人和企业家保持伙伴关系，因为我们相信，如果你能够获得你所需的技能、 技术和资本，那么你前进的道路将一片光明。当然，这也包括有才华的越南女性。(掌声)我们认为性别平等是非常重要的。从二徵姐妹到今天，坚强自信的女性一直在帮助越南前进。我在访问全球各地时一直在这样说，证据是很明显的，当女孩和女性在学校、工作和政府拥有平等的成功机会时，家庭、社区和国家将会更加繁荣。在世界每一个地方都是这样，在越南也是如此。(掌声)</p>
-<p>我们将继续努力，在跨太平洋伙伴关系框架下发挥越南经济的全部潜力。 跨太平洋伙伴关系协定将使越南向全球出售更多越南产品，并吸引新的投资。TPP协议将要求改革，以保护工人、法制和知识产权。在越南履行这些承诺的过程中，美国将为越南提供帮助。我想告诉你们，作为美国总统，我强烈支持跨太平洋伙伴关系协议，因为你们也可以购买到更多我们的商品，更多的美国制造。</p>
-<p>我支持跨太平洋伙伴关系协议是因为其重要的战略益处。越南对任何一个贸易伙伴的依赖度将降低，可以与包括美国在内的更多伙伴发展更广泛的关系。(掌声) 跨太平洋伙伴关系协定将会加强地区合作。它将帮助解决经济不平等，推进人权， 给予劳工更高工资和更安全的工作条件。越南人将首次获得建立独立工会的权利，将禁止强制劳动和童工。与有史以来所有贸易协议相比，跨太平洋伙伴关系协定所要求的环境保护和反腐败标准都是最为严格的。这是未来跨太平洋伙伴关系协议能够赋予我们所有国家的益处，美国、越南和所有签字方将遵守我们共同制定的规则。这是我们触手可及的未来。所以，为了我们的经济繁荣和国家安全，我们要保证完成这项使命。</p>
-<p>这是我想谈的第二个合作领域，那就是确保我们的共同安全。在访问期间，我们同意加强安全合作，加强我们的军队之间的信任。我们将继续向越南海岸警卫队提供训练和装备，以提高越南的海事能力。我们将在灾难发生时提供人道主义物资方面与越南保持伙伴关系。我昨天已宣布全面解除对越南的武器禁运。越南在获得为确保安全所需的军事装备采购方面将有更大的自由度。美国将履行我们的承诺，以实现美越关系全面正常化。(掌声)</p>
-<p>从广义角度来说，20世纪使包括美国和越南在内的所有国家认识到，我们共同安全所依赖的国际秩序是植根于一些特定规则之上的。国家是拥有主权的，不管国土大小，国家的主权必须得到尊重，领土不可侵犯。大国不能欺负小国，并应和平解决争端。 (掌声)东盟和东亚首脑峰会等地区机制应当继续得到强化。我对此坚信不疑，美国对此坚信不疑。这是美国向东南亚地区倡议的伙伴关系。今年晚些时候，在我成为访问老挝的首位美国总统时，我希望能推进这样的尊重和和解精神。</p>
-<p>南海问题方面，美国不是目前争端的当事方，但我们将支持合作伙伴维护核心原则，诸如自由航行和飞越权，合法的商业活动不应该遭到阻扰，应按照国际法通过法律途径和平解决争端。今后，美国将继续在国际法容许的任何地方飞行、航行和活动。我们将支持所有国家拥有采取同样行动的权利。(掌声)　</p>
-<p>我们两国在我刚才所说的方面紧密合作的同时，我们的伙伴关系里也包括第三个要素——那就是处理两国政府的分歧，包括人权问题。这一点不是针对越南，没有任何国家是完美的。两个世纪以来，美国仍然在努力实现建国时的理念。我们在应对我们的问题：政治活动中过多的金钱介入，不断上升的贫富差距，刑事司法体系中的种族偏见，以及男女同工同酬问题。美国有自己的问题，而且我保证，并不是没有批评美国的声音。每天我都在聆听这种批评。但是这种审视，这种公开辩论，这种直击我们的不完美，这种允许所有人发表自己意见的方式使得我们的国家更加强大、繁荣、公平。</p>
-<p>我反复强调，美国不愿将我们的政府形式强加于越南。我相信，我所说的这些权利并不是美国的价值观，它们是写入《世界人权宣言》的普世价值观。它们也被写入越南宪法，越南宪法规定：“公民有权享有言论自由、新闻自由，拥有获得信息的权利、集会 的权利、结社的权利、示威的权利。”(掌声)。所以，这是与我们所有国家的共同议题，我们每个国家应当持续遵守这些原则，确保我们的政府官员忠于这些理念。</p>
-<p>最近几年，越南取得了一些成绩。越南承诺使其法律符合新宪法和国际准则。根据最近通过的法律，政府将公布更多预算信息，公众将有权利获得更多信息。正如我刚刚提到的，越南已承诺根据跨太平洋伙伴协议来实施经济和劳工改革。这些都是积极的改变。越南的未来最终将由越南人民来决定，每个国家将走自己的道路，我们两个国家有不同的传统、政治制度和文化。但作为越南的朋友，请允许我分享我的观点，那就是当尊重普世价值的时候国家会更为成功。</p>
-<p>当人们享有自由表达和言论自由时，当人们可以交换想法，能够不受限制地上网和登录社 交媒体时，经济繁荣所需要的创新就有了动力。新的想法就是这样诞生的。脸书就是这样开始的，一些最了不起的公司就是这样起步的，都是因为一个人有个新想法。他们能够分享共享这个想法。当新闻自由得到保障，记者和博客写手能够揭露不公正和滥用权力的情况，就实现了官员问责并建立起公众对制度有效性的信心。当候选人能够自由参加竞选，选民能够在自由公正的选举中选择自己的领导人，国家将更加稳定，因为选民们知道有人听取他们的声音，知道和平变革是可能的。这将带领更多人进入这个体制。</p>
-<p>当人们享有宗教自由时，它允许人们全面地表达爱和同情，这是所有伟大宗教的核心，同时也使宗教团体可以通过学校和医院来为社区服务，照顾穷人和弱势群体。当人们享有集会自由时，也就是公民可以在公民社会内自由组织，那么国家就可以更好地应对政府无法靠自身力量解决的挑战。在我看来，捍卫这些权利不是对稳定的威胁，而且事实上它加强了稳定，是进步的基础。</p>
-<p>毕竟，正是对这些权利的渴望鼓舞包括越南在内的全世界人民抛弃了殖民主义。我相信，捍卫这些权利充分体现了很多国家珍视的独立，包括越南这样一个宣布“民有、民治、民享”的国家。</p>
-<p>越南采取的行动将不同于美国。我们两个国家采取的方式将与世界其它许多国家不同。 但我认为，我们所有国家都应当坚持并完善这些基本原则。我马上就要离任了，在过去的八年里我有幸能够看到我们的体制是如何运作，并如何于世界上其他不断完善自身体制的国家进行互动的。</p>
-<p>我认为我们的伙伴关系可以应对全球挑战，没有一个国家可以独自应对这些挑战。如果要确保人民的健康和地球的美丽，可持续发展是必不可少的。我们要为子孙后代保留像下龙湾和韩松洞这样的天然美景。不断上升的海平面威胁着很多越南人所依赖生存的海岸和水路。所以，作为应对气候变化的伙伴，我们需要兑现在巴黎会议做出的承诺，需要帮助农民、村庄和以渔业为生的人们来应对变化，在诸如湄公河三角洲这类地方引进更多清洁能源。湄公河三角洲是世界的饭碗，我们需要它来养活未来的人口。　　</p>
-<p>我们可以在国界之外挽救生命。帮助其它国家强化卫生医疗体系，我们可以防止疾病蔓延成威胁我们所有人的瘟疫。在越南加强对联合国维和行动的承诺之际，美国将自豪地帮助训练越南的维和人员。这是一项盛举：我们两个一度敌对的国家现在站在一起，帮助其它国家获得和平。除了双边关系，我们的伙伴关系使得我们能塑造积极的国际环境。</p>
-<p>完全实现我所描述的构想是不可能在一夜之间完成的，有不是必然能实现的。可能存在绊跌和挫折，可能会有相互误解的时候，它需要持续的努力和真正的对话，双方都要不断改变。但是考虑到所有的历史和我们已克服的障碍，我今天站在你们面 前，对我们两国共同的未来感到非常乐观。(掌声) 我的信心植根于我们两国人民的友谊和共同愿望。</p>
-<p>在大洋两岸的美国人和越南人，一些人在数十年里首次与家人团聚。正如郑公山在他的歌中所唱的那样，他们握手，打开心扉，看到了我们共同的人性之美。(掌声)</p>
-<p>我想到了在各行各业取得成功的越南裔美国人：医生，记者，法官，公务员。他们中有一个人出生在河内，他写了一封信给我，信中说：“蒙上帝的恩典，我能够实现美国梦，我为作为美国人而非常自豪，也为自己是越南人感到非常自豪。” (掌声) 今天，他也在这里，回到他所出生的地方，因为他说，他的热情所在是“改善每一个越南人的生活”。</p>
-<p>新一代越南人，你们中的许多人，在这里的这么多的年轻人，你们作好了给世界留下自己印记的准备。我想对所有在听的年轻人们说：你的才能，你的动力，你的梦想，正是越南实现繁荣的关键所在。你们的命运在自己手中，这 是你们的时刻。在你们追求自己未来时，我想告诉你们，美国将作为你们的伙伴和朋友与你们站在一起。(掌声)</p>
-<p>今后的许多年，当越来越多的越南人和美国人将互相学习，共同创新，共同经商，为我们的安全挺身而出，推动人权，保护我们的星球时，我希望你们能回想起今天这一时刻，从我今天勾画的愿景中找到希望。或者，我可以换句话说，用你们所熟知的《金云翘传》中的词句来说：“请接受我的信任的象征，开始我们的百年征程。” (掌声)</p>
-<p>谢谢你们。(越南语) 非常感谢你们，感谢你，越南，谢谢你。(掌声)</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%B6%8A%E5%8D%97%E6%BC%94%E8%AE%B2%E5%85%A8%E6%96%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%AE%BF%E9%97%AE%E8%B6%8A%E5%8D%97/?category=18271" rel="tag">奥巴马访问越南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -901,7 +903,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -911,5 +913,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%B7%B4
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

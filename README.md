@@ -21,9 +21,93 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%94%B7%E5%AD%90%E5%9B%A0%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%E9%85%92%E7%93%B6%E7%85%A7%E7%89%87%E8%A2%AB%E6%8B%98/" target="cdt-mirror">纽约时报｜男子因纪念“六四”酒瓶照片被拘</a>
+</h2>
+<p><p>北京——近27年前发生在<a title="Link: http://www.nytimes.com/2014/06/04/world/asia/times-coverage-of-tiananmen-square-25-years-ago.html" href="http://www.nytimes.com/2014/06/04/world/asia/times-coverage-of-tiananmen-square-25-years-ago.html" target="_blank" rel="nofollow">1989年6月4日</a>的大屠杀，给中国留下的政治伤痕仍未愈合。伤痕未愈的程度表现在，最近一名男子因颠覆罪被拘留，他的支持者说，因为他在网上分享了一些酒瓶标签的照片，上面有当年士兵在北京天安门广场镇压抗议活动的日子。</p>
+<p>据<a href="http://www.canyu.org/n116692c6.aspx" target="_blank" rel="nofollow">Canyu.org</a>等关注中国相关案件的人权网站的消息，这名男子叫符海陆，是中国西南部省份四川省省会成都的一名流动工人。他因涉嫌“煽动颠覆国家政权罪”，于周日被警方正式拘留。</p>
+<p>符海陆的妻子刘天艳周一在电话中说，她不能确定自己的丈夫是否与那些黑色幽默的图片有关系。这些图片包括一个啤酒瓶标签，上面有一个人坐在一排坦克车前。这与一张1989年<a title="Link: http://lens.blogs.nytimes.com/2009/06/03/behind-the-scenes-tank-man-of-tiananmen/" href="http://lens.blogs.nytimes.com/2009/06/03/behind-the-scenes-tank-man-of-tiananmen/" target="_blank" rel="nofollow">公开抵抗武装镇压的代表性照片</a>相呼应。</p>
+<p>“在我的印象里，我可能看到过那些照片。”刘天艳说。“但这都是些网上传来传去的东西。我当时并没太注意，所以我不知道他是否有与这些照片有关。那只不过是些照片，所以我没太注意。”</p>
+<p>但是，中国的安全机构似乎一直在密切地关注着，他们一直对围绕1989年留下的创伤所进行的相关讨论保持警惕。中国受欢迎的社交媒体平台微信，可让人在朋友圈内分享消息和图片。这些图片在微信上传播后，警察于上周六将符海陆带走。</p>
+<p>照片中还有一些看上去像是装白酒的瓶子（<a href="http://cn.nytstyle.com/food-wine/20151230/t30baijiu/" target="_blank" rel="nofollow">白酒是一种中国烈酒</a>），瓶子上也带着类似的标签。但刘天艳说，据她所知，她的丈夫不知道如何在计算机上制作那样的标签或图片。她说，他也不会造酒。</p>
+<p>“我没听到他谈论过六四，”刘天艳说。“他非常关心社会正义，这是真的，比如警察、食品安全、公共福利之类的问题。”</p>
+<p>这些标签玩了普通话中“酒”和“九”谐音的文字游戏，用“酒”表示1989中的“九”。</p>
+<p>啤酒瓶子的标签上是“铭记八酒六四”，与1989年6月4日相呼应。当年，全副武装的士兵包围了天安门广场，他们沿着北京的部分街道进城时，接连对着试图阻止他们的示威者或居民开枪。数百人、甚至数千人在北京的镇压中死亡。<a href="http://cn.nytimes.com/china/20140604/c04students/" target="_blank" rel="nofollow">成都等其他城市</a>也发生了严重的流血事件，那些城市的抗议活动在6月4日之后仍持续了几天。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%AB%E9%85%92%E5%85%AD%E5%9B%9B.jpg" rel="attachment wp-att-514280"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%AB%E9%85%92%E5%85%AD%E5%9B%9B.jpg?resize=450%2C784" alt="八酒六四" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/八酒六四.jpg?resize=172%2C300 172w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/八酒六四.jpg?resize=768%2C1337 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/八酒六四.jpg?resize=588%2C1024 588w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/八酒六四.jpg?w=1214 1214w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>现年29岁的符海陆是来自四川的一名退伍军人，曾当过保安、也干过其他粗活，刘天艳说，他喜欢写诗。她不知道他是否有代理律师。当局可扣留符海陆至少两周，然后会决定是将他拘留更长的时间，还是正式逮捕他，又或是将他释放（而这有可能是有条件的）。</p>
+<p>共产党每年都要不遗余力地避免再次引发对1989年的分歧和流血事件的回忆。动作的手脚之大，以至于他们反而是在提醒许多人六四周年纪念日到了。每年的这个时候，异见者和直言不讳的自由派人士就会被软禁在家，或被迫在国家安全官员的陪同下，去北京以外的地方旅行。</p>
+<p>这些酒瓶子并不是第一次受1989年的启发而表达出来的黑色幽默。为了躲过紧盯着六四的审查者，人们早已在用“5月35日”来表示6月的第四天。1991年，《人民日报》海外版发表了一首表面上是表达海外学生思念祖国的赞美诗。不过，<a href="http://bit.ly/1NZrNgk" target="_blank" rel="nofollow">这首诗</a>中嵌着攻击李鹏的字。李鹏在1989年担任总理，是武装镇压的实施者。</p>
+<p>那首嵌字诗写道，“李鹏下台平民愤。”</p>
+<p>储百亮(Chris Buckley)是《纽约时报》驻京记者。<br>
+欢迎在Twitter上关注储百亮<a href="https://twitter.com/ChuBailiang" target="_blank" rel="nofollow">@ChuBailiang</a>。<br>
+翻译：Cindy Hao</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%94%B7%E5%AD%90%E5%9B%A0%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%E9%85%92%E7%93%B6%E7%85%A7%E7%89%87%E8%A2%AB%E6%8B%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%AD%E8%AE%B0%E5%85%AB%E9%85%92%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">铭记八酒六四</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%B2%E9%83%A8%E5%A6%BB%E5%AD%90%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%EF%BC%8C%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6/" target="cdt-mirror">【异闻观止】干部妻子：感谢从严治党，丈夫在家时间增多了</a>
+</h2>
+<p><p><em>原标题：长江日报｜武汉新任局级干部妻子集体亮相：感谢从严治党，丈夫在家时间增多了<br></em><br>
+今天下午3点，在武汉市会议中心，71位2015年以来新提拔市管领导干部家属参加“全市新任市管领导干部家属廉政座谈会”，会议主题：廉洁齐家，树立良好家风。</p>
+<p>会议的第一项观看的警示教育片《毁于小节的悔恨人生》主要讲述去年以来，湖北省纪委查处的5起典型违纪违法案件，片长30分钟。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/JbgO-fxsqxxs8091475.jpg" rel="attachment wp-att-514120"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/JbgO-fxsqxxs8091475.jpg?resize=500%2C375" alt="JbgO-fxsqxxs8091475" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/JbgO-fxsqxxs8091475.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/JbgO-fxsqxxs8091475.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>长江日报记者高萌 摄</span></p>
+<p>在座谈会上，武汉市妇联党组书记、主席徐丽宣读了“家庭助廉倡议书”。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rf4F-fxsrkwk3345309.jpg" rel="attachment wp-att-514119"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rf4F-fxsrkwk3345309.jpg?resize=500%2C375" alt="rf4F-fxsrkwk3345309" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rf4F-fxsrkwk3345309.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rf4F-fxsrkwk3345309.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb5q-fxsqxyc1761236.jpg" rel="attachment wp-att-514118"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb5q-fxsqxyc1761236.jpg?resize=500%2C333" alt="bb5q-fxsqxyc1761236" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb5q-fxsqxyc1761236.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb5q-fxsqxyc1761236.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>长江日报记者高萌 摄</span></p>
+<p>随后，各新任市管领导干部家属代表依次发言。</p>
+<p><strong>　　杨胜红</strong></p>
+<p><strong>　　汉阳区委常委、组织部部长、统战部部长陈革鸿妻子</strong></p>
+<blockquote><p>观看影片后，受益匪浅。这次座谈会真正体现了“严管就是厚爱”，期望经常举办。我爱人出生农村家庭，自己的勤奋打拼和组织信任才走上如今岗位，定需倍加珍惜。</p>
+<p>我经常跟丈夫说，一家三口，生活要求不高，千万不要因为钱财而被别人牵着鼻子走。不做亏心事，不留骂名。我将始终恪守严谨家风：当明白人，修身齐家，不拖后腿；当正派人，勤俭持家，不好攀比；当清醒人，廉洁治家，不贪钱财。</p></blockquote>
+<p><strong>　　卢昌燕</strong></p>
+<p><strong>　　武汉市纪委研究室（法规室）主任杨峰妻子</strong></p>
+<blockquote><p>这次活动很有意义，十分必要。在此，我向组织表态，在丈夫廉政问题上当好三个角色，做到端正家风、廉洁齐家。一是要做知足的贤妻；二是要做铁面的将军；三是要做啰嗦的唐僧。</p></blockquote>
+<p><strong>　　高波</strong></p>
+<p><strong>　　武汉市委市直机关工委副书记赵利洪妻子</strong></p>
+<blockquote><p>和赵利洪同志组建家庭20多年来，我坚持做好以下三点：一是把家建设成稳固可靠的后方基地；二是坚持让他保持一种身心轻松的工作状态；三是保持我自己独立的人格个性。</p>
+<p>感谢中央从严治党，感谢整个环境的改善，我丈夫在家的时间更多了，和家人接触和交流的时间更长了，精神面貌更好了。</p></blockquote>
+<p><strong>　　陈晓玥</strong></p>
+<p><strong>　　武汉市环保局局长、党组书记李湛妻子</strong></p>
+<blockquote><p>我和李湛结婚十年来，工作上两人一直忙忙碌碌，但我们都重视家庭价值，性格恬淡，尽量避免应酬。</p>
+<p>今天座谈会让我深切感受到武汉市对干部的严管和厚爱。我愿意加入到监督者行列，把组织对丈夫的监督从工作上延伸到生活中，做好身边人该做的事，为他廉洁从政营造良好的家庭氛围。</p></blockquote>
+<p><strong>　　唐蕾</strong></p>
+<p><strong>　　武汉市食品药品监督管理局局长、党组书记姚彬妻子</strong></p>
+<blockquote><p>作为一名领导干部妻子，我认真履行“家庭纪委书记”职责，严守家庭防线，营造清廉环境。</p>
+<p>结合自身实际，我就家庭助廉工作中的一些体会汇报如下：一要提高自身修养，营造清廉环境；二要摆正角色位置，维护良好形象；三要严守家庭防线，做好助廉工作。风正民心顺，家和万事兴。我决心从自我做起，从家庭做起，用实际行动铸就反腐倡廉的坚固防线。</p></blockquote>
+<p>家属发言后，武汉市纪委副书记、监察局局长刘全保说：</p>
+<blockquote><p>这次活动搞对了，对我们各位都是一次受教育的机会，我希望这种活动以后要坚持下去。各位家属感触很深，思想境界很高。与新任领导干部家属的谈话，这还是近些年来的第一次。领导干部在前方工作很辛苦，家属同志如何把后方搞好，建造一个温馨的家庭环境，这次活动对此很有意义。希望各位家属一如既往地支持我们领导干部的工作。</p>
+<p>一、家是领导干部廉洁从政的后方堡垒；二、守住廉洁底线，就是守护家庭的幸福；三、以更高的标准抓好家庭建设。</p>
+<p>各位家属应多议论一些积极向上的，少一些攀比，始终要记得“严是爱，宽是害”，绷紧政治弦，做明白人。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/linpeiman?refer_flag=0000015012_&from=feed&loc=nickname" target="_blank">@林沛满</a>：上次说精神病院的患者都被要求背24字社会主义核心价值观，是否也是这个地方啊？太搞了。</p>
+<p><a href="http://weibo.com/n/%E4%B8%BB%E8%A7%82%E5%AD%99%E9%9C%87%E5%AE%87" target="_blank">@主观孙震宇</a>:喜剧的最高层次就是一本正经地搞笑。</p>
+<p><a href="http://weibo.com/2810398295" target="_blank">@还我德赛</a>：原来干部都是泡夜店不回家的呀，这会开的好有喜感，太他妈搞笑了<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1239435712" target="_blank">@qhhy777</a>：活寡联谊会<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1931853487" target="_blank">@缤纷乐2011</a>：是谁出的馊主意，智商为负<img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3899348032" target="_blank">@雪中带刀行</a>：好搞笑啊这些人，仿佛在说：感谢从严治党，从此老公不嫖娼。<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1942629467" target="_blank">@爱gag的骷髅兵</a>：内裤选得好，老公回家早；中央管得好；老公回家早。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p>@老何BA: 家属也是按照老公的级别排座位吧</p>
+<p>@曲水白云间：感觉像声讨二奶会</p>
+<p>@用户5281568362：一个个哭丧着脸，真心感谢伟大的党</p>
+<p>@老李66100：这些家属的意思是说党的干部还不如普通群众更顾家？</p>
+<p>@sishibin：小三下岗很多，表示抗议</p>
+<p>@卡先生在52Hz：终于有了夫妻生活 感恩国家</p>
+<p>@seavonkid：以前丈夫每晚都不知道在哪里忙活忙活</p>
+<p>@贫僧刚还俗：情妇也感谢从严治党，情夫给的时间虽然少了，但是给的钱更多了</p>
+<p>@GeorgeSir1573：宫廷戏都无聊到如此地步了</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%B2%E9%83%A8%E5%A6%BB%E5%AD%90%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%EF%BC%8C%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7%E5%A4%A7%E5%8F%91/?category=18271" rel="tag">党性大发</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%88%B1%E5%9B%BD%E8%80%85%E7%9A%84%E4%B8%89%E6%9D%BF%E6%96%A7/" target="cdt-mirror">平说｜刘云枫：如何应对“爱国者”的三板斧</a>
 </h2>
 <p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%88%B1%E5%9B%BD%E8%80%85.jpg" rel="attachment wp-att-513272"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%88%B1%E5%9B%BD%E8%80%85.jpg?resize=500%2C375" alt="爱国者" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/爱国者.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/爱国者.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
@@ -771,75 +855,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E6%96%B0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E4%BF%9D%E9%99%A9%E4%B8%9A%EF%BC%9A%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%E6%97%B6%E4%BB%A3%E5%B0%86%E7%BB%88%E7%BB%93%EF%BC%9F/" target="cdt-mirror">译读 | 中国保险业：野蛮生长时代将终结？</a>
-</h2>
-<p><p>本文原载于The Economist<br>
-编译/公仔 & 伍豪<br>
-译读：T-Read | 译读小号二世：WinnieTheFool</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8B%E5%8D%885.36.17.png?resize=596%2C398" alt="Screen Shot 2016-05-28 at 下午5.36.17" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.36.17.png?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.36.17.png?w=596 596w" sizes="(max-width: 596px) 100vw, 596px" data-recalc-dims="1"></p>
-<p>即便各种各样的高增长在中国已是司空见惯，但保险业的扩张速度也足够令人瞩目。不到4年的时间，保险公司的资产规模便翻了一番，达到13.9万亿元（2.1万亿美元）。销售保单带来的收入也在增加，2016年第一季度同比增长了42%（详见下图）。然而最引人注目的是从业人员数量的增长。仅过去六个月间，保险从业人员就多了200万，达到720万人，比去年年初更是增长了120%。换言之，在如今的中国，大约每50个劳动者中就有一个是卖保险的。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8B%E5%8D%885.32.51.png?resize=516%2C535" alt="Screen Shot 2016-05-28 at 下午5.32.51" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.32.51.png?resize=289%2C300 289w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.32.51.png?w=516 516w" sizes="(max-width: 516px) 100vw, 516px" data-recalc-dims="1"><br><span>光速增长——中国的保险公司 | 蓝色：每年十月保险公司保费同比变化 棕色：保险公司总资产（单位：10亿元） 数据来源：中国保监会 （16年数据于三月份录得）</span></p>
-<p>从一方面讲，中国的保险行业本来就需要高速增长。未来几十年中国的人口将愈发老龄化，然而中国的养老金体系还不成熟。政府希望通过以公共保障为主，私人保险为辅的方式，让人民在垂垂老矣之时免于赤贫。根据保险咨询公司Enhance International的分析，目前政府承担约三分之一的国民医疗费用，保险公司承担不到十分之一，剩下的费用超过一半都要个人买单。负担相当沉重，对老年人来说自然更是如此。</p>
-<p>但是在商业模式仍然薄弱的情况下，过快的扩张可能弊大于利。许多现象可以说明这一点。某些激进的保险公司承诺客户可以从他们的短期保收益投资产品中得到至少6%的回报，在这个本应是理智和清醒的行业中，这样的策略是极其冒险的。在中国股市如此萧条的情况下，为了实现这么高的回报率，保险公司已经开始堆砌债务，牺牲自己的利润。再者，这种短期投资产品并不能解决投资者的养老问题：当这些保单到期后，投资者便可以全额提款退出保险，而他们可能面临的死亡、疾病或事故依然没有保障。</p>
-<p>很明显监管机构已经充分意识到这些问题。今年三月，他们出台了史上最严规定以遏制投机行为。规定禁止保险公司销售一年之内到期的产品，并且逐步淘汰市场上的三年内到期产品。这些规定虽然略显简单粗暴，但有助于避免保险资产负债期限错配（译者注：即保险公司用短期负债滚动的方式进行长期投资，在利率上行周期可能出现流动性紧张和成本上升的再融资风险）的问题。</p>
-<p>本月，监管部门开始把注意力转向扩张最为激进的几家保险公司上。监管人员首先到了富德生命人寿保险公司，最近几个季度该公司的资本规模一直在缩水。然后他们去到安邦，该公司过去两年间把自己的资产翻了50倍。此类调查能够显示出监管部门手中有多少权力。考虑到保险公司背后的政治关系（安邦董事长是邓小平的外孙女婿），许多人都认为安邦会受到优待，但结果是，监管部门叫停了安邦对喜达屋高达140亿美元的收购案，似乎开始同时在国内打压安邦的势头。</p>
-<p>从更根本上，中国政府已经对保险公司偿付能力的评估标准进行大整改，从而迫使保险公司改变经营方式；监管者要求以简单的规模数量来评判公司的资本充足程度。这一举措更接近发达国家的市场标准，根据保单到期时间与保险公司如何利用保费投资来确定资本充足程度。对于那些过分依赖短期保单及过量投资股市的保险公司，规定的准备金持有量还要更大。</p>
-<p>平安保险是中国最大的保险公司之一，该集团的副总经理李源祥预测认为保险公司靠投机野蛮扩张的时代已经终结。“政府早在情况失去控制之前就嗅到了危机。”倘若新规定能够起效，保险公司就必须改变销售策略，说服民众把保险作为避险的手段而不是投资的选择。这样更保险，不过更难销。</p>
-<p>原文地址：http://www.economist.com/news/finance-and-economics/21699170-regulators-try-tame-unruly-parts-important-industry-safe-or-sorry</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%91%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E4%BF%9D%E9%99%A9%E4%B8%9A%EF%BC%9A%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%E6%97%B6%E4%BB%A3%E5%B0%86%E7%BB%88%E7%BB%93%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%9D%E9%99%A9%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">保险企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%89%E9%82%A6%E4%BF%9D%E9%99%A9/?category=18271" rel="tag">安邦保险</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/psy-eyes-%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%81%90%E6%83%A7%E8%AF%AD%E8%A8%80%E7%9A%84%E5%8A%9B%E9%87%8F/" target="cdt-mirror">psy-eyes | 唐映红：恐惧语言的力量</a>
-</h2>
-<p><p>Q&A160528</p>
-<p><strong>谁恐惧语言的力量</strong></p>
-<p>现时代<strong>最伟大的心理学家之一</strong>，<strong>史蒂芬•平克</strong>（Steven Pinker），他还有另一个头衔，最伟大的语言学家之一。其实，出生于加拿大蒙特利尔的平克，可谓是正宗的心理学科班出生。他1976年获得加拿大麦吉尔大学心理学学士学位，1979年取得哈佛大学实验心理学博士学位。</p>
-<p>在推荐平克教授经典著作《<strong>语言本能</strong>》（The Language Instinct）中，中国据说最性感的物理学大咖李淼教授说，“<em>平克是一位了不起的语言学家，心理学家，并具备深厚的生物学功底。</em>”直接就把平克首先标签为“语言学家”。不过，曾提出多元智力理论，在教育心理学领域堪称世界级大咖的霍华德•加登纳（Harward Gardener）教授就只是说，“<em>史蒂芬•平克是世界顶尖的语言研究者。</em>”</p>
-<p>事实上，语言是现代心理学研究最重要也是最主要的领域之一。在被称为心理学史上“第二次革命”的认知心理学的强势崛起，其不可获缺的主要基础之一就是著名<strong>诺姆•乔姆斯基</strong>（Avram Noam Chomsky）所开创的<strong>心理语言学</strong>。从某种意义上说，<strong>平克教授《语言本能》一书，不仅其基本思想来源于乔姆斯基所提出的语言学理论，而且从根本上就是将乔姆斯基所提出的语言学分析理论从心理学实证研究的角度进一步系统阐释并发扬光大了。</strong>在接受媒体采访时，平克认为自己与乔姆斯基的区别在于，“<em>乔姆斯基是一位语言学家，而我所学的专业是实验心理学。</em>”</p>
-<p><strong>　　一位心理学家，或者心理学者研究语言实在是稀松平常。</strong>我所接受的心理学科班训练的三年，所从事的也是语言研究，不过我不敢给自己贴一个“语言学者”的标签，可我是当仁不让的“心理学者”。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8B%E5%8D%885.28.07.png?resize=596%2C334" alt="Screen Shot 2016-05-28 at 下午5.28.07" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.28.07.png?resize=300%2C168 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.28.07.png?w=596 596w" sizes="(max-width: 596px) 100vw, 596px" data-recalc-dims="1"><br><span>现时代最伟大的心理学家之一，史蒂芬•平克（Steven Pinker）</span></p>
-<p>一</p>
-<p>语言之所以在现代心理学里面是最重要也是最主要和最经常的研究领域之一，就在于<strong>人类的高级认知和智力活动都是基于语言的发展和运用。</strong></p>
-<p>例如，人类作为生物物种与黑猩猩、倭黑猩猩在亲缘上是相当接近的，德国马普学会的全基因测序结果表明，人类与黑猩猩、倭黑猩猩的共享基因比例高达<strong>98.7%</strong>。这是一个很惊人的数据，因为两个人类个体最大的基因差异可以达到<strong>1.5%</strong>，超过了人类与黑猩猩、倭黑猩猩的平均基因差异。</p>
-<p>可是，<strong>人类与黑猩猩、倭黑猩猩在智力上却有着天壤之别。</strong>人类可以思考极其复杂的抽象问题，能够交流和传递异常丰富的知识，并发展了璀璨的文化。而黑猩猩、倭黑猩猩仍然与几百万年前一样，与猴子为伍生活在丛林中。</p>
-<p>其间的分别就在于<strong>人类在进化历程中发展出了语言能力，并且成为唯一具有语言能力的物种。</strong>威斯康辛大学的马库斯•佩尔曼（Marcus Perlman）通过对黑猩猩Koko的研究，发现黑猩猩不仅能够通过手势简单地交流，也能够发出有意识的咕噜声来表达，但由于在进化过程中没有发展出类似人类的发声器官，因此无论如何黑猩猩都学不会像人类那样系统的语言。<strong>语言能力是一道障碍，横亘在人类与其近亲物种之间。人类一旦发展出语言能力，其智力就能以突飞猛进之势迅速进化，将黑猩猩远远地抛在脑后。</strong></p>
-<p>在美国影片《星球崛起》里面，<strong>黑猩猩凯撒一旦学会了人类的语言，他和小伙伴们就拥有了逆袭人类的智力并能学习和掌握相关的能力。</strong></p>
-<p><strong>二</strong></p>
-<p>不过，从其本质上来说，语言只不过是<strong>人类认知和表征世界的一种符号体系。</strong>我在这里写下几个字：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-%E4%B8%8B%E5%8D%885.29.21.png?resize=535%2C401" alt="Screen Shot 2016-05-28 at 下午5.29.21" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.29.21.png?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/Screen-Shot-2016-05-28-at-下午5.29.21.png?w=535 535w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"><br><span>现时代最伟大的心理学家之一，史蒂芬•平克（Steven Pinker）</span></p>
-<p><strong>这只是几个符号，不会感染任何人，也不可能对任何人构成威胁。</strong>但是，它们所表征的某种微生物，却能通过血液交换，或者性行为途径进行传播，并感染被传播者，摧毁他的免疫系统以至戕害他的生命。</p>
-<p>换言之，“艾滋病毒”这几个字只不过是语言符号，它们是抽象的，不具有任何威胁的力量；但这几个语言符号所表征的事物却对人类个体具有致命威胁。所以，一般情况下，<strong>人们仅仅看到，或者听到这几个语言符号，并不会恐惧它们的力量</strong>，不会担心仅仅看到我这篇文章里写了这几个字符就会被感染艾滋病。人们只有与艾滋病患者共用吸毒针头，或者发生无防护措施的性行为才有可能感染艾滋病。</p>
-<p>可是，<strong>有些人仅仅看到这几个字符就会唤起恐惧或者焦虑。</strong>从心理学角度，有两种情况会使人们恐惧这几个字符，或者因为这几个字符而被唤起恐惧的情绪反应。</p>
-<p>一种情况是<strong>迷信</strong>。现代科学知识普及之前，<strong>人类对超出自身经验和理解的事物和现象往往会发展出种种迷信的观念</strong>，其中就包括对语言符号的恐惧。迷信的人会认为语言符号与它所表征的事物一样给人们带来威胁的力量，所以通过<strong>念咒语、请笔仙</strong>就足以使其感到不安和惶恐。</p>
-<p>另一种常见情况是<strong>内心的虚弱</strong>。他可能与别人共用针头注射毒品，也可能与陌生人发生无防护措施的性行为，他也知道这样的生活方式危险，所以心有惴惴。于是，仅仅看到我写的这几个字符就可能足以唤起他的恐惧。这就好比，<strong>你不能对秃子提“秃”，不能对太监提“丁丁”，他们恐惧这些语言符号，只不过是因为他们内心的虚弱。</strong></p>
-<p>对语言的恐惧现象不仅见诸于个体，也见诸于群体。像美国的敌人们每天对美国进行语言上的诋毁、诬蔑、抹黑、咒骂可谓汗牛充栋，但从来没有见到美国政府或者“人民”因此而感到恐惧，因为恐惧而愤怒。但是，<strong>仅仅美国一些不受政府控制的媒体或个人对美国敌人的批评，却能令敌人的政府和“人民”感到愤怒，因为恐惧而滋生的愤怒。</strong></p>
-<p><strong>三</strong></p>
-<p>语言当然是有力量的，<strong>语言的力量就在于能够调动和唤起读者、听者的感受。</strong></p>
-<p>正是因为人类的语言只不过是一种表征符号系统，我写在前面的“艾滋病毒”几个语言符号，虽然它表征了某种致病的微生物，但每个人对这种微生物的了解不同，以及自身面对这个概念的处境不同，所以，<strong>每个人对“艾滋病毒”这几个语言符号所接收和理解到的意蕴可能完全不同。</strong></p>
-<p>“艾滋病毒”所表征的还只是一种客观存在的实体，一种稳定的自然生命体，但<strong>人们用它来做的表达就可能人言人殊，理解更是五花八门。</strong>如果我无意中把这几个语言符号转给某个罹患艾滋病而不欲为人知的盆友看，他的理解恐怕就要比我想表达的意蕴意味深长得多。</p>
-<p>对于一些抽象的概念，比如对一位名人的评价、批评，尽管这位名人是一种客观的存在，但他的声誉、人格却是<strong>抽象而且具有多义性</strong>，每个人的看法都可能各异。誉之者奉为神圣，毁之者视之若寇本来也实属正常。在这个过程中，<strong>每个人对于意见相左的言论都难免感到不悦，会有表达自己观点的欲望。</strong>所以，关于一位名人的声誉、人格的评价和批评往往就能成为一起公共事件，成为舆论纷争的热点。</p>
-<p>按理说，意见不一，观点各异，但各自畅所欲言，互相碰撞交流，那么清者自清，浊者自浊，<strong>这种言论竞争的过程本身就是去芜存菁的过程。</strong>可是，<strong>总会有人恐惧语言的力量。</strong></p>
-<p>像最近因杨绛女士高龄仙逝而引发的关于她和钱钟书先生伉俪的毁誉之争，就有人恐惧语言的力量。一对才情出众的伉俪拥有忠诚的粉丝十分正常，而粉丝维护他们拥戴的偶像的清誉也无可厚非。但对于那些并非粉丝的人看来，<strong>历经种种人祸不仅幸存而且还得以诸般荣誉加身，誉之过高当然可疑，批评、质疑也实属正常。</strong>正如才情盖世的<strong>莱妮•瑞芬斯丹</strong>（Leni Riefenstahl），拥趸誉之为美学一派的宗师，其美学形式在东亚某大国得以传承光大；而其他人以其依附纳粹，助纣为虐而严厉批评之。<strong>观点冲突，意见对立，拥趸也好，反对者也好，都不必恐惧语言的力量，各自历数事实，纠正偏误，对瑞芬斯丹的研究和理解也就愈加地深入和丰富。</strong></p>
-<p>有意思的是，在毁誉之辩中，其中一派拥护钟杨夫妇的独“善”其身，而认为对其偶像的批评是“<strong>逼人做英雄</strong>”。可是，<strong>语言只能唤起听者、读者的感受，又如何可能“逼”谁就范呢？</strong>“逼”人就范需要<strong>现实的力量</strong>，而<strong>批评者所能运用的只有语言</strong>。<strong>他何以会恐惧语言的力量呢？</strong></p>
-<p>从心理分析的角度，正如例举的“艾滋病毒”会令到一些人心有戚戚，甚至感到恐惧或者焦虑，那只不过是因为他们迷信，或者内心的虚弱。做为一名文化人，显然不便归因为迷信，那么<strong>因为批评者对偶像的批评言论而感到恐惧和不安，最大的可能就只能是内心的虚弱。</strong></p>
-<p>正如心理学所揭示的另一种现象，<strong>人们膜拜的偶像往往反应了膜拜者内心的投射和向往。</strong>钱杨夫妇<strong>在强权下“独善其身”，与一些人倚靠高墙何其相似。</strong>其实，无论是因为利益所驱使，还是胆怯所忌惮而倚靠高墙本也<strong>无可厚非</strong>，总好过为虎作伥。<strong>如果自己能够因此而坦坦荡荡，对批评者的批评言论大可嗤之以鼻，不以为意，又何必上纲上线到“逼人做英雄”？</strong></p>
-<p><strong>能逼人做英雄的，也能逼人闭嘴</strong>。我的一位叫王五四，有着无数化名的朋友，<strong>因为批评那些给予钱杨夫妇誉过其实的拥趸们而遭到一次又一次的删文消声对待。</strong>说起来天可怜见，<strong>连自己的言论文字也不能保住的批评者，又从何而来“逼人做英雄”的本事？</strong>相反，<strong>那些恐惧“逼人做英雄”的批评言论的文化人，他们所倚靠的高墙，有着轻而易举砸碎批评者蛋蛋的现实的力量。</strong></p>
-<p><strong>他们不恐惧高墙的现实的力量，恐惧蛋蛋的语言的力量。</strong></p>
-<p><strong>四</strong></p>
-<p>所以，<strong>语言问题是心理学研究的核心问题。</strong></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/psy-eyes-%E5%94%90%E6%98%A0%E7%BA%A2%EF%BC%9A%E6%81%90%E6%83%A7%E8%AF%AD%E8%A8%80%E7%9A%84%E5%8A%9B%E9%87%8F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/psy-eyes/?category=18271" rel="tag">psy-eyes</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E8%AF%AD%E8%A8%80/?category=18271" rel="tag">官方语言</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">思想控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%AD%E8%A8%80/?category=18271" rel="tag">语言</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -851,7 +866,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/psy-eyes/?category
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -861,5 +876,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/psy-eyes/?category
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

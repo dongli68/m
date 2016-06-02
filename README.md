@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E6%8A%A5%E5%90%84%E8%87%AA%E5%BE%AE%E4%BF%A1%E3%80%81qq%E7%BE%A4%E4%BF%A1%E6%81%AF/" target="cdt-mirror">自由亚洲｜中共党员干部被要求上报各自微信、QQ群信息</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/m0601-ql1p.jpg" rel="attachment wp-att-529693"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/m0601-ql1p.jpg?resize=450%2C574" alt="中共党员干部微信、QQ群上报表。（志愿者提供/记者乔龙）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/m0601-ql1p.jpg?resize=235%2C300 235w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/m0601-ql1p.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>中共党员干部微信、QQ群上报表。（志愿者提供/记者乔龙）</span></p></div>
+<p>中国网络最近流传一份北京市某街道办向党员干部下发的一份“党员干部参与微信群、‘QQ群’报告表”，除了要求填写个人姓名、出生日期、文化程度及工作单位等个人信息外，还要填写个人所在的微信和“QQ群”帐号及管理员姓名。有分析认为，该报告表像是针对全国的党员干部，将由基础单位要求党员填写。</p>
+<p>中国政府正在进一步加强对言论的管控。继当局责令微信公众号备案之后，一份名为“党员干部参与微信群、‘QQ群’报告表”，连日来在北京知识分子微信圈热传。该份有北京市朝阳区某街道办向辖区内党员干部发出的“报告表”，作为有关加强党的领导，建立流动党员微信平台的学习材料附件，发给中共基层党员干部，除了要填写自己的姓名、出生年月日、民族、文化程度、手机号及工作单位等个人信息，还要填写所在的微信和QQ群帐号，管理员姓名。最后要签上自己的姓名。</p>
+<p>北京学者贾先生6月1日接受自由亚洲电台采访时称，他也看到该份表格：“我也是上午在群里面看到的，如果确实有这件事情，无非说明人盯人。你填了这个表以后，你这个群有什么问题或者什么情况，将来他有依据可查。知道你在哪个群，谁发言或怎么样，他可以渗透。这些手段属雕虫小技”。</p>
+<p>媒体人李先生对记者说，他觉得当局制作这份表格无非是想加强对舆论的控制，但做法可笑：“看到了，有点可笑，好象是要封杀舆论，要严管，证明他们很空虚。他能做到哪一步，拭目以待吧”。</p>
+<p>中国网络聊天工具用户正在快速增长。据腾讯公司2015年11月公布，其微信客户已达到6.5亿，同比增长近百分之四十；QQ月活跃账户数为8.6亿，同比增幅为百分之五。据一位知情人士对记者说，从这份“报告表”要求的内容看，应该是面向全国的中共党员干部，表明现有的监控手段不足以令当局完全放心。</p>
+<p>北京异议人士查建国对记者说，当局要求党员干部关注聊天群的情况。他说：“随着形势的变化而变换他们对付（民众）的政策。举个例子，我有一个群，我是群主，有400多人，他们就问其他人，你是不是在查建国的群里？也跟我说，你在这个群里面，哪一天、几点，你在群里写了什么东西……。他们时时在监视，什么时候下手，那是他们的事”。</p>
+<p>查建国说，当局通过技术手段监控聊天群也不困难，但中国大陆有上千万个聊天群，当局的监控手段真的想做到“天衣无缝”，并非容易。</p>
+<p>一个多月前，广东、山东、内蒙等地政府网络信息办公室要求微信公众号用户备案。山东临沂市网信办4月14日发出“关于开展微信公众账号备案工作的通知”称，为加强微信公众账号管理，规范网络传播秩序，即日起在临沂市开展微信公众账号备案工作。备案时间由4月13至5月13日。临沂市网信办办公室人员接受本台查记者询时称，备案是为便于当局对微信“时政类新闻账号”的管理，全国各地都会实施。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E6%8A%A5%E5%90%84%E8%87%AA%E5%BE%AE%E4%BF%A1%E3%80%81qq%E7%BE%A4%E4%BF%A1%E6%81%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%A4%A7%E5%93%A5/?category=18271" rel="tag">老大哥</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF%EF%BD%9C%E6%96%B9%E6%A0%A1%E9%95%BF%EF%BC%8C%E8%AF%B7%E7%BB%99%E9%99%A2%E5%A3%AB%E6%8A%AC%E6%9E%B6%E6%A2%AF%E5%AD%90%E6%9D%A5/" target="cdt-mirror">我的名字叫警长｜方校长，请给院士抬架梯子来</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF-1.jpg" rel="attachment wp-att-438334"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF-1.jpg?resize=500%2C437" alt="我的名字叫警长" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长-1.jpg?resize=300%2C262 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长-1.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%96%B9%E6%A0%A1%E9%95%BF%E8%AF%B7%E7%BB%99%E9%99%A2%E5%A3%AB%E6%8A%AC%E6%9E%B6%E6%A2%AF%E5%AD%90%E6%9D%A5.jpg" rel="attachment wp-att-529522"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%96%B9%E6%A0%A1%E9%95%BF%E8%AF%B7%E7%BB%99%E9%99%A2%E5%A3%AB%E6%8A%AC%E6%9E%B6%E6%A2%AF%E5%AD%90%E6%9D%A5.jpg?resize=500%2C388" alt="方校长请给院士抬架梯子来" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/方校长请给院士抬架梯子来.jpg?resize=300%2C233 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/方校长请给院士抬架梯子来.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p>据中国科学报报道，在两院院士大会的一次会议上，一位头发花白的院士表示：“严格的网络监管，对我们搞科研的人来讲，损失是非常大的。其实通过国外的一些网站，我们可以了解很多科技先进国家正在做什么，以及他们把科研成果转化到了什么地步。因此，是不是可以给搞科研的人一点特殊的方便？”</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%96%B9%E6%A0%A1%E9%95%BF%E8%AF%B7%E7%BB%99%E9%99%A2%E5%A3%AB%E6%8A%AC%E6%9E%B6%E6%A2%AF%E5%AD%90%E6%9D%A51.jpg" rel="attachment wp-att-529524"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%96%B9%E6%A0%A1%E9%95%BF%E8%AF%B7%E7%BB%99%E9%99%A2%E5%A3%AB%E6%8A%AC%E6%9E%B6%E6%A2%AF%E5%AD%90%E6%9D%A51.jpg?resize=500%2C1713" alt="方校长请给院士抬架梯子来1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/方校长请给院士抬架梯子来1.jpg?resize=299%2C1024 299w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/方校长请给院士抬架梯子来1.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%96%B9%E6%A0%A1%E9%95%BF%E8%AF%B7%E7%BB%99%E9%99%A2%E5%A3%AB%E6%8A%AC%E6%9E%B6%E6%A2%AF%E5%AD%90%E6%9D%A52.jpg" rel="attachment wp-att-529526"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%96%B9%E6%A0%A1%E9%95%BF%E8%AF%B7%E7%BB%99%E9%99%A2%E5%A3%AB%E6%8A%AC%E6%9E%B6%E6%A2%AF%E5%AD%90%E6%9D%A52.jpg?resize=500%2C1466" alt="方校长请给院士抬架梯子来2" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%96%B9%E6%A0%A1%E9%95%BF%E8%AF%B7%E7%BB%99%E9%99%A2%E5%A3%AB%E6%8A%AC%E6%9E%B6%E6%A2%AF%E5%AD%90%E6%9D%A53.jpg" rel="attachment wp-att-529528"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%96%B9%E6%A0%A1%E9%95%BF%E8%AF%B7%E7%BB%99%E9%99%A2%E5%A3%AB%E6%8A%AC%E6%9E%B6%E6%A2%AF%E5%AD%90%E6%9D%A53.jpg?resize=500%2C1609" alt="方校长请给院士抬架梯子来3" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF.jpg" rel="attachment wp-att-438129"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF.jpg?resize=500%2C386" alt="我的名字叫警长" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长.jpg?resize=300%2C232 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/我的名字叫警长.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF%EF%BD%9C%E6%96%B9%E6%A0%A1%E9%95%BF%EF%BC%8C%E8%AF%B7%E7%BB%99%E9%99%A2%E5%A3%AB%E6%8A%AC%E6%9E%B6%E6%A2%AF%E5%AD%90%E6%9D%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%B1%80%E5%9F%9F%E7%BD%91/?category=18271" rel="tag">大中华局域网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%BB%A8%E5%85%B4/?category=18271" rel="tag">方滨兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6/?category=18271" rel="tag">科学研究</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">网络管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E4%B8%BB%E5%88%9B%E6%96%B0/?category=18271" rel="tag">自主创新</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E/?category=18271" rel="tag">防火长城</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%94%A8%E6%88%B7%E4%BD%A0%E5%A5%BD-%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9/" target="cdt-mirror">【网络民议】用户你好 我是你爹</a>
 </h2>
 <p><p>6月1日，支付宝在“六一儿童节”之际，将所有用户名称擅自加上了“宝宝”后缀，有网友称想将昵称修改，却发现支付宝在当天内禁止名称修改……支付宝强加“宝宝”此举得到了一些网友好评认为相当亲切，但也收到一些网友的批评，他们认为这种强制恶搞强制命名让他们感到不适。</p>
@@ -774,49 +806,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%BA%AD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B3%95%E5%B9%BF-%E5%9B%9B%E5%B7%9D%E7%94%B7%E5%AD%90%E5%88%B6%E9%85%92%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B-%E8%A2%AB%E6%8D%95/" target="cdt-mirror">法广 | 四川男子符海陆制酒纪念六四被捕</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/64499163.jpg?resize=600%2C339" alt="64499163" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/64499163.jpg?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/64499163.jpg?resize=768%2C434 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/64499163.jpg?w=1023 1023w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>在六四27周年将届之际，四川成都警方以“煽动颠覆国家政权罪”拘捕当地一名被指制作“铭记八酒六四”酒的男子符海陆，同时被捕的还有推荐这款酒的成都女诗人马青。</p>
-<p>据《中央社》引述香港《明报》报导，符海陆的妻子表示，这些酒并未上港媒报导，只是图片在微信朋友圈中传播。</p>
-<p>据网路流通的图片显示，符海陆自制的酒瓶贴纸上，画了当年六四天安门事件坦克车镇压的场景，并写了“铭记八酒六四－中国北京”，另外还有“永不忘记，永不放弃”的字句。</p>
-<p>报导称，今年30岁的符海陆28日在成都市光荣西路自己刚开业的茶馆内被警方抓捕。成都市公安局成华区分局发出的拘留通知书指出，他被羈押在成都市看守所。</p>
-<p>符海陆的太太刘天艳表示，“我也不知道他究竟是做了什么被抓走的，大家都在问我酒的事情，其实那只是一张图片，瓶子上贴的是八九六四的内容，我也没有见过什么酒”。</p>
-<p>报导指出，符海陆与太太育有一名2岁孩子。由于2011年大陆官方处理温州高铁撞车事件的方式，让他惊觉社会阴暗，从此积极关注时政，与成都维权人士多有接触。</p>
-<p>此外，这次被逮捕的还有成都女诗人马青。她曾在微信推荐“铭记八酒六四”，表示确有实物，并贴出实物照片。马青28日在家中被带走，据传也已被拘留。</p>
-<p>目前，“铭记八酒六四”的照片也在海外维权人士的社群网路上流行。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E6%B3%95%E5%B9%BF-%E5%9B%9B%E5%B7%9D%E7%94%B7%E5%AD%90%E5%88%B6%E9%85%92%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B-%E8%A2%AB%E6%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">煽动颠覆国家政权罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AC%A6%E6%B5%B7%E9%99%86/?category=18271" rel="tag">符海陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%AD%E8%AE%B0%E5%85%AB%E9%85%92%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">铭记八酒六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E9%9D%92/?category=18271" rel="tag">马青</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%9D%92%E5%B2%9B%E5%89%8D%E5%85%AC%E5%AE%89%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E8%87%AA%E7%88%86%E7%8B%B1%E4%B8%AD%E9%81%AD%E9%85%B7%E5%88%91/" target="cdt-mirror">自由亚洲 | 青岛前公安局副局长自爆狱中遭酷刑</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-27.jpg?resize=500%2C400" alt="杨加平在任职青岛公安局副局长时的照片。（原青岛公安局官网，拍摄时间不详）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-27.jpg?resize=300%2C240 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-27.jpg?w=620 620w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><p>杨加平在任职青岛公安局副局长时的照片。（原青岛公安局官网，拍摄时间不详）</p></div>
-<p>已被终审判决无期徒刑的山东青岛公安局前副局长杨加平，自述遭酷刑经过，周六在网上（28日）曝光。作为曾经担任“专政机器”的执行人，他入狱后被单独监禁400天、5个月不给放风，28昼夜戴著手铐不能睡觉。曾经是执行人现时亦成为受害者，但因官民矛盾，他的情况难以在民间得到广泛同情。（黄小山/黄思霖 报道）</p>
-<p>杨加平的自述指出，他于2012年7月转至济南军事看守所，被办案人员24小时戴著手铐，两次共计28天，吃饭、睡觉、上厕所，都变得异常困难和痛苦。两只手的手腕肿起，皮肤破损，手腕上多条静脉血管被手铐压住，血液基本不能够正常流通，两只手经常出现麻木徵状。</p>
-<p>自述材料显示，他努力表现才被脱下手铐，但5天后，因为一句话没有说好，就再次被戴上手铐。</p>
-<p>他还称，因血管扩张性头痛发作，希望取得止痛药物，但指必须按照办案人员的要求说，否则就只能忍著。</p>
-<p>根据之前曝光的资讯显示，曾经作为公安局副局长，杨加平告诉律师，他曾被单独关押长达400天，5个月不给放风。办案人员以折磨他为乐事，而在酷刑之下，他被逼作出虚假口供。</p>
-<p>杨加平的律师周泽证实有关消息，他表示，无论体制内外，只要是被列入了打击，都会有类似的遭遇。目前杨加平已经向最高院进行申诉，但还未有结果。</p>
-<p>周泽说：杨加平就是受酷刑嘛，在监狱里。一旦被拘捕以后，不管体制内外，都是他们打击的对象。就是说法院已经进行审查了，但还没有结果。另外申述律师是家属委托的，我也是他的申诉律师。</p>
-<p>周泽律师还表示，在之前的办案期间，山东方面不让他作为杨加平的辩护律师，原因是担心他将办案人员的违法行为揭露出来。</p>
-<p>周泽说：解除我的委托，没给我解释，就是拒不接受我的委托手续。担心我介入以后，怕我发现他们里面存在的问题，并给揭露出来，可能是这样的。</p>
-<p>本台记者发现，杨加平的遭遇在网上披露后，很多网友跟帖表示幸灾乐祸，而作为嫌疑人的基本人权，并没有引起广泛的关注。周泽律师认为，这是社会仇官心态所致。</p>
-<p>曾担任温州中级法院主审法官、辞职后当律师的锺锦化，对这种体制内的残酷作出解释。他指，体制内实际上是利益决定一切，而一旦他们之间发生利益冲突，就各自动用国家机器作出互相加害。</p>
-<p>锺锦化说：其实他们是极端的自私，他们只有利益，互相之间也都是打压、侵害。一旦产生矛盾的时候，所有的检察院啊、公安、纪委，都成为了彼此互害的一种工具。我们办过的一些局长、副局长、县长、副县长，他们贪污受贿，或者其他的甚么原因被抓起来，其实我们仔细的回忆了这些案情，其实感觉到，更多的是互害。他们根本就不是说为了社会的甚么利益，没有这个说法的其实。</p>
-<p>本台致电山东省检察院，试图了解有关案件的详情。但检察院工作人员称，反贪局周末不上班，有事要周一再说。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E9%9D%92%E5%B2%9B%E5%89%8D%E5%85%AC%E5%AE%89%E5%B1%80%E5%89%AF%E5%B1%80%E9%95%BF%E8%87%AA%E7%88%86%E7%8B%B1%E4%B8%AD%E9%81%AD%E9%85%B7%E5%88%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E6%94%BF/?category=18271" rel="tag">专政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E5%B1%80/?category=18271" rel="tag">公安局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">国家机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91/?category=18271" rel="tag">无期徒刑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -838,5 +827,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E6%94%BF
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

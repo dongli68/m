@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,102 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%BA%86%E6%96%B9%E5%BE%8B%E5%B8%88%EF%BC%9A%E8%AF%84%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88/" target="cdt-mirror">张庆方律师：评雷洋案的刑事立案</a>
+</h2>
+<p><p><strong>2016年6月1日，北京市人民检察院对外发布消息：</strong></p>
+<p>日前，北京市昌平区人民检察院完成对“雷洋涉嫌嫖娼被民警采取强制约束措施后死亡”线索的初查工作，认为符合立案侦查条件。</p>
+<p>根据办案的实际需要，北京市人民检察院决定，将该案交由北京市人民检察院第四分院立案侦查。</p>
+<p>北京市人民检察院第四分院依法决定对昌平区公安分局东小口派出所民警邢某某等五人进行立案侦查。</p>
+<p><strong>针对市检对雷洋致死案的立案侦查，本人评论如下：</strong></p>
+<p><span><strong>一、检方对几个涉案警察和辅警的立案，并不表示他们最终会被判决有罪。</strong></span></p>
+<p>在我国刑事诉讼中，刑事立案需要满足两个条件：一是有证据表明存在犯罪事实；二是需要追究犯罪嫌疑人的刑事责任。</p>
+<p>但是，由于刑事诉讼的不同阶段需要达到的证明要求不同，并不是每一起立案侦查的刑事案件最终都能获得有罪判决。</p>
+<p>2014年，全国侦查机关共立案6539692起刑事案件，而同年刑事案件生效判决只有1184562件。</p>
+<p><strong>可见，我国立案侦查的刑事案件，最终定罪率不超过20%。</strong></p>
+<p><span><strong>二、北京检方此时宣布对雷洋致死案立案，至少在打消公众疑虑方面已经错过了最佳时机。</strong></span></p>
+<p>2016年5月7日晚，雷洋被在抓嫖行动中的昌平分局东小口派出所副所长邢永瑞等人，对他采取强制约束措施后死亡。</p>
+<p>5月9日，昌平公安对外发布消息称，已经将本案的情况告知昌平检察院，检方已经介入调查。</p>
+<p>发布这则消息的如果不是由平安昌平，而是昌平检察院或北京市检察院，检方在发布消息的同时，宣布死因调查组的初步调查结果，并回答雷洋尸表是否有致命伤，警察是否存在明显的执法不当，尸体解剖何时进行等社会关注的焦点问题。</p>
+<p><strong>如果检方不是坐视警方在其后不停地自行发布雷洋嫖娼、警察处置适当等自证清白的消息并找来央视、新华社和人民日报等官媒洗地，则不论检方最终是否对涉案警察立案侦查，公众都不会对雷洋的死因产生像现在这样深的质疑。</strong></p>
+<p><strong><span>三、北京检方对雷洋致死案立案侦查的宣布方式，也有很强的危机公关意味，并有避实就虚的嫌疑。</span></strong></p>
+<p>在检方的消息通告中，我们看不到他们以什么罪名对涉案警察立案，不清楚他们以什么理由认定东小口派出所副主任邢某某等五人涉嫌犯罪，也不清楚在立案的同时，是否对五人采取了刑拘、逮捕等强制措施。</p>
+<p>本案中，雷洋的死因与其说是个法律问题，不如说是个医学问题。</p>
+<p>雷洋体表有没有受到殴打后的致命伤，内脏是否受到外力打击后破裂，身体是否存在重大疾患？</p>
+<p>这都是需要专业法医在进行尸体解剖后才能回答的问题。</p>
+<p>北京检方6月1日宣布对涉案警察的立案，与5月14日进行的雷洋尸体解剖结果有没有关系？</p>
+<p>尸检报告现在是否已经出来，致死原因是什么？</p>
+<p>雷洋家属请的专家证人中国人民公安大学教授张惠芹对尸检结果有无异议？</p>
+<p><span><strong>对这些问题，检方的立案通报中并没有提及。</strong></span></p>
+<p><strong>这就很难打消人们心中的疑虑：</strong></p>
+<p>检方这个时候宣布对五名警察刑事立案的消息，是在向公众表明绝不放纵暴力执法的决心，还是意在给高度聚焦的社会舆论灭火，最终使雷洋案尽快淡出人们的记忆?</p>
+<p><span><strong>四、在舆论的高压下，五名涉案警察的合法权利能否得到保障？</strong></span></p>
+<p>最近一段时间，我和公检法内好多朋友讨论过雷洋的死因，与圈外舆论高度一致地将雷的死归因于警察暴力执法不同，</p>
+<p><strong>熟悉刑事实务的体制内人士更多地倾向于本案是警察合理执法中遭遇的意外。</strong></p>
+<p>这并不等于说警察在处置过程中没有使用暴力，但是，警察在执法过程中面对试图逃脱的嫌疑人使用的暴力，显然与打架斗殴中的暴力不同。</p>
+<p>在太原警察王文军故意伤害致死案中，王文军在与农妇周秀云撕扯过程中一个掰头动作导致周死亡， 这个掰头的动作本身也是一种暴力，但在警察执法过程中，这种暴力是否超出了必要限度，确实是一个有争议的问题。</p>
+<p><strong>王文军案在开庭一年后仍然迟迟不能判决，就表明法院在考量罪与非罪时遭遇到了如何衡量警察执法必要限度的难题。</strong></p>
+<p><strong>本人认为：</strong></p>
+<p><strong>判断东小口派出所邢某某等五人是否有罪，要看他们对雷洋的处置是否超出北京警察处置拒捕行为时通常使用的暴力强度。</strong></p>
+<p>如果明显超限度则构罪，在必要限度之内则无罪。</p>
+<p>至于在扫黄过程中是否有必要采用刑事追逃抓捕中的执法标准，则是公安部乃至全国人大需要检视的问题。</p>
+<p><strong>作为一个刑辩律师，本人认为，五名涉案警察（和辅警）的辩护权同样应该得到充分保障，因为对他们的处理涉及到五个家庭。</strong></p>
+<p><strong>在一个法治社会，任何人都不能成为平息社会矛盾的工具，任何部门或个人都无权要求其他个人为了某个目标而牺牲。</strong></p>
+<p>五名警察是否认罪，是否已经获得有效的律师辩护，他们的辩解能否向社会公开？</p>
+<p>这些问题如果解决不好，即便通过强大的思想工作和对家属的私下许诺可以让他们在短时间内沉默，但这种沉默又能保持多久？</p>
+<p>总之，为了使雷洋案获得一个经得起历史检验的处理结果，北京检方对此案的侦查要公正无偏，涉案的重要信息要及时发布，公众的知情权要得到充分满足。</p>
+<p><strong>同时，五名嫌疑人的辩护权要得到充分保障，公民及嫌疑人家属的表达权得到充分尊重。</strong></p>
+<p>如果仍然沿用个别领导按他们认为合适的节奏，选择性地公布或屏蔽某些信息，并根据他们心中社会能够接受的结果圈定处理结果，则围绕此案的争议将长期无法平息。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%BA%86%E6%96%B9%E5%BE%8B%E5%B8%88%EF%BC%9A%E8%AF%84%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BA%B2%E7%8C%AB%E7%8C%AB/?category=18271" rel="tag">躲猫猫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%87%AF%E9%A3%8E%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%E6%88%B3%E7%A0%B4%E4%BA%86%E5%A4%9A%E5%B0%91%E8%B0%8E%E8%A8%80%EF%BC%9F/" target="cdt-mirror">鸡蛋与高墙｜凯风：雷洋案戳破了多少谎言？</a>
+</h2>
+<p><blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC-%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E6%93%8D%E6%8E%A7%E5%AF%B9%E6%AF%94%E5%9B%BE/" target="_blank">@平安北京 微博评论操控对比图</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E6%95%8F%E6%84%9F%E6%97%B6%E5%88%BB%E8%87%B4%E6%88%98%E5%8F%8B%EF%BC%9A%E6%80%BB%E4%BC%9A%E8%A7%81%E5%BD%A9%E8%99%B9/" target="_blank">【立此存照】海淀公安敏感时刻致战友：总会见彩虹</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA-%E5%B0%81%E8%BD%AC%E5%8F%91-%E4%B8%8D%E6%8A%A4%E7%9F%AD/" target="_blank">【网络民议】平安北京：删评论 封转发 不护短</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%EF%BD%9C%E6%9C%89%E5%A4%9A%E5%B0%91%E7%83%AD%E9%97%A8%E4%BA%8B%E4%BB%B6%E6%9F%A5%E6%97%A0%E5%90%8E%E7%BB%AD%EF%BC%9F/">鸡蛋与高墙｜有多少热门事件查无后续？</a></li>
+</ul></blockquote>
+<p><strong>作者微信公号：鸡蛋与高墙（ID: eggs-walls）<br></strong></p>
+<p>不知不觉，雷洋案已经发酵将近一月。案件终于出现实质性进展，曾在央视振振有词的涉案民警，已被立案调查，雷洋冤屈或将很快洗白。</p>
+<p>回顾这一事件发展过程，我们不难看到每一个人在公权力滥用面前所产生的自危感，同样不难看到某些人无所不用其极的洗地姿态，以及舆论在公共安全事件面前所产生的撕裂。</p>
+<p>真相虽然还未全部大白，但正向着人们所预料的最坏方向发展。之所以说是最坏，不仅是因为雷洋之死果真是公权力滥用的结果，而且从头到尾都充斥着洗地和谎言。</p>
+<p>事件发展到现在，有多少谎言已经被戳破？又有多少真相值得铭记？</p>
+<p><strong>真相之一：官方的自说自话最值得警惕</strong></p>
+<p>面对执法质疑，执法者有回避义务。如果所有的信息发布都来自于同一部门，那么公众就有足够理由怀疑其真实性。对于行政体系的自说自话，不以最大的恶意来揣测，是很难窥探事情的真相。</p>
+<p>然而，许多人仍旧视官方说法为第一而且是唯一出口，将民间的种种质疑定性为谣言，以坐等翻转的看客心态，期待戏剧性新闻的诞生。</p>
+<p>这种心态，与其说是出于理中客的谨慎，不如说是陷入认知谬误：将官方信息等同于权威信息，进而将权威信息等同于唯一真相。显然，官方不一定权威，权威不一定真实。</p>
+<p><strong>真相之二：不要低估洗地者的无耻程度</strong></p>
+<p>每一起公共事件，都能看到洗地者的身影。有的出于无知，有的出于无耻。无知的毋庸讳言，无耻的，人们仍在低估其形式和程度。</p>
+<p>明年上的洗地很容易看出，那种全然不顾疑点，只为一方辩护，或者将所有质疑都认定为“消费死者”的，都属于洗地之列。</p>
+<p>但有一种洗地不容易辨别，那就是舆论搅屎棍。这种洗地，最善于炒作事件中无关紧要的部分，以此转移舆论对核心问题的关注度。譬如LY案，只关注嫖娼而不关注公权滥用，质疑家属动机而不质疑官方动机。</p>
+<p><strong>真相之三：真相从来都不是坐等出来的</strong></p>
+<p>事发之初，有媒体呼吁“请给真相一点时间”。如果人们真的以坐观真相的态度等待，没有律师介入，没有舆论倒逼，那么此前新闻上涉事民警的发言，有可能就是最终定论。</p>
+<p>千万不要假定官方是不偏不倚的裁判者，不要以为他们能够基于法律秉直断。且不说这不符合现实，而且就体制特性而言，我们的执法体制是一个信用捆绑模式，因为政府大包大揽，所以不得不为所有的行为兜底。看似几个民警的执法问题，实则政府公信力都在为其牵连。所以，不排除官方出于维护形象考虑，从而产生有倾向性的裁判。</p>
+<p><strong>真相之四：雷洋的遭遇不是偶发的个案</strong></p>
+<p>雷洋案之所以引发铺天盖地的关注，最根本的原因在于，人人自危感。人大硕士，体制内工作，置业北京，都难免遭遇无端厄运，何况普通人？</p>
+<p>那些以为与世无争就能小富即安思维，正在遭遇现实无情的打击。你有与世无争的希望，不代表厄运不会找上你。你以为作为中产无需关心社会大势，关键就会明白这一身份的虚妄。</p>
+<p>看看常州du土地漩涡中的家长，看看天津爆Z事件里的业主，哪一个不是中产？</p>
+<p><strong>真相之五：记住孙志刚，记住雷洋</strong></p>
+<p>孙志刚、雷洋，都是以自身的生命，来换取人们对惨痛现实的关注。记住他们，就是记住现实。但愿雷洋之后再无雷洋。</p>
+<p>然而，这并不可能。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" rel="attachment wp-att-438293"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?resize=250%2C244" alt="鸡蛋与高墙二维码" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?resize=300%2C293 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?resize=768%2C749 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?w=818 818w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%87%AF%E9%A3%8E%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%E6%88%B3%E7%A0%B4%E4%BA%86%E5%A4%9A%E5%B0%91%E8%B0%8E%E8%A8%80%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81%E9%83%A8%E9%97%A8/?category=18271" rel="tag">权威部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%88%B0%E8%AE%BF%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E6%96%A5%E8%B4%A3%E6%8F%90%E9%97%AE%E4%BA%BA%E6%9D%83%E8%AE%B0%E8%80%85/" target="cdt-mirror">BBC | 中国外长王毅到访加拿大 斥责提问人权记者</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160602031911_canada_china_wang_dion_976x549_thecanadianpressviaap_nocredit.jpg?resize=660%2C371" alt="160602031911_canada_china_wang_dion_976x549_thecanadianpressviaap_nocredit" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160602031911_canada_china_wang_dion_976x549_thecanadianpressviaap_nocredit.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160602031911_canada_china_wang_dion_976x549_thecanadianpressviaap_nocredit.jpg?w=660 660w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"></p>
@@ -711,85 +804,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%83%A1%E6%80%BB%EF%BC%8C%E5%A5%84%E5%A5%84%E4%B8%80%E6%81%AF%E7%9A%84%E9%95%BF%E5%AF%BF%E6%98%AF%E8%8B%9F%E5%BB%B6%E6%AE%8B%E5%96%98%E7%9A%84%E6%84%8F%E6%80%9D%E5%90%97%EF%BC%9F/" target="cdt-mirror">【网络民议】胡总，奄奄一息的长寿是苟延残喘的意思吗？</a>
-</h2>
-<p><p>《环球时报》总编胡锡进今日在新浪微博上宣布，自己正在付费语音问答平台“分答”上接受网民提问，价格为 ¥100／题。胡总编在“分答”上的自我简介为：我奄奄一息地活着并且长寿。</p>
-<blockquote><p><a href="http://weibo.com/1989660417/DxVwmnUWJ" target="_blank">@胡锡进</a>：什么都经历过的我，再趟一趟分答。欢迎用要问倒我的劲头来问我。</p></blockquote>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%83%A1%E9%94%A1%E8%BF%9B%E5%88%86%E7%AD%94.png" rel="attachment wp-att-500147"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%83%A1%E9%94%A1%E8%BF%9B%E5%88%86%E7%AD%94.png?resize=375%2C667" alt="胡锡进分答" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/胡锡进分答.png?resize=768%2C1365 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/胡锡进分答.png?resize=576%2C1024 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/胡锡进分答.png?w=1080 1080w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a><p><span>“分答”界面截图</span></p></div>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E7%BD%91%E4%BF%A1%E5%8A%9E%EF%BC%9A%E7%8E%AF%E7%90%83%E7%BD%91%E5%B1%A1%E6%AC%A1%E6%B8%B2%E6%9F%93%E7%82%92%E4%BD%9C%E6%95%8F%E6%84%9F%E4%BA%8B%E4%BB%B6-%E6%89%B0%E4%B9%B1%E4%BA%92%E8%81%94/" target="_blank">【此贴必火】中央网信办通报批评环球网</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%8F%BC%E4%B8%80%E8%BE%88%E5%AD%90%E9%A3%9E%E7%9B%98%E4%BD%A0%E4%B9%9F%E4%B8%8D%E5%A7%93%E8%B5%B5/" target="_blank">【网络民议】叼一辈子飞盘你也不姓赵</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BD%9C%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%BC%96%E5%A7%94%E4%BC%9A%E5%85%B3%E4%BA%8E%E5%B7%A1%E8%A7%86%E6%95%B4%E6%94%B9%E6%83%85%E5%86%B5%E7%9A%84%E9%80%9A%E6%8A%A5/" target="_blank">中纪委｜人民日报编委会关于巡视整改情况的通报</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2015/09/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%90%86%E6%83%B3%E6%B2%A1%E6%9C%89%E8%BE%9C%E8%B4%9F%E8%83%A1%E6%80%BB%E7%BC%96/" target="_blank">【网络民议】共产主义理想没有辜负胡总编</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@吕布他哥:请问一个太监，总是挖空心思去论述性生活对男人身体的危害，这么多年来乐此不疲，是什么在支撑着你呢？</p>
-<p>@DefendorKN：芮成钢到底噎没噎到？</p>
-<p><strong>@佳人信言：工农兵博士生真的读过那么多名著吗？</strong></p>
-<p>@清溪借雨：请问，做屎壳郎是一种什么感觉？</p>
-<p>@张張嘉戌：请问你作为一个总编，你只能被支配，你难受吗？</p>
-<p>@平按天下：人都说你是跪舔，你是什么时候站起来的？——你说要问倒你的一丝疑惑。</p>
-<p>@暂时没想到好的：知乎体：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E4%B8%AD%E7%BA%AA%E5%A7%94%EF%BD%9C%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%BC%96%E5%A7%94%E4%BC%9A%E5%85%B3%E4%BA%8E%E5%B7%A1%E8%A7%86%E6%95%B4%E6%94%B9%E6%83%85%E5%86%B5%E7%9A%84%E9%80%9A%E6%8A%A5/" target="_blank">公费出国游玩</a>是一种什么样的感受？</p>
-<p>@木头人快跑8：<a href="http://chinadigitaltimes.net/chinese/2016/01/%E5%8F%BC%E4%B8%80%E8%BE%88%E5%AD%90%E9%A3%9E%E7%9B%98%E4%BD%A0%E4%B9%9F%E4%B8%8D%E5%A7%93%E8%B5%B5/" target="_blank">波兰的大保健</a>和东莞的有什么不一样？</p>
-<p>@天chao尘民：问：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%85%9A%E6%80%A7%E5%92%8C%E4%BA%BA%E6%80%A7%E5%86%B2%E7%AA%81%E6%97%B6-%E5%9D%9A%E5%86%B3%E5%8F%AA%E8%AE%BA%E5%85%9A%E6%80%A7%E4%B8%8D%E8%AE%BA/" target="_blank">党性和人性冲突</a>时你选哪个？</p>
-<p>@市民東先生：什么是春夏之交？历史上的今天有没有5月35日？</p>
-<p><strong>@木头人200804：奄奄一息的活着并且长寿——这是在说专制和极权传统源远流长的某伟大国家的吧？</strong></p>
-<p><a href="http://weibo.com/hbg0303" target="_blank">@不会唱戏的胖胖的猴子</a>：“受身无间者永远不死，寿长乃无间地狱中之大劫。”<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@云蒸霞蔚草木葱笼：奄奄一息的长寿是苟延残喘的意思吗？</p>
-<p>@鹰脱乃雄奈尔：胡总，我就问一句:飞盘好叼吗？骨头好啃吗？</p>
-<p>@信卅轶史：那我可问了：您的牙是用钛合金加固过的吗？</p>
-<p>@一眼看尽红尘：胡老师，我的牙出了问题，医生建议拔掉，我想问问您，装什么材质的假牙比较结实耐用？谢谢了。</p>
-<p>@疏钟淡月：怎么？胡总得病了么？什么病啊？应该会是癌症吧！！</p>
-<p>@育瀛：你经历过资本主义吗？（去玩的不算）。如没，你又怎么能肯定资本主义不好？（防五毛说法–没怎样就不能怎样）</p>
-<p>@许合文：七长老是无产阶级么？</p>
-<p>@逍遥一叟：中国现在是社会主义国家还是修正主义国家？</p>
-<p>@川藏线木雅人：你不说假话会死吗</p>
-<p><a href="http://weibo.com/3145813371" target="_blank">@微暖初晴</a>：真能吹哦<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">有被“嫖娼”过?有被“幸福”过?有因言获罪过?有思想被禁锢在局域网内被开心的利用着?有忠诚的用生命和青春为“崇拜者”去甘做“炮灰”?……</p>
-<p><strong>@雨夜思语：请问胡编：为什么社会主义社会一定会战胜资本主义社会？是因为社会主义社会善于革命吗？革人的命吗？</strong></p>
-<p>@蜡烛油炒饭：请问你们一直说美国总统是财团扶持的，也就是说是花钱买来的，为什么到现在你国还没有顺利地买下一个美国总统？你国政府这么有钱，因为不难办到吧。</p>
-<p>@老虎之围脖：共产党说他自己是光荣伟大正确的，请问，这是按照什么标准来确定的，我们平时所做人要谦虚，不要自大，可是一个党派为什么就可以说自己是光荣伟大正确的呢？既然伟光正，为什么害怕别人反对他不许成立反对党呢</p>
-<p>@水哥就是water哥：把瞎话说的振振有词是咋修炼的？</p>
-<p>@管窥象：文革死了多少人？所谓的自然灾害是什么？周永康的幕后老板为啥不就出来？</p>
-<p>@悠悠果的爱人：胡总是如何在众多非议中活下去的？而且貌似活得蛮滋润的？</p>
-<p>@马叉开italk：有一不解，想请教胡编: 面对那么多反对挖苦甚至谩骂你的网友，你是抱有一种怎样的心态？觉得自己捍卫的是真理，经得起时下和历史的考验，觉得自己是披荆斩棘排除万难的英雄？还是觉得自己应该“在其位谋其政”，谁给饭吃给谁摇尾巴？</p>
-<p>@乡野草民流年往返：胡总编，你发微博后看评论吗？</p>
-<p>@骑羊驼的树袋熊：请问你觉得你老板还能活多久</p>
-<p>@济公-活佛：【共产党还能统治多少年？】</p>
-<p>@康德拉伯爵：胡编你觉得你哪种叼飞盘的姿势最潇洒？</p>
-<p>@I三三哥I：像你这种诡辩之人，问你有什么意思呢？</p>
-<p>@馴o獸o師：狗被主人不待见，那就赶紧卖力多叫几声多舔几下</p>
-<p>@太史公传：要命的是，问倒了你，你第二天还是在环球上班———最要命的是，标准答案第三天公布在“环球”上。</p>
-<p>@Keyman-Lai：想问下你几时死，居然要钱wor，顶你个肺</p>
-<p>@磨镜2012：你的叼盘技术天下第一，谁能问得倒你？</p>
-<p>@金泽丰：标准答案都在姓党的媒体，有必要问你吗？如果你肯戴着测谎器来回答，倒是可以试一试。</p>
-<p><a href="http://weibo.com/5868438244" target="_blank">@那山那水背包客</a>：胡编有一点你不服不行:他的脸皮比长城拐弯还厚，他可以在口水里畅游！<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"><img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3661615703" target="_blank">@我如寄居</a><i></i>：练就了一身无下限的<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8192.png?resize=20%2C20" alt="" px data-recalc-dims="1"><img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee849a.png?resize=20%2C20" alt="" px data-recalc-dims="1">，当然不怕了。</p>
-<p>@采花蟊尖：不问，你这把年纪了，早就练就什么角度的盘都能轻松接住的绝招，没意思，我不自己恶心自己</p>
-<p>@刘春：看问题把我笑喷了，提醒胡兄记得分答收入要缴个人所得税</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%83%A1%E6%80%BB%EF%BC%8C%E5%A5%84%E5%A5%84%E4%B8%80%E6%81%AF%E7%9A%84%E9%95%BF%E5%AF%BF%E6%98%AF%E8%8B%9F%E5%BB%B6%E6%AE%8B%E5%96%98%E7%9A%84%E6%84%8F%E6%80%9D%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B%E8%A2%AB%E5%A4%84%E5%88%86/?category=18271" rel="tag">胡锡进被处分</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%AD%E5%9B%9B%E6%9C%9F%E9%97%B4%E4%B8%81%E5%AD%90%E9%9C%96%E5%AE%B6%E7%94%B5%E8%AF%9D%E8%A2%AB%E5%81%9C/" target="cdt-mirror">法广｜六四期间丁子霖家电话被停</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%81%E5%AD%90%E9%9C%96.jpg" rel="attachment wp-att-499157"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%81%E5%AD%90%E9%9C%96.jpg?resize=500%2C516" alt="丁子霖" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?resize=291%2C300 291w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?resize=768%2C793 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?resize=992%2C1024 992w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/丁子霖.jpg?w=1782 1782w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>高瑜（@gaoyu200812）推特内容截图</span></p></div>
-<p>六四二十七周年日临近，著名独立记者高瑜周一在推特上告知，天安门母亲丁子霖教授被国保通知从6月1日起在她家上岗并将切断她的家用电话。国保交给的专用手机，其中只有三个号码，分别是国保，丁子霖的儿子以及120紧急呼救号。</p>
-<p>丁子霖教授在电话中向本台确认了上述消息，并且表示，自从她的先生蒋培坤教授去世后，既不上网，又不用微信的她，几乎过着与外界隔绝的生活。</p>
-<p>丁子霖教授向本台表示，正在集中精力撰写回忆录，把自己的亲身经历留给下一代，使他们了解1989年6月4日究竟发生了什么。</p>
-<p>随着“八九六四”纪念日的临近，北京当局加强了控制，重庆公民刘亚璇因在网上转发六四网帖而遭到警方十余小时传唤。此外，中国各地公民声援郭飞雄的行动也持续遭到当局打压，据报道，至少有九人被警方传唤，有人甚至遭到拘留。维权网周日报道说，四川成都警方在六四27周年前，以「煽动颠覆国家政权罪」拘捕当地一名涉嫌製作「铭记八酒六四」（「八酒」谐音八九）的男子符海陆，同时被捕的还有曾推荐该酒的成都女诗人马青。</p>
-<p>另据报道，流亡旧金山的六四学运参与者与支持者以及人权活动人士数十人周日在旧金山唐人街花园角清洗民主女神的雕像，活动的发起者、“人道中国”主席葛洵表示，清洗民主女神像，象征着对历史真相和六四精神坚持不懈的追求。香港立法会议员、支联会主席何俊仁也专程赶来，为民主女神像献花。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%85%AD%E5%9B%9B%E6%9C%9F%E9%97%B4%E4%B8%81%E5%AD%90%E9%9C%96%E5%AE%B6%E7%94%B5%E8%AF%9D%E8%A2%AB%E5%81%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90%E9%9C%96/?category=18271" rel="tag">丁子霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -801,7 +815,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -811,5 +825,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

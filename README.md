@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,102 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AA%92%E4%BD%93%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E7%8E%8B%E6%AF%85%E5%8F%91%E6%80%92/" target="cdt-mirror">【立此存照】加拿大媒体如何报道王毅发怒</a>
+</h2>
+<p><blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/" target="_blank">【网络民议】你去过中国吗？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/06/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%88%B0%E8%AE%BF%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E6%96%A5%E8%B4%A3%E6%8F%90%E9%97%AE%E4%BA%BA%E6%9D%83%E8%AE%B0%E8%80%85/" target="_blank">BBC | 中国外长王毅到访加拿大 斥责提问人权记者</a></li>
+</ul></blockquote>
+<p>根据加拿大政治新闻网站iPolitics<a href="https://ipolitics.ca/2016/06/01/for-the-record-chinese-foreign-minister-loses-it-over-human-rights-question/" target="_blank">报道</a>，加拿大媒体只能向王毅和加国外交部长迪翁提一个问题及一个该问题的后继问题，数家在场的加拿大媒体经过讨论后，由iPolitics的安全和国防记者阿曼达·康诺利（Amanda Connolly）作为代表，向迪翁提问。</p>
+<p>附《纽约时报》中文版对完整提问的<a href="http://cn.nytimes.com/china/20160603/canada-china-wang-yi/" target="_blank">翻译</a>：</p>
+<blockquote><p>问：“中国对待人权倡导者的状况一直令人担忧，比如<a href="http://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/" target="_blank">香港书商</a>、以及<a href="http://chinadigitaltimes.net/chinese/2014/08/%E5%8A%A0%E5%9B%BD%E5%A4%AB%E5%A6%87%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%8A%93%EF%BC%8C%E5%84%BF%E5%AD%90%E7%A7%B0%E6%B3%84%E5%AF%86%E7%BD%AA%E5%BE%88%E8%8D%92%E5%94%90/" target="_blank">加勒特夫妇被拘留</a>的问题，更何况中国在南中国海的领土野心给地区带来的不稳定影响。鉴于这些问题，为什么加拿大还在寻求与中国更紧密的关系？你打算如何使用这种关系来改善该地区的人权和安全？你今天与中国外长会谈时，具体问了加勒特夫妇的情况吗？</p></blockquote>
+<p>加拿大独立新闻网站Tyee在一篇题为<strong>《<a href="http://thetyee.ca/News/2016/06/02/Why-Chinas-Foreign-Minister-Flipped-Out/" target="_blank">为什么中国外长昨天在渥太华发飙了？</a>》</strong>的报道中调侃：</p>
+<blockquote><p>加拿大外交部长斯蒂文·迪翁所能做的唯一一件事儿，就是站在他的中国同行旁边，尽心尽责地做一块赏心悦目的装饰板。</p></blockquote>
+<p>《国家邮报》记者撰文称，<strong><a href="http://news.nationalpost.com/full-comment/michael-petrou-dions-silence-was-embarassing-as-chinas-foreign-affairs-minister-berated-a-canadian-reporter" target="_blank">面对中国外长痛斥加拿大记者，迪翁的沉默令人难堪</a></strong>：</p>
+<blockquote><p>和中国的持不同政见的记者所遭受的待遇比起来，他的发作可能看起来是一件小事。然而，在他教训记者哪些问题才算“可以接受”时，他是在打击加拿大民主里的一项基本自由：即记者可以对政治家追究责任。</p></blockquote>
+<p>加拿大保守党外交事务发言人<strong><span>托尼·克莱门</span>在接受加拿大广播公司<a href="http://www.cbc.ca/news/politics/chinese-foreign-minister-tantrum-reaction-1.3613086" target="_blank">采访时说</a></strong>：</p>
+<blockquote><p>“他来到加拿大领土，对一名提出合理问题的加拿大记者如此无理，我认为这简直太无耻了。”</p>
+<p>“我们作为部长或国会议员去北京的时候，会被告知需要尊重和回避某些中国历史和文化方面的话题。然后他现在到我们这里，对我们的价值观如此地不尊重”，他说，“这是让人无法接受的”。</p></blockquote>
+<p>加拿大<span>《环球邮报》</span>则在报道中将王毅的表现与<strong>李克强在2014年面对类似问题时的态度</strong>做了<a href="http://outburst/" target="_blank">比较</a>：</p>
+<blockquote><p>2014年，时任加拿大总理哈珀访问北京期间，向李克强问及了加拿大公民高凯文因被控间谍罪而遭到拘留一事，李克强笑着回答说“中国将继续依法治国”。</p>
+<p>王先生的这场发作是一次引人注目的反转。他的愤怒凸显了中国拒绝接受批评的态度，因为该国也许可以利用其经济能力制裁意见不合的国家。</p></blockquote>
+<p><strong>加拿大《国家邮报》<a href="http://news.nationalpost.com/full-comment/gary-clement-on-the-foreign-ministers-visit" target="_blank">社论漫画</a></strong>，作者为 Gary Clement：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/06-03-16cle.jpeg" rel="attachment wp-att-531379"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/06-03-16cle.jpeg?resize=500%2C444" alt="06-03-16cle" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/06-03-16cle.jpeg?resize=300%2C266 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/06-03-16cle.jpeg?w=620 620w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p>“如何看待中国的人权问…”<br>
+“把那女的抓起来！”</p></blockquote>
+<p><strong>附 Badiucao (巴丢草)</strong>: <a href="http://chinadigitaltimes.net/2016/06/badiucao-%E5%B7%B4%E4%B8%A2%E8%8D%89-chinas-foreign-minister-trumps-journalist/" target="_blank">Foreign Minister Trumps Journalist</a><strong>（外长向记者“特普朗式”开炮）</strong></p>
+<blockquote><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E4%BA%A4_%E7%BC%96%E8%BE%91%E5%89%AF%E6%9C%AC-1-e1464915045163.png" rel="attachment wp-att-531380"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E4%BA%A4_%E7%BC%96%E8%BE%91%E5%89%AF%E6%9C%AC-1-e1464915045163.png?resize=425%2C579" alt="外交_编辑副本-1-e1464915045163" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外交_编辑副本-1-e1464915045163.png?resize=220%2C300 220w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外交_编辑副本-1-e1464915045163.png?w=592 592w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AA%92%E4%BD%93%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E7%8E%8B%E6%AF%85%E5%8F%91%E6%80%92/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF/?category=18271" rel="tag">外交部长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/" target="cdt-mirror">【网络民议】你去过中国吗？</a>
+</h2>
+<p><p>6月1日，外交部长王毅与加拿大外长迪翁举行会晤。会后，有记者团队代表向王毅询问了有关人权（包括被囚加拿大人高凯文）及铜锣湾书店的相关问题，令王毅大为不悦，并怒斥记者“充满偏见、不负责任”，并且抛出一连串反问。该消息很快成为墙内外热点，除了追随着“主流媒体”声音的一些网友对王毅的强硬态度大力叫好和对外媒的”偏见与傲慢“表示愤怒外；也有另一些网友认为王此番言论与习近平的“一不输出革命，二不输出饥饿和贫困…”有相似处，不但强行代表了国民，还答非所问、缺乏逻辑、理不直而气壮。</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p>视频<a href="https://www.youtube.com/watch?v=InDlt1NZNsI" target="_blank">地址</a></p>
+<blockquote><p>王毅：“我必须说，你的问题充满了对中国的偏见与傲慢……我不知道这从何而来，但完全无法令人接受。”</p>
+<p>“关于中国人权状况，没有人比中国人民更了解，中国人民才是最有发言权和发言立场的。”</p>
+<p>“你到过中国吗？你知道中国是全世界第二大经济体吗？你知道中国已经帮助超过6亿人民脱贫吗？你知道中国已经把保护和推动人权写进了宪法吗？”</p>
+<p>“我建议你，请不要用如此不负责任的方式提问。我们欢迎善意的建议，但拒绝毫无根据和没有理由的指责。”</p></blockquote>
+<p><strong>相关阅读：</strong></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%88%B0%E8%AE%BF%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E6%96%A5%E8%B4%A3%E6%8F%90%E9%97%AE%E4%BA%BA%E6%9D%83%E8%AE%B0%E8%80%85/" target="_blank">BBC | 中国外长王毅到访加拿大 斥责提问人权记者</a></p>
+<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
+<p>@怡仔Fannie ： 我只知道，西方并不会给我更多的人权。</p>
+<p>@巧克力味咸鱼 ： 那些说没有人权的人，我就想问你们是怎么在网络上天天黑政府却还活的好好的人。</p>
+<p>@下雨遛狗不打伞 ： 我他妈就搞不懂！媒体爆出来死一个人，死两个人，也许真相还没有判出来，也许是有些遮遮掩掩，也许官方还没有下定论，但是就是这么一个两个的人他妈的好像就代表了全中国13亿人没人权了？？？这一两个人爱代表谁代表谁，不代表我！！要真没人权还让你们能在网上谩骂？？早抓起来了！国家是懒得理你们！</p>
+<p>@花花的花花公仔：有些人总喜欢把自己的不满把自己生活的不如意总喜欢迁就于社会迁就于国家，没有任何一个国家是完美的，美好的生活都是需要经过自己的打拼。</p>
+<p>@李先森panpan：评论里的loser，我不知道你和我是不是生活在同一个中国，我感觉我挺有人权的[微笑]国家没有禁止我吃喝穿，没有歧视，没有阻止我努力工作发展，想要得到的（合法），通过自己努力就可以做到[微笑]所以如果你把你们的一无所成归咎为中国没有人权，我只想说辣鸡到哪里都是辣鸡。</p>
+<p>@火影w海贼：热门那评论什么玩意，你对中国很失望吗，这么埋汰中国，自己不努力不要赖国家。</p>
+<p>@一瓶子茶叶：王毅外长在加拿大怒斥了一个记者，结果被国内爱国公知各种喷。</p>
+<p>@张小闹要加油：我不清楚什么是人权，我只知道，我靠自己的工作养活自己，能吃想吃的东西，能去想去的地方玩，平时没事黑黑政府，想要的东西都靠自己努力去争取，请问什么是人权？我只知道我现在靠自己的工作生活的很幸福，这难道不重要？</p>
+<p>@唯美与旅行不可辜负的Sliver：看了下面的评论真的很心寒，我们不应该是支持王毅外长对这种武断不了解情况的人进行反驳吗，也许外长是有些激动，可是你想象下每次在外面都要被批评人权内心肯定不好受啊，我们的祖国也许真的有很多很多问题，可是看看伊拉克那些国家可怜的人民吧，我们现在的生活真的是来之不易的，还请大家少点抱怨吧！</p>
+<p>——————-</p>
+<p>@LifeTime：恭喜王毅上头条。“你懂中国吗？你去过中国吗？….如果人权保护的不好，怎么可能取得那么大的发展？”</p>
+<p>@letscorp: 【造句】“你懂希特勒吗？你去过第三帝国吗？如果第三帝国人权保护的不好，怎么可能取得那么大的发展？”。“你懂ISIS吗？你去过伊斯兰国吗？如果伊斯兰国人权保护的不好，怎么可能取得那么大的发展？”</p>
+<p>@Find-miracle ： 应该怒斥这个记者：你有没有微博账户？你注册一个看看！</p>
+<p>@哥是小清新：我们靠自己的劳动获得报酬 而且纳税养活了庞大的政府 为什么反而是政府养活了我们一样？</p>
+<p>@哈哈哈哈哈哈：其实这个流氓逻辑反过来是教训小粉红们的：.没去过的国家不要听风就是雨，跟着新闻联播说什么人家人权也不行（哦，对，也这个字要少用）。</p>
+<p>@OraclMachine：好一个外长，办公室抽屉里藏的都是少女漫吧。不然对话的逻辑和一个失恋的初中女生同步率那么高：“你爱过我吗？你真正了解过我吗？你知道我有多么走心吗？你知道我不走心怎么可能会这么难过吗？你知道吗？你知道吗……知道吗？知道吗？</p>
+<p>@MyDF：记者问：你们为什么虐待猪？王毅答：我们把猪养得很肥！</p>
+<p>@李书行同学：你为什么要骂TFboys?你了解TFBoys么？你知道他们有多努力么？</p>
+<p>@中華總舵主陳近南 ： 听说你在家打老婆孩子？老王：你知道他们以前连饭都吃不上吗？你知道我家现在全村第二有钱了吗？我们家的人才有发言权，你给我滚。</p>
+<p>@hnjhj：- 你们什么时候可以不要把人当猪？- 你的提问充满了不知道从什么地方来的傲慢和对猪的不尊重。你养过猪吗？你去过猪圈吗？你知道中国让6亿头猪活蹦乱跳吗？你知道中国猪已经住上平均8平米带空调的猪棚了吗？你知道中国已经把保护猪吃无添加剂的青饲料写入饲养员守则了吗？</p>
+<p>@草原的游牧人：希望央视在网络上开展一个关于人权调查的活动，让我们中国人民自己来回答。</p>
+<p>@贾真同学：你知道一个母亲贫困到要偷鸡腿给生病的养女吃吗？</p>
+<p>@super_blog：请问你认识京城的雷洋吗？</p>
+<p>@_有芒果吃真是太好了：你知道中国的贫富差距有多大吗？你知道中国高考有多么不公吗？你知道中国的食品都有毒吗？你知道中国的强拆吗？</p>
+<p>@小白哥V：我要是外交部长我就理直气壮说，我们就是牺牲人权和环境才能获得经济这么快发展。</p>
+<p>@judesunman：“你吃过屎没，吃过才知道臭！” 记者答“闻着就臭～”</p>
+<p>@默默小刀君：他还有点含蓄呀……应该问你吃过屎吗？没吃过怎么知道臭！</p>
+<p>@blue_石头：怪不得中国游客在国外旅游，总被批评粗鲁无理，看看外长就知道了，一个老师教出来的。</p>
+<p>@斗西：王部长的脸特像木偶。“如果人权不好，怎么可能取得经济进步。” 这逻辑都能行？传销头子怒斥法官“我非常接受不了你的傲慢，如果传销的人不是自愿，我们怎么可能那么壮大？”</p>
+<p>@云的N次方：奴隶生活好不好，有没有人权只有奴隶主才知道，其他人没有权力说三道四。</p>
+<p>@<br>
+伊莎贝拉雷：水平真差，答非所问，更何况都没问他。动不动就第二大经济体，除了钱真的也没啥可炫耀的了。中国人有权提人权问题吗？是指那些被关在精神病院的上访人员还是那些关在牢里或软禁的异见人士或者是在说无辜的雷洋们？</p>
+<p>@小呆爱小乖不能再迷糊：有失风度，答非所问。</p>
+<p>@Joss_sz：对外点头撒钞票，对内拳头印钞票。</p>
+<p>@指环门：不流氓做不了神仙……理解。</p>
+<p>@馒头7up：被人踩到痛脚，戳到高点，问到最心虚的问题的反应一般都是这样的。</p>
+<p>@朱张锁：把那个记者抓起来嫖娼。</p>
+<p>@天水碧：你知道中国把言论自由集会自由也写进宪法了吗？</p>
+<p>@slowboywyf：王外长不要犯政治错误啊，你想给中国人民发言权？宣传部门同意了吗？</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF/?category=18271" rel="tag">外交部长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%89%91%E5%AE%A2%E4%BC%9A%EF%BD%9C%E6%9D%8E%E6%B4%AA%E6%9E%97%EF%BC%9A%E4%BA%BA%E6%B0%91%E6%9C%89%E6%B2%A1%E6%9C%89%E8%AF%BB%E4%B9%A6%E7%9A%84%E8%87%AA%E7%94%B1%EF%BC%9F/" target="cdt-mirror">剑客会｜李洪林：人民有没有读书的自由？</a>
 </h2>
 <p><p><strong>来自微信公号：剑客会（ID: ijiankehui）</strong></p>
@@ -77,7 +170,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E4%BA%BA%E5%B8%AE/?category=18271" rel="tag">四人帮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">文化大革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B4%AA%E6%9E%97/?category=18271" rel="tag">李洪林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%8E%E4%B8%BA%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E8%A1%8C%E6%94%BF%E4%BC%A0%E5%94%A4%EF%BC%8C%E4%BA%8B%E5%85%B3%E4%B8%8E%E6%9C%9D%E9%B2%9C%E4%BC%8A%E6%9C%97%E8%B4%B8%E6%98%93/" target="cdt-mirror">纽约时报｜华为被美国商务部行政传唤，事关与朝鲜伊朗贸易</a>
 </h2>
@@ -668,103 +761,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%88%B1%E5%9B%BD%E8%80%85%E7%9A%84%E4%B8%89%E6%9D%BF%E6%96%A7/" target="cdt-mirror">平说｜刘云枫：如何应对“爱国者”的三板斧</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%88%B1%E5%9B%BD%E8%80%85.jpg" rel="attachment wp-att-513272"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%88%B1%E5%9B%BD%E8%80%85.jpg?resize=500%2C375" alt="爱国者" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/爱国者.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/爱国者.jpg?w=640 640w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>微信公号：平说（ID: iNews-）<br></strong><br>
-在中国，“爱国者”数不胜数，如和尚、鱼侯……看起来似乎都特爱国。遇到和他们意见不一致的人，“爱国者”就会蜂拥而上，展现他们的爱国热情和辩才。</p>
-<p>但有些“爱国者”，不过，一不小时翻船，沦为“爱国贼”，比如卷入官斗颇深的芮代表。</p>
-<p>本人不才，经过分析，发现：“爱国者”的策略，不过“三板斧”。</p>
-<p><strong>第一种，称之为“五十步等同于一百步”策略。</strong></p>
-<p>就是说，既然A不圆满，B也不圆满，这两种不圆满就是等同的，没有优劣之分。“五十步笑百步”，是孟老夫子的经典。有了这个经典，那些逃跑了100步的人，也自信满满，有恃无恐了。心下在想：你也是逃兵，我也是逃兵，谁也别说谁。</p>
-<p>对此，我持反对态度。试想，当100步的逃兵，跑出去不到50步的时候，50步的逃兵，是不是还在坚持战斗呢。此时，50和100，就不再是量的差别，而是本质的不同。再者，如果，100步的人不逃的话，就不会引起恐慌和混乱，大家都顽强抵抗的话，结果可能会完全相反。此其二。</p>
-<p>因此，“五十步笑百步”的逻辑，是不成立的，但因为亚圣的名号，使得中国人以此为凭，而拒绝一小步一小步的改良。——须知，社会的进步，都是小步挪移，而不是大跨度飞跃。看不到、不反省自己即便是最微小的差距，却沉浸在“50步100步”彼此彼此的自我陶醉中，应该是中国社会停止不前的原因之一。</p>
-<p>以下，是实例。不是我编的，而是转载的——</p>
-<p><span>“专制社会固然是不好的，但是，民主也不见得都好。既然都有优点和缺点，那么，就没有好坏之分了。……世界上没有绝对的事情，因而，也就什么都无所谓了。”</span>这段来自微信。</p>
-<p><span>“对什么事都不能太绝对地看，要么好，要么坏，可世界其实不是这样划分的，绝大多数是灰色的。”</span>这是绎明宇的一段话。他将之称为辩证法。单独看，也没毛病；不只是没毛病，简直是天衣无缝地正确。但是，他用这段话来说明，美国也不怎么样。</p>
-<p><span>“美国人成天喊人权，这段时间不断报道出侵犯人权的事，美国人的话你敢信吗？”</span>这也是绎明宇的原话，联系起来，你就知道他是什么意思了，是不是属于“五十步一百步”策略呢？读者自判自明。</p>
-<p><span>“任何事情都有利有弊，民主有利也有弊，法治有利也有弊，自由有利也有弊。反对民主的人，用民主也有弊端去否定民主的必要性，热衷人治的人用人治也有好处去为人治招魂！”</span>如绎明宇所言，这就是中式一贯的辩证法。倘如此，何谈优劣，何谈改良呢？</p>
-<p>民主有弊端，但是，其弊端要少于专制。正因此，才使得世界各国打倒专制而走向民主，如果，半斤八两彼此彼此，那世界人民岂不是都傻了，只剩下聪明的中国人，醉心于“专制”的日子也不错了吗？！49年之前，那个口口声声反对蒋介石和国民党专制、争取民主的组织，岂不是彻头彻尾的欺骗？</p>
-<p>如果，不区分小恶和大恶、小善与大善，那一个贪污数亿的巨贪，和一个只拿了群众“一针一线”的小偷，岂不该同罪了吗？法院的区别对待，岂不是多此一举了呢？是法院的法官们白痴？还是不区分“哪一种制度更优”的思路更愚蠢呢？</p>
-<p>一波未去，一波又来。这个周日，我在某微信群，发了一句牢骚，说：这个体制，需要另起炉灶了。</p>
-<p>马上来了一个“爱国者”，说：是改成美国、欧洲还是日本呢？</p>
-<p>我知道，只要我一说欧美日，我就是汉奸了；再者，这是朋友的微信群，为了避免大争执，我就给了一个中国样板，说：改成台湾吧。</p>
-<p>“爱国者”说：台湾就好吗？</p>
-<p>我说：台湾没有大面积腐败。</p>
-<p>“爱国者”说：台湾没有腐败？</p>
-<p>注意，“爱国者”极为无耻地把我说的“大面积腐败”，换成了“腐败”。</p>
-<p>他接着问：你知道陈水扁吗？</p>
-<p>我说：你这种屁话，我听多了。闭嘴。</p>
-<p>实在是，这种人遇见的太多了，我不想和他废话，也不想在他们面前展现什么风度。他们结论依然是：台湾也有腐败，大陆也有腐败。凭什么说台湾就比大陆好呢。</p>
-<p>我对此的回击是：这种逻辑等于——良家妇女也睡男人，妓女也睡，妓女只是多睡了几个，而已。这不是“五十步和一百步”吗？所以，妓女等于良家妇女。</p>
-<p>爱国者的逻辑，不过如此。进一步推理：“爱国者”的妻子母亲，都是妓女。推理过程，略！</p>
-<p><strong>第二种，称之为“田忌赛马”策略。</strong></p>
-<p>就是，用自己的长处去和对方的短处比。反过来，却对对方的长处视而不见。</p>
-<p>以专制和民主为例——</p>
-<p>“爱国者”说，印度也是民主国家，你看他们，就发展得不怎么样吧。比中国差远了吧。</p>
-<p>先说，印度只是民主国家中的一个。迄今，世界上所有发达国家，都是民主国家，没有一个是专制的。反倒是，所有专制国家，无一例外是不发达和落后国家，甚至是愚昧国家，远远落在人类文明的地平线之下，如朝鲜。以一个印度之失，并不能说明民主不好；恰恰相反，如果没有民主，印度只能是更差，这是印度的有识之士的共识。</p>
-<p>再者，关于印度的状况，国内的报道都是选择性的。如何选择，不用多言。所以，印度的真实情况，中国人并不了解；我也不是很了解印度的情况。但是，我坚信常识，常识就是民主胜过专制。</p>
-<p>还有，民主的步子，或许是缓慢的，但是，它是扎实的。因为，在民主国家，每走一步，都需要获得全社会、最大多数人的认可。否则，就无法推动。专制制度，有时是飞快的。可是，那是不扎实的。因为其决策并没有获得多数人的认同。因此，今天中国之成就，根基并不牢靠。一旦社会矛盾激化，大幅度地回调、停滞和退步，是难以避免的。这样的循环，中国人是有经验的。</p>
-<p>另一种攻击民主的说辞是：台湾议员在议会里打架，成何体统！看看中国的议会，众口一词，多么欢乐和谐。可问题是，议会议会，就是辩论的；人和人意见不一致，争吵的急了，拳脚相向，的确不绅士，但是，这是人的常态，也是民主的早期形态。你看现在，台湾议会的打架频率，就越来越少了。</p>
-<p>变态的、不正常的，是众口一词，是全体一致通过。如果，所有人的意见都一样，要那么多人干什么？不是浪费吗？如果，你和领导的意见是一致的，要你干什么？如果，你不代表一部分人的不同利益，你这个代表不是多余的吗？在我们忘记了议会的基本性质之后，在我们伪造了一个“团结祥和”的气氛之后，却指责真实的民主早期弊端，岂不是愚蠢的可怜！还别说，表面之后的重重黑幕、勾心斗角、肆意妄为和肮脏不堪。</p>
-<p>如果，在议会里打架，解决了社会的大部分矛盾，这不是一种较好、较少的恶吗？既然，我们不能杜绝恶，就要选择一种较少的恶。</p>
-<p>大陆人不在议会里打，但，绝不说明我们打的能力差频率低。在泰国飞往南京的飞机上，中国同胞打出了“最高水平”——美日欧有吗？没有；连印度、菲律宾、越南和非洲人，也没有。中国男篮和黎巴嫩比赛，朱芳雨等国手，上演了中国武术的“连环脚”和组合拳，让世界体育人士大开眼界。</p>
-<p>论篮球水平，美国最牛；论拳脚功夫，中国男篮天下无敌——直把黎巴嫩打得再也不敢来比赛了。不止这一例，中国男篮和波多黎各、澳大利亚、巴西、美国队等等，都曾有过不俗的“战绩”。论国际比赛次数，中国男篮数不上，可要论“战绩”，中国男篮肯定是No 1。</p>
-<p>不仅外战频频，内战也是很火爆的。最让人开眼的是，12月14日，国内WCBA浙江女篮和四川女篮爆发了大面积群殴。</p>
-<p>来点儿实况——</p>
-<p>担任四川女篮领队的阴钰辰则指出，浙江队助理教练吴乃群竟然公然骂裁判，还冲过来指着自己的鼻子辱骂。“冲突中我方队员陈晓萌被打成脑震荡，浙江队的国手高颂将龚芳竹摁倒，用脚踢她的脸直至需要缝针！目前受伤的4名队员都是主力，接下来还要接受进一步检查，下一场比赛基本不可能上场了。”</p>
-<p>在世界任何一个国家的赛场，见过这样火爆的场面吗？没有。特别是女性。</p>
-<p>民主国家及其国民，所信奉的是规则；专制国家及其国民所信奉的，是强权和暴力。国家如此，国民也如此。有什么样的国家，就有什么样的国民；反之，亦然。</p>
-<p><strong>第三种，称之为“翻历史旧账”策略。</strong></p>
-<p>你说，美国的民主制度好。反对者说，好什么好，美国妇女一直没有选举权；你说，美国是个平等的国家。反对者说，哪儿有什么平等，黑人在美国就一直受歧视。不是马丁路德金领导黑人民权运动的话，黑人到今天还处于被歧视的境地呢。</p>
-<p>反对者说得，好像颇有道理。但，其实是胡搅蛮缠。</p>
-<p>佛家说，放下屠刀立地成佛。这是什么意思？一个人、一个社会只要认识到过去的错误，并彻底改正，就不应该被反复算旧账。一个非常好的例子是上海滩的青帮头领杜月笙。没人否认杜月笙起家，靠的是打打杀杀，开妓院、占码头、贩卖毒品、走私军火，但是，得势之后的杜月笙，反思自己的过去，痛改前非，从善如流，黑道生意不做了，做的都是合法买卖，并大力资助文化事业，广做慈善，并在抗击日本侵略中做出了卓越贡献。</p>
-<p>试问，该如何评价杜月笙呢？是揪住他早期的黑道生涯，一直不放；还是既往不咎，向前看，以今日的时间坐标，来看一个改过自新的杜老板呢？</p>
-<p>历史是一个不断演化和进步的过程。个人如此，社会亦然。“好汉不提当年勇，别说祖上有多阔”，过去的辉煌，只能证明今天的不堪；今天像过去一样，只能说明子孙不屑，不上进。诉说过去多张狂，恰似“我爸是李刚”！揪住他人、他国的历史问题不放，除了说明自我的停滞和对方的进步之外，还有何意义？</p>
-<p>换言之，比较应该基于相同的时点，如果说公元前，就说公元前；说19世纪，就说19世纪；说今天，就都说21世纪的此时此刻。而不是当别人指责你今日之弊时，你却去翻别人的旧账。过去是处女，不代表今日依旧清纯；往日的妓女，也会洗去泥污，改恶从良。莫非强盗的儿子，永远是强盗？英雄的后代，就永远是英雄？一代红，就代代红？</p>
-<p>福泽谕吉第一次去美国，上了岸，就问美国人：华盛顿的后代在干什么？美国人哈哈大笑，说：我们不知道。美国人只问现在，可不管你的祖上是谁？澳大利亚是由英伦三岛流放的囚犯建立的，但是，现在的澳大利亚是文明国家的典范之一。如此，说澳大利亚历史的不堪，意义何在？说我们祖上多光荣，意义又何在？</p>
-<p>评价一个社会，重要的不是它是好还是坏，而是它的变化趋势：如果，它在变好，那就是一个好社会；如果，在变坏，或者停滞不前，那就是一个坏社会。在这个意义上，我们说西方好，不是因为它一直好，不是说它早期没有坏过，而是它一天天变好，且，已经变好了。我们说中国不好，是因为它停滞不前。至少，在政治上，大大落后于世界文明的普遍水准。</p>
-<p>对“爱国者”，我是看不上的。可是，这些人层出不穷，实在是烦，为了以一挡百，我就写这个长文，把他们全打发了。</p>
-<p>当然，效果也许相反。不过，我也不惧。再多的苍蝇，也是苍蝇。这个世界，要是没有苍蝇嗡嗡乱叫，或许也是很单调的。天下太平了的话，我的文章还有啥用呢？呵呵。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%88%B1%E5%9B%BD%E8%80%85%E7%9A%84%E4%B8%89%E6%9D%BF%E6%96%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%AE%E6%88%90%E9%92%A2/?category=18271" rel="tag">芮成钢</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%B0%B1%E8%BF%9E%E5%91%A8%E5%B0%8F%E5%B9%B3%E4%B9%9F%E5%BE%97%E4%B8%8Ayoutube%E4%BA%AB%E5%8F%97%E8%A8%80%E8%AE%BA%E8%87%AA/" target="cdt-mirror">【立此存照】“就连”周小平也得上YouTube享受言论自由</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%91%A8%E5%B0%8F%E5%B9%B3.jpg" rel="attachment wp-att-502460"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%91%A8%E5%B0%8F%E5%B9%B3.jpg?resize=500%2C174" alt="周小平" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?resize=300%2C104 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?resize=768%2C267 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?resize=1024%2C356 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/周小平.jpg?w=2018 2018w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>周小平新浪微博截图</span></p></div>
-<p>近日，周小平写网文公开<a href="http://blog.sina.com.cn/s/blog_4ee8cf410102x1li.html" target="_blank">抱怨</a>，称自己制作的“正能量”网络视频节目《平芳公理》遭到包括腾讯视频在内的各大视频平台封杀。周声称自己制作的节目不仅在腾讯视频无法通过审核，对方还删除了部分往期节目，并拒绝给出理由。而优酷、土豆、爱奇艺更是将周的视频“全盘删光”。周对此感叹，“<strong>就连我也无法在这个平台上得到应有的言论自由</strong>”。</p>
-<p>然而，周小平所抱怨的在大陆被删的三集《平芳公理》视频，在<strong> YouTube</strong> 上虽然点击量极低，但却可以正常观看。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%86.jpg" rel="attachment wp-att-501843"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%86.jpg?resize=550%2C109" alt="平芳公理" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理.jpg?resize=300%2C60 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理.jpg?resize=768%2C152 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理.jpg?resize=1024%2C203 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理.jpg?w=2862 2862w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>被删往期节目《平芳公理》第8集 YouTube 观看页面截图</span></p></div>
-<p>在被删视频之一的《平芳公理》第8集里，<strong>下图这名主持人一脸满足地说</strong>：</p>
-<blockquote><p>美国有600万人的自来水受到重金属铅污染。[…]网友纷纷评论说，不喝热水，所以他们就霍乱加黑死病了，之后他们就发明了净水器。</p>
-<p>记得前几日还有美国媒体自豪地报道说，热水是中国人“最好的饮料”，而美国人都是喝冷水的。然而我们喝了好几千年的热水，把水烧开是最安全的水处理方式。美国人这是准备用重金属消毒的节奏吗？</p></blockquote>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%868-1.jpg" rel="attachment wp-att-501827"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%868-1.jpg?resize=500%2C266" alt="平芳公理8-1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-1.jpg?resize=300%2C160 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-1.jpg?resize=768%2C409 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-1.jpg?resize=1024%2C545 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-1.jpg?w=2798 2798w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>《平芳公理》第8集视频截图一</span></p></div>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%868-2.jpg" rel="attachment wp-att-501825"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B9%B3%E8%8A%B3%E5%85%AC%E7%90%868-2.jpg?resize=500%2C268" alt="平芳公理8-2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-2.jpg?resize=300%2C161 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-2.jpg?resize=768%2C411 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-2.jpg?resize=1024%2C548 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/平芳公理8-2.jpg?w=2778 2778w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>《平芳公理》第8集视频截图二</span></p></div>
-<p><em>【编者注】：将水煮沸是无法去除重金属的，所以才有 Flint 政府给居民分发瓶装饮用水的措施。非营利性机构美国国家卫生基金会（NSF）有对净水器铅过滤功能的认证项目。</em></p>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E9%AC%BC%E7%95%9C%E6%96%B0%E7%B4%A0%E6%9D%90%E4%B9%9F%E8%BF%87%E4%B8%8D%E4%BA%86%E5%AE%A1%E6%A0%B8/" target="_blank">相关阅读：【立此存照】爱国鬼畜新素材也过不了审核</a></p></blockquote>
-<p><strong><a href="http://blog.sina.com.cn/s/blog_4ee8cf410102x1li.html" target="_blank">附：周小平｜祖国啊，腾讯视频正疯狂封杀爱国者，您知道吗！</a></strong>（部分）</p>
-<blockquote><p>从上周开始，腾讯视频的编辑已经不满足于在审核这道环节上卡住我们的新视频作品了，他们甚至已经开始悄然下手删除我们过去的视频作品。连续好几天，我们都有往期甚至是刚刚发布的视频被编辑删除。[…]</p>
-<p>周小平不能理解的是，无论我们怎么打电话去投诉和反应，腾讯视频的客服和管理人员至今都没有给出任何一个明确的答复，<strong>我们到底违反了哪条规定，我们到底触碰了哪条法律？</strong></p>
-<p>令我更感到奇怪的是，网络上这些视频平台一方面死活都不让我们传播这些视频，（<strong>不仅是腾讯，其他如优酷、土豆、爱奇艺等更是几乎把我们的视频<span>全盘删光</span></strong>）。然而一方面这些视频网站疯狂删除辟谣和反对历史虚无主义的视频，而另一方面某些视频网站又极力推出一些网络大V的历史虚无主义视频。[…]</p>
-<p>腾讯视频号称自己公平公正自由公开，<strong>腾讯创始人马化腾也是我们全国青联副主席，而我是全国青联文艺界副秘书长</strong>。<strong>然而即便如此，<span>就连我也无法在这个平台上得到应有的言论自由</span>，无法得到应有的基本权力</strong>，反而屡遭封杀和围堵。[…]</p>
-<p>只是周小平不明白，我应该向谁去伸冤，我应该向谁去投诉，我又应该如何再坚持下去？传播正能量本来就不是一件容易的事，如果再加上我们<strong>被堵住了嘴巴，绑住了双手</strong>，那么我们将彻底死去。</p>
-<p>[…]而我和我的团队这两年做出了点击过亿的视频，而点击过千万的视频更是做出了好几个，但结果是媒体全部保持沉默，<strong>而且也<span>没有任何机构给我们投资一分钱</span>。</strong></p>
-<p>[…]毕竟，我们是在捍卫中国人的名誉，我们是在打击谣言，我们是在维护我们这个民族的形象，我们是在为所有青年人增加对祖国对未来的信心，所以我们一定会坚持走下去的。</p>
-<p>[…]这一切的一切都需要有一个基本的起点，那就是我们<strong>至少得有一个说话的平台</strong>，我们<strong>至少得享有一个中国人基本的言论自由权力</strong>。</p>
-<p>可是当优酷土豆封杀我们时，我们放弃了。当爱奇艺封杀我们，我们也放弃了。直到最后的阵地腾讯视频也开始围堵和封杀我们时，我们已经走投无路了。</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%B0%B1%E8%BF%9E%E5%91%A8%E5%B0%8F%E5%B9%B3%E4%B9%9F%E5%BE%97%E4%B8%8Ayoutube%E4%BA%AB%E5%8F%97%E8%A8%80%E8%AE%BA%E8%87%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E9%B1%BC%E4%BE%AF/?category=18271" rel="tag">长鱼侯</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -776,7 +772,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -786,5 +782,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,80 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%89%91%E5%AE%A2%E4%BC%9A%EF%BD%9C%E6%9D%8E%E6%B4%AA%E6%9E%97%EF%BC%9A%E4%BA%BA%E6%B0%91%E6%9C%89%E6%B2%A1%E6%9C%89%E8%AF%BB%E4%B9%A6%E7%9A%84%E8%87%AA%E7%94%B1%EF%BC%9F/" target="cdt-mirror">剑客会｜李洪林：人民有没有读书的自由？</a>
+</h2>
+<p><p><strong>来自微信公号：剑客会（ID: ijiankehui）</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640.jpg" rel="attachment wp-att-531371"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640.jpg?resize=575%2C333" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640.jpg?resize=300%2C174 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640.jpg?w=600 600w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p><strong>剑客会编者按：</strong></p>
+<blockquote><p>本文作者、著名理论家李洪林先生6月1日晚在北京病逝，享年91岁。他为中国改革开放和思想解放作出了不可磨灭的理论贡献。本文原载于1979年《读书》杂志创刊号，当时在知识界引起巨大反响，被称为“影响一代人”的作品。</p></blockquote>
+<p><strong>文｜李洪林</strong></p>
+<p>在林彪和“四人帮”横行的十年间，书的命运和一些人的命运一样，都经历了一场浩劫。</p>
+<p>这个期间，几乎所有的书籍，一下子都成为非法的东西，从书店里失踪了。很多藏书的人家，象窝藏土匪的人家一样，被人破门而入，进行搜查。主人历年辛辛苦苦收藏的图书，就象逃犯一样，被搜出来，拉走了。</p>
+<p>这个期间，几乎所有的图书馆，都成了书的监狱。能够“开放”的，是有数的几本。其余，从孔夫子到孙中山，从莎士比亚到托尔斯泰，通通成了囚犯。谁要看一本被封存的书，真比探监还难。</p>
+<p>书籍被封存起来，命运确实是好的，因为它被保存下来了。最糟糕的是在一片火海当中被烧个精光。</p>
+<p>后来发现，烧书毕竟比较落后，烧完了灰飞烟灭。不如送去造纸，造出纸来又可以印书。这就象把铁锅砸碎了去炼铁一样，既增加了铁的产量，又可以铸出许多同样的铁锅。</p>
+<p>而且“煮书造纸”比“砸锅炼铁”还要高明。“砸锅炼铁”所铸的锅，仍然是被砸之前的锅，是简单的循环；而“煮书造纸”所印的好多书，则是林彪、陈伯达、“四人帮”还有王力、关锋、戚本禹以及他们的顾问等等大“左派”的“最最革命”的新书。这是一些足以使人们在“灵魂深处爆发革命”的新书，其“伟大”意义远远超出铁锅之上。于是落后的“焚书”就被先进的“煮书”所代替了。</p>
+<p>如果此时有人来到我们的国度，对这些现象感到惊奇，“四人帮”就会告诉他说：这是对文化实行“全面专政”。你感到惊讶吗？那也难怪。这些事情都是史无前例的。</p>
+<p>是的，对文化如此摧残，确实是史无前例的。</p>
+<p><span>◆ ◆ ◆ ◆ ◆</span></p>
+<p>两千多年前，秦始皇烧过书。他烧了多少？没有统计。不过那时的书是竹简，写在竹片上的，按重量说大概很不少，但是从种类和篇幅说，肯定比不上林彪和“四人帮”对书籍这一次“革命”的战果如此辉煌。</p>
+<p>烧的烧了，煮的煮了。剩下一些劫后余生的书籍怎么办呢？大部分禁锢，小部分开放。</p>
+<p>在“四人帮”对文化实行“全面专政”的时候，到底禁锢了多少图书，已经无法计算。但是可以从反面看出一个大概。当时有一个《开放图书目录》，出了两期，一共刊载文科书目一千多种。这就是说，除了自然科学和工程技术书籍之外，我国几千年来所积累的至少数十万种图书，能够蒙受“开放”之恩的，只有一千多种！</p>
+<p>除了秦始皇烧书之外，我国历史上清朝是实行禁书政策最厉害的朝代。有一个统计说清代禁书至少有二千四百余种。蒋介石也实行禁书政策，他查禁的书不会少于清朝。但是，和林彪、“四人帮”的禁书政策相比，从秦始皇到蒋介石，全都黯然失色。理工农医书籍除外（这类书，秦始皇也不烧的），清朝和国民党政府查禁的书，充其量不过几千种，而“四人帮”开放的书，最多也不过几千种，这差别是多么巨大！</p>
+<p>在“四人帮”横行的时期，凝集着人类文化的各种各样的图书，绝大部分终年禁锢在寒冷的库房里，只能和樟脑作伴。如果图书都会呼喊的话，当人们打开书库大门的时候，将要听到多么可怕的怒吼啊！</p>
+<p><span>◆ ◆ ◆ ◆ ◆</span></p>
+<p>历史是公正的。对人和书实行“全面专政”的“四人帮”，被愤怒的中国人民埋葬了。在中国的土地上，春天又来临了。被禁锢的图书，开始见到阳光。到了一九七八年春夏之交，一个不寻常的现象发生了。门庭冷落的书店，一下子压倒美味食品和时式服装的店铺，成了最繁荣的市场。顾客的队伍从店内排到店外，排到交叉路口，又折入另一条街道。从《东周列国志》到《青春之歌》，从《悲惨世界》到《安娜·卡列尼娜》，几十种古今中外文学名著被解放，重新和读者见面了。那长长的队伍，就是欢迎这些精神食粮的行列。</p>
+<p>这件事也引起外国客人的注意。通过重印世界文学名著和学术名著，更重要的是通过我们在文化、教育、科学、艺术各个方面拨乱反正的实践，外国朋友们看出来了：粉碎“四人帮”之后，中国共产党已经决心领导中国人民回到世界文明的大道，要把人类已经获得的全部文化成就，作为自己的起点，用空前的同时也是现实的高速度，实现四个现代化。</p>
+<p>象极度干渴的人需要泉水那样，一九七八年重印的一批名著，瞬息间就被读者抢光了。经过十年的禁锢，中国人民多么渴望看到各种各样的好书呀！</p>
+<p>但是，书的禁区还没有完全打开。因为有一个原则性的是非还没有弄清楚，“四人帮”的文化专制主义的流毒还在作怪，我们一些同志也还心有余悸。</p>
+<p>这个原则问题就是：人民有没有读书的自由？</p>
+<p>把书店和图书馆的书封存起来，到别人家里去查抄图书，在海关和邮局检扣图书，以及随便把书放到火里去烧，放到水里去煮，所有这些行动，显然有一个法律上的前提：人民没有看书的自由。什么书是可看的，什么书是不可看的，以及推而广之，什么戏是可看的，什么电影是可看的，什么音乐是可听的，诸如此类等等，人民自己是无权选择的。</p>
+<p>我们并没有制定过限制人民读书自由的法律。相反，我们的宪法规定人民有言论出版自由，有从事文化活动的自由。读书总算是文化活动吧。当然，林彪和“四人帮”是不管这些的。什么民主！什么法制！通通“打翻在地，再踏上一只脚”！这些封建法西斯匪徒的原则很明确，他们要在各个文化领域实行“全面专政”，人民当然没有一点自由。</p>
+<p>问题是，我们有些同志对这个问题也不是很清楚。他们主观上不一定要对谁实行“全面专政”，而是认为群众都是“阿斗”，应当由自己这个“诸葛亮”来替人民做出决定：什么书应该看，什么书不应该看。因为书籍里面，有香花也有毒草，有精华也有糟粕。人民自己随便去看，中了毒怎么办？</p>
+<p>其实，有些“诸葛亮”的判别能力，真是天晓得！比如，《莎士比亚全集》就被没收过，小仲马的名著《茶花女》还被送到公安局，你相信吗？如果让这种“诸葛亮”来当人民的“文化保姆”，大家还能有多少书看？</p>
+<p>究竟什么是香花，什么是毒草？应当怎样对待毒草？这些年让“四人帮”搅得也是相当乱。例如，《瞿秋白文集》本来是香花，收集的都是作者过去已经发表过的作品，在社会上起革命的作用，是中国人民宝贵的文化遗产，这已成为历史，是客观存在的事实。但是，后来据说作者有些什么问题，于是，这部文集就成了毒草。谁规定的呢？没有谁规定《翟秋白文集》应当变成毒草，而是“四人帮”的流毒，使人把它当作禁书。</p>
+<p>文学书籍，被弄得更乱。很多优秀作品，多少涉及一些爱情之类的描写，便是“毒草”，便是“封、资、修”。便是“资产阶级生活方式”。“四人帮”这一套假道学，到现在也还在束缚着一些人的头脑，因为它道貌岸然，“左”得可怕。以致有人象害怕魔鬼那样害怕古今中外著名的文学著作。本来在社会生活中，“饮食男女”是回避不开的客观现实。在书籍里面，涉及社会生活的这个方面，也是完全正常的现象，许多不朽的名著都在所难免。这并不值得大惊小怪。即使其中有不健康的因素，也要看这本书的主要内容是什么。不要因噎废食，不要“八公山上，草木皆兵”，把很多香花都看作毒草。</p>
+<p>对于包含香花和毒草在内的各种图书，应当采取什么政策？</p>
+<p><span>◆ ◆ ◆ ◆ ◆</span></p>
+<p>任何社会，都没有绝对的读书自由。自由总以一定的限制为前提，正如在马路上驾驶车辆的自由是以遵守交通规则为前提一样。就是在所谓西方自由世界，也不能容许败坏起码公共道德的黄色书籍自由传播，正如它不能容许自由抢劫、自由凶杀或自由强奸一样。因为这种“自由”，势必威胁到资本主义社会本身。任何社会，对于危及本身生存的因素，都不能熟视无睹。无产阶级的文化政策，当然更不会放任自流。</p>
+<p>不过一般地讲，把“禁书”作为一项政策，是封建专制主义的产物。封建主义利于人民愚昧。群众愈没有文化，就愈容易被人愚弄，愈容易服从长官意志。所以封建统治者都要实行文化专制主义，要开列一大堆“禁书”书目。其实，“禁止”常常是促进书籍流传的强大动力。因为这种所谓“禁书”，大半都是很好的书，群众喜爱它，你越禁止，它越流传。所以“雪夜闭门读禁书”成为封建时代一大乐事。如果没有“禁书政策”，是不会产生这种“乐事”的。</p>
+<p>我们是马克思主义者，对全部人类文化，不是采取仇视、害怕和禁止的态度，而是采取分析的态度，批判地继承的态度。同时我们也有信心，代表人类最高水平的无产阶级文化，能够战胜一切敌对思想，能够克服过去文化的缺陷，能够在现有基础上创造出更高的文化。因此，我们不采取“禁书政策”，不禁止人民群众接触反面东西。</p>
+<p>毛泽东同志在二十二年前批评过一些共产党员，说他们对于反面东西知道得太少。他说：“康德和黑格尔的书，孔子和蒋介石的书，这些反面的东西，需要读一读。”（《毛泽东选集》第五卷，第346页）毛泽东同志特别警告说，对于反面的东西，“不要封锁起来，封锁起来反而危险。”（同上，第349页）</p>
+<p>连反面的东西都不要封锁，对于好书，那就更不应当去封锁了。</p>
+<p>当然，不封锁也不等于放任自流。对于书籍的编辑、翻译、出版、发行和阅读，一定要加强党的领导，加强马克思主义的阵地。对于那种玷污人类尊严、败坏社会风气，毒害青少年身心的书籍，必须严加取缔。因为这类图书，根本不是文化。它极其肮脏，正如鲁迅所说，好象粪便或鼻涕。只有甘心毁灭的民族和完全腐朽的阶级，才能容许这种毒菌自由泛滥。当然这种毒品是极少的。</p>
+<p>对于研究工作所需而没有必要推广的书籍，可以少印一点。但是不要搞神秘化，专业以外的人看看也是完全可以的。世界各地的各种出版物，都要进口一点，以便了解情况。有的要加以批判，有的要取其有用者为我所用。不要搞锁国主义，不要对本国保密，当然也不是去宣传。</p>
+<p>至于古今中外的文学名著，则应当充分满足人民的需要，这是提高我们民族文化水平和思想境界不可缺少的养料。不要前怕虎，后怕狼。要相信群众，要尊重历史，要让实践来检验书的质量。历史上流传下来的，人民群众喜爱的书籍，必有它存在的价值。这是我们和书打交道时必须承认的一个客观现实。</p>
+<p>在书的领域，当前主要的问题是好书奇缺，是一些同志思想还不够解放，是群众还缺乏看书的民主权利，而不是放任自流。为了适应四个现代化的需要，我们迫切希望看到更多更好的书。应当打开禁区，只要有益于我们吸收文化营养，有助于实现四化的图书，不管是中国的，外国的，古代的，现代的，都应当解放出来，让它在实践中经受检验。</p>
+<p>世界上没有绝对的“纯”。空气里多少有点尘埃，水里多少有点微生物和杂质。要相信人的呼吸器官能清除尘埃，消化道也能制服微生物。否则，只好头戴防毒面具，光喝蒸馏水了。打开书的禁区之后，肯定（不是可能，而是肯定）会有真正的坏书（不是假道学所说的“坏书”）出现。这是我们完全可以预见也用不着害怕的。让人见识见识，也就知道应当怎样对待了。<br><em><br>
+来源：《读书》杂志1979年第1期<br>
+原文标题：读书无禁区</em></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%89%91%E5%AE%A2%E4%BC%9A%EF%BD%9C%E6%9D%8E%E6%B4%AA%E6%9E%97%EF%BC%9A%E4%BA%BA%E6%B0%91%E6%9C%89%E6%B2%A1%E6%9C%89%E8%AF%BB%E4%B9%A6%E7%9A%84%E8%87%AA%E7%94%B1%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9B%E4%BA%BA%E5%B8%AE/?category=18271" rel="tag">四人帮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9A%E6%B0%91%E6%94%BF%E7%AD%96/?category=18271" rel="tag">愚民政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">文化大革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B4%AA%E6%9E%97/?category=18271" rel="tag">李洪林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%8E%E4%B8%BA%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E8%A1%8C%E6%94%BF%E4%BC%A0%E5%94%A4%EF%BC%8C%E4%BA%8B%E5%85%B3%E4%B8%8E%E6%9C%9D%E9%B2%9C%E4%BC%8A%E6%9C%97%E8%B4%B8%E6%98%93/" target="cdt-mirror">纽约时报｜华为被美国商务部行政传唤，事关与朝鲜伊朗贸易</a>
+</h2>
+<p><p>据《纽约时报》独家报道，美国商务部已向中国通讯设备巨头华为公司发出行政传唤，要求华为提供过去五年向朝鲜、伊朗、叙利亚、古巴和苏丹出口的全部信息，配合有关美国对通讯技术出口限制的调查。美国对叙利亚和伊朗等国有技术禁运。商务部的调查旨在查明华为是否违反了美国的禁运，把美国技术转卖给了这些特定国家。</p>
+<p>这份传票已经送达华为在得克萨斯州达拉斯的美国总部。《纽约时报》看到了传票内容。传票要求华为高层提供证词，或者提交相关信息。目前不清楚华为是否已经与商务部调查人员会面。</p>
+<p>美方并未指控华为有任何错误行为，行政传唤也不意味着刑事调查，但如果调查发现华为对上述几国的出口违反了美国的政策，触及美国国家安全，美国有可能限制华为获得关键的美制零部件和其他技术产品的途径。华为的许多产品都在使用美国部件和技术。如果对华为采取限制措施，可能对全球无线通讯基础设施建设产生影响。</p>
+<p>美国对华为的疑心非止一日，对华为进入美国市场已经采取了有效限制措施。华为在伊朗的业务以前也曾招致美国的批评。2011年，华为发声明，说愿意主动限制在伊朗的业务增长。</p>
+<p>（明天将有本报独家报道的完整中文版发布，敬请关注。）</p>
+<p>根据《纽约时报》记者PAUL MOZUR<a title="Link: http://www.nytimes.com/2016/06/03/technology/huawei-technologies-subpoena-iran-north-korea.html?ref=technology&_r=0" href="http://www.nytimes.com/2016/06/03/technology/huawei-technologies-subpoena-iran-north-korea.html?ref=technology&_r=0" target="_blank">独家报道</a>编译。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%8E%E4%B8%BA%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E8%A1%8C%E6%94%BF%E4%BC%A0%E5%94%A4%EF%BC%8C%E4%BA%8B%E5%85%B3%E4%B8%8E%E6%9C%9D%E9%B2%9C%E4%BC%8A%E6%9C%97%E8%B4%B8%E6%98%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%B8%BA/?category=18271" rel="tag">华为</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%98%8E%E6%9C%9D%E7%81%AD%E4%BA%A1%E5%8E%9F%E5%9B%A0%E4%B9%8B%E4%B8%80%EF%BC%9A%E5%B4%87%E7%A5%AF%E5%B8%9D%E8%AF%95%E5%9B%BE%E6%81%A2%E5%A4%8D%E6%98%8E/" target="cdt-mirror">澎湃新闻 | 明朝灭亡原因之一：崇祯帝试图恢复明初的皇帝独裁</a>
 </h2>
 <p><p><strong>核心提示：</strong>崇祯破坏了晚明官僚体制的运行规则和集体决策的趋势，加剧了政治运作的不透明，压制了政治参与。所以，在魏阳看来，明亡当然不是由单一因素造成的，而崇祯对访单和公论的抵制不能不说也是明亡的一个重要原因。</p>
@@ -694,56 +765,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%B5%E5%A8%81%E7%8B%B1%E4%B8%AD%E5%8F%97%E8%BE%B1%E6%88%96%E9%81%AD%E6%80%A7%E4%BE%B5-%E5%AE%98%E6%B4%BE%E5%BE%8B%E5%B8%88%E6%B2%89%E9%BB%98-%E5%AE%B6%E5%B1%9E%E5%8F%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA/" target="cdt-mirror">自由亚洲｜赵威狱中受辱或遭性侵 官派律师沉默 家属及辩护人促当局调查</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg" rel="attachment wp-att-501522"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=450%2C450" alt="「709」中被关押的赵威（考拉）也被指「涉嫌煽动颠覆国家政权罪」正式被逮捕。（网络图片）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/image-28.jpg?w=622 622w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>「709」中被关押的赵威（考拉）也被指「涉嫌煽动颠覆国家政权罪」正式被逮捕。（网络图片）</span></p></div>
-<p>在中国当局去年的“709大抓捕”行动中遭羁押的北京维权律师李和平的女助理赵威日前传出在狱中遭受人身侮辱，不排除是性侵。赵威的家人称将立即赶赴天津看守所了解情况，抗议当局虐待赵威，并坚持更换官派的律师。家属委托的辩护人任全牛呼吁官派律师董亚南打破沉默，秉持律师职业操守和法律底线，公开就上述消息作出回应。</p>
-<p>北京维权律师李和平的助理赵威在去年“709大抓捕”中被带走，关押至今。日前，她的委托律师任全牛指赵威在看守所内遭到人身侮辱，不排除遭到性侵，目前正在核实有关消息。</p>
-<p>任全牛接受本台采访时称：“传出来的消息说，有朋友通过各种渠道听到的看守所里的狱警在外面炫耀，在看守所里面玩弄了多少女囚犯，他也说出了赵威的名字。现在我们正从各种渠道了解中，我们准备六月份以后选一个时间去天津看守所，要求会见，核实到底怎么回事，寻求真相。听说看守所里面的情况很乱，这种情况很多，我亲自听到过一个在看守所里干过武警的人跟里面那些女的都比较乱，包括语言上的、行为上也都很乱，带有一定的普遍性。</p>
-<p>记者：“意思就是说在看守所里面，女犯遭到性侵是很普遍的事情是吗？”</p>
-<p>任全牛：“严重的程度可能有所不同，但是这种情况的发生肯定是具有普遍性的，因为他的管理很差劲。前一段时间我听说过一些女的在押人员跟管教或里面的人发生过关系，有的甚至是死刑犯发生关系后……,因为法律有规定怀孕的妇女不适用死刑，有这样的事情就是经常会听到。”</p>
-<p>本台记者就此致电天津第一看守所，但电话无人接听。</p>
-<p>网名考拉的赵威毕业于江西师范大学新闻专业。2014年10月起，担任北京锋锐律师事务所律师李和平的助手。去年7月10日，赵威被警方从家中带走；今年1月，被当局以涉嫌“煽动颠覆国家政权罪”正式逮捕。</p>
-<p>赵威的丈夫游明磊告诉本台：“赵威被抓走快一年了，她受到人身侮辱是肯定有的，但是什么时间的问题，是被抓走的那个时候，还是之后的一段时间,还是最近,这个就很难讲。所谓遭到强暴这个事情我之前也在微信有看到有人在传，人身侮辱的范围很广，不能确定一定是被强暴了。我们目前没办法做什么事情，人在看守所是我们唯一知道的消息。这边我委托的律师和她母亲委托的律师都没办法见到赵威。”</p>
-<p>游明磊还表示，官方不容许家人聘请的律师处理赵威案件，而该案官派律师董亚南在接受其电话和发短讯质询时，没有任何回覆。</p>
-<p>任全牛律师也向本台表示，呼吁董亚南秉持律师职业操守和法律底线，公开就上述消息作出回应。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%B5%B5%E5%A8%81%E7%8B%B1%E4%B8%AD%E5%8F%97%E8%BE%B1%E6%88%96%E9%81%AD%E6%80%A7%E4%BE%B5-%E5%AE%98%E6%B4%BE%E5%BE%8B%E5%B8%88%E6%B2%89%E9%BB%98-%E5%AE%B6%E5%B1%9E%E5%8F%8A%E8%BE%A9%E6%8A%A4%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E7%AE%A1%E5%A4%A9%E7%AE%A1%E5%9C%B0%E7%AE%A1%E7%BA%BE%E5%8E%8B%E9%80%94%E5%BE%84/" target="cdt-mirror">奇闻录 | 管天管地管纾压途径</a>
-</h2>
-<p><p>据中青报报道，厦门市教育局发布通知，称高三考生藉由撕教科书、在教学楼吼叫等方式宣泄高考压力，“背离了学校育人的宗旨”，“应予以纠正”。</p>
-<blockquote><p>各普通高中要严格规范管理，坚持正面引导，坚持正确的方式方法，科学开展高三学生心理疏导工作，切实提高高考备考的心理疏导效果，杜绝简单地通过组织学生撕书、吼楼等形式宣泄压力。</p>
-<p>——厦门市教育下发的《关于做好高三年学生心理疏导工作的通知》</p></blockquote>
-<p>厦门市教育局下发的通知称，高考临近，近日个别高中校组织学生以撕书、吼楼等形式宣泄考前压力，并上传视频，在社会上造成了不良影响。</p>
-<p>通知指出，撕书、吼楼等形式背离了学校育人的宗旨，也不是排解高考心理压力的正确方法，应予以纠正。通知要求，各普通高中要坚持开展体育锻炼等日常教育教学活动，及时舒缓和疏导学生的心理压力，防止负面情绪的积累；要坚持正面引导，加强心理健康教育研究，并积极采取科学合理的减压方式。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/33.jpg?resize=600%2C450" alt="2015年6月5日，河南省夏邑县高级中学内掀起“撕书大战”。（微博网友图片）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/33.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/33.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/33.jpg?w=800 800w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2015年6月5日，河南省夏邑县高级中学内掀起“撕书大战”。（微博网友图片）</p></div>
-<p>在中国网站新浪上发起“厦门教育局禁止毕业生撕书吼楼发泄压力，你怎么看？”的调查，1967名，约占投票人数51.1%的使用者认为“不支持，不必如此上纲上线”。而有1727票，约44.9%的网民投票支持禁止撕书，认为“应正确疏导考生心理”。</p>
-<p>有些网民则指出，学生不太可能在考试前撕教科书，因此很多情况下被撕碎的是废纸。</p>
-<p>也有些新浪网民赞成教育局下达禁止撕书令，认为撕书是浪费资源的行为，并建议可以将这些书送给其他同学或卖掉，不需要撕毁。</p>
-<p>回应关于浪费资源、增加清洁人员负担的批评，网友“抽烟的猫88”说：“人生在世几十年，疯狂也就那么一两次，姑且就不要考虑文明不文明了吧，撕完书自己打扫干净就是咯。”</p>
-<p>“–顾昀顾昀–”说：“反正我是撕了不止一次两次了，宗旨是什么？我撕了自己资料也自己打扫了，没有妨碍任何人，说得好像你们把学生往死里逼就符合育人宗旨似的，看着不爽就撕怎么的？至少我们没有安排一系列的政策让别个一晚上都睡不了六个小时吧。”</p>
-<p>在中国社交媒体新浪微博上，#禁止学生撕书吼楼#的标签累计至今超过103万人阅读，一千多次讨论。</p>
-<p>网友“Jimmy_方元”说：“高考在即，即便有错，应该正面鼓励，而不是指责！”</p>
-<p>“Aulgo”表示：“试卷撕一撕无所谓，书还是可以留着用的。”</p>
-<p>在去年，七名在武汉的高中生因为撕书且将碎片抛出窗外，被学校勒令退学。</p>
-<p>校方稍后解释，学生只是被警告，并没有真的被开除，他们还是能继续参加考试。</p>
-<p>猜你喜欢 政委进驻视频网站 老大哥在偷窥你微信 应该要求观众看完写一篇思想汇报 看不顺眼哪哪都是错 八成捐款去向未明</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%A5%87%E9%97%BB%E5%BD%95-%E7%AE%A1%E5%A4%A9%E7%AE%A1%E5%9C%B0%E7%AE%A1%E7%BA%BE%E5%8E%8B%E9%80%94%E5%BE%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E7%BA%B2%E4%B8%8A%E7%BA%BF/?category=18271" rel="tag">上纲上线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA/?category=18271" rel="tag">情绪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E6%98%8E/?category=18271" rel="tag">文明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%95%E4%B8%9A%E7%94%9F/?category=18271" rel="tag">毕业生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E5%8D%97/?category=18271" rel="tag">河南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4/?category=18271" rel="tag">社交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/?category=18271" rel="tag">社交媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E7%94%9F/?category=18271" rel="tag">考生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -755,7 +776,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E7%BA%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -765,5 +786,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E7%BA%B2
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

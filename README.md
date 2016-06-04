@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,189 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AD%AA%E5%93%A5%E8%AF%84%E8%AE%BA-%E5%8D%8A%E6%8B%89%E5%AD%90%E8%A3%A4%E8%85%BF%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%B3%95%E6%B2%BB%E7%9A%84%E6%81%B0%E5%BD%93%E5%86%99%E7%85%A7/" target="cdt-mirror">歪哥评论 | 半拉子裤腿是中国法治的恰当写照</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-%E4%B8%8A%E5%8D%888.34.46.png?resize=421%2C589" alt="Screen Shot 2016-06-04 at 上午8.34.46" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.34.46.png?w=421 421w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.34.46.png?resize=214%2C300 214w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1"></p>
+<p>1、与犀利哥媲美的广西律师</p>
+<p>广西律师吴良述拖着半拉子裤腿走出法院大门的照片风靡了整个网络。我认为，这是自当年的“犀利哥”之后最具有冲击力、最有审美价值的照片，当然，还具有某种喜感。<br>
+但是从象征意义上讲，“犀利哥”与吴良述律师的半拉子裤腿不可同日而语。“犀利哥”反映的不过是普通百姓的一种生活状态——尽管生活得苦逼、挣扎，但这种木讷中的淡然未尝不是别人眼中的一种风景。而吴良述律师的身份、出现的场景，让这半拉子裤腿具备了格外的象征意义，为中国的法治建设进行了恰如其分的代言。</p>
+<p>2、一条裤子的不能承受之重</p>
+<p>关于吴良述律师与南宁市青秀区法院之间的谁是谁非，律师们和法官们在网上进行了激烈交锋：律师们坚持认为错在法院，法官们坚持认为法警是依法行权。<br>
+双方各执一词，各自拿对自己有利的方面说事，刻意淡化或忽略对自己不利的方面，谁是谁非没有定论。其实这种情况非常正常，不是什么事情都有是非对错，而且不是什么事件都会有真相。<br>
+在双方僵持不下之际，裤子隆重登场了。<br>
+据法院方面的陈述，法警和吴良述律师之间的冲突并不严重，法警也不是要脱吴律师的裤子，不过是要从吴律师裤袋里把手机抢出来。在三个法院领导面前，几个法警抢不到一部手机，你让法警以后如何立足、如何做人，律师们以后不会更嚣张？因此，法警必须斗志昂扬，律师必须被制服。<br>
+之所以出现吴良述律师差点裸奔的局面，原因在于裤子。<br>
+用我做法官同学的话来说：什么牌子的裤子呀，这么不经撕？<br>
+法官同学这话说到我心坎里去了：这条裤子太不给力，要批评，而且要被游街示众。<br>
+中国人常说“英雄所见略同”，这不，吴良述律师立马和公众想到了一起，用自己光滑白嫩的肌肤陪同这条不争气的裤子一起游街，让它婀娜的pose成为当下最美的风景。<br>
+一条裤子能够承受如此之重？有人不同意，大呼“本届律师裤子冤枉！”<br>
+我倒觉得这条裤子不冤枉。相反，我觉得它很荣幸：一条不知名的裤子在一夜之间成为“网红”，受到了千万人的关注和关爱，它还想咋的？</p>
+<p>3、重要的不是裤子的牌子</p>
+<p>在有身份的人看来，裤子的牌子最重要。但在我辈小民看来，裤子的材料、质地最重要。<br>
+名牌货穿着再有档次、再有逼格，也只适合风和日丽的时节以及富丽堂皇的场合；如果要顶风冒雨甚至要披荆斩棘，则还是粗陋、坚韧的棉麻裤子更好使——耐得磨、经得撕，我一条牛仔裤就穿了十几年。<br>
+中国的法治注定要经历风雨的洗礼，注定要面对荆棘的考验，因此，中国法治的裤子不能只讲究牌子，而要讲究材料和质地。如果只讲究牌子而不讲究材料和质地，稍经风雨或者荆棘，就难免裸奔的尴尬。<br>
+吴律师的裤子没有被全部扒掉和撕破，还能够勉强遮住屁股和私处，还能够气定神闲地走出法庭，说明这条裤子的材料和质地还不太差。如果裤子真的被全部撕破，我看律师和法官们如何收场！</p>
+<p>4、对中国法治的理性观察</p>
+<p>当然，我不是来搞笑的，即使搞笑也不至于拿一条裤子做道具。对中国的法治进行理性的思考，才是法律人的本分。<br>
+对于律师们的群情激奋，我不大以为然。至于说吴律师被打事件羞辱了谁谁谁，打了谁谁谁的脸，那纯属扯淡；对中国的法治建设失望甚至绝望，我更不赞同。<br>
+中国要进行法治建设，注定要比他人付出更大的努力和代价，那种指望一步到位达到理想法治状态的想法是不切实际的，而因前路艰难就主动放弃和坐以待毙的做法更不可取。<br>
+我们不能无视中国几千年的文化传统和人治思维的深刻影响；<br>
+我们不能无视行政权主导国家治理的根深蒂固；<br>
+我们不能无视中华法系生长的土壤和对域外法治文化的选择艰难；<br>
+我们不能无视政治体制、政治格局对西方法治文化的本能排异。<br>
+但是，<br>
+我们不能否认，依法治国已经写入堂皇的宪法；<br>
+我们不能否认，中国已基本建立国家法治体系，包括立法体系和司法体系，尽管它还存在某些缺陷；<br>
+我们不能否认，中国的司法机关已经比较正常的运转，尽管存在一些冤假错案，司法裁判已经成为定争止纷、解决矛盾不可或缺的手段；<br>
+我们不能否认，一部分冤假错案已经或正在被纠正；<br>
+我们不能否认，尽管失控的权力魔兽仍在一定程度地肆虐，但“把权力关在笼子里”已经成为从上到下的共识；<br>
+我们不能否认，去行政化仍是司法独立的难题，但司法改革的措施正在逐步研究和推进，<br>
+我们更加不能否认，无论是达官显贵还是升斗小民，都需要法治这把大伞来遮风挡雨。<br>
+因此，理性地看待中国法治的进步与不足，坚定地解决中国法治建设中存在的问题，才是法律人应有的态度和必须坚守的良知。</p>
+<p>5、结语</p>
+<p>吴良述律师的半拉子裤腿，是中国法治的恰当写照：<br>
+我们的法治建设成果还不够体面，我们的法治基础还不够牢固，在前行的过程中还不免有人指指点点，我们也有难言的尴尬。<br>
+对于苦难的中华民族而言，中国法治的这半拉子裤腿还是值得珍惜的，毕竟，它让我们免于裸奔。<br>
+但有些法律人不这么想，他们拼命想把这半拉子裤腿也撕掉。<br>
+如果法律人还进行非理性的群体撕逼，如果法律人还局限在“屁股决定脑袋”的思维怪圈，如果法律人还纠结于半拉子裤腿的难堪而不努力把裤子进行缝补，无论你我，都要在风雨中裸奔！</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AD%AA%E5%93%A5%E8%AF%84%E8%AE%BA-%E5%8D%8A%E6%8B%89%E5%AD%90%E8%A3%A4%E8%85%BF%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%B3%95%E6%B2%BB%E7%9A%84%E6%81%B0%E5%BD%93%E5%86%99%E7%85%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">吴良述</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF%E5%BE%8B%E5%B8%88%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">广西律师吴良述</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%85%AD%E5%9B%9B%E6%9E%AA%E5%A3%B0%E5%90%8E%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%96%B0%E4%B8%80%E4%BB%A3%E7%9A%84%E6%94%BF%E6%B2%BB%E4%BD%93%E9%AA%8C/" target="cdt-mirror">美国之音 | 六四枪声后，北京新一代的政治体验</a>
+</h2>
+<p><p>八九民运已经过去27年，枪声后出生的年轻人也在“奔三”的路上。将近30年间，他们有过什么样的政治体验？美国之音采访了两位1990年出生的青年，他们都生在北京，又都曾出国留学。在天安门的记忆被大陆消声的年代，六四与他们有什么关系？</p>
+<p>根据被采访者的要求，文中名字为化名。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-%E4%B8%8A%E5%8D%888.22.15.png?resize=550%2C309" alt="Screen Shot 2016-06-04 at 上午8.22.15" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.22.15.png?w=636 636w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.22.15.png?resize=300%2C168 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>与政治擦肩而过</strong></p>
+<p>1990年6月，杨一川在北京西城区出生。前一年的夏天，他的父亲正在参与天安门学运，但不是以示威者的身份。</p>
+<p>当时他的父亲从一所警察院校毕业不久，留校工作。89年初，学院领导下了死命令，要求加强保卫，不许警校学生参与游行。他父亲曾与一些教职员工手挽手挡在校门口，不让学生上街。他父亲的大学室友也在学校工作，但同情学生，想去广场，被他父亲拦腰抱住，甚至反锁了办公室的门。</p>
+<p>而父亲的这些经历，杨一川直到18岁才知道。</p>
+<p>与很多同龄人一样，杨一川从小没有感受过什么政治氛围，他喜欢看日本动漫，最喜欢灌篮高手和名侦探柯南。他童年时期为数不多的“国家”记忆就是香港回归和电视上偶尔播放的抗日剧。</p>
+<p>他就读的中学距离天安门广场只有两公里，但对于在他出生前一年那里发生了什么，他只是模模糊糊记得父母可能在饭桌上说起过，并没有太多印象。</p>
+<p>杨一川小学毕业的暑假曾经和母亲去美国旅游，他记得去纽约的唐人街前，导游专门嘱咐他们可能会遇到法轮功和民运“分子”，他记得有人向他们发宣传材料，被他母亲不耐烦地拒绝。</p>
+<p>2007年，杨一川上高二，爸妈决定让他以后去美国读大学。他的学校有“国际部”，每年8万余人民币学费是普通公立高中的100倍。</p>
+<p>不过他说，相比一些私立贵族学校动辄20多万的费用，他们学校的国际部还是“值很多”。</p>
+<p>2007年6月，17岁的杨一川飞去香港参加SAT考试——SAT是美国大学录取的参考指标，在大陆不设考场，近几年每年都有上万大陆考生赴香港、新加坡等地考试。</p>
+<p>当时刚好赶上香港民众在维多利亚公园集会纪念六四18周年，但是刚考完试的他和朋友在铜锣湾购物后，又直奔兰桂坊酒吧庆祝。这场纪念活动就被这群大陆少年“无视掉了”。</p>
+<p>香港街上那些“拉横幅、举牌子”的社会团体，让从小没有经历过游行示威的杨一川觉得陌生，进而抵触。他觉得，这样表达政治诉求是“混乱的”、“没有用的”。</p>
+<p>与他一起去考试的朋友刘博宇倒是去了维园。</p>
+<p>和杨一川一样，刘博宇也在北京人。他的姥爷是个老军人，副军级干部。他小时候的寒暑假都是在北京周边一个军队大院里度过的。</p>
+<p>与杨一川不一样，政治是刘博宇家的餐桌话题。他说，他小时候爱听大人聊“高层八卦”，偷看过姥爷的内参，也看过父亲从香港带回来的政治书籍。</p>
+<p>他与杨一川同校，不过他高一就决定出国留学。在香港考完试后，他和杨一川还有其他另外几个同学一起去了铜锣湾。杨一川陪女朋友去“莎莎”购物的时候，他一个人去了铜锣湾书店。</p>
+<p>“当时觉得挺有意思的，从小就偷看他们出的书，现在终于看到书店长什么样了。” 创办于1994年的香港铜锣湾书店，以“政治禁书”在大陆游客中闻名。</p>
+<p>从铜锣湾书店出来，刘博宇又去了维园。他说，那次“围观”纪念六四的集会后，他开始觉得示威不一定等同于“无序”。</p>
+<p>“当时人很多，但是非常有秩序。有家长带着小朋友一起唱歌、喊口号，是很和平的一种表达。”</p>
+<p>他印象最深的一点是，活动结束后人们自觉清理了现场的垃圾。</p>
+<p>此前，在北京长大的他对于“示威”的印象只有抵制日货时一些人打砸日本汽车和广告牌，而香港的六四集会让他第一次把示威和“文明”联系在一起。</p>
+<p>不过，那次去香港考试的一行六、七人中，刘博宇是唯一去了维园的。其他几个大陆少年都有意无意与政治擦肩而过。</p>
+<p><strong>因为奥运了解六四</strong></p>
+<p>2008年3月，当多数同龄人正被高考冲刺折磨时，杨一川被美国东部一所私立大学录取。</p>
+<p>他本来想去西藏旅游，但这个计划因为“314”藏人示威而泡汤。他说，“当时也不会细想他们为什么示威，就是觉得戒严了，没法去玩了，挺烦的。”</p>
+<p>去不了西藏，他报名当了北京奥运志愿者，结果这却给他模糊的“六四记忆”带来了意外收获。</p>
+<p>当时奥运圣火在海外传递过程中遭遇抗议，其中残疾人火炬手杨晶在巴黎保护圣火的画面被CCTV反复播放。杨一川记得自己“挺愤怒的”，觉得“西方针对我们”。</p>
+<p>后来，杨一川参加了北京奥组委组织的志愿者培训，培训会上专门讲到如何识别和防范各类“反华团体”，培训现场不让照相、不让录音，也没有下发任何材料。</p>
+<p>杨一川记得一个负责人专门做了PPT幻灯片，讲了藏独、疆独、法轮功、六四，还给他们看了流亡藏人的雪山狮子旗和代表穆斯林信仰的星月旗。</p>
+<p>他有点震惊，在北京生活了18年的他第一次意识到中国有这么多“敌人”和社会问题。他说，他和几个朋友都“有点懵了，我起了一身鸡皮疙瘩”。</p>
+<p>回家之后，他用谷歌挨个搜索了这些“敌人”。当时谷歌尚未离开中国，而且中国为了在奥运期间展示开放的形象，也在一定程度上开放了网禁。</p>
+<p>杨一川回忆，那几天他窝在家里上网，看了不少关于六四的视频。他记得那个广为流传的“坦克人”经典画面：一个单薄的年轻人，双臂张开，试图挡住前进的坦克；坦克几次转向，他又几次阻挡，最后坦克停了下来。</p>
+<p>YouTube上坦克人的视频有两个版本，画面一样，但解说词不一样。一个是外国电视台的报道，说英文的主持人赞扬这位年轻人勇敢阻挡强权政府的坦克，杨一川把这个概括为“非常西方的版本”。</p>
+<p>另一个版本来自CCTV，解说词称坦克人为“螳臂当车的歹徒”。视频中，男主播用高亢的声音说：“就在美国的宣传机器一面大肆污蔑中国的军队血洗了天安门广场的时候，一面又狂热地把这个阻拦坦克的匪徒吹捧为英勇无畏的英雄。稍有常识的人都会看出，如果我们的铁骑继续前进，这个螳臂当车的歹徒难道能够阻挡得了吗！”</p>
+<p>CCTV的报道说，这个画面说明中国军队保持了“最大限度的克制”。</p>
+<p>他觉得两个版本似乎都有道理。</p>
+<p>有一天他和父母说起志愿者培训，装作无意问及六四，父亲对他突如其来的问题有些迟疑。后来，父亲给他讲了当年在警校里阻拦学生和同事上街的经历。</p>
+<p>他说，对于六四，他父亲就是觉得学生单纯、受了“外部势力”蛊惑，政府为了国家稳定必须镇压。他认为父亲这种看法在国内有一些代表性。至于“正确”与否，他不想评论。</p>
+<p>他父亲说，当年被他拦下的同事，现在还在公安系统里工作，即将升副厅级。</p>
+<p>“我爸说，那个叔叔很感谢他，要不是他把办公室锁了，那个人上了街，以后就完了。”</p>
+<p>他曾追问父亲，政府是不是真的向学生开枪了。父亲没有回答他，显得有点不耐烦，并嘱咐他“出了国千万不要掺和这些事”。</p>
+<p><strong>留学，“自由”的封闭世界</strong></p>
+<p>2008年8月，杨一川带着父亲“不掺和政治”的嘱托，到美国东北部一所私立大学读书。从入校起，他就决定学经济学和数学，以后去投行工作。</p>
+<p>他承认，留学的经济成本和周围的同辈压力对他影响很大。一年7、8万美元的费用使得除金融和科技之外的职业都显得不切实际。</p>
+<p>杨一川说，虽然出了“防火墙”，可以自由地获取信息，但他也不会特意去了解什么。</p>
+<p>他说，从小父母就不鼓励他关心政治，家里有一些“香港带回来”的政治杂志，但父母不让他看，“反正就是好好学习，不要管别的。”</p>
+<p>不过，在大二那年，他再次与六四“不期而遇”。</p>
+<p>他的大学要求所有学生在毕业前必须修一门历史课，不限地域和时期。他选择了中国现代史，一是因为觉得“高中时候都学过，好拿分”，另一方面也想看看外国人是如何讲述中国历史的。</p>
+<p>讲到1980年代，教授专门用两节课的时间播放了美国导演韩倞（Carma Hinton）和戈登（Richard Gordon）夫妇制作的纪录片《天安门》。</p>
+<p>杨一川说，他非常认真地看完了，觉得很震撼。特别是看到军队开枪的画面，他像几年前在奥运志愿者培训会上一样，再次感到头皮发麻。</p>
+<p>上完那个学期的历史课之后，他觉得自己对六四有了比较全面的了解。他认为学生反腐败的诉求非常合理，认为政府派军队进城是“决策失误”，觉得六四是邓小平“人生污点”。</p>
+<p>被点燃政治热情的杨一川一度想放弃数学专业，改读经济和历史。</p>
+<p>他还联系上了刘博宇，说想一起建一个做中国研究的学术组织。刘博宇也在美国东部上大学，学的是哲学专业，在成群的学理、工、商的中国留学生中显得有些“突兀”。</p>
+<p>杨一川说，他知道刘博宇喜欢政治，就想一起建一个组织，办论坛、出刊物，“像哈佛中国论坛那种”。</p>
+<p>哈佛中国论坛成立于1998年，每年举办一次关于中国的峰会，在留学生中很有名。</p>
+<p>不过当时杨一川和刘博宇的“野心”还不止于此，“我们聊过之后觉得哈佛中国论坛有点太商业化了，请的人都是徐小平这种商界的人，” 刘博宇说，他们想做政治类的，请学者来谈中国政治改革。</p>
+<p>然而杨一川的父母怎么都不同意。他父亲更是在电话里大骂他“不务正业”，甚至觉得他的历史教授可能是“间谍”，是故意来策反中国留学生的。</p>
+<p>刘博宇说，杨一川一开始和父母抗争过，说一定要把这个组织做起来。但后来，刘博宇几次给他发邮件，他都不置可否，这个主意也就不了了之了。</p>
+<p>杨一川则说，父母的压力只是一个原因，更重要的还是他自己不够坚定。</p>
+<p>现在回忆起来，他觉得是六四纪录片给了他对政治的“三分钟热度”。冷静下来，他觉得自己的专长还是在商业，也不想站在政府的对立面上。</p>
+<p>得出这些结论后，他告诉自己，对六四的探索应该到此为止了。</p>
+<p>他说，他和他的同学一般都是跟其他大陆留学生一起玩，最多会接触一下当地的华人教会，连与香港和台湾同学的接触都很少。</p>
+<p>这些大陆留学生大多家庭殷实，父母不乏高官和成功商人。他说，对与中国官方不一致的团体，他的同学们都是非常回避的。</p>
+<p>杨一川的父母在政府任职，父亲的仕途尤其顺利。体制内、北京户口、重点学校、留学，这些被常人归为“特权”的优势，于杨一川而言都是父母和他自己“努力得来的”，他并不觉得自己享受了什么特权。</p>
+<p>他在成长中从未亲历过不公平，或者，他一直站在倾斜的天平的上面那端。</p>
+<p>与几年前去香港考SAT时一样，他仍然对示威游行感到抵触，仍然认为自下而上的抗争在中国的政治语境中并无用处。</p>
+<p>2011年暑假，即将上大四的杨一川在纽约一家证券公司做实习交易员。8月，六四民运领袖王丹曾来纽约演讲。杨一川有朋友在Facebook邀请他去“围观”，他记得自己点了“going”，但后来工作一忙就忘了。</p>
+<p>他说，和刘博宇“组团失败”后，他就不再关注六四，也不再关注除专业课、商业社团和找工作以外的任何事。</p>
+<p><strong>“</strong><strong>香港多面，与我无关</strong><strong>”</strong></p>
+<p>2013年，杨一川到香港一家投行工作。</p>
+<p>近年来，香港陆续发生了五区公投、占中运动、鱼蛋革命等社会运动，去年底还发生铜锣湾书店书商被北京当局“掳”回内地的事件。一时间，香港在大陆官方眼中从东方明珠变成了“臭港”。</p>
+<p>大陆的宣传机器把香港描绘成被宠坏的孩子，个别港人歧视大陆的言论被媒体滚动播放，香港导游和居民与内地游客起冲突的事件也屡屡见报。</p>
+<p>而与此同时，理性的政治诉求却被严格管控。游行和演讲现场的原声通常会被消音，“反对派”的文章从大陆网络上被删除。</p>
+<p>而投行巨大的工作压力让杨一川无暇关注这些事。从周一到周五，杨一川大部分时间都呆在有门禁的办公室里，周末也经常要加班，“说实话窗户外面在干嘛我都无所谓。”</p>
+<p>杨一川觉得香港确实是华人社会中较为“多面”的地方，不同人都可以为自己的想法发声，但同时他认为这种“多面”与他无关。</p>
+<p>他觉得自己时间有限，仅是香港的“商业文化”这一面，就已经让他筋疲力尽。</p>
+<p>他听说了香港六四纪念馆可能要搬迁的事，但是常常加班到凌晨一两点的他，有空闲时间只想好好补个觉，连和父母视频都是奢侈。</p>
+<p>说到未来的计划，他想在香港投行赚几年钱，就回到大陆去找一家基金公司工作，他觉得自己不可能在香港呆一辈子，而且父母以后也需要他陪伴。</p>
+<p>他认为随着时间的推移，中国官方对六四会“有新的说法”，但并不觉得自己需要参与其中去“推动”什么。</p>
+<p><strong>“政治诉求总有压不住的一天”</strong></p>
+<p>远在英国的刘博宇，对于香港发生的事反而比杨一川知道得多一些。</p>
+<p>说到先前铜锣湾书店老板“被失踪”的事，他觉得失望。距离2007年他第一次去铜锣湾书店已经过去将近十年，而言论的边界正在倒退。</p>
+<p>铜锣湾书店老板李波拥有英国护照，在没有回乡证的情况下被大陆警方直接“带”走，引起英国的关注。对此，中国外交部强硬地表示，李波“首先是中国公民”。 之后，李波对媒体表示自己“自愿放弃”英国国籍。</p>
+<p>刘博宇说，他被英国朋友问起李波事件，“我都不好意思跟人家说话。”</p>
+<p>不过，他也觉得大多数同龄人都不怎么关心这些事。近几年大陆留学生在英美学习文史哲的人数确实有所上升，但刘博宇觉得这是因为留学生的基数变大了，而不是因为有更大比例的大陆年轻人对政治感兴趣。</p>
+<p>回忆起大学时候那个没能做起来的学社，他也不觉得太遗憾。他认为，即使真的做起来了，也不会有什么“好下场”。</p>
+<p>他的悲观不无道理。他们设想的那种社团之前也有留学生尝试过。</p>
+<p>2009年，有留学生成立了一个政治向的“会社”。几人一起建了官网，写了纲领，还在美国正式注册为“非营利性组织”。2011年，组织的发起人还在中国境内一个“自由派”倾向的网站上发布了一篇宣言性的文章，其中写道，未来要做的不是“革命”，而是“要建立一个新的体系”，“当新的体系建成，推翻旧的制度，只需要几个小时。”</p>
+<p>然而从2011年起，这个组织在网上的所有平台都不再更新。据两位以前的成员说，听说发起人被国保“喝茶”了，组织已经不再活动了。</p>
+<p>刘博宇也听说过这件事，他说，就像前一段时间打击微博大V一样，抓一两个出头的，剩下的也就不说话了。</p>
+<p>但是他认为，人们暂时不说话不代表没有诉求，国家机器也不可能永远高效运转。他细数了前几年倒台的威权政府，“卡扎菲、穆巴拉克也铁腕统治了几十年，不是就眼看着楼塌了吗？”</p>
+<p>他还是钦佩1989年那些青年学生的勇气。与杨一川不同，刘博宇认为自下而上的抗争在任何政治语境下都有用。</p>
+<p>刘博宇说自己小学时候曾经被一个高年级的男生欺负，忍了一个学期后，终于忍不住还手了，“我肯定打不过他，但是他看我敢还手，以后就没有再欺负过我了。”</p>
+<p>他觉得政治也是一样，即使政府的权力非常大，面对不断抗争的民众也会有所顾忌。</p>
+<p>“中国年轻人的追求不会一直停留在‘江浙沪包邮’的层次，政治诉求可能被暂时压制，但总有压不住的一天，” 刘博宇说。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%85%AD%E5%9B%9B%E6%9E%AA%E5%A3%B0%E5%90%8E%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%96%B0%E4%B8%80%E4%BB%A3%E7%9A%84%E6%94%BF%E6%B2%BB%E4%BD%93%E9%AA%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%85%AD%E6%9C%88%E5%9B%9B%E6%97%A5%EF%BC%9A%E9%82%A3%E4%BA%9B%E4%BD%9C%E6%AD%BB%E7%9A%84%E5%85%AC%E5%8F%B7%E4%BB%AC/" target="cdt-mirror">【立此存照】六月四日：那些作死的公号们（更新中）</a>
+</h2>
+<p><p>虽然每年的六四纪念日网警们都会加班加点，但总有一些人和公号用各种方式纪念这个日子，其中不乏创意。</p>
+<p><strong>有发鲁迅先生的。</strong></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1056.jpg?resize=600%2C1065" alt="IMG_1056" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1056.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1056.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1056.jpg?resize=577%2C1024 577w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1057.jpg?resize=600%2C1065" alt="IMG_1057" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1057.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1057.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1057.jpg?resize=577%2C1024 577w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><strong>有发树的。。</strong></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1052.jpg?resize=600%2C1065" alt="IMG_1052" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1052.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1052.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1052.jpg?resize=577%2C1024 577w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/IMG_1049.jpg?resize=600%2C1065" alt="IMG_1049" data-recalc-dims="1"></p>
+<p>北美留学生快报是在留学生群体中阅读量很大的一个公号。因为这棵“有寓意”的树，它们已经被暂时封号了。</p>
+<p>（本帖在更新中）</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%85%AD%E6%9C%88%E5%9B%9B%E6%97%A5%EF%BC%9A%E9%82%A3%E4%BA%9B%E4%BD%9C%E6%AD%BB%E7%9A%84%E5%85%AC%E5%8F%B7%E4%BB%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%8E%8B%E9%83%A8%E9%95%BF%EF%BC%8C%E6%88%91%E5%B0%B1%E9%97%AE%E4%BD%A0%E6%89%93%E8%80%81%E5%A9%86%E5%AD%A9%E5%AD%90%E4%BA%86%E6%B2%A1/" target="cdt-mirror">【河蟹档案】王部长，我就问你打老婆孩子了没</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -571,7 +751,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%B8%BA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%83%9A%E4%BD%93%E5%88%B6/?category=18271" rel="tag">官僚体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B4%87%E7%A5%AF/?category=18271" rel="tag">崇祯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%BA%86%E6%96%B9%E5%BE%8B%E5%B8%88%EF%BC%9A%E8%AF%84%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88/" target="cdt-mirror">张庆方律师：评雷洋案的刑事立案</a>
 </h2>
@@ -665,84 +845,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%88%B0%E8%AE%BF%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E6%96%A5%E8%B4%A3%E6%8F%90%E9%97%AE%E4%BA%BA%E6%9D%83%E8%AE%B0%E8%80%85/" target="cdt-mirror">BBC | 中国外长王毅到访加拿大 斥责提问人权记者</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160602031911_canada_china_wang_dion_976x549_thecanadianpressviaap_nocredit.jpg?resize=660%2C371" alt="160602031911_canada_china_wang_dion_976x549_thecanadianpressviaap_nocredit" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160602031911_canada_china_wang_dion_976x549_thecanadianpressviaap_nocredit.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160602031911_canada_china_wang_dion_976x549_thecanadianpressviaap_nocredit.jpg?w=660 660w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"></p>
-<p><strong>中国外交部长王毅周三公开斥责一名向他询问中国人权问题的加拿大记者，指记者不懂得中国及对中国充满偏见。</strong></p>
-<p>网络媒体IPolitics记者在会上问王毅有关人权、亦提到因窃密遭中国囚禁的加拿大人高凯文（Kevin Garrat）及铜锣湾书店，令王毅大为不悦。他斥责记者不负责任。</p>
-<p>记者会在加拿大全球事务部举行，当时加拿大外交部长斯蒂文•迪翁（Stephane Dion）亦在场。</p>
-<p>王毅通过翻译说：“你的问题充斥对中国的偏见及反中国……我不知道为何你会这样发问。这是完全不能接受的。”</p>
-<p>王毅续说：“没有人比中国人更了解中国的人权状况。”</p>
-<p>“我建议请你不要再以不负责任的态度去发问。我们欢迎立意良好的建议，但我们反对无根据及不必要的指控。”</p>
-<p>几个不同的传媒机构的记者取得共识，再由IPolitics记者发问问题。王毅问该名记者，她到底有否曾前往中国。</p>
-<p>王毅质问女记者：“你知道中国令六亿多人脱贫吗？你知道中国是全世界第二大经济体吗？……你知道中国宪法写明会保障及推广人权吗？”</p>
-<p>迪翁说，他曾向王毅讨论高凯文一案，亦有争取机会去跟他讨论人权及领事相关的个案。</p>
-<p>高凯文与妻子在丹东开设一间极受欢迎的咖啡店，同时亦参与协助朝鲜人的基督教工作。夫妇两人在2014年8月被中国国安部拘捕。高凯文被控告窃密罪，其妻子其后被保释。</p>
-<p>王毅于5月31日至6月4 日出访加拿大，期间亦曾与加拿大首相贾斯廷·特鲁多（Justin Trudeau）会面。</p>
-<p>王毅说，他相信加拿大及中国将会进入“黄金时代”，并谈及特鲁多父亲皮埃尔·特鲁多（Pierre Trudeau）于1970年与中国建立邦交。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%88%B0%E8%AE%BF%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E6%96%A5%E8%B4%A3%E6%8F%90%E9%97%AE%E4%BA%BA%E6%9D%83%E8%AE%B0%E8%80%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF/?category=18271" rel="tag">外交部长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC-%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E6%93%8D%E6%8E%A7%E5%AF%B9%E6%AF%94%E5%9B%BE/" target="cdt-mirror">@平安北京 微博评论操控对比图</a>
-</h2>
-<p><p>涉雷洋案的五名警察被立案侦查，@平安北京 发布的相关通报却只有短短一句话，只字未提雷洋。许多网民表示，对于这样没头没脑的通报，如果没有坚持关注雷洋案，根本连“邢某某”是谁都未必了解，更别说他们被立案的原因了。</p>
-<blockquote><p><a href="http://weibo.com/1288915263/DychxbJSu" target="_blank">@平安北京</a>：北京市检察机关依法决定对邢某某等人立案侦查，北京警方将继续配合检察机关依法开展侦查工作。</p></blockquote>
-<p>以下为@平安北京 微博评论内容对比，以截图时间先后顺序排列。对比图1和图2可以看出，两条质疑水军和一条指责公安部门的评论很快遭到删除。图3截取时间距图2较长，此时评论数已由166条增至724条；然而图2的评论首页内容在图3仅仅被后推至第四页，这意味着所增加的558条评论绝大多数并未公开，微博用户仍然只能查看经严格筛选操控后数量不多、疑似水军评论的内容：</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC-1.jpg" rel="attachment wp-att-530698"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC-1.jpg?resize=635%2C665" alt="平安北京" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/平安北京-1.jpg?resize=287%2C300 287w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/平安北京-1.jpg?resize=768%2C804 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/平安北京-1.jpg?resize=978%2C1024 978w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/平安北京-1.jpg?w=5940 5940w" sizes="(max-width: 635px) 100vw, 635px" data-recalc-dims="1"></a><p><span>@平安北京 微博评论操控对比图；中国数字时代制图（点击查看大图，或右击保存原图）</span></p></div>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%AD%A3%E5%B8%B8%E8%AF%84%E8%AE%BA.png" rel="attachment wp-att-530869"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%AD%A3%E5%B8%B8%E8%AF%84%E8%AE%BA.png?resize=475%2C145" alt="正常评论" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/正常评论.png?resize=300%2C91 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/正常评论.png?resize=768%2C234 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/正常评论.png?resize=1024%2C312 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/正常评论.png?w=1202 1202w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><p><span>嘲讽@平安北京 使用水军的评论很快遭到删除；微博截图</span></p></div>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E6%95%8F%E6%84%9F%E6%97%B6%E5%88%BB%E8%87%B4%E6%88%98%E5%8F%8B%EF%BC%9A%E6%80%BB%E4%BC%9A%E8%A7%81%E5%BD%A9%E8%99%B9/" target="_blank">【立此存照】海淀公安敏感时刻致战友：总会见彩虹</a></p></blockquote>
-<p><strong><br>
-以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<blockquote><p><a href="http://weibo.com/n/1024%E4%B8%93%E5%91%98?from=feed&loc=at" target="_blank">@1024专员</a>:邢某<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/dd412be4gw1f4fq0sj55oj20ff0bqjtt.jpg" rel="attachment wp-att-517626"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/dd412be4gw1f4fq0sj55oj20ff0bqjtt.jpg?resize=400%2C305" alt="dd412be4gw1f4fq0sj55oj20ff0bqjtt" data-recalc-dims="1"></a></p></blockquote>
-<p><a href="http://weibo.com/3178659325" target="_blank">@我叫弋飞</a><i></i>：这两天的抓嫖业务受影响了吗？业绩下滑没有？营业额还行吗？<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3695903543" target="_blank">@洪七公主维多利亚</a>：孰是孰非还没弄清楚，小编删评论太不大气了。<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">话说这手速够快的呀。咋练的？</p>
-<p><a href="http://weibo.com/2214391422" target="_blank">@油粘米朱金华</a>：平安北京小编几个小时手一直没停过，您受累了<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3040707713" target="_blank">@残流PM</a>：不出事就是邢副所长，出事了就是邢某某。感觉是被抛弃了呀。<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/n/%E4%B8%80%E5%8F%AA%E5%B0%8F%E5%8D%81%E4%B8%80?from=feed&loc=at" target="_blank">@一只小十一</a>:大家都散了吧，什么玩意，把网友评论都删了，留下的都是称赞他的，我并不是针对谁，我只想说，垃圾<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p>@纪十五：……乍看这条微博谁能想到说的是雷洋那事。</p>
-<p>@何光伟:真配合啊？贵局太客气啦</p>
-<p>@张氏微言：邢某因为什么事？没交代。缺乏必要新闻元素，不是合格的新闻报道。</p>
-<p>@fivebaby：邢某 这算通告么 一头雾水</p>
-<p>@墨垒:妈的不看全文谁知道邢某某是谁，加个雷洋案能死啊</p>
-<p>@HelloLuism：【评论两次都被删掉了 这是何必】执法应守法，司法当公开，舆论需放开！对自由言论的围追堵截只会适得其反，一旦决堤，后果犹如山洪暴发，塔西佗陷阱下人民对xx的信任彻底崩溃，后果不可收拾，毕竟现代中国人民的公民意识和政治参与意识正在觉醒。</p>
-<p>@咦被发现了呢：我发的是，你们上面发了那么多条微博，就是为了把这条微博压下去。看来这句话说对了，立马给我删了。心虚什么啊。删微博能免死罪还是什么。</p>
-<p>@寒爷放我咬你啊：我以为是真有进展呢，立案查个半年，等都忘了，偷摸结案。</p>
-<p>@DIAOS_LEO：我来看评论滴，却发现不能评论！哈哈，气场上先怯了……</p>
-<p>@孟素问：我的评论为啥只存在一分钟就没了？奇怪。来解释一下。不就质疑为啥不能评论吗？</p>
-<p>@看清真相大家希望的：小片警。你辛苦了。删评论。维护了北京警察颜面。我只能呵呵。真相在群主心里。严惩涉世警察</p>
-<p>@十里河菩提姐：听您这话茬，是您在侦查这个案？您不是被侦查对象吗？</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC-%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E6%93%8D%E6%8E%A7%E5%AF%B9%E6%AF%94%E5%9B%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">平安北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B/?category=18271" rel="tag">网络水军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E6%8A%A5%E5%90%84%E8%87%AA%E5%BE%AE%E4%BF%A1%E3%80%81qq%E7%BE%A4%E4%BF%A1%E6%81%AF/" target="cdt-mirror">自由亚洲｜中共党员干部被要求上报各自微信、QQ群信息</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/m0601-ql1p.jpg" rel="attachment wp-att-529693"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/m0601-ql1p.jpg?resize=450%2C574" alt="中共党员干部微信、QQ群上报表。（志愿者提供/记者乔龙）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/m0601-ql1p.jpg?resize=235%2C300 235w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/m0601-ql1p.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>中共党员干部微信、QQ群上报表。（志愿者提供/记者乔龙）</span></p></div>
-<p>中国网络最近流传一份北京市某街道办向党员干部下发的一份“党员干部参与微信群、‘QQ群’报告表”，除了要求填写个人姓名、出生日期、文化程度及工作单位等个人信息外，还要填写个人所在的微信和“QQ群”帐号及管理员姓名。有分析认为，该报告表像是针对全国的党员干部，将由基础单位要求党员填写。</p>
-<p>中国政府正在进一步加强对言论的管控。继当局责令微信公众号备案之后，一份名为“党员干部参与微信群、‘QQ群’报告表”，连日来在北京知识分子微信圈热传。该份有北京市朝阳区某街道办向辖区内党员干部发出的“报告表”，作为有关加强党的领导，建立流动党员微信平台的学习材料附件，发给中共基层党员干部，除了要填写自己的姓名、出生年月日、民族、文化程度、手机号及工作单位等个人信息，还要填写所在的微信和QQ群帐号，管理员姓名。最后要签上自己的姓名。</p>
-<p>北京学者贾先生6月1日接受自由亚洲电台采访时称，他也看到该份表格：“我也是上午在群里面看到的，如果确实有这件事情，无非说明人盯人。你填了这个表以后，你这个群有什么问题或者什么情况，将来他有依据可查。知道你在哪个群，谁发言或怎么样，他可以渗透。这些手段属雕虫小技”。</p>
-<p>媒体人李先生对记者说，他觉得当局制作这份表格无非是想加强对舆论的控制，但做法可笑：“看到了，有点可笑，好象是要封杀舆论，要严管，证明他们很空虚。他能做到哪一步，拭目以待吧”。</p>
-<p>中国网络聊天工具用户正在快速增长。据腾讯公司2015年11月公布，其微信客户已达到6.5亿，同比增长近百分之四十；QQ月活跃账户数为8.6亿，同比增幅为百分之五。据一位知情人士对记者说，从这份“报告表”要求的内容看，应该是面向全国的中共党员干部，表明现有的监控手段不足以令当局完全放心。</p>
-<p>北京异议人士查建国对记者说，当局要求党员干部关注聊天群的情况。他说：“随着形势的变化而变换他们对付（民众）的政策。举个例子，我有一个群，我是群主，有400多人，他们就问其他人，你是不是在查建国的群里？也跟我说，你在这个群里面，哪一天、几点，你在群里写了什么东西……。他们时时在监视，什么时候下手，那是他们的事”。</p>
-<p>查建国说，当局通过技术手段监控聊天群也不困难，但中国大陆有上千万个聊天群，当局的监控手段真的想做到“天衣无缝”，并非容易。</p>
-<p>一个多月前，广东、山东、内蒙等地政府网络信息办公室要求微信公众号用户备案。山东临沂市网信办4月14日发出“关于开展微信公众账号备案工作的通知”称，为加强微信公众账号管理，规范网络传播秩序，即日起在临沂市开展微信公众账号备案工作。备案时间由4月13至5月13日。临沂市网信办办公室人员接受本台查记者询时称，备案是为便于当局对微信“时政类新闻账号”的管理，全国各地都会实施。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E6%8A%A5%E5%90%84%E8%87%AA%E5%BE%AE%E4%BF%A1%E3%80%81qq%E7%BE%A4%E4%BF%A1%E6%81%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%A4%A7%E5%93%A5/?category=18271" rel="tag">老大哥</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -764,5 +866,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

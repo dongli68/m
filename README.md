@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,158 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%94%98%E8%82%83%E6%9F%90%E5%9C%B0%E5%8D%AB%E8%AE%A1%E5%B1%80%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%9A%84%E4%BA%BA-%E5%9B%BD/" target="cdt-mirror">【立此存照】甘肃某地卫计局：我们是国家的人 国家会收拾你的</a>
+</h2>
+<p><p>近日，甘肃省<a href="http://weibo.com/1585310531/Dy26Z0Ymr?type=comment#_rnd1465021978834" target="_blank">@陇南成县卫生计生局</a>官方微博账号在面对网民批评时，放出了<strong>“我们是依法办事”、“我们是国家的人”、“妄议国家基本国策”、“国家会收拾你的”</strong>等等大招。</p>
+<p>当有人指出计生工作中种种骇人听闻的强制手段后，该陇南成县卫生计生局称“当时就是政府让我们做的”，是“依法办事”。</p>
+<p>5月24日，新浪微博上曾出现湖北公安县计生工作者集体“维权”、在计生办门前抗议要求落实“应有待遇和身份”的消息，遭到网民<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%9C%E6%81%B6%E5%87%A0%E5%8D%81%E5%B9%B4-%E5%BA%94%E8%AF%A5%E7%BB%99%E4%BB%80%E4%B9%88%E8%BA%AB%E4%BB%BD/" target="_blank">一致的冷嘲热讽</a>。</p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%9C%E6%81%B6%E5%87%A0%E5%8D%81%E5%B9%B4-%E5%BA%94%E8%AF%A5%E7%BB%99%E4%BB%80%E4%B9%88%E8%BA%AB%E4%BB%BD/" target="_blank">【网络民议】计生有难 八方点赞</a></li>
+<li><a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%87%AF%E9%A3%8E%EF%BC%9A%E8%AE%A1%E7%94%9F%E5%B9%B2%E9%83%A8%E7%BB%B4%E6%9D%83%E5%80%BC%E4%B8%8D%E5%80%BC%E5%BE%97%E5%90%8C%E6%83%85%EF%BC%9F/" target="_blank">凯风：计生干部维权值不值得同情？</a></li>
+<li><a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%9C%E7%BD%91%EF%BD%9C%E7%AB%A0%E6%96%87%EF%BC%9A%E4%B8%BB%E5%8A%A8%E4%BD%9C%E6%81%B6%E8%80%85%E6%8B%93%E5%B1%95%E4%BA%86%E9%BB%91%E6%9A%97%E8%8C%83%E5%9B%B4/" target="_blank">东网｜章文：主动作恶者拓展了黑暗范围</a></li>
+</ul></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c0bb1c46gw1f4gnykaii6j20qo1begw2.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c0bb1c46gw1f4gnykaii6j20qo1begw2.jpg?resize=375%2C666" alt="c0bb1c46gw1f4gnykaii6j20qo1begw2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c0bb1c46gw1f4gnykaii6j20qo1begw2.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c0bb1c46gw1f4gnykaii6j20qo1begw2.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c0bb1c46gw1f4gnykaii6j20qo1begw2.jpg?resize=576%2C1024 576w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="http://weibo.com/u/3233487942" target="_blank">@sun_1_</a>：曾经的扒房、抢粮、牵猪、拉羊，诛连、非法拘禁等罪恶也是国家让你们做的？//@陇南成县卫生计生局:回复@水深几何:我是一个宣传工作者，我只知道把国家政策宣传好！按领导说的干好本职工作，原本不想说什么，但是一想，你思想偏激，妄议国家基本国策，劝劝你以后说话注意点，祸从口出！！！</p>
+<p>陇南成县卫生计生局：回复@sun_1_:说的很对，当时就是政府让我们做的，我们是依法办事。</p></blockquote>
+<p><strong>陇南成县卫生计生局部分语录</strong>（附图均为微博截图）<strong>：</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%87%E5%8D%97%E6%88%90%E5%8E%BF%E5%8D%AB%E7%94%9F%E8%AE%A1%E7%94%9F%E5%B1%802.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%87%E5%8D%97%E6%88%90%E5%8E%BF%E5%8D%AB%E7%94%9F%E8%AE%A1%E7%94%9F%E5%B1%802.jpg?resize=550%2C160" alt="陇南成县卫生计生局2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局2.jpg?w=1810 1810w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局2.jpg?resize=300%2C88 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局2.jpg?resize=768%2C224 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局2.jpg?resize=1024%2C299 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%87%E5%8D%97%E6%88%90%E5%8E%BF%E5%8D%AB%E7%94%9F%E8%AE%A1%E7%94%9F%E5%B1%801.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%87%E5%8D%97%E6%88%90%E5%8E%BF%E5%8D%AB%E7%94%9F%E8%AE%A1%E7%94%9F%E5%B1%801.jpg?resize=550%2C572" alt="陇南成县卫生计生局1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局1.jpg?w=1812 1812w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局1.jpg?resize=288%2C300 288w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局1.jpg?resize=768%2C799 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局1.jpg?resize=984%2C1024 984w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%87%E5%8D%97%E6%88%90%E5%8E%BF%E5%8D%AB%E7%94%9F%E8%AE%A1%E7%94%9F%E5%B1%803.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%87%E5%8D%97%E6%88%90%E5%8E%BF%E5%8D%AB%E7%94%9F%E8%AE%A1%E7%94%9F%E5%B1%803.jpg?resize=550%2C115" alt="陇南成县卫生计生局3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局3.jpg?w=1808 1808w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局3.jpg?resize=300%2C63 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局3.jpg?resize=768%2C160 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陇南成县卫生计生局3.jpg?resize=1024%2C214 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p>我们是按国家政策办事，有什么不妥也是制定政策的人，我们搞宣传工作，总不能在网络上骂国家，你说对不对？</p>
+<p>我是一个宣传工作者，我只知道把国家政策宣传好！按领导说的干好本职工作，原本不想说什么，但是一想，你思想偏激，妄议国家基本国策，劝劝你以后说话注意点，祸从口出！！！</p>
+<p>你年幼无知啊，本事大了去中央反应去，你敢吗？</p>
+<p>祸从口出，以后说话注意点，污蔑国家，国家会收拾你的！</p>
+<p>祸从口出、以后注意点，国家不是管不了你！！</p>
+<p>我们是国家的人，国家让我们保家卫国上前线，你能说怕死就不去，对与错，国家没有你高明？？？</p>
+<p>到相关部门去说，有人给你答复！</p>
+<p>下次活动不发化肥，把你请上，你看有没有人参加！</p>
+<p>你的世界除了雾霾还有什么？</p>
+<p>本事大了到政府部门实名举报去！</p>
+<p>对与错，是国家定的，让历史去说。</p>
+<p>世界上有公平吗？马云几千亿资产，大山里还有老百姓饿肚子，你说说什么是公平？但是，那些饿肚子的老百姓都爱国家，都爱毛主席，而你呢？你应该把发泄私愤的精神用到工作中去，不要说国家给你做了什么？而是要问问自己为国家干了什么！！！</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%AF%B9%E8%AF%9D1.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%AF%B9%E8%AF%9D1.jpg?resize=500%2C151" alt="对话1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话1.jpg?w=1744 1744w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话1.jpg?resize=300%2C91 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话1.jpg?resize=768%2C233 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话1.jpg?resize=1024%2C310 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%AF%B9%E8%AF%9D2.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%AF%B9%E8%AF%9D2.jpg?resize=500%2C299" alt="对话2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话2.jpg?w=1704 1704w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话2.jpg?resize=300%2C179 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话2.jpg?resize=768%2C459 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话2.jpg?resize=1024%2C612 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话2.jpg?resize=80%2C48 80w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%AF%B9%E8%AF%9D3.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%AF%B9%E8%AF%9D3.jpg?resize=500%2C276" alt="对话3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话3.jpg?w=1732 1732w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话3.jpg?resize=300%2C166 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话3.jpg?resize=768%2C424 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/对话3.jpg?resize=1024%2C565 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%94%98%E8%82%83%E6%9F%90%E5%9C%B0%E5%8D%AB%E8%AE%A1%E5%B1%80%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%9A%84%E4%BA%BA-%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%8A%A1%E5%91%98/?category=18271" rel="tag">公务员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%A0%95%E8%83%8E/?category=18271" rel="tag">强制堕胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%BC%95%E4%BA%A7/?category=18271" rel="tag">强制引产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 30分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%9D%8E%E5%BF%97%EF%BC%9A%E3%80%8A%E5%B9%BF%E5%9C%BA%E3%80%8B%EF%BC%88%E5%A4%96%E4%B8%80%E9%A6%96%EF%BC%89/" target="cdt-mirror">【CDTV】李志：《广场》（外一首）</a>
+</h2>
+<p><p></p>
+<p>《广场》</p>
+<p>作词：李志<br>
+作曲：李志</p>
+<p>你的蹋板车要滑向哪里<br>
+你在滑行里快乐旋转着<br>
+有人看着你为你祝福<br>
+我曾经和你有一样的脸庞</p>
+<p>如今这个广场是我的坟墓<br>
+这个歌声将来是你的挽歌<br>
+你会被教育成一个坏人<br>
+见死不救吃喝拉撒的JB</p>
+<p>请你不要相信他的爱情<br>
+你看黎明还没有来临<br>
+请你不要相信他的关心<br>
+他的手枪正瞄准你的胸膛</p>
+<p>如今这个广场是我的坟墓<br>
+这个歌声将来是你的挽歌<br>
+你会被教育成一个坏人<br>
+见死不救吃喝拉撒的动物</p>
+<p>啦啦啦…</p>
+<p>（念）</p>
+<p>昨夜如梦<br>
+像流星划过</p>
+<p>忘了他<br>
+忘了那双手 所干过的一切</p>
+<p>我再也不像从前那样玩世不恭<br>
+再不会像从前那样爱你</p>
+<p>突然又一天我醒了<br>
+看着外面一片白云</p>
+<p>火车低低的飞过<br>
+一片叶子掉下来</p>
+<p>我感觉到一切在生长<br>
+一切又在衰老</p>
+<p>一切就像我<br>
+一切就像你</p>
+<p>一切只是一场梦<br>
+再也找不到的那些时光</p>
+<p>杀死他！<br>
+再给他一刀！</p>
+<p>开枪吧！<br>
+杀了他！<br>
+干了他！</p>
+<p>我还就不信了！<br>
+我还不信了！</p>
+<p>杀了他！</p>
+<p>啦啦啦…</p>
+<p>忘了他的手</p>
+<p>嘿…</p>
+<p></p>
+<p>《女神》</p>
+<p>作词：李志<br>
+作曲：李志</p>
+<p>我有一个朋友，今年二十一岁，<br>
+一直喜欢穿白色的风衣<br>
+住在盒子后面，后面挂著照片，<br>
+照片上的人在盒子里面<br>
+每天早晨红色的尿布从阳具上升起<br>
+升起让她看不出墓碑上的人的表情</p>
+<p>我的这个朋友，她说她是宝贝，<br>
+为何爸爸要丢她在这里<br>
+他说他会回来，他说他在等待，<br>
+蓝色的海洋宁静而悠远<br>
+她用过去的鲜血维持奄奄一息的生命<br>
+等来的只是化妆后的猎狗在东张西望</p>
+<p>西边有座房子，春天传来掌声，<br>
+成人的无耻让她恶心<br>
+东边有座房子，秋天传来笑声，<br>
+孩子的无知也让她恶心<br>
+她在角落里伤心绝望被富裕的人遗忘<br>
+她在流动的色彩里被岁月弄脏了衣裳</p>
+<p>我有一个朋友，有时我去看她，<br>
+永远看不出天空的颜色<br>
+天空下的照片，像我用的纸片，<br>
+我又爱又恨又感到可怜<br>
+轰轰烈烈尔虞我诈的世界生物团结<br>
+一阵眩晕过后再看不见地上的鲜血</p>
+<p>世界在变我操蛋的理想还不能实现<br>
+世界在变我操蛋的理想还不能实现</p>
+<p>世界在变我操蛋的理想还不能实现<br>
+世界在变我操蛋的理想还不能实现</p>
+<p>理想在变这操蛋的世界还不能实现<br>
+理想在变这操蛋的世界还不能实现</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%9D%8E%E5%BF%97%EF%BC%9A%E3%80%8A%E5%B9%BF%E5%9C%BA%E3%80%8B%EF%BC%88%E5%A4%96%E4%B8%80%E9%A6%96%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%BF%97/?category=18271" rel="tag">李志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%89%8B/?category=18271" rel="tag">歌手</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%9B%B2/?category=18271" rel="tag">歌曲</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E5%85%AD%E5%9B%9B%E7%A7%B0%E4%B8%BA%E4%B8%A4%E5%B2%B8%E4%B9%8B%E9%97%B4%E6%B0%B8%E4%B9%85%E7%9A%84%E9%9A%BE%E8%A8%80%E4%B9%8B%E9%9A%90/" target="cdt-mirror">蔡英文：不要让六四称为两岸之间永久的难言之隐</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=438%2C268" alt="48fe46d9jw1f4j4jod3joj20c607gq34" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?w=438 438w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=300%2C184 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=80%2C48 80w" sizes="(max-width: 438px) 100vw, 438px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博@傅国涌</span></p></div>
+<p><strong>蔡英文于六四27周年当天在脸书发文：</strong></p>
+<p>台湾许多书店的书架上，摆满了有关中国大陆琳琅满目的书籍。有许多来自对岸的朋友，会在这些书架前面停留。很多时候，他们认为，在中国看不到真实的中国，于是，他们把握机会，迫切想知道世界是怎么看待中国。</p>
+<p>在总统选举期间的电视辩论，海外的中国留学生，透过网路，看到候选人间一来一往的辩论。他们觉得，这种决定公共事务的方式很新鲜。甚至，在我个人许多竞选行程裡，我也经常看到来自中国大陆、港澳的朋友，隐身于人群之中。他们对台湾的民主选举充满好奇。多数的朋友们，在亲身经历之后发现，民主其实没有很可怕，民主是一件美好可爱的事物。</p>
+<p>如果我有机会，我想跟这些朋友说，今日台湾民主的美好，其实一路走来很艰辛。不同国家有不同民主化的路径，不过，民主不会从天上掉下来，以及，民主与人权的普世价值，是透过人民的努力来争取。这两点，是所有民主国家共同的结论。</p>
+<p>我相信，中国大陆也不例外。今天是六月四日，27年前，北京发生了天安门事件。有许多人因此失去了家人，有许多人因此而对改革失望，也有许多人，被迫离开了故乡，在海外流亡。这些，台湾都曾经经历过。这就是为什么，27年前，每一个在电视机前面看到那些画面的台湾人，心裡都能感同身受。因為我们也走过这一条路，我们比谁都能清楚体会，天安门广场的学生对民主与自由的渴望。</p>
+<p>身为总统，我不是要对对岸政治制度指指点点，而是愿意真心诚意跟对岸分享台湾民主化的经验。今日的中国大陆，经济成长的成绩有目共睹。在对岸执政党的努力之下，中国人民确实拥有比以前更好的物质生活。这一点，没有人可以否认。</p>
+<p>不过，也没有人可以否认，中国大陆内部政治和社会也正在面临转型的压力。如果对岸能够给予中国大陆人民更多的权利，世人将会给予中国大陆更多的尊敬。这是正视过去的时刻，这也是迈向未来的时刻。中国大陆正在改变。改变也正在考验执政当局的智慧。珍惜那些在书店裡找寻另一种视角的人民，珍惜那些体验过民主生活的留学生。他们很可能是让中国更往前迈进的人。</p>
+<p>不要让六四称为两岸之间永久的难言之隐。中国人民的过往的伤痛，只有对岸的执政党有能力来化解。我的责任，是保有台湾人做为民主人与自由人的身分，建构一个和平的、稳定的、一致的、可以预测的两岸关系。希望有一天，对于民主和人权的看法，两岸之间会趋向一致。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%E5%85%AD%E5%9B%9B.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%E5%85%AD%E5%9B%9B.jpg?resize=535%2C799" alt="蔡英文六四" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?w=1296 1296w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=768%2C1147 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=685%2C1024 685w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><p>蔡英文脸书账号截图</p></div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E5%85%AD%E5%9B%9B%E7%A7%B0%E4%B8%BA%E4%B8%A4%E5%B2%B8%E4%B9%8B%E9%97%B4%E6%B0%B8%E4%B9%85%E7%9A%84%E9%9A%BE%E8%A8%80%E4%B9%8B%E9%9A%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%EF%BC%8C%E9%A6%99%E6%B8%AF%E6%B0%91%E8%BF%90%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%88%86%E6%AD%A7%E4%B8%8E%E7%9F%9B%E7%9B%BE/" target="cdt-mirror">纽约时报｜纪念六四，香港民运人士谈分歧与矛盾</a>
 </h2>
 <p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg?resize=575%2C383" alt="李卓人，立法会议员、抗议领袖 " srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg?resize=300%2C200 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>李卓人，立法会议员、抗议领袖／Lam Yik Fei for The New York Times</span></p></div>
@@ -590,138 +739,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%9F%E6%B5%AA%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%BA%8C%E5%8D%81%E4%B8%83%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E8%AF%97/" target="cdt-mirror">孟浪：六四二十七周年纪念诗</a>
-</h2>
-<p><p><span>注：本诗原载于6月1日香港《明报》世纪副刊</span></p>
-<p><span><strong>口诀：六四二十七或三九二十七</strong></span></p>
-<p><span><strong>孟 浪 </strong></span></p>
-<p>血手与血手印之间</p>
-<p>隔着氧气，褪去了涂抹、擦拭</p>
-<p>出发的和抵达的，相撞在一起</p>
-<p>记忆押着遗忘，有人视而不见</p>
-<p>而我要让你分明看见这无形</p>
-<p>那曾经直接的割取和甩脱</p>
-<p>头颅中的火焰跃过，再一次跃过</p>
-<p>罪啊，罪，却学习着消失</p>
-<p>二十七年，一整个国家的羞耻</p>
-<p> </p>
-<p>痕迹，犯罪学，学会了逃跑</p>
-<p>扎进政府里面端坐，佯装无辜</p>
-<p>车队、人群，一条细线，一根神经</p>
-<p>被这双用罪来涤净的手抽走</p>
-<p>狠狠揉捏十几亿张面团：愤怒的脸</p>
-<p>别过去，别过去，终于扭断</p>
-<p>啊，断然的牺牲，滋养、哺育丧失</p>
-<p>轰隆隆，呼啦啦，涌泉般壮丽</p>
-<p>二十七年，一整个民族的酵素——</p>
-<p> </p>
-<p>血手印印在天上，谁又在</p>
-<p>诬指，是神的塑胶指纹？</p>
-<p>我指出了，这虚无并不可取</p>
-<p>大地之上，就这一点最后的绿</p>
-<p>一片草尖，把无言的露珠抖落</p>
-<p>她，托起整个天空的重量</p>
-<p>她的一声叹息自最深处传来</p>
-<p>记忆的口诀，无可挽回，也无可阻挡</p>
-<p>从三九二十七，迈向四七二十八</p>
-<p> </p>
-<p>2016.5.27</p>
-<p> </p>
-<p> </p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%9F%E6%B5%AA%EF%BC%9A%E5%85%AD%E5%9B%9B%E4%BA%8C%E5%8D%81%E4%B8%83%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E8%AF%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">六四事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%9F%E6%B5%AA/?category=18271" rel="tag">孟浪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%97%E6%AD%8C/?category=18271" rel="tag">诗歌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E5%90%AB%E9%93%85%E6%B6%82%E6%96%99%E5%86%B3%E8%AE%AE/" target="cdt-mirror">美国之音｜中国封杀联合国有关含铅涂料决议</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg" rel="attachment wp-att-516822"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg?resize=575%2C323" alt="2016年5月27日，在内罗毕召开的联合国环境大会期间，一位街头涂鸦艺术家用不含铅的涂料绘制壁画。（美国之音伊艾米拍摄）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/C7DB6B5B-C6E1-46A2-9F1A-C89E8F509D0A_w640_r1_s.jpg?w=640 640w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2016年5月27日，在内罗毕召开的联合国环境大会期间，一位街头涂鸦艺术家用不含铅的涂料绘制壁画。（美国之音伊艾米拍摄）</span></p></div>
-<p>内罗毕— 在肯尼亚首都内罗毕召开的联合国环境大会最后的谈判期间，中国封杀了人们期待已久的有关限制含铅涂料的联合国决议。不过，其它国家已经在采取行动，修改有关含铅涂料的法律。这种涂料有可能造成儿童的大脑损伤。</p>
-<p>在有全球“环境议会”之称的联合国环境大会(UNEA)期间，在发展中国家逐渐取消含铅涂料的运动排在议事日程的重要位置。</p>
-<p>针对“鼓励”各国政府通过限制含铅涂料法律的建议，<strong>中国是唯一的反对国家</strong>。因此，一项限制全球范围化学品和废料的联合国决议没有提及含铅涂料。</p>
-<p>如果小孩子吃进或吸入铅末，有可能导致终生脑损伤。</p>
-<p>总部在内罗毕的联合国环境规划署环境法律处的艾伦·梅索说： “除非我们现在拿出一些行动，否则我们就会让我们的孩子接触到严重的危险。”</p>
-<p>美国的规定是涂料的含铅浓度不得超过90百万分率(ppm)。</p>
-<p>不过，在发展中国家进行的检测发现，装饰性涂料的含铅浓度达到了一万到十万百万分率。这些涂料用在住宅、学校、医院和其它建筑物.</p>
-<p>铅暴露可导致低智商并减弱一生中赚取收入的能力。</p>
-<p>在联合国环境大会期间，纽约大学医学院发表的一份报告说，铅中毒造成的儿童智商降低在发展中国家造成9770亿美元的经济损失。</p>
-<p>把含铅涂料从联合国决议中排除令决策人员深感失望。不过，很多发展中国家正在起草本国有关含铅涂料的法规，这是2020年前消除含铅涂料全球联盟的一部分。</p>
-<p>在全球联盟的支持下，斯里兰卡、菲律宾、尼泊尔和泰国已经落实了新的法律，限制涂料中的含铅量。印度和孟加拉国正在最后敲定法规草案。</p>
-<p>国际消除持久性有机污染物网络(IPEN)消除含铅涂料运动经办人萨拉·布罗舍说： “事情真的进展得很快。其中一个主要原因是利益相关方的合作共事。所以，当业界意识到这样的局面时，他们和决策人员和民间组织一样，也希望推动这件事。所以，这是一个令人感到鼓舞的好例子，表明所有利益相关方携手合作，在这些国家一起来推动这件事。”</p>
-<p>15个非洲国家，包括肯尼亚和埃塞俄比亚，已经在制定新法规，预计在今年最后敲定。</p>
-<p>联合国环境规划署的梅索去年12月参加了在埃塞俄比亚首都亚的斯亚贝巴举行的非洲合作伙伴会议。</p>
-<p>他说：“这不是攻击业界。这是挽救我们的孩子的未来。所以，让业界参与进来至关重要。我不认为2020年的最后期限是达不到的。它是可以实现的。我们只需要有政治意愿，把这件事推动下去。”</p>
-<p>对含铅涂料的健康威胁缺乏意识，这是一大障碍。检测方面缺乏专业知识以及如何监管非正式的涂料生产者，这些也都是挑战。</p>
-<p>不过，倡导人士说，用安全的替代物取代含铅涂料相对来说简单可行而且成本不高。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%89%E5%85%B3%E5%90%AB%E9%93%85%E6%B6%82%E6%96%99%E5%86%B3%E8%AE%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">儿童权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%8D%E9%87%91%E5%B1%9E%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">重金属污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%85%E4%B8%AD%E6%AF%92/?category=18271" rel="tag">铅中毒</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%89%A9%E4%B8%8B%E5%8D%8A%E4%B8%AA%E8%87%AA%E7%94%B1%EF%BC%88%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B81%EF%BC%89%E5%89%AF%E5%88%8A%E5%BE%81%E7%A8%BF%E7%BB%A7%E7%BB%AD%E4%B8%AD/" target="cdt-mirror">向死而行｜华涌：剩下半个自由（华涌被旅游1）</a>
-</h2>
-<p><p><strong>作者微信公号：向死而行（ID: tooooobe）</strong></p>
-<p>昨晚回复向死而行的朋友们留言到早上4点多，最后困的拿着手机睡着了。今早被咚咚的敲门声惊醒，是“他们”来了。外面传来了W的声音，这个声音非常熟悉，每年6月这个声音都会陪伴我，穿越大半个中国去香格里拉“旅游”。</p>
-<p>上了一辆白色大吉普车，车上3人W和司机都是通州分局的，还有一个是宋庄派出所的Z。到达首都机场我才知道这次陪同我来的明面就是W和Z两个人，2014年6月明面陪同我的也是两个通州分局的人W和L，当我那天晚上翻山跑出雨崩村后在西当村被抓获时才知道还有一个是暗地过来潜伏在德钦县城的一个北京市局的负支队长（以后有时间再给朋友们讲2014和2015年我被旅游的故事，里面有逃跑、追踪、拦截、抓获和监牢）。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B81.jpg" rel="attachment wp-att-516624"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B81.jpg?resize=400%2C533" alt="华涌被旅游1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游1.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游1.jpg?w=640 640w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p>睡眼惺忪地上了飞机，经过讨价还价我被批准可以拍照，但是不能拍摄他们。</p>
-<p></p>
-<p>自2013年出狱以来W和L就负责看管我的专职人员，交往几年我们的关系非常奇妙，我们再一起聊天外人听来好像是多年的老朋友，蛋逼、打混、开玩笑一点儿不生分，我还送给过他们俩个人每人一张小油画。后来L提前退休，W说是因为我雨崩逃跑的事儿L才被提前退休的，我始终不信W的这种说法。</p>
-<p></p>
-<p>我如以往向死而行的路上一样拿着自拍杆自拍，和同行人说笑。W和Z躲的老远皮笑肉不笑地盯着我，我便当他们没存在尽心尽责地充当向死而行的前沿记者。</p>
-<p></p>
-<p>飞机降落香格里拉后，我感觉有点恶心，应该是轻度高反。接机是迪庆州的国宝藏族小伙子阿峻，晚饭是他请我们的，由于不舒服匆匆吃过大家就陪我回酒店休息。一进房间我就上床睡了一觉，被闹钟叫醒后感觉能好了一点，便爬起来给朋友们写今天的游记，今天状态不好就写的这里吧。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B82.jpg" rel="attachment wp-att-516625"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B82.jpg?resize=525%2C394" alt="华涌被旅游2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游2.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游2.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>向死而行副刊继续征稿启示：</p>
-<p>现在正式向所有向死而行的朋友们征稿，可以在向死而行公众号里留言发来你的文章、诗歌、摄影、小视频等作品即可，让我们一起勇敢地向死而行……</p>
-<p>文章主题要求：以对向死而行的理解和对华涌其人其行为的看法，拒收其他内容文稿。</p>
-<p>向死而行是华涌给自己</p>
-<p>没有目的地</p>
-<p>没有方向</p>
-<p>没有时间限制的旅行</p>
-<p>起的名字</p>
-<p>即玩到死也不停止的一次旅行</p>
-<p>主张另类非普世价值观</p>
-<p>提倡追求自由</p>
-<p>自己掌握自己的命运</p>
-<p>反抗金钱物欲对人性自由的绑架</p>
-<p>倡导回归自然本性</p>
-<p>追求生命尊严和解放</p>
-<p>勇敢地面对恐惧和死亡</p>
-<p>老子曰：出生入死</p>
-<p>人在出生后唯一的去向就是面向死亡</p>
-<p>不要回避勇敢面对</p>
-<p>自己做自己人生的主人</p>
-<p>不重结果珍惜过程</p>
-<p>不求辉煌不惧卑微</p>
-<p>志同道合的人我们一起</p>
-<p>在路上</p>
-<p>一起向死而行</p>
-<p>（华涌等您来稿）</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B83.jpg" rel="attachment wp-att-516626"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B83.jpg?resize=525%2C394" alt="华涌被旅游3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游3.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/华涌被旅游3.jpg?w=640 640w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br>
-（下榻的酒店和去年是同一个酒店，古城国际酒店几星不知道挺豪华的，旅游旺季钱很贵，这样花纳税人的钱我感到可耻。）</p>
-<p>在宋庄时写的7篇故事牺牲2、3两篇还剩下面5篇：</p>
-<blockquote><p><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340675&idx=1&sn=74a886f2fed47e8240e8ee9ae938bba0&scene=21#wechat_redirect" target="_blank">患难见真情，此生足矣！张琦你在哪里？（宋庄故事7）另：副刊征稿</a><br><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340663&idx=1&sn=95946ad55c09aead816c0cf0c33dac9a&scene=21#wechat_redirect" target="_blank">各路朋友来送饭、半夜来人打赏点赞、华涌酸奶待看守（宋庄故事6）</a><br><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340653&idx=1&sn=3bdccccd9d7aa8444e4ed42f055eae8a&scene=21#wechat_redirect" target="_blank">华涌实拍深夜被陌生人跟踪的自救应急办法（宋庄故事5）</a><br><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340651&idx=1&sn=83c8350f1ff1d2be4058632ff3b36b15&scene=21#wechat_redirect" target="_blank">我还活着，但感觉不好（宋庄故事4）</a><br><a href="http://mp.weixin.qq.com/s?__biz=MzAwOTY3MjIxMQ==&mid=2653340608&idx=1&sn=fe010a30d35e47f5355739656d248282&scene=21#wechat_redirect" target="_blank">华涌回京：被莫名绑架、被疯子暴打！（宋庄故事1）</a></p></blockquote>
-<p>那个日子越来越近</p>
-<p>故事也将越来越悬疑和精彩</p>
-<p>从今天起华涌将为你讲</p>
-<p>被旅行中的故事</p>
-<p>预知后事如何</p>
-<p>请关注向死而行公众号<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%90%91%E6%AD%BB%E8%80%8C%E8%A1%8C.jpg" rel="attachment wp-att-439035"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%90%91%E6%AD%BB%E8%80%8C%E8%A1%8C.jpg?resize=225%2C225" alt="向死而行" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?resize=50%2C50 50w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/向死而行.jpg?w=258 258w" sizes="(max-width: 225px) 100vw, 225px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E5%89%A9%E4%B8%8B%E5%8D%8A%E4%B8%AA%E8%87%AA%E7%94%B1%EF%BC%88%E5%8D%8E%E6%B6%8C%E8%A2%AB%E6%97%85%E6%B8%B81%EF%BC%89%E5%89%AF%E5%88%8A%E5%BE%81%E7%A8%BF%E7%BB%A7%E7%BB%AD%E4%B8%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%97%85%E6%B8%B8/?category=18271" rel="tag">被旅游</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -733,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -743,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

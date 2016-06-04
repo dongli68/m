@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,67 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%90%AF%E5%8A%A8%E4%B8%80%E7%BA%A7%E8%B6%85%E5%B8%B8%E9%98%B2%E6%8E%A7%E5%BA%94%E5%AF%B9%E5%85%AD%E5%9B%9B27%E5%91%A8/" target="cdt-mirror">自由亚洲｜北京启动“一级超常防控”应对六四27周年</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg?resize=450%2C600" alt="北京居委会发出的“6.4”安保通知。（志愿者提供/记者乔龙）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>北京居委会发出的“6.4”安保通知。（志愿者提供/记者乔龙）</span></p></div>
+<p>今年6月4日是八九.六四事件27周年，北京全城各居委会5月31日接到上级街道办通知，6月1日到6日每栋居民楼都要有带红袖标和小红帽的志愿者巡逻值班，配合官方防控民间的六四纪念活动，其中6月3日及4日更将实行“一级超常防控”。居委会则要求志愿者，发现有纪念六四或相关情况的要及时报告。</p>
+<p>六四27周年来临，北京已全面加强防控措施，严防民间纪念六四活动。丰台区方庄方城园一区居委会5月31日发通告称，根据上级指示精神，“6.4”安保巡逻值班现已正式启动，请志愿者佩戴红袖标、小红帽上街巡逻。巡逻期从6月1日到6月6日，其中6月3日、4日为“一级超常防控”，请各楼长安排巡逻人员名单。</p>
+<p>本台记者根据知情者提供的该通知，6月3日致电方城园一区居委会查询有关六四巡逻情况。接听电话的工作人员称，巡逻就是为了防止有人纪念“6.4”：“为那个‘6.4’，‘6.4’活动”。<br>
+记者：看见有六四活动的人就通报啊？<br>
+回答：都可以，都得关注一下。<br>
+记者：汇报给居委会？<br>
+回答：可以。<br>
+记者：这里有多少人参加这次活动，志愿者？<br>
+回答：每一栋楼都有志愿者，都有自己的点，一般像这种重要日，都有五到六个人。</p>
+<p>记者向方城园二区居委会工作人员查询，通知中提及的“6.4”，是怎么一回事请，对方回答是“敏感日”，却未作进一步解释。<br>
+记者：六四是怎么一回事？<br>
+回答：啊，稍等一下。（换了一位年长者回答）咱们就按照（上级）要求，在6月1号到6月6号，一般叫敏感日的值班，就这么一个情况。<br>
+记者：想问一下六四？<br>
+回答：没有任何的那个什么（解释），我们就说敏感日的时候。</p>
+<p>北京天安门母亲群体成员张先玲对政府部门从上到下，不敢公开提“六四”，认为是当局出于恐惧心理。她说：“这些人心里指不定怎么想的，只是不敢说就是了。这就说明他们（政府）对这件事情很恐惧，像杀人犯一样，杀了人当然恐惧。他心里有鬼他就敏感。可笑吧，这哪像一个大国大党”。</p>
+<p>5月31日开始，北京、贵州、内蒙古等地的异议人士和维权人士分别被当地公安带走强制旅游，北京的有中共前总书记赵紫阳的政治秘书鲍彤、独立媒体人高瑜等，贵阳有贵州人权研讨会的多名成员、内蒙古乌拉特中旗牧民奥登高娃被旅游，奥德古（音）则被公安上岗。</p>
+<p>中国每一年要花费数千亿元人民币作为所谓的维稳经费，用于包括全国两会、六四周年日、拦截访民等。居住在北京的国务院前秘书俞梅荪自5月31日上午10点起，被公安上岗，目前尚不知道何时解除限制。他对记者说：“关于维稳，我这里一个班是3个警员看守，24小时是4个班共12个警员，按照每一个人200元（一天）就是2400元，还有一辆车戒备。一天的经费就要3000元钱”。</p>
+<p>六四已进入27周年，但是官方媒体的报道从不涉及六四，以致不少年轻人不知道“六四”。近年，不少年轻人通过互联网翻墙软件，才知1989年在中国发生的这场争取民主的运动遭到政府出动军队、坦克车镇压。外界公布的六四死亡人数超过一万人，而当年国务院发言人袁木则称死了23个人。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%90%AF%E5%8A%A8%E4%B8%80%E7%BA%A7%E8%B6%85%E5%B8%B8%E9%98%B2%E6%8E%A7%E5%BA%94%E5%AF%B9%E5%85%AD%E5%9B%9B27%E5%91%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%82%B9%E6%80%9D%E8%81%AA%E7%9A%84%E6%96%B0%E9%97%BB%E7%AC%94%E8%AE%B0%EF%BD%9C%E5%9B%BE%E8%A7%A3%E7%8E%8B%E6%AF%85%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%98%EF%BC%8C%E5%A4%96%E5%AA%92%E6%80%8E/" target="cdt-mirror">邹思聪的新闻笔记｜图解王毅外长的幽默，外媒怎么会懂？</a>
+</h2>
+<p><p><strong>微信公号：邹思聪的新闻笔记 （ID: journalism_note）</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%8E%8B%E6%AF%85.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%8E%8B%E6%AF%85.jpg?resize=500%2C282" alt="王毅" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/王毅.jpg?w=1484 1484w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/王毅.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/王毅.jpg?resize=768%2C433 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/王毅.jpg?resize=1024%2C577 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AA%92%E4%BD%93%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E7%8E%8B%E6%AF%85%E5%8F%91%E6%80%92/" target="_blank">【立此存照】加拿大媒体如何报道王毅发怒</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/" target="_blank">【网络民议】你去过中国吗？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/06/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%88%B0%E8%AE%BF%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E6%96%A5%E8%B4%A3%E6%8F%90%E9%97%AE%E4%BA%BA%E6%9D%83%E8%AE%B0%E8%80%85/" target="_blank">BBC | 中国外长王毅到访加拿大 斥责提问人权记者</a></li>
+</ul></blockquote>
+<p>本来我在休假，已经暂时封笔了，但是呢。昨天我国外长的那段视频，大半夜把我给看精神了，看完后我久久战栗，无法言语，因为实在是太震撼了。</p>
+<p>果然，晚上回来一看，全球各大媒体都报道了。</p>
+<p>我这里简要概括一下，大概就是加拿大的一个女记者想搞个大新闻，跑得比谁都快，但是真的还是要加强学习一个——所以让外长angry了，于是怒斥记者。</p>
+<p>据凤凰网报道，外长愤怒已极，然后连珠炮一般的排比是这样开始的：</p>
+<blockquote><p>“我必须说，你的问题充满了对中国的偏见与傲慢……我不知道这从何而来，但完全无法令人接受！”</p>
+<p>“关于中国人权状况，没有人比中国人民更了解，中国人民才是最有发言权和发言立场的。”</p>
+<p>“你知道中国已经帮助超过6亿人民脱贫吗？！你知道中国已经把保护和推动人权写进了宪法吗？！”</p>
+<p>“我建议你，请不要用如此不负责任的方式提问。我们欢迎善意的建议，但拒绝毫无根据和没有理由的指责！”</p></blockquote>
+<p>尽管各大外媒报道，以及国内公知都对外长响起了经久不息的掌声，但我觉得大家都没有体会到外长愤怒外表下，真正的幽默和与时俱进。</p>
+<p>以下这段视频截图，我觉得外长同志在家肯定天天练习，我觉得我们也都要加强论述能力练习，以随时做好怒斥外国人的准备（多图，请在WiFi条件下打开）：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9801.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9801.jpg?resize=500%2C857" alt="外长的幽默01" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默01.jpg?w=1409 1409w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默01.jpg?resize=175%2C300 175w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默01.jpg?resize=768%2C1316 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默01.jpg?resize=598%2C1024 598w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9802.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9802.jpg?resize=500%2C855" alt="外长的幽默02" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默02.jpg?w=1409 1409w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默02.jpg?resize=175%2C300 175w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默02.jpg?resize=768%2C1313 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默02.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9803.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9803.jpg?resize=500%2C854" alt="外长的幽默03" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默03.jpg?w=1408 1408w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默03.jpg?resize=176%2C300 176w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默03.jpg?resize=768%2C1312 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默03.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9804.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9804.jpg?resize=500%2C855" alt="外长的幽默04" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默04.jpg?w=1410 1410w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默04.jpg?resize=176%2C300 176w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默04.jpg?resize=768%2C1313 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默04.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9805.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9805.jpg?resize=500%2C854" alt="外长的幽默05" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默05.jpg?w=1411 1411w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默05.jpg?resize=176%2C300 176w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默05.jpg?resize=768%2C1311 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默05.jpg?resize=600%2C1024 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9806.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9806.jpg?resize=500%2C856" alt="外长的幽默06" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默06.jpg?w=1409 1409w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默06.jpg?resize=175%2C300 175w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默06.jpg?resize=768%2C1314 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默06.jpg?resize=598%2C1024 598w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9808.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9808.jpg?resize=500%2C855" alt="外长的幽默08" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默08.jpg?w=1410 1410w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默08.jpg?resize=176%2C300 176w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默08.jpg?resize=768%2C1313 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默08.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9809.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9809.jpg?resize=500%2C855" alt="外长的幽默09" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默09.jpg?w=1408 1408w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默09.jpg?resize=175%2C300 175w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默09.jpg?resize=768%2C1314 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默09.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9810.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9810.jpg?resize=500%2C853" alt="外长的幽默10" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默10.jpg?w=1409 1409w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默10.jpg?resize=176%2C300 176w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默10.jpg?resize=768%2C1310 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默10.jpg?resize=600%2C1024 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9811.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9811.jpg?resize=500%2C855" alt="外长的幽默11" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默11.jpg?w=1408 1408w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默11.jpg?resize=175%2C300 175w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默11.jpg?resize=768%2C1313 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默11.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9812.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9812.jpg?resize=500%2C855" alt="外长的幽默12" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默12.jpg?w=1409 1409w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默12.jpg?resize=175%2C300 175w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默12.jpg?resize=768%2C1314 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默12.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9813.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9813.jpg?resize=500%2C853" alt="外长的幽默13" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默13.jpg?w=1412 1412w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默13.jpg?resize=176%2C300 176w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默13.jpg?resize=768%2C1311 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默13.jpg?resize=600%2C1024 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9815.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9815.jpg?resize=500%2C853" alt="外长的幽默15" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默15.jpg?w=1412 1412w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默15.jpg?resize=176%2C300 176w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默15.jpg?resize=768%2C1311 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默15.jpg?resize=600%2C1024 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9816.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9816.jpg?resize=500%2C854" alt="外长的幽默16" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默16.jpg?w=1413 1413w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默16.jpg?resize=176%2C300 176w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默16.jpg?resize=768%2C1311 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默16.jpg?resize=600%2C1024 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9817.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9817.jpg?resize=500%2C857" alt="外长的幽默17" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默17.jpg?w=1405 1405w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默17.jpg?resize=175%2C300 175w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默17.jpg?resize=768%2C1317 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默17.jpg?resize=597%2C1024 597w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9818.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9818.jpg?resize=500%2C569" alt="外长的幽默18" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默18.jpg?w=1408 1408w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默18.jpg?resize=264%2C300 264w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默18.jpg?resize=768%2C874 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默18.jpg?resize=900%2C1024 900w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9819.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9819.jpg?resize=500%2C568" alt="外长的幽默19" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默19.jpg?w=1410 1410w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默19.jpg?resize=264%2C300 264w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默19.jpg?resize=768%2C872 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默19.jpg?resize=902%2C1024 902w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>视频截图来自《报告老板第一季：中国同伙人》</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%82%B9%E6%80%9D%E8%81%AA%E7%9A%84%E6%96%B0%E9%97%BB%E7%AC%94%E8%AE%B0%EF%BD%9C%E5%9B%BE%E8%A7%A3%E7%8E%8B%E6%AF%85%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%98%EF%BC%8C%E5%A4%96%E5%AA%92%E6%80%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AA%92%E4%BD%93%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E7%8E%8B%E6%AF%85%E5%8F%91%E6%80%92/" target="cdt-mirror">【立此存照】加拿大媒体如何报道王毅发怒</a>
 </h2>
 <p><blockquote><p><strong>相关阅读：</strong></p>
@@ -677,90 +735,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/twitter/?category=
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%94%B7%E5%AD%90%E5%9B%A0%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%E9%85%92%E7%93%B6%E7%85%A7%E7%89%87%E8%A2%AB%E6%8B%98/" target="cdt-mirror">纽约时报｜男子因纪念“六四”酒瓶照片被拘</a>
-</h2>
-<p><p>北京——近27年前发生在<a title="Link: http://www.nytimes.com/2014/06/04/world/asia/times-coverage-of-tiananmen-square-25-years-ago.html" href="http://www.nytimes.com/2014/06/04/world/asia/times-coverage-of-tiananmen-square-25-years-ago.html" target="_blank" rel="nofollow">1989年6月4日</a>的大屠杀，给中国留下的政治伤痕仍未愈合。伤痕未愈的程度表现在，最近一名男子因颠覆罪被拘留，他的支持者说，因为他在网上分享了一些酒瓶标签的照片，上面有当年士兵在北京天安门广场镇压抗议活动的日子。</p>
-<p>据<a href="http://www.canyu.org/n116692c6.aspx" target="_blank" rel="nofollow">Canyu.org</a>等关注中国相关案件的人权网站的消息，这名男子叫符海陆，是中国西南部省份四川省省会成都的一名流动工人。他因涉嫌“煽动颠覆国家政权罪”，于周日被警方正式拘留。</p>
-<p>符海陆的妻子刘天艳周一在电话中说，她不能确定自己的丈夫是否与那些黑色幽默的图片有关系。这些图片包括一个啤酒瓶标签，上面有一个人坐在一排坦克车前。这与一张1989年<a title="Link: http://lens.blogs.nytimes.com/2009/06/03/behind-the-scenes-tank-man-of-tiananmen/" href="http://lens.blogs.nytimes.com/2009/06/03/behind-the-scenes-tank-man-of-tiananmen/" target="_blank" rel="nofollow">公开抵抗武装镇压的代表性照片</a>相呼应。</p>
-<p>“在我的印象里，我可能看到过那些照片。”刘天艳说。“但这都是些网上传来传去的东西。我当时并没太注意，所以我不知道他是否有与这些照片有关。那只不过是些照片，所以我没太注意。”</p>
-<p>但是，中国的安全机构似乎一直在密切地关注着，他们一直对围绕1989年留下的创伤所进行的相关讨论保持警惕。中国受欢迎的社交媒体平台微信，可让人在朋友圈内分享消息和图片。这些图片在微信上传播后，警察于上周六将符海陆带走。</p>
-<p>照片中还有一些看上去像是装白酒的瓶子（<a href="http://cn.nytstyle.com/food-wine/20151230/t30baijiu/" target="_blank" rel="nofollow">白酒是一种中国烈酒</a>），瓶子上也带着类似的标签。但刘天艳说，据她所知，她的丈夫不知道如何在计算机上制作那样的标签或图片。她说，他也不会造酒。</p>
-<p>“我没听到他谈论过六四，”刘天艳说。“他非常关心社会正义，这是真的，比如警察、食品安全、公共福利之类的问题。”</p>
-<p>这些标签玩了普通话中“酒”和“九”谐音的文字游戏，用“酒”表示1989中的“九”。</p>
-<p>啤酒瓶子的标签上是“铭记八酒六四”，与1989年6月4日相呼应。当年，全副武装的士兵包围了天安门广场，他们沿着北京的部分街道进城时，接连对着试图阻止他们的示威者或居民开枪。数百人、甚至数千人在北京的镇压中死亡。<a href="http://cn.nytimes.com/china/20140604/c04students/" target="_blank" rel="nofollow">成都等其他城市</a>也发生了严重的流血事件，那些城市的抗议活动在6月4日之后仍持续了几天。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%AB%E9%85%92%E5%85%AD%E5%9B%9B.jpg" rel="attachment wp-att-514280"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%85%AB%E9%85%92%E5%85%AD%E5%9B%9B.jpg?resize=450%2C784" alt="八酒六四" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/八酒六四.jpg?resize=172%2C300 172w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/八酒六四.jpg?resize=768%2C1337 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/八酒六四.jpg?resize=588%2C1024 588w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/八酒六四.jpg?w=1214 1214w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>现年29岁的符海陆是来自四川的一名退伍军人，曾当过保安、也干过其他粗活，刘天艳说，他喜欢写诗。她不知道他是否有代理律师。当局可扣留符海陆至少两周，然后会决定是将他拘留更长的时间，还是正式逮捕他，又或是将他释放（而这有可能是有条件的）。</p>
-<p>共产党每年都要不遗余力地避免再次引发对1989年的分歧和流血事件的回忆。动作的手脚之大，以至于他们反而是在提醒许多人六四周年纪念日到了。每年的这个时候，异见者和直言不讳的自由派人士就会被软禁在家，或被迫在国家安全官员的陪同下，去北京以外的地方旅行。</p>
-<p>这些酒瓶子并不是第一次受1989年的启发而表达出来的黑色幽默。为了躲过紧盯着六四的审查者，人们早已在用“5月35日”来表示6月的第四天。1991年，《人民日报》海外版发表了一首表面上是表达海外学生思念祖国的赞美诗。不过，<a href="http://bit.ly/1NZrNgk" target="_blank" rel="nofollow">这首诗</a>中嵌着攻击李鹏的字。李鹏在1989年担任总理，是武装镇压的实施者。</p>
-<p>那首嵌字诗写道，“李鹏下台平民愤。”</p>
-<p>储百亮(Chris Buckley)是《纽约时报》驻京记者。<br>
-欢迎在Twitter上关注储百亮<a href="https://twitter.com/ChuBailiang" target="_blank" rel="nofollow">@ChuBailiang</a>。<br>
-翻译：Cindy Hao</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E7%94%B7%E5%AD%90%E5%9B%A0%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%E9%85%92%E7%93%B6%E7%85%A7%E7%89%87%E8%A2%AB%E6%8B%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%AD%E8%AE%B0%E5%85%AB%E9%85%92%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">铭记八酒六四</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%B2%E9%83%A8%E5%A6%BB%E5%AD%90%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%EF%BC%8C%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6/" target="cdt-mirror">【异闻观止】干部妻子：感谢从严治党，丈夫在家时间增多了</a>
-</h2>
-<p><p><em>原标题：长江日报｜武汉新任局级干部妻子集体亮相：感谢从严治党，丈夫在家时间增多了<br></em><br>
-今天下午3点，在武汉市会议中心，71位2015年以来新提拔市管领导干部家属参加“全市新任市管领导干部家属廉政座谈会”，会议主题：廉洁齐家，树立良好家风。</p>
-<p>会议的第一项观看的警示教育片《毁于小节的悔恨人生》主要讲述去年以来，湖北省纪委查处的5起典型违纪违法案件，片长30分钟。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/JbgO-fxsqxxs8091475.jpg" rel="attachment wp-att-514120"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/JbgO-fxsqxxs8091475.jpg?resize=500%2C375" alt="JbgO-fxsqxxs8091475" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/JbgO-fxsqxxs8091475.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/JbgO-fxsqxxs8091475.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>长江日报记者高萌 摄</span></p>
-<p>在座谈会上，武汉市妇联党组书记、主席徐丽宣读了“家庭助廉倡议书”。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rf4F-fxsrkwk3345309.jpg" rel="attachment wp-att-514119"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rf4F-fxsrkwk3345309.jpg?resize=500%2C375" alt="rf4F-fxsrkwk3345309" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rf4F-fxsrkwk3345309.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/rf4F-fxsrkwk3345309.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb5q-fxsqxyc1761236.jpg" rel="attachment wp-att-514118"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb5q-fxsqxyc1761236.jpg?resize=500%2C333" alt="bb5q-fxsqxyc1761236" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb5q-fxsqxyc1761236.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/bb5q-fxsqxyc1761236.jpg?w=500 500w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><span>长江日报记者高萌 摄</span></p>
-<p>随后，各新任市管领导干部家属代表依次发言。</p>
-<p><strong>　　杨胜红</strong></p>
-<p><strong>　　汉阳区委常委、组织部部长、统战部部长陈革鸿妻子</strong></p>
-<blockquote><p>观看影片后，受益匪浅。这次座谈会真正体现了“严管就是厚爱”，期望经常举办。我爱人出生农村家庭，自己的勤奋打拼和组织信任才走上如今岗位，定需倍加珍惜。</p>
-<p>我经常跟丈夫说，一家三口，生活要求不高，千万不要因为钱财而被别人牵着鼻子走。不做亏心事，不留骂名。我将始终恪守严谨家风：当明白人，修身齐家，不拖后腿；当正派人，勤俭持家，不好攀比；当清醒人，廉洁治家，不贪钱财。</p></blockquote>
-<p><strong>　　卢昌燕</strong></p>
-<p><strong>　　武汉市纪委研究室（法规室）主任杨峰妻子</strong></p>
-<blockquote><p>这次活动很有意义，十分必要。在此，我向组织表态，在丈夫廉政问题上当好三个角色，做到端正家风、廉洁齐家。一是要做知足的贤妻；二是要做铁面的将军；三是要做啰嗦的唐僧。</p></blockquote>
-<p><strong>　　高波</strong></p>
-<p><strong>　　武汉市委市直机关工委副书记赵利洪妻子</strong></p>
-<blockquote><p>和赵利洪同志组建家庭20多年来，我坚持做好以下三点：一是把家建设成稳固可靠的后方基地；二是坚持让他保持一种身心轻松的工作状态；三是保持我自己独立的人格个性。</p>
-<p>感谢中央从严治党，感谢整个环境的改善，我丈夫在家的时间更多了，和家人接触和交流的时间更长了，精神面貌更好了。</p></blockquote>
-<p><strong>　　陈晓玥</strong></p>
-<p><strong>　　武汉市环保局局长、党组书记李湛妻子</strong></p>
-<blockquote><p>我和李湛结婚十年来，工作上两人一直忙忙碌碌，但我们都重视家庭价值，性格恬淡，尽量避免应酬。</p>
-<p>今天座谈会让我深切感受到武汉市对干部的严管和厚爱。我愿意加入到监督者行列，把组织对丈夫的监督从工作上延伸到生活中，做好身边人该做的事，为他廉洁从政营造良好的家庭氛围。</p></blockquote>
-<p><strong>　　唐蕾</strong></p>
-<p><strong>　　武汉市食品药品监督管理局局长、党组书记姚彬妻子</strong></p>
-<blockquote><p>作为一名领导干部妻子，我认真履行“家庭纪委书记”职责，严守家庭防线，营造清廉环境。</p>
-<p>结合自身实际，我就家庭助廉工作中的一些体会汇报如下：一要提高自身修养，营造清廉环境；二要摆正角色位置，维护良好形象；三要严守家庭防线，做好助廉工作。风正民心顺，家和万事兴。我决心从自我做起，从家庭做起，用实际行动铸就反腐倡廉的坚固防线。</p></blockquote>
-<p>家属发言后，武汉市纪委副书记、监察局局长刘全保说：</p>
-<blockquote><p>这次活动搞对了，对我们各位都是一次受教育的机会，我希望这种活动以后要坚持下去。各位家属感触很深，思想境界很高。与新任领导干部家属的谈话，这还是近些年来的第一次。领导干部在前方工作很辛苦，家属同志如何把后方搞好，建造一个温馨的家庭环境，这次活动对此很有意义。希望各位家属一如既往地支持我们领导干部的工作。</p>
-<p>一、家是领导干部廉洁从政的后方堡垒；二、守住廉洁底线，就是守护家庭的幸福；三、以更高的标准抓好家庭建设。</p>
-<p>各位家属应多议论一些积极向上的，少一些攀比，始终要记得“严是爱，宽是害”，绷紧政治弦，做明白人。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/linpeiman?refer_flag=0000015012_&from=feed&loc=nickname" target="_blank">@林沛满</a>：上次说精神病院的患者都被要求背24字社会主义核心价值观，是否也是这个地方啊？太搞了。</p>
-<p><a href="http://weibo.com/n/%E4%B8%BB%E8%A7%82%E5%AD%99%E9%9C%87%E5%AE%87" target="_blank">@主观孙震宇</a>:喜剧的最高层次就是一本正经地搞笑。</p>
-<p><a href="http://weibo.com/2810398295" target="_blank">@还我德赛</a>：原来干部都是泡夜店不回家的呀，这会开的好有喜感，太他妈搞笑了<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1239435712" target="_blank">@qhhy777</a>：活寡联谊会<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1931853487" target="_blank">@缤纷乐2011</a>：是谁出的馊主意，智商为负<img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3899348032" target="_blank">@雪中带刀行</a>：好搞笑啊这些人，仿佛在说：感谢从严治党，从此老公不嫖娼。<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1942629467" target="_blank">@爱gag的骷髅兵</a>：内裤选得好，老公回家早；中央管得好；老公回家早。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@老何BA: 家属也是按照老公的级别排座位吧</p>
-<p>@曲水白云间：感觉像声讨二奶会</p>
-<p>@用户5281568362：一个个哭丧着脸，真心感谢伟大的党</p>
-<p>@老李66100：这些家属的意思是说党的干部还不如普通群众更顾家？</p>
-<p>@sishibin：小三下岗很多，表示抗议</p>
-<p>@卡先生在52Hz：终于有了夫妻生活 感恩国家</p>
-<p>@seavonkid：以前丈夫每晚都不知道在哪里忙活忙活</p>
-<p>@贫僧刚还俗：情妇也感谢从严治党，情夫给的时间虽然少了，但是给的钱更多了</p>
-<p>@GeorgeSir1573：宫廷戏都无聊到如此地步了</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%B2%E9%83%A8%E5%A6%BB%E5%AD%90%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%EF%BC%8C%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7%E5%A4%A7%E5%8F%91/?category=18271" rel="tag">党性大发</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AA%E6%B1%A1%E8%85%90%E8%B4%A5/?category=18271" rel="tag">贪污腐败</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -772,7 +746,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -782,5 +756,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E7%8E%8B%E9%83%A8%E9%95%BF%EF%BC%8C%E6%88%91%E5%B0%B1%E9%97%AE%E4%BD%A0%E6%89%93%E8%80%81%E5%A9%86%E5%AD%A9%E5%AD%90%E4%BA%86%E6%B2%A1/" target="cdt-mirror">【河蟹档案】王部长，我就问你打老婆孩子了没</a>
@@ -262,7 +262,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E5%85%AD%E5%9B%9B%E6%88%90%E4%B8%BA%E4%B8%A4%E5%B2%B8%E4%B9%8B%E9%97%B4%E6%B0%B8%E4%B9%85%E7%9A%84%E9%9A%BE%E8%A8%80%E4%B9%8B%E9%9A%90/" target="cdt-mirror">蔡英文：不要让六四成为两岸之间永久的难言之隐</a>
 </h2>
@@ -282,7 +282,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%EF%BC%8C%E9%A6%99%E6%B8%AF%E6%B0%91%E8%BF%90%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%88%86%E6%AD%A7%E4%B8%8E%E7%9F%9B%E7%9B%BE/" target="cdt-mirror">纽约时报｜纪念六四，香港民运人士谈分歧与矛盾</a>
 </h2>
@@ -764,5 +764,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

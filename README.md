@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%EF%BC%8C%E9%A6%99%E6%B8%AF%E6%B0%91%E8%BF%90%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%88%86%E6%AD%A7%E4%B8%8E%E7%9F%9B%E7%9B%BE/" target="cdt-mirror">纽约时报｜纪念六四，香港民运人士谈分歧与矛盾</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg?resize=575%2C383" alt="李卓人，立法会议员、抗议领袖 " srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg?resize=300%2C200 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>李卓人，立法会议员、抗议领袖／Lam Yik Fei for The New York Times</span></p></div>
+<p>香港——过去26年来，每逢6月4日，数以万计的香港人都会聚集在维多利亚公园参加年度烛光集会活动，纪念在北京军事镇压抗议活动时身亡的民主示威者。来自中国大陆的活动人士、香港学生领袖以及政界人士会共同宣布，他们将团结一致，继续争取中国的政治变革。</p>
+<p>但今年不同。香港最大的学生组织称将不再参加这一纪念活 动。本地年轻人愈发关注首先在香港实现更广泛的民主和自治，一些人甚至呼吁从中国独立。本周六为当年镇压事件的纪念日，在此之前我们采访了几位政界人士和 学生，询问了他们对这个半自治地区的民主运动中不断增加的分歧以及运动该如何继续的看法。这里是他们的回答。</p>
+<p><b>李卓人，立法会议员、抗议领袖</b></p>
+<p>“我可以被称作是1989年那一代的人，因为那个时候我们所有的人都倾注了我们全部的热情，全部的理想。”59岁的李卓人说。1989年天安门抗议事件的最后几天，李卓人在北京。“那场中国学生发起的民主运动中所承载的对民主的渴望，我们都感同身受。”</p>
+<p>李卓人是工党的一名议员，曾任香港市民支援爱国民主运动联 合会主席（Hong Kong Alliance in Support of Patriotic Democratic Movements of China，简称支联会）。在对北京抗议者的同情之中，1989年5月，支联会成立，它也是维多利亚公园烛光集会活动的主要组织机构。天安门的镇压行为被 中国政府称为是对“<a href="http://www.nytimes.com/1989/06/04/world/crackdown-beijing-troops-attack-crush-beijing-protest-thousands-fight-back.html?pagewanted=all&version=meter+at+0&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=http%3A%2F%2Fcms.em.nytimes.com%2Fcontent%2Fpublish%2Fpreview%3FcontentId%3D100000004444408%26branchName%3Dweb&priority=true&action=click&contentCollection=meter-links-click" target="_blank" rel="nofollow">反革命暴乱</a>”进行的必要压制。在镇压行为之后，支联会呼吁“平反八九民运、追究屠城责任、结束一党专政、建设民主中国”。</p>
+<p>“这不是一个身份问题，”李卓人说。“这是一个策略问题。 如果我们想掌握香港未来的话语权，我们需要推翻这个一党专政的国家。我们需要改变中国，那我们可以和谁联合起来呢？就是那些在中国的人。要允许有公民社 会、抗议行动、维护人权行动、宗教活动、劳工运动的存在。如果我们可以为这些民主活动助力，并给予支持，那么我们就可以拥有未来。这同我们在香港的运动息 息相关。”</p>
+<p><b>黄洋达，社会活动人士</b></p>
+<p>黄洋达，37岁，是另行举办的六四集会的组织者。这些活动 的范围从2014年的一个街区扩大到了今年的五个。他创立的政治组织“热血公民”，是与中国大陆背道而驰的本土派运动的一部分。他的党派呼吁通过修改《基 本法》给予香港更大的自治权。《基本法》是在“一国两制”的原则下制定的小宪法，确认了1997年香港的回归。</p>
+<p>“要求平反六四这个纲领很弱，”他说道。“那时在北京的学生追求的是政治改革，不是要避免被称作动乱分子。要中共为学生平反只是认同其合法性。”</p>
+<p>“这同时亦变相承认香港对中国只为附庸角色，”他说。“要是我们继续让支联会散播这种意识，对香港本土民主运动会有害。”</p>
+<p>“我另举办六四集会不只是要挑战支联会，而是要想化愤怒为行动。我们今年在五区举办五个集会。焦点是要记着六四及认识中共政权的面目，和去争取我们的主权和自治。我们要修改宪法。”</p>
+<p><b> 刘慧卿，立法会议员</b></p>
+<p>63岁的刘慧卿是香港民主党现任主席。1991年，她成为 香港首位通过直选进入立法局的女性议员。在当时的竞选中，对天安门抗议表示同情的候选人以压倒性的优势取得胜利。其中不少人后来成为了香港民主运动的主 干。2014年，刘慧卿参与了争取普选的街头抗议，抗议呼吁让公民在选举行政长官的过程中发挥更大的作用，这场抗议后来以雨伞运动为人所知。</p>
+<p>“六四发生时，如今的许多年轻人还未出生，但他们知道这件事，因为老师、父母或者亲戚朋友告诉了他们，”她说，“他们认为这是国家的耻辱。所以应该得到重视。”</p>
+<p>“如果北京能采取行动回应这两件事——六四大屠杀和香港争取普选的抗议，我想许多香港人会愿意接受在“一国两制”之下，做香港的“中国人”。这样对香港有利，对中国的其他部分也是。”</p>
+<p>“如果北京方面愿意信守承诺，自我约束，允许香港真正地享有高度自治，那么要求独立的人会相应地减少。”</p>
+<p><b> 黄之锋，学生领袖</b></p>
+<p>19岁的黄之锋是2014年街头抗议中的学生领袖。2016年，他成立了一个新的政党——香港众志，推动对香港的政治未来进行<a href="http://cn.nytimes.com/china/20160218/c18hongkong/" target="_blank" rel="nofollow">公投</a>。他将会参加维园的六四烛光集会。</p>
+<p>“近几年来，这一代人不到维园的原因是，他们感到上一代泛民已经不能代表他们。”他说，“数年前，支联会还在唱中国梦，甚至龙的传人这一类的歌。这是上一代人的中国民族情怀。我们这一代，成长时见证中共如何骑劫中国人这个身份，令我们难以对此表示认同。”</p>
+<p>他还称，“我们最重要的目的是要告诉人们追求自决的重要。六四启动了香港的民主运动浪潮，而雨伞运动就开展了第二波浪潮。”</p>
+<p><em>欢迎在Twitter上关注本文作者<a href="https://twitter.com/alanwongw?version=meter+at+13&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=&priority=true&action=click&contentCollection=meter-links-click" target="_blank" rel="nofollow">@alanwongw</a>。<br>
+翻译：纽约时报中文网<br><a href="http://www.nytimes.com/2016/06/04/world/asia/hong-kong-china-tiananmen.html" target="_blank" rel="nofollow">点击查看本文英文版。</a></em></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%EF%BC%8C%E9%A6%99%E6%B8%AF%E6%B0%91%E8%BF%90%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%88%86%E6%AD%A7%E4%B8%8E%E7%9F%9B%E7%9B%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91%E5%85%AC%E6%8A%95/?category=18271" rel="tag">全民公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%90%AF%E5%8A%A8%E4%B8%80%E7%BA%A7%E8%B6%85%E5%B8%B8%E9%98%B2%E6%8E%A7%E5%BA%94%E5%AF%B9%E5%85%AD%E5%9B%9B27%E5%91%A8/" target="cdt-mirror">自由亚洲｜北京启动“一级超常防控”应对六四27周年</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg?resize=450%2C600" alt="北京居委会发出的“6.4”安保通知。（志愿者提供/记者乔龙）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>北京居委会发出的“6.4”安保通知。（志愿者提供/记者乔龙）</span></p></div>
@@ -51,7 +84,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%82%B9%E6%80%9D%E8%81%AA%E7%9A%84%E6%96%B0%E9%97%BB%E7%AC%94%E8%AE%B0%EF%BD%9C%E5%9B%BE%E8%A7%A3%E7%8E%8B%E6%AF%85%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%98%EF%BC%8C%E5%A4%96%E5%AA%92%E6%80%8E/" target="cdt-mirror">邹思聪的新闻笔记｜图解王毅外长的幽默，外媒怎么会懂？</a>
 </h2>
@@ -689,52 +722,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%9B%BD%E6%96%B0%E5%8A%9E%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8E%E4%BA%BA%E6%89%93%E8%B5%B7%E4%BA%86%E5%8F%A3%E6%B0%B4%E4%BB%97/" target="cdt-mirror">【立此存照】国新办在推特与人打起了口水仗</a>
-</h2>
-<p><p>中国国务院新闻办公室在推特的<strong>官方账号 </strong><a href="https://twitter.com/chinascio/" target="_blank">@chinascio</a>，近日因频频与西藏活动人士在推特打嘴仗而引起不小的关注。由于该账号屡屡出言不逊，许多推特用户甚至都不能确定该账号的真实性。</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png" rel="attachment wp-att-515125"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png?resize=500%2C170" alt="greatfire" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png?resize=300%2C102 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png?resize=768%2C261 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png?resize=1024%2C348 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/greatfire.png?w=1548 1548w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p>@GreatFireChina:恶搞帐号？像@relevantorgans 那样的？还是真帐号？如果是后者，有谁帮忙打110吧他们需要帮助。<br>
-//@chinascio: 老兄你去过西藏吗？</p></blockquote>
-<p>经中国数字时代编辑查证，<strong><a href="http://www.scio.gov.cn/" target="_blank">国新办官方主页</a>中的官方推特帐号链接的确指向了@chinascio</strong> (https://twitter.com/chinascio)。<strong>这名与西藏活动人士在推特打口水仗，要对方去“自己照照镜子”的用户，就是如假包换的国新办官方推特帐号</strong>：</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B9%E5%B8%90%E5%8F%B7.jpg" rel="attachment wp-att-514577"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B9%E5%B8%90%E5%8F%B7.jpg?resize=610%2C252" alt="国新办推特帐号" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特帐号.jpg?resize=300%2C124 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特帐号.jpg?resize=768%2C317 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特帐号.jpg?resize=1024%2C423 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特帐号.jpg?w=3140 3140w" sizes="(max-width: 610px) 100vw, 610px" data-recalc-dims="1"></a><p><span>国新办官方推特帐号链接的确指向了@chinascio；网页源码查询工具截图（点击查看大图）</span></p></div>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E4%B8%BB%E9%A1%B5.jpg" rel="attachment wp-att-514588"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E4%B8%BB%E9%A1%B5.jpg?resize=500%2C193" alt="国新办主页" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办主页.jpg?resize=300%2C116 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办主页.jpg?resize=768%2C296 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办主页.jpg?resize=1024%2C394 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办主页.jpg?w=3096 3096w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>国新办主页页首截图</span></p></div>
-<p><strong>中国数字时代编辑将该账号近日部分嘴仗语录译成中文（附截图）：</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B91.png" rel="attachment wp-att-515001"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B91.png?resize=450%2C769" alt="国新办推特1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特1.png?resize=768%2C1312 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特1.png?resize=599%2C1024 599w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特1.png?w=1200 1200w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<blockquote><p>@sanverde @Travis_M Long way to go, China will be a hub to attract more talents, Chinese talents and foreign talents<br>
-（任重而道远，中国终会成为一个吸引更多人才的枢纽，包括中国人才和外国人才）</p>
-<p>@BhoRangzen @ProfJonTaylor @Tibetans Yeah we see that coming, when you’re out of words you just start to slander and curse, BTW, who pays u?<br>
-（我们就知道你会这么说，没话讲了你只能污蔑谩骂了。<strong>顺便问句，谁在付你钱？</strong>）</p>
-<p>@raghavan1314 @XHNews Unite we stand, depart we fall<br>
-（团结则存分裂则亡<译者注：原文语法混乱，其实是不通的。正确版本为“United we stand. Divided we fall.”>）</p>
-<p>@BhoRangzen @Tibetans We are proud of our country, not because we’re paid, because we love, but for you, did you just use Ctrl+C and Ctrl+V?<br>
-（我们为自己的国家自豪，不是因为我们收了钱，而是因为爱。但你的话，你只是复制黏贴吧？）</p>
-<p>@BhoRangzen @ProfJonTaylor Are you a repeater? So you’ve got nothing but repeating those hatred words, truth ain’t lie dude, know yourself<br>
-（<strong>你是复读机吗？</strong>除了重复那些仇恨话语其他什么都说不出来。真相不是谎言，老兄。<译者注：不能肯定 know yourself 在这里的意思。“好自为之”？>）</p>
-<p>@BhoRangzen Wait for 10+ years before you make the judgements: who is pushing forward peace and who is being obstacle and messing things up<br>
-（等上10年再来断言：谁在推动和平，而谁又在阻碍、在捣乱？）</p>
-<p>@BhoRangzen @kmgupta_india The seeds of tomorrow are rooted deeply in the heart, although someone’s heart is drying up because of hatred<br>
-（未来的种子深埋于内心，然而有些人的心已经因为仇恨干涸了。）</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B92.png" rel="attachment wp-att-514998"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B92.png?resize=450%2C222" alt="国新办推特2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特2.png?resize=300%2C148 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特2.png?resize=768%2C379 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特2.png?resize=1024%2C505 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特2.png?w=1558 1558w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B93.png" rel="attachment wp-att-514994"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%9B%BD%E6%96%B0%E5%8A%9E%E6%8E%A8%E7%89%B93.png?resize=450%2C322" alt="国新办推特3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特3.png?resize=300%2C215 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特3.png?resize=768%2C550 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特3.png?resize=1024%2C733 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/国新办推特3.png?w=1558 1558w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<blockquote><p>@BhoRangzen @tibetan Legitimacy don’t run away dude, and never try to represent the rest of world, look at the mirror and know who you are<br>
-（合法的<达赖喇嘛>是不会逃跑的，老兄。永远也不要代表全世界，<strong>照照镜子看看自己是谁吧</strong>。）</p>
-<p>@BhoRangzen Exactly, why don’t u prove yourself a Tibetan, not a “Bird in a Golden Cage” raised by someone, dare you?<br>
-（对啊，你为什么不证明自己真的是西藏人，而不是<strong>别人养的“金丝雀”</strong>？你敢吗？）</p>
-<p>@BhoRangzen @Tibetans Every year foreign journalists are invited and organized to report Tibet, don’t use your ignorance to cover up timid<br>
-（每年都有外国记者被邀请来报到西藏，不要用你的无知掩饰自己的怯懦。）</p>
-<p>@BhoRangzen @Tibetans Again, don’t try to hype things up with fabricated pictures or other cheeky moves. You don’t represent Tibet AT ALL<br>
-（再重复一次，不要用虚假图片来炒作或做其他无耻的举动。你根本就不能代表西藏！）</p>
-<p>@BhoRangzen @Tibetans This kind of picture can be forged easily with PS, just admit it. The method you are using now is pointless<br>
-（这种照片很容易用PS造假的，承认吧。你的手段是毫无意义的。）</p>
-<p>@BhoRangzen @Tibetans Are u a Tibetan yourself? Go make a survey in Tibet at first before you talk the nonsense<br>
-（你自己是西藏人吗？去西藏自己做个调查再来这儿胡扯。）</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%9B%BD%E6%96%B0%E5%8A%9E%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8E%E4%BA%BA%E6%89%93%E8%B5%B7%E4%BA%86%E5%8F%A3%E6%B0%B4%E4%BB%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/twitter/?category=18271" rel="tag">Twitter</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%96%B0%E5%8A%9E/?category=18271" rel="tag">国新办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A8%E7%89%B9/?category=18271" rel="tag">推特</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -746,7 +733,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/twitter/?category=
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -756,5 +743,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/twitter/?category=
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

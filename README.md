@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%94%98%E8%82%83%E6%9F%90%E5%9C%B0%E5%8D%AB%E8%AE%A1%E5%B1%80%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%9A%84%E4%BA%BA-%E5%9B%BD/" target="cdt-mirror">【立此存照】甘肃某地卫计局：我们是国家的人 国家会收拾你的</a>
@@ -58,7 +58,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%8A%A1%E5%91%98/?category=18271" rel="tag">公务员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">利益集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%A0%95%E8%83%8E/?category=18271" rel="tag">强制堕胎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E5%BC%95%E4%BA%A7/?category=18271" rel="tag">强制引产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%9D%8E%E5%BF%97%EF%BC%9A%E3%80%8A%E5%B9%BF%E5%9C%BA%E3%80%8B%EF%BC%88%E5%A4%96%E4%B8%80%E9%A6%96%EF%BC%89/" target="cdt-mirror">【CDTV】李志：《广场》（外一首）</a>
 </h2>
@@ -204,7 +204,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91%E5%85%AC%E6%8A%95/?category=18271" rel="tag">全民公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%90%AF%E5%8A%A8%E4%B8%80%E7%BA%A7%E8%B6%85%E5%B8%B8%E9%98%B2%E6%8E%A7%E5%BA%94%E5%AF%B9%E5%85%AD%E5%9B%9B27%E5%91%A8/" target="cdt-mirror">自由亚洲｜北京启动“一级超常防控”应对六四27周年</a>
 </h2>
@@ -750,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -760,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

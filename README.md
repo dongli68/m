@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,78 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%87%91%E8%89%B2%E7%AC%94%E8%AE%B0-%E6%8B%92%E7%BB%9D%E6%AD%BB%E4%BA%A1%E7%9A%84%E8%AE%B0%E5%BF%86/" target="cdt-mirror">金色笔记 | 拒绝死亡的记忆</a>
+</h2>
+<p><p>那一年，6月。这个全国最大的广场上，聚集了很多人。成千上万的人。</p>
+<p>人们来到这里，没有组织，没有约定。他们从全城，从全国，来到这里，为了心中的记忆，埋藏了很久但没有死亡的记忆。</p>
+<p>很多人拿着花。许多人拿着一枝红色的石竹。他们把花贴在胸前。在初夏的阳光下，花瓣非常红，红得像鲜血。就像一首诗里写得那样。那首诗写在33年前，写一个骤然倒下的年轻人：<br>
+他害羞地阖上了深黑的眼睛，</p>
+<p>一朵红色的花朵开放在胸前；</p>
+<p>一个微笑还凝固在他吃惊的嘴角，</p>
+<p>他仿佛在甜蜜的家中静静地安眠…</p>
+<p>写这首诗的人叫托马斯奥扎格兰德，那一年他十八岁，高中还没有毕业，在刚刚成立的《匈牙利独立报》做临时工。秋天，他和许多普通人一样，走上街头。后来有一天，他看到和他一样的年轻人，在他眼前倒下。于是他写了这首诗。</p>
+<p>那是1956年的匈牙利。十月，匈牙利的民众一个个站起来，大声说出他们想说的话。在民众的要求下，政府总理下台了。新上任的总理是温和的共产党人，农民的儿子纳吉。</p>
+<p>纳吉在广播里向匈牙利﹑向全世界说，匈牙利将会挣脱强权的约束。每一个匈牙利公民，都应该有，“一个自由人的权利。”</p>
+<p>苏联被激怒了。已经撤离的军队又回到匈牙利。</p>
+<p>一千辆坦克隆隆碾过布达佩斯。</p>
+<p>2500到3000匈牙利人死于这场镇压。2万人被捕，入狱和流放。20万匈牙利难民，逃亡异国他乡。</p>
+<p>总理纳吉被捕，匈牙利换了新的总理。1958年，纳吉被秘密处决。</p>
+<p>1956年之后的匈牙利，大约是铁幕国家最幸运的一个。它的政治和经济，没有多少大的动荡。</p>
+<p>鲜血变成了泥土，旗帜化为灰烬。一切归于平静，没有波澜的平静，像死亡一样。</p>
+<p>没有死亡的只有记忆。1963年，一些在美国科罗拉多的匈牙利难民，给丹佛市长写信，希望建立一个纪念匈牙利事件的公园。1966年，丹佛的阿灵顿公园改名匈牙利自由公园。</p>
+<p>一座纪念碑在匈牙利自由公园竖起。纪念碑上方是一座雕像，是一个人的身体，被布盖着的身体。雕像也许会让有些人想起，他们最后一次见到的亲人，在那一年，在那几天。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-1.jpg?resize=428%2C295" alt="匈牙利自由公园雕像" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-1.jpg?w=428 428w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-1.jpg?resize=300%2C207 300w" sizes="(max-width: 428px) 100vw, 428px" data-recalc-dims="1"><p>匈牙利自由公园雕像</p></div>
+<p>纪念碑背面，是林肯葛底斯堡演讲的一句话：“我们在这里向死者宣誓，你们不会白白地死去。”</p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<section><section>下面是一段匈牙利诗人弗洛斯马提的诗：</section><section></section><section>从心里淌出的血，</section><section>不会白白流尽；</section><section>这些为祖国消失的生命，</section><section>历史会听到他们的声音。</section><section></section><section>在诗的下面，后来，20多年后，添了一个铜牌，上面写着：</section><section></section><section>匈牙利的胜利：</section><section>1990年3月25日，匈牙利自由选举</section><section>1991年6月29日，苏联军队撤出匈牙利</section><section></section><section>在1990年自由选举之前，匈牙利已经开始渐渐苏醒。当匈牙利人民刚刚开始有自由时，他们做的第一件事是：为当年倒下的人们，举行一个葬礼。这就是本文开始的一幕: 19xx年6月，在匈牙利的英雄广场上，10万匈牙利人，参加了纳吉和其他四位被杀戮的政治家的葬礼。</section><section></section><section>纳吉被秘密处决后，被葬在一个荒远的无名墓地。当人们打开他的墓穴时，看到的是纳吉面朝下躺着，双手和双脚上绑着带刺的铁丝。</section><section></section><section>从1956年到1989年的33年间，纳吉的名字悄悄地传遍了世界各地。1976年四月，中国发生了天安门事件。被镇压后，《人民日报》发表社论，为天安门事件定罪。其中提到了纳吉的名字，称邓是“中国的纳吉“。</section><section></section><section>历史证明这篇社论很多不符合事实，包括其中认定邓是中国的纳吉的断言。邓没有成为中国的纳吉：历史可以非常相似，但人在相似的历史前，可以做出很不相似的选择。</section><section></section><section>纳吉和其他四位烈士被埋葬在英雄广场。这个广场有无名烈士墓，还有许多英雄的塑像——匈牙利一千年历史上的英雄。</section><section></section><section>很多匈牙利人都认为，他们民族的祖先是东方的游牧民族。不知道是否因为这个原因，这个民族对自由永远无法忘却。匈牙利曾经被击倒﹑被约束﹑被奴役，统治他们的有奥斯曼帝国，奥地利哈斯堡王朝，纳粹德国，还有1949-1989的强大政权；但匈牙利人一次次推翻暴政，一次次用生命追求自由。</section><section></section><section>匈牙利的诗人和勇士裴多菲写过全世界都听到过的一首诗：“生命诚可贵，爱情价更高；若为自由故，二者皆可抛。“裴多菲死于1848年反抗奥地利的起义，抛下了他挚爱的，年轻美丽的妻子。这个看上去并不彪悍的诗人战士，血管里应该流着草原牧民的血。</section><section></section><section>法国作家维克多雨果说：“匈牙利是一个英雄的民族。德国代表德行，法国代表解放，意大利代表光荣。而匈牙利，是勇气的化身。“</section><section></section><section>每个民族都有自己的英雄。匈牙利有众多的英雄被世界知道，也许是因为，匈牙利从没有忘记自己的英雄。英雄可以倒下，死去，碾碎。但总有记忆，对英雄的记忆，英雄一样的记忆，倔强地生存下来。</section><section></section><section>在19xx年英雄广场的葬礼上，除了纳吉和其他四位烈士，人们宣读了所有1956年到1961年被处决的人，260个人。每读到一个名字，就有一个火炬手走向前去，高举火炬，大声回答：“他在我们中间，他从没有离去。”</section><section></section><section>这是一个英雄的民族，因为这个民族的记忆，拒绝死亡的记忆。</section><section></section></section></div>
+</div>
+</div>
+</div>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%87%91%E8%89%B2%E7%AC%94%E8%AE%B0-%E6%8B%92%E7%BB%9D%E6%AD%BB%E4%BA%A1%E7%9A%84%E8%AE%B0%E5%BF%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%88%E7%89%99%E5%88%A9/?category=18271" rel="tag">匈牙利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%88%A9/?category=18271" rel="tag">权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E5%90%89/?category=18271" rel="tag">纳吉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1/?category=18271" rel="tag">自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E8%81%94/?category=18271" rel="tag">苏联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E5%9B%BD%E8%AF%AD%E6%B0%94/" target="cdt-mirror">【图说天朝】“大国”语气</a>
+</h2>
+<p><p>【编者注】在这份网络流传的蛇口派出所的英文通知中，最后一句“谢谢”是唯一正确的句子。语气倒也<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/" target="_blank">似曾相识</a>。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6fbb35ebjw1f4h5197nqhj20qo0zkjwl.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6fbb35ebjw1f4h5197nqhj20qo0zkjwl.jpg?resize=450%2C600" alt="6fbb35ebjw1f4h5197nqhj20qo0zkjwl" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6fbb35ebjw1f4h5197nqhj20qo0zkjwl.jpg?w=960 960w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6fbb35ebjw1f4h5197nqhj20qo0zkjwl.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6fbb35ebjw1f4h5197nqhj20qo0zkjwl.jpg?resize=768%2C1024 768w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博<a href="http://weibo.com/therealslimshady" target="_blank">@realslimshady23</a></span></p></div>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/2556913530" target="_blank">@教授今天醒了吗</a>：这语气也是醉，语法错误不说，那种“你们这些鬼佬要想好好呆着就他妈给我老实点，快点过来登记不然劳资敢罚到你妈都不认识”的语气<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p>@僧值不动我不动：翻译：亲爱的国际友人，你好，我是你爹，谢谢。</p>
+<p><a href="http://weibo.com/n/%E7%86%8A%E7%8C%AB%E5%8D%81%E4%B8%89%E5%B0%91?from=feed&loc=at" target="_blank">@熊猫十三少</a>:翻译：到老子这来老子说了算！不服憋着！<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9089.png?resize=20%2C20" px data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1009914794" target="_blank">@kimcekagawa</a><i></i>：先不说大量的语法错误<img title="[打脸]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/dalian_org.gif" alt="[打脸]" data-recalc-dims="1">用no matter几乎就等于威胁恐吓了，还有什么问题<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">上过小学吗？</p>
+<p>@蔡蚱蜢仁波切：翻译一下：所有的歪果仁听好了，不管你（特么）是谁、不管你（特么）哪国人，你现在在中国，所以要（乖乖）遵守中国法律，一周之内到当地派出所去登记，否则处以2000人民币罚款。一周之后，对没有登记的重拳出击。谢谢（配合）了！</p>
+<p><a href="http://weibo.com/1787187767" target="_blank">@铁皮屋顶上的猫-</a>：倒是把他们平时的口气作风惟妙惟肖的反应了出来<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/fredaluo" target="_blank">@Freda蕾</a><i title="微博达人"></i>：big  operation!问你怕末<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><strong>@怒边阿布:辩证师你好，只是语法语气不好就可以忍？一个“大国”官方通知可以这么写？你早上穿的人模狗样出门，对楼下保安说“你好”，保安说“你个肏屁眼的，你也好啊，今天也要加油哦你个傻逼，谢谢。”你想“道理没错，嗯。”</strong></p>
+<p><a href="http://weibo.com/2857084361" target="_blank">@littlegruntingpig</a>：估计如果在美国海关，有张纸用中文写着 不管你是谁你从哪来，你在美国就得登记 很多人又要炸了，说种族歧视了吧。。没礼貌就是没礼貌啊，好歹一个国际化大城市的海关，写这样的公告<img title="[汗]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]" data-recalc-dims="1"><img title="[汗]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]" data-recalc-dims="1"><img title="[汗]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/kabasyou" target="_blank">@卡卡迦_</a>：为什么我觉得翻译的挺好的<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">把中国警察屌炸天的感觉翻的那叫一个淋漓尽致，就差每句前面加个I don’t give a fuck了<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/memorytime" target="_blank">@April———Rain</a><i></i>：<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">，一洗当年八国联军之耻。</p>
+<p><a href="http://weibo.com/trickme" target="_blank">@破灭型黑月罪歌</a>：还u can u up呢，小粉红的强国不还是被这群脑子没长出来的反智主义者洗成今天这样的<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">错了不认，你挑错你就是装逼，放什么洋屁呢对吧我又不懂英语<img title="[哆啦A梦微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/jqmweixiao_org.gif" alt="[哆啦A梦微笑]" data-recalc-dims="1"></p>
+<p>@聖寶劍橡葉騎士:民主政府爱人民呀，xxx的恩情说不完安，呀吼嘿吼一个呀黑。</p>
+<p>@寒铁冰魄：评论有意思的是很多认为「没什么」的人根本意识不到这英语写得多烂</p>
+<p>@panda大波浪妹子：所以说官方告示可以这样写咯？警察局以为自己是街头混混么？</p>
+<p>@Kevin大树：#粤语翻译# 死鬼佬:唔理你地系边嗰，系边度来，反正你地咦家在我地天朝。甘哩，你地就要守埋我地天朝嗰地条例，和我地蛇口警署度留埋地私人资料，如果唔系就交埋两千蚊人头纸。同你地讲好先啊，壹嗰礼拜限期内登记晒。返转头我地警署要出工拉人，嗰地唔登记的扑街死鬼佬等住吃牢饭啊！记住未啊？唔该啦</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%A4%A7%E5%9B%BD%E8%AF%AD%E6%B0%94/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%94%98%E8%82%83%E6%9F%90%E5%9C%B0%E5%8D%AB%E8%AE%A1%E5%B1%80%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%9A%84%E4%BA%BA-%E5%9B%BD/" target="cdt-mirror">【立此存照】甘肃某地卫计局：我们是国家的人 国家会收拾你的</a>
 </h2>
 <p><p>近日，甘肃省<a href="http://weibo.com/1585310531/Dy26Z0Ymr?type=comment#_rnd1465021978834" target="_blank">@陇南成县卫生计生局</a>官方微博账号在面对网民批评时，放出了<strong>“我们是依法办事”、“我们是国家的人”、“妄议国家基本国策”、“国家会收拾你的”</strong>等等大招。</p>
@@ -167,6 +236,26 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
 <div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%E5%85%AD%E5%9B%9B.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%E5%85%AD%E5%9B%9B.jpg?resize=535%2C799" alt="蔡英文六四" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?w=1296 1296w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=768%2C1147 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=685%2C1024 685w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><p>蔡英文脸书账号截图</p></div>
 <hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
 <a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E5%85%AD%E5%9B%9B%E7%A7%B0%E4%B8%BA%E4%B8%A4%E5%B2%B8%E4%B9%8B%E9%97%B4%E6%B0%B8%E4%B9%85%E7%9A%84%E9%9A%BE%E8%A8%80%E4%B9%8B%E9%9A%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E5%85%AD%E5%9B%9B%E6%88%90%E4%B8%BA%E4%B8%A4%E5%B2%B8%E4%B9%8B%E9%97%B4%E6%B0%B8%E4%B9%85%E7%9A%84%E9%9A%BE%E8%A8%80%E4%B9%8B%E9%9A%90/" target="cdt-mirror">蔡英文：不要让六四成为两岸之间永久的难言之隐</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=438%2C268" alt="48fe46d9jw1f4j4jod3joj20c607gq34" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?w=438 438w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=300%2C184 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=80%2C48 80w" sizes="(max-width: 438px) 100vw, 438px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博@傅国涌</span></p></div>
+<p><strong>蔡英文于六四27周年当天在脸书发文：</strong></p>
+<p>台湾许多书店的书架上，摆满了有关中国大陆琳琅满目的书籍。有许多来自对岸的朋友，会在这些书架前面停留。很多时候，他们认为，在中国看不到真实的中国，于是，他们把握机会，迫切想知道世界是怎么看待中国。</p>
+<p>在总统选举期间的电视辩论，海外的中国留学生，透过网路，看到候选人间一来一往的辩论。他们觉得，这种决定公共事务的方式很新鲜。甚至，在我个人许多竞选行程裡，我也经常看到来自中国大陆、港澳的朋友，隐身于人群之中。他们对台湾的民主选举充满好奇。多数的朋友们，在亲身经历之后发现，民主其实没有很可怕，民主是一件美好可爱的事物。</p>
+<p>如果我有机会，我想跟这些朋友说，今日台湾民主的美好，其实一路走来很艰辛。不同国家有不同民主化的路径，不过，民主不会从天上掉下来，以及，民主与人权的普世价值，是透过人民的努力来争取。这两点，是所有民主国家共同的结论。</p>
+<p>我相信，中国大陆也不例外。今天是六月四日，27年前，北京发生了天安门事件。有许多人因此失去了家人，有许多人因此而对改革失望，也有许多人，被迫离开了故乡，在海外流亡。这些，台湾都曾经经历过。这就是为什么，27年前，每一个在电视机前面看到那些画面的台湾人，心裡都能感同身受。因為我们也走过这一条路，我们比谁都能清楚体会，天安门广场的学生对民主与自由的渴望。</p>
+<p>身为总统，我不是要对对岸政治制度指指点点，而是愿意真心诚意跟对岸分享台湾民主化的经验。今日的中国大陆，经济成长的成绩有目共睹。在对岸执政党的努力之下，中国人民确实拥有比以前更好的物质生活。这一点，没有人可以否认。</p>
+<p>不过，也没有人可以否认，中国大陆内部政治和社会也正在面临转型的压力。如果对岸能够给予中国大陆人民更多的权利，世人将会给予中国大陆更多的尊敬。这是正视过去的时刻，这也是迈向未来的时刻。中国大陆正在改变。改变也正在考验执政当局的智慧。珍惜那些在书店裡找寻另一种视角的人民，珍惜那些体验过民主生活的留学生。他们很可能是让中国更往前迈进的人。</p>
+<p>不要让六四成为两岸之间永久的难言之隐。中国人民的过往的伤痛，只有对岸的执政党有能力来化解。我的责任，是保有台湾人做为民主人与自由人的身分，建构一个和平的、稳定的、一致的、可以预测的两岸关系。希望有一天，对于民主和人权的看法，两岸之间会趋向一致。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%E5%85%AD%E5%9B%9B.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%E5%85%AD%E5%9B%9B.jpg?resize=535%2C799" alt="蔡英文六四" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?w=1296 1296w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=768%2C1147 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=685%2C1024 685w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><p>蔡英文脸书账号截图</p></div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E5%85%AD%E5%9B%9B%E6%88%90%E4%B8%BA%E4%B8%A4%E5%B2%B8%E4%B9%8B%E9%97%B4%E6%B0%B8%E4%B9%85%E7%9A%84%E9%9A%BE%E8%A8%80%E4%B9%8B%E9%9A%90/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
@@ -645,100 +734,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%94%A8%E6%88%B7%E4%BD%A0%E5%A5%BD-%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9/" target="cdt-mirror">【网络民议】用户你好 我是你爹</a>
-</h2>
-<p><p>6月1日，支付宝在“六一儿童节”之际，将所有用户名称擅自加上了“宝宝”后缀，有网友称想将昵称修改，却发现支付宝在当天内禁止名称修改……支付宝强加“宝宝”此举得到了一些网友好评认为相当亲切，但也收到一些网友的批评，他们认为这种强制恶搞强制命名让他们感到不适。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7afd7eafgw1f4fi8by3saj20k00zkaeb.jpg?resize=440%2C782" alt="7afd7eafgw1f4fi8by3saj20k00zkaeb" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7afd7eafgw1f4fi8batofj20yi1pcq7e.jpg?resize=440%2C782" alt="7afd7eafgw1f4fi8batofj20yi1pcq7e" data-recalc-dims="1"></p>
-<p><strong>更新：</strong>据悉，支付宝对此已进行相应改动，昵称后面增添“宝宝”的功能仅限于6月1日当天，6月2日即可恢复正常。如果昵称里已经有宝宝字样的，也不重复增添宝宝后缀。而用户在1日晚些时候已经可以自由设置自己的昵称或将其恢复正常。</p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
-<p>@冠宇住在贝克街：生气的人是有多无聊啊？</p>
-<p>@从来就不是好人：有啥可计较的，喜欢不喜欢的明天不也就改回去了，当时六一和你开了个小玩笑就得了被。</p>
-<p>@军了个伤风 ： 挺开心的！创意满分，全当祝福！</p>
-<p>@羽田共：说不喜欢的你们是有多矫情？一点童心都没有。</p>
-<p>@从来就不是好人：有啥可计较的，喜欢不喜欢的明天不也就改回去了，当时六一和你开了个小玩笑就得了被。</p>
-<p>——————————</p>
-<p>@点上一杯：马云这是比我们都喊他爸爸嘛？</p>
-<p>@SuperHero_Timmy：不太喜欢，跟钱有关的东西，总是希望他稳定一些，太活泼了，给人不安全的感觉。</p>
-<p>@鹏小鹕：不告知就改名，还以为账户被黑了。今天能改我的名，明天会不会改我的余额？</p>
-<p>@知乎用户：支付宝总是在意想不到的时候喂人吃屎。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/469520dfeb56e2a0eaa7f714f161cafc_b.jpg?resize=450%2C800" alt="469520dfeb56e2a0eaa7f714f161cafc_b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/469520dfeb56e2a0eaa7f714f161cafc_b.jpg?resize=576%2C1024 576w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/469520dfeb56e2a0eaa7f714f161cafc_b.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
-<p>@Vela1680：如果我支付宝名字叫六四，难道给我改成六四宝宝？我名字叫结实，那就改成结石宝宝，哈哈哈 笑死了</p>
-<p>@scomper：支付宝用户名都被自动加了个「宝宝」，这是多么傻叉的产品经理决定的，童年缺失改你自己的呀。</p>
-<p>@KuYou：“用户你好，我是你爹。”最完美的诠释。</p>
-<p>@kujou_rin：支付寶給大家的名字加了一個寶寶，然後不許修改，看起來是為了慶祝六一很腦殘，但是到6月5號都不能修改暱稱，好機智。</p>
-<p>@akid_ ：刚给支付宝做了张图</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/94f24c2cjw1f4fnzd1yovj20du0cmq54_480.jpg?resize=480%2C438" alt="94f24c2cjw1f4fnzd1yovj20du0cmq54_480" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/94f24c2cjw1f4fnzd1yovj20du0cmq54_480.jpg?resize=300%2C274 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/94f24c2cjw1f4fnzd1yovj20du0cmq54_480.jpg?w=480 480w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"></p>
-<p>@WeMarketing：支付宝这个营销谁实话我不太喜欢，我感觉加个后缀图片之类还可以。目前这个直接改ID加宝宝总感觉是做过了，进了别人家的感觉。同样我也不希望微博改我的ID，即使知道是假的。</p>
-<p>@tianyuf：简单的说，那些觉得自己的支付宝昵称后面被强行加了「宝宝」二字，还非常开心的人，相当于被强奸的时候享受起来了。</p>
-<p>@avege：支付宝是傻逼啊啊啊啊啊啊我的支付宝昵称本来是霸气的【绿巨人】，现在特么的变成【绿巨人宝宝】了啊啊啊啊啊</p>
-<p>@李先的生 ：现在有一种风气，好像人们觉得嬉皮笑脸一点很符合互联网时代的风尚，到处是网络语言，符号，比如今天支付宝昵称变宝宝，支付宝作为一个财务管理软件就应该给人一种死板、严肃、不可理喻的形象。人们对于它的要求很简单，就是可依赖的信任感，这种随意更改用户昵称的活动不太可取。</p>
-<p> </p>
-<p>@TsukomiKun：支付宝强制修改用户昵称还不能修改，再一次证明了支付宝产品经理的打造产品理念<br>
-“我是你爹”。</p>
-<p>@ginoxiao: 支付宝昵称我改成功了，将“宝宝”两字去掉了。。。支付宝的产品经理真的是奇葩一样的存在，私自改用户昵称，也是第一次见识到这样的。 #活久见</p>
-<p>@ljsabc：太草了  你要是叫温家  你的支付宝昵称就会被重置</p>
-<p>@ginoxiao：支付宝昵称我改成功了，将“宝宝”两字去掉了。。。支付宝的产品经理真的是奇葩一样的存在，私自改用户昵称，也是第一次见识到这样的。 #活久见</p>
-<p>@白衣轻赏： 马上19号父亲节，你要在我昵称后面加爸爸我就原谅你了。</p>
-<p>@-脸圆圆呀：六一叫宝宝，希望父亲节支付宝叫我爸爸，国庆节叫我大大。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%94%A8%E6%88%B7%E4%BD%A0%E5%A5%BD-%E6%88%91%E6%98%AF%E4%BD%A0%E7%88%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%84%BF%E7%AB%A5%E8%8A%82/?category=18271" rel="tag">儿童节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9D%E5%AE%9D/?category=18271" rel="tag">宝宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%88%B6%E6%9B%B4%E5%90%8D/?category=18271" rel="tag">强制更名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%AF%E4%BB%98%E5%AE%9D/?category=18271" rel="tag">支付宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/?category=18271" rel="tag">用户体验</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%916%E6%9C%884%E6%97%A5-%E6%9C%89%E5%A4%A7%E4%BA%8B%E5%8F%91%E7%94%9F/" target="cdt-mirror">【图说天朝】6月4日 有大事发生</a>
-</h2>
-<p><p>@Jasper1029：【6月4日，有大事发生！！！】不懂政治的90后开始当小编了？</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Cj4VB0IUkAAJ10b.jpg?resize=600%2C500" alt="Cj4VB0IUkAAJ10b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Cj4VB0IUkAAJ10b.jpg?resize=300%2C250 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Cj4VB0IUkAAJ10b.jpg?w=600 600w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p> </p>
-<p>@zizon：”叫得尼桑就以为自己是不死鸟了”…</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Cj3lEKOUkAIyxfI.jpg?resize=450%2C800" alt="Cj3lEKOUkAIyxfI" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Cj3lEKOUkAIyxfI.jpg?resize=576%2C1024 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Cj3lEKOUkAIyxfI.jpg?w=600 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
-<div></div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%916%E6%9C%884%E6%97%A5-%E6%9C%89%E5%A4%A7%E4%BA%8B%E5%8F%91%E7%94%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/6%E6%9C%884%E6%97%A5/?category=18271" rel="tag">6月4日</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">六四事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E4%BA%8B/?category=18271" rel="tag">大事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">天安门事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E6%95%8F%E6%84%9F%E6%97%B6%E5%88%BB%E8%87%B4%E6%88%98%E5%8F%8B%EF%BC%9A%E6%80%BB%E4%BC%9A%E8%A7%81%E5%BD%A9%E8%99%B9/" target="cdt-mirror">【立此存照】海淀公安敏感时刻致战友：总会见彩虹</a>
-</h2>
-<p><p>海淀公安分局官方账号于北京时间6月1日在新浪发布了一则相当耐人寻味的微博：</p>
-<blockquote><p><a href="http://webcache.googleusercontent.com/search?q=cache:OfSx9BWec2QJ:weibo.com/1710175603/DycR50hCn+" target="_blank"><strong>@海淀公安分局</strong></a>：致战友：这一路，有风有雨，但只要我们在一起，总会见彩虹！！</p></blockquote>
-<p><strong>因时值昌平公安五名涉<a href="http://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/" target="_blank">雷洋案</a>的警察被宣布立案侦查，网民普遍认为海淀公安的这条微博是为昌平公安打气、与其抱团的表态。</strong>截至发稿时，@海淀公安分局 已删除上述微博。</p>
-<p>从以下这张<a href="http://webcache.googleusercontent.com/search?q=cache:AeRh1-Hk59cJ:weibo.com/1233227211/DyejHt9wT+" target="_blank">谷歌快照</a>截图可以看出，海淀公安“致战友”的微博在当时已收到近900条评论和转发。该网页缓存时间为北京时间2016年6月1日16时04分。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E5%88%86%E5%B1%80.jpg" rel="attachment wp-att-526389"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E5%88%86%E5%B1%80.jpg?resize=550%2C532" alt="海淀公安分局" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/海淀公安分局.jpg?resize=300%2C290 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/海淀公安分局.jpg?resize=768%2C742 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/海淀公安分局.jpg?resize=1024%2C990 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/海淀公安分局.jpg?w=1204 1204w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@光老顽童：海淀公安发了一个致战友，大意是要抱成一团，等待彩虹再现。其背景是在雷洋案中的警察被立案侦查之后有感而发。点开评论，跟帖的全国各地战友们个个悲壮万分，大有黑云压城城欲摧之悲沧。我想知道，这个完全合法又顺乎民意甚至来得有些晚的决定，为何公安系统引发如此反弹？想再研究一番，人家删帖了。</p>
-<p>@思量不思量：他们应该也对那位溺忘亡去世的交警同样发表一下看法</p>
-<p>@沧州鹰：社会黑暗，弱民命如楼蚁，一切都证实了。</p>
-<p>@海达郝老师：跟谁战？又是谁的友？</p>
-<p>@去V的刘建锋:还在把法律当自己家的。</p>
-<p>@紧的爷: 养狗不能惯狗，惯得过分就会反咬主子。——-《养狗者说》柳宗元</p>
-<p>@禾厶享木加：土匪从来都认为自己是最正确的</p>
-<p>@变相：执法机关不以法为准，跑微博上煽情，这是在蔑视法律尊严么</p>
-<p>@东方一朔牟德鸿：对一群涉嫌草菅人命的恶棍依法制裁，竟然引起其他同类的兔死狐悲？这种主动对号入座、为恶棍站台的蠢行，只能暴露出他们骨子里不想受法律约束的特权思维惯性，让人们感觉他们可能确实是一丘之貉。</p>
-<p>@wfg西游：难道都是坏警察？不解啊！清除害群之马对正义的警察和刚从警的警察不是好事吗？</p>
-<p>@两棵白杨树的天堂：一种赚钱模式要黄了，能不急啊？</p>
-<p>@律师音之影：它们在发信号，等待风头过后再作恶？！</p>
-<p>@瓏藏堂：警察被溺爱的不轻，觉得不好就辞职呗，这只是一份工作而已。别跟我扯什么奉献，好像工资外块拿的比普通工人少似的</p>
-<p>@1030ZT：删帖还是想要饭碗啊，这么多怨气应该辞职啊</p>
-<p>@Jack1973：何谓战友？那是要共同对敌的。对公安战线来说，谁是敌人？是那些违法犯罪分子，还是路过足疗店的无辜公民？——希望海淀公安能将我这个问题交给战友讨论！</p>
-<p>@五湖听风：这个博毫无意义，不仅于事无补，反被人诟病，并且加深不信任感。微博本是一种公关手段,如此使用，无法理解。</p>
-<p>@新王小二：嗯，丁点委屈都受不了，怎么让党和政府放心，继续为党国尽忠效劳呢，@海淀公安分局 ？</p>
-<p>@大连老白钢：被权力宠的太久了，脑子坏掉了</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E6%95%8F%E6%84%9F%E6%97%B6%E5%88%BB%E8%87%B4%E6%88%98%E5%8F%8B%EF%BC%9A%E6%80%BB%E4%BC%9A%E8%A7%81%E5%BD%A9%E8%99%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E7%B3%BB%E7%BB%9F/?category=18271" rel="tag">公安系统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8%E9%97%A8/?category=18271" rel="tag">公安部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">国家机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%AE%89%E6%98%8C%E5%B9%B3/?category=18271" rel="tag">平安昌平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89/?category=18271" rel="tag">海淀公安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -750,7 +745,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -760,5 +755,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

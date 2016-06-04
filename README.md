@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,67 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8F%8C%E5%91%A8%E5%88%8A%EF%BD%9C%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E7%BE%A4%E4%BD%93%EF%BC%9A%E5%85%AD%E5%9B%9B%E6%83%A8%E6%A1%88/" target="cdt-mirror">中国人权双周刊｜天安门母亲群体：“六四惨案”二十七年祭</a>
+</h2>
+<p><p>天安门母亲群体授权中国人权发表此文。</p>
+<hr><p>去年9月，天安门母亲群体中重要成员蒋培坤先生离我们而去，继后又走了山东的张淑云女士，今年4月大连的韩淑香女士病逝，迄今为止群体中已有41位难属离世。他们离开这个世界的最后的遗恨，就是没看到正义伸张、沉冤大白的那一天！</p>
+<p>“六四”惨案已经过去27年，对于我们难属来说可谓是白色恐怖的27年、令人窒息的27年。</p>
+<p>27年来和我们打交道的是警方，27年来踏破我们门槛的也是警方。每年年初从赵紫阳先生的忌日开始，两会、清明节、“六四”忌日，甚至国家的重大活 动及外国政要来访等一系列日子，我们难属都被警方监听、监视、查抄电脑、跟踪或被拘押。他们使用无中生有、编造事实、进行恐吓等等卑鄙手段，这无疑是对 “六四”亡灵的亵渎，对生者的人格侮辱。</p>
+<p>今年，更为甚者，警方警告我们：从4月22日至6月4日，限制看望丁子霖老师；如果去看望需要请示，经北京市公安局批准方可，并且不能和其他难属同去。</p>
+<p>丁子霖老师去年相继失去两位亲人，这双重打击对一个80岁的老人来讲是何等残酷，她身心俱疲。她的情况令人堪忧。我们难属的感情和友谊是由亲人们的 鲜血凝成的，感情是深厚的，友谊是真挚的，胜似亲人。就这份简单朴素的感情却被警方剥夺，警方的蛮横和无理令人发指。这世上哪有看望亲戚和朋友还要警方批 准的？天理何在？法理何在？请问：这根据的是哪条法律？此等劣行与政府口口声声所宣传的“依法治国”、“执法为民”相对照不是太虚伪了吗！</p>
+<p>27年来我们“六四”难属一直理性地坚持三项诉求——真相、问责、赔偿，以求公正解决“六四”冤案。但是政府一直漠视，震惊世界的“六四”大屠杀好像在中国没有发生过，对于我们的诉求不予理睬，国人对此的记忆也在渐渐消失。</p>
+<p>我们必须告知世人这就是“六四”难属目前现实的生存状态！</p>
+<p>众所周知，“六四”惨案是政府明目张胆地调动野战部队杀害和平请愿的学生和市民，这在中国历史上是绝无仅有的。如果再不认真地面对这个事实，再不从 法律层面解决问题，那么，今后中国很难保证不再会发生这样的悲剧！事实证明“六四”镇压以后，全国上下贪污腐败泛滥成灾，以致造成目前反腐艰难的局面。</p>
+<p>一个不惜残害自己同胞的政府，一个不懂得珍爱自己同胞的政府，一个忘记、掩盖、隐瞒历史苦难的政府是没有出路的，是在继续犯罪！</p>
+<p>人要活得有尊严，死得有尊严。作为难属，我们生命中有三分之一以上是在亲人被枪杀的阴影中度过的，但是，我们活得坚强、乐观——因为我们有坚定信 念，需要我们抗争、努力和坚持。27年来各种磨难、淫威及恐吓，我们无所畏惧，坚信“六四”惨案一定能得到公平、公正的解决，因为真理在我们这里，还有全 世界正义善良人们的大力支持。我们用伟大的母爱昭示后人不畏强暴，勇敢面对一切恶势力，正义必胜！“六四”大屠杀将永远刻印在世界历史中——这是任何强权 所无法抹杀掉的！</p>
+<p>以我们的坚持，向曾经和我们一起抗争的逝者致敬，并告慰“六四”惨案中的无辜死难者！</p>
+<p>尤维洁 郭丽英 张彦秋 吴丽虹 尹  敏 郝义传 祝枝弟 叶向荣 徐  珏 丁子霖 张先玲 王范地 周淑庄 李雪文 钱普泰 吴定富 宋秀玲 孙承康 于  清 孙  宁 黄金平 孟淑英 袁淑敏 王广明 刘梅花 谢京花 马雪琴 邝瑞荣 张树森 杨大榕 贺田凤 刘秀臣 沈桂芳 谢京荣 金贞玉 要福荣 孟淑珍 田淑玲 邵秋风 王桂荣 谭汉凤 孙恒尧 王文华 陈  梅 周  燕 李桂英 徐宝艳 狄孟奇 王  连 管卫东 高  婕 刘淑琴 王双兰 孙珊萍 张振霞 刘天媛 黄定英 熊  辉 张彩凤 何瑞田 田维炎 杨志玉 李显远 王玉芹 曹长先 方  政 齐志勇 冯友祥 何兴才 刘仁安 齐国香 韩国刚 石  峰 庞梅清 黄  宁 王伯冬 张志强 赵金锁 孔维真 刘保东 陆玉宝 齐志英 方桂珍 雷  勇 肖书兰 葛桂荣 郑秀村 王惠蓉 邢承礼 桂德兰 王运启 黄雪芬 郭达显 王  琳 刘  乾 朱镜蓉 金亚喜 周国林 穆怀兰 王争强 宁书平 曹云兰 隋立松 林武云 冯淑兰 付媛媛 孙淑芳 李春山 蒋艳琴 何凤亭 谭淑琴 奚永顺 肖宗友 乔秀兰 陆燕京 李浩泉 赖运迪 周小姣 周运姣 陈永朝 陈永邦 刘永亮 张景利 孙海文 王海林 陆三宝 姚月英 任改莲 倪世殊 杨云龙 崔林森（共131人）</p>
+<p><strong>根据难友们的提议，决定把历年来签名者中已故难友的名单附录如下，以尊重死者遗愿：</strong></p>
+<p>吴学汉 苏冰娴 姚瑞生 杨世钰 袁长录 周淑珍 王国先 包玉田 林景培 寇玉生 孟金秀 张俊生 吴守琴 周治刚 孙秀芝 罗  让 严光汉 李贞英 邝涤清 段宏炳 刘春林 张耀祖 李淑娟 杨银山 王培靖 袁可志 潘木治 萧昌宜 轧伟林 刘建兰 索秀女 杨子明 程淑珍 杜东旭 张桂荣 赵廷杰 陆马生 蒋培坤 任金宝 张淑云 韩淑香（共41人）</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8F%8C%E5%91%A8%E5%88%8A%EF%BD%9C%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E7%BE%A4%E4%BD%93%EF%BC%9A%E5%85%AD%E5%9B%9B%E6%83%A8%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2/?category=18271" rel="tag">天安门母亲</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91%EF%BD%9C-2/" target="cdt-mirror">东网｜赵思乐：一个“九十后”的“六四”记忆</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/bkncn-20160604000319968-0604_05411_001_01p.jpg?resize=551%2C393" alt="bkncn-20160604000319968-0604_05411_001_01p" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/bkncn-20160604000319968-0604_05411_001_01p.jpg?w=608 608w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/bkncn-20160604000319968-0604_05411_001_01p.jpg?resize=300%2C214 300w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><br>
+長安街上的鮮血和坦克留給「廣場一代」的執念，成了不可磨滅的基因，塑造了中國今天的民間社會。</p>
+<p>作為「90後」，從字面上就能知道，「六四」發生在我出生之前，我沒有任何關於「六四」的第一手記憶。在出生後的20多年裏，我完全不知道也沒有聽過「六四」。但對於現在的我，「六四」就像一個熟悉但素未謀面的師友，對我的人生持續發揮著重要的影響，即使我無法準確預測這影響的後果。</p>
+<p>第一次聽說「六四」长安街上的鲜血和坦克留给「广场一代」的执念，成了不可磨灭的基因，塑造了中国今天的民间社会。</p>
+<p>作为「90后」，从字面上就能知道，「六四」发生在我出生之前，我没有任何关于「六四」的第一手记忆。在出生后的20多年里，我完全不知道也没有听过「六四」。但对于现在的我，「六四」就像一个熟悉但素未谋面的师友，对我的人生持续发挥着重要的影响，即使我无法准确预测这影响的后果。</p>
+<p>第一次听说「六四」，应该是在2011年上半年的南京，正在读大学二年级的我，为了完成新闻课程的功课，做了关于南京梧桐树被砍伐事件的调查报道，并在微博发表传播。同样关心此事的微博网友找到了我，约我见面，从他口中，我第一次听说「推特」、「翻牆」，也第一次听说「六四」。</p>
+<p>现在想来，这个网友应该属于南京的「推特党人」，日常热衷于结识「有潜质」的年轻人，并帮助他们「走出蒙昧」。这似乎是散落各地的「推特党人」都喜欢的活动，一般通过见面吃饭聊天达成，他们把这叫做「饭醉」。</p>
+<p>2011年下半年，我到台湾做交换生，有了「肉身翻牆」的便利，才开始系统地从Youtube和图书馆里寻找什麽是「六四」。它让我难过，但它仍是一个历史故事，即使我在台湾见过也访问过「八九学潮」的亲历者。</p>
+<p>在我这个大陆青年对「六四」感到隔膜的同时，我的台湾学运界朋友们却组成「六四」纪念社团，经营「六四」脸书页，年年组织大型的「六四」纪念活动。「六四」似乎属于他们多过属于我？但我也对同龄的他们也感到隔膜，每次跟他们谈到中国大陆的政治打压和人权问题，他们都只有两种回应方法：真的假的？好夸张哦！</p>
+<p>渐渐地，我开始更享受跟台湾四五十岁、经历过党外抗争的人聊天——如果说，跟台湾的社运青年相处时，我像在水底下跟水面上的他们聊天，那麽台湾的社运中年们，则是同样有过水面下的生存体验的人——这对我起了奇怪的深远影响，我逐渐发现自己的爱恋对象也锁定了有过「广场」经历的人，在台湾是「野百合学运」，在大陆自然就是「八九学潮」。</p>
+<p>经过前面这些铺垫，才能说到下面这件事，让我第一次感到自己与「六四」有着生命的联繫的事：</p>
+<p>我父母有一本家庭日记本，他们从80年代开始记下家庭中的大事。我认真翻阅过80年代末到90年代初的记录，没有提到「八九」或「六四」，一次都没有。这本日记在那段时间唯一关于公共事件的记录，是1990年9月23日的北京亚运会开幕式，因为，那是我出生的日子。</p>
+<p>我将这件事告诉了我第一个参与过「八九学潮」的男友，他的反应出乎我的意料，他说：「那真是有史以来最无聊的一届亚运会！」</p>
+<p>原因是，「六四」之后社会极为低沉压抑的气氛下，北京市民对亚运会毫无兴趣，亚运会的门票都很难售出，于是北京各高校只好用补贴餐券的方式组织学生去观看比赛。当时的他按着课表去上课，教室却空无一人，他带着疑惑转到图书馆自习。后来才知道，同学是被组织去看亚运足球赛了，因参与「八九」受到审查的他却连通知都没收到。他在亚运会期间就只好苦闷地独自往来宿舍和图书馆。</p>
+<p>这个故事给了我一种奇妙的震撼：「哦！原来我的出生跟原来想像的完全不一样。」见过08年奥运会的我，对那个亚运开幕式的想像自然是歌舞昇平、激动欢乐的。这种震撼就像重写了我的一小段生命记忆，而要重写的原因仅仅就是「六四」。</p>
+<p>后来，我又交往过其他有「广场」经历的人。那段经历，都对他们有着不可忽略也不可逆转的塑造／扭曲：一个「八九一代」，床下一直藏着一个「大声公」，家里、车里、办公室里都有喷漆或简易刀具，好像随时准备着要去革命；另一个「八九一代」，对任何同为「八九一代」的人表现出对当局的幻想和妥协，都忿忿不平、难以接受，他说，坦克都上过街了，有什麽理由要民间先妥协；一个「野百合学运」的参与者，他总觉得当年的运动虽然胜利了，他们却没有把胜利的果实保护好，他两岸漂泊，希望中国大陆在转型时不要重蹈覆辙，却越来越失望……</p>
+<p>我很快意识到，在这些「广场一代」生命中，有重要的一部分，永远留在了那个广场上。那年那天，长安街上的鲜血和坦克留给他们的执念，成了不可磨灭的基因，塑造了中国今天的民间社会。</p>
+<p>久而久之，我对「六四」有了一种特殊的感情，也有一种特殊的厌恶。参加港台的一些「六四」普及性活动时，我会感到烦躁不安，我真真切切地知道到自己仍活在「六四」的阴影里，不太喜欢别人向我描述那阴影的样子。</p>
+<p>我通过亲密关係才能体验「六四」和它的后遗症，这在同龄人中恐怕是难以複製的。年轻人能知道「六四」的就很少，遑论「六四」对自己和社会的影响和塑造。如果问一个有公共关怀的年轻人，是什麽影响了他，他可能会提到一些书、一些讲座和一些志愿服务经历，极少会提到「六四」，即使提到也大多是说知道此事时「感到震撼」。</p>
+<p>这大概也是「八九一代」的悲哀之处，在市场化洪流和信息垄断之下，他们能提醒自己当年在广场上的同伴「勿忘六四」就已经很不容易了，更无空间和馀力去为「六四」记忆培养继承人。</p>
+<p>在记者张洁平的《佔中三步曲》中，发起「雨伞运动」的香港学联秘书长周永康说：「六四可以说是我们这代人第一次接触公共领域的门槛，我们绝大部份对政治、社会议题的关心，都是从六四开始的。」另一学联代表锺耀华则说：「每年的五月初，你看一下报章，都会开始讲六四，一直到烛光晚会。我就在想，哇，十几二十万人就去那里坐着？打机不好吗？拍拖不好吗？为什麽香港有班人这麽执着的？为什麽呢？然后就会去找六四是什麽，北京发生了什麽，香港的反应是什麽……对我来说，这就是启蒙。」</p>
+<p>对中国年轻一代，这样的启蒙是天方夜谭。</p>
+<p>但中国的年轻一代抗争者到底需不需要「六四记忆」？这跟问他们需不需要「文革记忆」、「反右记忆」、「大飢荒记忆」都是类似的，在于他们是否需要再用自己的鲜血去验证专制的性质。并没有一段记忆「必须」有人记住，也没有一群人「必须」守护某段记忆，但就像米兰‧昆德拉说的：「人与极权的斗争，就是记忆与遗忘的斗争。」</p>
+<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91%EF%BD%9C-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AD%AA%E5%93%A5%E8%AF%84%E8%AE%BA-%E5%8D%8A%E6%8B%89%E5%AD%90%E8%A3%A4%E8%85%BF%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%B3%95%E6%B2%BB%E7%9A%84%E6%81%B0%E5%BD%93%E5%86%99%E7%85%A7/" target="cdt-mirror">歪哥评论 | 半拉子裤腿是中国法治的恰当写照</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-%E4%B8%8A%E5%8D%888.34.46.png?resize=421%2C589" alt="Screen Shot 2016-06-04 at 上午8.34.46" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.34.46.png?w=421 421w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.34.46.png?resize=214%2C300 214w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1"></p>
@@ -752,99 +810,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%BA%86%E6%96%B9%E5%BE%8B%E5%B8%88%EF%BC%9A%E8%AF%84%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88/" target="cdt-mirror">张庆方律师：评雷洋案的刑事立案</a>
-</h2>
-<p><p><strong>2016年6月1日，北京市人民检察院对外发布消息：</strong></p>
-<p>日前，北京市昌平区人民检察院完成对“雷洋涉嫌嫖娼被民警采取强制约束措施后死亡”线索的初查工作，认为符合立案侦查条件。</p>
-<p>根据办案的实际需要，北京市人民检察院决定，将该案交由北京市人民检察院第四分院立案侦查。</p>
-<p>北京市人民检察院第四分院依法决定对昌平区公安分局东小口派出所民警邢某某等五人进行立案侦查。</p>
-<p><strong>针对市检对雷洋致死案的立案侦查，本人评论如下：</strong></p>
-<p><span><strong>一、检方对几个涉案警察和辅警的立案，并不表示他们最终会被判决有罪。</strong></span></p>
-<p>在我国刑事诉讼中，刑事立案需要满足两个条件：一是有证据表明存在犯罪事实；二是需要追究犯罪嫌疑人的刑事责任。</p>
-<p>但是，由于刑事诉讼的不同阶段需要达到的证明要求不同，并不是每一起立案侦查的刑事案件最终都能获得有罪判决。</p>
-<p>2014年，全国侦查机关共立案6539692起刑事案件，而同年刑事案件生效判决只有1184562件。</p>
-<p><strong>可见，我国立案侦查的刑事案件，最终定罪率不超过20%。</strong></p>
-<p><span><strong>二、北京检方此时宣布对雷洋致死案立案，至少在打消公众疑虑方面已经错过了最佳时机。</strong></span></p>
-<p>2016年5月7日晚，雷洋被在抓嫖行动中的昌平分局东小口派出所副所长邢永瑞等人，对他采取强制约束措施后死亡。</p>
-<p>5月9日，昌平公安对外发布消息称，已经将本案的情况告知昌平检察院，检方已经介入调查。</p>
-<p>发布这则消息的如果不是由平安昌平，而是昌平检察院或北京市检察院，检方在发布消息的同时，宣布死因调查组的初步调查结果，并回答雷洋尸表是否有致命伤，警察是否存在明显的执法不当，尸体解剖何时进行等社会关注的焦点问题。</p>
-<p><strong>如果检方不是坐视警方在其后不停地自行发布雷洋嫖娼、警察处置适当等自证清白的消息并找来央视、新华社和人民日报等官媒洗地，则不论检方最终是否对涉案警察立案侦查，公众都不会对雷洋的死因产生像现在这样深的质疑。</strong></p>
-<p><strong><span>三、北京检方对雷洋致死案立案侦查的宣布方式，也有很强的危机公关意味，并有避实就虚的嫌疑。</span></strong></p>
-<p>在检方的消息通告中，我们看不到他们以什么罪名对涉案警察立案，不清楚他们以什么理由认定东小口派出所副主任邢某某等五人涉嫌犯罪，也不清楚在立案的同时，是否对五人采取了刑拘、逮捕等强制措施。</p>
-<p>本案中，雷洋的死因与其说是个法律问题，不如说是个医学问题。</p>
-<p>雷洋体表有没有受到殴打后的致命伤，内脏是否受到外力打击后破裂，身体是否存在重大疾患？</p>
-<p>这都是需要专业法医在进行尸体解剖后才能回答的问题。</p>
-<p>北京检方6月1日宣布对涉案警察的立案，与5月14日进行的雷洋尸体解剖结果有没有关系？</p>
-<p>尸检报告现在是否已经出来，致死原因是什么？</p>
-<p>雷洋家属请的专家证人中国人民公安大学教授张惠芹对尸检结果有无异议？</p>
-<p><span><strong>对这些问题，检方的立案通报中并没有提及。</strong></span></p>
-<p><strong>这就很难打消人们心中的疑虑：</strong></p>
-<p>检方这个时候宣布对五名警察刑事立案的消息，是在向公众表明绝不放纵暴力执法的决心，还是意在给高度聚焦的社会舆论灭火，最终使雷洋案尽快淡出人们的记忆?</p>
-<p><span><strong>四、在舆论的高压下，五名涉案警察的合法权利能否得到保障？</strong></span></p>
-<p>最近一段时间，我和公检法内好多朋友讨论过雷洋的死因，与圈外舆论高度一致地将雷的死归因于警察暴力执法不同，</p>
-<p><strong>熟悉刑事实务的体制内人士更多地倾向于本案是警察合理执法中遭遇的意外。</strong></p>
-<p>这并不等于说警察在处置过程中没有使用暴力，但是，警察在执法过程中面对试图逃脱的嫌疑人使用的暴力，显然与打架斗殴中的暴力不同。</p>
-<p>在太原警察王文军故意伤害致死案中，王文军在与农妇周秀云撕扯过程中一个掰头动作导致周死亡， 这个掰头的动作本身也是一种暴力，但在警察执法过程中，这种暴力是否超出了必要限度，确实是一个有争议的问题。</p>
-<p><strong>王文军案在开庭一年后仍然迟迟不能判决，就表明法院在考量罪与非罪时遭遇到了如何衡量警察执法必要限度的难题。</strong></p>
-<p><strong>本人认为：</strong></p>
-<p><strong>判断东小口派出所邢某某等五人是否有罪，要看他们对雷洋的处置是否超出北京警察处置拒捕行为时通常使用的暴力强度。</strong></p>
-<p>如果明显超限度则构罪，在必要限度之内则无罪。</p>
-<p>至于在扫黄过程中是否有必要采用刑事追逃抓捕中的执法标准，则是公安部乃至全国人大需要检视的问题。</p>
-<p><strong>作为一个刑辩律师，本人认为，五名涉案警察（和辅警）的辩护权同样应该得到充分保障，因为对他们的处理涉及到五个家庭。</strong></p>
-<p><strong>在一个法治社会，任何人都不能成为平息社会矛盾的工具，任何部门或个人都无权要求其他个人为了某个目标而牺牲。</strong></p>
-<p>五名警察是否认罪，是否已经获得有效的律师辩护，他们的辩解能否向社会公开？</p>
-<p>这些问题如果解决不好，即便通过强大的思想工作和对家属的私下许诺可以让他们在短时间内沉默，但这种沉默又能保持多久？</p>
-<p>总之，为了使雷洋案获得一个经得起历史检验的处理结果，北京检方对此案的侦查要公正无偏，涉案的重要信息要及时发布，公众的知情权要得到充分满足。</p>
-<p><strong>同时，五名嫌疑人的辩护权要得到充分保障，公民及嫌疑人家属的表达权得到充分尊重。</strong></p>
-<p>如果仍然沿用个别领导按他们认为合适的节奏，选择性地公布或屏蔽某些信息，并根据他们心中社会能够接受的结果圈定处理结果，则围绕此案的争议将长期无法平息。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%BA%86%E6%96%B9%E5%BE%8B%E5%B8%88%EF%BC%9A%E8%AF%84%E9%9B%B7%E6%B4%8B%E6%A1%88%E7%9A%84%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BA%B2%E7%8C%AB%E7%8C%AB/?category=18271" rel="tag">躲猫猫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%87%AF%E9%A3%8E%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%E6%88%B3%E7%A0%B4%E4%BA%86%E5%A4%9A%E5%B0%91%E8%B0%8E%E8%A8%80%EF%BC%9F/" target="cdt-mirror">鸡蛋与高墙｜凯风：雷洋案戳破了多少谎言？</a>
-</h2>
-<p><blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC-%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E6%93%8D%E6%8E%A7%E5%AF%B9%E6%AF%94%E5%9B%BE/" target="_blank">@平安北京 微博评论操控对比图</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B5%B7%E6%B7%80%E5%85%AC%E5%AE%89%E6%95%8F%E6%84%9F%E6%97%B6%E5%88%BB%E8%87%B4%E6%88%98%E5%8F%8B%EF%BC%9A%E6%80%BB%E4%BC%9A%E8%A7%81%E5%BD%A9%E8%99%B9/" target="_blank">【立此存照】海淀公安敏感时刻致战友：总会见彩虹</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA-%E5%B0%81%E8%BD%AC%E5%8F%91-%E4%B8%8D%E6%8A%A4%E7%9F%AD/" target="_blank">【网络民议】平安北京：删评论 封转发 不护短</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%EF%BD%9C%E6%9C%89%E5%A4%9A%E5%B0%91%E7%83%AD%E9%97%A8%E4%BA%8B%E4%BB%B6%E6%9F%A5%E6%97%A0%E5%90%8E%E7%BB%AD%EF%BC%9F/">鸡蛋与高墙｜有多少热门事件查无后续？</a></li>
-</ul></blockquote>
-<p><strong>作者微信公号：鸡蛋与高墙（ID: eggs-walls）<br></strong></p>
-<p>不知不觉，雷洋案已经发酵将近一月。案件终于出现实质性进展，曾在央视振振有词的涉案民警，已被立案调查，雷洋冤屈或将很快洗白。</p>
-<p>回顾这一事件发展过程，我们不难看到每一个人在公权力滥用面前所产生的自危感，同样不难看到某些人无所不用其极的洗地姿态，以及舆论在公共安全事件面前所产生的撕裂。</p>
-<p>真相虽然还未全部大白，但正向着人们所预料的最坏方向发展。之所以说是最坏，不仅是因为雷洋之死果真是公权力滥用的结果，而且从头到尾都充斥着洗地和谎言。</p>
-<p>事件发展到现在，有多少谎言已经被戳破？又有多少真相值得铭记？</p>
-<p><strong>真相之一：官方的自说自话最值得警惕</strong></p>
-<p>面对执法质疑，执法者有回避义务。如果所有的信息发布都来自于同一部门，那么公众就有足够理由怀疑其真实性。对于行政体系的自说自话，不以最大的恶意来揣测，是很难窥探事情的真相。</p>
-<p>然而，许多人仍旧视官方说法为第一而且是唯一出口，将民间的种种质疑定性为谣言，以坐等翻转的看客心态，期待戏剧性新闻的诞生。</p>
-<p>这种心态，与其说是出于理中客的谨慎，不如说是陷入认知谬误：将官方信息等同于权威信息，进而将权威信息等同于唯一真相。显然，官方不一定权威，权威不一定真实。</p>
-<p><strong>真相之二：不要低估洗地者的无耻程度</strong></p>
-<p>每一起公共事件，都能看到洗地者的身影。有的出于无知，有的出于无耻。无知的毋庸讳言，无耻的，人们仍在低估其形式和程度。</p>
-<p>明年上的洗地很容易看出，那种全然不顾疑点，只为一方辩护，或者将所有质疑都认定为“消费死者”的，都属于洗地之列。</p>
-<p>但有一种洗地不容易辨别，那就是舆论搅屎棍。这种洗地，最善于炒作事件中无关紧要的部分，以此转移舆论对核心问题的关注度。譬如LY案，只关注嫖娼而不关注公权滥用，质疑家属动机而不质疑官方动机。</p>
-<p><strong>真相之三：真相从来都不是坐等出来的</strong></p>
-<p>事发之初，有媒体呼吁“请给真相一点时间”。如果人们真的以坐观真相的态度等待，没有律师介入，没有舆论倒逼，那么此前新闻上涉事民警的发言，有可能就是最终定论。</p>
-<p>千万不要假定官方是不偏不倚的裁判者，不要以为他们能够基于法律秉直断。且不说这不符合现实，而且就体制特性而言，我们的执法体制是一个信用捆绑模式，因为政府大包大揽，所以不得不为所有的行为兜底。看似几个民警的执法问题，实则政府公信力都在为其牵连。所以，不排除官方出于维护形象考虑，从而产生有倾向性的裁判。</p>
-<p><strong>真相之四：雷洋的遭遇不是偶发的个案</strong></p>
-<p>雷洋案之所以引发铺天盖地的关注，最根本的原因在于，人人自危感。人大硕士，体制内工作，置业北京，都难免遭遇无端厄运，何况普通人？</p>
-<p>那些以为与世无争就能小富即安思维，正在遭遇现实无情的打击。你有与世无争的希望，不代表厄运不会找上你。你以为作为中产无需关心社会大势，关键就会明白这一身份的虚妄。</p>
-<p>看看常州du土地漩涡中的家长，看看天津爆Z事件里的业主，哪一个不是中产？</p>
-<p><strong>真相之五：记住孙志刚，记住雷洋</strong></p>
-<p>孙志刚、雷洋，都是以自身的生命，来换取人们对惨痛现实的关注。记住他们，就是记住现实。但愿雷洋之后再无雷洋。</p>
-<p>然而，这并不可能。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" rel="attachment wp-att-438293"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%B8%A1%E8%9B%8B%E4%B8%8E%E9%AB%98%E5%A2%99%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg?resize=250%2C244" alt="鸡蛋与高墙二维码" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?resize=300%2C293 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?resize=768%2C749 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/鸡蛋与高墙二维码.jpg?w=818 818w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%87%AF%E9%A3%8E%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%E6%88%B3%E7%A0%B4%E4%BA%86%E5%A4%9A%E5%B0%91%E8%B0%8E%E8%A8%80%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%A8%81%E9%83%A8%E9%97%A8/?category=18271" rel="tag">权威部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -856,7 +821,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -866,5 +831,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

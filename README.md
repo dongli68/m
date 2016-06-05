@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%9D%A6%E5%85%8B%E4%BA%BA/" target="cdt-mirror">巴丢草：一个坦克人</a>
+</h2>
+<p><p>作品《一个坦克人》—— 巴丢草</p>
+<p>Performance Art 《One Tank Man》</p>
+<p>1989年6月4日，天安门屠杀。</p>
+<p>27年前的热血，经过父辈的沉默，媒体的禁声，在年轻人的心里冰冷。他们不知道过去，不知道未来，他们被迫接受洗脑，被迫爱国，被迫歌颂这个经济虚胖，精神死亡的时代。然而，坦克依旧残酷，只是被精心地粉饰，直到坦克的履带碾碎人们的血肉前，沉默的父辈和无知的青年还抱着期待。</p>
+<p>过去的恐惧和今天的遗忘是他们最尖锐的武器，我选择艺术作为我的抵抗。我画过坦克人，我把坦克人刺在手臂，今天我想通过表演艺术的方式再现坦克人，明天我希望有更多坦克人。</p>
+<p>我所知道的坦克人，只有他白色的衬衫和黑色的长裤，一双皮鞋，还有两只手提的塑料袋和皮包。他留给世界一个背影。</p>
+<p>但我不知道坦克人真正的身份，只有一种传言说他叫王维林，但除了这个真假不辨的名字，其他关于他的一切信息都没有。成为坦克人之前，他是谁是一个谜，成为坦克人之后他经历了什么样的遭遇，同样是个谜。我不知道他后来的命运，是死是活。但我心里希望他成功逃脱了，安全却也沉默的生活在某处。</p>
+<p>所以他们衣物在我心里成了他的象征。有时候肉体会死亡，但是物件不会，仿佛物件是肉体毁灭后精神的依托，靠着物件，精神藉以保留，蓬勃滋长。就好像每一个漫画中英雄的打扮，坦克人是这个真实残酷世界的英雄，正是穿着最普通不过的衣裤而来，也许有一天更多的人可以穿上这套普通不过的衣服，走出囚牢，走向自由。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-22.jpg?resize=550%2C825" alt="TiananmenSquareBadiucaoAlyciaBennettwm-22" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-22.jpg?w=3744 3744w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-22.jpg?resize=200%2C300 200w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-22.jpg?resize=768%2C1152 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-22.jpg?resize=683%2C1024 683w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-21.jpg?resize=550%2C825" alt="TiananmenSquareBadiucaoAlyciaBennettwm-21" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-21.jpg?w=3744 3744w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-21.jpg?resize=200%2C300 200w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-21.jpg?resize=768%2C1152 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-21.jpg?resize=683%2C1024 683w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-17.jpg?resize=550%2C365" alt="TiananmenSquareBadiucaoAlyciaBennettwm-17" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-13.jpg?resize=550%2C365" alt="TiananmenSquareBadiucaoAlyciaBennettwm-13" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-12.jpg?resize=550%2C365" alt="TiananmenSquareBadiucaoAlyciaBennettwm-12" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-12.jpg?w=4288 4288w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-12.jpg?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-12.jpg?resize=768%2C510 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-12.jpg?resize=1024%2C680 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-7.jpg?resize=550%2C365" alt="TiananmenSquareBadiucaoAlyciaBennettwm-7" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-7.jpg?w=3879 3879w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-7.jpg?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-7.jpg?resize=768%2C510 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-7.jpg?resize=1024%2C680 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-6.jpg?resize=550%2C828" alt="TiananmenSquareBadiucaoAlyciaBennettwm-6" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-6.jpg?w=2540 2540w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-6.jpg?resize=199%2C300 199w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-6.jpg?resize=768%2C1156 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-6.jpg?resize=680%2C1024 680w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-1.jpg?resize=550%2C365" alt="TiananmenSquareBadiucaoAlyciaBennettwm-1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-1.jpg?w=3693 3693w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-1.jpg?resize=300%2C199 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-1.jpg?resize=768%2C510 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/TiananmenSquareBadiucaoAlyciaBennettwm-1.jpg?resize=1024%2C680 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%9D%A6%E5%85%8B%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9D%A6%E5%85%8B%E4%BA%BA/?category=18271" rel="tag">坦克人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8F%8C%E5%91%A8%E5%88%8A%EF%BD%9C%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2%E7%BE%A4%E4%BD%93%EF%BC%9A%E5%85%AD%E5%9B%9B%E6%83%A8%E6%A1%88/" target="cdt-mirror">中国人权双周刊｜天安门母亲群体：“六四惨案”二十七年祭</a>
 </h2>
 <p><p>天安门母亲群体授权中国人权发表此文。</p>
@@ -282,7 +308,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">八九学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9D%A6%E5%85%8B%E4%BA%BA/?category=18271" rel="tag">坦克人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%9F%8E/?category=18271" rel="tag">屠城</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%BB%B4%E6%9E%97/?category=18271" rel="tag">王维林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%B4%AB%E9%98%B3/?category=18271" rel="tag">赵紫阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E6%9C%89%E8%A5%BF/?category=18271" rel="tag">陈有西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BD%90%E5%BF%97%E5%8B%87/?category=18271" rel="tag">齐志勇</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%87%91%E8%89%B2%E7%AC%94%E8%AE%B0-%E6%8B%92%E7%BB%9D%E6%AD%BB%E4%BA%A1%E7%9A%84%E8%AE%B0%E5%BF%86/" target="cdt-mirror">金色笔记 | 拒绝死亡的记忆</a>
 </h2>
@@ -776,40 +802,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E4%B8%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%98%8E%E6%9C%9D%E7%81%AD%E4%BA%A1%E5%8E%9F%E5%9B%A0%E4%B9%8B%E4%B8%80%EF%BC%9A%E5%B4%87%E7%A5%AF%E5%B8%9D%E8%AF%95%E5%9B%BE%E6%81%A2%E5%A4%8D%E6%98%8E/" target="cdt-mirror">澎湃新闻 | 明朝灭亡原因之一：崇祯帝试图恢复明初的皇帝独裁</a>
-</h2>
-<p><p><strong>核心提示：</strong>崇祯破坏了晚明官僚体制的运行规则和集体决策的趋势，加剧了政治运作的不透明，压制了政治参与。所以，在魏阳看来，明亡当然不是由单一因素造成的，而崇祯对访单和公论的抵制不能不说也是明亡的一个重要原因。</p>
-<p>本文摘自：澎湃新闻网，作者：魏阳，原题：《讲座︱魏阳：明朝灭亡的原因究竟是什么》</p>
-<p><strong>编辑注：</strong>本文目前已在澎湃新闻本站删除 -2016.6月3日 8时（北京时间）</p>
-<p>“黄仁宇的《万历十五年》，英文原著名是1587：AYearofNoSignificance，也就是说，在他看来，晚明发生的一系列事情都是没有意义的，因为最终没有形成数目字上的管理。但有没有意义，其实要看你与谁去比较。如果我们回到晚明的历史脉络中去，它有着自己的发展逻辑。”</p>
-<p>5月24日晚，美国科罗拉多大学历史系助理教授、Donahue讲席教授魏阳在上海季风书园带领广大读者重返晚明的历史现场，从一个新的角度来解读晚明的制度创新与政治文化，并从中看到了明亡的一个关键因素。</p>
-<p>晚明史很热，但我们该如何反思晚明？</p>
-<p>明朝灭亡后，对它的反思就开始了。尤其是晚清以来，面对内忧外患的局面，一些士大夫突然“重新发现”了晚明，试图从中获得本土的思想资源。到了新文化运动，晚明又成了显学，比如嵇文甫、林语堂等人在晚明历史中看到了李贽、王阳明等人的思想，从中挖掘出了本土的现代性。而郭沫若于1944年发表的《甲申三百年祭》，直接成了很多人看待晚明的思想底色。</p>
-<p>到了当代，在晚明进入现代学术研究的视野后，黄仁宇的《万历十五年》被很多人奉为经典，尤其是在华人世界产生了极大的影响。魏阳介绍说，这本书在美国的反响与中国大陆不太一样，至少他就不太同意黄仁宇对晚明的判断。在他看来，黄仁宇是以韦伯的“工具理性”来判断晚明的价值与意义，这是一种欧洲中心论。如果我们只以近代欧洲迅猛发展的政治变革、工业化和科学革命为标准，就很容易得出这样一个结论：晚明或者整个中华帝国晚期的政治文化是停滞的。</p>
-<p>但是，如果我们从不同的参照系出发，得出的结论可能是不同的。有时候我们需要与外面比，但有时候我们需要与自己进行比较。这样来看，其实，中华帝国晚期的历史有它内在的逻辑。所以，魏阳想从晚明的历史本身出发，重新思考它在制度上的创新与发展。</p>
-<p>晚明如何选官？通过访单看公论</p>
-<p>如果“停滞论”是错的，那么晚明在政治制度上有什么创新呢？魏阳以访单为例打破了我们对晚明历史的固有认知。原先朝廷选官注重“堂官考语”，即主要看上司的评价，因此官员想要升官，就以讨好上级为主，并讲究资格，在官场中慢慢熬。后来随着访单的出现，纵向的“堂官考语”逐渐变成了横向的“同辈评价”，破格提拔也变多了，而官场的组织原则也愈发复杂，出现了更广泛的政治参与。</p>
-<p>那什么是访单呢？据《中国历史大辞典》介绍，“访单”是“明代考察、选官时所用匿名文书。凡考察、选官，由吏部主持，密托吏科都给事中、河南道掌道御史共为咨访，填写人匿其名。隆庆后改称访册”。</p>
-<p>魏阳进一步指出，访单的使用有着更为复杂的变化，它对晚明政治的影响更是缺乏必要的学术研究。在他看来，访单的大规模使用深刻反映了以“公论”为代表的新的组织原则的兴起，代表着一种对更多的政治参与和政策透明性的诉求。</p>
-<p>举例来说，1595年，吏部尚书孙丕扬在考察官员时向朝廷所有部门发放了访单，让大家评议哪个官员做得不好。访单收回后，他根据数量原则罢黜了得到“差评”最多的官员。此事引发了轩然大波。大学士赵志皋就持反对意见，认为这项改革动摇了朝廷既有的组织原则。孙丕扬则反驳说，访单代表的是公论，是士大夫的集体表决，无论被罢黜的官员有无违纪，得到“差评”多就必须处理。所以，这是两种政治原则的冲突：赵志皋代表的是道学的原则，认为真理有时候掌握在少数君子手中，不能由投票来决定；孙丕扬的逻辑是，很多时候我们并不知道谁是君子，所以多数人的投票意见可能更有道理一些。而万历皇帝最后支持了孙的意见。</p>
-<p>所以，访单的出现代表着数量原则在集体决策中的兴起，而且作为“官意测验”工具的访单具有较好的可操作性，并逐步透明化、标准化。后来，除了考察官员，访单也被广泛应用到其他政治领域中，比如考选科道和翰林时，考试成绩的作用被弱化，访单代表的公论，即士大夫的集体意见的影响力加剧。再比如，礼部在给官员定谥号时，也使用访单征求大家的意见。还有兵部选将时，也通过访单来定夺。</p>
-<p>可以说，访单与它所代表的公论成了晚明的一种政治风气，得到了士大夫群体的普遍认同。当时有很多对公论的讨论，缪昌期就说：“夫天下之论，不过是非两端而已。一是一非，一非一是谓之异，不谓之公。一是皆是，一非皆非，谓之同，不谓之公。公论出于人心之自然而一似有不得不然。故有天子不能夺之公卿大夫，公卿大夫不能夺之愚夫愚妇。”用大白话来说就是，这些东林派的士大夫相信公道自在人心，而所有人都自发同意的“公论”必须由士大夫来代表，并且在士大夫的投票表决中体现出来。</p>
-<p>由此可见，晚明的政治文化充满了制度创新与变革，绝不是黄仁宇所说的停滞而已。</p>
-<p>明亡的原因究竟是什么</p>
-<p>既然晚明充满了制度创新，理论上来说应该是充满活力，那么它为何就这样灭亡了呢？套用当下的一个流行词，这些创新似乎就像“然并卵”一样。其实，历来对明亡的原因众说纷纭，有财政上的、军事上的、气候上的和瘟疫上的种种解释模式，但在魏阳看来，明亡的一个重要原因是崇祯皇帝对访单和士大夫公论的抵制。</p>
-<p>当然，正如魏阳所指出的那样，访单制度也是存在一定问题的。清人修《明史》时就认为，访单会使各个主管部门更容易推卸责任，将原本应该由不同部门承担的责任推给了整个士大夫群体。而且很多时候，访单的内容是乱七八糟的，没法严格核实，甚至被用来攻击敌对官员，被用作政治斗争的工具。再者，以前升官只要讨好上司，现在为了获得好的舆论评价，必须结交和贿赂更多的官员。据明末的陈子龙观察，得到一个县官要花费数百金，当六年县官要花两千金贿赂，而到了考察和考选的时候，则要花三四千金；等县官终于熬成了台谏，就会再用同样的方法向下面的县官索贿。这些钱都是为了贿赂任何有资格填写访单意见书的官员。由此，访单深刻地改变了官场的博弈和操作，甚至是腐败的方式。</p>
-<p>但从另一个方面来说，访单确实扩大了政治参与，特别是让地方士人都能够参与到政治决策的过程中来。1632年，董其昌就建议扩大访单发放的范围，希望将所有士大夫包含在内。明末的东林派也顺着这种扩大政治参与的逻辑，希望让“地方公论”成为政治决策的依据。黄宗羲则提出让学校成为地方士人评议、监督政府的机构，顾炎武也认为“庶人之议”应该成为决策的基础。</p>
-<p>然而，崇祯皇帝试图恢复明初的皇帝独裁，不接受访单所代表的公论。1639年，他亲自考选翰林，专门挑选为公论所不容的候选人。明末的士人批评崇祯选官喜欢直接由他自己任命，而不看访单和会推。由此可见，崇祯破坏了晚明官僚体制的运行规则和集体决策的趋势，加剧了政治运作的不透明，压制了政治参与。所以，在魏阳看来，明亡当然不是由单一因素造成的，而崇祯对访单和公论的抵制不能不说也是明亡的一个重要原因。</p>
-<p>今年刚去世的汉学家孔飞力认为，明末以来的政治控制与政治参与之间存在着张力，而这种张力是中国现代国家形成过程中重要的结构性矛盾。明末的制度创新和思想遗产所代表的问题，在中国近代历史中也不断浮现。魏阳举了冯桂芬的例子：在思考宪政、地方自治等新的政治文化时，冯桂芬在《校邠庐抗议》中希望从晚明历史中寻找本土宪政实践的思想和制度资源。因此冯桂芬提出的建议完全体现了晚明政治文化中的数量原则。</p>
-<p>讲座的最后，魏阳总结说，当我们反思晚明时，访单和类似的制度创新所代表的对政治参与的诉求，应该引起我们的重视。对这些明代的制度遗产和思想资源的重视，标志着中国历史研究的一种新的取向，那就是拒绝用单一的欧洲标准来评价中国历史，而是细致入微地去观察中国历史发展的本土逻辑。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E6%98%8E%E6%9C%9D%E7%81%AD%E4%BA%A1%E5%8E%9F%E5%9B%A0%E4%B9%8B%E4%B8%80%EF%BC%9A%E5%B4%87%E7%A5%AF%E5%B8%9D%E8%AF%95%E5%9B%BE%E6%81%A2%E5%A4%8D%E6%98%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%83%9A%E4%BD%93%E5%88%B6/?category=18271" rel="tag">官僚体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B4%87%E7%A5%AF/?category=18271" rel="tag">崇祯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB/?category=18271" rel="tag">澎湃新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E8%A3%81/?category=18271" rel="tag">独裁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -821,7 +813,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -831,5 +823,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

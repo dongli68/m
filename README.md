@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,136 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BB%BF%E4%B8%83%E5%B9%B4%E5%90%8E-%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE%E7%9A%84%E8%AE%B0%E5%BF%86/" target="cdt-mirror">端传媒 | 廿七年后 无处安放的记忆</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-%E4%B8%8B%E5%8D%883.10.35.png?resize=594%2C394" alt="Screen Shot 2016-06-05 at 下午3.10.35" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.10.35.png?w=594 594w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.10.35.png?resize=300%2C199 300w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"><br><span>遇难时，王楠是一名高中生，年仅19岁，遇难当刻正在南长街南口拍照纪录历史画面。他当时戴著头盔，却不幸被戒严部队射中，子弹贯穿头盔从左上额射入，左耳後穿出。 Anthony Kwan/端传媒</span></p>
+<p data-sr-id="3">一顶鲜红色的头盔安静地躺在透明展柜，红漆已大量剥落，仔细往里看，头盔后侧破了一个小洞。头盔的主人名叫王楠，死于1989年6月4日凌晨三时，天安门广场外的南长街，时年19岁。</p>
+<p data-sr-id="4">离世前，王楠是北京月坛中学高二学生，那天晚上想赶往天安门广场拍摄，快抵达广场时，一颗子弹射入他的左前额，从头盔后侧射出。2013年5月，王楠的妈妈张先玲托人从北京，经保密渠道，把这顶自己收藏了25年的头盔辗转送到香港。</p>
+<blockquote data-sr-id="5"><p>如今，这顶头盔成了香港六四纪念馆的重要展品，捐出头盔后，张先玲特别嘱咐纪念馆，“一定要展出，希望历史的真相可以透过纪念馆，让全世界看到”。</p></blockquote>
+<p data-sr-id="6">2014年4月26日在香港尖沙咀一座商业大厦中开幕的六四纪念馆，面积不足800平方呎，却收藏了王楠等遇难学生、遇难工人等＊＊多件见证六四事件的遗物，以及＊＊份当年的旧报纸。开幕当天，中外媒体将这个小小博物馆挤得水泄不通，有评论称之为“世界上面积最小、但影响力最大的博物馆”。</p>
+<p data-sr-id="7">然而，两年后的今天，六四纪念馆却在内外交困中，几乎无路可走。</p>
+<p data-sr-id="8">一边是涉建制背景的大厦法团，以雄厚律师费把六四纪念馆告上法庭，说他们违规运营，官司至今未能了结；而另一边，香港本土意识迅速崛起，六四的意义在不少年轻人眼中窄化为中国的一部分，在他们急于摆脱中国的自主路上显得不合时宜，而纪念馆的主办方香港支联会，更因为其“平反八九民运、建设民主中国”的定位，以及在这条路上的寸功未进，招致很多年轻人的嘲讽。</p>
+<p data-sr-id="9">说起纪念馆的前景，支联会副主席蔡耀昌有些底气不足：“不管怎样，我们一定会做到今年六四之后。”。但“今年六四之后”的之后，又如何？谁也不敢保证。王楠的头盔还能够“让全世界看到”吗？</p>
+<p data-sr-id="10"><strong>上天对这段历史竟然还留有一份礼物</strong></p>
+<p data-sr-id="11">尖沙咀柯士甸路是韩国美食街，一天到晚人流不绝，白天是上班白领，晚上是泡酒吧的年轻人。沿著这条路一路向前，数著门牌号码，找到5号，一转身，拐入一幢毫不起眼的大厦，六四纪念馆就藏在这里的5楼。这是一座商业大厦，名叫“富好大厦”，门前没有挂纪念馆的招牌，一不小心就走过了。</p>
+<p data-sr-id="12">展馆的志愿工作者张哲梅介绍说，2014年刚开馆时，慕名来客络绎不绝。其中一半是内地游客，另一半，有外国游客，也有香港本地人。年纪稍长的，想来确认这段1989年的记忆是否依然存在；年纪轻的，来看看当年到底发生了什么，和道听途说的是否一致。</p>
+<blockquote data-sr-id="13"><p>自1989年天安门事件以来，六四成为中国当代史里最新鲜、最敏感的黑洞，见证者闭口不谈，后辈面对禁忌，或茫然无知，或一边好奇追问，一边小心躲闪。</p></blockquote>
+<p data-sr-id="14">张哲梅看到，在纪念馆参观的内地人，有人拉著行李箱走进展馆，看几眼就生气地走了；有人愤怒地问馆员——“为什么把学生说得这么好？为什么不说他们是暴徒？”；有人看完不断叹息，“感谢香港，还继续讲这段历史”；在场馆里忍不住大骂共产党、与馆员分享自己文革经历的也大有人在。偶尔，这里还会迎来当年的亲历者，比如自称6月4日凌晨在广场执行任务的军人。</p>
+<p data-sr-id="15">1989年，张哲梅也只有6岁，在香港读小学一年级，但母亲天天哭著看香港新闻的画面对她影响至深。她这样解释自己在这里做义工的理由：“在香港，至少我们还有小小自由，集合世界各地对这段历史的陈述和证据，就好像是，上天还为这段历史留有一份礼物。”</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-%E4%B8%8B%E5%8D%883.43.17.png?resize=590%2C392" alt="Screen Shot 2016-06-05 at 下午3.43.17" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.43.17.png?w=590 590w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.43.17.png?resize=300%2C199 300w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"><br><span>六四纪念馆放映关於八九民运「六四」事件的影片。</span><span>罗国辉/端传媒</span></p>
+<p data-sr-id="17">但留下这份“历史礼物”并不容易。</p>
+<p data-sr-id="18">1989年5月21日，时任国家总理李鹏宣布北京戒严令的翌日，香港爆发百万人大游行，声援民运学生，“香港支援爱国民主运动联合会”就在这浩浩荡荡的人群中宣布成立，后来简称“支联会”，其成员多为泛民主派人士，创会主席是司徒华。</p>
+<p data-sr-id="19">1989年年末，支联会曾租用油麻地一幢唐楼单位，成立“中国民主运动资料中心”，存放八九民运的剪报、相片，定期向市民免费开放。但数年后，由于被迫搬迁，资料中心停止运营。此后，支联会的主要工作是筹办维园六四烛光集会，悼念六四死难人士，从1990年至今，尽管运营经费和人手有限，但集会每年进行，从不间断。</p>
+<p data-sr-id="20">根据大会统计，1990年参与集会的市民数量约为15万，此后人数逐渐回落，长期徘徊在数万人的水平，但到了2009年，六四事件20周年，香港人的六四记忆突然被重新唤醒，全社会热烈讨论六四。那一年，出席六四晚会的人数再次接近15万人，根据香港三位学者陈韬文、钟庭耀和李立峰的研究，其中一半是年轻人。三位学者当时预料，六四记忆已从上一代传到下一代，在香港做到“薪火相传”。</p>
+<blockquote data-sr-id="21"><p>在这氛围的激励下，蔡耀昌说，支联会内部当时更意识到要加强传承工作，开始酝酿筹备六四纪念馆：“六四是我们这一代人和上一代人经历的，下一代对六四没有记忆很正常，这是我们这一代人要负责守住的事情。”</p></blockquote>
+<p data-sr-id="22">不过，时任主席的司徒华却对成立纪念馆相当犹豫。“我们搞纪念馆，不能靠租，只能靠买，不然随时被打压，被赶被逼迁。但这样一来，开支就会很大，司徒华担心无以为继。”蔡耀昌回忆说，当时，支联会的受薪全职职员只有两名，大量工作靠义工完成。筹备一场烛光集会需要数十万元，租用单位做展览需要几万元，这些都还能透过筹款完成，但买一个不足千呎的单位，按2009年的市价需要接近一千万元，这对于常年靠捐款维持的支联会来说是天价。</p>
+<p data-sr-id="23">2011年1月，司徒华因病去世，李卓人接棒成为支联会主席，再次酝酿筹办六四纪念馆。翌年4月，趁著六四纪念前夕，支联会租用了香港社区组织协会位于深水埗一个约1000平方呎的唐楼单位，试办六四展览，本想试试水温，不料大获成功。</p>
+<p data-sr-id="24">展览一个半月，参观者高达两万余人，最高峰的一天，来了2000人，挤不进展馆的人们顺著狭长的唐楼楼梯往下排队，在展馆楼下的街道绕成了人龙。筹款成绩也相当不错，一个内地市民专门带来20万人民币现金，当场立即捐款。</p>
+<p data-sr-id="25">乘著这股热情，支联会决心在香港筹备“永久六四纪念馆”。2012年12月，透过两年多以来做展览、搞烛光集会、摆年宵摊位的现场筹款以及个人捐款，支联会筹足整整650万港元，最终以借贷方式，买下富好大厦市值900多万、800平方呎的单位。</p>
+<blockquote data-sr-id="26"><p>支联会众人都以为，1989年那一段消失的历史记忆，终于在香港这片自由的土地上找到一个永久的落脚点。</p></blockquote>
+<p data-sr-id="27"><strong>百般刁难，“永久纪念馆”被逼迁移</strong></p>
+<p data-sr-id="28">蔡耀昌还记得，憧憬着“永久六四纪念馆”，那几年很多人将自己珍藏的纪念品捐献给支联会。</p>
+<p data-sr-id="29">2012年，深水埗六四展览期间，刘锐绍捐出当年香港市民自制的、写有“痛心疾首”的袖章——1989年5月，香港《文汇报》社论开天窗，刊出“痛心疾首”4 字，批评中国共产党部署镇压学生；而曾去北京报导八九学运的香港记者谢志峰，也从家里拿出自己珍藏的一件土黄色军大衣——1989年春夏之交，他在天安门广场采访，静坐的学生将自己身上用以保暖的大衣送给了谢志峰。</p>
+<p data-sr-id="30">到了2013年5月，王楠的头盔也被送到了香港，同时运来的，还有当时北京市公安局和卫生局开出的王楠死亡报告单，以及他出事时戴著的黑框眼镜，只有一边镜片完整，另一边，当年已经碎在天安门南长街。</p>
+<p data-sr-id="31">一年之后，2014年10月，恰逢香港雨伞运动时期，支联会收到一份更加沉甸甸的广场遗物。一位名叫徐玨的母亲托人从北京辗转捎来一个黑色行李箱，里面装满了儿子吴向东的遗物——写于89年5月21日的遗书、日记本、海鸥相机和最后一卷拍摄天安门学运现场的胶卷…… 据徐玨透露，吴向东是北京东风电视机厂职工，因支援学运，6月3日深夜在北京木樨地中枪身亡，时年21岁。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-%E4%B8%8B%E5%8D%883.45.26.png?resize=578%2C390" alt="Screen Shot 2016-06-05 at 下午3.45.26" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.45.26.png?w=578 578w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.45.26.png?resize=300%2C202 300w" sizes="(max-width: 578px) 100vw, 578px" data-recalc-dims="1"><br><span>六四纪念馆放映关於八九民运「六四」事件的影片。</span><span>罗国辉/端传媒</span></p>
+<blockquote data-sr-id="33"><p>如今，这些物品部分存放在六四纪念馆的展柜中，但更多的，因为展馆空间有限，支联会也缺乏人手整理，还长期封存在仓库以及借用的教协办公室两处地方。</p></blockquote>
+<p data-sr-id="34">蔡耀昌坦承，支联会至今没有为六四纪念馆聘请专门的馆长或策展人员，展品欠缺良好的鉴定、存档和保管。而过去两年时间里，光是为了纪念馆打官司，支联会已经付出不少人力、金钱。</p>
+<p data-sr-id="35">早在六四纪念馆开馆前一个月，官司就来了。</p>
+<p data-sr-id="36">2014年3月，富好大厦业主立案法团给支联会发出律师信，指其利用富好大厦单位作展览，是违反大厦公契──据大厦公契规定，该商业大厦的单位“应用作办公室及相关用途”。蔡耀昌辩解，公契定义模糊，而香港传媒亦查证，此前亦有人在富好大厦中经营酒吧，当时法团并无反对。但法团此后没有直接接触支联会，而是在一个月后，正式向法院入禀起诉支联会。支联会应诉，聘请了大律师沈士文。</p>
+<p data-sr-id="37">但对方聘请了更加厉害的资深大律师，曾经做律政专员的冯华健。冯华健律师费不菲，特别的是，这笔费用不是由法团支付，而是全数由法团主席一个人垫支。”蔡耀昌说。富好大厦法团主席巢国超也承认了这一点。</p>
+<p data-sr-id="38">对此，香港多家传媒持续追踪，查明巢国超是富好大厦1楼维雅制衣厂的董事，维雅在内地番禺设厂；而巢国超的弟弟巢国明是香港中小型企业商会副会长，同时也是广西来宾市的政协委员。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-%E4%B8%8B%E5%8D%883.46.36.png?resize=593%2C396" alt="Screen Shot 2016-06-05 at 下午3.46.36" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.46.36.png?w=593 593w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.46.36.png?resize=300%2C200 300w" sizes="(max-width: 593px) 100vw, 593px" data-recalc-dims="1"><br><span>支联会副主席蔡耀昌。 Anthony Kwan/端传媒</span></p>
+<article><blockquote data-sr-id="40"><p>这场官司旷日持久，而且我们越来越发现对方有庞大资源，很难有把握一定会赢，就算胜诉了，对方也可能上诉，官司不知道要打到哪一天。”蔡耀昌无奈地说。</p></blockquote>
+<p data-sr-id="41">不仅上法庭起诉，日常管理中，法团也对纪念馆百般刁难。自2015年开始，法团指令其管理公司，规定进入纪念馆的参观者，一次不能超过20位，另外还要求登记每位来访者的身份证——在香港商业大厦中，这并不是常规操作。</p>
+<p data-sr-id="42">新规定带来冲突不断。蔡耀昌指出，不少内地旅客听说要登记身份证才能进入六四纪念馆，都疑虑重重，有人甚至和大厦管理员发生争执；也有香港老师带着一班学生想参观展馆，却被管理员阻止。2015年4月，巢国超更突然冲至六四纪念馆，指进入展馆的访客不能超过20人，要阻止其他访客进入，馆员与其发生争执。</p>
+<p data-sr-id="43">2015年12月，支联会常务会议通过决议，考虑来自法团的持续阻力，以及展馆本身的空间限制，支联会决定出售目前的尖沙咀馆址，为六四纪念馆再觅新址。</p>
+<p data-sr-id="44">这意味著，仅仅落地两年的“永久六四纪念馆”，又要从零开始。</p>
+</article><article><p><strong>时势骤变，搬迁后，一切如旧？</strong></p>
+<p data-sr-id="46">为购置新馆址，支联会算了一笔数：卖掉目前馆址，可收回约600多万港元；购置比目前大一倍、约1400平方呎的新馆址，则需要支付至少约900万港元作为按揭首期。和几年前一样，这300万的缺口，支联会打算面向公众筹款。</p>
+<p data-sr-id="47">2016年4月15日，支联会宣布六四纪念馆的“扩馆众筹”计划，目标希望向公众筹款300万。但时移世易，计划公布一个多月以来，香港舆论反应冷淡。在六四纪念馆的脸书专页上，截至发稿时，仅有149人“like”了扩馆众筹的计划。蔡耀昌拒绝透露目前具体的筹款数字，仅表示“大约数万元”。</p>
+<blockquote data-sr-id="48"><p>过去两年，当六四纪念馆遭受法团阻力之时，香港时势已经风云骤变。</p></blockquote>
+<p data-sr-id="49">香港大学民意研究计划自1993年起每年进行六四民意调查，对于“你是否支持平反六四？”，数据显示自2013年5月起，支持人数持续下跌，2013至2015三年间，支持率分别为62.8%、56.1%和52.5%。而对于“你觉得应不应该解散支联会？”，支持率则从2011年不断上升，四年间从15.9%上升到25.6%。</p>
+<p data-sr-id="50">过去数年，香港本地的政改讨论和真普选运动热烈，年轻一代关注本土民主议题，越来越多人认为支联会抱持守旧的大中华思想，只会拖累香港民主进程。</p>
+<p data-sr-id="51">而纪念馆开幕后5个月，于2014年9月爆发的雨伞运动更带来重要的转折点：雨伞运动取代了六四，成为新一代香港人对民主运动的重要情感寄托，而运动的失败也加强了人们的无力感，年轻人对和平抗争路线失望，也对北京感到绝望。2016年5月，香港大学学生会主席孙晓岚公开发问：“悼念六四是不是要有一个完结？”随后，香港11个大专院校的学生会发表《联校六四宣言》，称六四事件的重要启示是“建设民主中国之梦想实难于登天”。</p>
+<p data-sr-id="52">另一方面，自2015年夏天开始，到香港自由行的大陆游客人数不断下滑。</p>
+<p data-sr-id="53">种种因素叠加，六四纪念馆的参观人数近年急遽下跌：2014年4至12月，参观人数约为15000；2015年全年，人数为5160，而到了今年，人数仅约为1000（其中二月和三月闭馆整修）。</p>
+<p data-sr-id="54">对纪念馆的未来，蔡耀昌表示，目前的主要目标是大力筹款和寻求新馆址，尽力在2017年的六四纪念日之前，让“永久六四纪念馆”重新开幕。但针对新展馆的内容，支联会还未具体讨论。</p>
+<blockquote data-sr-id="55"><p>环境艺术策展人林汉坚曾义务为第一个“永久六四纪念馆”策展，对于正在筹备的新“永久纪念馆”，他表示并不乐观。“在现在香港的政治环境里，要真的找到一个新地方，没有现在的问题，不是那么容易。而且六四纪念馆如果再不调整方向，我怀疑，即使搬迁了，也可能会衰落了。”</p></blockquote>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-%E4%B8%8B%E5%8D%883.47.52.png?resize=587%2C393" alt="Screen Shot 2016-06-05 at 下午3.47.52" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.47.52.png?w=587 587w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.47.52.png?resize=300%2C201 300w" sizes="(max-width: 587px) 100vw, 587px" data-recalc-dims="1"><br><span>中学生由老师带同参观纪念馆。吴炜豪/端传媒</span></p>
+<p data-sr-id="57">林汉坚曾组织大学里学习艺术的学生去参观目前的六四纪念馆，但学生看完，通常的反应是——“这和我有什么关系？”“他们会说，知道这些就好像知道当年秦始皇焚书坑儒，是很惨，但和我有什么关系？”林汉坚说。</p>
+<p data-sr-id="58">当初策展时，受支联会要求，林汉坚在展馆门口设置了一个投影仪，投射“平反六四”四个大字，代表展览宗旨，每位参观者进展馆前，“平反六四”四字都会投映到其身上。但现在，林汉坚担忧，正是这种“离地感很强”的设计，阻碍了年轻一代对这段记忆的接受：“将来的展馆主题是否可以不是这么直接地说‘平反六四’，而是更广阔地讲社会运动或学生运动？例如加入雨伞运动的元素？”</p>
+<p data-sr-id="59">对于新展馆，出生于六十年代的林汉坚说不再想参与策展，他转而建议：“不如全部交给现在学艺术的年轻人去构思，去策划。”</p>
+<p data-sr-id="60"><strong>失去重量的记忆</strong></p>
+<p data-sr-id="61">天安门事件过去27年，今天仍至少有120位遇难学生的母亲生活在中国，她们大多是“天安门母亲”的成员，手中收藏重要的证物、遗物。支联会主席李卓人说，早些年，“天安门母亲”一直有一个心愿，希望有一天能在中国内地办一座六四纪念馆；直到20多年过去了，希望渺茫，她们年事已高，才开始将物品捐献出来，转移出中国内地。</p>
+<p data-sr-id="62">因此两年多以前，2014年年初，六四纪念馆筹备之时，守著一箱箱来自1989年天安门广场的子弹、遗书等物品，支联会曾经非常紧张，担心政府会不会想各种方法来打压，也担心开馆时有人来偷窃，令这些重要证物在香港失落。工作人员甚至想过，在800平方呎的展馆里安装30多部摄像机来监控。</p>
+<p data-sr-id="63">没有人想到的是，逃脱了牢笼的记忆，这么快，就在崭新的土地上，失去了重量。</p>
+<p data-sr-id="64">（为尊重受访者意愿，文中张哲梅为化名。端传媒实习记者何郁慧对本文亦有贡献。）</p>
+</article><hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BB%BF%E4%B8%83%E5%B9%B4%E5%90%8E-%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE%E7%9A%84%E8%AE%B0%E5%BF%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%BA%E4%B8%80%E4%BD%8D%E5%85%AD%E5%9B%9B%E6%AF%8D%E4%BA%B2%E4%BB%A3%E7%AC%94%E7%9A%84%E7%BB%8F%E5%8E%86/" target="cdt-mirror">博谈网 | 为一位“六四”母亲代笔的经历</a>
+</h2>
+<p><p>来源: 广陵晓阳</p>
+<p>美国中部时间6月4日清晨6点多钟醒来后，原准备再睡一会儿懒觉，但突然想到在国内是6月4日傍晚7点多钟，想到27年前的6月4日悲剧以及在那场悲剧中失去的生命，我就无法再入眠。起床，用文字记录下一年多前我为一位‌‌“六四‌‌”母亲代笔的经历，以此纪念那位在1989年6.4不幸遇难的年轻学子。</p>
+<p>《为一位 ‌‌ “六四 ‌‌ ”母亲代笔的经历》</p>
+<p>2015年1月中旬的某天，在乘坐Park Ride班车下班回家的路上，正沉浸在全家圣诞节期间南极行美好回忆中的我收到好友Y打来的电话。Y告诉我正在她这里探亲的母亲想写下对她哥哥Q的回忆，问我能否帮忙代笔。几年前，Y曾经告诉过我她哥哥不幸在1989年6.4遇难，以及哥哥的去世对整个家庭的打击和影响。</p>
+<p>听到Y请我为她母亲代笔，我一方面被Y对我的信任感动，另一方面又觉得自己不能胜任，担心不能完整记录她母亲对她哥哥的回忆。同时，我自知在政治方面比较迟钝，并且不是一个深刻的人，我的水平和能力都不适合写有关‌‌“六四‌‌”的话题；但我又觉得无论是作为一位母亲、还是作为一位曾经的中国大学生，我有责任和义务用文字帮助另一位母亲记录下对在那个悲剧中不幸英年早逝儿子的回忆和思念。我向Y表达了我的感受和矛盾心情，她谢谢了我的坦诚，并且温和地鼓励我试一试。我同意了。</p>
+<p>根据约订的某个星期六下午，我准时到达好友Y的家，是她母亲Z妈妈给我开的门。老人家告诉我Y夫妇带孩子们参加课外活动，要再过一会儿才回来，但她知道我来的目的。Z妈妈没有将我按排在客厅听她对她爱子Q的回忆，而是将我带到楼上她的卧室。大概看出我对这样的按排有些惊讶，老人家解释说是不想让我们的交流被参加课外活动回来后的外孙女和外孙干扰，更重要的是不想让孩子们得知他们舅舅的悲剧，在他们心中留下阴影。我被善良细致的Z妈妈感动。</p>
+<p>坐下后，Z妈妈未语就先流泪，我给了她一个轻轻的拥抱，什么也没说，也不知说什么。静了一会儿，老人家整理好情绪后，就开始进入主题。过了不多久，好友Y夫妇带着孩子们回家了。Y来到楼上，与我一起静静地聆听她母亲的叙述，只是在我听不太懂她母亲略带方言的普通话时，她才插话帮助澄清。在那大约2个小时的回忆中，Z妈妈多数时间是平静地叙述，有时哽咽说不下去，偶尔情绪特别激动，但从始至终老人家的眼睛是湿润的。而我95%以上的时间是一位听众，认真做笔记，偶尔提问，不止一次流泪，也不止一次伸出我的手轻握Z妈妈的手或给她轻轻的拥抱。</p>
+<p>从Z妈妈的回忆和描述中，我得知她的爱子Q从小就乖巧、勤快、善解人意、好学；上学后是一位乐于助人、品学兼优的好学生，以优异的成绩考上一所顶尖大学。Q在家是父母的好儿子、弟妹的好哥哥和好榜样；在学校是老师的好学生、同学们的好朋友，尤其是上了大学之后，结交了不少的新朋友。然而，由于在错误的时间（6月3号与一位同学外出购买实验课材料），出现在错误的地点（购物后从城里返校经过木樨地时发生戒严，使他和同学无法回校），以及他帮助别人的行动（夜幕降临后，Q和他的同学以及许多人并没有与戒严部队发生冲突，原本是比较安全的；然而，在路中间的人有被子弹击中，其中一位受伤者的身边有人喊救命，Q是第2个冲出去帮助救那位伤者的人，他自己也被子弹击中），Q不幸死于非命、英年早逝。当时，听到Z妈妈叙述至此，我的眼泪再次流下，痛惜一位生命如此无辜丧失，我忍不住紧紧地拥抱了Z妈妈。Z妈妈接着叙述的Q的老师们和同学们对Q后事的处理也使我感动得流下了眼泪。</p>
+<p>听完Z妈妈对她爱子Q的回忆和描述，我提出能否让我看一些Q的生前照片。好友Y给我看了一些她珍藏的哥哥照片，其中包括Q上小学时与同学打乒乓球的合影（注：Z妈妈含着眼泪，指着照片，微笑着说‌‌“Q乒乓球打得很好‌‌”；那是她在整个叙述过程中显出的唯一笑容）、Q的高中毕业照、Q与大学同学们登泰山的合影、在大学校园某个夏天的单人照、以及出事后老师们和同学们为他举办追悼会的照片等等。看着照片上那位有着俊朗外表、聪慧眼神、生气勃勃的年轻人，我的眼泪又止不住的流出。担心将泪水滴在照片上，我不停地用Y递给我的纸巾擦去泪水。。。。。。</p>
+<p>离开好友Y家时，我假装潇洒地与站在门口的她和她母亲挥手告别。然而，刚离开她家那条街道，我就将车停靠在一个角落，哽咽地哭泣。当时，心痛得特别难受，为Q、为他的家人；同时，感到胸闷有些喘不过气，有恍然如梦的感觉，因为我不愿意相信政府真的指挥部队开枪，也不愿意相信真的有学生在这场悲剧中失去生命。回到家后，我不愿意将Z妈妈对她爱子Q的回忆和深深思念告诉我的先生，也不愿意动笔整理笔记本上记录的Z妈妈的叙述。我多次陷入悲伤，不止一次想到‌‌“如果。。。。。。，那么。。。。。。‌‌”。遗憾的是在这世界上已经发生的事就不可能返回了，人也不可能起死回生。从Y那里得知她母亲很快将探亲结束回国了，我终于在老人家回国前一周左右将她对爱子Q的回忆整理成4部分交给她：1.童年；2.青少年；3.不幸遇难；4.Q不幸遇难对我们家庭的影响。</p>
+<p>【后语】： 愿我记录的这个经历给曾经来到这个世界的Q留下一个痕迹；愿《Do Not Stand at My Grave and Weep》以及根据这首诗改编的《千风之歌》带给Z妈妈和家人安慰。痛惜才华横溢、青春正茂的Q英年早逝的同时，也使我更想过好每一天，且行且珍惜。</p>
+<p>《Do Not Stand at My Grave and Weep》</p>
+<p>（author：Mary Elizabeth Frye）</p>
+<p>Do not stand at my grave and weep</p>
+<p>I am not there. I do not sleep.</p>
+<p>I am a thousand winds that blow.</p>
+<p>I am the diamond glints on snow.</p>
+<p>I am the sunlight on ripened grain.</p>
+<p>I am the gentle autumn rain.</p>
+<p>When you awaken in the morning’s hush</p>
+<p>I am the swift uplifting rush</p>
+<p>Of quiet birds in circled flight.</p>
+<p>I am the soft stars that shine at night.</p>
+<p>Do not stand at my grave and cry；</p>
+<p>I am not there. I did not die.</p>
+<p>《千风之歌》</p>
+<p>（译：张桂娥）</p>
+<p>请不要佇立在我坟前哭泣</p>
+<p>我不在那裡我没有沉睡在那里</p>
+<p>化为千风我已化身为千缕微风</p>
+<p>翱翔在无限宽广的天空裡</p>
+<p>秋天化身为阳光照射在田地间</p>
+<p>冬天化身为白雪绽放钻石光芒</p>
+<p>晨曦升起时幻化为飞鸟轻声唤醒你</p>
+<p>夜幕低垂时幻化为星辰温柔守护你</p>
+<p>请不要佇立我坟前哭泣</p>
+<p>我不在那裡我没有离开人间</p>
+<p>化为千风我已化身为千缕微风</p>
+<p>翱翔在无限宽广的天空裡</p>
+<p>化为千风我已化身为千缕微风</p>
+<p>翱翔在无限宽广的天空裡</p>
+<p>关键词: 六四 天安门 中共 栏目: 社会透视 热门话题追踪: 纪念六四 作者: 广陵晓阳</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%BA%E4%B8%80%E4%BD%8D%E5%85%AD%E5%9B%9B%E6%AF%8D%E4%BA%B2%E4%BB%A3%E7%AC%94%E7%9A%84%E7%BB%8F%E5%8E%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2/?category=18271" rel="tag">天安门母亲</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%88%91%E4%B8%8D%E6%98%AF%E5%9C%A8%E5%B1%A0%E6%9D%80%E6%88%91%E6%98%AF%E5%9C%A8%E6%88%98%E6%96%97%EF%BC%81/" target="cdt-mirror">博谈网｜“我不是在屠杀我是在战斗！”</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/sdhasdg.jpg?resize=550%2C309" alt="sdhasdg" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/sdhasdg.jpg?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/sdhasdg.jpg?resize=300%2C168 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -705,99 +832,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AA%92%E4%BD%93%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E7%8E%8B%E6%AF%85%E5%8F%91%E6%80%92/" target="cdt-mirror">【立此存照】加拿大媒体如何报道王毅发怒</a>
-</h2>
-<p><blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/" target="_blank">【网络民议】你去过中国吗？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/06/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%88%B0%E8%AE%BF%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E6%96%A5%E8%B4%A3%E6%8F%90%E9%97%AE%E4%BA%BA%E6%9D%83%E8%AE%B0%E8%80%85/" target="_blank">BBC | 中国外长王毅到访加拿大 斥责提问人权记者</a></li>
-</ul></blockquote>
-<p>根据加拿大政治新闻网站iPolitics<a href="https://ipolitics.ca/2016/06/01/for-the-record-chinese-foreign-minister-loses-it-over-human-rights-question/" target="_blank">报道</a>，加拿大媒体只能向王毅和加国外交部长迪翁提一个问题及一个该问题的后继问题，数家在场的加拿大媒体经过讨论后，由iPolitics的安全和国防记者阿曼达·康诺利（Amanda Connolly）作为代表，向迪翁提问。</p>
-<p>附《纽约时报》中文版对完整提问的<a href="http://cn.nytimes.com/china/20160603/canada-china-wang-yi/" target="_blank">翻译</a>：</p>
-<blockquote><p>问：“中国对待人权倡导者的状况一直令人担忧，比如<a href="http://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/" target="_blank">香港书商</a>、以及<a href="http://chinadigitaltimes.net/chinese/2014/08/%E5%8A%A0%E5%9B%BD%E5%A4%AB%E5%A6%87%E5%9C%A8%E5%8D%8E%E8%A2%AB%E6%8A%93%EF%BC%8C%E5%84%BF%E5%AD%90%E7%A7%B0%E6%B3%84%E5%AF%86%E7%BD%AA%E5%BE%88%E8%8D%92%E5%94%90/" target="_blank">加勒特夫妇被拘留</a>的问题，更何况中国在南中国海的领土野心给地区带来的不稳定影响。鉴于这些问题，为什么加拿大还在寻求与中国更紧密的关系？你打算如何使用这种关系来改善该地区的人权和安全？你今天与中国外长会谈时，具体问了加勒特夫妇的情况吗？</p></blockquote>
-<p>加拿大独立新闻网站Tyee在一篇题为<strong>《<a href="http://thetyee.ca/News/2016/06/02/Why-Chinas-Foreign-Minister-Flipped-Out/" target="_blank">为什么中国外长昨天在渥太华发飙了？</a>》</strong>的报道中调侃：</p>
-<blockquote><p>加拿大外交部长斯蒂文·迪翁所能做的唯一一件事儿，就是站在他的中国同行旁边，尽心尽责地做一块赏心悦目的装饰板。</p></blockquote>
-<p>《国家邮报》记者撰文称，<strong><a href="http://news.nationalpost.com/full-comment/michael-petrou-dions-silence-was-embarassing-as-chinas-foreign-affairs-minister-berated-a-canadian-reporter" target="_blank">面对中国外长痛斥加拿大记者，迪翁的沉默令人难堪</a></strong>：</p>
-<blockquote><p>和中国的持不同政见的记者所遭受的待遇比起来，他的发作可能看起来是一件小事。然而，在他教训记者哪些问题才算“可以接受”时，他是在打击加拿大民主里的一项基本自由：即记者可以对政治家追究责任。</p></blockquote>
-<p>加拿大保守党外交事务发言人<strong><span>托尼·克莱门</span>在接受加拿大广播公司<a href="http://www.cbc.ca/news/politics/chinese-foreign-minister-tantrum-reaction-1.3613086" target="_blank">采访时说</a></strong>：</p>
-<blockquote><p>“他来到加拿大领土，对一名提出合理问题的加拿大记者如此无理，我认为这简直太无耻了。”</p>
-<p>“我们作为部长或国会议员去北京的时候，会被告知需要尊重和回避某些中国历史和文化方面的话题。然后他现在到我们这里，对我们的价值观如此地不尊重”，他说，“这是让人无法接受的”。</p></blockquote>
-<p>加拿大<span>《环球邮报》</span>则在报道中将王毅的表现与<strong>李克强在2014年面对类似问题时的态度</strong>做了<a href="http://outburst/" target="_blank">比较</a>：</p>
-<blockquote><p>2014年，时任加拿大总理哈珀访问北京期间，向李克强问及了加拿大公民高凯文因被控间谍罪而遭到拘留一事，李克强笑着回答说“中国将继续依法治国”。</p>
-<p>王先生的这场发作是一次引人注目的反转。他的愤怒凸显了中国拒绝接受批评的态度，因为该国也许可以利用其经济能力制裁意见不合的国家。</p></blockquote>
-<p><strong>加拿大《国家邮报》<a href="http://news.nationalpost.com/full-comment/gary-clement-on-the-foreign-ministers-visit" target="_blank">社论漫画</a></strong>，作者为 Gary Clement：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/06-03-16cle.jpeg" rel="attachment wp-att-531379"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/06-03-16cle.jpeg?resize=500%2C444" alt="06-03-16cle" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/06-03-16cle.jpeg?resize=300%2C266 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/06-03-16cle.jpeg?w=620 620w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p>“如何看待中国的人权问…”<br>
-“把那女的抓起来！”</p></blockquote>
-<p><strong>附 Badiucao (巴丢草)</strong>: <a href="http://chinadigitaltimes.net/2016/06/badiucao-%E5%B7%B4%E4%B8%A2%E8%8D%89-chinas-foreign-minister-trumps-journalist/" target="_blank">Foreign Minister Trumps Journalist</a><strong>（外长向记者“特普朗式”开炮）</strong></p>
-<blockquote><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E4%BA%A4_%E7%BC%96%E8%BE%91%E5%89%AF%E6%9C%AC-1-e1464915045163.png" rel="attachment wp-att-531380"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E4%BA%A4_%E7%BC%96%E8%BE%91%E5%89%AF%E6%9C%AC-1-e1464915045163.png?resize=425%2C579" alt="外交_编辑副本-1-e1464915045163" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外交_编辑副本-1-e1464915045163.png?resize=220%2C300 220w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外交_编辑副本-1-e1464915045163.png?w=592 592w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AA%92%E4%BD%93%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E7%8E%8B%E6%AF%85%E5%8F%91%E6%80%92/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF/?category=18271" rel="tag">外交部长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4/?category=18271" rel="tag">民族复兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/" target="cdt-mirror">【网络民议】你去过中国吗？</a>
-</h2>
-<p><p>6月1日，外交部长王毅与加拿大外长迪翁举行会晤。会后，有记者团队代表向王毅询问了有关人权（包括被囚加拿大人高凯文）及铜锣湾书店的相关问题，令王毅大为不悦，并怒斥记者“充满偏见、不负责任”，并且抛出一连串反问。该消息很快成为墙内外热点，除了追随着“主流媒体”声音的一些网友对王毅的强硬态度大力叫好和对外媒的”偏见与傲慢“表示愤怒外；也有另一些网友认为王此番言论与习近平的“一不输出革命，二不输出饥饿和贫困…”有相似处，不但强行代表了国民，还答非所问、缺乏逻辑、理不直而气壮。</p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p>视频<a href="https://www.youtube.com/watch?v=InDlt1NZNsI" target="_blank">地址</a></p>
-<blockquote><p>王毅：“我必须说，你的问题充满了对中国的偏见与傲慢……我不知道这从何而来，但完全无法令人接受。”</p>
-<p>“关于中国人权状况，没有人比中国人民更了解，中国人民才是最有发言权和发言立场的。”</p>
-<p>“你到过中国吗？你知道中国是全世界第二大经济体吗？你知道中国已经帮助超过6亿人民脱贫吗？你知道中国已经把保护和推动人权写进了宪法吗？”</p>
-<p>“我建议你，请不要用如此不负责任的方式提问。我们欢迎善意的建议，但拒绝毫无根据和没有理由的指责。”</p></blockquote>
-<p><strong>相关阅读：</strong></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%88%B0%E8%AE%BF%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E6%96%A5%E8%B4%A3%E6%8F%90%E9%97%AE%E4%BA%BA%E6%9D%83%E8%AE%B0%E8%80%85/" target="_blank">BBC | 中国外长王毅到访加拿大 斥责提问人权记者</a></p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
-<p>@怡仔Fannie ： 我只知道，西方并不会给我更多的人权。</p>
-<p>@巧克力味咸鱼 ： 那些说没有人权的人，我就想问你们是怎么在网络上天天黑政府却还活的好好的人。</p>
-<p>@下雨遛狗不打伞 ： 我他妈就搞不懂！媒体爆出来死一个人，死两个人，也许真相还没有判出来，也许是有些遮遮掩掩，也许官方还没有下定论，但是就是这么一个两个的人他妈的好像就代表了全中国13亿人没人权了？？？这一两个人爱代表谁代表谁，不代表我！！要真没人权还让你们能在网上谩骂？？早抓起来了！国家是懒得理你们！</p>
-<p>@花花的花花公仔：有些人总喜欢把自己的不满把自己生活的不如意总喜欢迁就于社会迁就于国家，没有任何一个国家是完美的，美好的生活都是需要经过自己的打拼。</p>
-<p>@李先森panpan：评论里的loser，我不知道你和我是不是生活在同一个中国，我感觉我挺有人权的[微笑]国家没有禁止我吃喝穿，没有歧视，没有阻止我努力工作发展，想要得到的（合法），通过自己努力就可以做到[微笑]所以如果你把你们的一无所成归咎为中国没有人权，我只想说辣鸡到哪里都是辣鸡。</p>
-<p>@火影w海贼：热门那评论什么玩意，你对中国很失望吗，这么埋汰中国，自己不努力不要赖国家。</p>
-<p>@一瓶子茶叶：王毅外长在加拿大怒斥了一个记者，结果被国内爱国公知各种喷。</p>
-<p>@张小闹要加油：我不清楚什么是人权，我只知道，我靠自己的工作养活自己，能吃想吃的东西，能去想去的地方玩，平时没事黑黑政府，想要的东西都靠自己努力去争取，请问什么是人权？我只知道我现在靠自己的工作生活的很幸福，这难道不重要？</p>
-<p>@唯美与旅行不可辜负的Sliver：看了下面的评论真的很心寒，我们不应该是支持王毅外长对这种武断不了解情况的人进行反驳吗，也许外长是有些激动，可是你想象下每次在外面都要被批评人权内心肯定不好受啊，我们的祖国也许真的有很多很多问题，可是看看伊拉克那些国家可怜的人民吧，我们现在的生活真的是来之不易的，还请大家少点抱怨吧！</p>
-<p>——————-</p>
-<p>@LifeTime：恭喜王毅上头条。“你懂中国吗？你去过中国吗？….如果人权保护的不好，怎么可能取得那么大的发展？”</p>
-<p>@letscorp: 【造句】“你懂希特勒吗？你去过第三帝国吗？如果第三帝国人权保护的不好，怎么可能取得那么大的发展？”。“你懂ISIS吗？你去过伊斯兰国吗？如果伊斯兰国人权保护的不好，怎么可能取得那么大的发展？”</p>
-<p>@Find-miracle ： 应该怒斥这个记者：你有没有微博账户？你注册一个看看！</p>
-<p>@哥是小清新：我们靠自己的劳动获得报酬 而且纳税养活了庞大的政府 为什么反而是政府养活了我们一样？</p>
-<p>@哈哈哈哈哈哈：其实这个流氓逻辑反过来是教训小粉红们的：.没去过的国家不要听风就是雨，跟着新闻联播说什么人家人权也不行（哦，对，也这个字要少用）。</p>
-<p>@OraclMachine：好一个外长，办公室抽屉里藏的都是少女漫吧。不然对话的逻辑和一个失恋的初中女生同步率那么高：“你爱过我吗？你真正了解过我吗？你知道我有多么走心吗？你知道我不走心怎么可能会这么难过吗？你知道吗？你知道吗……知道吗？知道吗？</p>
-<p>@MyDF：记者问：你们为什么虐待猪？王毅答：我们把猪养得很肥！</p>
-<p>@李书行同学：你为什么要骂TFboys?你了解TFBoys么？你知道他们有多努力么？</p>
-<p>@中華總舵主陳近南 ： 听说你在家打老婆孩子？老王：你知道他们以前连饭都吃不上吗？你知道我家现在全村第二有钱了吗？我们家的人才有发言权，你给我滚。</p>
-<p>@hnjhj：- 你们什么时候可以不要把人当猪？- 你的提问充满了不知道从什么地方来的傲慢和对猪的不尊重。你养过猪吗？你去过猪圈吗？你知道中国让6亿头猪活蹦乱跳吗？你知道中国猪已经住上平均8平米带空调的猪棚了吗？你知道中国已经把保护猪吃无添加剂的青饲料写入饲养员守则了吗？</p>
-<p>@草原的游牧人：希望央视在网络上开展一个关于人权调查的活动，让我们中国人民自己来回答。</p>
-<p>@贾真同学：你知道一个母亲贫困到要偷鸡腿给生病的养女吃吗？</p>
-<p>@super_blog：请问你认识京城的雷洋吗？</p>
-<p>@_有芒果吃真是太好了：你知道中国的贫富差距有多大吗？你知道中国高考有多么不公吗？你知道中国的食品都有毒吗？你知道中国的强拆吗？</p>
-<p>@小白哥V：我要是外交部长我就理直气壮说，我们就是牺牲人权和环境才能获得经济这么快发展。</p>
-<p>@judesunman：“你吃过屎没，吃过才知道臭！” 记者答“闻着就臭～”</p>
-<p>@默默小刀君：他还有点含蓄呀……应该问你吃过屎吗？没吃过怎么知道臭！</p>
-<p>@blue_石头：怪不得中国游客在国外旅游，总被批评粗鲁无理，看看外长就知道了，一个老师教出来的。</p>
-<p>@斗西：王部长的脸特像木偶。“如果人权不好，怎么可能取得经济进步。” 这逻辑都能行？传销头子怒斥法官“我非常接受不了你的傲慢，如果传销的人不是自愿，我们怎么可能那么壮大？”</p>
-<p>@云的N次方：奴隶生活好不好，有没有人权只有奴隶主才知道，其他人没有权力说三道四。</p>
-<p>@<br>
-伊莎贝拉雷：水平真差，答非所问，更何况都没问他。动不动就第二大经济体，除了钱真的也没啥可炫耀的了。中国人有权提人权问题吗？是指那些被关在精神病院的上访人员还是那些关在牢里或软禁的异见人士或者是在说无辜的雷洋们？</p>
-<p>@小呆爱小乖不能再迷糊：有失风度，答非所问。</p>
-<p>@Joss_sz：对外点头撒钞票，对内拳头印钞票。</p>
-<p>@指环门：不流氓做不了神仙……理解。</p>
-<p>@馒头7up：被人踩到痛脚，戳到高点，问到最心虚的问题的反应一般都是这样的。</p>
-<p>@朱张锁：把那个记者抓起来嫖娼。</p>
-<p>@天水碧：你知道中国把言论自由集会自由也写进宪法了吗？</p>
-<p>@slowboywyf：王外长不要犯政治错误啊，你想给中国人民发言权？宣传部门同意了吗？</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8%E9%95%BF/?category=18271" rel="tag">外交部长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85/?category=18271" rel="tag">记者</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -809,7 +843,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -819,5 +853,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

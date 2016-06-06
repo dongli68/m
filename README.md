@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/" target="cdt-mirror">BBC | “港独”指控下兰蔻取消何韵诗演唱引反弹</a>
@@ -64,7 +64,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">中国市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%8E%AF/?category=18271" rel="tag">中环</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97/?category=18271" rel="tag">何韵诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E8%94%BB/?category=18271" rel="tag">兰蔻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E9%A2%86%E4%B8%AD%E7%8E%AF/?category=18271" rel="tag">占领中环</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E9%80%89/?category=18271" rel="tag">普选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%B4%BE/?category=18271" rel="tag">民主派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E7%8B%AC/?category=18271" rel="tag">港独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AF%8F%E7%BB%8F%E7%BD%91-%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E7%9A%84%E5%8C%97%E4%BA%AC%E6%A0%B7%E6%9C%AC%EF%BC%9A%E6%88%BF%E4%BA%A7%E3%80%81%E6%88%B7%E7%B1%8D%E5%9E%92/" target="cdt-mirror">每经网 | 中等收入群体的北京样本：房产、户籍垒高收入门槛</a>
 </h2>
@@ -196,7 +196,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E7%BA%BF
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%BA%E4%B8%80%E4%BD%8D%E5%85%AD%E5%9B%9B%E6%AF%8D%E4%BA%B2%E4%BB%A3%E7%AC%94%E7%9A%84%E7%BB%8F%E5%8E%86/" target="cdt-mirror">博谈网 | 为一位“六四”母亲代笔的经历</a>
 </h2>
@@ -886,7 +886,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -896,5 +896,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

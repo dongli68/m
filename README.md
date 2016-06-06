@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/" target="cdt-mirror">BBC | “港独”指控下兰蔻取消何韵诗演唱引反弹</a>
@@ -123,7 +123,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82/?category=18271" rel="tag">一线城市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E7%BA%BF%E5%9F%8E%E5%B8%82/?category=18271" rel="tag">三线城市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5/?category=18271" rel="tag">中等收入</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%B0%E6%88%BF/?category=18271" rel="tag">买房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E6%89%8B%E6%88%BF/?category=18271" rel="tag">二手房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E6%94%B6%E5%85%A5/?category=18271" rel="tag">低收入</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8F%E6%88%BF/?category=18271" rel="tag">住房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%8B%E5%8A%9B/?category=18271" rel="tag">压力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E6%94%B6%E5%85%A5/?category=18271" rel="tag">国民收入</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84/?category=18271" rel="tag">平均工资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E7%B1%8D/?category=18271" rel="tag">户籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5%E5%88%86%E9%85%8D/?category=18271" rel="tag">收入分配</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">社会稳定</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BB%BF%E4%B8%83%E5%B9%B4%E5%90%8E-%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE%E7%9A%84%E8%AE%B0%E5%BF%86/" target="cdt-mirror">端传媒 | 廿七年后 无处安放的记忆</a>
 </h2>
@@ -886,7 +886,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -896,5 +896,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

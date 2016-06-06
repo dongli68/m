@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%AE%8F%E6%9D%B0-%E8%99%9A%E5%81%87%E7%9A%84%E4%B9%BE%E9%9A%86%E7%9B%9B%E4%B8%96/" target="cdt-mirror">张宏杰 | 虚假的乾隆盛世</a>
@@ -150,7 +150,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">中国历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E9%AA%8C/?category=18271" rel="tag">中国经验</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%BE%E9%9A%86/?category=18271" rel="tag">乾隆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">大国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E6%B0%91/?category=18271" rel="tag">平民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%AD%97%E7%8B%B1/?category=18271" rel="tag">文字狱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%9C%89%E8%BF%99%E4%B9%88%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6-%E8%AD%A6%E5%B1%80%E5%BE%AE%E5%8D%9A%E8%AD%A6%E5%91%8A%E5%B1%81%E6%B0%91%E4%B8%8D%E5%BE%97%E6%81%B6/" target="cdt-mirror">墙外楼 | 有这么一个国家 警局微博警告屁民不得恶意拍摄</a>
 </h2>
@@ -207,7 +207,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F/?category=18271" rel="tag">军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A4%E8%87%80/?category=18271" rel="tag">护臀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E5%BC%B9%E8%A1%A3/?category=18271" rel="tag">防弹衣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/" target="cdt-mirror">BBC | “港独”指控下兰蔻取消何韵诗演唱引反弹</a>
 </h2>
@@ -998,7 +998,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1008,5 +1008,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

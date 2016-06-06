@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,194 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%AE%8F%E6%9D%B0-%E8%99%9A%E5%81%87%E7%9A%84%E4%B9%BE%E9%9A%86%E7%9B%9B%E4%B8%96/" target="cdt-mirror">张宏杰 | 虚假的乾隆盛世</a>
+</h2>
+<p><p>文/张宏杰 历史学者 著有《饥饿的盛世：乾隆时代的得与失》《中国国民性演变历程》等<br>
+本文为作者在高和分享读书会的演讲</p>
+<p>乾隆皇帝大家应该比较熟，在中国古代皇帝中他的知名度是比较高的，起码在电视上大家经常看到他。但是我认为，影视和文学作品提供的乾隆形象，包括二月河写的乾隆皇帝的形象跟历史上真正的乾隆差距还挺大。</p>
+<p>真实的乾隆皇帝是一个什么样的人呢?</p>
+<p>我认为，首先他是一个非常复杂的人。乾隆是一个有着多重身份的人。第一个身份当然是一个政治家，除此之外他还是一个军事家，提到乾隆，有一个词叫“十全武功”，就是说他指挥过十多场大的战争。</p>
+<p>他还是一个收藏家，乾隆时代的收藏不管是数量还是质量，也算是历史之最了。他还是一个诗人，当然乾隆的诗不是以质量闻名，而是以数量闻名，乾隆一生写了三万多首诗。全唐诗汇集了唐朝两千多个诗人的作品，一共也就三万首。乾隆一个人一生的创造量相当于全唐朝两千诗人的总量。当然，数量多了，质量也就比较平平。</p>
+<p>除此之外，乾隆还是一个语言学家，他的语言天赋非常突出，他懂得起码五种语言，满语、汉语、蒙语、维吾尔语和藏语，起码满、汉、蒙这三种语言能够进行思维，也就是非常之熟练。</p>
+<p>乾隆后来写过一本准噶尔蒙古的源流，就是直接用蒙语写的，可见他蒙语运用已经到了完全无障碍的程度。除此之外，他也能用维吾尔语和藏语进行日常对话。所以后来乾隆时期，班禅喇嘛从西藏来拜会乾隆，一见面乾隆就用藏语跟他交流，让班禅喇嘛吃了一惊。</p>
+<p>当然，在乾隆这么众多的身份中，他一个最核心的身份还是政治家，他今天还不停被我们提起，是因为他的统治成绩。按照历史学家的说法，乾隆这个时代是整个中国古代史上最兴盛发达的一个时代。如果我们横向看，在当时的全世界，大清帝国也是挺厉害的。</p>
+<p>比如第一是关于乾隆朝的经济总量，即GDP，当然关于乾隆朝的GDP怎么算的，史学界还有一些争论，但大致认同是那个时期的GDP占世界的三分之一，这个比例是相当高的。</p>
+<p>今天我们说中国大国崛起，已经排到世界第二，但我们占世界份额不过是百分之十二点多。而在乾隆时期，GDP占世界比例达百分之三十多，比美国占世界经济分量还要重。所以这应该是挺了不起的一个数字。</p>
+<p>第二个数字就是乾隆年间的军事实力是非常强的。今天新疆是一个省份，新疆是什么时候成为中国一个省份的呢?就是乾隆二十四年，乾隆彻底平定了准噶尔，把准噶尔四部当中的三部都彻底灭绝了，平定了新疆。</p>
+<p>通过平定新疆，整个中国版图达到1454万平方公里，相当于今天960万平方公里的1.5倍。所以乾隆年间的军事实力也是比较厉害的，周围小国都纷纷进贡来朝。</p>
+<p>第三个数字就是人口。中国历史上大部分时候，人口都在几千万之间徘徊，很少有超过一个亿的时候，但是乾隆时期人口达到三个亿。因为乾隆的祖父和父亲都很厉害，所以打下的基础比较好。</p>
+<p>乾隆刚登基的时候，乾隆六年做了一次人口普查，人口是一亿四，到他退位的时候又做了一次人口普查，人口达到三个亿。就是他在位的54年，人口翻了一番，这是中国历史上从来没有出现过。</p>
+<p>所以从这三点看，乾隆是一个非常有作为的皇帝。所以今天大家还不停提起他，称颂他的英明伟大，也是因为这几个原因。</p>
+<p>那么，乾隆是怎样取得这样辉煌的成绩呢?他主要是靠挖掘中国传统政治的权术、权谋，以及传统政治得失经验的潜力，乾隆的政治经验基本完全局限在中国经验之内。在中国历史上，对皇权、对国家政权构成威胁的，一般来讲，有以下这几种势力：</p>
+<p>第一类是后妃和外戚干政，就是皇帝的妈妈、皇帝的老婆、皇帝的小舅子、小姨子这帮人很容易干政。</p>
+<p>第二类是皇族干政，皇帝的叔叔、大爷、哥哥、弟弟这些人也容易干涉权力。</p>
+<p>第三类是太监干政。汉朝、明朝、唐朝，太监干政都很严重，比如明朝魏忠贤，汉朝的“十常侍”。</p>
+<p>第四类是权臣干政。皇帝如果比较懦弱或者比较懒惰的时候，大权很容易被大臣拿去，所以历史上出现了好多权臣，像张居正，鳌拜这些人。</p>
+<p>最后还有农村起义的威胁。有地方割据势力的威胁，有帝国外患的威胁。</p>
+<p>所以想做好皇帝很不容易。在中国历史上，没有一个朝代把这些威胁统统控制住、消灭掉。不管哪个皇帝当政，都会有一两种势力兴风作浪。</p>
+<p>比如乾隆的父亲雍正，那是一个非常厉害的皇帝，但是雍正当政的时候，也出现过年羹尧、隆科多这样的权臣。康熙晚年的时候，他的儿子们分门别党，结交朝中大臣形成朋党争夺皇位。</p>
+<p>中国历史上唯一一个把诸种势力几乎全部压服，对皇权不构成丝毫挑战的就是乾隆朝。那么乾隆是怎么做到这一点的呢?我举几个例子说明一下。</p>
+<p>我们先来看一下他是如何防范后妃干政的。乾隆是一个孝子，历史上记载，乾隆当了皇帝以后也经常去给太后请安，尽量陪太后吃饭，皇太后每年过生日乾隆都会拨很多钱给太后办非常隆重的庆典。而且每年过生日的时候，乾隆都会亲自给太后画上四幅画，这是一个定例，意思是花多少钱是身外之物，他自己亲笔画的画更能代表心意。</p>
+<p>乾隆他母亲特别好动，喜欢旅游，所以乾隆下江南、去泰山、五台山等地都带着他母亲。他母亲身体非常好，享年八十六岁。在八十五岁的时候还跟着乾隆登上泰山山顶。</p>
+<p>乾隆对他母亲的孝顺应该做得非常到位，所以大臣说乾隆是纯孝。但乾隆在处理跟他母亲关系的时候，有一点，即绝对不允许他母亲越过政治界限，干预任何政事。</p>
+<p>所以乾隆登基后第三天就给他母亲身边的太监和宫女发了一道谕旨，说宫中之事任由太后作主，宫外之事恐太后闻之心烦，不许向之传说。这实际上就是对他母亲进行了信息封锁，也就是为了防止其干政。</p>
+<p>所以这道谕旨头几年执行不错，但后来发生了一次小小的不愉快。有一次乾隆给母亲请安，母子俩坐那聊天，聊着聊着老太后就说，她听说顺天府东面有一个庙挺灵验的，老百姓有求必应。但是这个庙是明朝时建立的，现在年久失修，快要塌了，皇帝能不能拨点钱修一下。乾隆一听满口应承，说小事一桩，马上派人去修。</p>
+<p>但是出了老太后的寝宫，乾隆就把太后身边的太监宫女叫过来，质问谁跟太后说的这件事。并且念在初犯的份上，每人罚俸一个月，警告如果再有这类事，就会有人掉脑袋。之后乾隆把这番话形成一道谕旨发给这些太监宫女，实际就是发给太后看。从此其母亲更加注意。</p>
+<p>所以终乾隆一世，一直到老太后死，她再也没有干预过宫外的事。这件事并不是说乾隆这个人多么刻薄，而是因为他非常重视历史上的经验教训。从汉朝的吕后干政，一直到清朝的孝庄太后，中国历史上皇太后干政几乎的事情时有发生。所以乾隆政治的特点是注意防微杜渐，从小处抓起，从细节抓起，在防范后妃干政这点他做得比较成功。</p>
+<p>在防范皇族干政上，乾隆做得也不错。乾隆即位的时候，他还有两个弟弟。雍正一共生过十个男孩，但大部分都夭折了。乾隆这两个弟弟，一个叫弘昼，一个叫弘瞻。</p>
+<p>弘昼跟乾隆同岁，同父异母，两人从小一起长大，一起吃饭、睡觉、读书，所以关系特别好。乾隆即位之后给他们封了很高的爵位，然后封赐了很大的王府，拨了很多的钱，物质待遇很优厚，对这两个弟弟应该说很好。</p>
+<p>但是有一点，乾隆不许他们接触政治权力，而且还经常提醒他们：咱们之间的关系本质上不再是兄弟，而是君臣，你们一定要认清这一点，如果认不清这一点就会犯错误。</p>
+<p>有一次发生了一件小事，乾隆这两个弟弟到宫里给太后请安，两个弟弟跪在那跟太后聊天，聊了一会稍不注意就把膝盖往前蹭了蹭，就蹭到乾隆平时给太后请安跪的那张席子上，那张席子包着一个明黄的缎子，是皇帝专用。</p>
+<p>按理来讲，这是一件非常小的事情，但是乾隆小题大作，抓住这件事勃然大怒。乾隆说这是一个原则性的问题，是大不敬，你们怎么能跪皇帝的席子呢。就此小事对这两个弟弟严肃处理，对弘昼的处分是罚俸三年。</p>
+<p>经乾隆这么几次敲打以后，弘昼明白了，他说我这个皇帝的弟弟听起来地位非常尊贵，可以说一人之下，万人之上，但实际上我比别人的地位都要低，我是一个政治贱民。</p>
+<p>为什么这么说呢?因为在传统时代，一个男人想要实现自己的人生理想只有一条路，就是去当官。但我作为皇帝的弟弟，这一辈子不能做官，不能沾染政治，我这一生的使命就是混吃等死。</p>
+<p>所以他把自己关在王府里面，成天花天酒地、胡吃海喝、浑浑噩噩度日。时间一长，精神就有点不正常。</p>
+<p>后来他在王府中玩一种游戏：在院子当中摆上几个高桌，上面摆几种供品，自己坐在高桌上吃供品，演习自己的葬礼，他为什么这么做呢？弘昼说，人死如灯灭，人死后有没有灵魂谁也不知道，像我们这样的皇族之家，死后的葬礼办得非常隆重，我要是死了什么都不知道了，钱不是白花了吗?所以我活着的时候就要享受一下。所以他让妃子、王府中的下人跪在下面哭，谁哭得最悲哀，就给谁赏赐。</p>
+<p>他就在王府中不停地玩这种游戏，玩到62岁死了，算是得了一个善终。这在中国历代皇帝弟弟的命运当中算是不错的。</p>
+<p>乾隆的另一个弟弟弘瞻就没这么幸运。弘瞻年龄比乾隆小了整整23岁，即雍正皇帝死之前两年才生的，所以乾隆从小对他很关照，像对自己儿子一样，给他很多钱，派很多人服侍他。</p>
+<p>但是这种王公贵族，从小没人管束，脾气性格往往就不太好，非常自私，一身纨绔子弟的毛病，所以乾隆渐渐就不太喜欢他。</p>
+<p>特别是有一次，乾隆住在圆明园的时候，圆明园失火了，而住在附近的王公贵族赶紧都跑过来帮助救火。弘瞻也来了，但是他没着急救火，而是站在旁观嘻嘻哈哈看热闹。乾隆远远看见心里非常生气，但是当时没有发作。</p>
+<p>过了不久就发生了弘昼和弘瞻给太后请安跪错席子的事情，乾隆给弘瞻的处分更严重，宣布革去弘瞻的王爵，永远停俸。这个处分是非常严重的，差一点就将其开除出皇族。</p>
+<p>弘瞻从小娇生惯养，身体底子不好，经过这个打击就得了病，而且病得非常重，很快就奄奄一息。乾隆知道了也挺后悔，赶紧到弘瞻的府中探望。到了弘瞻的府中，一看弘瞻瘦得脱了相，跟原来简直判若两人，乾隆很难过。弘瞻一看哥哥来了，吓得在病床上要爬起来给哥哥行礼，挣扎半天也没爬起来，只在枕头上给哥哥叩头，说哥哥以后我再也不会犯这样的错了。</p>
+<p>乾隆一看心里非常难过，宣布马上恢复弘瞻的亲王爵位，然后补发所有的俸禄。但是已经晚了，乾隆走后第三天，弘瞻就去世了，死的时候年仅32岁。</p>
+<p>皇帝对权力和亲情的关系处理是很难的。这些皇族，你对他们管理稍微松一点，就有很多人去攀附他们，干扰政治的秩序。你要管得太严，很容易就伤害彼此的亲情，所以到最后实际上乾隆也没把平衡把握得太好。</p>
+<p>乾隆在防范后妃，防范皇族上都做到了防微杜渐，防范太监干政也做得很好，都是从细节抓起。</p>
+<p>乾隆如何防范太监呢?是通过对太监进行一种精细化管理来实施的。乾隆对宫中所有太监进行定岗、定编、定责，分解每个人的任务，你应该几点上班，几点下班，你这一天应该干什么事，哪点没做到，打多少板子，多少鞭子，制订了一个非常精细的宫中现行责例，用这个考核太监们的绩效。所以乾隆朝从来没有出现过太监干政的事。乾隆对太监管得非常细。</p>
+<p>乾隆还要防范老百姓，防范老百姓起义闹事。乾隆对老百姓有两幅面孔，一方面他是一个很仁慈的皇上，另一方面他又是一个很残忍的皇上。</p>
+<p>乾隆这个人本性上还是很善良很仁慈的。他小的时候，皇宫中养的小猫小狗死了以后他会难过上半天。所以雍正从小就观察他，选择他做继承人之后，雍正还有点担心，说这个孩子可能过于仁柔，当不了皇帝。</p>
+<p>当了皇帝之后，乾隆非常重视各地的灾情，有的时候地方官写灾情汇报写得惨了点，乾隆一边看一边会掉眼泪，所以乾隆算得上一个仁慈君主。</p>
+<p>他在位的时候做了一个中国历朝历代皇帝从来没有做过的事情，就是五次普免全国钱粮，这意味着什么呢?就是有五年全国老百姓都不用交税了。这种举动在那个时候可不像今天这样免除全国人的个人所得税这么容易。个人所得税在我们今天的国家税收中只占很小一块，但是乾隆时期，老百姓钱粮是国家税收的大部分，占到百分之七十多。</p>
+<p>除此之外，还有局部的免税、减税。比如山东遭灾了，山东全省就不用交税，这种事经常发生。这样的力度是中国历史上所有皇帝都没有做到的。从这一点看，乾隆是一个很仁慈的人。</p>
+<p>但是另一面，乾隆又非常残忍。乾隆对老百姓中他所认为的刁民，或者他认为不听话的人，非常之残酷。</p>
+<p>乾隆朝有一个社会现象跟今天有点相似，就是随着社会经济的平稳发展，随着经济的繁荣，社会出现了贫富差距拉大，资源紧张，地少人多这样的各种社会矛盾，社会上群体性事件经常发生，老百姓跑到官府去请愿、上访，佃户和地主之间发生冲突的事情非常多。</p>
+<p>乾隆对这种群体性事件有一个原则，聚众上访闹事的人超过40人，就按谋反来处理，为首之人一定要严肃处理，绝不放过。</p>
+<p>有一年，苏州府发生了灾荒，粮价飞涨，苏州米商把大米囤起来不卖，进一步要抬高粮价，老百姓受不了，就集体跑到苏州知府那请愿。</p>
+<p>领头的是一个叫顾姚年的秀才，这个人为了表示自己对朝廷的恭顺，他去请愿的时候，自缚双臂，就是让人把他的胳膊在背后捆起来，表示是一届朝廷顺民，并没有其他意思，只是想解决这件事情。</p>
+<p>因为人很多，苏州知府就把这事汇报给乾隆，乾隆的批示是：第一，要开仓放粮，平抑粮价;第二，带头的、为首的这些人，特别是这个顾姚年一定要处死。所以后来顾姚年就被苏州知府在大堂上当场打死。</p>
+<p>所以这就是乾隆处理这些群体性事件的一个不变的原则。乾隆对底层社会的各种请愿、示威就一个态度，一定要压制，一定要把各种不稳定的苗头消灭掉。</p>
+<p>这就引发了另外一个话题，乾隆朝的文字狱特别厉害。乾隆朝以前，康熙，雍正也制造了好多文字狱，但那两朝加一起也不过三十起，而乾隆一朝就制造了一百三十起文字狱。</p>
+<p>而且乾隆文字狱跟以前不同的是，以前的文字狱打击的都是朝廷的官员，或者是社会上知名的文人，像宋朝苏轼，明朝朱元璋的文字狱杀的都是官员，康熙、雍正杀的基本也都是官员，但是乾隆朝文字狱打击重点是社会底层的那些文人，或者说有的根本不是文人，只是识几个字而言。</p>
+<p>有人做过一个统计，乾隆朝文字狱一百三十多起，其中有百分之七十多受处理的对象都是平民百姓，都是小老板、小商人、穷教书匠这样一些人。这是为什么呢?</p>
+<p>因为乾隆熟读中国历史，他总结出一个规律，就是在底层社会中对皇权构成最大威胁的是这么一类人，失意文人，就是科举考试总考不中的那些人。</p>
+<p>过去中国的读书人对自己的生命期望值都很高，都想着要当官，一旦科举不中，他们很难老老实实放下书本去当农民，他们总会想方设法要改变自己的命运，一旦社会上有动荡，他们往往会充当出头鸟，带领老百姓起事。</p>
+<p>而且他们识文断字，比一般人能力要强一点。所以中国历史上农民起义的大部分是社会底层文人，比如唐朝最有名的一次起义——“黄巢起义”，黄巢就是考了好几次进士考不中，黄巢也是全唐诗中所说的一个诗人。</p>
+<p>清朝最大的一场农民起义——太平天国起义首领洪秀全，他为什么会起义呢?是因为他连续考了四次秀才都没有考上，考到三十多岁，看看自己实在是没有希望了，就创办了一个地下教文，叫拜上帝教。洪秀全本来是通过教文敛财发财，他开始没想什么起义，后来因为官府搜剿广西别的农民起义，捎带也威胁到了他们的教文，他一看这个形势也可以利用，才宣布要起事。</p>
+<p>总而言之，因为乾隆对社会底层的失意文人特别重视，所以就发生了一个奇怪的文字狱，叫丁文斌案。</p>
+<p>乾隆十八年的时候，山东曲阜衍圣公(孔子后代)的孔府门口跑来一个年轻人敲门，孔府家人打开门一看，这个年轻人衣衫褴褛，面黄肌瘦。他自称丁文斌，是浙江人，千里迢迢跑到孔府是来给孔府做上门女婿。</p>
+<p>他说他经常听到一个小人在他耳边说话，说他有九五之命，将来要当天子，上天把孔府的两个女儿都许配给他，今天来认认亲。说着还从怀里拿来一本书，说这是他开创新朝的一些想法，治国理论的一些思路，让家人拿给“他岳父”看看看配不配给他做女婿。</p>
+<p>家人一看这个丁文斌精神显然有问题，就把他扭送到了官府。山东地方官升堂一审，丁文斌说的确有个小人在我耳边说话，并已经给我开创了新朝，所以我已经给这个新王朝起了国号、年号，我还给这新王朝制造了制朝图案，我把这些东西汇编成了一本书，大老爷您看我这本书写得怎么样。</p>
+<p>地方官感觉很为难，这个人想要当皇帝，显然是谋反，但谁都看得出来这个人是个疯子，是个精神病人，这个事怎么处理呢?他就给乾隆写了一封奏折。乾隆一看山东地方官的汇报，就先问这个地方官，说这个丁文斌身体状态怎么样，还能活多长时间?</p>
+<p>山东巡抚向乾隆汇报说丁文斌本来身体就很差，又怕他装疯卖傻，所以曾经对他动用大刑，打了好几次，现在估计他活不了太长时间了。</p>
+<p>乾隆为什么要关心这个丁文斌的身体呢?是想把他提前放出来，还是想给他治病呢?都不是。乾隆接到山东巡抚的汇报就作了一段批示，说要是按照咱们大清王朝正常的法律程序，把这个案子报到刑部搞一个三方会审，然后再报到我这里，我再谕旨行文到山东，三个月过去了，可能最后判决时丁文斌已经死了，那就让他逃脱了法网，逃脱了惩处，这无论如何是不行的。</p>
+<p>所以接到谕旨的当日就要把他提出来凌迟处死。所以接到乾隆这道上谕，山东巡抚就把丁文斌从牢里提出来，号召济南老百姓都来观看，然后在万头蹿动之下把丁文斌一刀一刀凌迟处死。</p>
+<p>像丁文斌这种疯子文字狱在乾隆朝还不止发生这一起，一共发生21起，其中有七起主角是疯子，都被乾隆处死。乾隆为什么要这样做呢?为了杀一儆百。他要搞恐怖组织，就像我前面提到的，乾隆晚年的社会动荡加剧，社会矛盾很突出，所以他要搞一些恐怖组织。</p>
+<p>乾隆的意思是，一个疯子想要造反我都要这么对待他，如果正常老百姓想起来造反肯定没有好下场。所以说乾隆为了达到他的政治稳定，无所不用其极。他可以最仁慈，他也可以最残忍，一切都是为了他的政治需要。</p>
+<p>乾隆通过他强有力的政治手段，对社会各个层面都做到了强有力的控制，就实现了长达64年的政治稳定。与此同时，经济不断发达，造就了中国最长一个盛世——乾隆盛世。通过这种方式得来的盛世显然是有问题的。</p>
+<p>接下来我通过一个西方视角看一下乾隆盛世存在的一些问题。</p>
+<p>什么样的西方视角?乾隆晚年，英国派过一对使臣来到大清王朝，这些英国人把他们的所见所闻写成了好多书，后来在欧洲出版，这些书也有好几本今天已经翻译成汉语，大家很容易找到。</p>
+<p>那么英国为什么要派一对使臣到中国来呢?那时候他们想跟中国建立一个平等的外交关系，想跟乾隆互开大使馆，互派大使。来到中国之前，这些英国人对大朝王朝抱着非常美好的想象，但是到了之后他们发现，大清王朝很多方面跟他们想象是非常不一样的。</p>
+<p>我总结了一下有三点不一样：</p>
+<p>第一点，大清朝不如他们想象的那么富庶。</p>
+<p>来到清朝之前，这些英国人每个人差不多都读过一本书，就是那本著名的《马可波罗游记》，《马可波罗游记》中说中国是一个非常富庶的国家，遍地都是黄金，人人都穿着绫罗绸缎。</p>
+<p>但是到了中国之后，这些英国使臣发现不是这么回事。英国人到了中国的第一个大城市是天津，他们坐船来到天津口岸，天津的知府非常重视，因为乾隆皇帝早已经给各地官员发下了谕旨说谁要是见到英国人，一定要好吃好喝好招待，因为人家不远万里来进贡，诚意可感。</p>
+<p>乾隆认为英国人是来进贡的。所以天津知府就弄了好多活鸡、活猪、活牛、活羊送到英国船上，因为他们知道英国人航海九个月，船上肯定缺乏活的肉食。那么这些鸡鸭牛羊在运输过程中因碰撞而死，到了船上放了两天有点变质了，英国人就把它们扔到海里去了。</p>
+<p>这时候海岸上站了好多中国人在那看热闹，因为谁也没见过金发碧眼的洋鬼子，头一次见感觉很新鲜。一看英国人船上扔下来这些死物，有好几十个人也不管会不会水就往水里跳去抢这些东西，英国人一看就明白了，中国人的生活水平很低，要不然不至于连这些已经变质的肉都抢。</p>
+<p>接着天津知府又派了一些老百姓去船上给英国使臣服务，扫地做饭，端茶倒水。这些英国使臣一看大清帝国的子民有个突出的印象，就有点像我们今天到北朝鲜去旅游，有个很明显的印象，什么印象呢?</p>
+<p>就是北朝鲜除了金正恩一个胖子之外，其余的人都很瘦，枯干瘦小。英国人到了中国之后发现底层社会的这些人也都是，几乎没见到一个胖子，所以他们第一个印象就是乾隆盛世，其实是一个饥饿的盛世，所以我以前出过一本书就叫《饥饿的盛世》，就是写乾隆朝的。</p>
+<p>讲到这可能有的朋友有点疑问，为什么盛世老百姓还吃不饱?因为乾隆盛世跟以前盛世有不一样的地方，就是我前面讲的人口增长得太快，人口从一亿四增长到三个亿，翻了一番。</p>
+<p>虽然乾隆很重视农业，发展农业也很有办法，乾隆朝的农产量是中国历史上最高的。但是最高也不过是提高百分之十、百分之二十，但是人口却增长了百分之百，一平均后人均粮食占有量又是中国历朝中最低的。</p>
+<p>有一个数据，宋朝人均粮食占有量1400多斤，宋朝是中国历史上最富庶的一个王朝，清朝是700多斤，只有宋朝的一半。这700多斤并不是都吃到肚子里去了，其中很多要转化成肉类、奶类，特别是要供贵族消费，人均只能勉强温饱。</p>
+<p>所以乾隆朝是一个饥饿的盛世。这是英国人到中国的第一个感受。</p>
+<p>第二点，乾隆朝不仅是一个物质上、经济上贫困的时代，也是一个政治上贫困的时代。</p>
+<p>为什么说政治上贫困呢?这些英国使臣到了中国之后发生了一件事情，他们到达的第一个中国城市并不是天津，而是浙江的定海，因为他们不熟悉中国的海路。到了定海之后他们找到了当地最高官员——定海总兵，让总兵帮忙找两个领航员把他们领到天津去。</p>
+<p>定海总兵因为也接到了乾隆的谕旨，要好好接待英国人，所以答应帮忙。但是定海总兵帮忙的方式跟英国人想象得不一样。英国人认为总兵会花重金招募。但总兵的办法是派出手下所有的士兵满大街抓人，航过海的都被抓来，然后总兵一个一个审问，最后挑出两个以前去过天津的。</p>
+<p>总兵要求他们收拾一下行李马上出发，而且一文钱不给，路费要自理。这俩人虽然很不情愿，但是总兵威胁他们不去就把他们抓起来，这两人没办法只好跟英国人走。</p>
+<p>这一幕是英国人无论如何也想象不到的。所以在他们的回忆录里写道，从这一幕我们可以看出大清帝国给他的子民提供的政治保护是很不美妙的。</p>
+<p>因为那个时候欧洲的政治文明已经发展到了一个比较高的高度。在乾隆时期欧洲曾经发生过一个很有意思的事情，这个事情我在好多文章当中见到过，具体细节我没有考证过。</p>
+<p>乾隆十二年的时候，普鲁士的国王叫腓特烈二世给自己修过一个宫殿叫夏宫，夏天去避暑。宫殿修得很漂亮，很高大，但是有一个问题就是选址不太好，这个宫殿盖在一个磨坊的旁边。</p>
+<p>我们知道那时候欧洲都是靠风力转动磨坊，宫殿把磨坊旁边的风给挡住了，就影响了风磨转动的效果，磨坊主就跑到法院把国王给告了，国王没办法，后来只能给予赔偿。通过这两件事一对比，你就能看出那时候中西政治文明已经有很大的差距，所以英国使臣说乾隆朝也是一个政治上贫困的时代。</p>
+<p>英国人观察到第三个重点是什么呢?英国人对中国人的国民性也有了一个很深刻的印象。当然国民性是后来提出的一个词，但是英国人那时候对中国人的性格特点也有一个很深刻的观察。</p>
+<p>来到中国之前，英国人对中国人是很尊重的，因为那个时代欧洲有过一场中国热，即崇拜中国的热潮。当时，欧洲好多传教士把中国四书五经翻译到了欧洲，欧洲上层知识分子一阅读这些书，这些书当中描绘的图景是什么样呢?中国是一个大一统的王朝，管理得井井有条，君君臣臣，父父子子，按照一个父臣制的亲情原则进行管理，所以欧洲人很羡慕中国，说中国是一个高度文明，又高度稳定的国家，比欧洲这种小国林立，不停打仗的状况要强得太多，所以他们非常崇拜非常向往中国。</p>
+<p>所以法国的大学者伏尔泰那个时候成天在自己小书房中挂着孔子挂象，每天起来都要向孔子行礼。所以英国使臣认为中国老百姓文明素质是非常高的，但是到了中国之后，他们发现完全不是这样。</p>
+<p>我们讲过天津知府派了一些人给英国人做饭，有一天晚上马戛尔尼(英国使团团长)，副使斯当东，他们俩让厨师给他们做两只鸡，厨师把红烧鸡块端上来了，做得挺好吃，但是吃着吃着，这几个英国人发现问题了，就把这个厨师叫过来问，说你们中国的鸡每只长几条腿?厨师说两条啊，怎么了？马戛尔尼就说，我总共让你做两只鸡，这盘子里怎么一共只有两条鸡腿？厨师一听哈哈一笑，回到厨房把他藏下的两条鸡腿又拿出来端到桌子上来。</p>
+<p>所以后来马戛尔尼写回忆录说，这些普通的中国人非常容易撒谎，你指出来他们也毫不羞愧，所以他们对中国人的道德素质评价很低。</p>
+<p>关于国民性他们还有第二个观察。前两年咱们国家发生了一件事，佛山小月月事件大家应该都知道。佛山一个小孩叫小月月，在农贸市场被一辆车压倒了，前后从那走过十八个人没有一个人管，后来来了第二辆车把那个小孩给压死了。这个新闻发生之后，大家都痛心疾首，说中国国民性怎么变成这样了。其实这种事在乾隆朝就发生过，而且被英国人看到了。</p>
+<p>那时候英国人到了天津之后，他们按惯例换上中国官府提供的官船沿着运河北上北京，在运河的两边停着好多小船，小船上站满了中国人，站在那看热闹。</p>
+<p>有一条小船站了40多人，人太多，英国船经过的时候，大家都往能看得着的这边挤，结果船翻了，40多人都掉到河里了，英国人发现周围有十来条小船，没有一个人跳下去救人。英国人说我们赶紧停下来救人吧，但是中国的水手们跟他们说：我们朝廷有规定，官船不能随便停船，于是就这样开走了。</p>
+<p>英国人说我们能够清楚地看到掉到河里这一船当中有好几个人是不会水的，最后起码有四五个人淹死了。所以英国人感觉特别奇怪，那时候英国在世界各地有好多殖民地，说我们走遍了全球，见识了各种人种，见识了各个国家，没见到任何一个国家人民的性格是这样的，中国人太奇怪了。</p>
+<p>而且英国人以前在他们的殖民地接触过一些海外华人，菲律宾，巴达维亚等等，他们本来感觉中国人挺好，挺善良，挺温顺的，为什么生活在本土的中国人彼此之间如此冷漠呢?</p>
+<p>他们百思不得其解。后来使臣马戛尔尼得出一个结论，认为中国的统治者按照他们的需要刻意塑造了这样的国民性格。这个是关于中国国民性最早的一段论述。</p>
+<p>以上就是我通过英国使臣的眼睛来观察乾隆盛世的一些问题，通过这种观察我们就能看到：</p>
+<p>纵向看，乾隆盛世在中国历史上是一个了不起的盛世，但是横向看，它是一个饥饿的盛世，是一个恐怖的盛世，是一个基于统治者最大利益打造出来的盛世，那么这样的盛世注定不能持久。</p>
+<p>所以在乾隆死后40年就爆发了鸦片战争，大清王朝就踏入了万劫不复的半殖民地，半封建这样一个境地。事实上乾隆晚年这个盛世就已经崩塌了，乾隆晚年爆发白莲教起义，实际上就已经宣告了康乾盛世的终结。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%AE%8F%E6%9D%B0-%E8%99%9A%E5%81%87%E7%9A%84%E4%B9%BE%E9%9A%86%E7%9B%9B%E4%B8%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">中国历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E9%AA%8C/?category=18271" rel="tag">中国经验</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%BE%E9%9A%86/?category=18271" rel="tag">乾隆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">大国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E6%B0%91/?category=18271" rel="tag">平民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%AD%97%E7%8B%B1/?category=18271" rel="tag">文字狱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%9C%89%E8%BF%99%E4%B9%88%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6-%E8%AD%A6%E5%B1%80%E5%BE%AE%E5%8D%9A%E8%AD%A6%E5%91%8A%E5%B1%81%E6%B0%91%E4%B8%8D%E5%BE%97%E6%81%B6/" target="cdt-mirror">墙外楼 | 有这么一个国家 警局微博警告屁民不得恶意拍摄</a>
+</h2>
+<p><p>原标题：有这么一个国家：外长可以训斥外媒记者“恶意”提问 警局微博警告屁民不得“恶意”拍摄</p>
+<p>@平昌公安：【遇到警察执法，请不要随意拍摄，因为法律不允许！】5月30日,一段“太原警察打人”的视频风靡网络,事情的真相是什么,山西警方已有结论公布，需分析的是,群众是否有权随意拍摄民警执法过程的问题.因民警阻止违法行为人拍照,引发暴力的片段.网友纷纷质疑太原民警执法的合法性,那么请看X相关法律条文。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-1-1.jpg?resize=590%2C273" alt="1-1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-1-1.jpg?w=590 590w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-1-1.jpg?resize=300%2C139 300w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2-1.jpg?resize=589%2C656" alt="2-1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2-1.jpg?w=589 589w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2-1.jpg?resize=269%2C300 269w" sizes="(max-width: 589px) 100vw, 589px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3.jpg?resize=588%2C194" alt="3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3.jpg?w=588 588w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3.jpg?resize=300%2C99 300w" sizes="(max-width: 588px) 100vw, 588px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4.jpg?resize=600%2C1104" alt="4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4.jpg?w=735 735w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4.jpg?resize=163%2C300 163w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4.jpg?resize=557%2C1024 557w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5.jpg?resize=600%2C373" alt="5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5.jpg?w=748 748w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5.jpg?resize=300%2C186 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6.jpg?resize=600%2C1172" alt="6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6.jpg?w=737 737w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6.jpg?resize=154%2C300 154w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6.jpg?resize=524%2C1024 524w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<blockquote><p>美国之音：美一联邦法庭判决公民拍摄警察执法录像合法</p>
+<p>美国联邦第一巡回上诉法院最近判决说，波士顿市一位普通公民在公共场所把警察执法过程录音录像，受到美国宪法第一修正案言论自由权的保护。这个判决被一些观察人士看作是公民言论自由的又一大胜利。</p>
+<p>*格里克拍摄警察执法录像导致诉讼*</p>
+<p>2007年的一天，西蒙·格里克步行穿过麻萨诸塞州波士顿公园时，看到警察正在逮捕一名年轻人，而且看上去过份使用了武力。于是，格里克拿出自己带有摄像功能的手机，站在10英尺之外，把警察的这个执法过程录音录像。警察转过身来以违反该州监听法和扰乱治安为由把格里克抓了起来，而且没收了他的手机和电脑闪存卡。</p>
+<p>2008年，波士顿市一个法庭驳回了对格里克的指控。法庭裁决说，不能因为警察对实施逮捕时被人录像而感到不悦，就把格里克合法行使其言论自由权定为犯罪。另外，格里克也没有违反该州监听法，因为他没有在暗中监听和偷拍。格里克反过来以警方违反美国宪法第1条修正案和第4条修正案赋予他的权利为由到联邦法庭提出了起诉。</p>
+<p>简单地说，美国宪法第1条修正案规定，公民有言论和出版的自由，宪法第4条修正案则规定，人民的人身、住宅、文件和财产不受无理搜查和扣押的权利不得侵犯。这些在美国宪法基础之上添加的权利确保普通公民的权利不受政府权力的侵犯。</p>
+<p>*警察提出有权获得司法豁免*</p>
+<p>被起诉的警察辩护说，除非他们明显地触犯了即得宪法权利，否则，作为政府官员，他们有权得到司法豁免，另外，拍摄警察在公共场所执法的录像是否得到宪法保护，法律尚无明确规定。但是，联邦地区法庭不接受警察的论据，而且拒绝了他们提出的要求驳回此案的动议。被起诉的警察继续向美国联邦第一巡回上诉法院提出上诉。</p>
+<p>据芝加哥约翰·马歇尔法学院副教授史蒂芬·施温介绍，目前，美国有些州通过了监听法，禁止人们在有关方面不知情或者没有同意的情况下截取电子通讯或在电话上安置监听设备。</p>
+<p>施温教授表示，依据这个法律提出的诉讼因此开始增多：“我们看到，地方检察官开始对拍摄警察执法录像或录音的个人提出起诉。由于警察在执法过程中有时会失控，因此，这些录音和录像会对警察造成很大损害。检察官提出，如果人们不经警察同意就拍摄录像或录音，我们就会根据监听法把这些人绳之以法。这就是警察在这个案子中所做的，类似的诉讼还出现在好几个司法管辖区中。”</p>
+<p>*格里克一方提出诉讼的法律依据*</p>
+<p>但是，格里克的律师戴维·米尔顿指出，美国法庭一直判决说，宪法第1条修正案保护有关官员信息的讨论和流通，以及人们合法收集信息的权利。</p>
+<p>米尔顿说：“我们提出，使用现代技术，即手机上的摄像机，收集有关政府官员和警察信息是人们的一项基本权利。在民主国家，人们拥有问责警察和其他政府官员的权利非常重要。法庭同意我们的这个论据，另外，我们还根据宪法第4条修正案提出，警察没有合理的理由不能实施扣押。法庭同样赞同我们的观点，那就是，警察没有理由逮捕格里克，他拍摄警察执法过程的录像没有触犯任何法律。”</p>
+<p>设在纽约的“宪法权利中心”作为非诉讼方，向联邦第一巡回上诉法院提交了支持格里克的法庭之友陈述书。该组织资深职员律师安佳娜·萨曼特进一步介绍了美国法庭以往在这个问题上的判决。</p>
+<p>萨曼特说：“法庭曾经判决说，记者也好，普通人或公共大众也好，都有权对涉及公共利益的事件进行录音，有权传播相关信息。判决还指出，为了促进公民参与和政府问责，必须赋予人们传播信息的权利。这种收集和传播信息的权利对了解政府行为是必要的。这正是美国宪法第一修正案的意义所在。”</p>
+<p>*法庭判决支持公民录音和录像权*</p>
+<p>联邦第一巡回上诉法院2011年8月对格里克一案作出判决。法庭在维持下级联邦法院判决的同时指出，公民拍摄政府官员，包括在公共场所履行公务的执法人员的录像的权利，是受到宪法第1条修正案保护的一项基本的、至关重要的、已经确立的自由权，况且格里克是以和平方式拍摄的，而且地点是最传统的公共论坛，即一座公园里。</p>
+<p>利佩兹法官在判决书中进一步指出，收集新闻的权利不仅新闻媒体有，公民个人也有。确保公众收集官员信息的权利不仅有助于揭露职权滥用，还有可能对政府运作产生有益的影响。不过，裁决也谈到了权衡这一问题的重要性，一方面要对滥用职权的官员实行问责，另一方面也要确保官员在正常履行公务时免于骚扰、分心和司法责任。</p>
+<p>格里克的代理律师戴维·米尔顿进一步解释和分析了联邦第一巡回上诉法院的这一判决：“这一判决用非常强烈的措辞确立，收集有关政府官员履行公务的信息对一个自由开放的社会是必不可少的。法庭的判决指出，格里克不是专业记者，没有为任何报社工作，他只是一位普通人，目睹了一件在他看来不对的事情而已。判决还指出，随着科技的发展，除了机构媒体、报社和电台外，普通公民也有可能发布突发新闻，并且把他们在公众场所看到的组织成一篇最新的报导。”</p>
+<p>纽约市立大学法学院教授卢桑·罗布森对联邦第一巡回上诉法院作出的这一判决表示称赞：“如果我们不允许公民用手机拍摄，我们就在某种程度上走向了一个警察国家，一个专制国家。我认为，这个问题在很大程度上属于言论自由权，以及公民录音和收集信息的自由权的一部分。法庭在这个案子中特别谈到，格里克没有偷偷摸摸、鬼鬼祟祟地拍摄。大家都能看到他手里举着手机在那里拍摄。反之，如果一个人在人不知鬼不觉的情况下暗中偷拍，就会涉及非常严重的问题。”</p>
+<p>目前，联邦第一巡回上诉法院的判决只在它的司法管辖区内，也就是包括麻萨诸塞和佛蒙特在内的东北部一些州具有约束力。这个判决对其它法庭有可能起到参照作用。若要在全美范围内产生影响，还需要美国联邦最高法院的介入和裁决。</p></blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%9C%89%E8%BF%99%E4%B9%88%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6-%E8%AD%A6%E5%B1%80%E5%BE%AE%E5%8D%9A%E8%AD%A6%E5%91%8A%E5%B1%81%E6%B0%91%E4%B8%8D%E5%BE%97%E6%81%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%84%8F%E6%8F%90%E9%97%AE/?category=18271" rel="tag">恶意提问</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8C%E5%B9%B3%E5%85%AC%E5%AE%89/?category=18271" rel="tag">昌平公安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%88%A9/?category=18271" rel="tag">权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%A2%86%E5%AF%BC%E6%82%A8%E7%9A%84%E9%98%B2%E5%BC%B9%E8%A1%A3%E7%A9%BF%E5%8F%8D%E4%BA%86/" target="cdt-mirror">【图说天朝】领导您的防弹衣穿反了</a>
+</h2>
+<p><p>@前陆军下士：额…中间那位首长，你们的防弹衣穿反了，下面那玩意儿不是护臀…</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6d5674bagw1f4ldiz8pzhj20kr0fognj.jpg?resize=600%2C453" alt="6d5674bagw1f4ldiz8pzhj20kr0fognj" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6d5674bagw1f4ldiz8pzhj20kr0fognj.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6d5674bagw1f4ldiz8pzhj20kr0fognj.jpg?resize=300%2C227 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>@陌上花开_027：防背后打黑枪的。</p>
+<p>@芳韶_：这样撤退才安全啊。</p>
+<p>@瘦狗Alex：主要看使用者觉得哪边更要害。</p>
+<p>@品摄鉴车：不懂首长的取向，才会提出这问题。</p>
+<p>@嘚瑟菠萝：平时穿的少，估计这是第一次穿，不怪他。</p>
+<p>@张国立ZGL：这样的部队保卫得了人民吗？</p>
+<p>@岳阳楼新主人: 裆中央面临威胁。</p>
+<p>@刘世坚: 政治错误啊！！菊（局）部比裆部重要…</p>
+<p>@广州城堡堡主：竟然没有人告诉首长他穿反了。</p>
+<p>@鸟人與豬：八旗子弟，尽出笑话！</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xinsrc_45208031510287502297773.jpg?resize=375%2C500" alt="防弹衣" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xinsrc_45208031510287502297773.jpg?w=375 375w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xinsrc_45208031510287502297773.jpg?resize=225%2C300 225w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"><p>网络图片：三级防弹衣所带的前方护档</p></div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%A2%86%E5%AF%BC%E6%82%A8%E7%9A%84%E9%98%B2%E5%BC%B9%E8%A1%A3%E7%A9%BF%E5%8F%8D%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F/?category=18271" rel="tag">军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A4%E8%87%80/?category=18271" rel="tag">护臀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E5%BC%B9%E8%A1%A3/?category=18271" rel="tag">防弹衣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/" target="cdt-mirror">BBC | “港独”指控下兰蔻取消何韵诗演唱引反弹</a>
 </h2>
 <p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606051541_cn_denise_ho_hongkong_occupy_976x549_getty_nocredit.jpg?resize=600%2C337" alt="何韵诗（中）是“占中”被捕示威艺人之一。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606051541_cn_denise_ho_hongkong_occupy_976x549_getty_nocredit.jpg?w=660 660w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606051541_cn_denise_ho_hongkong_occupy_976x549_getty_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>何韵诗（中）是“占中”被捕示威艺人之一。</p></div>
@@ -802,79 +987,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E5%85%AD%E5%9B%9B%E7%A7%B0%E4%B8%BA%E4%B8%A4%E5%B2%B8%E4%B9%8B%E9%97%B4%E6%B0%B8%E4%B9%85%E7%9A%84%E9%9A%BE%E8%A8%80%E4%B9%8B%E9%9A%90/" target="cdt-mirror">蔡英文：不要让六四称为两岸之间永久的难言之隐</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=438%2C268" alt="48fe46d9jw1f4j4jod3joj20c607gq34" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?w=438 438w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=300%2C184 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=80%2C48 80w" sizes="(max-width: 438px) 100vw, 438px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博@傅国涌</span></p></div>
-<p><strong>蔡英文于六四27周年当天在脸书发文：</strong></p>
-<p>台湾许多书店的书架上，摆满了有关中国大陆琳琅满目的书籍。有许多来自对岸的朋友，会在这些书架前面停留。很多时候，他们认为，在中国看不到真实的中国，于是，他们把握机会，迫切想知道世界是怎么看待中国。</p>
-<p>在总统选举期间的电视辩论，海外的中国留学生，透过网路，看到候选人间一来一往的辩论。他们觉得，这种决定公共事务的方式很新鲜。甚至，在我个人许多竞选行程裡，我也经常看到来自中国大陆、港澳的朋友，隐身于人群之中。他们对台湾的民主选举充满好奇。多数的朋友们，在亲身经历之后发现，民主其实没有很可怕，民主是一件美好可爱的事物。</p>
-<p>如果我有机会，我想跟这些朋友说，今日台湾民主的美好，其实一路走来很艰辛。不同国家有不同民主化的路径，不过，民主不会从天上掉下来，以及，民主与人权的普世价值，是透过人民的努力来争取。这两点，是所有民主国家共同的结论。</p>
-<p>我相信，中国大陆也不例外。今天是六月四日，27年前，北京发生了天安门事件。有许多人因此失去了家人，有许多人因此而对改革失望，也有许多人，被迫离开了故乡，在海外流亡。这些，台湾都曾经经历过。这就是为什么，27年前，每一个在电视机前面看到那些画面的台湾人，心裡都能感同身受。因為我们也走过这一条路，我们比谁都能清楚体会，天安门广场的学生对民主与自由的渴望。</p>
-<p>身为总统，我不是要对对岸政治制度指指点点，而是愿意真心诚意跟对岸分享台湾民主化的经验。今日的中国大陆，经济成长的成绩有目共睹。在对岸执政党的努力之下，中国人民确实拥有比以前更好的物质生活。这一点，没有人可以否认。</p>
-<p>不过，也没有人可以否认，中国大陆内部政治和社会也正在面临转型的压力。如果对岸能够给予中国大陆人民更多的权利，世人将会给予中国大陆更多的尊敬。这是正视过去的时刻，这也是迈向未来的时刻。中国大陆正在改变。改变也正在考验执政当局的智慧。珍惜那些在书店裡找寻另一种视角的人民，珍惜那些体验过民主生活的留学生。他们很可能是让中国更往前迈进的人。</p>
-<p>不要让六四称为两岸之间永久的难言之隐。中国人民的过往的伤痛，只有对岸的执政党有能力来化解。我的责任，是保有台湾人做为民主人与自由人的身分，建构一个和平的、稳定的、一致的、可以预测的两岸关系。希望有一天，对于民主和人权的看法，两岸之间会趋向一致。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%E5%85%AD%E5%9B%9B.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%E5%85%AD%E5%9B%9B.jpg?resize=535%2C799" alt="蔡英文六四" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?w=1296 1296w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=768%2C1147 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=685%2C1024 685w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><p>蔡英文脸书账号截图</p></div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E5%85%AD%E5%9B%9B%E7%A7%B0%E4%B8%BA%E4%B8%A4%E5%B2%B8%E4%B9%8B%E9%97%B4%E6%B0%B8%E4%B9%85%E7%9A%84%E9%9A%BE%E8%A8%80%E4%B9%8B%E9%9A%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E5%85%AD%E5%9B%9B%E6%88%90%E4%B8%BA%E4%B8%A4%E5%B2%B8%E4%B9%8B%E9%97%B4%E6%B0%B8%E4%B9%85%E7%9A%84%E9%9A%BE%E8%A8%80%E4%B9%8B%E9%9A%90/" target="cdt-mirror">蔡英文：不要让六四成为两岸之间永久的难言之隐</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=438%2C268" alt="48fe46d9jw1f4j4jod3joj20c607gq34" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?w=438 438w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=300%2C184 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/48fe46d9jw1f4j4jod3joj20c607gq34.jpg?resize=80%2C48 80w" sizes="(max-width: 438px) 100vw, 438px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博@傅国涌</span></p></div>
-<p><strong>蔡英文于六四27周年当天在脸书发文：</strong></p>
-<p>台湾许多书店的书架上，摆满了有关中国大陆琳琅满目的书籍。有许多来自对岸的朋友，会在这些书架前面停留。很多时候，他们认为，在中国看不到真实的中国，于是，他们把握机会，迫切想知道世界是怎么看待中国。</p>
-<p>在总统选举期间的电视辩论，海外的中国留学生，透过网路，看到候选人间一来一往的辩论。他们觉得，这种决定公共事务的方式很新鲜。甚至，在我个人许多竞选行程裡，我也经常看到来自中国大陆、港澳的朋友，隐身于人群之中。他们对台湾的民主选举充满好奇。多数的朋友们，在亲身经历之后发现，民主其实没有很可怕，民主是一件美好可爱的事物。</p>
-<p>如果我有机会，我想跟这些朋友说，今日台湾民主的美好，其实一路走来很艰辛。不同国家有不同民主化的路径，不过，民主不会从天上掉下来，以及，民主与人权的普世价值，是透过人民的努力来争取。这两点，是所有民主国家共同的结论。</p>
-<p>我相信，中国大陆也不例外。今天是六月四日，27年前，北京发生了天安门事件。有许多人因此失去了家人，有许多人因此而对改革失望，也有许多人，被迫离开了故乡，在海外流亡。这些，台湾都曾经经历过。这就是为什么，27年前，每一个在电视机前面看到那些画面的台湾人，心裡都能感同身受。因為我们也走过这一条路，我们比谁都能清楚体会，天安门广场的学生对民主与自由的渴望。</p>
-<p>身为总统，我不是要对对岸政治制度指指点点，而是愿意真心诚意跟对岸分享台湾民主化的经验。今日的中国大陆，经济成长的成绩有目共睹。在对岸执政党的努力之下，中国人民确实拥有比以前更好的物质生活。这一点，没有人可以否认。</p>
-<p>不过，也没有人可以否认，中国大陆内部政治和社会也正在面临转型的压力。如果对岸能够给予中国大陆人民更多的权利，世人将会给予中国大陆更多的尊敬。这是正视过去的时刻，这也是迈向未来的时刻。中国大陆正在改变。改变也正在考验执政当局的智慧。珍惜那些在书店裡找寻另一种视角的人民，珍惜那些体验过民主生活的留学生。他们很可能是让中国更往前迈进的人。</p>
-<p>不要让六四成为两岸之间永久的难言之隐。中国人民的过往的伤痛，只有对岸的执政党有能力来化解。我的责任，是保有台湾人做为民主人与自由人的身分，建构一个和平的、稳定的、一致的、可以预测的两岸关系。希望有一天，对于民主和人权的看法，两岸之间会趋向一致。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%E5%85%AD%E5%9B%9B.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%E5%85%AD%E5%9B%9B.jpg?resize=535%2C799" alt="蔡英文六四" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?w=1296 1296w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=201%2C300 201w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=768%2C1147 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡英文六四.jpg?resize=685%2C1024 685w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></a><p>蔡英文脸书账号截图</p></div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%94%A1%E8%8B%B1%E6%96%87%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%AE%A9%E5%85%AD%E5%9B%9B%E6%88%90%E4%B8%BA%E4%B8%A4%E5%B2%B8%E4%B9%8B%E9%97%B4%E6%B0%B8%E4%B9%85%E7%9A%84%E9%9A%BE%E8%A8%80%E4%B9%8B%E9%9A%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">台湾民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%94%A1%E8%8B%B1%E6%96%87/?category=18271" rel="tag">蔡英文</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%EF%BC%8C%E9%A6%99%E6%B8%AF%E6%B0%91%E8%BF%90%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%88%86%E6%AD%A7%E4%B8%8E%E7%9F%9B%E7%9B%BE/" target="cdt-mirror">纽约时报｜纪念六四，香港民运人士谈分歧与矛盾</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg?resize=575%2C383" alt="李卓人，立法会议员、抗议领袖 " srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/02CHINA-HONG-2-articleLarge.jpg?resize=300%2C200 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>李卓人，立法会议员、抗议领袖／Lam Yik Fei for The New York Times</span></p></div>
-<p>香港——过去26年来，每逢6月4日，数以万计的香港人都会聚集在维多利亚公园参加年度烛光集会活动，纪念在北京军事镇压抗议活动时身亡的民主示威者。来自中国大陆的活动人士、香港学生领袖以及政界人士会共同宣布，他们将团结一致，继续争取中国的政治变革。</p>
-<p>但今年不同。香港最大的学生组织称将不再参加这一纪念活 动。本地年轻人愈发关注首先在香港实现更广泛的民主和自治，一些人甚至呼吁从中国独立。本周六为当年镇压事件的纪念日，在此之前我们采访了几位政界人士和 学生，询问了他们对这个半自治地区的民主运动中不断增加的分歧以及运动该如何继续的看法。这里是他们的回答。</p>
-<p><b>李卓人，立法会议员、抗议领袖</b></p>
-<p>“我可以被称作是1989年那一代的人，因为那个时候我们所有的人都倾注了我们全部的热情，全部的理想。”59岁的李卓人说。1989年天安门抗议事件的最后几天，李卓人在北京。“那场中国学生发起的民主运动中所承载的对民主的渴望，我们都感同身受。”</p>
-<p>李卓人是工党的一名议员，曾任香港市民支援爱国民主运动联 合会主席（Hong Kong Alliance in Support of Patriotic Democratic Movements of China，简称支联会）。在对北京抗议者的同情之中，1989年5月，支联会成立，它也是维多利亚公园烛光集会活动的主要组织机构。天安门的镇压行为被 中国政府称为是对“<a href="http://www.nytimes.com/1989/06/04/world/crackdown-beijing-troops-attack-crush-beijing-protest-thousands-fight-back.html?pagewanted=all&version=meter+at+0&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=http%3A%2F%2Fcms.em.nytimes.com%2Fcontent%2Fpublish%2Fpreview%3FcontentId%3D100000004444408%26branchName%3Dweb&priority=true&action=click&contentCollection=meter-links-click" target="_blank" rel="nofollow">反革命暴乱</a>”进行的必要压制。在镇压行为之后，支联会呼吁“平反八九民运、追究屠城责任、结束一党专政、建设民主中国”。</p>
-<p>“这不是一个身份问题，”李卓人说。“这是一个策略问题。 如果我们想掌握香港未来的话语权，我们需要推翻这个一党专政的国家。我们需要改变中国，那我们可以和谁联合起来呢？就是那些在中国的人。要允许有公民社 会、抗议行动、维护人权行动、宗教活动、劳工运动的存在。如果我们可以为这些民主活动助力，并给予支持，那么我们就可以拥有未来。这同我们在香港的运动息 息相关。”</p>
-<p><b>黄洋达，社会活动人士</b></p>
-<p>黄洋达，37岁，是另行举办的六四集会的组织者。这些活动 的范围从2014年的一个街区扩大到了今年的五个。他创立的政治组织“热血公民”，是与中国大陆背道而驰的本土派运动的一部分。他的党派呼吁通过修改《基 本法》给予香港更大的自治权。《基本法》是在“一国两制”的原则下制定的小宪法，确认了1997年香港的回归。</p>
-<p>“要求平反六四这个纲领很弱，”他说道。“那时在北京的学生追求的是政治改革，不是要避免被称作动乱分子。要中共为学生平反只是认同其合法性。”</p>
-<p>“这同时亦变相承认香港对中国只为附庸角色，”他说。“要是我们继续让支联会散播这种意识，对香港本土民主运动会有害。”</p>
-<p>“我另举办六四集会不只是要挑战支联会，而是要想化愤怒为行动。我们今年在五区举办五个集会。焦点是要记着六四及认识中共政权的面目，和去争取我们的主权和自治。我们要修改宪法。”</p>
-<p><b> 刘慧卿，立法会议员</b></p>
-<p>63岁的刘慧卿是香港民主党现任主席。1991年，她成为 香港首位通过直选进入立法局的女性议员。在当时的竞选中，对天安门抗议表示同情的候选人以压倒性的优势取得胜利。其中不少人后来成为了香港民主运动的主 干。2014年，刘慧卿参与了争取普选的街头抗议，抗议呼吁让公民在选举行政长官的过程中发挥更大的作用，这场抗议后来以雨伞运动为人所知。</p>
-<p>“六四发生时，如今的许多年轻人还未出生，但他们知道这件事，因为老师、父母或者亲戚朋友告诉了他们，”她说，“他们认为这是国家的耻辱。所以应该得到重视。”</p>
-<p>“如果北京能采取行动回应这两件事——六四大屠杀和香港争取普选的抗议，我想许多香港人会愿意接受在“一国两制”之下，做香港的“中国人”。这样对香港有利，对中国的其他部分也是。”</p>
-<p>“如果北京方面愿意信守承诺，自我约束，允许香港真正地享有高度自治，那么要求独立的人会相应地减少。”</p>
-<p><b> 黄之锋，学生领袖</b></p>
-<p>19岁的黄之锋是2014年街头抗议中的学生领袖。2016年，他成立了一个新的政党——香港众志，推动对香港的政治未来进行<a href="http://cn.nytimes.com/china/20160218/c18hongkong/" target="_blank" rel="nofollow">公投</a>。他将会参加维园的六四烛光集会。</p>
-<p>“近几年来，这一代人不到维园的原因是，他们感到上一代泛民已经不能代表他们。”他说，“数年前，支联会还在唱中国梦，甚至龙的传人这一类的歌。这是上一代人的中国民族情怀。我们这一代，成长时见证中共如何骑劫中国人这个身份，令我们难以对此表示认同。”</p>
-<p>他还称，“我们最重要的目的是要告诉人们追求自决的重要。六四启动了香港的民主运动浪潮，而雨伞运动就开展了第二波浪潮。”</p>
-<p><em>欢迎在Twitter上关注本文作者<a href="https://twitter.com/alanwongw?version=meter+at+13&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=&priority=true&action=click&contentCollection=meter-links-click" target="_blank" rel="nofollow">@alanwongw</a>。<br>
-翻译：纽约时报中文网<br><a href="http://www.nytimes.com/2016/06/04/world/asia/hong-kong-china-tiananmen.html" target="_blank" rel="nofollow">点击查看本文英文版。</a></em></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B%EF%BC%8C%E9%A6%99%E6%B8%AF%E6%B0%91%E8%BF%90%E4%BA%BA%E5%A3%AB%E8%B0%88%E5%88%86%E6%AD%A7%E4%B8%8E%E7%9F%9B%E7%9B%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91%E5%85%AC%E6%8A%95/?category=18271" rel="tag">全民公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -886,7 +998,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -896,5 +1008,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

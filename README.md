@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,110 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/" target="cdt-mirror">BBC | “港独”指控下兰蔻取消何韵诗演唱引反弹</a>
+</h2>
+<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606051541_cn_denise_ho_hongkong_occupy_976x549_getty_nocredit.jpg?resize=600%2C337" alt="何韵诗（中）是“占中”被捕示威艺人之一。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606051541_cn_denise_ho_hongkong_occupy_976x549_getty_nocredit.jpg?w=660 660w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606051541_cn_denise_ho_hongkong_occupy_976x549_getty_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>何韵诗（中）是“占中”被捕示威艺人之一。</p></div>
+<p>法国化妆品牌“兰蔻”（Lancôme）的香港分公司宣布取消艺人何韵诗的一场小型音乐会，引起香港网民反弹。</p>
+<p>何韵诗积极参与了2014年“雨伞运动”争取普选堵路示威，也是最后一批被警方逮捕抬离“金钟占领区”的示威者之一。他在5月中旬迎来39岁生日之际于日本大阪与西藏流亡精神领袖达赖喇嘛见面。</p>
+<p>兰蔻上周公布这场演出后，被包括中共《环球时报》在内的中国媒体指责其起用“支持‘港毒藏毒’的艺人”，不少中国网民到兰蔻的微博指责其“请分裂中国的艺人代言”。</p>
+<p>兰蔻其后两度发出声明，澄清何韵诗并非其品牌代言人，继而以安全理由宣布取消音乐会。数以万计网民在其Facebook声明点击“愤怒”反应表达不满。</p>
+<p>同样被中国媒体指责的还有美国嗽口水品牌李施德林（Listerine）。该公司与何韵诗合作的广告系列也刚在两周前发表。</p>
+<p>李施德林方面暂未对来自中国大陆的批评作出回应，何韵诗也未就兰蔻撤销合作发表评论。</p>
+<p><strong>小型音乐会</strong></p>
+<p>兰蔻安排的音乐会原定于6月19日在其新开设的香港上环分店举行。拥有加拿大国籍的何韵诗于2日在其Facebook专页上宣布了兰蔻的这场演出。</p>
+<p>何韵诗在网帖中自嘲说：“干了一会失业人士、扮演完旅人、OL（办公室女郎）、村菇（村姑）、废铁等多重角色之后，这次终于有人找我回归我最原始慨角色——歌女！”</p>
+<p>但到了6月4日，新浪新闻中心刊发一篇综合报道，声称有网民就此事向编辑爆料。文章并配发了何韵诗此前在社交媒体上发布与达赖喇嘛的合照。</p>
+<p>文章说：“虽然在内地遭到厌恶和抵制，这何韵诗却在香港相当吃得开。而且，虽然她已难以再从内地赚钱，但仍然有从内地人口袋里赚钱的企业，在养着她、资助着她。”</p>
+<p>“当然，很多内地网友此前并不了解这些情况——因为这些广告只发在了境外的社交网站Facebook上。否则，如果这些广告也发在内地，可想而知内地公众的反应会是什么。”</p>
+<p>“而且，即便这些品牌可能会辩称这些宣传是给香港的‘特供’，也会令在内地——乃至去香港旅游时多多支持两家品牌的内地消费者感到受伤，特别是当大家意识到自己的钱被拿去给了支持‘港独’乃至‘藏独’的艺人，甚至有可能会被用作‘乱港’的经费。”</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606061851_cn_sinaweibo_global_times_20160604_0914hkt.jpg?resize=624%2C691" alt="《环球时报》网帖发表后，网民涌往兰蔻官方微博留言抗议。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606061851_cn_sinaweibo_global_times_20160604_0914hkt.jpg?w=624 624w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606061851_cn_sinaweibo_global_times_20160604_0914hkt.jpg?resize=271%2C300 271w" sizes="(max-width: 624px) 100vw, 624px" data-recalc-dims="1"><p>《环球时报》网帖发表后，网民涌往兰蔻官方微博留言抗议。</p></div>
+<p><strong>网民两极反应</strong></p>
+<p>中共《人民日报》旗下《环球时报》继而于6月4日早上在微博发帖，询问网民：“有网友爆料，在内地热销的漱口水品牌李施德林，以及兰蔻化妆品，近日在香港新推出的品牌推广活动中，皆请了支持港毒，并且上周又在日本力挺藏毒头目的何韵诗做代言活动……你们怎么看？”</p>
+<p>网民随后跟帖号召抵制，宣称“以后坚决不用兰蔻产品”。也有网民称，“每一笔支持藏独，港独和台独的钱里都沾着中国同胞的血”，并给历来被指控支持“藏独”的西方品牌“翻旧账”。</p>
+<p>上百中国网民随即在兰蔻中国的官方微博上留言指责，要求兰蔻退出中国市场。兰蔻中国随即发表声明澄清何韵诗并非代言人。超过4万名网民跟帖回应，当中有网民批评兰蔻“玩文字游戏”，质问该公司“什么时候能学好政治再来赚钱呢”。</p>
+<p>兰蔻香港于5日跟进发表声明称，邀请何韵诗演唱“原意为纯音乐上分享，并无牵涉任何代言人合作关系。由此对消费者造成误解我们 深表歉意”。</p>
+<p>至深夜，兰蔻再发表中英双语声明说，该公司“一直以来对每位支持者的感受与体验极为重视……然而，鉴于有可能出现之安全因素，我们决定取消原定活动。”</p>
+<p>截至北京时间星期一（6月6日）中午，两份在Facebook上发表的声明合共有4.4万名网民点击“愤怒”反应。兰蔻方面并未解释何谓“有可能出现之安全因素”。</p>
+<p>留言中既有香港网民宣称以后不再购买兰蔻产品，也有人号召网民同时抵制兰蔻母公司欧莱雅（L’Oréal）的所有产品，还有人要求兰蔻解雇所有与这两份声明有关的雇员和外包公关公司职员。<br>
+一些网民则在跟帖中翻出善待动物组织（PETA）数据库的纪录，指责兰蔻在动物身上测试其产品。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606060639_cn_lancome_denise_ho_statement_976x549_bbcchinese_nocredit.jpg?resize=624%2C351" alt="兰蔻香港Facebook的声明引来上万网民点击关注。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606060639_cn_lancome_denise_ho_statement_976x549_bbcchinese_nocredit.jpg?w=624 624w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606060639_cn_lancome_denise_ho_statement_976x549_bbcchinese_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 624px) 100vw, 624px" data-recalc-dims="1"><p>兰蔻香港Facebook的声明引来上万网民点击关注。</p></div>
+<p><strong>抵制艺人</strong></p>
+<p>自原称“占领中环”的“雨伞运动”示威发生后，中国大陆与香港已不止一次发生抵制艺人事件。</p>
+<p>去年12月，香港著名填词人林夕在微博上“被举报”不爱国，原本于桂林广西大学的活动被逼取消。林夕于“占中”期间为支持示威者的歌曲《撑起雨伞》填词，何韵诗也是参与演唱艺人之一。</p>
+<p>香港歌手卢凯彤、谢安琪和张敬轩等也先后“被举报”支持“占中”，其中国大陆活动受到限制。</p>
+<p>何韵诗去年曾对媒体称，她本人自“占中”被捕后因失去中国大陆市场，收入大减80%。她继而宣布转型为独立歌手，并继续参与“占中”时创立的活动团体“文化监暴”工作，同时在亲民主派网络媒体“立场新闻”担任董事。</p>
+<p>在兰蔻事件发生之前，意大利菲亚特汽车于2008年西藏3·14骚乱后推出由好莱坞影星理查德·基尔主演的广告，因理查德·基尔长期支持流亡藏人而引来中国抨击，菲亚特最终道歉。</p>
+<p>同年，女星莎朗·斯通因在评论四川汶川大地震时提到“报应”一词引起中国舆论不满，被香水品牌迪奧（Christian Dior）撤换其广告。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">中国市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%8E%AF/?category=18271" rel="tag">中环</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97/?category=18271" rel="tag">何韵诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E8%94%BB/?category=18271" rel="tag">兰蔻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E9%A2%86%E4%B8%AD%E7%8E%AF/?category=18271" rel="tag">占领中环</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E9%80%89/?category=18271" rel="tag">普选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%B4%BE/?category=18271" rel="tag">民主派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E7%8B%AC/?category=18271" rel="tag">港独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AF%8F%E7%BB%8F%E7%BD%91-%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E7%9A%84%E5%8C%97%E4%BA%AC%E6%A0%B7%E6%9C%AC%EF%BC%9A%E6%88%BF%E4%BA%A7%E3%80%81%E6%88%B7%E7%B1%8D%E5%9E%92/" target="cdt-mirror">每经网 | 中等收入群体的北京样本：房产、户籍垒高收入门槛</a>
+</h2>
+<p><p><strong>通往中等收入群体的路上有多座大山：户籍、房产、子女教育等，每一座都在拉远我们和中等收入群体之间的距离，中等收入群体的门槛也在无形中被推高。</strong></p>
+<p>每经记者 李彪 冯彪</p>
+<p>要成为中等收入群体的一员，需要有多高的收入——年收入10万元、20万元还是30万元？</p>
+<p>现实问题是，通往中等收入群体的路上，有多座大山横在面前：户籍、房产、子女教育等，每一座都在拉远我们和中等收入群体之间的距离，中等收入群体的门槛也在无形中被推高。</p>
+<p>金钱容易衡量，获得感不易寻找。在中等收入群体身上，我们不应只看到苍白的银行卡中的数字，而应该是能否有一种闲庭信步的心态，能否有“日扶瑶琴听音”的惬意，能否体现出生活质量和生活品质的提升。</p>
+<p>但扩大中等收入群体显然又有着深远的意义。在上月举行的中央财经领导小组第十三次会议上，中央明确提出扩大中等收入群体的决策，推进橄榄型社会结构的形成已越来越成为国家政策的重要着力点。就此话题，《每日经济新闻》寻找样本，访问专家，对比今夕，参考海外，试图通过这组报道管中窥豹，一探中国扩大中等收入群体之路。</p>
+<p>构建橄榄型社会结构，需要发展起庞大的中等收入群体，这是世界上很多国家走向发达的经验。</p>
+<p>5月16日，在中央财经领导小组第十三次会议上，中共中央总书记习近平提出了“六个必须”，以致力于扩大中等收入群体。</p>
+<p>可以预见，未来将有一大批低收入群体跻身中等收入群体。而当前，是否属于中等收入群体中的一员，如果仅用个人收入一项指标来衡量，或许有失偏颇。实际上，户籍、房产、子女教育、社会保障等指标，都会对个人在社会群体中的划分产生重要影响。为此，《每日经济新闻》记者对白领、公务员、企业主等多个群体进行样本调查，试图呈现出不同行业中等收入群体的感受差异。</p>
+<p>农民有望成中等收入群体主力</p>
+<p>习近平强调，扩大中等收入群体，关系全面建成小康社会目标的实现，是转方式调结构的必然要求，是维护社会和谐稳定、国家长治久安的必然要求。</p>
+<p>对于中央如此浓墨重彩地强调扩大中等收入群体，国家发改委社会发展研究所副所长常兴华告诉《每日经济新闻》记者，扩大中等收入群体比重、形成橄榄型社会结构，已越来越成为我国国家政策的重要着力点和战略安排。</p>
+<p>常兴华认为，扩大中等收入群体，可以促进经济的稳定增长，也有利于提高社会发展水平和增强社会稳定。</p>
+<p>常兴华建议，依托六个“必须”，从发展战略角度扩大中等收入群体，形成橄榄型社会结构，应从以下方面做起：首先是要保持经济稳定增长，推动实现经济转型；其次，保证就业稳定，推动劳动收入稳定增长；再次，稳妥推进新型城镇化进程，做足中等收入群体增量；最后，调整国民收入分配结构，增加居民收入。</p>
+<p>“根据我们的研究结果，到2020年我国全面建成小康社会时，中等收入群体应该能占到全国总人口的一半，橄榄型社会结构将开始初步形成。”常兴华说。</p>
+<p>据了解，我国中等收入群体中80%以上人口集中在城镇。很大程度上，推进城镇化是扩大中等收入群体的重要途径。发达国家经验也证明，历史上中等收入群体的形成，与人口城镇化的发展密不可分。</p>
+<p>为此，北京师范大学收入分配研究院执行院长李实对《每日经济新闻》记者说：“农村人口尤其是占全部人口20%~30%的农民工，这部分人应该成为中等收入群体最大的人口来源。”</p>
+<p>户籍、房产等垒高中等收入门槛</p>
+<p>“我觉得在北京的话，家庭年收入至少得40万元以上，或者说个人年收入至少得接近30万元，这样才能算是中等收入群体吧。”在被问到如何看待中等收入群体时，在北京多年从事IT行业的白领董鑫报出了自己心目中对中等收入群体门槛的判断。</p>
+<p>2011年研究生毕业后，出生在南方某城市的董鑫，在北京找到了自己毕业后的第一份工作，在一家外企科技公司做研发。随着资历加深、经验积累、能力提升，董鑫的工资也在稳步上涨。他告诉记者，现在年薪过20万元，但感觉只是温饱有余，离中等收入群体还有一定的距离。</p>
+<p>“并不是我矫情，而是确实感觉自己压力很大。”初为人父的董鑫解释说，现在租住的两居室每个月仅房租就要花5000多元，如果今后孩子在北京上学的话，肯定要在北京买房，所以这几年正拼命多赚钱。</p>
+<p>实际上，董鑫也说出了很多在北京工作的非京籍人士心声。按照北京就近入学的政策，对于非京籍人员是否在北京有房产并没有限制，但记者了解到，从报名上幼儿园开始，就已经有一些差异。一些公立幼儿园就要求按批次报名，无房的非京籍人员子女一般都是划在最后一批次。</p>
+<p>“户口和房产是自己奋斗的两个目标，第一步需要解决的是买房问题，看看北京这边孩子上学的政策如何，不行的话，只能让小孩回老家上学了。”董鑫说。</p>
+<p>孩子已经接近上学年龄的刘峰最近刚在北京郊区买了一套二手房，他对《每日经济新闻》记者坦言：“我们夫妻都不是北京户口，之所以买房就是为了让孩子尽可能去公立学校就读，我周围有小孩的朋友基本上都买了房子。”</p>
+<p>对于感觉是否已进入中等收入群体之列，刘峰称，自己年收入20万元左右，买房找亲戚、朋友借了一些钱，每个月还要还房贷，生活压力很大，肯定不能算是中等收入群体。</p>
+<p>2015年12月，由中国社会科学院及社会科学文献出版社共同发布的《社会蓝皮书：2016年中国社会形势分析与预测》，对北京、上海、广州等一线城市的中等收入群体进行了调查，结果显示，北京的中等收入群体收入最高，年收入为25.6万元，其次是上海中等收入群体年收入为21.98万元，广州的中等收入群体年收入相对较低，为17万元。</p>
+<p>但记者同时也采访了多位有房且无房贷的北京本地白领，他们普遍感觉经济压力并不大，一些年收入远低于25.6万元的人员甚至认为，即便自己算不上中等收入群体，但自己现在过着的却是中等收入群体的生活。</p>
+<p>企业主感受财富增长压力</p>
+<p>2003年，张浩以职业经理人的身份就职于某建筑类大型企业。十年后，感受到企业的发展后劲乏力，张浩选择自己单干，在北京创立了一家建筑类企业。</p>
+<p>张浩向《每日经济新闻》记者介绍，做职业经理人的时候，年薪大概在几十万元，后来整个行业发展状况不好，导致个人收入急剧下降，有一年个人收入最大头的绩效奖金总数还不如往年发绩效奖金时缴纳的税款多。</p>
+<p>“2013年正值建筑类产品升级，感觉此前企业的产品寿命接近尾声，加上我在行业内也积累了很多资源，所以就选择自己创业。”张浩说，现在自己账面上的工资不高，但是算上公司收益的话，肯定比以前的收入要高。</p>
+<p>收入增加带来的是压力增大，从打工者变成创业者，对心理上压力的变化感受得自然更为清晰。</p>
+<p>张浩介绍，以前作为一个职业经理人，日子过得还是比较舒服的，除了领取工资外，各种消费都可以报销，公司还能提供住房补贴等各种福利。自己创业后，每个月都要给员工发工资，有应收账款要收，每天的订单要有一定的保证，和以前相比压力自然更大。</p>
+<p>“现在做企业的环境并不是很好，比如我们经营企业每年投入的钱所换回来的收益，还没有别人投资房地产换回来的收益大。再加上融资上的压力，企业并不好做。”张浩认为，宏观政策对建筑行业的影响很大，自己不断研究国家宏观政策，努力对公司的产品进行调整，力求升级换代。即使这样，他对自己未来财富的增长依然有些担忧，感觉自己财富增长的空间正在压缩。</p>
+<p>不过，一些二三线城市的企业主对于压力的感受可能会有不同。</p>
+<p>从外出打工到回乡创业，几年时间里，钱国军在位于中部某市的老家经营起了一家不错的生产加工企业，企业员工从十几个人发展到百余人。</p>
+<p>钱国军向《每日经济新闻》记者介绍，虽然现在全国制造业整体日子不好过，但自己的企业一直推进转型，迎合市场需求做产品升级，因此仍在稳步发展中。</p>
+<p>“我们和同行之间的沟通、学习比较频繁，寻求企业的创新发展。”钱国军认为，自己做企业会有压力，但对企业也会有更大的支配权，比较而言，幸福感会更强一些。相对于当地的物价水平和居民收入水平，自己的收益也相对可观。</p>
+<p>工资高不如单位分套房</p>
+<p>近日，北京市人保局、市统计局披露，2015年北京职工平均工资为85038元，比上年增长9.64%，月平均工资为7086元。</p>
+<p>2013年，研究生刚一毕业的宋文就顺利进入北京一家知名会计师事务所，开始了她的白领生涯。每月工资扣除五险一金和个税后仍能达到12000多元，不管是按收入标准还是职业类型，宋文都可算得上进入了中等收入群体。然而，她却向《每日经济新闻》记者吐露心中的纠结：“我每月房租就需要开支2000多元，还有一大堆水费、电费、网费、车费，再算上平时吃饭、聚会，每月3000元左右结余已经相当不错了。偶尔旅游一下，但也只敢在国内转转。想到以后要还房贷和照顾家庭，压力还是挺大。”</p>
+<p>与宋文有些不同，<strong>同样在2013年研究生毕业的李晓军当年就考取了中央部委的公务员，他更关心的是他在单位分房名单上的位置。</strong></p>
+<p><strong>李晓军目前仍是科员级别，通常每月基本工资有6100元、加班费约300元，另外节假日单位会发200元购物券。</strong></p>
+<p>虽然工资尚不及北京市平均水平，但李晓军的压力并不比宋文大。他给《每日经济新闻》记者算了生活账：<strong>“首先是不用租房，我住在单位提供的宿舍，每月至少能省下1500元，而且单位宿舍离办公室很近，免除了上下班挤地铁的困扰。另外，吃饭在单位机关食堂，一天只需花6元钱，每月至少比自己解决吃饭问题的朋友少花七八百元。”</strong></p>
+<p>但李晓军也有自己烦恼，“过两年结婚了，总不能再住单位宿舍；单位食堂吃饭便宜，总不能拖家带口一起去吃。”</p>
+<p>唯一让李晓军期待的就是单位的配售房。所谓配售房，是指按照政府确定的销售价格购买，售价远低于市场上商品房的价格。但是配售房没有房产证，只能供购买者本人和家庭居住，不能在市场上买卖。</p>
+<p>李晓军向《每日经济新闻》记者透露，<strong>目前单位配售房价格大概在每平方米八九千元，与北京每平方米三四万的商品房相比，就算是最大的福利了。</strong></p>
+<p>但是李晓军坦言，要排队多长时间才能分到房自己心里也没底。“运气好的话能有几套配售房分到单位，运气不好的话，可能几年都不会有一套，但我们单位就有两三百人排队，而且每年新招录的人远多于可能存在的配售房。”</p>
+<p>当被问及是否属于中等收入群体，李晓军满脸疑惑，“普通公务员怎么能是中等收入人群，顶多算中低收入。局级领导工资能过万，我觉得他们才算中等收入。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AF%8F%E7%BB%8F%E7%BD%91-%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5%E7%BE%A4%E4%BD%93%E7%9A%84%E5%8C%97%E4%BA%AC%E6%A0%B7%E6%9C%AC%EF%BC%9A%E6%88%BF%E4%BA%A7%E3%80%81%E6%88%B7%E7%B1%8D%E5%9E%92/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82/?category=18271" rel="tag">一线城市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E7%BA%BF%E5%9F%8E%E5%B8%82/?category=18271" rel="tag">三线城市</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%AD%89%E6%94%B6%E5%85%A5/?category=18271" rel="tag">中等收入</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%B0%E6%88%BF/?category=18271" rel="tag">买房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8C%E6%89%8B%E6%88%BF/?category=18271" rel="tag">二手房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E6%94%B6%E5%85%A5/?category=18271" rel="tag">低收入</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8F%E6%88%BF/?category=18271" rel="tag">住房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%8B%E5%8A%9B/?category=18271" rel="tag">压力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E6%B0%91%E6%94%B6%E5%85%A5/?category=18271" rel="tag">国民收入</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84/?category=18271" rel="tag">平均工资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E7%B1%8D/?category=18271" rel="tag">户籍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E5%85%A5%E5%88%86%E9%85%8D/?category=18271" rel="tag">收入分配</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">社会稳定</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BB%BF%E4%B8%83%E5%B9%B4%E5%90%8E-%E6%97%A0%E5%A4%84%E5%AE%89%E6%94%BE%E7%9A%84%E8%AE%B0%E5%BF%86/" target="cdt-mirror">端传媒 | 廿七年后 无处安放的记忆</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-%E4%B8%8B%E5%8D%883.10.35.png?resize=594%2C394" alt="Screen Shot 2016-06-05 at 下午3.10.35" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.10.35.png?w=594 594w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-05-at-下午3.10.35.png?resize=300%2C199 300w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"><br><span>遇难时，王楠是一名高中生，年仅19岁，遇难当刻正在南长街南口拍照纪录历史画面。他当时戴著头盔，却不幸被戒严部队射中，子弹贯穿头盔从左上额射入，左耳後穿出。 Anthony Kwan/端传媒</span></p>
@@ -774,64 +875,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%90%AF%E5%8A%A8%E4%B8%80%E7%BA%A7%E8%B6%85%E5%B8%B8%E9%98%B2%E6%8E%A7%E5%BA%94%E5%AF%B9%E5%85%AD%E5%9B%9B27%E5%91%A8/" target="cdt-mirror">自由亚洲｜北京启动“一级超常防控”应对六四27周年</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg?resize=450%2C600" alt="北京居委会发出的“6.4”安保通知。（志愿者提供/记者乔龙）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>北京居委会发出的“6.4”安保通知。（志愿者提供/记者乔龙）</span></p></div>
-<p>今年6月4日是八九.六四事件27周年，北京全城各居委会5月31日接到上级街道办通知，6月1日到6日每栋居民楼都要有带红袖标和小红帽的志愿者巡逻值班，配合官方防控民间的六四纪念活动，其中6月3日及4日更将实行“一级超常防控”。居委会则要求志愿者，发现有纪念六四或相关情况的要及时报告。</p>
-<p>六四27周年来临，北京已全面加强防控措施，严防民间纪念六四活动。丰台区方庄方城园一区居委会5月31日发通告称，根据上级指示精神，“6.4”安保巡逻值班现已正式启动，请志愿者佩戴红袖标、小红帽上街巡逻。巡逻期从6月1日到6月6日，其中6月3日、4日为“一级超常防控”，请各楼长安排巡逻人员名单。</p>
-<p>本台记者根据知情者提供的该通知，6月3日致电方城园一区居委会查询有关六四巡逻情况。接听电话的工作人员称，巡逻就是为了防止有人纪念“6.4”：“为那个‘6.4’，‘6.4’活动”。<br>
-记者：看见有六四活动的人就通报啊？<br>
-回答：都可以，都得关注一下。<br>
-记者：汇报给居委会？<br>
-回答：可以。<br>
-记者：这里有多少人参加这次活动，志愿者？<br>
-回答：每一栋楼都有志愿者，都有自己的点，一般像这种重要日，都有五到六个人。</p>
-<p>记者向方城园二区居委会工作人员查询，通知中提及的“6.4”，是怎么一回事请，对方回答是“敏感日”，却未作进一步解释。<br>
-记者：六四是怎么一回事？<br>
-回答：啊，稍等一下。（换了一位年长者回答）咱们就按照（上级）要求，在6月1号到6月6号，一般叫敏感日的值班，就这么一个情况。<br>
-记者：想问一下六四？<br>
-回答：没有任何的那个什么（解释），我们就说敏感日的时候。</p>
-<p>北京天安门母亲群体成员张先玲对政府部门从上到下，不敢公开提“六四”，认为是当局出于恐惧心理。她说：“这些人心里指不定怎么想的，只是不敢说就是了。这就说明他们（政府）对这件事情很恐惧，像杀人犯一样，杀了人当然恐惧。他心里有鬼他就敏感。可笑吧，这哪像一个大国大党”。</p>
-<p>5月31日开始，北京、贵州、内蒙古等地的异议人士和维权人士分别被当地公安带走强制旅游，北京的有中共前总书记赵紫阳的政治秘书鲍彤、独立媒体人高瑜等，贵阳有贵州人权研讨会的多名成员、内蒙古乌拉特中旗牧民奥登高娃被旅游，奥德古（音）则被公安上岗。</p>
-<p>中国每一年要花费数千亿元人民币作为所谓的维稳经费，用于包括全国两会、六四周年日、拦截访民等。居住在北京的国务院前秘书俞梅荪自5月31日上午10点起，被公安上岗，目前尚不知道何时解除限制。他对记者说：“关于维稳，我这里一个班是3个警员看守，24小时是4个班共12个警员，按照每一个人200元（一天）就是2400元，还有一辆车戒备。一天的经费就要3000元钱”。</p>
-<p>六四已进入27周年，但是官方媒体的报道从不涉及六四，以致不少年轻人不知道“六四”。近年，不少年轻人通过互联网翻墙软件，才知1989年在中国发生的这场争取民主的运动遭到政府出动军队、坦克车镇压。外界公布的六四死亡人数超过一万人，而当年国务院发言人袁木则称死了23个人。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8C%97%E4%BA%AC%E5%90%AF%E5%8A%A8%E4%B8%80%E7%BA%A7%E8%B6%85%E5%B8%B8%E9%98%B2%E6%8E%A7%E5%BA%94%E5%AF%B9%E5%85%AD%E5%9B%9B27%E5%91%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%B0%81%E9%94%81/?category=18271" rel="tag">信息封锁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%9D%E9%98%B3%E5%8C%BA%E7%BE%A4%E4%BC%97/?category=18271" rel="tag">朝阳区群众</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%82%B9%E6%80%9D%E8%81%AA%E7%9A%84%E6%96%B0%E9%97%BB%E7%AC%94%E8%AE%B0%EF%BD%9C%E5%9B%BE%E8%A7%A3%E7%8E%8B%E6%AF%85%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%98%EF%BC%8C%E5%A4%96%E5%AA%92%E6%80%8E/" target="cdt-mirror">邹思聪的新闻笔记｜图解王毅外长的幽默，外媒怎么会懂？</a>
-</h2>
-<p><p><strong>微信公号：邹思聪的新闻笔记 （ID: journalism_note）</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%8E%8B%E6%AF%85.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%8E%8B%E6%AF%85.jpg?resize=500%2C282" alt="王毅" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/王毅.jpg?w=1484 1484w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/王毅.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/王毅.jpg?resize=768%2C433 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/王毅.jpg?resize=1024%2C577 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AA%92%E4%BD%93%E5%A6%82%E4%BD%95%E6%8A%A5%E9%81%93%E7%8E%8B%E6%AF%85%E5%8F%91%E6%80%92/" target="_blank">【立此存照】加拿大媒体如何报道王毅发怒</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E5%8E%BB%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%90%97%EF%BC%9F/" target="_blank">【网络民议】你去过中国吗？</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/06/bbc-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%88%B0%E8%AE%BF%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E6%96%A5%E8%B4%A3%E6%8F%90%E9%97%AE%E4%BA%BA%E6%9D%83%E8%AE%B0%E8%80%85/" target="_blank">BBC | 中国外长王毅到访加拿大 斥责提问人权记者</a></li>
-</ul></blockquote>
-<p>本来我在休假，已经暂时封笔了，但是呢。昨天我国外长的那段视频，大半夜把我给看精神了，看完后我久久战栗，无法言语，因为实在是太震撼了。</p>
-<p>果然，晚上回来一看，全球各大媒体都报道了。</p>
-<p>我这里简要概括一下，大概就是加拿大的一个女记者想搞个大新闻，跑得比谁都快，但是真的还是要加强学习一个——所以让外长angry了，于是怒斥记者。</p>
-<p>据凤凰网报道，外长愤怒已极，然后连珠炮一般的排比是这样开始的：</p>
-<blockquote><p>“我必须说，你的问题充满了对中国的偏见与傲慢……我不知道这从何而来，但完全无法令人接受！”</p>
-<p>“关于中国人权状况，没有人比中国人民更了解，中国人民才是最有发言权和发言立场的。”</p>
-<p>“你知道中国已经帮助超过6亿人民脱贫吗？！你知道中国已经把保护和推动人权写进了宪法吗？！”</p>
-<p>“我建议你，请不要用如此不负责任的方式提问。我们欢迎善意的建议，但拒绝毫无根据和没有理由的指责！”</p></blockquote>
-<p>尽管各大外媒报道，以及国内公知都对外长响起了经久不息的掌声，但我觉得大家都没有体会到外长愤怒外表下，真正的幽默和与时俱进。</p>
-<p>以下这段视频截图，我觉得外长同志在家肯定天天练习，我觉得我们也都要加强论述能力练习，以随时做好怒斥外国人的准备（多图，请在WiFi条件下打开）：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9801.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9801.jpg?resize=500%2C857" alt="外长的幽默01" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默01.jpg?w=1409 1409w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默01.jpg?resize=175%2C300 175w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默01.jpg?resize=768%2C1316 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默01.jpg?resize=598%2C1024 598w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9802.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9802.jpg?resize=500%2C855" alt="外长的幽默02" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默02.jpg?w=1409 1409w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默02.jpg?resize=175%2C300 175w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默02.jpg?resize=768%2C1313 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默02.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9803.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9803.jpg?resize=500%2C854" alt="外长的幽默03" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默03.jpg?w=1408 1408w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默03.jpg?resize=176%2C300 176w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默03.jpg?resize=768%2C1312 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默03.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9804.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9804.jpg?resize=500%2C855" alt="外长的幽默04" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默04.jpg?w=1410 1410w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默04.jpg?resize=176%2C300 176w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默04.jpg?resize=768%2C1313 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默04.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9805.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9805.jpg?resize=500%2C854" alt="外长的幽默05" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默05.jpg?w=1411 1411w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默05.jpg?resize=176%2C300 176w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默05.jpg?resize=768%2C1311 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默05.jpg?resize=600%2C1024 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9806.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9806.jpg?resize=500%2C856" alt="外长的幽默06" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默06.jpg?w=1409 1409w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默06.jpg?resize=175%2C300 175w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默06.jpg?resize=768%2C1314 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默06.jpg?resize=598%2C1024 598w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9808.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9808.jpg?resize=500%2C855" alt="外长的幽默08" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默08.jpg?w=1410 1410w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默08.jpg?resize=176%2C300 176w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默08.jpg?resize=768%2C1313 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默08.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9809.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9809.jpg?resize=500%2C855" alt="外长的幽默09" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默09.jpg?w=1408 1408w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默09.jpg?resize=175%2C300 175w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默09.jpg?resize=768%2C1314 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默09.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9810.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9810.jpg?resize=500%2C853" alt="外长的幽默10" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默10.jpg?w=1409 1409w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默10.jpg?resize=176%2C300 176w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默10.jpg?resize=768%2C1310 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默10.jpg?resize=600%2C1024 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9811.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9811.jpg?resize=500%2C855" alt="外长的幽默11" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默11.jpg?w=1408 1408w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默11.jpg?resize=175%2C300 175w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默11.jpg?resize=768%2C1313 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默11.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9812.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9812.jpg?resize=500%2C855" alt="外长的幽默12" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默12.jpg?w=1409 1409w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默12.jpg?resize=175%2C300 175w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默12.jpg?resize=768%2C1314 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默12.jpg?resize=599%2C1024 599w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9813.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9813.jpg?resize=500%2C853" alt="外长的幽默13" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默13.jpg?w=1412 1412w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默13.jpg?resize=176%2C300 176w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默13.jpg?resize=768%2C1311 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默13.jpg?resize=600%2C1024 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9815.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9815.jpg?resize=500%2C853" alt="外长的幽默15" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默15.jpg?w=1412 1412w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默15.jpg?resize=176%2C300 176w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默15.jpg?resize=768%2C1311 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默15.jpg?resize=600%2C1024 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9816.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9816.jpg?resize=500%2C854" alt="外长的幽默16" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默16.jpg?w=1413 1413w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默16.jpg?resize=176%2C300 176w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默16.jpg?resize=768%2C1311 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默16.jpg?resize=600%2C1024 600w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9817.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9817.jpg?resize=500%2C857" alt="外长的幽默17" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默17.jpg?w=1405 1405w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默17.jpg?resize=175%2C300 175w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默17.jpg?resize=768%2C1317 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默17.jpg?resize=597%2C1024 597w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9818.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9818.jpg?resize=500%2C569" alt="外长的幽默18" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默18.jpg?w=1408 1408w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默18.jpg?resize=264%2C300 264w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默18.jpg?resize=768%2C874 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默18.jpg?resize=900%2C1024 900w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9819.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%9819.jpg?resize=500%2C568" alt="外长的幽默19" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默19.jpg?w=1410 1410w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默19.jpg?resize=264%2C300 264w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默19.jpg?resize=768%2C872 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/外长的幽默19.jpg?resize=902%2C1024 902w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>视频截图来自《报告老板第一季：中国同伙人》</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%82%B9%E6%80%9D%E8%81%AA%E7%9A%84%E6%96%B0%E9%97%BB%E7%AC%94%E8%AE%B0%EF%BD%9C%E5%9B%BE%E8%A7%A3%E7%8E%8B%E6%AF%85%E5%A4%96%E9%95%BF%E7%9A%84%E5%B9%BD%E9%BB%98%EF%BC%8C%E5%A4%96%E5%AA%92%E6%80%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E6%AF%85/?category=18271" rel="tag">王毅</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -843,7 +886,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -853,5 +896,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%AB%98%E7%BA%A7%E9%BB%91%E9%98%B2%E6%B2%BB%E6%9C%AF/" target="cdt-mirror">张鸣：“高级黑”防治术</a>
+</h2>
+<p><p><strong>作者微信公号：张鸣（ID: zhangming19830505）</strong></p>
+<p>眼下，媒体（包括自媒体）上出现了一种现象，人称“高级黑”。所谓高级黑，就是看似在帮你，实际上是在黑你，或者起到了黑你的作用。当然，被黑的，往往是有权者，有个人，也有机构。无拳无勇的老百姓，就是你很有名，也没有多少人有这个心情这样绕着弯儿去黑你。</p>
+<p>检索网上网下的情形，高级黑大体上可以分为这样几种类型。第一，热情过度型。有些地方和部门，为了引导网络舆论，组织了网评员和志愿者。用人不当，又没有力量进行培训，结果这些人一上岗，就拼命地骂街，骂得非常难听。某些被抨击对象，哪怕刷一帖“今天天气不错”。他们也会跟上去咒人家全家死光光。还有的人，护主心切，在网上与人辩论，居然说出“中国就是专制，专制就是比民主好”的话来。这样的做法，看似打击了对手，显然最终黑的是组织他们的人。类似的现象，在平面媒体上也出现过，比如在一度的宪政讨论中，把1940年代中共领导的宪政运动，说成是策略，骗敌人的。在批判某个身份是党员的大V，说人家人性猖獗，党性泯灭。这个类型的高级黑，显然没有黑的主观故意，但由于知识贫乏，水平有限，每每一说就错，实际上起到了黑自己领导的作用。</p>
+<p>第二，爱心过剩型。这个类型的高级黑，之所以出现，每每是因为操办者有着一腔对党和领袖的热爱。但表达却不分场合，不知分寸。网上网下，那些过分称颂个人的诗歌，歌曲，以及其他形式表达忠心，表达爱戴的形式，在某些特定的场合下，实际上就是起到了高级黑的作用。经过文革之后，个人崇拜是为党章严格禁止的，也为经过文革的人们所厌恶。这些爱心过剩之人，可能是真的想表达自己的心情，吐露自家的心声，但弄得不好，就会弄巧成拙，把自己热爱的对象黑着了。</p>
+<p>第三，过度服从型。这种类型，一般都是有关部门中人。我们很多官员，满足于做算盘珠，上级拨一拨，他们动一动，但是，一动就每每动大了。上级说要做一，他们一定会做到十。有的更加可怕，不满足于做算盘珠，而是主动出击，揣摩上意，捕风捉影，一旦他们觉得上级有这样的意图，就提前操办，把事情办到极致。我们知道，古语道，过犹不及。事情走到极致，就到了反面，一定会坏事。这样的下级，事实上起到了高级黑的作用，而且黑得相当彻底。有时，接近于给领导挖坑，领导被坑了，还哭笑不得。</p>
+<p>第四，过分恭维型。这种类型，一般都在领导人身边。是人都会犯错误，都会有疏漏。有了错误，有了疏漏，身边的人，理应提醒一下，就可以及时弥补。然而，现在流行的是，无论领导人做了什么，身边人都轰然叫好，放屁都是香的。当年毛泽东写诗，一个疏忽，把“一枕黄粱再现”的“粱”字，写成了房梁的梁。但是，郭沫若却说，伟大领袖顺手把粱字给简化了。有所著名大学的校长，写文章（也许是有人代笔）把“赓续”写成了脊续，明明白白的错字，但是，下面的人却一定写文章来论证，脊续是正确的，而赓续是错的。还有一个领导人，把井冈山的冈，写成山岗的岗，居然也没有人给他指出来，就那么明晃晃地放在那里。这样的做法，看似对领导恭顺，顺着领导来，说领导好听的。实际上起到的作用，就是古人讲的“彰君之丑”，把领导那点小疏漏，暴露在众人面前，当众出领导的丑，把领导的小纰漏，放大了不知多少倍。当然，这也是高级黑，而且黑得档次相当的高。</p>
+<p>第五，别有用心型。这个类型，跟爱心过剩之辈，有点分不大开。但是，干这种颂圣卖卖的人里，估计多少都会混杂有别有用心之辈。故意反话正说，颂扬某个人，用过分夸张，夸张到恶心的词句，写十分恶心的诗句。或者，明明知道领导的某些做法已经引起了不好的后果，但却一定要夸，夸到人恶心，要吐。</p>
+<p>在这五种类型中，最后一种当然有点可恶，有可能属于有敌意之人，或者真的就是反动势力。其实，这种人并不可怕，故意黑人者，早晚会露马脚。可怕的，是其他几种高级黑。而其他的四种的存在，其实都跟领导的偏好有关。其中第四种，更是直接与官场风气息息相关，属于一种比较高档次的高级黑。在官场工作作风不佳的时候，每每会将领导黑死。</p>
+<p>其实，除了第一种类型的高级黑，跟这个时代有点关系，是网络时代特有的产物，其他几种，都是我们这个古老的国度，古已有之的老毛病。根治这些毛病，当然很难，但是，只要领导不喜欢这口，警惕恭维，严惩拍马屁的，奖励直言，这些高级黑就会少得多。</p>
+<p>毕竟，到目前为止，中国还是一个官权大于天的国家。只要贴近官权，就可以获得无穷无尽的好处。但是，掌握官权的人，说白了，都是普通人，也都有普通所能有的弱点。所谓高级黑者，无非是迎合，无非是钻营，无非是谄媚和马屁。自古以来，但凡大权在握之辈，即使头脑相当的清醒，知道谄媚者无非佞臣，知道忠言逆耳。但是，人的弱点，就是喜欢人家顺从，人家说好听的。只要这样的弱点被人抓住，米汤一灌，当权者就有可能被黑。古往今来，这样的奸佞害主的故事，不知有多少。史家把这些故事一个个写下来，告诉统治者，想让他们引以为戒，但是，这样的史册通鉴一部又一部，能接受历史教训的人，却非常罕见。于是，只好像杜牧在《阿旁宫赋》里说的那样，遂使后人复哀后人，周而复始，没完没了。历史的作用，是为了让人以史为鉴，但是，能有几个人真正以史为鉴，吸取教训呢？</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-2.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-2.jpg?resize=550%2C408" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-2.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-2.jpg?resize=300%2C223 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>至于防止之策，古人说，要远小人，近君子，纳忠言。可惜，没有多少人会听。在今天，再一次重复古人的箴言，已经没有意思了。唯一的办法，是设法在制度上，堵死高级黑的漏洞。应该从制度上规定，领导在做决定的时候，一定要走严格的程序，重大决策，要经过法定的专家论证，坚持集体领导的原则，保证集体决策，防止个人专断。对于领导的决策，要有问责，造成重大失误的，决策者要被追究责任。同时，要完善法治，使得公民个人，可以通过法律手段，追究领导的责任。也就是说，可以让民没有障碍地告官。换言之，是通过制度的设置，让有权的人，可能因为自己的言行而失去权力。一旦真的有这样的制度了，那么，有权人再办事的时候，无论周围人怎样忽悠，事关自己的乌纱帽，都会三思而行的。</p>
+<p>这种防御之策，说到底，无非就是防止个人专断。历史上，凡是高级黑盛行之时，每每是个人专权最盛之际。只要个人专断的路被堵住了，那么，以顺从，谄媚为代表的高级黑，也就无从施展其技了。人好听好话，喜欢人顺从的弱点，是会被专断的权力放大的。只要一个人的权力，在一个区间内近乎是无限的，敢于说不同意见的人就会很少。如果你的权力接近于皇帝，那么，逆龙鳞就等于找死，有几个人敢拿自己的性命开玩笑呢？这些年来，中国很多地方都出现了很多说一不二的一把手，自然，每个这样的一把手的屁股后面，都跟着一群行高级黑的马屁精。到了后来，这些一把手的落马，又每每因为这些马屁精。官员前赴后继，前面的被黑了，后来的接着被黑。黑人的，也前赴后继，黑了一个又一个。</p>
+<p>尽管我们说，这个社会价值混乱，缺乏信仰。但是，对于普通人来说，是非曲直，还是知道的。因为这些是非曲直，关系到他们的生活。他们攀不上权力，有时也会羡慕攀龙附凤者，但这一切，都挡不住他们对滥权者和迎合滥权者的愤恨。从这个意义上说，被高级黑黑到的人，早晚会出事。而那些黑了他们的人，倒可能逃过去。</p>
+<p>记得有位古人说过，为官之道，就是如临深渊，如履薄冰。对高级黑，要警惕，但警惕之心的有无，在于做官有多大的风险。在权力周围，包围者在虎视眈眈，黑人者也在虎视眈眈。自己如果不能时刻警惕者，那么，就让制度替你把关吧！关键是，这些个制度，一定要严格执行，否则，最后还是会为人所乘。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%AB%98%E7%BA%A7%E9%BB%91%E9%98%B2%E6%B2%BB%E6%9C%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%AE%8F%E6%9D%B0-%E8%99%9A%E5%81%87%E7%9A%84%E4%B9%BE%E9%9A%86%E7%9B%9B%E4%B8%96/" target="cdt-mirror">张宏杰 | 虚假的乾隆盛世</a>
 </h2>
 <p><p>文/张宏杰 历史学者 著有《饥饿的盛世：乾隆时代的得与失》《中国国民性演变历程》等<br>
@@ -894,99 +919,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%8A%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%9D%8E%E5%BF%97%EF%BC%9A%E3%80%8A%E5%B9%BF%E5%9C%BA%E3%80%8B%EF%BC%88%E5%A4%96%E4%B8%80%E9%A6%96%EF%BC%89/" target="cdt-mirror">【CDTV】李志：《广场》（外一首）</a>
-</h2>
-<p><p></p>
-<p>《广场》</p>
-<p>作词：李志<br>
-作曲：李志</p>
-<p>你的蹋板车要滑向哪里<br>
-你在滑行里快乐旋转着<br>
-有人看着你为你祝福<br>
-我曾经和你有一样的脸庞</p>
-<p>如今这个广场是我的坟墓<br>
-这个歌声将来是你的挽歌<br>
-你会被教育成一个坏人<br>
-见死不救吃喝拉撒的JB</p>
-<p>请你不要相信他的爱情<br>
-你看黎明还没有来临<br>
-请你不要相信他的关心<br>
-他的手枪正瞄准你的胸膛</p>
-<p>如今这个广场是我的坟墓<br>
-这个歌声将来是你的挽歌<br>
-你会被教育成一个坏人<br>
-见死不救吃喝拉撒的动物</p>
-<p>啦啦啦…</p>
-<p>（念）</p>
-<p>昨夜如梦<br>
-像流星划过</p>
-<p>忘了他<br>
-忘了那双手 所干过的一切</p>
-<p>我再也不像从前那样玩世不恭<br>
-再不会像从前那样爱你</p>
-<p>突然又一天我醒了<br>
-看着外面一片白云</p>
-<p>火车低低的飞过<br>
-一片叶子掉下来</p>
-<p>我感觉到一切在生长<br>
-一切又在衰老</p>
-<p>一切就像我<br>
-一切就像你</p>
-<p>一切只是一场梦<br>
-再也找不到的那些时光</p>
-<p>杀死他！<br>
-再给他一刀！</p>
-<p>开枪吧！<br>
-杀了他！<br>
-干了他！</p>
-<p>我还就不信了！<br>
-我还不信了！</p>
-<p>杀了他！</p>
-<p>啦啦啦…</p>
-<p>忘了他的手</p>
-<p>嘿…</p>
-<p></p>
-<p>《女神》</p>
-<p>作词：李志<br>
-作曲：李志</p>
-<p>我有一个朋友，今年二十一岁，<br>
-一直喜欢穿白色的风衣<br>
-住在盒子后面，后面挂著照片，<br>
-照片上的人在盒子里面<br>
-每天早晨红色的尿布从阳具上升起<br>
-升起让她看不出墓碑上的人的表情</p>
-<p>我的这个朋友，她说她是宝贝，<br>
-为何爸爸要丢她在这里<br>
-他说他会回来，他说他在等待，<br>
-蓝色的海洋宁静而悠远<br>
-她用过去的鲜血维持奄奄一息的生命<br>
-等来的只是化妆后的猎狗在东张西望</p>
-<p>西边有座房子，春天传来掌声，<br>
-成人的无耻让她恶心<br>
-东边有座房子，秋天传来笑声，<br>
-孩子的无知也让她恶心<br>
-她在角落里伤心绝望被富裕的人遗忘<br>
-她在流动的色彩里被岁月弄脏了衣裳</p>
-<p>我有一个朋友，有时我去看她，<br>
-永远看不出天空的颜色<br>
-天空下的照片，像我用的纸片，<br>
-我又爱又恨又感到可怜<br>
-轰轰烈烈尔虞我诈的世界生物团结<br>
-一阵眩晕过后再看不见地上的鲜血</p>
-<p>世界在变我操蛋的理想还不能实现<br>
-世界在变我操蛋的理想还不能实现</p>
-<p>世界在变我操蛋的理想还不能实现<br>
-世界在变我操蛋的理想还不能实现</p>
-<p>理想在变这操蛋的世界还不能实现<br>
-理想在变这操蛋的世界还不能实现</p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%9D%8E%E5%BF%97%EF%BC%9A%E3%80%8A%E5%B9%BF%E5%9C%BA%E3%80%8B%EF%BC%88%E5%A4%96%E4%B8%80%E9%A6%96%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%BF%97/?category=18271" rel="tag">李志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%89%8B/?category=18271" rel="tag">歌手</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%8C%E6%9B%B2/?category=18271" rel="tag">歌曲</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -998,7 +930,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1008,5 +940,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

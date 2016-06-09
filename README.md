@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,120 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9D%A8%E5%AE%89%E8%BF%9B%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%B0%B1%E5%8D%97%E5%AE%81%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%92%95%E8%A3%A4%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A1%82%E5%85%AC%E6%A2%93/" target="cdt-mirror">杨安进律师：就南宁律师被撕裤事件与“桂公梓”法官商榷</a>
+</h2>
+<p><p><strong><strong>中国数字时代编辑注：</strong>本文作者杨安进，北京市维诗律师事务所知识产权律师、专利代理人。文章来源为杨安进知识产权法律微信公号。后附赵俊法官（@桂公梓）的文章《如果司法的脊梁塌了……》，赵俊是江苏省高级人民法院助理审判员。</strong></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-08-at-%E4%B8%8B%E5%8D%883.42.56.png?resize=495%2C597" alt="Screen Shot 2016-06-08 at 下午3.42.56" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-08-at-下午3.42.56.png?w=495 495w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-08-at-下午3.42.56.png?resize=249%2C300 249w" sizes="(max-width: 495px) 100vw, 495px" data-recalc-dims="1"><br><span>我保护不了自己的房子，但我一定要保护钓鱼岛！（来源：杨安进知识产权法律微信公号）</span></p>
+<p><strong>就南宁律师被撕裤事件与“桂公梓”法官商榷</strong></p>
+<p>作者：杨安进</p>
+<p>6月7日，吴良述律师被法警撕裤事件调查结果出来了，于是，撕裤声刚落，又引发了法律人微信群新一轮的互撕。</p>
+<p>于是，我第一时间看到了“桂公梓”法官的评论《如果司法的脊梁塌了……》。</p>
+<p>一</p>
+<p>“桂公梓”法官本不姓桂，不过既然他自己公开自称“桂公梓”，我也还是称其为“桂”法官吧。我与“桂”法官素不相识，据说是一名有理想的青年法官，文笔好，写过不少作品，颇有粉丝，基本算是网上的大V了。</p>
+<p>“桂”法官这篇文章的中心意思，是质疑在“这场‘律师VS法院’之争”中，为什么只惩罚法警，不惩罚律师，“哪怕责任二八开、一九开呢”也行。很显然，“桂”法官咽不下这口气。</p>
+<p>真正做过诉讼律师的人都知道，律师的诉求只是帮当事人在法院的个案中讨个说法，何尝有过“律师VS法院”的群体对抗念头？这不过是虚构出来的阵势。律师群体没有必要也没有能力与作为“刀把子”的法院作对。“桂”法官一方面声称共同的“司法群体”，另一方面却先把律师竖为对手。</p>
+<p>“哪怕责任二八开、一九开呢”。 想跟“桂”法官说，这个事件本质不是胡同里两个平等民事主体的小青年在打架，而是手头握有公权力的法院对民众合法权利的侵犯，是非界限是很清晰的，民众根本没有资格去承担本属于公权力的责任，如何去享受您所说的“分成”呢？</p>
+<p>其实调查组结论中并没有认定吴律师行为上违法的地方，所以，“桂”法官在千里之外要求“分担”责任的想法依据不足。但我能理解，“桂”法官可能是在“打群架”这种心理的作用下，总觉得自己这一方吃了亏，故极力要求处罚另外一方以找补些回来。</p>
+<p>其实，吴律师如果有违法行为，当受处罚，这是另一个层面的问题，无论如何是不能因此去分担法院的责任的。正如，如果某当事人骂了某法官，某法官一怒之下将该人该赢的官司故意判他输了，莫非这个当事人还要去帮助法官承担一部分枉法裁判的责任？</p>
+<p>尤其令我震惊的是，年纪轻轻的“桂”法官想了一个很老辣的手段对付吴律师，就是“应该同时建议司法行政部门对吴律师的行为进行追查和整改”。司法行政部门手里握着律师的饭碗，借助手里的权力去运作另一种权力，而直指律师的饭碗，我想说，这种一言不合、杀心顿起的做法实在不够厚道。</p>
+<p>二</p>
+<p>不过，“桂”法官“报仇心切”的想法，还是体现了他对法官群体的仗义。</p>
+<p>今天下午在一个微信群里说起这件事，一位法官问我，“你难道不知道我们的法官被人打破脑袋，被人揪着领带打耳光，有谁管过”？说实话，听了这样的话，我感觉锥心般的痛惜。</p>
+<p>法官都是有血有肉的具体个体，上有老下有小。我认识的法官中，绝大部分都是有学识、勤恳工作的，他们在沉重的工作负担下默默地充当螺丝钉，牺牲了家庭、身体，却用血肉之躯承担着连一个国家都无法承担的“公平正义”的社会责任，好事难以轮上责任却首当其冲，领着微薄的薪水享受高物价，怎堪再被人羞辱？</p>
+<p>很显然，许多法官，尤其是基层职务的法官，也有很多委屈，也常有被“欺负”的时候。</p>
+<p>从“桂”法官写的一些关于法官地位、员额制、工作量考核等问题的评论看，他也知道有一些法官在法院系统被“欺负”。当法官被南宁吴律师“欺负”的时候，“桂”法官报仇心切，而当法官被法院系统“欺负”的时候，“桂”法官何曾想过去“报仇”，更遑论去主张“二八开、一九开”分担责任！为什么呢?因为“桂”法官自身的利益就在法院系统内，他可以忍受一些体制内的“欺负”，通过两害相权取其轻而使得自身利益最大化。而追究吴律师的责任不会给他造成任何损失。可是，这种趋利避害的人的本能式的选择与年轻有理想的法官嘴里的“公平正义”可有半毛钱的关系？</p>
+<p>作为具有“公平正义”这种“普国价值”情怀的人，遇到南宁这样的事，我觉得首先应该客观谦和地讨论公权力失当之处，探讨改进之策，而不是因身怀利器而对作为受害者的民众急于报复。法官在体制内忍受的一些“欺负”，只能通过改良体制获得救济，而不能通过加害民众的方式获得心理补偿。这种方式其实也是补偿不了的。</p>
+<p>三</p>
+<p>在北京昌平马彩云法官被当事人枪杀后，我写过一篇文章《我们正在自食不关心公共事务的恶果–评枪杀法官案》，追问是谁把一个赤手空拳的法官派往了凶险的前线？</p>
+<p>一个不完善的司法体制，最终导致了司法权、法官社会地位的降低，并进而威胁到了个体法官的生命健康。而相当数量的法官在一定时间的沉默，延续并放大了这个体制的弊端。然而，雪崩时，又没有一片雪花认为自己有责任。</p>
+<p>只有有勇气去触动这个体制的改良，才能恢复司法权和法官的权威和尊严。</p>
+<p>其实，在南宁事件中，吴律师应该是在个案中因为维权而触动体制的弊端，从而引发了激烈冲突，这是司法体制不健全情况下律师执业必然遭受的困境。所以，律师常通过个案的方式体现为体制弊端的揭露者。</p>
+<p>而对于法官而言，也只有把体制的弊端逐步克服了，有了健康的司法体制，法官在体制内遭受的“欺负”才会结束。</p>
+<p>从这一点来讲，律师和法官的利益诉求绝对是一致的。只不过，律师的行为方式因为常常有明确的利益诉求和清晰的诉求对象，故在碰撞中常以一个挑战者的姿态出现。</p>
+<p>但是，如果象“桂”法官那样在面临体制内“欺负”的时候，仅以高超的语言技巧泛泛地说一些人尽皆知的“真理”，甚至不敢真名实姓地提出自己的维权诉求，更不敢真刀真枪地找到明确的诉求对象去说理，轻松地敲着键盘，一方面展示着自己的“仗义”，另一方面又小心翼翼地不得罪会危害自己利益的人，这叫哪门子维权？靠这种虚虚实实的暧昧做法，体制的弊端到底什么时候由什么人去碰触呢？</p>
+<p>如果连自己的权利都不敢、不想去维护，又如何能维护所在群体的权利呢，又如何去维护千里之外的南宁法警的权利呢？这种情况下，写一千篇文章，仍然只是“逗你玩”，除了增加一些粉丝，不会有实际效果。毕竟，长征是一步一步走出来的，而不是坐在家里写出来的。</p>
+<p>当然，体制内有体制内的约束限制，不能要求法官都那么去“死磕”，显得很不成熟持重。但是，如果有律师这么去做了，希望“桂”法官们多理解，不要去嘲弄，更不要动辄去威胁别人的饭碗，因为这些律师正在露着内裤间接为大家谋福利呢！</p>
+<p>也许因为吴律师们要碰触的体制恰好是“桂”法官们所身处的体制，所以才招致其反感。律师如果碰触的是公安、检察体制，“桂”法官们想必就不会那么“报仇心切”了。</p>
+<p>这种“体制内欺负我可以，体制外欺负我绝对不行”的做法，其实是有点狭隘的。中国的一些“体制”，说实也实，说虚也虚，就像等高线那样的圆圈套圆圈，“桂”法官针对吴律师是体制内的人，但针对体制内的一些人而言，“桂”法官又成了体制外的人。所以，不宜用体制内外这样缺乏确定含义的眼光看待问题，如果大家一起努力把体制都弄顺溜了，体制内外都有了公平正义、人人平等了，就不存在谁“欺负”谁的问题了，多好。</p>
+<p>四</p>
+<p>最后，与“桂”法官沟通几句关于思想觉悟的问题，尽管并没有这个资格。</p>
+<p>第一，你受到任何委屈，有任何不满，要相信党和组织有能力有诚意解决你的问题，而不要装着自己没有具体利益诉求、一切安好的样子却又不断地发牢骚，这样就会麻痹了组织，延误了问题的解决。你应该有勇气把自己的真实想法与党和组织交心。</p>
+<p>第二，你文章中说“青秀法院几位法警还是有担当、有责任心的，他们本着对工作认真负责的态度，真的出手了”。这个说法就很欠妥了。调查组都说了法警是“滥用强制手段”，到你这却成了“有担当”的行为，敢于对律师“出手”看来很对你胃口，但这算什么是非观呢？这种逻辑与将杀害上海警察的杨佳称为“刀客”有什么区别呢？</p>
+<p>第三，你说“长此以往，我不知道以后还有谁愿意来为法院维持应有的秩序。而法院，又能靠谁来保护自身应有的权利，挺直自己的脊梁呢”。实在令我惊讶，莫非你眼中的法院的秩序就是靠撕裤子的法警来维持？这种滥用暴力的法警莫非还成了你眼中的法院“脊梁”？如果是这样，我看这种脊梁没有也罢，我倒相信你会成为真正的脊梁。</p>
+<p>【后记】<br>
+其实，我宁愿相信“桂”法官是真的有理想、有追求的好法官，是体制内的健康力量，脚踏实地推进司法制度的完善。此文意在激发健康力量的成长，实无意贬损打击，自谓“诤友”之言，切勿误解。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-%E4%B8%8A%E5%8D%888.34.46.png?resize=421%2C589" alt="Screen Shot 2016-06-04 at 上午8.34.46" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.34.46.png?w=421 421w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.34.46.png?resize=214%2C300 214w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1"></p>
+<p><strong>如果司法的脊梁塌了……</strong></p>
+<p>作者：赵俊（网名桂公梓）</p>
+<p>闹得沸沸扬扬的“法院撕破律师裤子”事件今天终于有了一个说法。联合调查组的调查结论甫一出炉就被广为转发，各方情绪都不是很稳定，法官们哀叹死磕胜利，司法权威扫地；律师们指责调查结论保守，脚踏胸口还不属于殴打有悖常理。我的第一感觉是，大家都不满意，说明这个调查结论还真是挺中立的呢。</p>
+<p>这个事件从发生到发酵至今也有几天时间了。期间每逢讨论，我都没有发表明确观点，因为在不掌握客观事实的情况下，无论为哪一方站台其实都是由立场决定的，屁股决定脑袋。律师们愤慨抗议了好几天，法官们也据理力争了好几天，法律共同体内形同水火一地鸡毛。而现在，从客观的调查结论来看，不得不说 ，法院这次是完败了。法院赔礼道歉、出具凭证、追究相关人员责任并向社会通报、法院整风、法院保障律师权利……每一条处理意见都打在法院脸上。</p>
+<p>这原本没什么好说的，毕竟法警的行为确实存在不当之处，以此追究他们的责任，合情合理、有凭有据，谁也无话可说。尘埃落定，该欢呼的欢呼，该丧气的丧气，律师们脸上陡然增光，法官们再次以尘覆面。但是，我还是忍不住想说几句。</p>
+<p>我绝不相信这起冲突的责任完全在于法警一方。吴良述律师的行为难道没有丝毫不当之处吗？以我不算深厚的司法实践和化解社会矛盾纠纷的经验来看，吴律师在这起事件中的角色绝不简单只是一个受害者。他对于冲突从发生、激化直到不可收拾的全过程，即使不是主观上直接故意、客观上推波助澜，至少也是主观上间接放任、客观上不加收敛吧。他是不是故意找茬死磕、有没有过激言行，这些问题在没有公布录像前谁也没法下定论，我看到一些文章从吴律师超模照的细节（例如裤子撕破的状况、衬衫纽扣、口袋里的笔等）甚至面相上来推测他并非善茬，我觉得这样不合适，我愿意相信吴律师是温良儒雅坚守正义并为权利而奋斗的正派律师。但至少有一点，也是联合调查组的调查结论里已经确定了的，“在法院申诉信访场所不能录音录像”以及“法院法警有权在该院诉讼服务大厅、信访接待室等场所制止、删除未经准许的录音录像”。这不就够了？法警在制止手机录音录像一事上有执法权，那他们检查吴律师的手机何错之有？这时候吴律师如果心平气和地稍微配合一下，是不是就可能避免后来的冲突呢？至于调查结论里说的“法警在没有证据证明吴良述录音录像的情况下，用强制手段检查其手机，超出了可以使用强制手段的法定授权范围”，这纯属胡扯，难道要先确定违法事实才能使用执法权？按照这个逻辑，警察得拿着刑事判决书才能逮捕嫌犯吗？</p>
+<p>律师和法官，在一个司法案件程序里扮演不同的角色，理应互相尊重。法院邀请律师来开庭，需要发传票通知，告知立案情况、合议庭组成，各种该向律师送达的法律文书也一一送达，这是依法尽基本的尊重义务，如果仅仅打个电话吆五喝六地说“某某律师你下星期过来开个庭”，那就是不合适的行为。那么，律师到法院来立案或开庭，是不是也应该依法尽基本的尊重义务，按照法院的规章制度办事，不许喧哗的场所就小声一点，禁止录音录像的场所就不掏出手机来呢？我觉得对于以法治思维和法治方式工作的律师来说，这种程度的尊重应该是最基本的了吧。</p>
+<p>是，我并不否认这件事是法警行为失当，但他们不该承担100%的责任，因为吴律师同样有过错，即使这过错可能比较轻微。在刑事案件里，“被害人有过错”都是可以从轻或减轻被告人处罚的量刑情节，为什么在调查组的结论里，5项处理结果都是指向法院的呢？是认为吴律师的行为完全恰当？不需要整改？甚至可以当成律师完胜法院的典型案例、让法院吃瘪的行为模板，供其他律师学习借鉴？</p>
+<p>既然让南宁中院启动责任调查程序来追青秀法院的责了，我觉得至少，应该同时建议司法行政部门对吴律师的行为进行追查和整改吧？再或者，法院自己给司法局发个司法建议也成啊！哪怕责任二八开、一九开呢，至少让其他律师尤其是年轻律师们知道吴律师的行为同样不可取啊！别不管青红皂白就把责任一揽子全部担下来啊，能不能客观一点、从容一点、硬气一点，到底是傻还是怂啊！</p>
+<p>为了平息舆论，摆出一个痛心疾首跪地求饶的姿态，也许可以让涉事法院的领导们从热锅上撤退了，但是伤害的是整个司法机构的权威和形象啊！伤害的也是整个法律共同体的形象啊！朋友圈里有个别律师在欢庆胜利，我也很不理解，这个社会的司法形象在千疮百孔上又添新伤，有什么值得高兴的？毕竟，律师也是司法群体的一份子啊！</p>
+<p>如果司法的脊梁垮了，谁都没法站得笔直。</p>
+<p>包括律师。你们是司法群体重要的一环，所以，在欢呼这场“律师VS法院”之争的胜利前，请先冷静地想一想，吴律师的这场秀究竟是为权利而斗争，还是为斗争而斗争。而吴律师和他被撕破的那条裤子，成就的到底是律师权益，还是吴律师自己。</p>
+<p>最后，我想对青秀法院即将被追责的几位法警表示同情。现实中，经常会有人在法院闹事、缠访，法官被威胁、伤害的事件也时有发生，而因为害怕承担责任，很多法院的法警往往不敢动手制止，只敢在三米远外挥舞手脚做做样子，像是在拍三流的武打剧。青秀法院几位法警还是有担当、有责任心的，他们本着对工作认真负责的态度，真的出手了。</p>
+<p>遗憾的是这个年头，谁出手，谁背锅。</p>
+<p>长此以往，我不知道以后还有谁愿意来为法院维持应有的秩序。而法院，又能靠谁来保护自身应有的权利，挺直自己的脊梁呢。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9D%A8%E5%AE%89%E8%BF%9B%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%B0%B1%E5%8D%97%E5%AE%81%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%92%95%E8%A3%A4%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A1%82%E5%85%AC%E6%A2%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">吴良述</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF/?category=18271" rel="tag">广西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF%E5%BE%8B%E5%B8%88%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">广西律师吴良述</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E6%B3%95%E5%AE%98%E5%AF%B9%E7%AB%8B/?category=18271" rel="tag">律师法官对立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E5%AE%89%E8%BF%9B%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">杨安进律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E5%85%AC%E6%A2%93/?category=18271" rel="tag">桂公梓</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98/?category=18271" rel="tag">法官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98%E8%B5%B5%E4%BF%8A/?category=18271" rel="tag">法官赵俊</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E8%AE%A9%E4%BD%A0%E5%85%89%E7%9D%80%E5%B1%81%E8%82%A1%E8%B7%91/" target="cdt-mirror">【网络民议】社会主义让你光着屁股跑</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-%E4%B8%8A%E5%8D%888.34.46.png?resize=421%2C589" alt="Screen Shot 2016-06-04 at 上午8.34.46" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.34.46.png?w=421 421w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.34.46.png?resize=214%2C300 214w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1"></p>
+<p>6月3日，广西律师吴良述在当地法院立案时，向工作人员索取收件回执，被拒绝，之后又被怀疑用手机录音录像。法警要求他交出手机检查被他拒绝后，几名法警上前抢夺，将他放倒在地殴打、踩踏他的胸口，还扯烂了他的裤子。吴良述穿着破烂的裤子在法院门口的照片引爆了法律人的朋友圈。</p>
+<p>6日，官方公布调查结果，承认法警确实滥用强制手段，但否认“殴打”。公告称：抢夺手机、脚踏胸口等一些列动作“发生在一分钟之内”，目的是为了拿到手机，而非故意伤害吴良述，故不属于殴打。</p>
+<blockquote><p>相关阅读：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%B9%BF%E8%A5%BF%E5%BE%8B%E5%B8%88%E8%A3%A4%E8%85%BF%E9%81%AD%E6%B3%95%E8%AD%A6%E6%92%95%E8%A3%82-%E5%AE%98%E6%96%B9%E5%90%A6%E8%AE%A4%E6%AE%B4%E6%89%93/">美国之音 | 广西律师裤腿遭法警撕裂 官方否认殴打</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%9D%A8%E5%AE%89%E8%BF%9B%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%B0%B1%E5%8D%97%E5%AE%81%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%92%95%E8%A3%A4%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A1%82%E5%85%AC%E6%A2%93/">杨安进律师：就南宁律师被撕裤事件与“桂公梓”法官商榷</a></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AD%AA%E5%93%A5%E8%AF%84%E8%AE%BA-%E5%8D%8A%E6%8B%89%E5%AD%90%E8%A3%A4%E8%85%BF%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%B3%95%E6%B2%BB%E7%9A%84%E6%81%B0%E5%BD%93%E5%86%99%E7%85%A7/">歪哥评论 | 半拉子裤腿是中国法治的恰当写照</a></p></blockquote>
+<p><strong>以下为中国数字时代编辑搜集自新浪微博网友评论：</strong></p>
+<p><a title="最最最最zui" href="http://weibo.com/u/1769599504?refer_flag=1001030103_" target="_blank">最最最最zui </a>： 讲道理 律师+记者 我是不信这组合的一些言辞的</p>
+<p><a href="http://weibo.com/2806341771" target="_blank">QQ是qq</a>：对律师和记者这两个职业越来越没好感。</p>
+<p><a href="http://weibo.com/1892595712" target="_blank">小强3467175</a>：律师也不见得是什么好东西。为名为利可以不要脸。<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1291479103" target="_blank">Lesimple</a><i title="微博达人"></i>：做律师都不懂法吗？要是你有理他无理，直接配合检查，查不到就告他啊！用得着自己这么狼狈？现在也可以直接用法律控告啊！上微博博同情博舆论，最后得到的就是律协的咖啡和以后办案时的不便咯</p>
+<p><a href="http://weibo.com/3234179184" target="_blank">阿陶申命记</a>：看面相更倾向于无良律师炒作<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"> 别怪我，公知颠倒黑白的太多<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5186456711" target="_blank">大阪零距离</a>：唯恐天下不乱的律师，真是林子大了什么鸟都有</p>
+<p><a href="http://weibo.com/2641442600" target="_blank">sevenyanji</a>：律师竟然不知道不可以录音？呵呵。哪里买的证书？</p>
+<p><a href="http://weibo.com/3512817080" target="_blank">壹-贰</a>：这照片里的神情安详，这上衣解开的样子风流倜傥，另外谁打人还会先扒裤子？摆拍的可以，背景也选的好。</p>
+<p>——————————————————————————————————————</p>
+<p><a title="搜狐新闻" href="http://weibo.com/sohunewscenter?refer_flag=1001030103_" target="_blank">搜狐新闻</a>：【律师与法官：法律共同体的小船说翻就翻？】有多少律师为吴良述的遭遇义愤填膺，就有多少法官为青秀法院打抱不平。无论律师们的谴责多么有力，这谴责的传达方式都被包裹在夸张讽刺的基调上，将法官当作对立面，而且永远指向法律共同体的外部。这么做，只能反复抓挠法治伤口，无助于疗伤。</p>
+<p><a title="许金国-律师" href="http://weibo.com/u/1548023550?refer_flag=1001030103_" target="_blank">许金国-律师</a>：南宁青秀区法院开始给立案回执了！当地律师奔走相告！这无疑离不开吴良述律师事件的影响。如吴律师所言，法官和律师是法律共同体的说法，只是律师一厢情愿。上千律师联名声援吴律师已经证明感同身受者不在少数。法官是官，有国家暴力机器为后盾，律师身旁有谁呢？强者怎么可能有永远的自律？</p>
+<p><a href="http://weibo.com/5269669823" target="_blank">霍宇佳先森</a><i title="微博个人认证 "></i>：社會主義好 社會主義好 社會主義讓你光著屁股跑</p>
+<p><a href="http://weibo.com/hsudar" target="_blank">麦苏子</a>：看不懂，脚踏胸口，但又不是故意，感觉法警是歪倒在律师身上的</p>
+<p><a href="http://weibo.com/1874071735" target="_blank">姓白的老白同志</a>：我的意图是帮助你拍你身上的一只蚊子，尽管我打了你，撕了你衣服。有句话说得好，抽烟喝酒纹身的女孩还是个好女孩呢！</p>
+<p><a href="http://weibo.com/psl2012" target="_blank">_一葉知秋_</a>：他的裤子质量不行。</p>
+<p><a href="http://weibo.com/5863778817" target="_blank">成民心</a>：说出来你们可能不信，是裤子先动的手！</p>
+<p><a href="http://weibo.com/starsony" target="_blank">Mr_风声边界</a><i title="微博个人认证 "></i>：所以手速要快啊，将人秒杀不算殴打。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2605174302" target="_blank">一年又一年LiLi</a>：我相信一分钟内完成抢夺手机、撕烂裤子、背后控制、关门、放倒在地、脚踏胸口等动作，只是法警和现场法官想看看律师的内裤，结果却让天朝屁民们看到了依法治国的底裤！<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5592408860" target="_blank">滴滴小雨-BG6SEX</a>：反正，你懂的，王毅外长被打脸了。</p>
+<p><a href="http://weibo.com/u/3909246330?refer_flag=1001030106_">我存在丶在我的存在</a>：你知道中国的人权已经写进宪法里了吗？这一定是个刁民。<img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"><img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2902094811" target="_blank">风过无痕19700</a>：法警抢夺私人财物，是否违法？强制性获取，是否违法？你们如果公正，怕什么？此举难道有隐情怕公开？身为执法者违法，不要说你们不懂法。公布完整视频，还原真相，才是首选。不要狡辩，更不要侮辱大众的智商。</p>
+<p><a href="http://weibo.com/matt1314" target="_blank">村夫小哥</a>：对待律师都这么粗暴，平时对待老百姓可想而知</p>
+<p><a href="http://weibo.com/2271171625" target="_blank">庄庄庄庄一个人</a>：律师都这样了，我们老板姓怎么办，信访直接被退回来了!</p>
+<p><a href="http://weibo.com/5717312466" target="_blank">漫卷诗书7</a>：看完官方所谓道貌岸然，一本正经的言辞，醉了！偷书不算偷是窃书！“依法治国“的遮羞布撕下来确定是“有法治你”<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/n/%E6%B5%B7%E4%B8%9C%E9%9D%92%E7%A9%BA%E9%97%B4?from=feed&loc=at" target="_blank">@海东青空间</a>:背后控制、关门、放倒在地、脚踏胸口等动作，发生在一分钟内，不属殴打……类似于戴套不算强奸！</p>
+<p><a href="http://weibo.com/n/%E4%B8%8D%E6%B2%89%E9%BB%98%E7%9A%84%E5%A4%A7%E5%A4%9A%E6%95%B0?from=feed&loc=at" target="_blank">@不沉默的大多数</a>:讲真，现在以挺警察名义为不规范执法洗地的，素质真不高。理由就那几套：1、政治有人推墙；2、警察代表法律； 3、美国暴力执法； 4、社会乱了怎么办？ 5、有其他执法被围攻的。就事论事，实事求是质疑一起执法不当，就以当时情形和现行中国法律判断，扯其他的洗地有效吗？</p>
+<p> </p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E8%AE%A9%E4%BD%A0%E5%85%89%E7%9D%80%E5%B1%81%E8%82%A1%E8%B7%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">公权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">吴良述</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF/?category=18271" rel="tag">广西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF%E5%BE%8B%E5%B8%88%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">广西律师吴良述</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E6%B3%95%E5%AE%98%E5%AF%B9%E7%AB%8B/?category=18271" rel="tag">律师法官对立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98/?category=18271" rel="tag">法官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E9%99%A2/?category=18271" rel="tag">法院</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%9D%A2%E5%AF%B9%E7%99%BE%E5%A7%93-%E6%AD%A6%E8%AD%A6%E9%83%A8%E9%98%9F%E7%9C%9F%E5%BF%83%E8%B0%8B%E6%89%93%E4%BB%97/" target="cdt-mirror">【图说天朝】面对百姓 武警部队真心谋打仗</a>
 </h2>
 <p><blockquote><p>北风 <a href="https://twitter.com/wenyunchao/status/740214447772426240" target="_blank">@wenyunchao</a>：武警山东省总队“卫士-16”演习实施方案。</p></blockquote>
@@ -646,71 +757,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%A2%86%E5%AF%BC%E6%82%A8%E7%9A%84%E9%98%B2%E5%BC%B9%E8%A1%A3%E7%A9%BF%E5%8F%8D%E4%BA%86/" target="cdt-mirror">【图说天朝】领导您的防弹衣穿反了</a>
-</h2>
-<p><p>@前陆军下士：额…中间那位首长，你们的防弹衣穿反了，下面那玩意儿不是护臀…</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6d5674bagw1f4ldiz8pzhj20kr0fognj.jpg?resize=600%2C453" alt="6d5674bagw1f4ldiz8pzhj20kr0fognj" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6d5674bagw1f4ldiz8pzhj20kr0fognj.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6d5674bagw1f4ldiz8pzhj20kr0fognj.jpg?resize=300%2C227 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>@陌上花开_027：防背后打黑枪的。</p>
-<p>@芳韶_：这样撤退才安全啊。</p>
-<p>@瘦狗Alex：主要看使用者觉得哪边更要害。</p>
-<p>@品摄鉴车：不懂首长的取向，才会提出这问题。</p>
-<p>@嘚瑟菠萝：平时穿的少，估计这是第一次穿，不怪他。</p>
-<p>@张国立ZGL：这样的部队保卫得了人民吗？</p>
-<p>@岳阳楼新主人: 裆中央面临威胁。</p>
-<p>@刘世坚: 政治错误啊！！菊（局）部比裆部重要…</p>
-<p>@广州城堡堡主：竟然没有人告诉首长他穿反了。</p>
-<p>@鸟人與豬：八旗子弟，尽出笑话！</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xinsrc_45208031510287502297773.jpg?resize=375%2C500" alt="防弹衣" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xinsrc_45208031510287502297773.jpg?w=375 375w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xinsrc_45208031510287502297773.jpg?resize=225%2C300 225w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"><p>网络图片：三级防弹衣所带的前方护档</p></div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%A2%86%E5%AF%BC%E6%82%A8%E7%9A%84%E9%98%B2%E5%BC%B9%E8%A1%A3%E7%A9%BF%E5%8F%8D%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F/?category=18271" rel="tag">军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A4%E8%87%80/?category=18271" rel="tag">护臀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E5%BC%B9%E8%A1%A3/?category=18271" rel="tag">防弹衣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%AF%BC/?category=18271" rel="tag">领导</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/" target="cdt-mirror">BBC | “港独”指控下兰蔻取消何韵诗演唱引反弹</a>
-</h2>
-<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606051541_cn_denise_ho_hongkong_occupy_976x549_getty_nocredit.jpg?resize=600%2C337" alt="何韵诗（中）是“占中”被捕示威艺人之一。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606051541_cn_denise_ho_hongkong_occupy_976x549_getty_nocredit.jpg?w=660 660w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606051541_cn_denise_ho_hongkong_occupy_976x549_getty_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>何韵诗（中）是“占中”被捕示威艺人之一。</p></div>
-<p>法国化妆品牌“兰蔻”（Lancôme）的香港分公司宣布取消艺人何韵诗的一场小型音乐会，引起香港网民反弹。</p>
-<p>何韵诗积极参与了2014年“雨伞运动”争取普选堵路示威，也是最后一批被警方逮捕抬离“金钟占领区”的示威者之一。他在5月中旬迎来39岁生日之际于日本大阪与西藏流亡精神领袖达赖喇嘛见面。</p>
-<p>兰蔻上周公布这场演出后，被包括中共《环球时报》在内的中国媒体指责其起用“支持‘港毒藏毒’的艺人”，不少中国网民到兰蔻的微博指责其“请分裂中国的艺人代言”。</p>
-<p>兰蔻其后两度发出声明，澄清何韵诗并非其品牌代言人，继而以安全理由宣布取消音乐会。数以万计网民在其Facebook声明点击“愤怒”反应表达不满。</p>
-<p>同样被中国媒体指责的还有美国嗽口水品牌李施德林（Listerine）。该公司与何韵诗合作的广告系列也刚在两周前发表。</p>
-<p>李施德林方面暂未对来自中国大陆的批评作出回应，何韵诗也未就兰蔻撤销合作发表评论。</p>
-<p><strong>小型音乐会</strong></p>
-<p>兰蔻安排的音乐会原定于6月19日在其新开设的香港上环分店举行。拥有加拿大国籍的何韵诗于2日在其Facebook专页上宣布了兰蔻的这场演出。</p>
-<p>何韵诗在网帖中自嘲说：“干了一会失业人士、扮演完旅人、OL（办公室女郎）、村菇（村姑）、废铁等多重角色之后，这次终于有人找我回归我最原始慨角色——歌女！”</p>
-<p>但到了6月4日，新浪新闻中心刊发一篇综合报道，声称有网民就此事向编辑爆料。文章并配发了何韵诗此前在社交媒体上发布与达赖喇嘛的合照。</p>
-<p>文章说：“虽然在内地遭到厌恶和抵制，这何韵诗却在香港相当吃得开。而且，虽然她已难以再从内地赚钱，但仍然有从内地人口袋里赚钱的企业，在养着她、资助着她。”</p>
-<p>“当然，很多内地网友此前并不了解这些情况——因为这些广告只发在了境外的社交网站Facebook上。否则，如果这些广告也发在内地，可想而知内地公众的反应会是什么。”</p>
-<p>“而且，即便这些品牌可能会辩称这些宣传是给香港的‘特供’，也会令在内地——乃至去香港旅游时多多支持两家品牌的内地消费者感到受伤，特别是当大家意识到自己的钱被拿去给了支持‘港独’乃至‘藏独’的艺人，甚至有可能会被用作‘乱港’的经费。”</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606061851_cn_sinaweibo_global_times_20160604_0914hkt.jpg?resize=624%2C691" alt="《环球时报》网帖发表后，网民涌往兰蔻官方微博留言抗议。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606061851_cn_sinaweibo_global_times_20160604_0914hkt.jpg?w=624 624w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606061851_cn_sinaweibo_global_times_20160604_0914hkt.jpg?resize=271%2C300 271w" sizes="(max-width: 624px) 100vw, 624px" data-recalc-dims="1"><p>《环球时报》网帖发表后，网民涌往兰蔻官方微博留言抗议。</p></div>
-<p><strong>网民两极反应</strong></p>
-<p>中共《人民日报》旗下《环球时报》继而于6月4日早上在微博发帖，询问网民：“有网友爆料，在内地热销的漱口水品牌李施德林，以及兰蔻化妆品，近日在香港新推出的品牌推广活动中，皆请了支持港毒，并且上周又在日本力挺藏毒头目的何韵诗做代言活动……你们怎么看？”</p>
-<p>网民随后跟帖号召抵制，宣称“以后坚决不用兰蔻产品”。也有网民称，“每一笔支持藏独，港独和台独的钱里都沾着中国同胞的血”，并给历来被指控支持“藏独”的西方品牌“翻旧账”。</p>
-<p>上百中国网民随即在兰蔻中国的官方微博上留言指责，要求兰蔻退出中国市场。兰蔻中国随即发表声明澄清何韵诗并非代言人。超过4万名网民跟帖回应，当中有网民批评兰蔻“玩文字游戏”，质问该公司“什么时候能学好政治再来赚钱呢”。</p>
-<p>兰蔻香港于5日跟进发表声明称，邀请何韵诗演唱“原意为纯音乐上分享，并无牵涉任何代言人合作关系。由此对消费者造成误解我们 深表歉意”。</p>
-<p>至深夜，兰蔻再发表中英双语声明说，该公司“一直以来对每位支持者的感受与体验极为重视……然而，鉴于有可能出现之安全因素，我们决定取消原定活动。”</p>
-<p>截至北京时间星期一（6月6日）中午，两份在Facebook上发表的声明合共有4.4万名网民点击“愤怒”反应。兰蔻方面并未解释何谓“有可能出现之安全因素”。</p>
-<p>留言中既有香港网民宣称以后不再购买兰蔻产品，也有人号召网民同时抵制兰蔻母公司欧莱雅（L’Oréal）的所有产品，还有人要求兰蔻解雇所有与这两份声明有关的雇员和外包公关公司职员。<br>
-一些网民则在跟帖中翻出善待动物组织（PETA）数据库的纪录，指责兰蔻在动物身上测试其产品。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606060639_cn_lancome_denise_ho_statement_976x549_bbcchinese_nocredit.jpg?resize=624%2C351" alt="兰蔻香港Facebook的声明引来上万网民点击关注。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606060639_cn_lancome_denise_ho_statement_976x549_bbcchinese_nocredit.jpg?w=624 624w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160606060639_cn_lancome_denise_ho_statement_976x549_bbcchinese_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 624px) 100vw, 624px" data-recalc-dims="1"><p>兰蔻香港Facebook的声明引来上万网民点击关注。</p></div>
-<p><strong>抵制艺人</strong></p>
-<p>自原称“占领中环”的“雨伞运动”示威发生后，中国大陆与香港已不止一次发生抵制艺人事件。</p>
-<p>去年12月，香港著名填词人林夕在微博上“被举报”不爱国，原本于桂林广西大学的活动被逼取消。林夕于“占中”期间为支持示威者的歌曲《撑起雨伞》填词，何韵诗也是参与演唱艺人之一。</p>
-<p>香港歌手卢凯彤、谢安琪和张敬轩等也先后“被举报”支持“占中”，其中国大陆活动受到限制。</p>
-<p>何韵诗去年曾对媒体称，她本人自“占中”被捕后因失去中国大陆市场，收入大减80%。她继而宣布转型为独立歌手，并继续参与“占中”时创立的活动团体“文化监暴”工作，同时在亲民主派网络媒体“立场新闻”担任董事。</p>
-<p>在兰蔻事件发生之前，意大利菲亚特汽车于2008年西藏3·14骚乱后推出由好莱坞影星理查德·基尔主演的广告，因理查德·基尔长期支持流亡藏人而引来中国抨击，菲亚特最终道歉。</p>
-<p>同年，女星莎朗·斯通因在评论四川汶川大地震时提到“报应”一词引起中国舆论不满，被香水品牌迪奧（Christian Dior）撤换其广告。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">中国市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E7%8E%AF/?category=18271" rel="tag">中环</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97/?category=18271" rel="tag">何韵诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E8%94%BB/?category=18271" rel="tag">兰蔻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A0%E9%A2%86%E4%B8%AD%E7%8E%AF/?category=18271" rel="tag">占领中环</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%99%AE%E9%80%89/?category=18271" rel="tag">普选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%B4%BE/?category=18271" rel="tag">民主派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%AF%E7%8B%AC/?category=18271" rel="tag">港独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -722,7 +768,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -732,5 +778,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,157 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%BF%E7%94%B5%E7%8B%97%E8%85%BF%E5%AD%90%E5%B9%B2%E7%9A%84%E8%BF%99%E4%B9%88%E5%8D%96%E5%8A%9B%E4%B8%BB%E5%AD%90%E8%BF%98%E6%98%AF%E4%B8%8D/" target="cdt-mirror">【网络民议】广电狗腿子干的这么卖力主子还是不满意啊</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg?resize=300%2C225" alt="赵家人的狗" data-recalc-dims="1"></a><br><span>网络图片</span></p>
+<p><a href="http://www.ccdi.gov.cn/yw/201606/t20160606_80071.html" target="_blank"><strong>中央纪委监察部网站｜中央第一巡视组向国家新闻出版广电总局党组反馈专项巡视情况</strong> </a></p>
+<blockquote><p>巡视中，巡视组发现和干部群众反映了一些问题，主要是：<strong>坚持党对新闻出版广电事业的领导不够有力</strong>，推进新闻出版广电改革发展力度不够，与中央要求有差距；<strong>把控正确舆论导向不牢，新闻宣传引导力影响力不强</strong>；<strong>新媒体领域党的领导弱化，把党管媒体原则贯彻到新媒体领域办法不多</strong>；引导扶持精品力作不够，“三俗”现象突出；党的建设缺失，有的直属单位党建工作流于形式；干部作风不扎实，选人用人不规范，执行领导干部个人有关事项报告制度不严格；全面从严治党主体责任落实不到位，违反中央八项规定精神问题禁而不绝，影视剧购销、广告经营、新闻采编、工程项目等重点领域腐败问题突出。同时，巡视组还收到反映一些领导干部的问题线索，已按有关规定转中央纪委、中央组织部等有关方面处理。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@晏扬:宣宣和广电都“左”到这种程度了，居然还是和中央的要求有差距。唉。。</p>
+<p>@付恺大提琴：新闻的意思就是说广电总局查的还是太松了。吹捧党还不够！以后得像北韩那样吹捧党和国家领导人</p>
+<p><a href="http://weibo.com/3123414987" target="_blank">@喋lee</a><i></i>：还不够牢不够强还弱化啊？那以后电视还用看吗，都给领导看行了，像我们这种俗人，不懂大领导的眼光<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">总说作品三俗三俗，能不能看人下菜，能不能立足实际，能不能不要把自己的思想强加于所有人，能不能了解一下群众的意见，是啊，我们就是俗人，喜欢看俗的电视剧，怎么了，碍着你领导什么事了</p>
+<p><a href="http://weibo.com/panjieanna" target="_blank">@怺逺湜啨兲</a><i title="微博达人"></i>：打开页面全是裆裆裆裆裆…………<img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"></p>
+<p><strong>@好媳妇都爱的：广电总局没有把抄党章的行动抓严？应严令各级喉舌只抄党章，新闻联播滚动不间断独播党章。</strong></p>
+<p>@薇薇安奇奇怪怪：“不断夯实维护意识形态安全的物质基础”这是什么意思？“严守正确的政治方向，宣传导向，创作导向”什么叫正确的，“对巡视整改 情况，要以适当的形式向社会公开”？什么叫适当的形式？既然是对社会发的文，请用大白话，不用打官腔，谢谢！让老百姓看得懂才行，不是所有人都是当官的， 看的懂！</p>
+<p><a href="http://weibo.com/sheshou861" target="_blank">@sheshou861</a>：一直都知道广电不过是个背锅的傀儡，这这…背后话事人就这么暴露自己真的好么<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5894988639" target="_blank">@爱你摸摸达</a>：党的意思是广电还不够严<img title="[哆啦A梦微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/jqmweixiao_org.gif" alt="[哆啦A梦微笑]" data-recalc-dims="1">，我估计广电还得再禁几部剧才能符合党的标准<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">，看来真的文革要来了<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2961629965" target="_blank">@紫色帅夫猴_MeU</a>：还管，再管就都撤了吧，什么电视剧，广告都别拍了，一天24小时都是新闻，舆论导向，把控力度就强了，都是你们说了算的新闻。<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p>@starling小姐：这还不够的话，上面到底觉得怎样才是理想国家啊，朝鲜？</p>
+<p>@尼古拉斯赵四是我：都怪我们！对不起！我们应该好好接受洗脑的！</p>
+<p><strong>@我是教授的贴心小毛巾：他妈的看个八卦还要宣传党，请问党要脸吗。</strong></p>
+<p>@虾恶经理：还不牢？还不强？干脆断网24小时直播新闻联播吧。广电为党做了这么多事，这不许看，那不看，你们居然还这么诬陷他？他是个太监啊，你们说他与人通奸！！还有没有良心！！</p>
+<p><strong>@sheshou861：哈哈哈哈这下终于暴露以前广电那些锅该谁背了～</strong></p>
+<p><a href="http://weibo.com/3784512202" target="_blank">@花痴刷屏专用</a>：这么多文字<img title="[悲伤]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]" data-recalc-dims="1">说人话！比毛概马克思书上还玄幻一百倍<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/riomiao" target="_blank">@RIO马里奥</a><i title="微博达人"></i><i></i>：这是奔着北棒去了吗<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/BK0201" target="_blank">@108级野蛮人</a>：这是还了广电一个清白！<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p>@sheshou861：哈哈哈哈这下终于暴露以前广电那些锅该谁背了～</p>
+<p><strong>@AntonyWang ： 呵呵有些人还指望巡视组能对广电下手，看吧巡视组还嫌广电管控工作做得不够好</strong></p>
+<p>@脑洞大婶：广电就是背锅侠，不是我党放话，他能制定这么多有毒的条款，管的这么严么。现在我党依旧说不够严，呵呵向朝鲜看齐了是么，文革重来又要肃清文化了是么</p>
+<p><strong>@神探杨福生：狗腿子干的这么卖力主子还是不满意啊</strong></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%BF%E7%94%B5%E7%8B%97%E8%85%BF%E5%AD%90%E5%B9%B2%E7%9A%84%E8%BF%99%E4%B9%88%E5%8D%96%E5%8A%9B%E4%B8%BB%E5%AD%90%E8%BF%98%E6%98%AF%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84/?category=18271" rel="tag">中央巡视组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%EF%BC%88%E4%BA%8C%EF%BC%89%E3%80%81%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C-%E7%AD%89%E7%83%AD%E7%82%B9/" target="cdt-mirror">【敏感词库】雷洋之死（二）、记者无疆界等热点 2016-6-08</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B7%B4%E4%B8%A2%E8%8D%89_%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB.jpg?resize=575%2C306" alt="巴丢草_雷洋之死" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?w=1024 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?resize=300%2C160 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?resize=768%2C409 768w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"><br><em>图片作者：巴丢草</em></p>
+<p>［新浪微博搜索禁词测试时间：2016年6月08日］</p>
+<p><strong>嫖娼之外的另一种可能</strong><br><strong>雷洋案＋引导舆论</strong><br><strong> 雷洋＋龙锦</strong><br><strong>雷洋＋下跪</strong><br><strong> 雷洋＋戴套</strong><br><strong> 雷洋＋事件</strong><br><strong> 雷洋＋伤痕</strong><br><strong>雷洋＋陈有西</strong><br><strong> 硕士雷洋＋嫖娼</strong></p>
+<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%97%E4%B8%8E%E5%B8%9D%E5%9B%BD%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E5%AB%96%E5%A8%BC%E4%B9%8B%E5%A4%96%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD/">诗与帝国｜雷洋案：嫖娼之外的另一种可能</a></p></blockquote>
+<p><strong>记者无疆界</strong><br><strong>无国界记者</strong></p>
+<p><span><strong>五岳散人</strong></span>（原因不明）</p>
+<p><strong>文革 + 周永康</strong><br><strong> 文革＋复辟</strong></p>
+<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E6%B7%B1%E5%A4%9C%E6%89%93%E7%A0%B4%E6%B2%89%E9%BB%98%EF%BC%9A%E5%86%B3%E4%B8%8D%E5%85%81%E8%AE%B8%E6%96%87%E9%9D%A9/">纽约时报 | 中国官媒深夜打破沉默：决不允许文革错误重演</a></p></blockquote>
+<p><strong>心腹＋王小洪</strong><br><strong>亲信＋王小洪</strong></p>
+<p><strong>下一届＋习</strong></p>
+<p><strong>孙政才＋入常</strong></p>
+<p><strong>邓猫</strong></p>
+<p><strong>中共国家恐怖主义暴行展</strong><br><strong>中共＋言而无信</strong></p>
+<p><strong>坦克＋六月</strong></p>
+<p><strong>葛洵</strong>（人道中国主席）</p>
+<p><strong>陈维明</strong></p>
+<p><strong>ZZY</strong>（指赵紫阳）<br><strong>WJB</strong>（指温家宝）</p>
+<p><strong>私处</strong><br><strong>舔逼</strong><br><strong>激情＋视频</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AB%96%E5%A8%BC%E4%B9%8B%E5%A4%96%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD.png?resize=476%2C185" alt="嫖娼之外的另一种可能" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/嫖娼之外的另一种可能.png?w=702 702w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/嫖娼之外的另一种可能.png?resize=300%2C117 300w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%8B%E5%BC%95%E5%AF%BC%E8%88%86%E8%AE%BA.png?resize=475%2C184" alt="雷洋案＋引导舆论" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案＋引导舆论.png?w=702 702w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案＋引导舆论.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E9%BE%99%E9%94%A6.png?resize=475%2C185" alt="雷洋＋龙锦" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋龙锦.png?w=701 701w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋龙锦.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E4%B8%8B%E8%B7%AA.png?resize=475%2C187" alt="雷洋＋下跪" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋下跪.png?w=702 702w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋下跪.png?resize=300%2C118 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E6%88%B4%E5%A5%97.png?resize=475%2C186" alt="雷洋＋戴套" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋戴套.png?w=704 704w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋戴套.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E4%BA%8B%E4%BB%B6.png?resize=475%2C184" alt="雷洋＋事件" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋事件.png?w=701 701w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋事件.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E4%BC%A4%E7%97%95.png?resize=475%2C185" alt="雷洋＋伤痕" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋伤痕.png?w=702 702w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋伤痕.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E9%99%88%E6%9C%89%E8%A5%BF.png?resize=475%2C185" alt="雷洋＋陈有西" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋陈有西.png?w=702 702w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋陈有西.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%A1%95%E5%A3%AB%E9%9B%B7%E6%B4%8B%EF%BC%8B%E5%AB%96%E5%A8%BC.png?resize=475%2C184" alt="硕士雷洋＋嫖娼" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/硕士雷洋＋嫖娼.png?w=704 704w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/硕士雷洋＋嫖娼.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C.png?resize=475%2C184" alt="记者无疆界" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/记者无疆界.png?w=704 704w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/记者无疆界.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%AE%B0%E8%80%85%E6%97%A0%E5%9B%BD%E7%95%8C.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%AE%B0%E8%80%85%E6%97%A0%E5%9B%BD%E7%95%8C.jpg?resize=475%2C209" alt="无国界记者" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/记者无国界.jpg?w=2328 2328w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/记者无国界.jpg?resize=300%2C132 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/记者无国界.jpg?resize=768%2C337 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/记者无国界.jpg?resize=1024%2C450 1024w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%94%E5%B2%B3%E6%95%A3%E4%BA%BA.png?resize=475%2C300" alt="五岳散人" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/五岳散人.png?w=703 703w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/五岳散人.png?resize=300%2C189 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%87%E9%9D%A9-%E5%91%A8%E6%B0%B8%E5%BA%B7.png?resize=475%2C184" alt="文革 + 周永康" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革-周永康.png?w=704 704w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革-周永康.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%87%E9%9D%A9%EF%BC%8B%E5%A4%8D%E8%BE%9F.png?resize=475%2C184" alt="文革＋复辟" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革＋复辟.png?w=703 703w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革＋复辟.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%BF%83%E8%85%B9%EF%BC%8B%E7%8E%8B%E5%B0%8F%E6%B4%AA.png?resize=475%2C184" alt="心腹＋王小洪" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/心腹＋王小洪.png?w=702 702w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/心腹＋王小洪.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%B2%E4%BF%A1%EF%BC%8B%E7%8E%8B%E5%B0%8F%E6%B4%AA.png?resize=475%2C184" alt="亲信＋王小洪" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/亲信＋王小洪.png?w=704 704w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/亲信＋王小洪.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%8B%E4%B8%80%E5%B1%8A%EF%BC%8B%E4%B9%A0.png?resize=475%2C186" alt="下一届＋习" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/下一届＋习.png?w=704 704w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/下一届＋习.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AD%99%E6%94%BF%E6%89%8D%EF%BC%8B%E5%85%A5%E5%B8%B8.png?resize=475%2C184" alt="孙政才＋入常" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/孙政才＋入常.png?w=705 705w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/孙政才＋入常.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%82%93%E7%8C%AB.png?resize=475%2C213" alt="邓猫" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/邓猫.png?w=704 704w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/邓猫.png?resize=300%2C134 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B8%AD%E5%85%B1%E5%9B%BD%E5%AE%B6%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89%E6%9A%B4%E8%A1%8C%E5%B1%95.png?resize=475%2C186" alt="中共国家恐怖主义暴行展" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中共国家恐怖主义暴行展.png?w=701 701w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中共国家恐怖主义暴行展.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B8%AD%E5%85%B1%EF%BC%8B%E8%A8%80%E8%80%8C%E6%97%A0%E4%BF%A1.png?resize=475%2C184" alt="中共＋言而无信" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中共＋言而无信.png?w=702 702w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中共＋言而无信.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%9D%A6%E5%85%8B%EF%BC%8B%E5%85%AD%E6%9C%88.png?resize=475%2C186" alt="坦克＋六月" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/坦克＋六月.png?w=703 703w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/坦克＋六月.png?resize=300%2C118 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%91%9B%E6%B4%B5.png?resize=475%2C185" alt="葛洵" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/葛洵.png?w=702 702w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/葛洵.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%88%E7%BB%B4%E6%98%8E.png?resize=475%2C212" alt="陈维明" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陈维明.png?w=703 703w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陈维明.png?resize=300%2C134 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/ZZY-1.png?resize=475%2C276" alt="ZZY" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/ZZY-1.png?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/ZZY-1.png?resize=300%2C174 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/WJB.png?resize=475%2C183" alt="WJB" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/WJB.png?w=705 705w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/WJB.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%A7%81%E5%A4%84.png?resize=475%2C185" alt="私处" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/私处.png?w=702 702w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/私处.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%88%94%E9%80%BC.png?resize=475%2C185" alt="舔逼" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/舔逼.png?w=703 703w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/舔逼.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%BF%80%E6%83%85%EF%BC%8B%E8%A7%86%E9%A2%91.png?resize=475%2C186" alt="激情＋视频" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/激情＋视频.png?w=704 704w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/激情＋视频.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></p>
+<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
+<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%EF%BC%88%E4%BA%8C%EF%BC%89%E3%80%81%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C-%E7%AD%89%E7%83%AD%E7%82%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E6%94%BF%E6%89%8D/?category=18271" rel="tag">孙政才</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B0%8F%E6%B4%AA/?category=18271" rel="tag">王小洪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C/?category=18271" rel="tag">记者无疆界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 7小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%8F%96%E6%B6%88%E5%BC%95%E6%8A%97%E8%AE%AE-%E5%85%B0%E5%AF%87%E9%A6%99%E6%B8%AF%E5%85%B3%E9%97%A8%E4%B8%80%E5%A4%A9/" target="cdt-mirror">德国之声｜音乐会取消引抗议 兰寇香港关门一天</a>
+</h2>
+<p><p><strong>法国化妆品巨头兰寇（Lancome）周三暂时停止了在香港的营业。在该公司宣布取消一个有占中积极分子何韵诗参加的促销音乐会之后，反对人士举行了抗议活动。</strong></p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314138_30300.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314138_30300.jpg?resize=575%2C324" alt="0,,19314138_303,00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314138_30300.jpg?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314138_30300.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>兰寇专卖店旁的抗议活动</span></p></div>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E6%8A%B5%E5%88%B6%E4%B8%8B%E4%B8%80%E7%AB%99%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A/">【立此存照】“爱国”抵制下一站：李嘉诚</a></li>
+<li> <a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%85%B0%E8%94%BB-%C2%B7-%E5%8C%97%E4%BA%AC/">巴丢草：兰蔻 · 北京</a></li>
+<li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A6%99%E6%B8%AF%E5%95%86%E4%B8%9A%E4%BB%A3%E8%A8%80%E4%B9%9F%E5%BD%92%E4%BD%A0%E5%A4%A7%E9%99%86%E7%88%B8%E7%88%B8%E7%AE%A1/">【立此存照】香港商业代言也归你大陆爸爸管</a></li>
+<li><a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/">BBC | “港独”指控下兰蔻取消何韵诗演唱引反弹</a></li>
+</ul></blockquote>
+<p>（德国之声中文网）因抗议兰寇没有顶住来自大陆的压力而取消了一个促销音乐会，香港的活动人士周三举行了抗议活动。虽然兰寇此外自称取消音乐会的决定出于”安全因素”，但香港当地居民一般都认为，此次风波都是何韵诗惹的祸。</p>
+<p>周三（2016.6.8），兰寇决定暂时停止在香港的营业，因为反对方计划当日下午在兰寇分店附近举行示威。位于铜锣湾时代广场的兰寇专卖店以及母公司欧莱雅专卖店都已停业。当地媒体报道，周二兰寇内部曾下达了关店一天的指示。</p>
+<p>何韵诗积极参与了2014年的占中运动，曾被看作”良心艺人”，在大陆她则被视为”支持港独”人士。今年4月她在脸书上公开同达赖喇嘛的合影，被大陆媒体解读为支持藏独。当何韵诗数天前在其脸书上晒与兰寇的演唱音乐会后，《环球时报》周日通过微博向网民提问”你怎么看”从而为双方叫骂拉开了帷幕。周二，《环球时报》再发评论，指何韵诗在占中当中得了分，但有得就有失，她”原本在内地就算不上很旺的人气断崖式崩溃，她成了内地网民定义为’港独艺人’或’台独艺人’并加以打击的最突出靶子之一。”</p>
+<p>在香港当地，一封要求民众抵制兰寇的公开信在 change.org网站发表，截至目前，已有4000多人签名。</p>
+<p>政界也参与进来。香港社会民主连线主席吴文远是本次抗议活动的组织者之一。他说，抗议活动是要向世界显示”我们应该团结起来，抵制他们的产品。告诉兰寇和洛莱亚，你们不能只顾大陆市场”。</p>
+<p>香港西贡区议会环保北选区民选区议员方国珊则在脸书上发了一个视频，显示她将自己的兰寇化妆品倒进垃圾，并表示”再也不用它们”，”让兰寇见鬼去吧”。截至到周三早晨，该视频被观看了12万8千次。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019313373_40100.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019313373_40100.jpg?resize=575%2C324" alt="香港占中后期何韵诗被警方带走（2014年12月）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019313373_40100.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019313373_40100.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>香港占中后期何韵诗被警方带走（2014年12月）</span></p></div>
+<p>何韵诗本人没有参加示威活动，但她向媒体表示，“这已不仅事关我以及兰寇，现在已是白色恐怖。” 除兰寇和欧莱雅外，位于时代广场的其它名牌专卖店如<span>圣罗兰、<span>赫莲娜</span></span>以及<span>植村秀等奢侈品牌店都在周三暂时关门。</span></p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314137_40100.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314137_40100.jpg?resize=575%2C324" alt="有人打出黄伞" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314137_40100.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314137_40100.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>有人打出黄伞</span></p></div>
+<p>在大陆的社交网站上，支持封杀何韵诗的大有人在。</p>
+<p>新浪微博注册的”声誉视角”： 通过与何韵诗解除合作，兰寇与政治脱敏的作法是明智的。</p>
+<p>但”胡一钗”则提问：欣赏何韵诗的音乐剧是否可以直接等同于支持兰寇？</p>
+<p>《环球时报》评论后有113条跟贴，江苏省泰州市网友写道：何韵诗想借港独冲人气，与十四亿国人为敌，确实名气飚升，否则兰蔻也瞧不上他，至于内地人民自发抵制，是民心所向！何女种瓜得瓜，自己走错了路当然要承担代价，怨也只能怨自己，跳不跳太平洋，自己选择去！</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%8F%96%E6%B6%88%E5%BC%95%E6%8A%97%E8%AE%AE-%E5%85%B0%E5%AF%87%E9%A6%99%E6%B8%AF%E5%85%B3%E9%97%A8%E4%B8%80%E5%A4%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97/?category=18271" rel="tag">何韵诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E8%94%BB/?category=18271" rel="tag">兰蔻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 7小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9B%B9%E9%9B%85%E5%AD%A6%EF%BC%9A%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E2%88%99%E5%9C%9F%E8%B5%AB%E6%8F%90%E6%95%99%E6%8E%88%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%BE%97%E8%90%A8/" target="cdt-mirror">曹雅学：伊力哈木∙土赫提教授为什么应得萨哈罗夫自由思想奖</a>
+</h2>
+<p><p><em>原标题：伊力哈木∙土赫提教授为什么应该获得萨哈罗夫自由思想奖 – 我在欧洲议会的发言</em></p>
+<p>作者按：5月25日, 一组来自德国、法国和美国的学者与人权组织代表在布鲁塞尔欧洲议会内举行了一个会议，题为<a href="http://unpo.org/article/19208">“中国希望实现真正的民族和谐吗？观照伊力哈木∙土赫提教授”</a>。这次会议是推动伊力哈木∙土赫提教授获得欧洲议会萨哈罗夫自由思想奖的努力的一部分。会议由欧洲自由民主联盟 (Alliance of Liberals and Democrats for Europe, ALDE) 议员Ilhan Kyuchyuk 支持举行，维吾尔族德国人Enver Can先生主持，发言者包括总部设在布鲁塞尔的“无代表国家和民族组织”(UNPO) 秘书长Marino Cusdachin; 美国加州Pomona College 人类学教授Dru Gladney; 设在德国的“受威胁民族协会”(Society for Threatened Peoples) Ulrich Delius 先生；布鲁塞尔自由大学 (L’Université libre de Bruxelles)</p>
+<p>高级讲师、中国研究主任Vanessa Frangville博士；法国汉学家、前巴黎大学教授Marie Holzman (侯芷明); 印第安纳大学中央欧亚研究教授Elloit Sperling (史伯岭), 以及我本人。我们六个人各自从地域政治、中国政府的维吾尔族政策等不同方面出发，共同回答了伊力哈木∙土赫提教授为什么应该获得萨哈罗夫自由思想奖这个问题。到会的包括多位议员及助手，以及国际特赦、前线卫士等多家国际人权组织的代表。绿党-欧洲自由联盟议员、欧洲议会人权委员会副主席<a href="http://www.europarl.europa.eu/meps/en/96728/BARBARA_LOCHBIHLER_home.html">Barbara Lochbihler</a> 到会作了总结发言。她的发言显示她对伊力哈木案件以及维吾尔人所面临的经济、文化、宗教和政治困境有全面而准确的了解。她指出，萨哈罗夫奖应该成为促进积极变化的一个工具。由于China Change网站过去两年对伊力哈木教授的著作、<a href="http://www.voacantonese.com/a/uyghur-human-rights-ilham-20131204/1804034.html">访谈</a>进行了系统翻译介绍，并编辑了一部关于伊力哈木的30分钟的<a href="https://chinachange.org/2015/10/26/ilham-tohti-documentary/">记录片</a>，我的发言集中在伊力哈木的生平、工作与理想。我将我的发言翻译成了中文，与中文读者分享：</p>
+<p>绝大部分时候我对自己是汉族人这个身份没什么感觉，但每次讨论伊力哈木∙土赫提教授时我便会强烈地意识到这个身份。作为汉人出席这个会议，并讨论伊力哈木的生平、工作和理想，是一件令我深感荣幸并且责任重大的事。你们将会看到为什么。</p>
+<p>中国共产党自建政以来便有一个传统，即在各个少数民族中选择最优秀的青年，将他们安排到北京或其它内地大城市学习、上大学。在接受了高等教育后，他们成为各自民族的精英，很多人成为党的干部、政府官员，其他人则成为作家、大学老师、或成功的商人等社会中坚力量。</p>
+<p>伊力哈木就是这样一个在内地接受了教育的维吾尔人。在他之前，他的父亲是第一代在内地受高等教育的维吾尔人。伊力哈木出生于1969年，在新疆一个汉族干部和维族干部混居的政府大院长大，16岁时被选拔到北京学习。他先学习汉语，然后学习经济学，并最终成为中央民族大学的一名副教授。他是一名新疆研究和中亚研究专家，研究范围包括地域政治、文化、经济发展、和宗教。近些年来，他的研究集中在维吾尔人的经济、宗教和政治权利，以及维人与政府、维人与汉人越来越紧张的关系。他对发生在世界各地、也包括新疆地区在内的民族冲突仇杀忧心忡忡、痛心不已。他对多民族社会治理方法的技术细节非常感兴趣，即什么样的政策和制度能够保障多民族和平、平等共处，同时保存各自的文化传统与特征。他研究了很多国家成功与失败的案例，包括一些欧洲国家。通过研究，他看到，要实现多民族享受平等权利、和平共处、合理治理，必然要求一套开放、平等的价值观与建制，而这些价值观与建制正是中国政府所拒绝的。</p>
+<p>他的研究不可避免地导致对中国政府民族政策的批评。在<a href="https://chinachangedotorg.files.wordpress.com/2015/05/e4bc8ae58a9be59388e69ca8efbc9ae5bd93e5898de696b0e79686e6b091e6978fe997aee9a298e79a84e78eb0e78ab6e58f8ae5bbbae8aeae2.pdf">他的著作</a>中，他详尽分析了新疆目前所面临的问题，并提出了政策建议。但是现实的情况是，政府不但不听取这些建议，而且将提这些建议的人视为敌人。</p>
+<p>伊力哈木从学术生涯一开始就引起政府不满。早在1994年，因为他在一篇<a href="https://i.cloudup.com/1zDkXd6WJ2.pdf">调研报告</a>中辩驳政府的虚假数据，新疆国安到北京来抓他、威胁他。在接下来的20年里，他曾经间断性地被禁止出版、禁止上课、禁止回新疆、禁止出国。他上课的教室有监控摄像，有政府派来的人坐在课堂监视。他曾经被短期拘留，软禁在家在近年则成为常事。2014年1月15日他被逮捕；同年9月，中国政府以分裂罪判处伊力哈木无期徒刑，尽管伊力哈木关于民族平等共处的温和立场广为人知。</p>
+<p>早在中国政府提出“一带一路”战略发展蓝图、寻求经古老的丝绸之路向西开拓经济之前，伊力哈木便认为中国可以也应该在中亚扮演一个更加积极有效的角色， 而维吾尔人因其在语言、文化上与中亚民族的同质性，可以积极参与这个过程并做出重大贡献。在新疆长大的汉人、知名文化人黄章晋在2009年撰写的<a href="http://chinadigitaltimes.net/chinese/2014/03/%E9%BB%84%E7%AB%A0%E6%99%8B-%E5%86%8D%E8%A7%81-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/">《再见，伊力哈木》</a>一文中写道，“伊力哈木认为，如果中国是一个自由民主的国家，新疆是一个真正落实民族区域自治法的自治区，维吾尔人会因生活在中国为傲，中国就对中亚地区拥有强大的软实力，因为维吾尔人的语言优势，他们天然会成为拓展中国在中亚文化、经济影响的排头兵。哪怕是对维吾尔人平等一些，情况都有不同。”伊力哈木多次表示要把这种国家发展战略的建议系统写下来。</p>
+<p>但现实的情况是，自1990年代末以来，维人对政府民族政策的不满、维汉紧张关系一直持续恶化。更加糟糕的是，中国政府抓住了国际反恐怖主义这一国际政治现象，以此为借口，通过误导和歪曲信息，对维吾尔人进行更加野蛮粗暴的经济、文化与宗教压迫。维吾尔人生活在前所未有的恐惧下：他们动辄遭到任意拘捕；他们会因日常细枝末节的冲突而被判以重刑；对维吾尔人的歧视白字黑字写在中国各地政府文件里和通知中，等等。任何涉及维吾尔人的暴力事件马上被宣传为恐怖袭击，而汉人当中发生的类似事件则被当作普通犯罪事件对待。</p>
+<p>在这样的背景下，伊力哈木∙土赫提感到自己作为一名公共知识分子，肩负着为自己的民族发声、担当维汉交流桥梁的责任。</p>
+<p>让我们停下来细想一下：第一，伊力哈木是一名维吾尔族精英知识分子，是新疆问题专家；第二，伊力哈木说流利的汉语，在中国的政治和文化中心北京生活和教书；第三，他对汉族人的观点以及中国政府对待维族人的政策的知晓程度，犹如对自己的手背那样；第四，作为一名知识分子，不管他的民族是什么，他属于中国自由知识分子阵营的一部分，坚信自由、民主和法制理念，是中国过去十几年公民社会发展的积极参与者。在中国，有多少维吾尔人具备上述特征呢？没有几个，屈指可数。他强烈感到对自己的人民、甚至对中国的未来有一种不可推卸的责任，他必须承担起维汉和平与理解的使者。</p>
+<p>他在2011年的自传文《我的理想和事业选择之路》中写道，“我知道，我们民族像我有良好教育、开阔视野和丰富阅历的人不多，我们国家像我这样在新疆问题和中亚问题上有各种天然优势的人不多，在这个领域，有真知灼见，有责任感的诚实正直的学者极为罕见，而中国社会将来要面临的考验却是如此险峻，因此，顶着压力继续从事我认为最有价值的事业，是我义不容辞的责任。” 他完全明白，当他回应责任的召唤时，他在将自己、将家人乃至更远的亲戚置于危险当中。他“不仅需要的是知识和专业，而首先是一种勇气。”</p>
+<p>2005年底他创建了“维吾尔在线”网站。这是一个汉语网站，专门发布和转贴与新疆、维吾尔人以及其它民族有关的消息和评论。通过这个网站，他希望汉人了解新疆发生的事情，维族人的感受。通过网站内的论坛讨论，他希望维人和汉人可以有一个进行交流的平台。伊力哈木相信沟通的力量。<a href="http://cn.rfi.fr/%E9%A6%96%E9%A1%B5/20140120-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%EF%BC%9A%E6%88%91%E7%9A%84%E7%90%86%E6%83%B3%E5%92%8C%E4%BA%8B%E4%B8%9A%E9%80%89%E6%8B%A9%E4%B9%8B%E8%B7%AF">他说</a>，“争议分歧不可怕，可怕的是沉默中的猜疑和仇恨。”</p>
+<p>这样一个网站显然不受中国政府欢迎。在存在的几年里，它频繁受到黑客攻击，或者被政府下令关闭。它的服务器搬到国外后，经常遭到DDoS攻击（阻断服务攻击），在伊力哈木被捕前后，维吾尔在线永久关闭。</p>
+<p>多年来，伊力哈木多次强调他只是一名学者，不是一个政治人物；作为一个学者，而不是一个政治符号，他能够更好地服务于他的民族。但是今天，他是中国的头号政治犯。我这样说，是因为他是中国改革开放以来唯一一位仅仅因自由表达而被判处无期徒刑的人。诺贝尔和平奖获得者刘晓波因为《零八宪章》而被判处11年徒刑。《零八宪章》提出了一个政治改革和宪政转型的蓝图，而伊力哈木不过是对新疆的民族问题进行了分析，提出了建议。伊力哈木的建议不仅合情合理，而且非常节制和现实。他受到如此过分的惩罚，仅仅因为他是维吾尔人。</p>
+<p>今年是文革五十周年，世界媒体以及中国观察人士最近进行了大量相关报道。伊力哈木的父亲死于文革期间，年仅28岁，伊力哈木只有两岁，他的弟弟才11个月大。五十年后的今天，伊力哈木因为自由思想和表达被判处终身监禁。</p>
+<p>中国政治过去五十年来发生了多大进步，民族紧张关系恶化到了什么地步，不要多说，伊力哈木就是一面写照。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9B%B9%E9%9B%85%E5%AD%A6%EF%BC%9A%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E2%88%99%E5%9C%9F%E8%B5%AB%E6%8F%90%E6%95%99%E6%8E%88%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%BE%97%E8%90%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E7%BB%B4%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">汉维矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 8小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%85%A8%E5%9B%BD%E6%9C%80%E4%B8%A5%EF%BC%9F%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E5%8A%9E%E6%8A%A4%E7%85%A7%E8%A6%81%E9%87%87%E9%9B%86dna/" target="cdt-mirror">美国之音｜全国最严？新疆伊犁办护照要采集DNA</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/F39CA7EF-7B76-4937-AB60-A6D8538482CD_w640_r1_s.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/F39CA7EF-7B76-4937-AB60-A6D8538482CD_w640_r1_s.jpg?resize=575%2C323" alt="2014年5月1日，一位维吾尔妇女坐在乌鲁木齐街头，身后是铁笼保护下的中国武警。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/F39CA7EF-7B76-4937-AB60-A6D8538482CD_w640_r1_s.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/F39CA7EF-7B76-4937-AB60-A6D8538482CD_w640_r1_s.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2014年5月1日，一位维吾尔妇女坐在乌鲁木齐街头，身后是铁笼保护下的中国武警。</span></p></div>
+<p><em>作者：乔栈</em></p>
+<p>在穆斯林斋月开始之前，新疆伊犁颁布新规，要求出国、出境旅行文件的申请人除了进行常规的指纹采集外，还需进行DNA等多项身份识别信息的采集。此外，有媒体报道，新疆还有地方政府要求部分民众在斋月期间不得封斋，也不能参加宗教活动，餐馆商店不得关闭。这与中国国新办上周发布的新疆宗教自由白皮书中所说的大相径庭。</p>
+<p><strong>新疆伊犁：办护照要采集DNA</strong></p>
+<p>据中共新疆伊犁哈萨克自治州党委机关报《伊犁日报》报道，自治州公安局自六月一日起要求所有申请办理护照、港澳通行证、台湾通行证以及港澳台二次签注业务的申请人除提交与出国、出境相符的证明材料外，还需前往本人户籍所在地派出所采集DNA、指纹、声纹以及三维成像信息。然而中国公安部出入境管理局提供的《中国公民出入境证件申请表》中只有指纹采集一项要求，伊犁州公安局的要求似乎远高于全国标准。报道还称对未采集信息或信息采集不全的申请将不予受理。</p>
+<p>这项规定生效恰逢穆斯林斋月开始之际。这份报道还称，因两次简化申请条件，出入境证件申请人数出现“井喷式增长”，2015年自治州政府共办理十万余本出入境证件，预计2016年将突破二十万本。然而，据英国广播公司报道，很多在新疆的穆斯林都表示他们受到歧视，中国当局经常拒绝向他们发放旅行文件。</p>
+<p>据伊犁哈萨克自治州政府网站提供的数据显示，伊犁总人口300.91万，少数民族人口占百分之六十三点四，其中维吾尔族人口占百分之二十五点六。</p>
+<p><strong>部分民众不准封斋，商店餐馆不能关闭，白皮书刚发布就食言？</strong></p>
+<p>据华尔街日报报道，新疆一地方政府网站上周刊登文章限制部分民众参加斋月活动。文章称：“共产党员、干部、公务员、大学生以及儿童不能在斋月期间封斋，也不应该参加宗教活动。”这家政府网站还补充说，商店、餐馆、饮料店在斋月期间“都不应该关闭”。</p>
+<p>然而，就在同一周，中国国务院新闻办公室发表了《新疆的宗教信仰自由状况》的白皮书，其中明确写道：“公民在宗教活动场所内以及按照宗教习惯在自己家里进行的一切正常的宗教活动，如礼拜、封斋、拜佛、祈祷等，都由宗教团体和公民自理，受法律保护，任何组织和个人不得加以干涉”，以及“充分尊重信教公民的宗教感情、信仰需求。斋月期间，清真餐馆歇业或开业完全由业主自行决定，不受干涉”。</p>
+<p>白皮书中还称新疆的宗教信仰自由状况是以往任何时期都“无法比拟的”。</p>
+<p>世界维吾尔大会（“世维会”）发言人迪里夏提表示，在斋月期间，中国政府对新疆进行严密防范和监控。他透露，新疆当地民兵已接到“战备”通知，县、乡、村各级民兵24小时值班。乌鲁木齐所有的清真寺接到明确通知，要求对所有进清真寺做礼拜的维吾尔人进行身份登记、核实，还要求清真寺每两小时以书面报告的形式向当地警方汇报寺内维吾尔人的言行举止。</p>
+<p>对于斋月期间商家是否被强制营业的问题，迪里夏提说：“谎言的确掩盖不了事实。中国官方的报道说是餐饮业关门和开业是尊重个人的意愿，但是我们就有文件、官方的这些报道，就日前还在当地胁迫维吾尔的餐饮业签署斋月期间保证营业的保证书。而且还保证，不从事中国认为的非法宗教（活动）”。</p>
+<p>中国当局近年来将在中国发生的一系列暴力袭击事件归咎于维吾尔激进分子，称他们受到境外恐怖组织的煽动和援助。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%85%A8%E5%9B%BD%E6%9C%80%E4%B8%A5%EF%BC%9F%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E5%8A%9E%E6%8A%A4%E7%85%A7%E8%A6%81%E9%87%87%E9%9B%86dna/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E6%94%BF%E7%AD%96%E4%BA%9A%E5%85%8B%E8%A5%BF/?category=18271" rel="tag">党的政策亚克西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9D%A8%E5%AE%89%E8%BF%9B%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%B0%B1%E5%8D%97%E5%AE%81%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%92%95%E8%A3%A4%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A1%82%E5%85%AC%E6%A2%93/" target="cdt-mirror">杨安进律师：就南宁律师被撕裤事件与“桂公梓”法官商榷</a>
 </h2>
 <p><p><strong><strong>中国数字时代编辑注：</strong>本文作者杨安进，北京市维诗律师事务所知识产权律师、专利代理人。文章来源为杨安进知识产权法律微信公号。后附赵俊法官（@桂公梓）的文章《如果司法的脊梁塌了……》，赵俊是江苏省高级人民法院助理审判员。</strong></p>
@@ -495,268 +643,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E5%85%9A%E5%86%85%E8%B4%A2%E4%BA%A7%E7%94%B3%E6%8A%A5%E5%88%B6%E5%BA%A6/" target="cdt-mirror">【网络民议】中国特色党内财产申报制度</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%83%A1%E9%94%A1%E8%BF%9B.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%83%A1%E9%94%A1%E8%BF%9B.jpg?resize=550%2C190" alt="胡锡进" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/胡锡进.jpg?w=2416 2416w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/胡锡进.jpg?resize=300%2C104 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/胡锡进.jpg?resize=768%2C265 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/胡锡进.jpg?resize=1024%2C353 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="http://weibo.com/1989660417/DyXHdiame" target="_blank">@胡锡进</a>：跟大家实事求是汇报，<strong>党内财产申报</strong>已经非常严格扎实，虚报瞒报财产面临巨大风险。前段时间有位同事报了房产，但因不了解细则而没有报车库，引起很大麻烦。主要是有了抽查，我身边几年下来多人被查到，很有震慑力。<strong>财产申报是全球财产公开的主流方式</strong>，希望它能为实现遏制腐败这个目标发挥决定性作用。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：<br></strong><br>
-@青青子佩jx：注意：并不是财产党内公开，从来就没有“公开”二字；而是党内财产申报，自己填表；这在90年代就做过，我曾经每个月填表报单位人事部门，仅此而已。现在不同的是上面有人会抽查填表的真实性，就多了这个。<strong>你填的表只有少数人知道，查不查你也是少数人决定。</strong></p>
-<p><strong>@兰小欢：全世界170个国家的比较研究显示，这种财产申报本身和反腐效果无关。和反腐效果有关的 财产申报是指: 1. 申报财产来源，而不止是数额；2. 申报结果对公众公开，而不仅是对上级公开。</strong></p>
-<p>@吴铭：“财产申报是全球财产公开的主流方式”——似是而非的论断！我所了解的“主流”方式是：第一，财产申报与财产公示相结合；第二，公示范围不是执政党内部，而是面向全社会；第三，接受舆论监督。</p>
-<p>@石言内：社会诉求从来是公示，你来说内部申报，驴头对得上马唇吗？</p>
-<p><strong>@信卅轶史：你不要混淆和偷换概念！“全球财产公开“和你这个“内部申报”是一回事吗？！叼盘狗！</strong></p>
-<p><strong>@廖睿:周永康、令计划、郭伯雄、徐才厚等“同志”，经历过无数次党内财产申报，胡总编发现过他们虚报的线索吗？有贪官会申报自己“贪污受贿”吗？</strong></p>
-<p><a href="http://weibo.com/sinli" target="_blank">@莫正弦</a>：如果是只向党内汇报不公开的话无非是多拿你们一个把柄，以后更听话而已，不公平公正公开能有多大作用<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@信卅轶史：你这个党内申报连党内公开都算不上，一般党员根本无权了解</p>
-<p>@华数-我只爱蓝色：小进进，我想知道财产申报和财产公示的重要区别！为啥人家的是公示，咱家就是申报呢？</p>
-<p><a href="http://weibo.com/5880994223" target="_blank">@文苑苑長</a>：胡言乱语 胡编乱造 胡扯八道<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1410811095" target="_blank">@学而即习之</a>：不公开，财产申报就不是动真格，也不是实质上的遏制腐败！ 公开，是效果最好、成本最低的遏制腐败！ 为什么不公开呢？<img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5263198509" target="_blank">@物理教师001</a><i></i>：既然已经“非常扎实”，为什么不能公开呢？何况都是合法所得，这又不是什么见不得人的事？<img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"></p>
-<p>@孤独的自隐者：你们自己互相炫富关我们什么事</p>
-<p>@钢牙讼师:领国家的薪酬,公民纳税的工资,却只给党内公开,难道你们是黑涩会么?</p>
-<p>@杨哥威武耶：你们自己玩高兴就好了。和百姓无关！</p>
-<p>@依然如昨V10：贪腐满地，还在吹嘘自己的制度！长脸了没？</p>
-<p>@闲人阿明：没有多党制衡、自由媒体，反腐就只能是扬汤止沸。</p>
-<p>@老滚的笼中鼠：你们又不公开财产申报情况，光自己跟自己玩，还非得要旁人鼓掌，你说流氓不流氓？</p>
-<p>@根红苗歪：“跟大家实事求是汇报”是不是以前没加这句话的，都不是实事求是呢？</p>
-<p>@一头小活猪：对上级对组织汇报是交投名状，听话就闷声发财，站错队分分钟被清算，内部洗牌而已，跟财产公示有个鸡毛关系。</p>
-<p>@英拉—西那瓦：党内申报是防止分赃不均，而财产公开则是防止强盗抢劫，你猜猜老百姓会选择那种方式?既然老百姓是国家的主人，为什么不遵从老百姓的心愿公开财产?你们到底想干什么？</p>
-<p>@闲云逸鹤逍遥游：现在的财产申报就是上级控制下级的政治手段。试问，最高层向谁申报？</p>
-<p>@这名还能起不了：我问你，你说如果市委书记，省委书记，甚至七大常委瞒报了怎么办？如何制衡？请胡编指教</p>
-<p>@奔跑的蜗牛1353433807：真他妈胡扯，说来说去你是你们的话！</p>
-<p>@海带炖老母鸡：转移到巴拿马的钱和买在加拿大的房产需要申报吗？</p>
-<p>@心怀荣誉：自查自纠就是扯王八蛋</p>
-<p><a href="http://weibo.com/freedom766" target="_blank">@Freedoman23</a>：马财产、海外房产、家族财产都不需要申报，另外申报只针对级别比较低的官员且不需要向社会公示，我d高级官员内部开会相互通报下就行了！<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p>@鞠全云118：都啥年代了？还搞老子管儿子，上级监督下级的封建把戏！任何不让、不敢公众监督的所谓反腐败，都是瞎扯几把蛋！</p>
-<p>@风之帆_37144：既然是人民拥护的党为何不敢让人民知道呢</p>
-<p> </p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2%E5%85%9A%E5%86%85%E8%B4%A2%E4%BA%A7%E7%94%B3%E6%8A%A5%E5%88%B6%E5%BA%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E8%B4%A2%E4%BA%A7%E5%85%AC%E7%A4%BA/?category=18271" rel="tag">官员财产公示</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%96%97%E4%BA%89/?category=18271" rel="tag">政治斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%AB%98%E7%BA%A7%E9%BB%91%E9%98%B2%E6%B2%BB%E6%9C%AF/" target="cdt-mirror">张鸣：“高级黑”防治术</a>
-</h2>
-<p><p><strong>作者微信公号：张鸣（ID: zhangming19830505）</strong></p>
-<p>眼下，媒体（包括自媒体）上出现了一种现象，人称“高级黑”。所谓高级黑，就是看似在帮你，实际上是在黑你，或者起到了黑你的作用。当然，被黑的，往往是有权者，有个人，也有机构。无拳无勇的老百姓，就是你很有名，也没有多少人有这个心情这样绕着弯儿去黑你。</p>
-<p>检索网上网下的情形，高级黑大体上可以分为这样几种类型。第一，热情过度型。有些地方和部门，为了引导网络舆论，组织了网评员和志愿者。用人不当，又没有力量进行培训，结果这些人一上岗，就拼命地骂街，骂得非常难听。某些被抨击对象，哪怕刷一帖“今天天气不错”。他们也会跟上去咒人家全家死光光。还有的人，护主心切，在网上与人辩论，居然说出“中国就是专制，专制就是比民主好”的话来。这样的做法，看似打击了对手，显然最终黑的是组织他们的人。类似的现象，在平面媒体上也出现过，比如在一度的宪政讨论中，把1940年代中共领导的宪政运动，说成是策略，骗敌人的。在批判某个身份是党员的大V，说人家人性猖獗，党性泯灭。这个类型的高级黑，显然没有黑的主观故意，但由于知识贫乏，水平有限，每每一说就错，实际上起到了黑自己领导的作用。</p>
-<p>第二，爱心过剩型。这个类型的高级黑，之所以出现，每每是因为操办者有着一腔对党和领袖的热爱。但表达却不分场合，不知分寸。网上网下，那些过分称颂个人的诗歌，歌曲，以及其他形式表达忠心，表达爱戴的形式，在某些特定的场合下，实际上就是起到了高级黑的作用。经过文革之后，个人崇拜是为党章严格禁止的，也为经过文革的人们所厌恶。这些爱心过剩之人，可能是真的想表达自己的心情，吐露自家的心声，但弄得不好，就会弄巧成拙，把自己热爱的对象黑着了。</p>
-<p>第三，过度服从型。这种类型，一般都是有关部门中人。我们很多官员，满足于做算盘珠，上级拨一拨，他们动一动，但是，一动就每每动大了。上级说要做一，他们一定会做到十。有的更加可怕，不满足于做算盘珠，而是主动出击，揣摩上意，捕风捉影，一旦他们觉得上级有这样的意图，就提前操办，把事情办到极致。我们知道，古语道，过犹不及。事情走到极致，就到了反面，一定会坏事。这样的下级，事实上起到了高级黑的作用，而且黑得相当彻底。有时，接近于给领导挖坑，领导被坑了，还哭笑不得。</p>
-<p>第四，过分恭维型。这种类型，一般都在领导人身边。是人都会犯错误，都会有疏漏。有了错误，有了疏漏，身边的人，理应提醒一下，就可以及时弥补。然而，现在流行的是，无论领导人做了什么，身边人都轰然叫好，放屁都是香的。当年毛泽东写诗，一个疏忽，把“一枕黄粱再现”的“粱”字，写成了房梁的梁。但是，郭沫若却说，伟大领袖顺手把粱字给简化了。有所著名大学的校长，写文章（也许是有人代笔）把“赓续”写成了脊续，明明白白的错字，但是，下面的人却一定写文章来论证，脊续是正确的，而赓续是错的。还有一个领导人，把井冈山的冈，写成山岗的岗，居然也没有人给他指出来，就那么明晃晃地放在那里。这样的做法，看似对领导恭顺，顺着领导来，说领导好听的。实际上起到的作用，就是古人讲的“彰君之丑”，把领导那点小疏漏，暴露在众人面前，当众出领导的丑，把领导的小纰漏，放大了不知多少倍。当然，这也是高级黑，而且黑得档次相当的高。</p>
-<p>第五，别有用心型。这个类型，跟爱心过剩之辈，有点分不大开。但是，干这种颂圣卖卖的人里，估计多少都会混杂有别有用心之辈。故意反话正说，颂扬某个人，用过分夸张，夸张到恶心的词句，写十分恶心的诗句。或者，明明知道领导的某些做法已经引起了不好的后果，但却一定要夸，夸到人恶心，要吐。</p>
-<p>在这五种类型中，最后一种当然有点可恶，有可能属于有敌意之人，或者真的就是反动势力。其实，这种人并不可怕，故意黑人者，早晚会露马脚。可怕的，是其他几种高级黑。而其他的四种的存在，其实都跟领导的偏好有关。其中第四种，更是直接与官场风气息息相关，属于一种比较高档次的高级黑。在官场工作作风不佳的时候，每每会将领导黑死。</p>
-<p>其实，除了第一种类型的高级黑，跟这个时代有点关系，是网络时代特有的产物，其他几种，都是我们这个古老的国度，古已有之的老毛病。根治这些毛病，当然很难，但是，只要领导不喜欢这口，警惕恭维，严惩拍马屁的，奖励直言，这些高级黑就会少得多。</p>
-<p>毕竟，到目前为止，中国还是一个官权大于天的国家。只要贴近官权，就可以获得无穷无尽的好处。但是，掌握官权的人，说白了，都是普通人，也都有普通所能有的弱点。所谓高级黑者，无非是迎合，无非是钻营，无非是谄媚和马屁。自古以来，但凡大权在握之辈，即使头脑相当的清醒，知道谄媚者无非佞臣，知道忠言逆耳。但是，人的弱点，就是喜欢人家顺从，人家说好听的。只要这样的弱点被人抓住，米汤一灌，当权者就有可能被黑。古往今来，这样的奸佞害主的故事，不知有多少。史家把这些故事一个个写下来，告诉统治者，想让他们引以为戒，但是，这样的史册通鉴一部又一部，能接受历史教训的人，却非常罕见。于是，只好像杜牧在《阿旁宫赋》里说的那样，遂使后人复哀后人，周而复始，没完没了。历史的作用，是为了让人以史为鉴，但是，能有几个人真正以史为鉴，吸取教训呢？</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-2.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-2.jpg?resize=550%2C408" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-2.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-2.jpg?resize=300%2C223 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>至于防止之策，古人说，要远小人，近君子，纳忠言。可惜，没有多少人会听。在今天，再一次重复古人的箴言，已经没有意思了。唯一的办法，是设法在制度上，堵死高级黑的漏洞。应该从制度上规定，领导在做决定的时候，一定要走严格的程序，重大决策，要经过法定的专家论证，坚持集体领导的原则，保证集体决策，防止个人专断。对于领导的决策，要有问责，造成重大失误的，决策者要被追究责任。同时，要完善法治，使得公民个人，可以通过法律手段，追究领导的责任。也就是说，可以让民没有障碍地告官。换言之，是通过制度的设置，让有权的人，可能因为自己的言行而失去权力。一旦真的有这样的制度了，那么，有权人再办事的时候，无论周围人怎样忽悠，事关自己的乌纱帽，都会三思而行的。</p>
-<p>这种防御之策，说到底，无非就是防止个人专断。历史上，凡是高级黑盛行之时，每每是个人专权最盛之际。只要个人专断的路被堵住了，那么，以顺从，谄媚为代表的高级黑，也就无从施展其技了。人好听好话，喜欢人顺从的弱点，是会被专断的权力放大的。只要一个人的权力，在一个区间内近乎是无限的，敢于说不同意见的人就会很少。如果你的权力接近于皇帝，那么，逆龙鳞就等于找死，有几个人敢拿自己的性命开玩笑呢？这些年来，中国很多地方都出现了很多说一不二的一把手，自然，每个这样的一把手的屁股后面，都跟着一群行高级黑的马屁精。到了后来，这些一把手的落马，又每每因为这些马屁精。官员前赴后继，前面的被黑了，后来的接着被黑。黑人的，也前赴后继，黑了一个又一个。</p>
-<p>尽管我们说，这个社会价值混乱，缺乏信仰。但是，对于普通人来说，是非曲直，还是知道的。因为这些是非曲直，关系到他们的生活。他们攀不上权力，有时也会羡慕攀龙附凤者，但这一切，都挡不住他们对滥权者和迎合滥权者的愤恨。从这个意义上说，被高级黑黑到的人，早晚会出事。而那些黑了他们的人，倒可能逃过去。</p>
-<p>记得有位古人说过，为官之道，就是如临深渊，如履薄冰。对高级黑，要警惕，但警惕之心的有无，在于做官有多大的风险。在权力周围，包围者在虎视眈眈，黑人者也在虎视眈眈。自己如果不能时刻警惕者，那么，就让制度替你把关吧！关键是，这些个制度，一定要严格执行，否则，最后还是会为人所乘。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%AB%98%E7%BA%A7%E9%BB%91%E9%98%B2%E6%B2%BB%E6%9C%AF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%BC%E9%A3%9E%E7%9B%98/?category=18271" rel="tag">叼飞盘</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B8%A6%E9%B1%BC/?category=18271" rel="tag">周带鱼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%8A%84%E5%85%9A%E7%AB%A0/?category=18271" rel="tag">手抄党章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E8%AF%84%E5%91%98/?category=18271" rel="tag">网评员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E5%BC%95%E5%AF%BC/?category=18271" rel="tag">舆论引导</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%94%E8%8F%8A%E5%85%9A/?category=18271" rel="tag">舔菊党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%BA%A7%E9%BB%91/?category=18271" rel="tag">高级黑</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-6-5/" target="cdt-mirror">奇闻录 | 周末段子荟萃 6-5</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CkHEhoAVEAEGsKN.jpg?resize=600%2C569" alt="CkHEhoAVEAEGsKN" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CkHEhoAVEAEGsKN.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CkHEhoAVEAEGsKN.jpg?resize=300%2C285 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>@charliechou：王部长怒斥加国记者 评分：泱泱大国 +10 发怒 +5 未引用成语 -3 未引用至少一句外语 -5 未转换自己身份为长者 -15 未主动提升记者的姿势水平 -5 YouTube点击量未能超越经典 -3 没有值得深思的语录 -6 没有一句话成为梗 -3</p>
-<p>@冯师长：看了外交部长王毅回答记者问题的视频中说了这么一句话：最了解中国人权状况只有中国人自己。我当时就笑了，身为中国人，未出世的孩子怕被打掉，家里的房子怕被强堕掉，住酒店还怕被嫖娼抓掉，就连在网上说两句还会被删掉。试问一下，老子连话语权都没有了，还拿什么人权可言，不信等会帖子没了就知道了。</p>
-<p>@LifeTime：有关人权问题，中国官方之前一贯是两个观点：1）中国人权在逐步改善。2）中国愿意就人权问题保持与国际社会对话。王毅外长这次发飙，出离了既有观点。“中国经济发展那么快，说明人权保护的很好”，这种观点是官方第一次提出。</p>
-<p>@西门不暗：南京偷鸡腿妈妈，今天被爆之前还偷过白糖。于是，剧情反转，许多人纠结于道德和法律之间。但其实，这事核心不是要反思社会救助体系的匮乏？一个单身母亲带着两个病孩，身无分文，而我们的政府机构、社会救助体系几近消失，事情爆发后靠派出所民警来呼吁捐款。与其谴责偷东西，不如说这是时代的耻辱。</p>
-<p>@MyDF：你国有三部大法，《活法》、《死法》和有关部门他妈逼的《逼法》。</p>
-<p>@txyyss：当然，从日前外交部长王毅的发飙看，长者当时顺带的评论现在还是对的：“我们的对外宣传部门挤满了没有脑子的翻译机器，但我毫无办法。”</p>
-<p>@hnjhj：蔡英文的政绩真是立竿见影，一上台大陆交流生赴台就立刻停止了，真羡慕台湾同胞。另外，如何能让交流生停止赴世界其它地方，还请蔡总统传授宝贵经验。</p>
-<p>@laoyang945： 习大大的文学造指简直罄竹难书。</p>
-<p>@szshu：”市场冷淡时，政府会让国企出面拍地托市，拍出高溢价，其实还是左手倒右手，做表面文章，政府真正拿到手的土地收入不多，赚的只是财政银行卡上的流水而已。”上述深圳房企投资发展部人士透露，有时地方政府也会通过拍高价地，事后返还开发商的模式，来拉高区域地价。</p>
-<p>@joyluby：什么”祖国养育了你”，我一看到说这话的这帮骚货就头疼。我父母劳动，我自己劳动，靠自己劳动养活自己，咋变成了祖国养活的？我不劳动，你那鸟祖国会养活我吗？中国只有一种人是靠”祖国”养活的，就是你们这些官僚寄生虫们。你们啥价值也不创造，别人养着你们，你们还养出道理来了，滚犊子吧</p>
-<p>@idzhang3：刚看到有人指出当年在北京目睹示威游行和平理性秩序井然，脑海里忽然闪回27年前宿舍桌上的收音机，和里面传出的女播音员的现场报道。不但一代人过去，而且心态迥异。当年青年人的最爱是朦胧诗，现在青年人的最爱是金钱暴力生殖器。</p>
-<p>@yun_chuang：扫了一眼2016年国家社科基金年度项目立项名单，“基于互联网的青年爱国主义教育模式及实现机制研究”，“中国特色社会主义道路自信的内在逻辑研究”，“国外互联网治理的理念、模式及借鉴研究”。</p>
-<p>@andyyeung12：当今社会90%的人对现状不满，但只有1%的人发声抱怨，而真正站出来呼吁公平的仅有1%人群中的1%，这才是社会退步的根源，提到这些有人会说：你行你上啊。事实上，社会责任是全民责任，没任何人有能力独自承担，也没任何人有理由选择沉默，更没有人有资格坐享其成，社会败落后没有人能独善其身。</p>
-<p>@justIDLE：时不时在朋友圈放一些对于强国人的不满的信息，其实目的是主动求拉黑。劳资太忙心情太暴躁了，不想在任何一个三观不一致的人身上浪费一分钟时间和一丝好情绪…</p>
-<p>@Kornephoros：笔者老爹与外界的交流欲望就是语言壁垒也无法阻挡，曾在莱茵河畔通过身体语言与一群德国壮汉交流，获得比萨饼两片，啤酒一瓶。自从用上智能手机之后，凭借熟练的百度图片搜索技能，继续与外国友人谈笑风生。啊，一个大写的内蒙古中老年汉子。</p>
-<p>@gehouhun：想起前两天和一师弟聊天得知，他导师曾经做过一个军工项目：使用虹膜控制的自动化仓库门。然后，虽然项目失败了但是验收依然合格了。怎么验收的呢？当然是兜里藏一个遥控器啦。</p>
-<p>@iSephiria：卧槽，穿背心拖鞋不能登记结婚。。。都能为了买房避税离婚了，背心拖鞋算什么啊。</p>
-<p>@QiubaiBot：男生做饭会加分，其实是个伪命题，关键还是看脸，宋仲基就算连米都不会淘你也恨不得加分加到顶，而武大郎还会做烧饼呢？你加吗？</p>
-<p>@Fenng：迟到了，虽然老板没说什么，但是俺心底还是不安地，于是默默的用小刀在电脑屏幕上刻了一个「早」字……</p>
-<p>@xiao99xiao：在日租房：“这个房子自带的网络比较慢，只有140M”，诶——？，“不过你可以申请光纤，带宽几个G吧”，诶——？？？？这辈子只见过光纤100M的人都要快哭了。</p>
-<p>@effy_fi：哈哈哈欺负老外明星不懂中文，一位迷妹拿着写着结婚证的本子跟明星合照，新技能get。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-6-5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%AE%8F%E6%9D%B0-%E8%99%9A%E5%81%87%E7%9A%84%E4%B9%BE%E9%9A%86%E7%9B%9B%E4%B8%96/" target="cdt-mirror">张宏杰 | 虚假的乾隆盛世</a>
-</h2>
-<p><p>文/张宏杰 历史学者 著有《饥饿的盛世：乾隆时代的得与失》《中国国民性演变历程》等<br>
-本文为作者在高和分享读书会的演讲</p>
-<p>乾隆皇帝大家应该比较熟，在中国古代皇帝中他的知名度是比较高的，起码在电视上大家经常看到他。但是我认为，影视和文学作品提供的乾隆形象，包括二月河写的乾隆皇帝的形象跟历史上真正的乾隆差距还挺大。</p>
-<p>真实的乾隆皇帝是一个什么样的人呢?</p>
-<p>我认为，首先他是一个非常复杂的人。乾隆是一个有着多重身份的人。第一个身份当然是一个政治家，除此之外他还是一个军事家，提到乾隆，有一个词叫“十全武功”，就是说他指挥过十多场大的战争。</p>
-<p>他还是一个收藏家，乾隆时代的收藏不管是数量还是质量，也算是历史之最了。他还是一个诗人，当然乾隆的诗不是以质量闻名，而是以数量闻名，乾隆一生写了三万多首诗。全唐诗汇集了唐朝两千多个诗人的作品，一共也就三万首。乾隆一个人一生的创造量相当于全唐朝两千诗人的总量。当然，数量多了，质量也就比较平平。</p>
-<p>除此之外，乾隆还是一个语言学家，他的语言天赋非常突出，他懂得起码五种语言，满语、汉语、蒙语、维吾尔语和藏语，起码满、汉、蒙这三种语言能够进行思维，也就是非常之熟练。</p>
-<p>乾隆后来写过一本准噶尔蒙古的源流，就是直接用蒙语写的，可见他蒙语运用已经到了完全无障碍的程度。除此之外，他也能用维吾尔语和藏语进行日常对话。所以后来乾隆时期，班禅喇嘛从西藏来拜会乾隆，一见面乾隆就用藏语跟他交流，让班禅喇嘛吃了一惊。</p>
-<p>当然，在乾隆这么众多的身份中，他一个最核心的身份还是政治家，他今天还不停被我们提起，是因为他的统治成绩。按照历史学家的说法，乾隆这个时代是整个中国古代史上最兴盛发达的一个时代。如果我们横向看，在当时的全世界，大清帝国也是挺厉害的。</p>
-<p>比如第一是关于乾隆朝的经济总量，即GDP，当然关于乾隆朝的GDP怎么算的，史学界还有一些争论，但大致认同是那个时期的GDP占世界的三分之一，这个比例是相当高的。</p>
-<p>今天我们说中国大国崛起，已经排到世界第二，但我们占世界份额不过是百分之十二点多。而在乾隆时期，GDP占世界比例达百分之三十多，比美国占世界经济分量还要重。所以这应该是挺了不起的一个数字。</p>
-<p>第二个数字就是乾隆年间的军事实力是非常强的。今天新疆是一个省份，新疆是什么时候成为中国一个省份的呢?就是乾隆二十四年，乾隆彻底平定了准噶尔，把准噶尔四部当中的三部都彻底灭绝了，平定了新疆。</p>
-<p>通过平定新疆，整个中国版图达到1454万平方公里，相当于今天960万平方公里的1.5倍。所以乾隆年间的军事实力也是比较厉害的，周围小国都纷纷进贡来朝。</p>
-<p>第三个数字就是人口。中国历史上大部分时候，人口都在几千万之间徘徊，很少有超过一个亿的时候，但是乾隆时期人口达到三个亿。因为乾隆的祖父和父亲都很厉害，所以打下的基础比较好。</p>
-<p>乾隆刚登基的时候，乾隆六年做了一次人口普查，人口是一亿四，到他退位的时候又做了一次人口普查，人口达到三个亿。就是他在位的54年，人口翻了一番，这是中国历史上从来没有出现过。</p>
-<p>所以从这三点看，乾隆是一个非常有作为的皇帝。所以今天大家还不停提起他，称颂他的英明伟大，也是因为这几个原因。</p>
-<p>那么，乾隆是怎样取得这样辉煌的成绩呢?他主要是靠挖掘中国传统政治的权术、权谋，以及传统政治得失经验的潜力，乾隆的政治经验基本完全局限在中国经验之内。在中国历史上，对皇权、对国家政权构成威胁的，一般来讲，有以下这几种势力：</p>
-<p>第一类是后妃和外戚干政，就是皇帝的妈妈、皇帝的老婆、皇帝的小舅子、小姨子这帮人很容易干政。</p>
-<p>第二类是皇族干政，皇帝的叔叔、大爷、哥哥、弟弟这些人也容易干涉权力。</p>
-<p>第三类是太监干政。汉朝、明朝、唐朝，太监干政都很严重，比如明朝魏忠贤，汉朝的“十常侍”。</p>
-<p>第四类是权臣干政。皇帝如果比较懦弱或者比较懒惰的时候，大权很容易被大臣拿去，所以历史上出现了好多权臣，像张居正，鳌拜这些人。</p>
-<p>最后还有农村起义的威胁。有地方割据势力的威胁，有帝国外患的威胁。</p>
-<p>所以想做好皇帝很不容易。在中国历史上，没有一个朝代把这些威胁统统控制住、消灭掉。不管哪个皇帝当政，都会有一两种势力兴风作浪。</p>
-<p>比如乾隆的父亲雍正，那是一个非常厉害的皇帝，但是雍正当政的时候，也出现过年羹尧、隆科多这样的权臣。康熙晚年的时候，他的儿子们分门别党，结交朝中大臣形成朋党争夺皇位。</p>
-<p>中国历史上唯一一个把诸种势力几乎全部压服，对皇权不构成丝毫挑战的就是乾隆朝。那么乾隆是怎么做到这一点的呢?我举几个例子说明一下。</p>
-<p>我们先来看一下他是如何防范后妃干政的。乾隆是一个孝子，历史上记载，乾隆当了皇帝以后也经常去给太后请安，尽量陪太后吃饭，皇太后每年过生日乾隆都会拨很多钱给太后办非常隆重的庆典。而且每年过生日的时候，乾隆都会亲自给太后画上四幅画，这是一个定例，意思是花多少钱是身外之物，他自己亲笔画的画更能代表心意。</p>
-<p>乾隆他母亲特别好动，喜欢旅游，所以乾隆下江南、去泰山、五台山等地都带着他母亲。他母亲身体非常好，享年八十六岁。在八十五岁的时候还跟着乾隆登上泰山山顶。</p>
-<p>乾隆对他母亲的孝顺应该做得非常到位，所以大臣说乾隆是纯孝。但乾隆在处理跟他母亲关系的时候，有一点，即绝对不允许他母亲越过政治界限，干预任何政事。</p>
-<p>所以乾隆登基后第三天就给他母亲身边的太监和宫女发了一道谕旨，说宫中之事任由太后作主，宫外之事恐太后闻之心烦，不许向之传说。这实际上就是对他母亲进行了信息封锁，也就是为了防止其干政。</p>
-<p>所以这道谕旨头几年执行不错，但后来发生了一次小小的不愉快。有一次乾隆给母亲请安，母子俩坐那聊天，聊着聊着老太后就说，她听说顺天府东面有一个庙挺灵验的，老百姓有求必应。但是这个庙是明朝时建立的，现在年久失修，快要塌了，皇帝能不能拨点钱修一下。乾隆一听满口应承，说小事一桩，马上派人去修。</p>
-<p>但是出了老太后的寝宫，乾隆就把太后身边的太监宫女叫过来，质问谁跟太后说的这件事。并且念在初犯的份上，每人罚俸一个月，警告如果再有这类事，就会有人掉脑袋。之后乾隆把这番话形成一道谕旨发给这些太监宫女，实际就是发给太后看。从此其母亲更加注意。</p>
-<p>所以终乾隆一世，一直到老太后死，她再也没有干预过宫外的事。这件事并不是说乾隆这个人多么刻薄，而是因为他非常重视历史上的经验教训。从汉朝的吕后干政，一直到清朝的孝庄太后，中国历史上皇太后干政几乎的事情时有发生。所以乾隆政治的特点是注意防微杜渐，从小处抓起，从细节抓起，在防范后妃干政这点他做得比较成功。</p>
-<p>在防范皇族干政上，乾隆做得也不错。乾隆即位的时候，他还有两个弟弟。雍正一共生过十个男孩，但大部分都夭折了。乾隆这两个弟弟，一个叫弘昼，一个叫弘瞻。</p>
-<p>弘昼跟乾隆同岁，同父异母，两人从小一起长大，一起吃饭、睡觉、读书，所以关系特别好。乾隆即位之后给他们封了很高的爵位，然后封赐了很大的王府，拨了很多的钱，物质待遇很优厚，对这两个弟弟应该说很好。</p>
-<p>但是有一点，乾隆不许他们接触政治权力，而且还经常提醒他们：咱们之间的关系本质上不再是兄弟，而是君臣，你们一定要认清这一点，如果认不清这一点就会犯错误。</p>
-<p>有一次发生了一件小事，乾隆这两个弟弟到宫里给太后请安，两个弟弟跪在那跟太后聊天，聊了一会稍不注意就把膝盖往前蹭了蹭，就蹭到乾隆平时给太后请安跪的那张席子上，那张席子包着一个明黄的缎子，是皇帝专用。</p>
-<p>按理来讲，这是一件非常小的事情，但是乾隆小题大作，抓住这件事勃然大怒。乾隆说这是一个原则性的问题，是大不敬，你们怎么能跪皇帝的席子呢。就此小事对这两个弟弟严肃处理，对弘昼的处分是罚俸三年。</p>
-<p>经乾隆这么几次敲打以后，弘昼明白了，他说我这个皇帝的弟弟听起来地位非常尊贵，可以说一人之下，万人之上，但实际上我比别人的地位都要低，我是一个政治贱民。</p>
-<p>为什么这么说呢?因为在传统时代，一个男人想要实现自己的人生理想只有一条路，就是去当官。但我作为皇帝的弟弟，这一辈子不能做官，不能沾染政治，我这一生的使命就是混吃等死。</p>
-<p>所以他把自己关在王府里面，成天花天酒地、胡吃海喝、浑浑噩噩度日。时间一长，精神就有点不正常。</p>
-<p>后来他在王府中玩一种游戏：在院子当中摆上几个高桌，上面摆几种供品，自己坐在高桌上吃供品，演习自己的葬礼，他为什么这么做呢？弘昼说，人死如灯灭，人死后有没有灵魂谁也不知道，像我们这样的皇族之家，死后的葬礼办得非常隆重，我要是死了什么都不知道了，钱不是白花了吗?所以我活着的时候就要享受一下。所以他让妃子、王府中的下人跪在下面哭，谁哭得最悲哀，就给谁赏赐。</p>
-<p>他就在王府中不停地玩这种游戏，玩到62岁死了，算是得了一个善终。这在中国历代皇帝弟弟的命运当中算是不错的。</p>
-<p>乾隆的另一个弟弟弘瞻就没这么幸运。弘瞻年龄比乾隆小了整整23岁，即雍正皇帝死之前两年才生的，所以乾隆从小对他很关照，像对自己儿子一样，给他很多钱，派很多人服侍他。</p>
-<p>但是这种王公贵族，从小没人管束，脾气性格往往就不太好，非常自私，一身纨绔子弟的毛病，所以乾隆渐渐就不太喜欢他。</p>
-<p>特别是有一次，乾隆住在圆明园的时候，圆明园失火了，而住在附近的王公贵族赶紧都跑过来帮助救火。弘瞻也来了，但是他没着急救火，而是站在旁观嘻嘻哈哈看热闹。乾隆远远看见心里非常生气，但是当时没有发作。</p>
-<p>过了不久就发生了弘昼和弘瞻给太后请安跪错席子的事情，乾隆给弘瞻的处分更严重，宣布革去弘瞻的王爵，永远停俸。这个处分是非常严重的，差一点就将其开除出皇族。</p>
-<p>弘瞻从小娇生惯养，身体底子不好，经过这个打击就得了病，而且病得非常重，很快就奄奄一息。乾隆知道了也挺后悔，赶紧到弘瞻的府中探望。到了弘瞻的府中，一看弘瞻瘦得脱了相，跟原来简直判若两人，乾隆很难过。弘瞻一看哥哥来了，吓得在病床上要爬起来给哥哥行礼，挣扎半天也没爬起来，只在枕头上给哥哥叩头，说哥哥以后我再也不会犯这样的错了。</p>
-<p>乾隆一看心里非常难过，宣布马上恢复弘瞻的亲王爵位，然后补发所有的俸禄。但是已经晚了，乾隆走后第三天，弘瞻就去世了，死的时候年仅32岁。</p>
-<p>皇帝对权力和亲情的关系处理是很难的。这些皇族，你对他们管理稍微松一点，就有很多人去攀附他们，干扰政治的秩序。你要管得太严，很容易就伤害彼此的亲情，所以到最后实际上乾隆也没把平衡把握得太好。</p>
-<p>乾隆在防范后妃，防范皇族上都做到了防微杜渐，防范太监干政也做得很好，都是从细节抓起。</p>
-<p>乾隆如何防范太监呢?是通过对太监进行一种精细化管理来实施的。乾隆对宫中所有太监进行定岗、定编、定责，分解每个人的任务，你应该几点上班，几点下班，你这一天应该干什么事，哪点没做到，打多少板子，多少鞭子，制订了一个非常精细的宫中现行责例，用这个考核太监们的绩效。所以乾隆朝从来没有出现过太监干政的事。乾隆对太监管得非常细。</p>
-<p>乾隆还要防范老百姓，防范老百姓起义闹事。乾隆对老百姓有两幅面孔，一方面他是一个很仁慈的皇上，另一方面他又是一个很残忍的皇上。</p>
-<p>乾隆这个人本性上还是很善良很仁慈的。他小的时候，皇宫中养的小猫小狗死了以后他会难过上半天。所以雍正从小就观察他，选择他做继承人之后，雍正还有点担心，说这个孩子可能过于仁柔，当不了皇帝。</p>
-<p>当了皇帝之后，乾隆非常重视各地的灾情，有的时候地方官写灾情汇报写得惨了点，乾隆一边看一边会掉眼泪，所以乾隆算得上一个仁慈君主。</p>
-<p>他在位的时候做了一个中国历朝历代皇帝从来没有做过的事情，就是五次普免全国钱粮，这意味着什么呢?就是有五年全国老百姓都不用交税了。这种举动在那个时候可不像今天这样免除全国人的个人所得税这么容易。个人所得税在我们今天的国家税收中只占很小一块，但是乾隆时期，老百姓钱粮是国家税收的大部分，占到百分之七十多。</p>
-<p>除此之外，还有局部的免税、减税。比如山东遭灾了，山东全省就不用交税，这种事经常发生。这样的力度是中国历史上所有皇帝都没有做到的。从这一点看，乾隆是一个很仁慈的人。</p>
-<p>但是另一面，乾隆又非常残忍。乾隆对老百姓中他所认为的刁民，或者他认为不听话的人，非常之残酷。</p>
-<p>乾隆朝有一个社会现象跟今天有点相似，就是随着社会经济的平稳发展，随着经济的繁荣，社会出现了贫富差距拉大，资源紧张，地少人多这样的各种社会矛盾，社会上群体性事件经常发生，老百姓跑到官府去请愿、上访，佃户和地主之间发生冲突的事情非常多。</p>
-<p>乾隆对这种群体性事件有一个原则，聚众上访闹事的人超过40人，就按谋反来处理，为首之人一定要严肃处理，绝不放过。</p>
-<p>有一年，苏州府发生了灾荒，粮价飞涨，苏州米商把大米囤起来不卖，进一步要抬高粮价，老百姓受不了，就集体跑到苏州知府那请愿。</p>
-<p>领头的是一个叫顾姚年的秀才，这个人为了表示自己对朝廷的恭顺，他去请愿的时候，自缚双臂，就是让人把他的胳膊在背后捆起来，表示是一届朝廷顺民，并没有其他意思，只是想解决这件事情。</p>
-<p>因为人很多，苏州知府就把这事汇报给乾隆，乾隆的批示是：第一，要开仓放粮，平抑粮价;第二，带头的、为首的这些人，特别是这个顾姚年一定要处死。所以后来顾姚年就被苏州知府在大堂上当场打死。</p>
-<p>所以这就是乾隆处理这些群体性事件的一个不变的原则。乾隆对底层社会的各种请愿、示威就一个态度，一定要压制，一定要把各种不稳定的苗头消灭掉。</p>
-<p>这就引发了另外一个话题，乾隆朝的文字狱特别厉害。乾隆朝以前，康熙，雍正也制造了好多文字狱，但那两朝加一起也不过三十起，而乾隆一朝就制造了一百三十起文字狱。</p>
-<p>而且乾隆文字狱跟以前不同的是，以前的文字狱打击的都是朝廷的官员，或者是社会上知名的文人，像宋朝苏轼，明朝朱元璋的文字狱杀的都是官员，康熙、雍正杀的基本也都是官员，但是乾隆朝文字狱打击重点是社会底层的那些文人，或者说有的根本不是文人，只是识几个字而言。</p>
-<p>有人做过一个统计，乾隆朝文字狱一百三十多起，其中有百分之七十多受处理的对象都是平民百姓，都是小老板、小商人、穷教书匠这样一些人。这是为什么呢?</p>
-<p>因为乾隆熟读中国历史，他总结出一个规律，就是在底层社会中对皇权构成最大威胁的是这么一类人，失意文人，就是科举考试总考不中的那些人。</p>
-<p>过去中国的读书人对自己的生命期望值都很高，都想着要当官，一旦科举不中，他们很难老老实实放下书本去当农民，他们总会想方设法要改变自己的命运，一旦社会上有动荡，他们往往会充当出头鸟，带领老百姓起事。</p>
-<p>而且他们识文断字，比一般人能力要强一点。所以中国历史上农民起义的大部分是社会底层文人，比如唐朝最有名的一次起义——“黄巢起义”，黄巢就是考了好几次进士考不中，黄巢也是全唐诗中所说的一个诗人。</p>
-<p>清朝最大的一场农民起义——太平天国起义首领洪秀全，他为什么会起义呢?是因为他连续考了四次秀才都没有考上，考到三十多岁，看看自己实在是没有希望了，就创办了一个地下教文，叫拜上帝教。洪秀全本来是通过教文敛财发财，他开始没想什么起义，后来因为官府搜剿广西别的农民起义，捎带也威胁到了他们的教文，他一看这个形势也可以利用，才宣布要起事。</p>
-<p>总而言之，因为乾隆对社会底层的失意文人特别重视，所以就发生了一个奇怪的文字狱，叫丁文斌案。</p>
-<p>乾隆十八年的时候，山东曲阜衍圣公(孔子后代)的孔府门口跑来一个年轻人敲门，孔府家人打开门一看，这个年轻人衣衫褴褛，面黄肌瘦。他自称丁文斌，是浙江人，千里迢迢跑到孔府是来给孔府做上门女婿。</p>
-<p>他说他经常听到一个小人在他耳边说话，说他有九五之命，将来要当天子，上天把孔府的两个女儿都许配给他，今天来认认亲。说着还从怀里拿来一本书，说这是他开创新朝的一些想法，治国理论的一些思路，让家人拿给“他岳父”看看看配不配给他做女婿。</p>
-<p>家人一看这个丁文斌精神显然有问题，就把他扭送到了官府。山东地方官升堂一审，丁文斌说的确有个小人在我耳边说话，并已经给我开创了新朝，所以我已经给这个新王朝起了国号、年号，我还给这新王朝制造了制朝图案，我把这些东西汇编成了一本书，大老爷您看我这本书写得怎么样。</p>
-<p>地方官感觉很为难，这个人想要当皇帝，显然是谋反，但谁都看得出来这个人是个疯子，是个精神病人，这个事怎么处理呢?他就给乾隆写了一封奏折。乾隆一看山东地方官的汇报，就先问这个地方官，说这个丁文斌身体状态怎么样，还能活多长时间?</p>
-<p>山东巡抚向乾隆汇报说丁文斌本来身体就很差，又怕他装疯卖傻，所以曾经对他动用大刑，打了好几次，现在估计他活不了太长时间了。</p>
-<p>乾隆为什么要关心这个丁文斌的身体呢?是想把他提前放出来，还是想给他治病呢?都不是。乾隆接到山东巡抚的汇报就作了一段批示，说要是按照咱们大清王朝正常的法律程序，把这个案子报到刑部搞一个三方会审，然后再报到我这里，我再谕旨行文到山东，三个月过去了，可能最后判决时丁文斌已经死了，那就让他逃脱了法网，逃脱了惩处，这无论如何是不行的。</p>
-<p>所以接到谕旨的当日就要把他提出来凌迟处死。所以接到乾隆这道上谕，山东巡抚就把丁文斌从牢里提出来，号召济南老百姓都来观看，然后在万头蹿动之下把丁文斌一刀一刀凌迟处死。</p>
-<p>像丁文斌这种疯子文字狱在乾隆朝还不止发生这一起，一共发生21起，其中有七起主角是疯子，都被乾隆处死。乾隆为什么要这样做呢?为了杀一儆百。他要搞恐怖组织，就像我前面提到的，乾隆晚年的社会动荡加剧，社会矛盾很突出，所以他要搞一些恐怖组织。</p>
-<p>乾隆的意思是，一个疯子想要造反我都要这么对待他，如果正常老百姓想起来造反肯定没有好下场。所以说乾隆为了达到他的政治稳定，无所不用其极。他可以最仁慈，他也可以最残忍，一切都是为了他的政治需要。</p>
-<p>乾隆通过他强有力的政治手段，对社会各个层面都做到了强有力的控制，就实现了长达64年的政治稳定。与此同时，经济不断发达，造就了中国最长一个盛世——乾隆盛世。通过这种方式得来的盛世显然是有问题的。</p>
-<p>接下来我通过一个西方视角看一下乾隆盛世存在的一些问题。</p>
-<p>什么样的西方视角?乾隆晚年，英国派过一对使臣来到大清王朝，这些英国人把他们的所见所闻写成了好多书，后来在欧洲出版，这些书也有好几本今天已经翻译成汉语，大家很容易找到。</p>
-<p>那么英国为什么要派一对使臣到中国来呢?那时候他们想跟中国建立一个平等的外交关系，想跟乾隆互开大使馆，互派大使。来到中国之前，这些英国人对大朝王朝抱着非常美好的想象，但是到了之后他们发现，大清王朝很多方面跟他们想象是非常不一样的。</p>
-<p>我总结了一下有三点不一样：</p>
-<p>第一点，大清朝不如他们想象的那么富庶。</p>
-<p>来到清朝之前，这些英国人每个人差不多都读过一本书，就是那本著名的《马可波罗游记》，《马可波罗游记》中说中国是一个非常富庶的国家，遍地都是黄金，人人都穿着绫罗绸缎。</p>
-<p>但是到了中国之后，这些英国使臣发现不是这么回事。英国人到了中国的第一个大城市是天津，他们坐船来到天津口岸，天津的知府非常重视，因为乾隆皇帝早已经给各地官员发下了谕旨说谁要是见到英国人，一定要好吃好喝好招待，因为人家不远万里来进贡，诚意可感。</p>
-<p>乾隆认为英国人是来进贡的。所以天津知府就弄了好多活鸡、活猪、活牛、活羊送到英国船上，因为他们知道英国人航海九个月，船上肯定缺乏活的肉食。那么这些鸡鸭牛羊在运输过程中因碰撞而死，到了船上放了两天有点变质了，英国人就把它们扔到海里去了。</p>
-<p>这时候海岸上站了好多中国人在那看热闹，因为谁也没见过金发碧眼的洋鬼子，头一次见感觉很新鲜。一看英国人船上扔下来这些死物，有好几十个人也不管会不会水就往水里跳去抢这些东西，英国人一看就明白了，中国人的生活水平很低，要不然不至于连这些已经变质的肉都抢。</p>
-<p>接着天津知府又派了一些老百姓去船上给英国使臣服务，扫地做饭，端茶倒水。这些英国使臣一看大清帝国的子民有个突出的印象，就有点像我们今天到北朝鲜去旅游，有个很明显的印象，什么印象呢?</p>
-<p>就是北朝鲜除了金正恩一个胖子之外，其余的人都很瘦，枯干瘦小。英国人到了中国之后发现底层社会的这些人也都是，几乎没见到一个胖子，所以他们第一个印象就是乾隆盛世，其实是一个饥饿的盛世，所以我以前出过一本书就叫《饥饿的盛世》，就是写乾隆朝的。</p>
-<p>讲到这可能有的朋友有点疑问，为什么盛世老百姓还吃不饱?因为乾隆盛世跟以前盛世有不一样的地方，就是我前面讲的人口增长得太快，人口从一亿四增长到三个亿，翻了一番。</p>
-<p>虽然乾隆很重视农业，发展农业也很有办法，乾隆朝的农产量是中国历史上最高的。但是最高也不过是提高百分之十、百分之二十，但是人口却增长了百分之百，一平均后人均粮食占有量又是中国历朝中最低的。</p>
-<p>有一个数据，宋朝人均粮食占有量1400多斤，宋朝是中国历史上最富庶的一个王朝，清朝是700多斤，只有宋朝的一半。这700多斤并不是都吃到肚子里去了，其中很多要转化成肉类、奶类，特别是要供贵族消费，人均只能勉强温饱。</p>
-<p>所以乾隆朝是一个饥饿的盛世。这是英国人到中国的第一个感受。</p>
-<p>第二点，乾隆朝不仅是一个物质上、经济上贫困的时代，也是一个政治上贫困的时代。</p>
-<p>为什么说政治上贫困呢?这些英国使臣到了中国之后发生了一件事情，他们到达的第一个中国城市并不是天津，而是浙江的定海，因为他们不熟悉中国的海路。到了定海之后他们找到了当地最高官员——定海总兵，让总兵帮忙找两个领航员把他们领到天津去。</p>
-<p>定海总兵因为也接到了乾隆的谕旨，要好好接待英国人，所以答应帮忙。但是定海总兵帮忙的方式跟英国人想象得不一样。英国人认为总兵会花重金招募。但总兵的办法是派出手下所有的士兵满大街抓人，航过海的都被抓来，然后总兵一个一个审问，最后挑出两个以前去过天津的。</p>
-<p>总兵要求他们收拾一下行李马上出发，而且一文钱不给，路费要自理。这俩人虽然很不情愿，但是总兵威胁他们不去就把他们抓起来，这两人没办法只好跟英国人走。</p>
-<p>这一幕是英国人无论如何也想象不到的。所以在他们的回忆录里写道，从这一幕我们可以看出大清帝国给他的子民提供的政治保护是很不美妙的。</p>
-<p>因为那个时候欧洲的政治文明已经发展到了一个比较高的高度。在乾隆时期欧洲曾经发生过一个很有意思的事情，这个事情我在好多文章当中见到过，具体细节我没有考证过。</p>
-<p>乾隆十二年的时候，普鲁士的国王叫腓特烈二世给自己修过一个宫殿叫夏宫，夏天去避暑。宫殿修得很漂亮，很高大，但是有一个问题就是选址不太好，这个宫殿盖在一个磨坊的旁边。</p>
-<p>我们知道那时候欧洲都是靠风力转动磨坊，宫殿把磨坊旁边的风给挡住了，就影响了风磨转动的效果，磨坊主就跑到法院把国王给告了，国王没办法，后来只能给予赔偿。通过这两件事一对比，你就能看出那时候中西政治文明已经有很大的差距，所以英国使臣说乾隆朝也是一个政治上贫困的时代。</p>
-<p>英国人观察到第三个重点是什么呢?英国人对中国人的国民性也有了一个很深刻的印象。当然国民性是后来提出的一个词，但是英国人那时候对中国人的性格特点也有一个很深刻的观察。</p>
-<p>来到中国之前，英国人对中国人是很尊重的，因为那个时代欧洲有过一场中国热，即崇拜中国的热潮。当时，欧洲好多传教士把中国四书五经翻译到了欧洲，欧洲上层知识分子一阅读这些书，这些书当中描绘的图景是什么样呢?中国是一个大一统的王朝，管理得井井有条，君君臣臣，父父子子，按照一个父臣制的亲情原则进行管理，所以欧洲人很羡慕中国，说中国是一个高度文明，又高度稳定的国家，比欧洲这种小国林立，不停打仗的状况要强得太多，所以他们非常崇拜非常向往中国。</p>
-<p>所以法国的大学者伏尔泰那个时候成天在自己小书房中挂着孔子挂象，每天起来都要向孔子行礼。所以英国使臣认为中国老百姓文明素质是非常高的，但是到了中国之后，他们发现完全不是这样。</p>
-<p>我们讲过天津知府派了一些人给英国人做饭，有一天晚上马戛尔尼(英国使团团长)，副使斯当东，他们俩让厨师给他们做两只鸡，厨师把红烧鸡块端上来了，做得挺好吃，但是吃着吃着，这几个英国人发现问题了，就把这个厨师叫过来问，说你们中国的鸡每只长几条腿?厨师说两条啊，怎么了？马戛尔尼就说，我总共让你做两只鸡，这盘子里怎么一共只有两条鸡腿？厨师一听哈哈一笑，回到厨房把他藏下的两条鸡腿又拿出来端到桌子上来。</p>
-<p>所以后来马戛尔尼写回忆录说，这些普通的中国人非常容易撒谎，你指出来他们也毫不羞愧，所以他们对中国人的道德素质评价很低。</p>
-<p>关于国民性他们还有第二个观察。前两年咱们国家发生了一件事，佛山小月月事件大家应该都知道。佛山一个小孩叫小月月，在农贸市场被一辆车压倒了，前后从那走过十八个人没有一个人管，后来来了第二辆车把那个小孩给压死了。这个新闻发生之后，大家都痛心疾首，说中国国民性怎么变成这样了。其实这种事在乾隆朝就发生过，而且被英国人看到了。</p>
-<p>那时候英国人到了天津之后，他们按惯例换上中国官府提供的官船沿着运河北上北京，在运河的两边停着好多小船，小船上站满了中国人，站在那看热闹。</p>
-<p>有一条小船站了40多人，人太多，英国船经过的时候，大家都往能看得着的这边挤，结果船翻了，40多人都掉到河里了，英国人发现周围有十来条小船，没有一个人跳下去救人。英国人说我们赶紧停下来救人吧，但是中国的水手们跟他们说：我们朝廷有规定，官船不能随便停船，于是就这样开走了。</p>
-<p>英国人说我们能够清楚地看到掉到河里这一船当中有好几个人是不会水的，最后起码有四五个人淹死了。所以英国人感觉特别奇怪，那时候英国在世界各地有好多殖民地，说我们走遍了全球，见识了各种人种，见识了各个国家，没见到任何一个国家人民的性格是这样的，中国人太奇怪了。</p>
-<p>而且英国人以前在他们的殖民地接触过一些海外华人，菲律宾，巴达维亚等等，他们本来感觉中国人挺好，挺善良，挺温顺的，为什么生活在本土的中国人彼此之间如此冷漠呢?</p>
-<p>他们百思不得其解。后来使臣马戛尔尼得出一个结论，认为中国的统治者按照他们的需要刻意塑造了这样的国民性格。这个是关于中国国民性最早的一段论述。</p>
-<p>以上就是我通过英国使臣的眼睛来观察乾隆盛世的一些问题，通过这种观察我们就能看到：</p>
-<p>纵向看，乾隆盛世在中国历史上是一个了不起的盛世，但是横向看，它是一个饥饿的盛世，是一个恐怖的盛世，是一个基于统治者最大利益打造出来的盛世，那么这样的盛世注定不能持久。</p>
-<p>所以在乾隆死后40年就爆发了鸦片战争，大清王朝就踏入了万劫不复的半殖民地，半封建这样一个境地。事实上乾隆晚年这个盛世就已经崩塌了，乾隆晚年爆发白莲教起义，实际上就已经宣告了康乾盛世的终结。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%A0%E5%AE%8F%E6%9D%B0-%E8%99%9A%E5%81%87%E7%9A%84%E4%B9%BE%E9%9A%86%E7%9B%9B%E4%B8%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">中国历史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E9%AA%8C/?category=18271" rel="tag">中国经验</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%BE%E9%9A%86/?category=18271" rel="tag">乾隆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">大国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B3%E6%B0%91/?category=18271" rel="tag">平民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E5%AD%97%E7%8B%B1/?category=18271" rel="tag">文字狱</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">盛世</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%9C%89%E8%BF%99%E4%B9%88%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6-%E8%AD%A6%E5%B1%80%E5%BE%AE%E5%8D%9A%E8%AD%A6%E5%91%8A%E5%B1%81%E6%B0%91%E4%B8%8D%E5%BE%97%E6%81%B6/" target="cdt-mirror">墙外楼 | 有这么一个国家 警局微博警告屁民不得恶意拍摄</a>
-</h2>
-<p><p>原标题：有这么一个国家：外长可以训斥外媒记者“恶意”提问 警局微博警告屁民不得“恶意”拍摄</p>
-<p>@平昌公安：【遇到警察执法，请不要随意拍摄，因为法律不允许！】5月30日,一段“太原警察打人”的视频风靡网络,事情的真相是什么,山西警方已有结论公布，需分析的是,群众是否有权随意拍摄民警执法过程的问题.因民警阻止违法行为人拍照,引发暴力的片段.网友纷纷质疑太原民警执法的合法性,那么请看X相关法律条文。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-1-1.jpg?resize=590%2C273" alt="1-1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-1-1.jpg?w=590 590w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-1-1.jpg?resize=300%2C139 300w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2-1.jpg?resize=589%2C656" alt="2-1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2-1.jpg?w=589 589w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2-1.jpg?resize=269%2C300 269w" sizes="(max-width: 589px) 100vw, 589px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3.jpg?resize=588%2C194" alt="3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3.jpg?w=588 588w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3.jpg?resize=300%2C99 300w" sizes="(max-width: 588px) 100vw, 588px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4.jpg?resize=600%2C1104" alt="4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4.jpg?w=735 735w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4.jpg?resize=163%2C300 163w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4.jpg?resize=557%2C1024 557w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5.jpg?resize=600%2C373" alt="5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5.jpg?w=748 748w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5.jpg?resize=300%2C186 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6.jpg?resize=600%2C1172" alt="6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6.jpg?w=737 737w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6.jpg?resize=154%2C300 154w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6.jpg?resize=524%2C1024 524w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<blockquote><p>美国之音：美一联邦法庭判决公民拍摄警察执法录像合法</p>
-<p>美国联邦第一巡回上诉法院最近判决说，波士顿市一位普通公民在公共场所把警察执法过程录音录像，受到美国宪法第一修正案言论自由权的保护。这个判决被一些观察人士看作是公民言论自由的又一大胜利。</p>
-<p>*格里克拍摄警察执法录像导致诉讼*</p>
-<p>2007年的一天，西蒙·格里克步行穿过麻萨诸塞州波士顿公园时，看到警察正在逮捕一名年轻人，而且看上去过份使用了武力。于是，格里克拿出自己带有摄像功能的手机，站在10英尺之外，把警察的这个执法过程录音录像。警察转过身来以违反该州监听法和扰乱治安为由把格里克抓了起来，而且没收了他的手机和电脑闪存卡。</p>
-<p>2008年，波士顿市一个法庭驳回了对格里克的指控。法庭裁决说，不能因为警察对实施逮捕时被人录像而感到不悦，就把格里克合法行使其言论自由权定为犯罪。另外，格里克也没有违反该州监听法，因为他没有在暗中监听和偷拍。格里克反过来以警方违反美国宪法第1条修正案和第4条修正案赋予他的权利为由到联邦法庭提出了起诉。</p>
-<p>简单地说，美国宪法第1条修正案规定，公民有言论和出版的自由，宪法第4条修正案则规定，人民的人身、住宅、文件和财产不受无理搜查和扣押的权利不得侵犯。这些在美国宪法基础之上添加的权利确保普通公民的权利不受政府权力的侵犯。</p>
-<p>*警察提出有权获得司法豁免*</p>
-<p>被起诉的警察辩护说，除非他们明显地触犯了即得宪法权利，否则，作为政府官员，他们有权得到司法豁免，另外，拍摄警察在公共场所执法的录像是否得到宪法保护，法律尚无明确规定。但是，联邦地区法庭不接受警察的论据，而且拒绝了他们提出的要求驳回此案的动议。被起诉的警察继续向美国联邦第一巡回上诉法院提出上诉。</p>
-<p>据芝加哥约翰·马歇尔法学院副教授史蒂芬·施温介绍，目前，美国有些州通过了监听法，禁止人们在有关方面不知情或者没有同意的情况下截取电子通讯或在电话上安置监听设备。</p>
-<p>施温教授表示，依据这个法律提出的诉讼因此开始增多：“我们看到，地方检察官开始对拍摄警察执法录像或录音的个人提出起诉。由于警察在执法过程中有时会失控，因此，这些录音和录像会对警察造成很大损害。检察官提出，如果人们不经警察同意就拍摄录像或录音，我们就会根据监听法把这些人绳之以法。这就是警察在这个案子中所做的，类似的诉讼还出现在好几个司法管辖区中。”</p>
-<p>*格里克一方提出诉讼的法律依据*</p>
-<p>但是，格里克的律师戴维·米尔顿指出，美国法庭一直判决说，宪法第1条修正案保护有关官员信息的讨论和流通，以及人们合法收集信息的权利。</p>
-<p>米尔顿说：“我们提出，使用现代技术，即手机上的摄像机，收集有关政府官员和警察信息是人们的一项基本权利。在民主国家，人们拥有问责警察和其他政府官员的权利非常重要。法庭同意我们的这个论据，另外，我们还根据宪法第4条修正案提出，警察没有合理的理由不能实施扣押。法庭同样赞同我们的观点，那就是，警察没有理由逮捕格里克，他拍摄警察执法过程的录像没有触犯任何法律。”</p>
-<p>设在纽约的“宪法权利中心”作为非诉讼方，向联邦第一巡回上诉法院提交了支持格里克的法庭之友陈述书。该组织资深职员律师安佳娜·萨曼特进一步介绍了美国法庭以往在这个问题上的判决。</p>
-<p>萨曼特说：“法庭曾经判决说，记者也好，普通人或公共大众也好，都有权对涉及公共利益的事件进行录音，有权传播相关信息。判决还指出，为了促进公民参与和政府问责，必须赋予人们传播信息的权利。这种收集和传播信息的权利对了解政府行为是必要的。这正是美国宪法第一修正案的意义所在。”</p>
-<p>*法庭判决支持公民录音和录像权*</p>
-<p>联邦第一巡回上诉法院2011年8月对格里克一案作出判决。法庭在维持下级联邦法院判决的同时指出，公民拍摄政府官员，包括在公共场所履行公务的执法人员的录像的权利，是受到宪法第1条修正案保护的一项基本的、至关重要的、已经确立的自由权，况且格里克是以和平方式拍摄的，而且地点是最传统的公共论坛，即一座公园里。</p>
-<p>利佩兹法官在判决书中进一步指出，收集新闻的权利不仅新闻媒体有，公民个人也有。确保公众收集官员信息的权利不仅有助于揭露职权滥用，还有可能对政府运作产生有益的影响。不过，裁决也谈到了权衡这一问题的重要性，一方面要对滥用职权的官员实行问责，另一方面也要确保官员在正常履行公务时免于骚扰、分心和司法责任。</p>
-<p>格里克的代理律师戴维·米尔顿进一步解释和分析了联邦第一巡回上诉法院的这一判决：“这一判决用非常强烈的措辞确立，收集有关政府官员履行公务的信息对一个自由开放的社会是必不可少的。法庭的判决指出，格里克不是专业记者，没有为任何报社工作，他只是一位普通人，目睹了一件在他看来不对的事情而已。判决还指出，随着科技的发展，除了机构媒体、报社和电台外，普通公民也有可能发布突发新闻，并且把他们在公众场所看到的组织成一篇最新的报导。”</p>
-<p>纽约市立大学法学院教授卢桑·罗布森对联邦第一巡回上诉法院作出的这一判决表示称赞：“如果我们不允许公民用手机拍摄，我们就在某种程度上走向了一个警察国家，一个专制国家。我认为，这个问题在很大程度上属于言论自由权，以及公民录音和收集信息的自由权的一部分。法庭在这个案子中特别谈到，格里克没有偷偷摸摸、鬼鬼祟祟地拍摄。大家都能看到他手里举着手机在那里拍摄。反之，如果一个人在人不知鬼不觉的情况下暗中偷拍，就会涉及非常严重的问题。”</p>
-<p>目前，联邦第一巡回上诉法院的判决只在它的司法管辖区内，也就是包括麻萨诸塞和佛蒙特在内的东北部一些州具有约束力。这个判决对其它法庭有可能起到参照作用。若要在全美范围内产生影响，还需要美国联邦最高法院的介入和裁决。</p></blockquote>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, 2016. |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A2%99%E5%A4%96%E6%A5%BC-%E6%9C%89%E8%BF%99%E4%B9%88%E4%B8%80%E4%B8%AA%E5%9B%BD%E5%AE%B6-%E8%AD%A6%E5%B1%80%E5%BE%AE%E5%8D%9A%E8%AD%A6%E5%91%8A%E5%B1%81%E6%B0%91%E4%B8%8D%E5%BE%97%E6%81%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%B6%E6%84%8F%E6%8F%90%E9%97%AE/?category=18271" rel="tag">恶意提问</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%98%8C%E5%B9%B3%E5%85%AC%E5%AE%89/?category=18271" rel="tag">昌平公安</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%88%A9/?category=18271" rel="tag">权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -768,7 +654,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -778,5 +664,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,102 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%BA%BA%E7%89%A9-%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E8%BF%87%E5%8E%BB%E4%BA%86%EF%BC%8C%E4%BB%96%E4%BB%AC%E8%BF%98%E7%9B%B8%E4%BF%A1%E9%AB%98%E8%80%83%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90/" target="cdt-mirror">人物 | 这么多年过去了，他们还相信高考改变命运吗？</a>
+</h2>
+<p><p>《人物》微信账号：renwumag1980<br>
+文|刘磊 编辑|张卓 摄影|张佳佳</p>
+<p>纪录片《高三》拍摄于2005年，福建省龙岩市武平一中高三七班的同学们，埋头于成堆的书本和试卷中，听着班主任王锦春一脸坚定地说，「读书不会读死人的，你就拿出半条命来读就可以了。」</p>
+<p>很多人好奇，这么多年过去了，他们还相信高考改变命运吗？</p>
+<p>这十年来，同学们大多工作，结婚，生子，步入生活的庸常，但是他们无一例外地回答，相信。满意自己的现状的，他们感谢高考。对自己现状不满意的，他们反思导致这一切的根源——高中时不够努力，不够拼。也有人总是回避关于高三的一切：不去回忆那段经历，不主动和高中同学联系，不愿参加高中同学的聚会……</p>
+<p>而班主任王锦春，早已头花花白，还在武平教书，对高考的期待从未动摇。在他看来，没有上大学而成功的，终究只是特例。因为——他教的学生大多数都是无爹可拼的。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1.png?resize=598%2C396" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1.png?w=598 598w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1.png?resize=300%2C199 300w" sizes="(max-width: 598px) 100vw, 598px" data-recalc-dims="1"><br><span>王锦春与武平一中2005届高三七班的部分同学在校园里合影，身后黑板上的字是几个月前的高考留下的痕迹</span></p>
+<p><strong>雷同的故事</strong></p>
+<p>前不久，我在一个纪录片放映活动上第二次看了《高三》。三年前无意间看这部片子时的第一感受是，中国的故事有时真是雷同啊。几乎就是我所经历过的高中生活的略加修改的回放：早晨逐渐人声鼎沸的教室；几乎要将人埋没的成堆的书本和试卷；出口成章，扮演成功学推销员角色的班主任；从相貌到说话都一本正经的政治课女老师；总是一脸忧虑，心事重重的1号女同学……</p>
+<p>我能从片子里嗅到我熟悉的亲切的气息。尽管我一点也不喜欢那种气息。</p>
+<p>这次重看，我才意识到片子里的同学们其实和我是同年结束高三生活的。他们是福建省龙岩市的武平一中2005届的高三七班。武平是一个经济欠发达的山区县城，资源匮乏，信息闭塞。班主任王锦春在片中一个劲儿地鼓励学生们考出武平：「你说铁路，铁路也不从我们这边过。高速公路，高速公路目前为止最起码也没有（注：现在有了）。这样的地方，要说资源也没什么资源，待在武平能有什么出息？」</p>
+<p>我在江苏北部的乡下长大，与武平相距甚远，并无太多的共同之处。但我的高中母校和武平一中有相似的地方，都是那种以乡下孩子为主的县城中学（我们那儿从行政上来说是一个区，但相当于县城）。</p>
+<p>豆瓣上有很多网友的感受和我一样，他们都像是在看自己曾经的高三生活的回放。中国的故事有一些的确是雷同的。《高三》呈现了中国教育的部分真相，而且是具有相当典型性和代表性的那部分真相——这个国家有无数所像武平一中这样的县城中学，有无数个像王锦春一样兢兢业业带领学生征战高考的班主任，有无数个一心想考北大的林佳燕，有无数个在挣扎中反抗的钟生明，有无数个因成绩总是上不去而心生绝望的张兴旺……</p>
+<p>看完片子，我冒出了一个念头，想去见见屏幕里的他们。他们过得还好吗？一个多月后，我搭上了前往厦门的飞机。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-1.png?resize=572%2C380" alt="2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-1.png?w=572 572w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-1.png?resize=300%2C199 300w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"><br><span>王锦春与高三的同学们</span></p>
+<p><strong>摆不上台面的声名</strong></p>
+<p>到武平的第二天，王锦春邀请我参加晚上的一场饭局。他骑摩托到我住的酒店接我。我们在酒店大堂里见了面。他明显老了，夹杂在黑发间的一缕缕白发清晰可见，这两年因为腰椎间盘突出，走路一瘸一拐的。</p>
+<p>饭局的主角是王老师2014届的几个学生，其中有两个分别在清华和北大就读，就是他们打破了武平自2010年以来连续四年清华北大录取人数为零的局面。王老师说，最近几年，学校和社会的聚焦点从本二、本一的上线人数转移到了清华北大的录取人数上，他自己的聚焦点也只好随之转移。</p>
+<p>清华、北大崇拜症我一点也不陌生，在我的老家也是。人们聊起名校话题时总是用清华、北大指代，似乎全国只有这两所名校。每年看到状元们填报学校和专业时，总是让你感到，在我们这个国家里，连读大学都那么地缺乏自我和想象力，而且他们还是中国最优秀的一群孩子。</p>
+<p>我问王老师，为什么非得是北大清华？</p>
+<p>王老师说：「复旦，上海交大，南京大学，浙江大学之类的，这个毕竟学校多了，学校多了，这个东西就不好比啊。」</p>
+<p>除了王老师去年刚毕业的这几个学生，饭局上还有他很早以前的学生，也有他的朋友或朋友的朋友。他们身份各异：当地的银行行长，公司老总，从清华毕业的副县长……我坐在王老师旁边，他和我讲起纪录片《高三》带给他带来的影响。一言以蔽之，就是收获了一份「不能拿上台面」的声名。</p>
+<p>无论在网络上还是现实中，很多人看了纪录片之后都说，这真是个好老师啊。贵州省仁怀市的一个老教师特地打电话过来向王锦春表达敬意，还给他寄来了家乡的茅台酒。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-2.png?resize=571%2C379" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-2.png?w=571 571w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-2.png?resize=300%2C199 300w" sizes="(max-width: 571px) 100vw, 571px" data-recalc-dims="1"><br><span>黑板上的这段话是大学时的王锦春在课堂上记下的，现在，他每年高三动员时都会给学生们写下这段话</span></p>
+<p>王锦春给我讲了一个故事，作为这份声名摆不上台面的证明。2014年全国模范教师评选，他成为武平县唯一的候选人。他猜测县里推选他的原因有一部分来自《高三》的影响，「觉得我在全国名气比较大，把我推上去的把握比较大」。后来，他落选了。</p>
+<p>有同行将《高三》下载后刻录成光盘，寄到了省教育厅，并将他在纪录片中的有可能作为「罪状」的话悉数列出——比如，拿出半条命来读书；父母如果想离婚的话，等孩子高考完再离，等等。这位告状的同行要以此证明，王锦春是应试教育的模范，不是素质教育的模范。王老师自己事后猜测，即便没有这位同行的举报，自己也可能因为纪录片中这些容易让人往应试教育上联系的言辞而落选。</p>
+<p>王锦春清楚他自己的局限性。在纪录片的开头，他开门见山地说，自己在片中的表现可能会引起一些专家学者的质疑。我和他谈及另一种教育，那种不会引起专家学者质疑的教育。我举了范美忠的例子，那个毕业于北大，以「范跑跑」的标签而为人们熟知的中学语文教师。范美忠和王锦春完全是两种人，范美忠特立独行，是应试教育体制的反叛者，一心想着践行人文的，理想主义的教育。</p>
+<p>王锦春：「可能从某种角度上来说，它（范美忠的教育理念）是一种更高大上的东西，但是呢，因为我生活在这个地方，我永远都是以家长他们的愿望为基础的，因为我觉得家长把孩子交到我的手里面，无非就是让他们改变他们家庭的命运甚至一个家族的命运。我要最起码为家长着想。」</p>
+<p>王锦春说：「海阔凭鱼跃，天高任鸟飞。但是这个海阔凭鱼跃、天高任鸟飞不是在中学阶段，而是（等）你到大学以后。如果你到大学以后，你能够特立独行，或者有自己的思考，有你对这个世界的，对这个宇宙，包括对人类的（思考），……你可以的。但是我不一样，我的身份就是一个中学教师，如果是你连这个大学都没有上的话，你谈那些高大上的东西我觉得没意义，真的没意义的。」</p>
+<p>王锦春有一个信条，「虚心接受（批评），坚决不改」。即便官方不承认他，被别人贴上应试教育的标签，他也不在乎。他生活的环境，自己的经历决定了他必须如此，这是他的职业道德。</p>
+<p>「我们要遵循生活的本来面目。」他说。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-3.png?resize=475%2C718" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-3.png?w=475 475w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-3.png?resize=198%2C300 198w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><span>王锦春每天都会花很多时间浏览网络新闻，他在给学生们“励志”的时候会及时地融入当下的新闻热点和网络流行语</span></p>
+<p><strong>「存在即合理」</strong></p>
+<p>王锦春和我讲起他的大学经历，你能感到这是一个通人情世故的人。读大学时，为了毕业时能分到县城而不是乡下，他特意经常写一些文章给学校里的同乡教授，让他提意见。时间久了，他和教授熟悉了，最后毕业分配的时候，教授确实帮上了忙，写了一封推荐信给老家的教育局，他因此顺利分到了武平一中。</p>
+<p>王锦春相信，生活中的很多事情「存在即合理」。在我和他的几天短暂接触中，他反复讲起这句话，我觉得他生活里的一切似乎都被这一信条理所当然地合理化了。但他曾经的一位学生后来对我说：「（其实王老师）内心没有那么平静，只是在不喝酒的时候表现得平静。他矛盾的地方挺多的。他其实是一个追求自由和表达的人，但日常生活不允许。」</p>
+<p>不过，王锦春性情的一面有时终究还是战胜了日常生活中的某些「不允许」。比如，曾经有私立学校高薪挖他，他觉得在公立学校更自由，所以几乎毫不犹豫地拒绝了。</p>
+<p>王锦春是一个好老师吗？我问自己。发现这是一个很难回答的问题。</p>
+<p>一方面，我赞同导演周浩说的，在他那个行业里面，在他力所能及的范围内，他对得起自己的职业，敬业负责；在教育方式上用心，讲究灵活性，有独特的智慧；真诚地关心学生，能够与学生打成一片；最重要的，从教26年来的高考战绩也很辉煌。如果你是一个一心要在高考中考出一个好成绩的学生，这样的老师堪称完美。</p>
+<p>但另一方面，我又无法承认他是一个好老师。周浩说，我们谁都不是旁观者，我们都是这个体制的一部分。高考体制的复杂性正在于此，它让很多人同时成为获益者和受害者。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-4.png?resize=572%2C379" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-4.png?w=572 572w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-4.png?resize=300%2C199 300w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"><br><span>肖兴旺在镇上的一家线路板厂上班，困在老家，他时常感到压抑，但家庭、孩子让他脱不开身</span></p>
+<p>纪录片里那个因为数学成绩一直跟不上而借酒浇愁的张兴旺，现在叫肖兴旺。母亲改嫁，他随着改了姓。肖兴旺对我说，大学是他迄今为止全部人生里最美好的时光。高中则是特别不美好的记忆：一直在爬坡，爬到一半又掉下来，再爬，爬到一半再掉，最后灰心丧气不想再爬了。</p>
+<p>他总是回避关于高三的一切：不去回忆那段经历，不主动和高中同学联系，不愿参加高中同学的聚会……</p>
+<p>对我来说，大学也是最美好的时光。那种无所事事的美好。刚到大学校园时，连呼吸都变得令人格外舒畅，全是自由的气息。回顾我受教育的全部经历，我觉得，进入大学之后，一切才真的开始。以前的时间全浪费了。</p>
+<p>真正意义上的教育，它的目的只应有一个，那就是培养人的健全人格，独立思想。教育应该扩展人的视野，而非相反。为了一场场考试而拼命的教育显然属于后者。这就好比为了看一场2小时的电影，你需要先罚站6个小时——这6个小时其实是在浪费你的时间，它本可以被用来做很多有意义的事情。</p>
+<p>但是有办法吗？</p>
+<p>似乎没有。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-5.png?resize=537%2C716" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-5.png?w=537 537w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-5.png?resize=225%2C300 225w" sizes="(max-width: 537px) 100vw, 537px" data-recalc-dims="1"><br><span>罗艳去年11月从加拿大卡普顿大学毕业后，在边找工作，边思考自己到底想做什么。在国外，她最大的收获是找到了自己</span></p>
+<p>罗艳，那个在纪录片中高考完趴在同学肩上哭的女孩，本科毕业后申请了加拿大的MBA。正如我们可以预见的那样，国外的生活经历改变了她很多。其中最大的收获是，她找到了自己，懂得为自己而活。</p>
+<p>有次男朋友问她，你有什么兴趣爱好，她想了想，除了学习以外，好像什么兴趣爱好也没有。她这才意识到自己在兴趣爱好方面是完全缺失的。以前在简历上填兴趣爱好的时候，她会像很多人一样填读书，听音乐之类——「这种其实你自己根本不是真的喜欢或真的爱，你只是一种，因为你自己不知道你兴趣爱好是什么，所以你就copy了，你就抄袭了别人的兴趣爱好」。</p>
+<p>她开始寻找真正属于自己的兴趣爱好，然后找到了很多：制作鱼缸；用天然的植物染料给围巾染色；到社区做种菜的志愿者；到二手市场淘家具，然后动手油漆，做旧，让它变成八十年代的样式……</p>
+<p>「来到这个世界上你一定要为你自己活，你为了自己活你才会开心。」罗艳对我说。</p>
+<p>但当被问到这十年最重要的人生节点是什么的时候，她的回答却不是出国，依旧是高考。她至今仍然笃信班主任王锦春的话：「读书不会读死人的，你就拿出半条命来读就可以了。」 她的理由你几乎无法反驳：现在自己所拥有的这「另一个人生」是通过高考开启的。因为高考，有了到北京读大学的机会；因为在北京读了大学，毕业后才想到了出国。</p>
+<p>2014年11月从卡普顿大学毕业后，她一直在边找工作，边思考自己到底想做什么。而关于自己想做什么，这在她出国前接受的教育里，似乎完全不是一个需要思考的问题。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-6.png?resize=571%2C378" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-6.png?w=571 571w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-6.png?resize=300%2C199 300w" sizes="(max-width: 571px) 100vw, 571px" data-recalc-dims="1"><br><span>王锦春与肖兴旺已经很久没见了，他们在聊各自的生活</span></p>
+<p><strong>一种温柔的残酷</strong></p>
+<p>自从2005年底《高三》播出以后，总是不断地有人问，片中的主人公们现状是怎样的。一位豆瓣网友说，他想亲眼目睹，曾经那么纯洁的梦想，是如何被现实一点点地撕破的。这位网友提供了一个好故事的角度，但我在与他们接触之后发现，我无法写出这样的故事。</p>
+<p>第一个问题是，一定要考上大学，考出武平——这曾经的梦想固然纯洁，但它们单调得近乎一个执念。至于考上大学之后意味着什么，将来要做什么，这些几乎没人去想。而必须要考上大学近乎是一种集体信仰的意识形态，就像肖兴旺对我说的，从小到大，父母，亲戚，老师，整个社会给你灌输的都是你要去考大学。不上大学？完全不是一个选项。</p>
+<p>第二个问题是，步入社会，面对各种生活的庸常和无奈，这当然都不同程度地发生在他们身上。但生活逻辑从来不服从戏剧逻辑，如果说「撕破」是已经并正在发生的，那么它也是以一种微妙而无声的方式进行的。</p>
+<p>我一遍遍地问他们，这十年，你们有哪些曾经的东西被自己或现实推翻了？</p>
+<p>很遗憾，几乎一无所获。他们就这样按部就班地接受着每个阶段到来的一切，考大学，结婚，生子，就像王锦春在课堂上告诉他们的那样，每个阶段做每个阶段该做的事儿。一切看上去是和谐的，激烈的冲突从来没有。</p>
+<p>我采访的近十位同学中，大多都已结婚生子，为各自的生活奔波着。也许在做着一份自己未必满意的工作，也许结婚的对象只是勉强满意。「反正生活嘛，过日子嘛，就这样子了。」一位同学对我说。</p>
+<p>2011年底，肖兴旺回了老家，现在在邻镇的一家线路板厂上班，CAM工程师。这是一份初中甚至小学学历就可以胜任的工作。他其实内心还是有抱负的，现在困在这儿，很压抑，但有了家庭，第三个孩子马上就要出生了，又能怎么办呢？前两年，他常常后悔，自己为什么要这么早结婚。</p>
+<p>「已经人到中年的感觉了。」在开车送我回县城的路上，肖兴旺突然冒了这么一句。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-7.png?resize=570%2C570" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-7.png?w=570 570w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-7.png?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-7.png?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-7.png?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-7.png?resize=50%2C50 50w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"><br><span>在龙岩的一个乡镇中学做音乐老师。现在，她最烦别人让她唱《那些花儿》，高考后，她再也唱不出纪录片《高三》里的感觉了</span></p>
+<p>谢怡，纪录片里那个唱《那些花儿》的女孩，发现人拥有超乎我们想象的「习惯」的能力。她在龙岩市区长大，从集美大学毕业后，先在厦门一所小学做了一段时间的代课老师，2011年为了编制，考回龙岩的一个乡镇中学做音乐老师。乡下学校的种种破败让她失落极了。开学的第一天晚上，回家之后，她一边洗澡一边大哭。</p>
+<p>现在她惊讶地发现，自己竟然在不知不觉中习惯了，适应了。甚至不愿离开这儿了，而当初她觉得到这所学校任教是人生最错误的选择。</p>
+<p>听着像温水煮青蛙的故事。一种温柔的残酷。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-8.png?resize=570%2C380" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-8.png?w=570 570w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-8.png?resize=300%2C200 300w" sizes="(max-width: 570px) 100vw, 570px" data-recalc-dims="1"><br><span>班长钟淑梅在一家汽车4S店任人事行政部门的经理，她曾经的理想是做一名女市长</span></p>
+<p><strong>高三十年后</strong></p>
+<p>高三的印记现在仍然以不同的方式留在高三七班同学们的生活里。谢怡会给班上的学生们讲王老师当年讲过的话，比如，「辛苦这一年，开心一百年」。肖兴旺会把「我都不行，你们行吗，笑死掉了」作为自己的口头禅。纪录片里那个参加入党积极分子大会的班长钟淑梅一直把王老师那句「什么阶段做什么事情」记在心里。</p>
+<p>很多人好奇，这么多年过去了，他们还相信——高考改变命运吗？</p>
+<p>接受我们采访的同学们无一例外地回答：相信。满意自己的现状的，他们感谢高考，比如罗艳。对自己现状不满意的，他们反思导致这一切的根源——高中时不够努力，不够拼，比如肖兴旺。</p>
+<p>导演周浩也相信。在拍纪录片时，他劝沉迷于网络游戏的钟生明：在中国现有体制下，如果上了大学，打个比方，你成功的概率有20%；如果你没上大学的话，也许能成功，但成功的概率只有5%。</p>
+<p>班主任王锦春更是从未动摇。在他看来，没有上大学而成功的，终究只是特例，不值一提。至于社会上流行的拼爹现象，对他的信仰更是构不成丝毫的威胁。因为——</p>
+<p>我教的学生大多数都是无爹可拼的。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-9.png?resize=569%2C425" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-9.png?w=569 569w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-9.png?resize=300%2C224 300w" sizes="(max-width: 569px) 100vw, 569px" data-recalc-dims="1"><br><span>2010年4月，毕业于武平一中2005届高三七班的刘伟辞职创业，现在他在广州和佛山分别拥有两家小公司。他是班上成绩最好的学生，但现在回首高三，仍嫌自己当年不够拼</span></p>
+<p>两个小故事。</p>
+<p>2009年，福建省文、理科状元分别出自王锦春任教的两个班。他回忆起最令自己快乐的事情时，这是最重要的一件。</p>
+<p>王锦春说，后来县里有一段时间开始广泛流传一个谣言：这两个分别在北大和清华读书的状元都因为在大学里读不下去退学了。还有的说，他们得了精神分裂症。好多人向王锦春打听，听说你教的那两个状元都退学了，是吗？</p>
+<p>无独有偶，在我的老家也发生过这样的事情。我的高中母校1998年建校，历史不长。在建校的第4年，出现了第一个考上北大的同学，轰动一时。一年多以后，老家开始有传言说，这位考上北大的学姐，因为成绩跟不上，而且只会死读书，什么才艺都没有，在北大待不下去，退学了。当时这个传言也是人尽皆知。后来当然证实纯属子虚乌有。</p>
+<p>中国的故事，连谣言都能如此雷同。真是有意思。</p>
+<p>（感谢实习生朱艺艺、李晓磊协助采访，文中所述的纪录片《高三》为138分钟完整版。感谢王越、钟弘欣、刘伟、莫晓兰、冯银婧等武平一中高三七班同学在采访中提供的帮助）</p>
+<p>本文系《人物》新媒体原创稿</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%BA%BA%E7%89%A9-%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E8%BF%87%E5%8E%BB%E4%BA%86%EF%BC%8C%E4%BB%96%E4%BB%AC%E8%BF%98%E7%9B%B8%E4%BF%A1%E9%AB%98%E8%80%83%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E9%AB%98%E4%B8%89%E3%80%8B%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">《高三》纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">教育不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">教育制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%BF%E7%94%B5%E7%8B%97%E8%85%BF%E5%AD%90%E5%B9%B2%E7%9A%84%E8%BF%99%E4%B9%88%E5%8D%96%E5%8A%9B%E4%B8%BB%E5%AD%90%E8%BF%98%E6%98%AF%E4%B8%8D/" target="cdt-mirror">【网络民议】广电狗腿子干的这么卖力主子还是不满意啊</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg?resize=300%2C225" alt="赵家人的狗" data-recalc-dims="1"></a><br><span>网络图片</span></p>
@@ -118,7 +211,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97/?category=18271" rel="tag">何韵诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E8%94%BB/?category=18271" rel="tag">兰蔻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9B%B9%E9%9B%85%E5%AD%A6%EF%BC%9A%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E2%88%99%E5%9C%9F%E8%B5%AB%E6%8F%90%E6%95%99%E6%8E%88%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%BE%97%E8%90%A8/" target="cdt-mirror">曹雅学：伊力哈木∙土赫提教授为什么应得萨哈罗夫自由思想奖</a>
 </h2>
@@ -146,7 +239,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E7%BB%B4%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">汉维矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%85%A8%E5%9B%BD%E6%9C%80%E4%B8%A5%EF%BC%9F%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E5%8A%9E%E6%8A%A4%E7%85%A7%E8%A6%81%E9%87%87%E9%9B%86dna/" target="cdt-mirror">美国之音｜全国最严？新疆伊犁办护照要采集DNA</a>
 </h2>
@@ -602,47 +695,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%9D%92%E5%B1%B1%E9%81%AE%E4%B8%8D%E4%BD%8F-%E6%AF%95%E7%AB%9F%E4%B8%9C%E6%B5%81%E5%8E%BB/" target="cdt-mirror">【网络民议】青山遮不住 毕竟东流去</a>
-</h2>
-<p><p>6月6日，央视网报道了习近平出席某中美交流仪式时引用辛弃疾宋词“青山遮不住，毕竟东流去”来比喻中美新型大国关系。不过这则诗句的引用有网友认为并不算恰当，原句在整篇词中，整体意涵是消极的，同时有哀叹时代兴亡、不满当政者之意。但是也有网友认为这一句的引用并无不妥。</p>
-<p>@央视新闻 :【习近平引用宋词妙喻中美新型大国关系】今天上午，习近平出席第八轮中美战略与经济对话和第七轮中美人文交流高层磋商联合开幕式并致辞。他引用辛弃疾宋词“青山遮不住，毕竟东流去”妙喻中美新型大国关系：历经多少曲折，都将奔流到海。 视频<a href="http://t.cn/R5tBfeM">地址</a></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xi.jpg?resize=473%2C245" alt="xi" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xi.jpg?w=473 473w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xi.jpg?resize=300%2C155 300w" sizes="(max-width: 473px) 100vw, 473px" data-recalc-dims="1"></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>@lijiansion：习近平引用辛弃疾宋词“青山遮不住，毕竟东流去”妙喻中美新型大国关系。看来写稿子的人里面也出反贼了。</p>
-<p>@黄衣之王我猫葳：给工农兵大学生写稿子的秘书一定是反贼。</p>
-<p>@顾扯淡：这尼玛诅咒亡国啊，放在清朝至少三族。</p>
-<p>@部落勇士雪风号：西北望长安，可怜无数山。</p>
-<p>@智人_IRAMATSU：突然觉得年轻时的教育机会好重要，长者不知道高到哪里去了。</p>
-<p>@MakrovChan：【简析】 宋高宗建炎三年（1129），由于南宋小朝廷腐败无能，金兵趁机大举南侵。作者路过皂口见景生情，由郁孤台下的江水联想到当年逃难人民的血泪，想到沦陷的中原，禁不住产生了江山易主却无法收复的悲痛。这首词含蓄地表达了作者对南宋统治集团屈辱求和这一错误政策的不满。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%9D%92%E5%B1%B1%E9%81%AE%E4%B8%8D%E4%BD%8F.jpg?resize=500%2C456" alt="青山遮不住" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/青山遮不住.jpg?w=830 830w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/青山遮不住.jpg?resize=300%2C274 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/青山遮不住.jpg?resize=768%2C700 768w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>@Ray尼小馬：这个时候的我分外想念长者。</p>
-<p>@张亚超99：青山遮不住，毕竟东流去。引用时表示历史发展是必然趋势，任何势力也不能阻挡。哪里引用不对了，中美无论历经多少曲折，都将建立新型大国国际关系。</p>
-<p>@张大帅爱吃肉：「青山遮不住，畢竟東流去。」這兩句詞內涵很深，表面上是說青山擋不住滾滾的江水，畢竟還是繼續向東流去，青山可以遮斷人們的視線，但卻阻攔不了人們對中原淪陷地區的關懷與想念之情。延伸的去理解則比喻任何惡勢力都不能改變社會發展的必然規律，也能用來說明歷史的潮流不可阻擋。</p>
-<p>@哈哈哈哈哈：活在长者阴影之下</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/607143709.jpg?resize=437%2C510" alt="607143709" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/607143709.jpg?w=437 437w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/607143709.jpg?resize=257%2C300 257w" sizes="(max-width: 437px) 100vw, 437px" data-recalc-dims="1"></p>
-<p>@herbivore_man：青山遮不住，毕竟东流去。那么多人都说是再多阻碍也会归于大海的意思。我表示反对，我认为这跟“风流总被雨打风吹去”是一个意思，就是掰掰了，往日的盛况已不在，江河日下，是消极的意境。</p>
-<p>@雨墨寒：无数青山虽可遮住长安，但终究遮不住一江之水向东流。比较含蓄的表达了辛弃疾对抵抗外敌，光复山河的坚定意志。现在这两句用来说明历史的发展是不以人的意志为转移的。天下的大江大河千回百转，历经多少曲折，最后都会奔流到海。国家坚定方向推动中美关系建设。我觉得这两句用的还挺合适的。</p>
-<p>@this回复有毒：我们不生产诗词，我们只是各完蛋王朝的搬运工。</p>
-<p>@尘过微：马上教材就要改了，网上所有的解析也要全部改。</p>
-<p>@penny包：央视原微博居然关评论了，以后要强制性规定官媒不许关评论。</p>
-<p>@村口的王麻子： 不背书名 改背宋词了 厉害厉害</p>
-<p>@damyata：青山东流去，毕竟遮不住。</p>
-<p>@哥哥和blue：其实就是，一个懂政治的说你不懂语文，一个懂语文的说你不懂政治。中国古诗词的迷人之处就是，字面可以表达一个意思，字面后可以表达另外完全不同的意思。这首词讽刺的是宋的腐败无能求和偏安，最后国家被蚕食分裂。用这首词警示现在的中国政府和人民有什么不可以的呢？</p>
-<p>@浮浮浮浮浮生：这句话本身没错，只是这整首词的意蕴有些玩味。</p>
-<p>@vimer201506：说为了表现历史趋势无法阻挡的，为毛不用近现代伟大诗人的两句”天要下雨，娘要嫁人”？</p>
-<p>@Ericni_A：那么多诗词偏偏选出来两句有争议的。</p>
-<p>@新星新丶：引用个诗句都上大新闻。</p>
-<p>@Grootearl：这句词的意思是: GFW 可以阻挡我们登陆网站，却挡不住人们憧憬自由的心。</p>
-<p>@Lee贱人：其实诗词引用没啥对错的，只是领导人的讲稿有了这种争论这本身就失职了。</p>
-<p>@地刺Principle-First：青山遮不住，毕竟东流去。辛弃疾身处腐宋之世，有心杀敌，但无力回天，正是这样残酷的经历，使他对世事洞察彻底。历史大潮可谓浩浩荡荡，汹涌东去，势不可挡，既使几座青山使它拐几个弯，但直泄东海的大势是任何人也改变不了的。 #敌在中南海系列</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E9%9D%92%E5%B1%B1%E9%81%AE%E4%B8%8D%E4%BD%8F-%E6%AF%95%E7%AB%9F%E4%B8%9C%E6%B5%81%E5%8E%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%8B%E8%AF%8D/?category=18271" rel="tag">宋词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E7%94%A8%E8%AF%97%E5%8F%A5/?category=18271" rel="tag">引用诗句</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%9B%E5%BC%83%E7%96%BE/?category=18271" rel="tag">辛弃疾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%92%E5%B1%B1%E9%81%AE%E4%B8%8D%E4%BD%8F/?category=18271" rel="tag">青山遮不住</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -654,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -664,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

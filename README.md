@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91-%E7%AB%A0%E6%96%87%EF%BC%9A%E4%BB%8A%E5%A4%A9%E4%B8%8D%E8%83%BD%E5%83%8F%E5%B1%88%E5%8E%9F%E9%82%A3%E6%A0%B7%E7%88%B1%E5%9B%BD/" target="cdt-mirror">东网 | 章文：今天不能像屈原那样“爱国”</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-10-at-%E4%B8%8A%E5%8D%8811.53.11.png?resize=565%2C400" alt="Screen Shot 2016-06-10 at 上午11.53.11" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-10-at-上午11.53.11.png?w=565 565w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-10-at-上午11.53.11.png?resize=300%2C212 300w" sizes="(max-width: 565px) 100vw, 565px" data-recalc-dims="1"></p>
+<p>端午节吃粽子，又想起屈原来。屈原素来被誉为“爱国诗人”，这个称谓放在那个家国一体的时代是对的，但放在现代则是有问题的。“国”是谁的以及怎样才算“爱国”，不同的体制下是有本质区别的。</p>
+<p>在屈原生活的那个战国末年，七国都是私人王国，屈原效力的楚国当时就是楚怀王的，属于他的家族。要论“爱国”，肯定没有人比楚怀王更爱国。满腹才华的屈原名声遍及七国，按照当今的说法应该是被猎头公司热捧的人物，其他六国肯定恨不得把他挖过去以抽去楚国的栋梁。事实上，除了认死理的屈原外，当时也的确有不少在本国遭遇冷遇的“高才”跳槽到他国获得优待的。</p>
+<p>然而楚怀王能离开楚国么？只有一种可能，就是楚国被灭，他本人以及他的家族从此告别锦衣玉食、沦为阶下囚。国家之亡对于他这样的统治者，是确确实实地意味着由主子变成了奴隶，他就真的成为“亡国奴”了。史载北宋灭亡后徽钦二帝及其王族家人们的悲惨遭遇，可谓“血泪斑斑”！居国失国，祸福悬殊，你说皇帝们怎能不“爱国”？</p>
+<p>而从老百姓的角度看，虽然他们无法选择自己在什么国出生，但其实对于国家的概念很淡薄。他们更在乎自己的小日子，至于庙堂之上的国家大事不是他们能够参与的，也就不会关心。</p>
+<p>如果遇上一个暴君，弄得日子很难过下去，老百姓会有三个选择：第一，继续像奴隶一样忍受；其次像陈胜吴广那样揭竿造反；第三，期待他国义师来解救自己。</p>
+<p>显然后两者不是“爱国”的表现，尤其是第三种看上去简直就是叛徒。但在中国历史上这样的情形时常发生。早在两千多年前，当齐国攻下燕国时，发现燕国百姓箪食壶浆迎接齐军。孟子对齐宣王解释说，燕国人这样做不过是想摆脱他们那水深火热的日子罢了。</p>
+<p>还是在同一时期，邹国与鲁国交战，百姓看着邹国长官被杀而幸灾乐祸，让邹穆公很生气。但孟子说：“丰收时你巧立名目横征暴敛，灾年你守着满仓粮食，却让百姓饿殍遍地，还须唱歌赞美你，既然国家是你一个人的，它的生死存亡又与百姓何干？”</p>
+<p>100多年前第一次鸦片战争中，英国舰队突破虎门要塞、沿着珠江北上的时候，江两岸数以万计的当地居民以冷漠的神情注视着自己的朝廷与外夷的战事，好似在观看一场表演，当挂青龙黄旗的官船被击沉清军纷纷跳水，两岸居民竟然发出像看马戏看到精彩处的嘘嘘声。60年后（1900年8月14日）八国联军进攻北京城，不少清朝老百姓帮助搭梯子。</p>
+<p>“国不知有民，民亦不知有国”。我非常赞同孟子的观点，对于毫不关心百姓死活的王朝，且不说不为它打仗卖命，就是像燕国、清朝百姓那样迎接侵略者又如何？</p>
+<p>在今天的和平年代，一国侵略另一国的可能性几乎没有。更多的是因为某国政权被暴君窃取、鱼肉其民而被国际社会干预。被干预的其实都不是国家，而是某个政权，准确地说是某个依靠私家军队的统治集团。当这个统治集团被摧垮，不再有能力危害人类社会的时候，干预也就停止了。</p>
+<p>如此国际潮流下继续渲染抗击外敌的“爱国主义”，既不符合国际合作与发展的主流，也不利于外交工作。但若有人还要这样做，则一定有所企图，列宁知晓他们的动机：“每当一个国家的政治、经济出现重大危机的时候，爱国主义的破旗就又散发出臭味来”。</p>
+<p>那么“爱国主义”还该不该继续倡导呢？怎样才算真正“爱国”呢？我认为不宜多谈对外的“爱国主义”，而该重点讨论对内的“爱国主义”。所谓“对内的爱国主义”，一言蔽之，就是保护民众权益不被政府侵害。</p>
+<p>中华人民共和国宪法明确规定，国家的一切权力属于人民。人民当家作主的国家，也就是“人民主权”国家。热爱人民，即是热爱这个国家。损害人民，也就是在损害这个国家。故潘恩说：爱国者的责任就是保护国家不受政府侵犯。</p>
+<p>在人民主权国家，人民是主人，政府是仆人，主人雇请仆人提供服务，有权对服务质量“说三道四”，有权更换不合格的仆人。当统治者背叛了对人民的承诺，变人民共和国为一家一集团之私有，人民就可以群起抗争，将国家从一家一集团手中解救出来。这在我看来，才是真正的“爱国”。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91-%E7%AB%A0%E6%96%87%EF%BC%9A%E4%BB%8A%E5%A4%A9%E4%B8%8D%E8%83%BD%E5%83%8F%E5%B1%88%E5%8E%9F%E9%82%A3%E6%A0%B7%E7%88%B1%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91/?category=18271" rel="tag">东网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%A0%E6%96%87/?category=18271" rel="tag">章文</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E5%8D%88%E8%8A%82/?category=18271" rel="tag">端午节</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/x%E5%8D%9A%E5%A3%AB-%E6%AE%8B%E9%85%B7%E5%BA%95%E5%B1%82%E7%89%A9%E8%AF%AD%EF%BC%9A%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/" target="cdt-mirror">X博士 | 残酷底层物语：一个视频软件的中国农村</a>
 </h2>
 <p><p><strong>编辑注：该文发布后，截止北京时间6月10日15时，该文的微信公号已被销号，而腾讯网官方转载此文的<a href="http://ent.qq.com/a/20160608/060280.htm">页面</a>也显示“404 文章找不回来了”，原文被消失原因未知，文章仅代表一种声音。</strong></p>
@@ -720,7 +745,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97/?category=18271" rel="tag">何韵诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%93%A5%E5%9C%A8%E5%8C%97%E4%BA%AC%E8%A1%97%E5%A4%B4%E7%B4%A2%E8%A6%81%E6%8B%A5%E6%8A%B1/" target="cdt-mirror">【CDTV】日本小哥在北京街头索要拥抱</a>
 </h2>
@@ -731,28 +756,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 <a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%93%A5%E5%9C%A8%E5%8C%97%E4%BA%AC%E8%A1%97%E5%A4%B4%E7%B4%A2%E8%A6%81%E6%8B%A5%E6%8A%B1/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中日关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3/?category=18271" rel="tag">和平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%84%E6%84%8F/?category=18271" rel="tag">善意</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E8%A6%81%E6%8B%A5%E6%8A%B1/?category=18271" rel="tag">索要拥抱</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%A6%99%E6%B8%AF%E5%AD%A6%E8%BF%90%E9%A2%86%E8%A2%96%E9%BB%84%E4%B9%8B%E9%94%8B%E7%AD%89%E5%9B%9B%E4%BA%BA%E8%8E%B7%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E6%97%A0%E7%BD%AA/" target="cdt-mirror">自由亚洲｜香港学运领袖黄之锋等四人获法院裁定无罪</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8bb7548c-b503-4204-b780-86a6fec09d0e.jpeg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8bb7548c-b503-4204-b780-86a6fec09d0e.jpeg?resize=550%2C413" alt="烧白皮书案宣判，学运领袖黄之锋等四人无罪。（忻霖摄影）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8bb7548c-b503-4204-b780-86a6fec09d0e.jpeg?w=622 622w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8bb7548c-b503-4204-b780-86a6fec09d0e.jpeg?resize=300%2C225 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>烧白皮书案宣判，学运领袖黄之锋等四人无罪。（忻霖</span>摄影）</p></div>
-<p>6月7日，香港东区裁判法院裁定，有关前 “学民思潮”召集人黄之锋等四人2014年6月，因在中联办外焚烧“一国两制”白皮书道具等行为，被控3项阻差办公罪全部不能成立。</p>
-<p>前学民思潮召集人黄之锋、学联前秘书长罗冠聪、人民力量立法会议员陈伟业及社民连副主席黄浩铭前年6月,在中联办门外焚烧”一国两制”白皮书的道具时，涉嫌阻挠在场警员执行灭火职务而被捕。4人早前被裁定3项“阻差办公罪”表证成立，6月7日在东区裁判法院裁决，全部被告罪名不成立。</p>
-<p>罗冠聪的助手接受本台采访时称：“所有的罪名是不成立的。”</p>
-<p>记者：“这个结果满意吗？”</p>
-<p>助手：“都是满意的。”</p>
-<p>关注事件的青年公民党成员李俊晞告诉本台：“当局拘捕控告他们，只会激发人们对政府更不满。”</p>
-<p>裁判官指，当时警员灭火有急切性。陈伟业和黄浩铭阻挠警员灭火是阻挠警员正当执行职务。但认为，两名被告当时未必知道警员身份，所以未能证实两名被告是故意阻挠警员执行职务。</p>
-<p>对于指控黄之锋及罗冠聪被指阻挠警长前行向示威召集人了解状况，裁判官李绍豪认为，罗冠聪因站立位置一直背向警方，不排除他并非故意阻路；而黄之锋曾4次望向警长方向，并移动身体阻挠，行为虽不恰当，但未达阻挠程度。</p>
-<p>至 于黄之锋抢警员水壶，引起群众起哄指骂警员，裁判官指黄之锋的行为无挑动群众对警方的不满，或引起他人注意，黄当时只是位处示威现场的一角，不能因为他是 公众人物就要为其他人起哄负责，群众的反应是他难以预计的无意图造成混乱，行为最多构成不便，未至于阻差办公。但黄之锋应反省自己的所作所为是否恰当。</p>
-<p>对此，脱罪的社民连副主席黄浩铭告诉本台，虽然已经获得无罪判决，但结果不值得开心：</p>
-<p>“这 个裁判官的判词是比较公道严谨的，但是我觉得这不值得我们开心，因为这个裁判官他的判决反应到律政司滥用权力，也是我们应该关注的事情。我看不到所谓的警 民关系会改善的情况出现，可能在未来的日子里面还可能会更差。如果这个政权不做出改变的话，比如说有一些政策政府是需要改变的，比如说保障我们的劳工要有 标准工时等等，但比如说有一次标准工时委员会委员开闭门会议，我们有一些劳工的团体找他们出来，他们最后也是用警察来当他们的盾牌。”</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%A6%99%E6%B8%AF%E5%AD%A6%E8%BF%90%E9%A2%86%E8%A2%96%E9%BB%84%E4%B9%8B%E9%94%8B%E7%AD%89%E5%9B%9B%E4%BA%BA%E8%8E%B7%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E6%97%A0%E7%BD%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%81%94%E5%8A%9E/?category=18271" rel="tag">中联办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E4%B9%8B%E9%94%8B/?category=18271" rel="tag">黄之锋</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
@@ -767,7 +770,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -777,5 +780,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,266 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/x%E5%8D%9A%E5%A3%AB-%E6%AE%8B%E9%85%B7%E5%BA%95%E5%B1%82%E7%89%A9%E8%AF%AD%EF%BC%9A%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/" target="cdt-mirror">X博士 | 残酷底层物语：一个视频软件的中国农村</a>
+</h2>
+<p><p><strong>编辑注：该文发布后，截止北京时间6月10日15时，该文的微信公号已被销号，而腾讯网官方转载此文的<a href="http://ent.qq.com/a/20160608/060280.htm">页面</a>也显示“404 文章找不回来了”，原文被消失原因未知，文章仅代表一种声音。</strong></p>
+<p>1927年3月5日，毛泽东同志发表了关于中国农村局势分析的宏文——《湖南农民运动考察报告》。如果毛主席生活在今日的话，他不必花几个月的时间去走访农村，只需扒拉扒拉快手这个app，就能了解中国乡村的精神面貌了。</p>
+<p>也许朋友你从来没有听说过快手这个软件，但事实上我要告诉你一个吃惊的数据，这个app是中国流量第四大的手机应用，仅次于新浪微博，日活量一千多万。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358891.jpg?resize=638%2C113" alt="2016年3月的app流量数据" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358891.jpg?w=638 638w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358891.jpg?resize=300%2C53 300w" sizes="(max-width: 638px) 100vw, 638px" data-recalc-dims="1"><p>2016年3月的app流量数据</p></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358892.jpg?resize=546%2C410" alt="据2015年统计，快手是中国第一大短视频应用" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358892.jpg?w=546 546w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358892.jpg?resize=300%2C225 300w" sizes="(max-width: 546px) 100vw, 546px" data-recalc-dims="1"><p>据2015年统计，快手是中国第一大短视频应用</p></div>
+<p>当你打开这个神秘的软件，肯定会纳闷这个低俗、简陋、粗糙的app为什么是中国第一视频app？因为其用户人群是海量的乡村人口。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358893.jpg?resize=470%2C837" alt="快手基本页面一览" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358893.jpg?w=470 470w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358893.jpg?resize=168%2C300 168w" sizes="(max-width: 470px) 100vw, 470px" data-recalc-dims="1"><p>快手基本页面一览</p></div>
+<p>而且，当打开快手时，你能看到一个个自虐视频、低俗黄段子、和各种行为怪异的人。即使你没有毛主席的洞见能力，凭直觉就能感到其中充满了残酷而荒诞的场景，令人不适，隐约看到了我们这个光鲜时代的暗面。</p>
+<p><strong>自虐残酷物语</strong></p>
+<p>其实在前几天，快手这个app就火了。一个河北大妈自虐吃异物（包括灯泡、蠕虫、玻璃）的视频浮上网络，观众被其中的疯癫和残酷吓了那么一跳，讨论了一天后，然后遗忘。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358897.jpg?resize=557%2C367" alt="快手上的大妈自虐视频" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358897.jpg?w=557 557w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358897.jpg?resize=300%2C198 300w" sizes="(max-width: 557px) 100vw, 557px" data-recalc-dims="1"><p>快手上的大妈自虐视频</p></div>
+<p>大家只会把这个当作一个猎奇的花边新闻，却不会深究其背后的深入背景。事实上，这种视频在快手里屡见不鲜，这不是个例，而是一个群体，一个庞大的在快手上自虐的群体。</p>
+<p>在快手上，最容易火的一招就是自虐。所以上面充斥着自虐的视频:自虐式喝酒、自虐式吃东西、炸裤裆、跳冰河。如果不加解释，你一定以为这是一个地下电影（snuff film）或是b级片的片段。</p>
+<p>自虐炸裆：这个叫做二哥的河北滦县农民是快手上的一个红人，坐拥50多万粉丝，他能在快手红的特技就是每隔个几天放个鞭炮炸裤裆或者跳冰河的视频。而且在他红了之后，快手有一大批效仿其特技的接班人，而且在他的基础上进行升级——如活埋＋炸裤裆。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/huihui.gif?resize=323%2C392" alt="自我炸裆的二哥" data-recalc-dims="1"><p>自我炸裆的二哥</p></div>
+<p>自虐喝酒：这也是快手上的一大门类，有不少红人是靠一口气猛灌白酒火的，我给你看一个我认为其中最猛的——山东小闯，他几乎每天发一个这样的视频，每看他的眼神，我感觉只有四个字：不要命了。</p>
+<p><strong>山东小闯</strong></p>
+<p>自虐吃东西：狂嚼大猪头、一口气吃光半米长猪大肠、生吃一管芥末都是快手中自虐吃货的基本标配。更狠的人表演生吃死猪、生吃蛇、生吃蛆、生吃x，其中有个ID叫小胜的十几岁小孩吃的最狠，靠此吸了近百万粉丝。过于恶心，我就不上视频了，你们看看图。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358901.jpg?resize=500%2C666" alt="135358901" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358901.jpg?w=500 500w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358901.jpg?resize=225%2C300 225w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><p>活吃蛇</p></div>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358902.jpg?resize=362%2C487" alt="生吃病死猪" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358902.jpg?w=362 362w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358902.jpg?resize=223%2C300 223w" sizes="(max-width: 362px) 100vw, 362px" data-recalc-dims="1"><p>生吃病死猪</p></div>
+<p>各种自虐太多，我就不一一扒拉了。</p>
+<p>看完这些视频，你一定觉得这群人就是疯了。但是我相信世界上任何事都是有原因的，我们不能只猎奇，还得想想他们为什么这样。我分析，两个原因。</p>
+<p>一是心里满足：任何人活着，都想获得他人的认可和关注。但是可以想象，自虐视频中的那些主角们，他们都是没有钱、没有文化、没有地位、甚至没有长相的人，他们从小到大基本不可能获得别人的关注和欣赏。假如他们想获得关注和认可，靠什么呢？他们唯一能出卖的就是身体，通过残酷的自虐来获取关注。这个例子在天天吃异物的小胜身上尤其明显，他从小就是个残疾，缺一只手，一直自卑，怕了那种没人搭理、没人瞧得起的感觉。他变本加厉的吃各种恶心的东西，因为他根本不在乎自己的身体，只怕没人关注，像一只猪狗一般，苟活在乡村的一角。</p>
+<p>二是物质原因：从实际角度上，关注度多了，他们就能接一些广告，一些劣质山寨产品的广告。像什么“跟真的差不多的金链子”、“最新组装苹果手机”的广告，一个广告他们能挣个300到几千。他们花尽心思把这些假货推销给他们的粉丝，这钱挣的，荒谬而残酷。</p>
+<p><strong>更残酷的不是自虐，而是快手中儿童的精神世界</strong></p>
+<p>看完上文的自虐篇，你以为快手中最残酷的就是生吃玻璃、蛆、屎吗。错，里面更让人难受的是农村儿童的精神面貌。</p>
+<p>在这里你能看见各种前所未闻的儿童样本：</p>
+<p>这是一个只有八九岁的肥胖小孩，他的特技是模仿社会人抽烟、喝酒、泡妞。而且这些视频都是他妈拍的。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358903.jpg?resize=392%2C537" alt="抽烟喝酒的快手红人——东北小胖 " srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358903.jpg?w=392 392w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358903.jpg?resize=219%2C300 219w" sizes="(max-width: 392px) 100vw, 392px" data-recalc-dims="1"><p>抽烟喝酒的快手红人——东北小胖</p></div>
+<p>你还能看见一个十二三岁的少年鼓王，他已经辍学，跟着戏班子在广袤的乡村丧事大舞台迸发能量，自由张狂。</p>
+<p>你还能看见一个个不到十岁的小孩和父母一起演出黄段子小品。</p>
+<p>在快手上你还能看到海量公开秀恩爱的小孩子，他们打啵、秀恩爱、秀怀孕，其中的最小的孕妇十五岁。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358905.jpg?resize=446%2C301" alt="十五岁的准妈咪" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358905.jpg?w=446 446w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358905.jpg?resize=300%2C202 300w" sizes="(max-width: 446px) 100vw, 446px" data-recalc-dims="1"><p>十五岁的准妈咪</p></div>
+<p>这样的儿童我不能穷尽。相信每一个看过的人，都会对这里面小孩子的不正常早熟和粗鄙感到不适。这些小孩子怎么是这个样子的呢？这些孩子的父母都干嘛去了？这其实是农村教育衰落的外在体现。</p>
+<p>关于中国农村教育情况，我再给你一个不乐观的数据了解其现状。2016年，中国农业政策研究中心基于四个省24931名农村中学生的数据，得出结论：农村地区整个中学阶段（初中、高中和中等职业学校）的累计辍学率高达63%。</p>
+<p>比这个数据更严重的是，现在很多乡村少年辍学并不是因为穷的上不起学，而是他们的家长和自己都打心眼里觉得读书没什么卵子用！读书一是难，二也是没见读书的多挣几个钱。而早早出去打工，或者做个牛逼哄哄的社会人岂不乐哉？所以他们农村少年大量早早脱离学校，成了快手中那些自由轻狂的红人。</p>
+<p>再者，教育分为三部分，学校教育，社会教育，家庭教育。在农村根本就没有城市儿童成长的家庭和社会环境。农村儿童父母本身的素质和见识就不高，有的甚至就一直在外面打工，根本管不了孩子。所以缺乏文化生活滋养、缺乏监护的乡村儿童，自然天天接触的就是那些原始、粗鄙、野蛮的东西。</p>
+<p>儿童最擅长模仿的，他们会模仿心中的榜样。他们表现的早熟，说明他们急迫的需要长大，融入他们所理解的成人社会——那个丛林主义、胜者为王的社会。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358906.jpg?resize=362%2C493" alt="快手上15、6岁就纹满全身的孩子，他感觉自己已经是个社会人了" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358906.jpg?w=362 362w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358906.jpg?resize=220%2C300 220w" sizes="(max-width: 362px) 100vw, 362px" data-recalc-dims="1"><p>快手上15、6岁就纹满全身的孩子，他感觉自己已经是个社会人了</p></div>
+<p><strong>社会就是丛林主义、胜者为王</strong></p>
+<p>想要考察农村的精神状态，就得了解乡村最流行的文娱活动。不少没去过农村的小清新一厢情愿的将农村的文化活动想成淳朴田园诗的景象——唱着山歌或扭扭秧歌？错了，当代农村最热最火的文娱活动是喊麦。</p>
+<p>我无法用简单的言语描述喊麦这种艺术形式，如果把他说成农村说唱，估计很多北京的rapper会不高兴。不管如何，喊麦这种形式火遍中国农村，其中最出名的喊麦王者就是mc天佑。他之所以火，不是长得帅，唱功好，而是他的歌词的确直击众多乡村少年们的心声，说透了在社会上混的奥秘与真谛，引起了广泛的共鸣。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358908.jpg?resize=553%2C391" alt="mc天佑" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358908.jpg?w=553 553w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358908.jpg?resize=300%2C212 300w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><p>mc天佑</p></div>
+<p><strong>mc天佑的哲理金句赏析：</strong></p>
+<p>“现实社会中有一种物资叫金钱，有一种人类叫做女人。在这个社会上很多事情被金钱打翻，在这个社会上金钱打翻了一切。女人,你们天生的美丽为你们换来了一辈子的财富。——《《女人们你们听好了》</p>
+<p>什么叫社会 ，烟都抽不起了 ，酒都喝不上了 ，跟几个朋友去趟迪吧 ，你就觉得你是混社会了吗 ？跟这个哥那个弟的出一趟门 ，你就觉得给人办事了吗 ，看人家抽麻古麻溜点冰 ，你就知道你是吸毒的吗 ，穿的破衣娄嗖 ，袋里揣把小刀你就觉得你是杀手了吗 ？——《送给在社会上混的朋友》</p>
+<p>再给你们听俩首天佑的代表作：</p>
+<p>十年戎马心孤单</p>
+<p>MC天佑 – 空</p>
+<p>曾经的王</p>
+<p>MC天佑 – MC天佑单曲集</p>
+<p>听完天佑的歌，我发现一个很奇怪的现象，就是这些生活眼界并不宽广的mc，歌词里却充满了什么称王、称霸、成仙、成龙、江山、成大事、做英雄的信息；他们的歌中布满了曾经的王者和受伤的英雄。这些王者的原型指的都是啥样的人呢？后来我明白了，在他们的世界里面，那些王者就是在社会上有面子、有钱的社会狠人。具体来说，第一帅的就是刘华强，第二帅的就是陈浩南。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358911.jpg?resize=561%2C329" alt="刘华强" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358911.jpg?w=561 561w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358911.jpg?resize=300%2C176 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358911.jpg?resize=80%2C48 80w" sizes="(max-width: 561px) 100vw, 561px" data-recalc-dims="1"><p>刘华强</p></div>
+<p>除了快手上最流行的社会喊麦，还流传着一种家国情怀的喊麦，比如这首mc的《杀光日本人》。其中有一句最震撼人心：就算中国遍地坟，也要杀光xx人。</p>
+<p>钓鱼岛是中国的</p>
+<p>MC九魂 – Mc</p>
+<p>总的来看，喊麦里面充满了一种和文明、现代化完全格格不入的野蛮情绪——拥有了钱和暴力就是拥有了一切，世界真理就是你压倒我或者压倒你。再往深处我们可能会发现更令人惊讶和悲观的观点，天平天国、义和团不就是在这种充满前现代思维、暴力萌芽的土壤中产生的吗？</p>
+<p>正如美国学者罗威廉在《红雨:一个中国县域七个世纪的暴力史》一书中所说：中国的乡村一直酝酿一种暴力的种子。说来说去，中国基层社会从古至今的精神世界摆脱不了这八个字：暴力崇拜、胜者为王。不一样的人，一样的味道。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358912.jpg?resize=498%2C381" alt="135358912" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358912.jpg?w=498 498w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358912.jpg?resize=300%2C230 300w" sizes="(max-width: 498px) 100vw, 498px" data-recalc-dims="1"></p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358913.jpg?resize=559%2C416" alt="135358913" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358913.jpg?w=559 559w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358913.jpg?resize=300%2C223 300w" sizes="(max-width: 559px) 100vw, 559px" data-recalc-dims="1"><p>义和团和快手第一当红组织天安社的对比</p></div>
+<p><strong>被遗忘的乡村</strong></p>
+<p>根据2010第六次人口普查，农村人口有6.74亿，几乎占中国一半的人口。但看了这么多快手中的人和事，你能说农村中的审美和价值取向是中国的主流吗？你在当代的主流媒体中见过很多关于农村的报道和描述吗？</p>
+<p>其实仔细想想，主流世界都把视角聚焦在跑的飞快的一线城市，而把农村和来自农村的人忘在脑后。比如你能想象你家楼下理发店的kavine老师平常在想什么吗？你能想象灯火辉煌的都市中，那些建筑工地的工人在想什么吗？你能想象农村的留守老人和留守儿童的生活是什么样的吗？</p>
+<p>换句话说，6.74亿农村人口的生活状态，没人关注。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358914.jpg?resize=363%2C494" alt=" 这是快手的健身红人：健身小凯，虽然在快手坐拥五六十万粉丝，但他真实的身份是个16岁的厨子。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358914.jpg?w=363 363w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358914.jpg?resize=220%2C300 220w" sizes="(max-width: 363px) 100vw, 363px" data-recalc-dims="1"><p><br>这是快手的健身红人：健身小凯，虽然在快手坐拥五六十万粉丝，但他真实的身份是个16岁的厨子。</p></div>
+<p>看了越多的快手视频，我越发现，快手中的世界和北上广深完全是两个没有共鸣、没有交集的世界。就像是同一张纸上的两个圆圈，虽然在同一个空间，但几乎没有交集，两个圆圈之间也难以流动和沟通。所有的资源、权力都在属于那个北上广深一线城市的圆圈里，而在农村那个圆圈里，虽然人数众多，但资源和机会却少得可怜，两者之间横着看不见的结界。</p>
+<p>正如一个一线城市白领绝对不会喜欢快手中最火的段子，相反在城市刷爆的话题却在快手上一点声音都没，比如快手上关于“欢乐颂”的标签几乎为零。快手中的世界与北上广完全是两个陌生而隔绝的世界，你很难想象一个一线城市的白领和一个快手乡村红人能交流什么，他们的最大相似点似乎只在于都能说中国话。</p>
+<p>但那些农村中的优秀的孩子们，无时无刻不想突破社会结界，到达资源丰饶的那个世界。而且他们觉得自己憋着一股劲头，在力量和意志力并不比沿海大城市的中产差！他们在快手上的拼命表现，求关注，本质上就是想靠此穿越结界。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358915.jpg?resize=573%2C426" alt="135358915" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358915.jpg?w=573 573w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358915.jpg?resize=300%2C223 300w" sizes="(max-width: 573px) 100vw, 573px" data-recalc-dims="1"></p>
+<p>庞麦郎就是想要穿越结界的例子。其实在快手上，庞麦郎这样的人并不特殊，也不少见，甚至还会混的很快活。但是在主流世界中，他得到的只能有《惊惶庞麦郎》这种文章的彻骨羞辱。</p>
+<p>比如在知乎上有一些健身大神，以能做“人体旗帜”为荣，并因此被人崇拜。但在快手上，有海量的乡村博主能做更高难度的“人体旗帜”——能在十米高的树上、或在高空建筑工地上做这个动作。其中以此成名最著名红人叫“搬砖小伟”。小伟的社会身份就是一个工地小工，但是他靠着每日更新高难度动作表演在快手上获得了一百多万粉丝。之所以这么拼，他在一个视频里这样说的：我拼命的练肌肉，就是为了能够开好车、泡美女、随便放一个屁别人也觉得是香的。说到底，还是想脱离底层，走向高层。</p>
+<p>但是悲哀的是，就算是最红的搬砖小伟，坐拥100多万多粉丝，但是他在大众视野内的曝光度几乎为零，能掌握的资源能力几乎为零。他的影响力还是在那一百万的乡村粉丝中打转，并不会对主流世界产生一丝波澜，更不会像papi酱一样获得千万投资，成为媒体宠儿。我不知道得知残酷真相的小伟，会是怎样的绝望。</p>
+<p><strong>最后的话</strong></p>
+<p>其实我已经感慨过很多次了，我们今日的时代，真魔幻。</p>
+<p>一边是高铁飞驰，高楼林立的北上广深。一边是快手中混沌沉沦的中国农村。</p>
+<p>两个如黑白一样对称的板块，正好构成了一个完整真实的中国。</p>
+<p>其实我深知，看这篇文章的读者，都不是快手用户，也鲜有乡村人群。可能有很多朋友只是抱着猎奇的视角审视这些来自来自底层的人和事，作为谈资和笑料，甚至觉得这些人、事与我何干呢？</p>
+<p>对此，最后我送给大家一首约翰多恩的诗，这首诗想必会给你答案，慢慢体会。</p>
+<p>《没有谁能像一座孤岛》</p>
+<p>在大海里独踞</p>
+<p>每个人都像一块小小的泥土</p>
+<p>连接成整个陆地</p>
+<p>如果有一块泥土被海水冲击</p>
+<p>欧洲就会失去一角</p>
+<p>这如同一座山岬</p>
+<p>也如同你的朋友和你自己</p>
+<p>无论谁死了</p>
+<p>都是自己的一部分在死去</p>
+<p>因为我包含在人类这个概念里</p>
+<p>因此我从不问丧钟为谁而鸣</p>
+<p>它为我，也为你</p>
+<p><strong>相关阅读：</strong></p>
+<p><a href="http://ent.qq.com/a/20160609/014397.htm">谈谈X博士的刷屏文：一个视频软件的中国农村</a></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/x%E5%8D%9A%E5%A3%AB-%E6%AE%8B%E9%85%B7%E5%BA%95%E5%B1%82%E7%89%A9%E8%AF%AD%EF%BC%9A%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/?category=18271" rel="tag">中国农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81%E5%AA%92%E4%BD%93/?category=18271" rel="tag">主流媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%89%E5%92%8C%E5%9B%A2/?category=18271" rel="tag">义和团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E4%BF%97/?category=18271" rel="tag">低俗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82/?category=18271" rel="tag">基层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E7%BE%8E/?category=18271" rel="tag">审美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%B0%E5%AE%9E%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">现实社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A0%E8%B4%A8/?category=18271" rel="tag">素质</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E8%B5%B0%E5%90%91%E5%85%A8%E7%90%83%EF%BC%8C%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B5%84%E6%89%A9%E5%A4%A7/" target="cdt-mirror">美国之音｜中国“走向全球”，海外投资扩大</a>
+</h2>
+<p><p><em>作者：达斯古普塔</em></p>
+<p>中国“走出去”战略的实施过程中正出现一些引人注目的现象。中国企业在2016年前10周的海外投资要比去年整一年的多。相比2015年的1080亿美元，中国企业至2016年4月中旬的海外投资达到了1100亿美元。</p>
+<p>有分析人士预计，2016年中国公司的海外投资将会是2015年的两倍多。根据中国商务部公布的数据，中国在非金融领域的海外投资增长了14.7%，这意味着增长率几乎是2015年的7倍。</p>
+<p>咨询公司迪罗基推测，中国如果继续以今年第一季度所见的高速度向海外大量投资，将会在今年年底前超过美国，成为世界最大的海外投资国。迪罗基称，中国企业今年已经成交了17笔价值10亿美元的交易。</p>
+<p>中国企业到处投资既是出于商业上的原因，也是为了取悦政府当局。分析人士表示，中国政府正不断地把投资看作是外交工具。中国与各个国家进行的双边会谈通常会包括高达数十亿美元的投资承诺。</p>
+<p>北京大学光华管理学院金融专业副教授赵龙凯告诉美国之音，这里有两种情况。国有企业在政府的鼓励下到国外投资，而私有企业进行海外投资的原因有所不同，但他们都有政府在背后支持。</p>
+<p>赵龙凯还说，由于资本成本较低，中国有很多流动的资金。此外，收购外国企业也是获得新的市场和技术的快捷途径。</p>
+<p>中国投资的项目范围广泛，包括一些对政治有利且敏感的项目，比如核反应堆，类似在斯里兰卡的连接进口海上航道的海港码头以及中国化工集团公司近期以430亿美元全现金收购的瑞士农化和种子企业先正达等。</p>
+<p>分析人士表示，中国政府鼓励海外投资背后受外交政策考虑的驱动。</p>
+<p>一份由国际经济研究公司荣鼎集团和墨卡托中国研究所联合发布的研究报告说，中国急切于平衡越来越多的有关中国对国外商品需求剧减和贸易顺差膨胀的消极观点，因此把海外投资放在重大外交活动议程的首要位置。在与欧盟以及其成员国谈判时，中国外交官也越来越多地把关于投资和其他资本流动的承诺用作为寻求政治优惠待遇的外交手段。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E8%B5%B0%E5%90%91%E5%85%A8%E7%90%83%EF%BC%8C%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B5%84%E6%89%A9%E5%A4%A7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">中国外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 7小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A2%86%E5%AF%BC%E5%BE%88%E5%BF%99%EF%BC%9A%E3%80%8A%E4%BB%8A%E6%97%A5%E8%8E%B1%E5%B7%9E%E3%80%8Bpk%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/" target="cdt-mirror">【立此存照】领导很忙：《今日莱州》PK《人民日报》</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/1341234651/DzzsMCqWx" target="_blank">@辜晓进</a>：【这样的报纸不如不办】自被网友曝光“六.一”标题后，名不见经传的《今日莱州》首次进入大众视线。我也将信将疑，以为有人PS 炒作，马上验证，可惜已查不到该报官网（包括通过其母公司烟台日报传媒集团）。好在有网友陆续贴出该报的其他头版，我也查到当地门户网站引自该报的一些报道，发现该报情况不仅属实，且一贯如此，”市领导“已成该报口头禅，“六.一”版面并非孤例。我好奇的是，自2003年全国报刊大整顿将一大批（100多种）县区级报纸关停后（其中也有办得较好的报纸），作为硕果仅存的少数县级报纸之一的《今日莱州》怎会这个模样（去年总局公布全国只有19种县级报纸）？这种政治上彻底抛弃宣传艺术、业务上完全无视新闻规律、服务上基本不顾读者需求、工作上缺乏起码敬业精神的报纸，在如今这数字化信息时代还能存在，确实颇具讽刺意味。如果当地领导竟默认甚至陶醉于这样的拙劣宣传，更不可思议。</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4ff19ddbgw1f4py9zo2muj20j60pktcp.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4ff19ddbgw1f4py9zo2muj20j60pktcp.jpg?resize=475%2C633" alt="4ff19ddbgw1f4py9zo2muj20j60pktcp" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4ff19ddbgw1f4py9zo2muj20j60pktcp.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4ff19ddbgw1f4py9zo2muj20j60pktcp.jpg?resize=225%2C300 225w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<p><strong>然而，《今日莱州》所谓的“拙劣”也许只是上行下效的结果，《人民日报》才是“领导永远很忙”的标杆。</strong></p>
+<p>下图为曾在网络引起争议的《人民日报》2015年12月4日的头版，因整版只提“习近平”而<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%85%9A%E6%8A%A5%E7%9A%84%E6%97%A5%E5%B8%B8%EF%BC%9A%E4%B9%A0%EF%BC%8C%E4%BD%A0%E6%98%AF%E5%94%AF%E4%B8%80/" target="_blank">遭到网民吐槽</a>：<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B9%A0%E8%BF%91%E5%B9%B33.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B9%A0%E8%BF%91%E5%B9%B33.jpg?resize=475%2C679" alt="习近平3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/习近平3.jpg?w=2100 2100w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/习近平3.jpg?resize=210%2C300 210w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/习近平3.jpg?resize=768%2C1097 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/习近平3.jpg?resize=717%2C1024 717w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<p>上述这种情况其实并不罕见。<strong>以下为近期《人民日报》“领导很忙”头版举例：</strong></p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg?resize=450%2C643" alt="rmrb2016052701" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg?w=1059 1059w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg?resize=210%2C300 210w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg?resize=768%2C1097 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2016年5月27日</span></p></div>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg?resize=450%2C643" alt="rmrb2016042001" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg?w=1059 1059w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg?resize=210%2C300 210w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg?resize=768%2C1097 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2016年4月20日</span></p></div>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg?resize=450%2C643" alt="rmrb2016012301" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg?w=1059 1059w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg?resize=210%2C300 210w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg?resize=768%2C1097 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2016年1月23日</span></p></div>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg?resize=450%2C643" alt="rmrb2016010801" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg?w=1059 1059w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg?resize=210%2C300 210w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg?resize=768%2C1097 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2016年1月8日</span></p></div>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg?resize=450%2C643" alt="rmrb2015121501" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg?w=1059 1059w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg?resize=210%2C300 210w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg?resize=768%2C1097 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2015年12月15日</span></p></div>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg?resize=450%2C643" alt="rmrb2015101401" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg?w=1059 1059w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg?resize=210%2C300 210w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg?resize=768%2C1097 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2015年10月14日</span></p></div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A2%86%E5%AF%BC%E5%BE%88%E5%BF%99%EF%BC%9A%E3%80%8A%E4%BB%8A%E6%97%A5%E8%8E%B1%E5%B7%9E%E3%80%8Bpk%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8A%A5/?category=18271" rel="tag">党报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 7小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/" target="cdt-mirror">【CDTV】深圳警察：把你和艾滋病、小偷、强盗关在一起好好享受！</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/5437011752/DzyUpvPag" target="_blank">@不敢说话的屁民</a>：这是21号发生在深圳宝安西乡流塘大门口的事情，两名女孩出去逛街­，被警察检查身份证…后被依法强制传唤！在去派出所的路上她偷偷录下这么一段视频…</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F.jpg?resize=300%2C529" alt="深圳警察" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/深圳警察.jpg?w=1119 1119w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/深圳警察.jpg?resize=170%2C300 170w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/深圳警察.jpg?resize=768%2C1353 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/深圳警察.jpg?resize=581%2C1024 581w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"></a><br><strong><a href="http://weibo.com/p/2304446fc3f04f706efc0d7a0dac0926fce394" target="_blank">原视频地址</a></strong></p>
+<p><br>
+YouTube<a href="https://youtu.be/y7ItLIFBDPs" target="_blank">备份链接</a></p>
+<p><strong>警察语录：</strong></p>
+<blockquote><p>“脑子有病。我怀疑我是警察，我是假的，假的你也得先配合！你怎么知道我是假的啊？”</p>
+<p>“你必须配合我，你就记住这一条。今天是你自己犯贱！”</p>
+<p>“不用撑多久，我可以关你24个小时。”</p>
+<p>“没有什么怎么说的。关完了你哪里该滚就滚去哪里！”</p>
+<p>“你们不懂法律，我就教教你们，让你们涨涨见识。把你们跟那些个艾滋病，跟那些小偷，跟那些强盗关到一起去，我让你们慢慢地享受我告诉你！你看着吧！”</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/5414476235" target="_blank">@姓陈呀__</a>：深圳派出所：“法律是我说的，我要关你就关你！”现在还有这样的警察？太可怕了，九几年深圳刚改革的时候就听奶奶说，派出所民警打死了人都往河里扔的，然后等群众报警后直接往去火化算失踪人员<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p>@愿你有梦为马_：虽然小时候老师一直教育我们警察叔叔是好人，有事找警察，不过这样的警察真的是好人吗？出了事真的找警察吗？等警察到了罪犯都犯罪完了。</p>
+<p>@牛-啦：这警察好牛呀，威胁把女孩子与吸毒、艾滋病患者和小偷关在一起！我感觉他滥用职权，好像是穿警服的黑恶势力，长此以往，将导致警民关系越来越恶劣！该规范警察执法了！</p>
+<p>@-Vs-Lee-：被气的？这位警察每一句话都说的咄咄逼人，甚至扬言要把她们关到艾滋病强奸犯同一个地方，还说要他们脱衣服？这位真TM的是人民公仆警察典范啊</p>
+<p>@帅去整容：警察叔叔一听说后面录下来了！不吭声啦！有点害怕了吧！</p>
+<p>@淡定肉：工作时间还带那种手串，搞得跟黑社会似的。上班没个上班样，估计上梁也不正</p>
+<p>@张张张张张张智豪：穿警服可以不拿警官证，那坏人穿警服把你抓走了是不是就死定了，公民要身份证，开车要驾驶证，警官当然要警官证来证明自己</p>
+<p>@小李有个自驾西藏梦：喂 王部长在吗 这届屁民不行啊</p>
+<p>@W武晨：第一反应是报警！一想这他妈在警车上啊，好可怕！还有谁可以保护他们？</p>
+<p>@FatAssEric：看到祖国这么流氓我就放心了</p>
+<p>@快-乐-就-好–：开车的说 把你们同艾滋病强奸犯关在一起……好吓人 法外之地。</p>
+<p>@长沙石头咕：他们应该感谢叔叔的不杀之恩</p>
+<p>@yipo小强先生：没招了。 最后又说这是个协警</p>
+<p>@王YZz_：人权呢，不仅仅是吃饱就行了。王外长脸疼么</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">警察国家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 8小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%BD%A0%E8%AF%B4%E4%BB%96%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A%E5%95%8A%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F/" target="cdt-mirror">羽戈：“你说他不行，你行你上啊”错在哪里？</a>
+</h2>
+<p><p>也许我们都曾遭遇这样的情形：批评一个人工作太差劲，如表演不力、教学不力、执政不力，对方反唇相讥：“有本事你来试试！”也许还不待批评对象开口，旁观者便叫道：“你说他不行，你行你上啊！”“you can you up ,no can no bibi！”大有皇帝不急太监急之势。</p>
+<p>就我所见，“你说他不行，你行你上啊”最流行的地方，应是在体育论坛。球迷也许是这世上代入感最强的一个群体，他们为所喜欢的球员与所钟爱的球队辩护，心情之激切，情感之投入，往往无所不用其极。如果有人批评他这一方的球队或球员，除了针锋相对、唇枪舌剑之外，他们还惯用一种反击策略：“你说他不行，你行你上啊！”</p>
+<p>以此为主题，常有诗作诞生，一般这么开头：“球王尽力了，输球不怪他。场场一对五，队友路人甲。”</p>
+<p>这么结尾：“胜败平常事，得失本一家。你说他不行，你行你上啊！”</p>
+<p>此言不知诞生于何时，一直风行至今，无可匹敌。以至常见人求助：怎么破？当辩护者以“你说他不行，你行你上啊”为武器进行反击，批评者往往张口结舌，不知所措。难道无法上阵，就不能批评球员么，只能赞美，抑或无奈沉默？</p>
+<p>其实答案正潜藏于这十个字之间。“你说他不行”，批评是一种“说”，或者说，是一种言论；“你行你上啊”，反击者则转换概念，把论题转移到“上”，即一种行动。这一转换，直接摧毁了批评的边界，不仅是对批评者的苛责，更是对批评本身的颠覆。正常的批评，讲究以观念战胜观念，“你行你上啊”则以反观念的姿态，把批评者拖入无赖的泥沼。</p>
+<p>想必有人会说，批评也是一种行动。然而这里的“行动”，更多指批评的外在一面，与批评所达成的社会效应。就其实质而言，批评只是一种言论，一种话语和观念，与行动泾渭分明，不可混为一谈。借用一个经典的说法，批评是“批判的武器”，行动则属“武器的批判”。再借用一个流行说法，吾国有一流派，曰“口炮党”，但闻其名，便知不是什么好词，不过在我看来，没有哪个词语，比“口炮”更能呈现批评的本相。</p>
+<p>可以把批评理解为一种介入，然而批评者的姿态，恰恰在于旁观，所谓隔岸观火，指手画脚，纵使你对此十分不满、不屑，斥责批评者“吹毛求疵”、“冷眼旁观”、“站着说话不腰疼”，怀有一种“看客的冷漠”，但是谁也没有理由，没有资格，要求批评者必须站在此岸的熊熊火中来立论发言。你可以要求批评者对其批评对象生出一种“了解之同情”，不过了解也好，同情也罢，都只是代入，而非真正的进入。</p>
+<p>有时则连代入都不必。譬如批评政府的决策，我们并无必要代入政府的立场，只须基于公民的本位，遵照公民的意识，直言无讳；甚至并无必要具备“了解之同情”，对公权力的批评，好比一根鞭子，刺多一点，抽得狠一点，未必是坏事。此时，批评者的代入感越强，“为君分忧”的心情越重，批评的效果便可能越弱。</p>
+<p>诚然，批评需要“了解之同情”，需要一定的技术支撑，对一些专业领域，倘若认知不足，造诣不深，批评则将隔靴搔痒，流于表面，贻笑大方。然而你不能因为批评者的浅薄和狭隘，便强求他挑起批评对象的担，干起批评对象的活，甚至剥夺他批评的自由：批评球员技术不精，批评者未必要上球场；批评厨子刀工粗糙，批评者未必要下厨房；批评国家元首能力平庸，批评者未必要执掌一国权柄……批评恰恰是“说”而且是“说他不行”的自由，“上”既不是它的前提，更非目的。说到底，“你说他不行，你行你上啊”涉嫌偷换议题，转移视线，严重违背了说理的逻辑，作为一种批评误区，毋宁是一种理屈词穷的表现，这背后，则隐藏了一副胡搅蛮缠的无赖嘴脸。</p>
+<p>那么，能不能用一句话破解“你说他不行，你行你上啊”的无赖逻辑呢？有人答：</p>
+<p>“我评论电冰箱，难道还得学会制冷吗？”</p>
+<p>2015年3月5日</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%BD%A0%E8%AF%B4%E4%BB%96%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A%E5%95%8A%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 10小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%B4%A2%E6%96%B0%E7%BD%91-%E5%9C%B0%E6%96%B9%E6%B3%95%E9%99%A2%E9%A2%86%E5%AF%BC%E4%B9%8B%E5%AD%90%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%89%A7%E6%B3%95%E6%97%B6%E5%9D%A0%E6%A5%BC%EF%BC%88%E5%B7%B2/" target="cdt-mirror">财新网 | 地方法院领导之子被警方执法时坠楼（已删）</a>
+</h2>
+<p><p><strong>中国数字时代编辑注：本文原标题为《云南大理法院原副院长之子被北京警方执法时坠楼》，于2016年6月8日在财新网首发，目前已被删除。</strong></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-09-at-%E4%B8%8B%E5%8D%881.05.17.png?resize=592%2C332" alt="Screen Shot 2016-06-09 at 下午1.05.17" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-09-at-下午1.05.17.png?w=592 592w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-09-at-下午1.05.17.png?resize=300%2C168 300w" sizes="(max-width: 592px) 100vw, 592px" data-recalc-dims="1"><br><span>刘继业提供的当年的工作证</span></p>
+<p>事发时为北京第二外国语学院大三学生；其父为云南省大理法院原副院长刘继业，他要求北京警方公布执法记录仪内容，但迄今一年半未果</p>
+<p>【财新网】（实习记者 朱江 记者 林子桢）近日，新浪微博博主“刘颖光父”发布的一则监控视频引起网络热议。该段视频显示，2014年11月16日凌晨，北京第二外国语学院中瑞酒店管理学院（下简称“学校”）大三学生刘颖光，在被高年级学生持械殴打后，由该校所在地派出所警察带入宿舍，期间刘颖光从六层阳台坠楼致高位截瘫。</p>
+<p>财新记者确认，“刘颖光父”实为云南大理法院原副院长、法官刘继业。近日，他在网络上通过各种途径呼吁警方公布事发时的执法记录仪内容。6月8日，刘继业在接受财新记者采访时确认了相关视频和举报内容。</p>
+<p>刘继业向财新记者介绍，事发时，学校宿舍楼内监控探头纪录了刘颖光遭多名学生围殴的镜头。监控显示，其中一名事后被刘继业指称为“主犯”的大四学生杨某，手持一根长约数十厘米的棍状物，数次挥向刘颖光。</p>
+<p>刘继业说，2014年11月16日凌晨00:30左右，北京市大兴区庞各庄镇派出所警察在接警后来到宿舍楼现场，将刘颖光传唤至打人者杨某的宿舍进行讯问。</p>
+<p>刘继业认为：“将刘颖光传唤至该宿舍，客观上造成刘颖光在被野蛮殴打后，不仅丧失人身自由，还要在该宿舍独自面对多名施暴者、警察及学校工作人员的局面，对其心理上造成更严重的打击，最终导致刘颖光坠楼。”</p>
+<p>随后，位于宿舍楼六层走廊的监控录像显示，两名身着警服的人士“一左一右”，与刘颖光一同来到刘颖光宿舍；几分钟之后，两人冲出宿舍，宿舍楼内一阵骚动，多名学生也纷纷冲下楼，刘继业指此前“刘颖光坠楼。”</p>
+<p>刘继业向财新记者称，这一阶段是办案警察控制刘颖光回宿舍查验身份证，“在被警方控制期间，刘颖光从六楼阳台坠楼”。</p>
+<p>刘继业向财新记者展示的书面材料显示，有录音证据证实，坠楼事件发生后，庞各庄派出所在向刘颖光家属通报案情时，强调“坠楼原因为学生斗殴”、“坠楼时公安民警未控制刘颖光，在刘颖光进自己宿舍拿身份证时，公安民警都站在门外”。</p>
+<p>“我儿子怎么坠楼的，只能看执法记录仪。”刘继业表示，家属多次以口头和书面形式要求公安机关公布执法记录仪内容，但直至事发后一年零七个月的今天仍未果。</p>
+<p>此外，刘继业还请求对刘颖光的伤情进行鉴定，“重点是鉴定坠楼前被殴打所致伤情，特别是头部和颈部的伤情”。</p>
+<p>刘继业向财新记者透露：“我儿子坠楼是臀部先着地，两只手垂着地，导致骨盆和两只手都断了，有14个地方骨折，这是坠楼伤。医院还认为坠楼前也有伤，主要是在头部。根据颅脑CT的结果分析，一是颅脑闭合性损伤，二是蛛网膜下腔出血，三是左脑头颅骨折，四是颈椎神经损伤。”</p>
+<p>事发后，刘颖光在医院重症监护室抢救治疗了近半年时间。据刘继业反映，公安机关始终没有对刘颖光进行伤情鉴定，但在2015年1月7日送来了关于打人者杨某伤情的《北京市公安局大兴分局鉴定意见通知书》，鉴定结论为杨某受到“轻伤二级”。</p>
+<p>2015年4月，刘继业以“教育机构责任纠纷”为由，将学校告上法庭。2016年3月31日，该案经由法院调解结案，学校补偿家属80万元，加上此前学校已分批垫付的96万元医药费，校方总共补偿刘颖光家属176万元人民币。</p>
+<p>刘继业告诉财新记者，第二次庭审时，学校向法院当庭提交学校监控录像，以证明此事学校没有责任：“刘颖光是在公安民警控制下坠的楼，家属应追究公安机关责任；而公安机关介入前，有六个学生打他，家属应向这六个学生追究责任。”</p>
+<p>刘继业希望对打人学生追究刑事附带民事责任，“然而打人学生已经毕业了，公安机关却一直不作为。”</p>
+<p>刘继业表示，刘颖光坠楼前的伤情，要由公安机关对打人学生进行立案侦查，“但公安机关对我们的请求一直不回应，因此暂时无法向学生追究刑事责任。若公安机关再不追究责任，我们将会对学生提起民事诉讼。”</p>
+<p>刘继业还要求调查当日出警的警察，“既然在公安机关控制下人出事了，公安机关的当事人要回避，公安机关要向政法委汇报调查这件事情；若公安机关一直不立案追责，我会向北京市大兴区检察院提交材料提出立案申请，要求公安机关对民警进行追责，也对涉事的六名学生追责。”</p>
+<p>6月8日，财新记者分别就此事致电案发地的庞各庄派出所、北京市公安局大兴分局宣传科，但截至记者发稿时未获得相关回复；刘继业在新浪微博发布的相关视频已见不到。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%B4%A2%E6%96%B0%E7%BD%91-%E5%9C%B0%E6%96%B9%E6%B3%95%E9%99%A2%E9%A2%86%E5%AF%BC%E4%B9%8B%E5%AD%90%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%89%A7%E6%B3%95%E6%97%B6%E5%9D%A0%E6%A5%BC%EF%BC%88%E5%B7%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E7%BB%A7%E4%B8%9A/?category=18271" rel="tag">刘继业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E9%A2%96%E5%85%89/?category=18271" rel="tag">刘颖光</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA/?category=18271" rel="tag">执法记录仪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98/?category=18271" rel="tag">法官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">被死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%96%B0%E7%BD%91/?category=18271" rel="tag">财新网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E9%82%A3%E4%BA%9B%E6%97%A0%E7%88%B9%E5%8F%AF%E6%8B%BC%E7%9A%84%E5%AD%A6%E7%94%9F%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E9%AB%98%E4%B8%89%E3%80%8B/" target="cdt-mirror">【CDTV】那些无爹可拼的学生：纪录片《高三》</a>
+</h2>
+<p><p>来源：<a href="https://www.youtube.com/channel/UCUqHxbnhpxBTTBZfu18kAiw">@dragonmui</a> on YouTube</p>
+<p>导演: 周浩<br>
+编剧: 周浩<br>
+类型: 纪录片<br>
+制片国家/地区: 中国大陆<br>
+语言: 汉语普通话<br>
+上映日期: 2005-11<br>
+片长: 95分钟 / 138分钟(完整版)</p>
+<blockquote><p>相关阅读：<br><a href="http://chinadigitaltimes.net/chinese/2016/06/%E4%BA%BA%E7%89%A9-%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E8%BF%87%E5%8E%BB%E4%BA%86%EF%BC%8C%E4%BB%96%E4%BB%AC%E8%BF%98%E7%9B%B8%E4%BF%A1%E9%AB%98%E8%80%83%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90/">人物 | 这么多年过去了，他们还相信高考改变命运吗？</a></p></blockquote>
+<p>本片纪录了中国福建省一所普通中学一个高三毕业班的真实生活。高三的生活日复一日，简单而又沉重，痛苦却也快乐。</p>
+<p>善良严厉的班主任，紧张刻苦的尖子生，逃避生活的“差生”，执着爱情的“早恋生”，学生的父母，每个亲历高三的人都有各自的感悟和超越高三的期望。影片的纪录真实、直白，透过高三生活的纪录，让人感到的不仅仅是为理想执着拼搏的浪漫，更有一种如鲠在喉的悲哀。<a href="https://movie.douban.com/help/movie#t0-qs">©豆瓣</a></p>
+<p>CDTV推荐纪录片《高三》，<a href="http://v.youku.com/v_show/id_XMzQ3NDMyNTI=.html">墙内优酷连接请点击这里</a>。</p>
+<p></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E9%82%A3%E4%BA%9B%E6%97%A0%E7%88%B9%E5%8F%AF%E6%8B%BC%E7%9A%84%E5%AD%A6%E7%94%9F%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E9%AB%98%E4%B8%89%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E9%AB%98%E4%B8%89%E3%80%8B%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">《高三》纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E4%B8%8D%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">教育不平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%BA%BA%E7%89%A9-%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%E8%BF%87%E5%8E%BB%E4%BA%86%EF%BC%8C%E4%BB%96%E4%BB%AC%E8%BF%98%E7%9B%B8%E4%BF%A1%E9%AB%98%E8%80%83%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90/" target="cdt-mirror">人物 | 这么多年过去了，他们还相信高考改变命运吗？</a>
 </h2>
 <p><p>《人物》微信账号：renwumag1980<br>
@@ -499,202 +756,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%A7%E6%97%B6%E4%BB%A3%EF%BD%9C%E9%AD%8F%E5%8B%87%EF%BC%9A%E5%8C%97%E4%BA%AC%E4%BD%9C%E6%96%87%E4%BD%95%E4%BB%A5%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%92%BC/" target="cdt-mirror">大时代｜魏勇：北京作文何以令人震撼</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-3.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-3.jpg?resize=350%2C350" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-3.jpg?w=350 350w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-3.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-3.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-3.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-3.jpg?resize=50%2C50 50w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
-<p>先看题：</p>
-<p><strong>大作文 二选一 不少于700字</strong></p>
-<p><strong>1、《白鹿原上奏响一支老腔》记述老腔的演出每每“撼人肺腑”，令人有一种“酣畅淋漓”的感觉。某种意义上，老腔已超越了其艺术形式本身，成为了一种象征。请以“‘老腔’何以令人震撼”为题，写一篇议论文。</strong></p>
-<p><strong>要求：从老腔的魅力说开去，不局限于陈忠实散文的内容，观点明确，论据充分，论证合理</strong></p>
-<p><strong>2、请展开想象，以“神奇的书签”为题，写一篇记叙文。要求：表现爱读书、读好书的主题；有细节，有描写。</strong></p>
-<p>一看到这个题目，不禁击节叫好，这是培养科幻作家的节奏。目前，虚拟现实技术正如火如荼，2016年的北京高考作文赶上了这拨潮流，我相信未来将有大批从高考作文中走出的人才走向中关村，拿“虚拟现实”这个项目挣风投的钱。2016年之后，必将再次迎来猪都飞得起来的时代，谷歌算啥？虐、虐、虐，虐死它。</p>
-<p>“老腔”是什么？我相信大多数北京的孩子都没听过，学生可能从陈忠实散文里看过（估计高中课本有这篇课文或者试卷里有这篇文章）。我活了大半辈子，也只是在《我是歌手》里面听谭维维唱过一次，谭维维把摇滚和老腔结合起来，很新鲜、蛮好听。不过，我觉得好听，不等于学生们觉得好听，更不等于没听过音乐仅凭文字叙述就应该觉得好听，但这恰恰是命题者高明之处，要的就是这个结果。没听过，难道你不能根据文字叙述加以想象吗？如果这点想象力都没有，我们在虚拟现实技术方面怎么超过美帝呢？不怕做不到，就怕想不到；人有多大胆，地有多大产。</p>
-<p>当然，“老腔”这题也不是没有缺点，缺点是难度不够，缺乏足够的区分度。我相信长期在虚构类作文训练方面成长的的中国学生，应付起来游刃有余，非常有话说。对了，让学生有话说，据说是作文题命得好的表现。在中国，说什么不重要，重要的是说得漂亮。</p>
-<p>怎么能够让这个作文有区分度呢？可设置一个类似题目，区分度一下就上去了，题目如下：</p>
-<p><strong>《皇帝之屁》记述皇帝放屁“尊臀高耸、洪宣宝屁、依稀丝竹之音、仿佛兰麝之气……”，每每“撼人肺腑”，令人有一种“酣畅淋漓”的感觉。某种意义上，皇帝之屁已超越了其形式本身，成为了一种象征。请以“‘皇帝之屁’何以令人震撼”为题，写一篇议论文。要求：从皇帝屁的魅力说开去，不局限于散文的内容，观点明确，论据充分，论证合理。</strong></p>
-<p>在这里，学生是否闻过这样的屁并不重要，重要的是学生一定要开脑洞，紧紧围绕着“丝竹之音、兰麝之气”进行脑补。放松，深呼吸，陶醉……再来一次，放松，深呼吸，陶醉……我相信，象做瑜伽一样调整呼吸进行冥想后，部分学生可以脱颖而出，闻到皇帝屁之香。这样就达到了甄别的目的，即把那些能够创造性理解上级意图的优秀人才拣选出来，同时，也为中关村储备了虚拟现实的人才。</p>
-<p>凡是那些论证屁香比较勉强，抒情不够自然的学生，985、211一律不录取； 凡是那些觉得皇帝的屁是臭的学生，一律淘汰，终身不许报考公务员！这样的作文题才有足够的区分度。不过，饭要一口一口吃，屁要一个一个放，考虑到学生虚拟现实的能力不如我们成年人，要求还是不要太高，目前这样的作文题已经够用了，瑕不掩瑜，瑕不掩瑜，点赞！</p>
-<p>再来说第二道作文题《神奇的书签》，这道题发挥的空间不那么大。毕竟，几乎人人见过书签，跟第一道题中大多数学生没听过老腔的情况有所差异。不过，这道题很正能量，给了那些不爱读书的学生一次自粉的机会。写作要求“表现爱读书”，也就是说，不管你是否爱读书，你都要做爱读书状，脑补一下画面：比如，跟女朋友依偎在一起共读《洛丽塔》。不管你是否使用书签，你都要写自己用过并且感受到了神奇，怎么神奇呢？你就要会写科幻小说嘛，比如，别人用名车把妹，你用书签泡妞，等等。</p>
-<p>总之，写这篇作文时，你要把自己想象成另一个人，一个你平时想揍的人。想揍不是因为他爱读书，而是因为他不爱读书，却总在装读书。看过目录就敢谈读后感；看过豆瓣书评，就敢写读后感；明明天天刷微信，却装作每天读经典；明明自己不读书，却命题让学生写读书。</p>
-<p>很多人以为学生写读书之类的文章是再简单不过的题目了，这实在是天大的误会。学生大多数时候读的是教科书，怎么可能写出“读好书”的感受呢？在中国，最爱读书的是小学生，这是最大的读书群体；上初中后，逃跑了大半；上高中后，所剩无几；高中毕业时，烧书、撕书。这个时候，你命题让学生“表现爱读书，读好书”，这需要多么先进的谷歌眼镜才能看到这一切啊！尤其还要求“有细节”。</p>
-<p>把不可能的事变得可能，把没有虚拟成有，这是未来人工智能和虚拟现实技术的发展方向，全世界的科学家都在为此殚精竭虑。许多人一直认为，希望在美国，希望在硅谷，希望在谷歌。我想，人类犯了方向性的预测失误，其实，希望在中国，希望在北京，希望在高考作文。这是2016年北京高考作文给我的启示，我被震撼到了。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%A7%E6%97%B6%E4%BB%A3%EF%BD%9C%E9%AD%8F%E5%8B%87%EF%BC%9A%E5%8C%97%E4%BA%AC%E4%BD%9C%E6%96%87%E4%BD%95%E4%BB%A5%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%92%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国式教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/lemcduii-%EF%BC%9A%E6%8A%B5%E5%88%B6%E5%BC%BA%E7%94%9F%E4%B8%8D%E5%A6%82%E6%8A%B5%E5%88%B6%E8%A0%A2%E8%B4%A7/" target="cdt-mirror">LeMcDuII ：抵制强生不如抵制蠢货</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E6%B4%8B%E7%A0%B8%E8%BD%A6.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%94%A1%E6%B4%8B%E7%A0%B8%E8%BD%A6.jpg?resize=500%2C309" alt="蔡洋砸车" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡洋砸车.jpg?w=660 660w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡洋砸车.jpg?resize=300%2C185 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/蔡洋砸车.jpg?resize=80%2C48 80w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p>小粉红看到标题就开始喷了，点开文章不过是为了找喷的点，所以这篇是写给脑子正常的人看的。</p></blockquote>
-<p>其实本来没想写这篇文章，因为觉得个中的道理和逻辑很简单。但看到很多人耗费精力和小粉红吵，吵了半天也没说出个所以然，还是决定写一下为什么「强生离不开中国这个最大市场」是错的，以及为什么「国人却离不开强生等跨国公司」。当然，我自己可能也是管中窥豹，并不全面和准确。很多人之所以认为诸如强生等的巨头离不开中国，无非抱着“中国是最大市场”的想法，所以能通过抵制迫使它们低头。中国目前确实是强生最大的市场，短时间内强生等公司还离不开中国，当中主要原因是低成本和高收入的，然而这两点今后将不复存在。</p>
-<p>首先是低成本，只要脑子正常、稍有常识的人都知道，现在印度、越南、菲律宾等哪个劳工成本不远低过中国？连富士康这样强烈依赖完整产业链的电子产品制造厂都计划搬去印度，更不要说像强生这些自动化程度高、技术含量低的品牌。强生等跨国巨头之所以还在大陆设厂生产，只因为中国设置了巨大的关税门槛和贸易堡垒，如果他们转移到境外生产，在国内销售会很麻烦。一旦哪天在中国的利润没办法支撑在国内外生产的成本差距，它们会撤的比谁都快。不要觉得这些事不可能，前几天飞利浦才关停在深圳的灯饰制造厂，要知道飞利浦可是全球最大的照明巨头。其次是高收入，现在国内经济和消费是什么水平，还是那句话，只要脑子正常、稍有常识的人都知道在发生什么。以康师傅为例，前几天刚发布了今年第一季度的营收数据，销量不过跌了一成，利润却几乎腰斩。跨国公司的销售和菜市场卖猪肉不一样，不是跌了多少成就少了相应比例的利润，只要产品能卖一些就赚一点。边际效应决定了像强生这类的巨头，销量一旦稍微持续萎缩，就马上亏损很严重。到那时候，市场再大有什么用？市场越大投入越深，反而亏损越严重。</p>
-<p>有人说强生的替代者多的是，没错确实很多，比如在保健护理消费品的领域就有联合利华和保洁等等。但要搞清楚，这些跨国巨头虽然是强生的竞争对手，它们面临的成本上涨、收入下跌和公关营销等问题却是一样的。联合利华和保洁以前因为各种奇葩事被抵制了多少次？我就不说了。这些外资在公关营销上早就先天劣势了，它们真正的共同对手是因为畸形爱国情怀泛滥而受益的国货品牌。从这一点上讲，这些巨头可以说不是竞争对手，更像是站在同一侧的受害者。很多人觉得跨国巨头不会为了一个何韵诗离开中国市场。一个也许不会，但国人的G点那么多，假如以后强生每隔几个星期就因为“李韵诗”、“黄韵诗”、“张韵诗”被抵制一次呢？今天国人因为香港而抵制强生，那明天和台湾、日本、韩国、印度、越南、缅甸、印尼、菲律宾等发生矛盾呢？强生会为了一个中国市场，放弃中国周边所有国家的市场吗？中国有14亿人，确实市场很大。但不要忘了这个世界除了14亿中国人外，还有几十亿”非中国人”。光是和中国关系恶劣的周边国家，人口加起来已经接近中国两倍。你说中国市场大，还是这些国家市场大？</p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%85%B0%E8%94%BB-%C2%B7-%E5%8C%97%E4%BA%AC/" target="_blank">巴丢草：兰蔻 · 北京</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A6%99%E6%B8%AF%E5%95%86%E4%B8%9A%E4%BB%A3%E8%A8%80%E4%B9%9F%E5%BD%92%E4%BD%A0%E5%A4%A7%E9%99%86%E7%88%B8%E7%88%B8%E7%AE%A1/" target="_blank">【立此存照】香港商业代言也归你大陆爸爸管</a></li>
-</ul></blockquote>
-<p>今天我在知乎看到一个问题「比李施德林便宜好用的漱口水有哪些」，有答主列举了七八个比较小众的日本台湾牌子，我不知道是不是真的比李施德林好。但即便真的比李施德林好用，也毫无实际意义，因为它们根本就没有强生那样强大的渠道能力，有几个品牌能做到让偏僻的乡镇也有强生的产品销售？强生这些跨国巨头存在的意义，不在于其多么好用，而在于它们能以低廉的成本和完善的渠道，让收入不高或远离城市的阶层，用较低的价格购买到相对安全的产品。并不是说强生就绝对不会出现安全质量问题，只是说出现的概率远远小于国货；而且即便真的出现了，受害群体至少有较大可能得到妥善处理和高额赔偿。强生将来如果真的因为各种原因离开中国市场，可能头几年营收比较艰难，但绝不至于倒闭，无非是赚少点钱。反而对国人来讲，强力离开后从基础日用(洗发水隐形眼镜等)到婴幼护理(尿片爽身粉等)，再到医药保健(漱口水止痛药等)上千种产品留下的巨大真空，如果全面让国产货替代(国产货什么质量你我心知肚明)，那绝对不只是“没那么好用”，中下阶层的健康恐怕会受到极大威胁。我之所以说国人离不开强生等这样的巨头，并不是说一离开了国人就活不下去了，而是生活质量会全面下降，这种下降是很隐蔽和难觉察的。除了这种长远的健康影响，更即时的打击是数以十万计的失业工人，这也是为什么国人离不开强生等巨头的原因。抵制来抵制去，最后倒霉的还是自己同胞。就像08年的日资厂被打砸抢后，最后还是工人承受了这代价。</p>
-<p>一个流行的说法是商业品牌不应该掺杂政治立场，但「要商业品牌远离政治」本身就是一种政治。商业公司和消费者之间无非是，它靠出卖劳力和提供技术赚钱，你花钱得到了需要的产品和服务，你们的关系是平等和互惠的。并不是说你买它的东西是种恩赐，它就变成了你的仆人依赖你存活。而且我认为「抵制xx品牌」这种行为本身就很可笑，无论是小粉红还是正常人。首先这些半垄断性质的巨头根本就不在乎，你的所谓抵制对他们的影响微乎其微(参考08年至今被抵制的品牌，哪个真的受到损害了)。其次在制造业全球化和高度分工的今天，你根本就不可能真正去”抵制”哪个巨头。这些巨头往往间接地交叉混合控制了好几个产业，为别的品牌提供技术或物料。像那些口口声声喊抵制日货的人，结果到头来发现几乎所有东西都用到了日本的零件。最后那些有技术专利和高科研含量的产品你根本无法抵制，像洗发水什么的你抵制没问题，大不了洗国货头皮屑多一些，那心脏支架呢？那医疗药品呢？你总不会用命去抵制吧？</p>
-<p>脑子清醒点吧，与其抵制那些所谓「反华」的品牌，不如抵制一下身边的蠢货，别让他们间接害死了。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/lemcduii-%EF%BC%9A%E6%8A%B5%E5%88%B6%E5%BC%BA%E7%94%9F%E4%B8%8D%E5%A6%82%E6%8A%B5%E5%88%B6%E8%A0%A2%E8%B4%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E8%B4%A7/?category=18271" rel="tag">国货</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%85%B0%E8%94%BB-%C2%B7-%E5%8C%97%E4%BA%AC/" target="cdt-mirror">巴丢草：兰蔻 · 北京</a>
-</h2>
-<p><blockquote><p>巴丢草 <a href="https://twitter.com/badiucao/status/739999634022498308" target="_blank"><strong>@badiucao</strong>:</a> #巴丢草 作品 【Lancôme Beijing】#兰蔻 取消“港毒藏毒“艺人 #何韵诗 演出，并否认其为该品牌代言的决定，真是大快人心！特为兰蔻制作一张宣传海报，并请赵国最红的红明星为其代言，以兹鼓励！#Lancome</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%B7%B4%E4%B8%A2%E8%8D%89_%E5%85%B0%E8%94%BB.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%B7%B4%E4%B8%A2%E8%8D%89_%E5%85%B0%E8%94%BB.jpg?resize=550%2C333" alt="巴丢草_兰蔻" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/巴丢草_兰蔻.jpg?w=2047 2047w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/巴丢草_兰蔻.jpg?resize=300%2C182 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/巴丢草_兰蔻.jpg?resize=768%2C466 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/巴丢草_兰蔻.jpg?resize=1024%2C621 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/巴丢草_兰蔻.jpg?resize=80%2C48 80w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A6%99%E6%B8%AF%E5%95%86%E4%B8%9A%E4%BB%A3%E8%A8%80%E4%B9%9F%E5%BD%92%E4%BD%A0%E5%A4%A7%E9%99%86%E7%88%B8%E7%88%B8%E7%AE%A1/" target="_blank">【立此存照】香港商业代言也归你大陆爸爸管</a></p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%85%B0%E8%94%BB-%C2%B7-%E5%8C%97%E4%BA%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%85%AD%E5%9B%9B%E7%A5%AD%E6%97%A5%EF%BC%9A%E6%BE%B3%E6%B4%B2%E8%A1%97%E5%A4%B4%E7%9A%84%E5%9D%A6%E5%85%8B%E4%BA%BA/" target="cdt-mirror">美国之音｜“六四”祭日：澳洲街头的“坦克人”</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/95CE770B-14C8-48D3-BCDA-073B9DDE9DAA_w640_r1_s.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/95CE770B-14C8-48D3-BCDA-073B9DDE9DAA_w640_r1_s.jpg?resize=575%2C323" alt="95CE770B-14C8-48D3-BCDA-073B9DDE9DAA_w640_r1_s" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/95CE770B-14C8-48D3-BCDA-073B9DDE9DAA_w640_r1_s.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/95CE770B-14C8-48D3-BCDA-073B9DDE9DAA_w640_r1_s.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>“六四”27周年之际，旅澳时政漫画家巴丢草以“坦克人”的形象伫立在澳洲街头。(Alycia Bennett拍摄 巴丢草提供)</span></p></div>
-<p>华盛顿—1989年北京长安街上那名孤身阻挡坦克的中国男子无疑是“六四”事件中最撼动人心的一幕。那一年，出生在中国的巴丢草（网名）还只是个牙牙学语的婴儿。 27年后，他成为旅居澳大利亚的一名时政漫画家。2016年6月4日这天，他模仿“坦克人”的形象，伫立在澳洲街头，用行动向当年的那名男子致敬。</p>
-<p>1989年6月5日清晨，解放军血腥镇压天安门示威的第二天，北京城一派肃杀。长安街上，一队坦克车徐徐驶过。忽然，一名男子走到车队前，用单薄的身躯拦住了车队的前进。领头的坦克几度试图绕过他，但他固执地挡在那里，还一度爬到坦克的炮塔上。最终路边几名男子跑上前来将他带走。</p>
-<p>当晚，中国官方媒体中央电视台在《新闻联播》中义正辞严地抨击他是“螳臂当车的歹徒”。这名男子的姓名和生死至今没有定论，在西方和中国民间，人们叫他“坦克人”。</p>
-<p>27年间，“坦克人”的形象遍及世界各地，几乎成为1989年那场政治运动的代言人。他是个人与强权抗争的时代标志。</p>
-<p>一身再普通不过的白衣黑裤，一双皮鞋，一手提着皮包，一手拎着塑料袋，这是“坦克人”留给世人的背影，也是今年的“六四”纪念日，旅居澳洲的时政漫画家巴丢草高高站立在澳洲街头的样子，只不过他的脸上多了一副电影《V刺客》中的面具。</p>
-<p>再现“坦克人”是巴丢草多年的心愿，他希望这个日子不会为世人忘怀。他说：“作为一个中国人，对于‘六四’，我们不可以去把它遗忘掉。‘坦克人’可以说是‘六四事件’一个图腾似的人物。其实他站在那里就代表了对整个事件的回顾，对整个事件进行反思，也是对于这个悲剧背后的刽子手的一种谴责。”</p>
-<p>华人是澳洲最大的少数族裔。巴丢草说，通过这样的行动，他也想看看在这样一个有众多华人留学生和华人移民的地方，人们对于“坦克人”会有什么样的反应。他为自己的行为艺术选择的其中一处地点靠近一间孔子学院。他听到来往的路人有人用中文谈论他，有的表示好奇，有的认出“坦克人”的形象，给他拍照，还呼朋唤友地来看他。这让他感到欣慰，也让他对外界所说的华人普遍的政治冷漠有了些许不同认识。</p>
-<p>巴丢草承认，这次行动前他也忐忑不安，曾经设想假如面具被人撕掉要做什么反应，但他还是选择站出来。他说，以前自己绝没有这样的勇气。在中国时，父母不让他碰画笔，担心他迟早会惹上麻烦。</p>
-<p>由于家庭背景的缘故， 一家人对政治多少心怀恐惧。 “祖父是做电影的，也因为电影丧了命，”巴丢草对美国之音说，儿时的他就知道， 祖父是中华民国第一代电影人，因为拍了一部是官方视作“大毒草”的电影，反右运动中被发配到边疆劳改，后来贫病交加，死在了劳改营， “和夹边沟的枯骨一样，尸骨都没有。”</p>
-<p>父亲几岁就成了孤儿，是被人唾骂的“狗崽子”，因为老师的举报，没有上成大学。多年来，父母对政治始终保持沉默。巴丢草说，是恐惧导致了他们的沉默，而沉默更加剧了这种恐惧。但是巴丢草说：“我理解他们，父辈那一代是被政治偷走大半生的人。”</p>
-<p>在中国时，因为恐惧，巴丢草也选择做了“沉默的大多数”。大学时，一个偶然机会，他看了一部“六四”题材的纪录片，这成为他告别懦弱的转折点，“我当时很感动，看到在不远之前的中国大学生这么有理想，这么有行动力，反观现实，我那一代的大学生没有这样的生命中的活力，没有这样的对自由的向往，对于民主的这些抱负，所以就觉得也非常可悲。”</p>
-<p>和天安门广场上那些大学生的理想主义相比，巴丢草说，自己的大学时代就像“一具吃饭的尸体。”</p>
-<p>几年前他离开中国赴澳求学，在那里他找到了自由的创作空间，也在“六四”精神的感召下，拾起了前所未有的勇气。</p>
-<p>近年来，巴丢草成了互联网上十分活跃的时政漫画家。他的作品以黑白红为主要基调，紧跟时事，辛辣犀利。他说，艺术是他的抗争手段，艺术帮助他克服恐惧。不过，他至今不敢告诉父母自己在澳洲画的这些画。</p>
-<p>两年前“六四”事件25周年的时候，巴丢草在右臂上纹了一个坦克人的纹身。他说，这是他作画的手臂，他希望借由“坦克人”来让自己不忘作画的初心。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/726BE452-D259-46D6-B592-0702E37D0019_w640_s.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/726BE452-D259-46D6-B592-0702E37D0019_w640_s.jpg?resize=475%2C475" alt="两年前，巴丢草将“坦克人”的形象刺在他的右臂上，希望能不忘作画初心。(巴丢草提供)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/726BE452-D259-46D6-B592-0702E37D0019_w640_s.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/726BE452-D259-46D6-B592-0702E37D0019_w640_s.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/726BE452-D259-46D6-B592-0702E37D0019_w640_s.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/726BE452-D259-46D6-B592-0702E37D0019_w640_s.jpg?resize=70%2C70 70w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/726BE452-D259-46D6-B592-0702E37D0019_w640_s.jpg?resize=50%2C50 50w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><p><span>两年前，巴丢草将“坦克人”的形象刺在他的右臂上，希望能不忘作画初心。(巴丢草提供)</span></p></div>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%85%AD%E5%9B%9B%E7%A5%AD%E6%97%A5%EF%BC%9A%E6%BE%B3%E6%B4%B2%E8%A1%97%E5%A4%B4%E7%9A%84%E5%9D%A6%E5%85%8B%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%AD%A6%E8%BF%90/?category=18271" rel="tag">八九学运</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9D%A6%E5%85%8B%E4%BA%BA/?category=18271" rel="tag">坦克人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%B4%E4%B8%A2%E8%8D%89/?category=18271" rel="tag">巴丢草</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%B8%8A%E5%85%AD%E5%9B%9B%E8%AF%BE-%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E5%BF%83%E6%80%81%E5%90%84%E5%BC%82/" target="cdt-mirror">纽约时报 | 在美国上六四课 中国学生心态各异</a>
-</h2>
-<p><p>“你是骗子，你撒谎！”“中国很强大，我们很骄傲”。十几年来，从事“天安门民主运动”研究和历史教学的何晓清(Rowena Xiaoqing He)教授经常会受到类似这样来自中国大陆的“爱国者”攻击，指责她的研究和课程。</p>
-<p>2010年，何晓清首次在哈佛大学本科新生中开设“天安门运动历史与记忆”这门课程。这是全世界目前唯一专门以1989年北京天安门民主运动及其对后89中国影响为内容的课程。何晓清连续三年获得哈佛大学杰出教学证书。2015年，何晓清受聘于佛蒙特州圣迈克尔学院(St. Michael’s College)后，继续开设这门课程。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/hexiaoqing.jpg?resize=600%2C398" alt="2011年，何晓清在六四新生课程首批学生组织的天安门运动研讨会上。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/hexiaoqing.jpg?w=646 646w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/hexiaoqing.jpg?resize=300%2C199 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2011年，何晓清在六四新生课程首批学生组织的天安门运动研讨会上。</p></div>
-<p>在这堂课上，何晓清带领学生讨论学术文献，查阅当年的原始资料，翻看哈佛燕京图书馆收藏的28箱“天安门档案”，邀请亲历者到课堂上讲述他们的经历。每一年学期结束后，她会与学生组织一场公开研讨会，用学术论文和各种艺术形式来展示自己所学和纪念天安门运动。学生的论文和艺术表演不仅让这堂课闻名于哈佛校园内，也吸引了社会的目光。《Harvard Magazine》、《Harvard Crimson》和《Harvard Gazette》等校园主要刊物都介绍过这门课，哈佛大学的“新生课程目录”连续两年用了六四课程的照片作为封面。何晓清的课堂和研究成为海外六四研究的一个中心，得到了许多海外学者与媒体的支持和赞誉，但同时也让何晓清成为海外”爱国”青年的攻击对象。</p>
-<p>与天安门民主运动的研究相关，这种“爱国主义”也是她的对象。四月，作为哈佛大学费正清研究中心研究员的何晓清，在哈佛大学费正清中国研究中心(Fairbank Center for Chinese Studies)举行讲座，主题是”认同一个崛起的中国？海外中国学生民族主义”，探讨后八九中国社会的历史休眠和爱国主义教育运动如何影响年轻一代，特别是海外留学生的价值和身份认同。</p>
-<p>何晓清70年代初出生于广东，并在那里长大，2002年和2008年分别在加拿大多伦多大学获得硕士和博士学位。2008到2010年她在哈佛大学费正清中国研究中心从事博士后研究，师从政治学教授罗德里克·麦克法夸尔(Roderick MacFarquhar)和历史学家谷梅(Merle Goldman)，之后在哈佛大学连续5年教授六四课程。2014年出版《天安门流亡：中国民主抗争的呼声》，现正专注于完成关于后八九中国学生民族主义的根源和发展的书稿。</p>
-<p>在“六四”27周年之际，何晓清通过电话和邮件接受了采访，采访中她谈到了哈佛图书馆里被尘封的六四档案，上课的大陆学生首次了解六四的反应与变化，以及八九后民族主义的发展。采访经过删减和编辑。</p>
-<p><b>问：过去十多年，你一直在做天安门运动的研究与教学，为什么会有这样的选择？</b></p>
-<p><b>答：</b>在我们举办的“六四”25周年研讨会上，一位当年驻北京的美国记者说：“我们都是‘89级’”(Class of ‘89)。不管今天中国经济如何强大，我们都记得1989年有那么一个夜晚。”那天几位外媒记者和学生分享了当年的经历，在提到六三晚上时都非常严谨地说出他们所在的具体位置、时间和见闻。一群外国记者，20多年以旁观者的身份见证了中国的1989年，如今说起那个中国人的春天尚且如此动情。那一刻让你觉得六四情节是普世的，八九精神是普世的，人类对自由的渴望对真相的追求对公义的坚持是没有国界的，六四镇压突破了人性的共同底线。</p>
-<p>我在书里也提到，我们这一代人是在理想主义的氛围下成长起来的，当年大家走上街头，不是因为仇恨，不是因为绝望，而是因为爱，因为希望，甚至因为对当局的信任。八十年代的知识分子的忧患意识、历史责任感、对体制内改良的信心，一夜之间却要面对血淋淋的镇压。六四至今是一个无法公开讨论的话题，是一个禁区。我们与中国社会一起，带着这个从来没有被治愈的伤口，走到今天。如米兰·昆德拉(Milan Kundera)所言，人类与強权的抗争就是记忆与遗忘的抗争。六四是一个分水岭，是后来中国社会主要问题，包括犬儒主义、民族主义、物质主义的根源。不了解1989年的春夏，就无法了解今天的中国。</p>
-<p><b>问：哈佛的六四课程是怎么开始的？</b></p>
-<p><b>答：</b>哈佛有一个“新生课程”(Freshman Seminar Program)，可以递开课申请，评审委员由各系的教授组成。我草拟了一个课程安排，包括每周的阅读主题和内容，还有历史背景。我当时觉得课程不应该只是一门历史课，对于这么一個错综复杂的題目，应该从跨学科的角度来探讨，包括政治学、社会学、教育学和文学等其他学科的文献和资料；课的内容也不只是覆盖89年：天安门运动的背景并不始于1989年，也沒有结束于1989年，六四只是一个结束的开始。后天安门时代的社会政治与八九年的事件密不可分。</p>
-<p>所以我的课程设计是333制：八九前社会经济政治文化背景占1/3，内容包括伤痕文学、刘宾雁的第二种忠诚、经济改革和反官倒、反精神污染反自由化运动、纪录片《河殇》等；89年的历史占1/3，包括四一五胡耀邦去世，各地学生游行、绝食、六四镇压、通缉、逃亡、清算、黃雀行动等；有一周全是官方关于“动乱”的说法，包括《人民日报》四二六社论、李鹏五一九讲话、邓小平在镇压后对戒严部队的讲话、陈希同的平暴报告等内容。最后1/3的内容是从八九的中国，包括爱国主义教育和民族主义、知识分子的沉默和犬儒、天安门母亲的抗争以及官方与非官方话语里的记忆和解读、天安们与东欧变革的关系等。</p>
-<p>因为这门课程是为哈佛一年级新生开设的，有同事建议用一个比较吸引年轻人的題目——有目标的反叛(Rebels with a Cause)，灵感来自于电影《Rebel without a Cause》。我觉得很好，就采用了“有目标的反叛：天安门运动的历史与记忆”这个题目。后来就接到通知说委员会通过了这门课。</p>
-<p><b>问：教这门课的最大挑战是什么？</b></p>
-<p><b>答：</b>因为政府的刻意掩盖，在过去20多年，八九这段历史变得模糊不清。一边是历史学家、学者、参与者、幸存者和受难家属的版本；另一边是掌握话语权中国官方打造的版本。不过，我在教学过程中明显感到对六四的争论不只是事实之争，更重要的是价值之争。前者相对来说比较直截了当，面对那么多证物证人，事实是难以掩盖。但是，因为后八九政权为军事镇压的正当性的种种辩护，让很多新一代年轻人认同歪理、失去常识，那种为了经济发展、国家强大可以牺牲人的生命的说法，在大部分美国长大的孩子眼里是不可思议的，而在很多国人那里却变得理所当然。</p>
-<p><b>问：你怎么面对这些挑战？</b></p>
-<p><b>答：</b>摆事实。我常和学生说，六四就像一个拼图，我们要一块一块的把事实拼起来，才能还原一个真实的历史画面，要做到这点，就必须有知情权、自由的讨论空间。这些，在美国课堂上都提供了。另外，不论是我教书还是跟学生谈论论文，我强调严谨：一定要做到每个细节都有根有据。例如，有争议说天安门广场没有打死一个人，因此没有“天安门屠杀”，一位同学就翻译和分析丁子霖老师的《寻访六四死难者名单》里面关于一名在天安门旗杆下被杀害的遇难者的那一章，让历史事实说话。当然，我们在课堂上也讨论到用天安门广场的死难人数来否定“天安门屠杀”是不够充分的，因为正如“八九天安门运动”不只是指发生在天安门广场，而是一场覆盖全国各大城市的运动。同样，“天安门屠杀”并不只是指发生在天安门广场上的屠杀，还包括发生在北京街头的屠杀。我们常用的两张地图：一张是死难者遇难地点的地图，另外一张是死难者尸体发现地点的地图，都很能说明问题。</p>
-<p>哈佛燕京图书馆的六四档案，收藏着28箱实物和资料，包括当年国内的报纸杂志，还有不同省份游行的照片、校园的大字报。第一次带学生去看档案的时候，那真是叫尘封啊，历史被尘封，箱子也被尘封，那些箱子大概20多年都没有人打开过，全是灰尘。在打开血衣的箱子之前，我问孩子们是否愿意自己打开。他们用敬畏的眼神看了一下箱子，转而用孩子般的目光看着我，集体沉默。从我打开箱子，打开第一个塑料袋、第二个塑料袋，拿出血衣，直到我翻译边上的字条——血是属于一位在木樨地倒下他们的一位王姓北大研究生旁边重伤的同学，平日一秒钟都不愿安静的他们一直一言不发。过了好一会儿，才有学生低声问我：他还活着吗？我说我不知道，不过我相信把血衣送出国外的人当时一定是冒了很大的危险，希望有一天有人会珍视这些证物，让世界记住这段历史，让中国人的血不会白流。</p>
-<p>有一个学期韦尔斯利学院(Wellesley College)请我去教这门课，我也带学生到哈佛看天安门档案，班上有几位中国同学。我让她们给美国同学翻译那张血衣字条。那副画面在我脑海里是一个定格：一群女孩子，来自世界各地，活泼聪慧，又那么地富有人文价值普世情怀。在她们身上，你会看到，八九年的诉求，独立的思想，自由的空间，要是得到实现，是可以这般美丽。</p>
-<p>天安门档案里面有好几箱照片，其中坦克压人的系列照片是放在一起的，我可以预先提醒学生，让他们有心理准备，因为好几回有学生看完照片感到不适。不过有些照片是不同时期混合放在同一本影集的。有一次一位平日很认真细心的一个学生看着看着就丢下照片走了，我对他当时的反应有点不解。后来他在期末论文中他特意了表达那天的心情。他说一开始看到学生们游行的照片都是充满希望的，后来一下子看到了镇压的照片，一个学生的脸都被打得血肉模糊了，他受不了。他说当年他们和我们一样年轻。当孩子们看到这些实物的时候，不是一两句我们要经济发展所以要镇压就可以打发的。</p>
-<p><b>问：学生大多数是什么人？他们为什么会选这门课？</b></p>
-<p><b>答：</b>其实一开始我连有没有学生修这门课都是不确定的。我的学生在1989年的時候都还没有出生。对我们来说，六四是记忆，对他们来说，六四是历史。学生怎么可能对这个遥远而陌生的题目感兴趣呢？结果选这门课的学生远远多于课程的名额限制。我上第一节课都问他们为什么会感兴趣。</p>
-<p>有的学生说，因为我去过中国，导游告诉我，有三个“T”是不能说：台湾、西藏和天安门(Taiwan, Tibet, Tiananmen)。有加拿大出生长大的华裔学生说，每年听到媒体说”天安门””六四”，他也不知道是怎么回事儿。直到爸爸妈妈带他到中国旅游，在旅游车上香港的游客和大陆的导游因为六四争论得不可开交，他不明白为何双方都是“中国人”，谈论的是同一个历史事件，都那么激动地相信自己说的是真相，但又无法说服对方。</p>
-<p>另外，有美国学生上中学的时候学校组织在暑假去中国，与同龄人一起生活和学习，孩子们提的问题很有意思：有一个学生说他们都和我一样喜欢打球和打游戏，可是为什么“坦克人”被变成神秘人他们都不好奇？另外一个学生说，她的中国好朋友们又聪明又受过良好教育，可是她们为什么说中国人的素质低不能有民主？那不是种族歧视？</p>
-<p><b>问：有没有大陆的学生？他们上这门课的反应如何？</b></p>
-<p><b>答：</b>哈佛本科生大陆来的学生本来就不多，不过哈佛暑期班的学生（多半是非哈佛本校但暑假到哈佛来进修的学生）有不少是来自大陆的，有大学生也有中学生。有一开始极力为政府辩护的，也有从来没有听说过六四的。有一年暑假，一位学生听到另外一位同班大陆同学说她家里知道六四天安门事件，她就在电话里问他爷爷，她爷爷说他也知道：那是1976年的事情。她就跟她爷爷说：不是！这位同学在饭堂里给我转述的时候还觉得特别没有面子——家里居然没有人知道1989年的天安门事件。</p>
-<p>跟她同来的另外一位女孩子在课堂上经常质疑我，还告诉我说不要指望改变她的想法。我说既然你不相信我，为什么要来上课呢？她说她和她的两位朋友都觉得我的课只写论文，不用考试，以为很容易过的。她们第一次被触动是听了被坦克碾断双腿的方政的见证。在学期结束前，那位总是不相信我的同学突然举手：我以为她又要质疑什么，结果她很不好意思的说：她终于在电话里“逼”她妈妈说出真相。一直以来她妈妈都说不知道八九年的事，她就问妈妈说你就是那个时候上的大学，我老师说那时候的大学生都知道的。结果事实是，她妈妈当年跟同学坐火车去了天安门广场，她妈妈当时的男朋友，也就是这位学生现在的爸爸，被她爷爷锁在家里没去成。所以她妈妈本人1989年就在天安门广场，却告诉女儿不知道这件事情。到了最后，骗她的居然不是我。</p>
-<p>还有一次，在关于六四镇压的课上，一位北京来的女孩子哭了起来，她说，我就是在这个城市长大的，这些路，我经常走的，从小到大，走过很多次的。为什么我长这么大，从来没有人告诉我，在我长大的这个地方，竟然发生过这样的事情。她学得特别用功，最后的论文也做得非常好。信息自由和言论自由真的很重要。六四不只是政治，六四是人性，只要人性未泯，要是了解历史细节真相，很难不为所动。</p>
-<p><b>问：因为研究六四，你多年来受到中国学生的质疑甚至辱骂。你有没有想过原因？</b></p>
-<p><b>答：</b>我们在异乡、用外语而不是我们的母语，(［六四清晨被坦克辗断双腿］的方政等幸存者还需要翻译）来讨论我们自己国家发生的一件非常重要的历史事件，而这件事情在中国本土，却不能被提及；新一代要不不知道，要不不在乎，或者为镇压辩护，去攻击说出真相的人，这本來就是一件很荒诞的事情。十多年前我对那种新一代红卫兵的态度是很不解的。我当时不明白那种党国不分、批评政府就成了羞辱中国、羞辱中国人民的逻辑从何而来；80年代爱国就是批评政府推动改革，怎么后来爱国就成了为政府辩护，批评政府就成了卖国，这种对“爱国”截然不同的理解又从何而来？这些思考是我民族主义项目研究的源头。后来我开始从公民教育的角度，用政治社会化的理论框架，通过爱国主义运动的内容分析，特别是教科书的分析，还有学生采访，来理解后八九民族主义的根源和发展。</p>
-<p>我们的六四课程有一周的阅读是关于后八九“爱国主义教育”和民族主义思潮的，这个题目每年都有学生作为期末论文。有一个从欧洲来上暑期班的研究生，第一节课她就听到大陆来的同学说中国不适合有民主。她告诉我当天晚上她就上网告诉男朋友说：我们从小到大都觉得民主是好的，要争取民主，从来没有听说过有人说不要民主。她期末就写后八九爱国主义教育的影响。另外一位同学的论文通过采访中国学生，得出结论“爱国主义教育”要中国学生了解民族屈辱和历史灾难，但原来这些屈辱和灾难不包括三年饥荒，不包括反右，不包括文革，不包括六四。</p>
-<p>不过我想强调，近年我发现越来越多的大陆年轻人，不管是在海外还是国内，都开始有更多的独立思考能力，我自己就采访了很多这类的年轻人，了解他们转变的原因，我会把这部分内容分析包括在我的书稿里。</p>
-<p><b>问：为什么后八九会出现一个爱国主义教育和民族主义思潮？</b></p>
-<p><b>答：</b>六四镇压后要重建政权合法性，只能自圆其说，把镇压合理化。当然，当局还以另类的方式“吸取历史教训”，八九的时候，就算把校门锁起来，学生还是有办法上街；如何做到下一次校门都敞开着，也没有人上街？要上街也是为了维护政府而不是抗议政府。要做到这些不容易，可是现在看来爱国主义教育运动,配合历史真空的大环境下，还是非常有效的。在历史、记忆与权力的关系上，当局让那些对八九年有记忆的人记得和明白：这就是上街的后果；对于年轻一代，尽量让他们不知道，要是知道也是官方的版本和说辞。</p>
-<p>正是那种连人的生命尊严权利都可以为一个更高的口号而牺牲的价值，使后八九的中国变成了一个没有底线、没有信任的社会。认同歪理，否定常识。民众对重大历史事件的集体记忆与他们对于民主化和民族主义的看法密切相关——人们一般通过对重要历史事件在道德意义层面上的讨论，来理解他们对国家未来的责任，而当局对历史事件的隐瞒歪曲压制导致了政治、社会、心理等各个层面的扭曲。那种为了利益无所不能为的价值不只是影响着中国，对世界也有着深远的影响。</p>
-<p><b>问：对你来说，今年纪念六四与往年有什么不一样？</b></p>
-<p><b>答：</b>今年，天安门母亲群体的创始人之一蒋培坤老师不能再跟我们一起纪念六四，我们不会象过去20多年那样看到他和（他夫人）丁子霖老师在六四周年的公开信。去年秋天他去世的消息传来，已是深夜，我正在备六四的课。我以为长年累月的研究教学，我可以对八九“免疫”。可是，那天晚上我伏在书桌上失声痛哭。从大概十多年前开始，丁老师在电话里多次表达担心他们等不到真相公义的那一天。我无法想像他们是如何走过这20多年的。两位人民大学教授，17岁的儿子蒋捷连被枪杀，20多年来与一群白发苍苍的天安门父母亲和平理性地去寻求真相争取公义，却要面对长期的打压。如今蒋老师走了，连丁老师电话都打不进去。那一刻，我有一种很强的无力感，觉得我们尽力而为那么多年还是让他们失望了。</p>
-<p>可是，看到许许多多八九年的参与者都在自己的位置上力所能及地坚守，让我相信虽然我们现在要面对被边缘化的孤独，但在历史上我们并不是孤单的。今天我们每一个人的抗争，是为了下一代免于恐惧的明天。每年香港维园的烛光，就是点燃真相的希望。没有真相，就没有和解。中国必须面对历史，才会有将来。</p>
-<div>
-<p>罗四鸰，自由撰稿人，现居美国。</p>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%B8%8A%E5%85%AD%E5%9B%9B%E8%AF%BE-%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E5%BF%83%E6%80%81%E5%90%84%E5%BC%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%81%E5%AD%90%E9%9C%96/?category=18271" rel="tag">丁子霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AB%E4%B9%9D%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">八九六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">公民教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E5%A4%A9%E5%AE%89%E9%97%A8%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">六四天安门事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%AE%89%E9%97%A8%E6%AF%8D%E4%BA%B2/?category=18271" rel="tag">天安门母亲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%80%85/?category=18271" rel="tag">爱国者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/?category=18271" rel="tag">独立思考</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%95%99%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">留学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%9B%B8/?category=18271" rel="tag">真相</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E6%83%85%E6%9D%83/?category=18271" rel="tag">知情权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BD%93%E8%AE%B0%E5%BF%86/?category=18271" rel="tag">集体记忆</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C709%E4%BA%8B%E4%BB%B6%E8%BE%A9%E6%8A%A4%E5%BE%8B%E5%B8%88%E6%8A%97%E8%AE%AE%E8%A2%AB%E6%8A%93/" target="cdt-mirror">法广｜“709事件”辩护律师抗议被抓</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/12764596_1699173536962267_6316720522215519890_o_w4ldu_1200x0.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/12764596_1699173536962267_6316720522215519890_o_w4ldu_1200x0.jpg?resize=575%2C325" alt="12764596_1699173536962267_6316720522215519890_o_w4ldu_1200x0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/12764596_1699173536962267_6316720522215519890_o_w4ldu_1200x0.jpg?w=1024 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/12764596_1699173536962267_6316720522215519890_o_w4ldu_1200x0.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/12764596_1699173536962267_6316720522215519890_o_w4ldu_1200x0.jpg?resize=768%2C434 768w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p><strong>2016年6月6日早上10时许，“709大抓捕”被捕人士的辩护律师和家属到天津市检察院第二分院声援被关押的维权律师和公民，展示带有支持被捕人士标语的水桶抗议，分别遭警方口头传唤及强制盘查。最后声援律师被警察抓到天津市河西区挂甲寺派出所。目前情况不明。</strong></p>
-<p>综述各方消息，6日早上，“709大抓捕“的家属李和平妻子王峭岭、翟岩民妻子刘二敏、王全璋妻子李文足三人到天津市检察院二分院门口用水桶抗议，红色的水桶上写着“和平我支持你”“全 璋我爱你我等你”等字。同时，李和平律师的辩护人蔡瑛，王宇律师的辩护人文东海，刘四新的辩护人王磊、翟岩民的辩护人纪中久等律师也到达天津检察院第二分 院，要求检方对天津市公安局违法侦察709案件，剥夺律师辩护权等进行法律监督。</p>
-<p>但是，他们很快被警方包围，目击者称，王峭岭、李文足、刘二敏被口头传唤带到挂甲寺派出所，戈平妻子樊丽丽遭警察拦截 被送回家。而文东海、王磊、蔡瑛、纪中久四位律师从检察院走出后被强制盘查，遭警察强行推出来直接推到车上带至天津市公安局河西分局挂甲寺派出所。</p>
-<p>“709大抓捕”被捕人士的辩护律师在参加抗议行动之前，发表一项预备性声明。声明指出：</p>
-<p>“我们的当事人自2015年7月9日起被强迫失踪并最终证实被天津警方非法控制，直至于2016年1月上旬陆续被以颠覆或煽动颠覆国家政权等罪名批捕后至今，我们从未放弃为他们辩护。但时至今日近十一个月，批捕后近五个月，天津警方依法应当将案件移送检察院审查起诉之日，我们再次来到天津市第一、二看守所，依法要求会见我们的当事人，天津警方仍没有丝毫的向依法办案转变的任何迹象…”</p>
-<p>律师们“抗议天津警方非法剥夺他们的当事人按照自己的自由意志聘请他们需要的辩护律师为他们辩护的权利”！“抗议天津警方肆意践踏中国现行合法有效的国内法及中国政府承认或签署的国际协定与条约”！他们要求天津警方重新回归法律的轨道，不希望雷洋事件不再重演！”</p>
-<p>“709大抓捕”事件是指2015年7月上旬，上百位中国律師、民间维权人士、维权人士和律师的亲属，以及一些上访民众突然遭到公安当局大規模逮捕、傳喚、刑事拘留的事件，涉及省份多达23个。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C709%E4%BA%8B%E4%BB%B6%E8%BE%A9%E6%8A%A4%E5%BE%8B%E5%B8%88%E6%8A%97%E8%AE%AE%E8%A2%AB%E6%8A%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A6%99%E6%B8%AF%E5%95%86%E4%B8%9A%E4%BB%A3%E8%A8%80%E4%B9%9F%E5%BD%92%E4%BD%A0%E5%A4%A7%E9%99%86%E7%88%B8%E7%88%B8%E7%AE%A1/" target="cdt-mirror">【立此存照】香港商业代言也归你大陆爸爸管</a>
-</h2>
-<p><p>国际化妆品牌兰蔻近日因传出与何韵诗合作举办音乐会的消息而遭到大陆小粉红们的围攻。同时，何韵诗在香港地区为美国漱口水品牌李施德林所拍宣传视频也被翻出，许多愤怒的“爱国青年”们纷纷在微博高呼抵制李施德林、抵制兰蔻、抵制欧莱雅集团（兰蔻母公司），并翻墙前往兰蔻的Facebook页面“征战”。</p>
-<p>何韵诗自2014年积极参与“占中”后，开始被大陆“爱国青年”视为“港独”人士并遭强烈抵制。虽然何韵诗曾多次在Facebook公开表示自己并非寻求独立，而是希望中共能真正兑现“一国两制”的承诺，但仍无济于事。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/64854d39gw1f4mfa36ub3j210v0qotdj.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/64854d39gw1f4mfa36ub3j210v0qotdj.jpg?resize=500%2C362" alt="64854d39gw1f4mfa36ub3j210v0qotdj" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/64854d39gw1f4mfa36ub3j210v0qotdj.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/64854d39gw1f4mfa36ub3j210v0qotdj.jpg?resize=300%2C217 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>图片来自新浪微博</span></p></div>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/03/432213/" target="_blank">【立此存照】帝吧出征维珍航空 认错公司无辜躺枪</a></li>
-<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%AD%90%E7%91%9C/" target="_blank">周子瑜事件</a>专题</li>
-</ul></blockquote>
-<p><a name="listerine"></a><br></p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%9D%8E%E6%96%BD%E5%BE%B7%E6%9E%97.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%9D%8E%E6%96%BD%E5%BE%B7%E6%9E%97.jpg?resize=475%2C845" alt="李施德林" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/李施德林.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/李施德林.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/李施德林.jpg?resize=576%2C1024 576w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><p><span>图片来自网络</span></p></div>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%85%B0%E8%94%BB%E5%BE%AE%E5%8D%9A%E5%A3%B0%E6%98%8E.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%85%B0%E8%94%BB%E5%BE%AE%E5%8D%9A%E5%A3%B0%E6%98%8E.png?resize=500%2C1081" alt="兰蔻微博声明" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/兰蔻微博声明.png?w=604 604w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/兰蔻微博声明.png?resize=139%2C300 139w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/兰蔻微博声明.png?resize=474%2C1024 474w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>兰蔻微博账号评论截图</span></p></div>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affjw1f4lh4babeuj20fd0l8tdk.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affjw1f4lh4babeuj20fd0l8tdk.jpg?resize=400%2C553" alt="eaaf2affjw1f4lh4babeuj20fd0l8tdk" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affjw1f4lh4babeuj20fd0l8tdk.jpg?w=553 553w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affjw1f4lh4babeuj20fd0l8tdk.jpg?resize=217%2C300 217w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>图片来自网络</span></p></div>
-<p><a name="facebook"></a></p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%85%B0%E8%94%BBfacebook.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%85%B0%E8%94%BBfacebook.png?resize=500%2C3671" alt="兰蔻facebook" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/兰蔻facebook.png?w=504 504w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/兰蔻facebook.png?resize=41%2C300 41w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>兰蔻Facebook账号评论截图</span></p></div>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE.jpg?resize=500%2C442" alt="共青团中央新浪微博账号截图" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/共青团中央.jpg?w=2006 2006w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/共青团中央.jpg?resize=300%2C265 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/共青团中央.jpg?resize=768%2C679 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/共青团中央.jpg?resize=1024%2C906 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>共青团中央的出现并不令人意外；微博截图</span></p></div>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@Cri_不够成熟：绝对不会买，不知道科颜氏也这样所以刚买完。以后绝对不会在欧莱雅旗下浪费钱。抵制就抵制到底，包括jyp现在也不要忘。中国人只要心齐没有什么事儿办不成。</p>
-<p>@范思远Fan_SY：#兰蔻何韵诗# 从现在做起 拒绝欧莱雅集团下的所有产品 还有从未用过的李施德林。我没什么能力去做大事情来保护我的国家 但起码 我不想我花的每一分钱都成为分裂我的祖国的资金 不想每一分钱都变成落在兵哥哥身上的子弹。我爱我的国家 。我恨那些企图分裂以及暗地里搞小动作的人</p>
-<p>@妮可罗宾知更鸟：想退出中国市场就直说，又不会拦着你们</p>
-<p>@楚怀王i：袜子精自由的选择港独，兰蔻自由的选择支持它，我们自由的选择抵制兰蔻，大家自由才是真的自由[挖鼻]</p>
-<p>@竹篮小筑：好喜欢这句话: 我不想我花的每一分钱成为分裂我国家的资金，我不想我花的每一分钱成为兵哥哥们反藏独暴恐时身上的子弹，我不想我花的每一分钱成为藏独分子们制造暴恐伤我同胞害我族人的利剑。</p>
-<p>@芒果糖糖糖糖糖糖糖：强烈希望国产护肤品崛起</p>
-<p>@天枰马甲太肥：拿赚我们的钱去搞分裂祖国的事情，抵制欧莱雅从我做起</p>
-<p>@晨雨良善：请博主联系质检总局、税务局、环保局，看看这两个公司产品质量、税务交纳、产品生产线对环境影响是否有不良，不法行为</p>
-<p>@佳佳陪韩庚大话西游：第一：是声明不是道歉。第二：偷换概念，不是代言人就没事了吗，活动推广也是一种合作好吗。第三：什么叫造成误解，敢情是网友们的错，委屈你们了？！第四：安全因素是咋个情况，网友只是抵制，不是bao民！</p>
-<p><strong>@小武渔夫：想这样就撇清关系脱身@兰蔻LANCOME 没这么容易，我们和港独台独藏独分子，何韵诗的斗争才刚刚开始！犯我中华者虽远必诛</strong></p>
-<p><strong><a href="http://weibo.com/ttarticle/p/show?id=2309403983694749630942" target="_blank">环球时报｜兰蔻因“占中艺人”受牵连，谁之过</a></strong></p>
-<blockquote><p>[…]然而兰蔻显然更倾向于照顾内地公众的情绪，原因是再简单不过的：内地的市场不知是香港的多少倍。兰蔻作为一家商业公司，在商言商既是它的本分，也是它在复杂环境下必须拥有的智慧。没有一家大公司愿意主动掺和政治，那样做的高风险已被以往的无数案例验证。</p>
-<p>围绕何韵诗的这些事件表明，中国内地公众意识到了自己已是有广泛影响的市场力量，他们今后会对“吃中国饭砸中国锅”的境外艺人和各种力量越来越不客气。其实不仅中国人这样，全世界各国各地的民众也都会对冒犯自己的人和组织进行力所能及的惩罚。</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A6%99%E6%B8%AF%E5%95%86%E4%B8%9A%E4%BB%A3%E8%A8%80%E4%B9%9F%E5%BD%92%E4%BD%A0%E5%A4%A7%E9%99%86%E7%88%B8%E7%88%B8%E7%AE%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97/?category=18271" rel="tag">何韵诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E8%89%BA%E4%BA%BA/?category=18271" rel="tag">香港艺人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -706,7 +767,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +777,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

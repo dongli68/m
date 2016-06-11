@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,97 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91-%EF%BD%9C%E5%8C%97%E4%BA%AC%E6%9A%97%E5%9C%B0%E9%87%8C%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%A4%96%E5%AE%A3%E6%94%BB%E5%8A%BF/" target="cdt-mirror">博谈网 ｜北京暗地里百亿美元的外宣攻势</a>
+</h2>
+<p><p>（博谈网记者赵亮编译报道）据《金融时报》6月9日报道，当中共中宣部部长刘奇葆上个月访问悉尼，与澳大利亚最大的一些媒体公司签署了一系列交易后，很少人予以重视。</p>
+<p>但是，此行的成果——中共的英文喉舌《中国日报》出版的刊物《中国观察报》（China Watch）出现在《悉尼先驱晨报》等言论自由的堡垒里，这道破了中国数十亿美元的宣传机器在不断地延伸触角，试图要赢得世界各地人的心智。</p>
+<p>中国的“软实力”战略多年来在学校里资助中文课及支持当地的智库。但是现在，北京正在把它的宣传触角伸进独立媒体。</p>
+<p>与澳大利亚媒体的交易说明了这种延伸，之前与《华盛顿邮报》、英国《每日电讯报》和法国的《费加罗报》也有类似的协定。在（澳大利亚）费尔法克斯媒体（Fairfax）的几家报纸中每个月新出现的《中国观察报》插页，其首次的刊物中刊载对北京有利的报道，包括一篇支持北京在南中国海有争议水域对峙的文章。</p>
+<p>北京为了打磨自己作为一个全球大国的形象，正在找资金短缺的西方媒体中的受众，即使他们并不总能意识到该交易的性质。</p>
+<p>“澳大利亚人不知道他们所做的正在成为中国官方媒体中的大新闻，也不知道中共鼓吹该交易是使其对外宣传的胜利”，澳大利亚斯威本科技大学（Swinburne University of Technology）教授John Fitzgerald说。</p>
+<p>乔治·华盛顿大学教授David Shambaugh表示，所有大国都搞公关，但是，北京推动的规模是史无前例的。他估计，中国每年在对外宣传上花费100亿美元，远远超过了美国，他说美国2014年在公共外交上只花了6.66亿美元。</p>
+<p>北京通过孔子中心，用这些钱来资助世界各地中小学和大学课堂里的中文课和文化课。北京也在亚洲基础设施投资银行投入数百亿美元，来给发展中国家提供软贷款，加强区域援助方案，以及建立一个全球性的广播和电视新闻网。</p>
+<p>路透社去年的一份调查确定了一个含有33家广播电台的国际网络，其复杂的股权结构掩盖了其大股东：中国国营的中国国际广播电台。该网络覆盖范围从美国到澳大利亚，播出的内容是中国国际广播电台或由其控制的公司制作的。</p>
+<p>“北京感到其国际声誉与它现在更大的经济实力不相匹配”，悉尼科技大学教授Wanning Sun说。“北京感觉西方媒体有偏见，它正在尽一切所能来解决这个问题。”</p>
+<p>Sun女士说，通过提供资金，提供免费内容和技术，甚至提供记者培训，在澳大利亚及有众多华人侨民的国家，北京已经在改变当地中文媒体的关注焦点上获得了一些成功。</p>
+<p>“北京将把与澳大利亚主流媒体最近的这些交易视为接触更广泛公众的一种方式”，她说。</p>
+<p>尽管投入了资金，许多汉学家怀疑北京推动软实力的有效性。“每个人似乎都非常清楚它们的目的”，伦敦国王学院（King’s College London）的教授Kerry Brown说。“其结果是让人们有更多、而不是更少的怀疑。”</p>
+<p>北京与（澳大利亚）费尔法克斯、澳大利亚天空新闻和其他几个当地公司的交易在澳大利亚引发争议证明了这一点。</p>
+<p>批评者们指出北京的宣传机器轮廓更加鲜明，而在中国国内，记者被监禁，许多外国媒体的网站被封。一些人警告说，附带刊发北京的宣传可能会损害自己的报纸，并且让北京的商业影响力影响到澳大利亚记者关于中国的报道。</p>
+<p>还有人质疑这些澳大利亚媒体是否足够明确地让读者知道《中国观察报》的内容是主观的。</p>
+<p>费尔法克斯驳回这些担忧称：对《中国观察报》有明确的标注，与对待广告的内容没有两样。“我们致力于提供独立的、高质量的新闻，包括有关中国的事宜，这一承诺绝对没有改变”，它说。</p>
+<p>但是，继上个月澳大利亚公共广播电台（ABC）承认其旗舰的澳洲佳（Australia Plus）中文网站“没能坚守编辑程序”之后，对于中澳媒体联营已变得更加敏感。</p>
+<p>在2014年，ABC与上海文化广播影视集团签署了一份独家协议，宣称该协议让西方广播公司最广泛地接触中国观众。ABC的“媒体观察”（Media Watch）节目最近发现，在澳洲佳网站上，一些关于有争议话题的中文相关新闻被重新编辑或删除。</p>
+<p>原文China’s $10bn propaganda push spreads Down Under</p>
+<p>关键词: 北京 大外宣 澳大利亚 栏目: 时事见解 首页重点发表: 新鲜看点 编译: 赵亮 作者: Jamie Smyth</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91-%EF%BD%9C%E5%8C%97%E4%BA%AC%E6%9A%97%E5%9C%B0%E9%87%8C%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%A4%96%E5%AE%A3%E6%94%BB%E5%8A%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%A4%8F%E4%BC%9F-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%98%E8%83%BD%E7%B4%A7%E7%BB%B7%E5%A4%9A%E4%B9%85/" target="cdt-mirror">美国之音｜夏伟: 习近平还能紧绷多久?</a>
+</h2>
+<p><p>纽约—在反思文革发动50周年之际，面对中国种种文革思维和做法的回潮，亚洲协会美中关系中心主任、历史学家夏伟在接受美国之音专访时表示，认为毛的革命已经在中国消失是天真的，但习近平并非要重演文革，而是只捡对他有用的毛的工具；经济增长放缓使中共失去了一党统治的合法理由，继续放缓会使习近平更加集权以维稳，但问题是紧绷可以维持多久？夏伟说，所有一切提醒人们，历史非常重要，任何国家试图摆脱过去、遗忘历史，终将被清算。</p>
+<p>反思文革对于一位终身研究中国历史的西方学者究竟意味着什么？历史学家夏伟告诉美国之音，一个国家要用忘记过去来摆脱自己的历史是非常困难的，“如果历史被抹杀，一种溃烂的方式几乎会使文化从内里变质。” “任何国家，抹杀过去、压制过去，最终将付出很高代价。”</p>
+<p>中国必须重新评价自己的历史</p>
+<p>夏伟认为，尤其是镇压自己人民的政权，将无法摆脱历史的惩罚， “我认为，在某个时刻是会被清算的；我绝对肯定，中国必须重新评价自己的历史，更客观、更真诚地看待历史。这对任何国家都是痛苦的。”</p>
+<p>在反思文革发动50周年之际，人们发现文革思维和做法仍在中国大行其道。夏伟认为，文革不可能重演，习近平捡起的只是毛的部分对他有用的工具。 “习近平发现毛的革命、毛的文革中有用的东西，就是强调权威、党的团结、纪律，但不是群众运动、大规模阶级斗争和社会大乱。”</p>
+<p>但现实中国社会中，存在着否毛、捧毛尖锐对立的两大派。夏伟说，习近平处于两难境地， “他们需要毛的革命所提供的许多东西，但另一方面他们又要对这个革命保持一定的、但不是彻底的距离。毛泽东只是个符号，丢了它就丢了革命。因此，习近平在走非常脆弱的钢丝，试图在否定党自己的历史和支持某种被许多人强烈反对的东西之间保持平衡。”</p>
+<p>夏伟认为，文革思维和做法的回潮并不涉及意识形态，其根本原因是中国经济增长的下滑。 “现在增长放缓了，他们失去了在中国保持一党统治的最重要理由。其中并没有很多意识形态的介入。”； “他们唯一可以依靠的，只有两样东西，一个是民族主义，另一个就是党的纪律。这就是为什么要强化纪律检查委员会的地位。”</p>
+<p>过于集权很危险</p>
+<p>夏伟表示，如果中国经济继续疲软，习近平可能更加集权，因为他对维持稳定的信念十分坚定。 “但问题是你能紧绷多久？我认为关键是权力过于集中于一人手中，如果不成功，那么这个人就要承担全部责任。这是很危险的。”</p>
+<p>夏伟是美国著名资深中国问题专家。他60年代毕业于哈佛大学，同期在台湾学习汉语； 70年代中进入中国访问。1979年，他全程报道邓小平访美。曾是《纽约客》等杂志记者和自由撰稿人，担任过加州大学伯克利新闻研究生院院长。他是历史学家、记者、媒体人、教授、活跃人士。他出版过17本著作，多数与中国有关，最近一本是2013年与鲁乐汉合著的《富强》。</p>
+<p>夏伟专访实录:</p>
+<p>记者：今年是毛泽东发动文革50周年。50年过去了，但是中国国内没有像样的文革研究，没有认真的文革讨论，甚至连一个文革博物馆都没有。当局一方面试图让人们遗忘文革，另一方面又对歌颂赞美文革网开一面，你如何解读这一现象？</p>
+<p>夏伟：70年代末、80年代初，有些想法有点天真。那时邓小平开始推行改革开放政策，于是有人认为，他掌权了，文革正式结束了，在中国历史发展的长河中，中国整个革命阶段不重要了。那时候许多人天真地认为，现在革命结束了。但今天我们看到的，那些在延安和其他地方的共产党人，其实是几十年的经验，他们的人生就是马列主义革命、阶级斗争、整风、群众运动，所有这些事情，都深深埋在这个体制和中国人的灵魂中。它并不像有些人想象的那么容易摆脱，或者说，那么容易摆脱文革。因此，我们今天看到中国政府和总书记习近平，看到那类思想观点、态度和处理问题的方式又回来了。它对我的提醒是，历史非常重要，你不能忘掉历史，你不能逃避历史，你不能仅仅说它结束了、它过去了，把它推到一边，其实它仍深埋在人们心里，并不时回来，不时以难以最终彻底摆脱的社会文化意识的方式再现自己。</p>
+<p>习近平发现毛文革对他有用</p>
+<p>记者：习近平上台后，种种文革式思维和做法大行其道，比如个人崇拜、用侮辱人格的方式强迫未经审判的嫌疑人公开认罪，对律师、维权人士的大规模抓捕等等，使人们越来越担心文革要卷土重来。你认为可能吗？</p>
+<p>夏伟：我认为文革要完全再回来基本上是不可能的，因为文革的重要部分是毛泽东利用年轻人攻击共产党，我的理解是，习近平并不愿意这种情况发生。但是，习近平确实把一些革命的和文革的东西带回来了，这些东西就是马列主义。马克思主义是关于社会、阶级斗争的学说；列宁主义是关于建党、领导、服从、统治集团、纪律的理论。我认为，习近平发现了毛的革命、毛的文革中有用的东西，就是强调权威、党的团结、纪律，但不是群众运动、大规模阶级斗争和社会大乱。</p>
+<p>增长放缓使一党统治失去最重要理由</p>
+<p>记者：是什么原因使习近平让部分毛的东西又重新回来呢？因为中国经济放缓了？因为中共对文革的结论给习近平留下了被他利用的余地？还是因为习近平本人的知识结构使他缺乏治理一个国家的必要手段而必须从毛那里借用？</p>
+<p>夏伟：我认为，邓小平以来的新认识是中国共产党合法性的最重要部分就是经济增长。现在经济增长放缓了，他们失去了在中国保持一党统治的最重要理由。其中并没有很多意识形态的介入。因此随着这一缺失，任何共同的统一政治力量，在经济增长减弱的情况下，唯一可以依靠的，只有两样东西，一个是民族主义，另一个就是党的纪律。这就是为什么要强化纪律检查委员会的地位。</p>
+<p>记者：习近平上台后明确提出了中共前30年与后30年两段历史不能相互否定，以打通并不一致的毛时代和邓时代。你认为这样做的目的是什么，这种提法真能帮助他吗？</p>
+<p>习近平在走脆弱钢丝</p>
+<p>夏伟：我认为，习近平主席试图显示的是，对中国共产党来说彻底否定毛主席的革命是危险的。因为这是他们的革命，是党的革命，是他们拥有的革命，是他们完成的革命。因此，他处于两难境地：一方面，一部分人要否定它、忘记它，但是另一部分则不能忘掉它、不想忘掉它。我认为，忘不掉它的人多数是要强调如何健全党、如何建立一个强大的中央专制的党，如何有一个统一的国家。因此，这是个极大的矛盾：他们需要毛的革命所提供的许多东西，但另一方面又要对这个革命保持一定的、但不是完全的距离。毛泽东只是个符号，你丢了它就丢了革命。因此，习近平在走非常脆弱的钢丝，试图在否定党自己的历史和支持某种许多人强烈反对的东西之间保持平衡。</p>
+<p>记者：人们常说，距离越远对历史看得越清。文革距今50年了，应该对它看得更清楚了。你认为文革究竟是什么？</p>
+<p>文革是人类历史上的巨大骚乱</p>
+<p>夏伟：我第一次到中国是在文革期间，你记得、每个从那时过来的人都记得，那是一个很复杂的混合物。我认为，一方面毛泽东认为，有必要把中国社会整个翻个个儿，要翻身；但另一方面显然他利用文革来维持权力。因此，文革的复杂性在于，一方面有其确实的政治动机，有一定的道理；但另一方面，文革变成了非常险恶的权力斗争。毛泽东赢得除大跃进后期到文革前短暂时期外的几乎所有权力斗争。</p>
+<p>你问什么是文革，文革是人类历史上一种巨大的骚乱，是由一个国家的领袖发动的、有着严重后果的骚乱。我认为也有积极意义，但大部分是非常残酷、非常野蛮、非常具有破坏性的。问题是如果有一个把你带入文革的党，而这个党仍然掌权，那么我们能对文革采取什么态度呢？或者说能对毛领导的整个革命采取什么态度呢？想想吧，最突出的态度就是算了吧，别说了！</p>
+<p>记者：你认为毛为什么要发动文革？</p>
+<p>毛是个复杂人物</p>
+<p>夏伟：我认为毛是个非常聪明和复杂的人，他正确地发现了中国传统社会结构中的弱点，官僚主义很严重。它是个大问题，它非常保守，等级观念很强。从某种意义上说，它确实需要改造。但当然，毛的处方是极端的，从这个角度你可以理解中国的文革是五四运动的产物，或试图去找到彻底重塑自我的途径。但是，强烈的自我权力斗争因素也在起作用，我们一而再、再而三地看到，彭德怀、周恩来、刘少奇、邓小平，所有这些人在不同的时期反对毛，毛则利用红卫兵，利用群众运动，把他们都打败了，那是很具破坏性的。这是毛在30年代发展起来的非常明确的哲学思维，和一个对权力很残酷、很现实认知的混合物，即，认为如果你要当个领袖就必须不断控制。从许多方面看，毛泽东就是个有着旧式帝王心态的皇帝。</p>
+<p>记者：研究毛文革的学者有的认为他发动文革有理想主义成分，也有的说纯粹出于权力斗争的需要，甚至有的认为，毛的最终目的是为了建立家天下。你认为呢？</p>
+<p>夏伟：从很多方面来看，毛是一个很卓越、很聪明、很有战略智慧的人。他建立了一些很有趣的理论，他关于社会如何运作、如何消灭某些阶级以使另一些阶级得到福祉，他有一整套对中国革命的完整世界观，毫无疑问，他是个理想主义者。但他也是个很懂得现实权力的人，他从不反对在非常务实的层面上去为某些事情斗争。他知道他可以非常理想主义，他也知道如果他没有权力，就不能影响任何事物。因此，他是非常复杂矛盾的人物。这两方面的特点使他既是无情的、有能力进行权力斗争的人，又是具有中国社会必以非常极端方式改变的非常理想主义的乌托邦式人物。</p>
+<p>记者：毛自己说他一生只做了两件事，一是打赢了内战，一是搞了文革。可见他赋予文革的份量。你认为毛、毛文革的遗产是什么？什么是你刚才说的有积极意义的东西？</p>
+<p>夏伟：我认为某些东西，比如中国最终使语言得到统一，普通话，60、70年代听那些老领导人讲话，都是地方话、方言。你很难听得懂毛泽东、邓小平和周恩来讲话，都是不一样的，这是一件事，我认为是积极的。中国还建立了一些基本的保健制度，一些基本的农村教育，统一了国家——有人认为这不是个好主意，但它统一了所有老的秦帝国，汉、满、蒙、回、藏，重新到一起了，除了台湾、香港和澳门。因此，我认为中国成就了一些事情。但是我认为，毛有他非常反叛的东西：大闹天宫、造反有理，为乱而乱，继续革命，永不停止，他脑子里就是有这种观念，但是实践中是很悲惨、很残酷、破坏性很大的。</p>
+<p>毛是希特勒吗？</p>
+<p>记者：有文革和毛泽东研究者把他比与希特勒相比，你认为他们有可比性吗？</p>
+<p>夏伟：我认为拿一个领袖跟另一个领袖、一个运动跟另一个运动比较，总是很冒险的。因为希特勒是绝对反马克思主义、反共产主义的，他没有阶级斗争观念，他是个法西斯主义者。你可以说他是个列宁式人物——如果从强调一个党、民族主义、服从、纪律、团结的角度看，这些对毛以及以后的中国领导人也是非常重要的。所以，从这些方面来看，他们跟每个专制独裁领袖有共同点，但是在其它方面，中国的文革又是独特的。</p>
+<p>记者：文革对你个人而言有什么意义？</p>
+<p>夏伟：我第一次到中国是在毛死前、文革还没有结束的时候。很难理解当时的情况。我认为，我理解的是毛的理想主义部分：他是五四运动的产物。而五四运动对于他们而言是什么呢？他们确实在研究中国，在问为什么我们这么弱？为什么我们无法保卫我们自己？为什么日本可以从德国手上拿走山东？为什么我们不能抵抗所有的侵略？不能抵抗通商口岸的上海新殖民租界？那个时期是毛的成型期，他担心的是中国怎么能再强大，怎么能成为受尊重的大国。为使中国强大，他做了常常是矛盾的不同努力。有趣的是我们看到习近平现在也继承了这个传统，“中国梦”就是要使中国再强大，在世界上成为经济大国，受尊重的强国，其他大国都必须听其国民的声音，我认为这是整个一以贯之的情结，毛也是其中一部分，除了他的有关阶级斗争的、非常激烈的社会骚乱理论——这种理论孙中山、蒋介石没有，邓小平没有，甚至习近平也没有。</p>
+<p>记者：在反思毛发动文革50周年之际你还有什么特别的感想？</p>
+<p>夏伟：我用一生研究历史。我热爱中国历史。我确实认为，一个国家要用忘记过去来摆脱自己的历史是非常困难的。如果历史被抹杀，一种溃烂的方式几乎会使文化从内里变质。我认为，我们可以从日本的例子看得很清楚，日本仅部分面对自己的过去。做得较好的是德国，二战后他们确实敞开心胸，扪心自问为什么会发生这种事情？我们是怎么走向疯狂的？是怎么对自己、对世界、对邻国做出了这么可怕的事情的？我认为这是中国共产党从来不允许中国的学者、记者、研究者深入探讨和询问的问题，因为威胁太大。</p>
+<p>虽可能蒙羞，但必须面对</p>
+<p>记者：如果你看一下中共的整个历史，他们对历史研究的控制越来越紧。你认为一个民族、一个国家如果不能真诚地对待自己的历史会有什么后果？</p>
+<p>夏伟：讽刺的是我认为中国一贯操纵自己的历史。实际上从历史上看，历史对中国人总是很重要的，在繁荣的帝王时代，当新朝代开始，他们必须写前朝历史，尽管如此，他们仍有一个对历史的深切的尊重，试图找到某种程度的历史真实。我担忧的是，这种对历史真实性和准确性的关照是这整个制度的弱点。因为我认为任何国家，抹杀过去、压制过去，最终都要付出很高代价。你无法摆脱它，尤其是如果你虐待自己的人民。我认为，在某个时刻是会被清算的；我绝对肯定，中国必须重新评价自己的历史，更客观、更真诚地看待历史。这对任何国家都是痛苦的。历史上美国曾经在民权、奴隶制、黑人、对原住民的屠杀等问题上有过艰难时刻。我认为，一个伟大社会的真正挑战是你能否诚实地对待自己的历史，虽然你有可能因此为难、蒙羞、不太好看，但你必须面对它。</p>
+<p>记者：明年将举行中共十九大，今年夏天的北戴河会议引人注目。已经有很多关于国家主席、总书记习近平跟总理李克强矛盾公开化的报道，有人认为习近平一定会在十九大上有颠覆性动作。你对此有什么看法？</p>
+<p>夏伟：我认为不管习近平治理国家的理论是什么，也不管他认为国家主席、党的总书记的权力应该有多大，最重要的因素是经济。如果经济越来越疲软，他可能就会越来越集权，因为他对维持稳定的信念十分坚定。但问题是你能紧绷多久？我认为关键是权力过于集中在一个人手中，如果没有成功，那么这个人就要承担所有责任。而这是很危险的。没有人愿意看到中国失败或崩溃，这对中国和世界都很危险，所以我希望他能找到某种方式，多一点放松、多一点开放，也许使权力有所分散，使之多一点平衡，因为像他现在这样集权是非常危险的。</p>
+<hr><p><small>© 你兔腹黑 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%A4%8F%E4%BC%9F-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%98%E8%83%BD%E7%B4%A7%E7%BB%B7%E5%A4%9A%E4%B9%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E4%BC%9F/?category=18271" rel="tag">夏伟</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91-%E7%AB%A0%E6%96%87%EF%BC%9A%E4%BB%8A%E5%A4%A9%E4%B8%8D%E8%83%BD%E5%83%8F%E5%B1%88%E5%8E%9F%E9%82%A3%E6%A0%B7%E7%88%B1%E5%9B%BD/" target="cdt-mirror">东网 | 章文：今天不能像屈原那样“爱国”</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-10-at-%E4%B8%8A%E5%8D%8811.53.11.png?resize=565%2C400" alt="Screen Shot 2016-06-10 at 上午11.53.11" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-10-at-上午11.53.11.png?w=565 565w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-10-at-上午11.53.11.png?resize=300%2C212 300w" sizes="(max-width: 565px) 100vw, 565px" data-recalc-dims="1"></p>
@@ -702,63 +790,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E6%8A%B5%E5%88%B6%E4%B8%8B%E4%B8%80%E7%AB%99%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A/" target="cdt-mirror">【立此存照】“爱国”抵制下一站：李嘉诚</a>
-</h2>
-<p><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%9D%8E%E6%B3%BD%E6%A5%B7%E5%85%AC%E5%8F%B8.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%9D%8E%E6%B3%BD%E6%A5%B7%E5%85%AC%E5%8F%B8.png?resize=500%2C1037" alt="李泽楷公司" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/李泽楷公司.png?w=605 605w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/李泽楷公司.png?resize=145%2C300 145w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/李泽楷公司.png?resize=494%2C1024 494w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A6%99%E6%B8%AF%E5%95%86%E4%B8%9A%E4%BB%A3%E8%A8%80%E4%B9%9F%E5%BD%92%E4%BD%A0%E5%A4%A7%E9%99%86%E7%88%B8%E7%88%B8%E7%AE%A1/">【立此存照】香港商业代言也归你大陆爸爸管</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/">BBC | “港独”指控下兰蔻取消何韵诗演唱引反弹</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2014/11/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%94%B5%E5%BD%B1%E9%99%A2%E8%A6%81%E5%9C%A8%E5%A4%A7%E6%98%AF%E5%A4%A7%E9%9D%9E%E9%9D%A2%E5%89%8D%E5%9D%9A%E6%8C%81%E7%AB%8B%E5%9C%BA/">【图说天朝】电影院要在大是大非面前坚持立场</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2014/10/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E6%96%B0%E5%8D%8E%E7%BD%91%EF%BC%9A%E6%9D%9C%E6%B1%B6%E6%B3%BD%E4%BB%AC%E4%BC%91%E6%83%B3%E5%90%83%E6%88%91%E4%BB%AC%E9%A5%AD%E8%BF%98%E7%A0%B8/">【异闻观止】新华网：”杜汶泽”们休想吃我们饭还砸锅</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/5643197544" target="_blank">@Miss32812</a>：反正我不听，我不用，因为我是中国人<img src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9493.png?resize=20%2C20" px data-recalc-dims="1">。</p>
-<p><a href="http://weibo.com/5724607361" target="_blank">@喜欢单身_</a>：难道这样都不犯法吗<img title="[疑问]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/yw_org.gif" alt="[疑问]" data-recalc-dims="1">香港还是中国的吗</p>
-<p><strong>@紫爵千户候：这个瓜娃子明显不知道中国政府有多么不好惹，法律保护不了你，即便你在香港</strong></p>
-<p><a href="http://weibo.com/3974426665" target="_blank">@月华似茧</a>：可恶至极！！人不能忘本，，全体中国人封杀你，，<img title="[怒骂]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]" data-recalc-dims="1"><img title="[怒骂]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/60/numav2_org.gif" alt="[怒骂]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3407078572" target="_blank">@雁渡寒潭xk</a>：股价估计要暴跌<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1700858774" target="_blank">@Chasing-Y</a>：哦！ 那就滚出中国吧<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1930626432" target="_blank">@我叫霸啵儿喯</a>：我方将派王思聪公子发声明<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p>@行走夏日的沙滩：隐藏的很深啊！请政府查查闹港独的资金来源？证据确凿，直接让李家山倒！！永远支持祖国稳定！！</p>
-<p><strong>@SOBER_Estelle：等着大陆爹地赐死吧！</strong></p>
-<p>@Q_匆匆：别和港人一般见识，做好自己，发展好经济！大陆发达了，港台人来大陆打工，享受最低工资标准待遇！</p>
-<p>@小A-石头仙儿：求网友扒李氏集团旗下品牌</p>
-<p><strong>@紫棠月白:其实你发现，那些和何韵诗合作的企业或团体，并没有意识到，他们的对手，不再是中国政府，而是中国人民。</strong></p>
-<p>@detail100：吃共产党的饭砸共产党的锅， 你们竟然可以自己养活自己？</p>
-<p>@姜钧策妈妈：那就永久抵制呗！多简单！敌人的朋友就是我的敌人！</p>
-<p>@明亦晨曦：说国家不爱你的，随时欢迎去民主化的叙利亚、菲律宾、利比亚、阿富汗、埃及，感受一下民主的光辉。</p>
-<p>@芒果加酸奶HC：呵呵～大陆最不缺的就是各种地产电商富豪～李嘉诚的时代早已过去～呵呵连屈臣氏不是都卖了～看样子不是在大陆本就没市场才敢口出狂言</p>
-<p>@烟村旧渡:你永久录用，我就永不使用呗，反正也没听说过。看了一圈评论，说什么的都有，在我看来，这个国家即使有许多缺点，但是她确实使我和我的家人过得更好（相对于上个世纪），如同母亲和儿子，即使儿子会和母亲吵架，但也是打不散的亲人。如果一边吃奶一边骂娘，麻烦你给我滚远点！</p>
-<p>@水果玩家：请那些在香港却不是香港户籍的三百多万披着白猪皮的人赶快滚蛋！！！那些港独扰乱社会，扰乱人心，扰乱经济居然在这样的法治城市中被判无罪。。。</p>
-<p><strong>@Kim_cHi：迟早会清算李家！！！！放心</strong></p>
-<p>@Sunman4884：擦，仗着你爸有钱你特么忘了你的祖宗了么</p>
-<p><strong>@最幸福的糖：那我们只能永久抵制兰蔻了，反正我也用不起</strong></p>
-<p>@HAO-H-W：大陆永久封杀，几十万香港人就活在你们自己的世界里吧</p>
-<p>@下辈子做狗官：老李头在大陆积攒的人品要被败光了，跟裆作对是没好处的</p>
-<p><strong>@早安请吃晚餐：刚通过中国政府拿下的欧洲港口，不想要了？李嘉诚不死，这句话他儿子迟早得撤回。李嘉诚一死，什么亚洲首富，中国打压分分钟的事，他那个滥情的儿子嚣张不起来。</strong></p>
-<p>@喵猫三三：李泽楷什么鬼？？我只听过王思聪那任性又霸气的胖子。</p>
-<p>@庸人之自扰：我仅代表我自己，永久不用屈臣氏。上面的积分也不要了，走到门口我还要让每个朋友知道，看，这就是支持何韵诗那个加拿大袜子精的屈臣氏！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E6%8A%B5%E5%88%B6%E4%B8%8B%E4%B8%80%E7%AB%99%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97/?category=18271" rel="tag">何韵诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%98%89%E8%AF%9A/?category=18271" rel="tag">李嘉诚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%93%A5%E5%9C%A8%E5%8C%97%E4%BA%AC%E8%A1%97%E5%A4%B4%E7%B4%A2%E8%A6%81%E6%8B%A5%E6%8A%B1/" target="cdt-mirror">【CDTV】日本小哥在北京街头索要拥抱</a>
-</h2>
-<p><p>@再吃会被杀掉哦：日本小哥桑原工一在北京街头索要拥抱，称“在日本很多人以为大部分的中国人不喜欢日本人，但是我觉得不是”“我相信你，你相信我吗，如果你能可以给我一个拥抱吗？”感觉还挺感人的就转了</p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%93%A5%E5%9C%A8%E5%8C%97%E4%BA%AC%E8%A1%97%E5%A4%B4%E7%B4%A2%E8%A6%81%E6%8B%A5%E6%8A%B1/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p>墙内视频<a href="http://t.cn/R55Q2g8?u=2317429690&m=3983060753643373&cu=5175026766">地址</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%97%A5%E6%9C%AC%E5%B0%8F%E5%93%A5%E5%9C%A8%E5%8C%97%E4%BA%AC%E8%A1%97%E5%A4%B4%E7%B4%A2%E8%A6%81%E6%8B%A5%E6%8A%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中日关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3/?category=18271" rel="tag">和平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%96%84%E6%84%8F/?category=18271" rel="tag">善意</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A2%E8%A6%81%E6%8B%A5%E6%8A%B1/?category=18271" rel="tag">索要拥抱</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -770,7 +801,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -780,5 +811,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

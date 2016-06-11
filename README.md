@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,156 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%87%A4%E5%87%B0%E8%AF%84%E8%AE%BA-%E6%AF%94%E5%A8%81%E8%83%81%E8%BF%87%E8%B7%AF%E5%A5%B3%E5%AD%A9%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E9%82%A3%E4%BA%9B%E6%B4%97%E5%9C%B0/" target="cdt-mirror">凤凰评论 | 比威胁过路女孩更可怕的是那些“洗地警”</a>
+</h2>
+<p><p>凤凰评论家：ifengopinion</p>
+<p>作者：敬一山</p>
+<blockquote><p><strong>没有谁否认警方有执法权，问题是权力的边界和执法的规范。面对争议执法，不讨论细节是非，只以“有瑕疵”一笔带过，而去高调宣扬理论上的执法权，有极大的洗地之嫌。</strong></p></blockquote>
+<p>深圳宝安两个女孩过马路被警察盘查，进而被警察强制传唤。警车上双方语言冲突，警察说了一些情绪激烈的言辞——“今天就是你自己犯贱”“我要把你们跟那些小偷、艾滋病、强盗关到一起去，让你们享受去”等，用保安区公安分局局长的话说，“看了视频，反应就是两个字‘愤怒’”。</p>
+<blockquote><p>相关阅读：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/">【CDTV】深圳警察：把你和艾滋病、小偷、强盗关在一起好好享受！</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/06/psy-eyes-%E6%B7%B1%E5%9C%B3%E9%99%88sir%E4%B8%8E%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%AF%B9%E8%AF%9D%E6%B3%84%E9%9C%B2%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E6%80%A7%E6%AC%BA%E5%87%8C%E6%84%8F%E8%AF%86/">psy-eyes | 深圳陈sir与女孩的对话泄露了怎样的性欺凌意识</a></p></blockquote>
+<p>事件因为涉事警察被停职，当地警方公开道歉，而逐步进入尾声。本来这是一起个案，讨论清楚各方是非，该道歉道歉、该问责问责，照章办事就可以。但值得注意的是，事件在网上呈现和讨论的过程中，一些警方身份的网友和普通网友之间，却再度变成站队和舆论对抗，很难达成对话和共识。</p>
+<p>比较有代表性的警察发言，是这样的：</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-%E4%B8%8A%E5%8D%8810.49.20.png?resize=574%2C244" alt="Screen Shot 2016-06-11 at 上午10.49.20" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.49.20.png?w=574 574w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.49.20.png?resize=300%2C128 300w" sizes="(max-width: 574px) 100vw, 574px" data-recalc-dims="1"></p>
+<p>这位警官发言下面的跟帖，既有纷纷赶去批评的网友，也有不少力挺他的警察同行。这几乎已成了类似事件之后的舆论标配。</p>
+<p>在每一次警察不规范执法之后，总有警察群体抱团捍卫他们的执法权。好像在现实中，他们的执法权受到多大的阻碍似的，可现实情形是，大街上极少有人能抗拒警察的执法，无论那是规范的还是不规范的。</p>
+<p>所以，担心警察执法权得不到保障，根本就是个伪问题，现实问题是怎么保证警察规范执法。没有谁否认警方有执法权，问题是权力的边界和执法的规范。面对争议执法，不讨论细节是非，只以“有瑕疵”一笔带过，而去高调宣扬理论上的执法权，有极大的洗地之嫌。</p>
+<p>在警察盘查过路女孩这件事中，该讨论和厘清的，是警察有没有权力把没有任何犯罪嫌疑的过路女孩扭送到派出所去？警察盘查路人，总要有符合常理的“嫌犯特征”，而不能警察看谁不爽，就肆无忌惮地冲着谁行使所谓执法权。</p>
+<p>理论上的执法权经不住现实的检验，还在一味地强调那个权力，对现实的伤害视而不见，甚至要抹黑受害者，这岂非别有用心？</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-%E4%B8%8A%E5%8D%8810.49.59.png?resize=598%2C334" alt="Screen Shot 2016-06-11 at 上午10.49.59" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.49.59.png?w=598 598w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.49.59.png?resize=300%2C168 300w" sizes="(max-width: 598px) 100vw, 598px" data-recalc-dims="1"></p>
+<p>在类似事件中，还经常有警察举美国警察不容侵犯的例子，但他们却不提美国警察受到的监督和约束。在要求盛气凌人、扩大执法权时忙着和国际接轨，但在规范执法的时候则坚持中国国情，这样的警察心态，比一两个“情绪化执法”的警察更让人觉得恐惧。</p>
+<p>正因为现实太多无奈，网上相应的吐槽会多一些。在恶性个案之后，也难免有网民情绪化扩大批评对象。这当然不值得提倡，但也算是言论场很难避免的杂音。那些动不动喜欢说美国警察执法多么强悍的警察们，如果多看看美剧，多看看网上美国人对警察的吐槽，他们也许就不会看到几句批评就觉得受到多大的冒犯，就觉得自己的权威受到多大的侮辱。</p>
+<p>因为警察手握权力和武器，当然要比普通公民更多克制。一方面拥有强制权力，另一方面还排斥舆论监督，要在语言上也全面压制公民，这就未免太过霸道。</p>
+<p>现在涉事警察被处理、当地警局道歉，但网上捍卫执法权的警察还有不少。正是他们把个案问题扩大化，令原本正当的执法权也变得令人疑惧，因为他们总在不断神话执法权、排斥监督。这种事实上的敌对心态很值得警惕。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%87%A4%E5%87%B0%E8%AF%84%E8%AE%BA-%E6%AF%94%E5%A8%81%E8%83%81%E8%BF%87%E8%B7%AF%E5%A5%B3%E5%AD%A9%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E9%82%A3%E4%BA%9B%E6%B4%97%E5%9C%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">国家暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3/?category=18271" rel="tag">深圳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">深圳警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%E8%BE%B1%E9%AA%82%E4%B8%A4%E5%A7%90%E5%A6%B9/?category=18271" rel="tag">深圳警察辱骂两姐妹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 26分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/psy-eyes-%E6%B7%B1%E5%9C%B3%E9%99%88sir%E4%B8%8E%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%AF%B9%E8%AF%9D%E6%B3%84%E9%9C%B2%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E6%80%A7%E6%AC%BA%E5%87%8C%E6%84%8F%E8%AF%86/" target="cdt-mirror">psy-eyes | 深圳陈sir与女孩的对话泄露了怎样的性欺凌意识？</a>
+</h2>
+<p><p>作者：唐映红</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-%E4%B8%8A%E5%8D%8810.43.52.png?resize=494%2C347" alt="Screen Shot 2016-06-11 at 上午10.43.52" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.43.52.png?w=494 494w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.43.52.png?resize=300%2C211 300w" sizes="(max-width: 494px) 100vw, 494px" data-recalc-dims="1"></p>
+<p>SQ&A160611</p>
+<p><strong>问：深圳陈sir与女孩的对话泄露了怎样的性欺凌意识？</strong></p>
+<p>答：昨天，关于一则深圳警员因盘查将两名过马路的无辜女孩带回警局问讯路途中的对话视频引爆了社交网络，激起来从北京雷洋事件、上海交警动不动就铐女车手现象以来，<strong>民众对警权滥用不断加深的担忧和焦虑。</strong>事情曝光后，深圳地方警局迅速做了处理，涉事警员被停职、学习，警局副局长向两名女孩陈恳道歉。应该说，至少从表面上来看，<strong>深圳警方的态度远较另两个大都市警方要好太多。</strong>涉事警员尽管在于女孩的对话中极其嚣张，并不时威胁和涉嫌言语的性欺凌，但能够允准女孩用手机录下整个过程，反映了这位<strong>陈sir并不是真正意义上的“坏”警员，</strong>不像其它地方将录像的无辜市民殴打致死并栽陷其为嫖娼，或者将录像的大学生屁股打得血肉模糊。另一方面，也反映了<strong>陈sir对自己的言行充满自信，不以为怵。</strong></p>
+<blockquote><p>相关阅读：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/">【CDTV】深圳警察：把你和艾滋病、小偷、强盗关在一起好好享受！</a></p></blockquote>
+<p>抛开这则事件后面的法律问题，下面仅就视频中陈sir与女孩对话中明显带有性欺凌色彩的话语以及背后的心理略加分析。</p>
+<p>首先，从视频中可以看出，涉事陈sir是在<strong>愤怒</strong>的情况下与女孩产生了言语冲突。从心理学角度，人们在愤怒时，身体内的激素会产生相应的变化，一是<strong>睾丸酮(Testosterone)激素水平会上升</strong>，睾丸酮既是性唤起的主要激素，也是促使人们产生攻击行为的主要激素。这导致<strong>人们在愤怒的情绪下，会产生明显甚至强烈的生理唤醒，这种强烈的生理唤醒既可以表现为纯粹的攻击或侵犯，也可能表现为夹杂着性唤起的侵犯。</strong></p>
+<p>心理学家伯科威茨(Leonard Berkowitz)在他提出的具有普适性的侵犯理论认为，人们处于愤怒情绪，会导致生理唤醒。但这种因愤怒而导致的生理唤醒是否表现出攻击或侵犯行为，则要取决于情境中的另一个变量，即所谓的<strong>侵犯线索</strong>。例如，一个愤怒的人看到一把枪，那么他就更可能表现出侵犯行为来。可是，<strong>如果情境中呈现的不是侵犯线索，而是性线索，那么愤怒就可能表现出带有性色彩的侵犯或者欺凌现象。</strong></p>
+<p>愤怒导致人们身体内激素水平的变化另一因素是<strong>血清素水平受到抑制</strong>。血清素也就是5-羟色胺(5-hydroxy tryptamine), 它是人们控制冲动，理性决策的很重要的一种大脑神经传递激素。<strong>人们处于愤怒时，血清素水平会受到抑制，表现为行为人理性行为能力下降，冲动控制力薄弱。</strong>生活中，人们常说“<strong>冲动是魔鬼</strong>”，就是因为愤怒会使人们的理性能力严重下降，无法有效控制冲动。</p>
+<p>但从另一个角度，正是因为人们在愤怒中理性决策和冲动控制力受到抑制，所以<strong>人们在愤怒中所展现和表露的言行更可能反映了他内心的真实想法，或者欲望的投射。</strong></p>
+<p>因此，不难从深圳陈sir与女孩的对话中，看到明显的性欺凌色彩。例如，下面这段对话：</p>
+<p><em>　　……</em></p>
+<p><em>　　陈sir：你不懂法律，你就不要在这胡说八道。</em></p>
+<p><em>　　女孩：我们是不懂，我们没读书。</em></p>
+<p><em>　　陈sir：我怀疑你是个男人，你他妈的给我上女厕所干什么，<strong>你脱衣服给我看一下。</strong></em></p>
+<p><em>　　女孩：我刚刚上女厕所了吗？</em></p>
+<p><em>　　……</em></p>
+<p>由于陈sir盘查两名女孩的情境是在<strong>过马路</strong>的时候，所以这段话里所说的<strong>“上女厕所”显然不是陈sir盘查女孩所实际经历过的情境。</strong>但是，在被女孩一再逼问下，陈sir情急之下<strong>幻想</strong>了一种盘查的情境，在这种盘查的幻想情境中，陈sir怀疑两个女孩是男人假扮而试图闯进女厕所，所以要求她们脱衣服来证实自己的性别身份。<strong>这种带有性幻想色彩的假设情境中，一名48岁的中年阿sir可以名正言顺以执法的名义要求“疑似”女孩脱衣服来“给我看一下”。</strong></p>
+<p>由此，不难理解<strong>一名阿sir在被激怒的情况下，因为情境中年轻女孩作为一个性线索，所以导致了他无意识的性唤起，并通过言语不由自主地表达了出来</strong>。</p>
+<p>但是，严格地说，这样的话语已经构成<strong>明显的言语性骚扰</strong>。因为即使在真实的相似情境下，<strong>陈sir也不能要求嫌疑人“脱衣服给我看一下”来确定对方的性别身份，这在任何法律语境下都是不合法的。</strong>即使在紧急的情况下需要现场要求“脱衣服”临检，那也只能由<strong>女警</strong>来执行。</p>
+<p>也就是说，<strong>在说“你脱衣服给我看一下”这段话时候，或许陈sir并没有主观上的故意要对女孩进行言语上的性欺凌，但实际效果却是给女孩施加了性欺凌的压力。</strong>之所以会这样，最大的可能就是这名年届半百的老警员，<strong>从来就没有接受过尊重女性的训练。</strong>一个男人对年轻女孩有性唤起或者性幻想可能发乎本性，但<strong>教养的作用就是要对女性予以起码的尊重，不能将自己动物性的一面不加掩饰地表达出来。</strong>显然，<strong>陈sir并没有学会收敛自己的无意识的性幻想，反而自然而然脱口而出地表达出来。</strong></p>
+<p>从另一段对话中，<strong>陈sir所表达的性欺凌就不是无意识，缺乏教养的流露，而完全是主观上的恶意和习惯上的作派。</strong></p>
+<p><em>　　……</em></p>
+<p><em>　　陈sir：好啊，你们不懂法律我就教教你们，让你们长长见识。</em></p>
+<p><em>　　女孩：你教你女儿去。</em></p>
+<p><em>　　陈sir：<strong>把你跟那些艾滋病，跟小偷，跟强盗关在一起，我让你慢慢去享受我告诉你</strong>，你看着吧。</em></p>
+<p><em>　　女孩：随便你，随便你。</em></p>
+<p><em>　　女孩：你先别说话了。</em></p>
+<p><em>　　陈sir：你以为我是你什么人，我跟你没有什么关系，我就是警察，我在执行我的公务，懂吗？你就必须配合我，你就记住这一条，<strong>今天是你自己犯贱。</strong></em></p>
+<p><em>　　……</em></p>
+<p>在这段话里，陈sir扬言要将无罪的、无辜的女孩与“艾滋病”“小偷”“强盗”关在一起，其用意十分明显，就是<strong>试图用可能遭遇性侵甚至被强奸来威胁和恐吓女孩。</strong>同时，这也反映了将女嫌疑人，或者女犯“<em>跟那些艾滋病，跟小偷，跟强盗关在一起</em>”<strong>可能是一种潜规则的常态</strong>，而这样的后果则是让女性面临着被强暴和感染艾滋病的实际危险中。正如性心理学的研究表明，<strong>强奸在大多数时候并不是简单地为了宣泄性欲，而更主要的是为了彰显权力和实施暴力。</strong>那么，<strong>如果警权没有受到有效的监督和制衡，那么通过令不听话的女嫌疑人、女犯，甚至无辜的女孩面临或遭遇被其他犯人强奸，以此来教训她们“必须配合我”，就很容易成为个别阿sir遏制不住的冲动。</strong></p>
+<p>平心而论，<strong>视频中的陈sir相比于其他同行来说，远远算不上恶劣。</strong>他之所以会成为舆论热议的焦点，以及会因为而遭受处分，很大程度上与他并不恶劣的行为，<strong>允准女孩拍摄视频</strong>而没有加以阻拦或者抢夺过来删除有关。<strong>仅此一点就远远比广西南宁青秀区法院撕律师裤子的阿sir、甘肃兰州榆中打屁股的阿sir、北京昌平抓嫖的阿sir要好太多。</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/psy-eyes-%E6%B7%B1%E5%9C%B3%E9%99%88sir%E4%B8%8E%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%AF%B9%E8%AF%9D%E6%B3%84%E9%9C%B2%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E6%80%A7%E6%AC%BA%E5%87%8C%E6%84%8F%E8%AF%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E6%AC%BA%E5%87%8C/?category=18271" rel="tag">性欺凌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3/?category=18271" rel="tag">深圳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">深圳警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%E8%BE%B1%E9%AA%82%E4%B8%A4%E5%A7%90%E5%A6%B9/?category=18271" rel="tag">深圳警察辱骂两姐妹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%94%BF%E8%A7%81-%E9%9D%A2%E5%AF%B9%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95%EF%BC%8C%E4%BD%A0%E4%BC%9A%E6%80%8E%E4%B9%88%E5%81%9A%EF%BC%9F/" target="cdt-mirror">政见 | 面对暴力执法，你会怎么做？</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-%E4%B8%8A%E5%8D%8810.40.33.png?resize=503%2C356" alt="Screen Shot 2016-06-11 at 上午10.40.33" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.40.33.png?w=503 503w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.40.33.png?resize=300%2C212 300w" sizes="(max-width: 503px) 100vw, 503px" data-recalc-dims="1"></p>
+<p>1974年的一天，约翰·范·曼宁(John Van Maanen)接到一封法院来信，邀请他为一起警察暴力执法事件提供证词，并上缴田野调研笔记。这位如今在麻省理工任教的教授，当年还是位初出茅庐的青年学者，研究主题是警察的执法行为。</p>
+<p>出于对警察的好奇，学生时代的曼宁费劲周折、在教授帮助下获准到警局内部开展调研。作为社会科学研究者，曼宁希望能天衣无缝地融入到研究对象中，毕竟学术研究最忌讳的便是研究对象随研究者的出现而改变言行。换句话说，田野调查方法越自然，观察到的行为和现象就越“原汁原味”。</p>
+<p>为使警察不顾及自己的学生身份，曼宁不仅在警校接受正规培训，还跟随警车不分昼夜地参与巡逻。他是否经历枪林弹雨，我们不得而知，但可以肯定的是，为使自己看起来像一位职业警员，曼宁付出良多。</p>
+<p>赶巧的是，曼宁在研究过程中恰巧目睹了美国警察的暴力执法。一次出勤时，曼宁和两位警官接到小店店主报警，称一位黑人男性在现场制造混乱。警车赶到时，三人发现黑人男子切斯特·布拉泽尔安静地坐在小店外，手握半满的酒瓶。警员骂骂咧咧地把人赶走，在离开的路上还不依不饶地互相抱怨：怎么总碰到这类货色？</p>
+<p>警车正准备离去，警官们发现切斯特再次朝小店的方向走去。余怒未消的警官骤然停车，一把将切斯特按在街头。片刻之后，负责押送罪犯的警用面包车开到。在上车的过程中，切斯特用双手把住车门两侧，拒不上车。</p>
+<p>此时，“嵌入”警察队伍的曼宁目睹了血腥一刻。几位警官全力把切斯特推进车厢，随后传出一阵木头击打肉体的闷响。几分钟后，几乎不省人事的切斯特被拖出车外，戴上手铐，然后又扔回车里。去往医院的路上，参与殴打的警官对开车的同事说：“车里太黑，真不是收拾人的好地方；打到哪里都不知道，所以只能朝一个地方一直打，直到打得那里湿乎乎、软绵绵的。”</p>
+<p>经过医院诊断，伤者三处肋骨骨折，肺部被打透，头部和身体数处划伤，一只眼睛暂时失明。涉事警官在医院餐厅里给切斯特安上许多罪名，如扰乱治安、袭警、携带凶器（一把较锋利的开瓶器）及拒捕等。然而，言之凿凿的报告没有得到警长的认可。事实上，警察需要面对督察的监管，仅凭这份报告，督察或许会问：“为什么不把人关进车里带走？为何非要把人打得血肉模糊？”依照警长的指示，警官们在报告中再次加入了切斯特“踢打警员头部”的情节，加重他的罪名，因为警长相信，罪犯的行为越恶劣，督察对警察的怀疑越小。</p>
+<p>果不其然，当切斯特对警方执法提出质疑时，督察判定警方无过失。曼宁同时也接受了督察的问询，但他仅仅就事论事，没有言及炮制报告的过程。切斯特在警方的劝说下“私了”，双方都既往不咎，将此事画上句号。</p>
+<p>然而，事情没有那么简单。媒体曝光了这一事件，并遭到警察协会的诽谤质控。曼宁目睹了全过程，因此受邀提供证词，并且被要求上缴所有笔记。曼宁究竟会向公众曝光事实真相，还是帮助警察蒙混过关？</p>
+<p>曼宁选择站在警察一方。他的笔记在此案中意义重大，其实前述所有细节都来自曼宁以研究者的态度对现场的记录。但曼宁以学术研究的保密性为由，拒绝上缴笔记。他的逻辑是：我为了贴近警察群体，付出了一切努力；但在涉案执法过程牵扯太多不合理不合法的细节，深究起来可真算是“好人寥寥”。为继续自己的研究，曼宁希望警方保持对自己的信任，选择与警方站在一起。最后，案件不了了之。</p>
+<p>通过这种选择，曼宁也想说明社会科学研究者的道德标准很大程度上要“具体情况具体分析”。如果当时切斯特真的袭警，自己很可能为了朝夕相处的警员挺身而出；如果警方要将切斯特置于死地，自己当然也不会坐视不管。曼宁认为，自己能够做出的最佳选择就是客观记录细节、着意选择公开时机。</p>
+<p>在田野调查中，学者最担心的是过分融入研究对象，以至于对其不合理的行为也视乎寻常。另外，曼宁事后思考，尽管自己极力掩饰其“非警察”的身份，警察是否真得完全没有受到影响？例如，一位名校大学生对基层警察职业表达兴趣，警官因此是不是也会产生“露一手”的冲动？</p>
+<p>这件事情已经过去40多年了，如果你就是那名研究者，面对警方滥伤无辜和互相包庇，你会做出什么样的选择？用今天的眼光看，曼宁对研究者道德操守的理解或许值得进一步商榷。至于警方的暴力执法，真希望它停留在当时当地，停留在那个渐行渐远的时代……</p>
+<div>
+<h4>参考文献</h4>
+<ul><li>Van Maanen, J. (1983). The moral fix: On the ethics of fieldwork. A handbook of social science methods, 1, 227-251.</li>
+</ul></div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%94%BF%E8%A7%81-%E9%9D%A2%E5%AF%B9%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95%EF%BC%8C%E4%BD%A0%E4%BC%9A%E6%80%8E%E4%B9%88%E5%81%9A%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">国家暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E4%BC%A6%E7%90%86/?category=18271" rel="tag">学术伦理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E5%B0%91%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%A7%81%E8%90%A5%E4%BC%81%E4%B8%9A%E5%AE%B6%E4%B8%A7%E5%A4%B1%E4%BF%A1%E5%BF%83/" target="cdt-mirror">自由亚洲｜胡少江：中国私营企业家丧失信心</a>
+</h2>
+<p><p>清华大学教授、中国人民银行货币政策委员会委员白重恩几天前在中国青岛举行的《中国财富论坛》上披露，今年前四个月，中国私营企业的投资增幅剧烈下降。对大多数中国经济观察者而言，白重恩透露的并不是什么机密和新鲜事情，近几年来不断有报道表明，目前中国正在出现第三次向海外移民的高潮。与以往的移民以求学、技术移民为主不同，第三次移民潮中多数是投资移民。这表明，私营企业正在减缓在本国的投资，而将大量资金投向海外。</p>
+<p>与国有企业的管理人员不同，私营企业家是自己财富的创造者和拥有者，出于发展和保护自己财产的本能，他们是对经济发展环境最敏感的社会群体，他们的减缓投资，无疑意味著中国的投资环境正在恶化。同时，私营企业家手中资金的走向也是未来经济增长预测的最重要的风向标，投资的减缓甚至减少，直接导致就业、消费等社会经济活动的放缓和减少。对于多年来速度不断放缓的中国经济而言，私营企业家们继续减缓投资无疑是雪上加霜。</p>
+<p>中国私营企业对国内投资的减缓和加速走向海外的直接原因是中国的投资效益大幅度下降，从而使得投资无法得到合理的回报。资本总是向收益高的地方流动的，在资本市场开放的经济全球化时代，资本一定会在全球范围内去寻求收益最高的地区。在中国改革开放的前三十年中，因为中国的人工成本、环境成本相对便宜，而资本的收益相对较高，这使得中国不仅成为国际资本看好的地方，也同时吸引了大量本国的私营资本继续投资。现在生产能力过剩，市场供大于求，必然投资收益下降，投资也就自然跟随着下降。</p>
+<p>私营企业投资减缓的第二个原因是投资人对经济发展的前景不看好。今天的投资是明天的生产能力，也是明天的市场供给能力。私营企业家今天是否投资的决定是以对未来市场需求的预测为基础的。假如他们对未来的经济不看好，尤其是对未来的市场购买力不看好，那么他们自然就会减少今天的投资，否则今天的投资只会形成未来的过剩生产能力，而过剩的生产能力是无法得到回报的。私营企业家们现在减缓在中国的投资，正说明他们对明天的中国经济没有信心。这一点与“看好中国经济”的官方宣传完全背道而驰。</p>
+<p>三是由于中国法治环境的恶化导致私营企业家们对自己的财产没有安全感。白崇恩在上述讲话中也直接点明，经过他的调研发现，“对中国产权保护不是那么放心，这是民企投入比较弱的一个原因”。只要中国还不是一个真正的法治社会，私营企业家的财产就不会安全。共产党在经济走不下去、社会维持不下去的时候不得不依靠民营企业家来盘活中国经济。但是它始终认为私营经济不是自己的力量，而且中国目前的政治制度使得国家随时都有权重新剥夺私营企业家们的财产。近来中国执政者向毛主义极左路线的回归更加重了人们的担心。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E8%83%A1%E5%B0%91%E6%B1%9F%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%A7%81%E8%90%A5%E4%BC%81%E4%B8%9A%E5%AE%B6%E4%B8%A7%E5%A4%B1%E4%BF%A1%E5%BF%83/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">投资环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E5%B0%91%E6%B1%9F/?category=18271" rel="tag">胡少江</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%BD%A9%E6%88%B4%E5%85%9A%E5%BE%BD%E8%BF%90%E5%8A%A8%E9%92%A9%E8%B5%B7%E6%AF%9B%E5%83%8F%E7%AB%A0%E7%9A%84%E8%AE%B0%E5%BF%86%EF%BC%9F/" target="cdt-mirror">德国之声｜“佩戴党徽运动”钩起毛像章的记忆？</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/02/%E5%85%B1%E4%BA%A7%E5%85%9A.png?resize=549%2C451" alt="共产党" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/02/共产党.png?w=653 653w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/02/共产党.png?resize=300%2C246 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>为坚持党的核心领导地位，中共新一轮“红色旋风”已从江苏、广东、四川等地的基层党委，延伸至中国权力最高地。数月来，多地党政机关相继发出党员“佩戴党徽运动”引网民吐槽。</p>
+<p>习近平主政下的中国，党纪比以往时候显得更为重要。这一点，在年初中共中央办公厅印发的“两学一做”党员学习教育方案中体现的淋漓尽致。</p>
+<p>“两学一做”的全称为“关于在全体党员中开展”学党章党规、学系列讲话，做合格党员“学习教育方案”。据称，开展“两学一做”学习教育，是党中央向全体党员发出的集结号和动员令。侧重点是面向全体党员。</p>
+<p>数月来，江苏、广东、四川、新疆等地县、乡一级党政机关陆相继要求党员佩戴党徽响应中共的号召。中国主流媒体纷纷以“佩戴党徽亮明身份”为题，强调党员意识。</p>
+<p>中纪委刊物的报道认为，党员应时时刻刻坚守纪律底线，时时处处发挥模范带头作用。亮明身份为获得更大监督。</p>
+<p>这场“红色旋风运动”已从乡县延伸至中国政治中心、权力最高地北京。《北京青年报》引述北京通州区近日发布的倡议书中，要求通州区各领域、各系统党员通过佩戴党徽等方式把身份亮出来、把形象树起来。</p>
+<p>尽管倡议中没有对党员佩戴党徽做硬性规定，但列出了建议佩戴党徽亮明身份的多种场合：例如工作期间，参加党内活动，参加志愿服务等重大会议场合。报道还称，甚至全国一些地方还对佩戴党徽的位置做了细节规定。还有一些单位会对党员的佩戴情况进行检查。</p>
+<p>据称，不按规定的党员将被批评教育，地方甚至规定3次违反要求的年比不得评优，甚至可能殃及上级官员或整个部门。</p>
+<p>“堪比黑社会纹身”</p>
+<p>“红色旋风运动”也引发网民议论。有网民评论说，“党员佩戴党徽的举动好比黑社会的纹身，一般情况下，纹身们必须群体出动才有气场，单个纹身很容易被鄙视。”</p>
+<p>公安大学教授黎津平在自由微博转发网民建议，“让8700万共产党员戴党徽！上班时间要佩戴，下班之后也应该佩戴。忘记佩戴一次扣2分，故意遮挡党徽扣6分，故意损坏党徽一次性扣完12。扣完之后重新到党校学习，并重写入党申请书。对于拒不配合者，应该剥夺他们成为共产党员的荣誉感，以叛党论处。不愿意戴党徽就说明他不认可党员身份！”</p>
+<p>还有网民讽刺说，“戴什么党徽，直接把党徽刺青在左脸上最革命。”</p>
+<p>对“佩戴党徽运动”也有网民感慨，“中共这些年，又是发展大学生入党，又是开展”保持先进性“活动，又是梳理排查党员组织关系，确保每名党员都纳入党组织管理，现在又在组织抄党章。中共现在不断强调要加强意识形态建设。”</p>
+<p>也有人回忆历史悲剧的教训：“中国差不多有近一亿的党员。当年毛像章由表忠心的初衷到泛滥成灾还记忆犹新。所以说一个不懂反省的民族经常会重蹈复辙的。”</p>
+<p>关键词: 毛泽东 毛像章 党徽 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 严严</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%BD%A9%E6%88%B4%E5%85%9A%E5%BE%BD%E8%BF%90%E5%8A%A8%E9%92%A9%E8%B5%B7%E6%AF%9B%E5%83%8F%E7%AB%A0%E7%9A%84%E8%AE%B0%E5%BF%86%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E6%9A%97%E5%9C%B0%E9%87%8C%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%A4%96%E5%AE%A3%E6%94%BB%E5%8A%BF/" target="cdt-mirror">博谈网｜北京暗地里百亿美元的外宣攻势</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg?resize=585%2C329" alt="xuansdg" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
@@ -131,7 +278,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">709事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%B2%BB/?category=18271" rel="tag">党治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">吴良述</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E8%B5%84%E5%A7%94/?category=18271" rel="tag">国资委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%88%B6/?category=18271" rel="tag">法制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85%E9%89%B4%E5%AE%9A/?category=18271" rel="tag">精神病鉴定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2/?category=18271" rel="tag">精神病院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E4%BB%BB%E5%8A%A1%E6%8C%87%E6%A0%87/?category=18271" rel="tag">警察任务指标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%93%E9%B1%BC%E6%89%A7%E6%B3%95/?category=18271" rel="tag">钓鱼执法</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%8B%E7%95%8C%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%AD%A6%E5%AF%9F%E7%BE%9E%E8%BE%B1%E6%81%90%E5%90%93%EF%BC%8C%E5%81%87%E5%A6%82%E6%B2%A1%E6%9C%89%E8%A7%86%E9%A2%91%E4%BD%90/" target="cdt-mirror">律界评论｜女孩被警察羞辱恐吓，假如没有视频佐证会怎样？</a>
 </h2>
@@ -624,154 +771,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E9%AB%98
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%BF%E7%94%B5%E7%8B%97%E8%85%BF%E5%AD%90%E5%B9%B2%E7%9A%84%E8%BF%99%E4%B9%88%E5%8D%96%E5%8A%9B%E4%B8%BB%E5%AD%90%E8%BF%98%E6%98%AF%E4%B8%8D/" target="cdt-mirror">【网络民议】广电狗腿子干的这么卖力主子还是不满意啊</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/12/%E8%B5%B5%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%8B%97.jpg?resize=300%2C225" alt="赵家人的狗" data-recalc-dims="1"></a><br><span>网络图片</span></p>
-<p><a href="http://www.ccdi.gov.cn/yw/201606/t20160606_80071.html" target="_blank"><strong>中央纪委监察部网站｜中央第一巡视组向国家新闻出版广电总局党组反馈专项巡视情况</strong> </a></p>
-<blockquote><p>巡视中，巡视组发现和干部群众反映了一些问题，主要是：<strong>坚持党对新闻出版广电事业的领导不够有力</strong>，推进新闻出版广电改革发展力度不够，与中央要求有差距；<strong>把控正确舆论导向不牢，新闻宣传引导力影响力不强</strong>；<strong>新媒体领域党的领导弱化，把党管媒体原则贯彻到新媒体领域办法不多</strong>；引导扶持精品力作不够，“三俗”现象突出；党的建设缺失，有的直属单位党建工作流于形式；干部作风不扎实，选人用人不规范，执行领导干部个人有关事项报告制度不严格；全面从严治党主体责任落实不到位，违反中央八项规定精神问题禁而不绝，影视剧购销、广告经营、新闻采编、工程项目等重点领域腐败问题突出。同时，巡视组还收到反映一些领导干部的问题线索，已按有关规定转中央纪委、中央组织部等有关方面处理。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@晏扬:宣宣和广电都“左”到这种程度了，居然还是和中央的要求有差距。唉。。</p>
-<p>@付恺大提琴：新闻的意思就是说广电总局查的还是太松了。吹捧党还不够！以后得像北韩那样吹捧党和国家领导人</p>
-<p><a href="http://weibo.com/3123414987" target="_blank">@喋lee</a><i></i>：还不够牢不够强还弱化啊？那以后电视还用看吗，都给领导看行了，像我们这种俗人，不懂大领导的眼光<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">总说作品三俗三俗，能不能看人下菜，能不能立足实际，能不能不要把自己的思想强加于所有人，能不能了解一下群众的意见，是啊，我们就是俗人，喜欢看俗的电视剧，怎么了，碍着你领导什么事了</p>
-<p><a href="http://weibo.com/panjieanna" target="_blank">@怺逺湜啨兲</a><i title="微博达人"></i>：打开页面全是裆裆裆裆裆…………<img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"></p>
-<p><strong>@好媳妇都爱的：广电总局没有把抄党章的行动抓严？应严令各级喉舌只抄党章，新闻联播滚动不间断独播党章。</strong></p>
-<p>@薇薇安奇奇怪怪：“不断夯实维护意识形态安全的物质基础”这是什么意思？“严守正确的政治方向，宣传导向，创作导向”什么叫正确的，“对巡视整改 情况，要以适当的形式向社会公开”？什么叫适当的形式？既然是对社会发的文，请用大白话，不用打官腔，谢谢！让老百姓看得懂才行，不是所有人都是当官的， 看的懂！</p>
-<p><a href="http://weibo.com/sheshou861" target="_blank">@sheshou861</a>：一直都知道广电不过是个背锅的傀儡，这这…背后话事人就这么暴露自己真的好么<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5894988639" target="_blank">@爱你摸摸达</a>：党的意思是广电还不够严<img title="[哆啦A梦微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/jqmweixiao_org.gif" alt="[哆啦A梦微笑]" data-recalc-dims="1">，我估计广电还得再禁几部剧才能符合党的标准<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">，看来真的文革要来了<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2961629965" target="_blank">@紫色帅夫猴_MeU</a>：还管，再管就都撤了吧，什么电视剧，广告都别拍了，一天24小时都是新闻，舆论导向，把控力度就强了，都是你们说了算的新闻。<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p>@starling小姐：这还不够的话，上面到底觉得怎样才是理想国家啊，朝鲜？</p>
-<p>@尼古拉斯赵四是我：都怪我们！对不起！我们应该好好接受洗脑的！</p>
-<p><strong>@我是教授的贴心小毛巾：他妈的看个八卦还要宣传党，请问党要脸吗。</strong></p>
-<p>@虾恶经理：还不牢？还不强？干脆断网24小时直播新闻联播吧。广电为党做了这么多事，这不许看，那不看，你们居然还这么诬陷他？他是个太监啊，你们说他与人通奸！！还有没有良心！！</p>
-<p><strong>@sheshou861：哈哈哈哈这下终于暴露以前广电那些锅该谁背了～</strong></p>
-<p><a href="http://weibo.com/3784512202" target="_blank">@花痴刷屏专用</a>：这么多文字<img title="[悲伤]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/1a/bs_org.gif" alt="[悲伤]" data-recalc-dims="1">说人话！比毛概马克思书上还玄幻一百倍<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/riomiao" target="_blank">@RIO马里奥</a><i title="微博达人"></i><i></i>：这是奔着北棒去了吗<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/BK0201" target="_blank">@108级野蛮人</a>：这是还了广电一个清白！<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p>@sheshou861：哈哈哈哈这下终于暴露以前广电那些锅该谁背了～</p>
-<p><strong>@AntonyWang ： 呵呵有些人还指望巡视组能对广电下手，看吧巡视组还嫌广电管控工作做得不够好</strong></p>
-<p>@脑洞大婶：广电就是背锅侠，不是我党放话，他能制定这么多有毒的条款，管的这么严么。现在我党依旧说不够严，呵呵向朝鲜看齐了是么，文革重来又要肃清文化了是么</p>
-<p><strong>@神探杨福生：狗腿子干的这么卖力主子还是不满意啊</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%B9%BF%E7%94%B5%E7%8B%97%E8%85%BF%E5%AD%90%E5%B9%B2%E7%9A%84%E8%BF%99%E4%B9%88%E5%8D%96%E5%8A%9B%E4%B8%BB%E5%AD%90%E8%BF%98%E6%98%AF%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84/?category=18271" rel="tag">中央巡视组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%EF%BC%88%E4%BA%8C%EF%BC%89%E3%80%81%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C-%E7%AD%89%E7%83%AD%E7%82%B9/" target="cdt-mirror">【敏感词库】雷洋之死（二）、记者无疆界等热点 2016-6-08</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%B7%B4%E4%B8%A2%E8%8D%89_%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB.jpg?resize=575%2C306" alt="巴丢草_雷洋之死" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?w=1024 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?resize=300%2C160 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/巴丢草_雷洋之死.jpg?resize=768%2C409 768w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"><br><em>图片作者：巴丢草</em></p>
-<p>［新浪微博搜索禁词测试时间：2016年6月08日］</p>
-<p><strong>嫖娼之外的另一种可能</strong><br><strong>雷洋案＋引导舆论</strong><br><strong> 雷洋＋龙锦</strong><br><strong>雷洋＋下跪</strong><br><strong> 雷洋＋戴套</strong><br><strong> 雷洋＋事件</strong><br><strong> 雷洋＋伤痕</strong><br><strong>雷洋＋陈有西</strong><br><strong> 硕士雷洋＋嫖娼</strong></p>
-<blockquote><p>详见：<a href="https://chinadigitaltimes.net/chinese/2016/05/%E8%AF%97%E4%B8%8E%E5%B8%9D%E5%9B%BD%EF%BD%9C%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%9A%E5%AB%96%E5%A8%BC%E4%B9%8B%E5%A4%96%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD/">诗与帝国｜雷洋案：嫖娼之外的另一种可能</a></p></blockquote>
-<p><strong>记者无疆界</strong><br><strong>无国界记者</strong></p>
-<p><span><strong>五岳散人</strong></span>（原因不明）</p>
-<p><strong>文革 + 周永康</strong><br><strong> 文革＋复辟</strong></p>
-<blockquote><p>详见：<a href="http://chinadigitaltimes.net/chinese/2016/05/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E6%B7%B1%E5%A4%9C%E6%89%93%E7%A0%B4%E6%B2%89%E9%BB%98%EF%BC%9A%E5%86%B3%E4%B8%8D%E5%85%81%E8%AE%B8%E6%96%87%E9%9D%A9/">纽约时报 | 中国官媒深夜打破沉默：决不允许文革错误重演</a></p></blockquote>
-<p><strong>心腹＋王小洪</strong><br><strong>亲信＋王小洪</strong></p>
-<p><strong>下一届＋习</strong></p>
-<p><strong>孙政才＋入常</strong></p>
-<p><strong>邓猫</strong></p>
-<p><strong>中共国家恐怖主义暴行展</strong><br><strong>中共＋言而无信</strong></p>
-<p><strong>坦克＋六月</strong></p>
-<p><strong>葛洵</strong>（人道中国主席）</p>
-<p><strong>陈维明</strong></p>
-<p><strong>ZZY</strong>（指赵紫阳）<br><strong>WJB</strong>（指温家宝）</p>
-<p><strong>私处</strong><br><strong>舔逼</strong><br><strong>激情＋视频</strong></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AB%96%E5%A8%BC%E4%B9%8B%E5%A4%96%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD.png?resize=476%2C185" alt="嫖娼之外的另一种可能" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/嫖娼之外的另一种可能.png?w=702 702w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/嫖娼之外的另一种可能.png?resize=300%2C117 300w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%E6%A1%88%EF%BC%8B%E5%BC%95%E5%AF%BC%E8%88%86%E8%AE%BA.png?resize=475%2C184" alt="雷洋案＋引导舆论" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案＋引导舆论.png?w=702 702w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋案＋引导舆论.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E9%BE%99%E9%94%A6.png?resize=475%2C185" alt="雷洋＋龙锦" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋龙锦.png?w=701 701w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋龙锦.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E4%B8%8B%E8%B7%AA.png?resize=475%2C187" alt="雷洋＋下跪" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋下跪.png?w=702 702w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋下跪.png?resize=300%2C118 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E6%88%B4%E5%A5%97.png?resize=475%2C186" alt="雷洋＋戴套" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋戴套.png?w=704 704w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋戴套.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E4%BA%8B%E4%BB%B6.png?resize=475%2C184" alt="雷洋＋事件" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋事件.png?w=701 701w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋事件.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E4%BC%A4%E7%97%95.png?resize=475%2C185" alt="雷洋＋伤痕" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋伤痕.png?w=702 702w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋伤痕.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E9%9B%B7%E6%B4%8B%EF%BC%8B%E9%99%88%E6%9C%89%E8%A5%BF.png?resize=475%2C185" alt="雷洋＋陈有西" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋陈有西.png?w=702 702w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/雷洋＋陈有西.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E7%A1%95%E5%A3%AB%E9%9B%B7%E6%B4%8B%EF%BC%8B%E5%AB%96%E5%A8%BC.png?resize=475%2C184" alt="硕士雷洋＋嫖娼" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/硕士雷洋＋嫖娼.png?w=704 704w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/硕士雷洋＋嫖娼.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C.png?resize=475%2C184" alt="记者无疆界" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/记者无疆界.png?w=704 704w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/记者无疆界.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%AE%B0%E8%80%85%E6%97%A0%E5%9B%BD%E7%95%8C.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%AE%B0%E8%80%85%E6%97%A0%E5%9B%BD%E7%95%8C.jpg?resize=475%2C209" alt="无国界记者" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/记者无国界.jpg?w=2328 2328w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/记者无国界.jpg?resize=300%2C132 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/记者无国界.jpg?resize=768%2C337 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/记者无国界.jpg?resize=1024%2C450 1024w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%94%E5%B2%B3%E6%95%A3%E4%BA%BA.png?resize=475%2C300" alt="五岳散人" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/五岳散人.png?w=703 703w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/五岳散人.png?resize=300%2C189 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%87%E9%9D%A9-%E5%91%A8%E6%B0%B8%E5%BA%B7.png?resize=475%2C184" alt="文革 + 周永康" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革-周永康.png?w=704 704w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革-周永康.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E6%96%87%E9%9D%A9%EF%BC%8B%E5%A4%8D%E8%BE%9F.png?resize=475%2C184" alt="文革＋复辟" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革＋复辟.png?w=703 703w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/文革＋复辟.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%BF%83%E8%85%B9%EF%BC%8B%E7%8E%8B%E5%B0%8F%E6%B4%AA.png?resize=475%2C184" alt="心腹＋王小洪" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/心腹＋王小洪.png?w=702 702w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/心腹＋王小洪.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%BA%B2%E4%BF%A1%EF%BC%8B%E7%8E%8B%E5%B0%8F%E6%B4%AA.png?resize=475%2C184" alt="亲信＋王小洪" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/亲信＋王小洪.png?w=704 704w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/亲信＋王小洪.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E4%B8%8B%E4%B8%80%E5%B1%8A%EF%BC%8B%E4%B9%A0.png?resize=475%2C186" alt="下一届＋习" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/下一届＋习.png?w=704 704w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/下一届＋习.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E5%AD%99%E6%94%BF%E6%89%8D%EF%BC%8B%E5%85%A5%E5%B8%B8.png?resize=475%2C184" alt="孙政才＋入常" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/孙政才＋入常.png?w=705 705w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/孙政才＋入常.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%82%93%E7%8C%AB.png?resize=475%2C213" alt="邓猫" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/邓猫.png?w=704 704w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/邓猫.png?resize=300%2C134 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B8%AD%E5%85%B1%E5%9B%BD%E5%AE%B6%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89%E6%9A%B4%E8%A1%8C%E5%B1%95.png?resize=475%2C186" alt="中共国家恐怖主义暴行展" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中共国家恐怖主义暴行展.png?w=701 701w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中共国家恐怖主义暴行展.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B8%AD%E5%85%B1%EF%BC%8B%E8%A8%80%E8%80%8C%E6%97%A0%E4%BF%A1.png?resize=475%2C184" alt="中共＋言而无信" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中共＋言而无信.png?w=702 702w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中共＋言而无信.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%9D%A6%E5%85%8B%EF%BC%8B%E5%85%AD%E6%9C%88.png?resize=475%2C186" alt="坦克＋六月" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/坦克＋六月.png?w=703 703w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/坦克＋六月.png?resize=300%2C118 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%91%9B%E6%B4%B5.png?resize=475%2C185" alt="葛洵" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/葛洵.png?w=702 702w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/05/葛洵.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%88%E7%BB%B4%E6%98%8E.png?resize=475%2C212" alt="陈维明" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陈维明.png?w=703 703w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陈维明.png?resize=300%2C134 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/ZZY-1.png?resize=475%2C276" alt="ZZY" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/ZZY-1.png?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/ZZY-1.png?resize=300%2C174 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/WJB.png?resize=475%2C183" alt="WJB" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/WJB.png?w=705 705w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/WJB.png?resize=300%2C116 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%A7%81%E5%A4%84.png?resize=475%2C185" alt="私处" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/私处.png?w=702 702w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/私处.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/%E8%88%94%E9%80%BC.png?resize=475%2C185" alt="舔逼" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/舔逼.png?w=703 703w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/05/舔逼.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%BF%80%E6%83%85%EF%BC%8B%E8%A7%86%E9%A2%91.png?resize=475%2C186" alt="激情＋视频" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/激情＋视频.png?w=704 704w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/激情＋视频.png?resize=300%2C117 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></p>
-<p>注：新浪微博在类似的重大舆论热点事件上常会实时调整审查策略，因而其搜索敏感词也时常会发生变化。本列表只限于截稿时的测试结果。完整禁词测试列表<a href="https://docs.google.com/spreadsheets/d/1UTP9MU80r_N5WPhQ5-4AjM0ebW1eMxyDlRe_vaYy9IM/edit#gid=0">点此</a>。所有中文词语在测试时都为简体。繁体搜索结果偶尔会有不同。</p>
-<hr><p><small>© cindyliuwenxin for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93%E3%80%91%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB%EF%BC%88%E4%BA%8C%EF%BC%89%E3%80%81%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C-%E7%AD%89%E7%83%AD%E7%82%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%99%E6%94%BF%E6%89%8D/?category=18271" rel="tag">孙政才</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B0%8F%E6%B4%AA/?category=18271" rel="tag">王小洪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B0%E8%80%85%E6%97%A0%E7%96%86%E7%95%8C/?category=18271" rel="tag">记者无疆界</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%8F%96%E6%B6%88%E5%BC%95%E6%8A%97%E8%AE%AE-%E5%85%B0%E5%AF%87%E9%A6%99%E6%B8%AF%E5%85%B3%E9%97%A8%E4%B8%80%E5%A4%A9/" target="cdt-mirror">德国之声｜音乐会取消引抗议 兰寇香港关门一天</a>
-</h2>
-<p><p><strong>法国化妆品巨头兰寇（Lancome）周三暂时停止了在香港的营业。在该公司宣布取消一个有占中积极分子何韵诗参加的促销音乐会之后，反对人士举行了抗议活动。</strong></p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314138_30300.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314138_30300.jpg?resize=575%2C324" alt="0,,19314138_303,00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314138_30300.jpg?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314138_30300.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>兰寇专卖店旁的抗议活动</span></p></div>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E6%8A%B5%E5%88%B6%E4%B8%8B%E4%B8%80%E7%AB%99%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A/">【立此存照】“爱国”抵制下一站：李嘉诚</a></li>
-<li> <a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B7%B4%E4%B8%A2%E8%8D%89%EF%BC%9A%E5%85%B0%E8%94%BB-%C2%B7-%E5%8C%97%E4%BA%AC/">巴丢草：兰蔻 · 北京</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A6%99%E6%B8%AF%E5%95%86%E4%B8%9A%E4%BB%A3%E8%A8%80%E4%B9%9F%E5%BD%92%E4%BD%A0%E5%A4%A7%E9%99%86%E7%88%B8%E7%88%B8%E7%AE%A1/">【立此存照】香港商业代言也归你大陆爸爸管</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E6%B8%AF%E7%8B%AC%E6%8C%87%E6%8E%A7%E4%B8%8B%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E6%BC%94%E5%94%B1%E5%BC%95%E5%8F%8D%E5%BC%B9/">BBC | “港独”指控下兰蔻取消何韵诗演唱引反弹</a></li>
-</ul></blockquote>
-<p>（德国之声中文网）因抗议兰寇没有顶住来自大陆的压力而取消了一个促销音乐会，香港的活动人士周三举行了抗议活动。虽然兰寇此外自称取消音乐会的决定出于”安全因素”，但香港当地居民一般都认为，此次风波都是何韵诗惹的祸。</p>
-<p>周三（2016.6.8），兰寇决定暂时停止在香港的营业，因为反对方计划当日下午在兰寇分店附近举行示威。位于铜锣湾时代广场的兰寇专卖店以及母公司欧莱雅专卖店都已停业。当地媒体报道，周二兰寇内部曾下达了关店一天的指示。</p>
-<p>何韵诗积极参与了2014年的占中运动，曾被看作”良心艺人”，在大陆她则被视为”支持港独”人士。今年4月她在脸书上公开同达赖喇嘛的合影，被大陆媒体解读为支持藏独。当何韵诗数天前在其脸书上晒与兰寇的演唱音乐会后，《环球时报》周日通过微博向网民提问”你怎么看”从而为双方叫骂拉开了帷幕。周二，《环球时报》再发评论，指何韵诗在占中当中得了分，但有得就有失，她”原本在内地就算不上很旺的人气断崖式崩溃，她成了内地网民定义为’港独艺人’或’台独艺人’并加以打击的最突出靶子之一。”</p>
-<p>在香港当地，一封要求民众抵制兰寇的公开信在 change.org网站发表，截至目前，已有4000多人签名。</p>
-<p>政界也参与进来。香港社会民主连线主席吴文远是本次抗议活动的组织者之一。他说，抗议活动是要向世界显示”我们应该团结起来，抵制他们的产品。告诉兰寇和洛莱亚，你们不能只顾大陆市场”。</p>
-<p>香港西贡区议会环保北选区民选区议员方国珊则在脸书上发了一个视频，显示她将自己的兰寇化妆品倒进垃圾，并表示”再也不用它们”，”让兰寇见鬼去吧”。截至到周三早晨，该视频被观看了12万8千次。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019313373_40100.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019313373_40100.jpg?resize=575%2C324" alt="香港占中后期何韵诗被警方带走（2014年12月）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019313373_40100.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019313373_40100.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>香港占中后期何韵诗被警方带走（2014年12月）</span></p></div>
-<p>何韵诗本人没有参加示威活动，但她向媒体表示，“这已不仅事关我以及兰寇，现在已是白色恐怖。” 除兰寇和欧莱雅外，位于时代广场的其它名牌专卖店如<span>圣罗兰、<span>赫莲娜</span></span>以及<span>植村秀等奢侈品牌店都在周三暂时关门。</span></p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314137_40100.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314137_40100.jpg?resize=575%2C324" alt="有人打出黄伞" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314137_40100.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/019314137_40100.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>有人打出黄伞</span></p></div>
-<p>在大陆的社交网站上，支持封杀何韵诗的大有人在。</p>
-<p>新浪微博注册的”声誉视角”： 通过与何韵诗解除合作，兰寇与政治脱敏的作法是明智的。</p>
-<p>但”胡一钗”则提问：欣赏何韵诗的音乐剧是否可以直接等同于支持兰寇？</p>
-<p>《环球时报》评论后有113条跟贴，江苏省泰州市网友写道：何韵诗想借港独冲人气，与十四亿国人为敌，确实名气飚升，否则兰蔻也瞧不上他，至于内地人民自发抵制，是民心所向！何女种瓜得瓜，自己走错了路当然要承担代价，怨也只能怨自己，跳不跳太平洋，自己选择去！</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%8F%96%E6%B6%88%E5%BC%95%E6%8A%97%E8%AE%AE-%E5%85%B0%E5%AF%87%E9%A6%99%E6%B8%AF%E5%85%B3%E9%97%A8%E4%B8%80%E5%A4%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97/?category=18271" rel="tag">何韵诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E8%94%BB/?category=18271" rel="tag">兰蔻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E5%B9%B3%E5%8D%A0%E4%B8%AD/?category=18271" rel="tag">和平占中</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%A8%E4%BC%9E%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">雨伞运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9B%B9%E9%9B%85%E5%AD%A6%EF%BC%9A%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E2%88%99%E5%9C%9F%E8%B5%AB%E6%8F%90%E6%95%99%E6%8E%88%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%BE%97%E8%90%A8/" target="cdt-mirror">曹雅学：伊力哈木∙土赫提教授为什么应得萨哈罗夫自由思想奖</a>
-</h2>
-<p><p><em>原标题：伊力哈木∙土赫提教授为什么应该获得萨哈罗夫自由思想奖 – 我在欧洲议会的发言</em></p>
-<p>作者按：5月25日, 一组来自德国、法国和美国的学者与人权组织代表在布鲁塞尔欧洲议会内举行了一个会议，题为<a href="http://unpo.org/article/19208">“中国希望实现真正的民族和谐吗？观照伊力哈木∙土赫提教授”</a>。这次会议是推动伊力哈木∙土赫提教授获得欧洲议会萨哈罗夫自由思想奖的努力的一部分。会议由欧洲自由民主联盟 (Alliance of Liberals and Democrats for Europe, ALDE) 议员Ilhan Kyuchyuk 支持举行，维吾尔族德国人Enver Can先生主持，发言者包括总部设在布鲁塞尔的“无代表国家和民族组织”(UNPO) 秘书长Marino Cusdachin; 美国加州Pomona College 人类学教授Dru Gladney; 设在德国的“受威胁民族协会”(Society for Threatened Peoples) Ulrich Delius 先生；布鲁塞尔自由大学 (L’Université libre de Bruxelles)</p>
-<p>高级讲师、中国研究主任Vanessa Frangville博士；法国汉学家、前巴黎大学教授Marie Holzman (侯芷明); 印第安纳大学中央欧亚研究教授Elloit Sperling (史伯岭), 以及我本人。我们六个人各自从地域政治、中国政府的维吾尔族政策等不同方面出发，共同回答了伊力哈木∙土赫提教授为什么应该获得萨哈罗夫自由思想奖这个问题。到会的包括多位议员及助手，以及国际特赦、前线卫士等多家国际人权组织的代表。绿党-欧洲自由联盟议员、欧洲议会人权委员会副主席<a href="http://www.europarl.europa.eu/meps/en/96728/BARBARA_LOCHBIHLER_home.html">Barbara Lochbihler</a> 到会作了总结发言。她的发言显示她对伊力哈木案件以及维吾尔人所面临的经济、文化、宗教和政治困境有全面而准确的了解。她指出，萨哈罗夫奖应该成为促进积极变化的一个工具。由于China Change网站过去两年对伊力哈木教授的著作、<a href="http://www.voacantonese.com/a/uyghur-human-rights-ilham-20131204/1804034.html">访谈</a>进行了系统翻译介绍，并编辑了一部关于伊力哈木的30分钟的<a href="https://chinachange.org/2015/10/26/ilham-tohti-documentary/">记录片</a>，我的发言集中在伊力哈木的生平、工作与理想。我将我的发言翻译成了中文，与中文读者分享：</p>
-<p>绝大部分时候我对自己是汉族人这个身份没什么感觉，但每次讨论伊力哈木∙土赫提教授时我便会强烈地意识到这个身份。作为汉人出席这个会议，并讨论伊力哈木的生平、工作和理想，是一件令我深感荣幸并且责任重大的事。你们将会看到为什么。</p>
-<p>中国共产党自建政以来便有一个传统，即在各个少数民族中选择最优秀的青年，将他们安排到北京或其它内地大城市学习、上大学。在接受了高等教育后，他们成为各自民族的精英，很多人成为党的干部、政府官员，其他人则成为作家、大学老师、或成功的商人等社会中坚力量。</p>
-<p>伊力哈木就是这样一个在内地接受了教育的维吾尔人。在他之前，他的父亲是第一代在内地受高等教育的维吾尔人。伊力哈木出生于1969年，在新疆一个汉族干部和维族干部混居的政府大院长大，16岁时被选拔到北京学习。他先学习汉语，然后学习经济学，并最终成为中央民族大学的一名副教授。他是一名新疆研究和中亚研究专家，研究范围包括地域政治、文化、经济发展、和宗教。近些年来，他的研究集中在维吾尔人的经济、宗教和政治权利，以及维人与政府、维人与汉人越来越紧张的关系。他对发生在世界各地、也包括新疆地区在内的民族冲突仇杀忧心忡忡、痛心不已。他对多民族社会治理方法的技术细节非常感兴趣，即什么样的政策和制度能够保障多民族和平、平等共处，同时保存各自的文化传统与特征。他研究了很多国家成功与失败的案例，包括一些欧洲国家。通过研究，他看到，要实现多民族享受平等权利、和平共处、合理治理，必然要求一套开放、平等的价值观与建制，而这些价值观与建制正是中国政府所拒绝的。</p>
-<p>他的研究不可避免地导致对中国政府民族政策的批评。在<a href="https://chinachangedotorg.files.wordpress.com/2015/05/e4bc8ae58a9be59388e69ca8efbc9ae5bd93e5898de696b0e79686e6b091e6978fe997aee9a298e79a84e78eb0e78ab6e58f8ae5bbbae8aeae2.pdf">他的著作</a>中，他详尽分析了新疆目前所面临的问题，并提出了政策建议。但是现实的情况是，政府不但不听取这些建议，而且将提这些建议的人视为敌人。</p>
-<p>伊力哈木从学术生涯一开始就引起政府不满。早在1994年，因为他在一篇<a href="https://i.cloudup.com/1zDkXd6WJ2.pdf">调研报告</a>中辩驳政府的虚假数据，新疆国安到北京来抓他、威胁他。在接下来的20年里，他曾经间断性地被禁止出版、禁止上课、禁止回新疆、禁止出国。他上课的教室有监控摄像，有政府派来的人坐在课堂监视。他曾经被短期拘留，软禁在家在近年则成为常事。2014年1月15日他被逮捕；同年9月，中国政府以分裂罪判处伊力哈木无期徒刑，尽管伊力哈木关于民族平等共处的温和立场广为人知。</p>
-<p>早在中国政府提出“一带一路”战略发展蓝图、寻求经古老的丝绸之路向西开拓经济之前，伊力哈木便认为中国可以也应该在中亚扮演一个更加积极有效的角色， 而维吾尔人因其在语言、文化上与中亚民族的同质性，可以积极参与这个过程并做出重大贡献。在新疆长大的汉人、知名文化人黄章晋在2009年撰写的<a href="http://chinadigitaltimes.net/chinese/2014/03/%E9%BB%84%E7%AB%A0%E6%99%8B-%E5%86%8D%E8%A7%81-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/">《再见，伊力哈木》</a>一文中写道，“伊力哈木认为，如果中国是一个自由民主的国家，新疆是一个真正落实民族区域自治法的自治区，维吾尔人会因生活在中国为傲，中国就对中亚地区拥有强大的软实力，因为维吾尔人的语言优势，他们天然会成为拓展中国在中亚文化、经济影响的排头兵。哪怕是对维吾尔人平等一些，情况都有不同。”伊力哈木多次表示要把这种国家发展战略的建议系统写下来。</p>
-<p>但现实的情况是，自1990年代末以来，维人对政府民族政策的不满、维汉紧张关系一直持续恶化。更加糟糕的是，中国政府抓住了国际反恐怖主义这一国际政治现象，以此为借口，通过误导和歪曲信息，对维吾尔人进行更加野蛮粗暴的经济、文化与宗教压迫。维吾尔人生活在前所未有的恐惧下：他们动辄遭到任意拘捕；他们会因日常细枝末节的冲突而被判以重刑；对维吾尔人的歧视白字黑字写在中国各地政府文件里和通知中，等等。任何涉及维吾尔人的暴力事件马上被宣传为恐怖袭击，而汉人当中发生的类似事件则被当作普通犯罪事件对待。</p>
-<p>在这样的背景下，伊力哈木∙土赫提感到自己作为一名公共知识分子，肩负着为自己的民族发声、担当维汉交流桥梁的责任。</p>
-<p>让我们停下来细想一下：第一，伊力哈木是一名维吾尔族精英知识分子，是新疆问题专家；第二，伊力哈木说流利的汉语，在中国的政治和文化中心北京生活和教书；第三，他对汉族人的观点以及中国政府对待维族人的政策的知晓程度，犹如对自己的手背那样；第四，作为一名知识分子，不管他的民族是什么，他属于中国自由知识分子阵营的一部分，坚信自由、民主和法制理念，是中国过去十几年公民社会发展的积极参与者。在中国，有多少维吾尔人具备上述特征呢？没有几个，屈指可数。他强烈感到对自己的人民、甚至对中国的未来有一种不可推卸的责任，他必须承担起维汉和平与理解的使者。</p>
-<p>他在2011年的自传文《我的理想和事业选择之路》中写道，“我知道，我们民族像我有良好教育、开阔视野和丰富阅历的人不多，我们国家像我这样在新疆问题和中亚问题上有各种天然优势的人不多，在这个领域，有真知灼见，有责任感的诚实正直的学者极为罕见，而中国社会将来要面临的考验却是如此险峻，因此，顶着压力继续从事我认为最有价值的事业，是我义不容辞的责任。” 他完全明白，当他回应责任的召唤时，他在将自己、将家人乃至更远的亲戚置于危险当中。他“不仅需要的是知识和专业，而首先是一种勇气。”</p>
-<p>2005年底他创建了“维吾尔在线”网站。这是一个汉语网站，专门发布和转贴与新疆、维吾尔人以及其它民族有关的消息和评论。通过这个网站，他希望汉人了解新疆发生的事情，维族人的感受。通过网站内的论坛讨论，他希望维人和汉人可以有一个进行交流的平台。伊力哈木相信沟通的力量。<a href="http://cn.rfi.fr/%E9%A6%96%E9%A1%B5/20140120-%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%EF%BC%9A%E6%88%91%E7%9A%84%E7%90%86%E6%83%B3%E5%92%8C%E4%BA%8B%E4%B8%9A%E9%80%89%E6%8B%A9%E4%B9%8B%E8%B7%AF">他说</a>，“争议分歧不可怕，可怕的是沉默中的猜疑和仇恨。”</p>
-<p>这样一个网站显然不受中国政府欢迎。在存在的几年里，它频繁受到黑客攻击，或者被政府下令关闭。它的服务器搬到国外后，经常遭到DDoS攻击（阻断服务攻击），在伊力哈木被捕前后，维吾尔在线永久关闭。</p>
-<p>多年来，伊力哈木多次强调他只是一名学者，不是一个政治人物；作为一个学者，而不是一个政治符号，他能够更好地服务于他的民族。但是今天，他是中国的头号政治犯。我这样说，是因为他是中国改革开放以来唯一一位仅仅因自由表达而被判处无期徒刑的人。诺贝尔和平奖获得者刘晓波因为《零八宪章》而被判处11年徒刑。《零八宪章》提出了一个政治改革和宪政转型的蓝图，而伊力哈木不过是对新疆的民族问题进行了分析，提出了建议。伊力哈木的建议不仅合情合理，而且非常节制和现实。他受到如此过分的惩罚，仅仅因为他是维吾尔人。</p>
-<p>今年是文革五十周年，世界媒体以及中国观察人士最近进行了大量相关报道。伊力哈木的父亲死于文革期间，年仅28岁，伊力哈木只有两岁，他的弟弟才11个月大。五十年后的今天，伊力哈木因为自由思想和表达被判处终身监禁。</p>
-<p>中国政治过去五十年来发生了多大进步，民族紧张关系恶化到了什么地步，不要多说，伊力哈木就是一面写照。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9B%B9%E9%9B%85%E5%AD%A6%EF%BC%9A%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8%E2%88%99%E5%9C%9F%E8%B5%AB%E6%8F%90%E6%95%99%E6%8E%88%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%BE%97%E8%90%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E5%8A%9B%E5%93%88%E6%9C%A8/?category=18271" rel="tag">伊力哈木</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%A0%E8%A8%80%E8%8E%B7%E7%BD%AA/?category=18271" rel="tag">因言获罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%89%E7%BB%B4%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">汉维矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%85%A8%E5%9B%BD%E6%9C%80%E4%B8%A5%EF%BC%9F%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E5%8A%9E%E6%8A%A4%E7%85%A7%E8%A6%81%E9%87%87%E9%9B%86dna/" target="cdt-mirror">美国之音｜全国最严？新疆伊犁办护照要采集DNA</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/F39CA7EF-7B76-4937-AB60-A6D8538482CD_w640_r1_s.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/F39CA7EF-7B76-4937-AB60-A6D8538482CD_w640_r1_s.jpg?resize=575%2C323" alt="2014年5月1日，一位维吾尔妇女坐在乌鲁木齐街头，身后是铁笼保护下的中国武警。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/F39CA7EF-7B76-4937-AB60-A6D8538482CD_w640_r1_s.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/F39CA7EF-7B76-4937-AB60-A6D8538482CD_w640_r1_s.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2014年5月1日，一位维吾尔妇女坐在乌鲁木齐街头，身后是铁笼保护下的中国武警。</span></p></div>
-<p><em>作者：乔栈</em></p>
-<p>在穆斯林斋月开始之前，新疆伊犁颁布新规，要求出国、出境旅行文件的申请人除了进行常规的指纹采集外，还需进行DNA等多项身份识别信息的采集。此外，有媒体报道，新疆还有地方政府要求部分民众在斋月期间不得封斋，也不能参加宗教活动，餐馆商店不得关闭。这与中国国新办上周发布的新疆宗教自由白皮书中所说的大相径庭。</p>
-<p><strong>新疆伊犁：办护照要采集DNA</strong></p>
-<p>据中共新疆伊犁哈萨克自治州党委机关报《伊犁日报》报道，自治州公安局自六月一日起要求所有申请办理护照、港澳通行证、台湾通行证以及港澳台二次签注业务的申请人除提交与出国、出境相符的证明材料外，还需前往本人户籍所在地派出所采集DNA、指纹、声纹以及三维成像信息。然而中国公安部出入境管理局提供的《中国公民出入境证件申请表》中只有指纹采集一项要求，伊犁州公安局的要求似乎远高于全国标准。报道还称对未采集信息或信息采集不全的申请将不予受理。</p>
-<p>这项规定生效恰逢穆斯林斋月开始之际。这份报道还称，因两次简化申请条件，出入境证件申请人数出现“井喷式增长”，2015年自治州政府共办理十万余本出入境证件，预计2016年将突破二十万本。然而，据英国广播公司报道，很多在新疆的穆斯林都表示他们受到歧视，中国当局经常拒绝向他们发放旅行文件。</p>
-<p>据伊犁哈萨克自治州政府网站提供的数据显示，伊犁总人口300.91万，少数民族人口占百分之六十三点四，其中维吾尔族人口占百分之二十五点六。</p>
-<p><strong>部分民众不准封斋，商店餐馆不能关闭，白皮书刚发布就食言？</strong></p>
-<p>据华尔街日报报道，新疆一地方政府网站上周刊登文章限制部分民众参加斋月活动。文章称：“共产党员、干部、公务员、大学生以及儿童不能在斋月期间封斋，也不应该参加宗教活动。”这家政府网站还补充说，商店、餐馆、饮料店在斋月期间“都不应该关闭”。</p>
-<p>然而，就在同一周，中国国务院新闻办公室发表了《新疆的宗教信仰自由状况》的白皮书，其中明确写道：“公民在宗教活动场所内以及按照宗教习惯在自己家里进行的一切正常的宗教活动，如礼拜、封斋、拜佛、祈祷等，都由宗教团体和公民自理，受法律保护，任何组织和个人不得加以干涉”，以及“充分尊重信教公民的宗教感情、信仰需求。斋月期间，清真餐馆歇业或开业完全由业主自行决定，不受干涉”。</p>
-<p>白皮书中还称新疆的宗教信仰自由状况是以往任何时期都“无法比拟的”。</p>
-<p>世界维吾尔大会（“世维会”）发言人迪里夏提表示，在斋月期间，中国政府对新疆进行严密防范和监控。他透露，新疆当地民兵已接到“战备”通知，县、乡、村各级民兵24小时值班。乌鲁木齐所有的清真寺接到明确通知，要求对所有进清真寺做礼拜的维吾尔人进行身份登记、核实，还要求清真寺每两小时以书面报告的形式向当地警方汇报寺内维吾尔人的言行举止。</p>
-<p>对于斋月期间商家是否被强制营业的问题，迪里夏提说：“谎言的确掩盖不了事实。中国官方的报道说是餐饮业关门和开业是尊重个人的意愿，但是我们就有文件、官方的这些报道，就日前还在当地胁迫维吾尔的餐饮业签署斋月期间保证营业的保证书。而且还保证，不从事中国认为的非法宗教（活动）”。</p>
-<p>中国当局近年来将在中国发生的一系列暴力袭击事件归咎于维吾尔激进分子，称他们受到境外恐怖组织的煽动和援助。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%85%A8%E5%9B%BD%E6%9C%80%E4%B8%A5%EF%BC%9F%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81%E5%8A%9E%E6%8A%A4%E7%85%A7%E8%A6%81%E9%87%87%E9%9B%86dna/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E6%94%BF%E7%AD%96%E4%BA%9A%E5%85%8B%E8%A5%BF/?category=18271" rel="tag">党的政策亚克西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -783,7 +782,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -793,5 +792,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

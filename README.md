@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%8B%E7%95%8C%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%AD%A6%E5%AF%9F%E7%BE%9E%E8%BE%B1%E6%81%90%E5%90%93%EF%BC%8C%E5%81%87%E5%A6%82%E6%B2%A1%E6%9C%89%E8%A7%86%E9%A2%91%E4%BD%90/" target="cdt-mirror">律界评论｜女孩被警察羞辱恐吓，假如没有视频佐证会怎样？</a>
+</h2>
+<p><p><strong>来自微信公号：律界评论（ID: lvshipinglun）<br></strong><br><em>文／谭敏涛</em></p>
+<p>“你没有身份证，还不接受调查！”“我怀疑你是个男的，你上女厕所干吗？”“今天就是你自己犯贱。”“我要把你们跟那些小偷、艾滋病、强盗关到一起去，让你们享受去……”</p>
+<p>当你看到这些话，你很难将他们和警察执法联系在一起。日前，有微博网友爆料，21号在深圳宝安西乡流塘大门口，两名女孩出去逛街，被警察检查身份证……后被依法强制传唤。在去派出所的路上其中一女孩偷偷录下了包括以上警察之言在内的音频资料。</p>
+<p>据网友公布的文字版事发经过，该起事件双方的主要冲突在于，当事警察在街上盘查两名女孩的身份证，对方声称没带并可以回家取但被警方拒绝。最终两名女孩被两名警察强制传唤。期间双方发生了肢体与言语上的冲突，而后女孩在派出所被警方审问一小时左右方被放回。</p>
+<p>前一段时间我们还在争论，公民能不能监督公安执法，律师能不能在立案庭拍照，而这起事件为我们上了最为生动的一堂课。如果事发后女孩没有录制视频，没有视频作证，此事件或许就是另一个版本，涉案警察极力否认说过上述话，涉案警方更会极力袒护，很有可能，两位女孩会被以诬陷为由给于行政处罚。毕竟，在看到上述几段话时，警方有绝对的理由怀疑两位女孩诬陷自己——我们的警察素质不会这么低，更不会说出这样的话，是两位女孩别有用心，造谣生事，必须给于处罚。</p>
+<p>仔细想来，每个人恐怕都很难释怀，仅凭文字和回忆就敢控告警察执法不规范，控告警察爆粗口，控告警察侮辱自己，这不知会被多少警界的洗地声所淹没。更何况，在口说无凭的窘境下，两位女孩很可能被污蔑、被说成类似于雷洋案一样的ⅩⅩ者。由此，警方很可能会说，两位女孩因为是ⅩⅩ者所以惧怕警察，被警察抓了后不仅不配合，反而说警察侮辱自己。这样的场景，难道不会发生吗？</p>
+<p>我曾在《你能监控人民一言一行，人民为何不能拍你执法？》一文中论述到，真正的公正执法，要经得起公众的围观和拍摄。试图限制公众拍摄，多因为在执法行为有诸多不当、不法和不妥之处。</p>
+<p>反观这起事件，爆粗口的深圳警察不仅仅是执法不规范的问题，而是报复性执法、野蛮执法和构陷式执法。想想看，我要把你们跟那些小偷、艾滋病、强盗关到一起去，让你们享受去……”两位女孩犯了多大的事才会遭遇如此虐待？只不过是警察要查看她们身份证时，她俩要求先查看警察的证件，而这，便成为冲突的导火线。</p>
+<p>在警方执法必须先出示证件这个话题中，我们讨论了许多次，但每一次警察都可以拿出不用出示证件的理由。这一次，当不用出示证件的警察刚好有羞辱爆粗口言辞，不知还会不会有警察认为自己的执法并无不当呢？</p>
+<p>在视频中，警察说到，我怀疑你是个男的，你上女厕所干吗？你脱衣服给我看一下，女孩辩解说她们刚刚根本没有上过女厕所。通过这段对话，你以为警察说的仅仅是气话吗？非也，这是一种构陷式执法，说白了，警察怀疑你是男的，在他们眼里就是男的，上了女厕所，警察就可以拿出自己的“家法”来处罚两位女孩，这样的执法，除了构陷就是栽赃。</p>
+<p>再者，透过对话我们更能发现，警察的蛮横一览无遗，警察的嚣张甚嚣尘上，可以说，如果不表明这是警察与两位女孩的对话，你很可能以为这是黑帮与被绑架者之间的对话。</p>
+<p>不敢想象，如果没有两位女孩拍摄的视频作证，涉案民警会被停职吗？公安局长还会道歉吗？如果说，当两位女孩没有留下任何证据，只凭借两人的事后回忆，她们又拿什么来证实自己看到和听到的一切呢？</p>
+<p>特别是在公权力说谎成本成性、说谎成本很低、说谎不打草稿的情况下，当执法的不当和不法行为被公众或当事人看到，但执法者却又极力否认时，公众或当事人又不能拍摄时，又拿什么来证明自己的清白呢？</p>
+<p>此名民警在车上的行为让人大跌眼镜大失所望，满口胡言乱语，连一个公民的形象都不如，这句话是宝安公安分局局长说的，如果当事人是我，是我的家人，我能平静吗？讲一千个一万个道理，对人造成了伤害，除了不文明，还有羞辱人格。</p>
+<p>公安局长的话言犹在耳，一个让人大跌眼镜大失所望的警察执法，损害的当是整个警察的队伍形象。此事件也因为有视频作证，之前常为警察洗地的声音未曾出现，要不，一切的流言蜚语或许就会将两位女孩淹没，毕竟，两位女孩“得罪”的是警察，而不是其他人。</p>
+<p>而当日下午，其中一名姑娘接到一自称是涉事派出所“负责人”的电话，对方表示，“那些警察是因为前一天加了24小时班累着了，然后态度不好，要我们理解。”你看，这不知是涉案警察真累了还是怪这两位女孩运气不好，反正，警察爆粗口都可以拿出前一天加班24小时作为理由，似乎就在说，如果不加班，涉案警察或许就是另一方景象，但是，这样的说辞站的住脚吗？</p>
+<p>雷洋案的余波未了，而今，深圳又发生这样的事件，很难说，两起事件没有共同之处。你走在大街时，随时可能被怀疑嫖娼；也可能随时会被查验身份证，或是仅因为你长得漂亮便有警察前来执法，这样的警察执法状态，说白了，就是一种滥权的沿袭，就是一种执法暴力的展现。</p>
+<p>回头来看，我们却依然后怕，如果两位女孩没有视频作证，恐怕两位女孩的遭遇就只能自认倒霉，而涉案民警压根不会被调查，警察群体更不会相信，自己的队伍里会有这样的执法者。</p>
+<p>或许，两位女孩压根不会举报，也不会控告，因为，他们除了回忆，口说无凭。在没有视频佐证的警察滥权中，公民靠什么监督公权，哪怕警察持有执法记录仪，但执法记录仪会记录这位警察的爆粗口和滥权吗？这些，都值得我们深思，更值得我们讨论——当警察滥用权力时，我们靠什么保护自己？</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%8B%E7%95%8C%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%AD%A6%E5%AF%9F%E7%BE%9E%E8%BE%B1%E6%81%90%E5%90%93%EF%BC%8C%E5%81%87%E5%A6%82%E6%B2%A1%E6%9C%89%E8%A7%86%E9%A2%91%E4%BD%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">深圳警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%93%E9%B1%BC%E6%89%A7%E6%B3%95/?category=18271" rel="tag">钓鱼执法</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91-%EF%BD%9C%E5%8C%97%E4%BA%AC%E6%9A%97%E5%9C%B0%E9%87%8C%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%A4%96%E5%AE%A3%E6%94%BB%E5%8A%BF/" target="cdt-mirror">博谈网 ｜北京暗地里百亿美元的外宣攻势</a>
 </h2>
 <p><p>（博谈网记者赵亮编译报道）据《金融时报》6月9日报道，当中共中宣部部长刘奇葆上个月访问悉尼，与澳大利亚最大的一些媒体公司签署了一系列交易后，很少人予以重视。</p>
@@ -766,30 +795,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A709%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%AE%98%E5%91%98%E5%A4%AA%E5%A4%AA/" target="cdt-mirror">德国之声｜长平：“709”妻子与官员太太</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/016178419_30300.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/016178419_30300.jpg?resize=575%2C324" alt="谷开来作为中国最有名的“官夫人”之一，难逃政治斗争的漩涡" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/016178419_30300.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/016178419_30300.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>谷开来作为中国最有名的“官夫人”之一，难逃政治斗争的漩涡</span></p></div>
-<p>（德国之声中文网）星期一(6月6日），”709″案被抓捕、失踪的部分维权律师的妻子在天津市检察院第二分院门口舞动写有支持丈夫文字的红色水桶，<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C709%E4%BA%8B%E4%BB%B6%E8%BE%A9%E6%8A%A4%E5%BE%8B%E5%B8%88%E6%8A%97%E8%AE%AE%E8%A2%AB%E6%8A%93/" target="_blank">表达抗议</a>。与此同时，一则几天前<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%B9%B2%E9%83%A8%E5%A6%BB%E5%AD%90%EF%BC%9A%E6%84%9F%E8%B0%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A%EF%BC%8C%E4%B8%88%E5%A4%AB%E5%9C%A8%E5%AE%B6/" target="_blank">官员妻子集体表态”助廉”</a>的消息在微博传播：武汉新任局级干部妻子参加座谈会，”感谢从严治党，丈夫在家时间增多了”。</p>
-<p>看上去，尽管同样是以妻子的身份出现在媒体，这两类女人似乎生活在不同的星球上。官员太太（官方媒体甚至直接称其为”官夫人”）夫贵妻荣，锦衣玉食；维权律师的妻子们不仅丈夫受难，自己也被株连摧残。但事实上，在这个专制的政治结构中，她们住得很近，相与为邻，都是被体制绑架的女人。不同的是，一方努力挣脱绑架处境，艰难抗争；一方顺从绑架体制，参与和谐合唱。</p>
-<p><strong>维权律师妻子们的勇敢抗争</strong></p>
-<p>“709”维权律师的妻子们的勇敢抗争令人敬佩。中共从来没有放弃连坐制度，威胁家属、绑架亲情从来都是警察执行打压人权政策的拿手伎俩。他们不仅以被捕者的安全、健康和刑期作为谈判筹码，甚至威胁其亲属的生存、工作和孩子求学。处于高压恐惧中的妻子们常常不得不委曲求全，甚至同意帮助官方维稳，比如请求媒体”不要炒作”。但是，王峭岭（李和平妻子）、李文足（王全璋妻子）、原姍姍（謝燕益妻子）、刘二敏（翟岩民妻子）及樊丽丽（戈平妻子）等人拒绝接受警察的威胁，始终坚持勇敢发声。此前，她们曾致信中国公安部长表达抗议，状告污名丈夫的官方媒体，联署要求美国总统奥巴马关注，还托人将抗议视频带到美国国会听证会现场。</p>
-<p>她们多次遭到警察传唤和威胁，还要照顾家中老小，所承受的压力和折磨，外人往往难以想象。</p>
-<p>这些女人的抗争，不仅仅支持了丈夫的维权事业，而且也独立地成为反抗专制政治的巨大力量。官员太太们可能视她们为异类及危险分子，不愿了解，甚至敌视。但是，她们应该知道，这些女人和她们的丈夫所作的努力和牺牲，在维护公民基本人权的同时，也在和各种官场腐败宣战，要求建立公平透明、民主监督的政治体制。</p>
-<p><strong>官员太太如何吹好”枕边风”？</strong></p>
-<p>“家属助廉”不是新闻，官员太太从来都被要求当好”家庭纪委书记”。”家有贤妻，胜过国有良相”，官方甚至公开要求”贤妻”们利用夫妻亲热的机会，”吹好枕边风”。有网友认为，如果”枕边风”有效的话，那么应该利用的是”小三”（婚外情人）而不是妻子。这并非笑话，被揪出的腐败官员几乎无一例外地，”与多名女性发生或保持不正当性关系”。这些关系当然不是他们赶在落网前夕才匆匆建立的，也不是只有落网者才”值得拥有”。</p>
-<p>也正是在”留住丈夫”这个意义上，官员太太对反腐会有一定真心赞同。因此，媒体报道将”丈夫在家时间增多了”作为标题。难道不是同样这些媒体，时常将日理万机、无暇顾家作为领导人大公无私的标榜吗？彭丽媛多次接受采访，赞赏丈夫习近平”为了更好地造福于福建人民”而长期两地分居。</p>
-<p>中共从来都要求”领导干部要管好自己的家属”，同时又要求家属管好领导干部，管来管去的结果，就是腐败如果蛆虫一般大量繁殖。这个方法明显无效，但是习近平上台之后更加强调”家风建设”。众多维权律师及人权活动家要求实施那些从理论上和实践上都证明更加有效的反腐制度，比如新闻自由、司法独立、官员财产公开等，却被投入监狱。这是因为，和很多以为的聊胜于无相反，所谓”家风建设”的传统父权观念，更加有利于维护专制制度，建立能够被当权者掌控的腐败制度。</p>
-<p>跟很多类似的例子一样，武汉市新任局级干部家属座谈会由当地妇联组织，发言的家属代表全是女人。从妇女权益的角度看，妇联的所作所为显然与自身职责背道而驰：它强化了女人作为”贤内助”的传统刻板印象，并为让女人承担制度腐败的污名铺路搭桥–没有管好丈夫的妻子，和狐狸精一般诱惑官员的”小三”一样，都要为领导干部的堕落承担责任。</p>
-<p>“爱情和友谊会穿过阴暗的牢门，来到你们身旁。”普希金这句歌颂”十二月党人”妻子的诗歌，常常被人引用来赞美维权律师的妻子。把它想象到贪官妻子的身上，则有特别的讽刺效果。官员太太们如果真的想要中共建立反腐制度，避免让丈夫跌入腐败大酱缸，那么应该摆脱作为维护父权专制的玩偶角色，跟维权律师的妻子站在一起。</p>
-<p>遗憾的是，作为腐败体制的既得利益者，官员太太们无法摆脱玩偶的命运，煞有介事地承诺向丈夫多吹”枕边风”。而这些丈夫们多有可能”与多名女性发生或保持不正当性关系”，可谓”羌笛何须怨杨柳，春风不度玉门关”！</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A709%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%AE%98%E5%91%98%E5%A4%AA%E5%A4%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7/?category=18271" rel="tag">党性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E5%90%8D%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">多名女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9D%83%E9%98%B6%E5%B1%82/?category=18271" rel="tag">特权阶层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -801,7 +806,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -811,5 +816,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

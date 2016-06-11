@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%9F%BA%E5%B1%82%E6%B0%91%E8%AD%A6%EF%BC%9A%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E7%BF%BB%E5%A2%99%E6%9B%9D%E5%AE%B6%E4%B8%91%E8%BF%98%E5%A7%93%E4%B8%8D%E5%A7%93/" target="cdt-mirror">【立此存照】基层民警：《人民日报》“翻墙曝家丑”还姓不姓党了？</a>
@@ -474,7 +474,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E7%BB%A7%E4%B8%9A/?category=18271" rel="tag">刘继业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E9%A2%96%E5%85%89/?category=18271" rel="tag">刘颖光</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95%E8%AE%B0%E5%BD%95%E4%BB%AA/?category=18271" rel="tag">执法记录仪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98/?category=18271" rel="tag">法官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E6%AD%BB%E4%BA%A1/?category=18271" rel="tag">被死亡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E6%96%B0%E7%BD%91/?category=18271" rel="tag">财新网</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E9%82%A3%E4%BA%9B%E6%97%A0%E7%88%B9%E5%8F%AF%E6%8B%BC%E7%9A%84%E5%AD%A6%E7%94%9F%EF%BC%9A%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E9%AB%98%E4%B8%89%E3%80%8B/" target="cdt-mirror">【CDTV】那些无爹可拼的学生：纪录片《高三》</a>
 </h2>
@@ -827,5 +827,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E8%89%AF
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

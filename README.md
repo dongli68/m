@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,41 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E6%9A%97%E5%9C%B0%E9%87%8C%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%A4%96%E5%AE%A3%E6%94%BB%E5%8A%BF/" target="cdt-mirror">博谈网｜北京暗地里百亿美元的外宣攻势</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg?resize=585%2C329" alt="xuansdg" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
+<p>（博谈网记者赵亮编译报道）据《金融时报》6月9日报道，当中共中宣部部长刘奇葆上个月访问悉尼，与澳大利亚最大的一些媒体公司签署了一系列交易后，很少人予以重视。</p>
+<p>但是，此行的成果——中共的英文喉舌《中国日报》出版的刊物《中国观察报》（China Watch）出现在《悉尼先驱晨报》等言论自由的堡垒里，这道破了中国数十亿美元的宣传机器在不断地延伸触角，试图要赢得世界各地人的心智。</p>
+<p>中国的“软实力”战略多年来在学校里资助中文课及支持当地的智库。但是现在，北京正在把它的宣传触角伸进独立媒体。</p>
+<p>与澳大利亚媒体的交易说明了这种延伸，之前与《华盛顿邮报》、英国《每日电讯报》和法国的《费加罗报》也有类似的协定。在（澳大利亚）费尔法克斯媒体（Fairfax）的几家报纸中每个月新出现的《中国观察报》插页，其首次的刊物中刊载对北京有利的报道，包括一篇支持北京在南中国海有争议水域对峙的文章。</p>
+<p>北京为了打磨自己作为一个全球大国的形象，正在找资金短缺的西方媒体中的受众，即使他们并不总能意识到该交易的性质。</p>
+<p>“澳大利亚人不知道他们所做的正在成为中国官方媒体中的大新闻，也不知道中共鼓吹该交易是使其对外宣传的胜利”，澳大利亚斯威本科技大学（Swinburne University of Technology）教授John Fitzgerald说。</p>
+<p>乔治·华盛顿大学教授David Shambaugh表示，所有大国都搞公关，但是，北京推动的规模是史无前例的。他估计，中国每年在对外宣传上花费100亿美元，远远超过了美国，他说美国2014年在公共外交上只花了6.66亿美元。</p>
+<p>北京通过孔子中心，用这些钱来资助世界各地中小学和大学课堂里的中文课和文化课。北京也在亚洲基础设施投资银行投入数百亿美元，来给发展中国家提供软贷款，加强区域援助方案，以及建立一个全球性的广播和电视新闻网。</p>
+<p>路透社去年的一份调查确定了一个含有33家广播电台的国际网络，其复杂的股权结构掩盖了其大股东：中国国营的中国国际广播电台。该网络覆盖范围从美国到澳大利亚，播出的内容是中国国际广播电台或由其控制的公司制作的。</p>
+<p>“北京感到其国际声誉与它现在更大的经济实力不相匹配”，悉尼科技大学教授Wanning Sun说。“北京感觉西方媒体有偏见，它正在尽一切所能来解决这个问题。”</p>
+<p>Sun女士说，通过提供资金，提供免费内容和技术，甚至提供记者培训，在澳大利亚及有众多华人侨民的国家，北京已经在改变当地中文媒体的关注焦点上获得了一些成功。</p>
+<p>“北京将把与澳大利亚主流媒体最近的这些交易视为接触更广泛公众的一种方式”，她说。</p>
+<p>尽管投入了资金，许多汉学家怀疑北京推动软实力的有效性。“每个人似乎都非常清楚它们的目的”，伦敦国王学院（King’s College London）的教授Kerry Brown说。“其结果是让人们有更多、而不是更少的怀疑。”</p>
+<p>北京与（澳大利亚）费尔法克斯、澳大利亚天空新闻和其他几个当地公司的交易在澳大利亚引发争议证明了这一点。</p>
+<p>批评者们指出北京的宣传机器轮廓更加鲜明，而在中国国内，记者被监禁，许多外国媒体的网站被封。一些人警告说，附带刊发北京的宣传可能会损害自己的报纸，并且让北京的商业影响力影响到澳大利亚记者关于中国的报道。</p>
+<p>还有人质疑这些澳大利亚媒体是否足够明确地让读者知道《中国观察报》的内容是主观的。</p>
+<p>费尔法克斯驳回这些担忧称：对《中国观察报》有明确的标注，与对待广告的内容没有两样。“我们致力于提供独立的、高质量的新闻，包括有关中国的事宜，这一承诺绝对没有改变”，它说。</p>
+<p>但是，继上个月澳大利亚公共广播电台（ABC）承认其旗舰的澳洲佳（Australia Plus）中文网站“没能坚守编辑程序”之后，对于中澳媒体联营已变得更加敏感。</p>
+<p>在2014年，ABC与上海文化广播影视集团签署了一份独家协议，宣称该协议让西方广播公司最广泛地接触中国观众。ABC的“媒体观察”（Media Watch）节目最近发现，在澳洲佳网站上，一些关于有争议话题的中文相关新闻被重新编辑或删除。</p>
+<p><a href="https://next.ft.com/content/324d82c4-2d60-11e6-a18d-a96ab29e3c95" target="_blank">原文China’s $10bn propaganda push spreads Down Under</a></p>
+<p><em>编译: 赵亮 作者: Jamie Smyth</em></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E6%9A%97%E5%9C%B0%E9%87%8C%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%A4%96%E5%AE%A3%E6%94%BB%E5%8A%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">中国日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%9F%BA%E5%B1%82%E6%B0%91%E8%AD%A6%EF%BC%9A%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E7%BF%BB%E5%A2%99%E6%9B%9D%E5%AE%B6%E4%B8%91%E8%BF%98%E5%A7%93%E4%B8%8D%E5%A7%93/" target="cdt-mirror">【立此存照】基层民警：《人民日报》“翻墙曝家丑”还姓不姓党了？</a>
 </h2>
 <p><p>中国北京时间2016年6月11日，《人民日报》英语版在推特的官方账号发布了<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/" target="_blank">两名女孩遭深圳警察语言暴力</a>的视频，这个原本似乎能为中国党媒加分的行为，却在微博引来了<strong>基层民警</strong>及部分左派媒体的强烈不满。</p>
@@ -82,7 +114,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%B7%AF%E5%85%9A/?category=18271" rel="tag">带路党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-140/" target="cdt-mirror">【河蟹档案】公安部：未经警方同意，精神病院不得收治正常人</a>
 </h2>
@@ -740,72 +772,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9D%A8%E5%AE%89%E8%BF%9B%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%B0%B1%E5%8D%97%E5%AE%81%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%92%95%E8%A3%A4%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A1%82%E5%85%AC%E6%A2%93/" target="cdt-mirror">杨安进律师：就南宁律师被撕裤事件与“桂公梓”法官商榷</a>
-</h2>
-<p><p><strong><strong>中国数字时代编辑注：</strong>本文作者杨安进，北京市维诗律师事务所知识产权律师、专利代理人。文章来源为杨安进知识产权法律微信公号。后附赵俊法官（@桂公梓）的文章《如果司法的脊梁塌了……》，赵俊是江苏省高级人民法院助理审判员。</strong></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-08-at-%E4%B8%8B%E5%8D%883.42.56.png?resize=495%2C597" alt="Screen Shot 2016-06-08 at 下午3.42.56" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-08-at-下午3.42.56.png?w=495 495w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-08-at-下午3.42.56.png?resize=249%2C300 249w" sizes="(max-width: 495px) 100vw, 495px" data-recalc-dims="1"><br><span>我保护不了自己的房子，但我一定要保护钓鱼岛！（来源：杨安进知识产权法律微信公号）</span></p>
-<p><strong>就南宁律师被撕裤事件与“桂公梓”法官商榷</strong></p>
-<p>作者：杨安进</p>
-<p>6月7日，吴良述律师被法警撕裤事件调查结果出来了，于是，撕裤声刚落，又引发了法律人微信群新一轮的互撕。</p>
-<p>于是，我第一时间看到了“桂公梓”法官的评论《如果司法的脊梁塌了……》。</p>
-<p>一</p>
-<p>“桂公梓”法官本不姓桂，不过既然他自己公开自称“桂公梓”，我也还是称其为“桂”法官吧。我与“桂”法官素不相识，据说是一名有理想的青年法官，文笔好，写过不少作品，颇有粉丝，基本算是网上的大V了。</p>
-<p>“桂”法官这篇文章的中心意思，是质疑在“这场‘律师VS法院’之争”中，为什么只惩罚法警，不惩罚律师，“哪怕责任二八开、一九开呢”也行。很显然，“桂”法官咽不下这口气。</p>
-<p>真正做过诉讼律师的人都知道，律师的诉求只是帮当事人在法院的个案中讨个说法，何尝有过“律师VS法院”的群体对抗念头？这不过是虚构出来的阵势。律师群体没有必要也没有能力与作为“刀把子”的法院作对。“桂”法官一方面声称共同的“司法群体”，另一方面却先把律师竖为对手。</p>
-<p>“哪怕责任二八开、一九开呢”。 想跟“桂”法官说，这个事件本质不是胡同里两个平等民事主体的小青年在打架，而是手头握有公权力的法院对民众合法权利的侵犯，是非界限是很清晰的，民众根本没有资格去承担本属于公权力的责任，如何去享受您所说的“分成”呢？</p>
-<p>其实调查组结论中并没有认定吴律师行为上违法的地方，所以，“桂”法官在千里之外要求“分担”责任的想法依据不足。但我能理解，“桂”法官可能是在“打群架”这种心理的作用下，总觉得自己这一方吃了亏，故极力要求处罚另外一方以找补些回来。</p>
-<p>其实，吴律师如果有违法行为，当受处罚，这是另一个层面的问题，无论如何是不能因此去分担法院的责任的。正如，如果某当事人骂了某法官，某法官一怒之下将该人该赢的官司故意判他输了，莫非这个当事人还要去帮助法官承担一部分枉法裁判的责任？</p>
-<p>尤其令我震惊的是，年纪轻轻的“桂”法官想了一个很老辣的手段对付吴律师，就是“应该同时建议司法行政部门对吴律师的行为进行追查和整改”。司法行政部门手里握着律师的饭碗，借助手里的权力去运作另一种权力，而直指律师的饭碗，我想说，这种一言不合、杀心顿起的做法实在不够厚道。</p>
-<p>二</p>
-<p>不过，“桂”法官“报仇心切”的想法，还是体现了他对法官群体的仗义。</p>
-<p>今天下午在一个微信群里说起这件事，一位法官问我，“你难道不知道我们的法官被人打破脑袋，被人揪着领带打耳光，有谁管过”？说实话，听了这样的话，我感觉锥心般的痛惜。</p>
-<p>法官都是有血有肉的具体个体，上有老下有小。我认识的法官中，绝大部分都是有学识、勤恳工作的，他们在沉重的工作负担下默默地充当螺丝钉，牺牲了家庭、身体，却用血肉之躯承担着连一个国家都无法承担的“公平正义”的社会责任，好事难以轮上责任却首当其冲，领着微薄的薪水享受高物价，怎堪再被人羞辱？</p>
-<p>很显然，许多法官，尤其是基层职务的法官，也有很多委屈，也常有被“欺负”的时候。</p>
-<p>从“桂”法官写的一些关于法官地位、员额制、工作量考核等问题的评论看，他也知道有一些法官在法院系统被“欺负”。当法官被南宁吴律师“欺负”的时候，“桂”法官报仇心切，而当法官被法院系统“欺负”的时候，“桂”法官何曾想过去“报仇”，更遑论去主张“二八开、一九开”分担责任！为什么呢?因为“桂”法官自身的利益就在法院系统内，他可以忍受一些体制内的“欺负”，通过两害相权取其轻而使得自身利益最大化。而追究吴律师的责任不会给他造成任何损失。可是，这种趋利避害的人的本能式的选择与年轻有理想的法官嘴里的“公平正义”可有半毛钱的关系？</p>
-<p>作为具有“公平正义”这种“普国价值”情怀的人，遇到南宁这样的事，我觉得首先应该客观谦和地讨论公权力失当之处，探讨改进之策，而不是因身怀利器而对作为受害者的民众急于报复。法官在体制内忍受的一些“欺负”，只能通过改良体制获得救济，而不能通过加害民众的方式获得心理补偿。这种方式其实也是补偿不了的。</p>
-<p>三</p>
-<p>在北京昌平马彩云法官被当事人枪杀后，我写过一篇文章《我们正在自食不关心公共事务的恶果–评枪杀法官案》，追问是谁把一个赤手空拳的法官派往了凶险的前线？</p>
-<p>一个不完善的司法体制，最终导致了司法权、法官社会地位的降低，并进而威胁到了个体法官的生命健康。而相当数量的法官在一定时间的沉默，延续并放大了这个体制的弊端。然而，雪崩时，又没有一片雪花认为自己有责任。</p>
-<p>只有有勇气去触动这个体制的改良，才能恢复司法权和法官的权威和尊严。</p>
-<p>其实，在南宁事件中，吴律师应该是在个案中因为维权而触动体制的弊端，从而引发了激烈冲突，这是司法体制不健全情况下律师执业必然遭受的困境。所以，律师常通过个案的方式体现为体制弊端的揭露者。</p>
-<p>而对于法官而言，也只有把体制的弊端逐步克服了，有了健康的司法体制，法官在体制内遭受的“欺负”才会结束。</p>
-<p>从这一点来讲，律师和法官的利益诉求绝对是一致的。只不过，律师的行为方式因为常常有明确的利益诉求和清晰的诉求对象，故在碰撞中常以一个挑战者的姿态出现。</p>
-<p>但是，如果象“桂”法官那样在面临体制内“欺负”的时候，仅以高超的语言技巧泛泛地说一些人尽皆知的“真理”，甚至不敢真名实姓地提出自己的维权诉求，更不敢真刀真枪地找到明确的诉求对象去说理，轻松地敲着键盘，一方面展示着自己的“仗义”，另一方面又小心翼翼地不得罪会危害自己利益的人，这叫哪门子维权？靠这种虚虚实实的暧昧做法，体制的弊端到底什么时候由什么人去碰触呢？</p>
-<p>如果连自己的权利都不敢、不想去维护，又如何能维护所在群体的权利呢，又如何去维护千里之外的南宁法警的权利呢？这种情况下，写一千篇文章，仍然只是“逗你玩”，除了增加一些粉丝，不会有实际效果。毕竟，长征是一步一步走出来的，而不是坐在家里写出来的。</p>
-<p>当然，体制内有体制内的约束限制，不能要求法官都那么去“死磕”，显得很不成熟持重。但是，如果有律师这么去做了，希望“桂”法官们多理解，不要去嘲弄，更不要动辄去威胁别人的饭碗，因为这些律师正在露着内裤间接为大家谋福利呢！</p>
-<p>也许因为吴律师们要碰触的体制恰好是“桂”法官们所身处的体制，所以才招致其反感。律师如果碰触的是公安、检察体制，“桂”法官们想必就不会那么“报仇心切”了。</p>
-<p>这种“体制内欺负我可以，体制外欺负我绝对不行”的做法，其实是有点狭隘的。中国的一些“体制”，说实也实，说虚也虚，就像等高线那样的圆圈套圆圈，“桂”法官针对吴律师是体制内的人，但针对体制内的一些人而言，“桂”法官又成了体制外的人。所以，不宜用体制内外这样缺乏确定含义的眼光看待问题，如果大家一起努力把体制都弄顺溜了，体制内外都有了公平正义、人人平等了，就不存在谁“欺负”谁的问题了，多好。</p>
-<p>四</p>
-<p>最后，与“桂”法官沟通几句关于思想觉悟的问题，尽管并没有这个资格。</p>
-<p>第一，你受到任何委屈，有任何不满，要相信党和组织有能力有诚意解决你的问题，而不要装着自己没有具体利益诉求、一切安好的样子却又不断地发牢骚，这样就会麻痹了组织，延误了问题的解决。你应该有勇气把自己的真实想法与党和组织交心。</p>
-<p>第二，你文章中说“青秀法院几位法警还是有担当、有责任心的，他们本着对工作认真负责的态度，真的出手了”。这个说法就很欠妥了。调查组都说了法警是“滥用强制手段”，到你这却成了“有担当”的行为，敢于对律师“出手”看来很对你胃口，但这算什么是非观呢？这种逻辑与将杀害上海警察的杨佳称为“刀客”有什么区别呢？</p>
-<p>第三，你说“长此以往，我不知道以后还有谁愿意来为法院维持应有的秩序。而法院，又能靠谁来保护自身应有的权利，挺直自己的脊梁呢”。实在令我惊讶，莫非你眼中的法院的秩序就是靠撕裤子的法警来维持？这种滥用暴力的法警莫非还成了你眼中的法院“脊梁”？如果是这样，我看这种脊梁没有也罢，我倒相信你会成为真正的脊梁。</p>
-<p>【后记】<br>
-其实，我宁愿相信“桂”法官是真的有理想、有追求的好法官，是体制内的健康力量，脚踏实地推进司法制度的完善。此文意在激发健康力量的成长，实无意贬损打击，自谓“诤友”之言，切勿误解。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-%E4%B8%8A%E5%8D%888.34.46.png?resize=421%2C589" alt="Screen Shot 2016-06-04 at 上午8.34.46" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.34.46.png?w=421 421w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-04-at-上午8.34.46.png?resize=214%2C300 214w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1"></p>
-<p><strong>如果司法的脊梁塌了……</strong></p>
-<p>作者：赵俊（网名桂公梓）</p>
-<p>闹得沸沸扬扬的“法院撕破律师裤子”事件今天终于有了一个说法。联合调查组的调查结论甫一出炉就被广为转发，各方情绪都不是很稳定，法官们哀叹死磕胜利，司法权威扫地；律师们指责调查结论保守，脚踏胸口还不属于殴打有悖常理。我的第一感觉是，大家都不满意，说明这个调查结论还真是挺中立的呢。</p>
-<p>这个事件从发生到发酵至今也有几天时间了。期间每逢讨论，我都没有发表明确观点，因为在不掌握客观事实的情况下，无论为哪一方站台其实都是由立场决定的，屁股决定脑袋。律师们愤慨抗议了好几天，法官们也据理力争了好几天，法律共同体内形同水火一地鸡毛。而现在，从客观的调查结论来看，不得不说 ，法院这次是完败了。法院赔礼道歉、出具凭证、追究相关人员责任并向社会通报、法院整风、法院保障律师权利……每一条处理意见都打在法院脸上。</p>
-<p>这原本没什么好说的，毕竟法警的行为确实存在不当之处，以此追究他们的责任，合情合理、有凭有据，谁也无话可说。尘埃落定，该欢呼的欢呼，该丧气的丧气，律师们脸上陡然增光，法官们再次以尘覆面。但是，我还是忍不住想说几句。</p>
-<p>我绝不相信这起冲突的责任完全在于法警一方。吴良述律师的行为难道没有丝毫不当之处吗？以我不算深厚的司法实践和化解社会矛盾纠纷的经验来看，吴律师在这起事件中的角色绝不简单只是一个受害者。他对于冲突从发生、激化直到不可收拾的全过程，即使不是主观上直接故意、客观上推波助澜，至少也是主观上间接放任、客观上不加收敛吧。他是不是故意找茬死磕、有没有过激言行，这些问题在没有公布录像前谁也没法下定论，我看到一些文章从吴律师超模照的细节（例如裤子撕破的状况、衬衫纽扣、口袋里的笔等）甚至面相上来推测他并非善茬，我觉得这样不合适，我愿意相信吴律师是温良儒雅坚守正义并为权利而奋斗的正派律师。但至少有一点，也是联合调查组的调查结论里已经确定了的，“在法院申诉信访场所不能录音录像”以及“法院法警有权在该院诉讼服务大厅、信访接待室等场所制止、删除未经准许的录音录像”。这不就够了？法警在制止手机录音录像一事上有执法权，那他们检查吴律师的手机何错之有？这时候吴律师如果心平气和地稍微配合一下，是不是就可能避免后来的冲突呢？至于调查结论里说的“法警在没有证据证明吴良述录音录像的情况下，用强制手段检查其手机，超出了可以使用强制手段的法定授权范围”，这纯属胡扯，难道要先确定违法事实才能使用执法权？按照这个逻辑，警察得拿着刑事判决书才能逮捕嫌犯吗？</p>
-<p>律师和法官，在一个司法案件程序里扮演不同的角色，理应互相尊重。法院邀请律师来开庭，需要发传票通知，告知立案情况、合议庭组成，各种该向律师送达的法律文书也一一送达，这是依法尽基本的尊重义务，如果仅仅打个电话吆五喝六地说“某某律师你下星期过来开个庭”，那就是不合适的行为。那么，律师到法院来立案或开庭，是不是也应该依法尽基本的尊重义务，按照法院的规章制度办事，不许喧哗的场所就小声一点，禁止录音录像的场所就不掏出手机来呢？我觉得对于以法治思维和法治方式工作的律师来说，这种程度的尊重应该是最基本的了吧。</p>
-<p>是，我并不否认这件事是法警行为失当，但他们不该承担100%的责任，因为吴律师同样有过错，即使这过错可能比较轻微。在刑事案件里，“被害人有过错”都是可以从轻或减轻被告人处罚的量刑情节，为什么在调查组的结论里，5项处理结果都是指向法院的呢？是认为吴律师的行为完全恰当？不需要整改？甚至可以当成律师完胜法院的典型案例、让法院吃瘪的行为模板，供其他律师学习借鉴？</p>
-<p>既然让南宁中院启动责任调查程序来追青秀法院的责了，我觉得至少，应该同时建议司法行政部门对吴律师的行为进行追查和整改吧？再或者，法院自己给司法局发个司法建议也成啊！哪怕责任二八开、一九开呢，至少让其他律师尤其是年轻律师们知道吴律师的行为同样不可取啊！别不管青红皂白就把责任一揽子全部担下来啊，能不能客观一点、从容一点、硬气一点，到底是傻还是怂啊！</p>
-<p>为了平息舆论，摆出一个痛心疾首跪地求饶的姿态，也许可以让涉事法院的领导们从热锅上撤退了，但是伤害的是整个司法机构的权威和形象啊！伤害的也是整个法律共同体的形象啊！朋友圈里有个别律师在欢庆胜利，我也很不理解，这个社会的司法形象在千疮百孔上又添新伤，有什么值得高兴的？毕竟，律师也是司法群体的一份子啊！</p>
-<p>如果司法的脊梁垮了，谁都没法站得笔直。</p>
-<p>包括律师。你们是司法群体重要的一环，所以，在欢呼这场“律师VS法院”之争的胜利前，请先冷静地想一想，吴律师的这场秀究竟是为权利而斗争，还是为斗争而斗争。而吴律师和他被撕破的那条裤子，成就的到底是律师权益，还是吴律师自己。</p>
-<p>最后，我想对青秀法院即将被追责的几位法警表示同情。现实中，经常会有人在法院闹事、缠访，法官被威胁、伤害的事件也时有发生，而因为害怕承担责任，很多法院的法警往往不敢动手制止，只敢在三米远外挥舞手脚做做样子，像是在拍三流的武打剧。青秀法院几位法警还是有担当、有责任心的，他们本着对工作认真负责的态度，真的出手了。</p>
-<p>遗憾的是这个年头，谁出手，谁背锅。</p>
-<p>长此以往，我不知道以后还有谁愿意来为法院维持应有的秩序。而法院，又能靠谁来保护自身应有的权利，挺直自己的脊梁呢。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9D%A8%E5%AE%89%E8%BF%9B%E5%BE%8B%E5%B8%88%EF%BC%9A%E5%B0%B1%E5%8D%97%E5%AE%81%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%92%95%E8%A3%A4%E4%BA%8B%E4%BB%B6%E4%B8%8E%E6%A1%82%E5%85%AC%E6%A2%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">吴良述</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF/?category=18271" rel="tag">广西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF%E5%BE%8B%E5%B8%88%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">广西律师吴良述</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88%E6%B3%95%E5%AE%98%E5%AF%B9%E7%AB%8B/?category=18271" rel="tag">律师法官对立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E5%AE%89%E8%BF%9B%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">杨安进律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%82%E5%85%AC%E6%A2%93/?category=18271" rel="tag">桂公梓</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98/?category=18271" rel="tag">法官</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%AE%98%E8%B5%B5%E4%BF%8A/?category=18271" rel="tag">法官赵俊</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -817,7 +783,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E8%89%AF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -827,5 +793,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E8%89%AF
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

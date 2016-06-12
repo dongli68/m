@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,86 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E4%BD%86%E6%84%BF%E5%A5%A5%E5%85%B0%E5%A4%9A%E6%9E%AA%E5%87%BB%E6%A1%88%E4%B8%8D%E4%BC%9A%E6%89%93%E5%93%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BA%92%E6%92%95%E7%9A%84/" target="cdt-mirror">导弹熊 | 但愿奥兰多枪击案不会打响中国人互撕的发令枪</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.24.51.png?resize=500%2C343" alt="Screen Shot 2016-06-12 at 上午11.24.51" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.24.51.png?w=500 500w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.24.51.png?resize=300%2C206 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<blockquote><p>无论多么优越的制度，无法保护公民都是失败的。在这一点上，一个硕士蹊跷死亡和五十个同性恋者被猝然枪杀，都是社会管理的败笔。</p></blockquote>
+<p>当地时间12号凌晨，美国奥兰多一家同志酒吧发生枪击案，一名枪手射杀50人，击伤53人，造成美国历史上最严重枪击事件。</p>
+<p>枪手奥马尔·马丁据称为美国公民，阿富汗裔。其父声称儿子曾目睹两名男子亲吻并被激怒。FBI曾在2013到2014年留意此人，但是无果而终。目前尚无证据表明其人与ISIS有直接联系。</p>
+<p>类似这样的事件一旦发生，美国就会爆发是否禁枪的讨论，但这么多年下来，主张禁枪的一派始终没能如愿。</p>
+<p>这次凶手使用了AR15步枪和手枪。按照美国法律，军用AR15有30发弹匣，有可伸缩枪托，可以连发，不能在民用枪械市场销售。从现场视频里警察和凶手枪战的声音来判断，双方都在单发射击，没有连发的噪声。但即便是只能单发的AR15，在手无寸铁的市民面前，也是可怖的杀人利器。如果凶手带有多个弹匣，近距离屠杀，几乎可以一枪一命。正因为忌惮对手的火力，警察最终用装甲车破墙而入，击毙了凶手。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.24.33.png?resize=498%2C309" alt="Screen Shot 2016-06-12 at 上午11.24.33" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.24.33.png?w=498 498w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.24.33.png?resize=300%2C186 300w" sizes="(max-width: 498px) 100vw, 498px" data-recalc-dims="1"></p>
+<p>可以预料的是，此事虽然发生在美国，但却必然会在中国引发争论，就好像奥兰多的那个枪手打响了中国人互撕的发令枪。</p>
+<p>反感美国一些做派，也反感国内亲美派的人会说：你瞧瞧，美国有什么好？枪击案一再发生，老百姓闹不好就被突突了。没有生命权，何谈人权？连枪支都禁不住，法律何用？国会辩论总是持枪派占上风，民主有何意义？自由的代价如果是无辜平民丧生，那么这个自由价值何在？禁枪无效，就是军火商利益在作怪，美国政治说到底还是被大资本家控制的，美国的民主是虚伪的云云。</p>
+<p>而喜欢美国，愿意为美国辩护的人会说：美国老百姓合法持枪，这是宪法修正案赋予的权利，目的是为了随时对抗政府可能的压迫和坏警察的暴力，就像史泰龙《第一滴血》里演绎的那样。美国人宁肯忍受枪击案带来的生命损失，也要坚持持枪权利，因为相对于治安问题，政府滥权的危害更大。换言之，美国人把枪击案频发视为可以忍受的民主代价。用流行了好几年的一个帖子的话说，就是如果美国某人要是没有枪，早就被州警夺去财产，沦为上访户了，云云。</p>
+<p>好像双方都有道理，谁也无法说服谁。</p>
+<p>要说美国治安差，人家会说你们的治安又能好哪去？好的话某人怎么就出去接个亲戚就能死半路上？要说美国治安好，可是动不动就乒乒乓乓也TM挺不是个事儿。</p>
+<p>要说美国持枪挺好，这是民主的表现，人家会说你自己摊上枪手爆头试试？或者你正在上班，突然就听说你儿子那个校园扫射起来了，你啥感觉？若说中国要是人人有枪，根本就不会发生强拆，人家会说以中国现有的国民素质，人人有枪就等于全面内战。</p>
+<p>美国的民主，从总统的权限到公民持枪，都有深刻的历史和地理原因。而中国人从秦始皇时代就开始“收天下之兵，聚之咸阳，削锋镝，铸以为金人十二，以弱天下之民”，对民间武装能力的压制是根深蒂固的，要撼动，就是民间本身也有巨大争议。中国文革结束后治安最差的年头，也恰恰是枪支和刀具最泛滥的年头。</p>
+<p>似乎只有一点是明确的：中国这一套肯定不服美国水土，美国那一套，要是不做本土化配方调整，似乎也不对付中国土壤。</p>
+<p>美国人需要在民主框架下，降低枪支对社会的危害，尤其考虑到极端势力膨胀、本土恐怖主义抬头的背景，就更要严格控制枪支的使用，不使之危害合法公民身家性命，而这又绝不仅仅是标明枪支使用场合的问题，更是调整美国利益格局的问题。</p>
+<p>中国需要在提升公民素养前提下，尽早改良制度，建立适合本国国情的民主法制体系，扩大公民权利，限制公权手脚。这个也绝不只是规定警察何种条件下不能查身份证、查水表的问题，也还要从根子上重塑权力结构。</p>
+<p>你瞧瞧，其实两国面临的问题有点像，就是都有一本难念的经，都需要防止杀伤性力量失控。</p>
+<p>美国的任务如果完成得不好，则私权作恶，危害社会；中国的任务如果完成得不好，则公权害民，欺凌百姓。两者看起来是不同的问题，但客观效果是一样的，最终受伤害的，同样都是普通人。</p>
+<p>无论多么优越的制度，无法保护公民都是失败的。在这一点上，一个硕士蹊跷死亡和五十个同性恋者被猝然枪杀，都是社会管理的败笔。</p>
+<p>所以在奥兰多枪击案发生之后，我们不要做无聊的两派互撕，且为死者哀悼，并同时思考怎样做好自己的事情，让悲剧或者悲剧的变种不要降临在本国公民头上。</p>
+<p>阿门。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E4%BD%86%E6%84%BF%E5%A5%A5%E5%85%B0%E5%A4%9A%E6%9E%AA%E5%87%BB%E6%A1%88%E4%B8%8D%E4%BC%9A%E6%89%93%E5%93%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BA%92%E6%92%95%E7%9A%84/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%85%B0%E5%A4%9A%E5%A4%9C%E5%BA%97%E6%9E%AA%E5%87%BB%E6%A1%88/?category=18271" rel="tag">奥兰多夜店枪击案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9%E7%86%8A/?category=18271" rel="tag">导弹熊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%AA%E5%87%BB%E6%A1%88/?category=18271" rel="tag">枪击案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%AA%E6%94%AF%E6%B3%9B%E6%BB%A5/?category=18271" rel="tag">枪支泛滥</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912024%E5%B9%B4%EF%BC%8C%E5%9B%BD%E5%AE%B6%E7%95%99%E7%BB%99%E6%88%91%E7%9A%84%E6%97%B6%E9%97%B4%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%A4%9A%E4%BA%86/" target="cdt-mirror">【网络民议】2024年，国家留给我的时间已经不多了</a>
+</h2>
+<p><p>新闻背景：</p>
+<blockquote><p>6月12日，《人民日报》刊文《从国际经验看如何长期保持增长动力》，<a href="http://news.sina.com.cn/c/nd/2016-06-12/doc-ifxszmaa1849792.shtml">文章表示中国预计从2024年开始进入高收入阶段</a>。文章称，目前中国已经进入上中等收入阶段，六七年后进入高收入国家行列并无悬念。<span><strong>只要政治上不出现颠覆性错误，经济上不出现毁灭性打击，制度上不出现断层式波动，</strong></span>届时将全面建成小康社会。</p>
+<p>文章作者是中国社会科学院中国特色社会主义理论体系研究中心研究员、美国研究所所长郑秉文。他之后又<a href="http://news.sina.com.cn/c/zg/2016-06-12/doc-ifxszmaa1900537.shtml">对媒体补充道</a>，2024年是非常保守的估计，中国应在2022年或2023年进入高收入阶段，<strong>但这并不是基于住房、工资等居民感受的角度，</strong>因为不同国家收入分配有差异，因此即使人均收入差不多，民众主观感受也有很大差异。</p></blockquote>
+<p><strong>以下为中国数字时代编辑搜集自新浪微博评论：</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.10.06.png?resize=590%2C492" alt="Screen Shot 2016-06-12 at 上午11.10.06" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.10.06.png?w=590 590w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.10.06.png?resize=300%2C250 300w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.10.23.png?resize=589%2C505" alt="Screen Shot 2016-06-12 at 上午11.10.23" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.10.23.png?w=589 589w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.10.23.png?resize=300%2C257 300w" sizes="(max-width: 589px) 100vw, 589px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.11.21.png?resize=584%2C574" alt="Screen Shot 2016-06-12 at 上午11.11.21" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.11.21.png?w=584 584w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.11.21.png?resize=300%2C295 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.11.21.png?resize=70%2C70 70w" sizes="(max-width: 584px) 100vw, 584px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.11.37.png?resize=594%2C557" alt="Screen Shot 2016-06-12 at 上午11.11.37" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.11.37.png?w=594 594w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.11.37.png?resize=300%2C281 300w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/u/3947149082?refer_flag=1001030106_">马奶蹦</a>：颠覆性错误 毁灭性打击 断层式波动 学会了三个新词</p>
+<p><a href="http://weibo.com/maybo1987?refer_flag=1001030106_">孤灯傲人</a>：嗯，需要这么多前提条件。</p>
+<p><a href="http://weibo.com/2277129433" target="_blank">王鸣1231</a>：一个企业的兴衰主要从她的言论和员工就完全可以看出来。天天说胡话，连邓亚萍都跳槽了。看来是真没救了。</p>
+<p><a href="http://weibo.com/3568333804" target="_blank">西瓜先生1997</a>：还有一带一路什么的，我们地理老师都说了，别看题天报道的全是好消息，其实很多临国和我们有领土纠纷，这些国家是不愿意和我们合作一带一路的</p>
+<p><a href="http://weibo.com/5840476077" target="_blank">揭秘者007008</a>：叶利钦说：“共产党的各级官员有专门的医院、专门的疗养院、堪比皇宫的办公楼、漂亮的餐厅和特制佳肴盛宴，还有舒服的交通工具。你在职位的阶梯上爬得越高，归你享受的东西就越丰富，如果你爬到了党的权力金字塔的顶尖，则可以享受一切，你就率先进入了共产主义。”</p>
+<p><a href="http://weibo.com/1980496893" target="_blank">esun123</a>：该文是不是暗示：你们要听话，不要拆台，听话就有高收入，否则后果很严重！</p>
+<p><a title="ONLY_MR" href="http://weibo.com/onlypeter?refer_flag=1001030103_" target="_blank">ONLY_MR</a> ： 这意思就是，你们这些P民都忍着点，千万别乱来！否则就没法进入高收入阶段了！</p>
+<p><a href="http://weibo.com/kehen" target="_blank">一鹏-行摄</a><i title="微博达人"></i>：这套忽悠之术刚解放的时候玩过了，只要跟着XXX，几年之内进入共产主义社会，物质极大丰富，人人各取所取，工作成了兴趣。。。。。。就是说你们不能造反</p>
+<p><strong><a href="http://weibo.com/2299027190" target="_blank">勿入史记</a>：马屁文章，六七年后不就是陛下临朝十年的嘛</strong></p>
+<p><a href="http://weibo.com/1739529467" target="_blank">青岛某青年</a>：醒醒，醒醒，该起床了，今天上班！<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/miki0815" target="_blank">小橋米米米米米米米米</a><i title="微博达人"></i>：工资翻一倍，物价翻两番？</p>
+<p><a href="http://weibo.com/2084909597" target="_blank">LV婷婷LV</a>： 和王外长＂你知道中国人均GDP达到8000美金了吗？你知道中国是第二大经济体了吗？假如中国没有人权，怎么会取得这么大的成就？＂那种简单粗暴、亳无逻辑的定论实在有的一拼。</p>
+<p><a href="http://weibo.com/1851826915" target="_blank">劉澤成HOT</a><i title="微博达人"></i>：是说2024年rmb贬值到爽嘛？然后我们每月十几万的工资刚刚够吃饭，那衣服都要攒钱…<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">这个数字的确显得比现在高得多！</p>
+<p><a href="http://weibo.com/2727298504" target="_blank">林羽linyu</a><i title="微博个人认证 "></i>：和预计股市4000点有区别吗？</p>
+<p><a href="http://weibo.com/2947785455" target="_blank">燕雁嫣</a>：房子买不起，生病看不起、在外地小孩读书要赞助费读不起，然后你告诉我在过十年就可以过小康！还真是一碗心灵大毒汤啊！痴人说梦</p>
+<p><a href="http://weibo.com/2678478381" target="_blank">番茄酱炒蛋壳</a><i></i>：又来放卫星<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5847536790" target="_blank">Yefair</a>：我感觉人民日报就是故意这样说的，然后被网友骂。。。引起社会关注。。</p>
+<p><a href="http://weibo.com/u/1784877625?refer_flag=1001030106_">chenkov0928</a>：我就知道沈阳xx一瓶酸奶从1.6一直涨到3块 现在偷摸有的都4块了<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p><a title="vv天矢vv" href="http://weibo.com/u/1086184953?refer_flag=1001030103_" target="_blank">vv天矢vv</a>：放心，到时实际实现不了也会用嘴巴或人民日报实现的。呵呵</p>
+<p><a title="溜达的磕巴" href="http://weibo.com/u/2176381002?refer_flag=1001030103_" target="_blank">溜达的磕巴 </a>： 不用高收入，大家有工作收入，能供养父母，承担孩子上学，家里人得了大病不用网上募捐不用因钱而放弃治疗，社会良性循环。比啥花架子高收入社会都重要。</p>
+<p><a href="http://weibo.com/u/5392028002?refer_flag=1001030106_">不知坠</a>：预计到时候有些发评论的人已再也见不到</p>
+<p><strong><a href="http://weibo.com/julian0420?refer_flag=1001030106_">牡羊座的Julian</a>：只要对手不要太强，我们发挥稳定，场地，气候，天气，观众等因素都有利于我们，中国队就可以稳定进入世界杯</strong></p>
+<p><a href="http://weibo.com/u/3716352693?refer_flag=1001030106_">吴昊天是大好人</a>：姚明和潘长江平均身高1米75<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p><a title="今晚吃药吗" href="http://weibo.com/u/2645538250?refer_flag=1001030103_" target="_blank">今晚吃药吗 </a>： “打完仗就回来娶你”<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">一个意思</p>
+<p><a href="http://weibo.com/ichthy?refer_flag=1005055013_" target="_blank">谷大白话</a> ：<i title="微博个人认证 "></i>→_→ //<strong><a href="http://weibo.com/n/%E9%A9%AC%E4%BC%AF%E5%BA%B8?from=feed&loc=at" target="_blank">@马伯庸</a>:“你看，这是我未婚妻的照片，打完最后这一场仗，我就金盆洗手，回老家结婚了。”</strong></p>
+<p><a title="一半海水一半火焰82" href="http://weibo.com/jackyyang1982?refer_flag=1001030103_" target="_blank">一半海水一半火焰82 </a>： 国家留给我的时间已经不多了<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a title="Q小糖的猫" href="http://weibo.com/qmaomaoqi?refer_flag=1001030103_" target="_blank">Q小糖的猫</a>：大晚上的老妈又给我发财经消息，什么2024年我国开始进入<em>高收入阶段</em>……这么官方，你觉得我会信？不知道她闺女水深火热中挣扎呢。先迈过今年这道坎再说吧！</p>
+<p><a title="死一" href="http://weibo.com/u/1626728305?refer_flag=1001030103_" target="_blank">死一 </a>： “不等于住得比原来好，工资比原来高”<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1">作者你开心就好</p>
+<p><strong><a href="http://weibo.com/2002829745" target="_blank">初见终究成再见</a>：这回没五毛了，谈到香港台湾美国，它们就出现了</strong></p>
+<p> </p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912024%E5%B9%B4%EF%BC%8C%E5%9B%BD%E5%AE%B6%E7%95%99%E7%BB%99%E6%88%91%E7%9A%84%E6%97%B6%E9%97%B4%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%A4%9A%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2024%E5%B9%B4%E8%BF%9B%E5%85%A5%E9%AB%98%E6%94%B6%E5%85%A5%E9%98%B6%E6%AE%B5/?category=18271" rel="tag">2024年进入高收入阶段</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%89%E6%98%8E%E8%AE%BA/?category=18271" rel="tag">中国经济光明论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">贫富差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%94%B6%E5%85%A5%E9%98%B6%E6%AE%B5/?category=18271" rel="tag">高收入阶段</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%AF%91%E8%AF%BB-%E5%8C%BB%E7%94%9F%E4%B9%8B%E6%AD%BB%EF%BC%9A%E5%B1%A0%E5%88%80%E4%B8%8B%E7%9A%84%E5%8C%BB%E6%82%A3%E5%85%B3%E7%B3%BB/" target="cdt-mirror">译读 | 医生之死：屠刀下的医患关系</a>
 </h2>
 <p><p>作者/Christopher Beam</p>
@@ -659,7 +736,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">中国外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A2%86%E5%AF%BC%E5%BE%88%E5%BF%99%EF%BC%9A%E3%80%8A%E4%BB%8A%E6%97%A5%E8%8E%B1%E5%B7%9E%E3%80%8Bpk%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/" target="cdt-mirror">【立此存照】领导很忙：《今日莱州》PK《人民日报》</a>
 </h2>
@@ -681,64 +758,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/" target="cdt-mirror">【CDTV】深圳警察：把你和艾滋病、小偷、强盗关在一起好好享受！</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/5437011752/DzyUpvPag" target="_blank">@不敢说话的屁民</a>：这是21号发生在深圳宝安西乡流塘大门口的事情，两名女孩出去逛街­，被警察检查身份证…后被依法强制传唤！在去派出所的路上她偷偷录下这么一段视频…</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F.jpg?resize=300%2C529" alt="深圳警察" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/深圳警察.jpg?w=1119 1119w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/深圳警察.jpg?resize=170%2C300 170w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/深圳警察.jpg?resize=768%2C1353 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/深圳警察.jpg?resize=581%2C1024 581w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"></a><br><strong><a href="http://weibo.com/p/2304446fc3f04f706efc0d7a0dac0926fce394" target="_blank">原视频地址</a></strong></p>
-<p><br>
-YouTube<a href="https://youtu.be/y7ItLIFBDPs" target="_blank">备份链接</a></p>
-<p><strong>警察语录：</strong></p>
-<blockquote><p>“脑子有病。我怀疑我是警察，我是假的，假的你也得先配合！你怎么知道我是假的啊？”</p>
-<p>“你必须配合我，你就记住这一条。今天是你自己犯贱！”</p>
-<p>“不用撑多久，我可以关你24个小时。”</p>
-<p>“没有什么怎么说的。关完了你哪里该滚就滚去哪里！”</p>
-<p>“你们不懂法律，我就教教你们，让你们涨涨见识。把你们跟那些个艾滋病，跟那些小偷，跟那些强盗关到一起去，我让你们慢慢地享受我告诉你！你看着吧！”</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/5414476235" target="_blank">@姓陈呀__</a>：深圳派出所：“法律是我说的，我要关你就关你！”现在还有这样的警察？太可怕了，九几年深圳刚改革的时候就听奶奶说，派出所民警打死了人都往河里扔的，然后等群众报警后直接往去火化算失踪人员<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p>@愿你有梦为马_：虽然小时候老师一直教育我们警察叔叔是好人，有事找警察，不过这样的警察真的是好人吗？出了事真的找警察吗？等警察到了罪犯都犯罪完了。</p>
-<p>@牛-啦：这警察好牛呀，威胁把女孩子与吸毒、艾滋病患者和小偷关在一起！我感觉他滥用职权，好像是穿警服的黑恶势力，长此以往，将导致警民关系越来越恶劣！该规范警察执法了！</p>
-<p>@-Vs-Lee-：被气的？这位警察每一句话都说的咄咄逼人，甚至扬言要把她们关到艾滋病强奸犯同一个地方，还说要他们脱衣服？这位真TM的是人民公仆警察典范啊</p>
-<p>@帅去整容：警察叔叔一听说后面录下来了！不吭声啦！有点害怕了吧！</p>
-<p>@淡定肉：工作时间还带那种手串，搞得跟黑社会似的。上班没个上班样，估计上梁也不正</p>
-<p>@张张张张张张智豪：穿警服可以不拿警官证，那坏人穿警服把你抓走了是不是就死定了，公民要身份证，开车要驾驶证，警官当然要警官证来证明自己</p>
-<p>@小李有个自驾西藏梦：喂 王部长在吗 这届屁民不行啊</p>
-<p>@W武晨：第一反应是报警！一想这他妈在警车上啊，好可怕！还有谁可以保护他们？</p>
-<p>@FatAssEric：看到祖国这么流氓我就放心了</p>
-<p>@快-乐-就-好–：开车的说 把你们同艾滋病强奸犯关在一起……好吓人 法外之地。</p>
-<p>@长沙石头咕：他们应该感谢叔叔的不杀之恩</p>
-<p>@yipo小强先生：没招了。 最后又说这是个协警</p>
-<p>@王YZz_：人权呢，不仅仅是吃饱就行了。王外长脸疼么</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">警察国家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%BD%A0%E8%AF%B4%E4%BB%96%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A%E5%95%8A%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F/" target="cdt-mirror">羽戈：“你说他不行，你行你上啊”错在哪里？</a>
-</h2>
-<p><p>也许我们都曾遭遇这样的情形：批评一个人工作太差劲，如表演不力、教学不力、执政不力，对方反唇相讥：“有本事你来试试！”也许还不待批评对象开口，旁观者便叫道：“你说他不行，你行你上啊！”“you can you up ,no can no bibi！”大有皇帝不急太监急之势。</p>
-<p>就我所见，“你说他不行，你行你上啊”最流行的地方，应是在体育论坛。球迷也许是这世上代入感最强的一个群体，他们为所喜欢的球员与所钟爱的球队辩护，心情之激切，情感之投入，往往无所不用其极。如果有人批评他这一方的球队或球员，除了针锋相对、唇枪舌剑之外，他们还惯用一种反击策略：“你说他不行，你行你上啊！”</p>
-<p>以此为主题，常有诗作诞生，一般这么开头：“球王尽力了，输球不怪他。场场一对五，队友路人甲。”</p>
-<p>这么结尾：“胜败平常事，得失本一家。你说他不行，你行你上啊！”</p>
-<p>此言不知诞生于何时，一直风行至今，无可匹敌。以至常见人求助：怎么破？当辩护者以“你说他不行，你行你上啊”为武器进行反击，批评者往往张口结舌，不知所措。难道无法上阵，就不能批评球员么，只能赞美，抑或无奈沉默？</p>
-<p>其实答案正潜藏于这十个字之间。“你说他不行”，批评是一种“说”，或者说，是一种言论；“你行你上啊”，反击者则转换概念，把论题转移到“上”，即一种行动。这一转换，直接摧毁了批评的边界，不仅是对批评者的苛责，更是对批评本身的颠覆。正常的批评，讲究以观念战胜观念，“你行你上啊”则以反观念的姿态，把批评者拖入无赖的泥沼。</p>
-<p>想必有人会说，批评也是一种行动。然而这里的“行动”，更多指批评的外在一面，与批评所达成的社会效应。就其实质而言，批评只是一种言论，一种话语和观念，与行动泾渭分明，不可混为一谈。借用一个经典的说法，批评是“批判的武器”，行动则属“武器的批判”。再借用一个流行说法，吾国有一流派，曰“口炮党”，但闻其名，便知不是什么好词，不过在我看来，没有哪个词语，比“口炮”更能呈现批评的本相。</p>
-<p>可以把批评理解为一种介入，然而批评者的姿态，恰恰在于旁观，所谓隔岸观火，指手画脚，纵使你对此十分不满、不屑，斥责批评者“吹毛求疵”、“冷眼旁观”、“站着说话不腰疼”，怀有一种“看客的冷漠”，但是谁也没有理由，没有资格，要求批评者必须站在此岸的熊熊火中来立论发言。你可以要求批评者对其批评对象生出一种“了解之同情”，不过了解也好，同情也罢，都只是代入，而非真正的进入。</p>
-<p>有时则连代入都不必。譬如批评政府的决策，我们并无必要代入政府的立场，只须基于公民的本位，遵照公民的意识，直言无讳；甚至并无必要具备“了解之同情”，对公权力的批评，好比一根鞭子，刺多一点，抽得狠一点，未必是坏事。此时，批评者的代入感越强，“为君分忧”的心情越重，批评的效果便可能越弱。</p>
-<p>诚然，批评需要“了解之同情”，需要一定的技术支撑，对一些专业领域，倘若认知不足，造诣不深，批评则将隔靴搔痒，流于表面，贻笑大方。然而你不能因为批评者的浅薄和狭隘，便强求他挑起批评对象的担，干起批评对象的活，甚至剥夺他批评的自由：批评球员技术不精，批评者未必要上球场；批评厨子刀工粗糙，批评者未必要下厨房；批评国家元首能力平庸，批评者未必要执掌一国权柄……批评恰恰是“说”而且是“说他不行”的自由，“上”既不是它的前提，更非目的。说到底，“你说他不行，你行你上啊”涉嫌偷换议题，转移视线，严重违背了说理的逻辑，作为一种批评误区，毋宁是一种理屈词穷的表现，这背后，则隐藏了一副胡搅蛮缠的无赖嘴脸。</p>
-<p>那么，能不能用一句话破解“你说他不行，你行你上啊”的无赖逻辑呢？有人答：</p>
-<p>“我评论电冰箱，难道还得学会制冷吗？”</p>
-<p>2015年3月5日</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%BD%A0%E8%AF%B4%E4%BB%96%E4%B8%8D%E8%A1%8C%EF%BC%8C%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A%E5%95%8A%E9%94%99%E5%9C%A8%E5%93%AA%E9%87%8C%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -750,7 +769,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -760,5 +779,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

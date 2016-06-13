@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,104 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-6-12-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 6-12</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Ckqmix3UUAAXvvv.jpg?resize=550%2C550" alt="Ckqmix3UUAAXvvv" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Ckqmix3UUAAXvvv.jpg?w=750 750w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Ckqmix3UUAAXvvv.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Ckqmix3UUAAXvvv.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Ckqmix3UUAAXvvv.jpg?resize=70%2C70 70w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>@阑夕：我其实很不解，为什么你国警察在盘查公民时对于出示警官证这个要求总是表现出一种遭遇侮辱的态度？要求警察证明自己的身份，难道意味着公民在反抗执法？大学时候，校内有过一起盗窃事件，有警察入校查案进去事发宿舍时，轮班的宿管让警察填一下警号，得到恼怒的回应：「信不信老子把你拷上。」</p>
+<p>@fufuji97：在中国这个奴才和狗腿子遍地的国家，挑战政府违法是需要很大的勇气和成本的，多数情况下都会被成本阻吓住，变成多一事不如少一事，但是一旦出现勇敢者，比如深圳那对姐妹，她们牺牲自我的适应性去挑战，这就是哈耶克说的匿名的英雄，有她们带来的民众利益保证，绝大多数人是默默享受的，必须给予掌声。</p>
+<p>@shangguanluan：我至今记得有警察曾经对我所谓的“程序正义”充满嘲弄，他说：你要程序合法，没问题，我明确告诉你，我可以合法地把大街上任何一个人弄到派出所关48小时。</p>
+<p>@linyujing：HK警察也是可以当街查身份证的，我见过没有被查过。非常礼貌（虽然陀枪），大家客客气气，谈笑风生的就查了。都是打工，底层何苦为难底层。我在东莞时，亲身经历过查暂住证，步行街两边堵起来，一言不合就拉上车去收容了，让你打电话给亲戚朋友拿500块去某劳改场赎人，跟绑票真的挺像的 #s</p>
+<p>@乔志峰：曾经有人认为，只要我不经过足浴店，就不会有危险。现在又有人认为，只要出门带上身份证，就是安全的。你们都想错了，在不受约束的公权面前，没有人能自保，它们有一万种理由、一万种方式弄死你，然后甩甩手上的血说：我在执法。你以为你是谁？</p>
+<p>@shifeike：我其实是个胆小怕事的人，做了十五年媒体能平安落地，已经自觉上天庇佑，这几年以来更是越活胆子越小，轻易不敢招惹各路神仙，但架不住看不明白的事情越来越多。比如，还有一年多就要开会了，哪个领导不是防微杜渐，生怕自己地盘上出事？但某些地方的搞法，分明是火上浇油，就像生怕不出事一样。</p>
+<p>@梁发芾：近来看到不少警察滥权的视频。警察滥权不是今天突然严重，本来从来如此。以前摄影摄像技术落后，传播受限，人们看不到。今天技术发达，人们终于能留证据且让大家看到。所以，滥权者视拍摄权为洪水猛兽，必欲以“恶意拍摄非法”而禁止之。围绕拍摄权，拍摄内容的传输权传播权，将有你死我活的较量。</p>
+<p>@lijiansion：墨西哥高铁黄了、委内瑞拉高铁黄了、印尼高铁黄了、土耳其高铁黄了一半、泰国高铁也快黄了、俄罗斯高铁成不成看中国给多少钱、现在美国高铁也黄了，大大心里苦啊，一带一路真是“青山遮不住，毕竟东流去”啊。</p>
+<p>@zhifangnvren：民众之所以懦弱，是因为反抗的成本太高。官员之所以贪污，是因为犯罪的代价太低。</p>
+<p>@胖子天右：一个离不开万岁的民族必然会遭到万税的报应。</p>
+<p>@blogtd：共產黨裡也有好人，但我只會說他們是好人，而不會說他們是好的共產黨。同理，一個人站在共產黨的對立面，但其言行為人詬病，我也只會說這個人有問題，而不會給他貼一個“民逗”的標籤，喜歡這樣做的人，跟那些推崇體制內健康力量的人不過是一個硬幣的正反面。</p>
+<p>@hnjhj：如果不知道e租宝是国家发证、央视宣传、公安部发证书，从而上当受骗，我觉得这是值得同情的。都知道了这些，竟然你还敢加入，不骗你骗谁？</p>
+<p>@作业本：明天你是否会想起、突然失踪的禽流H7、明天你是否还惦记、曾经在厦门爆炸的BRT、媒体们都已经想不起、被吉林大火烧死的你、我也是偶然翻相片、才想起带小学生开房的你、谁删了我们骂过的李天一、谁封锁了那些关于PX的消息、谁让你踢了5：1、谁让微博里没有维尼、啦啦啦啦啦啦啦、啦、啦。</p>
+<p>@西单红史1：毛时代的农民叫社员：不准入城，不准迁徙，出外要证明，入城要被赶走，世世代代是农民户籍。劳动成果全部上交。没任何福利，基本没有现金收入，定量吃粮，大跃进时房屋、工具没收，本人编号、强迫劳动，夜晚也休息不好。董辅礽说：“人民公社制度从经济学意义上说是现代农奴制。”</p>
+<p>@老刘在德克萨斯：有些人喜欢强调自己是“中国人”，但只说对了一半：出在中国不假，但没有正常人的理性和常识，只长了副人样，言行理念与文明人不在一垅，只能说是一种“中国生物”。“中国人”像外国人一样，要有理性和常识，要认同文明世界的规则，要对文明和野蛮有基本的分辨力。对“中国生物”可以免除这些要求。</p>
+<p>@EnigmaHuang：刚才进小区大门的时候，几个小朋友拿着那些BB弹枪在那里『站岗』，有一个在我进来的时候拿着枪对着我的脸。我跟他说小朋友你不要用枪指着别人的脸，万一你走火了子弹打到别人眼睛就麻烦了。那位小弟弟笑嘻嘻说，你怕你可以自己躲开啊。这小子以后一定是党国的栋梁。</p>
+<p>@xie107：魔兽首映当天简直疯了，尤其听到一哥们跟自己媳妇的电话：我给你说，我要看电影，我不回来，老子等了十年了，绝对不得回来，我他吗最近在家孩子也带了，家务也做了，就是为了这场电影，随便你咋个。老子就要看。</p>
+<p>@zippo215：每次看到現今的房價、薪資、物價、教育、社會、體制、文化、觀念……都會讓我覺得生小孩什麼的，其實是在殘害下一代吧……</p>
+<p>@mathwuyue：我能不能问一个问题，为什么那么多女生不好好发自拍，一定要发一句特别low又和自拍完全不符的鸡汤搭配自拍？你好好发自拍，大家觉得至少你选了角度磨了皮之后还挺美的，但是你补了那么一条鸡汤文，我就觉得你不仅不学无术胸小无脑还挺像个绿茶的，中国有句古话叫画蛇添足这些女生都没听说过么？</p>
+<p>@Brecht：昨天在電視上聽到一段鄧惠文談親子教養很有意思，當父母在管教小孩時情緒失控，其實是放棄當一個大人去教育小孩，而是讓自己心中的小孩跑出來跟眼前的小孩吵架鬥氣。</p>
+<p>@tualatrix：路过一家打印店，门面禁闭并贴着张字条「打印 G20 保密材料，本店今天不对外营业」。好霸气！</p>
+<p>@Scswga：吃自助烧烤时没油了，于是几人一起大喊：“老板，加油！？”正在厨房忙活的老板探出头来，回道：“谢谢你们，我会努力哒！”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-6-12-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 27分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA%E7%88%86%E7%82%B8%EF%BC%9A%E7%94%B7%E5%AD%90%E5%BC%95%E7%88%86%E7%82%B8%E8%8D%AF%E5%90%8E%E5%89%B2/" target="cdt-mirror">纽约时报 | 上海浦东机场爆炸：男子引爆炸药后割颈</a>
+</h2>
+<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/13china-articleLarge.jpg?resize=600%2C400" alt="爆炸发生后，武警在上海浦东国际机场守卫。官方表示，这起事件由一名携带自制爆炸装置的男子引发。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/13china-articleLarge.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/13china-articleLarge.jpg?resize=300%2C200 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>爆炸发生后，武警在上海浦东国际机场守卫。官方表示，这起事件由一名携带自制爆炸装置的男子引发。</p></div>
+<p> </p>
+<p>上海——警方和机场官方发布的消息显示，上海浦东国际机场办理登机手续的区域周日发生爆炸，导致至少四人受伤。这场爆炸由一名携带自制炸药装置的男子引发。</p>
+<p>浦东机场是中国最繁忙的机场之一。一些乘客描述了午后不久令人恐惧的时刻。当地新闻机构的报道和相关影像片段显示，当时有刺耳的爆炸声在T2航站楼的出发区域回响，缕缕<a href="http://china.huanqiu.com/article/2016-06/9029915.html?from=bdwz" target="_blank" rel="nofollow">白烟升腾至天花板</a>。</p>
+<p>警方很快封锁了爆炸附近区域，但机场仍然开放，显示出官方确定这个插曲不是一场更大袭击的前奏。</p>
+<p>警方在书面通报中表示，一名男子从随身携带的背包里取出自制爆炸装置，丢在了值机柜台前。文中称，爆炸物装在啤酒瓶里。</p>
+<p>爆炸发生后，“该男子从背包中取出匕首，划割自己颈部后倒地，”警方称。此人活了下来，但据说伤情危重。</p>
+<p>此外，警方表示，附近一家医院收治了爆炸中被玻璃碎片轻微划伤的四名伤者。其中有一名是菲律宾公民。</p>
+<p>到了周日傍晚，机场一片平静。在接下来预定落地的18趟班机中，有12趟列为晚点，有的长达四个小时。巨大的T2航站楼候机厅有三分之二的区域仍在运转，不过发生爆炸的C岛区域被围了起来，有身着制服、肩上斜挎着黑色突击步枪的安保人员守卫，很难看到有什么损坏。</p>
+<p>中国共产党领导层以能够维持绝对控制为豪，哪怕是对这种控制的微小干扰也会引发激烈的反应。今年9月，离上海不远的杭州将举办20国集团峰会。</p>
+<p>这些报道都没有显示有关嫌疑人的任何细节信息，也没有提到他的动机。</p>
+<p>这不是第一起中国机场出现安全疏漏的事件。2013年，一名男子曾在首都国际机场<a href="http://news.xinhuanet.com/english/china/2013-07/20/c_132558735.htm" target="_blank" rel="nofollow">引爆一个自制爆炸装置</a>，目的是表示抗议。此人表示自己于2005年在一座华南城市被治安队员打伤，导致残疾，需要坐轮椅，但却一直未能获得任何赔偿。此人名为冀中星<a href="http://www.scmp.com/news/china-insider/article/1332042/wheelchair-bound-beijing-airport-bomber-ji-zhongxing-jailed-six" target="_blank" rel="nofollow">后来被判处了六年徒刑</a>。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA%E7%88%86%E7%82%B8%EF%BC%9A%E7%94%B7%E5%AD%90%E5%BC%95%E7%88%86%E7%82%B8%E8%8D%AF%E5%90%8E%E5%89%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%80%E4%B8%AD%E6%98%9F/?category=18271" rel="tag">冀中星</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%86%E7%82%B8%E6%A1%88/?category=18271" rel="tag">爆炸案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">绝对控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%88%B6%E7%82%B8%E8%8D%AF/?category=18271" rel="tag">自制炸药</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%8F%90%E4%B8%89%E4%B8%AA%E4%B8%8D%E5%87%BA%E7%8E%B0%EF%BC%8C/" target="cdt-mirror">美国之音｜何清涟：人民日报“三个不出现”，实现难度多大</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/66306386-D5BA-4293-9FF5-233111BABA3C_w640_r1_s.jpg?resize=549%2C309" alt="66306386-D5BA-4293-9FF5-233111BABA3C_w640_r1_s" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/66306386-D5BA-4293-9FF5-233111BABA3C_w640_r1_s.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/66306386-D5BA-4293-9FF5-233111BABA3C_w640_r1_s.jpg?resize=300%2C169 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"><br>
+中国主席习近平在北京的美中战略与经济对话的开幕式上讲话（2016年6月6日）习近平会终身执政吗？</p>
+<p>6月12日，《人民日报》发表郑秉文的《从国际经验看如何长期保持增长动力》，比较乐观地展望了中国即将进入高收入社会的美好前景。但文中那段“三个不出现”的假设前提条件，却让这幅“最新最美的图画”蒙上了一层厚厚的雾霾。</p>
+<p><strong>“三个不出现”中，变数最大是哪个？</strong></p>
+<p>作者在对比中外经济发展道路之后，引领读者展望中国即将“跨过高收入门槛后向中等发达国家迈进”的美景之前，提出了这三个“只要不出现”。原文录之如下：“经过几十年的持续快速发展，我们对未来充满信心：只要政治上不出现颠覆性错误，经济上不出现毁灭性打击，制度上不出现断层式波动，再过六七年，我国成功跨越‘中等收入陷阱’将无悬念。届时，第一个百年奋斗目标已经实现，全面小康社会已经建成。”</p>
+<p>一想到“三个不出现”这一前提条件面临怎样的不确定性，我顿时就觉得本届中南海主人及一干上书房大臣的执政任务实在繁难。因为这“三个不出现”，有的可以通过当局力拼勉强达成，有的则不管怎么努力也无法达成。</p>
+<p>所谓“政治上不出现颠覆性错误”，这话是从今上前年的指示演化而来。2013年10月，习近平以中国国家主席身份参加亚太经合组织工商领导人峰会，会上谈到中国改革时说：“中国是一个大国，决不能在根本性问题上出现颠覆性错误，一旦出现就无法挽回、无法弥补。”</p>
+<p>如同以往一样，他的话立刻被中外媒体做了全方位解读。大致说来，地域不分中外，政治不论左右，对这段话形成的共识是，习谈的“根本性问题”是指必须坚持走以中共为领导的社会主义道路，“颠覆性错误”即指放弃这一既定方针，走民主化道路。从近期来说，就是中国的大局以“维稳”为第一要务，任何妨碍中国稳定的组织，任何可能让稳定局面瓦解的思想、言论和行动，不论来自哪方面，都是“颠覆性”错误。</p>
+<p>郑文中这句“政治上不出现颠覆性错误”，就是重复习三年前的话语，即只要中国不走民主化道路，无论是以颜色革命出现的第三波民主化道路，还是以阿拉伯之春形式出现的民主化，中国都统统拒绝，今后奔向高收入社会的奋斗目标就有了基本保证。</p>
+<p>只要中共牢牢抓住枪杆子，这一条不难做到。而且，这是党内高层与红色权贵的共识。此刻，红二代的重要成员孔丹说的一句名言正在国内微信上热传：“今后主要对付国内外敌对势力，方法就是‘咔嚓’”，传播者还配上了一张斩头的画面以加强效果。</p>
+<p>经济上不出现毁灭性打击，这话比较好理解，如今中国经济各领域都缺少利好消息，最后的防线已经只剩下金融系统这个“超级大工事”。金融系统是一国经济的神经中枢，无论如何不能出问题，否则全玩完。这条防波堤不能失守，是中共领导层的共识。为保障防波堤能够抗洪，习近平、李克强都很“拼”，主管官员也丝毫不敢懈怠，随时变招，松了又紧，紧了又松，以应付不虞之灾。</p>
+<p>但总的来说，经济上，中国正在翻山越岭，这长途跋涉很不容易，叫做“过了一山又一山，一山更比一山难。”国际货币基金组织最近发布报告，称中国金融未爆弹达1.3万亿美元。外界也都知道，周小川这个央行行长当得实在不容易，关于他“出事了”的传闻成为网络谣言的常演戏码，此刻， “最近一周来，周小川缺席的两场重要会议，可能出事”正成为网络重要新闻。这两次会议指的是6月6日临时缺席中美战略论坛新闻吹风会，6月12日召开的上海陆家嘴论坛。由人们密切关注周行长动向，可见金融防波堤的险情是何等让人牵挂。</p>
+<div>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/B2E94587-903B-47E5-995F-564557D75E55_w640_s.jpg?resize=549%2C360" alt="B2E94587-903B-47E5-995F-564557D75E55_w640_s" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/B2E94587-903B-47E5-995F-564557D75E55_w640_s.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/B2E94587-903B-47E5-995F-564557D75E55_w640_s.jpg?resize=300%2C197 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/B2E94587-903B-47E5-995F-564557D75E55_w640_s.jpg?resize=230%2C150 230w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></div>
+<p><span>中国财政部长楼继伟 （左）与中国人民银行行长周小川星期五在上海召开的20国集团财政部长和中央银行行长会议上 （2016年2月26日）</span></p>
+</div>
+<p><strong>“制度上不出现断层式波动”何所指？</strong></p>
+<p>这条一般人猛看不太明白，得多费些文字。所谓“制度断层”中的“制度”，不是指社会主义制度这一根本方向，而是指中共最高领导人掌权的方式，以及保证其有效行使权力的各种制度。</p>
+<p>习近平执政三年多，在权力结构与权力行使方式上早就重定章程，改写了政治规矩，用一人专断（个人独裁）代替了九龙治水式的集体领导（寡头独裁），军政系统马不停蹄地大换血。目前，中共18大后31个省区市党委班子调整至少涉及223人，超过各省常委总人数的一半。军改已经完成权力结构的布局，剩下的是指挥系统的逐步更新与到位。</p>
+<p>作者强调只要不出现“制度断层式波动”，意指习重新厘定的政治规矩不再改变，不再像十八大权力交接之后因“制度”断层而引起军界、政界人事大变动，恐慌情绪蔓延，人心不稳。要想不出现制度断层，只能有一个选择，就是No.1不换人。</p>
+<p>专制极权政治从古至今，都是人治。人治最大的特点是统治者换人之后将会出现“一朝天子一朝臣”的现象，即“制度的断层式波动”。前苏联经验如此，中国经验同样如此。江、胡两朝的平稳过渡，是因为胡锦涛处于弱势，江泽民对中国政治保留了很强的干预及操控能力。习近平如果还按江胡时期的规矩，干完两届就退休，并保持不出现“制度断层式波动”，那就只能找一个傀儡来接班，他本人保持垂帘听政的太上皇地位。但估计习从自身经验出发，绝对不会冒这奇险。最保险的方式就是效法普京，终身执政。</p>
+<div>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2B955783-4CE7-4A67-BCE5-BD8782DDA297_w640_s.jpg?resize=549%2C359" alt="2B955783-4CE7-4A67-BCE5-BD8782DDA297_w640_s" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2B955783-4CE7-4A67-BCE5-BD8782DDA297_w640_s.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2B955783-4CE7-4A67-BCE5-BD8782DDA297_w640_s.jpg?resize=300%2C196 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2B955783-4CE7-4A67-BCE5-BD8782DDA297_w640_s.jpg?resize=230%2C150 230w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></div>
+<p><span>中共总书记习近平在天安门上，一侧是中国总理李克强和俄罗斯总统普京，另一侧是江泽民（2015年9月3日）</span></p>
+</div>
+<p>俄罗斯有民主形式，普京通过“民选”，经历了总统——总理——再登总统宝座的途径，正在向终身执政迈进。习近平对普京佩服有加，效法普京不是没有可能。郑文提到“三个不出现”，最后这个“不出现制度断层式波动”，算是号准了龙脉。如果今上真有这种打算，明年十九大的人事布局应该初现端倪。考虑到作者身份是中国社会科学院中国特色社会主义理论体系研究中心研究员、美国研究所所长，此文又发表在《人民日报》上，其规格虽然逊于评论员文章，但也算得上是官方声音了，可视为一种巧妙的投石问路。</p>
+<p>根据半个地球，即欧洲、亚洲、南美洲所有社会主义国家迈向共产主义的经验，实现一种理想，最容易的是预设目标，最难的是创造实现前提。郑文提出的目标是中国2024年左右进入高收入阶段，但关键不在于设定目标，而在于如何创造实现目标的前提条件。“三个不出现”的前提条件，目前算是实现了一个半：“政治上不出现颠覆性错误”算是做到了，“制度上不出现断层式波动”，算是做到了一半，即正在夯实习近平的权力基础，掌握了争取权力永固的主动权，达成另一半的目标或许可期。</p>
+<p>但“经济上不出现毁灭性打击”实在太困难了，因为市场力量受到无数只“看不见的手”在拽动拉扯，不知哪只手的力量最后成为决定性因素。比如“一带一路”这个宏伟计划，其核心部分即海外建高铁的合作就屡兴屡废，很不顺利。因此，要想实现“三个不出现”，只能期望中共这只权力之手能够变成如来佛那只无所不能的超级神掌，创造奇迹，斗过市场那只无影无形却无处不在的“看不见的手”。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%8F%90%E4%B8%89%E4%B8%AA%E4%B8%8D%E5%87%BA%E7%8E%B0%EF%BC%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E6%B8%85%E6%B6%9F/?category=18271" rel="tag">何清涟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%91%E7%A7%89%E6%96%87/?category=18271" rel="tag">郑秉文</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E4%BD%86%E6%84%BF%E5%A5%A5%E5%85%B0%E5%A4%9A%E6%9E%AA%E5%87%BB%E6%A1%88%E4%B8%8D%E4%BC%9A%E6%89%93%E5%93%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BA%92%E6%92%95%E7%9A%84/" target="cdt-mirror">导弹熊 | 但愿奥兰多枪击案不会打响中国人互撕的发令枪</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.24.51.png?resize=500%2C343" alt="Screen Shot 2016-06-12 at 上午11.24.51" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.24.51.png?w=500 500w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.24.51.png?resize=300%2C206 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
@@ -334,7 +429,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84/?category=18271" rel="tag">投资</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">投资环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E5%B0%91%E6%B1%9F/?category=18271" rel="tag">胡少江</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%BD%A9%E6%88%B4%E5%85%9A%E5%BE%BD%E8%BF%90%E5%8A%A8%E9%92%A9%E8%B5%B7%E6%AF%9B%E5%83%8F%E7%AB%A0%E7%9A%84%E8%AE%B0%E5%BF%86%EF%BC%9F/" target="cdt-mirror">德国之声｜“佩戴党徽运动”钩起毛像章的记忆？</a>
 </h2>
@@ -362,7 +457,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E6%9A%97%E5%9C%B0%E9%87%8C%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%A4%96%E5%AE%A3%E6%94%BB%E5%8A%BF/" target="cdt-mirror">博谈网｜北京暗地里百亿美元的外宣攻势</a>
 </h2>
@@ -614,150 +709,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%9C%E7%BD%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/x%E5%8D%9A%E5%A3%AB-%E6%AE%8B%E9%85%B7%E5%BA%95%E5%B1%82%E7%89%A9%E8%AF%AD%EF%BC%9A%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/" target="cdt-mirror">X博士 | 残酷底层物语：一个视频软件的中国农村</a>
-</h2>
-<p><p><strong>编辑注：该文发布后，截止北京时间6月10日15时，该文的微信公号已被销号，而腾讯网官方转载此文的<a href="http://ent.qq.com/a/20160608/060280.htm">页面</a>也显示“404 文章找不回来了”，原文被消失原因未知，文章仅代表一种声音。</strong></p>
-<p>1927年3月5日，毛泽东同志发表了关于中国农村局势分析的宏文——《湖南农民运动考察报告》。如果毛主席生活在今日的话，他不必花几个月的时间去走访农村，只需扒拉扒拉快手这个app，就能了解中国乡村的精神面貌了。</p>
-<p>也许朋友你从来没有听说过快手这个软件，但事实上我要告诉你一个吃惊的数据，这个app是中国流量第四大的手机应用，仅次于新浪微博，日活量一千多万。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358891.jpg?resize=638%2C113" alt="2016年3月的app流量数据" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358891.jpg?w=638 638w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358891.jpg?resize=300%2C53 300w" sizes="(max-width: 638px) 100vw, 638px" data-recalc-dims="1"><p>2016年3月的app流量数据</p></div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358892.jpg?resize=546%2C410" alt="据2015年统计，快手是中国第一大短视频应用" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358892.jpg?w=546 546w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358892.jpg?resize=300%2C225 300w" sizes="(max-width: 546px) 100vw, 546px" data-recalc-dims="1"><p>据2015年统计，快手是中国第一大短视频应用</p></div>
-<p>当你打开这个神秘的软件，肯定会纳闷这个低俗、简陋、粗糙的app为什么是中国第一视频app？因为其用户人群是海量的乡村人口。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358893.jpg?resize=470%2C837" alt="快手基本页面一览" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358893.jpg?w=470 470w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358893.jpg?resize=168%2C300 168w" sizes="(max-width: 470px) 100vw, 470px" data-recalc-dims="1"><p>快手基本页面一览</p></div>
-<p>而且，当打开快手时，你能看到一个个自虐视频、低俗黄段子、和各种行为怪异的人。即使你没有毛主席的洞见能力，凭直觉就能感到其中充满了残酷而荒诞的场景，令人不适，隐约看到了我们这个光鲜时代的暗面。</p>
-<p><strong>自虐残酷物语</strong></p>
-<p>其实在前几天，快手这个app就火了。一个河北大妈自虐吃异物（包括灯泡、蠕虫、玻璃）的视频浮上网络，观众被其中的疯癫和残酷吓了那么一跳，讨论了一天后，然后遗忘。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358897.jpg?resize=557%2C367" alt="快手上的大妈自虐视频" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358897.jpg?w=557 557w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358897.jpg?resize=300%2C198 300w" sizes="(max-width: 557px) 100vw, 557px" data-recalc-dims="1"><p>快手上的大妈自虐视频</p></div>
-<p>大家只会把这个当作一个猎奇的花边新闻，却不会深究其背后的深入背景。事实上，这种视频在快手里屡见不鲜，这不是个例，而是一个群体，一个庞大的在快手上自虐的群体。</p>
-<p>在快手上，最容易火的一招就是自虐。所以上面充斥着自虐的视频:自虐式喝酒、自虐式吃东西、炸裤裆、跳冰河。如果不加解释，你一定以为这是一个地下电影（snuff film）或是b级片的片段。</p>
-<p>自虐炸裆：这个叫做二哥的河北滦县农民是快手上的一个红人，坐拥50多万粉丝，他能在快手红的特技就是每隔个几天放个鞭炮炸裤裆或者跳冰河的视频。而且在他红了之后，快手有一大批效仿其特技的接班人，而且在他的基础上进行升级——如活埋＋炸裤裆。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/huihui.gif?resize=323%2C392" alt="自我炸裆的二哥" data-recalc-dims="1"><p>自我炸裆的二哥</p></div>
-<p>自虐喝酒：这也是快手上的一大门类，有不少红人是靠一口气猛灌白酒火的，我给你看一个我认为其中最猛的——山东小闯，他几乎每天发一个这样的视频，每看他的眼神，我感觉只有四个字：不要命了。</p>
-<p><strong>山东小闯</strong></p>
-<p>自虐吃东西：狂嚼大猪头、一口气吃光半米长猪大肠、生吃一管芥末都是快手中自虐吃货的基本标配。更狠的人表演生吃死猪、生吃蛇、生吃蛆、生吃x，其中有个ID叫小胜的十几岁小孩吃的最狠，靠此吸了近百万粉丝。过于恶心，我就不上视频了，你们看看图。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358901.jpg?resize=500%2C666" alt="135358901" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358901.jpg?w=500 500w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358901.jpg?resize=225%2C300 225w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><p>活吃蛇</p></div>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358902.jpg?resize=362%2C487" alt="生吃病死猪" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358902.jpg?w=362 362w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358902.jpg?resize=223%2C300 223w" sizes="(max-width: 362px) 100vw, 362px" data-recalc-dims="1"><p>生吃病死猪</p></div>
-<p>各种自虐太多，我就不一一扒拉了。</p>
-<p>看完这些视频，你一定觉得这群人就是疯了。但是我相信世界上任何事都是有原因的，我们不能只猎奇，还得想想他们为什么这样。我分析，两个原因。</p>
-<p>一是心里满足：任何人活着，都想获得他人的认可和关注。但是可以想象，自虐视频中的那些主角们，他们都是没有钱、没有文化、没有地位、甚至没有长相的人，他们从小到大基本不可能获得别人的关注和欣赏。假如他们想获得关注和认可，靠什么呢？他们唯一能出卖的就是身体，通过残酷的自虐来获取关注。这个例子在天天吃异物的小胜身上尤其明显，他从小就是个残疾，缺一只手，一直自卑，怕了那种没人搭理、没人瞧得起的感觉。他变本加厉的吃各种恶心的东西，因为他根本不在乎自己的身体，只怕没人关注，像一只猪狗一般，苟活在乡村的一角。</p>
-<p>二是物质原因：从实际角度上，关注度多了，他们就能接一些广告，一些劣质山寨产品的广告。像什么“跟真的差不多的金链子”、“最新组装苹果手机”的广告，一个广告他们能挣个300到几千。他们花尽心思把这些假货推销给他们的粉丝，这钱挣的，荒谬而残酷。</p>
-<p><strong>更残酷的不是自虐，而是快手中儿童的精神世界</strong></p>
-<p>看完上文的自虐篇，你以为快手中最残酷的就是生吃玻璃、蛆、屎吗。错，里面更让人难受的是农村儿童的精神面貌。</p>
-<p>在这里你能看见各种前所未闻的儿童样本：</p>
-<p>这是一个只有八九岁的肥胖小孩，他的特技是模仿社会人抽烟、喝酒、泡妞。而且这些视频都是他妈拍的。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358903.jpg?resize=392%2C537" alt="抽烟喝酒的快手红人——东北小胖 " srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358903.jpg?w=392 392w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358903.jpg?resize=219%2C300 219w" sizes="(max-width: 392px) 100vw, 392px" data-recalc-dims="1"><p>抽烟喝酒的快手红人——东北小胖</p></div>
-<p>你还能看见一个十二三岁的少年鼓王，他已经辍学，跟着戏班子在广袤的乡村丧事大舞台迸发能量，自由张狂。</p>
-<p>你还能看见一个个不到十岁的小孩和父母一起演出黄段子小品。</p>
-<p>在快手上你还能看到海量公开秀恩爱的小孩子，他们打啵、秀恩爱、秀怀孕，其中的最小的孕妇十五岁。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358905.jpg?resize=446%2C301" alt="十五岁的准妈咪" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358905.jpg?w=446 446w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358905.jpg?resize=300%2C202 300w" sizes="(max-width: 446px) 100vw, 446px" data-recalc-dims="1"><p>十五岁的准妈咪</p></div>
-<p>这样的儿童我不能穷尽。相信每一个看过的人，都会对这里面小孩子的不正常早熟和粗鄙感到不适。这些小孩子怎么是这个样子的呢？这些孩子的父母都干嘛去了？这其实是农村教育衰落的外在体现。</p>
-<p>关于中国农村教育情况，我再给你一个不乐观的数据了解其现状。2016年，中国农业政策研究中心基于四个省24931名农村中学生的数据，得出结论：农村地区整个中学阶段（初中、高中和中等职业学校）的累计辍学率高达63%。</p>
-<p>比这个数据更严重的是，现在很多乡村少年辍学并不是因为穷的上不起学，而是他们的家长和自己都打心眼里觉得读书没什么卵子用！读书一是难，二也是没见读书的多挣几个钱。而早早出去打工，或者做个牛逼哄哄的社会人岂不乐哉？所以他们农村少年大量早早脱离学校，成了快手中那些自由轻狂的红人。</p>
-<p>再者，教育分为三部分，学校教育，社会教育，家庭教育。在农村根本就没有城市儿童成长的家庭和社会环境。农村儿童父母本身的素质和见识就不高，有的甚至就一直在外面打工，根本管不了孩子。所以缺乏文化生活滋养、缺乏监护的乡村儿童，自然天天接触的就是那些原始、粗鄙、野蛮的东西。</p>
-<p>儿童最擅长模仿的，他们会模仿心中的榜样。他们表现的早熟，说明他们急迫的需要长大，融入他们所理解的成人社会——那个丛林主义、胜者为王的社会。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358906.jpg?resize=362%2C493" alt="快手上15、6岁就纹满全身的孩子，他感觉自己已经是个社会人了" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358906.jpg?w=362 362w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358906.jpg?resize=220%2C300 220w" sizes="(max-width: 362px) 100vw, 362px" data-recalc-dims="1"><p>快手上15、6岁就纹满全身的孩子，他感觉自己已经是个社会人了</p></div>
-<p><strong>社会就是丛林主义、胜者为王</strong></p>
-<p>想要考察农村的精神状态，就得了解乡村最流行的文娱活动。不少没去过农村的小清新一厢情愿的将农村的文化活动想成淳朴田园诗的景象——唱着山歌或扭扭秧歌？错了，当代农村最热最火的文娱活动是喊麦。</p>
-<p>我无法用简单的言语描述喊麦这种艺术形式，如果把他说成农村说唱，估计很多北京的rapper会不高兴。不管如何，喊麦这种形式火遍中国农村，其中最出名的喊麦王者就是mc天佑。他之所以火，不是长得帅，唱功好，而是他的歌词的确直击众多乡村少年们的心声，说透了在社会上混的奥秘与真谛，引起了广泛的共鸣。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358908.jpg?resize=553%2C391" alt="mc天佑" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358908.jpg?w=553 553w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358908.jpg?resize=300%2C212 300w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><p>mc天佑</p></div>
-<p><strong>mc天佑的哲理金句赏析：</strong></p>
-<p>“现实社会中有一种物资叫金钱，有一种人类叫做女人。在这个社会上很多事情被金钱打翻，在这个社会上金钱打翻了一切。女人,你们天生的美丽为你们换来了一辈子的财富。——《《女人们你们听好了》</p>
-<p>什么叫社会 ，烟都抽不起了 ，酒都喝不上了 ，跟几个朋友去趟迪吧 ，你就觉得你是混社会了吗 ？跟这个哥那个弟的出一趟门 ，你就觉得给人办事了吗 ，看人家抽麻古麻溜点冰 ，你就知道你是吸毒的吗 ，穿的破衣娄嗖 ，袋里揣把小刀你就觉得你是杀手了吗 ？——《送给在社会上混的朋友》</p>
-<p>再给你们听俩首天佑的代表作：</p>
-<p>十年戎马心孤单</p>
-<p>MC天佑 – 空</p>
-<p>曾经的王</p>
-<p>MC天佑 – MC天佑单曲集</p>
-<p>听完天佑的歌，我发现一个很奇怪的现象，就是这些生活眼界并不宽广的mc，歌词里却充满了什么称王、称霸、成仙、成龙、江山、成大事、做英雄的信息；他们的歌中布满了曾经的王者和受伤的英雄。这些王者的原型指的都是啥样的人呢？后来我明白了，在他们的世界里面，那些王者就是在社会上有面子、有钱的社会狠人。具体来说，第一帅的就是刘华强，第二帅的就是陈浩南。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358911.jpg?resize=561%2C329" alt="刘华强" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358911.jpg?w=561 561w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358911.jpg?resize=300%2C176 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358911.jpg?resize=80%2C48 80w" sizes="(max-width: 561px) 100vw, 561px" data-recalc-dims="1"><p>刘华强</p></div>
-<p>除了快手上最流行的社会喊麦，还流传着一种家国情怀的喊麦，比如这首mc的《杀光日本人》。其中有一句最震撼人心：就算中国遍地坟，也要杀光xx人。</p>
-<p>钓鱼岛是中国的</p>
-<p>MC九魂 – Mc</p>
-<p>总的来看，喊麦里面充满了一种和文明、现代化完全格格不入的野蛮情绪——拥有了钱和暴力就是拥有了一切，世界真理就是你压倒我或者压倒你。再往深处我们可能会发现更令人惊讶和悲观的观点，天平天国、义和团不就是在这种充满前现代思维、暴力萌芽的土壤中产生的吗？</p>
-<p>正如美国学者罗威廉在《红雨:一个中国县域七个世纪的暴力史》一书中所说：中国的乡村一直酝酿一种暴力的种子。说来说去，中国基层社会从古至今的精神世界摆脱不了这八个字：暴力崇拜、胜者为王。不一样的人，一样的味道。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358912.jpg?resize=498%2C381" alt="135358912" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358912.jpg?w=498 498w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358912.jpg?resize=300%2C230 300w" sizes="(max-width: 498px) 100vw, 498px" data-recalc-dims="1"></p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358913.jpg?resize=559%2C416" alt="135358913" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358913.jpg?w=559 559w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358913.jpg?resize=300%2C223 300w" sizes="(max-width: 559px) 100vw, 559px" data-recalc-dims="1"><p>义和团和快手第一当红组织天安社的对比</p></div>
-<p><strong>被遗忘的乡村</strong></p>
-<p>根据2010第六次人口普查，农村人口有6.74亿，几乎占中国一半的人口。但看了这么多快手中的人和事，你能说农村中的审美和价值取向是中国的主流吗？你在当代的主流媒体中见过很多关于农村的报道和描述吗？</p>
-<p>其实仔细想想，主流世界都把视角聚焦在跑的飞快的一线城市，而把农村和来自农村的人忘在脑后。比如你能想象你家楼下理发店的kavine老师平常在想什么吗？你能想象灯火辉煌的都市中，那些建筑工地的工人在想什么吗？你能想象农村的留守老人和留守儿童的生活是什么样的吗？</p>
-<p>换句话说，6.74亿农村人口的生活状态，没人关注。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358914.jpg?resize=363%2C494" alt=" 这是快手的健身红人：健身小凯，虽然在快手坐拥五六十万粉丝，但他真实的身份是个16岁的厨子。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358914.jpg?w=363 363w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358914.jpg?resize=220%2C300 220w" sizes="(max-width: 363px) 100vw, 363px" data-recalc-dims="1"><p><br>这是快手的健身红人：健身小凯，虽然在快手坐拥五六十万粉丝，但他真实的身份是个16岁的厨子。</p></div>
-<p>看了越多的快手视频，我越发现，快手中的世界和北上广深完全是两个没有共鸣、没有交集的世界。就像是同一张纸上的两个圆圈，虽然在同一个空间，但几乎没有交集，两个圆圈之间也难以流动和沟通。所有的资源、权力都在属于那个北上广深一线城市的圆圈里，而在农村那个圆圈里，虽然人数众多，但资源和机会却少得可怜，两者之间横着看不见的结界。</p>
-<p>正如一个一线城市白领绝对不会喜欢快手中最火的段子，相反在城市刷爆的话题却在快手上一点声音都没，比如快手上关于“欢乐颂”的标签几乎为零。快手中的世界与北上广完全是两个陌生而隔绝的世界，你很难想象一个一线城市的白领和一个快手乡村红人能交流什么，他们的最大相似点似乎只在于都能说中国话。</p>
-<p>但那些农村中的优秀的孩子们，无时无刻不想突破社会结界，到达资源丰饶的那个世界。而且他们觉得自己憋着一股劲头，在力量和意志力并不比沿海大城市的中产差！他们在快手上的拼命表现，求关注，本质上就是想靠此穿越结界。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358915.jpg?resize=573%2C426" alt="135358915" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358915.jpg?w=573 573w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/135358915.jpg?resize=300%2C223 300w" sizes="(max-width: 573px) 100vw, 573px" data-recalc-dims="1"></p>
-<p>庞麦郎就是想要穿越结界的例子。其实在快手上，庞麦郎这样的人并不特殊，也不少见，甚至还会混的很快活。但是在主流世界中，他得到的只能有《惊惶庞麦郎》这种文章的彻骨羞辱。</p>
-<p>比如在知乎上有一些健身大神，以能做“人体旗帜”为荣，并因此被人崇拜。但在快手上，有海量的乡村博主能做更高难度的“人体旗帜”——能在十米高的树上、或在高空建筑工地上做这个动作。其中以此成名最著名红人叫“搬砖小伟”。小伟的社会身份就是一个工地小工，但是他靠着每日更新高难度动作表演在快手上获得了一百多万粉丝。之所以这么拼，他在一个视频里这样说的：我拼命的练肌肉，就是为了能够开好车、泡美女、随便放一个屁别人也觉得是香的。说到底，还是想脱离底层，走向高层。</p>
-<p>但是悲哀的是，就算是最红的搬砖小伟，坐拥100多万多粉丝，但是他在大众视野内的曝光度几乎为零，能掌握的资源能力几乎为零。他的影响力还是在那一百万的乡村粉丝中打转，并不会对主流世界产生一丝波澜，更不会像papi酱一样获得千万投资，成为媒体宠儿。我不知道得知残酷真相的小伟，会是怎样的绝望。</p>
-<p><strong>最后的话</strong></p>
-<p>其实我已经感慨过很多次了，我们今日的时代，真魔幻。</p>
-<p>一边是高铁飞驰，高楼林立的北上广深。一边是快手中混沌沉沦的中国农村。</p>
-<p>两个如黑白一样对称的板块，正好构成了一个完整真实的中国。</p>
-<p>其实我深知，看这篇文章的读者，都不是快手用户，也鲜有乡村人群。可能有很多朋友只是抱着猎奇的视角审视这些来自来自底层的人和事，作为谈资和笑料，甚至觉得这些人、事与我何干呢？</p>
-<p>对此，最后我送给大家一首约翰多恩的诗，这首诗想必会给你答案，慢慢体会。</p>
-<p>《没有谁能像一座孤岛》</p>
-<p>在大海里独踞</p>
-<p>每个人都像一块小小的泥土</p>
-<p>连接成整个陆地</p>
-<p>如果有一块泥土被海水冲击</p>
-<p>欧洲就会失去一角</p>
-<p>这如同一座山岬</p>
-<p>也如同你的朋友和你自己</p>
-<p>无论谁死了</p>
-<p>都是自己的一部分在死去</p>
-<p>因为我包含在人类这个概念里</p>
-<p>因此我从不问丧钟为谁而鸣</p>
-<p>它为我，也为你</p>
-<p><strong>相关阅读：</strong></p>
-<p><a href="http://ent.qq.com/a/20160609/014397.htm">谈谈X博士的刷屏文：一个视频软件的中国农村</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/x%E5%8D%9A%E5%A3%AB-%E6%AE%8B%E9%85%B7%E5%BA%95%E5%B1%82%E7%89%A9%E8%AF%AD%EF%BC%9A%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7/?category=18271" rel="tag">中产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/?category=18271" rel="tag">中国农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81%E5%AA%92%E4%BD%93/?category=18271" rel="tag">主流媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%89%E5%92%8C%E5%9B%A2/?category=18271" rel="tag">义和团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC/?category=18271" rel="tag">价值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E4%BF%97/?category=18271" rel="tag">低俗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82/?category=18271" rel="tag">基层</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E7%BE%8E/?category=18271" rel="tag">审美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%B0%E5%AE%9E%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">现实社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A0%E8%B4%A8/?category=18271" rel="tag">素质</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E8%B5%B0%E5%90%91%E5%85%A8%E7%90%83%EF%BC%8C%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B5%84%E6%89%A9%E5%A4%A7/" target="cdt-mirror">美国之音｜中国“走向全球”，海外投资扩大</a>
-</h2>
-<p><p><em>作者：达斯古普塔</em></p>
-<p>中国“走出去”战略的实施过程中正出现一些引人注目的现象。中国企业在2016年前10周的海外投资要比去年整一年的多。相比2015年的1080亿美元，中国企业至2016年4月中旬的海外投资达到了1100亿美元。</p>
-<p>有分析人士预计，2016年中国公司的海外投资将会是2015年的两倍多。根据中国商务部公布的数据，中国在非金融领域的海外投资增长了14.7%，这意味着增长率几乎是2015年的7倍。</p>
-<p>咨询公司迪罗基推测，中国如果继续以今年第一季度所见的高速度向海外大量投资，将会在今年年底前超过美国，成为世界最大的海外投资国。迪罗基称，中国企业今年已经成交了17笔价值10亿美元的交易。</p>
-<p>中国企业到处投资既是出于商业上的原因，也是为了取悦政府当局。分析人士表示，中国政府正不断地把投资看作是外交工具。中国与各个国家进行的双边会谈通常会包括高达数十亿美元的投资承诺。</p>
-<p>北京大学光华管理学院金融专业副教授赵龙凯告诉美国之音，这里有两种情况。国有企业在政府的鼓励下到国外投资，而私有企业进行海外投资的原因有所不同，但他们都有政府在背后支持。</p>
-<p>赵龙凯还说，由于资本成本较低，中国有很多流动的资金。此外，收购外国企业也是获得新的市场和技术的快捷途径。</p>
-<p>中国投资的项目范围广泛，包括一些对政治有利且敏感的项目，比如核反应堆，类似在斯里兰卡的连接进口海上航道的海港码头以及中国化工集团公司近期以430亿美元全现金收购的瑞士农化和种子企业先正达等。</p>
-<p>分析人士表示，中国政府鼓励海外投资背后受外交政策考虑的驱动。</p>
-<p>一份由国际经济研究公司荣鼎集团和墨卡托中国研究所联合发布的研究报告说，中国急切于平衡越来越多的有关中国对国外商品需求剧减和贸易顺差膨胀的消极观点，因此把海外投资放在重大外交活动议程的首要位置。在与欧盟以及其成员国谈判时，中国外交官也越来越多地把关于投资和其他资本流动的承诺用作为寻求政治优惠待遇的外交手段。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E8%B5%B0%E5%90%91%E5%85%A8%E7%90%83%EF%BC%8C%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B5%84%E6%89%A9%E5%A4%A7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">中国外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A2%86%E5%AF%BC%E5%BE%88%E5%BF%99%EF%BC%9A%E3%80%8A%E4%BB%8A%E6%97%A5%E8%8E%B1%E5%B7%9E%E3%80%8Bpk%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/" target="cdt-mirror">【立此存照】领导很忙：《今日莱州》PK《人民日报》</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/1341234651/DzzsMCqWx" target="_blank">@辜晓进</a>：【这样的报纸不如不办】自被网友曝光“六.一”标题后，名不见经传的《今日莱州》首次进入大众视线。我也将信将疑，以为有人PS 炒作，马上验证，可惜已查不到该报官网（包括通过其母公司烟台日报传媒集团）。好在有网友陆续贴出该报的其他头版，我也查到当地门户网站引自该报的一些报道，发现该报情况不仅属实，且一贯如此，”市领导“已成该报口头禅，“六.一”版面并非孤例。我好奇的是，自2003年全国报刊大整顿将一大批（100多种）县区级报纸关停后（其中也有办得较好的报纸），作为硕果仅存的少数县级报纸之一的《今日莱州》怎会这个模样（去年总局公布全国只有19种县级报纸）？这种政治上彻底抛弃宣传艺术、业务上完全无视新闻规律、服务上基本不顾读者需求、工作上缺乏起码敬业精神的报纸，在如今这数字化信息时代还能存在，确实颇具讽刺意味。如果当地领导竟默认甚至陶醉于这样的拙劣宣传，更不可思议。</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4ff19ddbgw1f4py9zo2muj20j60pktcp.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4ff19ddbgw1f4py9zo2muj20j60pktcp.jpg?resize=475%2C633" alt="4ff19ddbgw1f4py9zo2muj20j60pktcp" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4ff19ddbgw1f4py9zo2muj20j60pktcp.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4ff19ddbgw1f4py9zo2muj20j60pktcp.jpg?resize=225%2C300 225w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<p><strong>然而，《今日莱州》所谓的“拙劣”也许只是上行下效的结果，《人民日报》才是“领导永远很忙”的标杆。</strong></p>
-<p>下图为曾在网络引起争议的《人民日报》2015年12月4日的头版，因整版只提“习近平”而<a href="http://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%85%9A%E6%8A%A5%E7%9A%84%E6%97%A5%E5%B8%B8%EF%BC%9A%E4%B9%A0%EF%BC%8C%E4%BD%A0%E6%98%AF%E5%94%AF%E4%B8%80/" target="_blank">遭到网民吐槽</a>：<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B9%A0%E8%BF%91%E5%B9%B33.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B9%A0%E8%BF%91%E5%B9%B33.jpg?resize=475%2C679" alt="习近平3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/习近平3.jpg?w=2100 2100w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/习近平3.jpg?resize=210%2C300 210w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/习近平3.jpg?resize=768%2C1097 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/习近平3.jpg?resize=717%2C1024 717w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<p>上述这种情况其实并不罕见。<strong>以下为近期《人民日报》“领导很忙”头版举例：</strong></p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg?resize=450%2C643" alt="rmrb2016052701" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg?w=1059 1059w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg?resize=210%2C300 210w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg?resize=768%2C1097 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016052701.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2016年5月27日</span></p></div>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg?resize=450%2C643" alt="rmrb2016042001" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg?w=1059 1059w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg?resize=210%2C300 210w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg?resize=768%2C1097 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016042001.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2016年4月20日</span></p></div>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg?resize=450%2C643" alt="rmrb2016012301" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg?w=1059 1059w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg?resize=210%2C300 210w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg?resize=768%2C1097 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016012301.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2016年1月23日</span></p></div>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg?resize=450%2C643" alt="rmrb2016010801" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg?w=1059 1059w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg?resize=210%2C300 210w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg?resize=768%2C1097 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2016010801.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2016年1月8日</span></p></div>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg?resize=450%2C643" alt="rmrb2015121501" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg?w=1059 1059w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg?resize=210%2C300 210w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg?resize=768%2C1097 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015121501.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2015年12月15日</span></p></div>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg?resize=450%2C643" alt="rmrb2015101401" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg?w=1059 1059w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg?resize=210%2C300 210w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg?resize=768%2C1097 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/rmrb2015101401.jpg?resize=717%2C1024 717w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>2015年10月14日</span></p></div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A2%86%E5%AF%BC%E5%BE%88%E5%BF%99%EF%BC%9A%E3%80%8A%E4%BB%8A%E6%97%A5%E8%8E%B1%E5%B7%9E%E3%80%8Bpk%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%8A%A5/?category=18271" rel="tag">党报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -769,7 +720,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -779,5 +730,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

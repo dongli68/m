@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-709%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E5%91%A8%E4%B8%96%E9%94%8B%E4%BB%A5%E9%A2%A0%E8%A6%86%E7%BD%AA%E8%B5%B7%E8%AF%89/" target="cdt-mirror">美国之音 | 709被捕律师周世锋以“颠覆罪”起诉</a>
+</h2>
+<p><p>作者：海彦<br>
+原标题：中国一维权律师被以“颠覆罪”起诉</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-%E4%B8%8B%E5%8D%881.46.47.png?resize=573%2C319" alt="Screen Shot 2016-06-13 at 下午1.46.47" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-下午1.46.47.png?w=573 573w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-下午1.46.47.png?resize=300%2C167 300w" sizes="(max-width: 573px) 100vw, 573px" data-recalc-dims="1"><br>
+中国维权人士6月12日在北京举牌要求当局释放709律师(参与网图片)</p>
+<p>香港-据报道，去年709维权律师及人士大抓捕中被关押近一年的北京锋锐律师事务所主任律师周世锋被以“颠覆国家政权罪”移送检察院起诉。周世锋家属委托的代理律师近日将赶赴天津，要求面见周世锋，以便核实是否如当局所称已经被周世锋解除委托关系。中国八十多位维权律师近日发表联署信，批评天津警方在709案中滥用职权，违反法律。</p>
+<p>因709大抓捕事件而被瘫痪的锋锐律所的维权律师刘晓原星期天发推特说：“今天下午，周世锋律师的家属接到指定辩护律师来电，说周世锋案件已经移送检察院审查起诉，指控涉嫌罪名还是颠覆特色裆政权罪” 。</p>
+<p>作为合伙人而被困在锋锐所，并无法获得“律师年检”的刘晓原星期一向美国之音证实，周世锋案被移送起诉的消息，是家属从当局给周世锋指定的天津律师那里接到的，应该是可靠的。至于周世锋是否是709大抓捕案第一个被移送检察院审查起诉的，目前无法得知或者确定。</p>
+<p>他说：“其他人的消息，我们现在也没有听到过，其他人的消息现在无法确定。现在是不是就他一个人被起诉了，对其他人员的情况核实不了，也许有。目前的状况就是说，也没有看到消息吧，其他人员的，核实不了。”</p>
+<p>至今，709案无论家属还是家属委托的律师，都无法见到被天津市公安局关押了近一年的所有当事人，官方几乎没有提供任何消息。所有被拘捕的人先被监视居住6个月，然后被以“颠覆罪”或者“煽颠罪”批捕。</p>
+<p>对于周世锋案被移交起诉，周世锋家属委托的代理律师杨金柱星期天在网上发消息表示，将和王少光律师星期四下午前往天津市看守所，要求会见周世锋，将依法依规办理此案，只要周世锋当面说明解除杨金柱律师的委托是他的真实意思，杨金柱律师将从此再不过问该案。</p>
+<p>杨金柱律师星期一下午对美国之音证实，他准备再赴天津搞清楚情况，到时会向外界详细说明。</p>
+<p>受周世锋家属委托、准备“抬棺上阵”的湖南知名刑事辩护律师杨金柱，今年1月12日在听说周世锋被批捕以及周世锋解除了家属委托的律师后，前往天津市第一看守所，与警方交涉，要求会见周世锋当面询问。杨金柱被告知，周世锋此前已经委托了律师，但杨金柱强调，周世锋家属从未接到周世锋已经委托律师的有关通知，也没有和其他任何人签过委托书，交过律师费。杨金柱始终无法见到周世锋。</p>
+<p>媒体曾报道，办案警方强行给周世锋指定的辩护人是天津市律协会长、全国律协常务理事、法政牛津律师事务所主任杨玉芙。对于当局指定辩护律师的举动，有分析质疑，律协会长相当于第二个公诉人，是否会为当事人真心辩护，这显然是当局为了将周世锋的罪名“做实”。美国之音记者星期一下午无法联系上杨玉芙律师。</p>
+<p>据香港中国维权律师关注组的统计，目前11名律师、律师助理和律所人员被天津市公安局以煽颠罪和颠覆罪正式逮捕，包括北京锋锐律所的周世锋、王宇、包龙军、王全璋、谢燕益、赵威、吴淦等。而709案另外还有12人也被批捕。</p>
+<p>也在709案中被抓走但后来被放出的刘晓原律师表示，由于天津当局以709案涉及危害国家安全为由，拒绝当事人家属和家属委托律师会见当事人，因此外界对于这些被关押近一年的当事人知道的情况非常少。</p>
+<p>他说：“由于这是颠覆国家政权案件，有些人是煽动颠覆国家政权，自己聘请的律师、指定的律师也好，你去会见是要经过批准的。家属自己聘请的他不同意会见。一般案件不要说在侦查阶段，就是到了检察院、法院这个阶段，他都不允许的。所以现在的情况是，很难获得案件的消息。”</p>
+<p>82位维权律师日前发表了“谴责天津警方滥用职权书”，指出709抓捕案当事人被抓已满11个月，但却一直处于事实上的被失踪状态，音讯全无。律师不被允许会见、通信，警方也拒不向辩护人介绍案情，甚至越俎代庖为当事人指定当事人和家属均不认识的律师，解除由其家属委托的律师。这是极其严重的对程序正义的践踏，是动摇法律根基的违法行为。</p>
+<p>联署信表示，蔡瑛、文东海、王磊、纪中久四名律师作为709案合法有效的辩护人，为维护辩护权以及法律的正确实施，6月6日前往分管的天津市检察院第二分院，提交新的委托和辩护手续，询问案件进度，同时控告该案侦查机关存在的一些违法行为，请检察机关依法监督和纠正。但四位律师因与当事人家属在检察院门口合影留念，所有人全部被拘捕，直到第二天才获释。</p>
+<p>据律师获释后发布的信息，警方曾企图让律师帮助警方指控当事人家属有扰乱社会秩序的故意，并对没有任何违法行为的律师搜包，扣检手机，还威胁律师要他们退出709案的辩护。</p>
+<p>联署信称，这是典型的非法拘禁、侮辱和妨碍诉讼行为，要求天津市检察院、北京市检察院、最高检立即着手调查天津警方滥用职权非法剥夺当事人诉权和辩护人辩护权的行为，并调查天津警方滥用职权对律师和公民非法拘禁的行为。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-709%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E5%91%A8%E4%B8%96%E9%94%8B%E4%BB%A5%E9%A2%A0%E8%A6%86%E7%BD%AA%E8%B5%B7%E8%AF%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">709事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">打压维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%94%8B%E9%94%90%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/?category=18271" rel="tag">锋锐律师事务所</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91-3/" target="cdt-mirror">【图说天朝】习佛学、近民生、平天下</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Slack-for-iOS-Upload-1.jpg?resize=345%2C259" alt="Slack for iOS Upload (1)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Slack-for-iOS-Upload-1.jpg?w=345 345w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Slack-for-iOS-Upload-1.jpg?resize=300%2C225 300w" sizes="(max-width: 345px) 100vw, 345px" data-recalc-dims="1"></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91-3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9B%E6%95%99/?category=18271" rel="tag">佛教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%94%BF%E8%A7%81-%E4%BC%8A%E6%96%AF%E5%85%B0%E4%B8%96%E7%95%8C%E5%A4%A9%E7%94%9F-%E5%8F%8D%E5%90%8C%EF%BC%9F%E5%8E%86%E5%8F%B2%E5%B9%B6%E9%9D%9E%E5%A6%82%E6%AD%A4/" target="cdt-mirror">政见 | 伊斯兰世界天生 “反同”？历史并非如此</a>
 </h2>
 <p><p>作者：张跃然，政见观察员，哈佛大学社会学博士学生</p>
@@ -654,52 +695,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-140/" target="cdt-mirror">【河蟹档案】公安部：未经警方同意，精神病院不得收治正常人</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%B4%BA%E5%8D%AB%E6%96%B9">贺卫方</a>：【聊备一格】最近某法学刊物的目录（局部）。<em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A2%86%E5%AF%BC%E5%BE%88%E5%BF%99%EF%BC%9A%E3%80%8A%E4%BB%8A%E6%97%A5%E8%8E%B1%E5%B7%9E%E3%80%8Bpk%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/">【立此存照】领导很忙：<今日莱州>PK<人民日报></a>》</em></em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-14.jpg?resize=496%2C372" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-14.jpg?w=1280 1280w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-14.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-14.jpg?resize=768%2C576 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-14.jpg?resize=1024%2C768 1024w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3983519866431022" target="/weibo/398">2016年06月06日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BD%95%E4%B8%89%E7%95%8F">何三畏</a>：说漏了//*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E4%BA%AC%E5%B4%94%E5%8D%AB%E5%B9%B3">@北京崔卫平</a>:转： 这里逻辑看懂没？1、以后经公安同意，精神病院可收治正常人。2、之前未经公安同意，精神病院收治了正常人。3、之前经公安同意，精神病院收治了正常人。4、是不是收治精神病，不是医院说了算，是公安……太吓人了。都吓成精神病了。 《<a href="http://club.kdnet.net/dispbbs.asp?boardid=1&id=11689724"><em>凯迪社区｜公安部：精神病院未经警方同意不得收治正常人</em></a>》<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-18.jpg?resize=497%2C299" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-18.jpg?w=728 728w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-18.jpg?resize=300%2C180 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-18.jpg?resize=80%2C48 80w" sizes="(max-width: 497px) 100vw, 497px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3984604370813826" target="/weibo/398">2016年06月09日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%A7%81%E4%BA%AB%E4%B9%80%E5%AE%B6">私享乀家</a>：“强盗土匪”已经不够形容它们了···· <em><em><em><em>相关阅读｜《<a href="http://bbs.tianya.cn/post-news-265904-1.shtml">天涯社区<em><em><em><em>｜</em></em></em></em>原来警察抓人都有指标和任务</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/05/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-139/">【河蟹档案】终于明白警察为什么这么热衷于黄赌毒了</a>》</em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-17.jpg?resize=408%2C726" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-17.jpg?w=450 450w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-17.jpg?resize=169%2C300 169w" sizes="(max-width: 408px) 100vw, 408px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3983128701697096" target="/weibo/398">2016年06月05日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%91%A8%E6%B3%BD%E5%BE%8B%E5%B8%88">周泽律师</a>：网评工作的标准化，值得国家标准化委员会重视。<em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E8%AE%A9%E4%BD%A0%E5%85%89%E7%9D%80%E5%B1%81%E8%82%A1%E8%B7%91/">【网络民议】社会主义让你光着屁股跑</a>》</em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-13.jpg?resize=450%2C800" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-13.jpg?w=450 450w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-13.jpg?resize=169%2C300 169w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-10.png?resize=368%2C515" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-10.png?w=421 421w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-10.png?resize=214%2C300 214w" sizes="(max-width: 368px) 100vw, 368px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3982991988199812" target="/weibo/398">2016年06月05日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E6%9C%89%E8%A5%BF">陈有西</a>：【倒行逆施无极限 党企不分走太远】中国的《公司法》是不是要作废了？中国的公司企业制度要回到35年前？这是宣告中国现代公司制度的死亡。<a href="http://t.cn/R5V7ND3" target="_BLANK">http://t.cn/R5V7ND3</a> <em>相关阅读｜《<a href="http://news.sohu.com/20160607/n453423303.shtml">国资委：国企重大决策须由党委讨论后董事会决定</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-19.jpg?resize=430%2C765" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-19.jpg?w=750 750w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-19.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-19.jpg?resize=576%2C1024 576w" sizes="(max-width: 430px) 100vw, 430px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3983808775255647" target="/weibo/398">2016年06月07日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%8C%97%E4%BA%AC%E5%BE%8B%E5%B8%88%E7%8E%8B%E9%A3%9E">北京律师王飞</a>：天津要疯了吗？抓了律师及助理，近一年不让辩护律师会见、通信，不依法向律师介绍他们所涉嫌罪名的主要“犯罪事实”等案件情况，隔绝他们与外界的一切联系，然后又千方百计解聘家属委托的律师。现在又抓家属，抓律师的律师。<em><em><em><em>相关阅读｜</em></em></em>《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%EF%BC%9A709%E5%A6%BB%E5%AD%90%E4%B8%8E%E5%AE%98%E5%91%98%E5%A4%AA%E5%A4%AA/">德国之声｜长平：“709”妻子与官员太太</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C709%E4%BA%8B%E4%BB%B6%E8%BE%A9%E6%8A%A4%E5%BE%8B%E5%B8%88%E6%8A%97%E8%AE%AE%E8%A2%AB%E6%8A%93/">法广｜“709事件”辩护律师抗议被抓</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-15.jpg?resize=430%2C765" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-15.jpg?w=750 750w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-15.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-15.jpg?resize=576%2C1024 576w" sizes="(max-width: 430px) 100vw, 430px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-16.jpg?resize=485%2C365" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-16.jpg?w=831 831w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-16.jpg?resize=300%2C226 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-16.jpg?resize=768%2C579 768w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3983368460500797" target="/weibo/398">2016年06月06日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-140/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">709事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E5%B4%87%E6%8B%9C/?category=18271" rel="tag">个人崇拜</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%B2%BB/?category=18271" rel="tag">党治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">吴良述</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81/?category=18271" rel="tag">国企</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E8%B5%84%E5%A7%94/?category=18271" rel="tag">国资委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%88%B6/?category=18271" rel="tag">法制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85%E9%89%B4%E5%AE%9A/?category=18271" rel="tag">精神病鉴定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2/?category=18271" rel="tag">精神病院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E4%BB%BB%E5%8A%A1%E6%8C%87%E6%A0%87/?category=18271" rel="tag">警察任务指标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BA%E5%8D%AB%E6%96%B9/?category=18271" rel="tag">贺卫方</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%93%E9%B1%BC%E6%89%A7%E6%B3%95/?category=18271" rel="tag">钓鱼执法</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%8B%E7%95%8C%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%AD%A6%E5%AF%9F%E7%BE%9E%E8%BE%B1%E6%81%90%E5%90%93%EF%BC%8C%E5%81%87%E5%A6%82%E6%B2%A1%E6%9C%89%E8%A7%86%E9%A2%91%E4%BD%90/" target="cdt-mirror">律界评论｜女孩被警察羞辱恐吓，假如没有视频佐证会怎样？</a>
-</h2>
-<p><p><strong>来自微信公号：律界评论（ID: lvshipinglun）<br></strong><br><em>文／谭敏涛</em></p>
-<p>“你没有身份证，还不接受调查！”“我怀疑你是个男的，你上女厕所干吗？”“今天就是你自己犯贱。”“我要把你们跟那些小偷、艾滋病、强盗关到一起去，让你们享受去……”</p>
-<p>当你看到这些话，你很难将他们和警察执法联系在一起。日前，有微博网友爆料，21号在深圳宝安西乡流塘大门口，两名女孩出去逛街，被警察检查身份证……后被依法强制传唤。在去派出所的路上其中一女孩偷偷录下了包括以上警察之言在内的音频资料。</p>
-<p>据网友公布的文字版事发经过，该起事件双方的主要冲突在于，当事警察在街上盘查两名女孩的身份证，对方声称没带并可以回家取但被警方拒绝。最终两名女孩被两名警察强制传唤。期间双方发生了肢体与言语上的冲突，而后女孩在派出所被警方审问一小时左右方被放回。</p>
-<p>前一段时间我们还在争论，公民能不能监督公安执法，律师能不能在立案庭拍照，而这起事件为我们上了最为生动的一堂课。如果事发后女孩没有录制视频，没有视频作证，此事件或许就是另一个版本，涉案警察极力否认说过上述话，涉案警方更会极力袒护，很有可能，两位女孩会被以诬陷为由给于行政处罚。毕竟，在看到上述几段话时，警方有绝对的理由怀疑两位女孩诬陷自己——我们的警察素质不会这么低，更不会说出这样的话，是两位女孩别有用心，造谣生事，必须给于处罚。</p>
-<p>仔细想来，每个人恐怕都很难释怀，仅凭文字和回忆就敢控告警察执法不规范，控告警察爆粗口，控告警察侮辱自己，这不知会被多少警界的洗地声所淹没。更何况，在口说无凭的窘境下，两位女孩很可能被污蔑、被说成类似于雷洋案一样的ⅩⅩ者。由此，警方很可能会说，两位女孩因为是ⅩⅩ者所以惧怕警察，被警察抓了后不仅不配合，反而说警察侮辱自己。这样的场景，难道不会发生吗？</p>
-<p>我曾在《你能监控人民一言一行，人民为何不能拍你执法？》一文中论述到，真正的公正执法，要经得起公众的围观和拍摄。试图限制公众拍摄，多因为在执法行为有诸多不当、不法和不妥之处。</p>
-<p>反观这起事件，爆粗口的深圳警察不仅仅是执法不规范的问题，而是报复性执法、野蛮执法和构陷式执法。想想看，我要把你们跟那些小偷、艾滋病、强盗关到一起去，让你们享受去……”两位女孩犯了多大的事才会遭遇如此虐待？只不过是警察要查看她们身份证时，她俩要求先查看警察的证件，而这，便成为冲突的导火线。</p>
-<p>在警方执法必须先出示证件这个话题中，我们讨论了许多次，但每一次警察都可以拿出不用出示证件的理由。这一次，当不用出示证件的警察刚好有羞辱爆粗口言辞，不知还会不会有警察认为自己的执法并无不当呢？</p>
-<p>在视频中，警察说到，我怀疑你是个男的，你上女厕所干吗？你脱衣服给我看一下，女孩辩解说她们刚刚根本没有上过女厕所。通过这段对话，你以为警察说的仅仅是气话吗？非也，这是一种构陷式执法，说白了，警察怀疑你是男的，在他们眼里就是男的，上了女厕所，警察就可以拿出自己的“家法”来处罚两位女孩，这样的执法，除了构陷就是栽赃。</p>
-<p>再者，透过对话我们更能发现，警察的蛮横一览无遗，警察的嚣张甚嚣尘上，可以说，如果不表明这是警察与两位女孩的对话，你很可能以为这是黑帮与被绑架者之间的对话。</p>
-<p>不敢想象，如果没有两位女孩拍摄的视频作证，涉案民警会被停职吗？公安局长还会道歉吗？如果说，当两位女孩没有留下任何证据，只凭借两人的事后回忆，她们又拿什么来证实自己看到和听到的一切呢？</p>
-<p>特别是在公权力说谎成本成性、说谎成本很低、说谎不打草稿的情况下，当执法的不当和不法行为被公众或当事人看到，但执法者却又极力否认时，公众或当事人又不能拍摄时，又拿什么来证明自己的清白呢？</p>
-<p>此名民警在车上的行为让人大跌眼镜大失所望，满口胡言乱语，连一个公民的形象都不如，这句话是宝安公安分局局长说的，如果当事人是我，是我的家人，我能平静吗？讲一千个一万个道理，对人造成了伤害，除了不文明，还有羞辱人格。</p>
-<p>公安局长的话言犹在耳，一个让人大跌眼镜大失所望的警察执法，损害的当是整个警察的队伍形象。此事件也因为有视频作证，之前常为警察洗地的声音未曾出现，要不，一切的流言蜚语或许就会将两位女孩淹没，毕竟，两位女孩“得罪”的是警察，而不是其他人。</p>
-<p>而当日下午，其中一名姑娘接到一自称是涉事派出所“负责人”的电话，对方表示，“那些警察是因为前一天加了24小时班累着了，然后态度不好，要我们理解。”你看，这不知是涉案警察真累了还是怪这两位女孩运气不好，反正，警察爆粗口都可以拿出前一天加班24小时作为理由，似乎就在说，如果不加班，涉案警察或许就是另一方景象，但是，这样的说辞站的住脚吗？</p>
-<p>雷洋案的余波未了，而今，深圳又发生这样的事件，很难说，两起事件没有共同之处。你走在大街时，随时可能被怀疑嫖娼；也可能随时会被查验身份证，或是仅因为你长得漂亮便有警察前来执法，这样的警察执法状态，说白了，就是一种滥权的沿袭，就是一种执法暴力的展现。</p>
-<p>回头来看，我们却依然后怕，如果两位女孩没有视频作证，恐怕两位女孩的遭遇就只能自认倒霉，而涉案民警压根不会被调查，警察群体更不会相信，自己的队伍里会有这样的执法者。</p>
-<p>或许，两位女孩压根不会举报，也不会控告，因为，他们除了回忆，口说无凭。在没有视频佐证的警察滥权中，公民靠什么监督公权，哪怕警察持有执法记录仪，但执法记录仪会记录这位警察的爆粗口和滥权吗？这些，都值得我们深思，更值得我们讨论——当警察滥用权力时，我们靠什么保护自己？</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%8B%E7%95%8C%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%A5%B3%E5%AD%A9%E8%A2%AB%E8%AD%A6%E5%AF%9F%E7%BE%9E%E8%BE%B1%E6%81%90%E5%90%93%EF%BC%8C%E5%81%87%E5%A6%82%E6%B2%A1%E6%9C%89%E8%A7%86%E9%A2%91%E4%BD%90/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">深圳警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%AB%96%E5%A8%BC/?category=18271" rel="tag">被嫖娼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%92%93%E9%B1%BC%E6%89%A7%E6%B3%95/?category=18271" rel="tag">钓鱼执法</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -711,7 +706,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -721,5 +716,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

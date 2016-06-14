@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%9F%90%E4%B8%AA%E7%89%B9%E5%AE%9A%E7%9A%84%E5%88%87%E9%9D%A2%E4%B8%8A-%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E5%B0%91%E6%95%B0%E6%B4%BE/" target="cdt-mirror">歪理邪说 | 某个特定的切面上 人人都是少数派</a>
@@ -207,7 +207,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%AD%95
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%BB%8B%E5%84%92%E7%94%9F/?category=18271" rel="tag">一介儒生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">书单</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E4%B9%A0%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">学习时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%85%9A/?category=18271" rel="tag">政党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%8C%E4%B9%A6%E5%8D%95/?category=18271" rel="tag">背书单</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E4%B8%8D%E7%95%8F%E5%A5%A7%E8%98%AD%E5%A4%9A%E9%87%8D%E5%A4%A7%E6%A7%8D%E6%93%8A%E6%A1%88-%E6%88%91%E6%98%AF%E5%90%8C%E6%80%A7%E6%88%80%E6%88%91%E5%BE%88%E8%87%AA%E8%B1%AA/" target="cdt-mirror">【CDTV】不畏奧蘭多重大槍擊案 我是同性戀我很自豪</a>
 </h2>
@@ -280,7 +280,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E5%AE%B6
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%B2%E5%AD%A6/?category=18271" rel="tag">哲学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E7%89%B9%E5%8B%92/?category=18271" rel="tag">希特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/?category=18271" rel="tag">政治理论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-709%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E5%91%A8%E4%B8%96%E9%94%8B%E4%BB%A5%E9%A2%A0%E8%A6%86%E7%BD%AA%E8%B5%B7%E8%AF%89/" target="cdt-mirror">美国之音 | 709被捕律师周世锋以“颠覆罪”起诉</a>
 </h2>
@@ -725,7 +725,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

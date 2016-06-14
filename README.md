@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,82 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E4%B8%8D%E7%95%8F%E5%A5%A7%E8%98%AD%E5%A4%9A%E9%87%8D%E5%A4%A7%E6%A7%8D%E6%93%8A%E6%A1%88-%E6%88%91%E6%98%AF%E5%90%8C%E6%80%A7%E6%88%80%E6%88%91%E5%BE%88%E8%87%AA%E8%B1%AA/" target="cdt-mirror">【CDTV】不畏奧蘭多重大槍擊案 我是同性戀我很自豪</a>
+</h2>
+<p><p>【圖話國際】美國6月12號晚間，同志酒吧發生美國史上死傷最嚴重的槍擊案，正值同志驕傲月，美國民眾選擇上街，捍衛他們的價值。</p>
+<p><a href="https://www.youtube.com/v/IfT8dYzW6RQ?version=3">https://www.youtube.com/v/IfT8dYzW6RQ?version=3</a></p>
+<p><a title="【圖話國際】不畏奧蘭多重大槍擊案 我是同性戀我很自豪" href="http://www.youtube.com/watch?v=IfT8dYzW6RQ" target="_blank">【圖話國際】不畏奧蘭多重大槍擊案 我是同性戀我很自豪</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-news&sz=99E7&t=2&s=MOLBBGCJYDC2NJFWJ7XRZTLBAEQJGOAMGKKWZWEATSQBNKCKDIOQ&i=CU5GQRLGHV22I6XJ2PCEDR2HDUH5ZWEUC&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E4%B8%8D%E7%95%8F%E5%A5%A7%E8%98%AD%E5%A4%9A%E9%87%8D%E5%A4%A7%E6%A7%8D%E6%93%8A%E6%A1%88-%E6%88%91%E6%98%AF%E5%90%8C%E6%80%A7%E6%88%80%E6%88%91%E5%BE%88%E8%87%AA%E8%B1%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97%E5%B9%B3%E6%9D%83/?category=18271" rel="tag">同志平权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E8%AF%9D%E5%9B%BD%E9%99%85/?category=18271" rel="tag">图话国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%85%B0%E5%A4%9A%E5%A4%9C%E5%BA%97%E6%9E%AA%E5%87%BB%E6%A1%88/?category=18271" rel="tag">奥兰多夜店枪击案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%8A%9B%E5%BC%83%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE%EF%BC%8C%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E5%8F%AA%E4%BC%9A%E8%B6%8A%E5%8F%8D%E8%B6%8A%E5%A4%9A/" target="cdt-mirror">腾讯大家 | 抛弃政治正确，恐怖分子只会越反越多</a>
+</h2>
+<p><p>作者：唐昊，腾讯·大家专栏作者，著有《竞争与一致》《中国式公益》等。</p>
+<p>6月12日，美国奥兰多同性恋酒吧脉动遭遇恐怖袭击，枪手奥马尔是美国公民，父母均是来自阿富汗的移民。目前FBI仍在调查其与ISIS的关系，有证据表明奥玛的思想倾向于极端主义，但并未发现其正式加入恐怖组织。就目前所掌握的情况，这次枪击案最有可能是具有极端主义思想的恐怖主义者根据自己的信念所发动的“独狼”行动。</p>
+<p>由于现在的共和党候选人特朗普在以往的政策表述中多次声称要在当选后对移民采取更严厉的政策，如在美国和墨西哥边境修筑长墙，对入境美国的穆斯林进行全体检查等等，因此在这次恐怖袭击之后，很多观察家认为，恐怖袭击将使美国国内的政治氛围发生变化，有助于拉升特朗普的选情，让更多的人倾向于更严厉的移民政策，甚至因此会改变美国政治的走向，等等。但实情恐怕未必如此。</p>
+<p>虽然反移民的情绪会因这次枪击案被短暂地激发出来，但目前离真正的总统大选还有四、五个月的时间，有足够和缓冲让人们重新理智地思考问题。并且恐怖袭击过早地释放了特朗普在这个问题上的支持，也未必是一件好事。因为当前的恐怖主义坐大，原因是多方面的，当人们有时间、有机会思考更多的因素时，也将指向特朗普所代表的政治势力和主张。</p>
+<p>特朗普在随后发表的声明中，除表达对遭受恐怖袭击的民众的同情外，用了更大的篇幅攻击奥巴马和希拉里，认为民主党政府的政策过于软弱，是这场恐怖袭击发生的重要原因，并批评其始终不敢突破政治正确性而公开使用“极端伊斯兰”这样的字眼为恐怖袭击定性。“由于我们的领袖软弱，我曾表示这将会发生，而现在只会变得更糟。我力图解救生命，避免下一波恐怖攻击。我们再也承受不起政治正确。”并因此要求奥巴马辞职、希拉里退选。</p>
+<p>这当然是一场漂亮的进攻，但持有的武器却有缺陷——其所声称的依据是站不住脚的。目前特朗普对于美国社会经过了大半个世纪才建立起来的“政治正确”进行不遗余力的攻击，并将其认定是恐怖主义坐大的根源，虽然迎合了某些人群将复杂问题简单化的认知，但却是典型的寻找政治替罪羊的做法，并且很容易被拆穿。</p>
+<p>事实上，“政治正确”（Political Correctness）的主要内容，是在美国这样一个多元化的社会中，通过鼓励人们在日常生活中对于宪法所坚持的平等和反歧视原则的坚守，来寻找多元族群和平共处之道。而对于同性恋群体、女权主义、少数族裔等，均不能使用歧视性语言。例如以往对于黑人的称呼“negro””black”（黑鬼）等已经逐渐废止，人们更多地以”African American”（非洲裔美国人）来称呼。至于特朗普所批评的不能使用“Radical Islam”(极端伊斯兰)，主要是要淡化恐怖主义的宗教色彩，而强调其反人类反文明的一面。从以往美国的历史经验来看，“政治正确性”恰恰是在美国这样一个社会差异极大的国家里，确保国内族群和谐相处，而不至于彼此仇恨、以至于形成大规模族群冲突和仇杀的最重要保障。</p>
+<p>而特朗普对于政治正确性的攻击，意味着将恐怖袭击的责任不是归结到个人和主义，而是某个族群。这种做法是相当危险的。虽然以往发动恐怖袭击者多是接受了极端主义思想的穆斯林，但要将所有穆斯林拒于美国之外的做法，却无异于与所有的穆斯林为敌。而将所有穆斯林拒于国门之外，这样的提法显然是无法实现的，只是白白地强化了现有居住于美国国内的穆斯林与其他族群之间的冲突。也就是说，如果美国抛弃了“政治正确”，更有可能会引发更大规模的恐怖袭击。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-%E4%B8%8B%E5%8D%885.36.48.png?resize=517%2C281" alt="Screen Shot 2016-06-13 at 下午5.36.48" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-下午5.36.48.png?w=517 517w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-下午5.36.48.png?resize=300%2C163 300w" sizes="(max-width: 517px) 100vw, 517px" data-recalc-dims="1"><br>
+▲ 特朗普：“政治正确”正在杀死我们的国家。</p>
+<p>在共和党执政期间曾经发生过美国本土遭遇过的最大恐怖袭击事件“911”。在此之后美国颁布了《爱国者法案》，成立国土安全部，大力加强反恐举措。并且美国在过去十几年的时间里没有再发生大规模的恐怖袭击。就在这次袭击之前，大多数观察家认为美国要比此前频频遭遇恐怖袭击的欧洲更加安全。而奥兰多恐怖袭击则打破了“美国安全”的幻梦，让人们了解在这个世界上，只要恐怖主义还存在，就没有什么地方是绝对安全的。也说明，以堵的方式来对抗恐怖主义，是没有最终结果的，只会是反恐战争的无休止持续。而现在特朗普的说法，只不过是以“大堵”取代原来的“小堵”，很难期望会产生长期的效果。相反，对于国内的族群仇视和对立的扩大化，却有即时的效果。</p>
+<p>所以，现在的问题是，人人都知道需要反对恐怖主义，但对于如何“正确”地反恐，却有着截然不同的看法。是否为了反恐而牺牲广泛的公民权利（如爱国者法案），是否为了反恐而牺牲族群平等共识（如特朗普的反政治正确），是否为了反恐而出台更严格的枪支管制法案（如希拉里在恐袭后的声明），都成为激烈纷争的政治焦点。在所有这些举措建议中，最危险的就是抛弃政治正确性，而将恐怖主义与某个特定族群联系起来的做法。这样做的话，恐怕还没有反到恐怖分子，美国社会自己先就分裂了。</p>
+<p>不仅如此，以往的美国反恐本来就是在很大程度上抛弃了“政治正确”的行动，即反恐部门对于恐怖主义的反击仍停留在器物层面，结果就是恐怖分子越反越多。911之后列在中情局暗杀名单上的只有7个人，现在可能已经超过1000人了。而ISIS和基地组织更是不断壮大，在全世界竞争恐怖主义老大的地位。但奥兰多恐怖袭击表明，恐怖主义是无法通过常规战争来战胜的，恐怖分子是从精神上被“养成”的，而更严厉的器物层面的管制对此并无效应，因为它无法阻止一个人内心所发生的变化。所以，反恐当然重要，但更重要的，是“正确”地反恐，即从精神层面消解极端主义产生的根源——极端主义和族群仇恨。</p>
+<p>说到如何“正确”地反恐，让我想起多年前的一件往事。那时我还在弗吉尼亚州的一所大学里任教，恰逢奥巴马总统要在附近的一所中学里发表开学日讲话。本来这个举动很平常，但千不该万不该，在开学日前他的教育部长向全国的公立中小学的校长们发了一封信，要求各公立学校组织学生收看奥巴马的讲话，每个学生还要写一篇读后感。这下学生家长们的情绪像炮仗一样被点着了，不但有大批老师家长到白宫门口示威，还有更多的家长特意在开学日那天到学校把自己的孩子领走，免得他听到总统的讲话。这是我在美国第一次领教到活生生的“政治正确”的力量。面对族群仇恨和极端主义在政治层面的不断诱惑，对自由意志的珍视，看起来才是这个国家精神力量的最重要来源。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%8A%9B%E5%BC%83%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE%EF%BC%8C%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E5%8F%AA%E4%BC%9A%E8%B6%8A%E5%8F%8D%E8%B6%8A%E5%A4%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E5%AE%B6%E5%94%90%E6%98%8A/?category=18271" rel="tag">作家唐昊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%85%B0%E5%A4%9A%E5%A4%9C%E5%BA%97%E6%9E%AA%E5%87%BB%E6%A1%88/?category=18271" rel="tag">奥兰多夜店枪击案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE/?category=18271" rel="tag">政治正确</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E6%9C%97%E6%99%AE/?category=18271" rel="tag">特朗普</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6/?category=18271" rel="tag">腾讯大家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%AE%B8%E5%AE%9D%E5%BC%BA%EF%BC%9A%E4%B8%BA%E4%BD%95%E6%B0%91%E4%BC%97%E4%BC%9A%E6%94%AF%E6%8C%81%E6%B3%95%E8%A5%BF%E6%96%AF%EF%BC%9F/" target="cdt-mirror">端传媒 | 许宝强：为何民众会支持法西斯？</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-%E4%B8%8B%E5%8D%885.23.17.png?resize=551%2C367" alt="Screen Shot 2016-06-13 at 下午5.23.17" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-下午5.23.17.png?w=551 551w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-下午5.23.17.png?resize=300%2C200 300w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><br><span>2010年10月13日，德国柏林历史博物馆内展示希特拉的制服。摄：Andreas Rentz/Getty</span></p>
+<p>希特勒与墨索里尼也许狼子野心、心狠手辣，但他们数以万计的追随者或支持者，是否也大奸大恶？还是拥有另一些不太一样的情感性格？他们普遍的精神面貌是怎样的？这是哲学家海德格尔（Martin Heidegger）的两位优秀弟子马尔库塞（Herbert Marcuse）和阿伦特（Hannah Arendt）共同关心的问题，也同时给出了类近但却不尽相同的答案。</p>
+<p>另一边厢，与马尔库塞和阿伦特基本上同时代的心理学家赖希（Wilhelm Reich），则以别的方式提出相关的问题：为何上世纪二三十年代为数不少的德意民众，会支持纳粹法西斯政权──一个限制自由、消灭民主的政权？或为何群众渴求一个压抑自身的政权，选择法西斯而非解放人民的革命？对这些问题，赖希给出了颇具创意的解答。</p>
+<p><strong>科技理性与犬儒文化</strong></p>
+<p>与其师海德格尔亲希特勒政权的立场相反，对纳粹持批判态度的马尔库塞和阿伦特，先后被迫流亡美国，分别深入而批判地描绘纳粹治下支持或顺从法西斯的德国民众的精神面貌。</p>
+<p>马尔库塞于第二次世界大战期间写的两篇长文《纳粹主义下的国家与个人》（<em>State and Individual under National Socialism</em>）及《新德国精神面貌》（<em>The New German Mentality</em>），仔细分析了在国家社会主义（纳粹主义）统治下，德国民众的情感性格。与卡尔．波兰尼（见系列之二）的观点类似，马尔库塞认为，纳粹统治所强调的生存竞争、官僚理性、科技效率、现实政治，完全扫除了道德考量，令群众逐渐转化为只剩下保存自我的极端自私本能，产生了一种极权的社会（totalitarian society） ，以及一种新的精神面貌和政治文化：包括以民俗文化、种族／民族、血与土等集体身份以至神话迷思的建构，把个体的私人生活、工作、闲暇政治化，社会关系被纳入了的无孔不入全面统制。</p>
+<p>另一方面，讲求物质利益、为达目的不择手段的马基维利式现实政治（realpolitik） ，配合“弱肉强食”的社会达尔文主义，打造出今天香港人不会陌生的“揾食大晒”（挣钱过活最重要）、贬抑理想愿景、“系咁㗎啦、好出奇呀？（是这样的了，很出人意表吗？”（matter-of-factness）式的犬儒主义；最后是贱视智性讨论、歌颂勇武战争，崇尚强健身体、进侵意志，以民族的灾难命运、帝国扩张，作为纽带，连系政权与原子化了的个体所构成的群众。</p>
+<p><strong>尽管纳粹政治的操作依赖种族神话、民俗迷思、身体与自然、意志和情感等元素，但马尔库塞的洞见在于揭示了在这“非理性”的外衣之下，纳粹主义的核心其实仍然是十分（工具）理性的：触发法西斯狂热的燃料，归根究柢还是无视道德、把民主自由视为虚妄的赤裸物质利益和政治权力。这种马尔库塞称之为科技理性的运作逻辑，无远弗届，甚至触及个体的私密，于是性与生育也屈从于优生设计、国家利益，为经济和军事扩张等赤裸裸的“现实政治”目标服务。</strong></p>
+<p><strong>邪恶的平庸</strong></p>
+<p>马尔库塞的同门阿伦特，则以协助屠杀犹太人的纳粹军官阿道夫．艾希曼（A. Eichmann）为案例，提出了著名的“邪恶的平庸”（banality of evil）的论断。在《艾希曼在耶路撒冷──一份关于邪恶的平庸的报告》（<em>Eichmann in Jerusalem – A Report on the Banality of Evil</em>，下简称 《艾希曼》）一书中，阿伦特从战后审判艾希曼的材料中，仔细描绘这个中低层纳粹军官的精神面貌，得出了这类积极参与“反人类”暴行的纳粹分子，其实并非穷凶极恶、精神异常之徒（几位精神病医生都证明艾希曼完全正常）。</p>
+<p>反之，他们都只是谨小慎微、尽忠职守的纳粹机器中的一件零件，或在官僚系统中丧失了思考能力的人，也就是“无思者”。无思（thoughtlessness）并不是愚蠢（stupidity），而是完全没有能力从他人的视角思考事情，只能不断重复己见、自说自话，听不见异声，自然没法与他人沟通；活在由官僚的空废语言筑构的高墙之内，难免不知人间何世，对社会现实离地无感。</p>
+<p>更糟的是，“无思者”也同时是“自恋者”，除了无思地执行由上下达的职责，他唯一关心的是自己的荣誉地位。艾希曼曾对以色列的警察说，如果职责需要，他会把父亲送上死亡之路。从艾希曼与警察的对话纪录中，阿伦特发现，错记很多历史事实的艾希曼，却能准确记忆其职业生涯的转捩点，并毫不犹豫地不断向警察重复解释，他的职位之所以无法更上一层楼，并不是他的过错。</p>
+<blockquote><p>尽管阿伦特写作《艾希曼》的目的，并不是想建构一套有关纳粹民众心态的普遍理论，而是希望把反思的焦点，置放于特定的个体应担负的道德责任。然而，她对艾希曼无思自恋的仔细描写，其实也在不同程度上适用于科技理性孕育成长的现代个体身上。而久经学校和官／职场训练的现代个体，看到艾希曼在纳粹战败后的这一段迷惘慨叹：“我感觉将要活于再没有领导的艰难个体生活之中，再不会从他人中得到指示、命令和方向，也没有相关的规条指引，一种我从不知道的生活将横贯于面前”，大概也不会对这种逃避自由的独白感到陌生。而在科技理性和现实政治包围下的逃避自由、道德无感、惯受指令、自恋无思的个体，正是让大屠杀发生、法西斯坐大的民众心理及精神面貌。</p></blockquote>
+<p><strong>性压抑与法西斯群众心理</strong></p>
+<p>如果说马尔库塞与阿伦特为法西斯的民众心理及精神面貌，提供了深入而仔细的描述，那么赖希则尝试为法西斯民众欲求自我被管控和压迫的行径，提供一种结合马克思与佛洛伊德的社会精神分析。</p>
+<p>赖希认为，法西斯民众的心理，归根究柢源自专制家庭和社会对（广义的）性能量（libido）的压抑。习惯于父权规限、快感欲望不断延后的儿童，长大后容易变得听话驯服、顺从权力。而他们进入社会之后，由于学校、企业、政府与家庭的权威结构基本相同，因此延续了民众的顺服，甚至倾向认同压迫他们的权威，尤其容易出现于性压抑特别严重的中产或小资家庭背景的人。这也是为什么法西斯和纳粹的主要支持者，以中产或小资阶级为主。赖希进一步解释，德国不少女性也支持纳粹，反映的是长期的性压抑，再加上宗教的罪咎感，令妇女更易受纳粹反共的宣传（如共妻）影响，基于恐惧及逃避性解放的自由，选择支持纳粹，体现的就是一种自我防卫的道德机制。</p>
+<p>然而，生命冲动的长久压抑，很可能导致日后极端的反弹。赖希认为，法西斯民众之所以愿意走向宗教及生物上的神秘主义，又或投入各种非理性的集体行动和仪式，甚至崇尚暴力，与性能量（或身心快感）长期受压、无法满足，因此需另觅出路有关。</p>
+<p>法西斯和纳粹要取消个体自由、要求服从权威、追求外在认可和赋予的荣誉与责任，甚至令个体在长期不忿下上产生残酷施虐倾向（对自身和他人的压抑和暴力）。我们或可以想像，如果一个人自小就活在没有性压抑的环境，长期享有波兰尼所指的不顺服的权利，敢于追求和习惯享受生命中的各种愉悦，其身心状态、情感性格，与法西斯和纳粹所要求的，是格格不入的。赖希因此认为，当时德国长期压抑民众性能量的权威家庭与社会结构，在每个人心中都植下了法西斯的种子，只要遇上适合的环境土壤，就会发芽成长。</p>
+<p>触发法西斯主义于上世纪初在全球扩散的合适环境土壤，自然不能够归结于个别国家或野心领袖的特质，而应该以宏观的历史视野，进行长期段、大范围的研究分析，才有可能把握。本系列最后一篇文章，将介绍波兰尼的相关分析，探讨能催生法西斯主义大规模扩散的历史脉络。</p>
+<p><strong>（未完待续）</strong></p>
+<p><strong>（许宝强，香港岭南大学文化研究系副教授）</strong></p>
+<p><strong>参考资料：</strong></p>
+<p>Arendt, Hannah (1963): <em>Eichmann in Jerusalem: A Report on the Banality of Evil</em>. (Rev. ed. New York: Viking, 1968.)</p>
+<p>Herbert Marcuse (1998): “State and Individual under National Socialism” and “The New German Ideology,” <em>in Technology</em>, War and Fascism, London and New York: Routledge.</p>
+<p>Reich, Wilhelm (1970): T<em>he Mass Psychology of Fascism</em>, Preface, chapters I-II, New York: Farrar, Straus and Giroux.</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%AE%B8%E5%AE%9D%E5%BC%BA%EF%BC%9A%E4%B8%BA%E4%BD%95%E6%B0%91%E4%BC%97%E4%BC%9A%E6%94%AF%E6%8C%81%E6%B3%95%E8%A5%BF%E6%96%AF%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%B2%E5%AD%A6/?category=18271" rel="tag">哲学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E7%89%B9%E5%8B%92/?category=18271" rel="tag">希特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/?category=18271" rel="tag">政治理论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-709%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E5%91%A8%E4%B8%96%E9%94%8B%E4%BB%A5%E9%A2%A0%E8%A6%86%E7%BD%AA%E8%B5%B7%E8%AF%89/" target="cdt-mirror">美国之音 | 709被捕律师周世锋以“颠覆罪”起诉</a>
 </h2>
 <p><p>作者：海彦<br>
@@ -575,126 +648,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%BD%A9%E6%88%B4%E5%85%9A%E5%BE%BD%E8%BF%90%E5%8A%A8%E9%92%A9%E8%B5%B7%E6%AF%9B%E5%83%8F%E7%AB%A0%E7%9A%84%E8%AE%B0%E5%BF%86%EF%BC%9F/" target="cdt-mirror">德国之声｜“佩戴党徽运动”钩起毛像章的记忆？</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/02/%E5%85%B1%E4%BA%A7%E5%85%9A.png?resize=549%2C451" alt="共产党" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/02/共产党.png?w=653 653w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2013/02/共产党.png?resize=300%2C246 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>为坚持党的核心领导地位，中共新一轮“红色旋风”已从江苏、广东、四川等地的基层党委，延伸至中国权力最高地。数月来，多地党政机关相继发出党员“佩戴党徽运动”引网民吐槽。</p>
-<p>习近平主政下的中国，党纪比以往时候显得更为重要。这一点，在年初中共中央办公厅印发的“两学一做”党员学习教育方案中体现的淋漓尽致。</p>
-<p>“两学一做”的全称为“关于在全体党员中开展”学党章党规、学系列讲话，做合格党员“学习教育方案”。据称，开展“两学一做”学习教育，是党中央向全体党员发出的集结号和动员令。侧重点是面向全体党员。</p>
-<p>数月来，江苏、广东、四川、新疆等地县、乡一级党政机关陆相继要求党员佩戴党徽响应中共的号召。中国主流媒体纷纷以“佩戴党徽亮明身份”为题，强调党员意识。</p>
-<p>中纪委刊物的报道认为，党员应时时刻刻坚守纪律底线，时时处处发挥模范带头作用。亮明身份为获得更大监督。</p>
-<p>这场“红色旋风运动”已从乡县延伸至中国政治中心、权力最高地北京。《北京青年报》引述北京通州区近日发布的倡议书中，要求通州区各领域、各系统党员通过佩戴党徽等方式把身份亮出来、把形象树起来。</p>
-<p>尽管倡议中没有对党员佩戴党徽做硬性规定，但列出了建议佩戴党徽亮明身份的多种场合：例如工作期间，参加党内活动，参加志愿服务等重大会议场合。报道还称，甚至全国一些地方还对佩戴党徽的位置做了细节规定。还有一些单位会对党员的佩戴情况进行检查。</p>
-<p>据称，不按规定的党员将被批评教育，地方甚至规定3次违反要求的年比不得评优，甚至可能殃及上级官员或整个部门。</p>
-<p>“堪比黑社会纹身”</p>
-<p>“红色旋风运动”也引发网民议论。有网民评论说，“党员佩戴党徽的举动好比黑社会的纹身，一般情况下，纹身们必须群体出动才有气场，单个纹身很容易被鄙视。”</p>
-<p>公安大学教授黎津平在自由微博转发网民建议，“让8700万共产党员戴党徽！上班时间要佩戴，下班之后也应该佩戴。忘记佩戴一次扣2分，故意遮挡党徽扣6分，故意损坏党徽一次性扣完12。扣完之后重新到党校学习，并重写入党申请书。对于拒不配合者，应该剥夺他们成为共产党员的荣誉感，以叛党论处。不愿意戴党徽就说明他不认可党员身份！”</p>
-<p>还有网民讽刺说，“戴什么党徽，直接把党徽刺青在左脸上最革命。”</p>
-<p>对“佩戴党徽运动”也有网民感慨，“中共这些年，又是发展大学生入党，又是开展”保持先进性“活动，又是梳理排查党员组织关系，确保每名党员都纳入党组织管理，现在又在组织抄党章。中共现在不断强调要加强意识形态建设。”</p>
-<p>也有人回忆历史悲剧的教训：“中国差不多有近一亿的党员。当年毛像章由表忠心的初衷到泛滥成灾还记忆犹新。所以说一个不懂反省的民族经常会重蹈复辙的。”</p>
-<p>关键词: 毛泽东 毛像章 党徽 栏目: 时事见解 首页重点发表: 新鲜看点 作者: 严严</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E4%BD%A9%E6%88%B4%E5%85%9A%E5%BE%BD%E8%BF%90%E5%8A%A8%E9%92%A9%E8%B5%B7%E6%AF%9B%E5%83%8F%E7%AB%A0%E7%9A%84%E8%AE%B0%E5%BF%86%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E6%9A%97%E5%9C%B0%E9%87%8C%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%A4%96%E5%AE%A3%E6%94%BB%E5%8A%BF/" target="cdt-mirror">博谈网｜北京暗地里百亿美元的外宣攻势</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg?resize=585%2C329" alt="xuansdg" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xuansdg.jpg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
-<p>（博谈网记者赵亮编译报道）据《金融时报》6月9日报道，当中共中宣部部长刘奇葆上个月访问悉尼，与澳大利亚最大的一些媒体公司签署了一系列交易后，很少人予以重视。</p>
-<p>但是，此行的成果——中共的英文喉舌《中国日报》出版的刊物《中国观察报》（China Watch）出现在《悉尼先驱晨报》等言论自由的堡垒里，这道破了中国数十亿美元的宣传机器在不断地延伸触角，试图要赢得世界各地人的心智。</p>
-<p>中国的“软实力”战略多年来在学校里资助中文课及支持当地的智库。但是现在，北京正在把它的宣传触角伸进独立媒体。</p>
-<p>与澳大利亚媒体的交易说明了这种延伸，之前与《华盛顿邮报》、英国《每日电讯报》和法国的《费加罗报》也有类似的协定。在（澳大利亚）费尔法克斯媒体（Fairfax）的几家报纸中每个月新出现的《中国观察报》插页，其首次的刊物中刊载对北京有利的报道，包括一篇支持北京在南中国海有争议水域对峙的文章。</p>
-<p>北京为了打磨自己作为一个全球大国的形象，正在找资金短缺的西方媒体中的受众，即使他们并不总能意识到该交易的性质。</p>
-<p>“澳大利亚人不知道他们所做的正在成为中国官方媒体中的大新闻，也不知道中共鼓吹该交易是使其对外宣传的胜利”，澳大利亚斯威本科技大学（Swinburne University of Technology）教授John Fitzgerald说。</p>
-<p>乔治·华盛顿大学教授David Shambaugh表示，所有大国都搞公关，但是，北京推动的规模是史无前例的。他估计，中国每年在对外宣传上花费100亿美元，远远超过了美国，他说美国2014年在公共外交上只花了6.66亿美元。</p>
-<p>北京通过孔子中心，用这些钱来资助世界各地中小学和大学课堂里的中文课和文化课。北京也在亚洲基础设施投资银行投入数百亿美元，来给发展中国家提供软贷款，加强区域援助方案，以及建立一个全球性的广播和电视新闻网。</p>
-<p>路透社去年的一份调查确定了一个含有33家广播电台的国际网络，其复杂的股权结构掩盖了其大股东：中国国营的中国国际广播电台。该网络覆盖范围从美国到澳大利亚，播出的内容是中国国际广播电台或由其控制的公司制作的。</p>
-<p>“北京感到其国际声誉与它现在更大的经济实力不相匹配”，悉尼科技大学教授Wanning Sun说。“北京感觉西方媒体有偏见，它正在尽一切所能来解决这个问题。”</p>
-<p>Sun女士说，通过提供资金，提供免费内容和技术，甚至提供记者培训，在澳大利亚及有众多华人侨民的国家，北京已经在改变当地中文媒体的关注焦点上获得了一些成功。</p>
-<p>“北京将把与澳大利亚主流媒体最近的这些交易视为接触更广泛公众的一种方式”，她说。</p>
-<p>尽管投入了资金，许多汉学家怀疑北京推动软实力的有效性。“每个人似乎都非常清楚它们的目的”，伦敦国王学院（King’s College London）的教授Kerry Brown说。“其结果是让人们有更多、而不是更少的怀疑。”</p>
-<p>北京与（澳大利亚）费尔法克斯、澳大利亚天空新闻和其他几个当地公司的交易在澳大利亚引发争议证明了这一点。</p>
-<p>批评者们指出北京的宣传机器轮廓更加鲜明，而在中国国内，记者被监禁，许多外国媒体的网站被封。一些人警告说，附带刊发北京的宣传可能会损害自己的报纸，并且让北京的商业影响力影响到澳大利亚记者关于中国的报道。</p>
-<p>还有人质疑这些澳大利亚媒体是否足够明确地让读者知道《中国观察报》的内容是主观的。</p>
-<p>费尔法克斯驳回这些担忧称：对《中国观察报》有明确的标注，与对待广告的内容没有两样。“我们致力于提供独立的、高质量的新闻，包括有关中国的事宜，这一承诺绝对没有改变”，它说。</p>
-<p>但是，继上个月澳大利亚公共广播电台（ABC）承认其旗舰的澳洲佳（Australia Plus）中文网站“没能坚守编辑程序”之后，对于中澳媒体联营已变得更加敏感。</p>
-<p>在2014年，ABC与上海文化广播影视集团签署了一份独家协议，宣称该协议让西方广播公司最广泛地接触中国观众。ABC的“媒体观察”（Media Watch）节目最近发现，在澳洲佳网站上，一些关于有争议话题的中文相关新闻被重新编辑或删除。</p>
-<p><a href="https://next.ft.com/content/324d82c4-2d60-11e6-a18d-a96ab29e3c95" target="_blank">原文China’s $10bn propaganda push spreads Down Under</a></p>
-<p><em>编译: 赵亮 作者: Jamie Smyth</em></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E6%9A%97%E5%9C%B0%E9%87%8C%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%A4%96%E5%AE%A3%E6%94%BB%E5%8A%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">中国日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BD%AF%E5%AE%9E%E5%8A%9B/?category=18271" rel="tag">软实力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%9F%BA%E5%B1%82%E6%B0%91%E8%AD%A6%EF%BC%9A%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E7%BF%BB%E5%A2%99%E6%9B%9D%E5%AE%B6%E4%B8%91%E8%BF%98%E5%A7%93%E4%B8%8D%E5%A7%93/" target="cdt-mirror">【立此存照】基层民警：《人民日报》“翻墙曝家丑”还姓不姓党了？</a>
-</h2>
-<p><p>中国北京时间2016年6月11日，《人民日报》英语版在推特的官方账号发布了<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/" target="_blank">两名女孩遭深圳警察语言暴力</a>的视频，这个原本似乎能为中国党媒加分的行为，却在微博引来了<strong>基层民警</strong>及部分左派媒体的强烈不满。</p>
-<p><strong>疑有共青团背景的“<a href="http://chinadigitaltimes.net/chinese/2016/04/%E6%BE%B3%E6%B4%B2%E4%BA%BA%E9%AA%82%E5%8D%8E%E4%BA%BAchinaman-%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8B%8D%E6%89%8B%E7%A7%B0%E5%BF%AB/" target="_blank">青年力网</a>”官方账号发布了《人日》推特内容截图，在微博上对@人民日报 发起了质疑：</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%9D%92%E5%B9%B4%E5%8A%9B%E7%BD%91-e1465623939282.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%9D%92%E5%B9%B4%E5%8A%9B%E7%BD%91-e1465623939282.jpg?resize=475%2C715" alt="青年力网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/青年力网-e1465623939282.jpg?w=599 599w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/青年力网-e1465623939282.jpg?resize=199%2C300 199w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong><a href="http://weibo.com/5681482843/DzCPYF0H7" target="_blank">@青年力网</a></strong>：@人民日报 ，这什么意思？</p></blockquote>
-<p><strong>新浪微博认证信息为“浙江省台州市公安局椒江分局民警”的@椒江叶Sir 指责《人日》是故意在墙外宣扬“家丑”：</strong></p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%A4%92%E6%B1%9F%E5%8F%B6Sir3.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%A4%92%E6%B1%9F%E5%8F%B6Sir3.jpg?resize=350%2C214" alt="椒江叶Sir3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir3.jpg?w=1294 1294w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir3.jpg?resize=300%2C183 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir3.jpg?resize=768%2C469 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir3.jpg?resize=1024%2C625 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir3.jpg?resize=80%2C48 80w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a><p><span>@椒江叶Sir 新浪微博认证信息为“浙江省台州市公安局椒江分局民警”；新浪微博截图</span></p></div>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%A4%92%E6%B1%9F%E5%8F%B6Sir1.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%A4%92%E6%B1%9F%E5%8F%B6Sir1.jpg?resize=500%2C501" alt="椒江叶Sir1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir1.jpg?w=2008 2008w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir1.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir1.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir1.jpg?resize=768%2C770 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir1.jpg?resize=1022%2C1024 1022w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir1.jpg?resize=70%2C70 70w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="http://weibo.com/2035895904/DzCTN3079" target="_blank">@椒江叶Sir</a>：人日的意思就是快来看啊，我家出丑闻啦！快来看啊！我发推啦！快来看看我家警察败类是这个样子的啦！快来看人日啦！</p></blockquote>
-<p><strong>将深圳警察事件称之为“家丑”的@椒江叶Sir ，刚刚还在为涉事民警辩护：</strong><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%A4%92%E6%B1%9F%E5%8F%B6Sir2.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%A4%92%E6%B1%9F%E5%8F%B6Sir2.jpg?resize=500%2C288" alt="椒江叶Sir2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir2.jpg?w=2024 2024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir2.jpg?resize=300%2C173 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir2.jpg?resize=768%2C442 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/椒江叶Sir2.jpg?resize=1024%2C590 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p>@椒江叶Sir：小孙这条帖子，我仔细看了，戳到了一些人的痛处，引来大量围攻，不过，以何兵徐昕罗昌平等帐号的言论带上大量的转发，并不代表小孙说错了，小孙讲的是有道理的，从一分为二辩证的角度表达了清晰的意见。我支持！</p>
-<p>@ 小孙警官：警察依法盘查你怎么了？你以为你是谁？你不出示身份证有理了？口头传唤你去派出所核实你的身份有什么问题？哪条法律规定女人就不能盘查？你以为 你是谁？长的漂亮就可以不守法？别忘了《中华人民共和国治安管理处罚法》第五十条 阻碍人民警察依法执行职务的，处5日以上10日以下拘留，可以并处500元以下罚款。警察态度过于严厉，有瑕疵，有发泄情绪的嫌疑，但警察积极履职 盘查行为合法，无过错！</p></blockquote>
-<p><strong>微博认证信息为“武汉市公安局民警”的@z小明童鞋z 指责《人日》是“翻墙出去曝家丑”，是“汉奸媒体”：</strong></p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z%E5%B0%8F%E6%98%8E%E7%AB%A5%E9%9E%8Bz2.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z%E5%B0%8F%E6%98%8E%E7%AB%A5%E9%9E%8Bz2.jpg?resize=350%2C288" alt="z小明童鞋z2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z小明童鞋z2.jpg?w=1028 1028w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z小明童鞋z2.jpg?resize=300%2C247 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z小明童鞋z2.jpg?resize=768%2C632 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z小明童鞋z2.jpg?resize=1024%2C843 1024w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a><p><span>@z小明童鞋z 微博认证信息为“武汉市公安局民警”；新浪微博截图</span></p></div>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z%E5%B0%8F%E6%98%8E%E7%AB%A5%E9%9E%8Bz-.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z%E5%B0%8F%E6%98%8E%E7%AB%A5%E9%9E%8Bz-.jpg?resize=500%2C501" alt="z小明童鞋z" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z小明童鞋z-.jpg?w=2010 2010w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z小明童鞋z-.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z小明童鞋z-.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z小明童鞋z-.jpg?resize=768%2C770 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z小明童鞋z-.jpg?resize=1021%2C1024 1021w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/z小明童鞋z-.jpg?resize=70%2C70 70w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="http://weibo.com/2059161420/DzDM5iwJm" target="_blank">@z小明童鞋z</a>:@人民日报 翻墙出去曝家丑，这是党媒姓党吗？这是讲规矩有纪律吗？现在出来说自己的主子翻墙是依法治国？是督促改正？我看就是不折不扣的汉奸媒体在向主子摇尾邀功！<img title="[怒]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]" data-recalc-dims="1"></p></blockquote>
-<p><strong>微博认证信息为襄阳市公安局民警的@襄阳小邢警  指《人日》作为“汉奸”是急着要“纳投名状”：</strong></p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%A5%84%E9%98%B3%E5%B0%8F%E9%82%A2%E8%AD%A6-1-e1465626552520.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%A5%84%E9%98%B3%E5%B0%8F%E9%82%A2%E8%AD%A6-1-e1465626552520.jpg?resize=350%2C277" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/襄阳小邢警-1-e1465626552520.jpg?w=882 882w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/襄阳小邢警-1-e1465626552520.jpg?resize=300%2C237 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/襄阳小邢警-1-e1465626552520.jpg?resize=768%2C608 768w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a><p><span>@襄阳小邢警 认证信息为襄阳市公安局民警；新浪微博截图</span></p></div>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%A5%84%E9%98%B3%E5%B0%8F%E9%82%A2%E8%AD%A6.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%A5%84%E9%98%B3%E5%B0%8F%E9%82%A2%E8%AD%A6.jpg?resize=500%2C499" alt="襄阳小邢警" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/襄阳小邢警.jpg?w=2014 2014w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/襄阳小邢警.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/襄阳小邢警.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/襄阳小邢警.jpg?resize=768%2C766 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/襄阳小邢警.jpg?resize=1024%2C1021 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/襄阳小邢警.jpg?resize=70%2C70 70w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="http://weibo.com/1804898121/DzEasswPp" target="_blank">@襄阳小邢警</a>：人日这是要急着纳投名状吗？</p></blockquote>
-<p><strong>微博信息显示为老河口市公安局任刑警大队民警的非认证账号@绯色天空下的叶子，指责《人日》是在“帮国外分裂主义炒作中国没人权”，要改报“赶紧关门”：</strong></p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%BB%AF%E8%89%B2%E5%A4%A9%E7%A9%BA%E4%B8%8B%E7%9A%84%E5%8F%B6%E5%AD%90.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%BB%AF%E8%89%B2%E5%A4%A9%E7%A9%BA%E4%B8%8B%E7%9A%84%E5%8F%B6%E5%AD%90.jpg?resize=300%2C741" alt=" 老河口市公安局 刑警大队民警 " srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/绯色天空下的叶子.jpg?w=834 834w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/绯色天空下的叶子.jpg?resize=121%2C300 121w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/绯色天空下的叶子.jpg?resize=768%2C1897 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/绯色天空下的叶子.jpg?resize=415%2C1024 415w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"></a><p><span>非认证账号@绯色天空下的叶子 在微博信息中称自己在老河口市公安局任刑警大队民警；新浪微博截图</span></p></div>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%BB%AF%E8%89%B2%E5%A4%A9%E7%A9%BA%E4%B8%8B%E7%9A%84%E5%8F%B6%E5%AD%901.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%BB%AF%E8%89%B2%E5%A4%A9%E7%A9%BA%E4%B8%8B%E7%9A%84%E5%8F%B6%E5%AD%901.jpg?resize=500%2C520" alt="绯色天空下的叶子1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/绯色天空下的叶子1.jpg?w=2014 2014w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/绯色天空下的叶子1.jpg?resize=288%2C300 288w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/绯色天空下的叶子1.jpg?resize=768%2C799 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/绯色天空下的叶子1.jpg?resize=984%2C1024 984w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p>@绯色天空下的叶子：这是要多媚外才能做出这种事儿？摆明了帮国外分裂主义炒作中国没人权嘛，人日你们赶紧关门好了@人民日报</p></blockquote>
-<p><strong>天津《今晚报》微博官号对《人日》英语班的质疑：</strong></p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%BB%8A%E6%99%9A%E6%8A%A5.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%BB%8A%E6%99%9A%E6%8A%A5.jpg?resize=500%2C501" alt="天津《今晚报》" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/今晚报.jpg?w=1574 1574w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/今晚报.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/今晚报.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/今晚报.jpg?resize=768%2C769 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/今晚报.jpg?resize=1024%2C1024 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/今晚报.jpg?resize=70%2C70 70w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>天津《今晚报》新浪微博认证账号截图</span></p></div>
-<blockquote><p><a href="http://weibo.com/1960785875/DzDQUAK1M" target="_blank">@今晚报</a>：提升话语权，就靠这个？//@晓越晓:平时嘛就发些鸡汤啊无关紧要的图片娱乐外国友人，现在嘛自然要发挥他们热心服务外国xx的长处呀，人日在fb的中文版更扯蛋，就发些明星啦八卦啦，简直小报一样</p></blockquote>
-<p><strong>《国际观察报》更是将《人日》的英语推描绘成一幅“汉奸向主子邀功”的画面：</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%9B%BD%E9%99%85%E8%A7%82%E5%AF%9F%E6%8A%A5.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%9B%BD%E9%99%85%E8%A7%82%E5%AF%9F%E6%8A%A5.jpg?resize=500%2C480" alt="国际观察报" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际观察报.jpg?w=1580 1580w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际观察报.jpg?resize=300%2C288 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际观察报.jpg?resize=768%2C738 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际观察报.jpg?resize=1024%2C984 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="http://weibo.com/guojiguanchabao" target="_blank">@国际观察报</a><i title="微博机构认证"></i>：匆匆忙向上级汇报的既视感<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">（模拟台词:“司令，那边好像出乱子了，这是天赐良机呀，您看我们是不是……”<img title="[睡]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/96/huangliansj_org.gif" alt="[睡]" data-recalc-dims="1">）</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2609218507" target="_blank">@狂简2012</a>：<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">我们王布长让外国记者来中国看一看也就是客气客气，谁让丫真的把真相透出来了！</p>
-<p><a href="http://weibo.com/weilai732016" target="_blank">@黄大暖宝宝</a><i title="微博达人"></i>：家丑这个词用得精妙<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"><img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"></p>
-<p>@故事的事儿呀：原来家丑捂住了就是没有呀，我们的警察就这点文化呀，此地无银三百两，真的可以掩耳盗铃吗？不去解决问题，却去发现监督问题的人，就这水平呀，自信呢？</p>
-<p>@2016金水：在全面依法治国下，公务员，警务人员口中的“家丑”“老百姓”等词汇，显示出他们的“家长制”作风。为人民服务，这几个字，是最大的，“家长制”思维模式。</p>
-<p>@虾恶经理：你们同行出了丑，你觉得党妈媒体报道了，你心寒是吧？告诉你，这就是尿壶的下场，别以为总有党妈给你罩着，党妈抛弃起来，你的命不比老百姓值钱。</p>
-<p>@经年__：你也知道这是丑闻了？之前不是还在洗白么？</p>
-<p>@王甫律师：出丑后就认为是家丑，欺负老百姓时咋不想着和老百姓是一家人少欺负着点？你这思路有问题。</p>
-<p>@周泽律师: 我有点不知道是支持人民日报还是支持人民警察了。</p>
-<p>@酱油中的地沟油：早上刚撕完广电总局，下午人民日报就撕回去。金字塔尖尖的斗争越来越有意思了。</p>
-<p>@猪嘴小新：人民日报也是主子啊，主子之间撕逼还轮不到下人管吧。</p>
-<p><a href="http://weibo.com/3196469842" target="_blank">@坐在坟头忽悠鬼88</a>：木有看警察都已经给人日定性了<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" px data-recalc-dims="1">翻墙，反党卖国<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" px data-recalc-dims="1">这罪大了<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" px data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1460422964" target="_blank">@灵魂出壳</a><i></i>：人家日报是奉旨翻墙，你一个小网站小警察也敢来咬人民日报向圣上献媚？你丫配么<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1738014005" target="_blank">@曺圭旭_</a><i title="微博达人"></i>：作为警察，说出这样的话，有明显护短的嫌疑。人民日报不是警察日报<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">你们一直在说骂人有错但是执法没错，人民想说的是执法没错但是骂人有错。没想到我们国家的警察是这样的警察，失望。</p>
-<p>@梧桐散人：家丑岂能外扬？要么是内奸，要么是王大使的仇人！</p>
-<p>@吾沉子浮鱼鸟各适：这位家丁竟然知道丑，你同行做得出来还不许别人知道？你把屎捂被窝里就不臭了</p>
-<p>@宏宏喝红茶：哈哈哈哈一出好戏，狗咬狗</p>
-<p><a href="http://weibo.com/5730874952" target="_blank">@爱你国啊爱你国</a>：看这条微博的转发和评论，意识形态斗争非常激烈啊。<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee908b.png?resize=20%2C20" px data-recalc-dims="1">妈的一群狗东西，人民日报都比你们有良心。</p>
-<p><a href="http://weibo.com/5578575399" target="_blank">@犬儒至死</a>：<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"> 我不打算说服评论里拿 家丑 类比的家畜。 如果你感到这件事是丑陋的，那么让更多人意识到它的存在并重视有什么不对 发现问题才可能使其被改正不是吗？</p>
-<p><em><a href="http://weibo.com/1665808371" target="_blank">@平民王小石</a>：这只是一个个案，而且深圳警方迅速回应要进行调查处理。人民日报这是在推特上表达什么呢？要无限放大警民矛盾？<img title="[吃惊]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f4/cj_org.gif" alt="[吃惊]" data-recalc-dims="1"></em></p>
-<p><em>@国旗-28划生万岁：这妥妥的贴心给洋大人人权观察送弹药的呀。这样做是说明人民日报推特姓推墙不姓党了？</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%9F%BA%E5%B1%82%E6%B0%91%E8%AD%A6%EF%BC%9A%E3%80%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E3%80%8B%E7%BF%BB%E5%A2%99%E6%9B%9D%E5%AE%B6%E4%B8%91%E8%BF%98%E5%A7%93%E4%B8%8D%E5%A7%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%B7%AF%E5%85%9A/?category=18271" rel="tag">带路党</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -706,7 +659,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -716,5 +669,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

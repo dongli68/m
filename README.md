@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,88 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%9F%90%E4%B8%AA%E7%89%B9%E5%AE%9A%E7%9A%84%E5%88%87%E9%9D%A2%E4%B8%8A-%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E5%B0%91%E6%95%B0%E6%B4%BE/" target="cdt-mirror">歪理邪说 | 某个特定的切面上 人人都是少数派</a>
+</h2>
+<p><p>6月12日，也就是昨天，美国佛罗里达州奥兰多发生了美国历史上最大规模的枪击案，总共50人死亡，53人受伤。对于美国这很可能是一次如同911一般严重的恐怖袭击，甚至可能是一次转折点。本来我以为会和半年前的法国巴黎恐怖袭击一样，有无数人写文章谈及此事。但之后奇怪的事情发生了，这么严重的事件在中国新闻网站上竟然上不了头条，而且一天之后，关于这件事已经被新闻网站们挪到了不起眼的位置，而且目标竟然转移到美国应该不应该禁枪上，平时忙着抢流量找热点的自媒体更是鸦雀无声。和菜头在他的收费订阅号上写了唯一一篇我认为三观正常的文章，他在文中也提到了，这是他上网这么多年来见过最诡异的事件。这和我的感受完全相同。</p>
+<p>经过很多朋友的提醒和各种分析，原因应该归结于受害者都是同性恋群体。因为对比同样牵扯极端穆斯林势力的巴黎恐怖袭击，中国互联网四处充满了“今夜我们都是巴黎人”，但是这一次并没有“今夜我们都是奥兰多人”，这显然不该归结于宗教原因导致的缄默。</p>
+<p>我一直认为中国社会发展的相当快，除了一些众所周知的禁区，其他方面相当开放，对于LGBT群体的态度也是合法化国家之外最友好的一个，但这一次的事件彻底打破了我这种印象。尤其是看到各种中文新闻和微博评论中赤裸裸对同性恋群体的仇视和幸灾乐祸，实在是令人难以接受。</p>
+<p>我不是LGBT群体中的一员，但我一直把一个社会对于LGBT群体的态度做为文明的试金石之一，因为这种态度的本质是人们如何对待那些和自己不同的人，是否可以在对自己无害的情况下接受别人与自己不同的生活方式。是的，很多科学研究说明LGBT是先天生理原因造成的，但这不重要，无论是不是先天的，最终表现出来的结果就是有一些人选择了不同的生活方式。从这个角度看，同性恋和异性恋毫无区别，同样，这和有人选择不结婚，有人选择不要孩子，有人选择不上大学，有人选择做不赚钱的事，有人养猫，有人养狗，有人出国有人生活在北上广深有人回到家乡之类的事情一样，都是纯粹个人的事，和别人没有关系。而现代社会文明的一个基本底线就是尊重别人不同的选择。我们每一个人都会做出一些和别人不一样的选择，在某一个特定的切面上，人人都有可能成为少数派，最终都有可能成为受害者，如果你觉得这个太夸张的话，豆瓣有一个小组叫做《父母皆祸害》，充分展示了以家庭传统为名干涉孩子选择的结果。</p>
+<p>一只黑猫和一只黄猫有什么区别吗？今天大部分人显然会回答没有区别。但在中世纪区别就大了，黑猫就理所应当被活活烧死，人们还围着被烧得嗷嗷惨叫的猫跳舞唱歌庆祝，原因仅仅是因为一些宗教领袖把黑猫定义为魔鬼的宠物，人们就把大批的猫扔到火里面烧死，还做为庆典。今天的人恐怕想都不愿意想这么残忍的情景，但在那个时代，这竟然是正义而快乐的事。对LGBT的歧视，简直就是现代版的烧猫庆典，人们就这么漠视奥兰多的血流成河。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/shaomao.jpg?resize=600%2C476" alt="shaomao" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/shaomao.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/shaomao.jpg?resize=300%2C238 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>图1：法国人曾经就是这么烧猫的</p></div>
+<p>这几天英文新闻里面常见的一个说法是：Love is love is love is love is love is love is love is love is love（就这么长，可以任意重复写多少次），这本来就是这个彩虹月的主题，意思是爱和爱之间并没有什么不同，爱情可以产生在任何性别组合之间，它们都是一样的，爱就是爱。在奥兰多枪击案之后，这句话成了成为对LGBT群体的支持。长期以来，很多人对彩虹月的自豪大游行颇有微词，觉得过于高调，过于政治正确了。但这一次事件恰恰说明了，LGBT群体仍然是最容易遭受迫害的群体，哪怕是在美国仍然如此。中国互联网上对此的缄默无声，说明了同样的问题，他们甚至在被残酷杀害之后都得不到社会应有的纪念，这显然是不应该的，爱就是爱，生命就是生命。</p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>我没有特别指某一种宗教，这倒不是因为担心被报复，而是因为歧视并不仅仅由极端保守派宗教势力产生。歧视广泛存在在人群之中，只是以“这样对你好”，或者以“圣训如此”的名义去干涉别人的时候，往往更显得心安理得。在今天，信息已经如此发达的时代，稍微花一些时间就可以轻松了解那些和自己不同的人群如何生活和他们的想法，如果能放下各种束缚，单从人性的角度去考虑问题，相信也不难得出“他们和我们并无区别”这个结论。遗憾的是很多人并不愿意这么做。</p>
+<p>最终杀死人的确实是枪，但驱动枪的力量，是仇恨，对于少数群体的仇恨通常来源于歧视。避免歧视并不仅仅是为了特定的少数群体（比如LGBT），还是回到中世纪，开始他们歧视黑猫，只烧黑猫，但慢慢的，歧视开始转向猫，什么猫都烧，再然后，养猫的女人就容易被怀疑是女巫，一起烧死。等猫被杀光之后，老鼠开始泛滥，鼠疫来了，这一次，大规模无差别死掉的就是人了…</p>
+<p>参考备注：</p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<ul><li>图1：Cats thrown into the bonfire in the Place de Greve Paris during the night of the summer solstice 作者 Jacques Onfray de Breville，现存于巴黎装饰艺术图书馆</li>
+<li>标题图，我市LGBT社区制作的，“为奥兰多守夜”活动的宣传图。</li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%9F%90%E4%B8%AA%E7%89%B9%E5%AE%9A%E7%9A%84%E5%88%87%E9%9D%A2%E4%B8%8A-%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E5%B0%91%E6%95%B0%E6%B4%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB/?category=18271" rel="tag">中国新闻</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%85%E5%AE%B9/?category=18271" rel="tag">包容</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B/?category=18271" rel="tag">同性恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%94%BE/?category=18271" rel="tag">开放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE/?category=18271" rel="tag">政治正确</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E7%AB%AF/?category=18271" rel="tag">极端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%AA%E5%87%BB%E6%A1%88/?category=18271" rel="tag">枪击案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4/?category=18271" rel="tag">歪理邪说</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/?category=18271" rel="tag">生活方式</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E5%8E%86%E5%8F%B2/?category=18271" rel="tag">美国历史</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%86%85%E8%92%99%E5%8F%A4%E7%9B%B2%E4%BA%95%E6%A1%88%EF%BC%9A%E4%B8%BA%E8%AF%88%E9%AA%97%E5%B7%A8%E9%A2%9D%E8%B5%94%E5%81%BF%E4%BC%AA%E9%80%A0/" target="cdt-mirror">端传媒 | 内蒙古“盲井案”：为诈骗巨额赔偿伪造矿难杀害17人</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150e8dffb72542c0bd9d6f0ddded46ce.jpg?resize=600%2C400" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150e8dffb72542c0bd9d6f0ddded46ce.jpg?w=1080 1080w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150e8dffb72542c0bd9d6f0ddded46ce.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150e8dffb72542c0bd9d6f0ddded46ce.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150e8dffb72542c0bd9d6f0ddded46ce.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>案中七十四名疑犯涉嫌伪造十七起矿难。图为内蒙古一个煤矿。</p></div>
+<p>除了恶劣的井下工作环境，最近曝光的一起恶意杀人案件显示，中国的矿工们下井时甚至有可能面临比电影中更为残忍、恐怖的谋杀陷阱。</p>
+<p>6月6日，内蒙古自治区检察院公告，已对74名被告提起公诉。主要罪名是他们涉嫌故意杀害17名矿工，并将死亡原因伪造成假矿难，再假装成死者家属、骗取矿难赔偿款。被告分属不同团伙，但手法相近，在山西、内蒙古等6省作案。</p>
+<p>根据财新网的报道，这些嫌疑人手段极其残忍，基本上都是以招工为名，将死者骗到矿上打工，之后寻机作案将人打死并伪装现场。</p>
+<p>嫌疑人瞄准的通常是智力低下的流浪汉，或是单身打工者。杀人后，作案者会立即电话通知扮演亲属的团伙，有人扮妻、有人扮子女。他们假装从外地赶来和矿主谈判，通常要价40万至80万人民币不等；达成协议后迅速将死者火化。之后杀人者与假亲属再约定分赃，甚至会将死者骨灰倒进马桶冲走。</p>
+<p>中国的矿井工作条件极为恶劣：根据官方2009年公布的数据，平均每天有7人在矿难中丧生，中国煤产量占全球煤产量37%，但矿难死亡人数却占全球70%。这一数据在近年大幅降低，2013年的矿难死亡人数已降至1067人。但为息事宁人，仍有中小矿主瞒报死亡，选择与家属私了。正是这种做法，催生了制造假矿难的杀人案件。</p>
+<p>此次被公诉的嫌疑人年龄在30岁上下，大部分是云南盐津县农民。案件之所以被曝光，源于2014年发生在内蒙古的一起矿难。当时警方意外发现，一名原本应该死去的受害者幸存了下来。</p>
+<p>这一案件被舆论比喻成电影《盲井》的现实版。这部2003年的电影，讲述的同样是伪造矿难杀人事件。但更残酷的是，在现实中，有知情者怀疑死亡人数远远不止17人，因有些遇害者的尸骨被迅速火化而无法鉴定。</p>
+<p>官方新华网也表示，这类作案手法之所以能够得逞，地方政府监管不严同样是重要原因。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%86%85%E8%92%99%E5%8F%A4%E7%9B%B2%E4%BA%95%E6%A1%88%EF%BC%9A%E4%B8%BA%E8%AF%88%E9%AA%97%E5%B7%A8%E9%A2%9D%E8%B5%94%E5%81%BF%E4%BC%AA%E9%80%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%AA%E9%80%A0/?category=18271" rel="tag">伪造</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AB%8C%E7%96%91%E4%BA%BA/?category=18271" rel="tag">嫌疑人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">杀人事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A1%88%E4%BB%B6/?category=18271" rel="tag">案件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B5%81%E6%B5%AA%E6%B1%89/?category=18271" rel="tag">流浪汉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%A4%E7%9F%BF/?category=18271" rel="tag">煤矿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E5%BD%B1/?category=18271" rel="tag">电影</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%B2%E4%BA%95/?category=18271" rel="tag">盲井</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E9%BC%93%E5%8A%B1%E7%94%B7%E6%80%A7%E4%B8%BA%E5%9B%BD%E6%8D%90%E7%B2%BE/" target="cdt-mirror">纽约时报 | 中国官方鼓励男性“为国捐精”</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/00wit_china-sperm-articleLarge-v2.jpg?resize=600%2C400" alt="00wit_china-sperm-articleLarge-v2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/00wit_china-sperm-articleLarge-v2.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/00wit_china-sperm-articleLarge-v2.jpg?resize=300%2C200 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>如果你是20岁至45岁的中国男人，那么政府有一条消息要传达给你：为了国家，请捐精。</p>
+<p>由于各种政治和文化原因，中国的很多精子库严重缺精。相对而言，中国男人很少捐精。一项研究发现，近半数自愿捐精者遭到淘汰。</p>
+<p>由于中国政府允许更多夫妻生二孩，包括年纪较长的夫妻，所以官员们担心精子短缺的情况将会更严重——他们竭尽全力寻找新的捐精者。</p>
+<p>在社交媒体上，年轻男子不断收到各种激励，如电子游戏角色的代言推荐和现金承诺（某些项目提供高达1000美元），更吸引人的还有很多人梦寐以求的玫瑰金iPhone。</p>
+<p>有些精子银行努力激发人们的爱国主义情绪，因为中国正在努力应对人口老龄化、劳动力减少的问题。“拿出你的同情心，”一家国营新闻网站今年的一篇文章这样号召男人们，“帮助国家缓解老龄化问题。”</p>
+<p>不过，实现起来依旧很难。首先，中医一直把精子储备与人体活力联系在一起，有些男人因此不愿捐精。另外，尽管不孕不育的比例在升高，但是很多家庭对使用不相干的男人的精子生孩子感到不舒服，认为那违背儒家价值观。</p>
+<p>最近的一些广告努力对抗这些根深蒂固的观念。“捐精和捐血是一样的，”北京一家精子银行发布了这样的信息，“都是回馈社会。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E9%BC%93%E5%8A%B1%E7%94%B7%E6%80%A7%E4%B8%BA%E5%9B%BD%E6%8D%90%E7%B2%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E5%AD%95%E4%B8%8D%E8%82%B2/?category=18271" rel="tag">不孕不育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B7%E5%8F%AC/?category=18271" rel="tag">号召</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8D%90%E7%B2%BE/?category=18271" rel="tag">捐精</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E9%BE%84%E5%8C%96/?category=18271" rel="tag">老龄化</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%A7%E5%90%8C%E6%80%9D%E6%83%B3%E7%BD%91-%E3%80%8A%E5%AD%A6%E4%B9%A0%E6%97%B6%E6%8A%A5%E3%80%8B%E9%80%86%E5%A4%A9%E4%BA%86-%E7%A7%B0%E4%B9%A0%E5%A4%A7%E5%A4%A7%E4%B8%BA%E4%B8%80/" target="cdt-mirror">大同思想网 | 《学习时报》逆天了 称习大大为”一介儒生“</a>
 </h2>
 <p><p><strong>原标题</strong>：一介儒生的文化情结——《习近平时代》选载</p>
@@ -635,108 +714,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%87%A4%E5%87%B0%E8%AF%84%E8%AE%BA-%E6%AF%94%E5%A8%81%E8%83%81%E8%BF%87%E8%B7%AF%E5%A5%B3%E5%AD%A9%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E9%82%A3%E4%BA%9B%E6%B4%97%E5%9C%B0/" target="cdt-mirror">凤凰评论 | 比威胁过路女孩更可怕的是那些“洗地警”</a>
-</h2>
-<p><p>凤凰评论家：ifengopinion</p>
-<p>作者：敬一山</p>
-<blockquote><p><strong>没有谁否认警方有执法权，问题是权力的边界和执法的规范。面对争议执法，不讨论细节是非，只以“有瑕疵”一笔带过，而去高调宣扬理论上的执法权，有极大的洗地之嫌。</strong></p></blockquote>
-<p>深圳宝安两个女孩过马路被警察盘查，进而被警察强制传唤。警车上双方语言冲突，警察说了一些情绪激烈的言辞——“今天就是你自己犯贱”“我要把你们跟那些小偷、艾滋病、强盗关到一起去，让你们享受去”等，用保安区公安分局局长的话说，“看了视频，反应就是两个字‘愤怒’”。</p>
-<blockquote><p>相关阅读：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/">【CDTV】深圳警察：把你和艾滋病、小偷、强盗关在一起好好享受！</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/2016/06/psy-eyes-%E6%B7%B1%E5%9C%B3%E9%99%88sir%E4%B8%8E%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%AF%B9%E8%AF%9D%E6%B3%84%E9%9C%B2%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E6%80%A7%E6%AC%BA%E5%87%8C%E6%84%8F%E8%AF%86/">psy-eyes | 深圳陈sir与女孩的对话泄露了怎样的性欺凌意识</a></p></blockquote>
-<p>事件因为涉事警察被停职，当地警方公开道歉，而逐步进入尾声。本来这是一起个案，讨论清楚各方是非，该道歉道歉、该问责问责，照章办事就可以。但值得注意的是，事件在网上呈现和讨论的过程中，一些警方身份的网友和普通网友之间，却再度变成站队和舆论对抗，很难达成对话和共识。</p>
-<p>比较有代表性的警察发言，是这样的：</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-%E4%B8%8A%E5%8D%8810.49.20.png?resize=574%2C244" alt="Screen Shot 2016-06-11 at 上午10.49.20" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.49.20.png?w=574 574w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.49.20.png?resize=300%2C128 300w" sizes="(max-width: 574px) 100vw, 574px" data-recalc-dims="1"></p>
-<p>这位警官发言下面的跟帖，既有纷纷赶去批评的网友，也有不少力挺他的警察同行。这几乎已成了类似事件之后的舆论标配。</p>
-<p>在每一次警察不规范执法之后，总有警察群体抱团捍卫他们的执法权。好像在现实中，他们的执法权受到多大的阻碍似的，可现实情形是，大街上极少有人能抗拒警察的执法，无论那是规范的还是不规范的。</p>
-<p>所以，担心警察执法权得不到保障，根本就是个伪问题，现实问题是怎么保证警察规范执法。没有谁否认警方有执法权，问题是权力的边界和执法的规范。面对争议执法，不讨论细节是非，只以“有瑕疵”一笔带过，而去高调宣扬理论上的执法权，有极大的洗地之嫌。</p>
-<p>在警察盘查过路女孩这件事中，该讨论和厘清的，是警察有没有权力把没有任何犯罪嫌疑的过路女孩扭送到派出所去？警察盘查路人，总要有符合常理的“嫌犯特征”，而不能警察看谁不爽，就肆无忌惮地冲着谁行使所谓执法权。</p>
-<p>理论上的执法权经不住现实的检验，还在一味地强调那个权力，对现实的伤害视而不见，甚至要抹黑受害者，这岂非别有用心？</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-%E4%B8%8A%E5%8D%8810.49.59.png?resize=598%2C334" alt="Screen Shot 2016-06-11 at 上午10.49.59" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.49.59.png?w=598 598w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.49.59.png?resize=300%2C168 300w" sizes="(max-width: 598px) 100vw, 598px" data-recalc-dims="1"></p>
-<p>在类似事件中，还经常有警察举美国警察不容侵犯的例子，但他们却不提美国警察受到的监督和约束。在要求盛气凌人、扩大执法权时忙着和国际接轨，但在规范执法的时候则坚持中国国情，这样的警察心态，比一两个“情绪化执法”的警察更让人觉得恐惧。</p>
-<p>正因为现实太多无奈，网上相应的吐槽会多一些。在恶性个案之后，也难免有网民情绪化扩大批评对象。这当然不值得提倡，但也算是言论场很难避免的杂音。那些动不动喜欢说美国警察执法多么强悍的警察们，如果多看看美剧，多看看网上美国人对警察的吐槽，他们也许就不会看到几句批评就觉得受到多大的冒犯，就觉得自己的权威受到多大的侮辱。</p>
-<p>因为警察手握权力和武器，当然要比普通公民更多克制。一方面拥有强制权力，另一方面还排斥舆论监督，要在语言上也全面压制公民，这就未免太过霸道。</p>
-<p>现在涉事警察被处理、当地警局道歉，但网上捍卫执法权的警察还有不少。正是他们把个案问题扩大化，令原本正当的执法权也变得令人疑惧，因为他们总在不断神话执法权、排斥监督。这种事实上的敌对心态很值得警惕。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%87%A4%E5%87%B0%E8%AF%84%E8%AE%BA-%E6%AF%94%E5%A8%81%E8%83%81%E8%BF%87%E8%B7%AF%E5%A5%B3%E5%AD%A9%E6%9B%B4%E5%8F%AF%E6%80%95%E7%9A%84%E6%98%AF%E9%82%A3%E4%BA%9B%E6%B4%97%E5%9C%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">国家暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3/?category=18271" rel="tag">深圳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">深圳警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%E8%BE%B1%E9%AA%82%E4%B8%A4%E5%A7%90%E5%A6%B9/?category=18271" rel="tag">深圳警察辱骂两姐妹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/psy-eyes-%E6%B7%B1%E5%9C%B3%E9%99%88sir%E4%B8%8E%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%AF%B9%E8%AF%9D%E6%B3%84%E9%9C%B2%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E6%80%A7%E6%AC%BA%E5%87%8C%E6%84%8F%E8%AF%86/" target="cdt-mirror">psy-eyes | 深圳陈sir与女孩的对话泄露了怎样的性欺凌意识？</a>
-</h2>
-<p><p>作者：唐映红</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-%E4%B8%8A%E5%8D%8810.43.52.png?resize=494%2C347" alt="Screen Shot 2016-06-11 at 上午10.43.52" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.43.52.png?w=494 494w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.43.52.png?resize=300%2C211 300w" sizes="(max-width: 494px) 100vw, 494px" data-recalc-dims="1"></p>
-<p>SQ&A160611</p>
-<p><strong>问：深圳陈sir与女孩的对话泄露了怎样的性欺凌意识？</strong></p>
-<p>答：昨天，关于一则深圳警员因盘查将两名过马路的无辜女孩带回警局问讯路途中的对话视频引爆了社交网络，激起来从北京雷洋事件、上海交警动不动就铐女车手现象以来，<strong>民众对警权滥用不断加深的担忧和焦虑。</strong>事情曝光后，深圳地方警局迅速做了处理，涉事警员被停职、学习，警局副局长向两名女孩陈恳道歉。应该说，至少从表面上来看，<strong>深圳警方的态度远较另两个大都市警方要好太多。</strong>涉事警员尽管在于女孩的对话中极其嚣张，并不时威胁和涉嫌言语的性欺凌，但能够允准女孩用手机录下整个过程，反映了这位<strong>陈sir并不是真正意义上的“坏”警员，</strong>不像其它地方将录像的无辜市民殴打致死并栽陷其为嫖娼，或者将录像的大学生屁股打得血肉模糊。另一方面，也反映了<strong>陈sir对自己的言行充满自信，不以为怵。</strong></p>
-<blockquote><p>相关阅读：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/">【CDTV】深圳警察：把你和艾滋病、小偷、强盗关在一起好好享受！</a></p></blockquote>
-<p>抛开这则事件后面的法律问题，下面仅就视频中陈sir与女孩对话中明显带有性欺凌色彩的话语以及背后的心理略加分析。</p>
-<p>首先，从视频中可以看出，涉事陈sir是在<strong>愤怒</strong>的情况下与女孩产生了言语冲突。从心理学角度，人们在愤怒时，身体内的激素会产生相应的变化，一是<strong>睾丸酮(Testosterone)激素水平会上升</strong>，睾丸酮既是性唤起的主要激素，也是促使人们产生攻击行为的主要激素。这导致<strong>人们在愤怒的情绪下，会产生明显甚至强烈的生理唤醒，这种强烈的生理唤醒既可以表现为纯粹的攻击或侵犯，也可能表现为夹杂着性唤起的侵犯。</strong></p>
-<p>心理学家伯科威茨(Leonard Berkowitz)在他提出的具有普适性的侵犯理论认为，人们处于愤怒情绪，会导致生理唤醒。但这种因愤怒而导致的生理唤醒是否表现出攻击或侵犯行为，则要取决于情境中的另一个变量，即所谓的<strong>侵犯线索</strong>。例如，一个愤怒的人看到一把枪，那么他就更可能表现出侵犯行为来。可是，<strong>如果情境中呈现的不是侵犯线索，而是性线索，那么愤怒就可能表现出带有性色彩的侵犯或者欺凌现象。</strong></p>
-<p>愤怒导致人们身体内激素水平的变化另一因素是<strong>血清素水平受到抑制</strong>。血清素也就是5-羟色胺(5-hydroxy tryptamine), 它是人们控制冲动，理性决策的很重要的一种大脑神经传递激素。<strong>人们处于愤怒时，血清素水平会受到抑制，表现为行为人理性行为能力下降，冲动控制力薄弱。</strong>生活中，人们常说“<strong>冲动是魔鬼</strong>”，就是因为愤怒会使人们的理性能力严重下降，无法有效控制冲动。</p>
-<p>但从另一个角度，正是因为人们在愤怒中理性决策和冲动控制力受到抑制，所以<strong>人们在愤怒中所展现和表露的言行更可能反映了他内心的真实想法，或者欲望的投射。</strong></p>
-<p>因此，不难从深圳陈sir与女孩的对话中，看到明显的性欺凌色彩。例如，下面这段对话：</p>
-<p><em>　　……</em></p>
-<p><em>　　陈sir：你不懂法律，你就不要在这胡说八道。</em></p>
-<p><em>　　女孩：我们是不懂，我们没读书。</em></p>
-<p><em>　　陈sir：我怀疑你是个男人，你他妈的给我上女厕所干什么，<strong>你脱衣服给我看一下。</strong></em></p>
-<p><em>　　女孩：我刚刚上女厕所了吗？</em></p>
-<p><em>　　……</em></p>
-<p>由于陈sir盘查两名女孩的情境是在<strong>过马路</strong>的时候，所以这段话里所说的<strong>“上女厕所”显然不是陈sir盘查女孩所实际经历过的情境。</strong>但是，在被女孩一再逼问下，陈sir情急之下<strong>幻想</strong>了一种盘查的情境，在这种盘查的幻想情境中，陈sir怀疑两个女孩是男人假扮而试图闯进女厕所，所以要求她们脱衣服来证实自己的性别身份。<strong>这种带有性幻想色彩的假设情境中，一名48岁的中年阿sir可以名正言顺以执法的名义要求“疑似”女孩脱衣服来“给我看一下”。</strong></p>
-<p>由此，不难理解<strong>一名阿sir在被激怒的情况下，因为情境中年轻女孩作为一个性线索，所以导致了他无意识的性唤起，并通过言语不由自主地表达了出来</strong>。</p>
-<p>但是，严格地说，这样的话语已经构成<strong>明显的言语性骚扰</strong>。因为即使在真实的相似情境下，<strong>陈sir也不能要求嫌疑人“脱衣服给我看一下”来确定对方的性别身份，这在任何法律语境下都是不合法的。</strong>即使在紧急的情况下需要现场要求“脱衣服”临检，那也只能由<strong>女警</strong>来执行。</p>
-<p>也就是说，<strong>在说“你脱衣服给我看一下”这段话时候，或许陈sir并没有主观上的故意要对女孩进行言语上的性欺凌，但实际效果却是给女孩施加了性欺凌的压力。</strong>之所以会这样，最大的可能就是这名年届半百的老警员，<strong>从来就没有接受过尊重女性的训练。</strong>一个男人对年轻女孩有性唤起或者性幻想可能发乎本性，但<strong>教养的作用就是要对女性予以起码的尊重，不能将自己动物性的一面不加掩饰地表达出来。</strong>显然，<strong>陈sir并没有学会收敛自己的无意识的性幻想，反而自然而然脱口而出地表达出来。</strong></p>
-<p>从另一段对话中，<strong>陈sir所表达的性欺凌就不是无意识，缺乏教养的流露，而完全是主观上的恶意和习惯上的作派。</strong></p>
-<p><em>　　……</em></p>
-<p><em>　　陈sir：好啊，你们不懂法律我就教教你们，让你们长长见识。</em></p>
-<p><em>　　女孩：你教你女儿去。</em></p>
-<p><em>　　陈sir：<strong>把你跟那些艾滋病，跟小偷，跟强盗关在一起，我让你慢慢去享受我告诉你</strong>，你看着吧。</em></p>
-<p><em>　　女孩：随便你，随便你。</em></p>
-<p><em>　　女孩：你先别说话了。</em></p>
-<p><em>　　陈sir：你以为我是你什么人，我跟你没有什么关系，我就是警察，我在执行我的公务，懂吗？你就必须配合我，你就记住这一条，<strong>今天是你自己犯贱。</strong></em></p>
-<p><em>　　……</em></p>
-<p>在这段话里，陈sir扬言要将无罪的、无辜的女孩与“艾滋病”“小偷”“强盗”关在一起，其用意十分明显，就是<strong>试图用可能遭遇性侵甚至被强奸来威胁和恐吓女孩。</strong>同时，这也反映了将女嫌疑人，或者女犯“<em>跟那些艾滋病，跟小偷，跟强盗关在一起</em>”<strong>可能是一种潜规则的常态</strong>，而这样的后果则是让女性面临着被强暴和感染艾滋病的实际危险中。正如性心理学的研究表明，<strong>强奸在大多数时候并不是简单地为了宣泄性欲，而更主要的是为了彰显权力和实施暴力。</strong>那么，<strong>如果警权没有受到有效的监督和制衡，那么通过令不听话的女嫌疑人、女犯，甚至无辜的女孩面临或遭遇被其他犯人强奸，以此来教训她们“必须配合我”，就很容易成为个别阿sir遏制不住的冲动。</strong></p>
-<p>平心而论，<strong>视频中的陈sir相比于其他同行来说，远远算不上恶劣。</strong>他之所以会成为舆论热议的焦点，以及会因为而遭受处分，很大程度上与他并不恶劣的行为，<strong>允准女孩拍摄视频</strong>而没有加以阻拦或者抢夺过来删除有关。<strong>仅此一点就远远比广西南宁青秀区法院撕律师裤子的阿sir、甘肃兰州榆中打屁股的阿sir、北京昌平抓嫖的阿sir要好太多。</strong></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/psy-eyes-%E6%B7%B1%E5%9C%B3%E9%99%88sir%E4%B8%8E%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%AF%B9%E8%AF%9D%E6%B3%84%E9%9C%B2%E4%BA%86%E6%80%8E%E6%A0%B7%E7%9A%84%E6%80%A7%E6%AC%BA%E5%87%8C%E6%84%8F%E8%AF%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E6%AC%BA%E5%87%8C/?category=18271" rel="tag">性欺凌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3/?category=18271" rel="tag">深圳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">深圳警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%E8%BE%B1%E9%AA%82%E4%B8%A4%E5%A7%90%E5%A6%B9/?category=18271" rel="tag">深圳警察辱骂两姐妹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%94%BF%E8%A7%81-%E9%9D%A2%E5%AF%B9%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95%EF%BC%8C%E4%BD%A0%E4%BC%9A%E6%80%8E%E4%B9%88%E5%81%9A%EF%BC%9F/" target="cdt-mirror">政见 | 面对暴力执法，你会怎么做？</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-%E4%B8%8A%E5%8D%8810.40.33.png?resize=503%2C356" alt="Screen Shot 2016-06-11 at 上午10.40.33" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.40.33.png?w=503 503w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-上午10.40.33.png?resize=300%2C212 300w" sizes="(max-width: 503px) 100vw, 503px" data-recalc-dims="1"></p>
-<p>1974年的一天，约翰·范·曼宁(John Van Maanen)接到一封法院来信，邀请他为一起警察暴力执法事件提供证词，并上缴田野调研笔记。这位如今在麻省理工任教的教授，当年还是位初出茅庐的青年学者，研究主题是警察的执法行为。</p>
-<p>出于对警察的好奇，学生时代的曼宁费劲周折、在教授帮助下获准到警局内部开展调研。作为社会科学研究者，曼宁希望能天衣无缝地融入到研究对象中，毕竟学术研究最忌讳的便是研究对象随研究者的出现而改变言行。换句话说，田野调查方法越自然，观察到的行为和现象就越“原汁原味”。</p>
-<p>为使警察不顾及自己的学生身份，曼宁不仅在警校接受正规培训，还跟随警车不分昼夜地参与巡逻。他是否经历枪林弹雨，我们不得而知，但可以肯定的是，为使自己看起来像一位职业警员，曼宁付出良多。</p>
-<p>赶巧的是，曼宁在研究过程中恰巧目睹了美国警察的暴力执法。一次出勤时，曼宁和两位警官接到小店店主报警，称一位黑人男性在现场制造混乱。警车赶到时，三人发现黑人男子切斯特·布拉泽尔安静地坐在小店外，手握半满的酒瓶。警员骂骂咧咧地把人赶走，在离开的路上还不依不饶地互相抱怨：怎么总碰到这类货色？</p>
-<p>警车正准备离去，警官们发现切斯特再次朝小店的方向走去。余怒未消的警官骤然停车，一把将切斯特按在街头。片刻之后，负责押送罪犯的警用面包车开到。在上车的过程中，切斯特用双手把住车门两侧，拒不上车。</p>
-<p>此时，“嵌入”警察队伍的曼宁目睹了血腥一刻。几位警官全力把切斯特推进车厢，随后传出一阵木头击打肉体的闷响。几分钟后，几乎不省人事的切斯特被拖出车外，戴上手铐，然后又扔回车里。去往医院的路上，参与殴打的警官对开车的同事说：“车里太黑，真不是收拾人的好地方；打到哪里都不知道，所以只能朝一个地方一直打，直到打得那里湿乎乎、软绵绵的。”</p>
-<p>经过医院诊断，伤者三处肋骨骨折，肺部被打透，头部和身体数处划伤，一只眼睛暂时失明。涉事警官在医院餐厅里给切斯特安上许多罪名，如扰乱治安、袭警、携带凶器（一把较锋利的开瓶器）及拒捕等。然而，言之凿凿的报告没有得到警长的认可。事实上，警察需要面对督察的监管，仅凭这份报告，督察或许会问：“为什么不把人关进车里带走？为何非要把人打得血肉模糊？”依照警长的指示，警官们在报告中再次加入了切斯特“踢打警员头部”的情节，加重他的罪名，因为警长相信，罪犯的行为越恶劣，督察对警察的怀疑越小。</p>
-<p>果不其然，当切斯特对警方执法提出质疑时，督察判定警方无过失。曼宁同时也接受了督察的问询，但他仅仅就事论事，没有言及炮制报告的过程。切斯特在警方的劝说下“私了”，双方都既往不咎，将此事画上句号。</p>
-<p>然而，事情没有那么简单。媒体曝光了这一事件，并遭到警察协会的诽谤质控。曼宁目睹了全过程，因此受邀提供证词，并且被要求上缴所有笔记。曼宁究竟会向公众曝光事实真相，还是帮助警察蒙混过关？</p>
-<p>曼宁选择站在警察一方。他的笔记在此案中意义重大，其实前述所有细节都来自曼宁以研究者的态度对现场的记录。但曼宁以学术研究的保密性为由，拒绝上缴笔记。他的逻辑是：我为了贴近警察群体，付出了一切努力；但在涉案执法过程牵扯太多不合理不合法的细节，深究起来可真算是“好人寥寥”。为继续自己的研究，曼宁希望警方保持对自己的信任，选择与警方站在一起。最后，案件不了了之。</p>
-<p>通过这种选择，曼宁也想说明社会科学研究者的道德标准很大程度上要“具体情况具体分析”。如果当时切斯特真的袭警，自己很可能为了朝夕相处的警员挺身而出；如果警方要将切斯特置于死地，自己当然也不会坐视不管。曼宁认为，自己能够做出的最佳选择就是客观记录细节、着意选择公开时机。</p>
-<p>在田野调查中，学者最担心的是过分融入研究对象，以至于对其不合理的行为也视乎寻常。另外，曼宁事后思考，尽管自己极力掩饰其“非警察”的身份，警察是否真得完全没有受到影响？例如，一位名校大学生对基层警察职业表达兴趣，警官因此是不是也会产生“露一手”的冲动？</p>
-<p>这件事情已经过去40多年了，如果你就是那名研究者，面对警方滥伤无辜和互相包庇，你会做出什么样的选择？用今天的眼光看，曼宁对研究者道德操守的理解或许值得进一步商榷。至于警方的暴力执法，真希望它停留在当时当地，停留在那个渐行渐远的时代……</p>
-<div>
-<h4>参考文献</h4>
-<ul><li>Van Maanen, J. (1983). The moral fix: On the ethics of fieldwork. A handbook of social science methods, 1, 227-251.</li>
-</ul></div>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%94%BF%E8%A7%81-%E9%9D%A2%E5%AF%B9%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95%EF%BC%8C%E4%BD%A0%E4%BC%9A%E6%80%8E%E4%B9%88%E5%81%9A%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">国家暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E4%BC%A6%E7%90%86/?category=18271" rel="tag">学术伦理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -748,7 +725,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -758,5 +735,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

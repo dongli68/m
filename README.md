@@ -21,9 +21,130 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5-%E8%B5%B7%E5%BA%95%E8%A3%B8%E6%9D%A1%E7%BD%91%E8%B4%B7%E4%B9%B1%E8%B1%A1/" target="cdt-mirror">南方都市报 | 起底“裸条”网贷乱象</a>
+</h2>
+<p><p>近日，南都记者调查发现，有高利贷团伙通过一些网络借贷平台向大学生提供“裸条放款”，即进行借款时，以借款人手持身份证的裸照替代借条。当发生违约不还款时，放贷人以公开裸照和与借款人父母联系的手段作为要挟逼迫借款人还款。有借款的大学生诉称遇到了这样的麻烦，他们借款的目的多种多样，有的是为了消费，有的是为了救急。</p>
+<p>南都记者进一步了解到，放款者在多个互联网借贷平台提供这一服务，但大多为私下交易，互联网平台只是一个幌子，或者是变相隐藏的手段。</p>
+<p>有高利贷放贷者告诉南都记者，业内向大学生借款一般还会根据学校层级作出区分。专科，只要统招即可，一般专三学生是6000元额度，12个月还清；非毕业班专科生10000元，最多24个月还清，且需在毕业前还清；本科一般不做限制，额度为15000元，最多分36个月还清，重点本科及研究生博士生的额度还会高一些。上述所有产品均可提前还款。</p>
+<p>有受害者表示将在家人陪同下报警，另有借款者通过借钱了解到该途径存在暴利，转而又成为放贷者。对此，有律师表示，借贷平台作为服务提供者，对显而易见的违法信息负有监测排除的义务，特别是经过借贷者反映投诉的，未及时删除、屏蔽，应承担连带责任。</p>
+<p>昨日12时，南都APP率先通过网络独家披露“裸条借贷”事件。当日下午，报道中涉及的Q Q群表示已在网上监控到相关信息。18时许，群主语音指示：“暂时禁言，裸条从现在开始暂时不接。”与此同时，微博等平台中涉及“裸条借贷”的信息也陆续被删除。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/60718250jw1f4tz624ga7j20dw0oq0tx.jpg?resize=440%2C783" alt="60718250jw1f4tz624ga7j20dw0oq0tx" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/60718250jw1f4tz624ga7j20dw0oq0tx.jpg?w=440 440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/60718250jw1f4tz624ga7j20dw0oq0tx.jpg?resize=169%2C300 169w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><strong>危险游戏：</strong></p>
+<p><strong>周息30P0元滚出5.5万</strong></p>
+<p>前晚，南都记者辗转联系上一名自称受害的女大学生李丽(化名)。</p>
+<p>李丽称，今年2月她因为创业，在一家网络借贷平台进行了注册。据其回忆，该平台实行实名制，必须上传身份证、学生证以及填写家庭信息，包括家里人的联系方式。李丽表示，通过该平台她第一次借了500元钱，周利率30%。因为到期没还上，重新借了新债还旧债，周利率仍为30%。利滚利后，李丽更加无法偿还，欠款目前已达5.5万元。</p>
+<p>李丽说，在欠款金额过万时，借款方曾多次向她催款。</p>
+<p>由于不敢声张，李丽想再次通过借新贷还旧债的方式来还款。此时，对方已不再轻易借款，要求其手持身份证拍裸照作抵押，还款后再将照片退还给她。无奈之下，李丽只得照做。很快，新的还款日到了，李丽仍还不上。对方表示，不还的话就会把照片发给其家人甚至公开。</p>
+<p>李丽告诉南都记者，在一些借款QQ群里只要喊一句谁接女生裸条，就会有很多人联系。她身边很多女同学都被卷了进来，但她们不大愿意讲出来。</p>
+<p>按照李丽的介绍，南都记者昨日加入了这一类借款群。</p>
+<p>南都记者在群里以“裸条”为暗语发声，两小时内有不少于5人与记者表达了接单意愿。</p>
+<p>随后，南都记者听从放款人要求，与其添加了QQ好友。</p>
+<p>放款人称，申请者需要先进行信息审核，材料包括素颜照两张、收还款截图、还款记录截图。此外，借款人还需提供年级、负债等情况。</p>
+<p>其称，借款利率为周息30%，“裸条”下款手续费为10%。</p>
+<p>放款人强调，如果到期不还款，裸体照片会被曝光，并与家长联系。</p>
+<p>南都记者在群公告发现了借款人对逾期不还者的警告：“明天24点前！没有回款！将全方位公布”，配图是露半张脸、关键处打码的女生裸照。在群文件中，也有对借款不按期还者的信息公布，包括个人详细信息(电话、电话服务密码、身份证、家庭住址、父母姓名、舍友联系方式等)、身份证正反照、学信网截图、班级QQ群截图、手持身份证裸照等。</p>
+<p>在微博上搜索这家网络借贷平台，南都记者发现不少推广信息，其中一条称：“开始放款了，审核快，无前期，额度500-5000元，只要你敢来，我就敢放。女大学生有限放款。”</p>
+<p>另一条直言，“持续放款中……女大学生裸条，接受的来。”</p>
+<p>此外，网上日前出现的一些打了马赛克的照片，也揭开了“裸条借贷”模式的冰山一角。</p>
+<p>其中一张为彩信截图，发布者发出的短信内容为“2016年4月23日，以男朋友抛弃需要借钱打胎为由，向我司借款一万元，利率为年息24%，约定一周为期归还，结果到期后恶意逾期。当事人借款时留下裸体视频及各位亲友联系方式，承诺……”</p>
+<p><strong>新瓶旧酒：</strong></p>
+<p><strong>“裸条很早就有了”</strong></p>
+<p>据李丽介绍，刚开始借款是通过某知名第三方支付平台进行，在被其禁止后，借款转移到了另一家网贷平台上进行。之所以转移到新平台，主要是因其承诺帮忙催收。</p>
+<p>该网贷平台的协议显示，在符合法律、法规的情况下采取适当方式对借款人进行电话催收、上门催收、信函催收、委托第三方催收、司法诉讼催收、通过电视报刊等媒体进行公告催收等，以及向有关部门或者单位予以通报；对借款人支付账户进行冻结、扣划等操作；对拒不归还欠款的，在该平台或关联平台上向所有用户披露借款人违约信息等。</p>
+<p>李丽介绍，该平台目前最高利息是24%的年化利率，但放款人与出借人都是私下沟通好的，发布时连利息一起发布。比如借5000元，一周利息是1500元，需要在该平台发布6500元需求，借款人先放给她1500元，让李丽还给他，然后再把剩下的5000元钱转给李丽。</p>
+<p>李丽说，有时双方约定利率为0，网贷平台从中不收手续费，而平台盈利主要靠逾期费用。逾期后，账户不得转账提现，会自动划扣余额偿还。而且逾期的账单须一次性全部偿还，不可单独偿还部分账单。南都记者注意到，根据协议，借款人在还款日22：00前未足额偿还借款本金和利息的，宽限期内以截至当日未偿还借款本金为基数，平台按该协议第一条约定的利率计收利息；借款人于宽限期仍未足额偿还借款本金和利息的，自宽限期次日起不再计收利息，而以截至当日未偿还借款本金为基数，以年化24%的罚息利率计收罚息。</p>
+<p>一名来自湖北的李女士(化名)告诉南都记者，她在网络借贷平台已玩了一段时间，有借也有贷。“中介(借贷)一直都有，借钱的时候我一般不找中介，直接找放款人。不过，我放款的时候，会有中介找到我。”李女士说。</p>
+<p>李女士说，一般她与中介谈好后，会直接通过平台交易。交易的钱直接打给借款人的账号，但是每次中介在其中能挣多少差价她并不知道。</p>
+<p>来自云南的张先生(化名)告诉南都记者，这种玩法叫“赚利差”：“比如你在平台发布想借一万元，愿意给20%的利息，还款时间半个月。如果我觉得你靠谱，就会在平台选择‘赚利差’选项，还款时间不能变，但是利息可以改变。如果我改成15%，我的平台好友会看到，也可以接单，好友接单后钱会通过平台转钱给借款人，我从中就能赚取5%的利差。”</p>
+<p>张先生说，中介还有一种方式，挣钱空间更大。与上一种不同的是，当客户有借款需求，中介会通过平台先借好钱，然后转借给客户，这里面的差价完全由中介掌控，如果对方不还钱，中介要垫付，所以损失也只能自己承担。</p>
+<p>张先生2015年7月就注册了账号玩借贷，目前账号融资金额超过3000万。“每个月挣一两万元还是很容易的，但这考验你的判断能力，还款人是否还钱，这些风险都要自己担。”</p>
+<p>“裸条并不是因为网络借贷平台才出现，很早就有了。”张先生说，前几年小额借贷公司很火的时候，他就知道有这种情况。“不止大学生打裸条，出来工作的人也有。我们村里有人打裸条，没还上钱，借贷的人就在村里到处贴小广告，写×××借钱不还，还贴上他的裸照。”</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/60718250jw1f4tz61soefj20dw0oowf7.jpg?resize=440%2C781" alt="60718250jw1f4tz61soefj20dw0oowf7" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/60718250jw1f4tz61soefj20dw0oowf7.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/60718250jw1f4tz61soefj20dw0oowf7.jpg?resize=169%2C300 169w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p><strong>记者调查：</strong></p>
+<p><strong>学历越高贷款额度越高</strong></p>
+<p>为了进一步摸清“裸条借贷”的情况，昨日下午，南都记者找到福州一家自称可提供打“裸条”服务的网贷中介，在其Q Q空间状态中找到了该机构为打“裸条”借贷开出的条件：大学生、芝麻分必须620以上、有支付宝账号、手机实名1年以上、网络借贷平台无逾期记录。该广告还表示，其可实现各平台套现、线上线下手机套现、网贷、八折收话费和全国除偏远地区外的线下私贷。</p>
+<p>南都记者随即按照广告提示号码，加了其中一名工作人员为Q Q好友，并佯装成欲借款的女大学生向其打听打“裸条”贷款事宜。对方上来便询问南都记者是否为在校大学生、年级等信息。随后，当记者表明借款意图时，对方开始询问是否在其他平台进行过类似借贷，同时要求记者说出使用过的所有平台和大致负债金额。</p>
+<p>该中介称，通过该机构借款的周利息为30%，其中他们会抽走10%的审核费。当记者问及审核需要借款者提供哪些材料时，对方表示“非常多”，包括父母同学电话、身份证和户籍信息等。甘肃天水一家同样提供打“裸条”服务的借贷中介则向南都出示了一份资料清单，除个人和父母信息外，还包括寝室、同学、学信网、银行卡和早先贷款平台的信息与截图。</p>
+<p>福州的中介向南都记者表示，借款人提供完全部资料后，会安排另外的人员进行审核，一般审核时间为30-60分钟。该中介表示，只要申请贷款人填写信息真实，都能通过审核，问及如何在短时间内完成信息核实时，对方称“我们自己有办法”。</p>
+<p>获取对方信任后，南都记者表明欲借款金额为5000元，并询问是否可以打“裸条”。该中介向南都记者表示，“裸条”是专门给逾期不还、高负债的借款人做的，但这不会降低利息。</p>
+<p>一名业内人士向南都记者透露，行业内向大学生借款一般会根据学校层级作出区分。专科生，只要统招即可，专三学生是6000元额度，12个月还清；非毕业班专科生10000元，最多24个月还清，且需在毕业前还清；本科生一般不做限制，额度为15000元，最多分36个月还清，重点本科及研究生博士生的额度还会高一些。上述所有产品均可提前还款。</p>
+<p>此外，多名从事网贷的业内人员告诉南都记者，他们可以使用多家不同的网络借贷平台为借款者提供“裸条”借贷服务，看对方需要。</p>
+<p><strong>网贷乱象：</strong></p>
+<p><strong>也有中介被坏账套牢</strong></p>
+<p>在“裸条”寄生的网络借贷平台背后，受到困扰的并不只是借款人。</p>
+<p>2015年11月，南京人王某在地铁站遇到某互联网金融借贷平台地推人员做活动，赠送雨伞、保温杯等礼品。于是，他就扫码下载软件，并在该平台注册。</p>
+<p>注册后，王某才了解到在这里既可以借款，也可贷款给别人。因手上有些闲钱，就尝试在里面几百、几千元的借款。2016年1月，在湖北做工程项目的李老板找到王某，称想借款给他，让他找下家放款。这样，王某做起了中间人，在整个环节中赚利息差价。高额的资金滚动让王某尝到甜头，两三个月后，王某获得的利息就高达二三百万元。</p>
+<p>不过，仍有20%的资金不能按时回收。后来，借款人不能按时还款，坏账越来越多，王某不能按期还款给李老板，导致王某账户呈“有逾期”状态，账户被冻结，还须向该金融平台缴纳高额“逾期管理费”。“逾期管理费非常高，好比高利贷，比放款还要狠。按天计算，15天内3%逾期管理费，15天后20%逾期管理费。”王某对南都记者说。</p>
+<p>家住武汉的张某2015年12月下载了一款熟人间金融借贷平台手机客户端，次月，为了尝试该软件的功能，她挂出了3000元的借款单，一个陌生人很快就给她如数寄来。在还款期限内，她把钱如数还给了那位陌生人，并对该软件的功能表示非常满意。后来，她才得知借款给她的是她堂叔。于是，张某让亲朋好友把钱都交给她，由她来向别人放款。不过，在今年2月她逐渐开始出现到期没有收回资金的现象，发生了坏账。</p>
+<p>5月底，张某的账户被冻结，此时，张某账户借出300多万元，借入150多万元。</p>
+<p>家住合肥的女士殷某对南都记者说，她和丈夫顾某在2016年1月开始接触该互联网金融借贷平台，“大家都在里面放高利贷”，于是他们也放进去二三十万元贷款给别人。玩了一两个月后，顾某又在该平台上借别人的钱，然后以更高利息借款给别人，成为所谓的中介。</p>
+<p>后来借的越来越多，时间久了，有不少人不能按期还款，他们的账户也出现了“有逾期”状态，账户被冻结。顾某向他表哥借了50万元，还向其他朋友借了10万元，投进去用于还款。现在，他们的账户借出80多万元，借入60多万元，在殷某看来，借出的80多万元回不来了。顾某对南都记者说，为了还款，前几天他们还找小额贷款公司抵押房子贷款了45万元。</p>
+<p>殷某告诉南都记者，在这些网络借贷平台中存在很多乱象，其中就包括女孩拿自己身份证拍下裸照抵押给放贷人，而之前也有女孩裸照在微信群里被人公布出来。</p>
+<p><strong>业内人士：</strong></p>
+<p><strong>押“裸照”对自己不负责</strong></p>
+<p>南都记者检索发现，近几个月陆续有网友表示对此类借贷的质疑，并呼吁监管部门介入。</p>
+<p>一位从事借贷业务的知乎网友写道，“有的女学生没钱了，也逾期了好多次，然后有的同行专门给她们放款，什么都不需要，只需要全裸，然后拿着身份证拍照”。</p>
+<p>该知乎用户斥责同行，“大学生信贷市场是大，但你们也不能下作到这种程度。”</p>
+<p>成都一名借贷行业人士则告诉南都记者，在网络平台进行“裸条”借贷的一般是私人贷款公司，借贷者一般是有负债经历的女生。“这些女生有逾期没有还款的记录，在正规平台一般是借不到钱的，但通过打‘裸条’，一般可以借到3万到5万元。”这名从业人员说。</p>
+<p>“对这些同行真的很无语”。该从业人士表示，这些同行败坏了行业的风气，一旦舆论将网络借贷一刀切地定性了，“我们就没饭吃了”。</p>
+<p>不过，其表示不敢得罪这些放贷公司，因为“能几万几万地放贷，都还是有些背景的”。</p>
+<p>另有业内人士告诉南都记者，一些不具备偿还能力的借款人为了获得借款，铤而走险向放贷团伙借高利贷，放贷团伙与借款人私下协商好借贷利率，要求借款人“押裸照”，以一些互联网金融和社交工具为平台和幌子，完成非法高利贷放贷。事后当事人在明知后果的情况下逾期，致使债权人使用裸照施压，该行为是极不理智、对自己不负责任的。</p>
+<p>其称，有人说借贷平台对“裸条”负有责任，但一般来说，它充当的只是中介工具。“过去我们写借条，会用到纸笔，而现在许多人用借贷平台来替代纸笔来进行借贷———这样管理起来更科学，更明确。高利贷团伙的交易名义上是在互联网平台进行的，实际是个人约定，是私下交易，往往以私下约定为准，绕过平台监管”。</p>
+<p>这名业内人士认为，“裸条”本身是基于人性对于风险的控制滋生出的陋习，无论是传统年代，还是互联网时代，它本身就存在，并非新鲜玩意，只是由于背负互联网之名，被放到聚光灯下进行关注，才被人们更多地发觉。</p>
+<p>昨日12时，南都A PP率先通过网络独家披露“裸条借贷”事件。当日下午，报道中所涉及的Q Q群表示已在网上监控到相关信息。昨日18时许，群主语音指示：“现在暂时禁言，所有管理员不可私自解开禁言，所有借款还款的全部找大兵或者天佑，中介继续送单，裸条从现在开始暂时不接。”此外，相关“高层”还要求涉及“裸条”的放款人员及时更换Q Q号。</p>
+<p>与此同时，微博等平台当中一些涉及“裸条借贷”的信息也陆续被删除。</p>
+<p>李丽则告诉南都记者，她准备在家人的陪同下报警。“一旦迈出这一步，谁不后悔呢”。她说。</p>
+<p><strong>声音</strong></p>
+<p><strong>律师：借贷平台有义务排除违法信息</strong></p>
+<p>北京知名律师张新年称，在此事件中，裸照或视频的发布者严重侵犯了受害者的隐私权，受害者可对其主张民事侵权责任。如果达到一定程度，轻者可对其予以治安处罚，重者可以侮辱罪或传播淫秽物品罪追究其刑事责任，如果是以营利为目的传播视频，则涉嫌触犯刑责更为严厉的传播淫秽物品牟利罪。由于侮辱罪属于自诉案件，受害者也可对其提起刑事自诉，并以刑事附带民事的形式追究其赔偿责任。</p>
+<p>张新年表示，如果借贷平台可被定义为一种网络服务提供者的话，首先，借贷平台应加强对放贷者身份及其所发布信息的审核，但平台不可能做到并保证所有放贷者发布的消息都真实可靠无害，这属于客观不能；其次，关于责任的承担，可参照网络侵权领域的避风港规则和红旗规则，在“不明知，不应知”的情况下所发生的放贷者对借贷者实施的侵权乃至犯罪行为，借贷平台可免予承担法律责任，但对于显而易见的违法信息，平台负有监测排除的义务，特别是经过借贷者反映投诉或公安机关通报，平台已经获知的违法信息未予及时删除、屏蔽而造成的损害扩大部分，应承担连带责任。</p>
+<p>统筹：南都记者 王佳</p>
+<p>采写：南都记者 彭彬 袁浔杰 吴铭 卫佳铭 饶丽冬郭锐川 实习生 卜羽勤</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5-%E8%B5%B7%E5%BA%95%E8%A3%B8%E6%9D%A1%E7%BD%91%E8%B4%B7%E4%B9%B1%E8%B1%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%9F%E8%B4%B7/?category=18271" rel="tag">借贷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E9%A2%9D%E5%80%9F%E8%B4%B7/?category=18271" rel="tag">小额借贷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%80%9F%E8%B4%B7/?category=18271" rel="tag">网络借贷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%B8%E6%9D%A1/?category=18271" rel="tag">裸条</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%B8%E7%85%A7/?category=18271" rel="tag">裸照</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8E%E7%BD%91%E5%90%8D%E7%9C%8B%E5%87%BA%E5%B9%B4%E9%BE%84%E6%AE%B5-%E4%BB%8E%E8%A8%80%E8%AE%BA%E7%9C%8B%E5%87%BA%E4%B8%96%E7%95%8C%E8%A7%82/" target="cdt-mirror">【网络民议】从网名看出年龄段 从言论看出世界观</a>
+</h2>
+<p><p>6月12日，一位新浪微博博主发布了数张美国佛罗里达州奥兰多夜店枪击案事件后某新闻客户端对该新闻报道的网友评论截图，可以看到，评论中充斥着大量网民反美内容以及对同性恋群体歧视仇恨的言论。</p>
+<p>@人五_：每当你对世界报以温柔，世界便以残酷还以颜色。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4sux9yqczj20ku112jud.jpg?resize=550%2C978" alt="640ce1e8gw1f4sux9yqczj20ku112jud" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4sux9yqczj20ku112jud.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4sux9yqczj20ku112jud.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4sux9yqczj20ku112jud.jpg?resize=576%2C1024 576w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxco88tj20ku112wh3.jpg?resize=550%2C978" alt="640ce1e8gw1f4suxco88tj20ku112wh3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxco88tj20ku112wh3.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxco88tj20ku112wh3.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxco88tj20ku112wh3.jpg?resize=576%2C1024 576w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxevft4j20ku112aco.jpg?resize=550%2C978" alt="640ce1e8gw1f4suxevft4j20ku112aco" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxevft4j20ku112aco.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxevft4j20ku112aco.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxevft4j20ku112aco.jpg?resize=576%2C1024 576w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxhsutfj20ku112ad3.jpg?resize=550%2C978" alt="640ce1e8gw1f4suxhsutfj20ku112ad3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxhsutfj20ku112ad3.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxhsutfj20ku112ad3.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxhsutfj20ku112ad3.jpg?resize=576%2C1024 576w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxkjr9bj20ku112goo.jpg?resize=550%2C978" alt="640ce1e8gw1f4suxkjr9bj20ku112goo" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxkjr9bj20ku112goo.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxkjr9bj20ku112goo.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxkjr9bj20ku112goo.jpg?resize=576%2C1024 576w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxn8h6jj20ku112q5w.jpg?resize=550%2C978" alt="640ce1e8gw1f4suxn8h6jj20ku112q5w" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxn8h6jj20ku112q5w.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxn8h6jj20ku112q5w.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxn8h6jj20ku112q5w.jpg?resize=576%2C1024 576w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxpqp64j20ku1120vr.jpg?resize=550%2C978" alt="640ce1e8gw1f4suxpqp64j20ku1120vr" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxpqp64j20ku1120vr.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxpqp64j20ku1120vr.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxpqp64j20ku1120vr.jpg?resize=576%2C1024 576w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxs6t2lj20ku112diu.jpg?resize=550%2C978" alt="640ce1e8gw1f4suxs6t2lj20ku112diu" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxs6t2lj20ku112diu.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxs6t2lj20ku112diu.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxs6t2lj20ku112diu.jpg?resize=576%2C1024 576w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxur88sj20ku112tb4.jpg?resize=550%2C978" alt="640ce1e8gw1f4suxur88sj20ku112tb4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxur88sj20ku112tb4.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxur88sj20ku112tb4.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640ce1e8gw1f4suxur88sj20ku112tb4.jpg?resize=576%2C1024 576w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>以下为数字时代编辑摘自该微博下的部分网友评论：</strong></p>
+<p>@_原景川原_：门户网站的评论还是不要看了 辣眼睛 没受过几年教育的屌丝 看头像就知道了</p>
+<p>@小甜甜雅姒矜： 我问张北川：“我们的社会为什么不接受同性恋者？” 他说：“因为我们的性文化里，把生育当作性的目的，把无知当纯洁，把愚昧当德行，把偏见当原则。” ——柴静 《看见》</p>
+<p>@兰子要飞：论社会的悲哀与无知，论人性的丑恶与扭曲，论对于生命的不尊重与蔑视，对于那些人我感到很恶心但愿别让我身边遇到这种人令我作呕。</p>
+<p>@夜师光：每次看到LGBT有关的新闻，都会主动查看评论，看看这个世界有没有进步。</p>
+<p>@别拿春梦不当梦：我们都站在同样的战壕里面对同样的困境，这次炸的是Gay吧，下次可能是夜总会，无论直人还是LGBT人群，我们本应对生命报以尊重和敬畏，而非将个体划分标签，没有人能自全，没有人是孤岛，作为人类的一员，我与生灵共老。“丧钟在为谁敲，我本茫然不晓，不为幽明永隔，它正为你哀悼。”</p>
+<p>@YooooooBitch：从网名看出年龄段 从言论看出世界观</p>
+<p>@O八_：有时候觉得这些文字攻击比经历战争还可怕真的是会寒心的啊。</p>
+<p>@Yulogence：同性恋怎么了，至于吗？</p>
+<p>@严夏至：被残酷对待之后的心要怎么恢复温柔？</p>
+<p>@LIUYUEPINGY：愤怒的意义在哪里  三观真是歪得可怕</p>
+<p>@青红造了个薛之谦：人心真可怕。</p>
+<p>@清音清欢：好奇怪什么人给这些人灌输这样的观点。</p>
+<p>@独行战神：赵萱萱为自己的教育洗脑成果表示满意！</p>
+<p>@心脱尘俗：那些关于枪击案发评论的人渣真多，按比例中国形势不容乐观。</p>
+<p>@钱包她爸：别怕，他们不敢的。</p>
+<p>@拾月往事：对你从来没做过的事引以为傲，对你从来没见过的人恨之入骨。</p>
+<p>@熊小默：可见你中华上国比起哈里发国来，也教化不到哪去。</p>
+<p>@陈啊三：美国一个枪击事件正好掩盖了上海机场爆炸案。</p>
+<p>@田埂上的猫看着天上的蓝月亮：新浪新闻下面也开始有大把这样的评论了。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BB%8E%E7%BD%91%E5%90%8D%E7%9C%8B%E5%87%BA%E5%B9%B4%E9%BE%84%E6%AE%B5-%E4%BB%8E%E8%A8%80%E8%AE%BA%E7%9C%8B%E5%87%BA%E4%B8%96%E7%95%8C%E8%A7%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97%E5%B9%B3%E6%9D%83/?category=18271" rel="tag">同志平权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E8%AF%9D%E5%9B%BD%E9%99%85/?category=18271" rel="tag">图话国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%85%B0%E5%A4%9A%E5%A4%9C%E5%BA%97%E6%9E%AA%E5%87%BB%E6%A1%88/?category=18271" rel="tag">奥兰多夜店枪击案</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%9F%90%E4%B8%AA%E7%89%B9%E5%AE%9A%E7%9A%84%E5%88%87%E9%9D%A2%E4%B8%8A-%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E5%B0%91%E6%95%B0%E6%B4%BE/" target="cdt-mirror">歪理邪说 | 某个特定的切面上 人人都是少数派</a>
 </h2>
 <p><p>6月12日，也就是昨天，美国佛罗里达州奥兰多发生了美国历史上最大规模的枪击案，总共50人死亡，53人受伤。对于美国这很可能是一次如同911一般严重的恐怖袭击，甚至可能是一次转折点。本来我以为会和半年前的法国巴黎恐怖袭击一样，有无数人写文章谈及此事。但之后奇怪的事情发生了，这么严重的事件在中国新闻网站上竟然上不了头条，而且一天之后，关于这件事已经被新闻网站们挪到了不起眼的位置，而且目标竟然转移到美国应该不应该禁枪上，平时忙着抢流量找热点的自媒体更是鸦雀无声。和菜头在他的收费订阅号上写了唯一一篇我认为三观正常的文章，他在文中也提到了，这是他上网这么多年来见过最诡异的事件。这和我的感受完全相同。</p>
@@ -660,60 +781,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E9%A6%99%E6%B8%AF%E6%B3%95%E9%99%A2%E6%98%AF%E5%A6%82%E4%BD%95%E6%B8%A1%E8%BF%87%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%9C%BA%E7%9A%84/" target="cdt-mirror">微思客 | 香港法院是如何渡过信任危机的</a>
-</h2>
-<p><p>某吴姓律师称自己在法院信访室被打一事，终于有了初步的调查结果：殴打是没有的，过度执法是有的……小民对此不敢妄加评论，只是在这个档口突然想起了香港司法界的一件旧事。那时候，奶粉还没有限购的，中环还没人占领的，港人对大陆同胞还是客气的……</p>
-<p>那是2010年的8月，香港东区裁判署涉嫌对终审法院常任法官包致金的侄女Amina从轻量刑，引发了近千名香港市民的游行抗议。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-%E4%B8%8B%E5%8D%885.59.36.png?resize=300%2C397" alt="Screen Shot 2016-06-11 at 下午5.59.36" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-下午5.59.36.png?w=300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-下午5.59.36.png?resize=227%2C300 227w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1"><br><span>Amina Mariam Bokhary</span></p>
-<p>这位名叫Amina的大小姐家世显赫：要知道香港最高审级的终审法院就只有四位常任法官而已啊！更何况这个家族还有1位法官、1位政要，几位证券界名流，用天朝的思维很难相信大小姐犯法会与庶民同罪。</p>
-<p>基本案情是这样的：2010年1月27日凌晨，桀骜不驯的大小姐Amina酒驾肇事，虽无人伤亡，但她在现场竟然趁着醉意掌掴处理事故的警员，被前来报道的新闻摄像机逮了个正着，醉驾袭警证据确凿。</p>
-<p>案件的初审结果，大小姐被判处1年感化令、罚款8千元、停牌1个月及接受3个月驾驶改进课程。就袭警这项严重控罪而言，免于监禁看来真的是轻判了，更何况此女醉驾还是有前科的。然而，初审裁判官在律政司申请复核后依然维持原判，理由是：（1）被告背景良好，只是患上躁狂抑郁症；（2）被告将到美国接受戒酒疗程。这些理由估计以香港法律的标准看也过不了关，于是这个判决被舆论指责为官官相护、贫富有别，媒体哀叹司法公义受损。律政司随后提起上诉。</p>
-<p>记得当年看到该案的第一反应，“嘿，原来香港法院也会被人骂裁判不公啊!”。不过，香港社会接下来的反应让这个案件变得更加有趣了。</p>
-<p>Amina案涉及到两个政府部门：律政司和警方。律政司是公诉人，警方是利害关系人。在得知轻判裁决后，律政司和警方分别在媒体上是这样说滴：律政司首先承认了原审法官对这类案件有一定的酌情权，但认为判刑明显不足及/或错误，决定提出复核……；警方则确认，由于认为案件简单，所以在没有征询律政司意见的情况下，只援引了较轻的《警队条例》、而没有采用更为严厉的控罪，将就此案作内部检讨。</p>
-<p>这些言行有什么特别之处呢？首先，不对法官的个人能力和品格作出评价，维护司法机构的整体形象；其次，强调法律规则的决定性作用，不轻言司法裁决违法（而只是主张不合理），突出了司法机构依法裁断的司法行为的合法性。那么，这算不算官官相护呢？</p>
-<p>除了政府之外，还有一个机构当时也有人表态——作为地方立法机关的立法会。Amina案并没有直接牵涉到立法会，但有几位议员倒是不避讳地公开发表了看法，资深大律师汤家骅持批评态度：认为该案已损害香港对司法独立的信心，同时指出律政司应该采取的措施是上诉，而不是要求原审法官复核。公党党魁余若薇言辞谨慎：……不应质疑司法公正。两人的态度看似不同，但至少在两点上相似：一是基本立场一致，即强调维护香港法治；二是方法相似，不评论实质公正而只讨论法律程序。这，又算不算官官相护呢？</p>
-<p>继续讨论之前，有必要交代一下律政司的上诉结果：大小姐被上诉法院改判即时入狱六周。这个结果的重要性在于，无论是否存在官官相护，也无论大小姐家族是否真的影响了判决结果、或者舆论是否影响了上诉结果——这些问题以内地的思维来说都是无解的——归根结底公正还是以一种看得见的方式被实现了。而更重要的是，整个事件下来，虽然有过质疑、有过非议，但香港司法机构的人气似乎并没有因为这个事情受到太大影响。</p>
-<p>根据香港大学定期对政府机构进行民意调查的结果，香港司法机构的公信力在回归后始终保持着高于政府和传媒的水平，在这个中西交汇、文化多元、政治复杂的政治背景下，Amina案的处理结果在一定程度上展示了司法威望得以维持的原因之一：代表国家权力的各个机构之间相互强化的合作关系。再往深里走，也许还可以到达国家权力架构、权威的不同面向、以及形式理性与实质理性等等的层面，不过这些只可意会不可言传的探讨，小民不想惹是生非，此案在内地学界也不乏研究者，在此就以留白来结束讨论吧。</p>
-<p>最后，引用一段香港法官在东方日报藐视法庭案中的论述：</p>
-<blockquote><p><strong>“……如果没有一个有效的法律执行机构，文明社会就难以为继。而执行法律的职能，是由法庭和主持法庭的法官们承担的。司法机构得到尊敬、司法尊严得以维护，对法治而言是不可或缺的。否则，司法公信力就会受到破坏，法律也将形同虚设……”。</strong></p></blockquote>
-<p>于是，问题来了：当法院和法官面临质疑之时，围观者真的可以独善其身吗？当社会陷入无序，谁又能够从中受益？</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E9%A6%99%E6%B8%AF%E6%B3%95%E9%99%A2%E6%98%AF%E5%A6%82%E4%BD%95%E6%B8%A1%E8%BF%87%E4%BF%A1%E4%BB%BB%E5%8D%B1%E6%9C%BA%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E8%A5%BF%E5%BE%8B%E5%B8%88%E5%90%B4%E8%89%AF%E8%BF%B0/?category=18271" rel="tag">广西律师吴良述</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">香港司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E6%B3%95%E5%BE%8B/?category=18271" rel="tag">香港法律</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%A2%83%E5%A4%96%E5%B0%81%E6%9D%80%E4%BD%95%E9%9F%B5%E8%AF%97%EF%BC%8C%E6%98%AF%E5%95%86%E4%B8%9A%E7%89%88%E6%9D%8E%E6%B3%A2%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">端传媒 | 境外封杀何韵诗，是商业版李波事件</a>
-</h2>
-<p><p><strong>作者：寒石，自由评论者</strong></p>
-<blockquote><p>如今的香港和国际社会，都不能再消极“不变”，在诸如李波事件、何韵诗事件中，要警惕那条底线的突破，集体发声抗议。</p></blockquote>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-%E4%B8%8B%E5%8D%885.38.22.png?resize=554%2C367" alt="Screen Shot 2016-06-11 at 下午5.38.22" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-下午5.38.22.png?w=554 554w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-11-at-下午5.38.22.png?resize=300%2C199 300w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><br><span>2016年6月8日，示威者手持纸牌和标语到铜锣湾的Lancôme专柜，对此品牌取消何韵诗的音乐活动表达不满。摄：卢翊铭/端传媒</span></p>
-<p>《环球时报》在微博点名指控香港歌手何韵诗为“支持港毒、力挺藏毒头目”，批评两间与之合作的国际公司。在网民响应、威胁罢买下，其中Lancôme化妆品公司惊慌失措，主动撤销原定何韵诗与品牌合作的音乐会。这一自我审查行为，引起香港本地及海外的关注和反弹。</p>
-<p>这是一个标志性事件，犹如商业版李波事件，意味著中国（无论党媒、还是网民）可以直接插手国外商业机构在海外活动的审查，要求国际商业机构进行更多的政治自我审查。</p>
-<p>真不可以小看它，它可能是撬动一个大国兴衰的支点。</p>
-<p>以前（以2012年为界），无论是香港还是海外的商业活动，国外品牌基本上井水、河水分得清楚，犹如商业上的“一国两制”：一个公司在大陆和海外，是独立的两套策略、两种系统。这肯定是当初“招商引资”的基本前提。试想，若要求须作自我审查才允许在内地投资，有谁会去？</p>
-<blockquote><p>但当资本主义作为工具理性，被党国熟练掌握、灵活运用时，它突然发现自己的能量倍增，话事权壮大，可以主动出击，引风放火。</p></blockquote>
-<p>于是，一手是日益壮大的市场权力，一手是学著普京以民粹策略巩固政权合法性。中国正把亿万生民捆绑在一架火轮车上。</p>
-<p>这是消费主义全球化的结果，挑战、侵蚀商业文明的基础：自由贸易所依赖的自由价值。如果海外企业、香港市民对直接跨境执法逆来顺受的话，以后的中国，就是“东风压倒西风”，可以用市场“硬实力”统治全世界了。</p>
-<p>《环球时报》成为无所禁忌、大字报批判的党国打手，四出主动寻找批判对象。王毅扭曲外交礼仪批判加国记者，却被《人民日报》赞许为“有个性的官员”。可以看到：一种批判式、流氓痞气十足的文革阴风，已经死灰复燃。</p>
-<p>这绝非中国之福，长远来看，几乎可以预见是百姓之苦。在发动文革五十周年之际，又一次的集体亢奋、又一次的愚民造神运动，挟国家资本主义的霸权，造强国民族主义的神。</p>
-<blockquote><p>与这种寻找敌人的主动出击相反，香港人不知所措，愤慨却无能为力。其中的一个盲点，来自对“五十年不变”神话的迷信。</p></blockquote>
-<p>港人以为，“五十年不变”是保护自己安全、井水不犯河水的金钟罩。其实，想深一层，这是何其大的一个陷阱。不是香港提前变成社会主义的危局（那在实际操作上是不可行的，看看政府对全民退休保障制度的态度，就知道财政制度上不可能社会主义化；政治上的赤化也是不可能），反而是香港不变、大陆却日日变化而造成的落差，让香港的经济优势、制度优势和文明程度不进则退。香港的民主制度不普及、法治制度不加固、人权福利不进步、资本主义制度不监管、公民社会不强化、自由言论不拓展，五十年后，香港已落后到不堪的地步，根本无需再“一国一制”，已是瘴气遍地、民不聊生的废城。</p>
-<p>更何况，“五十年不变”更隐含著不思进取、依赖大陆经济发展红利的软性控制策略。</p>
-<blockquote><p>于是，从曾荫权“打好这份工”，到梁振英唯北京马首是瞻，香港人追求不变的愿望，变成表面精明世故，实质上却是懦弱无依、无所作为的犬儒心态。</p></blockquote>
-<p>在追求“不变”的道路上，香港却无任何自身的变革进步。香港面对中国“深化改革”旗号下不断增强的经济实力和国际话事权，20年不到，就已被动吸纳为一国附庸。这大概是邓小平当年“卧薪尝胆”的野心：让香港和资本主义国家安享中国发展的硕大市场机遇，增强自己的硬实力，再等待时机反扑。</p>
-<p>因此，不能再沉迷“五十年不变”的神话，如今的香港和国际社会，都不能再消极“不变”，而应该要积极“不变”，甚至主动“求变”，在诸如李波事件、何韵诗事件中，警惕那条底线的突破，在可能伤害到所有人的根本利益前，集体发声抗议。这是对青年一代的寄望，更是“回归一代”（回归时仍是青壮年的人）的责任。</p>
-<p>虽然，许多人都非常悲观，香港已失去主动作为、积极求变的资格。但所有人的同仇敌忾，也能成就一种美丽的神话。至少，对得住自己为人的尊严。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%A2%83%E5%A4%96%E5%B0%81%E6%9D%80%E4%BD%95%E9%9F%B5%E8%AF%97%EF%BC%8C%E6%98%AF%E5%95%86%E4%B8%9A%E7%89%88%E6%9D%8E%E6%B3%A2%E4%BA%8B%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97/?category=18271" rel="tag">何韵诗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97%E9%81%AD%E6%8A%B5%E5%88%B6/?category=18271" rel="tag">何韵诗遭抵制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B0%E8%94%BB%E5%8F%96%E6%B6%88%E4%BD%95%E9%9F%B5%E8%AF%97%E9%9F%B3%E4%B9%90%E4%BC%9A/?category=18271" rel="tag">兰蔻取消何韵诗音乐会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -725,7 +792,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -735,5 +802,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

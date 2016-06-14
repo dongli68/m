@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5-%E8%B5%B7%E5%BA%95%E8%A3%B8%E6%9D%A1%E7%BD%91%E8%B4%B7%E4%B9%B1%E8%B1%A1/" target="cdt-mirror">南方都市报 | 起底“裸条”网贷乱象</a>
@@ -342,7 +342,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%BB%8B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97%E5%B9%B3%E6%9D%83/?category=18271" rel="tag">同志平权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E8%AF%9D%E5%9B%BD%E9%99%85/?category=18271" rel="tag">图话国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%85%B0%E5%A4%9A%E5%A4%9C%E5%BA%97%E6%9E%AA%E5%87%BB%E6%A1%88/?category=18271" rel="tag">奥兰多夜店枪击案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%8A%9B%E5%BC%83%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE%EF%BC%8C%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E5%8F%AA%E4%BC%9A%E8%B6%8A%E5%8F%8D%E8%B6%8A%E5%A4%9A/" target="cdt-mirror">腾讯大家 | 抛弃政治正确，恐怖分子只会越反越多</a>
 </h2>
@@ -802,5 +802,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

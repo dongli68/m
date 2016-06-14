@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%97%E6%96%B9%E9%83%BD%E5%B8%82%E6%8A%A5-%E8%B5%B7%E5%BA%95%E8%A3%B8%E6%9D%A1%E7%BD%91%E8%B4%B7%E4%B9%B1%E8%B1%A1/" target="cdt-mirror">南方都市报 | 起底“裸条”网贷乱象</a>
@@ -143,7 +143,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%9F%E8%B4%B7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E5%BF%97%E5%B9%B3%E6%9D%83/?category=18271" rel="tag">同志平权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E8%AF%9D%E5%9B%BD%E9%99%85/?category=18271" rel="tag">图话国际</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%85%B0%E5%A4%9A%E5%A4%9C%E5%BA%97%E6%9E%AA%E5%87%BB%E6%A1%88/?category=18271" rel="tag">奥兰多夜店枪击案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%AD%AA%E7%90%86%E9%82%AA%E8%AF%B4-%E6%9F%90%E4%B8%AA%E7%89%B9%E5%AE%9A%E7%9A%84%E5%88%87%E9%9D%A2%E4%B8%8A-%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E5%B0%91%E6%95%B0%E6%B4%BE/" target="cdt-mirror">歪理邪说 | 某个特定的切面上 人人都是少数派</a>
 </h2>
@@ -603,7 +603,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E6%8A%8A%E6%89%8B/?category=18271" rel="tag">一把手</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E4%BA%BA%E5%94%AF%E4%BA%B2/?category=18271" rel="tag">任人唯亲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9D%83/?category=18271" rel="tag">公权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E5%88%86%E9%85%8D/?category=18271" rel="tag">权力分配</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E6%8F%90%E4%B8%89%E4%B8%AA%E4%B8%8D%E5%87%BA%E7%8E%B0%EF%BC%8C/" target="cdt-mirror">美国之音｜何清涟：人民日报“三个不出现”，实现难度多大</a>
 </h2>
@@ -792,7 +792,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -802,5 +802,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%BB%E6%82%A3
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

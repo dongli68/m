@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,147 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4/" target="cdt-mirror">【立此存照】肇事逃逸的社会主义好青年</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4.jpg?resize=575%2C662" alt="社会主义好青年" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?w=1093 1093w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?resize=261%2C300 261w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?resize=768%2C884 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?resize=890%2C1024 890w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6alnlj20k00zk0wm.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6alnlj20k00zk0wm.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf6alnlj20k00zk0wm" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6alnlj20k00zk0wm.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6alnlj20k00zk0wm.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6alnlj20k00zk0wm.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6xdjuj20k00zkq62.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6xdjuj20k00zkq62.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf6xdjuj20k00zkq62" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6xdjuj20k00zkq62.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6xdjuj20k00zkq62.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6xdjuj20k00zkq62.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf3bcluj20k00zkaes.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf3bcluj20k00zkaes.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf3bcluj20k00zkaes" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf3bcluj20k00zkaes.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf3bcluj20k00zkaes.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf3bcluj20k00zkaes.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf0qxqyj20k00zkwhu.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf0qxqyj20k00zkwhu.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf0qxqyj20k00zkwhu" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf0qxqyj20k00zkwhu.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf0qxqyj20k00zkwhu.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf0qxqyj20k00zkwhu.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf51s3vj20k00zk0xc.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf51s3vj20k00zk0xc.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf51s3vj20k00zk0xc" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf51s3vj20k00zk0xc.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf51s3vj20k00zk0xc.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf51s3vj20k00zk0xc.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf2osy8j20k00zkgp2.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf2osy8j20k00zkgp2.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf2osy8j20k00zkgp2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf2osy8j20k00zkgp2.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf2osy8j20k00zkgp2.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf2osy8j20k00zkgp2.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf03y3vj20k00zk0wc.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf03y3vj20k00zk0wc.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf03y3vj20k00zk0wc" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf03y3vj20k00zk0wc.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf03y3vj20k00zk0wc.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf03y3vj20k00zk0wc.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf47ucdj20k00zkq6y.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf47ucdj20k00zkq6y.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf47ucdj20k00zkq6y" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf47ucdj20k00zkq6y.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf47ucdj20k00zkq6y.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf47ucdj20k00zkq6y.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg?resize=450%2C800" alt="805795963" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg?w=1440 1440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg?resize=768%2C1365 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg?resize=450%2C800" alt="276924617" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg?w=1440 1440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg?resize=768%2C1365 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg?resize=450%2C800" alt="592081826" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg?w=1440 1440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg?resize=768%2C1365 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc%EF%BD%9C%E8%B4%BE%E6%99%93%E7%83%A8%EF%BC%9A%E4%BB%8E%E6%99%AE%E9%80%9A%E5%88%B0%E7%A5%9E%E7%A7%98%E5%88%B0%E9%98%B6%E4%B8%8B%E5%9B%9A/" target="cdt-mirror">BBC｜贾晓烨：从普通到神秘到阶下囚</a>
+</h2>
+<p><p>在数字时代，一个人的生日、年龄、出嫁的时间，甚至连一张清晰的照片都无法确认。只因为她嫁给了周永康。</p>
+<p>一则中国地方法院6月8日在网上公布的宣判稍纵即逝，没有引起人们的注意。</p>
+<p>直到媒体醒过味来，意识到成为阶下囚的人是谁。</p>
+<p>阶下囚</p>
+<p>宣判寥寥数语，全文的网上截图如下：</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160615134326_jia_xiaoye_624x700__nocredit.jpg?resize=549%2C616" alt="160615134326_jia_xiaoye_624x700__nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160615134326_jia_xiaoye_624x700__nocredit.jpg?w=624 624w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160615134326_jia_xiaoye_624x700__nocredit.jpg?resize=267%2C300 267w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>贾晓烨是谁？干什么的？她如何“利用影响”受贿？受贿金额是多少、“追缴”的“赃款赃物”又是多少？宣判书语焉不详。只说被告“当庭表示服从法庭判决，不上诉。该判决已发生法律效力。”</p>
+<p>可以确认的有一点，贾晓烨已经成为阶下囚。</p>
+<p>可以确认的还有一点，她曾是另一位先她一年成为阶下囚的前中共“大老虎”周永康的妻子。</p>
+<p>从普通到神秘</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150612141424_zhou_yongkang_640x360_bbc_nocredit.jpg?resize=548%2C308" alt="150612141424_zhou_yongkang_640x360_bbc_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150612141424_zhou_yongkang_640x360_bbc_nocredit.jpg?w=624 624w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150612141424_zhou_yongkang_640x360_bbc_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"></p>
+<p>“一人得道，鸡犬升天”，写在汉朝人王充的《论衡》里。今日中国的政治生态下，此话依然生动精准。</p>
+<p>其它有关贾晓烨的信息，随着周永康的落马而从中国的网上消失。仍能找到的，也显得模糊八卦，似是而非。有说她68年出生，有说她70年生人。</p>
+<p>有说她1990年代末，利用在中国央视财经频道任《每日财经》栏目编导的身分，多次采访周永康，双方结下关系。周永康的原配王淑华神秘车祸身亡后，贾晓烨嫁给了大她28岁的周永康。</p>
+<p>有说贾晓烨先是在四川结识并嫁给了周永康。周永康进入中共中央政治局到北京工作后，贾晓晔被安排到CCTV任编导，因其相貌平平，能力一般，处事低调，甚至差点在CCTV裁员时被裁掉。是周永康的一个电话，CCTV的高层才知道贾晓晔的来头。</p>
+<p>有说周妻身亡后，周永康四处“选妃”，更有溜须拍马者争当“红娘”。香港的《争鸣》杂志曾报道说，周永康相中贾晓烨后，“中宣部、中组部三次找贾晓烨谈话，贾一再要求给予时间考虑。在央视的催促下，贾晓晔答应了周。”</p>
+<p>或许都有点以讹传讹之嫌。</p>
+<p>“升天”与“入狱”</p>
+<p>但有一点可以推断。贾晓烨的人生轨迹本来与千千万万中国女性没有什么两样。求学工作、嫁人生子。</p>
+<p>直到她的人生轨迹与周永康的相交。</p>
+<p>“一人得道，鸡犬升天”，写在汉朝人王充的《论衡》里。今日中国的政治生态下，此话依然生动精准。</p>
+<p>北齐人杜弼在《檄梁文》里记载的另一个典故，“城门失火，殃及池鱼”。在今日中国，同样活灵活现。</p>
+<p>2015年6月周永康被控受贿、滥用职权、故意泄露国家秘密罪受审，三罪并罚，被判无期徒刑，剥夺政治权利终身。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151231121843_zhou_yongkang_512x288__nocredit.jpg?resize=551%2C310" alt="151231121843_zhou_yongkang_512x288__nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151231121843_zhou_yongkang_512x288__nocredit.jpg?w=624 624w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151231121843_zhou_yongkang_512x288__nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p>周永康在宣判后随即和贾晓晔结束婚姻关系。《争鸣》杂志报道说，“贾晓晔在离婚书上签名后，哭着表示：‘压抑在心上的痛楚终于解脱了，但太晚了’。”</p>
+<p>的确是“太晚了”。整整一年后，贾晓烨也成了阶下囚。</p>
+<p>贾晓烨决定嫁给周永康的时候，“一荣俱荣，一损俱损”也已是由不得她的选择。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 吃枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc%EF%BD%9C%E8%B4%BE%E6%99%93%E7%83%A8%EF%BC%9A%E4%BB%8E%E6%99%AE%E9%80%9A%E5%88%B0%E7%A5%9E%E7%A7%98%E5%88%B0%E9%98%B6%E4%B8%8B%E5%9B%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E6%99%93%E7%83%A8/?category=18271" rel="tag">贾晓烨</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 7小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E9%A9%AC%E4%BA%91%E5%81%87%E8%B4%A7%E5%A5%BD%E8%BF%87%E7%9C%9F%E8%B4%A7%E8%AE%BA%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE/" target="cdt-mirror">博谈网｜马云“假货好过真货”论引发争议</a>
+</h2>
+<p><p>来源: 立场报道 阿里巴巴昨举行投资者日，集团主席马云发表演说，提到今时今日假货质素比真品好、价钱比真货便宜，惹来舆论哗然。虽然马云昨晚透过公关“补镬”，指“假货问题不是质量问题，而是知识产权的问题”，但仍未能释疑。连文汇报今日亦以标题《“假货好过真货”是对中国最大的伤害》撰写特稿，批评马云的讲法。</p>
+<p>文章指出，淘宝网站假货充斥是客观事实，但这是否代表只要“保质保量地造假”和“公开坦诚地卖假”，就没有人因此受到伤害呢？答案显然是否定的。</p>
+<p>文章又提到，马云今番的言论，被大陆网民大肆批评，指无论马云的本意如何，这句话本身都是错误的，都会被视为是“公开支持造假的无耻言论”。</p>
+<p>该篇特稿最后认为，事件令人想到《西游记》中的六耳猕猴，虽然和孙悟空一样神通广大，“不少人甚至认为他能以不知名的山寨棍棒，挡住真悟空的如意金箍棒，其战斗力明显更胜一筹。但假的终究是假的，最终落得身死名败的下场。”特稿提到，周星驰曾表示希望邀请马云出演孙悟空，但最后未能成事。</p>
+<p>文汇报特稿：“假货好过真货”是对中国最大的伤害</p>
+<p>贵为内地首富的阿里巴巴集团主席马云，近年来多次因淘宝充斥假货而遭到舆论抨击。他昨日发表讲话回应指控，称“许多假冒商品其实比真品质量更好，价格更优惠。”这番言论立即引起轩然大波，不少人直斥马云无耻，“向全世界输出了错误的价值观”。虽然有消息称，这是部分媒体的报道断章取义，扭曲了马云的本意，但截止到昨晚本报截稿，阿里巴巴集团和马云都未对此作出澄清。</p>
+<p>扭曲价值观助长假货</p>
+<p>售卖假货一直是淘宝的痼疾，尽管阿里巴巴集团多次高调宣示打假，也确实取得一定成效，但点击淘宝的网站不难发现，各种各样的假货依然多如牛毛。为何假货屡禁不绝？有分析认为，这是由于许多消费者支持假货，乐意用较低的价格购买山寨产品；加上某些假货的质量几可乱真，在买卖双方达成默契的情形下，假货交易变成了“周瑜打黄盖，一个愿打，一个愿捱”，皆大欢喜。</p>
+<p>应该承认，这一现象是客观事实，但这是否代表只要“保质保量地造假”和“公开坦诚地卖假”，就没有人因此受到伤害呢？答案显然是否定的。其实马云自己对此也心如明镜，去年他接受新华社访问时曾强调，“假货对我们国家最大的伤害，就是不诚信的人比诚信的人得到的要多，就是创新没有价值，我觉得这是对一个国家一个民族最大的伤害”。</p>
+<p>这一掷地有声的表态，言犹在耳，不料昨日马云突然又抛出惊人之语，声称“许多假货比真货质量更好”，引起网民几乎是一面倒的攻击。不少网民直斥“这是什么逻辑？”，批评无论马云的本意如何，这句话本身都是错误的，都会被视为是“公开支持造假的无耻言论”。有网民揶揄，“怪不得淘宝上假货泛滥，原来马云就是推手”。</p>
+<p>网民几乎一面倒抨击</p>
+<p>由此想到《西游记》中的六耳猕猴，和孙悟空一样神通广大，不少人甚至认为他能以不知名的山寨棍棒，挡住真悟空的如意金箍棒，其战斗力明显更胜一筹。但假的终究是假的，最终落得身死名败的下场。据内地媒体报道，周星驰曾表示希望邀请马云出演孙悟空，虽然未能成事，但在星爷心目中，马云确然是有资格的人选。但愿马云也能像孙悟空那样，奋起千钧棒扫除假恶丑，向世界输出能真正代表中国人精神的价值观。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E9%A9%AC%E4%BA%91%E5%81%87%E8%B4%A7%E5%A5%BD%E8%BF%87%E7%9C%9F%E8%B4%A7%E8%AE%BA%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 8小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%91%A8%E6%B0%B8%E5%BA%B7%EF%BC%8C%E8%B4%BE%E6%99%93%E7%83%A8%EF%BC%8C%E5%91%A8%E6%BB%A8/" target="cdt-mirror">【真理部】周永康，贾晓烨，周滨</a>
+</h2>
+<p><p>各网,  关于涉周永康、贾晓烨、周滨相关报道，请各网站撤出PC端双首页、客户端首屏。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%91%A8%E6%B0%B8%E5%BA%B7%EF%BC%8C%E8%B4%BE%E6%99%93%E7%83%A8%EF%BC%8C%E5%91%A8%E6%BB%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%BB%A8/?category=18271" rel="tag">周滨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E6%99%93%E7%83%A8/?category=18271" rel="tag">贾晓烨</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 8小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB-%E5%91%A8%E6%B0%B8%E5%BA%B7%E4%B9%8B%E5%AD%90%E5%91%A8%E6%BB%A8%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9118%E5%B9%B4/" target="cdt-mirror">央视新闻 | 周永康之子周滨一审获刑18年 （附网民评论）</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4b81fc0c2506324_size44_w690_h518.jpg?resize=550%2C413" alt="4b81fc0c2506324_size44_w690_h518" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4b81fc0c2506324_size44_w690_h518.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4b81fc0c2506324_size44_w690_h518.jpg?resize=300%2C225 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>6月15日，湖北省宜昌市中级人民法院对周滨案进行公开宣判。</p>
+<p>法院认定，被告人周滨和其父周永康共同利用周永康职务上的便利，为他人谋取利益，非法收受他人财物，共计折合人民币9804.66万元，数额特别巨大，系周永康受贿共犯，其行为已构成受贿罪；周滨伙同他人，利用其父周永康职权、地位形成的便利条件，通过其他国家工作人员职务上的行为，为请托人谋取不正当利益，收受请托人财物，共计折合人民币1.24亿余元，数额特别巨大，其行为已构成利用影响力受贿罪；被告人周滨身为单位直接负责的主管人员，违反国家规定，未经许可经营国家限制买卖的物品，扰乱市场秩序，情节严重，其行为还构成非法经营罪。同时认定，周滨具有自首、坦白、积极退赃、认罪悔罪等法定或酌定从轻处罚情节，遂以其犯受贿罪，判处有期徒刑十三年，并处罚金人民币1.9亿元；犯利用影响力受贿罪，判处有期徒刑八年，并处罚金人民币1.6亿元；犯非法经营罪，判处有期徒刑三年，并处罚金人民币20万元，决定执行有期徒刑十八年，并处罚金人民币3.502亿元；对其违法所得予以追缴，上缴国库。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160521095047462.jpg?resize=514%2C397" alt="做官" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160521095047462.jpg?w=530 530w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160521095047462.jpg?resize=300%2C232 300w" sizes="(max-width: 514px) 100vw, 514px" data-recalc-dims="1"></p>
+<p>宣判后，周滨当庭表示，接受法院判决，不上诉。</p>
+<p>案件审理过程中，司法机关充分保障了周滨及其辩护人依法享有的各项诉讼权利。人大代表、政协委员及媒体记者等社会各界人士旁听了宣判。（央视记者 刘京 李文杰）</p>
+<p>以下网民评论由数字时代编辑选自新浪微博：</p>
+<p><a href="http://weibo.com/wenjinrang" target="_blank">汶金让</a><a title="微博会员" href="http://new.vip.weibo.cn/fourvipyear/index?from=icon" target="_blank"><img src="https://i0.wp.com/h5.sinaimg.cn/upload/2016/05/30/494/birthdayhat_level_6.png?ssl=1" data-recalc-dims="1"></a>：上诉期满后才能发生法律效力吧，万一睡一晚又想上诉呢？！<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1"><img title="[话筒]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9f/huatongv2_org.gif" alt="[话筒]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/look07?refer_flag=1001030106_">27Wa</a>：不上诉？不评论了</p>
+<p><a href="http://weibo.com/1909228001" target="_blank">王常鸿</a>：屁</p>
+<p><a href="http://weibo.com/1909228001" target="_blank">王常鸿</a>：就是一个屁，给放啦。</p>
+<p><a href="http://weibo.com/2730243994" target="_blank">端果冰</a>：上央视认个罪啊，特别是贾晓烨，都没见长啥样</p>
+<p><a href="http://weibo.com/2504272012" target="_blank">静悟践行立业</a>：这么多都没有死刑?</p>
+<p><a href="http://weibo.com/anchaoli" target="_blank">奔跑的小强small</a>：贪的不多，良心二代</p>
+<p><a href="http://weibo.com/2872847070" target="_blank">陈蜗牛12</a>：正文治斗争，不会赶尽杀绝的</p>
+<p><a href="http://weibo.com/1192699308cn?refer_flag=1001030106_">P-R-C-先驱</a>：周前妻到底咋死的？</p>
+<p><a href="http://weibo.com/u/5507416250?refer_flag=1001030106_">正山看世界</a>：一人得道，鸡犬升天；一人获罪，全家倒霉。</p>
+<p><a href="http://weibo.com/1001867350" target="_blank">书本里的一条虫</a>：诸如薄熙来，周永康等人如此地位真的有必要贪吗？就像是你们聚觉得马英九有必要贪吗？</p>
+<p><a href="http://weibo.com/3195771262" target="_blank">席地而坐2013</a>：这就是不是红几代的下场！不是八旗，就不要去和皇帝斗</p>
+<p><a href="http://weibo.com/1315348374" target="_blank">来去自如9906</a>：立几次功就出来了。<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1845486505" target="_blank">唯一不爱的城市</a>：政治游戏的失败者。</p>
+<p><a href="http://weibo.com/u/5720704799?refer_flag=1001030106_">厮-跟的扑棱蛾016</a>：现在都不公开审理了，是刑诉法又悄悄修改过了吗？</p>
+<p><a href="http://weibo.com/2004404877" target="_blank">幸福的八厘米蔚蓝</a>：这样的新闻别再报了，没什么用，帮派之争都一样</p>
+<p><a href="http://weibo.com/3634179132" target="_blank">寒山寺小和尚</a>：我嘞个去！！！几个亿，真他妈牛！！薄熙来才几百万而已，，，上哪儿说理去</p>
+<p><a href="http://weibo.com/5822206054" target="_blank">戈戈03341</a>：10年后又是一条好汉，兴许是3年啊……</p>
+<p><a href="http://weibo.com/1175134954xuan" target="_blank">super—-敏</a>：中国的法律就是这么自相矛盾。如果上纲上线哪条不够判死刑？？？？到底是党争，还是真犯罪！！！！就不得而知了！！！！</p>
+<p><a href="http://weibo.com/2570394927" target="_blank">满是疑问的野猴不死</a>：呵呵，王侯将相宁有种乎？答案是必须的。法律是权贵们的法律，我等屁民连个公民都算不上，呵呵，只算个居民</p>
+<p><a href="http://weibo.com/1864177824" target="_blank">一颗女王de心</a>：金额是否真实<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/tulipweiyu" target="_blank">26_牙齿剩余倒数</a>：达成了和解？<img title="[闭嘴]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif" alt="[闭嘴]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3798818973" target="_blank">艾唯酱-3-</a>：又让我想起有个少年掏鸟窝在网上贩卖鸟，被判了10多年。，。<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5092140703" target="_blank">名剑VIP</a>：回复<a href="http://weibo.com/n/----%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B-?from=feed&loc=at" target="_blank">@—-你不知道的事-</a>:掏鸟窝主要看谁掏，平民掏判十年八年的，权贵子弟掏，估评执法部门还帮忙拔毛杀肉纯了给权贵们吃。</p>
+<p><a href="http://weibo.com/1923660941" target="_blank">HeloGentleMA</a>：这是一条不能评论的微博，评论删的像风一样快</p>
+<p><a href="http://weibo.com/3145651385" target="_blank">朱大耳朵先生</a>：那什么这也就相当于偷了三四辆电瓶车。</p>
+<p><a href="http://weibo.com/lingyunzhou" target="_blank">我是周</a>：原来只贪了3.5亿啊<img title="[感冒]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/a0/gm_org.gif" alt="[感冒]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1867799712" target="_blank">民工T2</a>：等于多掏了几窝鸟，为我朝司法公正而欢呼！………………这条值不值五毛？</p>
+<p><a href="http://weibo.com/u/1996013927?refer_flag=1001030106_">二兵和奇异小牛</a>：糊涂帐糊涂判！</p>
+<p><a href="http://weibo.com/u/5947555909?refer_flag=1001030106_">乐翻天17世</a>：没有法律的审判，只有肮脏的交易。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB-%E5%91%A8%E6%B0%B8%E5%BA%B7%E4%B9%8B%E5%AD%90%E5%91%A8%E6%BB%A8%E4%B8%80%E5%AE%A1%E8%8E%B7%E5%88%9118%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%97%E8%B4%BF%E7%BD%AA/?category=18271" rel="tag">受贿罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7%E5%8F%8C%E8%A7%84/?category=18271" rel="tag">周永康案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%BB%A8/?category=18271" rel="tag">周滨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%80%81%E8%99%8E/?category=18271" rel="tag">大老虎</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 8小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E5%91%A8%E6%B0%B8%E5%BA%B7%E5%A6%BB%E5%AD%90%E8%B4%BE%E6%99%93%E6%99%94%E5%9B%A0%E5%8F%97%E8%B4%BF%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E5%A4%84%E6%9C%89/" target="cdt-mirror">澎湃新闻 | 周永康妻子贾晓晔因受贿一审被判9年</a>
 </h2>
 <p><p>据湖北省宜昌市中级人民法院官方微博6月8日披露，近日，宜昌市中级人民法院依法对贾晓晔受贿、利用影响力受贿案一审公开宣判，认定被告人贾晓晔犯受贿罪、利用影响力受贿罪，判处有期徒刑九年，并处罚金人民币一百万元；对其受贿所得赃款赃物予以追缴，上缴国库。贾晓晔当庭表示服从法庭判决，不上诉。该判决已发生法律效力。</p>
@@ -681,167 +819,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%B2%E5%AD%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-709%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E5%91%A8%E4%B8%96%E9%94%8B%E4%BB%A5%E9%A2%A0%E8%A6%86%E7%BD%AA%E8%B5%B7%E8%AF%89/" target="cdt-mirror">美国之音 | 709被捕律师周世锋以“颠覆罪”起诉</a>
-</h2>
-<p><p>作者：海彦<br>
-原标题：中国一维权律师被以“颠覆罪”起诉</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-%E4%B8%8B%E5%8D%881.46.47.png?resize=573%2C319" alt="Screen Shot 2016-06-13 at 下午1.46.47" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-下午1.46.47.png?w=573 573w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-下午1.46.47.png?resize=300%2C167 300w" sizes="(max-width: 573px) 100vw, 573px" data-recalc-dims="1"><br>
-中国维权人士6月12日在北京举牌要求当局释放709律师(参与网图片)</p>
-<p>香港-据报道，去年709维权律师及人士大抓捕中被关押近一年的北京锋锐律师事务所主任律师周世锋被以“颠覆国家政权罪”移送检察院起诉。周世锋家属委托的代理律师近日将赶赴天津，要求面见周世锋，以便核实是否如当局所称已经被周世锋解除委托关系。中国八十多位维权律师近日发表联署信，批评天津警方在709案中滥用职权，违反法律。</p>
-<p>因709大抓捕事件而被瘫痪的锋锐律所的维权律师刘晓原星期天发推特说：“今天下午，周世锋律师的家属接到指定辩护律师来电，说周世锋案件已经移送检察院审查起诉，指控涉嫌罪名还是颠覆特色裆政权罪” 。</p>
-<p>作为合伙人而被困在锋锐所，并无法获得“律师年检”的刘晓原星期一向美国之音证实，周世锋案被移送起诉的消息，是家属从当局给周世锋指定的天津律师那里接到的，应该是可靠的。至于周世锋是否是709大抓捕案第一个被移送检察院审查起诉的，目前无法得知或者确定。</p>
-<p>他说：“其他人的消息，我们现在也没有听到过，其他人的消息现在无法确定。现在是不是就他一个人被起诉了，对其他人员的情况核实不了，也许有。目前的状况就是说，也没有看到消息吧，其他人员的，核实不了。”</p>
-<p>至今，709案无论家属还是家属委托的律师，都无法见到被天津市公安局关押了近一年的所有当事人，官方几乎没有提供任何消息。所有被拘捕的人先被监视居住6个月，然后被以“颠覆罪”或者“煽颠罪”批捕。</p>
-<p>对于周世锋案被移交起诉，周世锋家属委托的代理律师杨金柱星期天在网上发消息表示，将和王少光律师星期四下午前往天津市看守所，要求会见周世锋，将依法依规办理此案，只要周世锋当面说明解除杨金柱律师的委托是他的真实意思，杨金柱律师将从此再不过问该案。</p>
-<p>杨金柱律师星期一下午对美国之音证实，他准备再赴天津搞清楚情况，到时会向外界详细说明。</p>
-<p>受周世锋家属委托、准备“抬棺上阵”的湖南知名刑事辩护律师杨金柱，今年1月12日在听说周世锋被批捕以及周世锋解除了家属委托的律师后，前往天津市第一看守所，与警方交涉，要求会见周世锋当面询问。杨金柱被告知，周世锋此前已经委托了律师，但杨金柱强调，周世锋家属从未接到周世锋已经委托律师的有关通知，也没有和其他任何人签过委托书，交过律师费。杨金柱始终无法见到周世锋。</p>
-<p>媒体曾报道，办案警方强行给周世锋指定的辩护人是天津市律协会长、全国律协常务理事、法政牛津律师事务所主任杨玉芙。对于当局指定辩护律师的举动，有分析质疑，律协会长相当于第二个公诉人，是否会为当事人真心辩护，这显然是当局为了将周世锋的罪名“做实”。美国之音记者星期一下午无法联系上杨玉芙律师。</p>
-<p>据香港中国维权律师关注组的统计，目前11名律师、律师助理和律所人员被天津市公安局以煽颠罪和颠覆罪正式逮捕，包括北京锋锐律所的周世锋、王宇、包龙军、王全璋、谢燕益、赵威、吴淦等。而709案另外还有12人也被批捕。</p>
-<p>也在709案中被抓走但后来被放出的刘晓原律师表示，由于天津当局以709案涉及危害国家安全为由，拒绝当事人家属和家属委托律师会见当事人，因此外界对于这些被关押近一年的当事人知道的情况非常少。</p>
-<p>他说：“由于这是颠覆国家政权案件，有些人是煽动颠覆国家政权，自己聘请的律师、指定的律师也好，你去会见是要经过批准的。家属自己聘请的他不同意会见。一般案件不要说在侦查阶段，就是到了检察院、法院这个阶段，他都不允许的。所以现在的情况是，很难获得案件的消息。”</p>
-<p>82位维权律师日前发表了“谴责天津警方滥用职权书”，指出709抓捕案当事人被抓已满11个月，但却一直处于事实上的被失踪状态，音讯全无。律师不被允许会见、通信，警方也拒不向辩护人介绍案情，甚至越俎代庖为当事人指定当事人和家属均不认识的律师，解除由其家属委托的律师。这是极其严重的对程序正义的践踏，是动摇法律根基的违法行为。</p>
-<p>联署信表示，蔡瑛、文东海、王磊、纪中久四名律师作为709案合法有效的辩护人，为维护辩护权以及法律的正确实施，6月6日前往分管的天津市检察院第二分院，提交新的委托和辩护手续，询问案件进度，同时控告该案侦查机关存在的一些违法行为，请检察机关依法监督和纠正。但四位律师因与当事人家属在检察院门口合影留念，所有人全部被拘捕，直到第二天才获释。</p>
-<p>据律师获释后发布的信息，警方曾企图让律师帮助警方指控当事人家属有扰乱社会秩序的故意，并对没有任何违法行为的律师搜包，扣检手机，还威胁律师要他们退出709案的辩护。</p>
-<p>联署信称，这是典型的非法拘禁、侮辱和妨碍诉讼行为，要求天津市检察院、北京市检察院、最高检立即着手调查天津警方滥用职权非法剥夺当事人诉权和辩护人辩护权的行为，并调查天津警方滥用职权对律师和公民非法拘禁的行为。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-709%E8%A2%AB%E6%8D%95%E5%BE%8B%E5%B8%88%E5%91%A8%E4%B8%96%E9%94%8B%E4%BB%A5%E9%A2%A0%E8%A6%86%E7%BD%AA%E8%B5%B7%E8%AF%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">709事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">打压维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3/?category=18271" rel="tag">美国之音</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%94%8B%E9%94%90%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/?category=18271" rel="tag">锋锐律师事务所</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91-3/" target="cdt-mirror">【图说天朝】习佛学、近民生、平天下</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Slack-for-iOS-Upload-1.jpg?resize=345%2C259" alt="Slack for iOS Upload (1)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Slack-for-iOS-Upload-1.jpg?w=345 345w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Slack-for-iOS-Upload-1.jpg?resize=300%2C225 300w" sizes="(max-width: 345px) 100vw, 345px" data-recalc-dims="1"></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91-3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9B%E6%95%99/?category=18271" rel="tag">佛教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%82%E5%9C%A3%E6%96%87%E5%8C%96/?category=18271" rel="tag">颂圣文化</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%94%BF%E8%A7%81-%E4%BC%8A%E6%96%AF%E5%85%B0%E4%B8%96%E7%95%8C%E5%A4%A9%E7%94%9F-%E5%8F%8D%E5%90%8C%EF%BC%9F%E5%8E%86%E5%8F%B2%E5%B9%B6%E9%9D%9E%E5%A6%82%E6%AD%A4/" target="cdt-mirror">政见 | 伊斯兰世界天生 “反同”？历史并非如此</a>
-</h2>
-<p><p>作者：张跃然，政见观察员，哈佛大学社会学博士学生</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/pulse-orlando-shooting-001_custom-afcf8cd831a4547d9b4465462bcea412bd660ffd-s900-c85.jpg?resize=550%2C366" alt="pulse-orlando-shooting-001_custom-afcf8cd831a4547d9b4465462bcea412bd660ffd-s900-c85" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/pulse-orlando-shooting-001_custom-afcf8cd831a4547d9b4465462bcea412bd660ffd-s900-c85.jpg?w=900 900w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/pulse-orlando-shooting-001_custom-afcf8cd831a4547d9b4465462bcea412bd660ffd-s900-c85.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/pulse-orlando-shooting-001_custom-afcf8cd831a4547d9b4465462bcea412bd660ffd-s900-c85.jpg?resize=768%2C511 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
-图片来源：AP Photo/Phelan M. Ebenhack</p>
-<blockquote><p>伊斯兰教从古至今都 “反同”？并不是。穆斯林国家对性少数群体的敌意，是殖民主义的历史造成的。</p></blockquote>
-<p>6 月 12 日凌晨，美国奥兰多市一家同志酒吧发生大规模枪击案，造成至少 50 人遇难，被称为 “美国历史上最严重的枪击事件”。行凶者为一名阿富汗裔美国公民，极端组织 “伊斯兰国” 宣布对此事件负责。</p>
-<p>这一事件，使得伊斯兰世界对同志群体的态度再次成为舆论关注的焦点。无论是许多穆斯林表达出的、基于宗教理由的 “反同” 情绪，还是大多数穆斯林国家在法律层面对同志群体的迫害，都受到公众的广泛抨击。无论是伊斯兰世界的宗教领袖，还是伊斯兰世界以外的人们，似乎都普遍相信：伊斯兰教一直都是“反同”的，对同志群体的敌视有根深蒂固的宗教原因。</p>
-<p>然而，事实真是如此吗？</p>
-<p>社会学家 Hassan El Menyawi 的一项研究，给出了明确的否定答案：在十八、十九世纪，穆斯林国家在立法和执法层面，对同性性行为表现出一种远超于西方国家的宽容态度。恰恰是在遭到西方国家殖民之后，伊斯兰世界才开始对同性性行为施以广泛的法律迫害、并从宗教角度论证这种迫害的合理性。</p>
-<p><strong>伊斯兰世界：同性平权的历史先驱？</strong></p>
-<p>这项研究虽然还未正式发表，但已在美国社会学界受到关注和好评，获得了美国社会学会政治社会学、文化社会学等多个分会的 “最佳学生论文奖” 殊荣。</p>
-<p>在研究过程中，研究者收集、分析了海量的一手史料和二手文献。一方面，他对于世界上 164 个国家在 1750-2010 年间有关同性性行为的法律条文和实践进行了定量编码，从而系统比较穆斯林国家和非穆斯林国家对同志群体的法律宽容程度。</p>
-<p>另一方面，通过阅读史料、构建历史叙事，研究者细致展现了穆斯林国家对同志群体的态度为何在这二百多年间发生了巨大转变。</p>
-<p>研究者发现，在 1750-1850 年间，穆斯林国家对同性性行为的宽容程度远超非穆斯林国家。研究者指出，这种宽容的根源可以追溯到公元七世纪——《古兰经》记载，先知默罕默德曾对一位行为女性化的同性恋者（mukhannath）伸出保护之手。</p>
-<p>这深刻影响了伊斯兰教法的早期发展。在逊尼派伊斯兰教法学的四大创始人中，阿布-哈尼法（Abu Hanifa）认为同性性行为不应受到法律惩罚，其身后发展出来的教法学派（哈乃斐派）在十八、十九世纪的伊斯兰世界影响最大，所以大多数穆斯林国家不存在迫害同性恋群体的法律。其他三大教法学派虽然认为同性性行为应受到惩罚（包括“石刑”），但对定罪的证据要求极高，使得惩处同性性行为的法律在实质上处于无法执行的状态。在那个时代留下的历史文献中，流传着许多同性情爱的故事，也间接证明了伊斯兰社会对同性性行为的包容。</p>
-<p><strong>殖民者埋下 “反同” 的祸根</strong></p>
-<p>然而，西方殖民时代的世俗化法律改革打破了这一切。殖民者废除了伊斯兰教法，引入欧洲的世俗法律体系。由于当时欧洲各国法律基本都存在迫害同性性行为的条款，这些 “反同” 法律也就移植到了伊斯兰世界中——在原本不将同性性行为定罪处罚的穆斯林国家，同性恋罪行条款出现了；在原本就将同性性行为视为罪行的国家，欧洲司法体系的证据要求取代了原先伊斯兰教法中极其苛刻的定罪标准，使得法律的执行变得容易许多。</p>
-<p>换句话说，让伊斯兰世界的法律变得 “反同” 的，正是欧洲殖民者。不过，由于伊斯兰社会对同性性行为普遍宽容，这些 “反同” 法律在殖民时期并未能得到很好的执行，当代的司法者仍对同性性行为睁一只眼闭一只眼。</p>
-<p>转折点出现在 1930 年以后。随着穆斯林国家纷纷结束被殖民的时代，殖民者发起的世俗化法律改革也显现出了 “后遗症”——社会撕裂。一方面，世俗化改革彻底否定传统的伊斯兰教法体系，严重伤害了宗教知识分子的感情；另一方面，伴随着这些改革，伊斯兰社会出现了一批世俗精英，他们拥护世俗化的“现代”司法、不希望伊斯兰教法回归。</p>
-<p><strong>“反同” 如何变成 “伊斯兰传统”</strong></p>
-<p>国家独立以后，应该建立一种什么样的法律体系？就这个问题，各个穆斯林国家的宗教知识分子和世俗精英打得不可开交，矛盾逐渐升级。最终，在大多数国家，两拨人达成了这样一种妥协：家庭法按照伊斯兰教法体系来，其他法律则延续殖民者建立的世俗法律体系（惩罚同性性行为的刑事法条也被保留）。</p>
-<p>仅仅手握家庭法这一 “胜利果实” 的宗教知识分子们自然不会甘心，他们积极呼吁全面的法律改革、希望法律能更充分地体现伊斯兰教法精神。由于家庭法是他们手中唯一的武器，他们对于伊斯兰教法精神的阐释也更多地以家庭法为话语基础。换句话说，宗教知识分子力求法律回归 “伊斯兰传统”，但究竟什么是 “伊斯兰传统”，那要看家庭法怎么说。</p>
-<p>由于家庭法在性别角色与性行为领域体现出较鲜明的保守色彩，宗教知识分子开始将这种保守话语动员起来、摆在 “伊斯兰传统” 的显著位置。当家庭法的保守成为 “伊斯兰传统” 的核心部分，这种被宗教知识分子所创造出来的 “传统” 也就不可能再容忍同性性行为了。于是，宗教知识分子们开始推动国家严格执行惩罚同性性行为的法律。他们开始将 “反同” 塑造成 “传统” 的一部分，而使人们忘记了，“反同” 的司法实践恰恰不属于历史上的伊斯兰教法，而是由欧洲殖民者带来的。</p>
-<p>同时，宗教知识分子和世俗精英的斗争也带来了另一个重要后果：本土与西方、宗教与世俗、传统与现代、被压迫与压迫的二元对立，开始广泛渗透进伊斯兰世界的文化观念。一切议题，都开始被放在针锋相对、水火不容的二元框架之下考量。</p>
-<p><strong>“反同” = “反西方”</strong></p>
-<p>以此为背景，伊斯兰世界在 1980 年代后的反西方情绪开始明显上升。穆斯林国家越发希望在自身和西方之间画上一道清晰的、截然对立的界限，通过对于西方文化的否定来定义自己的文化和民族认同。这样一来，“同性平权” 思潮在西方国家的大规模兴起，在伊斯兰世界反而起到了反作用。西方社会在同性平权问题上向伊斯兰世界施加的压力，越来越被认为是包藏着 “渗透、同化、破坏伊斯兰文明” 的祸心。</p>
-<p>换句话说，当 “同性平权” 被看作是西方价值，那么伊斯兰传统既然反西方，也就必须 “反同”。对同志群体的敌意，进一步被描绘成伊斯兰传统从古至今的一部分；与此同时，各个国家也越发积极地执行严惩同性性行为的法律。</p>
-<p>所以说，伊斯兰世界的 “反同” 是和殖民主义的历史分不开的。通过世俗化改革，殖民者不仅强行切断了伊斯兰世界的固有历史脉络，也制造了宗教知识分子和世俗精英之间的对立和斗争——而一种对于 “伊斯兰传统” 的全新阐释，就在这种斗争当中被创造出来。到了后殖民时代，伊斯兰世界反西方情绪变得高涨，“反同” 便成了反西方、反殖民的一种具体表现。</p>
-<p>这段历史也告诉我们，并没有什么 “传统” 是一个社会与生俱来的。看起来像是“传统”的东西，往往基于人们的想象和创造，基于人们对历史和宗教的特定诠释。这也正应了那句话，人们的历史记忆，正如同任人打扮的小姑娘——我们爱她、恨她，却常常忘了，她只是一张假面而已。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%94%BF%E8%A7%81-%E4%BC%8A%E6%96%AF%E5%85%B0%E4%B8%96%E7%95%8C%E5%A4%A9%E7%94%9F-%E5%8F%8D%E5%90%8C%EF%BC%9F%E5%8E%86%E5%8F%B2%E5%B9%B6%E9%9D%9E%E5%A6%82%E6%AD%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0/?category=18271" rel="tag">伊斯兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD/?category=18271" rel="tag">伊斯兰国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0%E6%95%99/?category=18271" rel="tag">伊斯兰教</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%85%B0%E5%A4%9A%E5%A4%9C%E5%BA%97%E6%9E%AA%E5%87%BB%E6%A1%88/?category=18271" rel="tag">奥兰多夜店枪击案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E5%90%8C/?category=18271" rel="tag">恐同</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB/?category=18271" rel="tag">恐怖袭击</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E8%A7%81/?category=18271" rel="tag">政见</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9D%8E%E5%A4%8F%E6%81%A9%EF%BC%9A%E5%AD%A9%E5%AD%90%E6%98%AF%E5%A6%82%E4%BD%95%E8%A2%AB%E6%B4%97%E8%84%91%E7%9A%84%EF%BC%9F/" target="cdt-mirror">李夏恩：孩子是如何被洗脑的？</a>
-</h2>
-<p><p><strong>在苏联，好坏则是根据阶级来划分的，宣传品告诉孩子们，“暗藏的敌人”时刻存在，资产阶级、富农、沙皇的支持者、西方敌对势力……这份长长的名单使孩子们相信，完成美德之一的方式就是揪出、驱逐甚至杀死这些“坏人”。</strong></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E3%80%81.png?resize=550%2C388" alt="、" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/、.png?w=667 667w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/、.png?resize=300%2C211 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>从孩子的眼睛里可以看到纯真，但在我们那个时代，纯真意味着能够被欺骗。——汉娜·阿伦特</p>
-<p>“我还记得，当我执勤结束的时候，每次都要为我们爱他胜过一切的元首三呼‘万岁’。情况正如人们所说的那样：爹亲娘亲都不如元首最亲。”</p>
-<p>很多年后，卡尔·海因茨-杨森，仍然会重温那个“美好时代”，他和他的小伙伴们身穿着褐色的制服，像一名真正的军人一样手持不能发射子弹的长枪，守在岗位上岿然不动，他们的心中有着崇高的愿望：为了元首奉献自己的一切，包括宝贵的生命，没有什么比这更能带给人荣誉感了。在希特勒少年团和青年团里，每个人都在元首慈爱而坚定的目光注视下，感到充实而满足。</p>
-<p>而在另一片广袤的土地上，同样有一群孩子为伟大领袖高唱颂歌。<strong>每天，在他慈父般大名的歌颂声中醒来，对生活在最伟大的社会主义祖国苏联的儿童来说，乃是一种荣耀。</strong>举首四望，到处都可以看到伟大领袖如何爱护儿童的慈父形象，“他的画像每天都会出现在苏联报刊上……时而是在少先队员的簇拥下，时而是怀里抱着他那位10岁的女儿斯维特兰娜在乡下的图像”，这些形象深深地映入了孩子们的心中，在那个时代，有谁会不知道下面这个人所共知的故事呢?在一次休假后，伟大领袖斯大林同志驱车经过高加索里维埃拉疗养院，遇到一批儿童，他停下来，同他们进行了长时间温存的谈话，把他们带到一个小货摊，请他们吃糖果。</p>
-<p>如果把《耳语者》和《希特勒时代的孩子们》放在一起阅读，有时会产生某种似曾相识的感觉：在元首和领袖慈爱护佑下的儿童茁长成长，成为未来国家的栋梁和伟大理念的接班人，而孩子们也为了实现这一理想而从小为之奋斗，这就像是一个完美的契约，看起来天衣无缝，民众从小就被培养与领袖和元首为国家擘画的目标步调一致地前进，那么，按理来说，他们所宣扬的美好未来也将会随着这些孩子的长大而到来。这一切看起来顺理成章，但就像我们所知道的那样，这些都不过是一个幻象，那些宣传口号中的内容从来没有实现过，但在那个时代，这个幻象却清晰而顽固地渗入到儿童的脑髓里，问题也许恰恰在这里，孩子们是如何被一步步陷入这种幻象之中的?</p>
-<p><strong>第一堂课：诱导</strong></p>
-<p><strong>对很多苏联孩子来说，第一堂课学习俄文字母，并不是从“a”开始学起，而是从“S”开始学起，因为它是伟大领袖斯大林名字的头一个字母。</strong></p>
-<p><strong>第一堂课对孩子来说尤为重要，它意味着在孩子头脑中留下第一印象，第一印象是非常深刻的，苏联的儿童教育者对此心知肚明。要把伟大领袖的形象深深铭刻在孩子们的心中，就必须抓住这一机会。就像一首苏联颂歌中所高唱的那样：“当我的孩子开始呀呀学语的那一刻，他喊出的必定是那个响亮的名字：斯大林同志!”</strong></p>
-<p>第一步诱导往往就以这种第一印象的方式来完成。它的目的在于先入为主地将一些意识形态的基本元素，譬如政党和领袖的名字根植在孩子的头脑之中，让其无法忘却。这就构成的洗脑的第一步原材料。但此时，孩子们只是知道领袖和政党的存在，并且感受到它的无所不在，却难以对其产生具体的印象，所以第二步，是对这些原材料进行加工，通过种种手段强化儿童对这种印象的认识。</p>
-<p>最初的诱导往往是毫无恶意的，甚至是令人身心愉快的，孩子们会聆听到一系列关于领袖的个人美德、对孩子的爱护以及国家如何为孩子们创造美好条件的例证。在一本名为《苏联少先队夏令营》的书里，作者告诉教师和指导员们“一个最重要的任务，就是用列宁、斯大林卓越的一生和事业的范例来教育少先队员和小学生们”。</p>
-<p>为了达到目的，这种教育手段也应当根据儿童的心理循序渐进的。小学三年级(九到十岁)的孩子认识列宁、斯大林的生平和事业，主要根据课本上的内容;四年级则要学习苏联的历史教程，“使他们能够结合历史的事件更充分地来认识伟大领袖的生平和事业”。到七年级才开始学习苏联宪法。这一切都是根据“儿童们所累积起来的知识水平安排自己的工作”。</p>
-<p>诱导的过程可以通过很多手段，但倘使这种意识形态仅仅是通过讲述被灌输进儿童的头脑，显然是不明智的，很容易使儿童产生逆反心理。因此，最佳的方式是诱使儿童相信这一意识是由他自己发现的。因此，座谈会和讨论会就成为诱导的必要步骤。一场成功的座谈会的形式看起来是相当自由和民主的，充满了愉悦的气氛，每个人都可以提出自己的观点，但实际上，这些观点早已被限定在一个严格的框架内。因为这些座谈会的题目都是被精心设计的，比如“列宁是怎样学习的?”、“斯大林是如何给我们带来幸福的童年的?”“斯大林是如何忘我地为人民服务的?”</p>
-<p>主题既然已经被限定，那么参加讨论的孩子们所能做的，也就只是证明它是如何的“正确”。老师会鼓励孩子寻找“正确”的例证，而对那些异见不同的观点却会加以打压和批评。在赞扬和批评之间，学生肯定会选择赞扬，他们会在这一过程中学会如何揣摩上级的意旨，并且做出符合这一意旨的回答，最初的服从，也就由之形成了。</p>
-<p>尽管服从乃是培养孩子的目标之一，但仅仅是“为服从而服从”仍然是远远不够的。因为孩子们必须要知道服从的对象是绝对光荣、伟大、正确的，才可以断绝自己内心中怀疑的一面，由服从上升为自愿的献身。</p>
-<p>“利用伟大的领袖的生平和事业的范例告诉少先队员，必须在自己身上培养出那一些必要的品质，怎样才能无愧于少年列宁信徒的称号”。恰如这句话所说的那样，“必要的品质”，也就是美德，同样也存在于教育手册中，无论是纳粹党少年团的手册，亦或是苏联少先队的规章，如果单是翻看内容，很难不让人相信这是一个道德完美的人所必要具备的品质，正直、忠诚、勇敢、无私。这些形容美德的词语在教育中几乎俯拾皆是。但实际上，这些词语尽管还保留着字面，但内容却被巧妙地改造了。正直意味着为了更高的真理可以出卖自己的亲友，或者叫做大义灭亲，这是党所宣扬的社会责任感;忠诚意味着对领袖毫无保留的热爱和对上级的无条件的服从;而勇敢则是那个时代口号一样：“时刻准备着!”随时为党所提出的号召献身。</p>
-<p>美德被扭曲成意识形态的装饰品，仅仅保留着它的词语，即使是善恶也从一开始就被划分为简单的二元对立。社会群里被简单地划分为斗争中的“好人”和“坏人”。<strong>在纳粹德国，好坏是按种族划分的，在纳粹德国一本普遍发行的儿童读物《毒蘑菇》中如此写道“有好蘑菇，有毒蘑菇。有好人，也有坏人。犹太人就是坏人。”在苏联，好坏则是根据阶级来划分的，宣传品告诉孩子们，“暗藏的敌人”时刻存在，资产阶级、富农、沙皇的支持者、西方敌对势力……这份长长的名单使孩子们相信，完成美德之一的方式就是揪出、驱逐甚至杀死这些“坏人”。</strong></p>
-<p>在纳粹德国，少年团的孩子会在篝火晚会上焚烧犹太人的模拟像，或者干脆加入到冲锋队打砸抢犹太商铺的行列之中，为“纯洁种族”贡献自己的一份心力。而<strong>在苏联，玩内战和征收粮食的游戏是一种时尚，孩子们在游戏中会为争当布尔什维克：“每个人都想当红军和布尔什维克，没有人愿意当白军和孟什维克。只有大人才能中止这一类争吵——建议游戏开始时先不定下称呼，谁赢了，谁就是布尔什维克。”</strong></p>
-<p>但这些美德中，最重要的是“无私”，这一词语出现得如此之广，以至于被升华为最高的美德，像是勇敢、忠诚、正直都可以被统一在这一美德之下。因为它代表了意识形态的最终目的，也就是消灭自我，将个人全身心地融入到集体之中。诚如教育人民委员阿纳托利·卢那察尔斯基在1918年所写道的那样：“年轻人应学会以‘我们来作思考，抛弃所有的私心杂念’。”或者像是纳粹少年团的口号：“毫不为己，一切为了德国。”</p>
-<p>这一意识形态之下，拥有自我，或者说是私心乃是最大的罪恶之一，一切恶都是从中生发出来。一个无法融入集体的人是可耻的。只有追随大多数人的行为才是正确的。集体制造了一种平等的幻象，让孩子们相信，只要加入集体，一切差别都被消灭了：“他们穿着同样褐色衬衫。他们是从哪里来的——不会有人去问。他们看上去完全一样，就好像一个模子里刻出来的。有产者的儿童，无产者的儿童，从前资产阶级、企业家的儿童，农民的儿童，等等，但外表上看起来大家都是一致的。”</p>
-<p>希特勒的孩子们，希特勒在1937年的演讲中对这些站在他面前举臂敬礼的孩子们说：“就像你们今天站在我面前一样，几百年后，年轻一代也将站在未来的元首面前，表达他们对德国——我们通过斗争而获得的德国的信仰”</p>
-<p><strong>集体的仪式、合唱、游行，等等集体活动将个人完全融入到集体的海洋之中，个体在这个庞大的海洋里是渺小的，他唯一的选择就只有加入到歌颂领袖的伟大合唱之中，为这个政权贡献自己的美德、信仰，甚至是生命，从作为一个个体的孩子，到一个集体中的人，诱导的过程就这样循序渐进地达到了它的目的。</strong>它看起来每个步骤都显得光荣正确，完全是在阳光灿烂的日子里进行的，但潜伏其下的，也有其晦暗的一面，那就是孩子们需要学习的第二堂课：恐惧。[page]</p>
-<p><strong>第二堂课：恐惧</strong></p>
-<p>“我们从小就学会了闭嘴。‘舌头会给你带来麻烦’——这是大人一直叮嘱我们孩子的，我们在生活中也一直害怕发表意见。妈妈常说，两人之中必有一个举报人。我们害怕邻居，特别是警察……即使在今天，我看到警察仍会怕得发抖。”</p>
-<p>恐惧与诱导之间的区别是，后者是告诉孩子什么是应该做的，而前者则是告诉还是什么是不应该做的。比起诱导，恐惧实际上能在孩子的头脑中产生更大的影响，让他们去自觉规避某些事物，从小在头脑中筑起一道禁忌的堤坝。</p>
-<p><strong>在纳粹德国，低劣种族即是禁忌之一，对元首的不敬同样是一项大忌，任何怀疑帝国意识形态的行为都是禁忌;在苏联，“坏”阶级，任何损害伟大领袖名誉的行为，对党的非议等等，每个孩子都知道触碰这些行为的下场将会如何。那是最严厉的惩罚在等待着他们。</strong></p>
-<p>其中一个惩罚就是被孤立，逐出集体。在一个政权掌控了所有社会资源的国家里，只有加入集体，才会拥有生活的可能。因此，逐出集体就成为了对孩子来说最严重的惩罚，他会受到同学的轻视、朋友的孤立，谁也不再理睬他，谁也不会再帮助他，轻视和冷漠使他被开除出整个社会之外，无从立足。一个叫格尔特-埃克哈特·洛伦茨的人回忆自己在波茨坦国家政治教养院的上学生涯说：“落后者的名字会在饭前点名时被公开点名，不服从的人要遭到公开谴责，谁要不是‘战友’，他的日子就不好过了，就要遭到排斥。”班上的同学会故意不和这样的人说话，完全不理睬他，以作为惩罚。在苏联，除了遭到谴责和隔离之外，这些沾染了禁忌的孩子还有一个更可怕的下场：“被消失”。这种消失有时是不明显的，只是在第二天上课时，教室里又多了一张空课桌，而老师不会告诉同学们他们昔日的同桌为什么没有来上学，学生们当然也心知肚明的不会去问这个明知故问的问题，以免他们会成为下一个。有时，这种“消失”为了起到震慑作用，则是在众目睽睽之下进行的，尤金·叶尔钦在《打断斯大林的鼻子》里讲述了这种被迫视而不见的恐惧。国安局的秘密警察就在教室门口徘徊，学生们甚至可以听到皮靴踱步的声音，然后一个学生被叫出来，这是老师最后一次呼唤他的名字。接着，老师熟练地命令学生们用一支笔，把班级合影上那个同学的脸涂黑。</p>
-<p>禁忌是如此地让人恐惧，所以一旦自己沾染上这些禁忌，唯一的方法就只有通过更严格的考验来洗脱自己的罪行。苏联的少年英雄巴甫列克·莫洛佐夫是个典型的例子，<strong>根据官方的文宣材料，他的父亲属于一个“坏阶级”富农，而他向警察检举了他父亲，也因此被“富农反革命”一家杀害。苏联的文宣机器很快将莫洛佐夫塑造成大义灭亲、正直忠诚的道德模范。高尔基呼吁为他修建一座纪念碑“血亲可能是你的敌人，不能放过这样的敌人”。</strong></p>
-<p>在整整一代苏联儿童的心里，莫洛佐夫都是完美的少年英雄。他不仅仅提供了苏联式美德的典范，更给予那些生活在禁忌惶恐中的孩子们自我救赎的可能。一场学习莫洛佐夫的运动很快开展起来。一位叫亚历克山德的少年揭发了他父亲，并且请求逮捕他的父亲。而另一个来自克列缅丘格附近的16岁犹太男孩，则在自己父亲的坚持下，给当地的报纸写信，公开声明脱离自己的家庭：</p>
-<p>“我拒绝成为这个家庭的一部分，我觉得，真正的父亲是共青团，能教我生活中的大事;真正的母亲是我们的祖国，苏联社会主义共和国和苏联人民才是我的家人。”</p>
-<p>恐惧就通过这种方式转化为一种新的诱导。<strong>为了符合美德的标准、融入集体而牺牲家人的行为是值得赞赏和鼓励的，这也是为何意识形态在撕裂这些孩子的家庭同时，也赢得了他们更为坚定的忠诚。因为他们通过这种毁灭个人情感的方式，在这个政权下达到了“新生”，他们因此洗脱了罪名，并且获得了政权的宽恕，被重新接纳到集体之中。而他回到集体后所享有的“正常人”的待遇，则进一步让他深信自己检举揭发父亲亲友的行为是正确的，他也因此经受了比一般孩子更严酷的考验。</strong></p>
-<p><strong>为了保住自己牺牲巨大所得来的“荣誉”，这些人往往会更加成为这一制度的捍卫者。</strong>一位叫奇拉·柯尼燕科娃的女士，在斯大林死后三十年里仍然自称“斯大林的爱人”，但她的两个叔叔都因为“怠工”的罪名被抓进劳改营，但这却使她更深地挚爱斯大林，这位“赏罚分明的公正的伟大领袖”，这看似无解，但却合情合理，她为了融入这一体制付出的牺牲太大，以至于否定它，她所作出的全部牺牲就毫无意义，也就彻底否定了她自己。因此，她仍然生活在自己的童年时代里——时刻准备着为了崇高的理想而献身的伟大时代。</p>
-<p><strong>毕业：长不大的“新人”</strong></p>
-<p>“我们必须教育出一种新人，从而使我们的人民不会因时代的衰退而灭亡”</p>
-<p>“我们必须将年轻人塑成新一代的共产党人。孩子像柔软的蜡一样，可塑性很大。”</p>
-<p>元首的意旨和伟大领袖的口号交相辉映，他们都渴求将孩子塑造成符合他们意志的完美“新人”。从某种意义上来说，他们的目的达到了。<strong>通过诱导与恐惧的双重手段，一个懵懂的孩童是完全可以被培养成合格的“新人”的，无论是出于对荣誉感的热望，还是出于对禁忌的恐惧，他们都会约束自己的行为，并且让自己相信意识形态下的宣传是合情合理的，毕竟，融入集体，将自己奉献给这个制度，是他们唯一可以有的选择。</strong></p>
-<p><strong>但当他们长大，进入成人社会后，却发现一切都与他们所受过的教育全然不同，这个国家并不是处处美好，等级森严，官僚严重，缺乏活力并且死气沉沉，还有萦绕四周的恐惧无孔不入地渗透到日常生活之中，他们自己也可能成为被告密的对象，也会因为一语有失而进集中营。但问题在于，尽管他们可能在真实的生活中发现了虚伪的一面，但他们的大脑早已在童年时代被灌注了意识形态，他们习惯于那种话语，习惯于那种表述方式，更习惯了那种思维——这些意识已经深深地根植于他们的头脑中，因此他们只能按照这种模式来为人处世，这也是他们与社会互动唯一方式。当他们遇到难以解释的困境时，他们唯一的选择就只有回归到领袖和元首那里，回归到他们所习惯的意识形态中去寻求公正。</strong></p>
-<p>对于他们来说，这是一个难以走出的童年——他们都是“好孩子”，都深深地理解如何“听话”。但成长的意义正在于如何自我思考，而如何做到这一点，那就是另外一堂课了。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9D%8E%E5%A4%8F%E6%81%A9%EF%BC%9A%E5%AD%A9%E5%AD%90%E6%98%AF%E5%A6%82%E4%BD%95%E8%A2%AB%E6%B4%97%E8%84%91%E7%9A%84%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1/?category=18271" rel="tag">为人民服务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%91%E5%85%88%E9%98%9F%E5%91%98/?category=18271" rel="tag">少先队员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%A9%E7%BD%9A/?category=18271" rel="tag">惩罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2/?category=18271" rel="tag">教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%98%E5%AF%86%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">秘密警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%8F%E8%81%94/?category=18271" rel="tag">苏联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-6-12-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 6-12</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Ckqmix3UUAAXvvv.jpg?resize=550%2C550" alt="Ckqmix3UUAAXvvv" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Ckqmix3UUAAXvvv.jpg?w=750 750w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Ckqmix3UUAAXvvv.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Ckqmix3UUAAXvvv.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Ckqmix3UUAAXvvv.jpg?resize=70%2C70 70w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>@阑夕：我其实很不解，为什么你国警察在盘查公民时对于出示警官证这个要求总是表现出一种遭遇侮辱的态度？要求警察证明自己的身份，难道意味着公民在反抗执法？大学时候，校内有过一起盗窃事件，有警察入校查案进去事发宿舍时，轮班的宿管让警察填一下警号，得到恼怒的回应：「信不信老子把你拷上。」</p>
-<p>@fufuji97：在中国这个奴才和狗腿子遍地的国家，挑战政府违法是需要很大的勇气和成本的，多数情况下都会被成本阻吓住，变成多一事不如少一事，但是一旦出现勇敢者，比如深圳那对姐妹，她们牺牲自我的适应性去挑战，这就是哈耶克说的匿名的英雄，有她们带来的民众利益保证，绝大多数人是默默享受的，必须给予掌声。</p>
-<p>@shangguanluan：我至今记得有警察曾经对我所谓的“程序正义”充满嘲弄，他说：你要程序合法，没问题，我明确告诉你，我可以合法地把大街上任何一个人弄到派出所关48小时。</p>
-<p>@linyujing：HK警察也是可以当街查身份证的，我见过没有被查过。非常礼貌（虽然陀枪），大家客客气气，谈笑风生的就查了。都是打工，底层何苦为难底层。我在东莞时，亲身经历过查暂住证，步行街两边堵起来，一言不合就拉上车去收容了，让你打电话给亲戚朋友拿500块去某劳改场赎人，跟绑票真的挺像的 #s</p>
-<p>@乔志峰：曾经有人认为，只要我不经过足浴店，就不会有危险。现在又有人认为，只要出门带上身份证，就是安全的。你们都想错了，在不受约束的公权面前，没有人能自保，它们有一万种理由、一万种方式弄死你，然后甩甩手上的血说：我在执法。你以为你是谁？</p>
-<p>@shifeike：我其实是个胆小怕事的人，做了十五年媒体能平安落地，已经自觉上天庇佑，这几年以来更是越活胆子越小，轻易不敢招惹各路神仙，但架不住看不明白的事情越来越多。比如，还有一年多就要开会了，哪个领导不是防微杜渐，生怕自己地盘上出事？但某些地方的搞法，分明是火上浇油，就像生怕不出事一样。</p>
-<p>@梁发芾：近来看到不少警察滥权的视频。警察滥权不是今天突然严重，本来从来如此。以前摄影摄像技术落后，传播受限，人们看不到。今天技术发达，人们终于能留证据且让大家看到。所以，滥权者视拍摄权为洪水猛兽，必欲以“恶意拍摄非法”而禁止之。围绕拍摄权，拍摄内容的传输权传播权，将有你死我活的较量。</p>
-<p>@lijiansion：墨西哥高铁黄了、委内瑞拉高铁黄了、印尼高铁黄了、土耳其高铁黄了一半、泰国高铁也快黄了、俄罗斯高铁成不成看中国给多少钱、现在美国高铁也黄了，大大心里苦啊，一带一路真是“青山遮不住，毕竟东流去”啊。</p>
-<p>@zhifangnvren：民众之所以懦弱，是因为反抗的成本太高。官员之所以贪污，是因为犯罪的代价太低。</p>
-<p>@胖子天右：一个离不开万岁的民族必然会遭到万税的报应。</p>
-<p>@blogtd：共產黨裡也有好人，但我只會說他們是好人，而不會說他們是好的共產黨。同理，一個人站在共產黨的對立面，但其言行為人詬病，我也只會說這個人有問題，而不會給他貼一個“民逗”的標籤，喜歡這樣做的人，跟那些推崇體制內健康力量的人不過是一個硬幣的正反面。</p>
-<p>@hnjhj：如果不知道e租宝是国家发证、央视宣传、公安部发证书，从而上当受骗，我觉得这是值得同情的。都知道了这些，竟然你还敢加入，不骗你骗谁？</p>
-<p>@作业本：明天你是否会想起、突然失踪的禽流H7、明天你是否还惦记、曾经在厦门爆炸的BRT、媒体们都已经想不起、被吉林大火烧死的你、我也是偶然翻相片、才想起带小学生开房的你、谁删了我们骂过的李天一、谁封锁了那些关于PX的消息、谁让你踢了5：1、谁让微博里没有维尼、啦啦啦啦啦啦啦、啦、啦。</p>
-<p>@西单红史1：毛时代的农民叫社员：不准入城，不准迁徙，出外要证明，入城要被赶走，世世代代是农民户籍。劳动成果全部上交。没任何福利，基本没有现金收入，定量吃粮，大跃进时房屋、工具没收，本人编号、强迫劳动，夜晚也休息不好。董辅礽说：“人民公社制度从经济学意义上说是现代农奴制。”</p>
-<p>@老刘在德克萨斯：有些人喜欢强调自己是“中国人”，但只说对了一半：出在中国不假，但没有正常人的理性和常识，只长了副人样，言行理念与文明人不在一垅，只能说是一种“中国生物”。“中国人”像外国人一样，要有理性和常识，要认同文明世界的规则，要对文明和野蛮有基本的分辨力。对“中国生物”可以免除这些要求。</p>
-<p>@EnigmaHuang：刚才进小区大门的时候，几个小朋友拿着那些BB弹枪在那里『站岗』，有一个在我进来的时候拿着枪对着我的脸。我跟他说小朋友你不要用枪指着别人的脸，万一你走火了子弹打到别人眼睛就麻烦了。那位小弟弟笑嘻嘻说，你怕你可以自己躲开啊。这小子以后一定是党国的栋梁。</p>
-<p>@xie107：魔兽首映当天简直疯了，尤其听到一哥们跟自己媳妇的电话：我给你说，我要看电影，我不回来，老子等了十年了，绝对不得回来，我他吗最近在家孩子也带了，家务也做了，就是为了这场电影，随便你咋个。老子就要看。</p>
-<p>@zippo215：每次看到現今的房價、薪資、物價、教育、社會、體制、文化、觀念……都會讓我覺得生小孩什麼的，其實是在殘害下一代吧……</p>
-<p>@mathwuyue：我能不能问一个问题，为什么那么多女生不好好发自拍，一定要发一句特别low又和自拍完全不符的鸡汤搭配自拍？你好好发自拍，大家觉得至少你选了角度磨了皮之后还挺美的，但是你补了那么一条鸡汤文，我就觉得你不仅不学无术胸小无脑还挺像个绿茶的，中国有句古话叫画蛇添足这些女生都没听说过么？</p>
-<p>@Brecht：昨天在電視上聽到一段鄧惠文談親子教養很有意思，當父母在管教小孩時情緒失控，其實是放棄當一個大人去教育小孩，而是讓自己心中的小孩跑出來跟眼前的小孩吵架鬥氣。</p>
-<p>@tualatrix：路过一家打印店，门面禁闭并贴着张字条「打印 G20 保密材料，本店今天不对外营业」。好霸气！</p>
-<p>@Scswga：吃自助烧烤时没油了，于是几人一起大喊：“老板，加油！？”正在厨房忙活的老板探出头来，回道：“谢谢你们，我会努力哒！”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-6-12-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -853,7 +830,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -863,5 +840,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

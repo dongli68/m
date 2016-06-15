@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%87%BA%E4%B9%A6-%E5%A4%A7%E8%83%86%E9%A2%84%E8%A8%80%E4%B8%AD%E5%85%B1%E5%80%92%E5%8F%B0/" target="cdt-mirror">纽约时报 | 中国维权律师出书 大胆预言中共倒台</a>
+</h2>
+<p><p> </p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/15CHINAGAO01-articleLarge.jpg?resize=600%2C400" alt="周二，人权律师高智晟的女儿耿格在香港展示父亲的书《2017年，起来中国》。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/15CHINAGAO01-articleLarge.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/15CHINAGAO01-articleLarge.jpg?resize=300%2C200 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>周二，人权律师高智晟的女儿耿格在香港展示父亲的书《2017年，起来中国》。</p></div>
+<p>中国维权律师高智晟曾数次入狱并被监禁多年，他写的一本书被带出大陆在台湾出版。</p>
+<p>在这本446页的书中，高智晟描述了2009年至2014年他作为囚徒在狱中度过的时光。2009年获释后，他被送回陕西省的老家，与他的农民哥哥住在一起，受到警方24小时连轴转的监视。他的女儿耿格(Grace Geng)周二在香港出席了新书发布会。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/15CHINAGAO-articleInline-v2.jpg?resize=190%2C303" alt="15CHINAGAO-articleInline-v2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/15CHINAGAO-articleInline-v2.jpg?w=190 190w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/15CHINAGAO-articleInline-v2.jpg?resize=188%2C300 188w" sizes="(max-width: 190px) 100vw, 190px" data-recalc-dims="1"></p>
+<p>高智晟是一名退伍军人，他<a href="http://www.nytimes.com/2005/12/13/world/asia/legal-gadfly-bites-hard-and-beijing-slaps-him.html" target="_blank" rel="nofollow">出名</a>是因为他承接了老百姓与强大利益抗争的案子，比如帮助农民抵制征地，以及起诉警察的侵权行为等。他成为中国最知名的律师之一，但是，他为被取缔的法轮功精神运动追随者倡导权利的做法，让他与政府产生分歧，政府于2005年关闭了他在北京的律师事务所。</p>
+<p>高智晟现年52岁，他对共产党越来越持批评的态度，并放弃了自己的党籍。他于2006年被拘留，获释后，他<a href="http://www.nytimes.com/2010/02/03/world/asia/03dissident.html" target="_blank">撤回了自己当初的供述</a>，描述了他在警方手中遭受的虐待。2009年初，他消失了，有一年多的时间政府没有对他的行踪提供任何解释，引起国际社会的谴责。2010年，在获得短暂释放之后，他又消失了，并再次被警方拘留，直到在2014年才再次获释，转为软禁。</p>
+<p>高智晟的监禁是后来在国家主席习近平领导下，更广泛地大力打压中国维权律师的前奏。去年，大批维权律师被拘留，<a title="Link: http://cn.nytimes.com/china/20160614/china-zhou-shifeng/" href="http://cn.nytimes.com/china/20160614/china-zhou-shifeng/">警方</a>本月初要求对其中一位以“<a title="Link: http://cn.nytimes.com/china/20160614/china-zhou-shifeng/" href="http://cn.nytimes.com/china/20160614/china-zhou-shifeng/" target="_blank" rel="nofollow">颠覆国家政权</a>”的重罪名提起诉讼，表明中国在提倡法制方面，语言与实际做法上的差距。</p>
+<p>高智晟新书的名字是《2017年，起来中国》（英译为：The Year 2017, Stand Up, China），他用了大约半本书的篇幅来描述自己在被拘留和被监禁期间受到的待遇。他详细地记录了他如何被威胁、遭殴打和电击。</p>
+<p>“他踩在我的肩膀上，电击棒迸发着吓人的声音。然后，他把电击棒放到我的下巴上，”高智晟描述折磨他的人时写道。“我听到了又一个奇怪的声音。毫无疑问，那个声音是我发出的。我找不到更贴切的描述：那像是一只狗在被主人踩了尾巴后发出的声音，有些时候，又好像是狗被拉着尾巴倒挂起来时发出的声音。”</p>
+<p>高智晟是一名基督徒，现在是一位强烈反对共产党的人。在书的中间部，他花了不少笔墨来论述为什么中国共产党将在2017年垮台。这部分的论据似乎是出现在他梦里的一种数字占卜术。他用这本书的最后一部分来描述中国在共产主义崩溃后的样子，那时中国将成为最初由一个过渡政府领导的民主国家。</p>
+<p>当被问及书中煽动性的内容是否会让高智晟在中国的处境更加危险、甚至导致他再次入狱时，耿格说，父亲做好了面对后果的准备。</p>
+<p>“父亲已经决定他不来美国了，”她说。“他早就打定了主意，随遇而安。”</p>
+<p>耿格说，家人对她父亲的健康颇为担心。她对香港记者说，父亲的牙齿都掉光了，只能吃流质食物。自从父亲在2009年失踪之前起，耿格就一直没有见过他。</p>
+<p>记者会由香港立法委员何俊仁主持，耿格和何俊仁都未回答这本书的手稿是如何从大陆弄出来的问题。耿格说，她与父亲大约每两个月通一次电话，而且只能是在他家外彻夜站岗的几个警察都不在的时候。高智晟的妻子和孩子于2009年离开了大陆，现在在美国居住。</p>
+<p>高智晟曾在2007年用中文和英文发表了名为《一个更公正的中国》(<a title="Link: https://www.amazon.com/China-More-Just-Gao-Zhisheng/dp/1932674365" href="https://www.amazon.com/China-More-Just-Gao-Zhisheng/dp/1932674365" target="_blank" rel="nofollow">A China More Just</a>)的回忆录。周二出版的新书是中文版，但何俊仁表示将会出版英文版本。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%87%BA%E4%B9%A6-%E5%A4%A7%E8%83%86%E9%A2%84%E8%A8%80%E4%B8%AD%E5%85%B1%E5%80%92%E5%8F%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2017%E5%B9%B4%E8%B5%B7%E6%9D%A5%E4%B8%AD%E5%9B%BD/?category=18271" rel="tag">2017年起来中国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%BD%AE%E5%8A%9F/?category=18271" rel="tag">法轮功</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%BF%E6%A0%BC/?category=18271" rel="tag">耿格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F/?category=18271" rel="tag">高智晟</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%BB%BA%E7%BD%91%E7%BB%9C%E6%96%97%E4%BA%89%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83-%E6%95%B0%E5%8D%81%E4%B8%87%E5%AD%A6%E7%94%9F%E5%BD%93/" target="cdt-mirror">自由亚洲｜建“网络斗争”指挥中心 数十万学生当“水兵”</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e5630899-bd8e-4565-a5de-3328602763c0.jpg?resize=550%2C366" alt="学生五毛1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e5630899-bd8e-4565-a5de-3328602763c0.jpg?w=622 622w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e5630899-bd8e-4565-a5de-3328602763c0.jpg?resize=300%2C200 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -703,51 +731,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%A5%E5%85%B0
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912024%E5%B9%B4%EF%BC%8C%E5%9B%BD%E5%AE%B6%E7%95%99%E7%BB%99%E6%88%91%E7%9A%84%E6%97%B6%E9%97%B4%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%A4%9A%E4%BA%86/" target="cdt-mirror">【网络民议】2024年，国家留给我的时间已经不多了</a>
-</h2>
-<p><p>新闻背景：</p>
-<blockquote><p>6月12日，《人民日报》刊文《从国际经验看如何长期保持增长动力》，<a href="http://news.sina.com.cn/c/nd/2016-06-12/doc-ifxszmaa1849792.shtml">文章表示中国预计从2024年开始进入高收入阶段</a>。文章称，目前中国已经进入上中等收入阶段，六七年后进入高收入国家行列并无悬念。<span><strong>只要政治上不出现颠覆性错误，经济上不出现毁灭性打击，制度上不出现断层式波动，</strong></span>届时将全面建成小康社会。</p>
-<p>文章作者是中国社会科学院中国特色社会主义理论体系研究中心研究员、美国研究所所长郑秉文。他之后又<a href="http://news.sina.com.cn/c/zg/2016-06-12/doc-ifxszmaa1900537.shtml">对媒体补充道</a>，2024年是非常保守的估计，中国应在2022年或2023年进入高收入阶段，<strong>但这并不是基于住房、工资等居民感受的角度，</strong>因为不同国家收入分配有差异，因此即使人均收入差不多，民众主观感受也有很大差异。</p></blockquote>
-<p><strong>以下为中国数字时代编辑搜集自新浪微博评论：</strong></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.10.06.png?resize=590%2C492" alt="Screen Shot 2016-06-12 at 上午11.10.06" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.10.06.png?w=590 590w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.10.06.png?resize=300%2C250 300w" sizes="(max-width: 590px) 100vw, 590px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.10.23.png?resize=589%2C505" alt="Screen Shot 2016-06-12 at 上午11.10.23" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.10.23.png?w=589 589w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.10.23.png?resize=300%2C257 300w" sizes="(max-width: 589px) 100vw, 589px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.11.21.png?resize=584%2C574" alt="Screen Shot 2016-06-12 at 上午11.11.21" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.11.21.png?w=584 584w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.11.21.png?resize=300%2C295 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.11.21.png?resize=70%2C70 70w" sizes="(max-width: 584px) 100vw, 584px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-%E4%B8%8A%E5%8D%8811.11.37.png?resize=594%2C557" alt="Screen Shot 2016-06-12 at 上午11.11.37" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.11.37.png?w=594 594w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-12-at-上午11.11.37.png?resize=300%2C281 300w" sizes="(max-width: 594px) 100vw, 594px" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/u/3947149082?refer_flag=1001030106_">马奶蹦</a>：颠覆性错误 毁灭性打击 断层式波动 学会了三个新词</p>
-<p><a href="http://weibo.com/maybo1987?refer_flag=1001030106_">孤灯傲人</a>：嗯，需要这么多前提条件。</p>
-<p><a href="http://weibo.com/2277129433" target="_blank">王鸣1231</a>：一个企业的兴衰主要从她的言论和员工就完全可以看出来。天天说胡话，连邓亚萍都跳槽了。看来是真没救了。</p>
-<p><a href="http://weibo.com/3568333804" target="_blank">西瓜先生1997</a>：还有一带一路什么的，我们地理老师都说了，别看题天报道的全是好消息，其实很多临国和我们有领土纠纷，这些国家是不愿意和我们合作一带一路的</p>
-<p><a href="http://weibo.com/5840476077" target="_blank">揭秘者007008</a>：叶利钦说：“共产党的各级官员有专门的医院、专门的疗养院、堪比皇宫的办公楼、漂亮的餐厅和特制佳肴盛宴，还有舒服的交通工具。你在职位的阶梯上爬得越高，归你享受的东西就越丰富，如果你爬到了党的权力金字塔的顶尖，则可以享受一切，你就率先进入了共产主义。”</p>
-<p><a href="http://weibo.com/1980496893" target="_blank">esun123</a>：该文是不是暗示：你们要听话，不要拆台，听话就有高收入，否则后果很严重！</p>
-<p><a title="ONLY_MR" href="http://weibo.com/onlypeter?refer_flag=1001030103_" target="_blank">ONLY_MR</a> ： 这意思就是，你们这些P民都忍着点，千万别乱来！否则就没法进入高收入阶段了！</p>
-<p><a href="http://weibo.com/kehen" target="_blank">一鹏-行摄</a><i title="微博达人"></i>：这套忽悠之术刚解放的时候玩过了，只要跟着XXX，几年之内进入共产主义社会，物质极大丰富，人人各取所取，工作成了兴趣。。。。。。就是说你们不能造反</p>
-<p><strong><a href="http://weibo.com/2299027190" target="_blank">勿入史记</a>：马屁文章，六七年后不就是陛下临朝十年的嘛</strong></p>
-<p><a href="http://weibo.com/1739529467" target="_blank">青岛某青年</a>：醒醒，醒醒，该起床了，今天上班！<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/miki0815" target="_blank">小橋米米米米米米米米</a><i title="微博达人"></i>：工资翻一倍，物价翻两番？</p>
-<p><a href="http://weibo.com/2084909597" target="_blank">LV婷婷LV</a>： 和王外长＂你知道中国人均GDP达到8000美金了吗？你知道中国是第二大经济体了吗？假如中国没有人权，怎么会取得这么大的成就？＂那种简单粗暴、亳无逻辑的定论实在有的一拼。</p>
-<p><a href="http://weibo.com/1851826915" target="_blank">劉澤成HOT</a><i title="微博达人"></i>：是说2024年rmb贬值到爽嘛？然后我们每月十几万的工资刚刚够吃饭，那衣服都要攒钱…<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">这个数字的确显得比现在高得多！</p>
-<p><a href="http://weibo.com/2727298504" target="_blank">林羽linyu</a><i title="微博个人认证 "></i>：和预计股市4000点有区别吗？</p>
-<p><a href="http://weibo.com/2947785455" target="_blank">燕雁嫣</a>：房子买不起，生病看不起、在外地小孩读书要赞助费读不起，然后你告诉我在过十年就可以过小康！还真是一碗心灵大毒汤啊！痴人说梦</p>
-<p><a href="http://weibo.com/2678478381" target="_blank">番茄酱炒蛋壳</a><i></i>：又来放卫星<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5847536790" target="_blank">Yefair</a>：我感觉人民日报就是故意这样说的，然后被网友骂。。。引起社会关注。。</p>
-<p><a href="http://weibo.com/u/1784877625?refer_flag=1001030106_">chenkov0928</a>：我就知道沈阳xx一瓶酸奶从1.6一直涨到3块 现在偷摸有的都4块了<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p><a title="vv天矢vv" href="http://weibo.com/u/1086184953?refer_flag=1001030103_" target="_blank">vv天矢vv</a>：放心，到时实际实现不了也会用嘴巴或人民日报实现的。呵呵</p>
-<p><a title="溜达的磕巴" href="http://weibo.com/u/2176381002?refer_flag=1001030103_" target="_blank">溜达的磕巴 </a>： 不用高收入，大家有工作收入，能供养父母，承担孩子上学，家里人得了大病不用网上募捐不用因钱而放弃治疗，社会良性循环。比啥花架子高收入社会都重要。</p>
-<p><a href="http://weibo.com/u/5392028002?refer_flag=1001030106_">不知坠</a>：预计到时候有些发评论的人已再也见不到</p>
-<p><strong><a href="http://weibo.com/julian0420?refer_flag=1001030106_">牡羊座的Julian</a>：只要对手不要太强，我们发挥稳定，场地，气候，天气，观众等因素都有利于我们，中国队就可以稳定进入世界杯</strong></p>
-<p><a href="http://weibo.com/u/3716352693?refer_flag=1001030106_">吴昊天是大好人</a>：姚明和潘长江平均身高1米75<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p><a title="今晚吃药吗" href="http://weibo.com/u/2645538250?refer_flag=1001030103_" target="_blank">今晚吃药吗 </a>： “打完仗就回来娶你”<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">一个意思</p>
-<p><a href="http://weibo.com/ichthy?refer_flag=1005055013_" target="_blank">谷大白话</a> ：<i title="微博个人认证 "></i>→_→ //<strong><a href="http://weibo.com/n/%E9%A9%AC%E4%BC%AF%E5%BA%B8?from=feed&loc=at" target="_blank">@马伯庸</a>:“你看，这是我未婚妻的照片，打完最后这一场仗，我就金盆洗手，回老家结婚了。”</strong></p>
-<p><a title="一半海水一半火焰82" href="http://weibo.com/jackyyang1982?refer_flag=1001030103_" target="_blank">一半海水一半火焰82 </a>： 国家留给我的时间已经不多了<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a title="Q小糖的猫" href="http://weibo.com/qmaomaoqi?refer_flag=1001030103_" target="_blank">Q小糖的猫</a>：大晚上的老妈又给我发财经消息，什么2024年我国开始进入<em>高收入阶段</em>……这么官方，你觉得我会信？不知道她闺女水深火热中挣扎呢。先迈过今年这道坎再说吧！</p>
-<p><a title="死一" href="http://weibo.com/u/1626728305?refer_flag=1001030103_" target="_blank">死一 </a>： “不等于住得比原来好，工资比原来高”<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1">作者你开心就好</p>
-<p><strong><a href="http://weibo.com/2002829745" target="_blank">初见终究成再见</a>：这回没五毛了，谈到香港台湾美国，它们就出现了</strong></p>
-<p> </p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%912024%E5%B9%B4%EF%BC%8C%E5%9B%BD%E5%AE%B6%E7%95%99%E7%BB%99%E6%88%91%E7%9A%84%E6%97%B6%E9%97%B4%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%A4%9A%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2024%E5%B9%B4%E8%BF%9B%E5%85%A5%E9%AB%98%E6%94%B6%E5%85%A5%E9%98%B6%E6%AE%B5/?category=18271" rel="tag">2024年进入高收入阶段</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%89%E6%98%8E%E8%AE%BA/?category=18271" rel="tag">中国经济光明论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AB%E5%AF%8C%E5%B7%AE%E8%B7%9D/?category=18271" rel="tag">贫富差距</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%94%B6%E5%85%A5%E9%98%B6%E6%AE%B5/?category=18271" rel="tag">高收入阶段</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -759,7 +742,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2024%E5%B9%B4%E8%B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -769,5 +752,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2024%E5%B9%B4%E8%B
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

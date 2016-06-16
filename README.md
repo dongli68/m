@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%AF%91%E8%AF%BB-%E5%A6%82%E4%BD%95%E7%94%A8%E8%BE%93%E5%85%A5%E6%B3%95%E6%9D%A5%E7%9B%91%E6%8E%A7%E5%85%AD%E4%BA%BF%E7%BD%91%E6%B0%91%EF%BC%9F/" target="cdt-mirror">译读 | 如何用输入法来监控六亿网民？</a>
@@ -307,7 +307,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E6%9D%AF/?category=18271" rel="tag">世界杯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83/?category=18271" rel="tag">中国足球</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%B6%85/?category=18271" rel="tag">中超</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E8%82%B2%E5%B1%80/?category=18271" rel="tag">体育局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E8%82%B2%E6%80%BB%E5%B1%80/?category=18271" rel="tag">体育总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%9D%E6%B5%B7%E4%B8%9C/?category=18271" rel="tag">郝海东</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%81%94%E5%90%88%E6%96%B0%E9%97%BB%E7%BD%91-%E3%80%8C%E6%88%91%E4%B8%8D%E7%9F%A5%E9%A6%99%E6%B8%AF%E8%BF%99%E4%B9%88%E5%8D%B1%E9%99%A9%E3%80%8D%E9%A9%AC%E8%8B%B1%E4%B9%9D%E6%BC%94%E8%AF%B4/" target="cdt-mirror">联合新闻网 | 「我不知香港这么危险」马英九演说全文</a>
 </h2>
@@ -789,7 +789,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/papi%E9%85%B1/?cat
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0/?category=18271" rel="tag">中国制造</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E5%A7%8B%E4%BA%BA/?category=18271" rel="tag">创始人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%98%E5%AE%9D/?category=18271" rel="tag">淘宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%A9%E7%BE%8E%E4%BB%B7%E5%BB%89/?category=18271" rel="tag">物美价廉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83/?category=18271" rel="tag">知识产权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/?category=18271" rel="tag">阿里巴巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%87%BA%E4%B9%A6-%E5%A4%A7%E8%83%86%E9%A2%84%E8%A8%80%E4%B8%AD%E5%85%B1%E5%80%92%E5%8F%B0/" target="cdt-mirror">纽约时报 | 中国维权律师出书 大胆预言中共倒台</a>
 </h2>
@@ -1040,7 +1040,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%AA%E9%80%A0
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1050,5 +1050,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%AA%E9%80%A0
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

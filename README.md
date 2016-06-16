@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,45 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%AD%A6%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%B3%95%E5%BE%8B%E6%B2%A1%E6%9C%89%E6%8E%88%E4%BA%88%E5%85%AC%E6%B0%91%E6%8B%92%E7%BB%9D%E8%AD%A6%E6%96%B9%E6%9F%A5%E9%AA%8C%E7%9A%84%E6%9D%83%E5%88%A9/" target="cdt-mirror">【异闻观止】法学专家：法律没有授予公民拒绝警方查验的权利</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E7%BD%91.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E7%BD%91.png?resize=500%2C1102" alt="中国警察网" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中国警察网.png?w=605 605w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中国警察网.png?resize=136%2C300 136w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中国警察网.png?resize=465%2C1024 465w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><a href="http://news.cpd.com.cn/n18151/c33543970/content.html" target="_blank"><strong>中国警察网｜法学专家解读身份证查验热点问题</strong></a></p>
+<blockquote><p><strong>专家说：法律没有授予公民拒绝警方查验的权利</strong></p>
+<p>解志勇告诉记者，在我国法律中，有没有明确规定公民可以拒绝执法机关的执法行为的情况呢？有。比如，行政机关及其执法人员在罚款的时候不出示省级人民政府财政部门统一监制的收据之类的行为，法律明确规定相对人可以拒绝。但是，像这样由法律直接赋予公民拒绝行政机关执法的情况非常少，而且一般规定得都相当清楚。而在公安机关查验身份证的执法行为中，法律显然没有授予公民拒绝被查验的权利。我国法律的基本立场是先假定执法是合法的，公民不得拒绝。所以，公民应首先配合公安机关对身份证的查验，如果对公安执法有疑问，可以在配合查验之后，通过诉讼、复议、内部监督等渠道进行申诉。</p>
+<p>王旭指出，“我们必须把立法初衷和立法价值搞清楚。”既然聚焦“身份证查验”问题，就要回到基本的法治思维。身份证法的立法目的是什么？或者说，为什么国家要给公民身份证？它到底首先是一种权利，还是首先是一种义务？我国身份证法的第一条就非常清楚地解释了为什么要确立身份证制度：第一是为了有效证明你的身份，第二是保护你的权益，第三才是方便工作生活。</p>
+<p>“所以，国家设立身份证制度的初衷，首先是为了在维护公共秩序时去确认你的身份。从学理角度讲，这就奠定了公民要配合查验的法律依据。这和你钱包里有多少钱是不一样的。你钱包里的钱是你的权利，而你的身份证则是你配合国家确认自己身份的一项义务。当然，在弄清公民身份的过程中，公安机关要规范执法，这是另一个层面的问题。”王旭说。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<div><a href="http://weibo.com/3208775474" target="_blank">@胡混十年</a>：只有在抓逃犯围城、安全检查，正在实施犯罪或者有合理怀疑可能犯罪时才有必要检查身份证，绝对不包括街头随便拦住一个人来检查身份证。<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></div>
+<p>@扛着枕头：你们搞错了吧？对公民而言，法无禁止即是允许，对公权力而言，才是法无允许即禁止那。“授权”一说，只能针对公权力，公民作为是不用“授权”的，只要法律没有禁止的，我们就可以做~</p>
+<p>@孤独跑者94cpa：在额头上纹个二维码吧，爱咋咋地咋地</p>
+<p>@京诚老曹：如果警察要求脱了裤子验明是男是女怎么办？</p>
+<p>@奴家虚度二十三：先假定警察执法合作也就是说先假定百姓有假了？你们这是时刻怀疑人民群众都是坏人的节奏啊</p>
+<p>@隐藏好好学习：法律还没授权你可以吃饭呢</p>
+<p>@Miky许：难怪～～～砖家叫兽都这水平！！对私权力“法无禁止即可为”，对公权力“法无授权不可为”！这最基本的法律你学到哪里去了～～～替别人背书也不能这么不要脸面！！！</p>
+<p>@兰州张维林：极品艾斯比专家难不成不知：对公权，法无授权不可为；对私权，法无禁止即自由。即使公权与私权边界法律规定的不够明确，公权也必须止步于、让位于公民权利。</p>
+<p>@胡同一霸：YN帅凌云：受不了了，太不要B脸了，法学家为这种倒行逆施洗地真是世界奇葩，要他们证明公民没有拒绝吃屎的权利都完全成立—-确实该立法了！</p>
+<p>沧浪异客：从这个警察网的这个微博可以看到，这国警察的心态是多么的邪恶与霸道。</p>
+<p>@老男孩的考试卷啊：良民证？</p>
+<p>@努力改变的小王子：到底是谁来解释法律？公安部这是越权啊！</p>
+<p>@皖n马踏飞燕2：他妈的逼，天热我光个膀子在小区外面溜达也问我要身份证，</p>
+<p>@美味-美食：警察法、居民身份证法的解释权在公安部吗？</p>
+<p>@熊猫_pandaer：干脆出个法律，出门必须带证件，有病，g20，有次我他妈的下午小区门口沙县吃碗面，巡防队员拦住我，要查身份证，闲的蛋疼</p>
+<p>@llrjlb_7e2cec：有关身份证检查，《身份证法》和《警察法》规定得清清楚楚，该专家为什么不敢在文中分析一下？公安部门是要要公然宣告《身份证法》和《警察法》无效么？</p>
+<p>@岩岩岩岩爸爸：堂堂公安部，话说的不清不楚！问四个问题：一，中国居民是否必须要随身携带身份证，法律依据是什么？二，对于未携带居民身份证的人，警方要如何处理才是规范？三，警方在什么情况下才能查验身份证，是否随机性，想查谁就查谁？四，如何限制个别警员滥用警权，以查验身份证为借口，骚扰他人？请答复！</p>
+<p>@寒梅雪月：“我是警察，我在执法，你别说话，别管我对不对，有你说话的地方……”。他心里想:“敢质疑，敢反抗，敢给我讲理，看我回去怎么收拾你……”</p>
+<p>@随记者王华峰：警界自媒体的集体护短及为此公开发表的各种强词夺理甚至胡说八道，不难看出这个群体于法于理的认知水平有多low。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%AD%A6%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%B3%95%E5%BE%8B%E6%B2%A1%E6%9C%89%E6%8E%88%E4%BA%88%E5%85%AC%E6%B0%91%E6%8B%92%E7%BB%9D%E8%AD%A6%E6%96%B9%E6%9F%A5%E9%AA%8C%E7%9A%84%E6%9D%83%E5%88%A9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8/?category=18271" rel="tag">公安部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">警察国家</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4/" target="cdt-mirror">【立此存照】肇事逃逸的社会主义好青年</a>
 </h2>
 <p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4.jpg?resize=575%2C662" alt="社会主义好青年" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?w=1093 1093w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?resize=261%2C300 261w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?resize=768%2C884 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?resize=890%2C1024 890w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
@@ -36,7 +72,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc%EF%BD%9C%E8%B4%BE%E6%99%93%E7%83%A8%EF%BC%9A%E4%BB%8E%E6%99%AE%E9%80%9A%E5%88%B0%E7%A5%9E%E7%A7%98%E5%88%B0%E9%98%B6%E4%B8%8B%E5%9B%9A/" target="cdt-mirror">BBC｜贾晓烨：从普通到神秘到阶下囚</a>
 </h2>
@@ -75,7 +111,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E6%99%93%E7%83%A8/?category=18271" rel="tag">贾晓烨</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E9%A9%AC%E4%BA%91%E5%81%87%E8%B4%A7%E5%A5%BD%E8%BF%87%E7%9C%9F%E8%B4%A7%E8%AE%BA%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE/" target="cdt-mirror">博谈网｜马云“假货好过真货”论引发争议</a>
 </h2>
@@ -784,41 +820,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E5%AE%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%AE%B8%E5%AE%9D%E5%BC%BA%EF%BC%9A%E4%B8%BA%E4%BD%95%E6%B0%91%E4%BC%97%E4%BC%9A%E6%94%AF%E6%8C%81%E6%B3%95%E8%A5%BF%E6%96%AF%EF%BC%9F/" target="cdt-mirror">端传媒 | 许宝强：为何民众会支持法西斯？</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-%E4%B8%8B%E5%8D%885.23.17.png?resize=551%2C367" alt="Screen Shot 2016-06-13 at 下午5.23.17" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-下午5.23.17.png?w=551 551w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-13-at-下午5.23.17.png?resize=300%2C200 300w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><br><span>2010年10月13日，德国柏林历史博物馆内展示希特拉的制服。摄：Andreas Rentz/Getty</span></p>
-<p>希特勒与墨索里尼也许狼子野心、心狠手辣，但他们数以万计的追随者或支持者，是否也大奸大恶？还是拥有另一些不太一样的情感性格？他们普遍的精神面貌是怎样的？这是哲学家海德格尔（Martin Heidegger）的两位优秀弟子马尔库塞（Herbert Marcuse）和阿伦特（Hannah Arendt）共同关心的问题，也同时给出了类近但却不尽相同的答案。</p>
-<p>另一边厢，与马尔库塞和阿伦特基本上同时代的心理学家赖希（Wilhelm Reich），则以别的方式提出相关的问题：为何上世纪二三十年代为数不少的德意民众，会支持纳粹法西斯政权──一个限制自由、消灭民主的政权？或为何群众渴求一个压抑自身的政权，选择法西斯而非解放人民的革命？对这些问题，赖希给出了颇具创意的解答。</p>
-<p><strong>科技理性与犬儒文化</strong></p>
-<p>与其师海德格尔亲希特勒政权的立场相反，对纳粹持批判态度的马尔库塞和阿伦特，先后被迫流亡美国，分别深入而批判地描绘纳粹治下支持或顺从法西斯的德国民众的精神面貌。</p>
-<p>马尔库塞于第二次世界大战期间写的两篇长文《纳粹主义下的国家与个人》（<em>State and Individual under National Socialism</em>）及《新德国精神面貌》（<em>The New German Mentality</em>），仔细分析了在国家社会主义（纳粹主义）统治下，德国民众的情感性格。与卡尔．波兰尼（见系列之二）的观点类似，马尔库塞认为，纳粹统治所强调的生存竞争、官僚理性、科技效率、现实政治，完全扫除了道德考量，令群众逐渐转化为只剩下保存自我的极端自私本能，产生了一种极权的社会（totalitarian society） ，以及一种新的精神面貌和政治文化：包括以民俗文化、种族／民族、血与土等集体身份以至神话迷思的建构，把个体的私人生活、工作、闲暇政治化，社会关系被纳入了的无孔不入全面统制。</p>
-<p>另一方面，讲求物质利益、为达目的不择手段的马基维利式现实政治（realpolitik） ，配合“弱肉强食”的社会达尔文主义，打造出今天香港人不会陌生的“揾食大晒”（挣钱过活最重要）、贬抑理想愿景、“系咁㗎啦、好出奇呀？（是这样的了，很出人意表吗？”（matter-of-factness）式的犬儒主义；最后是贱视智性讨论、歌颂勇武战争，崇尚强健身体、进侵意志，以民族的灾难命运、帝国扩张，作为纽带，连系政权与原子化了的个体所构成的群众。</p>
-<p><strong>尽管纳粹政治的操作依赖种族神话、民俗迷思、身体与自然、意志和情感等元素，但马尔库塞的洞见在于揭示了在这“非理性”的外衣之下，纳粹主义的核心其实仍然是十分（工具）理性的：触发法西斯狂热的燃料，归根究柢还是无视道德、把民主自由视为虚妄的赤裸物质利益和政治权力。这种马尔库塞称之为科技理性的运作逻辑，无远弗届，甚至触及个体的私密，于是性与生育也屈从于优生设计、国家利益，为经济和军事扩张等赤裸裸的“现实政治”目标服务。</strong></p>
-<p><strong>邪恶的平庸</strong></p>
-<p>马尔库塞的同门阿伦特，则以协助屠杀犹太人的纳粹军官阿道夫．艾希曼（A. Eichmann）为案例，提出了著名的“邪恶的平庸”（banality of evil）的论断。在《艾希曼在耶路撒冷──一份关于邪恶的平庸的报告》（<em>Eichmann in Jerusalem – A Report on the Banality of Evil</em>，下简称 《艾希曼》）一书中，阿伦特从战后审判艾希曼的材料中，仔细描绘这个中低层纳粹军官的精神面貌，得出了这类积极参与“反人类”暴行的纳粹分子，其实并非穷凶极恶、精神异常之徒（几位精神病医生都证明艾希曼完全正常）。</p>
-<p>反之，他们都只是谨小慎微、尽忠职守的纳粹机器中的一件零件，或在官僚系统中丧失了思考能力的人，也就是“无思者”。无思（thoughtlessness）并不是愚蠢（stupidity），而是完全没有能力从他人的视角思考事情，只能不断重复己见、自说自话，听不见异声，自然没法与他人沟通；活在由官僚的空废语言筑构的高墙之内，难免不知人间何世，对社会现实离地无感。</p>
-<p>更糟的是，“无思者”也同时是“自恋者”，除了无思地执行由上下达的职责，他唯一关心的是自己的荣誉地位。艾希曼曾对以色列的警察说，如果职责需要，他会把父亲送上死亡之路。从艾希曼与警察的对话纪录中，阿伦特发现，错记很多历史事实的艾希曼，却能准确记忆其职业生涯的转捩点，并毫不犹豫地不断向警察重复解释，他的职位之所以无法更上一层楼，并不是他的过错。</p>
-<blockquote><p>尽管阿伦特写作《艾希曼》的目的，并不是想建构一套有关纳粹民众心态的普遍理论，而是希望把反思的焦点，置放于特定的个体应担负的道德责任。然而，她对艾希曼无思自恋的仔细描写，其实也在不同程度上适用于科技理性孕育成长的现代个体身上。而久经学校和官／职场训练的现代个体，看到艾希曼在纳粹战败后的这一段迷惘慨叹：“我感觉将要活于再没有领导的艰难个体生活之中，再不会从他人中得到指示、命令和方向，也没有相关的规条指引，一种我从不知道的生活将横贯于面前”，大概也不会对这种逃避自由的独白感到陌生。而在科技理性和现实政治包围下的逃避自由、道德无感、惯受指令、自恋无思的个体，正是让大屠杀发生、法西斯坐大的民众心理及精神面貌。</p></blockquote>
-<p><strong>性压抑与法西斯群众心理</strong></p>
-<p>如果说马尔库塞与阿伦特为法西斯的民众心理及精神面貌，提供了深入而仔细的描述，那么赖希则尝试为法西斯民众欲求自我被管控和压迫的行径，提供一种结合马克思与佛洛伊德的社会精神分析。</p>
-<p>赖希认为，法西斯民众的心理，归根究柢源自专制家庭和社会对（广义的）性能量（libido）的压抑。习惯于父权规限、快感欲望不断延后的儿童，长大后容易变得听话驯服、顺从权力。而他们进入社会之后，由于学校、企业、政府与家庭的权威结构基本相同，因此延续了民众的顺服，甚至倾向认同压迫他们的权威，尤其容易出现于性压抑特别严重的中产或小资家庭背景的人。这也是为什么法西斯和纳粹的主要支持者，以中产或小资阶级为主。赖希进一步解释，德国不少女性也支持纳粹，反映的是长期的性压抑，再加上宗教的罪咎感，令妇女更易受纳粹反共的宣传（如共妻）影响，基于恐惧及逃避性解放的自由，选择支持纳粹，体现的就是一种自我防卫的道德机制。</p>
-<p>然而，生命冲动的长久压抑，很可能导致日后极端的反弹。赖希认为，法西斯民众之所以愿意走向宗教及生物上的神秘主义，又或投入各种非理性的集体行动和仪式，甚至崇尚暴力，与性能量（或身心快感）长期受压、无法满足，因此需另觅出路有关。</p>
-<p>法西斯和纳粹要取消个体自由、要求服从权威、追求外在认可和赋予的荣誉与责任，甚至令个体在长期不忿下上产生残酷施虐倾向（对自身和他人的压抑和暴力）。我们或可以想像，如果一个人自小就活在没有性压抑的环境，长期享有波兰尼所指的不顺服的权利，敢于追求和习惯享受生命中的各种愉悦，其身心状态、情感性格，与法西斯和纳粹所要求的，是格格不入的。赖希因此认为，当时德国长期压抑民众性能量的权威家庭与社会结构，在每个人心中都植下了法西斯的种子，只要遇上适合的环境土壤，就会发芽成长。</p>
-<p>触发法西斯主义于上世纪初在全球扩散的合适环境土壤，自然不能够归结于个别国家或野心领袖的特质，而应该以宏观的历史视野，进行长期段、大范围的研究分析，才有可能把握。本系列最后一篇文章，将介绍波兰尼的相关分析，探讨能催生法西斯主义大规模扩散的历史脉络。</p>
-<p><strong>（未完待续）</strong></p>
-<p><strong>（许宝强，香港岭南大学文化研究系副教授）</strong></p>
-<p><strong>参考资料：</strong></p>
-<p>Arendt, Hannah (1963): <em>Eichmann in Jerusalem: A Report on the Banality of Evil</em>. (Rev. ed. New York: Viking, 1968.)</p>
-<p>Herbert Marcuse (1998): “State and Individual under National Socialism” and “The New German Ideology,” <em>in Technology</em>, War and Fascism, London and New York: Routledge.</p>
-<p>Reich, Wilhelm (1970): T<em>he Mass Psychology of Fascism</em>, Preface, chapters I-II, New York: Farrar, Straus and Giroux.</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%AE%B8%E5%AE%9D%E5%BC%BA%EF%BC%9A%E4%B8%BA%E4%BD%95%E6%B0%91%E4%BC%97%E4%BC%9A%E6%94%AF%E6%8C%81%E6%B3%95%E8%A5%BF%E6%96%AF%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%B2%E5%AD%A6/?category=18271" rel="tag">哲学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%8C%E7%89%B9%E5%8B%92/?category=18271" rel="tag">希特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/?category=18271" rel="tag">政治理论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E8%A5%BF%E6%96%AF/?category=18271" rel="tag">法西斯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -830,7 +831,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%B2%E5%AD%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -840,5 +841,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%93%B2%E5%AD%A6
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

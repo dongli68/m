@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E9%93%9C%E9%94%A3%E6%B9%BE%E5%BA%97%E9%95%BF%E7%BF%BB%E4%BE%9B%E7%9A%84%E5%AE%9E%E8%B4%A8/" target="cdt-mirror">【真理部】《环球时报 铜锣湾店长“翻供”的实质内容不多》</a>
+</h2>
+<p><p>全网查删《环球时报 铜锣湾店长“翻供”的实质内容不多》 ，相关报道一律不转载。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>附《环球时报》原标题：社评：铜锣湾店长“翻供”的实质内容不多</p>
+<p>香港铜锣湾书店“失踪”的店长林荣基本周返回香港后，于16日召开记者会，做出了一个有似“翻供”的姿态，在香港舆论中激起轩然大波。</p>
+<p>林荣基讲述了他去年10月24日经罗湖回深圳后被拘留，后坐火车转到宁波“监视居住”的细节。他断言铜锣湾书店李波是被内地执法人员“跨境执法”从香港捉拿带走的，这与李波本人的说法不同。他还说自己“电视认罪”时“有导演有台词”，自己被迫配合。</p>
+<p>林说“中央政府逼到香港人无路可退”，又说“港人向强权说不”，这两句话被广泛引用，情绪味很浓。在香港的舆论氛围中，林荣基这番话显然提供了全面质疑铜锣湾书店“失踪五子”案件的最新炮弹，让内地执法部门看上去有些被动。这样的印象在昨天显得相当突出。</p>
+<p>但是仔细看林荣基的讲述，实质内容并不多。首先，林荣基本人承认，他是在过了罗湖海关后，在深圳一侧被抓的。这一点非常关键，因为如果林的行为触犯了内地法律，内地警方在辖区内依法对其采取强制行动是符合法治原则的。</p>
+<p>林虽然一口咬定李波是被“跨境执法”从香港抓走的，但他没有提供任何证据。李波的情况到底是怎么回事，林荣基并非当事人亦不了解。迄今为止，李波表示他是自愿前往内地配合调查的。</p>
+<p>此外林的记者会至少证实了他在内地没有受到虐待和刑讯逼供，这与一些人凭空想象的内地执法人员会粗暴对待林荣基等被抓者的情景显然不一样。</p>
+<p>林一回到香港就开这个记者会，并且不担心自己的安全，这从一个侧面也证明了香港的自由。香港一些舆论宣称铜锣湾书店案使得“一国两制”从此“不复存在”，他们在做此批评时应当悠着点。</p>
+<p>林说他“电视认罪”时“有导演有台词”，这虽然是他单方面的说法，但很容易被一部分人信以为真。因此林的此项指控可能引发对其他4人“电视认罪”真实性的追问，是否会有更严重后果，将取决于新一轮追问会否引出我们所不了解的关键证据。当然，“电视认罪”的形式出现几年以来，在内地也引发了一些争议，它们的舆论效果是见仁见智的。但是，“电视认罪”的做法是否妥当，与有关方面对林荣基采取的措施是否合法是两回事。</p>
+<p>铜锣湾书店风波从发生到现在已经过去近9个月，它带来了诸多思考，帮助人们把一些事情看得更清楚了。比如，香港各种力量都要尊重内地的政治体制，不可采取破坏国家安全和内地政治稳定的行动。内地则要更严格地尊重香港独立司法权，了解香港舆论在这方面的高度敏感。</p>
+<p>“一国两制”是需要在实践中不断磨合、完善的，有关方面一直在为消除香港舆论的多虑不懈努力，只要不怀偏见，就不难看到来自中央和内地长期坚持“一国两制”的诚意。由于香港舆论机制是西式的，内地体制与之难以充分对接，从香港舆论的角度很容易主动出击，令内地某些方面的回应显得被动，但这在很多时候并不意味着简单的对错关系。</p>
+<p>香港舆论不宜发展对内地的“斗争思维”，通过斗争来实现香港的利益决非“一国两制”的真谛。沟通和协商更加重要，它更符合中华文明的内在逻辑，也更适应香港在中国主权之下实行高度自治的法律制度和政治现实。</p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E3%80%8A%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E9%93%9C%E9%94%A3%E6%B9%BE%E5%BA%97%E9%95%BF%E7%BF%BB%E4%BE%9B%E7%9A%84%E5%AE%9E%E8%B4%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%9C%A8%E6%96%B0%E7%96%86%EF%BC%8C%E6%96%8B%E6%9C%88%E5%90%83%E5%96%9D%E6%96%B9%E6%98%BE%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E6%9C%AC%E8%89%B2/" target="cdt-mirror">美国之音｜在新疆，斋月吃喝方显共产党员本色</a>
 </h2>
 <p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/C0A304C8-9584-4B6E-B8B1-AA0EC391608F_w640_r1_s_cx0_cy21_cw0.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/C0A304C8-9584-4B6E-B8B1-AA0EC391608F_w640_r1_s_cx0_cy21_cw0.png?resize=575%2C323" alt="C0A304C8-9584-4B6E-B8B1-AA0EC391608F_w640_r1_s_cx0_cy21_cw0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/C0A304C8-9584-4B6E-B8B1-AA0EC391608F_w640_r1_s_cx0_cy21_cw0.png?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/C0A304C8-9584-4B6E-B8B1-AA0EC391608F_w640_r1_s_cx0_cy21_cw0.png?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>新疆共青团网上发布的斋月茶话会照片</span></p></div>
@@ -975,35 +1000,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2017%E5%B9%B4%E8%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%BB%BA%E7%BD%91%E7%BB%9C%E6%96%97%E4%BA%89%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83-%E6%95%B0%E5%8D%81%E4%B8%87%E5%AD%A6%E7%94%9F%E5%BD%93/" target="cdt-mirror">自由亚洲｜建“网络斗争”指挥中心 数十万学生当“水兵”</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e5630899-bd8e-4565-a5de-3328602763c0.jpg?resize=550%2C366" alt="学生五毛1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e5630899-bd8e-4565-a5de-3328602763c0.jpg?w=622 622w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e5630899-bd8e-4565-a5de-3328602763c0.jpg?resize=300%2C200 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>来源: 自由亚洲电台 斗争指挥中心内景。(知情人提供，拍摄时间不详)</p>
-<p>由河南省拨款，郑州市团委牵头的网络斗争指挥中心周二(14日)遭曝光﹐主要在高校及中小学招募数十万“网络志愿者”。观察人士指出，当局在原隶属于宣传部的五毛队伍基础上与团委整合，建立该半官方组织体系，显示官方政治左倾的表现。</p>
-<p>知情人在微博上发布，该河南网络斗争指挥中心规模宏大，设备先进，还将在河南省各大高校、中小学招募数十万“网络志愿者”，其内部的表述称，“坚决与一切不良的信息及其传播者进行你死我活的斗争”。</p>
-<p>据悉，该消息一经曝光，即引发了广泛的关注，网民指该项目文革式的斗争表述语境让人吃惊。</p>
-<p>本台记者致电郑州团市委办公室，该办人士证实确有其事，并表示是团市委宣传部负责该“斗争”项目。但在被问及该项目耗费多少时，她则称不知情，是团委宣传部直接负责。</p>
-<p>她说：网络斗争？等一下，那个是宣传部负责的。是在宣传，我们单位内部的宣传部，网络斗争嘛，这项工作，都是他们负责的。</p>
-<p>但郑州团市委宣传部在接受本台采访时则只追问我们从何得知该消息，此后即称不知情。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/china-ideology1.jpg?resize=550%2C277" alt="学生五毛" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/china-ideology1.jpg?w=800 800w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/china-ideology1.jpg?resize=300%2C151 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/china-ideology1.jpg?resize=768%2C387 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>体制内的从业人士王先生告诉本台记者，官方重提“斗争”的说法，是从2012年底开始的，现在依然在延续，但在对外的宣传中回避使用斗争两个字，也是行内的规矩。</p>
-<p>他说：政府出面搞了这样一个组织，它的目的就是为了加强对网络管理的那个意思，这是从中央到地方都是，半官方性质的这样一个组织。它的作用，它的性质就是这样的。出现的那种网络斗争，舆论斗争，宣传2012年底的时候，就开始这样讲，到现在也是这样讲。他们始终认为确实是境外的力量一起在操控著我们大陆的网络。是他们在做宣传的时候，用上了斗争这两个字的词滙，所以引起了争议。那肯定是他们工作当中出现的失误。现在像这两个字是很忌讳的。</p>
-<p>王先生还透露，对这样的说法，大众接受不了，但是官方的思维模式就一直是那样，无法改变。</p>
-<p>他说：站在大众的角度上分析问题的话，接受不了。对他们的思维模式来讲，他们认为这两个字用得很正常。这个思维跟27年前的六四思维是一样的，怎么去更改？</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/china-ideology3.jpg?resize=550%2C366" alt="china-ideology3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/china-ideology3.jpg?w=800 800w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/china-ideology3.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/china-ideology3.jpg?resize=768%2C511 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>媒体评论员贾平认为，利用五毛的模式，加上团委庞大的人力，加入民族主义的因素，进行所谓的斗争，依然是政治语境左倾的表现。这是他们一直习惯性的做法。</p>
-<p>贾平说：它从团委这一块来，还是从所谓的以前五毛的那个体制来的扩展，扩展到网络斗争的层面上。它还是左的啊，情况有时候偏民族主义一点嘛。所以说，很多人讨论过嘛，会不会重蹈文革的那一幕，从社会的层面方面看呢，这个完全重复是不可能的，它会在技术上不同程度地去靠拢。因为这是一套他们最熟练的手段，一方面政治上的需要，另外他们也只会这个。</p>
-<p>根据官方媒体报道显示，习近平上台后，官方在意识形态领域多次重提斗争说。2013年初，在全国宣传部长会议上，首次将媒体的“舆论引导”的说法改成“舆论斗争”；2013年9月，官媒人民日报发表评论称，关键时刻要敢于亮剑，随后，大批网络大V和记者被抓。2014年9月，中国社科院院长王伟光在《红旗文稿》发表约8000字长文，文中11度提及“阶级斗争”，重提“社会主义与资本主义两大力量生死博弈”，引发国际社会广泛关注。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%BB%BA%E7%BD%91%E7%BB%9C%E6%96%97%E4%BA%89%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83-%E6%95%B0%E5%8D%81%E4%B8%87%E5%AD%A6%E7%94%9F%E5%BD%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B%E5%A4%A7%E8%A7%82/?category=18271" rel="tag">五毛大观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B%E7%B2%BE%E9%80%89/?category=18271" rel="tag">五毛精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E7%94%9F%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">学生五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1015,7 +1011,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1025,5 +1021,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,58 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%9F%E6%B5%AA%EF%BC%9A/" target="cdt-mirror">孟浪：香港6月18日現場直擊</a>
+</h2>
+<p><p>2016的紧急状况：言论自由在香港（信息自由观察图文报道）</p>
+<p>香港的独立图书出版界的同行、独立中文笔会之友、勇敢的香港人林荣基（铜锣湾书店店长，图中戴蓝色棒球帽、穿白底花色衬衣者），6月18日下午现身香港街头，参加抗议集会和游行，向强权说不，捍卫言论自由，捍卫人身自由。</p>
+<p>附：香港《苹果日报》报道：</p>
+<p>【被失踪真相】游行队伍到达中联办 大会宣佈6千人参与</p>
+<p>拒出卖读者的铜锣湾书店店长林荣基，豁出去公开被失踪真相，激励港人向强权说不，有传媒随即引述宁波公安局，宣称将启动与港警的工作机制，暗示不会就此了事，白色恐怖笼罩全城。多个政党下午3时发起「向强权说不」游行，由铜锣湾东角道集合，游行到中联办，抗议中共破坏一国两制，林将出席及发言，《苹果》直播今次游行。</p>
+<p>【下午2时16分】</p>
+<p>有泛民成员已在游行起步点、铜锣湾书店前架起横额，呼吁市民「向强权说不」，要求「捍卫言论和人身自由」，惟铜锣湾书店并无开业。记者现场目测，至少有近30名军装警员戒备，亦有便衣警员。</p>
+<p>【下午2时22分】</p>
+<p>保卫香港自由联盟发言人韩连山、女长毛雷玉莲现身撑场。韩连山指，铜锣湾事件令港人人心惶惶，希望更多港人关注事件，更多人撑林荣基，指林挺身爆料后，人身安全一定受威胁，他希望政府依法保护香港人。</p>
+<p>【下午2时36分】</p>
+<p>林荣基于民主党立法会议员何俊仁及单仲偕陪同下现身，林手持一封市民支持信，信封面写有「烦请何俊仁先生转交林荣基先生」，林荣基则指「多谢香港人」。林上台带领喊「向强权说不，香港有底线」口号，台下随即鼓掌，亦有人高喊「加油！」</p>
+<p>林指，香港法例保障出版自由，但中央政府以暴力摧毁书店，收窄港人自由。他指，李波人虽在港，但背后仍被操控，指理解李波「要讲违心嘅说话」，丧失免于恐惧的自由。林指，自己会尽力帮助李波，希望港人亦会尽力帮助李波，「唔好因为呢件事完结就无」。</p>
+<p>林荣基又指，雨伞运动时「落咗去三四次」，自己很同情学生，认为大多数港人为生计忙碌，不多参与政治，但各人心中仍会默默关注事件。林指，自己会尽力帮助李波，希望港人亦会尽力帮助李波，「唔好因为呢件事完结就无」。</p>
+<p>【下午3时】</p>
+<p>游行开始，林荣基在开步前多次发言指「多谢香港人，我哋应该多谢香港人」。游行队伍将向东角道方向出发。林又指，香港人的特性是「无事时唔会出声，有事嘅时候就会企哂出嚟」，指不清楚中国政府是否了解香港人。希望此事后，中国政府更明白香港人诉求，指他不是希望推翻某一个政权，只是希望安居乐业，享有言论、出版、集会、结社和免于恐惧的自由。</p>
+<p>何俊仁指，记招后不少市民表示感动，并感激林荣基。何形容林「只係一个有腰骨的香港人」，说出香港人想知的真相，希望香港人能支持林荣基。</p>
+<p>【下午3时40分】</p>
+<p>林荣基游行至湾仔仍未离队。他接受本报访问时称，过往也曾参与不同游行，包括89年六四事件游行，「八号风球你记唔记得？」。问到他今天感受如何，他说：「香港人咁多人出嚟，好高兴有咁多人」。他摇头表示不担心日后安全，「咁多人唔怕嘅，香港有700万人，有乜好怕？係嘛」。被问到有甚麽话跟香港人说，他拿过记者录音笔说：「香港人係唔怕强权嘅！」</p>
+<p>【下午3时54分】</p>
+<p>约十名爱港之声成员出现在修顿球场外，拉起写有「林荣基在内地违法被拘应该，反中政棍诬衊政府可耻」横额。警方划出示威区，但示威区佔用一半游行路，令游行队伍届上址时犹如进行樽颈位。游行队伍亦刚经过修顿球场，有游行人士斥爱港之声「人渣垃圾」。</p>
+<p>另外，一名光头男子于湾仔推手推车狙击游行队伍，批评泛民议员乱港，警方指「我地会有同事处理」，并随即派出三警员上前查问。</p>
+<p>【下午4时12分】</p>
+<p>林荣基称「有啲攰」，决定先行回立法会稍作休息，「想返去坐一坐」。林指，自己虽然先行离开，「其实我一直都係同香港人一齐，好高兴香港係有希望嘅！」对于特首梁振英下周回港，林荣基指完全不期望梁振英可协助他，称「一啲信心都冇，佢哋係做唔到嘢」。林又指，现时政府需要挽回的，是港人的信心，而并非他一人。</p>
+<p>被问及往后会否继续经营「禁书」业务，林荣基回应指，「禁书係佢定㗎啫，香港係冇禁书嘅！」有市民向他高举姆指，大讚「好嘢！好嘢！够胆讲真话！」，林则挥手回应「多谢」。</p>
+<p>【下午4时34分】</p>
+<p>林荣基在单仲偕及何俊仁陪同下，到达立法会九楼休息。问到现时会否要求警方人身保护，林指「暂时唔需要」，指，「唔惊得咁多㗎嘞，有香港人保护我，呢度咁多香港人，我有乜好惊？」他又指仍相信香港司法制度，「三权分立架嘛！」</p>
+<p>【下午5时42分】</p>
+<p>游行队伍到中联办。林荣基乘车离开立法会。大会宣佈于湾仔柯布连道点算，有6,000人参与今次游行。泛民会议召集人何秀兰指，改变需要由「在地」开始，感谢今日出席游行的港人，并希望香港人继续努力，捍卫真相、一国两制及出版自由。</p>
+<p>有社民连成员欲把示威物扔进中联办，遭警方阻止。韩连山及女长毛雷玉莲，在中联办外焚烧道具共产党旗。</p>
+<p>【下午6时26分】</p>
+<p>游行人士已陆续散去。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-23.jpg?resize=550%2C309" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-23.jpg?w=2048 2048w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-23.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-23.jpg?resize=768%2C432 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-23.jpg?resize=1024%2C576 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4-1.jpg?resize=540%2C960" alt="4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4-1.jpg?w=540 540w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4-1.jpg?resize=169%2C300 169w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2.jpg?resize=540%2C960" alt="2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2.jpg?w=540 540w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2.jpg?resize=169%2C300 169w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6-1.jpg?resize=548%2C308" alt="6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6-1.jpg?w=2048 2048w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6-1.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6-1.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6-1.jpg?resize=1024%2C576 1024w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3-1.jpg?resize=550%2C309" alt="3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3-1.jpg?w=2048 2048w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3-1.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3-1.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3-1.jpg?resize=1024%2C576 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5-1.jpg?resize=551%2C310" alt="5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5-1.jpg?w=2048 2048w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5-1.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5-1.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5-1.jpg?resize=1024%2C576 1024w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8.jpg?resize=550%2C309" alt="8" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8.jpg?w=2048 2048w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8.jpg?resize=1024%2C576 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7.jpg?resize=540%2C960" alt="7" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7.jpg?w=540 540w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7.jpg?resize=169%2C300 169w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></p>
+<hr><p><small>© 中国好网民 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%9F%E6%B5%AA%EF%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%80%9D%E8%80%83%E8%80%85ithink%EF%BD%9C/" target="cdt-mirror">思考者iThink｜吴建民留下的话：中国这个势头如果丧失了</a>
 </h2>
 <p><h2><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-7.jpg?resize=375%2C559" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-7.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-7.jpg?resize=201%2C300 201w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></h2>
@@ -84,7 +133,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AE%BA%E6%88%98/?category=18271" rel="tag">吴建民胡锡进论战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%BD%A6%E7%A5%B8%E9%80%9D%E4%B8%96/?category=18271" rel="tag">吴建民车祸逝世</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E5%A4%A9%E5%A0%82%E9%87%8C%E4%B8%8D%E5%88%86%E9%B8%BD%E6%B4%BE%E9%B9%B0%E6%B4%BE-%E5%90%B4%E5%A4%A7%E4%BD%BF%E5%AE%89%E6%81%AF%EF%BC%81/" target="cdt-mirror">导弹熊 | 天堂里不分鸽派鹰派  吴大使安息！</a>
 </h2>
@@ -882,42 +931,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8B%E8%B7%8C
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%AD%A6%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%B3%95%E5%BE%8B%E6%B2%A1%E6%9C%89%E6%8E%88%E4%BA%88%E5%85%AC%E6%B0%91%E6%8B%92%E7%BB%9D%E8%AD%A6%E6%96%B9%E6%9F%A5%E9%AA%8C%E7%9A%84%E6%9D%83%E5%88%A9/" target="cdt-mirror">【异闻观止】法学专家：法律没有授予公民拒绝警方查验的权利</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E7%BD%91.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E7%BD%91.png?resize=500%2C1102" alt="中国警察网" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中国警察网.png?w=605 605w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中国警察网.png?resize=136%2C300 136w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/中国警察网.png?resize=465%2C1024 465w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><a href="http://news.cpd.com.cn/n18151/c33543970/content.html" target="_blank"><strong>中国警察网｜法学专家解读身份证查验热点问题</strong></a></p>
-<blockquote><p><strong>专家说：法律没有授予公民拒绝警方查验的权利</strong></p>
-<p>解志勇告诉记者，在我国法律中，有没有明确规定公民可以拒绝执法机关的执法行为的情况呢？有。比如，行政机关及其执法人员在罚款的时候不出示省级人民政府财政部门统一监制的收据之类的行为，法律明确规定相对人可以拒绝。但是，像这样由法律直接赋予公民拒绝行政机关执法的情况非常少，而且一般规定得都相当清楚。而在公安机关查验身份证的执法行为中，法律显然没有授予公民拒绝被查验的权利。我国法律的基本立场是先假定执法是合法的，公民不得拒绝。所以，公民应首先配合公安机关对身份证的查验，如果对公安执法有疑问，可以在配合查验之后，通过诉讼、复议、内部监督等渠道进行申诉。</p>
-<p>王旭指出，“我们必须把立法初衷和立法价值搞清楚。”既然聚焦“身份证查验”问题，就要回到基本的法治思维。身份证法的立法目的是什么？或者说，为什么国家要给公民身份证？它到底首先是一种权利，还是首先是一种义务？我国身份证法的第一条就非常清楚地解释了为什么要确立身份证制度：第一是为了有效证明你的身份，第二是保护你的权益，第三才是方便工作生活。</p>
-<p>“所以，国家设立身份证制度的初衷，首先是为了在维护公共秩序时去确认你的身份。从学理角度讲，这就奠定了公民要配合查验的法律依据。这和你钱包里有多少钱是不一样的。你钱包里的钱是你的权利，而你的身份证则是你配合国家确认自己身份的一项义务。当然，在弄清公民身份的过程中，公安机关要规范执法，这是另一个层面的问题。”王旭说。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<div><a href="http://weibo.com/3208775474" target="_blank">@胡混十年</a>：只有在抓逃犯围城、安全检查，正在实施犯罪或者有合理怀疑可能犯罪时才有必要检查身份证，绝对不包括街头随便拦住一个人来检查身份证。<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></div>
-<p>@扛着枕头：你们搞错了吧？对公民而言，法无禁止即是允许，对公权力而言，才是法无允许即禁止那。“授权”一说，只能针对公权力，公民作为是不用“授权”的，只要法律没有禁止的，我们就可以做~</p>
-<p>@孤独跑者94cpa：在额头上纹个二维码吧，爱咋咋地咋地</p>
-<p>@京诚老曹：如果警察要求脱了裤子验明是男是女怎么办？</p>
-<p>@奴家虚度二十三：先假定警察执法合作也就是说先假定百姓有假了？你们这是时刻怀疑人民群众都是坏人的节奏啊</p>
-<p>@隐藏好好学习：法律还没授权你可以吃饭呢</p>
-<p>@Miky许：难怪～～～砖家叫兽都这水平！！对私权力“法无禁止即可为”，对公权力“法无授权不可为”！这最基本的法律你学到哪里去了～～～替别人背书也不能这么不要脸面！！！</p>
-<p>@兰州张维林：极品艾斯比专家难不成不知：对公权，法无授权不可为；对私权，法无禁止即自由。即使公权与私权边界法律规定的不够明确，公权也必须止步于、让位于公民权利。</p>
-<p>@胡同一霸：YN帅凌云：受不了了，太不要B脸了，法学家为这种倒行逆施洗地真是世界奇葩，要他们证明公民没有拒绝吃屎的权利都完全成立—-确实该立法了！</p>
-<p>沧浪异客：从这个警察网的这个微博可以看到，这国警察的心态是多么的邪恶与霸道。</p>
-<p>@老男孩的考试卷啊：良民证？</p>
-<p>@努力改变的小王子：到底是谁来解释法律？公安部这是越权啊！</p>
-<p>@皖n马踏飞燕2：他妈的逼，天热我光个膀子在小区外面溜达也问我要身份证，</p>
-<p>@美味-美食：警察法、居民身份证法的解释权在公安部吗？</p>
-<p>@熊猫_pandaer：干脆出个法律，出门必须带证件，有病，g20，有次我他妈的下午小区门口沙县吃碗面，巡防队员拦住我，要查身份证，闲的蛋疼</p>
-<p>@llrjlb_7e2cec：有关身份证检查，《身份证法》和《警察法》规定得清清楚楚，该专家为什么不敢在文中分析一下？公安部门是要要公然宣告《身份证法》和《警察法》无效么？</p>
-<p>@岩岩岩岩爸爸：堂堂公安部，话说的不清不楚！问四个问题：一，中国居民是否必须要随身携带身份证，法律依据是什么？二，对于未携带居民身份证的人，警方要如何处理才是规范？三，警方在什么情况下才能查验身份证，是否随机性，想查谁就查谁？四，如何限制个别警员滥用警权，以查验身份证为借口，骚扰他人？请答复！</p>
-<p>@寒梅雪月：“我是警察，我在执法，你别说话，别管我对不对，有你说话的地方……”。他心里想:“敢质疑，敢反抗，敢给我讲理，看我回去怎么收拾你……”</p>
-<p>@随记者王华峰：警界自媒体的集体护短及为此公开发表的各种强词夺理甚至胡说八道，不难看出这个群体于法于理的认知水平有多low。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%AD%A6%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%B3%95%E5%BE%8B%E6%B2%A1%E6%9C%89%E6%8E%88%E4%BA%88%E5%85%AC%E6%B0%91%E6%8B%92%E7%BB%9D%E8%AD%A6%E6%96%B9%E6%9F%A5%E9%AA%8C%E7%9A%84%E6%9D%83%E5%88%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%AE%89%E9%83%A8/?category=18271" rel="tag">公安部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A0%96%E5%AE%B6/?category=18271" rel="tag">砖家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">警察国家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -929,7 +942,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -939,5 +952,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

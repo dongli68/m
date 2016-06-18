@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,95 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E5%A4%A9%E5%A0%82%E9%87%8C%E4%B8%8D%E5%88%86%E9%B8%BD%E6%B4%BE%E9%B9%B0%E6%B4%BE-%E5%90%B4%E5%A4%A7%E4%BD%BF%E5%AE%89%E6%81%AF%EF%BC%81/" target="cdt-mirror">导弹熊 | 天堂里不分鸽派鹰派  吴大使安息！</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8A%E5%8D%887.56.50.png?resize=534%2C375" alt="Screen Shot 2016-06-18 at 上午7.56.50" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.56.50.png?w=534 534w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.56.50.png?resize=300%2C211 300w" sizes="(max-width: 534px) 100vw, 534px" data-recalc-dims="1"></p>
+<p>吴建民大使不幸车祸去世，这是本时代的一个损失。</p>
+<p>因为本时代的中国虽然气血实际不足，但喜欢亮肌肉的人不在少数，吴大师那种温和稳健的声音，就显得非常可贵。没有这种声音的制衡，人家会觉得中国好躁动。</p>
+<p>我跟他打交道不多，最早是在《读书》上看过他的亲笔文章；后来做一个国际报道的策划，曾经请他来做讲座，除了佩服他学养深厚，也喜欢那种如沐春风的感觉；再后来，在一些参考信息上看到他在各种公开场合的发言，觉得他越来越警惕外交冒进和国力虚荣。</p>
+<p>我觉得抛开外交官的标签，他身上有一种士大夫气质，这是今天中国官员所欠缺的。在朝少士大夫，在野就少乡贤；在朝少大儒，在野就少清流；在朝少身言书判都很好的官员，在野就少仪表和风度都很好的民众。</p>
+<p>理论上说，我们应该称他为前大使，但我觉得他本色上还是个外交官，而且退休后依然是中外交流的一个大使，所以就这样叫下去好了。</p>
+<p>我不太喜欢人家说他是鸽派。如果非要安一个什么派给他，那就是务实派，或者说理性派。对外交而言，务实和理性，就意味着进退有节、张弛有度、刚柔并济，既不得虚名而受实祸，也不见利忘义不讲规矩。</p>
+<p>作为职业外交官，他经历了新中国的前三十年和后三十年，深谙中国外交曾经走过的弯路和吃过的亏；足迹遍布各大洲，见识过种种国度和领导人，知道什么是世界潮流。</p>
+<p>所以我相信他的智慧不是闭门造车的产物，也不是书斋战略家的发挥，他做过外交实务，又潜心外交学术，还在政治上有所负责，故而老成谋国，不放空炮。</p>
+<p>今天有人重发了他的一个观点：民粹、民族主义本质是反改革开放。</p>
+<p>大哉斯言!</p>
+<p>外交是内政的镜子，有什么样的国内下垫面，就有什么样的外交阴晴风雨。</p>
+<p>从古至今，真正优秀的外交官，都是力争用非战争手段来解决问题的，他们中最顶级的那些，与孙子暗合，是主张“伐交大于伐兵”的。</p>
+<p>也许我们未必认同他的所有观点，但有一点是永远没错的，那就是即便有人可能成为我们的敌人，我们也不能主动去制造敌人，不能为渊驱鱼，把本来可以变成朋友或者至少保持中立的人，也变成我们敌人。</p>
+<p>今天的中国，有鹰派抬头的倾向。好的鹰派，是有事不怕事，没事不惹事；糟糕的鹰派，则是没事喧嚣挑事，遇事百无一用。中国欢迎前一种鹰派。后一种不叫鹰派，叫乌鸦派，骨子里是搅屎棍。</p>
+<p>也许真正的鹰派，骨子里和吴大使是心灵相通的。一个努力遏制战争的人，未必就是战争爆发后退缩的人。</p>
+<p>但所有这一切，都已经和吴大使没有了瓜葛。</p>
+<p>他终寿77岁，在这个时代不算太老，完全还可以为国谋算很多年。</p>
+<p>我们除了惋伤，别无他词，只希望他荣归天堂。</p>
+<p>那里没有鹰派鸽派，只有安详。</p>
+<blockquote><p>相关阅读：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%90%B4%E5%BB%BA%E6%B0%91%E6%89%B9%E3%80%8A%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%E6%96%87%E7%AB%A0%E6%9E%81%E7%AB%AF%EF%BC%8C%E8%83%A1%E9%94%A1%E8%BF%9B%E5%9B%9E%E5%BA%94/">吴建民批《环球时报》文章极端，胡锡进回应</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2012/07/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%B0%88%E5%A4%96%E4%BA%A4%E5%BD%A2%E5%8A%BF%EF%BC%9A%E6%9E%81%E7%AB%AF%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89%E6%B3%9B%E6%BB%A5%E5%B0%86%E8%87%B4%E7%81%BE%E9%9A%BE/">吴建民谈外交形势：极端民族主义泛滥将致灾难</a></p></blockquote>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E5%A4%A9%E5%A0%82%E9%87%8C%E4%B8%8D%E5%88%86%E9%B8%BD%E6%B4%BE%E9%B9%B0%E6%B4%BE-%E5%90%B4%E5%A4%A7%E4%BD%BF%E5%AE%89%E6%81%AF%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E6%89%B9%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">吴建民批胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AE%BA%E6%88%98/?category=18271" rel="tag">吴建民胡锡进论战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%BD%A6%E7%A5%B8%E9%80%9D%E4%B8%96/?category=18271" rel="tag">吴建民车祸逝世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9%E7%86%8A/?category=18271" rel="tag">导弹熊</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5/" target="cdt-mirror">德国之声 | 乌坎民选村主任被立案调查</a>
+</h2>
+<p><p>2011年发生维权事件的广东乌坎再起波澜，路透社报道，乌坎村民以一人一票方式选举出来的村主任林祖恋周五深夜被当局带走。当地公安局称，他因涉嫌受贿被立案调查。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8A%E5%8D%887.47.27.png?resize=550%2C309" alt="Screen Shot 2016-06-18 at 上午7.47.27" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.47.27.png?w=695 695w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.47.27.png?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
+林祖恋资料图片</p>
+<p>（德国之声中文网）根据路透社报道，中国当局带走了广东乌坎事件后选举出的总支书兼村民委员会主任林祖恋（曾用名林祖銮）。澎湃新闻本周六（6月18日）报道称，当天清晨，广东省陆丰市公安局发布消息称，乌坎村党总支书记兼村民委员会主任林祖恋因涉嫌利用职权受贿，已于本周五（6月17）日被陆丰市人民检察院立案侦查并采取强制措施。</p>
+<p>法新社报道，2011年11月，广东渔村乌坎爆发征地风波，村民质疑村官通过非法土地交易谋取私利，举行游行，12月，参与维权的村民薛锦波被警方抓捕后异常死亡，引发更大规模村民抗议。抗议事件迎来2012年3月的 乌坎选举，村民以一人一票的形式选出村委会领导，其中林祖恋获政府委任成为村委书记后，再当选成为村委会主任。</p>
+<p>香港《明报》报道，林祖恋本周五夜间被强行带走，其妻杨珍接受该媒体采访时表示，林家好友，前东海镇长欧阳柳周五登门造访，武警趁欧阳柳离开时入屋带走林，没有出示证件也并未告知她带走林的原因。乌坎村属于东海镇。</p>
+<p>该媒体还指出，乌坎村原定在周末召开村民大会，解决遗留的土地问题。林祖恋曾向东海镇提出上访申请。香港网络媒体《香港01》相关报道也指出，林祖恋原计划周日（6月19日）召开村民大会，组织大家6月21日集体上访。</p>
+<p>路透社报道，几天之前，林祖恋曾在一份公开信中表示，要进行一次新的大型抗议活动追讨土地流失问题。</p>
+<p>接受该通讯社采访的一位不愿透露姓名的村民表示，有些愤怒村民试图围住当地派出所以示抗议。有数百名防暴警察和安全人员涌入村内。这名村民表示，每个人都很愤怒，但他们现在不能做什么事情，到处都是警察 ，气氛非常紧张。</p>
+<p>路透社也指出，从村民发布的照片上可以看到，有手持盾牌头戴钢盔的警察阻断村里公路。</p>
+<p>新浪微博上，林祖恋的个人帐号“WK林祖恋”周六写道：“陆丰有只大老虎。” 该条微博迅速得到近百条评论。其中有人说，“陆丰对林祖恋的打击报复太明显了”，也有人给林鼓劲，“林叔，你不是一个人在战斗”。</p>
+<p>其实，林祖恋的该帐号周六还有另外一条被屏蔽的微博。上面说：</p>
+<p>“原村委村霸把集体土地部分出售，部分租给一些企业。11年乌坎村民全村集体上访市政府两次，没想到基层政府贪官官官相卫，一味地对村民暴力镇压，武警特 警，甚至还动用了坦克对乌坎围村，断水断粮！封锁消息！最终因为发生流血事件，一位村民在派出所‘猝死’而有所缓。朱明国（原来是个大贪官，现已被抓）和省工作组来村里调查，承诺帮我们要回村土地。</p>
+<p>至今5年了，土地还要不回来，现村委书记（村民投票选出来的德高望重退休老人）决定带领我们再次上访，还递交了上访申请。拟本月19日召开村民大会，21日上访。没想到昨晚凌晨，数十台警车，武警特警像鬼子进村一样把林书记抓了。还给他扣上贪污的罪名。”</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%9D%91%E9%80%89%E4%B8%BE/?category=18271" rel="tag">乌坎村选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%85%AD%E5%8D%83%E6%B8%AF%E4%BA%BA%E6%B8%B8%E8%A1%8C%E5%A3%B0%E6%8F%B4%E6%9E%97%E8%8D%A3%E5%9F%BA%E5%90%91%E5%BC%BA%E6%9D%83%E8%AF%B4%E4%B8%8D/" target="cdt-mirror">美国之音 | 六千港人游行声援林荣基向强权说不</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8A%E5%8D%887.43.17.png?resize=550%2C409" alt="Screen Shot 2016-06-18 at 上午7.43.17" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.43.17.png?w=697 697w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.43.17.png?resize=300%2C223 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
+香港泛民多个政党和团体周六声援铜锣湾书店店长林荣基（美国之音海彦拍摄）</p>
+<p>香港—香港泛民主派的多个政党和包括支联会在内的民间团体，6月18日下午发起声援铜锣湾书店店长林荣基踢爆在中国内地被扣押八个月的真相，抗议内地强力部门跨境执法，并向中共强权说不。数以千计的港人3点过后从铜锣湾书店所在的骆克道和东角街起步，一路游行到位于西环的中央政府驻港机构中联办。</p>
+<p>据港媒周六报道，有亲中传媒援引宁波公安局宣称，将启动与香港警方的工作机制，暗示不会让林荣基返港后说出真相的事情就此了结，被媒体形容是白色恐怖笼罩全城。</p>
+<p>拒绝出卖读者的铜锣湾书店店长林荣基，在民主党立法会议员何俊仁及单仲偕的陪同下，走在游行队伍的前列。林荣基在游行起步前，手持一封市民支持信，感谢港人的支持。林荣基表示，香港法例保障出版自由，但中央政府以暴力摧毁书店，收窄港人自由。</p>
+<p>林荣基表示，李波人虽在香港，但背后仍被操控，称理解李波要讲违心话，丧失免于恐惧的自由。林荣基强调，他会尽力帮助李波，也希望港人会尽力帮助李波。</p>
+<p></p>
+<p>参与这次游行的人群声势浩大，至少数千人。这是继今年1月中旬6千港人在铜锣湾书店股东之一的李波被失踪、外界质疑内地公安跨境执法而上街抗议之后，迄今最大规模抗议铜锣湾事件的示威。</p>
+<p>游行队伍在铜锣湾占据了轩尼诗道的一条行车道，一度造成交通暂时阻塞。在队伍前导到达湾仔后，队伍逐渐拉开，警方才恢复行车。游行组织方只告知警方游行路线，没有申请警方的不反对通知书。游行现场基本顺利，有大批警员维护秩序和交通。</p>
+<p>在湾仔休顿球场旁，亲中团体爱港之声的近十人高喊游行人士反中乱港，称林荣基在内地犯法，罪有应得。双方人员相互指责，叫喊，有游行人士斥爱港之声是“人渣垃圾”。大批警员用铁马将双方隔开。</p>
+<p>游行队伍约4点半前走到金钟附近时，几天来休息不好的林荣基在何俊仁等议员的陪同下，离开游行，在路旁接受媒体短暂采访后前往立法会稍作休息，大批媒体跟随。今天香港的气温高达30多度，1点前一直下雨，气候湿热。</p>
+<p>游行队伍下午4点45分，抵达中环闹市区，吸引大批游客和行人驻足拍照，并沿着主要大道皇后大道在5点前缓慢扺达上环，最终在5点40抵达中联办。警方在中联办外部署大批警力。</p>
+<p>在抵达中联办后，立法会泛民议员组成的“泛民会议”的召集人何秀兰宣布，组织方在湾仔点算，有6千人参加游行。何秀兰呼吁港人继续努力，捍卫真相、一国两制以及出版自由。</p>
+<p>何秀兰在游行现场对美国之音表示，希望特区政府和中央能够看到港人的力量以及港人对人身安全的担忧。</p>
+<p>她说：“这个游行准备的时间很短，不够24小时，而且今天早上的天气也很坏，可是还有6千多人出来游行。我希望特区政府和中央政府能看得到，香港人对我们在香港境内对人身安全的担忧。”</p>
+<p>何秀兰表示，铜锣湾书店事件对港人震撼很大，令人怀疑中央是否遵守一国两制，而中央有责任要向香港人交代和解释清楚。</p>
+<p>她说：“铜锣湾书店这个事件显示，内地有些强力部门，跨境把香港人劫持过去。还有林荣基先生，他在香港做的事完全没有犯法。就算在内地，也有一个问号，到底犯的是什么？什么法？中央政府有必要，把这个条文说出来，让大家晓得，到底它又没有胡乱地拘禁林先生，还拘禁了8个月之久。”</p>
+<p>数千游行人士依序在中联办前由铁马筑起的狭窄通道上高呼口号穿过。在社民连的抗议团队抵达中联办后，他们试图将一个黑色抗议道具抛入中联办院内，被多名警察阻止，双方展开争夺。</p>
+<p>此外，有女长毛之称的示威常客雷玉莲和“保卫香港自由联盟”的韩连山等人在中联办前的一个铁桶內焚烧中共党旗，警方沒有干预，但围在四周维持秩序。游行在6点25分和平结束。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%85%AD%E5%8D%83%E6%B8%AF%E4%BA%BA%E6%B8%B8%E8%A1%8C%E5%A3%B0%E6%8F%B4%E6%9E%97%E8%8D%A3%E5%9F%BA%E5%90%91%E5%BC%BA%E6%9D%83%E8%AF%B4%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E8%AE%B2%E8%BF%B0%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88%E7%BB%84%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/" target="cdt-mirror">【习总日记】 习总讲述中央专案组的前世今生</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（ 2016 ， 6 ， 17 ）</p>
@@ -52,7 +138,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E4%B8%8D%E6%AD%BB%E9%B8%9F/" target="cdt-mirror">东网｜赵思乐：不死鸟</a>
 </h2>
@@ -784,82 +870,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc%EF%BD%9C%E8%B4%BE%E6%99%93%E7%83%A8%EF%BC%9A%E4%BB%8E%E6%99%AE%E9%80%9A%E5%88%B0%E7%A5%9E%E7%A7%98%E5%88%B0%E9%98%B6%E4%B8%8B%E5%9B%9A/" target="cdt-mirror">BBC｜贾晓烨：从普通到神秘到阶下囚</a>
-</h2>
-<p><p>在数字时代，一个人的生日、年龄、出嫁的时间，甚至连一张清晰的照片都无法确认。只因为她嫁给了周永康。</p>
-<p>一则中国地方法院6月8日在网上公布的宣判稍纵即逝，没有引起人们的注意。</p>
-<p>直到媒体醒过味来，意识到成为阶下囚的人是谁。</p>
-<p>阶下囚</p>
-<p>宣判寥寥数语，全文的网上截图如下：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160615134326_jia_xiaoye_624x700__nocredit.jpg?resize=549%2C616" alt="160615134326_jia_xiaoye_624x700__nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160615134326_jia_xiaoye_624x700__nocredit.jpg?w=624 624w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160615134326_jia_xiaoye_624x700__nocredit.jpg?resize=267%2C300 267w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>贾晓烨是谁？干什么的？她如何“利用影响”受贿？受贿金额是多少、“追缴”的“赃款赃物”又是多少？宣判书语焉不详。只说被告“当庭表示服从法庭判决，不上诉。该判决已发生法律效力。”</p>
-<p>可以确认的有一点，贾晓烨已经成为阶下囚。</p>
-<p>可以确认的还有一点，她曾是另一位先她一年成为阶下囚的前中共“大老虎”周永康的妻子。</p>
-<p>从普通到神秘</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150612141424_zhou_yongkang_640x360_bbc_nocredit.jpg?resize=548%2C308" alt="150612141424_zhou_yongkang_640x360_bbc_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150612141424_zhou_yongkang_640x360_bbc_nocredit.jpg?w=624 624w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150612141424_zhou_yongkang_640x360_bbc_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"></p>
-<p>“一人得道，鸡犬升天”，写在汉朝人王充的《论衡》里。今日中国的政治生态下，此话依然生动精准。</p>
-<p>其它有关贾晓烨的信息，随着周永康的落马而从中国的网上消失。仍能找到的，也显得模糊八卦，似是而非。有说她68年出生，有说她70年生人。</p>
-<p>有说她1990年代末，利用在中国央视财经频道任《每日财经》栏目编导的身分，多次采访周永康，双方结下关系。周永康的原配王淑华神秘车祸身亡后，贾晓烨嫁给了大她28岁的周永康。</p>
-<p>有说贾晓烨先是在四川结识并嫁给了周永康。周永康进入中共中央政治局到北京工作后，贾晓晔被安排到CCTV任编导，因其相貌平平，能力一般，处事低调，甚至差点在CCTV裁员时被裁掉。是周永康的一个电话，CCTV的高层才知道贾晓晔的来头。</p>
-<p>有说周妻身亡后，周永康四处“选妃”，更有溜须拍马者争当“红娘”。香港的《争鸣》杂志曾报道说，周永康相中贾晓烨后，“中宣部、中组部三次找贾晓烨谈话，贾一再要求给予时间考虑。在央视的催促下，贾晓晔答应了周。”</p>
-<p>或许都有点以讹传讹之嫌。</p>
-<p>“升天”与“入狱”</p>
-<p>但有一点可以推断。贾晓烨的人生轨迹本来与千千万万中国女性没有什么两样。求学工作、嫁人生子。</p>
-<p>直到她的人生轨迹与周永康的相交。</p>
-<p>“一人得道，鸡犬升天”，写在汉朝人王充的《论衡》里。今日中国的政治生态下，此话依然生动精准。</p>
-<p>北齐人杜弼在《檄梁文》里记载的另一个典故，“城门失火，殃及池鱼”。在今日中国，同样活灵活现。</p>
-<p>2015年6月周永康被控受贿、滥用职权、故意泄露国家秘密罪受审，三罪并罚，被判无期徒刑，剥夺政治权利终身。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151231121843_zhou_yongkang_512x288__nocredit.jpg?resize=551%2C310" alt="151231121843_zhou_yongkang_512x288__nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151231121843_zhou_yongkang_512x288__nocredit.jpg?w=624 624w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151231121843_zhou_yongkang_512x288__nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p>周永康在宣判后随即和贾晓晔结束婚姻关系。《争鸣》杂志报道说，“贾晓晔在离婚书上签名后，哭着表示：‘压抑在心上的痛楚终于解脱了，但太晚了’。”</p>
-<p>的确是“太晚了”。整整一年后，贾晓烨也成了阶下囚。</p>
-<p>贾晓烨决定嫁给周永康的时候，“一荣俱荣，一损俱损”也已是由不得她的选择。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 吃枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc%EF%BD%9C%E8%B4%BE%E6%99%93%E7%83%A8%EF%BC%9A%E4%BB%8E%E6%99%AE%E9%80%9A%E5%88%B0%E7%A5%9E%E7%A7%98%E5%88%B0%E9%98%B6%E4%B8%8B%E5%9B%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E6%99%93%E7%83%A8/?category=18271" rel="tag">贾晓烨</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E9%A9%AC%E4%BA%91%E5%81%87%E8%B4%A7%E5%A5%BD%E8%BF%87%E7%9C%9F%E8%B4%A7%E8%AE%BA%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE/" target="cdt-mirror">博谈网｜马云“假货好过真货”论引发争议</a>
-</h2>
-<p><p>来源: 立场报道 阿里巴巴昨举行投资者日，集团主席马云发表演说，提到今时今日假货质素比真品好、价钱比真货便宜，惹来舆论哗然。虽然马云昨晚透过公关“补镬”，指“假货问题不是质量问题，而是知识产权的问题”，但仍未能释疑。连文汇报今日亦以标题《“假货好过真货”是对中国最大的伤害》撰写特稿，批评马云的讲法。</p>
-<p>文章指出，淘宝网站假货充斥是客观事实，但这是否代表只要“保质保量地造假”和“公开坦诚地卖假”，就没有人因此受到伤害呢？答案显然是否定的。</p>
-<p>文章又提到，马云今番的言论，被大陆网民大肆批评，指无论马云的本意如何，这句话本身都是错误的，都会被视为是“公开支持造假的无耻言论”。</p>
-<p>该篇特稿最后认为，事件令人想到《西游记》中的六耳猕猴，虽然和孙悟空一样神通广大，“不少人甚至认为他能以不知名的山寨棍棒，挡住真悟空的如意金箍棒，其战斗力明显更胜一筹。但假的终究是假的，最终落得身死名败的下场。”特稿提到，周星驰曾表示希望邀请马云出演孙悟空，但最后未能成事。</p>
-<p>文汇报特稿：“假货好过真货”是对中国最大的伤害</p>
-<p>贵为内地首富的阿里巴巴集团主席马云，近年来多次因淘宝充斥假货而遭到舆论抨击。他昨日发表讲话回应指控，称“许多假冒商品其实比真品质量更好，价格更优惠。”这番言论立即引起轩然大波，不少人直斥马云无耻，“向全世界输出了错误的价值观”。虽然有消息称，这是部分媒体的报道断章取义，扭曲了马云的本意，但截止到昨晚本报截稿，阿里巴巴集团和马云都未对此作出澄清。</p>
-<p>扭曲价值观助长假货</p>
-<p>售卖假货一直是淘宝的痼疾，尽管阿里巴巴集团多次高调宣示打假，也确实取得一定成效，但点击淘宝的网站不难发现，各种各样的假货依然多如牛毛。为何假货屡禁不绝？有分析认为，这是由于许多消费者支持假货，乐意用较低的价格购买山寨产品；加上某些假货的质量几可乱真，在买卖双方达成默契的情形下，假货交易变成了“周瑜打黄盖，一个愿打，一个愿捱”，皆大欢喜。</p>
-<p>应该承认，这一现象是客观事实，但这是否代表只要“保质保量地造假”和“公开坦诚地卖假”，就没有人因此受到伤害呢？答案显然是否定的。其实马云自己对此也心如明镜，去年他接受新华社访问时曾强调，“假货对我们国家最大的伤害，就是不诚信的人比诚信的人得到的要多，就是创新没有价值，我觉得这是对一个国家一个民族最大的伤害”。</p>
-<p>这一掷地有声的表态，言犹在耳，不料昨日马云突然又抛出惊人之语，声称“许多假货比真货质量更好”，引起网民几乎是一面倒的攻击。不少网民直斥“这是什么逻辑？”，批评无论马云的本意如何，这句话本身都是错误的，都会被视为是“公开支持造假的无耻言论”。有网民揶揄，“怪不得淘宝上假货泛滥，原来马云就是推手”。</p>
-<p>网民几乎一面倒抨击</p>
-<p>由此想到《西游记》中的六耳猕猴，和孙悟空一样神通广大，不少人甚至认为他能以不知名的山寨棍棒，挡住真悟空的如意金箍棒，其战斗力明显更胜一筹。但假的终究是假的，最终落得身死名败的下场。据内地媒体报道，周星驰曾表示希望邀请马云出演孙悟空，虽然未能成事，但在星爷心目中，马云确然是有资格的人选。但愿马云也能像孙悟空那样，奋起千钧棒扫除假恶丑，向世界输出能真正代表中国人精神的价值观。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E9%A9%AC%E4%BA%91%E5%81%87%E8%B4%A7%E5%A5%BD%E8%BF%87%E7%9C%9F%E8%B4%A7%E8%AE%BA%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%91%A8%E6%B0%B8%E5%BA%B7%EF%BC%8C%E8%B4%BE%E6%99%93%E7%83%A8%EF%BC%8C%E5%91%A8%E6%BB%A8/" target="cdt-mirror">【真理部】周永康，贾晓烨，周滨</a>
-</h2>
-<p><p>各网,  关于涉周永康、贾晓烨、周滨相关报道，请各网站撤出PC端双首页、客户端首屏。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%91%A8%E6%B0%B8%E5%BA%B7%EF%BC%8C%E8%B4%BE%E6%99%93%E7%83%A8%EF%BC%8C%E5%91%A8%E6%BB%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%BB%A8/?category=18271" rel="tag">周滨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%BE%E6%99%93%E7%83%A8/?category=18271" rel="tag">贾晓烨</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -871,7 +881,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -881,5 +891,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

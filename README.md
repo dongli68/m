@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,71 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%80%9D%E8%80%83%E8%80%85ithink%EF%BD%9C/" target="cdt-mirror">思考者iThink｜吴建民留下的话：中国这个势头如果丧失了</a>
+</h2>
+<p><h2><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-7.jpg?resize=375%2C559" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-7.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-7.jpg?resize=201%2C300 201w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></h2>
+<div>
+<p>今晨，武汉</p>
+<p>吴建民先生因车祸不幸去世</p>
+<p>在此特刊吴先生今年3月30日</p>
+<p>重返外交学院的精彩演讲《准确认识今天的世界》</p>
+<p>以表缅怀</p>
+<p>演讲中，他最后留下的话是：</p>
+<p><strong>中国现在这个势头</strong></p>
+<p><strong>鸦片战争以来是第一次</strong></p>
+<p><strong>这个势头丧失了，再要找回来</strong></p>
+<p><strong>你们年轻人到我这个年纪，也未必找得回来</strong></p>
+<p><strong>演讲 | 吴建民</strong>（前驻法大使、外交学院前院长）</p>
+<p><strong>记录整理 | 俗子录</strong></p>
+<hr><section><section><section><section><section><strong>01</strong></section></section><section><section><strong>准确认识世界的重要性</strong></section></section></section></section></section><p>现在的世界，是一个大反思的时代，全球几乎同时大反思，这是人类历史上几乎第一次。崇拜权威是必要的，同时要独立思考，检验这个思想对不对，还是要坚持实事求是，实践是检验认识真理性的唯一标准。我觉得外交学院的学风很好，生源很好，各个单位反应很好，氛围好老师好，希望大家在这样一个氛围下健康成长——中国太需要懂世界的人才了，太需要向世界说明中国的人才。</p>
+<p>同学们，要珍惜每一次在大庭广众下交流的机会。中国人很多不擅长交流，讲话打动不了人，就不能很好地让人接受观点。</p>
+<p>我们中国人也必须懂得，几百年怎么落后的？我哥哥是一个少将，他去南京大屠杀纪念馆，说这是中国军人的耻辱。为什么中国受人入侵?为什么中国军人保护不了老百姓?关键是中国落后了。中国人为什么落后于世界?</p>
+<p>世界大变化主要是六百年。1492年哥伦布发现新大陆，可是早于哥伦布，1405~1433年，郑和下西洋。我去新加坡看到他们办了一带一路的展览。一走进展览大厅就很震撼，迎面看到当时郑和下西洋宝船的船头，特别高大、宏伟。郑和下西洋的舰队有六、七十艘舰艇，船上有2.8万海员，浩浩荡荡。哥伦布发现新大陆，他只有三艘船，船上87人。</p>
+<p>这种对比，大家感受一下。那个时候中国的造船技术全球最先进，非常了不起。邓小平说，中国在明成祖朱棣的时候是开放的，后来就封闭了，实行海禁，不准下海，违者斩首。郑和下西洋的舰队是全球最强大的舰队，不许下海，最强大的舰队烂在海里了。最先进的造船技术被搁置了。郑和下西洋是中国有史以来第一次走向世界取得大发展的机遇。这个机遇被中国人自己丢掉了，如果我们中国人沿着郑和下西洋这条路走下去，世界的历史要改写。中华民族过去100年受屈辱的历史就不可能出现。</p>
+<p>后来还有没有机会呢?有！开放的机会，康乾盛世，了不起的皇帝。满族的皇帝和汉族的皇帝不一样，马背上的民族，非常注重开疆拓土，给中国的国土面积呢增加了八百九十万平方公里，后来丢了三百万，也还有五百九十万平方公里。康熙大帝，了不起，中国历史上很了不起的皇帝，很关注世界，当时外国传教士到中国来，康熙大帝请外国传教士给他传授现代科学知识，他看到欧洲工业起来了，很厉害，所以康熙大帝镇压准葛尔叛乱的时候引进了洋枪，起了很大的作用。</p>
+<p>去年我和故宫博物院的院长聊天，他说满清的时候故宫里住了一百多个外国人，蛮开放的。有比较才有鉴别。你比较同时代外国的皇帝，俄罗斯的彼得大帝。康熙大帝1654年生，彼得大帝1672年生。他们都是很小的时候当皇帝，康熙8岁当皇帝，彼得大帝10岁当皇帝。康熙大帝看到欧洲有好东西，请他们来讲课，彼得大帝在位时，身边有个大臣，有一天跟彼得大帝说欧洲走到我们前面去了，不如去看看;彼得大帝带着200多人去欧洲微服私访，考察了一年半，回到俄罗斯后，实行开放政策，“走出去，请进来”，在他的手上，俄罗斯走上了崛起之路。彼得大帝有一句名言：“给我二十年，我还你一个崭新的俄罗斯。”普京总统也说：“给我二十年，我还你一个强大的俄罗斯。”彼得大帝做到了，普京总统能不能做到，不好说。</p>
+<p>彼得大帝抓住了“开放”，这是个很伟大的皇帝。</p>
+<p>彼得大帝怎么死的，也很有意思。1724年深秋，他视察圣彼得堡，发现有人掉到海里去了。彼得大帝跳下水救人，人是救起来了，但自己受了风寒，一病不起，1725年初病逝。这样的事情在中国大概不可能发生。皇帝要跳下海救人，早被太监拉住了。这就是彼得大帝受到文艺复兴、启蒙运动的影响，珍视人的生命。思想的力量是巨大的。</p>
+<p>这个时候，如果康熙大帝也出国访问，对外开放，之后的屈辱史也不会发生。</p>
+<p>中国怎么落后的?停滞不前。中国人不乏人才，但为什么这些机会都丢掉了呢?强大的惯性，两千年只看内不看外的惯性。惯性思维的危险就在于，人们在做的时候不问为什么，习惯成自然，非常可怕。我在1991年1月到1994年当发言人，国家主席没有发言人，总理没有发言人，所以出访的时候要随访。江泽民主席喜欢与别人交流，有一次他问：“毛主席很伟大，邓小平也很伟大。为什么毛主席没有提出改革开放，而邓小平提出了改革开放?”我说，两人的经历不一样，毛主席一生就出国两次，都是去苏联。毛主席没有去过西方世界。</p>
+<p>邓小平1920年10月去法国，时年16岁。1926年1月离开法国去苏联，时年21岁。16岁至21岁是人生的重要阶段。邓小平是从四川到法国，对比太鲜明了。一个人的胆识、能力，和他的经历有很大关系。见过没见过有很大区别。今天中国人走出去，好事情!为什么见过世界、没见过世界就不一样呢?这就是因为文明对话是人类文明进步的源泉。邓小平有了去法国的经历，提出改革开放，这就是文明对话的结果。</p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/MomwGYRkJcsdEe2ibPb5K6ibkl8hJWgHHCDcJKKMATc89pPCEozEnzTo8jRibus1pvYZIv2GkyVkp5jniaWC1LtIkQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" width="551" height="370" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/MomwGYRkJcsdEe2ibPb5K6ibkl8hJWgHHCDcJKKMATc89pPCEozEnzTo8jRibus1pvYZIv2GkyVkp5jniaWC1LtIkQ/0?wx_fmt=jpeg" data-ratio="0.670863309352518" data-w=""></p>
+<p>今天的中国，要消除封闭的惯性。有些人讲起来慷慨激昂，说改革开放三十多年，大钱都被洋人拿走了，中国人挣的是血汗钱。这些话听起来似乎有道理，按照这些话的思路再深入地想下去，改革开放对还是不对?按这些人的逻辑，那中国还是要回到封闭最好。回到封闭的状态，那不就完了吗?习近平总书记讲得好：“必须坚持改革开放，改革开放是关键的一招。”中国发展只能一步一步来，你一下子能跳到高端吗?不可能。大的开放思路要违背了，那不行，中国要倒霉。要警惕封闭的思维，长期封闭的惯性思维自觉不自觉地影响人的行为。</p>
+<p>在现代，凡是我们正确地认识世界的时候，我们国内的方针也比较正确，我们的事业就大踏步前进;凡是我们对世界看错了的时候，我们国内方针也会出问题，我们就倒大霉。</p>
+<p>1946年，中国国内议论纷纷，毛主席在4月写了一份一页半的文件：关于目前国际形势的几点估计。第一，世界大战会推迟；第二，美苏之间迟早会妥协；第三，与资本主义反动派的关系，能消灭的先消灭，不能消灭的之后再消灭。这些认识对了，因此中国就大踏步前进。</p>
+<p>1958年中央八届六中全会公报指出：“当前国际形势总的特点，是敌人一天天烂下去，我们一天天好起来”。1959年大学毕业后我被外交部录用，在国外干了25年，回头一看，1958年是西方世界一天天烂下去吗?完全错了，完全看颠倒。国内方针也错了，大跃进、超英赶美……很多资料现在都解密了，到了1958年6月，毛主席头脑就更热了，说，赶上英国，有三年差不多了吧，赶上美国，十年可以了，有充分的把握。7000万人上山炼钢，发疯了，我也参加过炼钢，亚青参加过吗?哦，参加过。当时我还当了炉长。炼了之后很开心，晚上吃夜宵不要钱，放开肚皮吃饭，但是好景不长。1959年、1960年、1961年，饥荒了，死多少人啊。根据国家统计，在这之前每年增加1000万，这几年不仅没有增长，还减少了1000多万。世界看错了，国内方针错了，中国人就倒大霉了。</p>
+<p>20年之后，1978年10月，邓小平到日本访问，这是外交上非常重要的一着棋——中日关系一定要搞好。邓小平去尼桑(日产)看，去比较这里和中国最先进的长春汽车厂的劳动生产率——一下发现，日产是长春的几十倍。所以邓小平感慨，我现在明白了什么是现代化，回来了三中全会。</p>
+<p> </p>
+<p>这三个例子说明了什么?要准确认识世界。这个太重要了。</p>
+<p> </p>
+<p><img src="http://mmbiz.qpic.cn/mmbiz/MomwGYRkJcsdEe2ibPb5K6ibkl8hJWgHHCDVeP5mWwtnoeCdJag7X7yZyPqoc4fr6snnwW5P7JKb3lVY3sf7CmVg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" width="551" height="357" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/MomwGYRkJcsdEe2ibPb5K6ibkl8hJWgHHCDVeP5mWwtnoeCdJag7X7yZyPqoc4fr6snnwW5P7JKb3lVY3sf7CmVg/0?wx_fmt=jpeg" data-ratio="0.6492805755395683" data-w=""></p>
+<section><section><section><section><section><strong>02</strong></section></section><section><section><strong>世界大变化</strong></section></section></section></section></section><p>第二个问题，世界大变化。</p>
+<p>我去了很多大学，问他们世界现在最大的变化是什么，有人说全球化，有人说信息革命，有人说金砖国家崛起。我说都不对，你们觉得是什么?对，就是时代主题变了，和平与发展是当今时代的主题。</p>
+<p>时代主题的变化，是国际关系中最大的变化。(由“战争与革命”转变为“和平与发展”)</p>
+<p>我和罗援将军有一场辩论，凤凰卫视，他气很足啊，“说该出手时就出手”。我打断他了，说你是不是要打仗，他不敢回答。我说你犯了时代错误。</p>
+<p>什么叫时代主题?第一，反映了某个时期世界的主要矛盾。第二，指出了解决主要矛盾的路径。</p>
+<p>现在很多人还有战争与革命的惯性思维，总想着打一仗——美国打不过，菲律宾可以打啊?完全搞错了时代。</p>
+<p>2011年“911”十周年前夕，华盛顿邮报记者对我进行采访。他第一句话说，中国是“911”最大的受益者，我说这不对。也有人说乌克兰危机为中国迎来了十年发展机遇期——这话不对啊，怎么你老想着别人倒霉呢?别人倒霉你走运，那别人走运是不是你要倒霉呢?人家外国人一看，你中国怎么总是幸灾乐祸呢?这些所谓的“战略家”，站不住脚，没有抓住时代主题大的脉络。环球时报经常发表一些文章很极端的，去年胡锡进请我参加环球时报论坛，有个开场白，他一上来把这个世界讲得一塌糊涂。我说你们的眼睛里没有全局啊，世界大势你看不到，抓不住主流。我心里说这就是今天的中国，他是报社主编，很有学问的，但是没有把握大局。世界是在进步还是在倒退?我看世界在进步。有些人很容易悲观，战争迫在眉睫。我们当然要有强大国防，全世界军队都要准备打仗，这是一回事。但我们对形势如何客观地正确估量，那是另一回事。2014年11月，APEC在北京举行峰会，习近平和安倍会面，和奥巴马会面之后，国内谈论战争的狂热减退了。</p>
+<p>时代主题变了，这其中有很多原因。两次世界大战的惨痛教训是很重要的，后来大家痛定思痛，成立了联合国，联合国宪章是很重要的，我们要关注联合国的作用。为什么说现在已经不是革命的时代呢?人活得下去绝对不会革命，革命的时代过去了，“颜色革命”没有成功的，索罗斯自己也这么说。当然我们要看到这个世界，贫富差距过大，穷人太多，所以只有发展才能解决问题，发展是主题。</p>
+<p> </p>
+<section><section><section><section><section><strong>03</strong></section></section><section><section><strong>中国外交</strong></section></section></section></section></section><p>中国外交战略是什么?三不：不扩张、不称霸、不结盟;三要，要和平，要发展，要合作。</p>
+<p>“结伴不结盟”，这是习近平主席说的。中国不能去结盟，一结盟新的冷战就开始了，中国倒霉，世界倒霉。</p>
+<p>中国面临很多问题，靠发展才能解决。中国人在现阶段最大的利益是什么?这个问题想清楚了，其他问题就好办了。我想，就是邓小平讲的，发展是硬道理，最大的利益就是保持发展的势头。你们读孙子兵法有一个“势篇”，势头来了，就好办了。“时来天地皆同力，运去英雄不自由”。</p>
+<p>经常嫌外交软的就是军方，之前我去国防大学讲课，他们就正好问到外交的问题。我说，近三十年中国的发展，离不开中央的正确方针，难道中国外交没有功劳吗?软硬都是手段，哪个难?软难。硬，你打我一下我踢你一脚，这三岁小孩子也会，没有难度。讲道理，谈判，软实力，这个很难——首先别人要喜欢你。你讲的东西别人反感，这哪有软实力?外交，从来大权在中央——哪一件事情是外交部自作主张的呢?没有。大事儿全是中央定的，你对中央有意见不对中央说，拿外交部撒气算什么本事。</p>
+<p>要想透，中国人要什么，想不透，抓不住牛鼻子，问题就没法解决。中国现在这个势头，鸦片战争以来是第一次，这个势头丧失了，再要找回来，你们年轻人到我这个年纪，也未必找得回来。虽然中国的力量起来了，但要完全发展起来，至少还要三五十年。切记，切记，不要“夜郎自大”。</p>
+<p>准确认识世界的重要性、世界大变化、中国外交，今天我就讲这三点。</p>
+</div>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%80%9D%E8%80%83%E8%80%85ithink%EF%BD%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AE%BA%E6%88%98/?category=18271" rel="tag">吴建民胡锡进论战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%BD%A6%E7%A5%B8%E9%80%9D%E4%B8%96/?category=18271" rel="tag">吴建民车祸逝世</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E5%A4%A9%E5%A0%82%E9%87%8C%E4%B8%8D%E5%88%86%E9%B8%BD%E6%B4%BE%E9%B9%B0%E6%B4%BE-%E5%90%B4%E5%A4%A7%E4%BD%BF%E5%AE%89%E6%81%AF%EF%BC%81/" target="cdt-mirror">导弹熊 | 天堂里不分鸽派鹰派  吴大使安息！</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8A%E5%8D%887.56.50.png?resize=534%2C375" alt="Screen Shot 2016-06-18 at 上午7.56.50" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.56.50.png?w=534 534w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.56.50.png?resize=300%2C211 300w" sizes="(max-width: 534px) 100vw, 534px" data-recalc-dims="1"></p>
@@ -856,20 +918,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4/" target="cdt-mirror">【立此存照】肇事逃逸的社会主义好青年</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4.jpg?resize=575%2C662" alt="社会主义好青年" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?w=1093 1093w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?resize=261%2C300 261w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?resize=768%2C884 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/社会主义好青年.jpg?resize=890%2C1024 890w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6alnlj20k00zk0wm.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6alnlj20k00zk0wm.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf6alnlj20k00zk0wm" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6alnlj20k00zk0wm.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6alnlj20k00zk0wm.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6alnlj20k00zk0wm.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6xdjuj20k00zkq62.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6xdjuj20k00zkq62.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf6xdjuj20k00zkq62" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6xdjuj20k00zkq62.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6xdjuj20k00zkq62.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf6xdjuj20k00zkq62.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf3bcluj20k00zkaes.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf3bcluj20k00zkaes.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf3bcluj20k00zkaes" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf3bcluj20k00zkaes.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf3bcluj20k00zkaes.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf3bcluj20k00zkaes.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf0qxqyj20k00zkwhu.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf0qxqyj20k00zkwhu.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf0qxqyj20k00zkwhu" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf0qxqyj20k00zkwhu.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf0qxqyj20k00zkwhu.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf0qxqyj20k00zkwhu.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf51s3vj20k00zk0xc.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf51s3vj20k00zk0xc.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf51s3vj20k00zk0xc" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf51s3vj20k00zk0xc.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf51s3vj20k00zk0xc.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf51s3vj20k00zk0xc.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf2osy8j20k00zkgp2.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf2osy8j20k00zkgp2.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf2osy8j20k00zkgp2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf2osy8j20k00zkgp2.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf2osy8j20k00zkgp2.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf2osy8j20k00zkgp2.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf03y3vj20k00zk0wc.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf03y3vj20k00zk0wc.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf03y3vj20k00zk0wc" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf03y3vj20k00zk0wc.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf03y3vj20k00zk0wc.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf03y3vj20k00zk0wc.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf47ucdj20k00zkq6y.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf47ucdj20k00zkq6y.jpg?resize=450%2C800" alt="eaaf2affgw1f1qgf47ucdj20k00zkq6y" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf47ucdj20k00zkq6y.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf47ucdj20k00zkq6y.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eaaf2affgw1f1qgf47ucdj20k00zkq6y.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg?resize=450%2C800" alt="805795963" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg?w=1440 1440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg?resize=768%2C1365 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/805795963.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg?resize=450%2C800" alt="276924617" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg?w=1440 1440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg?resize=768%2C1365 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/276924617.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg?resize=450%2C800" alt="592081826" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg?w=1440 1440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg?resize=768%2C1365 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/592081826.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%A5%BD%E9%9D%92%E5%B9%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -881,7 +929,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -891,5 +939,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

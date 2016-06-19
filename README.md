@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%82%93%E5%B0%8F%E6%A1%A6%EF%BC%9A%E6%B4%BB%E5%9C%A8%E7%9C%9F%E5%AE%9E%E4%B8%AD-%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88/" target="cdt-mirror">端传媒 | 邓小桦：活在真实中</a>
+</h2>
+<p><p>林荣基拒绝了政权的谎言，保住了香港的光明。香港人得以用行动，再连结为一个希望的共同体。“我都可以，为什么你不可以？”</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8B%E5%8D%882.42.51.png?resize=554%2C370" alt="Screen Shot 2016-06-18 at 下午2.42.51" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-下午2.42.51.png?w=554 554w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-下午2.42.51.png?resize=300%2C200 300w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><br>
+铜锣湾书店店长林荣基。摄：吴炜豪/端传媒</p>
+<p>曾在内地被扣查的铜锣湾书店店员林荣基，召开了记者招待会，讲述了他过去七个月内被软禁拘押、不得联络家人和律师，并被要求交出书店读者订书资料的事，等于完全推翻中共官方的原有剧本和台词。这无疑是一颗真实的巨大炸弹，炸开了独裁政权的谎言，也在香港人心中炸开了一个真实的领域。</p>
+<p>当仍受著“保释候查”威胁的林荣基，手持铜锣湾书店的读者订书资料，踏上火车准备回到大陆，把这些资料上缴给权力机关时，心中是转过了怎样的念头，才让他毅然折返，向世界公开他的经历？他眼前必然曾经存在一个世界，一条权威的路径，他本来是沿著那路径的指示回港，向警方销案，对传媒不发一言。他本来几乎要选择向权力屈服，活在那个布满谎言然而可能保住自身平安的世界里。他回港两晚都没睡好；但他仍有足够意志，选择了另一个光明的世界，把话说出来，与香港人站在一起。</p>
+<p><strong>“不义比死亡更能毁灭人”</strong></p>
+<p>香港人，不熟识中共式权力斗争，几曾识干戈？然而近年我们都感受到谎言的威力，那就是巨大的疲累与虚无。看禁书的港人其实没有很多，但确实很多人关怀过铜锣湾书店五子，做出过游行、联署、撰文、行为艺术、网上逐格比照电视认罪的穿崩位等等行动，连政府的新街道在脸书招名字，都有人留言“铜锣湾五子响边道”，获逾千赞好。港人与国际的关注下，其中数人得以回港，但他们回港后都明显处于一种谎言的系统中，港人心知肚明，但是不禁黯然，我们想保护的人，被极权阻隔开来，咫尺天涯。汉娜鄂兰说过，极权最恐怖之处，就是让人们处于孤立隔绝的状况，认定自己无力对抗。所以林荣基的抉择，分外让我们感到，“站在一起”是多么困难的抉择，而正因其困难，它又具有多么巨大的力量。</p>
+<p>乱世来临，每个人都将遭遇巨大的抉择难题，正义与邪恶，生与死，不再是电影中的虚构情节。林荣基当然已经领受过死亡的威胁。好生恶死本乃人之天性；而历史上，人性确曾一再达到“舍生取义”的高度——“真正困难的不是逃避死亡，而是避免做不义之事；不义之事比死亡更难逃避。不义比死亡更能毁灭人。”这是苏格拉底在死亡面前的最后自辩。苏格拉底以死亡去捍卫自己对真理的追求。而在是次事件里，把读者资料给予权力特务机关，显然是不义的；参与巩固整个集团被失踪的谎言剧本，显然是不义的。而林荣基，一位书店业者，被屈颖妍嘲弄为“书业偏门”的禁书书商，一个年届六十的灰发叔叔，就此达到了苏格拉底的高度：他拒绝了政权的谎言，也就是拒绝了不义的毁灭；保住了自己的人格，也保住了香港的光明。</p>
+<p>林荣基的所为，恰如捷克前诗人总统哈维尔在《无权者的权力》中所描述的：“他撕开一切，而颠覆了权力的结构。他证明了活在谎言中，就是活在谎言中。他从高耸的正面直接打穿体制，让权力的真实基础脱然于世。”仅仅是一个赤手空拳的平民百姓，就可以动摇整个体制，因为“他向大家显示，在真实中生活是可能的。”</p>
+<p><strong>活在真实中</strong></p>
+<p>香港身处极权社会与自由社会的交界水域，总有人相信可以周旋在极权与民主的规则之间存活，懂得揣摩生存之道，自诩为聪明人，社会上谓之“sophisticated”，是一种褒赞。对于林荣基的行动，陈云就评为幼稚不堪一哂，嫌他没有和美帝结盟，没有在美国得到政治庇护才开口。是呀，林荣基竟然没有先逃出香港到安全的地方才发言，竟然说视香港为家没有打算离开，真是天真得令人吃惊。他竟然相信，香港可以保护他？还是他认为，即使无人可以保护他，他都要把话说出来？但正是因为这天真、这不顾自身，才引发这么多香港人血性上涌，认为无论如何一定要保护他。香港人就是不想再要那种sophisticated的明哲保身。所谓觉醒，就是发现，勇气，才是存在感的根源。</p>
+<p>这么多香港人为林荣基的勇气激动，是因为林荣基以一个活生生的平凡人，具体呈现了香港人的集体欲望：在真实中生活。在真实中生活，本是平常的；是因为遭遇极权，它才成为这样巨大的欲望。这种欲望是希望可以展示生命的本质，即朝向多元、多样、独立的自我建构与自我组织，亦即朝向人类自身的自由之完善；拒绝极权所要求的服从、统一、纪律。极权与自由的欲望天然冲突——因此抱持这种欲望的人必然涉及真正的政治，但他们多对政治权力的争夺不感兴趣。</p>
+<p>关于极权的谎言，韩国电影《逆权大状》中有一段简单而极端的展现：特务机关要把大学生屈打成招为共产主义份子，那些也是“几曾识干戈”的大学生，根本不懂得答出极权想要的答案。及至于屈服，与其它受刑的同伴一起对口供，却是怎么都对不起来，因为那是虚构的谎言，就如要在身体强行植入一个外来的器官，自然出现排斥反应——而痛苦的是谎言必须通过集体来完成结构。当它结构完成之时，极权就已渗入每个人的生活之中，在每个细节都要求谎言的供奉。</p>
+<p>对此，我们应该再认真读哈维尔的《无权力者的权力》。哈维尔所称的“在真实中生活”，包括任何个人或群体以任何形式反叛于操控：“从知识份子的抗议信到工人的罢工抗争、从摇滚音乐会到学生示威、从拒绝参加选举闹剧中的投票到在官方会议上发表公开演说，或者甚至绝食抗议等。”正因为极权的操纵意图压制我们生活中每一个自我完善的目的，那么反过来证明了生活中每一个自由言论，都在政治上对极权体制造成间接的威胁。每一个不同领域的多元实践，都在挖走极权高墙的一块砖，因此写作、唱歌、游行、绝食、暴动都不应被斥为无用。归根究柢，最重要的信念是，相信真实生活中的公共、开放、流动、多元可以渗透社会，让我们做一个有尊严的人，这才是真正的政治，而非政治权力的更替。真实的力量既是外在的也是内在的，哈维尔精确地指出，极权社会意图毁灭人们的道德感与责任感；因此我们亦不可抹煞自己内心的道德感与责任感之呼声，并应以自身的行为去呼应：林荣基已经负起了他的道德责任去揭穿极权的谎言，那我们又该做什么来与他同行？</p>
+<p><strong>“我都可以，为什么你不可以？”</strong></p>
+<p>活在真实中，与极权和谎言对抗，需要付出代价。犹记得程翔先生说过，共产党最坏的地方就是让你觉得自己很对不起自己的家人；评论人长平就因家人被公安胁迫而选择与家人断绝关系，令人感佩悚然。在极权的蔓延中，面向公共与真实，也同时会导致个体与家庭或社群的割裂。林荣基也一样。在如此关口仍以林氏家庭与情感状况转移视线的人，与极权行为同等可耻。</p>
+<p>香港人的痛苦，在于我们尚保有些许光明的记忆，而现正目击黑暗的覆临。官员长期指鹿为马，并用主流媒体与官方渠道去播放粗劣犯驳的谎言，真实的声音常被淹没，你感觉到自己将要活在不义之中，然而身边好像还有许多人对此根本不闻不问。愤怒、厌倦、无力，又没有人能告诉我们如何可以得到胜利。但林荣基说，他回港后翻看新闻，见有6000人游行支持自己，这成为了他说真话的力量。这已经明确显示了，虽然游行后我们不得不回家，不肯定自己的行动可以争取到什么，但一切付出，却有可能在我们不知道的时机，激发出惊天动地的另一些事物，动摇极权的根基。我们必须相信，只能以勇气激发勇气，呼召同道者，如同诗人廖伟棠写过的，“每一只蚂蚁／都在传递一片叫喊的木炭”。</p>
+<p>看到青年网络作家将林荣基的行动描述为传递了绝望的讯息，因为一国两制已经不存在。其实鲁迅一早说过，绝望之为虚妄，正与希望相同。绝望与希望都是人意识的反映，一切是靠行动去模塑实在的结果。绝望是有力量的，如果它可启动义无反顾的绝地反击；但我们应坚拒以绝望作为“不作为”的借口，因为那就是在敌人动手前先从内在杀死自己。说到底，关于绝望，林荣基已经回答了：“我都可以，为什么你不可以？”</p>
+<p>林荣基的形象有特殊的时代意义。他是个书店营运的失败者（2014年因财政营收问题把铜锣湾书店业权出让予巨流媒体），无疑是不够精明和sophisticated，但恰因此，他能够拒绝与极权妥协，显现人性的光辉。因此林荣基的行动也包含一种更世故的感动：他不是香港社会现时最受落的“素人”，相反他比一般港人更了解中共，更有害怕的理由；他已经被迫说过谎，身上有经历与伤痕，包括家庭情爱的失败，包括极权的拘捕威吓——有了这些经历，还依然可以做出反抗，这里面有莫大的希望，像是说明生命依然有无穷的可能与力量，恐怖与折磨不能销毁人的意志、道德、责任感。的确还不能说“我们都是林荣基”，因为林荣基做的、承受的，比我们都多——他仅仅标示了真实的高大，指向了一种提升的可能，其力量可比於坦克前的王维林、为身边的人挡子弹的六四民众。在这个分裂式政治抬头的年代，“我都可以，为什么你不可以？”发出一种跨世代、跨背景与跨政治阵营的吁求，指向了“共同的政治”。香港人得以用行动，再连结为一个希望的共同体。“我都可以，为什么你不可以？”是林荣基留给香港人的最大鼓励。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%82%93%E5%B0%8F%E6%A1%A6%EF%BC%9A%E6%B4%BB%E5%9C%A8%E7%9C%9F%E5%AE%9E%E4%B8%AD-%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E6%A1%A6/?category=18271" rel="tag">邓小桦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%82%93%E5%B0%8F%E6%A1%A6%EF%BC%9A%E6%B4%BB%E5%9C%A8%E7%9C%9F%E5%AE%9E%E4%B8%AD-%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88/" target="cdt-mirror">端传媒 | 邓小桦：活在真实中，“我都可以，为什么你不可以？”</a>
 </h2>
 <p><p>林荣基拒绝了政权的谎言，保住了香港的光明。香港人得以用行动，再连结为一个希望的共同体。“我都可以，为什么你不可以？”</p>
@@ -637,61 +666,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%AF%91%E8%AF%BB-%E5%A6%82%E4%BD%95%E7%94%A8%E8%BE%93%E5%85%A5%E6%B3%95%E6%9D%A5%E7%9B%91%E6%8E%A7%E5%85%AD%E4%BA%BF%E7%BD%91%E6%B0%91%EF%BC%9F/" target="cdt-mirror">译读 | 如何用输入法来监控六亿网民？</a>
-</h2>
-<p><p>本文原载于Foreign Affairs<br>
-编译/雨山 & 一颗马 & 公仔 & 伍豪<br>
-译读：T-Read | 译读小号二世：WinnieTheFool</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/snow.png?resize=596%2C334" alt="snow" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/snow.png?w=596 596w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/snow.png?resize=300%2C168 300w" sizes="(max-width: 596px) 100vw, 596px" data-recalc-dims="1"></p>
-<p>三年前，美国中情局雇员爱德华·斯诺登（Edward Snowden）所披露的文件揭露了美国政府对国内外电话的广泛监控。在这些爆炸性的内幕披露三周年之际，各大媒体无疑都蓄势待发，准备重提数据隐私和公民自由的话题。</p>
-<p>然而，人们或许忘了监控技术早已超出对电话、电邮和短信的窃听拦截。事实上，人们在寄电邮、PO脸书和发推特前，政府便有可能监控这一切。国家和私有企业能够截获.docx和.rtf格式文档，事实上，哪怕是用看似不会泄露的程序输出的文本文档，也都有可能为他人获取。</p>
-<p>最后，这样的监控很可能发展为实时进行。届时，一份文件甚至点击“保存”或上传到云端之前就能被截获。这些都是推测，但并不是不可能。</p>
-<p><strong>你所敲的每一个键</strong></p>
-<p>过去十年，我一直在研究现代中国的信息技术，成果会写在一套丛书中，明年由麻省理工出版社出版。当时我并不知道研究中的一些偶然发现会与当下的争论有关，涉及国家监控、数据隐私以及震惊世界的斯诺登泄密案，但事实就是这样。</p>
-<p>简而言之：中文计算机系统已经具有“键盘记录（keylogging）”的功能。这项技术的引入并非基于恶意（其实是很高明的技术），但它却在理论上让实时监控中国的电脑用户成为可能，譬如用户在使用Microsoft Word、NotePad、TextEdit等看似不联网的文档程序时就有可能受到监控。当前媒体技术的发展趋势强烈地预示着这种漏洞很快便会从中国传播出去，并成为一种新常态。</p>
-<p>要探究起因为何，人们首先需要了解键盘记录器和中文的计算机系统，以及两者是如何结合在一起的。</p>
-<p>键盘记录器是一种程序，也可以是安装在计算机上的一种实体装置，它收集用户敲击的每一个键的数据。键盘记录器经常被恶意使用，比如盗取信用卡信息、密码或个人数据，同时也长期运用于政府监控中。1999年有一件里程碑式的案子，联邦调查局探员首次使用键盘记录装置侵入了黑手党大佬小尼基（Nicodemo Salvatore Scarfo, Jr）的电脑，获取他的密码。</p>
-<p>在键盘记录器这种间谍工具的发展早期，主要的挑战并非来自键盘记录装置的制作，而在于它的安装。在小斯卡夫一案中，联邦调查局不得不用老掉牙的特务手段，两次闯入这位老大的办公室，第一次是安装键盘记录装置，第二次是取回它。</p>
-<p>随着恶意软件的扩散，安装键盘记录器变得更加简单，不过要利用键盘记录器实施间谍活动暂时还没有那么容易。2015年，伊利诺伊大学香槟分校的研究人员研究发现，可以利用智能手表自带的加速计和陀螺仪数据，把手表改装成一种不太完美的键盘记录器。根据相关理论，只要能确定用户的手如何划过键盘表面，就能推算出用户敲了哪几个键。</p>
-<p>中文计算机系统上存在一种同样“聪明”，且远为优越的办法，能够精确推算出用户在键盘上输入了什么。要窃取中文计算机上的信息，你只需要获取键盘记录器的管理权限，而且这个国家每台个人电脑和电子设备本身就自带“键盘记录器”——事实上，全世界的个人电脑和电子设备也都自带这种“键盘记录器”。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/snowden.png?resize=573%2C374" alt="snowden" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/snowden.png?w=573 573w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/snowden.png?resize=300%2C196 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/snowden.png?resize=230%2C150 230w" sizes="(max-width: 573px) 100vw, 573px" data-recalc-dims="1"></p>
-<p><strong>中文计算机系统是如何工作的？</strong></p>
-<p>中国的计算机和美国完全一样，都用标准全键盘（QWERTY keyboard，又称柯蒂键盘）。无论你是在北京哪一栋新落成的写字楼观察，都会发现一批饱含创业激情的千禧一代正在键盘上辛勤地工作，满怀希望地准备与风投资本家会晤。</p>
-<p>但是，中国的全键盘并不是看上去的那样简单。在中文计算机系统中，全键盘的用法并非“打什么字就出什么字”。键盘的输入只是在输入法（IME）软件里提供指令的手段 ，确定接下来显示在屏幕上的汉字。</p>
-<p>思考一下人们会如何使用全键盘输入有关“诚信”、“舆论导向”以及“数据隐私”等中文词语吧。</p>
-<p>要打出由两个汉字组成的“诚信”，四个汉字组成的“舆论导向”或“数据隐私”，业内领先的搜狗输入法会为用户提供多种输入策略。人们可以输入完整的汉语拼音（比如，“c-h-e-n-g-x-i-n”， “y-u-l-u-n-d-a-o-x-i-a-n-g”等等)，也可以采用多种快捷键和缩略词（比如“c-x” and “y-l-d-x”），搜狗输入法会足够智能地提供一组选项。比如输入“c-x”，搜狗的弹出式菜单除了会提供“诚信”，同时还并列显示其他也以“c”和“x”开头的中文词语，如“抄袭”。又比如输入“y-l-d-x”，搜狗会弹出“舆论导向”，以及“耶鲁大学”等其他选项。这些呈现出的选项如此简单明了， 足够用户从“抄袭”等词中选中“诚信”。</p>
-<p>鉴于输入法是这样的运行方式，计算上的所有中文输入都是某种形式的本地通讯。当然，如果一个人在中国编辑word文档，输入的信息不会发给第三方，而是返还给用户本身。Word编辑者把字母代码传到输入法，输入法处理代码并以汉字形式将信息传回给用户。</p>
-<p><strong>云输入</strong></p>
-<p>从麻省理工的工程学教授塞缪尔·考德威尔（Samuel Caldwell）发明首台试验性中文计算机至今，60多年来中文计算机系统都主要依靠这种输入方式。事实上，计算机诞生之前便存在中文输入，甚至考德威尔的灵感也来自于知名作家、语言学家林语堂在20世纪40年代发明的明快（MingKwai ）中文机械打字机。自林和考德威尔之后，每一代中文计算机科学家和工程师都把中文输入作为设计的核心考量。</p>
-<p>特别是从2000年开始，中文计算机系统利用个人电脑不断增强的处理能力让汉字输入过程疯狂加速，同时汉字输入愈发智能，愈发依赖预测文本，自动补齐，快捷键和缩略词。因此，比起英文字母键盘那种“打什么字出什么字”，中国的全键盘变得更加“聪明”。所有这些或许都让中文成为地球上电脑输入最快的语言。</p>
-<p>近几年发生了影响深远的变化：云输入法出现了。上世纪80年代到21世纪初的输入法，输入的全过程都发生在电脑内部，而搜狗、百度、腾讯、微软等推出的云输入系统开始使用巨大的中文语料库和复杂的自然语言处理算法。2013年，微软的研究者把自家中文输入法不断完善的性能当做卖点；而搜狗在其官网上吹嘘其基于云技术的输入法具有更加卓越的准确率和性能。“长句识别”是指输入法将具有一定长度和复杂性的字母精确地转化为多字符中文的能力。搜狗称，依赖本地语料库的传统输入法的长句识别准确率为62.5%，如今云输入法已经将准确率提高到了84%，同时“短句识别”的准确率也从91.52%提高到了96%。</p>
-<p><strong>安全问题</strong></p>
-<p>或许很多人已经注意到了云输入法速度和准确性的提高，但很少有人指出这种系统可能会引发数据安全问题。如果说输入法本质上就是一种键盘记录器，那云输入法就是联网的键盘记录器。在云输入法中，每在标准键盘上按一个键，都相当于是按了“发送”、“上传”和“转发”。</p>
-<p>随着数以亿计的按键在光纤中来回输送，近年来人们开始担心这种输入方式容易受到监控。另外，英文计算机一般仅仅是在浏览网页时由谷歌提供搜索候选（译者注：根据用户输入提供用户可能需要搜索的关键词），而在中国，搜索候选功能已经成为了所有输入法的核心部分。</p>
-<p>当然，有些人也许会问，能否使用其他人的电脑来避开这种云输入法带来的监控。毕竟如果没有确定的身份标识，一定无法判断内容的输入者究竟是谁。但事实或许不是这样。</p>
-<p>作为斯坦福大学的空间与文本分析中心（CESTA）数字人文亚洲项目中的一项研究，我和我的团队一直在分析键盘的输入记录，试图理解在键盘输入中的各种逻辑和策略。</p>
-<p>尽管研究还未结束，但我们已经发现不同用户的键盘记录之间有惊人的差异。而且每个用户都有属于自己的且彼此间区别明显的中文输入方法。虽然我们仍处在研究的初期，但我们的发现对安全和隐私问题会带来的影响已经十分深远。</p>
-<p>在个人电脑出现之前，对打字机和打字机打出的文本进行科学鉴定是国内外监视的重要部分。由于打字机制式的不同，打字机打出的文本存在细微的差异。就连不同牌子的打字机色带也会在文件上留下略有不同的“标记”。在美国和前共产主义阵营国家（译者注：Communist bloc或Soviet bloc指和前苏联站在一起的一系列国家，不仅限于中欧和东欧的国家）中，监视部门就利用这些微妙的差异来分析来源不明的文件可能的出处和作者。（要想了解这种分析方法，读者可以去观看2006年电影《窃听风暴》。）</p>
-<p>我们的初步研究显示，通过计算机输入法输入的文本也有自己的标记，所以“输入法鉴定”是完全可能的。在斯坦福大学，我们邀请研究样本使用自己偏爱的输入法，输入唐代诗人王维（公元前701-公元前761）所做的古诗《送别》。我们的发现很惊人——就连在前两句诗、短短的十个字中，键盘记录下不同样本的习惯也存在差异。</p>
-<p>下马饮君酒，问君何所之？</p>
-<p>输入键盘记录，样本#1：xiama_yinjunjiu_,wen_jun_hesuozhi2?</p>
-<p>输入键盘记录，样本#2：xiamayinjunjiu2,wenjunhesuozhi2?</p>
-<p>注释：下划线是用户按下空格键的地方，这意味着用户选择了搜狗输入法选字框中的第一个字。数字2代表用户选择了搜狗输入法选字菜单中的第二个字。</p>
-<p>我们在示例1中可以看到，有些人每次只输入一个字的拼音，他们输入“w-e-n”，然后使用空格键（_）选择想要的字。另外的人在面对包含多个汉字的文本时，会选择输入更多的字母（比如“x-i-a-m-a-y-i-n-j-u-n-j-i-u”），这类人对输入法联想能力的依赖度更高。</p>
-<p>另外，随着文本长度的增加，不同电脑用户之间存在的差异会更大。这意味着，当我们把一个人每年成千上万（甚至上百万）次的按键结合在一起，就能总结出那个人独有的“指纹”——这种“指纹”的有效性和打字机时代最先进的识别技术不相上下。把输入法指纹和定位数据、网页缓存数据和其他数据获取方法进行交叉比对时，我们发现输入法指纹甚至更胜一筹。</p>
-<p>在云输入法的时代，电脑用户仅仅通过更换电脑来躲避监控是不够的，因为其输入指纹有可能会如影随形挥之不去。在愤怒时发过邮件或者喝醉时发过短信的人都知道，编辑时的信息和最终发送出去的信息可谓是天差地别。但如果这种不同完全消失呢？如果你的每一个Word文档，包括没有保存的那些以及整个编辑过程都能被拦截呢？如果你删除掉的每段话，修改过的每个短语，做过的每个改动和最终保存的文件都被一视同仁地保存在了监控世界中呢？这些你以为已经删除掉、但其实被保存下来的信息，有一天是否会被用来针对你？</p>
-<p>菲利普·狄克（Philip K. Dick）在他1956年的作品《少数派报告》（The Minority Report）中，提出了让人胆寒的“犯罪预防”（precrime）概念，意指在事先即察觉（甚至起诉）犯罪行为。云输入法的出现提出了一个问题：Wei Jingsheng被监禁的原因主要是因为他1978年攥写的文章The Fifth Modernization；Liu Xiaobo被监禁的原因，部分是因为他与人合著了Charter 08；在未来，异见者在用电脑进行创作时，是否会像恐怖分子一样，还未来得及行动就被察觉？</p>
-<p>另外，上述猜测不局限于中文输入或中文中。可以说，全球的IT公司和用户像中国一样开始利用智能键盘提供的便捷只是时间问题。</p>
-<p>当我准备按下“发送”按钮，将带着一个docx附件的电邮发给我的编辑时，我已经完全意识到，我写下的每一句话很可能已经被政府和私企的相关方拦截读取。</p>
-<p> </p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%AF%91%E8%AF%BB-%E5%A6%82%E4%BD%95%E7%94%A8%E8%BE%93%E5%85%A5%E6%B3%95%E6%9D%A5%E7%9B%91%E6%8E%A7%E5%85%AD%E4%BA%BF%E7%BD%91%E6%B0%91%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E9%9A%90%E7%A7%81/?category=18271" rel="tag">公民隐私</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E8%AF%BA%E7%99%BB/?category=18271" rel="tag">斯诺登</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">网络监控</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E9%9A%90%E7%A7%81/?category=18271" rel="tag">网络隐私</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%93%E5%85%A5%E6%B3%95/?category=18271" rel="tag">输入法</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -703,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -713,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

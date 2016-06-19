@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,42 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%94%BF%E6%B2%BB%E5%85%AB%E5%8D%A6%E4%B9%A6%E4%B8%8E%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88/" target="cdt-mirror">美国之音｜何清涟：香港政治八卦书与中央专案组</a>
+</h2>
+<p><p>编者按：这是何清涟为美国之音撰写的评论文章。这篇特约评论不代表美国之音的观点。转载者请注明来自美国之音或者VOA。</p>
+<p>这标题看起来实在荒唐，但香港铜锣湾书商失踪案将这两个词组合成了一个当代中国故事。当事人林荣基返港后召开记者招待会，提到办案机构“中央专案组”，不仅引起轩然大波，还唤醒不少经历过文革的大陆人的黑色记忆。</p>
+<p>中央专案组：香港书商失踪案的关键词</p>
+<p>失踪八个月的铜锣湾书店店长林荣基数天前回港，于6月16日召开记者会发布惊人消息。指出他被中方人员强行带走，关押在宁波，还指出拘留他的人不是国安、公安、派出所或军方，而是隶属“中央专案组”。</p>
+<p>此消息一出，舆论哗然。因为“中央专案组”一词非同小可，一是关系到此案的性质。可以说，铜锣湾书店失踪案发生以来，各种报道猜测不断，但办案者究竟是何方神圣，外界无从得知，今天终于由当事人林荣基说出，办案者向他透露是“中央专案组”，外界总算对此案的级别有了认识；二是关系到中国未来政治动向，中央专案组的复出，外界多认为这标识中国政治有向文革回归之势。</p>
+<p>目前，中央专案组到底在没在该案中出现已经成了罗生门，让中央专案组成为罗生门的并非中国政府，而是同案人李波。外交部发言人华春莹说：“李波（香港铜锣湾书店老板）已经否认了林荣基的说法。”</p>
+<p>那么，李波否定了什么？《苹果日报》6月17日在《受压反口？ 李波fb：冇同林荣基讲过非自愿被带返内地》里面援引李波在facebook上的一段话：</p>
+<p>“本来不想再说，但林荣基说的一些话，不得不澄清一下：1. 我从来没有使用过铜锣湾书店的电脑，更没有打印过任何顾客名单，当然不可能把什么名单交给公安。2. 我在和林荣基谈话时，根本没有提到过我怎样返回内地的事，更没有跟他说过‘非自愿被带返内地’或类似的话。3. 这段期间，我配合调查的是宁波公安机关，没听说过‘中央专案组’这回事。”</p>
+<p>李波的澄清是否可信？根据李波失踪后再现身的一系列说法，包括“我是在朋友的帮助下偷渡回内地的，所以没有用到‘回乡证’”，“我是自愿返回内地配合调查的，是我个人行为，我从来没有‘被绑架’或者‘被失踪’，“我自愿放弃居英权”等等，外界判定他在压力之下做此否定声明完全有道理。更何况，就算他没听到过办案人员说过类似的话，也不能证明办案人员没对林荣基说过。毕竟，李波此前从未说过每次提审林荣基时他都在场。</p>
+<p>中央专案组：中国人的文革记忆</p>
+<p>中央专案组是什么神秘组织？经历过文革的人大都知道这个机构的存在。我的家乡邵阳市在毛泽东“备战备荒为人民”时期被列为“三线城市”，曾从北京上海迁来不少大型国营工厂，因此认识某位北京青年，因交换书籍时有往来。立刻有人通过居委会警告说，这位青年的父亲是个由中央专案组办案的叛徒，你出身不好，再与这种人打交道，算是黑到底了。据这位青年说，同厂与他父亲类似情况的有好几位，彼此不知道案情。他父亲是受一位军中上司连累，具体什么事情，他们做子女的并不清楚。</p>
+<p>1978年之后中国进入所谓“拨乱反正”时期，其中重要任务是为老干部集中平反，《人民日报》上发表不少为他们倒苦水的文章，最有名的是陶铸女儿陶斯亮及东海舰队司令陶勇儿子陶小勇的回忆文章，里面都提到专案组。但至今为止，这个无处不在的专案组，维基百科中文简体版宣布已将这一词条移除，繁体版有介绍，最后更新时期是6月17日，估计是林荣基公开提到“中央专案组”后更新的。介绍非常简略：“文化大革命初期的中央专案组由总理周恩来牵头，针对的对象包括国家主席刘少奇、十大元帅的彭德怀和贺龙等，各专案组直接向党主席毛泽东和副主席林彪负责。文革结束两年后在1978年中央工作会议上决定废除该组织。目前的“中央专案组”是指由中共中央指派的专门工作组，成员来自不同的相关部门和机构，负责执行党中央的指示。”</p>
+<p>我记得《炎黄春秋》曾发表过涉及中央专案组的文章，上网搜索找到几篇。</p>
+<p>一篇是《中央专案组人员文革后的遭遇》（《炎黄春秋》2014年第9期），作者胡治安回忆了1982年公安部清洗专案组人员的原因与经过。文中透露了一些重要情况：1982年4月，邓小平批示“过去搞过专案的原则上调出公安部”。彭真对此的理解是：“看了小平的指示后，反复考虑了专案人员的问题”，“在林、江等指挥下，诬陷迫害刘少奇等大批老干部的专案人员，都集中在公安部，‘原封不动’没有处理，‘有些人处在重要岗位上’，自然要引起干部群众的疑问和担心”。该文说，“文革中的“中央专案组”组长是周恩来，下面分三个专案办公室：“一办”由汪东兴负责，办案人员是从有关单位抽调的局、处、科级和部队的各级军官；“二办”由黄永胜负责，办案人员多是由部队抽调的师、团、营、连级军官，也有极少数地方干部；“三办”由谢富治负责，办案人员多数是公安部机关的干部，军队干部约占三分之一左右，均是组长一级的骨干”。由于相关档案没有解密，作者说，“十年文革中，有多少人参加过中央专案工作，无从得知”。</p>
+<p>这篇文章承认一点：“1949年以来，多少‘大案’、‘要案’集中在公安部办理。三办的专案中有的就是以往专案的延续。以往的‘专案’，也有很多冤假错案。如‘潘杨案（潘汉年、杨凡）’、‘胡风案’、‘二陈案（广州市公安局原局长陈泊、副局长陈坤）’等等。虽与文革中的专案不可同日而语，但无疑两者内存着血脉相通的因子。”</p>
+<p>另一篇《我在“文革”专案组的日子》（《炎黄春秋》2012年第4期）也证实了中央专案组专门制造冤假错案这一事实。作者徐兆准在文中详细回忆了他在专案组的工作情况，据他在文中记述，“自1968年至1972年期间，据我所知，专案组审查事项大体有如下三类：一是翻老账查历史问题；二是清理解放后至‘文革’前现实言论或文章；三是查文革中的‘5·16’反革命集团案’。在清理阶级队伍的含义之下，真可谓把文学所从历史到现实都翻了个底朝天，直到“文革”结束之后，这才发现这一切都不过是子虚乌有的瞎折腾。”他对自己中央专案组工作的评价是：“那时的所谓专案工作，或者借炒冷饭抓历史问题，或者借现行言论制造新的冤假错案。”</p>
+<p>还有一篇陈虹写的《我参加饶漱石专案组的遭遇》（《炎黄春秋》2015年10月）。这三篇文章中记有许多细节，虽然没提到过用刑，但从刘少奇死前的悲惨状态，可以推测出折磨被审查对象的方法有很多种。</p>
+<p>中国故事与美国故事</p>
+<p>用中央专案组方式办案这一传统始终存在，比如刚落幕不久的周永康、薄熙来等政治大案，都由中央专案组办理。林荣基等香港书商均是一介平民，出了几本关于中国No.1的政治八卦书，竟然劳北京大驾成立中央专案组，难怪外界猜测这与北京高层内斗有关，认为是北京想顺藤摸瓜，找出谁是这类书籍的背后策划人。</p>
+<p>事到如今，这个案子也该收科了。北京兴师动众折腾了大半年，唯一的成果是让海外作者们承认了一点，这是他们看到中共剥夺人民言论自由权利而创作出来恶心中共领导人的“文学创作”。但从政治后果来说，香港书商失踪事件成了国际知名的人权大事件，引起香港人对北京政权的极度反感，算得上政治败笔。</p>
+<p>将这个中国故事与一个此刻正在发生的美国故事相比，让人对民主与专制有非常直观的认识。希拉里·克林顿在2016年大选中，备受攻击的性丑闻来自“一本捕风捉影的书”《克林顿夫妇对女性的战争》，书中的素材大半取自戴维·布罗克（David Brock）以前所做的报道，这位布罗克现在却成了希拉里竞选班子的操盘手。中国人听了这事一定会觉得荒谬，但这是《希拉里与川普口水战后的操盘手》（《纽约时报》2016年5月24日）中言之凿凿讲述的美国故事，不知北京方面听了这个故事后作何感想？ </p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%94%BF%E6%B2%BB%E5%85%AB%E5%8D%A6%E4%B9%A6%E4%B8%8E%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88%E7%BB%84/?category=18271" rel="tag">中央专案组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%94%BF%E6%B2%BB%E5%85%AB%E5%8D%A6%E4%B9%A6%E4%B8%8E%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88/" target="cdt-mirror">美国之音｜中国故事：香港政治八卦书与中央专案组</a>
 </h2>
 <p><p>这标题看起来实在荒唐，但香港铜锣湾书商失踪案将这两个词组合成了一个当代中国故事。当事人林荣基返港后召开记者招待会，提到办案机构 “ 中央 专案组 ” ，不 仅引起轩然大波，还唤醒不少经历过文革的大陆人的黑色记忆 。</p>
@@ -619,53 +652,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E6%96%87%E8%A7%82%E6%AD%A2%E3%80%91%E5%8D%95%E4%BB%81%E5%B9%B3%EF%BC%9A%E8%AF%85%E5%92%92%E4%B8%AD%E5%9B%BD%E5%8F%AF%E8%80%BB%EF%BC%8C%E5%80%9A%E4%BB%97%E5%A2%83%E5%A4%96%E5%8A%BF/" target="cdt-mirror">【异文观止】单仁平：诅咒中国可耻，倚仗境外势力可悲</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/75b1a75fjw1f4wwzqthy1j20pe0c577r.jpg?resize=550%2C309" alt="75b1a75fjw1f4wwzqthy1j20pe0c577r" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/75b1a75fjw1f4wwzqthy1j20pe0c577r.jpg?w=777 777w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/75b1a75fjw1f4wwzqthy1j20pe0c577r.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/75b1a75fjw1f4wwzqthy1j20pe0c577r.jpg?resize=768%2C432 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>“中国崩溃论”在境外不绝于耳，它虽已声名狼藉，但可能是因为这应和了某些海外力量的愿望，因此愿意跟着起哄的人总会一拨接上一拨。</p>
-<p>一个名叫高智晟的人写了一本书，语不惊人死不休地预言中国执政党“将在2017年完结”。高仍居住在中国，书稿被带出境外，近日同时在港台发布。除了港台媒体，一些西方主流媒体参与了对此书出版的炒作。</p>
-<p>高曾是所谓“维权律师”，蹲过多次监狱。他在这本书中讲述了自己的“狱中经历”，并且煞有介事地预测中国执政党明年就垮台，以及之后中国将被“民主过渡政府”接管。很多人都会诧异是什么让这名作者如此胡说八道，但一些仇视中国政治制度的人又可能会跟着此书大肆幻想，觉得像抽大烟一样“挺过瘾的”。</p>
-<p>越极端的“中国崩溃论”越有这样的畸形效果，所以它们虽荒诞不经，却总能堂而皇之地摆上一些境外书店的售卖架。</p>
-<p>高的这本书根本不值一谈，我们之所以把它作为一个例子在本文中提及，是想告诉公众，这么本烂书境外一些特定势力也要去捧，足以见得急切希望看到中国垮台的某些力量如今多么走火入魔。他们太想制造“中国将出大事”的舆论，太想让反中国体制的声音形成一种声势，为此他们已经不管反对声音的质量，不顾预测不能脱离现实的基本逻辑，他们在用起哄和诅咒代替批评及辩论。</p>
-<p>前几天中国网上传出一段视频，现已居住美国的前北大副教授夏业良竟然呼吁对中国政治中枢搞“海豹突击队”式的突袭，谋划政治暗杀等。夏的拙劣表现震惊了很多人。这些事让人想到，如今在境内外与中国政治体制搞极端对抗的，大概是改革开放以来几拨政治对抗者中学识最低、修养也最差的一批人。</p>
-<p>这批人不同于一般的“异见人士”，他们与中国社会的利益关系切割得极为彻底，他们真的很盼中国出大事，将中国走向动荡视为他们个人政治翻身的机会。他们很愿意牺牲中国广大人民的利益为他们的个人利益埋单，中国实现长期稳定繁荣，将是令他们绝望的人生噩梦。</p>
-<p>这批人受到传统主流社会的熏陶更浅、更少，不太在乎道德底线。他们还受到互联网炒作文化的影响，说话大嘴，先吸引眼球再说。他们实际没什么理想，搞政治对抗时也经常拨拉算盘珠子。他们不仅不怕被境外势力利用，而且会主动为了自己被利用上，针对境外势力的兴趣搞“私人定制”。</p>
-<p>由于中国社会很大，这种人在全中国范围内不难找，西方欲向中国发难的势力想支持他们当中的谁，挑选余地蛮大的。加上境外那些力量拿中国也没别的妙招，通过这批人给中国制造麻烦“性价比最高”，因此隔段时间就会围绕他们出一些动静。</p>
-<p>中国绝大多数人都不希望国家政权出问题，不希望整个社会面临动荡的风险，宣扬、诅咒中国政治体系崩溃非常不得人心，只有严重脱离当前国家现实的人才会对这样的民心一无所知。海外敌对势力利用中国国内的极端对抗者搞破坏性行动，这种路数已被中国社会熟悉，并遭到厌恶。对继续这样干的人和势力，中国历史必将有一根耻辱柱等着他们。</p>
-<p>▲（作者是环球时报评论员）</p>
-<p><strong>以下为中国数字时代编辑搜集自新浪网友评论：</strong></p>
-<p><a href="http://weibo.com/3867290413" target="_blank">小小小小小米君</a>：要是中国现在垮了，真闹起来，有几个还能坐在空调房里刷微博</p>
-<p><a href="http://weibo.com/bucktick" target="_blank">喵星球的豆腐</a><i title="微博达人"></i>：我兔数着钱默默看你们装B</p>
-<p><a href="http://weibo.com/5068560126" target="_blank">废屋</a>：因锤死挺，政府倒台对他有什么好处？简直智障<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">这年头还有这种肉眼可见没智商的人，也是难得。</p>
-<p><a href="http://weibo.com/2627690122" target="_blank">翻滚吧outman</a>：哪个国家的存在，都有其合理性，是否崩盘，取决于太多的因素，只有阴谋论者的思想，才会极端到追求一个政体的死亡<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3952812675" target="_blank">暮光雪影</a>：智障太多，国家要是真的出大乱，首先完蛋的就是我们自己<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/ywg0825" target="_blank">天意Yuen</a>：這姓高的鳥人簡直就是個神經病，別在國人面前丟人現眼了！</p>
-<p><a href="http://weibo.com/2598522052" target="_blank">_浣溪_</a>：现在要是tg倒台，搞西方式民主，不出一个月，国家肯定得分裂。不说别的，少数民族肯定是最先分出去。</p>
-<p><a href="http://weibo.com/moxiagntutu" target="_blank">一个打撸啊撸的少女</a><i title="微博达人"></i>：听过一句话，按着中国人这几千年来的尿性，如果TG真不好，轮的着你洋毛子叽叽歪歪，自己早就推翻了好吗？</p>
-<p><a href="http://weibo.com/1735491634" target="_blank">Good爷</a><i></i>：共产党还要在中国执政很多年，相当于一个朝代，执政时间可能比中国历史上的任何一个朝代都要长。至少在目前看来，共产党还在蓬勃发展</p>
-<p>——————————————————————————————————————————</p>
-<p><a href="http://weibo.com/hubintao" target="_blank">ililoolili</a>：看来这本书还是值得看的，戳到某组织痛处了</p>
-<p><a href="http://weibo.com/1651554232" target="_blank">有个仙人拍我肩</a>：你丈夫家暴每天揍你，你报警算不算勾结境外势力。</p>
-<p><a href="http://weibo.com/1369327214" target="_blank">夏州知府</a>：自己强大何惧一本书？</p>
-<p><a href="http://weibo.com/12ffc0" target="_blank">12ffc5</a>：中国执政党不等于中国啊</p>
-<p><a href="http://weibo.com/2755991601" target="_blank">路过蜻蜓2019</a>：人家根本没诅咒中国，诅咒的是现在统治中国的独裁政权。</p>
-<p><a href="http://weibo.com/2101590761" target="_blank">千山我独行518166</a>：不评论具体内容，就一点人家书中说的执政党会完结，怎么到你这里就变成国家会完结了？政党和国家是一个概念吗？中国有13亿人口，党员好像只有8000多万吧</p>
-<p><a href="http://weibo.com/BeatTiDragon" target="_blank">taeyeon_105</a>：中国是永远不会倒台的，共产党就难说<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/zhouyu1979" target="_blank">周宇1979</a>：多谢环球让我知道了这本书，回头去看看有没电子版的</p>
-<p><a href="http://weibo.com/5747642072" target="_blank">BenChancn</a>：广告贴。</p>
-<p><a href="http://weibo.com/5443018787" target="_blank">SeAL80s</a>：书呢，不让先读一读，再看读者的反应烂不烂吗？你说烂，我就要信？</p>
-<p><a href="http://weibo.com/1402964612" target="_blank">盖仓库的bear</a>：国内发个单行本吧，供批判。</p>
-<p><a href="http://weibo.com/1408883157" target="_blank">英倫風灰汰狼</a><i title="微博达人"></i>：这是一本什么书？有如此大的影响力，以至于官方都出面反击了。。。。</p>
-<p><a href="http://weibo.com/1628951835" target="_blank">GAHEE1003</a>：这作者应该也很尴尬了，大家压根就不知道这本书，记者这么一报，好像帮他免费宣传促进销售了，但是报道内容又说写的不好，至于怎么个不好，我们没看过原著的自然不好评价，这么一来，作者读者都尴尬了<img title="[汗]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2127062764" target="_blank">今晚谁做饭</a>：国永远都会存在，但政府不会，就像清朝政府，北洋政府，我们爱国，但不一定爱政府</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E6%96%87%E8%A7%82%E6%AD%A2%E3%80%91%E5%8D%95%E4%BB%81%E5%B9%B3%EF%BC%9A%E8%AF%85%E5%92%92%E4%B8%AD%E5%9B%BD%E5%8F%AF%E8%80%BB%EF%BC%8C%E5%80%9A%E4%BB%97%E5%A2%83%E5%A4%96%E5%8A%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A2017%E5%B9%B4%EF%BC%8C%E8%B5%B7%E6%9D%A5%E4%B8%AD%E5%9B%BD%E3%80%8B/?category=18271" rel="tag">《2017年，起来中国》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E4%BB%81%E5%B9%B3/?category=18271" rel="tag">单仁平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E6%96%87%E8%A7%82%E6%AD%A2/?category=18271" rel="tag">异文观止</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F/?category=18271" rel="tag">高智晟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F%E6%96%B0%E4%B9%A6/?category=18271" rel="tag">高智晟新书</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -687,5 +673,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A2017%E5%B
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

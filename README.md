@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-141/" target="cdt-mirror">【河蟹档案】大大伸了半天手，房事龙握谁呢</a>
@@ -72,7 +72,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88%E7%BB%84/?category=18271" rel="tag">中央专案组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%94%BF%E6%B2%BB%E5%85%AB%E5%8D%A6%E4%B9%A6%E4%B8%8E%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88/" target="cdt-mirror">美国之音｜中国故事：香港政治八卦书与中央专案组</a>
 </h2>
@@ -106,7 +106,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88%E7%BB%84/?category=18271" rel="tag">中央专案组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%82%93%E5%B0%8F%E6%A1%A6%EF%BC%9A%E6%B4%BB%E5%9C%A8%E7%9C%9F%E5%AE%9E%E4%B8%AD-%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88/" target="cdt-mirror">端传媒 | 邓小桦：活在真实中</a>
 </h2>
@@ -642,5 +642,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

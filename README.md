@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-141/" target="cdt-mirror">【河蟹档案】大大伸了半天手，房事龙握谁呢</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%87%E4%B8%8A%E4%BA%8C%E5%93%A5">陇上二哥</a>：大大伸了半天手，房事龙握谁呢？！<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1.gif?resize=437%2C246" alt="陈龙" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3985496033523843" target="/weibo/398">2016年06月12日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%80%81%E5%88%98%E5%9C%A8%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF">老刘在德克萨斯</a>：据今日华街，神州称有60国支持其南海国际法庭仲裁立场，但实际上只有8国表态支持：阿富汗、赞比亚、肯尼亚、尼日尔、苏丹、多哥、瓦努图、莱索托。被神州纳入支持名单的国家中，已有波兰、斯洛文尼亚、斐济等明确向华街辟谣，老挝和汶莱不作评论，柬埔寨则称立场没变，但没说什么立场。<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-24.jpg?resize=468%2C573" alt="中国南海" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-24.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-24.jpg?resize=245%2C300 245w" sizes="(max-width: 468px) 100vw, 468px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3987548399246431" target="/weibo/398">2016年06月18日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%98%9F%E8%AF%ADV%E4%B8%83%E5%A4%9C">星语V七夜</a>：分享图片<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-25.jpg?resize=490%2C469" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-25.jpg?w=490 490w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-25.jpg?resize=300%2C287 300w" sizes="(max-width: 490px) 100vw, 490px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3986979937280557" target="/weibo/398">2016年06月16日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%401013%E9%85%92L%E9%9C%B8">1013酒L霸</a>：分享图片//*<a href="https://freeweibo.com/weibo/%40%E6%96%B0%E5%90%AF%E8%92%99%E7%86%8A%E4%BC%9F">@新启蒙熊伟</a>:乌坎、乌坎 <em><em><em><em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2016/06/160618_china_wukan_revolt_leader_investigated">BBC<em><em><em><em>｜</em></em></em></em>中国乌坎村民选领导林祖恋涉受贿被查</a>》；《<a href="http://www.voachinese.com/content/wukan-20160619/3382522.html">美国之音<em><em><em><em>｜</em></em></em></em>关注乌坎(1) 村民称上千镇暴警进驻气氛紧张</a>》</em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-26.jpg?resize=467%2C622" alt="乌坎" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-26.jpg?w=960 960w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-26.jpg?resize=225%2C300 225w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-26.jpg?resize=768%2C1024 768w" sizes="(max-width: 467px) 100vw, 467px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-27.jpg?resize=407%2C724" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-27.jpg?w=720 720w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-27.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-27.jpg?resize=576%2C1024 576w" sizes="(max-width: 407px) 100vw, 407px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-28.jpg?resize=450%2C800" alt="林祖恋" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-28.jpg?w=1242 1242w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-28.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-28.jpg?resize=768%2C1365 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-28.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-29.jpg?resize=442%2C605" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-29.jpg?w=366 366w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-29.jpg?resize=219%2C300 219w" sizes="(max-width: 442px) 100vw, 442px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3988046921906461" target="/weibo/398">2016年06月19日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%BF%83%E5%BF%83%E4%BA%A1">心心亡</a>：这是新疆伊犁哈萨克自治州霍城县清水中学给回族学生准备的零食，迫使他们开斋，黑板上赫然写着“拒绝毒品，珍爱生命，不要封斋”……（此处省略部分文字，再说都难以言表。托靠真主，自己警觉！）<a href="https://freeweibo.com/weibo/%40%E7%A9%86%E6%96%AF%E6%9E%97%E5%BE%AE%E5%8A%9B%E9%87%8F">@穆斯林微力量</a><a href="https://freeweibo.com/weibo/%40%E7%BB%BF%E7%BA%AC">@绿纬</a> <a href="http://t.cn/R2db8ny" target="_BLANK">http://t.cn/R2db8ny</a> <em><em><em><em>相关阅读｜</em></em></em>《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%9C%A8%E6%96%B0%E7%96%86%EF%BC%8C%E6%96%8B%E6%9C%88%E5%90%83%E5%96%9D%E6%96%B9%E6%98%BE%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E6%9C%AC%E8%89%B2/">美国之音｜在新疆，斋月吃喝方显共产党员本色</a>》</em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-21.jpg?resize=427%2C592" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-21.jpg?w=462 462w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-21.jpg?resize=217%2C300 217w" sizes="(max-width: 427px) 100vw, 427px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-22.jpg?resize=431%2C575" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-22.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-22.jpg?resize=225%2C300 225w" sizes="(max-width: 431px) 100vw, 431px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3986363462637840" target="/weibo/398">2016年06月14日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-141/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0/?category=18271" rel="tag">伊斯兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">南海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E5%9B%BD%E9%99%85%E6%B3%95%E5%BA%AD/?category=18271" rel="tag">南海国际法庭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%9E%E6%97%8F/?category=18271" rel="tag">回族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E6%96%8B/?category=18271" rel="tag">开斋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E4%BC%8A%E7%8A%81/?category=18271" rel="tag">新疆伊犁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E9%BE%99/?category=18271" rel="tag">陈龙</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%94%BF%E6%B2%BB%E5%85%AB%E5%8D%A6%E4%B9%A6%E4%B8%8E%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88/" target="cdt-mirror">美国之音｜何清涟：香港政治八卦书与中央专案组</a>
 </h2>
 <p><p>编者按：这是何清涟为美国之音撰写的评论文章。这篇特约评论不代表美国之音的观点。转载者请注明来自美国之音或者VOA。</p>
@@ -604,54 +621,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%90%A7%E7%80%9A%EF%BC%9A%E5%90%8A%E5%84%BF%E9%83%8E%E5%BD%93%E7%9A%84%E5%A4%8F%E9%9C%96/" target="cdt-mirror">诗与帝国 | 萧瀚：江湖边上说夏霖</a>
-</h2>
-<p><p>“诗与帝国”按：</p>
-<p>这是篇写了已经六年的旧文，2014年11月夏霖被绑架的时候，我在公号上重发过一次，现在再发一次吧。时光流逝，公号已经不是那个公号，但号子里的人还是那个。</p>
-<p>今天是法院召开庭前会议的日子，但愿有好的新消息。</p>
-<p>2016年6月14日</p>
-<p>——————————————————————————————————————————</p>
-<p>“黑暗时代的人们”按：</p>
-<p>这篇文章写了有整整四年了（2010年11月6日），四年里发生了很多事，比如雾霾越来越重。</p>
-<p>在朋友们一个个鱼贯而入那寒冷铁门的同时，我每天也都收到许多逗人发噱的段子，最近一个段子有点长，17000字，大意是说某雾霾国要搞法治了，即便像我这么没有幽默感的人，看了这个段子也是眼泪都笑出来，确实太特码德逗了。可惜夏霖不在，不然也让他乐一乐。</p>
-<p>2014年11月15日</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xia-lin.png?resize=501%2C329" alt="xia lin" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xia-lin.png?w=501 501w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xia-lin.png?resize=300%2C197 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xia-lin.png?resize=230%2C150 230w" sizes="(max-width: 501px) 100vw, 501px" data-recalc-dims="1"><br>
-夏霖律师（2012年5月1日萧瀚摄于家中）</p>
-<p><strong>江湖边上说夏霖 </strong> by 萧瀚</p>
-<p>夏霖有个常用词，江湖。也许每个人不在江湖，就在江湖边上。</p>
-<p>翻了一下日记，初识夏霖是2007年2月7日：</p>
-<p>“2007年2月7日 星期三。今天上午11点出门到渝乡人家，见到夏霖律师和王和岩，和岩马上就走了，要去旁听二中院的庭审。我们吃饭到2：00，聊了很多，主要聊崔英杰的事情，他做得很好。”——夏霖是我们的共同朋友王和岩串的线。</p>
-<p>那天天气不很好，有点阴，但并不很冷，最高温6度，夏霖穿着他的招牌形象外套：黑色毛料大衣，里面是律师惯常打扮：西装领带，不过记不得具体颜色布料了。夏霖跟我差不多高，一米七多一点？头发梳得一丝不乱——又是律师的典型形象，不过，似乎也跟我差不多，顶上头发掉得稀稀拉拉，只是比较均匀。戴眼镜，还是跟我类似——普通的无边灰色金属架，一点不新潮。他没比我帅，也没比我不帅——不过认识我们的人通常会认为他比我帅，我始终认为这是偏袒他的不公正评价，当然直到现在我都忍而不发以示大度。</p>
-<p>那天聊的主要是崔英杰案，他谈到自己的辩护策略，跟我猜测的几乎一模一样：以自己的职业工作尽可能地为崔英杰赢得最好的结果，首先要救命，其次是刑期短一点，在这个原则面前，其他一切都得让步。</p>
-<p>他看着我，两眼精光四射、甚至有点严厉：“这可是条人命，老子手里攥着条人命！”</p>
-<p>渐收了脸上的笑，淡淡地几乎自言自语：“我不能到处乱说，你们可以说，甚至要多说，老子不能说，不知道说了会怎样，不能说。”</p>
-<p>若有所思地喷着烟雾：“那些研讨会，我也犹豫过要不要去，后来想想，忍着，不能去，谁知道我这一出场会什么效果！”</p>
-<p>确实，崔英杰事件沸沸扬扬于司法过程之际，任凭网上沸反盈天、法学界研讨会频仍，夏霖从未对外界说过什么话：拒绝参加研讨会、拒绝接受采访。就是在这样的强制沉默中，直到一审判决上诉期届满，夏霖心里的石头才算落地：崔英杰活下来了！认识之前我就想，这家伙真沉得气！而这是对的，这是一个洞悉中国特定政治生态，以当事人命运为己任的高水准敬业律师才懂的道理：以默默的专业努力与外界的舆论支持相合若契，从而为赢得当时崔英杰所能得的最佳结果作出巨大贡献。</p>
-<p>其实，第一次见面，夏霖给我最主要的印象是固执，小我半岁左右的夏霖，有着我们这代人的一些共性：就如我们的眼镜，一样土，一样有些莫名其妙的固执，仅仅因为这些固执让我们白天生活得快乐些，晚上睡得安稳些。</p>
-<p>后来就有更多案例来证明他的固执，比如去年邓玉娇案，夏霖和他的团队赴巴东鏖战，曾经关心此案的人们对夏霖团队的或支持或误会，随着更多的热点恶性事件而逐渐归于沉寂，其间的是非风云渐离人眼，但公正的人们不会忘记夏霖团队为此案最终还算不错的结局作出的贡献。</p>
-<p>也许我们固执的东西，骨子里没什么区别，但他终归跟我不一样：多年从事我无能从事的职业——刑事辩护律师。从他眼镜后面的眼神里可以看到这种职业特性：机警、敏锐、严肃，有力量感。然而，未被阅历浸泡成世故的沧桑，配以他眼神里顽固而桀骜不驯的天然正气——这才构成夏霖刑辩律师最重要的气质。</p>
-<p>夏霖动辄说江湖上如何如何。既然是江湖，总要喝酒的，不过那次谈话我俩喝得不多，后来才知道他很能喝酒，而且嘴刁得要死，茅台茅台再茅台，就是他喝酒的最大嗜好。他一直都很大方地请朋友们吃饭，似乎只有他有义务请朋友吃饭，别人都不该买单。</p>
-<p>2007年初的相识见面之后，后来见的就多了，比如我和他各自吆喝的一群人餐聚。酒桌上的他和职业西装革履里装着的这个人，其实挺合得来。一口云贵川普通话“喝一个咯！”站起来一饮而尽，酒杯见底，习惯性地照一下，对方没喝干，他毫不在意。豪气地喝酒并不妨碍他照顾别人的酒量而不强行劝酒，不然像我这种酒量差酒胆大的人八成会被灌得不是胡言乱语就是不省人事。</p>
-<p>夏霖愛笑，一笑起来，除了跟我一样露出被烟熏黄甚至牙缝都黑了的牙齿外，还有微仰着脸直视人的天真。一手夹着烟，一手搭在桌子上，兴致勃勃地说出典型云贵川不那么普通的普通话，弯着笑眼，滔滔不绝，语速不快不慢，略显激动的时候，就会发出似乎带点爆破性的语气：上声的“哦！”</p>
-<p>夏霖的笑声“嘿嘿嘿”的，不是掩口葫芦的假节制，也不是纵声大笑，而是一种心情舒畅几乎自娱自乐的笑。有时候他的笑是带点含蓄、善意揶揄的“坏笑”，表示他明白你隐秘而羞于直言的念头。开起玩笑来，甚至常会略微俯下身去，笑弯了眼，歪着脑袋，然后直起脖子看着你，仿佛说：“老子信你才傻呢！”却又似乎因为识破对方而表示歉意。</p>
-<p>夏霖重情，不嫌麻烦。今年一次餐聚，于我两口子有特殊意义，但招呼人的时候，并没有告诉大家餐聚的由头，极希望他夫妇能来，但他在出差，无奈只能直言相告，以图可能——其实我只是希望他来，事情没办完总得先办事。不想他在电话里毫不犹豫，只说：“好，我来。”他特地飞回来，从机场直接来参加聚会，路上还置办重礼（说好不收任何重礼，屡经反复才送回），第二天回去办事。</p>
-<p>我说过，夏霖跟我一样土，其实许多时候比我还土，周围的朋友们就经常笑话他的“土”，比如，邓玉娇事件那会儿，他还不会打字——一个总是秘书伺候着的律师常常就会这么土，当他能用“二指禅”在电脑上敲出几个字的时候，就一脸舍我其谁地得意起来：“我现在不土了吧？！”边上每个人都会立刻戳穿并奚落他：“哼，这么点破玩意儿就吹牛！”他立马蔫儿了。</p>
-<p>有一回，我们几个人走在路上，他突然跟我说：“你知道林志玲吗？郭玉闪不知道，比我还老土。”比我大不了多少的眼睛，在笑容和眼镜的掩护下闪烁着满脸的得意。“我当然知道，你知道周迅吗？”他一脸焦急地迅速翻动记忆，可惜最终还是一脸焦虑加茫然，这几天的时尚速成功课显然都打了水漂。</p>
-<p>夏霖做冤大头是出了名的，我们这帮不厚道的朋友，一边吃着他请客的美味佳肴，一边控诉他的种种“暴行”，尤其是他身边打理案头工作的女律师们，喜形于色地声讨遭他性别歧视，他乐滋滋、恬不知“牙齿”地在那里“虚心”听着，等我像法官一样为他的女助手们讨回公道，他才嫉妒地哼哼：“你就是会讨好小姑娘！”接着就又虚心求教的笑脸：“以后要向萧瀚兄学几招，多讨好讨好小姑娘。”平心而论，夏霖就是嘴臭，常说些除了得罪别无用途的性别歧视言论，生活或工作中其实挺照顾女性，无论对他太太林茹，还是其他女性，都是一副大哥罩着的样子。有回在我家，我这么说他，当即遭到余晖兄笑吟吟地替他打抱不平：“夏霖哪里嘴臭了，我看夏霖挺好的嘛不是，你们都欺负他。”余晖兄一定是碍于情面没说我嘴臭，我老说夏霖嘴臭，夏霖又没说过我嘴臭，真正嘴臭的当然该是我。</p>
-<p>不过，有时“天然气”也会变成“天燃气”。据说夏霖也会乱发脾气——足以证明他嘴臭之说并非无稽。最初亲见，一番义正词严地批评之后，我心中窃喜，几乎狂喜（自省一下，闻人过则喜，小人也，这回先喜了，以后改正），哈，真是上天有眼，居然真派来一兄弟给我作伴，原来世上还真有跟我一样脾气暴躁的家伙。一直以为我认识的人里，除我之外不可能还有脾气不好的人，没想到，还真有，不但有，脾气之差还能跟我PK。就像我曾经多次在众人面前发作，事后羞愧懊恼不已，夏霖那次发脾气的样子（为保护他形象，就不描述了，再说他是律师，怕他给我吃官司），虽然比我好多了，也是半斤八两，他好一点，就算他八两吧。</p>
-<p>我并没资格来讲述夏霖经历的这一个个惊心动魄的案例故事（尤其是谭作人案），因为有许多事，有许多情，只有他和他的团队明白，有些甚至只有他一个人清楚，而他未必想现在就说出来，甚或一辈子不想说也未可知，现实的残酷把他打磨得敬业、智慧，沧桑却不失童真天趣。</p>
-<p>夏霖这酒徒，我站在江湖边上看他远远走来，低沉的湖面风冷，氤氲雾气里，看他拨开名利的浮云，劈手拉住坠向地狱的崔英杰，看他拦腰扛起邓玉娇，看他紧攥谭作人远去的手，看他笑嘻嘻地给黑暗无声的冬天打出一个有光有热的响指。</p>
-<p>张思之老爷子自嘲说是个“吊儿郎当”的人，夏霖其实也是，骨子里我们都是。我看他，就像看另一个自己——一直向往却没能实现的自己。他帮我把那些被侮辱被损害的人们从地狱的深渊里营救出来，在他涨红着脸憋着劲拉人的时候，我帮他喊话；他能让这个世界减少一点恶，增加一点善，我却只能通知人们：</p>
-<p>看哪，江湖边走来个“吊儿郎当”的人。</p>
-<p>2010年11月6日於追遠堂</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%90%A7%E7%80%9A%EF%BC%9A%E5%90%8A%E5%84%BF%E9%83%8E%E5%BD%93%E7%9A%84%E5%A4%8F%E9%9C%96/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96/?category=18271" rel="tag">夏霖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96%E6%A1%88%E5%BC%80%E5%BA%AD/?category=18271" rel="tag">夏霖案开庭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96%E6%B6%89%E8%AF%88%E9%AA%97/?category=18271" rel="tag">夏霖涉“诈骗”</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">打压维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%90%A7%E7%80%9A/?category=18271" rel="tag">萧瀚</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -663,7 +632,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -673,5 +642,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

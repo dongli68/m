@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%82%93%E5%B0%8F%E6%A1%A6%EF%BC%9A%E6%B4%BB%E5%9C%A8%E7%9C%9F%E5%AE%9E%E4%B8%AD-%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88/" target="cdt-mirror">端传媒 | 邓小桦：活在真实中</a>
@@ -239,7 +239,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AE%BA%E6%88%98/?category=18271" rel="tag">吴建民胡锡进论战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%BD%A6%E7%A5%B8%E9%80%9D%E4%B8%96/?category=18271" rel="tag">吴建民车祸逝世</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E5%A4%A9%E5%A0%82%E9%87%8C%E4%B8%8D%E5%88%86%E9%B8%BD%E6%B4%BE%E9%B9%B0%E6%B4%BE-%E5%90%B4%E5%A4%A7%E4%BD%BF%E5%AE%89%E6%81%AF%EF%BC%81/" target="cdt-mirror">导弹熊 | 天堂里不分鸽派鹰派  吴大使安息！</a>
 </h2>
@@ -677,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -687,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

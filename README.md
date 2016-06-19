@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%94%BF%E6%B2%BB%E5%85%AB%E5%8D%A6%E4%B9%A6%E4%B8%8E%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88/" target="cdt-mirror">美国之音｜中国故事：香港政治八卦书与中央专案组</a>
+</h2>
+<p><p>这标题看起来实在荒唐，但香港铜锣湾书商失踪案将这两个词组合成了一个当代中国故事。当事人林荣基返港后召开记者招待会，提到办案机构 “ 中央 专案组 ” ，不 仅引起轩然大波，还唤醒不少经历过文革的大陆人的黑色记忆 。</p>
+<p>中央 专案组：香港书商失踪案的关键词</p>
+<p>失踪八个月的 铜锣湾书店店长林荣基数天前回港，于 6 月 16 日召开 记者会发布惊人消息。指出他被中方人员强行带走，关押在宁波，还指出拘留他的人不是国安、公安、派出所或军方，而是隶属 “ 中央 专案组 ” 。 </p>
+<p>此消息一出， 舆论哗然。因为 “ 中央 专案组 ” 一 词非同小可，一是关系到此案的性质。可以说，铜锣湾书店失踪案发生以来，各种报道猜测不断，但办案者究竟是何方神圣，外界无从得知，今天终于由当事人林荣基说出，办案者向他透露是 “ 中央 专案组 ” ，外界总算对此案的级别有了认识；二是关系到中国未来政治动向，中央专案组的复出，外界多认为这标识中国政治有向文革回归之势 。 </p>
+<p>目前，中央 专案组到底在没在该案中出现已经成了罗生门，让中央专案组成为罗生门的并非中国政府，而是同案人李波。外交部发言人华春莹说： “ 李波（香港 铜锣湾书店老板）已经否认了林荣基的说法。 ” </p>
+<p>那么，李波否定了什么？《苹果日 报》 6 月 17 日在《受 压反口？ 李波 fb ： 冇同林荣基讲过非自愿被带返内地》里面援引李波在 facebook 上的一段 话 ：</p>
+<p> “ 本来不想再 说，但林荣基说的一些话，不得不澄清一下： 1. 我从来没有使用 过铜锣湾书店的电脑，更没有打印过任何顾客名单，当然不可能把什么名单交给公安。 2. 我在和林荣基 谈话时，根本没有提到过我怎样返回内地的事，更没有跟他说过 ‘ 非自愿被 带返内地 ’ 或 类似的话。 3. 这段期间，我配合调查的是宁波公安机关，没听说过 ‘ 中央 专案组 ’ 这回事。 ” </p>
+<p>李波的澄清是否可信？根据李波失踪后再 现身的一系列说法，包括 “ 我是在朋友的帮助下 偷渡回内地的，所以没有用 到 ‘ 回 乡证 ’” ， “ 我是自愿返回内地配合 调查的，是我个人行为，我从来没有 ‘ 被 绑架 ’ 或者 ‘ 被失踪 ’ ， “ 我自愿放弃居英 权 ” 等等，外界判定他在 压力之下做此否定声明完全有道理。更何况，就算他没听到过办案人员说过类似的话，也不能证明办案人员没对林荣基说过。毕竟，李波此前从未说过每次提审林荣基时他都在场 。 </p>
+<p>中央专案组：中国人的文革记忆 </p>
+<p>中央专案组是什么神秘组织？经历过文革的人大都知道这个机构的存在。我的家乡邵阳市在毛泽东 “ 备战备荒为人民 ” 时期被列为 “ 三 线城市 ” ，曾从北京上海迁来不少大型国 营工厂，因此认识某位北京青年，因交换书籍时有往来。立刻有人通过居委会警告说，这位青年的父亲是个由中央专案组办案的叛徒，你出身不好，再与这种人打交道，算是黑到底了。据这位青年说，同厂与他父亲类似情况的有好几位，彼此不知道案情。他父亲是受一位军中上司连累，具体什么事情，他们做子女的并不清楚 。 </p>
+<p>1978 年之后中国进入所谓 “ 拨乱反正 ” 时期，其中重要任务是为老干部集中平反，《人民日报》上发表不少为他们倒苦水的文章，最有名的是陶铸女儿陶斯亮及东海舰队司令陶勇儿子陶小勇的回忆文章，里面都提到专案组。</p>
+<p>但至今为止，这个无处不在的专案组，维基百科中文简体版宣布 已将 这一词条移除，繁体版有介绍，最后更新时期是 6 月 17 日，估计是林荣基公开提到 “ 中央 专案组 ” 后更新的。介绍非常简略： “ 文化大革命初期的中央 专案组由总理周恩来牵头，针对的对象包括国家主席刘少奇、十大元帅的彭德怀和贺龙等，各专案组直接向党主席毛泽东和副主席林彪负责。文革结束两年后在 1978 年中央工作会 议上决定废除该组织。</p>
+<p>目前的 “ 中央 专案组 ” 是指由中共中央指派的 专门工作组，成员来自不同的相关部门和机构，负责执行党中央的指示。 ” </p>
+<p>我记得《炎黄春秋》曾发表过涉及中央专案组的文章，上网搜索找到几篇。 一篇是《中央 专案组 人 员文革后的遭遇》（《炎黄春秋》 2014 年第 9 期），作者胡治安回 忆了 1982 年公安部清洗 专案组人员的原因与经过。文中透露了一些重要情况： 1982 年 4 月， 邓小平批示 “ 过去搞过专案的原则上调出公安部 ” 。彭真对此的理解是： “ 看了小平的指示后，反复考虑了专案人员的问题 ” ， “ 在林、江等指 挥下，诬陷迫害刘少奇等大批老干部的专案人员，都集中在公安部， ‘ 原封不 动 ’ 没有处理， ‘ 有些人 处在重要岗位上 ’ ，自然要引起干部群众的疑 问和担心 ” 。 </p>
+<p>该文说， “ 文革中的 “ 中央 专案组 ” 组长是周恩来，下面分三个专案办公室： “ 一 办 ” 由汪 东兴负责，办 案人 员是从有关单位抽调的局、处、科级和部队的各级军官； “ 二 办 ” 由黄永 胜负责，办案人员多是由部队抽调的师、团、营、连级军官，也有极少数地方干部； “ 三 办 ” 由 谢富治负责，办案人员多数是公安部机关的干部，军队干部约占三分之一左右，均是组长一级的骨干 ” 。</p>
+<p>由于相关档案没有解密，作者说， “ 十年文革中，有多少人参加 过中央专案工作，无从得知 ” 。 这篇文章承认一点： “1949 年以来，多少 ‘ 大案 ’ 、 ‘ 要案 ’ 集中在公安部 办理。三办的专案中有的就是以往专案的延续。以往的 ‘ 专案 ’ ，也有很多冤假 错案。如 ‘ 潘 杨案（潘汉年、杨凡） ’ 、 ‘ 胡 风 案 ’ 、 ‘ 二 陈案（广州市公安局原局长陈泊、副局长陈坤） ’ 等等。 虽与文革中的专案不可同日而语，但无疑两者内存着血脉相通的因子。 ” </p>
+<p>另一篇《我在 “ 文革 ” 专案组的日子》（《炎黄春秋》 2012 年第 4 期）也 证实了中央专案组专门制造冤假错案这一事实。作者徐兆准在文中详细回忆了他在专案组的工作情况，据他在文中记述， “ 自 1968 年至 1972 年期 间，据我所知，专案组审查事项大体有如下三类：一是翻老账查历史问题；二是清理解放后至 ‘ 文革 ’ 前 现实言论或文章；三是查文革中的 ‘5·16’ 反革命集 团案 ’ 。在清理 阶级队伍的含义之下，真可谓把 文学所从 历史到现实都翻了个底朝天，直到 “ 文革 ” 结束之后，这才发现这一切都不过是子虚乌有的瞎折腾。 ” 他 对自己中央专案组工作的评价是： “ 那 时的所谓专案工作，或者借炒冷饭抓历史问题，或者借现行言论制造新的冤假错案。 ” 还有一篇陈虹写的《我参加饶漱石专案组的遭遇》（《炎黄春秋》 2015 年 10 月）。 </p>
+<p>这三篇文章中记有许多细节，虽然没提到过用刑，但从刘少奇死前的悲惨状态，可以推测出折磨被审查对象的方法有很多种 。 </p>
+<p>中国故事与美国故事 </p>
+<p>用中央专案组方式办案这一传统始终存在，比如刚落幕不久的周永康、薄熙来等政治大案，都由中央专案组办理。林荣基等香港书商均是一介平民，出了几本关于中国 No.1 的政治八卦 书，竟然劳北京大驾成立中央专案组，难怪外界猜测这与北京高层内斗有关，认为是北京想顺藤摸瓜，找出谁是这类书籍的背后策划人 。 </p>
+<p>事到如今，这个案子也该收科了。北京兴师动众折腾了大半年，唯一的成果是让海外作者们承认了一点，这是他们看到中共剥夺人民言论自由权利而创作出来恶心中共领导人的 “ 文学 创作 ” 。但从政治后果来说，香港书商失踪事件成了国际知名的人权大事件，引起香港人对北京政权的极度反感，算得上政治败笔 。 </p>
+<p>将这个中国故事与一个此刻正在发生的美国故事相比， 让人对民主与专制有非常直观的认识。希拉里 · 克林 顿在 2016 年大 选中，备受攻击的性丑闻来自 “ 一本捕 风捉影的书 ” 《克林 顿夫妇对女性的战争》，书中的素材大半取自戴维 · 布 罗克（ David Brock ）以前所做的 报道，这位布罗克现在却成了希拉里竞选班子的操盘手。中国人听了这事一定会觉得荒谬，但这是《希拉里与川普口水战后的操盘手》（《纽约时报》 2016 年 5 月 24 日）中言之凿凿讲述的美国故事，不知北京方面听了这个故事后作何感想 ？ </p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%94%BF%E6%B2%BB%E5%85%AB%E5%8D%A6%E4%B9%A6%E4%B8%8E%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88%E7%BB%84/?category=18271" rel="tag">中央专案组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%82%93%E5%B0%8F%E6%A1%A6%EF%BC%9A%E6%B4%BB%E5%9C%A8%E7%9C%9F%E5%AE%9E%E4%B8%AD-%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88/" target="cdt-mirror">端传媒 | 邓小桦：活在真实中</a>
 </h2>
 <p><p>林荣基拒绝了政权的谎言，保住了香港的光明。香港人得以用行动，再连结为一个希望的共同体。“我都可以，为什么你不可以？”</p>
@@ -272,7 +306,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E6%89%B9%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">吴建民批胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AE%BA%E6%88%98/?category=18271" rel="tag">吴建民胡锡进论战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%BD%A6%E7%A5%B8%E9%80%9D%E4%B8%96/?category=18271" rel="tag">吴建民车祸逝世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9%E7%86%8A/?category=18271" rel="tag">导弹熊</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5/" target="cdt-mirror">德国之声 | 乌坎民选村主任被立案调查</a>
 </h2>
@@ -631,40 +665,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%8F%E9%9C%96
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A2017%E5%B9%B4%EF%BC%8C%E8%B5%B7%E6%9D%A5%E4%B8%AD%E5%9B%BD%E3%80%8B/?category=18271" rel="tag">《2017年，起来中国》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%95%E4%BB%81%E5%B9%B3/?category=18271" rel="tag">单仁平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E6%96%87%E8%A7%82%E6%AD%A2/?category=18271" rel="tag">异文观止</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F/?category=18271" rel="tag">高智晟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F%E6%96%B0%E4%B9%A6/?category=18271" rel="tag">高智晟新书</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%BA%97%E9%95%BF-%E5%A4%B1%E8%B8%AA8%E6%9C%88%E5%90%8E%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A%E6%9B%9D%E5%85%89%E6%8B%98/" target="cdt-mirror">端传媒 | 铜锣湾书店店长 失踪8月后开记者会曝光拘押全过程</a>
-</h2>
-<p><p>失踪八个月的铜锣湾书店店长返港开记者会，在内地女友及同事仍被控制的情况下，选择披露自己经历的拘押、提审、被拍片、被要求指认禁书订户资料等全过程，他说：“这件事不是我个人的事，是香港整个社会人的自由诉求。”</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/duan.png?resize=555%2C367" alt="lin rongji" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/duan.png?w=555 555w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/duan.png?resize=300%2C198 300w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"><br><span>铜锣湾书店店长林荣基16日下午在立法会召开记者会。摄：吴炜豪/端传媒</span></p>
-<p>6月16日下午，失踪近8个月、两日前返港的铜锣湾书店店长林荣基在民主党立法会议员何俊仁陪同下在立法会开记者会，讲述自己被扣押的原因和情况。</p>
-<p>林荣基今年60岁，香港永久居民，1994年创办铜锣湾书店，一直亲力亲为管理书店。2014年，他将书店卖给了“巨流传媒有限公司”，他本人则在卖盘后留任担任店长。</p>
-<blockquote><p>我是5人中负担最少，若我不发声，对不起港人。这些事，将来也会发生在香港人身上。—— 林荣基<cite><em><br></em></cite></p></blockquote>
-<p><strong>被带至宁波囚禁，不准通知家人及聘请律师</strong></p>
-<p>林荣基指，自己去年10月24日本拟经深圳找东莞的朋友，但在过罗湖海关时被深圳海关拘留，数名海关职员带走他，后有11人带他上一辆七人车，驶到深圳一个废车场，并没收他的证件。全程无人能回答他究竟所犯何事。</p>
-<p>当晚，林荣基在派出所“犯人栏”停留一晚，对方曾供应食物。次日早晨7点多，他被戴上眼罩、鸭舌帽，带上动车，坐了13到14个小时后，到达浙江宁波。下火车后，再经45分钟车程，林荣基被带至一栋大型建筑物的2楼一房间，被脱掉全部衣物作检查。林说随后有人让他签署两项条款，包括“答允放弃通知家人”及“不聘请律师”。林荣基说，自己当时“孤零零一个人，唯有签纸”。</p>
-<p>之后林荣基被盘问在铜锣湾书店担任什么职位，对方指他从香港把禁书带到内地，违反了《经营法》，还特别问及他禁书的撰稿人资料。但他认为自己在港“经营正经书店，根据香港法例正常经营的小书店”。林荣基说对方不是国安、军人、派出所人员，但听到他们是“中央专案组”的人。他又指另有两个来自北京的人曾责骂他，指他的书籍侮辱了国家领导人。</p>
-<p>林荣基说，被拘留后，自去年11月至今年3月，自己被关在不足300呎的空间，由2人一组的6人组24小时看守。期间房内的书柜、水龙头和墙身都铺上软胶，连牙刷都被绳索绑住，在另一端有人拎住，刷完就收起，防止他自杀。他形容该房间有窗户，望出去是类似的房间，又估计这个建筑群估计有20间房。他表示自己曾离开房间，但期间被戴上眼罩，他在眼罩边缘见到附近有“脸盘毛巾”，估计有其他人亦被囚禁于此。</p>
-<p>他说自己期间在房间被提审20到30次，出外提审两次，“有时一星期三、四次，有时几星期一次”，每次提审时间为半小时至一个多小时。他说自己“美其名曰是监视居住，但我连行出去一步都无，只可以望住个天孤立无援”，反问“这么大的中国政府，对一个认为违反中国法例的书商，可以这样对待？”，又说“你讲明一国两制，公道自在人心”，质疑中央违反一国两制。</p>
-<p><strong>在内地被拍片“有导演、有台词”，被放回香港有条件</strong></p>
-<p>林荣基承认自己被安排拍摄影片，指片段“有导演、有台词”，部分对白并不是自己想说的，但他照做，因为“唔洗食饭呀？”（不用吃饭呀？）他在1月28日<a href="http://news.ifeng.com/a/20160228/47620675_0.shtml">凤凰卫视</a>播出的影片中曾说自己“深刻认识到错误”，6月16日的记者会上他解释说，这是因为当时“他们叫我承认，我无法不承认”。</p>
-<p>对于香港政府有否协助他，他表示“不知港府救过什么人”，“对住他（指梁振英）我们无话可说，做唔到嘢有咩好讲”。被问及有否寻求香港警方帮助时，他指香港警方在2014年占领期间“在金钟出催泪弹，学生手无寸铁”，认为警方并不站在市民一方。</p>
-<p>3月2日，广东省公安曾指林荣基将在未来数天内取保候审。6月16日他在记者会现场确认自己正在取保候审期间，但不知道具体的程序。他指前天（6月14日）自己要求回港探望家人，但对方提出条件，要求他提交铜锣湾书店的寄书纪录，制成硬碟带回内地，交给对方作为呈堂证供。但他指自己不敢说，因为怕读者受到影响，强调自己没有出卖读者。</p>
-<p>他还透露李波回港之后曾把寄书资料的硬碟带回内地，自己则“没想过（对方）叫李波将硬件 copy 上去再放到电脑，叫我认人”。他指李波带去的资料使中央政府现在已经有铜锣湾书店读者的订书记录，当中涉及500到600人，以内地人为主，涉事书籍有4000多本。</p>
-<p>他又指自己14日回港并非一人，有两名分别姓陈及姓史的内地人员陪同。而中央政府“本来要我今日上去，我当然不敢上去啦，还上去？”，他说。他又指自己“有什么好后悔？寄书合法的嘛！”林荣基说，他现阶段并不担心在港的家人安全，至于自己则“真的无办法啦，看下香港政府有无保障”，又说“找何俊仁更有保障”。何俊仁则指，如果林荣基今日之后突然消失，“大家都知是为什么”。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/duan-1.png?resize=553%2C366" alt="tongluowan" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/duan-1.png?w=553 553w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/duan-1.png?resize=300%2C199 300w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><br><span>铜锣湾书店。摄：Anthony Kwan/端传媒</span></p>
-<p><strong>与李波交谈，对方指“违反自己意愿被带走”</strong></p>
-<p>林荣基还指自己今日（16日）曾与李波见面，李波透露自己是“违反自己意愿被带走”，但并无具体说明被何人带走。他又引述李波说“希望尽快结束件事”，而“上面（中央政府）要求他（李波）办完公司业务要返上去”。林荣基又说，“如果李波系畀人笠咗上去，好明显系跨境执法”。</p>
-<p>被问及铜锣湾书店现况，他指目前书店由一名陈先生续租两年，但他不知资金来源。他自己的女友则仍在内地“保释候审”，并且仍有同事滞留内地。</p>
-<p>林荣基指自己开记者会的原因，是因为“这件事不是我个人的事，是香港整个社会人的自由诉求，中央政府逼到香港人无路可退”，又指铜锣湾书店事件“触及香港人的底线”，“如果连我都不出声，香港就无得救”。他又强调香港是法治社会，自己未来不会回大陆。被问及会否在其他国家寻求庇护，他回应指：“我是香港人，土生土长，不需要离开香港。”</p>
-<p>他说自己回港两日几乎完全没有睡觉，“回看视频，见到六千个人上街，好大感触，好感谢”。 他呼吁香港人，“希望香港人向强权说不，我都可以，你怎么不可以？”</p>
-<p>铜锣湾书店失踪的5人中，截至发稿，李波、林荣基、吕波、张志平已经返港。桂敏海仍在内地，其女儿早前曾在美国国会听证会指父亲被非法绑架。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%BA%97%E9%95%BF-%E5%A4%B1%E8%B8%AA8%E6%9C%88%E5%90%8E%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A%E6%9B%9D%E5%85%89%E6%8B%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
 	<small> ============== 3天前</small>
 </p>
 <table>
@@ -677,7 +677,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -687,5 +687,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

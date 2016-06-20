@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%8D%E8%83%BD%E5%8F%AB%E6%88%BF%E7%9A%84%E5%8C%97%E4%BA%AC%E5%AD%A6%E5%8C%BA%E6%88%BF/" target="cdt-mirror">【图说天朝】不能叫房的北京“学区房”</a>
+</h2>
+<p><p>@股社区：在链家看到一个超级奇葩的学区“房”，咳….其实都不能叫房，因为产权上归房主所有的是一条过道，每天要被所有人进进出出，但是你拥有这条过道可以念边上的一个小学，标价150万。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/brGSW.jpg?resize=550%2C979" alt="brGSW" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/brGSW.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/brGSW.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/brGSW.jpg?resize=575%2C1024 575w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/DdSWm.jpg?resize=550%2C979" alt="DdSWm" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/DdSWm.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/DdSWm.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/DdSWm.jpg?resize=575%2C1024 575w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p> </p>
+<p>@淡泊借势：这可是阳光大道呀，买道上学，好比借壳上市。</p>
+<p>@蓓蓓晃：150万够上相当不错的国际学校到初中毕业了…</p>
+<p>@核tao牛奶：还有54个实地去看房的。</p>
+<p>@pojiesk：走人走一次过道收100，还能收租。</p>
+<p>@spino：奇葩的天朝，一个过道都有学位独立产权和学位。</p>
+<p>@一股作气-姐姐：等过几年，取消了学区房，买房的人惊呼这他妈花了一百五十万读了个小学啊。</p>
+<p>@zgwzyb111_yg1：当大都数人意识到大学上不上无所谓时，学区房就会成为笑话。现在己经是这样子了，但醒的人少。</p>
+<p>@小仙儿巴夏：过道还好，据说连公共厕所都挂上孩子的户口了。</p>
+<p>@兴宝宝2002：一条笑傲江湖的过道！</p>
+<p>@泰有缘3：虽然说存在就有合理，但这未免也太荒唐了。</p>
+<p>@Mister0Chen：这就是所谓的泡泡吧。</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%8D%E8%83%BD%E5%8F%AB%E6%88%BF%E7%9A%84%E5%8C%97%E4%BA%AC%E5%AD%A6%E5%8C%BA%E6%88%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E5%8C%BA%E6%88%BF/?category=18271" rel="tag">学区房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E5%8F%A3/?category=18271" rel="tag">户口</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B9%8C%E5%9D%8E%E7%BA%A0%E7%BA%B7%E6%81%90%E6%80%95%E5%94%AF%E6%9C%89%E4%BE%9D%E6%B3%95%E8%A7%A3/" target="cdt-mirror">【异闻观止】环球时报 | 乌坎纠纷恐怕唯有依法解决</a>
 </h2>
 <p><p>广东乌坎村近日又成了舆论焦点，外媒纷纷报道，该村党支部书记、村委会主任林祖恋日前因涉嫌利用职权受贿被警方带走。该村数千村民19日召开村民大会，并举行游行，要求当局释放林祖恋。</p>
@@ -84,7 +111,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E7%BD%9A/?category=18271" rel="tag">体罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E5%95%86%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">农商银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%8A%97/?category=18271" rel="tag">反抗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF/?category=18271" rel="tag">山西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%A9%E7%BD%9A/?category=18271" rel="tag">惩罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E5%B1%B1%E7%9F%B3/?category=18271" rel="tag">曹山石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E6%B2%BB%E6%BC%B3%E6%B3%BD/?category=18271" rel="tag">长治漳泽</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%BA%94%E9%81%93%E6%9D%A0%E5%B0%91%E5%B9%B4%E9%BB%84%E8%89%BA%E5%8D%9A%E9%80%9A%E8%BF%87%E6%AD%A6%E5%A4%A7%E9%A9%AC%E5%85%8B%E6%80%9D/" target="cdt-mirror">澎湃新闻 | “五道杠少年”黄艺博通过武大马克思主义学院自主招生</a>
 </h2>
@@ -203,6 +230,39 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-6-19/" target="cdt-mirror">奇闻录 | 周末段子荟萃 6-19</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClPXnKZUYAA2wOR.jpg?resize=600%2C450" alt="报效祖国 报销祖国" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClPXnKZUYAA2wOR.jpg?w=800 800w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClPXnKZUYAA2wOR.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClPXnKZUYAA2wOR.jpg?resize=768%2C576 768w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>@wentommy：“林一回到香港就开这个记者会，并且不担心自己的安全，这从一个侧面也证明了香港的自由。”——单仁平老师361度循环唠叼的功夫，独步宇宙。</p>
+<p>@linyujing：生于乱世有种责任–这是占中时我最喜欢的一句标语，明报的采访里说林荣基这次回来其实是拿硬盘回去交给专案组的。前思后想，在九龙塘站下车，出闸，联络议员（何俊仁）公开真相。他说回来后看视频，HK有6000多人为他们的失踪游行，他觉得他有责任说出真相。一夜之间他成了HK的英雄。</p>
+<p>@linyujing：林荣基和我党周旋了八个月，果然是比较有戒心和清醒认识，当他决定不回去时，就把专案组发给他的联络手机扔了。那个手机其实不但是手机，还是个跟踪器。扔了手机后，发现有人跟着他，他停下来后那人发现暴露就没再跟。他说在韶关被拘押时，很绝望想过自杀。现在不会自杀，但可能『被自杀』。</p>
+<p>@hnjhj：被共匪绑架放出来之后，懦弱的选择了沉默、人品差的选择了合作、脑子不好的选择了骂民斗。相信林荣基选择对公众披露被绑架的内幕，并不是心中没有畏惧，而是觉得这样做不仅是自我澄清的绝佳机会，也是对公众关心的一种交待和感谢，事实上也比选择保持沉默更加安全。这实在是勇敢、高尚、理智的一个人。</p>
+<p>@WeipingQin：父亲节，很多优秀的父亲还在监狱里，不是每一个父亲都可以勇敢地为捍卫下一代的自由与尊严挺身而出，但几乎天下所有的父亲都会为照顾子女卑微的活着。我不知道何时可以再次见到父亲，我也成为了父亲，我有我的责任和使命。养儿方知父母恩，父亲的教诲当永远铭记，而我作为父亲的人生征程，才刚刚起步。</p>
+<p>@Dharmasong：连郝海东都知道体制内不可能有健康力量。</p>
+<p>@yuevvei: 冰岛全国人口33万，和北京市门头沟区一样多，结果人家冰岛现在正在踢欧洲最高水平的球赛，而门头沟连支足球队都没有（但是有多达208个居委会，也算扳回一城）。</p>
+<p>@股社区：在链家看到一个超级奇葩的学区“房”，咳….其实都不能叫房，因为产权上归房主所有的是一条过道，每天要被所有人进进出出，但是你拥有这条过道可以念边上的一个小学，标价150万。</p>
+<p>@redfireage：怕失去利益，还怕上历史的审判台。他们所能做的，就是把民主拖后一点，一直拖到自己死后。于是，他们构建各种理论，来论证不能搞民主的理由：国情论、稳定论、素质论、阴谋论、外国渗透论、敌对势力论。通过这些理论，尽可能地污化民主，阻挡民主前进。</p>
+<p>@colorful_Pandax: 回国感觉国内恋爱市场是男生看女生的脸和身材，女生看男生的财富和实力。我隐约觉得是因为国内的小朋友们缺少爱好，所以男生玩男生的，女生玩女生的，大家其实也没啥共同话题可聊，所以就靠性和钱来维持关系。 #胡扯</p>
+<p>@VinkySimon：有同事在韩国三星工作了5年，讲说那边招行政都是用刚毕业的女生，只看脸（反正能力差不多）。用三年，一律不转正岗，直接轮换。这些姑娘本身学历一般，所以会尽量找一个三星的程序员男朋友当做长期饭票。而且大部分姑娘都是找到饭票时立即甩掉之前正在谈的男朋友。 #三星趣事</p>
+<p>@zhangfacai：1965年三排座“红旗”轿车送到北京，彭真说轿车后座可移动，很方便，主席困了可以斜靠着休息。同时也提了建议。轿车侧标上是三面红旗，留一面就行了，一面红旗就是毛泽东思想。文革彭真遭批斗，罪名之一就是修改标志这事，“疯狂反对三面虹旗”……尼玛下次谁叫我改设计稿我就说这事！</p>
+<p>@向小田：三间别墅就能赶上中小板平均年利润，一个总价地王就能赶上一家潮汕系香港上市公司总市值，两块深圳地铁项目地就当上万科大股东，两个小区就能买下上海机场（虹桥+浦东），这个时代，不知道是房地产太贵还是人民币太垃圾。</p>
+<p>@杨洪昌：【梦碎美利坚】女儿打点行装很久了，她要横渡太平洋，但昨晚却说不去了，说是美国佬天天都在朝人开枪，我问谁说的，她说你没看央视啊，都连着播了三天了，我问上海机场爆炸是咋回事，她说没听说，我所以要这么问，是因为她，就在上海。</p>
+<p>@shaqiang：法国记者迭戈.布努埃尔在一期《妈呀，我在……》系列中，受邀参观朝鲜一座农场。他与陪同人员闲聊：“你们这儿有同性恋吗？”朝鲜陪同断然摆手：“没有，没有，绝对没有！”“那你知道什么是同性恋吗？”“不知道。”“不知道怎么知道没有呢？……”</p>
+<p>@sepia153：我爸默默的在朋友圈分享了一个链接叫《爸爸在搬砖，女儿在吃西餐》。</p>
+<p>@洋葱日报社：希望天下的爸爸，都自私一点。有喜欢的东西，就买。如果婚姻不幸福，就离。如果老婆孩子没空回家吃饭，就跟哥们儿下馆子。如果老婆孩子想回家吃饭，也跟哥们儿下馆子。希望天下的爸爸，经常忘记自己是爸爸是老公，经常记得自己是自己。 ——改编自 @猪蹄蹄小朋友 母亲节当日微博</p>
+<p>@iuui：玩《守望先锋》的“吸一口”，已经严重影响到网警日常工作了，一些论坛禁止使用此类词汇。</p>
+<p>@Cloudbleu：上海迪士尼乐园开业了，太好了，以后大家不用千里迢迢跑去香港随地大小便了。</p>
+<p>@xueshudi：土星：我有62颗卫星！牛吧！木星说，我63颗比你多一颗耶！水星问：什么是卫星？金星：我也不知道。地球沉默不语对手指。火星：地球你在干嘛？我们虽然就一两个卫星，也不用自卑的。地球：不是……我还在数……月亮……东方红一号，风云二号……大家异口同声：不带这样的！</p>
+<p>@yanzifeiwula: 感觉日剧里的家庭场景都很真实啊，国内剧的场景就好假啊，完全不日常啊，动不动就双层别墅啊，高大上的豪华装修。拜托，男女主角只是普通小白领，每个月薪水才几K一个月，还动不动就出去旅游，整天出去浪……真是活在新闻联播里啊~！</p>
+<p>@yueyuewang：班花做了微商，生了娃以后，天天卖瘦脸针和减肥霜，而我正跟她当年的初恋坐在我济大排档吃小龙虾喝冰啤酒。想想有点唏嘘不已，一起拖黑了她。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-6-19/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%AE%98%E5%AA%92%E5%8F%91%E6%96%87%E3%80%80%E6%96%B0%E9%97%BB%E8%88%86%E8%AE%BA%E8%BF%9E%E8%B0%83%E4%BE%83%E4%B9%9F%E4%B8%8D%E8%A1%8C%E4%BA%86/" target="cdt-mirror">博谈网｜官媒发文　新闻舆论连调侃也不行了</a>
 </h2>
@@ -619,61 +679,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E8%AE%B2%E8%BF%B0%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88%E7%BB%84%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/" target="cdt-mirror">【习总日记】 习总讲述中央专案组的前世今生</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（ 2016 ， 6 ， 17 ）</p>
-<p>香港铜锣湾书店事件 5 位当事人之一，铜锣湾书店店长林荣基在周二（14日）返回香港之后，经过 两天 思前想后，又看到香港有六千人曾为事件上街，所以决定打破缄默，周四（16日）下午在民主党立法会议员何俊仁陪同下召开记者会，讲述他的大陆多个月的经历。</p>
-<p>林爆料，他被非法由深圳绑到浙江宁波扣留多个月，毫无自由，其后准转广东韶关监视居住。他亦指从李波方面得知，李波是被人强带返内地。林荣基猜测，绑架他的人并非公安国安系统，也非来自军方，而是中央专案组的人马。</p>
-<p>一</p>
-<p>“中央专案组”重新出现在文革结束后40周年的日子里，难免给五十岁以上的人时光倒转的感觉。时光倒转好哇，返老还童。玩笑归玩笑，容我向大家说说中央专案组的前世今生。</p>
-<p>文革中的“中央专案组”组长是周恩来，下面分三个专案办公室：“一办”由汪东兴负责，办案人员是从有关单位抽调的局、处、科级和部队的各级军官；“二办”由黄永胜负责，办案人员多是由部队抽调的师、团、营、连级军官，也有极少数地方干部；“三办”由谢富治负责，办案人员多数是公安部机关的干部，军队干部约占三分之一左右，均是组长一级的骨干。</p>
-<p>十年文革中，到底有多少人参加过中央专案工作，无从得知。</p>
-<p>1968年底，周恩来请专案组人员看样板戏，江青等人参加，人民大会堂三楼小礼堂、京西宾馆礼堂均是座无虚席保守估计至少不下七八百人。</p>
-<p>老干部的专案归一办、二办负责。其分工是，一办负责党政的老干部，二办负责军队的老干部，三办则负责其他大案要案。</p>
-<p>中共十一届三中全会指出，过去那种脱离党和群众的监督，设立专案机构审查干部的方式，弊病很大，必须永远废止。 曾一度主持三办工作的赵登程（空八军原副军长，公安部军代表之一），提出“一人供听，二人供信，三人供定”的办案原则，制造冤假错案。后来赵因严重破坏国防科研，被捕判刑。参加了刘少奇专案的一副局长被撤职并开除党籍。</p>
-<p>1982年4月，邓小平批示，“过去搞过专案的原则上调出公安部”。</p>
-<p>二</p>
-<p>文革结束专案组消失。可为何我又使专案组起死回生，重新文革气象？理由只有一个：集权专权，依权治国。因为专案组可以跳过党组织和国务院的官僚系统，直接听我指挥直接向我负责，办事效率极大提高。</p>
-<p>香港铜锣湾书店长期以来出版各种攻击党和政府、诬陷抹黑中央领导人的政治书籍，近来还热衷出版造谣诽谤我个人私生活的书籍。有关部门先是采取息事宁人的做法，花钱买断与我有关书籍的版权。没想到桂民海等食髓知味，以此要挟反复敲诈勒索，我不得不责成有关部门成立“铜锣湾书店专案组”，专案专办。若不成立专案组，按部就班循常规依法办事，怎么可能神不知鬼不觉一举抓获全部涉案人员？</p>
-<p>顺便传个信露个底，编禁书可以，攻击党攻击其他中央领导人都可以，就是不能攻击我和我家人。听懂了么。若有人胆敢继续出版有关我和我家人的书籍，别说是飘扬着五星红旗的香港，即便是在号称星条旗永不落的大洋彼岸，照抓不误。不信咱走着瞧。</p>
-<p>当然，《习总日记》除外。不要问为什么，凡事都有例外。</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/061716.jpg?resize=499%2C499" alt="061716" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/061716.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/061716.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/061716.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/061716.jpg?resize=70%2C70 70w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E8%AE%B2%E8%BF%B0%E4%B8%AD%E5%A4%AE%E4%B8%93%E6%A1%88%E7%BB%84%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E4%B8%8D%E6%AD%BB%E9%B8%9F/" target="cdt-mirror">东网｜赵思乐：不死鸟</a>
-</h2>
-<p><p>这篇文章刊出时，郭飞雄（身份证名杨茂东）已经绝食40天了，这意味着，因抗争被关押于广东阳春监狱的他，每天都经历着痛苦的强制灌食。据他的亲友说，郭飞雄的体重已下降三成，“形销骨立”。</p>
-<p>郭飞雄的姐姐杨茂平6月14日到阳春要求探视郭飞雄，却遭狱方拒绝。她在露天静坐抗议8小时后，狱方终于同意转交一封短信，随后郭飞雄的回信透露，他至少打算绝食100天。杨茂平发出悲问：“郭飞雄会活着走出监狱吗？”</p>
-<p>如果，万一，不会。那么中国真的要出现第一个为抗争主动走向死亡的反对者了吗？这恐怕很难说。</p>
-<p>据德国之声报道，截至2016年3月4日，已有144名藏人为抗议中共统治而自焚，但我想他们不一定愿意被划归“中国人”；2016年5月20日，一名非京籍家长为抗议孩子入学问题得不到解决，在北京昌平区政府门前自焚，但很难说他对政权的整体看法如何，属不属于反对者。</p>
-<p>因各种执政当局造成的苦难，愤而选择自杀式暴力行动的人，早不止一二三四个，有杀警的杨佳、炸政府的钱明奇、刀捅三人的范华培，他们是受压迫者、复仇者还是政权的反抗者？1989年6月4日，死在长安街和天安门广场上的人，还有反右、文革中死去的林昭、张志新等人，他们算不算“主动”选择以死抗争？</p>
-<p>如果，万一，郭飞雄没有活着走出监狱。他可能不是第一个，更可能不是最后一个。但是不是并没有那么重要。</p>
-<p>最近有一个让我耿耿于怀的瞬间，一名海外留学的中国学生来访，临告别时他讲起一件事，他与一名台湾朋友聊天，问为什么中国到现在还没有发生民主转型，这名台湾朋友回答：因为中国人怕死，我们不怕。听到这里，当时的我立刻怒火冲上脑门，冷笑并愤恨地回应：“我现在随便就可以说出300个政治犯的名单，他们的刑期加起来超过3000年。”</p>
-<p>现在想来，那句话恐怕不能代表台湾人，尤其是对抗争有所了解的台湾人的想法，这位中国学生在转述过程中亦可能有偏差。但我的确很久很久都没有像那一刻那么伤心生气过。</p>
-<p>是的，中国到目前为止，还没有一个像台湾为言论自由自焚的郑南榕那样悲怆的标志性反抗人物，但不代表中国抗争的悲壮程度低于世界上任何一个地方。那些历尽酷刑、一次一次主动走进监狱的人，胡石根、刘晓波、郭飞雄、高智晟、刘贤斌等等，我看不出他们的选择比起死容易在哪里。中国从来不缺曼德拉、甘地、昂山素季那样的人物，只是缺看到和支持他们的人们。</p>
-<p>这一个个名字是伟岸的，虽然这并不是说他们是神，也不是说他们就理所当然要成为抗争的领袖。他们和我们一样被苦难和对手扭曲，有各种局限和问题，并不因决绝而全知全能。</p>
-<p>根据各种知情人的描述，郭飞雄和高智晟都表现出极度乐观的判断，总认为当局的改革或崩溃就在旦夕之间，并以此鼓舞追随者；刘晓波去年在狱中度过60岁生日，他说妻子刘霞在与朋友通话时笑说“出来就是老头子啦”，他的朋友也说，刘晓波在狱中无法获得任何外界信息，估计出来时就像“傻子”，要很长时间才有可能恢复判断能力。</p>
-<p>但是，这些人，是属于这片苦难土地的“不死鸟”——他们的鸣叫提醒着我们，我们还没有死，这片土地上还有人没有死，抗争还没有死。</p>
-<p>于是，我们还没有理由和资格，陷入彻底的沉默和绝望。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%B5%B5%E6%80%9D%E4%B9%90%EF%BC%9A%E4%B8%8D%E6%AD%BB%E9%B8%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93%E6%B3%A2/?category=18271" rel="tag">刘晓波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%B4%A4%E6%96%8C/?category=18271" rel="tag">刘贤斌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E7%9F%B3%E6%A0%B9/?category=18271" rel="tag">胡石根</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E9%A3%9E%E9%9B%84/?category=18271" rel="tag">郭飞雄</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F/?category=18271" rel="tag">高智晟</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -685,7 +690,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -695,5 +700,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%99%93
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

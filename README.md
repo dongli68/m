@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%AE%98%E5%AA%92%E5%8F%91%E6%96%87%E3%80%80%E6%96%B0%E9%97%BB%E8%88%86%E8%AE%BA%E8%BF%9E%E8%B0%83%E4%BE%83%E4%B9%9F%E4%B8%8D%E8%A1%8C%E4%BA%86/" target="cdt-mirror">博谈网｜官媒发文　新闻舆论连调侃也不行了</a>
+</h2>
+<p><p>（博谈网记者苏智敏报道）中国官媒《人民日报》19日刊登署名“田进”的文章指出，对一些调侃国家政策的节目要严肃处理，中国新闻舆论要与敌对势力争夺群众。民众反批“敌对势力”根本就是中国人民。</p>
+<p>严处节目跟风炒作、调侃国家政策</p>
+<p>田进为国家新闻出版广电总局党组成员、副局长，他在文章前面称，新闻舆论工作是党的一项重要工作。并引用毛泽东的话，“革命要靠枪杆子和笔杆子，共产党要左手拿传单右手拿枪弹才可以打倒敌人”。</p>
+<p>文章指出，随着中国社会变革进程加快，各种矛盾不断凸显，因此要把握意识形态领域斗争全局。“国际上，不同价值观和制度模式的较量依然激烈，境外敌对势力对我实行西化、分化的图谋并未停止，国际舆论西强我弱的态势没有根本改变。新闻舆论处在意识形态斗争最前沿，各种敌对势力都在同我们争夺新闻舆论阵地、争夺人心、争夺群众。”</p>
+<p>田进在文章中多次强调新闻舆论要坚持党性原则，并指出一些节目会跟风炒作社会热点话题：“一些节目跟风炒作社会热点话题、调侃国家政策、散布错误观点、鼓吹极端理念、刻意激化矛盾对立的行为及时发现、坚决制止、严肃处理。”</p>
+<p>文末提到，中共当局近年来针对新闻访谈类节目、娱乐类节目、选秀类节目、法制类节目、真人秀节目等，已出台一系列导向管理方面的政策措施。下一步，将研究制定引进纪录片、动画片和综艺节目的管理规定，“真正做到不仅管得住而且管得好”。</p>
+<p>中共的“敌对势力”</p>
+<p>广电总局由于过去对许多影视节目进行各种限制而备受中国民众批评。19日刊出的这篇文章极力强调中国的新闻舆论工作者必须和中共保持观点一致，这也充份显现出中共专制政权和西方民主国家的差异。</p>
+<p>最近的例子即是日前加拿大女记者的人权问题，让中国外交部长王毅在联合记者会上震怒并激动反驳，称加拿大记者没有发言权，只有中国人才有资格评论中国人权状况。王毅的反应引起加拿大总理杜鲁多不满，杜鲁多当时表示：“言论自由对我至关重要。我们知道媒体的工作就是要提出尖锐的问题。”</p>
+<p>中共长期对舆论的限制，让中国民众普遍认为自己没有王毅所说的发言权，官媒《人民日报》19日的这篇文章就引来民众痛批，称质疑是媒体监督的基本功能，文章已暴露《人民日报》是喉舌而不是媒体的“奴才本质”。也有不少网友指出，文中提到很多个“敌对势力”根本都是指中国人民。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/unnamed.jpg?resize=549%2C310" alt="unnamed" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/unnamed.jpg?w=593 593w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/unnamed.jpg?resize=300%2C169 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>这里列一些中国网友的想法：</p>
+<p>网友“金融抑制”：“美国选举个总统，我们可以言论自由！日本出个法案，我们可以恣意抗议！台湾制定个政策，我们可以随意批评！各种敌对势力都没有来和我们争夺新闻舆论阵地、争夺人心、争夺群众。结果我们只是调侃一下国内现象的时候，敌对势力就参与了进来，你们也开始发声！我们到底是哪个国家的公民呢？”</p>
+<p>网友“简朴侘寂”：“于是乎某县的想法：对一些调侃县政策的要严肃处理。某警察的想法：对一些调侃警察抓人的要严肃处理。某城管的想法：对一些调侃城管管理的要严肃处理。自上而下，都坚决抵抗着敌对势力的舆论战争。”</p>
+<p>网友“晖子哥”：“党的政策都是伟大正确的是吗？饿死几千万是谁定的政策？十年文革给国家和人民造成了灾难又是谁定的政策？不让节目调侃，那你能接受节目直接质疑和批评吗？别忘了那个亩产上万斤的大报，连傻子都不会相信的，在当时却没人敢公开质疑和指责，是什么原因造成了这些灾难和奇葩新闻？”</p>
+<p>网友“雪峰NO1”：“你们强拆的时候，警察暴力执法的时候，官员贪腐的时候你们想过要争夺群众吗？靠新闻争夺群众，那就只能靠骗了。”</p>
+<p>网友“shiyanfuyun”：“土匪终究是土匪，江山抢来这么多年了，还防着呢，在他们眼里到处是敌对势力包括百姓。”</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%AE%98%E5%AA%92%E5%8F%91%E6%96%87%E3%80%80%E6%96%B0%E9%97%BB%E8%88%86%E8%AE%BA%E8%BF%9E%E8%B0%83%E4%BE%83%E4%B9%9F%E4%B8%8D%E8%A1%8C%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-141/" target="cdt-mirror">【河蟹档案】大大伸了半天手，房事龙握谁呢</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -593,34 +622,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%9C%A8%E6%96%B0%E7%96%86%EF%BC%8C%E6%96%8B%E6%9C%88%E5%90%83%E5%96%9D%E6%96%B9%E6%98%BE%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E6%9C%AC%E8%89%B2/" target="cdt-mirror">美国之音｜在新疆，斋月吃喝方显共产党员本色</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/C0A304C8-9584-4B6E-B8B1-AA0EC391608F_w640_r1_s_cx0_cy21_cw0.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/C0A304C8-9584-4B6E-B8B1-AA0EC391608F_w640_r1_s_cx0_cy21_cw0.png?resize=575%2C323" alt="C0A304C8-9584-4B6E-B8B1-AA0EC391608F_w640_r1_s_cx0_cy21_cw0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/C0A304C8-9584-4B6E-B8B1-AA0EC391608F_w640_r1_s_cx0_cy21_cw0.png?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/C0A304C8-9584-4B6E-B8B1-AA0EC391608F_w640_r1_s_cx0_cy21_cw0.png?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>新疆共青团网上发布的斋月茶话会照片</span></p></div>
-<p><em>文｜萧雨</em></p>
-<p>什么是考验优秀共产党干部的标准？这个月在中国新疆维吾尔自治区，这意味着在官方发起的吃喝运动中不甘人后，还要夜不闭户，随时欢迎外人入户清查。</p>
-<p>世界各地的穆斯林从上周一（6月6日）开始庆祝斋月到来。根据伊斯兰教义，虔诚的穆斯林将在为期一个月的时间里封斋，从日出到日落，不进食、不饮水，并多次祈祷。和往年一样，生活在新疆的1300多万穆斯林中很多人被剥夺了这样的权利。</p>
-<p>2016年斋月开始前，新疆伊犁州察布查尔县在官方网站上发布了当地将“强化斋月期间党员干部政治纪律”的通知，明确规定要“坚决防止党员、国家公职人员和学生封斋、入寺礼拜”。不过该网站很快便删除了这个网页。</p>
-<p>进入斋月一个多星期来，新疆各地政府掀起了一股请客吃饭之风。</p>
-<p>近年来发生过多起致命暴力事件的阿克苏地区连续两天设宴。6月6日，市街道社区发起“民族团结百家宴”，邀请当地12个民族的500多位老人品尝美酒佳肴（伊斯兰教禁止信徒饮酒）。</p>
-<p>当地官方媒体阿克苏新闻网报道说，阿克苏党校原校长吐地马木表示，要“代表500多名老人要说一声，感谢共产党，社会主义好。”</p>
-<p>6月7日，阿克苏又有一批“四老人员”——老军人、老干部、老党员、老模范受邀参加地方官员主办的一场茶话会。</p>
-<p>另一个近来暴力事件频发的和田县6月9日以庆祝端午节的名义，要求一个村庄的全体党员干部出席联谊会。在新疆共青团网发布的照片上，与会者围坐在摆放着粽子、水果和饮料的桌子旁，聆听乡党委书记陈洪权的教诲。</p>
-<p>这位陈书记说，斋月期间举办联谊会，体现了村党员干部的觉悟，加深了对端午文化的了解，十分有意义。茶话会期间，他还为村党员干部发放了《中国共产党党章》和《中国共产党纪律处分条例》等学习资料，并翻看了村干部党员手抄《党章》的情况。</p>
-<p>世界维吾尔人大会发言人迪里夏提认为，斋月中这种五花八门的“吃喝运动”是只有中国才可能出现的奇葩现象。他说：“强迫性进食，胁迫性地要求人们参加各种联谊会、联欢会、茶话会等以政治名义主办的这些活动，无非就是通过这些活动来甄别维吾尔的这些在职人员，是否在斋月中封了斋。”</p>
-<p>迪里夏提说，这样的监控手段在当地引发了很多不安情绪，而中国政府在斋月期间的限制手段还远不止这些。</p>
-<p>美国维吾尔协会主席伊利夏提告诉美国之音：“另一个很荒谬的做法是不让维吾尔人晚上睡觉，不能从里面把门扣上，要允许他们深更半夜能随时闯入你家，让全家人全部起来集中到一间房间里，然后他们搜查你的全部房间。”</p>
-<p>新疆察布查尔县官方网站的那条被删除的通知从侧面证实了他的说法。通知说，在开斋、封斋的时间点（即日落后和黎明前），要“加大对党员干部和国家公职人员家庭走访力度”。该网站另一条被删除的信息说，斋月期间，将开展对流动人口和出租房屋的“大排查工作”。</p>
-<p>在伊利夏提看来，某种意义上，维吾尔人几乎变成了二战时期的犹太人，没有任何的人身保障，即使是晚上睡觉也没有私人领域。</p>
-<p>另一方面，中国新浪微博上流传的一张照片显示，在一间学校的教室里，孩子们欢笑地围坐在桌旁，桌子上是咬了一口的苹果，吃完了的香蕉皮，矿泉水和五颜六色的零食包装袋。一位女老师严肃地站在教室前面。在她身后，黑板上大字赫然：拒绝毒品，珍爱生命！不要封斋。</p>
-<p>世维会发言人迪里夏认为，中国政府在伊斯兰斋月期间的种种政策是对维吾尔的“敌意压制和挑衅”，不仅不能缓解局势，相反会导致对立的进一步加剧。他说，这种压制让人们在信仰和自我保护中小心翼翼地寻找着一个平衡点，而一旦失控，人们可能会为了自己的信仰和尊严不惜一切。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%9C%A8%E6%96%B0%E7%96%86%EF%BC%8C%E6%96%8B%E6%9C%88%E5%90%83%E5%96%9D%E6%96%B9%E6%98%BE%E5%85%B1%E4%BA%A7%E5%85%9A%E5%91%98%E6%9C%AC%E8%89%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1/?category=18271" rel="tag">宗教自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -632,7 +633,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -642,5 +643,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%97%E6%95%99
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

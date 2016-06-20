@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%8D%E8%83%BD%E5%8F%AB%E6%88%BF%E7%9A%84%E5%8C%97%E4%BA%AC%E5%AD%A6%E5%8C%BA%E6%88%BF/" target="cdt-mirror">【图说天朝】不能叫房的北京“学区房”</a>
@@ -137,7 +137,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93%E6%9D%A0/?category=18271" rel="tag">五道杠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">学生干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">思想政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/?category=18271" rel="tag">政治教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">武汉大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%89%BA%E5%8D%9A/?category=18271" rel="tag">黄艺博</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%BA%94%E9%81%93%E6%9D%A0%E5%B0%91%E5%B9%B4%E9%BB%84%E8%89%BA%E5%8D%9A%E9%80%9A%E8%BF%87%E6%AD%A6%E5%A4%A7%E9%A9%AC%E5%85%8B%E6%80%9D/" target="cdt-mirror">澎湃新闻 | “五道杠”黄艺博通过武大马克思主义学院自主招生</a>
 </h2>
@@ -164,7 +164,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93%E6%9D%A0/?category=18271" rel="tag">五道杠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">学生干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">思想政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/?category=18271" rel="tag">政治教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">武汉大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%89%BA%E5%8D%9A/?category=18271" rel="tag">黄艺博</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%B8%A9%E5%85%8B%E5%9D%9A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-%E5%8D%B1%E6%9C%BA%E5%B0%86%E8%87%B3%EF%BC%9F/" target="cdt-mirror">端传媒 | 温克坚：中国经济 危机将至？</a>
 </h2>
@@ -262,7 +262,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=1827
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%AE%98%E5%AA%92%E5%8F%91%E6%96%87%E3%80%80%E6%96%B0%E9%97%BB%E8%88%86%E8%AE%BA%E8%BF%9E%E8%B0%83%E4%BE%83%E4%B9%9F%E4%B8%8D%E8%A1%8C%E4%BA%86/" target="cdt-mirror">博谈网｜官媒发文　新闻舆论连调侃也不行了</a>
 </h2>
@@ -291,7 +291,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8C%E5%AF%B9%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">敌对势力</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-141/" target="cdt-mirror">【河蟹档案】大大伸了半天手，房事龙握谁呢</a>
 </h2>
@@ -690,7 +690,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -700,5 +700,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

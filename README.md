@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,80 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E5%BC%A0%E4%BC%A6%EF%BC%9A%E5%A4%B1%E5%8E%BB%E6%96%B9%E5%90%91%E7%9A%84%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">BBC | 张伦：失去方向的中国</a>
+</h2>
+<p><p>作者：张伦，法国赛尔奇蓬多瓦兹大学副教授</p>
+<p>中国失去了方向——这是近来一些事态的发展给人留下的印象。中国向何处去？这百年之问，再次摆到国人的面前。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160525055048_china_cultural_revolution_youth_512x288_getty_nocredit.jpg?resize=660%2C371" alt="今年是文革发动五十周年" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160525055048_china_cultural_revolution_youth_512x288_getty_nocredit.jpg?w=660 660w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160525055048_china_cultural_revolution_youth_512x288_getty_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"><p>今年是文革发动五十周年</p></div>
+<p><strong>没有共识的共识——走向自由</strong></p>
+<p>今年是文革发动五十周年。这场浩劫结束四十年来，作为一种巨大的历史反弹，自由化成为中国的主流。有人认为，改革从一开始就有不要什么的共识，但没有要什么的共识；各界对改革开放的目标、对中国的最终走向有着不同的看法。</p>
+<p>不过在笔者看来，不要什么实际上是暗含着某种要什么的共识的。不要文革式的疯狂，思想和政治的禁锢和物质的贫困，要的指向是现代化，一个实现市场化、法治化并最终逐步实现民主更加自由的中国，一个与人类主流文明接轨的现代中华文明。途经是类似于某些东亚国家走过的道路。</p>
+<p>这是一个不言自明、模糊的共识，构成中国三十多年来改革开放的社会政治思想基础。即使是官方内部包括高层，有些人内心大体上也不能说没有这类取向，只是出于现实利益的考量、对当下国情的认知、改革的进程、速度、依靠的主体、最终走向的具体制度形式等有不同的看法，官方与社会在这方面没有具体明晰的共识性的宣示。</p>
+<p>但随着社会的分化，利益和意识的分野，腐败的恶性发展，改革尤其是国家政治和管理体制改革方面的滞后，社会矛盾的凸现，这种隐形支持性的共识也逐渐瓦解。而权力对公共议题讨论的压制，使得对中国改革的最终走向、可能遇见的问题，各种利益的协调和处理等问题一直就没有深入系统的讨论，更因六四镇压成为某种禁忌。</p>
+<p>在各种利益考量以及画地为牢的政治约束下，自满于经济方面一时的成就，官方的理论思维和想象力急剧萎缩，失去了文革后因思想解放、对外开放带来在这方面带来的生机活力，一种腐烂、僵固、虚夸、自私、伪善、傲慢的氛围逐渐侵蚀并笼罩了执政集团。最近反腐运动向我们展示的某些官员的贪婪、无耻、残酷、倾轧、黑暗，是这种趋势发展的必然后果。这显然不是靠几句自我标榜，自我论证，搞几场教育运动所能掩饰和解决的。</p>
+<p><strong>“中国梦”——梦的共识与共识的梦</strong></p>
+<p>习近平上台伊始，提出“中国梦”，试图以此重建某种民族共识，确立某种新的共同认可的发展目标。</p>
+<p>但坦白说，这种说“梦”的做法，因不以公民为本，显得空疏、混杂、漂浮、大而不当，对现有权力运行方式没有做任何改变的承诺且有将其永远固化的取向，尽管官方开动宣传机器大肆宣传，但从一开始就没有获得社会的广泛认可，只要看看各种民间的相关嘲讽和官员们的反应就可知晓这一点。试图建设一个有关梦的共识，事实上已经成为一个关于共识的梦。这种官方论述与民间感受上的距离鸿沟，从一个侧面显示领导层与民众、国家与社会危险的疏离。</p>
+<p>如果说“中国梦”中有什么人们能够比较清晰地感受到的信息的话，那显然是其中要传达的强烈的民族主义取向。而恰恰在这点上，也是最让人忧虑的。</p>
+<p>作为一个已经独立于世界，且具有相当的地位的大国，过度地去强化这种民族主义取向，将其作为国家发展的方向，其可能带来的问题，近代历史上象德日那样已多有先例。结果是既可能给自己的民族也会给他人带来灾难。一个上升中的民族更需要的是某种文明的超越性的意识与价值才能保证这个民族不因某种狭隘的民族意识而走入歧途。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151230092107_china_dream_512x288_z_nocredit.jpg?resize=624%2C351" alt="习近平上台伊始，提出“中国梦”" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151230092107_china_dream_512x288_z_nocredit.jpg?w=624 624w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151230092107_china_dream_512x288_z_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 624px) 100vw, 624px" data-recalc-dims="1"><p>习近平上台伊始，提出“中国梦”</p></div>
+<p><strong>失去方向的后果——混乱的图景</strong></p>
+<p>事实上，中国今日面临的诸多危机，除与经济发展的某些阶段性问题比如产业升级、人口红利丧失、国际经济形势相关外，多与改革不彻底，与中国的体制、以往的错误决策高度相关。</p>
+<p>就拿产能过剩来讲，如此程度的恶性失衡，显然是中国这种高度权力集中体制下的经济运作的必然产物。国家加市场的双火车头的经济动力，既可创造某种超速的经济增长，也可能会造成人们无法想象的严重后果。</p>
+<p>三中全会、四中全会有关经济改革、国家法治建设等相关决议言犹在耳，现实中却是重拾某些计划经济、阶级斗争时代的做法，大肆抓捕法治国家最重要的支柱之一们的律师，压制言论自由，在一切领域重新强调领袖至上，党统御一切。</p>
+<p>主张“强化党的领导是国企做大做强的保证”，这种文革时代政治挂帅的做法竟然被堂而皇之地列为经济政策，倒行逆施，令人匪夷所思。党的领导与国企的强大有何必然的联系？中国如何还能让人家承认自己是市场经济？其背后的潜台词显然是强化党对经济资源和社会的控制。提倡创新，认为是产业升级，经济振兴也是民族继续发展的必由之路，同时却“不准妄议”，强调“看齐意识”，删贴封网，严控教育、新闻、学术、文艺，要扼杀一切不同意见，对民企口惠而实不至，那又怎能培育一种有利创新、鼓励投资的社会氛围和制度环境？</p>
+<p>因不能否定“两个三十年”之说，官方对文革的态度日渐暧昧，自文革结束后，从来没有任何时候象今天文革的语言和论述、个人崇拜的做法能如此大行其道，乃至有＂大海航行靠舵手＂这种标志性文革名曲竟然唱到人民大会堂去的事件发生。官方的宣传和政策，充满各种逻辑不通，有悖常识，朝令夕改，自相矛盾的说辞。</p>
+<p><strong>毛邓互用的悖论——习近平的出路</strong></p>
+<p>这种局面显然也有其政治上的原因，透露着上层政治和意识形态取向上的某种混乱。由于不是象江、胡那样是依托邓的强势权威上位，围绕习近平掌权所展开的激烈的权力斗争，暴露出中国式后极权政治体制的致命弱点。</p>
+<p>正如些党报、军报不断强调的：薄、周、徐、郭、令等这些昔日的党和国家领导人之所以落马，绝不仅是因腐败，更是因犯了“政治规矩”，“触及政治底线”，威胁到习。某种意义上讲，习上位以来的所有政治举措包括反腐基本上都可以从巩固个人权力和维系红色江山的角度得到解释。</p>
+<p>习试图巩固个人权力、树立权威，这从政治运作的角度是可以理解的，但其方式以及最终能否达成目的却让人怀疑。一个领袖的政治权威和历史地位说到底是靠绩效、靠顺应民心、在解决历史的课题上所显示出的勇气、智慧与高瞻远瞩所获得的。</p>
+<p>迄今为止，习所做的最大的赢得政治资源的举措在反腐。但早在三年前笔者在评论反腐时便提及：反腐的效应一定是递减的；这属于面对过去的打扫除，而对一个领袖来讲最重要的却是面对未来，能否做出各种经济和制度上建设性的政策与成果。文革后邓的权威说到底是由此而来。而就这方面来看，习几年下来乏善可陈。</p>
+<p>这一方面或许与权力内部的结构、其受到的政治掣肘有关，但另一方面也显然与其自身展示出的执政取向有很大关联。笔者以往曾将这种执政取向归纳为“打通毛邓，毛邓兼用，以毛补邓”，今日这种取向更加明显。正如笔者强调过，这种执政思路因其内在的矛盾一定会造成混乱，自我抵触消耗，最终难以成功。这是因为，毛与邓的执政思路在本质上是不相容的。现代性的本质是自由，人的主体自由。因对自由的态度，我们可以清楚地看出，毛的思路是剥夺自由的极权的反现代思路，而邓是要有威权约束的有限度自由，因此是半现代的，毛邓有共同的部分，但其指向却是相反。</p>
+<p>邓也用毛，但在邓那里，毛只是工具性的，虚置的，服务于其威权统治的需要；毛的乌托邦、阶级斗争、民粹平均主义，排外，绝对专断是不能落实在政治实践上的。因为邓清楚，那只可能引发大众的疯狂，即使国家一时表面稳定，但绝无可能带来民族进步、文明创新所需要的活力。邓的局限在于，他的威权半自由模式可能带来某种经济的活力，但同时也注定要造成让人们愤怒的腐败和社会不公，无法创造现代中国人所最终需要的自由、文明、富裕与尊严。</p>
+<p><strong>权利增量——摆脱困境的途径</strong></p>
+<p>几年前，笔者曾以“权利增量——中国下一步改革的唯一标准”撰文，认为改革至此，不以公民权利的增量为目标，任何改革都不可能得到社会的支持，获取新的动力，造福国民，成为某种真正意义上的改革。</p>
+<p>党有权管党，甚至从严治党；但公民却没义务要接受党的严管，党也从来不具天然的合法性来严控社会。权力不减量，公民权利就无增量；约束权力的宪政精神不落实，权力独裁的倾向就一定扩张。而权力独断的结果常常就是腐败与灾难。</p>
+<p>就言论和新闻自由来讲，最近几个事件很具意涵。因受习近平青睐而异常活跃被人戏称为“带鱼”的网络写手周小平，制作的网络片子愤青程度超出官方允许的尺度而被删除，因此对几大网站表达抗议。此外，有七十八位院士级科学家上书表示对官方网络控制的不满，认为网控不利学术的发展，希望能有自由接触外界信息的权利。还有网络大Ｖ任志强因对“党媒姓党”一说表示异议而被禁声处分。这三者从不同的面向、不同的立场和地位说明中国当下言论和信息控制造成的问题和引发的不满。不仅不利当下，也可能严重影响中国的将来。</p>
+<p>中共在延安时曾主张，不要“提出一大堆批评不得的人和事，结果在事实上等于取消言论自由”（1944年8月31日“新华日报”社论）。党媒姓党，可以。但最重要的是媒体可不可以不都姓党，有些姓民，姓民的可以跟党不同调？党媒可不可以自负赢亏不花纳税人的钱？这些才是问题的关键。</p>
+<p><strong>改革、宪政与世界——迈向一个文明的中国</strong></p>
+<p>这些事件以及各种思想、宗教的分歧与发展都表明，当今中国社会已深刻地分化。任何试图强制性地将这种分化消除，将思想的纷呈和利益的分化纳入一个统一的共产主义理想式的什么梦想的做法，只能是徒劳。现代性的一个本质特征是分化，一天不承认这一点并做出与此相应的制度安排，我们一天就没有真正迈入现代的门槛。在失去共识的时代，唯一能有的共识就是承认没有共识、尊重他人权利的共识，构建一种保护各种不同意见、公民权利的制度架构的宪政共识。靠提倡“看齐意识”解决不了任何问题：“看齐”是一种队列尤其是军事队列术语，这世界上有哪个国家比象北韩那样更象军营，看齐做得更好？那难道是国人所乐见、中共所希望的？</p>
+<p>中国的困境应该靠改革来超越，但改革的取向应该是赋予人民更大的权利，而不是相反向权力看齐。前些日子习近平去小岗村，报道只粗略地讲到其宣示继续改革，党的基本路线一百年不动摇。更多篇幅却是描述询问农民吃上白馍没有，农民见到领袖如何激动。其实，今日中国实有重温小岗精神和改革经验的必要。在笔者看来，小岗村改革精神的核心就是一无所有的农民为权利而奋斗；以往中国改革成功最宝贵的经验就是真正的改革者接受小岗村这种民间的权利诉求并将其转化为全民受益的国家政策，国家社会良性互动，赋予改革更大的活力，使国家走上改革繁荣之路。</p>
+<p>显然，中国经济要想再振的要诀也只能在此。不管各类经济学家做怎样的分析判断，如此巨大且发展不均的中国肯定还是有经济继续增长的空间，但问题的关键是信心，这是现代经济稳定和发展最重要的要素。失去方向与失去信心两者必定是如影随形、高度相连的。</p>
+<p>至于体制的整体改革，只有那些对历史和现状一无所知的人，才在那里大谈什么“茉莉花革命”、“颜色革命”的后果，用来反证不能改革的必要。事实上，正如笔者多次讲过，稍明智、对情况有一点了解的人没有人会认定某种制度的确立会是一帆风顺，一蹴而就，这些国家转型出现的问题许多也是难以避免。但这恰恰说明，适时启动改革的必要，所有这些国家转型出现的问题皆可在以往威权时代找到根源；恰是拒绝适时启动改革延误时机，才会最终酿成民族的悲剧包括统治者自身的大祸，付出更高的成本。用脓包破灭后的惨状来证明脓包破灭前的美妙只能是毫无远见的愚蠢之论。</p>
+<p>我们所处的世界处于动荡，大变革的时期，各种问题、危机曾出不穷，经历一个自八、九十年代以来的全球化、自由化的大潮后，出现一种新的反弹、调整趋势，这并不意外，某种意义上讲也在逻辑之中。西方国家内部也出现诸多新的挑战，面临一些深刻的结构调整，有着其自身演变的轨迹。但我们能否就此轻下结论，西方就此沉沦，不值得学习，再犯一战后二十年代梁启超式的判断错误，误认整个国家的发展方向？</p>
+<p>西方国家的民主制度尽管面临诸多问题，也需做出新的调整和创造，但民主整体上却仍在不断深化，即使那些最极端的左右势力，也概无例外地以民主的旗帜在从事政治运作，不敢公然加以诋毁。一些民族主义，民粹主义的现象从来就不是什么全新的事物，民主政治也一直是在与这种现象的内外博弈中演变。民主制度下的权利和义务、秩序和自由、效率与公平之间的紧张不始于今日，也不会终结与明天。但迄今为止，还只有民主体制维系了比任何其他制度都要好的平衡。民主的形式可以不同，可以创新，但不能拿虚假的形式来拒绝民主的内涵和真正的精神。</p>
+<p>变动的中国和世界需要深刻、清醒具有历史感的判断。中国只有在认真汲取西方现代文明的精华之后，才能有也一定会有一个属于自己的文明再造和复兴。专看他人的问题，病态式的自我陶醉、自恋、膨胀和封闭从来是互为因果，且只能给一个个人或民族带来后患。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E5%BC%A0%E4%BC%A6%EF%BC%9A%E5%A4%B1%E5%8E%BB%E6%96%B9%E5%90%91%E7%9A%84%E4%B8%AD%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96%87%E7%BD%91/?category=18271" rel="tag">BBC中文网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E4%BC%A6/?category=18271" rel="tag">张伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">文革50周年</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BB%A5%E5%90%8E%E4%BC%B0%E8%AE%A1%E7%94%B5%E8%A7%86%E5%8F%AA%E8%83%BD%E6%94%BE%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E4%BA%86/" target="cdt-mirror">奇闻录 | 以后估计电视只能放新闻联播了</a>
+</h2>
+<p><p>国家新闻出版广电总局党组成员、副局长田进6月19日在官方媒体《人民日报》上发表评论，称中国内地媒体管理部门将加强对电视节目的审查，严肃处理调侃国家政策、炒作社会热点话题责任人。</p>
+<p>田进表示，新闻出版、广播影视等主流媒体的工作人员应该坚定正确政治方向，把对党和人民事业的无限忠诚体现到坚持正确政治方向上。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0.jpeg?resize=550%2C367" alt="0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0.jpeg?w=2784 2784w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0.jpeg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0.jpeg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0.jpeg?resize=1024%2C683 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
+国家新闻出版广电总局党组成员、副局长田进讲话</p>
+<p>评论称，媒体从业人员应该严格宣传纪律，”严格宣传纪律既是坚持政治方向、坚持党性原则的本质要求，也是党的新闻舆论工作兴旺发达的根本保障”、”（媒体机构）应该坚决克服各种不讲纪律、不守规矩、不听招呼的倾向，不给各种错误思想和杂音噪音提供传播渠道。”</p>
+<p>评论称：”对一些节目跟风炒作社会热点话题、调侃国家政策、散布错误观点、鼓吹极端理念、刻意激化矛盾对立的行为及时发现、坚决制止、严肃处理，针对典型问题在全系统进行警示教育。”</p>
+<p>国家新闻出版广电总局6月20日下发文件，严格限制引进进外版权模式节目，”大力推动广播电视节目自主创新，鼓励自主原创节目”。</p>
+<p>通知称，一些广电机构过于依赖境外节目模式，原创节目比例较小。</p>
+<p>通知指，只有具有中华文化基因和中国特色、中国风格、中国气派的自主创新节目，才能更好地承载中国梦主题、社会主义核心价值观、爱国主义和中华优秀传统文化，才能更好地讲好中国故事、弘扬中国精神。</p>
+<p>新规定限制，各电视上星综合频道每年在19:30—22:30开播的引进境外版权模式节目，不得超过两档。每个电视上星综合频道每年新播出的引进境外版权模式节目不得超过1档，第一年不得在19:30—22:30之间播出。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%BB%A5%E5%90%8E%E4%BC%B0%E8%AE%A1%E7%94%B5%E8%A7%86%E5%8F%AA%E8%83%BD%E6%94%BE%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%89%E8%85%9A%E8%82%BF%E8%8F%8A%E7%B2%BE%E9%80%89/?category=18271" rel="tag">光腚肿菊精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">国家广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%87%E9%97%BB%E5%BD%95/?category=18271" rel="tag">奇闻录</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E4%B8%8D%E8%83%BD%E5%8F%AB%E6%88%BF%E7%9A%84%E5%8C%97%E4%BA%AC%E5%AD%A6%E5%8C%BA%E6%88%BF/" target="cdt-mirror">【图说天朝】不能叫房的北京“学区房”</a>
 </h2>
 <p><p>@股社区：在链家看到一个超级奇葩的学区“房”，咳….其实都不能叫房，因为产权上归房主所有的是一条过道，每天要被所有人进进出出，但是你拥有这条过道可以念边上的一个小学，标价150万。</p>
@@ -626,59 +697,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5/" target="cdt-mirror">德国之声 | 乌坎民选村主任被立案调查</a>
-</h2>
-<p><p>2011年发生维权事件的广东乌坎再起波澜，路透社报道，乌坎村民以一人一票方式选举出来的村主任林祖恋周五深夜被当局带走。当地公安局称，他因涉嫌受贿被立案调查。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8A%E5%8D%887.47.27.png?resize=550%2C309" alt="Screen Shot 2016-06-18 at 上午7.47.27" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.47.27.png?w=695 695w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.47.27.png?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
-林祖恋资料图片</p>
-<p>（德国之声中文网）根据路透社报道，中国当局带走了广东乌坎事件后选举出的总支书兼村民委员会主任林祖恋（曾用名林祖銮）。澎湃新闻本周六（6月18日）报道称，当天清晨，广东省陆丰市公安局发布消息称，乌坎村党总支书记兼村民委员会主任林祖恋因涉嫌利用职权受贿，已于本周五（6月17）日被陆丰市人民检察院立案侦查并采取强制措施。</p>
-<p>法新社报道，2011年11月，广东渔村乌坎爆发征地风波，村民质疑村官通过非法土地交易谋取私利，举行游行，12月，参与维权的村民薛锦波被警方抓捕后异常死亡，引发更大规模村民抗议。抗议事件迎来2012年3月的 乌坎选举，村民以一人一票的形式选出村委会领导，其中林祖恋获政府委任成为村委书记后，再当选成为村委会主任。</p>
-<p>香港《明报》报道，林祖恋本周五夜间被强行带走，其妻杨珍接受该媒体采访时表示，林家好友，前东海镇长欧阳柳周五登门造访，武警趁欧阳柳离开时入屋带走林，没有出示证件也并未告知她带走林的原因。乌坎村属于东海镇。</p>
-<p>该媒体还指出，乌坎村原定在周末召开村民大会，解决遗留的土地问题。林祖恋曾向东海镇提出上访申请。香港网络媒体《香港01》相关报道也指出，林祖恋原计划周日（6月19日）召开村民大会，组织大家6月21日集体上访。</p>
-<p>路透社报道，几天之前，林祖恋曾在一份公开信中表示，要进行一次新的大型抗议活动追讨土地流失问题。</p>
-<p>接受该通讯社采访的一位不愿透露姓名的村民表示，有些愤怒村民试图围住当地派出所以示抗议。有数百名防暴警察和安全人员涌入村内。这名村民表示，每个人都很愤怒，但他们现在不能做什么事情，到处都是警察 ，气氛非常紧张。</p>
-<p>路透社也指出，从村民发布的照片上可以看到，有手持盾牌头戴钢盔的警察阻断村里公路。</p>
-<p>新浪微博上，林祖恋的个人帐号“WK林祖恋”周六写道：“陆丰有只大老虎。” 该条微博迅速得到近百条评论。其中有人说，“陆丰对林祖恋的打击报复太明显了”，也有人给林鼓劲，“林叔，你不是一个人在战斗”。</p>
-<p>其实，林祖恋的该帐号周六还有另外一条被屏蔽的微博。上面说：</p>
-<p>“原村委村霸把集体土地部分出售，部分租给一些企业。11年乌坎村民全村集体上访市政府两次，没想到基层政府贪官官官相卫，一味地对村民暴力镇压，武警特 警，甚至还动用了坦克对乌坎围村，断水断粮！封锁消息！最终因为发生流血事件，一位村民在派出所‘猝死’而有所缓。朱明国（原来是个大贪官，现已被抓）和省工作组来村里调查，承诺帮我们要回村土地。</p>
-<p>至今5年了，土地还要不回来，现村委书记（村民投票选出来的德高望重退休老人）决定带领我们再次上访，还递交了上访申请。拟本月19日召开村民大会，21日上访。没想到昨晚凌晨，数十台警车，武警特警像鬼子进村一样把林书记抓了。还给他扣上贪污的罪名。”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%9D%91%E9%80%89%E4%B8%BE/?category=18271" rel="tag">乌坎村选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%85%AD%E5%8D%83%E6%B8%AF%E4%BA%BA%E6%B8%B8%E8%A1%8C%E5%A3%B0%E6%8F%B4%E6%9E%97%E8%8D%A3%E5%9F%BA%E5%90%91%E5%BC%BA%E6%9D%83%E8%AF%B4%E4%B8%8D/" target="cdt-mirror">美国之音 | 六千港人游行声援林荣基向强权说不</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8A%E5%8D%887.43.17.png?resize=550%2C409" alt="Screen Shot 2016-06-18 at 上午7.43.17" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.43.17.png?w=697 697w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.43.17.png?resize=300%2C223 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
-香港泛民多个政党和团体周六声援铜锣湾书店店长林荣基（美国之音海彦拍摄）</p>
-<p>香港—香港泛民主派的多个政党和包括支联会在内的民间团体，6月18日下午发起声援铜锣湾书店店长林荣基踢爆在中国内地被扣押八个月的真相，抗议内地强力部门跨境执法，并向中共强权说不。数以千计的港人3点过后从铜锣湾书店所在的骆克道和东角街起步，一路游行到位于西环的中央政府驻港机构中联办。</p>
-<p>据港媒周六报道，有亲中传媒援引宁波公安局宣称，将启动与香港警方的工作机制，暗示不会让林荣基返港后说出真相的事情就此了结，被媒体形容是白色恐怖笼罩全城。</p>
-<p>拒绝出卖读者的铜锣湾书店店长林荣基，在民主党立法会议员何俊仁及单仲偕的陪同下，走在游行队伍的前列。林荣基在游行起步前，手持一封市民支持信，感谢港人的支持。林荣基表示，香港法例保障出版自由，但中央政府以暴力摧毁书店，收窄港人自由。</p>
-<p>林荣基表示，李波人虽在香港，但背后仍被操控，称理解李波要讲违心话，丧失免于恐惧的自由。林荣基强调，他会尽力帮助李波，也希望港人会尽力帮助李波。</p>
-<p></p>
-<p>参与这次游行的人群声势浩大，至少数千人。这是继今年1月中旬6千港人在铜锣湾书店股东之一的李波被失踪、外界质疑内地公安跨境执法而上街抗议之后，迄今最大规模抗议铜锣湾事件的示威。</p>
-<p>游行队伍在铜锣湾占据了轩尼诗道的一条行车道，一度造成交通暂时阻塞。在队伍前导到达湾仔后，队伍逐渐拉开，警方才恢复行车。游行组织方只告知警方游行路线，没有申请警方的不反对通知书。游行现场基本顺利，有大批警员维护秩序和交通。</p>
-<p>在湾仔休顿球场旁，亲中团体爱港之声的近十人高喊游行人士反中乱港，称林荣基在内地犯法，罪有应得。双方人员相互指责，叫喊，有游行人士斥爱港之声是“人渣垃圾”。大批警员用铁马将双方隔开。</p>
-<p>游行队伍约4点半前走到金钟附近时，几天来休息不好的林荣基在何俊仁等议员的陪同下，离开游行，在路旁接受媒体短暂采访后前往立法会稍作休息，大批媒体跟随。今天香港的气温高达30多度，1点前一直下雨，气候湿热。</p>
-<p>游行队伍下午4点45分，抵达中环闹市区，吸引大批游客和行人驻足拍照，并沿着主要大道皇后大道在5点前缓慢扺达上环，最终在5点40抵达中联办。警方在中联办外部署大批警力。</p>
-<p>在抵达中联办后，立法会泛民议员组成的“泛民会议”的召集人何秀兰宣布，组织方在湾仔点算，有6千人参加游行。何秀兰呼吁港人继续努力，捍卫真相、一国两制以及出版自由。</p>
-<p>何秀兰在游行现场对美国之音表示，希望特区政府和中央能够看到港人的力量以及港人对人身安全的担忧。</p>
-<p>她说：“这个游行准备的时间很短，不够24小时，而且今天早上的天气也很坏，可是还有6千多人出来游行。我希望特区政府和中央政府能看得到，香港人对我们在香港境内对人身安全的担忧。”</p>
-<p>何秀兰表示，铜锣湾书店事件对港人震撼很大，令人怀疑中央是否遵守一国两制，而中央有责任要向香港人交代和解释清楚。</p>
-<p>她说：“铜锣湾书店这个事件显示，内地有些强力部门，跨境把香港人劫持过去。还有林荣基先生，他在香港做的事完全没有犯法。就算在内地，也有一个问号，到底犯的是什么？什么法？中央政府有必要，把这个条文说出来，让大家晓得，到底它又没有胡乱地拘禁林先生，还拘禁了8个月之久。”</p>
-<p>数千游行人士依序在中联办前由铁马筑起的狭窄通道上高呼口号穿过。在社民连的抗议团队抵达中联办后，他们试图将一个黑色抗议道具抛入中联办院内，被多名警察阻止，双方展开争夺。</p>
-<p>此外，有女长毛之称的示威常客雷玉莲和“保卫香港自由联盟”的韩连山等人在中联办前的一个铁桶內焚烧中共党旗，警方沒有干预，但围在四周维持秩序。游行在6点25分和平结束。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E5%85%AD%E5%8D%83%E6%B8%AF%E4%BA%BA%E6%B8%B8%E8%A1%8C%E5%A3%B0%E6%8F%B4%E6%9E%97%E8%8D%A3%E5%9F%BA%E5%90%91%E5%BC%BA%E6%9D%83%E8%AF%B4%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%B3%A2/?category=18271" rel="tag">李波</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -700,5 +718,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

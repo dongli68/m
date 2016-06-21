@@ -21,9 +21,57 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%AF%B4%E4%BD%A0%E8%B4%AA%E6%B1%A1%E4%BD%A0%E5%B0%B1%E5%BE%97%E8%B4%AA%E6%B1%A1/" target="cdt-mirror">【网络民议】党说你贪污你就得贪污</a>
+</h2>
+<p><p>新快报 | 检方：乌坎村原村支书记林祖恋承认收受巨大回扣</p>
+<p>昨日（6月20日），广东省汕尾陆丰市东海镇乌坎村原党总支部书记、村委会主任林祖恋在接受陆丰市检察机关审讯时，主动供认了自己收受贿赂的事实。林祖恋向办案人员坦承，“由于自己对法律知识的淡薄和无知，在民生工程中收受了回扣，以及在村集体购买资产中也收受了巨大的回扣，这点是我最大的犯罪行为。我在这问题上一定如实地向检察机关投案自首，对这点我会如实坦白地交待。”</p>
+<p>据悉，今年以来，陆丰市有关部门陆续收到群众举报，反映乌坎村党总支部书记、村委会主任林祖恋收受贿赂。经过三个多月的初查，陆丰市检察院于2016 年6 月17 日正式对林祖恋涉嫌受贿问题立案侦查，并采取强制措施。经初步审查，林祖恋在担任乌坎村党支部书记、村委会主任期间，利用工程项目建设管理的职务便利，在民生工程项目发包等环节收受贿赂，数额巨大，其行为已经触犯刑法关于受贿罪的规定。</p>
+<p>目前，林祖恋已被免去乌坎村党总支部书记职务，其受贿问题正在进一步侦办。乌坎村党总支副书记张水金主持村全面工作。</p>
+<p>（新快报记者 彭程）</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160621103012490b8.jpg.545x10000.75.auto_.jpg?resize=545%2C304" alt="汕尾市人民检察院检察长袁怀宇在发布会上作出通报，并播放了林祖恋供认收受贿赂的视频。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160621103012490b8.jpg.545x10000.75.auto_.jpg?w=545 545w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160621103012490b8.jpg.545x10000.75.auto_.jpg?resize=300%2C167 300w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1"><p>汕尾市人民检察院检察长袁怀宇在发布会上作出通报，并播放了林祖恋供认收受贿赂的视频。</p></div>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>@孙斌律师Mirabeau：检方公布，他承认自己是外星人我也不觉得惊讶。</p>
+<p>@猪哥真性感：这一招已经使老了，没人会信的。</p>
+<p>@慕课赵：政府无论说的真假，除了雇佣几个五毛摇旗呐喊以外几乎无人相信，也是悲催。关键是，糟蹋尽了自己的公信力，还是没有任何证据，逻辑也不明不白。就这样一直下去，一直下去……</p>
+<p>@韦斯特兰：别打了我是兔子，我真的是兔子。</p>
+<p>@wanglianhua：你们高兴就好。</p>
+<p>@hayek哈耶克：剧情如出一辙，无比相似。</p>
+<p>@遥望飞鹰：真正的贪官是不会上电视认罪的，从这一点来看这事就蹊跷。</p>
+<p>@远村近郊02：如果允许记者去乌坎自由调查、自由报道，我就相信检察院的说辞。</p>
+<p>@仅仅是姓张：人家要带村民上访，你就给人家来个欲加之罪。</p>
+<p>@moto围脖：还好是贪污，不然七十多岁了，说嫖娼就真没人信了。</p>
+<p>@唐悦爱玲：莫须有的罪名，请公布证据。</p>
+<p>@的工作：林叔是我们村自选的 一人一票选出来的，为了我们村民的利益 一直在努力， 就像林叔说的官官勾结， 林叔为了村民的利益没有跟贪官站一块， 所以被带走了 是欲加之罪， 我们一万多个村民的眼睛是雪亮的。</p>
+<p>@王云亭voltean：一个标点符号我也不信，你信吗？</p>
+<p>@小城人家2017：【转】转发： 据悉，林祖恋的孙子已被抓了。 最后一条是官方冒充林孙子发布。 真他妈的能装孙子！</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/006n56ksjw1f52o9i2wmqj30f00qoq4g.jpg?resize=440%2C782" alt="006n56ksjw1f52o9i2wmqj30f00qoq4g" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/006n56ksjw1f52o9i2wmqj30f00qoq4g.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/006n56ksjw1f52o9i2wmqj30f00qoq4g.jpg?resize=169%2C300 169w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>@养猪专业户王福贵：按剧本本来是准备让他嫖娼的，这不突然半道出了雷洋这事儿吗，导演当机立断临时改剧本儿了。</p>
+<p>@zhiyuan_e：受贿和嫖娼，你党两大杀手锏。</p>
+<p>@向小排：他们终于憋不住 要秋后算帐了。</p>
+<p>@枫车转不停：倒车请注意，倒车请注意。</p>
+<p>@清韵瓷苑：那为什么全村都说他好呢。</p>
+<p>@温哥华客户经理：党说你贪污你就tm得贪污</p>
+<p>@等待时间-小柏同学：全村请愿保护一个“贪官“ 真是奇了怪了。一个村官弄的大动干戈也是头一次见</p>
+<p>@啊丽玲玲啊：谎言，谎言，政府说得一切都是慌言。不知道政府使了什么手段去逼迫一个老人家承认。你们可以设想一下，为什么林老要跟他们的亲人恩断义绝呢？就是怕伤害到他们的家人，他所以承认，应该是政府的人威胁到他什么了。他那么好的一个人为了陆丰乌坎，做出了这么多牺牲，他是为了什么……想必大家都清楚。</p>
+<p>@秀才江湖：林祖恋是乌坎村民一人一票选举出来的村长，当局害怕“一人一票”，因为如果人人都要求“一人一票”，就会失去他们的天堂。把林祖恋扣上贪腐的罪名、搞臭他，傻瓜都懂，醉翁之意不在酒，在乎打击“一人一票”，在乎维护朕拳吻腚：你看，你们一人一票选出来的是贪官！别选了，还是我们来！</p>
+<p>@beidaijin：林祖恋上周五夜间被强行带走，其妻杨珍接受采访时表示，林家好友前东海镇长欧阳柳周五登门造访，武警趁欧阳柳离开时入屋带走林，没有出示证件也并未告知原因。几天之前，林祖恋曾在一份公开信中表示，要进行一次新的大型抗议活动追讨土地流失问题。</p>
+<p>@wadelin1977：乌坎再起波澜：乌坎4年前土地问题仍未解决，被贪官出售的土地仍未追回，现任书记林祖恋组织村民原定21号上访市政府，但6月18号凌晨大批特警以受贿的名义直接将林祖恋逮捕。此前，林已公开与家庭分开，并公布于微博，已做好牺牲一切之准备。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaYiWgAIbBAy.jpg?resize=450%2C600" alt="ClNgaYiWgAIbBAy" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaYiWgAIbBAy.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaYiWgAIbBAy.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaZoWQAgVrJg.jpg?resize=450%2C600" alt="ClNgaZoWQAgVrJg" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaZoWQAgVrJg.jpg?w=720 720w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaZoWQAgVrJg.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>@YE5MQ5Vtp2jlWX7：当朝还不如慈禧时代的晚清。乌坎三千村民的抗争，都发生五年了。不但没有要回耕地，也没有要回赔偿金。要回的就是中共把村民自己选举的村委会主任林祖恋抓了。然后就是大批武警进村，把老百姓控制起来。小白菜当年进京告状，就可以让慈禧干掉一百多个大清官员。如此不得人心的中共，你还能挣扎几年？</p>
+<p>@liu_xiaoyuan：乌坎村主任林祖恋维权被抓，让我想起以前的当事人吕江波。吕江波是福建晋江市人大代表，也是民选村主任，因带领村民土地维权，先是被“双指”（指定时间、指定地点交待经济问题，他是非党故不是双规），后以涉嫌妨害公务罪刑拘，以涉黑等九罪起诉，最终“脱黑”仍以六罪判刑11年，至今还在监狱。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%AF%B4%E4%BD%A0%E8%B4%AA%E6%B1%A1%E4%BD%A0%E5%B0%B1%E5%BE%97%E8%B4%AA%E6%B1%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%BA%BA%E4%B8%80%E7%A5%A8/?category=18271" rel="tag">一人一票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%97%E8%B4%BF%E7%BD%AA/?category=18271" rel="tag">受贿罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%BF%AB%E6%8A%A5/?category=18271" rel="tag">新快报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">电视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98/?category=18271" rel="tag">经济问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E9%A1%BB%E6%9C%89/?category=18271" rel="tag">莫须有</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%8Eg20%EF%BC%8C%E5%9C%A8%E8%AF%9A%E6%83%B6%E8%AF%9A%E6%81%90%E4%B8%AD%E9%A2%A4%E6%8A%96%E7%9D%80%E4%B8%8A%E7%8F%AD/" target="cdt-mirror">【图说天朝】迎G20，“在诚惶诚恐中颤抖着上班”</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/2002651217/DBasomq0F" target="_blank">@右耳可塑</a>：为了迎接G20浙江也是拼了….入住绍兴柯桥一个酒店…前台的这段话，笑到翔都出来了….太有才了…请认真读完第二张图片上的字…..</p></blockquote>
@@ -612,36 +660,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%B9%BF%E5%B7%9E%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E7%96%86%E7%8F%AD10%E7%BB%B4%E6%97%8F%E5%AD%A6%E7%94%9F%E6%B6%89%E6%81%90%E8%A2%AB%E6%8D%95/" target="cdt-mirror">自由亚洲 | 广州一中学新疆班10维族学生涉恐被捕</a>
-</h2>
-<p><p>广州市七十五中学新疆内高班十名维吾尔族学生，6月9日在校内被捕。据维权律师唐荆陵从被羁押的广州市第一看守所带出消息称，与其同囚一个监仓的维吾尔族少年阿布都说，他在高考结束后第二天（6月9日）被警方拘捕，此次共抓捕八名男生，二名女生，被指涉嫌恐怖犯罪。海外维吾尔组织也对本台披露，该组织获悉，有十多名来自南疆地区的学生被捕，现下落不明。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8B%E5%8D%882.00.27.png?resize=550%2C317" alt="Screen Shot 2016-06-18 at 下午2.00.27" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-下午2.00.27.png?w=613 613w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-下午2.00.27.png?resize=300%2C173 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
-图片:广州市七十五中维族学生在旅游。（public domain)</p>
-<p>广州维权人士唐荆陵今年初被以涉嫌“煽动颠覆国家政权罪”判刑五年后，6月16日，唐荆陵的代理律师葛永喜律师在广州市第一看守所会见了唐荆陵。据葛永喜发信息称，唐先生反映他所在的仓室新关押了一名维族少年名叫阿布都，这位少年来自新疆喀什，父亲是喀什当地的小学老师。阿布都说，他在高考结束后第二天被警方拘捕，此次共抓捕了十名维族少男少女，八名男生，二名女生，都是广州第七十五中学的学生，罪涉恐怖活动组织（具体不详）。唐先生呼吁外界关注这十名维族青年的案子，期望他们能得到公正的审判。</p>
-<p>唐荆陵的妻子汪艳芳6月17日晚接受自由亚洲电台采访时称，她也获得上述消息：“（律师）会见时候的情况是，他（唐荆陵）这次才分到跟维吾尔族人一个仓，他是一个青少年，他们关在一起。（青少年）属于中学高考的学生”。<br>
-记者：说是抓了七十五中的10个人。<br>
-回答：对，是啊这是广州的中学。因为还是青少年，是小孩子，他（唐荆陵）觉得应该关注。</p>
-<p>本台记者致电广州市七十五中燕塘校区一位姓冷的副主任，向他查询有关情况。<br>
-记者：是记者，想问一下，听说高考以后的第二天，有10个维吾尔族学生好像涉嫌犯罪，被带走了，叫什么名字知道吗？<br>
-回答：不知道，不知道这回事。你是哪里啊。<br>
-记者：是记者想问一下有没有这会事。<br>
-回答：我不清楚，你听谁说的？<br>
-记者：一个维吾尔族人说的。<br>
-回答：你这个电话号码不显示啊，不知道。</p>
-<p>总 部在德国的世界维吾尔代表大会发言人迪里夏提告诉本台，他们从广州获得相关消息称，有十多名维吾尔族学生被捕，他呼吁国际社会关注：“从当地反馈的消息， 在高考之后，有十多名维吾尔学生遭到警方关押之后，下落不明。被扣押后失踪的这些学生几乎都是从维吾尔居住地区南部，送到广东来就学，我们无法获得最准确 的关押地点，我们也担心在政治恐吓与诱导的情况下，胁迫这些未成年的学生接受中国政府已经准备指控的这些罪状。而且这些学生们的失踪，我认为应该唤起国际 社会高度的关注。要求中国政府提供这些失踪学生们的下落。包括他们具体关押的地方”。</p>
-<p>据介绍，广州市第七十五中学建校于1956年9月，现为一所完全中学，属广州市天河区教育局管辖。2002年该校晋升为广东省一级学校，是广东省现代教育技术100所实验学校之一。现有教学班76个，学生3380多人，学校分天平架、燕塘两个校区。该校网站称，2016年1月29日，根据新疆维吾尔自治区教育厅的要求，新疆内高班全体学生在所在城市和学校组织学习和丰富多彩的假期活动。七十五中新疆内高班学生利用寒假，加强学习指导。大年初四（2016年2月11日），新疆部一百多位孩子到番禺长隆欢乐世界旅游。</p>
-<p>一位该校老师在其微博展示在广东珠海旅游的图片，博文称，广州市第七十五中学新疆部的133位孩子，在孙明尘主任等10位老师的带领下，前往珠海长隆海洋王国旅游，孩子们体验了惊险刺激的机动游戏，了解了生机勃勃的海洋世界，观看了趣味盎然的各种表演，度过了美好而充实的一天。</p>
-<p>乌 鲁木齐一位汉族居民孙先生对记者说，这些少数民族学生，原本是政府培养对象：“中央政府有这样一个计划，叫内高班，目的是对新疆储备人才，新疆各地的少数 民族孩子，又红又专的孩子，学习成绩比较好的，安排到内地汉化、学习成长。到时候他们回来，在当地参加工作，作为领导。他们在学校里面有这种问题（涉 恐），我估计学生在学校里受到汉族同学的歧视，或者是他们看到外面的一些信息，造成了言论方面出格。这个问题就比较厉害了，我们看到现在内地对在内地上学 的学生，监管更严厉”。</p>
-<p>迪里夏提说：“在当地上学的这些学生们，他们接触到了在维吾尔居住地区根本接触不到的信息，我们担心这些失踪的学生会遭到什么样的指控”。</p>
-<p>特约记者乔龙/责编：吴晶</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2-%E5%B9%BF%E5%B7%9E%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%96%B0%E7%96%86%E7%8F%AD10%E7%BB%B4%E6%97%8F%E5%AD%A6%E7%94%9F%E6%B6%89%E6%81%90%E8%A2%AB%E6%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86%E9%99%B5/?category=18271" rel="tag">唐荆陵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E/?category=18271" rel="tag">广州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%B7%9E%E5%8D%81%E5%90%8D%E7%BB%B4%E6%97%8F%E5%AD%A6%E7%94%9F%E6%B6%89%E6%81%90%E8%A2%AB%E6%8D%95/?category=18271" rel="tag">广州十名维族学生涉恐被捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86/?category=18271" rel="tag">新疆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E7%96%86%E4%BA%BA/?category=18271" rel="tag">新疆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E5%86%B2%E7%AA%81/?category=18271" rel="tag">民族冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E9%97%AE%E9%A2%98/?category=18271" rel="tag">民族问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%AA%E8%89%B3%E8%8A%B3/?category=18271" rel="tag">汪艳芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F/?category=18271" rel="tag">维吾尔族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F%E4%BA%BA/?category=18271" rel="tag">维族人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%97%8F%E5%AD%A6%E7%94%9F/?category=18271" rel="tag">维族学生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2/?category=18271" rel="tag">自由亚洲</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -653,7 +671,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -663,5 +681,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

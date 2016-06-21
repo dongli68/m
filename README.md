@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,27 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E4%B9%8C%E5%9D%8E%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%AE%A4%E7%BD%AA%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89/" target="cdt-mirror">【CDTV】乌坎村长林祖恋认罪视频曝光</a>
+</h2>
+<p><p>新闻背景：</p>
+<blockquote><p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%8C%E5%9D%8E%E6%9D%91%E6%B0%91%E6%AC%B2%E4%B8%8A%E8%AE%BF-%E5%AE%98%E6%96%B9%E5%85%AC%E5%B8%83%E6%9E%97%E7%A5%96%E6%81%8B%E8%AE%A4%E7%BD%AA%E8%A7%86/">@德国之声</a>：“广东乌坎村村民周一发起游行，并拟于周二上访。中国官方在此时公布了林祖恋接受审讯的画面，称林“主动供认收受巨额贿赂”。此外，汕尾市政府对部分“境外媒体”提出点名批评，称其在乌坎进行煽动、策划、导演。</p>
+<p>[…] 视频中，林祖恋表示：“由于自己对于法律事实的淡薄和无知，在民生工程中收受了各项目回扣，以及在村集体购买资产中也收受了巨大的回扣，这点是我最大的犯罪行为……我在这个问题上一定如实地向检察机关投案自首，对这点我会如实坦白地交待”。</p>
+<p>报道称，林祖恋目前已被免去乌坎村党总支部书记职务，其受贿问题正受到进一步侦办。乌坎村党总支副书记张水金主持村全面工作。”</p></blockquote>
+<p>更多报道见CDT <strong><a href="http://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/">2016乌坎再示威</a></strong> 消息合集</p>
+<p><a href="https://www.youtube.com/v/5kBQyCBvfao?version=3">https://www.youtube.com/v/5kBQyCBvfao?version=3</a></p>
+<p><a title="林祖恋认罪视频曝光 被免去乌坎村党总支部书记" href="http://www.youtube.com/watch?v=5kBQyCBvfao" target="_blank">林祖恋认罪视频曝光 被免去乌坎村党总支部书记</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-news&sz=99E7&t=2&s=MOLBBGCJYDC2NJFWJ7XRZTLBAEQJGOAMGKKWZWEATSQBNKCKDIOQ&i=CU5GQRLGHV22I6XJ2PCEDR2HDUH5ZWEUC&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E4%B9%8C%E5%9D%8E%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%AE%A4%E7%BD%AA%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">乌坎事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">电视认罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B2%B8%E8%85%BE%EF%BD%9C%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%9F%A5-%E8%AF%B7%E7%94%A8%E8%BF%87%E7%A1%AC%E8%AF%81%E6%8D%AE%E8%AE%A9%E4%BA%BA%E4%BB%AC%E7%9B%B8%E4%BF%A1%E6%B3%95/" target="cdt-mirror">沸腾｜乌坎村主任被查 请用过硬证据让人们相信法治 （已删）</a>
 </h2>
 <p><p>（数字时代编辑注：发布本文的新京报旗下微信公众号“沸腾”目前已被封号。本文转自“一点资讯”网站。）</p>
@@ -574,32 +592,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%BA%94%E9%81%93%E6%9D%A0%E5%B0%91%E5%B9%B4%E9%BB%84%E8%89%BA%E5%8D%9A%E9%80%9A%E8%BF%87%E6%AD%A6%E5%A4%A7%E9%A9%AC%E5%85%8B%E6%80%9D/" target="cdt-mirror">澎湃新闻 | “五道杠少年”黄艺博通过武大马克思主义学院自主招生</a>
-</h2>
-<p><p> </p>
-<div>5年前曾引发网络关注的“五道杠少年”黄艺博，今年正值高考。
-<p>据武汉大学本科招生网公示，日前其已通过武汉大学马克思主义学院自主招生面试，只要高考成绩超过湖北一本分数线38分，即可录取。</p>
-<p>6月19日，一则微信消息刷爆朋友圈。消息称，黄艺博今年通过武汉大学马克思主义学院自主招生，将成为（20）16级思政专业新生。</p>
-<p>6月20日上午，澎湃新闻记者联系武汉大学马克思主义学院负责招生事务的老师。其回应称，目前学校已公布了自主招生入选资格考生名单，正式录取名单要等各省高考录取分数线公布才能确定，因此还不能说黄艺博已被武大正式录取。</p>
-<p>根据《武汉大学2016年自主招生简章》，通过自主招生的考生有一定降分优惠，但也必须达到武汉大学在生源省份录取批次控制线上一定分值（分值等于2015年武大在学生生源省份同科类录取最低分与武大在该省录取批次控制线分差的60%，按四舍五入取整）。</p></div>
-<div></div>
-<div>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/157.jpg?resize=600%2C632" alt="武汉大学2016年自主招生入选资格考生名单公示" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/157.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/157.jpg?resize=285%2C300 285w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>武汉大学2016年自主招生入选资格考生名单公示（马克思主义学院）。</p></div>
-<p>该负责老师称，不熟悉黄艺博，也不清楚他的招生情况。“武大马克思主义学院自招面试考官是抽签决定的，对所有考生一视同仁。”</p>
-<p>《武汉大学2016年自主招生简章》显示，针对思想政治教育专业，优先报名条件包括：对马克思主义理论有一定认识，高中阶段在哲学思辨、逻辑推理、思想政治、组织协调、社会服务等方面表现出浓厚兴趣和有突出表现。报名学生须提供相关佐证材料。</p>
-<p>公开资料显示，黄艺博高中就读于湖北省水果湖高级中学，系湖北省教育厅直属的省级示范学校。去年，水果湖高中招办主任兼校办副主任戴方文接受媒体采访时透露，黄艺博中考时并未考上该校，后经其所在初中力荐，才得到破格录取。</p>
-<p>戴方文表示，黄艺博目前任该校团委副书记，组织能力很强，曾获武汉市“优秀学生干部”、“湖北省优秀共青团员”等多项荣誉称号。“他写作能力强，但一般不用稿子就能演讲。他把团委的工作，学生自我管理、自我教育这方面抓得非常好。”</p>
-<p>黄艺博曾是中国少先队武汉市总队副总队长，因手臂上挂“五道杠”队牌等照片引发网络关注。</p>
-<p>去年9月，黄艺博再次进入媒体视野。他将获得的2万元“武昌区政府奖学金”捐给了湖北省水果湖高中树人教育基金，用以帮助贫困生。</p>
-</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%BA%94%E9%81%93%E6%9D%A0%E5%B0%91%E5%B9%B4%E9%BB%84%E8%89%BA%E5%8D%9A%E9%80%9A%E8%BF%87%E6%AD%A6%E5%A4%A7%E9%A9%AC%E5%85%8B%E6%80%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93%E6%9D%A0/?category=18271" rel="tag">五道杠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">学生干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">思想政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/?category=18271" rel="tag">政治教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">武汉大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%89%BA%E5%8D%9A/?category=18271" rel="tag">黄艺博</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -621,5 +613,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

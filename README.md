@@ -21,9 +21,67 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%8A%A5%E9%81%93%E8%80%85-%E6%88%91%E7%9A%84%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%88%B8%E7%88%B8-%E4%B8%8E%E6%9C%80%E9%BB%91%E6%9A%97%E7%9A%84%E9%9D%92%E6%98%A5%E6%9C%9F/" target="cdt-mirror">报道者 | 我的维权律师爸爸 与最黑暗的青春期</a>
+</h2>
+<p><p>6月14日，中国国务院公布<a href="http://www.scio.gov.cn/zxbd/wz/Document/1480082/1480082.htm">《国家人权行动计划（2012-2015年）实施评估报告》</a>，《新华社》宣称，经过这3年推动，「公民权利和政治权利得到切实保障」、「正常宗教活动依法得到保护」、「中国人权事业又上了一个新台阶」。</p>
+<p>讽刺的是，就在同一天，正遭中共当局软禁的维权律师、曾多次获提名诺贝尔和平奖的高智晟，他的新书<a href="http://www.books.com.tw/products/0010719448">《2017年，起来中国──酷刑下的维权律师》</a>问世，书中详细揭露高遭到中共多次绑架、监禁、酷刑虐待的遭遇。而高智晟逃亡美国的女儿耿格，代父出征，赴香港和台湾举行记者会宣传新书。</p>
+<p>一种中国人权，各自表述。透过耿格的亲身经历，更显得无比荒谬。</p>
+<p>16日早晨，在旅馆接受《报导者》专访的耿格，忆起13岁到23岁这10年的人生，她多次禁不住掉泪说：「一直到现在我都觉得，我的青春期是人生当中最黑暗的一段时期。」一袭素色上衣、未施粉脂、23岁的耿格，开门见山就为自己的生命故事下了注脚。</p>
+<p>高智晟自1996年担任执业律师後，设下「三分之一案件要为穷人弱势免费打官司」的原则；2004年起，他开始为遭受政府迫害的弱势者维权，包括强制拆迁户、法轮功信徒??等，此举触怒中共当局，开始软硬兼施对他监控。有这样一位维权爸爸，也让耿格展开一段没人能理解和想像的残酷青春岁月。</p>
+<p>最黑暗的青春期，无止尽的羞辱和难堪</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-230photo20-1466325389-28.jpg?resize=600%2C400" alt="中國維權律師高智晟女兒耿格訪問。(攝影/余志偉)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-230photo20-1466325389-28.jpg?w=2800 2800w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-230photo20-1466325389-28.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-230photo20-1466325389-28.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-230photo20-1466325389-28.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>别人的青春岁月有酸甜苦辣更有活力奔放，而耿格13岁起的岁月，是以无止尽的羞辱和难堪开展的。（摄影／余志伟）</p></div>
+<p>2006年某天，才13岁上初中的耿格随妈妈耿和上街剪头发，理发店中突然闯入数十人将她们团团包围，接着母女被押回家，「回家以後爸爸不在家了、家里被警察搬空了，除了沙发、电视和床，家里什麽都没有了、财产也都没了。」那是耿格印象中父亲高智晟首次被绑架。从这天起，耿格的黑暗青春期正式拉开序幕。</p>
+<p>除了家中涌入的10多名警察，楼下更挤满上百名警察，耿格和妈妈被带到不同房间，「他们对我说，『你爸爸做了错事情，你能不能提供什麽证据啊？你知不知道家里的一些东西藏在哪？』我说不知道，他们就把我推开。」耿格回忆，那天起她和妈妈、弟弟高天昱遭严密监控、不能出门，连洗澡、上厕所都被看着，吃的是警察换班时带来的剩饭。</p>
+<p>数月後，耿格终於能回学校上学，但却开启她另一场噩梦。每天有7位警察如影随形跟着她上学，为了更便於监控并减少她与同学接触的机会，校方将耿格所在的大楼净空，把多数学生集中到别栋大楼，而原有大楼里只剩她所属的班级；警察把所有的门，包括女厕门拆掉，不给她任何私密空间的可能；校方积极地配合警察，禁止全班与耿格说话，而午休时间，警察会将她带到操场上殴打，并对围观学生说：「这孩子该打！她爸爸是政治犯，她死了都不足惜！」</p>
+<p>用家人来威胁在黑牢里的高智晟，用一对孩子的痛苦和受虐，让一位父亲心软妥协，共产党恐惧的治理，彻底将这一家人隔绝。</p>
+<p>这些突来的剧变，让从小被父母捧在手心的「格格」（耿格的小名）痛苦至极。她没有朋友，恐怖的际遇逼着她过早成熟；被打时，她会瞒着母亲真相，说身上的伤是「摔的」；当高智晟一度被放回家，心里委屈的耿格向爸爸倾诉着：「爸爸，他们会在学校打我，但是，不疼的！」</p>
+<p>别人的青春岁月有酸甜苦辣、更有活力奔放，而耿格从13岁起的岁月，是以无止尽的羞辱和难堪开展的。</p>
+<p>无法忍受一对孩子这样过活，高智晟夫妻密商，让耿和带着儿女偷渡出国。於是，3人在2009年逃离中国，离开了高智晟。</p>
+<p>颠沛的逃亡之路，一个丸子也买不起</p>
+<p>2009一个无预警的早晨，母亲临时带姊弟两人出远门，高智晟走近耿格重重地抱了她一下，亲了她一会儿，「我当时觉得，不会又要出什麽事了吧??我猜到我们要离开了。」耿格哽咽谈着与父亲的离别，「那是我最後一面见他。」</p>
+<p>耿和带着孩子搭火车、公车、摩托车一路到云南，再转往缅甸、泰国。偷渡的过程，走私集团的蛇头带着才5岁的高天昱行动，耿和与耿格则另外搭摩托车，然而母女俩却在缅泰边境被缅甸民兵抓了。「他们把我们关起来，用枪指着我们，」耿格回忆着当时的恐怖场景，弟弟跟着人蛇不知去向，母女又被抓了，她的母亲当下情绪崩溃，几乎觉得活不下去了。</p>
+<p>16岁的耿格不得不冷静下来，她灵机一动，用英语对看守的士兵们大喊说，她们有非常多现金寄放在附近县城亲戚（指蛇头）家。起了贪念的两名士兵偷偷把母女两人带到蛇头家，换走了一大袋现金，那数十万人民币其实是耿和打算让一家人在国外生活的存款，如今用来换得一家三口团圆，以及顺利进入泰国。</p>
+<p>好不容易到了曼谷，母女三人躲在大巴士行李舱，此前跟随蛇头好几天没吃东西的弟弟看到车站附近有人卖牛肉丸，才对耿格说，「姊姊，我想吃一个丸子！」但耿格给不起，「我们一分钱也没有，当时特别难过，我真的没办法满足他的一个小愿望，」回想起这过程，耿格泪流不止。</p>
+<p>经常性的自残，只想知道自己还活着</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-217photo20-1466325599-44.jpg?resize=600%2C400" alt="中國維權律師高智晟女兒耿格訪問。(攝影/余志偉)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-217photo20-1466325599-44.jpg?w=2800 2800w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-217photo20-1466325599-44.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-217photo20-1466325599-44.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-217photo20-1466325599-44.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>回想起逃离中国的过程，耿格泪流不止。（摄影／余志伟）</p></div>
+<p>在美国官方协助下，耿和母女三人顺利来到美国。但经济压力加上过去的所有际遇，马上如梦魇般向耿格排山倒海袭来，「开始回顾之前发生的事情，发现所有事情都想不明白，就开始觉得很depressed（沮丧）、觉得……清醒，太可怕了！」耿格说。於是她一直睡觉，睡不着就拿厚辞典砸头，想砸晕自己。</p>
+<p>「我一直不明白他们的底限在哪？为什麽有人坏得这麽没底限？我觉得都已经坏到根里去了！」从13岁开始，一直到16岁逃离至美国，到现在23岁了，很长一段时间，她不清楚为什麽自己会面临这种遭遇？她经常性自残，即便到了美国，她也曾割腕自杀。</p>
+<p>「这是一种持续性的痛苦，持续性的痛苦你就不太知道自己是不是还活着，有时候会觉得，可能这就是已经死了吧！怎麽会这麽痛苦？那时候在手上划很多口子，只是想知道自己还活着。」</p>
+<p>耿格曾试图用火烧自己的脸，因此被送进精神病院，当她受不了医院的压抑环境，再假装自己很健康，该笑的时候笑、该参加meeting就参加meeting，医师让她出院後，她又再尝试自杀。</p>
+<p>她曾在绝望下，吃了一整瓶抗抑郁药，当她躺在床上觉得心跳越来越慢，却听见弟弟在房门外的叫声笑闹声，这又把她拉回真实世界，「我想一想，觉得我不能这麽自私??我再这样的话，那我不就是又逼死了妈妈、又逼死了我弟弟？我怎麽也要陪妈妈走到那一天，她跟我爸爸团圆的那一天。」於是她拿起电话，请朋友协助将她送医。</p>
+<p>如今耿格的生活终於步上常轨，靠着打工经济独立，独自在外念大学；而耿和则忙於照料高天昱，藉由担任二房东以及香港立法会议员何俊仁汇钱接济维生。而2014年後，高智晟也从监狱被放出，至今仍遭软禁在老家陕西榆林佳县。</p>
+<p>但多般折磨已让23岁的耿格显得过度老成，甚至自我武装。</p>
+<p>重新理解父亲，相信父亲的选择</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-220photo20-1466325764-83.jpg?resize=600%2C400" alt="中國維權律師高智晟女兒耿格訪問。(攝影/余志偉)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-220photo20-1466325764-83.jpg?w=2800 2800w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-220photo20-1466325764-83.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-220photo20-1466325764-83.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-220photo20-1466325764-83.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>耿格一路以来的境遇，是肇因於她的维权律师父亲。她坦言，过去有段时间对父亲「非常非常不理解」。（摄影／余志伟）</p></div>
+<p>耿格一路以来的境遇，是肇因於她的维权律师父亲。她坦言，过去有段时间对父亲「非常非常不理解」。</p>
+<p>她曾追问她父亲，「为什麽有的爸爸可以当家里的一盏灯？就算你不亮也没关系，你可以在家里面只照亮我们一家人??。」</p>
+<p>高智晟对最疼爱的女儿格格说：「中国的那些穷人和农民，穷到骨子里、穷到尘埃里去，谁也不拿他们当个人，谁都可以踩他们，这种人不值得去关心一下吗？」「我现在还不能当家里的灯，但再给我几年时间，我会回到家里做那盏灯。」。</p>
+<p>想把爱给更多人，不让更多孩子像耿格一样有相同遭遇，高智晟的抉择令人敬佩，却对自己和家人十分残忍。</p>
+<p>约半年多前，高智晟与耿格通了电话，告诉女儿自己在写一本书，并说这本书出版後，「可能有段时间见不到爸爸」，他暗示已有再度被抓、甚至牺牲的心理准备，他安慰耿格，「不要难过，要好好生活，没有什麽大事情。」</p>
+<p>书稿自中国安全送出後，耿格花了两天时间读完。「看完很难过！很疼！」「我不觉得这是一个人应该去经历的，也不觉得有谁可以走过这样的一段路。」这是耿格第一次这麽详细地了解父亲的遭遇。耿格说，爸爸从小就经历了最底层的贫穷生活，每天走十几里山路上学、吃饭只有稀粥、从小带着他弟弟采草药卖钱，特别能够同理那些最卑微的人，并不惜走上今天这条路。「他做这些事情的背後是有一个更大的意义在，所以疼痛过後还是觉得，他很伟大！」</p>
+<p>现在，耿格对高智晟是既理解也支持，「因为我连人生的启蒙、事情的对和错都是他教的，他做的事情一定有他的道理。」</p>
+<p>高智晟历经了常人难以承受的苦难，笃信基督教的他在新书中提及不少神谕与启示，因而相信2017年共产党将败亡，中国将走出希望。我们问耿格如何解读此预言？这样具体的预测有理性基础吗？她说，爸爸没写得非常具体，但书中还是有些理性的基础，「最重要的是，我觉得我爸爸对神有faith（信仰），而我对我爸爸有faith。」</p>
+<p>新书出版充满波折，如同中国维权的困境</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-233photo20-1466325837-100.jpg?resize=600%2C400" alt="中國維權律師高智晟女兒耿格(右)訪問，對華授助協會主席Bob Fu。(攝影/余志偉)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-233photo20-1466325837-100.jpg?w=2800 2800w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-233photo20-1466325837-100.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-233photo20-1466325837-100.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-233photo20-1466325837-100.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>「美国对华援助协会」会长傅希秋牧师（左），协助耿格母女出逃，为高智晟出版新书。（摄影／余志伟）</p></div>
+<p>为高智晟出版新书、也是协助耿格母女出逃的「美国对华援助协会」会长傅希秋牧师曾因六四事件、牧师身分遭中共迫害，後赴美从事援助中国良心犯的工作。他透露此次出书过程一个小波折，他担心2017中共败亡的预言若失效将损及高智晟的公信力，因而将封面书名副标「酷刑下的维权律师高智晟自述」与主标「2017年，起来中国」对调。未料，高得知此事时，却坚持要求改回来，还强调这是自己具体感受到、愿意承担，傅希秋只得赶紧通知开印了一半的印刷厂，出书前两周才又重新排版印刷。</p>
+<p>此外，新书能够付印，中间历尽了艰难，另一协助出版的「台湾关怀中国人权联盟」秘书长邱龄瑶透露，高智晟的手稿并非直接运出中国，而是在中国租间屋子、透过关系四处找了一批人，签切结书，日以继夜花上几星期打出那50万字，再透过Email寄到美国。行动过後大家一窝蜂四散，彼此不再联络。</p>
+<p>出版是下一个难题。傅希秋表示，当初找了好多香港、台湾的出版社洽谈繁体中文版，却没有人敢接，最终只好和关怀中国人权联盟共同出版，至今在香港连代理书商都找不到。</p>
+<p>访谈的尾声，耿格提起她对台湾读者的期待，「大家尽己所能地去了解一下，这个就在你们旁边的国家到底发生了什麽？起码了解一下，这个政府是怎麽样对待国民。」她期许，若有一天需要台湾民众帮忙中国人权做些什麽工作，哪怕只是协助发声，大家不会对中国一无所知。</p>
+<p>有一个维权父亲，让耿格在痛苦、屈辱、怀疑中长大。至今她很少对同学朋友透露自己曾有过的恐怖经验，而访谈时，仍能感受耿格本能的自我防卫，一有风吹草动眼神就特别锐利和警觉。她说，青春时的记忆没有一点是好的，如果当时同学能对她表现出一点友好、一点理解，她或许不会像今天这麽难过，以及对人性感到恐惧。</p>
+<p>如今，耿格在大学主修经济学，将更多精力放在生活、学业上，她也慢慢理解父亲的抉择、慢慢让心灵的伤口癒合。问她是否觉得自己像座孤岛般孤独？「还好，日子再久些可能会更好一点，」她说。</p>
+<p>後记</p>
+<p>当耿格在台湾宣传、才离港两天，失踪多月的香港铜锣湾书店店长林荣基召开震撼各界的记者会，公开自己遭中共当局绑架、囚禁、逼拍认罪影片的经历；再隔天则传出，5年前广东乌崁事件当中，带领村民维权的乌崁村委会主任林祖恋遭警察强行押走。6月份的中国人权事件特别「热闹」，而高智晟新书的问世以及耿格的现身揭露，则如警钟一般，预示着类似的连串事件，还远远看不到尽头。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%8A%A5%E9%81%93%E8%80%85-%E6%88%91%E7%9A%84%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%88%B8%E7%88%B8-%E4%B8%8E%E6%9C%80%E9%BB%91%E6%9A%97%E7%9A%84%E9%9D%92%E6%98%A5%E6%9C%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%89%AF%E5%BF%83/?category=18271" rel="tag">中国良心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">人权行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91/?category=18271" rel="tag">公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">六四事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85/?category=18271" rel="tag">精神病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%A6%E9%9A%BE/?category=18271" rel="tag">苦难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">诺贝尔和平奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F/?category=18271" rel="tag">高智晟</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%AF%B4%E4%BD%A0%E8%B4%AA%E6%B1%A1%E4%BD%A0%E5%B0%B1%E5%BE%97%E8%B4%AA%E6%B1%A1/" target="cdt-mirror">【网络民议】党说你贪污你就得贪污</a>
 </h2>
 <p><p>新快报 | 检方：乌坎村原村支书记林祖恋承认收受巨大回扣</p>
@@ -68,6 +126,36 @@
 <a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%AF%B4%E4%BD%A0%E8%B4%AA%E6%B1%A1%E4%BD%A0%E5%B0%B1%E5%BE%97%E8%B4%AA%E6%B1%A1/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%BA%BA%E4%B8%80%E7%A5%A8/?category=18271" rel="tag">一人一票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%97%E8%B4%BF%E7%BD%AA/?category=18271" rel="tag">受贿罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%BF%AB%E6%8A%A5/?category=18271" rel="tag">新快报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">电视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98/?category=18271" rel="tag">经济问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E9%A1%BB%E6%9C%89/?category=18271" rel="tag">莫须有</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%91%A8%E8%8B%B1%E6%9D%B0%EF%BC%9A%E7%AC%91%E7%9C%8B%E9%A9%AC%E4%BA%91%E8%A3%85%E9%80%BC/" target="cdt-mirror">周英杰：笑看马云装逼</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4LO9-fxtfrrn0928796.jpg?resize=549%2C365" alt="4LO9-fxtfrrn0928796" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4LO9-fxtfrrn0928796.jpg?w=550 550w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4LO9-fxtfrrn0928796.jpg?resize=300%2C200 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>靠开淘宝卖假货起家的阿里巴巴集团主席马云，如今已是一个<a href="http://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91%E5%85%AD%E5%9B%9B%E8%A8%80%E8%AE%BA/">举世闻名的大人物</a>。其人出有保镖，行有豪车，谈笑没鸿儒，往来有白丁，照我看，其气派已经盖过了他的江浙前辈胡雪岩大咖，一点也不亚于一个国家的领导人。向使刘邦再生，看见其巍巍然、斯斯然横行于通衢大道，亦必扔掉正在播放日本动作片的平板电脑，流着满嘴的哈喇子大叫：“大丈夫当如是也”！</p>
+<p>马云为什么这么牛？答案很简单，因为他有钱，而且不是一般的有钱。</p>
+<p>这个年代，有权的人讲究闷声做大事，正变得越来越低调，因为不低调的都从重庆直接去了秦城或者燕郊。那么有钱的呢？有钱的就是忙着到处装逼。有小钱的整个宝马啥的在小区里装逼，再有点钱的整个政协委员什么的在当地装逼，很有钱的则是到世界各地装逼。谁让人家有钱了呢？有钱任性嘛。</p>
+<p>这个马云正是爱到世界各地去装逼的天朝有钱人的总代表之一。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/251959968.jpg?resize=496%2C605" alt="马云大师" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/251959968.jpg?w=500 500w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/251959968.jpg?resize=246%2C300 246w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"></p>
+<p>马云装逼，千奇百怪，有时装得非常奇葩莫名其妙，让人不明觉厉。比如，他在前几天的一个公开论坛上就说：“假货真正的问题是比真货质量还好”。恕我闭目塞听，有影响力的人公开为假货辩护，我还是第一次听闻。现在都说美国的总统候选人川普先生是个不着调的大嘴巴。叫我看，论级别，川普只能给马云当个学生。</p>
+<p>当然，马云毕竟是上个世纪八十年代早期在杭州师范学院里念过英文，且已经走遍了五大洲、四大洋，见识过“三亚大趴”等各种大阵仗的人。所以，他的装逼也不光是凭着一张口无遮拦的大嘴巴，应该承认有时还是极具“人文关怀”色彩，能让听了的人立即肃然起敬，浑身上下小米粒大丰收的。</p>
+<p>就在这几天，流窜到俄罗斯的马云，在第二十届圣彼得堡国际经济论坛上就大大地装了这么一次感天动地的逼。</p>
+<p>根据6月20日的网络媒体报道，马云在发言时表示：“创立阿里巴巴是自己人生最大的错误，因为在集团工作占去了他所有的时间”。“我有生以来最大的错误就是创建阿里巴巴。我没料到这会改变我的一生，我本来只是想成立一家小公司，然而它却变成了这么大的企业。”马云还说：“如果有来生，不会再做这样的生意。我希望有机会去到世界上任意一个国家，在那里平静度日。我不想谈论商业，不想工作。”</p>
+<p>如果大家不知道什么叫“得了便宜卖了乖”，什么叫“为赋新词强说愁”，什么叫“口是心非故作顿悟状”，不妨就来看看功成名就的马有钱人的这番表演。我不清楚马大有钱人在讲到这些煽情的段落时，有没有被自己的大彻大悟感动得涕泪滂沱。我认为这个时候倘能够配合一两滴眼泪，然后再像祥林嫂那样梨花带雨地抽泣几下，效果会更加生动有型。</p>
+<p>实话说吧，我是根本不相信马云上面的这些话的任何一句的。换言之，马云的这些人生感悟，纯然就是又一次赤裸裸的装逼而已。很显然，他如果真的大彻大悟，完全可以立刻辞去阿里巴巴集团的主席，随时去到世界上的任何一个国家（北朝鲜除外），在那里平静度日，不用工作，又何必非要等到“来生”呢？来生太虚无了，即使真的有“来生”，马云又怎么知道他自己还会是现在这个世界里有钱的马云呢？</p>
+<p>事实上，大部分人都知道马云是个著名的有钱人，但恐怕很少有人注意到他还是一个爱信口开河的大嘴巴。现在，我们搞不清楚，这次在彼得堡的论坛上他为什么要这样说，是说给谁听的，这样表示有什么用意。但仔细琢磨马大有钱人的这几句表白，明显带有“耍娇使横”的意思，似乎是在向什么人或者势力在隔空喊话。</p>
+<p>这不由得让我想起我儿子三岁大的时候一则小故事。</p>
+<p>那天，拙荆从外面买了一些烧饼回来，塞到儿子手里一大块。我在旁边，也没有想什么，顺手从儿子的大块烧饼上折了一小块，送到嘴里。没想到，此举惹恼了儿子，他又哭又闹又蹦又跳，非要我把吃掉的那块烧饼“吐出来”。他妈妈用更大的一块哄他，也不管用，只是一个劲地大声说：“我不吃了”……</p>
+<p>把马云的“这辈子最大的错误”云云和我儿子的“我不吃了”做一对比，总感觉两者之间有着相同的微妙心态。当然，我儿子的“不吃了”，是因为他老子藐视他的领地权，竟然“虎口夺食”，令他不爽。至于，马云的达达（《金瓶梅》里用的就是这两个字）们抢了他什么了，我们不得而知。反正，马大有钱人这次可能有点“恼次”，有点想撂挑子的意思，还是可以品味得出来的。</p>
+<p>从一个小企业做到今天的阿里巴巴，马云这么多年走下来，不容易是料想中的事情。如果马云主席万一真的认为创立阿里巴巴是他人生中最大的错误，想撂挑子出走的话，我希望他老人家不妨和就我这样的草民换个位置，让我也能站到他那个位置上装几天逼。正好，和马云一样，我也认为我这一生有个“最大的错误”。我的最大的错误就是做了个“没商业可谈、没工作可做”的盛世闲民，我的这种状态不正是马云主席孜孜以求而不得的状态吗？</p>
+<p>不知道马主席对我的这个建议意下如何？要不，咱哥俩真的换换？</p>
+<p>呵呵。</p>
+<p>2016年6月20日</p>
+<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%91%A8%E8%8B%B1%E6%9D%B0%EF%BC%9A%E7%AC%91%E7%9C%8B%E9%A9%AC%E4%BA%91%E8%A3%85%E9%80%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E8%B4%A7/?category=18271" rel="tag">假货</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%98%E5%AE%9D/?category=18271" rel="tag">淘宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%85%E9%80%BC%E7%8A%AF/?category=18271" rel="tag">装逼犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/?category=18271" rel="tag">阿里巴巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91%E8%A3%85%E9%80%BC/?category=18271" rel="tag">马云装逼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 5小时前</small>
@@ -177,7 +265,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E7%AB%8B%E6%B3%95%E9%99%A2/?category=18271" rel="tag">台湾立法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C/?category=18271" rel="tag">吾尔开希</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 7小时前</small>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E5%BC%A0%E4%BC%A6%EF%BC%9A%E5%A4%B1%E5%8E%BB%E6%96%B9%E5%90%91%E7%9A%84%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">BBC | 张伦：失去方向的中国</a>
 </h2>
@@ -602,64 +690,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%82%93%E5%B0%8F%E6%A1%A6%EF%BC%9A%E6%B4%BB%E5%9C%A8%E7%9C%9F%E5%AE%9E%E4%B8%AD-%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88/" target="cdt-mirror">端传媒 | 邓小桦：活在真实中</a>
-</h2>
-<p><p>林荣基拒绝了政权的谎言，保住了香港的光明。香港人得以用行动，再连结为一个希望的共同体。“我都可以，为什么你不可以？”</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8B%E5%8D%882.42.51.png?resize=554%2C370" alt="Screen Shot 2016-06-18 at 下午2.42.51" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-下午2.42.51.png?w=554 554w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-下午2.42.51.png?resize=300%2C200 300w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><br>
-铜锣湾书店店长林荣基。摄：吴炜豪/端传媒</p>
-<p>曾在内地被扣查的铜锣湾书店店员林荣基，召开了记者招待会，讲述了他过去七个月内被软禁拘押、不得联络家人和律师，并被要求交出书店读者订书资料的事，等于完全推翻中共官方的原有剧本和台词。这无疑是一颗真实的巨大炸弹，炸开了独裁政权的谎言，也在香港人心中炸开了一个真实的领域。</p>
-<p>当仍受著“保释候查”威胁的林荣基，手持铜锣湾书店的读者订书资料，踏上火车准备回到大陆，把这些资料上缴给权力机关时，心中是转过了怎样的念头，才让他毅然折返，向世界公开他的经历？他眼前必然曾经存在一个世界，一条权威的路径，他本来是沿著那路径的指示回港，向警方销案，对传媒不发一言。他本来几乎要选择向权力屈服，活在那个布满谎言然而可能保住自身平安的世界里。他回港两晚都没睡好；但他仍有足够意志，选择了另一个光明的世界，把话说出来，与香港人站在一起。</p>
-<p><strong>“不义比死亡更能毁灭人”</strong></p>
-<p>香港人，不熟识中共式权力斗争，几曾识干戈？然而近年我们都感受到谎言的威力，那就是巨大的疲累与虚无。看禁书的港人其实没有很多，但确实很多人关怀过铜锣湾书店五子，做出过游行、联署、撰文、行为艺术、网上逐格比照电视认罪的穿崩位等等行动，连政府的新街道在脸书招名字，都有人留言“铜锣湾五子响边道”，获逾千赞好。港人与国际的关注下，其中数人得以回港，但他们回港后都明显处于一种谎言的系统中，港人心知肚明，但是不禁黯然，我们想保护的人，被极权阻隔开来，咫尺天涯。汉娜鄂兰说过，极权最恐怖之处，就是让人们处于孤立隔绝的状况，认定自己无力对抗。所以林荣基的抉择，分外让我们感到，“站在一起”是多么困难的抉择，而正因其困难，它又具有多么巨大的力量。</p>
-<p>乱世来临，每个人都将遭遇巨大的抉择难题，正义与邪恶，生与死，不再是电影中的虚构情节。林荣基当然已经领受过死亡的威胁。好生恶死本乃人之天性；而历史上，人性确曾一再达到“舍生取义”的高度——“真正困难的不是逃避死亡，而是避免做不义之事；不义之事比死亡更难逃避。不义比死亡更能毁灭人。”这是苏格拉底在死亡面前的最后自辩。苏格拉底以死亡去捍卫自己对真理的追求。而在是次事件里，把读者资料给予权力特务机关，显然是不义的；参与巩固整个集团被失踪的谎言剧本，显然是不义的。而林荣基，一位书店业者，被屈颖妍嘲弄为“书业偏门”的禁书书商，一个年届六十的灰发叔叔，就此达到了苏格拉底的高度：他拒绝了政权的谎言，也就是拒绝了不义的毁灭；保住了自己的人格，也保住了香港的光明。</p>
-<p>林荣基的所为，恰如捷克前诗人总统哈维尔在《无权者的权力》中所描述的：“他撕开一切，而颠覆了权力的结构。他证明了活在谎言中，就是活在谎言中。他从高耸的正面直接打穿体制，让权力的真实基础脱然于世。”仅仅是一个赤手空拳的平民百姓，就可以动摇整个体制，因为“他向大家显示，在真实中生活是可能的。”</p>
-<p><strong>活在真实中</strong></p>
-<p>香港身处极权社会与自由社会的交界水域，总有人相信可以周旋在极权与民主的规则之间存活，懂得揣摩生存之道，自诩为聪明人，社会上谓之“sophisticated”，是一种褒赞。对于林荣基的行动，陈云就评为幼稚不堪一哂，嫌他没有和美帝结盟，没有在美国得到政治庇护才开口。是呀，林荣基竟然没有先逃出香港到安全的地方才发言，竟然说视香港为家没有打算离开，真是天真得令人吃惊。他竟然相信，香港可以保护他？还是他认为，即使无人可以保护他，他都要把话说出来？但正是因为这天真、这不顾自身，才引发这么多香港人血性上涌，认为无论如何一定要保护他。香港人就是不想再要那种sophisticated的明哲保身。所谓觉醒，就是发现，勇气，才是存在感的根源。</p>
-<p>这么多香港人为林荣基的勇气激动，是因为林荣基以一个活生生的平凡人，具体呈现了香港人的集体欲望：在真实中生活。在真实中生活，本是平常的；是因为遭遇极权，它才成为这样巨大的欲望。这种欲望是希望可以展示生命的本质，即朝向多元、多样、独立的自我建构与自我组织，亦即朝向人类自身的自由之完善；拒绝极权所要求的服从、统一、纪律。极权与自由的欲望天然冲突——因此抱持这种欲望的人必然涉及真正的政治，但他们多对政治权力的争夺不感兴趣。</p>
-<p>关于极权的谎言，韩国电影《逆权大状》中有一段简单而极端的展现：特务机关要把大学生屈打成招为共产主义份子，那些也是“几曾识干戈”的大学生，根本不懂得答出极权想要的答案。及至于屈服，与其它受刑的同伴一起对口供，却是怎么都对不起来，因为那是虚构的谎言，就如要在身体强行植入一个外来的器官，自然出现排斥反应——而痛苦的是谎言必须通过集体来完成结构。当它结构完成之时，极权就已渗入每个人的生活之中，在每个细节都要求谎言的供奉。</p>
-<p>对此，我们应该再认真读哈维尔的《无权力者的权力》。哈维尔所称的“在真实中生活”，包括任何个人或群体以任何形式反叛于操控：“从知识份子的抗议信到工人的罢工抗争、从摇滚音乐会到学生示威、从拒绝参加选举闹剧中的投票到在官方会议上发表公开演说，或者甚至绝食抗议等。”正因为极权的操纵意图压制我们生活中每一个自我完善的目的，那么反过来证明了生活中每一个自由言论，都在政治上对极权体制造成间接的威胁。每一个不同领域的多元实践，都在挖走极权高墙的一块砖，因此写作、唱歌、游行、绝食、暴动都不应被斥为无用。归根究柢，最重要的信念是，相信真实生活中的公共、开放、流动、多元可以渗透社会，让我们做一个有尊严的人，这才是真正的政治，而非政治权力的更替。真实的力量既是外在的也是内在的，哈维尔精确地指出，极权社会意图毁灭人们的道德感与责任感；因此我们亦不可抹煞自己内心的道德感与责任感之呼声，并应以自身的行为去呼应：林荣基已经负起了他的道德责任去揭穿极权的谎言，那我们又该做什么来与他同行？</p>
-<p><strong>“我都可以，为什么你不可以？”</strong></p>
-<p>活在真实中，与极权和谎言对抗，需要付出代价。犹记得程翔先生说过，共产党最坏的地方就是让你觉得自己很对不起自己的家人；评论人长平就因家人被公安胁迫而选择与家人断绝关系，令人感佩悚然。在极权的蔓延中，面向公共与真实，也同时会导致个体与家庭或社群的割裂。林荣基也一样。在如此关口仍以林氏家庭与情感状况转移视线的人，与极权行为同等可耻。</p>
-<p>香港人的痛苦，在于我们尚保有些许光明的记忆，而现正目击黑暗的覆临。官员长期指鹿为马，并用主流媒体与官方渠道去播放粗劣犯驳的谎言，真实的声音常被淹没，你感觉到自己将要活在不义之中，然而身边好像还有许多人对此根本不闻不问。愤怒、厌倦、无力，又没有人能告诉我们如何可以得到胜利。但林荣基说，他回港后翻看新闻，见有6000人游行支持自己，这成为了他说真话的力量。这已经明确显示了，虽然游行后我们不得不回家，不肯定自己的行动可以争取到什么，但一切付出，却有可能在我们不知道的时机，激发出惊天动地的另一些事物，动摇极权的根基。我们必须相信，只能以勇气激发勇气，呼召同道者，如同诗人廖伟棠写过的，“每一只蚂蚁／都在传递一片叫喊的木炭”。</p>
-<p>看到青年网络作家将林荣基的行动描述为传递了绝望的讯息，因为一国两制已经不存在。其实鲁迅一早说过，绝望之为虚妄，正与希望相同。绝望与希望都是人意识的反映，一切是靠行动去模塑实在的结果。绝望是有力量的，如果它可启动义无反顾的绝地反击；但我们应坚拒以绝望作为“不作为”的借口，因为那就是在敌人动手前先从内在杀死自己。说到底，关于绝望，林荣基已经回答了：“我都可以，为什么你不可以？”</p>
-<p>林荣基的形象有特殊的时代意义。他是个书店营运的失败者（2014年因财政营收问题把铜锣湾书店业权出让予巨流媒体），无疑是不够精明和sophisticated，但恰因此，他能够拒绝与极权妥协，显现人性的光辉。因此林荣基的行动也包含一种更世故的感动：他不是香港社会现时最受落的“素人”，相反他比一般港人更了解中共，更有害怕的理由；他已经被迫说过谎，身上有经历与伤痕，包括家庭情爱的失败，包括极权的拘捕威吓——有了这些经历，还依然可以做出反抗，这里面有莫大的希望，像是说明生命依然有无穷的可能与力量，恐怖与折磨不能销毁人的意志、道德、责任感。的确还不能说“我们都是林荣基”，因为林荣基做的、承受的，比我们都多——他仅仅标示了真实的高大，指向了一种提升的可能，其力量可比於坦克前的王维林、为身边的人挡子弹的六四民众。在这个分裂式政治抬头的年代，“我都可以，为什么你不可以？”发出一种跨世代、跨背景与跨政治阵营的吁求，指向了“共同的政治”。香港人得以用行动，再连结为一个希望的共同体。“我都可以，为什么你不可以？”是林荣基留给香港人的最大鼓励。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%82%93%E5%B0%8F%E6%A1%A6%EF%BC%9A%E6%B4%BB%E5%9C%A8%E7%9C%9F%E5%AE%9E%E4%B8%AD-%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E6%A1%A6/?category=18271" rel="tag">邓小桦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%82%93%E5%B0%8F%E6%A1%A6%EF%BC%9A%E6%B4%BB%E5%9C%A8%E7%9C%9F%E5%AE%9E%E4%B8%AD-%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88/" target="cdt-mirror">端传媒 | 邓小桦：活在真实中，“我都可以，为什么你不可以？”</a>
-</h2>
-<p><p>林荣基拒绝了政权的谎言，保住了香港的光明。香港人得以用行动，再连结为一个希望的共同体。“我都可以，为什么你不可以？”</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8B%E5%8D%882.42.51.png?resize=554%2C370" alt="Screen Shot 2016-06-18 at 下午2.42.51" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-下午2.42.51.png?w=554 554w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-下午2.42.51.png?resize=300%2C200 300w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><br>
-铜锣湾书店店长林荣基。摄：吴炜豪/端传媒</p>
-<p>曾在内地被扣查的铜锣湾书店店员林荣基，召开了记者招待会，讲述了他过去七个月内被软禁拘押、不得联络家人和律师，并被要求交出书店读者订书资料的事，等于完全推翻中共官方的原有剧本和台词。这无疑是一颗真实的巨大炸弹，炸开了独裁政权的谎言，也在香港人心中炸开了一个真实的领域。</p>
-<p>当仍受著“保释候查”威胁的林荣基，手持铜锣湾书店的读者订书资料，踏上火车准备回到大陆，把这些资料上缴给权力机关时，心中是转过了怎样的念头，才让他毅然折返，向世界公开他的经历？他眼前必然曾经存在一个世界，一条权威的路径，他本来是沿著那路径的指示回港，向警方销案，对传媒不发一言。他本来几乎要选择向权力屈服，活在那个布满谎言然而可能保住自身平安的世界里。他回港两晚都没睡好；但他仍有足够意志，选择了另一个光明的世界，把话说出来，与香港人站在一起。</p>
-<p><strong>“不义比死亡更能毁灭人”</strong></p>
-<p>香港人，不熟识中共式权力斗争，几曾识干戈？然而近年我们都感受到谎言的威力，那就是巨大的疲累与虚无。看禁书的港人其实没有很多，但确实很多人关怀过铜锣湾书店五子，做出过游行、联署、撰文、行为艺术、网上逐格比照电视认罪的穿崩位等等行动，连政府的新街道在脸书招名字，都有人留言“铜锣湾五子响边道”，获逾千赞好。港人与国际的关注下，其中数人得以回港，但他们回港后都明显处于一种谎言的系统中，港人心知肚明，但是不禁黯然，我们想保护的人，被极权阻隔开来，咫尺天涯。汉娜鄂兰说过，极权最恐怖之处，就是让人们处于孤立隔绝的状况，认定自己无力对抗。所以林荣基的抉择，分外让我们感到，“站在一起”是多么困难的抉择，而正因其困难，它又具有多么巨大的力量。</p>
-<p>乱世来临，每个人都将遭遇巨大的抉择难题，正义与邪恶，生与死，不再是电影中的虚构情节。林荣基当然已经领受过死亡的威胁。好生恶死本乃人之天性；而历史上，人性确曾一再达到“舍生取义”的高度——“真正困难的不是逃避死亡，而是避免做不义之事；不义之事比死亡更难逃避。不义比死亡更能毁灭人。”这是苏格拉底在死亡面前的最后自辩。苏格拉底以死亡去捍卫自己对真理的追求。而在是次事件里，把读者资料给予权力特务机关，显然是不义的；参与巩固整个集团被失踪的谎言剧本，显然是不义的。而林荣基，一位书店业者，被屈颖妍嘲弄为“书业偏门”的禁书书商，一个年届六十的灰发叔叔，就此达到了苏格拉底的高度：他拒绝了政权的谎言，也就是拒绝了不义的毁灭；保住了自己的人格，也保住了香港的光明。</p>
-<p>林荣基的所为，恰如捷克前诗人总统哈维尔在《无权者的权力》中所描述的：“他撕开一切，而颠覆了权力的结构。他证明了活在谎言中，就是活在谎言中。他从高耸的正面直接打穿体制，让权力的真实基础脱然于世。”仅仅是一个赤手空拳的平民百姓，就可以动摇整个体制，因为“他向大家显示，在真实中生活是可能的。”</p>
-<p><strong>活在真实中</strong></p>
-<p>香港身处极权社会与自由社会的交界水域，总有人相信可以周旋在极权与民主的规则之间存活，懂得揣摩生存之道，自诩为聪明人，社会上谓之“sophisticated”，是一种褒赞。对于林荣基的行动，陈云就评为幼稚不堪一哂，嫌他没有和美帝结盟，没有在美国得到政治庇护才开口。是呀，林荣基竟然没有先逃出香港到安全的地方才发言，竟然说视香港为家没有打算离开，真是天真得令人吃惊。他竟然相信，香港可以保护他？还是他认为，即使无人可以保护他，他都要把话说出来？但正是因为这天真、这不顾自身，才引发这么多香港人血性上涌，认为无论如何一定要保护他。香港人就是不想再要那种sophisticated的明哲保身。所谓觉醒，就是发现，勇气，才是存在感的根源。</p>
-<p>这么多香港人为林荣基的勇气激动，是因为林荣基以一个活生生的平凡人，具体呈现了香港人的集体欲望：在真实中生活。在真实中生活，本是平常的；是因为遭遇极权，它才成为这样巨大的欲望。这种欲望是希望可以展示生命的本质，即朝向多元、多样、独立的自我建构与自我组织，亦即朝向人类自身的自由之完善；拒绝极权所要求的服从、统一、纪律。极权与自由的欲望天然冲突——因此抱持这种欲望的人必然涉及真正的政治，但他们多对政治权力的争夺不感兴趣。</p>
-<p>关于极权的谎言，韩国电影《逆权大状》中有一段简单而极端的展现：特务机关要把大学生屈打成招为共产主义份子，那些也是“几曾识干戈”的大学生，根本不懂得答出极权想要的答案。及至于屈服，与其它受刑的同伴一起对口供，却是怎么都对不起来，因为那是虚构的谎言，就如要在身体强行植入一个外来的器官，自然出现排斥反应——而痛苦的是谎言必须通过集体来完成结构。当它结构完成之时，极权就已渗入每个人的生活之中，在每个细节都要求谎言的供奉。</p>
-<p>对此，我们应该再认真读哈维尔的《无权力者的权力》。哈维尔所称的“在真实中生活”，包括任何个人或群体以任何形式反叛于操控：“从知识份子的抗议信到工人的罢工抗争、从摇滚音乐会到学生示威、从拒绝参加选举闹剧中的投票到在官方会议上发表公开演说，或者甚至绝食抗议等。”正因为极权的操纵意图压制我们生活中每一个自我完善的目的，那么反过来证明了生活中每一个自由言论，都在政治上对极权体制造成间接的威胁。每一个不同领域的多元实践，都在挖走极权高墙的一块砖，因此写作、唱歌、游行、绝食、暴动都不应被斥为无用。归根究柢，最重要的信念是，相信真实生活中的公共、开放、流动、多元可以渗透社会，让我们做一个有尊严的人，这才是真正的政治，而非政治权力的更替。真实的力量既是外在的也是内在的，哈维尔精确地指出，极权社会意图毁灭人们的道德感与责任感；因此我们亦不可抹煞自己内心的道德感与责任感之呼声，并应以自身的行为去呼应：林荣基已经负起了他的道德责任去揭穿极权的谎言，那我们又该做什么来与他同行？</p>
-<p><strong>“我都可以，为什么你不可以？”</strong></p>
-<p>活在真实中，与极权和谎言对抗，需要付出代价。犹记得程翔先生说过，共产党最坏的地方就是让你觉得自己很对不起自己的家人；评论人长平就因家人被公安胁迫而选择与家人断绝关系，令人感佩悚然。在极权的蔓延中，面向公共与真实，也同时会导致个体与家庭或社群的割裂。林荣基也一样。在如此关口仍以林氏家庭与情感状况转移视线的人，与极权行为同等可耻。</p>
-<p>香港人的痛苦，在于我们尚保有些许光明的记忆，而现正目击黑暗的覆临。官员长期指鹿为马，并用主流媒体与官方渠道去播放粗劣犯驳的谎言，真实的声音常被淹没，你感觉到自己将要活在不义之中，然而身边好像还有许多人对此根本不闻不问。愤怒、厌倦、无力，又没有人能告诉我们如何可以得到胜利。但林荣基说，他回港后翻看新闻，见有6000人游行支持自己，这成为了他说真话的力量。这已经明确显示了，虽然游行后我们不得不回家，不肯定自己的行动可以争取到什么，但一切付出，却有可能在我们不知道的时机，激发出惊天动地的另一些事物，动摇极权的根基。我们必须相信，只能以勇气激发勇气，呼召同道者，如同诗人廖伟棠写过的，“每一只蚂蚁／都在传递一片叫喊的木炭”。</p>
-<p>看到青年网络作家将林荣基的行动描述为传递了绝望的讯息，因为一国两制已经不存在。其实鲁迅一早说过，绝望之为虚妄，正与希望相同。绝望与希望都是人意识的反映，一切是靠行动去模塑实在的结果。绝望是有力量的，如果它可启动义无反顾的绝地反击；但我们应坚拒以绝望作为“不作为”的借口，因为那就是在敌人动手前先从内在杀死自己。说到底，关于绝望，林荣基已经回答了：“我都可以，为什么你不可以？”</p>
-<p>林荣基的形象有特殊的时代意义。他是个书店营运的失败者（2014年因财政营收问题把铜锣湾书店业权出让予巨流媒体），无疑是不够精明和sophisticated，但恰因此，他能够拒绝与极权妥协，显现人性的光辉。因此林荣基的行动也包含一种更世故的感动：他不是香港社会现时最受落的“素人”，相反他比一般港人更了解中共，更有害怕的理由；他已经被迫说过谎，身上有经历与伤痕，包括家庭情爱的失败，包括极权的拘捕威吓——有了这些经历，还依然可以做出反抗，这里面有莫大的希望，像是说明生命依然有无穷的可能与力量，恐怖与折磨不能销毁人的意志、道德、责任感。的确还不能说“我们都是林荣基”，因为林荣基做的、承受的，比我们都多——他仅仅标示了真实的高大，指向了一种提升的可能，其力量可比於坦克前的王维林、为身边的人挡子弹的六四民众。在这个分裂式政治抬头的年代，“我都可以，为什么你不可以？”发出一种跨世代、跨背景与跨政治阵营的吁求，指向了“共同的政治”。香港人得以用行动，再连结为一个希望的共同体。“我都可以，为什么你不可以？”是林荣基留给香港人的最大鼓励。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E9%82%93%E5%B0%8F%E6%A1%A6%EF%BC%9A%E6%B4%BB%E5%9C%A8%E7%9C%9F%E5%AE%9E%E4%B8%AD-%E6%88%91%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E6%A1%A6/?category=18271" rel="tag">邓小桦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">香港铜锣湾书店</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -671,7 +701,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -681,5 +711,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

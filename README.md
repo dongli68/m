@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,116 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%8Eg20%EF%BC%8C%E5%9C%A8%E8%AF%9A%E6%83%B6%E8%AF%9A%E6%81%90%E4%B8%AD%E9%A2%A4%E6%8A%96%E7%9D%80%E4%B8%8A%E7%8F%AD/" target="cdt-mirror">【图说天朝】迎G20，“在诚惶诚恐中颤抖着上班”</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/2002651217/DBasomq0F" target="_blank">@右耳可塑</a>：为了迎接G20浙江也是拼了….入住绍兴柯桥一个酒店…前台的这段话，笑到翔都出来了….太有才了…请认真读完第二张图片上的字…..</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523kprqgkj20qo0zkguz.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523kprqgkj20qo0zkguz.jpg?resize=450%2C600" alt="775e0851gw1f523kprqgkj20qo0zkguz" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523kprqgkj20qo0zkguz.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523kprqgkj20qo0zkguz.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523jyjo2pj20qo0zkqc6.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523jyjo2pj20qo0zkqc6.jpg?resize=450%2C600" alt="775e0851gw1f523jyjo2pj20qo0zkqc6" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523jyjo2pj20qo0zkqc6.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523jyjo2pj20qo0zkqc6.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<blockquote><p>尊敬的宾客：从今天开始以后的80天，麻烦请勿把自己当客人看了，因为G20峰会期间公安机关分分钟会以反恐的姿态来要求您和您入住的酒店。办理入住时前厅人员会与客人核对身份信息，请客人予以配合，若不配合酒店可以拒住；公安人员会在没有通知的情况下进房间核实登记，提醒客人有心理准备。公安机关也会对酒店总台设置种种钓鱼手段明察暗访酒店，酒店稍有差池就会被停业或被吊销营业执照，那时候您就只能睡大街了。为了您能吃上饭，洗上澡，睡好觉，恳请您思想政治上理解政府反恐姿势，理解和支持我们做酒店人的难处！酒店人每天在诚惶诚恐中颤抖着上班，打扰你们的私密空间表示歉意！这样的打扰并非我们的本意！</p></blockquote>
+<p><strong><br>
+以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/huqifeng94" target="_blank">@扯TT淡</a>：G20简直了，主城区放假十天，全省除杭州外的景点对持有杭州身份证居住证学生证的免费，尽量把人往外赶<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3491942615" target="_blank">@微提斐特</a>：表示本区挨家挨户检查，连家里几个煤气罐及编号都要统计。因为有些农民房还在用煤气罐。以及龙井村下水井盖（也可能不是排水的）全被扒开了，还有一些不敢说<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1236495523" target="_blank">@海南钢琴调律师</a>：满城皆可疑 <img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">//<a href="http://weibo.com/n/%E4%BA%94%E5%B2%B3%E6%95%A3%E4%BA%BA?from=feed&loc=at" target="_blank">@五岳散人</a>: 看着像日据时期……</p>
+<p><a href="http://weibo.com/2278594537" target="_blank">@高桥恬</a>：这个说明一点都不夸张的，非杭州户籍的必须办理居住证，之前还出台政策取消暂住证，现在换汤不换药，要求办居住证<img title="[打脸]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/dalian_org.gif" alt="[打脸]" data-recalc-dims="1">为了g20，杭州主城区所有主路都开始整修，路面和沿街道建筑外立面。不过六月开始，所有大型施工单位都必须停工，g20正式开始时事业单位将放假一个礼拜左右</p>
+<p><a href="http://weibo.com/2704156044" target="_blank">@小珊乖哈</a>：看把人给吓的<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p>@螃蟹跳跳piaji摔劈叉：想暑期去杭州的同学快醒醒，暑期杭州人都不让留在城里好么，各种发补助出政策赶人去外地旅游呢</p>
+<p>@小黑的black：风声鹤唳，草木皆兵</p>
+<p>@快乐天使豆豆123：在思想政治上理解政府的反恐姿势哈。这说明社会该有多动荡，下面的政府被上面的压的透不过气</p>
+<p>@DouMauDau：听说诸暨很多工厂要被迫停工印峰会，不知道杭州办峰会关诸暨屁事</p>
+<p>@陈能1986：国外还有抗议的人，我们都这么和谐了，没枪没炮的，真是神经过度了</p>
+<p>@瞰世界2011：镰刀斧头帮在颤抖！</p>
+<p>@锦衣妹：哈哈哈哈哈哈哈哈，中国梦，我的梦。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%8Eg20%EF%BC%8C%E5%9C%A8%E8%AF%9A%E6%83%B6%E8%AF%9A%E6%81%90%E4%B8%AD%E9%A2%A4%E6%8A%96%E7%9D%80%E4%B8%8A%E7%8F%AD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/g20%E5%B3%B0%E4%BC%9A/?category=18271" rel="tag">G20峰会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%AD%E5%B7%9Eg20/?category=18271" rel="tag">杭州G20</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91-3/" target="cdt-mirror">【CDTV】陆丰乌坎民众游行</a>
+</h2>
+<p><p>来源：Youtube用户<a href="https://www.youtube.com/watch?v=2WCF_T5tntE&index=1&list=PLz-jktblNUgk4wff3fNiUfnCsouiLJ3D6">@城外事</a></p>
+<blockquote><p>相关阅读：</p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5/">德国之声 | 乌坎民选村主任被立案调查</a></p>
+<p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BA%94%E5%B9%B4%E4%B9%8B%E5%90%8E%EF%BC%8C%E4%B9%8C%E5%9D%8E%E6%9D%91%E5%9C%9F%E5%9C%B0%E6%8A%97%E4%BA%89%E7%BA%A2%E6%97%97%E5%86%8D/">端传媒 | 现场：五年之后，乌坎村土地抗争红旗再起</a></p></blockquote>
+<p></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91-3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">乌坎事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E5%9C%B0%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">土地纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E9%80%89%E4%B8%BE/?category=18271" rel="tag">基层选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E8%A1%8C%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">游行示威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BA%94%E5%B9%B4%E4%B9%8B%E5%90%8E%EF%BC%8C%E4%B9%8C%E5%9D%8E%E6%9D%91%E5%9C%9F%E5%9C%B0%E6%8A%97%E4%BA%89%E7%BA%A2%E6%97%97%E5%86%8D/" target="cdt-mirror">端传媒 | 现场：五年之后，乌坎村土地抗争红旗再起</a>
+</h2>
+<p><p>特约撰稿人 Echo Hui 发自乌坎</p>
+<p>抗争领袖做了两届村官，却没有实力撼动盘根错节的土地利益。五年之后，抗争者再次被抓，政治气候大不同前，再次揭竿而起的乌坎村会遭遇什么？</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-%E4%B8%8B%E5%8D%886.05.00.png?resize=553%2C366" alt="村民于华光庙外挥舞国旗，高叫口号。摄：端传媒摄影部" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.05.00.png?w=553 553w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.05.00.png?resize=300%2C199 300w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><p>村民于华光庙外挥舞国旗，高叫口号。摄：端传媒摄影部</p></div>
+<p>挥舞五星红旗，高呼着“共产党万岁、打倒贪官、还我土地”，2016年烈日炽烤下的乌坎村民，仿佛又回到五年前破釜沉舟、保地维权的原点。</p>
+<p>2011年前，发生在广东省陆丰市乌坎村的一场土地维权事件，在抗争领袖和开明官员的共同努力下，万分艰险地由“群体抗争─官府镇压”模式良性转化为一人一票选村官、希冀以民主来维护权利的政治改革试验。尽管范围只局限在一个小小村庄，但抗争领袖经民主选举成为村官，主导追回土地──这个罕见的转型实验，令这个南海边的小村庄一时之间成了国际舆论焦点，不少人甚至试图在其中寻找中国自下而上变革的希望。</p>
+<p>五年之后，当年的抗争领袖林祖恋（又名林祖銮）做了两届村官，但孤军奋战的小小村庄，却没有实力撼动利益关系远超村庄之外、盘根错节的土地问题，当年的核心抗争者杨色茂、洪锐潮入了监牢，庄烈宏在“秋后算账”的阴影中干脆流亡美国，更多抗争者心灰意冷离开了土地维权之事。</p>
+<p>乌坎土地维权，几无实质进展。</p>
+<p>2016年盛夏，压抑着的火种再一次释放了。而这一次，抗争领袖已无其它选项，当年的开明官员代表人物朱明国因贪腐被抓，外部政治环境和五年前大为不同，在当年谈判中曾发挥重要作用的广东省“社工委”机制（以公民社会思维疏导刚性维稳），如今已是新环境中的政治不正确，被取消或边缘化。</p>
+<p>铜锣再次敲响，红旗再次扬起，失望的村民再次聚集在仙翁神庙前。 2016年6月19日，人们看到了和五年前一样的画面，这一次，结果又会如何？</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-%E4%B8%8B%E5%8D%886.00.20.png?resize=554%2C368" alt="村民拿着国旗，沿村内小路走到举行村民大会场。摄：端传媒摄影部" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.00.20.png?w=554 554w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.00.20.png?resize=300%2C199 300w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><p>村民拿着国旗，沿村内小路走到举行村民大会场。摄：端传媒摄影部</p></div>
+<p><strong>华辉地产耕地盖楼 乌坎五年再爆保地上访</strong></p>
+<p>6月19日下午，上千名乌坎民众在仙翁戏台前聚集、游行，要求当局释放在18日凌晨被警方强行带走的村委书记林祖恋，并呼吁当局归还村民被强占的耕地。没有一丝云的蓝天之下，红旗猎猎，人头涌动。数百米外的村口，防暴警察和武警组成七队方阵，大约350人，配备盾牌、警棍和头盔，另有大量武警和公安人员，在车上待命。</p>
+<p>5年前领导乌坎村民维权、后高票当选的乌坎村委会主任、村书记林祖恋，原计画在19日发起村民大会，以“集体上访”方式要求当局直面土地问题。 6月15日，他曾在社交媒体上公开向东海镇政府提出的上访申请。在“上访申请书”中，他强调，乌坎村自2011年的“921事件”以来，村民的涉土诉求没有得到解决，“集体利益深受（地方）政府侵害⋯⋯地方政府不执行省工作组妥善处理涉土问题的安排，反而允许发生‘华辉事件’”。</p>
+<p>两名知情村民告诉端传媒，华辉地产项目是引爆林祖恋决心上访及乌坎民众再度上街游行的直接原因。华辉龙湖湾项目负责人在未征求乌坎村委及村民同意下，在属于乌坎村的耕地上开工建设总占地17万平方米的房地产项目。第一期五座地产项目预计年底开售。</p>
+<p>讽刺的是，该项目正是座落在五年前乌坎村集体上访反对的陆丰碧桂园项目旁。</p>
+<p>村民林文娟告诉端传媒，乌坎村委及村民多次向开发商抗议，指项目未经村民允许，但都未果。 “他们企业负责人说，东海县政府、县长都签字给我（批准使用土地），你们凭什么（干预）。”</p>
+<p>另一名要求匿名的村民则告诉端传媒，“林叔（林祖恋）发火的直接原因是，华辉项目建设用地已经扩大到乌坎，包括一些争议用地，但有关方并没有咨询乌坎村村委或村民的意见。”</p>
+<p>“乌坎自2011年后，土地问题能够解决的希望越来越渺茫，林叔大概是维权太久了，希望通过这件事引起政府注意，不要以为乌坎的意志都消磨殆尽了。”</p>
+<p>林祖恋在公开信中称，乌坎村村民已定于6月19日召开村民大会，讨论决定下周二（21日）组织上访，解决乌坎的涉土、乌坎村边境“四至”、华辉地产项目、东海开发区等，盗卖、炒卖、弄虚作假与农民争利的违法行为。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-%E4%B8%8B%E5%8D%886.01.13.png?resize=553%2C366" alt="林祖恋太太杨珍阻止林祖恋被武警带走时受伤。端传媒摄影部" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.01.13.png?w=553 553w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.01.13.png?resize=300%2C199 300w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><p>林祖恋太太杨珍阻止林祖恋被武警带走时受伤。端传媒摄影部</p></div>
+<p><strong>为上访离婚林老半夜被抓 核心村民纷藏匿避警</strong></p>
+<p>为了这次上访，72岁的林祖恋提前十日，于6月10日与妻子杨珍立约，并于12日将文本照片公布在微博上。两人“自愿脱离夫妻关系”，“家庭成员今后的称呼是朋友、邻居”，就算以后林祖恋暴尸野外“也不用埋修”，而杨珍则“自愿自生自灭，绝无怒言”，两人“绝不后悔”，签字画押。</p>
+<p>但在村民大会前夜，18日凌晨12时许，上身只穿着白色汗衫背心的林祖恋遭十余名武警从家中强行带走。杨珍在与警方冲突时伤及左手臂。其他村民立即敲起象征起事的铜锣，试图阻拦警方，警方随即调集又十辆警车增援，总出警数达300余人，并配有警棍、盾牌等防暴装备。警民双方在村口对峙，至凌晨3时许，才因大雨而终止。一名村民被警方带走。</p>
+<p>18日凌晨3时37分，陆丰市公安局官方微博“平安陆丰”发布消息称：6月17日，陆丰市人民检察院依法对陆丰市东海镇乌坎村党总支书记兼村民委员会主任林祖恋涉嫌受贿罪立案侦查，并采取强制措施。案件侦查正在进行中。</p>
+<p>5时12分，“平安陆丰”再发布一封落款日期为6月17日的“陆丰市公安局致乌坎村广大村民的公开信”，指林祖恋涉嫌利用职权受贿，已被陆丰市检察院依法立案侦查并采取强制措施，呼吁村民“不要被少数不法分子煽动利用而采取过激行为”，并警告称，“对采取违法犯罪行为特别是趁机打砸抢的，公安机关将依法予以严厉打击，决不手软。”</p>
+<p>有知情村民向端传媒表示，林祖恋在被捕之前，曾经与村委的核心成员，以及积极参与维权的村民会面，商讨19日的村民大会和21日游行上访的细节。在林祖恋被带走前一天，一直积极于对外联络的乌坎土地维权青年张建兴已经开始被软禁在家，而在林祖恋被捕当日，一些支持林主张的积极村民也遭到警方骚扰。乌坎村委会干部孙文良及其他6、7名村民，在林祖恋被捕后全部离家，以避免被警方逮捕。 18日，孙文良家被警方敲门，孙父表示，自己也不知道儿子在哪儿。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-%E4%B8%8B%E5%8D%886.01.41.png?resize=554%2C370" alt="村民于村内游行，近村口处有百多名公安戒备，部份配备盾牌。摄：端传媒摄影部" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.01.41.png?w=554 554w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.01.41.png?resize=300%2C200 300w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><p>村民于村内游行，近村口处有百多名公安戒备，部份配备盾牌。摄：端传媒摄影部</p></div>
+<p><strong>村民自发游行要地要书记 副书记：村委无权利解决土地问题</strong></p>
+<p>18日下午，乌坎村委副书记张水金前往林祖恋家中探视杨珍时说，没有必要开村民大会，又称“反正我不开，有其他村民想开他们自己开去。”</p>
+<p>6月19日早上9点，村民们聚集在林祖恋家中，用黑色墨水笔在白色横幅上写下“921薛锦波被捕后死，618林祖恋被捕后生死不明”、“华辉集团勾结官方霸乌坎耕地”两条横幅，决心自行组织这次“村民大会”。</p>
+<p>19日，张水金再次前往林家，称要与杨珍“商量些事”，但被拒于门外。张随后在接受媒体采访时再次表示，不会召开村民大会，因为林书记正被政府侦查，“很多东西还要准备”。对于村民着急的土地问题，张说，陆丰市政府新近成立了一个特别工作组，但工作组有别于村民一人一票投票选出的乌坎村委会，是由政府出面管理，并称乌坎土地问题必须政府出面解决问题，村委会“没有权利做解决”。但5年前，村民们历尽艰辛、甚至付出血的代价，争取民选新村委，就是为了解决土地问题、保障村民的权益。</p>
+<p>在林家门外，被大批记者围访的张水金被问到“担不担心林祖恋的下场和薛锦波一样”，张水金一开始支吾回避，追问之下，终于承认“肯定担心，怎么可能不担心呢？”， “最好是不要…最好是不要把事情弄得那么厉害。”</p>
+<p>到了19日下午2时，数百名乌坎村民已经在村中心戏台集合。 “我来要回土地，”74岁的村民杨宝锐告诉端传媒，“希望媒体报导出去，有青天老爷来救我们。”</p>
+<p>由于领袖林祖恋被捕，戏台上一度缺乏主导者。在杨珍简短地表达感谢村民们的到来后，60岁出头的村民魏永汉自发上台，呼吁所有村民勇敢争取自己“祖宗留下来的土地”。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-%E4%B8%8B%E5%8D%886.02.17.png?resize=555%2C368" alt="上台村民魏永汉。摄：端传媒摄影部" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.02.17.png?w=555 555w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.02.17.png?resize=300%2C199 300w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"><p>上台村民魏永汉。摄：端传媒摄影部</p></div>
+<p>“现在我们没有代表，没有组织者，我们的领导被抓了，我们也不能散漫，不能不文明，现在我们都是自愿过来，”25岁的村民杨某告诉端传媒。</p>
+<p>对于当局指控林祖恋涉嫌受贿，所有受访村民都表示，不相信。</p>
+<p>林祖恋家人表示，由于林早前并没预料自己会提前被捕，组织这次村民大会变得十分困难，幸好有数名村中年轻人主动上台协助游行，包括分发国旗、协助队伍文明游行等。游行民众高峰时达两千人，从仙翁戏台出发，经金港大道到村口新乌坎市场，再返回戏台。</p>
+<p>与2011年的乌坎游行不同，当局并未直接与民众发生冲突，而是采取了更多暗里对策。约350名防暴警、武警，看守在陆丰市公安局乌坎边防派出所前，但并没接触游行队伍。更多武警、便衣及交警则早在两日前进驻村内，数百米长的金港大道两旁停满了警用车辆，有武警直接在大巴上轮流歇息，有村民称总出警数有近2000人。</p>
+<p>游行结束后，大队临时决定于20日征集村民集体签名，进一步向政府施压，要求释放林祖恋。</p>
+<p>截至发稿时，陆丰当局未有公布林祖恋的进一步消息，张建兴还在软禁之中，21日的游行上访是否能如期成事仍是未知之数，乌坎还能取得五年前的对话协商成功，同时避免五年前军警围村的恐怖吗？ “五年后，贪官们更猖獗了，你有多少记者来都不怕，都没有用，他们知道怎么应对，”曾走在2011年维权抗争第一线、2014年逃往美国寻求政治庇护的庄烈宏向端传媒如是说。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-%E4%B8%8B%E5%8D%886.02.50.png?resize=552%2C369" alt="参与游行的村民乘着插满国旗的摩托车，驶经停泊于村口的公安车辆。摄：端传媒摄影部" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.02.50.png?w=552 552w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-20-at-下午6.02.50.png?resize=300%2C201 300w" sizes="(max-width: 552px) 100vw, 552px" data-recalc-dims="1"><p>参与游行的村民乘着插满国旗的摩托车，驶经停泊于村口的公安车辆。摄：端传媒摄影部</p></div>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BA%94%E5%B9%B4%E4%B9%8B%E5%90%8E%EF%BC%8C%E4%B9%8C%E5%9D%8E%E6%9D%91%E5%9C%9F%E5%9C%B0%E6%8A%97%E4%BA%89%E7%BA%A2%E6%97%97%E5%86%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">乌坎事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E5%9C%B0%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">土地纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/twitter%EF%BD%9C%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C%EF%BC%9A/" target="cdt-mirror">Twitter｜吾尔开希：台湾立法院通过『谴责六四屠杀临时提案』</a>
+</h2>
+<p><div><a href="https://twitter.com/wuerkaixi" data-user-id="23574948"><strong data-aria-label-part="">吾尔开希</strong> ‏<span data-aria-label-part="">@wuerkaixi</span> </a><small> <span data-aria-label-part="last" data-time="1466088033" data-time-ms="1466088033000" data-long-form="true"><a title="7:40 AM - 16 Jun 2016" href="https://twitter.com/wuerkaixi/status/743453213932818432">Jun 16</a>：</span></small>台湾国会——立法院，日前，6月14日通过『谴责六四屠杀临时提案』。此案由尤美女委员在六6月3日提出，并在之后十天征集了64位委员联署。台湾立法院总人数为113位国会议员，是案联署人数已过半，在大会无异议通过。</div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvIHXEAQ0gRu.jpg?resize=550%2C376" alt="ClFGvIHXEAQ0gRu" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvIHXEAQ0gRu.jpg?w=1144 1144w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvIHXEAQ0gRu.jpg?resize=300%2C205 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvIHXEAQ0gRu.jpg?resize=768%2C525 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvIHXEAQ0gRu.jpg?resize=1024%2C700 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvKDWIAINlJs.jpg?resize=550%2C376" alt="ClFGvKDWIAINlJs" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvKDWIAINlJs.jpg?w=1144 1144w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvKDWIAINlJs.jpg?resize=300%2C205 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvKDWIAINlJs.jpg?resize=768%2C525 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvKDWIAINlJs.jpg?resize=1024%2C700 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvPpXEAAjFND.jpg?resize=550%2C309" alt="ClFGvPpXEAAjFND" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvPpXEAAjFND.jpg?w=1186 1186w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvPpXEAAjFND.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvPpXEAAjFND.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvPpXEAAjFND.jpg?resize=1024%2C576 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGwVEXIAQODQL.jpg?resize=549%2C366" alt="ClFGwVEXIAQODQL" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGwVEXIAQODQL.jpg?w=1200 1200w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGwVEXIAQODQL.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGwVEXIAQODQL.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGwVEXIAQODQL.jpg?resize=1024%2C683 1024w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></div>
+<div></div>
+<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/twitter%EF%BD%9C%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C%EF%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E7%AB%8B%E6%B3%95%E9%99%A2/?category=18271" rel="tag">台湾立法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C/?category=18271" rel="tag">吾尔开希</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E5%BC%A0%E4%BC%A6%EF%BC%9A%E5%A4%B1%E5%8E%BB%E6%96%B9%E5%90%91%E7%9A%84%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">BBC | 张伦：失去方向的中国</a>
 </h2>
 <p><p>作者：张伦，法国赛尔奇蓬多瓦兹大学副教授</p>
@@ -535,168 +642,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E8%8D%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9D%A8%E6%81%92%E5%9D%87%E7%9A%84%E5%8D%9A%E5%AE%A2-%E5%90%B4%E5%BB%BA%E6%B0%91%E5%A4%A7%E4%BD%BF%E7%9A%84%E5%8B%87%E6%B0%94%E6%9D%A5%E8%87%AA%E5%93%AA%E9%87%8C%EF%BC%9F/" target="cdt-mirror">杨恒均的博客 | 吴建民大使的勇气来自哪里？</a>
-</h2>
-<p><p>吴建民大使凌晨四点武汉车祸不幸身亡。他的去世刷爆了朋友圈，成为微博热搜。从绝大多数网友的留言不难看出，吴大使是一位受人尊重的长者，是一位敢言的外交官，是一位退而不休、勇敢的人。只不过，他的勇敢是与“软弱”联系在一起的。尤其是和《环球时报》的争论，被不少网友定义为“鸽派”，标上“软弱”甚至“投降派”的标签。</p>
-<p>我也是外交系统出来的，我知道中国有无数个外交官，早在中国还没有改革开放之时，他们就享受了国人远远不及的接触外界的机会以及满世界跑的特权，他们大多和吴建民一样，清楚外界是个什么样子，以及中国该怎么做才符合国家与民众的利益，但放眼看去，有几个外交官敢像吴建民一样勇敢地站出来，把心里的话说出来？</p>
-<p>在中国，宁左勿右，把喊打喊杀的极端民族主义等同于爱国主义，甚至把激进和呼喊口号当成是政治资本，叫嚣踏平东京、占领白宫、收复太平洋、搞定东南亚的大有人在，以《环球时报》为主的一批官媒更是把消遣中国外交当成生意做，这使得体制内的人，尤其是外交官，即便看到了哪些符合国家和民众的利益，也不敢贸然出来表达意见，更不敢“唱反调”。在这个国家，懦夫反而都是言语上的“勇者”，而只有直面现实的真正勇者，才敢于直面“软弱”。吴建明就是其中的代表人物。</p>
-<p>言论开放的互联网时代，不论鹰派、鸽派还是其他各种言论，都应该允许并充分传播，民众的眼睛是雪亮的。可由于极左思潮长期占据外交舆论领域，结果使得原本对外开放、正确吸收人类先进经、利国利民的事，反而成了不得不躲躲闪闪。游逛海外20多年后回到中国，我发现，一帮真正有有可能把中国引到引火烧身的邪路上的极端分子占据了外交舆论阵地。从叫嚣“中国可以说不”弄到世界都快要“对中国说不”，这些所谓的强硬派没有收回一分一毫的土地，没有取得一项进步的作用，却把中国在国际上弄得好像一个变态的暴发户，让本来举步维艰的外交更是内外受气、腹背受敌。</p>
-<p>这就是吴建民这种敢言的体制内人士令人敬重的理由。这个时代需要吴建民这样的人，他的离开无疑是中国外交领域的巨大损失。我们不能误读世界，世界才不会误会我们。最能告慰吴建民大使的，就是我们一起记住这点。</p>
-<p>那么，在一个巨大的外交群体都沉默不语，在一个歪曲甚至谎言充斥电视屏幕，在一个喊打喊杀就是政治正确与政治资本的时代，吴建民大使的勇气到底来自何方？他不怕被别人定为汉奸、卖国贼？他不怕被打击报复吗？</p>
-<p>我认为，吴建民的勇气来自于他对世界和中国的了解，来自于对中国国家利益与国家安全的深层认知，来自于他对这个国家、对这块土地上民众的热爱。对吴建民最好的悼念，就是让我们感受他这份对国家与民众的热爱，以及继承他敢于说真话的勇气。</p>
-<p>杨恒均 2016年6月18日</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%9D%A8%E6%81%92%E5%9D%87%E7%9A%84%E5%8D%9A%E5%AE%A2-%E5%90%B4%E5%BB%BA%E6%B0%91%E5%A4%A7%E4%BD%BF%E7%9A%84%E5%8B%87%E6%B0%94%E6%9D%A5%E8%87%AA%E5%93%AA%E9%87%8C%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%BD%A6%E7%A5%B8%E9%80%9D%E4%B8%96/?category=18271" rel="tag">吴建民车祸逝世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%81%92%E5%9D%87/?category=18271" rel="tag">杨恒均</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%9F%E6%B5%AA%EF%BC%9A/" target="cdt-mirror">孟浪：香港6月18日現場直擊</a>
-</h2>
-<p><p>2016的紧急状况：言论自由在香港（信息自由观察图文报道）</p>
-<p>香港的独立图书出版界的同行、独立中文笔会之友、勇敢的香港人林荣基（铜锣湾书店店长，图中戴蓝色棒球帽、穿白底花色衬衣者），6月18日下午现身香港街头，参加抗议集会和游行，向强权说不，捍卫言论自由，捍卫人身自由。</p>
-<p>附：香港《苹果日报》报道：</p>
-<p>【被失踪真相】游行队伍到达中联办 大会宣佈6千人参与</p>
-<p>拒出卖读者的铜锣湾书店店长林荣基，豁出去公开被失踪真相，激励港人向强权说不，有传媒随即引述宁波公安局，宣称将启动与港警的工作机制，暗示不会就此了事，白色恐怖笼罩全城。多个政党下午3时发起「向强权说不」游行，由铜锣湾东角道集合，游行到中联办，抗议中共破坏一国两制，林将出席及发言，《苹果》直播今次游行。</p>
-<p>【下午2时16分】</p>
-<p>有泛民成员已在游行起步点、铜锣湾书店前架起横额，呼吁市民「向强权说不」，要求「捍卫言论和人身自由」，惟铜锣湾书店并无开业。记者现场目测，至少有近30名军装警员戒备，亦有便衣警员。</p>
-<p>【下午2时22分】</p>
-<p>保卫香港自由联盟发言人韩连山、女长毛雷玉莲现身撑场。韩连山指，铜锣湾事件令港人人心惶惶，希望更多港人关注事件，更多人撑林荣基，指林挺身爆料后，人身安全一定受威胁，他希望政府依法保护香港人。</p>
-<p>【下午2时36分】</p>
-<p>林荣基于民主党立法会议员何俊仁及单仲偕陪同下现身，林手持一封市民支持信，信封面写有「烦请何俊仁先生转交林荣基先生」，林荣基则指「多谢香港人」。林上台带领喊「向强权说不，香港有底线」口号，台下随即鼓掌，亦有人高喊「加油！」</p>
-<p>林指，香港法例保障出版自由，但中央政府以暴力摧毁书店，收窄港人自由。他指，李波人虽在港，但背后仍被操控，指理解李波「要讲违心嘅说话」，丧失免于恐惧的自由。林指，自己会尽力帮助李波，希望港人亦会尽力帮助李波，「唔好因为呢件事完结就无」。</p>
-<p>林荣基又指，雨伞运动时「落咗去三四次」，自己很同情学生，认为大多数港人为生计忙碌，不多参与政治，但各人心中仍会默默关注事件。林指，自己会尽力帮助李波，希望港人亦会尽力帮助李波，「唔好因为呢件事完结就无」。</p>
-<p>【下午3时】</p>
-<p>游行开始，林荣基在开步前多次发言指「多谢香港人，我哋应该多谢香港人」。游行队伍将向东角道方向出发。林又指，香港人的特性是「无事时唔会出声，有事嘅时候就会企哂出嚟」，指不清楚中国政府是否了解香港人。希望此事后，中国政府更明白香港人诉求，指他不是希望推翻某一个政权，只是希望安居乐业，享有言论、出版、集会、结社和免于恐惧的自由。</p>
-<p>何俊仁指，记招后不少市民表示感动，并感激林荣基。何形容林「只係一个有腰骨的香港人」，说出香港人想知的真相，希望香港人能支持林荣基。</p>
-<p>【下午3时40分】</p>
-<p>林荣基游行至湾仔仍未离队。他接受本报访问时称，过往也曾参与不同游行，包括89年六四事件游行，「八号风球你记唔记得？」。问到他今天感受如何，他说：「香港人咁多人出嚟，好高兴有咁多人」。他摇头表示不担心日后安全，「咁多人唔怕嘅，香港有700万人，有乜好怕？係嘛」。被问到有甚麽话跟香港人说，他拿过记者录音笔说：「香港人係唔怕强权嘅！」</p>
-<p>【下午3时54分】</p>
-<p>约十名爱港之声成员出现在修顿球场外，拉起写有「林荣基在内地违法被拘应该，反中政棍诬衊政府可耻」横额。警方划出示威区，但示威区佔用一半游行路，令游行队伍届上址时犹如进行樽颈位。游行队伍亦刚经过修顿球场，有游行人士斥爱港之声「人渣垃圾」。</p>
-<p>另外，一名光头男子于湾仔推手推车狙击游行队伍，批评泛民议员乱港，警方指「我地会有同事处理」，并随即派出三警员上前查问。</p>
-<p>【下午4时12分】</p>
-<p>林荣基称「有啲攰」，决定先行回立法会稍作休息，「想返去坐一坐」。林指，自己虽然先行离开，「其实我一直都係同香港人一齐，好高兴香港係有希望嘅！」对于特首梁振英下周回港，林荣基指完全不期望梁振英可协助他，称「一啲信心都冇，佢哋係做唔到嘢」。林又指，现时政府需要挽回的，是港人的信心，而并非他一人。</p>
-<p>被问及往后会否继续经营「禁书」业务，林荣基回应指，「禁书係佢定㗎啫，香港係冇禁书嘅！」有市民向他高举姆指，大讚「好嘢！好嘢！够胆讲真话！」，林则挥手回应「多谢」。</p>
-<p>【下午4时34分】</p>
-<p>林荣基在单仲偕及何俊仁陪同下，到达立法会九楼休息。问到现时会否要求警方人身保护，林指「暂时唔需要」，指，「唔惊得咁多㗎嘞，有香港人保护我，呢度咁多香港人，我有乜好惊？」他又指仍相信香港司法制度，「三权分立架嘛！」</p>
-<p>【下午5时42分】</p>
-<p>游行队伍到中联办。林荣基乘车离开立法会。大会宣佈于湾仔柯布连道点算，有6,000人参与今次游行。泛民会议召集人何秀兰指，改变需要由「在地」开始，感谢今日出席游行的港人，并希望香港人继续努力，捍卫真相、一国两制及出版自由。</p>
-<p>有社民连成员欲把示威物扔进中联办，遭警方阻止。韩连山及女长毛雷玉莲，在中联办外焚烧道具共产党旗。</p>
-<p>【下午6时26分】</p>
-<p>游行人士已陆续散去。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-23.jpg?resize=550%2C309" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-23.jpg?w=2048 2048w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-23.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-23.jpg?resize=768%2C432 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-23.jpg?resize=1024%2C576 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4-1.jpg?resize=540%2C960" alt="4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4-1.jpg?w=540 540w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4-1.jpg?resize=169%2C300 169w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2.jpg?resize=540%2C960" alt="2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2.jpg?w=540 540w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2.jpg?resize=169%2C300 169w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6-1.jpg?resize=548%2C308" alt="6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6-1.jpg?w=2048 2048w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6-1.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6-1.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6-1.jpg?resize=1024%2C576 1024w" sizes="(max-width: 548px) 100vw, 548px" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3-1.jpg?resize=550%2C309" alt="3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3-1.jpg?w=2048 2048w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3-1.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3-1.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/3-1.jpg?resize=1024%2C576 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5-1.jpg?resize=551%2C310" alt="5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5-1.jpg?w=2048 2048w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5-1.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5-1.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/5-1.jpg?resize=1024%2C576 1024w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8.jpg?resize=550%2C309" alt="8" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8.jpg?w=2048 2048w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/8.jpg?resize=1024%2C576 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7.jpg?resize=540%2C960" alt="7" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7.jpg?w=540 540w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7.jpg?resize=169%2C300 169w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"></p>
-<hr><p><small>© 中国好网民 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%9F%E6%B5%AA%EF%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%80%9D%E8%80%83%E8%80%85ithink%EF%BD%9C/" target="cdt-mirror">思考者iThink｜吴建民留下的话：中国这个势头如果丧失了</a>
-</h2>
-<p><h2><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-7.jpg?resize=375%2C559" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-7.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-7.jpg?resize=201%2C300 201w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></h2>
-<div>
-<p>今晨，武汉</p>
-<p>吴建民先生因车祸不幸去世</p>
-<p>在此特刊吴先生今年3月30日</p>
-<p>重返外交学院的精彩演讲《准确认识今天的世界》</p>
-<p>以表缅怀</p>
-<p>演讲中，他最后留下的话是：</p>
-<p><strong>中国现在这个势头</strong></p>
-<p><strong>鸦片战争以来是第一次</strong></p>
-<p><strong>这个势头丧失了，再要找回来</strong></p>
-<p><strong>你们年轻人到我这个年纪，也未必找得回来</strong></p>
-<p><strong>演讲 | 吴建民</strong>（前驻法大使、外交学院前院长）</p>
-<p><strong>记录整理 | 俗子录</strong></p>
-<hr><section><section><section><section><section><strong>01</strong></section></section><section><section><strong>准确认识世界的重要性</strong></section></section></section></section></section><p>现在的世界，是一个大反思的时代，全球几乎同时大反思，这是人类历史上几乎第一次。崇拜权威是必要的，同时要独立思考，检验这个思想对不对，还是要坚持实事求是，实践是检验认识真理性的唯一标准。我觉得外交学院的学风很好，生源很好，各个单位反应很好，氛围好老师好，希望大家在这样一个氛围下健康成长——中国太需要懂世界的人才了，太需要向世界说明中国的人才。</p>
-<p>同学们，要珍惜每一次在大庭广众下交流的机会。中国人很多不擅长交流，讲话打动不了人，就不能很好地让人接受观点。</p>
-<p>我们中国人也必须懂得，几百年怎么落后的？我哥哥是一个少将，他去南京大屠杀纪念馆，说这是中国军人的耻辱。为什么中国受人入侵?为什么中国军人保护不了老百姓?关键是中国落后了。中国人为什么落后于世界?</p>
-<p>世界大变化主要是六百年。1492年哥伦布发现新大陆，可是早于哥伦布，1405~1433年，郑和下西洋。我去新加坡看到他们办了一带一路的展览。一走进展览大厅就很震撼，迎面看到当时郑和下西洋宝船的船头，特别高大、宏伟。郑和下西洋的舰队有六、七十艘舰艇，船上有2.8万海员，浩浩荡荡。哥伦布发现新大陆，他只有三艘船，船上87人。</p>
-<p>这种对比，大家感受一下。那个时候中国的造船技术全球最先进，非常了不起。邓小平说，中国在明成祖朱棣的时候是开放的，后来就封闭了，实行海禁，不准下海，违者斩首。郑和下西洋的舰队是全球最强大的舰队，不许下海，最强大的舰队烂在海里了。最先进的造船技术被搁置了。郑和下西洋是中国有史以来第一次走向世界取得大发展的机遇。这个机遇被中国人自己丢掉了，如果我们中国人沿着郑和下西洋这条路走下去，世界的历史要改写。中华民族过去100年受屈辱的历史就不可能出现。</p>
-<p>后来还有没有机会呢?有！开放的机会，康乾盛世，了不起的皇帝。满族的皇帝和汉族的皇帝不一样，马背上的民族，非常注重开疆拓土，给中国的国土面积呢增加了八百九十万平方公里，后来丢了三百万，也还有五百九十万平方公里。康熙大帝，了不起，中国历史上很了不起的皇帝，很关注世界，当时外国传教士到中国来，康熙大帝请外国传教士给他传授现代科学知识，他看到欧洲工业起来了，很厉害，所以康熙大帝镇压准葛尔叛乱的时候引进了洋枪，起了很大的作用。</p>
-<p>去年我和故宫博物院的院长聊天，他说满清的时候故宫里住了一百多个外国人，蛮开放的。有比较才有鉴别。你比较同时代外国的皇帝，俄罗斯的彼得大帝。康熙大帝1654年生，彼得大帝1672年生。他们都是很小的时候当皇帝，康熙8岁当皇帝，彼得大帝10岁当皇帝。康熙大帝看到欧洲有好东西，请他们来讲课，彼得大帝在位时，身边有个大臣，有一天跟彼得大帝说欧洲走到我们前面去了，不如去看看;彼得大帝带着200多人去欧洲微服私访，考察了一年半，回到俄罗斯后，实行开放政策，“走出去，请进来”，在他的手上，俄罗斯走上了崛起之路。彼得大帝有一句名言：“给我二十年，我还你一个崭新的俄罗斯。”普京总统也说：“给我二十年，我还你一个强大的俄罗斯。”彼得大帝做到了，普京总统能不能做到，不好说。</p>
-<p>彼得大帝抓住了“开放”，这是个很伟大的皇帝。</p>
-<p>彼得大帝怎么死的，也很有意思。1724年深秋，他视察圣彼得堡，发现有人掉到海里去了。彼得大帝跳下水救人，人是救起来了，但自己受了风寒，一病不起，1725年初病逝。这样的事情在中国大概不可能发生。皇帝要跳下海救人，早被太监拉住了。这就是彼得大帝受到文艺复兴、启蒙运动的影响，珍视人的生命。思想的力量是巨大的。</p>
-<p>这个时候，如果康熙大帝也出国访问，对外开放，之后的屈辱史也不会发生。</p>
-<p>中国怎么落后的?停滞不前。中国人不乏人才，但为什么这些机会都丢掉了呢?强大的惯性，两千年只看内不看外的惯性。惯性思维的危险就在于，人们在做的时候不问为什么，习惯成自然，非常可怕。我在1991年1月到1994年当发言人，国家主席没有发言人，总理没有发言人，所以出访的时候要随访。江泽民主席喜欢与别人交流，有一次他问：“毛主席很伟大，邓小平也很伟大。为什么毛主席没有提出改革开放，而邓小平提出了改革开放?”我说，两人的经历不一样，毛主席一生就出国两次，都是去苏联。毛主席没有去过西方世界。</p>
-<p>邓小平1920年10月去法国，时年16岁。1926年1月离开法国去苏联，时年21岁。16岁至21岁是人生的重要阶段。邓小平是从四川到法国，对比太鲜明了。一个人的胆识、能力，和他的经历有很大关系。见过没见过有很大区别。今天中国人走出去，好事情!为什么见过世界、没见过世界就不一样呢?这就是因为文明对话是人类文明进步的源泉。邓小平有了去法国的经历，提出改革开放，这就是文明对话的结果。</p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/MomwGYRkJcsdEe2ibPb5K6ibkl8hJWgHHCDcJKKMATc89pPCEozEnzTo8jRibus1pvYZIv2GkyVkp5jniaWC1LtIkQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" width="551" height="370" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/MomwGYRkJcsdEe2ibPb5K6ibkl8hJWgHHCDcJKKMATc89pPCEozEnzTo8jRibus1pvYZIv2GkyVkp5jniaWC1LtIkQ/0?wx_fmt=jpeg" data-ratio="0.670863309352518" data-w=""></p>
-<p>今天的中国，要消除封闭的惯性。有些人讲起来慷慨激昂，说改革开放三十多年，大钱都被洋人拿走了，中国人挣的是血汗钱。这些话听起来似乎有道理，按照这些话的思路再深入地想下去，改革开放对还是不对?按这些人的逻辑，那中国还是要回到封闭最好。回到封闭的状态，那不就完了吗?习近平总书记讲得好：“必须坚持改革开放，改革开放是关键的一招。”中国发展只能一步一步来，你一下子能跳到高端吗?不可能。大的开放思路要违背了，那不行，中国要倒霉。要警惕封闭的思维，长期封闭的惯性思维自觉不自觉地影响人的行为。</p>
-<p>在现代，凡是我们正确地认识世界的时候，我们国内的方针也比较正确，我们的事业就大踏步前进;凡是我们对世界看错了的时候，我们国内方针也会出问题，我们就倒大霉。</p>
-<p>1946年，中国国内议论纷纷，毛主席在4月写了一份一页半的文件：关于目前国际形势的几点估计。第一，世界大战会推迟；第二，美苏之间迟早会妥协；第三，与资本主义反动派的关系，能消灭的先消灭，不能消灭的之后再消灭。这些认识对了，因此中国就大踏步前进。</p>
-<p>1958年中央八届六中全会公报指出：“当前国际形势总的特点，是敌人一天天烂下去，我们一天天好起来”。1959年大学毕业后我被外交部录用，在国外干了25年，回头一看，1958年是西方世界一天天烂下去吗?完全错了，完全看颠倒。国内方针也错了，大跃进、超英赶美……很多资料现在都解密了，到了1958年6月，毛主席头脑就更热了，说，赶上英国，有三年差不多了吧，赶上美国，十年可以了，有充分的把握。7000万人上山炼钢，发疯了，我也参加过炼钢，亚青参加过吗?哦，参加过。当时我还当了炉长。炼了之后很开心，晚上吃夜宵不要钱，放开肚皮吃饭，但是好景不长。1959年、1960年、1961年，饥荒了，死多少人啊。根据国家统计，在这之前每年增加1000万，这几年不仅没有增长，还减少了1000多万。世界看错了，国内方针错了，中国人就倒大霉了。</p>
-<p>20年之后，1978年10月，邓小平到日本访问，这是外交上非常重要的一着棋——中日关系一定要搞好。邓小平去尼桑(日产)看，去比较这里和中国最先进的长春汽车厂的劳动生产率——一下发现，日产是长春的几十倍。所以邓小平感慨，我现在明白了什么是现代化，回来了三中全会。</p>
-<p> </p>
-<p>这三个例子说明了什么?要准确认识世界。这个太重要了。</p>
-<p> </p>
-<p><img src="http://mmbiz.qpic.cn/mmbiz/MomwGYRkJcsdEe2ibPb5K6ibkl8hJWgHHCDVeP5mWwtnoeCdJag7X7yZyPqoc4fr6snnwW5P7JKb3lVY3sf7CmVg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" width="551" height="357" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/MomwGYRkJcsdEe2ibPb5K6ibkl8hJWgHHCDVeP5mWwtnoeCdJag7X7yZyPqoc4fr6snnwW5P7JKb3lVY3sf7CmVg/0?wx_fmt=jpeg" data-ratio="0.6492805755395683" data-w=""></p>
-<section><section><section><section><section><strong>02</strong></section></section><section><section><strong>世界大变化</strong></section></section></section></section></section><p>第二个问题，世界大变化。</p>
-<p>我去了很多大学，问他们世界现在最大的变化是什么，有人说全球化，有人说信息革命，有人说金砖国家崛起。我说都不对，你们觉得是什么?对，就是时代主题变了，和平与发展是当今时代的主题。</p>
-<p>时代主题的变化，是国际关系中最大的变化。(由“战争与革命”转变为“和平与发展”)</p>
-<p>我和罗援将军有一场辩论，凤凰卫视，他气很足啊，“说该出手时就出手”。我打断他了，说你是不是要打仗，他不敢回答。我说你犯了时代错误。</p>
-<p>什么叫时代主题?第一，反映了某个时期世界的主要矛盾。第二，指出了解决主要矛盾的路径。</p>
-<p>现在很多人还有战争与革命的惯性思维，总想着打一仗——美国打不过，菲律宾可以打啊?完全搞错了时代。</p>
-<p>2011年“911”十周年前夕，华盛顿邮报记者对我进行采访。他第一句话说，中国是“911”最大的受益者，我说这不对。也有人说乌克兰危机为中国迎来了十年发展机遇期——这话不对啊，怎么你老想着别人倒霉呢?别人倒霉你走运，那别人走运是不是你要倒霉呢?人家外国人一看，你中国怎么总是幸灾乐祸呢?这些所谓的“战略家”，站不住脚，没有抓住时代主题大的脉络。环球时报经常发表一些文章很极端的，去年胡锡进请我参加环球时报论坛，有个开场白，他一上来把这个世界讲得一塌糊涂。我说你们的眼睛里没有全局啊，世界大势你看不到，抓不住主流。我心里说这就是今天的中国，他是报社主编，很有学问的，但是没有把握大局。世界是在进步还是在倒退?我看世界在进步。有些人很容易悲观，战争迫在眉睫。我们当然要有强大国防，全世界军队都要准备打仗，这是一回事。但我们对形势如何客观地正确估量，那是另一回事。2014年11月，APEC在北京举行峰会，习近平和安倍会面，和奥巴马会面之后，国内谈论战争的狂热减退了。</p>
-<p>时代主题变了，这其中有很多原因。两次世界大战的惨痛教训是很重要的，后来大家痛定思痛，成立了联合国，联合国宪章是很重要的，我们要关注联合国的作用。为什么说现在已经不是革命的时代呢?人活得下去绝对不会革命，革命的时代过去了，“颜色革命”没有成功的，索罗斯自己也这么说。当然我们要看到这个世界，贫富差距过大，穷人太多，所以只有发展才能解决问题，发展是主题。</p>
-<p> </p>
-<section><section><section><section><section><strong>03</strong></section></section><section><section><strong>中国外交</strong></section></section></section></section></section><p>中国外交战略是什么?三不：不扩张、不称霸、不结盟;三要，要和平，要发展，要合作。</p>
-<p>“结伴不结盟”，这是习近平主席说的。中国不能去结盟，一结盟新的冷战就开始了，中国倒霉，世界倒霉。</p>
-<p>中国面临很多问题，靠发展才能解决。中国人在现阶段最大的利益是什么?这个问题想清楚了，其他问题就好办了。我想，就是邓小平讲的，发展是硬道理，最大的利益就是保持发展的势头。你们读孙子兵法有一个“势篇”，势头来了，就好办了。“时来天地皆同力，运去英雄不自由”。</p>
-<p>经常嫌外交软的就是军方，之前我去国防大学讲课，他们就正好问到外交的问题。我说，近三十年中国的发展，离不开中央的正确方针，难道中国外交没有功劳吗?软硬都是手段，哪个难?软难。硬，你打我一下我踢你一脚，这三岁小孩子也会，没有难度。讲道理，谈判，软实力，这个很难——首先别人要喜欢你。你讲的东西别人反感，这哪有软实力?外交，从来大权在中央——哪一件事情是外交部自作主张的呢?没有。大事儿全是中央定的，你对中央有意见不对中央说，拿外交部撒气算什么本事。</p>
-<p>要想透，中国人要什么，想不透，抓不住牛鼻子，问题就没法解决。中国现在这个势头，鸦片战争以来是第一次，这个势头丧失了，再要找回来，你们年轻人到我这个年纪，也未必找得回来。虽然中国的力量起来了，但要完全发展起来，至少还要三五十年。切记，切记，不要“夜郎自大”。</p>
-<p>准确认识世界的重要性、世界大变化、中国外交，今天我就讲这三点。</p>
-</div>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%80%9D%E8%80%83%E8%80%85ithink%EF%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AE%BA%E6%88%98/?category=18271" rel="tag">吴建民胡锡进论战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%BD%A6%E7%A5%B8%E9%80%9D%E4%B8%96/?category=18271" rel="tag">吴建民车祸逝世</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E5%A4%A9%E5%A0%82%E9%87%8C%E4%B8%8D%E5%88%86%E9%B8%BD%E6%B4%BE%E9%B9%B0%E6%B4%BE-%E5%90%B4%E5%A4%A7%E4%BD%BF%E5%AE%89%E6%81%AF%EF%BC%81/" target="cdt-mirror">导弹熊 | 天堂里不分鸽派鹰派  吴大使安息！</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8A%E5%8D%887.56.50.png?resize=534%2C375" alt="Screen Shot 2016-06-18 at 上午7.56.50" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.56.50.png?w=534 534w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.56.50.png?resize=300%2C211 300w" sizes="(max-width: 534px) 100vw, 534px" data-recalc-dims="1"></p>
-<p>吴建民大使不幸车祸去世，这是本时代的一个损失。</p>
-<p>因为本时代的中国虽然气血实际不足，但喜欢亮肌肉的人不在少数，吴大师那种温和稳健的声音，就显得非常可贵。没有这种声音的制衡，人家会觉得中国好躁动。</p>
-<p>我跟他打交道不多，最早是在《读书》上看过他的亲笔文章；后来做一个国际报道的策划，曾经请他来做讲座，除了佩服他学养深厚，也喜欢那种如沐春风的感觉；再后来，在一些参考信息上看到他在各种公开场合的发言，觉得他越来越警惕外交冒进和国力虚荣。</p>
-<p>我觉得抛开外交官的标签，他身上有一种士大夫气质，这是今天中国官员所欠缺的。在朝少士大夫，在野就少乡贤；在朝少大儒，在野就少清流；在朝少身言书判都很好的官员，在野就少仪表和风度都很好的民众。</p>
-<p>理论上说，我们应该称他为前大使，但我觉得他本色上还是个外交官，而且退休后依然是中外交流的一个大使，所以就这样叫下去好了。</p>
-<p>我不太喜欢人家说他是鸽派。如果非要安一个什么派给他，那就是务实派，或者说理性派。对外交而言，务实和理性，就意味着进退有节、张弛有度、刚柔并济，既不得虚名而受实祸，也不见利忘义不讲规矩。</p>
-<p>作为职业外交官，他经历了新中国的前三十年和后三十年，深谙中国外交曾经走过的弯路和吃过的亏；足迹遍布各大洲，见识过种种国度和领导人，知道什么是世界潮流。</p>
-<p>所以我相信他的智慧不是闭门造车的产物，也不是书斋战略家的发挥，他做过外交实务，又潜心外交学术，还在政治上有所负责，故而老成谋国，不放空炮。</p>
-<p>今天有人重发了他的一个观点：民粹、民族主义本质是反改革开放。</p>
-<p>大哉斯言!</p>
-<p>外交是内政的镜子，有什么样的国内下垫面，就有什么样的外交阴晴风雨。</p>
-<p>从古至今，真正优秀的外交官，都是力争用非战争手段来解决问题的，他们中最顶级的那些，与孙子暗合，是主张“伐交大于伐兵”的。</p>
-<p>也许我们未必认同他的所有观点，但有一点是永远没错的，那就是即便有人可能成为我们的敌人，我们也不能主动去制造敌人，不能为渊驱鱼，把本来可以变成朋友或者至少保持中立的人，也变成我们敌人。</p>
-<p>今天的中国，有鹰派抬头的倾向。好的鹰派，是有事不怕事，没事不惹事；糟糕的鹰派，则是没事喧嚣挑事，遇事百无一用。中国欢迎前一种鹰派。后一种不叫鹰派，叫乌鸦派，骨子里是搅屎棍。</p>
-<p>也许真正的鹰派，骨子里和吴大使是心灵相通的。一个努力遏制战争的人，未必就是战争爆发后退缩的人。</p>
-<p>但所有这一切，都已经和吴大使没有了瓜葛。</p>
-<p>他终寿77岁，在这个时代不算太老，完全还可以为国谋算很多年。</p>
-<p>我们除了惋伤，别无他词，只希望他荣归天堂。</p>
-<p>那里没有鹰派鸽派，只有安详。</p>
-<blockquote><p>相关阅读：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/2016/04/%E5%90%B4%E5%BB%BA%E6%B0%91%E6%89%B9%E3%80%8A%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E3%80%8B%E6%96%87%E7%AB%A0%E6%9E%81%E7%AB%AF%EF%BC%8C%E8%83%A1%E9%94%A1%E8%BF%9B%E5%9B%9E%E5%BA%94/">吴建民批《环球时报》文章极端，胡锡进回应</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/2012/07/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%B0%88%E5%A4%96%E4%BA%A4%E5%BD%A2%E5%8A%BF%EF%BC%9A%E6%9E%81%E7%AB%AF%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89%E6%B3%9B%E6%BB%A5%E5%B0%86%E8%87%B4%E7%81%BE%E9%9A%BE/">吴建民谈外交形势：极端民族主义泛滥将致灾难</a></p></blockquote>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AF%BC%E5%BC%B9%E7%86%8A-%E5%A4%A9%E5%A0%82%E9%87%8C%E4%B8%8D%E5%88%86%E9%B8%BD%E6%B4%BE%E9%B9%B0%E6%B4%BE-%E5%90%B4%E5%A4%A7%E4%BD%BF%E5%AE%89%E6%81%AF%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91/?category=18271" rel="tag">吴建民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E6%89%B9%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">吴建民批胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%83%A1%E9%94%A1%E8%BF%9B%E8%AE%BA%E6%88%98/?category=18271" rel="tag">吴建民胡锡进论战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%BD%A6%E7%A5%B8%E9%80%9D%E4%B8%96/?category=18271" rel="tag">吴建民车祸逝世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BC%E5%BC%B9%E7%86%8A/?category=18271" rel="tag">导弹熊</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -708,7 +653,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -718,5 +663,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

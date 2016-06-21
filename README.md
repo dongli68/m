@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B2%B8%E8%85%BE%EF%BD%9C%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%9F%A5-%E8%AF%B7%E7%94%A8%E8%BF%87%E7%A1%AC%E8%AF%81%E6%8D%AE%E8%AE%A9%E4%BA%BA%E4%BB%AC%E7%9B%B8%E4%BF%A1%E6%B3%95/" target="cdt-mirror">沸腾｜乌坎村主任被查 请用过硬证据让人们相信法治 （已删）</a>
@@ -51,7 +51,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1小时前</small>
+	<small> ============== 2小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B9%BF%E4%B8%9C%E4%B9%8C%E5%9D%8E%E5%8E%9F%E6%9D%91%E5%A7%94%E4%BC%9A%E4%B8%BB%E4%BB%BB%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%9F%A5%E8%AE%A4%E7%BD%AA/" target="cdt-mirror">【真理部】广东乌坎原村委会主任林祖恋被查认罪</a>
 </h2>
@@ -573,7 +573,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E7%BD%9A/?category=18271" rel="tag">体罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E5%95%86%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">农商银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%8A%97/?category=18271" rel="tag">反抗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF/?category=18271" rel="tag">山西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%A9%E7%BD%9A/?category=18271" rel="tag">惩罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E5%B1%B1%E7%9F%B3/?category=18271" rel="tag">曹山石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E6%B2%BB%E6%BC%B3%E6%B3%BD/?category=18271" rel="tag">长治漳泽</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E4%BA%94%E9%81%93%E6%9D%A0%E5%B0%91%E5%B9%B4%E9%BB%84%E8%89%BA%E5%8D%9A%E9%80%9A%E8%BF%87%E6%AD%A6%E5%A4%A7%E9%A9%AC%E5%85%8B%E6%80%9D/" target="cdt-mirror">澎湃新闻 | “五道杠少年”黄艺博通过武大马克思主义学院自主招生</a>
 </h2>
@@ -611,7 +611,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -621,5 +621,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

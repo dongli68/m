@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,65 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%86%9B%E4%BA%8B%E6%96%B0%E9%97%BB%E5%92%8C%E4%BF%A1%E6%81%AF/" target="cdt-mirror">【立此存照】军事新闻和信息</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=550%2C413" alt="CliJRJXUYAABXAA" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?w=1200 1200w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=768%2C577 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=1024%2C769 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>一，军事新闻和欣喜要由经过授权的机构和人员发布；</p>
+<p>二，对反军乱军言论要坚决取缔，并依法制裁；</p>
+<p>三，对重大网络泄密事件要追究责任，依法处理。</p>
+<p>四，对重大事件要有表态口径，界定哪些话可以说，哪些话不可以说，说到什么程度。可以设计红白脸，甚至战略误导。</p>
+<p> </p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%86%9B%E4%BA%8B%E6%96%B0%E9%97%BB%E5%92%8C%E4%BF%A1%E6%81%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91-4/" target="cdt-mirror">【图说天朝】iyouportnews：咱当兵的人</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%A7%A3%E6%94%BE%E5%86%9B.jpg?resize=551%2C734" alt="解放军" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/解放军.jpg?w=580 580w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/解放军.jpg?resize=225%2C300 225w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p><a href="https://twitter.com/iyouport_news" data-user-id="731790773675417601"><strong data-aria-label-part="">iyouport</strong>‏<span data-aria-label-part="">@iyouport_news</span></a>：广西－老兵上访</p>
+<blockquote><p><strong>咱当兵的人</strong></p>
+<p>征召入伍时是战士<br>
+保卫国家时是卫士<br>
+冲锋陷阵时是勇士<br>
+为国捐躯算是烈士<br>
+落实政策你死你事<br>
+职能部门不关我事<br>
+应有待遇没你的事<br>
+上访诉求当你闹事<br>
+时间一长无那回事<br>
+参战老兵心凉的事</p>
+<p>广西容县参战老兵</p></blockquote>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91-4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%81%E5%85%B5%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">老兵上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A%E3%80%81%E7%BB%9D%E5%AF%B9%E7%BA%AF%E6%B4%81-%E9%9D%A0/" target="cdt-mirror">百度贴吧｜“绝对忠诚绝对纯洁绝对可靠”的只有狗</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClkTP-uWkAIaz-U.jpg?resize=501%2C329" alt="ClkTP-uWkAIaz-U" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClkTP-uWkAIaz-U.jpg?w=501 501w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClkTP-uWkAIaz-U.jpg?resize=300%2C197 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClkTP-uWkAIaz-U.jpg?resize=230%2C150 230w" sizes="(max-width: 501px) 100vw, 501px" data-recalc-dims="1"><br><a href="https://twitter.com/beidaijin" data-user-id="435954378"><strong data-aria-label-part="">贝带劲</strong>‏<span data-aria-label-part="">@beidaijin</span></a>：绝对忠诚、绝对纯洁——靠（<a href="https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&es_th=1&ie=UTF-8#q=%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A%E3%80%81%E7%BB%9D%E5%AF%B9%E7%BA%AF%E6%B4%81%EF%BC%8C%E7%BB%9D%E5%AF%B9%E5%8F%AF%E9%9D%A0">参考链接</a>。）</p>
+<p>在文革时，有一个全国性活动，叫表决心，又叫表忠心，一般是群体立于毛主席像前，举起右手，歇斯底里地高呼：坚决忠于毛主席、永远忠于毛主席、无限忠于毛主席。当年最忠于毛主席的红卫兵也没几个人做到了，毛主席叫红卫兵扎根农村，不是都回城了么？忠于个狗P呀。</p>
+<p>毛主席有语录曰：世界上没有无缘无故的爱，也没有无缘无故的恨。突然敲出上面那段野史，是因为看到了如下一则新闻标题——《<a href="http://www.chinanews.com/gn/2014/01-04/5697580.shtml">郭声琨要求武警部队绝对忠诚绝对纯洁绝对可靠</a>》。当年的“三忠于”都成了狗P，今天的“三绝对”可以梦想成真？</p>
+<p>回到现实中，“绝对忠诚绝对纯洁绝对可靠”，写进党章的林彪副统帅都没有做到；国家级打黑英雄王立军厅长没有做到，公安部排名第二的李东生副部长也没有做到；武警部队终归只是凡夫俗子，要求他们超越林彪、超越王立军，超越李东生，也不是不可以，但能给到林彪、王立军、李东生那样的待遇么？给到哪怕1%也行。</p>
+<p>想来想去，只有一个物种做得到，那就是狗，这也是俺率先发现的一个社会现象：“有狗者，事竟成”。连猫都做不到，猫有“嫌贫爱富”的传统，动辄弃暗投明。狗对人的“绝对忠诚绝对纯洁绝对可靠”，也为它赢得了人民的怀念，俺们这里的老百姓至今都以“儿不嫌母丑、狗不嫌家穷”来教导自己的儿女。</p>
+<p> </p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A%E3%80%81%E7%BB%9D%E5%AF%B9%E7%BA%AF%E6%B4%81-%E9%9D%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E4%B8%9C%E7%94%9F/?category=18271" rel="tag">李东生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E5%BD%AA/?category=18271" rel="tag">林彪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%AB%8B%E5%86%9B/?category=18271" rel="tag">王立军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-142/" target="cdt-mirror">【河蟹档案】可惜星星之火灭于嫖娼、车祸、癌症</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em><em><em><em><em>相关阅读｜</em></em></em></em></p>
@@ -683,78 +739,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%BA%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%91%A8%E8%8B%B1%E6%9D%B0%EF%BC%9A%E7%AC%91%E7%9C%8B%E9%A9%AC%E4%BA%91%E8%A3%85%E9%80%BC/" target="cdt-mirror">周英杰：笑看马云装逼</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4LO9-fxtfrrn0928796.jpg?resize=549%2C365" alt="4LO9-fxtfrrn0928796" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4LO9-fxtfrrn0928796.jpg?w=550 550w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/4LO9-fxtfrrn0928796.jpg?resize=300%2C200 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>靠开淘宝卖假货起家的阿里巴巴集团主席马云，如今已是一个<a href="http://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91%E5%85%AD%E5%9B%9B%E8%A8%80%E8%AE%BA/">举世闻名的大人物</a>。其人出有保镖，行有豪车，谈笑没鸿儒，往来有白丁，照我看，其气派已经盖过了他的江浙前辈胡雪岩大咖，一点也不亚于一个国家的领导人。向使刘邦再生，看见其巍巍然、斯斯然横行于通衢大道，亦必扔掉正在播放日本动作片的平板电脑，流着满嘴的哈喇子大叫：“大丈夫当如是也”！</p>
-<p>马云为什么这么牛？答案很简单，因为他有钱，而且不是一般的有钱。</p>
-<p>这个年代，有权的人讲究闷声做大事，正变得越来越低调，因为不低调的都从重庆直接去了秦城或者燕郊。那么有钱的呢？有钱的就是忙着到处装逼。有小钱的整个宝马啥的在小区里装逼，再有点钱的整个政协委员什么的在当地装逼，很有钱的则是到世界各地装逼。谁让人家有钱了呢？有钱任性嘛。</p>
-<p>这个马云正是爱到世界各地去装逼的天朝有钱人的总代表之一。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/251959968.jpg?resize=496%2C605" alt="马云大师" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/251959968.jpg?w=500 500w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/251959968.jpg?resize=246%2C300 246w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"></p>
-<p>马云装逼，千奇百怪，有时装得非常奇葩莫名其妙，让人不明觉厉。比如，他在前几天的一个公开论坛上就说：“假货真正的问题是比真货质量还好”。恕我闭目塞听，有影响力的人公开为假货辩护，我还是第一次听闻。现在都说美国的总统候选人川普先生是个不着调的大嘴巴。叫我看，论级别，川普只能给马云当个学生。</p>
-<p>当然，马云毕竟是上个世纪八十年代早期在杭州师范学院里念过英文，且已经走遍了五大洲、四大洋，见识过“三亚大趴”等各种大阵仗的人。所以，他的装逼也不光是凭着一张口无遮拦的大嘴巴，应该承认有时还是极具“人文关怀”色彩，能让听了的人立即肃然起敬，浑身上下小米粒大丰收的。</p>
-<p>就在这几天，流窜到俄罗斯的马云，在第二十届圣彼得堡国际经济论坛上就大大地装了这么一次感天动地的逼。</p>
-<p>根据6月20日的网络媒体报道，马云在发言时表示：“创立阿里巴巴是自己人生最大的错误，因为在集团工作占去了他所有的时间”。“我有生以来最大的错误就是创建阿里巴巴。我没料到这会改变我的一生，我本来只是想成立一家小公司，然而它却变成了这么大的企业。”马云还说：“如果有来生，不会再做这样的生意。我希望有机会去到世界上任意一个国家，在那里平静度日。我不想谈论商业，不想工作。”</p>
-<p>如果大家不知道什么叫“得了便宜卖了乖”，什么叫“为赋新词强说愁”，什么叫“口是心非故作顿悟状”，不妨就来看看功成名就的马有钱人的这番表演。我不清楚马大有钱人在讲到这些煽情的段落时，有没有被自己的大彻大悟感动得涕泪滂沱。我认为这个时候倘能够配合一两滴眼泪，然后再像祥林嫂那样梨花带雨地抽泣几下，效果会更加生动有型。</p>
-<p>实话说吧，我是根本不相信马云上面的这些话的任何一句的。换言之，马云的这些人生感悟，纯然就是又一次赤裸裸的装逼而已。很显然，他如果真的大彻大悟，完全可以立刻辞去阿里巴巴集团的主席，随时去到世界上的任何一个国家（北朝鲜除外），在那里平静度日，不用工作，又何必非要等到“来生”呢？来生太虚无了，即使真的有“来生”，马云又怎么知道他自己还会是现在这个世界里有钱的马云呢？</p>
-<p>事实上，大部分人都知道马云是个著名的有钱人，但恐怕很少有人注意到他还是一个爱信口开河的大嘴巴。现在，我们搞不清楚，这次在彼得堡的论坛上他为什么要这样说，是说给谁听的，这样表示有什么用意。但仔细琢磨马大有钱人的这几句表白，明显带有“耍娇使横”的意思，似乎是在向什么人或者势力在隔空喊话。</p>
-<p>这不由得让我想起我儿子三岁大的时候一则小故事。</p>
-<p>那天，拙荆从外面买了一些烧饼回来，塞到儿子手里一大块。我在旁边，也没有想什么，顺手从儿子的大块烧饼上折了一小块，送到嘴里。没想到，此举惹恼了儿子，他又哭又闹又蹦又跳，非要我把吃掉的那块烧饼“吐出来”。他妈妈用更大的一块哄他，也不管用，只是一个劲地大声说：“我不吃了”……</p>
-<p>把马云的“这辈子最大的错误”云云和我儿子的“我不吃了”做一对比，总感觉两者之间有着相同的微妙心态。当然，我儿子的“不吃了”，是因为他老子藐视他的领地权，竟然“虎口夺食”，令他不爽。至于，马云的达达（《金瓶梅》里用的就是这两个字）们抢了他什么了，我们不得而知。反正，马大有钱人这次可能有点“恼次”，有点想撂挑子的意思，还是可以品味得出来的。</p>
-<p>从一个小企业做到今天的阿里巴巴，马云这么多年走下来，不容易是料想中的事情。如果马云主席万一真的认为创立阿里巴巴是他人生中最大的错误，想撂挑子出走的话，我希望他老人家不妨和就我这样的草民换个位置，让我也能站到他那个位置上装几天逼。正好，和马云一样，我也认为我这一生有个“最大的错误”。我的最大的错误就是做了个“没商业可谈、没工作可做”的盛世闲民，我的这种状态不正是马云主席孜孜以求而不得的状态吗？</p>
-<p>不知道马主席对我的这个建议意下如何？要不，咱哥俩真的换换？</p>
-<p>呵呵。</p>
-<p>2016年6月20日</p>
-<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%91%A8%E8%8B%B1%E6%9D%B0%EF%BC%9A%E7%AC%91%E7%9C%8B%E9%A9%AC%E4%BA%91%E8%A3%85%E9%80%BC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E8%B4%A7/?category=18271" rel="tag">假货</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%98%E5%AE%9D/?category=18271" rel="tag">淘宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%85%E9%80%BC%E7%8A%AF/?category=18271" rel="tag">装逼犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4/?category=18271" rel="tag">阿里巴巴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91/?category=18271" rel="tag">马云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E4%BA%91%E8%A3%85%E9%80%BC/?category=18271" rel="tag">马云装逼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%8Eg20%EF%BC%8C%E5%9C%A8%E8%AF%9A%E6%83%B6%E8%AF%9A%E6%81%90%E4%B8%AD%E9%A2%A4%E6%8A%96%E7%9D%80%E4%B8%8A%E7%8F%AD/" target="cdt-mirror">【图说天朝】迎G20，“在诚惶诚恐中颤抖着上班”</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/2002651217/DBasomq0F" target="_blank">@右耳可塑</a>：为了迎接G20浙江也是拼了….入住绍兴柯桥一个酒店…前台的这段话，笑到翔都出来了….太有才了…请认真读完第二张图片上的字…..</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523kprqgkj20qo0zkguz.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523kprqgkj20qo0zkguz.jpg?resize=450%2C600" alt="775e0851gw1f523kprqgkj20qo0zkguz" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523kprqgkj20qo0zkguz.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523kprqgkj20qo0zkguz.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523jyjo2pj20qo0zkqc6.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523jyjo2pj20qo0zkqc6.jpg?resize=450%2C600" alt="775e0851gw1f523jyjo2pj20qo0zkqc6" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523jyjo2pj20qo0zkqc6.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/775e0851gw1f523jyjo2pj20qo0zkqc6.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<blockquote><p>尊敬的宾客：从今天开始以后的80天，麻烦请勿把自己当客人看了，因为G20峰会期间公安机关分分钟会以反恐的姿态来要求您和您入住的酒店。办理入住时前厅人员会与客人核对身份信息，请客人予以配合，若不配合酒店可以拒住；公安人员会在没有通知的情况下进房间核实登记，提醒客人有心理准备。公安机关也会对酒店总台设置种种钓鱼手段明察暗访酒店，酒店稍有差池就会被停业或被吊销营业执照，那时候您就只能睡大街了。为了您能吃上饭，洗上澡，睡好觉，恳请您思想政治上理解政府反恐姿势，理解和支持我们做酒店人的难处！酒店人每天在诚惶诚恐中颤抖着上班，打扰你们的私密空间表示歉意！这样的打扰并非我们的本意！</p></blockquote>
-<p><strong><br>
-以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/huqifeng94" target="_blank">@扯TT淡</a>：G20简直了，主城区放假十天，全省除杭州外的景点对持有杭州身份证居住证学生证的免费，尽量把人往外赶<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3491942615" target="_blank">@微提斐特</a>：表示本区挨家挨户检查，连家里几个煤气罐及编号都要统计。因为有些农民房还在用煤气罐。以及龙井村下水井盖（也可能不是排水的）全被扒开了，还有一些不敢说<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1236495523" target="_blank">@海南钢琴调律师</a>：满城皆可疑 <img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1">//<a href="http://weibo.com/n/%E4%BA%94%E5%B2%B3%E6%95%A3%E4%BA%BA?from=feed&loc=at" target="_blank">@五岳散人</a>: 看着像日据时期……</p>
-<p><a href="http://weibo.com/2278594537" target="_blank">@高桥恬</a>：这个说明一点都不夸张的，非杭州户籍的必须办理居住证，之前还出台政策取消暂住证，现在换汤不换药，要求办居住证<img title="[打脸]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/32/dalian_org.gif" alt="[打脸]" data-recalc-dims="1">为了g20，杭州主城区所有主路都开始整修，路面和沿街道建筑外立面。不过六月开始，所有大型施工单位都必须停工，g20正式开始时事业单位将放假一个礼拜左右</p>
-<p><a href="http://weibo.com/2704156044" target="_blank">@小珊乖哈</a>：看把人给吓的<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p>@螃蟹跳跳piaji摔劈叉：想暑期去杭州的同学快醒醒，暑期杭州人都不让留在城里好么，各种发补助出政策赶人去外地旅游呢</p>
-<p>@小黑的black：风声鹤唳，草木皆兵</p>
-<p>@快乐天使豆豆123：在思想政治上理解政府的反恐姿势哈。这说明社会该有多动荡，下面的政府被上面的压的透不过气</p>
-<p>@DouMauDau：听说诸暨很多工厂要被迫停工印峰会，不知道杭州办峰会关诸暨屁事</p>
-<p>@陈能1986：国外还有抗议的人，我们都这么和谐了，没枪没炮的，真是神经过度了</p>
-<p>@瞰世界2011：镰刀斧头帮在颤抖！</p>
-<p>@锦衣妹：哈哈哈哈哈哈哈哈，中国梦，我的梦。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E8%BF%8Eg20%EF%BC%8C%E5%9C%A8%E8%AF%9A%E6%83%B6%E8%AF%9A%E6%81%90%E4%B8%AD%E9%A2%A4%E6%8A%96%E7%9D%80%E4%B8%8A%E7%8F%AD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/g20%E5%B3%B0%E4%BC%9A/?category=18271" rel="tag">G20峰会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%9B%BD%E5%BD%A2%E8%B1%A1/?category=18271" rel="tag">大国形象</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%AD%E5%B7%9Eg20/?category=18271" rel="tag">杭州G20</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91-3/" target="cdt-mirror">【CDTV】陆丰乌坎民众游行</a>
-</h2>
-<p><p>来源：Youtube用户<a href="https://www.youtube.com/watch?v=2WCF_T5tntE&index=1&list=PLz-jktblNUgk4wff3fNiUfnCsouiLJ3D6">@城外事</a></p>
-<blockquote><p>相关阅读：</p>
-<p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5/">德国之声 | 乌坎民选村主任被立案调查</a></p>
-<p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E7%8E%B0%E5%9C%BA%EF%BC%9A%E4%BA%94%E5%B9%B4%E4%B9%8B%E5%90%8E%EF%BC%8C%E4%B9%8C%E5%9D%8E%E6%9D%91%E5%9C%9F%E5%9C%B0%E6%8A%97%E4%BA%89%E7%BA%A2%E6%97%97%E5%86%8D/">端传媒 | 现场：五年之后，乌坎村土地抗争红旗再起</a></p></blockquote>
-<p></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91-3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">乌坎事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E5%9C%B0%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">土地纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E9%80%89%E4%B8%BE/?category=18271" rel="tag">基层选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E8%A1%8C%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">游行示威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -766,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -776,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

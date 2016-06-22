@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,35 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%8A%82%E5%A6%87%E7%83%88%E5%A5%B3%EF%BC%9D%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/" target="cdt-mirror">【立此存照】节妇烈女＝中华优秀传统文化</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/1793923153/DBnVVCbdy" target="_blank">@Sleazy戎</a>：历史的倒流滚滚不可阻挡</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6aed1851gw1f53r2ldk6tj20cr0itab5.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6aed1851gw1f53r2ldk6tj20cr0itab5.jpg?resize=450%2C664" alt="6aed1851gw1f53r2ldk6tj20cr0itab5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6aed1851gw1f53r2ldk6tj20cr0itab5.jpg?w=459 459w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6aed1851gw1f53r2ldk6tj20cr0itab5.jpg?resize=203%2C300 203w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>上图课程内容应来自<a href="http://gbjyzx.mof.gov.cn/learning/user/Index.action" target="_blank">财政部干部教育在线</a>：</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%B4%A2%E6%94%BF%E9%83%A8%E5%B9%B2%E9%83%A8%E6%95%99%E8%82%B2.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%B4%A2%E6%94%BF%E9%83%A8%E5%B9%B2%E9%83%A8%E6%95%99%E8%82%B2.jpg?resize=550%2C372" alt="财政部干部教育" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/财政部干部教育.jpg?w=1982 1982w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/财政部干部教育.jpg?resize=300%2C203 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/财政部干部教育.jpg?resize=768%2C519 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/财政部干部教育.jpg?resize=1024%2C692 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>财政部干部教育在线网站首页截图</span></p></div>
+<p>必须指出的是，将节烈妇女称为“中华优秀传统文化”的课件中，所附数据来自<strong>董家遵</strong>的<strong>《历代节烈妇女的统计》。</strong>董家遵的相关数据在学术论文中引用率颇高，一般用来讨论明清时期妇女地位的恶化、政权的介入、父权等。</p>
+<p>如杜芳琴《<a href="http://www.nssd.org/articles/Article_Read.aspx?id=1002253183#" target="_blank">明清贞节的特点及其原因</a>》：</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%8A%82%E7%83%88%E7%BB%9F%E8%AE%A1%E8%A1%A8.png?resize=550%2C146" alt="节烈统计表" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/节烈统计表.png?w=1670 1670w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/节烈统计表.png?resize=300%2C79 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/节烈统计表.png?resize=768%2C203 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/节烈统计表.png?resize=1024%2C271 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p><span>杜芳琴论文截图</span></p></div>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@冰蛇陛下：一门产业，从中获利或者试图从中获利的人自然要想尽办法的鼓吹它……所有的逆流都是由此而来。</p>
+<p><a href="http://weibo.com/zhanzhengshiyanjiu" target="_blank">@战争史研究WHS</a>：节妇烈女其实是非常优秀的传统价值观。在各朝都要受到官修史书的大力赞扬，生有褒旌之荣，殁有祠祀之典。我们为什么非要和老祖宗的优秀传统文化割裂呢？难道就不能研究一下在21世纪如何把它发扬光大吗？（不行写不下去了我先去笑一会儿<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1">）</p>
+<p>@连环爆的懒猫: 可以感到一个被前妻抛弃的中年男子的怨念</p>
+<p>@景山公园51区:如果自己二婚还要求别人做烈女节妇，心理上就有点奇怪了</p>
+<p>@MrC_TheNOTGreat：跟党徽构成了一副魔幻现实主义图景</p>
+<p>@书橱子:朝廷又要颁贞节牌坊了，那脚还要裹不？</p>
+<p>@蒂玛55: 是不是要对非节妇烈女沉塘啊？那些自由恋爱的，不守寡的，被调戏强奸了还不肯自杀的，来来来，都给我沉塘。</p>
+<p><a href="http://weibo.com/1434661172" target="_blank">四年又二月</a>：弘扬民族优秀传统—–爹死娘自缢的高考可以➕20分<img title="[拳头]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/cc/o_org.gif" alt="[拳头]" data-recalc-dims="1"><img title="[熊猫]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6e/panda_org.gif" alt="[熊猫]" data-recalc-dims="1"><img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%8A%82%E5%A6%87%E7%83%88%E5%A5%B3%EF%BC%9D%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B6%E6%9D%83/?category=18271" rel="tag">父权</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%A6%8F%E5%BB%BA%E9%AB%98%E9%80%9F%EF%BC%9A%E4%B8%BA%E4%BA%86133%E4%BA%BF-%E6%8A%93%E8%BF%9D%E7%AB%A0%E3%80%81%E4%BF%83%E5%A2%9E%E6%94%B6/" target="cdt-mirror">【立此存照】福建高速：为了133亿 抓违章、促增收</a>
 </h2>
 <p><p>【编者注】下图的通知发布者为福建省高速公路有限责任公司。该公司成立于1994年11月，<a href="http://www.fjgsgl.com/index.php?_m=mod_static&_a=view&sc_id=2" target="_blank">与福建省高速公路建设总指挥部合署办公</a>，“两块牌子、一套人马”。福建高速系统近日大力开展“<strong>抓违章、促增收</strong>”活动，要求全系统干部职工“<strong>紧紧围绕收费这个主业</strong>”，<strong>把收费当成“重中之重的工作来抓紧抓好</strong>”，以期完成<strong>2016年133个亿的收费任务</strong>。</p>
@@ -759,19 +785,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/twitter%EF%BD%9C%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C%EF%BC%9A/" target="cdt-mirror">Twitter｜吾尔开希：台湾立法院通过『谴责六四屠杀临时提案』</a>
-</h2>
-<p><div><a href="https://twitter.com/wuerkaixi" data-user-id="23574948"><strong data-aria-label-part="">吾尔开希</strong> ‏<span data-aria-label-part="">@wuerkaixi</span> </a><small> <span data-aria-label-part="last" data-time="1466088033" data-time-ms="1466088033000" data-long-form="true"><a title="7:40 AM - 16 Jun 2016" href="https://twitter.com/wuerkaixi/status/743453213932818432">Jun 16</a>：</span></small>台湾国会——立法院，日前，6月14日通过『谴责六四屠杀临时提案』。此案由尤美女委员在六6月3日提出，并在之后十天征集了64位委员联署。台湾立法院总人数为113位国会议员，是案联署人数已过半，在大会无异议通过。</div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvIHXEAQ0gRu.jpg?resize=550%2C376" alt="ClFGvIHXEAQ0gRu" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvIHXEAQ0gRu.jpg?w=1144 1144w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvIHXEAQ0gRu.jpg?resize=300%2C205 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvIHXEAQ0gRu.jpg?resize=768%2C525 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvIHXEAQ0gRu.jpg?resize=1024%2C700 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvKDWIAINlJs.jpg?resize=550%2C376" alt="ClFGvKDWIAINlJs" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvKDWIAINlJs.jpg?w=1144 1144w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvKDWIAINlJs.jpg?resize=300%2C205 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvKDWIAINlJs.jpg?resize=768%2C525 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvKDWIAINlJs.jpg?resize=1024%2C700 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvPpXEAAjFND.jpg?resize=550%2C309" alt="ClFGvPpXEAAjFND" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvPpXEAAjFND.jpg?w=1186 1186w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvPpXEAAjFND.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvPpXEAAjFND.jpg?resize=768%2C432 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGvPpXEAAjFND.jpg?resize=1024%2C576 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGwVEXIAQODQL.jpg?resize=549%2C366" alt="ClFGwVEXIAQODQL" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGwVEXIAQODQL.jpg?w=1200 1200w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGwVEXIAQODQL.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGwVEXIAQODQL.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClFGwVEXIAQODQL.jpg?resize=1024%2C683 1024w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></div>
-<div></div>
-<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/twitter%EF%BD%9C%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C%EF%BC%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E7%AB%8B%E6%B3%95%E9%99%A2/?category=18271" rel="tag">台湾立法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%BE%E5%B0%94%E5%BC%80%E5%B8%8C/?category=18271" rel="tag">吾尔开希</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 1天前</small>
 </p>
 <table>
     <tr>
@@ -793,5 +806,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

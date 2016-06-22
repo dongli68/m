@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,51 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8C%9F%E6%B5%B7%E6%B7%98%E4%BB%A5%E4%BB%A4%E4%BA%BA%E6%B0%91/" target="cdt-mirror">【网络民议】挟海淘以令人民</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/3266943013/DBiKy0WJS" target="_blank">@央视网</a>：【网购达人们，如果南海不太平，你的快递可能暂时无法收货了！】全球40%以上的货物要经过南海海域运输。海淘的奶粉，撩妹用的新款包包，是否能快点到手？都由这片海决定，看完视频你就可以秒懂这片海的举足轻重，怪不得有人要跟我们强抢，但南海自古属于我国！请为祖国南海转发。<a href="http://weibo.com/p/230444e4f016c23b2c2149dd913a8ef8a77ece" target="_blank">视频地址</a></p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%AE%E8%A7%86%E5%8D%97%E6%B5%B7.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%AE%E8%A7%86%E5%8D%97%E6%B5%B7.jpg?resize=550%2C312" alt="央视南海" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/央视南海.jpg?w=1934 1934w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/央视南海.jpg?resize=300%2C170 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/央视南海.jpg?resize=768%2C436 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/央视南海.jpg?resize=1024%2C581 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%AE%E8%A7%86%E5%8D%97%E6%B5%B72.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%AE%E8%A7%86%E5%8D%97%E6%B5%B72.jpg?resize=550%2C313" alt="央视南海2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/央视南海2.jpg?w=1934 1934w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/央视南海2.jpg?resize=300%2C171 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/央视南海2.jpg?resize=768%2C437 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/央视南海2.jpg?resize=1024%2C582 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><br><span>《全息南海》谁在中国南海搅动波澜【现状篇】截图</span></p>
+<blockquote><p>最新款的服装，最酷炫的电子产品想不想最快买到手？那你最好祈祷远方的那片海风平浪静。对，我说的就是南海。<br>
+[…]<br>
+但是，一个距离这片海域非常非常远的国家，美国。在南海美国投入太多，配合支持菲律宾提南海仲裁案，发布有关南海的政府立场文件等，还派军机抵行飞行，派声纳船侦查等等，让这里充满了火药味。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@Archi1874：閉關都可以說的這麼不要臉，不愧黨媒</p>
+<p>@GoOnErWiLlDwH：鼓动民粹到底对南海争端有用没用？相信鼓动的人最清楚了。但为啥还要鼓动呢？无外乎就是煽动仇视心理了，这对接下来相当长一段时间可能遇到的问题是很重要的。所以，核心利益永远在国内，怎么统治十亿奴隶。</p>
+<p><strong>@念桥红药1711：我老家的大宅子不说自古以来吧，至少有两百多年是我家的，还不是说是地主剥削来的就给分了。共产主义理想还分什么你的我的，都是世界人民的，央视境界忒低了，应该多抄党章</strong></p>
+<p><strong>@蓬山路遥盼青鸟：把钱用到正地方，让人民不再海淘奶粉不好么？还拿自古以来这种流氓逻辑出来。自炎黄以来，就黄河流域才是中国领土。再往上数，数到古猿时期，全世界都他妈的是非洲古猿的！</strong></p>
+<p>@牛博蓝洞：你们倒是派军舰去打啊，不过我们不怕，因为我们有雾霾、有海带、有罗援、戴旭、张召忠，让他们先上，我们随后就到。</p>
+<p>@石子的海有点奇怪：这是zf威胁国人咯？</p>
+<p>@crydeblog：你们自己解决不了就要挟p民？那怎么您国填海造陆之前南海一直好好的？</p>
+<p>@中二病院院长的马甲：笑尿，古今中外，从没有看见过，两国开战前，一方的高层拼命把自己的子女当做质子往敌国送的奇景！</p>
+<p>@Costolo：保卫南海，强拆鬼子，让鬼子嫖娼死，让鬼子去联合国上访，让鬼子电视认罪，让小粉红高潮死!</p>
+<p>@景山等您来：带鱼的团队已经进驻央视啦</p>
+<p><a href="http://weibo.com/1334163230" target="_blank">@只想偷懒的人</a>：又在煽动义和团作死了<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1665194993" target="_blank">@马泥也炒股</a>：本来我还在在骂军舰为什那么怂，经央视一提醒，我艹，这么重要的石油奶粉海淘通道。。。涨关税的是特么美国人？不降油价的也不是美国人啊。。。。尼玛，考验智商的时候到了<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3489265044" target="_blank">@公民赵彬</a>：自己不造好奶粉，还忽悠大家<img src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee8196.png?resize=20%2C20" px data-recalc-dims="1"></p>
+<p>@明天的阴晴不好捉摸：想封海淘还是想打仗，说清楚点，别扯没有的</p>
+<p>@紫微占星Jennifer：又在忽悠屁民当炮灰，应该让官老爷们自己上场，我们屁民可不管</p>
+<p>@清风凯旋1981：央视和八千万党员可以自己去啊</p>
+<p>@gggghz：不是给我们准备好土豆了吗？怕啥</p>
+<p>@庄子蝶：贼喊捉贼。外交搞成耍流氓，现在挑动百姓当炮灰</p>
+<p>@Betterline牧童杏花酒家：动画战争动员片？</p>
+<p>@宋晓明-上海：转发你妈，还以为老百姓智商是0？</p>
+<p>@未知的迷惑：我一头的问号，大连出去是一片沙漠吗？？韩国人造的船是宇宙战舰吗？挟海淘以令人民这一套还行得通？傻了吧？</p>
+<p><strong>@老鼠不笨：用这种下三滥的诱骗手段，要我们支持转发有毛用。国务院办公室里坐着的不是我们选的，税金我们是强制被交还重复征收也不知道用到哪了，土地也没我们一寸高价换来的也就不到70年（实际使用）租期质量还不知道能否撑到，这海域关我们毛事。枪是你们主子说了算，用不着我们意见也无需我们支持，你们自己上</strong></p>
+<p>@九州参考：央视你居然煽动买外国货，你太卖国了</p>
+<p>@DoctorWilson：马云说假货质量比真货还好，那就别买了好吧～</p>
+<p>@蓝茵zoe：现在的情况是 十分之八的money流向十分之二的人口 而那十分之二的人口并不是zf和yh zf和yh得到的是房子 所以那十分之二的人口如果携款移民 美国 木哈哈哈哈哈 当然国家英明会想出办法的….吧</p>
+<p>@临海听风ray：一个国家特别是大国，不能耍无赖，如此才能得到尊重。“南海自古就是我们的”，纯粹胡说八道！那个地方准确地说，自古以来就属于包括我国在内的周国相关国家，因为那里自古以来就是周边国家的共同渔场。退一万步讲，我们真想当恶霸独占南海，也要有这个实力。没有实力当恶霸的情况下，老实一点没坏处。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%8C%9F%E6%B5%B7%E6%B7%98%E4%BB%A5%E4%BB%A4%E4%BA%BA%E6%B0%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/ccav/?category=18271" rel="tag">ccav</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%E7%AB%AF%E4%BC%A0%E5%AA%92%E7%AD%89%E5%A2%83%E5%A4%96%E5%AA%92%E4%BD%93%E5%9C%A8%E4%B9%8C%E5%9D%8E%E6%9D%91/" target="cdt-mirror">【异闻观止】苹果日报端传媒等境外媒体在乌坎煽动策划导演</a>
 </h2>
 <p><p>【编者注】2011年<span>12月18日，</span><strong>郑雁雄</strong>在<a href="http://webcache.googleusercontent.com/search?q=cache:cysH16APmYAJ:www.360doc.com/content/12/0119/12/142_180332755.shtml+" target="_blank">陆丰乌坎干部群众代表见面会</a>中因发表“境外媒体信得过，母猪都会上树”“你以为请武警不用钱呀？”等言论而成为当时的舆论焦点。2013年7月，<strong>郑雁雄</strong><a href="http://news.sina.com.cn/c/2013-07-08/114127607697.shtml" target="_blank">任<strong>广东省委宣传部副部长</strong></a>。时任该省宣传部部长为<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/" target="_blank">南周新年献辞事件</a>中的<a href="http://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/" target="_blank">庹震</a>。2015年7月，庹震任中共中央宣传部副部长。</p>
@@ -564,28 +606,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B9%8C%E5%9D%8E%E7%BA%A0%E7%BA%B7%E6%81%90%E6%80%95%E5%94%AF%E6%9C%89%E4%BE%9D%E6%B3%95%E8%A7%A3/" target="cdt-mirror">【异闻观止】环球时报 | 乌坎纠纷恐怕唯有依法解决</a>
-</h2>
-<p><p>广东乌坎村近日又成了舆论焦点，外媒纷纷报道，该村党支部书记、村委会主任林祖恋日前因涉嫌利用职权受贿被警方带走。该村数千村民19日召开村民大会，并举行游行，要求当局释放林祖恋。</p>
-<p>乌坎的事情复杂而尖锐，在中国的行政村中非常突出。该村的基本矛盾是土地纠纷，2011年一些村民指责原村委会私卖土地，村民们没有得到应有补偿款，要求收回已出卖土地，并一再为此采取抗议行为，多次与警方对峙。2012年初乌坎村成立党总支部，林祖恋被任命为党总支部书记，同年3月乌坎举行村委会选举，林祖恋当选为新一届村委会主任。那次选举受到境内外舆论的广泛关注，并得到普遍好评。</p>
-<p>然而事情并没有彻底平息，新一届村委会由于无力按村民的要求做到把土地拿回来，一度引起新的不满。还有部分村委会委员因经济问题出事，但是一段时间内乌坎未出大型群体事件，媒体对它的关注因此少了下来。</p>
-<p>近日乌坎再成热点，是因为林祖恋计划召开村民大会，组织集体上访，以及林17日夜间被警方带走。</p>
-<p>一些自由主义人士通过互联网声援乌坎村村民与官方新的对峙，很多外媒也迅速形成围观，将乌坎村的问题当成中国基层政治的缩影来报道。这种情形仿佛又回到了几年前。</p>
-<p>回顾乌坎这几年的事情，部分境内外舆论总是愿意把它朝着政治方向定性，与基层民主挂钩，与官民关系联系起来。其实这种定性是简单化的，也带有能够感知到的意识形态色彩。乌坎的核心问题是土地财产纠纷，与全国各地围绕土地补偿款的纠纷或者要求收回已售土地很相似，只是乌坎村民当时不信任旧村委会，要求选一个新村委会代表他们的利益，“选举”吸引了众多媒体。</p>
-<p>全国的村委会早已都是选出来的，乌坎村的2012年选举被赋予特殊意义，为保障其公正性官方投入大量资源，那种举世关注和官民的共同重视程度的确不同寻常。</p>
-<p>然而财产权的纠纷仅靠选举显然解决不了，土地问题如今出现在上访中的频度非常高，一旦爆发出来，在各地都是老大难。乌坎的特殊性在于，当地民风强悍，劝说工作更难开展，能不能突破僵局或许确实有全国意义。</p>
-<p>我们认为，外界应当珍惜2012年乌坎工作的成果，鼓励乌坎村民与官方就最终解决问题开展理性协商。对于解决土地纠纷的难度，外界应当抱有体谅，采取支持各方在法治框架内协商解决的总态度。那种鼓励对抗、为激进鼓掌的做法非常不应该。</p>
-<p>全国各地的每一个村庄大概都有矛盾，如果都以激烈的方式表达需求，那显然有悖中国社会的共同利益。</p>
-<p>乌坎的问题最终恐怕要依法解决，村民们合法的要求就应该被满足，法律不支持的要求也不应无原则的兑现。现在的问题是，对于解决土地纠纷，相关法律往往缺少权威性。在这方面，乌坎问题的解决过程能为全国树立一个榜样吗？</p>
-<p>关于汕尾地区治理之难，民间有各种段子，它经常被说成是“明朝时就怎么怎么样”。而乌坎就是汕尾市的一个行政村。不过这些段子很可能是非常夸张的，法律是基层社会的根本依靠，抓林祖恋必须合法，林祖恋带领村民提出的要求和所采取的行动亦须合法。说到底，只有法律才能是所有利益相关方的最大公约数。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B9%8C%E5%9D%8E%E7%BA%A0%E7%BA%B7%E6%81%90%E6%80%95%E5%94%AF%E6%9C%89%E4%BE%9D%E6%B3%95%E8%A7%A3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">中国社会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">基层民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%B0%91%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">官民关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2-2/?category=18271" rel="tag">异闻观止</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98/?category=18271" rel="tag">经济问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BD%93%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">集体上访</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -597,7 +617,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -607,5 +627,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

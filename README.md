@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%A6%8F%E5%BB%BA%E9%AB%98%E9%80%9F%EF%BC%9A%E4%B8%BA%E4%BA%86133%E4%BA%BF-%E6%8A%93%E8%BF%9D%E7%AB%A0%E3%80%81%E4%BF%83%E5%A2%9E%E6%94%B6/" target="cdt-mirror">【立此存照】福建高速：为了133亿 抓违章、促增收</a>
+</h2>
+<p><p>【编者注】下图的通知发布者为福建省高速公路有限责任公司。该公司成立于1994年11月，<a href="http://www.fjgsgl.com/index.php?_m=mod_static&_a=view&sc_id=2" target="_blank">与福建省高速公路建设总指挥部合署办公</a>，“两块牌子、一套人马”。福建高速系统近日大力开展“<strong>抓违章、促增收</strong>”活动，要求全系统干部职工“<strong>紧紧围绕收费这个主业</strong>”，<strong>把收费当成“重中之重的工作来抓紧抓好</strong>”，以期完成<strong>2016年133个亿的收费任务</strong>。</p>
+<blockquote><p><a href="http://weibo.com/u/2093591281" target="_blank">@何光伟</a> ：这个好东西是真是假啊？我这个屌丝算是大开眼界了<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7cc9aaf1gw1f53ufe58lyj20qo0zkdit.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7cc9aaf1gw1f53ufe58lyj20qo0zkdit.jpg?resize=400%2C533" alt="7cc9aaf1gw1f53ufe58lyj20qo0zkdit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7cc9aaf1gw1f53ufe58lyj20qo0zkdit.jpg?w=960 960w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7cc9aaf1gw1f53ufe58lyj20qo0zkdit.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7cc9aaf1gw1f53ufe58lyj20qo0zkdit.jpg?resize=768%2C1024 768w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p><strong><a href="http://www.fjgsgl.com/index.php?_m=mod_article&_a=article_content&article_id=1572" target="_blank">省公司召开视频会部署开展“抓违章、促增收”活动</a></strong></p>
+<blockquote><p>6月21日上午，省公司召开全省“抓违章、促增收”活动视频会议，动员全系统干部职工紧紧围绕收费这个主业，大力开展以“抓违章、促增收”为主题的“一抓一促”活动，在全系统上下形成人人抓打逃、人人促增收的<strong>良好氛围</strong>，为实现“十三五”“三个一千”目标、保障我省高速公路持续健康发展奠定坚实基础。省公司涂慕溪总经理在会上作动员讲话，省公司张明副总经理在会上布置“抓违章、促增收”活动方案、《福建省高速公路费源管理奖励办法》。漳州管理公司、南平管理公司在会上作打击偷逃费和引车上路经验介绍。省公司党委副书记、纪委书记、工会主席吴毅荣主持会议并作总结讲话。<br>
+[…]<br>
+一要切实增强抓好打逃增收工作的责任感和紧迫感。他指出，打逃增收是贯彻落实省领导重要批示指示精神、实现“三个一千”目标，保障我省高速公路持续健康发展，履行各个岗位职责的要求。必须全员动员，共同发力，把收费当成我们重中之重的工作来抓紧抓好。 […]</p></blockquote>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%8A%93%E8%BF%9D%E7%AB%A0%E4%BF%83%E5%A2%9E%E6%94%B6.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%8A%93%E8%BF%9D%E7%AB%A0%E4%BF%83%E5%A2%9E%E6%94%B6.jpg?resize=500%2C731" alt="抓违章促增收" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/抓违章促增收.jpg?w=1726 1726w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/抓违章促增收.jpg?resize=205%2C300 205w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/抓违章促增收.jpg?resize=768%2C1123 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/抓违章促增收.jpg?resize=701%2C1024 701w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>福建省高速公路有限责任公司网页截图</span></p></div>
+<p><strong><a href="http://www.fjgsgl.com/index.php?_m=mod_article&_a=article_content&article_id=1573" target="_blank">全面动员 全员参与 构筑打逃增收的钢铁长城</a></strong></p>
+<blockquote><p>为确保全省“十三五”通行费征收目标及2016年133个亿收费任务的完成，漳州公司明确提出 “以收费为中心，以服务为重点，以素质为保障，确保完成各项指标”的工作目标，通过公司决策、绩效考核、科技打逃、业务培训、联勤联动的“五位一体”打逃工作举措，掀起一场抓违章、促增收的热潮，确保完成今年通行费预征目标。截止６月15日，漳州公司打逃案件累计9363起，同比增长43.25%；补缴通行费679万元，同比增长66.54%。</p>
+<p>一是以公司决策为重点。在思想引导上，提出“千斤重担人人挑，人人身上有指标”的口号，党政一把手抓部署，职能部门抓管理，基层所长抓落实，目标一致、思想统一，筑就了强大的狠抓费源管理工作的合力。在指标指引上，提出了“<strong>打逃补缴增收一千万、引车上路创收一千万、减少分流挽回一千万</strong>”增收“三个一千万”的任务指标。在选人用人上，注重把一线有丰富打逃经验的稽查人员选拔任用到关键业务管理岗位，以此为广大员工树立标杆和典型。在制度激励上，结合近年来打逃工作成效不断修订相应奖惩制度，细化各类奖惩方式，提高奖励幅度和金额，激励广大员工打击各类逃费行为。[…]</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%A6%8F%E5%BB%BA%E9%AB%98%E9%80%9F%EF%BC%9A%E4%B8%BA%E4%BA%86133%E4%BA%BF-%E6%8A%93%E8%BF%9D%E7%AB%A0%E3%80%81%E4%BF%83%E5%A2%9E%E6%94%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%B6%E8%B4%B9%E7%AB%99/?category=18271" rel="tag">收费站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF/?category=18271" rel="tag">高速公路</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B7%B1%E5%BA%A6-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%98%AF%E6%80%8E%E4%B9%88%E8%BF%9B%E5%85%A5%E6%AD%BB%E5%BE%AA%E7%8E%AF%E6%A8%A1%E5%BC%8F%E7%9A%84%EF%BC%9F/" target="cdt-mirror">深度 | 中国经济是怎么进入“死循环”模式的？</a>
 </h2>
 <p><p><strong>01 双重危机</strong></p>
@@ -751,57 +772,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E5%BC%A0%E4%BC%A6%EF%BC%9A%E5%A4%B1%E5%8E%BB%E6%96%B9%E5%90%91%E7%9A%84%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">BBC | 张伦：失去方向的中国</a>
-</h2>
-<p><p>作者：张伦，法国赛尔奇蓬多瓦兹大学副教授</p>
-<p>中国失去了方向——这是近来一些事态的发展给人留下的印象。中国向何处去？这百年之问，再次摆到国人的面前。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160525055048_china_cultural_revolution_youth_512x288_getty_nocredit.jpg?resize=660%2C371" alt="今年是文革发动五十周年" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160525055048_china_cultural_revolution_youth_512x288_getty_nocredit.jpg?w=660 660w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160525055048_china_cultural_revolution_youth_512x288_getty_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 660px) 100vw, 660px" data-recalc-dims="1"><p>今年是文革发动五十周年</p></div>
-<p><strong>没有共识的共识——走向自由</strong></p>
-<p>今年是文革发动五十周年。这场浩劫结束四十年来，作为一种巨大的历史反弹，自由化成为中国的主流。有人认为，改革从一开始就有不要什么的共识，但没有要什么的共识；各界对改革开放的目标、对中国的最终走向有着不同的看法。</p>
-<p>不过在笔者看来，不要什么实际上是暗含着某种要什么的共识的。不要文革式的疯狂，思想和政治的禁锢和物质的贫困，要的指向是现代化，一个实现市场化、法治化并最终逐步实现民主更加自由的中国，一个与人类主流文明接轨的现代中华文明。途经是类似于某些东亚国家走过的道路。</p>
-<p>这是一个不言自明、模糊的共识，构成中国三十多年来改革开放的社会政治思想基础。即使是官方内部包括高层，有些人内心大体上也不能说没有这类取向，只是出于现实利益的考量、对当下国情的认知、改革的进程、速度、依靠的主体、最终走向的具体制度形式等有不同的看法，官方与社会在这方面没有具体明晰的共识性的宣示。</p>
-<p>但随着社会的分化，利益和意识的分野，腐败的恶性发展，改革尤其是国家政治和管理体制改革方面的滞后，社会矛盾的凸现，这种隐形支持性的共识也逐渐瓦解。而权力对公共议题讨论的压制，使得对中国改革的最终走向、可能遇见的问题，各种利益的协调和处理等问题一直就没有深入系统的讨论，更因六四镇压成为某种禁忌。</p>
-<p>在各种利益考量以及画地为牢的政治约束下，自满于经济方面一时的成就，官方的理论思维和想象力急剧萎缩，失去了文革后因思想解放、对外开放带来在这方面带来的生机活力，一种腐烂、僵固、虚夸、自私、伪善、傲慢的氛围逐渐侵蚀并笼罩了执政集团。最近反腐运动向我们展示的某些官员的贪婪、无耻、残酷、倾轧、黑暗，是这种趋势发展的必然后果。这显然不是靠几句自我标榜，自我论证，搞几场教育运动所能掩饰和解决的。</p>
-<p><strong>“中国梦”——梦的共识与共识的梦</strong></p>
-<p>习近平上台伊始，提出“中国梦”，试图以此重建某种民族共识，确立某种新的共同认可的发展目标。</p>
-<p>但坦白说，这种说“梦”的做法，因不以公民为本，显得空疏、混杂、漂浮、大而不当，对现有权力运行方式没有做任何改变的承诺且有将其永远固化的取向，尽管官方开动宣传机器大肆宣传，但从一开始就没有获得社会的广泛认可，只要看看各种民间的相关嘲讽和官员们的反应就可知晓这一点。试图建设一个有关梦的共识，事实上已经成为一个关于共识的梦。这种官方论述与民间感受上的距离鸿沟，从一个侧面显示领导层与民众、国家与社会危险的疏离。</p>
-<p>如果说“中国梦”中有什么人们能够比较清晰地感受到的信息的话，那显然是其中要传达的强烈的民族主义取向。而恰恰在这点上，也是最让人忧虑的。</p>
-<p>作为一个已经独立于世界，且具有相当的地位的大国，过度地去强化这种民族主义取向，将其作为国家发展的方向，其可能带来的问题，近代历史上象德日那样已多有先例。结果是既可能给自己的民族也会给他人带来灾难。一个上升中的民族更需要的是某种文明的超越性的意识与价值才能保证这个民族不因某种狭隘的民族意识而走入歧途。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151230092107_china_dream_512x288_z_nocredit.jpg?resize=624%2C351" alt="习近平上台伊始，提出“中国梦”" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151230092107_china_dream_512x288_z_nocredit.jpg?w=624 624w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/151230092107_china_dream_512x288_z_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 624px) 100vw, 624px" data-recalc-dims="1"><p>习近平上台伊始，提出“中国梦”</p></div>
-<p><strong>失去方向的后果——混乱的图景</strong></p>
-<p>事实上，中国今日面临的诸多危机，除与经济发展的某些阶段性问题比如产业升级、人口红利丧失、国际经济形势相关外，多与改革不彻底，与中国的体制、以往的错误决策高度相关。</p>
-<p>就拿产能过剩来讲，如此程度的恶性失衡，显然是中国这种高度权力集中体制下的经济运作的必然产物。国家加市场的双火车头的经济动力，既可创造某种超速的经济增长，也可能会造成人们无法想象的严重后果。</p>
-<p>三中全会、四中全会有关经济改革、国家法治建设等相关决议言犹在耳，现实中却是重拾某些计划经济、阶级斗争时代的做法，大肆抓捕法治国家最重要的支柱之一们的律师，压制言论自由，在一切领域重新强调领袖至上，党统御一切。</p>
-<p>主张“强化党的领导是国企做大做强的保证”，这种文革时代政治挂帅的做法竟然被堂而皇之地列为经济政策，倒行逆施，令人匪夷所思。党的领导与国企的强大有何必然的联系？中国如何还能让人家承认自己是市场经济？其背后的潜台词显然是强化党对经济资源和社会的控制。提倡创新，认为是产业升级，经济振兴也是民族继续发展的必由之路，同时却“不准妄议”，强调“看齐意识”，删贴封网，严控教育、新闻、学术、文艺，要扼杀一切不同意见，对民企口惠而实不至，那又怎能培育一种有利创新、鼓励投资的社会氛围和制度环境？</p>
-<p>因不能否定“两个三十年”之说，官方对文革的态度日渐暧昧，自文革结束后，从来没有任何时候象今天文革的语言和论述、个人崇拜的做法能如此大行其道，乃至有＂大海航行靠舵手＂这种标志性文革名曲竟然唱到人民大会堂去的事件发生。官方的宣传和政策，充满各种逻辑不通，有悖常识，朝令夕改，自相矛盾的说辞。</p>
-<p><strong>毛邓互用的悖论——习近平的出路</strong></p>
-<p>这种局面显然也有其政治上的原因，透露着上层政治和意识形态取向上的某种混乱。由于不是象江、胡那样是依托邓的强势权威上位，围绕习近平掌权所展开的激烈的权力斗争，暴露出中国式后极权政治体制的致命弱点。</p>
-<p>正如些党报、军报不断强调的：薄、周、徐、郭、令等这些昔日的党和国家领导人之所以落马，绝不仅是因腐败，更是因犯了“政治规矩”，“触及政治底线”，威胁到习。某种意义上讲，习上位以来的所有政治举措包括反腐基本上都可以从巩固个人权力和维系红色江山的角度得到解释。</p>
-<p>习试图巩固个人权力、树立权威，这从政治运作的角度是可以理解的，但其方式以及最终能否达成目的却让人怀疑。一个领袖的政治权威和历史地位说到底是靠绩效、靠顺应民心、在解决历史的课题上所显示出的勇气、智慧与高瞻远瞩所获得的。</p>
-<p>迄今为止，习所做的最大的赢得政治资源的举措在反腐。但早在三年前笔者在评论反腐时便提及：反腐的效应一定是递减的；这属于面对过去的打扫除，而对一个领袖来讲最重要的却是面对未来，能否做出各种经济和制度上建设性的政策与成果。文革后邓的权威说到底是由此而来。而就这方面来看，习几年下来乏善可陈。</p>
-<p>这一方面或许与权力内部的结构、其受到的政治掣肘有关，但另一方面也显然与其自身展示出的执政取向有很大关联。笔者以往曾将这种执政取向归纳为“打通毛邓，毛邓兼用，以毛补邓”，今日这种取向更加明显。正如笔者强调过，这种执政思路因其内在的矛盾一定会造成混乱，自我抵触消耗，最终难以成功。这是因为，毛与邓的执政思路在本质上是不相容的。现代性的本质是自由，人的主体自由。因对自由的态度，我们可以清楚地看出，毛的思路是剥夺自由的极权的反现代思路，而邓是要有威权约束的有限度自由，因此是半现代的，毛邓有共同的部分，但其指向却是相反。</p>
-<p>邓也用毛，但在邓那里，毛只是工具性的，虚置的，服务于其威权统治的需要；毛的乌托邦、阶级斗争、民粹平均主义，排外，绝对专断是不能落实在政治实践上的。因为邓清楚，那只可能引发大众的疯狂，即使国家一时表面稳定，但绝无可能带来民族进步、文明创新所需要的活力。邓的局限在于，他的威权半自由模式可能带来某种经济的活力，但同时也注定要造成让人们愤怒的腐败和社会不公，无法创造现代中国人所最终需要的自由、文明、富裕与尊严。</p>
-<p><strong>权利增量——摆脱困境的途径</strong></p>
-<p>几年前，笔者曾以“权利增量——中国下一步改革的唯一标准”撰文，认为改革至此，不以公民权利的增量为目标，任何改革都不可能得到社会的支持，获取新的动力，造福国民，成为某种真正意义上的改革。</p>
-<p>党有权管党，甚至从严治党；但公民却没义务要接受党的严管，党也从来不具天然的合法性来严控社会。权力不减量，公民权利就无增量；约束权力的宪政精神不落实，权力独裁的倾向就一定扩张。而权力独断的结果常常就是腐败与灾难。</p>
-<p>就言论和新闻自由来讲，最近几个事件很具意涵。因受习近平青睐而异常活跃被人戏称为“带鱼”的网络写手周小平，制作的网络片子愤青程度超出官方允许的尺度而被删除，因此对几大网站表达抗议。此外，有七十八位院士级科学家上书表示对官方网络控制的不满，认为网控不利学术的发展，希望能有自由接触外界信息的权利。还有网络大Ｖ任志强因对“党媒姓党”一说表示异议而被禁声处分。这三者从不同的面向、不同的立场和地位说明中国当下言论和信息控制造成的问题和引发的不满。不仅不利当下，也可能严重影响中国的将来。</p>
-<p>中共在延安时曾主张，不要“提出一大堆批评不得的人和事，结果在事实上等于取消言论自由”（1944年8月31日“新华日报”社论）。党媒姓党，可以。但最重要的是媒体可不可以不都姓党，有些姓民，姓民的可以跟党不同调？党媒可不可以自负赢亏不花纳税人的钱？这些才是问题的关键。</p>
-<p><strong>改革、宪政与世界——迈向一个文明的中国</strong></p>
-<p>这些事件以及各种思想、宗教的分歧与发展都表明，当今中国社会已深刻地分化。任何试图强制性地将这种分化消除，将思想的纷呈和利益的分化纳入一个统一的共产主义理想式的什么梦想的做法，只能是徒劳。现代性的一个本质特征是分化，一天不承认这一点并做出与此相应的制度安排，我们一天就没有真正迈入现代的门槛。在失去共识的时代，唯一能有的共识就是承认没有共识、尊重他人权利的共识，构建一种保护各种不同意见、公民权利的制度架构的宪政共识。靠提倡“看齐意识”解决不了任何问题：“看齐”是一种队列尤其是军事队列术语，这世界上有哪个国家比象北韩那样更象军营，看齐做得更好？那难道是国人所乐见、中共所希望的？</p>
-<p>中国的困境应该靠改革来超越，但改革的取向应该是赋予人民更大的权利，而不是相反向权力看齐。前些日子习近平去小岗村，报道只粗略地讲到其宣示继续改革，党的基本路线一百年不动摇。更多篇幅却是描述询问农民吃上白馍没有，农民见到领袖如何激动。其实，今日中国实有重温小岗精神和改革经验的必要。在笔者看来，小岗村改革精神的核心就是一无所有的农民为权利而奋斗；以往中国改革成功最宝贵的经验就是真正的改革者接受小岗村这种民间的权利诉求并将其转化为全民受益的国家政策，国家社会良性互动，赋予改革更大的活力，使国家走上改革繁荣之路。</p>
-<p>显然，中国经济要想再振的要诀也只能在此。不管各类经济学家做怎样的分析判断，如此巨大且发展不均的中国肯定还是有经济继续增长的空间，但问题的关键是信心，这是现代经济稳定和发展最重要的要素。失去方向与失去信心两者必定是如影随形、高度相连的。</p>
-<p>至于体制的整体改革，只有那些对历史和现状一无所知的人，才在那里大谈什么“茉莉花革命”、“颜色革命”的后果，用来反证不能改革的必要。事实上，正如笔者多次讲过，稍明智、对情况有一点了解的人没有人会认定某种制度的确立会是一帆风顺，一蹴而就，这些国家转型出现的问题许多也是难以避免。但这恰恰说明，适时启动改革的必要，所有这些国家转型出现的问题皆可在以往威权时代找到根源；恰是拒绝适时启动改革延误时机，才会最终酿成民族的悲剧包括统治者自身的大祸，付出更高的成本。用脓包破灭后的惨状来证明脓包破灭前的美妙只能是毫无远见的愚蠢之论。</p>
-<p>我们所处的世界处于动荡，大变革的时期，各种问题、危机曾出不穷，经历一个自八、九十年代以来的全球化、自由化的大潮后，出现一种新的反弹、调整趋势，这并不意外，某种意义上讲也在逻辑之中。西方国家内部也出现诸多新的挑战，面临一些深刻的结构调整，有着其自身演变的轨迹。但我们能否就此轻下结论，西方就此沉沦，不值得学习，再犯一战后二十年代梁启超式的判断错误，误认整个国家的发展方向？</p>
-<p>西方国家的民主制度尽管面临诸多问题，也需做出新的调整和创造，但民主整体上却仍在不断深化，即使那些最极端的左右势力，也概无例外地以民主的旗帜在从事政治运作，不敢公然加以诋毁。一些民族主义，民粹主义的现象从来就不是什么全新的事物，民主政治也一直是在与这种现象的内外博弈中演变。民主制度下的权利和义务、秩序和自由、效率与公平之间的紧张不始于今日，也不会终结与明天。但迄今为止，还只有民主体制维系了比任何其他制度都要好的平衡。民主的形式可以不同，可以创新，但不能拿虚假的形式来拒绝民主的内涵和真正的精神。</p>
-<p>变动的中国和世界需要深刻、清醒具有历史感的判断。中国只有在认真汲取西方现代文明的精华之后，才能有也一定会有一个属于自己的文明再造和复兴。专看他人的问题，病态式的自我陶醉、自恋、膨胀和封闭从来是互为因果，且只能给一个个人或民族带来后患。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%E5%BC%A0%E4%BC%A6%EF%BC%9A%E5%A4%B1%E5%8E%BB%E6%96%B9%E5%90%91%E7%9A%84%E4%B8%AD%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96%87%E7%BD%91/?category=18271" rel="tag">BBC中文网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E4%BC%A6/?category=18271" rel="tag">张伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A950%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">文革50周年</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -813,7 +783,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -823,5 +793,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/bbc%E4%B8%AD%E6%96
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

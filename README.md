@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,43 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%E7%AB%AF%E4%BC%A0%E5%AA%92%E7%AD%89%E5%A2%83%E5%A4%96%E5%AA%92%E4%BD%93%E5%9C%A8%E4%B9%8C%E5%9D%8E%E6%9D%91/" target="cdt-mirror">【异闻观止】苹果日报端传媒等境外媒体在乌坎煽动策划导演</a>
+</h2>
+<p><p>【编者注】2011年<span>12月18日，</span><strong>郑雁雄</strong>在<a href="http://webcache.googleusercontent.com/search?q=cache:cysH16APmYAJ:www.360doc.com/content/12/0119/12/142_180332755.shtml+" target="_blank">陆丰乌坎干部群众代表见面会</a>中因发表“境外媒体信得过，母猪都会上树”“你以为请武警不用钱呀？”等言论而成为当时的舆论焦点。2013年7月，<strong>郑雁雄</strong><a href="http://news.sina.com.cn/c/2013-07-08/114127607697.shtml" target="_blank">任<strong>广东省委宣传部副部长</strong></a>。时任该省宣传部部长为<a href="http://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E5%91%A8%E6%96%B0%E5%B9%B4%E7%8C%AE%E8%BE%9E%E4%BA%8B%E4%BB%B6/" target="_blank">南周新年献辞事件</a>中的<a href="http://chinadigitaltimes.net/chinese/tag/%E5%BA%B9%E9%9C%87/" target="_blank">庹震</a>。2015年7月，庹震任中共中央宣传部副部长。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%83%91%E9%9B%81%E9%9B%841.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%83%91%E9%9B%81%E9%9B%841.jpg?resize=450%2C339" alt="郑雁雄1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄1.jpg?w=1416 1416w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄1.jpg?resize=300%2C226 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄1.jpg?resize=768%2C579 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄1.jpg?resize=1024%2C772 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%83%91%E9%9B%81%E9%9B%842.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%83%91%E9%9B%81%E9%9B%842.jpg?resize=450%2C338" alt="郑雁雄2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄2.jpg?w=1415 1415w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄2.jpg?resize=300%2C226 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄2.jpg?resize=768%2C577 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄2.jpg?resize=1024%2C770 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%83%91%E9%9B%81%E9%9B%843.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%83%91%E9%9B%81%E9%9B%843.jpg?resize=450%2C338" alt="郑雁雄3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄3.jpg?w=1416 1416w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄3.jpg?resize=300%2C226 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄3.jpg?resize=768%2C578 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/郑雁雄3.jpg?resize=1024%2C770 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><span><a href="http://chinadigitaltimes.net/chinese/2011/12/%E6%B1%95%E5%B0%BE%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%83%91%E9%9B%81%E9%9B%84%EF%BC%9A%E4%BD%A0%E4%BB%A5%E4%B8%BA%E8%AF%B7%E6%AD%A6%E8%AD%A6%E4%B8%8D%E8%A6%81%E9%92%B1%E5%91%80_/" target="_blank">郑雁雄视频截图</a></span></p>
+<p><strong><a href="http://news.southcn.com/shouyeyaowen/content/2016-06/21/content_149829635.htm" target="_blank">南方网｜汕尾政府：苹果日报端传媒等境外媒体在乌坎村进行煽动策划导演</a></strong></p>
+<blockquote><p>南方网记者从21日上午在广东汕尾市举行的情况通报会上获悉，苹果日报等个别境外媒体在乌坎村进行煽动、策划、导演。</p>
+<p>汕尾市人民政府新闻办公室主任施硕焱21日在此间指出，我们欢迎境内外媒体依法依规客观、公正地采访、报道，但苹果日报、端传媒等个别境外媒体在乌坎村内进行煽动、策划、导演。我们将依法采取措施。</p></blockquote>
+<p><strong><br>
+以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/3742906952" target="_blank">@一个叫MQ的人</a>：他妈的什么都有境外势力～咱们社会主义国家这么容易被渗透？？？<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p>@内蒙古烤白鼠：境外媒体比FBI都牛逼，普京大帝的克格勃都自惭形秽！</p>
+<p>@blogzhou：草拟吗，天天境外势力，尼玛比的自己家人却愿意送到境外势力去</p>
+<p>@嗟僧：把苹果日报说成境外媒体，哎，这反动的，可以判叛国罪么？</p>
+<p>@少年无语_200：苹果日报是境外媒体？不把同胞当自己人嘛。</p>
+<p>@海角闲散人：汕尾政府视国家分裂法为无物，居然说香港为境外，汕尾政府你已严重触犯反分裂法。</p>
+<p>@Colorido：你以为全世界都姓党呢？呵呵</p>
+<p>@中原偉極：为什么现在*%#¥说的话都没人信了？</p>
+<p>@憨傻木：境外媒体比政府公信力强得多</p>
+<p>@我这人儿口碑贼好你信不:境外势力都渗透到村支书这一级了，怎么他妈的还不颠覆政权？等屎吗？</p>
+<p>@yyyailan：政府说查他3个月了 为什么到准备上访前两天抓他 还是深夜设计抓走，真抓一个贪污70多岁老人，需要出动上千名警察围住村庄 封锁消息，为什么他孙子被抓之后 这视频才发出来，视频出后 他孙子也就放出来了出来了，不敢想一个70多岁的老人 会被怎样对待，天理何在</p>
+<p>@在路上的记录者：经中央决定，资本主义走狗，反动派司令刘少奇同志反党反革命罪刑事实清楚，证据确凿。</p>
+<p>@JIE的一些事一些情：现在的制度，zf说什么就是什么，你看这所谓的认罪有经过法院的审讯？我们顺德乐从这边几条村卖地的款项就是被Zf扣着，要不就少分，你想分还要签些所谓的协议，剩下全部的土地全部给他！每天跟他交涉，就是那几句说辞，还带上特警！根本就没有解决诉求，说不定乌坎的今日，就是我们的明日</p>
+<p>@南不彻：境外媒体境外势力好忙啊。</p>
+<p>@梦剧场的小小睿：全球都是敌对势力，出了巴基斯坦等几位老朋友</p>
+<p>@无天世界：境內势力不敢播，全是境外的在播，看來境內沒有媒體了。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B1%95%E5%B0%BE%E6%94%BF%E5%BA%9C.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B1%95%E5%B0%BE%E6%94%BF%E5%BA%9C.png?resize=500%2C1889" alt="汕尾政府" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/汕尾政府.png?w=606 606w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/汕尾政府.png?resize=271%2C1024 271w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>微博评论截图</span></p></div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%E7%AB%AF%E4%BC%A0%E5%AA%92%E7%AD%89%E5%A2%83%E5%A4%96%E5%AA%92%E4%BD%93%E5%9C%A8%E4%B9%8C%E5%9D%8E%E6%9D%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8B%E5%90%8E%E7%AE%97%E5%B8%90/?category=18271" rel="tag">秋后算帐</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%91%E9%9B%81%E9%9B%84/?category=18271" rel="tag">郑雁雄</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E4%B9%8C%E5%9D%8E%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%AE%A4%E7%BD%AA%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89/" target="cdt-mirror">【CDTV】乌坎村长林祖恋认罪视频曝光</a>
 </h2>
 <p><p>新闻背景：</p>
@@ -552,46 +586,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF-%E8%B5%84%E6%9C%AC%E5%AE%B6%E7%AB%9F%E7%84%B6%E6%95%A2%E6%89%93%E7%BE%A4%E4%BC%97%E5%B1%81%E8%82%A1/" target="cdt-mirror">我的名字叫警长 | 资本家竟然敢打群众屁股</a>
-</h2>
-<p><p> </p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640XJ6C0TQS.jpg?resize=600%2C472" alt="640XJ6C0TQS" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640XJ6C0TQS.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640XJ6C0TQS.jpg?resize=300%2C236 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>曹山石微博放出一则视频，视频中，山西长治漳泽农商银行管理层在台上逐个打员工屁股，以惩罚其没有完成业绩任务。</p>
-<p>视频<a href="http://weibo.com/p/2304443e8b3c6f901e69136241a82f3ef97f37">地址</a></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6405METT7F9.jpg?resize=600%2C541" alt="6405METT7F9" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6405METT7F9.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/6405METT7F9.jpg?resize=300%2C270 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>相关官方报道：</p>
-<p>新京报快讯(记者王煜)8名身穿职业装的男女站成一排，一名中年男子手持木板，轮流抽打8人的屁股······昨日晚间开始，这样一段视频在网络流传。今天中午，新京报记者从山西长治漳泽农村商业银行获悉，上述视频拍摄于该行一次内部培训会，挨打员工系玩游戏失败后受罚，与业绩无关。</p>
-<p>在网传这段长达1分15秒的视频中，新京报记者看到，拍摄地位于某酒店大厅内，4名男子和4名女子穿着整齐，面朝台下观众站成一排。一名戴着眼镜，手持长条状木板的中年男子手持话筒，挨个向8人问话，内容为“今天为什么最后”。台上8人回答情况不一，包括“凝聚力不够”、“勇气不够”、“没有突破自我”、“团队凝聚力不强”、“放不下”、“没有狠下心”等。随后，该名男子依次用手中的木板抽打上述8人的臀部，来回四次。</p>
-<p>新京报记者注意到，该名男子抽打的力度很大，发出清脆的“啪啪”声。当抽到第四轮时，台上几名女子表情痛苦，试图用手遮挡臀部，而中年男子则大喝“把手拿开”。</p>
-<p>而另据网友爆料称，当天在同一场合，另有不少男子被剃光头，并拍照上传网络。</p>
-<p>新京报记者获悉，视频拍摄地位于山西长治某酒店内，视频中被“打屁股”“剃光头”的人，是长治漳泽农村商业银行的工作人员。有网友称，因未按规定完成业绩指标，这些银行工作人员在业绩大会上受到公开惩罚。</p>
-<p>今日中午，漳泽农村商业银行向新京报记者否认了上述说法。该行总行办公室一名工作人员告诉新京报记者，视频拍摄于18日，拍摄场合并非“业绩大会”，而是一场主题为“心灵成长”的内部培训会，参会人员均为该行一线员工，无领导出席。这名工作人员称，视频中打人者系外聘培训公司讲师，负责当天的主持和游戏环节。“员工被分成了几组，玩抢答这样的游戏，最后得分低的要受惩罚，可以选集体唱歌，或者挨打这样的。”上述工作人员表示，此次培训会“与业绩无关”，事后也没有员工反映“玩过头”。</p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF-%E8%B5%84%E6%9C%AC%E5%AE%B6%E7%AB%9F%E7%84%B6%E6%95%A2%E6%89%93%E7%BE%A4%E4%BC%97%E5%B1%81%E8%82%A1/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p><strong>以下为数字时代编辑摘自部分网友评论：</strong></p>
-<p>@夏青律师山东：这是刺裸裸的侵犯人身权，如此”教育”员工的领导，我能弱弱的问一句：谁给了你打人的权力？我更要问一下被打的员工：”你为什么同意别人打你？为什么不维护自己的权利？”</p>
-<p>@浩浩然然儿：打屁股过程中，听到一句，把手拿开，很显然第一个女员工已经～真想两巴掌抡回去。</p>
-<p>@七点六十分：这种领导都他妈去死吧，被打的那么多人怎么不巴掌糊领导脸上，那些男的也他妈都太挫，没本事到被打，也没本事不敢打回去，女的老公都哪去了，巴掌糊上去啊，自己老婆自己养，被垃圾领导打屁股算什么鬼。</p>
-<p>@西伯利亚的翔：当年在山西证券某家营业部，新换过来个老总，以前是当兵的.来了就粗暴对待技术人员，呵斥了我几句，我第二天就交辞职报告了，不和这帮山炮们玩了。</p>
-<p>@QSI8：没有反抗没有血性。非要这份讨饭的工作？</p>
-<p>@牛郎织股：这么变态啊！体罚这不违法吗？</p>
-<p>@香树叶：怎么还有这种管理模式。可悲</p>
-<p>@彭揚PENGYANG：真心疼被打的员工。</p>
-<p>@一片清新在玉壶：就这水平！农商行快倒闭呀。我不去存钱了。</p>
-<p>@Mairs549：如此体罚员工，罪过当诛。</p>
-<p>@自殺一百次：你当我们傻 现场那个气氛会是玩游戏？</p>
-<p>@我还能再吃点儿：你以为他们愿意挨打吗？你知道在小地方找到农商行这样的工作多不容易吗？</p>
-<p>@刘少刚：他老子花了二十万把他们闹进入就是打死也不敢还手。</p>
-<p>@素人先生：“你了解中国吗？你到过中国吗？你知道中国已经把保护人权写进宪法了吗？我告诉你！最了解中国人权状况的不是你，是中国人自己”—外交部长王毅先生。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640D49FOIA6.jpg?resize=600%2C2280" alt="640D49FOIA6" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640D49FOIA6.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640D49FOIA6.jpg?resize=79%2C300 79w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF-%E8%B5%84%E6%9C%AC%E5%AE%B6%E7%AB%9F%E7%84%B6%E6%95%A2%E6%89%93%E7%BE%A4%E4%BC%97%E5%B1%81%E8%82%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E7%BD%9A/?category=18271" rel="tag">体罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E5%95%86%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">农商银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%8A%97/?category=18271" rel="tag">反抗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E8%A5%BF/?category=18271" rel="tag">山西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%A9%E7%BD%9A/?category=18271" rel="tag">惩罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E5%B1%B1%E7%9F%B3/?category=18271" rel="tag">曹山石</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E6%B2%BB%E6%BC%B3%E6%B3%BD/?category=18271" rel="tag">长治漳泽</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -603,7 +597,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -613,5 +607,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%99%BD%E4%BA%91%E8%B7%AF%E5%B0%8F%E5%AD%A6%E6%9C%80%E6%96%B0%E6%A3%80%E6%B5%8B%EF%BC%9A%E6%95%99%E5%AE%A4%E7%94%B2%E9%86%9B%E5%85%A8%E9%83%A8/" target="cdt-mirror">财新网｜北京白云路小学最新检测：教室甲醛全部超标</a>
+</h2>
+<p><p>【编者注】财新网原文及门户网站转发均已被和谐。以下内容来自<a href="http://webcache.googleusercontent.com/search?q=cache:T8GARs4RWm8J:china.caixin.com/2016-06-22/100957475.html+&cd=1&hl=en&ct=clnk&gl=us" target="_blank">谷歌快照</a>：</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%BA%AC%E5%AE%9E%E9%AA%8C%E4%BA%8C%E5%B0%8F%E7%99%BD%E4%BA%91%E8%B7%AF%E5%88%86%E6%A0%A12.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%BA%AC%E5%AE%9E%E9%AA%8C%E4%BA%8C%E5%B0%8F%E7%99%BD%E4%BA%91%E8%B7%AF%E5%88%86%E6%A0%A12.jpg?resize=575%2C383" alt="京实验二小白云路分校2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/京实验二小白云路分校2.jpg?w=1681 1681w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/京实验二小白云路分校2.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/京实验二小白云路分校2.jpg?resize=768%2C511 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/京实验二小白云路分校2.jpg?resize=1024%2C682 1024w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2016年6月17日，北京西城区教委对实验二小白云路分校操场进行全场拆除。 视觉中国</span></p></div>
+<p>（见习记者 周辰）2016年6月22日，北京第二实验小学白云路分校（下称：白云路小学）的跑道质量与教室室内空气质量第三方检测结果公布，与之前检测的结果大相径庭，该校已被拆除的塑胶跑道有两项指标被检测出有问题，被采样的16间教室的室内空气中，甲醛全部高于参考限值。</p>
+<p>教室内被普遍测出超标的甲醛属于I类致癌物，长期、低浓度接触甲醛会引起头痛、头晕、乏力、感觉障碍、免疫力降低，并可出现瞌睡、记忆力减退或神经衰弱、精神抑郁；慢性中毒对呼吸系统的危害也是巨大的，长期接触甲醛可引发呼吸功能障碍和肝中毒性病变，表现为肝细胞损伤、肝辐射能异常等。</p>
+<p>针对此次检测结果，家长们表示，学校应停用所有教室，马上进行除甲醛处理。</p>
+<p>除教室环境外，家长提供的电子版报告结论称，学校跑道材料中多环芳烃、短链氯化石蜡结果都高于参考限值；4,4’-二氨基-3,3’二氯二苯甲烷（MOCA）部分取样点含量高于参考限值。</p>
+<p>据深圳市教育局委托深圳市建筑科学研究院编制完成的《合成材料运动场地面层质量控制标准》（征求意见稿）介绍，多环芳烃是一种由二至七个不等的苯环所组成的化学物质，具有致癌性。预制橡胶卷材、橡胶类防滑用颗粒和橡胶类填充用颗粒中都有可能含有多环芳烃。</p>
+<p>氯化石蜡为聚氨酯类合成材料面层（除人造草坪）中的增塑剂和阻燃剂，可改善运动场地物理性能。通常来说添加的为中长链氯化石蜡，未有毒性，但其中可能含有少量有毒性的短链氯化石蜡或者被人为掺入价格较低的短链氯化石蜡，因此需控制短链氯化石蜡的含量。</p>
+<p>MOCA 主要用作现浇型聚氨酯材料的催化剂，有致癌性。</p>
+<p>按照深圳标准规定，当重金属、MOCA、多环芳烃、苯并[a]芘、短链氯化石蜡、邻苯二甲酸酯类等有害物质含量超标时，应作更换或拆除处理。</p>
+<p>此次发布结果的检测并不是针对白云路小学跑道和教室空气的首次第三方检测。6月5日，国家建筑材料质量监督检验中心曾对该校操场进行采样。6月12日，西城区政府及教委相关负责人召开发布会公布了检测结果，除一间音乐教室甲醛超标外，其余教室空气和塑胶操场检测样本各项指标均符合国家标准。</p>
+<p>虽然首次第三方检测的结果都显示正常，但西城区委常委、副区长陈宁在12日的发布会上表示，由于异常气味还存在，为了学生的健康，决定彻底整改。6月17日，在家长们的持续呼吁下，白云路小学的塑胶跑道被拆除。</p>
+<p>由于第一次检测的报告一直没有公布，家长们一直对检测结果真实性持质疑态度。此外，该检测只根据现行的塑胶跑道国标，检测项目较少，家长们希望能参考深圳更严格的地方标准对跑道进行检测。于是在经过西城区教委有关领导和白云路分校校方领导同意后，6月12日，由家长们指定的深圳信测标准技术服务股份有限公司光明分公司对白云路分校有关环境指标再次进行了检测。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%99%BD%E4%BA%91%E8%B7%AF%E5%B0%8F%E5%AD%A6%E6%9C%80%E6%96%B0%E6%A3%80%E6%B5%8B%EF%BC%9A%E6%95%99%E5%AE%A4%E7%94%B2%E9%86%9B%E5%85%A8%E9%83%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%92%E8%B7%91%E9%81%93/?category=18271" rel="tag">毒跑道</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%86%9B%E4%BA%8B%E6%96%B0%E9%97%BB%E5%92%8C%E4%BF%A1%E6%81%AF/" target="cdt-mirror">【立此存照】军事新闻和信息，红白脸，甚至战略误导</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=550%2C413" alt="CliJRJXUYAABXAA" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?w=1200 1200w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=768%2C577 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=1024%2C769 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>一，军事新闻和信息要由经过授权的机构和人员发布；</p>
+<p>二，对反军乱军言论要坚决取缔，并依法制裁；</p>
+<p>三，对重大网络泄密事件要追究责任，依法处理。</p>
+<p>四，对重大事件要有表态口径，界定哪些话可以说，哪些话不可以说，说到什么程度。可以设计红白脸，甚至战略误导。</p>
+<p> </p>
+<hr><p><small>© 这个事不好说太细 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%86%9B%E4%BA%8B%E6%96%B0%E9%97%BB%E5%92%8C%E4%BF%A1%E6%81%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91-%E5%86%9B%E4%BA%8B%E6%96%B0%E9%97%BB%E5%92%8C%E4%BF%A1%E6%81%AF/" target="cdt-mirror">【立此存照】军事新闻和信息</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=550%2C413" alt="CliJRJXUYAABXAA" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?w=1200 1200w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=768%2C577 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/CliJRJXUYAABXAA.jpg?resize=1024%2C769 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -633,112 +672,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%8A%A5%E9%81%93%E8%80%85-%E6%88%91%E7%9A%84%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%88%B8%E7%88%B8-%E4%B8%8E%E6%9C%80%E9%BB%91%E6%9A%97%E7%9A%84%E9%9D%92%E6%98%A5%E6%9C%9F/" target="cdt-mirror">报道者 | 我的维权律师爸爸 与最黑暗的青春期</a>
-</h2>
-<p><p>6月14日，中国国务院公布<a href="http://www.scio.gov.cn/zxbd/wz/Document/1480082/1480082.htm">《国家人权行动计划（2012-2015年）实施评估报告》</a>，《新华社》宣称，经过这3年推动，「公民权利和政治权利得到切实保障」、「正常宗教活动依法得到保护」、「中国人权事业又上了一个新台阶」。</p>
-<p>讽刺的是，就在同一天，正遭中共当局软禁的维权律师、曾多次获提名诺贝尔和平奖的高智晟，他的新书<a href="http://www.books.com.tw/products/0010719448">《2017年，起来中国──酷刑下的维权律师》</a>问世，书中详细揭露高遭到中共多次绑架、监禁、酷刑虐待的遭遇。而高智晟逃亡美国的女儿耿格，代父出征，赴香港和台湾举行记者会宣传新书。</p>
-<p>一种中国人权，各自表述。透过耿格的亲身经历，更显得无比荒谬。</p>
-<p>16日早晨，在旅馆接受《报导者》专访的耿格，忆起13岁到23岁这10年的人生，她多次禁不住掉泪说：「一直到现在我都觉得，我的青春期是人生当中最黑暗的一段时期。」一袭素色上衣、未施粉脂、23岁的耿格，开门见山就为自己的生命故事下了注脚。</p>
-<p>高智晟自1996年担任执业律师後，设下「三分之一案件要为穷人弱势免费打官司」的原则；2004年起，他开始为遭受政府迫害的弱势者维权，包括强制拆迁户、法轮功信徒??等，此举触怒中共当局，开始软硬兼施对他监控。有这样一位维权爸爸，也让耿格展开一段没人能理解和想像的残酷青春岁月。</p>
-<p>最黑暗的青春期，无止尽的羞辱和难堪</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-230photo20-1466325389-28.jpg?resize=600%2C400" alt="中國維權律師高智晟女兒耿格訪問。(攝影/余志偉)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-230photo20-1466325389-28.jpg?w=2800 2800w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-230photo20-1466325389-28.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-230photo20-1466325389-28.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-230photo20-1466325389-28.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>别人的青春岁月有酸甜苦辣更有活力奔放，而耿格13岁起的岁月，是以无止尽的羞辱和难堪开展的。（摄影／余志伟）</p></div>
-<p>2006年某天，才13岁上初中的耿格随妈妈耿和上街剪头发，理发店中突然闯入数十人将她们团团包围，接着母女被押回家，「回家以後爸爸不在家了、家里被警察搬空了，除了沙发、电视和床，家里什麽都没有了、财产也都没了。」那是耿格印象中父亲高智晟首次被绑架。从这天起，耿格的黑暗青春期正式拉开序幕。</p>
-<p>除了家中涌入的10多名警察，楼下更挤满上百名警察，耿格和妈妈被带到不同房间，「他们对我说，『你爸爸做了错事情，你能不能提供什麽证据啊？你知不知道家里的一些东西藏在哪？』我说不知道，他们就把我推开。」耿格回忆，那天起她和妈妈、弟弟高天昱遭严密监控、不能出门，连洗澡、上厕所都被看着，吃的是警察换班时带来的剩饭。</p>
-<p>数月後，耿格终於能回学校上学，但却开启她另一场噩梦。每天有7位警察如影随形跟着她上学，为了更便於监控并减少她与同学接触的机会，校方将耿格所在的大楼净空，把多数学生集中到别栋大楼，而原有大楼里只剩她所属的班级；警察把所有的门，包括女厕门拆掉，不给她任何私密空间的可能；校方积极地配合警察，禁止全班与耿格说话，而午休时间，警察会将她带到操场上殴打，并对围观学生说：「这孩子该打！她爸爸是政治犯，她死了都不足惜！」</p>
-<p>用家人来威胁在黑牢里的高智晟，用一对孩子的痛苦和受虐，让一位父亲心软妥协，共产党恐惧的治理，彻底将这一家人隔绝。</p>
-<p>这些突来的剧变，让从小被父母捧在手心的「格格」（耿格的小名）痛苦至极。她没有朋友，恐怖的际遇逼着她过早成熟；被打时，她会瞒着母亲真相，说身上的伤是「摔的」；当高智晟一度被放回家，心里委屈的耿格向爸爸倾诉着：「爸爸，他们会在学校打我，但是，不疼的！」</p>
-<p>别人的青春岁月有酸甜苦辣、更有活力奔放，而耿格从13岁起的岁月，是以无止尽的羞辱和难堪开展的。</p>
-<p>无法忍受一对孩子这样过活，高智晟夫妻密商，让耿和带着儿女偷渡出国。於是，3人在2009年逃离中国，离开了高智晟。</p>
-<p>颠沛的逃亡之路，一个丸子也买不起</p>
-<p>2009一个无预警的早晨，母亲临时带姊弟两人出远门，高智晟走近耿格重重地抱了她一下，亲了她一会儿，「我当时觉得，不会又要出什麽事了吧??我猜到我们要离开了。」耿格哽咽谈着与父亲的离别，「那是我最後一面见他。」</p>
-<p>耿和带着孩子搭火车、公车、摩托车一路到云南，再转往缅甸、泰国。偷渡的过程，走私集团的蛇头带着才5岁的高天昱行动，耿和与耿格则另外搭摩托车，然而母女俩却在缅泰边境被缅甸民兵抓了。「他们把我们关起来，用枪指着我们，」耿格回忆着当时的恐怖场景，弟弟跟着人蛇不知去向，母女又被抓了，她的母亲当下情绪崩溃，几乎觉得活不下去了。</p>
-<p>16岁的耿格不得不冷静下来，她灵机一动，用英语对看守的士兵们大喊说，她们有非常多现金寄放在附近县城亲戚（指蛇头）家。起了贪念的两名士兵偷偷把母女两人带到蛇头家，换走了一大袋现金，那数十万人民币其实是耿和打算让一家人在国外生活的存款，如今用来换得一家三口团圆，以及顺利进入泰国。</p>
-<p>好不容易到了曼谷，母女三人躲在大巴士行李舱，此前跟随蛇头好几天没吃东西的弟弟看到车站附近有人卖牛肉丸，才对耿格说，「姊姊，我想吃一个丸子！」但耿格给不起，「我们一分钱也没有，当时特别难过，我真的没办法满足他的一个小愿望，」回想起这过程，耿格泪流不止。</p>
-<p>经常性的自残，只想知道自己还活着</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-217photo20-1466325599-44.jpg?resize=600%2C400" alt="中國維權律師高智晟女兒耿格訪問。(攝影/余志偉)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-217photo20-1466325599-44.jpg?w=2800 2800w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-217photo20-1466325599-44.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-217photo20-1466325599-44.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-217photo20-1466325599-44.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>回想起逃离中国的过程，耿格泪流不止。（摄影／余志伟）</p></div>
-<p>在美国官方协助下，耿和母女三人顺利来到美国。但经济压力加上过去的所有际遇，马上如梦魇般向耿格排山倒海袭来，「开始回顾之前发生的事情，发现所有事情都想不明白，就开始觉得很depressed（沮丧）、觉得……清醒，太可怕了！」耿格说。於是她一直睡觉，睡不着就拿厚辞典砸头，想砸晕自己。</p>
-<p>「我一直不明白他们的底限在哪？为什麽有人坏得这麽没底限？我觉得都已经坏到根里去了！」从13岁开始，一直到16岁逃离至美国，到现在23岁了，很长一段时间，她不清楚为什麽自己会面临这种遭遇？她经常性自残，即便到了美国，她也曾割腕自杀。</p>
-<p>「这是一种持续性的痛苦，持续性的痛苦你就不太知道自己是不是还活着，有时候会觉得，可能这就是已经死了吧！怎麽会这麽痛苦？那时候在手上划很多口子，只是想知道自己还活着。」</p>
-<p>耿格曾试图用火烧自己的脸，因此被送进精神病院，当她受不了医院的压抑环境，再假装自己很健康，该笑的时候笑、该参加meeting就参加meeting，医师让她出院後，她又再尝试自杀。</p>
-<p>她曾在绝望下，吃了一整瓶抗抑郁药，当她躺在床上觉得心跳越来越慢，却听见弟弟在房门外的叫声笑闹声，这又把她拉回真实世界，「我想一想，觉得我不能这麽自私??我再这样的话，那我不就是又逼死了妈妈、又逼死了我弟弟？我怎麽也要陪妈妈走到那一天，她跟我爸爸团圆的那一天。」於是她拿起电话，请朋友协助将她送医。</p>
-<p>如今耿格的生活终於步上常轨，靠着打工经济独立，独自在外念大学；而耿和则忙於照料高天昱，藉由担任二房东以及香港立法会议员何俊仁汇钱接济维生。而2014年後，高智晟也从监狱被放出，至今仍遭软禁在老家陕西榆林佳县。</p>
-<p>但多般折磨已让23岁的耿格显得过度老成，甚至自我武装。</p>
-<p>重新理解父亲，相信父亲的选择</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-220photo20-1466325764-83.jpg?resize=600%2C400" alt="中國維權律師高智晟女兒耿格訪問。(攝影/余志偉)" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-220photo20-1466325764-83.jpg?w=2800 2800w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-220photo20-1466325764-83.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-220photo20-1466325764-83.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-220photo20-1466325764-83.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>耿格一路以来的境遇，是肇因於她的维权律师父亲。她坦言，过去有段时间对父亲「非常非常不理解」。（摄影／余志伟）</p></div>
-<p>耿格一路以来的境遇，是肇因於她的维权律师父亲。她坦言，过去有段时间对父亲「非常非常不理解」。</p>
-<p>她曾追问她父亲，「为什麽有的爸爸可以当家里的一盏灯？就算你不亮也没关系，你可以在家里面只照亮我们一家人??。」</p>
-<p>高智晟对最疼爱的女儿格格说：「中国的那些穷人和农民，穷到骨子里、穷到尘埃里去，谁也不拿他们当个人，谁都可以踩他们，这种人不值得去关心一下吗？」「我现在还不能当家里的灯，但再给我几年时间，我会回到家里做那盏灯。」。</p>
-<p>想把爱给更多人，不让更多孩子像耿格一样有相同遭遇，高智晟的抉择令人敬佩，却对自己和家人十分残忍。</p>
-<p>约半年多前，高智晟与耿格通了电话，告诉女儿自己在写一本书，并说这本书出版後，「可能有段时间见不到爸爸」，他暗示已有再度被抓、甚至牺牲的心理准备，他安慰耿格，「不要难过，要好好生活，没有什麽大事情。」</p>
-<p>书稿自中国安全送出後，耿格花了两天时间读完。「看完很难过！很疼！」「我不觉得这是一个人应该去经历的，也不觉得有谁可以走过这样的一段路。」这是耿格第一次这麽详细地了解父亲的遭遇。耿格说，爸爸从小就经历了最底层的贫穷生活，每天走十几里山路上学、吃饭只有稀粥、从小带着他弟弟采草药卖钱，特别能够同理那些最卑微的人，并不惜走上今天这条路。「他做这些事情的背後是有一个更大的意义在，所以疼痛过後还是觉得，他很伟大！」</p>
-<p>现在，耿格对高智晟是既理解也支持，「因为我连人生的启蒙、事情的对和错都是他教的，他做的事情一定有他的道理。」</p>
-<p>高智晟历经了常人难以承受的苦难，笃信基督教的他在新书中提及不少神谕与启示，因而相信2017年共产党将败亡，中国将走出希望。我们问耿格如何解读此预言？这样具体的预测有理性基础吗？她说，爸爸没写得非常具体，但书中还是有些理性的基础，「最重要的是，我觉得我爸爸对神有faith（信仰），而我对我爸爸有faith。」</p>
-<p>新书出版充满波折，如同中国维权的困境</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-233photo20-1466325837-100.jpg?resize=600%2C400" alt="中國維權律師高智晟女兒耿格(右)訪問，對華授助協會主席Bob Fu。(攝影/余志偉)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-233photo20-1466325837-100.jpg?w=2800 2800w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-233photo20-1466325837-100.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-233photo20-1466325837-100.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/scale-2800x0x0x0-233photo20-1466325837-100.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>「美国对华援助协会」会长傅希秋牧师（左），协助耿格母女出逃，为高智晟出版新书。（摄影／余志伟）</p></div>
-<p>为高智晟出版新书、也是协助耿格母女出逃的「美国对华援助协会」会长傅希秋牧师曾因六四事件、牧师身分遭中共迫害，後赴美从事援助中国良心犯的工作。他透露此次出书过程一个小波折，他担心2017中共败亡的预言若失效将损及高智晟的公信力，因而将封面书名副标「酷刑下的维权律师高智晟自述」与主标「2017年，起来中国」对调。未料，高得知此事时，却坚持要求改回来，还强调这是自己具体感受到、愿意承担，傅希秋只得赶紧通知开印了一半的印刷厂，出书前两周才又重新排版印刷。</p>
-<p>此外，新书能够付印，中间历尽了艰难，另一协助出版的「台湾关怀中国人权联盟」秘书长邱龄瑶透露，高智晟的手稿并非直接运出中国，而是在中国租间屋子、透过关系四处找了一批人，签切结书，日以继夜花上几星期打出那50万字，再透过Email寄到美国。行动过後大家一窝蜂四散，彼此不再联络。</p>
-<p>出版是下一个难题。傅希秋表示，当初找了好多香港、台湾的出版社洽谈繁体中文版，却没有人敢接，最终只好和关怀中国人权联盟共同出版，至今在香港连代理书商都找不到。</p>
-<p>访谈的尾声，耿格提起她对台湾读者的期待，「大家尽己所能地去了解一下，这个就在你们旁边的国家到底发生了什麽？起码了解一下，这个政府是怎麽样对待国民。」她期许，若有一天需要台湾民众帮忙中国人权做些什麽工作，哪怕只是协助发声，大家不会对中国一无所知。</p>
-<p>有一个维权父亲，让耿格在痛苦、屈辱、怀疑中长大。至今她很少对同学朋友透露自己曾有过的恐怖经验，而访谈时，仍能感受耿格本能的自我防卫，一有风吹草动眼神就特别锐利和警觉。她说，青春时的记忆没有一点是好的，如果当时同学能对她表现出一点友好、一点理解，她或许不会像今天这麽难过，以及对人性感到恐惧。</p>
-<p>如今，耿格在大学主修经济学，将更多精力放在生活、学业上，她也慢慢理解父亲的抉择、慢慢让心灵的伤口癒合。问她是否觉得自己像座孤岛般孤独？「还好，日子再久些可能会更好一点，」她说。</p>
-<p>後记</p>
-<p>当耿格在台湾宣传、才离港两天，失踪多月的香港铜锣湾书店店长林荣基召开震撼各界的记者会，公开自己遭中共当局绑架、囚禁、逼拍认罪影片的经历；再隔天则传出，5年前广东乌崁事件当中，带领村民维权的乌崁村委会主任林祖恋遭警察强行押走。6月份的中国人权事件特别「热闹」，而高智晟新书的问世以及耿格的现身揭露，则如警钟一般，预示着类似的连串事件，还远远看不到尽头。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%8A%A5%E9%81%93%E8%80%85-%E6%88%91%E7%9A%84%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E7%88%B8%E7%88%B8-%E4%B8%8E%E6%9C%80%E9%BB%91%E6%9A%97%E7%9A%84%E9%9D%92%E6%98%A5%E6%9C%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">中国人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%89%AF%E5%BF%83/?category=18271" rel="tag">中国良心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E8%A1%8C%E5%8A%A8/?category=18271" rel="tag">人权行动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91/?category=18271" rel="tag">公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">六四事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E7%A5%9E%E7%97%85/?category=18271" rel="tag">精神病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%A6%E9%9A%BE/?category=18271" rel="tag">苦难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96/?category=18271" rel="tag">诺贝尔和平奖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%99%BA%E6%99%9F/?category=18271" rel="tag">高智晟</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%AF%B4%E4%BD%A0%E8%B4%AA%E6%B1%A1%E4%BD%A0%E5%B0%B1%E5%BE%97%E8%B4%AA%E6%B1%A1/" target="cdt-mirror">【网络民议】党说你贪污你就得贪污</a>
-</h2>
-<p><p>新快报 | 检方：乌坎村原村支书记林祖恋承认收受巨大回扣</p>
-<p>昨日（6月20日），广东省汕尾陆丰市东海镇乌坎村原党总支部书记、村委会主任林祖恋在接受陆丰市检察机关审讯时，主动供认了自己收受贿赂的事实。林祖恋向办案人员坦承，“由于自己对法律知识的淡薄和无知，在民生工程中收受了回扣，以及在村集体购买资产中也收受了巨大的回扣，这点是我最大的犯罪行为。我在这问题上一定如实地向检察机关投案自首，对这点我会如实坦白地交待。”</p>
-<p>据悉，今年以来，陆丰市有关部门陆续收到群众举报，反映乌坎村党总支部书记、村委会主任林祖恋收受贿赂。经过三个多月的初查，陆丰市检察院于2016 年6 月17 日正式对林祖恋涉嫌受贿问题立案侦查，并采取强制措施。经初步审查，林祖恋在担任乌坎村党支部书记、村委会主任期间，利用工程项目建设管理的职务便利，在民生工程项目发包等环节收受贿赂，数额巨大，其行为已经触犯刑法关于受贿罪的规定。</p>
-<p>目前，林祖恋已被免去乌坎村党总支部书记职务，其受贿问题正在进一步侦办。乌坎村党总支副书记张水金主持村全面工作。</p>
-<p>（新快报记者 彭程）</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160621103012490b8.jpg.545x10000.75.auto_.jpg?resize=545%2C304" alt="汕尾市人民检察院检察长袁怀宇在发布会上作出通报，并播放了林祖恋供认收受贿赂的视频。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160621103012490b8.jpg.545x10000.75.auto_.jpg?w=545 545w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160621103012490b8.jpg.545x10000.75.auto_.jpg?resize=300%2C167 300w" sizes="(max-width: 545px) 100vw, 545px" data-recalc-dims="1"><p>汕尾市人民检察院检察长袁怀宇在发布会上作出通报，并播放了林祖恋供认收受贿赂的视频。</p></div>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>@孙斌律师Mirabeau：检方公布，他承认自己是外星人我也不觉得惊讶。</p>
-<p>@猪哥真性感：这一招已经使老了，没人会信的。</p>
-<p>@慕课赵：政府无论说的真假，除了雇佣几个五毛摇旗呐喊以外几乎无人相信，也是悲催。关键是，糟蹋尽了自己的公信力，还是没有任何证据，逻辑也不明不白。就这样一直下去，一直下去……</p>
-<p>@韦斯特兰：别打了我是兔子，我真的是兔子。</p>
-<p>@wanglianhua：你们高兴就好。</p>
-<p>@hayek哈耶克：剧情如出一辙，无比相似。</p>
-<p>@遥望飞鹰：真正的贪官是不会上电视认罪的，从这一点来看这事就蹊跷。</p>
-<p>@远村近郊02：如果允许记者去乌坎自由调查、自由报道，我就相信检察院的说辞。</p>
-<p>@仅仅是姓张：人家要带村民上访，你就给人家来个欲加之罪。</p>
-<p>@moto围脖：还好是贪污，不然七十多岁了，说嫖娼就真没人信了。</p>
-<p>@唐悦爱玲：莫须有的罪名，请公布证据。</p>
-<p>@的工作：林叔是我们村自选的 一人一票选出来的，为了我们村民的利益 一直在努力， 就像林叔说的官官勾结， 林叔为了村民的利益没有跟贪官站一块， 所以被带走了 是欲加之罪， 我们一万多个村民的眼睛是雪亮的。</p>
-<p>@王云亭voltean：一个标点符号我也不信，你信吗？</p>
-<p>@小城人家2017：【转】转发： 据悉，林祖恋的孙子已被抓了。 最后一条是官方冒充林孙子发布。 真他妈的能装孙子！</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/006n56ksjw1f52o9i2wmqj30f00qoq4g.jpg?resize=440%2C782" alt="006n56ksjw1f52o9i2wmqj30f00qoq4g" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/006n56ksjw1f52o9i2wmqj30f00qoq4g.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/006n56ksjw1f52o9i2wmqj30f00qoq4g.jpg?resize=169%2C300 169w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>@养猪专业户王福贵：按剧本本来是准备让他嫖娼的，这不突然半道出了雷洋这事儿吗，导演当机立断临时改剧本儿了。</p>
-<p>@zhiyuan_e：受贿和嫖娼，你党两大杀手锏。</p>
-<p>@向小排：他们终于憋不住 要秋后算帐了。</p>
-<p>@枫车转不停：倒车请注意，倒车请注意。</p>
-<p>@清韵瓷苑：那为什么全村都说他好呢。</p>
-<p>@温哥华客户经理：党说你贪污你就tm得贪污</p>
-<p>@等待时间-小柏同学：全村请愿保护一个“贪官“ 真是奇了怪了。一个村官弄的大动干戈也是头一次见</p>
-<p>@啊丽玲玲啊：谎言，谎言，政府说得一切都是慌言。不知道政府使了什么手段去逼迫一个老人家承认。你们可以设想一下，为什么林老要跟他们的亲人恩断义绝呢？就是怕伤害到他们的家人，他所以承认，应该是政府的人威胁到他什么了。他那么好的一个人为了陆丰乌坎，做出了这么多牺牲，他是为了什么……想必大家都清楚。</p>
-<p>@秀才江湖：林祖恋是乌坎村民一人一票选举出来的村长，当局害怕“一人一票”，因为如果人人都要求“一人一票”，就会失去他们的天堂。把林祖恋扣上贪腐的罪名、搞臭他，傻瓜都懂，醉翁之意不在酒，在乎打击“一人一票”，在乎维护朕拳吻腚：你看，你们一人一票选出来的是贪官！别选了，还是我们来！</p>
-<p>@beidaijin：林祖恋上周五夜间被强行带走，其妻杨珍接受采访时表示，林家好友前东海镇长欧阳柳周五登门造访，武警趁欧阳柳离开时入屋带走林，没有出示证件也并未告知原因。几天之前，林祖恋曾在一份公开信中表示，要进行一次新的大型抗议活动追讨土地流失问题。</p>
-<p>@wadelin1977：乌坎再起波澜：乌坎4年前土地问题仍未解决，被贪官出售的土地仍未追回，现任书记林祖恋组织村民原定21号上访市政府，但6月18号凌晨大批特警以受贿的名义直接将林祖恋逮捕。此前，林已公开与家庭分开，并公布于微博，已做好牺牲一切之准备。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaYiWgAIbBAy.jpg?resize=450%2C600" alt="ClNgaYiWgAIbBAy" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaYiWgAIbBAy.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaYiWgAIbBAy.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaZoWQAgVrJg.jpg?resize=450%2C600" alt="ClNgaZoWQAgVrJg" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaZoWQAgVrJg.jpg?w=720 720w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ClNgaZoWQAgVrJg.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
-<p>@YE5MQ5Vtp2jlWX7：当朝还不如慈禧时代的晚清。乌坎三千村民的抗争，都发生五年了。不但没有要回耕地，也没有要回赔偿金。要回的就是中共把村民自己选举的村委会主任林祖恋抓了。然后就是大批武警进村，把老百姓控制起来。小白菜当年进京告状，就可以让慈禧干掉一百多个大清官员。如此不得人心的中共，你还能挣扎几年？</p>
-<p>@liu_xiaoyuan：乌坎村主任林祖恋维权被抓，让我想起以前的当事人吕江波。吕江波是福建晋江市人大代表，也是民选村主任，因带领村民土地维权，先是被“双指”（指定时间、指定地点交待经济问题，他是非党故不是双规），后以涉嫌妨害公务罪刑拘，以涉黑等九罪起诉，最终“脱黑”仍以六罪判刑11年，至今还在监狱。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%AF%B4%E4%BD%A0%E8%B4%AA%E6%B1%A1%E4%BD%A0%E5%B0%B1%E5%BE%97%E8%B4%AA%E6%B1%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%BA%BA%E4%B8%80%E7%A5%A8/?category=18271" rel="tag">一人一票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%97%E8%B4%BF%E7%BD%AA/?category=18271" rel="tag">受贿罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%BF%AB%E6%8A%A5/?category=18271" rel="tag">新快报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">电视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98/?category=18271" rel="tag">经济问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8E%AB%E9%A1%BB%E6%9C%89/?category=18271" rel="tag">莫须有</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -750,7 +683,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -760,5 +693,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

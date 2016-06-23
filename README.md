@@ -21,9 +21,33 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%BD%E6%88%88-%E5%88%B6%E9%80%A0%E9%BB%84%E8%89%BA%E5%8D%9A/" target="cdt-mirror">羽戈 | 制造黄艺博</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/05/%E4%BA%94%E9%81%93%E6%9D%A0%E9%BB%84%E8%89%BA%E5%8D%9A4.jpg?resize=440%2C282" alt="五道杠黄艺博4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/05/五道杠黄艺博4.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/05/五道杠黄艺博4.jpg?resize=300%2C192 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>2011年，黄艺博头顶“五道杠少年”的光芒，闪耀中国，名动华夏，时年13岁。这正应了张爱玲那句话：出名要趁早。不过我对此言，一向有些保留，首先出名未必越早越好，其次，哪怕出名要趁早，那也得看出名的方式和内容：怎么出名，什么名声。假如这两点都站不住脚，那么少年成名，只怕得不偿失。不幸的是，这两点，恰恰构成了黄艺博的困境。就其名声而论，称他为争议人物，都不合适，争议大抵指毁誉参半，黄艺博则是毁多誉少，有些人（包括我）为他辩护，不是基于肯定，而是基于同情。至于他成名的方式，则有一定作伪成分，作伪的结果，导致黄艺博这个人，从里到外，从头到脚，给观者的感觉，正是一个大写的“伪”字。</p>
+<p>黄艺博之成名，推手有二，一是他的父母，二是现行体制。尽管其父事后声明，称自己的言论遭到了媒体夸大其词、断章取义：“标题说我儿子是天才，两三岁开始看《新闻联播》，七岁开始坚持每天读《人民日报》、《参考消息》，这还是个正常的小孩吗？”然而参照双方叙述，足以确认一些最起码的事实：黄艺博自幼爱看《新闻联播》，源于其父熏染，父亲有此习惯，儿子极具孝心，常陪父亲一起看，同时，他也喜欢看动画片；黄艺博读《人民日报》，源于其父有时把办公室的《人民日报》带回家，充当儿子“看报识字”的工具，“黄艺博的阅读范围非常广，《人民日报》只是阅读刊物之一”……</p>
+<p>这些辩解，并未减轻黄艺博父母的罪责。譬如拿《人民日报》教儿子识字，这不仅反映了父母的懒惰，甚至是一种愚蠢的表现。现在不比六十年前，彼时无书可读，只能拿《人民日报》之流充饥，如今早教读物那么多，令人目不暇给，随便挑一本识字卡、识字书，都远胜《人民日报》。而且，《人民日报》除了标题，正文字体并不大，让孩子辨认，有损视力；若读词语与句子，则涉及语感问题，毋庸置疑，《人民日报》所代表的文体之语感，如果不是汉语之最差，那也是最差之一。要言之，就冲把办公室的《人民日报》带回家充当黄艺博“看报识字”的工具这一点，这样的父母，绝非合格的父母。</p>
+<p>无可辩驳的是黄艺博那些照片，那一脸十足的官气，一身傲慢的官架子，以及无处不在的作为权力隐喻的“五道杠”（就我所见，大概仅有一张照片不曾佩戴“五道杠”）等。这恐怕不是其父所言的“摆拍”那么简单。黄艺博的官相，尤其是作为官场标配的似笑非笑之神态，一朝一夕，断难养成，千锤百炼，方有所得。其良师益友，大抵便是新闻联播和《人民日报》。</p>
+<p>显而易见，黄艺博之为黄艺博，源自其父母的精心塑造。需要追问的是，为什么要把自家孩子塑造成这样的“政治神童”。这符合他们的价值观么，抑或不得已而为之？从公开的信息来看，两者应该兼而有之。黄艺博的父亲是一位公务员，自称处级干部，爱看新闻联播和《人民日报》，醉心于“中华民族之复兴，续写汉唐之盛世”（出自黄艺博《开博前言》，这应是其父手笔），大体而言，这是一位标准的体制中人，人与心俱在体制内。他以自己为模子，塑造儿子的未来，再也正常不过。然而，他在政坛，处于底层，其子纵然称得上“官二代”，却无多少实质内容，他无法为儿子从政提供足够的根基与资本，只能剑走偏锋，另辟蹊径，他深知这个体制需要什么，于是投其所好。</p>
+<p>相形之下，体制对黄艺博的需求度，并不低于黄艺博对体制的需求度。现在的家长，不是出生于泛政治化的年代，就是成长于泛政治化的年代，大都吃过政治的苦头（当然有些人甘之若饴），一朝被蛇咬，十年怕井绳，故而对孩子的教育，尽管去政治化，倘不能对政治退避三舍，那便教孩子虚与委蛇。像黄艺博及其父母这样，主动对体制投怀送抱，而且露胆披肝，心虔志诚，实属罕见。这等忠犬，必定被权力者视若珍宝，树为典范。换言之，这个体制从不缺舞台，不缺道具，就缺演员。黄艺博恰恰是一位实力派演员，不疯魔不成活，他不仅入戏，其成长过程，本身便是一出戏，由体制制片，父母导演，演给骗子、傻子、瞎子，以及睁一只眼闭一只眼的观众观看。</p>
+<p>不过深究起来，与其说黄艺博是演员，不如说他也是道具。对于人生剧本，他完全不由自主，缺乏选择权。他的面前不是没有其他选项，然而，父母和体制所灌输给他的思维，决定了他对其他选项视而不见。与丧失了选择自由相比，这毋宁是更大的悲剧：拥有自由而不知怎么使用，甚至视自由为重负、为怪兽。</p>
+<p>基于此，我对黄艺博，不愿加以哪怕一分一毫的鄙夷和嘲讽，唯有无尽的同情和悲悯。真正该受批判的是他的父母与这个体制。其实体制不乏漏洞，只是做父母的人，非但不敢“肩住了黑暗的闸门，放他们到宽阔光明的地方去；此后幸福的度日，合理的做人”，反而以“天性”、“早熟”为虚弱的借口，把孩子一脚踢进了政治黑洞。这样的父母，何其可恶，正如这样的孩子，何其可悲。这就是为什么，我在2011年针对黄艺博事件的评论，标题叫“救救孩子黄艺博”。</p>
+<p>此后我一直留意黄艺博的消息，偶尔还会搜索一下，但见他的名字，不再出现于新闻，而流散于闲谈。这样的沉寂，我以为不是坏事。如果说天才陨落，以至与常人无异，令人遗憾，那么黄艺博这个所谓的政治天才，褪去“五道杠”的政治光彩，而归于平淡，未尝不能由此打开一条自由的出路。</p>
+<p>可惜我的设想，终而落空。2016年，18岁的黄艺博重返公共舆论，他已经通过武汉大学马克思主义学院自主招生面试，只要高考成绩超过湖北一本分数线38分，即可录取。新闻还夹带了一则旧闻：三年前，黄艺博中考落榜，并未考入湖北省水果湖高级中学，后经其所在初中力荐，才得到破格录取。高中期间，他曾担任学校团委副书记，荣获武汉市“优秀学生干部”、“湖北省优秀共青团员”等多项荣誉称号。</p>
+<p>对此结局，想必黄艺博的父母非常开心，这正是他们所预期的正果。另一面，我的朋友伟哥读完新闻，感慨道：怪胎终于长成了怪兽。</p>
+<p>2016年6月21日</p>
+<p>补记：不出意外，黄艺博读大学，依然会被打造为政治标兵，比如担任学生会主席等，然而他的政治前程，并不值得看好。韩寒曾写过一篇《黄艺博是个好干部》，其中云：“……退一步说，黄艺博长大以后真的还是现在的样子，并走上官场，我也有充分的理由相信他是一个好干部，甚至是一个郁郁不得志的好干部。他两岁看新闻联播，七岁看人民日报，他一定是发自内心的热爱这个政权，热爱这个政党，热爱这片土地上的人民。……在一堆普遍都不相信只想借着名头捞些利益的人群里，就他相信，太突兀了。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%BD%E6%88%88-%E5%88%B6%E9%80%A0%E9%BB%84%E8%89%BA%E5%8D%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93%E6%9D%A0/?category=18271" rel="tag">五道杠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">学生干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">思想政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/?category=18271" rel="tag">政治教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权力集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">武汉大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%89%BA%E5%8D%9A/?category=18271" rel="tag">黄艺博</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B9%8C%E5%9D%8E%E5%86%8D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81-%E7%96%91%E5%BE%8B%E5%B8%88%E5%8F%97%E5%8E%8B%E4%B8%8D%E6%8E%A5%E6%9E%97%E7%A5%96%E6%81%8B%E6%A1%88/" target="cdt-mirror">自由亚洲｜乌坎再数千人示威 疑律师受压不接林祖恋案</a>
 </h2>
 <p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/478e4921-9309-4012-994c-0a5edf81ed56.jpeg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/478e4921-9309-4012-994c-0a5edf81ed56.jpeg?resize=575%2C432" alt="2016年6月22日，广东省乌坎村，一批小学生高举横额带头游行。（现场人士摄）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/478e4921-9309-4012-994c-0a5edf81ed56.jpeg?w=622 622w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/478e4921-9309-4012-994c-0a5edf81ed56.jpeg?resize=300%2C225 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2016年6月22日，广东省乌坎村，一批小学生高举横额带头游行。（现场人士摄）</span></p></div>
@@ -735,31 +759,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8F%91%E5%B8%83%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6%E4%B8%89%E4%B8%87%E8%B5%B7-%E9%9D%9E%E6%96%B0%E9%97%BB%E5%8F%8A%E5%A5%B3%E5%8F%8B/" target="cdt-mirror">自由亚洲｜发布群体事件三万起 “非新闻”及女友失踪五日</a>
-</h2>
-<p><p>以搜集整理及发布中国群体性事件而闻名的推特网友“非新闻”（本名：卢昱宇）及女友，从6月15日起已失踪五日，引发社会关注。与卢昱宇相识多年的网络作家“北风”（温云超）6月21日表示，“非新闻”统计中国去年发生的游行、示威、集会等群体事件近30000起，无论是数量与质量都非常突出。</p>
-<p>6月20日晚间，在中国境外社交网站推特，突然出现一条消息，引发不少关注者转发。内容是“搜集整理中国群体事件信息的‘非新闻’及其女友同时失联，微博和推特相关账号 @wickedonnaa 已经有五天没有更新，请媒体及人权机构关注”。</p>
-<p>推友“无名”写道，“非新闻”每天替我们目睹了多少惨事。我光是想想都肃然起敬了。我自己经常会把头扭过去，不敢看别人的惨状的，但就看着他每天每天地记着账，他反映了社会不公和法律不彰。一个社会确实不可能天生完美，但靠屏蔽负面新闻更不可能完美起来。</p>
-<p>网名“北风”的网络作者温云超6月21日告诉自由亚洲电台，“非新闻”（卢昱宇）及其女友同时失联，其微博和推特相关账号 @wickedonnaa 已经有五天没有更新。他说：</p>
-<p>“我认识卢先生已经有超过4年的时间，也就是我们看到的‘非新闻’的维护者。他在最近四、五年以来，通过社交媒体，统计中国的群体事件，他及时搜索、整合、记录、发布这些中国的群体抗争信息。卢先生进行的统计工作，不论从数量还是质量，工作成效都是最突出的。通过卢先生的统计，可以及时了解中国群体事件的状态，可以作为观察中国社会运转的一个特殊窗口”。</p>
-<p>卢昱宇通过推特转发的信息，主要来自于网民发布到新浪、腾讯、天涯社区、百度贴吧及论坛上的信息。记者曾试图从这些知名网站搜索有关群体事件的信息，发现非常困难。不过，“非新闻”所作的中国年度群体性事件统计显示，他记录到2015年发生在中国的游行、示威、集会、罢工等事件，多达28950起。</p>
-<p>卢昱宇最后一次更新推特内容是6月15日，最后一条信息是：“广西南宁市青秀区，上百名抗议学区划分不公的蓝山上城业主遭到警察镇压，近20人被抓捕”，该消息配以现场特警持盾牌及警棍的图片。而2016年4月份，“非新闻”统计到全国群体事件2001起，被捕人数2782人。</p>
-<p>“北风”说，卢昱宇从事中国群体事件统计工作，已多次受到有关部门骚扰甚至威胁：“最近五天以来，他的推特账号，还有他的博客，还有微博都没有更新。平常他有把统计结果发送到我的邮箱，我发现也是停留在五天之前。我非常担心他已经被有关部门羁押”。</p>
-<p>湖北民间网站民生观察工作室负责人刘飞跃认为，卢昱宇被抓的可能性很大：</p>
-<p>“现在这个人失踪了，我们有理由推断和相信他被当局控制或抓捕。他这样一种操作方式，就是转载，转发，最多是扩散维权消息，这些消息绝大部分是民生方面的，比如拆迁，像乌坎事件等，现在当局也不放过。这就说明目前中国的政治环境越来越糟糕、恶劣”。</p>
-<p>流亡泰国的访民邢鉴则认为，“非新闻”事件可能和乌坎有关：</p>
-<p>“乌坎事件再次持续升温，中国官方很有可能担心他们对乌坎事件会持续报道，所以人被失踪，也说明了中国政府对言论自由的进一步打压。我们呼吁国际社会及人权机构予以关注”。</p>
-<p>（特约记者：乔龙 责编：石山/寇天力）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E5%8F%91%E5%B8%83%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6%E4%B8%89%E4%B8%87%E8%B5%B7-%E9%9D%9E%E6%96%B0%E9%97%BB%E5%8F%8A%E5%A5%B3%E5%8F%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%98%B1%E5%AE%87/?category=18271" rel="tag">卢昱宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%96%B0%E9%97%BB/?category=18271" rel="tag">非新闻</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -771,7 +770,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%98%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -781,5 +780,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%98%B1
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

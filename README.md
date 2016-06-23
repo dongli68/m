@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,160 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B9%8C%E5%9D%8E%E5%86%8D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81-%E7%96%91%E5%BE%8B%E5%B8%88%E5%8F%97%E5%8E%8B%E4%B8%8D%E6%8E%A5%E6%9E%97%E7%A5%96%E6%81%8B%E6%A1%88/" target="cdt-mirror">自由亚洲｜乌坎再数千人示威 疑律师受压不接林祖恋案</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/478e4921-9309-4012-994c-0a5edf81ed56.jpeg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/478e4921-9309-4012-994c-0a5edf81ed56.jpeg?resize=575%2C432" alt="2016年6月22日，广东省乌坎村，一批小学生高举横额带头游行。（现场人士摄）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/478e4921-9309-4012-994c-0a5edf81ed56.jpeg?w=622 622w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/478e4921-9309-4012-994c-0a5edf81ed56.jpeg?resize=300%2C225 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2016年6月22日，广东省乌坎村，一批小学生高举横额带头游行。（现场人士摄）</span></p></div>
+<p>广东省乌坎村主任林祖恋公开承认受贿后，村民坚持他是因为孙子被胁持而认罪，数千村民周三(22日)再度在村里发起游行。同时，林祖恋家属聘请了律师介入协助，但司法局疑向律师事务所施压不许接办案件。有村民对外称，通讯的信号很差外，一些年老村民也无法为手机的电话卡增值。（文宇晴 报道）</p>
+<p>林祖恋公开承认自己收受巨额贿款后，村民并没有相信，更认为是当局拘捕了林祖恋的孙仔林立义，来威胁他认罪。</p>
+<p>公开认罪无法阻止村民维权，当局似乎再向其他方面施计。</p>
+<p>葛永喜律师在网上群组发出消息，称林祖恋的儿子林雄、林伟、林壮委托他为林祖恋的辩护人，周三早上接到所属律师事务所的主任电话，通知他，林祖恋家人汇到律师事务所的律师费，已经被司法局强令退回，且要求不许接办乌坎的案件。</p>
+<p>本台向葛永喜律师致电了解时，他表示有关的详情暂时不方便公开交代。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/mmexport1466650042777.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/mmexport1466650042777.jpg?resize=400%2C711" alt="贝带劲 ‏@beidaijin ：广西律师玉品健 是林祖恋的辩护人，在去 #乌坎 途中被围追堵截，因恐惧和悲哀放弃行程" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/mmexport1466650042777.jpg?w=720 720w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/mmexport1466650042777.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/mmexport1466650042777.jpg?resize=576%2C1024 576w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>贝带劲 <span>‏<a href="https://twitter.com/beidaijin/status/745757920755802112" target="_blank">@beidaijin</a></span> ：广西律师玉品健 是林祖恋的辩护人，在去 #乌坎 途中被围追堵截，因恐惧和悲哀放弃行程</span></p></div>
+<p>葛永喜说︰这个(其他代理律师是否遇到被退律师费)情况我不清楚，也不方便现在去说。</p>
+<p>广东维权律师吴魁明批评，司法局无权强令退回委托人的费用。他向记者解释，律师在律师事务所挂牌执业，一般情况下律师自行与当事人签订合同，若要修改或解除合约，也应该是与当事人私下商议。律师事务所的职权不能超越，他估计也许是乌坎事件备受争议和舆论，当局刻意施压不许接办。</p>
+<p>吴魁明说︰大部份的案件都是律师要单独，和当事人完成合同的谈判和条件的工作，事务所这样可能是受到压力。但这样来做，我觉得没有道理。因为我们律师跟事务所的关系是独立的。现在司法局经常以这样的理由查你，说这案子你要到司法局报备、要通过律师事务所批准才能接案。</p>
+<p>尽管乌坎村民的维权一波三折，接连遭到当局施计阻止。不过村民维权的决心坚定，周三下午再次召集了逾千人，高举国旗以及抗议字眼的横额，在村里游行示威。</p>
+<p>有声援乌坎的公民陈先生向记者反映，他曾成功与村民联系上，对方称村里继续有大批警察戒备。而且一些年长的村民无法增值手机的电话卡，从而与外界联系，估计是当局刻意逐步降低村民对外发放消息的频率。</p>
+<p>陈先生说︰你想进村不好进，(警察)也不准进不准出。拿著电话卡去增值现在都增值不了。网上增值是可以，但是没有售卖了。农村能上网的(年长)村民不多，只能拿钱去增值。</p>
+<p>陈先生又转述村民的说法，指不相信一心与妻子断关系的林祖恋会去认罪，相信是为了被扣押孙仔的安全，以及全村村民的安全。因而村民依旧十分拥戴林祖恋。</p>
+<p>陈先生说︰现在可以肯定，(孙子)前天被抓，(林祖恋)昨天就认罪了。籨他认罪的视频可以看到，他的眼睛一直向下，说明他是有台词，而且他故意念得不太顺。而且他念的是普通话，目的是让外面的人能听懂，他应该说的是家乡话，很明显。我没猜错的话，第一如果你不配合，我想把你孙子怎样就怎样；第二，我可以告诉你我可以直接屠村。</p>
+<p>他又引述村民说话，指东海镇政府大楼外的空地，周二开始被挖了个大洞，不排除当局是担心村民会到镇政府抗议，因而提前作出防范。不过有关的消息未得到镇政府确认，本台未能成功与镇政府方面联络上。</p>
+<p>不过亦有村民在网上称，村里周三的情况与此前几天相比稍为缓和，未与警察发生任何冲突行为。</p>
+<p>此外，一度被扣的林祖恋的孙儿林立义，周二深夜在新注册的微信帐号上，张贴了爷爷的相片，下面配以三个黑字。周三又留言称“当你走头无路的时候，你还有最后一条路，记得那就是犯罪，这并不可耻。”未清楚是否暗示林祖恋是“被认罪”。</p>
+<p>记者尝试给他留言了解最新情况，但一直未有回覆。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B9%8C%E5%9D%8E%E5%86%8D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81-%E7%96%91%E5%BE%8B%E5%B8%88%E5%8F%97%E5%8E%8B%E4%B8%8D%E6%8E%A5%E6%9E%97%E7%A5%96%E6%81%8B%E6%A1%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A/?category=18271" rel="tag">情绪稳定</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-900%E4%BA%BF%E7%90%86%E8%B4%A2%E9%AA%97%E5%B1%80%E9%87%8C%E7%9A%84%E4%B8%AD%E4%BA%A7%E8%80%85/" target="cdt-mirror">网易路标 | 900亿理财骗局里的中产者</a>
+</h2>
+<p><p>朋友圈里，张龙是个有钱人。</p>
+<p>张龙的微信头像是他参加品酒会的照片。镜头前他神情自信，在展板上刚签完自己的名字，名字上方，有四个大字：贵族典范。</p>
+<p>张龙朋友圈最近的动态是他身着西装，在自家豪宅的江景大阳台靠着栏杆远眺重庆渝中半岛的照片。</p>
+<p>再往下翻，是一张一家三口靠着路虎车笑的照片。不久前，他开着进口的四驱路虎，带着妻儿去了一趟云南。</p>
+<p>现实里，张龙过着捉襟见肘的生活。</p>
+<p>催款电话替代了闹钟。早上9点开始，银行信用卡中心、小贷公司、私人债主轮番打来电话。催款人大多凶神恶煞，小贷公司以人身安全威胁，出言不逊。私人债主三番两次催还钱，否则全家搬来与他同吃同住。</p>
+<p>张龙现在妻离子散，朋友家的沙发是他暂时歇脚地。他眼神涣散，戒备心重，不轻易告诉别人现居地址。</p>
+<p>张龙身边很多朋友面临与他相同的处境。他们曾经轻松坐拥豪宅豪车，挥金如土，但在短暂几个月间，资产尽失、上了征信黑名单，不仅失去几十年积累的资产，还背上成百上千万的债务。</p>
+<p>他们都参加过一个由“金朝阳财商教育集团”组织的培训，这是一个涉及资金约900亿的骗局，全国有超过五万家庭卷入金朝阳。骗局之下，已有多起命案。据金朝阳学员内部统计，已有4名学员因欠钱被杀，亦有3名学员因无力还债选择自杀。</p>
+<p>轻松步入中产</p>
+<p>2013年7月的一天，重庆南滨路一家五星级酒店里，正上演金朝阳IFC（财富商学院）36期的最后一堂课。</p>
+<p>张龙面对台下500位学员，正在展示自己的“五年规划”ppt。他很瘦，新买的西装并不合身，这并不妨碍他的热血澎湃。计划里，五年内，张龙要带全家住进四层楼高的别墅，每月全家都有出游计划，每年还要出国旅游。张龙今年的目标是马尔代夫，ppt上马尔代夫天蓝海蓝，度假屋宁静祥和。</p>
+<p>最后一堂课气氛达到高潮，每个学员在讲师的带领下展示梦想。游艇、高尔夫、别墅、豪车，这些元素在学员们的ppt里轮番上阵。</p>
+<p>这堂价值7.88万元的金朝阳课程告诉学员，达到梦想可以轻而易举。</p>
+<p>金朝阳财富教育（下文简称金朝阳）由美籍华人牛嘉林和美国人麦博才在2006年联合创办，他们倡导“财富面前人人平等”。官网上，金朝阳的愿景是“让1000万中国人改变财商观念！让100万中国人财富明显增长！让10万中国人实现财务自由！”</p>
+<p>牛嘉林是金朝阳的灵魂人物，金朝阳曾将其几段经历作为重点推广对象。《人民日报》主管的《中国经济周刊》曾对牛嘉林作人物报道，文章中把她形容为“财富信使”。牛嘉林毕业论文的故事，也在文中提及：临近毕业的那段时间，牛嘉林以美国一家知名银行作为实习基地，研究银行提供的28种不同功能的信用工具、各种理财渠道、几百种投资品种和各式各样的理财方式，写出毕业论文《月薪2000元，如何通过投资理财，5年内成为百万富翁》。论文令行长非常惊讶，当即邀请尚未毕业的牛嘉林到该银行兼职工作。</p>
+<p>如何达成梦想，金朝阳告诉学员，创造现金流、信用最大化、利用金融杠杆是捷径。学员创造财富的神话故事，教练朗朗上口：有零资产起步的学员，凭借400万的房子，最终撬动8倍左右的杠杆，挖到3000多万元。</p>
+<p>多位参加过金朝阳的学员向网易《路标》还原了这一过程。参加金朝阳之后，第一步是尽可能地套取资金。具体有多种方式：办多张信用卡，形成链条；学员之间借三分利息购买豪宅或豪车，凭资产去银行贷款。然后再杠杆运作，将个人的负债最大化，金朝阳内部流行一句话：“勇于低成本负债，负债让你更有钱。”当学员通过负债手握大量现金时，金朝阳会向学员推荐自己发行的Pre-REITs和企业短债，Pre-REITs年收益率最高时100%，最低也有40%，“企业短债”过去的年收益率高达36%。</p>
+<p>张龙没有任何怀疑，就算不购买reits，按照房地产升值的速度，他高利息套来的钱也能还上。张龙攒钱买下的第一套房子五年内升值超过一倍。2007年张龙以4000元一平米买下，最高的时候涨到了12000元一平米。</p>
+<p>参加金朝阳的学员，大多和张龙一样，都曾在房地产行业挖到过金。张龙的小姑徐文丽因张龙介绍加入金朝阳，徐文丽是公务员，除了单位的集资建房外，早在2007年重庆楼市暴涨前夕，贷款购买了多套商品房，再瞄准时机于房价高位出售。参加金朝阳前，徐文丽已赚得盆满钵满。金朝阳传递的理念在徐文丽看来，不过是以更“聪明”的方式挖取资金，本质上还是炒房子。“炒房”，在徐文丽的所有经验里，是包赚不赔的一笔买卖。</p>
+<p>2013年，重庆的房价还在稳定上升，稳定了徐文丽和张龙的信心。</p>
+<p>做完五年规划的毕业展示，张龙和同组学员一起，以菜市场买菜的速度，买下了重庆著名豪宅珊瑚水岸一套200平米的房子。</p>
+<p>来自香港的地产商选择了南滨路靠江的黄金位置。在最初的广告语里，这个小区被形容为“长江边的璀璨明珠”，金黄的配色和全江景大阳台都在不断暗示，入住此豪宅是彰显身份和品位的最直接途径。</p>
+<p>张龙的家在32楼，站在客厅外的超大阳台上，可以望见重庆渝中半岛的全景。渝中半岛高楼鳞次栉比，霓虹灯闪烁争先恐后，半岛如一艘巨轮向长江东流的方向航行，承载了这个西南城市对经济增长和财富的渴求。</p>
+<p>张龙喜欢这个大阳台，站在阳台上，他似乎高过渝中半岛任何一个建筑。</p>
+<p>买房子的同时，还买了一辆四驱路虎。取车当天，张龙带着妻儿，绕着豪宅楼下的滨江路开了好几圈。</p>
+<p>非常轻松，凭借一笔贷款，以及三分利息借来的钱，张龙过上了梦寐以求的中产生活。</p>
+<p>“负资产就是财富”</p>
+<p>张龙曾经完全不懂理财知识，参加完金朝阳近8万元的课程后，他成了家里的理财老师。</p>
+<p>在亲戚眼里，张龙完全不一样了，住着豪宅、开着豪车，嘴里都是基金、股票、对冲等名词。金朝阳创始人牛嘉林是张龙的偶像，他不断地跟亲戚讲述牛嘉林的故事。亲戚每有怀疑，他就会说亲戚不懂金融。“牛嘉林从美国带回先进的金融知识，为什么美国中产阶级那么多，就是因为普通民众懂金融、会投资。”</p>
+<p>一些金朝阳教育的旁门左道被张龙视作成功的窍门。</p>
+<p>一个玩转信用卡的教程曾被金朝阳的教练多次提及：首先，学员之间通过银行走账、借钱养流水，在银行存一些钱，然后打电话给银行，说过两天要取50万现金。银行肯定把钱准备好，并且询问需不需要押运服务。教练强调，一定说不用，还要直接把钱扔进自己宝马车后备箱，踩油门就走。讲师告诉学员，大额取款都需要行长批准，一来二去，你就成了银行眼里的优质客户，这样，想办一张几十万额度的信用卡就非常容易。</p>
+<p>张龙深信不疑，他上商场买了G2000西装，尽管西装穿在身上显得松松垮垮，但他上哪都穿着，还买了名牌戒指，结婚的时候都没买过这么贵的。</p>
+<p>只要上银行，或者见业务经理，他一定整理装束。路虎车钥匙握在手里，或者别在皮带上，还要不经意摆在桌边，总之一定要让业务经理看到。</p>
+<p>家里人惊讶于张龙的变化，小姑徐文丽很快随着张龙加入了金朝阳。紧接着，表妹也参加了IFC课程。其他亲戚就算没有直接加入，也把钱放在张龙那里，坐收三分利息。</p>
+<p>金朝阳平台内的三分利息规则，让每一个学员充分利用个人的人际关系，四处借钱，并准时回报利息。张龙吸引了包括徐文丽在内的全家人。他们组了一个微信群，起名“有梦的一群人”，进群的人都互相借钱，都算三分利息。IFC课程上，教育学员没事就要多借钱，借钱才能增进感情。学员内部避讳“借”这个字眼，以“抓”取而代之，抓钱越多，代表这个人融资能力越强大。金朝阳的核心价值观之一便是，要像保护心脏一样保护信用，没有信用一切为0。</p>
+<p>张龙买了豪宅，做了漂亮的流水，此时房价仍在攀升，银行贷款高评高贷。200万借钱买来的房子，轻松抵押贷款200万。凭借豪宅，张龙和妻子使用信用贷款、小贷、信用卡等方式，又撬动了150万资金</p>
+<p>张龙拿着这些钱准备大干一场。他和其他几个学员报名参加一个股票学习班。2014年底，他投入100万炒股，A股牛市此时蒸蒸日上，张龙等着大赚一笔。</p>
+<p>张龙那时每月要还的利息超过十万，负资产在不断增长。张龙却安心，他相信负资产是生财之道。炒房子、炒股票或是买基金，张龙认为只要有资产，都能赚到钱。</p>
+<p>“REITs：创造亿万富翁的飞碟”</p>
+<p>IFC的毕业演讲里，有一个“杀猪”环节。金朝阳早期学员也是IFC教练把学员分为大笨猪、小笨猪和聪明猪。“猪”意为保守，大笨猪和小笨猪分别是重资产学员和轻资产学员，而聪明猪则代表挖金过程中过于激进的学员。教练“杀猪”，最终目的是把所有学员送上金朝阳教育体系的塔尖，也就是BCC（乡村俱乐部）。</p>
+<p>要进入BCC学习，学费不菲。一位BCC学员向网易《路标》透露，上BCC课程需购买100万Pre-REITs，20万伞型投资，种子金100万，项目金300万，资金池100万，总共每家最少620万元。</p>
+<p>据金朝阳BCC学员估算，前后有超过4000个家庭参加BCC学习，IFC培训全国加起来超过100期，平均每期500人。</p>
+<p>张龙没有参加BCC，他就是讲师嘴里软硬不吃、顽固不化的“猪”，尽管如此，他的钱还是部分流向了Pre-REITs。金朝阳体系里，因为人人相连的借贷关系，学员之间实质上形成了一个“命运共同体”。没有直接参加BCC的学员的资金也被裹挟着流入Pre-REITs。</p>
+<p>REITs即房地产信托投资基金。通过资产证券化的方式，把流动性较低的房地产投资直接转化为资本市场上的证券资产。</p>
+<p>在金朝阳的介绍里，Pre-REITs收益惊人，最高年收益达100%，最低也有40%。在金朝阳的演示文档里，Pre-REITs被形容为创造亿万富翁的飞碟。</p>
+<p>在当时向学员的介绍里，金朝阳神化了REITs的投资回报能力，“Reits在各种市场环境下都保持了稳定的分红回报，显著的超过其他证券的平均水平”。</p>
+<p>金朝阳不断给学员画饼，饼越画越大，贪欲也越来越大。和张龙一起上IFC的学员有的交不起100万Pre-REITs的门槛，花三分利息借钱也要买。本身资产雄厚的学员也把钱全都砸进去，一位北京的早期BCC学员，不仅把自己所有的资产砸进去，还挖空自己所有能借钱的途径，最终砸了4000万进金朝阳平台。</p>
+<p>西南财经大学领导中国家庭金融调查多年的学者甘犁告诉网易《路标》，REITs在美国不过是一款普通的理财产品，并不可能达到这么高的收益。</p>
+<p>金朝阳在深圳成立了金盈沣股权投资基金（深圳）股份公司，再将各个城市的分公司，打包成REITs产品，在上海股权托管交易平台挂牌，学员购买产品，就是认购分公司的股权。网易《路标》接触的多位BCC学员，有的手上持有分公司开具的股权证明书，有的并未收到任何证明，网易《路标》问及是否为认购股权的方式，对方表示并不清楚。</p>
+<p>金朝阳内部资料显示，金朝阳花了300亿元购置各类地产项目，包括5家五星级酒店、10栋AA级写字楼、还有其他的商业综合体、公寓之类的，重点项目是广州新天希尔顿酒店、上海国际航运中心、北京万科大都会、重庆国金中心等。</p>
+<p>据《经济观察报》统计，金朝阳仅学费一项收入便达到288亿元左右。金朝阳方面称，Pre-REITs发行400亿元，股权投资基金150亿元，风投基金50亿元，其后期又追加发行了一批“公司短债”。数字相加，金朝阳总涉及资金约在900亿元左右。这些钱当中，除300亿元系金朝阳称已购买商业地产和别墅等之外，其他资金用途并未公开。</p>
+<p>Pre-REITs高收益分红的神话在2013年下半年破裂。从2014年开始到现在，Pre-REITs再无分红。之前的分红收益也大多以扩股的形式滚动。2014年下半年，金朝阳已经招收不到学员，也很少有新的学员加入BCC购买Pre-REITs。</p>
+<p>2014年7月，金朝阳平台内部降息，互相借贷从以前的3分降到2分利息。这是金朝阳崩盘的导火索。“金朝阳曾把信用当作核心价值观，未经学员同意，直接降息，这不是给自己打脸吗？”包括张龙在内的众多金朝阳学员，从这时开始怀疑金朝阳平台。</p>
+<p>很多人想要保全下车，但已停不下来。</p>
+<p>学员之间放债的钱收不回来，金朝阳就发行短债，鼓励学员以REITs抵债，将私人债务关系转移到平台。一位已经退出金朝阳的学员因为收不回来钱，最后演变为购买金朝阳短债700万，短债利息比三分低，收不回本金，也只能无奈接受。到2015年7月，金朝阳连短债的利息也停止支付。</p>
+<p>网易《路标》实地走访金朝阳在重庆分公司地址，发现已人去楼空。而金朝阳的早期学员、金朝阳多家公司董事，同时也是重庆大学副教授的陈德强，也向网易《路标》表示，金朝阳早已停止运营，他同牛嘉林等人也无来往。</p>
+<p>学员们此时从金朝阳已拿不到任何收益，但借钱的银行、小贷、私人的利息却没停下来。负债的增长犹如黑洞，一个接着一个吞噬着金朝阳学员。</p>
+<p>“你难道不享受被折磨的感觉？”</p>
+<p>如同多米诺骨牌效应，崩盘的连锁反应也降临到张龙头上。</p>
+<p>2015年4月一天，张龙记得那是个下雨天，他在这天要办理豪宅的抵押贷款的第一次冲贷。</p>
+<p>张龙相信这一切是有预兆的。那几天同一期的金朝阳学员，从隔壁楼纵身跃下。张龙听说那人是资金链断了，妻子还要闹离婚。去办冲贷的这天，张龙开着路虎车路过事发地的时候，忍不住多瞄了几眼。他没见着血迹，下着雨一点痕迹都没有。</p>
+<p>冲贷是银行办理抵押贷款的保险措施，贷款一年后，需要将本金全部还进去，由银行评估后，再决定是否全数放款。</p>
+<p>2015年，重庆一路高涨超过十年的楼市降温。张龙的豪宅有价无市，成交价远低张龙购房的价格。自开始冲贷，两个月的时间里，张龙记得重庆一直下雨，雨水浸透了墙体，金黄色的豪宅看起来很“狼狈”。</p>
+<p>金朝阳不少学员因为无力还款，连带着金朝阳一起上了银行的黑名单。</p>
+<p>张龙跟亲戚朋友借了200万冲贷，仅是利息，整个过程就花了十万多。而最终，银行抽贷，只贷款150万。50万的缺口给了张龙重大打击。</p>
+<p>股灾也来了。六月开始，沪深股市指数一路上涨，突破5000点高位，随后两个月狂跌45%。股市之前的歌舞升平，张龙甜头还没尝到半年，100万直接亏了一半。</p>
+<p>亏空严重，收入为0，每个月要还10万的利息，张龙破产了。他卖掉了所有房子车子，依然面临巨额债务。</p>
+<p>张龙破产，波及了亲戚朋友。徐文丽现在每个月也要偿还超过十万的利息，借给张龙的40万拿不回来，徐文丽也接近破产的边缘。张龙已无力偿还借来的钱，“一个金朝阳，摧毁了三十多年建立起来的所有关系。”张龙说。</p>
+<p>张龙为了赚生活费，干起销售的老本行。他现在依然穿着商场买的G2000西服，提着皮质公文包，每天四处推销产品。</p>
+<p>牛嘉林的一段语音在金朝阳的各个群里流传。牛嘉林在录音里说，学习了金朝阳财商知识，就成了一粒种子，“你们放下债务、放下资产、放下信用卡，去到世界上任何一个角落一样可以发芽开花”。牛嘉林还反问学员，“难道你们不享受被折磨的感觉？”</p>
+<p>张龙向网易《路标》提及多次牛嘉林这句话，这个曾经的偶像在张龙眼里已成为疯子和骗子。</p>
+<p>和张龙同一期的学员，有的失联、有的自杀，更多的做起了类似传销性质的资金盘或是债行。</p>
+<p>张龙暂住的楼下有家银行，在银行旁边新开了一家债事生活服务行。银行的跑马灯日夜不息，“远离非法集资”循环出现，隔壁的债行的LED屏打着广告：“中国负债市场足够大，让债事减少成为顺便的事。”</p>
+<p>张龙带去金朝阳的表妹也做起了债行的业务，张龙不再轻易相信，他认为债行不过是想从债务缠身的人身上最后敲诈一笔，“虽然很难再翻身，但不能再害人了。”</p>
+<p>（应受访者要求，张龙、徐文丽均为化名。）</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87-900%E4%BA%BF%E7%90%86%E8%B4%A2%E9%AA%97%E5%B1%80%E9%87%8C%E7%9A%84%E4%B8%AD%E4%BA%A7%E8%80%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">人际关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81/?category=18271" rel="tag">亿万富翁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%9F%E8%B4%B7/?category=18271" rel="tag">借贷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%80%BA%E4%B8%BB/?category=18271" rel="tag">债主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E9%87%91/?category=18271" rel="tag">基金</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2/?category=18271" rel="tag">投资理财</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%81%E5%88%B8/?category=18271" rel="tag">证券</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%9F%E5%80%BA/?category=18271" rel="tag">负债</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%84%E9%87%91%E9%93%BE/?category=18271" rel="tag">资金链</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C%E8%B4%B7%E6%AC%BE/?category=18271" rel="tag">银行贷款</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E9%9B%86%E8%B5%84/?category=18271" rel="tag">非法集资</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%AB%98%E4%B8%AD%E7%94%9F%E7%A7%91%E5%AD%A6%E5%AE%88%E8%B4%9E%E6%80%A7%E6%95%99%E8%82%B2/" target="cdt-mirror">【图说天朝】高中生科学“守贞”性教育</a>
+</h2>
+<p><blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E8%8A%82%E5%A6%87%E7%83%88%E5%A5%B3%EF%BC%9D%E4%B8%AD%E5%8D%8E%E4%BC%98%E7%A7%80%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/" target="_blank">【立此存照】节妇烈女＝中华优秀传统文化</a></li>
+<li><a href="https://chinadigitaltimes.net/chinese/2016/03/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E4%B9%A0%E6%80%BB%E7%9A%84%E5%A6%87%E5%A5%B3%E8%8A%82%E9%97%AE%E5%80%99%EF%BC%9A/">来自习总的妇女节问候：去年有多少人娶媳妇儿？</a></li>
+<li><a href="https://chinadigitaltimes.net/chinese/2016/02/%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%BA%BA%E6%B0%91%E7%BD%91%E9%95%BF%E5%BE%AE%E5%8D%9A%E5%A5%BD%E5%A5%BD%E8%BF%87%E6%97%A5%E5%AD%90%E6%94%B6%E8%B5%B7%E5%B0%91%E5%A5%B3%E5%BF%83/">知乎｜如何看待人民网长微博《好好过日子，收起少女心》？</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/01/423959/" target="_blank">【图说天朝】孝悌忠信 誓戒邪淫</a></li>
+</ul></blockquote>
+<p><a href="http://weibo.com/1900178727/DBtSiwJvy?type=comment#_rnd1466640397508" target="_blank">@小楚巫</a>：说我断章取义的自行感受，请守住你的“贞节”哦！<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha82w73j20k00zkn1r.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha82w73j20k00zkn1r.jpg?resize=400%2C711" alt="71426d27jw1f54ha82w73j20k00zkn1r" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha82w73j20k00zkn1r.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha82w73j20k00zkn1r.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha82w73j20k00zkn1r.jpg?resize=576%2C1024 576w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<blockquote><p>江西高校出版社《高中生科学性教育》</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha7l3ypj20zk0k0n2o.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha7l3ypj20zk0k0n2o.jpg?resize=585%2C329" alt="71426d27jw1f54ha7l3ypj20zk0k0n2o" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha7l3ypj20zk0k0n2o.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha7l3ypj20zk0k0n2o.jpg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
+<blockquote><p>女孩因爱而献出身体，并不能增加男孩对她的爱，还会被“征服”她的男孩认为她“下贱”，发生性关系反而会使女孩失去爱情。</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha5oa1rj20zk0k0tdy.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha5oa1rj20zk0k0tdy.jpg?resize=585%2C329" alt="71426d27jw1f54ha5oa1rj20zk0k0tdy" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha5oa1rj20zk0k0tdy.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha5oa1rj20zk0k0tdy.jpg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha6fz8tj20k00zkgps.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha6fz8tj20k00zkgps.jpg?resize=500%2C889" alt="71426d27jw1f54ha6fz8tj20k00zkgps" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha6fz8tj20k00zkgps.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha6fz8tj20k00zkgps.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha6fz8tj20k00zkgps.jpg?resize=576%2C1024 576w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha3uiy7j20k00zkq78.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha3uiy7j20k00zkq78.jpg?resize=500%2C889" alt="71426d27jw1f54ha3uiy7j20k00zkq78" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha3uiy7j20k00zkq78.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha3uiy7j20k00zkq78.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha3uiy7j20k00zkq78.jpg?resize=576%2C1024 576w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha4pi7vj20k00zkjw5.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha4pi7vj20k00zkjw5.jpg?resize=500%2C889" alt="71426d27jw1f54ha4pi7vj20k00zkjw5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha4pi7vj20k00zkjw5.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha4pi7vj20k00zkjw5.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/71426d27jw1f54ha4pi7vj20k00zkjw5.jpg?resize=576%2C1024 576w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p>姑娘严肃而平静地说：“请不要动它！”小伙子问：“为什么？你不知道我喜欢你吗？”姑娘轻轻地说：“我母亲说少女的胸是金子，被人一摸她就变成银子，再摸她就变成铜和铁。难道喜欢一个人非要摘取她的镜子不可吗？”<br>
+小伙子的手惭愧地缩了回去。</p>
+<p>这位少女凭着她的机智，抵制了男孩的性冲动，守护了她的“金子”，也守住了她今后的幸福。实际上对与错往往在一瞬间，拒绝性冲动，坚守贞洁，就在于当机立断，在于你的意志力。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1925972032" target="_blank">@张馨如的微博</a>：<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1">这踏马真是二十一世纪出版的书？？？我还以为大清书局出版的呢<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5069037539" target="_blank">@primrose2daffodil</a>：<a href="http://weibo.com/n/%E7%A5%9E%E5%9C%A3%E5%8D%88%E7%9D%A1?from=feed&loc=at" target="_blank">@神圣午睡</a> 这个【高中生科学性教育】“这位少女凭着她的机智，抵制了男孩的性冲动，守护了她的金子，也守住了她 今后的幸福” <img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5723318916" target="_blank">@呵呵ExcuseME</a>：女生原本是金子，被人一摸就变银子，再一摸就是破铜烂铁了？<img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1"><img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1"><img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1">所以女人的价值是和其性行为次数成反比的？<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1">作者可不可以去死一死<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
+<p>@_开到荼靡花事了_：性教育难道不是教育青少年男女正确使用避孕措施，以及对性爱有正确得观念吗？这书里不是物化，就是贬低女性，这是正确的性教育吗！！！！！</p>
+<p>@豆瓣冷血才女：宣扬女性守贞，宣扬性行为会让女性“贬值”，还好意思自称“科学性教育”。你们家“科学”是这种刚从古坟里诈尸出来的鬼德行？</p>
+<p><strong>@Bilderbuchsommer: 守贞式性教育一定要与你国最近宣扬节妇烈女，大放宗法制式公益广告，倡导女性回归家庭，以及灌输国是家的想法联系起来，单纯批评一个点意义不大，这样的教材连我初一发的青春都赶不上，不光是编者的问题。不要再让它滚回大清了，现在又何尝不是大清</strong></p>
+<p><a href="http://weibo.com/n/_XLLLL?from=feed&loc=at" target="_blank">@_XLLLL</a>：只说女孩儿要怎么守护自己 没有一句让男孩儿要尊重女性<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">我也是服 就这教育十年后社会新闻得翻倍<img title="[作揖]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/06/zuoyi_org.gif" alt="[作揖]" data-recalc-dims="1"></p>
+<p>@繁华背后-：一、男生性冲动正常；二、女生反抗不了是下贱</p>
+<p>@今天没有睡醒：竟然还贞洁，下一步是不是要立贞洁牌坊了？</p>
+<p>@神经瞌睡猫：新社会的女德女戒？</p>
+<p>@潮千里:都什么僵尸在管敝国青少年的性教育啊……</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E9%AB%98%E4%B8%AD%E7%94%9F%E7%A7%91%E5%AD%A6%E5%AE%88%E8%B4%9E%E6%80%A7%E6%95%99%E8%82%B2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%BB%8E%E5%9B%9B%E5%BE%B7/?category=18271" rel="tag">三从四德</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/?category=18271" rel="tag">传统文化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A6%87%E5%A5%B3%E6%9D%83%E7%9B%8A/?category=18271" rel="tag">妇女权益</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E6%95%99%E8%82%B2/?category=18271" rel="tag">性教育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%99%BD%E4%BA%91%E8%B7%AF%E5%B0%8F%E5%AD%A6%E6%9C%80%E6%96%B0%E6%A3%80%E6%B5%8B%EF%BC%9A%E6%95%99%E5%AE%A4%E7%94%B2%E9%86%9B%E5%85%A8%E9%83%A8/" target="cdt-mirror">财新网｜北京白云路小学最新检测：教室甲醛全部超标</a>
 </h2>
 <p><p>【编者注】财新网原文及门户网站转发均已被和谐。以下内容来自<a href="http://webcache.googleusercontent.com/search?q=cache:T8GARs4RWm8J:china.caixin.com/2016-06-22/100957475.html+&cd=1&hl=en&ct=clnk&gl=us" target="_blank">谷歌快照</a>：</p>
@@ -609,69 +760,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%98%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B3%95%E5%BE%8B%E4%B8%93%E5%AE%B6%E5%AD%94%E6%9D%B0%E8%8D%A3%E6%8C%87%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%A1%88%E7%B2%89%E7%A2%8E%E4%B8%AD%E5%9B%BD%E4%BE%9D%E6%B3%95%E6%B2%BB/" target="cdt-mirror">法广｜法律专家孔杰荣指林荣基案粉碎中国依法治国“童话”</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard24_152.jpg?resize=551%2C311" alt="Clipboard24_152" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard24_152.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard24_152.jpg?resize=300%2C169 300w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><br>
-美国中国法律专家孔杰荣</p>
-<p>美国的中国法律专家孔杰荣（Jerome Cohen）在网志撰文，指铜锣湾书店店长林荣基不顾个人安危冒险公开北京在书店5人失踪案背后所扮演的角色，实已粉碎了中共用来“自欺欺人”、“有辱国际社区智商的童话故事”。</p>
-<p>当年协助中国失明维权律师陈光诚出走大陆的纽约大学法学院教授兼亚美法研究所共同主任的孔杰荣说，铜锣湾书店一案是一典型教材，足可反映中国警察独行独断在境内肆意禁锢及虐逮自己人民的权力，甚至还将魔手伸延到境外，静悄悄的连外国人民也绑架到中国！</p>
-<p>孔说，这个故事又揭露了中华人民共和国司法制度多个层面的本质，“我们在国际上早就听过有所谓的‘两个中国’的讲法，但原来在刑事司法层面，也有两个中国，一个是包括宪法在内明文规定的法律，另一个却是中共和警察日常所采用的法律，一个经常漠视、践踏和扭曲明文规定的法律”。</p>
-<p>曾经在哈佛大学法律学院任教、学生包括前台湾总统马英九的孔杰荣说，林荣基一案特别之处，在于林荣基首次揭露了有来自中共中央的特别调查人员介入此案，林荣基同时也证实了他的遭遇，并非是华南有些头脑发热的地方执法人员的所为，而是来自中共的核心中央。</p>
-<p>他说，现在很多受到中共监控的人，纷纷出来反驳林荣基，但这些人的命运，却系于他们对主人的言听计从的程度，十分可悲。可悲的不只是这些人，中华人民共和国的形象亦然。</p>
-<p>孔杰荣说，他不知道林荣基何来的勇气将真相和盘托出，粉碎了中共用了哄小孩的“床边故事”，但孔杰荣对他以及何俊仁（协助林荣基的香港民主党立法会议员）和南华早报敢于将真相揭露而喝彩。</p>
-<p>孔杰荣是美国著名的中国及东亚法律专家。他是前哈佛大学法学院副院长，现任纽约大学法学院教授暨亚美法研究所共同主任，同时也是外交关系协会的兼任资深研究员、宝维斯律师事务所的资深顾问。</p>
-<p>中国改革开放之初，孔杰荣获邀到北京向商务官员教授美国的合同法。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B3%95%E5%BE%8B%E4%B8%93%E5%AE%B6%E5%AD%94%E6%9D%B0%E8%8D%A3%E6%8C%87%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%A1%88%E7%B2%89%E7%A2%8E%E4%B8%AD%E5%9B%BD%E4%BE%9D%E6%B3%95%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91%EF%BD%9C%E9%83%AD%E5%A4%A7%E7%9C%BC%EF%BC%9A%E5%90%B4%E5%BB%BA%E6%B0%91-%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89-%E6%A2%81%E5%90%AF%E8%B6%85/" target="cdt-mirror">东网｜郭大眼：吴建民–民族主义–梁启超</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-%E4%B8%8A%E5%8D%887.56.50.png?resize=534%2C375" alt="Screen Shot 2016-06-18 at 上午7.56.50" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.56.50.png?w=534 534w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-18-at-上午7.56.50.png?resize=300%2C211 300w" sizes="(max-width: 534px) 100vw, 534px" data-recalc-dims="1"></p>
-<p>「希特勒爱德国吗？当然爱，但他搞民粹主义。今天的青年人要有广阔的视野，要胸怀天下。民粹主义、极端的民族主义和狭隘的爱国主义要不得。一个自私自利的国家会失去朋友，会被孤立，在今天，孤立就是一场灾难。」这是外交学院前院长、前驻法国大使吴建民年前接受媒体访问时说的话。可惜的是，这位被称为「鸽派」的资深外交官，本月十八日凌晨在湖北一起车祸中不幸身亡。</p>
-<p>吴建民认为，狭隘的民族主义本质上是反对邓小平改革开放路线，破坏当下中国与世界合作的良好局面，把中国拉向倒退、封闭和落后。</p>
-<p>除了曾任毛泽东和邓小平翻译的吴建民外，最近另外一著名中国外交官王毅在加拿大驳斥记者的失仪失态或失范的表现，同样引起了广泛的关注。从外长王毅这名当年被普遍认为温文尔雅、举止得当的外交官，今日变成颐指气使，充满暴发户的傲慢的表现，折射出中国外交政策，从包括江泽民及胡锦涛掌政时期在内的邓小平时代的「韬光养晦」，到今时今日强调「有所作为」的转变，足见其在外交策略上的改弦更张。</p>
-<p>因曾发表题为《南海争端，中国克制是种自信》的文章而广泛关注，更被毛左群起攻击的吴建民认为，二零零八年全球经济危机之后，民族主义和民粹主义结合的思潮席卷全球多个国家。民族主义的流行导致大众对国家发展情况过分自大，产生盲目排外的心理；民粹主义的泛滥则使得政府为了继续执政而过分去讨好民众，以至于忽略国家的实际情况。他警告：「目前民族主义和民粹主义在中国也有所抬头，如果不积极引导，会扰乱社会，损害我国进一步对外开放。」</p>
-<p>吴建民指出，狭隘的民族主义只考虑本国的利益，不考虑他国的利益，这种思想是零和游戏的思想而不是共赢的思想。还有就是民粹主义，因为老百姓总是考虑眼前的利益。民粹主义就是靠着讨好老百姓，短期之内能够得到喝彩，能够获得更多的选票，「就去这么干」。狭隘的民族主义和民粹主义会把国家与国家之间的关系引向对抗和冲突，会把两者之间的关系引向灾难，这种现象是大家都不愿意看到的。</p>
-<p>二零一零年，吴建民说，曾有青年问他：「新的历史时期需要什么素质的青年人，而现代青年最欠缺的是什么素质？」其回应是：「青年在考虑自身发展中要有世界眼光，小家小气很难有大发展。狭隘的民族主义者总认为自己最行别人都不行，这是可怕的。有些代表团来到法国访问，看到巴黎街头的古老建筑显得不屑一顾，说：『巴黎有什么，看不到新大楼。』他们不知道，旧房子要比新房子贵很多，不知道旧房子的文化底蕴。」</p>
-<p>吴建民认为，狭隘的民族主义本质上是反对邓小平改革开放路线，破坏当下中国与世界合作的良好局面，把中国拉向倒退、封闭和落后。其中，民族主义是封闭保守的象征，反对的其实就是「开放」，而民粹主义往往以老百姓的短期利益作「卖点」，其背后反对的正是「改革」。他强调，中国要进一步发展，就必须坚持改革开放，摒弃狭隘的民族主义。</p>
-<p>据说，「民族主义」一词，在中国最早使用的是清末民初的大学问家梁启超先生。他早在一九零一年就在《国家思想，变迁异同论》中提到了「民族主义」，批评中国人没有国家思想，或「知有天下而不知有国家」，或「知有一己而不知有国家」。换言之，中国人一向重视「个人」和「世界」，而忽视其间的「国家」。那年代时兴的两大主流正是「个人」和「世界」，当时是北大学生、后来成为北大校长的傅斯年说了一句可圈可点的说话：「我只承认大的方面有人类，小的方面有『我』，是真实的。『我』和人类中间的一切阶级，若家族、地方、国家等等，都是偶像。」</p>
-<p>经历欧游四十日，及至一九一九年「五四」运动时期的梁启超，已隐隐觉察到「民族主义」的危险，对「民族主义」有所保留及警惕，甚至有说他从当时德国和日本民族主义的兴盛趋势估计，二次世界大战将由德日掀起的惊人预测，足见其见解已变，虽仍主张「国家是要爱的」，但「一面不能知有国家不知有个人，一面不能知有国家不知有世界」。</p>
-<p>与晚年梁任公在「国家」、「个人」与「世界」三者之间，强调了「个人」和「世界」一脉相承的是，吴建民生前曾明言：「小不忍则乱大谋。我的观点是：爱祖国，也要爱人类，才能站得住脚。在全球化、信息化也已构筑了各国利益如此紧密的智慧地球时代，我们已经不能关起门来只讲狭隘的爱国主义了。中国人自古就有天下观，这个天下观不应只限于中国，而是世界的。」</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91%EF%BD%9C%E9%83%AD%E5%A4%A7%E7%9C%BC%EF%BC%9A%E5%90%B4%E5%BB%BA%E6%B0%91-%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89-%E6%A2%81%E5%90%AF%E8%B6%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%B4%E5%BB%BA%E6%B0%91%E8%BD%A6%E7%A5%B8%E9%80%9D%E4%B8%96/?category=18271" rel="tag">吴建民车祸逝世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A2%81%E5%90%AF%E8%B6%85/?category=18271" rel="tag">梁启超</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E7%B2%B9%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民粹主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E8%94%A1%E5%92%8F%E6%A2%85%EF%BC%9A%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%98%AF%E5%8B%87%E8%80%85%E4%B9%9F%E6%98%AF%E6%99%BA%E8%80%85/" target="cdt-mirror">苹果日报｜蔡咏梅：林荣基是勇者也是智者</a>
-</h2>
-<p><p>铜锣湾书店4人回港销案，是大陆那边导演的一出戏，心怀恐惧被威胁当演员的李波等完成任务后，都乖乖地奉命再回大陆受审查。我原以为林荣基也会如此，想不到他敢于抗命，拒绝返回大陆，并且随即召开记者会，戳破李波绑架案中共践踏法治和人权的黑幕。</p>
-<p>李波绑架事件发生后，很多人因恐惧，一些书店不敢卖敏感书籍，出版、印刷、发行也自我审查。制造恐惧是所有极权专制政权的一种手段。强权杀鸡儆猴，就是要在我们心中制造寒蝉效应，让我们人人心生恐惧，让我们主动服从，强权因此更加强大。反抗强权，首先要战胜强权加于我们心中的恐惧。但战胜恐惧并非易事，不是每个人都能做到，软弱不应指摘，只能同情。但林荣基挺身而出，他做到了，是位勇者。</p>
-<p>林荣基也是位智者，智慧给予了他反抗的勇气。</p>
-<p>因为恐惧而对强权委曲求全，其实并不能软化强权，反而使得强权更肆无忌惮。比如有受害者家属，在亲人被中共投入大牢后因为恐惧，低调应对，或私下找人沟通，但如此并未能救出亲人，而更惨的是，因为家属低调，未能引起国际舆论的注意，中共没有舆论压力，反而判得更重。香港书商姚文田的案子就是一例。姚文田因欲出版中国流亡作家余杰《中国教父习近平》一书，2013年被中共当局设陷阱在深圳诱捕，2015年74岁高龄的姚文田被当局以走私普通货物罪，判重刑10年，令人扼腕。可想而知，李波被绑架后，若香港人也低调反应，此事也就不了了之，今后大陆那一边越境香港绑架的事件只会越来越多。</p>
-<p>林荣基抗命拒回大陆后主动召开记者会，实际是一个高招。有人以为他更危险，其实更安全。或许有人不明白中共做任何坏事都需要付出代价的，我们越恐惧，越低声下气，他们付出的代价就越少，反之他们付出的代价就会越大。李波事件在香港以及国际社会引起的轩然大波，使中共国际形象一败涂地，否则当局也不会煞费苦心演出相当拙劣的放人回港销案的闹剧。</p>
-<p>林荣基公开诉诸舆论后，中共当局要对付他，付出的代价将相当大，等于再搞一宗李波绑架事件，甚至代价可能比李波绑架案更大，今后林荣基发生任何事故，人们都会把账算在中共的阴谋上，找中共算账，而中共将会百口莫辩。说不定自此之后中共还要暗暗祷告林荣基不要发生任何意外才好。向勇者、智者林荣基致敬！</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 吃枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E8%94%A1%E5%92%8F%E6%A2%85%EF%BC%9A%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%98%AF%E5%8B%87%E8%80%85%E4%B9%9F%E6%98%AF%E6%99%BA%E8%80%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97/?category=18271" rel="tag">铜锣湾书店</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -693,5 +781,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

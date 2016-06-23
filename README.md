@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%99%BD%E4%BA%91%E8%B7%AF%E5%B0%8F%E5%AD%A6%E6%9C%80%E6%96%B0%E6%A3%80%E6%B5%8B%EF%BC%9A%E6%95%99%E5%AE%A4%E7%94%B2%E9%86%9B%E5%85%A8%E9%83%A8/" target="cdt-mirror">财新网｜北京白云路小学最新检测：教室甲醛全部超标</a>
@@ -608,7 +608,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%98%B1%E5%AE%87/?category=18271" rel="tag">卢昱宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%96%B0%E9%97%BB/?category=18271" rel="tag">非新闻</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C%E6%B3%95%E5%BE%8B%E4%B8%93%E5%AE%B6%E5%AD%94%E6%9D%B0%E8%8D%A3%E6%8C%87%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%A1%88%E7%B2%89%E7%A2%8E%E4%B8%AD%E5%9B%BD%E4%BE%9D%E6%B3%95%E6%B2%BB/" target="cdt-mirror">法广｜法律专家孔杰荣指林荣基案粉碎中国依法治国“童话”</a>
 </h2>
@@ -693,5 +693,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

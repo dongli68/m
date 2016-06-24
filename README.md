@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,171 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%A0%BD%E8%B5%83%E9%83%BD%E7%B4%A7%E8%B7%9F%E7%83%AD%E7%82%B9%EF%BC%9A%E9%80%86%E6%88%91%E8%80%85%E6%AF%92%E8%B7%91%E9%81%93/" target="cdt-mirror">【网络民议】栽赃都紧跟热点：逆我者毒跑道</a>
+</h2>
+<p><p><strong><a href="http://politics.caijing.com.cn/20160623/4137518.shtml" target="_blank">汕尾市检察院：已初查林祖恋涉嫌收受乌坎学校塑胶跑道回扣</a></strong></p>
+<blockquote><p>南方网记者报道 有网民近日发帖称，原乌坎村支书林祖恋插手乌坎学校塑胶跑道工程，从中收受回扣，42万元的塑胶跑道拿了8万元回扣。记者就此向汕尾市人民政府新闻办公室了解，该办负责人表示，已经注意到网民的反映。该办负责人同时指出，汕尾市委、市政府历来高度重视关心学生健康成长，决不允许侵害学生权益现象出现。</p>
+<p>据悉，汕尾市网信办从网上获知网民情况反映后，已将该线索转交检察机关。汕尾市政府已请有关部门尽快到乌坎学校对正在使用的塑胶跑道开展质量安全检查。</p>
+<p>汕尾市人民检察院有关人士23日晚向记者透露，相关问题线索已经收到并已展开初查。</p></blockquote>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/wukanyupinjian2_dyeep_1200x0.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/wukanyupinjian2_dyeep_1200x0.jpg?resize=500%2C528" alt="wukanyupinjian2_dyeep_1200x0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/wukanyupinjian2_dyeep_1200x0.jpg?w=661 661w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/wukanyupinjian2_dyeep_1200x0.jpg?resize=284%2C300 284w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>图片来源：<a href="https://www.thestandnews.com/china/%E7%83%8F%E5%9D%8E%E4%BA%8B%E4%BB%B6-%E7%95%B6%E5%B1%80%E5%86%8D%E9%98%BB%E6%9E%97%E7%A5%96%E6%88%80%E8%81%98%E5%BE%8B%E5%B8%AB-%E5%BE%8B%E5%B8%AB%E7%8E%89%E5%93%81%E5%81%A5-%E5%B0%8D%E6%89%80%E8%AC%82%E6%B3%95%E6%B2%BB%E5%BE%B9%E5%BA%95%E5%A4%B1%E6%9C%9B/" target="_blank">立场新闻</a></span></p></div>
+<blockquote><p><strong>相关阅读</strong>：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%AF%B4%E4%BD%A0%E8%B4%AA%E6%B1%A1%E4%BD%A0%E5%B0%B1%E5%BE%97%E8%B4%AA%E6%B1%A1/" target="_blank">【网络民议】党说你贪污你就得贪污</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B2%B8%E8%85%BE%EF%BD%9C%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%9F%A5-%E8%AF%B7%E7%94%A8%E8%BF%87%E7%A1%AC%E8%AF%81%E6%8D%AE%E8%AE%A9%E4%BA%BA%E4%BB%AC%E7%9B%B8%E4%BF%A1%E6%B3%95/" target="_blank">沸腾｜乌坎村主任被查 请用过硬证据让人们相信法治 （已删）</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B6%89%E6%AF%92%E8%B7%91%E9%81%93%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%8C%97%E4%BA%AC%E5%AE%B6%E9%95%BF%E7%9A%84%E6%8A%97%E4%BA%89%EF%BC%9A%E5%A5%8B%E6%96%97%E5%A4%B1%E5%8E%BB%E4%BA%86%E6%84%8F%E4%B9%89/" target="_blank">凤凰网｜涉毒跑道事件后北京家长的抗争：奋斗失去了意义</a></li>
+<li>中国数字时代<a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/" target="_blank">林祖恋</a>专题</li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/nanciecheung" target="_blank">@NXHK</a>：看毒跑道犯众怒，马上安插在他头上，太鸡贼了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/5756260744" target="_blank">@伊人憋住</a>：毒跑道发挥正能量了<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
+<p>@立珊公交站：恩，他还包养了是个情妇，在加拿大有几十处房产，党说什么是什么</p>
+<p><strong>@李徐生律师：我靠，栽赃都紧跟热点。没有律师会见，只有检察院不断放出风声，可信度不高。</strong></p>
+<p>@Hadrianuse：八万块，动用三百武警，一千警力。你国是真·法治国家</p>
+<p>@起点闲云：先抓人再调查，有的没的罪名，先给扣上一个再找线索，实在找不到就创造一个</p>
+<p>@ 沧海一声笑-滔滔两岸潮：你就说42万的塑胶跑道拿了58万的回扣，俺也信！。。。。</p>
+<p>@菜民：仅仅靠网民发帖是不行的，应再迅速调集三千精锐朝阳区群众速赴乌坎。</p>
+<p><strong>@北地-喷喷美剧迷：逆我者毒跑道</strong></p>
+<p>@2014-03-08：行贿人抓起来没有？行贿人叫啥XX啊？这行贿人是孤案？还是其经营史主要都是这经营手法啊？其他行贿对象受贿人是都打算放过对吗?</p>
+<p><a href="http://weibo.com/2683117843" target="_blank">@刘四那天</a>：若是真收了8万回扣，那真是业界良心了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">。不过我还是不信他会受贿！</p>
+<p><strong>@曲子叶：简直逆天了，北京市及诸多城市诸多学校“毒跑道”的动静闹那么大，没见查出吃回扣来，这边没几天就查出42万的塑胶跑道拿了8万的回扣——这个比例可查太多学校按塑胶跑道的回扣金额了。汕尾检察院还能查出林祖恋什么“经济犯罪”行为来？</strong></p>
+<p>@大纸老虎V：哈哈，哈哈哈！强烈要求最高检调汕尾检察院异地查办北京的毒跑道。</p>
+<p>@行健小屋_2：辛苦了，辛苦了，这么久也算编出个受贿项目了，而且还是金额巨大，8万元！</p>
+<p>@流氓会武术谁也挡不住哦耶：看到评论里大家这么骂你，我就放心了，上坟烧报纸，你糊弄你爹呢？</p>
+<p><a href="http://weibo.com/1853529242" target="_blank">@他们说名字长的一般比较帅</a>：真是捉急，这群刁民怎么不相信呢！<img title="[哼]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/diaobin" target="_blank">@大雕刁斌</a><i title="微博个人认证 "></i>：不再加个毒疫苗？地沟油呢？再加个间谍罪不？当地公检法办罪能力不强呀，差评<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2065616851" target="_blank">@顺道之德</a><i title="微博达人"></i>：第一次说数额特别巨大，想尽办法才想出8万元来<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/n/%E6%BD%98%E9%87%91%E8%8E%B2%E6%97%A5%E8%AE%B0?from=feed&loc=at" target="_blank">@潘金莲日记</a>:检察院把握热点借势热点的能力真心不错，赞一个<img title="[good]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]" data-recalc-dims="1">这公关力可以打100分，就不知道公信力多少分？</p>
+<p>@旸哥shine1：真会扣黑帽子，而且拿着热点新闻来抹黑。</p>
+<p>@whosesinger：搞笑我们是认真的！</p>
+<p>@李晓群2011：把贪污和热点结合起来，不得不说是与时俱进啊</p>
+<p>@1回眸一笑1：大家不傻，骗人越来越难，辛苦检察院了</p>
+<p><strong>附微博评论截图：</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%9E%97%E7%A5%96%E6%81%8B%E6%B6%89%E5%AB%8C%E6%AF%92%E8%B7%91%E9%81%93.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%9E%97%E7%A5%96%E6%81%8B%E6%B6%89%E5%AB%8C%E6%AF%92%E8%B7%91%E9%81%93.png?resize=550%2C2133" alt="林祖恋涉嫌毒跑道" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/林祖恋涉嫌毒跑道.png?w=602 602w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/林祖恋涉嫌毒跑道.png?resize=77%2C300 77w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/林祖恋涉嫌毒跑道.png?resize=264%2C1024 264w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%A0%BD%E8%B5%83%E9%83%BD%E7%B4%A7%E8%B7%9F%E7%83%AD%E7%82%B9%EF%BC%9A%E9%80%86%E6%88%91%E8%80%85%E6%AF%92%E8%B7%91%E9%81%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%AA%E5%AE%A1%E5%85%88%E5%88%A4/?category=18271" rel="tag">未审先判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B6%89%E6%AF%92%E8%B7%91%E9%81%93%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%8C%97%E4%BA%AC%E5%AE%B6%E9%95%BF%E7%9A%84%E6%8A%97%E4%BA%89%EF%BC%9A%E5%A5%8B%E6%96%97%E5%A4%B1%E5%8E%BB%E4%BA%86%E6%84%8F%E4%B9%89/" target="cdt-mirror">凤凰网｜涉毒跑道事件后北京家长的抗争：奋斗失去了意义</a>
+</h2>
+<p><p><strong>【编者注】凤凰网原文已被和谐。以下内容来自<a href="http://webcache.googleusercontent.com/search?q=cache:HAgguvR_fSUJ:news.ifeng.com/a/20160618/49180088_0.shtml+" target="_blank">谷歌快照</a>：</strong></p>
+<blockquote><p>相关阅读：</p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E8%B4%A2%E6%96%B0%E7%BD%91%EF%BD%9C%E5%8C%97%E4%BA%AC%E7%99%BD%E4%BA%91%E8%B7%AF%E5%B0%8F%E5%AD%A6%E6%9C%80%E6%96%B0%E6%A3%80%E6%B5%8B%EF%BC%9A%E6%95%99%E5%AE%A4%E7%94%B2%E9%86%9B%E5%85%A8%E9%83%A8/" target="_blank">财新网｜北京白云路小学最新检测：教室甲醛全部超标</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E4%B8%9C%E7%BD%91%EF%BD%9C%E5%AE%88%E9%B1%BC%EF%BC%9A%E7%BE%8E%E6%A2%A6%E5%B7%B2%E7%BB%8F%E7%A0%B4%E7%81%AD-%E4%B8%AD%E4%BA%A7%E4%B8%8D%E5%BF%8D%E7%9B%B4%E9%9D%A2/" target="_blank">东网｜守鱼：美梦已经破灭 中产不忍直面</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/04/%E7%BD%91%E6%98%93%E8%B7%AF%E6%A0%87%EF%BD%9C%E4%B8%80%E5%90%8D%E5%B8%B8%E5%A4%96%E5%AE%B6%E9%95%BF%E7%9A%84%E4%BF%A1%E4%BB%B0%E5%9D%8D%E5%A1%8C%EF%BC%9A%E5%8F%AA%E6%81%A8%E6%B2%A1%E6%9C%89%E8%83%BD/" target="_blank">网易路标｜一名常外家长的信仰坍塌：只恨没有能力移民</a></li>
+</ul></blockquote>
+<p>作为中产的王洁突然觉得自己的奋斗失去了意义。争取北京户口、努力赚钱、走关系、从一百多平的新房搬到40平米的破旧学区房，这一切都是为了女儿笑笑能上北京市西城区展览路第一小学（以下简称“展一小”）。在对成功评判相对单一的情况下，家长们寄希望于孩子能上重点小学、重点中学、一流大学，竞争一步都不能拉下。</p>
+<p>王洁想不明白进入4月天气渐热后，女儿为何开始呕吐。笑笑几次在学校呕吐不止，王洁把她接回家缓解不少，送学校再呕吐。直到6月初，北京市第二实验小学白云路分校（以下简称“白云路小学”）爆发涉毒塑胶跑道事件，王洁才意识到女儿的呕吐可能跟学校气味异常的跑道有关系。</p>
+<p>为了避免接触跑道，王洁拒绝女儿去学校。王洁觉得自己剥夺了女儿上学的权利，但她没有办法。在健康无法保证的情况下，王洁甚至想过把女儿送去县城读书，她开始降低对女儿人生的要求，只要健康快乐就好。</p>
+<p>越来越多的家长拒绝自己的孩子去学校，以此要求学校拆掉气味异常的塑胶跑道，学校回应需要层层上报，迟迟没有进展，由此家长和学校展开了拉锯战。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0bd345b06b992b_size25_w720_h723.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0bd345b06b992b_size25_w720_h723.jpg?resize=475%2C477" alt="d0bd345b06b992b_size25_w720_h723" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0bd345b06b992b_size25_w720_h723.jpg?w=720 720w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0bd345b06b992b_size25_w720_h723.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0bd345b06b992b_size25_w720_h723.jpg?resize=300%2C300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0bd345b06b992b_size25_w720_h723.jpg?resize=70%2C70 70w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><p><span>维权群里不断有家长发孩子流鼻血、过敏的照片。</span></p></div>
+<p><strong>“孩子要是病得重，我一定会杀了你们”</strong></p>
+<p>不断有家长把孩子流鼻血、过敏的照片发到微信群里，这原本是之前家长们为了商量校服组建的群，在白云路小学爆发涉毒跑道事件后，微信群的名字改成了“展一小毒操场维权”。</p>
+<p>家长们在没有联结起来前，以为自家孩子流鼻血、过敏、呕吐、肚子痛是个案，不明白原因到底出在哪里。入4月以后，北京的气温逐渐回升，孩子们各种异常症状开始多了起来。</p>
+<p>王洁接到老师电话，女儿笑笑在学校呕吐不止。笑笑在操场上活动，突然呕吐，老师还帮忙清扫了。王洁搞不明白女儿没着凉、没吃坏肚子，为什么就吐了。她赶紧把笑笑接回家，症状缓解了。后来送去学校又呕吐。同样的情况出现了4、5次。</p>
+<p>有一段时间，笑笑晚上入睡前总是“吭哧吭哧”通鼻子。王洁觉得她没有感冒，在“装怪”，会吵到老二睡觉，王洁打笑笑的屁股，让她赶紧睡觉。这样的行为，王洁事后回忆起来自责不已。</p>
+<p>6月初，白云路小学涉毒塑胶跑道事件曝光后，王洁被家长拉入了维权群里。家长们将自家小孩的症状发到群里，王洁认为女儿此前找不到原因的症状也跟学校塑胶跑道有关系。</p>
+<p>群里的家长越聚越多，很快到了500人，不断有人把小孩异常的症状发到群里，单个症状之间有了联系。6月4日，詹强将儿子流鼻血的照片发到了群里，他很气愤也很紧张。詹强原来在建材局工作，47岁老来得子，特别紧张小孩的健康，自儿子出生后他就没让他去操场玩过。</p>
+<p>住了几个月医院，刚出院回家，詹强就碰上儿子流鼻血，恰逢塑胶跑道事件闹得沸沸扬扬，他把照片发群里后，赶忙带着儿子去医院检查。回到家，发现儿子班主任和校领导拎着东西在家楼下等着。詹强戏称自己是北京“老炮儿”晚一辈的“二炮儿”，同事、居委会都知道他的脾气急。詹强当着校领导面说，他没有证据绝对不会行动，“孩子要是病得重，我一定会杀了你们”。</p>
+<p>家长们在群里互相交流北京哪个医院检查最权威，307医院儿科门诊都快被家长挤爆了，北京很多学校的家长都带着孩子去做毒物检测，这里是国内做毒物检测的权威，一套检查下来花费一千多块。王洁带着女儿去检查，还碰到了从哈尔滨过来给孩子做毒检的家长。</p>
+<p>307医院的医生对媒体表示，目前的检测报告显示，至今没有检测出一个因涉毒跑道中毒的孩子。但这并不能让家长们放心，“十几二十年后出问题就晚了”，王洁说不能让孩子去冒这个险。</p>
+<p>夜里，王洁睡不着，打开手机看微信群里家长们的发言，看到别的孩子流鼻血、过敏的照片就落泪，她说这种伤心有孩子的人都能体会。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a68b84c45474cb7_size107_w1280_h960.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a68b84c45474cb7_size107_w1280_h960.jpg?resize=575%2C431" alt="a68b84c45474cb7_size107_w1280_h960" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a68b84c45474cb7_size107_w1280_h960.jpg?w=1280 1280w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a68b84c45474cb7_size107_w1280_h960.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a68b84c45474cb7_size107_w1280_h960.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a68b84c45474cb7_size107_w1280_h960.jpg?resize=1024%2C768 1024w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>6月6日，家长们陆续聚集到北京图书大厦，登记自己孩子的症状。</span></p></div>
+<p><strong>不了了之的抗争</strong></p>
+<p>展一小的塑胶跑道不是今年才出问题的，去年由于异常气味家长们抗议过，没有体制内更高力量的介入，事情最后不了了之。</p>
+<p>当初收到展一小的录取通知书，王洁一家兴奋了好久，都盼着开学。去年9月7日是展一小的开学日，王洁女儿升入一年级。家长们送孩子入学，在离校门口几十米的街边闻到一股刺鼻的气味，“说不上来是什么味道，就是特别臭”。原本暑假应该完工的塑胶跑道铺设，由于大阅兵推迟了工期，家长们正好看到施工。</p>
+<p>反映跑道味道的家长多了后，学校把一学期的课外实践课集中到一周，在施工期间学生在外实践，学校以为这样能解决问题。9月中旬，王洁女儿每天早上坐学校的大巴外出实践，下午再返回。国庆假期后，王洁女儿从学校回家开始全身大面积过敏、起红疹子。王洁给女儿请一周假，去医院拿药抹，“医生说这肯定跟跑道有关系”。</p>
+<p>课外实践后，学校并没有特别的举措来解决跑道气味异常的问题，也不是特别重视家长的反馈，王洁说学校觉得家长是在“闹”。有家长开始激烈抗议，最后被抓到派出所，王洁说需要声援被抓的家长时很多人反而退缩了。这样的冲突换来学校的反馈。校方委托北京美添辰环境检测有限公司做检测，检测报告显示检测项目有：室内空气中的甲醛、苯、甲醛、二甲醛、TVOC。深圳市建筑科学研究院总工程师任俊在接受凤凰网的采访时表示，这是一种不专业的检测。</p>
+<p>王洁说从学校开始要检测时，她就知道结果一定是合格的。王洁的工作是给各个国家机关做项目，有时为了应付领导视察，“很多东西都可以做出来”。学校拿出检测合格的报告后，家长们没有再追究。检测报告公布在学校官网上，王洁没去看，她认为没有意义，因为刺鼻的气味一直在。</p>
+<p>那时的王洁还在意会不会因为找学校给女儿带来不好的影响，加上工作忙，事情不了了之。这样的妥协让她至今感到后悔以及后怕。</p>
+<p>11月后，北京开始转凉，跑道的气味逐渐淡了，王洁也日益淡忘了这件事。今年5月，气温回升，塑胶跑道的气味挥发得更严重。6月初，白云路小学在操场举办运动会，学生集体产生不良反应，家长们抗议不断，展一小去年中断的抗议又开始了。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a4f7a729505d049_size62_w1280_h960.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a4f7a729505d049_size62_w1280_h960.jpg?resize=575%2C431" alt="西城区教委副主任刘志兵签字同意铲除操场，包括沥青。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a4f7a729505d049_size62_w1280_h960.jpg?w=1280 1280w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a4f7a729505d049_size62_w1280_h960.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a4f7a729505d049_size62_w1280_h960.jpg?resize=768%2C576 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a4f7a729505d049_size62_w1280_h960.jpg?resize=1024%2C768 1024w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>西城区教委副主任刘志兵签字同意铲除操场，包括沥青。</span></p></div>
+<p><strong>拉锯战</strong></p>
+<p>展一小学生单一的不良症状被联结以后，家长们很快团结到了一起，目标很明确，要求学校停课、铲除跑道，不过相比于处于此次塑胶跑道事件中心的白云路小学，展一小家长的维权路曲折不少。</p>
+<p>越来越多学生的不良反应照片发到群里后，家长们决定线下收集学生症状。6月6日晚，家长们陆续到北京图书大厦汇集，登记自己孩子的不良症状，同时要求停课、拆跑道。学校领导怕出事，也去了现场，让签完字的家长赶紧离开。信息登记表上记录的孩子症状包括流鼻血、皮肤过敏、头晕、恶心呕吐等。</p>
+<p>在家长的要求下，学校委托中国建材检验认证集团做检测，也为了平息家长的情绪。詹强被学校邀请参与监督检测过程。詹强原来在建材局工作，对此有了解，他看到检测人员只取样塑胶跑道，当着学校和区教委、环保局的面质疑为什么不对下面的沥青取样，“沥青被跑道密封后，一热挥发出各种化学物质”。检测人员说做不了沥青的检测，区教委说再往上汇报。</p>
+<p>检测结果至今没有公布，家长们也不再关心这个结果，她们坚信有严重气味的跑道就是有问题。去年深圳爆发十几起塑胶跑道事件，深圳市建筑科学研究院接受政府委托做塑胶跑道相关实验，任俊是负责人，他告诉凤凰网，在符合“国标”的塑胶跑道中他们检测出了别的有害物质。</p>
+<p>王洁在家长维权中表现得很积极，她不希望自己的孩子再受到涉毒塑胶跑道的伤害。王洁把维权群里别的家长发的信息转到班级群里，没有人理会，很多家长依旧在讨论作业的问题，“她们可能觉得事情不严重”。有家长找王洁私聊，质问她是否有证据，没有证据就别“闹”。王洁不回应这些质疑，坚持把信息传递到班级群，晚上整理好信息发，早上睁眼也发。后来班级群里开始有家长反馈自己孩子的症状，也咨询王洁相关问题，越来越多的家长开始要求铲除跑道。</p>
+<p>6月8日，西城区教委、展一小校方召集家长代表开沟通会议。詹强主动要求参加，在代表儿子班级家长表达完停课、铲除跑道的意见后，他又代表个人表达了比较激进的话，校领导和区教委的人面面相觑。在会上家长现场表决要求学校停课并拆跑道，“全票通过”。学校和区教委并没有当场表态，只说回去请示。</p>
+<p>在等待的过程中，恐慌和焦虑的情绪在家长中蔓延，不少家长向学校请假，让孩子呆在家里。王洁的女儿天天盼着去上学，担心马上要期末考试了，“为了维护母校在她心中的地位，我不能告诉她跑道问题，但我觉得剥夺了她受教育的权利”。请假在家，上班的家长们没法照看，只好今天在这家学习明天在那家学习。通常情况下，学校有1天停课的权利，区教委有3天停课的权利，老师们天天给家长打电话，让学生回去上学，拉锯一直在持续。</p>
+<p>西城区教委不表态，学校不敢做决定，只能告诉家长向上请示，又迟迟没有结果。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eeae0b9e586cc5a_size120_w1280_h960.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eeae0b9e586cc5a_size120_w1280_h960.jpg?resize=575%2C431" alt="展一小家长到西城区教委抗议，要求连带沥青一起铲除。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eeae0b9e586cc5a_size120_w1280_h960.jpg?w=1280 1280w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eeae0b9e586cc5a_size120_w1280_h960.jpg?resize=300%2C225 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eeae0b9e586cc5a_size120_w1280_h960.jpg?resize=768%2C576 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/eeae0b9e586cc5a_size120_w1280_h960.jpg?resize=1024%2C768 1024w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>展一小家长到西城区教委抗议，要求连带沥青一起铲除。</span></p></div>
+<p><strong>到底如何铲</strong></p>
+<p>包括展一小在内北京跑道出问题的学校都在等西城区教委表态，这也决定着北京塑胶跑道的命运到底如何。</p>
+<p>6月12日，西城区教委通报白云路小学的跑道检测结果：符合“国标”，但因为学习不适应，为了学生健康，拟与家长商谈全部或者部分拆除跑道。家长们在看通报会直播时，对于符合”国标“的说法感到愤怒。随即，展一小家长们接到学校老师的电话，王洁说老师在电话里表现得很激动。老师们向家长宣布了学校的4个决定：第一，不管检测合格与否都要整改，包括全部或者部分拆除；第二，和家长共同制定整改方案；第三，发回执征求家长意见；第四，组织专家对孩子和家长进行咨询。</p>
+<p>宣布完学校的4个决定，老师们劝家长让孩子回去上学。这样的通知让家长看到了希望，王洁的女儿特别兴奋地准备第二天上学要穿的衣服。6月13日，家长们去学校领调查问卷时，校方否决了通过调查问卷的方式，称改为老师打电话收集家长意见。家长们不同意这样的方式，加上铲除跑道迟迟没有进展，双方又陷入拉锯。</p>
+<p>王洁特别无奈地说，即便让他们对责任追查睁一只眼闭一只眼，或者家长联名向纪委求情不要追责，她们都愿意，只要把跑道拆了。王洁说她早就不关注检测结果了，现在也没人关注，家长的唯一诉求是铲掉跑道。</p>
+<p>和学校沟通未果，6月16日，家长们去找西城区教委，在门前打出“停止毒害孩子！铲除毒操场！”。这次抗议家长们特别重视，事前担心微信群被监控，都是一个一个打电话通知。后来，西城区教委副主任刘志兵出面与家长协商，在“西城区教委答应展览路第一小学铲除操场，包括沥青。铲除时间6月18日”的诉求上签了字。</p>
+<p>在刘志兵签字同意后，家长们表现得格外小心，群里不再呼吁任何，生怕中途有什么变故。6月17日晚上，铲车进入展一小操场，准备作业，不少家长专门去现场看，想亲眼看着心中的石头落地。</p>
+<p>没想到事情到头还是发生了变化。家长们发现展一小的跑道只铲除了表面的塑胶层，而不是像白云路小学那样把下面沥青也铲掉，刘志兵签了字铲除沥青也食言了。6月18日一早，家长从各处赶到学校抗议，接待家长的校领导称学校认为沥青没有问题，如果家长觉得沥青有问题，可以再找第三方做检测，话还没说完就被家长打断，表示不同意。最终，家长和学校协商未果。</p>
+<p>和学校商谈不下去，家长决定继续去找西城区教委。在西城区教委门前抗议了一下午，始终没有等到有人出面协商此事，“就是要逼出一个结果。”如果西城区教委不履行铲除沥青层的承诺，家长们表示会继续到北京市教委抗议。</p>
+<p>（文章人物均为化名）</p>
+<p>（凤凰网叶宇婷）</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B6%89%E6%AF%92%E8%B7%91%E9%81%93%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%8C%97%E4%BA%AC%E5%AE%B6%E9%95%BF%E7%9A%84%E6%8A%97%E4%BA%89%EF%BC%9A%E5%A5%8B%E6%96%97%E5%A4%B1%E5%8E%BB%E4%BA%86%E6%84%8F%E4%B9%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E5%8C%BA%E6%88%BF/?category=18271" rel="tag">学区房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%81%E6%B0%91/?category=18271" rel="tag">屁民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%92%E8%B7%91%E9%81%93/?category=18271" rel="tag">毒跑道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83/?category=18271" rel="tag">维权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%90%B4%E5%BF%97%E6%A3%AE%EF%BC%9A%E4%B8%8D%E8%AF%B4%E7%9C%9F%E8%AF%9D%E5%8F%AF%E5%85%8D%E4%BA%8E%E6%81%90%E6%83%A7%EF%BC%9F/" target="cdt-mirror">苹果日报｜吴志森：不说真话可免于恐惧？</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xiangqiangquan.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xiangqiangquan.jpg?resize=575%2C323" alt="xiangqiangquan" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xiangqiangquan.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xiangqiangquan.jpg?resize=300%2C168 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p><em>作者: 吴志森</em></p>
+<p>林荣基开记者会大爆“被消失的真相”，轰动全城。对林荣基的抹黑和诋毁，陆续有来，而肩负人格谋杀任务的，并非传统左报，而是貌似中立的非左派媒体，效果会否好些？一点都没有。这个媒体扮演姓党的角色，早已不是第一次，有相当日子，但手法越来越低庄，公信力越做越插水。</p>
+<p>铜锣湾书店事件爆发，这份建制媒体飞身扑上，做李波专访有之，发相发稿发亲笔信有之。林荣基记者会后，这张报纸与大陆公安密切配合，转发林荣基的亲笔认罪书，以及要求在大陆定居工作的亲笔申请书，指因与妻儿家人不和，在香港居住有困难，请求公安帮助寻找临时居所和工作。报道还访问宁波公安，以权威口吻谈论案情，但因为剧本太烂，搞笑指数甚高，效果只能用滑稽来形容。</p>
+<p>为抵销林荣基记者会的影响，这份建制媒体，其后又以极高速的效率，访问了铜锣湾书店的另外两名成员吕波、张志平，借他们的口来否定林荣基的说法。戏肉来到林荣基在大陆的女友，向建制媒体哭诉感情受骗，受林荣基指使在大陆邮寄禁书。在编定的剧本层面，这个次序，也顺理成章，毫不意外。</p>
+<p>建制媒体拿到的不是独家新闻，而是官方“喂料”。当年资深传媒人程翔被指泄密遭到拘禁，同一媒体集团已独家披露程翔在大陆包二奶，以此抹黑程翔。今次只是故技重施而已。</p>
+<p>林荣基的记者会是公开的，现场有几十位本地和外国记者，开场白之后无限制地公开任问个多小时。另一边厢的所谓“访问”，都是闭门进行，问和答都看得出按照剧本进行的痕迹。李波声称已在香港得到自由，请不要以脸书、亲笔信反驳，也不要边走边回应记者的提问。不如效法林荣基，在建制政党协助下，也在立法会召开中外记者会，看看效果如何？</p>
+<p>访问的形式固然重要，访问的地点更关键。无论是吕波、张志平，还是那位姓胡的女士，访问的地点都在大陆而不是香港，不是公开透明。前后左右有没有导演在监视？有没有编剧“飞纸仔”？谁的描述更接近真实？谁的说法更可信？一目了然。</p>
+<p>林荣基道出了李波的苦衷：李波在大陆仍有亲人，仍有顾忌。另一位铜锣湾书店的前职员曾叫李波公开披露事情真相，但李波拒绝，多次回应：“我妻子怎么办？儿子怎么办？”并有人对李波说：“如果反抗，将一世活在恐怖中。”但可怜的是，李波选择不反抗、不说真话了，难道他真的可免于恐惧，做一个真正的自由人吗？</p>
+<p>林荣基说：“我失去咗自由，将来都会发生喺各位身上，如果我作为五个人里面负担最少嘅都唔出声，香港就冇得救……”请记住林荣基这话：“我希望香港人向强权说不！”</p>
+<p><small>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</small></p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%90%B4%E5%BF%97%E6%A3%AE%EF%BC%9A%E4%B8%8D%E8%AF%B4%E7%9C%9F%E8%AF%9D%E5%8F%AF%E5%85%8D%E4%BA%8E%E6%81%90%E6%83%A7%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E5%88%B6%E6%B4%BE/?category=18271" rel="tag">建制派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B0%86%E4%B8%8E%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E4%BC%9A%E9%9D%A2-lady-gaga%E4%B8%AD%E5%9B%BD%E6%AD%8C%E8%BF%B7%E6%80%92%E6%88%98%E6%8E%A8%E7%89%B9/" target="cdt-mirror">将与达赖喇嘛会面 Lady Gaga中国歌迷怒战推特</a>
+</h2>
+<p><p>2016年6月22日，流行巨星Lady Gaga在推特表示，很荣幸能在周日的一场活动中与达赖喇嘛面对面：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?resize=500%2C296" alt="ladygaga" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?w=1536 1536w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?resize=300%2C177 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?resize=768%2C454 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?resize=1024%2C605 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?resize=80%2C48 80w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>许多中国歌迷对此反应激烈。<strong>大量“爱国青年”在推特用支离破碎的英语劝诫Lady Gaga不要与达赖会面。其中不少人认为，一旦会面成功，Lady Gaga会被禁止在中国演出。</strong>必须指出的是，<strong>与何韵诗等香港艺人的遭遇比起来，高调谈论达赖喇嘛的Lady Gaga的待遇似乎要好得多。</strong>目前，中国歌迷的评论以批判达赖、希望Lady Gaga不要与达赖同框出现的内容为主，尚无出现大面积要求“封杀”的言论。<strong><br></strong></p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E6%8A%B5%E5%88%B6%E4%B8%8B%E4%B8%80%E7%AB%99%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A/">【立此存照】“爱国”抵制下一站：李嘉诚</a></li>
+<li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A6%99%E6%B8%AF%E5%95%86%E4%B8%9A%E4%BB%A3%E8%A8%80%E4%B9%9F%E5%BD%92%E4%BD%A0%E5%A4%A7%E9%99%86%E7%88%B8%E7%88%B8%E7%AE%A1/">【立此存照】香港商业代言也归你大陆爸爸管</a></li>
+<li><a title="【立此存照】帝吧出征维珍航空 认错公司无辜躺枪" href="https://chinadigitaltimes.net/chinese/2016/03/432213/">【立此存照】帝吧出征维珍航空 认错公司无辜躺枪</a></li>
+</ul></blockquote>
+<p><strong>部分评论翻译：</strong></p>
+<blockquote><p>虽然他获得过诺贝尔和平奖，也经常谈论世界和平，但他是个背叛和企图摧毁国家的人。</p>
+<p>请别这么做，你会完全被中国封杀的，不能开演唱会，请不要这样对待你的中国粉丝。</p>
+<p>达赖喇嘛很邪恶！请远离他！</p>
+<p>达赖是个坏人，他想要分裂国家！</p>
+<p>我以为你真的能看清事实，真的热爱和平。他只是个骗子。</p>
+<p>我们这里数百万个中国的粉丝真诚地建议你停止与达赖喇嘛交流！</p>
+<p>我喜欢你8年了！你为什么不相信我？不要会见达赖喇嘛！</p>
+<p>作为你的中国粉丝，我要告诉你真相，他是一个分裂国家者！</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png?resize=525%2C829" alt="ladygaga6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png?w=1537 1537w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png?resize=190%2C300 190w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png?resize=768%2C1213 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png?resize=648%2C1024 648w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png?resize=525%2C371" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png?w=1530 1530w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png?resize=300%2C212 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png?resize=768%2C543 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png?resize=1024%2C723 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png?resize=525%2C603" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png?w=1535 1535w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png?resize=261%2C300 261w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png?resize=768%2C882 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png?resize=892%2C1024 892w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png?resize=525%2C90" alt="ladygaga3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png?w=1537 1537w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png?resize=300%2C51 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png?resize=768%2C131 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png?resize=1024%2C175 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>同时还有<strong>“爱国青年”用生硬的英语承担起了为西方青年传授“真理”的使命：</strong></p>
+<blockquote><p>他在西藏干了很坏的事。他利用手中的权力去伤害无辜的人民。他企图分裂中国。</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png?resize=500%2C543" alt="ladygaga5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png?w=1536 1536w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png?resize=276%2C300 276w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png?resize=768%2C834 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png?resize=943%2C1024 943w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B0%86%E4%B8%8E%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E4%BC%9A%E9%9D%A2-lady-gaga%E4%B8%AD%E5%9B%BD%E6%AD%8C%E8%BF%B7%E6%80%92%E6%88%98%E6%8E%A8%E7%89%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97%E9%81%AD%E6%8A%B5%E5%88%B6/?category=18271" rel="tag">何韵诗遭抵制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%BD%E6%88%88-%E5%88%B6%E9%80%A0%E9%BB%84%E8%89%BA%E5%8D%9A/" target="cdt-mirror">羽戈 | 制造黄艺博</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/05/%E4%BA%94%E9%81%93%E6%9D%A0%E9%BB%84%E8%89%BA%E5%8D%9A4.jpg?resize=440%2C282" alt="五道杠黄艺博4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/05/五道杠黄艺博4.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/05/五道杠黄艺博4.jpg?resize=300%2C192 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
@@ -681,84 +843,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E4%B9%8C%E5%9D%8E%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%AE%A4%E7%BD%AA%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89/" target="cdt-mirror">【CDTV】乌坎村长林祖恋认罪视频曝光</a>
-</h2>
-<p><p>新闻背景：</p>
-<blockquote><p><a href="http://chinadigitaltimes.net/chinese/2016/06/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E4%B9%8C%E5%9D%8E%E6%9D%91%E6%B0%91%E6%AC%B2%E4%B8%8A%E8%AE%BF-%E5%AE%98%E6%96%B9%E5%85%AC%E5%B8%83%E6%9E%97%E7%A5%96%E6%81%8B%E8%AE%A4%E7%BD%AA%E8%A7%86/">@德国之声</a>：“广东乌坎村村民周一发起游行，并拟于周二上访。中国官方在此时公布了林祖恋接受审讯的画面，称林“主动供认收受巨额贿赂”。此外，汕尾市政府对部分“境外媒体”提出点名批评，称其在乌坎进行煽动、策划、导演。</p>
-<p>[…] 视频中，林祖恋表示：“由于自己对于法律事实的淡薄和无知，在民生工程中收受了各项目回扣，以及在村集体购买资产中也收受了巨大的回扣，这点是我最大的犯罪行为……我在这个问题上一定如实地向检察机关投案自首，对这点我会如实坦白地交待”。</p>
-<p>报道称，林祖恋目前已被免去乌坎村党总支部书记职务，其受贿问题正受到进一步侦办。乌坎村党总支副书记张水金主持村全面工作。”</p></blockquote>
-<p>更多报道见CDT <strong><a href="http://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/">2016乌坎再示威</a></strong> 消息合集</p>
-<p><a href="https://www.youtube.com/v/5kBQyCBvfao?version=3">https://www.youtube.com/v/5kBQyCBvfao?version=3</a></p>
-<p><a title="林祖恋认罪视频曝光 被免去乌坎村党总支部书记" href="http://www.youtube.com/watch?v=5kBQyCBvfao" target="_blank">林祖恋认罪视频曝光 被免去乌坎村党总支部书记</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-news&sz=99E7&t=2&s=MOLBBGCJYDC2NJFWJ7XRZTLBAEQJGOAMGKKWZWEATSQBNKCKDIOQ&i=CU5GQRLGHV22I6XJ2PCEDR2HDUH5ZWEUC&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E4%B9%8C%E5%9D%8E%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%AE%A4%E7%BD%AA%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">乌坎事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">电视认罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B2%B8%E8%85%BE%EF%BD%9C%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%9F%A5-%E8%AF%B7%E7%94%A8%E8%BF%87%E7%A1%AC%E8%AF%81%E6%8D%AE%E8%AE%A9%E4%BA%BA%E4%BB%AC%E7%9B%B8%E4%BF%A1%E6%B3%95/" target="cdt-mirror">沸腾｜乌坎村主任被查 请用过硬证据让人们相信法治 （已删）</a>
-</h2>
-<p><p>（数字时代编辑注：发布本文的新京报旗下微信公众号“沸腾”目前已被封号。本文转自“一点资讯”网站。）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/851423051_3125455991739476346-1.jpg?resize=550%2C309" alt="851423051_3125455991739476346 (1)" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/851423051_3125455991739476346-1.jpg?w=1440 1440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/851423051_3125455991739476346-1.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/851423051_3125455991739476346-1.jpg?resize=768%2C432 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/851423051_3125455991739476346-1.jpg?resize=1024%2C576 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>在中国，自小岗村后，应该没哪个村能像乌坎这样，激起这么大的波澜；也很少有哪个村的村支书兼村主任被查会像林祖恋这样，聚拢这么多的眼球。</p>
-<p>据报道，17日晚，林祖恋被警方进村带走，19日又有消息说乌坎数千村民游行，要求释放林祖恋。</p>
-<p>而20日乌坎所属的广东汕尾陆丰市检察院对外通报：从2012年担任村支书、村主任以来，林祖恋涉嫌利用工程项目建设管理的职务之便，在民生工程项目发包等环节大肆受贿，被群众多次举报，数额巨大，已触犯刑法；当地检方经过3个多月初查，于6月17日对其立案侦查。</p>
-<p>这算是乌坎波澜再起：乌坎最先走入公众视野，是因2011年9月21日的乌坎事件，当时土地转让、村财务问题引发村民抗议，后来在多方僵持、波折迭起后，事件迎来转机，以促成真正意义上一人一票村委会公开直选的方式得到善终。此事也被各方赋予重大标志性意义。</p>
-<p>之后乌坎渐次淡出舆论视野，偶尔在媒体特殊节点的“重返”“回访”中露面，也是跟“乌坎村民自治陷困境 村主任称后悔维权”“乌坎民众参选热情递减”等捆绑。</p>
-<p>如今当地“民选”上的林祖恋被查，听上去，这是个贪污受贿刑事案件，涉案者还是个处在社会治理末梢上的“村官”，没什么爆点。可眼下它隐隐有成为重大舆情事件的态势。因为跟“乌坎”相关，也因村民反应等，很多人跟当地官方之间已然存在认知上的“次元壁”，很难处在同一个频道上。</p>
-<p>尽管21日上午汕尾市政府再次召开情况通报会时透露，林祖恋在接受陆丰市检察机关审讯时，主动供认了自己收受贿赂的事实，并现场播放其认罪的视频，可很多人仍倾向于认为，这里面暗流涌动、藏着猫腻。而本就饱受诟病的“电视认罪”或“认罪视频公放”，也有些弄巧成拙——因方式本身欠妥，它构成了人们对主观揣测自我确认的“凭据”，结果消弭质疑不成反而招致更多质疑，本欲厘清事实却被指“另有隐情”。</p>
-<p>在林祖恋被查事件上，有质疑与回应的互动式博弈，不是坏事。既然很多人要的是“真相”，是“经得起质疑的说法”，当地官方也表示“对乌坎村民反映的任何问题绝不回避、绝不袒护任何人，坚决依法依纪调查处理”，各方就不妨对正常对话渠道脱敏，努力在常识中找共识，尽力聚同化异。</p>
-<p>眼下就有几点常识：</p>
-<p>首先，林祖恋目前只是“涉嫌”犯罪，其罪名仍未被确证，就算检察机关调查取证发现了某些线索，那也得经过法庭审理才能定罪，这期间有举证质证、控辩交锋等，个人是否有罪，不能靠单方指控就认定。</p>
-<p>其次，证据比经验化判断更可靠，林祖恋是否真有受贿情节，关键得看证据，他以往在乌坎事件中充当的积极角色，不是他有没有涉罪的凭证，而当地村民作为熟人、难以割裂亲缘关联的声援表态，也不如硬证据那么有说服力。</p>
-<p>拿证据说话。从公开信息看，光林祖恋的认罪视频仍是孤证，或许该案还在继续侦办中，检方的证据会在法庭审理环节才好亮出来，那也有赖于包括庭审在内的司法程序真正公正透明。</p>
-<p>但证据是解决个案公平性问题的，对于这起已成舆情事件的案件来说，要打消部分人的疑窦，也需要当地做好舆情应对，对那些集中的疑点及时释清：</p>
-<p>一者，网传林祖恋被带走前，他正要召开村民大会，就久未解决的土地转让问题组织村民集体上访，这属实否？况且，林祖恋当选村主任已有几年之久，当地官方称他曾多次被举报收受贿赂，那之前有没有及时查他？</p>
-<p>二者，乌坎村有土地问题已是不争事实，它具体是什么问题？是否是5年前的问题遗留？</p>
-<p>这些问题或许超出了刑事案件信息的范畴，可此事引关注的因素本就是复合的，撇不开复杂的社会背景。</p>
-<p>“要让人们在个案公平中感受到法治正义”。林祖恋如果确有犯罪，那法律面前人人平等，不管他过去曾经有过怎样的“功劳”，身上有着怎样的“标签”，都应依法惩处。总之，双方都应依法而为，将行为纳入法治轨道。而证据和及时的舆情应对，又是将质疑与回应拽入法治制式的基本路径。</p>
-<hr><p><small>© 先存后转 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B2%B8%E8%85%BE%EF%BD%9C%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%9F%A5-%E8%AF%B7%E7%94%A8%E8%BF%87%E7%A1%AC%E8%AF%81%E6%8D%AE%E8%AE%A9%E4%BA%BA%E4%BB%AC%E7%9B%B8%E4%BF%A1%E6%B3%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B9%BF%E4%B8%9C%E4%B9%8C%E5%9D%8E%E5%8E%9F%E6%9D%91%E5%A7%94%E4%BC%9A%E4%B8%BB%E4%BB%BB%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%9F%A5%E8%AE%A4%E7%BD%AA/" target="cdt-mirror">【真理部】广东乌坎原村委会主任林祖恋被查认罪</a>
-</h2>
-<p><p>广东乌坎原村委会主任林祖恋被查认罪一事，网站严禁发布，转载任何关于村民群体事件的新闻，图片，视频和相关信息。各网严格控制有关评论，对恶意发布信息的账号要果断处置，结果统一上报。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E5%B9%BF%E4%B8%9C%E4%B9%8C%E5%9D%8E%E5%8E%9F%E6%9D%91%E5%A7%94%E4%BC%9A%E4%B8%BB%E4%BB%BB%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%9F%A5%E8%AE%A4%E7%BD%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E6%B0%91%E9%80%89%E6%9D%91%E9%95%BF%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">乌坎民选村长林祖恋被控受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E5%9B%BD%E5%AE%B6%E7%BD%91%E4%BF%A1%E5%8A%9E%E9%83%A8%E7%BD%B2%E5%BC%80%E5%B1%95%E8%B7%9F%E5%B8%96%E8%AF%84%E8%AE%BA%E4%B8%93%E9%A1%B9%E6%95%B4/" target="cdt-mirror">中国网信网 | 国家网信办部署开展跟帖评论专项整治</a>
-</h2>
-<p><p>6月21日，国家网信办召开全国跟帖评论专项整治视频会议，部署集中治理跟帖评论存在的突出问题。各省（区、市）网信办以及部分中央新闻网站、商业网站负责人参加。</p>
-<p>中央网信办、国家网信办副主任任贤良指出，跟帖评论是群众在网上发表意见、表达观点、互动交流、舆论监督的重要平台。跟帖评论乱象扰乱信息传播秩序、破坏网络舆论生态，人民群众深恶痛绝，必须下大力气整治。</p>
-<p>此次专项整治要重点抓好三方面的工作：一是集中清理跟帖评论中违反“九不准”、触犯“七条底线”的违法违规有害信息，大力净化跟帖评论空间。二是加大执法监督管理力度，畅通网络举报受理渠道，推动形成对有害信息人人喊打、群防群治的良好机制。三是广泛开展网上宣传教育，持续开展“阳光跟帖”行动，积极培育积极健康、向上向善的网络文化，使文明评论、理性跟帖、善意回帖在网上蔚然成风。</p>
-<p>任贤良强调，跟帖评论生态治理关键在于落实网站主体责任。网络媒体不能一味追求点击率，要切实担负起应尽的社会责任，健全信息安全管理制度，加强跟帖评论自律管理，兑现对公众作出的庄严承诺，让互联网更好造福人民。</p>
-<p>环球网总经理许丹丹说，加强跟帖评论管理是全面推进网络空间法治化的重要举措。环球网今后将更加尽好责、把好关，努力建设良好的跟帖评论生态。</p>
-<p>腾讯副总编辑陈鹏说，腾讯将进一步完善跟帖评论管理机制，为网民提供高质量的跟帖评论平台。<br>
-网易副总编辑刘洋表示，网易将进一步强化网站主体责任，把净化网络空间、推动网站健康有序发展作为头等大事，加强自律、规范运营。</p>
-<p>北京市网信办副主任邢建毅表示，北京市网信办将认真开展跟帖评论专项整治，加强监督管理，充分调动网站的能动性，以自律促规范、以规范促发展，净化网络空间，改善网络舆论生态，汇聚网络正能量。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E5%9B%BD%E5%AE%B6%E7%BD%91%E4%BF%A1%E5%8A%9E%E9%83%A8%E7%BD%B2%E5%BC%80%E5%B1%95%E8%B7%9F%E5%B8%96%E8%AF%84%E8%AE%BA%E4%B8%93%E9%A1%B9%E6%95%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/?category=18271" rel="tag">信息安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%80%E5%8C%96%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">净化网络</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">执法监督</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99/?category=18271" rel="tag">新闻网站</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%AE%B3%E4%BF%A1%E6%81%AF/?category=18271" rel="tag">有害信息</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">舆论监督</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%9F%E5%B8%96%E8%AF%84%E8%AE%BA/?category=18271" rel="tag">跟帖评论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E6%B3%95/?category=18271" rel="tag">违法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84/?category=18271" rel="tag">违法违规</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -770,7 +854,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -780,5 +864,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

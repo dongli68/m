@@ -21,9 +21,119 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/533347/" target="cdt-mirror">思想潮｜裴宜理：崛起的中国面临之挑战</a>
+</h2>
+<p><fieldset><section><section><img src="http://mmbiz.qpic.cn/mmbiz/picPEhdQeTsAolibunoKEN8rOzibrKbwbOXtJ0oJocUtm34nibMvL6ZJEuJv1ySo7YMlOKdcfxTibRc18EeibzLsibAxA/640?wxfrom=5&wx_lazy=1" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/picPEhdQeTsAolibunoKEN8rOzibrKbwbOXtJ0oJocUtm34nibMvL6ZJEuJv1ySo7YMlOKdcfxTibRc18EeibzLsibAxA/0" data-ratio="0.691764705882353" data-w="425"></section><section>裴 宜理(Elizabeth J.Perry)，1948年出生于上海。1969年毕业于纽约威廉·史密斯学院，获政治学学士学位；1971年毕业于华盛顿大学，获政治学硕士学 位；1978年，毕业于密歇根大学，获政治学博士学位。1972年起先后执教于密歇根大学、阿里佐那大学、华盛顿大学、加里福尼亚大学、哈佛大学。曾任哈 佛大学费正清东亚研究中心主任，现任哈佛大学政府系教授，燕京学社社长。主要学术方向包括：中国近代以来的农民问题研究；中国工人运动研究；中国社会和政 治研究；美国的中国问题研究。主要著作有有《华北的暴动和革命，1845-1945》，《无产者的力量：“文革”中的上海》(合著)，专著《罢工中的上 海：中国劳动者的政治》。</section></section></fieldset><fieldset><section><section>思想潮</section><section>版权信息</section></section><section><section>本文摘自《国外理论动态》2014年第12期，思想潮受权发布。原载美刊《狄德勒斯》(Ddalus)2014年春季号。</section></section></fieldset><fieldset><section><section><section><strong>崛起的中国面临之挑战</strong></section></section><section><section>文| 裴宜理</section></section></section></fieldset><fieldset>一
+<p>中国当下正在进行的社会经济改革所取得的积累性成就，从最广泛的角度观之，实在是令人惊叹。中华人民共和国在1976年毛泽东逝世之时位列全球最穷困的国家之一，而经过30多年之后，却一跃成为全球飞速发展的经济体，位居世界第二。这一迅速崛起，不仅使得十多亿人口脱贫致富，而且确保政府拥有了令人艳羡的丰富资源以推动进一步发展。</p>
+<p>然而，尽管外人会对所谓“中国奇迹”的速度与成就叹为观止，但无论是中国人民还是中国领导者们却均对当前的形势感到忧心忡忡。就人民这一层面而言，大有扩散之势的基层社会抗争预示着群众对诸如强占土地、环境污染等问题饱含着强烈的愤慨之情；而在高层领导者这一层面，也在怒气冲冲地严斥由各级领导干部作风腐化和居民收入不平等所导致的腐蚀性效应。</p>
+<p>经历了35年改革的中国面临着诸多挑战，而我们要想对这些挑战作出评估亦绝非易事，这不仅仅是由于客观的成就与主观的抱怨之间明显地缺乏关联性。一方面，改革令人目眩的步伐导致任何系统的学理考察都很快会落后于时代；另一方面，毛泽东逝世之后中华人民共和国所取得的成就事实上在区域分布、社会阶层、政策类型等方面都表现得极为参差不齐。</p>
+<p>当现代化的大都市坐拥新设立的光彩夺目的基础建设与适宜城市生活的各类设施(这些设施与先进工业国家等量齐观，有些甚至比它们更好)时，大部分落后的农业地区仍然深陷贫困的煎熬。伴随改革而出现的城市中上阶层的财富，随着利润丰厚的房地产市场的发展而不断增长，但其对整个国家财富的贡献却被数以百万记的外来务工人员的贫困所抵消。</p>
+<p>上世纪90年代，尽管中国政府因其采取的一系列大胆的经济措施使得中央财政和广大人民群众的财富大幅增长而赢得了广泛赞誉，然而其在社会福利领域的成就却依然乏善可陈，更不必说法治与政治方面的改革举措。</p>
+<p>中国的“改革开放”事业肇始于1978年12月，由深具改革视野与思维的政治家邓小平发起并领导，而这距离毛泽东的逝世仅仅过去两年。改革既创造了前所未有的繁荣局面，也带来了前所未有的诸多问题。邓小平及以他为首的中共第二代领导集体所面临的首要问题，是在维持中国共产党的核心领导地位的同时，对以往共产主义体制特有的、却问题繁多的指令性计划经济及被严格束缚的社会秩序作出大刀阔斧的改革。而这一举措曾使得多数前共产党执政的国家纷纷陷入困境。邓小平随后将其改革策略及措施命名为“有中国特色的社会主义”，使得中国独特的发展道路开始备受关注。</p>
+<p>中国的崛起如此迅速，然而却并非一帆风顺、完美无瑕。日益开放的经济和社会与几乎没有改变的列宁主义政党—国家体制之间的内在矛盾在20世纪80年代末的政治风波中达到顶点，民众对通货膨胀和干部腐化提出尖锐批评，同时呼吁执政党推进政治改革。与此同时，东欧共产党执政的前社会主义国家普遍发生政治剧变，紧随其后，前苏联也遭遇了解体的悲惨结局。</p>
+<p>在中国，执政当局对政治风波进行了有效处置，其后在相当长的一段时期亦对“维稳”倾注了大量精力和资源，这都对大规模群体性抗争的出现与复燃起到了有效的遏止作用。尽管如此，在大多数中国普通群众和各级政府官员(更不用说西方的社会科学研究者)看来，蓬勃发展并逐渐完善的市场经济体制与传统政治体制之间能否长期和谐共存已成为值得思考的问题。</p>
+<p>二</p>
+<p>自改革伊始，中国政治经济体制的基本结构中所体现出来的明显的不协调性，使得外部观察家们一直以来都在预测中国将有可能发生重大的政治变动。然而，同样的不确定感却促使中国共产党自改革开放以来的历代领导集体得以进行创造性的政策实践，从而使剧烈的政治变革得以避免(或至少得以延缓)。由持续而高速增长的经济所带来的巨大成就感，使得中国领导人一度忽视了市场经济体制在建立和完善过程中出现的负面外部效应。</p>
+<p>然而，近些年来，一些变化正在悄然展开。中国领导人已经逐渐认识到，将共产党执政的合法性与长期性仅仅维系于经济发展是有危险的，因而他们有意识地放慢了对单纯经济增长的追逐。</p>
+<p>以胡锦涛和温家宝为代表的上一届领导集体在其执政的第二任期(2007—2012年)内出台了一系列政策并制定了相应的法律法规，目的在于纠正与缓和30年急速却不甚平等的增长所带来的社会问题及由此产生的不满情绪。新《劳动法》的颁布，医疗保险、养老金、扶贫开发等项目体系的建立，以及高等院校大幅扩招，这一系列具有改革魄力的举措使执政党赢得了社会的广泛支持并因此得以巩固其执政地位。</p>
+<p>以习近平和李克强为代表的新一届领导集体，在履新伊始亦展现出要将社会改革的各项措施全面深入推进的态度。本届领导集体公开承认经济指标令人担忧，并强调深化财政改革的必要性。不仅如此，出于对政治体制仍需稳定发展之考量，中国的党和国家领导人表示出了要不断推进改革与政策调整的紧迫性，而这些政策远远超出了保持和提高国民生产总值的增长速度这一范围。</p>
+<p>2013年6月，中国共产党开展了群众路线教育实践活动，意在使各级党员干部改掉铺张浪费、挥霍无度的作风和习惯，从而避免脱离群众。而中国领导人普遍相信，正是脱离群众这一恶习，加速了苏共的变质与苏联的解体。</p>
+<p>惠民的社会政策以及更为严格的党内纪律，伴随着深化经济体制改革而被提出，然而这并非中国共产党巩固自身执政地位的唯一手段。政府以委婉口吻提出的“社会管理”，或以刚性处置和柔性安抚相混合的手法，作为有效解决社会紧张态势的策略，仍然是社会管控的最重要手段。对媒体与互联网内容的审查同样是这一策略的重要组成部分。</p>
+<p>中国共产党之所以能具备化解政治挑战的能力的另一因素，是其领导人具备为实践所证明的“文化治理”之才能。具体而言，即通过创造及利用能使人产生共鸣的象征性资源来提升党的形象，并使人民群众乐于接受这种形象。例如，执政当局通常会以主动的姿态来建构其对具体事件的解释，从而达到“引导舆论”以符合党的宣传的效果，而非简单地对不受欢迎的媒体报道或网络博文进行压制处理。这些形式各异的技术手段在中国共产党作为革命党和执政党的历史进程中具有深厚渊源，但它们都普遍被修改或更新以适应当代的现实条件。</p>
+<p>鉴于前共产党执政的社会主义国家纷纷发生剧变，人们往往把中国共产党在当下的许多政策实践仅仅看作是一个即将出现重大危机的政权所采取的孤注一掷的策略。</p>
+<p>但是，自改革开放以来，中国政府不仅从各种困境中挺了过来，而且还以更为欣欣向荣的态势发展了30多年。因此，这一现象旋即吸引了比较政治和公共政策研究领域的广泛关注并对其进行了严肃的学理探究。不仅如此，中华人民共和国独特的历史渊源也表明，其未来势必会走出一条与前苏联和前东欧社会主义国家的命运截然不同的道路。</p>
+<p>与当今世界现存的由共产党执政的社会主义国家(即古巴、越南、老挝以及朝鲜)一样，中国共产党通过发动和领导影响深远的农民革命取得政权，这就使党及其领导的国家政权具有强烈的民族主义特征。而这与通过影响力相对狭小的城市暴动获取政权的前苏联共产党形成鲜明对比。中国与东欧社会主义国家相比，不同之处更多，主要是因为这些国家的政权基本上都是第二次世界大战后在苏联军事占领基础上建立的。</p>
+<p>与大多数前共产党执政的社会主义国家不同，中国共产党和在现存的社会主义国家中执政的共产党，是通过经年累月、贯穿始终地对广大农民进行动员而取得革命成功的。这一丰富的革命历史在社会组织与社会管控方面使党获得了丰富而珍贵的实践经验，同时也使得党获取了能经受住时间考验的重要政治优势。</p>
+<p>然而，这并非简单意味着此类政权将永远居于不败之地；而是说，无论中华人民共和国最终命运如何，面对其令人叹为观止的崛起过程和极富生命力的制度韧性，我们更应该将其当下所面临的挑战与困境视作一个政权在走向成熟进程中所不得不承受的增长的痛楚，而不是像恐龙在走向其命中注定的灭亡过程中的剧痛。</p>
+<p>因此，我们进行当代中国（暨中国共产党）研究的问题意识不应该局限在政权更迭的走向与前景上——不可否认，社会科学领域的不少中国研究成果有此类倾向。美国人文与科学学院院刊《狄德勒斯》杂志邀请一系列顶尖中国研究专家为其2014年春季刊所撰写的论文，就是以更加实际且宽广的视角来探究中国的党和政府在当下所进行的政策实践的路径与方式。</p>
+<p>这些政策的内容涵盖面甚广，从民众的基层抗争到公共医疗卫生体系的建立。尽管这些政策以及它们所面临的挑战或许在当下中国的语境下显得有些许特殊，但实际上，鉴于中国共产党所治理的这个国家规模巨大及其国民经济快速增长这一大背景，这些挑战也是世界上所有国家需要面对和解决的问题。学者们在比较研究的视野下，从不同角度评估中国党和政府的政策，同时也指出并充分考量了某些具体政策和措施在处理中国问题时的独特性。</p>
+<p>学者们的集体努力为读者描绘了一幅中国的国家与社会在处理一系列问题（并取得不同程度的成效）时的复杂画面，而事实上，不论发达国家还是其他发展中国家，都曾被这些问题深深困扰过。</p>
+<p>当今中国的党和政府所面临的某些最为棘手的挑战，其实是直接或间接地由改革初期的一些政策实践所导致的，包括当时施行的计划生育政策以及农村工业化的迅速发展。从人口结构的显著改变到生态环境的急剧恶化，接踵而至的问题经常面临难以处理的困境，同时其解决措施也无法完全地、轻易地发挥效用。然而，与其他国家相比，正是由于这些现象使中国的政府官员和普通老百姓愈发认识到问题的严重性，才使得其在中国的情境下更为值得关注。</p>
+<p>或许，颇为自相矛盾的是，中国政治体制与决策过程中的某些欠缺加重了上述政策挑战的紧迫性。例如，由医疗事故和纠纷以及生态环境破坏和污染引发的群体性抗争事件，被认为有可能波及整个体制；在此种情形下，不作为所带来的危险有可能被加剧，同时在处理上述问题时出现的政治上的成本亦有可能被放大。不难看出，基层民众在表达和解决其疾苦方面缺乏一定的民主因素。这一点使得一系列问题变得更加严重，然而，带给中国的党和政府领导人压力和动力以促使他们采取积极有效措施来处理问题的，恰恰正是这一点。</p>
+<p>毫无疑问，中国的党和政府在处理这些政策挑战时所运用的一些较为严厉的办法，在西方较为自由民主的政治体制内会显得既不可行也不适用。尽管如此，中国当下正努力解决的问题与挑战从范围和后果上看是全球化的问题，这一事实也使得中国党和政府的政策实践具有更加广泛和深远的意义和重要性。</p>
+<p>三</p>
+<p>中国的党和政府化解上述政策挑战的能力在很大程度上取决于其经济的持续快速增长，以便创造充足的就业机会以及供再分配和支持政府主导项目使用的大量财富。虽然改革初期那种一日千里的增速无法长期维持，但较为稳定的发展趋势对于中国政府实现其雄心勃勃的社会政策来说至关重要。</p>
+<p>正如经济学家巴里·诺顿(BarryNaughton)在其论文中指出的那样，在各经济大国中，中国因其罕见的高政府投入而已然居于特别地位。虽然此种过度投资(同时伴随脆弱的财政体系、债台高筑的地方政府、人口结构的改变以及其他一些体制上的缺陷)与不可避免的经济增长放缓之间存在很强的相关性，但在诺顿看来，“以市场为导向的、重大的经济改革仍会在不久的将来成为可能的举措”。只要中国的中央领导层能以提前预防的态势完善财政体系以削弱既得利益者的势力，中国经济将会在一个更富足、更繁荣的社会环境下进入一个增速低、却更为持久的发展阶段。诺顿在其文章中强调：“中国政府绝对有能力达成这一目标，但是需要政策制定者们具备坚定的意志和决心。”以胡锦涛和温家宝为代表的上一届领导集体在其任内解决了不少问题，然而暂时未能完成此项目标；以习近平和李克强为代表的新一届领导集体能否实现这个目标，我们将拭目以待。</p>
+<p>然而，即便是处于最为乐观的经济形势之下，中国的党和政府无疑仍需要努力克服一系列伤脑筋的社会问题。社会学家戴慧思(DeborahDavis)在其论文中指出，在众多社会问题中，最需严肃对待的是人口问题。伴随计划生育政策的实施所出现的持续几十年的低生育率，正在加剧中国日益严重的人口老龄化趋势。其负面的后果在农村地区表现得尤为显著，大批青壮年外出务工使得年长的村民陷入无人赡养之境地。尽管人口老龄化问题对多数发展中国家来说并非新问题，但戴慧思指出：“中国在其变富裕之前，将会先行衰老。”同时，财富分配不均这一事实亦将使这一两难困境变得更为严峻。</p>
+<p>社会学家怀墨庭(MartinWhyte)在其论文中指出：“自上世纪80年代以来，中国的收入不平等现象已经愈发严重，而且与其他国家相比，中国的贫富人群之间的收入差距居高不下。”通过具体研究，他认为，这一社会阶层的收入不平等与改革以前计划经济体制下的区域收入不平等线高度契合。因此，克服城乡之间严重的差距需要全面深化的改革举措。</p>
+<p>在众多迫在眉睫的、旨在改善农村地区贫困及艰难处境的改革中，医疗卫生条件的改善尤为引人注目。经济学家萧庆伦(William Hsiao)在其论文中强调指出，当代中国医疗卫生设施的质量与便利性同样存在着严重的区域不平等：“城乡地区之间在医疗卫生设施便利性方面存在的差异在本质上催生了一种双层体制。虽然上层的情形已与第一世界国家中的医疗卫生设施相差无几，但下层的设施条件更类似于那种在第三世界随处可见的情形。”</p>
+<p>萧庆伦认为，该问题绝非仅仅依靠大力加强政府投入就能得到解决。事实上，他告诫道：“在医疗卫生条件上的更多投入并不必然会带来健康的产出。”而在根本上扭转医疗伦理，同时配以公立医院管理体制的重大改革，才会使问题得以解决。尽管萧庆伦对困扰中国医疗卫生体制的一系列问题作出了较为尖锐的评价，但是通过与另一发展中大国印度的比较研究，他还是对中国医疗卫生事业所取得的成就赞赏有加。其研究揭示，自两国政府开始注意对农村地区的医疗卫生条件进行有意识的改善10年之后，中国的基本医疗保险覆盖率已超过全体公民的95%，而印度在这方面的数据仅仅只达到25%。</p>
+<p>正如马克·弗雷泽(MarkFrazier)在其论文中提醒我们的那样，要从跨国比较这一大背景出发来对中国的社会政策——除医疗保障体系外，还包括养老金的发放、学校教育体系的完善、经济适用房的兴建等——所取得的进步和成就进行评价。在学者们的研究中，最常用来和当代中国进行比较的是东亚的发展型国家，以及同样处于转型时期的前共产党执政的社会主义国家，但在弗雷泽看来，这样的比较未必是最合适的，或者说未必最能实现学者们的目的。他认为，更能揭示问题的是将中国与他所谓的“大型非均衡发展中国家”(如印度、巴西、南非等)进行比较，因为这些国家都存在严重的城乡发展不平等问题，同样也都经历过高速的经济增长。</p>
+<p>就上述比较研究框架视之，尽管中国党和政府这一“分类及分区域”政策路径的比较优势是否会克服城乡二元分化现实仍未可知(尤其是中国党和政府是否需要面对经济的陡然下滑亦是未知之数)，但这一政策实践的确体现出了相当的独特性。</p>
+<p>中国政府雄心勃勃的扶贫开发工作所面临的另一特殊挑战，则是数以亿计的进城务工人员的惨淡处境。尽管运行至今的“户口制度”固化了城乡之间持续已久的结构性分隔，但那种实际居住地(城市)与其社会地位(农民)极不相符的“流动人口”早已大量涌现，这不能不说是中国政府亟待处理的棘手问题。政治学家高敏(Mary Gallagher)在其论文中指出，使这一问题变得更为严重的是，年轻一代进城务工者由于变得更易动员且自身更具法律维权意识而表现出逐渐高涨的激进主义，“这一现象与其他转型中的发展中国家的劳工问题形成鲜明对比”。</p>
+<p>高敏的结论与法学家李本(Benjamin Liebman)不谋而合，后者在其论文中进一步指出，中国的政党—国家体制拥有一种对冲突进行迅速处理的偏好，这一特征则有可能会在将来引发更大的社会不稳定。在过去的10年里，中国的群体性事件开始频繁发生，而与此同时，司法体制改革方面却显现出倒退迹象，出现了李本所谓的“回归民粹主义合法性”之倾向或依赖地方党政官员对冲突进行调停之现象。具有讽刺意味的是，党政官员出面调停本希望能够使频繁发生的群体性事件得到有效抑制，但这一举措在现实中似乎恰恰带来了相反的效应，从某种程度上鼓励了抗议者“在司法体制之外寻求对其冤屈和不满的表达”，从而又激起了更多不稳定因素。</p>
+<p>处理频发的社会抗争事件对中国政治体制来说并非新的挑战。大规模群体性抗争是几个世纪以来中国的国家—社会关系中的一个重要特征。帝制时代、民国时期以及新中国成立后至改革以前的时期，都充斥着大量源于社会的抗争运动，而这些运动也考验着上述不同时期的中国政府的管控能力。尽管社会抗争运动作为现象，其本身有着一定的延续性，但是其具体的模式和意义，以及不同时期政府的回应和处理策略，都具有明显的差异，而这又反映了关注点与能力的变迁趋势。</p>
+<p>近年来，最明显的变化和发展就是，人民群众当中一些愤愤不平的活跃分子开始更多利用互联网及其他新兴媒体来表达不满，而一些细心的政府官员也开始利用相同的手段来了解并处理相关问题。</p>
+<p>政治学家杨国斌在其论文中指出，政府的规章制度和管控措施在范围和场域方面的变迁，与人民群众中活跃分子在活动领域方面的变化有着相同的趋势，现如今，针对内容和服务形式的管控措施几乎覆盖方方面面，包括网吧、网络论坛、手机短信、网络新闻、视频音频分享网站、网络游戏以及博客和微博。管理与疏导网络世界的抗争现象，只不过是中国政府在处理新型社会抗争事件时采取的适应性技术之一。</p>
+<p>社会学家李静君(Ching Kwan Lee)在其论文中指出，自2008年北京奥运会筹备阶段起，中国的党和政府便逐渐开始采取一种所谓“以经济换稳定”的方式——即以提供一定经济补偿的形式与抗争者讨价还价——来处置或化解街头示威及其他一些颇具破坏性的运动。尽管这一手段在缓解国家—社会之间的紧张态势方面发挥了一定的效用，但是，李静君认为，“这一以市场为导向的治理机制转型”有可能会带来一系列的负面影响，而其中最为严重的负面影响则可能是政府权威的下降。</p>
+<p>四</p>
+<p>纵观中国历史进程，“非正统的宗教”往往容易激起反抗国家和政府的抗议。因此，近些年发生的一些涉及宗教问题的抗争活动，使当局在政治上尤为关注。但并未让人感到奇怪的是，中国官方在正式承认新出现的宗教团体和组织的地位等方面显得颇为迟缓。正如宗教问题专家魏乐博(RobertWeller)所指出的那样，中国党政官员对该问题的管理是“睁一只眼，闭一只眼”，或者“只要宗教问题没有踩线，就尽量少去触碰”，而不是去改革官方的管理体系以适应新的发展现实。这种观点和策略能让党和政府在不改变基本的法团主义治理模式的前提下有效处理当前形势。</p>
+<p>虽然执政当局并不情愿放弃或从根本上改变其社会管控体系，但他们也不会羞于对一系列重要的政策领域进行实验性的改良。历史学家柯伟林(William Kirby)在其有关中国高等教育的论文中对当代中国这一最具变动性的政策领域进行了深入探究。中国的大学在招生人数、校园规模以及硬件设施等方面的急剧扩充，反映了国家在高等教育事业发展上的巨额投入。</p>
+<p>正如柯伟林所指出的那样：“这一国家战略既具有精英性，也具有大众性。”实施这一战略的目的在于打造一批“世界级水准”的高校，使之能与全球其他顶尖高校并驾齐驱。中国政府为了实现这个目标，已经对若干居于领头羊位置的高校投入了大量财力物力，但是该策略本身也拉大了所谓著名院校师生与非著名院校师生之间已然存在的差距。</p>
+<p>中国的党和政府在高等教育领域的政策实践很明显受到对“全球排名”的期待与压力的影响，这种排名提高了人们的期望值，认为根据某些客观的和普遍接受的基准，中国的大学能够攀升至最好的行列。然而，历史学家华志健(Jeffrey Wasserstrom)在参考了英国历史学家贝利(C.A.Bayly)有关全球化早期阶段的著名观点后指出，以国际一体化为导向的持续不断的演进，并不必然意味着同质性，他认为：“现如今，我们更应该将全球化视作存异前提之下的标准化求同。”在对世界博览会与世界宗教等案例进行深入分析后，华志健展示了中国是如何采纳普遍的、通用的跨民族文化形式并填入自身独特的民族性内容的。</p>
+<p>本期《狄德勒斯》最后两篇结论性文章指出了中国若想实现其全球的及国内的政策目标，其治理体系中依然存在需要解决的重要问题。傅士卓(Joseph Fewsmith)与高翔在其合著的论文中强调了“中国地方治理的危机”。这一危机既使基层官员逃脱了问责，又使中央政府建立服务型政府的努力收效甚微。随着中央领导集体将其关注点从单纯的经济增长扩展到包括反腐、维稳、社会保障、环境保护等在内的更宽广的领域，中央与地方政府的利益与动机亦不再像以前那样密切相联。</p>
+<p>权力下放式的治理体系同样给环境保护工作带来不少问题。环境问题不仅得到了中国普通群众的日益广泛关注，更是一个全球范围的问题。中国问题专家易明(Elizabeth Economy)在研究中发现，以任何比较测量标准来衡量，中国的环保记录均不尽如人意，她将此直接归咎于当前中国的治理体系。尽管中国独特的治理格局在改革以来数十年的经济飞速增长时期十分行之有效，但这一格局似乎并未能适应中央层面日益渴望解决的、更加多元化的政策议题。与其他论文的结论相似，易明亦认为：“中央层面的政策制定和地方层面的危机管理均表现出了对传统的低效模式的固守，而这恰恰是一种令人担忧的不稳定状态。”</p>
+<p>五</p>
+<p>一言以蔽之，中国当下正在进行的“改革开放事业”仍然处于不稳定状态，同时亦具有高度的不可预测性。尽管极少有人会否认过去30多年中国所取得的举世瞩目的成就，但改革初期所推行的政策实践却已然催生了一些新的难题，而要处理这些相应的难题，则可能需要对相关体制以及决策过程进行更为全面深化的改革(或许超出了领导人愿意推行的改革范围)。</p>
+<p>然而，这并非意味着政治上必须推行西方式的民主化；同时，这也预示着我们仍然需要以严肃客观的态度来研究中国的党和政府处理其自身困境的方式方法。不管中国当下实行的政治经济制度的生命力如何，实现与平衡包括经济发展、官员问责、环境保护、扶贫开发以及保持社会公平在内的众多目标这一复杂挑战，仍将毫无疑问地居于中国与全球议题的核心地位。</p>
+<p>从整体上看，中国应对上述政策挑战的方式在许多方面都是独一无二的，这既得益于其广阔的国土面积与丰富的地区多样性，也得益于其历史上独特的革命道路与当下的政治经济格局。然而，正如上述各篇论文所揭示的那样，将独特的政策路径置于比较研究的视野下颇具启发意义，这并非仅仅因为不同的政策领域可以产生不同的类比。</p>
+<p>中国高速的经济增长使得我们有必要将其与东亚地区其他发展型国家相比较，但是，如果我们把中国与其他一些大型非均衡发展中国家(如印度、巴西)相比，或许能更好地帮助我们理解其在社会福利方面的政策困境。中国的党和政府对互联网上的活跃分子与社会抗争的反应与其他威权国家相比或许有些许不足，但也有几篇文章在中美之间所作的比较(与对比)很能说明问题。</p>
+<p>以比较研究的视野思考全球性的困境已然超出了纯粹学术研究的兴趣范围。如今，我们生活在一个脆弱却相互依赖的后冷战世界，许多重要的跨国问题都困扰着这个世界，而这些问题从流行性传染病、气候变化到金融危机、恐怖主义，不一而足。中共中央政治局和美国国会这两种截然不同的治理机构实际上需要面对同样的问题，同时也都需要面对来自意识形态和实际操作两方面的重大考验。仅仅从理论层面预测其政治制度将在未来某时刻发生重大变革，从而忽略或漠视中国为解决全球性问题所贡献的努力，将是极为不明智的。</p></fieldset><fieldset><section><section></section></section><section><section>思想潮</section></section><section><section>投稿或合作：1686528962@qq.com</section><section>搜索“思想潮”或“sixiangchao”</section><section>或</section><section>长按下面二维码，点“识别二维码”</section><section>即可关注本号。</section></section><section></section><section><section>微信号：sixiangchao</section></section></fieldset><hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/533347/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">中国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6/?category=18271" rel="tag">中国研究</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A3%B4%E5%AE%9C%E7%90%86/?category=18271" rel="tag">裴宜理</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF-%E6%96%87%E9%9D%A9%E4%B8%AD%E7%9A%84%E5%91%A8%E6%81%A9%E6%9D%A5/" target="cdt-mirror">法广 | 文革中的周恩来</a>
+</h2>
+<p><p>作者：特约专栏作者:赵越胜</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-25-at-%E4%B8%8B%E5%8D%888.37.49.png?resize=553%2C312" alt="1975年1月，时任中国总理的周恩来在四届人大上作政府工作报告。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-25-at-下午8.37.49.png?w=553 553w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-25-at-下午8.37.49.png?resize=300%2C169 300w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><p>1975年1月，时任中国总理的周恩来在四届人大上作政府工作报告。</p></div>
+<p>问：对周恩来本人在文革中的地位和作用，在文革研究界有很大争论，今天想听听你的看法。</p>
+<p>答：这确实是个引发很多争论的问题。我想最主要的两派观点可以从邓小平的一句话引出，大意是说，如果没有周总理，文革还不知要搞成什么样子，同时如果没有周总理，文革也不会搞这么久。我想邓的这话是在说，文革中，由于周的努力，减少了一些损失，但同样由于周的某些行为助长了毛的任意妄为，让文革更加恶质化。对周在文革中的地位和作用，有一派认为，周是力挽狂澜，阻止车掉下山崖，另一派认为，周在文革中为了保全自己而助纣为虐。其实从历史事实来看，这两派都有评判的证据，关键是看具体事例。评价一个历史人物，最好是有详细的档案材料，本人的真实记录，如日记、工作笔记、著作等。但周在中共那个绞肉机中，他是绝不会坦白道出他心中到底怎么想的。共产体制就有这个本事，让昨天发生的事，今天就成了谜。</p>
+<p>问：但近几年，毕竟流出一些材料，更有大量当事人谈出很多亲身经历，那还是有可能作一些判断吧？</p>
+<p>答：当然，关于周本人的文革历程，海外已有相当有份量的著作，比如高文谦的《晚年周恩来》就是一部质量很高的著作，材料扎实、立论平实、分析入理。我稍觉遗憾的是，高先生是厚道人，下笔相当敦厚，对周笔下留情，没有更犀利痛快地剖析周助纣为虐的阴暗心理。我以为在打倒刘少奇的问题上，周用他超常的处理事务能力，帮助毛干成了他想干而干不成的事。我们都知道，毛是在66年8月5日写了《炮打司令部——我的一张大字报》，而就在前一天，8月4日，毛紧急召开了政治局常委会，就在这个会上，毛大骂“牛鬼蛇神，在座就有”，并当面羞辱刘少奇，以致刘少奇控制不住情绪与毛当场顶撞，号称五不怕，不怕撤职、不怕降级、不怕开除党籍、不怕离婚、不怕坐牢杀头。而毛之所以当面向刘发难，就因为7月31日，周恩来与蒯大富两次见面，详谈达六小时之久，让蒯把刘少奇、王光美派工作组入清华，压制造反学生的事儿原原本本讲了个透。周详细做了记录，并且向毛做了汇报，给毛提供了打倒刘少奇的口实。胡鹏池先生分析周在这个关节点上的作用是，1）他细致、周密的工作作风，使得蒯大富这个典型能够站得住。2）周恩来的人望使他的调查结果更有说服力。而且只有周恩来最合适，他的调查结论没人能怀疑，不仅压得住群众，压得住老帅元老们，也压得住刘少奇与邓小平。</p>
+<p>问：周后来又任刘少奇专案组组长，给调查报告签了字。</p>
+<p>答：是啊，所以严格说，他是刘少奇这个假案的亲手制造者。最可怕的是他完全知道这是个冤案。从周的行为，我们可以深刻地认知到列宁式政党在道德上的彻底堕落。在这个组织系统内，不存在真理和个人内心道德冲突，只有盲从、残忍、谎言。周这个人给人的外表形象可谓完美、儒雅，但在需要下狠手的时候，他也不怕手上沾血。这并不是说周本人是个天生恶棍，而是因为他献身于一种信仰，而这个信仰本身就是反人性的。高文谦先生总说周“相忍为党”，这话没错，但更要指出这个“党”其实就是独裁者本人，周不过是为丧失良心找到借口，以党性为一切凶残行为辩护。我们上一次曾经分析过这个问题，周的作为是一个很好的例子。如果要概括一下周对文革的态度，可以说是被动地发动，主动地投入。我们只要读读周在文革中的大量讲话，就可以看出，他基本上是跟毛走。只要毛想干的事，无论多么伤天害理，周都能找出办法来让它圆满实现。就连贺龙、陈毅这些和他关系密切的人，只要毛想下手整治，他总是立即跟上。他最爱说的话就是“保持晚节”。仔细分析起来，这是极其自私的追求，置天下苍生于不顾。同彭德怀所讲“我为人民鼓与呼”相比，要自私、势利得多。所以在庐山会议上，彭曾当面说周“老奸巨猾”。</p>
+<p>问：但文革中周仍然救助过一些人，文革结束后有人写文章赞颂周是“大树参天护英华”。</p>
+<p>答：是有这样一种说法。但千万不能忘了，周要解救谁，放弃谁全看毛的眼色行事。比如章士钊，他对毛有恩，所以他受冲击，写信给毛求救，毛批示“送总理斟处，应当予以保护”，这周才施援手。周心中很可能想救护更多的人，但伸手还是不伸手，周完全是揣摩毛的心思。对毛下决心严办的那些人，他是不假颜色的。高文谦先生曾接触过周亲自经办的一些专案材料，他说“上面都有周的签名或批示，有的还作过多次批示，写了大段的批语，口气是很严厉的，笔下颇有绍兴师爷的遗风”。其实我们不必幻想在列宁式政党内会有正常的天理良心，是非曲直这类东西。我们知道，周对毛是怕得要死的，一辈子总在检讨。对毛的任何一点暗示都诚惶诚恐。对毛小心翼翼，唯恐伺候不周，竟然能够跪在地上给毛讲解接见红卫兵的行车路线。堂堂一国总理，给毛写信，还要请毛身边的女人张玉凤在毛精神好时念给毛听，口气之卑微几近下贱，让人不忍卒读。中共内部上下级的关系不如皇上与朝臣的关系。中国历史上的名臣没有人不敢犯颜直谏的。以周的禀赋，若在古代，也可能是个欧阳修、范仲淹式的人物，但在共产党体制内，竟连个奴才都不如。</p>
+<p>问：但尽管周对毛处处小心，事事服从，但毛仍然放不过他。</p>
+<p>答：确实如此。文革中周是紧跟毛的，但毛从没有真正信任过他。当然，毛是个偏执妄想狂人格，他一辈子恐怕没有信任过任何人。从心理学角度看文革，这场浩劫就是一个拥有无限权力的偏执妄想狂患者发病。在心理学上，偏执妄想狂的主要症候是永远怀疑，极端自私，残忍而且狡诈，而且会从设计残忍行为的过程中得到乐趣。他会经常臆想受到别人的伤害而伺机报复。在权力场中的偏执妄想狂会极端热衷于权力博弈，在这个过程中他才有安全感。古罗马皇帝卡里古拉、尼禄，当代的希特勒、斯大林、毛泽东都是典型的偏执妄想狂人格。从毛对周的迫害、折磨中可以看出毛的冷酷。他时不时要拿出三十年代周曾反对过他这件事来恫嚇，让周不停检讨，又把所谓“伍豪事件”吊在那儿，引而不发，让周头上时刻悬一把德摩克利斯之剑。更歹毒的是在周查出早期膀胱癌之后，竟然以四不准来禁止周治疗。在周病情恶化时，以评法批儒，评水浒来给周施加他无法承受的政治压力。目的只有一个，让周死在他前头，以免周秋后算账。尽管周检讨了一辈子，在文革中又帮了毛大忙，甚至助纣为虐，但毛最终仍没有放过他。周年轻时也是个雄心勃勃的热血男儿，我还记得他的诗句：“面壁十年图破壁，难酬蹈海亦英雄”，可一旦上了共产党的贼船，便“反误了卿卿性命”。我想他若是当年以黄埔军校政治部主任的身份跟着蒋校长，断不至于活得如此难过。</p>
+<p>问：不过，文革的失败，反抗“四人帮”的开始又和周有关。</p>
+<p>答：对，这才真是黑格尔所说的“历史的狡黠”。民心有种“自然的正义”。我还记得周去世时，我们一群朋友狂饮恸哭的情景，更忘不了四五天安门广场人潮如海，花圈如山的情景。老百姓并不知道周毛关系究竟如何，竟然能够感觉到毛欺负周，而周受了委屈。天安门广场上那些直指毛是秦始皇，为周鸣冤的纸条虽然并没有反映周在文革中的真实地位，却借周的形象传达出人民对毛和文革的愤怒。这也算是周的成功吧。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF-%E6%96%87%E9%9D%A9%E4%B8%AD%E7%9A%84%E5%91%A8%E6%81%A9%E6%9D%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">中共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%80%9D%E6%96%87%E9%9D%A9/?category=18271" rel="tag">反思文革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%81%A9%E6%9D%A5/?category=18271" rel="tag">周恩来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E9%9D%A9/?category=18271" rel="tag">文革</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91bbc%EF%BC%9A%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B9%8C%E5%9D%8E%E6%9D%91%E7%A4%BA%E5%A8%81%E6%9D%A5%E9%BE%99%E5%8E%BB%E8%84%89/" target="cdt-mirror">【CDTV】BBC：广东省乌坎村示威来龙去脉</a>
+</h2>
+<p><p>事件背景：</p>
+<p>乌坎村事件是2011年发生在中华人民共和国广东省汕尾市所属陆丰市的一宗群体事件，被视为是中国大陆群体事件的标志性里程碑之一。</p>
+<p>由于土地被村委会成员私下变卖问题，村民代表过去两年十数次之上访仍丝毫没有解决之下，村民与地方（汕尾市与其下之陆丰市）政府发生矛盾。村民薛锦波等五人被刑事拘留，其中薛锦波在被关押了三天后死亡。官方验尸结果与薛之家人探视后认定的情况大相径庭，这两件事情激起村民情绪而把事件激化，亦因此乌坎事件得到国际媒体的注意。</p>
+<p>12月20日，政府官员先派代表进村内与村民代表临时理事会谈判，成为事件和平发展的转机，同时由中共广东省委副书记朱明国牵头成立工作组处理，承认民选之“乌坎代表临时理事会”地位，对村民过激行为不追究，并称释放被拘留村民与尽快再对薛锦波进行验尸确定死因，翌日晚上双方撤除路障，结束每天举行之集会，其后两天村民欢迎朱明国进村，并把被捕之其中三人释放，双方对峙局面结束。</p>
+<p>翌年2月1日，乌坎村举行村民选举委员会推选大会，由村民一人一票推选11人组成的村民选举委员会；2月11日通过村民不记名投票的方式推选村民代表，并选举村内7个村民小组组长共109人，3月3─4日以同样方式选出村委会成员与村民小组代表各7人，被政府点名视为闹事分子的或示威组织者全部当选为村委会成员，林祖恋（原名林祖銮）被选为村支书。</p>
+<p>[…] 2016年6月17日，村民委员会主任林祖恋（原名林祖銮）被警方带走。6月18日清晨，广东省陆丰市公安局发布消息称，乌坎村党总支书记兼村民委员会主任林祖恋因涉嫌利用职权受贿，已于本周五（6月17日）被陆丰市人民检察院立案侦查并采取强制措施。（来源：<a href="https://zh.wikipedia.org/zh-cn/%E7%83%8F%E5%9D%8E%E4%BA%8B%E4%BB%B6">维基百科</a>）</p>
+<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/">2016乌坎再示威</a></p></blockquote>
+<p>訂閲BBC中文YouTube：http://bit.ly/1wkHh5T BBC中文網（繁體）Facebook – https://www.facebook.com/bbctrad BBC中文網 Twitter – https://twitter.com/bbcchinese</p>
+<p><a href="https://www.youtube.com/v/Zm5jueHtQGw?version=3">https://www.youtube.com/v/Zm5jueHtQGw?version=3</a></p>
+<p><a title="廣東省烏坎村示威來龍去脈" href="http://www.youtube.com/watch?v=Zm5jueHtQGw" target="_blank">廣東省烏坎村示威來龍去脈</a></p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-news&sz=99E7&t=2&s=MOLBBGCJYDC2NJFWJ7XRZTLBAEQJGOAMGKKWZWEATSQBNKCKDIOQ&i=CU5GQRLGHV22I6XJ2PCEDR2HDUH5ZWEUC&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91bbc%EF%BC%9A%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B9%8C%E5%9D%8E%E6%9D%91%E7%A4%BA%E5%A8%81%E6%9D%A5%E9%BE%99%E5%8E%BB%E8%84%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">乌坎事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%A7%E5%AE%B6-%E5%8A%AA%E5%8A%9B%E5%8D%8A%E8%BE%88%E5%AD%90%EF%BC%8C%E8%BF%BD%E4%B8%8D%E4%B8%8A%E4%BA%94%E4%B8%87%E4%B8%80%E5%B9%B3%E7%B1%B3%E7%9A%84%E5%8C%97%E4%BA%AC%E6%88%BF%E4%BB%B7/" target="cdt-mirror">大家 | 努力半辈子，追不上五万一平米的北京房价</a>
 </h2>
 <p><p><strong>文 | </strong><strong>老猫  腾讯·大家专栏作者，著名作家、媒体人。</strong></p>
@@ -761,82 +871,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%90%B4%E5%BF%97%E6%A3%AE%EF%BC%9A%E4%B8%8D%E8%AF%B4%E7%9C%9F%E8%AF%9D%E5%8F%AF%E5%85%8D%E4%BA%8E%E6%81%90%E6%83%A7%EF%BC%9F/" target="cdt-mirror">苹果日报｜吴志森：不说真话可免于恐惧？</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xiangqiangquan.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xiangqiangquan.jpg?resize=575%2C323" alt="xiangqiangquan" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xiangqiangquan.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/xiangqiangquan.jpg?resize=300%2C168 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p><em>作者: 吴志森</em></p>
-<p>林荣基开记者会大爆“被消失的真相”，轰动全城。对林荣基的抹黑和诋毁，陆续有来，而肩负人格谋杀任务的，并非传统左报，而是貌似中立的非左派媒体，效果会否好些？一点都没有。这个媒体扮演姓党的角色，早已不是第一次，有相当日子，但手法越来越低庄，公信力越做越插水。</p>
-<p>铜锣湾书店事件爆发，这份建制媒体飞身扑上，做李波专访有之，发相发稿发亲笔信有之。林荣基记者会后，这张报纸与大陆公安密切配合，转发林荣基的亲笔认罪书，以及要求在大陆定居工作的亲笔申请书，指因与妻儿家人不和，在香港居住有困难，请求公安帮助寻找临时居所和工作。报道还访问宁波公安，以权威口吻谈论案情，但因为剧本太烂，搞笑指数甚高，效果只能用滑稽来形容。</p>
-<p>为抵销林荣基记者会的影响，这份建制媒体，其后又以极高速的效率，访问了铜锣湾书店的另外两名成员吕波、张志平，借他们的口来否定林荣基的说法。戏肉来到林荣基在大陆的女友，向建制媒体哭诉感情受骗，受林荣基指使在大陆邮寄禁书。在编定的剧本层面，这个次序，也顺理成章，毫不意外。</p>
-<p>建制媒体拿到的不是独家新闻，而是官方“喂料”。当年资深传媒人程翔被指泄密遭到拘禁，同一媒体集团已独家披露程翔在大陆包二奶，以此抹黑程翔。今次只是故技重施而已。</p>
-<p>林荣基的记者会是公开的，现场有几十位本地和外国记者，开场白之后无限制地公开任问个多小时。另一边厢的所谓“访问”，都是闭门进行，问和答都看得出按照剧本进行的痕迹。李波声称已在香港得到自由，请不要以脸书、亲笔信反驳，也不要边走边回应记者的提问。不如效法林荣基，在建制政党协助下，也在立法会召开中外记者会，看看效果如何？</p>
-<p>访问的形式固然重要，访问的地点更关键。无论是吕波、张志平，还是那位姓胡的女士，访问的地点都在大陆而不是香港，不是公开透明。前后左右有没有导演在监视？有没有编剧“飞纸仔”？谁的描述更接近真实？谁的说法更可信？一目了然。</p>
-<p>林荣基道出了李波的苦衷：李波在大陆仍有亲人，仍有顾忌。另一位铜锣湾书店的前职员曾叫李波公开披露事情真相，但李波拒绝，多次回应：“我妻子怎么办？儿子怎么办？”并有人对李波说：“如果反抗，将一世活在恐怖中。”但可怜的是，李波选择不反抗、不说真话了，难道他真的可免于恐惧，做一个真正的自由人吗？</p>
-<p>林荣基说：“我失去咗自由，将来都会发生喺各位身上，如果我作为五个人里面负担最少嘅都唔出声，香港就冇得救……”请记住林荣基这话：“我希望香港人向强权说不！”</p>
-<p><small>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</small></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%90%B4%E5%BF%97%E6%A3%AE%EF%BC%9A%E4%B8%8D%E8%AF%B4%E7%9C%9F%E8%AF%9D%E5%8F%AF%E5%85%8D%E4%BA%8E%E6%81%90%E6%83%A7%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%BA%E5%88%B6%E6%B4%BE/?category=18271" rel="tag">建制派</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B0%86%E4%B8%8E%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E4%BC%9A%E9%9D%A2-lady-gaga%E4%B8%AD%E5%9B%BD%E6%AD%8C%E8%BF%B7%E6%80%92%E6%88%98%E6%8E%A8%E7%89%B9/" target="cdt-mirror">将与达赖喇嘛会面 Lady Gaga中国歌迷怒战推特</a>
-</h2>
-<p><p>2016年6月22日，流行巨星Lady Gaga在推特表示，很荣幸能在周日的一场活动中与达赖喇嘛面对面：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?resize=500%2C296" alt="ladygaga" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?w=1536 1536w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?resize=300%2C177 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?resize=768%2C454 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?resize=1024%2C605 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga.png?resize=80%2C48 80w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>许多中国歌迷对此反应激烈。<strong>大量“爱国青年”在推特用支离破碎的英语劝诫Lady Gaga不要与达赖会面。其中不少人认为，一旦会面成功，Lady Gaga会被禁止在中国演出。</strong>必须指出的是，<strong>与何韵诗等香港艺人的遭遇比起来，高调谈论达赖喇嘛的Lady Gaga的待遇似乎要好得多。</strong>目前，中国歌迷的评论以批判达赖、希望Lady Gaga不要与达赖同框出现的内容为主，尚无出现大面积要求“封杀”的言论。<strong><br></strong></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E6%8A%B5%E5%88%B6%E4%B8%8B%E4%B8%80%E7%AB%99%EF%BC%9A%E6%9D%8E%E5%98%89%E8%AF%9A/">【立此存照】“爱国”抵制下一站：李嘉诚</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%A6%99%E6%B8%AF%E5%95%86%E4%B8%9A%E4%BB%A3%E8%A8%80%E4%B9%9F%E5%BD%92%E4%BD%A0%E5%A4%A7%E9%99%86%E7%88%B8%E7%88%B8%E7%AE%A1/">【立此存照】香港商业代言也归你大陆爸爸管</a></li>
-<li><a title="【立此存照】帝吧出征维珍航空 认错公司无辜躺枪" href="https://chinadigitaltimes.net/chinese/2016/03/432213/">【立此存照】帝吧出征维珍航空 认错公司无辜躺枪</a></li>
-</ul></blockquote>
-<p><strong>部分评论翻译：</strong></p>
-<blockquote><p>虽然他获得过诺贝尔和平奖，也经常谈论世界和平，但他是个背叛和企图摧毁国家的人。</p>
-<p>请别这么做，你会完全被中国封杀的，不能开演唱会，请不要这样对待你的中国粉丝。</p>
-<p>达赖喇嘛很邪恶！请远离他！</p>
-<p>达赖是个坏人，他想要分裂国家！</p>
-<p>我以为你真的能看清事实，真的热爱和平。他只是个骗子。</p>
-<p>我们这里数百万个中国的粉丝真诚地建议你停止与达赖喇嘛交流！</p>
-<p>我喜欢你8年了！你为什么不相信我？不要会见达赖喇嘛！</p>
-<p>作为你的中国粉丝，我要告诉你真相，他是一个分裂国家者！</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png?resize=525%2C829" alt="ladygaga6" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png?w=1537 1537w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png?resize=190%2C300 190w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png?resize=768%2C1213 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga6.png?resize=648%2C1024 648w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png?resize=525%2C371" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png?w=1530 1530w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png?resize=300%2C212 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png?resize=768%2C543 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga1-e1466662126242.png?resize=1024%2C723 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png?resize=525%2C603" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png?w=1535 1535w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png?resize=261%2C300 261w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png?resize=768%2C882 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga2-e1466662187399.png?resize=892%2C1024 892w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png?resize=525%2C90" alt="ladygaga3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png?w=1537 1537w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png?resize=300%2C51 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png?resize=768%2C131 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga3.png?resize=1024%2C175 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>同时还有<strong>“爱国青年”用生硬的英语承担起了为西方青年传授“真理”的使命：</strong></p>
-<blockquote><p>他在西藏干了很坏的事。他利用手中的权力去伤害无辜的人民。他企图分裂中国。</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png?resize=500%2C543" alt="ladygaga5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png?w=1536 1536w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png?resize=276%2C300 276w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png?resize=768%2C834 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ladygaga5.png?resize=943%2C1024 943w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%B0%86%E4%B8%8E%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E4%BC%9A%E9%9D%A2-lady-gaga%E4%B8%AD%E5%9B%BD%E6%AD%8C%E8%BF%B7%E6%80%92%E6%88%98%E6%8E%A8%E7%89%B9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97%E9%81%AD%E6%8A%B5%E5%88%B6/?category=18271" rel="tag">何韵诗遭抵制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%BD%E6%88%88-%E5%88%B6%E9%80%A0%E9%BB%84%E8%89%BA%E5%8D%9A/" target="cdt-mirror">羽戈 | 制造黄艺博</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/05/%E4%BA%94%E9%81%93%E6%9D%A0%E9%BB%84%E8%89%BA%E5%8D%9A4.jpg?resize=440%2C282" alt="五道杠黄艺博4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/05/五道杠黄艺博4.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/05/五道杠黄艺博4.jpg?resize=300%2C192 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>2011年，黄艺博头顶“五道杠少年”的光芒，闪耀中国，名动华夏，时年13岁。这正应了张爱玲那句话：出名要趁早。不过我对此言，一向有些保留，首先出名未必越早越好，其次，哪怕出名要趁早，那也得看出名的方式和内容：怎么出名，什么名声。假如这两点都站不住脚，那么少年成名，只怕得不偿失。不幸的是，这两点，恰恰构成了黄艺博的困境。就其名声而论，称他为争议人物，都不合适，争议大抵指毁誉参半，黄艺博则是毁多誉少，有些人（包括我）为他辩护，不是基于肯定，而是基于同情。至于他成名的方式，则有一定作伪成分，作伪的结果，导致黄艺博这个人，从里到外，从头到脚，给观者的感觉，正是一个大写的“伪”字。</p>
-<p>黄艺博之成名，推手有二，一是他的父母，二是现行体制。尽管其父事后声明，称自己的言论遭到了媒体夸大其词、断章取义：“标题说我儿子是天才，两三岁开始看《新闻联播》，七岁开始坚持每天读《人民日报》、《参考消息》，这还是个正常的小孩吗？”然而参照双方叙述，足以确认一些最起码的事实：黄艺博自幼爱看《新闻联播》，源于其父熏染，父亲有此习惯，儿子极具孝心，常陪父亲一起看，同时，他也喜欢看动画片；黄艺博读《人民日报》，源于其父有时把办公室的《人民日报》带回家，充当儿子“看报识字”的工具，“黄艺博的阅读范围非常广，《人民日报》只是阅读刊物之一”……</p>
-<p>这些辩解，并未减轻黄艺博父母的罪责。譬如拿《人民日报》教儿子识字，这不仅反映了父母的懒惰，甚至是一种愚蠢的表现。现在不比六十年前，彼时无书可读，只能拿《人民日报》之流充饥，如今早教读物那么多，令人目不暇给，随便挑一本识字卡、识字书，都远胜《人民日报》。而且，《人民日报》除了标题，正文字体并不大，让孩子辨认，有损视力；若读词语与句子，则涉及语感问题，毋庸置疑，《人民日报》所代表的文体之语感，如果不是汉语之最差，那也是最差之一。要言之，就冲把办公室的《人民日报》带回家充当黄艺博“看报识字”的工具这一点，这样的父母，绝非合格的父母。</p>
-<p>无可辩驳的是黄艺博那些照片，那一脸十足的官气，一身傲慢的官架子，以及无处不在的作为权力隐喻的“五道杠”（就我所见，大概仅有一张照片不曾佩戴“五道杠”）等。这恐怕不是其父所言的“摆拍”那么简单。黄艺博的官相，尤其是作为官场标配的似笑非笑之神态，一朝一夕，断难养成，千锤百炼，方有所得。其良师益友，大抵便是新闻联播和《人民日报》。</p>
-<p>显而易见，黄艺博之为黄艺博，源自其父母的精心塑造。需要追问的是，为什么要把自家孩子塑造成这样的“政治神童”。这符合他们的价值观么，抑或不得已而为之？从公开的信息来看，两者应该兼而有之。黄艺博的父亲是一位公务员，自称处级干部，爱看新闻联播和《人民日报》，醉心于“中华民族之复兴，续写汉唐之盛世”（出自黄艺博《开博前言》，这应是其父手笔），大体而言，这是一位标准的体制中人，人与心俱在体制内。他以自己为模子，塑造儿子的未来，再也正常不过。然而，他在政坛，处于底层，其子纵然称得上“官二代”，却无多少实质内容，他无法为儿子从政提供足够的根基与资本，只能剑走偏锋，另辟蹊径，他深知这个体制需要什么，于是投其所好。</p>
-<p>相形之下，体制对黄艺博的需求度，并不低于黄艺博对体制的需求度。现在的家长，不是出生于泛政治化的年代，就是成长于泛政治化的年代，大都吃过政治的苦头（当然有些人甘之若饴），一朝被蛇咬，十年怕井绳，故而对孩子的教育，尽管去政治化，倘不能对政治退避三舍，那便教孩子虚与委蛇。像黄艺博及其父母这样，主动对体制投怀送抱，而且露胆披肝，心虔志诚，实属罕见。这等忠犬，必定被权力者视若珍宝，树为典范。换言之，这个体制从不缺舞台，不缺道具，就缺演员。黄艺博恰恰是一位实力派演员，不疯魔不成活，他不仅入戏，其成长过程，本身便是一出戏，由体制制片，父母导演，演给骗子、傻子、瞎子，以及睁一只眼闭一只眼的观众观看。</p>
-<p>不过深究起来，与其说黄艺博是演员，不如说他也是道具。对于人生剧本，他完全不由自主，缺乏选择权。他的面前不是没有其他选项，然而，父母和体制所灌输给他的思维，决定了他对其他选项视而不见。与丧失了选择自由相比，这毋宁是更大的悲剧：拥有自由而不知怎么使用，甚至视自由为重负、为怪兽。</p>
-<p>基于此，我对黄艺博，不愿加以哪怕一分一毫的鄙夷和嘲讽，唯有无尽的同情和悲悯。真正该受批判的是他的父母与这个体制。其实体制不乏漏洞，只是做父母的人，非但不敢“肩住了黑暗的闸门，放他们到宽阔光明的地方去；此后幸福的度日，合理的做人”，反而以“天性”、“早熟”为虚弱的借口，把孩子一脚踢进了政治黑洞。这样的父母，何其可恶，正如这样的孩子，何其可悲。这就是为什么，我在2011年针对黄艺博事件的评论，标题叫“救救孩子黄艺博”。</p>
-<p>此后我一直留意黄艺博的消息，偶尔还会搜索一下，但见他的名字，不再出现于新闻，而流散于闲谈。这样的沉寂，我以为不是坏事。如果说天才陨落，以至与常人无异，令人遗憾，那么黄艺博这个所谓的政治天才，褪去“五道杠”的政治光彩，而归于平淡，未尝不能由此打开一条自由的出路。</p>
-<p>可惜我的设想，终而落空。2016年，18岁的黄艺博重返公共舆论，他已经通过武汉大学马克思主义学院自主招生面试，只要高考成绩超过湖北一本分数线38分，即可录取。新闻还夹带了一则旧闻：三年前，黄艺博中考落榜，并未考入湖北省水果湖高级中学，后经其所在初中力荐，才得到破格录取。高中期间，他曾担任学校团委副书记，荣获武汉市“优秀学生干部”、“湖北省优秀共青团员”等多项荣誉称号。</p>
-<p>对此结局，想必黄艺博的父母非常开心，这正是他们所预期的正果。另一面，我的朋友伟哥读完新闻，感慨道：怪胎终于长成了怪兽。</p>
-<p>2016年6月21日</p>
-<p>补记：不出意外，黄艺博读大学，依然会被打造为政治标兵，比如担任学生会主席等，然而他的政治前程，并不值得看好。韩寒曾写过一篇《黄艺博是个好干部》，其中云：“……退一步说，黄艺博长大以后真的还是现在的样子，并走上官场，我也有充分的理由相信他是一个好干部，甚至是一个郁郁不得志的好干部。他两岁看新闻联播，七岁看人民日报，他一定是发自内心的热爱这个政权，热爱这个政党，热爱这片土地上的人民。……在一堆普遍都不相信只想借着名头捞些利益的人群里，就他相信，太突兀了。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%BD%E6%88%88-%E5%88%B6%E9%80%A0%E9%BB%84%E8%89%BA%E5%8D%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93%E6%9D%A0/?category=18271" rel="tag">五道杠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E7%94%9F%E5%B9%B2%E9%83%A8/?category=18271" rel="tag">学生干部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">思想政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%95%99%E8%82%B2/?category=18271" rel="tag">政治教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权力集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">武汉大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E8%89%BA%E5%8D%9A/?category=18271" rel="tag">黄艺博</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -848,7 +882,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -858,5 +892,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E9%81%93
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

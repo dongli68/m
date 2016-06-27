@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BA%91%E5%8D%97%E7%BB%B4%E6%9D%83%E4%BF%A1%E6%81%AF%E5%B9%B3%E5%8F%B0%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%8F%8A%E5%A5%B3%E5%8F%8B%E9%81%AD%E6%8B%98%E6%8D%95/" target="cdt-mirror">美国之音 | 云南维权信息平台创办人及女友遭拘捕</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?resize=550%2C309" alt="“非新闻”的创办人卢昱宇及其女友李婷玉（推特图片）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>“非新闻”的创办人卢昱宇及其女友李婷玉（推特图片）</p></div>
+<p>全球人权组织国际特赦近日发布紧急行动声明，呼吁寻找6月15日起失联的中国维权信息平台“非新闻”的创办人卢昱宇及其女友。随后网友获得确定消息，两人早前被以“寻衅滋事”的罪名拘捕，关押在云南大理州看守所。国际特赦指两人可能面临酷刑虐待的风险，敦促中国政府立即无条件释放，不能因两人行使言论自由权而打压。</p>
+<p>有网友23日发推表示，已经前往民间“非新闻”的创办人卢昱宇的女友李婷玉的家乡广东佛山，见到她父亲。她父亲称，女儿上大学时持反对立场，曾被国宝约谈，4年没有跟家里联系了。网友让她父亲写份委托书，以便律师介入，但是她父亲表示要和其母商议后再定。</p>
+<p>稍后，网友得到李婷玉父亲的回电，说家人收到拘留通知书，显示李婷玉于6月16号下午4点被以“寻衅滋事罪”拘留，羁押在大理白族自治州看守所。6月25日，云南大理的作家许晖前往看守所，查到了卢昱宇和李婷玉的名字，并为每人存入一千元。</p>
+<p>李婷玉原是中山大学翻译学院英语专业的学生，大学期间常在墙外发表论政文章而遭多次约谈，后在学校和家人压力下退学。卢昱宇2012年4月在上海南京路举牌，要求官员公开财产还民选票，被警方拘留10天，同年6月，卢昱宇在广州因“非法集会”被关押1天。2012年10月，卢昱宇开始群体事件的搜索与统计。</p>
+<p>国际特赦发文关注</p>
+<p>此前，国际特赦6月24日表示，“非新闻”的创办人卢昱宇及其女友李婷玉，居住在云南大理，共同管理博客和“非新闻”推特账号，他/她们推特最后一次更新是在6月15日。此后，两人与外界失联。</p>
+<p>卢昱宇和李婷玉从2013年起，每天整理中国各地的群体事件，在不同社交媒体上发布，仅2015年就收集了近3万起包括村民抗议征地、工人罢工、业主维权等群体事件，因此经常受到警察恐吓，几次被逼迁。中国政府最后一次发布官方群体事件统计数字是2007年，当年超过10万起。据中国学者估计，最近几年的群体事件数目每年差距很大，从3万到18万起不等。</p>
+<p>国际特赦的紧急呼吁，要求公开卢昱宇和李婷玉的下落，立即无条件释放，不能仅仅因为两人行使言论自由权就关押，并且确保能够定期且不受限制地会见家人及律师，保障不受酷刑和其他形式的虐待。</p>
+<p>维权信息发布受打压</p>
+<p>十多年来逐渐成为中国有关民众维权信息主要发布平台之一的六四天网的创办人黄琦，星期天对美国之音表示，这些年来，有关当局对维权信息的发布收得越来越紧。</p>
+<p>他说：“对非新闻创办人的打压，我认为只是中国大陆对于这种维权信息发布的又一个打压案例而已。随着维权运动逐渐在全国推开，当局对于维权信息的发布是慎之又慎，控制维权信息的发布。”</p>
+<p>包括黄琦本人在内的六四天网的义工和公民记者，近年不断受到地方当局威胁、恐吓和打压。黄琦表示，非新闻和六四天网等只是维权信息发布的平台，实际上是让大批民众宣泄积怨和不满的出口，避免他/她们采取偏激的手段，客观上起到了维护社会稳定的作用。</p>
+<p>他说：“特别是财产遭到剥夺的这些民众，需要有一个合理的发泄。如果他们失去了这样一些出气的平台，那么就会走向极端。实际上对当局是个好事。我们天网过去18年发布了20万维权案例，总共涉及上百万民众，没有一个采取了自杀、爆炸之类的暴力措施，有利于和谐社会的建立。”</p>
+<p>另据最新消息，25号被看守所告知第二天可以送衣物的云南大理作家许晖，星期天下午再到大理州看守所接待窗口，竟被告知卢昱宇和李婷玉已被转走，而许晖昨天刚给两人存过钱。许晖询问转到哪里，被告知去问公安。记者星期天下午致电大理州看守所，电话一直无人接听。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BA%91%E5%8D%97%E7%BB%B4%E6%9D%83%E4%BF%A1%E6%81%AF%E5%B9%B3%E5%8F%B0%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%8F%8A%E5%A5%B3%E5%8F%8B%E9%81%AD%E6%8B%98%E6%8D%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E7%BB%84%E7%BB%87/?category=18271" rel="tag">人权组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%98%B1%E5%AE%87/?category=18271" rel="tag">卢昱宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E7%89%B9%E8%B5%A6/?category=18271" rel="tag">国际特赦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">维权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">群体事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%96%B0%E9%97%BB/?category=18271" rel="tag">非新闻</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%A4%E7%8B%AC%E5%9B%BE%E4%B9%A6%E9%A6%86-%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8B%E5%89%AF%E6%80%BB%E7%BC%96%E8%BE%91%E6%9C%B1%E9%93%81%E5%BF%976%E6%9C%8824%E6%97%A5%E8%87%AA%E6%9D%80/" target="cdt-mirror">孤独图书馆 | 《求是》副总编辑朱铁志6月24日自杀</a>
+</h2>
+<p><p>微信君按：</p>
+<p>突发！著名杂文家、《求是》副总编辑朱铁志先生于2016年6月24日夜在工作单位自缢辞世，这是继2012年8月21日《人民日报》副刊《大地》主编徐怀谦自杀后，体制内第二位思想界人士的自杀事件。</p>
+<p>朱铁志（1960-2016年 ）， 吉林通化人。中共党员。1969年跟随父母下乡，1978年参加高考，1982年毕业于北京大学哲学系。1983年开始发表作品。1998年加入中国作家协会。毕业后到求是杂志社工作。历任《红旗》杂志编辑，《体育报》记者，曾任《求是》杂志编委，编审，现为《求是》杂志副总编。中国作家协会全国委员会委员、北京市杂文学会常务理事。终年56岁。</p>
+<p>曾获鲁迅文学奖，多次获中国新闻奖以及中国报纸副刊年度金奖，多次获北京杂文奖，上海笔会文学奖以及《人民日报》、《光明日报》等报刊杂文奖。</p>
+<p>朱铁志也是徐怀谦的好友，2012年，他听到好友身亡的消息，第一时间就给《人民日报》的好友打电话求证此事。“确认后，我的手一直在抖。怎么也不敢相信，怀谦会走上这条路……”朱铁志说，朋友们都知道徐怀谦患有抑郁症,大家平时经常叫徐怀谦出来小聚，一起散散心。最近一次是上周六。“那天吃饭的时候，怀谦很开心。她爱人也说，怀谦跟朋友相聚时，比自己一个人呆在家情绪要好。吃完饭，我还邀他们夫妇到我家喝茶吃水果。临走时，我又送给怀谦一些中草药，和几本关于心理学、抑郁症的书。”朱铁志说，正是因为事发前四天，觉得徐怀谦情绪还不错，所以更接受不了他跳楼自杀的事实。没想到，4年之后，以同样决绝的方式追随好友而去的，竟然是他。</p>
+<p>这里有一篇他的短文，大胆犀利，很难想像竟出自《求是》副总编辑之手，一起来缅怀这位突然离去的知识分子。</p>
+<p>____________</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640GSQRJ60I.jpg?resize=413%2C227" alt="640GSQRJ60I" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640GSQRJ60I.jpg?w=413 413w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640GSQRJ60I.jpg?resize=300%2C165 300w" sizes="(max-width: 413px) 100vw, 413px" data-recalc-dims="1"></p>
+<p>吃谁的肉，骂谁的娘</p>
+<p>朱铁志</p>
+<p>吃，在中国传统文化中向来占有极其重要的地位。“民以食为天”，是尽人皆知的道理。看一个人能否自立，首先要看他是不是打发了自己的肚皮，连自己都养不活的家伙，还谈得上什么兼济天下？看一个家长是否称职，也要看他是否填饱了一家人的肚子，所谓“齐家”，首先是让妻儿老小肚子不饿。看一级政府是否合格，更要看是否解决了百姓的温饱问题，所谓“生存权”，完全可以首先理解为“吃饱权”。</p>
+<p>不仅如此，吃，还是咱们中国人表达感情的一种独特方式。对人友好，要请吃一顿；求人办事，要请吃一顿，结婚要吃一顿，死人也要吃一顿。请人吃饭的，有面子；被请的，也有面子。如果不能为人办事而吃请，那叫欠情；如果能为人家办事而吃请，那叫领情；如果既不能为人办事，又不肯领吃请的情，这人就有点不是东西，就是个没有良心的“白脸狼”，就令人不齿。有一句流传很广的话，叫“端起碗吃肉，放下碗骂娘”，抨击的就是这种人。</p>
+<p>这话听起来理直气壮、义正辞严，仔细想想，其实也不无问题。我注意到：持“吃肉骂娘说”的，多半是某块地面儿上的所谓父母官。在这些人的潜意识中，一定认为是兄弟我给你们肉吃、满足了你们的温饱问题。你们老百姓不对寡人感恩戴德、山呼万岁，起码不该再说三道四、妄议时政。俗话说吃人家的嘴短，你们不短也就算了，反而长起来了，这就有些不合古来的规矩。</p>
+<p>在不才看来，这番高论其实是模棱两可的。一般说来，中国人是最讲良心、最知恩图报的，所谓滴水之恩涌泉相报，所谓投以木瓜，报以桃李，说的都是这种传统美德。然而“吃肉骂娘说”却建立在浓厚的封建意识基础之上，具有明显的皇权思想色彩，因而是很叫人不以为然的。</p>
+<p>在人民当家做主的国家，任何官员的权力都是人民赋予的。不论你官至何级，都不过是人民公仆而已。所谓“公仆”，就是实实在在为人民做事、兢兢业业为人民服务，把本该属于人民群众的利益维护好、实现好。社会的物质财富和精神财富无不取之于民、用之于民，人民群众是历史的创造者，更是各种社会财富的创造者。“吃肉”，吃的是自己的肉；骂娘，骂的是贪官污吏的娘。“吃肉”不是皇恩浩荡的结果，是人民自己的创造；“骂娘”不是“吃肉”必须丧失的权利。如果哪位官员昏庸到以为人民自己创造的财富乃是他阁下的施舍，以为可以用人民自己创造的财富来堵住人民的嘴巴，岂不太可笑了。</p>
+<p>一言以敝之：吃自己的肉，骂贪官的娘，有何不妥！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%AD%A4%E7%8B%AC%E5%9B%BE%E4%B9%A6%E9%A6%86-%E3%80%8A%E6%B1%82%E6%98%AF%E3%80%8B%E5%89%AF%E6%80%BB%E7%BC%96%E8%BE%91%E6%9C%B1%E9%93%81%E5%BF%976%E6%9C%8824%E6%97%A5%E8%87%AA%E6%9D%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BD%9C%E5%AE%B6%E5%8D%8F%E4%BC%9A/?category=18271" rel="tag">中国作家协会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BB%86/?category=18271" rel="tag">公仆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%BB%E7%BC%96/?category=18271" rel="tag">总编</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%91%E9%83%81%E7%97%87/?category=18271" rel="tag">抑郁症</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%B1%E9%93%81%E5%BF%97%EF%BC%8C%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98/?category=18271" rel="tag">朱铁志，中共党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%9D%80/?category=18271" rel="tag">自杀</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91-%EF%BD%9C%E3%80%8A%E5%A4%96%E4%BA%A4%E5%AD%A6%E4%BA%BA%E3%80%8B%EF%BC%9A%E9%9A%BE%E9%81%93%E5%8C%97%E4%BA%AC%E5%88%9A%E5%88%9A%E6%9D%80%E4%BA%86%E4%B8%A4%E5%B2%B8%E5%85%B3/" target="cdt-mirror">博谈网 ｜《外交学人》：难道北京刚刚杀了两岸关系？</a>
 </h2>
 <p><p>（博谈网记者赵亮编译）本文译自《外交学人》6月26日刊登的Shannon Tiezzi 的文章，题目为‌‌“难道中国刚刚杀了两岸关系‌‌”。以下为译文：</p>
@@ -754,75 +805,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%AD%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8F%82%E4%B8%8E%E7%BD%91%EF%BD%9C%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E4%B8%8D%E7%94%A8%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D/" target="cdt-mirror">参与网｜玉品健律师：我为什么不顾一切的往陆丰冲</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/mmexport1466650042777.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/mmexport1466650042777.jpg?resize=400%2C711" alt="贝带劲 ‏@beidaijin ：广西律师玉品健 是林祖恋的辩护人，在去 #乌坎 途中被围追堵截，因恐惧和悲哀放弃行程" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/mmexport1466650042777.jpg?w=720 720w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/mmexport1466650042777.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/mmexport1466650042777.jpg?resize=576%2C1024 576w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>贝带劲 ‏@beidaijin ：广西律师玉品健 是林祖恋的辩护人，在去 #乌坎 途中被围追堵截，因恐惧和悲哀放弃行程</span></p></div>
-<p>当林祖恋的长子和次子通过各种渠道找到我时，我对wukan事件已经相当了解。2011年的时候，我就开始关注它了。这次事件的起因我不甚明白，但检察院是以林涉嫌受贿而对其立案侦察和采取强制措施的。</p>
-<p>刚开始的时候，我感觉自己的力量太过于单薄，于是向他们推荐了广州葛永喜律师，由葛律师作为第一辩护人，我配合葛律师开展工作。在充分磋商之后，他们与葛永喜律师达成了委托代理意向，单方签署了委托协议和授权委托书，并向葛律师所在律师事务所指定账号汇入了律师费。但当时葛律师在外办案，不能马上回来介入该案。</p>
-<p>第二天（即6月21日）检方通过新闻发布会的形式，对外公布了林祖恋的认罪视频。我们看到该视频之后，心情很是沉重，深感自己做为律师很有必要介入了解案情，洞察事实真相。于是，在林祖恋家属的授权之下，我办理了委托代理及授权手续，急冲冲地要到陆丰人民检察院递交授权委托手续并申请会见及提交律师意见。</p>
-<p>但自从办妥相关手续之后，我的手机便有很多来历不明的电话，在不胜其烦的情况下，不得不关掉了手机。简单的吃了中午饭，本想马上出发，赶在下午下班之前去到陆丰检察院递交材料，但由于种种原因耽误了启程的时间。就在这短短的一两个小时，有来自很多方面的压力，要求我停止活动，从走向宿舍的门，到上车到出发，分别有几拔人劝阻我不要去、不要去。但我非常坚决地说：我之前没有任何违法犯罪之事，今后也不会有，请大家放心，我此去陆丰，是严格遵守在中国共产党领导下制定的法律的规定行事的，我是律师、我是林祖恋的辩护人，我有权利和义务去会见他、去了解案情。于是，我不顾一切地往陆丰而去。</p>
-<p>在去陆丰的路上，依然收到不少的信息劝我一定要回去，不能掺和到林案中去。我没有理会，我认为我是依法办案的，而这一切法律都是在中国共产党领导下制定出来的，为什么我严格依法办案都不允许呢？不就是个递交个授权委托的手续而已吗？不就是申请会见而已吗？</p>
-<p>不就是提提律师意见而已吗？为什么老林被关那么久了，还不允许请辩护律师？为什么犯罪嫌疑人家属依法聘请了律师却不能履行职责？他们这是在依法办案吗？ 是在依法治国吗？我们平时在电视上、在报纸上、在课堂上、在刊物上所说的所宣扬的法治都哪里了？</p>
-<p>我坚信法律、我信仰法律、我相信整天宣扬依法治国的人会更加遵守法律，我心中对法治的那份理想尚未泯灭，只要我依法办案，他们应该不会对我怎么样。于是，我继续我的行程，到汕尾时，已经是傍晚6点多，我便在汕尾下高速，想第二天早上先汕尾市人大常委会投诉有人阻挠我依法办案，希望人大出面保障我的执业权，然后再跟人大的人一起向检察院递交相关材料。</p>
-<p>到了汕尾之后，就不断地接到家人打来的电话，一个劲地劝我回去，不要参与此案。最后，家人还说，在几个领导的伴同下，他们母子俩人已经上车出来找我了。在一路追来的过程中，我跟我的家人时不时保持着联系，一来我不想让家人担心，二来我也体恤他们，未能做到铁石心肠，全部断绝与家人的联系。在保持联系的过程中，他们传递了这样的信息：如果今晚回去就当事情没发生，如果今晚不回去明天肯定就会出事。我想，这是最后的通牒，是最强硬的姿态。在强大的公权力面前，我只好暂时停止履行辩护人职责，连夜回到学校的宿舍。</p>
-<p>对于林案，有关部门、有关人员认为是极其敏感的案件。对于这一点我不敢苟同，在我眼里，它只是一个普通的村干部受贿案件，我只是从法律的角度来为其提供法律服务，我的所作所为完全符合中华人民共和国相关法律的规定。尽管这次递交材料、申请会见、提交律师意见的行程受到了挫折，但我现在还是林的合法辩护人，待时机成熟，我依然会履行辩护人的职责，去实现我心中那份法治的理想。</p>
-<p>玉品健律师</p>
-<p>2016年6月23日</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8F%82%E4%B8%8E%E7%BD%91%EF%BD%9C%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E4%B8%8D%E7%94%A8%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%8C%E8%B0%90%E7%9B%9B%E4%B8%96/?category=18271" rel="tag">和谐盛世</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%A0%BD%E8%B5%83%E9%83%BD%E7%B4%A7%E8%B7%9F%E7%83%AD%E7%82%B9%EF%BC%9A%E9%80%86%E6%88%91%E8%80%85%E6%AF%92%E8%B7%91%E9%81%93/" target="cdt-mirror">【网络民议】栽赃都紧跟热点：逆我者毒跑道</a>
-</h2>
-<p><p><strong><a href="http://politics.caijing.com.cn/20160623/4137518.shtml" target="_blank">汕尾市检察院：已初查林祖恋涉嫌收受乌坎学校塑胶跑道回扣</a></strong></p>
-<blockquote><p>南方网记者报道 有网民近日发帖称，原乌坎村支书林祖恋插手乌坎学校塑胶跑道工程，从中收受回扣，42万元的塑胶跑道拿了8万元回扣。记者就此向汕尾市人民政府新闻办公室了解，该办负责人表示，已经注意到网民的反映。该办负责人同时指出，汕尾市委、市政府历来高度重视关心学生健康成长，决不允许侵害学生权益现象出现。</p>
-<p>据悉，汕尾市网信办从网上获知网民情况反映后，已将该线索转交检察机关。汕尾市政府已请有关部门尽快到乌坎学校对正在使用的塑胶跑道开展质量安全检查。</p>
-<p>汕尾市人民检察院有关人士23日晚向记者透露，相关问题线索已经收到并已展开初查。</p></blockquote>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/wukanyupinjian2_dyeep_1200x0.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/wukanyupinjian2_dyeep_1200x0.jpg?resize=500%2C528" alt="wukanyupinjian2_dyeep_1200x0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/wukanyupinjian2_dyeep_1200x0.jpg?w=661 661w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/wukanyupinjian2_dyeep_1200x0.jpg?resize=284%2C300 284w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>图片来源：<a href="https://www.thestandnews.com/china/%E7%83%8F%E5%9D%8E%E4%BA%8B%E4%BB%B6-%E7%95%B6%E5%B1%80%E5%86%8D%E9%98%BB%E6%9E%97%E7%A5%96%E6%88%80%E8%81%98%E5%BE%8B%E5%B8%AB-%E5%BE%8B%E5%B8%AB%E7%8E%89%E5%93%81%E5%81%A5-%E5%B0%8D%E6%89%80%E8%AC%82%E6%B3%95%E6%B2%BB%E5%BE%B9%E5%BA%95%E5%A4%B1%E6%9C%9B/" target="_blank">立场新闻</a></span></p></div>
-<blockquote><p><strong>相关阅读</strong>：</p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%AF%B4%E4%BD%A0%E8%B4%AA%E6%B1%A1%E4%BD%A0%E5%B0%B1%E5%BE%97%E8%B4%AA%E6%B1%A1/" target="_blank">【网络民议】党说你贪污你就得贪污</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B2%B8%E8%85%BE%EF%BD%9C%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%9F%A5-%E8%AF%B7%E7%94%A8%E8%BF%87%E7%A1%AC%E8%AF%81%E6%8D%AE%E8%AE%A9%E4%BA%BA%E4%BB%AC%E7%9B%B8%E4%BF%A1%E6%B3%95/" target="_blank">沸腾｜乌坎村主任被查 请用过硬证据让人们相信法治 （已删）</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B6%89%E6%AF%92%E8%B7%91%E9%81%93%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%8C%97%E4%BA%AC%E5%AE%B6%E9%95%BF%E7%9A%84%E6%8A%97%E4%BA%89%EF%BC%9A%E5%A5%8B%E6%96%97%E5%A4%B1%E5%8E%BB%E4%BA%86%E6%84%8F%E4%B9%89/" target="_blank">凤凰网｜涉毒跑道事件后北京家长的抗争：奋斗失去了意义</a></li>
-<li>中国数字时代<a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/" target="_blank">林祖恋</a>专题</li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/nanciecheung" target="_blank">@NXHK</a>：看毒跑道犯众怒，马上安插在他头上，太鸡贼了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5756260744" target="_blank">@伊人憋住</a>：毒跑道发挥正能量了<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"></p>
-<p>@立珊公交站：恩，他还包养了是个情妇，在加拿大有几十处房产，党说什么是什么</p>
-<p><strong>@李徐生律师：我靠，栽赃都紧跟热点。没有律师会见，只有检察院不断放出风声，可信度不高。</strong></p>
-<p>@Hadrianuse：八万块，动用三百武警，一千警力。你国是真·法治国家</p>
-<p>@起点闲云：先抓人再调查，有的没的罪名，先给扣上一个再找线索，实在找不到就创造一个</p>
-<p>@ 沧海一声笑-滔滔两岸潮：你就说42万的塑胶跑道拿了58万的回扣，俺也信！。。。。</p>
-<p>@菜民：仅仅靠网民发帖是不行的，应再迅速调集三千精锐朝阳区群众速赴乌坎。</p>
-<p><strong>@北地-喷喷美剧迷：逆我者毒跑道</strong></p>
-<p>@2014-03-08：行贿人抓起来没有？行贿人叫啥XX啊？这行贿人是孤案？还是其经营史主要都是这经营手法啊？其他行贿对象受贿人是都打算放过对吗?</p>
-<p><a href="http://weibo.com/2683117843" target="_blank">@刘四那天</a>：若是真收了8万回扣，那真是业界良心了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">。不过我还是不信他会受贿！</p>
-<p><strong>@曲子叶：简直逆天了，北京市及诸多城市诸多学校“毒跑道”的动静闹那么大，没见查出吃回扣来，这边没几天就查出42万的塑胶跑道拿了8万的回扣——这个比例可查太多学校按塑胶跑道的回扣金额了。汕尾检察院还能查出林祖恋什么“经济犯罪”行为来？</strong></p>
-<p>@大纸老虎V：哈哈，哈哈哈！强烈要求最高检调汕尾检察院异地查办北京的毒跑道。</p>
-<p>@行健小屋_2：辛苦了，辛苦了，这么久也算编出个受贿项目了，而且还是金额巨大，8万元！</p>
-<p>@流氓会武术谁也挡不住哦耶：看到评论里大家这么骂你，我就放心了，上坟烧报纸，你糊弄你爹呢？</p>
-<p><a href="http://weibo.com/1853529242" target="_blank">@他们说名字长的一般比较帅</a>：真是捉急，这群刁民怎么不相信呢！<img title="[哼]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/diaobin" target="_blank">@大雕刁斌</a><i title="微博个人认证 "></i>：不再加个毒疫苗？地沟油呢？再加个间谍罪不？当地公检法办罪能力不强呀，差评<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2065616851" target="_blank">@顺道之德</a><i title="微博达人"></i>：第一次说数额特别巨大，想尽办法才想出8万元来<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/n/%E6%BD%98%E9%87%91%E8%8E%B2%E6%97%A5%E8%AE%B0?from=feed&loc=at" target="_blank">@潘金莲日记</a>:检察院把握热点借势热点的能力真心不错，赞一个<img title="[good]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/good_org.gif" alt="[good]" data-recalc-dims="1">这公关力可以打100分，就不知道公信力多少分？</p>
-<p>@旸哥shine1：真会扣黑帽子，而且拿着热点新闻来抹黑。</p>
-<p>@whosesinger：搞笑我们是认真的！</p>
-<p>@李晓群2011：把贪污和热点结合起来，不得不说是与时俱进啊</p>
-<p>@1回眸一笑1：大家不傻，骗人越来越难，辛苦检察院了</p>
-<p><strong>附微博评论截图：</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%9E%97%E7%A5%96%E6%81%8B%E6%B6%89%E5%AB%8C%E6%AF%92%E8%B7%91%E9%81%93.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%9E%97%E7%A5%96%E6%81%8B%E6%B6%89%E5%AB%8C%E6%AF%92%E8%B7%91%E9%81%93.png?resize=550%2C2133" alt="林祖恋涉嫌毒跑道" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/林祖恋涉嫌毒跑道.png?w=602 602w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/林祖恋涉嫌毒跑道.png?resize=77%2C300 77w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/林祖恋涉嫌毒跑道.png?resize=264%2C1024 264w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%A0%BD%E8%B5%83%E9%83%BD%E7%B4%A7%E8%B7%9F%E7%83%AD%E7%82%B9%EF%BC%9A%E9%80%86%E6%88%91%E8%80%85%E6%AF%92%E8%B7%91%E9%81%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%AA%E5%AE%A1%E5%85%88%E5%88%A4/?category=18271" rel="tag">未审先判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -834,7 +816,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -844,5 +826,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,111 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91/" target="cdt-mirror">【异闻观止】网络反共反华组织曝光 或与秦火火有关</a>
+</h2>
+<p><p><strong>数字时代编辑注：</strong>本文为察网中国独家投稿(www.cwzg.cn)（原站如此注明），关于此站，其首页官方简介如下：</p>
+<blockquote><p>“察网中国”是由海南察网文化传媒有限公司运营的民间性质爱国网民网站。我们的宗旨是：积极宣传党和政府的有关方针政策；维护国家利益，保卫国家安全；汇聚爱国能量，巩固爱国阵线；弘扬民族精神，传承民族文化。</p></blockquote>
+<p>昨日，一张2016年5月的《舆情员津贴奖金发放表》曝光，其中显示“舆情员”所领津贴奖金数目惊人，其中“梅雪飘香”即为该组织头目，也为该表统计人。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627122247507.png?resize=550%2C395" alt="20160627122247507" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627122247507.png?w=582 582w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627122247507.png?resize=300%2C215 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123331157.png?resize=490%2C462" alt="20160627123331157" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123331157.png?w=490 490w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123331157.png?resize=300%2C283 300w" sizes="(max-width: 490px) 100vw, 490px" data-recalc-dims="1"></p>
+<p>这个33人的团队，仅2016年5月份的舆情员津贴奖金就高达近27万元，其平均每人每月高达8000多元。而且此表注明<strong>【单位：部直属第5分队】</strong>，说明这只是整个组织中的一小支分队。整个组织有多么庞大，其资金规模投入有多大？细想恐怖至极。</p>
+<p>一、该组织主要头目“梅雪飘香”的基本情况</p>
+<p>仔细分析研究，这是一股早已在网络上存在多年的有组织化地反共反华网络水军。其头目“梅雪飘香”的博客地址为：</p>
+<p><a href="http://blog.sina.com.cn/u/1247372933">http://blog.sina.com.cn/u/1247372933</a></p>
+<p><a href="http://blog.sina.com.cn/meixuepiaoxiang1107">http://blog.sina.com.cn/meixuepiaoxiang1107</a></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123402268.png?resize=231%2C790" alt="20160627123402268" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123402268.png?w=231 231w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123402268.png?resize=88%2C300 88w" sizes="(max-width: 231px) 100vw, 231px" data-recalc-dims="1"></p>
+<p>图表显示，此人2016年5月通过支付宝领取反共反华势力发放的舆情员津贴奖金10560元！！</p>
+<p>其对应的微博名原为“梅雪飘香1107”“梅雪飘香-1107”等都以被封杀，但从遗留的信息看此人多年在网络上进行反共反华活动，且曾经与秦火火团伙有一定关系：</p>
+<p><strong>1、梅雪飘香在新浪博客及微博上发表秦火火制造的相关文章：</strong></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123428553.png?resize=554%2C168" alt="20160627123428553" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123428553.png?w=554 554w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123428553.png?resize=300%2C91 300w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123438710.png?resize=550%2C222" alt="20160627123438710" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123438710.png?w=651 651w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123438710.png?resize=300%2C121 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>2、梅雪飘香在博客上推广恶毒造谣攻击毛泽东的文章：</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123456635.png?resize=550%2C122" alt="20160627123456635" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123456635.png?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123456635.png?resize=300%2C67 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>3、梅雪飘香吹捧美国驻华大使并积极帮助美国在华进行舆论政治渗透的活动</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123519774.png?resize=550%2C226" alt="20160627123519774" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123519774.png?w=550 550w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123519774.png?resize=300%2C123 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123538394.png?resize=550%2C102" alt="20160627123538394" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123538394.png?w=636 636w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123538394.png?resize=300%2C56 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>4、梅雪飘香恶毒攻击中国社会和政治制度，煽动颜色革命的微博</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123552774.png?resize=550%2C160" alt="20160627123552774" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123552774.png?w=650 650w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123552774.png?resize=300%2C87 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123609214.png?resize=550%2C199" alt="20160627123609214" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123609214.png?w=480 480w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123609214.png?resize=300%2C109 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>5、梅雪飘香在博客上传播造谣攻击十月革命及共产主义运动的文章：</strong></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123643446.png?resize=477%2C400" alt="20160627123643446" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123643446.png?w=477 477w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123643446.png?resize=300%2C252 300w" sizes="(max-width: 477px) 100vw, 477px" data-recalc-dims="1"></p>
+<p><strong>6、梅雪飘香力挺被捕的亲美亲日极端公知信力建：</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123706389.png?resize=556%2C322" alt="20160627123706389" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123706389.png?w=556 556w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123706389.png?resize=300%2C174 300w" sizes="(max-width: 556px) 100vw, 556px" data-recalc-dims="1"></p>
+<p>了解了这个组织的主要头目，这个组织的政治性质和倾向也就比较清楚了。</p>
+<p><strong>二、该组织另一位主要成员二级成员“活雷锋啊小东”</strong></p>
+<p>另外，从其主要成员的情况看，这个组织属于反共反华公知组织确定无疑：</p>
+<p>在《舆情员津贴奖金发放表》中，有一个仅次于梅雪飘香的二级成员，其网络id为“活雷锋啊小东”，图表显示其2016年5月领取反共反华势力发放的津贴为8750元！！</p>
+<p>我们看下其腾讯微博的内容，可以发现，这是一个典型的反共反华公知：</p>
+<p><strong>“活雷锋啊小东”恶毒攻击党和国家领导人及社会制度：</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123741447.png?resize=550%2C177" alt="20160627123741447" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123741447.png?w=596 596w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123741447.png?resize=300%2C97 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p> </p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123800213.png?resize=554%2C247" alt="20160627123800213" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123800213.png?w=554 554w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123800213.png?resize=300%2C134 300w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627033801637.jpg?resize=550%2C457" alt="20160627033801637" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627033801637.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627033801637.jpg?resize=300%2C249 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>“活雷锋啊小东”恶毒攻击司马南及罗援的东西，和秦火火一模一样，<strong>这再一次证明这个组织与秦火火的关系密切，当年只抓了一个秦火火，却留下了整个网络反共水军： </strong></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627033815983.jpg?resize=550%2C248" alt="20160627033815983" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627033815983.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627033815983.jpg?resize=300%2C135 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>《舆情员津贴奖金发放表》曝光后，该组织成员试图藏匿。“活雷锋啊小东”的腾讯微博虽然改名，不过还是被笔者活捉了：</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123833573.png?resize=555%2C102" alt="20160627123833573" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123833573.png?w=555 555w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123833573.png?resize=300%2C55 300w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123856103.png?resize=558%2C279" alt="20160627123856103" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123856103.png?w=558 558w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123856103.png?resize=300%2C150 300w" sizes="(max-width: 558px) 100vw, 558px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124313876.png?resize=555%2C374" alt="20160627124313876" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124313876.png?w=555 555w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124313876.png?resize=300%2C202 300w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"></p>
+<p>此人腾讯微博现改名为“蒙J—魏志强”，并自我介绍为“本人铁杆汉奸！”，而之前的微博介绍是“望认同普世价值的博友互粉”。这个事实又一次雄辩地证明：普世价值派即铁杆汉奸！！</p>
+<p>此人腾讯微博也是清一色的反共反华内容：</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123918266.png?resize=550%2C570" alt="20160627123918266" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123918266.png?w=658 658w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627123918266.png?resize=289%2C300 289w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124028173.png?resize=550%2C727" alt="20160627124028173" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124028173.png?w=636 636w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124028173.png?resize=227%2C300 227w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>三、从该组织成员二级成员“张激扬”的基本情况分析该组织基本动向</strong></p>
+<p>最后我们再介绍一位《舆情员津贴奖金发放表》中的二级成员“张激扬”，其2016年5月份领取的金额为8650元。</p>
+<p>“张激扬”腾讯微博及相关反共反华内容：</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124356989.png?resize=550%2C580" alt="20160627124356989" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124356989.png?w=591 591w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124356989.png?resize=285%2C300 285w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124418950.png?resize=550%2C428" alt="20160627124418950" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124418950.png?w=638 638w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124418950.png?resize=300%2C233 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>此人的新浪微博，也证明此人是典型的反共反华公知，其粉丝仅有671人：</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124442849.png?resize=520%2C419" alt="20160627124442849" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124442849.png?w=520 520w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124442849.png?resize=300%2C242 300w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124505159.png?resize=523%2C562" alt="20160627124505159" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124505159.png?w=523 523w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124505159.png?resize=279%2C300 279w" sizes="(max-width: 523px) 100vw, 523px" data-recalc-dims="1"></p>
+<p>不过非常明显的是，“张激扬”此人的智商比起同伙“活雷锋啊小东”来，要低一大截。《舆情员津贴奖金发放表》曝光后，“活雷锋啊小东”腾讯微博改名为 “蒙J—魏志强”，<strong>并将“望认同普世价值的博友互粉”自我介绍改成“本人铁杆汉奸！”，以期望逃脱惩罚，长期潜伏。</strong></p>
+<p>可笑的是，“张激扬”却故意装作镇静：</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124632717.png?resize=550%2C465" alt="20160627124632717" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124632717.png?w=596 596w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124632717.png?resize=300%2C254 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>由此我们也有机会查下公知的微博多少钱一条。此人腾讯微博14年11月以来没有更新，其新浪微博2016年5月仅发了两条原创，其中一条还是上海聚会照片：</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124703840.png?resize=550%2C717" alt="20160627124703840" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124703840.png?w=592 592w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124703840.png?resize=230%2C300 230w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>其2016年5月份所发微博主要是转发，约为30条，主要是转发一些反共反华微博大V和营销账号的煽动性、造谣性微博：</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124726583.png?resize=550%2C693" alt="20160627124726583" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124726583.png?w=586 586w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124726583.png?resize=238%2C300 238w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124805818.png?resize=550%2C437" alt="20160627124805818" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124805818.png?w=587 587w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124805818.png?resize=300%2C238 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124823937.png?resize=550%2C658" alt="20160627124823937" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124823937.png?w=528 528w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124823937.png?resize=251%2C300 251w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124935118.png?resize=550%2C705" alt="20160627124935118" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124935118.png?w=590 590w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627124935118.png?resize=234%2C300 234w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>百度搜索显示，除了腾讯微博和新浪微博，此人并无其他的公开网络活动平台：</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627125023104.png?resize=550%2C424" alt="20160627125023104" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627125023104.png?w=612 612w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627125023104.png?resize=300%2C231 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>根据《舆情员津贴奖金发放表》，<strong>二级成员“张激扬”2016年5月份领取的金额为8650元，其微博工作主要是转发了30条微博</strong>，而其新浪微博粉丝仅为671人。这种异常情况只能说明，这不是一个普通的网络水军组织，如果其反共反华活动主要在网络的话，其主要活动平台推测在更为隐蔽的微信上。</p>
+<p>该组织头目“梅雪飘香”在2015年9月9日发了这样一篇博文，显示微信已经是其主要战场：</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627125105601.png?resize=517%2C432" alt="20160627125105601" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627125105601.png?w=517 517w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160627125105601.png?resize=300%2C251 300w" sizes="(max-width: 517px) 100vw, 517px" data-recalc-dims="1"></p>
+<p>笔者能做的，只有这些了。更多的不为人知的黑幕有待专业机构更进一步的调查。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%B1/?category=18271" rel="tag">反共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%8E/?category=18271" rel="tag">反华</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%8D%8E%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">反华势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7v/?category=18271" rel="tag">大V</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%AF%E4%BB%98%E5%AE%9D/?category=18271" rel="tag">支付宝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8/?category=18271" rel="tag">煽动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87%E5%8C%96/?category=18271" rel="tag">组织化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">网络</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E6%B0%B4%E5%86%9B/?category=18271" rel="tag">网络水军</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%9C%E8%89%B2%E9%9D%A9%E5%91%BD/?category=18271" rel="tag">颜色革命</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%B9%95/?category=18271" rel="tag">黑幕</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%96%9C%E8%BF%8Eg20-%E8%8B%B1%E8%AF%AD%E9%80%9F%E6%88%90100%E5%8F%A5/" target="cdt-mirror">【图说天朝】喜迎G20 英语速成100句</a>
+</h2>
+<p><p>@Rose蔡旭华：看得我何止醉了……这是杭州政府为了G20整出来的英语速成100句！</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e9e35a9agw1f58ya5ncw7j20qo0zkgoz.jpg?resize=550%2C733" alt="e9e35a9agw1f58ya5ncw7j20qo0zkgoz" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e9e35a9agw1f58ya5ncw7j20qo0zkgoz.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e9e35a9agw1f58ya5ncw7j20qo0zkgoz.jpg?resize=225%2C300 225w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e9e35a9agw1f58ya5f8m4j20qo0zkwio.jpg?resize=550%2C733" alt="e9e35a9agw1f58ya5f8m4j20qo0zkwio" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e9e35a9agw1f58ya5f8m4j20qo0zkwio.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e9e35a9agw1f58ya5f8m4j20qo0zkwio.jpg?resize=225%2C300 225w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e9e35a9agw1f58ya6fpdnj20qo0zkwiz.jpg?resize=550%2C733" alt="e9e35a9agw1f58ya6fpdnj20qo0zkwiz" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e9e35a9agw1f58ya6fpdnj20qo0zkwiz.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e9e35a9agw1f58ya6fpdnj20qo0zkwiz.jpg?resize=225%2C300 225w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>@马萨林主教：“喂！看我土杭！”</p>
+<blockquote><p><em>@翯川：说杭州土鳖的那位~你来过杭州吗？有本事你那儿也办个G20？</em></p>
+<p><em>@Elzairis：……说土鳖的那位 要是我也这么说你的家乡 你心里好受吗？</em></p></blockquote>
+<p>@小小小小小_哥：英语老师：注土音，打手心。</p>
+<p>@侯爷干了这碗情丝绕：关键是出书的人自己口音也是个谜吧。</p>
+<p>@不再比格：杭州作为一个准一线城市、远近闻名的大都会竟然会干这种事……我一直以为只有那种三四线城市才会这么卑微。不会说英语又不是错，学这些莫名其妙的东西有什么用啊，抓住一个外国人就把杭州夸一遍？真的很跌份。</p>
+<p>@洁嬷嬷手拿针筒说：真是醉~ 现在坐地铁都要拿身份证</p>
+<p>@朝闻道_V：老外来了会不会有种满地NPC的感觉？</p>
+<p>@不喝伏特加：杭州人民亲身体验 搞好G20 赶走东道主</p>
+<p>@爱生活爱大胖丹：不用当好市民 别让国际政府的事影响自己的生活 政府的面子不用管</p>
+<p>@风什么时候停：据我一朋友说有的公司还有补贴让员工G20期间别留在杭州，每天500块，前提是别在杭州待着。</p>
+<p>@KeefeWong_：论英语。我只服长者。长者曾说。“My English is poor, but I dare to say! That’s 歪蕊 important! ”你们啊，学点英文，还是naive</p>
+<p>@脑袋是睡扁的：中国最美丽城市，“最”字是不是违反了广告法。</p>
+<p>@夏目家的小诗哥：看到G20真的笑不出来[拜拜] 每天中午单位还要强制学英语 每天晚上电视台也要放这个英语教学 每天折腾杭州人</p>
+<p> </p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%96%9C%E8%BF%8Eg20-%E8%8B%B1%E8%AF%AD%E9%80%9F%E6%88%90100%E5%8F%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/g20/?category=18271" rel="tag">g20</a>, <a href="https://chinadigitaltimes.net/chinese/tag/g20%E5%B3%B0%E4%BC%9A/?category=18271" rel="tag">G20峰会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">图说天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%AD%E5%B7%9E/?category=18271" rel="tag">杭州</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BA%91%E5%8D%97%E7%BB%B4%E6%9D%83%E4%BF%A1%E6%81%AF%E5%B9%B3%E5%8F%B0%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%8F%8A%E5%A5%B3%E5%8F%8B%E9%81%AD%E6%8B%98%E6%8D%95/" target="cdt-mirror">美国之音 | 云南维权信息平台创办人及女友遭拘捕</a>
 </h2>
 <p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?resize=550%2C309" alt="“非新闻”的创办人卢昱宇及其女友李婷玉（推特图片）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>“非新闻”的创办人卢昱宇及其女友李婷玉（推特图片）</p></div>
@@ -718,93 +820,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E5%9B%BD%E6%9C%AA%E6%9D%A5%E7%AB%9F%E7%84%B6%E8%AE%A9%E4%BA%BA%E6%B0%91%E5%86%B3%E5%AE%9A/" target="cdt-mirror">【网络民议】大国未来竟然让人民自己决定</a>
-</h2>
-<p><p>@作家崔成浩：为了英国能留在欧盟，前些天，卡梅伦不惜放下身价，来到伦敦街头，头顶烈日口沫横飞地为英国老百姓讲解留在欧盟的好处。可令人意想不到的是，超过半数的英国老百姓，根本就不听领袖的哼哼教导，依然我行我素，见到脱欧成功居然还雀跃欢呼！卡梅伦如此丢人的首相，干着还有什么劲呢？</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a8ef5277jw1f56aev90v1j20hs09vabf.jpg?resize=550%2C305" alt="a8ef5277jw1f56aev90v1j20hs09vabf" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a8ef5277jw1f56aev90v1j20hs09vabf.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a8ef5277jw1f56aev90v1j20hs09vabf.jpg?resize=300%2C166 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>@作家崔成浩：果然不出我之所料，卡梅伦宣布辞职。</p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>@再給我續一秒：大不列颠，大不列颠，及北爱尔兰联合王国 脱欧了！ 王八蛋首相 卡梅伦 搬起石头砸自己的脚，带着他的内阁跑了！ 我们没有办法，拿着英镑抵工资。 原价都是9.8,9.7,9.6的英镑，现在通通8.8，通通8.8！卡梅伦你不是人，你还我血汗！</p>
-<p>@Aldrich先生：突然在想，如果中国跟英国似的公投！我觉得各个省几乎都得独立自制！中国打个电话都有跨省漫游，上个学都有学籍学区制度，连最基本的高考分数都分三六九等。而且很冠冕堂皇，很光明正大摆在那里，习以为常。你说搞笑不搞笑？身为山东人，我骄傲，但是身为中国人我…不知所措！哈哈</p>
-<p>‏@guangzhui：卡梅伦辞职讲话：不要怪我，是这届人民不行。</p>
-<p>@山水6355：这么多人闹分裂，为什么不镇压？</p>
-<p>@二十一路巴士：我们几时能投票脱马列。</p>
-<p>@二黑爱吃烧白：我艹百年一遇的洪水地震狂风暴雨我遇了N次了 公投是尼玛什么玩意还没遇见过</p>
-<p>@张儒昌：哼，堂堂大英帝国的未来竟然让人民决定！</p>
-<p>@作家催纽笔：英国人民不讲政治，不顾大局，为了一点个人私利不惜闹独立，起了一个很不好的带头作用，其行为是严重的，影响是恶劣的。卡梅伦作为中国人民的老朋友，我们应该立即派出以常委率队的工作组，连夜率队赶赴伦敦，对他们进行帮扶指导，认真开展两学一做，扎实推进三严三实，着力提高伦敦人民的党性修养。</p>
-<p>@天涯赵瑜：鄙视卡梅伦及其政府，平时都不会养一点五毛吗？</p>
-<p>@中国作家刘信达：【台湾若公投，民众一定选择回归祖国！】台湾和大陆的关系，绝不是国与国的关系，也不是邻居关系。刘信达希望台湾效仿英国，举行公投，刘信达相信，公投结果一定是，100%台湾民众选择回归祖国！说实话，欧盟对于英国，可有可无，而祖国对于台湾，却是望眼欲穿的。蔡英文，刘信达问你，你敢开放公投吗？</p>
-<p>@新范克刚：在英国国民投票之前，无论是支持留欧的，还是支持脱欧的。他们对离开，留下的利弊应该会有一个较为清醒的认识吧，因为英国国民普遍接受教育的程度较高，而且人家的各类媒体谈起这个问题是没有禁忌的。留下，离开受影响最深的还是英国自己的国民吧。既然是民意所为，我们外人就看是好是坏吧。</p>
-<p>@hnjhj：环球时报：“英独”宣布脱欧，猖狂全球无双。</p>
-<p>@starvii：国内对公投独立敏感的要死，前几天的国内新闻里采访的路人都是留欧派，营造一种一小部分分裂分子妄图脱欧的气氛。现在网易新闻什么的头条都没上，角落里都是欧盟虽不完美但没那么不堪，如果脱欧英国大学生将面临失业之类的新闻。</p>
-<p>@shangguanluan：哎，早知道这样，上次在英国，就不背那么长的菜名了。</p>
-<p>@hnjhj：英国人不想跟一帮穷逼绑一起；上海人不想跟乡下人绑一起，本质都是一样的。当然你得首先有选票，不然就是地域歧视。</p>
-<p>@GYTV：那包子帝前段时间在英国撒的钱，意义是不是没那么重大了？</p>
-<p>@GYTV：能清楚地、前瞻地、大局观地看清局势的只有张召忠。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clszr4RUoAA7P7h.jpg?resize=550%2C319" alt="Clszr4RUoAA7P7h" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clszr4RUoAA7P7h.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clszr4RUoAA7P7h.jpg?resize=300%2C174 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>@jajia：脱欧不重要，重要的是脱华。 #早发早移</p>
-<p>@七彩铁矿：如果那个谁辞职，A股会不会来个8-10连涨停板。</p>
-<p>‏@lijiansion：“当首相干了这几年我也没有什么别的，大概三件事：一个，支持同性婚姻合法化；第二个，搞了个苏格兰独立公投留住了苏格兰；第三个，搞了个脱欧公投脱离了欧盟。主要的我就是三件事情，很惭愧，就做了一点微小的工作，谢谢大家。”——卡梅伦</p>
-<p>@素我行我行我素：一位没有分量的首相，不配领导人民前进!—望着破碎的电子秤，司令官轻蔑地说道</p>
-<p>@崔心-君应有语：老大干不好就辞职，人家不赖着位置不走，不像你家三胖，还有……</p>
-<p>@俏巴的洋子：什么是脱欧？通俗一点说就是起初几个大佬（英法德意）建了个微信群，没事发发红包，互惠互利，后来进群的小弟越来越多，只抢不发，大佬不高兴了，现在这世道，地主家也没余粮啦，于是有个大佬叫英国，退群啦，估计后面还有跟着退的，最后只剩几个不发红包的啦……</p>
-<p>@Chocolate004：卡梅伦应该弄个卡梅伦思想啊！让英国人民好好学学！</p>
-<p>@谦吾：英国如果有五毛肯定会说：那么喜欢欧盟滚出英国啊</p>
-<p>@我奉献还快乐：离开了祖国，你什么也不是！嗯哼</p>
-<p>@Sinakey：太丢人了！这不应该是拍个猪头就能决定的么！</p>
-<p>@渣打money1：看到英国人民能用选票决定自己国家的命运，想哭了。</p>
-<p>@铁木耳汗：怎么不下令公务员，军人，警察，事业单位人员必须投留欧票？不然就开除。替英国首相捉急。</p>
-<p>@设计爱好者孙宇：我们要是举行个脱共统治投票……想想就刺激……</p>
-<p>@爽风万里：在党和国家前途和命运的关键时刻，不能顾全大局，撂挑子，经研究决定，给予老卡同志党内严重警告处分。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A4%A7%E5%9B%BD%E6%9C%AA%E6%9D%A5%E7%AB%9F%E7%84%B6%E8%AE%A9%E4%BA%BA%E6%B0%91%E5%86%B3%E5%AE%9A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A1%E6%A2%85%E4%BC%A6/?category=18271" rel="tag">卡梅伦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%95%E7%A5%A8/?category=18271" rel="tag">投票</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AC%A7%E7%9B%9F/?category=18271" rel="tag">欧盟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B1%E6%AC%A7/?category=18271" rel="tag">脱欧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E5%85%AC%E6%8A%95/?category=18271" rel="tag">英国公投</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E7%89%A2%E9%AA%9A%E6%B8%85%E5%8D%95/" target="cdt-mirror">【立此存照】党员干部牢骚清单</a>
-</h2>
-<p><p><strong><a href="http://www.thepaper.cn/newsDetail_forward_1488190" target="_blank">央广网｜宁波发行口袋书提醒党员行为举止，列68项负面言行</a></strong></p>
-<blockquote><p>比如说第一页，一个人翘着二郎腿坐在凳子上，嘴上说：<strong>共产主义，说说的，实现得了啊。</strong>还有一个人面对着满墙的规矩，发牢骚说：<strong>规矩越来越多，要求越来越严，共产党这碗饭越来越难吃了。</strong>这些都是负面言行，身为党员干部要时刻注意不能说不能做。<br>
-[…]<br>
-记者也采访了一些基层干部，<strong>他们都觉得这样的负面言行在平常工作中也会遇到过，提醒很有必要</strong>。[…]</p>
-<p>记者注意到：<strong>这份提醒本在编制的过程中，经过了广泛的调研和征求意见。</strong>调研人员发现，一些村干部经常会说一些像“共产党员只晓得开会”之类的牢骚抱怨，也有一些干部对群众来反映问题不耐烦，顺口一说：我又不是领导，不要找我。这些话无意中就伤害了老百姓，造成干群关系紧张。这些列进去的言行，都是党员队伍中有可能会出现的，或者极少数党员中已经出现的。因此，<strong>把这些容易犯的负面言行拿出来，给大家做对照</strong>，就是要时时提醒党员干部，说合适的话，做合适的事。</p></blockquote>
-<p><strong><a href="http://ningbo.news.163.com/16/0624/11/BQAQE3FD03431AF0.html" target="_blank">钱江晚报｜宁波编印《机关党员干部负面言行提醒本》44条负面言语、24项负面行为 党员干部不能说不能做</a></strong></p>
-<blockquote><p>《机关党员干部负面言行提醒本》包括44条负面言语、24项负面行为，涵盖政治规矩、工作作风、群众纪律、生活作风、学风等5个方面，以图文并茂的形式，将党员干部日常工作生活中<strong>常见的负面言行以“清单”方式一一列出</strong>，让负面言行亮丑现行，人戒人畏。</p>
-<p>据了解，今后如果党员干部被发现存在提醒本上的负面言行，将会被领导约谈，甚至可能影响到个人考评。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/718fe88b0d7e49338211f6849531e57f20160624110707.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/718fe88b0d7e49338211f6849531e57f20160624110707.jpg?resize=400%2C533" alt="718fe88b0d7e49338211f6849531e57f20160624110707" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/718fe88b0d7e49338211f6849531e57f20160624110707.jpg?w=720 720w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/718fe88b0d7e49338211f6849531e57f20160624110707.jpg?resize=225%2C300 225w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/97e70fa401cb4cfcbd2f894bcae362bf20160624110711.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/97e70fa401cb4cfcbd2f894bcae362bf20160624110711.jpg?resize=500%2C375" alt="97e70fa401cb4cfcbd2f894bcae362bf20160624110711" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/97e70fa401cb4cfcbd2f894bcae362bf20160624110711.jpg?w=720 720w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/97e70fa401cb4cfcbd2f894bcae362bf20160624110711.jpg?resize=300%2C225 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/38f83eb4dcae41bd9b5a91e54aa8d76820160624110708.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/38f83eb4dcae41bd9b5a91e54aa8d76820160624110708.jpg?resize=500%2C375" alt="38f83eb4dcae41bd9b5a91e54aa8d76820160624110708" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/38f83eb4dcae41bd9b5a91e54aa8d76820160624110708.jpg?w=720 720w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/38f83eb4dcae41bd9b5a91e54aa8d76820160624110708.jpg?resize=300%2C225 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>“政治是领导们关心的事，我们小兵一个，就是拿份工资养家糊口，把活干干好就行了。”</p>
-<p>“有事最好不要找我，我又不想提拔”</p>
-<p>“你这个事情不归我们管，你问我我也不知道”</p>
-<p>“过年过节啥也不发了，年夜饭也没得吃了，搞的人情味也没了。”</p>
-<p>“什么反腐败、讲规矩，都搞了这么多年了，还不是一阵风的事情，熬个两年，风头过了就好。”</p>
-<p>“就这么点工资，加什么班啊，工作明天再说，活是永远干不完的。”</p>
-<p>“这种吃力不讨好的事还是少干为妙，干好了领导不会说我好，干砸了还要挨骂，能推还是推掉上算。”</p>
-<p>“这件事领导没跟我说过，我不清楚，等领导要求了再说。”</p>
-<p>“现在老百姓越来越难弄了，能不接触还是不接触的好。”</p>
-<p>“走亲连心嘛，也就图个形式，到过了就好了，我们又没有那个能力真的帮助解决问题。”</p>
-<p>“这个你们最好向上面反映，这样上面才会重视，跟我们说说没用的，我们也就是个办事的。”</p>
-<p>“跟你说话怎么说不灵清的，好了，不要再讲了，你的事情我们已经知道了，有消息会通知你的。”</p></blockquote>
-<p><strong><a href="http://www.360doc.com/content/15/1217/22/29415208_521172600.shtml" target="_blank">“有种你去告我”、“我很忙”再对群众说这种话要被处分啦!</a></strong></p>
-<blockquote><p>类似问题严重影响公职人员形象，必须改！这不，<strong>余姚市纪委</strong>就从村官抓起，为村官罗列了108种负面语言清单和36项不能做的负面行为清单。快来看看负面清单长啥样！<br>
-[…]根据规定，对出现负面言行2次以下的村（社区）干部，由联村（社区）组长进行提醒；对情节严重或出现2次以上的，由镇党委主要领导约谈；引起村（居）民上访的，由镇纪委诫勉谈话，甚至党纪处分。提醒谈话内容记录在案，作为年度量化考核的项目。<span></span></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/63163977_2.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/63163977_2.jpg?resize=450%2C723" alt="63163977_2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/63163977_2.jpg?w=1295 1295w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/63163977_2.jpg?resize=187%2C300 187w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/63163977_2.jpg?resize=768%2C1234 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/63163977_2.jpg?resize=638%2C1024 638w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p></blockquote>
-<p><strong><a href="http://www.cnzjmsa.gov.cn/hsyw/nbhsyw/201606/t20160603_437919.html" target="_blank">宁波海事局列出“负面言行清单”为党员干部立规矩</a></strong></p>
-<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/W020160603527700431272.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/W020160603527700431272.jpg?resize=500%2C331" alt="W020160603527700431272" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/W020160603527700431272.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/W020160603527700431272.jpg?resize=300%2C199 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p></blockquote>
-<p><strong><a href="http://weibo.com/3617208677/DqBdolpTR" target="_blank">江苏省常熟市委组织部官方微博：虞山镇制定实施“村干部负面言行清单”制度</a></strong></p>
-<blockquote><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d79a3965gw1f2tqrrwsw6j20fd0bj0ux.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d79a3965gw1f2tqrrwsw6j20fd0bj0ux.jpg?resize=500%2C375" alt="d79a3965gw1f2tqrrwsw6j20fd0bj0ux" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d79a3965gw1f2tqrrwsw6j20fd0bj0ux.jpg?w=553 553w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d79a3965gw1f2tqrrwsw6j20fd0bj0ux.jpg?resize=300%2C225 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p></blockquote>
-<p><strong><a href="http://www.panb.gov.cn/html/6/2016-01-18/content-16313.html" target="_blank">平安宁波网｜宁波市中级人民法院制作“提醒本”规范干警言行</a></strong></p>
-<blockquote><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1f146a8f867fab48.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1f146a8f867fab48.jpg?resize=500%2C402" alt="1f146a8f867fab48" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1f146a8f867fab48.jpg?w=1086 1086w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1f146a8f867fab48.jpg?resize=300%2C241 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1f146a8f867fab48.jpg?resize=768%2C618 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1f146a8f867fab48.jpg?resize=1024%2C824 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E7%89%A2%E9%AA%9A%E6%B8%85%E5%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%AD%A6%E4%B8%80%E5%81%9A/?category=18271" rel="tag">两学一做</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%91%98/?category=18271" rel="tag">中共党员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E6%80%A7%E6%95%99%E8%82%B2/?category=18271" rel="tag">党性教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%8A%A1%E5%91%98/?category=18271" rel="tag">公务员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -816,7 +831,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%AD%A6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -826,5 +841,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%AD%A6
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

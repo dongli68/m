@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,23 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E8%8B%B1%E5%9B%BD%E5%85%AC%E6%8A%95%E8%84%B1%E6%AC%A7%E5%92%8C%E6%B9%96%E5%8D%97%E5%AE%A2%E8%BF%90%E5%A4%A7%E5%B7%B4%E7%81%AB%E7%81%BE/" target="cdt-mirror">【真理部】英国公投脱欧和湖南客运大巴火灾</a>
+</h2>
+<p><p>1、关于英国公投脱欧一事，即日起各网站、新媒体平台控制报道规模，减少报道数量，不炒作、不猜测、不评论。 </p>
+<p>2、关于26日上午湖南宜凤高速一辆客运大巴车发生火灾造成重大伤亡事件，各媒体依照当地权威部门信息发布进行报道，不渲染、不派记者赴前方采访。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E8%8B%B1%E5%9B%BD%E5%85%AC%E6%8A%95%E8%84%B1%E6%AC%A7%E5%92%8C%E6%B9%96%E5%8D%97%E5%AE%A2%E8%BF%90%E5%A4%A7%E5%B7%B4%E7%81%AB%E7%81%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91/" target="cdt-mirror">【异闻观止】网络反共反华组织曝光 或与秦火火有关</a>
 </h2>
 <p><p><strong>数字时代编辑注：</strong>本文为察网中国独家投稿(www.cwzg.cn)（原站如此注明），关于此站，其首页官方简介如下：</p>
@@ -797,29 +811,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%9D%9E%E6%96%B0%E9%97%BB%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%8D%A2%E6%98%B1%E5%AE%87%E5%8F%8A%E5%A5%B3%E5%8F%8B%E9%81%AD%E4%BA%91%E5%8D%97/" target="cdt-mirror">自由亚洲｜“非新闻”创办人卢昱宇及女友遭云南警方拘留</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-1.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-1.jpg?resize=575%2C432" alt="image" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-1.jpg?w=622 622w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-1.jpg?resize=300%2C225 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2016年6月23日，认识卢昱宇的网友，向其女友李婷玉的父亲（右）了解情况。（现场人士摄）</span></p></div>
-<p>失联多日的著名推特网友“非新闻”作者卢昱宇的女友李婷玉，被证实已被当局以“寻衅滋事罪”刑事拘留，家人收到了拘留通知书，一同失联的卢昱宇或同遭刑拘。</p>
-<p>自6月15日失联的卢昱宇及其女友李婷玉24日传来消息，李婷玉的父亲上午收到拘留通知书，女儿于6月16日下午4点被当局以“寻衅滋事罪”抓捕，羁押在云南大理州看守所内。</p>
-<p>曾于23日探访李婷玉父亲的公民黄永祥24日接受本台采访时表示，李婷玉不仅是卢昱宇的女友，也是其助手，推测一同被捕的卢昱宇与李婷玉关押在同一个地方。</p>
-<p>黄永祥：“他们两个是一起抓的，肯定也是关在大理，据我们的推测。因为他的女朋友也是他的助手，但是卢昱宇那里我们还没找到他的家人，不敢确定，但是应该是关在一起的。”</p>
-<p>记者：“他的女朋友家里是早上收到的刑拘通知书是吗？”</p>
-<p>黄永祥：“对，今天早上收到的。”</p>
-<p>本台记者随即致电大理州看守所，对方表示无法提供查询服务。</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%8C%97%E9%A3%8E%E6%8E%A8%E7%89%B9.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%8C%97%E9%A3%8E%E6%8E%A8%E7%89%B9.jpg?resize=550%2C423" alt="北风推特" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/北风推特.jpg?w=1536 1536w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/北风推特.jpg?resize=300%2C231 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/北风推特.jpg?resize=768%2C591 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/北风推特.jpg?resize=1024%2C787 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>北风 @wenyunchao 推特截图</span></p></div>
-<p>近几年来，卢昱宇在推特上以“非新闻”的网名统计、发布中国的群体性事件，仅2015年通过”非新闻“记录的发生在中国的游行、示威、集会、罢工等事件就多达28950起。</p>
-<p>黄永祥认为，毫无疑问，当局抓捕卢昱宇是政治迫害。</p>
-<p>”这个肯定是当局对披露中国这种现状的人的一种报复，这是肯定的。因为他这几年来都在收集中国的群体性事件，反映了国内这种抗争的情况，他的统计是很具有代表性的。“</p>
-<p>国际人权组织国际特赦24日发布紧急行动声明，声明说：两名内地知名博主卢昱宇及女友自6月15日起失联，可能已被刑拘，面临酷刑虐待的风险。国际特赦组织呼吁中国政府立即无条件释放两人，而不是因为他们行使言论自由权而打压他们。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E9%9D%9E%E6%96%B0%E9%97%BB%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%8D%A2%E6%98%B1%E5%AE%87%E5%8F%8A%E5%A5%B3%E5%8F%8B%E9%81%AD%E4%BA%91%E5%8D%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%98%B1%E5%AE%87/?category=18271" rel="tag">卢昱宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%96%B0%E9%97%BB/?category=18271" rel="tag">非新闻</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -831,7 +822,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -841,5 +832,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B1%9F%E6%A3%8B%E7%94%9F%EF%BC%9A%E8%A2%AB%E8%BF%AB%E6%B2%89%E9%BB%98%EF%BC%9A%E8%87%AA%E7%94%B1%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%8D%E8%87%AA%E7%94%B1/" target="cdt-mirror">自由亚洲｜江棋生：被迫沉默：自由，还是不自由？</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-2.jpg?resize=550%2C431" alt="image" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-2.jpg?w=597 597w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-2.jpg?resize=300%2C235 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>江棋生先生资料照（江棋生提供）</p>
+<p>我不曾想到，由钱杨话题所激起的公共论辩，会是那么热闹和较真。我也不曾想到，这场论辩会引发我持续的关注和思索，并最终出现难于遏制的冲动，要将悟到的东西拿出来与人分享——在这篇短文中，我将通过对“被迫沉默”这个概念的聚焦，来言说自己的感悟。</p>
+<p>何谓本文的“被迫沉默”？本文所言及的“沉默”，专指人们对公共事务的沉默，即政治性沉默。而所谓“被迫”，则是特指由权力压制所造成的“想说而不敢说”、“敢怒而不敢言”。因此，这里说的“被迫沉默”，乃是一种由制度造成的政治性沉默，可简称为“迫默”。</p>
+<p>首先，我赞成不应苛责迫默者。他们不是恶人、坏人。在人品上，他们比只知歌德、颂圣的媚权小人要高出一大截；比一般的五毛、自干五和说假话的新左派们也高出一个及数个档次。他们的沉默，是好人无奈的沉默。他们的沉默，虽有亏天良，但显然不应被责为卑鄙无耻。</p>
+<p>同时我认为，也不应为迫默者作过当的辩护。对迫默者怀有同情的理解，说他们不是勇者，比较犬儒，是恰当的辩护。然而，把他们无视“房间里有大象”的明哲保身，赞为具有“识时务的智慧和耐力”，则显然失当了。不过在我看来，在这场公共论辩中最为过当的辩护和最为失范的回护，乃是声称他们的迫默，是理所当然地享有沉默的自由，是行使自主生活的权利；而批评他们的迫默，就是侵犯其沉默的权利——这种辩护真的太过了，过得远非一星半点。</p>
+<p>一个人对公共事务有话想说，但出于对权势迫害的恐惧而不敢说，这叫失去说话的自由。怎么能把这种生存状态，说成是享有“不说话的自由”或“沉默的自由”？这不是把事实说得满拧了吗？很明显，在这种被迫沉默的生存状态中，没有自由，只有不自由。同理，一个人闻鸡起舞，一大早去法院“依法”申请旁听，但被法院蒙骗戏弄而无法旁听，这叫失去旁听的自由，而不是享有不旁听的自由。类似地，有人手持宪法去公安局申请游行，但被刻意“不准”而无法如愿，这叫失去游行示威的自由，而不是享有不游行宅在家里的自由。还有，一个人不信邪，偏要“依法”独立参选，但在权力重重阻挠下而不能实现，这叫失去被选举权，而不是享有不参选权。再比如，在报禁和党禁之下，人们不能同人办报，不能合法组建反对党，这叫失去出版自由和结社自由，而不是享有不出版、不组党的自由。总而言之，一个人因屈从而不发声，一个人被迫“不公共”，一个人无奈“不问世事，躲进小楼成一统”，这种憋屈、窝囊的活法就是不自由，而不是行使所谓的“自主生活权利”，享有什么“沉默的自由”、“不公共的自由”及“不问世事，躲进小楼成一统的自由”。</p>
+<p>明乎此，则萧瀚先生“维护钱杨沉默的自由，就是维护每个人自我选择的自由”，“维护钱杨沉默的自由，也是维护每个人按照自己的兴趣无害他人选择生活的自由，只有尊重这样的自由，才会有一个哥特建筑、巴洛克建筑、洛可可建筑……多样纷呈的世界，而不是只盖了一幢大灰楼的世界”云云，也就失去根底、无从谈起了。</p>
+<p>享有自由的活法，是有资格心安理得、不怀愧疚的，是有理由不被干预不受打扰的。而失去自由的活法，恐怕就不能免于自责，免于反思，免于点名或不点名的批评。当然，自责、反思和批评之目的，是使沉默的大多数慢慢把腰杆挺起来，一步步更好地做到：呼唤良知，打破沉默；拒绝谎言，说出真话。</p>
+<p>好人的迫默，与公民自主享有沉默权，完全是两码事（对此议题，本文不赘）。好人的迫默，是一种可悲、屈辱的存在。而在良心的驱动下打破沉默，则是从降志辱身走向赢得尊严，从依附人格走向独立人格。这里，我不想提“不自由，毋宁死”，也不想提胡适的“宁鸣而死，不默而生”。我想提出这样八个字：应鸣而尊，不默而辱。自由不是免费的，权利决非白来的，尊严是要捍卫的。古今中外，要将权利被践踏的活法换为享有权利的活法，最不能或缺的，是个体自身的觉醒、抗争和付出。指望和依仗救世主或神仙、菩萨等超自然力量，不靠谱。</p>
+<p>此外，我不想讳言，好人的迫默固然是制度性侵害的明显体现，但是，好人的迫默，也起到了为强权压制“添砖加瓦”的作用（刘瑜语，见她的《沉默不是金》）。换句话说，好人的迫默表明：“我们大家多多少少对这部极权机器之得以运行负有责任。我们当中没有一个人仅仅是这部机器的受害者。要知道它之所以能运行，我们每个人都曾出了一份力。”（哈维尔语，见他的总统就职演说：《人民，你们的政府还给你们了》）。由此不难知晓，好人的迫默，是不应被赞为“独善其身”的。好人的迫默，自然更与“上善若水”八杆子挨不着。而好人在迫默中逝去，也实在称不上什么“完美的谢幕”。</p>
+<p>最新一期即2016年第6期《炎黄春秋》杂志上，刊有束星北的小女儿束美新口述的一篇文章，题目是：束星北的家人和友人。从那篇九千字长文中，我特意撷取一小段，照录如下：</p>
+<p>父亲去世后，我和王淦昌一直保持联系。1990年代中期的一天，我到他家，闲谈中我感慨道：“王伯伯，我父亲要有你一半会做人就好了，他也不会摔这么一大跤！”谁知他的脸当场就板了下来，严肃地说：“不对，你父亲说了我们想说而不敢说的话，做出了我们想做而不敢做的事。”他还说，有些人大代表和政协委员开会，就是举举手，鼓鼓掌，吃两顿好饭而已。</p>
+<p>物理学家王淦昌先生是我的常熟老乡，我曾经和他有过零距离的亲密接触和交往。束美新所忆及的王淦昌，真实可信。王淦昌亲身体悟到，“想说而不敢说”的做人，是可叹的苟且，不是可取的活法。他心中所向往的，是每个中国人在良法所标示的自由边界之内，都有权说出自己想说的话，做自己想做的事。而事实上，国人如何做人与国家往何处去，是紧密相关的。像王淦昌那样有敢言之心的国人，和像束星北那样有风骨的敢言者越来越多的过程，正是极权社会的中国走向后极权社会的过程。</p>
+<p>不要小看说真话的力量，尤其是，不要小看好好说真话的力量。我深信，随着中华大地上的被迫沉默者越来越少、敢言善道者越来越多，中国的后极权社会就既不会通过什么“第二次文革”退回到极权社会，也决不会是什么金刚不败之身时日良多——它被宪政民主社会所取代，虽说不会在一年半载之内发生，但肯定是早早晚晚的事。</p>
+<p>2016年6月23—24日于北京家中</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B1%9F%E6%A3%8B%E7%94%9F%EF%BC%9A%E8%A2%AB%E8%BF%AB%E6%B2%89%E9%BB%98%EF%BC%9A%E8%87%AA%E7%94%B1%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%8D%E8%87%AA%E7%94%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9F%E6%98%9F%E5%8C%97/?category=18271" rel="tag">束星北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%A3%8B%E7%94%9F/?category=18271" rel="tag">江棋生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%B4%E7%9C%9F%E8%AF%9D/?category=18271" rel="tag">说真话</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%AE%E8%A7%86%E4%B8%A4%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%85%88%E5%90%8E%E8%AF%B7%E8%BE%9E%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98-%E4%BC%A0%E5%88%86%E5%88%AB/" target="cdt-mirror">法广｜央视两女主播先后请辞全国政协委员 传分别与周徐有关</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?resize=550%2C310" alt="1389536796_8c49" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?w=1024 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?resize=768%2C434 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
@@ -65,7 +93,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91/" target="cdt-mirror">【异闻观止】网络反共反华组织曝光 或与秦火火有关</a>
 </h2>
@@ -748,52 +776,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91-%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E5%A5%BD%E5%BF%BD%E6%82%A0%E7%9A%84%E4%B8%8D%E5%B0%91/" target="cdt-mirror">博谈网 | 〖兲朝浮世绘〗这届人民不好忽悠的不少…</a>
-</h2>
-<p><p>1.【见过IS的绑架视频中人质怎么说话吗？】</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-%E4%B8%8B%E5%8D%888.28.40.png?resize=475%2C335" alt="Screen Shot 2016-06-24 at 下午8.28.40" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-下午8.28.40.png?w=475 475w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-下午8.28.40.png?resize=300%2C212 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></p>
-<p>汕尾市政府播放林祖恋认罪视频，已被免去乌坎村党总支部书记。官媒说近日有网友发帖称，林祖恋插手乌坎学校塑胶跑道工程，42万元跑道拿了8万元回扣。检方称已收到线索并展开初查。此前检方曾通报，林祖恋在民生工程项目中涉嫌受贿，数额巨大。——抓了别人孙子威胁，让人家电视认罪，居然还腆着脸说自己国家是人权是历史上最好的时代。尽情的愚弄吧 只会让老百姓越来越看清楚你们的真面目！//网友：老套路！看稿子念！敢让他去香港吗？抓了他的孙子！他以为断绝关系就没事了！可他没想过这个社会多么黑暗！还是可以拿亲情要挟你！有媒体竟然说是香港媒体记者鼓动策划了不明真相的群众！这是一点脸也不要了！</p>
-<p>2.【政府这边推高房价，那边忽悠农民接盘】</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-%E4%B8%8B%E5%8D%888.29.12.png?resize=524%2C332" alt="Screen Shot 2016-06-24 at 下午8.29.12" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-下午8.29.12.png?w=524 524w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-下午8.29.12.png?resize=300%2C190 300w" sizes="(max-width: 524px) 100vw, 524px" data-recalc-dims="1"></p>
-<p>新华网：为推进去库存，促进房地产市场稳定发展，安徽省近日出台系列政策，其中鼓励农民进城购房落户，对自愿将宅基地退还给农村集体经济组织的，县政府按每亩不低于5万元给予奖励。——网友：不要脸，一亩地667平米，一般家庭宅基地面积不超过150平米，最多四分之一亩，补偿最多1.25万，库存多干嘛不降价，就知道坑农民！！！引诱诚实善良的收支不均的农民进城购买高价房于心何忍？还有，让农民进城喝西北风？</p>
-<p>3.【英国退欧：李嘉诚旗下公司暴跌】</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-%E4%B8%8B%E5%8D%888.29.35.png?resize=525%2C264" alt="Screen Shot 2016-06-24 at 下午8.29.35" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-下午8.29.35.png?w=525 525w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-下午8.29.35.png?resize=300%2C151 300w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></p>
-<p>2000年开始,李嘉诚旗下公司开始增加对英投资,布局电信、电网、管道、港口、铁路、地产等领域。有报道称李嘉诚在英总投资已达520亿美元,被夸张称为”买下英国”。截至收盘,长江基建跌5.477%，长和跌5.074%，电能实业跌4.762%，均高于当日恒指跌幅。——确实缩水了，但他起码不会像某些企业家一样天天担心自己什么时候成下一个吴英或者是曾成杰。。</p>
-<p>4.【卡梅伦宣布辞职时说了什么？】</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-%E4%B8%8B%E5%8D%888.30.06.png?resize=474%2C574" alt="Screen Shot 2016-06-24 at 下午8.30.06" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-下午8.30.06.png?w=474 474w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-24-at-下午8.30.06.png?resize=248%2C300 248w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"></p>
-<p>英国公投决定脱离欧盟，首相卡梅伦当地时间6月24日上午发表演讲，宣布将辞职。他说到，“我一直坚信留欧对英国发展更好，但既然人民选择脱欧，我实在不知道怎么继续作为首相领导这个国家。”——这要是在兲朝，领导人们死也不会辞职的吧？@余翁芷诺03：英国公投脱欧，首相卡梅伦宣布辞职，震惊之余，感触：一，这届英国政府不行，怎么允许公投？ 二，这届英国首相脸皮不够厚，辞职辞哪门子职？三，辞职指定接班人了吗？四，这届英国首相傻缺，俄罗斯二人转学不会。。//凡人乐与悲：没有自主选择权的屁民很难理解这种民主的，甚至会鄙视这种民主，认为太过依靠民主民意而将国家带入错误方向，但这些人实际上只是从自己立场去思考问题，而不是站在英国人立场去衡量脱还是不脱，既然过半的英国人投票选择了脱，那自然有他们脱的理由，无论如何，这至少是他们自己的选择，而不是被代表！</p>
-<p>5.【非洲最大产油国倒下 尼日利亚货币“崩盘”暴跌40%】</p>
-<p><img src="https://i2.wp.com/botanwang.com/sites/default/files/images/61e04755jw1f53xjqyx46j20ca06974q.jpg?ssl=1" alt="" data-recalc-dims="1"></p>
-<p>20日开始，非洲最大产油国尼日利亚，本国货币奈拉已贬值超40%。尼日利亚央行15日宣布，6月20日起，放弃奈拉对美元的自由浮动汇率机制，此举引发奈拉大幅贬值。今年4月12日，尼日利亚曾与中国达成60亿美元贷款和货币互换协议。——这笔60亿美元的贷款是不是又一次打了水漂了？中共怎么老是做赔本买卖啊？拿这60亿美元去江苏盐城赈灾还用得着让大家给政府捐款吗？</p>
-<p>6.【这届人民不好忽悠的不少…】</p>
-<p><img src="https://i0.wp.com/botanwang.com/sites/default/files/images/005Jtd1Ajw1f568zvtni6j30hs0u0go5.jpg?ssl=1" alt="" data-recalc-dims="1"><img src="https://i1.wp.com/botanwang.com/sites/default/files/images/005Jtd1Ajw1f568zxdm81j30hs0u5diu.jpg?ssl=1" alt="" data-recalc-dims="1"><img src="https://i1.wp.com/botanwang.com/sites/default/files/images/005Jtd1Ajw1f569022bvpj30hs0uejuh.jpg?ssl=1" alt="" data-recalc-dims="1"></p>
-<p>6月23日下午，江苏省盐城市阜宁县、射阳县部分乡镇遭受龙卷风冰雹灾害，造成重大人员伤亡。对此，江苏省民政厅发布盐城阜宁等地龙卷风灾害接收捐赠账号。——网友：政府一上来就要钱，我有点接受不了。//委内瑞拉四千亿人民币够多少次受灾捐赠的？//虽然我也是那儿的人，但我想多嘴说一句，政府不是挺有钱么，为什么每次都让普通人捐款？江苏又是经济大省。//至少做点工作再想着募捐吧，一上来就要百姓捐款。//灾前不作为，灾后让大家捐款赈灾，老百姓纳税养的这些官员有什么用？//要钱真是快啊！有个灾成了你赚钱的手段了，承德也冰雹了也没见人开账户！！//@作家岳南:人民已经觉醒，人心已经合拢，既得利益集团忽悠阿Q的时代已是强弩之末了。</p>
-<p>7.【龙卷风后老太怀抱孩子痛哭：起来吃东西啊】</p>
-<p><img src="https://i2.wp.com/botanwang.com/sites/default/files/images/61ff32dejw1f562ai7xw8g208w06otyg.gif?ssl=1" alt="" data-recalc-dims="1"><img src="https://i1.wp.com/botanwang.com/sites/default/files/images/61ff32dejw1f562aifvfog208s062apw.gif?ssl=1" alt="" data-recalc-dims="1"></p>
-<p>盐城龙卷风过后，房屋塌碎一地，一位老太坐在废墟上，一边摇着怀里几岁大的孩子一边用方言呼喊。搜狐新闻请盐城当地人翻译得知，她说的是“（起来）吃好东西啊，小心（肝宝贝）啊”。身旁，另一亲戚也说“去我舅奶家，吃好东西哦。”然而孩子毫无反应。阜宁县陈良镇新涂村村民周庆春回忆，23号下午2点多，他看到刮起大风，便想去后屋看看老母亲，结果刚出家门就被大风吹到半空中。大风卷席下，各种碎片杂物像子弹一样扎进他的后背……中国气象局24日表示，目前尚无法对龙卷风进行准确监测和预报。由于龙卷风时空尺度很小，在现有观测网密度下很难精确发现，对龙卷风最大风力及影响程度多数是通过灾后调查确定的。目前只有美国和加拿大发布龙卷风预警，也仅能提前几分钟到十几分钟。</p>
-<p>8.【同一个编辑，同一个梦想】</p>
-<p><img src="https://i0.wp.com/botanwang.com/sites/default/files/images/006s5yoogw1f567mf1ugoj30k01m2jzx.jpg?ssl=1" alt="" data-recalc-dims="1"></p>
-<p>如今每天的头条都一个内容，所有的官媒都没有把盐城的事放在头条，人民在他们眼里啥都不是，这个国家什么时候才能把人民的生命放在首位呢？</p>
-<p>9.【卖个酒也能被安上煽颠罪】</p>
-<p><img src="https://i0.wp.com/botanwang.com/sites/default/files/images/1466692116_e656.jpg?ssl=1" alt="" data-recalc-dims="1"></p>
-<p>四川成都“六四酒案”不断发酵拉人，至今已有最少4人被抓，其中3人涉“煽动颠覆国家政权罪”。最近被带走的是系狱民运人士陈卫的孪生弟弟陈兵。而80后女诗人马青因涉案被拘查近月后，于前日取保获释。马青因在网上参与符海陆“铭记八酒(九的普通话谐音)六四”酒的宣传推广，于5月27日晚被警察从成都家中戴上手拷带走，次日又满脸浮肿被警察押回家搜查。在关押近一个月后马青取保获释。但本案的符海陆、张隽勇、罗富誉仍被当局拘查中。</p>
-<p>10.【素质较差？高雄一酒店宣布7月起不再接待陆客团】</p>
-<p><img src="https://i2.wp.com/botanwang.com/sites/default/files/images/625ab309gw1f56ka4yxe0j20go0cimzi.jpg?ssl=1" alt="" data-recalc-dims="1"></p>
-<p>观察者网：位于台湾高雄前金区的“HOTEL WO”饭店6月22日宣布，由于陆客团“素质较差”，在他们退房后时常还得要修缮，因此从7月起将不再接陆客团。业者表示不舍弃近利，就不能成就大功，将把目标放至欧美、东亚客，熬过阵痛期。</p>
-<p>11.【8岁女孩报警称遭家暴“请把妈妈抓走”，其实是管太严】</p>
-<p><img src="https://i1.wp.com/botanwang.com/sites/default/files/images/005vnhZYgw1f5649hqzddj308c054t8n.jpg?ssl=1" alt="" data-recalc-dims="1"></p>
-<p>现代快报；“警察叔叔快来，妈妈打我，还要扔了我，已经把我的书包扔河里了。请你们把她抓走吧，她太凶了，我受不了啦！”到了孩子家，开门的妈妈哭笑不得。女儿乐乐承认说谎但抱怨，妈妈天天要她写作业，不给她看电视，经常逼她主动跟人打招呼，不准她吃楼下卖的烤肉臭干，饭粒掉在地上也会被数落……民警逗她：那把你妈妈抓走，永远不放回来，行吗？乐乐说，不行，教育几天就好了，正好让她把《熊出没》看完，如果一直不放回来，没人给她洗衣做饭了。</p>
-<p>12.【河南漯河医专学生到人体标本馆蹭空调】</p>
-<p><img src="https://i1.wp.com/botanwang.com/sites/default/files/images/6541fc49gw1f567wr97iyj20c80gaabd.jpg?ssl=1" alt="" data-recalc-dims="1"></p>
-<p>澎湃新闻：漯河医专的学生反映，最近天气炎热，宿舍没有空调和电扇，自己买的小电扇不顶用，图书馆空间又有限，不少学生不得不去生命科学馆蹭空调，与一大堆“人体标本”相伴复习。“虽然是学医的，但还是怕怕的”。校方回应将在学生公寓装空调。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91-%E3%80%96%E5%85%B2%E6%9C%9D%E6%B5%AE%E4%B8%96%E7%BB%98%E3%80%97%E8%BF%99%E5%B1%8A%E4%BA%BA%E6%B0%91%E4%B8%8D%E5%A5%BD%E5%BF%BD%E6%82%A0%E7%9A%84%E4%B8%8D%E5%B0%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F/?category=18271" rel="tag">江苏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E8%8B%8F%E9%BE%99%E5%8D%B7%E9%A3%8E/?category=18271" rel="tag">江苏龙卷风</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E5%85%AC%E6%8A%95/?category=18271" rel="tag">英国公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E8%84%B1%E6%AC%A7/?category=18271" rel="tag">英国脱欧</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -805,7 +787,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -815,5 +797,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%AE%E8%A7%86%E4%B8%A4%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%85%88%E5%90%8E%E8%AF%B7%E8%BE%9E%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98-%E4%BC%A0%E5%88%86%E5%88%AB/" target="cdt-mirror">法广｜央视两女主播先后请辞全国政协委员 传分别与周徐有关</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?resize=550%2C310" alt="1389536796_8c49" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?w=1024 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?resize=768%2C434 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
+网络流传的沈冰(左)叶迎春(右)照片</p>
+<p>6月24日，新华社报道，全国政协十二届常委会第十六次会议接受叶迎春请辞第十二届全国政协委员。</p>
+<p>根据北京方面的消息，叶迎春此次在政协委员五年一届任期未届满的情况下，“请辞”政协委员，当与她与去年5月份已被判无期徒刑的前政治局常委周永康的暧昧关系并因此接受调查有关。</p>
+<p>去年2月28日，十二届全国政协常委会第九次会议通过接受冯琳请辞全国政协委员的决定，北京消息则指出，作为央视军事节目主播的冯琳，与徐才厚有特殊关系。</p>
+<p>叶迎春、冯琳以“请辞”，而非如涉入多起案件的黑龙江籍全国政协委员刘迎霞一般被“撤销”全国政协委员职务，显示叶迎春、冯琳已平安落地，官方应该不会追究她的刑事责任。</p>
+<p>叶迎春的新浪微博更新止于2013年9月13日，发布自己主持“汉语桥”的信息，之后再无更新。传闻称，2014年1月12日，她涉案被中纪委带走，此后她在央视久未露面，也未通过任何渠道澄清去向。</p>
+<p>根据官方后来发布的信息，周永康案的追查，始于2013年12月1日，当时，中共中央政治局常委会决定开展核查，叶迎春应就是在当时的调查中被带走。</p>
+<p>叶迎春今年46岁，出生于江西景德镇，1991年进入景德镇电视台做主持人，1993年进入江西电视台，主持江西《新闻联播》，1994年考入了北京广播学院硕士班，1996年，开始在中国中央电视台《军事报道》栏目担任主持人。1998年硕士毕业后，正式进入中央电视台，主持《中国新闻》。</p>
+<p>去年辞任全国政协委员的冯琳1976年出生，原系解放军电视宣传中心军事新闻部播音组组长、军事专题部副主任、央视《军事报道》主播。</p>
+<p>在网络上流传的署名“解放军电视宣传中心干部”的举报信，指控冯琳“惯以色相与高层交易，获得不少利益”，换取全国政协委员、全国青联委员等头衔。</p>
+<p>根据这份举报信，冯琳因与徐才厚的关系，2014年被纪检部门多次调查，后被认定为“生活作风”问题，并未深究，转业并按程序辞去全国政协委员。</p>
+<p>徐才厚2012年11月在中共十八大后卸任中央军委副主席，2014年3月15日开始被调查，2015年3月15日，徐才厚因膀胱癌死亡。</p>
+<p>2013年2月，在官方公布的十二届全国政协委员名单中，叶迎春与冯琳等一同入选十二届全国政协委员。</p>
+<p>第二任妻子出身央视编导的周永康，一直有传闻说他对央视主播情有独钟，据北京消息，除了央视主播叶迎春外，前主播沈冰也卷入周永康案曾接受调查。</p>
+<p>沈冰，2001年进入央视，曾主持《对话》等多档节目，形象清新，2008年后，沈冰淡出央视，公开简历显示，沈冰自2009年2月起，担任中央政法委信息中心副主任，副厅级。</p>
+<p>目前官方没有发布沈冰下落的公开说法。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%AE%E8%A7%86%E4%B8%A4%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%85%88%E5%90%8E%E8%AF%B7%E8%BE%9E%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98-%E4%BC%A0%E5%88%86%E5%88%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=18271" rel="tag">CCTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E7%90%B3/?category=18271" rel="tag">冯琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B6%E8%BF%8E%E6%98%A5/?category=18271" rel="tag">叶迎春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D%E5%8E%9A/?category=18271" rel="tag">徐才厚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E5%86%B0/?category=18271" rel="tag">沈冰</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E8%8B%B1%E5%9B%BD%E5%85%AC%E6%8A%95%E8%84%B1%E6%AC%A7%E5%92%8C%E6%B9%96%E5%8D%97%E5%AE%A2%E8%BF%90%E5%A4%A7%E5%B7%B4%E7%81%AB%E7%81%BE/" target="cdt-mirror">【真理部】英国公投脱欧和湖南客运大巴火灾</a>
 </h2>
 <p><p>1、关于英国公投脱欧一事，即日起各网站、新媒体平台控制报道规模，减少报道数量，不炒作、不猜测、不评论。 </p>
@@ -36,7 +65,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91/" target="cdt-mirror">【异闻观止】网络反共反华组织曝光 或与秦火火有关</a>
 </h2>
@@ -138,7 +167,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/g20/?category=18271" rel="tag">g20</a>, <a href="https://chinadigitaltimes.net/chinese/tag/g20%E5%B3%B0%E4%BC%9A/?category=18271" rel="tag">G20峰会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">图说天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%AD%E5%B7%9E/?category=18271" rel="tag">杭州</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BA%91%E5%8D%97%E7%BB%B4%E6%9D%83%E4%BF%A1%E6%81%AF%E5%B9%B3%E5%8F%B0%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%8F%8A%E5%A5%B3%E5%8F%8B%E9%81%AD%E6%8B%98%E6%8D%95/" target="cdt-mirror">美国之音 | 云南维权信息平台创办人及女友遭拘捕</a>
 </h2>
@@ -765,52 +794,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%B0%81%E8%83%BD%E6%83%B3%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9B%A0%E4%B8%BA%E6%AF%92%E8%B7%91%E9%81%93%E8%A2%AB%E6%8A%93%E7%9A%84%E7%AB%9F/" target="cdt-mirror">【网络民议】谁能想到第一个因为毒跑道被抓的竟然是林村长</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B9%8C%E5%9D%8E%E7%A4%BA%E5%A8%8120160622.jpeg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%B9%8C%E5%9D%8E%E7%A4%BA%E5%A8%8120160622.jpeg?resize=575%2C432" alt="2016年6月22日，广东省乌坎村，一批小学生高举横额带头游行。（现场人士摄）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/乌坎示威20160622.jpeg?w=622 622w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/乌坎示威20160622.jpeg?resize=300%2C225 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a><p><span>2016年6月22日，乌坎村示威现场中的小学生；当地村民拒绝相信官方对林祖恋的指控。（图片来源：自由亚洲）</span></p></div>
-<p>2016年6月23日晚，汕尾市政府称有网民举报原乌坎村支书林祖恋从42万元的乌坎学校塑胶跑道工程中拿了8万元回扣，该市检察院<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%A0%BD%E8%B5%83%E9%83%BD%E7%B4%A7%E8%B7%9F%E7%83%AD%E7%82%B9%EF%BC%9A%E9%80%86%E6%88%91%E8%80%85%E6%AF%92%E8%B7%91%E9%81%93/" target="_blank">已对此进行初查</a>。</p>
-<p>2016年6月24日中午，短短不到一天的时间，汕尾检方即<a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B1%95%E5%B0%BE%E6%94%BF%E6%B3%95%E5%A7%94%EF%BC%9A%E6%B1%95%E5%B0%BE%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%E6%9C%89%E9%93%81%E5%B8%BD%E5%AD%90%E7%8E%8B-%E4%B9%9F%E4%B8%8D%E5%AE%B9/" target="_blank">宣布</a>林祖恋从乌坎学校跑道工程中收受回扣一事经查属实，林对此“供认不讳”。</p>
-<p>近日有大量北京小学生家长因学校“毒跑道”严重伤害孩子健康而展开<a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B6%89%E6%AF%92%E8%B7%91%E9%81%93%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%8C%97%E4%BA%AC%E5%AE%B6%E9%95%BF%E7%9A%84%E6%8A%97%E4%BA%89%EF%BC%9A%E5%A5%8B%E6%96%97%E5%A4%B1%E5%8E%BB%E4%BA%86%E6%84%8F%E4%B9%89/" target="_blank">集体维权</a>，经数月拉锯后，两所涉事学校虽同意铲除跑道，但仍坚称所用塑胶质量并无问题。相比之下，汕尾检方却能在不到一天之内就“毒跑道”对林祖恋从初查到定罪，令人匪夷所思。尽管有不少网民抱怨自己在相关新闻下的微博评论被删，但目前微博上能检索到的评论依然是对汕尾检方一边倒的质疑。</p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B1%95%E5%B0%BE%E6%94%BF%E6%B3%95%E5%A7%94%EF%BC%9A%E6%B1%95%E5%B0%BE%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%E6%9C%89%E9%93%81%E5%B8%BD%E5%AD%90%E7%8E%8B-%E4%B9%9F%E4%B8%8D%E5%AE%B9/">【异闻观止】汕尾政法委：汕尾绝不允许有“铁帽子王” 也不容许法外开恩</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%A0%BD%E8%B5%83%E9%83%BD%E7%B4%A7%E8%B7%9F%E7%83%AD%E7%82%B9%EF%BC%9A%E9%80%86%E6%88%91%E8%80%85%E6%AF%92%E8%B7%91%E9%81%93/" target="_blank">【网络民议】栽赃都紧跟热点：逆我者毒跑道</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8F%82%E4%B8%8E%E7%BD%91%EF%BD%9C%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E4%B8%8D%E7%94%A8%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D/">参与网｜玉品健律师：我为什么不顾一切的往陆丰冲</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%85%9A%E8%AF%B4%E4%BD%A0%E8%B4%AA%E6%B1%A1%E4%BD%A0%E5%B0%B1%E5%BE%97%E8%B4%AA%E6%B1%A1/">【网络民议】党说你贪污你就得贪污</a></li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1403751824" target="_blank">@沐春风过了无痕</a>：铁帽子王？？真鸡吧幽默<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p>@物联网戴晓峰：一个村官这就铁帽子王了？还在用这种低劣到让人发笑的手段，还把大众当愚民吧？我看真是没救了</p>
-<p><strong>@—刃上蜗牛：谁能想到第一个因为毒跑道被抓的竟然是林村长……呵呵</strong></p>
-<p>@阿南无弥：全中国的学校毒跑道问题当中，他是第一个被抓的！这帽子扣的！</p>
-<p><a href="http://weibo.com/2349078404" target="_blank">@火星人仰望</a>：这么多的毒跑道都没后闻，终于挖掘出来个“乌坎”<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1793015904" target="_blank">@弘扬僧伽吒经-陈先生</a>：我也要举报林,罪名如下：火烧圆明园，南京大屠杀，日本侵华，八国联军侵华，911，新疆7.5事件，和盐城龙卷风都是他干的<img title="[怒]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]" data-recalc-dims="1"><img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"><img title="[怒]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/7c/angrya_org.gif" alt="[怒]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1370126933" target="_blank">@郭里铮律师</a><i title="微博个人认证 "></i>：我举报：英国脱欧也是他干的！<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2266310650" target="_blank">@飞翔恋舞</a><i title="微博达人"></i>：龙卷风也是他弄得吧！<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">地震也是他弄得，每年的台风也是他！警察叔叔都是他<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2128108313" target="_blank">@longge09</a>：是不是国外还有套别墅<img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"></p>
-<p>@刘艳_财经评论员：常州和北京的跑道怎么说了？更何况是毒跑道……</p>
-<p>@城南靠北：盐城龙卷风也是这人搞得吧？</p>
-<p>@假装大诗人V：想问问小编A股是不是他做空的？毒疫苗的事和他有没有关系？英国脱欧是不是他背后捣鼓的？盐城刮那么大龙卷风是不是他在兴风作浪？有关部门是不是再查一下他有没有嫖过娼？今天读书看到俩字不认识请教下小编【无耻】</p>
-<p><strong>@贾泽生律师：村干部腐败应该查，中美州的那条河提供了那么多的犯罪线索是不是更应该查？可几个月过去了，不但一点动静都没有，连发的帖和有关的字眼都被和谐了。倒是把个不入品的村官查得风生水起，举世瞩目。</strong></p>
-<p>@追风的火山：8万叫巨资？？？某些官员贪污千万上亿的叫什么？宏资？</p>
-<p>@A-pell：我们想知道谁行的贿，抓起来没有？其二，林老先生现在可以聘请律师么？其三，他孙子还获得自由了嘛？最后，8万元与以吨计的现钞，谁是巨额么？</p>
-<p>@feilipusi123：某党是不是该下台了。这种诬陷的手段打算使多少次</p>
-<p>@手机用户2633801765：看评论，就知道封锁无效，</p>
-<p>@棒子粥走江湖：为什么动不动就禁转禁评？为什么？为什么？</p>
-<p>@首先要有钱：难怪这么多地方的毒跑道问题解决不了，原来都是那些大城市里没有村委书记。。。</p>
-<p><a href="http://weibo.com/1952948547" target="_blank">@妙妙Mina</a>：这些就是在跑道上奔跑的孩子，一放学就喊着还我书记，书记无罪，还我耕地……</p>
-<blockquote><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7467a143gw1f574uko5zpj20zk0npgrc.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7467a143gw1f574uko5zpj20zk0npgrc.jpg?resize=440%2C293" alt="7467a143gw1f574uko5zpj20zk0npgrc" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7467a143gw1f574uko5zpj20zk0npgrc.jpg?w=440 440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7467a143gw1f574uko5zpj20zk0npgrc.jpg?resize=300%2C200 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p></blockquote>
-<p><a href="http://weibo.com/5091712065" target="_blank">@viiviiviv</a>：为什么把评论删了？内心有鬼吗？</p>
-<blockquote><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/005yAiU9gw1f572newfz7j30qo1bedkf.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/005yAiU9gw1f572newfz7j30qo1bedkf.jpg?resize=400%2C711" alt="005yAiU9gw1f572newfz7j30qo1bedkf" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/005yAiU9gw1f572newfz7j30qo1bedkf.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/005yAiU9gw1f572newfz7j30qo1bedkf.jpg?resize=169%2C300 169w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p></blockquote>
-<p><strong>附新浪微博评论截图：</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B1%95%E5%B0%BE%E6%A3%80%E6%96%B9%E9%93%81%E5%B8%BD%E5%AD%90%E7%8E%8B.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B1%95%E5%B0%BE%E6%A3%80%E6%96%B9%E9%93%81%E5%B8%BD%E5%AD%90%E7%8E%8B.png?resize=550%2C2742" alt="汕尾检方铁帽子王" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/汕尾检方铁帽子王.png?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/汕尾检方铁帽子王.png?resize=60%2C300 60w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E8%B0%81%E8%83%BD%E6%83%B3%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9B%A0%E4%B8%BA%E6%AF%92%E8%B7%91%E9%81%93%E8%A2%AB%E6%8A%93%E7%9A%84%E7%AB%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%AA%E5%AE%A1%E5%85%88%E5%88%A4/?category=18271" rel="tag">未审先判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -822,7 +805,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -832,5 +815,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

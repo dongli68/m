@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,47 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%EF%BD%9C%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E4%B8%8E%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%85%B1%E5%90%8C%E8%AE%B0%E5%BF%86/" target="cdt-mirror">BBC ｜“狼牙山五壮士”与“中华民族共同记忆”</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351_.jpg?resize=320%2C180" alt="160628133637_langyashan_624x351_" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351_.jpg?w=320 320w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351_.jpg?resize=300%2C169 300w" sizes="(max-width: 320px) 100vw, 320px" data-recalc-dims="1"></p>
+<p>中共建政后，五壮士的事迹被编入国家义务教育教科书，成为小学语文课教材。1958年拍摄的电影《狼牙山五壮士》更让“五壮士”成为家喻户晓的人物。</p>
+<p>北京法院对“狼牙山五壮士”名誉侵权诉讼的宣判结果，可以说不出观察人士的预料。</p>
+<p>北京法院要求质疑“狼牙山五壮士”故事真实性的历史学者洪振快向“五壮士”的后人“赔礼道歉”。</p>
+<p>法院的判决说，对“狼牙山五壮士”历史真实的质疑，不但“伤害了原告的个人感情”，而且“伤害了社会公众的民族和历史情感，同时也损害了社会公共利益。”</p>
+<p>据此，法院一审判决洪振快“立即停止侵害”，并“在媒体上刊登公告”，向“五壮士”之中两人的儿子，原告葛长生和宋福保道歉并“消除影响”。</p>
+<p>“狼牙山五壮士”</p>
+<p>“狼牙山五壮士”，中共的官方版本可以简要概括为：在抗日战争时期，在河北省保定市易县狼牙山战斗中抗击日军的八路军5位英雄，在子弹打光后，用石块还击，最后宁死不屈，毁掉枪支后纵身跳下数十丈深的悬崖。马宝玉、胡德林、胡福才壮烈殉国；葛振林、宋学义被山腰的树枝挂住，幸免于难。</p>
+<p>中共建政后，五壮士的事迹被编入国家义务教育教科书，成为小学语文课教材。1958年拍摄的电影《狼牙山五壮士》更让“五壮士”成为家喻户晓的人物。五壮士被拔高到“当代中华民族抗击外敌入侵的民族英雄”的高度。</p>
+<p>“名誉侵权”的被告洪振快是《炎黄春秋》杂志前执行主编。他公开质疑“狼牙山五壮士”故事的许多历史细节。例如认为当时的情形并非如官方宣传的那样，是八路军与日军主动接战，而是退路被日军切断后，慌不择路，退至绝地。关于“跳崖”的描述，洪振快也认为，其中幸存的两人是“溜”、“滚”、“窜”，而不是主动跳崖。</p>
+<p>对“五壮士”故事的历史真实性的质疑也曾不断有人提出。比如，早在1994年7月，《长江日报》刊登了一篇文章，提出当时六班不是五个人，而是六个人，还有一位副班长，投敌被杀。1995年8月，《羊城晚报》上的一篇文章称，五壮士跳崖是“三跳二溜”，马宝玉等三人跳崖牺牲，葛振林、宋学义是“顺着崖壁溜了下去”。</p>
+<p>“名誉侵权”与“共同记忆”</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351__nocredit.jpg?resize=549%2C309" alt="160628133637_langyashan_624x351__nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351__nocredit.jpg?w=624 624w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351__nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>这是“狼牙山五壮士”幸存者葛振林（右）和宋学义（左），如今他俩都已逝世。新华社发</p>
+<p>值得注意的是，北京法院的判决并没有聚焦在洪振快的质疑是否有理有据，而是强调“‘狼牙山五壮士’及其精神，已经获得全民族的广泛认同，是中华民族共同记忆的一部分，是中华民族精神的内核之一，也是社会主义核心价值观的重要内容”。</p>
+<p>“狼牙山五壮士”是中共宣示自身抗日功绩的一面旗帜。在去年9月的“世界反法西斯战争胜利70周年”北京阅兵仪式中，“狼牙山五壮士”所属的今日部队的方队作为10个阅兵方队中的第一个方队出现，足见其地位。</p>
+<p>根据国民政府公布的材料，抗战期间国民政府的军队伤亡约323万人，其中阵亡近133万人。中共称，它在抗战期间领导的军队伤亡45万人，其中阵亡16万人。按照这两个数字比较，中共领导的军队伤亡不到国民政府军队的七分之一。</p>
+<p>然而，国民政府军队在正面战场上的8年抗战和英雄故事，在今日中国大陆的历史教科书中和电影电视剧里有多少体现？中共建政近70载的今天，生活在中国大陆的人对8年抗战的历史，除了中共官方的版本，人们还能读到什么？“中华民族的共同记忆”是如何形成的？</p>
+<p>“狼牙山五壮士”是中共宣示自身抗日功绩的一面旗帜。在去年9月的“世界反法西斯战争胜利70周年”北京阅兵仪式中，“狼牙山五壮士”所属的今日部队的方队作为10个阅兵方队中的第一个方队出现，足见其地位。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150903071933_cn_beijing_military_parade_sept03_honour_guards_640x360_afp_nocredit.jpg?resize=551%2C310" alt="150903071933_cn_beijing_military_parade_sept03_honour_guards_640x360_afp_nocredit" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150903071933_cn_beijing_military_parade_sept03_honour_guards_640x360_afp_nocredit.jpg?w=624 624w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150903071933_cn_beijing_military_parade_sept03_honour_guards_640x360_afp_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p>话语权</p>
+<p>最近十几年，随着社交媒体的发展，在言论相对自由的互联网上，中国大陆的老百姓对中共历史上塑造的英雄形象，包括黄继光、邱少云、“狼牙山五壮士”等，都曾提出质疑。这种质疑，既反映了老百姓了解历史真相的愿望，从更深层面，也反映了民意对中共宣传的不信任。</p>
+<p>北京法院的主审法官在宣判后接受官方新华社专访时的一段话，反映了当局对这桩“侵权”案背后的担忧：</p>
+<p>“需要指出的是，近年来质疑甚至抹黑英雄的言论甚嚣尘上，并通过网络得以广泛传播，影响不断扩大。这其中不乏有些人打着言论自由、学术自由的幌子，利用历史渐行渐远，利用历史资料之间记载的细节差别，片面强调所谓的人性和本能，进而歪曲、否定革命先烈的英雄事迹。”</p>
+<p>“狼牙山五壮士名誉侵权”诉讼，说到底，是中共英雄的历史真相谁说了算？</p>
+<p>诉讼案的宣判，作出了回答。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 围观就是力量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%EF%BD%9C%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E4%B8%8E%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%85%B1%E5%90%8C%E8%AE%B0%E5%BF%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB/?category=18271" rel="tag">狼牙山五壮士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%B1%E5%B0%91%E4%BA%91/?category=18271" rel="tag">邱少云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E7%BB%A7%E5%85%89/?category=18271" rel="tag">黄继光</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%96%E5%AA%92%E7%88%86%E6%96%99%E6%97%A0%E4%BA%BA%E4%BF%A1-%E9%99%86%E4%B8%B0%E5%BD%93%E5%B1%80%E5%BF%99%E5%88%A0%E8%AF%84%E8%AE%BA/" target="cdt-mirror">【立此存照】林祖恋案“外媒”爆料无人信 陆丰当局忙删评论</a>
 </h2>
 <p><p>陆丰市政府新闻办公室官方微博<a href="http://weibo.com/lfxwfb" target="_blank">@陆丰发布</a>今日转发了所谓“外媒”报道证实林祖恋“收贿属实”的文章。<strong>该文以略带“翻译腔”的文字风格将汕尾检察院的指控<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%EF%BC%9A%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%B4%AA/" target="_blank">作为事实转述</a>，完全无视了该案尚未进入开庭审理阶段、林祖恋甚至<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8F%82%E4%B8%8E%E7%BD%91%EF%BD%9C%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E4%B8%8D%E7%94%A8%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D/" target="_blank">连辩护律师都没有</a>的事实。</strong></p>
@@ -348,7 +386,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/g20/?category=18271" rel="tag">g20</a>, <a href="https://chinadigitaltimes.net/chinese/tag/g20%E5%B3%B0%E4%BC%9A/?category=18271" rel="tag">G20峰会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D/?category=18271" rel="tag">图说天朝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%AD%E5%B7%9E/?category=18271" rel="tag">杭州</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BA%91%E5%8D%97%E7%BB%B4%E6%9D%83%E4%BF%A1%E6%81%AF%E5%B9%B3%E5%8F%B0%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%8F%8A%E5%A5%B3%E5%8F%8B%E9%81%AD%E6%8B%98%E6%8D%95/" target="cdt-mirror">美国之音 | 云南维权信息平台创办人及女友遭拘捕</a>
 </h2>
@@ -748,22 +786,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E9%BD%8B%E6%88%92%E6%9C%88%E7%9A%84%E6%84%8F%E7%BE%A9%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E8%AE%93%E7%A9%86%E6%96%AF%E6%9E%97%E5%91%8A%E8%A8%B4%E4%BD%A0%EF%BC%81/" target="cdt-mirror">【CDTV】斋戒月的意义是什么？让穆斯林告诉你</a>
-</h2>
-<p><p>斋戒，是伊斯兰教的五功之一。完成斋戒的条件是在赖买丹月（رمضان，Ramadan，伊斯兰历的九月）太阳出现的时段内禁止饮食。</p>
-<p>古兰经2章185节说：“……害病或旅行的人，当依所缺的日数补斋。真主要你们便利，不要你们困难，……”害病是指生病的人或生理期／怀孕／哺乳的妇女。害病的人等身体恢复正常及旅行者结束旅行后都须补齐欠斋日数。</p>
-<p>古兰经2章184节：“……难以斋戒者，当纳罚赎，即以一餐饭，施给一个贫民……”</p>
-<p><a href="https://www.youtube.com/v/aYktZqgswEM?version=3">https://www.youtube.com/v/aYktZqgswEM?version=3</a></p>
-<p><a title="齋戒月的意義是什麼？讓穆斯林告訴你！" href="http://www.youtube.com/watch?v=aYktZqgswEM" target="_blank">齋戒月的意義是什麼？讓穆斯林告訴你！</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-recommended&sz=88E8&t=2&s=WJJ2JFJ42KCMWC7KCYYJ6KWPPCQD54Q5G3F4OPBPVLXLT37SQFXA&i=CULLVQ7ZTDIH4PFSTZIQPRIDJUI6H5LLY&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E9%BD%8B%E6%88%92%E6%9C%88%E7%9A%84%E6%84%8F%E7%BE%A9%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E8%AE%93%E7%A9%86%E6%96%AF%E6%9E%97%E5%91%8A%E8%A8%B4%E4%BD%A0%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%8A%E6%96%AF%E5%85%B0/?category=18271" rel="tag">伊斯兰</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%8B%E6%88%92%E6%9C%88/?category=18271" rel="tag">斋戒月</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A9%86%E6%96%AF%E6%9E%97/?category=18271" rel="tag">穆斯林</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -785,5 +807,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

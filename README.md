@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,53 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BC%80%E6%BA%90%E8%B5%B5%E5%AE%B6%E4%BA%BA%E5%90%8D%E5%8D%95-github%E6%BF%80%E6%80%92%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AE%89%E5%8D%8F%E4%BC%9A%E9%A6%96%E5%87%BA%E6%8B%B3/" target="cdt-mirror">端传媒 | 开源赵家人名单 GitHub激怒中国网安协会首出拳</a>
+</h2>
+<p><p>全球最大的开源代码平台 GitHub，在中国大陆开启审查，首当其冲的是一个整理中国“太子党”关系网的开源项目“Zhao”。</p>
+<p>6月8日，中国网络空间安全协会 (Cyber Security Association of China) 用英文致信 GitHub，称其平台上的项目“Zhao”诽谤中国国家主席习近平，要求立刻删除。三天后，GitHub在专门公布各国政府发出的移除要求的版面上，公布了这封简短而带有“强烈关切”的信件。这是2014年10月以来，GitHub 公布的第6项“删除特定项目要求”，此前5项都来自俄罗斯。从公开报道来看，这也是今年3月才成立的中国网络空间安全协会第一次“出手”。</p>
+<p>目前，“Zhao”项目在中国大陆地区已经无法访问，但在海外的用户仍能顺利打开。 GitHub 给出的原因是这个项目“被中国政府列入黑名单”。 GitHub 称，虽然他们无法认同政府审查，但为了让更多人可以正常使用网站服务，他们会在确认有关要求来自政府之后，在指定区域内满足政府的要求，同时会公开来自政府的要求文件。</p>
+<p>这个名为“Zhao”的项目建立于2月29日，作者Programthink (译：编程随想) 维基百科、《纽约时报》、《华尔街日报》、百度百科等媒体公开信息，整理出中国大陆权贵阶层包括130多个家族、700多人的资料和关系网络，从毛泽东到习近平的家族均榜上有名。作者说，他把自己多年的收集整理的资料公开到 GitHub 上，是想号召更多人“一起曝光权贵家族”。在“Zhao”项目的讨论区， id 为CMB-news 的帐号发布了一篇2000多字的文章称习涉及一桩命案，正是这篇文章引发了中国网络空间安全协会表达“强烈关切”并要求GitHub 立即删除“Zhao”项目。</p>
+<p>“Zhao”是汉字“赵”的拼音，呼应大陆网民用“赵家人”指代今天中国的“红色贵族”、权贵阶层。</p>
+<p>“赵家人”的说法出自文学家鲁迅的小说《阿Q 正传》：卑贱潦倒的阿Q 自称与一方豪绅赵太爷为本家，赵太爷当即怒掴阿Q：“你那（哪）里配姓赵？”</p>
+<p>2015年底，内地上市地产集团万科与宝能系爆发股权争夺战，一篇题为《万科宝能之争：门口的野蛮人，背后的赵家人》的文章在网络上热传。文章暗指财阀异动，背后有更高层的政治势力斗争，“有看不懂的财阀们的命运沉浮，那么背后一定又是一帮赵家人在北戴河谈心”。 “赵家人”随即成为流行词，更衍生出将中国称为“赵国”，之后，“赵家人”在新浪微博上被列为禁搜词。</p>
+<p>有意思的是，GitHub 给尝试访问“Zhao”的中国大陆用户返回了错误代码“451”──而不是常见的“404：该页无法显示”，意思是“因法律原因无法访问”，这也与文学作品有关。</p>
+<p>“451”源自小说《华氏 451度》，小说中描绘的政府致力于焚尽世上所有书籍，而纸的燃点是华氏 451 度。 “451”作为错误代码从2015年12月起正式生效，专门用于标注官方审查的事件，与“404”不同，“451”描述了网页被封禁的具体原因，并且，服务器会完整保留被封锁的内容。</p>
+<p>今年3月25日，中国网络空间安全协会在北京举行了成立大会，国家互联网信息办公室（网信办）副主任王秀军、民政部民间组织管理局巡视员李波为之揭牌，官方将该协会称为“中国首个网络安全领域的全国性社会团体”。国家网信办是协会的“业务主管单位”，民政部是“社团登记管理机关”，协会要接受这两个部门的“业务指导和监督管理”。与高规格的成立大会形成鲜明对比的是，此后近3个月时间里，该协会一直未有任何公开高调行动，直到 GitHub 发布这封要求移除“Zhao”的英文信。</p>
+<p>以“社会团体”为名，但要求外国网站移除“诽谤国家主席”的项目，并被 GitHub 视为“来自政府”的中国网络空间安全协会，与政府究竟是何关系？</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e1b7c9dcbe474d4281daeeb5085fce50.jpg?resize=600%2C443" alt="中国网络空间安全协会的理事单位以政商界为主。图：端传媒设计部" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e1b7c9dcbe474d4281daeeb5085fce50.jpg?w=1080 1080w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e1b7c9dcbe474d4281daeeb5085fce50.jpg?resize=300%2C222 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e1b7c9dcbe474d4281daeeb5085fce50.jpg?resize=768%2C567 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/e1b7c9dcbe474d4281daeeb5085fce50.jpg?resize=1024%2C757 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>中国网络空间安全协会的理事单位以政商界为主。图：端传媒设计部</p></div>
+<p>翻看组织的成员名单，该协会囊括中国主要的互联网企业和权威科研机构，例如腾讯、阿里巴巴、百度、华为、哈尔滨工程大学、上海交通大学等。部分具有官方背景的行业协会，如现有600多名互联网行业会员的中国互联网协会、管理着中国域名注册的中国互联网络信息中心等，亦是协会的理事单位。协会理事长由中国“防火墙之父”方滨兴担任，11名副理事长中，还包括曾经长期在中组部任职的宁夏自治区党委书记李建华。在官方新闻稿中，协会宗旨是：“发挥桥梁纽带作用，组织和动员社会各方面力量参与中国网络空间安全建设，为会员服务，为行业服务，为国家战略服务，促进中国网络空间的安全和发展。”</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ae44190997f14b77b712a3d98c646030.jpg?resize=600%2C443" alt="ae44190997f14b77b712a3d98c646030" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ae44190997f14b77b712a3d98c646030.jpg?w=1080 1080w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ae44190997f14b77b712a3d98c646030.jpg?resize=300%2C221 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ae44190997f14b77b712a3d98c646030.jpg?resize=768%2C567 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ae44190997f14b77b712a3d98c646030.jpg?resize=1024%2C756 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>中国网络空间安全协会理事长、副理事长和秘书长组成的13人领导层。图：端传媒设计部</p></div>
+<p>由此，这个“官商学”交织、成员以互联网企业和网络安全技术学研机构为主、官方及半官方组织穿插其中的协会，影响力可以辐射到中国大部分互联网行业的公司和从业人员。</p>
+<p>在这次“Zhao”项目事件前，中国与 GitHub 的关系亦不算好。 2013年，GitHub 在中国疑似遭到封锁，其后李开复等 IT 界名人强烈抗议，网站服务最终恢复正常。 2015年，中国网络攻击工具对主要提供监控防火墙服务的“Greatfire”实施DDoS（分散式阻断服务）攻击，劫持跨边境访问百度、新浪等站点的流量，恶意涌入greatfire.org。和 Greatfire 同时遭受攻击的，还有纽约时报中文网。由于两个项目都将代码放在 GitHub 上，GitHub 网站一度瘫痪。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BC%80%E6%BA%90%E8%B5%B5%E5%AE%B6%E4%BA%BA%E5%90%8D%E5%8D%95-github%E6%BF%80%E6%80%92%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AE%89%E5%8D%8F%E4%BC%9A%E9%A6%96%E5%87%BA%E6%8B%B3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/github/?category=18271" rel="tag">github</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">中国互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E5%8A%9E%E5%85%AC%E5%AE%A4/?category=18271" rel="tag">互联网信息办公室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E6%96%B9%E8%83%8C%E6%99%AF/?category=18271" rel="tag">官方背景</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B9%E6%BB%A8%E5%85%B4/?category=18271" rel="tag">方滨兴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E4%BF%A1%E5%8A%9E/?category=18271" rel="tag">网信办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6/?category=18271" rel="tag">赵家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%AE%B6%E4%BA%BA/?category=18271" rel="tag">赵家人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%90%8D%E5%8D%95/?category=18271" rel="tag">黑名单</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%B4%A8%E7%96%91%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E7%9A%84%E5%8E%86%E5%8F%B2%E5%AD%A6%E8%80%85%E8%A2%AB%E5%88%A4/" target="cdt-mirror">纽约时报 | 质疑“狼牙山五壮士”的历史学者被判侵权</a>
+</h2>
+<p><p>新华社报道，质疑“狼牙山五壮士”故事真实性的历史学者洪振快在一起名誉侵害诉讼中一审败诉。北京法院要求他向“五壮士”的后人“赔礼道歉”，并认为这段故事已经构成“中华民族共同记忆”，对它的质疑损害了“中华民族的精神价值”。</p>
+<p>新华社<a href="http://news.xinhuanet.com/2016-06/27/c_1119120271.htm" target="_blank" rel="nofollow">称</a>：北京西城区法院“审理认为，‘狼牙山五壮士’及其精神，已经获得全民族的广泛认同，是中华民族共同记忆的一部分，是中华民族精神的内核之一，也是社会主义核心价值观的重要内容”，认为被告发表的两篇文章“无充分证据”，“多处作出似是而非的推测、质疑乃至评价，通过强调与主要事实无关或者关联不大的细节，引导读者对‘狼牙山五壮士’这一英雄人物群体及其事迹的细节产生质疑，从而否定主要事实的真实性，进而降低他们的英勇形象和精神价值。因此，被告实施了侵害名誉、荣誉的加害行为”。</p>
+<p>法院还认为，“案涉文章经由互联网传播，产生了较大的影响，伤害了原告的个人感情，伤害了社会公众的民族和历史情感，同时也损害了社会公共利益”。</p>
+<p>据此，法院一审判决洪振快“立即停止侵害”，并在判决生效三日内，“在媒体上刊登公告”，向“五壮士”之中两人的儿子，原告葛长生和宋福保道歉并“消除影响”。</p>
+<p>洪振快曾是《炎黄春秋》杂志执行主编。他公开<a href="http://cn.nytimes.com/opinion/20160225/cc25hong/" target="_blank" rel="nofollow">质疑</a>“狼牙山五壮士”故事的许多历史细节，例如认为当时的情形并非如官方宣传的那样，是游击队战士与日军主动接战，而是退路被敌切断，慌不择路，退至绝地。关于“跳崖”的描述，洪振快也认为，其中幸存的两人是“溜”、“滚”、“窜”，而不是主动跳崖。</p>
+<p>据此，洪振快认为，“五壮士”的“事迹并无特别英勇之处”，认为中共在叙写历史的过程中进行了“拔高”和“神化”。</p>
+<p>围绕这些言论，“五壮士”中的幸存者葛振林和宋学义的儿子对洪振快提起了侵害名誉权、荣誉权的诉讼，要求洪向“五壮士”的“在天英灵登报谢罪”。</p>
+<p>据新华社报道，西城法院认为，洪振快对“五壮士”的质疑构成了“对中华民族的精神价值的损害”，“采用了侵害他人名誉、荣誉权益和社会公共利益的方式进行所谓‘学术研究’，否认狼牙山五壮士英勇抗敌的事实和所表现的大无畏精神，其所主张的言论自由明显不足以抗辩其侵权责任的成立”。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%B4%A8%E7%96%91%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E7%9A%84%E5%8E%86%E5%8F%B2%E5%AD%A6%E8%80%85%E8%A2%AB%E5%88%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F/?category=18271" rel="tag">中华民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B/?category=18271" rel="tag">炎黄春秋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB/?category=18271" rel="tag">狼牙山五壮士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%EF%BC%9A%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%B4%AA/" target="cdt-mirror">【异闻观止】参考消息：外媒报道乌坎村主任“贪腐”属实</a>
 </h2>
 <p><p>【美国《国际日报》6月26日报道】题：乌坎村“精神领袖”被自己打败了</p>
@@ -735,52 +779,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%8F%B0%E6%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E7%8B%AC%E7%AB%8B%E5%8F%82%E9%80%89%E7%9A%84%E4%BA%94%E5%B9%B4%E4%B8%80%E6%A2%A6/" target="cdt-mirror">东网｜莫之许：独立参选的五年一梦</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%A2%81%E6%A0%91%E6%96%B0.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%A2%81%E6%A0%91%E6%96%B0.jpg?resize=400%2C585" alt="梁树新" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/梁树新.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/梁树新.jpg?resize=205%2C300 205w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>2011年各地涌现出的人大代表独立参选人中，梁树新是准备最为充分、在所在选区呼声最高的一位，但最后连提名都未获得。</span></p></div>
-<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%8B%AC%E7%AB%8B%E5%8F%82%E9%80%89/?view=all" target="_blank">2011年公民独立参选</a>专题</p></blockquote>
-<p>时隔多年，乌坎风云再起。四年前，经过长期的抗争，也付出了薛金波羁押期间非正常死亡代价，乌坎村民得以选出自己信任的村集体领导，但此后数年，并没有能够争回自己的权益，如今，就在酝酿再一次抗争的时候，村委会主任林祖恋被拘捕，随即在电视上承认自己收受贿赂。而就在这两天，甘肃翟明学等人，因独立参选人大代表，也以“破坏选举”罪被刑拘。</p>
-<p>世事轮转，曾今何时，乌坎村委会自治选举和独立参选人大代表，这些标志著基层民主或者草根政治希望的事件，都曾是微博鼎盛时期的热门话题，被媒体和网友寄予过相当的期盼，一晃五年过去，又到所谓“选举年”，却是雨打风吹花去也，只剩一地萧瑟。</p>
-<p>1989年之后，大陆处于政治参与高度冻结状态，激进转型不再具有可能，取而代之的，是以1992年市场化进程重启为基础的各种渐进图景，尤其是世纪之交后，大陆相继加入WTO，申办奥运成功，经济发展相对顺利，新兴社会阶层迅速成长，与此同时，当局对于特定的政治反对群体，仍采取持续的高压和严厉的打击，在这样的气氛之下，89悲情主导下的激进转型理念日益凋零，渐进主义思潮逐渐成为大陆话语场的主流话语乃至政治正确。</p>
-<p>在这些图景中，基层民主、法制维权、话语空间（市场化媒体、网络言论空间）、社会发育（公益组织等NGO)，等等，构成了主要的事实依据和论证基础，是渐进改良话语的重要组成部分。在这一套话语中，基层民主又占据著相当重要的位置，这是因为，法制维权、话语空间和社会发育更多是作为政治转型的有利条件或必要条件，或者在特定时期作为政治参与的替代品，基层选举则不然，它不仅是政治参与本身，也可以看作是上述有利或必要条件走向成熟后，渐进转型真正的开始。</p>
-<p>1990年后期，《村委会自治法》的出台，直选或“海选”的出现，率先点燃了通过基层民主走向民主转型的希望。不过，这一层面的基层民主实践，尚处于自治而非政治的范畴，即便如此，这一层面的基层民主也在各种管制之下奄奄一息，甚至走向死亡，正如长平先生近日的在“乌坎，‘一国两制’的境内试验”一文中所论：“在一个整体专制的大环境中，小范围的民主选举困难重重，必然走入死胡同。”</p>
-<p>相比之下，县乡人大代表的独立参选，被寄予了更大的希望，甚至被看作是可能的转型途径，这是因为，大陆现行选举制度下，保留了通过民众自行推举候选人，甚至通过选票上“其他”候选人选项最终当选的可能，如湖北潜江的姚立法先生，就曾以此种方式当选，独立参选在形式上为体制所许可，有最终获得成功的理论上的机会，加上新兴的市场化、网路化传播手段，能够将地区性的独立参选传播到全国乃至国际上，许多人因此寄望，这一条体制内的独立参选道路，可以为扩大政治参与提供途径，并由此推动民主转型。也因此，无论是在2003年的胡温新政时期，还是在微博最为鼎盛时，在言论表达、公益参与、维权活动等剧目相继上演之后，基层选举尤其是独立参选总是会成为更进一步的剧目，以寄托人们追求转型的期待。</p>
-<p>不过，大陆的选举制度能否支撑这样的期待，从一开始就是有争议的。因为种种原因，台湾民主转型常被大陆人引为参考，其中，选举在台湾民主转型中无疑扮演了相当重要的角色，也因此为大陆渐进主义者津津乐道。但是，对比大陆和台湾的选举制度，以及台湾民主转型经验，就可以看出，大陆选举制度下的独立参选很难支撑起推动转型这一重任：</p>
-<p>首先，层级低；大陆各级人大是橡皮图章，大陆的选举制度，也不过是专政体制的花边，大陆的所谓选举相当单一而低级，一是没有任何行政职务提供直接选举，一是即使是人大代表选举，也局限在县乡两级；而台湾从1954年就开放了县长的直接选举，以及省、县两级的议员直选，1960年代末期之后，更有增额国大代表和立法委员的选举，直选横跨行政和立法分支，纵贯中央到地方三级，这才具有了影响社会、推动转型的能力，当选的官员和议员，也因此成为台湾党外政治人物的核心，美丽岛事件中的黄信介，后来的公政会等等，之所以能够发挥作用，最终形成反对组织，都离不开台湾特定的选举制度和选举实践。</p>
-<p>其次，限制多；大陆的选举制度只是专政之花瓶，而专政的本质就是对社会全面控制，取消自发政治参与，也因此，从设计之初，大陆选举制度就内含了各种限制乃至冻结参与的机制：除了将所谓的直选仅仅放置在最为末端的县乡人大代表之外，即使是县乡人大选举，也被煞费苦心地根据行政区划和所谓界别，划分为若干更小选区，与体制的各种设置配套，方便体制进行掌控和动员；为了防范民众自行推举候选人，又增设了所谓的“酝酿”环节，以保证将体制不接受的人排除出正式的候选人名单。经此重重设防，非体制候选人的当选，简直就是一种奇迹，这不仅极大地降低了参与的热情，也使得通过参选进而当选以推动转型的设想，更像是一种空中楼阁。</p>
-<p>最后，间隔长；台湾横跨行政和立法，横贯从中央到县级的频繁选举，“选举假期”频繁出现，在台湾特定的威权现实下，“选举假期”确实起到了扩大政治参与的替代效果，并最终为台湾民主转型提供了有利条件，但大陆选举制度则不然，作为专政体制民主花边的大陆选举制度，仅仅县乡人大代表选举一项为直选，且五年才有一次，这就意味著，大陆不会有频繁的“民主假期”，而本来就被极度压抑的参与状况，经过五年一次的超长间隔，很难持续的积累。</p>
-<p>可见，大陆现行的直接选举层级低、限制多、间隔长，独立参选很难支撑起推动转型的期待，也因此，几乎从一开始，提倡独立参选的人士，也都对于选举制度提出了更高的要求，期待著选举制度的改革：一是期待选举层级的提高，如在行政直选方面，有人期待能够由自治层面的村选举，提升到乡以上政府的直接选举，1998年，四川省遂宁市步云乡，6000选民一人一票选举出“新中国”第一位直选乡长。随后，深圳等地也进行了类似试验，这曾吸引了众多媒体和自由派人士的关注；但最终不了了之。近年来，于建嵘教授反覆兜售的改革方案中，县级直选的制度改革也是其核心内容。</p>
-<p>不幸的是，现实进程恰恰与人们的期待相反。市场化促进了各种权利诉求的产生，也刺激了新社会阶层的参与冲动，独立参选也由此成为新社会阶层的重点关注所在，2011年微博上的独立参选热，即建立在此基础之上，然而，承继89以来的政治逻辑，现行体制并未因而有任何相应的变化，而是继续其维稳路线，且随著社会力量的逐渐成长，而日益刚性，在此情况下，在当局眼里，大陆独立参选更像是某种抗争剧目，而必须加以限制和打压。</p>
-<p>具有讽刺意味的是，尽管独立参选人本身抱持著体制内参与的心态，但在当局眼里，却是异己的存在。五年前，微博上的独立参选热正在进行时，我就曾提醒，参选即抗争：“参选人大代表指向政治参与的扩大，而维稳体制却旨在通过专政威慑和社会管理压抑乃至消灭政治参与，因此，参选就构成了对维稳体制的直接挑战，必然会遭到压制（刘萍们的遭遇已经说明了这一点），参选即抗争，希望李大眼等人做好应有的准备”。</p>
-<p>后来的事实也证实了我的判断：“在维稳体制下，压制独立参选将没有悬念，封锁参选信息不会有意外”，在维稳体制下，即使是作为民主花边的独立参选也是不被允许的，作为抗争剧目的独立参选，也必然会遭到更大的压制，这一次翟明学等人的被刑拘，就说明了这一升级的力度，当然也进一步证明了，通过独立参选推动转型这一道路的虚妄。</p>
-<p>不过，抗争从来不是没有意义的，参与到独立参选这样的抗争剧目中，一些人退缩了，但也有人成长了，如刘萍等人，就走上了更加坚定的抗争道路，在这个意义上，“参选或许不能改变这个体制，但却可以改变我们自身”，摈弃掉虚假希望之后的抗争中，或许才孕育著真正的希望。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E7%BD%91%EF%BD%9C%E8%8E%AB%E4%B9%8B%E8%AE%B8%EF%BC%9A%E7%8B%AC%E7%AB%8B%E5%8F%82%E9%80%89%E7%9A%84%E4%BA%94%E5%B9%B4%E4%B8%80%E6%A2%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E9%80%89%E4%B8%BE/?category=18271" rel="tag">人大代表选举</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E5%A4%A7%E4%BC%9A%E8%AE%AE/?category=18271" rel="tag">人大会议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E7%8B%AC%E7%AB%8B%E5%8F%82%E9%80%89/?category=18271" rel="tag">公民独立参选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A9%A1%E7%9A%AE%E5%9B%BE%E7%AB%A0/?category=18271" rel="tag">橡皮图章</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%AE%AA%E6%94%BF/?category=18271" rel="tag">民主宪政</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%AB%8B%E5%80%99%E9%80%89%E4%BA%BA/?category=18271" rel="tag">独立候选人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%96%87%E8%83%B8%E8%87%B4%E7%99%8C%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E6%88%90%E5%BE%AE%E4%BF%A1%E6%95%8F%E6%84%9F%E8%AF%9D%E9%A2%98/" target="cdt-mirror">纽约时报｜文胸致癌、机器人取代人类成微信敏感话题</a>
-</h2>
-<p><p>在今天的中国，不可公开讨论之事的清单上又多了几样：带衬垫的文胸致癌。地球即将进入六日黑暗期。机器人很快就要在所有产业大行其道，取代所有人类劳动力。</p>
-<p>多伦多大学(University of Toronto)“公民实验室”(Citizen Lab)的<a href="https://citizenlab.org/2015/07/tracking-censorship-on-wechat-public-accounts-platform/" target="_blank" rel="nofollow">研究</a>显示，包括上述内容在内，一些看起来颇为琐碎的微信帖子已经受到审查。微信是一款广受欢迎的聊天应用。</p>
-<p>审查在中国是人尽皆知的现象，官僚们兢兢业业地从事相关工作，以便提升领导人的形象，并压制对西藏、台湾问题等当局眼中敏感话题的讨论。但多伦多大学的研究人员发现，共产党的官方意见的这群忠诚卫士，已经把注意力转移到更为世俗的事情上，会花大量时间和服务器的力量，来防范谣言、虚假新闻报道以及带有迷信色彩的预言的广泛传播。</p>
-<p>“可以把网络谣言看作对官方新闻持怀疑态度的公民发起的一种社会抗议，”多伦多大学的研究人员之一杰森·Q·吴(Jason Q. Ng)解释道。</p>
-<p>微信这款月活跃用户数为7.62亿的移动聊天应用，像Facebook一样允许公开发帖。最近的一项研究显示，中国人平均每天花40分钟刷微信。</p>
-<p><a href="https://citizenlab.org/2015/07/tracking-censorship-on-wechat-public-accounts-platform/" target="_blank" rel="nofollow">多伦多大学的研究</a>对2014至2015年间的9个月里被公开分享到第三方网站上的3.6万个帖子进行了追踪。这些帖子不是随机挑选出来的；研究人员专门监控数十名分享过中国人眼中的敏感信息的微信用户。</p>
-<p>研究人员追踪的这些帖子，约有4%受到了审查，其中包括关于中国饮用水安全的讨论、对几个名人处于死亡边缘的揣测，以及对朝鲜领导人金正恩(Kim Jong-un)正在中国接受秘密治疗的猜想。</p>
-<p>不久前， 36岁的科技创业者赵玉莲（音）试图分享一篇关于如何避免患上癌症的文章，却没能成功。“在某个时刻，”她说，“你禁不住要问，这为什么是敏感信息？”</p>
-<p><em>赫海威(Javier C. Hernández)是《纽约时报》驻京记者。</em><br><em> 欢迎在Twitter上关注赫海威<a href="https://twitter.com/hernandezjavier" target="_blank" rel="nofollow">@HernandezJavier</a>。</em><br><em> 翻译：纽约时报中文网</em><br><em> <a href="http://www.nytimes.com/2016/06/25/world/what-in-the-world/china-wechat-censor-rumors.html" target="_blank" rel="nofollow">点击查看本文英文版。</a></em></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%96%87%E8%83%B8%E8%87%B4%E7%99%8C%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E6%88%90%E5%BE%AE%E4%BF%A1%E6%95%8F%E6%84%9F%E8%AF%9D%E9%A2%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1/?category=18271" rel="tag">微信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F%E8%AF%8D/?category=18271" rel="tag">敏感词</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -792,7 +790,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -802,5 +800,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

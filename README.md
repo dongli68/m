@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,81 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%96%E5%AA%92%E7%88%86%E6%96%99%E6%97%A0%E4%BA%BA%E4%BF%A1-%E9%99%86%E4%B8%B0%E5%BD%93%E5%B1%80%E5%BF%99%E5%88%A0%E8%AF%84%E8%AE%BA/" target="cdt-mirror">【立此存照】林祖恋案“外媒”爆料无人信 陆丰当局忙删评论</a>
+</h2>
+<p><p>陆丰市政府新闻办公室官方微博<a href="http://weibo.com/lfxwfb" target="_blank">@陆丰发布</a>今日转发了所谓“外媒”报道证实林祖恋“收贿属实”的文章。<strong>该文以略带“翻译腔”的文字风格将汕尾检察院的指控<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%EF%BC%9A%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%B4%AA/" target="_blank">作为事实转述</a>，完全无视了该案尚未进入开庭审理阶段、林祖恋甚至<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8F%82%E4%B8%8E%E7%BD%91%EF%BD%9C%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E4%B8%8D%E7%94%A8%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D/" target="_blank">连辩护律师都没有</a>的事实。</strong></p>
+<p>网民很显然对@陆丰发布 的微博并不买账，编者截图时的200+条评论，几乎是清一色的对当局的质疑和嘲讽：</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%86%E4%B8%B0%E5%8F%91%E5%B8%8301.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%86%E4%B8%B0%E5%8F%91%E5%B8%8301.png?resize=500%2C2682" alt="陆丰发布01" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布01.png?w=605 605w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布01.png?resize=56%2C300 56w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布01.png?resize=191%2C1024 191w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@陆丰发布 微博截图；来自中国数字时代</span></p></div>
+<p>然而，这些<strong>网民的质疑很快就被删得干干净净，@陆丰发布 还干脆关闭了评论</strong>：</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%86%E4%B8%B0%E5%8F%91%E5%B8%83%E5%88%A0%E9%99%A4%E8%AF%84%E8%AE%BA.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%86%E4%B8%B0%E5%8F%91%E5%B8%83%E5%88%A0%E9%99%A4%E8%AF%84%E8%AE%BA.jpg?resize=500%2C529" alt="陆丰发布删除评论" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布删除评论.jpg?w=1093 1093w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布删除评论.jpg?resize=284%2C300 284w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布删除评论.jpg?resize=768%2C812 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布删除评论.jpg?resize=968%2C1024 968w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@陆丰发布 同条微博2小时后截图；来自中国数字时代</span></p></div>
+<blockquote><p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%EF%BC%9A%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%B4%AA/" target="_blank">相关阅读：【异闻观止】参考消息：外媒报道乌坎村主任“贪腐”属实</a></p></blockquote>
+<p>独家刊登林祖恋报道的“美媒”《国际日报》(International Daily News) 位于美国加州洛杉矶郊外的华人聚集区 <span>Monterey Park，1981年创刊。</span></p>
+<p><strong>《国际日报》报社谷歌街景</strong>（街景摄于2015年5月）<strong>：</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%B0%B7%E6%AD%8C%E8%A1%97%E6%99%AF_%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A5.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%B0%B7%E6%AD%8C%E8%A1%97%E6%99%AF_%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A5.jpg?resize=585%2C293" alt="谷歌街景_国际日报" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报.jpg?w=2066 2066w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报.jpg?resize=300%2C150 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报.jpg?resize=768%2C385 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报.jpg?resize=1024%2C513 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报.jpg?w=2000 2000w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
+<p>该报社门前挂了<strong>五块牌子</strong>，从左到右依次为：</p>
+<blockquote>
+<ul><li><strong>山东侨报 北美办事处</strong></li>
+<li><strong>大众日报 海外版</strong></li>
+<li><strong>文汇报 海外版</strong></li>
+<li><strong>国际日报</strong></li>
+<li><strong>人民日报 海外版</strong></li>
+</ul></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%B0%B7%E6%AD%8C%E8%A1%97%E6%99%AF_%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A52.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%B0%B7%E6%AD%8C%E8%A1%97%E6%99%AF_%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A52.png?resize=585%2C272" alt="谷歌街景_国际日报2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报2.png?w=1080 1080w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报2.png?resize=300%2C139 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报2.png?resize=768%2C357 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报2.png?resize=1024%2C476 1024w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
+<p><strong>该网站的“乌坎”专题文章只有两篇，与中共官媒口径高度一致：</strong></p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A5.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A5.jpg?resize=500%2C298" alt="国际日报" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际日报.jpg?w=1326 1326w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际日报.jpg?resize=300%2C179 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际日报.jpg?resize=768%2C458 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际日报.jpg?resize=1024%2C610 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际日报.jpg?resize=80%2C48 80w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>《国际日报》网站“乌坎”专题截图</span></p></div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%96%E5%AA%92%E7%88%86%E6%96%99%E6%97%A0%E4%BA%BA%E4%BF%A1-%E9%99%86%E4%B8%B0%E5%BD%93%E5%B1%80%E5%BF%99%E5%88%A0%E8%AF%84%E8%AE%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%8F%91%E5%B8%83%E3%80%8A%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%BF%A1/" target="cdt-mirror">月光博客 | 网信办发《移动互联网应用程序信息服务管理规定》</a>
+</h2>
+<p><p>国家网信办发布《移动互联网应用程序信息服务管理规定》，《规定》明确，移动互联网应用程序提供者应当严格落实信息安全管理责任，建立健全用户信息安全保护机制，<strong>按照“后台实名、前台自愿”原则，对注册用户进行基于移动电话号码等真实身份信息认证。记录用户日志信息，并保存六十日。</strong></p>
+<p>国家互联网信息办公室有关负责人介绍，应用程序已成为移动互联网信息服务的主要载体，对提供民生服务和促进经济社会发展发挥了重要作用。与 此同时，少数应用程序被不法分子利用，传播暴力恐怖、淫秽色情及谣言等违法违规信息，有的还存在窃取隐私、恶意扣费、诱骗欺诈等损害用户合法权益的行为， 社会反映强烈。</p>
+<p>《规定》明确，移动互联网应用程序提供者应当严格落实信息安全管理责任，建立健全用户信息安全保护机制，依法保障用户在安装或使用过程中的知情权和选择权，尊重和保护知识产权。</p>
+<p>《规定》要求，移动互联网应用程序提供者和互联网应用商店服务提供者<strong>不得利用应用程序从事危害国家安全、扰乱社会秩序、侵犯他人合法权益等</strong>法律法规禁止的活动，不得利用应用程序制作、复制、发布、传播法律法规禁止的信息内容。同时，《规定》鼓励各级党政机关、企事业单位和各人民团体积极运用应用程序，推进政务公开，提供公共服务，促进经济社会发展。</p>
+<p>国家互联网信息办公室有关负责人强调，移动互联网应用程序提供者和互联网应用商店服务提供者应当切实履行管理责任，积极承担社会责任，自觉接受公众监督，为网民提供安全、优质、便捷、实用的信息服务。</p>
+<p><strong>以下是规定的全文：</strong></p>
+<p>移动互联网应用程序信息服务管理规定</p>
+<p>第一条 为加强对移动互联网应用程序（APP）信息服务的管理，保护公民、法人和其他组织的合法权益，<strong>维护国家安全和公共利益</strong>，根据《全国人民代表大会常务委员会关于加强网络信息保护的决定》和《国务院关于授权国家互联网信息办公室负责互联网信息内容管理工作的通知》，制定本规定。</p>
+<p>第二条 在中华人民共和国境内通过移动互联网应用程序提供信息服务，从事互联网应用商店服务，应当遵守本规定。</p>
+<p>本规定所称移动互联网应用程序，是指通过预装、下载等方式获取并运行在移动智能终端上、向用户提供信息服务的应用软件。</p>
+<p>本规定所称移动互联网应用程序提供者，是指提供信息服务的移动互联网应用程序所有者或运营者。</p>
+<p>本规定所称互联网应用商店，是指通过互联网提供应用软件浏览、搜索、下载或开发工具和产品发布服务的平台。</p>
+<p>第三条 <strong>国家互联网信息办公室负责全国移动互联网应用程序信息内容的监督管理执法工作。</strong>地方互联网信息办公室依据职责负责本行政区域内的移动互联网应用程序信息内容的监督管理执法工作。</p>
+<p>第四条 鼓励各级党政机关、企事业单位和各人民团体积极运用移动互联网应用程序，推进政务公开，提供公共服务，促进经济社会发展。</p>
+<p>第五条 通过移动互联网应用程序提供信息服务，应当依法取得法律法规规定的相关资质。从事互联网应用商店服务，还应当在<strong>业务上线运营三十日内向所在地省、自治区、直辖市互联网信息办公室备案。</strong></p>
+<p>第六条 移动互联网应用程序提供者和互联网应用商店服务提供者不得利用移动互联网应用程序从事危害国家安全、扰乱社会秩序、侵犯他人合法权益等法律法规禁止的活动，不得利用移动互联网应用程序制作、复制、发布、传播法律法规禁止的信息内容。</p>
+<p>第七条 移动互联网应用程序提供者应当严格落实信息安全管理责任，依法履行以下义务：</p>
+<p>（一）按照“后台实名、前台自愿”的原则，<strong>对注册用户进行基于移动电话号码等真实身份信息认证。</strong></p>
+<p>（二）建立健全用户信息安全保护机制，收集、使用用户个人信息应当遵循合法、正当、必要的原则，明示收集使用信息的目的、方式和范围，并经用户同意。</p>
+<p>（三）建立健全信息内容审核管理机制，<strong>对发布违法违规信息内容的，视情采取警示、限制功能、暂停更新、关闭账号等处置措施，保存记录并向有关主管部门报告。</strong></p>
+<p>（四）依法保障用户在安装或使用过程中的知情权和选择权，未向用户明示并经用户同意，不得开启收集地理位置、读取通讯录、使用摄像头、启用录音等功能，不得开启与服务无关的功能，不得捆绑安装无关应用程序。</p>
+<p>（五）尊重和保护知识产权，不得制作、发布侵犯他人知识产权的应用程序。</p>
+<p>（六）<strong>记录用户日志信息，并保存六十日。</strong></p>
+<p>第八条 互联网应用商店服务提供者应当对应用程序提供者履行以下管理责任：</p>
+<p>（一）对应用程序提供者进行真实性、安全性、合法性等审核，<strong>建立信用管理制度</strong>，并向所在地省、自治区、直辖市互联网信息办公室<strong>分类备案</strong>。</p>
+<p>（二）督促应用程序提供者保护用户信息，完整提供应用程序获取和使用用户信息的说明，并向用户呈现。</p>
+<p>（三）督促应用程序提供者<strong>发布合法信息内容</strong>，建立健全安全审核机制，配备与服务规模相适应的专业人员。</p>
+<p>（四）督促应用程序提供者发布合法应用程序，尊重和保护应用程序提供者的知识产权。</p>
+<p>对违反前款规定的应用程序提供者，视情采取警示、暂停发布、下架应用程序等措施，保存记录并向有关主管部门报告。</p>
+<p>第九条 互联网应用商店服务提供者和移动互联网应用程序提供者应当签订服务协议，明确双方权利义务，共同遵守法律法规和平台公约。</p>
+<p>第十条 移动互联网应用程序提供者和互联网应用商店服务提供者应当配合有关部门依法进行的监督检查，自觉接受社会监督，设置便捷的投诉举报入口，及时处理公众投诉举报。</p>
+<p>第十一条 本规定自2016年8月1日起施行。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%8F%91%E5%B8%83%E3%80%8A%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%BF%A1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90/?category=18271" rel="tag">不法分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E7%AE%A1/?category=18271" rel="tag">主管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF/?category=18271" rel="tag">互联网信息</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E6%9D%83/?category=18271" rel="tag">产权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/?category=18271" rel="tag">信息安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">危害国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E5%8A%9E/?category=18271" rel="tag">国家互联网信息办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/?category=18271" rel="tag">法律法规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84/?category=18271" rel="tag">违法违规</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BC%80%E6%BA%90%E8%B5%B5%E5%AE%B6%E4%BA%BA%E5%90%8D%E5%8D%95-github%E6%BF%80%E6%80%92%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AE%89%E5%8D%8F%E4%BC%9A%E9%A6%96%E5%87%BA%E6%8B%B3/" target="cdt-mirror">端传媒 | 开源赵家人名单 GitHub激怒中国网安协会首出拳</a>
 </h2>
 <p><p>全球最大的开源代码平台 GitHub，在中国大陆开启审查，首当其冲的是一个整理中国“太子党”关系网的开源项目“Zhao”。</p>
@@ -103,7 +175,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B1%9F%E6%A3%8B%E7%94%9F%EF%BC%9A%E8%A2%AB%E8%BF%AB%E6%B2%89%E9%BB%98%EF%BC%9A%E8%87%AA%E7%94%B1%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%8D%E8%87%AA%E7%94%B1/" target="cdt-mirror">自由亚洲｜江棋生：被迫沉默：自由，还是不自由？</a>
 </h2>
@@ -692,93 +764,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E4%B8%8D%E8%A6%81%E8%80%81%E6%8B%BF%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%AF%9F%E6%97%A9%E5%BC%80%E6%9E%AA%E4%BA%86/" target="cdt-mirror">新华社 | 求解执法争议之“结”（原文已删）</a>
-</h2>
-<p><p><strong>中国数字时代编辑注：新华社原文刊载于6月15日，文中写道“在涉警舆情中，有些人喜欢拿美国警察使用枪支的情况来说事，动辄说‘中国警察太憋屈，这种情况下美国警察早开枪了’。事实上，这种说法忽略了一个事实——美国是一个私人可以持枪且枪支泛滥的国家，警察处于高度危险和紧张的状态。这样很容易引起误导作用，导致民众更多的质疑。” 目前文章已从新华社网站上被删除。本文转载自微信公号凤凰财知道（icaizhidao）。</strong></p>
-<blockquote><p>相关阅读：<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%EF%BC%9A%E6%8A%8A%E4%BD%A0%E5%92%8C%E8%89%BE%E6%BB%8B%E7%97%85%E3%80%81%E5%B0%8F%E5%81%B7%E3%80%81%E5%BC%BA%E7%9B%97%E5%85%B3%E5%9C%A8/">【CDTV】深圳警察：把你和艾滋病、小偷、强盗关在一起好好享受！</a></p></blockquote>
-<p>【编者按】：在近期引发热议的深圳警察强行传唤女孩事件中，涉事警员的一些不当言行，在社会上引起了很大争议。事实上，今年以来，包括北京在内多个地方，都曾出现警察执法引发强烈质疑的事件。</p>
-<p>前不久，中央全面深化改革领导小组第二十四次会议审议通过了《关于深化公安执法规范化建设的意见》，要求严格执法监督，解决执法突出问题，努力让人民群众在每一项执法活动、每一件案件办理中都能感受到社会公平正义。公安部部长郭声琨随后强调，要进一步规范执法依据、执法程序、执法行为，规范执法决策机制、监督机制，完善公安执法权力运行机制，确保执法权力在法治轨道和制度框架内运行。</p>
-<p>塑造良性的警民关系，用规范执法提高公信力，是全面依法治国的题中之意。而在处理涉警舆情时，警方不同的回应和处理方式，会让舆情朝着完全不同的方向发展。第10期“议事厅”，新华每日电讯记者采访了清华大学法学院教授张建伟、广东警官学院副教授孔雯，请他们一同探讨如何正确回应执法争议、如何解开执法争议之“结”。</p>
-<p>采写：新华社记者叶前、毛一竹</p>
-<p><strong>“护犊子”思维无助于平息质疑</strong></p>
-<ul><li>平息质疑最有效的办法，莫过于把真实的情况如实讲出来。积极应对一般也会赢得公众的正面回应，从而形成执法者与公众关系的良性循环</li>
-</ul><ul><li>表面看是执法不规范问题以及对执法规范的无意识，背后深层次的问题是，有些基层执法者对公民权利缺乏起码的敬畏</li>
-</ul><p>每每遇到执法引发争议事件，警方的回应都备受公众关注。随着自媒体蓬勃发展，在寥寥数语、缺乏更多有效信息的官方表态之外，一些获得认证的基层公安机关自媒体账号开始搞“自选动作”，其中就有一些义愤填膺地为涉事警员找执法依据乃至背书的激烈言辞——通常都是说，那些引发争议的执法行为“合理合法”，即便有一些小瑕疵，“出发点也是好的”。</p>
-<p>诚然，有些说法存在一定合理性，甚至能找到一些特定的法律规定的依据。但是，见惯了此类应对，人们难免会认为这是拒绝认错，以机构之名“护犊子”。</p>
-<p>清华大学法学院教授张建伟对此认为，执法争议和由于应对失当引起更大的争议，是长期的执法惯性与执法外在环境变化所导致的冲突。近年来，执法机构的行为规范有一些进步，但很多时候还是按照旧有惯性执行，并不太适应新的执法环境。特别是进入新媒体时代，公众的权利意识有了很大的提高，借助互联网和自媒体维权意识的进一步放大，使得执法行为被置于聚光灯之下，各种评论、质疑也纷至沓来。</p>
-<p>有一种观点认为，并不是近些年执法不规范的案例增多了，而是以前新媒体还不发达，很多类似事件都没有被曝光或引起广泛讨论。对于这种显著的变化，有些基层执法者和机构显然还不太适应。</p>
-<p>当执法行为引起争议后，如果执法机构能够实事求是，及时发布信息，澄清是非，表明态度，就能迅速平息舆情，赢得公众认可。像此次深圳公安局宝安分局的应对总体上是合格的。但也有一些执法机构的主要应对之策是撇清责任，“护犊子”甚至捂盖子。张建伟认为，这恰恰与公众对公平正义的关切相去甚远。平息质疑最有效的办法，莫过于把真实的情况如实讲出来。如果真有错，就要有承认错误的态度以及检讨出现错误的原因，并进行制度规章层面的修补。还有很重要的一点，就是依法追究相关人员的责任，以此给公众一个交代。事实证明，这样的应对一般也会赢得公众的正面回应，从而形成执法者与公众关系的良性循环。</p>
-<p>不过，在一些热点事件中，除了看到传统的机构回应，越来越多的个人在自媒体上发声，为自己的同行、同伴、同事叫屈，对公众质疑进行反驳。</p>
-<p><span><strong>在近年来的涉警舆情中，有的警察自媒体“帮亲不帮理”，不管三七二十一，一味护短，片面和错误地理解“正能量”的含义。个别民警自身法律素质低，在自媒体舆论场言语不理性，误导读者，导致一些非理性的观点在系统内部互相影响、互相发酵，使问题复杂化。比如，在涉警舆情中，有些人喜欢拿美国警察使用枪支的情况来说事，动辄说“中国警察太憋屈，这种情况下美国警察早开枪了”。事实上，这种说法忽略了一个事实——美国是一个私人可以持枪且枪支泛滥的国家，警察处于高度危险和紧张的状态。这样很容易引起误导作用，导致民众更多的质疑。</strong></span></p>
-<p><strong>严格规范执法权的行使和边界</strong></p>
-<p>张建伟认为，我国宪法法律对各类公民权利都有相关规定，但在现实中，部分执法者对于一些公民的基本权利，如人身自由权等，没有相应的法律认知。比如，在深圳警察强行传唤女孩事件中，涉事警察将两名女子带回警局，实质上是对其人身自由的控制。可现实中，一些执法者对这类行为完全没有上升到法律高度，只当是例行公事。</p>
-<p>张建伟说，认知缺乏的背后，是外在制约的缺乏。需要特别注意的是，警察权是所有公权力当中对公民权利可能造成侵害最大的一项权力，其行使和边界尤其需要加以严格规范。</p>
-<p>其一，要加强警察权的司法控制。在大陆法系国家，公安机关的侦查是作为司法机关的辅助，一旦发生重案就需要检察机关乃至法官的介入，通过司法权的控制来制约警察权，防止其过于扩张。</p>
-<p>其二，侦查保密是必要的也是通行的，但律师的介入也是必要的和可控的，防止执法活动的“卡夫卡城堡”现象。实际上，最容易出现侵犯公民权利的环节是讯问环节，可以考虑在讯问环节引入律师在场机制。侦查不公开原则不意味着绝对封闭，实践证明，律师的介入对执法者规范执法、保障公民权利有积极的作用。</p>
-<p>其三，执法过程应该录音录像。以交警为例，执法记录仪是一个便捷且有效的技术手段，能大大提高交通违法处置的文明程度。按照我国法律，一些重案有规定必须录音录像，但一般案件没有强制要求。技术的进步已经使得这一外在监督变得十分简单有效，没有理由不落实。</p>
-<p>其四，允许公民进行执法现场的录音录像，且以不干扰办案为原则，公权力不能干预和阻止。现在的情况是，很多时候执法者强力夺取公众的拍摄设备甚至毁坏其设备，这实质是对自身执法规范化的不自信。既然执法规范，就不怕录音录像，正如中央提出的，要让每一个案子都经得起时间和法律的检验。</p>
-<p><strong>执法培训和公众教育都需加强</strong></p>
-<ul><li>公众的法治素质也需要提高，应教育公众适应法治社会的发展</li>
-</ul><ul><li>很早前有关部门就在强调公安执法规范化，也下发了各类文件，做出了很多要求。法律法规已经有了，落实到个体执法上面，还需要加强队伍建设、教育管理</li>
-</ul><p>查看过往的新闻报道，可以看到，在很早前有关部门就在强调公安执法规范化，也下发了各类文件，做出了很多要求。在进步的同时，不可否认的是，有一些规范没能得到执行。</p>
-<p>广东警官学院副教授孔雯认为，法律规范已经有了，落实到个体执法上面，还需要加强队伍管理、教育管理。</p>
-<p>看到深圳涉事民警被送入学习班，也有人质疑这样的教育培训是否有效。广东一名资深警官说，有的一线警员对查验身份证的法律规定是怎样的，搞不大清楚，什么是合理怀疑，什么是比例原则，完全没听说过。而现在的一些培训往往是“千年老皇历”，没有跟上时代变化和警情的变化，重复无用的培训较多。可见，针对执法人员的法律知识培训的质量亟待提高。</p>
-<p>与此同时，公众的法治素质也需要提高，应教育公众适应法治社会的发展。孔雯说，原本配合警察调查是公民义务，不过由于警民之间缺乏信任，不少人遇到这类情况的第一反应是，我是个好人为什么来问我，会有抵触心理。而这时如果警察处理失当，就会造成更大的冲突。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%96%B0%E5%8D%8E%E7%A4%BE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E4%B8%8D%E8%A6%81%E8%80%81%E6%8B%BF%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%AF%9F%E6%97%A9%E5%BC%80%E6%9E%AA%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%8D%8E%E7%A4%BE/?category=18271" rel="tag">新华社</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B7%B1%E5%9C%B3%E8%AD%A6%E5%AF%9F%E8%BE%B1%E9%AA%82%E4%B8%A4%E5%A7%90%E5%A6%B9/?category=18271" rel="tag">深圳警察辱骂两姐妹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E6%9A%B4%E5%8A%9B/?category=18271" rel="tag">警察暴力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%B8%A9%E6%9C%97%E4%B8%9C%EF%BC%9A%E5%8D%8E%E8%88%AA%E7%BD%A2%E5%B7%A5%EF%BC%8C%E6%94%B9%E5%86%99%E5%8F%B0%E6%B9%BE%E5%8A%B3%E5%8A%A8%E5%B0%8A%E4%B8%A5%E7%9A%84/" target="cdt-mirror">端传媒 | 温朗东：华航罢工，改写台湾劳动尊严的前线</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-25-at-%E4%B8%8A%E5%8D%889.10.38.png?resize=554%2C369" alt="桃园市空服员职业工会宣布24日零时起开始罢工。摄：徐翌全/端传媒" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-25-at-上午9.10.38.png?w=554 554w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-25-at-上午9.10.38.png?resize=300%2C200 300w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><p>桃园市空服员职业工会宣布24日零时起开始罢工。摄：徐翌全/端传媒</p></div>
-<p>6月24日凌晨，南京东路三段与龙江路的华航公司前，台北夏季的夜晚湿热难耐，上千名华航员工群起罢工。这将会是台湾劳动权益的转捩点。</p>
-<p>这样说，对其他曾以血泪对抗资方的劳工好像不公平。</p>
-<p>确实，这次罢工者有很多优势。相对于过往的劳动抗争，华航员工的薪资相对高、拥有的筹码（罢工对资方的损害程度）强、空服员的社会形象好、参与者的论述能力强（看有多少华航员工发布条理分明的脸书贴文）。加上发动地点在台北，媒体效应也大。</p>
-<p>当人们盘点这些林林总总的优势，好像也把华航罢工描绘成一种“胜利组的罢工”── 仿佛是他们不知足、得了便宜还卖乖，只会吵著要糖吃，不关社会上其他人的事。</p>
-<p>但这种对罢工者的冷水，是资方最乐见的。劳动权益的战斗，绝不能陷入这种“弱弱相残”的逻辑。此次华航罢工，即将成为台湾劳工运动史上的里程碑。值此之际，各行各业所有的劳工朋友应该站在同一阵线。</p>
-<p><strong>恶劣劳动环境，扼杀公共场域</strong></p>
-<p>台湾劳工运动困难重重，其中一个原因就是劳工间的比较心理。身在同一家公司、同一个产业，只要我过得比你好一点点、职位比你高一点点，我就感觉到优越，我就觉得没必要站在一起，对抗资方的剥削。但不要忘记：在资方面前，劳工都是弱势。稍弱者跟更弱者互相比较，只会削弱彼此动能，让结构问题永远无法翻转。</p>
-<p>台湾每年经济成长、企业获利都是正的，但十几年来，个别企业赚了钱，员工鲜少加薪；企业赔钱，就要我们共体时艰。结果 GDP中薪资所得占比节节败退，大幅转移到资本利得，进到老板口袋。</p>
-<p>当劳工工时居高不下、薪资越来越少，为了养家糊口，人们已没有余力去关心自身工作以外的公共议题。所以台湾的民主，变成投票当下的选边站；台湾的NGO团体经营艰困；台湾媒体为了因应人们下班疲累后寻求放松的口味，日趋浅碟化、娱乐化。</p>
-<p>台湾公共场域论辨举步维艰，不是因为台湾人素质不够，而是我们过得太艰辛，捧起饭碗已耗费全部力气。</p>
-<p><strong>改善劳权，才能追求台湾自主</strong></p>
-<p>台湾劳运的另一种阻力，是左派与本土派意识型态的分歧，与行动上的制肘。</p>
-<p>左派工运团体通常带有普世主义色彩、重视基本人权。相对于本土派把台湾主体性当首要目标，对中国坚壁清野；左派通常不把统独当成优先议题，也连带愿意关心中国的劳工处境。这种分歧，也常替左派团体（包括工运者）引来“左统”骂名。许多工运者都遇过本土派质疑：你们是不是统派，是不是国民党派来乱的？</p>
-<p>然而，我们必须了解，所谓的“左统”，憧憬的社会主义愿景，已经与当代中国没有什么瓜葛。如今，全世界掌握最大资本、权力最大的企业就是中国共产党。中国是结合资本主义跟威权政治的社会。</p>
-<p>本土派必须要知道，中国“以经促统”的战略得以成功，其实跟台湾劳动环境环环相扣的，当有越来越多的台湾子弟被恶劣的职场环境逼退，得去中国上班、领中国老板的钱，我们能说他们照顾自己、照顾家人错了吗？我们能苛求他们为了家庭生计，而对台湾意识绝口不提吗？</p>
-<p>如果台湾职场环境可以留住台湾人才，台湾才会有希望。在这个当口，不是计较统独光谱、政党属性的时候。站在劳工这一边，就是站在台湾人民的这一边。</p>
-<p><strong>在右翼两党之间突围</strong></p>
-<p>民进党未曾执政前，曾受到左派的期待。但何以先前执政八年，却无法解决劳工问题？这涉及台湾现实政治的基础：</p>
-<p>长久以来，国民党凭借数千亿的党产，打造资本密集的选战套路（铺天盖地的户外看板、高价的电视报纸广告），收买地方派系，拉高选举经费门槛。作为挑战者的民进党要跨越这个门槛，也不免得向资本家伸手，才能获得在选举中出场的权利。拿人手短，民进党又如何能真正站在劳工方，跟金主过不去？</p>
-<p>我们不需要去怪民进党。因为在过去，没有更好的方法来形成良性的政党竞争。结果就是：国民党是大财团，民进党也学著当起小财团，两党都成为亲财团的右派政党。</p>
-<p>然而近年选风悄悄改变。过去两年，已有若干候选人打出非典型选战，扭转昔日旗海飞扬、广告猛砸的生态。这也让左派团体，开始在两大右派政党之外，看见一些介入政治的可能。年初绿党社民党联盟的参选虽然败北，但也创造出一股前所未有的声势。</p>
-<p>我们得相信改变的可能。</p>
-<p>而在推动改变的路上，此刻的华航罢工，就是一个重要里程碑。只要能够划下成功的先例，其他劳动、罢工条件更差的劳工团体，就能在先例中学习、受到鼓舞，愿意相信自己的处境，是可以透过自己去争取的。</p>
-<p>这种共识，也才能有化为更强劲的政治动能。</p>
-<p><strong>嘲讽，只是一种必然的阻力</strong></p>
-<p>如果有一种意识形态是我衷心信仰的，那就是一个人人活得自由、尊严、能决定自己幸福与命运的公平社会。这个社会注定得要靠最切身的劳动权益来达成。</p>
-<p>华航的罢工朋友，你们辛苦了，这只是个开始。接下来的几天，会有无数的阻扰。在未来几天，你们或许会听见有人说：</p>
-<p>“你们已经过很爽了，不要不知足，有人过得比你们更惨不知道吗？”</p>
-<p>“你们阻碍交通、制造社会成本，把社会搞得很乱，很自私耶。”</p>
-<p>“劳动权益很重要，但不能和平理性一点，不要聚在街上嘶吼，大家回家派代表出来好好谈不行吗？”</p>
-<p>这是此刻台湾社会的现实。</p>
-<p>但走上街头的各位，必然也相信现实是可以被改变的；嘲讽，也只不过是这个过程中的一关。劳工合理的权益，是靠自己争取来的。法律的保障、当权者的承诺，远远比不上实际的劳资拔河。当社会反弹的声浪浮现，才是劳动权益战斗的开端。</p>
-<p>华航罢工的朋友，你们站在劳动权益的前线，这不只是自身权益的争取，更是整个台湾社会进步的契机。</p>
-<p>在这次抗争中，我们都需站上自己的前线，一起协力。</p>
-<p><strong>（温朗东，udn debate 相对论执行副主编，自由台湾党政策部主任）</strong></p>
-<p><small>编注：本文初稿原载于<a href="https://www.facebook.com/kookisky/posts/1433934933299352">温朗东脸</a>书。由于作者在抗争现场声援，部分段落由端传媒评论总监曾柏文协助增补，作者审定。</small></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E6%B8%A9%E6%9C%97%E4%B8%9C%EF%BC%9A%E5%8D%8E%E8%88%AA%E7%BD%A2%E5%B7%A5%EF%BC%8C%E6%94%B9%E5%86%99%E5%8F%B0%E6%B9%BE%E5%8A%B3%E5%8A%A8%E5%B0%8A%E4%B8%A5%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%8F%B0%E6%B9%BE%E5%8D%8E%E8%88%AA%E7%BD%A2%E5%B7%A5/?category=18271" rel="tag">2016台湾华航罢工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E8%B5%84%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">劳资纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%A9%E6%9C%97%E4%B8%9C/?category=18271" rel="tag">温朗东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%A2%E5%B7%A5/?category=18271" rel="tag">罢工</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -790,7 +775,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%8F%B0%E6%B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -800,5 +785,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%8F%B0%E6%B
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%EF%BC%9A%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%B4%AA/" target="cdt-mirror">【异闻观止】参考消息：外媒报道乌坎村主任“贪腐”属实</a>
+</h2>
+<p><p>【美国《国际日报》6月26日报道】题：乌坎村“精神领袖”被自己打败了</p>
+<p>以乌坎村“精神领袖”自居的林祖恋试图复制5年前的做法——发动村民大规模集会并召集大量媒体进村，不过这次的复制显然未能成功。“因为他的确贪污受贿，被自己打败了,”一名林祖恋的“发小”直言不讳地说，“林祖恋变了质，他辜负了我们大家的希望。”</p>
+<p>5年前因为一场村委会选举引发强烈风波的中国南方的广东汕尾陆丰市乌坎村，最近又曝出当年村民一人一票选出的村主任林祖恋涉嫌受贿而再次引发关注。虽然有些媒体刻意把林祖恋的被羁押描绘成中国政府对民主的践踏，但冷酷的事实没有往这个想象的方向去发展。汕尾检察机关称，早在3个月前，就有人实名举报林祖恋涉嫌贪腐，并且提供了诸多线索。</p>
+<p>“有关部门做了初查，居然发现全部属实。这令我们大为惊讶。”中共汕尾市纪委的一名官员说，凡是林祖恋经手的乌坎村民生项目，他全部雁过拔毛，一般都要拿项目总金额百分之三以上的回扣，最高的达两成。“林祖恋是典型的蝇贪！”</p>
+<p>蝇贪这个新词，是中共十八大以来习近平主席主导的“打虎拍蝇”雷霆反腐的一部分。打虎是针对高级官员，而拍蝇则针对林祖恋这样的基层干部。“苍蝇的贪腐数额可能不如大老虎，但老百姓耳闻目睹，成天嗡嗡地，反响强烈！”广东省委党校常务副校长杨汉卿表示，拍蝇的社会效应不亚于打虎，老百姓非常拥护。</p>
+<p>从2014年开始，广东省开展了包括治理村官腐败在内的基层三项治理行动。未经证实的消息称，有多达1000名村干部被查处。不幸的是，林祖恋成为其中一分子。“林祖恋感觉自己正在被调查，就导演了悲情剧，试图挟持村民和舆论，从而让政府有所忌惮，不敢动他。”负责村官治理等基层三项治理工作的中共汕尾市政法委一名官员说，不过这次他演了一出狗血剧。</p>
+<p>而在林祖恋被调查的四天后，汕尾地方网站出现了一篇自称当年受林祖恋培养的乌坎人发的帖子，文中称林祖恋从学校塑胶跑道项目中拿回扣，“绝不是什么清官”，并呼吁官方进行调查。而调查的结果再次令人难受：属实。“网民举报的这个线索我们事先没有掌握。”汕尾的检察人员说。</p>
+<p>“他的确有口才，有水平，动员能力强，但是人也是会变的。林祖恋大权在握后，变化太大了！今天的林祖恋早已经不是当年的林祖恋！”举报的村民这样写道。多数学者认为，林祖恋是否贪腐已经不是问题，关键是要探究乌坎村为何两任村官先后栽倒的深层次原因，从制度上解决中国基层官员的权力进笼子的问题。（稿源：参考消息）</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/5746511543" target="_blank">@哒嗒小飞</a>：也是醉了，自己的法院，检察院，政府，党媒说的不信，要靠外国媒体证明我们的政府没说谎<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">，真的药丸</p>
+<p>@坚强的人生无悔:知道自己公信力破产就找个所谓“外媒”发声，其实谁不知道所谓“外媒”只是你们控制的注册在国外的媒体而已！</p>
+<p>@启创造型Marco：还用外媒来打头阵。上访前夜被捕。然后出现在中央电视上。只能说领导不懂法律法规。未审先判！还不准请律师。你当我们不知道</p>
+<p>@书记james ： 这样的外媒很多，大公文汇就不说了，美国有国际日报，世界日报，欧洲有欧洲时报。。。</p>
+<p>@entropie：人社集团近些年斥资无数，在欧州、北美、澳洲收购报纸、广播电台，自己写好稿子让它们发，真正实现了新闻的出口转内销，大家看到经常被点到提问的老外记者多是这些报纸的，它们自己玩的很h。</p>
+<p>@言微澜：我去，请外来和尚就能念经？？就是真经？难道人民傻？不是反美么？还用美报撑腰？谁信谁傻X！</p>
+<p>@杜梨庄的李三：合己意就是好外媒，不合己意就是境外敌对势力，何况这个外媒真假还说不准。</p>
+<p><a href="http://weibo.com/2632866925" target="_blank">@小土豆0801</a>：原来中国人出国门办一家华文媒体就是外媒啦<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">哪怕乌坎村主任真的有贪腐行为 也不能因此否定他的贡献 某人都发动10年浩劫了还功过三七分呢 凭什么一刀切？功是功 过是过！辩证来看才是正道</p>
+<p>@小Q小魔仙：外媒这个临时工不好当吖！这时又拉出“外媒”想说什么呢？外媒不都是敌对势力吗？</p>
+<p>@sam的橘子妈妈:就算真是外媒，外媒说属实就属实了？那还要法律干什么？</p>
+<blockquote><p><a href="http://weibo.com/n/LifeTime?from=feed&loc=at" target="_blank">LifeTime</a>: 外宣控股的华文媒体。<img title="[瞧瞧]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8b/lxhqiaoqiao_org.gif" alt="[瞧瞧]" data-recalc-dims="1"></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/dd816182gw1f5ak7gcphzj20lc0qq44f.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/dd816182gw1f5ak7gcphzj20lc0qq44f.jpg?resize=400%2C501" alt="dd816182gw1f5ak7gcphzj20lc0qq44f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/dd816182gw1f5ak7gcphzj20lc0qq44f.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/dd816182gw1f5ak7gcphzj20lc0qq44f.jpg?resize=240%2C300 240w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p></blockquote>
+<p>@一枚落叶一百世：这样你们就放心了？找个“外国”报纸就开心了，就算案件办的好了？</p>
+<p>@兽性大发黄小兔：没事儿，五毛大军一会儿就来，人家姓赵不加班</p>
+<p>@伊留声机：删评论删的很勤快嘛</p>
+<p><a href="http://weibo.com/n/%E8%A7%84%E5%88%99-G?from=feed&loc=at" target="_blank">规则-G</a>:<a href="http://weibo.com/n/%E9%99%86%E4%B8%B0%E5%8F%91%E5%B8%83?from=feed&loc=at" target="_blank">@陆丰发布</a> <img title="[威武]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/vw_org.gif" alt="[威武]" data-recalc-dims="1">竟然找到了海外“靠山。自干五：失误，家丑不可外扬！毛粉：勾连海外势力有辱大国尊严！公知：弱智，你找BBC或CNN看？老百姓：忽悠谁呢？给我1,000万，想印啥就应啥！<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2458236043" target="_blank">TopGear911</a>：这条消息没删 我就知道肯定是“真的”了<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/3826656984" target="_blank">老处男孩</a>：<img title="[汗]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]" data-recalc-dims="1">看看评论，放心。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%EF%BC%9A%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%B4%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B1%9F%E6%A3%8B%E7%94%9F%EF%BC%9A%E8%A2%AB%E8%BF%AB%E6%B2%89%E9%BB%98%EF%BC%9A%E8%87%AA%E7%94%B1%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%8D%E8%87%AA%E7%94%B1/" target="cdt-mirror">自由亚洲｜江棋生：被迫沉默：自由，还是不自由？</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-2.jpg?resize=550%2C431" alt="image" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-2.jpg?w=597 597w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-2.jpg?resize=300%2C235 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
@@ -744,38 +781,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%BA%E6%B0%91%E7%BD%91%E5%88%A0%E9%99%A4%E9%80%94%E8%A7%82tg%E5%BC%80%E5%80%92%E8%BD%A6%E4%B8%8B%E5%8F%B0%E5%BE%AE/" target="cdt-mirror">【立此存照】人民网删除“途观(TG)开倒车下台”微博</a>
-</h2>
-<p><p><strong>【编者注】人民网官方账号24日发布了一条“开倒车”是“技术活”的微博，并配上一辆大众途观（TG）倒车下台阶的动图，很快引来大量网民展开“生动”联想，其中包括“开倒车”、“下台”、“硬着陆”、“L型”等暗讽习近平政权的关键词。目前该微博已被删除。</strong></p>
-<blockquote><p><a href="http://weibo.com/taowen76" target="_blank">@痒痒闹眼子</a> ：人民网发了条微博，后来删了，也不知道为什么？<img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3mzmakj20u01hc4pg.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3mzmakj20u01hc4pg.jpg?resize=400%2C711" alt="776785c1gw1f57c3mzmakj20u01hc4pg" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3mzmakj20u01hc4pg.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3mzmakj20u01hc4pg.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3mzmakj20u01hc4pg.jpg?resize=576%2C1024 576w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3q5yfvg207o05mx6p.gif"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3q5yfvg207o05mx6p.gif?resize=276%2C202" alt="776785c1gw1f57c3q5yfvg207o05mx6p" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3qzbksj20u01hcdo8.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3qzbksj20u01hcdo8.jpg?resize=400%2C711" alt="776785c1gw1f57c3qzbksj20u01hcdo8" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3qzbksj20u01hcdo8.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3qzbksj20u01hcdo8.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/776785c1gw1f57c3qzbksj20u01hcdo8.jpg?resize=576%2C1024 576w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@咚个咚个咚咚呛：开倒车的要下台！正解</p>
-<p>@冯陆洋：还他妈是途观（tg）</p>
-<p>@胖子愁穿不愁吃：大众牌，没看路，开倒车，硬着陆</p>
-<p><a href="http://weibo.com/1432246714" target="_blank">@爱她已十年</a>：途观（TG）开倒车，还下台了，硬着陆，寓意很深啊<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p>@机智的小院长：途观（TG） 开倒车 硬着陆 L型走势 最后还改变了前进方向 小编活着不好吗？</p>
-<p><a href="http://weibo.com/n/%E5%88%98%E9%9C%87liuz?from=feed&loc=at" target="_blank">@刘震liuz</a>:寓意很深刻啊，还是人民日报“权威人士”的观点<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1956398077" target="_blank">@大武汉包租婆</a>：小编已吓哭。<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5138943878" target="_blank">@李婷–2016</a>：估计小编现在正跪在领导面前扇自己耳光<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1132216402" target="_blank">@52赫兹的海洋</a>：穿新鞋走老路，开新车挂倒档<img title="[阴险]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6d/yx_org.gif" alt="[阴险]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5234036778" target="_blank">@此号可以殉国</a>：要否定文化大革命，办不到！……让刘、邓上台，我同林彪南下，再上井冈山打游击！————老司机。<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/ahlaiza" target="_blank">@vyawawa</a>：既然是老视频新发，那一定是意有所指，开历史倒车的没有好下场？<img title="[挤眼]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/c3/zy_org.gif" alt="[挤眼]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3838381249" target="_blank">@-叫我小张</a>：赶紧应验吧，我愿吃素三天<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" px data-recalc-dims="1"></p>
-<p>@新月弯弯V：这个视频故意用途观开倒车</p>
-<p>@尝尽似水流年：哈哈，几个关键词全有了，途观（TG）、开倒车、L型、下台。。。</p>
-<p><a href="http://weibo.com/lworldmusic" target="_blank">@鱿鱼鱼鱼鱼鱼鱼鱼鱼鱼鱼鱼</a><i title="微博达人"></i>：<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">不能怨有各种解读，谁让是人民网啊</p>
-<p>@ggstudy：最会玩文字狱的日人民报，自己被玩了。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%BA%E6%B0%91%E7%BD%91%E5%88%A0%E9%99%A4%E9%80%94%E8%A7%82tg%E5%BC%80%E5%80%92%E8%BD%A6%E4%B8%8B%E5%8F%B0%E5%BE%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E7%BD%91/?category=18271" rel="tag">人民网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%80%92%E8%BD%A6/?category=18271" rel="tag">开倒车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%94%BF%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">执政合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A1%AC%E7%9D%80%E9%99%86/?category=18271" rel="tag">硬着陆</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -787,7 +792,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -797,5 +802,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

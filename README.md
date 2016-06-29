@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,167 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%88%91%E7%94%9A%E8%87%B3%E6%B2%A1%E6%9C%89%E6%84%8F%E8%AF%86%E5%88%B0%E9%82%A3%E6%98%AF%E5%BC%BA%E5%A5%B8-%E7%8B%AC%E5%AE%B6%E9%9D%A2%E8%AE%BF%E8%A2%AB%E7%94%B7%E8%AE%B0/" target="cdt-mirror">新媒体女性｜独家面访被男记者性侵报社实习生</a>
+</h2>
+<p><blockquote><p>我这样情况的，算强奸吗？可是我要说，我真的是不愿意的，我不愿意。是他强来的。</p></blockquote>
+<p><span>撰稿、编辑 | 新媒体女性<br>
+考虑到当事女生微博冻结，本文开放所有媒体转载，注明出处“新媒体女性”和“女泉”即可。</span></p>
+<p>6月28日，接近午夜，新媒体女性在广州一咖啡厅见到了小卉和她的朋友小姜。6月28日傍晚，小卉的微博帐号@喵喵小卉 发出了一篇图片格式的博文，内容是小姜以第一人称，叙述了小卉在27日下午前往南方报社开具实习证明时，被南方日报记者成某纠缠和性侵的经历。</p>
+<p>事实上，小卉最终报警，是在和小姜商量之后，才作出的决定。即便是初次见面，外人也能明显地感觉到这一对好朋友的性格反差：小卉身材瘦小，一米五的身高，不到四十公斤，一看就是那种好脾气的姑娘，总是带着犹豫不决、不好意思的微笑；而小姜则身材高大些，神情不怒而威，目光炯炯让人印象深刻。对于已经发生的一切，小卉至今仍然是无所适从的，她不断自责，担忧考试受影响、担忧请不起律师耗不起时间打官司、担心这个事件会给自己带来各种危险——每一个决定都让她疑 虑重重进退两难；而小姜则是镇定的——当她们在午夜突然被警方通知到派出所配合调查时，等候在办事大厅，一位女性副所长过来问小姜：“是你发的贴么？”小姜直视对方，中气十足地回答了一个“是”。</p>
+<p>“她觉得就这么算了，我说，这个事情非常严重，怎么能算了？”小姜对新媒体女性表示。她替小卉应付所有来自外界的电话和询问，只有经过她过滤的通话者，才能接触到小卉。因此，她一直比小卉更忙；偶尔，她关切地看一眼自己的朋友，嘟囔一声：“哎，她呀，就是这性格……”</p>
+<h2>案情进展</h2>
+<p> <br>
+面访进行了一小时，然后被警方的传召打断。28日午夜，在网络舆情发酵之后，南方日报和广州警方相继发出通报，东山派出所连夜让当事人和证人重新做笔录。到了东山派出所，警察让小卉一个人上了一辆警车，对相关地点踩了一遍点。</p>
+<p>另一位前来支持小卉的暨大学生小利，也被要求前往配合了警方的调查——她同样在前往开具实习证明时，被成某要求去咖啡馆“聊聊”，并进行性骚扰。只是她摆脱了。小利告诉新媒体女性，成某虽然不是她的直接指导老师，但经常找她干活，带她完成了十篇稿子，并且“经常和我说些做人的道理。”开实习证明那天，成某也是找她到附近的咖啡馆聊天，“他一直跟我聊我的职业规划啊人生规划啊，问我想在哪里买房啊公积金啊户口啊。他还夸我人好看变得有气质了。后来……就在半路上表白，说喜欢我很久了，不觉得我们很配吗，要我把男朋友甩了……”小利在朋友圈如此叙述自己的遭遇：“看到这个直接吓哭了，我就在这个新闻部实习，同样是带我的记者没空管，然后这个成×异常热心带实习带文章。同样是开实习证明那一天，我准备走他就跑过来说喝杯咖啡，同样准备离开咖啡厅时原形毕露突然各种恶心露骨地表白。不同的是我立刻就走了，而这个女生受害了。南方日报广州观察部成×，此处省略一万字脏话。”“我走了之后去地铁站的路上他一路跟着我，一路表白并且不停凑近，直到我要进站他才放弃往回走，我边看着他走边死活翻不出羊城通差点急死。”</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a3ca4ce6bbd7aae02b2876387bdb4ac6.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a3ca4ce6bbd7aae02b2876387bdb4ac6.jpg?resize=450%2C800" alt="a3ca4ce6bbd7aae02b2876387bdb4ac6" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a3ca4ce6bbd7aae02b2876387bdb4ac6.jpg?w=720 720w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a3ca4ce6bbd7aae02b2876387bdb4ac6.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a3ca4ce6bbd7aae02b2876387bdb4ac6.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>小利的朋友圈截图。</p>
+<p>29 日凌晨，新浪微博@Host杜泽众 代朋友发布一篇第一人称的文章，披露了其在南方报社实习期间，被成某利用实习导师身份百般制造独处骚扰机会，最终艰难逃离的经历。这名女生在文章中表示，她要站出来声援小卉，反击谴责受害者的言论，“因为强奸存在的原因只有一个，那就是强奸犯。”</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/98ed6943332c2e560e3f63e8cd216a8b.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/98ed6943332c2e560e3f63e8cd216a8b.jpg?resize=450%2C799" alt="98ed6943332c2e560e3f63e8cd216a8b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/98ed6943332c2e560e3f63e8cd216a8b.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/98ed6943332c2e560e3f63e8cd216a8b.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/98ed6943332c2e560e3f63e8cd216a8b.jpg?resize=577%2C1024 577w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1693fdee94baa886f9246e7aaf534600.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1693fdee94baa886f9246e7aaf534600.jpg?resize=450%2C544" alt="1693fdee94baa886f9246e7aaf534600" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1693fdee94baa886f9246e7aaf534600.jpg?w=720 720w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1693fdee94baa886f9246e7aaf534600.jpg?resize=248%2C300 248w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><span>第三名女生在微博发布自己的经历声援小卉。</span></p>
+<p>由于小姜的网贴（链接：https://mp.weixin.qq.com/s?__biz=MzI3MDEwMTU4Mw==& mid=501367898&idx=1&sn=7335d6df06040fcb1111d914084fafcb&scene=1&srcid=0628Bg0GmKJOWVI0ZmQDzNIG&pass_ticket=TE1VwBwDMXaiJblPAHp7yJexNqx%2B%2Ff%2BwvHZGNm5oLsmDYQ1%2FwqxxBU8t2c5IZtXZ#rd ，可戳页面最下方“阅读原文”字样查看）已经大致描述了事件的过程，我们主要针对一些关键的情节进行了提问，并组织了文章的结构。</p>
+<h2>在报社发生了什么？</h2>
+<p> <br>
+事情发生，是小卉在实习结束一年多之后，需要一份实习证明。在小卉实习期间，她很多时候是代表指导老师跑发布会、做录音整理，稿子做好通过邮箱发过去，办公室去的并不多，也较少见面一起工作，因此她不认为老师对自己有深刻印象。</p>
+<p>微信聊天记录显示，小卉跟实习指导老师成某提及要开证明， 从聊天记录看，两人甚少联系，小卉也并未期望对方记得自己，因为<b>她第一句话如此介绍自己“老师好，我是之前在您这里实习的同学。然后有一个问题想问一下……”</b></p>
+<p>而成某的反应则是叫出她的名字，然后询问事由。成某答应帮她跟行政部打招呼，然后似乎忘记这件事，小卉再次提醒之后，他给了她行政联系方式。</p>
+<p>当6月27日，小卉前往办理实习证明，她被行政人员告知需要成某签字；因为这个原因，她才到记者办公室找到成某，签了字。也就是说，她并未预期遇见成某。于是，她在签字之后的下午两点四十六分，给小姜发了一条微信“妈呀，那个记者还认识我居然……”成某不仅认识她，还注意到她外表形象的变化。</p>
+<p>六分钟之后，小卉收到了成某微信：“你在楼下等等我？”“我们聊聊”，“一楼大厅咖啡厅”。小卉的反应是“好的”加一个“冷汗”的表情。对方又发来一条：“发现你比以前成熟漂亮多了。”小卉的反应是：“笑出眼泪”表情加“额……谢谢老师。”</p>
+<p>小卉认为对方对自己不会有印象，可能与之前的互动有关。在实习期间不多的见面时，陈某对她进行了非常“专业”的指导，包括要求她更加自信果断，而不是“唯唯诺诺”，还提出过她的袜子搭配不对之类的外表形象问题。小卉也曾经因为写稿慢被严厉批评过，因此对成某非常敬畏。小卉认为自己在他眼里，普通、不出众、土。事后小卉发现其他被骚扰的女生谈及，成某在办公室对她们就动手动脚，并且语言轻佻，她的推测是：“也许他之前真的觉得我很土，所以才会对我很严肃；她们漂亮，所以一开始他就不正经吧。”</p>
+<p><b>而在小卉眼里，成某是非常“严肃正经”的，他总是非常专业、非常“厉害”——涉事未深的大二学生不能理解的一种有阅历的厉害。譬如，小卉说，有一次跟他去工商局采访，发现成某语速极快、“犀利”地连珠炮问了局长很多问题。对这个“口齿伶俐，又有背景”的老师，小卉用“敬畏多一点”来形容自己对成某的感受。</b></p>
+<p>成某继续要求小卉在咖啡厅坐下来等他，解释了自己手边有事不能马上下来。好脾气的小卉就在楼下等了“成老师”四十五分钟。</p>
+<p>微信记录显示，两人对话很少，小卉的对话除了请求开证明，全部是被动回应。当三点五十六分他们开始坐下来聊天之后，最初涉及的内容大约是关于新闻。小卉在微信中发了两篇自己最近的作品，请成某批评。而这两篇文章之后，就是到了四点三十二分，成某说：“你直接进来，在电梯口等我。”</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c2e9357cc202a29a227cba3303b47493.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c2e9357cc202a29a227cba3303b47493.jpg?resize=450%2C801" alt="c2e9357cc202a29a227cba3303b47493" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c2e9357cc202a29a227cba3303b47493.jpg?w=719 719w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c2e9357cc202a29a227cba3303b47493.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c2e9357cc202a29a227cba3303b47493.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/51dc8b2658172ae0700bf9e9210d7684.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/51dc8b2658172ae0700bf9e9210d7684.jpg?resize=450%2C801" alt="51dc8b2658172ae0700bf9e9210d7684" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/51dc8b2658172ae0700bf9e9210d7684.jpg?w=719 719w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/51dc8b2658172ae0700bf9e9210d7684.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/51dc8b2658172ae0700bf9e9210d7684.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1b36b124831e7ac20f2c58171fd0f99a.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1b36b124831e7ac20f2c58171fd0f99a.jpg?resize=450%2C801" alt="1b36b124831e7ac20f2c58171fd0f99a" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1b36b124831e7ac20f2c58171fd0f99a.jpg?w=719 719w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1b36b124831e7ac20f2c58171fd0f99a.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1b36b124831e7ac20f2c58171fd0f99a.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec70f6c05bc517ccb47f3817915c8289.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec70f6c05bc517ccb47f3817915c8289.jpg?resize=450%2C801" alt="ec70f6c05bc517ccb47f3817915c8289" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec70f6c05bc517ccb47f3817915c8289.jpg?w=719 719w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec70f6c05bc517ccb47f3817915c8289.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec70f6c05bc517ccb47f3817915c8289.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/182000683e63e98bf63fd9f034a65b6c.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/182000683e63e98bf63fd9f034a65b6c.jpg?resize=450%2C801" alt="182000683e63e98bf63fd9f034a65b6c" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/182000683e63e98bf63fd9f034a65b6c.jpg?w=719 719w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/182000683e63e98bf63fd9f034a65b6c.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/182000683e63e98bf63fd9f034a65b6c.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a22c28198522159f517c29f93a740d63.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a22c28198522159f517c29f93a740d63.jpg?resize=450%2C801" alt="a22c28198522159f517c29f93a740d63" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a22c28198522159f517c29f93a740d63.jpg?w=719 719w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a22c28198522159f517c29f93a740d63.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a22c28198522159f517c29f93a740d63.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ff841d9e389fcd7dc61194e2d3fb6260.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ff841d9e389fcd7dc61194e2d3fb6260.jpg?resize=450%2C801" alt="ff841d9e389fcd7dc61194e2d3fb6260" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ff841d9e389fcd7dc61194e2d3fb6260.jpg?w=719 719w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ff841d9e389fcd7dc61194e2d3fb6260.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ff841d9e389fcd7dc61194e2d3fb6260.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><span>小卉与成某的所有事前聊天微信截图。</span></p>
+<p>在之后半个小时发生了什么？小卉说，成某先是向她说起一个冼村拍摄的纪录片项目，游说她参与。“我没有兴趣啊，时间不够，而且我不想在南方报社实习了。” 之后，成某离她越来越近，开始向她示爱。而对于成某的要求，小卉觉得不可能答应，但有些犹豫不知道如何开解，“他就向我表白，说‘我可以给你很多资源。’ 我婉拒了。我不需要这些资源。我有别的计划。他还说他单身（事实上已结婚）。我委婉拒绝了——我也不能说马上起身离开，那样也不太礼貌。”</p>
+<p>这时，成某说要找另一个地方说话，小卉就跟他一起走到附近一条餐饮店铺密集的街道，以为是要一起吃饭。<b>在路上，成某提出要看小卉的身份证。小卉犹豫着掏出钱包，成某在她手上拽住了身份证，而小卉也没撒手——僵持的这几秒种，引得一位路人侧目——小卉放手了。</b>于是，成在一家七天楼下让她等着，自己拿着她的身份证去开房。此时，小卉并不知道，之前也有其他女孩曾经被成某以这种方式抢走了身份证。</p>
+<p>没主意的小卉一直在跟小姜微信交谈，她和小姜的微信记录显示，让她不知如何应对的，是这位平时很“严肃正经”的老师对自己突然追求，她显得好奇和震惊——“他跟我表白要地下情”、“他怎么突然之间”、“他要包养我”……当朋友激动地说身份证被拿走应该报警的时候，她并未照做。她在前台站了一会儿，然后才上去。</p>
+<p>小姜的建议是“你录音啊！”但小卉再没答应。她事后跟小姜的对话中，说自己“我本来想进门就录音，结果进门就被扑倒”。在微信记录中，她跟小姜如此分析自己：“唉，重点就是我也不明白我自己，我觉得我要是非常强硬我就能跑”；“我觉得我当时有点蒙蔽……就是他一开始说要在一起什么，我就想这人咋回事”……当小姜激烈回应她“就是想哄你上床”，她接着说：“对呀，我就想咋回事，当然我也不喜欢他，也不想找对象。”接下来，是接二连三的感叹：“我觉得我也不强硬”、“唉，我觉得我傻×了”。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0339295ef4d16abe240feed680a1e30.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0339295ef4d16abe240feed680a1e30.jpg?resize=450%2C800" alt="d0339295ef4d16abe240feed680a1e30" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0339295ef4d16abe240feed680a1e30.jpg?w=450 450w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0339295ef4d16abe240feed680a1e30.jpg?resize=169%2C300 169w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c57a2d94aaa0df0a61117e9331afbc87.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c57a2d94aaa0df0a61117e9331afbc87.jpg?resize=450%2C800" alt="c57a2d94aaa0df0a61117e9331afbc87" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c57a2d94aaa0df0a61117e9331afbc87.jpg?w=450 450w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c57a2d94aaa0df0a61117e9331afbc87.jpg?resize=169%2C300 169w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>小卉与小姜事后的聊天微信截图。</p>
+<p>进入房间之后 ，成某将房门反锁，并很快将小卉推倒在床上。尽管小卉一直表示不愿意，成某还是对其进行了性侵。警方事后在其体内取得了成某的精液。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7e5bbf90d9866f3e10513105cbf9b08b.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7e5bbf90d9866f3e10513105cbf9b08b.jpg?resize=575%2C307" alt="7e5bbf90d9866f3e10513105cbf9b08b" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7e5bbf90d9866f3e10513105cbf9b08b.jpg?w=768 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7e5bbf90d9866f3e10513105cbf9b08b.jpg?resize=300%2C160 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p><span>小姜的网帖内容截图。</span></p>
+<p>在事后和小姜的对话中，小卉一再提到她的顾虑：成某有广泛的人脉关系，举报他可能只会招致报复，而不会得到公正处理。她们在一位朋友的劝告下报警，但是却在学校所在的天河区，等到天河警方和越秀警方交接案情完毕，已经是27日深夜。</p>
+<h2>成某其人</h2>
+<p> <br>
+尽管28日整晚，数个记者群里都有人不断圈成某回应，他没有发声。他的电话也联系不上。</p>
+<p>不过，很多南方报社背景的记者通过朋友圈评论和记者群发言表示，成某在业内口碑极差。譬如，曾经指导其的实习老师表示对其“没信心”，一位曾经在南方都市 报深圳部与其共事的记者表示，“在深圳部呆过的人都不会觉得（性侵）意外，因为他就是那样的人”。数名记者表示，成某在南都深圳部因为新闻敲诈事发，处理结果却是其进入了南方日报工作，如今是广州新闻部助理主任。</p>
+<h2>对话小卉：为什么要进那个房间？</h2>
+<p> <br><span>新媒体女性： 网上很多质疑，主要集中在——你为什么要跟他进旅馆房间？</span></p>
+<p>小卉：在咖啡厅表白完了之后他起身说去隔壁聊聊，我以为他要带我去隔壁餐厅吃饭，而且我以为他要认真聊聊表白的事情。在街上他要看我的身份证，很着急，我从钱包里拿给他看，他就扯，我就捏住，我演示一下给你看……然后他就把我身份证硬扯走了。当时路人也有点侧目，回头看我们。</p>
+<p>小姜跟我说，让我报警拿回我的身份证，<b>可是那个时候并没有发生什么的，他只是想找我谈谈，警察不会管的。</b>我难道因为一个老师拿了我身份证就去报警吗？我跟他进房间，真的没有想到他会强来。因为即便是他跟我示好，我也并没有觉得他不正经——因为他说没有女朋友啊，我觉得示好也很正常吧。我觉得我只是要跟他谈清楚，好好说。</p>
+<p>但我还是会有点害怕，所以我给小姜发了求救。我会想我是不是反应太夸张，毕竟我不知道会发生什么。（要是怀疑错了）我也不好意思。<b>如果他是个陌生人，我宁愿身份证不要我也不进去了，但是他是报社的老师。我没想到他会做这种事，就以为他只是想要谈一谈。</b>我当时也觉得需要好好谈一下（就进去了）。</p>
+<p>说真的，事情发生的时候我是懵的……时间很短，我甚至并没有觉察到他插入我身体，以及射精……他自己说有射的。确实一直是软软的，磨蹭，我没怎么感觉到过程……说老实话，我甚至没有意识到那是强奸……<b>我以为强奸都是在街上，黑漆漆的，跑出一个陌生人把你抓了，要有暴力，打晕你啊，拿刀逼你啊。强奸不是这样吗？我这样情况的，算强奸吗？可是我要说，我真的是不愿意的，我不愿意。是他强来的。</b></p>
+<p><span>新媒体女性：性侵后发生了什么？</span></p>
+<p>小卉：我们很快就离开了。就他让我洗洗就离开了。我感觉他发生了这个事情后他又很正常了。（新媒体女性：跟之前有什么不一样呢？）在强迫我发生性关系时…… 是很强势的，过后又很温和了，跟平时一样，好像什么事都没有发生过。后来，他让我去买药，我不敢啊，不好意思。他就去附近的药店，买了那种只有两颗的避孕药，买了水，让我吃了药。他还拿走了避孕药的药盒，不让我留着。</p>
+<p><span>新媒体女性：吃完药就分手了吗？当时已经到晚餐时间了……</span></p>
+<p>小卉：我就是认命吧。我觉得这个事情结束了。<b>他还说想之后再约，我说不要。我心里就想：以后再也不要见了。</b>走到路口，我就说我要回学校了。就分开走了。</p>
+<p><span>新媒体女性：事情公开后有什么担忧吗？</span></p>
+<p>小卉：他知道我报警了。我就很怕他报复。他是挺有背景的人。</p>
+<p><span>新媒体女性：可能很多人都会质疑你为什么要收钱。</span></p>
+<p>小卉：我就觉得这个事情已经发生了，我还能怎么样呢？我真的没有想到报案追究什么的。我不大懂法律，当时就是认倒霉了。<b>他在微信里转钱给我，他在我边上，门锁着，我只好点了接收。我自己当时的感觉真的是算了……我是不情愿，可是发生了啊，我不觉得自己还能做什么。</b></p>
+<p><span>新媒体女性：很多人都说，七天的隔音不好，你可以喊，也可以挣扎更剧烈一些让人知道。</span></p>
+<p>小卉：我觉得挣扎的话……我真的比较胆小怕事，感觉他之前是老师，是很厉害的记者，<b>我跟这么一个男的在房间里，我不敢激烈反抗，怕他打我。</b></p>
+<p><span>新媒体女性：我看了你和小姜的对话，感觉没有她，你可能不会报警。</span></p>
+<p>小卉：是，可能就是算了。不过一开始小姜也没有说报警，就是觉得不能这么算了。她咨询了一位朋友，那位朋友认为这就是强奸，必须要马上报警。才会有后来的事情。<b>我其实一直都没觉得有希望（惩罚成某），因为一开始警察就说我没有抓伤他啊什么的，就不能表示我不愿意。</b></p>
+<p>29日早晨七点，小姜和小卉先后做完笔录从派出所出来。对于这两个女孩报警的决定，那位女性副所长只有一句评价：“有事找警察，总是没错的。”</p>
+<h2>事件发展相关链接</h2>
+<p> <br>
+6月28日17：22，新浪微博@喵喵小卉 发布的一篇名为《南方日报名记者诱*暨南大学女实习生，强来时候仍淡定从容令人发指》的文章引起网友热议。http://weibo.com/3166350327/DCoei48lz</p>
+<p>6月28日21：29，南方报业传媒集团监察审计部发布声明，表示“关于网传本集团一记者诱奸女实习生的帖文，集团高度重视，已经组织调查。如情况属实，将严肃处理，决不姑息。”http://weibo.com/1682207150 /DCnawAiPV?from=page_1002061682207150_profile&wvr=6&mod=weibotime&type=comment</p>
+<p>28日晚22：13，广州市公安局发布通报称【广州越秀警方对一女子报警称被强奸的警情开展调查】 http://weibo.com/1722022490/DCnsvtd21?from=page_1001061722022490_profile&wvr=6&mod=weibotime&type=comment</p>
+<p>29日00：11， 新浪微博@Host杜泽众发布另一位被成某骚扰的女实习生自述，要求南方报业集团“严格把关，做新闻‘把关人’，请先把‘人’把关好 了”http://weibo.com/3166350327/DCoei48lz?type=comment#_rnd1467149552411</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%88%91%E7%94%9A%E8%87%B3%E6%B2%A1%E6%9C%89%E6%84%8F%E8%AF%86%E5%88%B0%E9%82%A3%E6%98%AF%E5%BC%BA%E5%A5%B8-%E7%8B%AC%E5%AE%B6%E9%9D%A2%E8%AE%BF%E8%A2%AB%E7%94%B7%E8%AE%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5/?category=18271" rel="tag">性侵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82%E4%B8%8D%E4%BB%85%E4%B8%8D%E7%8E%AF%E4%BF%9D-%E6%9B%B4%E6%98%AF%E6%B1%A1%E6%9F%93/" target="cdt-mirror">网易回声 | 中国的垃圾焚烧厂不仅不环保 更是污染集中地</a>
+</h2>
+<p><p><strong>垃圾焚烧本身是一个相对环保的垃圾处理方式，但前提需要垃圾分类。中国焚烧厂不仅在焚烧垃圾前没有垃圾分类，对于焚烧后残余物的处置也为所欲为，最终不仅伤害了环境和民众健康，也让垃圾焚烧产业背了黑锅。</strong></p>
+<p>作者：吴静宜</p>
+<p>这几天，湖北仙桃市的垃圾焚烧厂事件闹得沸沸扬扬。已经开工建设两年的垃圾焚烧发电项目，在即将试运行前遭到了市民的大规模抵制运动，短短几天内时间，仙桃市政府的态度也发生巨大转变，从教育民众到最终软化下来。6月26日上午，仙桃市人民政府官网连发两条消息，将垃圾焚烧发电项目先是“暂缓建设”，最后直接“决定停止该项目”。</p>
+<p>中国在近十年间，开始四处建造垃圾焚烧厂，而项目所到之处也尽皆受到当地民众的强烈抵制。垃圾焚烧厂成了一个十恶不赦的存在，到哪都惹人嫌。所有人都在担心，建在家门口的垃圾焚烧厂会把自己家也变成垃圾场，或者火葬场。</p>
+<blockquote><p>垃圾焚烧在欧洲很受欢迎，但前提是垃圾分类，在中国，焚烧未经分类的垃圾，会导致有毒气体二噁英的释放。</p></blockquote>
+<p>垃圾焚烧是把固体垃圾通过高温加热转化成灰烬、烟尘和热量。通过焚烧，原来的固体垃圾可以减少 80%－85% 的质量，减小 95%－96% 的体积，极大地节省了填埋空间。这种垃圾处理方式在土地面积小的国家很受欢迎，所以日本和北欧的垃圾焚烧技术一直走在全球前列。一个世纪以前，丹麦和瑞典就已经建造了垃圾焚烧厂，并用焚烧出来的热量给城市供暖。2005 年，垃圾焚烧为丹麦节省了 4.8% 的电能消耗和 13.7% 的国内热能消耗。瑞典每年还要从国外进口70 万顿的垃圾专门用来焚烧发热发电。</p>
+<p>但是垃圾分类是垃圾焚烧的第一步，如果没有在焚烧前进行垃圾分类，以去除有害的、体积庞大的或可再生的原料；焚化炉会由于没有足够的尾气净化和有效的焚烧流程控制，导致有毒气体二噁英的释放。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/201606281643084d028.jpg?resize=600%2C375" alt="日本的食物垃圾分类工厂，在这里残渣会被回收制作成家畜饲料。/Reuters" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/201606281643084d028.jpg?w=1920 1920w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/201606281643084d028.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/201606281643084d028.jpg?resize=768%2C480 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/201606281643084d028.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>日本的食物垃圾分类工厂，在这里残渣会被回收制作成家畜饲料。/Reuters</p></div>
+<p>瑞典乌普萨拉大学（Uppsala University）的学生索非亚（Sofia Ekstrand）和（Annicka Wänn）就武汉的垃圾焚烧厂写了一篇硕士论文，其中提到：每天武汉都会产出大约 6000 吨的固体垃圾，由于这些垃圾中很大一部分是厨余垃圾，导致垃圾整体含水量高，热值只有6600 kJ/kg，虽然勉强达到焚烧炉燃料低位热值，但远远低于瑞典水准的每千克 10100 kJ/kg。</p>
+<p>中国大部分焚烧厂甚至连焚烧炉低位热值的水平都达不到，根本无法实现自行燃烧，必须添加高热值的煤炭等辅助燃料。这些含水量高、热值低的生活垃圾中含大量的氯化钠（NaCl）、氯化钾（KCl）等化学物质，而当这些垃圾中的有机物质在含有氯的环境下燃烧后，会产生致癌气体二噁英。二噁英是一种无色无味的有毒物质，它很难被监测，也很难被分离出来，但却是世界一级致癌物。世界卫生组织将其列为“ 12 大危害物” 的其中之一，它会导致生殖和发育问题、损害免疫系统、干扰激素、诱发癌症。</p>
+<blockquote><p>宣称引进外国技术的中国垃圾焚烧厂不仅无法达到设计运行标准，甚至连降低了要求的中国标准都达不到。</p></blockquote>
+<p>在欧洲，一个合格的大型垃圾焚烧厂的建造成本大概在 1 亿 5000 万到 2 亿 3000 万美元之间（ 9 – 14 亿人民币）。然而中国的垃圾焚烧厂虽然声称使用了“欧洲标准”，引进了“和国外相同的技术和设备”，但哪怕是官方公布的建造成本也不到标准所需的一半。</p>
+<p>中国的垃圾焚烧发电项目也更加青睐低价竞标，2015年10月14日，天津泰达环保有限公司（下简称天津泰达）以26.5元/吨的垃圾处理服务费中标江苏高邮生活垃圾焚烧发电项目。而在此前的2015年8月，已有绿色动力环保集团股份有限公司（下简称绿色动力）低价中标安徽蚌埠垃圾焚烧发电项目，价格是26.8元/吨，远低于业内公认比较合理的垃圾处理服务费报价。如果仅考虑烟气净化、灰飞处理、渗滤液处理三项环保成本，就早已超出26.5元/吨的垃圾处理服务费。</p>
+<p>通常要避免二噁英的产生，就要把焚烧炉的焚烧温度控制在 850℃ 以上。因为二噁英的产生温度在 360℃-820℃ 之间，因此只要保持焚烧炉内温度大于 850℃ 并控制烟气在炉内停留 2 秒以上，就可以使二噁英得到完全的分解。因此 850℃ 也是垃圾焚烧厂的一个温度控制底线，能守住这一条标准的垃圾焚烧厂才是合格的，才能基本保证不对周边环境造成污染。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160628164308a0898.jpg?resize=600%2C375" alt="越南的一个儿童康复中心，这里的孩子都有先天的生理、心理缺陷，他们的父母都曾暴露在越南战争中美军喷洒的橙剂里，吸收了大量二噁英。/AP" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160628164308a0898.jpg?w=1920 1920w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160628164308a0898.jpg?resize=300%2C188 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160628164308a0898.jpg?resize=768%2C480 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160628164308a0898.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>越南的一个儿童康复中心，这里的孩子都有先天的生理、心理缺陷，他们的父母都曾暴露在越南战争中美军喷洒的橙剂里，吸收了大量二噁英。/AP</p></div>
+<p>但中国的垃圾焚烧厂基本上都将这一规则视若无物，不仅无法达到设计运行标准，甚至连降低了要求的中国标准都达不到。例如，广州李坑垃圾焚烧发电厂声称它们的锅炉温度高达 979℃，能将二噁英完全消除。但《中国新闻周刊》的调查记者在这个焚烧厂的炉渣里看到了“残留的绳子、布条、红色塑料袋，甚至还有没烧尽的球鞋”，证明锅炉温度连行业标准的 850℃ 都没有达到，更别谈他们自吹自擂的高温了。对此，广州市城管委副主任张建国的反应是：“ 979 度的高温怎么会烧不掉这些东西呢，你一定是看错了！”</p>
+<p>而在2007 年，也就是李坑垃圾焚烧厂正式运营的第二年，焚烧厂所在的永兴村村民范振标开始经常气喘、咳嗽，在广州一五七医院的检查后发现，他已经是肺癌晚期。同年底，范振标去世，时年 48 岁。两年后，范振标 46 岁的妻子黄玉甜在南方医院也检查出了乳腺癌。永兴村在垃圾焚烧厂建成的前 12 年间，村中未曾出现过一例呼吸道癌症；但在 2006 年焚烧厂正式开始运营之后的 3 年里，出现了 13 例癌症病人，其中 12 例都是呼吸道癌症。</p>
+<blockquote><p>垃圾焚烧后完全未经处理过的灰烬直接卖给砖厂，做成毒砖。</p></blockquote>
+<p>灰烬包括垃圾燃烧殆尽后剩余的底灰（bottom ash）与飞灰（fly ash），每 100 吨垃圾会产生 20 吨的底灰和 3 吨的飞灰。灰烬本身也是有毒物质，在《国家危险废物名录》中，“编号HW18”指焚烧处置残渣，灰烬位于其中第一项。它除了含有二噁英，还有其它许多重金属和有毒物质，会对环境和周边居民造成极大的伤害。</p>
+<p>根据《生活垃圾填埋污染控制标准》，除了少部分符合二噁英和重金属含量标准的灰烬，大部分都需要进入危险废物填埋场，或者有灰烬处理资质的废物处理公司。但中国的许多垃圾焚烧厂为了节省成本，往往把灰烬随意处置。有些把它们和炉渣混合，倒入普通的生活垃圾填埋场，导致灰烬渗漏污染土壤和水源；有些把完全未经处理过的灰烬直接卖给建材公司，让它们做成砖块等建筑材料。</p>
+<p>在生产和运输过程中， 很多企业也没有将这些灰烬按照国家规定进行固化和稳定化处理，导致它们以烟尘的形态飘散在空中，对周边环境和居民造成了难以估计的损失。2013 年，央视经济半小时报道了武汉锅顶山垃圾焚烧厂。记者绕焚烧厂周边步行了一个多小时，在不同方向都能闻到刺鼻气温，一圈下来，身上和相机都落满灰尘，嗓子不适并伴有轻微头痛。当地居民为了防止异味和粉尘，安装了双层玻璃、双层窗帘，用塑料膜封和玻璃胶封死窗户，却依然在凌晨被刺鼻气味呛醒。仅 2013 年一年，距离锅顶山垃圾焚烧厂最近的芳草苑小区里就有 8 位居民因患肺癌、肝癌、淋巴癌等相继去世；两年内该小区中共有 25 人患上癌症。</p>
+<blockquote><p>在中国，没有成熟且完善的渗滤液处理技术，一半垃圾场在弃置前不做任何处理。</p></blockquote>
+<p>渗滤液是垃圾中渗透出来的液体，它在垃圾的整个焚烧过程中都在不断产生，并继续存在于焚烧结束后的残留物中。垃圾在焚烧以前一般会先堆上 3－7 天，这时候垃圾在垃圾坑中发酵，沥出水分来提高垃圾燃烧的热值， 20%－30% 重量的垃圾会转化成渗滤液。渗滤液在许多不同性质的垃圾中流动、融合，带有极大的毒性，除了各种有机物，还有氨、重金属，并且成分还会随着时间、温度不断变化。垃圾产生的刺鼻气味大部分也是从这里来的。</p>
+<p>如今在中国，尚且没有成熟且完善的渗滤液处理技术，垃圾焚烧厂大多采用“预处理+生化处理+膜深度处理”的组合拳。预处理主要是通过栅栏和混凝剂来去除渗滤液中的大型固体残渣和大分子悬浮颗粒，之后再通过厌氧反应和耗氧微生物对水中的有机物进行分解和降解，最后在沉淀后把较为清澈的上层液体排入当地的污水处理厂。然而由于垃圾焚烧厂的渗滤液污染程度比较高，处理起来需要不少的资金投入，许多焚烧厂既不预先处理渗滤液，也不将其输送至污水处理厂，而是直接排出到附近的自然水域中，或者挖个大坑等渗滤液自己稀释到土壤里。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2016062816430810680.jpg?resize=600%2C375" alt="一个中国人正在北京的某条运河上清理河面垃圾。/AP" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2016062816430810680.jpg?w=1920 1920w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2016062816430810680.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2016062816430810680.jpg?resize=768%2C480 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2016062816430810680.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>一个中国人正在北京的某条运河上清理河面垃圾。/AP</p></div>
+<p>根据 Xu WL 等人的研究，中国垃圾场有 47% 的渗滤液在弃置前未加任何处置，10% 的渗滤液会被排入市政污水系统；在掩埋渗滤液时，20% 的情况下会采用生物化学方法防止污染，3% 使用塑料薄膜隔离，另外 20% 使用“其他方式”。</p>
+<p>这些做法都会严重污染土壤、地表水和地下水，直接影响到每个人的饮水饮食安全。在广州的李坑垃圾焚烧厂，外墙处有一个污水直排渠道，那里恶臭难挡，水是乳白色，管口已经附上了一层厚厚的水泥般的垢。这些废水流入附近的农田，并接着流入下游的上千亩菜地。</p>
+<p>而直到现在，官方并没有规定垃圾焚烧厂的渗滤液处理统一标准，不同的焚烧厂根据自己的情况遵循不同的规定。萧山生活垃圾焚烧厂遵循的是《城市污水再生利用 工业用水水质》标准，镇江垃圾焚烧场按照《污水综合排放标准》的三级标准，太仓协鑫垃圾焚烧发电厂则根据《生活垃圾填埋场污染控制标准》来处理，这导致它们三者之间的渗滤液处理成本差距巨大，少则每吨 8.72 元，多则每吨 32.42 元，落差接近 4 倍。</p>
+<p>相对于传统的垃圾掩埋手段，垃圾焚烧厂本身是一个环保的措施，既可以 节约土地资源，也能对污染物进行焚烧处理。但中国的垃圾焚烧厂却因为企业的为所欲为，和官方的放任自流，变成了一个人人喊打的污染制造机。</p>
+<p><strong>参考资料</strong></p>
+<p>1.Yanwei Li(2015). Government responses to environmental conflicts in urban China: the case of the Panyu waste incineration power plant in Guangzhou. Journal of Cleaner Production.</p>
+<p>2.Zhe Fu(2015). MSW oxy-enriched incineration technology applied in China: Combustion temperature, flue gas loss and economic considerations. Waste Management.</p>
+<p>3.Zhao Xin-gang(2016).Technology,cost,aperformanceofwaste-to-energyincineration industry inChina. RenewableandSustainableEnergyReviews.</p>
+<p>4.Yong Ren(2016). Use incentive approach to promote BAT/BEP for centralized incineration facilities of medical waste in China. ScienceDirect.</p>
+<p>5.Jizhi Zhou(2016). Mercury in municipal solids waste incineration (MSWI) fly ash in China: Chemical speciation and risk assessment. Fuel.</p>
+<p>6.Ziyang Lou(2015).Environmental impacts of a large-scale incinerator with 2 mixed MSW of high water content from a LCA perspective. ScienceDirect.</p>
+<p>7.Elizabeth Balkan(2012). The dirty truth about China’s incinerators. The Guardian.</p>
+<p>8.nate seltenrich (2013). Incineration Versus Recycling: In Europe, A Debate Over Trash.Yale.</p>
+<p>9.Akiko Yamamoto(2015). Japan Stanches Stench of Mass Trash Incinerators. The Washington Post.</p>
+<p>10.The Economist(2015).Keep the fires burning. The Economist.</p>
+<p>11.浦燕新(2015).垃圾焚烧发电厂渗滤液处理工艺现状浅析. 山东化工.</p>
+<p>12.吴世杰(2016). 城市生活垃圾焚烧底灰渗滤液的特性. 环境工程学报.</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82%E4%B8%8D%E4%BB%85%E4%B8%8D%E7%8E%AF%E4%BF%9D-%E6%9B%B4%E6%98%AF%E6%B1%A1%E6%9F%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E5%A4%84%E7%90%86/?category=18271" rel="tag">垃圾处理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7/?category=18271" rel="tag">垃圾焚烧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82/?category=18271" rel="tag">垃圾焚烧厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%B0%B4%E5%A4%84%E7%90%86/?category=18271" rel="tag">污水处理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%8C%E7%97%87/?category=18271" rel="tag">癌症</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B9%96%E5%8C%97%E6%BD%9C%E6%B1%9F%E7%88%86%E5%8F%8D%E6%B1%A1%E6%9F%93%E5%A4%A7%E6%B8%B8%E8%A1%8C-%E6%95%B0%E4%B8%87%E5%B8%82%E6%B0%91%E8%A6%81%E6%B1%82/" target="cdt-mirror">自由亚洲｜湖北潜江爆反污染大游行 数万市民要求停建农药厂</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec483673-5004-4d23-9cbb-da1cdcb526ba.jpeg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec483673-5004-4d23-9cbb-da1cdcb526ba.jpeg?resize=585%2C329" alt="继湖北省仙桃市全城爆发大规模反垃圾焚烧发电厂游行后，6月27日，湖北省的潜江市也爆发了大规模反污染游行，数万市民涌上街头，要求停建污染巨大的奥古斯特农药厂。（Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec483673-5004-4d23-9cbb-da1cdcb526ba.jpeg?w=622 622w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec483673-5004-4d23-9cbb-da1cdcb526ba.jpeg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>继湖北省仙桃市全城爆发大规模反垃圾焚烧发电厂游行后，6月27日，湖北省的潜江市也爆发了大规模反污染游行，数万市民涌上街头，要求停建污染巨大的奥古斯特农药厂。（Public Domain）</span></p></div>
+<p>继湖北仙桃日前爆发反对垃圾焚烧发电厂的全城游行后，6月27日，湖北省潜江市也发生大规模反污染示威。数万民众当天涌上街头，要求停建污染巨大的奥古斯特农药厂。</p>
+<p>湖北省连续多日爆发抗议环境污染的大游行。继仙桃市10万人走上街头，迫使当局承诺停建垃圾焚烧场后，潜江市同样爆发大规模反污染游行，数万市民涌上街头要求停建农药厂。</p>
+<p>据市民上传到网络的消息指，6月27日 当天下大雨，早上已经有市民围堵了潜江市政府，要求停建污染巨大的奥古斯特农药厂。当时潜江市委书记等人上午还出面讲了二分钟的话，表示只要搞好防污、治 污，该项目坚决不停建。稍晚大雨过后，潜江市各个街道和路口的市民开始打着标语、高喊口号向潜江市政府进发，沿路大批市民加入，人数达数万人，最终队伍到 达潜江市政府。上午11点左右，市政府一位罗姓副市长出面宣布奥古斯特项目停建，同时潜江市政府新闻办公室的一份宣布停建该项目的红头文件开始在市民中散发。</p>
+<p>当时在现场的潜江维权人士伍立娟告诉自由亚洲电台：“抗议游行的有几万人，各个要道口，从潜江市各个主要的干道集中在潜江的东北仓储中南饭店那个地方，然后就到市政府门口。市 委副书记、市长黄健雄出来讲了几分钟的话，让大家推举代表进去谈，也没有代表。今天维权的路上的人说，今天各个派出所都把有些组织者和网上发帖的人的稳控 在家里了。大雨下的太大，人们都没有出门，九点雨小了陆陆续续都集中到几万人，集中在市政府门口，都涌入到了市政府大院里面，把整个大院都占满了，打了几 十条横幅，都说还我潜江绿色家园，保卫潜江子孙后代等横幅。”</p>
+<p>记者就此致电市政府，但对方在得知记者身份后拒绝接受采访。</p>
+<p>记者又致电宣传部门，但对方以不接受电话采访为由，要求记者致电公安局。而公安局的一名接线人员则表示：“我们没有听到任何事情，我也不能代表政府说什么，我们也没有收到任何关于这方面的问题。”</p>
+<p>据了解，目前当局派驻警力24小时在政府外巡逻，防止市民再次聚集抗议。</p>
+<p>伍立娟还表示，有前一天在仙桃市抗议的的市民特意赶到潜江市声援：</p>
+<p>“仙桃市是建垃圾焚烧厂，离市区只有5 公里，比较近。仙桃尤其是昨天和前天，有十几万人组织在市政府游行。仙桃市政府的周书记出来讲了话，他讲完话叫大家理性的维权和游行，不能闹事，马上发新闻公布会公布方案，。他说完话之后站在他身边的警察，他就挥舞着说，可以动手了。别人在网路上发出来信息和截图都显示他叫别人打人。今天有仙桃维权的跑到我们潜江这边来，在现场也跟我们说，昨天差点把人打死，连七八岁的小孩都不放过，都是因武警的铁棒子打，打得血肉模糊的，今天潜江还没发生冲突。”</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B9%96%E5%8C%97%E6%BD%9C%E6%B1%9F%E7%88%86%E5%8F%8D%E6%B1%A1%E6%9F%93%E5%A4%A7%E6%B8%B8%E8%A1%8C-%E6%95%B0%E4%B8%87%E5%B8%82%E6%B0%91%E8%A6%81%E6%B1%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7/?category=18271" rel="tag">垃圾焚烧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 3小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%EF%BD%9C%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E4%B8%8E%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%85%B1%E5%90%8C%E8%AE%B0%E5%BF%86/" target="cdt-mirror">BBC ｜“狼牙山五壮士”与“中华民族共同记忆”</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351_.jpg?resize=320%2C180" alt="160628133637_langyashan_624x351_" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351_.jpg?w=320 320w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351_.jpg?resize=300%2C169 300w" sizes="(max-width: 320px) 100vw, 320px" data-recalc-dims="1"></p>
@@ -584,208 +742,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91bbc%EF%BC%9A%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B9%8C%E5%9D%8E%E6%9D%91%E7%A4%BA%E5%A8%81%E6%9D%A5%E9%BE%99%E5%8E%BB%E8%84%89/" target="cdt-mirror">【CDTV】BBC：广东省乌坎村示威来龙去脉</a>
-</h2>
-<p><p>事件背景：</p>
-<p>乌坎村事件是2011年发生在中华人民共和国广东省汕尾市所属陆丰市的一宗群体事件，被视为是中国大陆群体事件的标志性里程碑之一。</p>
-<p>由于土地被村委会成员私下变卖问题，村民代表过去两年十数次之上访仍丝毫没有解决之下，村民与地方（汕尾市与其下之陆丰市）政府发生矛盾。村民薛锦波等五人被刑事拘留，其中薛锦波在被关押了三天后死亡。官方验尸结果与薛之家人探视后认定的情况大相径庭，这两件事情激起村民情绪而把事件激化，亦因此乌坎事件得到国际媒体的注意。</p>
-<p>12月20日，政府官员先派代表进村内与村民代表临时理事会谈判，成为事件和平发展的转机，同时由中共广东省委副书记朱明国牵头成立工作组处理，承认民选之“乌坎代表临时理事会”地位，对村民过激行为不追究，并称释放被拘留村民与尽快再对薛锦波进行验尸确定死因，翌日晚上双方撤除路障，结束每天举行之集会，其后两天村民欢迎朱明国进村，并把被捕之其中三人释放，双方对峙局面结束。</p>
-<p>翌年2月1日，乌坎村举行村民选举委员会推选大会，由村民一人一票推选11人组成的村民选举委员会；2月11日通过村民不记名投票的方式推选村民代表，并选举村内7个村民小组组长共109人，3月3─4日以同样方式选出村委会成员与村民小组代表各7人，被政府点名视为闹事分子的或示威组织者全部当选为村委会成员，林祖恋（原名林祖銮）被选为村支书。</p>
-<p>[…] 2016年6月17日，村民委员会主任林祖恋（原名林祖銮）被警方带走。6月18日清晨，广东省陆丰市公安局发布消息称，乌坎村党总支书记兼村民委员会主任林祖恋因涉嫌利用职权受贿，已于本周五（6月17日）被陆丰市人民检察院立案侦查并采取强制措施。（来源：<a href="https://zh.wikipedia.org/zh-cn/%E7%83%8F%E5%9D%8E%E4%BA%8B%E4%BB%B6">维基百科</a>）</p>
-<blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/">2016乌坎再示威</a></p></blockquote>
-<p>訂閲BBC中文YouTube：http://bit.ly/1wkHh5T BBC中文網（繁體）Facebook – https://www.facebook.com/bbctrad BBC中文網 Twitter – https://twitter.com/bbcchinese</p>
-<p><a href="https://www.youtube.com/v/Zm5jueHtQGw?version=3">https://www.youtube.com/v/Zm5jueHtQGw?version=3</a></p>
-<p><a title="廣東省烏坎村示威來龍去脈" href="http://www.youtube.com/watch?v=Zm5jueHtQGw" target="_blank">廣東省烏坎村示威來龍去脈</a></p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-news&sz=99E7&t=2&s=MOLBBGCJYDC2NJFWJ7XRZTLBAEQJGOAMGKKWZWEATSQBNKCKDIOQ&i=CU5GQRLGHV22I6XJ2PCEDR2HDUH5ZWEUC&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
-<hr><p><small>© 朝阳区群众 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91bbc%EF%BC%9A%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B9%8C%E5%9D%8E%E6%9D%91%E7%A4%BA%E5%A8%81%E6%9D%A5%E9%BE%99%E5%8E%BB%E8%84%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">乌坎事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%A7%E5%AE%B6-%E5%8A%AA%E5%8A%9B%E5%8D%8A%E8%BE%88%E5%AD%90%EF%BC%8C%E8%BF%BD%E4%B8%8D%E4%B8%8A%E4%BA%94%E4%B8%87%E4%B8%80%E5%B9%B3%E7%B1%B3%E7%9A%84%E5%8C%97%E4%BA%AC%E6%88%BF%E4%BB%B7/" target="cdt-mirror">大家 | 努力半辈子，追不上五万一平米的北京房价</a>
-</h2>
-<p><p><strong>文 | </strong><strong>老猫  腾讯·大家专栏作者，著名作家、媒体人。</strong></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-25-at-%E4%B8%8B%E5%8D%884.57.06.png?resize=476%2C282" alt="Screen Shot 2016-06-25 at 下午4.57.06" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-25-at-下午4.57.06.png?w=476 476w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-25-at-下午4.57.06.png?resize=300%2C178 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Screen-Shot-2016-06-25-at-下午4.57.06.png?resize=80%2C48 80w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"></p>
-<p>几年前，在租住房子的时候，认识了一个胖胖的中介，整天骑着个小电动车，在小区里转呀转。据说他是这一带中介的大拿，这小区里，所有要出售或出租的房子，他都有钥匙，我的房子，就是通过他租来的。</p>
-<p>后来有很长一段时间，没见到他。两个月前再见，变化不小，依旧穿着中介的工装，可不再骑车，腿有点瘸了，走路很困难，但还是坚持走，每天都走。我问他怎么了，他说，突发脑溢血了，现在缓过来，要锻炼走路。巧了，我也下了个走路的APP，也在小区里转悠，还总能遇到他。只是，我就是按照溜达的速度，也走得比他快些。</p>
-<p>他叫住我，跟我说：“南边开工了，你知道吗？”</p>
-<p>我知道，看见工地了。我们小区南边是一大片空地，包括一个小自由市场。后来圈了起来，几年了，一直没动静。有传言说，要建个马戏团，但周边小区有很多养小狗小猫的居民，他们反对让动物工作，抗议了。之后就寂静下来。最近开工，路边多了卖盒饭的，也多了不少卡车和工人，刚开始，我还以为真要建马戏团呢，胖中介这么一说，我才反应过来是给人住的房子。他问我：“你打算买吗？五万。”</p>
-<p>我吓了一跳。<strong>我们这里可是北五环开外，再往北走几公里，就是六环了。这的房子都上五万了？</strong></p>
-<p>胖中介看懂了我的表情，只是说：“想想吧，想好了可以找我。”</p>
-<p>我开始留心南边这个新楼盘，弄清了它的一些基本状况。</p>
-<p>它是一个很有名的开发商盖的。它的房子将不是毛坯房，而是精装房。它是街区形式，应该没有封闭的院子，照搬了美国一个城市街区，在这条街上，将有商业中心、甜品店、餐厅和娱乐场所。其中，还有一个重点小学，一个儿童博物馆。</p>
-<p>房子的设计也很洋气，大多是小洋房，也有个别高层，但没有别墅。房屋的设计，最小的一百五十平米左右，最大的三百平米。</p>
-<p>看上去美如画，但就是——很贵。</p>
-<p>周末逛街的时候，我在万达广场的前厅里，看到了这个楼盘有个小小的摊位。我就过去和他们聊了几句。售楼员告诉我，这个房子的最终价格还没有确定，他倒问了我一句：“你觉得，这样的房子卖多少钱合适？”</p>
-<p>我壮着胆子说了句：“三万到四万吧，再高不好卖了。”</p>
-<p>他一下就急了，说：“怎么可能。你知道附近的某某楼盘吗，和我们性质是一样的，现在都卖四万了。那还是五年前的楼盘呢。他们房子没我们新，物业肯定也没我们好，还没有学校。”</p>
-<p>我笑了，没错，<strong>一切都更好，除了价格。</strong>我还知道在顺义某地，刚出了个地王，那里到市中心的距离，和我们这里差不多，但光从地价看，房子得卖十万一平米。这么对比，房子要定在五万上下，确实有理由。</p>
-<p><strong>可是，卖给谁呢？</strong></p>
-<p>晚上回来，仔细琢磨了一下。房子，是卖给两种人的。<strong>一种，是卖给真心要住的人，</strong>比如想改善住房条件的，比如买第一套的年轻人，或者挣了点钱，想买个房子安居乐业的“中产”。<strong>另外一种，就是卖给炒房的人，</strong>希望靠房子投资，盼着房子升值，然后卖出赚钱。很显然，看上去南边这片房子，在设计理念上是要卖给第一种人的。因为它的户型面积，很适合一家人住：夫妻两个带一两个孩子，加上老人或者保姆。这是完全的中产造型。有街区和博物馆，生活设施齐全，有学校，还沾上“学区房”的边了。</p>
-<p>问题是，这样的“中产阶级”数量有多少呢？如果真按照五万一平米算，那么房子的总价在七百五十万元到一千五百万元之间。家中有上小学的孩子，且能拿出这样一笔钱的家庭是什么样子，我很难想象出来。这样一笔钱，在附近可以买到很不错的独栋或者联排了，面积能达到三百到五百平米，离这个小学，也不过四五公里的路程，难道大家会为了这个距离放弃别墅，去住所谓的洋房住宅吗？</p>
-<p>其实，“学区房”的概念，也禁不住推敲。如果有这样一笔资金，完全可以在城里买小一些的“学区房”，去靠真正的重点小学，而不会在郊区靠一个复制的分校。<strong>“学区房”红火的秘诀是，它只是占用资金而不会消耗资金，当孩子完成入学后，家长完全可以在方便的时候把房子卖掉，甚至还会获得不小的溢价。</strong>说白了，就是个泡沫，接力用的，看看最后会砸在哪一家手里。而这个五环六环之间的房子，怕是短期内没太大的上升空间了，也就是说，差不多见顶了，连接力的可能都没有。</p>
-<p>确实物业不错，确实理念先进，确实是精装，但仅靠这个，恐怕还是很难有吸引力。</p>
-<p>再说说开放式的街区设计——我们这一带，是很著名的堵点。您住再好的宅子，开再豪的车，一出来都会陷入堵车的洪流中去。如果街区是开放式的，恐怕很快就会被堵住，环境嘈杂、暴土扬尘的样子，想想都让人心颤。住在这个环境中，怎么体现高房价带来的安全的价值呢？</p>
-<p>除非街区只是个噱头，最终还是封闭式小区。可那样，设计中的底商就很难让人入住。一个小区，很难支撑起这么大一片商业。</p>
-<p>我想，就算是炒房的人，面对这样的房子，也会含糊吧。除了对升值空间判断不准之外，占用资金太大也是个问题。那全是风险啊。</p>
-<p>放眼望去，许多一线城市，房子还在涨价。按说，人多，地少，接着涨多少年都不是事儿。但是有一点不能忽视的是，大家用什么买？工资显然是不够的，从2009年到现在，房价翻了又一个跟头了，但工资却没有。靠工资生活的人，购买力已经见底了。而他们却是购买房产的大头。当然，他们还可以贷款，但贷款也是要有经济实力做基础的。比如买个七百五十万元的房子，首付三成，那么贷款需要五百万左右，月还款需要三四万。如果撑得起这个还款额度，那么也不需要贷这么多款了。</p>
-<p>其实，下面这些数据可以给房地产商做参考：<strong>今年6月3日，北京市人社局发布去年的职工平均工资，每月七千元出头。</strong>就算挣的钱高出平均工资十倍，买下这样一个五环之外的“学区房”也相当吃力。另外，就是2013年西南财经大学的一项调查测算，国内资产超过千万元的家庭大约有三百零五万个。比起雨后春笋般的千万宅子来说，这个数字是不是太小了点呢？</p>
-<p>更何况北京还限购。<br>
-《人民日报》发过篇评论，说“树不能长到天上，房价也一样”。现在的房价是不是到了天上还难说，但顶了天花板是一定的。就这么说吧，搁在以前，房价怎么涨，大家勒紧裤腰带，牺牲点生活中其他的幸福，勉强还能够得着。这二十年，大家已经把什么办法都想过了，工资、啃老、贷款、倒腾所有能倒腾的资金、组团、集资、拆借高利贷、买进卖出，连押房子借消费贷这样的招数都使上了，很多只想住个好房的人都被逼成了房虫。合法不合法，五花八门。您再往上飙，没招了。有价无市，这就快了。</p>
-<p>其实，我这人也不是非憋着买这个街区房，我就是有点郁闷，<strong>昨天还觉得自己是个“中产”，日子过得挺滋的，今天被这么一闹，觉得自己自作多情，仍然是个穷人。</strong>这生活心态都要变。我不知道，这是新楼盘的销售定位不准，还是我们这些人人生定位不准。</p>
-<p>打开电脑，扫了一眼这个城市的房价，城里漂亮的大宅，都是一两千万的总价，用售楼员的思维，他们都卖到那个价了，我们卖贵点怎么了？心里开始发寒，努力半辈子，这是要被人甩了啊。</p>
-<p>我认识的中介挺多的，遛弯时又碰上一位，以前只是个小店员，后来做得好了，当了店长。自己也在附近买了房，老婆孩子、父亲母亲，都接来一起住，中午还能回家吃饭，我觉得他过得比我好。他跟我透露消息：“哥，某某小区又出了套房子，挺不错的，我觉得能升值。”</p>
-<p>我说：“兄弟，你还不知道我吗？其实我没心思倒腾房子。再买房子，我觉得就得买个长久的房子，往里一住，安安静静，就不动了。房地产市场，天翻地覆什么的，都与我无关。我想找的，是这样的房子，升值不升值，关系不大。”</p>
-<p>他说：“噢。”</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%A7%E5%AE%B6-%E5%8A%AA%E5%8A%9B%E5%8D%8A%E8%BE%88%E5%AD%90%EF%BC%8C%E8%BF%BD%E4%B8%8D%E4%B8%8A%E4%BA%94%E4%B8%87%E4%B8%80%E5%B9%B3%E7%B1%B3%E7%9A%84%E5%8C%97%E4%BA%AC%E6%88%BF%E4%BB%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC/?category=18271" rel="tag">北京</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8C%97%E4%BA%AC%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">北京房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E5%8C%BA%E6%88%BF/?category=18271" rel="tag">学区房</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%AE%B6/?category=18271" rel="tag">腾讯大家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">高房价</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%BA%8C%E7%BF%94%E5%AD%90%E7%9A%84%E5%8D%9A%E5%AE%A2-%E8%81%8A%E4%B8%80%E8%81%8A%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/" target="cdt-mirror">二翔子的博客 | 聊一聊自我审查</a>
-</h2>
-<p><div><a href="https://i1.wp.com/4.bp.blogspot.com/-LOWWGpblRmk/V26wg9gSJrI/AAAAAAAAC-Y/fT-4lz3Jxq8Z0dLg7xAMi5I4JGzfw6HFwCLcB/s1600/141932_600.jpg?ssl=1"><img src="https://i1.wp.com/4.bp.blogspot.com/-LOWWGpblRmk/V26wg9gSJrI/AAAAAAAAC-Y/fT-4lz3Jxq8Z0dLg7xAMi5I4JGzfw6HFwCLcB/s640/141932_600.jpg?resize=640%2C452&ssl=1" border="0" data-recalc-dims="1"></a></div>
-<p> </p>
-<div>一个苏联时期的段子是这么说的：</div>
-<blockquote>
-<div>“共产主义实现时警察还存在吗？”</div>
-<div>“当然不。那时候所有公民都已经学会自己逮捕自己。”</div>
-</blockquote>
-<div>段子中“自己逮捕自己”的荒谬场景，实际上可以解读为压迫性政权统治下的民众普遍存在的“自我审查”现象。</div>
-<p><strong>文章目录</strong></p>
-<ol><li>啥是自我审查？</li>
-<li>自我审查的危害</li>
-<li>什么原因导致了自我审查？</li>
-<li>如何避免自我审查</li>
-<li>阅读推荐</li>
-</ol><p><strong>1. 啥是自我审查？</strong></p>
-<p><strong>1.1 本文对自我审查的定义</strong></p>
-<div>自我审查的概念粗略地可以说是，一些机构或个人（比如媒体和普通民众）因为害怕自身的某些言行会受到惩罚，而主动采取一些限制自身言论、行为或思考的做法。 但这个概念过于广泛，所以二翔子希望对本文之后提及的“自我审查”做一些定义，以便于更有针对性地讨论这个问题：</div>
-<ol><li>本文之后提到的“自我审查”仅指在政治方面的自我审查。比如你为了健康，过节的时候让自己少吃了两口，就不属于政治方面的自我审查，所以咱就不在这聊了；</li>
-<li>与一般概念不同，本文采取“自我审查”的对象，多数情况下指普通民众，极少数情况下才指媒体；</li>
-<li>本文中的“自我审查”的目的是为迎合“国家政治权力意志”而非“公民社会共识”。比如西方社会中普遍存在的“政治正确(political correctness)”虽然也是一种政治自我审查，但不在本文的讨论范围之内。</li>
-</ol><p><strong>1.2 自我审查的一些性质</strong></p>
-<p><strong>1.2.1 自我审查的隐蔽性</strong></p>
-<div>您有自我审查吗？如果仅是简单的问被调查人这个问题，通常不会得到准确的答案，一方面是因为<strong>一个人很难意识到自己的自我审查行为</strong>，另一方面是因为承认自己会进行“自我审查”不是件好事儿，部分人会自欺欺人地回避它。所以二翔子希望通过几个简单的问题来量化一个人自我审查的程度。</div>
-<ol><li>我认为有些话是“反动的/敏感的”，所以不该说；</li>
-<li>我认为不该随意评论政治（包括政治事件、领导人等）；</li>
-<li>我害怕因为发表某些政治言论而对自己产生不利影响；</li>
-<li>我会善意提醒他人有些话政治方面的话“不该说出来”；</li>
-<li>我在说一些敏感的话或字眼时会畏首畏脚，环顾四周，低声细语，像在做坏事一样；</li>
-<li>我会避免接触比较敏感的人，因为他们很危险；</li>
-<li>我认为应该“远离政治”。</li>
-</ol><div>应该说，上述问题得到的肯定答复越多，你就越可能处于较严重的自我审查状态。另外，<strong>有些人可能会说“我不说这样的话是因为我不感兴趣/持相反的立场”，但这不能说明你就没有进行自我审查，相反，会持有这种立场或态度，可能正是你长期进行自我审查的结果。</strong></div>
-<div>因为二翔子不是心理学家，所以这些问题可能会显得幼稚或不够准确，如果大家想出了其他的好问题，欢迎你帮助二翔子完善这个“判断标准”，二翔子在这里先行告谢：)</div>
-<p><strong>1.2.2 自我审查与洗脑的关联性</strong></p>
-<div>我们总能听到“被洗脑”或者“摆脱洗脑”之类的话，但被洗脑的概念很抽象，难以量化。实际上，一个人自我审查的力度与被洗脑的程度有着密不可分的关联性。因此，有时一个人自我审查的力度可以反映出其被洗脑的程度；反过来，其被洗脑的程度也会控制其自我审查的力度。那究竟为什么会是这样呢？二翔子在这里先不说，相信认真读完本文的同学定会自己得出答案：)</div>
-<p><strong>2. 自我审查的危害</strong></p>
-<div>自我审查的行为虽然不易察觉，但危害却极大。</div>
-<p><strong>2.1 心理学层面的危害</strong></p>
-<p><strong>2.1.1 自我审查与犯罪停止</strong></p>
-<div>《一九八四》中提到，要使一个人产生<a href="https://program-think.blogspot.com/2014/01/doublethink.html">双重思想</a>，需要在儿童时期（二翔子个人以为各个时期均需要）进行“内心纪律训练”，其中包括两个阶段：犯罪停止(crimestop) 和黑白(blackwhite)。对于“黑白(blackwhite)”是如何导致人产生双重思想的，二翔子在<a href="https://2xiangzi.blogspot.com/2015/10/debating-contest-and-doublethink.html">这篇博文</a>中已经进行过讨论。而“犯罪停止(crimestop)”则正是今天咱们一直在讨论的自我审查，请看书中的原话：</div>
-<blockquote>
-<div>如果他是个天生正统的人(新话叫思想好(goodthinker))，他不论在什么情况下想也不用想，都会知道，正确的信念应该是什么，应该有什么感情。反正，在儿童时代就受到以犯罪停止(crimestop)、黑白(blackwhite)、双重思想(doublethink)这样的新话词汇为中心的细致的精神训练，使他不愿意也不能够对任何问题有太深太多的想法。<strong>至于可能引起怀疑或造反倾向的思想，则用他早期受到的内心纪律训练而事先就加以扼杀了。这种训练的最初和最简单的一个阶段，新话叫做犯罪停止(crimestop)，在孩子们很小的时候就可以进行。犯罪停止(crimestop)的意思就是指在产生任何危险思想之前出于本能地悬崖勒马的能力。这种能力还包括不能理解类比，不能看到逻辑错误，不能正确了解与英社原则不一致的最简单的论点、对于任何可以朝异端方向发展的思路感到厌倦、厌恶。总而言之，犯罪停止(crimestop)意味着起保护作用的愚蠢。</strong></div>
-</blockquote>
-<div>可以看出，一个人如果会进行犯罪停止（或者说自我审查），那么就可能导致双重思想的产生，从而也就更可能被深度洗脑。至于其中具体的原理，咱们一会儿再谈:）</div>
-<p><strong>2.2 社会层面的危害</strong></p>
-<p><strong>2.2.1 自我审查与语言改造</strong></p>
-<div>在《一九八四》中，比“双重思想”还有效，还彻底的洗脑方式，叫做“语言改造”，其目的在于通过对语言的删减压缩，让人最终失去表达异见的语言基础。语言和思想之间有着非常非常紧密的联系，语言的精度决定了思考的深度（这同时反映出“定义”在问题讨论中的重要性），如果失去了表达异见的语言基础，那么也就意味着失去了质疑和思考的能力。</div>
-<div>相对的，思维也在支配着语言。当你想要谈及一个敏感的话题时，如果因为自我审查而放弃发声，那么此时就是思想支配语言；但如果你总是在回避一些敏感的话题，那么久而久之大脑就真的不会再去往这边想，此时就是语言决定思考。如果社会中普遍存在这样的自我审查，那么从宏观上看就是一场大规模的“语言改造工程”。</div>
-<div>一个现实生活中的例子就是发生在1958-1961年间的“<a href="https://zh.wikipedia.org/zh/%E4%B8%89%E5%B9%B4%E5%9B%B0%E9%9A%BE%E6%97%B6%E6%9C%9F">大饥荒</a>”，竟然被中共故意称作是“三年自然灾害”以掩盖其<a href="https://program-think.blogspot.com/2012/05/three-years-famine-0.html">滔天的罪行</a>。但如果你（被）限制在中共的话语体系当中，那么就不可能有什么异见，因为“三年自然灾害”这个词本身就已经明确指出这是“老天爷的原因”，不是共产党的责任。</div>
-<div>语言改造是一个非常值得讨论的话题，限于篇幅问题，只能先聊这么多。</div>
-<p><strong>2.2.2 自我审查对创造力的抹杀</strong></p>
-<div>自我审查的目的是尽可能的迎合国家权力意志，这样做本身就意味着不需要你有任何创新，只需要“跟住毛主席，跟住党”。自我审查对创造力的抹杀在“为党服务的艺术家”身上可见一斑：这些戴着镣铐起舞的人可能会红极一时，但民众忘记他的速度却比其出名的速度还要快。归根结底是因为其创造力遭到了抹杀，创造不出人民群众喜闻乐见的好作品。</div>
-<p><strong>2.2.3 自我审查对言论空间的打压</strong></p>
-<div>不少人都知道，中国拥有着极为严苛的媒体审查制度。<a href="http://chinadigitaltimes.net/chinese/category/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/">真理部</a>有着足够的权力去控制国内各种媒体上几乎所有的内容，但为什么还非要鼓励媒体进行自我审查呢？道理非常简单，因为<strong>媒体的自我审查比官方的审查制度更能有效的压缩媒体的言论空间</strong>。为什么这么说呢？</div>
-<div>假设你是某网站的编辑，在决定是否报道一篇较为敏感的话题时，由于你不知道真理部的红线在哪里，所以就需要你自行揣测，那么就会出现两种情况：</div>
-<ol><li>你低估了真理部的审查标准，发表了文章；</li>
-<li>你高估了真理部的审查标准，没有发表文章。</li>
-</ol><div>这对审查机构来讲是件大好事：<strong>对于前者，真理部需要做的仅仅是下令封杀稿件，然后秘密地对媒体进行惩罚（比如罚款问责甚至是关停）；而对于后者，则相当于是实行了比预期更为严厉的审查，</strong>而且还是媒体自己主动这样做的，真可谓是“得来全不费功夫”呀:）</div>
-<div>真理部背后的<a href="https://program-think.blogspot.com/2016/01/Zhao-Family.html">赵家人</a>乐了，可赵国的老百姓们可就倒霉了。因为如此一来，赵国的老百姓们能够获取的真实信息就又少了许多，而真实信息的缺失使得人们无法准确的认识世界，而基于对世界不确切的认知所产生的观点往往可能会十分荒谬（比如：以为自己也姓赵）：(</div>
-<div>同样的道理，如果每个人都对自己施行自我审查，在压缩了自身的言论空间的同时，也是在压缩整个社会的舆论空间。而赵国的法律本身就很难制约权力，如果舆论监督的力量再遭到削弱，赵家仆人的权力滥用程度可想而知。</div>
-<p><strong>3. 什么原因导致了自我审查？</strong></p>
-<div>可以说，<strong>民众（或媒体）进行自我审查的最直接原因，来自其对白色恐怖的政治氛围的恐惧。</strong>那一个政权又会通过哪些手段来制造白色恐怖呢？普通民众又因为哪些方面心理素质的匮乏而给了白色恐怖可乘之机呢？</div>
-<p><strong>3.1 社会层面的原因</strong></p>
-<p><strong>3.1.1 模糊的法律界限</strong></p>
-<div><strong>没有明确的标准是最严苛的标准。</strong>这个道理至少适用于审查制度、法律法规和找对象。</div>
-<div>以审查制度中的法律为例，中国的审查制度与世界上大多数国家的审查制度最大的区别之一在于：中国没有明确的审查标准（按中共官方的话更绝：中国根本就不存在“所谓的”审查制度）。对此编程随想曾有过一篇经典的<a href="https://program-think.blogspot.fr/2012/12/censorship-in-china.html">博文</a>来讨论这个问题的后果。其中写道：</div>
-<blockquote>
-<div>因为审查完全没有法律依据，而且审查的全过程都是暗箱操作。导致的必然结果就是：负责审查的真理部可以随心所欲、为所欲为——想封杀谁就封杀谁，想屏蔽谁就屏蔽谁。而审查的受害者一点办法也没有。</div>
-<div>你知道随心所欲的审查有什么好处吗？随心所欲的审查，可以让媒体时刻处于恐惧之中，从而导致媒体展开自我审查。这就是戈培尔法则（纳粹的宣传部长）——”即使不封杀媒体，也要让媒体感到他们随时可能被封杀”。在天朝，不光媒体时刻处于恐惧之中，民众也一样。民众害怕因言获罪，也对自己的言论进行自我审查。</div>
-</blockquote>
-<div>除了根本不存在审查标准导致的在审查方面的权力滥用以外，法律中适用范围极度宽泛的口袋罪（如：寻衅滋事罪、非法经营罪）也成为政府“依法”迫害各类活动人士的利器。而与权力滥用相对的，是民众自由空间的压缩。一些人希望借自我审查来避免触碰红线，但又不知道红线在哪里，于是只能揣测，其结果就是逐渐但不断地加重自我审查的力度，直到最后一丝自由空间的耗尽。</div>
-<p><strong>3.1.2 审查制度败坏社会风气</strong></p>
-<div>长期明目张胆的存在的各类审查制度，深入赵国社会的骨髓，使得一部分人对审查制度采取接受态度，以为审查是“没什么大不了的平常事”，甚至有人会把“学会自我审查”当作成熟的标志。二翔子猜测这类人之所以会采取如此态度，一方面是因为还没能意识到审查制度对于一个开放社会的严重威胁，另一方面是因为严厉的审查是如此放肆的常态，以至于让人以为审查制度就是合理的。对此，张雪忠教授曾有过这样一番论述：</div>
-<blockquote>
-<div>中国共产党长期执政的事实，以及它的各种似是而非的理论宣传，使不少中国人或多或少默认了它垄断全部国家权力的做法。但实际上，<strong>如果一种做法本身是不正当的，它存续时间的长久，并不能催生它的存在的正当性，而只能增加它的危害的严重性。</strong>一些人之所以仍在模糊地认为这种做法是合适的，只不过是因为他们尚未清楚地看出这种做法是野蛮的。</div>
-</blockquote>
-<p><strong>3.1.3 监控的存在</strong></p>
-<div>监控的存在可谓是迫使民众进行自我审查的一个利器，其中有非常多可聊的地方，此处仅作简单介绍。</div>
-<div>在《规训与惩罚》（Discipline and Punish）一书中，福柯解释道，无所不在的监控不仅让权威更富权势，强制遵守服从，而且还诱使个人将监视者潜藏进内心。<strong>那些相信自己处于监视之中的人们将本能地选择按照要求行事，甚至不会意识到自己是在受人控制：圆形监狱使得“在囚犯的脑海中形成这样一种意识，认为自己的行为永远会受到监控，以确保权力自动发挥功效”。随着这种控制深植人们的内心，公开的镇压就会销声匿迹，因为这些已然全无必要</strong>：“外部权力就可以轻装上阵，可以逐渐脱离实体的形式，越接近这一限度，则会越持久、深入并永恒地发挥作用——这可以避免暴力冲突，并可以先入为主，因而是一种意义深远的胜利。”</div>
-<div>此外，这种控制模式还有一种极大的优势，即可在同时创造出一种自由的假象。这种强制服从的意识存在于各自的思想中，由于担心自己正处在监控之下，人们会自觉自愿地选择言听计从。这就会完全消除人们被强制的外在特征，使其误以为自己还是自由之身。</div>
-<p><strong>3.2 个人层面的原因</strong></p>
-<div>如果把白色恐怖的政治氛围看作自我审查的外因，那么部分民众自身心理素质的弱项则可被归为自我审查的内因。</div>
-<p><strong>3.2.1 对风险非理性的认知</strong></p>
-<div>在白色恐怖的政治环境中表达异见固然存在一定的风险，但正是对这种风险的非理性认知，加剧了恐惧心理的膨胀。《清醒思考的艺术》一书中介绍了两种面对风险时人们常犯下的典型思维谬误。</div>
-<p><strong>3.2.1.1 忽视概率偏误</strong></p>
-<div>在1972年的一次经典研究中，人们将实验室的受试者分成两组。第一组受试者被告知，他们肯定会遭到一次电击。第二组被告知，他们遭受电击的危险只有50%，也就是第一组的一半。研究人员在试验时间快结束时测量受试者身体的紧张程度（心跳频率、神经紧张、手心盗汗等）。结果惊人：没有区别。两组试验受试者同样紧张。随后研究人员将第二组受电击的概率降到20%，然后降到10%，再降到5%。结果：还是没有区别！当研究人员提高预期电击的强度时，两组受试者的身体紧张程度都增大了。但即使是这样，两组之间也并无区别，他们增大的幅度是相同的。<strong>这表明：我们是对一件事的预期强度（电压的强度）做出反应，而不是对它的概率。换个说法：我们缺少对概率的直觉理解。</strong></div>
-<p><strong>3.2.1.2 零风险偏误</strong></p>
-<div>人类很难区分各种风险。风险越大，其中包含的感情成分越多，降低风险对我们的安慰就越小。芝加哥大学的两位研究人员证明了，<strong>不管风险是99%还是1%，人类都同样害怕有毒化学物的污染。这是一种非理性的反应，但很常见。很显然，我们只信任零风险。</strong>它就像灯光吸引蚊子一样吸引我们，我们常愿意投资过多的钱，就为了彻底消除微小的剩余风险。几乎在所有情况下，人们本来都能更好地投资这笔钱，更显著地降低另一种风险。</div>
-<div>现实生活中，我们总能找到一部分人，虽然“挺想看看墙外世界的”，但因为担心会受到惩罚（尽管受到惩罚的概率很小很小）而不敢翻墙，放弃了认知一个更加贴近真实的世界的机会。这就是对风险的非理性认知导致的自我审查所造成的得不偿失。</div>
-<p><strong>3.2.2 无力感的存在</strong></p>
-<div>上面二翔子试图用人们对风险的非理性认识来对普遍存在的自我审查现象加以解释，但这显然是不够的。因为这忽视了侥幸心理的存在：如果仅仅因为害怕受到法律制裁就不采取犯罪，那么就不会有这么多人铤而走险的犯罪了。但为什么没有更普遍的人“铤而走险”的捍卫自己言论自由和批评社会不公的权利呢？原因大概是其认为“这样做带给自身的利益不值得承受如此风险”，用大白话说就是认为“聊政治话题没用”，因此自我审查似乎只有好处不会有坏处。</div>
-<div>“自我审查的危害”二翔子刚才前面已经说了很多，而对“政治无用论”的讨论则又是一个大话题，为了避免篇幅过长，需要之后再写一篇博文才行。</div>
-<p><strong>3.2.3 隐蔽性对问题的放大</strong></p>
-<div>前面提到，自我审查具有隐蔽性，而这种隐蔽性使得大多数人不能发现或不愿承认自我审查问题的存在，这样的做法当然不利于问题的解决。随着时间的推移，你的自我审查技术会越来越熟练，越来越成为理所当然和习惯，从而也就越来越不易察觉。如此恶性循环的结果可想而知:(</div>
-<p><strong>4. 如何避免自我审查</strong></p>
-<div>既然前面已经分析过自我审查的种种危害及成因，现在来聊一聊如何避免自我审查。</div>
-<p><strong>4.1 心理学层面的努力</strong></p>
-<p><strong>4.1.1 认识到自我审查的危害性</strong></p>
-<div>实际上，听到上述自我审查有那么多的危害，负责任的同学（包括对自己和对自己所处环境）一定已经警觉了起来，这是非常好的事情。因为<strong>意识到并承认问题的存在一定是解决问题的第一步</strong>：)</div>
-<p><strong>4.1.2 认识到自我审查是没有积极意义的</strong></p>
-<div>无论对媒体还是个人，自我审查都是没好处的。自我审查是一种对权力滥用者谄媚的迎合。于个人，希望通过自我审查来达到自我保护是不可能的，因为每一次的自我审查已经是对自身思维的一次伤害；于媒体，即使采取了自我审查，可还是被权力滥用者所不能容忍的例子已经屡见不鲜了，前段时间半岛电视台的<a href="http://chinadigitaltimes.net/chinese/2015/08/%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E5%A4%A7%E9%98%85%E5%85%B5%E5%89%8D%E8%A2%AB%E5%B0%81-%E9%A9%BB%E4%BA%AC%E5%88%86%E7%A4%BE%E5%8F%91%E8%A1%A8%E5%A3%B0/">微博被关</a>就是无数例子中的一个。</div>
-<p><strong>4.1.3 认识到摆脱自我审查是一个循序渐进的过程</strong></p>
-<div>与摆脱洗脑一样，对自我审查的避免不可能一蹴而就。多年的内心纪律训练，使得一个人摆脱自我审查的过程是困难甚至是痛苦的，因为这会打破自己内心原本设好的（虚假的）安全屏障，使你暴露在一个直面恐惧的环境中，这需要你有足够的勇气面对恐惧，拒绝自欺欺人，但如果你足够自爱的话，相信是可以办到的。</div>
-<p><strong>4.1.3 理性看待风险</strong></p>
-<div>在面对恐怖的时候，理性看待风险就尤为重要。本文只介绍了一小部分，感兴趣的同学可以阅读相关的心理学书籍来提升心理素质。</div>
-<p><strong>4.1.4 在安全的环境中畅所欲言</strong></p>
-<div><strong>这条建议可能会是克服内心恐惧时最有用的一条。</strong>解除自我审查会让人直面恐惧，所以你可能需要在一个足够安全的环境中适应这种状态。安全的环境至少可能包括：</div>
-<ol><li>与你信赖的人（比如家人或朋友）交流自己的真实想法；</li>
-<li>在私密日记中说出自己的真实想法；</li>
-<li>在掌握必要<a href="https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html">匿名技术</a>的前提下，进行网络发言表达自己（此处可以看出匿名的重要性）；</li>
-</ol><p><strong>4.2 社会层面的努力</strong></p>
-<p><strong>4.2.1 了解一些行为的风险到底有多大</strong></p>
-<div>这条建议同样非常务实。对于普通人来讲，虽然权力滥用者会故意模糊一些敏感行为的界限，但是从过往的经验中，还是可以大致了解一些行为的风险的。比如说，一些人拒绝翻墙的原因是担心被捕，这就显示是没必要的。而从事风险较低的活动，并学会在活动中保护自己，同样对克服恐惧有很大帮助。</div>
-<div>对于法律工作者来说，如果能尝试推动明确法规的界限，更是一件值得尊敬的事。</div>
-<p><strong>4.2.1 让他人意识到自我审查的问题</strong></p>
-<div>如果你发现身边人有自我审查的行为，你可以让他们了解到自我审查的危害，从而带动更多的人拒绝自我审查，这个举动虽然小，但一传十十传百，如果影响到足够多的人，相当于是对社会的一次“脱敏”。</div>
-<div>当然，如果你暂时还做不到这些，那起码应该做到不要求他人进行自我审查，比如朋友间讨论敏感问题的时候，你不应该用“小心被逮起来”这样的话吓唬他们。</div>
-<p><strong>4.2.2 勇敢发出自己的声音</strong></p>
-<div>《一九八四》的作者乔治.奥威尔曾说：“在大欺骗的时代，说出真相就是革命行为！”。你拒绝自我审查，勇敢发出自己声音的做法，不但是对自己思想负责任的行为，同时更是反抗压迫性的<a href="https://program-think.blogspot.com/2016/01/Zhao-Family.html">赵家政权</a>的正义之举！</div>
-<p><strong>5. 阅读推荐</strong></p>
-<div>其中部分书籍在<a href="https://github.com/programthink/books">编程随想的书单</a>中有提供。</div>
-<ol><li><a href="http://book.douban.com/subject/4820710/">《一九八四》</a></li>
-<li><a href="https://pao-pao.net/article/465">《无处可藏》</a></li>
-<li><a href="http://book.douban.com/subject/20492550/">《清醒思考的艺术》</a></li>
-<li>《新常识》（张雪忠著）</li>
-<li><a href="https://program-think.blogspot.com/search/label/%E5%AD%A6%E4%BC%9A%E6%80%9D%E8%80%83">编程随想的博客：学会思考系列</a></li>
-<li>
-</ol><div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html">订阅地址及社交帐号</a></div>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 草墙推 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%BA%8C%E7%BF%94%E5%AD%90%E7%9A%84%E5%8D%9A%E5%AE%A2-%E8%81%8A%E4%B8%80%E8%81%8A%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E6%88%91%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">自我审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1/?category=18271" rel="tag">自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9A%90%E7%A7%81/?category=18271" rel="tag">隐私</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
 </p>
 <table>
     <tr>
@@ -797,7 +753,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -807,5 +763,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=1827
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

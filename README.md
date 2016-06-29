@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91lady-gaga-%E5%9B%A0%E8%A7%81%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E9%81%AD%E5%B0%81%E6%9D%80/" target="cdt-mirror">【河蟹档案】Lady Gaga 因见达赖喇嘛遭封杀</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%BA%9C%E6%BA%9C%E6%9E%97%E6%9C%A8">溜溜林木</a>：湖北仙桃，示威者被拉进特警车内，铁棍轮流上，再拉出来时，那个人已经血肉模糊，我只想问王毅这就是中国的人权？ <a href="http://t.cn/R5YZEUg" target="_BLANK">http://t.cn/R5YZEUg</a><img src="https://i1.wp.com/freeweibo.com/img/extlink.png?ssl=1" data-recalc-dims="1"> . <em>相关阅读｜《<a href="http://www.voachinese.com/content/a-witness-talks-about-police-violet-crackdown-20160628/3395609.html">美国之音｜目击者讲述湖北仙桃民众抗议遭镇压</a>》；</em>《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82%E4%B8%8D%E4%BB%85%E4%B8%8D%E7%8E%AF%E4%BF%9D-%E6%9B%B4%E6%98%AF%E6%B1%A1%E6%9F%93/"><em>网易回声｜中国的垃圾焚烧厂不仅不环保 更是污染集中地</em></a>》</p>
+<p></p><p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91lady-gaga-%E5%9B%A0%E8%A7%81%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E9%81%AD%E5%B0%81%E6%9D%80/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3990744093543954" target="/weibo/399">2016年06月26日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%85%AB%E5%8D%A6_%E6%88%91%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%A4%AACJ%E4%BA%86">八卦_我实在是太CJ了</a>：Lady Gaga的最新ins。。。[拜拜] <em><em><em><em>相关阅读｜《<a href="http://hk.apple.nextmedia.com/realtime/china/20160627/55283096">苹果日报<em><em><em><em>｜</em></em></em></em>Lady Gaga透視裝見達賴喇嘛 中宣部下令封殺</a>》；《<a href="http://www.voachinese.com/content/news-china-bans-lady-gaga-after-dalai-lama-meeting-20160628/3395206.html">美国之音｜Lady Gaga见达赖喇嘛 遭中国全面封杀</a>》；《<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9Flady-gaga%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E9%9C%B8%E5%87%8C/a-19362708">德国之声<em><em><em><em>｜</em></em></em></em>长平观察：Lady Gaga与中国政治霸凌</a>》</em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-47.jpg?resize=476%2C846" alt="lady gaga" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-47.jpg?w=960 960w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-47.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-47.jpg?resize=768%2C1366 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-47.jpg?resize=576%2C1024 576w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"></p>
+<p></p><p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91lady-gaga-%E5%9B%A0%E8%A7%81%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E9%81%AD%E5%B0%81%E6%9D%80/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3990749978621189" target="/weibo/399">2016年06月26日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%93%9D%E6%98%9F%E8%99%AB%E6%9B%B0">蓝星虫曰</a>：让多年的同事，当面举着自己的语录本、喊自己万岁，你就那么地好意思吗？安之若素，甘之若饴…… <em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF-%E6%96%87%E9%9D%A9%E4%B8%AD%E7%9A%84%E5%91%A8%E6%81%A9%E6%9D%A5/">法广 <em><em><em><em>｜</em></em></em></em>文革中的周恩来</a>》</em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-44.jpg?resize=444%2C266" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-44.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-44.jpg?resize=300%2C180 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-44.jpg?resize=80%2C48 80w" sizes="(max-width: 444px) 100vw, 444px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3990215762613727" target="/weibo/399">2016年06月25日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E7%97%92%E7%97%92%E9%97%B9%E7%9C%BC%E5%AD%90">痒痒闹眼子</a>：人民网发了条微博，后来删了，也不知道为什么？[思考] <em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%BA%E6%B0%91%E7%BD%91%E5%88%A0%E9%99%A4%E9%80%94%E8%A7%82tg%E5%BC%80%E5%80%92%E8%BD%A6%E4%B8%8B%E5%8F%B0%E5%BE%AE/">【立此存照】人民网删除“途观(TG)开倒车下台”微博</a>》</em></em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-11.png?resize=423%2C752" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-11.png?w=1080 1080w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-11.png?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-11.png?resize=768%2C1365 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-11.png?resize=576%2C1024 576w" sizes="(max-width: 423px) 100vw, 423px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3990225875570260" target="/weibo/399">2016年06月25日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40Charlie-%E8%82%87%E7%9A%84%E5%8D%9A%E5%AE%A2">Charlie-肇的博客</a>：【雷洋尸检单位遭举报 法医陷造假传闻】6月21日下午，雷洋案代理律师陈有西称，目前律师和家属还在等待雷洋的尸检报告，暂无最新情况介绍。然而，雷洋案指定的尸检机构法人代表霍家润日前连遭到网络举报，称其学历、履历造假，甚至还曾因赌博被免职。<em>相关阅读｜《<a href="http://www.rfa.org/cantonese/news/leiyang-06092016080109.html">自由亚洲｜疑雷洋尸检报告骤曝光 鉴定机构遭举报</a>》；《<a href="http://china.dwnews.com/news/2016-06-21/59747825.html">多维｜雷洋案发酵 法医霍家润身陷造假传闻</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-45.jpg?resize=441%2C588" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-45.jpg?w=650 650w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-45.jpg?resize=225%2C300 225w" sizes="(max-width: 441px) 100vw, 441px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3989702450778749" target="/weibo/398">2016年06月24日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E9%82%A3%E6%97%A5%E6%9D%BE%E7%9A%84%E5%BE%AE%E5%8D%9A">那日松的微博</a>：午夜，来自人大校友群……[蜡烛]//*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E6%9C%89%E8%A5%BF">陈有西</a>：雷洋离开人间49天，人大同学自发追思，追问死因，希望早日公布尸检结果。<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-40.jpg?resize=402%2C301" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-40.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-40.jpg?resize=300%2C225 300w" sizes="(max-width: 402px) 100vw, 402px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-46.jpg?resize=433%2C770" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-46.jpg?w=960 960w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-46.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-46.jpg?resize=768%2C1366 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-46.jpg?resize=576%2C1024 576w" sizes="(max-width: 433px) 100vw, 433px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3989692686371519" target="/weibo/398">2016年06月24日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91lady-gaga-%E5%9B%A0%E8%A7%81%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E9%81%AD%E5%B0%81%E6%9D%80/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lady-gaga/?category=18271" rel="tag">Lady Gaga</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E5%80%92%E8%BD%A6/?category=18271" rel="tag">历史倒车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%81%A9%E6%9D%A5/?category=18271" rel="tag">周恩来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82/?category=18271" rel="tag">垃圾焚烧厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B9%96%E5%8C%97%E4%BB%99%E6%A1%83/?category=18271" rel="tag">湖北仙桃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E5%B0%B8%E6%A3%80/?category=18271" rel="tag">雷洋尸检</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%8D%E5%AE%B6%E6%B6%A6/?category=18271" rel="tag">霍家润</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5-%E5%BE%90%E9%BA%9F%E6%8E%A5%E6%9B%BF%E9%B2%81%E7%82%9C%E5%87%BA%E4%BB%BB%E5%9B%BD%E5%AE%B6%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%B8%BB%E4%BB%BB/" target="cdt-mirror">联合早报 | 徐麟接替鲁炜出任国家网信办主任</a>
 </h2>
 <p><p>（联合早报网讯）中宣部副部长鲁炜卸下所兼任的国家网信办主任一职，由网信办副主任徐麟接替。</p>
@@ -44,7 +63,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E5%8A%9E%E5%85%AC%E5%AE%A4/?category=18271" rel="tag">互联网信息办公室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E5%8A%9E/?category=18271" rel="tag">国家互联网信息办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E9%BA%9F/?category=18271" rel="tag">徐麟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E7%82%9C/?category=18271" rel="tag">鲁炜</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%8C%97%E4%BA%AC%E5%AE%9E%E6%96%BD%E3%80%8A%E5%8F%B8%E6%B3%95%E8%A1%8C%E6%94%BF%E6%9C%BA%E5%85%B3%E5%BE%8B%E5%B8%88%E7%B1%BB%E8%A1%8C%E6%94%BF/" target="cdt-mirror">【立此存照】北京实施《司法行政机关律师类行政约谈办法》</a>
 </h2>
@@ -100,7 +119,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%95%E9%9F%B5%E8%AF%97%E9%81%AD%E6%8A%B5%E5%88%B6/?category=18271" rel="tag">何韵诗遭抵制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E8%97%8F/?category=18271" rel="tag">西藏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 11小时前</small>
+	<small> ============== 12小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90cdtv%E3%80%91%E5%A5%87%E9%97%BB%E5%BD%95-%E6%A0%91%E5%A4%A7%E6%8B%9B%E9%A3%8E/" target="cdt-mirror">【CDTV】奇闻录 | 树大招风</a>
 </h2>
@@ -170,7 +189,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83/?category=18271" rel="tag">中国足球</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%B3%E7%90%83%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">足球大跃进</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 12小时前</small>
+	<small> ============== 1天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%88%91%E7%94%9A%E8%87%B3%E6%B2%A1%E6%9C%89%E6%84%8F%E8%AF%86%E5%88%B0%E9%82%A3%E6%98%AF%E5%BC%BA%E5%A5%B8-%E7%8B%AC%E5%AE%B6%E9%9D%A2%E8%AE%BF%E8%A2%AB%E7%94%B7%E8%AE%B0/" target="cdt-mirror">新媒体女性｜独家面访被男记者性侵报社实习生</a>
 </h2>
@@ -693,31 +712,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/g20/?category=1827
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BA%91%E5%8D%97%E7%BB%B4%E6%9D%83%E4%BF%A1%E6%81%AF%E5%B9%B3%E5%8F%B0%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%8F%8A%E5%A5%B3%E5%8F%8B%E9%81%AD%E6%8B%98%E6%8D%95/" target="cdt-mirror">美国之音 | 云南维权信息平台创办人及女友遭拘捕</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?resize=550%2C309" alt="“非新闻”的创办人卢昱宇及其女友李婷玉（推特图片）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>“非新闻”的创办人卢昱宇及其女友李婷玉（推特图片）</p></div>
-<p>全球人权组织国际特赦近日发布紧急行动声明，呼吁寻找6月15日起失联的中国维权信息平台“非新闻”的创办人卢昱宇及其女友。随后网友获得确定消息，两人早前被以“寻衅滋事”的罪名拘捕，关押在云南大理州看守所。国际特赦指两人可能面临酷刑虐待的风险，敦促中国政府立即无条件释放，不能因两人行使言论自由权而打压。</p>
-<p>有网友23日发推表示，已经前往民间“非新闻”的创办人卢昱宇的女友李婷玉的家乡广东佛山，见到她父亲。她父亲称，女儿上大学时持反对立场，曾被国宝约谈，4年没有跟家里联系了。网友让她父亲写份委托书，以便律师介入，但是她父亲表示要和其母商议后再定。</p>
-<p>稍后，网友得到李婷玉父亲的回电，说家人收到拘留通知书，显示李婷玉于6月16号下午4点被以“寻衅滋事罪”拘留，羁押在大理白族自治州看守所。6月25日，云南大理的作家许晖前往看守所，查到了卢昱宇和李婷玉的名字，并为每人存入一千元。</p>
-<p>李婷玉原是中山大学翻译学院英语专业的学生，大学期间常在墙外发表论政文章而遭多次约谈，后在学校和家人压力下退学。卢昱宇2012年4月在上海南京路举牌，要求官员公开财产还民选票，被警方拘留10天，同年6月，卢昱宇在广州因“非法集会”被关押1天。2012年10月，卢昱宇开始群体事件的搜索与统计。</p>
-<p>国际特赦发文关注</p>
-<p>此前，国际特赦6月24日表示，“非新闻”的创办人卢昱宇及其女友李婷玉，居住在云南大理，共同管理博客和“非新闻”推特账号，他/她们推特最后一次更新是在6月15日。此后，两人与外界失联。</p>
-<p>卢昱宇和李婷玉从2013年起，每天整理中国各地的群体事件，在不同社交媒体上发布，仅2015年就收集了近3万起包括村民抗议征地、工人罢工、业主维权等群体事件，因此经常受到警察恐吓，几次被逼迁。中国政府最后一次发布官方群体事件统计数字是2007年，当年超过10万起。据中国学者估计，最近几年的群体事件数目每年差距很大，从3万到18万起不等。</p>
-<p>国际特赦的紧急呼吁，要求公开卢昱宇和李婷玉的下落，立即无条件释放，不能仅仅因为两人行使言论自由权就关押，并且确保能够定期且不受限制地会见家人及律师，保障不受酷刑和其他形式的虐待。</p>
-<p>维权信息发布受打压</p>
-<p>十多年来逐渐成为中国有关民众维权信息主要发布平台之一的六四天网的创办人黄琦，星期天对美国之音表示，这些年来，有关当局对维权信息的发布收得越来越紧。</p>
-<p>他说：“对非新闻创办人的打压，我认为只是中国大陆对于这种维权信息发布的又一个打压案例而已。随着维权运动逐渐在全国推开，当局对于维权信息的发布是慎之又慎，控制维权信息的发布。”</p>
-<p>包括黄琦本人在内的六四天网的义工和公民记者，近年不断受到地方当局威胁、恐吓和打压。黄琦表示，非新闻和六四天网等只是维权信息发布的平台，实际上是让大批民众宣泄积怨和不满的出口，避免他/她们采取偏激的手段，客观上起到了维护社会稳定的作用。</p>
-<p>他说：“特别是财产遭到剥夺的这些民众，需要有一个合理的发泄。如果他们失去了这样一些出气的平台，那么就会走向极端。实际上对当局是个好事。我们天网过去18年发布了20万维权案例，总共涉及上百万民众，没有一个采取了自杀、爆炸之类的暴力措施，有利于和谐社会的建立。”</p>
-<p>另据最新消息，25号被看守所告知第二天可以送衣物的云南大理作家许晖，星期天下午再到大理州看守所接待窗口，竟被告知卢昱宇和李婷玉已被转走，而许晖昨天刚给两人存过钱。许晖询问转到哪里，被告知去问公安。记者星期天下午致电大理州看守所，电话一直无人接听。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BA%91%E5%8D%97%E7%BB%B4%E6%9D%83%E4%BF%A1%E6%81%AF%E5%B9%B3%E5%8F%B0%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%8F%8A%E5%A5%B3%E5%8F%8B%E9%81%AD%E6%8B%98%E6%8D%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83%E7%BB%84%E7%BB%87/?category=18271" rel="tag">人权组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%98%B1%E5%AE%87/?category=18271" rel="tag">卢昱宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E7%89%B9%E8%B5%A6/?category=18271" rel="tag">国际特赦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">维权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">群体事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%96%B0%E9%97%BB/?category=18271" rel="tag">非新闻</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -729,7 +723,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -739,5 +733,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

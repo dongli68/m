@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%BE%90%E8%B4%B2%E6%B2%89%E9%BB%98%E5%92%8C%E5%A4%B1%E5%BF%86%E7%9A%84%E5%9B%BD%E6%B0%91%E6%98%AF%E6%80%8E%E6%A0%B7%E6%95%99%E8%82%B2/" target="cdt-mirror">东方历史评论｜徐贲：沉默和失忆的国民是怎样教育成的</a>
@@ -270,7 +270,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=182
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%8E%9B%E6%89%8D%E6%97%A6/?category=18271" rel="tag">万玛才旦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">警察国家</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 8小时前</small>
+	<small> ============== 9小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E8%AE%BE%E7%AB%8B%E5%9B%A0%E7%89%B9%E7%BD%91%E5%BC%80%E5%85%B3/" target="cdt-mirror">美国之音 | 中国计划设立因特网“开关”</a>
 </h2>
@@ -774,7 +774,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -784,5 +784,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

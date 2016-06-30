@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%97%8F%E6%97%8F%E5%AF%BC%E6%BC%94%E4%B8%87%E7%8E%9B%E6%89%8D%E6%97%A6%E9%81%AD%E8%AD%A6%E6%96%B9%E7%BE%81%E6%8A%BC%E5%90%8E%E4%BD%8F%E9%99%A2/" target="cdt-mirror">纽约时报｜藏族导演万玛才旦遭警方羁押后住院</a>
@@ -648,7 +648,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9F%E6%98%9F%E5%8C%97/?category=18271" rel="tag">束星北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%A3%8B%E7%94%9F/?category=18271" rel="tag">江棋生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%B4%E7%9C%9F%E8%AF%9D/?category=18271" rel="tag">说真话</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%AE%E8%A7%86%E4%B8%A4%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%85%88%E5%90%8E%E8%AF%B7%E8%BE%9E%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98-%E4%BC%A0%E5%88%86%E5%88%AB/" target="cdt-mirror">法广｜央视两女主播先后请辞全国政协委员 传分别与周徐有关</a>
 </h2>
@@ -699,5 +699,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

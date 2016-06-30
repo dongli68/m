@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,149 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E7%8E%8B%E7%A7%80%E8%8B%B1%E5%86%99%E4%BF%A1%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E4%B8%AD%E5%85%B1%E5%90%88%E6%B3%95%E6%80%A7%E9%97%AE%E9%A2%98/" target="cdt-mirror">【此贴必火】王秀英写信给习近平谈中共合法性问题</a>
+</h2>
+<p><p>尊敬的习近平先生：</p>
+<p>您好！我是一个年过八旬的北京老太太，我叫王秀英。值此我们伟大的、光荣的、正确的中国共产党成立九十五周年之际，我要对您谈一谈有关中国共产党的合法性问题。</p>
+<p>众所周知，中国共产党当初是在中国国民党统治下于1921年7月1日这天正式成立的。在当时情况下，中国共产党不可能成为一个公开合法成立的政治党派组织。但是，在1949年以后，中国共产党获得了红色革命政权，一直到今天，历任中共中央主席和中共中央总书记都根本没有真正解决过这个自身合法性的问题，这就很是说不过去了！自从中共“十八大”以后，您当选并成为新一任中共中央总书记，这样一个跨时代历史机遇，同样也是一个历史性的莫大荣誉，就摆在了您的面前。</p>
+<p>最近，我通过“政务信息公开”的渠道反映了此项社情民意，最终得到了中共北京市委、北京市人民政府的答复，说是中国共产党既没有在国家民政部社会团体管理司登记注册过，也没有拥有《中华人民共和国组织机构代码证》。然而，在《中华人民共和国宪法》上却有明文规定，任何组织和个人都不具有可以凌驾于国家宪法和国家法律之上的权力；而《中国共产党党章》上也非常明确地有过规定，党在国家宪法和国家法律允许的范围内活动。中华人民共和国国务院还颁布过一个名为《社会团体登记管理条例》的法规，其中同样也规定了国内所有一切社会团体或民间组织都必须要到各级民政部门办理登记注册手续。而国家民政部部长早在2012年5月7日也曾专门对此发表过谈话，申明所有一切政党和党派组织以及社会团体或民间组织，都要到民政部门办理登记注册手续。中国共产党既是一个现任执政党，也是一个社团组织，国家现行的法律法规都对此已有很明确地表明，应当也必须要自觉遵守国家的法律法规，同时应当也必须到国家民政部进行登记注册，否则就是非法成立的组织。</p>
+<p>习先生，全世界人民都知道您是一位博览群书且博学多才的现任国家元首，而且您本人也拥有法学博士的学位，您手中的一切权力均是国家宪法所赋予的。您同时又是中共中央总书记，必然非常熟悉国家宪法和中共党章，也必然很了解并且懂得如何自觉遵守相应的国家管理法规，相信您一定会严格遵守国家宪法和相关的法律法规，还一定会严格遵循中国共产党章程与政治、组织纪律。</p>
+<p>值此纪念伟大的、光荣的、正确的中国共产党建党九十五周年之际，我向您提出一个非常善意的忠告：安排专人尽快到国家民政部，并且按照相关流程和规定，遂将中国共产党办妥一切相应的有关登记注册手续，使中国共产党成为一个合法性的组织。否则，在目前的这种状态下，任何一位中华人民共和国的合法且一直在学法、知法、懂法、用法、守法的公民都可以直接向最高人民法院去控告国家民政部部长涉嫌渎职的违法犯罪行为。因为他没有依法行使国家法律、法规所赋予其的神圣权力与工作职责，而中国共产党亦不可能仅靠全体党员所缴纳的党费进行运转，一定得到过国家财政的资金支持。这样，中国共产党岂不成为一个社会黑帮非法组织了吗？与此同时，中国共产党对人民军队的绝对领导权也就没有了国家法律法规的依据，这就必然将会产生一系列的法律混乱。</p>
+<p>习先生，在中共十八届四中全会以来形成的一系列重要决议中，都对“依法治国”、“法治中国”等理念做过相关的专门阐述，您本人也亲自撰写过很多有关文章，同时强调必须要“从严治党”，您自己还多次特别讲到过“打铁还要自身硬”······现在，这个伟大而庄严的历史荣誉就在前面不远，可以让您唾手可得。相信您一定成为继毛泽东主席之后在中国共产党历史上最伟大的革命领袖人物。中共现有八千多万名党员，翘首期盼，您将让他们成为一个合法性组织的成员。</p>
+<p>最后，请代我问候您的母亲和夫人以及女儿诸好！</p>
+<p>王秀英</p>
+<p>2016年6月28日</p>
+<p>身份证号码：110104193102260023</p>
+<p>住址：北京市西城区牛街西里二区8号楼712房间</p>
+<p>手机号码：13520510585</p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E7%8E%8B%E7%A7%80%E8%8B%B1%E5%86%99%E4%BF%A1%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E4%B8%AD%E5%85%B1%E5%90%88%E6%B3%95%E6%80%A7%E9%97%AE%E9%A2%98/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%A7%80%E8%8B%B1/?category=18271" rel="tag">王秀英</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E8%BF%BD%E8%B8%AA%E6%8A%97%E4%BA%89%E7%9A%84%E5%8D%A2%E6%98%B1%E5%AE%87%E5%A4%B1%E8%B8%AA%E4%BA%86/" target="cdt-mirror">端传媒 | 吴强：追踪抗争的卢昱宇失踪了</a>
+</h2>
+<p><p><strong>6月，卢昱宇失联。我翻看三年前的访谈记录，回忆起这位朋友，如何以一人之力收集记录着每天中国各地的抗争事件，从不声张，亦不间断，在边缘中找到绝对的力量。</strong></p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?resize=600%2C338" alt="“非新闻”的创办人卢昱宇及其女友李婷玉（推特图片）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?resize=300%2C169 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>“非新闻”的创办人卢昱宇及其女友李婷玉（推特图片）</p></div>
+<p>6月24日，卢昱宇及其女友李婷玉被以“寻衅滋事罪”抓捕、拘留的消息传来。在他们用于发布中国内地群体抗争事件的图文消息，以及每日全国统计数字的“非新闻”推特账号上，最后一条更新的消息是在6月15日，“2016年6月13日，周一，94起”，并附上非新闻在blogspot上的博客链接。每天搜集、发布、统计这些事件的消息，卢昱宇已经默默做了超过4年了。他今天的遭遇，我并不惊讶，似乎于他于我，都知道这一天的到来。</p>
+<p>2013年的7月，我在福州的一家咖啡店里第一次见到卢昱宇。当时我的身份是研究社会运动的学者，他则是第一线的记录者，也因此成了特殊的参与者。两个小时的访谈记录，成为我研究论文的素材，但一直没有整理公开。直到最近他出事，我才重新翻开笔记，回忆起这位人称“老卢”的朋友。一些不同于其他社运者的鲜明形象，透过他木讷的外表，渐渐地凸显出来。</p>
+<p>1979年出生的卢昱宇，大学肄业，2011年10月，他因转发盲人维权律师陈光诚的消息，被上海警方找到、约谈。卢昱宇没有声张，更没有表演性地在互联网上哭诉喝茶经历或者遭遇，相反，他开始了一个人的抗议。 2012年间4月、9月期间，他几次在街头举牌要求中共官员“财产公开”、“还人民选票”。举牌，曾经是当时南方街头运动的主要抗争方式。但卢昱宇逐渐意识到这种单一的抗争方式，除了提高勇气，实际效果有限。</p>
+<p>他最终被上海警方驱离，先后在广州、深圳、福州等地落脚，再被驱离。这也是大陆警方对待一些敏感人士的通常做法，或者直接威胁，或者威胁房东、收留朋友等。到今天，这已经演进成地方维稳的所谓“守土有责”的“重任”。卢昱宇在福州待的时间算长，我和他的访谈也在那里进行。</p>
+<p>也是从2012年4月开始，卢昱宇开始有意识地收集各地的维权事件，然后整理、发布。他开始发布抗争事件之后，很快就有西方的媒体引用，甚至直接跟他联系，核实具体情况。他也在这一过程中开始有意识地加强信息核实，如坚持多信源原则，遇到要素不清则主动联系发帖人核实等等。卢昱宇逐渐从街头的举牌“独狼”，转变成一个特殊的公民记者。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160f60fb3d56402891eac3991606304d.jpg?resize=600%2C400" alt="160f60fb3d56402891eac3991606304d" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160f60fb3d56402891eac3991606304d.jpg?w=1080 1080w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160f60fb3d56402891eac3991606304d.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160f60fb3d56402891eac3991606304d.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160f60fb3d56402891eac3991606304d.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>一对男女开设Twitter账号，发布内地群体抗争事件的记录。近日，二人失联，账号至6月14日一直未有更新。来源：「非新闻」Twitter帐户</p></div>
+<p>据卢昱宇的介绍，他主要是从微博、QQ和BBS上每天搜索，通过文字、照片确认基本信息，再寻找其他来源核实，分析出时间、地点、事由、诉求、人数和镇压情况，然后公布。他还按照每天、每周、每月和抗争事件的种类和地区进行区分、统计，特别是千人以上规模的抗争、维权事件。</p>
+<p>例如，2013年6月，他统计到53起群体抗争维权事件。其中，近半都发生了暴力冲突，而征地拆迁和劳工维权比例相当，分别为13和11起；其次，系因政府不作为和军、警、城管等暴力引发，各9和7起，再次才是环境和贪腐问题，各5起。所涉群体，农民和工人、市民的比例相当，均为22起，剩下才是单一议题的业主权益、学生、教师、出租车司机及访民抗争等。抗争的地理分布则集中在广东（12起），以下依次为广西（5）、江苏（4）、浙江（4），呈沿海向内地、向不发达地区逐渐减少的趋势。 7月份的抗争统计稍有增加，为59起，但广东的罢工明显增加，反映了珠三角的工潮兴起。这一趋势一直持续到2015年当局对劳工组织施行打压。</p>
+<p>无论对我这个社运研究者，还是所有关心中国维权事件的人来说，卢昱宇这一统计的意义都不可替代。须知，中国政府从2008年以后就停止发布每年的“群体性事件”统计，而这一抗争趋势从最早公布的1994年的10,000起10人以上规模的抗争，逐年递增，2003年58,000起、2004年74,000起，2008年估计超过10万。其中的千人规模以上抗争，只留内部掌握，并不公布，媒体只能从公开报导和互联网的零星报导中获知，缺乏连续统计。对社运研究者来说更是辛苦，通常只能依据有限的纸媒报导进行趋势追踪，而纸媒报导受宣传口径和政策变动影响极大 。卢昱宇依据新媒体收集、统计到的抗争事件，表面上远远低于官方十年前的群体性事件规模，却是外界能够连续参照的唯一独立来源。<br>
+最明显的变化，是2013年后，征地拆迁维权抗争的比例下降，劳工维权和市民运动的比例上升，劳工维权主要围绕欠资和社保问题，市民抗争包括更多的邻避运动和单一议题抗争，如教育平权、出租车问题、反抗警察暴力等。这显示，维权运动越来越转向城市，市民和劳工正在成为维权运动的主体。卢昱宇总结说，同样的抗争，农村镇压的多，而城市胜利的多。农村的大规模抗争通常伴随着暴力镇压、而城市的暴力冲突则较少。</p>
+<p>不过，2014年后这一对比开始发生变化，随着城市大规模抗议的增加，暴力冲突也有上升的趋势。这很能反映中国社运的力量对比和转型趋势，城市因为市民力量特别是中产阶级的兴起，正在悄悄取代1990年代以来农村地区的分散抗争，并且通过抗争比较容易地满足利益诉求。而农村地区“依法抗争”的旧维权模式，却常以招致镇压而结束，无形中将更多的农民赶往城市，加速着城市抗争模式的转型。</p>
+<p>另一方面，进入2014年后，千人以上抗争的每月频次出现下降，保持在月均30起稍多的水平，似乎表明，维权运动的动员被更有效地压制了。 2014年之后，当局更倾向采取更严厉的预防性镇压，通过发动“净网行动”、打击“大V”，即逮捕活跃人士、信息传播者和NGO分子，降低大规模抗争事件爆发的可能。这对那些突发性大规模自发抗争，如稍早的瓮安模式，颇为有效，对高度依赖组织的公开抗争模式，如乌坎类型，也很见效。同时，当局的预防性镇压，也让卢昱宇收集、转发抗争事件的安全风险也骤然升高。</p>
+<p>2015年后，卢昱宇发现，10人以上的抗争次数明显增加，2015全年观察到28,950起，较2014年上升34%。到2016年上半年，这一增长态势继续维持，每月千人以上规模的大型抗争也升高到每月40起左右。这到底意味着什么？是维稳政策调整后，社会矛盾继续激化？还是经济因素引发更多劳工纠纷，蔓延到河南等内地省份？</p>
+<p>这些抗争事件频率上升、向城市集中最终会引致什么？卢昱宇的统计没有提供答案。却实实在在帮助了包括我在内的很多中国研究。甚至，镜像的另一面，高频抗争可能带来的如突尼斯埃及一般的雪崩效应，也成为中国政府最为担心的政权威胁，这种威胁延续至今，驱动着维稳体制向安全体制的转型。</p>
+<p>无所不在的威慑，深刻影响着过去几年中国内地几乎所有社会运动者的日常生活和行动，渐渐地把其中的许多人卷到社会边缘。反抗，便成为边缘的生活模式。卢昱宇每天要用4到5个小时专门搜索抗争线索，开始时甚至需要10个小时以上，为保持统计连续，他不得不辞去了工作。由于显而易见的危险，卢昱宇从来不使用固定IP发布消息，总是在一个城市的各处游走、蹭网。从2013年初开始，一位来自中山大学的学生同样注意到了他的工作，开始分担。他们在微博和推特上发布消息，在blogspot的博客网站上发布统计数据和初步分类。这位叫李婷玉的学生，也渐渐卷入他的孤独事业和生活，成为卢昱宇的伴侣，并且同样选择了大学肄业，选择了在边缘、充满着危险却异常纯粹的生活和反抗。<br>
+没有抱怨，也没有悲观，清醒地了解可能的风险和苦难，却不事声张，默默地生活在社会的边缘，以一人之力收集、记录着每天各地的抗争事件，以这种独特的方式参与抗争。卢昱宇，仿佛用自己的生活在抵抗，书写着哲学家阿甘本（Giorgio Agamben）对反抗所做的最极端的定义：一种既绝对又边缘化的抵抗，而且在边缘中找到了绝对的力量。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E8%BF%BD%E8%B8%AA%E6%8A%97%E4%BA%89%E7%9A%84%E5%8D%A2%E6%98%B1%E5%AE%87%E5%A4%B1%E8%B8%AA%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E8%AE%B0%E8%80%85/?category=18271" rel="tag">公民记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%98%B1%E5%AE%87/?category=18271" rel="tag">卢昱宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%8A%97/?category=18271" rel="tag">反抗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B/?category=18271" rel="tag">打压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E4%BA%89/?category=18271" rel="tag">抗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">社会矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">社会运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">维权事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">维权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%96%B0%E9%97%BB/?category=18271" rel="tag">非新闻</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E6%B5%B7%E6%A3%AE%E5%B4%B4%EF%BC%9Afacebook%E5%88%AB%E4%BB%A5%E4%B8%BA%E8%88%94%E8%8F%8A%E5%B0%B1%E8%83%BD%E8%BF%9B%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">墙外楼｜海森崴：Facebook别以为舔菊就能进中国</a>
+</h2>
+<p><p>世界上只有两个国家不能使用Facebook，一个是北韩，另一个是中国。为了打开这个全球最多人口国家的市场，Facebook高层密集式访问北京，继半年前其创办人扎克伯格（Mark Zuckerberg）在北京雾霾中跑步，拜见政治局常委刘云山后，6月17日Facebook营运总裁桑德伯格（Sheryl Sandberg）亦到北京，拜见国家互联网信息办公室主任鲁炜。</p>
+<p>Facebook对中国的亲近，与主动撤离中国的Google，大相径庭，反映出两大互联网巨擘对中国市场的看法，也反映出两家公司不同的价值观念。但是，中国对Facebook及Google之态度并无两样，中国高规格接待Facebook管理层，只是一种算计，并不代中国欢迎Facebook。</p>
+<p>今年3月，扎克伯格获刘云山接见，接待规格极高；6月，桑德伯格获鲁炜接见，规格亦非一般。鲁炜不但是中宣部副部长，见面时鲁乃身兼中央网络安全和信息化领导小组办公室主任和国家互联网信息办公室主任，而中央网络安全和信息化领导小组组长乃是习近平，鲁炜可谓是直达天庭之人。（注：6月29日中央宣布，鲁炜不再兼任中央网信办主任，由中央网信办副主任徐麟接替。）</p>
+<p>反观同于近期访华的苹果CEO库克（Tim Cook），以及微软CEO纳德拉（Satya Nadella），就没有获得中国官方这么高规格的接待。</p>
+<p>为什么被封锁的Facebook能获得中国官方如此高规格接待，反之已向中国政府纳税的苹果、微软却遭冷待？</p>
+<p>无他的，因为Facebook当前对中国的利用价值较高。Facebook被中国封锁，但它不但没有抗议，反而不断抛下身段，腰弯了又弯，这种献媚态度给中国带来一种自满的精神亢奋，但更重要的是中国可借此告诉世界，想进中国市场，就必须按中国规矩做生意，无论你是大如Facebook，都必须跪下。</p>
+<p>2015年12月9日，鲁炜在国务院新闻办记者会就清楚说明：“我没有办法改变你，但是我有权利选择朋友。谁到我家来，我确实是要选择的，来的要是朋友。我们不欢迎那些挣了中国钱、占了中国市场，还诬蔑中国的人。就像每一个家庭，都不欢迎不友好的人来做客一样。”</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/09/facebook.jpeg?resize=549%2C285" alt="facebook" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/09/facebook.jpeg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/09/facebook.jpeg?resize=300%2C155 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>可是，纵使Facebook多么愿意地配合中国，就能进入中国市场吗？恐怕，这只是Facebook的一厢情愿。</p>
+<p>中国一直认为在中亚和东欧发生的颜色革命，背后重要推手就是Facebook、Twitter等社交媒体。社交媒体几何级数的信息散播和动员能力，令革命之火迅速蔓延。中国目前最惧怕的就是颜色革命，故纵使Facebook多么愿意配合，中国当政者依然没有胆量让它进来。毕竟Facebook天生是黄头发白皮肤，并非亲生子，怎能百分百信任？</p>
+<p>其次，5月24日，鲁炜在北京向全国政协作了题为《深入学习贯彻习近平总书记网络强国战略思想坚定不移走中国特色社会主义治网之道》的辅导报告，提出互联网的其中一个战略重点——“核心技术要掌握命门”。</p>
+<p>Facebook是网络社交媒体巨头，让其进来无疑会令靠抄袭、模仿的中国社交媒体受到致命打击，变相将社交媒体核心技术之命门拱手相让。中国会笨到让你来赚钱，又让你陷的命门吗？</p>
+<p>鲁炜2014年参观facebook美国总部时，发现扎克伯格的办公桌上有一本习近平的著作《习近平谈治国理政》之英文版。当时扎克伯格说：“这本书我也给同事买了，我要让他们了解中国特色社会主义。”可是，看再多中国的书，永远没办法搞得懂一个党于高宪法的人治国家。</p>
+<p>当年雅虎为了在中国市场的发展，不惜向中国政府提供异见人士的网络个人资料和电子邮件，导致王小宁和师涛被当局控以煽动颠覆国家政权罪、窃露国家机密罪，两人各判处10年有期徒刑。但2015年3月，雅虎宣布撤离中国，关闭在中国唯一的北京办公室及裁员350人。雅虎对外声称是全球业务整顿，但外界指主因是外资网络公司难以和受中国政府保护的本土业者匹敌。</p>
+<p>Facebook如果是靠输诚、靠向专权低头进入中国，其在中国的命运只会步雅虎后尘，而且更会遭到全世界用户唾弃。</p>
+<p> </p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E6%B5%B7%E6%A3%AE%E5%B4%B4%EF%BC%9Afacebook%E5%88%AB%E4%BB%A5%E4%B8%BA%E8%88%94%E8%8F%8A%E5%B0%B1%E8%83%BD%E8%BF%9B%E4%B8%AD%E5%9B%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">赵克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%BB%E4%B8%8D%E5%8F%AF/?category=18271" rel="tag">非死不可</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%82%E6%80%A7%E6%81%8B%E6%AF%95%E4%B8%9A%E6%B1%82%E5%A9%9A%E5%BE%97%E6%A0%A1%E9%95%BF%E7%A5%9D%E7%A6%8F%EF%BC%8C%E5%90%8C%E6%80%A7%E6%81%8B%E6%AF%95%E4%B8%9A%E6%B1%82%E5%A9%9A%E4%B8%8D%E7%BB%99/" target="cdt-mirror">异性恋毕业求婚得校长祝福，同性恋毕业求婚不给毕业？</a>
+</h2>
+<p><p><strong>原文作者6月29日<a href="http://weibo.com/1846298734/DCtzy0EYp" target="_blank">微博更新</a>：</strong></p>
+<blockquote><p>@KeiratheLionheart：声明：公开稿是我自删的，另有考虑原因，并非受到学校压力。但对校方的违法行为会追究到底，也呼吁大家关注校园性少数群体的生存现状，支持大家的声援行动，理性讨论。</p></blockquote>
+<p><strong>原文作者6月28日<a href="http://weibo.com/ttarticle/p/show?id=2309403991491985953992" target="_blank">发表声明</a>：</strong></p>
+<blockquote><p>应学院要求，我领取学位证和离校手续时家长必须在场“见证”。今天（6月28日）特意请假回校办理手续，但全程以沉默回应我所受到的不公。直到离校的这最后一席话，学院领导还要指控整件事都怪我没有好好和家人沟通，让学校和家长都担惊受怕，学校经慎重考虑后，没有对我记过，可以给我发好毕业所需证件顺利毕业。但却对前几日的威胁不给学位证以及上门搜查我家没有给出半句解释。</p>
+<p>王小宇<br>
+2016年6月28日夜说明</p></blockquote>
+<p><strong>以下内容来自微信公号“修和書院”转载：</strong></p>
+<h3>异性恋毕业求婚得校长祝福，同性恋毕业求婚不给毕业？</h3>
+<p> <br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-9.jpg?resize=585%2C329" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-9.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-9.jpg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></p>
+<p>我叫王小宇，是一名拉拉。我和我的女朋友同是广东外语外贸大学2016年应届毕业生。借毕业典礼之际，我们决定以求婚的方式公开出柜，让性少数群体的亲密关系在大学校园内被看见、被讨论、被思考，为创造开放多元的大学校园环境而尽一份力。</p>
+<p>6月21日中午，在广外云山学1栋门口，我的女友双手捧花，单膝跪下，向我求婚。我们相拥、长吻。当场我的同学们都表示了祝福，我很感动。随后，一些国内媒体进行了报道。</p>
+<p>我们原以为事情会到此为止。然而，事情的发展远远超出我们的想象。我被威胁处分、扣押学位证、被认为“失踪”、出租屋被撬门…….我不明白，我们承受那么多，只因我们是女同性恋？</p>
+<p><strong>“不要接受媒体采访、不要提你们是广外学生，以免带来不良影响”</strong></p>
+<p>事情发生不久后，我学院党委副书记杜书记火燎火急要找我谈话，希望我就此事在媒体禁声，不要给学校带来“不良影响”，“你要保护好自己，不要受到媒体伤害”，她担心“别有用心”的“国外媒体”、“国外势力”关注、利用我。</p>
+<p>学校不仅要求我联系媒体删帖，还启动了一些“手段”。事发几小时后，报道转发求婚事件的新浪微博@新媒体女性被删帖；广州女同性恋公益组织“女友组”微信公号被永久封号（其新号是girlfans2009GZ）。</p>
+<p>杜书记这样和我说，“这么多同性恋者，大家都不会歧视，因为他们把握得很好，不会去影响到别人，也不会去危害到别人。”</p>
+<p>去年是我校50周年校庆，50对广外异性恋伴侣举行了集体婚礼，而我们又什么时候怀疑过他们的举动会不会“危害到别人”？我们不能称我们是广外人吗？一生广外情，只是异性恋者的情吗？</p>
+<p>同性恋之间的爱欲表达怎么又变成一个不堪，更遑论危害他人的事情？对同志爱意表达的公私场合划分，实际上是把诸如“女人不要出门抛头露面”之类的规训照搬到同志身上，强调性少数只能在私领域表达自我与情欲，没有在公共场所表达的权力。</p>
+<p><strong>“你的行为涉嫌处分，需要先扣押学位证”</strong></p>
+<p>6月22日下午原定是我在校的最后一天，我打算拿到学位证后就告别母校。在下午的面谈中，杜书记却扣押了我的学位证。她说我的行为涉嫌违纪，需要上报学校违纪处理委员会，视情况再做处理。在《学生手册》的《学生违纪处分规定》中，她用笔划出：</p>
+<p>第三章第十一条（四）“张贴、投递、散发内容淫秽、造谣惑众、侮辱他人人格、损害学校声誉的宣传品，造成不良影响者，给予记过以上处分。”</p>
+<p>第十七条（十）“在公共场合行为不检且不听劝阻者，给予警告以上处分；着装不整或者污秽服饰进入公共场所或在公共地区活动，不听劝阻者，给予警告处分。”</p>
+<p>6月25日，学院刘书记在微信上给我父亲发了催领学位证书的书面通知。而我本人是在打电话问辅导员后才得到催领学位证书的通知。根据《民法》以及学校相关规定，当我不在本地时，可以签署委托书让别人代领。但当我在6月27日向辅导员提出因不在本地委托同学代领学位证书时，被拒绝了。</p>
+<p>我和辅导员约了领证时间，中午时分他又改口说要领证时必须父母到场，“见证你的诚信行为”。对于什么是“见证诚信行为”，辅导员只是含混其词。</p>
+<p>为了获得学位证，我、我的父母均不得不请假到学校拿证。我真的觉得很累了，异性恋求婚获得祝福，同性恋求婚就被扣毕业证？</p>
+<p><strong>被出柜后家门被撬的离奇遭遇</strong></p>
+<p>22日中午，我父母分别都收到杜书记的多番电话，书记跟我父母说找不到我，叫家长们“搜新闻看看”，就这样，在我还没给父母做好思想工作前，我被出柜了。</p>
+<p>杜书记猜测有人指使我做这件事，我很有可能是“被别有用心的组织控制了”。我们的行为艺术并没有发生在毕业典礼之间而是之后，学校认为自己成功地阻止了一场“闹事”行为，控制了局势。但他们依然紧张关注我，并要求我父母让我说出我背后的组织，又要我“不要去我女朋友的毕业典礼闹事”。我本来第二天也要公干出差，并没有打算参加她的毕业典礼，而且没有人求婚会求两次。</p>
+<p>我的父母，一面面对着不能给出充分信息的女儿，一面面对着掌握丰富社会资源以及有着多年工作经验的学院书记，自然选择相信了后者的判断。所以，他们还没顾得上消化我的取向、我的同性亲密关系、我的公众新闻对他们的冲击，只是对我的人身安全与自由产生了极大的忧虑。当晚十点半，焦虑的他们对我下最后通牒：要求我中止所有行程以及离职，马上回家。</p>
+<p>我第二天要出差，是一个多月前就告知家里的事情。所以父母的要求我并没有答应，我给他们发了长短信，“从小你也教我做负责任的人，我不能在出差的前一晚放弃工作。”并建议我们应该双方冷静两天，再出来好好谈。我在给父母能联系上的好友处都留下给父母的口信后，换了电话卡，希望自己能暂时从精疲力尽的电话拉锯战中解脱出来，然后去好友家住了一晚。</p>
+<p>杜书记当晚和我父母说，一定要见到我本人。次日清晨，她再次联系了在我门口守了一夜的家人，随后与学院另一位刘书记赶到我家。他们七点多时还看我未出门，就怀疑我有可能“被组织控制住了”。两位学院书记和我的家人达成一致意见后报了警，理由是“我失踪了”。</p>
+<p>警察很快到了，也联系了我房东，叫人把我家门撬开，警察、妈妈和书记一起进了我家。书记要求家长配合，搜出我的“同伙信息”和“组织信息”。杜书记对其所认为的“有用证据”进行了手机拍照，然后上报学校。</p>
+<p>而我在去出差地的路上思索再三，觉得和父母的沟通比较重要，也担心父母的身体健康。最终在得到单位的同意后放弃了出差。后来才得知，如果我在求婚事件第二天继续出差，学校就会坐实我背后有“境外势力”，“那我四年的学位就白读了，就不能拿到学位证了，还会成为广外历史上的一个反面教材的典型。”</p>
+<p>杜书记严肃地和我家里人说我参与了非法的、不正当的活动，会对我的前途有很大的影响。她说我原来是非常优秀的学生，但后来变化太大。现在我为与父母沟通放弃出差被他们定义为“局势的扭转”，“事态还在萌芽状态就得到控制，被扼杀了”。然而她没有意识到的是，事情没有往她丰富的想象方向发展，这可能会给她立了一个大功劳，却给我的生活带来多大的创伤与影响。</p>
+<p>从杜书记自作主张告诉我家人“我是被非法组织控制了”开始，我就陷入了和家长非暴力沟通无效且受到双方压力的无力中。她丰富的想象力给我紧张的父母火上浇油，在我和父母有沟通隔阂的时期趁虚而入，最终导致我和家人之间信任破裂，导致了我被迫离开我两月来一点一滴营造的安全舒适的家。</p>
+<p>现在我的精神状态已受这件事情大大地影响了。我无法独处，心情消沉，并时常止不住哭泣。我的正常工作与社交都受到了影响。我认为，广东外语外贸大学高级翻译学院党委副书记杜焕君对我现在的状态负有主要责任。</p>
+<p><strong>我的女友同样遭遇学校骚扰</strong></p>
+<p>在事情发生后，学校也对我女朋友也进行了多番问话。她的毕业典礼在我们求婚活动的第二天，也就是6月23日。辅导员婉转地转达不要参加毕业典礼的要求。后来，辅导员以“了解事实”、“派发毕业证”为名进行了多次问话。最好玩的一个电话，辅导员说“收到一些小道消息，如果是不实的话帮忙澄清一下”，问了三个问题，分别是：</p>
+<p>“你们同居了吗？”</p>
+<p>“在你们的关系中，你，扮演了什么角色，主动还是被动？”</p>
+<p>“听说你的上一段关系刚结束不久，这一段关系到底开始多久了？”</p>
+<p>当我的女朋友提出晚上九点打电话问主动还是被动是非常没有礼貌的行为时，辅导员自知理亏，挂了电话。这件事暴露了辅导员无视学生隐私界限的现实，且也显示出其对LGBT议题知识的缺乏，即便对于异性恋，主动与被动预设本身就是一种刻板印象。</p>
+<p>现在，我对广东外语外贸大学及其相关部门、广东外语外贸大学高级翻译学院提出以下几点诉求：</p>
+<p>1. 要求广东外语外贸大学高级翻译学院党委副书记杜焕君就其对我本人以及本人家庭所造成的伤害公开道歉。</p>
+<p>2. 要求广东外语外贸大学高级翻译学院赔偿我、我父亲、母亲在6月28日往返广外过程中产生的误工费、交通费、餐费共计850元。</p>
+<p>3. 要求广东外语外贸大学高级翻译学院党委以及广东外语外贸大学相关部门就区别对待处理不同性取向学生的情况进行反思，公开处理结果。</p>
+<p>4. 要求广东外语外贸大学各学院、工会、教师发展中心等相关教师校工活动组织单位每年至少组织两场针对教师与校工的多元性别平等培训。</p>
+<p>5. 要求广东外语外贸大学成立恐同教材及教学督查委员会，清查校园内发放的“恐同”教材。</p>
+<p>6. 要求广东外语外贸大学团委允许学生性别社团的成立，以及批准学生在校内组织与多元性别平等相关活动。</p>
+<p>在整件事的过程中，学校力图把我推入“学校利用家长爱和关心把误入歧途的熊孩子救回来”的故事，并遮蔽校方行为对我家庭和个人造成的伤害。我把此事公开，是希望广外对性少数学生的伤害，到我们为止。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%82%E6%80%A7%E6%81%8B%E6%AF%95%E4%B8%9A%E6%B1%82%E5%A9%9A%E5%BE%97%E6%A0%A1%E9%95%BF%E7%A5%9D%E7%A6%8F%EF%BC%8C%E5%90%8C%E6%80%A7%E6%81%8B%E6%AF%95%E4%B8%9A%E6%B1%82%E5%A9%9A%E4%B8%8D%E7%BB%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%97%8F%E6%97%8F%E5%AF%BC%E6%BC%94%E4%B8%87%E7%8E%9B%E6%89%8D%E6%97%A6%E9%81%AD%E8%AD%A6%E6%96%B9%E7%BE%81%E6%8A%BC%E5%90%8E%E4%BD%8F%E9%99%A2/" target="cdt-mirror">纽约时报｜藏族导演万玛才旦遭警方羁押后住院</a>
 </h2>
 <p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/646ce857cf7e3b8_size77_w690_h975.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/646ce857cf7e3b8_size77_w690_h975.jpg?resize=525%2C742" alt="中国电影导演协会关于万玛才旦导演西宁机场事件的声明；来源：新浪微博" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/646ce857cf7e3b8_size77_w690_h975.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/646ce857cf7e3b8_size77_w690_h975.jpg?resize=212%2C300 212w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p>中国电影导演协会关于万玛才旦导演西宁机场事件的声明；来源：新浪微博</p></div>
@@ -566,118 +706,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/github/?category=1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%B4%A8%E7%96%91%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E7%9A%84%E5%8E%86%E5%8F%B2%E5%AD%A6%E8%80%85%E8%A2%AB%E5%88%A4/" target="cdt-mirror">纽约时报 | 质疑“狼牙山五壮士”的历史学者被判侵权</a>
-</h2>
-<p><p>新华社报道，质疑“狼牙山五壮士”故事真实性的历史学者洪振快在一起名誉侵害诉讼中一审败诉。北京法院要求他向“五壮士”的后人“赔礼道歉”，并认为这段故事已经构成“中华民族共同记忆”，对它的质疑损害了“中华民族的精神价值”。</p>
-<p>新华社<a href="http://news.xinhuanet.com/2016-06/27/c_1119120271.htm" target="_blank" rel="nofollow">称</a>：北京西城区法院“审理认为，‘狼牙山五壮士’及其精神，已经获得全民族的广泛认同，是中华民族共同记忆的一部分，是中华民族精神的内核之一，也是社会主义核心价值观的重要内容”，认为被告发表的两篇文章“无充分证据”，“多处作出似是而非的推测、质疑乃至评价，通过强调与主要事实无关或者关联不大的细节，引导读者对‘狼牙山五壮士’这一英雄人物群体及其事迹的细节产生质疑，从而否定主要事实的真实性，进而降低他们的英勇形象和精神价值。因此，被告实施了侵害名誉、荣誉的加害行为”。</p>
-<p>法院还认为，“案涉文章经由互联网传播，产生了较大的影响，伤害了原告的个人感情，伤害了社会公众的民族和历史情感，同时也损害了社会公共利益”。</p>
-<p>据此，法院一审判决洪振快“立即停止侵害”，并在判决生效三日内，“在媒体上刊登公告”，向“五壮士”之中两人的儿子，原告葛长生和宋福保道歉并“消除影响”。</p>
-<p>洪振快曾是《炎黄春秋》杂志执行主编。他公开<a href="http://cn.nytimes.com/opinion/20160225/cc25hong/" target="_blank" rel="nofollow">质疑</a>“狼牙山五壮士”故事的许多历史细节，例如认为当时的情形并非如官方宣传的那样，是游击队战士与日军主动接战，而是退路被敌切断，慌不择路，退至绝地。关于“跳崖”的描述，洪振快也认为，其中幸存的两人是“溜”、“滚”、“窜”，而不是主动跳崖。</p>
-<p>据此，洪振快认为，“五壮士”的“事迹并无特别英勇之处”，认为中共在叙写历史的过程中进行了“拔高”和“神化”。</p>
-<p>围绕这些言论，“五壮士”中的幸存者葛振林和宋学义的儿子对洪振快提起了侵害名誉权、荣誉权的诉讼，要求洪向“五壮士”的“在天英灵登报谢罪”。</p>
-<p>据新华社报道，西城法院认为，洪振快对“五壮士”的质疑构成了“对中华民族的精神价值的损害”，“采用了侵害他人名誉、荣誉权益和社会公共利益的方式进行所谓‘学术研究’，否认狼牙山五壮士英勇抗敌的事实和所表现的大无畏精神，其所主张的言论自由明显不足以抗辩其侵权责任的成立”。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%B4%A8%E7%96%91%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E7%9A%84%E5%8E%86%E5%8F%B2%E5%AD%A6%E8%80%85%E8%A2%AB%E5%88%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F/?category=18271" rel="tag">中华民族</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">审判</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B/?category=18271" rel="tag">炎黄春秋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB/?category=18271" rel="tag">狼牙山五壮士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">社会主义核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%EF%BC%9A%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%B4%AA/" target="cdt-mirror">【异闻观止】参考消息：外媒报道乌坎村主任“贪腐”属实</a>
-</h2>
-<p><p>【美国《国际日报》6月26日报道】题：乌坎村“精神领袖”被自己打败了</p>
-<p>以乌坎村“精神领袖”自居的林祖恋试图复制5年前的做法——发动村民大规模集会并召集大量媒体进村，不过这次的复制显然未能成功。“因为他的确贪污受贿，被自己打败了,”一名林祖恋的“发小”直言不讳地说，“林祖恋变了质，他辜负了我们大家的希望。”</p>
-<p>5年前因为一场村委会选举引发强烈风波的中国南方的广东汕尾陆丰市乌坎村，最近又曝出当年村民一人一票选出的村主任林祖恋涉嫌受贿而再次引发关注。虽然有些媒体刻意把林祖恋的被羁押描绘成中国政府对民主的践踏，但冷酷的事实没有往这个想象的方向去发展。汕尾检察机关称，早在3个月前，就有人实名举报林祖恋涉嫌贪腐，并且提供了诸多线索。</p>
-<p>“有关部门做了初查，居然发现全部属实。这令我们大为惊讶。”中共汕尾市纪委的一名官员说，凡是林祖恋经手的乌坎村民生项目，他全部雁过拔毛，一般都要拿项目总金额百分之三以上的回扣，最高的达两成。“林祖恋是典型的蝇贪！”</p>
-<p>蝇贪这个新词，是中共十八大以来习近平主席主导的“打虎拍蝇”雷霆反腐的一部分。打虎是针对高级官员，而拍蝇则针对林祖恋这样的基层干部。“苍蝇的贪腐数额可能不如大老虎，但老百姓耳闻目睹，成天嗡嗡地，反响强烈！”广东省委党校常务副校长杨汉卿表示，拍蝇的社会效应不亚于打虎，老百姓非常拥护。</p>
-<p>从2014年开始，广东省开展了包括治理村官腐败在内的基层三项治理行动。未经证实的消息称，有多达1000名村干部被查处。不幸的是，林祖恋成为其中一分子。“林祖恋感觉自己正在被调查，就导演了悲情剧，试图挟持村民和舆论，从而让政府有所忌惮，不敢动他。”负责村官治理等基层三项治理工作的中共汕尾市政法委一名官员说，不过这次他演了一出狗血剧。</p>
-<p>而在林祖恋被调查的四天后，汕尾地方网站出现了一篇自称当年受林祖恋培养的乌坎人发的帖子，文中称林祖恋从学校塑胶跑道项目中拿回扣，“绝不是什么清官”，并呼吁官方进行调查。而调查的结果再次令人难受：属实。“网民举报的这个线索我们事先没有掌握。”汕尾的检察人员说。</p>
-<p>“他的确有口才，有水平，动员能力强，但是人也是会变的。林祖恋大权在握后，变化太大了！今天的林祖恋早已经不是当年的林祖恋！”举报的村民这样写道。多数学者认为，林祖恋是否贪腐已经不是问题，关键是要探究乌坎村为何两任村官先后栽倒的深层次原因，从制度上解决中国基层官员的权力进笼子的问题。（稿源：参考消息）</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/5746511543" target="_blank">@哒嗒小飞</a>：也是醉了，自己的法院，检察院，政府，党媒说的不信，要靠外国媒体证明我们的政府没说谎<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">，真的药丸</p>
-<p>@坚强的人生无悔:知道自己公信力破产就找个所谓“外媒”发声，其实谁不知道所谓“外媒”只是你们控制的注册在国外的媒体而已！</p>
-<p>@启创造型Marco：还用外媒来打头阵。上访前夜被捕。然后出现在中央电视上。只能说领导不懂法律法规。未审先判！还不准请律师。你当我们不知道</p>
-<p>@书记james ： 这样的外媒很多，大公文汇就不说了，美国有国际日报，世界日报，欧洲有欧洲时报。。。</p>
-<p>@entropie：人社集团近些年斥资无数，在欧州、北美、澳洲收购报纸、广播电台，自己写好稿子让它们发，真正实现了新闻的出口转内销，大家看到经常被点到提问的老外记者多是这些报纸的，它们自己玩的很h。</p>
-<p>@言微澜：我去，请外来和尚就能念经？？就是真经？难道人民傻？不是反美么？还用美报撑腰？谁信谁傻X！</p>
-<p>@杜梨庄的李三：合己意就是好外媒，不合己意就是境外敌对势力，何况这个外媒真假还说不准。</p>
-<p><a href="http://weibo.com/2632866925" target="_blank">@小土豆0801</a>：原来中国人出国门办一家华文媒体就是外媒啦<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1">哪怕乌坎村主任真的有贪腐行为 也不能因此否定他的贡献 某人都发动10年浩劫了还功过三七分呢 凭什么一刀切？功是功 过是过！辩证来看才是正道</p>
-<p>@小Q小魔仙：外媒这个临时工不好当吖！这时又拉出“外媒”想说什么呢？外媒不都是敌对势力吗？</p>
-<p>@sam的橘子妈妈:就算真是外媒，外媒说属实就属实了？那还要法律干什么？</p>
-<blockquote><p><a href="http://weibo.com/n/LifeTime?from=feed&loc=at" target="_blank">LifeTime</a>: 外宣控股的华文媒体。<img title="[瞧瞧]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/8b/lxhqiaoqiao_org.gif" alt="[瞧瞧]" data-recalc-dims="1"></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/dd816182gw1f5ak7gcphzj20lc0qq44f.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/dd816182gw1f5ak7gcphzj20lc0qq44f.jpg?resize=400%2C501" alt="dd816182gw1f5ak7gcphzj20lc0qq44f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/dd816182gw1f5ak7gcphzj20lc0qq44f.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/dd816182gw1f5ak7gcphzj20lc0qq44f.jpg?resize=240%2C300 240w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p></blockquote>
-<p>@一枚落叶一百世：这样你们就放心了？找个“外国”报纸就开心了，就算案件办的好了？</p>
-<p>@兽性大发黄小兔：没事儿，五毛大军一会儿就来，人家姓赵不加班</p>
-<p>@伊留声机：删评论删的很勤快嘛</p>
-<p><a href="http://weibo.com/n/%E8%A7%84%E5%88%99-G?from=feed&loc=at" target="_blank">规则-G</a>:<a href="http://weibo.com/n/%E9%99%86%E4%B8%B0%E5%8F%91%E5%B8%83?from=feed&loc=at" target="_blank">@陆丰发布</a> <img title="[威武]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/vw_org.gif" alt="[威武]" data-recalc-dims="1">竟然找到了海外“靠山。自干五：失误，家丑不可外扬！毛粉：勾连海外势力有辱大国尊严！公知：弱智，你找BBC或CNN看？老百姓：忽悠谁呢？给我1,000万，想印啥就应啥！<img title="[嘻嘻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/tootha_org.gif" alt="[嘻嘻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2458236043" target="_blank">TopGear911</a>：这条消息没删 我就知道肯定是“真的”了<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/3826656984" target="_blank">老处男孩</a>：<img title="[汗]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/24/sweata_org.gif" alt="[汗]" data-recalc-dims="1">看看评论，放心。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%EF%BC%9A%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%B4%AA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B1%9F%E6%A3%8B%E7%94%9F%EF%BC%9A%E8%A2%AB%E8%BF%AB%E6%B2%89%E9%BB%98%EF%BC%9A%E8%87%AA%E7%94%B1%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%8D%E8%87%AA%E7%94%B1/" target="cdt-mirror">自由亚洲｜江棋生：被迫沉默：自由，还是不自由？</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-2.jpg?resize=550%2C431" alt="image" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-2.jpg?w=597 597w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-2.jpg?resize=300%2C235 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>江棋生先生资料照（江棋生提供）</p>
-<p>我不曾想到，由钱杨话题所激起的公共论辩，会是那么热闹和较真。我也不曾想到，这场论辩会引发我持续的关注和思索，并最终出现难于遏制的冲动，要将悟到的东西拿出来与人分享——在这篇短文中，我将通过对“被迫沉默”这个概念的聚焦，来言说自己的感悟。</p>
-<p>何谓本文的“被迫沉默”？本文所言及的“沉默”，专指人们对公共事务的沉默，即政治性沉默。而所谓“被迫”，则是特指由权力压制所造成的“想说而不敢说”、“敢怒而不敢言”。因此，这里说的“被迫沉默”，乃是一种由制度造成的政治性沉默，可简称为“迫默”。</p>
-<p>首先，我赞成不应苛责迫默者。他们不是恶人、坏人。在人品上，他们比只知歌德、颂圣的媚权小人要高出一大截；比一般的五毛、自干五和说假话的新左派们也高出一个及数个档次。他们的沉默，是好人无奈的沉默。他们的沉默，虽有亏天良，但显然不应被责为卑鄙无耻。</p>
-<p>同时我认为，也不应为迫默者作过当的辩护。对迫默者怀有同情的理解，说他们不是勇者，比较犬儒，是恰当的辩护。然而，把他们无视“房间里有大象”的明哲保身，赞为具有“识时务的智慧和耐力”，则显然失当了。不过在我看来，在这场公共论辩中最为过当的辩护和最为失范的回护，乃是声称他们的迫默，是理所当然地享有沉默的自由，是行使自主生活的权利；而批评他们的迫默，就是侵犯其沉默的权利——这种辩护真的太过了，过得远非一星半点。</p>
-<p>一个人对公共事务有话想说，但出于对权势迫害的恐惧而不敢说，这叫失去说话的自由。怎么能把这种生存状态，说成是享有“不说话的自由”或“沉默的自由”？这不是把事实说得满拧了吗？很明显，在这种被迫沉默的生存状态中，没有自由，只有不自由。同理，一个人闻鸡起舞，一大早去法院“依法”申请旁听，但被法院蒙骗戏弄而无法旁听，这叫失去旁听的自由，而不是享有不旁听的自由。类似地，有人手持宪法去公安局申请游行，但被刻意“不准”而无法如愿，这叫失去游行示威的自由，而不是享有不游行宅在家里的自由。还有，一个人不信邪，偏要“依法”独立参选，但在权力重重阻挠下而不能实现，这叫失去被选举权，而不是享有不参选权。再比如，在报禁和党禁之下，人们不能同人办报，不能合法组建反对党，这叫失去出版自由和结社自由，而不是享有不出版、不组党的自由。总而言之，一个人因屈从而不发声，一个人被迫“不公共”，一个人无奈“不问世事，躲进小楼成一统”，这种憋屈、窝囊的活法就是不自由，而不是行使所谓的“自主生活权利”，享有什么“沉默的自由”、“不公共的自由”及“不问世事，躲进小楼成一统的自由”。</p>
-<p>明乎此，则萧瀚先生“维护钱杨沉默的自由，就是维护每个人自我选择的自由”，“维护钱杨沉默的自由，也是维护每个人按照自己的兴趣无害他人选择生活的自由，只有尊重这样的自由，才会有一个哥特建筑、巴洛克建筑、洛可可建筑……多样纷呈的世界，而不是只盖了一幢大灰楼的世界”云云，也就失去根底、无从谈起了。</p>
-<p>享有自由的活法，是有资格心安理得、不怀愧疚的，是有理由不被干预不受打扰的。而失去自由的活法，恐怕就不能免于自责，免于反思，免于点名或不点名的批评。当然，自责、反思和批评之目的，是使沉默的大多数慢慢把腰杆挺起来，一步步更好地做到：呼唤良知，打破沉默；拒绝谎言，说出真话。</p>
-<p>好人的迫默，与公民自主享有沉默权，完全是两码事（对此议题，本文不赘）。好人的迫默，是一种可悲、屈辱的存在。而在良心的驱动下打破沉默，则是从降志辱身走向赢得尊严，从依附人格走向独立人格。这里，我不想提“不自由，毋宁死”，也不想提胡适的“宁鸣而死，不默而生”。我想提出这样八个字：应鸣而尊，不默而辱。自由不是免费的，权利决非白来的，尊严是要捍卫的。古今中外，要将权利被践踏的活法换为享有权利的活法，最不能或缺的，是个体自身的觉醒、抗争和付出。指望和依仗救世主或神仙、菩萨等超自然力量，不靠谱。</p>
-<p>此外，我不想讳言，好人的迫默固然是制度性侵害的明显体现，但是，好人的迫默，也起到了为强权压制“添砖加瓦”的作用（刘瑜语，见她的《沉默不是金》）。换句话说，好人的迫默表明：“我们大家多多少少对这部极权机器之得以运行负有责任。我们当中没有一个人仅仅是这部机器的受害者。要知道它之所以能运行，我们每个人都曾出了一份力。”（哈维尔语，见他的总统就职演说：《人民，你们的政府还给你们了》）。由此不难知晓，好人的迫默，是不应被赞为“独善其身”的。好人的迫默，自然更与“上善若水”八杆子挨不着。而好人在迫默中逝去，也实在称不上什么“完美的谢幕”。</p>
-<p>最新一期即2016年第6期《炎黄春秋》杂志上，刊有束星北的小女儿束美新口述的一篇文章，题目是：束星北的家人和友人。从那篇九千字长文中，我特意撷取一小段，照录如下：</p>
-<p>父亲去世后，我和王淦昌一直保持联系。1990年代中期的一天，我到他家，闲谈中我感慨道：“王伯伯，我父亲要有你一半会做人就好了，他也不会摔这么一大跤！”谁知他的脸当场就板了下来，严肃地说：“不对，你父亲说了我们想说而不敢说的话，做出了我们想做而不敢做的事。”他还说，有些人大代表和政协委员开会，就是举举手，鼓鼓掌，吃两顿好饭而已。</p>
-<p>物理学家王淦昌先生是我的常熟老乡，我曾经和他有过零距离的亲密接触和交往。束美新所忆及的王淦昌，真实可信。王淦昌亲身体悟到，“想说而不敢说”的做人，是可叹的苟且，不是可取的活法。他心中所向往的，是每个中国人在良法所标示的自由边界之内，都有权说出自己想说的话，做自己想做的事。而事实上，国人如何做人与国家往何处去，是紧密相关的。像王淦昌那样有敢言之心的国人，和像束星北那样有风骨的敢言者越来越多的过程，正是极权社会的中国走向后极权社会的过程。</p>
-<p>不要小看说真话的力量，尤其是，不要小看好好说真话的力量。我深信，随着中华大地上的被迫沉默者越来越少、敢言善道者越来越多，中国的后极权社会就既不会通过什么“第二次文革”退回到极权社会，也决不会是什么金刚不败之身时日良多——它被宪政民主社会所取代，虽说不会在一年半载之内发生，但肯定是早早晚晚的事。</p>
-<p>2016年6月23—24日于北京家中</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B1%9F%E6%A3%8B%E7%94%9F%EF%BC%9A%E8%A2%AB%E8%BF%AB%E6%B2%89%E9%BB%98%EF%BC%9A%E8%87%AA%E7%94%B1%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%8D%E8%87%AA%E7%94%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%9F%E6%98%9F%E5%8C%97/?category=18271" rel="tag">束星北</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%9F%E6%A3%8B%E7%94%9F/?category=18271" rel="tag">江棋生</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%B4%E7%9C%9F%E8%AF%9D/?category=18271" rel="tag">说真话</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%AE%E8%A7%86%E4%B8%A4%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%85%88%E5%90%8E%E8%AF%B7%E8%BE%9E%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98-%E4%BC%A0%E5%88%86%E5%88%AB/" target="cdt-mirror">法广｜央视两女主播先后请辞全国政协委员 传分别与周徐有关</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?resize=550%2C310" alt="1389536796_8c49" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?w=1024 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1389536796_8c49.jpg?resize=768%2C434 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
-网络流传的沈冰(左)叶迎春(右)照片</p>
-<p>6月24日，新华社报道，全国政协十二届常委会第十六次会议接受叶迎春请辞第十二届全国政协委员。</p>
-<p>根据北京方面的消息，叶迎春此次在政协委员五年一届任期未届满的情况下，“请辞”政协委员，当与她与去年5月份已被判无期徒刑的前政治局常委周永康的暧昧关系并因此接受调查有关。</p>
-<p>去年2月28日，十二届全国政协常委会第九次会议通过接受冯琳请辞全国政协委员的决定，北京消息则指出，作为央视军事节目主播的冯琳，与徐才厚有特殊关系。</p>
-<p>叶迎春、冯琳以“请辞”，而非如涉入多起案件的黑龙江籍全国政协委员刘迎霞一般被“撤销”全国政协委员职务，显示叶迎春、冯琳已平安落地，官方应该不会追究她的刑事责任。</p>
-<p>叶迎春的新浪微博更新止于2013年9月13日，发布自己主持“汉语桥”的信息，之后再无更新。传闻称，2014年1月12日，她涉案被中纪委带走，此后她在央视久未露面，也未通过任何渠道澄清去向。</p>
-<p>根据官方后来发布的信息，周永康案的追查，始于2013年12月1日，当时，中共中央政治局常委会决定开展核查，叶迎春应就是在当时的调查中被带走。</p>
-<p>叶迎春今年46岁，出生于江西景德镇，1991年进入景德镇电视台做主持人，1993年进入江西电视台，主持江西《新闻联播》，1994年考入了北京广播学院硕士班，1996年，开始在中国中央电视台《军事报道》栏目担任主持人。1998年硕士毕业后，正式进入中央电视台，主持《中国新闻》。</p>
-<p>去年辞任全国政协委员的冯琳1976年出生，原系解放军电视宣传中心军事新闻部播音组组长、军事专题部副主任、央视《军事报道》主播。</p>
-<p>在网络上流传的署名“解放军电视宣传中心干部”的举报信，指控冯琳“惯以色相与高层交易，获得不少利益”，换取全国政协委员、全国青联委员等头衔。</p>
-<p>根据这份举报信，冯琳因与徐才厚的关系，2014年被纪检部门多次调查，后被认定为“生活作风”问题，并未深究，转业并按程序辞去全国政协委员。</p>
-<p>徐才厚2012年11月在中共十八大后卸任中央军委副主席，2014年3月15日开始被调查，2015年3月15日，徐才厚因膀胱癌死亡。</p>
-<p>2013年2月，在官方公布的十二届全国政协委员名单中，叶迎春与冯琳等一同入选十二届全国政协委员。</p>
-<p>第二任妻子出身央视编导的周永康，一直有传闻说他对央视主播情有独钟，据北京消息，除了央视主播叶迎春外，前主播沈冰也卷入周永康案曾接受调查。</p>
-<p>沈冰，2001年进入央视，曾主持《对话》等多档节目，形象清新，2008年后，沈冰淡出央视，公开简历显示，沈冰自2009年2月起，担任中央政法委信息中心副主任，副厅级。</p>
-<p>目前官方没有发布沈冰下落的公开说法。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%A4%AE%E8%A7%86%E4%B8%A4%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%85%88%E5%90%8E%E8%AF%B7%E8%BE%9E%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%A7%94%E5%91%98-%E4%BC%A0%E5%88%86%E5%88%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=18271" rel="tag">CCTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%AF%E7%90%B3/?category=18271" rel="tag">冯琳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B6%E8%BF%8E%E6%98%A5/?category=18271" rel="tag">叶迎春</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86/?category=18271" rel="tag">央视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E6%89%8D%E5%8E%9A/?category=18271" rel="tag">徐才厚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%88%E5%86%B0/?category=18271" rel="tag">沈冰</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -689,7 +717,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -699,5 +727,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cctv/?category=182
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

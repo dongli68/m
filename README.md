@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,275 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BD%9C%E7%83%AD%E7%83%88%E5%BA%86%E8%B4%BA%E5%A4%AA%E5%AD%90%E5%85%9A%E5%85%B3%E7%B3%BB%E7%BD%91%E7%BB%9C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/" target="cdt-mirror">编程随想｜热烈庆贺“太子党关系网络”开源项目率先获得朝廷认证</a>
+</h2>
+<p><div><a href="https://i2.wp.com/1.bp.blogspot.com/-yZdYdO6STLs/V3XI_9fPnYI/AAAAAAAADBc/uF0vGOndUw8u7u_0qhgn_Y7sAaa4mXnJwCLcB/s1600/%25E6%258D%2595%25E8%258E%25B7.PNG?ssl=1"><img src="https://i1.wp.com/1.bp.blogspot.com/-yZdYdO6STLs/V3XI_9fPnYI/AAAAAAAADBc/uF0vGOndUw8u7u_0qhgn_Y7sAaa4mXnJwCLcB/s640/%25E6%258D%2595%25E8%258E%25B7.PNG?resize=640%2C542&ssl=1" border="0" data-recalc-dims="1"></a></div>
+<p>编程随想关于“太子党关系网络”开源项目率先获得朝廷认证的获奖感言与事件说明。</p>
+<p><a name="more"></a>来源：<a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html">https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html</a></p>
+<div>
+<div>
+<div>
+<div><b>文章目录</b></div>
+<p><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-1">★背景介绍</a><br><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-2">★获奖感言</a><br><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-3">★为啥此事儿值得庆贺？</a><br><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-4">★各方报道</a><br><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-5">★顺便聊聊 GitHub 的人品和骨气</a><br><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-6">★给同道中人的建议</a></p>
+</div>
+</div>
+</div>
+<div>
+<p><a href="https://www.blogger.com/null" name="head-1"></a></p>
+<h2>★背景介绍</h2>
+<p>（考虑到某些同学还不知道发生了啥事儿，先作一下背景介绍）<br>
+今年（2016）开两会前夕，俺把自己整理的《<a href="https://github.com/programthink/zhao" target="_blank">太子党关系网络</a>》开源到 GitHub 上，算是对两会的献礼。<br>
+这个项目的内容很丰富——包含了700多个权贵，130多个权贵家族——是俺多年整理的成果，不容易啊。<br>
+开源之后，这个项目获得了非常多网友的关注（截止本文发布时，将近2000个 Star，将近600个 Fork）。显然，这个项目让朝廷方面很不爽。由于 GitHub 的影响力太大（全球最大的开源项目集散地），朝廷方面不敢贸然封锁 GitHub 全站。而 GitHub 全站都开启了【加密的】HTTPS 协议，导致 GFW 无法进行选择性屏蔽。<br>
+不过朝廷那帮人里面，也不全是吃闲饭的。朝廷方面利用某个新成立的【半官方】组织（中国网络空间安全协会）向 GitHub 的网管发去一份“删除令”（其内容参见<a href="https://github.com/github/gov-takedowns/blob/master/China/2016/2016-06-08-programthink-zhao.md" target="_blank" rel="nofollow">这个链接</a>）。目前 GitHub 网管的做法是——把俺这个项目进行【选择性屏蔽】。也就是说：当你从墙内访问俺这个项目，会看到一段洋文，说该项目暂时不可用；但如果你通过翻墙的方式，从墙外访问这个项目，依然可以正常访问，正常下载。<br><b>针对俺项目的政府删除令，是 GitHub 历史上的第6个，也是来自中国政府的【第一个】</b>。<br>
+（前面5个删除令都是来自俄罗斯政府，详情参见 GitHub 官方的<a href="https://github.com/github/gov-takedowns" target="_blank" rel="nofollow">这个链接</a>）。<a href="https://www.blogger.com/null" name="more"></a></p>
+<p><a href="https://www.blogger.com/null" name="head-2"></a></p>
+<h2>★获奖感言</h2>
+<p>（请允许俺先调侃一把，发表一篇简短的致辞）</p>
+<blockquote><p>感谢国家，感谢国务院，感谢网信办（国家互联网信息办公室），感谢网安协会（中国网络空间安全协会）……<br>
+俺放在 GitHub 上的那个“太子党关系网络”，能够第一个获得朝廷方面的垂青，实乃祖上积德、三生有幸、荣耀之至……<br>
+既然朝廷方面这么给面子，俺万万不可等闲视之。俺要加倍努力，曝光更多的权贵家族，让更多的网民了解权贵们是多么的卑鄙、多么的无耻、多么的下流……<br>
+除了继续曝光权贵家族，俺还要继续抹黑党国——不光抹黑党和国家领导人，还要抹黑共产主义理论、抹黑社会主义制度、抹黑党的历史……<br>
+俺希望有更多读者了解天朝是如何奇葩的一个国度。越多的民众意识到这点，则党国的民意基础就越差；党国的民意基础越差，则党国的统治基础也就越差（别忘了：<b>失民心者失天下</b>）<br>
+俺一向对抹黑的工作乐此不疲，这也算是为天朝的政治变革，尽一个“屌丝/宅男/程序猿”的微薄之力 :)</p>
+<p>差点忘了，俺还要感谢天朝一个很重要的部门——六扇门。<br>
+俺很清楚：自己老早以前就被六扇门盯上了（2011年发博文鼓吹“茉莉花革命”的时候）。<br>
+这么多年过去了，六扇门连俺是男是女、姓甚名谁、家住何方都一无所知。这是六扇门的耻辱啊，同志们！<br>
+网监部门的警察同志们要加倍努力啊，否则你们怎么对得起“远超军费的维稳费用”啊？？！！</p></blockquote>
+<p><a href="https://www.blogger.com/null" name="head-3"></a></p>
+<h2>★为啥此事儿值得庆贺？</h2>
+<p> </p>
+<h3>◇原因1</h3>
+<p>首先，说明这个项目戳到了朝廷方面的 G 点 :)<br>
+这个项目已经获得了比较大的影响力（参见该项目的 Star、Fork、Watch 三个指标）。而且俺这个项目刚开张的那今天，由于关注的用户很多，甚至进入了 GitHub 的项目热榜前几名。<br>
+以上这些，肯定让朝廷方面坐立不安 :)<br>
+最近几年，俺经常在网上看到这样一句话“键盘党没啥鸟用”。前几个月俺开源这个《太子党关系网络》的时候，也有网民说“曝光权贵家族没啥鸟用”。<br>
+今天俺要反问一下：如果真的没啥鸟用，朝廷方面为啥要费这个力气想办法去屏蔽这个项目捏？<br><b>朝廷这么干，恰恰说明这个项目很有用 :)</b></p>
+<h3>◇原因2</h3>
+<p>这次事件还说明了，俺用来隐匿身份的措施是靠谱的。<br>
+六扇门肯定很想抓捕俺，但是一直没有得逞，所以不得不用“删除令”这种退而求其次的招数——因为删除令这种做法会留下话柄。<br>
+如果六扇门能定位俺的身份，至少可以像当年对付 ShadowSocks 的作者那样——叫去喝茶，然后逼迫项目作者自己删除项目。</p>
+<h3>◇原因3</h3>
+<p>最后一个值得庆贺的理由是：<a href="https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%BF%A0%E7%8F%8A%E6%95%88%E5%BA%94" target="_blank" rel="nofollow">史翠珊效应</a>。这个效应说的是：<b>企图限制公众了解某些信息/内容，反而导致这些信息/内容被更多人知道</b>。<br>
+由于俺这个项目是 GitHub 收到的第一个来自中国的“删除令”，朝廷的这个做法已经引发了广泛的报道（包括国内和国外）。<br>
+俺这个项目以及俺本人的网名，也顺便被更多人知道了。俺的影响力有了一定提升，这很值得庆贺——影响力越大，抹黑党国的效果就越好 :)</p>
+<p><a href="https://www.blogger.com/null" name="head-4"></a></p>
+<h2>★各方报道</h2>
+<p>下面这篇是写得最详细的报道，文中对发出删除令的“中国网络空间安全协会”有详细介绍，包括该组织有哪些政府背景（感谢“端傳媒”）<br><a href="https://theinitium.com/article/20160628-mainland-githubcensor/" target="_blank" rel="nofollow">開源「趙家人」名單，GitHub激怒中國網安協會首出拳 @ 端傳媒</a></p>
+<p>上述这篇获得了如下几个网站的转载：<br><a href="https://github.com/greatfire/wiki/issues/120" target="_blank" rel="nofollow">开源“赵家人”名单，GitHub激怒中国网安协会首出拳 @ GreatFire</a><br><a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BC%80%E6%BA%90%E8%B5%B5%E5%AE%B6%E4%BA%BA%E5%90%8D%E5%8D%95-github%E6%BF%80%E6%80%92%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AE%89%E5%8D%8F%E4%BC%9A%E9%A6%96%E5%87%BA%E6%8B%B3/" target="_blank" rel="nofollow">端传媒 | 开源赵家人名单 GitHub激怒中国网安协会首出拳 @ 中国数字时代</a><br><a href="http://www.chinagfw.org/2016/06/github.html" target="_blank" rel="nofollow">开源“赵家人”名单，GitHub激怒中国网安协会首出拳 @ GFW Blog</a><br><a href="https://www.letscorp.net/archives/106763" target="_blank" rel="nofollow">端传媒：开源赵家人名单 GitHub激怒中国网安协会首出拳 @ 墙外楼</a><br><a href="http://qiwenlu.blogspot.com/2016/06/github.html" target="_blank" rel="nofollow">赵家人要把 GitHub 管起来 @ 奇闻录</a><br><a href="http://disp.cc/m/163-9tZt" target="_blank" rel="nofollow">開源「趙家人」名單，GitHub激怒中國網安 @ Disp BBS</a></p>
+<p>另有其他一些网友针对此事的评论文章</p>
+<p><a href="https://www.techdirt.com/articles/20160623/07384934793/rather-than-launch-massive-ddos-attack-this-time-china-just-asks-github-to-take-down-page-it-doesnt-like.shtml" target="_blank" rel="nofollow">Rather Than Launch A Massive DDoS Attack, This Time China Just Asks GitHub To Take Down Page It Doesn’t Like @ Techdirt</a></p>
+<p><a href="https://twitter.com/HNTweets/status/747879750723506177" target="_blank" rel="nofollow">GitHub’s Government Takedown Request from China @ Hacker News</a></p>
+<p><a href="http://qz.com/718465/chinas-fierce-censors-try-a-new-tactic-with-github-asking-nicely/" target="_blank" rel="nofollow">China’s fierce censors try a new tactic with GitHub—asking nicely @ Quartz</a></p>
+<p><a href="https://www.blogger.com/null" target="_blank" rel="nofollow">中国向GitHub发出删除通知 @ Solidot</a><br>
+（本文已经被 Solidot 的管理员删除了，俺贴出此文的<a href="https://webcache.googleusercontent.com/search?strip=0&q=cache:http://www.solidot.org/story?sid=48685">Google 快照</a>）</p>
+<p><a href="https://imtx.me/archives/1984.html" target="_blank" rel="nofollow">2016 年了，从 GitHub 的黑名单谈「网络审查」 @ I’m TualatriX </a></p>
+<p><a href="http://www.percya.com/2016/06/cyberspace-administration-of-china-send.html" target="_blank" rel="nofollow">Cyberspace Administration of China sent take down request to Github @ percya</a><br><a href="http://www.percya.com/2016/06/chinas-censorship-order-to-github.html" target="_blank" rel="nofollow">China’s censorship order to Github caused Streisand effect @ percya</a><br>
+（上面这位 percya 应该是俺博客的读者）</p>
+<p><a href="https://zhuanlan.zhihu.com/p/21432458" target="_blank" rel="nofollow">HTTP状态码451——基于法律上的原因，我不能向你展示网页内容 @ 知乎专栏</a><br>
+（本文已经被知乎的管理员删除了，俺贴出此文的<a href="https://webcache.googleusercontent.com/search?strip=0&q=cache:https://zhuanlan.zhihu.com/p/21432458" target="_blank" rel="nofollow">Google 快照</a>）</p>
+<p><a href="https://gold.xitu.io/entry/576d00bb128fe1005a1d713e" target="_blank" rel="nofollow">Github 上线了 gov-takedowns 项目，接受各国政府删帖申请</a></p>
+<p><a href="https://www.blogger.com/null" name="head-5"></a></p>
+<h2>★顺便聊聊 GitHub 的人品和骨气</h2>
+<p>之前俺对 GitHub 管理层骨气，还是比较看好的。<br>
+但是经过这个事情之后，俺对 GitHub 管理层的人品和骨气，要打一个大大的问号了。<br>
+其它的不提，单说朝廷发出的“删除令”。这个删除令【并不是】针对俺那个项目的内容，而是针对该项目的某一条 issue（并且这条 issue 并不是俺本人发的）。然而 GitHub 的管理员却对俺整个项目进行选择性屏蔽，导致墙内网民（在不翻墙的情况下）无法正常打开该项目。<br>
+照理说，GitHub 方面应该只屏蔽那条 issue，而不是整个项目。为啥 GitHub 的网管要这么干？令人浮想联翩啊。</p>
+<p><a href="https://www.blogger.com/null" name="head-6"></a></p>
+<h2>★给同道中人的建议</h2>
+<p>下面，俺要第 N 次强调“多重代理”的重要性。（博客的老读者们，请原谅俺的唠叨）<br>
+天朝的很多反党人士/政治异议人士/维权人士，过于相信国外大公司的人品。如果你在网上进行高危的政治活动，这种信任可能会让你完蛋。<br>
+俺的建议是：不要相信任何商业公司，不管这家公司的规模有多大，名声有多好。<br>
+比如俺大量使用 Google 的服务（俺的博客就搭建在 Google 的博客平台），并且 Google 的口碑是 IT 大公司里面最好的。但是，俺依然【不会】完全信任 Google。典型的例子就是：当年 Gmail 尚未被封杀的时候，俺访问 Gmail 也是通过【基于 TOR 的多重代理】。<br>
+为啥要这么干捏？主要的好处在于：即使 Google 的网管与中共合作（当然，这个概率非常非常小），俺的风险也不大。当俺使用【带 TOR 的多重代理】访问 Google 的服务器，服务器记录下来的【访问者IP】并不是俺本人的公网 IP，而是 TOR 的出口节点的 IP。TOR 网络本身是非常难回溯的（TOR 的主要设计目标就是为了隐匿性）。退一万步讲，即便 TOR 网络出现安全漏洞，导致追踪者可以进行回溯，顶多也只能回溯到俺使用的 TOR 前置代理的服务器，而不会回溯到俺本人的公网 IP。<br>
+有兴趣的同学可以参见如下教程：<br>
+《<a href="https://program-think.blogspot.com/2016/03/GitHub-Security-Tips.html">使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验</a>》<br>
+《<a href="https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br>
+《<a href="https://program-think.blogspot.com/2013/11/tor-faq.html">关于 TOR 的常见问题解答</a>》</p>
+<p><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br><a href="https://program-think.blogspot.com/2016/02/Zhao-at-GitHub.html">《太子党关系网络》开源到 GitHub——大伙儿一起来曝光赵国权贵</a><br><a href="https://program-think.blogspot.com/2016/01/Zhao-Family.html">聊聊“赵家人”走红网络的重要意义</a><br><a href="https://program-think.blogspot.com/2015/05/Wanda-and-Princelings.html">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a><br><a href="https://program-think.blogspot.com/2014/01/china-princelings-offshore-companies.html">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a><br><a href="https://program-think.blogspot.com/2016/03/GitHub-Security-Tips.html">使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验</a><br><a href="https://program-think.blogspot.com/2015/06/My-GitHub.html">俺的 GitHub 开张——原 Google Code 的 wiki 页面已迁移至此</a></p>
+</div>
+<div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html">订阅地址及社交帐号</a></div>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BD%9C%E7%83%AD%E7%83%88%E5%BA%86%E8%B4%BA%E5%A4%AA%E5%AD%90%E5%85%9A%E5%85%B3%E7%B3%BB%E7%BD%91%E7%BB%9C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/github/?category=18271" rel="tag">github</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3/?category=18271" rel="tag">编程随想</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%9F%A5%E4%B9%8E-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B8%B8%E6%88%8F%E9%9C%80%E8%A6%81%E5%AE%A1%E6%89%B9%E6%89%8D%E5%8F%AF%E4%B8%8A%E6%9E%B6/" target="cdt-mirror">知乎 | 如何看待苹果中国区游戏需要审批才可上架？</a>
+</h2>
+<p><p>之前5月份广电局一封邮件通知让整个业界惊魂未定，种种谣言和辟谣纷纷四起，今天，6月30日，苹果终于没有能抗衡住广电总局的压力，在开发者后台贴出这样的醒目通知：</p>
+<p><strong>致中国地区游戏开发人员：</strong></p>
+<p><strong>根据2016年5月24日国家新闻出版广电总局颁布的公告，移动游戏需要通过国家新闻出版广电总局的审批才可发布。有关规定条文的详情，请参阅<a href="https://link.zhihu.com/?target=http%3A//www.sapprft.gov.cn/sapprft/contents/6588/298011.shtml">国家新闻出版广电总局</a> 。请在“App 审核信息”部分的“备注”字段输入游戏类 App 的批准号码和批准日期。</strong></p>
+<p>至此，中国独立开发者的道路越来越难走了，首先给大家普及下这个审批的难度，对个人来说，连审核的资格都没有（说好的万众创业呢？），而对公司来说，中小公司也面临极大的申请问题，一句话，你要去申报一个游戏上架AppStore，你需要：文网文+ICP证+软著+版号</p>
+<p>首先是文网文，据悉一个朋友公司花钱3~4万搞了好几个月才办下来，然后现在又开始啃ICP证，这个也是个硬骨头（千万注册资金？），软件著作权还好点，据说花600在淘宝，2个月可以办下来，版号，以移动公司代办的标价是1w5，也就是说，你先得花上半年时间办这些东西，然后以后每个游戏都要走一遍这个申请流程才行，申请完这些不是高枕无忧了，还要时间，根据规定有20天时间（书面表达），当然随时一个问题就可以驳回你再去等待，这样看来，之前苹果wwdc刚刚提速的审核优化又报废了。</p>
+<p><strong>最关键的，如果按照《国家新闻出版广电总局5月24日规定》，那10月1日所有未经过审核的游戏全部要从AppStore下架，时至今日，我对苹果能否抗住这个压力实在没有太大信心。</strong></p>
+<p>讲真，我自己作为一个独立开发者，已经工作了几年，主要是国内市场，我们不是换皮偷IP或者充数量的那种，是因为自己喜欢而制作精品小游戏的，也取得了一定收入和成绩，自己能养活自己！我想这个就是国家提倡的自主创业吧，我能解决自己的生计问题，为国家创汇（美元收入），然后不去强别人的饭碗，为国家多提供一个工作岗位，这样双赢岂不是很好，但是今天开始，似乎一切都被扭转了，这条道路越来越难，几乎走不动了，难道就这样结束，我也要去重新上班，去做氪金的游戏了吗？</p>
+<p>希望国家能多为我们独立开发者想想，给一条活路，我们就是你们鼓吹的年轻创业者，不要赶尽杀绝。</p>
+<p><strong>相关知乎网友回答：</strong></p>
+<p><strong>冷月无声：</strong>手游研发人员，从审核要求的角度，纯吐槽一下匪夷所思的官僚主义。正常都要提供的文档材料我就不说了，说几点荒谬的：</p>
+<p><strong>1.必须刻录5张光盘，必须是dvd。</strong>安卓版安装包一张，iOS版安装包一张。还有3张是公司相关的资质证明扫描件的jpg格式。对你没看错，现在这个时代了，不能直接传文件，甚至不能把五个文件放在同一张光盘里。</p>
+<p><strong>2.必须寄过去两个装好游戏的手机，安卓一部，iphone一部。假设这个游戏没有安卓版，就提供iphone两部。</strong>你们就是不能自己准备测试机然后费一点宝贵时间自己安装是吧？那好，全公司的游戏都装进去，一个公司寄两部手机可以吗？答曰不可，一个公司假如有n个游戏，就要寄2n个手机。</p>
+<p><strong>3.手机里必须有电话卡，电话卡必须有流量。</strong>所以说广电总局没有wifi咯？这意味着不能寄itouch了，假设有穷苦的小公司一直用itouch做测试机，则必须为了审核买iphone。</p>
+<p>7-1补充说明：1.很多人关心手机是不是不还了，这个怪我没说清楚，还是承诺会还的。市面上手游总数起码起码五位数是有的，他们要吞下几万台手机不太可能。但是并没有承诺多久还，法务说估计要几个月吧。我们测试机算多的了，但是2n台要消失几个月还是觉得非常不便。比如iphone，那都是按照代数和系统号来准备的，安卓手机是根据品牌参数配置准备的，都尽量覆盖全面，现在有缺口了是不是要补，补的话都是成本，不补的话，漏了机型专有的bug怎么办？（比如有的问题就只出在ios9，有的问题就只出在某种分辨率，有的问题a牌手机没有b牌有，bug就是这么任性）2.有人问出处，我这边就是接收了公司法务部的统一通知邮件，原法律文件我没有看过，与有关部门的沟通我也没有参与过，抱歉无法给出明确答案。我们作为项目组，只能反复和法务确认是否必需而已，法务也很无奈…不过我真的没有胡编乱造（虽然看起来很像胡说八道），评论中也有同行回复，确认说也收到这样的要求了。</p>
+<p>________________________</p>
+<p><strong>一张钞票：</strong>对于大公司没有什么影响。小公司或者成建制的独立团队就是件很麻烦的事。个人开发者就是死刑啊。就像其他答案里提到的，网游备案早就有了，这个等于是把政策推广到手游上。行业老人可能并不是特别奇怪。</p>
+<p>但是手游也有其特殊性，主要是成本低，项目多，开发快，更依赖于创意。网游公司都比较大，备案成本可能是开发成本的千分之一，开发周期两年往上。但是独立团队和小公司产品多，每个产品都要备案，时间拖延上是指数增加的，影响远远大于只做一个项目的公司。而且本来手游项目就要开发快，很多团队平均下来一两个月就能做一款，你备案再搞一个月，简直是个笑话。</p>
+<p>细算下来，对于一个手游公司，成本大概如下：<br>
+一次性成本：<br>
+文网文，大概要花1万，时间2-6个月。<br>
+ICP，1-2万，3个月-1年<br>
+每项目成本：<br>
+软件著作权，大概1千，时间一个月<br>
+广电审批，多少钱不知道，估计3千以内，时间1-3个月</p>
+<p>而且这些东西都是需要按顺序办的，不齐的就从头开始吧。如果中间什么表没填对，什么东西搞错了，那就更久了，所以滋生了一个中介市场。听说很多都是衙门人出来搞得噢。</p>
+<p>如果你啥证都没有，最快第一个项目完成审核也要7个月，基本只能等着10月1号下架了。</p>
+<p>这事充分体现了广电总局对于手游行业的无知，傲慢，管理粗暴。总之就是很傻逼。</p>
+<p>更多国内团队会针对海外市场做，创意性的本土题材没有活路，因为做内需风险太大了。你做一个项目要做完之后好几个月才能验证咋回事，小团队耗不起啊。最可惜的是这两年国内独立游戏大有起色，整个手游市场的价值观也开始靠谱起来。很多团队或者个人都在做一些非常本土化的，跟中国有关的游戏。这规定一出来，独立游戏的土壤灭绝了一半，中国人最关心的日常，最了解的文化不能够在游戏中获得最有创造力的表达。</p>
+<p>不能做本土文化，也不能把本土文化输出到国际市场，因为没有内需保底，那小团队只能针对国际化的风格来玩了。并不是所有人都擅长这个，而且英语这事对于不少团队，还真是个壁垒。</p>
+<p>整体来说，弱化中国团队的竞争力，同时隔绝大量海外的优秀产品。隔绝产品的一个副作用就是导致玩家品味降低，玩家品味降低导致做国内市场的游戏公司品味更低，然后恶性循环到屠龙宝刀的水平。</p>
+<p>本来一个欣欣向荣的市场，非得来一刀。官老爷做决定，屁民那是没机会插嘴的。这种时候你不想呼唤点政治权利么？</p>
+<p>_______________________</p>
+<p><strong>特里杰克：</strong>说好的大众创业，万众创新呢？做独立游戏的初衷不就是想干干净净的做游戏，不去过多的考虑什么商业，什么付费心理学，什么挖坑，什么什么…..因为喜欢游戏，所以可以放弃很多，去专心追求自己的梦想，专心做自己想做的。可是现在……</p>
+<p>“你必须向我证明你是无罪的，不然枪毙”<br>
+“你想屁颠屁颠过来跟我说你没罪？不好意思你没资格说话”</p>
+<p>独立游戏者即使想审核，也没资格。<br>
+以后中国区游戏只会剩下各种克金网游，没办法，游戏成本大大增加了，包括时间成本和机会成本，只能选择最有赚钱希望的游戏做。<br>
+而不计成本做心中热爱的独立游戏作者，消失了……</p>
+<p>______________________</p>
+<p><strong>成浩：</strong>首次被邀请回答，竟然是这样的噩耗。本想靠能耐混饭，饭没混到手心却被伤了。吃相不能优雅一点吗？21世纪了还靠收保护费是可悲还是可笑，赚的钱都是要交税的，何必杀鸡取卵。玩游戏的不会对和谐社会造成威胁的，到底是权利变现，还是建设和谐社会。我们拭目以待！</p>
+<p>我会艰难的活下去，如果单纯的是交保护费，我会为我的理想去苟且，如果是逼迫我去成为一个麻木的上班族，我也会为了嗷嗷待哺的孩子，甘愿平凡的一生，但我想说的是:</p>
+<p>我86年出生，今年31岁<br>
+中国现在是你们的，但将来终究会是我们的<br>
+我默默的活着与看着</p>
+<p>———-华丽的更新分割线———-<br>
+首先感谢大家的关注与点赞，也说明有很大一部分团体是跟我有着同样感受的<br>
+那么就事论事，避免成为一个无脑抱怨或无端黑的宣泄回答<br>
+我们来分析一下，广电到底为了什么才出台如此让人不齿的管理办法<br>
+我来大胆的猜测广电的真实目的，无非有三：</p>
+<p>1.利用自己手中的权利，把以前官方定义为灰色收入的蛋糕，抢夺到自己的手里<br>
+2.防止不和谐内容或环境影响，出现在手游平台<br>
+3.高调告诉全中国：普天之家，莫非王土</p>
+<p>那么号称的目的呢，有以下：</p>
+<p>从小接受的文化教育熏陶了我，“我向来不惮以最坏的恶意揣测中国人”，那么如果我为了达到广电总局的目的，我可能采取如下措施：</p>
+<p>1.降低门槛，把鱼都放进来<br>
+资质要求：有合法注册的公司，先都到我的官网httb//http://guangdian.com都实名注册了再说（注册用户高达XX万）</p>
+<p>2.鱼都进池子了，先收割一波<br>
+每一个手游产品，需要一个版号，获取方式很简单，httb//http://maibanhao.guangdian.com，广电官方链接,微信支付、支付宝支付、信用卡支付、各种支付（便捷的支付手段），一个版号1W人民币（适中的价位），支付后版号5分钟内发出（优秀的购物体验），电子发票1天内开出（…）</p>
+<p>3.收割完毕，要增强用户粘性<br>
+购买缴纳的钱，可以50%全额抵税（甜蜜的烦恼），接着跟税务部门联动（强强联合），手游行业一毛收入也别想漏税（收割长尾）</p>
+<p>4.做大做强，管你没商量<br>
+原审核部门100个人，每天每夜为了保证20个工作日审核通过，辛劳工作，下面的同志很有怨言<br>
+政策一变，审核部门精简为10人，把1个人的投诉部扩充到200人，全面接收处理社会群众（朝阳群众）的举报，发现一个没版号上线的，罚10万，没收非法所得，予以举报人500元奖励（外加锦旗）<br>
+经过以上几个粗略的步骤，广电部门收入同比增加30%，带动游戏业税收收入同比增加20%，知乎网友惊呼，政策跟上了时代的脚步，群众为广电出手整顿手游乱象，拍手叫好！<br>
+广电政策经验，整理抄送各大部局级领导，广电领导入主发盖喂，协助完成新时代改革，XX赢得国内外好评，大大称之为：能！</p>
+<p>我作为开发者，看到这条消息，深深的出了一口气。总算找到交保护费的正规渠道了，双眼已经模糊，真的觉得有希望了~<br>
+发现大家总纠结于，将来是谁的问题，我换种说法吧：中国现在是你们的，明天是儿子的，将来是孙子的，未来是x孙子的，但终究是我们的。</p>
+<p>___________________________</p>
+<p><strong>关你事：</strong>老乡们误会了，我们支持的万众创业，万众创新是特指能给我们带来税收，雇佣多些人交多点社保顺便每年让我们审核审核来点事的创业。你一个人在家里做游戏又不缴税又不送礼让我们很难办啊。连摆地摊的都比你们有规矩，不弄点规矩治你们怎么行。</p>
+<p>____________________________</p>
+<p><strong>匿名用户：</strong>中国区对全球来说要求是最高的，审核时间是最长的，受行政管制也是最多的，甚至要加上中国特色文化，例如手撕鬼子这类电影题材的精髓。</p>
+<p>而不允许纸牌屋、越狱、僵尸等违反马克思主义价值观及唯物主义等的APP出现。<br>
+对于中国发行需要有《互联网出版许可证》，这个证需要首先是公司，其次规模10人，还得有某不知道啥的部门审批通过。<br>
+然后对于每个APP的单次审核时间是20个工作日也就是1个月，然后再提交各大渠道商。</p>
+<p>为此会催生出大量的中小代理商，同时他们也会赚一部分钱，对于优质的独立开发者绝对是噩耗，口头的肉又要与人瓜分。甚至会出现能走后门加速审核，<br>
+只要花钱多就行的情况。</p>
+<p>上面注明审核要到某部门，是具体哪里呢，还有寄过去么等等？原来你在全世界审核最严的APP STORE要等一个月，也许你在这里半年都未必过，因为每次20个工作日。</p>
+<p>当然国外的APP就不用上了，等于我们与世界隔离了。</p>
+<p>现在还有一个问题是这是针对中国市场，还是针对中国开发者及中国市场？</p>
+<p>换句话说中国人能发布游戏到美国区需要广电总局审核吗？还是说仅仅针对发布到中国区而已，发布到全世界100多个国家都要经过广电总局吗？</p>
+<p>慢慢国内的水平会与国内拉开很大距离。<br>
+最怕的是没有标准的标准，如果有标准，放权给各大平台审核不就完事了吗？<br>
+这肯定又催生出各种后门<br>
+还不知道做出来找谁审核<br>
+是寄过去？<br>
+EMS？<br>
+把游戏装进手机，然后各种文档，然后弄个包裹寄过去审核?<br>
+1次20个工作日？要是我名字不合规，打回来又20个工作日？<br>
+名字等啥合规了，苹果说不合规，打回来<br>
+然后名字变了，给政府审核又不合规又打回来？<br>
+然后苹果又不同意，死循环?<br>
+他们这些政府机构做了像苹果或各大渠道那样的审核平台了吗？没有全国统一？各个省各个搞?<br>
+寄过去还是网上审核啊？<br>
+我是不是要弄个顺丰快递啊</p>
+<p>自清朝起就闭关锁国了，几百年历史了，其实想想也正常，一脉相传啊</p>
+<p>10月1号  到时中国市场瞬间100万APP不见</p>
+<p>______________________________</p>
+<p><strong>侯帅英：</strong></p>
+<div>
+<div>第一，个人开发者不要把目光聚集在国内了，特别是国内的手游市场。就算没这个审批，现在的独立游戏在国内的手机平台上要想出人头地也是非常困难的事情，行业里面几大巨头割据的形势只会越演越烈。
+<p>第二，如果做主机和PC，能上Steam就上Steam，能抱索尼和微软的大腿就尽量抱（审批的事情他们会帮忙搞定的）。</p>
+<p>第三，能走就走吧，在国外想办法呆几年，弄明白老外是怎么做游戏的，以及他们的喜好。将来把游戏卖给他们，国内玩家不用太在意，游戏做得好自有人会玩。</p>
+<p>第四，<b>电影行业的今天就是游戏行业的明天。一个文化上固步自封，企图靠审查来维持稳定的国度，不可能诞生出伟大的思想和艺术作品。</b>如果有，那也是在国外市场才有可能。好在做游戏不像拍电影，至少没人能像剥夺导演拍片权一样剥夺你做游戏的权利。</p></div>
+<div>______________________________</div>
+</div>
+<div></div>
+<div><strong>Mao Simon：</strong>不要以为不关心，不介入政治，专心孜孜耕种自己的一亩三分地就可以与世无争地过上太平日子了；事实上，政治正分分钟钟地关心着，打扰着或帮助着，每一个人的生活细节，从吃喝拉撒睡到开发游戏，直到上床做爱。所以选票才是老百姓第一真正需要。</div>
+<div></div>
+<div>_______________________________</div>
+<div></div>
+<div><strong>韩大狗：</strong>“勃列日涅夫时代的主流是保持稳定、安于现状、脱离现实、人浮于事、自安自慰、盲目乐观。官方的陈词滥调和虚伪的意识形态说教连他们自己都不再相信，但大家都沉默着。西方的现代思想、时尚文化和生活方式早已突破了国家壁垒，深入社会的每一个角落。牛仔裤、坡跟鞋、迪斯科、摇滚乐、爵士乐，年轻人成为最苦闷的一个群体。残酷的现实告诉他们，这是一个拼爹时代，官僚集团的子女拥有无可比拟的机会，而普通民众的子女却没有希望。“劳动人民”并没有“当家作主”，“人民公仆”贪污受贿腐败堕落……整个苏联社会弥漫着冷漠和绝望。从醉生梦死的权贵到寻死觅活的贫民，末日心态出现在每个人的心头——’每一个人都在等待勃列日涅夫的死去’。”</div>
+<p>______________________________</p>
+<p><strong>匿名用户：</strong>一图流</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0adaad73f2f03c094aede81f01c084c4_b.jpg?resize=500%2C2833" alt="0adaad73f2f03c094aede81f01c084c4_b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0adaad73f2f03c094aede81f01c084c4_b.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0adaad73f2f03c094aede81f01c084c4_b.jpg?resize=53%2C300 53w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%9F%A5%E4%B9%8E-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B8%B8%E6%88%8F%E9%9C%80%E8%A6%81%E5%AE%A1%E6%89%B9%E6%89%8D%E5%8F%AF%E4%B8%8A%E6%9E%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">中国市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%89%B9/?category=18271" rel="tag">审批</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%9D%83%E5%88%A9/?category=18271" rel="tag">政治权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E6%88%8F%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">游戏市场</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%EF%BD%9C%E4%B8%8A%E5%B8%82%E5%9B%BD%E4%BC%81%E5%A2%9E%E8%AE%BE%E5%85%9A%E5%BB%BA%E6%9D%A1%E6%AC%BE%EF%BC%9A%E5%85%9A%E5%A7%94%E5%B0%86%E5%8F%82%E4%B8%8E%E4%BC%81%E4%B8%9A%E9%87%8D/" target="cdt-mirror">澎湃｜上市国企增设党建条款：党委将参与企业重大问题决策</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A05.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A05.jpg?resize=400%2C533" alt="习近平像章5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章5.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章5.jpg?resize=225%2C300 225w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>2016年全国人大代表大会期间，西藏代表团现身时统一佩戴习近平像章；图片来自微信公号“<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/" target="_blank">枫行天下</a>”</span></p></div>
+<p><em>原标题：上市国企章程纷纷增设党建条款：党委将参与企业重大问题决策</em></p>
+<p>加强党建正在上市国资企业中，得到深入落实。</p>
+<p>在刚刚结束的一汽轿车（000800）和一汽夏利（000927）股东大会上，两家公司修改公司章程的议案均获得了通过。</p>
+<p>澎湃新闻记者发现，央企一汽集团下属的两家公司修改后的公司章程中，<strong>均增加了加强党建的相关条款，并新增了党建工作一章，内含三小节：党组织机构设置、公司党委职权和公司纪委职权。<br></strong></p>
+<p>其中，党组织机构设置提及，要设立公司党委和公司纪委，同时设立工会、团委等群众性组织，<strong>党组织机构设置及其人员编制纳入公司管理机构和编制，党组织工作经费纳入公司预算，从公司管理费中列支。</strong></p>
+<p>公司党委职权则包括：<strong>保证监督党和国家的方针、政策在本企业的贯彻执行；参与企业重大问题的决策，研究决定公司重大人事任免等。</strong></p>
+<p>一汽轿车在公告中称，此举是根据中共中央《关于在深化国有企业改革中坚持党的领导加强党的建设的若干意见》、《公司法》和中国证监会《上市公司章程指引》的要求，结合公司的实际情况，对《公司章程》进行的修订。</p>
+<p>去年9月，中共中央办公厅印发《关于在深化国有企业改革中坚持党的领导加强党的建设的若干意见》，该文件要求国有企业加强党的领导、加强党建工作。</p>
+<p>央企自然要走到前列。</p>
+<p>今 年的3月3日，国务院国资委党委召开中央企业党建工作调研座谈会。国资委党委书记张毅强调，习近平总书记关于国有企业党的建设的重要思想，是抓好中央企业 党建工作的重要遵循，中央企业要认真学习领会，坚决贯彻落实。张毅强调，要认真研究解决中央企业党建工作弱化淡化虚化、党组织地位作用边缘化等突出问题， 探索从源头解决问题的办法，<strong>真正使中央企业党的建设严起来、实起来、强起来。</strong></p>
+<p>张毅当时即已指出，必<strong>须建立完善制度，确保党建工作总体要求纳入企业章程，坚持和完善“双向进入、交叉任职”的领导体制，坚守党组织在企业治理结构中的法定地位。</strong></p>
+<p>当天，有30家央企的党组（党委）书记和分管党建的班子成员，出席了当天的会议。</p>
+<p>如何将党建工作要求纳入企业章程呢？</p>
+<p>一汽轿车和一汽夏利的例子是，在总则第一条部分增加了“充分发挥党委的政治核心作用”。</p>
+<p>此外，在上述两家公司的新章程中，还专门新增了党建工作一章，其中包含三小节：党组织机构设置、公司党委职权和公司纪委职权。</p>
+<p>其中，党组织机构设置包含四个小点，1.根据《党章》规定，<strong>设立公司党委和公司纪委；2.公司党委和公司纪委的书记、副书记、委员的职数按上级党组织批复设置</strong>，并按照《党章》等有关规定选举或任命产生；3.公司党委设党委工作部作为工作部门，同时设立工会、团委等群众性组织；公司纪委设纪检监察室作为工作部门；4. 党组织机构设置及其人员编制纳入公司管理机构和编制，<strong>党组织工作经费纳入公司预算，从公司管理费中列支</strong>。</p>
+<p><strong>公司党委职权包括：</strong>发挥政治核心作用，围绕企业生产经营开展工作；保证监督党和国家的方针、政策在本企业的贯彻执行；支持股东大会、董事会、监事会、总经理依法行使职权；研究布置公司党群工作，加强党组织的自身建设，领导思想政治工作、精神文明建设和工会、共青团等群众组织；<strong>参与企业重大问题的决策，研究决定公司重大人事任免，讨论审议其它“三重一大”事项</strong>；全心全意依靠职工群众，支持职工代表大会开展工作；研究其它应由公司党委决定的事项。</p>
+<p>此外，公司章程还规定，<strong>公司党委对董事会、经管会拟决策的重大问题进行讨论研究，提出意见和建议。</strong></p>
+<p>一汽轿车和一汽夏利控股股东均是中国第一汽车股份有限公司，而中国第一汽车股份有限公司是国务院国资委全资子公司。</p>
+<p>目前，除这两家公司之外，一汽富维（600742）、宁夏建材（600449）的公司章程也做了类似修订。</p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/xionglibin" target="_blank">@熊礼彬</a>：建议把《公司法》也修改了吧，把公司的最高权利机构是股东大会改成党委会<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2498446527" target="_blank">@席琳殿下的猫君大人</a>：就这样你还想让别人承认你国市场经济地位？<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2638713651" target="_blank">@菜菜先生os</a>：加速倒车！吃枣药丸！<img title="[闭嘴]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif" alt="[闭嘴]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/1840857834" target="_blank">@Alex愛米蘭</a>：哈哈哈哈哈，我就不信党能控制市场規律<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p>@望岳翁：同时也要进行正名，“国资委”改名“党资委”，“国企”改叫“党企”</p>
+<p>@科怀恩：一面高喊政企分开，一面加强党委领导！这他妈都是一群猪啊！</p>
+<p>@凌凌漆1990：国企 央企变成党企 只是比以前的做法更赤裸裸了 哈哈哈 党国 党卫军 党企 党产 党警 ……</p>
+<p>@欧玛艾糕德：历史的车轮滚滚向前，车头却是反方向。</p>
+<p>@邓天亮：“党组织工作经费纳入公司预算，从公司管理费中列支”，那党员交的党费呢？不够用？</p>
+<p>@蒋梦君啊啊：某大型央企下属企业，董事长有次谈话说过党管一切，党大一切，国企央企是我党执政基础，不能动摇。</p>
+<p>@小号金水：是否彻底离开股市？操他妈的常年给他送钱，他还大尾巴狼的整天教育中小投资者。</p>
+<p>@博M寒：党只会整人和治人，哪会搞经营！</p>
+<p>@月小沙：证监会搞经济的都能搞出第一天实行熔断就断两次，国企这帮党员大爷们懂经济吗，就这还说人家不承认你完全市场经济地位，当别人眼瞎啊？！</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%EF%BD%9C%E4%B8%8A%E5%B8%82%E5%9B%BD%E4%BC%81%E5%A2%9E%E8%AE%BE%E5%85%9A%E5%BB%BA%E6%9D%A1%E6%AC%BE%EF%BC%9A%E5%85%9A%E5%A7%94%E5%B0%86%E5%8F%82%E4%B8%8E%E4%BC%81%E4%B8%9A%E9%87%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD/?category=18271" rel="tag">党国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%BB%BA/?category=18271" rel="tag">党建</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">国企改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E8%B5%84%E5%A7%94/?category=18271" rel="tag">国资委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%80%92%E8%BD%A6/?category=18271" rel="tag">开倒车</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%82%A2%E5%89%AF%E6%89%80%E9%95%BF%E6%94%BF%E6%B3%95%E6%AF%95%E4%B8%9A%EF%BC%8C%E9%82%A3%E5%A4%A7%E9%B8%AD%E6%A2%A8%E5%91%A2/" target="cdt-mirror">仕图｜邢副所长政法毕业，那大鸭梨呢？</a>
 </h2>
 <p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B0%B4%E6%AF%8D%E4%BE%A6%E6%8E%A2%E7%A4%BE.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B0%B4%E6%AF%8D%E4%BE%A6%E6%8E%A2%E7%A4%BE.jpg?resize=550%2C333" alt="水母侦探社" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?w=2004 2004w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=300%2C182 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=768%2C465 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=1024%2C620 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=80%2C48 80w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>水母侦探社 天涯资料页面截图；该账号为雷洋事件发生后注册，所有发表内容均与该案有关。</span></p></div>
@@ -672,116 +938,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82%E4%B8%8D%E4%BB%85%E4%B8%8D%E7%8E%AF%E4%BF%9D-%E6%9B%B4%E6%98%AF%E6%B1%A1%E6%9F%93/" target="cdt-mirror">网易回声 | 中国的垃圾焚烧厂不仅不环保 更是污染集中地</a>
-</h2>
-<p><p><strong>垃圾焚烧本身是一个相对环保的垃圾处理方式，但前提需要垃圾分类。中国焚烧厂不仅在焚烧垃圾前没有垃圾分类，对于焚烧后残余物的处置也为所欲为，最终不仅伤害了环境和民众健康，也让垃圾焚烧产业背了黑锅。</strong></p>
-<p>作者：吴静宜</p>
-<p>这几天，湖北仙桃市的垃圾焚烧厂事件闹得沸沸扬扬。已经开工建设两年的垃圾焚烧发电项目，在即将试运行前遭到了市民的大规模抵制运动，短短几天内时间，仙桃市政府的态度也发生巨大转变，从教育民众到最终软化下来。6月26日上午，仙桃市人民政府官网连发两条消息，将垃圾焚烧发电项目先是“暂缓建设”，最后直接“决定停止该项目”。</p>
-<p>中国在近十年间，开始四处建造垃圾焚烧厂，而项目所到之处也尽皆受到当地民众的强烈抵制。垃圾焚烧厂成了一个十恶不赦的存在，到哪都惹人嫌。所有人都在担心，建在家门口的垃圾焚烧厂会把自己家也变成垃圾场，或者火葬场。</p>
-<blockquote><p>垃圾焚烧在欧洲很受欢迎，但前提是垃圾分类，在中国，焚烧未经分类的垃圾，会导致有毒气体二噁英的释放。</p></blockquote>
-<p>垃圾焚烧是把固体垃圾通过高温加热转化成灰烬、烟尘和热量。通过焚烧，原来的固体垃圾可以减少 80%－85% 的质量，减小 95%－96% 的体积，极大地节省了填埋空间。这种垃圾处理方式在土地面积小的国家很受欢迎，所以日本和北欧的垃圾焚烧技术一直走在全球前列。一个世纪以前，丹麦和瑞典就已经建造了垃圾焚烧厂，并用焚烧出来的热量给城市供暖。2005 年，垃圾焚烧为丹麦节省了 4.8% 的电能消耗和 13.7% 的国内热能消耗。瑞典每年还要从国外进口70 万顿的垃圾专门用来焚烧发热发电。</p>
-<p>但是垃圾分类是垃圾焚烧的第一步，如果没有在焚烧前进行垃圾分类，以去除有害的、体积庞大的或可再生的原料；焚化炉会由于没有足够的尾气净化和有效的焚烧流程控制，导致有毒气体二噁英的释放。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/201606281643084d028.jpg?resize=600%2C375" alt="日本的食物垃圾分类工厂，在这里残渣会被回收制作成家畜饲料。/Reuters" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/201606281643084d028.jpg?w=1920 1920w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/201606281643084d028.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/201606281643084d028.jpg?resize=768%2C480 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/201606281643084d028.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>日本的食物垃圾分类工厂，在这里残渣会被回收制作成家畜饲料。/Reuters</p></div>
-<p>瑞典乌普萨拉大学（Uppsala University）的学生索非亚（Sofia Ekstrand）和（Annicka Wänn）就武汉的垃圾焚烧厂写了一篇硕士论文，其中提到：每天武汉都会产出大约 6000 吨的固体垃圾，由于这些垃圾中很大一部分是厨余垃圾，导致垃圾整体含水量高，热值只有6600 kJ/kg，虽然勉强达到焚烧炉燃料低位热值，但远远低于瑞典水准的每千克 10100 kJ/kg。</p>
-<p>中国大部分焚烧厂甚至连焚烧炉低位热值的水平都达不到，根本无法实现自行燃烧，必须添加高热值的煤炭等辅助燃料。这些含水量高、热值低的生活垃圾中含大量的氯化钠（NaCl）、氯化钾（KCl）等化学物质，而当这些垃圾中的有机物质在含有氯的环境下燃烧后，会产生致癌气体二噁英。二噁英是一种无色无味的有毒物质，它很难被监测，也很难被分离出来，但却是世界一级致癌物。世界卫生组织将其列为“ 12 大危害物” 的其中之一，它会导致生殖和发育问题、损害免疫系统、干扰激素、诱发癌症。</p>
-<blockquote><p>宣称引进外国技术的中国垃圾焚烧厂不仅无法达到设计运行标准，甚至连降低了要求的中国标准都达不到。</p></blockquote>
-<p>在欧洲，一个合格的大型垃圾焚烧厂的建造成本大概在 1 亿 5000 万到 2 亿 3000 万美元之间（ 9 – 14 亿人民币）。然而中国的垃圾焚烧厂虽然声称使用了“欧洲标准”，引进了“和国外相同的技术和设备”，但哪怕是官方公布的建造成本也不到标准所需的一半。</p>
-<p>中国的垃圾焚烧发电项目也更加青睐低价竞标，2015年10月14日，天津泰达环保有限公司（下简称天津泰达）以26.5元/吨的垃圾处理服务费中标江苏高邮生活垃圾焚烧发电项目。而在此前的2015年8月，已有绿色动力环保集团股份有限公司（下简称绿色动力）低价中标安徽蚌埠垃圾焚烧发电项目，价格是26.8元/吨，远低于业内公认比较合理的垃圾处理服务费报价。如果仅考虑烟气净化、灰飞处理、渗滤液处理三项环保成本，就早已超出26.5元/吨的垃圾处理服务费。</p>
-<p>通常要避免二噁英的产生，就要把焚烧炉的焚烧温度控制在 850℃ 以上。因为二噁英的产生温度在 360℃-820℃ 之间，因此只要保持焚烧炉内温度大于 850℃ 并控制烟气在炉内停留 2 秒以上，就可以使二噁英得到完全的分解。因此 850℃ 也是垃圾焚烧厂的一个温度控制底线，能守住这一条标准的垃圾焚烧厂才是合格的，才能基本保证不对周边环境造成污染。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160628164308a0898.jpg?resize=600%2C375" alt="越南的一个儿童康复中心，这里的孩子都有先天的生理、心理缺陷，他们的父母都曾暴露在越南战争中美军喷洒的橙剂里，吸收了大量二噁英。/AP" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160628164308a0898.jpg?w=1920 1920w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160628164308a0898.jpg?resize=300%2C188 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160628164308a0898.jpg?resize=768%2C480 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/20160628164308a0898.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>越南的一个儿童康复中心，这里的孩子都有先天的生理、心理缺陷，他们的父母都曾暴露在越南战争中美军喷洒的橙剂里，吸收了大量二噁英。/AP</p></div>
-<p>但中国的垃圾焚烧厂基本上都将这一规则视若无物，不仅无法达到设计运行标准，甚至连降低了要求的中国标准都达不到。例如，广州李坑垃圾焚烧发电厂声称它们的锅炉温度高达 979℃，能将二噁英完全消除。但《中国新闻周刊》的调查记者在这个焚烧厂的炉渣里看到了“残留的绳子、布条、红色塑料袋，甚至还有没烧尽的球鞋”，证明锅炉温度连行业标准的 850℃ 都没有达到，更别谈他们自吹自擂的高温了。对此，广州市城管委副主任张建国的反应是：“ 979 度的高温怎么会烧不掉这些东西呢，你一定是看错了！”</p>
-<p>而在2007 年，也就是李坑垃圾焚烧厂正式运营的第二年，焚烧厂所在的永兴村村民范振标开始经常气喘、咳嗽，在广州一五七医院的检查后发现，他已经是肺癌晚期。同年底，范振标去世，时年 48 岁。两年后，范振标 46 岁的妻子黄玉甜在南方医院也检查出了乳腺癌。永兴村在垃圾焚烧厂建成的前 12 年间，村中未曾出现过一例呼吸道癌症；但在 2006 年焚烧厂正式开始运营之后的 3 年里，出现了 13 例癌症病人，其中 12 例都是呼吸道癌症。</p>
-<blockquote><p>垃圾焚烧后完全未经处理过的灰烬直接卖给砖厂，做成毒砖。</p></blockquote>
-<p>灰烬包括垃圾燃烧殆尽后剩余的底灰（bottom ash）与飞灰（fly ash），每 100 吨垃圾会产生 20 吨的底灰和 3 吨的飞灰。灰烬本身也是有毒物质，在《国家危险废物名录》中，“编号HW18”指焚烧处置残渣，灰烬位于其中第一项。它除了含有二噁英，还有其它许多重金属和有毒物质，会对环境和周边居民造成极大的伤害。</p>
-<p>根据《生活垃圾填埋污染控制标准》，除了少部分符合二噁英和重金属含量标准的灰烬，大部分都需要进入危险废物填埋场，或者有灰烬处理资质的废物处理公司。但中国的许多垃圾焚烧厂为了节省成本，往往把灰烬随意处置。有些把它们和炉渣混合，倒入普通的生活垃圾填埋场，导致灰烬渗漏污染土壤和水源；有些把完全未经处理过的灰烬直接卖给建材公司，让它们做成砖块等建筑材料。</p>
-<p>在生产和运输过程中， 很多企业也没有将这些灰烬按照国家规定进行固化和稳定化处理，导致它们以烟尘的形态飘散在空中，对周边环境和居民造成了难以估计的损失。2013 年，央视经济半小时报道了武汉锅顶山垃圾焚烧厂。记者绕焚烧厂周边步行了一个多小时，在不同方向都能闻到刺鼻气温，一圈下来，身上和相机都落满灰尘，嗓子不适并伴有轻微头痛。当地居民为了防止异味和粉尘，安装了双层玻璃、双层窗帘，用塑料膜封和玻璃胶封死窗户，却依然在凌晨被刺鼻气味呛醒。仅 2013 年一年，距离锅顶山垃圾焚烧厂最近的芳草苑小区里就有 8 位居民因患肺癌、肝癌、淋巴癌等相继去世；两年内该小区中共有 25 人患上癌症。</p>
-<blockquote><p>在中国，没有成熟且完善的渗滤液处理技术，一半垃圾场在弃置前不做任何处理。</p></blockquote>
-<p>渗滤液是垃圾中渗透出来的液体，它在垃圾的整个焚烧过程中都在不断产生，并继续存在于焚烧结束后的残留物中。垃圾在焚烧以前一般会先堆上 3－7 天，这时候垃圾在垃圾坑中发酵，沥出水分来提高垃圾燃烧的热值， 20%－30% 重量的垃圾会转化成渗滤液。渗滤液在许多不同性质的垃圾中流动、融合，带有极大的毒性，除了各种有机物，还有氨、重金属，并且成分还会随着时间、温度不断变化。垃圾产生的刺鼻气味大部分也是从这里来的。</p>
-<p>如今在中国，尚且没有成熟且完善的渗滤液处理技术，垃圾焚烧厂大多采用“预处理+生化处理+膜深度处理”的组合拳。预处理主要是通过栅栏和混凝剂来去除渗滤液中的大型固体残渣和大分子悬浮颗粒，之后再通过厌氧反应和耗氧微生物对水中的有机物进行分解和降解，最后在沉淀后把较为清澈的上层液体排入当地的污水处理厂。然而由于垃圾焚烧厂的渗滤液污染程度比较高，处理起来需要不少的资金投入，许多焚烧厂既不预先处理渗滤液，也不将其输送至污水处理厂，而是直接排出到附近的自然水域中，或者挖个大坑等渗滤液自己稀释到土壤里。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2016062816430810680.jpg?resize=600%2C375" alt="一个中国人正在北京的某条运河上清理河面垃圾。/AP" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2016062816430810680.jpg?w=1920 1920w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2016062816430810680.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2016062816430810680.jpg?resize=768%2C480 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/2016062816430810680.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>一个中国人正在北京的某条运河上清理河面垃圾。/AP</p></div>
-<p>根据 Xu WL 等人的研究，中国垃圾场有 47% 的渗滤液在弃置前未加任何处置，10% 的渗滤液会被排入市政污水系统；在掩埋渗滤液时，20% 的情况下会采用生物化学方法防止污染，3% 使用塑料薄膜隔离，另外 20% 使用“其他方式”。</p>
-<p>这些做法都会严重污染土壤、地表水和地下水，直接影响到每个人的饮水饮食安全。在广州的李坑垃圾焚烧厂，外墙处有一个污水直排渠道，那里恶臭难挡，水是乳白色，管口已经附上了一层厚厚的水泥般的垢。这些废水流入附近的农田，并接着流入下游的上千亩菜地。</p>
-<p>而直到现在，官方并没有规定垃圾焚烧厂的渗滤液处理统一标准，不同的焚烧厂根据自己的情况遵循不同的规定。萧山生活垃圾焚烧厂遵循的是《城市污水再生利用 工业用水水质》标准，镇江垃圾焚烧场按照《污水综合排放标准》的三级标准，太仓协鑫垃圾焚烧发电厂则根据《生活垃圾填埋场污染控制标准》来处理，这导致它们三者之间的渗滤液处理成本差距巨大，少则每吨 8.72 元，多则每吨 32.42 元，落差接近 4 倍。</p>
-<p>相对于传统的垃圾掩埋手段，垃圾焚烧厂本身是一个环保的措施，既可以 节约土地资源，也能对污染物进行焚烧处理。但中国的垃圾焚烧厂却因为企业的为所欲为，和官方的放任自流，变成了一个人人喊打的污染制造机。</p>
-<p><strong>参考资料</strong></p>
-<p>1.Yanwei Li(2015). Government responses to environmental conflicts in urban China: the case of the Panyu waste incineration power plant in Guangzhou. Journal of Cleaner Production.</p>
-<p>2.Zhe Fu(2015). MSW oxy-enriched incineration technology applied in China: Combustion temperature, flue gas loss and economic considerations. Waste Management.</p>
-<p>3.Zhao Xin-gang(2016).Technology,cost,aperformanceofwaste-to-energyincineration industry inChina. RenewableandSustainableEnergyReviews.</p>
-<p>4.Yong Ren(2016). Use incentive approach to promote BAT/BEP for centralized incineration facilities of medical waste in China. ScienceDirect.</p>
-<p>5.Jizhi Zhou(2016). Mercury in municipal solids waste incineration (MSWI) fly ash in China: Chemical speciation and risk assessment. Fuel.</p>
-<p>6.Ziyang Lou(2015).Environmental impacts of a large-scale incinerator with 2 mixed MSW of high water content from a LCA perspective. ScienceDirect.</p>
-<p>7.Elizabeth Balkan(2012). The dirty truth about China’s incinerators. The Guardian.</p>
-<p>8.nate seltenrich (2013). Incineration Versus Recycling: In Europe, A Debate Over Trash.Yale.</p>
-<p>9.Akiko Yamamoto(2015). Japan Stanches Stench of Mass Trash Incinerators. The Washington Post.</p>
-<p>10.The Economist(2015).Keep the fires burning. The Economist.</p>
-<p>11.浦燕新(2015).垃圾焚烧发电厂渗滤液处理工艺现状浅析. 山东化工.</p>
-<p>12.吴世杰(2016). 城市生活垃圾焚烧底灰渗滤液的特性. 环境工程学报.</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82%E4%B8%8D%E4%BB%85%E4%B8%8D%E7%8E%AF%E4%BF%9D-%E6%9B%B4%E6%98%AF%E6%B1%A1%E6%9F%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E5%A4%84%E7%90%86/?category=18271" rel="tag">垃圾处理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7/?category=18271" rel="tag">垃圾焚烧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82/?category=18271" rel="tag">垃圾焚烧厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%A1%E6%B0%B4%E5%A4%84%E7%90%86/?category=18271" rel="tag">污水处理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%8C%E7%97%87/?category=18271" rel="tag">癌症</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B9%96%E5%8C%97%E6%BD%9C%E6%B1%9F%E7%88%86%E5%8F%8D%E6%B1%A1%E6%9F%93%E5%A4%A7%E6%B8%B8%E8%A1%8C-%E6%95%B0%E4%B8%87%E5%B8%82%E6%B0%91%E8%A6%81%E6%B1%82/" target="cdt-mirror">自由亚洲｜湖北潜江爆反污染大游行 数万市民要求停建农药厂</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec483673-5004-4d23-9cbb-da1cdcb526ba.jpeg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec483673-5004-4d23-9cbb-da1cdcb526ba.jpeg?resize=585%2C329" alt="继湖北省仙桃市全城爆发大规模反垃圾焚烧发电厂游行后，6月27日，湖北省的潜江市也爆发了大规模反污染游行，数万市民涌上街头，要求停建污染巨大的奥古斯特农药厂。（Public Domain）" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec483673-5004-4d23-9cbb-da1cdcb526ba.jpeg?w=622 622w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec483673-5004-4d23-9cbb-da1cdcb526ba.jpeg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>继湖北省仙桃市全城爆发大规模反垃圾焚烧发电厂游行后，6月27日，湖北省的潜江市也爆发了大规模反污染游行，数万市民涌上街头，要求停建污染巨大的奥古斯特农药厂。（Public Domain）</span></p></div>
-<p>继湖北仙桃日前爆发反对垃圾焚烧发电厂的全城游行后，6月27日，湖北省潜江市也发生大规模反污染示威。数万民众当天涌上街头，要求停建污染巨大的奥古斯特农药厂。</p>
-<p>湖北省连续多日爆发抗议环境污染的大游行。继仙桃市10万人走上街头，迫使当局承诺停建垃圾焚烧场后，潜江市同样爆发大规模反污染游行，数万市民涌上街头要求停建农药厂。</p>
-<p>据市民上传到网络的消息指，6月27日 当天下大雨，早上已经有市民围堵了潜江市政府，要求停建污染巨大的奥古斯特农药厂。当时潜江市委书记等人上午还出面讲了二分钟的话，表示只要搞好防污、治 污，该项目坚决不停建。稍晚大雨过后，潜江市各个街道和路口的市民开始打着标语、高喊口号向潜江市政府进发，沿路大批市民加入，人数达数万人，最终队伍到 达潜江市政府。上午11点左右，市政府一位罗姓副市长出面宣布奥古斯特项目停建，同时潜江市政府新闻办公室的一份宣布停建该项目的红头文件开始在市民中散发。</p>
-<p>当时在现场的潜江维权人士伍立娟告诉自由亚洲电台：“抗议游行的有几万人，各个要道口，从潜江市各个主要的干道集中在潜江的东北仓储中南饭店那个地方，然后就到市政府门口。市 委副书记、市长黄健雄出来讲了几分钟的话，让大家推举代表进去谈，也没有代表。今天维权的路上的人说，今天各个派出所都把有些组织者和网上发帖的人的稳控 在家里了。大雨下的太大，人们都没有出门，九点雨小了陆陆续续都集中到几万人，集中在市政府门口，都涌入到了市政府大院里面，把整个大院都占满了，打了几 十条横幅，都说还我潜江绿色家园，保卫潜江子孙后代等横幅。”</p>
-<p>记者就此致电市政府，但对方在得知记者身份后拒绝接受采访。</p>
-<p>记者又致电宣传部门，但对方以不接受电话采访为由，要求记者致电公安局。而公安局的一名接线人员则表示：“我们没有听到任何事情，我也不能代表政府说什么，我们也没有收到任何关于这方面的问题。”</p>
-<p>据了解，目前当局派驻警力24小时在政府外巡逻，防止市民再次聚集抗议。</p>
-<p>伍立娟还表示，有前一天在仙桃市抗议的的市民特意赶到潜江市声援：</p>
-<p>“仙桃市是建垃圾焚烧厂，离市区只有5 公里，比较近。仙桃尤其是昨天和前天，有十几万人组织在市政府游行。仙桃市政府的周书记出来讲了话，他讲完话叫大家理性的维权和游行，不能闹事，马上发新闻公布会公布方案，。他说完话之后站在他身边的警察，他就挥舞着说，可以动手了。别人在网路上发出来信息和截图都显示他叫别人打人。今天有仙桃维权的跑到我们潜江这边来，在现场也跟我们说，昨天差点把人打死，连七八岁的小孩都不放过，都是因武警的铁棒子打，打得血肉模糊的，今天潜江还没发生冲突。”</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%B9%96%E5%8C%97%E6%BD%9C%E6%B1%9F%E7%88%86%E5%8F%8D%E6%B1%A1%E6%9F%93%E5%A4%A7%E6%B8%B8%E8%A1%8C-%E6%95%B0%E4%B8%87%E5%B8%82%E6%B0%91%E8%A6%81%E6%B1%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7/?category=18271" rel="tag">垃圾焚烧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">环境污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BC%9A%E8%87%AA%E7%94%B1/?category=18271" rel="tag">集会自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%EF%BD%9C%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E4%B8%8E%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%85%B1%E5%90%8C%E8%AE%B0%E5%BF%86/" target="cdt-mirror">BBC ｜“狼牙山五壮士”与“中华民族共同记忆”</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351_.jpg?resize=320%2C180" alt="160628133637_langyashan_624x351_" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351_.jpg?w=320 320w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351_.jpg?resize=300%2C169 300w" sizes="(max-width: 320px) 100vw, 320px" data-recalc-dims="1"></p>
-<p>中共建政后，五壮士的事迹被编入国家义务教育教科书，成为小学语文课教材。1958年拍摄的电影《狼牙山五壮士》更让“五壮士”成为家喻户晓的人物。</p>
-<p>北京法院对“狼牙山五壮士”名誉侵权诉讼的宣判结果，可以说不出观察人士的预料。</p>
-<p>北京法院要求质疑“狼牙山五壮士”故事真实性的历史学者洪振快向“五壮士”的后人“赔礼道歉”。</p>
-<p>法院的判决说，对“狼牙山五壮士”历史真实的质疑，不但“伤害了原告的个人感情”，而且“伤害了社会公众的民族和历史情感，同时也损害了社会公共利益。”</p>
-<p>据此，法院一审判决洪振快“立即停止侵害”，并“在媒体上刊登公告”，向“五壮士”之中两人的儿子，原告葛长生和宋福保道歉并“消除影响”。</p>
-<p>“狼牙山五壮士”</p>
-<p>“狼牙山五壮士”，中共的官方版本可以简要概括为：在抗日战争时期，在河北省保定市易县狼牙山战斗中抗击日军的八路军5位英雄，在子弹打光后，用石块还击，最后宁死不屈，毁掉枪支后纵身跳下数十丈深的悬崖。马宝玉、胡德林、胡福才壮烈殉国；葛振林、宋学义被山腰的树枝挂住，幸免于难。</p>
-<p>中共建政后，五壮士的事迹被编入国家义务教育教科书，成为小学语文课教材。1958年拍摄的电影《狼牙山五壮士》更让“五壮士”成为家喻户晓的人物。五壮士被拔高到“当代中华民族抗击外敌入侵的民族英雄”的高度。</p>
-<p>“名誉侵权”的被告洪振快是《炎黄春秋》杂志前执行主编。他公开质疑“狼牙山五壮士”故事的许多历史细节。例如认为当时的情形并非如官方宣传的那样，是八路军与日军主动接战，而是退路被日军切断后，慌不择路，退至绝地。关于“跳崖”的描述，洪振快也认为，其中幸存的两人是“溜”、“滚”、“窜”，而不是主动跳崖。</p>
-<p>对“五壮士”故事的历史真实性的质疑也曾不断有人提出。比如，早在1994年7月，《长江日报》刊登了一篇文章，提出当时六班不是五个人，而是六个人，还有一位副班长，投敌被杀。1995年8月，《羊城晚报》上的一篇文章称，五壮士跳崖是“三跳二溜”，马宝玉等三人跳崖牺牲，葛振林、宋学义是“顺着崖壁溜了下去”。</p>
-<p>“名誉侵权”与“共同记忆”</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351__nocredit.jpg?resize=549%2C309" alt="160628133637_langyashan_624x351__nocredit" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351__nocredit.jpg?w=624 624w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160628133637_langyashan_624x351__nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>这是“狼牙山五壮士”幸存者葛振林（右）和宋学义（左），如今他俩都已逝世。新华社发</p>
-<p>值得注意的是，北京法院的判决并没有聚焦在洪振快的质疑是否有理有据，而是强调“‘狼牙山五壮士’及其精神，已经获得全民族的广泛认同，是中华民族共同记忆的一部分，是中华民族精神的内核之一，也是社会主义核心价值观的重要内容”。</p>
-<p>“狼牙山五壮士”是中共宣示自身抗日功绩的一面旗帜。在去年9月的“世界反法西斯战争胜利70周年”北京阅兵仪式中，“狼牙山五壮士”所属的今日部队的方队作为10个阅兵方队中的第一个方队出现，足见其地位。</p>
-<p>根据国民政府公布的材料，抗战期间国民政府的军队伤亡约323万人，其中阵亡近133万人。中共称，它在抗战期间领导的军队伤亡45万人，其中阵亡16万人。按照这两个数字比较，中共领导的军队伤亡不到国民政府军队的七分之一。</p>
-<p>然而，国民政府军队在正面战场上的8年抗战和英雄故事，在今日中国大陆的历史教科书中和电影电视剧里有多少体现？中共建政近70载的今天，生活在中国大陆的人对8年抗战的历史，除了中共官方的版本，人们还能读到什么？“中华民族的共同记忆”是如何形成的？</p>
-<p>“狼牙山五壮士”是中共宣示自身抗日功绩的一面旗帜。在去年9月的“世界反法西斯战争胜利70周年”北京阅兵仪式中，“狼牙山五壮士”所属的今日部队的方队作为10个阅兵方队中的第一个方队出现，足见其地位。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150903071933_cn_beijing_military_parade_sept03_honour_guards_640x360_afp_nocredit.jpg?resize=551%2C310" alt="150903071933_cn_beijing_military_parade_sept03_honour_guards_640x360_afp_nocredit" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150903071933_cn_beijing_military_parade_sept03_honour_guards_640x360_afp_nocredit.jpg?w=624 624w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/150903071933_cn_beijing_military_parade_sept03_honour_guards_640x360_afp_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p>话语权</p>
-<p>最近十几年，随着社交媒体的发展，在言论相对自由的互联网上，中国大陆的老百姓对中共历史上塑造的英雄形象，包括黄继光、邱少云、“狼牙山五壮士”等，都曾提出质疑。这种质疑，既反映了老百姓了解历史真相的愿望，从更深层面，也反映了民意对中共宣传的不信任。</p>
-<p>北京法院的主审法官在宣判后接受官方新华社专访时的一段话，反映了当局对这桩“侵权”案背后的担忧：</p>
-<p>“需要指出的是，近年来质疑甚至抹黑英雄的言论甚嚣尘上，并通过网络得以广泛传播，影响不断扩大。这其中不乏有些人打着言论自由、学术自由的幌子，利用历史渐行渐远，利用历史资料之间记载的细节差别，片面强调所谓的人性和本能，进而歪曲、否定革命先烈的英雄事迹。”</p>
-<p>“狼牙山五壮士名誉侵权”诉讼，说到底，是中共英雄的历史真相谁说了算？</p>
-<p>诉讼案的宣判，作出了回答。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 围观就是力量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/bbc-%EF%BD%9C%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB%E4%B8%8E%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%85%B1%E5%90%8C%E8%AE%B0%E5%BF%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB/?category=18271" rel="tag">狼牙山五壮士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%B1%E5%B0%91%E4%BA%91/?category=18271" rel="tag">邱少云</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%84%E7%BB%A7%E5%85%89/?category=18271" rel="tag">黄继光</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -793,7 +949,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%BC%E7%89%99
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -803,5 +959,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%BC%E7%89%99
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

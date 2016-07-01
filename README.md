@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,57 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BC%BA%E5%88%B6%E4%B8%BA%E5%85%9A%E5%BA%86%E7%94%9F/" target="cdt-mirror">【立此存照】强制为党庆生</a>
+</h2>
+<p><p>中共成立95周年纪念日期间，除了有关部门对微博评论严格控制外，部分党员似乎还有为组织“造势”的任务：</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E7%99%BE%E5%B2%81%E7%94%9F%E6%97%A5-copy.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E7%99%BE%E5%B2%81%E7%94%9F%E6%97%A5-copy.jpg?resize=500%2C939" alt="百岁生日 copy" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/百岁生日-copy.jpg?w=602 602w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/百岁生日-copy.jpg?resize=160%2C300 160w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/百岁生日-copy.jpg?resize=545%2C1024 545w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p>这是组织强制的，这是不得不看的，得留证据的</p></blockquote>
+<p>谷歌“<strong>组织收看庆祝中国共产党成立95周年大会实况直播的通知</strong>”搜索结果如下：</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%BB%84%E7%BB%87%E6%94%B6%E7%9C%8B%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B95%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E5%AE%9E%E5%86%B5%E7%9B%B4%E6%92%AD.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%BB%84%E7%BB%87%E6%94%B6%E7%9C%8B%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B95%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E5%AE%9E%E5%86%B5%E7%9B%B4%E6%92%AD.png?resize=500%2C1262" alt="组织收看庆祝中国共产党成立95周年大会实况直播" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/组织收看庆祝中国共产党成立95周年大会实况直播.png?w=976 976w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/组织收看庆祝中国共产党成立95周年大会实况直播.png?resize=119%2C300 119w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/组织收看庆祝中国共产党成立95周年大会实况直播.png?resize=768%2C1939 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/组织收看庆祝中国共产党成立95周年大会实况直播.png?resize=406%2C1024 406w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>谷歌搜索结果截图</span></p></div>
+<p><strong>另：</strong><a href="http://weibo.com/2803301701/DCGOOhfdq" target="_blank">@人民日报</a> 官方微博帐号七一前发布了庆祝中共建党95周年纪念日的微博。<strong>然而在经过严格筛选，只留下14条微博评论的情况下，获赞最多的内容竟然是“能评论吗？”，第二是“哦”：</strong></p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%BE%AE%E5%8D%9A.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%BE%AE%E5%8D%9A.png?resize=500%2C1081" alt="人民日报微博" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/人民日报微博.png?w=602 602w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/人民日报微博.png?resize=139%2C300 139w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/人民日报微博.png?resize=473%2C1024 473w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>不经审查的评论内容可想而知。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BC%BA%E5%88%B6%E4%B8%BA%E5%85%9A%E5%BA%86%E7%94%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87%E9%83%A8/?category=18271" rel="tag">组织部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%81%B6%E5%90%8D%E4%B9%9F%E6%98%AF%E5%87%BA%E5%90%8D/" target="cdt-mirror">【立此存照】恶名也是出名 这就是中国</a>
+</h2>
+<p><p>中国“爱国”饶舌团体天府事变近日发布一首英语饶舌歌曲“这就是中国”，共青团中央的青微工作室和四月传媒为其制作 MV。该歌曲在国外似乎并未获得正面反响，目前对其进行报道的《时代》、BBC、《卫报》均将该团体视为中共喉舌。</p>
+<p>天府事变在微博对自己上了“西方主流媒体”这件事表现得很自豪：</p>
+<blockquote><p><a href="http://weibo.com/2597279243/DCG3nxZ3G" target="_blank">@天府事变</a>：美国时代周刊和BBC都已相继发布对天府事变和歌曲”This Is China”的报道。这一次我们让全世界都听到了中国年轻人发出的声音：我们热爱祖国、爱好和平交流；我们历史悠久、善于反思进步；我们高速发展、引领新的时代；我们绝不懦弱、拒绝肆意抹黑！这才是中国！</p></blockquote>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%A9%E5%BA%9C%E4%BA%8B%E5%8F%98.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%A9%E5%BA%9C%E4%BA%8B%E5%8F%98.jpg?resize=525%2C352" alt="天府事变" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/天府事变.jpg?w=2004 2004w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/天府事变.jpg?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/天府事变.jpg?resize=768%2C514 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/天府事变.jpg?resize=1024%2C686 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>天府事变 官方新浪微博帐号截图</span></p></div>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?resize=525%2C393" alt="times" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?w=2314 2314w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?resize=1024%2C767 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?w=2000 2000w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>《时代》相关报道网页截图</span></p></div>
+<p>该团队成员在《时代》采访中<a href="https://docs.google.com/document/d/1_K8E7a04kD9YdVZ263ZLi7EYIQa2Otu0XU5v2TRUnvo/edit?usp=drivesdk" target="_blank">语出惊人</a>，称中国经历了“五千年的儒学教育”：</p>
+<blockquote><p>“Obviously China is rising, but we have <strong>5,000 years of Confucian education</strong> so we are a peace-loving country,” says Wang.</p></blockquote>
+<p>然而不少网民指出《时代》的报道称他们为“中共的宣传饶舌”，对该歌曲的评价为“史上最令人难堪”，并非什么正面报道。以下是两名团队成员对网民质疑的回应：</p>
+<blockquote><p><a href="http://weibo.com/2902761141" target="_blank">@PISSY_</a>：<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1">外媒的报道尿性大家都懂的，西方民众看了视频究竟会怎么去辨别，就要看他们的文明程度了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2597279243/DCG3nxZ3G" target="_blank">@CDRevRoy</a>：美分狗微博内容都没看清楚就来叫，也是吃屎心切</p></blockquote>
+<p>天府事变很显然认为只要能将这首歌曲传出国门，能“让全世界都听到了中国年轻人发出的声音”，<strong>以何种形象出现和传播并不重要</strong>。</p>
+<h3><span><strong>以下评论由数字时代编辑收集自新浪微博：</strong></span></h3>
+<p>@大炸毛：Party Propaganda Rap哈哈哈哈哈哈哈哈给我笑死了 谁说外媒不客观啊 这简直太精准客观了</p>
+<p>@TangChiuYan：西方看我们同胞表演，也就类似我们看着朝鲜女团的表演！党的喉舌RAP，不清醒自知，那就活在中国，梦里</p>
+<p>@陳禹ColinChan：没听完，听了一半感觉很尴尬。（处处弥漫着浓浓的中国梦</p>
+<p>@bigman945：团中央现在也是什么人都捧啊，又来个什么天府事变乐队，听名字反而觉得很反动，第一联想就是保路同志会起义……</p>
+<p><span><a href="http://weibo.com/2493858090" target="_blank">@Quinas-弹燕子的小钢琴</a>：某些喷子真是<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">别人说中国好跟打死了他爹是的。西方媒体用心险恶污蔑自己同胞，不仅不觉得愤恨，反而对自己同胞的遭遇幸灾乐祸，一副小人得志，语无伦次在跳脚的丑陋模样。你们特么是脑子有坑吗？天府能够唱出这段rap就证明别人英文不会比你差好吗？智障。</span></p>
+<p><span>@俩点一马陈毅的毅：别信老外 老外一根筋 打心眼里看不起咱 不可能因为一首歌就改变了对咱们的看法 我们只有努力 使得国家综合国力上升到可以在文化上大范围去影响世界 国家要有话语权 但是几位小老弟依旧很牛逼 打心底佩服 这才是偶像</span></p>
+<p><span>@酒精imalcohol：说要别人好好学英语的省点心吧，听他们自己写的rap也该知道他英语不比你差。知道意思又如何？来微博上一顿吐槽狂骂？但他们选择了宣扬积极方面，就别整天给自己人喝倒彩了吧</span></p>
+<p><span>@lcqwilliam：回复@中二到世界终结时:他们骨子里改不了的种族歧视，我就不明白了，一群才繁荣几百年的野蛮人，竟然可以这么傲慢，他们现在还是把裸体当时尚，把乱交和大麻当作解放，然后却可以把自己标榜到那个高的道德水平。人种之间不因为繁荣了几百年就能抹杀差距，野蛮人或许永远只能是野蛮人。</span></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%81%B6%E5%90%8D%E4%B9%9F%E6%98%AF%E5%87%BA%E5%90%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%BA%9C%E4%BA%8B%E5%8F%98/?category=18271" rel="tag">天府事变</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%94%9F%E6%84%8F/?category=18271" rel="tag">爱国生意</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BD%9C%E7%83%AD%E7%83%88%E5%BA%86%E8%B4%BA%E5%A4%AA%E5%AD%90%E5%85%9A%E5%85%B3%E7%B3%BB%E7%BD%91%E7%BB%9C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/" target="cdt-mirror">编程随想｜热烈庆贺“太子党关系网络”开源项目率先获得朝廷认证</a>
 </h2>
 <p><div><a href="https://i2.wp.com/1.bp.blogspot.com/-yZdYdO6STLs/V3XI_9fPnYI/AAAAAAAADBc/uF0vGOndUw8u7u_0qhgn_Y7sAaa4mXnJwCLcB/s1600/%25E6%258D%2595%25E8%258E%25B7.PNG?ssl=1"><img src="https://i1.wp.com/1.bp.blogspot.com/-yZdYdO6STLs/V3XI_9fPnYI/AAAAAAAADBc/uF0vGOndUw8u7u_0qhgn_Y7sAaa4mXnJwCLcB/s640/%25E6%258D%2595%25E8%258E%25B7.PNG?resize=640%2C542&ssl=1" border="0" data-recalc-dims="1"></a></div>
@@ -814,130 +862,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%87%82%E4%B8%8D%E6%87%82%E7%90%83-%E5%86%B0%E5%B2%9B%E8%B8%A2%E8%B5%A2%E7%9A%84%E6%98%AF%E6%AC%A7%E6%B4%B2%E5%A4%A9/" target="cdt-mirror">【网络民议】新华社懂不懂球 冰岛踢赢的是欧洲天朝队</a>
-</h2>
-<p><p><strong><a href="http://sports.sina.com.cn/china/national/2016-06-29/doc-ifxtmwei9481906.shtml" target="_blank">新华社：国足正复制冰岛奇迹 我们有理由相信未来</a></strong></p>
-<blockquote><p>从2000年开始，冰岛政府修建了许多室内足球场和露天小球场。目前，冰岛全国的足球场馆差不多有200个，有执照的足球教练超过600名。按冰岛国土面积（10.3万平方公里）和人口数量，球场面积和教练的“密度”十分可观。目前，冰岛注册足球人口约2万人，有5个级别的专业足球联赛。</p>
-<p>修建足球馆，让热爱足球的人们有地方踢球；培育足球教练，让每一个愿意踢球的孩子都能得到正规指导，让每一支队伍都有专业训练，这就是冰岛足球所拥有的。冰岛足球的“咸鱼翻身”，不仅靠对胜利的渴望、球迷的呐喊、球队的众志成城，更重要的是靠一片片基层的绿茵场，一名名默默无闻、孜孜不倦的普通教练。这正是足球从业者的职业精神和职业能力的体现。</p>
-<p>其实，这些，中国足球也可以！这些工作，中国足球正在做。国足即将面对2018年世界杯预选赛亚洲区12强赛，已经创造过一次奇迹的中国队，会继续创造奇迹吗？想想之前球队小组出线的5个前提，也许问这个问题显得有点心急。然而，看看冰岛足球已经做到的和中国足球正在做的，我们有理由相信未来。</p></blockquote>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%B6%B3%E7%90%83%E6%A2%A6.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%B6%B3%E7%90%83%E6%A2%A6.jpg?resize=525%2C589" alt="新华社足球梦" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/新华社足球梦.jpg?w=1694 1694w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/新华社足球梦.jpg?resize=267%2C300 267w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/新华社足球梦.jpg?resize=768%2C861 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/新华社足球梦.jpg?resize=913%2C1024 913w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>新浪网相关报道热门评论截图</span></p></div>
-<blockquote><p><strong>相关阅读</strong>：中国数字时代<a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%B3%E7%90%83%E5%A4%A7%E8%B7%83%E8%BF%9B/" target="_blank">足球大跃进</a>专题</p></blockquote>
-<h3><strong>以下评论由数字时代编辑收集自新浪微博：<br></strong></h3>
-<p> <br>
-@<a href="http://weibo.com/5019142452" target="_blank">GAN-R</a>：哈哈哈，别人是追梦，新华社是做梦。<img title="[微笑]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/5c/huanglianwx_org.gif" alt="[微笑]" data-recalc-dims="1"></p>
-<p>@金承志Aaron:看看人家的基础建设和发展模式，冰岛靠的不是嘴炮，这种跳大神一样的思维模式到底是怎么建立的？天天奇迹奇迹的。</p>
-<p>@kavdx：这是冰岛足球被黑的最惨的一次。别的不说，就说自己住的小区附近，高楼大厦林立、车位也不少，但是想踢球……那是在做梦。别拿中小学说事，门口的大叔就没让我进过。</p>
-<p>@开军军军军军：我想问问你们县里有几块免费球场啊？我们生活的地方整个县城就高中学校里面有一个，学校保安能让外来人随意进去踢球吗？回去找不到地方踢球。政策真的永远都只是在嘴上，我真没有看到过实实在在的实施，不说什么振兴这种大话，多修几块免费球场，哪怕是小一点也行，估计没地方了，地方都给地产开发商了</p>
-<p>@西部有名的快枪手：校园足球全是面子工程形象工程，孩子们在操场上拿着足球做完样子，还得回教室应付严峻的考试，所谓青少年基础就是个笑话。拿什么去和冰岛比。</p>
-<p>@比坏人好点：不必看详细内容，就可以否定：冰岛能做到的，国足做不到，虽然中超联赛环境有所改善，但，咱们的球员都是大爷，因为有了钱。人家冰岛大多是业余球员，身子没那么矜贵，咱中国球员身家可不一样，千多万年薪，几千万签字费，俱乐部球员之间利益矛盾冲突，在中国，足球只是赚钱的工具！</p>
-<p>@出云春水：新华社懂不懂球 冰岛踢赢的是欧洲天朝队。</p>
-<p>@骆越野人：冰岛奇迹是整个国家厚积薄发的结果，亚洲英格兰还是老老实实踢球 不要想太多，免得像欧洲中国队一样闹笑话</p>
-<p>@Mircle_就是葉先生：人家冰岛是挑战自己的上限，国足很明显是在挑战下限</p>
-<p>@BrianTzw：一个13亿人口的国家，投了那么多钱搞足球，还搞成这个样子，还好意思说“复制冰岛奇迹”，实际上一直在复制英格兰奇迹吧…</p>
-<p><a href="http://weibo.com/irman" target="_blank">@小五ChenZx</a>：我能联想到的仅是不丹队击败中国队创造奇迹<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@老兮混混：居然拿破了产的国家跟我们挥金如土随便一个非洲国家都赏几百亿的大天朝相比较，新华社越来越没溜了</p>
-<p>@xiaohuama：哈哈哈哈 连正常青训体系都没有 还复制</p>
-<p>@毛鄧江湖平：然后我们就又抛弃了西班牙的打法，开始在全队全面开展轰轰烈烈的“足球学冰岛”运动。。。</p>
-<p>@三木交山上三笑生V：人家去欧洲踢球需要体育局同意吗</p>
-<p>@笨小喵的小跟班：霍金那么牛逼并不是因为他瘫痪了</p>
-<p>@蘭醬de潮爸：嘿嘿嘿……以为足球是搞宣传</p>
-<p>@10号队长：要脸的人还真做不了新华评论</p>
-<p>@寒泉新秀GoGoGo：冰岛招谁惹谁了。被拿来和国足比。。。。。</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/07/%E8%B6%B3%E7%90%83%E6%A2%A6-copy.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/07/%E8%B6%B3%E7%90%83%E6%A2%A6-copy.jpg?resize=525%2C410" alt="足球梦 copy" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/07/足球梦-copy.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2015/07/足球梦-copy.jpg?resize=300%2C235 300w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>王一作品 《中国梦•足球梦》；来源：<a href="http://blog.sina.com.cn/s/blog_617291910102w51l.html" target="_blank">作者博客</a></span></p></div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%87%82%E4%B8%8D%E6%87%82%E7%90%83-%E5%86%B0%E5%B2%9B%E8%B8%A2%E8%B5%A2%E7%9A%84%E6%98%AF%E6%AC%A7%E6%B4%B2%E5%A4%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83/?category=18271" rel="tag">中国足球</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B6%B3%E7%90%83%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">足球大跃进</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%88%91%E7%94%9A%E8%87%B3%E6%B2%A1%E6%9C%89%E6%84%8F%E8%AF%86%E5%88%B0%E9%82%A3%E6%98%AF%E5%BC%BA%E5%A5%B8-%E7%8B%AC%E5%AE%B6%E9%9D%A2%E8%AE%BF%E8%A2%AB%E7%94%B7%E8%AE%B0/" target="cdt-mirror">新媒体女性｜独家面访被男记者性侵报社实习生</a>
-</h2>
-<p><blockquote><p>我这样情况的，算强奸吗？可是我要说，我真的是不愿意的，我不愿意。是他强来的。</p></blockquote>
-<p><span>撰稿、编辑 | 新媒体女性<br>
-考虑到当事女生微博冻结，本文开放所有媒体转载，注明出处“新媒体女性”和“女泉”即可。</span></p>
-<p>6月28日，接近午夜，新媒体女性在广州一咖啡厅见到了小卉和她的朋友小姜。6月28日傍晚，小卉的微博帐号@喵喵小卉 发出了一篇图片格式的博文，内容是小姜以第一人称，叙述了小卉在27日下午前往南方报社开具实习证明时，被南方日报记者成某纠缠和性侵的经历。</p>
-<p>事实上，小卉最终报警，是在和小姜商量之后，才作出的决定。即便是初次见面，外人也能明显地感觉到这一对好朋友的性格反差：小卉身材瘦小，一米五的身高，不到四十公斤，一看就是那种好脾气的姑娘，总是带着犹豫不决、不好意思的微笑；而小姜则身材高大些，神情不怒而威，目光炯炯让人印象深刻。对于已经发生的一切，小卉至今仍然是无所适从的，她不断自责，担忧考试受影响、担忧请不起律师耗不起时间打官司、担心这个事件会给自己带来各种危险——每一个决定都让她疑 虑重重进退两难；而小姜则是镇定的——当她们在午夜突然被警方通知到派出所配合调查时，等候在办事大厅，一位女性副所长过来问小姜：“是你发的贴么？”小姜直视对方，中气十足地回答了一个“是”。</p>
-<p>“她觉得就这么算了，我说，这个事情非常严重，怎么能算了？”小姜对新媒体女性表示。她替小卉应付所有来自外界的电话和询问，只有经过她过滤的通话者，才能接触到小卉。因此，她一直比小卉更忙；偶尔，她关切地看一眼自己的朋友，嘟囔一声：“哎，她呀，就是这性格……”</p>
-<h2>案情进展</h2>
-<p> <br>
-面访进行了一小时，然后被警方的传召打断。28日午夜，在网络舆情发酵之后，南方日报和广州警方相继发出通报，东山派出所连夜让当事人和证人重新做笔录。到了东山派出所，警察让小卉一个人上了一辆警车，对相关地点踩了一遍点。</p>
-<p>另一位前来支持小卉的暨大学生小利，也被要求前往配合了警方的调查——她同样在前往开具实习证明时，被成某要求去咖啡馆“聊聊”，并进行性骚扰。只是她摆脱了。小利告诉新媒体女性，成某虽然不是她的直接指导老师，但经常找她干活，带她完成了十篇稿子，并且“经常和我说些做人的道理。”开实习证明那天，成某也是找她到附近的咖啡馆聊天，“他一直跟我聊我的职业规划啊人生规划啊，问我想在哪里买房啊公积金啊户口啊。他还夸我人好看变得有气质了。后来……就在半路上表白，说喜欢我很久了，不觉得我们很配吗，要我把男朋友甩了……”小利在朋友圈如此叙述自己的遭遇：“看到这个直接吓哭了，我就在这个新闻部实习，同样是带我的记者没空管，然后这个成×异常热心带实习带文章。同样是开实习证明那一天，我准备走他就跑过来说喝杯咖啡，同样准备离开咖啡厅时原形毕露突然各种恶心露骨地表白。不同的是我立刻就走了，而这个女生受害了。南方日报广州观察部成×，此处省略一万字脏话。”“我走了之后去地铁站的路上他一路跟着我，一路表白并且不停凑近，直到我要进站他才放弃往回走，我边看着他走边死活翻不出羊城通差点急死。”</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a3ca4ce6bbd7aae02b2876387bdb4ac6.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a3ca4ce6bbd7aae02b2876387bdb4ac6.jpg?resize=450%2C800" alt="a3ca4ce6bbd7aae02b2876387bdb4ac6" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a3ca4ce6bbd7aae02b2876387bdb4ac6.jpg?w=720 720w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a3ca4ce6bbd7aae02b2876387bdb4ac6.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a3ca4ce6bbd7aae02b2876387bdb4ac6.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>小利的朋友圈截图。</p>
-<p>29 日凌晨，新浪微博@Host杜泽众 代朋友发布一篇第一人称的文章，披露了其在南方报社实习期间，被成某利用实习导师身份百般制造独处骚扰机会，最终艰难逃离的经历。这名女生在文章中表示，她要站出来声援小卉，反击谴责受害者的言论，“因为强奸存在的原因只有一个，那就是强奸犯。”</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/98ed6943332c2e560e3f63e8cd216a8b.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/98ed6943332c2e560e3f63e8cd216a8b.jpg?resize=450%2C799" alt="98ed6943332c2e560e3f63e8cd216a8b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/98ed6943332c2e560e3f63e8cd216a8b.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/98ed6943332c2e560e3f63e8cd216a8b.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/98ed6943332c2e560e3f63e8cd216a8b.jpg?resize=577%2C1024 577w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1693fdee94baa886f9246e7aaf534600.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1693fdee94baa886f9246e7aaf534600.jpg?resize=450%2C544" alt="1693fdee94baa886f9246e7aaf534600" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1693fdee94baa886f9246e7aaf534600.jpg?w=720 720w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1693fdee94baa886f9246e7aaf534600.jpg?resize=248%2C300 248w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><span>第三名女生在微博发布自己的经历声援小卉。</span></p>
-<p>由于小姜的网贴（链接：https://mp.weixin.qq.com/s?__biz=MzI3MDEwMTU4Mw==& mid=501367898&idx=1&sn=7335d6df06040fcb1111d914084fafcb&scene=1&srcid=0628Bg0GmKJOWVI0ZmQDzNIG&pass_ticket=TE1VwBwDMXaiJblPAHp7yJexNqx%2B%2Ff%2BwvHZGNm5oLsmDYQ1%2FwqxxBU8t2c5IZtXZ#rd ，可戳页面最下方“阅读原文”字样查看）已经大致描述了事件的过程，我们主要针对一些关键的情节进行了提问，并组织了文章的结构。</p>
-<h2>在报社发生了什么？</h2>
-<p> <br>
-事情发生，是小卉在实习结束一年多之后，需要一份实习证明。在小卉实习期间，她很多时候是代表指导老师跑发布会、做录音整理，稿子做好通过邮箱发过去，办公室去的并不多，也较少见面一起工作，因此她不认为老师对自己有深刻印象。</p>
-<p>微信聊天记录显示，小卉跟实习指导老师成某提及要开证明， 从聊天记录看，两人甚少联系，小卉也并未期望对方记得自己，因为<b>她第一句话如此介绍自己“老师好，我是之前在您这里实习的同学。然后有一个问题想问一下……”</b></p>
-<p>而成某的反应则是叫出她的名字，然后询问事由。成某答应帮她跟行政部打招呼，然后似乎忘记这件事，小卉再次提醒之后，他给了她行政联系方式。</p>
-<p>当6月27日，小卉前往办理实习证明，她被行政人员告知需要成某签字；因为这个原因，她才到记者办公室找到成某，签了字。也就是说，她并未预期遇见成某。于是，她在签字之后的下午两点四十六分，给小姜发了一条微信“妈呀，那个记者还认识我居然……”成某不仅认识她，还注意到她外表形象的变化。</p>
-<p>六分钟之后，小卉收到了成某微信：“你在楼下等等我？”“我们聊聊”，“一楼大厅咖啡厅”。小卉的反应是“好的”加一个“冷汗”的表情。对方又发来一条：“发现你比以前成熟漂亮多了。”小卉的反应是：“笑出眼泪”表情加“额……谢谢老师。”</p>
-<p>小卉认为对方对自己不会有印象，可能与之前的互动有关。在实习期间不多的见面时，陈某对她进行了非常“专业”的指导，包括要求她更加自信果断，而不是“唯唯诺诺”，还提出过她的袜子搭配不对之类的外表形象问题。小卉也曾经因为写稿慢被严厉批评过，因此对成某非常敬畏。小卉认为自己在他眼里，普通、不出众、土。事后小卉发现其他被骚扰的女生谈及，成某在办公室对她们就动手动脚，并且语言轻佻，她的推测是：“也许他之前真的觉得我很土，所以才会对我很严肃；她们漂亮，所以一开始他就不正经吧。”</p>
-<p><b>而在小卉眼里，成某是非常“严肃正经”的，他总是非常专业、非常“厉害”——涉事未深的大二学生不能理解的一种有阅历的厉害。譬如，小卉说，有一次跟他去工商局采访，发现成某语速极快、“犀利”地连珠炮问了局长很多问题。对这个“口齿伶俐，又有背景”的老师，小卉用“敬畏多一点”来形容自己对成某的感受。</b></p>
-<p>成某继续要求小卉在咖啡厅坐下来等他，解释了自己手边有事不能马上下来。好脾气的小卉就在楼下等了“成老师”四十五分钟。</p>
-<p>微信记录显示，两人对话很少，小卉的对话除了请求开证明，全部是被动回应。当三点五十六分他们开始坐下来聊天之后，最初涉及的内容大约是关于新闻。小卉在微信中发了两篇自己最近的作品，请成某批评。而这两篇文章之后，就是到了四点三十二分，成某说：“你直接进来，在电梯口等我。”</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c2e9357cc202a29a227cba3303b47493.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c2e9357cc202a29a227cba3303b47493.jpg?resize=450%2C801" alt="c2e9357cc202a29a227cba3303b47493" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c2e9357cc202a29a227cba3303b47493.jpg?w=719 719w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c2e9357cc202a29a227cba3303b47493.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c2e9357cc202a29a227cba3303b47493.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/51dc8b2658172ae0700bf9e9210d7684.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/51dc8b2658172ae0700bf9e9210d7684.jpg?resize=450%2C801" alt="51dc8b2658172ae0700bf9e9210d7684" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/51dc8b2658172ae0700bf9e9210d7684.jpg?w=719 719w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/51dc8b2658172ae0700bf9e9210d7684.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/51dc8b2658172ae0700bf9e9210d7684.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1b36b124831e7ac20f2c58171fd0f99a.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1b36b124831e7ac20f2c58171fd0f99a.jpg?resize=450%2C801" alt="1b36b124831e7ac20f2c58171fd0f99a" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1b36b124831e7ac20f2c58171fd0f99a.jpg?w=719 719w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1b36b124831e7ac20f2c58171fd0f99a.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1b36b124831e7ac20f2c58171fd0f99a.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec70f6c05bc517ccb47f3817915c8289.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec70f6c05bc517ccb47f3817915c8289.jpg?resize=450%2C801" alt="ec70f6c05bc517ccb47f3817915c8289" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec70f6c05bc517ccb47f3817915c8289.jpg?w=719 719w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec70f6c05bc517ccb47f3817915c8289.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ec70f6c05bc517ccb47f3817915c8289.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/182000683e63e98bf63fd9f034a65b6c.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/182000683e63e98bf63fd9f034a65b6c.jpg?resize=450%2C801" alt="182000683e63e98bf63fd9f034a65b6c" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/182000683e63e98bf63fd9f034a65b6c.jpg?w=719 719w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/182000683e63e98bf63fd9f034a65b6c.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/182000683e63e98bf63fd9f034a65b6c.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a22c28198522159f517c29f93a740d63.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a22c28198522159f517c29f93a740d63.jpg?resize=450%2C801" alt="a22c28198522159f517c29f93a740d63" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a22c28198522159f517c29f93a740d63.jpg?w=719 719w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a22c28198522159f517c29f93a740d63.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/a22c28198522159f517c29f93a740d63.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ff841d9e389fcd7dc61194e2d3fb6260.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ff841d9e389fcd7dc61194e2d3fb6260.jpg?resize=450%2C801" alt="ff841d9e389fcd7dc61194e2d3fb6260" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ff841d9e389fcd7dc61194e2d3fb6260.jpg?w=719 719w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ff841d9e389fcd7dc61194e2d3fb6260.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/ff841d9e389fcd7dc61194e2d3fb6260.jpg?resize=575%2C1024 575w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><span>小卉与成某的所有事前聊天微信截图。</span></p>
-<p>在之后半个小时发生了什么？小卉说，成某先是向她说起一个冼村拍摄的纪录片项目，游说她参与。“我没有兴趣啊，时间不够，而且我不想在南方报社实习了。” 之后，成某离她越来越近，开始向她示爱。而对于成某的要求，小卉觉得不可能答应，但有些犹豫不知道如何开解，“他就向我表白，说‘我可以给你很多资源。’ 我婉拒了。我不需要这些资源。我有别的计划。他还说他单身（事实上已结婚）。我委婉拒绝了——我也不能说马上起身离开，那样也不太礼貌。”</p>
-<p>这时，成某说要找另一个地方说话，小卉就跟他一起走到附近一条餐饮店铺密集的街道，以为是要一起吃饭。<b>在路上，成某提出要看小卉的身份证。小卉犹豫着掏出钱包，成某在她手上拽住了身份证，而小卉也没撒手——僵持的这几秒种，引得一位路人侧目——小卉放手了。</b>于是，成在一家七天楼下让她等着，自己拿着她的身份证去开房。此时，小卉并不知道，之前也有其他女孩曾经被成某以这种方式抢走了身份证。</p>
-<p>没主意的小卉一直在跟小姜微信交谈，她和小姜的微信记录显示，让她不知如何应对的，是这位平时很“严肃正经”的老师对自己突然追求，她显得好奇和震惊——“他跟我表白要地下情”、“他怎么突然之间”、“他要包养我”……当朋友激动地说身份证被拿走应该报警的时候，她并未照做。她在前台站了一会儿，然后才上去。</p>
-<p>小姜的建议是“你录音啊！”但小卉再没答应。她事后跟小姜的对话中，说自己“我本来想进门就录音，结果进门就被扑倒”。在微信记录中，她跟小姜如此分析自己：“唉，重点就是我也不明白我自己，我觉得我要是非常强硬我就能跑”；“我觉得我当时有点蒙蔽……就是他一开始说要在一起什么，我就想这人咋回事”……当小姜激烈回应她“就是想哄你上床”，她接着说：“对呀，我就想咋回事，当然我也不喜欢他，也不想找对象。”接下来，是接二连三的感叹：“我觉得我也不强硬”、“唉，我觉得我傻×了”。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0339295ef4d16abe240feed680a1e30.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0339295ef4d16abe240feed680a1e30.jpg?resize=450%2C800" alt="d0339295ef4d16abe240feed680a1e30" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0339295ef4d16abe240feed680a1e30.jpg?w=450 450w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/d0339295ef4d16abe240feed680a1e30.jpg?resize=169%2C300 169w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c57a2d94aaa0df0a61117e9331afbc87.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c57a2d94aaa0df0a61117e9331afbc87.jpg?resize=450%2C800" alt="c57a2d94aaa0df0a61117e9331afbc87" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c57a2d94aaa0df0a61117e9331afbc87.jpg?w=450 450w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/c57a2d94aaa0df0a61117e9331afbc87.jpg?resize=169%2C300 169w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>小卉与小姜事后的聊天微信截图。</p>
-<p>进入房间之后 ，成某将房门反锁，并很快将小卉推倒在床上。尽管小卉一直表示不愿意，成某还是对其进行了性侵。警方事后在其体内取得了成某的精液。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7e5bbf90d9866f3e10513105cbf9b08b.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7e5bbf90d9866f3e10513105cbf9b08b.jpg?resize=575%2C307" alt="7e5bbf90d9866f3e10513105cbf9b08b" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7e5bbf90d9866f3e10513105cbf9b08b.jpg?w=768 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/7e5bbf90d9866f3e10513105cbf9b08b.jpg?resize=300%2C160 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p><span>小姜的网帖内容截图。</span></p>
-<p>在事后和小姜的对话中，小卉一再提到她的顾虑：成某有广泛的人脉关系，举报他可能只会招致报复，而不会得到公正处理。她们在一位朋友的劝告下报警，但是却在学校所在的天河区，等到天河警方和越秀警方交接案情完毕，已经是27日深夜。</p>
-<h2>成某其人</h2>
-<p> <br>
-尽管28日整晚，数个记者群里都有人不断圈成某回应，他没有发声。他的电话也联系不上。</p>
-<p>不过，很多南方报社背景的记者通过朋友圈评论和记者群发言表示，成某在业内口碑极差。譬如，曾经指导其的实习老师表示对其“没信心”，一位曾经在南方都市 报深圳部与其共事的记者表示，“在深圳部呆过的人都不会觉得（性侵）意外，因为他就是那样的人”。数名记者表示，成某在南都深圳部因为新闻敲诈事发，处理结果却是其进入了南方日报工作，如今是广州新闻部助理主任。</p>
-<h2>对话小卉：为什么要进那个房间？</h2>
-<p> <br><span>新媒体女性： 网上很多质疑，主要集中在——你为什么要跟他进旅馆房间？</span></p>
-<p>小卉：在咖啡厅表白完了之后他起身说去隔壁聊聊，我以为他要带我去隔壁餐厅吃饭，而且我以为他要认真聊聊表白的事情。在街上他要看我的身份证，很着急，我从钱包里拿给他看，他就扯，我就捏住，我演示一下给你看……然后他就把我身份证硬扯走了。当时路人也有点侧目，回头看我们。</p>
-<p>小姜跟我说，让我报警拿回我的身份证，<b>可是那个时候并没有发生什么的，他只是想找我谈谈，警察不会管的。</b>我难道因为一个老师拿了我身份证就去报警吗？我跟他进房间，真的没有想到他会强来。因为即便是他跟我示好，我也并没有觉得他不正经——因为他说没有女朋友啊，我觉得示好也很正常吧。我觉得我只是要跟他谈清楚，好好说。</p>
-<p>但我还是会有点害怕，所以我给小姜发了求救。我会想我是不是反应太夸张，毕竟我不知道会发生什么。（要是怀疑错了）我也不好意思。<b>如果他是个陌生人，我宁愿身份证不要我也不进去了，但是他是报社的老师。我没想到他会做这种事，就以为他只是想要谈一谈。</b>我当时也觉得需要好好谈一下（就进去了）。</p>
-<p>说真的，事情发生的时候我是懵的……时间很短，我甚至并没有觉察到他插入我身体，以及射精……他自己说有射的。确实一直是软软的，磨蹭，我没怎么感觉到过程……说老实话，我甚至没有意识到那是强奸……<b>我以为强奸都是在街上，黑漆漆的，跑出一个陌生人把你抓了，要有暴力，打晕你啊，拿刀逼你啊。强奸不是这样吗？我这样情况的，算强奸吗？可是我要说，我真的是不愿意的，我不愿意。是他强来的。</b></p>
-<p><span>新媒体女性：性侵后发生了什么？</span></p>
-<p>小卉：我们很快就离开了。就他让我洗洗就离开了。我感觉他发生了这个事情后他又很正常了。（新媒体女性：跟之前有什么不一样呢？）在强迫我发生性关系时…… 是很强势的，过后又很温和了，跟平时一样，好像什么事都没有发生过。后来，他让我去买药，我不敢啊，不好意思。他就去附近的药店，买了那种只有两颗的避孕药，买了水，让我吃了药。他还拿走了避孕药的药盒，不让我留着。</p>
-<p><span>新媒体女性：吃完药就分手了吗？当时已经到晚餐时间了……</span></p>
-<p>小卉：我就是认命吧。我觉得这个事情结束了。<b>他还说想之后再约，我说不要。我心里就想：以后再也不要见了。</b>走到路口，我就说我要回学校了。就分开走了。</p>
-<p><span>新媒体女性：事情公开后有什么担忧吗？</span></p>
-<p>小卉：他知道我报警了。我就很怕他报复。他是挺有背景的人。</p>
-<p><span>新媒体女性：可能很多人都会质疑你为什么要收钱。</span></p>
-<p>小卉：我就觉得这个事情已经发生了，我还能怎么样呢？我真的没有想到报案追究什么的。我不大懂法律，当时就是认倒霉了。<b>他在微信里转钱给我，他在我边上，门锁着，我只好点了接收。我自己当时的感觉真的是算了……我是不情愿，可是发生了啊，我不觉得自己还能做什么。</b></p>
-<p><span>新媒体女性：很多人都说，七天的隔音不好，你可以喊，也可以挣扎更剧烈一些让人知道。</span></p>
-<p>小卉：我觉得挣扎的话……我真的比较胆小怕事，感觉他之前是老师，是很厉害的记者，<b>我跟这么一个男的在房间里，我不敢激烈反抗，怕他打我。</b></p>
-<p><span>新媒体女性：我看了你和小姜的对话，感觉没有她，你可能不会报警。</span></p>
-<p>小卉：是，可能就是算了。不过一开始小姜也没有说报警，就是觉得不能这么算了。她咨询了一位朋友，那位朋友认为这就是强奸，必须要马上报警。才会有后来的事情。<b>我其实一直都没觉得有希望（惩罚成某），因为一开始警察就说我没有抓伤他啊什么的，就不能表示我不愿意。</b></p>
-<p>29日早晨七点，小姜和小卉先后做完笔录从派出所出来。对于这两个女孩报警的决定，那位女性副所长只有一句评价：“有事找警察，总是没错的。”</p>
-<h2>事件发展相关链接</h2>
-<p> <br>
-6月28日17：22，新浪微博@喵喵小卉 发布的一篇名为《南方日报名记者诱*暨南大学女实习生，强来时候仍淡定从容令人发指》的文章引起网友热议。http://weibo.com/3166350327/DCoei48lz</p>
-<p>6月28日21：29，南方报业传媒集团监察审计部发布声明，表示“关于网传本集团一记者诱奸女实习生的帖文，集团高度重视，已经组织调查。如情况属实，将严肃处理，决不姑息。”http://weibo.com/1682207150 /DCnawAiPV?from=page_1002061682207150_profile&wvr=6&mod=weibotime&type=comment</p>
-<p>28日晚22：13，广州市公安局发布通报称【广州越秀警方对一女子报警称被强奸的警情开展调查】 http://weibo.com/1722022490/DCnsvtd21?from=page_1001061722022490_profile&wvr=6&mod=weibotime&type=comment</p>
-<p>29日00：11， 新浪微博@Host杜泽众发布另一位被成某骚扰的女实习生自述，要求南方报业集团“严格把关，做新闻‘把关人’，请先把‘人’把关好 了”http://weibo.com/3166350327/DCoei48lz?type=comment#_rnd1467149552411</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%88%91%E7%94%9A%E8%87%B3%E6%B2%A1%E6%9C%89%E6%84%8F%E8%AF%86%E5%88%B0%E9%82%A3%E6%98%AF%E5%BC%BA%E5%A5%B8-%E7%8B%AC%E5%AE%B6%E9%9D%A2%E8%AE%BF%E8%A2%AB%E7%94%B7%E8%AE%B0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5/?category=18271" rel="tag">性侵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E5%B9%B3%E7%AD%89/?category=18271" rel="tag">性别平等</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -949,7 +873,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -959,5 +883,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

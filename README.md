@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BD%9C%E7%83%AD%E7%83%88%E5%BA%86%E8%B4%BA%E5%A4%AA%E5%AD%90%E5%85%9A%E5%85%B3%E7%B3%BB%E7%BD%91%E7%BB%9C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/" target="cdt-mirror">编程随想｜热烈庆贺“太子党关系网络”开源项目率先获得朝廷认证</a>
@@ -119,7 +119,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/github/?category=18271" rel="tag">github</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3/?category=18271" rel="tag">编程随想</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%9F%A5%E4%B9%8E-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B8%B8%E6%88%8F%E9%9C%80%E8%A6%81%E5%AE%A1%E6%89%B9%E6%89%8D%E5%8F%AF%E4%B8%8A%E6%9E%B6/" target="cdt-mirror">知乎 | 如何看待苹果中国区游戏需要审批才可上架？</a>
 </h2>
@@ -949,7 +949,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -959,5 +959,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

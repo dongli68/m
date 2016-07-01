@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,100 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%82%A2%E5%89%AF%E6%89%80%E9%95%BF%E6%94%BF%E6%B3%95%E6%AF%95%E4%B8%9A%EF%BC%8C%E9%82%A3%E5%A4%A7%E9%B8%AD%E6%A2%A8%E5%91%A2/" target="cdt-mirror">仕图｜邢副所长政法毕业，那大鸭梨呢？</a>
+</h2>
+<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B0%B4%E6%AF%8D%E4%BE%A6%E6%8E%A2%E7%A4%BE.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B0%B4%E6%AF%8D%E4%BE%A6%E6%8E%A2%E7%A4%BE.jpg?resize=550%2C333" alt="水母侦探社" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?w=2004 2004w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=300%2C182 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=768%2C465 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=1024%2C620 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=80%2C48 80w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>水母侦探社 天涯资料页面截图；该账号为雷洋事件发生后注册，所有发表内容均与该案有关。</span></p></div>
+<p><strong><br>
+来自微信公号：仕图（ID: shi4tu2）<br></strong><br>
+水母侦探可不是一个草根号，操作者是警行内部人。今天他们发了一条《雷洋人大毕业 邢副所长呢？》后来被删除。</p>
+<p>那篇文章的感觉特别奇怪，充满着出租车司机的叙事方式，孟良哭焦赞纯粹瞎捣乱的忧郁气质，和特别路遥特别平凡世界的世界观：</p>
+<blockquote><p>邢所的老家，是国家级的贫困县，国家级啊兄弟。</p>
+<p>邢所的父母都是文盲，一个字都不认识，真的。他们的老家，家里穷到什么份儿上？那真的是大山里头的一栋破木瓦房，电影里那种。</p>
+<p>说得毫不夸张，邢所真的是靠父母卖羊种地四处借钱，完了从小光着脚去上学，就是这样拼了命的念书 。</p>
+<p>再后来，全村人都看出来，这孩子有出息。</p>
+<p>于是全村人一起卖羊，真的，一起卖，供邢所念书，就这样，邢所参加高考那年，是甘肃省全省的高考文科状元啊，当时全村都轰动了。</p></blockquote>
+<p>后来人们证实，邢所高考的2001年，甘肃省文科状元叫于哲，根本不是什么省状元。</p>
+<p>状元和学生会主席是天下最容易被冒认的职务，好多所谓的状元，其实都是市状元或者县状元，含金量很低。</p>
+<p>奇怪，看这么多细节，你会觉得这个北京本地的警察叔叔是插队在甘肃，看着“邢所”长大的，但其实不是，后面这个警察说他去过另一个被逮捕辅警的家马鞍山，如果他去过甘肃邢所家里一定会提到，所以他没去过，但是邢所又被他描述为一个特别老实木讷的人，如果是那样的话那以上这些细节，就是他在依靠邢所比较平常的描述在脑补。</p>
+<p>跟邢所称兄道弟的，不会是新警察了，一个警察说话的画风倾向于夸大和描述，真不是社稷之福。出租车这样我们一般可以接受，我们打出租为什么比快车贵，就是有听故事的钱在里面。</p>
+<blockquote><p>我们北京孩子，下了班以后，一起聚一聚，看看球，吃吃饭，是吧，很正常，但是邢所从来不参与。</p>
+<p>他不参与是为什么？</p>
+<p>不是因为没钱，是因为守规矩。</p>
+<p>由于他的家庭，他的出身 ，他不像我们北京孩子，他特别珍惜公安局这份工作。他从来没有觉得我是高考状元，你们就应该捧着我，恰恰相反，他就是觉得自己一个农村出来的孩子，现在能留在北京当公务员，还能解决户口问题，那对他来说，简直就是不敢想象。</p>
+<p>他不参加我们的业余生活，就是因为他要把全部时间，都投入到工作里。</p>
+<p>真的，我毫不夸张，他的生活当中，只有工作。</p></blockquote>
+<p>一个精忠报国的形象跃然手机屏幕上。</p>
+<p>注意，我们可以看得出这位北京同事对邢所的欣赏，其实北京真的挺博大，警察这行只要不怕苦（偷奸耍滑别人就要多辛苦），不装逼（拿着211985会被灭得很惨），再有一颗感恩的心（别忌讳自己穷，多当自嘲说说没关系）大家都会喜欢。</p>
+<p>分到警队的大学生，分到车间的大学生，分到小学的博士生，都可以学习这种处事，没有关系，可以敬业，厚道，就有了朋友。</p>
+<blockquote><p>说实在的，我们很多民警，都是警院专科毕业，要是本科的，比如公安大学毕业的，那分到我们这里都是人才啊。</p>
+<p>更何况邢所当年是高考文科状元，你说是不是，又是政法大学学法律的，那绝对是人才中的人才啊。</p>
+<p>所以说邢所能当副所长，完全是靠自己的素质，你想，一个山里出来的孩子，能有什么关系什么背景吗？</p></blockquote>
+<p>已经是业务上很佩服了，但是你也可以看出他们另一道沟：</p>
+<blockquote><p>再后来，邢所和北京的一个女孩儿结婚了，住的也是人家的房子，说白了，倒插门。</p></blockquote>
+<p>范喜良为什么被秦始皇抓了壮丁？范喜良是赘婿，倒插门到孟姜女家的女婿，这样的人都是穷人。这点上你可以看得出本地同事对他又怜悯又瞧不起的那种复杂情感。</p>
+<p>奇怪，纪律部队不是也从延安西柏坡走来的吗？那时候结婚都是被子放在一起，借一孔窑洞就结婚了啊。警队是国家机器里最世俗的，不然没法办事了。</p>
+<blockquote><p>结婚的时候，真的毫不夸张跟你说，压根没钱办婚礼。</p></blockquote>
+<blockquote><p>是我们全所全员出动凑钱，你去外头借辆奔驰、我去亲戚家凑量宝马，这么着，勉强凑出来的婚车车队。</p></blockquote>
+<p>年轻人不都是这么穷么。没钱就送人司机点烟和糖，烦劳人给跑一趟。</p>
+<blockquote><p>哪儿办的婚礼啊？大鸭梨！</p></blockquote>
+<p>大鸭梨也不知道招谁惹谁了，是一个烤鸭家常菜的菜馆，人均大概70元消费左右吧，确实不算什么好的馆子。北京警察收入也不高，叫大鸭梨的盒饭应该也是很常见的。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-10.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-10.jpg?resize=360%2C224" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-10.jpg?w=360 360w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-10.jpg?resize=300%2C187 300w" sizes="(max-width: 360px) 100vw, 360px" data-recalc-dims="1"></a><p><span>大鸭梨真的有鸭梨</span></p></div>
+<p>我打开了大鸭梨的官网，看见人大鸭梨还不明情况在那宣传呢，音乐土得很，有朝鲜的画风，标语还是信心满满：</p>
+<p>“大鸭梨，致力于一家受人尊重的企业。”</p>
+<p>还有一首《大鸭梨人之歌》！</p>
+<p>“我们踏着春天的旅途，走过岁月走过风雨。我们迈着坚定地的步伐……要把民族的悠久文化……弘扬中国……前进，前进，向前进，我们是坚定的大鸭梨人……”</p>
+<p>我把官网链接放在“阅读原文”里，有兴趣的可以去听……</p>
+<p>这个董事长叫孙秀萍，是一个北京本地人。2010年人大鸭梨还是北京美食50强呢……</p>
+<blockquote><p>你能想象吗，你要是老家是外地的，一聊起来你们家儿子在北京当警察，那在当地就是光宗耀祖了。村里人都得高看你们家一眼。</p>
+<p>那你去问问，大鸭梨这样的地方办婚礼，算是什么等级吧，你自己琢磨。</p></blockquote>
+<p>很多外地人在北京根本就不办婚宴，因为本地一定有一个主场，有的老家本身亲戚不多，亲家又强大，在北京办也是可能的，外嫁京京嫁外有各种各样的烦恼，办婚礼是第一件事，对国安的态度是第二件事。</p>
+<p>北京阿sir说得很到位：你努力，我们服你，你贫穷，我们帮你，但是你要是在打大鸭梨办婚宴，完咧！兄弟们得记个十年二十年的。</p>
+<p>这几年见了好多奇葩躺枪，但这一次最离奇，一个警察涉嫌玩忽职守被逮捕了，他的同事回忆起他来，他办婚宴的家常菜馆子躺枪了。</p>
+<p>好奇怪，你会发现北京阿sir洗的点特别奇怪，但是好像又都挠在痒处上。</p>
+<p>对了，他其实是隔空喊话：</p>
+<p>“你们闹吧，你们把我们中最像你们的一个家伙给弄进去了。”</p>
+<p>读懂了这一句，我感觉出一阵杀进骨头里的寒。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/10/8.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/10/8.jpg?resize=250%2C250" alt="仕图" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/10/8.jpg?w=258 258w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/10/8.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/10/8.jpg?resize=70%2C70 70w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%82%A2%E5%89%AF%E6%89%80%E9%95%BF%E6%94%BF%E6%B3%95%E6%AF%95%E4%B8%9A%EF%BC%8C%E9%82%A3%E5%A4%A7%E9%B8%AD%E6%A2%A8%E5%91%A2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%A2%E6%B0%B8%E7%91%9E/?category=18271" rel="tag">邢永瑞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%B0%B8%E6%A3%80%E7%BB%93%E6%9E%9C%E7%A7%B0%E9%9B%B7%E6%B4%8B%E7%AA%92%E6%81%AF%E6%AD%BB%E3%80%80%E4%B8%A4%E8%AD%A6%E4%BB%A5%E7%8E%A9%E5%BF%BD%E8%81%8C%E5%AE%88/" target="cdt-mirror">博谈网｜尸检结果称雷洋窒息死　两警以玩忽职守罪逮捕</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard01_712.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard01_712.jpg?resize=575%2C323" alt="Clipboard01_712" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard01_712.jpg?w=660 660w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard01_712.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
+<p>（博谈网记者苏智敏报道）在许多媒体帐号微博都关闭评论下，雷洋的尸检结果终于发布。北京市人民检察院在6月30日下午发布通报，尸检鉴定意见确定死者雷洋符合胃内容物吸入呼吸道致窒息死亡。</p>
+<p>检方的通报并指出，“涉案警务人员在执法中存在不当行为，昌平公安分局东小口派出所副所长邢某某、辅警周某起主要作用，且在案发后有妨碍侦查的行为。根据其行为性质和办案实际需要，北京市人民检察院第四分院已报请北京市人民检察院批准变更强制措施，对邢某某、周某以涉嫌玩忽职守罪依法决定逮捕。”</p>
+<p><strong>真相？</strong></p>
+<p>这份尸检意见推翻了之前北京警方称雷洋是死于心脏病突发的说法，检方的通报也没有解释造成雷洋胃内容物吸入呼吸道致窒息死亡的原因。而雷洋家属见到雷洋尸体时，其头部、手臂和腿上有明显淤血，嘴角有血迹，睾丸异常肿大。家属认为明显是暴力殴打才能形成这样的伤害。</p>
+<p>事后，涉事民警上央视重述雷洋拒捕过程，并再次强调雷洋“嫖娼”：根据卖淫女的口供和现场提取的避孕套进行的DNA鉴定，证实雷洋当晚在足疗店嫖娼。</p>
+<p>5月17日雷洋家属及代理律师向北京市检察院递交的《关于要求北京市检察院立案侦查雷洋被害案的刑事报案书》中，指控警方在没有证据证实雷洋有嫖娼行为下，对其暴力殴打伤害，导致雷洋在不到50分钟内死亡。事后又进行一系列掩盖和伪造证据行为，已构成滥用职权罪、和故意伤害（致人死亡）罪、帮助伪造证据罪。</p>
+<p>现在，检方以涉嫌玩忽职守罪将邢某某、周某逮捕，显然与家属的期望有极大落差，将面对的刑罚也有一段差异。</p>
+<p><strong>量刑的差距</strong></p>
+<p>玩忽职守罪是指国家机关工作人员严重不负责任，不履行或不认真履行工作职责，致使公共财产、国家和人民利益遭受重大损失的行为。根据中国刑法，处三年以下有期徒刑或者拘役；情节特别严重的，处三年以上七年以下有期徒刑。和滥用职权罪的刑罚一样，</p>
+<p>而雷洋家属控告的三项罪名中，较重的为故意伤害罪，若是故意伤害他人身体，致人死亡或者以特别残忍手段致人重伤造成严重残疾的，可处10年以上有期徒刑、无期徒刑或者死刑。</p>
+<p>另一项帮助伪造证据罪，根据刑法，若以暴力、威胁、贿买等方法阻止证人作证或指使他人作伪证的，处三年以下有期徒刑或者拘役；情节严重者，处三年以上七年以下有期徒刑。帮助当事人毁灭、伪造证据，情节严重的，处三年以下有期徒刑或者拘役。司法工作人员犯前两款罪的，则从重处罚。</p>
+<p><strong>陈有西：将继续追查</strong></p>
+<p>转发尸检意见通报的媒体官微皆关闭评论，而财经网的三条相关微博中，只有一条开放评论。网友高呼“原来还有个地方可评论”，并认为尸检结果及两警的处置方式明显是大事化小、避重就轻。另有不少网友希望能解释为什么抓雷洋、及雷洋是否嫖娼等问题。</p>
+<p>而代理雷洋案件的陈有西律师，在尸检结果发布后，于个人微博作出回应。</p>
+<p>陈有西律师指出，死因已排除原警方和官媒通报的心脏病等死亡因素，案件定性关键问题已经解决。雷洋涉警前在街道正常行走，没有醉酒，胃内容吸入呼吸道导致窒息，只能是外力暴力导致。现在通报信息不全，其他身体伤痕是否同为致死原因，需要在收到尸检报告书后，进一步研判。本案罪名性质已明显不能定性为玩忽职守罪。检察院通报中已明确涉案警察有妨碍侦查行为，证实有伪造、隐匿证据妨碍侦查、误导社会的行为。现在只是初步侦查，希望对尚未执行逮捕的其他嫌疑人，和妨碍侦查、协助进行伪证掩盖真相的其他相关人，继续展开侦查。</p>
+<p>关键词: 雷洋 玩忽职守罪 栏目: 时事见解 栏目重点发表: 栏目头条 热门话题追踪: 雷洋事件 作者: 苏智敏</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%B0%B8%E6%A3%80%E7%BB%93%E6%9E%9C%E7%A7%B0%E9%9B%B7%E6%B4%8B%E7%AA%92%E6%81%AF%E6%AD%BB%E3%80%80%E4%B8%A4%E8%AD%A6%E4%BB%A5%E7%8E%A9%E5%BF%BD%E8%81%8C%E5%AE%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E5%B0%B8%E6%A3%80/?category=18271" rel="tag">雷洋尸检</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%BE%90%E8%B4%B2%E6%B2%89%E9%BB%98%E5%92%8C%E5%A4%B1%E5%BF%86%E7%9A%84%E5%9B%BD%E6%B0%91%E6%98%AF%E6%80%8E%E6%A0%B7%E6%95%99%E8%82%B2/" target="cdt-mirror">东方历史评论｜徐贲：沉默和失忆的国民是怎样教育成的</a>
 </h2>
 <p><p><em><strong>《东方历史评论》微信公号：ohistory</strong></em></p>
@@ -691,78 +782,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%BC%E7%89%99
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%96%E5%AA%92%E7%88%86%E6%96%99%E6%97%A0%E4%BA%BA%E4%BF%A1-%E9%99%86%E4%B8%B0%E5%BD%93%E5%B1%80%E5%BF%99%E5%88%A0%E8%AF%84%E8%AE%BA/" target="cdt-mirror">【立此存照】林祖恋案“外媒”爆料无人信 陆丰当局忙删评论</a>
-</h2>
-<p><p>陆丰市政府新闻办公室官方微博<a href="http://weibo.com/lfxwfb" target="_blank">@陆丰发布</a>今日转发了所谓“外媒”报道证实林祖恋“收贿属实”的文章。<strong>该文以略带“翻译腔”的文字风格将汕尾检察院的指控<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%EF%BC%9A%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%B4%AA/" target="_blank">作为事实转述</a>，完全无视了该案尚未进入开庭审理阶段、林祖恋甚至<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8F%82%E4%B8%8E%E7%BD%91%EF%BD%9C%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E4%B8%8D%E7%94%A8%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D/" target="_blank">连辩护律师都没有</a>的事实。</strong></p>
-<p>网民很显然对@陆丰发布 的微博并不买账，编者截图时的200+条评论，几乎是清一色的对当局的质疑和嘲讽：</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%86%E4%B8%B0%E5%8F%91%E5%B8%8301.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%86%E4%B8%B0%E5%8F%91%E5%B8%8301.png?resize=500%2C2682" alt="陆丰发布01" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布01.png?w=605 605w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布01.png?resize=56%2C300 56w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布01.png?resize=191%2C1024 191w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@陆丰发布 微博截图；来自中国数字时代</span></p></div>
-<p>然而，这些<strong>网民的质疑很快就被删得干干净净，@陆丰发布 还干脆关闭了评论</strong>：</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%86%E4%B8%B0%E5%8F%91%E5%B8%83%E5%88%A0%E9%99%A4%E8%AF%84%E8%AE%BA.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E9%99%86%E4%B8%B0%E5%8F%91%E5%B8%83%E5%88%A0%E9%99%A4%E8%AF%84%E8%AE%BA.jpg?resize=500%2C529" alt="陆丰发布删除评论" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布删除评论.jpg?w=1093 1093w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布删除评论.jpg?resize=284%2C300 284w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布删除评论.jpg?resize=768%2C812 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/陆丰发布删除评论.jpg?resize=968%2C1024 968w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@陆丰发布 同条微博2小时后截图；来自中国数字时代</span></p></div>
-<blockquote><p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%8F%82%E8%80%83%E6%B6%88%E6%81%AF%EF%BC%9A%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B9%8C%E5%9D%8E%E6%9D%91%E4%B8%BB%E4%BB%BB%E8%B4%AA/" target="_blank">相关阅读：【异闻观止】参考消息：外媒报道乌坎村主任“贪腐”属实</a></p></blockquote>
-<p>独家刊登林祖恋报道的“美媒”《国际日报》(International Daily News) 位于美国加州洛杉矶郊外的华人聚集区 <span>Monterey Park，1981年创刊。</span></p>
-<p><strong>《国际日报》报社谷歌街景</strong>（街景摄于2015年5月）<strong>：</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%B0%B7%E6%AD%8C%E8%A1%97%E6%99%AF_%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A5.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%B0%B7%E6%AD%8C%E8%A1%97%E6%99%AF_%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A5.jpg?resize=585%2C293" alt="谷歌街景_国际日报" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报.jpg?w=2066 2066w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报.jpg?resize=300%2C150 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报.jpg?resize=768%2C385 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报.jpg?resize=1024%2C513 1024w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报.jpg?w=2000 2000w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
-<p>该报社门前挂了<strong>五块牌子</strong>，从左到右依次为：</p>
-<blockquote>
-<ul><li><strong>山东侨报 北美办事处</strong></li>
-<li><strong>大众日报 海外版</strong></li>
-<li><strong>文汇报 海外版</strong></li>
-<li><strong>国际日报</strong></li>
-<li><strong>人民日报 海外版</strong></li>
-</ul></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%B0%B7%E6%AD%8C%E8%A1%97%E6%99%AF_%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A52.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E8%B0%B7%E6%AD%8C%E8%A1%97%E6%99%AF_%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A52.png?resize=585%2C272" alt="谷歌街景_国际日报2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报2.png?w=1080 1080w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报2.png?resize=300%2C139 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报2.png?resize=768%2C357 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/谷歌街景_国际日报2.png?resize=1024%2C476 1024w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
-<p><strong>该网站的“乌坎”专题文章只有两篇，与中共官媒口径高度一致：</strong></p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A5.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%9B%BD%E9%99%85%E6%97%A5%E6%8A%A5.jpg?resize=500%2C298" alt="国际日报" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际日报.jpg?w=1326 1326w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际日报.jpg?resize=300%2C179 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际日报.jpg?resize=768%2C458 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际日报.jpg?resize=1024%2C610 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/国际日报.jpg?resize=80%2C48 80w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>《国际日报》网站“乌坎”专题截图</span></p></div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A4%96%E5%AA%92%E7%88%86%E6%96%99%E6%97%A0%E4%BA%BA%E4%BF%A1-%E9%99%86%E4%B8%B0%E5%BD%93%E5%B1%80%E5%BF%99%E5%88%A0%E8%AF%84%E8%AE%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E4%B9%8C%E5%9D%8E%E5%86%8D%E7%A4%BA%E5%A8%81/?category=18271" rel="tag">2016乌坎再示威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%81%87%E5%A4%96%E5%AA%92/?category=18271" rel="tag">假外媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%8F%91%E5%B8%83%E3%80%8A%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%BF%A1/" target="cdt-mirror">月光博客 | 网信办发《移动互联网应用程序信息服务管理规定》</a>
-</h2>
-<p><p>国家网信办发布《移动互联网应用程序信息服务管理规定》，《规定》明确，移动互联网应用程序提供者应当严格落实信息安全管理责任，建立健全用户信息安全保护机制，<strong>按照“后台实名、前台自愿”原则，对注册用户进行基于移动电话号码等真实身份信息认证。记录用户日志信息，并保存六十日。</strong></p>
-<p>国家互联网信息办公室有关负责人介绍，应用程序已成为移动互联网信息服务的主要载体，对提供民生服务和促进经济社会发展发挥了重要作用。与 此同时，少数应用程序被不法分子利用，传播暴力恐怖、淫秽色情及谣言等违法违规信息，有的还存在窃取隐私、恶意扣费、诱骗欺诈等损害用户合法权益的行为， 社会反映强烈。</p>
-<p>《规定》明确，移动互联网应用程序提供者应当严格落实信息安全管理责任，建立健全用户信息安全保护机制，依法保障用户在安装或使用过程中的知情权和选择权，尊重和保护知识产权。</p>
-<p>《规定》要求，移动互联网应用程序提供者和互联网应用商店服务提供者<strong>不得利用应用程序从事危害国家安全、扰乱社会秩序、侵犯他人合法权益等</strong>法律法规禁止的活动，不得利用应用程序制作、复制、发布、传播法律法规禁止的信息内容。同时，《规定》鼓励各级党政机关、企事业单位和各人民团体积极运用应用程序，推进政务公开，提供公共服务，促进经济社会发展。</p>
-<p>国家互联网信息办公室有关负责人强调，移动互联网应用程序提供者和互联网应用商店服务提供者应当切实履行管理责任，积极承担社会责任，自觉接受公众监督，为网民提供安全、优质、便捷、实用的信息服务。</p>
-<p><strong>以下是规定的全文：</strong></p>
-<p>移动互联网应用程序信息服务管理规定</p>
-<p>第一条 为加强对移动互联网应用程序（APP）信息服务的管理，保护公民、法人和其他组织的合法权益，<strong>维护国家安全和公共利益</strong>，根据《全国人民代表大会常务委员会关于加强网络信息保护的决定》和《国务院关于授权国家互联网信息办公室负责互联网信息内容管理工作的通知》，制定本规定。</p>
-<p>第二条 在中华人民共和国境内通过移动互联网应用程序提供信息服务，从事互联网应用商店服务，应当遵守本规定。</p>
-<p>本规定所称移动互联网应用程序，是指通过预装、下载等方式获取并运行在移动智能终端上、向用户提供信息服务的应用软件。</p>
-<p>本规定所称移动互联网应用程序提供者，是指提供信息服务的移动互联网应用程序所有者或运营者。</p>
-<p>本规定所称互联网应用商店，是指通过互联网提供应用软件浏览、搜索、下载或开发工具和产品发布服务的平台。</p>
-<p>第三条 <strong>国家互联网信息办公室负责全国移动互联网应用程序信息内容的监督管理执法工作。</strong>地方互联网信息办公室依据职责负责本行政区域内的移动互联网应用程序信息内容的监督管理执法工作。</p>
-<p>第四条 鼓励各级党政机关、企事业单位和各人民团体积极运用移动互联网应用程序，推进政务公开，提供公共服务，促进经济社会发展。</p>
-<p>第五条 通过移动互联网应用程序提供信息服务，应当依法取得法律法规规定的相关资质。从事互联网应用商店服务，还应当在<strong>业务上线运营三十日内向所在地省、自治区、直辖市互联网信息办公室备案。</strong></p>
-<p>第六条 移动互联网应用程序提供者和互联网应用商店服务提供者不得利用移动互联网应用程序从事危害国家安全、扰乱社会秩序、侵犯他人合法权益等法律法规禁止的活动，不得利用移动互联网应用程序制作、复制、发布、传播法律法规禁止的信息内容。</p>
-<p>第七条 移动互联网应用程序提供者应当严格落实信息安全管理责任，依法履行以下义务：</p>
-<p>（一）按照“后台实名、前台自愿”的原则，<strong>对注册用户进行基于移动电话号码等真实身份信息认证。</strong></p>
-<p>（二）建立健全用户信息安全保护机制，收集、使用用户个人信息应当遵循合法、正当、必要的原则，明示收集使用信息的目的、方式和范围，并经用户同意。</p>
-<p>（三）建立健全信息内容审核管理机制，<strong>对发布违法违规信息内容的，视情采取警示、限制功能、暂停更新、关闭账号等处置措施，保存记录并向有关主管部门报告。</strong></p>
-<p>（四）依法保障用户在安装或使用过程中的知情权和选择权，未向用户明示并经用户同意，不得开启收集地理位置、读取通讯录、使用摄像头、启用录音等功能，不得开启与服务无关的功能，不得捆绑安装无关应用程序。</p>
-<p>（五）尊重和保护知识产权，不得制作、发布侵犯他人知识产权的应用程序。</p>
-<p>（六）<strong>记录用户日志信息，并保存六十日。</strong></p>
-<p>第八条 互联网应用商店服务提供者应当对应用程序提供者履行以下管理责任：</p>
-<p>（一）对应用程序提供者进行真实性、安全性、合法性等审核，<strong>建立信用管理制度</strong>，并向所在地省、自治区、直辖市互联网信息办公室<strong>分类备案</strong>。</p>
-<p>（二）督促应用程序提供者保护用户信息，完整提供应用程序获取和使用用户信息的说明，并向用户呈现。</p>
-<p>（三）督促应用程序提供者<strong>发布合法信息内容</strong>，建立健全安全审核机制，配备与服务规模相适应的专业人员。</p>
-<p>（四）督促应用程序提供者发布合法应用程序，尊重和保护应用程序提供者的知识产权。</p>
-<p>对违反前款规定的应用程序提供者，视情采取警示、暂停发布、下架应用程序等措施，保存记录并向有关主管部门报告。</p>
-<p>第九条 互联网应用商店服务提供者和移动互联网应用程序提供者应当签订服务协议，明确双方权利义务，共同遵守法律法规和平台公约。</p>
-<p>第十条 移动互联网应用程序提供者和互联网应用商店服务提供者应当配合有关部门依法进行的监督检查，自觉接受社会监督，设置便捷的投诉举报入口，及时处理公众投诉举报。</p>
-<p>第十一条 本规定自2016年8月1日起施行。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E7%BD%91-%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%8F%91%E5%B8%83%E3%80%8A%E7%A7%BB%E5%8A%A8%E4%BA%92%E8%81%94%E7%BD%91%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%BF%A1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95%E5%88%86%E5%AD%90/?category=18271" rel="tag">不法分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E7%AE%A1/?category=18271" rel="tag">主管</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF/?category=18271" rel="tag">互联网信息</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E6%9D%83/?category=18271" rel="tag">产权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/?category=18271" rel="tag">信息安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">危害国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E5%8A%9E/?category=18271" rel="tag">国家互联网信息办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/?category=18271" rel="tag">法律法规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84/?category=18271" rel="tag">违法违规</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -774,7 +793,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -784,5 +803,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

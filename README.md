@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%88%B1%E6%80%9D%E6%83%B3%EF%BD%9C%E8%AE%B8%E5%B0%8F%E5%B9%B4%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%BF%B9%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%B1%E7%81%B5%EF%BC%9F/" target="cdt-mirror">爱思想｜许小年：中国奇迹为何突然失灵？</a>
@@ -82,7 +82,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%BF%B9/?category=18271" rel="tag">中国奇迹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9B%E7%BB%99%E4%BE%A7%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">供给侧改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B8%E5%B0%8F%E5%B9%B4/?category=18271" rel="tag">许小年</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%9E%97%E8%8D%A3%E5%9F%BA%E7%A7%B0%E8%A2%AB%E8%B7%9F%E8%B8%AA%E5%8F%97%E5%A8%81%E8%83%81%E3%80%80%E7%BC%BA%E5%B8%AD%E4%B8%83%E4%B8%80%E5%A4%A7%E6%B8%B8%E8%A1%8C/" target="cdt-mirror">博谈网｜林荣基称被跟踪受威胁　缺席七一大游行</a>
 </h2>
@@ -592,7 +592,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">宣传机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E5%A4%A7%E6%9E%97/?category=18271" rel="tag">斯大林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E7%B2%B9/?category=18271" rel="tag">纳粹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BD%93%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">集体主义</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E7%8E%8B%E7%A7%80%E8%8B%B1%E5%86%99%E4%BF%A1%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E4%B8%AD%E5%85%B1%E5%90%88%E6%B3%95%E6%80%A7%E9%97%AE%E9%A2%98/" target="cdt-mirror">【此贴必火】王秀英写信给习近平谈中共合法性问题</a>
 </h2>
@@ -894,7 +894,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -904,5 +904,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

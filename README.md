@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,576 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC-%E9%99%88%E8%8D%9F%E6%A5%A0%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%A5%96%E5%9B%BD%E4%BD%A0%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E6%98%AF%E9%94%99%E5%9C%A8/" target="cdt-mirror">墙外楼 | 陈荟楠：“没有祖国你什么都不是”错在哪？</a>
+</h2>
+<p><p>导语：今天上午，我在朋友圈转发了王思想的一篇博文《没有我，祖国什么都不是！》，结果有朋友在后面留言，表示很不同意此文的观点。一个朋友说要我“看看欧洲难民再想想这个狗屁文章”，“没有祖国个人狗屁都不是”。另一个朋友说：“写这个文章的人为什么不去利比亚体验下没有祖国的生活？”说的都是同一个问题。我写了一篇文章作为回应，并在文后附上王思想的文章，请感兴趣的朋友一阅。此文其实还有很多话没有说清楚，也没有分析为什么中东、利比亚的人们流离失所，但我想真看懂此文的人，也许能自己去分析这些问题的。以后有机会也许可以再聊聊。</p>
+<p><strong>“没有祖国你什么都不是”错在哪？</strong></p>
+<p>陈荟楠</p>
+<p>某某，你对那篇文章的观感，只能说明你看问题比较表面，提出的问题也比较表面。“看看欧洲的难民”，首先，这个表述就有问题。哪里的难民？是中东的难民，涌入了欧洲。为什么中东会有难民？某些人会说是因为西方的干涉导致的，但我希望你不要这样认为。这样回答也非常肤浅。当然，我今天不想讨论这个问题。还是讨论我们的正题。</p>
+<p>表面上看，这些难民是因为缺乏了国家的保护，才沦为难民的。因而你轻而易举地得出“没有祖国你什么都不是”的结论，但这只看到了逻辑的最后一环。</p>
+<p>自由主义、个人主义并不是无政府主义，从洛克开始，就承认国家存在的必要。国家之所以应该存在，就是因为没有国家，人和人之间的斗争很难平息，因而个人权利也不能得到保护。因此，每个人让渡出一部分权利，建立国家，保护人们的权利。</p>
+<p>从国家诞生的过程来看，就知道国家本身并不是目的，只是手段，它是保护个人权利的工具。是先有个人才有国家，而不是先有国家才有个人。</p>
+<p>在人类历史上，遗憾的是，大多数时候国家并未很好的履行保护个人权利的责任。国家机器被少数人所控制，用来镇压和剥削人民。虽然国家在内部维持了一定程度上的和平，也有它的好处。但它对个人权利的侵犯却往往使他它走向人们建立国家的初衷的对立面（当然，这里也有一个程度的问题）。如果国家对个人权利的侵犯达到了一定的程度，那么，人民推翻它就有必要了。</p>
+<p>“没有祖国你什么都不是”，就错在了颠倒了个人与国家的关系。国家是为个人存在的，个人不是为国家存在的。没有国家，个人可以组建国家（就像当年的美国，先是开拓者自发创建了一个个的殖民地，后来英国政府才派来官员管理，但当大家发现英国并未保护他们的利益反而压迫他们时，他们居然起来斗争，抛弃了他们的“祖国”，建立了新的“祖国”）；没有个人，就根本不可能有国家。</p>
+<p>“没有祖国你什么都不是”，还错在先入为主的设立一个前提，那就是所有国家都是好的，都能保护我们。但这明显是不成立的前提。当年，爱因斯坦逃离了他的祖国，索尔仁尼琴被驱逐出他的祖国，此时的祖国扮演了什么角色呢？在那些想尽办法也要翻越柏林墙的东德人、冒死也要偷渡到香港的六七十年代的中国人、还有如今拼了命也要逃跑的朝鲜人，他们的祖国在哪里呢？对于那些受到祖国保护的人来说，说一句“没有祖国你什么都不是”当然可以理解，但如果那些遭受祖国迫害的人，也说出这样的话，那不是神经错乱吗？</p>
+<p>“没有祖国你什么都不是”，错在不能历史地看问题。祖国是什么？如果是指生我养我的这片土地（matherland），那它或许是对的。因为人不能离开土地，也就是不能离开具体的自然环境而存在。但如果从这个意义上讲，哪儿才是我们的祖国？地球才是！我们只是凑巧生在了地球的某个角落。你生在湖北，我生在湖南；你生在中国，他生在美国。这些都不过是地点的不同。是否就因为生在哪里就要爱哪里呢？肯定不是的，哪里能给我更好的生活，我会更爱哪里。（一般来说，出生地对每个人有着重要意义，大家对它的感情会更为深厚，但并没有一个确定的理由要求我们一定要爱出生地，而如果我们移民到一个更好的地方，在那里生活了更长的时间，我们完全有理由更爱这个地方）而我会爱我们共同的祖国“地球”，因为没有它，就肯定不会有我。</p>
+<p>而现在说“没有祖国你什么都不是”的人，他的意思肯定不是我上面的意思。他指的就是国家，就是政府。但如果历史地看，国家是从来就有的吗？国家不会改变吗？当然不是，国家一直在变，有的国家诞生了，有的国家灭亡了，有的国家虽然名字还是那个名字，但并不是原来的国家。请问，我们说的祖国，究竟是秦时的祖国，还是唐时的祖国？你爱的，是大明，还是大清？都不是吧！你说是现在的祖国，可现在的祖国也天天在变化。从长远的时间段看，它也不过跟大清大明一样，只是一个历史的存在。不仅国家如此，人类也如此，地球也如此，没有什么东西是永恒的。</p>
+<p>你可以爱国，但不能强迫所有的人都爱国。就有理性的人来看，我们爱不爱国，还要看这个国家爱不爱我们。一个个人权利得到充分保护的国家，它的公民当然会发自内心地爱它；相反，个人权利遭到践踏的国家，配不上人民的爱。</p>
+<p>也许下面这个故事很能给人一些启发。1945年5月2日，德国投降的前一晚，被纳粹法庭以叛国罪判处死刑的马克·尼姆被德军枪杀。按照他的遗愿，人们在他墓碑上写下这样一行字：“当你的祖国被独裁所统治，‘叛国罪’是对你最荣耀的评判。”</p>
+<p>“哪里有自由，哪里就是我的祖国。”这句话比“没有祖国你什么都不是”包含了更多的真理。当年在北美登陆的受迫害的清教徒，将他们的“祖国”抛在了脑后，并不妨碍他们创建属于自己的“祖国”。而今天中东的难民，不也一样离开了那个不适合居住的“祖国”，到了一个若干年之后他们也会称之为“祖国”的地方吗（如果他们能够长期留下来的话）？</p>
+<p>附文：</p>
+<p><strong>没有我，祖国什么都不是！——我的个人主义宣言</strong></p>
+<p>王思想/文</p>
+<p>如今的媒体，一点不长进，骗人的水平跟不上时代的步伐。现在都网络时代了，骗人的水平还停留在几十年前，发的那些文章丢脸丢到屁股缝里了。或者换个思路，也许真如环球某报胡**私下里所说，他是故意玩无间道，他其实是卧底？</p>
+<p>最近，某报刊发《没有祖国你什么都不是》，可谓奇文。</p>
+<p>一如既往，该文署的是笔名。中国许多臭名昭著的文章，都是以笔名的面目出现，或者，作者想为自己保留一丝暗地里的尊严？别拿鲁迅当借口，鲁迅是笔名，但大家都知道鲁迅是谁，而当年那些“梁效”的文章，谁敢承认是自己写的。就连余秋雨先生，这位文革干将，也要把自己打扮成文革受害者呢。</p>
+<p>从2006年刚写博客起，我就反复写文章批判爱国主义。当时不被多数人理解，如今，从博客和微博的反应来看，骂我的人越来越少了。越来越多的人看透了爱国主义破布下面的肮脏欺骗。</p>
+<p>关于爱国主义，我简单说一下我的一贯观点：民族扯淡，国家更扯淡，民生最重要。祖国，多少罪恶假汝之名！没有人哪有国，自由至上，人权比主权重要1万倍，民主比反日重要1万倍。反日分子是脑残。祖国没有生日。</p>
+<p>仅仅批判爱国主义是不够的，人民需要更进一步的提升，现在，时机已经成熟，我们需要响亮地提出一个口号：【没有我，祖国什么都不是！】这是我作为个人主义者发出的一次个人宣言。</p>
+<p>过去，人民没有话语权，只能接受单方面灌输，那些灌输者试图让人们信箱，自由主义就是自由散漫，个人主义就是自私自利，沾他人便宜。现在，21世纪，互联网时代，人们不想再受愚弄。我们必须结束自由主义、个人主义被那些集体主义分子极端妖魔化的状况。</p>
+<p>以胡适先生为旗手建立的现代中国自由主义，历经苦难，仍然顽强生存。现在，中国大陆自由主义以刘军宁先生为旗手，自由主义思潮被越来越多的知识阶层所认识，并接受。而作为自由主义的基础，个人主义这个概念尚未被多数人理解接受。被皇权和现当代专制打压了几千年的个人主义也要在这片苦难的土地上生长。我们必须发出旗帜鲜明的呐喊。</p>
+<p>自由主义和个人主义的核心价值观其实一样，都是强调自由选择权。而他们的对立面，集体主义、爱国主义，强调的是服从，让个体去奉献、牺牲，以便当权者享受他人奉献、牺牲后的利益。可以说，集体主义和爱国主义是非常卑鄙的。</p>
+<p>我们要揭穿《没有祖国你什么都不是》这种文章背后的阴暗用意。我们要让人们知道：祖国所处的山川已经矗立几万几十万年，河流一直流淌，朝代陆续灭亡，朝廷如同云烟，统治者奉天承运难逃灭亡。而所谓祖国的建设成就，所谓光辉灿烂的文化，是这片土地上的人民创造的，有很多文化成果干脆就是生长在另一块土地上的人民，即所谓外国人，是他们传来的，我们感谢他们。中外人民共同创造了人类的文明，很多已经分不清是哪个国家的人民创造的，都是人类文明，少跟我扯什么祖国。</p>
+<p>【多数人的祖国早就灭亡了】欧洲国界变化了多少次，历史学家都数不过来；中国国界变化了多少次？13亿人，祖国至少几百个：齐楚燕赵魏韩，秦，汉，匈奴，唐，突厥，宋，契丹，辽，金，蒙元，鞑靼，后金……</p>
+<p>祖国灭亡了，灭就灭吧。旧的不去，新的不来。我们为旧祖国的灭亡欢呼。我们关心的人是人类的生存，甚至生物界的生存，对大自然的感恩与保护。至于某些人口中的祖国，见鬼去吧。</p>
+<p>流氓学者将个人主义等同于利己主义。事实却是，个人主义与利己主义的交集，远小于爱国主义和集体主义与利己主义的交集。想想我们遭受的欺骗，想想那些悲惨的历史。如果我们今天还被骗子所欺骗，我们就太蠢了。那些叫嚣集体主义、爱国主义最卖力的人，就是那些骑在我们头上压榨、掠夺我们的人。</p>
+<p>个人主义的对立面，是集体主义、爱国主义，这种对立面还不是完全的敌我关系。个人主义的敌人，是法西斯主义。某些人一边妖魔化个人主义，一边偷换法西斯主义概念。一些被他们洗脑的人甚至以为打人骂人就是法西斯主义。请问天下哪可能有这么弱智的主义？可大家多少年来竟然就相信了。</p>
+<p>【99%中国人不知道：什么是“法西斯主义”】 法西斯主义强调国家优先，以爱国主义和集体主义压制个人自由，要求人民服从某党或政府，最典型口号是两个：一是“个人服从集体，集体服从领袖”，一是“团结就是力量”。团结就是力量，多么熟悉的字眼。文革时候流行一首歌曲，就叫《团结就是力量》，曲调声嘶力竭，歌词更是变态，里面有句歌词是“向着法西斯蒂开火，让一切不民主的制度死亡”——太分裂，太变态了。</p>
+<p>某些机构总试图玩弄《没有***就没有***》的花招，即便在今天换个新说法，也一样被人识破。</p>
+<p>集体主义、爱国主义对我都不重要，“但是，没有你，对我很重要”，姜文的《让子弹飞》是一部可以载入史册的电影。</p>
+<p>请不要以祖国的名义强拆公民的房屋，请不要以祖国的名义不许公民说话，请不要以祖国的名义强奸公民的意愿，请不要以祖国的名义限制公民的自由，请不要《没有祖国你们什么都不是》来侮辱我们。</p>
+<p>没有人民，祖国什么都不是，统治者更是什么都不是。对于我们每个个体来说，没有我，祖国什么都不是。我们可以尊重国家主权，国家必须尊重人权。注意，一个是可以，另一个必须。人权的分量大大高于主权，永远高于主权。</p>
+<p>你有权爱国，我尊重你的权利。但你如果拿爱国主义来诱骗我，你就是流氓。</p>
+<p>我有权不爱国，这是天赋人权，谁也无权干涉我。</p>
+<p>当个人主义被人们理解的时候，中国人民就能迎来正常的、幸福的生活。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC-%E9%99%88%E8%8D%9F%E6%A5%A0%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%A5%96%E5%9B%BD%E4%BD%A0%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E6%98%AF%E9%94%99%E5%9C%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">个人主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">国家主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%A4%96%E6%A5%BC/?category=18271" rel="tag">墙外楼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">自由主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E8%8D%9F%E6%A5%A0/?category=18271" rel="tag">陈荟楠</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90cdtv%E3%80%91%E6%AF%94%E8%B5%B7%E3%80%8C%E6%AE%8B%E9%85%B7%E5%86%9C%E6%9D%91%E3%80%8D%EF%BC%8C%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%BA%95%E5%B1%82/" target="cdt-mirror">【CDTV】比起「残酷农村」，这才是中国的底层</a>
+</h2>
+<p><p>CDTV推荐纪录片《麦收》，墙内B站链接请<a href="http://www.bilibili.com/video/av2715293/">点击这里</a>。</p>
+<p>如果您在墙内无法看到YouTube上的视频, 请<span><a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a></span>使用BitTorrent Sync (Sync) 下载观看。</p>
+<blockquote><p><span>片名</span>: <span>麦收</span><br><span>导</span><span>演</span>: <span>徐童</span><br><span>编剧</span>: <span>徐童</span><br><span>类型:</span> 纪录片<br><span>制片国家/地区:</span> 中国大陆<br><span>语言:</span> 汉语普通话<br><span>上映日期:</span> 2008<br><span>片长:</span> 99分钟<br><span>又名:</span> Wheat Harvest</p></blockquote>
+<p></p>
+<p><strong>以下文字来自微信公号<a href="http://mp.weixin.qq.com/s?__biz=MjM5MTIwNTYwMg==&mid=2654534574&idx=1&sn=39bfa061d3caa9354308b1d3c996e9d5&scene=1&srcid=06142Ld2JkN6Udvoufp5eU4j&from=singlemessage&isappinstalled=0#wechat_redirect">毒舌电影</a>（dsmovie）：</strong></p>
+<p>相信不少人最近的朋友圈，都被一篇名为《残酷底层物语，一个视频软件的中国农村》的文章刷屏。</p>
+<p>文章开头就下个定论——</p>
+<p>不必去走访农村，只要扒拉扒拉这个app，就能了解中国乡村的精神面貌了。</p>
+<p>在这个app上，有各种怪诞的图片，视频。</p>
+<p>河北大妈自虐吃灯泡，蠕虫，玻璃……</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%889.58.07.png?resize=498%2C330" alt="Screen Shot 2016-07-02 at 下午9.58.07" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午9.58.07.png?w=498 498w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午9.58.07.png?resize=300%2C199 300w" sizes="(max-width: 498px) 100vw, 498px" data-recalc-dims="1"></p>
+<p>鞭炮炸裤裆。</p>
+<p>文章用一波波骇人听闻的语言和图片，让看的人都坐不住。</p>
+<p>看完上文的自虐篇，你以为最残酷的就是生吃玻璃、蛆、屎吗。<br>
+错，里面更让人难受的是农村儿童的精神面貌。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%889.59.06.png?resize=345%2C475" alt="Screen Shot 2016-07-02 at 下午9.59.06" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午9.59.06.png?w=345 345w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午9.59.06.png?resize=218%2C300 218w" sizes="(max-width: 345px) 100vw, 345px" data-recalc-dims="1"></p>
+<p>无数人被这样的“农村真相”震惊了。</p>
+<p>转！</p>
+<p>然而，一天不到，这篇文章的弊端就被不少网友指出来。</p>
+<p>比如，农村人口有6亿以上，但app覆盖的，只是日活总量一千万的用户（还不全是农村用户）。</p>
+<p>行文中，也存在“选择性看见”。</p>
+<p>作者看到的，（只）是他所关注的快手账号。</p>
+<p>且，在叙述怪诞的现象的同时，全篇没有出现任何当事人声音。</p>
+<p>这样一篇文章，究竟是真心关注，还是高度猎奇？</p>
+<p>Sir今天，想用一部纪录片来尝试回应。</p>
+<p>徐童导演的——</p>
+<p><span><strong>《麦收》</strong></span></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%8810.00.08.png?resize=535%2C356" alt="Screen Shot 2016-07-02 at 下午10.00.08" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.00.08.png?w=535 535w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.00.08.png?resize=300%2C200 300w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></p>
+<p>这是一个关于妓女的故事。</p>
+<p>同行对它的评价是——“生猛、鲜活”。</p>
+<p>光看开头，你会觉得《麦收》有猎奇嫌疑。</p>
+<p>片中对北京郊区妓女生活的呈现，太直接。</p>
+<p>她们接待的嫖客，都是最普通的打工者。</p>
+<p>工作辛苦，身边又没女人，一寂寞就往洗头房里钻。</p>
+<p>价格低得惊人。</p>
+<p>打一炮，100块；</p>
+<p>陪着睡一晚上，300块。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%8810.01.04.png?resize=572%2C381" alt="这是他们办事的炮房" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.01.04.png?w=572 572w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.01.04.png?resize=300%2C200 300w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"><p>这是他们办事的炮房</p></div>
+<p>片子开头，有这么一幕——</p>
+<p>几个妓女聚在一起，描述她们接待过的男人。</p>
+<p>内容让Sir这样的老司机都脸红。</p>
+<p>有的男人包了夜，又做得快。</p>
+<p>于是，通宵不睡觉。</p>
+<p>像动物一样，摸，摸，摸遍全身。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0.gif?resize=265%2C191" alt="他就这样捏捏捏（指胸前）" data-recalc-dims="1"><p>他就这样捏捏捏（指胸前）</p></div>
+<p>房间完全不隔音。</p>
+<p>里面的呻吟，叫床声，外面听得清清楚楚。</p>
+<p>羞耻？</p>
+<p>她们完全不当回事。</p>
+<p>聚在一起，八卦各自接待的男人，什么细节都说。</p>
+<p>镜头也毫不避讳。</p>
+<p>拍下她们的每个动作，吐出的每个脏字。</p>
+<p>直到，主角洪苗的出现，我们开始深入这个群体的日常。</p>
+<p>洪苗格外强悍。</p>
+<p>她出生在河北定兴县，父母都是农民。</p>
+<p>在同龄的城市女孩还在上学，找工作时，她就得肩负养家的责任。</p>
+<p>刚到北京，还不到20岁。</p>
+<p>在熟人开的一家小店里借宿，一张沙发，一张床，算是开了头。</p>
+<p>文人喜欢将妓女比作落花，游莺；</p>
+<p>但当你见到在脏兮兮的炮房讨生活的洪苗，你一定不会有如此浪漫的幻想。</p>
+<p>住零装修的毛坯房，用最简陋的化妆品。</p>
+<p>画眉直接用一根烧焦的棉签。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0-1.gif?resize=265%2C191" alt="0 (1)" data-recalc-dims="1"></p>
+<p>很可怜？</p>
+<p>并不是。</p>
+<p><strong><span>洪苗天生心大。</span></strong></p>
+<p>“敢想，还有胆子，想到什么立马就去干。”</p>
+<p>在重男轻女的农村，很少有爸爸会服自己女儿。</p>
+<p>但洪苗爸爸提起她，声音立马高八度。</p>
+<p>她是个能人，我特别佩服她。</p>
+<p>洪苗确实不简单。</p>
+<p>跟嫖客打交道，她有自己一套。</p>
+<p>要是不想干，无论对方怎么发火，软磨硬泡，她都不松口。</p>
+<p>口气还凶得很</p>
+<p>她还很乐观。</p>
+<p>老笑，露出脸上狭长的酒窝。</p>
+<p>瞒着亲人卖性，但在其他人面前，会拿这个开玩笑。</p>
+<p>学男人的样子，假装摸姐妹的屁股。</p>
+<p>调戏姑娘。</p>
+<p>大家聊天，说男人都喜欢给处女开苞，开一次愿意掏一万块钱。</p>
+<p>她在旁边打趣——那我也去卖初夜。</p>
+<p>姐妹们取笑她，你还有什么初夜可卖啊，卖了那么多次了。</p>
+<p>她也不生气，只是咪咪笑。</p>
+<p>干这一行，谁都可以来挤兑她一下，开两句黄色玩笑。</p>
+<p>但这并不意味她听不懂侮辱。</p>
+<p>片中她唯一一次发火，是有次吃烧烤，旁边的男人对着她说了一句：让她歇逼吧。</p>
+<p>她的脸色一下子变得很难看，逼视对方。</p>
+<p>你再把那话重复一遍。</p>
+<p>对方坐不住，走了。</p>
+<p><span><strong>她也有她的底线。</strong></span></p>
+<p>洪苗偶尔还会去KTV找鸭（男妓）。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0-2.gif?resize=313%2C179" alt="0 (2)" data-recalc-dims="1"></p>
+<p>跟他们挤在一起。</p>
+<p>家人依靠她。</p>
+<p>不知道她在外面做的营生，但她每次带回家的一大叠的百元钞票养活了全家人。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%8810.04.56.png?resize=567%2C380" alt="Screen Shot 2016-07-02 at 下午10.04.56" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.04.56.png?w=567 567w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.04.56.png?resize=300%2C201 300w" sizes="(max-width: 567px) 100vw, 567px" data-recalc-dims="1"></p>
+<p>还有个原本是嫖客的男朋友，很粘她。</p>
+<p>无论何时，洪苗都一副胸有成竹的样子，从没听她叫过苦。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0-3.gif?resize=307%2C205" alt="0 (3)" data-recalc-dims="1"></p>
+<p>过一天，是一天，把日子跟米饭一块咽下去。</p>
+<p>所以，看《麦收》，Sir有一个强烈感觉——</p>
+<p>她们并没有活在一个离我们很远的世界。</p>
+<p>妓女这个自带话题的群体第一次褪去神秘。</p>
+<p>她们出卖皮肉，但不全是苦情。</p>
+<p>她们活在社会的边缘，但也没有以抗争的姿态。</p>
+<p>甚至——</p>
+<p>我们跟她又有什么差别？</p>
+<p>出卖劳力，赚一份工资，每月按时寄钱给家里，有朋友八卦，有对象取暖……</p>
+<p>比起那些同样以妓女为选题的电影。</p>
+<p>《麦收》的性工作者，活得太正常了。</p>
+<p>这样一部“剑走偏锋”的电影，注定从拍出来后，就争议不断。</p>
+<p>在香港放映时，曾有市民举牌反对，认为导演在“强暴弱者”。</p>
+<p>一篇报道中曾这样叙述——</p>
+<p>一知识女性颇有不甘：她怎能这么阳光呢？！难道真的没有心理问题？这很让我沮丧！</p>
+<p>对此，导演徐童回应——</p>
+<p>从自己心里头挖掉道德优越感，才能根本上瓦解掉道德焦虑。</p>
+<p><span><strong>同情，有时候其实是对弱者的偏见。</strong></span></p>
+<p>之所以这么认为，或许因为徐童从来平等地看待自己和每一个人。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%8810.06.19.png?resize=424%2C281" alt="Screen Shot 2016-07-02 at 下午10.06.19" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.06.19.png?w=424 424w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.06.19.png?resize=300%2C199 300w" sizes="(max-width: 424px) 100vw, 424px" data-recalc-dims="1"></p>
+<p>他最有名的作品，是“游民三部曲”。</p>
+<p>《麦收》《老唐头》《算命》</p>
+<p>游民是啥？</p>
+<p>妓女、嫖客、流氓、白痴、包工头、地下乐手……</p>
+<p>是背井离乡，没有社会保障，甚至很多时候连一个合法身份都没有的边缘人。</p>
+<p>靠走江湖卖艺，走偏门谋生。</p>
+<p>有人称他们为“中国改革期的阵痛”。</p>
+<p>而徐童本人，也好不到哪去——</p>
+<p>“远看艺术家，近看也就是个游民。”</p>
+<p>中国传媒大学摄影系毕业后，一直在社会上混。</p>
+<p>广告，平面设计，开公司都干过，但一直找不到自己的路。</p>
+<p>穷得响叮当，在北京搬了一次又一次家。</p>
+<p>住过大杂院，城乡结合部，还有燕郊。</p>
+<p>就这样，他认识了一大帮穷哥们儿，算命的，开按摩店的…</p>
+<p>一开始，他觉得，自己怎么混得这么惨啊，特郁闷。</p>
+<p>但越接触，越发现，大学毕业的自己，跟这些人又有什么区别？</p>
+<p><span><strong>你首先是个人。</strong></span></p>
+<p><span><strong>人都一样，有梦想，但得先活着。</strong></span></p>
+<p>因为往来都是哥们儿，所以他拍纪录片，比别人更近。</p>
+<p>“拍纪录片的导演是墙上的苍蝇”这个理论在他看来，纯属扯淡。</p>
+<p>他要的，是做拍摄对象的“自己人”。</p>
+<p>出现在他的两部片中的按摩店老板唐小雁曾说过——</p>
+<p>老公老婆都是暂时的，说不定明天就换了，哥们儿才是长久的。</p>
+<p>徐童在他的拍摄对象眼里，就是哥们儿。</p>
+<p>在《麦收》里，经常镜头离人只有30公分，从下往上拍。</p>
+<p>洪苗给男朋友打电话时，镜头都快贴到她脸上。</p>
+<p>拍摄时，洪苗的男朋友帮着扛三脚架。</p>
+<p>在镜头前，对女友絮絮叨叨：</p>
+<p>这个是TC125（机器），塔帽底下的那个小房子，里面就是我们工作人员的驾驶位置。</p>
+<p>到后来，都有点不像跟拍了。</p>
+<p>徐童开车送洪苗回河北老家，还帮着送她病危的爸爸去医院。</p>
+<p>某种程度，徐童已经完全融入了游民群体。</p>
+<p>有两个细节让Sir印象深刻。</p>
+<p>一个是，当洪苗的男朋友站在熟悉的工地，向导演介绍他工作的地方时。</p>
+<p>这个瘦弱的男人，脸上有了不一样的神采。</p>
+<p>另一个是。</p>
+<p>当常年漂泊在外的洪苗回到老家，光着脚丫站在土里，播种粮食——</p>
+<p>表情从未有过的安定。</p>
+<p>这就是《麦收》打动人的地方。</p>
+<p>在《麦收》里，你既看不到那些强硬的价值判断，也不见对现实花俏的隐喻。</p>
+<p>徐童像个笨拙而老实的手艺人。</p>
+<p><span><strong>他做的，只是尽可能把血肉相连的生活，精确地推送到我们面前。</strong></span></p>
+<p>也因为离得够近。</p>
+<p>我们得以看清那些被学者，媒体忽视的日常。</p>
+<p>影片结尾——</p>
+<p>父亲住进危重病房，脑子里的血管没了两根；</p>
+<p>洪苗一个人跑到窗边去抽烟，抽得很凶，一堆烟蒂。</p>
+<p>不久后，男朋友在她回家的时候，偷偷跟另外一个妓女好上，打电话来跟她分手。</p>
+<p>我只是你生命中的一个过客。</p>
+<p>双重打击下，她第一次在镜头前，垮了。</p>
+<p>这场哭泣持续了很久，把自己积压很久的情绪都翻出来。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%8810.07.39.png?resize=555%2C380" alt="Screen Shot 2016-07-02 at 下午10.07.39" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.07.39.png?w=555 555w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.07.39.png?resize=300%2C205 300w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"></p>
+<p>哭过以后，她把所有的钱都贴给家里，自己揣着一百块钱回到北京。</p>
+<p>画面黑掉，她唱起了自己最喜欢的《阿里山姑娘》。</p>
+<p>整部电影，洪苗从来没对着镜头说，自己为什么要去做妓女。</p>
+<p>这不是徐童要的——</p>
+<p>现在的年轻人更多的是关注自己的感受，但当你对自己的认识已经足够饱满了，你就会发现你自己的经历只是去了解别人的一个拐棍，一个桥梁，更重要的是关注别人的生命。</p>
+<p>也正因为这份理解，《麦收》值得推荐。</p>
+<p>好电影的功能不是给你答案，是予你思考。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90cdtv%E3%80%91%E6%AF%94%E8%B5%B7%E3%80%8C%E6%AE%8B%E9%85%B7%E5%86%9C%E6%9D%91%E3%80%8D%EF%BC%8C%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%BA%95%E5%B1%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%AB%A5%E5%AF%BC%E6%BC%94/?category=18271" rel="tag">徐童导演</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%B7%A5%E4%BD%9C%E8%80%85/?category=18271" rel="tag">性工作者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E9%BA%A6%E6%94%B6%E3%80%8B/?category=18271" rel="tag">纪录片《麦收》</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81/" target="cdt-mirror">【麻辣总局】变态辣椒：生日快乐！</a>
+</h2>
+<p><p>变态辣椒（‏<a href="https://twitter.com/remonwangxt/status/748696276984672256">@remonwangxt</a>）：<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmPnSiuUEAE9Gwm.jpg?resize=550%2C422" alt="CmPnSiuUEAE9Gwm" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmPnSiuUEAE9Gwm.jpg?w=1000 1000w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmPnSiuUEAE9Gwm.jpg?resize=300%2C230 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmPnSiuUEAE9Gwm.jpg?resize=768%2C589 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%80%E5%BB%BA%E5%85%9A%E8%8A%82/?category=18271" rel="tag">七一建党节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%B6%E6%94%BF%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">时政漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80/?category=18271" rel="tag">麻辣总局</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%83%E4%B8%80%E6%B8%B8%E8%A1%8C%EF%BC%8C%E4%BB%8E%E7%A4%BE%E8%BF%90%E8%AE%B8%E6%84%BF%E6%A0%91%E9%87%8D%E5%9B%9E%E6%94%BF%E6%B2%BB/" target="cdt-mirror">端传媒 | 七一游行，从“社运许愿树”重回“政治运动”</a>
+</h2>
+<p><p>作者：刘细良，香港跨媒体时事评论员，曾任职民主党智囊，其后从事传媒，曾任香港政府属下的香港中央政策组全职顾问</p>
+<p>今年最大的分别不是人数，而是七一游行重新回到起初的政治性活动。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8A%E5%8D%8810.11.01.png?resize=555%2C369" alt="民间人权阵线发起的七一游行正式由维园出发。摄:吴炜豪/端传媒" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午10.11.01.png?w=555 555w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午10.11.01.png?resize=300%2C199 300w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1">民间人权阵线发起的七一游行正式由维园出发。摄:吴炜豪/端传媒</p>
+<p>香港“七一游行”由2003年反对《基本法》23条立法、“倒董”（要求特首董建华下台）开始，到今年经已是第14回。曾几何时，董去曾（曾荫权）来，由2005年起，参加人数急跌至民阵公布的二万，此后一直在低位徘徊，而七一游行也变了社运团体的“许愿树”，由原本政治性运动变成公民社会活动。</p>
+<p>直至2012年梁振英上台，人数突然大幅增加至四十多万。2014年底爆发“雨伞运动”，占领78日后以清场作结。民主运动短期目标全部落空，本土派抬头声称要“拆大台”，年轻人将愤怒指向香港传统民主运动的集团：香港专上学生联会（学联）、民主党、支联会、职工盟、教协及被指为“左胶”的社运团体。反建制阵营内部分裂，社运陷入低潮，失败主义抬头，市民认为无论如何，梁振英不会下台，共产党也不会改变强硬政策，2015年七一游行人数，民阵宣布是48000人，比2014年减少达九成！</p>
+<p><strong>内地批游行僭越“一国两制”</strong></p>
+<p>2016年7月1日，酷热当空，我站在湾仔天乐里帮手做广播，见到一层又一层密密麻麻的人群走过，认识的朋友会挥挥手、打个招呼。我观察到有很多中年人，没有大量团体的旗帜及标语，跟2012、13年有分别，而人数也明显是比去年多。民阵宣布有11万人，是去年人数的一倍有多。</p>
+<p>今年最大的分别不是人数，而是七一游行重新回到起初的政治性活动，本来带头的三人是林荣基、程翔及刘山青，是不同年代因政治原因被内地囚禁的香港人，最后关头林荣基指自己人身安全受威胁而宣布不参加游行。</p>
+<p>而内地《环球时报》在6月29日发表<a href="http://opinion.huanqiu.com/editorial/2016-06/9096283.html">社评</a>，指由三人领带游行“给这一活动染上了对抗内地政治制度和司法体系的色彩。”该报又指出，“香港反对派本来应当主要围绕特别行政区的高度自治事务开展政治活动，对内地事务采取谨慎的建设性态度为宜，不能将香港这座城市变成攻击内地现行政治体制和法律制度的策源地。然而实情是，香港的反对派政治越来越从内部指向转为以内地和中央为攻击目标，他们有把自己从高度自治下的区域性反对派变成‘全中国反对派’的倾向。”</p>
+<p>同一时间，港澳办主任王光亚接受<a href="http://hk.zijing.org/2016/0630/706457.shtml">《紫荆》访问</a>，批评泛民中有些人的行为，常希望在内地变革中扮演某程度角色，企图利用香港给国家制造麻烦，是僭越“一国两制”。</p>
+<p>这些内地言论，是冲著今年七一而来。香港人见到“铜锣湾书店”事件，已经有所忧虑，直至林荣基回港公开揭露自己被囚宁波的细节，更震撼香港人心，深感自由受到前所未有的威胁，香港特区政府亦无法保护人身安全。</p>
+<p><strong>从不满特区施政到针对内地威胁</strong></p>
+<p>原本民阵定下“决战689”为游行主调，也要因应时势，决定由三人带队。然而，内地眼中见到的是七一游行出现了“质变”。</p>
+<p>七一的传统，是针对特区内部事务，即使“倒董”、“倒梁”也好，都是冲著特区施政而来。2003、04年民众对董建华施政的不满，也没有升级变成反对支持董建华的北京中央政府，群众反而是要求“皇上英明”赶走董建华。但今年七一主调，变成铜锣湾书店事件及林荣基，直接冲著内地而来。过去十年，内地及特区政府对七一游行均已经统一了回应口径，就是将其政治性一面刻意淡化，定性为嘉年华会式许愿树，指各方团体有不同政策性诉求，政府会聆听社会不同意见云云。</p>
+<p>然而，今年因林荣基被囚细节公开， 香港人直面大陆政权的威胁，而特区政府又唯命是从，什么通报机制全属谎言，内地一方根本是为所欲为。这在政制民主化之外，开启了另一个中港矛盾战场。七一游行由此变成以针对内地威胁一国两制、香港自由为焦点。这情况其实早在2012年梁振英当选翌日拜访中联办那张照片刊登后已开始，香港人察觉到高度自治逐渐消失。自九七以来，特区政府在中港之间一直扮演缓冲角色，中央隐身特区政府之后，中港矛盾变成特区内部矛盾。</p>
+<p>但梁振英上场后，特区政府形象变了中央傀儡，市民对其政治信任急跌，缓冲角色消失，香港人开始对“ 赤化”存在忧虑，而内地亦一改过往在中港矛盾上的低调作风，党报喉舌频频“亮剑”，批评香港人、煽风点火。香港人在焦虑以外，加多了一层愤怒。在铜锣湾书店事件中，那些电视认罪、回港销案的演出，香港人早已看在眼里，林荣基回港“爆大镬”（将真相曝光），焦虑最后变成了愤怒。</p>
+<p>九月立法会选举在即，从泛民及建制派已经开展的宣传所见，本来泛民主打是反对梁振英连任，将选举比作对梁连任的公投，而建制派则突出其阵营维护香港繁荣稳定。不过，这两个议题现在都可能错置了。九月选举，相信是以中港矛盾为主轴，对维护香港一国两制、高度自治的政治性投票。简而言之，就是回到1989年之后的第一次立法局直选，那种恐共、反共及厌共的氛围，而这形势是极之不利建制派，而有利泛民主流。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%83%E4%B8%80%E6%B8%B8%E8%A1%8C%EF%BC%8C%E4%BB%8E%E7%A4%BE%E8%BF%90%E8%AE%B8%E6%84%BF%E6%A0%91%E9%87%8D%E5%9B%9E%E6%94%BF%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%A6%99%E6%B8%AF%E4%B8%83%E4%B8%80%E6%B8%B8%E8%A1%8C/?category=18271" rel="tag">2016香港七一游行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E4%B8%83%E4%B8%80%E5%A4%A7%E6%B8%B8%E8%A1%8C/?category=18271" rel="tag">香港七一大游行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%86%85%E5%9C%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">香港内地关系</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%85%9A%E7%9A%84%E4%B9%9D%E5%8D%81%E4%BA%94%E5%B2%81%E5%8D%8E%E8%AF%9E%E3%80%81%E7%A5%9D%E6%84%BF%E5%85%9A%E9%95%BF%E5%91%BD%E7%99%BE%E5%B2%81/" target="cdt-mirror">【河蟹档案】党的九十五岁华诞、祝愿党长命百岁</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E4%BD%B3%E4%BD%B3Audrey">李佳佳Audrey</a>：记得雷洋突然死亡后，警方第一次通告就迫不及待抛出了“雷洋是心脏病突发猝死”的说辞。在雷洋家人提出疑义：雷洋本人没有心脏病史、也没有家族病史之后，警方还煞有介事地对公众进行过“科普”：心脏病可以在没有任何征兆的情况下猝发。如今回看真是呵呵。<em><em>相关阅读｜《<a href="http://cn.nytimes.com/china/20160701/china-lei-yang-police-arrested/">纽约时报<em><em>｜</em></em>雷洋尸检结果公布，两名警察涉玩忽职守被捕</a>》</em></em><br><a href="https://freeweibo.com/weibo/3992325116618688" target="/weibo/399">2016年07月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%A5%E5%8E%BB%E4%B9%8B%E9%97%B4">来去之间</a>：据说以后App开机都是这样的…… <em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E7%9F%A5%E4%B9%8E-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B8%B8%E6%88%8F%E9%9C%80%E8%A6%81%E5%AE%A1%E6%89%B9%E6%89%8D%E5%8F%AF%E4%B8%8A%E6%9E%B6/">知乎<em><em>｜</em></em> 如何看待苹果中国区游戏需要审批才可上架？</a>》</em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-3.jpg?resize=402%2C670" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-3.jpg?w=480 480w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-3.jpg?resize=180%2C300 180w" sizes="(max-width: 402px) 100vw, 402px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992375783183684" target="/weibo/399">2016年07月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B1%B6%E9%87%91%E8%AE%A9">汶金让</a>：这个编辑要倒霉！[吃惊]<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.jpg?resize=421%2C748" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.jpg?resize=576%2C1024 576w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992428854135677" target="/weibo/399">2016年07月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B8%85%E5%8D%8E%E5%AD%99%E7%AB%8B%E5%B9%B3">清华孙立平</a>：【中国的防火墙是不是弄反了？】出去拍照，爬过几次长城，发现一个规律：长城都是朝外即朝向敌人的那一面险峻，敌人爬上来不容易；而朝内即朝向自己的这一面都比较平缓，自己上去防御比较容易。而现在中国的防火墙呢？好像是专门和自己过不去，自己出去不容易，敌人轻易进来却不管。这是不是弄反了呢？<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-1.jpg?resize=424%2C283" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-1.jpg?w=2048 2048w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-1.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-1.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-1.jpg?resize=1024%2C683 1024w" sizes="(max-width: 424px) 100vw, 424px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992516229025412" target="/weibo/399">2016年07月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%BE%90%E6%98%95">徐昕</a>：浙江一幼儿园小“党课”：全班孩子喊“怕死就别当共产党员”<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.png?resize=442%2C786" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.png?w=1080 1080w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.png?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.png?resize=768%2C1365 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.png?resize=576%2C1024 576w" sizes="(max-width: 442px) 100vw, 442px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992596206461453" target="/weibo/399">2016年07月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%B4%BB%E7%9D%80%E7%85%8E%E7%86%AC%E4%B8%8012">活着煎熬一12</a>：看投票结果<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.jpg?resize=469%2C587" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.jpg?resize=240%2C300 240w" sizes="(max-width: 469px) 100vw, 469px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992554393149606" target="/weibo/399">2016年07月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%BD%E5%85%B5-">施兵-</a>：新浪微博越来越不像话了<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-2.jpg?resize=474%2C843" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-2.jpg?w=720 720w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-2.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-2.jpg?resize=576%2C1024 576w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992475732940657" target="/weibo/399">2016年07月01日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%B0%BC%E5%BE%B7%E8%BE%BE%E8%80%B6">尼德达耶</a>：[笑cry][笑cry]<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-5.jpg?resize=400%2C711" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-5.jpg?w=360 360w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-5.jpg?resize=169%2C300 169w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992593819384801" target="/weibo/399">2016年07月02日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/3992935198270186">道口烧鸡W</a>：微信里看到一句：党的九十五岁华诞、祝愿党长命百岁！——[哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈]有这种SB党员也是醉了！<br><a href="https://freeweibo.com/weibo/3992935198270186" target="/weibo/399">2016年07月02日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%85%9A%E7%9A%84%E4%B9%9D%E5%8D%81%E4%BA%94%E5%B2%81%E5%8D%8E%E8%AF%9E%E3%80%81%E7%A5%9D%E6%84%BF%E5%85%9A%E9%95%BF%E5%91%BD%E7%99%BE%E5%B2%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E9%A3%99/?category=18271" rel="tag">"习近平发飙"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/app/?category=18271" rel="tag">app</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%80%E5%BB%BA%E5%85%9A%E8%8A%82/?category=18271" rel="tag">七一建党节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%B8%B8/?category=18271" rel="tag">手游</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA/?category=18271" rel="tag">特别行政区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E5%B0%B8%E6%A3%80/?category=18271" rel="tag">雷洋尸检</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%88%91%E4%BB%AC%E8%AF%A5%E5%A6%82%E4%BD%95%E5%8F%8D%E6%80%9D%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5%E8%AE%B0%E8%80%85%E6%80%A7%E4%BE%B5%E6%A1%88%EF%BC%9F/" target="cdt-mirror">微思客 | 我们该如何反思南方日报记者性侵案？</a>
+</h2>
+<p><p><strong>杜卿</strong>｜巴黎第四大学法国文学专业</p>
+<p>南方日报记者性侵案闹得沸沸扬扬，在对施暴者的一片谴责中，也夹杂着不少对受害者的质疑乃至谩骂，这倒也并不出人意料。不少文章开始普及关于强奸的相关常识，纠正民众一贯的偏见，即绝大多数性侵不如这位受害的实习女生所想，是“在黑暗的小巷里陌生人用刀逼迫”式的罪行，而是属于熟人作案，且很多时候并不会牵涉到武器胁迫或是重度暴力。在此基础上，本文想更进一步，引入“单纯强奸”这一概念，下文的三个部分将分别回答三个问题：什么是“单纯强奸”？它为何引发争议？它为何会受到如此忽视，即它在象征系统中为何居于如此次要的位置？透过对这些问题的探讨，我们希望可以为受害者在本案中的反应、民众对受害者的质疑等争议之处给出一种阐释。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8A%E5%8D%8810.02.35.png?resize=442%2C294" alt="Screen Shot 2016-07-02 at 上午10.02.35" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午10.02.35.png?w=442 442w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午10.02.35.png?resize=300%2C200 300w" sizes="(max-width: 442px) 100vw, 442px" data-recalc-dims="1"></p>
+<p><strong>“恶性强奸”与“单纯强奸”</strong></p>
+<p>在《对性侵的哲学研究》（A Philosophical Investigation of Rape）中，Louise du Toit探讨了美国女权学者Susan Estrich对所谓“恶性强奸”（aggravated rape）与“单纯强奸”（simple rape）的区分，前者指的是任意以下三种情形：发生暴力行为、集体性侵、被害人与犯人先前没有任何的关系；后者自然指的是以上三种情况均未发生的情形，即一位受害人先前认识的施暴者对其实施的、非暴力性、也未用任何武器威胁的性侵行为。法官们在判决“恶性性侵”时没有疑虑，但在判决“非恶性性侵”时，却多有质疑受害者、从轻发落犯人的倾向。许多符合法律条文的性侵案中，受害人甚至无法起诉。作者为我们举了一个例子：一九九四年，一名叫Olivier的男性法官否决了对两位男子七年有期徒刑的起诉，他们性侵了一位十九岁的女孩，但得到的处罚却只有“矫正监管”。法官在判决书中写道：</p>
+<p>“（…）他们性侵的目的并不在于暴力，而是在于获得性满足；我们必须自问，原告是否有真正的原因感到真正的心理焦虑；原告的行为有一些怪异；并且，她并没有遭受任何的心理创伤，也不是被完全不认识的陌生人侵犯。”</p>
+<p>这位法官的逻辑并不难理解：她只是在不情愿的情形下，与熟人进行了一场性交而已，并未受到其他任何的暴力伤害，因此，她并未遭受到“真正的”性侵。既然如此，她声称感到“真正的”焦虑，便是不合理的。我们可以看到，这样的思维模式里存在着极大的误区：性侵对受害者的最大伤害，不在于物理层面的暴力，而是对其自我意识的极度侵犯，对其主体性的否定与抹杀。一个有意义的、一致性的、值得她信赖的“主观世界”崩离解析，她与他人的关系也随之断裂，很容易陷入自我厌恶、神经紊乱的精神状态中。再者，很多时候，被朋友、家人、上司等熟悉的人侵犯，受害者会更加否定自我与他人的关系，因而遭受的心理创伤要比由陌生人犯案来得更甚。</p>
+<p>虽说如此，相当一部分民众依然对强奸抱有一种狭隘的想象（社会学家们称之为“强奸迷思”），只将“恶性强奸”视为假想中“真正的”强奸，把“单纯强奸”排除在外。换句话说，在象征系统中，“单纯强奸”没有获得其相应的位置，它的象征意义因而被贬低、被阻碍，仿佛也门恐怖袭击死了百人以上，在大众心里造成的影响却仍比不上巴黎查理事件死去的十几人，是因为巴黎与也门在象征秩序中的位置差距过大。很不幸，南方日报记者性侵案即属于“单纯强奸”，因此难免饱受争议。</p>
+<p><strong>受害者的双重失语</strong></p>
+<p>“单纯强奸”所受争议之处在于，受害者有时无法提供有说服力的论证，证明自己被强奸，而不是在双方自愿的情形下发生性关系。嫌疑人与受害人相识，这大大增加了正常性关系发生的可能性；没有反抗，身体也就没有伤痕，受害者又失去了一项重要的证据。受害者选择不反抗的原因有很多，比如害怕反抗后，会给自身带来更大的伤害等等，但旁人会情不自禁地质疑他们当时真的如他们所说，处于极度恐惧的心理状态。</p>
+<p>再者，我们必须意识到，“让一个被性侵的女人（或任何其他创伤性叙述）的叙说成为真相的，正是这种叙说在事实层面上的混乱、不可靠特性以及不一致性。”（Zizek, <em>Violence</em>）。拉康告诉我们，我们的主体是在象征界中、由语言诞生的。语言系统规定了我们经验的本质。所谓的创伤，即在意指过程中的阻塞，对象征化运动的妨碍，简单来说，是无法进入象征界之物，即无法用语言表达之物。受害者因其所受的创伤，以及创伤所造成的、受害者带有一致性的主体性的毁灭，会使得用语言重新构建事件的过程极其艰难，变成某种“失语”的状态。反之，如果原告能提供一种前后一致、有条不紊的叙事，那么，她/他受害者的地位便会因此受到质疑。“正是受创的当事人的叙说在事实层面上的缺憾验证了她的叙说的真相性，因为这些缺憾暗示了叙说的内容‘污染了’叙说的方式。”（Zizek, <em>Violence</em>）</p>
+<p>因此，让受害者合情合理地为她在受害时的行为做出解释，不仅残酷，且是不可能的。可是，这种“不可能”，又使得受害者陷入更加被动的局面，更加招惹旁人的怀疑揣测。这便是“单纯强奸”此类创伤所造成的后果：它不但带来了伤害，还让受害者失去了证明伤害的手段。受害者的自证将被一种最吊诡的逻辑，拉入到一条死路中：</p>
+<p>“若是受害者不顾这种不可能，执意证明施加于自身的‘罪过’，那么，他们遭遇到的，便是如下论断：要么，你申辩的损害从未发生过，因此，你的证词是伪的；要么，它真的发生过，但既然你已经有办法证明，那么，发生在你身上的就不是一个‘罪过’，只是小小的损害而已，你的证词依旧是伪的。”(Lyotard, <em>Le Différend)</em></p>
+<p>当受害者因受到的创伤而失语时，舆论却代替受害者，用充满偏见的性侵“迷思”，用自以为是的逻辑填补受害者提供的碎片，制造各种叙事，而其中绝大部分，都是贬低、污名化受害者，兼为性侵别人的嫌疑人辩护：“她或许是假报案”、“她一定在图谋什么”、“是不是有什么事情没有谈拢，所以一怒之下才报得案”、“听说她跟其他男人也睡过”…… 这些在一定时间内无法证伪的言论，压制住了受害者本身就难已发出的声音，把讨论从对施暴者的谴责中抽离而出，使得受害者在象征界遭受再一次的失语。</p>
+<p><strong>中国的阳具中心主义</strong></p>
+<p>这桩性侵案中受害人的表现让我们看到，社会如何构建性侵的意义，对个体如何体验、处理性侵有着极大的影响。“你为何不反抗？”这是舆论对这位南方日报实习生的最大质疑。我们或许可以这么回答：首先，“强奸案多是陌生人所为”，此类“强奸迷思”在她脑海中的根深蒂固，使得她在一开始无法对当时的情形做出正确的反应。其次，一桩性侵案所能呈现的，不单单是性别的差异，还有年龄、阶层、种族各种社会身份的差别，而这些因素都造成了性侵时，双方权力关系的不平衡。当受害人面对一位年长的男性上司之时，因为社会文化施加的影响，她处在附属的地位上，权力关系的悬殊造成的压迫，极大地限制了女性反抗的几率，有时可以让男性在不动用暴力的情形下达到目的。</p>
+<p>Kevin Spacey在《纸牌屋》里曾引用王尔德的一句话：“世界上的所有事情都是关于性的，但性本身除外，性是关于权力的。”这或许是一句戏言，但不可否认的是，强奸，不单单是性方面的满足，更是一种权力的展示。在中国，歧视女性的保守文化依旧根深蒂固，在某些民众的想象中，女性是没有阳具的、被动的一方，是物体一般的对象，在象征秩序中处于男性的次等地位，是男性可占有的附属品。总而言之，在这种所谓“阳具中心主义”文化中，女性的“性主体性”被贬低，甚至彻底的否定。而强奸，即不顾女性意愿、依靠征服欲强行占有，是“阳具中心主义”最为极端的表征之一。</p>
+<p>我们从民众的“强奸迷思”中也可看出“把女性作为所有物”这一思维的影子。例如，“性侵的威胁来自于外来者”，这一想法反映出的，是对于不属于我们这一群体的人占有属于我们的女人的焦虑，仿佛古代，女子被敌人时的感受。在国内，喜欢韩国明星的女粉丝会被辱骂成卖国贼，但男性看日本女优的AV，意淫“踏平日本，迎娶苍井空”，却成了爱国的举动，这不也是女性被当作财产的表现吗？</p>
+<p>这样，我们就不难理解为何“强奸迷思”会大为盛行，而“单纯强奸”会在象征系统中处于被忽视的地位了。首先，“强奸迷思”凭空创造出各种规矩戒条，“不要在深夜走路”、“不要穿着暴露”、“不要去无人的空巷”……这其实是社会控制女性自由的一种方式。其次，对“单纯强奸”的忽视，意味着社会希望不要让人注意到男性对女性的某些系统性的侵害。这种忽视，在某种程度上，就是暗地里的默许，而把过错归咎于外来者等意识形态的束缚，也是为了让群体内的系统继续稳固地运行下去。对“约会强奸”、“婚内强奸”、“熟人强奸”（这些与“单纯强奸”多有重叠）案例的过多关注，无疑会导致女性更多地注意到自己的从属地位，以及在权力关系中的劣势，从而有颠覆整个系统的危险。</p>
+<p>当然，“阳具中心”不过是所谓“逻各斯中心”的一种表征，中国在政治、文化、社会各方面，都表现出趋向一个中心的一致性，这也难怪多元文化在这里寸步难行了。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%88%91%E4%BB%AC%E8%AF%A5%E5%A6%82%E4%BD%95%E5%8F%8D%E6%80%9D%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5%E8%AE%B0%E8%80%85%E6%80%A7%E4%BE%B5%E6%A1%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5%E6%80%A7%E4%BE%B5%E6%A1%88/?category=18271" rel="tag">2016南方日报性侵案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">南方日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5/?category=18271" rel="tag">性侵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5%E6%A1%88/?category=18271" rel="tag">性侵案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A7%E5%AE%B6-%E5%BE%90%E8%B4%B2%EF%BC%9A%E5%9B%A0%E4%B8%BA%E6%B3%95%E8%A5%BF%E6%96%AF%EF%BC%8C%E6%B0%91%E7%B2%B9%E6%89%8D%E5%8F%AF%E6%80%95/" target="cdt-mirror">大家 | 徐贲：因为法西斯，民粹才可怕</a>
+</h2>
+<p><p><strong>文 | </strong><strong>徐贲，<strong>腾讯·大家专栏作者，加州圣玛丽学院英语系教授。</strong></strong></p>
+<p>英国选民公投决定脱欧后，出现了两种相互有关，但针对点不同的看法。第一种看法是针对民主本身的，有人认为，公投出现了不利于国家利益的结果，<strong>凸显了民主政治之不足或缺陷。</strong>因此，防止民主不足和缺陷的办法是取而代之的精英政治。更有人甚至以民主有缺陷为借口，暗示不民主的精英政治比民主政治来得优秀和有效。</p>
+<p>第二种看法是针对“民粹主义”的。它认为，<strong>公投是一种民粹政治，</strong>民粹政治的危险在于放任普通民众对他们不懂的事情做他们没有能力的决定。对于英国是否脱欧的重大问题，交由选民直接决定，不如由议院代议决定更为稳妥。这两种看法看似针对不同的对象，但有一点是共同的，那就是<strong>把民众的直接参与视为一种对国家利益有危险和不稳定的因素，并给它戴上了“民粹”的帽子。</strong></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8A%E5%8D%889.56.46.png?resize=476%2C278" alt="Screen Shot 2016-07-02 at 上午9.56.46" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午9.56.46.png?w=476 476w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午9.56.46.png?resize=300%2C175 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午9.56.46.png?resize=80%2C48 80w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"></p>
+<p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>▍</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong><strong><strong><strong><strong><strong><strong><strong>一、</strong></strong></strong></strong></strong></strong></strong><strong><strong><strong><strong><strong><strong><strong>民主的根本作用是防止专制独裁</strong></strong></strong></strong></strong></strong></strong></p>
+<p>其实，把民众的直接参与叫成什么，如或贬或褒的“民粹民主”“大民主”“草根民主”，并不是最重要的。重要的是，什么是民主？为什么要民主？卡尔·波普尔在《20世纪的教训》（王凌霄译，中信）中对此有一个明确的回答：<strong>民主并不能保证每一个由此做出的决定都是正确的或是最好的，民主的重要目的和价值在于避免独裁和集权。</strong>民主的灵魂不是“人民的统治”（rule by the people）——世界上从来就不曾有过这种统治，而是法治。民粹政治（如果选民公投也可以称为“民粹”的话）之所以危险，之所以可能对人民和国家造成祸害，是因为它可能成为专制和独裁的工具。从历史的教训来看，<strong>曾经最成功把民粹政治玩弄于股掌之间，并造成最大灾祸的是专制、集权和凌驾于法治之上的法西斯。</strong></p>
+<p>波普尔指出，民主的要旨是避免独裁，也就是“避免不自由，避免统治模式背离法治”。在古代的希腊，民主就不是一种所谓的“人民的统治”，而是一种防止暴政的方式。这甚至可以是一种对国家利益未必有好处的、相当极端的方式。这就像今天英国选民公投决定脱欧，其结果或许并不一定是对国家利益最有好处的。</p>
+<p>然而，英国的公民公投，不管有没有好处，它的意义都在于表明一个自由的原则，那就是，<strong>英国人民不接受那种总是不得不被代表的可怕命运。</strong>这种看上去像是为自由而自伤其身的做法，在古希腊就已经有过先例。为了避免暴政，古希腊民主曾经实施了一种“流放制度”（ostracism）,长达80年。公民们把他们认为危及国家安定者的名字刻在贝壳或是陶片上，如果半数以上的公民同意，就将此人流放5至10年，这个制度于公元前417年被废止。波普尔对此指出，流放制度“是避免暴君或独裁者，也就是所谓的民粹分子(populist)——这是我们现在用的名词——利用群众掌权；这种人擅长于<strong>炮制民意，鼓动人民，夺取政</strong>权”。</p>
+<p>波普尔对谁是“民粹分子”的意思是很明确的，<strong>“民粹分子”是指那些像墨索里尼、希特勒那样利用群众运动夺取政权，</strong>而一旦掌权之后，便剥夺人民自由和权利，凌驾于法治之上的暴君和独裁者。波普尔进而指出：“‘流放制度’的功能就是让善于驾驭人民的领导者没有施展本领的空间，将他流放出国。但是，这个不能算是被告，因为他没有做什么错事，只能当是一种预防措施，防范深受百姓欢迎的人。”希腊人的智慧真是令人惊叹，他们居然定下限制自己的法规，限制自己因情不自禁地被蛊惑者或魅力领袖牵着鼻子，以致走上不归之路的可能。他们看似“民粹”的方式原来是为了防止民粹最坏的结果！</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8A%E5%8D%889.57.40.png?resize=301%2C574" alt="▲ 作为选票使用的碎陶片，上面刻着被提名放逐者的名字；由上至下：伯里克利、客蒙及阿里斯提德" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午9.57.40.png?w=301 301w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午9.57.40.png?resize=157%2C300 157w" sizes="(max-width: 301px) 100vw, 301px" data-recalc-dims="1"><p>▲ 作为选票使用的碎陶片，上面刻着被提名放逐者的名字；由上至下：伯里克利、客蒙及阿里斯提德</p></div>
+<p>美国著名公共知识分子托尼·朱特也在《思虑20世纪》（苏光恩译，中信）里指出，民主是一种解决问题的方法——通过协商和说理，避免强制和暴力。但是，民主只是解决自由社会中问题的方式，不是解决不自由社会中问题的方式。在不自由的社会里，强制和暴力是解决问题的主要方式。民主是一种防范暴政和专制措施，也是一种确保人民不会每次都受同种愚弄的方式。<strong>只有代议而没有公投，会使民主的这两项作用大打折扣。</strong>而且，在更糟糕的情况下，更是会使人民成为对非民主政治毫无抵抗手段的捕获猎物。朱特指出，“民主是短期内抵御非民主政治的最佳屏障，但它并非一道抵御其自身内在缺陷的屏障”。而且，民主只有在具备了充分的条件时才能存在，“如果你观察各个国家的历史，将与民主相关的那些优点都放到最大，就会注意到，最先出现的是宪政、法治和分权。民主几乎总是最后出现。假如民主指的是所有成年人参与选择将要统治他们的政府的权利，那么它是很晚才出现的”。英国人民的公投是一种公民行为和公民选择，他们的公民行为和公民选择正是在英国具有宪政、法治和分权的条件下，才成为真正意义上的民主实践的。</p>
+<p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>▍</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong><strong><strong><strong><strong><strong><strong><strong>二 、法治是约束民粹的根本条件</strong></strong></strong></strong></strong></strong></strong></p>
+<p>民粹本身并不是一种天然的或本质的“善”或“恶”，直到今天，<strong>民粹主义也还是一种“政治涂料”,它可以涂在截然不同的意识形态和政治体制上。</strong>现代自由民主政治里同时包含精英和民粹的元素并不是一件坏事，无须因为一个有用，就排除另外一个。民主本来就是充满了疑问、矛盾和困难的，将民主理想化，完美化，只会给否定和取消民主制造借口。正如波普尔所说，“民主不能算是什么特别好的政治制度，它的好处来自民主之外的地方。民主是一个避免集权暴政的手段，如此而已”。民主最重要的好处是“法律面前人人平等……这是法治的一部分，民主也应该是维持法治的方法”。<strong>英国选民公投决定脱欧，这是在英国法治制度中进行的</strong><strong>，符合英国民主法治的规定和程序。</strong>从法治的角度来说，既然英国人自己认可这个决定的结果，那么外人也就没有批评这个决定方式和结果是对或是错的理由。</p>
+<p>有人说，英国选民公投决定脱欧实际上会对国家造成经济、金融或别的方面的损害，因此，这个决定是错误的。公民直接表决的结果会有怎样的实际效应，在一个民主法治的国家里，这是一个与法治无关的判断。虽然如此，但也不是一个完全多余的考虑。<strong>民主的原则是多数人决定，并尊重少数人的权利。</strong>多数人永远正确，这并不是一个民主的原则——“群众是真正的英雄”这样的说法是民粹主义者用来蛊惑群众的。“大多数人表决”并不总能获得正确的结果，有时候还会犯下严重的错误。民众投票的结果甚至还会为专制打开通行的绿灯。希特勒就是经由这个途径成为独裁者的。今天，英国选民公投并不包含这样的危险，也没有损害英国现有的自由民主制度。只要英国的自由民主制度不受到损害，即使大多数选民对留欧还是脱欧问题上的决定被证明为是错误的，英国人将来仍然还有机会在他们的法治制度里通过适当方式，包括公投，把这个错误纠正过来。</p>
+<p><strong>法治，而不是大多数人的决定，那才是民主的灵魂，</strong>在法治制度里的公民直接参与（大多数人决定）或者代议制参与（不一定是大多数人决定）都是民主的必要运作部分。这不仅体现为遵守现有民主法治的法律秩序，而且也体现为对法治本身的不断改善。法治不是指强迫所有人服从由官方武断规定的“法律”条文，而是<strong>指公民服从自己参与制定的法律。</strong>在自由民主的国家里，制定和修改法律的过程中同样也包含了公民直接参与和代议制的两种方式。例如，在美国，大多数具体法律是在某个州里制定的,制定法律的民主程序也不尽相同,但一般都有两个阶段：提案和通过提案而成为法律。在加州，州的参、众两院可以议定提案，普通民众也可以提出议案。如果征集433,971个或694,354个选民签名,就可以分别提出立“法规”(statute)和州宪法“修正案”(amendment)的提案。提案经过全州公民表决并通过后，“法规”必须通过司法机构的审核, “修正法”则不需要，便成为法律。<strong>普通民众提出提案，经过法定的程序，成为法律，这也可以说是一种“公投”。</strong></p>
+<p>公投并不能保证产生好的法律，而且，公投产生的法律也比较容易被其他的公投法律所修改或代替，这些都是事实，但是另外一个问题。正因如此，经由代议制的法律制定才成为一个重要的平衡和稳定因素。例如，要通过美国的宪法修正案则非常困难。首先，要国会众、参两院2/3的票数通过后，再由50个州中3/4的州,即37个州的众、参两院通过。200多年来，美国宪法迄今共有27条修正案,而加州宪法却有过500余条提出的修正案。在美国，<strong>只要自由民主的宪法这个国本不动摇，在法治制度中的民众直接参与就不会对国家形成所谓的“民粹”威胁。</strong>一旦法治制度有可能被破坏，那么民众的直接参与就会成为一个“民粹”问题，这个“民粹”问题的严重程度是与法西斯政治的现实危险息息相关的。</p>
+<p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>▍</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong><strong><strong><strong><strong><strong><strong><strong>三、民粹提醒我们对当今世界的法西斯危险</strong></strong></strong></strong></strong></strong></strong></p>
+<p>目前，美国就面临着这样的问题。2016年美国大选中特朗普(Donald Trump)崛起，成为“特朗普现象”，对美国民主制度是一个考验，《华盛顿时报》已经有好几篇文章指出，法西斯主义可能借民主社会的内部论辩之机卷土重来，并对未来美国政治发展形成严重威胁。</p>
+<p>美国政治学者和专栏作家凯根(Robert Kagan)在《法西斯主义就这样来到美国》（This Is How Fascism Comes to America）一文中指出，特朗普受到许多选民的支持，打破了美国自由民主政治的传统格局，因为“整个特朗普现象与政策和意识形态无关”。一向代表保守主义与自由主义的共和、民主两党之间的区分在相当程度上失去了意义。共和党大佬们先前与特朗普之间的僵局帮助营造了他特立独行的形象，<strong>他的支持者们忠诚的对象不是共和党，而是特朗普本人。</strong></p>
+<p>这些支持者们或许对美国的经济状况多有不满，但特朗普并没有给他们任何正面的经济方案，他只是不断在反对这个异己，攻击那个敌人——穆斯林、讲西班牙语的拉美人、妇女、中国人、墨西哥人、阿拉伯人、移民、难民。他的政策就是对这些人绝不示弱、强硬出击，该排斥的就排斥，该赶走的就赶走，该禁绝的就禁绝。摆出一副强人姿态的特朗普——愤怒的硬汉谁也不买账，他本人俨然成了解决一切问题的方案。特朗普的仇恨、排斥和敌对言论令人想起20世纪20至30年代的意大利法西斯主义。<strong>它就是以反对和对抗各种对国家的“威胁”来壮大自己的，</strong>它反自由主义、反民主、反马克思主义、反资本主义。它利用民众对政治强人的期待和崇拜，把解决所有问题的希望都寄托在无所不能的“领袖”或“元首”身上。在这样的民众身上，<strong>“民粹”的危险（群众自己的盲目破坏力）是被法西斯主义利用和放大了的。</strong></p>
+<p>法西斯主义是一种个人的地位被压制于集体——国家、民族、种族或社会阶级——之下的社会体制，其灵魂人物墨索里尼说：“法西斯原则的根基是它关于国家和国家本质、作用、目的的观念。对法西斯主义来说，国家是绝对的，个人和群体都是相对的。”法西斯的绝对国家主义以 “运动”“主义”“信仰”之名，用各种极端的手段压制和取消人民的自由，强迫个人绝对服从国家意志，充当驯服的工具。</p>
+<p>法西斯动员群众，利用群众的力量达来到自己的专制独裁目的，它的政治运作是在民主法治的体制外进行的，而且，它把这种运作本身变成一种暴力“法制”——这与民主宪政框架下的公投根本不能同日而语。前委内瑞拉的政治强人查韦斯就是利用群众运动起家的，他也有自己那一套法治外的“法制”。在他那里，残暴的威吓方式──大规模逮捕、行刑队、血腥镇压──被柔性的强迫方式代替了，最有效的办法不再是强行逮捕人权团体成员，而是派出税吏或者卫生局官员让反对团体关门大吉。政府把法律写得很宽松，当遇上有威胁性的个人或团体时，运用起来却像手术刀一样精确。委内瑞拉的一个异议分子说，查韦斯总统的座右铭是：“我的朋友，荣华富贵；我的敌人，法律伺候。”</p>
+<p>法西斯是自由的敌人，捍卫自由和权利的公民力量越强大，法西斯主义利用群众运动（包括公民投票中的“大多数人的决定”）的胜算就越小。因此，在对待像英国脱欧公投这样的民意显示时，<strong>需要特别分清什么是可能被法西斯利用的群众运动和民粹政治，什么是抵制法西斯所必不可少的民主法治和积极公民参与。</strong>如果多数选民通过投票，违反民主法治的程序，以压制或暴力的手段剥夺少数人的权利或限制他们的自由，这便会让敌视自由的法西斯有了可乘之机。这时候出现的就不只是民粹，而是被法西斯绑架了的民粹。在民主法治制度里，对个人自由的尊重和保护是优先于多数人决定的。因此，在主张大多数决定这一原则的同时，一定要强调保护少数人的自由和权利，而一旦法西斯与民粹相结合，少数人必然成为迫害和消灭的对象。“文革”政治已经给了我们这方面许多深刻教训。</p>
+<p>在美国，<strong>“特朗普现象”引发的不是对民粹的忧虑，而是对法西斯的再度思考。</strong>特朗普的政治主张里有许多仇恨、歧视和排斥异己的东西，与美国宪法的自由、民主、人的尊严等基本价值相抵牾，也与美国现有法律对公民权利和人权的保护相违背。“特朗普现象”讨论正在带出不少关于全球范围内正出现法西斯主义和专制主义的讨论。这一讨论的对象是拥有绝对权力的强人政治、带有侵略性的民族主义、利用民众排外情绪的仇恨煽动。这些都有相当普遍的民意基础，并在相当程度上让一些政客有机会能成功地利用民众的焦虑、无知、恐惧和不安全感。我们不能说在英国脱欧公投中没有这些负面的心理因素和情绪在起作用。这样的心理因素和情绪是人类共有的，只要人类存在就不可能将之消除。但是，这些心理因素和情绪的负面作用——暴力、敌对、歧视、不宽容——是可以通过建立适当的政治制度来加以限制的。从根本上来说，这个制度就是民主法治。<strong>只要这个制度在英国还健康存在，我们就没有必要去担心，那里的公民公投是否已经成了“民粹”。</strong></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A7%E5%AE%B6-%E5%BE%90%E8%B4%B2%EF%BC%9A%E5%9B%A0%E4%B8%BA%E6%B3%95%E8%A5%BF%E6%96%AF%EF%BC%8C%E6%B0%91%E7%B2%B9%E6%89%8D%E5%8F%AF%E6%80%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91%E5%85%AC%E6%8A%95/?category=18271" rel="tag">全民公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%B4%B2/?category=18271" rel="tag">徐贲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">民主政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E5%85%AC%E6%8A%95/?category=18271" rel="tag">英国公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E8%84%B1%E6%AC%A7/?category=18271" rel="tag">英国脱欧</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%BA%89%E9%B8%A3%EF%BD%9C%E6%9E%97%E8%8D%A3%E5%9F%BA%E5%8F%8D%E6%8A%97%E7%9A%84%E6%84%8F%E4%B9%89/" target="cdt-mirror">争鸣｜林荣基反抗的意义</a>
+</h2>
+<p><p>习近平曾说，“腐败分子即使逃到天涯海角，也要把他们追回来绳之以法，五年、十年、二十年都要追”。不承想，第一批被跨国跨境追捕归案的，并不是携巨资、持绝密叛党叛国的中共外逃贪官团伙，而是香港一间小小书店里一不小心触怒了龙颜、冒犯了国威的五位文弱书商。</p>
+<p>如果一个国家，一个世界上最大的一党专政大国，执意要将一间小小的书店设定为假想敌；如果一个“中央政府”，一个一向为所欲为的中央集权政府，不顾后果、不计代价地对五位书商穷追不舍、“虽远必诛”，结局似乎没有什么悬念。人们都已经看到了：“一国两制，港人治港”根本抵御不了“中央专案组”的野蛮行径。瑞典国籍、英国护照也未能有效保护桂民海、李波的基本人身安全——事实上，瑞典、英国两国政府对桂民海、李波的冷漠，对中共当局的“温柔”，比港府有过之而无不及。</p>
+<p>林荣基反转中共编导的剧情</p>
+<p>随着中共当局对桂民海审判在即，随着其余四位书商因“主动配合”之功而陆续重获自由，回港“销案”，其中三人作心悦诚服、俯首帖耳状，对所经历之事三缄其口，讳莫如深，曾经在香港和国际媒体上喧嚣一时的铜锣湾书店集体“被失踪”事件眼看着就要按照中共既定的剧本顺利落幕了。一手制造了事件、一手操控着事件发展而且一手遮天的中共当局差一点就要大功告成，弹冠相庆了。值此紧要关头，被秘密囚禁了八个多月刚刚获释的铜锣湾书店店长林荣基克服了内心的恐惧，单方面撕毁了“自愿”协议，中止了“合作”游戏，踢爆了事件“内幕”。他是迄今为止唯一一位敢于直面全球媒体，全程公开自己“被失踪”期间的奇特经历，包括被强行抓捕、千里转运、密室囚禁、试图自杀以及被迫签署认罪书、在“有导演有台词”情况下作“电视认罪”等痛苦经历的香港书商。</p>
+<p>林荣基的“幡然悔悟”偏离了剧本，反转了剧情，令舆论哗然，亦让笼罩在无边黑暗之中的铜锣湾书商系列失踪案件透出了一线亮光。感谢林荣基，他的勇敢行为对得起六千港人的街头抗议，配得上“一国两制”的原初涵义。而其他几位当事书商在内地均有近亲属，其获释之后不声张、不求助、不爆料，深居简出，避人耳目，言行举止颇为不近情理，显然，他们要么是有不得已的苦衷，要么陷入了无法克服的恐惧——而最深的恐惧，则是对恐惧的恐惧。其实，林荣基也不是了无牵挂，他有把柄抓在中共当局手上，虽无近亲属居于内地，但内地女朋友的人身安全与人生命运极有可能受其严重拖累——尤其是考虑到其女友作为帮助林在内地邮寄“禁书”的“同案犯”身份——这些因素或多或少会让林在终止与“强力部门”合作时背上道德与情感的包袱。</p>
+<p>中共当局手忙脚乱四处灭火</p>
+<p>现在，局势已变，轮到中共当局手忙脚乱，四处灭火了。人们看到，除了外交部发言人和《环球时报》无法自圆其说的荒谬辩解，中共当局最主要的传声筒似乎是铜锣湾书店事件除桂民海（仍然在押）之外的另外三位受害人。李波、吕波、张志平几乎同时打破沉默，对林荣基的言论进行了反驳。李波否认说过“非自愿被带返内地”，也“没听说过‘中央专案组’这回事”。吕波指斥“不能用个人的过错蛊惑人心和攻击一国两制”。张志平指林荣基“说谎”。林的内地女朋友责骂林“不是男人”、“不考虑别人死活”——此话无意中暴露了该女友的人质属性。</p>
+<p>这是一个奇怪的格局，五位受害人，一人系狱，一人“翻供”，其余受害人及其关系人则一边倒地站在加害者一边。谁的言论更加真实可信？严格说来，李波、吕波、张志平以及林的女友的反驳与林荣基的言论不在同一个层次，完全没有相与辩难、一决高下的资格。因为毫无疑问，记者会上面对面的公开答问，国际媒体上的即兴访谈，即使有细节上的瑕疵，也必定比特定媒体独家披露的言论更加真实；对八个月囚禁经历的全程公布，无论有多少记忆上的错误与缺失，也必定比藏藏掖掖、吞吞吐吐、支支吾吾、欲言又止的片言只语可信一万倍。要证明中共当局没有“越境执法”再简单不过了，根本无需华春莹与《环球时报》出马，只需李波像林荣基那样，把他偷渡内地那一天前前后后所发生过的事情原原本本说出来即可，他敢吗？中共敢吗？</p>
+<p>对于林荣基与中共当局来说，已经发生过的事实不可能重新来过。当林荣基在按要求携带订书客户资料硬碟返回内地途中忽然变卦，毅然决然折返香港，从那一刻起，他改变了事件，也改变了自我、改变了命运——从此成为一个“有种香港人”。他也给全体香港人和全体中国人提供了一个机会，让人们审视陆港两地当下严峻的政治现实：这是一个什么样的香港？一种什么样的“一国两制”？一个什么样的中央政府？铜锣湾书商集体“被失踪”事件，作为衡量“一国两制”现状的指标性事件，必将对香港政情的发展、陆港关系的变化产生长远和深刻的影响。</p>
+<p>自由的意志与抗争的勇气</p>
+<p>林荣基真正的可贵之处，似乎并不在于他踢爆了“内幕”，揭发了真相。其实，事件虽然扑朔迷离，但真相一点儿也不复杂。李波是不是遭遇了“越境执法”，桂民海是不是遭遇了跨国绑架，抑或二人都是“爱国”心切，“自愿”偷渡入境，自投监牢，这是决定铜锣湾书店事件本质的两个核心事实。人们虽然不知道此中详情与细节，但傻子都知道是怎么回事。事件已经清晰到一向揣着明白装糊涂的《环球时报》也难于绕弯子、羞于编瞎话的地步。林荣基真正的可贵之处在于，在经历了囚禁、恐吓、诱供、“电视认罪”、人质要挟等等人身与精神的折磨之后，依然保留着不屈的精神、自由的意志与抗争的勇气。</p>
+<p>因为这是一场一般人经受不起的不对称的战斗：一个专制大国，竟不顾“一国两制”的颜面，不顾国际关系的准则，只为报复一间小小的书店；一个所谓“中央政府”，竟毫无顾忌地自毁“依法治国”的形象，践踏本国公民和外国公民的基本人权，只为惩罚五位名不见经传的“禁书”书商。这当然不是法律行为，也不是政治行为，而是它自己都不敢承认的、极度野蛮的准战争行为。普通人很难猜透独裁者的心思，究竟是什么样的了不起的“禁书”，让专制政府如此大动肝火，气冲牛斗，做出此等愚蠢荒谬之极的准战争行为？</p>
+<p>港人不要给中共错误信号</p>
+<p>书店与书商诚然不足与中共交手，二者并非旗鼓相当的对手。如果林荣基选择了沉默、屈服和顺从，将心比心，人们并没有理由过分责备他。而最终，在这场一个大国对一间书店的不对称战斗中，五位书商竟然没有全体降服，尚余一位反抗意志坚不可摧的志士存在，其中的象征意义远比事件真相与细节的爆料本身更为可贵。兹事体大，事关港人荣辱，事关“一国两制”尊严，正如林荣基所说，“如果我作为五个人里面负担最少的都不出声，香港就没得救”。</p>
+<p>此话有理。如果所有的当事人、受害人都对自己所遭受的不公正待遇和屈辱经历保持沉默——不管他有什么样的正当理由或难言苦衷，甚或成为斯德哥尔摩症候群患者，对专制政府的“宽大处理”感恩戴德，对加害者的“洗脑”和“改造”欣然接受且为之曲意辩解，那不仅会导致是非混淆、正义蒙尘，让那些人权的侵犯者、“一国两制”的破坏者们正中下怀，从此愈加有恃无恐，只要中央足够强势，足够霸道，则真相可掩，万事大吉。如果没有林荣基的反戈一击，铜锣湾书店事件传达给中共当局的，或许就是这样一个信号：治港需用重典，狠的比柔的管用。若中央政府按此信号行事，或从此以“专案治港”方式排挤压缩“港人治港”空间，并使之常态化、模式化，则“一国两制”万劫不复。</p>
+<p>《争鸣》2016年7月号</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%BA%89%E9%B8%A3%EF%BD%9C%E6%9E%97%E8%8D%A3%E5%9F%BA%E5%8F%8D%E6%8A%97%E7%9A%84%E6%84%8F%E4%B9%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/533854/" target="cdt-mirror">【网络民议】最坏的语文：胃内容物吸入呼吸道致窒息死亡</a>
+</h2>
+<p><p>北京检方公布雷洋尸检结果的相关微博无一例外被关闭评论：</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB.jpg?resize=525%2C225" alt="头条新闻" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻.jpg?w=2314 2314w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻.jpg?resize=300%2C128 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻.jpg?resize=768%2C329 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻.jpg?resize=1024%2C438 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻.jpg?w=2000 2000w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%B4%A2%E6%96%B0%E7%BD%91.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%B4%A2%E6%96%B0%E7%BD%91.jpg?resize=525%2C237" alt="财新网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/财新网.jpg?w=2311 2311w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/财新网.jpg?resize=300%2C135 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/财新网.jpg?resize=768%2C346 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/财新网.jpg?resize=1024%2C462 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/财新网.jpg?w=2000 2000w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>直到有媒体出面科普“胃内容物吸入呼吸道致死”，网民才总算有了评论的去处：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB2.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB2.jpg?resize=500%2C390" alt="头条新闻2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻2.jpg?w=2010 2010w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻2.jpg?resize=300%2C234 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻2.jpg?resize=768%2C598 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻2.jpg?resize=1024%2C798 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@爱宠之人_z5x：昨天禁评，然儿做了一天功课小编只找到这个案例？差评</p>
+<p>@法律研习社：刚开始不是突发心脏病猝死嘛，央视呢，北京电视台呢，怎么不出来逼逼了</p>
+<p>@丿寂寥丶星空：中央台不是说是嫖娼吗，不是还有小姐作证吗，那个小姐不是言之凿凿的说帮雷阳打飞机来的吗，不是说是心脏病突发死亡吗，那个邢某队长不是也出场作证的吗，中央台前一阵子不是信誓旦旦的说几十年来从不说谎吗，原来几十年来都是在逗我们玩啊</p>
+<p>@任稳重：你们一拖再拖，三番两次转变话锋。所有监控一起损坏，执法记录仪改口手机，尸检结果不严谨还发文说需要二次尸检，当事民警直到今天才被控制，甚至在开始还参与调查自己犯的案子。一切的一切都让所有人心中早已认定了一个事实：那就是雷洋被打死，你们护犊子。无奈，社会缺乏安全感，政府缺乏公信力！</p>
+<p>@麻辣果批：模棱两可的尸检报告，既能能维护警队声誉，又能平息事件，接下来就封消息，拖时间，事件冷却后，再公布刑某某等有玩弄职守罪，判刑五到七年，然后在后台处理，保外就医，不了了之。</p>
+<p>闹眼已：胃内容物吸入呼吸道导致死亡。这不就是打死或整死的吗？还他妈想给警察安个玩忽职守就脱身。什么叫玩忽职守？难道是看守警察在玩手机，雷洋自己玩倒立憋死了他没管？雷洋凭白无故怎么会吸物憋死？</p>
+<p>@闲炎岁语：打人是不可能把人直接打死的，说被打死的其实都是因为自身原因而死。比如邱少云其实是因为体内蛋白质变性导致肌体功能丧失而死，黄继光是因为心脏大动脉破裂流血死的，刘胡兰是因为大脑供血不足缺氧死的</p>
+<p>@韦至丶：简单来说就是打的吐了 然后呕吐物堵塞呼吸道窒息死亡</p>
+<p>@铁虎阿锋：我以前参加职业拳赛，明白一个道理，重击对手胃 会让对手有呕吐感，要么是重击对手头部！雷洋死说直接 简单点 被打的.</p>
+<p>@慢慢骑士：这就是用所谓的术语忽悠民众</p>
+<p><strong>@王烁:这就是用表面上的严谨用词来迟滞、钝化真相的冲击，是最坏的语文。</strong></p>
+<blockquote><p>@烟雨迷離的煙：图片评论<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/499632edjw1f5epjyl0bfj20k00hjjss.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/499632edjw1f5epjyl0bfj20k00hjjss.jpg?resize=440%2C386" alt="499632edjw1f5epjyl0bfj20k00hjjss" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/499632edjw1f5epjyl0bfj20k00hjjss.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/499632edjw1f5epjyl0bfj20k00hjjss.jpg?resize=300%2C263 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p></blockquote>
+<p>@扁头好男人：雷洋案让我感觉越来越没安全感了，一个尸检拖了将近两个月，而且是在广大舆论催促在才公布死亡原因，叫我们如何相信正义？</p>
+<p>@京衡律师李慧琴：真相渐渐浮出，外因致死，没有心脏病。如果没有律师的介入，没有备受关注，恐怕永远不会知道29岁健康的生命，是怎么突然死亡的！</p>
+<p>@笑面人生2332415051：可怕的是，央视，北视，昌平公安，派出所集体帮涉警造势，维护。执法者法在何方？</p>
+<p>@66童年de记忆：那主谋派出所所长到底有何背景？什么底气使他组豪华律师团为自己辩护？？</p>
+<p>@jasmine的藍熊：真不要脸，翻云覆雨越描越黑，不就是被那几个流氓警察殴打致死的吗？还在这儿咬文嚼字的放狗屁。还玩忽职守罪？tm的就是几个杀人犯</p>
+<p>@总有刁民想嘿朕：跟官员节假日去办公室搽玻璃死亡一样，懂了没？</p>
+<p>@贰0壹六时来运转：江苏民警张际勇怎么不查，公安掩盖什么真相</p>
+<p>@圣托里尼和你一起去：死因没错，关键是问怎么导致胃内容物返流的。大家都在喷什么。比如一个人被打的脾破裂大出血，法医只能写出因脾破裂失血过多死亡。重点是关注怎么导致的胃内容物返流。不是这个返流对不对。关注点放对好吗？我现在就想知道警察做了什么让他胃内容物返流的！</p>
+<p>@小塔jjjsxz：就是误流返吸呗，现在是在转移关注点，我们关注的是他为什么会出现误流返吸！这种情况在手术中和术后会出现，而在正常审讯过程中出现表示不可理解，还在曲折转移关注点</p>
+<p>@唯一技术流：有一点基础常识的应该都懂—就是呼吸道窒息导致的，外力导致的呼吸道窒息两种可能—扼颈或捂口鼻，当然很重的心血管疾病患者也会出现这种状况，结合雷洋案件—外力导致的几乎不用争论，壮年男人捂口鼻导致窒息的也不可能，所以不管有意还是无意肯定是被扼颈了</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/533854/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E5%B0%B8%E6%A3%80/?category=18271" rel="tag">雷洋尸检</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B8%83%E5%B1%80%E5%8D%81%E4%B9%9D%E5%A4%A7%EF%BC%8C%E6%B1%AA%E6%B4%8B%E6%9D%8E%E6%BA%90%E6%BD%AE%E5%89%8D%E6%99%AF%E4%B8%8D/" target="cdt-mirror">美国之音｜习近平布局十九大，汪洋李源潮前景不妙？</a>
+</h2>
+<p><p>最近，不少海外华人媒体报道了中共政治局委员，国家副主席李源潮秘书被抓，家人被查的传闻。此前已经有多位由李源潮提拔的“江苏系”官员落马，一些分析人士因此认为李源潮政治前途堪忧。与此同时，炒得沸沸扬扬的乌坎事件，也被一些分析人士看成是另一位团派领军人物汪洋的政治遗产“全军覆没”的征兆。此外，最近省级官员人事异动频频，中纪委在多个党政部门加紧反腐清查，这些都被看成是十九大前人事大整顿的前奏。李源潮与汪洋这两位曾经一度的团派政治之星，是否政治前途不妙？习近平布局十九大人事，还有哪些动作？</p>
+<p>参加讨论的四位嘉宾是：中共党史学者、《晚年周恩来》一书的作者高文谦先生；中国民间学人，独立评论人士王康先生；人权组织“公民力量”创办人杨建利先生；政论作家，时事分析人士陈破空先生。</p>
+<p>陈破空表示，习近平抓捕李源潮的下属和身边人，是冲着李源潮而来；乌坎风波再起，则是冲着汪洋而来。鉴于李源潮和汪洋都是团派实力派人物，习近平应该并非要将李源潮、汪洋投入大牢，习的主要目的，是阻止李、汪二人明年十九大进入政治局常委会。通过反腐运动，习近平削弱了江派，如今，又以各种理由，开始打压团派。习近平的谋划是，十九大排除江派和团派，让“习家军”一家独大。然而，“习家军”还没有成气候，突击提拔，可能引发党内反感，所以，习近平此举，也潜存相当风险。另外，汪洋和李源潮都属于开明派，外界风评不错，习近平打击他们，可能强化习近平自己保守、强硬和极左的形象，反而对自己不利。尽管，习近平与李源潮、汪洋及团派的斗争，并非意识形态领域的斗争，而是赤裸裸的权力斗争。</p>
+<p>高文谦认为，整肃李源潮应该不是空穴来风，是习近平十九大人事安排棋局中的一着棋。团派经营多年，占有年龄优势，挡了习家军上位的路。在团派中，李克强只是一个牌位，真正的实力派人物是令计划和李源潮。令倒台后，李源潮成为团派的中坚，特别是他掌管中组部多年，经他手提拔的官员遍布官场，江苏省更是他的大本营。现在习近平、李克强交恶，党内出现反习势力，推李克强出来当共主，动李克强牵动太大，李源潮就成为开刀的对象。李源潮是否会落马，现在情况仍不明朗，存在变数，不过可以肯定，习近平要拿李源潮开刀，至于整到哪一步，取决于十九大前中共高层各派的较量。最后的结果可能是：一是敲山震虎，只整江苏帮和李源潮家人，对李本人软处理，平安降落；二是直接整到李源潮头上，落得和令计划一样的下场。究竟如何，还要再看。</p>
+<p>杨建利表示，李源潮有年轻能干的形象，同时相对较为开明，包括在江苏主政期间和八九期间，自由知识分子们对他的印象不错。他在政坛的经营不光是在江苏，更是在中共组织部的经验。但是他有一件事犯了习近平的大忌，就是 2012 年时他和令计划在北戴河会议上搞过一个党内接班人摸底，当时他和令计划的得票非常高。这件事可能一直让习近平耿耿于怀。因此他以后能够不进监狱顺利退休就已经是幸运了。</p>
+<p>杨建利说，仅从人民日报文章“中央主要领导机构历史演进”我解读不出习近平要废除政治局常委的意图，然而的确，如果废除了政治局，只设办事机构书记处，相当于秘书处，会有利于习近平集权，也会使得权力争夺一维化──最高权力，赢者通吃。不过这种可能性不大。其实十九大最重要的还是要看是否会改变最高权力产生的游戏规则，会不会设储君，这些直接和习近平两届任满以后的企图有直接关系。不管怎样，未来一年权力斗争将激烈化， 5 年内权力斗争将白热化。</p>
+<p>王康表示，如果说李源潮是个比较开明的官员，那么汪洋更加开明。汪洋主政重庆期间曾开展了一系列开明导向的举措和政策来鼓励民营企业和民众的言论自由。汪洋还试图在广东建立小政府大社会，他是一个比较有人情味的官员。</p>
+<p>王康说，只要中共坚持一党专制，其最高权力的继承和转移就在腥风血雨和宫帷幕后之间，人民的选择权、知情权不会实现。中共建党已 95 周年，执政 66 年，至今仍然奉行列宁斯大林当国模式，新一轮权力较量随 19 大的临近而日趋激烈、险恶。人们所能获知的只是冰山一角，关心中国政局者所能借以分析的资讯也只是凤毛麟角。因为中国日趋强大，中共这种黑箱操作的权力斗争的影响将成比例增大。肯定会有出人意外的人事变化，也可能出现 2012 年在重庆出现的戏剧性突变，无论鹿死谁手，人民都是看客，这是当代中国最现实的危机。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B8%83%E5%B1%80%E5%8D%81%E4%B9%9D%E5%A4%A7%EF%BC%8C%E6%B1%AA%E6%B4%8B%E6%9D%8E%E6%BA%90%E6%BD%AE%E5%89%8D%E6%99%AF%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%BA%90%E6%BD%AE/?category=18271" rel="tag">李源潮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%AA%E6%B4%8B/?category=18271" rel="tag">汪洋</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%8A%9B%E6%8C%BA%E7%BE%8E%E5%88%86%E6%B4%A5%E8%B4%B4%E8%A1%A8-%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%88%A0%E5%90%8E%E9%87%8D%E5%8F%91/" target="cdt-mirror">共青团中央力挺“美分津贴表” 微博被删后重发</a>
+</h2>
+<p><p>共青团中央 官方帐号于北京时间2016年7月2日发微博抱怨，称其所发文章《<a href="http://weibo.com/ttarticle/p/show?id=2309403992503496890297" target="_blank">媒体观察：网曝“美分”队伍<舆情员津贴奖金发放表>，是真是假？”</a>》遭新浪微博删除：</p>
+<blockquote><p><a href="http://weibo.com/3937348351/DCOrbFNzz" target="_blank">@共青团中央</a>：据网友反应，这篇帖子被删除。但，并非我们删除，所以再次贴出。 <a href="http://t.cn/R5RdGWN" target="_blank">媒体观察：网曝“美分”队伍《舆情员津贴奖金发… </a></p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%BE%AE%E5%8D%9A-copy.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%BE%AE%E5%8D%9A-copy.png?resize=500%2C382" alt="共青团中央微博 copy" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/共青团中央微博-copy.png?w=602 602w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/共青团中央微博-copy.png?resize=300%2C229 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>6月27日，一个叫“察网”的网站高调<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91/" target="_blank">发布了相关内容</a>，并为“津贴奖金发放表”中的所谓“部直属第5分队”成员扣上了“网络反共反华组织”的帽子。南平市团委官方微博随即跟进转发：</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/54786a23gw1f5ajlb8da4j20qo1be7f3.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/54786a23gw1f5ajlb8da4j20qo1be7f3.jpg?resize=400%2C711" alt="54786a23gw1f5ajlb8da4j20qo1be7f3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/54786a23gw1f5ajlb8da4j20qo1be7f3.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/54786a23gw1f5ajlb8da4j20qo1be7f3.jpg?resize=169%2C300 169w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>截图来源：新浪微博 @daoke1109</span></p></div>
+<p><strong>@共青团中央 显然对这份来源不明的“津贴奖金发放表”非常重视</strong>，在察网原文的基础上<strong>作了大量网络调查、增加更多“水军团队成员”信息<strong>后</strong></strong>，发表了那篇被删的“分析”文章。该文在总结中承认无法直接证明上述表格的真实性，但认为“成员”的言论“政治倾向”、“网络行为”与“反华”组织的特点“吻合”：</p>
+<blockquote>
+<ol><li>并没有直接证据证明《发放表》的真实性。</li>
+<li>但就从四名疑似人员来看，其言论政治倾向吻合，网络行为吻合。</li>
+<li>从 组织结构来看：把具有较强原创能力、较老资格的梅雪飘香定为1级成员，把具有较强原创能力的段子手活雷锋啊小东定为2级成员，把具有较强活动能力、言论 激烈且较老资格的张激扬定为2级成员，把能力较差的新手让子弹飞一会儿定为4级成员，成员级别划分合理，符合组织搭建和绩效规则。</li>
+<li>从社交关系和转发关联来看，四名疑似人员与秦火火、薛蛮子、杨恒均以及茅于轼、贺卫方等具备普遍网络关联。</li>
+</ol></blockquote>
+<p>换而言之，即<span><strong>对团中央来说， 接受“境外资助”的、类似极左阴谋论中所谓“<span><a href="http://chinadigitaltimes.net/chinese/2013/11/%E6%B3%95%E5%B9%BF-%E4%B8%8A%E6%B5%B7%E8%A7%86%E7%AA%97-%E3%80%8A%E8%BE%83%E9%87%8F%E6%97%A0%E5%A3%B0%E3%80%8B%E5%BC%95%E7%94%A8%E7%9A%84%E4%B8%AD%E6%83%85%E5%B1%80%E5%8D%81%E8%AF%AB/" target="_blank">第五纵队</a></span>”的“网络反共反华组织”是真实存在的，这里的问题只是具体名单／数据的真实性而已</strong></span><strong>。</strong></p>
+<p>@共青团中央 被删微博截图：</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b8be4bf7jw1f5einywy9vj20qo1betiz.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b8be4bf7jw1f5einywy9vj20qo1betiz.jpg?resize=400%2C711" alt="b8be4bf7jw1f5einywy9vj20qo1betiz" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b8be4bf7jw1f5einywy9vj20qo1betiz.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b8be4bf7jw1f5einywy9vj20qo1betiz.jpg?resize=169%2C300 169w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>截图来源：新浪微博 @杀手太冷2013</span></p></div>
+<p>然而在共青团中央跟进之前，李剑芒（<a href="http://weibo.com/5880794146/DCflLvp61" target="_blank">@李大大263</a>）就曾在微博质疑过这份表格的真实性。李称据他所知，该表格为某微信群中的一名成员所编造，且“奖金”发放名单上多为该群的成员：</p>
+<blockquote><p><a href="http://weibo.com/5880794146/DCflLvp61" target="_blank">@李大大263</a>：是无聊，还是有目的？网上突然疯传一个五毛津贴表格（图一），因为我知道这个表格是一个群里（我不在那个群但网友传来那个群的截图）叫“胡来”的网友自己瞎编出来的（图二），表格上的人基本都是那个群的成员（图三）。当微博有人问我真假时，我回答：“假的。一个微信群制造的自娱自乐，名单上多是那个群的成员”。读者告诉我，新浪屏蔽了我的这个回复帖子，这让我感到意外。我以为这是网友无聊，自娱自乐，可新浪屏蔽我干什么？难道不是胡闹而是是有政治目的的造谣？<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5d951naw3j30qo1bejw9.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5d951naw3j30qo1bejw9.jpg?resize=400%2C711" alt="006pZdcugw1f5d951naw3j30qo1bejw9" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5d951naw3j30qo1bejw9.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5d951naw3j30qo1bejw9.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5d951naw3j30qo1bejw9.jpg?resize=576%2C1024 576w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarlpu8aj30iv0dkdhw.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarlpu8aj30iv0dkdhw.jpg?resize=500%2C359" alt="006pZdcugw1f5aarlpu8aj30iv0dkdhw" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarlpu8aj30iv0dkdhw.jpg?w=679 679w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarlpu8aj30iv0dkdhw.jpg?resize=300%2C216 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarr3zs7j30yi1pctgb.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarr3zs7j30yi1pctgb.jpg?resize=400%2C711" alt="006pZdcugw1f5aarr3zs7j30yi1pctgb" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarr3zs7j30yi1pctgb.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarr3zs7j30yi1pctgb.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarr3zs7j30yi1pctgb.jpg?resize=576%2C1024 576w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
+<p>@李大大263：这个“工资表”又被@察网中国 和@南平团市委 炒作成了“秦火火网络颠覆”组织。靠！这群自娱自乐的团伙被网民大骂了一通五毛后，现在又被官媒炒作成了反共团伙。</p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/n/%E6%9D%8E%E5%A4%A7%E5%A4%A7263?from=feed&loc=at" target="_blank">@李大大263</a>:看来团中央和党中央干起来了。搬个板凳看热闹。看看俩中央哪个能打赢<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"></p>
+<p>@夜郎太医：即使被裁撤，减狗粮，影子中央仍没消停，不甘心淡出舞台。</p>
+<p>@历史的眼睛：这真是团的官微发的？我不敢相信自己的眼睛</p>
+<p>@陈业文新大都:这是团中央官博发的？还连发了两次？试问，是国外的间谍机构太弱智，还是他们太拙劣？居然脑残到用如此手段发放“报酬”？你们这是在黑我大中国反间谍机构都是一帮蠢货傻逼么？</p>
+<p><a href="http://weibo.com/2636473121" target="_blank">@远东异端审问官</a><i></i>：团团这么low我也就放心了。我曾经以为前国台办的外交已经够low了。结果党营rap和共产拉拉证明没有最low，只有更low。加油！百岁冥诞有你团团的一份功<img title="[兔子]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/rabbit_org.gif" alt="[兔子]" data-recalc-dims="1"></p>
+<p>@渡缘养心：两条五毛狗相互撕咬，最后双双臭烂在街角。</p>
+<p>@闻辛2012：捡到一张群内玩笑的表格，好像在水中抓到一根稻草。</p>
+<p>@缘海孤洲：一大批五毛：老子不干了了！</p>
+<p>@中山牛牛:帮转，看看我们的泱泱共青团中央日常都在做些什么正经的事情 。</p>
+<p>@思维之思维：感觉像是一个打魔兽的初中生在管理团中央的微博</p>
+<p>@村长鲁阿满：二中央培养五毛，捡图造谣，左翻中国。</p>
+<p>@华莱士飞蛤转世：能把一个别人钓鱼用的搞笑帖子当真拿出来四处显摆不删你删谁，新浪这是在保护党中央的声誉</p>
+<p><em><strong>新浪微博躺枪：</strong></em></p>
+<p>@慕庚啲跳跳Kiki：团团，应该是你管渣浪，而不是渣浪管你啊！！！主次搞清好嚒！！//@哈迪爱韩庚: 团团，你真的不考虑跟上级反映一下渣浪的问题？</p>
+<p>@南音-聪：渣浪这样已经不是一次了。因钓鱼岛事件时，渣浪删评论，删微博。因湾湾与大陆事件时，渣浪删评论，删微博。而且貌似听说，渣浪高层中有日本人和台独呢，所以，显而易见啊。团团，你应该管管渣浪啦@共青团中央</p>
+<p>@who温文：没天理了，还是共产党的天下吗？</p>
+<p>@KS-再流：渣浪，应该好好清查下了，中国的网络平台不应该被其他势力控制。</p>
+<p>@随风的xs：支持团中央带领大家砸烂党中央某些走资派的狗头</p>
+<p>@love小麦晓赟：新浪啊，日杂美分的垃圾。。很多不给评论的微博，大部分是新浪设置的。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%8A%9B%E6%8C%BA%E7%BE%8E%E5%88%86%E6%B4%A5%E8%B4%B4%E8%A1%A8-%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%88%A0%E5%90%8E%E9%87%8D%E5%8F%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%B7%AF%E5%85%9A/?category=18271" rel="tag">带路党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%88%86%E5%85%9A/?category=18271" rel="tag">美分党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%B6%8C%EF%BC%9A-%E5%A6%82%E6%9E%9C%E4%BD%A0%E9%80%86%E8%A1%8C%E5%9C%A8%E6%B3%95%E6%B2%BB%E9%81%93%E8%B7%AF%E4%B8%8A%EF%BC%8C%E6%AF%8D%E6%A0%A1%E5%B0%86%E5%8F%AC/" target="cdt-mirror">法网｜王涌： 如果你逆行在法治道路上，母校将召你回来抄宪法</a>
+</h2>
+<p><blockquote><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpg?resize=550%2C408" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpg?resize=300%2C223 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>“如果有一天，你无力抵御沉沦，沦为鹰犬，逆行在法治的道路上，母校将会喊你回家——去‘抄宪法’。” 中国政法大学教授王涌在2016届本科生毕业典礼发表致辞，题为《你们是英雄辈出的九零后》。</p></blockquote>
+<p>亲爱的同学们：</p>
+<p>你们好！</p>
+<p>昌平是一个童话世界，你们是二千零二名精灵。</p>
+<p>今天，剧本已翻至末页，互道珍重后，就要离别。</p>
+<p>四年的光阴，你们在这里编织青春，回忆历历在目。</p>
+<p>晨曦初照时，你走出梅园、兰园、竹园和菊园。宪法大道上的拓荒牛，就像你的兄弟，向你颔首致意；紫藤架下的猫儿，像一群流浪歌手，为你的晨读伴唱。</p>
+<p>在厚德殿和明法殿，你遇见讲坛上流派各异的王子、小矮人和侠客，为你讲述法治国的传说，你迷醉其中。</p>
+<p>松柏林中，钱端升爷爷永远在向你微笑，但你一直没有猜透：他老人家在想什么？</p>
+<p>在法渊阁和文渊阁，你与睿智的心灵对话。你掩卷沉思，望着窗外，天空霞光万丈，每一片梧桐树叶都是金色的，正如你梦幻般的青春。</p>
+<p>心情忧郁时，你在十三陵水库边漫步，想象末代帝王的悲怆和凄凉，一扫心中的爱恨情愁。</p>
+<p>心情欢畅时，你登高军都山，远眺紫禁城，想象三百年前，闯王李自成挥师昌平，沿着你熟悉的345公交支线的道路，攻入德胜门。</p>
+<p>遐想中，你穿越了。你变身为一名英雄，站在城墙上，向城内的王侯将相宣讲宪政理想，不幸身中暗箭，醒来时，你泪流满面。</p>
+<p>显然，你已经患上法大人典型的魔幻现实主义的症状！恭喜你！你合格毕业了！</p>
+<p>这就是你们——可爱的法大九零后的学子们，你们如此地感动我们。</p>
+<p>今天，迈出校门，你将从童话世界，步入现实世界。微信朋友圈都在祝你幸福，但今天不是你的婚礼，我不祝你幸福；今天是你的毕业典礼，我祝你成为英雄。</p>
+<p>从前，法大有一位诗人叫海子，他曾经在这座礼堂朗诵过他的诗篇。他说：“我要做远方的忠诚儿子和物质的短暂情人”，但是，短暂情人没有做成，因为物质匮缺；远方也渺茫不见，因为他说：“远方，除了遥远，一无所有”。他的生命终结在通向远方的铁轨上。他的诗篇和他的宿命，是你父辈那代人曾经的梦想与绝望。</p>
+<p>三十年已逝，沧海桑田，成就举世瞩目，国运正在逆转。理想国就在前方，但新的大山和陷阱正隐隐地张开狰狞的面孔，体制的惰性无力自拔，时代呼唤英雄。</p>
+<p>你们是九零后人。翻开上世纪末的日历，你们出生于邓小平南巡讲话之后，正是严冬消退改革复活之时，改革是你们的胎记。之后，你们与互联网共同成长，开放是你们的天性。</p>
+<p>你们禀赋独特，会怀疑，会翻墙，会判断，有情怀，有智慧，有见识，人小鬼大，大道无形。无法想象，你们的未来会在上世纪遗留下的枷锁中度过。</p>
+<p>一代人的成长节奏与一个国家的成长节奏不期而遇，必将碰撞出灿烂的火光，点燃你们的人生。时势造英雄，九零后人的哲学注定不是幸福哲学，而是英雄哲学。九零后一代，必将英雄辈出！</p>
+<p>所谓英雄，首先是心灵的英雄。人生是一场驾驭心灵与时间的旅程，十之八九是艰辛，幸福不过一二。驾驭者是英雄，被驾驭者必然沉沦。</p>
+<p>所谓英雄，是思想的英雄。英雄只向真理低头，思想的英雄不谄媚于权力，也不迎合大众。真理本无所谓左中右，客观理性和民族利益是发现真理的两只眼睛，你们必须向21世纪的中国贡献精纯的思想。</p>
+<p>所谓英雄，是行动的英雄，是政治的英雄，正如法大校友榜上的熠熠群星。</p>
+<p>在法大校友中，有一种人，他们没有官衔，没有财富，但坚毅地为法治理想战斗，广受爱戴。他们是公民的英雄，是母校的骄傲，是你们的榜样。</p>
+<p>相信有一天，你也会成为他们。那时，“<a href="http://cn.nytimes.com/china/20150202/c02pu/">你在战斗，母校注目；你蒙冤狱</a>，<a href="https://www.letscorp.net/archives/98940">举国震动；人生辉煌，莫过于此</a>。”</p>
+<p>当然，在法大校友中，也有一种人，在社会染缸和国家机器中，随波逐流，迅速堕落。权力在手，肆意滥用，不问法律底线，践踏人权，制造<a href="http://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/">雷洋案式的悲剧</a>，他们是公民的公敌，是母校的耻辱，是你们的对手。</p>
+<p>如果有一天，你无力抵御沉沦，沦为鹰犬，逆行在法治的道路上，母校将会喊你回家——去“抄宪法”。</p>
+<p>人生奇幻，奥妙幽深。衡量一个大学教育的成功，不是浅表的知识灌输，最珍贵的是，大学是否在你们心中点燃崇高理想的火焰，是否在你们身上种下抵御沉沦的基因，这才是你们人生力量的源泉。</p>
+<p>同学们，请不要忘记，去年的一个冬夜，也是在这座礼堂，江平先生洪钟般的寄语。他说：“法大学子要保持一颗赤子之心，不仅现在，而且将来”。他的声音随着雪花，飘进你的心，伴你一生一世，抵御沉沦。</p>
+<p>时间是冷酷的推手。在路上，年迈的英雄将一位位离去，年青的英雄将一个个崛起，薪火如斯相传，法治国的城门终将会被打开！</p>
+<p>同学们！</p>
+<p>你们是英雄辈出的九零后！</p>
+<p>我们对你们充满期望！</p>
+<p>向你们致敬！</p>
+<hr><p><small>© 中国好网民 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%B6%8C%EF%BC%9A-%E5%A6%82%E6%9E%9C%E4%BD%A0%E9%80%86%E8%A1%8C%E5%9C%A8%E6%B3%95%E6%B2%BB%E9%81%93%E8%B7%AF%E4%B8%8A%EF%BC%8C%E6%AF%8D%E6%A0%A1%E5%B0%86%E5%8F%AC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">政法大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%95%E4%B8%9A/?category=18271" rel="tag">毕业</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1%EF%BC%8C%E6%89%8D%E8%83%BD%E8%BF%98%E5%8E%9F%E5%8E%86%E5%8F%B2%E7%9C%9F%E5%AE%9E/" target="cdt-mirror">FT中文网｜张千帆 ：言论自由，才能还原历史真实</a>
+</h2>
+<p><div>北京大学宪法学教授 <a href="http://www.ftchinese.com/search/%E5%BC%A0%E5%8D%83%E5%B8%86/relative_byline?t=m">张千帆</a> 为FT中文网撰稿</div>
+<div>
+<div><img src="https://i2.wp.com/i.ftimg.net/picture/2/000058472_piclink.jpg" data-recalc-dims="1"></div>
+<p>近日，北京市西城区法院对“狼牙山五壮士”的后人起诉洪振快损害其先人名誉案做出一审判决，认定洪振快对“狼牙山五壮士”的历史考证“降低他们的英 勇形象和精神价值”，判决其败诉并向原告赔礼道歉。早先，洪振快等曾诉郭松林、梅新育对其辱骂，却被判决败诉。至此，围绕“五壮士”的这一轮诉讼至少有了 初步结果，那就是“骂娘”有理，历史探究则成了法律不容许的“历史虚无主义”。</p>
+<p>稍后，中国社科院法学所学者对判决进行了法理评论。其中民法 学者孙宪忠教授支持法院的结论，认为洪振快的“分析和推测均建立在未经证实的言论的基础上，并不具有可信性”，因而构成“文章的基本内容失实”。宪法学者 莫纪宏教授则认为，“狼牙山五壮士”及其所体现的民族精神“明确属于社会主义核心价值观念层面的‘公共利益’……在公开的媒体上发表一些没有经过司法认定 的‘事实’和‘证据’，无疑会严重损害社会主义核心价值观的传播。”</p>
+<p>首先要说明一个逻辑常识，“核心价值观”是不可能和“狼牙山五壮士”直 接划等号的，因为“价值观”是价值，“五壮士”是事实，二者是本质截然不同的两类命题。价值观告诉我们应该或不应该做什么，譬如“核心价值观”中有“自 由、民主、法治、公正”，我认为都是“好东西”，是一个文明国家应当追求的目标。“狼牙山五壮士”则是一个实然的故事，无所谓应不应当；我们显然不能说， 应当追求“狼牙山五壮士”，这是语法不通、没有意义的表述。也许我们应当学习这则故事中主角体现出来的爱国精神，但前提是“五壮士”是一个真实的故事，而 它真不真实和好不好是两个完全独立、需要分别验证的命题。</p>
+<p>譬如有人编了一则故事，说“雷海迪”这个人如何积极践行了“社会主义核心价值 观”，那么我可以说这套价值观确实很好，但是“雷海迪”这个人或其英雄事迹并不存在；这个人是否存在，和我是否认同核心价值没有关系。不能说因为“雷海 迪”这则故事是在宣传核心价值观，就不能质疑这个故事本身的真实性。如果“雷海迪”的英雄事迹根本不存在，通过他来宣传核心价值观岂不是拿整个民族开玩笑 吗？</p>
+<p>法 院判决和上述二位学者都认为，“狼牙山五壮士”已经是一个既成事实，似乎否定这一事实就是对民族精神与核心价值观的伤害。法院判决指出：“‘狼牙山五壮 士’及其精神已经获得全民族的广泛认同，是中华民族共同记忆的一部分，是中华民族精神的内核之一，也是社会主义核心价值观的重要内容。”孙宪忠教授说， “狼牙山五壮士”的英雄事迹“已经成为我国民族精神的一部分，因此在社会公众的民族和历史情感也在一定程度上受到了伤害”。</p>
+<p>但我认为，一种 负责任的态度是在认定任何一个故事是否构成“民族共同记忆”之前，首先要考证这个故事的真实性。如果故事本身不真实，那么即便之前的宣传使之获得某种“广 泛认同”，也不能强求整个民族将其接受为“共同记忆”、“民族精神的内核”或“核心价值观的重要内容”。在这种情况下，后人或社会公众也不能因为感情上接 受不了，就获得禁止别人考证故事真实性的法律权利。因此，不论“五壮士”与核心价值观之间的关系如何，其真实性都是可以且需要考证的。显然，一个民族所要 共同追求的核心价值观必须建立在经得起考证的真实历史之上。</p>
+<p>也许有人认为，任何一个民族都需要“神话”才能凝聚起来，道破“美丽的谎言”本 身就是莫大的罪恶。也许美利坚、法兰西、德意志各有各的建国“神话”，但即便如此，神话也是可以挑战的，经不起自由挑战的神话必然是脆弱的。事实上，这些 国家的历史观必定是多元的，反对主流史观的大有人在，但是主流史观之所以屹立不倒，正说明其自身的可靠性，而质疑主流的自由本身向社会公众昭示，主流史观 是有自信依据的。也许有人会说，德国等欧洲国家也不容许否定纳粹屠杀犹太人等铁板钉钉的史实。我个人认为，这些法律限制其实是没有必要的；与其用法律禁锢 某些错误的言论，不如让它们自由发表，并通过更多的自由言论击败它们。但即便认同这些法律的正当性，它们也只是禁止否认大屠杀等最基本的事实。至于某次具 体事件是否属实，则是完全可以公开辩论和质疑的。</p>
+<p>也只有允许质疑，才可能产生确信。不允许质疑，教科书统统采取一个官方钦定的版本，那么也 许会让某些轻信的人们一时相信故事的真实性，但这种信念是非常脆弱的，以至任何一个谣言都可能动摇之。而在过去，出于政治目的的宣传也确实不乏失实之处， 譬如“恶霸地主”刘文彩、“黄世仁”、“平型关大捷”。这些故事或子虚乌有，或严重掺杂水分。在信息多元的互联网时代，它们给许多读者一个印象，那就是教 科书的故事不可信。如果没有具体考证的话，那么“狼牙山五壮士”也将不例外。</p>
+<p>一审法院和某些学者担心，洪振快的考证会让读者不再相信“狼牙 山五壮士”的英雄事迹：“很多读者很可能被其文章误导，对狼牙山五壮士的英雄事迹产生质疑或否认。”我的看法恰好相反，洪振快的研究非但没有否定“五壮 士”的真实性，而且通过翔实的考证为我们提供了一个可能更为真实的“五壮士”版本。洪振快的贡献正在于去掉了以往宣传的一些水分，却肯定了故事整体的真实 性。我读了他的文章，最直接、最深刻的印象就是“狼牙山五壮士”确实有这么回事儿！至于故事细节如何，则是其次。我不知道他考证“五壮士”的主观动机是什 么，但是考证的客观效果是确证了故事整体的真实性。事实上，在他之前，确有人主张“五壮士”完全是杜撰。读了他的文章之后，这个故事就基本证实了；以后再 有人否定“五壮士”，得拿出比他更确凿的历史证据，才有可能动摇我的想法。</p>
+<p>“五壮士”的后人和某些读者可能认为，洪振快的研究让“五壮士” 原先的光环褪色，因而损害了他们的名誉，但是这显然并不能代表所有读者的感受。在一个很可能带有水分的宣传故事和一个被挤去水分、听上去不那么“壮烈”的 真实历史之间，我肯定会选择“干货”，因为后者更接近真实的人性，因而也更能让我感动。假如“五壮士”是神，那么我们当然期望他们不吃不喝、刀枪不入—— 谁让他们是神呢！事实上，跳崖都显得他们太无能了——为什么不像“横店”拍摄的抗日剧那样以一挡百、全歼日寇呢？当时的某些宣传就是这么报道的。然而，他 们只是能力有限的人，和常人一样有需求、有理智、有恐惧，但是他们最后依然选择抗争到底——这才是让我感动的地方。</p>
+<p>和这个大节相比，即便拔 过农民的萝卜又算得了什么？顶多抗战胜利回来，给农民补偿就完事了。也许“五壮士”并没有喊着“打倒日本帝国主义”的口号集体跳崖，其中有人是顺坡“溜” 下来的。如果可以保全自己的性命，这么做难道不很正常吗？在我看来，真正的勇者恰是那些抗争到底的人，他们绝不会在没有必要的情况下放弃抗争的能力和机 会。我们不妨问问自己，假如我们穿越时空，回到狼牙山目击“五壮士”跳崖的场景，我们究竟是希望他们简单一死了之，以便回来宣传他们的“英雄事迹”，还是 希望他们尽可能活下来，和敌军对抗到底呢？我肯定是希望看到后者。既如此，洪振快的文章又如何损害了“五壮士”中的幸存者的声誉呢？</p>
+<p>洪振快 挑战了不受质疑的教科书版本，还原了一个更为真实的历史故事。至于他的还原本身是否存在问题，需要更多的自由探讨才能澄清。很遗憾的是，一审判决却选择了 扼杀洪振快的言论，并以史学权威的口吻宣布：“被告洪振快发表的两篇文章在无充分证据的情况下，文章多处作出似是而非的推测、质疑乃至评价，通过强调与主 要事实无关或者关联不大的细节，引导读者对‘狼牙山五壮士’这一英雄人物群体及其事迹的细节产生质疑，从而否定主要事实的真实性。”有的学者还要求公开发 表的事实和证据须“经过司法认定”才算数。请问汗牛充栋的史学巨著中，有多少是“经过司法认定”的呢？难道法官比历史学家对历史事件的判断更可靠？一审法 院在宣判洪振快的文章“无充分证据”、“多处作出似是而非的推测”、“否定主要事实的真实性”之前，又征求过哪些史学权威的意见呢？</p>
+<p>不久 前，中国共产党总书记习近平在和知识分子座谈会上刚刚要求“不抓辫子、不扣帽子、不打棍子”；“即使一些意见和批评有偏差，甚至不正确，也要多一些包容、 多一些宽容。”现在，一审判决就把“历史虚无主义”、违背“社会主义核心价值观”的大帽子扣在一份完全正常的历史研究上。主审法官和某些学者似乎忘记了， 法院的首要职责是落实宪法、保护言论自由，而不是替代历史学家给史学研究打分。封杀历史研究的自由空间，恰好为历史虚无主义或虚假主义提供了避难所。</p>
+<p><i>（注：本文仅代表作者个人观点。责编邮箱<a href="mailto:bo.liu@ftchinese.com?Subject=Feedback%20about%20an%20article&body=http://m.ftchinese.com/story/001068278" target="_top">bo.liu@ftchinese.com</a>）</i></p>
+</div>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1%EF%BC%8C%E6%89%8D%E8%83%BD%E8%BF%98%E5%8E%9F%E5%8E%86%E5%8F%B2%E7%9C%9F%E5%AE%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A0%B8%E5%BF%83%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">核心价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%BC%E7%89%99%E5%B1%B1%E4%BA%94%E5%A3%AE%E5%A3%AB/?category=18271" rel="tag">狼牙山五壮士</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%88%B1%E6%80%9D%E6%83%B3%EF%BD%9C%E8%AE%B8%E5%B0%8F%E5%B9%B4%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%BF%B9%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E5%A4%B1%E7%81%B5%EF%BC%9F/" target="cdt-mirror">爱思想｜许小年：中国奇迹为何突然失灵？</a>
 </h2>
 <p><p>都说市场是一只无形的手，政府是一双有形的手，他们不分伯仲，各司其职。可是在特色国度里，就完全不一样了：抢占资源时，有形的手很疯狂。压低产能时，无形的手很无力。普降雨露时，自然亲疏有别。冲锋陷阵时，正庶各安天命。</p>
@@ -419,470 +986,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%82%A2%E5%89%AF%E6%89%80%E9%95%BF%E6%94%BF%E6%B3%95%E6%AF%95%E4%B8%9A%EF%BC%8C%E9%82%A3%E5%A4%A7%E9%B8%AD%E6%A2%A8%E5%91%A2/" target="cdt-mirror">仕图｜邢副所长政法毕业，那大鸭梨呢？</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B0%B4%E6%AF%8D%E4%BE%A6%E6%8E%A2%E7%A4%BE.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E6%B0%B4%E6%AF%8D%E4%BE%A6%E6%8E%A2%E7%A4%BE.jpg?resize=550%2C333" alt="水母侦探社" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?w=2004 2004w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=300%2C182 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=768%2C465 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=1024%2C620 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/水母侦探社.jpg?resize=80%2C48 80w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>水母侦探社 天涯资料页面截图；该账号为雷洋事件发生后注册，所有发表内容均与该案有关。</span></p></div>
-<p><strong><br>
-来自微信公号：仕图（ID: shi4tu2）<br></strong><br>
-水母侦探可不是一个草根号，操作者是警行内部人。今天他们发了一条《雷洋人大毕业 邢副所长呢？》后来被删除。</p>
-<p>那篇文章的感觉特别奇怪，充满着出租车司机的叙事方式，孟良哭焦赞纯粹瞎捣乱的忧郁气质，和特别路遥特别平凡世界的世界观：</p>
-<blockquote><p>邢所的老家，是国家级的贫困县，国家级啊兄弟。</p>
-<p>邢所的父母都是文盲，一个字都不认识，真的。他们的老家，家里穷到什么份儿上？那真的是大山里头的一栋破木瓦房，电影里那种。</p>
-<p>说得毫不夸张，邢所真的是靠父母卖羊种地四处借钱，完了从小光着脚去上学，就是这样拼了命的念书 。</p>
-<p>再后来，全村人都看出来，这孩子有出息。</p>
-<p>于是全村人一起卖羊，真的，一起卖，供邢所念书，就这样，邢所参加高考那年，是甘肃省全省的高考文科状元啊，当时全村都轰动了。</p></blockquote>
-<p>后来人们证实，邢所高考的2001年，甘肃省文科状元叫于哲，根本不是什么省状元。</p>
-<p>状元和学生会主席是天下最容易被冒认的职务，好多所谓的状元，其实都是市状元或者县状元，含金量很低。</p>
-<p>奇怪，看这么多细节，你会觉得这个北京本地的警察叔叔是插队在甘肃，看着“邢所”长大的，但其实不是，后面这个警察说他去过另一个被逮捕辅警的家马鞍山，如果他去过甘肃邢所家里一定会提到，所以他没去过，但是邢所又被他描述为一个特别老实木讷的人，如果是那样的话那以上这些细节，就是他在依靠邢所比较平常的描述在脑补。</p>
-<p>跟邢所称兄道弟的，不会是新警察了，一个警察说话的画风倾向于夸大和描述，真不是社稷之福。出租车这样我们一般可以接受，我们打出租为什么比快车贵，就是有听故事的钱在里面。</p>
-<blockquote><p>我们北京孩子，下了班以后，一起聚一聚，看看球，吃吃饭，是吧，很正常，但是邢所从来不参与。</p>
-<p>他不参与是为什么？</p>
-<p>不是因为没钱，是因为守规矩。</p>
-<p>由于他的家庭，他的出身 ，他不像我们北京孩子，他特别珍惜公安局这份工作。他从来没有觉得我是高考状元，你们就应该捧着我，恰恰相反，他就是觉得自己一个农村出来的孩子，现在能留在北京当公务员，还能解决户口问题，那对他来说，简直就是不敢想象。</p>
-<p>他不参加我们的业余生活，就是因为他要把全部时间，都投入到工作里。</p>
-<p>真的，我毫不夸张，他的生活当中，只有工作。</p></blockquote>
-<p>一个精忠报国的形象跃然手机屏幕上。</p>
-<p>注意，我们可以看得出这位北京同事对邢所的欣赏，其实北京真的挺博大，警察这行只要不怕苦（偷奸耍滑别人就要多辛苦），不装逼（拿着211985会被灭得很惨），再有一颗感恩的心（别忌讳自己穷，多当自嘲说说没关系）大家都会喜欢。</p>
-<p>分到警队的大学生，分到车间的大学生，分到小学的博士生，都可以学习这种处事，没有关系，可以敬业，厚道，就有了朋友。</p>
-<blockquote><p>说实在的，我们很多民警，都是警院专科毕业，要是本科的，比如公安大学毕业的，那分到我们这里都是人才啊。</p>
-<p>更何况邢所当年是高考文科状元，你说是不是，又是政法大学学法律的，那绝对是人才中的人才啊。</p>
-<p>所以说邢所能当副所长，完全是靠自己的素质，你想，一个山里出来的孩子，能有什么关系什么背景吗？</p></blockquote>
-<p>已经是业务上很佩服了，但是你也可以看出他们另一道沟：</p>
-<blockquote><p>再后来，邢所和北京的一个女孩儿结婚了，住的也是人家的房子，说白了，倒插门。</p></blockquote>
-<p>范喜良为什么被秦始皇抓了壮丁？范喜良是赘婿，倒插门到孟姜女家的女婿，这样的人都是穷人。这点上你可以看得出本地同事对他又怜悯又瞧不起的那种复杂情感。</p>
-<p>奇怪，纪律部队不是也从延安西柏坡走来的吗？那时候结婚都是被子放在一起，借一孔窑洞就结婚了啊。警队是国家机器里最世俗的，不然没法办事了。</p>
-<blockquote><p>结婚的时候，真的毫不夸张跟你说，压根没钱办婚礼。</p></blockquote>
-<blockquote><p>是我们全所全员出动凑钱，你去外头借辆奔驰、我去亲戚家凑量宝马，这么着，勉强凑出来的婚车车队。</p></blockquote>
-<p>年轻人不都是这么穷么。没钱就送人司机点烟和糖，烦劳人给跑一趟。</p>
-<blockquote><p>哪儿办的婚礼啊？大鸭梨！</p></blockquote>
-<p>大鸭梨也不知道招谁惹谁了，是一个烤鸭家常菜的菜馆，人均大概70元消费左右吧，确实不算什么好的馆子。北京警察收入也不高，叫大鸭梨的盒饭应该也是很常见的。</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-10.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-10.jpg?resize=360%2C224" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-10.jpg?w=360 360w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-10.jpg?resize=300%2C187 300w" sizes="(max-width: 360px) 100vw, 360px" data-recalc-dims="1"></a><p><span>大鸭梨真的有鸭梨</span></p></div>
-<p>我打开了大鸭梨的官网，看见人大鸭梨还不明情况在那宣传呢，音乐土得很，有朝鲜的画风，标语还是信心满满：</p>
-<p>“大鸭梨，致力于一家受人尊重的企业。”</p>
-<p>还有一首《大鸭梨人之歌》！</p>
-<p>“我们踏着春天的旅途，走过岁月走过风雨。我们迈着坚定地的步伐……要把民族的悠久文化……弘扬中国……前进，前进，向前进，我们是坚定的大鸭梨人……”</p>
-<p>我把官网链接放在“阅读原文”里，有兴趣的可以去听……</p>
-<p>这个董事长叫孙秀萍，是一个北京本地人。2010年人大鸭梨还是北京美食50强呢……</p>
-<blockquote><p>你能想象吗，你要是老家是外地的，一聊起来你们家儿子在北京当警察，那在当地就是光宗耀祖了。村里人都得高看你们家一眼。</p>
-<p>那你去问问，大鸭梨这样的地方办婚礼，算是什么等级吧，你自己琢磨。</p></blockquote>
-<p>很多外地人在北京根本就不办婚宴，因为本地一定有一个主场，有的老家本身亲戚不多，亲家又强大，在北京办也是可能的，外嫁京京嫁外有各种各样的烦恼，办婚礼是第一件事，对国安的态度是第二件事。</p>
-<p>北京阿sir说得很到位：你努力，我们服你，你贫穷，我们帮你，但是你要是在打大鸭梨办婚宴，完咧！兄弟们得记个十年二十年的。</p>
-<p>这几年见了好多奇葩躺枪，但这一次最离奇，一个警察涉嫌玩忽职守被逮捕了，他的同事回忆起他来，他办婚宴的家常菜馆子躺枪了。</p>
-<p>好奇怪，你会发现北京阿sir洗的点特别奇怪，但是好像又都挠在痒处上。</p>
-<p>对了，他其实是隔空喊话：</p>
-<p>“你们闹吧，你们把我们中最像你们的一个家伙给弄进去了。”</p>
-<p>读懂了这一句，我感觉出一阵杀进骨头里的寒。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/10/8.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/10/8.jpg?resize=250%2C250" alt="仕图" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/10/8.jpg?w=258 258w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/10/8.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2014/10/8.jpg?resize=70%2C70 70w" sizes="(max-width: 250px) 100vw, 250px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E9%82%A2%E5%89%AF%E6%89%80%E9%95%BF%E6%94%BF%E6%B3%95%E6%AF%95%E4%B8%9A%EF%BC%8C%E9%82%A3%E5%A4%A7%E9%B8%AD%E6%A2%A8%E5%91%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%A2%E6%B0%B8%E7%91%9E/?category=18271" rel="tag">邢永瑞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%B0%B8%E6%A3%80%E7%BB%93%E6%9E%9C%E7%A7%B0%E9%9B%B7%E6%B4%8B%E7%AA%92%E6%81%AF%E6%AD%BB%E3%80%80%E4%B8%A4%E8%AD%A6%E4%BB%A5%E7%8E%A9%E5%BF%BD%E8%81%8C%E5%AE%88/" target="cdt-mirror">博谈网｜尸检结果称雷洋窒息死　两警以玩忽职守罪逮捕</a>
-</h2>
-<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard01_712.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard01_712.jpg?resize=575%2C323" alt="Clipboard01_712" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard01_712.jpg?w=660 660w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/Clipboard01_712.jpg?resize=300%2C169 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"></a></p>
-<p>（博谈网记者苏智敏报道）在许多媒体帐号微博都关闭评论下，雷洋的尸检结果终于发布。北京市人民检察院在6月30日下午发布通报，尸检鉴定意见确定死者雷洋符合胃内容物吸入呼吸道致窒息死亡。</p>
-<p>检方的通报并指出，“涉案警务人员在执法中存在不当行为，昌平公安分局东小口派出所副所长邢某某、辅警周某起主要作用，且在案发后有妨碍侦查的行为。根据其行为性质和办案实际需要，北京市人民检察院第四分院已报请北京市人民检察院批准变更强制措施，对邢某某、周某以涉嫌玩忽职守罪依法决定逮捕。”</p>
-<p><strong>真相？</strong></p>
-<p>这份尸检意见推翻了之前北京警方称雷洋是死于心脏病突发的说法，检方的通报也没有解释造成雷洋胃内容物吸入呼吸道致窒息死亡的原因。而雷洋家属见到雷洋尸体时，其头部、手臂和腿上有明显淤血，嘴角有血迹，睾丸异常肿大。家属认为明显是暴力殴打才能形成这样的伤害。</p>
-<p>事后，涉事民警上央视重述雷洋拒捕过程，并再次强调雷洋“嫖娼”：根据卖淫女的口供和现场提取的避孕套进行的DNA鉴定，证实雷洋当晚在足疗店嫖娼。</p>
-<p>5月17日雷洋家属及代理律师向北京市检察院递交的《关于要求北京市检察院立案侦查雷洋被害案的刑事报案书》中，指控警方在没有证据证实雷洋有嫖娼行为下，对其暴力殴打伤害，导致雷洋在不到50分钟内死亡。事后又进行一系列掩盖和伪造证据行为，已构成滥用职权罪、和故意伤害（致人死亡）罪、帮助伪造证据罪。</p>
-<p>现在，检方以涉嫌玩忽职守罪将邢某某、周某逮捕，显然与家属的期望有极大落差，将面对的刑罚也有一段差异。</p>
-<p><strong>量刑的差距</strong></p>
-<p>玩忽职守罪是指国家机关工作人员严重不负责任，不履行或不认真履行工作职责，致使公共财产、国家和人民利益遭受重大损失的行为。根据中国刑法，处三年以下有期徒刑或者拘役；情节特别严重的，处三年以上七年以下有期徒刑。和滥用职权罪的刑罚一样，</p>
-<p>而雷洋家属控告的三项罪名中，较重的为故意伤害罪，若是故意伤害他人身体，致人死亡或者以特别残忍手段致人重伤造成严重残疾的，可处10年以上有期徒刑、无期徒刑或者死刑。</p>
-<p>另一项帮助伪造证据罪，根据刑法，若以暴力、威胁、贿买等方法阻止证人作证或指使他人作伪证的，处三年以下有期徒刑或者拘役；情节严重者，处三年以上七年以下有期徒刑。帮助当事人毁灭、伪造证据，情节严重的，处三年以下有期徒刑或者拘役。司法工作人员犯前两款罪的，则从重处罚。</p>
-<p><strong>陈有西：将继续追查</strong></p>
-<p>转发尸检意见通报的媒体官微皆关闭评论，而财经网的三条相关微博中，只有一条开放评论。网友高呼“原来还有个地方可评论”，并认为尸检结果及两警的处置方式明显是大事化小、避重就轻。另有不少网友希望能解释为什么抓雷洋、及雷洋是否嫖娼等问题。</p>
-<p>而代理雷洋案件的陈有西律师，在尸检结果发布后，于个人微博作出回应。</p>
-<p>陈有西律师指出，死因已排除原警方和官媒通报的心脏病等死亡因素，案件定性关键问题已经解决。雷洋涉警前在街道正常行走，没有醉酒，胃内容吸入呼吸道导致窒息，只能是外力暴力导致。现在通报信息不全，其他身体伤痕是否同为致死原因，需要在收到尸检报告书后，进一步研判。本案罪名性质已明显不能定性为玩忽职守罪。检察院通报中已明确涉案警察有妨碍侦查行为，证实有伪造、隐匿证据妨碍侦查、误导社会的行为。现在只是初步侦查，希望对尚未执行逮捕的其他嫌疑人，和妨碍侦查、协助进行伪证掩盖真相的其他相关人，继续展开侦查。</p>
-<p>关键词: 雷洋 玩忽职守罪 栏目: 时事见解 栏目重点发表: 栏目头条 热门话题追踪: 雷洋事件 作者: 苏智敏</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%B0%B8%E6%A3%80%E7%BB%93%E6%9E%9C%E7%A7%B0%E9%9B%B7%E6%B4%8B%E7%AA%92%E6%81%AF%E6%AD%BB%E3%80%80%E4%B8%A4%E8%AD%A6%E4%BB%A5%E7%8E%A9%E5%BF%BD%E8%81%8C%E5%AE%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E5%B0%B8%E6%A3%80/?category=18271" rel="tag">雷洋尸检</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%BE%90%E8%B4%B2%E6%B2%89%E9%BB%98%E5%92%8C%E5%A4%B1%E5%BF%86%E7%9A%84%E5%9B%BD%E6%B0%91%E6%98%AF%E6%80%8E%E6%A0%B7%E6%95%99%E8%82%B2/" target="cdt-mirror">东方历史评论｜徐贲：沉默和失忆的国民是怎样教育成的</a>
-</h2>
-<p><p><em><strong>《东方历史评论》微信公号：ohistory</strong></em></p>
-<p>70年代，苏联勃烈日涅夫统治下的“再斯大林化”时期，苏联作家叶甫图申科碰到过这样一件事情。有一次他在西伯利亚的夏令营和一群青少年坐在篝火边，一位年轻姑娘提议“为斯大林干杯”。</p>
-<p>“为什么要为斯大林干杯？” 叶甫图申科问她。</p>
-<p>“因为那时侯所有的的人民都相信斯大林和他的理想，他们战无不胜，”她说。</p>
-<p>“你知道在斯大林统治下，有多少人被逮捕吗？” 叶甫图申科问。</p>
-<p>“嗯，大约20、30人吧，”她答道。</p>
-<p>坐在篝火边的其他学生和这位姑娘差不多年龄，叶甫图申科也问他们同一个问题。</p>
-<p>“大概2百人吧，”一位小伙子说。</p>
-<p>“也许2千人，”另一位姑娘说。</p>
-<p>在这将近20位青年学生中，只有一位说，“我觉得大约有1万人。”</p>
-<p>叶甫图申科告诉他们，被逮捕的人据估计有几百万人，他们都不相信。</p>
-<p>“你们读过我（写这件事）的诗歌‘斯大林的继承者’吗？” 叶甫图申科问。</p>
-<p>“你真的写过这种诗吗？”第一个姑娘问。“在哪里发表的？”</p>
-<p>“是1963年在《真理报》上发表的，” 叶甫图申科回答。</p>
-<p>“喔，我那时才8岁，”她有点迷茫地答道。</p>
-<p>1963年是赫鲁晓夫反斯大林和斯大林主义的“解冻”时期，当时的《真理报》允许刊登揭露斯大林统治时期阴暗历史事实的文章。可是，到了勃烈日涅夫时期，为统治利益的需要而重祭斯大林的亡灵，在苏联也就出现了一种新的忘却形式：不只是要忘记斯大林的暴行，而且还要忘掉苏联曾在不久前刚刚发生过的，对斯大林暴行的记忆和反思。这令叶甫图申科非常感慨：“我突然觉得明白了，今天的年青一代没有任何了解过去悲惨事实的知识来源，因为书里和教科书里都是不记载的。就连那些曾经在报纸上刊登过的文章，提到谁死了，也还是对死亡的原因保持沉默。……沉默代替了事实，而沉默其实就是谎言。”[i]</p>
-<p>“沉默代替了真实，沉默就是谎言”，那么沉默的是谁呢？仅仅是报纸、书籍、教科书、官方历史书？还是整个社会都参与了这一沉默？美国政治学家弥尔（J. S. Mill）曾说过：人们“获得国家历史，并因此结成记忆的族群，其实都是与过去的一些事件联系在一起的”。 [ii] 人民“获得”的“国家历史”是那些记录下来，或者说被权力允许记录下来的“事件”，而那些没有被记录或不被允许记录下来的事件，就此被武断地从国家历史中剔除，也从族群记忆中排除出去了。因此，对历史真实保持沉默，虽然是从改写历史开始，但最终却表现为族群的集体忘却。每个沉默的个人，每个在族群中按权力意志来记忆或忘却的人，都参与在以沉默代替真实，以沉默维持谎言的共谋之中。</p>
-<p>集体沉默造成集体失忆，而集体的沉默又是怎么造成的呢？这本身就是一个需要记住的历史灾祸。这个灾祸我们记得吗？记住了吗？我们的历史中有许多迫使大多数人保持沉默的“事件”和“时刻”。这些事件和时刻固然不能忘却，但是，更不能忘却的是那个使绝大多数人从“被沉默”到“自觉沉默”的心理过程。这个过程必须由每个现在正在“被沉默”，或者甚至已经“自觉沉默”的人自己去回想和记忆。记忆必须由集体来保存，但记忆同时也是每一个记忆者自我剖析、反省和忏悔的机会。这样的自我反省能使记忆成为一种打破沉默咒语的行动，一种对“正统记忆”的有意识的反抗。</p>
-<p>集体失忆总是与权力制造和强加“正统记忆”同时发生。正统记忆是由统治权力所主导的，是用来加强集体失忆，代替集体记忆的伪记忆。生活在勃烈日涅夫时代的苏联年轻人，因为没有对斯大林暴政的记忆，所以才欣然接受斯大林使苏联强大有力的正统记忆，并把它当成他们应有的集体记忆。也正因为如此，他们才有了“苏联沿着社会主义道路奋勇前进”的记忆，有了“苏联共产党具有非凡自我纠错能力”的记忆。这样的“正统记忆”取代了对斯大林暴行的真实历史记忆，它是在几乎全体苏联人对真实历史的沉默中得到维持的。打破这个沉默，是重新开始真实历史记忆的第一步，它要记忆的不是斯大林的 “强国”，而是这个“强国”对苏联人的奴役和迫使他们为之付出的人性代价，其中便包括整个社会从“被沉默”到“自然沉默”的集体沉沦。</p>
-<h3>1</h3>
-<h3>里里外外的“一致”营造沉默的假面</h3>
-<p> <br>
-绝大多数人一下子都“被沉默”，这样的事情只能发生在一个权力能够对所以人拥有绝对掌控力的国家社会之中，拥有这种绝对掌控力的政权就是极权。哈维尔在指出“极权是对每个生活领域的全面控制和影响”的时候，特别强调极权是一种极其“善于变化、适应的意识形态”，不仅仅是非常严密、细致、条理化、面面俱到，而且富有一种特殊的纠错能力。这种纠错不是改变极权的目的，而是不断改变为维护统治而采取的手段和途径。极权是一种类似于宗教的世俗宗教观念体系，它可以借用外力资源，包括与它敌对的意识形态（如“市场经济”、“资本运作”）,显得好像是十分具有自我纠正能力。但是，任何外力资源都必须为极权统治目的服务，因此也一定会被这个统治目的所同化，并转变为它自身的有机部分。因此，哈维尔指出，对极权要么是全部接受，要么是全部摒弃，“不可能部分采用”，而即便是“部分接受极权，也会彻底地影响人的生命”，包括因接受极权所制造的“正统记忆”，而丧失对真实历史的记忆。 [iii]</p>
-<p>极权统治并不能把正统记忆一一放进每个人的脑袋，也不可能把真实事件的经验记忆一一从每个人的头脑中清除出去。它是用“组织化”的手段来对所有人一起进行大规模的统一处理的，这种处理的规模和强度都是空前的，只有在极权统治的条件下才有实施的可能。 被处理的人开始也许是被动的，但不久就变得能够并且愿意积极配合。对于这样一个过程，毕特沃克在《弯掉的脊梁》一书中通过比较纳粹和前东德这两种不同的极权统治的方式来作了揭示。 [iv] 纳粹和前东德都是通过极权国家的组织力量，营造全体人民“一致”的景象，并通过形成天罗地网式的“组织”环境，来强迫和维持绝大多数民众的沉默，其他极权国家的情况与此大同小异。</p>
-<p>所有的政府都希望能摆出一种思想统一、团结一致的阵势，但只有极权才能做到这一点，而且也非得做到这一点不可，因为极权统治自称掌握了绝对的真理，对绝对的真理当然不允许有不同意见和看法。但是，极权统治的最高层内部的权力斗争从来就没有停止过，纳粹高层的争斗一直就很激烈，所有希特勒不止一次地亲自下达命令：内部争论一定不能外泄。纳粹在1942年9月的一份党内指示提醒党的领导们：“元首反复强调，党领导之间的不同意见一定要对外保密”。 [v] 希特勒的“反复强调”说明内斗在不断发生，正因如此，对外保密才格外要紧。一个自称代表绝对真理的党当然不能让群众看到，党的高层其实并未被这个绝对真理所统一。但是，再极权的党国也不可能单靠那些只忠诚而不能干的人来运转，它必须起用一些“能干“的人，他们虽然忠诚，但却不是完全没有自己的想法。党内高层领导中，那些最能干的人，恰恰是最能看清党的弱点的。但是，这些人却又总是在加倍小心地与其他人保持一致，以免遭到排斥出局的命运。</p>
-<p>希特勒不可能消除党内争论，他只能命令争论不外泄。与纳粹相比，苏联式极权专制的高层内斗更隐秘，对“全体一致”的外观门面维护得更严实。1980年，契尔年科在苏共政治局会议上发言说：“去年（1979年）中央全会是在完全一致的情况下召开的。”佩尔则（ Arvīds Pelše）补充道：“决议也是完全一致通过的。”当契尔年科说中央秘书处51次会议召开，通过1327项规定时，苏斯洛夫和安德罗波夫一起说：“就像政治局会议一样，秘书处也是完全一致通过的”。“一致通过”也是东德政治局开会的常态，至少是对外的一致口径，1989年10月政治局罢免总书记昂立克，昂立克自己投的也是赞成票。 [vi]</p>
-<p>“一致通过”和“完全一致”贯彻在党的宣传语言套话中，在这种套话中，不仅党中央完全一致，全体党（党员）完全一致，而且连“党领导下的人民”也是全体一致的。但是，极权宣传越是不遗余力，越是显示“全体一致”并不是像说的那么完美。对党员，党有所谓“民主集中制”的纪律可以确保“完全一致”，但党对普通民众就远不能那么放心。希特勒在《我的奋斗》中对党组织的成员和追随者作了区分，追随者是那些有别于一般群众的“觉悟群众”。党员或党徒是忠于党的事业，为之斗争甚至愿意为之牺牲的人。追随者是投纳粹党票的群众，但即便如此，也并不是在所有紧要关头都考得住的，更不用说还有那些不投纳粹票或者甚至根本反对纳粹的。在1934年的纽伦堡集会上，希特勒说，他展望有一天，每一个德国人都成为一个国家社会主义者，到那个时候，也只有最优秀的国家社会主义者才能成为党员。这就像现在中国所有的人都是“共产主义者”（拥护共产党），但只有最优秀的共产主义者才能成为光荣的共产党员。1933年3月戈培尔对无线电台从业者发表讲话，提出了把德国人百分之百争取到纳粹这一边的目标：“无线电台必须帮助我们巩固和捍卫这一目标。无线电必须让我们时代的精神充溢着人民心中，让他们再也离不开这个精神”。 [vii]</p>
-<p>极权展现和证明人民对它“全体一致”的拥护，不光要用宣传所说的，还要用公共活动所做的。人民全体一致拥护纳粹，最重要的公共活动表演之一便是“选举”。纳粹在1932年7月取得政权前的国民议会（Reichstag）选举中获得了37%的选票，在1933年3月虽有操纵，但还算相当自由的选举中获得了44%的选票。纳粹取得了政权8个月后，在1933年11月的公民公投中，得票率跃上至92%，可见纳粹宣传的力量，当然这是在纳粹很得“民望”时的支持率。但是，也有令纳粹意外的不快时刻。1934年，兴登堡总理去世后的全民公投，纳粹得票率为88%，有的区得票率甚至不到70%。纳粹的宣传刊物《我们的意志和道路》评论道：“8月19日的公投表明，还有10%的德国人在观望，我们一定要尽一切努力把他们中的绝大部分争取到国社党国家一边”。 [viii] 1936年和1939年的公投中，纳粹的得票率都是99%。</p>
-<p>东德曾经是最紧跟苏联的东欧极权国家，它的宣传同样极端重视选举投票所展示的“全体一致”，17次国民议会的选举中，有16次都是超过99%的，只是在1989年5月7日的最后一次选举中，才稍微下降了一点，仅达到98.85%。 [ix]几个月之后，这个得票率如此之高的共产党政权就垮台了。这么高的“全体一致”，让所有的观察家对东德政权的突然崩溃都觉得不可思议。很难相信，在纳粹德国或东德，几乎所有的德国人都曾经是一样的想法，同样都支持纳粹或共产党。但是，在当时，谁也无法确定是否真的还会有人与所有其他人不一样想法。一望无际的“全体一致”让每个人都无法确定，他所不能看到的异议是否确实存在。这种对自己的怀疑和孤单的无力感，足以让绝大多数还心存怀疑和犹豫不决的人闭紧嘴巴，绝对不敢把自己内心的真实想法告诉别人，并努力作出与所有其他人一致的样子。</p>
-<h3>2</h3>
-<h3>层层叠叠的“组织”制造沉默的牢笼</h3>
-<p> <br>
-为了确保群众能够全体一致地与党发出同一个声音，极权统治使用的是贿赂与恫吓并用的手段，其效果，至少从表面上看，是颇为成功的。贿赂是让人们看到，顺从权力有好处，恫吓是让他们知道，不顺从权力就要遭殃。许多人就是在贿赂与恫吓的驱使下去按党的指示办事，按党的旨意选先进人物，投票表决等等，许多人也是抱着这种心态去要求入党、入团或者至少“向组织靠拢”。</p>
-<p>极权统治下的各种组织对控制群众起到了非常重要的作用，有效的极权统治必须把每个人从自然和传统的群体中孤立出来，使他无法在与他人的自然关系中用值得信任的他人想法来验证自己的想法，这种人际关系包括朋友、同学、职业和公共团体等等。孤独的人只能从党的宣传那里得到信息并将之接受为当然真理。孤独的人被安置在各种政治性组织之中接受相互感染。所有的组织都处在极权统治的全面、彻底控制之下。除了权力基础的党、军队、警察，还有许多看起来是“民间”和“非政党”、“非政治”的组织，如工会、妇女会、青年会、儿童会、作家协会、残疾人协会、居民会等等。对群众的正确言论（该说什么，不该说什么）和正确行为（该不该开口说话）的教育，就是在这些组织里进行的，“沉默”就是这两种“正确”的集中体现。</p>
-<p>纳粹党和德国共产党（社会统一党）都是成员众多的庞大组织。希特勒的目标是让10%的德国人成为纳粹党员，这个目标一直没能达到。东德共产党的组织力比纳粹还要强，到1988年为止，德国有六分之一的人口是共产党党员，党员自己宣誓绝对服从党的纪律，是最容易要求他们“全体一致”和“完全一致”的人。群众也都有他们“自己”的组织。纳粹时期，最大的组织是“德国劳工阵线”（DAF），90%的德国工人都是会员，这就和中国工人、教师等等几乎每个人都会自动成为工会会员一样。冲锋队（SA）、党卫军（SS），以及希特勒青年团、妇女会和其他附属于党的“群众组织”让几乎每一个人都有机会参加，甚至参加不止一个组织。东德的情况也很类似，几乎所有的青年人都参加“自由德国青年团”（FDJ），1989年“德苏友好协会”有620万成员，占总人口半数以上。另一个名叫“自由德国商贸联盟”（FDGB）的群众组织也有众多的会员。而且每个人还不止是一个组织的成员。1979年，东德的一个化工企业19000名雇员中97%是“自由德国商贸联盟”会员，84%已参加了“德苏友好协会”，71%的青年雇员还是“自由德国青年团”成员，24%是东德共产党党员。许多人还是这些组织中的各级干部，光是“自由德国商贸联盟”的成员中就有三分之二有各种头衔。哪怕是在群众组织中，各种头衔，如小组长、某某委员、干事，也给人一种“权力”的感觉。取得某种职位后，就有了被提升、受重视的机会，自己也有受信任和得宠的感觉。“先进”、“模范”这一类称号也能起到类似的心理提升作用，不仅让当事人更死心塌地，也让其他人羡慕、学习，照他们的做法有样学样。 [x]</p>
-<p>群众加入组织，成为组织成员，被放置在一个“正确政治”的环境之中，相互监督，相互模仿。有些事情，如开会、谈体会、说空话、机械重复，看起来没有意义，没有效果，但其实是发挥着重要作用。1952年，东德共产党发起一个百万人写信的运动，要求东德人给在西德的亲朋好友写信，告诉他们社会主义的优越性。党印发了一本题为《在统一与和平斗争中，你的信是启蒙利器》的小册子，为写信提供指导，这次运动是由群众活动协调组织“国家阵线”发起的。[xi] 写信的人未必真能写出什么打动收信人的作品来，对于他们，做写信这件事，比做这件事有什么效果更重要，因为这表示写信人响应了党和国家的号召，是一个爱党爱国的公民。写信因此成为一种集体性的效忠行动。当一个不情愿写信的人看到别人个个都在写信时，他知道自己不写是不行的，这件事对他的警示和教育作用会让他在别的事情上也更积极地与他人保持一致。中国的许多“无效”运动，如大炼钢铁、杀麻雀除四害、大跃进，并不纯粹是一种浪费，而是对极权统治管制民心、统一意志很有助益的集体活动。</p>
-<p>组织感和组织行动，包括适应和积极参与那些看起来没有意义、没有实效的集体活动，不只用于成人，而且用于儿童和青少年。事实上，只有那些从小在这种组织环境中培养教育起来的人，成年后才会更适应于完全组织化的社会环境。宣传的成效在很大程度上取决于前宣传，而前宣传正是从幼年起就在学校教育中贯彻执行的。学校的教科书都是按党的要求编写的，老师也是这么教的，孩子从小就学会什么是该说的，他们在班上争先进，当班干部，依照的也都是这样的标准。1959年，东德学校给家长去信，要求他们支持子女参加少年先锋队组织：“你的孩子开始受教育，这是他人生的重要阶段，接受系统的准备，预备为社会主义群体服务。孩子的群众组织，台尔曼少先队是对社会主义教育的重要帮助，……如果你同意孩子参加少先队，那是对孩子成功发展的最大帮助”。 [xii] 学校把这样的事告知家长，征求家长同意，家长当然不会不同意。</p>
-<p>参加青年团（在东德是“自由德国青年团”)是青少年政治成长的下一步，1950年代，东德有35%的适龄者是青年团员，到了1960年代，几乎所有的适龄者都是青年团员了。 [xiii]少先队和青年团的不断扩大，乃至共产党组织本身的不断扩大，使得越来越多的人被放置在一种由“同伴压力”维持的牢笼式管制环境之中，牢笼越大，锁链越长。在这样的组织牢笼中，组织内的人觉得自己比在笼子外的人更安全，更受信任。能在笼子里甚至成为一种 “优秀”和“荣誉”的身份标志。在这样的组织环境中，“党叫干啥就干啥，党叫咋想就咋想”成为一件光荣的，比组织外人“先进”的行为，也是一件能够引起许多组织外人羡慕和渴望仿效的事情。组织所起的作用是把群众有效分割成不同的等级圈子，迫使那些内部的人更加顺从，而同时诱使外部的人更加渴望顺从。即使在这种“光荣”诱惑已经失效的情况下，功利的分羹心理仍然能起作用：入团和入党，入了会有好处，即使入了不一定有明显的好处，总比不入要强，因为不入差不多肯定会有害处。别人入了，你不入，有任何好处都没有你的份，入了才是明智的选择。</p>
-<p>德国政治学家诺埃勒-尼曼（ Elisabeth Noelle-Neamann）以研究群众的“沉默的螺旋”（spiral of silence）理论著称，她观察群众的“公众舆论”形成，发现有一种具有普遍意义的“沉默升级效应”，而这种“沉默升级效应”在青年团和共产党这样的组织环境中表现的尤其明显。在群体中，尤其在组织化的团体中，人有一种非常微妙的感觉，能本能地知道哪些看法可以安全地说出来，哪些不可以。 [xiv]那些不便说的也就是“危险”的看法，因为人们躲避它，以后还会就此消失，无影无踪。在群体中要是有谁不小心说了不该说的，别人就会侧目相视，生怕危害连累到自己，说的人马上就能感觉到别人的不快，并避免再犯。美国政治学者库伦（Timur Kuran）又称之为“谨慎升级效应”，他指出，一般人在这种情况下，不仅会隐藏自己原来的真实想法，自我审查不该说的话，而且还会当众说出与自己原先想法相反的话来，他们在说“正确”想法时，会变本加厉比原先没有“不良”想法的人更坚持、更过分。 [xv] 这种现象在党内更是十分普遍。前德国共产党人雷昂哈特（Wolfgang Leonhard）是东德共产党的创始人之一，后来逃到西方。他曾经写道：“我常常看到，有些东德官员越是对党有疑惑，在同西方访客交谈时就越是做出立场坚定的样子，坚决捍卫党的路线。跟这些人谈话的西方人很容易相信他们是150%的斯大林分子”。 [xvi] 层层叠叠的“组织”为无数的加入者制造了一个相互钳制的人际关系牢笼，在这样的人际关系中，每个人都必须时刻谨言慎行，并在需要的时候随时以谎言加码的方式对自己的言行做“谨慎升级”。</p>
-<h3>3</h3>
-<h3>互相监督维持“沉默”的必要</h3>
-<p> <br>
-在相互监督的组织化环境里，每个人都就必须有好的表现，不光自己要有正确行为，而且还要揭发别人的不正确行为，告密和打小报告于是成为一种以揭发别人不正确行为来证明自己正确行为的正确行为。为了生存，每个人都必须学会谨言慎行，管住自己的嘴巴，因为说正确的话乃是最根本的正确行为。</p>
-<p>在纳粹德国，正确行为是以对犹太人的态度为标准的。在共产党东德，则以对党的忠诚服从为标准。东德的国家安全部（Stasi）的线报网要比纳粹严密得多。纳粹新闻主管人施特莱彻（Julius Streicher）在他发行的周刊《袭击者》（Der Sturmer）中，刊登过大约6500名在1935至1939年反犹不力者的名单，有的是对犹太人太客气（相当于“文革”中的立场不坚定），有的是与犹太人有生意往来，这些名单都是由告密者提供的。 [xvii] 东德告密者的规模要大得多，2%的成年人都与国安部有某种联系，形成了一个庞大的邻居揭发邻居的网络。不要说是公开表示不满，就是私下里说的话，也会有人检举揭发，成为罪证。一直到1989年共产党垮台前不久，东德还呈现出一片全体拥护共产党的景象。据1989年国安部的统计，全东德只有2500名活动分子和60个“死硬”异见者。 [xviii]</p>
-<p>“异见”是以公开表示异见为标准的，至于一个人心里怎么想，那是看不出来的。后来发现，1989年前许多东德人就已经在不满党和政府，但由于没有公开表现，所以谁都以为别人都很满意党和政府。对此，一位莱比锡的异见者后来写道：“没有人知道别的地方人们也不满，这是最可怕的。要是知道别人怎么想，情况就不同了，那会很令人鼓舞的”。严格防范不满言论的公开出现和传播，控制公共媒体和集会，让所有的人陷入一种孤独的境地，这是极权统治的必要条件。按照东德法令，为公共目的聚会，人数超过3个人，就必须得到有关部门的批准。例如1983年，莱比锡教会人士得到通知，有3个人以上手持蜡烛的公共集会都必须得到批准。任何群体行为都受到严密监控。1988年在莱比锡有150人在教堂做过礼拜后，步行上街，国安警察严阵以待，事后的报告是，“参加者没有带旗帜、象征物品或其他明显标志，……没有影响公共安全和秩序，几乎没有受到公共注意”。“公共注意”是国安部门最害怕的事情。 [xix]</p>
-<p>即使是为了“正确目的”举行的群众集会也会引起国安部门的恐慌，1983年一个来自魏玛的团体要在柏林举行一次反对北约的抗议集会。即便这一集会的目的与国家政策一致，在政治上十分正确，但却具有“自发”、“独立”的性质。集会那天，有大约100人被捕，一位名叫波普（Ulrich Poppe）的参加者说：“国家对于独立组织的集会害怕成这个样子，无论集会的内容是什么都不行”。这令人想起了汶川地震后的一些自发纪念集会，仅仅因为不是官方组织的，就遭到了取缔和禁止的命运。</p>
-<p>没有人确切知道极权宣传到底有多少效果，从极权对任何公开异见和群体聚合的恐惧来看，就连宣传当局对自己经年累月的辛苦工作成果也是没有信心的。强行禁止，逮捕不规行为者，都是用暴力的方式在维护宣传的表面公共效果。戈培尔说，任何有效宣传后面，一定得有利剑的支撑，东德国家安全部誓言要当好党的“盾和剑”。人们有公开的“正确行为”是因为深知不正确行为的后果，而且几乎人人都害怕这种后果。对1936年德国工人状况，有人这么说：“稍微需要一点勇气的事情，他们也是不会去做的”。东德民主人士，政治异见者纽伯特（Ehrhart Neubert）问道：“在那时候的东德，谁会承认自己害怕呢？只有少数人，而且是在私下会承认。……这个制度就是靠恐惧来维持的”。 [xx]</p>
-<p>生活在这样的制度环境中，许多人并不“感觉”到恐惧，这不仅是因为他们对恐惧已经麻痹，已经习惯于恐怖生活，或者已经失去了对恐惧的感觉，而且也是因为极权经常是“合理地”使用恐惧，并不总是在“滥用”恐惧。“合理的恐惧”可以让恐惧显得不那么恐惧。而且，除了很少数的例外，一般人犯下政治错误，遇到麻烦，会觉得自己理亏在先，怪自己不小心，或者怪自己太愚蠢，本不该“明知故犯”或“鸡蛋碰石头”。他们看到别人触犯禁忌，遇到麻烦，吃到苦头，就会庆幸自己幸亏没有那么做，也会责怪遇到麻烦的人自讨苦吃。一般人渴望过“太平日子”，不喜欢“无事生非”，“庸人自扰”，喜欢“多一事不如少一事”，所以坏事（被逮捕、惩罚）发生时，总是先责怪“不识相”的人自己招惹了统治权力，无端多事，不自量力。这种普遍的“责怪受害者”心理便是由“合理恐怖”所造成的，也是极权统治精心培植、鼓励和利用的一种大众心理。在这种心理支配下，沉默和顺从成为交换安全无事的代价，每个人都变得能够接受统治权力的“合理要求”：别人的事情，你不要多管闲事，他倒霉是因为他咎由自取，你不要像他那样，就自然能平安无事。</p>
-<p>在一个大多数人都是这么“聪明”和“理性”的社会里，即便出现一些异见思想，极权统治也总能找到有效控制的办法。有人以为，政治异见思想一旦出现，就会像传染病一样蔓延。其实并非如此，格拉德维尔（Malclom Gladwell）对此有过论述。他认为，一般来说，很难精确预测到哪些异议特别具有传染力，特别容易扩散，这就像很难预测哪种流行病菌会在哪一年流行一样。一方面，总是会有不止一种异议在悄悄传播，直到某一种突然越过了“临界点”，一下子传染开来，连时时防守者也觉得出乎意外。另一方面，制止一种异议的方法也同制止流行病相仿，无须把异议从每一个人头脑中抹掉，只要能有足够多的人停止散播就可以了。这就像扑灭流感并不需要人人打预防针或接受治疗，只要有足够多的人不传播病菌就可以了。那些被禁止公开谈论或讨论的历史事件，只要大多数人不再想它，不再去说它，它也就得到了控制。但是，永远无法预料，什么时候，在哪里，会因为什么事情，又一下子会出现了什么大面积的民众异见。但是无论何时出现这样的情况，扑杀的办法是一样的，那就是，让足够多的人对传播异见心怀恐惧，让足够多的人至少在公开行为中保持顺从和沉默。当大多数人不再公开表示某种异见时，异议的传播也就停止了，所以，让大多数人对某事保持沉默，是让异见从公共话语中消失的有效方法。 [xxi]</p>
-<p>一旦人们接受了极权统治的“合理惩罚”和“合理暴力”逻辑，他们会觉得极权并不是那么极权，甚至觉得自己并不生活在极权制度之下。觉得自己并不生活在极权制度之下，与混混沌沌，无知无觉地生活在极权制度之下是不同的。觉得自己并不生活在极权制度之下，是一种“清醒”的生活状态，自以为自己的沉默和服从不是出于恐惧，不是由于自己“胆小”、“懦弱”，而是因为自己 “识大体”、“不死板”、“聪明”。用这类的说法为自己的行为辩解，可以让人比较体面地面对自己的沉默和顺从。这些人并不是从来未曾想过要做一些“出格”的事情，只是经过思量后决定还是不做为妙。想做而最后决定不做，看起来是一时的自我约束作用，其实会对他们今后的行为有长远的定向作用。因为，想做而决定不做的事情，以后就连想也不想了。人并不是一下子从不沉默变成沉默的，也不是一下子从不顺从变成顺从的，人是一步一步变化的，每跨出一步，下一步就变得更容易一些。察觉自己如何一步步走向顺从是一件令人沮丧，没有尊严，自己看不起自己的事，所以大多数人也就选择干脆不去想它，也不去说它，就这样，通往彻底沉默和顺从的路也就越走越顺畅无阻。一个人一旦走在这条不归之路，他就已经丧失了保存思想自觉的意志,也丧失了表达自觉思想的能力。</p>
-<h3><strong>注释</strong></h3>
-<p><small>[i] Hedrick Smith, The Russians. New York: Ballantine Books, 1977, pp. 247-248.</small></p>
-<p>[ii] J. S. Mill, “Of Nationality as Connected with Representative Government,” in Considerations on Representative Government. New York: H. Holt and Co., 1875, p. 308.</p>
-<p>[iii] Vaclav Havel, “The Power of the Powerless,” in The Power of the Powerless: Citizens Against the State in Central-Eastern Europe, ed. John Keane. Armonk, NY: M. E. Sharpe, 1985, p. 25.</p>
-<p>[iv] Randall L. Bytwerk, Bending Spines: The Propagandas of Nazi Germany and the German Democratic Republic. East Lansing, MI: Michigan State University Press, 2004.</p>
-<p>[v] Randall L. Bytwerk, Bending Spines, p. 132.</p>
-<p>[vi] Randall L. Bytwerk, Bending Spines, p. 133.</p>
-<p>[vii] Randall L. Bytwerk, Bending Spines, p. 135.</p>
-<p>[viii] Randall L. Bytwerk, Bending Spines, p. 135.</p>
-<p>[ix] Randall L. Bytwerk, Bending Spines, pp. 135-136.</p>
-<p>[x] Randall L. Bytwerk, Bending Spines, pp. 138- 139.</p>
-<p>[xi] Randall L. Bytwerk, Bending Spines, pp. 138- 139.</p>
-<p>[xii] Randall L. Bytwerk, Bending Spines, p. 140.</p>
-<p>[xiii] Randall L. Bytwerk, Bending Spines, p. 140.</p>
-<p>[xiv] Elisabeth Noelle-Neumann, Die Schweigespirale: Öffentliche Meinung—unsere soziale Haut. Frankfurt: Ullstein Sachbuch, 1982.</p>
-<p>[xv] Timur Kuran, Private Truths, Public Lies: The Social Consequence of Preference Falsification. Cambridge: Harvard University Press, 1995, p. 113.</p>
-<p>[xvi] Wolfgang Leonhard, Child of the Revolution. Trans. C. M. Woodhouse. London: Collins, 1957, p. 373.</p>
-<p>[xvii] Randall L. Bytwerk, Bending Spines, p. 141.</p>
-<p>[xviii] Randall L. Bytwerk, Bending Spines, pp. 142-143.</p>
-<p>[xix] Randall L. Bytwerk, Bending Spines, p. 143.</p>
-<p>[xx] Randall L. Bytwerk, Bending Spines, p. 148.</p>
-<p>[xxi] Malcolm Gladwell, The Tipping Point: How Little Things Can Make a Big Difference. Boston: Little Brown, 2000.</p>
-<p><em>7月2日下午，东方历史评论青年学人访谈沙龙第4期将在北京举行，主题为“沦陷北平的文化地层（1937-1945）”，嘉宾为袁一丹、陆胤。点击文末“阅读原文”了解详情。</em></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B8%9C%E6%96%B9%E5%8E%86%E5%8F%B2%E8%AF%84%E8%AE%BA%EF%BD%9C%E5%BE%90%E8%B4%B2%E6%B2%89%E9%BB%98%E5%92%8C%E5%A4%B1%E5%BF%86%E7%9A%84%E5%9B%BD%E6%B0%91%E6%98%AF%E6%80%8E%E6%A0%B7%E6%95%99%E8%82%B2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%85%9A%E4%B8%93%E5%88%B6/?category=18271" rel="tag">一党专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E7%9A%84%E5%8E%86%E5%8F%B2%E9%94%99%E8%AF%AF/?category=18271" rel="tag">党的历史错误</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8/?category=18271" rel="tag">宣传机器</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%AF%E5%A4%A7%E6%9E%97/?category=18271" rel="tag">斯大林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">极权主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8/?category=18271" rel="tag">真理部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%B3%E7%B2%B9/?category=18271" rel="tag">纳粹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%86%E4%BD%93%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">集体主义</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E7%8E%8B%E7%A7%80%E8%8B%B1%E5%86%99%E4%BF%A1%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E4%B8%AD%E5%85%B1%E5%90%88%E6%B3%95%E6%80%A7%E9%97%AE%E9%A2%98/" target="cdt-mirror">【此贴必火】王秀英写信给习近平谈中共合法性问题</a>
-</h2>
-<p><p>尊敬的习近平先生：</p>
-<p>您好！我是一个年过八旬的北京老太太，我叫王秀英。值此我们伟大的、光荣的、正确的中国共产党成立九十五周年之际，我要对您谈一谈有关中国共产党的合法性问题。</p>
-<p>众所周知，中国共产党当初是在中国国民党统治下于1921年7月1日这天正式成立的。在当时情况下，中国共产党不可能成为一个公开合法成立的政治党派组织。但是，在1949年以后，中国共产党获得了红色革命政权，一直到今天，历任中共中央主席和中共中央总书记都根本没有真正解决过这个自身合法性的问题，这就很是说不过去了！自从中共“十八大”以后，您当选并成为新一任中共中央总书记，这样一个跨时代历史机遇，同样也是一个历史性的莫大荣誉，就摆在了您的面前。</p>
-<p>最近，我通过“政务信息公开”的渠道反映了此项社情民意，最终得到了中共北京市委、北京市人民政府的答复，说是中国共产党既没有在国家民政部社会团体管理司登记注册过，也没有拥有《中华人民共和国组织机构代码证》。然而，在《中华人民共和国宪法》上却有明文规定，任何组织和个人都不具有可以凌驾于国家宪法和国家法律之上的权力；而《中国共产党党章》上也非常明确地有过规定，党在国家宪法和国家法律允许的范围内活动。中华人民共和国国务院还颁布过一个名为《社会团体登记管理条例》的法规，其中同样也规定了国内所有一切社会团体或民间组织都必须要到各级民政部门办理登记注册手续。而国家民政部部长早在2012年5月7日也曾专门对此发表过谈话，申明所有一切政党和党派组织以及社会团体或民间组织，都要到民政部门办理登记注册手续。中国共产党既是一个现任执政党，也是一个社团组织，国家现行的法律法规都对此已有很明确地表明，应当也必须要自觉遵守国家的法律法规，同时应当也必须到国家民政部进行登记注册，否则就是非法成立的组织。</p>
-<p>习先生，全世界人民都知道您是一位博览群书且博学多才的现任国家元首，而且您本人也拥有法学博士的学位，您手中的一切权力均是国家宪法所赋予的。您同时又是中共中央总书记，必然非常熟悉国家宪法和中共党章，也必然很了解并且懂得如何自觉遵守相应的国家管理法规，相信您一定会严格遵守国家宪法和相关的法律法规，还一定会严格遵循中国共产党章程与政治、组织纪律。</p>
-<p>值此纪念伟大的、光荣的、正确的中国共产党建党九十五周年之际，我向您提出一个非常善意的忠告：安排专人尽快到国家民政部，并且按照相关流程和规定，遂将中国共产党办妥一切相应的有关登记注册手续，使中国共产党成为一个合法性的组织。否则，在目前的这种状态下，任何一位中华人民共和国的合法且一直在学法、知法、懂法、用法、守法的公民都可以直接向最高人民法院去控告国家民政部部长涉嫌渎职的违法犯罪行为。因为他没有依法行使国家法律、法规所赋予其的神圣权力与工作职责，而中国共产党亦不可能仅靠全体党员所缴纳的党费进行运转，一定得到过国家财政的资金支持。这样，中国共产党岂不成为一个社会黑帮非法组织了吗？与此同时，中国共产党对人民军队的绝对领导权也就没有了国家法律法规的依据，这就必然将会产生一系列的法律混乱。</p>
-<p>习先生，在中共十八届四中全会以来形成的一系列重要决议中，都对“依法治国”、“法治中国”等理念做过相关的专门阐述，您本人也亲自撰写过很多有关文章，同时强调必须要“从严治党”，您自己还多次特别讲到过“打铁还要自身硬”······现在，这个伟大而庄严的历史荣誉就在前面不远，可以让您唾手可得。相信您一定成为继毛泽东主席之后在中国共产党历史上最伟大的革命领袖人物。中共现有八千多万名党员，翘首期盼，您将让他们成为一个合法性组织的成员。</p>
-<p>最后，请代我问候您的母亲和夫人以及女儿诸好！</p>
-<p>王秀英</p>
-<p>2016年6月28日</p>
-<p>身份证号码：110104193102260023</p>
-<p>住址：北京市西城区牛街西里二区8号楼712房间</p>
-<p>手机号码：13520510585</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8D%9A%E8%AE%AF%EF%BD%9C%E7%8E%8B%E7%A7%80%E8%8B%B1%E5%86%99%E4%BF%A1%E7%BB%99%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E4%B8%AD%E5%85%B1%E5%90%88%E6%B3%95%E6%80%A7%E9%97%AE%E9%A2%98/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E7%A7%80%E8%8B%B1/?category=18271" rel="tag">王秀英</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E8%BF%BD%E8%B8%AA%E6%8A%97%E4%BA%89%E7%9A%84%E5%8D%A2%E6%98%B1%E5%AE%87%E5%A4%B1%E8%B8%AA%E4%BA%86/" target="cdt-mirror">端传媒 | 吴强：追踪抗争的卢昱宇失踪了</a>
-</h2>
-<p><p><strong>6月，卢昱宇失联。我翻看三年前的访谈记录，回忆起这位朋友，如何以一人之力收集记录着每天中国各地的抗争事件，从不声张，亦不间断，在边缘中找到绝对的力量。</strong></p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?resize=600%2C338" alt="“非新闻”的创办人卢昱宇及其女友李婷玉（推特图片）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/882E134B-D41A-47D3-B9E8-47369E9ADDDA_w640_r1_s.jpg?resize=300%2C169 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>“非新闻”的创办人卢昱宇及其女友李婷玉（推特图片）</p></div>
-<p>6月24日，卢昱宇及其女友李婷玉被以“寻衅滋事罪”抓捕、拘留的消息传来。在他们用于发布中国内地群体抗争事件的图文消息，以及每日全国统计数字的“非新闻”推特账号上，最后一条更新的消息是在6月15日，“2016年6月13日，周一，94起”，并附上非新闻在blogspot上的博客链接。每天搜集、发布、统计这些事件的消息，卢昱宇已经默默做了超过4年了。他今天的遭遇，我并不惊讶，似乎于他于我，都知道这一天的到来。</p>
-<p>2013年的7月，我在福州的一家咖啡店里第一次见到卢昱宇。当时我的身份是研究社会运动的学者，他则是第一线的记录者，也因此成了特殊的参与者。两个小时的访谈记录，成为我研究论文的素材，但一直没有整理公开。直到最近他出事，我才重新翻开笔记，回忆起这位人称“老卢”的朋友。一些不同于其他社运者的鲜明形象，透过他木讷的外表，渐渐地凸显出来。</p>
-<p>1979年出生的卢昱宇，大学肄业，2011年10月，他因转发盲人维权律师陈光诚的消息，被上海警方找到、约谈。卢昱宇没有声张，更没有表演性地在互联网上哭诉喝茶经历或者遭遇，相反，他开始了一个人的抗议。 2012年间4月、9月期间，他几次在街头举牌要求中共官员“财产公开”、“还人民选票”。举牌，曾经是当时南方街头运动的主要抗争方式。但卢昱宇逐渐意识到这种单一的抗争方式，除了提高勇气，实际效果有限。</p>
-<p>他最终被上海警方驱离，先后在广州、深圳、福州等地落脚，再被驱离。这也是大陆警方对待一些敏感人士的通常做法，或者直接威胁，或者威胁房东、收留朋友等。到今天，这已经演进成地方维稳的所谓“守土有责”的“重任”。卢昱宇在福州待的时间算长，我和他的访谈也在那里进行。</p>
-<p>也是从2012年4月开始，卢昱宇开始有意识地收集各地的维权事件，然后整理、发布。他开始发布抗争事件之后，很快就有西方的媒体引用，甚至直接跟他联系，核实具体情况。他也在这一过程中开始有意识地加强信息核实，如坚持多信源原则，遇到要素不清则主动联系发帖人核实等等。卢昱宇逐渐从街头的举牌“独狼”，转变成一个特殊的公民记者。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160f60fb3d56402891eac3991606304d.jpg?resize=600%2C400" alt="160f60fb3d56402891eac3991606304d" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160f60fb3d56402891eac3991606304d.jpg?w=1080 1080w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160f60fb3d56402891eac3991606304d.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160f60fb3d56402891eac3991606304d.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/160f60fb3d56402891eac3991606304d.jpg?resize=1024%2C683 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>一对男女开设Twitter账号，发布内地群体抗争事件的记录。近日，二人失联，账号至6月14日一直未有更新。来源：「非新闻」Twitter帐户</p></div>
-<p>据卢昱宇的介绍，他主要是从微博、QQ和BBS上每天搜索，通过文字、照片确认基本信息，再寻找其他来源核实，分析出时间、地点、事由、诉求、人数和镇压情况，然后公布。他还按照每天、每周、每月和抗争事件的种类和地区进行区分、统计，特别是千人以上规模的抗争、维权事件。</p>
-<p>例如，2013年6月，他统计到53起群体抗争维权事件。其中，近半都发生了暴力冲突，而征地拆迁和劳工维权比例相当，分别为13和11起；其次，系因政府不作为和军、警、城管等暴力引发，各9和7起，再次才是环境和贪腐问题，各5起。所涉群体，农民和工人、市民的比例相当，均为22起，剩下才是单一议题的业主权益、学生、教师、出租车司机及访民抗争等。抗争的地理分布则集中在广东（12起），以下依次为广西（5）、江苏（4）、浙江（4），呈沿海向内地、向不发达地区逐渐减少的趋势。 7月份的抗争统计稍有增加，为59起，但广东的罢工明显增加，反映了珠三角的工潮兴起。这一趋势一直持续到2015年当局对劳工组织施行打压。</p>
-<p>无论对我这个社运研究者，还是所有关心中国维权事件的人来说，卢昱宇这一统计的意义都不可替代。须知，中国政府从2008年以后就停止发布每年的“群体性事件”统计，而这一抗争趋势从最早公布的1994年的10,000起10人以上规模的抗争，逐年递增，2003年58,000起、2004年74,000起，2008年估计超过10万。其中的千人规模以上抗争，只留内部掌握，并不公布，媒体只能从公开报导和互联网的零星报导中获知，缺乏连续统计。对社运研究者来说更是辛苦，通常只能依据有限的纸媒报导进行趋势追踪，而纸媒报导受宣传口径和政策变动影响极大 。卢昱宇依据新媒体收集、统计到的抗争事件，表面上远远低于官方十年前的群体性事件规模，却是外界能够连续参照的唯一独立来源。<br>
-最明显的变化，是2013年后，征地拆迁维权抗争的比例下降，劳工维权和市民运动的比例上升，劳工维权主要围绕欠资和社保问题，市民抗争包括更多的邻避运动和单一议题抗争，如教育平权、出租车问题、反抗警察暴力等。这显示，维权运动越来越转向城市，市民和劳工正在成为维权运动的主体。卢昱宇总结说，同样的抗争，农村镇压的多，而城市胜利的多。农村的大规模抗争通常伴随着暴力镇压、而城市的暴力冲突则较少。</p>
-<p>不过，2014年后这一对比开始发生变化，随着城市大规模抗议的增加，暴力冲突也有上升的趋势。这很能反映中国社运的力量对比和转型趋势，城市因为市民力量特别是中产阶级的兴起，正在悄悄取代1990年代以来农村地区的分散抗争，并且通过抗争比较容易地满足利益诉求。而农村地区“依法抗争”的旧维权模式，却常以招致镇压而结束，无形中将更多的农民赶往城市，加速着城市抗争模式的转型。</p>
-<p>另一方面，进入2014年后，千人以上抗争的每月频次出现下降，保持在月均30起稍多的水平，似乎表明，维权运动的动员被更有效地压制了。 2014年之后，当局更倾向采取更严厉的预防性镇压，通过发动“净网行动”、打击“大V”，即逮捕活跃人士、信息传播者和NGO分子，降低大规模抗争事件爆发的可能。这对那些突发性大规模自发抗争，如稍早的瓮安模式，颇为有效，对高度依赖组织的公开抗争模式，如乌坎类型，也很见效。同时，当局的预防性镇压，也让卢昱宇收集、转发抗争事件的安全风险也骤然升高。</p>
-<p>2015年后，卢昱宇发现，10人以上的抗争次数明显增加，2015全年观察到28,950起，较2014年上升34%。到2016年上半年，这一增长态势继续维持，每月千人以上规模的大型抗争也升高到每月40起左右。这到底意味着什么？是维稳政策调整后，社会矛盾继续激化？还是经济因素引发更多劳工纠纷，蔓延到河南等内地省份？</p>
-<p>这些抗争事件频率上升、向城市集中最终会引致什么？卢昱宇的统计没有提供答案。却实实在在帮助了包括我在内的很多中国研究。甚至，镜像的另一面，高频抗争可能带来的如突尼斯埃及一般的雪崩效应，也成为中国政府最为担心的政权威胁，这种威胁延续至今，驱动着维稳体制向安全体制的转型。</p>
-<p>无所不在的威慑，深刻影响着过去几年中国内地几乎所有社会运动者的日常生活和行动，渐渐地把其中的许多人卷到社会边缘。反抗，便成为边缘的生活模式。卢昱宇每天要用4到5个小时专门搜索抗争线索，开始时甚至需要10个小时以上，为保持统计连续，他不得不辞去了工作。由于显而易见的危险，卢昱宇从来不使用固定IP发布消息，总是在一个城市的各处游走、蹭网。从2013年初开始，一位来自中山大学的学生同样注意到了他的工作，开始分担。他们在微博和推特上发布消息，在blogspot的博客网站上发布统计数据和初步分类。这位叫李婷玉的学生，也渐渐卷入他的孤独事业和生活，成为卢昱宇的伴侣，并且同样选择了大学肄业，选择了在边缘、充满着危险却异常纯粹的生活和反抗。<br>
-没有抱怨，也没有悲观，清醒地了解可能的风险和苦难，却不事声张，默默地生活在社会的边缘，以一人之力收集、记录着每天各地的抗争事件，以这种独特的方式参与抗争。卢昱宇，仿佛用自己的生活在抵抗，书写着哲学家阿甘本（Giorgio Agamben）对反抗所做的最极端的定义：一种既绝对又边缘化的抵抗，而且在边缘中找到了绝对的力量。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%90%B4%E5%BC%BA%EF%BC%9A%E8%BF%BD%E8%B8%AA%E6%8A%97%E4%BA%89%E7%9A%84%E5%8D%A2%E6%98%B1%E5%AE%87%E5%A4%B1%E8%B8%AA%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%93%E5%88%B6/?category=18271" rel="tag">体制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E8%AE%B0%E8%80%85/?category=18271" rel="tag">公民记者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%A2%E6%98%B1%E5%AE%87/?category=18271" rel="tag">卢昱宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%8A%97/?category=18271" rel="tag">反抗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B/?category=18271" rel="tag">打压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E4%BA%89/?category=18271" rel="tag">抗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">社会矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">社会运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">维权事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E8%BF%90%E5%8A%A8/?category=18271" rel="tag">维权运动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%96%B0%E9%97%BB/?category=18271" rel="tag">非新闻</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E6%B5%B7%E6%A3%AE%E5%B4%B4%EF%BC%9Afacebook%E5%88%AB%E4%BB%A5%E4%B8%BA%E8%88%94%E8%8F%8A%E5%B0%B1%E8%83%BD%E8%BF%9B%E4%B8%AD%E5%9B%BD/" target="cdt-mirror">墙外楼｜海森崴：Facebook别以为舔菊就能进中国</a>
-</h2>
-<p><p>世界上只有两个国家不能使用Facebook，一个是北韩，另一个是中国。为了打开这个全球最多人口国家的市场，Facebook高层密集式访问北京，继半年前其创办人扎克伯格（Mark Zuckerberg）在北京雾霾中跑步，拜见政治局常委刘云山后，6月17日Facebook营运总裁桑德伯格（Sheryl Sandberg）亦到北京，拜见国家互联网信息办公室主任鲁炜。</p>
-<p>Facebook对中国的亲近，与主动撤离中国的Google，大相径庭，反映出两大互联网巨擘对中国市场的看法，也反映出两家公司不同的价值观念。但是，中国对Facebook及Google之态度并无两样，中国高规格接待Facebook管理层，只是一种算计，并不代中国欢迎Facebook。</p>
-<p>今年3月，扎克伯格获刘云山接见，接待规格极高；6月，桑德伯格获鲁炜接见，规格亦非一般。鲁炜不但是中宣部副部长，见面时鲁乃身兼中央网络安全和信息化领导小组办公室主任和国家互联网信息办公室主任，而中央网络安全和信息化领导小组组长乃是习近平，鲁炜可谓是直达天庭之人。（注：6月29日中央宣布，鲁炜不再兼任中央网信办主任，由中央网信办副主任徐麟接替。）</p>
-<p>反观同于近期访华的苹果CEO库克（Tim Cook），以及微软CEO纳德拉（Satya Nadella），就没有获得中国官方这么高规格的接待。</p>
-<p>为什么被封锁的Facebook能获得中国官方如此高规格接待，反之已向中国政府纳税的苹果、微软却遭冷待？</p>
-<p>无他的，因为Facebook当前对中国的利用价值较高。Facebook被中国封锁，但它不但没有抗议，反而不断抛下身段，腰弯了又弯，这种献媚态度给中国带来一种自满的精神亢奋，但更重要的是中国可借此告诉世界，想进中国市场，就必须按中国规矩做生意，无论你是大如Facebook，都必须跪下。</p>
-<p>2015年12月9日，鲁炜在国务院新闻办记者会就清楚说明：“我没有办法改变你，但是我有权利选择朋友。谁到我家来，我确实是要选择的，来的要是朋友。我们不欢迎那些挣了中国钱、占了中国市场，还诬蔑中国的人。就像每一个家庭，都不欢迎不友好的人来做客一样。”</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/09/facebook.jpeg?resize=549%2C285" alt="facebook" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/09/facebook.jpeg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2014/09/facebook.jpeg?resize=300%2C155 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>可是，纵使Facebook多么愿意地配合中国，就能进入中国市场吗？恐怕，这只是Facebook的一厢情愿。</p>
-<p>中国一直认为在中亚和东欧发生的颜色革命，背后重要推手就是Facebook、Twitter等社交媒体。社交媒体几何级数的信息散播和动员能力，令革命之火迅速蔓延。中国目前最惧怕的就是颜色革命，故纵使Facebook多么愿意配合，中国当政者依然没有胆量让它进来。毕竟Facebook天生是黄头发白皮肤，并非亲生子，怎能百分百信任？</p>
-<p>其次，5月24日，鲁炜在北京向全国政协作了题为《深入学习贯彻习近平总书记网络强国战略思想坚定不移走中国特色社会主义治网之道》的辅导报告，提出互联网的其中一个战略重点——“核心技术要掌握命门”。</p>
-<p>Facebook是网络社交媒体巨头，让其进来无疑会令靠抄袭、模仿的中国社交媒体受到致命打击，变相将社交媒体核心技术之命门拱手相让。中国会笨到让你来赚钱，又让你陷的命门吗？</p>
-<p>鲁炜2014年参观facebook美国总部时，发现扎克伯格的办公桌上有一本习近平的著作《习近平谈治国理政》之英文版。当时扎克伯格说：“这本书我也给同事买了，我要让他们了解中国特色社会主义。”可是，看再多中国的书，永远没办法搞得懂一个党于高宪法的人治国家。</p>
-<p>当年雅虎为了在中国市场的发展，不惜向中国政府提供异见人士的网络个人资料和电子邮件，导致王小宁和师涛被当局控以煽动颠覆国家政权罪、窃露国家机密罪，两人各判处10年有期徒刑。但2015年3月，雅虎宣布撤离中国，关闭在中国唯一的北京办公室及裁员350人。雅虎对外声称是全球业务整顿，但外界指主因是外资网络公司难以和受中国政府保护的本土业者匹敌。</p>
-<p>Facebook如果是靠输诚、靠向专权低头进入中国，其在中国的命运只会步雅虎后尘，而且更会遭到全世界用户唾弃。</p>
-<p> </p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 呵呵复呵呵 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E6%B5%B7%E6%A3%AE%E5%B4%B4%EF%BC%9Afacebook%E5%88%AB%E4%BB%A5%E4%B8%BA%E8%88%94%E8%8F%8A%E5%B0%B1%E8%83%BD%E8%BF%9B%E4%B8%AD%E5%9B%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/facebook/?category=18271" rel="tag">Facebook</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%85%8B%E4%BC%AF%E6%A0%BC/?category=18271" rel="tag">赵克伯格</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%AD%BB%E4%B8%8D%E5%8F%AF/?category=18271" rel="tag">非死不可</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%82%E6%80%A7%E6%81%8B%E6%AF%95%E4%B8%9A%E6%B1%82%E5%A9%9A%E5%BE%97%E6%A0%A1%E9%95%BF%E7%A5%9D%E7%A6%8F%EF%BC%8C%E5%90%8C%E6%80%A7%E6%81%8B%E6%AF%95%E4%B8%9A%E6%B1%82%E5%A9%9A%E4%B8%8D%E7%BB%99/" target="cdt-mirror">异性恋毕业求婚得校长祝福，同性恋毕业求婚不给毕业？</a>
-</h2>
-<p><p><strong>原文作者6月29日<a href="http://weibo.com/1846298734/DCtzy0EYp" target="_blank">微博更新</a>：</strong></p>
-<blockquote><p>@KeiratheLionheart：声明：公开稿是我自删的，另有考虑原因，并非受到学校压力。但对校方的违法行为会追究到底，也呼吁大家关注校园性少数群体的生存现状，支持大家的声援行动，理性讨论。</p></blockquote>
-<p><strong>原文作者6月28日<a href="http://weibo.com/ttarticle/p/show?id=2309403991491985953992" target="_blank">发表声明</a>：</strong></p>
-<blockquote><p>应学院要求，我领取学位证和离校手续时家长必须在场“见证”。今天（6月28日）特意请假回校办理手续，但全程以沉默回应我所受到的不公。直到离校的这最后一席话，学院领导还要指控整件事都怪我没有好好和家人沟通，让学校和家长都担惊受怕，学校经慎重考虑后，没有对我记过，可以给我发好毕业所需证件顺利毕业。但却对前几日的威胁不给学位证以及上门搜查我家没有给出半句解释。</p>
-<p>王小宇<br>
-2016年6月28日夜说明</p></blockquote>
-<p><strong>以下内容来自微信公号“修和書院”转载：</strong></p>
-<h3>异性恋毕业求婚得校长祝福，同性恋毕业求婚不给毕业？</h3>
-<p> <br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-9.jpg?resize=585%2C329" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-9.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/640-9.jpg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></p>
-<p>我叫王小宇，是一名拉拉。我和我的女朋友同是广东外语外贸大学2016年应届毕业生。借毕业典礼之际，我们决定以求婚的方式公开出柜，让性少数群体的亲密关系在大学校园内被看见、被讨论、被思考，为创造开放多元的大学校园环境而尽一份力。</p>
-<p>6月21日中午，在广外云山学1栋门口，我的女友双手捧花，单膝跪下，向我求婚。我们相拥、长吻。当场我的同学们都表示了祝福，我很感动。随后，一些国内媒体进行了报道。</p>
-<p>我们原以为事情会到此为止。然而，事情的发展远远超出我们的想象。我被威胁处分、扣押学位证、被认为“失踪”、出租屋被撬门…….我不明白，我们承受那么多，只因我们是女同性恋？</p>
-<p><strong>“不要接受媒体采访、不要提你们是广外学生，以免带来不良影响”</strong></p>
-<p>事情发生不久后，我学院党委副书记杜书记火燎火急要找我谈话，希望我就此事在媒体禁声，不要给学校带来“不良影响”，“你要保护好自己，不要受到媒体伤害”，她担心“别有用心”的“国外媒体”、“国外势力”关注、利用我。</p>
-<p>学校不仅要求我联系媒体删帖，还启动了一些“手段”。事发几小时后，报道转发求婚事件的新浪微博@新媒体女性被删帖；广州女同性恋公益组织“女友组”微信公号被永久封号（其新号是girlfans2009GZ）。</p>
-<p>杜书记这样和我说，“这么多同性恋者，大家都不会歧视，因为他们把握得很好，不会去影响到别人，也不会去危害到别人。”</p>
-<p>去年是我校50周年校庆，50对广外异性恋伴侣举行了集体婚礼，而我们又什么时候怀疑过他们的举动会不会“危害到别人”？我们不能称我们是广外人吗？一生广外情，只是异性恋者的情吗？</p>
-<p>同性恋之间的爱欲表达怎么又变成一个不堪，更遑论危害他人的事情？对同志爱意表达的公私场合划分，实际上是把诸如“女人不要出门抛头露面”之类的规训照搬到同志身上，强调性少数只能在私领域表达自我与情欲，没有在公共场所表达的权力。</p>
-<p><strong>“你的行为涉嫌处分，需要先扣押学位证”</strong></p>
-<p>6月22日下午原定是我在校的最后一天，我打算拿到学位证后就告别母校。在下午的面谈中，杜书记却扣押了我的学位证。她说我的行为涉嫌违纪，需要上报学校违纪处理委员会，视情况再做处理。在《学生手册》的《学生违纪处分规定》中，她用笔划出：</p>
-<p>第三章第十一条（四）“张贴、投递、散发内容淫秽、造谣惑众、侮辱他人人格、损害学校声誉的宣传品，造成不良影响者，给予记过以上处分。”</p>
-<p>第十七条（十）“在公共场合行为不检且不听劝阻者，给予警告以上处分；着装不整或者污秽服饰进入公共场所或在公共地区活动，不听劝阻者，给予警告处分。”</p>
-<p>6月25日，学院刘书记在微信上给我父亲发了催领学位证书的书面通知。而我本人是在打电话问辅导员后才得到催领学位证书的通知。根据《民法》以及学校相关规定，当我不在本地时，可以签署委托书让别人代领。但当我在6月27日向辅导员提出因不在本地委托同学代领学位证书时，被拒绝了。</p>
-<p>我和辅导员约了领证时间，中午时分他又改口说要领证时必须父母到场，“见证你的诚信行为”。对于什么是“见证诚信行为”，辅导员只是含混其词。</p>
-<p>为了获得学位证，我、我的父母均不得不请假到学校拿证。我真的觉得很累了，异性恋求婚获得祝福，同性恋求婚就被扣毕业证？</p>
-<p><strong>被出柜后家门被撬的离奇遭遇</strong></p>
-<p>22日中午，我父母分别都收到杜书记的多番电话，书记跟我父母说找不到我，叫家长们“搜新闻看看”，就这样，在我还没给父母做好思想工作前，我被出柜了。</p>
-<p>杜书记猜测有人指使我做这件事，我很有可能是“被别有用心的组织控制了”。我们的行为艺术并没有发生在毕业典礼之间而是之后，学校认为自己成功地阻止了一场“闹事”行为，控制了局势。但他们依然紧张关注我，并要求我父母让我说出我背后的组织，又要我“不要去我女朋友的毕业典礼闹事”。我本来第二天也要公干出差，并没有打算参加她的毕业典礼，而且没有人求婚会求两次。</p>
-<p>我的父母，一面面对着不能给出充分信息的女儿，一面面对着掌握丰富社会资源以及有着多年工作经验的学院书记，自然选择相信了后者的判断。所以，他们还没顾得上消化我的取向、我的同性亲密关系、我的公众新闻对他们的冲击，只是对我的人身安全与自由产生了极大的忧虑。当晚十点半，焦虑的他们对我下最后通牒：要求我中止所有行程以及离职，马上回家。</p>
-<p>我第二天要出差，是一个多月前就告知家里的事情。所以父母的要求我并没有答应，我给他们发了长短信，“从小你也教我做负责任的人，我不能在出差的前一晚放弃工作。”并建议我们应该双方冷静两天，再出来好好谈。我在给父母能联系上的好友处都留下给父母的口信后，换了电话卡，希望自己能暂时从精疲力尽的电话拉锯战中解脱出来，然后去好友家住了一晚。</p>
-<p>杜书记当晚和我父母说，一定要见到我本人。次日清晨，她再次联系了在我门口守了一夜的家人，随后与学院另一位刘书记赶到我家。他们七点多时还看我未出门，就怀疑我有可能“被组织控制住了”。两位学院书记和我的家人达成一致意见后报了警，理由是“我失踪了”。</p>
-<p>警察很快到了，也联系了我房东，叫人把我家门撬开，警察、妈妈和书记一起进了我家。书记要求家长配合，搜出我的“同伙信息”和“组织信息”。杜书记对其所认为的“有用证据”进行了手机拍照，然后上报学校。</p>
-<p>而我在去出差地的路上思索再三，觉得和父母的沟通比较重要，也担心父母的身体健康。最终在得到单位的同意后放弃了出差。后来才得知，如果我在求婚事件第二天继续出差，学校就会坐实我背后有“境外势力”，“那我四年的学位就白读了，就不能拿到学位证了，还会成为广外历史上的一个反面教材的典型。”</p>
-<p>杜书记严肃地和我家里人说我参与了非法的、不正当的活动，会对我的前途有很大的影响。她说我原来是非常优秀的学生，但后来变化太大。现在我为与父母沟通放弃出差被他们定义为“局势的扭转”，“事态还在萌芽状态就得到控制，被扼杀了”。然而她没有意识到的是，事情没有往她丰富的想象方向发展，这可能会给她立了一个大功劳，却给我的生活带来多大的创伤与影响。</p>
-<p>从杜书记自作主张告诉我家人“我是被非法组织控制了”开始，我就陷入了和家长非暴力沟通无效且受到双方压力的无力中。她丰富的想象力给我紧张的父母火上浇油，在我和父母有沟通隔阂的时期趁虚而入，最终导致我和家人之间信任破裂，导致了我被迫离开我两月来一点一滴营造的安全舒适的家。</p>
-<p>现在我的精神状态已受这件事情大大地影响了。我无法独处，心情消沉，并时常止不住哭泣。我的正常工作与社交都受到了影响。我认为，广东外语外贸大学高级翻译学院党委副书记杜焕君对我现在的状态负有主要责任。</p>
-<p><strong>我的女友同样遭遇学校骚扰</strong></p>
-<p>在事情发生后，学校也对我女朋友也进行了多番问话。她的毕业典礼在我们求婚活动的第二天，也就是6月23日。辅导员婉转地转达不要参加毕业典礼的要求。后来，辅导员以“了解事实”、“派发毕业证”为名进行了多次问话。最好玩的一个电话，辅导员说“收到一些小道消息，如果是不实的话帮忙澄清一下”，问了三个问题，分别是：</p>
-<p>“你们同居了吗？”</p>
-<p>“在你们的关系中，你，扮演了什么角色，主动还是被动？”</p>
-<p>“听说你的上一段关系刚结束不久，这一段关系到底开始多久了？”</p>
-<p>当我的女朋友提出晚上九点打电话问主动还是被动是非常没有礼貌的行为时，辅导员自知理亏，挂了电话。这件事暴露了辅导员无视学生隐私界限的现实，且也显示出其对LGBT议题知识的缺乏，即便对于异性恋，主动与被动预设本身就是一种刻板印象。</p>
-<p>现在，我对广东外语外贸大学及其相关部门、广东外语外贸大学高级翻译学院提出以下几点诉求：</p>
-<p>1. 要求广东外语外贸大学高级翻译学院党委副书记杜焕君就其对我本人以及本人家庭所造成的伤害公开道歉。</p>
-<p>2. 要求广东外语外贸大学高级翻译学院赔偿我、我父亲、母亲在6月28日往返广外过程中产生的误工费、交通费、餐费共计850元。</p>
-<p>3. 要求广东外语外贸大学高级翻译学院党委以及广东外语外贸大学相关部门就区别对待处理不同性取向学生的情况进行反思，公开处理结果。</p>
-<p>4. 要求广东外语外贸大学各学院、工会、教师发展中心等相关教师校工活动组织单位每年至少组织两场针对教师与校工的多元性别平等培训。</p>
-<p>5. 要求广东外语外贸大学成立恐同教材及教学督查委员会，清查校园内发放的“恐同”教材。</p>
-<p>6. 要求广东外语外贸大学团委允许学生性别社团的成立，以及批准学生在校内组织与多元性别平等相关活动。</p>
-<p>在整件事的过程中，学校力图把我推入“学校利用家长爱和关心把误入歧途的熊孩子救回来”的故事，并遮蔽校方行为对我家庭和个人造成的伤害。我把此事公开，是希望广外对性少数学生的伤害，到我们为止。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%BC%82%E6%80%A7%E6%81%8B%E6%AF%95%E4%B8%9A%E6%B1%82%E5%A9%9A%E5%BE%97%E6%A0%A1%E9%95%BF%E7%A5%9D%E7%A6%8F%EF%BC%8C%E5%90%8C%E6%80%A7%E6%81%8B%E6%AF%95%E4%B8%9A%E6%B1%82%E5%A9%9A%E4%B8%8D%E7%BB%99/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lgbt/?category=18271" rel="tag">LGBT</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%8C%E6%80%A7%E6%81%8B%E6%9D%83%E5%88%A9/?category=18271" rel="tag">同性恋权利</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%97%8F%E6%97%8F%E5%AF%BC%E6%BC%94%E4%B8%87%E7%8E%9B%E6%89%8D%E6%97%A6%E9%81%AD%E8%AD%A6%E6%96%B9%E7%BE%81%E6%8A%BC%E5%90%8E%E4%BD%8F%E9%99%A2/" target="cdt-mirror">纽约时报｜藏族导演万玛才旦遭警方羁押后住院</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/646ce857cf7e3b8_size77_w690_h975.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/646ce857cf7e3b8_size77_w690_h975.jpg?resize=525%2C742" alt="中国电影导演协会关于万玛才旦导演西宁机场事件的声明；来源：新浪微博" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/646ce857cf7e3b8_size77_w690_h975.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/646ce857cf7e3b8_size77_w690_h975.jpg?resize=212%2C300 212w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p>中国电影导演协会关于万玛才旦导演西宁机场事件的声明；来源：新浪微博</p></div>
-<p>香港——本周三，中国电影导演协会对一位知名藏族导演的健康状况表示了关切。被中国西北地区的警方羁押后，这名导演本周住进了医院。</p>
-<p>万玛才旦导演的作品包括电影<a href="https://www.youtube.com/watch?v=my0igj-bjXg" target="_blank" rel="nofollow">《塔洛》</a>。上周六，他准备飞往北京时，在西宁机场被警方拘押。中国电影导演协会本周一<a href="http://news.sina.com.cn/s/qw/2016-06-29/doc-ifxtmwei9503529.shtml" target="_blank" rel="nofollow">发表声明</a>称，在羁押过程中，万玛才旦“出现身体不适”，需要住院治疗。</p>
-<p>与万玛才旦合作的制片人索南加表示安保人员使用武力带走了万玛才旦，但并不认为他在羁押期间遭到了殴打。“他们抓住他的头发，把他的双手反铐在身后，把他强制带到派出所，”他说。</p>
-<p>索南加像其他一些藏人一样，也使用单名。他表示，万玛才旦当时返回行李领取处去拿一个忘掉的包，遭机场工作人员阻拦，说他不应该再次进入该区域。工作人员报了警，而警方以扰乱公共秩序为由，对万玛才旦处以五天的行政拘留。</p>
-<p>根据西宁机场警方的声明，万玛才旦之所以遭到拘留，是因为拒绝离开到达厅控制区，多次劝阻无效。然而索南加称，当万玛才旦意识到无法取回自己的包时，曾试图离开，但去路已经被堵住。</p>
-<p>警方称，“执勤民警到达后，将万某强制带离现场时，由于其仍拒不配合，导致手腕有三处手铐勒痕。”</p>
-<p>索南加称，在拘留期间，万玛才旦出现高血糖、高血压、头晕和胸闷症状，要求把自己送往医院。</p>
-<p>中国电影导演协会要求警方回答关于万玛才旦遭到拘留的问题。</p>
-<p>“呼吁相关部门迅速回应社会关切，公布事件原委，包括警方采取强制措施的理由和警方在执法过程中是否规范，是否存在暴力执法和过度执法的问题，”声明中说。</p>
-<p>万玛才旦主要拍摄力图描绘藏人当代生活现实的电影，与国内外很多描写藏区异域风情和神秘主义的作品区别很大。</p>
-<p>“电影人开始更准确地捕捉西藏生活的精髓，”他<a title="Link: http://www.nytimes.com/2016/06/11/arts/international/tibet-china-shanghai-international-film-festival.html" href="http://www.nytimes.com/2016/06/11/arts/international/tibet-china-shanghai-international-film-festival.html" target="_blank" rel="nofollow">本月</a>告诉《纽约时报》。“他们开始抛弃旧的模式化形象。”</p>
-<p><em>王霜舟(Austin Ramzy)是《纽约时报》记者。<br>
-欢迎在Twitter关注王霜舟 <a href="https://twitter.com/austinramzy" target="_blank" rel="nofollow">@austinramzy</a>.<br>
-翻译：纽约时报中文网<br><a href="http://www.nytimes.com/2016/06/30/world/asia/china-tibet-pema-tseden-tharlo.html" target="_blank" rel="nofollow">点击查看本文英文版。</a></em></p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E8%97%8F%E6%97%8F%E5%AF%BC%E6%BC%94%E4%B8%87%E7%8E%9B%E6%89%8D%E6%97%A6%E9%81%AD%E8%AD%A6%E6%96%B9%E7%BE%81%E6%8A%BC%E5%90%8E%E4%BD%8F%E9%99%A2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%87%E7%8E%9B%E6%89%8D%E6%97%A6/?category=18271" rel="tag">万玛才旦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E6%94%BF%E7%AD%96/?category=18271" rel="tag">民族政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">警察国家</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E8%AE%BE%E7%AB%8B%E5%9B%A0%E7%89%B9%E7%BD%91%E5%BC%80%E5%85%B3/" target="cdt-mirror">美国之音 | 中国计划设立因特网“开关”</a>
-</h2>
-<p><div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/E66BB2E6-70F5-4C5B-B33C-8746C51CCF22_w640_r1_s.jpg?resize=600%2C338" alt="北京一家网吧电脑显示屏展示必须正确使用网络的警方告示" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/E66BB2E6-70F5-4C5B-B33C-8746C51CCF22_w640_r1_s.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/E66BB2E6-70F5-4C5B-B33C-8746C51CCF22_w640_r1_s.jpg?resize=300%2C169 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>北京一家网吧电脑显示屏展示必须正确使用网络的警方告示</p></div>
-<p>中国一项有争议的网络安全法律正在人大审核。这项法律将授权当局可以在出现所谓“突发社会安全事件”发生时封锁互联网，阻断所有在线通讯。</p>
-<p>中国全国人民代表大会审核的法律没有明确说明“突发社会安全事件”的定义。这个含义宽泛的短语可能指代任何小到局部抗议、大到大规模暴动或暴力袭击的事件。</p>
-<p>这项法律草案规定，地方政府在关闭互联网之前必须要得到中央政府批准。当局被允许保持互联网关闭状态的时间长短不得而知。</p>
-<p><strong>中国新长城</strong></p>
-<p>中国当局定期审查互联网，删除各种内容及评论，尤其是批判共产党及其相关决策的发帖。</p>
-<p>分析人士表示，新法律将更为严格，看来是当局将日益严格且不断扩大的网络控制合法化和系统化的趋势。</p>
-<p>关注信息技术的知名博主龙威廉说：“中国互联网与世界其它地方的互联网的区别正在扩大，出现障碍。阻碍世界各地信息流向中国的障碍令外国公司感到在中国市场的扩张越来越难。”</p>
-<p>很多人在社交媒体上批评这项草案，并质疑该草案究竟把谁的利益放在第一位。</p>
-<p>有人在微博（中国版推特）上写道：“关闭互联网的权力是为了保护肆意欺压大众的官员，不是吗？这样的安全实际不是为了公众，而是为了阻止公众掌握真相。”</p>
-<p>一位网民写道：“你能关掉人们的内心和想法吗？”还有网民讽刺说，当突发社会安全事件发生时，政府应该直接切断水、电甚至空气。</p>
-<p><strong>轻易阻断？</strong></p>
-<p>龙威廉说，中国互联网建立的方式非常利于当局“阻断中国与世界的连接，因为中国互联网只有为数不多的连接外国端口。”</p>
-<p>但是他说，局部封锁地方网络并不容易。</p>
-<p>在中国一些省份，互联网有各种各样的运营商和系统，不尽相同，而新疆等省市自治区比较特殊，更容易被关闭。</p>
-<p>在2009年中国汉族与西部偏远地区的穆斯林维吾尔少数民族大规模冲突后，互联网、国际通话和短信服务曾被关闭数月。</p>
-<p><strong>窒息的环境</strong></p>
-<p>随着习近平主席执政三年多以来，中国当局对社交媒体及各种网络评论的控制不断收紧。除了正在审议的草案之外，当局还要求国内软件开发商让用户实名注册所有手机软件，用户的登录记录也必须保留至少60天。</p>
-<p>当局将监控大约400万个软件。</p>
-<p>加强控制并不只局限于网络，对高等院校、共产党员及精英的控制也在扩大。</p>
-<p>共产党员被告知要支持政府决策，并被禁止“妄议”党的决策。这些严格的规定也适用于已退休党员。</p>
-<p>保守派和改革派学者的争斗日益激烈。</p>
-<p>中国官方媒体本周报道，一份知名共产党杂志的高级编辑自杀。朱铁志是《求是》杂志副主编。他患有抑郁症，但他的一些朋友说，他的病情可能与中国当下激烈的思想斗争有关。还有人认为，他可能与正在进行的一项腐败调查有关。</p>
-<p>朱铁志曾经写道，如果党没有解决实际问题，“意识形态争论将成为一句空话，进而削弱党、党领导的政府与人民间的相互信任”。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E8%AE%BE%E7%AB%8B%E5%9B%A0%E7%89%B9%E7%BD%91%E5%BC%80%E5%85%B3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">中央政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/?category=18271" rel="tag">网络安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95/?category=18271" rel="tag">网络安全法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%AE%B8%E5%AE%B6%E5%B1%AF%E5%8E%BB%E4%B8%96%EF%BC%9A-%E4%B8%80%E4%B8%AA%E8%8B%B1%E9%9B%84%E5%92%8C%E6%82%B2%E5%89%A7%E4%BA%BA%E7%89%A9%E7%9A%84%E8%B0%A2%E5%B9%95/" target="cdt-mirror">自由亚洲｜许家屯去世： 一个“英雄”和“悲剧人物”的谢幕</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-4.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-4.jpg?resize=500%2C349" alt="前新华社香港分社社长许家屯。（资料图/Public Domain）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-4.jpg?w=622 622w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/image-4.jpg?resize=300%2C209 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>前新华社香港分社社长许家屯。（资料图/Public Domain）</span></p></div>
-<p>前新华社香港分社社长许家屯，于6月29号凌晨在美国洛杉矶家中去世，享年101岁。</p>
-<p>许家屯曾任中共中央委员、江苏省委书记， 1983年至1989年底任新华社香港分社社长、中共港澳工委书记。许家屯在任期间以开明著称，是中共前总书记胡耀邦、赵紫阳时代著名的地方领导人。</p>
-<p>许家屯的生前好友、前89“六四”学运领袖王军涛对本台表示，在中国的转折时期，许家屯既是一个英雄，也是一个悲剧人物：</p>
-<p>“许家屯先生是我的好朋友，94年我刚到美国时在他家见到的，我的印象中许家屯先生在中国的转折时期既是一个英雄，也是一个悲剧人物。许家屯先生在1989年前对中国的改革开放事业做了一些贡献，特别是89年 共和国两种力量进行搏斗的时候，许家屯先生在两种力量间支持赵紫阳先生，同时也是在试图影响杨尚昆先生。他试图找到既能和平解决当时的政治危机，同时也能走向宪政民主之路（的途径），可惜他最后未能成功。 因为他知道自己在中间卷入了一些事情，所以离开了香港来到了美国， 在美国他依然恪守一些原则的底线， 希望有一天能回到自己的祖国中国去，可惜他未能如愿。所以从这个角度来说他的悲剧是双重的，一是他所信仰的党抛弃了他，党后来变得很腐败出于自己的政治利益抛弃了他；第二，历史前进的步伐又不会对许先生这样的人予以理解，因为后来他没有站到历史继续进步的前沿。”</p>
-<p>据报道，1989年“六四事件”发生时，许家屯因同情学生受到打压。“六四”后，许家屯担心被整肃，后远走美国“旅遊休息”，居住在南加州。</p>
-<p>王军涛：“许家屯先生在文革中后期逐渐涉入到中共高层政治，比较核心的政治，他深知中共政治的黑暗和险恶。所以在1989年 他不能成功地使得各方达成一个和平的协议、促进中国改革的时候，他知道自己面临很大的危险，就是政治上的惩罚。但当时这个惩罚有多重，他没有办法料到，许 家屯先生就选择了先离开这些地方，但他并不是选择一种流亡，而是一种避难，就是避开当时的一些灾祸。你可以从他后来继续严守自己的一些底线，把一些事情继续存在他的肚子里可以看出，他始终是想等这段事情过去后回到中国去。”</p>
-<p>在美期间，许家屯时常发表有关中国内地与香港的时政评论，并于1993年出版了《许家屯回忆录》，忆述人生经历。</p>
-<p>据香港媒体报道，许家屯早年曾对《亚洲周刊》表示，并不后悔所做的一切。尽管后来被开除党籍，但他没有放弃对辩证唯物主义的信仰，自认“还是一个非党的马克思主义者”。</p>
-<p>王军涛对此表示：“其实除了许先生外我在美国还接触了大批这样的人，虽然他们在民主与专制的搏斗中支持民主与自由的事业，另一方面他们也不准备接受资本主义的世界，他们理想中还是社会民主主义，按他们的理解就是所谓的共产主义。”</p>
-<p>据香港《苹果日报》报道，许家屯近年希望回到中国大陆，但未获北京批准。截至记者发稿前，包括新华社在内的中国多家官方媒体尚未对许家屯去世的消息作出报道。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%AE%B8%E5%AE%B6%E5%B1%AF%E5%8E%BB%E4%B8%96%EF%BC%9A-%E4%B8%80%E4%B8%AA%E8%8B%B1%E9%9B%84%E5%92%8C%E6%82%B2%E5%89%A7%E4%BA%BA%E7%89%A9%E7%9A%84%E8%B0%A2%E5%B9%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B%E9%95%87%E5%8E%8B/?category=18271" rel="tag">六四镇压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E9%81%BF%E9%9A%BE/?category=18271" rel="tag">政治避难</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%B8%E5%AE%B6%E5%B1%AF/?category=18271" rel="tag">许家屯</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91lady-gaga-%E5%9B%A0%E8%A7%81%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E9%81%AD%E5%B0%81%E6%9D%80/" target="cdt-mirror">【河蟹档案】Lady Gaga 因见达赖喇嘛遭封杀</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%BA%9C%E6%BA%9C%E6%9E%97%E6%9C%A8">溜溜林木</a>：湖北仙桃，示威者被拉进特警车内，铁棍轮流上，再拉出来时，那个人已经血肉模糊，我只想问王毅这就是中国的人权？ <a href="http://t.cn/R5YZEUg" target="_BLANK">http://t.cn/R5YZEUg</a><img src="https://i1.wp.com/freeweibo.com/img/extlink.png?ssl=1" data-recalc-dims="1"> . <em>相关阅读｜《<a href="http://www.voachinese.com/content/a-witness-talks-about-police-violet-crackdown-20160628/3395609.html">美国之音｜目击者讲述湖北仙桃民众抗议遭镇压</a>》；</em>《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82%E4%B8%8D%E4%BB%85%E4%B8%8D%E7%8E%AF%E4%BF%9D-%E6%9B%B4%E6%98%AF%E6%B1%A1%E6%9F%93/"><em>网易回声｜中国的垃圾焚烧厂不仅不环保 更是污染集中地</em></a>》</p>
-<p></p><p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91lady-gaga-%E5%9B%A0%E8%A7%81%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E9%81%AD%E5%B0%81%E6%9D%80/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3990744093543954" target="/weibo/399">2016年06月26日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%85%AB%E5%8D%A6_%E6%88%91%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%A4%AACJ%E4%BA%86">八卦_我实在是太CJ了</a>：Lady Gaga的最新ins。。。[拜拜] <em><em><em><em>相关阅读｜《<a href="http://hk.apple.nextmedia.com/realtime/china/20160627/55283096">苹果日报<em><em><em><em>｜</em></em></em></em>Lady Gaga透視裝見達賴喇嘛 中宣部下令封殺</a>》；《<a href="http://www.voachinese.com/content/news-china-bans-lady-gaga-after-dalai-lama-meeting-20160628/3395206.html">美国之音｜Lady Gaga见达赖喇嘛 遭中国全面封杀</a>》；《<a href="http://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9Flady-gaga%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E9%9C%B8%E5%87%8C/a-19362708">德国之声<em><em><em><em>｜</em></em></em></em>长平观察：Lady Gaga与中国政治霸凌</a>》</em></em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-47.jpg?resize=476%2C846" alt="lady gaga" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-47.jpg?w=960 960w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-47.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-47.jpg?resize=768%2C1366 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-47.jpg?resize=576%2C1024 576w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"></p>
-<p></p><p><a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91lady-gaga-%E5%9B%A0%E8%A7%81%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E9%81%AD%E5%B0%81%E6%9D%80/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3990749978621189" target="/weibo/399">2016年06月26日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%93%9D%E6%98%9F%E8%99%AB%E6%9B%B0">蓝星虫曰</a>：让多年的同事，当面举着自己的语录本、喊自己万岁，你就那么地好意思吗？安之若素，甘之若饴…… <em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E6%B3%95%E5%B9%BF-%E6%96%87%E9%9D%A9%E4%B8%AD%E7%9A%84%E5%91%A8%E6%81%A9%E6%9D%A5/">法广 <em><em><em><em>｜</em></em></em></em>文革中的周恩来</a>》</em></em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-44.jpg?resize=444%2C266" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-44.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-44.jpg?resize=300%2C180 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-44.jpg?resize=80%2C48 80w" sizes="(max-width: 444px) 100vw, 444px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3990215762613727" target="/weibo/399">2016年06月25日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%97%92%E7%97%92%E9%97%B9%E7%9C%BC%E5%AD%90">痒痒闹眼子</a>：人民网发了条微博，后来删了，也不知道为什么？[思考] <em><em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%BA%E6%B0%91%E7%BD%91%E5%88%A0%E9%99%A4%E9%80%94%E8%A7%82tg%E5%BC%80%E5%80%92%E8%BD%A6%E4%B8%8B%E5%8F%B0%E5%BE%AE/">【立此存照】人民网删除“途观(TG)开倒车下台”微博</a>》</em></em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-11.png?resize=423%2C752" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-11.png?w=1080 1080w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-11.png?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-11.png?resize=768%2C1365 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-11.png?resize=576%2C1024 576w" sizes="(max-width: 423px) 100vw, 423px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3990225875570260" target="/weibo/399">2016年06月25日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40Charlie-%E8%82%87%E7%9A%84%E5%8D%9A%E5%AE%A2">Charlie-肇的博客</a>：【雷洋尸检单位遭举报 法医陷造假传闻】6月21日下午，雷洋案代理律师陈有西称，目前律师和家属还在等待雷洋的尸检报告，暂无最新情况介绍。然而，雷洋案指定的尸检机构法人代表霍家润日前连遭到网络举报，称其学历、履历造假，甚至还曾因赌博被免职。<em>相关阅读｜《<a href="http://www.rfa.org/cantonese/news/leiyang-06092016080109.html">自由亚洲｜疑雷洋尸检报告骤曝光 鉴定机构遭举报</a>》；《<a href="http://china.dwnews.com/news/2016-06-21/59747825.html">多维｜雷洋案发酵 法医霍家润身陷造假传闻</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-45.jpg?resize=441%2C588" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-45.jpg?w=650 650w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-45.jpg?resize=225%2C300 225w" sizes="(max-width: 441px) 100vw, 441px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3989702450778749" target="/weibo/398">2016年06月24日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%82%A3%E6%97%A5%E6%9D%BE%E7%9A%84%E5%BE%AE%E5%8D%9A">那日松的微博</a>：午夜，来自人大校友群……[蜡烛]//*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E6%9C%89%E8%A5%BF">陈有西</a>：雷洋离开人间49天，人大同学自发追思，追问死因，希望早日公布尸检结果。<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-40.jpg?resize=402%2C301" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-40.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-40.jpg?resize=300%2C225 300w" sizes="(max-width: 402px) 100vw, 402px" data-recalc-dims="1"><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-46.jpg?resize=433%2C770" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-46.jpg?w=960 960w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-46.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-46.jpg?resize=768%2C1366 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/1-46.jpg?resize=576%2C1024 576w" sizes="(max-width: 433px) 100vw, 433px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3989692686371519" target="/weibo/398">2016年06月24日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91lady-gaga-%E5%9B%A0%E8%A7%81%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B%E9%81%AD%E5%B0%81%E6%9D%80/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/lady-gaga/?category=18271" rel="tag">Lady Gaga</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8E%86%E5%8F%B2%E5%80%92%E8%BD%A6/?category=18271" rel="tag">历史倒车</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%81%A9%E6%9D%A5/?category=18271" rel="tag">周恩来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%8E%82/?category=18271" rel="tag">垃圾焚烧厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%81%E6%9D%80/?category=18271" rel="tag">封杀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%9B%E6%B3%BD%E4%B8%9C/?category=18271" rel="tag">毛泽东</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B9%96%E5%8C%97%E4%BB%99%E6%A1%83/?category=18271" rel="tag">湖北仙桃</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BD%E5%88%BA/?category=18271" rel="tag">讽刺</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B/?category=18271" rel="tag">达赖喇嘛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E5%B0%B8%E6%A3%80/?category=18271" rel="tag">雷洋尸检</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9C%8D%E5%AE%B6%E6%B6%A6/?category=18271" rel="tag">霍家润</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5-%E5%BE%90%E9%BA%9F%E6%8E%A5%E6%9B%BF%E9%B2%81%E7%82%9C%E5%87%BA%E4%BB%BB%E5%9B%BD%E5%AE%B6%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%B8%BB%E4%BB%BB/" target="cdt-mirror">联合早报 | 徐麟接替鲁炜出任国家网信办主任</a>
-</h2>
-<p><p>（联合早报网讯）中宣部副部长鲁炜卸下所兼任的国家网信办主任一职，由网信办副主任徐麟接替。</p>
-<p>据《联合早报》获得的可靠消息，中国国家互联网信息办公室（网信办）主任鲁炜今天卸下网信办职务，由徐麟接替。</p>
-<p>徐麟此前是网信办排名第一的副主任，根据本报了解，鲁炜继续担任中宣部副部长。</p>
-<p>徐麟（53岁）是在去年6月出任国家网信办副主任，他此前一直在上海任职，曾任浦东新区中共区委书记和上海市宣传部部长。</p>
-<p>他的仕途从基层起步，历任上海市南汇县周浦中学团委书记，县委常委、副县长等职；1995年升任嘉定区委副书记，期间也作为上海第一批援藏干部，任西藏日喀则地委副书记。</p>
-<p>1998年以后，徐麟先后于上海市农工商（集团）总公司、上海市民政局、上海市农业委员会任职。2007年5月升任市委常委，成为上海当年的“政治明星”，并与现任中共总书记习近平有约半年的直接共事经历。</p>
-<p>2007年3月，习近平从浙江调职到上海，出任上海市委书记。同年5月，习近平率领市委新领导班子集体亮相时，在介绍到徐麟时说：“他是领导班子里面最年轻的一位，他也曾经在西藏工作。”</p>
-<p>鲁炜（56岁）于2013年4月调任国家网信办主任，兼中央外宣办、国务院新闻办副主任。他此前历任新华社副社长、中共北京市委常委、宣传部部长，副市长。</p>
-<p>2014年5月，鲁炜受委为中宣部副部长。</p>
-<p>国家网信办负责全国互联网信息内容管理工作，并负责监督管理执法。</p>
-<p>国家网信办和中共中央网络安全和信息化领导小组办公室（中央网信办）是“一个机构、两块牌子”，国家网信办主任同时也担任中央网信办主任。</p>
-<p>中央网信办是中央网络安全和信息化领导小组的常设办事机构。2014年2月，中央网信领导小组成立，习近平担任组长，中共政治局常委李克强、刘云山任副组长。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E8%81%94%E5%90%88%E6%97%A9%E6%8A%A5-%E5%BE%90%E9%BA%9F%E6%8E%A5%E6%9B%BF%E9%B2%81%E7%82%9C%E5%87%BA%E4%BB%BB%E5%9B%BD%E5%AE%B6%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%B8%BB%E4%BB%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%AE%A3%E9%83%A8/?category=18271" rel="tag">中宣部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E5%8A%9E%E5%85%AC%E5%AE%A4/?category=18271" rel="tag">互联网信息办公室</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%BA%92%E8%81%94%E7%BD%91%E4%BF%A1%E6%81%AF%E5%8A%9E/?category=18271" rel="tag">国家互联网信息办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%AE%A3%E5%8A%9E/?category=18271" rel="tag">外宣办</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E9%83%A8/?category=18271" rel="tag">宣传部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E9%BA%9F/?category=18271" rel="tag">徐麟</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E7%82%9C/?category=18271" rel="tag">鲁炜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%8C%97%E4%BA%AC%E5%AE%9E%E6%96%BD%E3%80%8A%E5%8F%B8%E6%B3%95%E8%A1%8C%E6%94%BF%E6%9C%BA%E5%85%B3%E5%BE%8B%E5%B8%88%E7%B1%BB%E8%A1%8C%E6%94%BF/" target="cdt-mirror">【立此存照】北京实施《司法行政机关律师类行政约谈办法》</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/1935084477/DCt2GykoY" target="_blank">@迟夙生律师</a>：仔细看了好几遍，没有秘密、机密、绝密字样，这会不会扩散到北京以外？</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/73570bbdjw1f5bzcl64w1j20go0m8myl.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/73570bbdjw1f5bzcl64w1j20go0m8myl.jpg?resize=500%2C667" alt="73570bbdjw1f5bzcl64w1j20go0m8myl" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/73570bbdjw1f5bzcl64w1j20go0m8myl.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/73570bbdjw1f5bzcl64w1j20go0m8myl.jpg?resize=225%2C300 225w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p>各区司法局，市局机关各处室，市律师协会：</p>
-<p>为做好全市律师、律师事务所业务指导和执业监管工作，进一步规范律师监管执法行为，提高律师业务指导和服务水平，北京市司法局制定了《北京市司法行政机关律师类行政约谈办法（试行）》，已经2016年6月27日经2016年第14次局长办公会讨论通过。现印发给你们，请认真组织学习，遵照执行。</p></blockquote>
-<h4><span><strong>附：各地司法局律师“管理”工作举例</strong></span></h4>
-<p> <br><strong><a href="http://cpsfj.bjchp.gov.cn/tabid/1948/InfoID/327097/frtid/1949/Default.aspx" target="_blank">昌平区司法局“三拳”出击加强律师管理</a></strong>（2015年8月）</p>
-<blockquote><p>二、强抓行业综合管理，打好管理“中心拳”</p>
-<p>一是制定了《昌平区律师代理重大案件协调指导制度》，在明确分工基础上<strong>联合区律协共同落实律师代理重大敏感案件报送制度</strong>，要求律师在代理重大敏感案件时，及时向区司法局备案；二是<strong>指派专人，主动约谈重点律师</strong>，<strong>告知</strong>其在执业过程中代理重大敏感案件要做到“五个不得”、“五个做到”；三是<strong>对重点律师事务所采用现场实地检查</strong>的方式，加大力度开展监管工作。</p></blockquote>
-<p><strong><a href="http://webcache.googleusercontent.com/search?q=cache:8e-luX-BhUUJ:hdrd.bjhd.gov.cn/rdhy/zrhy/201506/P020150610550546034592.doc+" target="_blank">关于海淀区律师行业发展和律师工作情况的报告</a></strong>——2014年10月14日在海淀区第十五届人大常委会第34次主任会议</p>
-<blockquote><p>海淀区司法局局长 周玉鑫：</p>
-<p>[…]<strong>做好重大敏感案件协调指导工作。</strong>近年来，我区律师代理重大敏感案件数量逐年上升，外省市有关部门来京协调和投诉的案件数量也随之增加。为指导、规范律师树立政治意识和大局意识，依法依规履行法律服务职能，保障当事人合法权益，同时兼顾地方经济发展和社会稳定，区司法局<strong>进一步加大对律师代理北京及外埠重大敏感案件管理和协调力度</strong>。2013年以来，区司法局共计收到律师事务所报备重大敏感案件72件次，<strong>参与<span>协调指导</span>“刘汉刘维案”等重大案件</strong>20余件，<strong>赴湖北、贵州等地实地协调指导</strong>案件3件，约谈律师200余人次，接待涉案当事人500余人次。</p></blockquote>
-<p><strong><a href="http://weibo.com/p/230418731cd59b0102vvln" target="_blank">陕西省律师协会关于律师参与办理重大、敏感及群体性案件的指导意见</a></strong>（2015年9月）</p>
-<blockquote>
-<h4>四、律师事务所要加强案件的监督管理</h4>
-<p>（一）要严格执行受理审查制度。律师事务所受理重大、敏感及群体性案件，要由合伙人会议集体研究决定后再办理受托手续，并明确告知委托人，案件的受理、进程、结果须向所属司法行政机关和律师协会予以备案和汇报，在得到委托人同意后方可正式接受委托。<strong>对受理的重大、敏感及群体性案件，要指派政治素质过硬、业务素质良好、责任心强、经验丰富的律师办理，并明确提出辩护代理指导意见和工作要求。</strong>律师事务所主任及合伙人对办理重大、敏感及群体性案件律师负有指导管理职责，<strong>在案件受理后要及时约谈办案律师，教育<span>引导</span>律师牢固树立大局意识和责任意识，</strong>对严格依法履行辩护代理职责、处理好办案法律效果与社会效果关系、维护社会大局稳定提出要求，明确办理案件的工作流程、制度和纪律</p>
-<h4>五、律师协会要加强行业自律，发挥职能作用</h4>
-<p>（二）要健全案件指导监督机制。<strong>律师办理重大、敏感及群体性案件，由所属律师协会统一负责指导、监督和协调工作</strong>，承办案件的律师事务所及其律师要积极予以配合，形成有效的监督协调机制。律师协会对未按规定统一受理、按时报备的要及时提醒、纠正；收到备案材料后要及时研究提出办案指导意见和要求，<strong>必要时直接约谈律师事务所负责人及办案律师，<span>引导</span>、<span>提示</span>办理该案应注意把握的法律、政策界限和执业纪律要求</strong>；在案件办理过程中，<strong>要对律师办案情况进行全程监督</strong>，必要时对庭审情况进行现场监督。案件办结后，要指导律师事务所总结办案经验和存在问题，不断改进和提高办理重大、敏感及群体性案件的能力和水平。</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%8C%97%E4%BA%AC%E5%AE%9E%E6%96%BD%E3%80%8A%E5%8F%B8%E6%B3%95%E8%A1%8C%E6%94%BF%E6%9C%BA%E5%85%B3%E5%BE%8B%E5%B8%88%E7%B1%BB%E8%A1%8C%E6%94%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%BE%8B%E5%8D%8F/?category=18271" rel="tag">中国律协</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%80%E6%8A%8A%E5%AD%90/?category=18271" rel="tag">刀把子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
 </p>
 <table>
     <tr>
@@ -894,7 +997,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -904,5 +1007,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

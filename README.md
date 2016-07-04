@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8F%B0%E6%B9%BE%E8%AF%AF%E5%B0%84%E9%9B%84%E4%B8%89%E5%AF%BC%E5%BC%B9-%E9%98%B4%E8%B0%8B%E8%AE%BA%E7%94%9A%E5%9A%A3%E5%B0%98%E4%B8%8A/" target="cdt-mirror">德国之声｜台湾误射“雄三”导弹 阴谋论甚嚣尘上</a>
@@ -101,7 +101,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%84%E4%B8%89
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E4%BA%A7%E5%85%AC%E5%BC%80/?category=18271" rel="tag">财产公开</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%99%93%E5%8A%9B/?category=18271" rel="tag">马晓力</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/bbc-%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E6%9C%AA%E6%81%AF-%E9%95%BF%E6%B1%9F%E7%8F%A0%E6%B1%9F%E6%B0%B4%E7%B3%BB%E7%BA%B7%E5%91%8A%E6%80%A5/" target="cdt-mirror">BBC | 中国南方暴雨未息 长江珠江水系纷告急</a>
 </h2>
@@ -843,7 +843,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -853,5 +853,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

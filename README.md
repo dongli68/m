@@ -21,9 +21,200 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/bbc-%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E6%9C%AA%E6%81%AF-%E9%95%BF%E6%B1%9F%E7%8F%A0%E6%B1%9F%E6%B0%B4%E7%B3%BB%E7%BA%B7%E5%91%8A%E6%80%A5/" target="cdt-mirror">BBC | 中国南方暴雨未息 长江珠江水系纷告急</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/160704043827_cn_china_flood_poyang_lake_976x549_cns_nocredit.jpg?resize=550%2C309" alt="160704043827_cn_china_flood_poyang_lake_976x549_cns_nocredit" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/160704043827_cn_china_flood_poyang_lake_976x549_cns_nocredit.jpg?w=660 660w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/160704043827_cn_china_flood_poyang_lake_976x549_cns_nocredit.jpg?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>中国南方暴雨天气持续，所引发的洪水已波及长江、珠江西江流域。防汛部门表示，多条河流已超出警戒水位。</strong></p>
+<p>气象信息显示，一道雨带正从广西往东北一直延伸至江苏。中国中央气象台星期一（7月4日）继续发表第二高的暴雨橙色预警。</p>
+<p>在近日灾情最严重的湖北省，境内长江中游干流多处水文站水位星期天（3日）已超出设防水位，鄱阳湖出现今年首次长江江水倒灌现象。南京长江客轮停航，禄口机场航班起降受阻。</p>
+<p>今年华南地区比常年偏早半个月，于3月下旬进入汛期。中国国家防汛抗旱总指挥部指出，自入汛以来，全国已有1192县遭受洪涝灾害，造成186人死亡、45人失踪。</p>
+<p>国家防总指出，洪水受灾人口累计达3282万人，其中148万人须紧急转移；农作物受灾面积2942千公顷，倒塌房屋5.6万间，直接经济损失约506亿元人民币。</p>
+<p>国家防总还称，与2000年以来同期均值相比，今年洪水的受灾面积、受灾人口、死亡人口和倒塌房屋数目均显著下跌，但直接经济损失偏多51%。</p>
+<p>中新社引述国家防总官员说，预计今年主汛期的主要多雨区位于江南、江淮、黄淮、西南、东北等地，长江、松花江、淮河发生较大洪水的可能性较高，登陆台风个数偏少，但强度偏强，可能有强台风登陆中国并深入内陆。</p>
+<p>国家防总警告，长江中下游干流及洞庭湖、鄱阳湖水位最迟将于星期二（5日）全线超出警戒水位。此外，未来10天还将有两次强降雨过程，主要降雨区将从星期二起逐步北抬至江淮北部、黄淮中南部、西南东部等地，雨量一般为中到大雨，部分地区有暴雨。</p>
+<p>中央气象台也发出山洪灾害气象预警，预测安徽东南部、江西西北部、湖北东南部、湖南东北部和西部、贵州东南部、云南西部等地部分地区发生山洪灾害可能性较大。</p>
+<p>刚在美属关岛附近形成的今年第一号热带气旋尼伯特预测最快星期四（7日）靠近台湾北部。</p>
+<p>中国中央气象台预测尼伯特将擦过台湾本岛北部，星期五在浙江南部登录。美国联合台风警报中心预测，台风将于台湾北部以东海域和浙江沿岸掠过，并持续向北移动，趋向黄海。</p>
+<p>中国国家防汛抗旱总指挥部秘书长、水利部副部长刘宁于3月底说，受去年9月开始的新一轮厄尔尼诺现象影响，今年中国气象年景总体差，长江流域汛期发生大洪水的可能性很大，防汛抗旱形势极为严峻。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/bbc-%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E6%9C%AA%E6%81%AF-%E9%95%BF%E6%B1%9F%E7%8F%A0%E6%B1%9F%E6%B0%B4%E7%B3%BB%E7%BA%B7%E5%91%8A%E6%80%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E9%9B%A8/?category=18271" rel="tag">暴雨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B4%E5%88%A9/?category=18271" rel="tag">水利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E6%B0%B4/?category=18271" rel="tag">洪水</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%AE%B3/?category=18271" rel="tag">洪涝灾害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%8D%9F%E5%A4%B1/?category=18271" rel="tag">经济损失</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E6%B1%9B/?category=18271" rel="tag">防汛</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 7小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%B9%8C%E5%9D%8E%EF%BC%9A%E6%9D%91%E6%94%AF%E4%B9%A6%E8%A2%AB%E6%8A%93%E8%B5%B0%E5%90%8E%E4%B8%80%E4%B8%AA%E7%94%9F%E6%B4%BB%E5%9C%A8%E6%81%90%E6%83%A7%E9%87%8C/" target="cdt-mirror">博谈网 | 乌坎：村支书被抓走后一个生活在恐惧里的村庄</a>
+</h2>
+<p><p>（博谈网记者周洁编译）本文译自《南华早报》7月3日的报道。广东东部的渔村乌坎或许表面上看似平静，但是那里的居民被恐惧萦绕，尤其是当夜幕降临。</p>
+<p>这种恐惧导致最近乌坎的夜间出现“哨兵”，他们大多是骑着摩托车的年轻人，守卫着重要的位置和小巷，例如被拘捕的村支书林祖恋家人居住的那些房屋。</p>
+<p>也已见到有些村民远走他乡或躲藏起来，而其他人睡觉时，他们的床边放有锣，这样他们可以提醒其他住户有危险。</p>
+<p>“我开着灯睡觉，这样睡已经三天了”，一名在乌坎的14岁女孩说。</p>
+<p>“因为担心特警队可能随时冲进来抓人，我的一些同学甚至组织一起过夜。”</p>
+<p>乌坎村民在2011年联合起来反抗夺地和腐败，最终为该村赢得直接选举村领导的权利，而令乌坎登上世界头条新闻。然而，那些问题并未得到解决，村民们指责更高层政府不作为。</p>
+<p>6月18日凌晨，70岁的村支书林祖恋被从家中快速抓走。他曾计划在次日就该村请愿发表演讲，敦促更高层政府解决乌坎已拖了多年的土地问题。</p>
+<p>“起初，人们质疑为何民选的（由林祖恋率领的）村委会未能把他们的土地要回来”，29岁的村民蔡智盛（音）说。“后来他们查看了一切后感到失望，因为涉及到与上级政府的谈判，非常困难。”</p>
+<p>蔡的父亲蔡立秋（音）是乌坎两名副党支书之一，他大约在两周前被捕。另一名副支书孙文亮（音）在最新的清算后逃离乌坎，仍在流亡中。</p>
+<p>中国成千上万的其他农村人都经历过和乌坎同样的土地被盗和腐败问题，但该问题获得关注在2011年产生了新的突破，有观察家称赞乌坎是基层民主在中国大陆运用的一个例子。</p>
+<p>不过，这也给该村带来了麻烦制造者的名声。这促使了当局在村民们上个月决定要发起又一次的大型抗议后进行了严厉镇压。</p>
+<p>当局艰难地遏制2011年的乌坎反抗，但村民们发现这一次政府的反应更强硬、更老练，当局派出了配备有催泪瓦斯的装甲车，警方配有步枪和防爆装置，以及有无人机监视人群的举动。</p>
+<p>村民们说，林祖恋的被捕与被“人格诽谤”令他们计划举行的大型抗议瘫痪，而接下来对其他活跃者的清算令同情者们毛骨悚然。</p>
+<p>林被捕之后，当局指控他从乌坎的建设项目中把大笔的钱放入自己的腰包。他21岁的孙子被短暂拘捕后，6月21日，林祖恋出现在电视上认罪。</p>
+<p>6月24日，负责管辖乌坎的汕尾市政府表示，已获得证据证明林祖恋从当地一所学校42万元人民币的跑道工程中吞了8万元人民币。</p>
+<p>林祖恋68岁的妻子杨珍说，她相信不会有不好的事情发生在他身上，尽管他们家试图为林祖恋聘请律师，屡次遭广东省当局阻挠。</p>
+<p>“他做村支书，没有拿过一分钱的工资”，杨珍说，她还补充道她丈夫甚至用他们儿子寄给他们的钱来帮补村委会的运作。</p>
+<p>自从林祖恋被捕后，数千村民举行了两个多星期的抗议，宣告林祖恋是清白的，呼吁当局释放他。</p>
+<p>“林祖恋是一个简单、诚实、勤劳的人”，蔡说。“我相信在乌坎的每一个人都有一个标准答案来证明他的为人。我们不需要外界来告诉我们他是什么样的人。”</p>
+<p>一名有个3岁女儿的35岁母亲说林祖恋是个“无私的人”，没有人相信他会受贿。</p>
+<p>“作为他的邻居，我们大家都知道林家节俭的生活方式……他每天骑着自行车去上班”，她说。</p>
+<p>就在他被捕前几天，林祖恋接受香港有线电视采访时说，乌坎已经被封了，在处理土地问题时遭到更高层政府的干扰和围攻。</p>
+<p>“包括搞鬼、施压以及鼓动代表他们利益的干部来对我”，他说。</p>
+<p>林祖恋说在过去的五年里，乌坎只成功地拿回了大约1.3平方公里的集体土地，还有另外被前村政府卖掉的4平方公里土地及和邻村的争议中陆丰市承诺归乌坎的4.6平方公里土地未拿回。</p>
+<p>“他们将会严厉打击、逮捕，使用卑鄙的手段来对我，但是我会战至胜利或者死亡”，林说。“这是我绝望的选择。”</p>
+<p>原文Wukan: a village living in fear following arrest of party chief</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%B9%8C%E5%9D%8E%EF%BC%9A%E6%9D%91%E6%94%AF%E4%B9%A6%E8%A2%AB%E6%8A%93%E8%B5%B0%E5%90%8E%E4%B8%80%E4%B8%AA%E7%94%9F%E6%B4%BB%E5%9C%A8%E6%81%90%E6%83%A7%E9%87%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86/?category=18271" rel="tag">中国大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%8A%97/?category=18271" rel="tag">反抗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">基层民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE/?category=18271" rel="tag">抗议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%87%E5%8E%8B/?category=18271" rel="tag">镇压</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 8小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%BA%E4%BA%86%E4%BF%9D%E4%BD%8F%E6%AD%A6%E6%B1%89-%E8%BF%99%E4%BA%9B%E5%B0%8F%E9%95%87%E5%90%9E%E4%B8%8B%E4%BA%86%E5%A4%A7%E5%8D%8A%E7%9A%84%E6%B4%AA/" target="cdt-mirror">网易回声 | 为了保住武汉 这些小镇吞下了大半的洪水却没人管</a>
+</h2>
+<p><p><strong>蓄滞洪区每年帮有钱的邻居们吞下大半的洪水，却是以自身的经济发展为代价，最后一直穷着的它们，也只能一直当着泄洪区。</strong></p>
+<p>文｜吴静宜</p>
+<p>这几天，长江一带突然开始连续数日的暴雨，洪水蠢蠢欲动，人们纷纷预测今年或许会发生另一场堪比 1998 年的大洪水。湖北省气象局在 7 月 2 日发布了最高级别的红色暴雨预警，表示“中小河流洪水气象风险等级高”；7 月 3 日晚上，第一波洪峰刚刚抵达武汉市新洲区，第二号洪峰就已经在长江中下游形成，继续往市区逼近。截至 7 月3 日，湖北省已经有 730 万余人受灾，27 人死亡，12 人失踪。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160704072550ee625_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2016年07月03日，湖北省武汉市，南湖雅园小区，居民打赤脚、或让男朋友背出积水区。/视觉中国" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160704072550ee625_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160704072550ee625_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2016年07月03日，湖北省武汉市，南湖雅园小区，居民打赤脚、或让男朋友背出积水区。/视觉中国</p></div>
+<p>早在今年年初，这场大洪水就已经提上了国家防汛指挥部的日程。国家防汛抗旱副总指挥部部长陈雷在今年1 月 15 日说，去年发生的厄尔尼诺事件可能成为历史最长的一次，受此影响，2016 年中国南北方汛期发生大洪水的可能性很大。</p>
+<p>除了厄尔尼诺，另一个坏消息是今年长江中下游的梅雨季推迟，会和长江上游的梅雨季同时发生，也就是“二次梅”，这意味着长江的上、中、下游将同时遭遇暴雨，水势滔天。同样的情况也曾经发生在 1998 年的夏季。</p>
+<p>中央气象台 6 月提供的数据表明，2016 年累计 500 毫米以上的降雨范围比 1998 年多出 53 万平方公里，平均降雨量多处 23.5%，南方主要江河水位均高于 1998 年。这场洪水是跑不掉的了。</p>
+<p>而看起来已经严重到要游泳去上班的武汉并不是这场洪水的主战场，武汉城区内的积水只是因为降雨过多、城市排水系统又不给力造成的内涝。真正面对着洪水危机的是底下的二三四线小城镇，它们作为蓄滞洪区往往被用来分担洪水的压力，把从长江涌向武汉的洪水都揽到自己怀里来。</p>
+<p><strong>不管多么坚固的大坝也只能暂时堵住洪水，最终还是要靠长江边上的蓄滞洪区来消化掉它们。</strong></p>
+<p>如今长江防洪主要依靠三大秘技：隐蔽工程、三峡大坝和蓄滞洪区。隐蔽工程就是给堤坝进行一些防漏加固，它和大坝都是 1998 年的那场大洪水之后建的，一方面让长江大堤固若金汤，另一方面在拦住洪水的同时发发电什么的。</p>
+<p>三峡大坝的设计标准就是在“万年一遇”（最高峰值 110,000立方米／秒）的洪水前不倒塌，“千年一遇”（最高峰值 98,800立方米／秒）的洪水前能正常运转，“百年一遇”（最高峰值 83,700立方米／秒）的洪水前还能顾得上帮下游河段挡一挡，把荆江河道接收到的洪水控制在它能力范围内。</p>
+<p>蓄滞洪区实际上就是我们常说的“分洪区”、“泄洪区”的总和，它包括行洪的河道、分洪的湖泊、蓄洪和滞洪的平原和城镇。当洪水水位涨到临界点时，就会开闸防洪，让水先漫到一些经济不算发达、淹了损失也不太大的地区，来保证经济更发达的大城市不会受到太大的影响。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160704072627ee3b4_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2010年7月28日凌晨，汉江支流东经河旁的两处民院进行了扒堤分洪，共转移群众约6千人。范围3万多亩地变成为泄洪区，经济损失在约2亿元。/视觉中国" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160704072627ee3b4_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160704072627ee3b4_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2010年7月28日凌晨，汉江支流东经河旁的两处民院进行了扒堤分洪，共转移群众约6千人。范围3万多亩地变成为泄洪区，经济损失在约2亿元。/视觉中国</p></div>
+<p>根据水利部的数据，长江中下游干流安排了 42 处蓄滞洪区，总面积达 1.2 万平方公里，可以容纳 589.7 亿立方米的洪水，相当于 1.5 个三峡大坝的总库容。在最主要的荆江蓄滞洪区里，有主体部分的荆江分洪区、涴市扩大分洪区、虎西预备蓄洪区、人民大垸蓄滞洪区四大块，横跨公安、石首、松滋、荆州、监利五个县市区，它们相互配合把洪水囤起来，过了洪峰再引入江中；如果这还不够用，再分流到下游的洪湖蓄滞洪区里。</p>
+<p>虽然长江每年都会或多或少发点洪水，但都是小打小闹的区域性洪水，大坝一挡基本上没多大问题，并不需要真的淹城淹镇地来解决。但今年的洪水不比往常，是类似 1998 年的全流域大洪水，蓄滞洪区将是一定会用到的最后一根救命稻草。</p>
+<p><strong>这根稻草看起来并不怎么牢靠，许多蓄滞洪区并没有为迎接洪水做好充足的准备。</strong></p>
+<p>在选择蓄滞洪区时，一般都遵循历史，选取了那些古往今来就一直是江河洪水淹没和蓄洪的地区，同时也根据经济发展情况作了适当增补。所以洪水一来，那些被淹的最狠的地区往往也是最穷的地区，防洪措施几乎等于没有，摊着手等水淹过来。</p>
+<p>《防洪法》和《防汛条例》都只对蓄滞洪区的建设环节做出了一般性的规定，要求所在地的政府制定安全建设计划，既没有具体的建设标准，也缺乏法律责任制度，最后导致当地政府建或不建防洪工程都没人管，无奖也无罚，政策成了一纸空文。</p>
+<p>根据水利部的调查，总长 2764 公里的蓄滞洪区围堤，除了长江干堤、洞庭湖和鄱阳湖部分在 1998 年大洪水后进行了加高加固的基本修缮，其余地区都没有进行任何防洪建设。长江和洞庭湖交汇处的城陵矶在 1999 年的《关于加强长江近期防洪建设的若干意见》中就被要求建立一个 100 亿立方米的蓄滞洪区，到现在建设还处于“起步阶段”；而按照三峡规划方案，除了这 100 亿立方米，城陵矶还有一个 180 亿立方米蓄洪容积的欠账。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160704072821c6389_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2012年08月10日，城陵矶（七里山）水文站。/视觉中国" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160704072821c6389_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160704072821c6389_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2012年08月10日，城陵矶（七里山）水文站。/视觉中国</p></div>
+<p>安全工程不足，人口却超标了。一般蓄滞洪区内对人口应该有严格的控制政策，严进宽出，把人口限制在一个方便大规模转移的范围内。但荆江分洪区一直都没有对人口进行限制，甚至这几年来才第一次对人口进行了摸底调查，发现现居人口 60 多万，比 1998 年增加了近 7 万人；一旦遇上要分洪，除了其中本来就定居在安全区的 20 万人，其余 40 万人都得全体转移、临时安置。</p>
+<p>但用于安置这些居民的安全区却能力不足，围堤没有达标、台顶不够高、救生器材不够用……各种问题层出不穷，这么多年来也没有解决。在荆江分洪区内，一共 19 个被围堤围起来的安全区和 87 个安全台，全部保持在 1952 年分洪区刚建成时候的数量，也无人维护。</p>
+<p>不仅转移目的地不靠谱，连转移路上用的道路桥梁都是临危受命。荆江分洪区现在有转移道路 129 条，共 799 千米；有转移桥 399 座，共 6.1 千米。但这远不够用，完全没有达到《长江流域蓄滞洪区建设与管理规划》的要求，还需要临时抢修转移道路 55.1 公里，临时搭建桥梁 21 座。</p>
+<p>国家给的补助少，分洪区里也没钱。当它们想要开始自力更生时，却不得不自己承担洪水带来的经济风险。</p>
+<p>在 2003 年以前，这里的河堤加固经费全部由地方政府承担，人力则由当地百姓肩挑背扛；2003-2008 年，国家终于给培堤土进行补助，但每一方土也只补助 5 元，余下的部分由乡镇和村民自行垫付；直到 2008 年以后，才开始全额补助，但补助额非常少，导致堤坝的加固速度也非常慢，每年平均加固 25 公里，至少还需要 24 年才能完成整个工程。</p>
+<p>由于荆州分洪区的防洪工程一直没有得到国家立项，获得的资金补助都属于短期应急性整治。从“十五”到“十二五”之间的 15 年，荆江分洪区投入防洪和安全建设的资金总计 1.9 亿元，平均每年不到 1300 万元。</p>
+<p>作为最重要的蓄滞洪区，荆江分洪区是保障江汉平原和武汉三镇的第一道关卡，但它却难以发展起来。荆江分洪区所在地公安县在湖北省 80 个县域经济发展排名中，只排第 54 位；区内 61,675 人里，有 8,675 是贫困人口，占总人数的 10%。</p>
+<p>不甘心背着“分洪区”的锅一直自暴自弃地穷下去，它们选择了违规发展的路。按照《防洪法》和《防汛条例》的规定，在蓄滞洪区内建设非抗洪所用建筑需要申报并提交洪水影响评价报告，分洪区内也并不适宜发展容易被洪水毁坏的工业，而应该大力发展农耕。但如今的荆江分洪区第一、第二、第三产业的比值为 37.4 : 60.2 : 2.4，工业已经占了大半的比重，它们在分洪区内建起了新城，大楼林立，遍地酒楼。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2016070407285450ccb_550.jpg.550x10000.75.auto_.jpg?resize=550%2C413" alt="2016年5月1日，湖北荆州公安县，老县城围堤以外就是分洪区。/澎湃新闻记者 李坤" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2016070407285450ccb_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2016070407285450ccb_550.jpg.550x10000.75.auto_.jpg?resize=300%2C225 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2016年5月1日，湖北荆州公安县，老县城围堤以外就是分洪区。/澎湃新闻记者 李坤</p></div>
+<p>根据荆州分洪区所在的公安县城乡规划局副局长马棚对澎湃新闻的回应，目前公安县城区规模比 1998 年扩大了 10 倍，半数以上的大企业（年产值500万元以上）分布在分洪区以内，其中还包括 2 家上市公司和 4 家年产值过亿的超大型企业；荆州市江南新区、孱陵工业新区、青吉工业园区也都位于分洪区内。</p>
+<p>这意味着，一旦需要开启分洪模式，荆州分洪区将损失惨重。损失的不仅仅是当地的经济，更是普通公民的利益；因为根据规定，分洪区内那些林立的高楼都是违章建筑，不给赔。</p>
+<p>2000 年颁布的《蓄滞洪区运用补偿暂行办法》规定，洪水过后，蓄滞洪区内的农作物、专业养殖和经济林，分别按照蓄滞洪前三年平均年产值的 50%-70%、40%-50%、40%-50% 补偿，住房按照水毁损失的70%补偿，家庭农业生产机械和役畜以及家庭主要耐用消费品，登记总价值在 2000-4000 元的，按照水毁损失的 100％ 补偿，4000 元以上的按照水毁损失的 50%补偿。如果像 1998 年那样只转移却没泄洪的，“给予适当补偿”。</p>
+<p>根据这个规定，工商业将得不到任何补偿，占比 62% 的第二、三产业即便毁于一旦，也只能后果自负。而 16 年前规定的补偿办法现在再拿来作为标准，灾民的利益必然会受到损害；更别提从乡镇居委会一路审到国务院的补偿程序，只怕物价又翻了一倍，而赔偿金还没到手。</p>
+<p>蓄滞洪区就像是后娘养的孩子，不仅要牺牲自己保全周边城市，好不容易奋斗出一点经济成果，最后却还要风险自担。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%BA%E4%BA%86%E4%BF%9D%E4%BD%8F%E6%AD%A6%E6%B1%89-%E8%BF%99%E4%BA%9B%E5%B0%8F%E9%95%87%E5%90%9E%E4%B8%8B%E4%BA%86%E5%A4%A7%E5%8D%8A%E7%9A%84%E6%B4%AA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B3%A1/?category=18271" rel="tag">三峡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B3%A1%E5%A4%A7%E5%9D%9D/?category=18271" rel="tag">三峡大坝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E6%B4%AA/?category=18271" rel="tag">抗洪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%94%E8%B1%A1%E5%B1%80/?category=18271" rel="tag">气象局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%B4%E5%88%A9%E9%83%A8/?category=18271" rel="tag">水利部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E8%B4%A3%E4%BB%BB/?category=18271" rel="tag">法律责任</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E6%B0%B4/?category=18271" rel="tag">洪水</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%81%BE%E6%B0%91/?category=18271" rel="tag">灾民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%8D%9F%E5%A4%B1/?category=18271" rel="tag">经济损失</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%93%84%E6%B4%AA/?category=18271" rel="tag">蓄洪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%88%8A%E6%96%87%EF%BC%9A%E5%B8%82%E5%9C%BA%E5%90%84%E6%96%B9%E5%BF%85%E5%B0%86%E9%80%90%E6%AD%A5%E9%80%82/" target="cdt-mirror">华尔街见闻 | 人民日报：市场各方必将逐步适应人民币波幅加大</a>
+</h2>
+<p><p>人民日报海外版今天刊登题为<a href="http://paper.people.com.cn/rmrbhwb/html/2016-07/04/content_1692421.htm">《人民币是负责任的国际货币》的文章</a>称，与历史上其他曾经历过由“盯住汇率”制退出的国家过程一样，市场各方未来也必将经历一段逐步适应人民币波动幅度加大的时期。</p>
+<p>文章作者为南开大学国际经济贸易学系副教授刘程，他表示，近期，在英国脱欧等议题的冲击下，人民币汇率出现了一定程度的调整。另一方面，去年三季度以来，受国内产业资本海外并购加速，以及美联储加息的影响，人民币汇率的波动程度较以往有所加剧。然而，逐步增强人民币汇率弹性，扩大汇率波动区间，恰恰是近年来我国货币及汇率体系改革的政策导向所指。</p>
+<p>文章称，纵观发达国家国际主要货币的汇率史，短期内出现20%甚至40%汇率波动的极端情形也并非罕见。因此，无论从波幅还是中枢水平来看，人民币的近期走势并不值得过分忧虑。审视人民币汇率的方向与趋势，仍需持有更长周期的历史视角。</p>
+<p>文章称，2008年金融危机后，美、日、英、欧等主要经济体的央行均启动了史无前例的非常规性货币政策，此类“以邻为壑”的政策清晰地暴露出部分国际货币的主权当局在维系全球金融稳定方面责任感的严重缺失。</p>
+<p>相比之下，人民币的表现才是负责任的国际货币。<strong>如以有效名义汇率考量，过去8年间大国货币中只有人民币没有相对任何一个主要货币出现剧烈的贬值，相对一篮子货币的有效汇率水平也基本保持了稳定</strong>。</p>
+<p>文章最后指出，时至今日，中国的经济实力和国际影响已大大超过20年前，也具备了更大的决心和能力来推动人民币的国际化进程，并将致力于将其打造成为一个崭新的、长期可信赖的国际储备货币。</p>
+<p>与此同时，国际经济秩序也正在经历着自二战以来的一次最大规模的新旧交替，这些因素都使得人民币国际化进程来到了一个重要的关口，而世界也将迎来一个更加强大和更负责任的全球性货币。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%8E%E5%B0%94%E8%A1%97%E8%A7%81%E9%97%BB-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%88%8A%E6%96%87%EF%BC%9A%E5%B8%82%E5%9C%BA%E5%90%84%E6%96%B9%E5%BF%85%E5%B0%86%E9%80%90%E6%AD%A5%E9%80%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81/?category=18271" rel="tag">人民币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87/?category=18271" rel="tag">人民币汇率</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">人民日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%82%A8%E5%A4%87%E8%B4%A7%E5%B8%81/?category=18271" rel="tag">储备货币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96/?category=18271" rel="tag">货币政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%AC%E5%80%BC/?category=18271" rel="tag">贬值</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">金融危机</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 10小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E9%80%89%E6%8B%A9%E8%A5%BF%E6%96%B9%E6%B0%91%E4%B8%BB%E4%BC%9A/" target="cdt-mirror">【异闻观止】环球时报 | 中国选择“西方民主”会比英国更乱</a>
+</h2>
+<p><p>原标题：罗思义：英国脱欧乱局带给中国的启示</p>
+<p>脱欧公投撕掉“西方民主”的“皇帝新装”</p>
+<p>刚刚举行的脱欧公投引发二战以来英国最严重的政治危机，英国的统一也因此受到严重威胁，这场危机料将持续多年。因为这场公投，中国国内也出现了一些有关“西方民主”“民粹主义”和“分离主义”的探讨。要想理解当前这些事件，就需了解它们背后最深层次的原因，弄清两者之间的联系至关重要。</p>
+<p>厘清英国这些乱象的关键在于它们坐实了“西方民主”只是一种表象，真正做决定的是其背后强大的经济集团。这样一来，那些令人费解的事就一目了然了。</p>
+<p>尽管公投已经通过，但英国仍是欧盟成员国。脱欧派领导人反对匆忙提出正式脱欧申请——正式脱欧只能按照《里斯本条约》第50条推进。以前首相布莱尔为首的英国政界大佬们强调英国脱欧之前必须再举行一次公投或选举。事实上，即便本次公投结果最后被推翻，那也并非罕见之事，而只能算是欧盟第五次推翻“民主”公投结果。在此之前，已上演过丹麦加入欧元区公投、爱尔兰反对《里斯本条约》公投等戏码。总而言之，就是当公投结果符合欧盟主要经济集团的策略安排时，它就被视为“民主决定”；反之，它就会因“错误”而被推翻。不仅是在欧盟，世界其他地区国家也曾发生类似情形。“西方民主体系”只会容忍有关较小议题的“错误”决定，但一定会推翻有关大事的任何“错误”决定。</p>
+<p>支配性经济集团用何种方法来确保胜利，取决于威胁的严重程度。如果威胁不严重，如美国大选，就通过为希拉里这种“正确的”候选人注资来获得“正确的”结果。如果威胁较严重，如欧盟公投，那么就推翻决定。如果威胁很严重，那就不惜动用军事政变之类的手段。西方民主体系自然希望遮蔽这一事实，因此它会用“最小程度”的必要方式来达到目的。但正如法国哲学家埃蒂安·巴利巴尔所言，当西方谴责马克思主义是“无产阶级独裁”时，它正小心地隐藏着自己“资本独裁”的真面目。</p>
+<p>正是这一事实道出欧盟公投乱象背后的深层原因。英国的权力阶层大多想要留在欧盟——英国工业联合会、首相、3/4的议员、伦敦金融中心。他们得到美国总统和所有欧盟成员国领导人的支持。这些力量只能被一支同样强大且有能力统治英国的社会力量取代，但那支力量并不存在。结果，这些力量在本次公投中落败引发了混乱，因为赞成脱欧的力量还只是一盘缺乏凝聚力的“民粹主义”散沙。</p>
+<p>不断加重的危机加上脱欧者缺乏凝聚力，给了支配性经济集团的代表们呼吁重新公投的机会——因为此前欧盟已有推翻做出“错误”公投决定的先例。</p>
+<p>“西方民主”建立在虚幻的人类图景之上</p>
+<p>引起这场混乱的终极原因，则在于西方民主模式是建立在一种完全虚幻的人类图景基础之上。真实的人类有着无数复杂需求，从摆脱贫困、确保自身安全等基本需求到文化、科技等复杂领域的需求，这些需求只能通过社会来满足，因此才产生了难以计数的不同社会关系。国际社会的众多证据表明，获得最高水平的生活、追求符合所在国家特征的生活方式是人类最想达到的目标。政治体系真正的工作就是最大限度地满足这些需求。</p>
+<p>可是，“西方模式”对人类具有“多维”需求这一事实视而不见，反而想用某种幻想出来的“一维”视角取而代之，认为人类关心的只是一系列单一狭隘的事，比如拥有一个议会制共和国或用上“脸谱”网站。而当这种不真实的“西方民主”体系所产生的投票结果与真实的经济政治力量发生冲突时，正如欧盟公投那样，就会引起混乱或导致投票结果被推翻。</p>
+<p>中国选择“西方民主”会比英国更混乱</p>
+<p>这些教训对中国来说至关重要。中国比英国更为复杂：中国是发展中国家，不仅拥有众多人口和民族，还有日本这种不甚友善的邻国，同时面临美国新保守派的遏制企图。中国现有体系已成功将这些不同因素整合进了自身国家发展进程，如果放弃这种“真实”的体系，转而采用基于错误人类图景和需求的“西方民主模式”，则其可能面临比当下英国更加危险的混乱。</p>
+<p>相信这些教训对中国共产党也会有所启发。今年7月1日正好是中国共产党建党95周年纪念日。从建立新中国，到带领这个大国创造出人类历史上最快的经济增速、迈入国际设定的高收入经济体门槛，再到带领7.28亿人脱离国际定义的贫困线，中国共产党始终承担着巨大历史责任。</p>
+<p>中共之所以能取得如此史无前例的成就，是因为它认识到了社会的多面性及其在中国的独特特征。中共了解自己国家复杂而真实的社会关系，清楚如何综合发展和满足以下这些需求以维持国家前进不可或缺的凝聚力：经济发展、保障社会和人身安全、发展科技文化等。为了做到这些，它理智地拒绝了西方体系中的错误，比如前述那种虚假图景，即认为人类是“一维”的、仅对少数“政治”议题感兴趣，他们并不非常关心自身全方位发展，包括追求符合所在国家特征的生活方式的权利。</p>
+<p>随着中国进一步发展，现实社会关系将变得更复杂，进而需要更完善的政策。但无论如何，在一个如中国这样大而复杂的国家，如果抛弃建立在其真实社会属性上的政策、转而求诸建立在虚幻想象上的西方体系，那将是场灾难。从这个角度来讲，中国应仔细研究导致欧盟公投这种乱局的系统，避免犯下任何危险的错误。</p>
+<p>作者是中国人民大学重阳金融研究院高级研究员、英国伦敦经济与商业政策署前署长，本文由徐珍珍翻译</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E9%80%89%E6%8B%A9%E8%A5%BF%E6%96%B9%E6%B0%91%E4%B8%BB%E4%BC%9A/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E7%A6%BB%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">分离主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">政治危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E7%B2%B9%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民粹主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5/?category=18271" rel="tag">环球时报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80/?category=18271" rel="tag">统一</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%84%B1%E6%AC%A7/?category=18271" rel="tag">脱欧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD/?category=18271" rel="tag">英国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E8%84%B1%E6%AC%A7/?category=18271" rel="tag">英国脱欧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A5%BF%E6%96%B9%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">西方民主</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 11小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-3/" target="cdt-mirror">奇闻录 | 周末段子荟萃 7-3</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQrjx1UMAAXQxx.jpg?resize=500%2C384" alt="CmQrjx1UMAAXQxx" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQrjx1UMAAXQxx.jpg?w=1000 1000w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQrjx1UMAAXQxx.jpg?resize=300%2C230 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQrjx1UMAAXQxx.jpg?resize=768%2C589 768w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>@willwang：党妈，今天是您的生日，我给您送钟来了！</p>
+<p>@lepture：党其实挺有互联网思维的，早期时候不拿群众一针一线，是谓免费模式，提高用户粘性，形成垄断后再收割韭菜。只是现在收得太厉害了，韭菜才刚发芽就开始收割了。</p>
+<p>@shifeike：我倒是特别关心一个问题，月底以来，雷案中一直相当活跃的人大校友会突然静默了。看着就好像一个地下电台已被成功破获了一样。</p>
+<p>@wmeng8：为什么中共总书记总叛党？第一任陈独秀叛党 第二任瞿秋白叛党 第三任向忠发叛党 第四任博古反党 第五任张闻天反党 第六任毛泽东反革命家属（妻江青、侄毛远新反革命）第七任华国锋走反动路线 第八任总书记胡耀邦走反动路线 第九任赵紫阳反党 得想办法，首先保证总书记绝对忠诚党 转的</p>
+<p>@freedomandlaw：雷洋案并不是一个法律问题，而是一个当局如何涂抹自己的丑陋的颜面、安抚一部分真心在清末的人、打马仔一巴掌还要马仔铁心为自己卖命、最后还要表明自己治下的社会是法治社会的问题，这个问题可不简单，这是一个若非在梦中，就没法处理妥当的问题。</p>
+<p>@freedomandlaw：且说一个点：政府对人们性观念和性行为的控制实质上已经基本破产，即便隔三差五的抓嫖也无抵于是，而且抓嫖往往是另有他用，比如转移视线、政治恫吓，人民已经“纯洁“不起来了，而官方也无法再让人民纯洁”起来。这是专制统治没落的表现之一。</p>
+<p>@freedomandlaw：作为一个”现代人“要对任何外在施加给你的义务保持谨慎，不论这义务是道德义务还是法律义务，此外，应尽可能的对情感压迫说不。自由是最珍贵的价值，密尔的伤害原则是人们自由的法律和道德界碑，除此以外，对人们自由的限制往往都是别有用心的，那就是侵害你的自由、财产、尊严。</p>
+<p>@破破的桥：我知道有人认为之所以雷被关注同情，是因为人大硕士身份，如果死的是个民工，连条微博都不会有。话是没错。但是，如果这种事是常态，民工死着死着，迟早会死到一个硕士引爆舆论的呀。</p>
+<p>@wangyi09：【神逻辑】有网友仔细看完中共十八大报告后总结：一、要彻底反腐败；二、腐败的根源在制度；三、制度绝对不能变。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQD7n4UEAE8Eis.jpg?resize=560%2C560" alt="CmQD7n4UEAE8Eis" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQD7n4UEAE8Eis.jpg?w=560 560w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQD7n4UEAE8Eis.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQD7n4UEAE8Eis.jpg?resize=300%2C300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQD7n4UEAE8Eis.jpg?resize=70%2C70 70w" sizes="(max-width: 560px) 100vw, 560px" data-recalc-dims="1"></p>
+<p>@maylogcom：#转：农村人对农村的不好是最清楚的。但到了上海，他们的说法是：农村空气好，房子大，家里的羊都是吃中草药，喝矿泉水的。家里的蔬菜都是纯天然的。山上的枣子就是比上海超市的甜。农村人都是勤劳善良朴实忠厚。结论是，自己绝不回农村了。留学生不说中国的不好，也是这种心态。</p>
+<p>@letscorp：转：万科事件之所以闹到这么大，主要原因是没有坚持党的领导。无论是以王石为首的管理团队，还是华润、宝能等股东，在做决策时有没有首先考虑万科公司党委的意见？有没有把党和人民的利益放在首位，这是要问清楚的。偏离了这一点，就不能做好企业；偏离了党的领导，基业就不会长青。</p>
+<p>@takamy50：发现爱国兔杂小粉红圈是支持投反对票的，他们的着眼点是“联合国干涉中国内政”，认为不可接受。</p>
+<p>@闲炎岁语：打人是不可能把人直接打死的，说被打死的其实都是因为自身原因而死。比如邱少云其实是因为体内蛋白质变性导致肌体功能丧失而死，黄继光是因为心脏大动脉破裂流血死的，刘胡兰是因为大脑供血不足缺氧死的。</p>
+<p>@bigman945：《树大招风》看了，确实是一部难得好片，简单来说就是讲的香港知名贼王面对即将迎来的中共时代，被全球最大黑帮——中共或直接或间接地教做人的故事……中共就是一个毒盅，无论是它内部还是治下的民众，均是呈更加恶劣的逆向淘汰，这让还有一些文明社会气息的香港贼人均展示出强烈不适应。</p>
+<p>@拖尼熊：我知道我有拖延症，不到最后不动手。但我不觉得丢人。这是民族病，国歌里有“中华民族到了最危险的时候，每个人被迫……”这么多年大家唱得很顺，没一个人问“早干嘛去了。”</p>
+<p>@de175b5b8b4e425：#光腚肿菊 #游戏审查仇深似海 必须刻录5张光盘，必须是DVD，安卓版安装包一张，iOS版安装包一张，3张是公司相关的资质证明扫描件；必须寄去两个装好游戏的手机，安卓一部，iPhone一部。无安卓版，就提供iPhone两部；手机里必须有电话卡，电话卡必须有流量。承诺归还手机。</p>
+<p>@mathwuyue：广电总局要审核游戏，真特么是一个混账决定。别的都不说，这游戏怎么审，你特么还能打通关了？！我真是无力吐槽你国这种随时上马拍屁股决定的审核制度。你国政府不骑在人民头上拉屎拉尿都显不出你国政府的威风。</p>
+<p>@chuhan：审核是仁慈的，哪天广电给改成每年上架34款进口App的配额制，那才真实反映我朝优良的寻租传统。</p>
+<p>@lazyeo：烦透了那些看着游戏审核和支付宝限额说“反正跟我没关系”的人了……早晚轮到你头上……</p>
+<p>@akid：app store 审查员笑了，妹想到，多年蝉联 「开发者最想吊打的人」 居然就这么被终结了</p>
+<p>@libearal：我补课的外教为了说明中国考试语法题傻逼，亲自打电话问他朋友，结果两个人的选择还不一样，都和标准答案不同，然后俩人还争论了半天。最后他对我们说：“所以说你们看……”</p>
+<p>@momoda168：法国小哥最近在跟着我学中文，有天我和他聊天时发了句“呵呵，23333”，他问我什么意思？我说就是超好笑的意思。今天晚上和他一起见中国朋友，朋友刚讲了个笑话，法国小哥就用标准的普通话说：“呵呵，两万三千三百三十三。”</p>
+<p>@洋葱日报社：【新华社：国足未来可复制威尔士奇迹】据透露，新华社今天又准备发文：威尔士一路过关斩将闯入欧洲杯四强让国足球迷看到了希望。威尔士能够战胜比利时晋级，说明弱队赢强队是当今足坛的大势所趋，国足只要保持弱队身份，保持永远不被人看好的状态，一样可以复制威尔士奇迹。</p>
+<p>@NalaGinrut：许多人认为衣食无忧有闲钱了就有创新能力和欲望了，并且可以不以赢利为目的去玩儿。实际上据我观察，这些人就算日子舒坦了也没那个能力，更没那种欲望。真正能创新的人都是从没钱就开始玩儿一直玩儿到有钱 #别给自己那点可怜的生命质感找借口了</p>
+<p>@linyujing：看到肉唐僧说女实习生收到那样的短信，还跟着去了酒店开房，然后说自己被强奸了，感觉中国男性的尊重女性意识比世界其它地区落后总有一百年吧，这么说吧，在HK找性工作者如果给了假钱或者不给钱，都算强奸。一夜情做的不舒服，女的也可以告男方强奸，只要她不愿意，让停下来不停，都算强奸。</p>
+<p>@扬卡洛夫：刚从我妈的朋友圈看的，说中央已经决定了，藏民不能支持德国。</p>
+<p>@iJoy：依恋学说有一个实验。父亲坐在街心公园，任由婴儿在其周围走动爬行。全神贯注自己事情的父亲，孩子行动范围最小。父亲一直注视着孩子时，孩子的行动范围最远。也最有安全感。幼年没有安全感的孩子，20%的精力要用于寻找父母，所以智力会降低。安全感强的，哪怕登月，也总觉得有一双眼睛注视着他。</p>
+<p>@勺布斯：北京的交通，大概就是你下午4点约了人，在车上临到时间一看路况，堵得够吃顿火锅再走的。心里急，觉得对不起人家。刚想发信息道歉，那边电话就打来了，听语气就特别着急：对不起了哥们，还在三里屯这堵着呢，一会儿我买单！…………于是我定了定神长吁口气，没事儿这都能理解，慢慢来不着急。</p>
+<p>@nuanxiaotuan：如果一个三十岁的男的能不臭烘烘不脏兮兮，不穿安踏配森马，不穷成狗，不口臭，不人前说黄色段子，不把牛逼吹得呜呜响，不弄个大油头，不自以为幽默，不大男子主义，不把胸大作为鉴定美女的标志，他就有脸要求要找个好看点儿的姑娘。</p>
+<p>@怕妻青年柳驰驰：女人的时间观念真是太难懂了。去年答应我老婆，送她一件礼物，结果半个月后我才想起来买。她不满地看着我说：答应的事拖那么久，你这种男人就是不可靠！今年，她说要送我一件礼物，结果拖了一个月才买。我质问她，她却反过来批评我：你看我们女人多可靠，答应给你买礼物，时间拖得再久都不会忘记。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-3/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC-%E9%99%88%E8%8D%9F%E6%A5%A0%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%A5%96%E5%9B%BD%E4%BD%A0%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E6%98%AF%E9%94%99%E5%9C%A8/" target="cdt-mirror">墙外楼 | 陈荟楠：“没有祖国你什么都不是”错在哪？</a>
 </h2>
 <p><p>导语：今天上午，我在朋友圈转发了王思想的一篇博文《没有我，祖国什么都不是！》，结果有朋友在后面留言，表示很不同意此文的观点。一个朋友说要我“看看欧洲难民再想想这个狗屁文章”，“没有祖国个人狗屁都不是”。另一个朋友说：“写这个文章的人为什么不去利比亚体验下没有祖国的生活？”说的都是同一个问题。我写了一篇文章作为回应，并在文后附上王思想的文章，请感兴趣的朋友一阅。此文其实还有很多话没有说清楚，也没有分析为什么中东、利比亚的人们流离失所，但我想真看懂此文的人，也许能自己去分析这些问题的。以后有机会也许可以再聊聊。</p>
@@ -650,342 +841,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%9E%97%E8%8D%A3%E5%9F%BA%E7%A7%B0%E8%A2%AB%E8%B7%9F%E8%B8%AA%E5%8F%97%E5%A8%81%E8%83%81%E3%80%80%E7%BC%BA%E5%B8%AD%E4%B8%83%E4%B8%80%E5%A4%A7%E6%B8%B8%E8%A1%8C/" target="cdt-mirror">博谈网｜林荣基称被跟踪受威胁　缺席七一大游行</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard49_9.jpg?resize=549%2C309" alt="Clipboard49_9" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard49_9.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard49_9.jpg?resize=300%2C169 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>林荣基被跟踪感安全受威胁缺席大游行（资料图）</p>
-<p>（博谈网记者苏智敏报道）香港一年一度的七一大游行于星期五下午近三点半开始，曾在内地被拘禁的传媒人程翔及民运人士刘山青，持“决战689”横幅带头走出维园。带领游行队伍的人原本还有前铜锣湾书店店长林荣基，但他却在游行当天早上，以感受到严重威胁为由，决定缺席游行。</p>
-<p>协助林荣基的民主党立法会议员何俊仁下午在维园向媒体透露，今早接到林荣基电话，称过去两天被不明人士跟踪，感到人身安全受威胁，故决定缺席游行，但现在已到安全地方暂避，也已通知警方。何俊仁指出，不能估计是什么人士跟踪林荣基，但知道强力部门人士对其出来游行会有意见。另一名民主党立法会议员涂谨申则表示警方正跟进资料。</p>
-<p>据《苹果日报》消息，港警今早收到林荣基通知，称有第三者向他告知过去两日被人跟踪，但他本人完全不知道被人跟，因此警方需要约谈相关目击者，问清楚情况，以便决定如何跟进处理。</p>
-<p>对于林荣基缺席七一大游行，另一位带头游行的程翔对媒体表示，他对林荣基的遭遇感到同情，认为他因安全问题缺席，是香港人的不幸。他指出，铜锣湾书店事件已显示香港不再安全，连免于恐惧的自由都没有，所以大家要站出来反抗。</p>
-<p>而民阵召集人岑子杰也在脸书上称关心林荣基的处境，要求各方停止对他压逼，并呼吁香港民众上街声援林荣基：“捍卫香港人应有免于恐惧的言论自由，愈多人上街、愈多人声援，便愈能确保林荣基先生的安全。”</p>
-<p>林荣基确认要参加七一大游行后，中共官媒《环球时报》6月29日以标题为“香港干涉内地？七一游行莫偏执”的社评指责“给这一活动染上了对抗内地政治制度和司法体系的色彩”。</p>
-<p>社评指出，“香港反对派”有把自己从自治区域性反对派升高变成全“中国反对派”的倾向，批评“香港反对派”一直要求内地和中央不要干预香港内部事务，现在却公然摆出挑战内地政法现状的姿态，“是一种危险的误导”。</p>
-<p>香港一年一度的七一大游行</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E6%9E%97%E8%8D%A3%E5%9F%BA%E7%A7%B0%E8%A2%AB%E8%B7%9F%E8%B8%AA%E5%8F%97%E5%A8%81%E8%83%81%E3%80%80%E7%BC%BA%E5%B8%AD%E4%B8%83%E4%B8%80%E5%A4%A7%E6%B8%B8%E8%A1%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BC%BA%E5%88%B6%E4%B8%BA%E5%85%9A%E5%BA%86%E7%94%9F/" target="cdt-mirror">【立此存照】强制为党庆生</a>
-</h2>
-<p><p>中共成立95周年纪念日期间，除了有关部门对微博评论严格控制外，部分党员似乎还有为组织“造势”的任务：</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E7%99%BE%E5%B2%81%E7%94%9F%E6%97%A5-copy.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E7%99%BE%E5%B2%81%E7%94%9F%E6%97%A5-copy.jpg?resize=500%2C939" alt="百岁生日 copy" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/百岁生日-copy.jpg?w=602 602w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/百岁生日-copy.jpg?resize=160%2C300 160w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/百岁生日-copy.jpg?resize=545%2C1024 545w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<blockquote><p>这是组织强制的，这是不得不看的，得留证据的</p></blockquote>
-<p>谷歌“<strong>组织收看庆祝中国共产党成立95周年大会实况直播的通知</strong>”搜索结果如下：</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%BB%84%E7%BB%87%E6%94%B6%E7%9C%8B%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B95%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E5%AE%9E%E5%86%B5%E7%9B%B4%E6%92%AD.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E7%BB%84%E7%BB%87%E6%94%B6%E7%9C%8B%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E6%88%90%E7%AB%8B95%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E5%AE%9E%E5%86%B5%E7%9B%B4%E6%92%AD.png?resize=500%2C1262" alt="组织收看庆祝中国共产党成立95周年大会实况直播" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/组织收看庆祝中国共产党成立95周年大会实况直播.png?w=976 976w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/组织收看庆祝中国共产党成立95周年大会实况直播.png?resize=119%2C300 119w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/组织收看庆祝中国共产党成立95周年大会实况直播.png?resize=768%2C1939 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/组织收看庆祝中国共产党成立95周年大会实况直播.png?resize=406%2C1024 406w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>谷歌搜索结果截图</span></p></div>
-<p><strong>另：</strong><a href="http://weibo.com/2803301701/DCGOOhfdq" target="_blank">@人民日报</a> 官方微博帐号七一前发布了庆祝中共建党95周年纪念日的微博。<strong>然而在经过严格筛选，只留下14条微博评论的情况下，获赞最多的内容竟然是“能评论吗？”，第二是“哦”：</strong></p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%BE%AE%E5%8D%9A.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%BE%AE%E5%8D%9A.png?resize=500%2C1081" alt="人民日报微博" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/人民日报微博.png?w=602 602w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/人民日报微博.png?resize=139%2C300 139w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/人民日报微博.png?resize=473%2C1024 473w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>不经审查的评论内容可想而知。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%BC%BA%E5%88%B6%E4%B8%BA%E5%85%9A%E5%BA%86%E7%94%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">新浪微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%84%E7%BB%87%E9%83%A8/?category=18271" rel="tag">组织部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%81%B6%E5%90%8D%E4%B9%9F%E6%98%AF%E5%87%BA%E5%90%8D/" target="cdt-mirror">【立此存照】恶名也是出名 这就是中国</a>
-</h2>
-<p><p>中国“爱国”饶舌团体天府事变近日发布一首英语饶舌歌曲“这就是中国”，共青团中央的青微工作室和四月传媒为其制作 MV。该歌曲在国外似乎并未获得正面反响，目前对其进行报道的《时代》、BBC、《卫报》均将该团体视为中共喉舌。</p>
-<p>天府事变在微博对自己上了“西方主流媒体”这件事表现得很自豪：</p>
-<blockquote><p><a href="http://weibo.com/2597279243/DCG3nxZ3G" target="_blank">@天府事变</a>：美国时代周刊和BBC都已相继发布对天府事变和歌曲”This Is China”的报道。这一次我们让全世界都听到了中国年轻人发出的声音：我们热爱祖国、爱好和平交流；我们历史悠久、善于反思进步；我们高速发展、引领新的时代；我们绝不懦弱、拒绝肆意抹黑！这才是中国！</p></blockquote>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%A9%E5%BA%9C%E4%BA%8B%E5%8F%98.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/%E5%A4%A9%E5%BA%9C%E4%BA%8B%E5%8F%98.jpg?resize=525%2C352" alt="天府事变" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/天府事变.jpg?w=2004 2004w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/天府事变.jpg?resize=300%2C201 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/天府事变.jpg?resize=768%2C514 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/06/天府事变.jpg?resize=1024%2C686 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>天府事变 官方新浪微博帐号截图</span></p></div>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?resize=525%2C393" alt="times" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?w=2314 2314w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?resize=768%2C576 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?resize=1024%2C767 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/06/times.jpg?w=2000 2000w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>《时代》相关报道网页截图</span></p></div>
-<p>该团队成员在《时代》采访中<a href="https://docs.google.com/document/d/1_K8E7a04kD9YdVZ263ZLi7EYIQa2Otu0XU5v2TRUnvo/edit?usp=drivesdk" target="_blank">语出惊人</a>，称中国经历了“五千年的儒学教育”：</p>
-<blockquote><p>“Obviously China is rising, but we have <strong>5,000 years of Confucian education</strong> so we are a peace-loving country,” says Wang.</p></blockquote>
-<p>然而不少网民指出《时代》的报道称他们为“中共的宣传饶舌”，对该歌曲的评价为“史上最令人难堪”，并非什么正面报道。以下是两名团队成员对网民质疑的回应：</p>
-<blockquote><p><a href="http://weibo.com/2902761141" target="_blank">@PISSY_</a>：<img title="[偷笑]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/19/heia_org.gif" alt="[偷笑]" data-recalc-dims="1">外媒的报道尿性大家都懂的，西方民众看了视频究竟会怎么去辨别，就要看他们的文明程度了<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2597279243/DCG3nxZ3G" target="_blank">@CDRevRoy</a>：美分狗微博内容都没看清楚就来叫，也是吃屎心切</p></blockquote>
-<p>天府事变很显然认为只要能将这首歌曲传出国门，能“让全世界都听到了中国年轻人发出的声音”，<strong>以何种形象出现和传播并不重要</strong>。</p>
-<h3><span><strong>以下评论由数字时代编辑收集自新浪微博：</strong></span></h3>
-<p>@大炸毛：Party Propaganda Rap哈哈哈哈哈哈哈哈给我笑死了 谁说外媒不客观啊 这简直太精准客观了</p>
-<p>@TangChiuYan：西方看我们同胞表演，也就类似我们看着朝鲜女团的表演！党的喉舌RAP，不清醒自知，那就活在中国，梦里</p>
-<p>@陳禹ColinChan：没听完，听了一半感觉很尴尬。（处处弥漫着浓浓的中国梦</p>
-<p>@bigman945：团中央现在也是什么人都捧啊，又来个什么天府事变乐队，听名字反而觉得很反动，第一联想就是保路同志会起义……</p>
-<p><span><a href="http://weibo.com/2493858090" target="_blank">@Quinas-弹燕子的小钢琴</a>：某些喷子真是<img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1">别人说中国好跟打死了他爹是的。西方媒体用心险恶污蔑自己同胞，不仅不觉得愤恨，反而对自己同胞的遭遇幸灾乐祸，一副小人得志，语无伦次在跳脚的丑陋模样。你们特么是脑子有坑吗？天府能够唱出这段rap就证明别人英文不会比你差好吗？智障。</span></p>
-<p><span>@俩点一马陈毅的毅：别信老外 老外一根筋 打心眼里看不起咱 不可能因为一首歌就改变了对咱们的看法 我们只有努力 使得国家综合国力上升到可以在文化上大范围去影响世界 国家要有话语权 但是几位小老弟依旧很牛逼 打心底佩服 这才是偶像</span></p>
-<p><span>@酒精imalcohol：说要别人好好学英语的省点心吧，听他们自己写的rap也该知道他英语不比你差。知道意思又如何？来微博上一顿吐槽狂骂？但他们选择了宣扬积极方面，就别整天给自己人喝倒彩了吧</span></p>
-<p><span>@lcqwilliam：回复@中二到世界终结时:他们骨子里改不了的种族歧视，我就不明白了，一群才繁荣几百年的野蛮人，竟然可以这么傲慢，他们现在还是把裸体当时尚，把乱交和大麻当作解放，然后却可以把自己标榜到那个高的道德水平。人种之间不因为繁荣了几百年就能抹杀差距，野蛮人或许永远只能是野蛮人。</span></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%81%B6%E5%90%8D%E4%B9%9F%E6%98%AF%E5%87%BA%E5%90%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E5%BA%9C%E4%BA%8B%E5%8F%98/?category=18271" rel="tag">天府事变</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92%E5%96%89%E8%88%8C/?category=18271" rel="tag">官媒喉舌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%94%9F%E6%84%8F/?category=18271" rel="tag">爱国生意</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BD%9C%E7%83%AD%E7%83%88%E5%BA%86%E8%B4%BA%E5%A4%AA%E5%AD%90%E5%85%9A%E5%85%B3%E7%B3%BB%E7%BD%91%E7%BB%9C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/" target="cdt-mirror">编程随想｜热烈庆贺“太子党关系网络”开源项目率先获得朝廷认证</a>
-</h2>
-<p><div><a href="https://i2.wp.com/1.bp.blogspot.com/-yZdYdO6STLs/V3XI_9fPnYI/AAAAAAAADBc/uF0vGOndUw8u7u_0qhgn_Y7sAaa4mXnJwCLcB/s1600/%25E6%258D%2595%25E8%258E%25B7.PNG?ssl=1"><img src="https://i1.wp.com/1.bp.blogspot.com/-yZdYdO6STLs/V3XI_9fPnYI/AAAAAAAADBc/uF0vGOndUw8u7u_0qhgn_Y7sAaa4mXnJwCLcB/s640/%25E6%258D%2595%25E8%258E%25B7.PNG?resize=640%2C542&ssl=1" border="0" data-recalc-dims="1"></a></div>
-<p>编程随想关于“太子党关系网络”开源项目率先获得朝廷认证的获奖感言与事件说明。</p>
-<p><a name="more"></a>来源：<a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html">https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html</a></p>
-<div>
-<div>
-<div>
-<div><b>文章目录</b></div>
-<p><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-1">★背景介绍</a><br><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-2">★获奖感言</a><br><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-3">★为啥此事儿值得庆贺？</a><br><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-4">★各方报道</a><br><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-5">★顺便聊聊 GitHub 的人品和骨气</a><br><a href="https://program-think.blogspot.com/2016/06/github-take-down-zhao-repository.html#head-6">★给同道中人的建议</a></p>
-</div>
-</div>
-</div>
-<div>
-<p><a href="https://www.blogger.com/null" name="head-1"></a></p>
-<h2>★背景介绍</h2>
-<p>（考虑到某些同学还不知道发生了啥事儿，先作一下背景介绍）<br>
-今年（2016）开两会前夕，俺把自己整理的《<a href="https://github.com/programthink/zhao" target="_blank">太子党关系网络</a>》开源到 GitHub 上，算是对两会的献礼。<br>
-这个项目的内容很丰富——包含了700多个权贵，130多个权贵家族——是俺多年整理的成果，不容易啊。<br>
-开源之后，这个项目获得了非常多网友的关注（截止本文发布时，将近2000个 Star，将近600个 Fork）。显然，这个项目让朝廷方面很不爽。由于 GitHub 的影响力太大（全球最大的开源项目集散地），朝廷方面不敢贸然封锁 GitHub 全站。而 GitHub 全站都开启了【加密的】HTTPS 协议，导致 GFW 无法进行选择性屏蔽。<br>
-不过朝廷那帮人里面，也不全是吃闲饭的。朝廷方面利用某个新成立的【半官方】组织（中国网络空间安全协会）向 GitHub 的网管发去一份“删除令”（其内容参见<a href="https://github.com/github/gov-takedowns/blob/master/China/2016/2016-06-08-programthink-zhao.md" target="_blank" rel="nofollow">这个链接</a>）。目前 GitHub 网管的做法是——把俺这个项目进行【选择性屏蔽】。也就是说：当你从墙内访问俺这个项目，会看到一段洋文，说该项目暂时不可用；但如果你通过翻墙的方式，从墙外访问这个项目，依然可以正常访问，正常下载。<br><b>针对俺项目的政府删除令，是 GitHub 历史上的第6个，也是来自中国政府的【第一个】</b>。<br>
-（前面5个删除令都是来自俄罗斯政府，详情参见 GitHub 官方的<a href="https://github.com/github/gov-takedowns" target="_blank" rel="nofollow">这个链接</a>）。<a href="https://www.blogger.com/null" name="more"></a></p>
-<p><a href="https://www.blogger.com/null" name="head-2"></a></p>
-<h2>★获奖感言</h2>
-<p>（请允许俺先调侃一把，发表一篇简短的致辞）</p>
-<blockquote><p>感谢国家，感谢国务院，感谢网信办（国家互联网信息办公室），感谢网安协会（中国网络空间安全协会）……<br>
-俺放在 GitHub 上的那个“太子党关系网络”，能够第一个获得朝廷方面的垂青，实乃祖上积德、三生有幸、荣耀之至……<br>
-既然朝廷方面这么给面子，俺万万不可等闲视之。俺要加倍努力，曝光更多的权贵家族，让更多的网民了解权贵们是多么的卑鄙、多么的无耻、多么的下流……<br>
-除了继续曝光权贵家族，俺还要继续抹黑党国——不光抹黑党和国家领导人，还要抹黑共产主义理论、抹黑社会主义制度、抹黑党的历史……<br>
-俺希望有更多读者了解天朝是如何奇葩的一个国度。越多的民众意识到这点，则党国的民意基础就越差；党国的民意基础越差，则党国的统治基础也就越差（别忘了：<b>失民心者失天下</b>）<br>
-俺一向对抹黑的工作乐此不疲，这也算是为天朝的政治变革，尽一个“屌丝/宅男/程序猿”的微薄之力 :)</p>
-<p>差点忘了，俺还要感谢天朝一个很重要的部门——六扇门。<br>
-俺很清楚：自己老早以前就被六扇门盯上了（2011年发博文鼓吹“茉莉花革命”的时候）。<br>
-这么多年过去了，六扇门连俺是男是女、姓甚名谁、家住何方都一无所知。这是六扇门的耻辱啊，同志们！<br>
-网监部门的警察同志们要加倍努力啊，否则你们怎么对得起“远超军费的维稳费用”啊？？！！</p></blockquote>
-<p><a href="https://www.blogger.com/null" name="head-3"></a></p>
-<h2>★为啥此事儿值得庆贺？</h2>
-<p> </p>
-<h3>◇原因1</h3>
-<p>首先，说明这个项目戳到了朝廷方面的 G 点 :)<br>
-这个项目已经获得了比较大的影响力（参见该项目的 Star、Fork、Watch 三个指标）。而且俺这个项目刚开张的那今天，由于关注的用户很多，甚至进入了 GitHub 的项目热榜前几名。<br>
-以上这些，肯定让朝廷方面坐立不安 :)<br>
-最近几年，俺经常在网上看到这样一句话“键盘党没啥鸟用”。前几个月俺开源这个《太子党关系网络》的时候，也有网民说“曝光权贵家族没啥鸟用”。<br>
-今天俺要反问一下：如果真的没啥鸟用，朝廷方面为啥要费这个力气想办法去屏蔽这个项目捏？<br><b>朝廷这么干，恰恰说明这个项目很有用 :)</b></p>
-<h3>◇原因2</h3>
-<p>这次事件还说明了，俺用来隐匿身份的措施是靠谱的。<br>
-六扇门肯定很想抓捕俺，但是一直没有得逞，所以不得不用“删除令”这种退而求其次的招数——因为删除令这种做法会留下话柄。<br>
-如果六扇门能定位俺的身份，至少可以像当年对付 ShadowSocks 的作者那样——叫去喝茶，然后逼迫项目作者自己删除项目。</p>
-<h3>◇原因3</h3>
-<p>最后一个值得庆贺的理由是：<a href="https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%BF%A0%E7%8F%8A%E6%95%88%E5%BA%94" target="_blank" rel="nofollow">史翠珊效应</a>。这个效应说的是：<b>企图限制公众了解某些信息/内容，反而导致这些信息/内容被更多人知道</b>。<br>
-由于俺这个项目是 GitHub 收到的第一个来自中国的“删除令”，朝廷的这个做法已经引发了广泛的报道（包括国内和国外）。<br>
-俺这个项目以及俺本人的网名，也顺便被更多人知道了。俺的影响力有了一定提升，这很值得庆贺——影响力越大，抹黑党国的效果就越好 :)</p>
-<p><a href="https://www.blogger.com/null" name="head-4"></a></p>
-<h2>★各方报道</h2>
-<p>下面这篇是写得最详细的报道，文中对发出删除令的“中国网络空间安全协会”有详细介绍，包括该组织有哪些政府背景（感谢“端傳媒”）<br><a href="https://theinitium.com/article/20160628-mainland-githubcensor/" target="_blank" rel="nofollow">開源「趙家人」名單，GitHub激怒中國網安協會首出拳 @ 端傳媒</a></p>
-<p>上述这篇获得了如下几个网站的转载：<br><a href="https://github.com/greatfire/wiki/issues/120" target="_blank" rel="nofollow">开源“赵家人”名单，GitHub激怒中国网安协会首出拳 @ GreatFire</a><br><a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E5%BC%80%E6%BA%90%E8%B5%B5%E5%AE%B6%E4%BA%BA%E5%90%8D%E5%8D%95-github%E6%BF%80%E6%80%92%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%AE%89%E5%8D%8F%E4%BC%9A%E9%A6%96%E5%87%BA%E6%8B%B3/" target="_blank" rel="nofollow">端传媒 | 开源赵家人名单 GitHub激怒中国网安协会首出拳 @ 中国数字时代</a><br><a href="http://www.chinagfw.org/2016/06/github.html" target="_blank" rel="nofollow">开源“赵家人”名单，GitHub激怒中国网安协会首出拳 @ GFW Blog</a><br><a href="https://www.letscorp.net/archives/106763" target="_blank" rel="nofollow">端传媒：开源赵家人名单 GitHub激怒中国网安协会首出拳 @ 墙外楼</a><br><a href="http://qiwenlu.blogspot.com/2016/06/github.html" target="_blank" rel="nofollow">赵家人要把 GitHub 管起来 @ 奇闻录</a><br><a href="http://disp.cc/m/163-9tZt" target="_blank" rel="nofollow">開源「趙家人」名單，GitHub激怒中國網安 @ Disp BBS</a></p>
-<p>另有其他一些网友针对此事的评论文章</p>
-<p><a href="https://www.techdirt.com/articles/20160623/07384934793/rather-than-launch-massive-ddos-attack-this-time-china-just-asks-github-to-take-down-page-it-doesnt-like.shtml" target="_blank" rel="nofollow">Rather Than Launch A Massive DDoS Attack, This Time China Just Asks GitHub To Take Down Page It Doesn’t Like @ Techdirt</a></p>
-<p><a href="https://twitter.com/HNTweets/status/747879750723506177" target="_blank" rel="nofollow">GitHub’s Government Takedown Request from China @ Hacker News</a></p>
-<p><a href="http://qz.com/718465/chinas-fierce-censors-try-a-new-tactic-with-github-asking-nicely/" target="_blank" rel="nofollow">China’s fierce censors try a new tactic with GitHub—asking nicely @ Quartz</a></p>
-<p><a href="https://www.blogger.com/null" target="_blank" rel="nofollow">中国向GitHub发出删除通知 @ Solidot</a><br>
-（本文已经被 Solidot 的管理员删除了，俺贴出此文的<a href="https://webcache.googleusercontent.com/search?strip=0&q=cache:http://www.solidot.org/story?sid=48685">Google 快照</a>）</p>
-<p><a href="https://imtx.me/archives/1984.html" target="_blank" rel="nofollow">2016 年了，从 GitHub 的黑名单谈「网络审查」 @ I’m TualatriX </a></p>
-<p><a href="http://www.percya.com/2016/06/cyberspace-administration-of-china-send.html" target="_blank" rel="nofollow">Cyberspace Administration of China sent take down request to Github @ percya</a><br><a href="http://www.percya.com/2016/06/chinas-censorship-order-to-github.html" target="_blank" rel="nofollow">China’s censorship order to Github caused Streisand effect @ percya</a><br>
-（上面这位 percya 应该是俺博客的读者）</p>
-<p><a href="https://zhuanlan.zhihu.com/p/21432458" target="_blank" rel="nofollow">HTTP状态码451——基于法律上的原因，我不能向你展示网页内容 @ 知乎专栏</a><br>
-（本文已经被知乎的管理员删除了，俺贴出此文的<a href="https://webcache.googleusercontent.com/search?strip=0&q=cache:https://zhuanlan.zhihu.com/p/21432458" target="_blank" rel="nofollow">Google 快照</a>）</p>
-<p><a href="https://gold.xitu.io/entry/576d00bb128fe1005a1d713e" target="_blank" rel="nofollow">Github 上线了 gov-takedowns 项目，接受各国政府删帖申请</a></p>
-<p><a href="https://www.blogger.com/null" name="head-5"></a></p>
-<h2>★顺便聊聊 GitHub 的人品和骨气</h2>
-<p>之前俺对 GitHub 管理层骨气，还是比较看好的。<br>
-但是经过这个事情之后，俺对 GitHub 管理层的人品和骨气，要打一个大大的问号了。<br>
-其它的不提，单说朝廷发出的“删除令”。这个删除令【并不是】针对俺那个项目的内容，而是针对该项目的某一条 issue（并且这条 issue 并不是俺本人发的）。然而 GitHub 的管理员却对俺整个项目进行选择性屏蔽，导致墙内网民（在不翻墙的情况下）无法正常打开该项目。<br>
-照理说，GitHub 方面应该只屏蔽那条 issue，而不是整个项目。为啥 GitHub 的网管要这么干？令人浮想联翩啊。</p>
-<p><a href="https://www.blogger.com/null" name="head-6"></a></p>
-<h2>★给同道中人的建议</h2>
-<p>下面，俺要第 N 次强调“多重代理”的重要性。（博客的老读者们，请原谅俺的唠叨）<br>
-天朝的很多反党人士/政治异议人士/维权人士，过于相信国外大公司的人品。如果你在网上进行高危的政治活动，这种信任可能会让你完蛋。<br>
-俺的建议是：不要相信任何商业公司，不管这家公司的规模有多大，名声有多好。<br>
-比如俺大量使用 Google 的服务（俺的博客就搭建在 Google 的博客平台），并且 Google 的口碑是 IT 大公司里面最好的。但是，俺依然【不会】完全信任 Google。典型的例子就是：当年 Gmail 尚未被封杀的时候，俺访问 Gmail 也是通过【基于 TOR 的多重代理】。<br>
-为啥要这么干捏？主要的好处在于：即使 Google 的网管与中共合作（当然，这个概率非常非常小），俺的风险也不大。当俺使用【带 TOR 的多重代理】访问 Google 的服务器，服务器记录下来的【访问者IP】并不是俺本人的公网 IP，而是 TOR 的出口节点的 IP。TOR 网络本身是非常难回溯的（TOR 的主要设计目标就是为了隐匿性）。退一万步讲，即便 TOR 网络出现安全漏洞，导致追踪者可以进行回溯，顶多也只能回溯到俺使用的 TOR 前置代理的服务器，而不会回溯到俺本人的公网 IP。<br>
-有兴趣的同学可以参见如下教程：<br>
-《<a href="https://program-think.blogspot.com/2016/03/GitHub-Security-Tips.html">使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验</a>》<br>
-《<a href="https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html">如何隐藏你的踪迹，避免跨省追捕</a>》（系列）<br>
-《<a href="https://program-think.blogspot.com/2013/11/tor-faq.html">关于 TOR 的常见问题解答</a>》</p>
-<p><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br><a href="https://program-think.blogspot.com/2016/02/Zhao-at-GitHub.html">《太子党关系网络》开源到 GitHub——大伙儿一起来曝光赵国权贵</a><br><a href="https://program-think.blogspot.com/2016/01/Zhao-Family.html">聊聊“赵家人”走红网络的重要意义</a><br><a href="https://program-think.blogspot.com/2015/05/Wanda-and-Princelings.html">王健林及万达集团背后的朝廷权贵家族（习、胡、温、贾、王）</a><br><a href="https://program-think.blogspot.com/2014/01/china-princelings-offshore-companies.html">习包子露馅——习近平在内的权贵家族如何转移巨额海外资产</a><br><a href="https://program-think.blogspot.com/2016/03/GitHub-Security-Tips.html">使用 GitHub 的几种方式——兼谈安全性和隐匿性的经验</a><br><a href="https://program-think.blogspot.com/2015/06/My-GitHub.html">俺的 GitHub 开张——原 Google Code 的 wiki 页面已迁移至此</a></p>
-</div>
-<div>翻墙技术博客<a href="http://www.chinagfw.org/2013/09/blog-post.html">订阅地址及社交帐号</a></div>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3%EF%BD%9C%E7%83%AD%E7%83%88%E5%BA%86%E8%B4%BA%E5%A4%AA%E5%AD%90%E5%85%9A%E5%85%B3%E7%B3%BB%E7%BD%91%E7%BB%9C%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gfw/?category=18271" rel="tag">GFW</a>, <a href="https://chinadigitaltimes.net/chinese/tag/github/?category=18271" rel="tag">github</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AA%E5%AD%90%E5%85%9A/?category=18271" rel="tag">太子党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BC%96%E7%A8%8B%E9%9A%8F%E6%83%B3/?category=18271" rel="tag">编程随想</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%9F%A5%E4%B9%8E-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B8%B8%E6%88%8F%E9%9C%80%E8%A6%81%E5%AE%A1%E6%89%B9%E6%89%8D%E5%8F%AF%E4%B8%8A%E6%9E%B6/" target="cdt-mirror">知乎 | 如何看待苹果中国区游戏需要审批才可上架？</a>
-</h2>
-<p><p>之前5月份广电局一封邮件通知让整个业界惊魂未定，种种谣言和辟谣纷纷四起，今天，6月30日，苹果终于没有能抗衡住广电总局的压力，在开发者后台贴出这样的醒目通知：</p>
-<p><strong>致中国地区游戏开发人员：</strong></p>
-<p><strong>根据2016年5月24日国家新闻出版广电总局颁布的公告，移动游戏需要通过国家新闻出版广电总局的审批才可发布。有关规定条文的详情，请参阅<a href="https://link.zhihu.com/?target=http%3A//www.sapprft.gov.cn/sapprft/contents/6588/298011.shtml">国家新闻出版广电总局</a> 。请在“App 审核信息”部分的“备注”字段输入游戏类 App 的批准号码和批准日期。</strong></p>
-<p>至此，中国独立开发者的道路越来越难走了，首先给大家普及下这个审批的难度，对个人来说，连审核的资格都没有（说好的万众创业呢？），而对公司来说，中小公司也面临极大的申请问题，一句话，你要去申报一个游戏上架AppStore，你需要：文网文+ICP证+软著+版号</p>
-<p>首先是文网文，据悉一个朋友公司花钱3~4万搞了好几个月才办下来，然后现在又开始啃ICP证，这个也是个硬骨头（千万注册资金？），软件著作权还好点，据说花600在淘宝，2个月可以办下来，版号，以移动公司代办的标价是1w5，也就是说，你先得花上半年时间办这些东西，然后以后每个游戏都要走一遍这个申请流程才行，申请完这些不是高枕无忧了，还要时间，根据规定有20天时间（书面表达），当然随时一个问题就可以驳回你再去等待，这样看来，之前苹果wwdc刚刚提速的审核优化又报废了。</p>
-<p><strong>最关键的，如果按照《国家新闻出版广电总局5月24日规定》，那10月1日所有未经过审核的游戏全部要从AppStore下架，时至今日，我对苹果能否抗住这个压力实在没有太大信心。</strong></p>
-<p>讲真，我自己作为一个独立开发者，已经工作了几年，主要是国内市场，我们不是换皮偷IP或者充数量的那种，是因为自己喜欢而制作精品小游戏的，也取得了一定收入和成绩，自己能养活自己！我想这个就是国家提倡的自主创业吧，我能解决自己的生计问题，为国家创汇（美元收入），然后不去强别人的饭碗，为国家多提供一个工作岗位，这样双赢岂不是很好，但是今天开始，似乎一切都被扭转了，这条道路越来越难，几乎走不动了，难道就这样结束，我也要去重新上班，去做氪金的游戏了吗？</p>
-<p>希望国家能多为我们独立开发者想想，给一条活路，我们就是你们鼓吹的年轻创业者，不要赶尽杀绝。</p>
-<p><strong>相关知乎网友回答：</strong></p>
-<p><strong>冷月无声：</strong>手游研发人员，从审核要求的角度，纯吐槽一下匪夷所思的官僚主义。正常都要提供的文档材料我就不说了，说几点荒谬的：</p>
-<p><strong>1.必须刻录5张光盘，必须是dvd。</strong>安卓版安装包一张，iOS版安装包一张。还有3张是公司相关的资质证明扫描件的jpg格式。对你没看错，现在这个时代了，不能直接传文件，甚至不能把五个文件放在同一张光盘里。</p>
-<p><strong>2.必须寄过去两个装好游戏的手机，安卓一部，iphone一部。假设这个游戏没有安卓版，就提供iphone两部。</strong>你们就是不能自己准备测试机然后费一点宝贵时间自己安装是吧？那好，全公司的游戏都装进去，一个公司寄两部手机可以吗？答曰不可，一个公司假如有n个游戏，就要寄2n个手机。</p>
-<p><strong>3.手机里必须有电话卡，电话卡必须有流量。</strong>所以说广电总局没有wifi咯？这意味着不能寄itouch了，假设有穷苦的小公司一直用itouch做测试机，则必须为了审核买iphone。</p>
-<p>7-1补充说明：1.很多人关心手机是不是不还了，这个怪我没说清楚，还是承诺会还的。市面上手游总数起码起码五位数是有的，他们要吞下几万台手机不太可能。但是并没有承诺多久还，法务说估计要几个月吧。我们测试机算多的了，但是2n台要消失几个月还是觉得非常不便。比如iphone，那都是按照代数和系统号来准备的，安卓手机是根据品牌参数配置准备的，都尽量覆盖全面，现在有缺口了是不是要补，补的话都是成本，不补的话，漏了机型专有的bug怎么办？（比如有的问题就只出在ios9，有的问题就只出在某种分辨率，有的问题a牌手机没有b牌有，bug就是这么任性）2.有人问出处，我这边就是接收了公司法务部的统一通知邮件，原法律文件我没有看过，与有关部门的沟通我也没有参与过，抱歉无法给出明确答案。我们作为项目组，只能反复和法务确认是否必需而已，法务也很无奈…不过我真的没有胡编乱造（虽然看起来很像胡说八道），评论中也有同行回复，确认说也收到这样的要求了。</p>
-<p>________________________</p>
-<p><strong>一张钞票：</strong>对于大公司没有什么影响。小公司或者成建制的独立团队就是件很麻烦的事。个人开发者就是死刑啊。就像其他答案里提到的，网游备案早就有了，这个等于是把政策推广到手游上。行业老人可能并不是特别奇怪。</p>
-<p>但是手游也有其特殊性，主要是成本低，项目多，开发快，更依赖于创意。网游公司都比较大，备案成本可能是开发成本的千分之一，开发周期两年往上。但是独立团队和小公司产品多，每个产品都要备案，时间拖延上是指数增加的，影响远远大于只做一个项目的公司。而且本来手游项目就要开发快，很多团队平均下来一两个月就能做一款，你备案再搞一个月，简直是个笑话。</p>
-<p>细算下来，对于一个手游公司，成本大概如下：<br>
-一次性成本：<br>
-文网文，大概要花1万，时间2-6个月。<br>
-ICP，1-2万，3个月-1年<br>
-每项目成本：<br>
-软件著作权，大概1千，时间一个月<br>
-广电审批，多少钱不知道，估计3千以内，时间1-3个月</p>
-<p>而且这些东西都是需要按顺序办的，不齐的就从头开始吧。如果中间什么表没填对，什么东西搞错了，那就更久了，所以滋生了一个中介市场。听说很多都是衙门人出来搞得噢。</p>
-<p>如果你啥证都没有，最快第一个项目完成审核也要7个月，基本只能等着10月1号下架了。</p>
-<p>这事充分体现了广电总局对于手游行业的无知，傲慢，管理粗暴。总之就是很傻逼。</p>
-<p>更多国内团队会针对海外市场做，创意性的本土题材没有活路，因为做内需风险太大了。你做一个项目要做完之后好几个月才能验证咋回事，小团队耗不起啊。最可惜的是这两年国内独立游戏大有起色，整个手游市场的价值观也开始靠谱起来。很多团队或者个人都在做一些非常本土化的，跟中国有关的游戏。这规定一出来，独立游戏的土壤灭绝了一半，中国人最关心的日常，最了解的文化不能够在游戏中获得最有创造力的表达。</p>
-<p>不能做本土文化，也不能把本土文化输出到国际市场，因为没有内需保底，那小团队只能针对国际化的风格来玩了。并不是所有人都擅长这个，而且英语这事对于不少团队，还真是个壁垒。</p>
-<p>整体来说，弱化中国团队的竞争力，同时隔绝大量海外的优秀产品。隔绝产品的一个副作用就是导致玩家品味降低，玩家品味降低导致做国内市场的游戏公司品味更低，然后恶性循环到屠龙宝刀的水平。</p>
-<p>本来一个欣欣向荣的市场，非得来一刀。官老爷做决定，屁民那是没机会插嘴的。这种时候你不想呼唤点政治权利么？</p>
-<p>_______________________</p>
-<p><strong>特里杰克：</strong>说好的大众创业，万众创新呢？做独立游戏的初衷不就是想干干净净的做游戏，不去过多的考虑什么商业，什么付费心理学，什么挖坑，什么什么…..因为喜欢游戏，所以可以放弃很多，去专心追求自己的梦想，专心做自己想做的。可是现在……</p>
-<p>“你必须向我证明你是无罪的，不然枪毙”<br>
-“你想屁颠屁颠过来跟我说你没罪？不好意思你没资格说话”</p>
-<p>独立游戏者即使想审核，也没资格。<br>
-以后中国区游戏只会剩下各种克金网游，没办法，游戏成本大大增加了，包括时间成本和机会成本，只能选择最有赚钱希望的游戏做。<br>
-而不计成本做心中热爱的独立游戏作者，消失了……</p>
-<p>______________________</p>
-<p><strong>成浩：</strong>首次被邀请回答，竟然是这样的噩耗。本想靠能耐混饭，饭没混到手心却被伤了。吃相不能优雅一点吗？21世纪了还靠收保护费是可悲还是可笑，赚的钱都是要交税的，何必杀鸡取卵。玩游戏的不会对和谐社会造成威胁的，到底是权利变现，还是建设和谐社会。我们拭目以待！</p>
-<p>我会艰难的活下去，如果单纯的是交保护费，我会为我的理想去苟且，如果是逼迫我去成为一个麻木的上班族，我也会为了嗷嗷待哺的孩子，甘愿平凡的一生，但我想说的是:</p>
-<p>我86年出生，今年31岁<br>
-中国现在是你们的，但将来终究会是我们的<br>
-我默默的活着与看着</p>
-<p>———-华丽的更新分割线———-<br>
-首先感谢大家的关注与点赞，也说明有很大一部分团体是跟我有着同样感受的<br>
-那么就事论事，避免成为一个无脑抱怨或无端黑的宣泄回答<br>
-我们来分析一下，广电到底为了什么才出台如此让人不齿的管理办法<br>
-我来大胆的猜测广电的真实目的，无非有三：</p>
-<p>1.利用自己手中的权利，把以前官方定义为灰色收入的蛋糕，抢夺到自己的手里<br>
-2.防止不和谐内容或环境影响，出现在手游平台<br>
-3.高调告诉全中国：普天之家，莫非王土</p>
-<p>那么号称的目的呢，有以下：</p>
-<p>从小接受的文化教育熏陶了我，“我向来不惮以最坏的恶意揣测中国人”，那么如果我为了达到广电总局的目的，我可能采取如下措施：</p>
-<p>1.降低门槛，把鱼都放进来<br>
-资质要求：有合法注册的公司，先都到我的官网httb//http://guangdian.com都实名注册了再说（注册用户高达XX万）</p>
-<p>2.鱼都进池子了，先收割一波<br>
-每一个手游产品，需要一个版号，获取方式很简单，httb//http://maibanhao.guangdian.com，广电官方链接,微信支付、支付宝支付、信用卡支付、各种支付（便捷的支付手段），一个版号1W人民币（适中的价位），支付后版号5分钟内发出（优秀的购物体验），电子发票1天内开出（…）</p>
-<p>3.收割完毕，要增强用户粘性<br>
-购买缴纳的钱，可以50%全额抵税（甜蜜的烦恼），接着跟税务部门联动（强强联合），手游行业一毛收入也别想漏税（收割长尾）</p>
-<p>4.做大做强，管你没商量<br>
-原审核部门100个人，每天每夜为了保证20个工作日审核通过，辛劳工作，下面的同志很有怨言<br>
-政策一变，审核部门精简为10人，把1个人的投诉部扩充到200人，全面接收处理社会群众（朝阳群众）的举报，发现一个没版号上线的，罚10万，没收非法所得，予以举报人500元奖励（外加锦旗）<br>
-经过以上几个粗略的步骤，广电部门收入同比增加30%，带动游戏业税收收入同比增加20%，知乎网友惊呼，政策跟上了时代的脚步，群众为广电出手整顿手游乱象，拍手叫好！<br>
-广电政策经验，整理抄送各大部局级领导，广电领导入主发盖喂，协助完成新时代改革，XX赢得国内外好评，大大称之为：能！</p>
-<p>我作为开发者，看到这条消息，深深的出了一口气。总算找到交保护费的正规渠道了，双眼已经模糊，真的觉得有希望了~<br>
-发现大家总纠结于，将来是谁的问题，我换种说法吧：中国现在是你们的，明天是儿子的，将来是孙子的，未来是x孙子的，但终究是我们的。</p>
-<p>___________________________</p>
-<p><strong>关你事：</strong>老乡们误会了，我们支持的万众创业，万众创新是特指能给我们带来税收，雇佣多些人交多点社保顺便每年让我们审核审核来点事的创业。你一个人在家里做游戏又不缴税又不送礼让我们很难办啊。连摆地摊的都比你们有规矩，不弄点规矩治你们怎么行。</p>
-<p>____________________________</p>
-<p><strong>匿名用户：</strong>中国区对全球来说要求是最高的，审核时间是最长的，受行政管制也是最多的，甚至要加上中国特色文化，例如手撕鬼子这类电影题材的精髓。</p>
-<p>而不允许纸牌屋、越狱、僵尸等违反马克思主义价值观及唯物主义等的APP出现。<br>
-对于中国发行需要有《互联网出版许可证》，这个证需要首先是公司，其次规模10人，还得有某不知道啥的部门审批通过。<br>
-然后对于每个APP的单次审核时间是20个工作日也就是1个月，然后再提交各大渠道商。</p>
-<p>为此会催生出大量的中小代理商，同时他们也会赚一部分钱，对于优质的独立开发者绝对是噩耗，口头的肉又要与人瓜分。甚至会出现能走后门加速审核，<br>
-只要花钱多就行的情况。</p>
-<p>上面注明审核要到某部门，是具体哪里呢，还有寄过去么等等？原来你在全世界审核最严的APP STORE要等一个月，也许你在这里半年都未必过，因为每次20个工作日。</p>
-<p>当然国外的APP就不用上了，等于我们与世界隔离了。</p>
-<p>现在还有一个问题是这是针对中国市场，还是针对中国开发者及中国市场？</p>
-<p>换句话说中国人能发布游戏到美国区需要广电总局审核吗？还是说仅仅针对发布到中国区而已，发布到全世界100多个国家都要经过广电总局吗？</p>
-<p>慢慢国内的水平会与国内拉开很大距离。<br>
-最怕的是没有标准的标准，如果有标准，放权给各大平台审核不就完事了吗？<br>
-这肯定又催生出各种后门<br>
-还不知道做出来找谁审核<br>
-是寄过去？<br>
-EMS？<br>
-把游戏装进手机，然后各种文档，然后弄个包裹寄过去审核?<br>
-1次20个工作日？要是我名字不合规，打回来又20个工作日？<br>
-名字等啥合规了，苹果说不合规，打回来<br>
-然后名字变了，给政府审核又不合规又打回来？<br>
-然后苹果又不同意，死循环?<br>
-他们这些政府机构做了像苹果或各大渠道那样的审核平台了吗？没有全国统一？各个省各个搞?<br>
-寄过去还是网上审核啊？<br>
-我是不是要弄个顺丰快递啊</p>
-<p>自清朝起就闭关锁国了，几百年历史了，其实想想也正常，一脉相传啊</p>
-<p>10月1号  到时中国市场瞬间100万APP不见</p>
-<p>______________________________</p>
-<p><strong>侯帅英：</strong></p>
-<div>
-<div>第一，个人开发者不要把目光聚集在国内了，特别是国内的手游市场。就算没这个审批，现在的独立游戏在国内的手机平台上要想出人头地也是非常困难的事情，行业里面几大巨头割据的形势只会越演越烈。
-<p>第二，如果做主机和PC，能上Steam就上Steam，能抱索尼和微软的大腿就尽量抱（审批的事情他们会帮忙搞定的）。</p>
-<p>第三，能走就走吧，在国外想办法呆几年，弄明白老外是怎么做游戏的，以及他们的喜好。将来把游戏卖给他们，国内玩家不用太在意，游戏做得好自有人会玩。</p>
-<p>第四，<b>电影行业的今天就是游戏行业的明天。一个文化上固步自封，企图靠审查来维持稳定的国度，不可能诞生出伟大的思想和艺术作品。</b>如果有，那也是在国外市场才有可能。好在做游戏不像拍电影，至少没人能像剥夺导演拍片权一样剥夺你做游戏的权利。</p></div>
-<div>______________________________</div>
-</div>
-<div></div>
-<div><strong>Mao Simon：</strong>不要以为不关心，不介入政治，专心孜孜耕种自己的一亩三分地就可以与世无争地过上太平日子了；事实上，政治正分分钟钟地关心着，打扰着或帮助着，每一个人的生活细节，从吃喝拉撒睡到开发游戏，直到上床做爱。所以选票才是老百姓第一真正需要。</div>
-<div></div>
-<div>_______________________________</div>
-<div></div>
-<div><strong>韩大狗：</strong>“勃列日涅夫时代的主流是保持稳定、安于现状、脱离现实、人浮于事、自安自慰、盲目乐观。官方的陈词滥调和虚伪的意识形态说教连他们自己都不再相信，但大家都沉默着。西方的现代思想、时尚文化和生活方式早已突破了国家壁垒，深入社会的每一个角落。牛仔裤、坡跟鞋、迪斯科、摇滚乐、爵士乐，年轻人成为最苦闷的一个群体。残酷的现实告诉他们，这是一个拼爹时代，官僚集团的子女拥有无可比拟的机会，而普通民众的子女却没有希望。“劳动人民”并没有“当家作主”，“人民公仆”贪污受贿腐败堕落……整个苏联社会弥漫着冷漠和绝望。从醉生梦死的权贵到寻死觅活的贫民，末日心态出现在每个人的心头——’每一个人都在等待勃列日涅夫的死去’。”</div>
-<p>______________________________</p>
-<p><strong>匿名用户：</strong>一图流</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0adaad73f2f03c094aede81f01c084c4_b.jpg?resize=500%2C2833" alt="0adaad73f2f03c094aede81f01c084c4_b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0adaad73f2f03c094aede81f01c084c4_b.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/06/0adaad73f2f03c094aede81f01c084c4_b.jpg?resize=53%2C300 53w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E7%9F%A5%E4%B9%8E-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B8%B8%E6%88%8F%E9%9C%80%E8%A6%81%E5%AE%A1%E6%89%B9%E6%89%8D%E5%8F%AF%E4%B8%8A%E6%9E%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">中国市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%89%B9/?category=18271" rel="tag">审批</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E6%9D%83%E5%88%A9/?category=18271" rel="tag">政治权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E6%88%8F%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">游戏市场</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%EF%BD%9C%E4%B8%8A%E5%B8%82%E5%9B%BD%E4%BC%81%E5%A2%9E%E8%AE%BE%E5%85%9A%E5%BB%BA%E6%9D%A1%E6%AC%BE%EF%BC%9A%E5%85%9A%E5%A7%94%E5%B0%86%E5%8F%82%E4%B8%8E%E4%BC%81%E4%B8%9A%E9%87%8D/" target="cdt-mirror">澎湃｜上市国企增设党建条款：党委将参与企业重大问题决策</a>
-</h2>
-<p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A05.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A05.jpg?resize=400%2C533" alt="习近平像章5" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章5.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/习近平像章5.jpg?resize=225%2C300 225w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>2016年全国人大代表大会期间，西藏代表团现身时统一佩戴习近平像章；图片来自微信公号“<a href="http://chinadigitaltimes.net/chinese/2016/03/%E8%A5%BF%E8%97%8F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%88%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%83%8F%E7%AB%A0/" target="_blank">枫行天下</a>”</span></p></div>
-<p><em>原标题：上市国企章程纷纷增设党建条款：党委将参与企业重大问题决策</em></p>
-<p>加强党建正在上市国资企业中，得到深入落实。</p>
-<p>在刚刚结束的一汽轿车（000800）和一汽夏利（000927）股东大会上，两家公司修改公司章程的议案均获得了通过。</p>
-<p>澎湃新闻记者发现，央企一汽集团下属的两家公司修改后的公司章程中，<strong>均增加了加强党建的相关条款，并新增了党建工作一章，内含三小节：党组织机构设置、公司党委职权和公司纪委职权。<br></strong></p>
-<p>其中，党组织机构设置提及，要设立公司党委和公司纪委，同时设立工会、团委等群众性组织，<strong>党组织机构设置及其人员编制纳入公司管理机构和编制，党组织工作经费纳入公司预算，从公司管理费中列支。</strong></p>
-<p>公司党委职权则包括：<strong>保证监督党和国家的方针、政策在本企业的贯彻执行；参与企业重大问题的决策，研究决定公司重大人事任免等。</strong></p>
-<p>一汽轿车在公告中称，此举是根据中共中央《关于在深化国有企业改革中坚持党的领导加强党的建设的若干意见》、《公司法》和中国证监会《上市公司章程指引》的要求，结合公司的实际情况，对《公司章程》进行的修订。</p>
-<p>去年9月，中共中央办公厅印发《关于在深化国有企业改革中坚持党的领导加强党的建设的若干意见》，该文件要求国有企业加强党的领导、加强党建工作。</p>
-<p>央企自然要走到前列。</p>
-<p>今 年的3月3日，国务院国资委党委召开中央企业党建工作调研座谈会。国资委党委书记张毅强调，习近平总书记关于国有企业党的建设的重要思想，是抓好中央企业 党建工作的重要遵循，中央企业要认真学习领会，坚决贯彻落实。张毅强调，要认真研究解决中央企业党建工作弱化淡化虚化、党组织地位作用边缘化等突出问题， 探索从源头解决问题的办法，<strong>真正使中央企业党的建设严起来、实起来、强起来。</strong></p>
-<p>张毅当时即已指出，必<strong>须建立完善制度，确保党建工作总体要求纳入企业章程，坚持和完善“双向进入、交叉任职”的领导体制，坚守党组织在企业治理结构中的法定地位。</strong></p>
-<p>当天，有30家央企的党组（党委）书记和分管党建的班子成员，出席了当天的会议。</p>
-<p>如何将党建工作要求纳入企业章程呢？</p>
-<p>一汽轿车和一汽夏利的例子是，在总则第一条部分增加了“充分发挥党委的政治核心作用”。</p>
-<p>此外，在上述两家公司的新章程中，还专门新增了党建工作一章，其中包含三小节：党组织机构设置、公司党委职权和公司纪委职权。</p>
-<p>其中，党组织机构设置包含四个小点，1.根据《党章》规定，<strong>设立公司党委和公司纪委；2.公司党委和公司纪委的书记、副书记、委员的职数按上级党组织批复设置</strong>，并按照《党章》等有关规定选举或任命产生；3.公司党委设党委工作部作为工作部门，同时设立工会、团委等群众性组织；公司纪委设纪检监察室作为工作部门；4. 党组织机构设置及其人员编制纳入公司管理机构和编制，<strong>党组织工作经费纳入公司预算，从公司管理费中列支</strong>。</p>
-<p><strong>公司党委职权包括：</strong>发挥政治核心作用，围绕企业生产经营开展工作；保证监督党和国家的方针、政策在本企业的贯彻执行；支持股东大会、董事会、监事会、总经理依法行使职权；研究布置公司党群工作，加强党组织的自身建设，领导思想政治工作、精神文明建设和工会、共青团等群众组织；<strong>参与企业重大问题的决策，研究决定公司重大人事任免，讨论审议其它“三重一大”事项</strong>；全心全意依靠职工群众，支持职工代表大会开展工作；研究其它应由公司党委决定的事项。</p>
-<p>此外，公司章程还规定，<strong>公司党委对董事会、经管会拟决策的重大问题进行讨论研究，提出意见和建议。</strong></p>
-<p>一汽轿车和一汽夏利控股股东均是中国第一汽车股份有限公司，而中国第一汽车股份有限公司是国务院国资委全资子公司。</p>
-<p>目前，除这两家公司之外，一汽富维（600742）、宁夏建材（600449）的公司章程也做了类似修订。</p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/xionglibin" target="_blank">@熊礼彬</a>：建议把《公司法》也修改了吧，把公司的最高权利机构是股东大会改成党委会<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2498446527" target="_blank">@席琳殿下的猫君大人</a>：就这样你还想让别人承认你国市场经济地位？<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2638713651" target="_blank">@菜菜先生os</a>：加速倒车！吃枣药丸！<img title="[闭嘴]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/29/bz_org.gif" alt="[闭嘴]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/1840857834" target="_blank">@Alex愛米蘭</a>：哈哈哈哈哈，我就不信党能控制市场規律<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p>@望岳翁：同时也要进行正名，“国资委”改名“党资委”，“国企”改叫“党企”</p>
-<p>@科怀恩：一面高喊政企分开，一面加强党委领导！这他妈都是一群猪啊！</p>
-<p>@凌凌漆1990：国企 央企变成党企 只是比以前的做法更赤裸裸了 哈哈哈 党国 党卫军 党企 党产 党警 ……</p>
-<p>@欧玛艾糕德：历史的车轮滚滚向前，车头却是反方向。</p>
-<p>@邓天亮：“党组织工作经费纳入公司预算，从公司管理费中列支”，那党员交的党费呢？不够用？</p>
-<p>@蒋梦君啊啊：某大型央企下属企业，董事长有次谈话说过党管一切，党大一切，国企央企是我党执政基础，不能动摇。</p>
-<p>@小号金水：是否彻底离开股市？操他妈的常年给他送钱，他还大尾巴狼的整天教育中小投资者。</p>
-<p>@博M寒：党只会整人和治人，哪会搞经营！</p>
-<p>@月小沙：证监会搞经济的都能搞出第一天实行熔断就断两次，国企这帮党员大爷们懂经济吗，就这还说人家不承认你完全市场经济地位，当别人眼瞎啊？！</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/06/%E6%BE%8E%E6%B9%83%EF%BD%9C%E4%B8%8A%E5%B8%82%E5%9B%BD%E4%BC%81%E5%A2%9E%E8%AE%BE%E5%85%9A%E5%BB%BA%E6%9D%A1%E6%AC%BE%EF%BC%9A%E5%85%9A%E5%A7%94%E5%B0%86%E5%8F%82%E4%B8%8E%E4%BC%81%E4%B8%9A%E9%87%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD/?category=18271" rel="tag">党国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%BB%BA/?category=18271" rel="tag">党建</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BC%81%E6%94%B9%E9%9D%A9/?category=18271" rel="tag">国企改革</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E8%B5%84%E5%A7%94/?category=18271" rel="tag">国资委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%80%E5%80%92%E8%BD%A6/?category=18271" rel="tag">开倒车</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -997,7 +852,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1007,5 +862,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,24 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BB%B4%E6%9D%83%E7%BD%91-%E6%88%90%E9%83%BD%E5%85%AD%E5%9B%9B%E9%85%92%E6%A1%88%E9%80%9A%E6%8A%A5%EF%BC%9A%E5%9B%9B%E4%BA%BA%E4%BB%8A%E9%81%AD%E6%AD%A3%E5%BC%8F%E9%80%AE/" target="cdt-mirror">维权网 | 成都“六四酒案”通报：四人今遭正式逮捕</a>
+</h2>
+<p><p>（维权网信息中心报道）2016年7月6日星期三，本网获悉：成都“六四酒案”中符海陆、张隽勇、罗誉富、陈兵四人今遭正式逮捕，罪名全是涉嫌“煽动颠覆国家政权罪”。其中陈兵此前已被取保候审，今天下午4点四点，陈兵是从遂宁高升街派出所带走，带人的是成都跳蹬河派出所警察。现在四人目前全部羁押在成都市看守所。</p>
+<p>成都“六四酒案”是四川成都疫苗受害者家长符海陆因为以行为艺术的方式纪念六四被成都警察以“涉嫌煽动颠覆国家政权罪”刑拘开始的。成都疫苗受害者亲属符海陆日前在网络上以行为艺术的方式，制作“永不忘记，永不放弃，铭记八酒六四——27年记忆陈酿酒非卖品”白酒的海报，被成都当局以“涉嫌煽动颠覆国家政权罪”刑拘，事件一个多月来，持续延烧。</p>
+<p>成都女诗人马青仅仅在微博上转发了一下符海陆的广告，也被以寻衅滋事刑事拘留，后取保候审。 之后，公民张隽永、罗富誉又被以涉嫌“煽动颠覆国家政权罪”刑事拘留。后，著名民运人士陈卫的弟弟陈兵也被刑事拘留，一个星期后被取保候审，今天又被正式逮捕。</p>
+<p>对于成都“六四酒案”被拘押的4为公民的境况，本网将持续关注。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.14.23.png?resize=334%2C396" alt="Screen Shot 2016-07-06 at 上午11.14.23" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.23.png?w=334 334w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.23.png?resize=253%2C300 253w" sizes="(max-width: 334px) 100vw, 334px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.14.17.png?resize=293%2C395" alt="Screen Shot 2016-07-06 at 上午11.14.17" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.17.png?w=293 293w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.17.png?resize=223%2C300 223w" sizes="(max-width: 293px) 100vw, 293px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.14.10.png?resize=296%2C395" alt="Screen Shot 2016-07-06 at 上午11.14.10" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.10.png?w=296 296w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.10.png?resize=225%2C300 225w" sizes="(max-width: 296px) 100vw, 296px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.14.03.png?resize=315%2C232" alt="Screen Shot 2016-07-06 at 上午11.14.03" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.03.png?w=315 315w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.03.png?resize=300%2C221 300w" sizes="(max-width: 315px) 100vw, 315px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.13.55.png?resize=338%2C398" alt="Screen Shot 2016-07-06 at 上午11.13.55" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.55.png?w=338 338w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.55.png?resize=255%2C300 255w" sizes="(max-width: 338px) 100vw, 338px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.13.50.png?resize=317%2C316" alt="Screen Shot 2016-07-06 at 上午11.13.50" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.50.png?w=317 317w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.50.png?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.50.png?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.50.png?resize=70%2C70 70w" sizes="(max-width: 317px) 100vw, 317px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.13.40.png?resize=470%2C626" alt="Screen Shot 2016-07-06 at 上午11.13.40" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.40.png?w=470 470w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.40.png?resize=225%2C300 225w" sizes="(max-width: 470px) 100vw, 470px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.13.31.png?resize=467%2C627" alt="Screen Shot 2016-07-06 at 上午11.13.31" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.31.png?w=467 467w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.31.png?resize=223%2C300 223w" sizes="(max-width: 467px) 100vw, 467px" data-recalc-dims="1"></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BB%B4%E6%9D%83%E7%BD%91-%E6%88%90%E9%83%BD%E5%85%AD%E5%9B%9B%E9%85%92%E6%A1%88%E9%80%9A%E6%8A%A5%EF%BC%9A%E5%9B%9B%E4%BA%BA%E4%BB%8A%E9%81%AD%E6%AD%A3%E5%BC%8F%E9%80%AE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85%E7%B2%BE%E9%80%89/?category=18271" rel="tag">山巅精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BD%E5%85%AD%E5%9B%9B%E9%85%92%E6%A1%88/?category=18271" rel="tag">成都六四酒案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">煽动颠覆国家政权罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E9%A2%A0%E7%BD%AA/?category=18271" rel="tag">煽颠罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E7%BD%91/?category=18271" rel="tag">维权网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E5%85%9A%E5%86%85%E5%85%83%E8%80%81%E6%B2%A1%E6%9C%89%E5%87%BA%E5%B8%AD%E5%85%9A%E5%BA%86/" target="cdt-mirror">【习总日记】 习总解释为何党内元老没有出席党庆</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（ 2016,7,6 ） </p>
@@ -124,7 +139,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E8%A6%81%E6%B1%82%E6%9E%97%E8%8D%A3%E5%9F%BA%E8%BF%94%E5%9B%9E%E5%A4%A7%E9%99%86-%E5%90%A6%E5%88%99%E5%B0%86%E4%B8%A5/" target="cdt-mirror">纽约时报 | 中国警方要求林荣基返回大陆 否则将严惩</a>
 </h2>
@@ -715,44 +730,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E9%9B%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%B9%8C%E5%9D%8E%EF%BC%9A%E6%9D%91%E6%94%AF%E4%B9%A6%E8%A2%AB%E6%8A%93%E8%B5%B0%E5%90%8E%E4%B8%80%E4%B8%AA%E7%94%9F%E6%B4%BB%E5%9C%A8%E6%81%90%E6%83%A7%E9%87%8C/" target="cdt-mirror">博谈网 | 乌坎：村支书被抓走后一个生活在恐惧里的村庄</a>
-</h2>
-<p><p>（博谈网记者周洁编译）本文译自《南华早报》7月3日的报道。广东东部的渔村乌坎或许表面上看似平静，但是那里的居民被恐惧萦绕，尤其是当夜幕降临。</p>
-<p>这种恐惧导致最近乌坎的夜间出现“哨兵”，他们大多是骑着摩托车的年轻人，守卫着重要的位置和小巷，例如被拘捕的村支书林祖恋家人居住的那些房屋。</p>
-<p>也已见到有些村民远走他乡或躲藏起来，而其他人睡觉时，他们的床边放有锣，这样他们可以提醒其他住户有危险。</p>
-<p>“我开着灯睡觉，这样睡已经三天了”，一名在乌坎的14岁女孩说。</p>
-<p>“因为担心特警队可能随时冲进来抓人，我的一些同学甚至组织一起过夜。”</p>
-<p>乌坎村民在2011年联合起来反抗夺地和腐败，最终为该村赢得直接选举村领导的权利，而令乌坎登上世界头条新闻。然而，那些问题并未得到解决，村民们指责更高层政府不作为。</p>
-<p>6月18日凌晨，70岁的村支书林祖恋被从家中快速抓走。他曾计划在次日就该村请愿发表演讲，敦促更高层政府解决乌坎已拖了多年的土地问题。</p>
-<p>“起初，人们质疑为何民选的（由林祖恋率领的）村委会未能把他们的土地要回来”，29岁的村民蔡智盛（音）说。“后来他们查看了一切后感到失望，因为涉及到与上级政府的谈判，非常困难。”</p>
-<p>蔡的父亲蔡立秋（音）是乌坎两名副党支书之一，他大约在两周前被捕。另一名副支书孙文亮（音）在最新的清算后逃离乌坎，仍在流亡中。</p>
-<p>中国成千上万的其他农村人都经历过和乌坎同样的土地被盗和腐败问题，但该问题获得关注在2011年产生了新的突破，有观察家称赞乌坎是基层民主在中国大陆运用的一个例子。</p>
-<p>不过，这也给该村带来了麻烦制造者的名声。这促使了当局在村民们上个月决定要发起又一次的大型抗议后进行了严厉镇压。</p>
-<p>当局艰难地遏制2011年的乌坎反抗，但村民们发现这一次政府的反应更强硬、更老练，当局派出了配备有催泪瓦斯的装甲车，警方配有步枪和防爆装置，以及有无人机监视人群的举动。</p>
-<p>村民们说，林祖恋的被捕与被“人格诽谤”令他们计划举行的大型抗议瘫痪，而接下来对其他活跃者的清算令同情者们毛骨悚然。</p>
-<p>林被捕之后，当局指控他从乌坎的建设项目中把大笔的钱放入自己的腰包。他21岁的孙子被短暂拘捕后，6月21日，林祖恋出现在电视上认罪。</p>
-<p>6月24日，负责管辖乌坎的汕尾市政府表示，已获得证据证明林祖恋从当地一所学校42万元人民币的跑道工程中吞了8万元人民币。</p>
-<p>林祖恋68岁的妻子杨珍说，她相信不会有不好的事情发生在他身上，尽管他们家试图为林祖恋聘请律师，屡次遭广东省当局阻挠。</p>
-<p>“他做村支书，没有拿过一分钱的工资”，杨珍说，她还补充道她丈夫甚至用他们儿子寄给他们的钱来帮补村委会的运作。</p>
-<p>自从林祖恋被捕后，数千村民举行了两个多星期的抗议，宣告林祖恋是清白的，呼吁当局释放他。</p>
-<p>“林祖恋是一个简单、诚实、勤劳的人”，蔡说。“我相信在乌坎的每一个人都有一个标准答案来证明他的为人。我们不需要外界来告诉我们他是什么样的人。”</p>
-<p>一名有个3岁女儿的35岁母亲说林祖恋是个“无私的人”，没有人相信他会受贿。</p>
-<p>“作为他的邻居，我们大家都知道林家节俭的生活方式……他每天骑着自行车去上班”，她说。</p>
-<p>就在他被捕前几天，林祖恋接受香港有线电视采访时说，乌坎已经被封了，在处理土地问题时遭到更高层政府的干扰和围攻。</p>
-<p>“包括搞鬼、施压以及鼓动代表他们利益的干部来对我”，他说。</p>
-<p>林祖恋说在过去的五年里，乌坎只成功地拿回了大约1.3平方公里的集体土地，还有另外被前村政府卖掉的4平方公里土地及和邻村的争议中陆丰市承诺归乌坎的4.6平方公里土地未拿回。</p>
-<p>“他们将会严厉打击、逮捕，使用卑鄙的手段来对我，但是我会战至胜利或者死亡”，林说。“这是我绝望的选择。”</p>
-<p>原文Wukan: a village living in fear following arrest of party chief</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E4%B9%8C%E5%9D%8E%EF%BC%9A%E6%9D%91%E6%94%AF%E4%B9%A6%E8%A2%AB%E6%8A%93%E8%B5%B0%E5%90%8E%E4%B8%80%E4%B8%AA%E7%94%9F%E6%B4%BB%E5%9C%A8%E6%81%90%E6%83%A7%E9%87%8C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86/?category=18271" rel="tag">中国大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%8D%E6%8A%97/?category=18271" rel="tag">反抗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E5%B1%82%E6%B0%91%E4%B8%BB/?category=18271" rel="tag">基层民主</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE/?category=18271" rel="tag">抗议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%87%E5%8E%8B/?category=18271" rel="tag">镇压</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -764,7 +741,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -774,5 +751,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>

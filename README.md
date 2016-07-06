@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,125 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%81%9Ait%E9%83%BD%E8%A6%81%E7%9B%B4%E9%9D%A2%E7%99%BD%E7%97%B4%E7%9A%84%E5%B9%BF%E7%94%B5%E4%BA%86/" target="cdt-mirror">【立此存照】做IT都要直面白痴的广电了</a>
+</h2>
+<p><blockquote><p><a href="http://weibo.com/1629644100/DDnuZ6ZUC" target="_blank">@十字桑</a>：真他妈惊了，公司的游戏没过审，原因是因为我们游戏内有一些地方使用了英文。比如mission start/complete. boss出来的时候有warning这种……… 广电你们他妈的怎么不去肛死教育部…… 而且我们的游戏是3月份去提交的审核，结果审了四个月才他妈审好………………</p>
+<p><a href="http://weibo.com/1629644100/DDrb5DghY" target="_blank">@十字桑</a> <a href="http://weibo.com/1629644100/DDrb5DghY" target="_blank" name="3993992679357410"></a>：把游戏内本应是英文的资源替换成中文后有种迷の萌的感觉。比如本应出现 GO→ 的地方出现了个 前进→ 真是迷の笑点。。。。。。。虽然我强烈要求把【YOU LOSE】换成【你完蛋了】结果被全体否决了。<img title="[哼]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]" data-recalc-dims="1"></p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%B8%B8%E6%88%8F%E6%B2%A1%E8%BF%87%E5%AE%A1.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%B8%B8%E6%88%8F%E6%B2%A1%E8%BF%87%E5%AE%A1.jpg?resize=550%2C319" alt="游戏没过审" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/游戏没过审.jpg?w=1802 1802w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/游戏没过审.jpg?resize=300%2C174 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/游戏没过审.jpg?resize=768%2C446 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/游戏没过审.jpg?resize=1024%2C594 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong><a href="http://weibo.com/1400229064/DDx6OhMm5" target="_blank">@tinyfool</a></strong>：做it都要直面白痴的广电了</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30mj1x2j20qk09k0ty.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30mj1x2j20qk09k0ty.jpg?resize=525%2C189" alt="5375ccc8gw1f5k30mj1x2j20qk09k0ty" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30mj1x2j20qk09k0ty.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30mj1x2j20qk09k0ty.jpg?resize=300%2C108 300w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30nuzr9j20k80vk76y.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30nuzr9j20k80vk76y.jpg?resize=475%2C741" alt="5375ccc8gw1f5k30nuzr9j20k80vk76y" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30nuzr9j20k80vk76y.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30nuzr9j20k80vk76y.jpg?resize=192%2C300 192w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30nuzr9j20k80vk76y.jpg?resize=656%2C1024 656w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/06/%E7%9F%A5%E4%B9%8E-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B8%B8%E6%88%8F%E9%9C%80%E8%A6%81%E5%AE%A1%E6%89%B9%E6%89%8D%E5%8F%AF%E4%B8%8A%E6%9E%B6/" target="_blank">知乎 | 如何看待苹果中国区游戏需要审批才可上架？</a></p></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/n/%E5%82%BB%E6%96%AF%E6%8B%89?from=feed&loc=at" target="_blank">@傻斯拉</a>:哈哈哈一看就是第一次送审的（想起这事儿真特么像吃了狗屎一样</p>
+<p><a href="http://weibo.com/1766445853" target="_blank">@我就想安静的改个名字QwQ</a>：哈哈哈哈哈 我们的游戏 这些英文的ui已经由我改完了<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" px data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/2290359225" target="_blank">@KuzakiTani</a>：为什么不干脆说写游戏代码的人用的不是中文<img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1"></p>
+<p>@firemeV：诸如“这是最坏的时代，也是最好的时代”，“我们已经比过去有很大的进步了”“如果没有审查，越来越多的青少年就会被游戏毁了”“严格审查，这是政府部门为了你好”之类的脑残议论又要出现了</p>
+<p>@TechnoCore:不是很懂你国。百业萧条之下，it行业算是亮色了，就这还非得要掐死。大把大把的失业，游戏算是最便宜了娱乐方式了，客观上起到了多大的维护稳定的作用？这也非要搞死？不懂你国。</p>
+<p>@sunnyxibei：擦，版本更新肿么办？你们都是怎么开发出来木有英文的游戏的？</p>
+<p>@律法宝宝：cctv为毛还能在电视上出现？广电总局差点意思。</p>
+<p>@硬哥: 让我想起了NBA有段时间必须念作美国国家篮球协会男子职业联赛……</p>
+<p>@suivre：“x1”不仅有“x”，还有“1”呢。应该写“乘以一”。</p>
+<p>@景山公园51区:要理直气壮地对创意产业进行严厉的审查，一个游戏，如果不能体现党的伟大光荣正确，那么就没有出版的必要</p>
+<p>@野生的脑白质：yeah～未来十年大概可以常看到这种精分的行为：万众创新+市场规律+无坚不摧+非公有制经济为主体</p>
+<p>@牧濑伦太郎AMADEUS: 广电：warning？这词我不懂啊，是不是在骂人啊？mission complete？感觉是反党反社会的意思？不管了，洋人的东西，不合格</p>
+<p>@WuliGenos：哈哈哈 我们游戏有个X</p>
+<p>@_天驱:一个月做游戏三个月审核的创业团队简直⋯⋯</p>
+<p>@___寒江雪：哎哟，这竟然发生在21世纪，世纪奇观啊。</p>
+<p>@大大花生：一点也不白痴，越严寻租空间越大，腾讯的主管这下要跑北京求情了</p>
+<p>@扣酱犯文艺的时候叫筝弦：可以，这很广电。</p>
+<p>@渣何：服气，5档开倒车</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%81%9Ait%E9%83%BD%E8%A6%81%E7%9B%B4%E9%9D%A2%E7%99%BD%E7%97%B4%E7%9A%84%E5%B9%BF%E7%94%B5%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E4%B8%BB%E5%88%9B%E6%96%B0/?category=18271" rel="tag">自主创新</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E6%89%8E%E6%A0%B9%E5%B9%BF%E5%B7%9E30%E5%B9%B4%E5%90%8E-%E9%9D%9E%E6%B4%B2%E9%BB%91%E4%BA%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B7%98%E9%87%91%E6%A2%A6%E7%BB%93/" target="cdt-mirror">网易回声 | 扎根广州30年后 非洲黑人的中国淘金梦结束了</a>
+</h2>
+<p><blockquote><p><strong>中国广州，曾经是非洲商人眼中一座改变命运的金矿。经历了近30年的移民潮，官方出手管起了挖金矿的铲。而如今这座金矿似乎也快见底了。</strong></p></blockquote>
+<p>文｜于方</p>
+<p>与大航海时代东印度公司贩卖的黑奴不同，20世纪末开始迁徙到中国广州的非洲黑人，这回是自己坐着飞机来的，在中国最大的“世界工厂”广东省从事跨国倒卖。而30年后的今天，移民管制和经济的衰落提前结束了他们的淘金梦。</p>
+<p>在中国的媒体报道中，广州的非洲黑人像瘟疫一样“突然侵袭”了中国的城市。但事实上，这一迁徙运动从上世纪90年代末就已经开始了。尤其在1997年经济危机，亚洲四小龙全线奔溃后，中非官方极力促成友好合作关系转移视线，中国投资商开始大量进驻非洲，带去了“世界工厂”里廉价商品，最先看到其中的商机马里人来到了中国广州。</p>
+<p>与中国投资商去非洲挖矿不同，非洲人来中国主要是做跨国“代购”，把中国工厂里的山寨大牌大量销往他们的祖国，甚至是以正宗品牌原来的高价售出。</p>
+<p>中国广州，曾经是非洲商人眼中一座改变命运的金矿。</p>
+<p>香港大学Adams Bodomo博士2010年的一项研究报告显示，在广州的非洲人仅有4%的人从事其他文化、艺术类工作，约96%属于生意人（businessman，87%）或者贸易者（traders，9%），主要从事中非之间商品进出口贸易和批发零售工作，他们更喜欢形容自己为“中非商业链条的联系纽带”。</p>
+<p>从这条“商业纽带”传送往非洲的，主要是中国工厂里生产的廉价小商品、山寨大牌服装或非洲稀缺的家电，传送纽带的源头就在广州以越秀区洪桥为中心，辐射半径约10公里的非洲人聚居地，被出租车司机称为“巧克力城”的地方，小北路就是其中之一。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706003914fe8d0.jpg.1920x10000.75.auto_.jpg?resize=600%2C375" alt="2014年10月25日，一名非洲女人走在广州市的“非洲村”。/Reuters" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706003914fe8d0.jpg.1920x10000.75.auto_.jpg?w=1920 1920w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706003914fe8d0.jpg.1920x10000.75.auto_.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706003914fe8d0.jpg.1920x10000.75.auto_.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706003914fe8d0.jpg.1920x10000.75.auto_.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014年10月25日，一名非洲女人走在广州市的“非洲村”。/Reuters</p></div>
+<p>2004年至2007年间，是小北路最鼎盛的时期。跨文化研究学者Michal Lyons的研究报告中记载了一位来自尼日利亚的商人，他每两个月就来一次广州，每次都会采购25000件衬衫运回国内转卖，每间衬衫的利润是1.5美元，他每来一趟广州意味着37500美元的收入。这位商人的故事激励着越来越多非洲人来中国广州淘金。</p>
+<p>而《南方周末》的记者记录了更为夸张的故事：集仓储与销售为一体的御龙大厦，摊主们把牛仔裤像咸菜一样堆在过道上，忙乱时，直接从裤堆上踏过。卖场里到处是中国工厂里生产的山寨货：D&G的牛仔裤、Adidas的鞋子、Gucci的挎包。但它们的价格却低得让人咋舌：一条D&G20元，一套Gucci的高跟鞋加坤包100元。来自非洲的“国际倒爷”们正在此大量采购，有些甚至直接撕掉了塑料包装袋，为了减轻重量降低运费。而非洲几乎没有这类奢侈品或品牌的工厂，一般人也识别不了山寨和正品的区别，精明的商人们甚至能把这些山寨货卖出正品的价格。</p>
+<p>与非洲人的贸易，同样给当地带来了短暂的繁荣。官方为鼓励更多外国人来中国，在2004年8月出台了《外国人在中国永久居留审批管理办法》，尽管审批程序和资格获取难度极高，但对来中国做生意的非洲人来说，这一时期官方对他们的态度似乎仍是开放的。</p>
+<p>跟随“广州黑人50万”谣言兴起的，还有对非洲人本能的歧视与排斥。</p>
+<p>广州郊区里的非洲人社区，像国外的唐人街一样，他们因特殊的生活习惯而集结，生活范围内，看上去尤为壮观。而他们的黑色皮肤，在任何行动中都被黏上了异样的眼光，甚至很多黑人常因浓郁的香水味遭出租车拒载。“广州黑人50万，抢占资源、犯罪无数”这样的谣言，也因此得以疯传。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607060040023efbe.jpg.1920x10000.75.auto_.jpg?resize=600%2C375" alt="2014年4月29日，广州登峰路，许多黑人在此寻找发财机会。/视觉中国" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607060040023efbe.jpg.1920x10000.75.auto_.jpg?w=1920 1920w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607060040023efbe.jpg.1920x10000.75.auto_.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607060040023efbe.jpg.1920x10000.75.auto_.jpg?resize=768%2C480 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607060040023efbe.jpg.1920x10000.75.auto_.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014年4月29日，广州登峰路，许多黑人在此寻找发财机会。/视觉中国</p></div>
+<p>实际上，非洲人只排在广东外国人口的第三名，前两名分别是亚洲人和欧洲人。据广州出入境管理局数据，截至2014年10月25日，在广州市居住的11.8万外国人中，约有3万来自非洲的合法居民。而所谓“广州黑人50万”的数据，则来源于2013年广州口岸出入人次中有54万来自非洲国家，其中往返和多次入境都重复计算在其中。</p>
+<p>对于非洲人在广州所居住的时间，超过90%的人在1998年后开始居住在广州，大约56%的非洲人居住时间没有超过一年，大多数非洲人享受着广州和非洲之间旅游的频繁往来。</p>
+<p>但破除谣言，也无法弥合中国人对非洲人本能的排斥与矛盾。跨文化研究学者Michal Lyons在2009年曾对50位与非洲人有过贸易往来的中国商贩进行访谈，只有40%的人对整个交易过程是满意的，他们形容非洲人“低素质”、“抠门”，甚至“不诚实”，这类负面词汇出现的次数是正面词汇的两倍。与此相反的是，2010年他们又对非洲商人做了一项调查，发现65%的非洲人认为，在中国他们受到了非常好的尊重，只有9.6%的人对中国商人极度不满。</p>
+<p>比欧美国家常挂于嘴边的“种族歧视”，从签证政策到媒体舆论，中国人对非洲人的歧视无孔不入。</p>
+<p>来自中国人的本能排斥与矛盾，在当地媒体多篇关于“非洲人犯罪事件”的报道中爆发，尽管据2013年的数据显示，包括其他国家在内的外国人在广州犯罪率约为1.65%。</p>
+<p>2007年《广州日报》发布了一篇6120字的报道《广州黑人部落全记录》，尽管这篇文章开篇承认了中非商贸推动广州国际化，但主要力度放在抨击黑人商贩主要经营低劣的纺织品和二手电子产品、无所事事的黑人“打工仔”，以及数量巨大的“三非”黑人。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001e3390.jpg.1920x10000.75.auto_.jpg?resize=600%2C375" alt="2014年4月3日，广州市一名黑人女子头顶刚挑选好的货品。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001e3390.jpg.1920x10000.75.auto_.jpg?w=1920 1920w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001e3390.jpg.1920x10000.75.auto_.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001e3390.jpg.1920x10000.75.auto_.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001e3390.jpg.1920x10000.75.auto_.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014年4月3日，广州市一名黑人女子头顶刚挑选好的货品。/视觉中国</p></div>
+<p>这是广东媒体第一篇深度揭批广州小北黑人区的文章，也是官方借力打压黑人社区的开始。当地执法机关开始每月定期检查小北街道和住所的非洲人签证，检查和逃脱检查的猫鼠游戏动摇了这座城市。</p>
+<p>为了抓捕广州市内的“三非”黑人，当地执法机关在2175间宾馆装载了特制的登记软件，以搜集非洲人信息；划分黑人的可居住范围，集中圈限在居委会的视线范围内，不允许他们居住在乡村或非政府直接管辖的区域，采取“集中居住管理”的策略。整个广州对非洲黑人都是戒严状态。</p>
+<p>特别是发生在2009年7月15日的事件引起了巨大反响。当天，两名来自尼日利亚纺织品零售商试图逃脱签证检查，其中一名不慎从18米的高楼摔下，后经查实两人签证都已经过期。随即超过百名尼日利亚人在广州街道上示威。</p>
+<p>在广州，签证过期的非洲人数量不明，但可以知道的是，他们中的大多数是被签证政策困在了中国。广州的非洲商人多数是通过4至6周的短期商务签证入境，早期外国人在本国申请的签证是由北京办事处受理，而在广州的非洲人在当地申请续签后，两地的程序和标准不一样，跨地申请失败的概率极高。2013年，中国通过了“期待已久”的新《出入境管理法》，许多非洲商人希望通过它从无限循环的短期签证中解放，但事实相反，新法律使得签证续签的程序更加复杂，外国人必须回到自己的国家申请续签。在过去，非洲人还可以在香港或澳门申请续签。</p>
+<p>一夜之间广州对非洲人的态度也变了，从“欢迎来到广州”变成了“请随时准备好护照以备查验”。</p>
+<p>一旦签证过期，这些非洲商人就必须缴纳罚款。签证逾期后不缴纳罚款的，则会被行政拘留21天，需要缴纳拘留费用以及驱逐费用；如果一直买不起回国的飞机票，拘留的时间可能会更长。而据《卫报》报道，部分中国官员收取2000-10000元的贿赂，就可以放他们走。</p>
+<p>而更多非洲黑人是带着“淘金梦”来的穷人，试图靠中国廉价的商品咸鱼翻身，孤注一掷后发现签证续签不了了，回家的机票还没着落，货品已经在回国的货船上。缴纳罚款滚回家还是非法逗留，他们中大多数人选择了后者。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001f1d7d.jpg.1920x10000.75.auto_.jpg?resize=600%2C375" alt="2014年4月3日，广州市一服装城旁一名拿到货的黑人男子在清点货品。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001f1d7d.jpg.1920x10000.75.auto_.jpg?w=1920 1920w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001f1d7d.jpg.1920x10000.75.auto_.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001f1d7d.jpg.1920x10000.75.auto_.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001f1d7d.jpg.1920x10000.75.auto_.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014年4月3日，广州市一服装城旁一名拿到货的黑人男子在清点货品。/视觉中国</p></div>
+<p>2008年奥运会之前，中国提前关闭了短期签证申请；2010年广州举办亚运会前，再一次缩紧了签证政策。根据跨文化研究学者Michal Lyons的调查，2010年，40%的非洲商人离开了广州的“巧克力城”，26.7%的人搬去了移民管制稍宽松的佛山市黄岐镇。黄岐镇的交通发达，去广州进货成了这些流动黑人的最后选择。</p>
+<p>通货膨胀、成本高涨、利润挤压，生意越来越难做了，非洲人眼中的这座金矿似乎要挖到底了。</p>
+<p>不仅是签证政策的压力，经济衰退使得非洲商人的中国淘金梦，从2008年爆发的金融危机就开始破碎了。通货膨胀、利率飙升，同时中国工人的时薪每年以12%的速度增长，中国工厂里的山寨货已经不再便宜了。此外，生产山寨产品的中国工厂收到了越来越多的投诉，品牌商以及远在非洲的消费者。</p>
+<p>非洲商人不得不把目光转移到签证政策更为宽松、“世界工厂”的替代者——东南亚国家。</p>
+<p>在东南亚，非洲商人能批发到成本更低的商品，同比中国工人每天平均27.5美元的薪资，印尼仅有8.6美元，越南6.7美元。</p>
+<p>原先在广州的非洲商人与当地商贩长久以来积累了共生关系，非洲人的出走也带来了当地经济的下滑。2006年至2010年间，广州口岸运往非洲的集装箱几乎都能载满货物，到2010年，大量非洲商人离开了，依靠非洲贸易的中国供应商，生意倒下了三分之一。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E6%89%8E%E6%A0%B9%E5%B9%BF%E5%B7%9E30%E5%B9%B4%E5%90%8E-%E9%9D%9E%E6%B4%B2%E9%BB%91%E4%BA%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B7%98%E9%87%91%E6%A2%A6%E7%BB%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E5%B7%A5%E5%8E%82/?category=18271" rel="tag">世界工厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA/?category=18271" rel="tag">中国工人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E5%8F%A3/?category=18271" rel="tag">出口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E5%8F%A3%E8%B4%B8%E6%98%93/?category=18271" rel="tag">出口贸易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">外国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%92%E4%B8%A5/?category=18271" rel="tag">戒严</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B/?category=18271" rel="tag">打压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95/?category=18271" rel="tag">执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%98%E7%95%99/?category=18271" rel="tag">拘留</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">种族歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80/?category=18271" rel="tag">经济衰退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2/?category=18271" rel="tag">非洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E4%BA%BA/?category=18271" rel="tag">黑人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%90%B4%E6%80%9D%EF%BC%9A%E6%96%B0%E5%AE%98%E5%A0%95%E8%90%BD%E5%AE%9A%E5%BE%8B/" target="cdt-mirror">吴思：新官堕落定律</a>
+</h2>
+<p><p>朱元璋是明朝的开国皇帝，他讨过饭，打过仗，从一个马弁干起，最后得了天下，对人情世故的了解相当透彻。他当然明白自己给官员定的工资不高，所以，在地方官上任之前，他经常要找他们谈一次话，讲讲如何正确对待低工资，如何抵抗贪污受贿的诱惑。他会给自己的部下算一笔很实在的利害关系帐。</p>
+<p>朱元璋说，老老实实地守着自己的薪俸过日子，就好像守着井底之泉。井虽然不满，却可以每天汲水，泉不会干。受贿来的外财真有益处么？你搜刮民财，闹得民怨沸腾，再高明的密谋也隐瞒不住。一旦事发，首先关在监狱里受刑，判决之后再送到劳改工场服苦役，这时候你那些赃款在什么地方？在数千里之外呢。你的妻子儿女可能收存了，也可能根本就没有。那些赃物多数藏在外人手里。这时候你想用钱，能到手吗？你家破人亡了，赃物也成了别人的东西。所以说，不干净的钱毫无益处。（注1）</p>
+<p>这样的利害分析也算得透彻了，但实际上并没有起到多大作用。派下去的官员，如同冒着枪林弹雨冲锋的战士，一排排地被糖衣炮弹击中倒下。前赴后继，一浪接着一浪，一代跟着一代 。后来，朱元璋当皇帝当到第十八个年头（公元1386年），这种现象见得多了，便总结出了一条规律。朱元璋说，我效法古人任命官员，将他们派往全国各地。没想到刚刚提拔任用的时候，这些人既忠诚又坚持原则，可是让他当官当久了，全都又奸又贪。我严格执法，决不轻饶，结果，能善始善终干到底的人很少，身死家破的很多。（注2）</p>
+<p>请留意中间那一句话：”没想到刚刚提拔任用的时候，这些人既忠诚又坚持原则，可是让他当官当久了，全都又奸又贪。”这就是新官堕落定律。”全都”云云肯定是绝对化了，但在统计学的意义上，这条定律大概真能站住脚。仔细分析起来，朱元璋发现的这条规律，背后大有道理。</p>
+<p>科举制实行之后，官僚大体是读书人。他们读了十几年圣贤书，满脑袋都是理论上的人际关系，如忠君爱民、长幼有序、朋友有信之类，书生气十足，教条主义倾向严重，未必明白建立在利害算计之上的真实的人间关系。这种关系，圣贤们不愿意讲，胥吏和衙役的心里却清楚得狠。《红楼梦》第四回便详细描写了一个衙役向新官传授潜规则的故事。这段描写堪称经典。毛泽东主席把《红楼梦》看作那个社会的百科全书，就以这一回为全书的总纲。因此我不避罗嗦，转述几段。</p>
+<p>却说贾雨村走了贾府的后门，当上南京知府，一下马就受理了一件人命案。当地名门望族子弟薛蟠，打死小业主冯渊，抢了个丫头，然后扬长而去，受害方告了一年多也告不下来。贾雨村听说，登时大怒道：”岂有这样放屁的事！打死人命就白白的走了，再拿不来的！”说着就要发签，派人去抓。这时他看见旁边一个门子向他使眼色。</p>
+<p>进了后边的密室，门子和贾雨村有几段精彩的对话。门子问：”老爷既荣任到这一省，难道就没抄一张本省‘护官符’来不成？”雨村忙问：”何为‘护官符’？我竟不知。”门子道：”这还了得！连这个不知，怎能作得长远！如今凡作地方官者，皆有一个私单，上面写的是本省最有权有势，极富极贵的大乡绅名姓，各省皆然；倘若不知，一时触犯了这样的人家，不但官爵，只怕连性命还保不成呢！”说着拿出一张抄好的护官符来，上边就有薛家。</p>
+<p>贾雨村问门子此案该如何处理，门子说，薛家和帮助你当上知府的贾家是亲戚，何不作个人情，日后也好去见贾府的人。贾雨村道：”你说的何尝不是。但事关人命，蒙皇上隆恩，起复委用，实是重生再造，正当殚心竭力图报之时，岂可因私而废法？”门子听了，冷笑道：”老爷说的何尝不是大道理，但只是如今世上是行不去的。岂不闻古人有云：‘大丈夫相时而动’，又曰：‘趋吉避凶者为君子’。依老爷这一说，不但不能报效朝廷，亦自身不保。还要三思为妥。”</p>
+<p>贾雨村低了半日头，最后嘴里说着不妥，还要再研究研究，实际上完全遵循门子的建议，很巧妙地解脱了薛蟠。</p>
+<p>曹雪芹卒于1764年，与朱元璋相隔约四百年，但是这个世界并没有多少变化。洪武十九年（1387年），朱元璋曾经写道：建国以来，浙东、浙西、广东、广西、江西和福建的政府官员，没有一个人干到任满。往往还未到任期考核的时间，自己就犯了赃贪的罪过。这里确有任人不当的问题，但在更大的程度上，这些官员是被当地那些胥吏衙役和不务四业（士农工商为四业）之徒害了，是受了他们的影响、劝说和引诱（注3）。因此，当年朱元璋与上任的官员谈话，总要警告他们当心那些胥吏，不要让胥吏支配决策（注4）。看看贾雨村的实际经历，朱元璋的预防针确实对症下药，那些胥吏和衙役果真在劝诱官员们学坏。他们跟新官算利害关系帐，同样算得清晰透彻，只是与朱元璋的结论完全相反：要坚持原则吗？不但不能报效朝廷，自身也难保。轻则丢官爵，弄不好还会丢性命。您可要三思。</p>
+<p>新官上任，还会碰到一个不请自来的教师，这就是土豪。在这里，土豪是一个比地主富农更恰当的名词。他们有可能是地主富农，也可能是商人，但绝对不是老实胆小的土财主。他们甚至可能没有正经职业，以欺行霸市或坑蒙拐骗为生，即朱元璋所说的那些把官员教坏的不务四业之徒。在《水浒》对西门庆、镇关西、祝家庄等的描绘中，我们都可以看到土豪的身影。这些人是地头蛇式的强者，在当地苦心经营多年，已经建立起一个有利于自己的利益分配格局，他们很愿意把新官拉下水，教他们适应并且保护这种格局。《明史》中描绘了两个不肯好好学习适应的新官的遭遇。</p>
+<p>有一个叫徐均的人，洪武年间在广东当阳春县主簿，这个官类似现在的县政府秘书长。阳春地方偏僻，土豪盘踞为奸，每有新官上任，就以厚赂拉拢腐蚀，最后也总能把持控制，政府就像他们自己家开的一样。徐均刚到阳春，一个吏便向他提建议，说他应该主动去看看莫大老。莫大老就是一个土豪。也不知道徐均是不懂，还是不吃这一套。他问：难道这家伙不是皇上的臣民吗？他不来，我杀了他。说着还拿出了自己的双剑给那位吏看。</p>
+<p>莫大老听了那位吏的通风报信，害怕了，就主动去拜谒徐均。徐均调查了解了一番，掌握了他的违法勾当，将其逮捕下狱。莫大老或许认为这是一种敲诈手段，就很知趣地送给徐均两个瓜，数枚安石榴，里边塞满了黄金美珠。徐均根本就不看，给他带上刑具，径直押送至府。没想到府里的官员也被买通，将莫大老放回家了。面对强权，莫大老的脾气很好，再一次给徐均送上那些装满金珠的瓜果。徐均再次大怒，打算再将其逮捕法办。在这关键时刻，府里来函将徐均调离，到阳江县任职去了。（注5）</p>
+<p>徐均真是清官。假如他不声不响地收下瓜果，难道真会像朱元璋说的那样被送进劳改工场吗？根据史书上的记载判断，他的前任都被拉拢腐蚀了，结果并没什么事。他在府里的上司也被 拉拢腐蚀了，并且动静很大地放莫大老回家，结果还是没事。收几个瓜果又能有什么事？倒是不收瓜果的徐均遇到了麻烦。可见门子算的账很正确：不但不能报效朝廷，自身也难保。而朱元璋算的账显然有问题，下狱和苦役云云，多半是吓唬人的。</p>
+<p>也是在明朝的洪武年间，道同（蒙古族）出任广东省番禺县知县。知县号称一县父母，为当地最高行政首脑，但是还有他管辖之外的权力系统，这就是军队和贵族。</p>
+<p>坐镇番禺的是永嘉侯朱亮祖。朱亮祖是打江山的开国元勋，征讨杀伐立过大功。《明史》上说，朱亮祖勇悍善战而不知学，办事经常违法乱纪。而道同偏偏是一个执法甚严的清官，没有 道理的事情，不管来头多大，坚决顶住不办。</p>
+<p>当地的土豪数十人，经常在市场上干一些巧取豪夺的勾当，以低价强买珍贵的货物。稍不如意，就变着法地栽赃陷害。道同严格执法，打击这些市霸，将他们当中的头头逮捕，押在街头戴枷示众。于是斗法开始。</p>
+<p>这些土豪明白，道同这家伙不好教育，便争相贿赂朱亮祖，求他出面说句话。应该说，土豪的这样做是很合理的。贿赂既是必要的买命钱，同时也是一种投资。有了永嘉侯撑腰，将来谁还敢惹？如果没人敢惹，这个市场就是他们的金饭碗，永远衣食不愁。</p>
+<p>朱亮祖果然被土豪们勾引教坏了。他摆下酒席，请道同吃饭。在席间点了几句，为土豪头子说情。侯的地位在一品官之上，是道同的上级的上级的上级。应该说，以他的身份出面请客，算是很抬举道同这个七品芝麻官了。可是道同偏偏不识抬举。他厉声道：”公是大臣，怎么竟然受小人役使呢？”永嘉侯压不服他。朱亮祖也不再跟他废话，干脆就派人把枷毁了，将街头示众的土豪头子放了。这还不算完，随后又寻了个差错，抽了道同一顿鞭子。</p>
+<p>有一位姓罗的富人，不知道算不算土豪，巴结朱亮祖，把女儿送给了他。这姑娘的兄弟有了靠山，便干了许多违法的事，如同土豪。道同又依法惩治，朱亮祖又将人夺走。</p>
+<p>道同实在气不过，便将朱亮祖的这些事一条条地写下来，上奏朱元璋。朱亮祖恶人先告状，劾奏道同傲慢无礼。朱元璋先看到朱亮祖的奏折，便遣使去番禺杀道同。这时候道同的奏折也到了，朱元璋一看，明白是怎么回事了。他想，道同这么一个小官，敢顶撞大臣，告他的状，这人梗直可用。于是又遣使赦免道同。两位使者同一天到达番禺，赦免的使者刚到，道同也刚被砍掉脑袋。于是，门子的预言再一次应验：”不但官爵，只怕连性命还保不成呢！”不屑于接受再教育的清官道同，终于付出了生命的代价。</p>
+<p>在一般情况下，这事到此也就算完了。为非作歹的王侯比比皆是，遵纪守法的却如同凤毛麟角。即使朱亮祖直截了当，擅自将道同收拾了，只要他给道同按上适当的罪名，也算不得什么大不了的事。但是碰到开国之君朱元璋，这事就不能算完。朱元璋吏治之严，堪称空前绝后。杀人只凭一时性起，这一点我们已经在道同的下场中看到了。此外还爱发脾气，激烈且毫无宽容。第二年九月，朱元璋召朱亮祖到京，将朱亮祖和他儿子一起活活用鞭子抽死，然后亲自为他写了墓志，以侯礼下葬。两种规则的斗法至此告一段落。（注6）</p>
+<p>我没有仔细计算，不清楚明朝初期贪赃枉法者被揭发处罚的概率有多少。在阅读时得到的印象是：离朱元璋越近，被揭发处罚的概率越高。而不归朱元璋直接管的小官，被揭发处罚的概率则逐级下降。也就是说，在省部级官员这一层，朱元璋算的账比较有说服力。而到了县处级，门子算的账更有说服力。朱元璋惩治贪官的手段极其酷烈，大规模地砍头剥皮截肢剜膝盖，制造了大量冤假错案，也惩办了大量贪官污吏。血洗之下，洪武年间的官场乃是整个明朝最干净的官场。不过即使在最干净的时候，仍有大批高级官员不认朱元璋的账，例如朱亮祖。我估计，在这批靠造反起家的高级官员之中，风险偏好型投资者的比例一定很高，很不容易管理。</p>
+<p>朱元璋死后，管账的大老板不那么能干或不那么上心了，下手也不如太祖那般凶狠了，朱元璋的那套算法便越发不对路了。不过，他发现的新官堕落定律却越发灵验了。</p>
+<p>明朝制度规定，官员不许在本乡本土当官，怕他们受人情的影响，不能坚持原则。但胥吏和衙役们一定是土生土长的本地人。土豪们就更不必说。他们熟悉当地的语言和风土人情，有一张亲戚朋友熟人织成的关系网，盘根错节，信息灵通，熟悉各种惯例，并且依靠这些惯例谋生获利。那些圣贤书上不讲的潜规则，正是通过这些人继承并传播的。他们是活的教科书。在他们的言传身教和热心辅导之下，官员们学习的时间大大缩短，学费大幅度下降，许多摸着石头过河的麻烦都可以省去了。这便是朱元璋的”新官堕落定律”的实现过程。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%90%B4%E6%80%9D%EF%BC%9A%E6%96%B0%E5%AE%98%E5%A0%95%E8%90%BD%E5%AE%9A%E5%BE%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%83%85/?category=18271" rel="tag">人情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">人际关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E7%B3%BB%E7%BD%91/?category=18271" rel="tag">关系网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%A4%E5%81%87%E9%94%99%E6%A1%88/?category=18271" rel="tag">冤假错案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A9%E7%9B%8A%E5%88%86%E9%85%8D/?category=18271" rel="tag">利益分配</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%97%E8%B4%BF/?category=18271" rel="tag">受贿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%83%9A/?category=18271" rel="tag">官僚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%9C%BA/?category=18271" rel="tag">官场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%BA%9C%E5%AE%98%E5%91%98/?category=18271" rel="tag">政府官员</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E6%9D%A1%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">教条主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BD%9C%E8%A7%84%E5%88%99/?category=18271" rel="tag">潜规则</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8C%97%E4%BA%AC%E4%B8%8E%E5%8D%97%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BB%B2%E8%A3%81%E5%BA%AD%E7%9A%84%E6%90%8F%E6%96%97/" target="cdt-mirror">美国之音｜北京与南中国海仲裁庭的搏斗</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard13_220.jpg?resize=549%2C309" alt="Clipboard13_220" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard13_220.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard13_220.jpg?resize=300%2C169 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
@@ -653,232 +769,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90cdtv%E3%80%91%E6%AF%94%E8%B5%B7%E3%80%8C%E6%AE%8B%E9%85%B7%E5%86%9C%E6%9D%91%E3%80%8D%EF%BC%8C%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%BA%95%E5%B1%82/" target="cdt-mirror">【CDTV】比起「残酷农村」，这才是中国的底层</a>
-</h2>
-<p><p>CDTV推荐纪录片《麦收》，墙内B站链接请<a href="http://www.bilibili.com/video/av2715293/">点击这里</a>。</p>
-<p>如果您在墙内无法看到YouTube上的视频, 请<span><a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a></span>使用BitTorrent Sync (Sync) 下载观看。</p>
-<blockquote><p><span>片名</span>: <span>麦收</span><br><span>导</span><span>演</span>: <span>徐童</span><br><span>编剧</span>: <span>徐童</span><br><span>类型:</span> 纪录片<br><span>制片国家/地区:</span> 中国大陆<br><span>语言:</span> 汉语普通话<br><span>上映日期:</span> 2008<br><span>片长:</span> 99分钟<br><span>又名:</span> Wheat Harvest</p></blockquote>
-<p></p>
-<p><strong>以下文字来自微信公号<a href="http://mp.weixin.qq.com/s?__biz=MjM5MTIwNTYwMg==&mid=2654534574&idx=1&sn=39bfa061d3caa9354308b1d3c996e9d5&scene=1&srcid=06142Ld2JkN6Udvoufp5eU4j&from=singlemessage&isappinstalled=0#wechat_redirect">毒舌电影</a>（dsmovie）：</strong></p>
-<p>相信不少人最近的朋友圈，都被一篇名为《残酷底层物语，一个视频软件的中国农村》的文章刷屏。</p>
-<p>文章开头就下个定论——</p>
-<p>不必去走访农村，只要扒拉扒拉这个app，就能了解中国乡村的精神面貌了。</p>
-<p>在这个app上，有各种怪诞的图片，视频。</p>
-<p>河北大妈自虐吃灯泡，蠕虫，玻璃……</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%889.58.07.png?resize=498%2C330" alt="Screen Shot 2016-07-02 at 下午9.58.07" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午9.58.07.png?w=498 498w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午9.58.07.png?resize=300%2C199 300w" sizes="(max-width: 498px) 100vw, 498px" data-recalc-dims="1"></p>
-<p>鞭炮炸裤裆。</p>
-<p>文章用一波波骇人听闻的语言和图片，让看的人都坐不住。</p>
-<p>看完上文的自虐篇，你以为最残酷的就是生吃玻璃、蛆、屎吗。<br>
-错，里面更让人难受的是农村儿童的精神面貌。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%889.59.06.png?resize=345%2C475" alt="Screen Shot 2016-07-02 at 下午9.59.06" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午9.59.06.png?w=345 345w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午9.59.06.png?resize=218%2C300 218w" sizes="(max-width: 345px) 100vw, 345px" data-recalc-dims="1"></p>
-<p>无数人被这样的“农村真相”震惊了。</p>
-<p>转！</p>
-<p>然而，一天不到，这篇文章的弊端就被不少网友指出来。</p>
-<p>比如，农村人口有6亿以上，但app覆盖的，只是日活总量一千万的用户（还不全是农村用户）。</p>
-<p>行文中，也存在“选择性看见”。</p>
-<p>作者看到的，（只）是他所关注的快手账号。</p>
-<p>且，在叙述怪诞的现象的同时，全篇没有出现任何当事人声音。</p>
-<p>这样一篇文章，究竟是真心关注，还是高度猎奇？</p>
-<p>Sir今天，想用一部纪录片来尝试回应。</p>
-<p>徐童导演的——</p>
-<p><span><strong>《麦收》</strong></span></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%8810.00.08.png?resize=535%2C356" alt="Screen Shot 2016-07-02 at 下午10.00.08" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.00.08.png?w=535 535w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.00.08.png?resize=300%2C200 300w" sizes="(max-width: 535px) 100vw, 535px" data-recalc-dims="1"></p>
-<p>这是一个关于妓女的故事。</p>
-<p>同行对它的评价是——“生猛、鲜活”。</p>
-<p>光看开头，你会觉得《麦收》有猎奇嫌疑。</p>
-<p>片中对北京郊区妓女生活的呈现，太直接。</p>
-<p>她们接待的嫖客，都是最普通的打工者。</p>
-<p>工作辛苦，身边又没女人，一寂寞就往洗头房里钻。</p>
-<p>价格低得惊人。</p>
-<p>打一炮，100块；</p>
-<p>陪着睡一晚上，300块。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%8810.01.04.png?resize=572%2C381" alt="这是他们办事的炮房" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.01.04.png?w=572 572w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.01.04.png?resize=300%2C200 300w" sizes="(max-width: 572px) 100vw, 572px" data-recalc-dims="1"><p>这是他们办事的炮房</p></div>
-<p>片子开头，有这么一幕——</p>
-<p>几个妓女聚在一起，描述她们接待过的男人。</p>
-<p>内容让Sir这样的老司机都脸红。</p>
-<p>有的男人包了夜，又做得快。</p>
-<p>于是，通宵不睡觉。</p>
-<p>像动物一样，摸，摸，摸遍全身。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0.gif?resize=265%2C191" alt="他就这样捏捏捏（指胸前）" data-recalc-dims="1"><p>他就这样捏捏捏（指胸前）</p></div>
-<p>房间完全不隔音。</p>
-<p>里面的呻吟，叫床声，外面听得清清楚楚。</p>
-<p>羞耻？</p>
-<p>她们完全不当回事。</p>
-<p>聚在一起，八卦各自接待的男人，什么细节都说。</p>
-<p>镜头也毫不避讳。</p>
-<p>拍下她们的每个动作，吐出的每个脏字。</p>
-<p>直到，主角洪苗的出现，我们开始深入这个群体的日常。</p>
-<p>洪苗格外强悍。</p>
-<p>她出生在河北定兴县，父母都是农民。</p>
-<p>在同龄的城市女孩还在上学，找工作时，她就得肩负养家的责任。</p>
-<p>刚到北京，还不到20岁。</p>
-<p>在熟人开的一家小店里借宿，一张沙发，一张床，算是开了头。</p>
-<p>文人喜欢将妓女比作落花，游莺；</p>
-<p>但当你见到在脏兮兮的炮房讨生活的洪苗，你一定不会有如此浪漫的幻想。</p>
-<p>住零装修的毛坯房，用最简陋的化妆品。</p>
-<p>画眉直接用一根烧焦的棉签。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0-1.gif?resize=265%2C191" alt="0 (1)" data-recalc-dims="1"></p>
-<p>很可怜？</p>
-<p>并不是。</p>
-<p><strong><span>洪苗天生心大。</span></strong></p>
-<p>“敢想，还有胆子，想到什么立马就去干。”</p>
-<p>在重男轻女的农村，很少有爸爸会服自己女儿。</p>
-<p>但洪苗爸爸提起她，声音立马高八度。</p>
-<p>她是个能人，我特别佩服她。</p>
-<p>洪苗确实不简单。</p>
-<p>跟嫖客打交道，她有自己一套。</p>
-<p>要是不想干，无论对方怎么发火，软磨硬泡，她都不松口。</p>
-<p>口气还凶得很</p>
-<p>她还很乐观。</p>
-<p>老笑，露出脸上狭长的酒窝。</p>
-<p>瞒着亲人卖性，但在其他人面前，会拿这个开玩笑。</p>
-<p>学男人的样子，假装摸姐妹的屁股。</p>
-<p>调戏姑娘。</p>
-<p>大家聊天，说男人都喜欢给处女开苞，开一次愿意掏一万块钱。</p>
-<p>她在旁边打趣——那我也去卖初夜。</p>
-<p>姐妹们取笑她，你还有什么初夜可卖啊，卖了那么多次了。</p>
-<p>她也不生气，只是咪咪笑。</p>
-<p>干这一行，谁都可以来挤兑她一下，开两句黄色玩笑。</p>
-<p>但这并不意味她听不懂侮辱。</p>
-<p>片中她唯一一次发火，是有次吃烧烤，旁边的男人对着她说了一句：让她歇逼吧。</p>
-<p>她的脸色一下子变得很难看，逼视对方。</p>
-<p>你再把那话重复一遍。</p>
-<p>对方坐不住，走了。</p>
-<p><span><strong>她也有她的底线。</strong></span></p>
-<p>洪苗偶尔还会去KTV找鸭（男妓）。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0-2.gif?resize=313%2C179" alt="0 (2)" data-recalc-dims="1"></p>
-<p>跟他们挤在一起。</p>
-<p>家人依靠她。</p>
-<p>不知道她在外面做的营生，但她每次带回家的一大叠的百元钞票养活了全家人。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%8810.04.56.png?resize=567%2C380" alt="Screen Shot 2016-07-02 at 下午10.04.56" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.04.56.png?w=567 567w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.04.56.png?resize=300%2C201 300w" sizes="(max-width: 567px) 100vw, 567px" data-recalc-dims="1"></p>
-<p>还有个原本是嫖客的男朋友，很粘她。</p>
-<p>无论何时，洪苗都一副胸有成竹的样子，从没听她叫过苦。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0-3.gif?resize=307%2C205" alt="0 (3)" data-recalc-dims="1"></p>
-<p>过一天，是一天，把日子跟米饭一块咽下去。</p>
-<p>所以，看《麦收》，Sir有一个强烈感觉——</p>
-<p>她们并没有活在一个离我们很远的世界。</p>
-<p>妓女这个自带话题的群体第一次褪去神秘。</p>
-<p>她们出卖皮肉，但不全是苦情。</p>
-<p>她们活在社会的边缘，但也没有以抗争的姿态。</p>
-<p>甚至——</p>
-<p>我们跟她又有什么差别？</p>
-<p>出卖劳力，赚一份工资，每月按时寄钱给家里，有朋友八卦，有对象取暖……</p>
-<p>比起那些同样以妓女为选题的电影。</p>
-<p>《麦收》的性工作者，活得太正常了。</p>
-<p>这样一部“剑走偏锋”的电影，注定从拍出来后，就争议不断。</p>
-<p>在香港放映时，曾有市民举牌反对，认为导演在“强暴弱者”。</p>
-<p>一篇报道中曾这样叙述——</p>
-<p>一知识女性颇有不甘：她怎能这么阳光呢？！难道真的没有心理问题？这很让我沮丧！</p>
-<p>对此，导演徐童回应——</p>
-<p>从自己心里头挖掉道德优越感，才能根本上瓦解掉道德焦虑。</p>
-<p><span><strong>同情，有时候其实是对弱者的偏见。</strong></span></p>
-<p>之所以这么认为，或许因为徐童从来平等地看待自己和每一个人。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%8810.06.19.png?resize=424%2C281" alt="Screen Shot 2016-07-02 at 下午10.06.19" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.06.19.png?w=424 424w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.06.19.png?resize=300%2C199 300w" sizes="(max-width: 424px) 100vw, 424px" data-recalc-dims="1"></p>
-<p>他最有名的作品，是“游民三部曲”。</p>
-<p>《麦收》《老唐头》《算命》</p>
-<p>游民是啥？</p>
-<p>妓女、嫖客、流氓、白痴、包工头、地下乐手……</p>
-<p>是背井离乡，没有社会保障，甚至很多时候连一个合法身份都没有的边缘人。</p>
-<p>靠走江湖卖艺，走偏门谋生。</p>
-<p>有人称他们为“中国改革期的阵痛”。</p>
-<p>而徐童本人，也好不到哪去——</p>
-<p>“远看艺术家，近看也就是个游民。”</p>
-<p>中国传媒大学摄影系毕业后，一直在社会上混。</p>
-<p>广告，平面设计，开公司都干过，但一直找不到自己的路。</p>
-<p>穷得响叮当，在北京搬了一次又一次家。</p>
-<p>住过大杂院，城乡结合部，还有燕郊。</p>
-<p>就这样，他认识了一大帮穷哥们儿，算命的，开按摩店的…</p>
-<p>一开始，他觉得，自己怎么混得这么惨啊，特郁闷。</p>
-<p>但越接触，越发现，大学毕业的自己，跟这些人又有什么区别？</p>
-<p><span><strong>你首先是个人。</strong></span></p>
-<p><span><strong>人都一样，有梦想，但得先活着。</strong></span></p>
-<p>因为往来都是哥们儿，所以他拍纪录片，比别人更近。</p>
-<p>“拍纪录片的导演是墙上的苍蝇”这个理论在他看来，纯属扯淡。</p>
-<p>他要的，是做拍摄对象的“自己人”。</p>
-<p>出现在他的两部片中的按摩店老板唐小雁曾说过——</p>
-<p>老公老婆都是暂时的，说不定明天就换了，哥们儿才是长久的。</p>
-<p>徐童在他的拍摄对象眼里，就是哥们儿。</p>
-<p>在《麦收》里，经常镜头离人只有30公分，从下往上拍。</p>
-<p>洪苗给男朋友打电话时，镜头都快贴到她脸上。</p>
-<p>拍摄时，洪苗的男朋友帮着扛三脚架。</p>
-<p>在镜头前，对女友絮絮叨叨：</p>
-<p>这个是TC125（机器），塔帽底下的那个小房子，里面就是我们工作人员的驾驶位置。</p>
-<p>到后来，都有点不像跟拍了。</p>
-<p>徐童开车送洪苗回河北老家，还帮着送她病危的爸爸去医院。</p>
-<p>某种程度，徐童已经完全融入了游民群体。</p>
-<p>有两个细节让Sir印象深刻。</p>
-<p>一个是，当洪苗的男朋友站在熟悉的工地，向导演介绍他工作的地方时。</p>
-<p>这个瘦弱的男人，脸上有了不一样的神采。</p>
-<p>另一个是。</p>
-<p>当常年漂泊在外的洪苗回到老家，光着脚丫站在土里，播种粮食——</p>
-<p>表情从未有过的安定。</p>
-<p>这就是《麦收》打动人的地方。</p>
-<p>在《麦收》里，你既看不到那些强硬的价值判断，也不见对现实花俏的隐喻。</p>
-<p>徐童像个笨拙而老实的手艺人。</p>
-<p><span><strong>他做的，只是尽可能把血肉相连的生活，精确地推送到我们面前。</strong></span></p>
-<p>也因为离得够近。</p>
-<p>我们得以看清那些被学者，媒体忽视的日常。</p>
-<p>影片结尾——</p>
-<p>父亲住进危重病房，脑子里的血管没了两根；</p>
-<p>洪苗一个人跑到窗边去抽烟，抽得很凶，一堆烟蒂。</p>
-<p>不久后，男朋友在她回家的时候，偷偷跟另外一个妓女好上，打电话来跟她分手。</p>
-<p>我只是你生命中的一个过客。</p>
-<p>双重打击下，她第一次在镜头前，垮了。</p>
-<p>这场哭泣持续了很久，把自己积压很久的情绪都翻出来。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8B%E5%8D%8810.07.39.png?resize=555%2C380" alt="Screen Shot 2016-07-02 at 下午10.07.39" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.07.39.png?w=555 555w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-下午10.07.39.png?resize=300%2C205 300w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"></p>
-<p>哭过以后，她把所有的钱都贴给家里，自己揣着一百块钱回到北京。</p>
-<p>画面黑掉，她唱起了自己最喜欢的《阿里山姑娘》。</p>
-<p>整部电影，洪苗从来没对着镜头说，自己为什么要去做妓女。</p>
-<p>这不是徐童要的——</p>
-<p>现在的年轻人更多的是关注自己的感受，但当你对自己的认识已经足够饱满了，你就会发现你自己的经历只是去了解别人的一个拐棍，一个桥梁，更重要的是关注别人的生命。</p>
-<p>也正因为这份理解，《麦收》值得推荐。</p>
-<p>好电影的功能不是给你答案，是予你思考。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90cdtv%E3%80%91%E6%AF%94%E8%B5%B7%E3%80%8C%E6%AE%8B%E9%85%B7%E5%86%9C%E6%9D%91%E3%80%8D%EF%BC%8C%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%BA%95%E5%B1%82/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E7%AB%A5%E5%AF%BC%E6%BC%94/?category=18271" rel="tag">徐童导演</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%B7%A5%E4%BD%9C%E8%80%85/?category=18271" rel="tag">性工作者</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87/?category=18271" rel="tag">纪录片</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E9%BA%A6%E6%94%B6%E3%80%8B/?category=18271" rel="tag">纪录片《麦收》</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81/" target="cdt-mirror">【麻辣总局】变态辣椒：生日快乐！</a>
-</h2>
-<p><p>变态辣椒（‏<a href="https://twitter.com/remonwangxt/status/748696276984672256">@remonwangxt</a>）：<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmPnSiuUEAE9Gwm.jpg?resize=550%2C422" alt="CmPnSiuUEAE9Gwm" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmPnSiuUEAE9Gwm.jpg?w=1000 1000w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmPnSiuUEAE9Gwm.jpg?resize=300%2C230 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmPnSiuUEAE9Gwm.jpg?resize=768%2C589 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92%EF%BC%9A%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%EF%BC%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%80%E5%BB%BA%E5%85%9A%E8%8A%82/?category=18271" rel="tag">七一建党节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%8C%85%E5%AD%90/?category=18271" rel="tag">习包子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%98%E6%80%81%E8%BE%A3%E6%A4%92/?category=18271" rel="tag">变态辣椒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%B6%E6%94%BF%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">时政漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80/?category=18271" rel="tag">麻辣总局</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%83%E4%B8%80%E6%B8%B8%E8%A1%8C%EF%BC%8C%E4%BB%8E%E7%A4%BE%E8%BF%90%E8%AE%B8%E6%84%BF%E6%A0%91%E9%87%8D%E5%9B%9E%E6%94%BF%E6%B2%BB/" target="cdt-mirror">端传媒 | 七一游行，从“社运许愿树”重回“政治运动”</a>
-</h2>
-<p><p>作者：刘细良，香港跨媒体时事评论员，曾任职民主党智囊，其后从事传媒，曾任香港政府属下的香港中央政策组全职顾问</p>
-<p>今年最大的分别不是人数，而是七一游行重新回到起初的政治性活动。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8A%E5%8D%8810.11.01.png?resize=555%2C369" alt="民间人权阵线发起的七一游行正式由维园出发。摄:吴炜豪/端传媒" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午10.11.01.png?w=555 555w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午10.11.01.png?resize=300%2C199 300w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1">民间人权阵线发起的七一游行正式由维园出发。摄:吴炜豪/端传媒</p>
-<p>香港“七一游行”由2003年反对《基本法》23条立法、“倒董”（要求特首董建华下台）开始，到今年经已是第14回。曾几何时，董去曾（曾荫权）来，由2005年起，参加人数急跌至民阵公布的二万，此后一直在低位徘徊，而七一游行也变了社运团体的“许愿树”，由原本政治性运动变成公民社会活动。</p>
-<p>直至2012年梁振英上台，人数突然大幅增加至四十多万。2014年底爆发“雨伞运动”，占领78日后以清场作结。民主运动短期目标全部落空，本土派抬头声称要“拆大台”，年轻人将愤怒指向香港传统民主运动的集团：香港专上学生联会（学联）、民主党、支联会、职工盟、教协及被指为“左胶”的社运团体。反建制阵营内部分裂，社运陷入低潮，失败主义抬头，市民认为无论如何，梁振英不会下台，共产党也不会改变强硬政策，2015年七一游行人数，民阵宣布是48000人，比2014年减少达九成！</p>
-<p><strong>内地批游行僭越“一国两制”</strong></p>
-<p>2016年7月1日，酷热当空，我站在湾仔天乐里帮手做广播，见到一层又一层密密麻麻的人群走过，认识的朋友会挥挥手、打个招呼。我观察到有很多中年人，没有大量团体的旗帜及标语，跟2012、13年有分别，而人数也明显是比去年多。民阵宣布有11万人，是去年人数的一倍有多。</p>
-<p>今年最大的分别不是人数，而是七一游行重新回到起初的政治性活动，本来带头的三人是林荣基、程翔及刘山青，是不同年代因政治原因被内地囚禁的香港人，最后关头林荣基指自己人身安全受威胁而宣布不参加游行。</p>
-<p>而内地《环球时报》在6月29日发表<a href="http://opinion.huanqiu.com/editorial/2016-06/9096283.html">社评</a>，指由三人领带游行“给这一活动染上了对抗内地政治制度和司法体系的色彩。”该报又指出，“香港反对派本来应当主要围绕特别行政区的高度自治事务开展政治活动，对内地事务采取谨慎的建设性态度为宜，不能将香港这座城市变成攻击内地现行政治体制和法律制度的策源地。然而实情是，香港的反对派政治越来越从内部指向转为以内地和中央为攻击目标，他们有把自己从高度自治下的区域性反对派变成‘全中国反对派’的倾向。”</p>
-<p>同一时间，港澳办主任王光亚接受<a href="http://hk.zijing.org/2016/0630/706457.shtml">《紫荆》访问</a>，批评泛民中有些人的行为，常希望在内地变革中扮演某程度角色，企图利用香港给国家制造麻烦，是僭越“一国两制”。</p>
-<p>这些内地言论，是冲著今年七一而来。香港人见到“铜锣湾书店”事件，已经有所忧虑，直至林荣基回港公开揭露自己被囚宁波的细节，更震撼香港人心，深感自由受到前所未有的威胁，香港特区政府亦无法保护人身安全。</p>
-<p><strong>从不满特区施政到针对内地威胁</strong></p>
-<p>原本民阵定下“决战689”为游行主调，也要因应时势，决定由三人带队。然而，内地眼中见到的是七一游行出现了“质变”。</p>
-<p>七一的传统，是针对特区内部事务，即使“倒董”、“倒梁”也好，都是冲著特区施政而来。2003、04年民众对董建华施政的不满，也没有升级变成反对支持董建华的北京中央政府，群众反而是要求“皇上英明”赶走董建华。但今年七一主调，变成铜锣湾书店事件及林荣基，直接冲著内地而来。过去十年，内地及特区政府对七一游行均已经统一了回应口径，就是将其政治性一面刻意淡化，定性为嘉年华会式许愿树，指各方团体有不同政策性诉求，政府会聆听社会不同意见云云。</p>
-<p>然而，今年因林荣基被囚细节公开， 香港人直面大陆政权的威胁，而特区政府又唯命是从，什么通报机制全属谎言，内地一方根本是为所欲为。这在政制民主化之外，开启了另一个中港矛盾战场。七一游行由此变成以针对内地威胁一国两制、香港自由为焦点。这情况其实早在2012年梁振英当选翌日拜访中联办那张照片刊登后已开始，香港人察觉到高度自治逐渐消失。自九七以来，特区政府在中港之间一直扮演缓冲角色，中央隐身特区政府之后，中港矛盾变成特区内部矛盾。</p>
-<p>但梁振英上场后，特区政府形象变了中央傀儡，市民对其政治信任急跌，缓冲角色消失，香港人开始对“ 赤化”存在忧虑，而内地亦一改过往在中港矛盾上的低调作风，党报喉舌频频“亮剑”，批评香港人、煽风点火。香港人在焦虑以外，加多了一层愤怒。在铜锣湾书店事件中，那些电视认罪、回港销案的演出，香港人早已看在眼里，林荣基回港“爆大镬”（将真相曝光），焦虑最后变成了愤怒。</p>
-<p>九月立法会选举在即，从泛民及建制派已经开展的宣传所见，本来泛民主打是反对梁振英连任，将选举比作对梁连任的公投，而建制派则突出其阵营维护香港繁荣稳定。不过，这两个议题现在都可能错置了。九月选举，相信是以中港矛盾为主轴，对维护香港一国两制、高度自治的政治性投票。简而言之，就是回到1989年之后的第一次立法局直选，那种恐共、反共及厌共的氛围，而这形势是极之不利建制派，而有利泛民主流。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E4%B8%83%E4%B8%80%E6%B8%B8%E8%A1%8C%EF%BC%8C%E4%BB%8E%E7%A4%BE%E8%BF%90%E8%AE%B8%E6%84%BF%E6%A0%91%E9%87%8D%E5%9B%9E%E6%94%BF%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%A6%99%E6%B8%AF%E4%B8%83%E4%B8%80%E6%B8%B8%E8%A1%8C/?category=18271" rel="tag">2016香港七一游行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%86%E6%B8%AF%E7%9F%9B%E7%9B%BE/?category=18271" rel="tag">陆港矛盾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF/?category=18271" rel="tag">香港</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E4%B8%83%E4%B8%80%E5%A4%A7%E6%B8%B8%E8%A1%8C/?category=18271" rel="tag">香港七一大游行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E5%86%85%E5%9C%B0%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">香港内地关系</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
 </p>
 <table>
     <tr>
@@ -890,7 +780,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%A6%99%E6%B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -900,5 +790,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%A6%99%E6%B
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

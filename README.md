@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,71 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E8%A6%81%E6%B1%82%E6%9E%97%E8%8D%A3%E5%9F%BA%E8%BF%94%E5%9B%9E%E5%A4%A7%E9%99%86-%E5%90%A6%E5%88%99%E5%B0%86%E4%B8%A5/" target="cdt-mirror">纽约时报 | 中国警方要求林荣基返回大陆 否则将严惩</a>
+</h2>
+<p><p> </p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/06hongkong-web2-articleLarge.jpg?resize=600%2C400" alt="林荣基是去年失踪的五名书商之一。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/06hongkong-web2-articleLarge.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/06hongkong-web2-articleLarge.jpg?resize=300%2C200 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>林荣基是去年失踪的五名书商之一。</p></div>
+<p>香港新闻媒体周二报道，<a href="http://topics.nytimes.com/top/news/international/countriesandterritories/china/index.html?inline=nyt-geo" target="_blank" rel="nofollow">中国</a>大陆警方称，一名公开谈论自己数月拘押经历的<a href="http://topics.nytimes.com/top/news/international/countriesandterritories/hongkong/index.html?inline=nyt-geo" target="_blank" rel="nofollow">香港</a>书商必须返回宁波市，否则将因违反假释规定面临惩罚。</p>
+<p>这名书商叫林荣基，曾于去年和其他四名男子同时失踪，五人都和香港的一家书店和出版社有关系，他们的失踪引起人们的关注，担心香港的法治可能遭到破坏。他们被关押在大陆，后来出现在认罪视频中，罪行包括销售充斥道听途说的中国时政书籍。</p>
+<p>这种书在中国大陆是禁书，但在香港可以出版，香港对媒体自由提供了广泛保护。这块前英国殖民地于1997年回归中国，但根据中英之间的协议，香港在“一国两制”的原则下，保持它自己的法律和经济结构50年不变。</p>
+<p>与巨流传媒有关的其他三名书商今年被释放后，对自己被拘押的事缄口不言，但林荣基<a href="http://www.nytimes.com/2016/06/17/world/asia/hong-kong-bookseller-lam-wing-kee.html" target="_blank" rel="nofollow">详细讲述</a>了自己在香港与大陆边境被扣押，然后被单独监禁数月的经历。他还在新闻发布会上告诉媒体，大陆当局曾试图迫使他提供书店顾客的名单。</p>
+<p>香港律政司司长袁国强和保安局局长黎栋国本周二在北京与公安部部长郭声琨见面，讨论书商一案以及本港居民在大陆被拘押的通报机制。</p>
+<p>香港电台(RTHK)<a href="http://news.rthk.hk/rthk/ch/component/k2/1270785-20160705.htm" target="_blank" rel="nofollow">报道</a>，北京当局表示，林荣基已承认自己和他人将禁书销售给中国大陆的客户，从中赚取逾40万元人民币，而且他没有返回那里，已经违反了假释条件。大陆当局说，如果他再不返回，就可能面临更严厉的惩罚。</p>
+<p>香港电台还报道说，大陆当局发布了林荣基的认罪视频。</p>
+<p>香港与大陆没有引渡协议。林荣基在自己的新闻发布会上说，他并不打算回那里去。</p>
+<p>自上个月林荣基曝光这件事后，香港亲民主阵营称赞他勇于对抗大陆当局施加的压力。但他也遭受了前同事的<a href="http://www.nytimes.com/2016/06/20/world/asia/hong-kong-bookseller-lam-wing-kee-girlfriend-sing-tao-protest.html" target="_blank" rel="nofollow">攻击</a>，一些亲北京新闻媒体对他说的话也表示了质疑。</p>
+<p>他原本打算在7月1日率领港人进行一年一度的民运游行，但在游行开始的数小时之前，他以安全担忧为由，<a href="http://www.nytimes.com/2016/07/02/world/asia/hong-kong-handover-protest.html" target="_blank" rel="nofollow">取消了这个计划</a>。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E8%A6%81%E6%B1%82%E6%9E%97%E8%8D%A3%E5%9F%BA%E8%BF%94%E5%9B%9E%E5%A4%A7%E9%99%86-%E5%90%A6%E5%88%99%E5%B0%86%E4%B8%A5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%8B%AC%E5%AE%B6%E4%B8%93%E8%AE%BF%EF%BC%9A%E6%9E%97%E8%8D%A3%E5%9F%BA%E8%AE%B2%E8%BF%B0%E8%A2%AB%E8%B7%9F%E8%B8%AA%E8%BF%87%E7%A8%8B/" target="cdt-mirror">德国之声｜独家专访：林荣基讲述被跟踪过程</a>
+</h2>
+<p><p>林荣基于7月2日接受德国之声独家访问, 是自他取消游行后至今唯一一次接受媒体访问。 </p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/019337313_30300.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/019337313_30300.jpg?resize=585%2C329" alt="0,,19337313_303,00" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/019337313_30300.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/019337313_30300.jpg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
+<p>在内地被拘禁近8月的铜锣湾书店店长林荣基, 原定出席七一游行中并担任领头角色, 却于当天早上透过帮助他的民主党议员涂谨申向外宣布, 基于个人安全受到威胁而取消游行及媒体的访问。林荣基于7月2日接受德国之声独家访问, 是自他取消游行后至今唯一一次接受媒体访问。访问中他讲述被跟踪的过程经过, 以及对将来的初步意向及计划。</p>
+<p><strong>德国之声</strong>: 你原定出席七一游行, 并会带头领军, 然而之后却取消出席, 并透过涂议员向外转述你被跟踪, 个人安全受到威胁。个中到底发生怎么事情, 令你作出这个决定?</p>
+<p><strong>林荣基</strong>: 事情经过是这样的。六月三十晚上, 我的姐夫向我透露, 有附近的街坊告诉他. 我于六月二十九日晚上回家时, 背后有4名人士近距离跟踪我, 由于我当时并不知情, 当我进入大厦门闸后, 那4个人不能进内, 站在铁闸外, 似乎在观察我住在那个楼层. 这个消息对我来说是很大的震撼, 因为过去他们都只是远距离的监视, 但现在变成了贴身的跟踪, 基于个人的安全的忧虑, 第二天早上我便通知涂谨申议员我不出席游行了。</p>
+<p><strong>德国之声</strong>: 你认为跟踪你的人是什么人? 你担心他们会怎样对付你? 跟踪对你构成怎样的威胁?</p>
+<p><strong>林荣基</strong>: 我相信跟踪我的人是内地的公安。 因为香港的警方不会这样做的。他们(内地的执法部门)曾经跨境执法, 我担心他们会重覆运用这个手段。 事实上, 过去几天我去警署报案时, 曾经有摩托车一直跟随我们的车辆, 我和涂谨申议员都可以清楚看到摩托车的车牌号码. 再加上六月二十九日那个晚上, 街坊告诉我姐夫, 他们目击四名跟踪者, 甚中一人是乘摩托车离开的, 这说明整件跟踪事件不是巧合的。这对我构成很大的威胁, 担心个人的安全。</p>
+<p><strong>德国之声</strong>: 他们有否跟你说话? 或言语上做出恐吓?</p>
+<p><strong>林荣基</strong>: 他们只是跟踪, 但已构成我很大很威胁, 因为早前他们只是远距离的监视, 但今次是贴身的, 而且是四个人这么多, 不是一两个。</p>
+<p><strong>德国之声</strong>: 六月三十日之后你去了哪里, 藏身在什么地方?</p>
+<p><strong>林荣基</strong>: 我去了一个可以住的地方, 昨晚(七一晚上) 我去了一个十多年没见面的朋友家里暂住下来. 将来如果被逼要离开的话, 就可能去台湾, 不过这是后话了。</p>
+<p><strong>德国之声</strong>: 现在你的感到安全吗, 仍然感到受威胁吗? 为什么仍然愿意接受我们的访问?</p>
+<p><strong>林荣基</strong>: (我感到)不大安全, (接受访问) 值得呀, 感谢你们传媒。</p>
+<p>我原本是一个无忧无虑的香港人, 因为透露了一些真相, 我的生活受到很大的干扰, 我开始担心自己的个人安全。如果我继续留在香港, 我要提防我的安全受到威胁, 即是我已经失去了免于恐惧的自由。</p>
+<p><strong>德国之声</strong>：取消出席七一游行, 对你来说是一个困难的决定吗?</p>
+<p><strong>林荣基</strong>: 香港是公民社会, 香港人也是很明白事理的, 今日发生在我身上的事可能另一天也会同样发生在他们身上, 之前我已经作出呼吁。所以对我来说这不是很难的决定。</p>
+<p><strong>德国之声</strong>： 你决定出来开记者招待会时, 有没有机会与你内地的女朋友商量或知会她? 她和李波都出来指责你说话不诚实, 你可担心她情况?</p>
+<p><strong>林荣基</strong>: 我的女朋友及李波都是被迫说着违心的话, 这个我完全谅解, 也不会和他们对质, 每一次对质都是对他们一次伤害。</p>
+<p>他们(指中央专案组)一直都不让我联络她(女朋友), 由过关到宁波再到韶关整整8个月都不允许我联络她。我曾经在回到香港那一天, 偷偷地致电她, 但她的手机原来已停止服务。 我相信她的罪名不是太严重的, 因为她只是帮我转寄书而已, 现在保释候审, 相信判刑不会太重, 她仍会有自由的。但唯一的问题是我不能再和她一起了。</p>
+<p>铜锣湾书店事件后，周二（7月5日）港府将派高级别官员代表团赴北京与内地官员商讨如何改善中港通报机制。批评人士称，仅有通报机制是不够的，还应设立司法互助机制。</p>
+<p><strong>德国之声</strong>：你认为他们为什么不派其他被扣留的同事回香港拿回读者名单, 而要派你亲自回来领取?</p>
+<p><strong>林荣基</strong>: 我想有几个原因的. 首先是我是5个当中唯一一个仍未回来香港探望家人的一个；第二, 我对他们有求必应, 表现很良好, 如一头纯羊, 没办法, 在这个情境我只能听话； 第三是那个中央专案组姓史的人员告诉我, 由于我是亲手负责输入读者资料库及邮寄书给读者的, 所以如果由我带回记录读者资料库的硬碟回去, 会是一个力的证据检椌读者。基于以上理由, 他们就给我回来, 但最初只给我一天时间, 是我想办法拖延, 利用他们安排的人拿错了电脑给李波而拖延一天, 就利用那天去面对传媒说出真相。</p>
+<p><strong>德国之声</strong>： 你将来有什么打算, 会再从事售卖违禁书的行业吗?</p>
+<p><strong>林荣基</strong>: 我想不会了, 售卖违禁书已经划上了句号。我或许会写写东西, 我一向都有写散文, BLOG的, 或从事一些文字编辑的工作。</p>
+<p><strong>德国之声</strong>：你会否争取外国政治庇护?</p>
+<p><strong>林荣基</strong>: 视乎真的有此需要吧, 申请外国政治庇护是一个很大的事情, 在国内, 俨如判国。我并无意弄到如此此僵裂的地步。 我今次事件其实是一件小事, 发展到今天, 我认为完全是中共处理不当, 是他们先点起火头。</p>
+<p><strong>德国之声</strong>： 如果你之后去台湾, 会否担心内地执法人员会到台湾绑架你, 如桂民海在泰国被扣?</p>
+<p><strong>林荣基</strong>: 我相信台湾相对泰国安全, 而且我认为今次事件其实是一件小事, 我既不是老板, 我只是打工而己, 中共是否值得这样花巨大的气力去抓我回来, 我想这个应个不是太合逻辑。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%8B%AC%E5%AE%B6%E4%B8%93%E8%AE%BF%EF%BC%9A%E6%9E%97%E8%8D%A3%E5%9F%BA%E8%AE%B2%E8%BF%B0%E8%A2%AB%E8%B7%9F%E8%B8%AA%E8%BF%87%E7%A8%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%81%9Ait%E9%83%BD%E8%A6%81%E7%9B%B4%E9%9D%A2%E7%99%BD%E7%97%B4%E7%9A%84%E5%B9%BF%E7%94%B5%E4%BA%86/" target="cdt-mirror">【立此存照】做IT都要直面白痴的广电了</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/1629644100/DDnuZ6ZUC" target="_blank">@十字桑</a>：真他妈惊了，公司的游戏没过审，原因是因为我们游戏内有一些地方使用了英文。比如mission start/complete. boss出来的时候有warning这种……… 广电你们他妈的怎么不去肛死教育部…… 而且我们的游戏是3月份去提交的审核，结果审了四个月才他妈审好………………</p>
@@ -677,98 +739,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-3/" target="cdt-mirror">奇闻录 | 周末段子荟萃 7-3</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQrjx1UMAAXQxx.jpg?resize=500%2C384" alt="CmQrjx1UMAAXQxx" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQrjx1UMAAXQxx.jpg?w=1000 1000w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQrjx1UMAAXQxx.jpg?resize=300%2C230 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQrjx1UMAAXQxx.jpg?resize=768%2C589 768w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>@willwang：党妈，今天是您的生日，我给您送钟来了！</p>
-<p>@lepture：党其实挺有互联网思维的，早期时候不拿群众一针一线，是谓免费模式，提高用户粘性，形成垄断后再收割韭菜。只是现在收得太厉害了，韭菜才刚发芽就开始收割了。</p>
-<p>@shifeike：我倒是特别关心一个问题，月底以来，雷案中一直相当活跃的人大校友会突然静默了。看着就好像一个地下电台已被成功破获了一样。</p>
-<p>@wmeng8：为什么中共总书记总叛党？第一任陈独秀叛党 第二任瞿秋白叛党 第三任向忠发叛党 第四任博古反党 第五任张闻天反党 第六任毛泽东反革命家属（妻江青、侄毛远新反革命）第七任华国锋走反动路线 第八任总书记胡耀邦走反动路线 第九任赵紫阳反党 得想办法，首先保证总书记绝对忠诚党 转的</p>
-<p>@freedomandlaw：雷洋案并不是一个法律问题，而是一个当局如何涂抹自己的丑陋的颜面、安抚一部分真心在清末的人、打马仔一巴掌还要马仔铁心为自己卖命、最后还要表明自己治下的社会是法治社会的问题，这个问题可不简单，这是一个若非在梦中，就没法处理妥当的问题。</p>
-<p>@freedomandlaw：且说一个点：政府对人们性观念和性行为的控制实质上已经基本破产，即便隔三差五的抓嫖也无抵于是，而且抓嫖往往是另有他用，比如转移视线、政治恫吓，人民已经“纯洁“不起来了，而官方也无法再让人民纯洁”起来。这是专制统治没落的表现之一。</p>
-<p>@freedomandlaw：作为一个”现代人“要对任何外在施加给你的义务保持谨慎，不论这义务是道德义务还是法律义务，此外，应尽可能的对情感压迫说不。自由是最珍贵的价值，密尔的伤害原则是人们自由的法律和道德界碑，除此以外，对人们自由的限制往往都是别有用心的，那就是侵害你的自由、财产、尊严。</p>
-<p>@破破的桥：我知道有人认为之所以雷被关注同情，是因为人大硕士身份，如果死的是个民工，连条微博都不会有。话是没错。但是，如果这种事是常态，民工死着死着，迟早会死到一个硕士引爆舆论的呀。</p>
-<p>@wangyi09：【神逻辑】有网友仔细看完中共十八大报告后总结：一、要彻底反腐败；二、腐败的根源在制度；三、制度绝对不能变。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQD7n4UEAE8Eis.jpg?resize=560%2C560" alt="CmQD7n4UEAE8Eis" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQD7n4UEAE8Eis.jpg?w=560 560w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQD7n4UEAE8Eis.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQD7n4UEAE8Eis.jpg?resize=300%2C300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmQD7n4UEAE8Eis.jpg?resize=70%2C70 70w" sizes="(max-width: 560px) 100vw, 560px" data-recalc-dims="1"></p>
-<p>@maylogcom：#转：农村人对农村的不好是最清楚的。但到了上海，他们的说法是：农村空气好，房子大，家里的羊都是吃中草药，喝矿泉水的。家里的蔬菜都是纯天然的。山上的枣子就是比上海超市的甜。农村人都是勤劳善良朴实忠厚。结论是，自己绝不回农村了。留学生不说中国的不好，也是这种心态。</p>
-<p>@letscorp：转：万科事件之所以闹到这么大，主要原因是没有坚持党的领导。无论是以王石为首的管理团队，还是华润、宝能等股东，在做决策时有没有首先考虑万科公司党委的意见？有没有把党和人民的利益放在首位，这是要问清楚的。偏离了这一点，就不能做好企业；偏离了党的领导，基业就不会长青。</p>
-<p>@takamy50：发现爱国兔杂小粉红圈是支持投反对票的，他们的着眼点是“联合国干涉中国内政”，认为不可接受。</p>
-<p>@闲炎岁语：打人是不可能把人直接打死的，说被打死的其实都是因为自身原因而死。比如邱少云其实是因为体内蛋白质变性导致肌体功能丧失而死，黄继光是因为心脏大动脉破裂流血死的，刘胡兰是因为大脑供血不足缺氧死的。</p>
-<p>@bigman945：《树大招风》看了，确实是一部难得好片，简单来说就是讲的香港知名贼王面对即将迎来的中共时代，被全球最大黑帮——中共或直接或间接地教做人的故事……中共就是一个毒盅，无论是它内部还是治下的民众，均是呈更加恶劣的逆向淘汰，这让还有一些文明社会气息的香港贼人均展示出强烈不适应。</p>
-<p>@拖尼熊：我知道我有拖延症，不到最后不动手。但我不觉得丢人。这是民族病，国歌里有“中华民族到了最危险的时候，每个人被迫……”这么多年大家唱得很顺，没一个人问“早干嘛去了。”</p>
-<p>@de175b5b8b4e425：#光腚肿菊 #游戏审查仇深似海 必须刻录5张光盘，必须是DVD，安卓版安装包一张，iOS版安装包一张，3张是公司相关的资质证明扫描件；必须寄去两个装好游戏的手机，安卓一部，iPhone一部。无安卓版，就提供iPhone两部；手机里必须有电话卡，电话卡必须有流量。承诺归还手机。</p>
-<p>@mathwuyue：广电总局要审核游戏，真特么是一个混账决定。别的都不说，这游戏怎么审，你特么还能打通关了？！我真是无力吐槽你国这种随时上马拍屁股决定的审核制度。你国政府不骑在人民头上拉屎拉尿都显不出你国政府的威风。</p>
-<p>@chuhan：审核是仁慈的，哪天广电给改成每年上架34款进口App的配额制，那才真实反映我朝优良的寻租传统。</p>
-<p>@lazyeo：烦透了那些看着游戏审核和支付宝限额说“反正跟我没关系”的人了……早晚轮到你头上……</p>
-<p>@akid：app store 审查员笑了，妹想到，多年蝉联 「开发者最想吊打的人」 居然就这么被终结了</p>
-<p>@libearal：我补课的外教为了说明中国考试语法题傻逼，亲自打电话问他朋友，结果两个人的选择还不一样，都和标准答案不同，然后俩人还争论了半天。最后他对我们说：“所以说你们看……”</p>
-<p>@momoda168：法国小哥最近在跟着我学中文，有天我和他聊天时发了句“呵呵，23333”，他问我什么意思？我说就是超好笑的意思。今天晚上和他一起见中国朋友，朋友刚讲了个笑话，法国小哥就用标准的普通话说：“呵呵，两万三千三百三十三。”</p>
-<p>@洋葱日报社：【新华社：国足未来可复制威尔士奇迹】据透露，新华社今天又准备发文：威尔士一路过关斩将闯入欧洲杯四强让国足球迷看到了希望。威尔士能够战胜比利时晋级，说明弱队赢强队是当今足坛的大势所趋，国足只要保持弱队身份，保持永远不被人看好的状态，一样可以复制威尔士奇迹。</p>
-<p>@NalaGinrut：许多人认为衣食无忧有闲钱了就有创新能力和欲望了，并且可以不以赢利为目的去玩儿。实际上据我观察，这些人就算日子舒坦了也没那个能力，更没那种欲望。真正能创新的人都是从没钱就开始玩儿一直玩儿到有钱 #别给自己那点可怜的生命质感找借口了</p>
-<p>@linyujing：看到肉唐僧说女实习生收到那样的短信，还跟着去了酒店开房，然后说自己被强奸了，感觉中国男性的尊重女性意识比世界其它地区落后总有一百年吧，这么说吧，在HK找性工作者如果给了假钱或者不给钱，都算强奸。一夜情做的不舒服，女的也可以告男方强奸，只要她不愿意，让停下来不停，都算强奸。</p>
-<p>@扬卡洛夫：刚从我妈的朋友圈看的，说中央已经决定了，藏民不能支持德国。</p>
-<p>@iJoy：依恋学说有一个实验。父亲坐在街心公园，任由婴儿在其周围走动爬行。全神贯注自己事情的父亲，孩子行动范围最小。父亲一直注视着孩子时，孩子的行动范围最远。也最有安全感。幼年没有安全感的孩子，20%的精力要用于寻找父母，所以智力会降低。安全感强的，哪怕登月，也总觉得有一双眼睛注视着他。</p>
-<p>@勺布斯：北京的交通，大概就是你下午4点约了人，在车上临到时间一看路况，堵得够吃顿火锅再走的。心里急，觉得对不起人家。刚想发信息道歉，那边电话就打来了，听语气就特别着急：对不起了哥们，还在三里屯这堵着呢，一会儿我买单！…………于是我定了定神长吁口气，没事儿这都能理解，慢慢来不着急。</p>
-<p>@nuanxiaotuan：如果一个三十岁的男的能不臭烘烘不脏兮兮，不穿安踏配森马，不穷成狗，不口臭，不人前说黄色段子，不把牛逼吹得呜呜响，不弄个大油头，不自以为幽默，不大男子主义，不把胸大作为鉴定美女的标志，他就有脸要求要找个好看点儿的姑娘。</p>
-<p>@怕妻青年柳驰驰：女人的时间观念真是太难懂了。去年答应我老婆，送她一件礼物，结果半个月后我才想起来买。她不满地看着我说：答应的事拖那么久，你这种男人就是不可靠！今年，她说要送我一件礼物，结果拖了一个月才买。我质问她，她却反过来批评我：你看我们女人多可靠，答应给你买礼物，时间拖得再久都不会忘记。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-3/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC-%E9%99%88%E8%8D%9F%E6%A5%A0%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%A5%96%E5%9B%BD%E4%BD%A0%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E6%98%AF%E9%94%99%E5%9C%A8/" target="cdt-mirror">墙外楼 | 陈荟楠：“没有祖国你什么都不是”错在哪？</a>
-</h2>
-<p><p>导语：今天上午，我在朋友圈转发了王思想的一篇博文《没有我，祖国什么都不是！》，结果有朋友在后面留言，表示很不同意此文的观点。一个朋友说要我“看看欧洲难民再想想这个狗屁文章”，“没有祖国个人狗屁都不是”。另一个朋友说：“写这个文章的人为什么不去利比亚体验下没有祖国的生活？”说的都是同一个问题。我写了一篇文章作为回应，并在文后附上王思想的文章，请感兴趣的朋友一阅。此文其实还有很多话没有说清楚，也没有分析为什么中东、利比亚的人们流离失所，但我想真看懂此文的人，也许能自己去分析这些问题的。以后有机会也许可以再聊聊。</p>
-<p><strong>“没有祖国你什么都不是”错在哪？</strong></p>
-<p>陈荟楠</p>
-<p>某某，你对那篇文章的观感，只能说明你看问题比较表面，提出的问题也比较表面。“看看欧洲的难民”，首先，这个表述就有问题。哪里的难民？是中东的难民，涌入了欧洲。为什么中东会有难民？某些人会说是因为西方的干涉导致的，但我希望你不要这样认为。这样回答也非常肤浅。当然，我今天不想讨论这个问题。还是讨论我们的正题。</p>
-<p>表面上看，这些难民是因为缺乏了国家的保护，才沦为难民的。因而你轻而易举地得出“没有祖国你什么都不是”的结论，但这只看到了逻辑的最后一环。</p>
-<p>自由主义、个人主义并不是无政府主义，从洛克开始，就承认国家存在的必要。国家之所以应该存在，就是因为没有国家，人和人之间的斗争很难平息，因而个人权利也不能得到保护。因此，每个人让渡出一部分权利，建立国家，保护人们的权利。</p>
-<p>从国家诞生的过程来看，就知道国家本身并不是目的，只是手段，它是保护个人权利的工具。是先有个人才有国家，而不是先有国家才有个人。</p>
-<p>在人类历史上，遗憾的是，大多数时候国家并未很好的履行保护个人权利的责任。国家机器被少数人所控制，用来镇压和剥削人民。虽然国家在内部维持了一定程度上的和平，也有它的好处。但它对个人权利的侵犯却往往使他它走向人们建立国家的初衷的对立面（当然，这里也有一个程度的问题）。如果国家对个人权利的侵犯达到了一定的程度，那么，人民推翻它就有必要了。</p>
-<p>“没有祖国你什么都不是”，就错在了颠倒了个人与国家的关系。国家是为个人存在的，个人不是为国家存在的。没有国家，个人可以组建国家（就像当年的美国，先是开拓者自发创建了一个个的殖民地，后来英国政府才派来官员管理，但当大家发现英国并未保护他们的利益反而压迫他们时，他们居然起来斗争，抛弃了他们的“祖国”，建立了新的“祖国”）；没有个人，就根本不可能有国家。</p>
-<p>“没有祖国你什么都不是”，还错在先入为主的设立一个前提，那就是所有国家都是好的，都能保护我们。但这明显是不成立的前提。当年，爱因斯坦逃离了他的祖国，索尔仁尼琴被驱逐出他的祖国，此时的祖国扮演了什么角色呢？在那些想尽办法也要翻越柏林墙的东德人、冒死也要偷渡到香港的六七十年代的中国人、还有如今拼了命也要逃跑的朝鲜人，他们的祖国在哪里呢？对于那些受到祖国保护的人来说，说一句“没有祖国你什么都不是”当然可以理解，但如果那些遭受祖国迫害的人，也说出这样的话，那不是神经错乱吗？</p>
-<p>“没有祖国你什么都不是”，错在不能历史地看问题。祖国是什么？如果是指生我养我的这片土地（matherland），那它或许是对的。因为人不能离开土地，也就是不能离开具体的自然环境而存在。但如果从这个意义上讲，哪儿才是我们的祖国？地球才是！我们只是凑巧生在了地球的某个角落。你生在湖北，我生在湖南；你生在中国，他生在美国。这些都不过是地点的不同。是否就因为生在哪里就要爱哪里呢？肯定不是的，哪里能给我更好的生活，我会更爱哪里。（一般来说，出生地对每个人有着重要意义，大家对它的感情会更为深厚，但并没有一个确定的理由要求我们一定要爱出生地，而如果我们移民到一个更好的地方，在那里生活了更长的时间，我们完全有理由更爱这个地方）而我会爱我们共同的祖国“地球”，因为没有它，就肯定不会有我。</p>
-<p>而现在说“没有祖国你什么都不是”的人，他的意思肯定不是我上面的意思。他指的就是国家，就是政府。但如果历史地看，国家是从来就有的吗？国家不会改变吗？当然不是，国家一直在变，有的国家诞生了，有的国家灭亡了，有的国家虽然名字还是那个名字，但并不是原来的国家。请问，我们说的祖国，究竟是秦时的祖国，还是唐时的祖国？你爱的，是大明，还是大清？都不是吧！你说是现在的祖国，可现在的祖国也天天在变化。从长远的时间段看，它也不过跟大清大明一样，只是一个历史的存在。不仅国家如此，人类也如此，地球也如此，没有什么东西是永恒的。</p>
-<p>你可以爱国，但不能强迫所有的人都爱国。就有理性的人来看，我们爱不爱国，还要看这个国家爱不爱我们。一个个人权利得到充分保护的国家，它的公民当然会发自内心地爱它；相反，个人权利遭到践踏的国家，配不上人民的爱。</p>
-<p>也许下面这个故事很能给人一些启发。1945年5月2日，德国投降的前一晚，被纳粹法庭以叛国罪判处死刑的马克·尼姆被德军枪杀。按照他的遗愿，人们在他墓碑上写下这样一行字：“当你的祖国被独裁所统治，‘叛国罪’是对你最荣耀的评判。”</p>
-<p>“哪里有自由，哪里就是我的祖国。”这句话比“没有祖国你什么都不是”包含了更多的真理。当年在北美登陆的受迫害的清教徒，将他们的“祖国”抛在了脑后，并不妨碍他们创建属于自己的“祖国”。而今天中东的难民，不也一样离开了那个不适合居住的“祖国”，到了一个若干年之后他们也会称之为“祖国”的地方吗（如果他们能够长期留下来的话）？</p>
-<p>附文：</p>
-<p><strong>没有我，祖国什么都不是！——我的个人主义宣言</strong></p>
-<p>王思想/文</p>
-<p>如今的媒体，一点不长进，骗人的水平跟不上时代的步伐。现在都网络时代了，骗人的水平还停留在几十年前，发的那些文章丢脸丢到屁股缝里了。或者换个思路，也许真如环球某报胡**私下里所说，他是故意玩无间道，他其实是卧底？</p>
-<p>最近，某报刊发《没有祖国你什么都不是》，可谓奇文。</p>
-<p>一如既往，该文署的是笔名。中国许多臭名昭著的文章，都是以笔名的面目出现，或者，作者想为自己保留一丝暗地里的尊严？别拿鲁迅当借口，鲁迅是笔名，但大家都知道鲁迅是谁，而当年那些“梁效”的文章，谁敢承认是自己写的。就连余秋雨先生，这位文革干将，也要把自己打扮成文革受害者呢。</p>
-<p>从2006年刚写博客起，我就反复写文章批判爱国主义。当时不被多数人理解，如今，从博客和微博的反应来看，骂我的人越来越少了。越来越多的人看透了爱国主义破布下面的肮脏欺骗。</p>
-<p>关于爱国主义，我简单说一下我的一贯观点：民族扯淡，国家更扯淡，民生最重要。祖国，多少罪恶假汝之名！没有人哪有国，自由至上，人权比主权重要1万倍，民主比反日重要1万倍。反日分子是脑残。祖国没有生日。</p>
-<p>仅仅批判爱国主义是不够的，人民需要更进一步的提升，现在，时机已经成熟，我们需要响亮地提出一个口号：【没有我，祖国什么都不是！】这是我作为个人主义者发出的一次个人宣言。</p>
-<p>过去，人民没有话语权，只能接受单方面灌输，那些灌输者试图让人们信箱，自由主义就是自由散漫，个人主义就是自私自利，沾他人便宜。现在，21世纪，互联网时代，人们不想再受愚弄。我们必须结束自由主义、个人主义被那些集体主义分子极端妖魔化的状况。</p>
-<p>以胡适先生为旗手建立的现代中国自由主义，历经苦难，仍然顽强生存。现在，中国大陆自由主义以刘军宁先生为旗手，自由主义思潮被越来越多的知识阶层所认识，并接受。而作为自由主义的基础，个人主义这个概念尚未被多数人理解接受。被皇权和现当代专制打压了几千年的个人主义也要在这片苦难的土地上生长。我们必须发出旗帜鲜明的呐喊。</p>
-<p>自由主义和个人主义的核心价值观其实一样，都是强调自由选择权。而他们的对立面，集体主义、爱国主义，强调的是服从，让个体去奉献、牺牲，以便当权者享受他人奉献、牺牲后的利益。可以说，集体主义和爱国主义是非常卑鄙的。</p>
-<p>我们要揭穿《没有祖国你什么都不是》这种文章背后的阴暗用意。我们要让人们知道：祖国所处的山川已经矗立几万几十万年，河流一直流淌，朝代陆续灭亡，朝廷如同云烟，统治者奉天承运难逃灭亡。而所谓祖国的建设成就，所谓光辉灿烂的文化，是这片土地上的人民创造的，有很多文化成果干脆就是生长在另一块土地上的人民，即所谓外国人，是他们传来的，我们感谢他们。中外人民共同创造了人类的文明，很多已经分不清是哪个国家的人民创造的，都是人类文明，少跟我扯什么祖国。</p>
-<p>【多数人的祖国早就灭亡了】欧洲国界变化了多少次，历史学家都数不过来；中国国界变化了多少次？13亿人，祖国至少几百个：齐楚燕赵魏韩，秦，汉，匈奴，唐，突厥，宋，契丹，辽，金，蒙元，鞑靼，后金……</p>
-<p>祖国灭亡了，灭就灭吧。旧的不去，新的不来。我们为旧祖国的灭亡欢呼。我们关心的人是人类的生存，甚至生物界的生存，对大自然的感恩与保护。至于某些人口中的祖国，见鬼去吧。</p>
-<p>流氓学者将个人主义等同于利己主义。事实却是，个人主义与利己主义的交集，远小于爱国主义和集体主义与利己主义的交集。想想我们遭受的欺骗，想想那些悲惨的历史。如果我们今天还被骗子所欺骗，我们就太蠢了。那些叫嚣集体主义、爱国主义最卖力的人，就是那些骑在我们头上压榨、掠夺我们的人。</p>
-<p>个人主义的对立面，是集体主义、爱国主义，这种对立面还不是完全的敌我关系。个人主义的敌人，是法西斯主义。某些人一边妖魔化个人主义，一边偷换法西斯主义概念。一些被他们洗脑的人甚至以为打人骂人就是法西斯主义。请问天下哪可能有这么弱智的主义？可大家多少年来竟然就相信了。</p>
-<p>【99%中国人不知道：什么是“法西斯主义”】 法西斯主义强调国家优先，以爱国主义和集体主义压制个人自由，要求人民服从某党或政府，最典型口号是两个：一是“个人服从集体，集体服从领袖”，一是“团结就是力量”。团结就是力量，多么熟悉的字眼。文革时候流行一首歌曲，就叫《团结就是力量》，曲调声嘶力竭，歌词更是变态，里面有句歌词是“向着法西斯蒂开火，让一切不民主的制度死亡”——太分裂，太变态了。</p>
-<p>某些机构总试图玩弄《没有***就没有***》的花招，即便在今天换个新说法，也一样被人识破。</p>
-<p>集体主义、爱国主义对我都不重要，“但是，没有你，对我很重要”，姜文的《让子弹飞》是一部可以载入史册的电影。</p>
-<p>请不要以祖国的名义强拆公民的房屋，请不要以祖国的名义不许公民说话，请不要以祖国的名义强奸公民的意愿，请不要以祖国的名义限制公民的自由，请不要《没有祖国你们什么都不是》来侮辱我们。</p>
-<p>没有人民，祖国什么都不是，统治者更是什么都不是。对于我们每个个体来说，没有我，祖国什么都不是。我们可以尊重国家主权，国家必须尊重人权。注意，一个是可以，另一个必须。人权的分量大大高于主权，永远高于主权。</p>
-<p>你有权爱国，我尊重你的权利。但你如果拿爱国主义来诱骗我，你就是流氓。</p>
-<p>我有权不爱国，这是天赋人权，谁也无权干涉我。</p>
-<p>当个人主义被人们理解的时候，中国人民就能迎来正常的、幸福的生活。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC-%E9%99%88%E8%8D%9F%E6%A5%A0%EF%BC%9A%E6%B2%A1%E6%9C%89%E7%A5%96%E5%9B%BD%E4%BD%A0%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E6%98%AF%E9%94%99%E5%9C%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">个人主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">国家主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%99%E5%A4%96%E6%A5%BC/?category=18271" rel="tag">墙外楼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">自由主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%99%88%E8%8D%9F%E6%A5%A0/?category=18271" rel="tag">陈荟楠</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -780,7 +750,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -790,5 +760,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AA%E4%BA%BA
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

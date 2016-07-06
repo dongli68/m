@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,319 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8C%97%E4%BA%AC%E4%B8%8E%E5%8D%97%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BB%B2%E8%A3%81%E5%BA%AD%E7%9A%84%E6%90%8F%E6%96%97/" target="cdt-mirror">美国之音｜北京与南中国海仲裁庭的搏斗</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard13_220.jpg?resize=549%2C309" alt="Clipboard13_220" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard13_220.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard13_220.jpg?resize=300%2C169 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>中国海军的演习（资料图）</p>
+<p>在海牙的常设仲裁法院仲裁庭根据《联合国海洋法公约》就菲律宾根据诉中国的仲裁案的裁决即将于7月12日做出。</p>
+<p>在国际社会的密切关注之下，中国政府采取了双管齐下的应对措施，一方面在南中国海高调举行军事演习，宣示主权；另一方面对内对外反复高调声称仲裁庭对本案及有关事项无管辖权，不应进行审理并做出裁决，中国也不会接受其裁决。</p>
+<p>6月29日，中国外交部发言人洪磊通过外交部网站发表书面谈话，再度详细申明“菲律宾单方面提起南海仲裁案违反国际法。”</p>
+<p>然而，常设仲裁法院菲律宾诉中国仲裁庭再此之前已经列举详细的国际法和法理依据，裁定菲律宾2013年1月22日就在南中国海（即菲律宾所说的西菲律宾海）与中国的争议提起仲裁完全符合国际法，符合《联合国海洋法公约》。</p>
+<p>鉴于中国公众只能通过中国官方媒体看到中国政府的意见，看不到仲裁庭的意见，不少人以为仲裁庭理屈词穷，无言以对。</p>
+<p>其实，迄今为止，仲裁庭已经就菲律宾诉中国案做出了10次新闻发布和多次裁决。</p>
+<p>由于中国当局对包括互联网在内的中国媒体实行严密的言论和新闻报道管制，大多数中国公众无缘知晓仲裁庭究竟做出了什么裁决，仲裁庭裁决所依据的法律和法理是什么。</p>
+<p>从菲律宾就中国在南中国海的行为向常设仲裁法院提出仲裁请求的一开始，中国就立即表示，常设仲裁法院仲裁庭对有关案件没有管辖权；中国不参加仲裁。</p>
+<p>2016年6月29日，中国外交部发言人洪磊通过外交部网站发表书面谈话，再度表示强烈反对仲裁庭进行仲裁，并再度明确列出中国所认为“菲律宾单方面提起南海仲裁案违反国际法”的四条详细理由：</p>
+<p>第一，中菲通过一系列双边文件和《南海各方行为宣言》早已就通过双边谈判解决南海有关争议达成协议，《联合国海洋法公约》（以下简称《公约》）规定的仲裁程序不适用中菲南海有关争议。</p>
+<p>第二，菲律宾提请仲裁事项的实质是南海部分岛礁的领土主权问题，不在《公约》的调整范围内，更不涉及《公约》的解释或适用。</p>
+<p>第三，菲律宾提请仲裁事项构成中菲两国海域划界问题不可分割的组成部分，而中国已根据《公约》第298条的规定于2006年做出声明，将涉及海域划界等事项的争端排除适用仲裁等强制争端解决程序。</p>
+<p>第四，菲律宾无视中菲从未就其所提仲裁事项进行任何谈判的事实，偷换概念，虚构争端，未履行《公约》第283条就争端解决方式交换意见的义务。</p>
+<p>洪磊说：“仲裁庭建立在菲律宾非法行为和诉求基础上，对有关事项不具有管辖权。”注1 中国政府先前也反复表示，菲律宾就在南中国海与中国的海洋权益争端提出的仲裁案违反国际法。</p>
+<p>然而，菲律宾诉中国仲裁案的海牙仲裁庭已经就此做出裁决，判定菲律宾提起仲裁没有任何违法可言。仲裁庭2015年10月29日的裁决说，仲裁庭“不接受中国立场文件中提出的双方争端实质上为被中国 2006 年声明所排除出仲裁庭管辖权之外的海洋划界问题的观点。相反，仲裁庭裁定菲律宾的每一项诉求反映了两国之间关于《公约》解释和适用的争端。”注2</p>
+<p>针对中国政府先前提出的、并且在6月29日重申的以中国和东南亚国家联盟（东盟）在2002年达成《南海各方行为宣言》协议为理由排除仲裁庭管辖权的立场，仲裁庭在2015年10月29日做出的裁决是：</p>
+<p>“关于《公约》规定的仲裁庭行使管辖权的先决条件，仲裁庭不接受中国立场文件中提出的关于 2002 年中国-东盟《南海各方行为宣言》构成将涉及南海的争端限定仅通过协商解决的协议的观点。相反，仲裁庭裁定中国-东盟宣言为一项不存在使之具有法律约束力的意向的政治性文件，因此与《公约》中关于给予双方同意的纠纷解决方式优先效力的规定不具有相关性。” 注3</p>
+<p>针对中国政府所说的仲裁庭无权就主权争议问题进行仲裁的说法，仲裁庭2015年10月29日回驳：“仲裁庭表示双方确实存在关于岛屿的主权争端，但是裁决被菲律宾提交仲裁的事项并不涉及主权。”注4</p>
+<p>针对中国政府先前做出的并且在2016年6月29日重提的菲律宾未履行《公约》第283条就争端解决方式交换意见的义务的指责，仲裁庭2015年10月29日回驳：“对于就纠纷解决交换意见，仲裁庭裁决 283 条要求争端双方就争端解决方式交换意见，而非就争端的实体问题交换意见。仲裁庭裁决这一要求已经被菲律宾与中国的外交通信记录所满足。” 注5</p>
+<p>在另一方面，在中国新闻报道管制之下，中国公众也难以获悉菲律宾的意见。中国官方以及官方控制的媒体将菲律宾诉中国的举措描绘为无理取闹，但常设仲裁法院所发表的菲律宾的观点则显示，菲律宾曾经力图跟中国说理：</p>
+<p>“菲律宾提出在这些（菲中争议的）岛礁中只有小部分在水面之上，并主张没有根据认为它们可以维持人类居住。…因此，菲律宾主张即使中国对其在南中国海主张的所有岛礁具有主权，仍然没有任何一个岛礁可以产生超过12海里的领海，并且中国没有依据主张与菲律宾重合的专属经济区。因此，菲律宾主张，没有任何关于海洋权利重合的争端会限制仲裁庭的管辖权。”注6</p>
+<p>迄今为止，中国方面没有对菲律宾的上述观点做出反驳。</p>
+<p>菲律宾诉中国仲裁案仲裁庭由5名仲裁员组成，并由加纳籍法官托马斯·门萨（Thomas A. Mensah）担任首席仲裁员。仲裁庭的其他成员是法国籍法官让-皮埃尔·考特（Jean-Pierre Cot）、波兰籍法官斯坦尼斯罗·波拉克（Stanislaw Pawlak）、荷兰籍教授阿尔弗莱德·桑斯（Alfred Soons）和德国籍法官卢狄戈尔·沃夫兰姆（Rüdiger Wolfrum）。常设仲裁法院担任该案的书记官处。</p>
+<p>常设仲裁法院是根据一届海牙和平会议的建议在1899年建立的政府间国际组织，是世界上历史最为悠久的国际争端解决机构，其宗旨是为国际社会提供多种纠纷解决服务。</p>
+<p>常设仲裁法院跟国际法庭（The International Court of Justice）不是一回事。常设仲裁法院并不是一个一般的“法院”，而是一个政府间国际组织，目前有121个成员国，中国是其中之一。</p>
+<p>常设仲裁法院没有执行其裁决的强制力，但全世界绝大多数国家接受其仲裁。</p>
+<p>截至目前，菲律宾诉中国仲裁案仲裁庭已经做出的裁决的正式文本都是英文本和法文本。其网址分别是： https://www.pcacases.com/web/sendAttach/1503;</p>
+<p>https://www.pcacases.com/web/sendAttach/1504 。</p>
+<p>常设仲裁法院网站所发表的、以及本报道所引用的裁决中文本都是非正式（非官方）中文本。其网址是： https://www.pcacases.com/web/sendAttach/1505 。</p>
+<p>注释：</p>
+<p>注1 洪磊书面谈话的有关段落的全文是：“仲裁庭建立在菲律宾非法行为和诉求基础上，对有关事项不具有管辖权仲裁庭不顾中菲已选择通过谈判协商方式解决争端的事实，无视菲律宾所提仲裁事项的实质是领土主权问题的事实，规避中方根据《公约》规定做出的排除性声明，自行扩权和越权，强行对有关事项进行审理，损害缔约国享有的自主选择争端解决方式的权利，破坏《公约》争端解决体系的完整性。”</p>
+<p>注2 仲裁庭相关裁决的段落更为完整的译文是：“中国和菲律宾均为《（联合国海洋法）公约》的缔约国，需遵守《公约》关于争端解决的规定，并且仲裁庭裁定中国不参与这些程序的决定不会剥夺仲裁庭的管辖权，菲律宾单方面提起仲裁的决定不构成对《公约》争端解决程序的滥用。在审议了菲律宾提出的请求之后，仲裁庭不接受中国立场文件中提出的双方争端实质上为仲裁庭管辖权以外的南海岛屿主权争端的观点。仲裁庭同样不接受中国立场文件中提出的双方争端实质上为被中国 2006 年声明所排除出仲裁庭管辖权之外的海洋划界问题的观点。相反，仲裁庭裁定菲律宾的每一项诉求反映了两国之间关于《公约》解释和适用的争端。…”</p>
+<p>注3 仲裁庭相关裁决的段落更为完整的译文是：“关于《公约》规定的仲裁庭行使管辖权的先决条件，仲裁庭不接受中国立场文件中提出的关于 2002 年中国-东盟《南海各方行为宣言》构成将涉及南海的争端限定仅通过协商解决的协议的观点。相反，仲裁庭裁定中国-东盟宣言为一项不存在使之具有法律约束力的意向的政治性文件，因此与《公约》中关于给予双方同意的纠纷解决方式优先效力的规定不具有相关性。仲裁庭同样裁定中国与菲律宾的某些其它协议和联合声明不排除菲律宾寻求通过《公约》解决与中国争端的做法。仲裁庭进一步裁定菲律宾满足了《公约》关于双方就纠纷解决交换意见的要求，并且菲律宾已经尝试在《公约》和一般国际法要求的范围内寻求与中国协商。”</p>
+<p>注4 仲裁庭相关裁决的段落更为完整的译文是：“仲裁庭表示双方确实存在关于岛屿的主权争端，但是裁决被菲律宾提交仲裁的事项并不涉及主权。”仲裁庭考虑到可以预料菲律宾和中国将在众多事项上存在争 端，并且表示对于菲律宾所提请求的裁决不会要求仲裁庭明示或者暗示地对主权问题做出裁决，并且不会对菲律宾在主权问题上的立场产生有利影响。仲裁庭同时强调，菲律宾请求仲裁庭不对南中国海岛屿的主权做出裁定。”</p>
+<p>注5 仲裁庭相关裁决的段落更为完整的译文是：“ 对于就纠纷解决交换意见，仲裁庭裁决 283 条要求争端双方就争端解决方式交换意见，而非就争端的实体问题交换意见。仲裁庭裁决这一要求已经被菲律宾与中国的外交通信记录所满足。” 注5在这些外交通信中，菲律宾明确表示对包括其他南中国海周边国家在内的多边谈判的偏好，而中国坚持仅仅考虑双边对话。仲裁庭同样审议了在独立于 283 条的情况下，菲律宾是否有义务在提起仲裁前寻求协商解决争端。对此，仲裁庭裁决，菲律宾已经寻求与中国协商，并且表示已经被广泛接受的国际法并不要求一个国家在得出协商解决争端的可能性已经用尽的情况下继续进行协商。”</p>
+<p>注6仲裁庭所展示的菲律宾观点陈述的更为完整的非正式中文译文是：“根据菲方观点，中国的权利主张没有根据，因为（a）《公约》全面阐述了对海洋资源的权利范围并替代了中国可能曾经拥有的任何历史性权利，以及（b）中国在南中国海从未拥有历史性权利。菲律宾主张，国际法从未接受过对大面积海域的概括性权利主张，并且自17世纪早期开始即承认国家仅对沿海狭窄海域拥有控制权。根据菲方观点，《公约》具有全面性，因此整个南中国海海域受《公约》所设定机制的管辖。在《公约》有意保留其它权利的情况下，其以明文做出规定，但《公约》中并无规定认可中国所主张的权利范围。无论如何，菲律宾主张中国没有历史性权利。菲律宾认为在二十世纪早期之前中国主张其领土范围最南不超过海南，中国对南中国海岛屿的主权主张仅始于二十世纪三十年代。另外，根据菲律宾观点，中国对南中国海海域的历史性权利的主张更加晚近，最早于2009年提出。其他沿海国家并未默认这一主张。菲律宾认为任何历史性权利的形成都是没有根据的。</p>
+<p>“菲律宾律师接下来阐述了南中国海岛礁的地位。菲律宾认为，美济礁、仁爱礁、渚碧礁、南薰礁、以及西门礁(包括东门礁)均为低潮高地，意味着它们仅在低潮时露出水面，但在高潮时被水淹没。根据《公约》的规定，低潮高地并不能产生独立的海洋权利。菲律宾提出了若干水文证据，包括卫星图片，以及关于各岛礁的卫星水深测量信息。根据菲律宾观点，黄岩岛、赤瓜礁、华阳礁和永暑礁为《公约》规定下的“岩礁”。根据《公约》规定，“岩礁”为“不能维持人类居住或其本身的经济生活”的岛屿，可以产生12海里领海，但是不能产生200海里的专属经济区或者大陆架。菲律宾提出在这些岛礁中只有小部分在水面之上，并主张没有根据认为他们可以维持人类居住。最后，菲律宾阐述了其对南中国海稍大岛礁的观点，包括中国有权利主张（但是目前并未被中国占领）的太平岛、中业岛和西月岛。菲律宾认为这些岛礁最多构成《公约》下的“岩礁”。菲律宾阐述了这些岛礁的情况和环境，并主张没有任何一个岛礁曾经维持非军事人群的生活。因此，菲律宾主张即使中国对其在南中国海主张的所有岛礁具有主权，仍然没有任何一个岛礁可以产生超过12海里的领海，并且中国没有依据主张与菲律宾重合的专属经济区。因此，菲律宾主张，没有任何关于海洋权利重合的争端会限制仲裁庭的管辖权。</p>
+<p>“菲律宾律师接下来阐述了其认为中国在南海违反了《公约》的行为。根据菲律宾的观点，中国阻碍了菲律宾进行石油储量调查并且阻碍了菲律宾船只在只有菲律宾对海洋资源具有主权权利的海域进行捕鱼活动。菲律宾认为中国未尽到阻止其国民开采菲律宾具有主权权利的资源的义务，并且未尽到在黄岩岛尊重传统渔业权利的义务。基于中国放任在其控制地区捕获濒危物种以及使用破坏性捕鱼方法，如爆炸物和氰化物的行为，以及中国在美济礁建设行为的破坏性，菲律宾还主张中国未尽到保全和保护海洋环境的义务。最后，菲律宾主张中国违反《公约》的规定以危险方法操作其执法船只，以及在仲裁程序进行过程中采取如下行动加剧了双方的争端：首先，试图切断对一支驻扎在仁爱礁的菲律宾海军部队的补给；其次，在去年采取了大范围的填海活动，在其所控制的几乎所有岛礁附近建设人工岛屿。同时，菲律宾阐述了其在关于管辖权和可受理性问题的庭审中已经提出的论点，即中国的行为不属于《公约》规定的关于军事行动的排除性例外。”</p>
+<p>参见 https://www.pcacases.com/web/sendAttach/1540</p>
+<p>关键词: 南中国海 仲裁 中国演习 栏目: 时事见解 首页重点发表: Flash</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8C%97%E4%BA%AC%E4%B8%8E%E5%8D%97%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BB%B2%E8%A3%81%E5%BA%AD%E7%9A%84%E6%90%8F%E6%96%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E5%9B%BD%E9%99%85%E6%B3%95%E5%BA%AD/?category=18271" rel="tag">南海国际法庭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD%E6%B5%B7%E6%B4%8B%E6%B3%95%E5%85%AC%E7%BA%A6/?category=18271" rel="tag">联合国海洋法公约</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8F%B2%E5%BE%8B%E5%AE%BE/?category=18271" rel="tag">菲律宾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E6%B8%AF%E9%80%9A%E6%8A%A5%E6%9C%BA%E5%88%B6%E4%BC%9A%E8%AE%AE-%E4%B8%AD%E6%96%B9%E5%86%8D%E6%95%B0%E6%9E%97%E8%8D%A3%E5%9F%BA%E7%BD%AA%E8%A1%8C/" target="cdt-mirror">自由亚洲｜中港通报机制会议 中方再数林荣基罪行</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmm-fk5UMAA5l-v.jpg?resize=551%2C735" alt="Cmm-fk5UMAA5l-v" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmm-fk5UMAA5l-v.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmm-fk5UMAA5l-v.jpg?resize=225%2C300 225w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmm-gTOUMAAUiCG.jpg?resize=550%2C733" alt="Cmm-gTOUMAAUiCG" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmm-gTOUMAAUiCG.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmm-gTOUMAAUiCG.jpg?resize=225%2C300 225w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>香港铜锣湾书店人员在大陆被扣，引发中港两地通报机制滞后的问题。香港律政司司长袁国强和保安局局长黎栋国，周二(5日)率团到北京，与中方官员开会检讨完善机制。宁波公安局就发新闻稿，指林荣基违反取保候审规定，敦促他返回内地接受调查，否则将依法对他采取刑事强制措施。 （林国立报道）</p>
+<p>铜锣湾书店店长林荣基，星期二早上再和警方会面录口供，合共4小时，但今次不是在湾仔警察总部，改在一处秘密地点会面。陪同他的民主党立法会议员涂谨申对本台表示，今次的安排是基于安全考虑。</p>
+<p>涂谨申说:不是在警察总部，一个大家同意的地点，比较安全一些，我不是说在警察总部不安全，不过离开警察总部，让人知道他在那里，再去安全地点就比较难，我们大家就同意在安全地方，另一些地方没有人知道的，就不会影响他离开录口供地点，回去安全地方，操作上就较容易。</p>
+<p>宁波市公安局下午发出”林荣基案通报稿”，指公安局去年发现，有人向宁波地区非法销售境外书籍，在九月成立专案组调查，并在十月在深圳及东莞拘捕林荣基等相关人士，由宁波市公安局监视居住。</p>
+<p>通报稿指，林荣基以伪装封面等手法，将书由香港直接寄给顾客，或先寄给内地一个姓胡的人，再转寄出去，总共有368单，涉及超过40万元人民币，涉嫌犯非法经营罪。到今年三月，解除林荣基的监视居住，取保候审。到6月2日，林荣基提出返港处理个人事宜，保证遵守取保候审的相关规定，故同意他回港。</p>
+<p>但林荣基返港后公开表示不会返内地，公安机构无法联络他，指他违反取保候审的规定，敦促他返回内地接受调查，否则将依法对他，采取刑事强制措施。</p>
+<p>于宁波公安的说法，涂谨申指，所谓刑事强制措施不适用于香港人，指这样说形同威胁。</p>
+<p>涂谨申说:它这样说似乎有威胁性或威吓性，内地公安局，它可以呼吁一个他们认为一个要和他们合作或接受调查的人，这呼吁不要紧，但要强制措施，好像有威吓性，因为香港和内地是没有，引渡或移送协议，如果你这样说，令人联想你是否想强来。</p>
+<p>到北京磋商检讨通报机制的律政司司长袁国强，以及保安局局长黎栋国，与公安部部长郭声琨会面中。亦公开林荣基的审讯片段，和林荣基在内地女友的声带，指是林荣基欺骗她协助寄书到内地。</p>
+<p>律政司司长就在会上反映港人的关注。</p>
+<p>袁国强说:在香港我相信你也非常清楚，就是林荣基先生与其他人的案件，在香港是引起了很大的关注。</p>
+<p>公安部长郭声琨表示，今次磋商是很好的检讨，有助两地往前推进。他指通报机制2001年实施以来，运行良好，会继续按照一国两制，维护港人治港，高度自治政策。</p>
+<p>公安部副部长陈智敏表示，中央高度重视通报机制。</p>
+<p>陈智敏说: (中央)对通报机制磋商是高度重视的。我们很快的组成了公安部、最高人民检察院、国家安全部和港澳办共同组成内地代表团，来磋商这个问题。</p>
+<p>双方代表团在会上同意，循通报时限、内容、范围以及渠道等方面，修改和完善通报机制。</p>
+<p>代表团将会在星期二晚上返港，星期三召开记者会交代情况。</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E6%B8%AF%E9%80%9A%E6%8A%A5%E6%9C%BA%E5%88%B6%E4%BC%9A%E8%AE%AE-%E4%B8%AD%E6%96%B9%E5%86%8D%E6%95%B0%E6%9E%97%E8%8D%A3%E5%9F%BA%E7%BD%AA%E8%A1%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B8%B8%E6%88%8F%E6%97%A5%E6%8A%A5-2016cj%E5%8F%82%E5%B1%95showgirl%E7%9D%80%E8%A3%85%E8%A7%84%E5%AE%9A%E5%87%BA%E7%82%89%EF%BC%88%E9%99%84%E5%9B%BE%EF%BC%89/" target="cdt-mirror">游戏日报 | 2016CJ参展Showgirl着装规定出炉（附图）</a>
+</h2>
+<p><p>关于ShowGirl“事业线”的话题每年层出不穷。去年ChinaJoy对ShowGirl着装管理之严，在国内外游戏圈内乃至国内整个社会，都引起了不小的波澜。去年的2cm新规更是让全国各地的展友不淡定了，纷纷表示“干脆穿上只露眼睛的女侠装算了”。</p>
+<p>（2cm新规：要求女模事业线露出超过2CM，除事业线外胸部其他部分裸露罚款5000元；女模下装要不穿到骨盆以下，低腰下装低于脐下2CM即露出胯骨即骨盆位置，短裙或短裤下摆高于臀下线罚款5000元。）</p>
+<p>而到今年，除了去年“女模胸部必须由不透明、不透视材质全覆盖外，女模下装腰部必须穿到骨盆以上，且不得低于脐下即不得露出肚脐，短裙或短裤下摆不得高于臀下线即不得露出臀线。”等规定外，还增加了不得在模特敏感部位张贴、印制或展示产品及形象；不得在模特敏感部位张贴、印制或展示产品及形象等规定。</p>
+<p><strong>以下是《ChinaJoy2016BTC 展区 SG 及现场展示人员服装要求》：</strong></p>
+<p>1.SG 及现场展示人员必须由指定经纪公司提供。</p>
+<p>2.须在 2016 年 6 月 18 日-7 月 8 日期间将确定的服装照片提供给组委会指定经纪公司提报审核，现场服装效果将以审核过的试装照效果为准，一经确认不得更改；若在展会现场巡查过程中，监管公司或组委会发现现场服装效果与试装着效果不符，监管公司有权认为展商违规，拍照并作为事后处罚依据。</p>
+<p>3. 服装要求：</p>
+<p>3.1 不得私自修改已经审核过的服装</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/215046b3c5e278d2529ada5fa2a80051.jpg?resize=504%2C266" alt="215046b3c5e278d2529ada5fa2a80051" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/215046b3c5e278d2529ada5fa2a80051.jpg?w=504 504w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/215046b3c5e278d2529ada5fa2a80051.jpg?resize=300%2C158 300w" sizes="(max-width: 504px) 100vw, 504px" data-recalc-dims="1"></p>
+<p>上图左侧服装为审核过服装，右侧则为SG私自修改的服装，请注意黄框区域，肩带已经改变，属于违规</p>
+<p>3.2服装必须合体，过于宽松或过紧，或穿着效果有别于试装照片的服装都是不允许的；</p>
+<p>3.3服装不能过透过露，不能看到内衣或内裤；(违规图片示例如下图）</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/edeabfde11b58fc3bf0d8916ceb34332.png?resize=480%2C242" alt="edeabfde11b58fc3bf0d8916ceb34332" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/edeabfde11b58fc3bf0d8916ceb34332.png?w=480 480w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/edeabfde11b58fc3bf0d8916ceb34332.png?resize=300%2C151 300w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"></p>
+<p>3.4 女模不能只穿比基尼及类似内衣的服装或不穿内衣；(违规图片示例如下图）</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f8bc1a7247f4bdfd303ee4480dbf7934.png?resize=342%2C265" alt="f8bc1a7247f4bdfd303ee4480dbf7934" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f8bc1a7247f4bdfd303ee4480dbf7934.png?w=342 342w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f8bc1a7247f4bdfd303ee4480dbf7934.png?resize=300%2C232 300w" sizes="(max-width: 342px) 100vw, 342px" data-recalc-dims="1"></p>
+<p>3.5 上装明确规定，女模背部的裸露部位不能超过上半部的三分之二以上即腰节线以上；(违规图片示例如下图）</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/170411c5525b488b0ed88f1acee8490a.png?resize=165%2C265" alt="170411c5525b488b0ed88f1acee8490a" data-recalc-dims="1"></p>
+<p>3.6 男模将不得裸露上身；(违规图片示例如下图）</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5c1db9987f985187574eb298d13441b3.png?resize=184%2C245" alt="5c1db9987f985187574eb298d13441b3" data-recalc-dims="1"></p>
+<p>3.7 女模胸部必须由不透明、不透视材质全覆盖；(违规图片示例如下图）</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f3620c11cff90be0c74b0f177682aac8.png?resize=423%2C265" alt="f3620c11cff90be0c74b0f177682aac8" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f3620c11cff90be0c74b0f177682aac8.png?w=423 423w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f3620c11cff90be0c74b0f177682aac8.png?resize=300%2C188 300w" sizes="(max-width: 423px) 100vw, 423px" data-recalc-dims="1"></p>
+<p>3.8 女模下装腰部必须穿到骨盆以上，且不得低于脐下即不得露出肚脐，短裙或短裤下摆不得高于臀下线即不得露出臀线；(违规图片示例如下图）</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9bceab46aecfaf0b698aca5c625b3589.png?resize=438%2C265" alt="9bceab46aecfaf0b698aca5c625b3589" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9bceab46aecfaf0b698aca5c625b3589.png?w=438 438w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9bceab46aecfaf0b698aca5c625b3589.png?resize=300%2C182 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9bceab46aecfaf0b698aca5c625b3589.png?resize=80%2C48 80w" sizes="(max-width: 438px) 100vw, 438px" data-recalc-dims="1"></p>
+<p>3.9 男模不得仅穿着三角或四角及类似内衣的服装、紧身裤，且裤腰不得低于胯骨，不得露出人鱼线；(违规图片示例如下图）</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74d81ed245b3453a6a94b08db16881ef.png?resize=135%2C181" alt="74d81ed245b3453a6a94b08db16881ef" data-recalc-dims="1"></p>
+<p>3.10 不得在模特敏感部位张贴、印制或展示产品及形象；(违规图片示例如下图）</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e78c00cf055b38281bc7b5dc20622ba.png?resize=363%2C116" alt="8e78c00cf055b38281bc7b5dc20622ba" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e78c00cf055b38281bc7b5dc20622ba.png?w=363 363w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e78c00cf055b38281bc7b5dc20622ba.png?resize=300%2C96 300w" sizes="(max-width: 363px) 100vw, 363px" data-recalc-dims="1"></p>
+<p>3.11 异性模特之间不得进行过度接触等；(违规图片示例如下图）</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b558f3db1f71437206575b25373fe428.png?resize=351%2C265" alt="b558f3db1f71437206575b25373fe428" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b558f3db1f71437206575b25373fe428.png?w=351 351w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b558f3db1f71437206575b25373fe428.png?resize=300%2C226 300w" sizes="(max-width: 351px) 100vw, 351px" data-recalc-dims="1"></p>
+<p><strong>以下是《ChinaJoy2016BTC展区现场管理规定》原文：</strong></p>
+<p>A、服装规定：</p>
+<p>不得私自修改已经审核过的服装</p>
+<p>服装必须合体，过于宽松或过紧，或穿着效果有别于试装照片的服装都是不允许的；</p>
+<p>服装不能过透过露，不能看到内衣或内裤；</p>
+<p>女模不能只穿比基尼及类似内衣的服装或不穿内衣；</p>
+<p>上装明确规定，女模背部的裸露部位不能超过上半部的三分之二以上即腰节线以上；</p>
+<p>男模将不得裸露上身；</p>
+<p>女模胸部必须由不透明、不透视材质全覆盖；</p>
+<p>女模下装腰部必须穿到骨盆以上，且不得低于脐下即不得露出肚脐，短裙或短裤下摆不得高于臀下线即不得露出臀线；</p>
+<p>男模不得仅穿着三角或四角及类似内衣的服装、紧身裤，且裤腰不得低于胯骨，不得露出人鱼线；</p>
+<p>不得在模特敏感部位张贴、印制或展示产品及形象；</p>
+<p>异性模特之间不得进行过度接触等；</p>
+<p>B、现场活动管理：</p>
+<p>各展商有义务管理好旗下雇佣人员，若出现雇佣公司不作为而产生的违规情况或恶意炒作，一切后果由展商承担，比如雇佣Showgirl私自修改审核过的服装、ShowGirl私自更换表演造型等造成不符合主办方管理规定的行为。</p>
+<p>不得策划表现形式低俗、疯狂的演出/活动或邀请社会反响低俗的“名人”；如钢管舞、将SG置于铁笼中、喂SG胡萝卜或黄瓜等。</p>
+<p>不得策划造成观众聚集通道并有可能引起骚动的言行包括但不限于演出/活动，比如抛洒奖品、出位造型等。</p>
+<p>不得策划赠送如保险套等成人用品或涉及隐私、敏感话题传单及物品的活动环节，更不可将此类物品在展会现场进行展示。</p>
+<p>不允许在公共区域进行举行任何PR活动。</p>
+<p>现场不允许使用自拍杆。</p>
+<p>WMGC和ChinaJoy BTOB馆不允许提供任何表演、活动、Show Girl/boy及COSER雇佣服务。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B8%B8%E6%88%8F%E6%97%A5%E6%8A%A5-2016cj%E5%8F%82%E5%B1%95showgirl%E7%9D%80%E8%A3%85%E8%A7%84%E5%AE%9A%E5%87%BA%E7%82%89%EF%BC%88%E9%99%84%E5%9B%BE%EF%BC%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/china/?category=18271" rel="tag">China</a>, <a href="https://chinadigitaltimes.net/chinese/tag/chinajoy/?category=18271" rel="tag">chinajoy</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cos/?category=18271" rel="tag">COS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E4%B8%9A%E7%BA%BF/?category=18271" rel="tag">事业线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E4%BF%97/?category=18271" rel="tag">低俗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%A0%B8/?category=18271" rel="tag">审核</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F/?category=18271" rel="tag">敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A8%A1%E7%89%B9/?category=18271" rel="tag">模特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E7%90%86/?category=18271" rel="tag">管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E8%A7%84/?category=18271" rel="tag">违规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9A%90%E7%A7%81/?category=18271" rel="tag">隐私</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%9E%97%E7%A5%96%E6%81%8B%E5%AE%B6%E4%BA%BA%E5%8F%91%E5%A3%B0%E6%98%8E-%E6%8B%92%E7%BB%9D%E8%AE%A4%E5%8F%AF%E5%AE%98%E6%B4%BE%E5%BE%8B%E5%B8%88/" target="cdt-mirror">林祖恋家人发声明 拒绝认可官派律师</a>
+</h2>
+<p><blockquote><p>iyouport ‏<a href="https://twitter.com/iyouport_news/status/750209644081983488" target="_blank">@iyouport_news</a>: #乌坎 林祖恋家人发出声明，不承认当局指派的律师</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmlHsJjUMAAsazQ.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmlHsJjUMAAsazQ.jpg_large.jpg?resize=450%2C600" alt="CmlHsJjUMAAsazQ.jpg_large" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmlHsJjUMAAsazQ.jpg_large.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmlHsJjUMAAsazQ.jpg_large.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<blockquote><p><a href="http://weibo.com/u/1786822605" target="_blank">@李方平律师</a> :【葛永喜律师：原来是王会长抢了我的业务，我只能表示服了】林祖恋孙子林立义：“你们是律师界的耻辱”这两名辩护律师是当局指派，他们分别是广州金鹏律师 事务所的王波和广东宏进律师事务所的方振宏。<br>
+王波是广州市政府法律顾问，兼任广东省律师协会副会长，从事刑事及民商事法律辩护，曾多次为被控受贿的政府官员辩护；方振宏是汕尾市人大代表和汕尾市政府法律顾问，熟悉产权及经济纠纷类案件。<br>
+下图: 广州市市长陈建华向广州金鹏律师事务所王波主任颁发广州市政府法律咨询专家聘书。<br>
+不允许家属聘律师，当局却在家属毫不知情的情况下，指定这么高大上的律师<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"><img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"><img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdgw1f5ito2py6vj20fz0anmyd.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdgw1f5ito2py6vj20fz0anmyd.jpg?resize=500%2C333" alt="6a80bfcdgw1f5ito2py6vj20fz0anmyd" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdgw1f5ito2py6vj20fz0anmyd.jpg?w=575 575w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdgw1f5ito2py6vj20fz0anmyd.jpg?resize=300%2C200 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p></blockquote>
+<p>方振宏（党徽下红衣男子）为汕尾市“法治讲堂”进村（社）活动主讲人：</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%96%B9%E6%8C%AF%E5%AE%8F.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%96%B9%E6%8C%AF%E5%AE%8F.jpg?resize=550%2C413" alt="方振宏" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/方振宏.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/方振宏.jpg?resize=300%2C225 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>图片来源：<a href="http://www.swcqpfw.gov.cn/4926.html" target="_blank">汕尾市城区普法网</a></span></p></div>
+<p>“爆料”林祖恋已聘请律师的是新浪微博用户 @在城央雨飞扬，这是当时该用户账号内唯一一条微博内容：</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%9C%A8%E5%9F%8E%E5%A4%AE%E9%9B%A8%E9%A3%9E%E6%89%AC.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%9C%A8%E5%9F%8E%E5%A4%AE%E9%9B%A8%E9%A3%9E%E6%89%AC.jpg?resize=475%2C611" alt="在城央雨飞扬" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/在城央雨飞扬.jpg?w=1812 1812w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/在城央雨飞扬.jpg?resize=233%2C300 233w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/在城央雨飞扬.jpg?resize=768%2C987 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/在城央雨飞扬.jpg?resize=797%2C1024 797w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><p><span>@在城央雨飞扬 相关微博截图</span></p></div>
+<p>腾讯网后转发了相关内容，目前已404（<a href="https://webcache.googleusercontent.com/search?q=cache:SYo5tCbFc0gJ:https://view.inews.qq.com/a/NEW2016063003803203%3Fopenid%3Do04IBAFRf3O4Dkt6dJMtBfH_ZV6Y%26key%3D%26version%3D62010025%26devicetype%3DWindows%2B7%26from%3Dsinglemessage%26isappinstalled%3D0%26cv%3D0x70000001%26dt%3D6%26lang%3Den%26pass_ticket%3DrWg2SzXtlETvGt0t6WvVjUGUA6Dzp5VKkz0h8Q7qHAuFwBKyaAHyMJb7tJ0FWCUE+" target="_blank">谷歌快照链接</a>）：</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB.jpg?resize=500%2C177" alt="腾讯新闻" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/腾讯新闻.jpg?w=1490 1490w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/腾讯新闻.jpg?resize=300%2C106 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/腾讯新闻.jpg?resize=768%2C272 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/腾讯新闻.jpg?resize=1024%2C363 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>腾讯新闻谷歌快照页面截图</span></p></div>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B9%8C%E5%9D%8E%E5%86%8D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81-%E7%96%91%E5%BE%8B%E5%B8%88%E5%8F%97%E5%8E%8B%E4%B8%8D%E6%8E%A5%E6%9E%97%E7%A5%96%E6%81%8B%E6%A1%88/" target="_blank">自由亚洲｜乌坎再数千人示威 疑律师受压不接林祖恋案</a></li>
+<li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8F%82%E4%B8%8E%E7%BD%91%EF%BD%9C%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E4%B8%8D%E7%94%A8%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D/" target="_blank">参与网｜玉品健律师：我为什么不顾一切的往陆丰冲</a></li>
+<li>中国数字时代<a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/" target="_blank">林祖恋</a>专题</li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@李方平律师：红色律师，党直接征召，抢占辩护滩头！</p>
+<p>@张颖军律师：林支书好像不需要法律援助，其老婆及近亲属早在网上申明家属完全有经济能力聘请律师，两位大律如果是办法律援助案的话就请援助其他真正需要帮助的人吧！</p>
+<p>@星清馨亲:哈哈，这就是依法治国，开眼了。</p>
+<p>@时光之我：神州大地，奇葩连连。留照后世，以是谈资。</p>
+<p>@立场H旁观：官方，涉官案件，不让被告自请律师，用官方指派律师。何必如此掩耳盗铃，自欺欺人？秀无耻下限吗？倒不如官爷直接把被告当中千刀万剐，来的直接！</p>
+<p>@丁金坤律师:棋子律师何其多。。。</p>
+<p>@土豆烧牛肉2014：法院姓党、律师姓党、法律也姓党，这就是以党治国。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%9E%97%E7%A5%96%E6%81%8B%E5%AE%B6%E4%BA%BA%E5%8F%91%E5%A3%B0%E6%98%8E-%E6%8B%92%E7%BB%9D%E8%AE%A4%E5%8F%AF%E5%AE%98%E6%B4%BE%E5%BE%8B%E5%B8%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%91%9B%E6%B0%B8%E5%96%9C/?category=18271" rel="tag">葛永喜</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF-%E4%B8%AD%E5%85%B1%E7%BB%9F%E6%88%98%E6%96%B0%E5%AF%B9%E8%B1%A1-%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%96%B0%E5%AA%92%E4%BD%93%E4%BA%BA/" target="cdt-mirror">法广 | 中共统战新对象 留学生与新媒体人</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/tzgz.jpg?resize=550%2C310" alt="tzgz" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/tzgz.jpg?w=1024 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/tzgz.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/tzgz.jpg?resize=768%2C434 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<blockquote><p><strong>中国特色的统战部开设新的机构，针对留学生以及网络新媒体人士制定统战计划。新设立的统战部第八局的工作，就是要透过政治引导，把这些人更加广泛地团结和凝聚在党中央和政府周围，为中国特色社会主义事业做出贡献。</strong></p></blockquote>
+<p>中央社引述中国官方报导，中共中央统战部新设置组建了第八局，新局的统战对象是留学人员和新媒体代表人士等。</p>
+<p>官方报导透露新局全名叫「新的社会阶层人士工作局」，这是统战部事隔11年之后，再次设立新的正局级部门。</p>
+<p>报导表示，新的社会阶层人士一直是统战部的重要工作领域，此时专门成立八局来进行相关统战工作，源于去年的中共中央统战工作会议。</p>
+<p>据报导指出，在这次工作会议上，中共总书记习近平指出，要进一步加强对留学人员、新媒体中的代表人士和非公有制经济人士特别是年轻一代的工作。报导说，习近平所说的三类人中，新媒体中的代表人士已被明确为新的社会阶层人士统战工作的重点对象。</p>
+<p>报导还指出，新的社会阶层人士包括4类人，分别为民营企业和外资企业的管理技术人员、中介组织和社会组织从业人员、自由职业人员、新媒体从业人员。</p>
+<p>官方认为，这些人具有流动性大、分散性强、思想活跃、观点多样等特点，有的甚至连人都找不着、面都见不上，一般性的工作方法很难对这些人起作用。中共中央统一战线工作部新八局的工作，就是要透过政治引导，把这些人更加广泛地团结和凝聚在中共和政府周围，为中国特色社会主义事业做出贡献。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF-%E4%B8%AD%E5%85%B1%E7%BB%9F%E6%88%98%E6%96%B0%E5%AF%B9%E8%B1%A1-%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%96%B0%E5%AA%92%E4%BD%93%E4%BA%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8/?category=18271" rel="tag">中央统战部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E4%BA%BA/?category=18271" rel="tag">媒体人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93/?category=18271" rel="tag">新媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">民营企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87/?category=18271" rel="tag">社会组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80%E6%88%98%E7%BA%BF/?category=18271" rel="tag">统一战线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E6%88%98/?category=18271" rel="tag">统战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E8%81%8C%E4%B8%9A/?category=18271" rel="tag">自由职业</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%8B%9B%E7%89%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E4%B8%91/" target="cdt-mirror">大象公会 | 中国的招牌为什么这么丑</a>
+</h2>
+<p><p><strong>中国街景之丑冠绝全球，各色廉价招牌居功甚伟，丑招牌不仅是美感的缺失，更是社会经济现状的缩影。</strong></p>
+<p>文｜吴松磊</p>
+<p>2011 年，台湾《苹果日报》公布网友票选出的“台湾十大最丑”，街头招牌名列第一。80%的投票者为岛内公共景观感到丢脸，近三分之一的人不好意思让亲朋好友来台旅游，甚至有超过一成的人表示要用炸弹解决问题。今年，台北市市长柯文哲也表示“受不了中华民国美学”，希望出台《台北市广告管理细则》来改变现状。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I.jpg?resize=500%2C500" alt="640AWIQW36I" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I.jpg?resize=70%2C70 70w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>台湾台北市街景（上图）与日本大阪市街景（下图）</p>
+<p>台湾人强烈的耻辱感，显然不是与大陆对比的结果，而是来自近邻日本。每一个去过日本旅游的台湾人，回到故乡后自然看哪儿都不顺眼。而在大陆网友面前，台湾人大可坚定文化自信。因为常常被拿来说事的台北某处街景，在大陆几乎随处可见。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I2.jpg?resize=575%2C403" alt="通过搜索引擎检索出的招牌图片往往是制作商发布的案例照片，以上为通过中文（上图）和英文（下图）检索招牌图片后的结果" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I2.jpg?w=575 575w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I2.jpg?resize=300%2C210 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"><p>通过搜索引擎检索出的招牌图片往往是制作商发布的案例照片，以上为通过中文（上图）和英文（下图）检索招牌图片后的结果</p></div>
+<p>中国招牌之丑冠绝全球，是因为中国人民的审美观出了问题吗？</p>
+<p><strong>为什么这么难看</strong></p>
+<p>好看的招牌各有各的好看，难看的招牌却出奇的一致——强烈的廉价感。</p>
+<p>有格调的视觉呈现一般是低纯度的暗色和充分的背景留白，即通常所说的“素色”审美。中国街头招牌的配色方案通常相反，背景是中等明度的高纯色彩，配合高纯度色或白色文字，留白普遍不够，往往是不同色彩占据相近面积。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640G8V5WZYH.jpg?resize=550%2C443" alt="640G8V5WZYH" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640G8V5WZYH.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640G8V5WZYH.jpg?resize=300%2C242 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>这种配色满足了店主“显眼醒目”的需求，也符合人类天性——心理学研究就证实了人对高饱和度色彩的偏好，如儿童一般都会对鲜艳的色彩更感兴趣，被革命审美熏陶的中国人也天然倾向大红大黄的配色方案。但格调恰恰是对本能冲动的克制，就像富裕社会以瘦为美，高端餐厅追求口味清淡一样。</p>
+<p>即便配色鲜艳，设计元素如能合理使用也不致过于廉价。例如在曼谷华人街，大多数招牌虽也使用亮色，但由于布局简洁克制，不但不觉得刺眼，反而能调和排版的严肃感，带来亲切的市井气息。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL66.jpg?resize=550%2C297" alt="泰国曼谷华人街的夜景" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL66.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL66.jpg?resize=300%2C162 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>泰国曼谷华人街的夜景</p></div>
+<p>近似的设计风格也有助于街头招牌形成整体气质。这也是香港街头招牌单拎出来并不好看，但放在一起却别有风味的原因。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640XZDSB31N.jpg?resize=550%2C310" alt="640XZDSB31N" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640XZDSB31N.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640XZDSB31N.jpg?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>香港街景</p></div>
+<p>相比店主个人审美，街头招牌的观感更依赖本地政府的市容管理政策。日本就是典范，对招牌的尺寸、位置和色彩都规定得极细。户外广告牌管理最严格的京都，麦当劳等外国企业也必须依照当地规范，把原本鲜艳的红色调暗。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407GI4JKQU.jpg?resize=390%2C248" alt="降低了明度和纯度的京都麦当劳招牌（上图）和咖啡色的京都 7-11 招牌（下图）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407GI4JKQU.jpg?w=390 390w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407GI4JKQU.jpg?resize=300%2C191 300w" sizes="(max-width: 390px) 100vw, 390px" data-recalc-dims="1"><p>降低了明度和纯度的京都麦当劳招牌（上图）和咖啡色的京都 7-11 招牌（下图）</p></div>
+<p>如果放任不管，就会出现类似台北的情形——广告管理规范缺乏细节要求，商户们可以在建筑物表面随意挂满招牌，看上去混乱不堪。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6403TJ8B3VU.jpg?resize=550%2C344" alt="6403TJ8B3VU" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6403TJ8B3VU.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6403TJ8B3VU.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>Facebook 网友@小聖蚊的治國日記 对于“中华民国美学”的调侃</p></div>
+<p>与台湾相比，大陆的市容管理当然要有力得多：“一铺一招”的规定算得上整齐划一，城管部门也有权拆掉任何一块不顺眼的招牌。如果想“打造精品街道，统一招牌风格”，甚至能让整条街“齐步走”，为市长书记提供类似阅兵式的美好错觉。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL662.jpg?resize=496%2C281" alt="安徽省丁香镇为了“打造干净整洁而具有新意的街道环境”在 2015 年 9 月完成了全镇商铺招牌的强制更换，每块招牌的三分之一都是冠名广告，而广告收入肯定与店主无关" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL662.jpg?w=496 496w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL662.jpg?resize=300%2C170 300w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"><p>安徽省丁香镇为了“打造干净整洁而具有新意的街道环境”在 2015 年 9 月完成了全镇商铺招牌的强制更换，每块招牌的三分之一都是冠名广告，而广告收入肯定与店主无关</p></div>
+<p>这种管理的结果是，许多街头招牌的观感与党政部门的宣传栏如出一辙——都热衷使用陈旧的电脑特效，默认的鲜艳配色，花哨的描边、阴影、渐变，以及让密恐患者晕厥的图文排版。究其原因，很可能是城管指定的招牌打印店同时也为政府服务。</p>
+<p><strong>失去品牌的招牌</strong></p>
+<p>中国招牌的丑陋不能全怪在城管头上，大红大绿的街景中，偶尔也能看到符合现代审美的招牌，它们大都是国外品牌或连锁加盟店，这正是中国特色丑招牌的深层原因——普遍缺失的品牌意识。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640QXZQAL6T.jpg?resize=550%2C275" alt="与众不同的连锁店招牌" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640QXZQAL6T.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640QXZQAL6T.jpg?resize=300%2C150 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>与众不同的连锁店招牌</p></div>
+<p>1949 年之前，传统商业社会已形成品牌意识。招牌是品牌的直接载体，不仅选材精细，描金绘银，往往还不惜重金请名人大家题写牌匾，以展现商铺的品位与分量。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640M56SK5VK.jpg?resize=550%2C343" alt="《清明上河图》繁华的商业街景中出现了众多悬挂招牌的商店，如“赵太丞家”和“刘家上色沉檀拣香”" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640M56SK5VK.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640M56SK5VK.jpg?resize=300%2C187 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>《清明上河图》繁华的商业街景中出现了众多悬挂招牌的商店，如“赵太丞家”和“刘家上色沉檀拣香”</p></div>
+<p>1949 年后，品牌概念成为“资本主义的腐朽遗毒”，在社会主义工商业改造中惨遭清洗，文革“破四旧” 运动中几乎扫荡殆尽。招牌也随之“兴无灭资”，店名要么是政治口号如“红旗商店”，“东风市场”，要么是“地名”+“序号“+“行业性质”的组合，如“虹口区第二副食品店”。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AL5OOWJ0.jpg?resize=488%2C428" alt="像“东风理发馆”和“反帝医院”这种被随意更改的招牌在文革期间的街头随处可见" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AL5OOWJ0.jpg?w=488 488w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AL5OOWJ0.jpg?resize=300%2C263 300w" sizes="(max-width: 488px) 100vw, 488px" data-recalc-dims="1"><p>像“东风理发馆”和“反帝医院”这种被随意更改的招牌在文革期间的街头随处可见</p></div>
+<p>经过彻底的公有化改造，“地名/小区/商品+商店”这种计划体制的典型命名也保留至今。“个体户”大多为居民区周边的功能性商铺，重要的不是打造品牌，而是所处的地理位置。招牌的功能也仅仅是一块广告位，在极为有限的空间中尽可能塞下菜名、手机号等实用信息。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640L8A5NZNP.jpg?resize=550%2C268" alt="标准的传单式招牌设计。这张兰州拉面招牌模板图，已经成为各地招牌制作公司的保留源文件" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640L8A5NZNP.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640L8A5NZNP.jpg?resize=300%2C146 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>标准的传单式招牌设计。这张兰州拉面招牌模板图，已经成为各地招牌制作公司的保留源文件</p></div>
+<p>对于动辄写上数百字的招牌，常见的发光字、金属字等招牌材质几乎难以实现，只能使用最便宜的喷绘灯布。这种材质极易褪色，更谈不上有什么质感，在其他国家极为少见，但中国的喷绘灯布却几乎占据了街头招牌的半壁江山。</p>
+<p>各种品牌的冠名赞助也推广了喷绘灯布的运用。2000 年前后，这种以一次性低成本投入获得长时间曝光的推广策略，陆续出现在各大酒水饮料经销商的营销方案中，导致很多苍蝇馆子看招牌都像是各类白酒的下属企业。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640F5CLC4CR.jpg?resize=550%2C227" alt="低质量的喷绘灯布大概价位为 10 元/平米，但算上灯箱的材料安装费用，一块灯布招牌的价格也得在五百元以上" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640F5CLC4CR.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640F5CLC4CR.jpg?resize=300%2C124 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>低质量的喷绘灯布大概价位为 10 元/平米，但算上灯箱的材料安装费用，一块灯布招牌的价格也得在五百元以上</p></div>
+<p>冠名招牌在中国的大范围流行，反映了大部分个体户的现状。即使在经济相对发达的北京，个体户也拿不出多少钱装点门面——第三次全国经济普查显示，2013 年北京城镇居民人均可支配收入为 4 万元，而个体从业人员平均年收入仅为 2.7 万元。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VS2JMESG.jpg?resize=550%2C136" alt="在设计素材站可以找到大量的冠名招牌模板" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VS2JMESG.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VS2JMESG.jpg?resize=300%2C74 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>在设计素材站可以找到大量的冠名招牌模板</p></div>
+<p><strong>什么样的字体适合做招牌</strong></p>
+<p>招牌好看还是难看，除配色和材质外，字体也很关键。日本招牌的赏心悦目，字体之美最为直观，在东京、大阪的街头，很难找到两块字体相同的招牌——自明治维新以来，日本印刷字体设计史超过百年，店主们即便没钱找人专门设计字体，丰富的字体库也提供了足够多的选择。</p>
+<p>中国招牌字体的单调丑陋，首先在于简化字的短暂历史——汉字简化虽在 1950 年代就已开始，但直到 1965 年简体汉字规范才最终确定，较晚起步的中文简化字设计和庞大的中文字形工程量，让中国从铅活字排版到电子排版的过渡中，能拿得出手的只有黑体、宋体、楷体和仿宋四种简体字字形，这也成为了 Windows 简体中文版操作系统中最早的预装字体。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400XSB8NUU.jpg?resize=550%2C550" alt="Windows 简体中文版操作系统只预装了 5 种中文字型，其中微软雅黑（Microsoft YaHei）在 2006 年微软发布 Windows Vista 后才开始成为预装字体" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400XSB8NUU.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400XSB8NUU.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400XSB8NUU.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400XSB8NUU.jpg?resize=70%2C70 70w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>Windows 简体中文版操作系统只预装了 5 种中文字型，其中微软雅黑（Microsoft YaHei）在 2006 年微软发布 Windows Vista 后才开始成为预装字体</p></div>
+<p>今天街头最常见的招牌字体就是 Windows 预装字体中的中易黑体（SimHei）。中易黑体被认为引进自日本哥特体，1950 年代因大量用于宣传标语开始流行。70 年代初，为了排印《辞海》和《毛泽东选集》，上海印刷研究所才专门设计了简体字版黑一体和黑二体。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.png?resize=458%2C52" alt="最早的汉字黑体印刷出版物——1891 年日本《印刷杂志》中东京筑地活版制造所的广告（放大稿）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.png?w=458 458w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.png?resize=300%2C34 300w" sizes="(max-width: 458px) 100vw, 458px" data-recalc-dims="1"><p>最早的汉字黑体印刷出版物——1891 年日本《印刷杂志》中东京筑地活版制造所的广告（放大稿）</p></div>
+<p>中国街头招牌本身就缺乏设计，使用中易黑体更是雪上加霜。</p>
+<p>美国心理学家约翰·里德利·史楚普（John Ridley Stroop）于 1935 年的实验从侧面证实，人脑对文字语义的感知比文字色彩更敏感。因此看到使用了常见字体的招牌时，人脑首先感知到的是文本而非图像。这正是为什么讲求外观的服装鞋包，包装设计时往往偏好使用非母语文字。反之，如使用母语，文本信息必须远离日常生活。</p>
+<p>中国街头招牌常常是“烟酒商店”之类的文本，唯一的挽救办法就是招牌字体尽可能与书报字体不一样，以降低对文本信息的敏感度，而中易黑体却是中国人最熟悉的字体。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0-4.gif?resize=321%2C180" alt="史楚普效应的经典测试——这个字是什么颜色？" data-recalc-dims="1"><p>史楚普效应的经典测试——这个字是什么颜色？</p></div>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640S22D1O4Z.jpg?resize=550%2C304" alt="微博用户@星河Shinho 用这张对比图说明高端洋气的品牌印上母语也不好看。尽管图中的翻译版本未经设计，字体大小和排版都过于夸张丑陋，但的确和许多街头招牌的观感极为相似" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640S22D1O4Z.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640S22D1O4Z.jpg?resize=300%2C166 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>微博用户@星河Shinho 用这张对比图说明高端洋气的品牌印上母语也不好看。尽管图中的翻译版本未经设计，字体大小和排版都过于夸张丑陋，但的确和许多街头招牌的观感极为相似</p></div>
+<p>除黑体楷体外，彩云体、琥珀体、幼圆体也是街头常客，它们在 90 年代初从香港引进，在当时看来新潮活泼，但已远远落后于今天的审美。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6405SAXUE76.jpg?resize=550%2C224" alt="Microsoft Office 2000 简体中文版中加入并保留至今的部分预装字体" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6405SAXUE76.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6405SAXUE76.jpg?resize=300%2C122 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>Microsoft Office 2000 简体中文版中加入并保留至今的部分预装字体</p></div>
+<p>究竟什么样的字体才适合做招牌？适用于所有招牌的万金油字体并不存在，能够精准传达出店铺的品牌气质，才是选择字体的关键。</p>
+<p>今天，中国人民审美能力的提高和产品包装设计的庞大需求，为造字公司提供了光明的商业前景，目前市场上已出现了一批优秀的中文字体。但在可预见的未来，它们应该不会和街头有什么交集——L 型经济让个体户们的日子愈发艰难，没人会在招牌上白费功夫。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%8B%9B%E7%89%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E4%B8%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF/?category=18271" rel="tag">信息</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B0%E5%88%B7/?category=18271" rel="tag">印刷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A/?category=18271" rel="tag">大象公会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%97%E4%BD%93/?category=18271" rel="tag">字体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E7%BE%8E/?category=18271" rel="tag">审美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%A0%87%E8%AF%AD/?category=18271" rel="tag">宣传标语</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%AE%B9/?category=18271" rel="tag">市容</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%9B%E7%89%8C/?category=18271" rel="tag">招牌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%90%A5%E9%94%80/?category=18271" rel="tag">营销</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A/?category=18271" rel="tag">行业</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88%E6%8C%89%E8%AE%A1%E5%88%92%E8%90%BD%E5%B9%95-%E7%9C%9F%E6%84%8F%E4%BD%95%E5%9C%A8/" target="cdt-mirror">美国之音 | 何清涟：令计划案按”计划”落幕 真意何在？</a>
+</h2>
+<p><p>编者按：这是何清涟为美国之音撰写的评论文章。这篇特约评论不代表美国之音的观点。转载者请注明来自美国之音或者VOA。</p>
+<p>7月4日，令计划案开审，认定受贿、非法获取国家机密和滥用职权等三罪并判以无期徒刑。因为令计划表示“向组织负荆请罪”，不像薄熙来那样利用庭审为自己辩护，观众觉得兴味索然。但令案在十八大六中全会前开审，按计划落幕，其意不在于取悦于观众，而是习近平藉此昭示天下：中共十八大前开幕的高层权斗大戏曲终落幕，令计划结案，意味着扫清旧战场，今后的重头戏是权力新布局。</p>
+<p><strong>令计划的量刑早在“计划”之中</strong></p>
+<p>令计划案一审，从庭审形式、量刑轻重、用来定罪的罪项，直到令计划本人的表现，一切都在最高层计划之中。由于从2012年开始，令计划案的种种内幕已有中外媒体不断抖落，财新网那几篇重磅，如《令完成的财富故事》、《令氏家族的危险关系》等登载之后，已经只剩下一个谜题，即令计划弟弟令完成携带至美国的国家机密的内容待解，其余并无多少悬念。</p>
+<p>令计划被判无期徒刑，符合外界猜测。即使在令完成携带机密之事被爆炒之时，外界也猜测大概在无期与死缓二者之间，都是将牢底坐穿之刑，只是后者的羞辱性大于前者。</p>
+<p>观众们最不屑的是，令计划不似薄熙来那样强悍，除负荆请罪之外，还对审判长、法庭及律师表达赞美和感谢。这点我倒不意外，令计划虽然出身山西平陆令狐，似乎是唐代宰相令狐綯的后裔，其父亲算是红色革干中的尾巴，但这久远的仕宦门第与尾巴地位，在现实政治中，远不如同为山西籍贯的薄一波之子牌头硬。少了这份红色家族背景，表现自然不同。他当然不敢像薄熙来那样，在法庭上用反讽方式说自己的待遇很好，出庭前还吃了一个咸蛋，暗示以前连咸蛋都吃不着。</p>
+<p>法庭认定令计划的8项罪证，包含了首次透露的楼忠福、崔晓玉、魏新、潘逸阳、李春城五人与该案的关系和具体违法细节。但海外媒体对此并无炒作热情，因为在巨贪频出的中国，7708万这个数额简直太小儿科。而令计划与有共青团背景、并在公安系统任过职的潘逸阳的关系，虽然在一定程度上证实了令计划与周永康之间的“合谋”传闻，但比起那场“改变中国政治格局的法拉利车祸”，也实在不够惊悚，太平淡无奇。</p>
+<p>判决书也未涉及令计划拥有多名情妇与私生子的香艳故事。如此一来，令案之庭审就因不够出采、不够惊悚、不够香艳，让观众兴趣索然。但观众这反应正是当局希望看到的，不信，请看以下分析。</p>
+<p><strong>判决书暗示：令完成手中的国家机密不构成威胁</strong></p>
+<p>令计划案中，最为人关注的情节就是非法窃取国家机密。</p>
+<p>令计划任中央办公厅主任、掌握了大量顶级国家机密，这些机密被其非法窃取并交给弟弟令完成携带至美国，这是海外媒体多次报道反复求证的故事。中国政府多次与美国交涉要求带回令完成的官方行动，也证实了这一情节并非虚构，唯一没法证明的是这些高度机密是否已经落到美国情报机构之手。2015年8月，《纽约时报》在一篇报导中引用美情报官员的话，称此事件“将成为美国情报领域的一项非凡成就”，令完成“可能掌握着有关习近平现在和从前的亲信官员的令人不安的信息”。之后，博讯一条消息称，“令计划落网前盗取机密文件2700多份，涉及中共政治、军事、经济、文化等方面；相信部份已被令的胞弟令完成带到美国，成为要胁中南海的筹码。”</p>
+<p>从此以后，令完成携带的情报箱，成了海外媒体每隔一段时间就竞猜一次的谜题，从核武器密码，到高层隐藏在海外的财产，以及私生活录相，无所不至，令中国当局极为不舒服。从判决书的内容来看，中共高层是想趁这次判决，对这种猜测做个了断。</p>
+<p>法院判决称，令计划在担任中央统战部部长、第十二届全国政协副主席期间，通过时任中央办公厅秘书局局长霍克等人，“非法获取大量国家秘密材料，严重破坏了国家保密制度”。值得注意的是，当局多次向美交涉要带回中国的令计划胞弟令完成，在这次审判中并未提及。</p>
+<p>我认为是当局想降低令完成带走的国家机密的情报价值，这种意愿以前有铺垫（当然也可能是事实的一部分）。2015年8月12日，中纪委监察部网站公布了一条消息，标题是《国家旅游局原副局长霍克泄露国家秘密被双开》，其中介绍了霍克被调入旅游局工作前任职中央办公厅秘书局局长，与令计划的任职经历交集，这个局主管中央档案馆。中央档案馆官方网站也于同时披露，现任中办主任栗战书曾在出席该馆会议时，要求该馆“深入开展肃清令计划余毒影响的清理工作”，并提到中央档案馆馆长换人的消息。这两条消息已说明令计划是通过霍克窃取了中央档案馆的馆藏国家机密。</p>
+<p>中央档案馆掌握些什么类型的国家机密？据官方介绍，中央档案馆与国家档案局“两块牌子，一套班子”，副部级单位，由中共中央办公厅归口管理，于1959年6月经中共中央和国务院批准成立， 1970年至1979年4月称中共中央档案馆。其主要任务是：收集、保管党和国家中央机关具有永久保存价值的重要档案和解放前我党中央机关、团体等所形成的革命历史档案，并对馆藏档案进行整理、研究和提供利用，为党中央、国务院以及党和国家的各项工作服务。</p>
+<p>令计划通过霍克在浩如烟海的中央档案馆里“捞出”了什么类型的国家机密，与哪些中央高层有关，如今只能猜想了。没提及令完成，显然是想说明，美方并未掌握有关中国政治高层那些“具有杀伤力的国家机密”。</p>
+<p>但判决书的说法，并不意味着外界必然采信。不要说政治反对者不相信这套说辞，就连体制内的自家人也不相信。今年6月下旬，北京一次聚会中，80年代的改革名人翁永曦谈到他对中国改革陷入困境的六大担忧，其中第四条就是“在外交上极其被动，以前中央帝国不太干预别国事务，现在全球化，所有国际事务中国都得表态，但我们现在这套价值理念不行，四面树敌，孤家寡人，朋友只剩下朝鲜和古巴；而且把柄都在人家手里，个人的合法性都是人家说了算，一旦国家之间玩真的，一个爆料就把你合法性摧毁了，还怎么打仗？”</p>
+<p>一句“把柄都在人家手里”，与前述《纽约时报》、博讯文章所说暗合，把柄有多大，只能任人们发挥无穷想象。</p>
+<p><strong>令案落幕是为十八大六中全会做准备</strong></p>
+<p>令案结案，真正目的是为几个月后的十八大六中全会做准备。习近平自十八大接掌大位以来，已历五年。这几年经过马不停蹄的整军、调整各省常委班子，已是人事一番新，形成了新朝班底。接下来，就是习近平将以什么形式，在中国最高权力位置上呆多久的问题。这个问题，善用中南海占星术揣测内幕的人士已经给出了种种猜想。6月12日，《人民日报》发表郑秉文谈保持增长动力文章，其中重心是假设三个不出现，我也在“《人民日报》提‘三个不出现’，实现难度有多大？”一文中指出，所谓“制度上不出现断层式波动”暗指就是No.1不换人。</p>
+<p>任何国家的权力格局更新，都脱不了“除旧布新”这道程序，“布新”之前通常要“除旧”。这几年习近平用反腐方式“除旧”，让中共官场人人胆战心惊。令计划在庭审中的驯服与当年的傲气，只是证明了一点：失去了老皇上这棵大树做依榜，大内总管什么都不是。今上藉此发出惩戒并安抚官场：十八大权位之争，千里长堤，到此结穴，旧主子已经罩不住人了，大家安心跟着新主子好好干，前程有望。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88%E6%8C%89%E8%AE%A1%E5%88%92%E8%90%BD%E5%B9%95-%E7%9C%9F%E6%84%8F%E4%BD%95%E5%9C%A8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88/?category=18271" rel="tag">令计划案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9/?category=18271" rel="tag">内容</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">国家机密</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%9195%E5%90%8E%E5%88%9B%E4%B8%9A%E7%A5%9E%E8%AF%9D/" target="cdt-mirror">【图说天朝】95后“创业神话”</a>
+</h2>
+<p><p>@互联网的那点事：呵呵 同一个作者，6个月前和6个月后！</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itu4v28gj20ar0j3q5f.jpg?resize=387%2C687" alt="6106a4f0gw1f5itu4v28gj20ar0j3q5f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itu4v28gj20ar0j3q5f.jpg?w=387 387w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itu4v28gj20ar0j3q5f.jpg?resize=169%2C300 169w" sizes="(max-width: 387px) 100vw, 387px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itw0glxlj20aq0j4tar.jpg?resize=386%2C688" alt="6106a4f0gw1f5itw0glxlj20aq0j4tar" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itw0glxlj20aq0j4tar.jpg?w=386 386w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itw0glxlj20aq0j4tar.jpg?resize=168%2C300 168w" sizes="(max-width: 386px) 100vw, 386px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itwwfnpmj20ap0j50ve.jpg?resize=385%2C689" alt="6106a4f0gw1f5itwwfnpmj20ap0j50ve" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itwwfnpmj20ap0j50ve.jpg?w=385 385w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itwwfnpmj20ap0j50ve.jpg?resize=168%2C300 168w" sizes="(max-width: 385px) 100vw, 385px" data-recalc-dims="1"></p>
+<p>@王伟：这是通过打自己脸来鼓掌的人。</p>
+<p>@Abbott_father：这明显就是一个微商式头脑的作者。鸡汤胜过头脑！！</p>
+<p>@酱油已打满：现在流行创业，集资，然后卷钱跑路。</p>
+<p>@苏季离一个人跑：全都是泡沫~</p>
+<p>@向老师的微博：配图都不换一下啊！</p>
+<p>@半条命老鸟：一言不合就粉转黑。</p>
+<p>@-您-好-：看他平地起高楼，又看他楼塌了。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%9195%E5%90%8E%E5%88%9B%E4%B8%9A%E7%A5%9E%E8%AF%9D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%B8%9A/?category=18271" rel="tag">创业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%B8%9A%E9%82%A6%E6%9D%82%E5%BF%97/?category=18271" rel="tag">创业邦杂志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%91%E8%B7%AF/?category=18271" rel="tag">跑路</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1天前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8F%B0%E6%B9%BE%E8%AF%AF%E5%B0%84%E9%9B%84%E4%B8%89%E5%AF%BC%E5%BC%B9-%E9%98%B4%E8%B0%8B%E8%AE%BA%E7%94%9A%E5%9A%A3%E5%B0%98%E4%B8%8A/" target="cdt-mirror">德国之声｜台湾误射“雄三”导弹 阴谋论甚嚣尘上</a>
 </h2>
 <p><p>台湾海军上周误射了一枚“雄三”反舰导弹，贯穿一艘在台湾海峡靠近澎湖海域作业的台籍渔船。阴谋论者认为，这或许是台湾军方刻意使蔡英文难堪，也可能是新政府意在挑衅大陆。</p>
@@ -569,269 +879,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E9%A6%99%E6%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%85%9A%E7%9A%84%E4%B9%9D%E5%8D%81%E4%BA%94%E5%B2%81%E5%8D%8E%E8%AF%9E%E3%80%81%E7%A5%9D%E6%84%BF%E5%85%9A%E9%95%BF%E5%91%BD%E7%99%BE%E5%B2%81/" target="cdt-mirror">【河蟹档案】党的九十五岁华诞、祝愿党长命百岁</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E4%BD%B3%E4%BD%B3Audrey">李佳佳Audrey</a>：记得雷洋突然死亡后，警方第一次通告就迫不及待抛出了“雷洋是心脏病突发猝死”的说辞。在雷洋家人提出疑义：雷洋本人没有心脏病史、也没有家族病史之后，警方还煞有介事地对公众进行过“科普”：心脏病可以在没有任何征兆的情况下猝发。如今回看真是呵呵。<em><em>相关阅读｜《<a href="http://cn.nytimes.com/china/20160701/china-lei-yang-police-arrested/">纽约时报<em><em>｜</em></em>雷洋尸检结果公布，两名警察涉玩忽职守被捕</a>》</em></em><br><a href="https://freeweibo.com/weibo/3992325116618688" target="/weibo/399">2016年07月01日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%A5%E5%8E%BB%E4%B9%8B%E9%97%B4">来去之间</a>：据说以后App开机都是这样的…… <em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/06/%E7%9F%A5%E4%B9%8E-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B8%B8%E6%88%8F%E9%9C%80%E8%A6%81%E5%AE%A1%E6%89%B9%E6%89%8D%E5%8F%AF%E4%B8%8A%E6%9E%B6/">知乎<em><em>｜</em></em> 如何看待苹果中国区游戏需要审批才可上架？</a>》</em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-3.jpg?resize=402%2C670" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-3.jpg?w=480 480w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-3.jpg?resize=180%2C300 180w" sizes="(max-width: 402px) 100vw, 402px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992375783183684" target="/weibo/399">2016年07月01日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B1%B6%E9%87%91%E8%AE%A9">汶金让</a>：这个编辑要倒霉！[吃惊]<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.jpg?resize=421%2C748" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.jpg?resize=576%2C1024 576w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992428854135677" target="/weibo/399">2016年07月01日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B8%85%E5%8D%8E%E5%AD%99%E7%AB%8B%E5%B9%B3">清华孙立平</a>：【中国的防火墙是不是弄反了？】出去拍照，爬过几次长城，发现一个规律：长城都是朝外即朝向敌人的那一面险峻，敌人爬上来不容易；而朝内即朝向自己的这一面都比较平缓，自己上去防御比较容易。而现在中国的防火墙呢？好像是专门和自己过不去，自己出去不容易，敌人轻易进来却不管。这是不是弄反了呢？<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-1.jpg?resize=424%2C283" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-1.jpg?w=2048 2048w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-1.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-1.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-1.jpg?resize=1024%2C683 1024w" sizes="(max-width: 424px) 100vw, 424px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992516229025412" target="/weibo/399">2016年07月01日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BE%90%E6%98%95">徐昕</a>：浙江一幼儿园小“党课”：全班孩子喊“怕死就别当共产党员”<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.png?resize=442%2C786" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.png?w=1080 1080w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.png?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.png?resize=768%2C1365 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.png?resize=576%2C1024 576w" sizes="(max-width: 442px) 100vw, 442px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992596206461453" target="/weibo/399">2016年07月02日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B4%BB%E7%9D%80%E7%85%8E%E7%86%AC%E4%B8%8012">活着煎熬一12</a>：看投票结果<br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.jpg?resize=469%2C587" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1.jpg?resize=240%2C300 240w" sizes="(max-width: 469px) 100vw, 469px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992554393149606" target="/weibo/399">2016年07月01日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%BD%E5%85%B5-">施兵-</a>：新浪微博越来越不像话了<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-2.jpg?resize=474%2C843" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-2.jpg?w=720 720w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-2.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-2.jpg?resize=576%2C1024 576w" sizes="(max-width: 474px) 100vw, 474px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992475732940657" target="/weibo/399">2016年07月01日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%B0%BC%E5%BE%B7%E8%BE%BE%E8%80%B6">尼德达耶</a>：[笑cry][笑cry]<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-5.jpg?resize=400%2C711" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-5.jpg?w=360 360w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-5.jpg?resize=169%2C300 169w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3992593819384801" target="/weibo/399">2016年07月02日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/3992935198270186">道口烧鸡W</a>：微信里看到一句：党的九十五岁华诞、祝愿党长命百岁！——[哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈]有这种SB党员也是醉了！<br><a href="https://freeweibo.com/weibo/3992935198270186" target="/weibo/399">2016年07月02日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91%E5%85%9A%E7%9A%84%E4%B9%9D%E5%8D%81%E4%BA%94%E5%B2%81%E5%8D%8E%E8%AF%9E%E3%80%81%E7%A5%9D%E6%84%BF%E5%85%9A%E9%95%BF%E5%91%BD%E7%99%BE%E5%B2%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%91%E9%A3%99/?category=18271" rel="tag">"习近平发飙"</a>, <a href="https://chinadigitaltimes.net/chinese/tag/app/?category=18271" rel="tag">app</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%83%E4%B8%80%E5%BB%BA%E5%85%9A%E8%8A%82/?category=18271" rel="tag">七一建党节</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%A6%81%E8%AF%84/?category=18271" rel="tag">习禁评</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%8B%E6%B8%B8/?category=18271" rel="tag">手游</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA/?category=18271" rel="tag">特别行政区</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E7%81%AB%E5%A2%99/?category=18271" rel="tag">防火墙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E5%B0%B8%E6%A3%80/?category=18271" rel="tag">雷洋尸检</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%88%91%E4%BB%AC%E8%AF%A5%E5%A6%82%E4%BD%95%E5%8F%8D%E6%80%9D%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5%E8%AE%B0%E8%80%85%E6%80%A7%E4%BE%B5%E6%A1%88%EF%BC%9F/" target="cdt-mirror">微思客 | 我们该如何反思南方日报记者性侵案？</a>
-</h2>
-<p><p><strong>杜卿</strong>｜巴黎第四大学法国文学专业</p>
-<p>南方日报记者性侵案闹得沸沸扬扬，在对施暴者的一片谴责中，也夹杂着不少对受害者的质疑乃至谩骂，这倒也并不出人意料。不少文章开始普及关于强奸的相关常识，纠正民众一贯的偏见，即绝大多数性侵不如这位受害的实习女生所想，是“在黑暗的小巷里陌生人用刀逼迫”式的罪行，而是属于熟人作案，且很多时候并不会牵涉到武器胁迫或是重度暴力。在此基础上，本文想更进一步，引入“单纯强奸”这一概念，下文的三个部分将分别回答三个问题：什么是“单纯强奸”？它为何引发争议？它为何会受到如此忽视，即它在象征系统中为何居于如此次要的位置？透过对这些问题的探讨，我们希望可以为受害者在本案中的反应、民众对受害者的质疑等争议之处给出一种阐释。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8A%E5%8D%8810.02.35.png?resize=442%2C294" alt="Screen Shot 2016-07-02 at 上午10.02.35" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午10.02.35.png?w=442 442w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午10.02.35.png?resize=300%2C200 300w" sizes="(max-width: 442px) 100vw, 442px" data-recalc-dims="1"></p>
-<p><strong>“恶性强奸”与“单纯强奸”</strong></p>
-<p>在《对性侵的哲学研究》（A Philosophical Investigation of Rape）中，Louise du Toit探讨了美国女权学者Susan Estrich对所谓“恶性强奸”（aggravated rape）与“单纯强奸”（simple rape）的区分，前者指的是任意以下三种情形：发生暴力行为、集体性侵、被害人与犯人先前没有任何的关系；后者自然指的是以上三种情况均未发生的情形，即一位受害人先前认识的施暴者对其实施的、非暴力性、也未用任何武器威胁的性侵行为。法官们在判决“恶性性侵”时没有疑虑，但在判决“非恶性性侵”时，却多有质疑受害者、从轻发落犯人的倾向。许多符合法律条文的性侵案中，受害人甚至无法起诉。作者为我们举了一个例子：一九九四年，一名叫Olivier的男性法官否决了对两位男子七年有期徒刑的起诉，他们性侵了一位十九岁的女孩，但得到的处罚却只有“矫正监管”。法官在判决书中写道：</p>
-<p>“（…）他们性侵的目的并不在于暴力，而是在于获得性满足；我们必须自问，原告是否有真正的原因感到真正的心理焦虑；原告的行为有一些怪异；并且，她并没有遭受任何的心理创伤，也不是被完全不认识的陌生人侵犯。”</p>
-<p>这位法官的逻辑并不难理解：她只是在不情愿的情形下，与熟人进行了一场性交而已，并未受到其他任何的暴力伤害，因此，她并未遭受到“真正的”性侵。既然如此，她声称感到“真正的”焦虑，便是不合理的。我们可以看到，这样的思维模式里存在着极大的误区：性侵对受害者的最大伤害，不在于物理层面的暴力，而是对其自我意识的极度侵犯，对其主体性的否定与抹杀。一个有意义的、一致性的、值得她信赖的“主观世界”崩离解析，她与他人的关系也随之断裂，很容易陷入自我厌恶、神经紊乱的精神状态中。再者，很多时候，被朋友、家人、上司等熟悉的人侵犯，受害者会更加否定自我与他人的关系，因而遭受的心理创伤要比由陌生人犯案来得更甚。</p>
-<p>虽说如此，相当一部分民众依然对强奸抱有一种狭隘的想象（社会学家们称之为“强奸迷思”），只将“恶性强奸”视为假想中“真正的”强奸，把“单纯强奸”排除在外。换句话说，在象征系统中，“单纯强奸”没有获得其相应的位置，它的象征意义因而被贬低、被阻碍，仿佛也门恐怖袭击死了百人以上，在大众心里造成的影响却仍比不上巴黎查理事件死去的十几人，是因为巴黎与也门在象征秩序中的位置差距过大。很不幸，南方日报记者性侵案即属于“单纯强奸”，因此难免饱受争议。</p>
-<p><strong>受害者的双重失语</strong></p>
-<p>“单纯强奸”所受争议之处在于，受害者有时无法提供有说服力的论证，证明自己被强奸，而不是在双方自愿的情形下发生性关系。嫌疑人与受害人相识，这大大增加了正常性关系发生的可能性；没有反抗，身体也就没有伤痕，受害者又失去了一项重要的证据。受害者选择不反抗的原因有很多，比如害怕反抗后，会给自身带来更大的伤害等等，但旁人会情不自禁地质疑他们当时真的如他们所说，处于极度恐惧的心理状态。</p>
-<p>再者，我们必须意识到，“让一个被性侵的女人（或任何其他创伤性叙述）的叙说成为真相的，正是这种叙说在事实层面上的混乱、不可靠特性以及不一致性。”（Zizek, <em>Violence</em>）。拉康告诉我们，我们的主体是在象征界中、由语言诞生的。语言系统规定了我们经验的本质。所谓的创伤，即在意指过程中的阻塞，对象征化运动的妨碍，简单来说，是无法进入象征界之物，即无法用语言表达之物。受害者因其所受的创伤，以及创伤所造成的、受害者带有一致性的主体性的毁灭，会使得用语言重新构建事件的过程极其艰难，变成某种“失语”的状态。反之，如果原告能提供一种前后一致、有条不紊的叙事，那么，她/他受害者的地位便会因此受到质疑。“正是受创的当事人的叙说在事实层面上的缺憾验证了她的叙说的真相性，因为这些缺憾暗示了叙说的内容‘污染了’叙说的方式。”（Zizek, <em>Violence</em>）</p>
-<p>因此，让受害者合情合理地为她在受害时的行为做出解释，不仅残酷，且是不可能的。可是，这种“不可能”，又使得受害者陷入更加被动的局面，更加招惹旁人的怀疑揣测。这便是“单纯强奸”此类创伤所造成的后果：它不但带来了伤害，还让受害者失去了证明伤害的手段。受害者的自证将被一种最吊诡的逻辑，拉入到一条死路中：</p>
-<p>“若是受害者不顾这种不可能，执意证明施加于自身的‘罪过’，那么，他们遭遇到的，便是如下论断：要么，你申辩的损害从未发生过，因此，你的证词是伪的；要么，它真的发生过，但既然你已经有办法证明，那么，发生在你身上的就不是一个‘罪过’，只是小小的损害而已，你的证词依旧是伪的。”(Lyotard, <em>Le Différend)</em></p>
-<p>当受害者因受到的创伤而失语时，舆论却代替受害者，用充满偏见的性侵“迷思”，用自以为是的逻辑填补受害者提供的碎片，制造各种叙事，而其中绝大部分，都是贬低、污名化受害者，兼为性侵别人的嫌疑人辩护：“她或许是假报案”、“她一定在图谋什么”、“是不是有什么事情没有谈拢，所以一怒之下才报得案”、“听说她跟其他男人也睡过”…… 这些在一定时间内无法证伪的言论，压制住了受害者本身就难已发出的声音，把讨论从对施暴者的谴责中抽离而出，使得受害者在象征界遭受再一次的失语。</p>
-<p><strong>中国的阳具中心主义</strong></p>
-<p>这桩性侵案中受害人的表现让我们看到，社会如何构建性侵的意义，对个体如何体验、处理性侵有着极大的影响。“你为何不反抗？”这是舆论对这位南方日报实习生的最大质疑。我们或许可以这么回答：首先，“强奸案多是陌生人所为”，此类“强奸迷思”在她脑海中的根深蒂固，使得她在一开始无法对当时的情形做出正确的反应。其次，一桩性侵案所能呈现的，不单单是性别的差异，还有年龄、阶层、种族各种社会身份的差别，而这些因素都造成了性侵时，双方权力关系的不平衡。当受害人面对一位年长的男性上司之时，因为社会文化施加的影响，她处在附属的地位上，权力关系的悬殊造成的压迫，极大地限制了女性反抗的几率，有时可以让男性在不动用暴力的情形下达到目的。</p>
-<p>Kevin Spacey在《纸牌屋》里曾引用王尔德的一句话：“世界上的所有事情都是关于性的，但性本身除外，性是关于权力的。”这或许是一句戏言，但不可否认的是，强奸，不单单是性方面的满足，更是一种权力的展示。在中国，歧视女性的保守文化依旧根深蒂固，在某些民众的想象中，女性是没有阳具的、被动的一方，是物体一般的对象，在象征秩序中处于男性的次等地位，是男性可占有的附属品。总而言之，在这种所谓“阳具中心主义”文化中，女性的“性主体性”被贬低，甚至彻底的否定。而强奸，即不顾女性意愿、依靠征服欲强行占有，是“阳具中心主义”最为极端的表征之一。</p>
-<p>我们从民众的“强奸迷思”中也可看出“把女性作为所有物”这一思维的影子。例如，“性侵的威胁来自于外来者”，这一想法反映出的，是对于不属于我们这一群体的人占有属于我们的女人的焦虑，仿佛古代，女子被敌人时的感受。在国内，喜欢韩国明星的女粉丝会被辱骂成卖国贼，但男性看日本女优的AV，意淫“踏平日本，迎娶苍井空”，却成了爱国的举动，这不也是女性被当作财产的表现吗？</p>
-<p>这样，我们就不难理解为何“强奸迷思”会大为盛行，而“单纯强奸”会在象征系统中处于被忽视的地位了。首先，“强奸迷思”凭空创造出各种规矩戒条，“不要在深夜走路”、“不要穿着暴露”、“不要去无人的空巷”……这其实是社会控制女性自由的一种方式。其次，对“单纯强奸”的忽视，意味着社会希望不要让人注意到男性对女性的某些系统性的侵害。这种忽视，在某种程度上，就是暗地里的默许，而把过错归咎于外来者等意识形态的束缚，也是为了让群体内的系统继续稳固地运行下去。对“约会强奸”、“婚内强奸”、“熟人强奸”（这些与“单纯强奸”多有重叠）案例的过多关注，无疑会导致女性更多地注意到自己的从属地位，以及在权力关系中的劣势，从而有颠覆整个系统的危险。</p>
-<p>当然，“阳具中心”不过是所谓“逻各斯中心”的一种表征，中国在政治、文化、社会各方面，都表现出趋向一个中心的一致性，这也难怪多元文化在这里寸步难行了。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E6%88%91%E4%BB%AC%E8%AF%A5%E5%A6%82%E4%BD%95%E5%8F%8D%E6%80%9D%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5%E8%AE%B0%E8%80%85%E6%80%A7%E4%BE%B5%E6%A1%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5%E6%80%A7%E4%BE%B5%E6%A1%88/?category=18271" rel="tag">2016南方日报性侵案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%96%B9%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">南方日报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5/?category=18271" rel="tag">性侵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E4%BE%B5%E6%A1%88/?category=18271" rel="tag">性侵案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B7%E6%9D%83%E7%A4%BE%E4%BC%9A/?category=18271" rel="tag">男权社会</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A7%E5%AE%B6-%E5%BE%90%E8%B4%B2%EF%BC%9A%E5%9B%A0%E4%B8%BA%E6%B3%95%E8%A5%BF%E6%96%AF%EF%BC%8C%E6%B0%91%E7%B2%B9%E6%89%8D%E5%8F%AF%E6%80%95/" target="cdt-mirror">大家 | 徐贲：因为法西斯，民粹才可怕</a>
-</h2>
-<p><p><strong>文 | </strong><strong>徐贲，<strong>腾讯·大家专栏作者，加州圣玛丽学院英语系教授。</strong></strong></p>
-<p>英国选民公投决定脱欧后，出现了两种相互有关，但针对点不同的看法。第一种看法是针对民主本身的，有人认为，公投出现了不利于国家利益的结果，<strong>凸显了民主政治之不足或缺陷。</strong>因此，防止民主不足和缺陷的办法是取而代之的精英政治。更有人甚至以民主有缺陷为借口，暗示不民主的精英政治比民主政治来得优秀和有效。</p>
-<p>第二种看法是针对“民粹主义”的。它认为，<strong>公投是一种民粹政治，</strong>民粹政治的危险在于放任普通民众对他们不懂的事情做他们没有能力的决定。对于英国是否脱欧的重大问题，交由选民直接决定，不如由议院代议决定更为稳妥。这两种看法看似针对不同的对象，但有一点是共同的，那就是<strong>把民众的直接参与视为一种对国家利益有危险和不稳定的因素，并给它戴上了“民粹”的帽子。</strong></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8A%E5%8D%889.56.46.png?resize=476%2C278" alt="Screen Shot 2016-07-02 at 上午9.56.46" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午9.56.46.png?w=476 476w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午9.56.46.png?resize=300%2C175 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午9.56.46.png?resize=80%2C48 80w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"></p>
-<p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>▍</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong><strong><strong><strong><strong><strong><strong><strong>一、</strong></strong></strong></strong></strong></strong></strong><strong><strong><strong><strong><strong><strong><strong>民主的根本作用是防止专制独裁</strong></strong></strong></strong></strong></strong></strong></p>
-<p>其实，把民众的直接参与叫成什么，如或贬或褒的“民粹民主”“大民主”“草根民主”，并不是最重要的。重要的是，什么是民主？为什么要民主？卡尔·波普尔在《20世纪的教训》（王凌霄译，中信）中对此有一个明确的回答：<strong>民主并不能保证每一个由此做出的决定都是正确的或是最好的，民主的重要目的和价值在于避免独裁和集权。</strong>民主的灵魂不是“人民的统治”（rule by the people）——世界上从来就不曾有过这种统治，而是法治。民粹政治（如果选民公投也可以称为“民粹”的话）之所以危险，之所以可能对人民和国家造成祸害，是因为它可能成为专制和独裁的工具。从历史的教训来看，<strong>曾经最成功把民粹政治玩弄于股掌之间，并造成最大灾祸的是专制、集权和凌驾于法治之上的法西斯。</strong></p>
-<p>波普尔指出，民主的要旨是避免独裁，也就是“避免不自由，避免统治模式背离法治”。在古代的希腊，民主就不是一种所谓的“人民的统治”，而是一种防止暴政的方式。这甚至可以是一种对国家利益未必有好处的、相当极端的方式。这就像今天英国选民公投决定脱欧，其结果或许并不一定是对国家利益最有好处的。</p>
-<p>然而，英国的公民公投，不管有没有好处，它的意义都在于表明一个自由的原则，那就是，<strong>英国人民不接受那种总是不得不被代表的可怕命运。</strong>这种看上去像是为自由而自伤其身的做法，在古希腊就已经有过先例。为了避免暴政，古希腊民主曾经实施了一种“流放制度”（ostracism）,长达80年。公民们把他们认为危及国家安定者的名字刻在贝壳或是陶片上，如果半数以上的公民同意，就将此人流放5至10年，这个制度于公元前417年被废止。波普尔对此指出，流放制度“是避免暴君或独裁者，也就是所谓的民粹分子(populist)——这是我们现在用的名词——利用群众掌权；这种人擅长于<strong>炮制民意，鼓动人民，夺取政</strong>权”。</p>
-<p>波普尔对谁是“民粹分子”的意思是很明确的，<strong>“民粹分子”是指那些像墨索里尼、希特勒那样利用群众运动夺取政权，</strong>而一旦掌权之后，便剥夺人民自由和权利，凌驾于法治之上的暴君和独裁者。波普尔进而指出：“‘流放制度’的功能就是让善于驾驭人民的领导者没有施展本领的空间，将他流放出国。但是，这个不能算是被告，因为他没有做什么错事，只能当是一种预防措施，防范深受百姓欢迎的人。”希腊人的智慧真是令人惊叹，他们居然定下限制自己的法规，限制自己因情不自禁地被蛊惑者或魅力领袖牵着鼻子，以致走上不归之路的可能。他们看似“民粹”的方式原来是为了防止民粹最坏的结果！</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-%E4%B8%8A%E5%8D%889.57.40.png?resize=301%2C574" alt="▲ 作为选票使用的碎陶片，上面刻着被提名放逐者的名字；由上至下：伯里克利、客蒙及阿里斯提德" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午9.57.40.png?w=301 301w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-02-at-上午9.57.40.png?resize=157%2C300 157w" sizes="(max-width: 301px) 100vw, 301px" data-recalc-dims="1"><p>▲ 作为选票使用的碎陶片，上面刻着被提名放逐者的名字；由上至下：伯里克利、客蒙及阿里斯提德</p></div>
-<p>美国著名公共知识分子托尼·朱特也在《思虑20世纪》（苏光恩译，中信）里指出，民主是一种解决问题的方法——通过协商和说理，避免强制和暴力。但是，民主只是解决自由社会中问题的方式，不是解决不自由社会中问题的方式。在不自由的社会里，强制和暴力是解决问题的主要方式。民主是一种防范暴政和专制措施，也是一种确保人民不会每次都受同种愚弄的方式。<strong>只有代议而没有公投，会使民主的这两项作用大打折扣。</strong>而且，在更糟糕的情况下，更是会使人民成为对非民主政治毫无抵抗手段的捕获猎物。朱特指出，“民主是短期内抵御非民主政治的最佳屏障，但它并非一道抵御其自身内在缺陷的屏障”。而且，民主只有在具备了充分的条件时才能存在，“如果你观察各个国家的历史，将与民主相关的那些优点都放到最大，就会注意到，最先出现的是宪政、法治和分权。民主几乎总是最后出现。假如民主指的是所有成年人参与选择将要统治他们的政府的权利，那么它是很晚才出现的”。英国人民的公投是一种公民行为和公民选择，他们的公民行为和公民选择正是在英国具有宪政、法治和分权的条件下，才成为真正意义上的民主实践的。</p>
-<p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>▍</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong><strong><strong><strong><strong><strong><strong><strong>二 、法治是约束民粹的根本条件</strong></strong></strong></strong></strong></strong></strong></p>
-<p>民粹本身并不是一种天然的或本质的“善”或“恶”，直到今天，<strong>民粹主义也还是一种“政治涂料”,它可以涂在截然不同的意识形态和政治体制上。</strong>现代自由民主政治里同时包含精英和民粹的元素并不是一件坏事，无须因为一个有用，就排除另外一个。民主本来就是充满了疑问、矛盾和困难的，将民主理想化，完美化，只会给否定和取消民主制造借口。正如波普尔所说，“民主不能算是什么特别好的政治制度，它的好处来自民主之外的地方。民主是一个避免集权暴政的手段，如此而已”。民主最重要的好处是“法律面前人人平等……这是法治的一部分，民主也应该是维持法治的方法”。<strong>英国选民公投决定脱欧，这是在英国法治制度中进行的</strong><strong>，符合英国民主法治的规定和程序。</strong>从法治的角度来说，既然英国人自己认可这个决定的结果，那么外人也就没有批评这个决定方式和结果是对或是错的理由。</p>
-<p>有人说，英国选民公投决定脱欧实际上会对国家造成经济、金融或别的方面的损害，因此，这个决定是错误的。公民直接表决的结果会有怎样的实际效应，在一个民主法治的国家里，这是一个与法治无关的判断。虽然如此，但也不是一个完全多余的考虑。<strong>民主的原则是多数人决定，并尊重少数人的权利。</strong>多数人永远正确，这并不是一个民主的原则——“群众是真正的英雄”这样的说法是民粹主义者用来蛊惑群众的。“大多数人表决”并不总能获得正确的结果，有时候还会犯下严重的错误。民众投票的结果甚至还会为专制打开通行的绿灯。希特勒就是经由这个途径成为独裁者的。今天，英国选民公投并不包含这样的危险，也没有损害英国现有的自由民主制度。只要英国的自由民主制度不受到损害，即使大多数选民对留欧还是脱欧问题上的决定被证明为是错误的，英国人将来仍然还有机会在他们的法治制度里通过适当方式，包括公投，把这个错误纠正过来。</p>
-<p><strong>法治，而不是大多数人的决定，那才是民主的灵魂，</strong>在法治制度里的公民直接参与（大多数人决定）或者代议制参与（不一定是大多数人决定）都是民主的必要运作部分。这不仅体现为遵守现有民主法治的法律秩序，而且也体现为对法治本身的不断改善。法治不是指强迫所有人服从由官方武断规定的“法律”条文，而是<strong>指公民服从自己参与制定的法律。</strong>在自由民主的国家里，制定和修改法律的过程中同样也包含了公民直接参与和代议制的两种方式。例如，在美国，大多数具体法律是在某个州里制定的,制定法律的民主程序也不尽相同,但一般都有两个阶段：提案和通过提案而成为法律。在加州，州的参、众两院可以议定提案，普通民众也可以提出议案。如果征集433,971个或694,354个选民签名,就可以分别提出立“法规”(statute)和州宪法“修正案”(amendment)的提案。提案经过全州公民表决并通过后，“法规”必须通过司法机构的审核, “修正法”则不需要，便成为法律。<strong>普通民众提出提案，经过法定的程序，成为法律，这也可以说是一种“公投”。</strong></p>
-<p>公投并不能保证产生好的法律，而且，公投产生的法律也比较容易被其他的公投法律所修改或代替，这些都是事实，但是另外一个问题。正因如此，经由代议制的法律制定才成为一个重要的平衡和稳定因素。例如，要通过美国的宪法修正案则非常困难。首先，要国会众、参两院2/3的票数通过后，再由50个州中3/4的州,即37个州的众、参两院通过。200多年来，美国宪法迄今共有27条修正案,而加州宪法却有过500余条提出的修正案。在美国，<strong>只要自由民主的宪法这个国本不动摇，在法治制度中的民众直接参与就不会对国家形成所谓的“民粹”威胁。</strong>一旦法治制度有可能被破坏，那么民众的直接参与就会成为一个“民粹”问题，这个“民粹”问题的严重程度是与法西斯政治的现实危险息息相关的。</p>
-<p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>▍</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong><strong><strong><strong><strong><strong><strong><strong>三、民粹提醒我们对当今世界的法西斯危险</strong></strong></strong></strong></strong></strong></strong></p>
-<p>目前，美国就面临着这样的问题。2016年美国大选中特朗普(Donald Trump)崛起，成为“特朗普现象”，对美国民主制度是一个考验，《华盛顿时报》已经有好几篇文章指出，法西斯主义可能借民主社会的内部论辩之机卷土重来，并对未来美国政治发展形成严重威胁。</p>
-<p>美国政治学者和专栏作家凯根(Robert Kagan)在《法西斯主义就这样来到美国》（This Is How Fascism Comes to America）一文中指出，特朗普受到许多选民的支持，打破了美国自由民主政治的传统格局，因为“整个特朗普现象与政策和意识形态无关”。一向代表保守主义与自由主义的共和、民主两党之间的区分在相当程度上失去了意义。共和党大佬们先前与特朗普之间的僵局帮助营造了他特立独行的形象，<strong>他的支持者们忠诚的对象不是共和党，而是特朗普本人。</strong></p>
-<p>这些支持者们或许对美国的经济状况多有不满，但特朗普并没有给他们任何正面的经济方案，他只是不断在反对这个异己，攻击那个敌人——穆斯林、讲西班牙语的拉美人、妇女、中国人、墨西哥人、阿拉伯人、移民、难民。他的政策就是对这些人绝不示弱、强硬出击，该排斥的就排斥，该赶走的就赶走，该禁绝的就禁绝。摆出一副强人姿态的特朗普——愤怒的硬汉谁也不买账，他本人俨然成了解决一切问题的方案。特朗普的仇恨、排斥和敌对言论令人想起20世纪20至30年代的意大利法西斯主义。<strong>它就是以反对和对抗各种对国家的“威胁”来壮大自己的，</strong>它反自由主义、反民主、反马克思主义、反资本主义。它利用民众对政治强人的期待和崇拜，把解决所有问题的希望都寄托在无所不能的“领袖”或“元首”身上。在这样的民众身上，<strong>“民粹”的危险（群众自己的盲目破坏力）是被法西斯主义利用和放大了的。</strong></p>
-<p>法西斯主义是一种个人的地位被压制于集体——国家、民族、种族或社会阶级——之下的社会体制，其灵魂人物墨索里尼说：“法西斯原则的根基是它关于国家和国家本质、作用、目的的观念。对法西斯主义来说，国家是绝对的，个人和群体都是相对的。”法西斯的绝对国家主义以 “运动”“主义”“信仰”之名，用各种极端的手段压制和取消人民的自由，强迫个人绝对服从国家意志，充当驯服的工具。</p>
-<p>法西斯动员群众，利用群众的力量达来到自己的专制独裁目的，它的政治运作是在民主法治的体制外进行的，而且，它把这种运作本身变成一种暴力“法制”——这与民主宪政框架下的公投根本不能同日而语。前委内瑞拉的政治强人查韦斯就是利用群众运动起家的，他也有自己那一套法治外的“法制”。在他那里，残暴的威吓方式──大规模逮捕、行刑队、血腥镇压──被柔性的强迫方式代替了，最有效的办法不再是强行逮捕人权团体成员，而是派出税吏或者卫生局官员让反对团体关门大吉。政府把法律写得很宽松，当遇上有威胁性的个人或团体时，运用起来却像手术刀一样精确。委内瑞拉的一个异议分子说，查韦斯总统的座右铭是：“我的朋友，荣华富贵；我的敌人，法律伺候。”</p>
-<p>法西斯是自由的敌人，捍卫自由和权利的公民力量越强大，法西斯主义利用群众运动（包括公民投票中的“大多数人的决定”）的胜算就越小。因此，在对待像英国脱欧公投这样的民意显示时，<strong>需要特别分清什么是可能被法西斯利用的群众运动和民粹政治，什么是抵制法西斯所必不可少的民主法治和积极公民参与。</strong>如果多数选民通过投票，违反民主法治的程序，以压制或暴力的手段剥夺少数人的权利或限制他们的自由，这便会让敌视自由的法西斯有了可乘之机。这时候出现的就不只是民粹，而是被法西斯绑架了的民粹。在民主法治制度里，对个人自由的尊重和保护是优先于多数人决定的。因此，在主张大多数决定这一原则的同时，一定要强调保护少数人的自由和权利，而一旦法西斯与民粹相结合，少数人必然成为迫害和消灭的对象。“文革”政治已经给了我们这方面许多深刻教训。</p>
-<p>在美国，<strong>“特朗普现象”引发的不是对民粹的忧虑，而是对法西斯的再度思考。</strong>特朗普的政治主张里有许多仇恨、歧视和排斥异己的东西，与美国宪法的自由、民主、人的尊严等基本价值相抵牾，也与美国现有法律对公民权利和人权的保护相违背。“特朗普现象”讨论正在带出不少关于全球范围内正出现法西斯主义和专制主义的讨论。这一讨论的对象是拥有绝对权力的强人政治、带有侵略性的民族主义、利用民众排外情绪的仇恨煽动。这些都有相当普遍的民意基础，并在相当程度上让一些政客有机会能成功地利用民众的焦虑、无知、恐惧和不安全感。我们不能说在英国脱欧公投中没有这些负面的心理因素和情绪在起作用。这样的心理因素和情绪是人类共有的，只要人类存在就不可能将之消除。但是，这些心理因素和情绪的负面作用——暴力、敌对、歧视、不宽容——是可以通过建立适当的政治制度来加以限制的。从根本上来说，这个制度就是民主法治。<strong>只要这个制度在英国还健康存在，我们就没有必要去担心，那里的公民公投是否已经成了“民粹”。</strong></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A7%E5%AE%B6-%E5%BE%90%E8%B4%B2%EF%BC%9A%E5%9B%A0%E4%B8%BA%E6%B3%95%E8%A5%BF%E6%96%AF%EF%BC%8C%E6%B0%91%E7%B2%B9%E6%89%8D%E5%8F%AF%E6%80%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%A8%E6%B0%91%E5%85%AC%E6%8A%95/?category=18271" rel="tag">全民公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%90%E8%B4%B2/?category=18271" rel="tag">徐贲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">民主政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E5%85%AC%E6%8A%95/?category=18271" rel="tag">英国公投</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD%E8%84%B1%E6%AC%A7/?category=18271" rel="tag">英国脱欧</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%BA%89%E9%B8%A3%EF%BD%9C%E6%9E%97%E8%8D%A3%E5%9F%BA%E5%8F%8D%E6%8A%97%E7%9A%84%E6%84%8F%E4%B9%89/" target="cdt-mirror">争鸣｜林荣基反抗的意义</a>
-</h2>
-<p><p>习近平曾说，“腐败分子即使逃到天涯海角，也要把他们追回来绳之以法，五年、十年、二十年都要追”。不承想，第一批被跨国跨境追捕归案的，并不是携巨资、持绝密叛党叛国的中共外逃贪官团伙，而是香港一间小小书店里一不小心触怒了龙颜、冒犯了国威的五位文弱书商。</p>
-<p>如果一个国家，一个世界上最大的一党专政大国，执意要将一间小小的书店设定为假想敌；如果一个“中央政府”，一个一向为所欲为的中央集权政府，不顾后果、不计代价地对五位书商穷追不舍、“虽远必诛”，结局似乎没有什么悬念。人们都已经看到了：“一国两制，港人治港”根本抵御不了“中央专案组”的野蛮行径。瑞典国籍、英国护照也未能有效保护桂民海、李波的基本人身安全——事实上，瑞典、英国两国政府对桂民海、李波的冷漠，对中共当局的“温柔”，比港府有过之而无不及。</p>
-<p>林荣基反转中共编导的剧情</p>
-<p>随着中共当局对桂民海审判在即，随着其余四位书商因“主动配合”之功而陆续重获自由，回港“销案”，其中三人作心悦诚服、俯首帖耳状，对所经历之事三缄其口，讳莫如深，曾经在香港和国际媒体上喧嚣一时的铜锣湾书店集体“被失踪”事件眼看着就要按照中共既定的剧本顺利落幕了。一手制造了事件、一手操控着事件发展而且一手遮天的中共当局差一点就要大功告成，弹冠相庆了。值此紧要关头，被秘密囚禁了八个多月刚刚获释的铜锣湾书店店长林荣基克服了内心的恐惧，单方面撕毁了“自愿”协议，中止了“合作”游戏，踢爆了事件“内幕”。他是迄今为止唯一一位敢于直面全球媒体，全程公开自己“被失踪”期间的奇特经历，包括被强行抓捕、千里转运、密室囚禁、试图自杀以及被迫签署认罪书、在“有导演有台词”情况下作“电视认罪”等痛苦经历的香港书商。</p>
-<p>林荣基的“幡然悔悟”偏离了剧本，反转了剧情，令舆论哗然，亦让笼罩在无边黑暗之中的铜锣湾书商系列失踪案件透出了一线亮光。感谢林荣基，他的勇敢行为对得起六千港人的街头抗议，配得上“一国两制”的原初涵义。而其他几位当事书商在内地均有近亲属，其获释之后不声张、不求助、不爆料，深居简出，避人耳目，言行举止颇为不近情理，显然，他们要么是有不得已的苦衷，要么陷入了无法克服的恐惧——而最深的恐惧，则是对恐惧的恐惧。其实，林荣基也不是了无牵挂，他有把柄抓在中共当局手上，虽无近亲属居于内地，但内地女朋友的人身安全与人生命运极有可能受其严重拖累——尤其是考虑到其女友作为帮助林在内地邮寄“禁书”的“同案犯”身份——这些因素或多或少会让林在终止与“强力部门”合作时背上道德与情感的包袱。</p>
-<p>中共当局手忙脚乱四处灭火</p>
-<p>现在，局势已变，轮到中共当局手忙脚乱，四处灭火了。人们看到，除了外交部发言人和《环球时报》无法自圆其说的荒谬辩解，中共当局最主要的传声筒似乎是铜锣湾书店事件除桂民海（仍然在押）之外的另外三位受害人。李波、吕波、张志平几乎同时打破沉默，对林荣基的言论进行了反驳。李波否认说过“非自愿被带返内地”，也“没听说过‘中央专案组’这回事”。吕波指斥“不能用个人的过错蛊惑人心和攻击一国两制”。张志平指林荣基“说谎”。林的内地女朋友责骂林“不是男人”、“不考虑别人死活”——此话无意中暴露了该女友的人质属性。</p>
-<p>这是一个奇怪的格局，五位受害人，一人系狱，一人“翻供”，其余受害人及其关系人则一边倒地站在加害者一边。谁的言论更加真实可信？严格说来，李波、吕波、张志平以及林的女友的反驳与林荣基的言论不在同一个层次，完全没有相与辩难、一决高下的资格。因为毫无疑问，记者会上面对面的公开答问，国际媒体上的即兴访谈，即使有细节上的瑕疵，也必定比特定媒体独家披露的言论更加真实；对八个月囚禁经历的全程公布，无论有多少记忆上的错误与缺失，也必定比藏藏掖掖、吞吞吐吐、支支吾吾、欲言又止的片言只语可信一万倍。要证明中共当局没有“越境执法”再简单不过了，根本无需华春莹与《环球时报》出马，只需李波像林荣基那样，把他偷渡内地那一天前前后后所发生过的事情原原本本说出来即可，他敢吗？中共敢吗？</p>
-<p>对于林荣基与中共当局来说，已经发生过的事实不可能重新来过。当林荣基在按要求携带订书客户资料硬碟返回内地途中忽然变卦，毅然决然折返香港，从那一刻起，他改变了事件，也改变了自我、改变了命运——从此成为一个“有种香港人”。他也给全体香港人和全体中国人提供了一个机会，让人们审视陆港两地当下严峻的政治现实：这是一个什么样的香港？一种什么样的“一国两制”？一个什么样的中央政府？铜锣湾书商集体“被失踪”事件，作为衡量“一国两制”现状的指标性事件，必将对香港政情的发展、陆港关系的变化产生长远和深刻的影响。</p>
-<p>自由的意志与抗争的勇气</p>
-<p>林荣基真正的可贵之处，似乎并不在于他踢爆了“内幕”，揭发了真相。其实，事件虽然扑朔迷离，但真相一点儿也不复杂。李波是不是遭遇了“越境执法”，桂民海是不是遭遇了跨国绑架，抑或二人都是“爱国”心切，“自愿”偷渡入境，自投监牢，这是决定铜锣湾书店事件本质的两个核心事实。人们虽然不知道此中详情与细节，但傻子都知道是怎么回事。事件已经清晰到一向揣着明白装糊涂的《环球时报》也难于绕弯子、羞于编瞎话的地步。林荣基真正的可贵之处在于，在经历了囚禁、恐吓、诱供、“电视认罪”、人质要挟等等人身与精神的折磨之后，依然保留着不屈的精神、自由的意志与抗争的勇气。</p>
-<p>因为这是一场一般人经受不起的不对称的战斗：一个专制大国，竟不顾“一国两制”的颜面，不顾国际关系的准则，只为报复一间小小的书店；一个所谓“中央政府”，竟毫无顾忌地自毁“依法治国”的形象，践踏本国公民和外国公民的基本人权，只为惩罚五位名不见经传的“禁书”书商。这当然不是法律行为，也不是政治行为，而是它自己都不敢承认的、极度野蛮的准战争行为。普通人很难猜透独裁者的心思，究竟是什么样的了不起的“禁书”，让专制政府如此大动肝火，气冲牛斗，做出此等愚蠢荒谬之极的准战争行为？</p>
-<p>港人不要给中共错误信号</p>
-<p>书店与书商诚然不足与中共交手，二者并非旗鼓相当的对手。如果林荣基选择了沉默、屈服和顺从，将心比心，人们并没有理由过分责备他。而最终，在这场一个大国对一间书店的不对称战斗中，五位书商竟然没有全体降服，尚余一位反抗意志坚不可摧的志士存在，其中的象征意义远比事件真相与细节的爆料本身更为可贵。兹事体大，事关港人荣辱，事关“一国两制”尊严，正如林荣基所说，“如果我作为五个人里面负担最少的都不出声，香港就没得救”。</p>
-<p>此话有理。如果所有的当事人、受害人都对自己所遭受的不公正待遇和屈辱经历保持沉默——不管他有什么样的正当理由或难言苦衷，甚或成为斯德哥尔摩症候群患者，对专制政府的“宽大处理”感恩戴德，对加害者的“洗脑”和“改造”欣然接受且为之曲意辩解，那不仅会导致是非混淆、正义蒙尘，让那些人权的侵犯者、“一国两制”的破坏者们正中下怀，从此愈加有恃无恐，只要中央足够强势，足够霸道，则真相可掩，万事大吉。如果没有林荣基的反戈一击，铜锣湾书店事件传达给中共当局的，或许就是这样一个信号：治港需用重典，狠的比柔的管用。若中央政府按此信号行事，或从此以“专案治港”方式排挤压缩“港人治港”空间，并使之常态化、模式化，则“一国两制”万劫不复。</p>
-<p>《争鸣》2016年7月号</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%BA%89%E9%B8%A3%EF%BD%9C%E6%9E%97%E8%8D%A3%E5%9F%BA%E5%8F%8D%E6%8A%97%E7%9A%84%E6%84%8F%E4%B9%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/533854/" target="cdt-mirror">【网络民议】最坏的语文：胃内容物吸入呼吸道致窒息死亡</a>
-</h2>
-<p><p>北京检方公布雷洋尸检结果的相关微博无一例外被关闭评论：</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB.jpg?resize=525%2C225" alt="头条新闻" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻.jpg?w=2314 2314w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻.jpg?resize=300%2C128 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻.jpg?resize=768%2C329 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻.jpg?resize=1024%2C438 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻.jpg?w=2000 2000w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%B4%A2%E6%96%B0%E7%BD%91.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%B4%A2%E6%96%B0%E7%BD%91.jpg?resize=525%2C237" alt="财新网" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/财新网.jpg?w=2311 2311w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/财新网.jpg?resize=300%2C135 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/财新网.jpg?resize=768%2C346 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/财新网.jpg?resize=1024%2C462 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/财新网.jpg?w=2000 2000w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>直到有媒体出面科普“胃内容物吸入呼吸道致死”，网民才总算有了评论的去处：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB2.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%A4%B4%E6%9D%A1%E6%96%B0%E9%97%BB2.jpg?resize=500%2C390" alt="头条新闻2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻2.jpg?w=2010 2010w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻2.jpg?resize=300%2C234 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻2.jpg?resize=768%2C598 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/头条新闻2.jpg?resize=1024%2C798 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@爱宠之人_z5x：昨天禁评，然儿做了一天功课小编只找到这个案例？差评</p>
-<p>@法律研习社：刚开始不是突发心脏病猝死嘛，央视呢，北京电视台呢，怎么不出来逼逼了</p>
-<p>@丿寂寥丶星空：中央台不是说是嫖娼吗，不是还有小姐作证吗，那个小姐不是言之凿凿的说帮雷阳打飞机来的吗，不是说是心脏病突发死亡吗，那个邢某队长不是也出场作证的吗，中央台前一阵子不是信誓旦旦的说几十年来从不说谎吗，原来几十年来都是在逗我们玩啊</p>
-<p>@任稳重：你们一拖再拖，三番两次转变话锋。所有监控一起损坏，执法记录仪改口手机，尸检结果不严谨还发文说需要二次尸检，当事民警直到今天才被控制，甚至在开始还参与调查自己犯的案子。一切的一切都让所有人心中早已认定了一个事实：那就是雷洋被打死，你们护犊子。无奈，社会缺乏安全感，政府缺乏公信力！</p>
-<p>@麻辣果批：模棱两可的尸检报告，既能能维护警队声誉，又能平息事件，接下来就封消息，拖时间，事件冷却后，再公布刑某某等有玩弄职守罪，判刑五到七年，然后在后台处理，保外就医，不了了之。</p>
-<p>闹眼已：胃内容物吸入呼吸道导致死亡。这不就是打死或整死的吗？还他妈想给警察安个玩忽职守就脱身。什么叫玩忽职守？难道是看守警察在玩手机，雷洋自己玩倒立憋死了他没管？雷洋凭白无故怎么会吸物憋死？</p>
-<p>@闲炎岁语：打人是不可能把人直接打死的，说被打死的其实都是因为自身原因而死。比如邱少云其实是因为体内蛋白质变性导致肌体功能丧失而死，黄继光是因为心脏大动脉破裂流血死的，刘胡兰是因为大脑供血不足缺氧死的</p>
-<p>@韦至丶：简单来说就是打的吐了 然后呕吐物堵塞呼吸道窒息死亡</p>
-<p>@铁虎阿锋：我以前参加职业拳赛，明白一个道理，重击对手胃 会让对手有呕吐感，要么是重击对手头部！雷洋死说直接 简单点 被打的.</p>
-<p>@慢慢骑士：这就是用所谓的术语忽悠民众</p>
-<p><strong>@王烁:这就是用表面上的严谨用词来迟滞、钝化真相的冲击，是最坏的语文。</strong></p>
-<blockquote><p>@烟雨迷離的煙：图片评论<br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/499632edjw1f5epjyl0bfj20k00hjjss.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/499632edjw1f5epjyl0bfj20k00hjjss.jpg?resize=440%2C386" alt="499632edjw1f5epjyl0bfj20k00hjjss" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/499632edjw1f5epjyl0bfj20k00hjjss.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/499632edjw1f5epjyl0bfj20k00hjjss.jpg?resize=300%2C263 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p></blockquote>
-<p>@扁头好男人：雷洋案让我感觉越来越没安全感了，一个尸检拖了将近两个月，而且是在广大舆论催促在才公布死亡原因，叫我们如何相信正义？</p>
-<p>@京衡律师李慧琴：真相渐渐浮出，外因致死，没有心脏病。如果没有律师的介入，没有备受关注，恐怕永远不会知道29岁健康的生命，是怎么突然死亡的！</p>
-<p>@笑面人生2332415051：可怕的是，央视，北视，昌平公安，派出所集体帮涉警造势，维护。执法者法在何方？</p>
-<p>@66童年de记忆：那主谋派出所所长到底有何背景？什么底气使他组豪华律师团为自己辩护？？</p>
-<p>@jasmine的藍熊：真不要脸，翻云覆雨越描越黑，不就是被那几个流氓警察殴打致死的吗？还在这儿咬文嚼字的放狗屁。还玩忽职守罪？tm的就是几个杀人犯</p>
-<p>@总有刁民想嘿朕：跟官员节假日去办公室搽玻璃死亡一样，懂了没？</p>
-<p>@贰0壹六时来运转：江苏民警张际勇怎么不查，公安掩盖什么真相</p>
-<p>@圣托里尼和你一起去：死因没错，关键是问怎么导致胃内容物返流的。大家都在喷什么。比如一个人被打的脾破裂大出血，法医只能写出因脾破裂失血过多死亡。重点是关注怎么导致的胃内容物返流。不是这个返流对不对。关注点放对好吗？我现在就想知道警察做了什么让他胃内容物返流的！</p>
-<p>@小塔jjjsxz：就是误流返吸呗，现在是在转移关注点，我们关注的是他为什么会出现误流返吸！这种情况在手术中和术后会出现，而在正常审讯过程中出现表示不可理解，还在曲折转移关注点</p>
-<p>@唯一技术流：有一点基础常识的应该都懂—就是呼吸道窒息导致的，外力导致的呼吸道窒息两种可能—扼颈或捂口鼻，当然很重的心血管疾病患者也会出现这种状况，结合雷洋案件—外力导致的几乎不用争论，壮年男人捂口鼻导致窒息的也不可能，所以不管有意还是无意肯定是被扼颈了</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/533854/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1/?category=18271" rel="tag">新闻自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9A%B4%E5%8A%9B%E6%89%A7%E6%B3%95/?category=18271" rel="tag">暴力执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B/?category=18271" rel="tag">雷洋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/?category=18271" rel="tag">雷洋之死</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E5%B0%B8%E6%A3%80/?category=18271" rel="tag">雷洋尸检</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B8%83%E5%B1%80%E5%8D%81%E4%B9%9D%E5%A4%A7%EF%BC%8C%E6%B1%AA%E6%B4%8B%E6%9D%8E%E6%BA%90%E6%BD%AE%E5%89%8D%E6%99%AF%E4%B8%8D/" target="cdt-mirror">美国之音｜习近平布局十九大，汪洋李源潮前景不妙？</a>
-</h2>
-<p><p>最近，不少海外华人媒体报道了中共政治局委员，国家副主席李源潮秘书被抓，家人被查的传闻。此前已经有多位由李源潮提拔的“江苏系”官员落马，一些分析人士因此认为李源潮政治前途堪忧。与此同时，炒得沸沸扬扬的乌坎事件，也被一些分析人士看成是另一位团派领军人物汪洋的政治遗产“全军覆没”的征兆。此外，最近省级官员人事异动频频，中纪委在多个党政部门加紧反腐清查，这些都被看成是十九大前人事大整顿的前奏。李源潮与汪洋这两位曾经一度的团派政治之星，是否政治前途不妙？习近平布局十九大人事，还有哪些动作？</p>
-<p>参加讨论的四位嘉宾是：中共党史学者、《晚年周恩来》一书的作者高文谦先生；中国民间学人，独立评论人士王康先生；人权组织“公民力量”创办人杨建利先生；政论作家，时事分析人士陈破空先生。</p>
-<p>陈破空表示，习近平抓捕李源潮的下属和身边人，是冲着李源潮而来；乌坎风波再起，则是冲着汪洋而来。鉴于李源潮和汪洋都是团派实力派人物，习近平应该并非要将李源潮、汪洋投入大牢，习的主要目的，是阻止李、汪二人明年十九大进入政治局常委会。通过反腐运动，习近平削弱了江派，如今，又以各种理由，开始打压团派。习近平的谋划是，十九大排除江派和团派，让“习家军”一家独大。然而，“习家军”还没有成气候，突击提拔，可能引发党内反感，所以，习近平此举，也潜存相当风险。另外，汪洋和李源潮都属于开明派，外界风评不错，习近平打击他们，可能强化习近平自己保守、强硬和极左的形象，反而对自己不利。尽管，习近平与李源潮、汪洋及团派的斗争，并非意识形态领域的斗争，而是赤裸裸的权力斗争。</p>
-<p>高文谦认为，整肃李源潮应该不是空穴来风，是习近平十九大人事安排棋局中的一着棋。团派经营多年，占有年龄优势，挡了习家军上位的路。在团派中，李克强只是一个牌位，真正的实力派人物是令计划和李源潮。令倒台后，李源潮成为团派的中坚，特别是他掌管中组部多年，经他手提拔的官员遍布官场，江苏省更是他的大本营。现在习近平、李克强交恶，党内出现反习势力，推李克强出来当共主，动李克强牵动太大，李源潮就成为开刀的对象。李源潮是否会落马，现在情况仍不明朗，存在变数，不过可以肯定，习近平要拿李源潮开刀，至于整到哪一步，取决于十九大前中共高层各派的较量。最后的结果可能是：一是敲山震虎，只整江苏帮和李源潮家人，对李本人软处理，平安降落；二是直接整到李源潮头上，落得和令计划一样的下场。究竟如何，还要再看。</p>
-<p>杨建利表示，李源潮有年轻能干的形象，同时相对较为开明，包括在江苏主政期间和八九期间，自由知识分子们对他的印象不错。他在政坛的经营不光是在江苏，更是在中共组织部的经验。但是他有一件事犯了习近平的大忌，就是 2012 年时他和令计划在北戴河会议上搞过一个党内接班人摸底，当时他和令计划的得票非常高。这件事可能一直让习近平耿耿于怀。因此他以后能够不进监狱顺利退休就已经是幸运了。</p>
-<p>杨建利说，仅从人民日报文章“中央主要领导机构历史演进”我解读不出习近平要废除政治局常委的意图，然而的确，如果废除了政治局，只设办事机构书记处，相当于秘书处，会有利于习近平集权，也会使得权力争夺一维化──最高权力，赢者通吃。不过这种可能性不大。其实十九大最重要的还是要看是否会改变最高权力产生的游戏规则，会不会设储君，这些直接和习近平两届任满以后的企图有直接关系。不管怎样，未来一年权力斗争将激烈化， 5 年内权力斗争将白热化。</p>
-<p>王康表示，如果说李源潮是个比较开明的官员，那么汪洋更加开明。汪洋主政重庆期间曾开展了一系列开明导向的举措和政策来鼓励民营企业和民众的言论自由。汪洋还试图在广东建立小政府大社会，他是一个比较有人情味的官员。</p>
-<p>王康说，只要中共坚持一党专制，其最高权力的继承和转移就在腥风血雨和宫帷幕后之间，人民的选择权、知情权不会实现。中共建党已 95 周年，执政 66 年，至今仍然奉行列宁斯大林当国模式，新一轮权力较量随 19 大的临近而日趋激烈、险恶。人们所能获知的只是冰山一角，关心中国政局者所能借以分析的资讯也只是凤毛麟角。因为中国日趋强大，中共这种黑箱操作的权力斗争的影响将成比例增大。肯定会有出人意外的人事变化，也可能出现 2012 年在重庆出现的戏剧性突变，无论鹿死谁手，人民都是看客，这是当代中国最现实的危机。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 贵党真乱 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B8%83%E5%B1%80%E5%8D%81%E4%B9%9D%E5%A4%A7%EF%BC%8C%E6%B1%AA%E6%B4%8B%E6%9D%8E%E6%BA%90%E6%BD%AE%E5%89%8D%E6%99%AF%E4%B8%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E6%BA%90%E6%BD%AE/?category=18271" rel="tag">李源潮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%AA%E6%B4%8B/?category=18271" rel="tag">汪洋</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%8A%9B%E6%8C%BA%E7%BE%8E%E5%88%86%E6%B4%A5%E8%B4%B4%E8%A1%A8-%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%88%A0%E5%90%8E%E9%87%8D%E5%8F%91/" target="cdt-mirror">共青团中央力挺“美分津贴表” 微博被删后重发</a>
-</h2>
-<p><p>共青团中央 官方帐号于北京时间2016年7月2日发微博抱怨，称其所发文章《<a href="http://weibo.com/ttarticle/p/show?id=2309403992503496890297" target="_blank">媒体观察：网曝“美分”队伍<舆情员津贴奖金发放表>，是真是假？”</a>》遭新浪微博删除：</p>
-<blockquote><p><a href="http://weibo.com/3937348351/DCOrbFNzz" target="_blank">@共青团中央</a>：据网友反应，这篇帖子被删除。但，并非我们删除，所以再次贴出。 <a href="http://t.cn/R5RdGWN" target="_blank">媒体观察：网曝“美分”队伍《舆情员津贴奖金发… </a></p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%BE%AE%E5%8D%9A-copy.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%BE%AE%E5%8D%9A-copy.png?resize=500%2C382" alt="共青团中央微博 copy" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/共青团中央微博-copy.png?w=602 602w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/共青团中央微博-copy.png?resize=300%2C229 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>6月27日，一个叫“察网”的网站高调<a href="http://chinadigitaltimes.net/chinese/2016/06/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91/" target="_blank">发布了相关内容</a>，并为“津贴奖金发放表”中的所谓“部直属第5分队”成员扣上了“网络反共反华组织”的帽子。南平市团委官方微博随即跟进转发：</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/54786a23gw1f5ajlb8da4j20qo1be7f3.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/54786a23gw1f5ajlb8da4j20qo1be7f3.jpg?resize=400%2C711" alt="54786a23gw1f5ajlb8da4j20qo1be7f3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/54786a23gw1f5ajlb8da4j20qo1be7f3.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/54786a23gw1f5ajlb8da4j20qo1be7f3.jpg?resize=169%2C300 169w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>截图来源：新浪微博 @daoke1109</span></p></div>
-<p><strong>@共青团中央 显然对这份来源不明的“津贴奖金发放表”非常重视</strong>，在察网原文的基础上<strong>作了大量网络调查、增加更多“水军团队成员”信息<strong>后</strong></strong>，发表了那篇被删的“分析”文章。该文在总结中承认无法直接证明上述表格的真实性，但认为“成员”的言论“政治倾向”、“网络行为”与“反华”组织的特点“吻合”：</p>
-<blockquote>
-<ol><li>并没有直接证据证明《发放表》的真实性。</li>
-<li>但就从四名疑似人员来看，其言论政治倾向吻合，网络行为吻合。</li>
-<li>从 组织结构来看：把具有较强原创能力、较老资格的梅雪飘香定为1级成员，把具有较强原创能力的段子手活雷锋啊小东定为2级成员，把具有较强活动能力、言论 激烈且较老资格的张激扬定为2级成员，把能力较差的新手让子弹飞一会儿定为4级成员，成员级别划分合理，符合组织搭建和绩效规则。</li>
-<li>从社交关系和转发关联来看，四名疑似人员与秦火火、薛蛮子、杨恒均以及茅于轼、贺卫方等具备普遍网络关联。</li>
-</ol></blockquote>
-<p>换而言之，即<span><strong>对团中央来说， 接受“境外资助”的、类似极左阴谋论中所谓“<span><a href="http://chinadigitaltimes.net/chinese/2013/11/%E6%B3%95%E5%B9%BF-%E4%B8%8A%E6%B5%B7%E8%A7%86%E7%AA%97-%E3%80%8A%E8%BE%83%E9%87%8F%E6%97%A0%E5%A3%B0%E3%80%8B%E5%BC%95%E7%94%A8%E7%9A%84%E4%B8%AD%E6%83%85%E5%B1%80%E5%8D%81%E8%AF%AB/" target="_blank">第五纵队</a></span>”的“网络反共反华组织”是真实存在的，这里的问题只是具体名单／数据的真实性而已</strong></span><strong>。</strong></p>
-<p>@共青团中央 被删微博截图：</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b8be4bf7jw1f5einywy9vj20qo1betiz.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b8be4bf7jw1f5einywy9vj20qo1betiz.jpg?resize=400%2C711" alt="b8be4bf7jw1f5einywy9vj20qo1betiz" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b8be4bf7jw1f5einywy9vj20qo1betiz.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b8be4bf7jw1f5einywy9vj20qo1betiz.jpg?resize=169%2C300 169w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>截图来源：新浪微博 @杀手太冷2013</span></p></div>
-<p>然而在共青团中央跟进之前，李剑芒（<a href="http://weibo.com/5880794146/DCflLvp61" target="_blank">@李大大263</a>）就曾在微博质疑过这份表格的真实性。李称据他所知，该表格为某微信群中的一名成员所编造，且“奖金”发放名单上多为该群的成员：</p>
-<blockquote><p><a href="http://weibo.com/5880794146/DCflLvp61" target="_blank">@李大大263</a>：是无聊，还是有目的？网上突然疯传一个五毛津贴表格（图一），因为我知道这个表格是一个群里（我不在那个群但网友传来那个群的截图）叫“胡来”的网友自己瞎编出来的（图二），表格上的人基本都是那个群的成员（图三）。当微博有人问我真假时，我回答：“假的。一个微信群制造的自娱自乐，名单上多是那个群的成员”。读者告诉我，新浪屏蔽了我的这个回复帖子，这让我感到意外。我以为这是网友无聊，自娱自乐，可新浪屏蔽我干什么？难道不是胡闹而是是有政治目的的造谣？<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5d951naw3j30qo1bejw9.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5d951naw3j30qo1bejw9.jpg?resize=400%2C711" alt="006pZdcugw1f5d951naw3j30qo1bejw9" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5d951naw3j30qo1bejw9.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5d951naw3j30qo1bejw9.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5d951naw3j30qo1bejw9.jpg?resize=576%2C1024 576w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarlpu8aj30iv0dkdhw.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarlpu8aj30iv0dkdhw.jpg?resize=500%2C359" alt="006pZdcugw1f5aarlpu8aj30iv0dkdhw" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarlpu8aj30iv0dkdhw.jpg?w=679 679w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarlpu8aj30iv0dkdhw.jpg?resize=300%2C216 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarr3zs7j30yi1pctgb.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarr3zs7j30yi1pctgb.jpg?resize=400%2C711" alt="006pZdcugw1f5aarr3zs7j30yi1pctgb" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarr3zs7j30yi1pctgb.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarr3zs7j30yi1pctgb.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pZdcugw1f5aarr3zs7j30yi1pctgb.jpg?resize=576%2C1024 576w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<p>@李大大263：这个“工资表”又被@察网中国 和@南平团市委 炒作成了“秦火火网络颠覆”组织。靠！这群自娱自乐的团伙被网民大骂了一通五毛后，现在又被官媒炒作成了反共团伙。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/n/%E6%9D%8E%E5%A4%A7%E5%A4%A7263?from=feed&loc=at" target="_blank">@李大大263</a>:看来团中央和党中央干起来了。搬个板凳看热闹。看看俩中央哪个能打赢<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[酷]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/40/cool_org.gif" alt="[酷]" data-recalc-dims="1"></p>
-<p>@夜郎太医：即使被裁撤，减狗粮，影子中央仍没消停，不甘心淡出舞台。</p>
-<p>@历史的眼睛：这真是团的官微发的？我不敢相信自己的眼睛</p>
-<p>@陈业文新大都:这是团中央官博发的？还连发了两次？试问，是国外的间谍机构太弱智，还是他们太拙劣？居然脑残到用如此手段发放“报酬”？你们这是在黑我大中国反间谍机构都是一帮蠢货傻逼么？</p>
-<p><a href="http://weibo.com/2636473121" target="_blank">@远东异端审问官</a><i></i>：团团这么low我也就放心了。我曾经以为前国台办的外交已经够low了。结果党营rap和共产拉拉证明没有最low，只有更low。加油！百岁冥诞有你团团的一份功<img title="[兔子]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/81/rabbit_org.gif" alt="[兔子]" data-recalc-dims="1"></p>
-<p>@渡缘养心：两条五毛狗相互撕咬，最后双双臭烂在街角。</p>
-<p>@闻辛2012：捡到一张群内玩笑的表格，好像在水中抓到一根稻草。</p>
-<p>@缘海孤洲：一大批五毛：老子不干了了！</p>
-<p>@中山牛牛:帮转，看看我们的泱泱共青团中央日常都在做些什么正经的事情 。</p>
-<p>@思维之思维：感觉像是一个打魔兽的初中生在管理团中央的微博</p>
-<p>@村长鲁阿满：二中央培养五毛，捡图造谣，左翻中国。</p>
-<p>@华莱士飞蛤转世：能把一个别人钓鱼用的搞笑帖子当真拿出来四处显摆不删你删谁，新浪这是在保护党中央的声誉</p>
-<p><em><strong>新浪微博躺枪：</strong></em></p>
-<p>@慕庚啲跳跳Kiki：团团，应该是你管渣浪，而不是渣浪管你啊！！！主次搞清好嚒！！//@哈迪爱韩庚: 团团，你真的不考虑跟上级反映一下渣浪的问题？</p>
-<p>@南音-聪：渣浪这样已经不是一次了。因钓鱼岛事件时，渣浪删评论，删微博。因湾湾与大陆事件时，渣浪删评论，删微博。而且貌似听说，渣浪高层中有日本人和台独呢，所以，显而易见啊。团团，你应该管管渣浪啦@共青团中央</p>
-<p>@who温文：没天理了，还是共产党的天下吗？</p>
-<p>@KS-再流：渣浪，应该好好清查下了，中国的网络平台不应该被其他势力控制。</p>
-<p>@随风的xs：支持团中央带领大家砸烂党中央某些走资派的狗头</p>
-<p>@love小麦晓赟：新浪啊，日杂美分的垃圾。。很多不给评论的微博，大部分是新浪设置的。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE%E5%8A%9B%E6%8C%BA%E7%BE%8E%E5%88%86%E6%B4%A5%E8%B4%B4%E8%A1%A8-%E5%BE%AE%E5%8D%9A%E8%A2%AB%E5%88%A0%E5%90%8E%E9%87%8D%E5%8F%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2/?category=18271" rel="tag">共青团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%A6%E8%B7%AF%E5%85%9A/?category=18271" rel="tag">带路党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%8E%E5%88%86%E5%85%9A/?category=18271" rel="tag">美分党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%B6%8C%EF%BC%9A-%E5%A6%82%E6%9E%9C%E4%BD%A0%E9%80%86%E8%A1%8C%E5%9C%A8%E6%B3%95%E6%B2%BB%E9%81%93%E8%B7%AF%E4%B8%8A%EF%BC%8C%E6%AF%8D%E6%A0%A1%E5%B0%86%E5%8F%AC/" target="cdt-mirror">法网｜王涌： 如果你逆行在法治道路上，母校将召你回来抄宪法</a>
-</h2>
-<p><blockquote><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpg?resize=550%2C408" alt="640" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpg?resize=300%2C223 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>“如果有一天，你无力抵御沉沦，沦为鹰犬，逆行在法治的道路上，母校将会喊你回家——去‘抄宪法’。” 中国政法大学教授王涌在2016届本科生毕业典礼发表致辞，题为《你们是英雄辈出的九零后》。</p></blockquote>
-<p>亲爱的同学们：</p>
-<p>你们好！</p>
-<p>昌平是一个童话世界，你们是二千零二名精灵。</p>
-<p>今天，剧本已翻至末页，互道珍重后，就要离别。</p>
-<p>四年的光阴，你们在这里编织青春，回忆历历在目。</p>
-<p>晨曦初照时，你走出梅园、兰园、竹园和菊园。宪法大道上的拓荒牛，就像你的兄弟，向你颔首致意；紫藤架下的猫儿，像一群流浪歌手，为你的晨读伴唱。</p>
-<p>在厚德殿和明法殿，你遇见讲坛上流派各异的王子、小矮人和侠客，为你讲述法治国的传说，你迷醉其中。</p>
-<p>松柏林中，钱端升爷爷永远在向你微笑，但你一直没有猜透：他老人家在想什么？</p>
-<p>在法渊阁和文渊阁，你与睿智的心灵对话。你掩卷沉思，望着窗外，天空霞光万丈，每一片梧桐树叶都是金色的，正如你梦幻般的青春。</p>
-<p>心情忧郁时，你在十三陵水库边漫步，想象末代帝王的悲怆和凄凉，一扫心中的爱恨情愁。</p>
-<p>心情欢畅时，你登高军都山，远眺紫禁城，想象三百年前，闯王李自成挥师昌平，沿着你熟悉的345公交支线的道路，攻入德胜门。</p>
-<p>遐想中，你穿越了。你变身为一名英雄，站在城墙上，向城内的王侯将相宣讲宪政理想，不幸身中暗箭，醒来时，你泪流满面。</p>
-<p>显然，你已经患上法大人典型的魔幻现实主义的症状！恭喜你！你合格毕业了！</p>
-<p>这就是你们——可爱的法大九零后的学子们，你们如此地感动我们。</p>
-<p>今天，迈出校门，你将从童话世界，步入现实世界。微信朋友圈都在祝你幸福，但今天不是你的婚礼，我不祝你幸福；今天是你的毕业典礼，我祝你成为英雄。</p>
-<p>从前，法大有一位诗人叫海子，他曾经在这座礼堂朗诵过他的诗篇。他说：“我要做远方的忠诚儿子和物质的短暂情人”，但是，短暂情人没有做成，因为物质匮缺；远方也渺茫不见，因为他说：“远方，除了遥远，一无所有”。他的生命终结在通向远方的铁轨上。他的诗篇和他的宿命，是你父辈那代人曾经的梦想与绝望。</p>
-<p>三十年已逝，沧海桑田，成就举世瞩目，国运正在逆转。理想国就在前方，但新的大山和陷阱正隐隐地张开狰狞的面孔，体制的惰性无力自拔，时代呼唤英雄。</p>
-<p>你们是九零后人。翻开上世纪末的日历，你们出生于邓小平南巡讲话之后，正是严冬消退改革复活之时，改革是你们的胎记。之后，你们与互联网共同成长，开放是你们的天性。</p>
-<p>你们禀赋独特，会怀疑，会翻墙，会判断，有情怀，有智慧，有见识，人小鬼大，大道无形。无法想象，你们的未来会在上世纪遗留下的枷锁中度过。</p>
-<p>一代人的成长节奏与一个国家的成长节奏不期而遇，必将碰撞出灿烂的火光，点燃你们的人生。时势造英雄，九零后人的哲学注定不是幸福哲学，而是英雄哲学。九零后一代，必将英雄辈出！</p>
-<p>所谓英雄，首先是心灵的英雄。人生是一场驾驭心灵与时间的旅程，十之八九是艰辛，幸福不过一二。驾驭者是英雄，被驾驭者必然沉沦。</p>
-<p>所谓英雄，是思想的英雄。英雄只向真理低头，思想的英雄不谄媚于权力，也不迎合大众。真理本无所谓左中右，客观理性和民族利益是发现真理的两只眼睛，你们必须向21世纪的中国贡献精纯的思想。</p>
-<p>所谓英雄，是行动的英雄，是政治的英雄，正如法大校友榜上的熠熠群星。</p>
-<p>在法大校友中，有一种人，他们没有官衔，没有财富，但坚毅地为法治理想战斗，广受爱戴。他们是公民的英雄，是母校的骄傲，是你们的榜样。</p>
-<p>相信有一天，你也会成为他们。那时，“<a href="http://cn.nytimes.com/china/20150202/c02pu/">你在战斗，母校注目；你蒙冤狱</a>，<a href="https://www.letscorp.net/archives/98940">举国震动；人生辉煌，莫过于此</a>。”</p>
-<p>当然，在法大校友中，也有一种人，在社会染缸和国家机器中，随波逐流，迅速堕落。权力在手，肆意滥用，不问法律底线，践踏人权，制造<a href="http://chinadigitaltimes.net/chinese/tag/%E9%9B%B7%E6%B4%8B%E4%B9%8B%E6%AD%BB/">雷洋案式的悲剧</a>，他们是公民的公敌，是母校的耻辱，是你们的对手。</p>
-<p>如果有一天，你无力抵御沉沦，沦为鹰犬，逆行在法治的道路上，母校将会喊你回家——去“抄宪法”。</p>
-<p>人生奇幻，奥妙幽深。衡量一个大学教育的成功，不是浅表的知识灌输，最珍贵的是，大学是否在你们心中点燃崇高理想的火焰，是否在你们身上种下抵御沉沦的基因，这才是你们人生力量的源泉。</p>
-<p>同学们，请不要忘记，去年的一个冬夜，也是在这座礼堂，江平先生洪钟般的寄语。他说：“法大学子要保持一颗赤子之心，不仅现在，而且将来”。他的声音随着雪花，飘进你的心，伴你一生一世，抵御沉沦。</p>
-<p>时间是冷酷的推手。在路上，年迈的英雄将一位位离去，年青的英雄将一个个崛起，薪火如斯相传，法治国的城门终将会被打开！</p>
-<p>同学们！</p>
-<p>你们是英雄辈出的九零后！</p>
-<p>我们对你们充满期望！</p>
-<p>向你们致敬！</p>
-<hr><p><small>© 中国好网民 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E7%BD%91%EF%BD%9C%E7%8E%8B%E6%B6%8C%EF%BC%9A-%E5%A6%82%E6%9E%9C%E4%BD%A0%E9%80%86%E8%A1%8C%E5%9C%A8%E6%B3%95%E6%B2%BB%E9%81%93%E8%B7%AF%E4%B8%8A%EF%BC%8C%E6%AF%8D%E6%A0%A1%E5%B0%86%E5%8F%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">政法大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AF%95%E4%B8%9A/?category=18271" rel="tag">毕业</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 4天前</small>
 </p>
 <table>
     <tr>
@@ -843,7 +890,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -853,5 +900,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,82 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%96%E4%BB%AC%E9%80%A2%E7%81%BE%E5%BF%85%E7%85%BD%E6%83%85%EF%BC%9F/" target="cdt-mirror">唐映红 | 心理学问答：为什么他们逢灾必煽情？</a>
+</h2>
+<p><p><strong>问：为什么他们逢灾必煽情？</strong></p>
+<p>答：今年夏天南方的暴雨又导致若干城市成为“泽国”。其中最为严重的<strong>武汉市</strong>，内涝加上外洪，<strong>整个城市几乎陷入瘫痪。</strong></p>
+<p>可以这么说，像<strong>今年度南方的洪涝灾害，一分天灾，九分人祸。</strong>抛开导致人祸历年难消不论，在今年度救灾的宣传报道中，他们再次大幅渲染救灾官兵的“<strong>悲情</strong>”。那些参与救灾抢险几十个小时不眠不休极度劳累的年轻战士；在滂沱大雨中啃冷馒头的年轻战士；手脚被水泡到变形的年轻战士；……。数十年来，<strong>这些“熟悉”的套路几乎在每一次遭遇公共灾害时，都成为了他们宣导的标配。</strong></p>
+<p>事实上，随着中国经济的高速发展，迄今本朝已然成为世界上GDP排名第二的牛哔国家。因此，在和平时期军队参与抢险救灾是相比于战争状态要安全和从容得多的任务，<strong>后勤保障完全可以轻松应对。</strong>如果抗洪抢险的任务都让士兵“悲情”到令五岁儿童都恨不得把攒的零花钱贡献出来给年轻的士兵叔叔买一双手套，买一盒热米饭的话，那本朝的军队的建设就太迹近儿戏了。</p>
+<p>那么，为什么他们要在救灾中毫无节操地一如既往地打“悲情”牌？</p>
+<p>从心理学角度，<strong>煽情是能迅速模糊焦点，转移注意力，并压制理性质疑的有效方法。</strong>面对年复一年的“人祸”假“天灾”而戕害民众，民众对权力集团的社会治理能力的质疑必然越来越重。因此，通过无节操的煽情，刻意夸大，甚至摆拍救灾官兵的“悲情”镜头，能够<strong>迅速地吸引大多数民众的注意力，从而理性的质疑就很容易被冲淡。</strong></p>
+<p><strong>煽情的本质是诉诸人们的情绪感受，而人性中与生俱来就有着对他人遭受痛苦和磨难的怜悯之情。</strong>因此，当我们看到有他人遭受痛苦和磨难，而且还是在为了灾民而奉献自己的情境中，我们大脑中的镜像神经系统会自动地被激活，唤起我们<strong>怜悯</strong>的感受，在心理学里这就是“<strong>共情</strong>”的生理机制。</p>
+<p>一旦情绪系统被激活，我们感受到明显的情绪反应时，我们的注意力就会自然而然地被身体的这种情绪内刺激所吸引，从而减少对其他事项投入的注意和认知资源。换言之<strong>，他人的“悲情”相比于需要理性思考的事项，具有感知显著性，会迅速地吸引注意力，并成为认知和关注的焦点。</strong></p>
+<p>举个例子。当你因为种种原因与他人发生争执，公说公有理，婆说婆有理，谁也说不服谁。如果此时，对方（假如是个弱女子）开始流泪示弱，你多半就会动摇自己的立场，甚至会因为心软而放弃自己的主张。这也就是为什么<strong>许多骗子会利用儿童、残障人士、老人、柔弱女性的“悲情”来行骗而屡试不爽的心理原因之所在。</strong></p>
+<p><strong>相对于情绪系统对他人“悲情”的高效、快速和强烈的自动激活，理性地质疑公共灾害背后的管理责任则是一件相当困难的事情。</strong>后者需要依靠大脑皮层的复杂加工过程，<strong>仰赖于个体的知识、经验和价值判断维度的取舍。</strong>像今年度洪涝这样的公共灾害，往往交织了太多的复杂多维因素的影响，既有偶然性因素，又有必然性因素；既有情境性因素，又有特质性因素。<strong>只有在横向与国外的比较，以及纵向的与历史的比较中，才可能凸显出公共灾害背后的“人祸”因素。</strong>所以，<strong>理性地质疑既要基于个体的知识和经验背景，以及建立在价值判断维度取舍上的问责动机；显然大多数民众并不具备清晰的理性质疑的能力。</strong>因此，他们即使有模糊的怀疑，也很容易被眼前通过官媒大幅渲染的“悲情”所吸引和转移。</p>
+<p>因此，<strong>在遭遇公共灾害时，通过精心布置的煽情，是控制和引导舆论有效的一种途径和方式。既能将民众的注意力吸引到无所不用其极的“悲情”画面中，同时又能借助这种民众对“悲情”的天然敏感性而加以宣传引导，使之成为舆论的主流</strong>。相对地，<strong>那些“一小撮”“别有用心”的人士所试图进行的理性质疑就不再具有号召力，而且还会被沉浸在“感动”中的广大民众所反感、排斥甚至抵制。</strong></p>
+<p>只是，逢灾必煽情在灾害年复一年不见改善的社会语境下，舆论控制和引导的效果也日渐下降。<strong>为了达到和维持到足够的煽情力度，他们必须越来越不顾节操和常识地滥情煽动，在越来越多的民众知识和经验范围内也越来越有“违和感”</strong>。</p>
+<p>话又说回来，<strong>逢灾不煽情对他们来说实在是强人之所难</strong>。在他们连一个城市的排水系统都搞不掂的社会语境下，<strong>他们根本就</strong><strong>没有能力，也没有任何经验、动机来妥善应对民众的理性质疑。</strong>在互联网时代，舆情控制对权力集团而言是一件极其棘手的事情，即使在开放的国家和社会也同样具有极大的挑战性。因此，<strong>当他们觉得通过煽情还能够有效控制和引导舆论时，他们就不必关闭互联网。</strong>从这个角度而言，有些知识人殚精竭虑呼吁民众不要“激怒”他们，也就不难理解。</p>
+<p>最后，向那些原本完全可以不必在抗洪抢险中那么“悲情”的年轻士兵们<strong>致敬！</strong></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%96%E4%BB%AC%E9%80%A2%E7%81%BE%E5%BF%85%E7%85%BD%E6%83%85%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B0%8F%E6%92%AE/?category=18271" rel="tag">一小撮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81/?category=18271" rel="tag">主流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E5%88%A4%E6%96%AD/?category=18271" rel="tag">价值判断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E5%AF%BC%E8%88%86%E8%AE%BA/?category=18271" rel="tag">引导舆论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA/?category=18271" rel="tag">情绪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%AE%B3/?category=18271" rel="tag">洪涝灾害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E6%83%85/?category=18271" rel="tag">煽情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E6%B2%BB%E7%90%86/?category=18271" rel="tag">社会治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A9%E6%B4%A5%E7%A7%B0%E5%B7%B2%E5%90%8C%E6%84%8F%E8%B5%B5%E5%A8%81%E5%8F%96%E4%BF%9D%E5%80%99%E5%AE%A1-%E9%80%9A%E6%8A%A5%E6%9C%AA%E6%8F%90%E5%8F%8A%E6%8A%93%E6%8D%95%E7%BD%AA%E5%90%8D/" target="cdt-mirror">天津称已同意赵威取保候审 通报未提及抓捕罪名</a>
+</h2>
+<p><p>中国时间2016年7月7日，天津市公安局官方微博发布“情况通报”称，考拉“对自己涉嫌违法犯罪的事实供认不讳且态度较好”而被批准取保候审。但官方闭口不谈最初拘留赵威的罪名——“煽动颠覆国家政权罪”。</p>
+<blockquote><p><a href="http://weibo.com/3163782211/DDFXCw5Ou" target="_blank">@平安天津</a>：#情况通报# 赵威，网名考拉，女，24岁，河南省济源市人，因涉嫌违法犯罪于2015年被依法采取刑事强制措施，后经检察机关依法批准逮捕。鉴于赵威对自己涉嫌违法犯罪的事实供认不讳且态度较好，经本人申请，公安机关同意变更刑事强制措施为取保候审。</p></blockquote>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A5.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A5.png?resize=525%2C405" alt="平安天津" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津.png?w=1808 1808w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津.png?resize=300%2C232 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津.png?resize=768%2C593 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津.png?resize=1024%2C791 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>@平安天津 微博截图</span></p></div>
+<blockquote><p><strong>相关专题</strong>：<a href="http://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/" target="_blank">考拉赵威</a></p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005PPibGjw1f5l86bxmhjj30hl0gk757.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005PPibGjw1f5l86bxmhjj30hl0gk757.jpg?resize=400%2C377" alt="005PPibGjw1f5l86bxmhjj30hl0gk757" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005PPibGjw1f5l86bxmhjj30hl0gk757.jpg?w=633 633w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005PPibGjw1f5l86bxmhjj30hl0gk757.jpg?resize=300%2C282 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>网络图片</span></p></div></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>白眼圈猫熊：什么罪？这个关键信息都不说的？这个通告差评。</p>
+<p>范shion0：真你妈不要脸了，什么罪名？</p>
+<p>律师姬来松：考拉，河南的骄傲！勇敢坚强，敢作敢当！</p>
+<p>悠然苍茫：一个手无寸铁的弱女子居然能够颠覆你们这个拥有几百万海陆空军加上核武器的政权，对了，你们也有数之不尽的警察辅警城管等维稳力量，你们怕什么？</p>
+<p>火星人西山客：犯什么事了？什么罪？这通报太中国特色了吧</p>
+<p>冬冬枪枪：呵呵。说说这姑娘干了啥罪大恶极的事情让广大网友批判一番嘛</p>
+<p>做乜野好咧：最怕黑社会没信仰还不要脸</p>
+<p>遥望飞鹰：态度好取保？态度不好就关着？</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E8%AF%84%E8%AE%BA.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E8%AF%84%E8%AE%BA.jpg?resize=500%2C525" alt="@平安天津 相关微博热门评论截图" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉评论.jpg?w=1804 1804w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉评论.jpg?resize=285%2C300 285w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉评论.jpg?resize=768%2C807 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉评论.jpg?resize=974%2C1024 974w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@平安天津 相关微博热门评论截图</span></p></div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A9%E6%B4%A5%E7%A7%B0%E5%B7%B2%E5%90%8C%E6%84%8F%E8%B5%B5%E5%A8%81%E5%8F%96%E4%BF%9D%E5%80%99%E5%AE%A1-%E9%80%9A%E6%8A%A5%E6%9C%AA%E6%8F%90%E5%8F%8A%E6%8A%93%E6%8D%95%E7%BD%AA%E5%90%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%AD%A7%E8%A7%81%E4%BE%A0%EF%BD%9C%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA%E6%98%AF%E6%94%BF%E6%B2%BB%E8%AE%A4%E5%90%8C-%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC%E7%9A%84%E4%BA%BA%E4%B9%9F%E7%9F%A5%E9%81%93/" target="cdt-mirror">歧见侠｜电视认罪是政治认同 指鹿为马的人也知道鹿不是马</a>
+</h2>
+<p><p>央视认罪跟罪无关，有罪无罪都跟央视没有一毛钱关系，违法不违法，都是法院说了算，是律师跟法官的事，央视不是法庭，哪能未审先判？</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szinf5hj20ec09275e.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szinf5hj20ec09275e.jpg?resize=500%2C316" alt="89ee9629gw1f54szinf5hj20ec09275e" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szinf5hj20ec09275e.jpg?w=516 516w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szinf5hj20ec09275e.jpg?resize=300%2C190 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>指鹿为马的人，他自己也知道，鹿是鹿，马是马，再巧舌如簧辩才无碍，也不可能让鹿变成马的。日本人的脏话不像中国人，他们骂人跟生殖器无关，一般都跟马鹿有关。八嘎牙路，写成汉字就是“馬鹿野郎”，这句脏话其实就是从指鹿为马这个成语来的，意思就是说，你这人分不清是鹿是马，你是个笨蛋。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szapjdrj20gq0bqta5.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szapjdrj20gq0bqta5.jpg?resize=500%2C350" alt="89ee9629gw1f54szapjdrj20gq0bqta5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szapjdrj20gq0bqta5.jpg?w=602 602w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szapjdrj20gq0bqta5.jpg?resize=300%2C210 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>当初赵高指鹿为马，他不是在做事实判断，而是价值判断，是在做统战，是分清敌我，划清界限，他玩的是政治认同。所谓政治认同，就是我不管你内心如何，你只要表态支持我，就是我的阵营里面的，你只要不支持我就是我的敌人，非友即敌，非敌即友，你必须选边站，没有灰色地带，没有非敌非友，大家懂了吧？</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54swzg0uoj20hs0a00tv.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54swzg0uoj20hs0a00tv.jpg?resize=500%2C281" alt="89ee9629gw1f54swzg0uoj20hs0a00tv" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54swzg0uoj20hs0a00tv.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54swzg0uoj20hs0a00tv.jpg?resize=300%2C169 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>鸡国朝廷里面，都是一等一的聪明人，他们并非不知道林祖恋是冤枉的？他们并非不知道有思想者如我等不会相信这事是真！</p>
+<p>我们知道了他们在说谎，他们也知道自己在说谎，他们也知道我们知道他们在说谎，我们也知道他们知道我们知道他们说谎，但是他们依然在说谎。为什么？——统战需要，你只要口头是认同我，我就赢了，至于别人信不信，那是另一回事，至于你内心怎么想，我不管，你不能反驳，你也没有反驳的地方，这就是我要的效果，就是逼着你说假话。</p>
+<p>政治认同是一个不常见的政治术语，起源于民主政治，他的本意是为了统计支持率，但到了中国则完全沦为统战术，不是统计支持率而是为了统计效忠率，为了分清敌我，为了划清界限。</p>
+<p>你说什么，我就认为你心里想什么，我不能假设你是口是心非。我也无需猜测你内心的真实想法，因为没有必要，政治认同一般发生在成熟的民主国家，比如投票就是政治认同，你投了谁的票就表示认同谁，不可能假设你投了共和党的票然后你的内心其实认同保守党。央屎说日本首相可以赢得日本民众的选票却赢不了日本民众的心，那是鬼扯，一个人得多精神分裂才会把选票投给他不认同的人？！！</p>
+<p>XXX说中国要实行民主政治，大多数美国人会认同他，给他订单、给他喝彩、跟他见面、推杯换盏，四座并欢，美国人很单纯，很诚恳，他也认为别人也同样单纯和诚恳，在美国这是政.治认同。但是，政治认同在中国是没有社会基础的，政治认同在中国等于然并卵。</p>
+<p>如果在中国要实行民主政治，为什么在国内不说，要跑到美国去说？这是明摆着要骗美国佬，要骗订单，骗喝彩，还要骗中国，骗全世界！但是，习近平的讲话和承诺我还是要转，这也是我们的政治认同，中国人的政治认同要重新定义，就是领导人说的什么话我们都要尽量转。中国领导人的话就像中国宪法，是专门给外国人看的，中国从来都是外儒内法，说一套做一套。</p>
+<p>中国是一个高度极权的国家，领导人决定一切，党政军权系于一身，国家的治乱兴衰，光明与黑暗，光荣与耻辱全在他的表现。尤其他说的符合我们期待的话，比如民主政治我们要多转；他说了让我们反感的话我们更要多转，比如他说共 铲 主义。哪怕这两句话自相矛盾，漏洞百出。我们的目的不是认同他，而是认同我们自己，取得共识，全民的共识，比如民主要全民拥戴之，而共铲则要全民挞伐之！美国的政治认同在于统计支持率，中国的政治认同在于启蒙。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%AD%A7%E8%A7%81%E4%BE%A0%EF%BD%9C%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA%E6%98%AF%E6%94%BF%E6%B2%BB%E8%AE%A4%E5%90%8C-%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC%E7%9A%84%E4%BA%BA%E4%B9%9F%E7%9F%A5%E9%81%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">央视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC/?category=18271" rel="tag">指鹿为马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">电视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E7%BB%9F%E6%88%98%E5%A2%9E%E8%AE%BE%E7%AC%AC%E5%85%AB%E5%B1%80-%E5%88%86%E6%9E%90%E4%BA%BA%E5%A3%AB%EF%BC%9A%E7%BB%9F%E7%9A%84%E9%83%BD/" target="cdt-mirror">美国之音｜中共统战增设第八局 分析人士：统的都是自己人</a>
 </h2>
 <p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?resize=550%2C309" alt="在中国共青团一个宣传MV里的一个镜头，中国著名运动员姚明和中国少先队队员都佩戴红领巾。这个MV邀请包括姚明、韩庚和TFBOYS在内的多位体坛、乐坛名人出镜，翻唱《我们是共产主义接班人》（视频截图）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?w=987 987w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?resize=768%2C432 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>在中国共青团一个宣传MV里的一个镜头，中国著名运动员姚明和中国少先队队员都佩戴红领巾。这个MV邀请包括姚明、韩庚和TFBOYS在内的多位体坛、乐坛名人出镜，翻唱《我们是共产主义接班人》（视频截图）</span></p></div>
@@ -637,122 +710,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/china/?category=18
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%9E%97%E7%A5%96%E6%81%8B%E5%AE%B6%E4%BA%BA%E5%8F%91%E5%A3%B0%E6%98%8E-%E6%8B%92%E7%BB%9D%E8%AE%A4%E5%8F%AF%E5%AE%98%E6%B4%BE%E5%BE%8B%E5%B8%88/" target="cdt-mirror">林祖恋家人发声明 拒绝认可官派律师</a>
-</h2>
-<p><blockquote><p>iyouport ‏<a href="https://twitter.com/iyouport_news/status/750209644081983488" target="_blank">@iyouport_news</a>: #乌坎 林祖恋家人发出声明，不承认当局指派的律师</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmlHsJjUMAAsazQ.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmlHsJjUMAAsazQ.jpg_large.jpg?resize=450%2C600" alt="CmlHsJjUMAAsazQ.jpg_large" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmlHsJjUMAAsazQ.jpg_large.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmlHsJjUMAAsazQ.jpg_large.jpg?resize=225%2C300 225w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="http://weibo.com/u/1786822605" target="_blank">@李方平律师</a> :【葛永喜律师：原来是王会长抢了我的业务，我只能表示服了】林祖恋孙子林立义：“你们是律师界的耻辱”这两名辩护律师是当局指派，他们分别是广州金鹏律师 事务所的王波和广东宏进律师事务所的方振宏。<br>
-王波是广州市政府法律顾问，兼任广东省律师协会副会长，从事刑事及民商事法律辩护，曾多次为被控受贿的政府官员辩护；方振宏是汕尾市人大代表和汕尾市政府法律顾问，熟悉产权及经济纠纷类案件。<br>
-下图: 广州市市长陈建华向广州金鹏律师事务所王波主任颁发广州市政府法律咨询专家聘书。<br>
-不允许家属聘律师，当局却在家属毫不知情的情况下，指定这么高大上的律师<img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"><img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"><img title="[弱]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/d8/sad_org.gif" alt="[弱]" data-recalc-dims="1"><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdgw1f5ito2py6vj20fz0anmyd.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdgw1f5ito2py6vj20fz0anmyd.jpg?resize=500%2C333" alt="6a80bfcdgw1f5ito2py6vj20fz0anmyd" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdgw1f5ito2py6vj20fz0anmyd.jpg?w=575 575w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdgw1f5ito2py6vj20fz0anmyd.jpg?resize=300%2C200 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p></blockquote>
-<p>方振宏（党徽下红衣男子）为汕尾市“法治讲堂”进村（社）活动主讲人：</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%96%B9%E6%8C%AF%E5%AE%8F.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%96%B9%E6%8C%AF%E5%AE%8F.jpg?resize=550%2C413" alt="方振宏" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/方振宏.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/方振宏.jpg?resize=300%2C225 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>图片来源：<a href="http://www.swcqpfw.gov.cn/4926.html" target="_blank">汕尾市城区普法网</a></span></p></div>
-<p>“爆料”林祖恋已聘请律师的是新浪微博用户 @在城央雨飞扬，这是当时该用户账号内唯一一条微博内容：</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%9C%A8%E5%9F%8E%E5%A4%AE%E9%9B%A8%E9%A3%9E%E6%89%AC.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%9C%A8%E5%9F%8E%E5%A4%AE%E9%9B%A8%E9%A3%9E%E6%89%AC.jpg?resize=475%2C611" alt="在城央雨飞扬" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/在城央雨飞扬.jpg?w=1812 1812w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/在城央雨飞扬.jpg?resize=233%2C300 233w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/在城央雨飞扬.jpg?resize=768%2C987 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/在城央雨飞扬.jpg?resize=797%2C1024 797w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a><p><span>@在城央雨飞扬 相关微博截图</span></p></div>
-<p>腾讯网后转发了相关内容，目前已404（<a href="https://webcache.googleusercontent.com/search?q=cache:SYo5tCbFc0gJ:https://view.inews.qq.com/a/NEW2016063003803203%3Fopenid%3Do04IBAFRf3O4Dkt6dJMtBfH_ZV6Y%26key%3D%26version%3D62010025%26devicetype%3DWindows%2B7%26from%3Dsinglemessage%26isappinstalled%3D0%26cv%3D0x70000001%26dt%3D6%26lang%3Den%26pass_ticket%3DrWg2SzXtlETvGt0t6WvVjUGUA6Dzp5VKkz0h8Q7qHAuFwBKyaAHyMJb7tJ0FWCUE+" target="_blank">谷歌快照链接</a>）：</p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%85%BE%E8%AE%AF%E6%96%B0%E9%97%BB.jpg?resize=500%2C177" alt="腾讯新闻" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/腾讯新闻.jpg?w=1490 1490w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/腾讯新闻.jpg?resize=300%2C106 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/腾讯新闻.jpg?resize=768%2C272 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/腾讯新闻.jpg?resize=1024%2C363 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>腾讯新闻谷歌快照页面截图</span></p></div>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E4%B9%8C%E5%9D%8E%E5%86%8D%E6%95%B0%E5%8D%83%E4%BA%BA%E7%A4%BA%E5%A8%81-%E7%96%91%E5%BE%8B%E5%B8%88%E5%8F%97%E5%8E%8B%E4%B8%8D%E6%8E%A5%E6%9E%97%E7%A5%96%E6%81%8B%E6%A1%88/" target="_blank">自由亚洲｜乌坎再数千人示威 疑律师受压不接林祖恋案</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2016/06/%E5%8F%82%E4%B8%8E%E7%BD%91%EF%BD%9C%E6%9E%97%E7%A5%96%E6%81%8B%E8%A2%AB%E4%B8%8D%E7%94%A8%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D/" target="_blank">参与网｜玉品健律师：我为什么不顾一切的往陆丰冲</a></li>
-<li>中国数字时代<a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/" target="_blank">林祖恋</a>专题</li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@李方平律师：红色律师，党直接征召，抢占辩护滩头！</p>
-<p>@张颖军律师：林支书好像不需要法律援助，其老婆及近亲属早在网上申明家属完全有经济能力聘请律师，两位大律如果是办法律援助案的话就请援助其他真正需要帮助的人吧！</p>
-<p>@星清馨亲:哈哈，这就是依法治国，开眼了。</p>
-<p>@时光之我：神州大地，奇葩连连。留照后世，以是谈资。</p>
-<p>@立场H旁观：官方，涉官案件，不让被告自请律师，用官方指派律师。何必如此掩耳盗铃，自欺欺人？秀无耻下限吗？倒不如官爷直接把被告当中千刀万剐，来的直接！</p>
-<p>@丁金坤律师:棋子律师何其多。。。</p>
-<p>@土豆烧牛肉2014：法院姓党、律师姓党、法律也姓党，这就是以党治国。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%9E%97%E7%A5%96%E6%81%8B%E5%AE%B6%E4%BA%BA%E5%8F%91%E5%A3%B0%E6%98%8E-%E6%8B%92%E7%BB%9D%E8%AE%A4%E5%8F%AF%E5%AE%98%E6%B4%BE%E5%BE%8B%E5%B8%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E5%A4%A7%E8%BF%98%E6%98%AF%E6%B3%95%E5%A4%A7/?category=18271" rel="tag">党大还是法大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%91%9B%E6%B0%B8%E5%96%9C/?category=18271" rel="tag">葛永喜</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF-%E4%B8%AD%E5%85%B1%E7%BB%9F%E6%88%98%E6%96%B0%E5%AF%B9%E8%B1%A1-%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%96%B0%E5%AA%92%E4%BD%93%E4%BA%BA/" target="cdt-mirror">法广 | 中共统战新对象 留学生与新媒体人</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/tzgz.jpg?resize=550%2C310" alt="tzgz" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/tzgz.jpg?w=1024 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/tzgz.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/tzgz.jpg?resize=768%2C434 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<blockquote><p><strong>中国特色的统战部开设新的机构，针对留学生以及网络新媒体人士制定统战计划。新设立的统战部第八局的工作，就是要透过政治引导，把这些人更加广泛地团结和凝聚在党中央和政府周围，为中国特色社会主义事业做出贡献。</strong></p></blockquote>
-<p>中央社引述中国官方报导，中共中央统战部新设置组建了第八局，新局的统战对象是留学人员和新媒体代表人士等。</p>
-<p>官方报导透露新局全名叫「新的社会阶层人士工作局」，这是统战部事隔11年之后，再次设立新的正局级部门。</p>
-<p>报导表示，新的社会阶层人士一直是统战部的重要工作领域，此时专门成立八局来进行相关统战工作，源于去年的中共中央统战工作会议。</p>
-<p>据报导指出，在这次工作会议上，中共总书记习近平指出，要进一步加强对留学人员、新媒体中的代表人士和非公有制经济人士特别是年轻一代的工作。报导说，习近平所说的三类人中，新媒体中的代表人士已被明确为新的社会阶层人士统战工作的重点对象。</p>
-<p>报导还指出，新的社会阶层人士包括4类人，分别为民营企业和外资企业的管理技术人员、中介组织和社会组织从业人员、自由职业人员、新媒体从业人员。</p>
-<p>官方认为，这些人具有流动性大、分散性强、思想活跃、观点多样等特点，有的甚至连人都找不着、面都见不上，一般性的工作方法很难对这些人起作用。中共中央统一战线工作部新八局的工作，就是要透过政治引导，把这些人更加广泛地团结和凝聚在中共和政府周围，为中国特色社会主义事业做出贡献。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF-%E4%B8%AD%E5%85%B1%E7%BB%9F%E6%88%98%E6%96%B0%E5%AF%B9%E8%B1%A1-%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%96%B0%E5%AA%92%E4%BD%93%E4%BA%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E7%BB%9F%E6%88%98%E9%83%A8/?category=18271" rel="tag">中央统战部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%9A%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">党中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E4%BA%BA/?category=18271" rel="tag">媒体人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E5%AA%92%E4%BD%93/?category=18271" rel="tag">新媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">民营企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">社会主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87/?category=18271" rel="tag">社会组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E4%B8%80%E6%88%98%E7%BA%BF/?category=18271" rel="tag">统一战线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E6%88%98/?category=18271" rel="tag">统战</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E8%81%8C%E4%B8%9A/?category=18271" rel="tag">自由职业</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%8B%9B%E7%89%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E4%B8%91/" target="cdt-mirror">大象公会 | 中国的招牌为什么这么丑</a>
-</h2>
-<p><p><strong>中国街景之丑冠绝全球，各色廉价招牌居功甚伟，丑招牌不仅是美感的缺失，更是社会经济现状的缩影。</strong></p>
-<p>文｜吴松磊</p>
-<p>2011 年，台湾《苹果日报》公布网友票选出的“台湾十大最丑”，街头招牌名列第一。80%的投票者为岛内公共景观感到丢脸，近三分之一的人不好意思让亲朋好友来台旅游，甚至有超过一成的人表示要用炸弹解决问题。今年，台北市市长柯文哲也表示“受不了中华民国美学”，希望出台《台北市广告管理细则》来改变现状。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I.jpg?resize=500%2C500" alt="640AWIQW36I" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I.jpg?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I.jpg?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I.jpg?resize=70%2C70 70w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>台湾台北市街景（上图）与日本大阪市街景（下图）</p>
-<p>台湾人强烈的耻辱感，显然不是与大陆对比的结果，而是来自近邻日本。每一个去过日本旅游的台湾人，回到故乡后自然看哪儿都不顺眼。而在大陆网友面前，台湾人大可坚定文化自信。因为常常被拿来说事的台北某处街景，在大陆几乎随处可见。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I2.jpg?resize=575%2C403" alt="通过搜索引擎检索出的招牌图片往往是制作商发布的案例照片，以上为通过中文（上图）和英文（下图）检索招牌图片后的结果" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I2.jpg?w=575 575w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AWIQW36I2.jpg?resize=300%2C210 300w" sizes="(max-width: 575px) 100vw, 575px" data-recalc-dims="1"><p>通过搜索引擎检索出的招牌图片往往是制作商发布的案例照片，以上为通过中文（上图）和英文（下图）检索招牌图片后的结果</p></div>
-<p>中国招牌之丑冠绝全球，是因为中国人民的审美观出了问题吗？</p>
-<p><strong>为什么这么难看</strong></p>
-<p>好看的招牌各有各的好看，难看的招牌却出奇的一致——强烈的廉价感。</p>
-<p>有格调的视觉呈现一般是低纯度的暗色和充分的背景留白，即通常所说的“素色”审美。中国街头招牌的配色方案通常相反，背景是中等明度的高纯色彩，配合高纯度色或白色文字，留白普遍不够，往往是不同色彩占据相近面积。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640G8V5WZYH.jpg?resize=550%2C443" alt="640G8V5WZYH" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640G8V5WZYH.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640G8V5WZYH.jpg?resize=300%2C242 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>这种配色满足了店主“显眼醒目”的需求，也符合人类天性——心理学研究就证实了人对高饱和度色彩的偏好，如儿童一般都会对鲜艳的色彩更感兴趣，被革命审美熏陶的中国人也天然倾向大红大黄的配色方案。但格调恰恰是对本能冲动的克制，就像富裕社会以瘦为美，高端餐厅追求口味清淡一样。</p>
-<p>即便配色鲜艳，设计元素如能合理使用也不致过于廉价。例如在曼谷华人街，大多数招牌虽也使用亮色，但由于布局简洁克制，不但不觉得刺眼，反而能调和排版的严肃感，带来亲切的市井气息。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL66.jpg?resize=550%2C297" alt="泰国曼谷华人街的夜景" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL66.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL66.jpg?resize=300%2C162 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>泰国曼谷华人街的夜景</p></div>
-<p>近似的设计风格也有助于街头招牌形成整体气质。这也是香港街头招牌单拎出来并不好看，但放在一起却别有风味的原因。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640XZDSB31N.jpg?resize=550%2C310" alt="640XZDSB31N" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640XZDSB31N.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640XZDSB31N.jpg?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>香港街景</p></div>
-<p>相比店主个人审美，街头招牌的观感更依赖本地政府的市容管理政策。日本就是典范，对招牌的尺寸、位置和色彩都规定得极细。户外广告牌管理最严格的京都，麦当劳等外国企业也必须依照当地规范，把原本鲜艳的红色调暗。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407GI4JKQU.jpg?resize=390%2C248" alt="降低了明度和纯度的京都麦当劳招牌（上图）和咖啡色的京都 7-11 招牌（下图）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407GI4JKQU.jpg?w=390 390w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407GI4JKQU.jpg?resize=300%2C191 300w" sizes="(max-width: 390px) 100vw, 390px" data-recalc-dims="1"><p>降低了明度和纯度的京都麦当劳招牌（上图）和咖啡色的京都 7-11 招牌（下图）</p></div>
-<p>如果放任不管，就会出现类似台北的情形——广告管理规范缺乏细节要求，商户们可以在建筑物表面随意挂满招牌，看上去混乱不堪。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6403TJ8B3VU.jpg?resize=550%2C344" alt="6403TJ8B3VU" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6403TJ8B3VU.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6403TJ8B3VU.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>Facebook 网友@小聖蚊的治國日記 对于“中华民国美学”的调侃</p></div>
-<p>与台湾相比，大陆的市容管理当然要有力得多：“一铺一招”的规定算得上整齐划一，城管部门也有权拆掉任何一块不顺眼的招牌。如果想“打造精品街道，统一招牌风格”，甚至能让整条街“齐步走”，为市长书记提供类似阅兵式的美好错觉。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL662.jpg?resize=496%2C281" alt="安徽省丁香镇为了“打造干净整洁而具有新意的街道环境”在 2015 年 9 月完成了全镇商铺招牌的强制更换，每块招牌的三分之一都是冠名广告，而广告收入肯定与店主无关" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL662.jpg?w=496 496w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64068X5JL662.jpg?resize=300%2C170 300w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"><p>安徽省丁香镇为了“打造干净整洁而具有新意的街道环境”在 2015 年 9 月完成了全镇商铺招牌的强制更换，每块招牌的三分之一都是冠名广告，而广告收入肯定与店主无关</p></div>
-<p>这种管理的结果是，许多街头招牌的观感与党政部门的宣传栏如出一辙——都热衷使用陈旧的电脑特效，默认的鲜艳配色，花哨的描边、阴影、渐变，以及让密恐患者晕厥的图文排版。究其原因，很可能是城管指定的招牌打印店同时也为政府服务。</p>
-<p><strong>失去品牌的招牌</strong></p>
-<p>中国招牌的丑陋不能全怪在城管头上，大红大绿的街景中，偶尔也能看到符合现代审美的招牌，它们大都是国外品牌或连锁加盟店，这正是中国特色丑招牌的深层原因——普遍缺失的品牌意识。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640QXZQAL6T.jpg?resize=550%2C275" alt="与众不同的连锁店招牌" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640QXZQAL6T.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640QXZQAL6T.jpg?resize=300%2C150 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>与众不同的连锁店招牌</p></div>
-<p>1949 年之前，传统商业社会已形成品牌意识。招牌是品牌的直接载体，不仅选材精细，描金绘银，往往还不惜重金请名人大家题写牌匾，以展现商铺的品位与分量。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640M56SK5VK.jpg?resize=550%2C343" alt="《清明上河图》繁华的商业街景中出现了众多悬挂招牌的商店，如“赵太丞家”和“刘家上色沉檀拣香”" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640M56SK5VK.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640M56SK5VK.jpg?resize=300%2C187 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>《清明上河图》繁华的商业街景中出现了众多悬挂招牌的商店，如“赵太丞家”和“刘家上色沉檀拣香”</p></div>
-<p>1949 年后，品牌概念成为“资本主义的腐朽遗毒”，在社会主义工商业改造中惨遭清洗，文革“破四旧” 运动中几乎扫荡殆尽。招牌也随之“兴无灭资”，店名要么是政治口号如“红旗商店”，“东风市场”，要么是“地名”+“序号“+“行业性质”的组合，如“虹口区第二副食品店”。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AL5OOWJ0.jpg?resize=488%2C428" alt="像“东风理发馆”和“反帝医院”这种被随意更改的招牌在文革期间的街头随处可见" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AL5OOWJ0.jpg?w=488 488w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AL5OOWJ0.jpg?resize=300%2C263 300w" sizes="(max-width: 488px) 100vw, 488px" data-recalc-dims="1"><p>像“东风理发馆”和“反帝医院”这种被随意更改的招牌在文革期间的街头随处可见</p></div>
-<p>经过彻底的公有化改造，“地名/小区/商品+商店”这种计划体制的典型命名也保留至今。“个体户”大多为居民区周边的功能性商铺，重要的不是打造品牌，而是所处的地理位置。招牌的功能也仅仅是一块广告位，在极为有限的空间中尽可能塞下菜名、手机号等实用信息。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640L8A5NZNP.jpg?resize=550%2C268" alt="标准的传单式招牌设计。这张兰州拉面招牌模板图，已经成为各地招牌制作公司的保留源文件" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640L8A5NZNP.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640L8A5NZNP.jpg?resize=300%2C146 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>标准的传单式招牌设计。这张兰州拉面招牌模板图，已经成为各地招牌制作公司的保留源文件</p></div>
-<p>对于动辄写上数百字的招牌，常见的发光字、金属字等招牌材质几乎难以实现，只能使用最便宜的喷绘灯布。这种材质极易褪色，更谈不上有什么质感，在其他国家极为少见，但中国的喷绘灯布却几乎占据了街头招牌的半壁江山。</p>
-<p>各种品牌的冠名赞助也推广了喷绘灯布的运用。2000 年前后，这种以一次性低成本投入获得长时间曝光的推广策略，陆续出现在各大酒水饮料经销商的营销方案中，导致很多苍蝇馆子看招牌都像是各类白酒的下属企业。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640F5CLC4CR.jpg?resize=550%2C227" alt="低质量的喷绘灯布大概价位为 10 元/平米，但算上灯箱的材料安装费用，一块灯布招牌的价格也得在五百元以上" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640F5CLC4CR.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640F5CLC4CR.jpg?resize=300%2C124 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>低质量的喷绘灯布大概价位为 10 元/平米，但算上灯箱的材料安装费用，一块灯布招牌的价格也得在五百元以上</p></div>
-<p>冠名招牌在中国的大范围流行，反映了大部分个体户的现状。即使在经济相对发达的北京，个体户也拿不出多少钱装点门面——第三次全国经济普查显示，2013 年北京城镇居民人均可支配收入为 4 万元，而个体从业人员平均年收入仅为 2.7 万元。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VS2JMESG.jpg?resize=550%2C136" alt="在设计素材站可以找到大量的冠名招牌模板" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VS2JMESG.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VS2JMESG.jpg?resize=300%2C74 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>在设计素材站可以找到大量的冠名招牌模板</p></div>
-<p><strong>什么样的字体适合做招牌</strong></p>
-<p>招牌好看还是难看，除配色和材质外，字体也很关键。日本招牌的赏心悦目，字体之美最为直观，在东京、大阪的街头，很难找到两块字体相同的招牌——自明治维新以来，日本印刷字体设计史超过百年，店主们即便没钱找人专门设计字体，丰富的字体库也提供了足够多的选择。</p>
-<p>中国招牌字体的单调丑陋，首先在于简化字的短暂历史——汉字简化虽在 1950 年代就已开始，但直到 1965 年简体汉字规范才最终确定，较晚起步的中文简化字设计和庞大的中文字形工程量，让中国从铅活字排版到电子排版的过渡中，能拿得出手的只有黑体、宋体、楷体和仿宋四种简体字字形，这也成为了 Windows 简体中文版操作系统中最早的预装字体。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400XSB8NUU.jpg?resize=550%2C550" alt="Windows 简体中文版操作系统只预装了 5 种中文字型，其中微软雅黑（Microsoft YaHei）在 2006 年微软发布 Windows Vista 后才开始成为预装字体" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400XSB8NUU.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400XSB8NUU.jpg?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400XSB8NUU.jpg?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400XSB8NUU.jpg?resize=70%2C70 70w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>Windows 简体中文版操作系统只预装了 5 种中文字型，其中微软雅黑（Microsoft YaHei）在 2006 年微软发布 Windows Vista 后才开始成为预装字体</p></div>
-<p>今天街头最常见的招牌字体就是 Windows 预装字体中的中易黑体（SimHei）。中易黑体被认为引进自日本哥特体，1950 年代因大量用于宣传标语开始流行。70 年代初，为了排印《辞海》和《毛泽东选集》，上海印刷研究所才专门设计了简体字版黑一体和黑二体。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.png?resize=458%2C52" alt="最早的汉字黑体印刷出版物——1891 年日本《印刷杂志》中东京筑地活版制造所的广告（放大稿）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.png?w=458 458w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.png?resize=300%2C34 300w" sizes="(max-width: 458px) 100vw, 458px" data-recalc-dims="1"><p>最早的汉字黑体印刷出版物——1891 年日本《印刷杂志》中东京筑地活版制造所的广告（放大稿）</p></div>
-<p>中国街头招牌本身就缺乏设计，使用中易黑体更是雪上加霜。</p>
-<p>美国心理学家约翰·里德利·史楚普（John Ridley Stroop）于 1935 年的实验从侧面证实，人脑对文字语义的感知比文字色彩更敏感。因此看到使用了常见字体的招牌时，人脑首先感知到的是文本而非图像。这正是为什么讲求外观的服装鞋包，包装设计时往往偏好使用非母语文字。反之，如使用母语，文本信息必须远离日常生活。</p>
-<p>中国街头招牌常常是“烟酒商店”之类的文本，唯一的挽救办法就是招牌字体尽可能与书报字体不一样，以降低对文本信息的敏感度，而中易黑体却是中国人最熟悉的字体。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0-4.gif?resize=321%2C180" alt="史楚普效应的经典测试——这个字是什么颜色？" data-recalc-dims="1"><p>史楚普效应的经典测试——这个字是什么颜色？</p></div>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640S22D1O4Z.jpg?resize=550%2C304" alt="微博用户@星河Shinho 用这张对比图说明高端洋气的品牌印上母语也不好看。尽管图中的翻译版本未经设计，字体大小和排版都过于夸张丑陋，但的确和许多街头招牌的观感极为相似" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640S22D1O4Z.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640S22D1O4Z.jpg?resize=300%2C166 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>微博用户@星河Shinho 用这张对比图说明高端洋气的品牌印上母语也不好看。尽管图中的翻译版本未经设计，字体大小和排版都过于夸张丑陋，但的确和许多街头招牌的观感极为相似</p></div>
-<p>除黑体楷体外，彩云体、琥珀体、幼圆体也是街头常客，它们在 90 年代初从香港引进，在当时看来新潮活泼，但已远远落后于今天的审美。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6405SAXUE76.jpg?resize=550%2C224" alt="Microsoft Office 2000 简体中文版中加入并保留至今的部分预装字体" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6405SAXUE76.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6405SAXUE76.jpg?resize=300%2C122 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>Microsoft Office 2000 简体中文版中加入并保留至今的部分预装字体</p></div>
-<p>究竟什么样的字体才适合做招牌？适用于所有招牌的万金油字体并不存在，能够精准传达出店铺的品牌气质，才是选择字体的关键。</p>
-<p>今天，中国人民审美能力的提高和产品包装设计的庞大需求，为造字公司提供了光明的商业前景，目前市场上已出现了一批优秀的中文字体。但在可预见的未来，它们应该不会和街头有什么交集——L 型经济让个体户们的日子愈发艰难，没人会在招牌上白费功夫。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%8B%9B%E7%89%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E4%B8%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E6%81%AF/?category=18271" rel="tag">信息</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B0%E5%88%B7/?category=18271" rel="tag">印刷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E8%B1%A1%E5%85%AC%E4%BC%9A/?category=18271" rel="tag">大象公会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%97%E4%BD%93/?category=18271" rel="tag">字体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E7%BE%8E/?category=18271" rel="tag">审美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0%E6%A0%87%E8%AF%AD/?category=18271" rel="tag">宣传标语</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%AE%B9/?category=18271" rel="tag">市容</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%9B%E7%89%8C/?category=18271" rel="tag">招牌</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">环境</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%90%A5%E9%94%80/?category=18271" rel="tag">营销</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E4%B8%9A/?category=18271" rel="tag">行业</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -764,7 +721,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -774,5 +731,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

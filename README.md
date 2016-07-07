@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E5%A6%82%E6%9E%9C%E9%AB%98%E8%80%83%E6%98%AF%E5%AF%92%E9%97%A8%E5%AD%A6%E5%AD%90%E5%94%AF%E4%B8%80%E5%87%BA%E8%B7%AF-%E9%82%A3%E5%9F%BA%E6%9C%AC%E5%B0%B1/" target="cdt-mirror">网易回声 | 如果高考是寒门学子唯一出路 那基本就是没出路</a>
+</h2>
+<p><blockquote><p><strong>为高考制度辩护的人，常说的一句话就是：高考虽然不完美，但是是寒门子弟的唯一出路。但事实上，大部分寒门子弟根本就没读完高中。少数幸运儿来到高考门前，也会发现高校对他们大门紧闭。</strong></p></blockquote>
+<p>文｜黄童超</p>
+<p>每一个参加过高考的学生，可能都听过这样语重心长的教导：高考不是最完美的制度，但是是中国当下最公平的制度。在每年的高考季，只要看到质疑高考的声音，许多人都会挺身而出为高考辩护，理由也都大同小异，“高考有缺陷，但至少是底层子女往上走最公平的途径”、“如果没有高考，寒门子弟只能待在社会最底层”。</p>
+<p>眼下各省高校高考录取正在进行，许多善良的人以为公平选拔的高考可以促进阶级流动，农村学生可以通过高考改变命运，许多人也会由衷地为社会新闻里穷苦人家孩子的成功感到高兴。但遗憾的是，这些人还是乐观过头了。人们并不知道，如果高考是寒门子弟的唯一出路，那么绝大多数寒门子弟根本就没有出路。</p>
+<p>大部分贫困农村地区学生并没有机会参加高考，因为他们连高中都没上。</p>
+<p>中国教育部每年都会统计初中升高中的升学率，这些统计数据呈现了一片欣欣向荣的景象：2005-2010年，15-17岁学生的高中入学率从52.7%上升到了82.5%。但是亚洲开发银行经济学家许霓妮(Niny Khor)与多位中外学者指出，中国教育部夸大了高中入学率。他们研究了第六次全国人口普查(2010)数据发现，2005-2010年，15-17岁学生的高中入学率只从48.6%上升到了52.9%。</p>
+<p>教育部虚高的高中入学率，可能来自于虚高的职业高中入学率。许霓妮等学者称，2005年起，教育部就被要求将职业高中入学率从20%提高到2020年的50%。教育部为了完成中央的目标，不惜花大钱给职业高中学生补贴学费，这笔钱经手者是地方政府，地方政府为了拿到更多的经费，故意上报了虚高的职业高中入学率。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015659e3880_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2014年6月13日，济南，16岁的詹林鑫在蓝翔技校组装柴油发动机。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015659e3880_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015659e3880_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2014年6月13日，济南，16岁的詹林鑫在蓝翔技校组装柴油发动机。/视觉中国</p></div>
+<p>高考被认为是贫寒学子的“鲤鱼跃龙门”，但大部分贫寒学子连门的影子都没见着。陕西师范大学、中国科学院与美国斯坦福大学的历时7年、覆盖4个省份近2.5万名学生的8次大规模调查结果，也许会让许多久居城市的人感到震惊。研究者们发现，2007-2013年，每100个进入初中的贫困农村学生，有69人能够从初中毕业。仅有46人能进入高中，高三毕业时，只剩下37人，其中普通高中23人，职业高中14人。相比之下，约有90%的大城市学生能进入高中就读（普通+职业高中）。</p>
+<p>考虑到2010年15-17岁的年轻人中有72%来自农村（包括镇区），28%来自城市，上述调查结果计算出的总入学率和第六次人口普查相吻合，这也证明教育部的数据有多不可靠。</p>
+<p>农村学生在中学阶段辍学率高，部分是因为他们上学的直接成本（学费）和机会成本（外出打工）高。</p>
+<p>究竟是什么让大部分贫困、农村地区学生没有接受完整的高中教育？一种流行的看法是：教育改变命运，很多农村学生家长砸锅卖铁也会让孩子读完高中，那些辍学的农村学生都是自己不愿努力学习的“学渣”。但美国斯坦福大学与中国科学院领衔的“农村教育行动计划”(Rural Education Action Program, REAP)告诉我们，上述论断是根深蒂固的误解。整个中学阶段辍学率居高不下其实牵扯到多个因素。</p>
+<p>相当一部分贫困农村学生出于成本-收益的理性分析而辍学。中国的劳动力比以往任何时候都更容易流动，劳动者很容易来到经济发达地区寻找工作。国家统计局数据显示，2015年中国外出农民工的平均月工资为2864元，其中东部地区为3213元。虽然这份收入依然差了城市居民一大截，但这也使得农村学生上学的机会成本大大提高了。男孩、年龄稍长者辍学率更高，因为他们容易找到工资更高的工作。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015635d58bb_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2015年4月21日，福州，18岁的黄明珠辍学养家，照顾生病的养父。/视觉中国" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015635d58bb_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015635d58bb_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2015年4月21日，福州，18岁的黄明珠辍学养家，照顾生病的养父。/视觉中国</p></div>
+<p>由于高中不属于义务教育阶段，高昂的学费也是贫困学生上高中的一大障碍，2014年《经济学人》(The Economist)就指出，包括书本费用在内，三年的学费动辄数千美元——往往超过了贫困农村家庭一年的收入。“农村教育行动计划”给出了一个更详细的成本数字：1659美元，这大约是贫困、农村地区人均年纯收入的10-15倍。上文还提到，中国政府提供补贴鼓励农村学生上职业高中，但职业高中的教学水平令人堪忧，职业高中对学生的吸引力并没有那么大。</p>
+<p>农村学生在中学阶段辍学率高还和学习能力不足有关系，但农村学生学业不精绝对不是因为“懒惰”、“智商低”。</p>
+<p>不过，成本并不是学生考虑的唯一问题，学习能力也影响着学生对于上学的期望收益。“农村教育行动计划”在为农村初中学生提供助学金后，辍学率降低了60%（从13%下降到5%），但仍然有40%的拿了助学金的七年级学生，选择了辍学。这很大程度上是因为他们考虑到自己的学业水平不能在竞争性的中考乃至高考中胜出，同样的道理适用于高中学生。</p>
+<p>贫困、农村地区学生饱受学习能力低下的困扰，不是因为他们“贪玩”、“不努力”、“智力先天不足”，而主要是因为他们所处的环境和城市学生有着天壤之别。师资力量、学校基础设施、父母受教育程度这些因素已经被世界银行、中国教育部等机构翻来覆去讲过好几遍，容易被忽视的是学生的健康营养水平。中国农村地区缺铁性贫血、寄生虫病泛滥成灾，农村学生认知水平和智力水平正受到巨大损害。不及时矫正近视也影响到了农村学生的学业水平。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607070149464d04f_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2012年04月27日，重庆，工作人员在了解寄宿制学生的“营养午餐”。/视觉中国" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607070149464d04f_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607070149464d04f_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2012年04月27日，重庆，工作人员在了解寄宿制学生的“营养午餐”。/视觉中国</p></div>
+<p>2012年，“农村教育行动计划”负责人之一、斯坦福大学教授斯科特·罗泽尔(Scott Rozelle)称，给贫困、农村地区学生每天2毛钱补充维生素，每年2元钱驱寄生虫，甚至是每年80元用于近视眼镜支出，就能显著提升这些学生的成绩，但政府对此投入乏善可陈，进展缓慢。农村学生就在这种悲惨的境遇下，还被一些养尊处优的城里人嘲笑“懒惰”、“智商不配上大学”。</p>
+<p>来到高考门口的少数农村幸运儿，会发现中国高校大门——尤其是顶尖高校大门朝他们紧闭。</p>
+<p>农村学生中，只有幸运儿才能费尽千辛万苦站到高考的门口，那么这是不是就意味着他们和城市学生一样，机会均等了呢？中国大学从1999年开始扩招，普通本专科招生数从1999年的155万人，暴增至2014年的721万人（其中本科383万人）。普通本专科录取率节节攀升，从1999年的56%，上升至2014年的74%。可惜，这对农村学生来讲也是繁荣的假象。</p>
+<p>2014年，瑞典隆德大学的薄家珉(BenjaminLillebrohus)统计了中国不同层次大学的本科教学质量报告，2012年复旦大学新招收的农村学生占比为10.36%，同济大学占比18.98%，天津大学28.14%，吉林大学32.27%，西北师范大学59.85%，南昌大学43.68%，喀什大学（原喀什师范学院）56.98%。《南方周末》在2011年的报道提到，“出身越底层，上的学校越差”，这一趋势难以被逆转。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2016070701581441449_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2016年06月06日，安徽蚌埠，一名来自农村中学的高考考生在宾馆里备战高考。/视觉中国" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2016070701581441449_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2016070701581441449_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2016年06月06日，安徽蚌埠，一名来自农村中学的高考考生在宾馆里备战高考。/视觉中国</p></div>
+<p>大学新生的农村比例可能会让人困惑，毕竟一些大学新招收的农村学生数量超过了城市学生，我们需要把目光投向所有参加高考的学生。清华大学和斯坦福大学五位学者2013年的研究发现，中国贫困、农村地区参加高考的学生上四年制普通本科大学、211工程大学、顶尖大学（清华、北大）的几率，要比城市学生分别低8倍、11倍和43倍。尽管这项研究利用的2003年全国高考学生数据（620万人）以及2000年第五次人口普查数据稍显过时，但研究者相信2003年至今，贫困、农村地区学生上大学的财政负担依旧沉重，上大学的机会成本不断提升，因此农村-城市学生之间的不平等录取现象没有任何改观。</p>
+<p>2016年“江苏家长抗议高考减招”一事想必许多读者还记忆犹新，教育部为了促进高等教育区域和城乡入学机会公平，搞了一个“支援中西部地区招生协作计划”。但承担这项计划的省份并不傻，他们分给西部的录取名额，大多为二本甚至是专科名额。因为教育部从来没有打算把一本率端平，他们只是想把本专科录取率端平。另外，各个重点大学如今都有一些针对农村学生的单独优惠招生计划，但这也只能起到杯水车薪的作用。在现行高压户籍制度下，任何试图通过分配高考录取配额来扭转不平等的尝试，都不能改变广大贫困、农村子弟的高考命运。</p>
+<p>也许你认识的农村学生确实靠高考出人头地了，可个例说明不了什么，还有广大农村学生没能走到这一步。如果这种微乎其微的上大学几率也称得上是“出路”的话，真不知道该为农村学生高兴还是难过。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E5%A6%82%E6%9E%9C%E9%AB%98%E8%80%83%E6%98%AF%E5%AF%92%E9%97%A8%E5%AD%A6%E5%AD%90%E5%94%AF%E4%B8%80%E5%87%BA%E8%B7%AF-%E9%82%A3%E5%9F%BA%E6%9C%AC%E5%B0%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/?category=18271" rel="tag">中国农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">中国大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2/?category=18271" rel="tag">义务教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">农村教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E7%B1%8D%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">户籍制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">统计数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0/?category=18271" rel="tag">网易回声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1/?category=18271" rel="tag">高校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2/?category=18271" rel="tag">高等教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-143/" target="cdt-mirror">【河蟹档案】令计划：”谢皇上不杀之恩”</a>
 </h2>
 <p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
@@ -93,7 +130,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 9小时前</small>
+	<small> ============== 10小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E3%80%8A%E4%BA%89%E9%B8%A3%E3%80%8B%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E8%B5%B0%E5%87%BA%E5%8E%BB%E6%88%98%E7%95%A5%E5%AE%8C%E8%B4%A5/" target="cdt-mirror">墙外楼｜《争鸣》中国高铁“走出去”战略完败</a>
 </h2>
@@ -679,57 +716,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%84%E4%B8%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E9%A9%AC%E6%99%93%E5%8A%9B%E7%89%B5%E5%A4%B4%E8%87%B4%E4%BF%A1-%E5%AF%B9%E5%8D%81%E4%B9%9D%E5%A4%A7%E6%8F%90%E5%87%BA%E5%9B%9B%E9%A1%B9%E5%9F%BA%E6%9C%AC/" target="cdt-mirror">纵览中国｜马晓力牵头致信 对十九大提出四项基本要求</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6B7A0FAA-7950-49A4-A4C5-9849A1D521D7_cx0_cy16_cw0_w987_r1_s_r1.jpg?resize=550%2C309" alt="6B7A0FAA-7950-49A4-A4C5-9849A1D521D7_cx0_cy16_cw0_w987_r1_s_r1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6B7A0FAA-7950-49A4-A4C5-9849A1D521D7_cx0_cy16_cw0_w987_r1_s_r1.jpg?w=987 987w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6B7A0FAA-7950-49A4-A4C5-9849A1D521D7_cx0_cy16_cw0_w987_r1_s_r1.jpg?resize=300%2C169 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6B7A0FAA-7950-49A4-A4C5-9849A1D521D7_cx0_cy16_cw0_w987_r1_s_r1.jpg?resize=768%2C432 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p>网上出现红二代马晓力等人致习近平公开信(明镜博客截频)</p>
-<p>在七一中共建党95周年当天，中共红二代、统战部退休干部马晓力等人，近日再次联署致中共总书记习近平的公开信，呼吁明年召开中共十九大时，中央出台措施，要求十九大党代表、中央委员及中央候补委员的候选人和当选者等，公开个人和家庭的财产状况。</p>
-<p>以下是公开信原文：</p>
-<table width="100%" cellspacing="4" cellpadding="4"><tbody><tr><td align="left">
-<div>
-<p><strong>十九大：必须坚决拒绝腐败</strong></p>
-<p>——<em>几个老党员再次提出四项基本要求</em></p>
-<p>我们都是有三、四十年以上党龄的中国共产党党员。四年前的2012年2月15日，正是在党的十八大召开之前，我们曾经向党中央提出了关于“公示财产”的四项基本要求，遗憾的是没有得到回应。现在，党的十九大又临近了——明年的第四季度就要召开！我们认为，为了开好十九大，向党中央重提这四项要求是必要的。所以，在党的第十九次全国代表大会召开之前，依照《中国共产党章程》的规定，我们郑重地向党组织，向党中央，向习近平总书记，再次提出四项基本要求：</p>
-<p>一，作为党的第十九次全国代表大会的代表，应该并且必须向选举他作为代表的那一级组织的全体党员公布他的个人和家庭的财产状况；</p>
-<p>二，作为党的第十九次全国代表大会的中央委员和候补中央委员的候选人，应该并且必须向党的第十九次全国代表大会的全体代表公布他的个人和家庭的财产状况；</p>
-<p>三，同样，作为党的第十九次全国代表大会的中央纪律检查委员会委员的候选人，应该并且必须向党的第十九次全国代表大会的全体代表公布他的个人和家庭的财产状况；</p>
-<p>四，会后，作为当选的第十九届中央委员、中央候补委员和中央纪律检查委员会委员，应该并且必须向全体党员公布他的个人和家庭的财产状况。</p>
-<p>十九大，应该坚决拒绝腐败！</p>
-<p>我们知道，在十八大以后，以习近平为总书记的党中央在反腐倡廉方面做了大量的工作，打虎拍蝇，治标治本，建章立规，痛下重拳，三年多来，基本上遏制住了蔓延全党的腐败势头；我们也知道，早在上个世纪八十年代初，胡耀邦、陈云、彭真、邓颖超、聂荣臻等老一辈无产阶级革命家就多次提出，要建立干部和干部家属的财产收入申报公开制度，并且在多个省级党政领导班子搞过试点，三十余年来，做过不下十次的高规格的上规模的调查和讨论；我们还知道，现在党组织对领导干部个人事项填报的要求已经越来越高、越来越细、越来越具体，填报后的检查、核实措施也越来越规范和严格，等等——这些的确都是令人振奋的！正因为有了这些令人振奋的工作基础，在开始十九大的准备工作之际，我们才更有信心再次提出这四项基本要求。</p>
-<p>我们希望：十九大，一定要坚决拒绝腐败！</p>
-<p>财产公示是国际通行的政府公务人员预防腐败的有效制度。据了解，世界上有一百三十七个国家和地区建立了公务员财产公示制度，这里面没有文化、种族，东方、西方，发达、欠发达的区别。作为一个有五千年文明传统的亚太大国，一个有信仰、有纪律、有荣誉，并且连续执政六十七年的有八千万党员的中国共产党来说，现在建立财产公示制度，已经是太晚了！但是，所谓“亡羊补牢，犹未晚矣”，所谓“知耻而后勇”——我们的党是“代表中国先进生产力的发展要求，代表中国先进文化的前进方向，代表中国最广大人民的根本利益”的党，我们应该理所当然地在全国抓紧建立起党和国家的领导干部个人和家庭的财产公示制度！而且，就应该从十九大开始，从出席十九大的代表们开始，从十九大选举产生的中央委员会委员、候补委员和中央纪律检查委员会委员开始！我们希望，2016年，我们中国将成为世界上最新的建立公务人员财产公示制度的国家！</p>
-<p>至少，十九大产生的中央委员、候补中央委员和中央纪律检查委员会委员带个好头，向全党全国公示财产。<br>
-我们要求：十九大，必须要坚决拒绝腐败！</p>
-<p>我们相信，在以习近平为总书记的党中央的坚强领导下，我们党的第十九次全国代表大会一定会选出一个为全体党员和广大人民群众所信任、所拥护的政治过硬、作风清廉、精神面貌焕然一新的中央领导机构！<br>
-请中央纪律检查委员会、中央组织部拨冗研究。</p>
-<p>请习近平总书记、王岐山纪委书记拨冗指示。</p>
-<p>十九大的准备工作正在有序展开，各大单位选举出席党的第十九次全国代表大会代表的工作马上就要布置下去，我们提出这四项基本要求，应该正当其时。<br>
-以上，请尽快给我们以答复。</p>
-<p>马晓力（原中央统战部工作人员）<br>
-任小彬（原中央组织部工作人员）<br>
-崔武年（原中央组织部工作人员）<br>
-张北英（原国家人事部工作人员）<br>
-王彦君（原中央统战部工作人员）</p>
-<p>2016年2月16日</p>
-<p>附言：<br>
-一，这封信是四个多月之前写的寄出的。当时，我们希望在十九大的预备工作开始以前就能提出这个问题，比如在提名出席十九大的代表条件的时候就要求财产公示，把财产公示作为一个必要的“门槛”条件，等等。可是四个多月过去了，没有消息。不过没关系，可能事务繁杂，太忙了。那我们就把这个意见公之于众，以便再次提醒一下，希望真正重视起来，解决这个问题，在十九大上对全党全国有个交代，对历史有个交代。<br>
-二，本信可以转发，欢迎传播。</p>
-<p>十九大坚决要拒绝腐败！</p>
-<p>七月一日</p>
-</div>
-</td>
-</tr><tr><td align="left"><span>—— 原载: 《明鏡新聞》<br>
-本站刊登日期： Friday, July 1, 2016</span></td>
-</tr></tbody></table><p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%B5%E8%A7%88%E4%B8%AD%E5%9B%BD%EF%BD%9C%E9%A9%AC%E6%99%93%E5%8A%9B%E7%89%B5%E5%A4%B4%E8%87%B4%E4%BF%A1-%E5%AF%B9%E5%8D%81%E4%B9%9D%E5%A4%A7%E6%8F%90%E5%87%BA%E5%9B%9B%E9%A1%B9%E5%9F%BA%E6%9C%AC/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C%E4%BB%A3/?category=18271" rel="tag">红二代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B4%A2%E4%BA%A7%E5%85%AC%E5%BC%80/?category=18271" rel="tag">财产公开</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A9%AC%E6%99%93%E5%8A%9B/?category=18271" rel="tag">马晓力</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -741,7 +727,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -751,5 +737,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%BA%8C
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

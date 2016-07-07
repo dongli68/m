@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,126 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E7%BB%9F%E6%88%98%E5%A2%9E%E8%AE%BE%E7%AC%AC%E5%85%AB%E5%B1%80-%E5%88%86%E6%9E%90%E4%BA%BA%E5%A3%AB%EF%BC%9A%E7%BB%9F%E7%9A%84%E9%83%BD/" target="cdt-mirror">美国之音｜中共统战增设第八局 分析人士：统的都是自己人</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?resize=550%2C309" alt="在中国共青团一个宣传MV里的一个镜头，中国著名运动员姚明和中国少先队队员都佩戴红领巾。这个MV邀请包括姚明、韩庚和TFBOYS在内的多位体坛、乐坛名人出镜，翻唱《我们是共产主义接班人》（视频截图）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?w=987 987w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?resize=768%2C432 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>在中国共青团一个宣传MV里的一个镜头，中国著名运动员姚明和中国少先队队员都佩戴红领巾。这个MV邀请包括姚明、韩庚和TFBOYS在内的多位体坛、乐坛名人出镜，翻唱《我们是共产主义接班人》（视频截图）</span></p></div>
+<p>中共中央统战部近日通过官方微信宣布增设第八局，全名为“新的社会阶层人士工作局”，私营企业和外资企业管理技术人员、中介和社会组织从业人员、自由职业者以及新媒体代表人物成为重点统战对象。官微文章称，这些群体普遍具有思想活跃、观点多样等特点，但是分析人士认为，那些持不同意见的人士并不会成为统战的对象，而仍旧是打压的对象。</p>
+<p>中共中央统战部微信公众号“统战新语”7月4日发布一篇文章，将正式成立八局之事“昭告天下”。</p>
+<h3><strong>谁是新的社会阶层人士？</strong></h3>
+<p> <br>
+八局的工作对象是新的社会阶层人士。哪些人属于这个阶层？</p>
+<p>“统战新语”称，包括四类人：受聘于私营企业和外资企业、掌握企业核心技术和经营管理专门知识的人员；中介组织和社会组织从业人员，包括律师、会计师等，以及社会团体、基金会等从业人员；在国家法律法规和政策允许的范围内，凭借知识、技能与专长，为社会提供服务并获得报酬的自由职业者；以及以新媒体为平台或对象，从事或代表特定机构从事投融资、技术研发、内容生产发布以及经营管理活动的新媒体从业人员。</p>
+<h3><strong>示好、利用还是控制？</strong></h3>
+<p> <br>
+中国历史学家、公共知识分子章立凡对美国之音说，这可能是中共政权在国际上比较孤立、在国内受到越来越多质疑的情况下，笼络示好一些社会群体的一种方式。</p>
+<p>他说：“这些人或许需要通过体制来获取利益，或者说，他的工作性质就可以被体制所利用。”</p>
+<p>这四类人中的新媒体人或许是中共的重点统战对象。去年5月，中国国家主席习近平在中央统战会议上首次提出把新媒体人列为统战对象。官媒的报道说，习近平认为“新媒体中的代表性人士在‘净化网络空间、弘扬主旋律等方面展现正能量’。”</p>
+<p>近年来，许多党政机构都开通有自己的微博、微信账号，与商业公司合作，用更接地气的方式做宣传。共青团一个宣传MV邀请包括姚明、韩庚和TFBOYS在内的多位体坛、乐坛名人出镜，翻唱《我们是共产主义接班人》，习近平还曾在一个当局召开的文艺座谈会上同网络作家花千方和周小平交谈。</p>
+<p>统战部设立新局一事也是首先由其官方微信曝出。</p>
+<p>与此同时，中共当局对新媒体的主要平台网络正在加强管理和控制。上个月，中国国家网信办再度下令开展网络舆论政治活动，严控“有害信息”，推广“阳光跟帖”。</p>
+<p>有分析认为，一些批评或者唱反调的多来自于新的社会阶层，忽略这些声音或者以非统战方式消除，都达不到好的效果，因此运用中共取得革命胜利的三大法宝之一的统战就变得尤为重要和紧迫。</p>
+<p>“统战新语”的文章也承认统战新的社会阶层人士的不易。文章说，这类人的特点是 “流动性大、分散性强、思想活跃、观点多样，有的甚至连人都找不着、面都见不上，一般化的工作方法很难对这些人起作用”。</p>
+<h3><strong>统战自己人</strong></h3>
+<p> <br>
+但是，章立凡认为，中共统战的只有自己人，而不是持不同意见的人。</p>
+<p>他说：“中共的统战跟以前已经有很大的不同。中共取得政权之前和之后一段时间，统那些或者是反对自己的人，或者是跟自己的利益不一致的人，现在的统，基本是统自己人，统那些从体制内能得到好处的人。”</p>
+<p>明镜集团总裁何频认为，中共统战部的功能早已不存在。</p>
+<p>他说：“他们不会真正去联络和团结那些所谓的不同声音的民运分子，维权律师，或者不同声音的知识分子。他们不会的。都是在政治上和他们保持一致，他们才会走到一起。”</p>
+<p>一些网友也对统战部增设八局发表看法。一些人对找到“组织”感到兴奋，还有一些人则担心，这是中共实施的另一种控制，有人戏谑地说：如果统不了，那么另一个“中统”就会找上门。</p>
+<h3><strong>加强统战工作</strong></h3>
+<p> <br>
+去年9月颁布的《中国共产党统一战线工作条例（试行）》首次正式将“新的社会阶层人士”纳入重点团结的对象。刚刚组建的八局则是在组织结构上将这个统战工作明确化。2014年底，中央政治局委员孙春兰掌舵统战部，而习近平去年5月主持的统战会议，名称也从“全国统战工作会议”变为“中央统战工作会议”，被认为是65年来的首次“升格”。</p>
+<p>分析人士认为，这些变化释放出的是中共的统战工作要进一步加强的信号。</p>
+<p>章立凡说：“实际上是他自身政权的危机感有所加剧。”</p>
+<p>他说，现在中国社会的矛盾和冲突在加剧，中共需要增加支持其政权的人。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E7%BB%9F%E6%88%98%E5%A2%9E%E8%AE%BE%E7%AC%AC%E5%85%AB%E5%B1%80-%E5%88%86%E6%9E%90%E4%BA%BA%E5%A3%AB%EF%BC%9A%E7%BB%9F%E7%9A%84%E9%83%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%B8%89%E4%BB%A3/?category=18271" rel="tag">红三代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E6%88%98%E9%83%A8/?category=18271" rel="tag">统战部</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%AF%E9%A3%8E%EF%BC%9A%E6%95%91%E7%81%BE%E6%97%A0%E9%9C%80%E7%85%BD%E6%83%85%EF%BC%8C%E5%85%B4%E9%82%A6%E4%BD%95%E5%BF%85%E5%A4%9A%E9%9A%BE/" target="cdt-mirror">凯风：救灾无需煽情，兴邦何必多难</a>
+</h2>
+<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.jpg?resize=500%2C375" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.jpg?resize=300%2C225 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>来自微信公号：鸡蛋与高墙（ID: eggs-walls）<br></strong></p>
+<p>一组“就着雨水啃馒头”的照片突然在网上流传，就场景而言，救援士兵不可谓不辛苦，救援场景不可谓不感人，但这种似曾相似的场景，并没有收获一片煽情的泪水，而是铺天盖地的批评。</p>
+<p>就着雨水啃馒头，没有人否认这种场景的存在，但拎出这种场景作为宣传材料，则只会给人以前线只能啃馒头充饥的错觉，这与我们在宏观层面大国崛起之类的宣传内容格格不入，更会让人怀疑灾难救援的专业性：一场救援，如果连后勤保障都跟不上，遑论救援本身？</p>
+<p>如果放在20年前，这样的场景，或许会被认为艰苦的典型。但在今天，没有人认为救灾就必须把所有条件都降到最低层次，仿佛如果条件不够艰苦悲情色彩不够浓厚，就不足以凸显救灾本身的重要性，不足以凸显在救援者的贡献。</p>
+<p>然而，谁都知道，艰苦的救援与一流的后勤保障完全可以同时存在。如果说1998年首次遭遇全国特大范围洪灾，后勤保障力有不逮，倒还情有可原。18年之后的今天，在无数的1998年生死经验的基础上，如果救灾的后勤保障还是如此儿戏，那不免令人感到悲哀和震惊。</p>
+<p>就在遭受舆论广泛质疑之后，有官方媒体随即晒出正常的后勤供应场景，一份温热的盒饭，一份比馒头更有营养的应急餐，提供起来并不存在任何实质上的困难。可惜，宣传机器的思维，仍旧停留在艰苦就是奉献、煽情方能胜利的原有窠臼，浑不知今夕何夕。</p>
+<p>在救援一线的，基本都是普通的士兵，他们来自于最为普通的家庭，凡是出现大灾大难之时都会看到他们的身影。让一群没有任何救灾经验的人上场，本身就是特殊时间下的特殊选择，如果在后勤上还故意以艰苦来营造煽情的印象，那不啻于二次伤害。</p>
+<p>尤其是，许多天灾背后都兼有人祸的因素，人祸让天灾变得更加不可捉摸。原本不会绝提的大坝，原本不会水浸的城市中心地带，原本可以尽早控制的水患，就在豆腐渣、推诿和不负责任中，变得不可控。到最终上场的只会是那些扛沙包的士兵，甚至要用自己的生命，来为某些媒体提供谱写赞歌的素材。</p>
+<p>人民都过河了，宣传机器还在摸石头。把灾难转化为政绩，把救援转化为泪滴，把一切苦痛埋在洪水里，所有的一切都还在重复。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%AF%E9%A3%8E%EF%BC%9A%E6%95%91%E7%81%BE%E6%97%A0%E9%9C%80%E7%85%BD%E6%83%85%EF%BC%8C%E5%85%B4%E9%82%A6%E4%BD%95%E5%BF%85%E5%A4%9A%E9%9A%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E9%A9%B1%E5%8A%A8%E4%B9%8B%E5%AE%B6-%E7%99%BE%E5%BA%A6%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E6%BC%94%E8%AE%B2%E5%A4%AAlow%E8%A2%AB%E6%92%A4%E8%81%8C%E5%A7%8B%E6%9C%AB/" target="cdt-mirror">驱动之家 | 百度设计总监演讲太Low被撤职始末</a>
+</h2>
+<p><p>2016年7月1日，百度用户体验部总监刘超在国家会议中心举行的2016国际体验设计大会上发表演讲。因为演讲内容过low，一度被在场观众当众要求下台。随后又引发了业内人士在知乎等社交网络上的嘲讽。</p>
+<p>刘超演讲视频：<a href="http://daxue.qq.com/content/content/id/2583">http://daxue.qq.com/content/content/id/2583</a></p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/07/%E9%A9%B1%E5%8A%A8%E4%B9%8B%E5%AE%B6-%E7%99%BE%E5%BA%A6%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E6%BC%94%E8%AE%B2%E5%A4%AAlow%E8%A2%AB%E6%92%A4%E8%81%8C%E5%A7%8B%E6%9C%AB/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/s_5cd98cf2abc648d3b6aacc5771fa703c.jpg?resize=600%2C399" alt="s_5cd98cf2abc648d3b6aacc5771fa703c" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/s_5cd98cf2abc648d3b6aacc5771fa703c.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/s_5cd98cf2abc648d3b6aacc5771fa703c.jpg?resize=300%2C200 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>以下根据网络上现存资料整理：</p>
+<p>大会的主讲人都是行业内具有相当声誉的大公司的设计总监。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S03e60be3-7235-4fa5-927a-61eaf0af6cb8.jpg?resize=600%2C314" alt="S03e60be3-7235-4fa5-927a-61eaf0af6cb8" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S03e60be3-7235-4fa5-927a-61eaf0af6cb8.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S03e60be3-7235-4fa5-927a-61eaf0af6cb8.jpg?resize=300%2C157 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>7月1日，2016国际体验设计大会峰会演讲在北京国家会议中心举行，峰会演讲环节可以说是持续4天的大会最重磅的环节。</p>
+<p>这届大会峰会演讲嘉宾包括了江南大学设计学院辛向阳教授、frog创意总监Franco Papeschi、Uber 美国总部全球产品设计总监Ethan Eismann、微软美国总部首席设计官兼副总裁Michael Gough、GE首席用户体验官Gregory Petroff等当今交互设计界大牛和优秀产品的操刀手。</p>
+<p>国内嘉宾部分，除了相当权威的辛教授，还有3位分别来自唐硕、滴滴和百度的体验设计总监。</p>
+<p>2016年7月2日，知乎上一篇问答“如何评价百度大 UE 总监刘超在 2016 国际体验设计大会的演讲？”回答中多是对刘超的嘲讽。答案中排名第一的 Paprika 对比了几位嘉宾的PPT演讲内容。</p>
+<p>辛院长的：</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/743b404c-4bfc-4d8e-b7ce-950610d307c2.jpg?resize=600%2C450" alt="743b404c-4bfc-4d8e-b7ce-950610d307c2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/743b404c-4bfc-4d8e-b7ce-950610d307c2.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/743b404c-4bfc-4d8e-b7ce-950610d307c2.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>Uber的：</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/23ede273-ea2d-41c5-b43e-174ebea0af36.jpg?resize=600%2C450" alt="23ede273-ea2d-41c5-b43e-174ebea0af36" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/23ede273-ea2d-41c5-b43e-174ebea0af36.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/23ede273-ea2d-41c5-b43e-174ebea0af36.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>Microsoft的：</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/faf16199-8690-437b-82a4-5313406abc17.jpg?resize=600%2C450" alt="faf16199-8690-437b-82a4-5313406abc17" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/faf16199-8690-437b-82a4-5313406abc17.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/faf16199-8690-437b-82a4-5313406abc17.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>Frog的：</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6c059f93-21a1-4e6f-a8f8-c7b5637609d5.jpg?resize=600%2C450" alt="6c059f93-21a1-4e6f-a8f8-c7b5637609d5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6c059f93-21a1-4e6f-a8f8-c7b5637609d5.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6c059f93-21a1-4e6f-a8f8-c7b5637609d5.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>GE的：</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64d401d8-9615-4479-9849-56b53df18ca2.jpg?resize=600%2C450" alt="64d401d8-9615-4479-9849-56b53df18ca2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64d401d8-9615-4479-9849-56b53df18ca2.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64d401d8-9615-4479-9849-56b53df18ca2.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>百度的：</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d3067861-73e5-42cf-a404-140de5b42185.jpg?resize=600%2C450" alt="d3067861-73e5-42cf-a404-140de5b42185" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d3067861-73e5-42cf-a404-140de5b42185.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d3067861-73e5-42cf-a404-140de5b42185.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>演讲结束后，很多人在社交媒体上对刘超进行了嘲讽，集中于说话不文明、PPT制作过于low，对女性性别歧视，用外貌长相抹杀女性设计师的工作能力。</p>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S4c83dbf1-8bd1-4025-b069-fee362996e09.jpg?resize=600%2C343" alt="PPT的制作水平" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S4c83dbf1-8bd1-4025-b069-fee362996e09.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S4c83dbf1-8bd1-4025-b069-fee362996e09.jpg?resize=300%2C172 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>PPT的制作水平</p></div>
+<p>发表完演讲后，刘超本人在朋友圈表示很满意。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S2647bd95-5a56-4e1e-97f0-7a2559bc94e0.jpg?resize=600%2C540" alt="S2647bd95-5a56-4e1e-97f0-7a2559bc94e0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S2647bd95-5a56-4e1e-97f0-7a2559bc94e0.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S2647bd95-5a56-4e1e-97f0-7a2559bc94e0.jpg?resize=300%2C270 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>因为知乎上大量的人关注这件事，并对刘超的设计水平进行嘲讽。似乎让他们觉得受到了热议和追捧。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S11a3d13e-fd21-4f20-a63f-c1273c5b146d.jpg?resize=600%2C616" alt="S11a3d13e-fd21-4f20-a63f-c1273c5b146d" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S11a3d13e-fd21-4f20-a63f-c1273c5b146d.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S11a3d13e-fd21-4f20-a63f-c1273c5b146d.jpg?resize=292%2C300 292w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>因此互联网上又是一阵嘲讽，又有人找出了锤子科技CEO罗永浩先生发布的关于评价刘超的几条微博，罗永浩和刘超一度在微博上对骂：</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S3d402a41-5084-4ce2-90bf-d7ee7ad028ee.jpg?resize=600%2C335" alt="S3d402a41-5084-4ce2-90bf-d7ee7ad028ee" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S3d402a41-5084-4ce2-90bf-d7ee7ad028ee.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S3d402a41-5084-4ce2-90bf-d7ee7ad028ee.jpg?resize=300%2C168 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S532486c6-4aee-4009-97d7-f9f1eeb34fde.jpg?resize=600%2C500" alt="S532486c6-4aee-4009-97d7-f9f1eeb34fde" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S532486c6-4aee-4009-97d7-f9f1eeb34fde.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S532486c6-4aee-4009-97d7-f9f1eeb34fde.jpg?resize=300%2C250 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>7月4日早间，刘超因挨不住压力，在百度内网的论坛道歉。他发帖称，上周五参加外部会议演讲，因为个人重视程度不足，内容重复，演讲语言和穿衣不恰当，以及事后在朋友圈未控制好情绪等，给公司形象和(百度)同学们造成了伤害，向大家郑重道歉。并表示下次会改正。但是遭到了同事的无情吐槽，建议其辞职。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fe384543-20ff-400e-b6e8-9485c909863c.jpg?resize=600%2C483" alt="fe384543-20ff-400e-b6e8-9485c909863c" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fe384543-20ff-400e-b6e8-9485c909863c.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fe384543-20ff-400e-b6e8-9485c909863c.jpg?resize=300%2C242 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>根据知乎问题“如何看待百度总监刘超在内网的道歉和百度员工对其的评价？”中指出，内网下面的员工评论大量的都很不满，甚至认为道歉也显得很小儿科，像刘超的PPT一样粗糙。</p>
+<p><strong>以下内网吐槽摘自知乎匿名用户的答案：</strong></p>
+<p>评论1</p>
+<p>“我觉得刘总相比12年 14年，今年的PPT，能力有了很大的提升，水准进步很大，这不能怪他，能力有限。全程17分钟看完，发现他胡言乱语在讲些什么？身为一个总监，居然讲这么没营养的分享。而且外面的人都一致觉得百度UE就这个水平，让我很无奈。去年玉洁在IXDC上分享的内容就很好，很实用。没干货就不要去分享啊。</p>
+<p>还有之前锤子事件也是，你随便一句对PACO的评价，让业界都知道他不会用人。借此希望百度不管是UE还是产品，都应该有所反思，把最牛逼的体验做上去，这才是百度同学们应该去做的，证明我们并没有那么差，我们可以做的很好。”</p>
+<p>评论2</p>
+<p>“先不提那些让人尴尬症发作的段子(这个真的很low)，缺乏专业性这是我看完视频的感觉。做生意的为什么要买好车，银行为什么要建高楼，美容师为什么要打扮得体，因为这是实力的展现，好车高楼能让人知道你的经济实力，打扮得体能让人知道你的审美能力。UE也一样，漂亮的PPT，才能让观众了解到你对产品设计的洁癖，粗制滥造的PPT没法不让人对你能力或者工作态度产生质疑，尤其你是UE，这是你的专业，况且还是总监，把握着很多产品的设计方向，你让人如何还能对百度的产品设计抱有期望。</p>
+<p>这件事一出来，百度UE的招牌我感觉基本是毁了，其他职位也受损不轻。这件事已经不是道歉能换回的了，只有让人看到变化(or 变革)，才能重燃希望。”</p>
+<p>评论3</p>
+<p>“在刘总的文库主页看了几个14年的PPT，有点受惊。这不是一个公关事件这么简单，舆论容易再造，但是产品难以再来。我不相信这只是是公共环境不重视言论穿着这么简单而已。虽然我不会过分关注PPT的问题，但PPT的质量尚且如此（或者是对PPT的质量要求尚且如此），我如何相信在UE工作中是有正确审美及质量标准的？如果说百度产品UE的决定权，在一个PPT能力只有广告公司实习生水平的人手里，合作团队心寒、真正优秀人才流失就不会觉得奇怪了。原来PM们曾经无数次被驳回的需求，是建立在这种草率和随性的态度之上，我只想说，情何以堪。”</p>
+<p>其实，有人对比刘超在2014年的国际体验设计大会上的演讲PPT，发现2016年的他其实是进步的了，因为至少不会让字与字重叠了。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S0ebc76ec-f9e6-4c51-855d-b1225915fdb4.jpg?resize=600%2C390" alt="S0ebc76ec-f9e6-4c51-855d-b1225915fdb4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S0ebc76ec-f9e6-4c51-855d-b1225915fdb4.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S0ebc76ec-f9e6-4c51-855d-b1225915fdb4.jpg?resize=300%2C195 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S0ebc76ec-f9e6-4c51-855d-b1225915fdb4.jpg?resize=230%2C150 230w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>在当天晚间，百度的人力资源部门宣布已将刘超从高管团队除名。此事到目前为止告一段落。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S441c8401-4180-4944-b7af-83c73c53fa8e.jpg?resize=600%2C168" alt="S441c8401-4180-4944-b7af-83c73c53fa8e" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S441c8401-4180-4944-b7af-83c73c53fa8e.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S441c8401-4180-4944-b7af-83c73c53fa8e.jpg?resize=300%2C84 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E9%A9%B1%E5%8A%A8%E4%B9%8B%E5%AE%B6-%E7%99%BE%E5%BA%A6%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E6%BC%94%E8%AE%B2%E5%A4%AAlow%E8%A2%AB%E6%92%A4%E8%81%8C%E5%A7%8B%E6%9C%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/?category=18271" rel="tag">产品设计</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E4%BA%AB/?category=18271" rel="tag">分享</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%B6%85/?category=18271" rel="tag">刘超</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E7%BE%8E/?category=18271" rel="tag">审美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/?category=18271" rel="tag">用户体验</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6ue/?category=18271" rel="tag">百度UE</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/?category=18271" rel="tag">社交媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BE%E8%AE%A1%E5%B8%88/?category=18271" rel="tag">设计师</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E5%A6%82%E6%9E%9C%E9%AB%98%E8%80%83%E6%98%AF%E5%AF%92%E9%97%A8%E5%AD%A6%E5%AD%90%E5%94%AF%E4%B8%80%E5%87%BA%E8%B7%AF-%E9%82%A3%E5%9F%BA%E6%9C%AC%E5%B0%B1/" target="cdt-mirror">网易回声 | 如果高考是寒门学子唯一出路 那基本就是没出路</a>
 </h2>
 <p><blockquote><p><strong>为高考制度辩护的人，常说的一句话就是：高考虽然不完美，但是是寒门子弟的唯一出路。但事实上，大部分寒门子弟根本就没读完高中。少数幸运儿来到高考门前，也会发现高校对他们大门紧闭。</strong></p></blockquote>
@@ -636,86 +753,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88%E6%8C%89%E8%AE%A1%E5%88%92%E8%90%BD%E5%B9%95-%E7%9C%9F%E6%84%8F%E4%BD%95%E5%9C%A8/" target="cdt-mirror">美国之音 | 何清涟：令计划案按”计划”落幕 真意何在？</a>
-</h2>
-<p><p>编者按：这是何清涟为美国之音撰写的评论文章。这篇特约评论不代表美国之音的观点。转载者请注明来自美国之音或者VOA。</p>
-<p>7月4日，令计划案开审，认定受贿、非法获取国家机密和滥用职权等三罪并判以无期徒刑。因为令计划表示“向组织负荆请罪”，不像薄熙来那样利用庭审为自己辩护，观众觉得兴味索然。但令案在十八大六中全会前开审，按计划落幕，其意不在于取悦于观众，而是习近平藉此昭示天下：中共十八大前开幕的高层权斗大戏曲终落幕，令计划结案，意味着扫清旧战场，今后的重头戏是权力新布局。</p>
-<p><strong>令计划的量刑早在“计划”之中</strong></p>
-<p>令计划案一审，从庭审形式、量刑轻重、用来定罪的罪项，直到令计划本人的表现，一切都在最高层计划之中。由于从2012年开始，令计划案的种种内幕已有中外媒体不断抖落，财新网那几篇重磅，如《令完成的财富故事》、《令氏家族的危险关系》等登载之后，已经只剩下一个谜题，即令计划弟弟令完成携带至美国的国家机密的内容待解，其余并无多少悬念。</p>
-<p>令计划被判无期徒刑，符合外界猜测。即使在令完成携带机密之事被爆炒之时，外界也猜测大概在无期与死缓二者之间，都是将牢底坐穿之刑，只是后者的羞辱性大于前者。</p>
-<p>观众们最不屑的是，令计划不似薄熙来那样强悍，除负荆请罪之外，还对审判长、法庭及律师表达赞美和感谢。这点我倒不意外，令计划虽然出身山西平陆令狐，似乎是唐代宰相令狐綯的后裔，其父亲算是红色革干中的尾巴，但这久远的仕宦门第与尾巴地位，在现实政治中，远不如同为山西籍贯的薄一波之子牌头硬。少了这份红色家族背景，表现自然不同。他当然不敢像薄熙来那样，在法庭上用反讽方式说自己的待遇很好，出庭前还吃了一个咸蛋，暗示以前连咸蛋都吃不着。</p>
-<p>法庭认定令计划的8项罪证，包含了首次透露的楼忠福、崔晓玉、魏新、潘逸阳、李春城五人与该案的关系和具体违法细节。但海外媒体对此并无炒作热情，因为在巨贪频出的中国，7708万这个数额简直太小儿科。而令计划与有共青团背景、并在公安系统任过职的潘逸阳的关系，虽然在一定程度上证实了令计划与周永康之间的“合谋”传闻，但比起那场“改变中国政治格局的法拉利车祸”，也实在不够惊悚，太平淡无奇。</p>
-<p>判决书也未涉及令计划拥有多名情妇与私生子的香艳故事。如此一来，令案之庭审就因不够出采、不够惊悚、不够香艳，让观众兴趣索然。但观众这反应正是当局希望看到的，不信，请看以下分析。</p>
-<p><strong>判决书暗示：令完成手中的国家机密不构成威胁</strong></p>
-<p>令计划案中，最为人关注的情节就是非法窃取国家机密。</p>
-<p>令计划任中央办公厅主任、掌握了大量顶级国家机密，这些机密被其非法窃取并交给弟弟令完成携带至美国，这是海外媒体多次报道反复求证的故事。中国政府多次与美国交涉要求带回令完成的官方行动，也证实了这一情节并非虚构，唯一没法证明的是这些高度机密是否已经落到美国情报机构之手。2015年8月，《纽约时报》在一篇报导中引用美情报官员的话，称此事件“将成为美国情报领域的一项非凡成就”，令完成“可能掌握着有关习近平现在和从前的亲信官员的令人不安的信息”。之后，博讯一条消息称，“令计划落网前盗取机密文件2700多份，涉及中共政治、军事、经济、文化等方面；相信部份已被令的胞弟令完成带到美国，成为要胁中南海的筹码。”</p>
-<p>从此以后，令完成携带的情报箱，成了海外媒体每隔一段时间就竞猜一次的谜题，从核武器密码，到高层隐藏在海外的财产，以及私生活录相，无所不至，令中国当局极为不舒服。从判决书的内容来看，中共高层是想趁这次判决，对这种猜测做个了断。</p>
-<p>法院判决称，令计划在担任中央统战部部长、第十二届全国政协副主席期间，通过时任中央办公厅秘书局局长霍克等人，“非法获取大量国家秘密材料，严重破坏了国家保密制度”。值得注意的是，当局多次向美交涉要带回中国的令计划胞弟令完成，在这次审判中并未提及。</p>
-<p>我认为是当局想降低令完成带走的国家机密的情报价值，这种意愿以前有铺垫（当然也可能是事实的一部分）。2015年8月12日，中纪委监察部网站公布了一条消息，标题是《国家旅游局原副局长霍克泄露国家秘密被双开》，其中介绍了霍克被调入旅游局工作前任职中央办公厅秘书局局长，与令计划的任职经历交集，这个局主管中央档案馆。中央档案馆官方网站也于同时披露，现任中办主任栗战书曾在出席该馆会议时，要求该馆“深入开展肃清令计划余毒影响的清理工作”，并提到中央档案馆馆长换人的消息。这两条消息已说明令计划是通过霍克窃取了中央档案馆的馆藏国家机密。</p>
-<p>中央档案馆掌握些什么类型的国家机密？据官方介绍，中央档案馆与国家档案局“两块牌子，一套班子”，副部级单位，由中共中央办公厅归口管理，于1959年6月经中共中央和国务院批准成立， 1970年至1979年4月称中共中央档案馆。其主要任务是：收集、保管党和国家中央机关具有永久保存价值的重要档案和解放前我党中央机关、团体等所形成的革命历史档案，并对馆藏档案进行整理、研究和提供利用，为党中央、国务院以及党和国家的各项工作服务。</p>
-<p>令计划通过霍克在浩如烟海的中央档案馆里“捞出”了什么类型的国家机密，与哪些中央高层有关，如今只能猜想了。没提及令完成，显然是想说明，美方并未掌握有关中国政治高层那些“具有杀伤力的国家机密”。</p>
-<p>但判决书的说法，并不意味着外界必然采信。不要说政治反对者不相信这套说辞，就连体制内的自家人也不相信。今年6月下旬，北京一次聚会中，80年代的改革名人翁永曦谈到他对中国改革陷入困境的六大担忧，其中第四条就是“在外交上极其被动，以前中央帝国不太干预别国事务，现在全球化，所有国际事务中国都得表态，但我们现在这套价值理念不行，四面树敌，孤家寡人，朋友只剩下朝鲜和古巴；而且把柄都在人家手里，个人的合法性都是人家说了算，一旦国家之间玩真的，一个爆料就把你合法性摧毁了，还怎么打仗？”</p>
-<p>一句“把柄都在人家手里”，与前述《纽约时报》、博讯文章所说暗合，把柄有多大，只能任人们发挥无穷想象。</p>
-<p><strong>令案落幕是为十八大六中全会做准备</strong></p>
-<p>令案结案，真正目的是为几个月后的十八大六中全会做准备。习近平自十八大接掌大位以来，已历五年。这几年经过马不停蹄的整军、调整各省常委班子，已是人事一番新，形成了新朝班底。接下来，就是习近平将以什么形式，在中国最高权力位置上呆多久的问题。这个问题，善用中南海占星术揣测内幕的人士已经给出了种种猜想。6月12日，《人民日报》发表郑秉文谈保持增长动力文章，其中重心是假设三个不出现，我也在“《人民日报》提‘三个不出现’，实现难度有多大？”一文中指出，所谓“制度上不出现断层式波动”暗指就是No.1不换人。</p>
-<p>任何国家的权力格局更新，都脱不了“除旧布新”这道程序，“布新”之前通常要“除旧”。这几年习近平用反腐方式“除旧”，让中共官场人人胆战心惊。令计划在庭审中的驯服与当年的傲气，只是证明了一点：失去了老皇上这棵大树做依榜，大内总管什么都不是。今上藉此发出惩戒并安抚官场：十八大权位之争，千里长堤，到此结穴，旧主子已经罩不住人了，大家安心跟着新主子好好干，前程有望。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88%E6%8C%89%E8%AE%A1%E5%88%92%E8%90%BD%E5%B9%95-%E7%9C%9F%E6%84%8F%E4%BD%95%E5%9C%A8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88/?category=18271" rel="tag">令计划案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9/?category=18271" rel="tag">内容</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%88%E6%B3%95%E6%80%A7/?category=18271" rel="tag">合法性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%AF%86/?category=18271" rel="tag">国家机密</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%9195%E5%90%8E%E5%88%9B%E4%B8%9A%E7%A5%9E%E8%AF%9D/" target="cdt-mirror">【图说天朝】95后“创业神话”</a>
-</h2>
-<p><p>@互联网的那点事：呵呵 同一个作者，6个月前和6个月后！</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itu4v28gj20ar0j3q5f.jpg?resize=387%2C687" alt="6106a4f0gw1f5itu4v28gj20ar0j3q5f" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itu4v28gj20ar0j3q5f.jpg?w=387 387w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itu4v28gj20ar0j3q5f.jpg?resize=169%2C300 169w" sizes="(max-width: 387px) 100vw, 387px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itw0glxlj20aq0j4tar.jpg?resize=386%2C688" alt="6106a4f0gw1f5itw0glxlj20aq0j4tar" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itw0glxlj20aq0j4tar.jpg?w=386 386w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itw0glxlj20aq0j4tar.jpg?resize=168%2C300 168w" sizes="(max-width: 386px) 100vw, 386px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itwwfnpmj20ap0j50ve.jpg?resize=385%2C689" alt="6106a4f0gw1f5itwwfnpmj20ap0j50ve" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itwwfnpmj20ap0j50ve.jpg?w=385 385w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6106a4f0gw1f5itwwfnpmj20ap0j50ve.jpg?resize=168%2C300 168w" sizes="(max-width: 385px) 100vw, 385px" data-recalc-dims="1"></p>
-<p>@王伟：这是通过打自己脸来鼓掌的人。</p>
-<p>@Abbott_father：这明显就是一个微商式头脑的作者。鸡汤胜过头脑！！</p>
-<p>@酱油已打满：现在流行创业，集资，然后卷钱跑路。</p>
-<p>@苏季离一个人跑：全都是泡沫~</p>
-<p>@向老师的微博：配图都不换一下啊！</p>
-<p>@半条命老鸟：一言不合就粉转黑。</p>
-<p>@-您-好-：看他平地起高楼，又看他楼塌了。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%9195%E5%90%8E%E5%88%9B%E4%B8%9A%E7%A5%9E%E8%AF%9D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%B8%9A/?category=18271" rel="tag">创业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%B8%9A%E9%82%A6%E6%9D%82%E5%BF%97/?category=18271" rel="tag">创业邦杂志</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%A1%E6%B2%AB/?category=18271" rel="tag">泡沫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B7%91%E8%B7%AF/?category=18271" rel="tag">跑路</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8F%B0%E6%B9%BE%E8%AF%AF%E5%B0%84%E9%9B%84%E4%B8%89%E5%AF%BC%E5%BC%B9-%E9%98%B4%E8%B0%8B%E8%AE%BA%E7%94%9A%E5%9A%A3%E5%B0%98%E4%B8%8A/" target="cdt-mirror">德国之声｜台湾误射“雄三”导弹 阴谋论甚嚣尘上</a>
-</h2>
-<p><p>台湾海军上周误射了一枚“雄三”反舰导弹，贯穿一艘在台湾海峡靠近澎湖海域作业的台籍渔船。阴谋论者认为，这或许是台湾军方刻意使蔡英文难堪，也可能是新政府意在挑衅大陆。</p>
-<p>台湾海军的金江舰上周五于高雄左营基地误射了一枚“雄风三型”超音速反舰导弹，造成一艘在澎湖海域作业的台籍渔船遭到贯穿，船长死亡头部重创死亡，另有三人受伤。该起事件连日来引起台湾舆论高度关注，导弹误射的所有程序环节至今尚未完全厘清。</p>
-<p>根据台湾媒体报道，事发时只有一名高姓中士单独留在战情室中，他在士官长离开喝水的40秒期间误将导弹转为“作战模式”，将接上火线的导弹发射离架。事发后共有包括舰长、兵器长、射控士官长及高姓中士等7人被记过惩处，台湾总统蔡英文曾表示不排除扩大惩处名单。</p>
-<p>台湾国防部在导弹误射后召开记者会说明</p>
-<p>曾经担任同类型军舰舰长的吕礼诗则质疑，要发射“雄三”导弹必须经过10道关卡，绝非单一环节出问题。而海军的解释是，“雄三”发射不需要钥匙，但需要经过5道程序才能发射。台湾国防部副部长7月4日在立法院接受质询时表示，整起事件是“多重错误下的产品”，海军未严格遵守标准作业程序而导致。但造价昂贵而且拥有强大攻击力的“雄三”导弹怎能不需要钥匙，在“操演”期间为何需要接上火线等问题，都成为台湾朝野立法委员质疑的重点。</p>
-<p>阴谋论</p>
-<p>由于事发当日恰逢中国共产党建党95年党庆，各种“阴谋论”甚嚣尘上。台湾国防部发言人陈中吉已驳斥误射导弹与中共党庆的关联性称，将两者“扯在一起是无稽之谈”。</p>
-<p>在民进党籍的台湾新总统蔡英文上台后，两岸关系逐渐转冷。有评论指出，幸好此次“雄三”导弹未穿越台海中线，否则可能使两岸擦枪走火酿成危机。中国国台办主任张志军在接受媒体采访时表示，导弹误射事件影响“非常严重”，要求台湾作出“负责任的说明”。</p>
-<p>国台办主任张志军称误射事件影响严重，要求台方作出说明</p>
-<p>而该事件也随即引爆各种“阴谋论”，认为立场较亲国民党的军方是趁着蔡英文出访友邦期间制造危机使其难堪，也有说法是蔡英文政府意在挑衅。不过《苹果日报》评论就分析，蔡英文就职才一个多月，短时间并无选举，挑起两岸紧张对她并无“政治利益”，而军方人员更不可能干冒被惩处甚至结束军旅生涯的风险，只为了使总统“难堪”。</p>
-<p>上海媒体澎湃新闻社也在一篇题为“台湾雄风-3导弹射向台湾海峡，真的就是一次误射？”的文章中分析，这起事件确实很可能是“意外事件”。报道指出，两岸虽已中断了联系沟通机制，但没有上升为“势不两立”的地步，台湾高层不可能策划军事意外试探大陆的军事反应。此外，台湾军方事前没有能因应大陆军事反应的兵力战备部署，说明此事件为“人为事故”，没有政治和军事的特定含义，“过分解读是台湾媒体自作多情”。但澎湃新闻社也指出，“雄三”事件暴露出台湾海军“外强中干”的真面目，存在人员责任心严重缺失、训练水平差以及导弹火控系统三大问题。</p>
-<p>国防部研发“防呆机制”</p>
-<p>台湾总统蔡英文上周六在结束访问后返台听取导弹误射的相关简报，强调事件的发生不可原谅，也代表台湾军队的纪律存在严重问题，不只是个人操作失误如此简单。她还指出，国防部若无标准程序就应该立刻订立，若有标准程序却不执行，便是目无军纪，人谋不臧，要求国防部彻底检讨。蔡英文周一已前往罹难的渔船船长灵前吊唁并表达慰问之意。国民党立委则呼吁蔡英文政府对相关人员进行惩处，让国防部长冯世宽下台。</p>
-<p>台湾自行研制的“雄风三型”导弹</p>
-<p>台湾中央社报道称，国防部正要求中科院研发射控安全管制机制，采取“一级管制一级”的复式控管方式，以避免误射导弹事件再次发生。</p>
-<p>值得关注的是，由于“雄三”导弹在贯穿船体较轻的渔船后并未引爆，沉入海中的弹头设计高度机密，而且弹头的落点位于台湾海峡，台湾担忧遗失的导弹可能导致研发机密外泄，有关单位正如火如荼展开打捞工作。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%8F%B0%E6%B9%BE%E8%AF%AF%E5%B0%84%E9%9B%84%E4%B8%89%E5%AF%BC%E5%BC%B9-%E9%98%B4%E8%B0%8B%E8%AE%BA%E7%94%9A%E5%9A%A3%E5%B0%98%E4%B8%8A/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%84%E4%B8%89%E5%AF%BC%E5%BC%B9/?category=18271" rel="tag">“雄三”导弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -727,7 +764,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%84%E4%B8%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -737,5 +774,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9B%84%E4%B8%89
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

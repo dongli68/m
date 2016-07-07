@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%96%E4%BB%AC%E9%80%A2%E7%81%BE%E5%BF%85%E7%85%BD%E6%83%85%EF%BC%9F/" target="cdt-mirror">唐映红 | 心理学问答：为什么他们逢灾必煽情？</a>
@@ -212,7 +212,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/?category=18271" rel="tag">产品设计</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E4%BA%AB/?category=18271" rel="tag">分享</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%B6%85/?category=18271" rel="tag">刘超</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E7%BE%8E/?category=18271" rel="tag">审美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/?category=18271" rel="tag">用户体验</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6ue/?category=18271" rel="tag">百度UE</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/?category=18271" rel="tag">社交媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BE%E8%AE%A1%E5%B8%88/?category=18271" rel="tag">设计师</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E5%A6%82%E6%9E%9C%E9%AB%98%E8%80%83%E6%98%AF%E5%AF%92%E9%97%A8%E5%AD%A6%E5%AD%90%E5%94%AF%E4%B8%80%E5%87%BA%E8%B7%AF-%E9%82%A3%E5%9F%BA%E6%9C%AC%E5%B0%B1/" target="cdt-mirror">网易回声 | 如果高考是寒门学子唯一出路 那基本就是没出路</a>
 </h2>
@@ -721,7 +721,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/china/?category=18
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -731,5 +731,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/china/?category=18
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

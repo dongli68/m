@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,38 @@
                 <td></td>
                 
         
-        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8D%97%E4%BA%AC%E5%B8%82%E7%8E%84%E6%AD%A6%E5%8C%BA%E5%89%AF%E5%8C%BA%E9%95%BF%E6%91%86%E6%8B%8D%E6%8A%97%E7%81%BE/" target="cdt-mirror">【图说天朝】南京市玄武区副区长“摆拍”抗灾</a>
+</h2>
+<p><p>南京市玄武区副区长苏郑近日被拍到作秀摆拍。在网民曝光的照片中，她坐在由一群武警保护的充气皮艇上，手指前方，旁边有一位助手为其拍照：</p>
+<blockquote>
+<div><a href="http://weibo.com/u/1755375261" target="_blank">@大尉张</a><a title="2016-07-07 12:08" href="http://weibo.com/1755375261/DDGlmDmWL?from=page_1005051755375261_profile&wvr=6&mod=weibotime" target="_blank" name="3994575649383003"></a><a><span>：</span></a>南京玄武区副区长苏郑，坐在艇上的是她吗？</div>
+</blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mhj5ptj20m80goq4o.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mhj5ptj20m80goq4o.jpg?resize=525%2C394" alt="68a0e69dgw1f5l7mhj5ptj20m80goq4o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mhj5ptj20m80goq4o.jpg?w=800 800w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mhj5ptj20m80goq4o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mhj5ptj20m80goq4o.jpg?resize=768%2C576 768w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1217209464/DDGoL65tT" target="_blank">@张宏杰</a>：玄武区委常委、区政府副区长苏郑同志指挥抗灾。</p>
+<p>@Scandisk_N：大家不用担心，后期制作会把武警p掉的。</p>
+<p>@李言杰：八抬大轿加跟班，就差一个华盖了。</p>
+<p><a href="http://weibo.com/liupengxu1993" target="_blank">@春天有点萌</a>：<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1">大家不要惊慌，这是给河伯的祭品，有了她，水很快就会退了<img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1"><img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1"><img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1"></p>
+<p><a href="http://weibo.com/n/%E8%A2%81%E8%85%BE%E9%A3%9E?from=feed&loc=at" target="_blank">@袁腾飞</a>: 离任的时候一定有万民伞！<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
+<p>@行形摄色1981：大水苍苍，百姓遭殃。有位佳人，坐在船帮。随从拍摄，警察四方。不慌不乱，稳稳当当。救灾不行，作秀夸张。救灾不力，只会乔装。不像巡查，倒像观光。</p>
+<p>@Super暱名帳戶30：李都下水了你居然亦可賽艇</p>
+<p>@山虎虎:这明明是条船，为什么一定要下水推呢？</p>
+<p>@Zz这样吧：带着保镖出来划船</p>
+<p>@顾溆赜：轿子换成了皮筏，家丁换成了武警，吹鼓手换乘了照相机。</p>
+<p>@失望的农夫：我操！加个莲花座就像观音下凡指导救灾了。</p>
+<p>@Tonyisfat:当时领导已经连续三天未合眼指挥救灾，并发着75度高烧。但仍坚持去现场指挥。大家劝说无效的情况下才派出一个连的武警推气垫船护送。同船的医生用相机记录了这感人的一幕。请大家不要信谣传谣，多关注正能量。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mgylu8j20xc1hch02.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mgylu8j20xc1hch02.jpg?resize=450%2C720" alt="68a0e69dgw1f5l7mgylu8j20xc1hch02" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mgylu8j20xc1hch02.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mgylu8j20xc1hch02.jpg?resize=188%2C300 188w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mgylu8j20xc1hch02.jpg?resize=640%2C1024 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8D%97%E4%BA%AC%E5%B8%82%E7%8E%84%E6%AD%A6%E5%8C%BA%E5%89%AF%E5%8C%BA%E9%95%BF%E6%91%86%E6%8B%8D%E6%8A%97%E7%81%BE/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">官员作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%96%E4%BB%AC%E9%80%A2%E7%81%BE%E5%BF%85%E7%85%BD%E6%83%85%EF%BC%9F/" target="cdt-mirror">唐映红 | 心理学问答：为什么他们逢灾必煽情？</a>
 </h2>
 <p><p><strong>问：为什么他们逢灾必煽情？</strong></p>
@@ -249,7 +278,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E5%93%81
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/?category=18271" rel="tag">中国农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">中国大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2/?category=18271" rel="tag">义务教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">农村教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E7%B1%8D%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">户籍制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">统计数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0/?category=18271" rel="tag">网易回声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1/?category=18271" rel="tag">高校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2/?category=18271" rel="tag">高等教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 6小时前</small>
+	<small> ============== 7小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-143/" target="cdt-mirror">【河蟹档案】令计划：”谢皇上不杀之恩”</a>
 </h2>
@@ -650,66 +679,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B8%B8%E6%88%8F%E6%97%A5%E6%8A%A5-2016cj%E5%8F%82%E5%B1%95showgirl%E7%9D%80%E8%A3%85%E8%A7%84%E5%AE%9A%E5%87%BA%E7%82%89%EF%BC%88%E9%99%84%E5%9B%BE%EF%BC%89/" target="cdt-mirror">游戏日报 | 2016CJ参展Showgirl着装规定出炉（附图）</a>
-</h2>
-<p><p>关于ShowGirl“事业线”的话题每年层出不穷。去年ChinaJoy对ShowGirl着装管理之严，在国内外游戏圈内乃至国内整个社会，都引起了不小的波澜。去年的2cm新规更是让全国各地的展友不淡定了，纷纷表示“干脆穿上只露眼睛的女侠装算了”。</p>
-<p>（2cm新规：要求女模事业线露出超过2CM，除事业线外胸部其他部分裸露罚款5000元；女模下装要不穿到骨盆以下，低腰下装低于脐下2CM即露出胯骨即骨盆位置，短裙或短裤下摆高于臀下线罚款5000元。）</p>
-<p>而到今年，除了去年“女模胸部必须由不透明、不透视材质全覆盖外，女模下装腰部必须穿到骨盆以上，且不得低于脐下即不得露出肚脐，短裙或短裤下摆不得高于臀下线即不得露出臀线。”等规定外，还增加了不得在模特敏感部位张贴、印制或展示产品及形象；不得在模特敏感部位张贴、印制或展示产品及形象等规定。</p>
-<p><strong>以下是《ChinaJoy2016BTC 展区 SG 及现场展示人员服装要求》：</strong></p>
-<p>1.SG 及现场展示人员必须由指定经纪公司提供。</p>
-<p>2.须在 2016 年 6 月 18 日-7 月 8 日期间将确定的服装照片提供给组委会指定经纪公司提报审核，现场服装效果将以审核过的试装照效果为准，一经确认不得更改；若在展会现场巡查过程中，监管公司或组委会发现现场服装效果与试装着效果不符，监管公司有权认为展商违规，拍照并作为事后处罚依据。</p>
-<p>3. 服装要求：</p>
-<p>3.1 不得私自修改已经审核过的服装</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/215046b3c5e278d2529ada5fa2a80051.jpg?resize=504%2C266" alt="215046b3c5e278d2529ada5fa2a80051" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/215046b3c5e278d2529ada5fa2a80051.jpg?w=504 504w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/215046b3c5e278d2529ada5fa2a80051.jpg?resize=300%2C158 300w" sizes="(max-width: 504px) 100vw, 504px" data-recalc-dims="1"></p>
-<p>上图左侧服装为审核过服装，右侧则为SG私自修改的服装，请注意黄框区域，肩带已经改变，属于违规</p>
-<p>3.2服装必须合体，过于宽松或过紧，或穿着效果有别于试装照片的服装都是不允许的；</p>
-<p>3.3服装不能过透过露，不能看到内衣或内裤；(违规图片示例如下图）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/edeabfde11b58fc3bf0d8916ceb34332.png?resize=480%2C242" alt="edeabfde11b58fc3bf0d8916ceb34332" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/edeabfde11b58fc3bf0d8916ceb34332.png?w=480 480w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/edeabfde11b58fc3bf0d8916ceb34332.png?resize=300%2C151 300w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1"></p>
-<p>3.4 女模不能只穿比基尼及类似内衣的服装或不穿内衣；(违规图片示例如下图）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f8bc1a7247f4bdfd303ee4480dbf7934.png?resize=342%2C265" alt="f8bc1a7247f4bdfd303ee4480dbf7934" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f8bc1a7247f4bdfd303ee4480dbf7934.png?w=342 342w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f8bc1a7247f4bdfd303ee4480dbf7934.png?resize=300%2C232 300w" sizes="(max-width: 342px) 100vw, 342px" data-recalc-dims="1"></p>
-<p>3.5 上装明确规定，女模背部的裸露部位不能超过上半部的三分之二以上即腰节线以上；(违规图片示例如下图）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/170411c5525b488b0ed88f1acee8490a.png?resize=165%2C265" alt="170411c5525b488b0ed88f1acee8490a" data-recalc-dims="1"></p>
-<p>3.6 男模将不得裸露上身；(违规图片示例如下图）</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5c1db9987f985187574eb298d13441b3.png?resize=184%2C245" alt="5c1db9987f985187574eb298d13441b3" data-recalc-dims="1"></p>
-<p>3.7 女模胸部必须由不透明、不透视材质全覆盖；(违规图片示例如下图）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f3620c11cff90be0c74b0f177682aac8.png?resize=423%2C265" alt="f3620c11cff90be0c74b0f177682aac8" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f3620c11cff90be0c74b0f177682aac8.png?w=423 423w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/f3620c11cff90be0c74b0f177682aac8.png?resize=300%2C188 300w" sizes="(max-width: 423px) 100vw, 423px" data-recalc-dims="1"></p>
-<p>3.8 女模下装腰部必须穿到骨盆以上，且不得低于脐下即不得露出肚脐，短裙或短裤下摆不得高于臀下线即不得露出臀线；(违规图片示例如下图）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9bceab46aecfaf0b698aca5c625b3589.png?resize=438%2C265" alt="9bceab46aecfaf0b698aca5c625b3589" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9bceab46aecfaf0b698aca5c625b3589.png?w=438 438w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9bceab46aecfaf0b698aca5c625b3589.png?resize=300%2C182 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9bceab46aecfaf0b698aca5c625b3589.png?resize=80%2C48 80w" sizes="(max-width: 438px) 100vw, 438px" data-recalc-dims="1"></p>
-<p>3.9 男模不得仅穿着三角或四角及类似内衣的服装、紧身裤，且裤腰不得低于胯骨，不得露出人鱼线；(违规图片示例如下图）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74d81ed245b3453a6a94b08db16881ef.png?resize=135%2C181" alt="74d81ed245b3453a6a94b08db16881ef" data-recalc-dims="1"></p>
-<p>3.10 不得在模特敏感部位张贴、印制或展示产品及形象；(违规图片示例如下图）</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e78c00cf055b38281bc7b5dc20622ba.png?resize=363%2C116" alt="8e78c00cf055b38281bc7b5dc20622ba" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e78c00cf055b38281bc7b5dc20622ba.png?w=363 363w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e78c00cf055b38281bc7b5dc20622ba.png?resize=300%2C96 300w" sizes="(max-width: 363px) 100vw, 363px" data-recalc-dims="1"></p>
-<p>3.11 异性模特之间不得进行过度接触等；(违规图片示例如下图）</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b558f3db1f71437206575b25373fe428.png?resize=351%2C265" alt="b558f3db1f71437206575b25373fe428" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b558f3db1f71437206575b25373fe428.png?w=351 351w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b558f3db1f71437206575b25373fe428.png?resize=300%2C226 300w" sizes="(max-width: 351px) 100vw, 351px" data-recalc-dims="1"></p>
-<p><strong>以下是《ChinaJoy2016BTC展区现场管理规定》原文：</strong></p>
-<p>A、服装规定：</p>
-<p>不得私自修改已经审核过的服装</p>
-<p>服装必须合体，过于宽松或过紧，或穿着效果有别于试装照片的服装都是不允许的；</p>
-<p>服装不能过透过露，不能看到内衣或内裤；</p>
-<p>女模不能只穿比基尼及类似内衣的服装或不穿内衣；</p>
-<p>上装明确规定，女模背部的裸露部位不能超过上半部的三分之二以上即腰节线以上；</p>
-<p>男模将不得裸露上身；</p>
-<p>女模胸部必须由不透明、不透视材质全覆盖；</p>
-<p>女模下装腰部必须穿到骨盆以上，且不得低于脐下即不得露出肚脐，短裙或短裤下摆不得高于臀下线即不得露出臀线；</p>
-<p>男模不得仅穿着三角或四角及类似内衣的服装、紧身裤，且裤腰不得低于胯骨，不得露出人鱼线；</p>
-<p>不得在模特敏感部位张贴、印制或展示产品及形象；</p>
-<p>异性模特之间不得进行过度接触等；</p>
-<p>B、现场活动管理：</p>
-<p>各展商有义务管理好旗下雇佣人员，若出现雇佣公司不作为而产生的违规情况或恶意炒作，一切后果由展商承担，比如雇佣Showgirl私自修改审核过的服装、ShowGirl私自更换表演造型等造成不符合主办方管理规定的行为。</p>
-<p>不得策划表现形式低俗、疯狂的演出/活动或邀请社会反响低俗的“名人”；如钢管舞、将SG置于铁笼中、喂SG胡萝卜或黄瓜等。</p>
-<p>不得策划造成观众聚集通道并有可能引起骚动的言行包括但不限于演出/活动，比如抛洒奖品、出位造型等。</p>
-<p>不得策划赠送如保险套等成人用品或涉及隐私、敏感话题传单及物品的活动环节，更不可将此类物品在展会现场进行展示。</p>
-<p>不允许在公共区域进行举行任何PR活动。</p>
-<p>现场不允许使用自拍杆。</p>
-<p>WMGC和ChinaJoy BTOB馆不允许提供任何表演、活动、Show Girl/boy及COSER雇佣服务。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B8%B8%E6%88%8F%E6%97%A5%E6%8A%A5-2016cj%E5%8F%82%E5%B1%95showgirl%E7%9D%80%E8%A3%85%E8%A7%84%E5%AE%9A%E5%87%BA%E7%82%89%EF%BC%88%E9%99%84%E5%9B%BE%EF%BC%89/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/china/?category=18271" rel="tag">China</a>, <a href="https://chinadigitaltimes.net/chinese/tag/chinajoy/?category=18271" rel="tag">chinajoy</a>, <a href="https://chinadigitaltimes.net/chinese/tag/cos/?category=18271" rel="tag">COS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%8B%E4%B8%9A%E7%BA%BF/?category=18271" rel="tag">事业线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%8E%E4%BF%97/?category=18271" rel="tag">低俗</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%A0%B8/?category=18271" rel="tag">审核</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F/?category=18271" rel="tag">敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A8%A1%E7%89%B9/?category=18271" rel="tag">模特</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E7%90%86/?category=18271" rel="tag">管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E8%A7%84/?category=18271" rel="tag">违规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9A%90%E7%A7%81/?category=18271" rel="tag">隐私</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -721,7 +690,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/china/?category=18
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -731,5 +700,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/china/?category=18
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/" target="cdt-mirror">赵威微博发布“自拍” 引更多质疑</a>
+</h2>
+<p><p>考拉赵威的微博帐号于中国时间7月7日20时许发表了意与李和平律师划清界线的公开信《致朋友们的一封信》，称自己“不经意间使自己成为别有用心的人的棋子”，“对自己年轻单纯、涉世未深、偏执盲目铸成的大错感到追悔莫及，并真心悔悟”，但该文后被删除，原因不详。7月8日上午9时28分，@考拉就是考拉 再次发布了上述公开信：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%892.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%892.jpg?resize=450%2C105" alt="考拉2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉2.jpg?w=1802 1802w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉2.jpg?resize=300%2C70 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉2.jpg?resize=768%2C179 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉2.jpg?resize=1024%2C238 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%893.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%893.jpg?resize=450%2C304" alt="考拉3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉3.jpg?w=1804 1804w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉3.jpg?resize=300%2C203 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉3.jpg?resize=768%2C519 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉3.jpg?resize=1024%2C691 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>但许多网民对这封公开信的真实作者表示怀疑，并猜测天津当局才是背后真正的执笔人。外加有媒体报道赵威的丈夫游明磊无法联系上妻子，微博上要求@考拉就是考拉 拍照证明真身的呼声越来越高。</p>
+<p>7月8日上午11时33分，@考拉就是考拉 发布赵威“自拍”，照片中的赵威穿着蓝色外套，称自己在享受阳光的热烈（当天天津最高气温32度）：</p>
+<blockquote><p>@考拉就是考拉：享受阳光的热烈，大口呼吸自由的空气，虽然昔日的长发变成短发，但丝毫不影响我此时的心情，我只想告诉所有挚爱的亲人们，我平安喜乐，很开心……</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E7%85%A7%E7%89%87%E5%BE%AE%E5%8D%9A1.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E7%85%A7%E7%89%87%E5%BE%AE%E5%8D%9A1.jpg?resize=500%2C348" alt="考拉照片微博1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博1.jpg?w=1807 1807w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博1.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博1.jpg?resize=768%2C535 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博1.jpg?resize=1024%2C713 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>然而正是这张本用来作为证据的“自拍”，却让更多网民对赵威微博帐号的真实操作人表示怀疑。网民指出的疑点主要有：</strong></p>
+<ol><li><strong>赵威自拍微博显示来自“360浏览器”，然而她以前的微博都是通过iPhone6发布的，从未使用过360。</strong></li>
+<li><strong>之前一直用iPhone6发布微博的赵威，这次却在手机自拍后用电脑上传微博。</strong></li>
+<li><strong>与她以前大量自拍对比后发现，赵威脖子左边有一颗明显的痣。但最新微博“自拍”照中，那颗痣出现在完全相反的位置，即脖子右边。</strong></li>
+</ol><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6b8c2377gw1f5mgu3g54fj20w80go109.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6b8c2377gw1f5mgu3g54fj20w80go109.jpg?resize=440%2C228" alt="6b8c2377gw1f5mgu3g54fj20w80go109" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6b8c2377gw1f5mgu3g54fj20w80go109.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6b8c2377gw1f5mgu3g54fj20w80go109.jpg?resize=300%2C155 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博 <a href="http://weibo.com/aaaaa99999" target="_blank">@映蕊流年</a></span></p></div>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg?resize=450%2C599" alt="d9ff9285gw1f5mh9r8ruvj20qo0zin0e" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg?w=960 960w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg?resize=768%2C1022 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg?resize=769%2C1024 769w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博 <a href="http://weibo.com/shjsls" target="_blank">@顏廷旺</a></span></p></div>
+<p>@平安天津 的账号内倒是经常可以见到通过“360安全浏览器”发出的微博：</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A5360%E6%B5%8F%E8%A7%88%E5%99%A8.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A5360%E6%B5%8F%E8%A7%88%E5%99%A8.jpg?resize=450%2C545" alt="平安天津360浏览器" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津360浏览器.jpg?w=1569 1569w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津360浏览器.jpg?resize=248%2C300 248w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津360浏览器.jpg?resize=768%2C930 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津360浏览器.jpg?resize=846%2C1024 846w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>@考拉就是考拉 的“自拍”微博不久后还出现了大量评论被删的现象，被不少网民质疑为“穿帮”后的补救措施：</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E7%85%A7%E7%89%87%E5%BE%AE%E5%8D%9A2.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E7%85%A7%E7%89%87%E5%BE%AE%E5%8D%9A2.jpg?resize=500%2C349" alt="考拉照片微博2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博2.jpg?w=1808 1808w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博2.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博2.jpg?resize=768%2C536 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博2.jpg?resize=1024%2C714 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p>@徐昕：如果已经获释，为何还要通过微博向亲人传递消息？</p>
+<p><a href="http://weibo.com/n/%E9%A6%99%E8%8D%89%E5%B1%B1%E5%B1%B1%E5%B1%B1?from=feed&loc=at" target="_blank">@香草山山山</a>:能不能解释一下？<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e4c8d56gw1f5me21n97qj20k00zktbx.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e4c8d56gw1f5me21n97qj20k00zktbx.jpg?resize=375%2C666" alt="8e4c8d56gw1f5me21n97qj20k00zktbx" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e4c8d56gw1f5me21n97qj20k00zktbx.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e4c8d56gw1f5me21n97qj20k00zktbx.jpg?resize=169%2C300 169w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p>
+<p>@beatleswz: 用360浏览器发布一张自拍照……</p>
+<p><a href="http://weibo.com/5484068771" target="_blank">@莱州农夫142857</a>：手机拍照，电脑放图，多此一举了吧？感觉越来越假<img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"></p>
+<p>@罗长亮575：是手机拍的照片吗？怎么用360浏览器发？</p>
+<p>@净胡尘：用360安全浏览器发手机自拍？而不是用手机客户端发自拍，真的很奇怪。</p>
+<p><strong>@LeMcDuII:客户端显示来自从没用过的360安全浏览器，有人会用手机自拍后上传到电脑上发吗？智商突破下限……</strong></p>
+<p>@FineXiyan：考拉的 iPhone 6 叫@天津发布 贪污了吧</p>
+<p>@鱼儿不停地游啊游：这就是未自由的铁证，360浏览器！</p>
+<p>@小念想_：哇，評論太厲害啦，喔哈哈哈。火眼金睛的各路俠客呀！黃鼠狼手機拍照，交給大灰狼上360，在考拉帳戶發微博。</p>
+<p>@紧de爷：正午的阳光下，看不到handgun抵头的阴影。赶快发一张跟亲人在一起的照片吧，再不发跟亲人在一起的照片，就彻底露馅啦。</p>
+<p>@轻佻小王子：疑问一，如果考拉在入狱之前就知悉其所从事工作的性质，并反对此种工作，那么，考拉入狱这一年都在做什么？狱外舆论早已发酵，为何不早日让考拉出面澄清？ 疑问二，考拉如真出狱，那微博自拍照须转到电脑然后发出，与常理不符，当然这有些牵强。 疑问三，考拉为何删除微博评论？</p>
+<p>@柳暗花明M1：夏天穿这么多，而且是电脑发图，并且没回家……种种迹象表明……</p>
+<p>@忿忿prep：你的拍照风格和说话风格怎么突然这么小粉红？还有你住在哪？为什么用电脑发自拍照？电脑没没收吗？家人怎么没见到你？</p>
+<p>@老妖再来11：家人和律师都没有见到她，她微博说感谢党和警察，我信，大水是她发的，灭绝人性的文革也是她发动的，日军侵华也与她有关我全信了好吗？能绑一个村长的孙子逼村长电视认罪，对付一个小姑娘还不容易，只是祈求考拉平安！考拉，你还好吗？</p>
+<p>@新王小二：嗯，实际上，党和政府的态度已经明了：要了解近况可以，但要出来是不成的。所谓的取保候审实际只是押解下的监视居住。</p>
+<p>@散开头发：最好发张和你亲人合影让我们心安，否则这微博就是土匪无耻下流欺骗手段</p>
+<p>@品味情怀：操弄考拉微博的你们这些狗屎蠢货，你们是阴暗角落里的蛆虫！！！！！</p>
+<p>@二0一二的天空：怎么刚看的评论，一会儿就不见了。真担心你啊</p>
+<p>@西萝丝梦：一下变1百多评论了，删的太快</p>
+<p><a href="http://weibo.com/5580548526" target="_blank">@头条热视频</a>：哎呦，邪教组织露馅了开始删评论了<img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"></p>
+<p>@吴周求：删评论有毛用。别人都截图了</p>
+<p>@槛外青衣客：评论删除，正好证明是操控的</p>
+<p><a href="http://weibo.com/n/%E7%8E%9B%E6%8B%89%E5%9F%BA%E4%BA%8C%E4%B8%96?from=feed&loc=at" target="_blank">@玛拉基二世</a>:考拉成了名人，还有特型演员？<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005uvtVPgw1f5mgvhr3ftj30hs2augro.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005uvtVPgw1f5mgvhr3ftj30hs2augro.jpg?resize=350%2C1631" alt="005uvtVPgw1f5mgvhr3ftj30hs2augro" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005uvtVPgw1f5mgvhr3ftj30hs2augro.jpg?w=440 440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005uvtVPgw1f5mgvhr3ftj30hs2augro.jpg?resize=220%2C1024 220w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
+<p>@范shion0：明摆着被，土匪盗用了微博，欺骗老百姓，真可笑<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/e829b6d8jw1f5mhoocpygj20qo1bejv0.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/e829b6d8jw1f5mhoocpygj20qo1bejv0.jpg?resize=440%2C782" alt="e829b6d8jw1f5mhoocpygj20qo1bejv0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/e829b6d8jw1f5mhoocpygj20qo1bejv0.jpg?w=440 440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/e829b6d8jw1f5mhoocpygj20qo1bejv0.jpg?resize=169%2C300 169w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%90%A6%E8%AE%A4%E8%A6%81%E6%B1%825%E5%BC%A0%E5%85%89%E7%9B%982%E9%83%A8%E6%89%8B%E6%9C%BA-%E5%8F%AA%E8%A6%813%E5%BC%A0/" target="cdt-mirror">奇客资讯 |  广电总局辟谣：审批只要3张光盘2部手机</a>
 </h2>
 <p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/livLJMezH6JW.png?resize=600%2C332" alt="livLJMezH6JW" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/livLJMezH6JW.png?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/livLJMezH6JW.png?resize=300%2C166 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
@@ -34,7 +86,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9/?category=18271" rel="tag">内容</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%89%B9/?category=18271" rel="tag">审批</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88/?category=18271" rel="tag">新闻出版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E6%88%8F/?category=18271" rel="tag">游戏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B3%E6%8A%A5/?category=18271" rel="tag">申报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E7%90%86/?category=18271" rel="tag">管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%9F%E8%B0%A3/?category=18271" rel="tag">辟谣</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA%E6%98%AF%E6%80%95%E5%96%B7%E5%AD%90%E6%B1%A1%E4%BA%86%E5%A4%A7%E5%AE%B6/" target="cdt-mirror">【立此存照】天津警方：删评论是怕喷子污了大家的眼</a>
 </h2>
@@ -121,6 +173,59 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 6小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-22/" target="cdt-mirror">【网络民议】你们还遇到了五千年一遇的政府</a>
+</h2>
+<p><p>近日，长江流域出现较大汛情，湖北武汉市因为连日暴雨，城区内涝严重，出现“水漫全城”的景象，部分市内交通瘫痪。相应的官方报道，不乏大幅渲染救灾悲情的“传统内容”，但部分媒体以及网友也对城市排水官网水准、堤坝建设的贪腐问题、宣传式报道的客观性、现领导层与往届抗洪做法差异乃至三峡大坝的修建是否符合预期等各个方面提出了质疑性的意见。</p>
+<p><strong>相关阅读：</strong></p>
+<p><a title="BBC | 中国南方暴雨未息 长江珠江水系纷告急" href="https://chinadigitaltimes.net/chinese/2016/07/bbc-%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E6%9C%AA%E6%81%AF-%E9%95%BF%E6%B1%9F%E7%8F%A0%E6%B1%9F%E6%B0%B4%E7%B3%BB%E7%BA%B7%E5%91%8A%E6%80%A5/">BBC | 中国南方暴雨未息 长江珠江水系纷告急</a></p>
+<p><a title="网易回声 | 为了保住武汉 这些小镇吞下了大半的洪水却没人管" href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%BA%E4%BA%86%E4%BF%9D%E4%BD%8F%E6%AD%A6%E6%B1%89-%E8%BF%99%E4%BA%9B%E5%B0%8F%E9%95%87%E5%90%9E%E4%B8%8B%E4%BA%86%E5%A4%A7%E5%8D%8A%E7%9A%84%E6%B4%AA/">网易回声 | 为了保住武汉 这些小镇吞下了大半的洪水却没人管</a></p>
+<p><a title="唐映红 | 心理学问答：为什么他们逢灾必煽情？" href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%96%E4%BB%AC%E9%80%A2%E7%81%BE%E5%BF%85%E7%85%BD%E6%83%85%EF%BC%9F/">唐映红 | 心理学问答：为什么他们逢灾必煽情？</a></p>
+<p><a href="http://news.sina.com.cn/c/zg/2016-07-07/doc-ifxtwihp9752839.shtml">大三女生致信武汉政府：130亿花哪儿了？</a></p>
+<p><a title="【图说天朝】南京市玄武区副区长“摆拍”抗灾" href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8D%97%E4%BA%AC%E5%B8%82%E7%8E%84%E6%AD%A6%E5%8C%BA%E5%89%AF%E5%8C%BA%E9%95%BF%E6%91%86%E6%8B%8D%E6%8A%97%E7%81%BE/">【图说天朝】南京市玄武区副区长“摆拍”抗灾</a></p>
+<p><a href="http://t.cn/R5BkMVl">武汉水患真相：房产商填湖曾只需罚5万</a></p>
+<p><a href="http://weibo.com/ttarticle/p/show?id=2309403994545674167450">共青团中央：三峡大坝挡得了洪水，却挡不住某些人脑子里的水</a></p>
+<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
+<p>@wangxy1：【水灾预言】1，关于下水道反应一个城市的良心，政府部门不会回应。2，武汉130亿治水资金的去处追问，无赖们会装糊涂不回答。3，当局的有关表彰活动已经在酝酿中。</p>
+<p>@妇科专家：不要说百年一遇的暴雨，你们还遇到了五千年一遇的政府。</p>
+<p>@hnjhj：有些老外看不懂这张图，不理解为什么不站台阶上非要泡水里，其实其中的寓意很深刻：洪水来时离岸是关键。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmu9y8VVMAIhW4-.jpg?resize=600%2C412" alt="Cmu9y8VVMAIhW4-" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmu9y8VVMAIhW4-.jpg?w=752 752w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmu9y8VVMAIhW4-.jpg?resize=300%2C206 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>@zhanglifan: 七律 人祸 章立凡 大坝当年海口夸，洪峰今破万千家。喉舌照例英雄曲，堤堰依然豆腐渣。姑诿天灾遮人祸，忍将脓肿绘桃花。九州铸铁成三像，跪守长河落日斜。</p>
+<p>@gseed12: 庆丰管制下大陆社交媒体平台各种禁止膜蛤…然而如今面对长江今年大洪水各种失分于98年同样面对大洪水的蛤蛤…各种宣传报道呈现的水平对比也是全面退化到连98年都不如的…sigh…真是庆丰怒禁蛤 天威助续秒。</p>
+<p>@nonozone：今日神段子：航拍记录显示，湖北已经基本都是湖，找不着北了。</p>
+<p>@pangjiaoming：98年大洪水後，武漢市於2003年完工的江堤整險加固工程，號稱可抵禦百年一遇洪水。3年前，武漢市水務局局長左紹斌稱，該局準備通過3年努力，投資130億元，系統完善排水體系，實現在日降雨200毫米以內武漢不被水浸。——共產黨官員做的任何承諾，連標點符號都不可信！#透視紅朝</p>
+<p>@超先声：武汉被淹，除了大雨之外，都说跟湖泊被填有关。这个我有发言权，我曾经去调查过某大公司占东湖建房子的事，武汉被称为千湖，但实际上很多都已经被填得不成样子，东湖是武汉最大的湖，也最受关注，所以一般不敢填东湖，但实际上悄悄填东湖一直在进行中。而且这个调查很简单，不需要专业知识，用Google earth看一看历年来的地图，就知道哪块被填了。可惜当时报道被和谐了。</p>
+<p>@redfireage：伟大的三峡大坝，造价万亿，移民百万，上游多了一个平湖，下游多了两个草原；耕地少了三十万亩，园地少了十五万亩；中游没了中华鲟，下游没了白鳍豚；大船进不了重庆，小船到不了武汉；电价比以前更贵，水质比以前更糟；养肥一帮电老虎，喂饱一群水老鼠。</p>
+<p>@hnjhj：赵王无道，不修德政，登基四载，倒行逆施，佞幸当道，天怒人怨，上累宗庙、下负庶民。故皇天降怒，以示警戒，山洪泛滥，江水滔天。望赵王早日下诏罪己，诚心悔过，顺应天意，还政于民，早赴煤山，避祸免灾。</p>
+<p>@bafield：转：如果配图和这位句“混着雨水的矿泉水和几个馒头，就是他们日常的伙食”确实属实，那么部队管后勤保障的可以枪毙了。如果配图和这句话是瞎编的，那么央视记者可以枪毙了。你们认为应该枪毙哪个？</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmpRIYBUMAEurGQ.jpg?resize=577%2C743" alt="CmpRIYBUMAEurGQ" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmpRIYBUMAEurGQ.jpg?w=577 577w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmpRIYBUMAEurGQ.jpg?resize=233%2C300 233w" sizes="(max-width: 577px) 100vw, 577px" data-recalc-dims="1"></p>
+<p>@秀才江湖：请不要再秀救灾官兵啃馒头、和衣而眠了，请不要再报道市民积水中捞鱼、划船了，我想不明白，你们还有没有羞耻心？你们还有没有一点是非观念？这明明是一场由于政府对下水道工程缺失造成的人祸，对人民生命财产造成巨大损失，你们却写得如此浪漫！却还要对政府歌功颂德！呸！不要脸！</p>
+<p>@天涯赵瑜：一个变化：央广军事专门多图片报道一线抗洪的官兵吃得很好，网友们纷纷点赞。这其实就是改变了过去的反人类宣传模式。原来的宣传模式动不动，就播放抗洪官兵啃凉馒头，满手污泥，吃很糟糕的盒饭，以此打苦情牌，感动中国。不知何时，这一模式开始不奏效了，大多数民众觉醒，认为这样的宣传不但不感动，还很反人类。在一级战备下，我们的后勤保障为何跟不上。所以新闻宣传这一细小的进步，其实是对之前宣传模式的一种反讽。希望由此项开始，渐变，不要动不动就用大灾之后有大爱，有一种逆行让人泪流满面一类的标题给民众洗脑，是天灾要问责那些豆腐渣工程，是人祸要问责那些制造灾难的人。每一次灾难我们都不是为了感动的，而为了下一次不再有类似的灾难。</p>
+<p>@LifeTime: 有人质疑人均6万美元的军费开支，为何军人抗洪还吃馒头？军报回应：抢险怎么可能吃得进山珍海味。这种对话，让听众哭笑不得。问话的是指抢险中军队的后勤保障没有体现战备水平，答话的却扯到宴席的豪华标准。</p>
+<p>@shiburinCN：台湾的桃园机场被淹骂声一片，中国的各种城市内涝只见哄笑……呵呵，连灾难也能习惯了，真好呢。不觉得耻辱吗？果然没有羞耻心，哪来自尊呢？</p>
+<p>@uponsnow: “刘仲敬武大博士不念了，原来真的是为了躲大洪水！” 群里看来的，笑瘫了。</p>
+<p>@ranxiangmm：我替大大揪心啊，这大雨一下，全国都成汪洋了。大有汪洋取代近平之意啊！太太上皇江泽民，太上皇胡景涛，都有水，大大没有水，搞得狼狈不堪，搞不好被汪洋取而代之。</p>
+<p>@iguangcheng：黄万里预言，如果三峡大坝上马，将会出现十二种灾难性后果：1、长江下游干堤崩岸；2、阻碍航运；3、移民问题；4、积淤问题；5、水质恶化；6、发电量不足；7、气候异常；8、地震频发；9、血吸虫病蔓延；10、生态恶化；11、上游水患严重；12、终将被迫炸掉。</p>
+<p>@快乐的上帝的玩笑：想问问这个副区长你还要点脸面.官架子真不小啊</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CWDEu.jpg?resize=600%2C450" alt="CWDEu" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CWDEu.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CWDEu.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>@琢磨先生：归纳起来三点原因：1）位置不好。2）台风不停。3）前任不行。其实很简单，要反思两个问题：1）近130个亿花哪里去了，出个明细。2）接下来怎么办？</p>
+<p>@littlehawk：【武汉洪灾与三峡工程有关吗？专家：绝没帮倒忙】从三峡可以抵御千年一遇洪水到三峡绝没帮倒忙，专家的这张嘴啊！</p>
+<p>@醉清风老杨 ：武汉地铁被水倒灌 秒变“水帘洞”，今年洪涝灾害堪比1998年长江流域汛期，多难兴邦，祈福武汉！  //  @张洲：多难兴邦这四个字如果狭义一点，基本等于：多死人兴家。</p>
+<p>@小余要努力 ： :这些年来武汉以水上项目的名义一再侵占湖泊，降低湖泊容纳洪水的容量。尤记当年华侨城的欢乐谷项目一再占用东湖大片水面，众多武汉市民表示反对，然而没有下文。事实证明，你对大自然有多轻慢，大自然对你的惩罚就有多酷烈。</p>
+<p>@棵棵树树小姐：98年是长江洪涝，这次是城市内涝。百湖之城的武汉只剩下38座湖了。围湖造楼罚款才50万，建起来利润不知道多少？然而利润都进了某些人的口袋，遭殃的还是老百姓。</p>
+<p>@狐狸不吃鱼：主要原因还是天气，扯到别的就伤害了GDP。</p>
+<p>@philipsmoon：年年看海，只是今年雨大变大海，说没问题，我很本不信。老说天灾，长江又没决口。下个雨都能把城市淹了，作为人类文明的结晶，怎么好意思称自己是文明世界。</p>
+<p>@CAICHENYUI ： 腾讯新闻翻了好几页都是报道武汉的暴雨我们安徽呢？一个报道都没有，还要成为泄洪区？</p>
+<p>@赛艇队长 ：为什么98年抗洪也是很大的？</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pENQcgw1f5khjifutoj30c63zchdu.jpg?resize=438%2C5160" alt="006pENQcgw1f5khjifutoj30c63zchdu" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pENQcgw1f5khjifutoj30c63zchdu.jpg?w=438 438w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pENQcgw1f5khjifutoj30c63zchdu.jpg?resize=87%2C1024 87w" sizes="(max-width: 438px) 100vw, 438px" data-recalc-dims="1"></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-22/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E6%B1%89%E6%B4%AA%E7%81%BE/?category=18271" rel="tag">武汉洪灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%AE%B3/?category=18271" rel="tag">洪涝灾害</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 8小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%A4%E5%87%B0%E5%8D%9A%E6%8A%A5%EF%BD%9C%E4%B8%81%E5%92%9A%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%9C%9F%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%EF%BC%9F/" target="cdt-mirror">凤凰博报｜丁咚：北京真不在乎南海仲裁案？</a>
 </h2>
@@ -528,75 +633,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E3%80%8A%E4%BA%89%E9%B8%A3%E3%80%8B%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E8%B5%B0%E5%87%BA%E5%8E%BB%E6%88%98%E7%95%A5%E5%AE%8C%E8%B4%A5/" target="cdt-mirror">墙外楼｜《争鸣》中国高铁“走出去”战略完败</a>
-</h2>
-<p><p>作者: 乐尚嘉</p>
-<p>一带一路，全线流产：中铁跟墨西哥的高铁项目流产了，跟泰国的高铁项目流产了，跟委瑞内拉的高铁项目流产了，跟美国的高铁项目流产了，跟蒙古的高铁流产了……前脚放贷款，后脚就流产！有网友疑问：为什么祖国母亲和外国人做生意总流产呢？——网友回答：祖国母亲光注意爽了，没注意保胎！自中国在美首个高铁项目流产后，网上流传这么一条信息，调侃中国高铁海外项目的一连串失败。</p>
-<p>“中国梦”设想的市场很大</p>
-<p>一段时期来，中国高铁“走出去”叫得很响，配合习近平的“一带一路”大战略，海外市场好像大得很。李克强总理外出访问，也自称是中国高铁建设的“推销员”。</p>
-<p>中国自己设想得很好，要建设以中国为中心的四个走向世界的高铁，延伸至亚欧美。</p>
-<p>一是欧亚高铁：从伦敦出发，经巴黎、柏林、华沙、基辅，过莫斯科，之后进入中国境内的满洲里；二是中亚高铁：起点是乌鲁木齐，经哈萨克斯坦、伊朗、土耳其等国家，最终到达德国；三是泛亚高铁：从昆明出发，依次经越南、柬埔寨、泰国、马来西亚，抵达新加坡。最引人注目的是中俄加美高铁。按照规划，这条高铁将从中国东北出发一路往北，经俄罗斯的西伯利亚抵达白令海峡，以修建隧道的方式穿过太平洋，抵达美国阿拉斯加州，再从阿拉斯加往加拿大，最终抵达美国。</p>
-<p>想法很多，可谈成的项目很少。除了上述几个流产的项目，目前还在的高铁项目有中老铁路、中泰铁路、匈塞铁路、巴基斯坦拉合尔橙线轻轨、印尼雅万高铁。一连串的中国在海外高铁项目流产之后，还是有几条高铁项目仍在施工的。</p>
-<p>虽然高铁项目中的核心技术知识产权不在中国手里，但是中国现有高铁总长一点七万多公里，是世界第一高铁运营里程的国家，中国高铁里程超过世界其它国家高铁总和。中国所有的高铁都是由中资企业铺设的，因此，中国高铁综合建设能力最强。</p>
-<p>中国境内的高铁也不赚钱</p>
-<p>中国当前经济下行压力严重，迫切需要寻找新的经济增长点，于是，寻找海外高铁建设市场便成了中国经济摆脱困境的手段之一。承接海外高铁项目可能还会帮助消化中国境内目前已经严重过剩的钢铁和水泥的产能。中国高铁在海外市场竞争时，更有一项优势，那就是中国可以“带资建设”，可以贷款帮助建造。</p>
-<p>贷款“带资”建设高铁项目，对施工方来说就有很大的风险。考察上述中国承建的高铁项目，几乎都是在现代工商经济不发达的国家，沿线几乎都不存在充分活跃的商业机会，因此这些高铁项目能够赚钱的概率很小。不要说巴基斯坦、印尼那些高铁，就是中国自己境内建造的高铁，也都不可能赚钱。</p>
-<p>以中国最繁忙的京沪高铁为例。京沪间是中国经济最活跃的地区，也应该是中国各条高铁中最有可能赚钱的。京沪高铁造价达二千二百亿元人民币，当时铁道部定价京沪高铁二等座为五百五十五元。一列车满打满座八百余位，主要是二等座，四十余万票价收入，每天开九十对，每天八千万元，每年可达二百八十八亿元，收益倒是达到铁道部预计的收益率百分之八——十二的上限了。可是高铁运营要成本，且成本不低，估计纯收入不会超过百分之三十。何况上述计算还是满打满算，实际在一年的大部分时间列车不会满座。照此看来，即使加上京沪高铁还有其它收入，京沪高铁近期的收益率可能也只是相当于当时的通胀率。京沪高铁几时才能开始收回投资？</p>
-<p>京沪高铁尚且如此，中国其它高铁可想而知。而比中国经济更不活跃的印尼雅万地区、巴基斯坦、委内瑞拉等高铁会有效益？因为那些高铁建设、贷款都是中国承担，所以能不能建成，人家并不操心！</p>
-<p>好的项目人家担心安全</p>
-<p>比较起来，美国西部高铁项目是有现实的盈利可能的，所以中国格外看重拿到这个美西高铁项目。</p>
-<p>美国本来就有世界最大的资本市场，融资相对方便，美西高铁项目可能不用中国方面过多的投资和垫款；并且美西高铁从洛杉矶到拉斯维加斯，两点都是世界著名旅游景点，沿途旅游资源十分丰富。当时正是习近平访问美国前夕，中国接到这张订单十分兴奋。这个项目是肯定有赚头的，甚至可以把这看作是中国高铁“走出去”的典型。虽然这个项目在直接意义上与习近平的“一带一路”战略是不相干的。</p>
-<p>正因为如此，当传来美西高铁项目流产时，中国方面很愤懑，而这愤懑的背后，失落的情愫油然可察。中国方面表示“美国单方发布终止项目合作的消息，这一行为是错误的、不负责任的，我们表示反对”，还暗示这个项目被终止是因为目前中美关系不太和谐所致。</p>
-<p>不管美国方面背后有否其它原因，美方提出终止合同的理由是“中方行动迟缓，以及中方公司难以获得推进建设所需的权限”，实际上美国联邦政府要求美国高铁必须使用美国生产的高铁列车。中国指出，美国现在并不生产高铁列车。看似美国政府不讲理，其实联邦政府要求的是交通安全，要的是高铁列车必须达到美国的标准。</p>
-<p>没有自主创新的高铁</p>
-<p>中国在短短几年中成了世界第一高铁大国，也在几年里自己能够制造高铁列车，这不能不说是中国高铁建设的大跃进。</p>
-<p>毛泽东死后的中国几次大跃进都不再强调小、土、群，而是尽量高、大、洋。现在只要有钱，可以全套引进各国成熟的先进技术和设备，短时间内掀起大跃进地完成中国高铁现代化。所谓能够自主生产制造的高铁列车，基本上也是引进模仿抄袭德法日。问题是高铁运行的控制系统也是从国外引进的，可是中国任何一段高铁都不可能与国外高铁一模一样。即使引进了国外的高铁信号控制系统，也必须依据中国高铁的距离、速度、地形地貌、气候温差等诸元素来重新调整。换句话说，即使高铁列车全部都是引进的，其信号控制系统也必须是自己的。</p>
-<p>中国高铁发生多次事故，小到因雨雪天气停驶，大到追尾、脱轨、翻车，几乎都是高铁列车信号控制系统出了问题。这怎么能让国外建设方对中国承建的高铁放心？除非建设方不负责那条高铁的任何方面，当然也不考虑不承担建设高铁的丁点费用。</p>
-<p>在畸形的大跃进发展模式下，中国高铁要走出去注定会败北的。</p>
-<p> </p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC%EF%BD%9C%E3%80%8A%E4%BA%89%E9%B8%A3%E3%80%8B%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E8%B5%B0%E5%87%BA%E5%8E%BB%E6%88%98%E7%95%A5%E5%AE%8C%E8%B4%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81/?category=18271" rel="tag">中国高铁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E9%93%81/?category=18271" rel="tag">高铁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E9%93%81%E5%A4%A7%E8%B7%83%E8%BF%9B/?category=18271" rel="tag">高铁大跃进</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/bbc%EF%BD%9C%E6%88%B4%E7%A7%89%E5%9B%BD%EF%BC%9A%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%E5%88%A4%E5%86%B3%E4%B8%8D%E8%BF%87%E6%98%AF%E4%B8%80%E5%BC%A0%E5%BA%9F%E7%BA%B8/" target="cdt-mirror">BBC｜戴秉国：南海仲裁案判决“不过是一张废纸</a>
-</h2>
-<p><blockquote><p>1914年，8月4日（德国对法国宣战第二日），德国破坏1839年保证比利时永久中立的条约，4 路德军侵入比利时。到四日下午三时，英国外交部命令戈森爵士向德国政府要求保障比利时中立，但德国宰相贝特曼-霍尔维格对英国驻德大使声称：“国际条约不过是一张废纸。”八月四日午夜，英国以德国破坏比利时中立为借口对德国宣战。德国首相贝特曼－霍尔维格回答说：“仅仅为了一束废纸，大不列颠竟愿意与同一种族的国家交战。”</p></blockquote>
-<p> </p>
-<p>中国前国务委员戴秉国周二（7月5日）在美国华盛顿出席中美智库南海问题对话会时表示，南海仲裁案的裁决“不过是一张废纸”，宣称南海群岛是中国固有领土，并呼吁美国保持中立，不要强势介入南海问题。</p>
-<p>位于海牙的国际仲裁法院将于下周二（7月12日）发表南海仲裁案的裁决。戴秉国说：“听说仲裁结果很快就会出来了，出来就出来吧，没什么了不起，不过是一张废纸！”</p>
-<p>戴秉国指仲裁庭“没有管辖权，其自行扩权、越权审理并做出裁决”，违背《联合国海洋法公约》。他指仲裁庭当务之急是停止审理案件。</p>
-<p>菲律宾于2013年就南海岛礁争议向海牙国际仲裁法院单方面提起南海仲裁案。戴秉国形容菲律宾“独出心裁”，仲裁案“强加给中国”，“背后隐藏着不良政治图谋”，及“唯恐南海不乱”。</p>
-<p>中国官媒《人民日报》周三亦发表署名“钟声”的评论文章，警告美国不要在南海问题上冲撞底线。</p>
-<p>文章说，中美智库南海问题对话会7月5日在华盛顿举行，“这场一场对话会来得很及时”，“对于美国战略界人士更清醒认识中国维护自身正当权益的意志和能力、更理性思考美国在南海问题上所扮演的角色，客观上都有好处”。</p>
-<p>文章最后警告说，“美国必须搞清楚，任何事情都是有底线的，一旦玩过了头就要付出代价”。</p>
-<p>劝阻美国介入</p>
-<p>中国前国务委员戴秉国在南海问题对话会致辞中提及，中国与美国在南海没有任何领土争议，也没有任何战略利益冲突，南海争议不能用来定义中美关系。</p>
-<p>戴秉国说：“南海问题就是关乎自身领土主权、安全、发展利益和海洋权益问题，是防止丧失我们固有领土的悲剧重演问题，简单而朴素，没有其他考量。我们无意也无力与谁进行什么‘战略比拼’。”</p>
-<p>美军太平洋舰队司令哈里·哈里斯曾批评中国具挑衅性及扩张主义，亦曾表示他带领的军队要准备好“今晚战斗”。</p>
-<p>戴秉国批评这种态度有损美国形象，更说：“中国人并没被吓倒，哪怕美国全部10个航母战斗群都开进南海，也吓不倒中国人！”</p>
-<p>戴秉国亦说，中国“有能力收复上述岛礁”。</p>
-<p>但戴秉国说，虽然南海问题并非中美之间的问题，但为了维持亚太和平稳定，中国愿意与美国就海上问题保持沟通。</p>
-<p>中国南海军演</p>
-<p>中国国防部官方微博周一晚上发布消息，海军于七月上旬会在海南岛至西沙附近海空域组织演训活动。</p>
-<p>国防部指，多艘舰艇、多架固定翼飞机、直升机及其他装备参与演训。是次演训活动是“例行性安排”。</p>
-<p>中国声称拥有南海几乎全部区域的主权，但菲律宾、越南、马来西亚、台湾等均声称拥有部分区域的主权。</p>
-<p>中国在南海争议岛礁进行大规模填海造岛工程，令邻国以及政策重心向亚太转移的美国担忧其可能会推动南海军事化进程，北京方面也对美国军舰多次驶近中国实际控制的南海海域并声称行使航行自由而感到不满。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/bbc%EF%BD%9C%E6%88%B4%E7%A7%89%E5%9B%BD%EF%BC%9A%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%E5%88%A4%E5%86%B3%E4%B8%8D%E8%BF%87%E6%98%AF%E4%B8%80%E5%BC%A0%E5%BA%9F%E7%BA%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -608,7 +644,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -618,5 +654,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -21,9 +21,87 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%90%A6%E8%AE%A4%E8%A6%81%E6%B1%825%E5%BC%A0%E5%85%89%E7%9B%982%E9%83%A8%E6%89%8B%E6%9C%BA-%E5%8F%AA%E8%A6%813%E5%BC%A0/" target="cdt-mirror">奇客资讯 |  广电总局辟谣：审批只要3张光盘2部手机</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/livLJMezH6JW.png?resize=600%2C332" alt="livLJMezH6JW" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/livLJMezH6JW.png?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/livLJMezH6JW.png?resize=300%2C166 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>国有媒体<a href="http://tech.ifeng.com/a/20160707/41635317_0.shtml" target="_blank"><u>报道</u></a>（另一<a href="http://www.chinaz.com/news/2016/0708/548993.shtml#g548993=1" target="_blank"><u>来源</u></a>），新闻出版广电总局对备受争议的移动游戏审批要求进行了辟谣。广电总局否认游戏开发者需要提供5张光盘2部手机，声称这与事实严重不符。根据新闻出版广电官网列举的要求，它只要求3张光盘最多2部手机。<a href="http://www.sapprft.gov.cn/sapprft/contents/7063/300680.shtml" target="_blank"><u>《移动游戏审批指南</u></a>》称，如果申请的是国产游戏，那么申办人需要递交《出版国产移动游戏作品申请表》；用于内容审查的高、中、低等级“管理人员”帐号各3个（如游戏无注册登陆功能，提交说明后可不提交账号）；游戏安装包下载地址、游戏安装光盘或安装游戏的专用审查设备1部（审查结束后退回申报方）；以上书面材料的电子扫描件、游戏中文脚本全文及游戏屏蔽词库（如游戏无文字输入功能，可提交说明）电子文档光盘3张。如果是境外著作权人授权移动游戏审批，那么要求提供的手机增加了一部——“游戏安装包下载地址、游戏安装光盘或安装游戏的专用审查设备2部（审查结束后退还申报方）”。新闻出版广电总局还对英文要求进行了说明。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%90%A6%E8%AE%A4%E8%A6%81%E6%B1%825%E5%BC%A0%E5%85%89%E7%9B%982%E9%83%A8%E6%89%8B%E6%9C%BA-%E5%8F%AA%E8%A6%813%E5%BC%A0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9/?category=18271" rel="tag">内容</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%89%B9/?category=18271" rel="tag">审批</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88/?category=18271" rel="tag">新闻出版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E6%88%8F/?category=18271" rel="tag">游戏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B3%E6%8A%A5/?category=18271" rel="tag">申报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E7%90%86/?category=18271" rel="tag">管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%9F%E8%B0%A3/?category=18271" rel="tag">辟谣</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA%E6%98%AF%E6%80%95%E5%96%B7%E5%AD%90%E6%B1%A1%E4%BA%86%E5%A4%A7%E5%AE%B6/" target="cdt-mirror">【立此存照】天津警方：删评论是怕喷子污了大家的眼</a>
+</h2>
+<p><p>@平安天津于中国时间2016年7月7日发表了关于赵威的“情况通报”，迅速引来大量评论。数字时代编辑截取以下图片时，该条微博尚有1089条评论：</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A51.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A51.png?resize=500%2C648" alt="平安天津1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津1.png?w=1806 1806w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津1.png?resize=231%2C300 231w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津1.png?resize=768%2C996 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津1.png?resize=790%2C1024 790w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@平安天津 微博截图一</span></p></div>
+<p>若干小时后，评论只剩下21条：</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A52.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A52.jpg?resize=500%2C676" alt="平安天津2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津2.jpg?w=1567 1567w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津2.jpg?resize=222%2C300 222w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津2.jpg?resize=768%2C1039 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津2.jpg?resize=757%2C1024 757w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@平安天津 微博截图二</span></p></div>
+<p><strong><br>
+天津警方并公开回应网民质疑，称删除微博评论是“怕那些喷子污了大家的眼”：</strong></p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A53.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A53.jpg?resize=550%2C157" alt="平安天津3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津3.jpg?w=1771 1771w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津3.jpg?resize=300%2C85 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津3.jpg?resize=768%2C219 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津3.jpg?resize=1024%2C291 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>@平安天津 微博回复 截图</span></p></div>
+<p>（在大陆网络语境中，“喷子”一般被“爱国人士”用来指对政府不满、不认同官方口径的网民。）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA%E6%98%AF%E6%80%95%E5%96%B7%E5%AD%90%E6%B1%A1%E4%BA%86%E5%A4%A7%E5%AE%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%AE%9A%E4%B9%89%E4%B8%AD%E5%9B%BD%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%9C%A8%E5%B4%9B%E8%B5%B7%E3%80%81%E8%84%86%E5%BC%B1%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%BA/" target="cdt-mirror">博谈网｜定义中国：一个正在崛起、脆弱的世界强国</a>
+</h2>
+<p><p>（博谈网记者赵亮编译）本文译自新加坡《海峡时报》7月5日刊登的国际管理发展学院（IMD）瑞士洛桑和新加坡校区国际政治经济学名誉教授、香港大学客座教授Jean-Pierre Lehmann的文章，题目为“定义中国：一个正在崛起、脆弱的世界强国”。以下为译文：</p>
+<p>在这个星球上正面临着许多令人生畏的问题，最重要的是中国的问题，至少对于二十一世纪的头二十五年，也可能延伸到前半个世纪。</p>
+<p>中国的和平崛起将会成功，还是失败？中国的社会将如何演变？世界将如何适应中国的崛起，不仅仅在经济上，而且在地缘政治和军事上？</p>
+<p>可以理解有一种内在的愿望是持乐观态度。“情况会好的”；“中国人真正想要的只是经济上的成功”；“毛泽东思想已幻化成了唯物主义”。但是自满和一厢情愿的想法是危险的。绝对有必要切实地分析看看所面对的现实。</p>
+<p>第一个重要的问题是：中国是什么？中国适合于什么样的概念框架？是什么让我不断地感到我们的理解常常是错的。</p>
+<p>人们有多么频繁地读到“中国和其他新兴市场”这样的短语，即使在备受尊敬的刊物里？中国并不是一个新兴市场。它在任何方式上都不像“其他”的新兴市场。中国就是中国。</p>
+<p>虽然所有国家都自成一格，从微小的圣基茨和尼维斯到巨大的中国，但是中国是用大写字母的自成一格。把它划入某些人为的集合“流派”是分析性的误导。</p>
+<p>对中国最草率的分类是朗朗上口又毫无意义的所谓“金砖五国”。巴西、俄罗斯、印度、中国和南非的共同点少之又少。它们无法构成一个集合体——无论是文化、政治、社会、经济、人口结构或是地缘政治。</p>
+<p>从一个更窄的亚洲大陆角度来看，曾有一个时尚术语“中印”来指中国和印度，也称“两个亚洲巨人”。虽然中国和印度有一些事是共通的，但是它们从根本上是两个非常不同的样本，有着两个非常独特的历史——中国在公元前两百年秦朝的时候成为一个统一的中央集权制国家，而印度直到一千八百年之后的莫卧儿王朝才成为中央集权的国家。</p>
+<p>在当代，中国频繁地被攻击和入侵，但它并没有成为西方或日本的殖民地。英国在印度的殖民持续了近两个世纪。</p>
+<p>有个有趣的洞察：从印度传来的佛教对中国有着重大影响，即使在今天的“共产”中国，据估计有2.5亿人信仰佛教，占中国人口的18%，但是佛教在印度几乎消失了，只占印度人口的1%。中国和印度在这一点上是不同的。</p>
+<p>此外，为了强调中国的多样性，中国有大约1亿的基督徒。这使得中国是继美国、巴西和俄罗斯之后世界上第四大基督教国家！中国的基督徒人数超出中共党员的人数！但是，把中国称作一个“基督教国家”还为时太早！</p>
+<p>贫穷的、中国式的和共产主义的？</p>
+<p>早在1970年代，我在英国一所大学当讲师的时候，一位汉学家朋友Jack Grey常常在他演讲的开头说“要理解中国，重要的是记住它是（一）贫穷的、（二）共产主义的、（三）中国式的”。</p>
+<p>中国当然仍然是中国式的！虽然作为世界第一或第二大经济体，在中国仍然有贫困，但是它拥有世界上最多的亿万富翁以及至少5亿人的庞大的城市中产阶层，它肯定不穷。</p>
+<p>它是共产主义的？有一个著名的故事：在谈判移交香港的时候，撒切尔夫人问邓小平：“中国特色的社会主义，这是什么意思？”邓小平回答说“任何你想要的意思。”</p>
+<p>这个故事可能是杜撰的，但它抓住了本质。</p>
+<p>中国仍然是在中共统治下的极权专政。由于美国和中国之间的关系紧张，尤其是在南海问题上，有一个“新冷战”的说法。</p>
+<p>但中国一点也不象旧苏联。记得有数以百万计的苏联游客蜂拥到法国、意大利、日本、香港及韩国等等国家吗？当然没有。苏联游客唯一的目的地在铁幕的后面：在克里米亚！</p>
+<p>那么苏联有政治局高级成员的儿女成群结队地到美国常春藤高校及欧洲和澳洲的大学上学吗？又是没有：那是冷战！有人也许还会提中国的企业和富人把数十亿美元投资到世界各地的矿山、种植园、生产基地、房地产、铁路、港口等等。很难记得那些苏联人象没有明天一样购买欧洲的豪华商品和法国的顶级葡萄酒。</p>
+<p>“新冷战”的场景有很多不对头的地方。那么，中国是什么？</p>
+<p>当今中国的本质</p>
+<p>我能想到的最好的（不是说它是完美的）方式是把中国定义为一个具有雄心的正在崛起的世界强国，但它在许多方面是脆弱的。</p>
+<p>中国是一个崛起的世界强国，这毋庸置疑。它目前在经济上几乎遍及这个星球的每一个角落。它有一个不断增长的军械库和扩张野心——南海及日益扩展到印度洋。它是一个核大国。它有一个宏伟的愿景，铰接式的新丝绸之路，简称“一带一路”。</p>
+<p>但它是脆弱的。它的力量几乎是特有的坚硬；它的软实力是弱的。它几乎与所有的邻国都有领土争端。与台湾和香港的紧张关系至少是具有刺激性的，或许更甚。这个国家最依赖于英国作为其通往欧盟的门户，现在英国离开了欧盟。</p>
+<p>中国在国内生产总值（GDP）方面是富有的，但在资源上，与它的需求相比，是贫穷的。</p>
+<p>举最关键的例子：中国拥有世界人口的18%，但只有世界耕地面积的7%。北京既要确保食物供给，但同样重要的还有食品安全，这种情况在其他世界强国是没有的。</p>
+<p>中国有很多的内部矛盾。现在政治上可能相对稳定一些。但中共还能维持多久的权力？还没有一个独裁的政党寿命超过75年，例如，苏共是74年，墨西哥的革命制度党（PRI）是71年。</p>
+<p>在内部有派别之争。关于中共，大概最重要的问题是如果它不能维持经济的增长，它还可以维持多久政治权力。环境灾难问题也不容忽视。</p>
+<p>再来还有代沟。与我同龄（70岁）的中国人有着残酷的经历：结束了与日本的毁灭性战争后，接着是内战，然后是“解放”和所有随之而来的清洗，之后是大跃进，紧接着又是文革。因此，所有与我同时代的中国人想要的是和平与稳定。</p>
+<p>然而，中国的千禧世代几乎在各个方面都有着完全不同的经历，有着不同的期望。</p>
+<p>值得注意的是在兄弟姐妹方面的差别：与我同时代的中国人很可能有7个或8个兄弟姐妹，或许一半甚至更多小的时候就死了。中国经历了几乎一整代人都是独生子女。</p>
+<p>无论这些人口是否会令中国或多或少的脆弱，仍有待观察，但可以肯定的是它产生了影响，给这种别具一格又添加了一层特有的东西。</p>
+<p>中国是复杂的。它不会随着时间的推移变得没那么复杂。简单化的定义或归类会导致简单化（和错误的）分析。</p>
+<p>我不是说我的描述是完美的，但我想“崛起”、“国际”、“脆弱”和“强国”这些词似乎能捕捉到当今中国的本质。</p>
+<p> </p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%AE%9A%E4%B9%89%E4%B8%AD%E5%9B%BD%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%9C%A8%E5%B4%9B%E8%B5%B7%E3%80%81%E8%84%86%E5%BC%B1%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">中国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%AD%A6%E6%96%B9%E8%BF%91%E6%9D%A5%E4%B8%A5%E6%9F%A5%E7%BD%91%E8%B4%AD%E5%A2%83%E5%A4%96%E7%A6%81%E4%B9%A6/" target="cdt-mirror">自由亚洲｜中国大陆警方近来严查网购境外“禁书”</a>
 </h2>
 <p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg?resize=400%2C607" alt="铜锣湾书店。（忻霖摄影）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg?w=622 622w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg?resize=198%2C300 198w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>铜锣湾书店。（忻霖摄影）</span></p></div>
@@ -42,7 +120,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">香港禁书</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%A4%E5%87%B0%E5%8D%9A%E6%8A%A5%EF%BD%9C%E4%B8%81%E5%92%9A%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%9C%9F%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%EF%BC%9F/" target="cdt-mirror">凤凰博报｜丁咚：北京真不在乎南海仲裁案？</a>
 </h2>
@@ -518,103 +596,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E8%A6%81%E6%B1%82%E6%9E%97%E8%8D%A3%E5%9F%BA%E8%BF%94%E5%9B%9E%E5%A4%A7%E9%99%86-%E5%90%A6%E5%88%99%E5%B0%86%E4%B8%A5/" target="cdt-mirror">纽约时报 | 中国警方要求林荣基返回大陆 否则将严惩</a>
-</h2>
-<p><p> </p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/06hongkong-web2-articleLarge.jpg?resize=600%2C400" alt="林荣基是去年失踪的五名书商之一。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/06hongkong-web2-articleLarge.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/06hongkong-web2-articleLarge.jpg?resize=300%2C200 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>林荣基是去年失踪的五名书商之一。</p></div>
-<p>香港新闻媒体周二报道，<a href="http://topics.nytimes.com/top/news/international/countriesandterritories/china/index.html?inline=nyt-geo" target="_blank" rel="nofollow">中国</a>大陆警方称，一名公开谈论自己数月拘押经历的<a href="http://topics.nytimes.com/top/news/international/countriesandterritories/hongkong/index.html?inline=nyt-geo" target="_blank" rel="nofollow">香港</a>书商必须返回宁波市，否则将因违反假释规定面临惩罚。</p>
-<p>这名书商叫林荣基，曾于去年和其他四名男子同时失踪，五人都和香港的一家书店和出版社有关系，他们的失踪引起人们的关注，担心香港的法治可能遭到破坏。他们被关押在大陆，后来出现在认罪视频中，罪行包括销售充斥道听途说的中国时政书籍。</p>
-<p>这种书在中国大陆是禁书，但在香港可以出版，香港对媒体自由提供了广泛保护。这块前英国殖民地于1997年回归中国，但根据中英之间的协议，香港在“一国两制”的原则下，保持它自己的法律和经济结构50年不变。</p>
-<p>与巨流传媒有关的其他三名书商今年被释放后，对自己被拘押的事缄口不言，但林荣基<a href="http://www.nytimes.com/2016/06/17/world/asia/hong-kong-bookseller-lam-wing-kee.html" target="_blank" rel="nofollow">详细讲述</a>了自己在香港与大陆边境被扣押，然后被单独监禁数月的经历。他还在新闻发布会上告诉媒体，大陆当局曾试图迫使他提供书店顾客的名单。</p>
-<p>香港律政司司长袁国强和保安局局长黎栋国本周二在北京与公安部部长郭声琨见面，讨论书商一案以及本港居民在大陆被拘押的通报机制。</p>
-<p>香港电台(RTHK)<a href="http://news.rthk.hk/rthk/ch/component/k2/1270785-20160705.htm" target="_blank" rel="nofollow">报道</a>，北京当局表示，林荣基已承认自己和他人将禁书销售给中国大陆的客户，从中赚取逾40万元人民币，而且他没有返回那里，已经违反了假释条件。大陆当局说，如果他再不返回，就可能面临更严厉的惩罚。</p>
-<p>香港电台还报道说，大陆当局发布了林荣基的认罪视频。</p>
-<p>香港与大陆没有引渡协议。林荣基在自己的新闻发布会上说，他并不打算回那里去。</p>
-<p>自上个月林荣基曝光这件事后，香港亲民主阵营称赞他勇于对抗大陆当局施加的压力。但他也遭受了前同事的<a href="http://www.nytimes.com/2016/06/20/world/asia/hong-kong-bookseller-lam-wing-kee-girlfriend-sing-tao-protest.html" target="_blank" rel="nofollow">攻击</a>，一些亲北京新闻媒体对他说的话也表示了质疑。</p>
-<p>他原本打算在7月1日率领港人进行一年一度的民运游行，但在游行开始的数小时之前，他以安全担忧为由，<a href="http://www.nytimes.com/2016/07/02/world/asia/hong-kong-handover-protest.html" target="_blank" rel="nofollow">取消了这个计划</a>。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E8%A6%81%E6%B1%82%E6%9E%97%E8%8D%A3%E5%9F%BA%E8%BF%94%E5%9B%9E%E5%A4%A7%E9%99%86-%E5%90%A6%E5%88%99%E5%B0%86%E4%B8%A5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%8B%AC%E5%AE%B6%E4%B8%93%E8%AE%BF%EF%BC%9A%E6%9E%97%E8%8D%A3%E5%9F%BA%E8%AE%B2%E8%BF%B0%E8%A2%AB%E8%B7%9F%E8%B8%AA%E8%BF%87%E7%A8%8B/" target="cdt-mirror">德国之声｜独家专访：林荣基讲述被跟踪过程</a>
-</h2>
-<p><p>林荣基于7月2日接受德国之声独家访问, 是自他取消游行后至今唯一一次接受媒体访问。 </p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/019337313_30300.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/019337313_30300.jpg?resize=585%2C329" alt="0,,19337313_303,00" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/019337313_30300.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/019337313_30300.jpg?resize=300%2C169 300w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a></p>
-<p>在内地被拘禁近8月的铜锣湾书店店长林荣基, 原定出席七一游行中并担任领头角色, 却于当天早上透过帮助他的民主党议员涂谨申向外宣布, 基于个人安全受到威胁而取消游行及媒体的访问。林荣基于7月2日接受德国之声独家访问, 是自他取消游行后至今唯一一次接受媒体访问。访问中他讲述被跟踪的过程经过, 以及对将来的初步意向及计划。</p>
-<p><strong>德国之声</strong>: 你原定出席七一游行, 并会带头领军, 然而之后却取消出席, 并透过涂议员向外转述你被跟踪, 个人安全受到威胁。个中到底发生怎么事情, 令你作出这个决定?</p>
-<p><strong>林荣基</strong>: 事情经过是这样的。六月三十晚上, 我的姐夫向我透露, 有附近的街坊告诉他. 我于六月二十九日晚上回家时, 背后有4名人士近距离跟踪我, 由于我当时并不知情, 当我进入大厦门闸后, 那4个人不能进内, 站在铁闸外, 似乎在观察我住在那个楼层. 这个消息对我来说是很大的震撼, 因为过去他们都只是远距离的监视, 但现在变成了贴身的跟踪, 基于个人的安全的忧虑, 第二天早上我便通知涂谨申议员我不出席游行了。</p>
-<p><strong>德国之声</strong>: 你认为跟踪你的人是什么人? 你担心他们会怎样对付你? 跟踪对你构成怎样的威胁?</p>
-<p><strong>林荣基</strong>: 我相信跟踪我的人是内地的公安。 因为香港的警方不会这样做的。他们(内地的执法部门)曾经跨境执法, 我担心他们会重覆运用这个手段。 事实上, 过去几天我去警署报案时, 曾经有摩托车一直跟随我们的车辆, 我和涂谨申议员都可以清楚看到摩托车的车牌号码. 再加上六月二十九日那个晚上, 街坊告诉我姐夫, 他们目击四名跟踪者, 甚中一人是乘摩托车离开的, 这说明整件跟踪事件不是巧合的。这对我构成很大的威胁, 担心个人的安全。</p>
-<p><strong>德国之声</strong>: 他们有否跟你说话? 或言语上做出恐吓?</p>
-<p><strong>林荣基</strong>: 他们只是跟踪, 但已构成我很大很威胁, 因为早前他们只是远距离的监视, 但今次是贴身的, 而且是四个人这么多, 不是一两个。</p>
-<p><strong>德国之声</strong>: 六月三十日之后你去了哪里, 藏身在什么地方?</p>
-<p><strong>林荣基</strong>: 我去了一个可以住的地方, 昨晚(七一晚上) 我去了一个十多年没见面的朋友家里暂住下来. 将来如果被逼要离开的话, 就可能去台湾, 不过这是后话了。</p>
-<p><strong>德国之声</strong>: 现在你的感到安全吗, 仍然感到受威胁吗? 为什么仍然愿意接受我们的访问?</p>
-<p><strong>林荣基</strong>: (我感到)不大安全, (接受访问) 值得呀, 感谢你们传媒。</p>
-<p>我原本是一个无忧无虑的香港人, 因为透露了一些真相, 我的生活受到很大的干扰, 我开始担心自己的个人安全。如果我继续留在香港, 我要提防我的安全受到威胁, 即是我已经失去了免于恐惧的自由。</p>
-<p><strong>德国之声</strong>：取消出席七一游行, 对你来说是一个困难的决定吗?</p>
-<p><strong>林荣基</strong>: 香港是公民社会, 香港人也是很明白事理的, 今日发生在我身上的事可能另一天也会同样发生在他们身上, 之前我已经作出呼吁。所以对我来说这不是很难的决定。</p>
-<p><strong>德国之声</strong>： 你决定出来开记者招待会时, 有没有机会与你内地的女朋友商量或知会她? 她和李波都出来指责你说话不诚实, 你可担心她情况?</p>
-<p><strong>林荣基</strong>: 我的女朋友及李波都是被迫说着违心的话, 这个我完全谅解, 也不会和他们对质, 每一次对质都是对他们一次伤害。</p>
-<p>他们(指中央专案组)一直都不让我联络她(女朋友), 由过关到宁波再到韶关整整8个月都不允许我联络她。我曾经在回到香港那一天, 偷偷地致电她, 但她的手机原来已停止服务。 我相信她的罪名不是太严重的, 因为她只是帮我转寄书而已, 现在保释候审, 相信判刑不会太重, 她仍会有自由的。但唯一的问题是我不能再和她一起了。</p>
-<p>铜锣湾书店事件后，周二（7月5日）港府将派高级别官员代表团赴北京与内地官员商讨如何改善中港通报机制。批评人士称，仅有通报机制是不够的，还应设立司法互助机制。</p>
-<p><strong>德国之声</strong>：你认为他们为什么不派其他被扣留的同事回香港拿回读者名单, 而要派你亲自回来领取?</p>
-<p><strong>林荣基</strong>: 我想有几个原因的. 首先是我是5个当中唯一一个仍未回来香港探望家人的一个；第二, 我对他们有求必应, 表现很良好, 如一头纯羊, 没办法, 在这个情境我只能听话； 第三是那个中央专案组姓史的人员告诉我, 由于我是亲手负责输入读者资料库及邮寄书给读者的, 所以如果由我带回记录读者资料库的硬碟回去, 会是一个力的证据检椌读者。基于以上理由, 他们就给我回来, 但最初只给我一天时间, 是我想办法拖延, 利用他们安排的人拿错了电脑给李波而拖延一天, 就利用那天去面对传媒说出真相。</p>
-<p><strong>德国之声</strong>： 你将来有什么打算, 会再从事售卖违禁书的行业吗?</p>
-<p><strong>林荣基</strong>: 我想不会了, 售卖违禁书已经划上了句号。我或许会写写东西, 我一向都有写散文, BLOG的, 或从事一些文字编辑的工作。</p>
-<p><strong>德国之声</strong>：你会否争取外国政治庇护?</p>
-<p><strong>林荣基</strong>: 视乎真的有此需要吧, 申请外国政治庇护是一个很大的事情, 在国内, 俨如判国。我并无意弄到如此此僵裂的地步。 我今次事件其实是一件小事, 发展到今天, 我认为完全是中共处理不当, 是他们先点起火头。</p>
-<p><strong>德国之声</strong>： 如果你之后去台湾, 会否担心内地执法人员会到台湾绑架你, 如桂民海在泰国被扣?</p>
-<p><strong>林荣基</strong>: 我相信台湾相对泰国安全, 而且我认为今次事件其实是一件小事, 我既不是老板, 我只是打工而己, 中共是否值得这样花巨大的气力去抓我回来, 我想这个应个不是太合逻辑。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E7%8B%AC%E5%AE%B6%E4%B8%93%E8%AE%BF%EF%BC%9A%E6%9E%97%E8%8D%A3%E5%9F%BA%E8%AE%B2%E8%BF%B0%E8%A2%AB%E8%B7%9F%E8%B8%AA%E8%BF%87%E7%A8%8B/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/?category=18271" rel="tag">一国两制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E8%87%AA%E7%94%B1/?category=18271" rel="tag">出版自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA%E6%8A%AB%E9%9C%B2%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">林荣基披露铜锣湾书店事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%81%9Ait%E9%83%BD%E8%A6%81%E7%9B%B4%E9%9D%A2%E7%99%BD%E7%97%B4%E7%9A%84%E5%B9%BF%E7%94%B5%E4%BA%86/" target="cdt-mirror">【立此存照】做IT都要直面白痴的广电了</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/1629644100/DDnuZ6ZUC" target="_blank">@十字桑</a>：真他妈惊了，公司的游戏没过审，原因是因为我们游戏内有一些地方使用了英文。比如mission start/complete. boss出来的时候有warning这种……… 广电你们他妈的怎么不去肛死教育部…… 而且我们的游戏是3月份去提交的审核，结果审了四个月才他妈审好………………</p>
-<p><a href="http://weibo.com/1629644100/DDrb5DghY" target="_blank">@十字桑</a> <a href="http://weibo.com/1629644100/DDrb5DghY" target="_blank" name="3993992679357410"></a>：把游戏内本应是英文的资源替换成中文后有种迷の萌的感觉。比如本应出现 GO→ 的地方出现了个 前进→ 真是迷の笑点。。。。。。。虽然我强烈要求把【YOU LOSE】换成【你完蛋了】结果被全体否决了。<img title="[哼]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/49/hatea_org.gif" alt="[哼]" data-recalc-dims="1"></p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%B8%B8%E6%88%8F%E6%B2%A1%E8%BF%87%E5%AE%A1.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%B8%B8%E6%88%8F%E6%B2%A1%E8%BF%87%E5%AE%A1.jpg?resize=550%2C319" alt="游戏没过审" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/游戏没过审.jpg?w=1802 1802w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/游戏没过审.jpg?resize=300%2C174 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/游戏没过审.jpg?resize=768%2C446 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/游戏没过审.jpg?resize=1024%2C594 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong><a href="http://weibo.com/1400229064/DDx6OhMm5" target="_blank">@tinyfool</a></strong>：做it都要直面白痴的广电了</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30mj1x2j20qk09k0ty.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30mj1x2j20qk09k0ty.jpg?resize=525%2C189" alt="5375ccc8gw1f5k30mj1x2j20qk09k0ty" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30mj1x2j20qk09k0ty.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30mj1x2j20qk09k0ty.jpg?resize=300%2C108 300w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30nuzr9j20k80vk76y.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30nuzr9j20k80vk76y.jpg?resize=475%2C741" alt="5375ccc8gw1f5k30nuzr9j20k80vk76y" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30nuzr9j20k80vk76y.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30nuzr9j20k80vk76y.jpg?resize=192%2C300 192w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5375ccc8gw1f5k30nuzr9j20k80vk76y.jpg?resize=656%2C1024 656w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/06/%E7%9F%A5%E4%B9%8E-%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%B8%B8%E6%88%8F%E9%9C%80%E8%A6%81%E5%AE%A1%E6%89%B9%E6%89%8D%E5%8F%AF%E4%B8%8A%E6%9E%B6/" target="_blank">知乎 | 如何看待苹果中国区游戏需要审批才可上架？</a></p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/n/%E5%82%BB%E6%96%AF%E6%8B%89?from=feed&loc=at" target="_blank">@傻斯拉</a>:哈哈哈一看就是第一次送审的（想起这事儿真特么像吃了狗屎一样</p>
-<p><a href="http://weibo.com/1766445853" target="_blank">@我就想安静的改个名字QwQ</a>：哈哈哈哈哈 我们的游戏 这些英文的ui已经由我改完了<img src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/emimage/ee9092.png?resize=20%2C20" px data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/2290359225" target="_blank">@KuzakiTani</a>：为什么不干脆说写游戏代码的人用的不是中文<img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1"></p>
-<p>@firemeV：诸如“这是最坏的时代，也是最好的时代”，“我们已经比过去有很大的进步了”“如果没有审查，越来越多的青少年就会被游戏毁了”“严格审查，这是政府部门为了你好”之类的脑残议论又要出现了</p>
-<p>@TechnoCore:不是很懂你国。百业萧条之下，it行业算是亮色了，就这还非得要掐死。大把大把的失业，游戏算是最便宜了娱乐方式了，客观上起到了多大的维护稳定的作用？这也非要搞死？不懂你国。</p>
-<p>@sunnyxibei：擦，版本更新肿么办？你们都是怎么开发出来木有英文的游戏的？</p>
-<p>@律法宝宝：cctv为毛还能在电视上出现？广电总局差点意思。</p>
-<p>@硬哥: 让我想起了NBA有段时间必须念作美国国家篮球协会男子职业联赛……</p>
-<p>@suivre：“x1”不仅有“x”，还有“1”呢。应该写“乘以一”。</p>
-<p>@景山公园51区:要理直气壮地对创意产业进行严厉的审查，一个游戏，如果不能体现党的伟大光荣正确，那么就没有出版的必要</p>
-<p>@野生的脑白质：yeah～未来十年大概可以常看到这种精分的行为：万众创新+市场规律+无坚不摧+非公有制经济为主体</p>
-<p>@牧濑伦太郎AMADEUS: 广电：warning？这词我不懂啊，是不是在骂人啊？mission complete？感觉是反党反社会的意思？不管了，洋人的东西，不合格</p>
-<p>@WuliGenos：哈哈哈 我们游戏有个X</p>
-<p>@_天驱:一个月做游戏三个月审核的创业团队简直⋯⋯</p>
-<p>@___寒江雪：哎哟，这竟然发生在21世纪，世纪奇观啊。</p>
-<p>@大大花生：一点也不白痴，越严寻租空间越大，腾讯的主管这下要跑北京求情了</p>
-<p>@扣酱犯文艺的时候叫筝弦：可以，这很广电。</p>
-<p>@渣何：服气，5档开倒车</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%81%9Ait%E9%83%BD%E8%A6%81%E7%9B%B4%E9%9D%A2%E7%99%BD%E7%97%B4%E7%9A%84%E5%B9%BF%E7%94%B5%E4%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E6%80%A5/?category=18271" rel="tag">广电总急</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E8%8F%8A/?category=18271" rel="tag">广电总菊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E4%B8%BB%E5%88%9B%E6%96%B0/?category=18271" rel="tag">自主创新</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
 	<small> ============== 2天前</small>
 </p>
 <table>
@@ -627,7 +608,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -637,5 +618,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

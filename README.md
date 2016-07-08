@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,50 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A7%91%E5%A8%98%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BF%A1%E4%BD%A0-%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E4%BF%A1%E6%94%BF%E5%BA%9C/" target="cdt-mirror">【网络民议】姑娘不是不信你 我们是不信政府</a>
+</h2>
+<p><p>考拉赵威的微博帐号对<a href="http://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/" target="_blank">网民质疑的自拍</a>作了如下回应：</p>
+<blockquote><p><a href="http://weibo.com/2818229470/DDR2jCsDh" target="_blank">@考拉就是考拉</a>：没想到一张自拍居然引发这么多人无端质疑。我将我的心路历程分享出来是想以后不再被人利用，也希望大家引以为戒。请真正关心我的朋友祝福我重获自由，让我安心陪伴父母，尽为人女的孝心。</p></blockquote>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E5%BE%AE%E5%8D%9A4.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E5%BE%AE%E5%8D%9A4.png?resize=525%2C853" alt="考拉微博4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉微博4.png?w=601 601w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉微博4.png?resize=185%2C300 185w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<p>然而微博中出现的诸如“无端质疑”这种用词，反而使得更多人相信，这个帐号是并非由赵威本人操作，而是政府内部人员在“代劳”。</p>
+<blockquote><p><strong>相关阅读：</strong></p>
+<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/" target="_blank">赵威微博发布“自拍” 引更多质疑</a></li>
+<li><a href="http://chinadigitaltimes.net/chinese/2016/07/%E5%8D%95%E4%BB%81%E5%B9%B3%EF%BC%9A%E8%80%83%E6%8B%89%E8%A2%AB%E9%AA%97%E4%BA%86%EF%BC%8C%E9%AA%97%E4%BA%BA%E8%80%85%E6%9C%AA%E5%BF%85%E6%B2%A1%E8%A2%AB%E8%A5%BF%E6%96%B9%E9%AA%97/" target="_blank">【异闻观止】单仁平：“考拉”被骗了，骗人者未必没被西方骗</a></li>
+<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/" target="_blank">考拉赵威</a>专题</li>
+</ul></blockquote>
+<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
+<p><a href="http://weibo.com/1104546945" target="_blank">@尘事-如潮</a>：无端质疑“！<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">好熟悉的字眼啊，经常在哪见到？<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">”</p>
+<p>@人性de光辉:国宝注意，请用手机发，这样更像一点。360安全浏览器一般都公务员用</p>
+<p>@太岁丶VIP：你们没发现吗？五毛们全都围上来舔考拉，这根本不正常，我们强烈要求考拉发个视频证明还活着！！！</p>
+<p><strong>@天蜇走远：姑娘不是不信你 我们是不信政府。</strong></p>
+<p>@三天打渔2660：一年监禁不让见家人不让见朋友不让见律师，出来就抒发情怀就痛斥师友就讴歌警察，我说代笔的这位，你想告诉大家这姑娘神经了吗？</p>
+<p><strong>@囧纳森V：“无端质疑”… 呵呵… 这几个字倒真是打消了大家最后的一丝怀疑。</strong></p>
+<p>@花烛泪2016：如果真的是你本人，你为什么要删好几百条评论呢？你前一条微博我看的时候已经有将近500的评论了，现在一看又只剩下200多了，我们大家都知道如果是你本人的话，根本不可能这么无聊的删评论，不是吗？</p>
+<p>@三条一块五：考拉如果真痛改＂前非＂了，怎么可能会如此轻松地一日三次跑出来＂內心独白＂？被律师骗了，况且还被关一年，如何重新面对亲人、朋友、同学？如何走未來的路？这些问题必然会让一个女孩子悄然沉寂很久的，这是本能的疗伤。谁最希望她如此＂表白＂？我不能瞎猜，只是看到那谁、谁、谁第一时间转发了！</p>
+<p>@再走人间路：考拉好忙，整天忙于删微博</p>
+<p><a href="http://weibo.com/2119115493" target="_blank">@市民東先生</a>：国家这次必须感谢考拉，要不是考拉良心发现，这个国家就被颠覆了<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
+<p>@雪夜饮酒浊：仔细看了看考拉以前的微博，原创内容虽然不多，但可供比对的文字还是足够的，遣词造句的风格差别实在太明显；此外，以前多是iPhone客户端，最近则多是浏览器；说明什么？说明他们连掩饰的想法都没有，根本不忌惮你们的怀疑。想到考拉可能的境况，真的太难过了。</p>
+<p>@墒中麦粒0：假！就别演戏了，越演越穿帮了！不就是潘基文访华，兔崽子害怕了吗！不得不释放出来一个“自由”的信号吗？看你如何收场？</p>
+<p>@伟小涛：把微博还给人家啦，扑街！一个大男操着男五毛的口吻人玩人家女孩子的微博，你不觉得自己很变态的么</p>
+<p>@总是有理的无理：被无缘无故、不明不白地关了一年，能够脱离虎口，此事最大的愿望是什么？肯定是静一静，与家人团聚，啥话都不想说。基本可以断定，这个微博账号已被国宝控制了。</p>
+<p>@月老醒工搬：国宝滚出来！</p>
+<p>@我是坏蛋945：把微博还给考拉吧。这样玩没有意思，别把别人猪，其实你就是个蠢猪。</p>
+<div><a href="http://weibo.com/timerose" target="_blank">@借口院院长V</a>：呵呵，党国演的真是用力过度了，“无端质疑”，“被利用”，这些词很党性，很你国<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></div>
+<div>
+<p>@holden209038：这届国宝不行啊，屁民都骗不了。</p>
+<p>@用户5285739454：自媒体时代了，皇帝还是喜欢光着屁股满街跑。大街上，有些人不敢说话，有些人依旧歌颂皇帝的新衣。可是在微博微信上，大家已经在讨论皇帝鸡鸡的尺寸了。</p>
+</div>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A7%91%E5%A8%98%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BF%A1%E4%BD%A0-%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E4%BF%A1%E6%94%BF%E5%BA%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/" target="cdt-mirror">赵威微博发布“自拍” 引更多质疑</a>
 </h2>
 <p><p>考拉赵威的微博帐号于中国时间7月7日20时许发表了意与李和平律师划清界线的公开信《致朋友们的一封信》，称自己“不经意间使自己成为别有用心的人的棋子”，“对自己年轻单纯、涉世未深、偏执盲目铸成的大错感到追悔莫及，并真心悔悟”，但该文后被删除，原因不详。7月8日上午9时28分，@考拉就是考拉 再次发布了上述公开信：</p>
@@ -600,39 +641,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E5%85%9A%E5%86%85%E5%85%83%E8%80%81%E6%B2%A1%E6%9C%89%E5%87%BA%E5%B8%AD%E5%85%9A%E5%BA%86/" target="cdt-mirror">【习总日记】 习总解释为何党内元老没有出席党庆</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（ 2016,7,6 ） </p>
-<p>一 </p>
-<p>2016 年 7 月 6 日</p>
-<p>习总心情指数： -1 。 </p>
-<p>今日心情较之昨日：小坏， -1 。 </p>
-<p>小坏理由： 南海仲裁案苦果难咽。 </p>
-<p>二 </p>
-<p>6 月 16 日，正在取保候审的铜锣湾书店店长林荣基在香港召开新闻发布会表示“不会再返回内地”。我宁波市公安局表示，林荣基的行为已违反我国关于取保候审的规定，敦促林荣基返回内地接受调查，如拒不返回，将依法对其变更刑事强制措施。 </p>
-<p>一些香港人总是拿“两制”即两种社会制度说事，香港司法中央政府不能干涉。如果林荣基在香港发行出版，不涉及内地我们当然不管。但事实是那样的吗？林荣基违反了内地法律，内地司法部门自然就有权对他进行执法。 </p>
-<p>所以，林荣基你还是走吧，离开香港大家平安。若仍在香港晃晃悠悠欺负中央政府，那么我们就不客气了。 </p>
-<p>三 </p>
-<p>“七一”刚过，有人就问我，为何党内元老没有出现党庆两会上。晚会和日会。晚会看歌舞日会听报告表彰先进。 </p>
-<p>事情是这样的，七一前夕征询党内元老意见，有人说好，我来。有人说哎呀，算了吧。我本人呢，也是人，也有私心。我心里的私心对我说，别让他们来，来了抢镜头，去年九三阅兵的苦瓜脸难道忘记了吗？ </p>
-<p>是啊，如果江胡来，按照规矩又是坐在最显眼的地方，记者镜头冲着他们比对着我的时间要长，我心里的那种滋味有谁能懂？反正我一定会浑身不舒服的，到时候生了病谁负责？ </p>
-<p>所以，思来想去，最后决定，一个都不请。 </p>
-<p>四 </p>
-<p>中美智库南海问题对话会 5 日在华盛顿召开。前中国国务委员戴秉国出席对话会并做开幕主旨发言。 </p>
-<p>我在他的发言稿里加上这几句话： “听说仲裁结果很快就会出来了，出来就出来吧，没什么了不起，不过是一张废纸！ </p>
-<p>我们没有野心统治亚洲，更没有野心统治地球，就是南海，我们也从没有说过全都是我们的。我们只有一个“野心”，就是做好中国自己的事情，让近 14 亿中国人能过上比较体面的、有尊严的日子。 </p>
-<p>美国朋友们，如果你们处在中国老百姓的位置，会作何感想？是不是觉得太有损你们国家在世界上的形象了呢？中美互动不应是这样的哟！当然，中国人并没被吓倒，哪怕美国全部 10 个航母战斗群都开进南海，也吓不倒中国人！” 听说当场有位美国记者说：“当然吓不倒中国人。因为中国人知道 10 个航母过去，只打共产党和解放军，不会打中国人民。”</p>
-<p>（習總很忙，沒時間寫日記，已經成為共識。本人受黨教育多年，決挺身而出，替習總寫《習總日記》，以效自乾五之勞。作者：何岸泉）</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 大麻时代 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E4%B9%A0%E6%80%BB%E8%A7%A3%E9%87%8A%E4%B8%BA%E4%BD%95%E5%85%9A%E5%86%85%E5%85%83%E8%80%81%E6%B2%A1%E6%9C%89%E5%87%BA%E5%B8%AD%E5%85%9A%E5%BA%86/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0/?category=18271" rel="tag">习总日记</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -644,7 +652,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -654,5 +662,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,61 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%91%A8%E6%B0%B8%E5%BA%B7%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%B7%E4%BA%BA%E6%9B%B9%E6%B0%B8%E6%AD%A3%E8%8E%B7%E5%88%917%E5%B9%B4/" target="cdt-mirror">德国之声｜“周永康背后的男人”曹永正获刑7年</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard05_380.jpg?resize=549%2C309" alt="Clipboard05_380" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard05_380.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard05_380.jpg?resize=300%2C169 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>被中国媒体称为“国师”、周永康密友的曹永正，因非法转让、倒卖土地使用权、行贿案一审被判处7年有期徒刑。周五（7月8日）湖北宜昌中院做出上述判决。</p>
+<p>负责审理曹永正案件的宜昌中院也审理过周永康案多名涉案人员。周永康之妻贾晓烨、周永康之子周滨等涉案人都是在这里宣判的。</p>
+<p>去年6月，天津市第一中级人民对周永康案进行了一审判决。因受贿罪、滥用职权罪、故意泄露国家秘密罪，周永康被判处终身监禁。</p>
+<p>中国官媒曾在周永康案宣判后发布通报称，周永康违反保守国家秘密法的规定，在其办公室将5份绝密级文件、1份机密级文件交给不应知悉上述文件内容的曹永正。</p>
+<p>中国一些媒体形容，这位周永康的密友被周永康本人称为“国师”。报道称，曹永正精通气功、太极拳、算命、预言和风水，并借此纵横政商名流朋友圈。</p>
+<p>《新京报》的报道称，周、曹两人地位悬殊的友谊不知何时开始的。但有消息认识透露，周永康称曹永正为“很好的朋友”，对曹永正来说，周永康是其最信任的人。</p>
+<p>一审判决的法庭上，这位“国师”表示服从判决，不上诉。</p>
+<p>曹永正早年被中国媒体称为“新疆三大仙”之一。20世纪90年代，曹永正已成为官场界的一个名人。他声称，能治愈无法治愈的绝症。他甚至得到党报《人民日报》记者的认可。一位记者曾在文中写道，单凭一张照片，曹永正就可以看到他的过去、现在和未来。他还成功预测1993年中国成功申奥的结果。</p>
+<p>商业杂志《财新》曾报道，曹永正的“才华”令其有机会接触到中国的上层精英。</p>
+<p>公开资料显示，现年57岁的曹永正生于山东，长于新疆。1982年从新疆大学政治系毕业。凭借“特异功能”担任新疆超越医学研究所副所长。随后还凭借“特异功能”转战商场。</p>
+<p>90年代末，凭借气功和算命，曹永正逐渐与政法、石油系统的高官结下私交，其中包括周永康及在周永康案件中出庭前中共高官，其中包括蒋洁敏、李春城等。</p>
+<p>路透社周五发文称，秉持无神论的中国共产党不会允许任何对无神论的挑战，并强力维护社会稳定。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%91%A8%E6%B0%B8%E5%BA%B7%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%B7%E4%BA%BA%E6%9B%B9%E6%B0%B8%E6%AD%A3%E8%8E%B7%E5%88%917%E5%B9%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E6%B0%B8%E6%AD%A3/?category=18271" rel="tag">曹永正</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%EF%BC%9A2-25%E4%BA%BF%E4%B8%AA%E8%AE%A9%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8B%85/" target="cdt-mirror">博谈网｜中国的中产阶级：2.25亿个让中国领导人担心的原因</a>
+</h2>
+<p><p>（博谈网记者赵亮编译）本文译自《经济学人》7月7日刊登的文章，题目为“中国的中产阶级：2.25亿个让中国领导人担心的原因”。以下为译文：</p>
+<p>在1990年代末以前，中国几乎没有中产阶级。在2000年，中国有500万家庭年收入介于现在的1.15万美元和4.3万美元之间；今天，有2.25亿达到了。到2020年，中国的中产阶级队伍可能多过欧洲人。这个惊人的发展促进了世界各地的增长并改变了中国。一块块水田已经让位给了摩天大楼，自行车让位给了交通拥堵。这个“内向”的国家已经变得更加国际化：去年，中国出国旅行的人次达到了1.2亿次，在十年里增长了4倍。社交媒体上涌现了庞大的中国聊天族。</p>
+<p>然而，缺失了某些东西。在其他变得富有了的专制国家，新的中产阶级要求政治变革。在韩国，1980年代由学生领导的抗议活动帮助结束了军政府统治。在台湾，1990年代的中产阶级要求民主，导致了独裁政府允许自由选举。</p>
+<p>许多专家认为，中国是这个模式的一个例外。中国许多的城市现在如韩国和台湾当年开始改变的时候那样富裕。然而，自从1989年坦克在天安门广场镇压抗议以来，中国没有见到有要求民主的大型集会。中国国家主席习近平对民主政治轻蔑已极。</p>
+<p>有证据表明，这种办法是奏效的。强硬派的习先生在中国被广泛推崇为一个强人和反腐败的斗士。极少有中国的中产阶级说他们想要民主，不仅仅是因为这样说会令他们陷入麻烦。许多人看的是阿拉伯之春接下来的混乱和退缩。一些人把英国决定退出欧盟视为一个迹象——不能信赖普通选民来解决复杂的政治问题。中国政府或许对它的批评者是无情的，但是它至少让人民挣钱了。只要不碰政治，他们可以说以及做想要做的事。</p>
+<p>然而，拨去表面，中国的中产阶级远未满意。中产阶级的成员是优裕的，但是他们没有安全感。他们担心老了之后谁来照顾他们；大多数夫妻只有一个孩子，以及公共安全网不发达。他们担心，如果生病了，住院费就可以抹去他们的财富。如果拥有房产-他们80%的人有房产，他们害怕会失去它；在中国，贪婪的官员可以心血来潮地让人们失去房产权。他们也担心他们的储蓄；银行提供的利率微不足道，其他的投资方式监管很差或完全没有监管。历史上没有一个庞氏骗局诱骗的投资者超过今年1月在中国崩溃的那个。</p>
+<p>中国很多的中产阶级也很恼火。当他们被强行灌输马克思主义时，很多人嗤之以鼻。对于腐败他们更加愤怒，腐败摧残了每一个行业和活动，还有裙带关系，它给予的回报胜过才智和努力。几乎所有中产阶级都对污染愤怒，污染堵塞了他们的肺，缩短了他们的生命，伤害了他们的孩子。他们不禁注意到一些有后台的污染大户污染了空气、土壤和水却不会受到惩处。</p>
+<p>而有些人感到沮丧。中国具有超过200万个非政府组织。其中许多这些组织的工作人员是中产阶级，他们希望能改善他们的社会，独立于中共这个党。一些人鼓动要有更清洁的环境、更公平地对待工人或结束对妇女和农民工的歧视。这些团体没有一个公开挑战中共的权力垄断，但是它们常常反对中共挥动权力的方式。</p>
+<p>中共明白中国的中产阶级是支撑的基石。当习先生于2012年上台以来，他谈到了鼓舞人心的、亲中产阶级的“中国梦”。该党调校舆论，试图来回应人们的期待，缓解社会压力。</p>
+<p>即便如此，难以想象：没有一个更加透明、更负责任的政府，中国的问题能够得以解决；没有法治，个人的财产或人身安全能够得到真正的保障；没有一个更加公开的政府体制，能够自动察觉和消灭腐败。而且，没有言论自由，非政府组织也不会带来改变。</p>
+<p>经过千百年动荡的历史以及更近期对于1960年代血腥文革的记忆，中国人常说他们真的非常怕“乱”。但是生活在中国城市里的人，将近一半不到35岁。他们对毛时代的无政府状态知之甚少。当他们感到政府不在听时，一些人就会站出来抱怨。拿南方的禄步镇为例，成千上万的中产阶级在7月3日抗议在那里修建垃圾焚化炉的计划。他们与警方作战，并试图冲入政府办公室。</p>
+<p>这样的抗议是常见的。根据清华大学的数据，在2010年有18万起。当经济快速增长时，随之而来的是稳定，但是当经济放缓时，动荡可能会蔓延，尤其是当中共必须做出象关闭工厂、重组国企和节制污染这样的艰难选择时。</p>
+<p>最终，中产阶级抗议的命运可能取决于党的精英。1989年亲民主运动的起飞是因为中共的一些精英成员也赞成改革。没有迹象会出现又一次的天安门（运动），但是在领导层内部关系紧张。习先生已经在他的反腐败大清洗中树立了众多敌人。习先生的同僚们正在争夺权力。</p>
+<p>中共或许能够抵挡许多年的挑战。中国庞大的国家安全机构能够行动迅速地镇压动荡。然而，依靠单纯的压制将是一个错误。中国的中产阶级也将越来越壮大，他们将会要求变革。中共必须开始满足他们的要求，否则这个全球最大的中产阶级可能会摧毁该党。</p>
+<p>原文China‘s middle class：225m reasons for China’s leaders to worry</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 吃枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%EF%BC%9A2-25%E4%BA%BF%E4%B8%AA%E8%AE%A9%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8B%85/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/709%E5%A4%A7%E6%8A%93%E6%8D%95%E4%B8%80%E5%91%A8%E5%B9%B4%E5%AE%B6%E5%B1%9E%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E/" target="cdt-mirror">离开梳妆打流氓：709大抓捕一周年家属联合声明</a>
 </h2>
 <p><p>（原文开放版权，封删前恳请接力转载）</p>
@@ -612,66 +664,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E5%93%81
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E5%A6%82%E6%9E%9C%E9%AB%98%E8%80%83%E6%98%AF%E5%AF%92%E9%97%A8%E5%AD%A6%E5%AD%90%E5%94%AF%E4%B8%80%E5%87%BA%E8%B7%AF-%E9%82%A3%E5%9F%BA%E6%9C%AC%E5%B0%B1/" target="cdt-mirror">网易回声 | 如果高考是寒门学子唯一出路 那基本就是没出路</a>
-</h2>
-<p><blockquote><p><strong>为高考制度辩护的人，常说的一句话就是：高考虽然不完美，但是是寒门子弟的唯一出路。但事实上，大部分寒门子弟根本就没读完高中。少数幸运儿来到高考门前，也会发现高校对他们大门紧闭。</strong></p></blockquote>
-<p>文｜黄童超</p>
-<p>每一个参加过高考的学生，可能都听过这样语重心长的教导：高考不是最完美的制度，但是是中国当下最公平的制度。在每年的高考季，只要看到质疑高考的声音，许多人都会挺身而出为高考辩护，理由也都大同小异，“高考有缺陷，但至少是底层子女往上走最公平的途径”、“如果没有高考，寒门子弟只能待在社会最底层”。</p>
-<p>眼下各省高校高考录取正在进行，许多善良的人以为公平选拔的高考可以促进阶级流动，农村学生可以通过高考改变命运，许多人也会由衷地为社会新闻里穷苦人家孩子的成功感到高兴。但遗憾的是，这些人还是乐观过头了。人们并不知道，如果高考是寒门子弟的唯一出路，那么绝大多数寒门子弟根本就没有出路。</p>
-<p>大部分贫困农村地区学生并没有机会参加高考，因为他们连高中都没上。</p>
-<p>中国教育部每年都会统计初中升高中的升学率，这些统计数据呈现了一片欣欣向荣的景象：2005-2010年，15-17岁学生的高中入学率从52.7%上升到了82.5%。但是亚洲开发银行经济学家许霓妮(Niny Khor)与多位中外学者指出，中国教育部夸大了高中入学率。他们研究了第六次全国人口普查(2010)数据发现，2005-2010年，15-17岁学生的高中入学率只从48.6%上升到了52.9%。</p>
-<p>教育部虚高的高中入学率，可能来自于虚高的职业高中入学率。许霓妮等学者称，2005年起，教育部就被要求将职业高中入学率从20%提高到2020年的50%。教育部为了完成中央的目标，不惜花大钱给职业高中学生补贴学费，这笔钱经手者是地方政府，地方政府为了拿到更多的经费，故意上报了虚高的职业高中入学率。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015659e3880_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2014年6月13日，济南，16岁的詹林鑫在蓝翔技校组装柴油发动机。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015659e3880_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015659e3880_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2014年6月13日，济南，16岁的詹林鑫在蓝翔技校组装柴油发动机。/视觉中国</p></div>
-<p>高考被认为是贫寒学子的“鲤鱼跃龙门”，但大部分贫寒学子连门的影子都没见着。陕西师范大学、中国科学院与美国斯坦福大学的历时7年、覆盖4个省份近2.5万名学生的8次大规模调查结果，也许会让许多久居城市的人感到震惊。研究者们发现，2007-2013年，每100个进入初中的贫困农村学生，有69人能够从初中毕业。仅有46人能进入高中，高三毕业时，只剩下37人，其中普通高中23人，职业高中14人。相比之下，约有90%的大城市学生能进入高中就读（普通+职业高中）。</p>
-<p>考虑到2010年15-17岁的年轻人中有72%来自农村（包括镇区），28%来自城市，上述调查结果计算出的总入学率和第六次人口普查相吻合，这也证明教育部的数据有多不可靠。</p>
-<p>农村学生在中学阶段辍学率高，部分是因为他们上学的直接成本（学费）和机会成本（外出打工）高。</p>
-<p>究竟是什么让大部分贫困、农村地区学生没有接受完整的高中教育？一种流行的看法是：教育改变命运，很多农村学生家长砸锅卖铁也会让孩子读完高中，那些辍学的农村学生都是自己不愿努力学习的“学渣”。但美国斯坦福大学与中国科学院领衔的“农村教育行动计划”(Rural Education Action Program, REAP)告诉我们，上述论断是根深蒂固的误解。整个中学阶段辍学率居高不下其实牵扯到多个因素。</p>
-<p>相当一部分贫困农村学生出于成本-收益的理性分析而辍学。中国的劳动力比以往任何时候都更容易流动，劳动者很容易来到经济发达地区寻找工作。国家统计局数据显示，2015年中国外出农民工的平均月工资为2864元，其中东部地区为3213元。虽然这份收入依然差了城市居民一大截，但这也使得农村学生上学的机会成本大大提高了。男孩、年龄稍长者辍学率更高，因为他们容易找到工资更高的工作。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015635d58bb_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2015年4月21日，福州，18岁的黄明珠辍学养家，照顾生病的养父。/视觉中国" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015635d58bb_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160707015635d58bb_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2015年4月21日，福州，18岁的黄明珠辍学养家，照顾生病的养父。/视觉中国</p></div>
-<p>由于高中不属于义务教育阶段，高昂的学费也是贫困学生上高中的一大障碍，2014年《经济学人》(The Economist)就指出，包括书本费用在内，三年的学费动辄数千美元——往往超过了贫困农村家庭一年的收入。“农村教育行动计划”给出了一个更详细的成本数字：1659美元，这大约是贫困、农村地区人均年纯收入的10-15倍。上文还提到，中国政府提供补贴鼓励农村学生上职业高中，但职业高中的教学水平令人堪忧，职业高中对学生的吸引力并没有那么大。</p>
-<p>农村学生在中学阶段辍学率高还和学习能力不足有关系，但农村学生学业不精绝对不是因为“懒惰”、“智商低”。</p>
-<p>不过，成本并不是学生考虑的唯一问题，学习能力也影响着学生对于上学的期望收益。“农村教育行动计划”在为农村初中学生提供助学金后，辍学率降低了60%（从13%下降到5%），但仍然有40%的拿了助学金的七年级学生，选择了辍学。这很大程度上是因为他们考虑到自己的学业水平不能在竞争性的中考乃至高考中胜出，同样的道理适用于高中学生。</p>
-<p>贫困、农村地区学生饱受学习能力低下的困扰，不是因为他们“贪玩”、“不努力”、“智力先天不足”，而主要是因为他们所处的环境和城市学生有着天壤之别。师资力量、学校基础设施、父母受教育程度这些因素已经被世界银行、中国教育部等机构翻来覆去讲过好几遍，容易被忽视的是学生的健康营养水平。中国农村地区缺铁性贫血、寄生虫病泛滥成灾，农村学生认知水平和智力水平正受到巨大损害。不及时矫正近视也影响到了农村学生的学业水平。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607070149464d04f_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2012年04月27日，重庆，工作人员在了解寄宿制学生的“营养午餐”。/视觉中国" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607070149464d04f_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607070149464d04f_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2012年04月27日，重庆，工作人员在了解寄宿制学生的“营养午餐”。/视觉中国</p></div>
-<p>2012年，“农村教育行动计划”负责人之一、斯坦福大学教授斯科特·罗泽尔(Scott Rozelle)称，给贫困、农村地区学生每天2毛钱补充维生素，每年2元钱驱寄生虫，甚至是每年80元用于近视眼镜支出，就能显著提升这些学生的成绩，但政府对此投入乏善可陈，进展缓慢。农村学生就在这种悲惨的境遇下，还被一些养尊处优的城里人嘲笑“懒惰”、“智商不配上大学”。</p>
-<p>来到高考门口的少数农村幸运儿，会发现中国高校大门——尤其是顶尖高校大门朝他们紧闭。</p>
-<p>农村学生中，只有幸运儿才能费尽千辛万苦站到高考的门口，那么这是不是就意味着他们和城市学生一样，机会均等了呢？中国大学从1999年开始扩招，普通本专科招生数从1999年的155万人，暴增至2014年的721万人（其中本科383万人）。普通本专科录取率节节攀升，从1999年的56%，上升至2014年的74%。可惜，这对农村学生来讲也是繁荣的假象。</p>
-<p>2014年，瑞典隆德大学的薄家珉(BenjaminLillebrohus)统计了中国不同层次大学的本科教学质量报告，2012年复旦大学新招收的农村学生占比为10.36%，同济大学占比18.98%，天津大学28.14%，吉林大学32.27%，西北师范大学59.85%，南昌大学43.68%，喀什大学（原喀什师范学院）56.98%。《南方周末》在2011年的报道提到，“出身越底层，上的学校越差”，这一趋势难以被逆转。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2016070701581441449_550.jpg.550x10000.75.auto_.jpg?resize=550%2C344" alt="2016年06月06日，安徽蚌埠，一名来自农村中学的高考考生在宾馆里备战高考。/视觉中国" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2016070701581441449_550.jpg.550x10000.75.auto_.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2016070701581441449_550.jpg.550x10000.75.auto_.jpg?resize=300%2C188 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>2016年06月06日，安徽蚌埠，一名来自农村中学的高考考生在宾馆里备战高考。/视觉中国</p></div>
-<p>大学新生的农村比例可能会让人困惑，毕竟一些大学新招收的农村学生数量超过了城市学生，我们需要把目光投向所有参加高考的学生。清华大学和斯坦福大学五位学者2013年的研究发现，中国贫困、农村地区参加高考的学生上四年制普通本科大学、211工程大学、顶尖大学（清华、北大）的几率，要比城市学生分别低8倍、11倍和43倍。尽管这项研究利用的2003年全国高考学生数据（620万人）以及2000年第五次人口普查数据稍显过时，但研究者相信2003年至今，贫困、农村地区学生上大学的财政负担依旧沉重，上大学的机会成本不断提升，因此农村-城市学生之间的不平等录取现象没有任何改观。</p>
-<p>2016年“江苏家长抗议高考减招”一事想必许多读者还记忆犹新，教育部为了促进高等教育区域和城乡入学机会公平，搞了一个“支援中西部地区招生协作计划”。但承担这项计划的省份并不傻，他们分给西部的录取名额，大多为二本甚至是专科名额。因为教育部从来没有打算把一本率端平，他们只是想把本专科录取率端平。另外，各个重点大学如今都有一些针对农村学生的单独优惠招生计划，但这也只能起到杯水车薪的作用。在现行高压户籍制度下，任何试图通过分配高考录取配额来扭转不平等的尝试，都不能改变广大贫困、农村子弟的高考命运。</p>
-<p>也许你认识的农村学生确实靠高考出人头地了，可个例说明不了什么，还有广大农村学生没能走到这一步。如果这种微乎其微的上大学几率也称得上是“出路”的话，真不知道该为农村学生高兴还是难过。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E5%A6%82%E6%9E%9C%E9%AB%98%E8%80%83%E6%98%AF%E5%AF%92%E9%97%A8%E5%AD%A6%E5%AD%90%E5%94%AF%E4%B8%80%E5%87%BA%E8%B7%AF-%E9%82%A3%E5%9F%BA%E6%9C%AC%E5%B0%B1/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91/?category=18271" rel="tag">中国农村</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6/?category=18271" rel="tag">中国大学</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2/?category=18271" rel="tag">义务教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9C%E6%9D%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">农村教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B7%E7%B1%8D%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">户籍制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE/?category=18271" rel="tag">统计数据</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0/?category=18271" rel="tag">网易回声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E6%A0%A1/?category=18271" rel="tag">高校</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2/?category=18271" rel="tag">高等教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E8%80%83/?category=18271" rel="tag">高考</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-143/" target="cdt-mirror">【河蟹档案】令计划：”谢皇上不杀之恩”</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%86%AF%E5%B8%88%E9%95%BF">冯师长</a>：看了令计划一审的视频，从令计划拿起草稿说话的时候，我就笑的停不下来了，多么熟悉的场面，多么熟悉的台词，多么熟悉的判决，让我百看而不腻。说真的，如果最后来上这么一句:“感谢皇上不杀之恩”，我绝对会很大方的打赏那视频。<em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E4%BD%95%E6%B8%85%E6%B6%9F%EF%BC%9A%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88%E6%8C%89%E8%AE%A1%E5%88%92%E8%90%BD%E5%B9%95-%E7%9C%9F%E6%84%8F%E4%BD%95%E5%9C%A8/">美国之音<em><em>｜</em></em>何清涟：令计划案按”计划”落幕 真意何在？</a>》</em></em></p>
-<p></p><p><a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-143/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3993637878244550" target="/weibo/399">2016年07月04日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%BB%84%E7%85%A7%E6%97%8B">黄照旋</a>：如此作孽为什么不许公开，凭什么屏蔽视频？助纣为虐啊！ <a href="http://t.cn/R5n1a3S" target="_BLANK">http://t.cn/R5n1a3S</a> //*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E6%BB%A1%E5%8D%8ECMH">陈满华CMH</a>：今天（2016-7-3）网上热传的视频：广东肇庆市禄步镇垃圾焚烧场事件中，有手持盾牌、全副武装者狠狠抽打已蹲地上、以手护头、没有任何反抗的村民。网民一片谴责声，可是上传的视频一再被删。朗朗乾坤，竟然对手无寸铁、并无任何攻击行为的百姓使用暴力，令人震惊！揭露此暴力行为的视频何罪之有？<em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2016/07/160703_china_guangdong_protest">BBC｜“广东高要万人抗议政府建垃圾焚化炉”</a>》；《<a href="http://www.rfa.org/mandarin/yataibaodao/huanjing/hc-07032016130857.html">自由亚洲<em>｜</em>广东肇庆高要区民众上街抗议政府建垃圾焚化厂</a>》</em></p>
-<p></p><p><a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-143/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3993228690095893" target="/weibo/399">2016年07月03日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9C%89%E7%81%B5%E9%AD%82%E7%9A%84%E4%B8%AD%E9%94%85%E9%9A%BE%E6%B0%91">有灵魂的中锅难民</a>：南京玄武区某位大领导，官威好大！仿佛在怒斥远处的偷拍者：喂，你丫不懂吗，这种镜头不能拍全景，一拍就露馅了！论，装逼水平的重要性！[生病]<a href="https://freeweibo.com/weibo/%40%E8%BB%8D%E9%AD%82-IV">@軍魂-IV</a> <a href="https://freeweibo.com/weibo/%40%E5%8D%83%E9%87%8C%E9%A9%AC%E5%B8%B8%E6%9C%89">@千里马常有</a> <a href="https://freeweibo.com/weibo/%40%E4%BA%AC%E5%9F%8E%E6%8E%A2%E8%8A%B1">@京城探花</a> <em><em>相关阅读｜《<a href="http://news.eastday.com/s/20160706/u1ai9502813.html">“一河两湖”水位均超历史</a>》；《<a href="http://news.sina.com.tw/article/20160703/17739289.html">江蘇昨發洪水橙色預警，京杭運河常州和蘇州段封航，部分火車停運</a>》</em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-12.jpg?resize=493%2C370" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-12.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-12.jpg?resize=300%2C225 300w" sizes="(max-width: 493px) 100vw, 493px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3994271163655498" target="/weibo/399">2016年07月06日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E4%BA%8E%E8%8F%B2088">于菲088</a>：脸书上的这位朋友不懂中国，所以发问，看英文翻译——问：后面有台阶，干嘛站水里？我回复他说：对面有相机，拍完就上去。。<em><em>相关阅读｜《<a href="http://news.sina.com.cn/c/nd/2016-07-06/doc-ifxtwiht3230147.shtml">李克强：内涝反映出城市建设历史欠账较多</a>》；</em>《<a href="http://news.hexun.com/2016-07-02/184716779.html">武汉昨夜突发特大洪水，1.2万人紧急转移</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-13.jpg?resize=541%2C550" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-13.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-13.jpg?resize=295%2C300 295w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-13.jpg?resize=70%2C70 70w" sizes="(max-width: 541px) 100vw, 541px" data-recalc-dims="1"></p>
-<p></p><p><a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-143/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3994346015769215" target="/weibo/399">2016年07月06日</a>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%88%98%E9%87%91%E6%BB%A8_%E5%BE%8B%E5%B8%88">刘金滨_律师</a>：【130个亿真打水漂了。<a href="https://freeweibo.com/weibo/%40%E6%B9%96%E5%8C%97%E7%9C%81%E4%BA%BA%E6%B0%91%E6%A3%80%E5%AF%9F%E9%99%A2">@湖北省人民检察院</a>，你们不査查？】这种景象很荒唐，但一点都不意外。相反，如果一个腐败的政府能把公共工程做得好好的，那倒真是天大的意外了。//*<a href="https://freeweibo.com/weibo/%40%E5%AA%92%E5%BE%8B%E5%9C%88">媒律圈</a>：武汉发大水，极少数人追问治水的130亿花哪儿去了。<em>相关阅读｜《<a href="http://china.hket.com/article/1458422/%E6%AD%A6%E6%BC%A2%E6%B1%BA%E5%A0%A4%E6%B2%96%E5%87%BA%E8%B2%AA%E5%AE%98%20130%E5%84%84%E6%B0%B4%E5%88%A9%E8%B3%87%E9%87%91%E5%8E%BB%E5%93%AA%E5%85%92%EF%BC%9F">武漢決堤沖出貪官 130億水利資金去哪兒？</a>》；《<a href="http://bbs.oeeee.com/thread-17771188-1-1.html">武汉130亿打水漂 说好的不看海呢？</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-15.jpg?resize=517%2C336" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-15.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-15.jpg?resize=300%2C195 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-15.jpg?resize=230%2C150 230w" sizes="(max-width: 517px) 100vw, 517px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3994230953808850" target="/weibo/399">2016年07月06日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E9%99%88%E6%9C%89%E8%A5%BF">陈有西</a>：【小明快滚系列】武汉某学校课堂上 老师：三峡大坝是全世界最大的水电工程，可防万年一遇洪水。 小明：老师，一万年前是什么社会？ 老师：原始社会。 小明：原始社会真发达，那个时候建造的三峡大坝到现在居然还是世界上最大的水电工程，太不可思议了！ 老师：谁TM告诉你三峡大坝是原始人建的？<em><em>相关阅读｜《<a href="http://www.voachinese.com/a/news-floods-in-central-china-triggered-new-challenges-20160706/3406480.html">美国之音<em><em>｜</em></em>长江中下游洪灾严重 三峡工程作用再引质疑</a>》</em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-14.jpg?resize=449%2C501" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-14.jpg?w=540 540w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-14.jpg?resize=269%2C300 269w" sizes="(max-width: 449px) 100vw, 449px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3994318135797764" target="/weibo/399">2016年07月06日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E7%BD%91%E8%AF%B4%E9%99%95%E8%A5%BF">网说陕西</a>：<a href="https://freeweibo.com/weibo/%E8%A5%BF%E5%AE%89%E8%BA%AB%E8%BE%B9%E4%BA%8B">#西安身边事#</a> 网友爆料，警察也有上访的时候[吃惊]，请维护他们的合法权益。求证<a href="https://freeweibo.com/weibo/%40%E9%99%95%E8%A5%BF%E5%85%AC%E5%AE%89">@陕西公安</a> 这是什么情况？//*<a href="https://freeweibo.com/weibo/%40%E5%B0%8F%E6%8D%8C%E4%B8%8D%E8%A6%81%E8%AA%AA%E4%B8%8D%E8%91%97%E9%82%8A%E9%9A%9B%E7%9A%84%E4%BA%8B_45">小捌不要說不著邊際的事_45</a>：陕西省公安厅门口的上访（誰維穩誰？我看不懂） <em>相关阅读｜《<a href="http://hk.on.cc/cn/bkn/cnt/news/20160706/bkncn-20160706034659263-0706_05011_001.html">东网<em>｜</em>陝警未納編制無法晉升 集體上訪求正名</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-7.jpg?resize=502%2C357" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-7.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-7.jpg?resize=300%2C213 300w" sizes="(max-width: 502px) 100vw, 502px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-9.jpg?resize=500%2C889" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-9.jpg?w=750 750w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-9.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-9.jpg?resize=576%2C1024 576w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3993562415051012" target="/weibo/399">2016年07月04日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%96%87%E9%90%B5%E6%A8%B5V">文鐵樵V</a>：wangyi09：【神逻辑】有网友仔细看完中共十八大报告后总结：一、要彻底反腐败；二、腐败的根源在制度；三、制度绝对不能变。<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-8.jpg?resize=370%2C468" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-8.jpg?w=811 811w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-8.jpg?resize=238%2C300 238w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-8.jpg?resize=768%2C970 768w" sizes="(max-width: 370px) 100vw, 370px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3993627648558992" target="/weibo/399">2016年07月04日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：误发导弹贯通渔船致渔民一死三伤，台湾金江舰舰长帅三名肇事官兵到受害者家中长跪40分钟谢罪。解放军会如何？<em>相关阅读｜《<a href="http://www.bbc.com/zhongwen/simp/china/2016/07/160701_taiwan_missile_mistake">BBC<em>｜</em>台湾“误射”导弹事件 海军司令等七人受处分</a>》；《<a href="http://www.voachinese.com/a/taiwan-navy-20160701/3400329.html">美国之音<em>｜</em>中国国台办主任称台军误射导弹影响严重</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-10.jpg?resize=531%2C392" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-10.jpg?w=718 718w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-10.jpg?resize=300%2C221 300w" sizes="(max-width: 531px) 100vw, 531px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3993448590112895" target="/weibo/399">2016年07月04日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-143/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92/?category=18271" rel="tag">令计划</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%81%E5%85%AB%E5%A4%A7/?category=18271" rel="tag">十八大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E4%BA%AC%E7%8E%84%E6%AD%A6/?category=18271" rel="tag">南京玄武</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E5%AF%BC%E5%BC%B9/?category=18271" rel="tag">台湾导弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9E%83%E5%9C%BE%E7%84%9A%E7%83%A7%E5%9C%BA/?category=18271" rel="tag">垃圾焚烧场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E4%B8%9C%E8%82%87%E5%BA%86/?category=18271" rel="tag">广东肇庆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E6%B1%89/?category=18271" rel="tag">武汉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E7%81%BE/?category=18271" rel="tag">洪灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%84%E6%AD%A5%E9%95%87/?category=18271" rel="tag">禄步镇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E7%A8%B3/?category=18271" rel="tag">维稳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%A4%E4%BD%93%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">群体事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E7%BC%96%E5%88%B6/?category=18271" rel="tag">警察编制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%AF%E5%8F%91%E5%AF%BC%E5%BC%B9/?category=18271" rel="tag">误发导弹</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%BF%E6%B1%9F%E4%B8%89%E5%B3%A1/?category=18271" rel="tag">长江三峡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B2%E6%9A%B4%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">防暴警察</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -683,7 +675,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -693,5 +685,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

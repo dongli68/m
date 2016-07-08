@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,30 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E4%BB%A5%E5%90%8E%E5%B9%B2%E8%84%86%E5%BC%80%E4%B8%AA%E8%AE%A4%E7%BD%AA%E9%A2%91%E9%81%93/" target="cdt-mirror">【麻辣总局】中央电视台以后干脆开个认罪频道</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?resize=549%2C360" alt="令计划" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?resize=300%2C197 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?resize=230%2C150 230w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>@没有羊先生：中央电视台以后干脆开个认罪频道，取代人民法院检察院。24小时不间断直播电视认罪，在各地信访办拘留所增设直播点。以人为本，认罪者可选择不同套餐: 嫖娼大礼包，受贿全家桶，聚众吸毒套装。洋葱免费，眼药水加钱。创新型法制建设，我赶紧给黑镜投稿去。</p>
+<p>@景山公园51区:搞个中国认罪人的真人秀节目，认罪以后，评委一拍大按钮转身点评。</p>
+<p>@三两桥: 设计匿名爆料渠道，十八路亲戚朋友同事可投稿举报此人平时罪行，微信截图线索一条100，录音视频一条500。</p>
+<p>@柯晗-人间旅行:还可以开设现场互动，观众边看边发短信，电视台选登，营造万人唾弃的效果。</p>
+<p>@没有羊先生：开举报弹幕！开举报弹幕！观众快来打脸反转2333</p>
+<p>@<a href="http://weibo.com/aotewoman" target="_blank">神悟饭</a>：建议做成3D，戴上眼镜身临其境，一种大型社会主义震慑</p>
+<p>@<a href="http://weibo.com/5943295937" target="_blank">幾多心中沧桑3世</a>：还可以搞热线电话模式，请个托专门骂人，“这个人太坏了，应该千刀万剐，不得好死”</p>
+<p>@<a href="http://weibo.com/1591934917" target="_blank">holicchen</a>：还是不如文革，想斗谁直接抓走。</p>
+<p>@<a href="http://weibo.com/2214643811" target="_blank">谭克曼</a>：依法治国有望了一刚！</p>
+<p>（6月21日 19:21 来自 iPhone 6s Plus）</p>
+<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E4%BB%A5%E5%90%8E%E5%B9%B2%E8%84%86%E5%BC%80%E4%B8%AA%E8%AE%A4%E7%BD%AA%E9%A2%91%E9%81%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E5%BF%8F%E6%82%94%E5%8F%B0%E7%B2%BE%E9%80%89/?category=18271" rel="tag">中央忏悔台精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">央视审判</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%91%A8%E6%B0%B8%E5%BA%B7%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%B7%E4%BA%BA%E6%9B%B9%E6%B0%B8%E6%AD%A3%E8%8E%B7%E5%88%917%E5%B9%B4/" target="cdt-mirror">德国之声｜“周永康背后的男人”曹永正获刑7年</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard05_380.jpg?resize=549%2C309" alt="Clipboard05_380" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard05_380.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard05_380.jpg?resize=300%2C169 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
@@ -607,63 +628,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E9%A9%B1%E5%8A%A8%E4%B9%8B%E5%AE%B6-%E7%99%BE%E5%BA%A6%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E6%BC%94%E8%AE%B2%E5%A4%AAlow%E8%A2%AB%E6%92%A4%E8%81%8C%E5%A7%8B%E6%9C%AB/" target="cdt-mirror">驱动之家 | 百度设计总监演讲太Low被撤职始末</a>
-</h2>
-<p><p>2016年7月1日，百度用户体验部总监刘超在国家会议中心举行的2016国际体验设计大会上发表演讲。因为演讲内容过low，一度被在场观众当众要求下台。随后又引发了业内人士在知乎等社交网络上的嘲讽。</p>
-<p>刘超演讲视频：<a href="http://daxue.qq.com/content/content/id/2583">http://daxue.qq.com/content/content/id/2583</a></p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/07/%E9%A9%B1%E5%8A%A8%E4%B9%8B%E5%AE%B6-%E7%99%BE%E5%BA%A6%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E6%BC%94%E8%AE%B2%E5%A4%AAlow%E8%A2%AB%E6%92%A4%E8%81%8C%E5%A7%8B%E6%9C%AB/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/s_5cd98cf2abc648d3b6aacc5771fa703c.jpg?resize=600%2C399" alt="s_5cd98cf2abc648d3b6aacc5771fa703c" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/s_5cd98cf2abc648d3b6aacc5771fa703c.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/s_5cd98cf2abc648d3b6aacc5771fa703c.jpg?resize=300%2C200 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>以下根据网络上现存资料整理：</p>
-<p>大会的主讲人都是行业内具有相当声誉的大公司的设计总监。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S03e60be3-7235-4fa5-927a-61eaf0af6cb8.jpg?resize=600%2C314" alt="S03e60be3-7235-4fa5-927a-61eaf0af6cb8" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S03e60be3-7235-4fa5-927a-61eaf0af6cb8.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S03e60be3-7235-4fa5-927a-61eaf0af6cb8.jpg?resize=300%2C157 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>7月1日，2016国际体验设计大会峰会演讲在北京国家会议中心举行，峰会演讲环节可以说是持续4天的大会最重磅的环节。</p>
-<p>这届大会峰会演讲嘉宾包括了江南大学设计学院辛向阳教授、frog创意总监Franco Papeschi、Uber 美国总部全球产品设计总监Ethan Eismann、微软美国总部首席设计官兼副总裁Michael Gough、GE首席用户体验官Gregory Petroff等当今交互设计界大牛和优秀产品的操刀手。</p>
-<p>国内嘉宾部分，除了相当权威的辛教授，还有3位分别来自唐硕、滴滴和百度的体验设计总监。</p>
-<p>2016年7月2日，知乎上一篇问答“如何评价百度大 UE 总监刘超在 2016 国际体验设计大会的演讲？”回答中多是对刘超的嘲讽。答案中排名第一的 Paprika 对比了几位嘉宾的PPT演讲内容。</p>
-<p>辛院长的：</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/743b404c-4bfc-4d8e-b7ce-950610d307c2.jpg?resize=600%2C450" alt="743b404c-4bfc-4d8e-b7ce-950610d307c2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/743b404c-4bfc-4d8e-b7ce-950610d307c2.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/743b404c-4bfc-4d8e-b7ce-950610d307c2.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>Uber的：</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/23ede273-ea2d-41c5-b43e-174ebea0af36.jpg?resize=600%2C450" alt="23ede273-ea2d-41c5-b43e-174ebea0af36" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/23ede273-ea2d-41c5-b43e-174ebea0af36.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/23ede273-ea2d-41c5-b43e-174ebea0af36.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>Microsoft的：</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/faf16199-8690-437b-82a4-5313406abc17.jpg?resize=600%2C450" alt="faf16199-8690-437b-82a4-5313406abc17" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/faf16199-8690-437b-82a4-5313406abc17.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/faf16199-8690-437b-82a4-5313406abc17.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>Frog的：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6c059f93-21a1-4e6f-a8f8-c7b5637609d5.jpg?resize=600%2C450" alt="6c059f93-21a1-4e6f-a8f8-c7b5637609d5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6c059f93-21a1-4e6f-a8f8-c7b5637609d5.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6c059f93-21a1-4e6f-a8f8-c7b5637609d5.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>GE的：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64d401d8-9615-4479-9849-56b53df18ca2.jpg?resize=600%2C450" alt="64d401d8-9615-4479-9849-56b53df18ca2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64d401d8-9615-4479-9849-56b53df18ca2.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64d401d8-9615-4479-9849-56b53df18ca2.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>百度的：</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d3067861-73e5-42cf-a404-140de5b42185.jpg?resize=600%2C450" alt="d3067861-73e5-42cf-a404-140de5b42185" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d3067861-73e5-42cf-a404-140de5b42185.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d3067861-73e5-42cf-a404-140de5b42185.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>演讲结束后，很多人在社交媒体上对刘超进行了嘲讽，集中于说话不文明、PPT制作过于low，对女性性别歧视，用外貌长相抹杀女性设计师的工作能力。</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S4c83dbf1-8bd1-4025-b069-fee362996e09.jpg?resize=600%2C343" alt="PPT的制作水平" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S4c83dbf1-8bd1-4025-b069-fee362996e09.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S4c83dbf1-8bd1-4025-b069-fee362996e09.jpg?resize=300%2C172 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>PPT的制作水平</p></div>
-<p>发表完演讲后，刘超本人在朋友圈表示很满意。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S2647bd95-5a56-4e1e-97f0-7a2559bc94e0.jpg?resize=600%2C540" alt="S2647bd95-5a56-4e1e-97f0-7a2559bc94e0" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S2647bd95-5a56-4e1e-97f0-7a2559bc94e0.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S2647bd95-5a56-4e1e-97f0-7a2559bc94e0.jpg?resize=300%2C270 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>因为知乎上大量的人关注这件事，并对刘超的设计水平进行嘲讽。似乎让他们觉得受到了热议和追捧。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S11a3d13e-fd21-4f20-a63f-c1273c5b146d.jpg?resize=600%2C616" alt="S11a3d13e-fd21-4f20-a63f-c1273c5b146d" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S11a3d13e-fd21-4f20-a63f-c1273c5b146d.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S11a3d13e-fd21-4f20-a63f-c1273c5b146d.jpg?resize=292%2C300 292w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>因此互联网上又是一阵嘲讽，又有人找出了锤子科技CEO罗永浩先生发布的关于评价刘超的几条微博，罗永浩和刘超一度在微博上对骂：</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S3d402a41-5084-4ce2-90bf-d7ee7ad028ee.jpg?resize=600%2C335" alt="S3d402a41-5084-4ce2-90bf-d7ee7ad028ee" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S3d402a41-5084-4ce2-90bf-d7ee7ad028ee.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S3d402a41-5084-4ce2-90bf-d7ee7ad028ee.jpg?resize=300%2C168 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S532486c6-4aee-4009-97d7-f9f1eeb34fde.jpg?resize=600%2C500" alt="S532486c6-4aee-4009-97d7-f9f1eeb34fde" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S532486c6-4aee-4009-97d7-f9f1eeb34fde.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S532486c6-4aee-4009-97d7-f9f1eeb34fde.jpg?resize=300%2C250 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>7月4日早间，刘超因挨不住压力，在百度内网的论坛道歉。他发帖称，上周五参加外部会议演讲，因为个人重视程度不足，内容重复，演讲语言和穿衣不恰当，以及事后在朋友圈未控制好情绪等，给公司形象和(百度)同学们造成了伤害，向大家郑重道歉。并表示下次会改正。但是遭到了同事的无情吐槽，建议其辞职。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fe384543-20ff-400e-b6e8-9485c909863c.jpg?resize=600%2C483" alt="fe384543-20ff-400e-b6e8-9485c909863c" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fe384543-20ff-400e-b6e8-9485c909863c.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fe384543-20ff-400e-b6e8-9485c909863c.jpg?resize=300%2C242 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>根据知乎问题“如何看待百度总监刘超在内网的道歉和百度员工对其的评价？”中指出，内网下面的员工评论大量的都很不满，甚至认为道歉也显得很小儿科，像刘超的PPT一样粗糙。</p>
-<p><strong>以下内网吐槽摘自知乎匿名用户的答案：</strong></p>
-<p>评论1</p>
-<p>“我觉得刘总相比12年 14年，今年的PPT，能力有了很大的提升，水准进步很大，这不能怪他，能力有限。全程17分钟看完，发现他胡言乱语在讲些什么？身为一个总监，居然讲这么没营养的分享。而且外面的人都一致觉得百度UE就这个水平，让我很无奈。去年玉洁在IXDC上分享的内容就很好，很实用。没干货就不要去分享啊。</p>
-<p>还有之前锤子事件也是，你随便一句对PACO的评价，让业界都知道他不会用人。借此希望百度不管是UE还是产品，都应该有所反思，把最牛逼的体验做上去，这才是百度同学们应该去做的，证明我们并没有那么差，我们可以做的很好。”</p>
-<p>评论2</p>
-<p>“先不提那些让人尴尬症发作的段子(这个真的很low)，缺乏专业性这是我看完视频的感觉。做生意的为什么要买好车，银行为什么要建高楼，美容师为什么要打扮得体，因为这是实力的展现，好车高楼能让人知道你的经济实力，打扮得体能让人知道你的审美能力。UE也一样，漂亮的PPT，才能让观众了解到你对产品设计的洁癖，粗制滥造的PPT没法不让人对你能力或者工作态度产生质疑，尤其你是UE，这是你的专业，况且还是总监，把握着很多产品的设计方向，你让人如何还能对百度的产品设计抱有期望。</p>
-<p>这件事一出来，百度UE的招牌我感觉基本是毁了，其他职位也受损不轻。这件事已经不是道歉能换回的了，只有让人看到变化(or 变革)，才能重燃希望。”</p>
-<p>评论3</p>
-<p>“在刘总的文库主页看了几个14年的PPT，有点受惊。这不是一个公关事件这么简单，舆论容易再造，但是产品难以再来。我不相信这只是是公共环境不重视言论穿着这么简单而已。虽然我不会过分关注PPT的问题，但PPT的质量尚且如此（或者是对PPT的质量要求尚且如此），我如何相信在UE工作中是有正确审美及质量标准的？如果说百度产品UE的决定权，在一个PPT能力只有广告公司实习生水平的人手里，合作团队心寒、真正优秀人才流失就不会觉得奇怪了。原来PM们曾经无数次被驳回的需求，是建立在这种草率和随性的态度之上，我只想说，情何以堪。”</p>
-<p>其实，有人对比刘超在2014年的国际体验设计大会上的演讲PPT，发现2016年的他其实是进步的了，因为至少不会让字与字重叠了。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S0ebc76ec-f9e6-4c51-855d-b1225915fdb4.jpg?resize=600%2C390" alt="S0ebc76ec-f9e6-4c51-855d-b1225915fdb4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S0ebc76ec-f9e6-4c51-855d-b1225915fdb4.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S0ebc76ec-f9e6-4c51-855d-b1225915fdb4.jpg?resize=300%2C195 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S0ebc76ec-f9e6-4c51-855d-b1225915fdb4.jpg?resize=230%2C150 230w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>在当天晚间，百度的人力资源部门宣布已将刘超从高管团队除名。此事到目前为止告一段落。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S441c8401-4180-4944-b7af-83c73c53fa8e.jpg?resize=600%2C168" alt="S441c8401-4180-4944-b7af-83c73c53fa8e" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S441c8401-4180-4944-b7af-83c73c53fa8e.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/S441c8401-4180-4944-b7af-83c73c53fa8e.jpg?resize=300%2C84 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E9%A9%B1%E5%8A%A8%E4%B9%8B%E5%AE%B6-%E7%99%BE%E5%BA%A6%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%9B%91%E6%BC%94%E8%AE%B2%E5%A4%AAlow%E8%A2%AB%E6%92%A4%E8%81%8C%E5%A7%8B%E6%9C%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1/?category=18271" rel="tag">产品设计</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E4%BA%AB/?category=18271" rel="tag">分享</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E8%B6%85/?category=18271" rel="tag">刘超</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E7%BE%8E/?category=18271" rel="tag">审美</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">性别歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C/?category=18271" rel="tag">用户体验</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6ue/?category=18271" rel="tag">百度UE</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/?category=18271" rel="tag">社交媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%BE%E8%AE%A1%E5%B8%88/?category=18271" rel="tag">设计师</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -675,7 +639,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E5%93%81
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -685,5 +649,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E5%93%81
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

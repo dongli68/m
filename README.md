@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%AD%A6%E6%96%B9%E8%BF%91%E6%9D%A5%E4%B8%A5%E6%9F%A5%E7%BD%91%E8%B4%AD%E5%A2%83%E5%A4%96%E7%A6%81%E4%B9%A6/" target="cdt-mirror">自由亚洲｜中国大陆警方近来严查网购境外“禁书”</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg?resize=400%2C607" alt="铜锣湾书店。（忻霖摄影）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg?w=622 622w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg?resize=198%2C300 198w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>铜锣湾书店。（忻霖摄影）</span></p></div>
+<p>香港媒体报道说，中国大陆警方近来严查网购境外“禁书”，很多买家被警方约谈，所购书籍也被要求上缴。有评论指，中共收缴“禁书”是为扼杀不同声音，反映出中共对不同声音的恐惧。</p>
+<p>据香港《苹果日报》7月7日报道，中国大陆警方最近严查网购境外出版书籍，深圳网上书店“壹仁网”所出售的香港铜锣湾书店供应的书籍成为盘查重点。壹仁网今年4月被查封，住深圳南山区的女性负责人被拘捕。淘宝网也有不少卖港台书籍的店主被查。大陆警方根据网上购买资料对分布在中国大陆的买家进行大追查，包括拘捕卖家，约谈买家，并上门收缴书籍，甚至连无关政治的文化书籍也不能幸免。一些海内外知名作家，如董桥、夏济安、高华、章诒和等的作品首当其冲被查。</p>
+<p>报道举例说，有安徽网民透露，他在淘宝网买了一本香港牛津大学出版社出版的董桥著作《夜望》，警察竟上门收书，被他拒绝，因他是合法在网上购买的。经过再三交涉，警方准许他以“学术研究需要和善意第三方权益”为由，暂时保留该书。作家董桥形容这个荒诞的现象是“网上买书，警察上门，确实稀奇，让人大开眼界”。北京某出版社编辑Te5la透过微博说，近日收到派出所警察致电，指他去年在网站买了书， 卖书人已经被处理了，要他拿着书去派出所备份拍照留存资料。该编辑认为，引起警方注意的是他网购的两本境外出版的书《储安平传》和余华的《十个词汇里的中国》。</p>
+<p>北京的维权人士胡佳认为，中共收缴“禁书”是为扼杀不同声音，也反映出中共对政治异见的惶恐。</p>
+<p>“一本书所传递的思想，共产党都认为这比子弹还厉害，会要它的命，所以它才如此恐慌。”</p>
+<p>香港《苹果日报》引述身在荷兰的中国作家章诒和的话透露，有网友告诉她，中国警方查到该网友网购了境外出版的一本中国著名律师张思之回忆录《行者思之》，命令他上缴，要他带身份证和打印买书纪录去派出所。章诒和怒斥警方“这属于宪法哪条！”</p>
+<p>对于中国大陆警方追查网购“禁书”，在美国纽约的中文政论杂志《北京之春》名誉主编胡平评论说：</p>
+<p>“这本身反映了一个国家、一个政府，它名义上承认言论自由、出版自由，但事实上又去违反、又去打压。另外它主要要通过这种方式造成一种威慑效应，使一般人不敢这么做。”</p>
+<p>报道说，知情人士指，这次大陆警方大力收缴境外出版物，是香港铜锣湾书店事件的一部分。香港铜锣湾书店一直以出售有关大陆政治的“禁书”著称，其中有涉及中国领导人习近平等人的各种八卦书籍。去年10月到12月，铜锣湾书店五名股东及员工相继失踪。今年6月16日，“被失踪”近8个月的香港铜锣湾书店店长林荣基在从大陆返港两天后召开记者会，透露了他在大陆被关押的细节，包括被要求交出书店客户名录，要求他交出所售书籍的作者名单等。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%AD%A6%E6%96%B9%E8%BF%91%E6%9D%A5%E4%B8%A5%E6%9F%A5%E7%BD%91%E8%B4%AD%E5%A2%83%E5%A4%96%E7%A6%81%E4%B9%A6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">香港禁书</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 29分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%A4%E5%87%B0%E5%8D%9A%E6%8A%A5%EF%BD%9C%E4%B8%81%E5%92%9A%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%9C%9F%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%EF%BC%9F/" target="cdt-mirror">凤凰博报｜丁咚：北京真不在乎南海仲裁案？</a>
 </h2>
 <p><p>北京将从7月5日至11日在西沙群岛附近的相关海域举行“例行”军事演练，但由于时机的选择，恰好在南海仲裁案结果公布之前一天结束，因而引发人们遐想。国际舆论认为，中方期冀以此宣示主权，并有可能视仲裁结果，决定是否举行更大规模的军事演习。</p>
@@ -596,52 +616,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E6%89%8E%E6%A0%B9%E5%B9%BF%E5%B7%9E30%E5%B9%B4%E5%90%8E-%E9%9D%9E%E6%B4%B2%E9%BB%91%E4%BA%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B7%98%E9%87%91%E6%A2%A6%E7%BB%93/" target="cdt-mirror">网易回声 | 扎根广州30年后 非洲黑人的中国淘金梦结束了</a>
-</h2>
-<p><blockquote><p><strong>中国广州，曾经是非洲商人眼中一座改变命运的金矿。经历了近30年的移民潮，官方出手管起了挖金矿的铲。而如今这座金矿似乎也快见底了。</strong></p></blockquote>
-<p>文｜于方</p>
-<p>与大航海时代东印度公司贩卖的黑奴不同，20世纪末开始迁徙到中国广州的非洲黑人，这回是自己坐着飞机来的，在中国最大的“世界工厂”广东省从事跨国倒卖。而30年后的今天，移民管制和经济的衰落提前结束了他们的淘金梦。</p>
-<p>在中国的媒体报道中，广州的非洲黑人像瘟疫一样“突然侵袭”了中国的城市。但事实上，这一迁徙运动从上世纪90年代末就已经开始了。尤其在1997年经济危机，亚洲四小龙全线奔溃后，中非官方极力促成友好合作关系转移视线，中国投资商开始大量进驻非洲，带去了“世界工厂”里廉价商品，最先看到其中的商机马里人来到了中国广州。</p>
-<p>与中国投资商去非洲挖矿不同，非洲人来中国主要是做跨国“代购”，把中国工厂里的山寨大牌大量销往他们的祖国，甚至是以正宗品牌原来的高价售出。</p>
-<p>中国广州，曾经是非洲商人眼中一座改变命运的金矿。</p>
-<p>香港大学Adams Bodomo博士2010年的一项研究报告显示，在广州的非洲人仅有4%的人从事其他文化、艺术类工作，约96%属于生意人（businessman，87%）或者贸易者（traders，9%），主要从事中非之间商品进出口贸易和批发零售工作，他们更喜欢形容自己为“中非商业链条的联系纽带”。</p>
-<p>从这条“商业纽带”传送往非洲的，主要是中国工厂里生产的廉价小商品、山寨大牌服装或非洲稀缺的家电，传送纽带的源头就在广州以越秀区洪桥为中心，辐射半径约10公里的非洲人聚居地，被出租车司机称为“巧克力城”的地方，小北路就是其中之一。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706003914fe8d0.jpg.1920x10000.75.auto_.jpg?resize=600%2C375" alt="2014年10月25日，一名非洲女人走在广州市的“非洲村”。/Reuters" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706003914fe8d0.jpg.1920x10000.75.auto_.jpg?w=1920 1920w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706003914fe8d0.jpg.1920x10000.75.auto_.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706003914fe8d0.jpg.1920x10000.75.auto_.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706003914fe8d0.jpg.1920x10000.75.auto_.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014年10月25日，一名非洲女人走在广州市的“非洲村”。/Reuters</p></div>
-<p>2004年至2007年间，是小北路最鼎盛的时期。跨文化研究学者Michal Lyons的研究报告中记载了一位来自尼日利亚的商人，他每两个月就来一次广州，每次都会采购25000件衬衫运回国内转卖，每间衬衫的利润是1.5美元，他每来一趟广州意味着37500美元的收入。这位商人的故事激励着越来越多非洲人来中国广州淘金。</p>
-<p>而《南方周末》的记者记录了更为夸张的故事：集仓储与销售为一体的御龙大厦，摊主们把牛仔裤像咸菜一样堆在过道上，忙乱时，直接从裤堆上踏过。卖场里到处是中国工厂里生产的山寨货：D&G的牛仔裤、Adidas的鞋子、Gucci的挎包。但它们的价格却低得让人咋舌：一条D&G20元，一套Gucci的高跟鞋加坤包100元。来自非洲的“国际倒爷”们正在此大量采购，有些甚至直接撕掉了塑料包装袋，为了减轻重量降低运费。而非洲几乎没有这类奢侈品或品牌的工厂，一般人也识别不了山寨和正品的区别，精明的商人们甚至能把这些山寨货卖出正品的价格。</p>
-<p>与非洲人的贸易，同样给当地带来了短暂的繁荣。官方为鼓励更多外国人来中国，在2004年8月出台了《外国人在中国永久居留审批管理办法》，尽管审批程序和资格获取难度极高，但对来中国做生意的非洲人来说，这一时期官方对他们的态度似乎仍是开放的。</p>
-<p>跟随“广州黑人50万”谣言兴起的，还有对非洲人本能的歧视与排斥。</p>
-<p>广州郊区里的非洲人社区，像国外的唐人街一样，他们因特殊的生活习惯而集结，生活范围内，看上去尤为壮观。而他们的黑色皮肤，在任何行动中都被黏上了异样的眼光，甚至很多黑人常因浓郁的香水味遭出租车拒载。“广州黑人50万，抢占资源、犯罪无数”这样的谣言，也因此得以疯传。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607060040023efbe.jpg.1920x10000.75.auto_.jpg?resize=600%2C375" alt="2014年4月29日，广州登峰路，许多黑人在此寻找发财机会。/视觉中国" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607060040023efbe.jpg.1920x10000.75.auto_.jpg?w=1920 1920w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607060040023efbe.jpg.1920x10000.75.auto_.jpg?resize=300%2C188 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607060040023efbe.jpg.1920x10000.75.auto_.jpg?resize=768%2C480 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/201607060040023efbe.jpg.1920x10000.75.auto_.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014年4月29日，广州登峰路，许多黑人在此寻找发财机会。/视觉中国</p></div>
-<p>实际上，非洲人只排在广东外国人口的第三名，前两名分别是亚洲人和欧洲人。据广州出入境管理局数据，截至2014年10月25日，在广州市居住的11.8万外国人中，约有3万来自非洲的合法居民。而所谓“广州黑人50万”的数据，则来源于2013年广州口岸出入人次中有54万来自非洲国家，其中往返和多次入境都重复计算在其中。</p>
-<p>对于非洲人在广州所居住的时间，超过90%的人在1998年后开始居住在广州，大约56%的非洲人居住时间没有超过一年，大多数非洲人享受着广州和非洲之间旅游的频繁往来。</p>
-<p>但破除谣言，也无法弥合中国人对非洲人本能的排斥与矛盾。跨文化研究学者Michal Lyons在2009年曾对50位与非洲人有过贸易往来的中国商贩进行访谈，只有40%的人对整个交易过程是满意的，他们形容非洲人“低素质”、“抠门”，甚至“不诚实”，这类负面词汇出现的次数是正面词汇的两倍。与此相反的是，2010年他们又对非洲商人做了一项调查，发现65%的非洲人认为，在中国他们受到了非常好的尊重，只有9.6%的人对中国商人极度不满。</p>
-<p>比欧美国家常挂于嘴边的“种族歧视”，从签证政策到媒体舆论，中国人对非洲人的歧视无孔不入。</p>
-<p>来自中国人的本能排斥与矛盾，在当地媒体多篇关于“非洲人犯罪事件”的报道中爆发，尽管据2013年的数据显示，包括其他国家在内的外国人在广州犯罪率约为1.65%。</p>
-<p>2007年《广州日报》发布了一篇6120字的报道《广州黑人部落全记录》，尽管这篇文章开篇承认了中非商贸推动广州国际化，但主要力度放在抨击黑人商贩主要经营低劣的纺织品和二手电子产品、无所事事的黑人“打工仔”，以及数量巨大的“三非”黑人。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001e3390.jpg.1920x10000.75.auto_.jpg?resize=600%2C375" alt="2014年4月3日，广州市一名黑人女子头顶刚挑选好的货品。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001e3390.jpg.1920x10000.75.auto_.jpg?w=1920 1920w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001e3390.jpg.1920x10000.75.auto_.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001e3390.jpg.1920x10000.75.auto_.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001e3390.jpg.1920x10000.75.auto_.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014年4月3日，广州市一名黑人女子头顶刚挑选好的货品。/视觉中国</p></div>
-<p>这是广东媒体第一篇深度揭批广州小北黑人区的文章，也是官方借力打压黑人社区的开始。当地执法机关开始每月定期检查小北街道和住所的非洲人签证，检查和逃脱检查的猫鼠游戏动摇了这座城市。</p>
-<p>为了抓捕广州市内的“三非”黑人，当地执法机关在2175间宾馆装载了特制的登记软件，以搜集非洲人信息；划分黑人的可居住范围，集中圈限在居委会的视线范围内，不允许他们居住在乡村或非政府直接管辖的区域，采取“集中居住管理”的策略。整个广州对非洲黑人都是戒严状态。</p>
-<p>特别是发生在2009年7月15日的事件引起了巨大反响。当天，两名来自尼日利亚纺织品零售商试图逃脱签证检查，其中一名不慎从18米的高楼摔下，后经查实两人签证都已经过期。随即超过百名尼日利亚人在广州街道上示威。</p>
-<p>在广州，签证过期的非洲人数量不明，但可以知道的是，他们中的大多数是被签证政策困在了中国。广州的非洲商人多数是通过4至6周的短期商务签证入境，早期外国人在本国申请的签证是由北京办事处受理，而在广州的非洲人在当地申请续签后，两地的程序和标准不一样，跨地申请失败的概率极高。2013年，中国通过了“期待已久”的新《出入境管理法》，许多非洲商人希望通过它从无限循环的短期签证中解放，但事实相反，新法律使得签证续签的程序更加复杂，外国人必须回到自己的国家申请续签。在过去，非洲人还可以在香港或澳门申请续签。</p>
-<p>一夜之间广州对非洲人的态度也变了，从“欢迎来到广州”变成了“请随时准备好护照以备查验”。</p>
-<p>一旦签证过期，这些非洲商人就必须缴纳罚款。签证逾期后不缴纳罚款的，则会被行政拘留21天，需要缴纳拘留费用以及驱逐费用；如果一直买不起回国的飞机票，拘留的时间可能会更长。而据《卫报》报道，部分中国官员收取2000-10000元的贿赂，就可以放他们走。</p>
-<p>而更多非洲黑人是带着“淘金梦”来的穷人，试图靠中国廉价的商品咸鱼翻身，孤注一掷后发现签证续签不了了，回家的机票还没着落，货品已经在回国的货船上。缴纳罚款滚回家还是非法逗留，他们中大多数人选择了后者。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001f1d7d.jpg.1920x10000.75.auto_.jpg?resize=600%2C375" alt="2014年4月3日，广州市一服装城旁一名拿到货的黑人男子在清点货品。/视觉中国" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001f1d7d.jpg.1920x10000.75.auto_.jpg?w=1920 1920w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001f1d7d.jpg.1920x10000.75.auto_.jpg?resize=300%2C188 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001f1d7d.jpg.1920x10000.75.auto_.jpg?resize=768%2C480 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/20160706004001f1d7d.jpg.1920x10000.75.auto_.jpg?resize=1024%2C640 1024w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>2014年4月3日，广州市一服装城旁一名拿到货的黑人男子在清点货品。/视觉中国</p></div>
-<p>2008年奥运会之前，中国提前关闭了短期签证申请；2010年广州举办亚运会前，再一次缩紧了签证政策。根据跨文化研究学者Michal Lyons的调查，2010年，40%的非洲商人离开了广州的“巧克力城”，26.7%的人搬去了移民管制稍宽松的佛山市黄岐镇。黄岐镇的交通发达，去广州进货成了这些流动黑人的最后选择。</p>
-<p>通货膨胀、成本高涨、利润挤压，生意越来越难做了，非洲人眼中的这座金矿似乎要挖到底了。</p>
-<p>不仅是签证政策的压力，经济衰退使得非洲商人的中国淘金梦，从2008年爆发的金融危机就开始破碎了。通货膨胀、利率飙升，同时中国工人的时薪每年以12%的速度增长，中国工厂里的山寨货已经不再便宜了。此外，生产山寨产品的中国工厂收到了越来越多的投诉，品牌商以及远在非洲的消费者。</p>
-<p>非洲商人不得不把目光转移到签证政策更为宽松、“世界工厂”的替代者——东南亚国家。</p>
-<p>在东南亚，非洲商人能批发到成本更低的商品，同比中国工人每天平均27.5美元的薪资，印尼仅有8.6美元，越南6.7美元。</p>
-<p>原先在广州的非洲商人与当地商贩长久以来积累了共生关系，非洲人的出走也带来了当地经济的下滑。2006年至2010年间，广州口岸运往非洲的集装箱几乎都能载满货物，到2010年，大量非洲商人离开了，依靠非洲贸易的中国供应商，生意倒下了三分之一。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E6%89%8E%E6%A0%B9%E5%B9%BF%E5%B7%9E30%E5%B9%B4%E5%90%8E-%E9%9D%9E%E6%B4%B2%E9%BB%91%E4%BA%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B7%98%E9%87%91%E6%A2%A6%E7%BB%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C%E5%B7%A5%E5%8E%82/?category=18271" rel="tag">世界工厂</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BA%BA/?category=18271" rel="tag">中国工人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E5%8F%A3/?category=18271" rel="tag">出口</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E5%8F%A3%E8%B4%B8%E6%98%93/?category=18271" rel="tag">出口贸易</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">外国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%92%E4%B8%A5/?category=18271" rel="tag">戒严</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B/?category=18271" rel="tag">打压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%A7%E6%B3%95/?category=18271" rel="tag">执法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%98%E7%95%99/?category=18271" rel="tag">拘留</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86/?category=18271" rel="tag">种族歧视</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%BB%E6%B0%91/?category=18271" rel="tag">移民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/?category=18271" rel="tag">经济危机</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E8%A1%B0%E9%80%80/?category=18271" rel="tag">经济衰退</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B4%B2/?category=18271" rel="tag">非洲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E4%BA%BA/?category=18271" rel="tag">黑人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -653,7 +627,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -663,5 +637,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%96%E7%95%8C
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/709%E5%A4%A7%E6%8A%93%E6%8D%95%E4%B8%80%E5%91%A8%E5%B9%B4%E5%AE%B6%E5%B1%9E%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E/" target="cdt-mirror">离开梳妆打流氓：709大抓捕一周年家属联合声明</a>
+</h2>
+<p><p>（原文开放版权，封删前恳请接力转载）</p>
+<p>我们是709大抓捕事件部分当事人的家属，我们的亲人，有律师，也有积极公民。之前多年，他们在人权、言论/信仰自由、土地纠纷、反歧视、食品安全等方面做了大量的工作。通过自己的专业知识，及与社会大众的连结，致力于中国的法治改革及权利维护。</p>
+<p>2015年7月9日前后，他们失去联系，被以涉嫌危害国家安全的名义，凭着上央视认罪及一纸逮捕通知书，再无音讯。</p>
+<p>过去一年，代理律师和我们数十次往返奔波于检察院、公安局、看守所，遭遇冷漠拒绝，徒劳而返。7月7日，看到709事件当事人之一赵威获得取保候审并发出微博，我们为之欣慰又感到心酸。欣慰的是她终于回到社会大监狱，心酸的是，难以想象她这一年遭遇了多大的折磨，才被迫在取保候审不到半天的时间内发出微博长信指控。这恰恰见证了709事件中公权力持续滥用可耻的一幕：</p>
+<p>1、禁止发声。为断绝外部声援支持，传唤数百名律师、公民，警告要求不得发声，至今仍有涉709事件的律师公民被骚扰；</p>
+<p>2、官媒审判。对当事人强迫通过官方媒体认罪，采用各种方式污名化，对部分取保候审的当事人，恐吓不得和外界接触乃至要求指控其它人等方能取保；</p>
+<p>3、诱录视频。为了让当事人认罪，警方威逼诱骗亲属录制视频劝导当事人，极尽威胁；</p>
+<p>4、非法解聘律师。为了不让当事人会见律师，不让外界知道情况，不惜使用种种欺骗手段，为他/她们指定律师，拒绝家属聘任的律师进行会见；</p>
+<p>5、株连家属。作为709事件家属，我们出门被跟踪，租房被逼迁，孩子难入学，工作受干扰，半夜被敲门骚扰，难以正常生活；</p>
+<p>6、殃及儿童。把我们甚至未成年的儿童列为犯罪嫌疑人，拒绝办理护照出入境，至今有的家属、孩子一天二十四小时处于警方严密监控之下。</p>
+<p>以上种种行径，数不胜数，赵威仅是其中一例。时至今日，仍有23位709相关律师、公民在押，其中大部分未能会见律师，他们包括王宇、王全璋、李和平、谢燕益、谢阳、李春富、周世锋、胡石根、包龙军、刘四新、吴淦、林斌、勾洪国、唐志顺、幸清贤、翟岩民、刘星、张卫红、李燕军、姚建清、王芳、尹旭安、张婉荷。</p>
+<p>此外，还有大量相关家属、取保候审人士仍持续受到威胁不敢发声，对他们的遭遇和处境，我们深感忧虑。</p>
+<p>在此，我们强烈要求：</p>
+<p>1、释放709相关人士，保障当事人的权利，停止抹黑指控污名化，保障律师会见权。如若他们涉嫌犯罪，我们有自行聘请律师的能力，无需警方指定律师；</p>
+<p>2、撤除对家属的监控，停止对家属、709相关人士的骚扰、盯梢及迫害；</p>
+<p>3、保障家属的各项合法权利，恢复家属合法出入境。</p>
+<p>作为公民，要求保障我们及亲人的合法权利，是最朴素的基本要求，需知玩火者必自焚，今日你们采用种种非法手段，他日也必将自尝恶果。</p>
+<p>即使在持续一年的高压之下，我们仍然得到多方关心和支持，值此一周年之际，谨此以709事件部分家属的名义，一并表示感谢：</p>
+<p>感谢为709事件奔波的律师们，即使当局各种恶意阻挠，你们顶住压力，一次次不辞劳苦奔波在前线上；</p>
+<p>感谢国际社会的关注，包括各国政府、媒体、NGO，感谢你们的声援，才使得当局减少肆意妄为；</p>
+<p>感谢国内的朋友伙伴，你们冒着风险的的关心和支持，我们将铭记在心。</p>
+<p>黑夜漫漫，并非没有恐惧。然心中有爱，再大的恐惧也不会阻止我们前行的脚步。作为家人，我们希望合家团聚，不愿亲人遭遇牢狱之灾，不愿家人遭受牵连，然而，社会的进步需要前行者，亲人们为中国社会进步付出的代价，是家庭的苦难，也将是我们此生的荣光。</p>
+<p>709事件仍在持续中，期待仍能得到社会各界的关注和支持。与此同时，我们也意识到，在中国，仍有大量不为人知的人权捍卫者、异议人士受到拘捕、关押，遭遇和我们亲人类似的迫害，他们也需要得到海内外的关怀和帮助。他们包括卢昱宇、李婷玉、胡长根、符海陆、张隽勇、罗誉富、秦永敏、赵素利、张海涛等近期被捕或长期失踪、重判的人士，也包括处于绝食抗争中的郭飞雄、于世文先生，无法会见亲属的唐荆陵、王清营先生，为工人抗争而坐牢的曾飞洋、孟晗先生等等，还有其Ta无法在此一一列出名字者，我们深深牵挂每一位政治受难者，愿他们能经历磨难，在爱中，共同勉励前行。</p>
+<p>国家的安全稳定注定无法通过抓捕良心犯获得，我们深信，在法律公义的天秤之上，在人道民心的天理之上，正义终将与我们一起，迎来曙光。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjhah4s3j215o0u0wv4.jpg?resize=600%2C432" alt="74de11a5jw1f5mjhah4s3j215o0u0wv4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjhah4s3j215o0u0wv4.jpg?w=720 720w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjhah4s3j215o0u0wv4.jpg?resize=300%2C216 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>签名：</p>
+<p>王峭岭（律师李和平之妻）</p>
+<p>原珊珊（律师谢燕益之妻）</p>
+<p>刘二敏（公民翟岩民之妻）</p>
+<p>李文足（律师王全璋之妻）</p>
+<p>王全秀（律师王全璋之姊）</p>
+<p>樊丽丽（公民戈平之妻）</p>
+<p>陈桂秋（律师谢阳之妻）</p>
+<p>2016年7月8日</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjevxkyhj20af0aijrq.jpg?resize=375%2C378" alt="74de11a5jw1f5mjevxkyhj20af0aijrq" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjevxkyhj20af0aijrq.jpg?w=375 375w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjevxkyhj20af0aijrq.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjevxkyhj20af0aijrq.jpg?resize=298%2C300 298w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjevxkyhj20af0aijrq.jpg?resize=70%2C70 70w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></p>
+<div>支持将用于困难家属补助及维权行动经费</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/709%E5%A4%A7%E6%8A%93%E6%8D%95%E4%B8%80%E5%91%A8%E5%B9%B4%E5%AE%B6%E5%B1%9E%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">709事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">公权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91/?category=18271" rel="tag">公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">危害国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%B1%9E/?category=18271" rel="tag">家属</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E7%BD%AA%E8%A1%8C/?category=18271" rel="tag">法律罪行</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A7%91%E5%A8%98%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BF%A1%E4%BD%A0-%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E4%BF%A1%E6%94%BF%E5%BA%9C/" target="cdt-mirror">【网络民议】姑娘不是不信你 我们是不信政府</a>
 </h2>
 <p><p>考拉赵威的微博帐号对<a href="http://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/" target="_blank">网民质疑的自拍</a>作了如下回应：</p>
@@ -626,21 +672,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E8%AE%BF
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BB%B4%E6%9D%83%E7%BD%91-%E6%88%90%E9%83%BD%E5%85%AD%E5%9B%9B%E9%85%92%E6%A1%88%E9%80%9A%E6%8A%A5%EF%BC%9A%E5%9B%9B%E4%BA%BA%E4%BB%8A%E9%81%AD%E6%AD%A3%E5%BC%8F%E9%80%AE/" target="cdt-mirror">维权网 | 成都“六四酒案”通报：四人今遭正式逮捕</a>
-</h2>
-<p><p>（维权网信息中心报道）2016年7月6日星期三，本网获悉：成都“六四酒案”中符海陆、张隽勇、罗誉富、陈兵四人今遭正式逮捕，罪名全是涉嫌“煽动颠覆国家政权罪”。其中陈兵此前已被取保候审，今天下午4点四点，陈兵是从遂宁高升街派出所带走，带人的是成都跳蹬河派出所警察。现在四人目前全部羁押在成都市看守所。</p>
-<p>成都“六四酒案”是四川成都疫苗受害者家长符海陆因为以行为艺术的方式纪念六四被成都警察以“涉嫌煽动颠覆国家政权罪”刑拘开始的。成都疫苗受害者亲属符海陆日前在网络上以行为艺术的方式，制作“永不忘记，永不放弃，铭记八酒六四——27年记忆陈酿酒非卖品”白酒的海报，被成都当局以“涉嫌煽动颠覆国家政权罪”刑拘，事件一个多月来，持续延烧。</p>
-<p>成都女诗人马青仅仅在微博上转发了一下符海陆的广告，也被以寻衅滋事刑事拘留，后取保候审。 之后，公民张隽永、罗富誉又被以涉嫌“煽动颠覆国家政权罪”刑事拘留。后，著名民运人士陈卫的弟弟陈兵也被刑事拘留，一个星期后被取保候审，今天又被正式逮捕。</p>
-<p>对于成都“六四酒案”被拘押的4为公民的境况，本网将持续关注。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.14.23.png?resize=334%2C396" alt="Screen Shot 2016-07-06 at 上午11.14.23" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.23.png?w=334 334w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.23.png?resize=253%2C300 253w" sizes="(max-width: 334px) 100vw, 334px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.14.17.png?resize=293%2C395" alt="Screen Shot 2016-07-06 at 上午11.14.17" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.17.png?w=293 293w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.17.png?resize=223%2C300 223w" sizes="(max-width: 293px) 100vw, 293px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.14.10.png?resize=296%2C395" alt="Screen Shot 2016-07-06 at 上午11.14.10" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.10.png?w=296 296w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.10.png?resize=225%2C300 225w" sizes="(max-width: 296px) 100vw, 296px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.14.03.png?resize=315%2C232" alt="Screen Shot 2016-07-06 at 上午11.14.03" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.03.png?w=315 315w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.14.03.png?resize=300%2C221 300w" sizes="(max-width: 315px) 100vw, 315px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.13.55.png?resize=338%2C398" alt="Screen Shot 2016-07-06 at 上午11.13.55" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.55.png?w=338 338w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.55.png?resize=255%2C300 255w" sizes="(max-width: 338px) 100vw, 338px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.13.50.png?resize=317%2C316" alt="Screen Shot 2016-07-06 at 上午11.13.50" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.50.png?w=317 317w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.50.png?resize=150%2C150 150w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.50.png?resize=300%2C300 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.50.png?resize=70%2C70 70w" sizes="(max-width: 317px) 100vw, 317px" data-recalc-dims="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.13.40.png?resize=470%2C626" alt="Screen Shot 2016-07-06 at 上午11.13.40" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.40.png?w=470 470w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.40.png?resize=225%2C300 225w" sizes="(max-width: 470px) 100vw, 470px" data-recalc-dims="1"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-%E4%B8%8A%E5%8D%8811.13.31.png?resize=467%2C627" alt="Screen Shot 2016-07-06 at 上午11.13.31" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.31.png?w=467 467w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-06-at-上午11.13.31.png?resize=223%2C300 223w" sizes="(max-width: 467px) 100vw, 467px" data-recalc-dims="1"></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BB%B4%E6%9D%83%E7%BD%91-%E6%88%90%E9%83%BD%E5%85%AD%E5%9B%9B%E9%85%92%E6%A1%88%E9%80%9A%E6%8A%A5%EF%BC%9A%E5%9B%9B%E4%BA%BA%E4%BB%8A%E9%81%AD%E6%AD%A3%E5%BC%8F%E9%80%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B27%E5%91%A8%E5%B9%B4/?category=18271" rel="tag">六四27周年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85%E7%B2%BE%E9%80%89/?category=18271" rel="tag">山巅精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%90%E9%83%BD%E5%85%AD%E5%9B%9B%E9%85%92%E6%A1%88/?category=18271" rel="tag">成都六四酒案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83%E7%BD%AA/?category=18271" rel="tag">煽动颠覆国家政权罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E9%A2%A0%E7%BD%AA/?category=18271" rel="tag">煽颠罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E5%BF%B5%E5%85%AD%E5%9B%9B/?category=18271" rel="tag">纪念六四</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E7%BD%91/?category=18271" rel="tag">维权网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%AF%E5%BF%83%E7%8A%AF/?category=18271" rel="tag">良心犯</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -652,7 +683,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -662,5 +693,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AD%E5%9B%9B
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

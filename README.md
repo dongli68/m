@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,171 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%89%8D%E7%A9%BA%E5%86%9B%E6%94%BF%E5%A7%94%E8%A2%AB%E6%8D%95%E8%AF%81%E5%AE%9E%E3%80%8A%E9%83%AD%E4%BC%AF%E9%9B%84%E4%BC%A0%E3%80%8B%E5%8D%96%E5%AE%98%E9%AC%BB%E7%88%B5/" target="cdt-mirror">法广｜前空军政委被捕证实《郭伯雄传》卖官鬻爵指控</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/02/12ca2pt.jpg?resize=549%2C366" alt="徐才厚郭伯雄" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/02/12ca2pt.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/02/12ca2pt.jpg?resize=300%2C200 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>解放军兰州军区政治部前文艺创作员陈希今年早前出书《郭伯雄传》，内容指控郭伯雄这位曾经权倾一时的中央军委副主席卖官鬻爵，前空军政委田修思最近遭到中纪委双规，证实了该书的指控。不过现职全国人大外事委员副主任委员的田修思，其名字和职衔仍然名列全国人大网上。</p>
+<p>中共当局4月表示，郭伯雄将面对接受大笔贿赂的控罪。</p>
+<p>香港南华早报引述两个消息来源报导，与郭伯雄和另一个前中央军委副主席徐才厚关系密切的田修思，已被双规。现年66岁的田修思曾经担任解放军空军政委，也是中共第十八届中央委员，目前正接受贪腐调查。</p>
+<p>报道指，田修思一案将由中央军委内部进行调查。其中一个消息来源说：“他（田修思）的妻子和私人秘书已被带走，田是被查的目标。”</p>
+<p>有分析认为，出任政委一职，田修思基本上已操控全世界发展至为急速的空军军力，但目前未悉他被调查的原因。</p>
+<p>然而，作者陈希在《郭伯雄》一书中披露，田修思在2012年给了业已落马的郭伯雄5000万元人民币，换取了空军政委这个职位。</p>
+<p>徐才厚同时也被指控卖官鬻爵，但他在接受审讯之前因癌病不治逝世。有消息指，田修思为了升官，也给了徐才厚一笔贿款。</p>
+<p>消息来源告诉南华早报：“从新疆军区政委辗转做到成都军区政委，再高升至解放军空军政委，田修思的仕途起落，一直都有徐才厚的影子。”徐才厚的罪名包括接受1230万美元的贿赂。</p>
+<p>前军事科学院军建部副部长杨春长今年3月表示，徐才厚和郭伯雄的贪腐案，反映了两人掌握了太大的权力。杨在大陆凤凰卫视一个节目中说：“他们的权力实在太大了，假使有人愿意给2000万元人民币做一个军区司令，之前愿意出1000万的那个人，就当然没希望了。”</p>
+<p>田修思去年7月离开空军之后，被调升全国人大外事委员副主任委员，最后一次露面在今年7月1日中共95周年的党庆。</p>
+<p>新京报早前曾经引述田修思说，劣质次等的产品，毒害了很多百姓，但如今的惩罚仍算过于宽大，贪腐的干部如果做了伤害老百姓安全和财产的事，他们应该被剥夺至一贫如洗。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%89%8D%E7%A9%BA%E5%86%9B%E6%94%BF%E5%A7%94%E8%A2%AB%E6%8D%95%E8%AF%81%E5%AE%9E%E3%80%8A%E9%83%AD%E4%BC%AF%E9%9B%84%E4%BC%A0%E3%80%8B%E5%8D%96%E5%AE%98%E9%AC%BB%E7%88%B5/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-16/" target="cdt-mirror">【真理部】加强新闻跟帖监看</a>
+</h2>
+<p><p>网信办：(通知) 请各网加强新闻跟帖监看，集中清理集中攻击我体制、中央领导的跟帖，但允许网民合理情绪表达。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-16/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/7-09%E5%AE%B6%E5%B1%9E%EF%BC%9A%E4%BB%8E%E5%8F%97%E9%9A%BE%E8%80%85%E5%88%B0%E8%A1%8C%E5%8A%A8%E8%80%85%E7%9A%84%E4%B8%80%E5%B9%B4%E8%B7%8B%E6%B6%89/" target="cdt-mirror">端传媒｜“7.09”家属：从受难者到行动者的一年跋涉</a>
+</h2>
+<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/468bd0c04757427faf15fef5391d053b.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/468bd0c04757427faf15fef5391d053b.jpg?resize=585%2C390" alt="6名“709”被捕者的妻儿，左起：王全璋律师妻子李文足及儿子、谢阳律师妻子陈桂秋及女儿、谢燕益律师妻子原珊珊及儿子们、李和平律师妻子王峭岭及女儿、勾洪国妻子樊丽丽及儿子、翟岩民妻子刘二敏。摄：LeicaMen" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/468bd0c04757427faf15fef5391d053b.jpg?w=1080 1080w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/468bd0c04757427faf15fef5391d053b.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/468bd0c04757427faf15fef5391d053b.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/468bd0c04757427faf15fef5391d053b.jpg?resize=1024%2C683 1024w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>6名“709”被捕者的妻儿，左起：王全璋律师妻子李文足及儿子、谢阳律师妻子陈桂秋及女儿、谢燕益律师妻子原珊珊及儿子们、李和平律师妻子王峭岭及女儿、勾洪国妻子樊丽丽及儿子、翟岩民妻子刘二敏。摄：LeicaMen</span></p></div>
+<p>“社会主义好，社会主义好，社会主义国家律师被抓了。 7.09家属起来了，父母妻子律师都被边控了， 公检法司大团结，掀起了破坏法治新高潮，新高潮！ ”</p>
+<p>6岁的女孩李佳美和3岁的男孩王广微一路都在高唱这首歌。</p>
+<p>这是6月1日儿童节的上午，两个孩子的妈妈王峭岭和李文足，正带着他们驱车前往天津市检察院第二分院，去询问自己丈夫、孩子父亲的下落：被捕超过一年的人权律师李和平和王全璋，是否已经被公安机关移送检察院审查起诉。</p>
+<p>一年以来，或去看守所寻人，或到检察院追问进展，她们已经跑过这条路数十次。两个孩子年龄太小，只得一直带在身边。奔波途中，她们把这首歌唱社会主义的经典红歌改编成“7.09律师版”，没想到孩子们很快学会了，稍不留神就会单曲循环。</p>
+<p>“妈妈！”正唱得不亦乐乎，王广微突然对李文足喊：“爸爸去打怪兽怎么这么久还没回来呀？是不是怪兽太多了呀？”</p>
+<p>李文足回答说：“是呀，所以我们要去救爸爸，帮爸爸打怪兽。”</p>
+<p>王广微的爸爸王全璋“去了打怪兽”是在2015年7月10日，那天开始，以前也总出差、但一有空就会跟他视频通话的爸爸，再没有在视频里出现过。同一天，李佳美亲眼看着爸爸李和平被一群突然闯进家门的警察带走。</p>
+<p><strong>“7.09风暴”</strong></p>
+<p>2015年7月10日前后数天，中国各地被警察带走的律师和维权人士多达300多人，不少人在数小时的“约谈”后获释，但从此失联的人数也不断增加。</p>
+<p>直到7月12日和19日，中国官方媒体新华网发出长篇报导《揭开“维权”事件的黑幕》和《北京锋锐律所案追踪》，这一场抓捕的背景才渐渐浮现。</p>
+<p>新华网在报导中称：“公安部指挥多地公安机关摧毁一个以北京市锋锐律师事务所为平台，少数律师、推手、‘访民’相互勾连、滋事扰序的涉嫌重大犯罪团伙，周世锋、王宇、李和平、谢燕益、隋牧青、黄力群、谢远东、谢阳、刘建军9名律师和刘四新、吴淦、翟岩民等人被依法采取刑事强制措施。”新华网文章写道，“其以‘维权’‘正义’‘公益’为名、行严重扰乱社会秩序之实、企图达到不可告人目的的种种黑幕也随之揭开。”</p>
+<p>新华网发文后，各大门户网站纷纷转载，中央电视台各个频道也滚动播出相应新闻影片，一时间，“维权黑幕”铺天盖地。</p>
+<p>王峭岭看到报导十分错愕：一方面，她的丈夫李和平并不是锋锐所的律师，与该所也没有日常合作；另一方面，自从李和平7月10日被带走，她没有收到任何手续文书，她去各个可能有关的警察部门和看守所查问，却只得闭门羹。</p>
+<p>王峭岭愤而状告新华网。在起诉状中，她这样写道：“作为李和平的配偶，原告主动向多地公安机关要求获取李和平被羁押信息都不得而知，媒体记者在公安机关从未召开过新闻发布会的情况下，获取了李和平‘滋事扰序’和‘被采取了刑事强制措施’的具体信息，指名道姓的进行报导，此举置《刑事诉讼法》于何处？置新闻来源的合法性于何处？ ”</p>
+<p>同样就报导起诉新华网的还有原珊珊，她的丈夫谢燕益也不是锋锐律所成员，她要求新华社为“毁坏名誉”赔偿13亿人民币──“就是中国13亿人民一人一块钱，要将真相大白于天下的意思，”原珊珊说。</p>
+<p>法院对王峭岭和原珊珊的起诉都未予立案。</p>
+<p>根据新华网和央视的报导，这一轮拘捕约从2015年5月底维权人士吴淦（网名“超级低俗屠夫”）被拘留就正式开始，之后是6月拘捕参与“庆安事件”抗议的维权人士翟岩民及其访民团体，到7月9日及其后数天，拘捕十多名律师，并对维权律师群体大规模传唤。</p>
+<p>不少国际人权机构关注事件，称之为“7.09大抓捕”或“7.09案”。</p>
+<p>一年以来，陆续有人以“取保候审”获释，但截至发稿时，此案仍有23人因“颠覆国家政权罪”或“煽动颠覆国家政权罪”被警方关押。他们的逮捕通知书号码都连在一起。若“颠覆”罪名成立，刑期最高可至无期徒刑。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b3908145961e4c2c97c7e636de6e9348.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b3908145961e4c2c97c7e636de6e9348.jpg?resize=550%2C662" alt="b3908145961e4c2c97c7e636de6e9348" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b3908145961e4c2c97c7e636de6e9348.jpg?w=1080 1080w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b3908145961e4c2c97c7e636de6e9348.jpg?resize=249%2C300 249w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b3908145961e4c2c97c7e636de6e9348.jpg?resize=768%2C924 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b3908145961e4c2c97c7e636de6e9348.jpg?resize=851%2C1024 851w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>大陆“709维权律师大抓捕”发生至今一年，仍然身陷囹圄的人，与这场打压风暴中心的锋锐律师事务所，有何关联？图：端传媒设计部</span></p></div>
+<p><strong>一夜之间，她们成了“7.09家属”</strong></p>
+<p>“以前全璋问我，如果他被抓了我怎么办，我说那我就天天哭，”今年刚30出头的李文足回想“7.09”发生后的那段日子说：“后来我果然就天天哭，哭了6个月。”</p>
+<p>以泪洗面，是抓捕发生后，每一个被捕者的家人都经历过的阶段。一夜之间，她们成了“7.09家属”，独自面对着突然降临的黑暗。</p>
+<p>原珊珊清楚地记得7月12日的各种细节。谢燕益一大早就被“国保”（国家安全保卫警察）叫去居委会谈话，忧心忡忡的她久久站在家中窗前张望，想起前一天晚上谢燕益被约谈回来问她：“如果你是谭嗣同的妻子，你怎么办？”</p>
+<p>当看到二十多个人大步朝她家的方向走来，一边走一边纷纷拿出白手套戴上，原珊珊知道这次谢燕益真的出事了。她来到孩子们的房间，告诉11岁和8岁的两个男孩：“无论外面发生什么事都不要出来。”</p>
+<p>果然，门铃响了，穿着便衣的陌生男人们一拥而入，其中一人亮出了天津市公安局的警官证。然后是地毯式的搜查，各种书、案卷和电子器材足足拉走了三车。</p>
+<p>当数小时的搜查结束，原珊珊打开孩子们的房门，看到两个孩子蜷缩在床上，房间里充满难闻的气味，孩子们因为不敢出去上厕所，只好尿在了地上。</p>
+<p>一年之后，她想起那个场景，仍止不住流泪。但这远不是噩梦的最低点。</p>
+<p>谢燕益被带走一个多月后，原珊珊的月事一直没有来，她猜测自己怀孕了，但根本无心查验。也在此时，原珊珊接到谢燕益大哥的电话，得知谢燕益的妈妈突然去世，“我听到这个一下子就虚脱了，我不知道怎么办，怎么什么事都赶到一起啊？”原珊珊说，谢燕益的妈妈一向健康，得知儿子被抓后，还跟她一起去过天津寻找。</p>
+<p>原珊珊一边赶往谢燕益老家，一边联系天津警方要求让丈夫回家奔丧，警方回应会“联系汇报”，这给了她一点希望，觉得或许能让他回来。</p>
+<p>直到追悼会开完，“联系汇报”也没有下文。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fa901dd4ef654f848bfb430110654e4b.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fa901dd4ef654f848bfb430110654e4b.jpg?resize=585%2C390" alt="fa901dd4ef654f848bfb430110654e4b" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fa901dd4ef654f848bfb430110654e4b.jpg?w=1080 1080w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fa901dd4ef654f848bfb430110654e4b.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fa901dd4ef654f848bfb430110654e4b.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/fa901dd4ef654f848bfb430110654e4b.jpg?resize=1024%2C683 1024w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>谢燕益太太原珊珊及其兒子。摄：LeicaMen</span></p></div>
+<p>丧礼期间，原珊珊为免冲撞风俗，告知谢燕益的家人自己可能怀孕了，但每一个听闻的人都劝她打掉胎儿，也隐约透露出对她这个“犯夫之妇”的侧目而视。趁婆婆的遗体尚未火化，她决定赶到天津，争取“接谢燕益回来见妈最后一面”。</p>
+<p>原珊珊当时对达成此事抱有很大期望，因此，当天津河西分局预审大队警察当面告诉她，警方的决定是“不可以”的时候，原珊珊崩溃了。她感觉到自己“从头到脚地凉下来”。回到酒店，一夜未眠。</p>
+<p>第二天，原珊珊早早地穿上孝服，孝服上写着“谢燕益不孝罪死罪 回家见母最后一面”，步行至天津市公安局，在门口坐下。她期待能有“领导”路过看到，过问此事。</p>
+<p>然而，她等来的是这样的遭遇：3个警察把她拖进警车，带到派出所，做了笔录，然后将她带进一个没有监控的小房间，里面有30多个警察和辅警，他们把她团团围住，骂她：“你这个不道德的女人”、“你这个不要脸的”、“你折腾什么呀？我告诉你，这是现在，要是文革你这样就直接拉出去枪毙了”……持续了将近一小时。</p>
+<p>原珊珊回忆自己当时的心情说，虽然很害怕，但竟然反而感到一种放松：“不管怎样，有人知道了我的要求，这事会传达给上一级领导，我也觉得挺值的。”</p>
+<p>没有领导出现。警察找来谢燕益的朋友劝她离开。但原珊珊不走，谢燕益的朋友告知了派出所她怀着孕。原珊珊在派出所的排椅上睡了一夜。第二天，派出所开始不给她提供饮食，不让她上厕所，原珊珊又在排椅上睡了一夜。第三天，“国保”告诉原珊珊，她婆婆的遗体已经火化，她没必要再在这坚持，原珊珊从谢燕益大哥处核实了这个消息。第四天凌晨，原珊珊心灰意冷，自行离开了派出所。</p>
+<p>此事之后很长时间，原珊珊处于严重的抑郁状态。 “那个时候真是……不想吃饭，也起不了床，”她说，那次经历让她变得难以相信人，“之前想着警察还是人，也有人性，但在过程中我发现他们就是一群机器人，装了程序以后要干什么就干什么，我第一次见到没有良知的人。”</p>
+<p>类似原珊珊这样的伤痛故事，每一个“7.09”家属都经历过。</p>
+<p>王峭岭因起诉新华网，被警方撬开家门“刑事传唤”，他们告诉她，如果她不合作就随时会再被带走；由于入学所需文件的办理被阻挠，李和平、王峭岭的6岁女儿李佳美无法升读小学；樊丽丽到天津寻找丈夫戈平下落，警方称这是“上面命令”的案件而拒不负责，还在哺乳期的她在惊恐中乳腺突然堵塞，年幼的孩子被迫断奶；樊丽丽因家中财物全数被收走，曾尝试开网店为生，却在自家楼下突遭警察带走数小时，之后又被限3天内搬走；由于房东屡遭警方压力，翟岩民妻子刘二敏不得不带着失去自理能力的翟父，在偌大的京城里反复搬家；王广微一次在天津跟着妈妈奔波的途中撞伤，缝了七针，妈妈李文足缩在医院角落里痛哭不止；谢阳的妻子陈桂秋说，读初中的女儿在爸爸出事后几乎再没有笑过……</p>
+<p><strong>“以前是他承受了，我不知道”</strong></p>
+<p>在“7.09”家属的6位家庭主妇中，44岁的王峭岭常被认为是最“勇猛”的一个。她起诉新华网、书写关于李和平的文章、不断到相关部门寻人控诉，并持续曝光“7.09”抗争中遭遇的种种不合理对待。王峭岭说，自己可以这样，源于许多因素的眷顾。</p>
+<p>王峭岭与李和平是大学同学，法律专业出身的她说，自己虽然法律学得不好，“但有一点我是记住了，就是你要按程序办事。”</p>
+<p>李和平是中国最早一批维权律师之一，王峭岭从十多年前就与他一同经历着警方的监控。近年来，李和平已经不直接代理敏感案件，因此当大批警察来抄家，王峭岭没有感到非常惊慌，她认为自己48小时内肯定会收到文书，就知道是怎么回事了。</p>
+<p>然而48小时过去，什么都没有。按照来查抄警察的证件信息，她与李和平的弟弟李春富律师一同赴天津查找，仍一无所获。几天之后，李春富也被抓了。</p>
+<p>“如果官方把和平带走，48小时内给我一个通知书，然后允许律师正常会见，哪怕说他是颠覆国家政权，我今天都不会这样，”王峭岭说：“因为程序，是普通人面对强大权力时的基本保障。”在“7.09”发生后的这一年中，最让王峭岭感到难以承受的，甚至不是丈夫被抓，而是自己40多年来对这个政府和国家的信任的整体崩溃。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1d0c6f74db9e410c968fe132ae871e96.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1d0c6f74db9e410c968fe132ae871e96.jpg?resize=585%2C390" alt="1d0c6f74db9e410c968fe132ae871e96" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1d0c6f74db9e410c968fe132ae871e96.jpg?w=1080 1080w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1d0c6f74db9e410c968fe132ae871e96.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1d0c6f74db9e410c968fe132ae871e96.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1d0c6f74db9e410c968fe132ae871e96.jpg?resize=1024%2C683 1024w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span> 李和平太太王峭岭及其女兒。摄：LeicaMen</span></p></div>
+<p>过去在家里，当李和平指责现实中种种不公时，她常觉得他太“偏激”。她说自己过去算是官方教育制造的“标准件”，从未真正怀疑过政府。以前李和平因代理案件受到警察贴身监控时，她都认为是官方对政治敏感案件的正常管控；甚至李和平曾被带走、遭受莫名殴打，她还理解为是丈夫惹到了具体警察导致的个案。</p>
+<p>但这一次经历了丈夫人间蒸发、自己被撬门传唤，王峭岭突然发现，一切不是自己过去理解的样子。</p>
+<p>李和平被带走后，他的办公室被警方擅自换锁，王峭岭赶往交涉无果，回家路上她终于忍不住泪如雨下，她说：“以前所有这些艰难，都是他承受了，我不知道。”</p>
+<p>被抓前，李和平在跟欧盟背景的人权机构合作反酷刑项目，王峭岭有时想起他带回家的小册子里讲到的那些酷刑，她会担心再也见不到李和平，“那他就没办法知道我对他认识的改变，没办法知道我现在对他的理解和认可了。”</p>
+<p><strong>给律师辩护的律师团</strong></p>
+<p>王峭岭以前不乐意交往的，李和平身边那些“敏感危险”的朋友，在关键时刻走到她身边。</p>
+<p>草根维权出身的野靖环，用自身的经验向王峭岭详细地讲解，她必须就警方查抄和传唤中的各种不合理行为申请信息公开和提起行政诉讼，并公开发声传播，虽然这些并不一定带来实际结果，但这会让警方明白，她不是随便能欺负的人，从而保护王峭岭自己和孩子免受进一步的骚扰。</p>
+<p>王峭岭随即提起了5项行政诉讼，虽然法院均以这是警方侦查行为为由不予立案，但警方再也没有传唤过她。王峭岭此后一直感慨，虽然考过司法考试，但在用法律维权方面，自己的知识和能力远不及有实际抗争经验的草根公民。</p>
+<p>李和平的老朋友、同为维权律师的仇志才（化名）则尽力组织了律师对律师的辩护援助。在他的协调介绍下，“7.09”恐惧尚未散去，蔡瑛和马连顺两位律师成为最早到达天津，公开要求为被捕律师辩护的律师。 “当时给社会一种感觉：‘哎呀，抓了这么多律师还有人敢去啊？’”蔡瑛说起当时颇为自豪，“别的律师都说‘老蔡，你这时候去是打破了冷漠啊！’说不恐惧是假的，但是那以后就越来越多律师愿意去了。”</p>
+<p>两位律师只是第一步，若要真的组建“7.09案”辩护律师团，难度非常大。仇志才对王峭岭明这样形容“7.09案”对辩护律师的要求：“第一是能坚持，不会被威胁退；第二是能写，能敞开接受采访，我们现在就需要吆喝；第三，能商量事儿，合作性好。”</p>
+<p>他与王峭岭商定李和平的代理律师人选之后，叮嘱她一定要通过安全的方式与律师沟通。但王峭岭仍给律师打了电话，被监控的信息导致两名律师在准备前往北京时就遇上了阻拦，其中一名放弃代理，蔡瑛律师则最终辗转到达。</p>
+<p>王宇的辩护律师文东海也记得，仇志才找到他时，至少已有两名律师由于压力放弃代理王宇的案子。他自己一开始也因种种顾虑没有答应，犹豫了一周多，直到仇志才第三次追问，他才松口说“我试试吧”。 “在2014年开始关注和参与人权律师的工作时，看到他们在冲锋陷阵，我就想到这些人有一天会进去，那时候我就暗暗下定决心，等到他们都进去了，我就一定要站出来，”文东海解释自己最终愿意“试试”的原因。</p>
+<p>仇志才多年来曾与许多位维权律师交好，但最终愿意在此事挺身出手的律师并不多。仇志才说，几个原先一直热络讨论维权事务的群组，在709之后，都自动转换频道谈论起风月和生活了，“有人说律师要‘保留力量’，还有人说周世锋就是太高调惹祸” 。他只好想办法凝聚起更小规模的关注，他说，阻击恐惧才是人权律师存在的意义。</p>
+<p>虽然艰难组建，但“7.09”家属提到辩护律师团都是满满的感激，樊丽丽说：“家属是没有办法，自己的家人被抓，理所当然要站出来，但律师们是很难得的，当时全国一片恐惧，他们本来可以明哲保身。”</p>
+<p><strong>“离开梳妆打流氓”的家属团</strong></p>
+<p>2016年6月6日，“7.09案”警方第二次侦查延长期届满前两天，王峭岭和李文足、翟岩民妻子刘二敏一同，在管辖“7.09案”的天津市检察院二分院的举报中心门前，举起写有“和平支持你”、“全璋相信你”、“老翟等你”的红色水桶拍照，被天津挂甲寺派出所带走。</p>
+<p>“红桶”的创意来自李文足，她酝酿要在天津“举牌”已经一段时间了，又考虑到风险想换个形式，加上觉得红色是显眼又像征积极乐观的颜色，李文足和王峭岭开始留意各种红色的物品，直到有一天她们在街市上看到了红桶──便宜、面积大、方便写字，于是家属们津津乐道的“7.09家属同款”、“今夏最潮水桶包”就这样诞生了。</p>
+<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d83e6ceca23440f5ba95e49e889da2b1.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d83e6ceca23440f5ba95e49e889da2b1.jpg?resize=585%2C390" alt="d83e6ceca23440f5ba95e49e889da2b1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d83e6ceca23440f5ba95e49e889da2b1.jpg?w=1080 1080w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d83e6ceca23440f5ba95e49e889da2b1.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d83e6ceca23440f5ba95e49e889da2b1.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d83e6ceca23440f5ba95e49e889da2b1.jpg?resize=1024%2C683 1024w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>王全璋太太李文足及其兒子。摄：LeicaMen</span></p></div>
+<p>“在里面的时候，有一个警察拿了物品扣押单过来让我签字，说因为这个桶是‘作案工具’要扣留，我当时就笑喷了，笑了十多分钟，”李文足想起此事仍禁不住大笑。</p>
+<p>“我这次一进派出所，就希望能呆满24小时，上次呆了5个多小时，他们说还不够时间发新闻呢，所以这次的24小时是我祈祷出来的！”王峭岭兴奋地说。她口中的“上次”是5月20日，她驱车1000多公里到内蒙古乌兰浩特看望王宇被软禁的儿子包卓轩，被当地警方拦截并羁押。</p>
+<p>王峭岭坦言，现阶段她就是希望家属们的行动能不断唤起人们对“7.09案”的关注。这次挂甲寺派出所的24小时，确实引发了“7.09案”的辩护律师纷纷驰援天津，在派出所守候并直播进展，让此事在国内社交媒体上有了一定程度的传播。但平日由于官方的信息封锁和旁观者的自我审查，与“7.09案”有关的信息在中国的能见度非常低。</p>
+<p>这次被警方带走，是李文足的“派出所初体验”，她和王峭岭出来后将过程中的搞笑事总结成《本届家属“七个不行”》，还做成小视频在社交媒体传播。其中一个是“本届家属表情不行”，“在派出所里有个警察说：‘你这表情太高兴了，你这哪像想念你老公？’我说：‘那应该怎么样？是不是应该整天以泪洗面、愁眉苦脸的？这我不太会，要不你给我表演一下？’”李文足在视频里说得欢乐。</p>
+<p>她没有告诉警察的是，在王全璋被抓后的整整6个月，她确实是每天以泪洗面。</p>
+<p>小城女孩李文足，24岁那年为了逃避逼婚，跟朋友跑到北京找工作，偶遇了33岁但不怎么会谈恋爱的王全璋。一年多后的2011年春天，李文足与出差频繁的王全璋还没足够时间相处了解，就被他父母“赶鸭子上架”地结了婚。到这时她都不太了解他的工作，只是觉得“律师”是个受人尊敬的好职业，而他是个值得信赖的好人。</p>
+<p>2013年4月，儿子王广微出生不到半年，王全璋代理的法轮功案件在浙江省靖江市开庭，庭审结束后王全璋却被法官下令带走，以“违反法庭秩序”拘留10日。当时的李文足因丈夫突然失去音信心急如焚，用王全璋留下的手机登录他的微博才发现出了这么大的事，于是她开通自己的微博继续关注此事。 3日后，王全璋在律师、公民的关注压力下被提前释放。</p>
+<p>“我就是靖江的时候才注册微博，加这些律师，加他的公民朋友，我才知道原来这个社会是这么黑暗的。我之前的生活真的很简单，根本想不明白为什么做律师会被抓。”李文足说，她在靖江事件后通过微博短暂地关注过一些时政信息：“看了一段时间我就不看了，我受不了，太黑暗了，全璋还可以去做一些事情，我无能为力，所以我就选择逃避。”</p>
+<p>后来王全璋因“7.09案”被抓，“我除了哭就没有别的。”</p>
+<p>2015年8月初，李文足带着王广微第一次到天津寻人，在预审大队巧遇了王峭岭。她走过去自我介绍，刚开口说了两句话就哭了出来，“我见到她，我觉得我们的遭遇是一样的，忍不住就哭了，”李文足说。</p>
+<p>王峭岭记得当时的李文足：“状态很差，满脸愁苦，眼神呆滞，连王广微都是这样。”于是王峭岭伸出手要抱妈妈怀中的王广微，让李文足惊讶的是，一向怕生的王广微张开手让王峭岭抱了过去，还亲了亲她。王广微后来一直叫王峭岭“王妈妈”。</p>
+<p>这次见面之后，在野靖环和仇志才的鼓励下，王峭岭开始邀李文足一起发声和行动。当时住在王全璋山东老家的李文足，在王峭岭建议了三四次之后来到北京，俩人连续十多天前往全国律师协会要求关注和介入。</p>
+<p>尽管对律协的诉求石沉大海，但这成了“7.09”家属联合行动的开始。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8f335ae8a0e14ffc9680deb5c896c9c9.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8f335ae8a0e14ffc9680deb5c896c9c9.jpg?resize=585%2C390" alt="谢阳太太陈桂秋及其女儿。摄：LeicaMen" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8f335ae8a0e14ffc9680deb5c896c9c9.jpg?w=1080 1080w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8f335ae8a0e14ffc9680deb5c896c9c9.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8f335ae8a0e14ffc9680deb5c896c9c9.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8f335ae8a0e14ffc9680deb5c896c9c9.jpg?resize=1024%2C683 1024w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>谢阳太太陈桂秋及其女儿。摄：LeicaMen</span></p></div>
+<p>李文足形容自己这下是“离开梳妆打流氓”：“一个人就孤孤单单的，觉得自己什么都不懂，有人一起，你的精神状态、心里想法都不一样，斗志就起来了。”王峭岭也说，李文足对于她也一直是重要的安慰和支撑：“虽然文足总是说自己这个不行那个不行，但一开始就是我们两个人，如果没有她，我们‘7.09’家属根本就不成群。”</p>
+<p>这一次律协行动之后，王峭岭和李文足想到应该把更多的“7.09”家属聚在一起，她们首先找到的是曾起诉新华网的原珊珊，和公开发表过文章的樊丽丽。</p>
+<p>王峭岭和李文足一起去参加了樊丽丽为关押中的戈平办的生日会，李文足的印像中丽丽与她们一拍即合：“其实她也想去做，就是没有一个方向，不知道怎么去做，就跟我一开始一样。”</p>
+<p>相对而言，原珊珊一开始显得疏远冷淡。王峭岭记得第一次敲开她家门的时刻：“我们问‘这是原珊珊家吗？’她说，不是。我们又问‘是谢燕益家吗？’她才说是，开了门，让我们进去了。她开了门我们才发现她大着肚子。”她们几次约她一起去天津，她都没有答应。原珊珊后来说，当时谢燕益的家人觉得要对官方态度好、不要闹，尽管有律师建议她抗争，但她在情感上更依赖家人，也相信他们。</p>
+<p>王峭岭则很理解：“如果一开始就只是为了达成什么目标，就一定会觉得挫败，但如果就是想去关心她、跟她接触，担心她一个人孤单，被欺负，问一问要不要一起，出发点是把爱和信心传出去，那我就可以放下那种挫败的不满。”</p>
+<p>春节期间，王峭岭自己驾车，从北到南又自南向北，跑了数千公里，将她能找到的“7.09”家属都看望了一遍。身为基督徒的她说，宗教生活中的信念和经验也在帮助她处理家属工作中的挫折，“我在锻炼凡事感恩，如果家属折腾来折腾去就两三个人，我就说‘感谢主，有两三个人就不错了。’”</p>
+<p>樊丽丽觉得，自己在这一年来最大的震撼就来自于王峭岭。她说起这样一个时刻：有一天她中午12点多看到王峭岭两个小时前发的信息，说在天津看守所送物品，问有没有家属想一起过来。樊丽丽回复说自己现在过去，问王峭岭是否等她，王峭岭说等。近两小时后，当樊丽丽赶到看守所，她看见王峭岭独自在车里睡着了。 “我觉得她很累，孤孤单单的，”樊丽丽说，“我就想到我们有什么难过可以跟她说，她是我们的精神支柱，但是她难过的时候要去找谁呢？”</p>
+<p><strong>“如果只盯着自己的丈夫是不是能释放，这是我们的失败”</strong></p>
+<p>在家属团和辩护律师团都初步成型的情况下，2015年12月上旬，他们发起了一系列联合行动。</p>
+<p>12月4日，中国宪法日，近40名家属和律师在河南举办了“7.09大抓捕”研讨会，会上决议要联合控告公安部；12月9日，64名“7.09”家属和辩护律师发布致全国人大常委会和国家主席习近平的公开信，并联署控告公安部并要求停止对民间的打压；12月9日、10日，多名“7.09”家属和辩护律师相约前往天津，集体要求保障会见权；12月10日，世界人权日，中国人权律师团发出声明，针对“7.09案”呼吁有关部门履行监督职责，保障被羁押者的权利。</p>
+<p>他们的行动，本是希望在1月8日的“指定地点监视居住”期满之前，给官方制造压力，希望能为“7.09案”带来转机。然而，1月8日之后几天，各个被捕者的逮捕通知书还是如期而至。</p>
+<p>之前“哭了6个月”的李文足在收到王全璋涉嫌“颠覆国家政权”的逮捕通知书时，并没有像自己过去想像的那样伤心崩溃，“我心里面反而有了一个转变，我们可能没办法改变结果，但是只要是我现在能做的，我就一件不落地去做，坚持下去，”她说，“如果可以选择的话，我就想过最简单的小日子，但这个环境，让每个人都没有选择。”</p>
+<p>谢燕益的逮捕通知书也送达了。在2016年的2月中旬，原珊珊还有两周就到预产期，她独自去天津要求取回被查抄的户口本，遇到了组团前来的其他家属和律师。接待的警察告诉原珊珊户口本没申请下来，家属们就帮腔让警察再打电话申请，警察让原珊珊等着，家属们就催警察去追问请示。</p>
+<p>原珊珊回忆说：“当时觉得我们真的是感同身受的，起码觉得不孤单。我有时候还要自己坚强，别哭别哭别哭，结果没等我哭呢，文足就哭了，峭岭也说‘你们不给我任何东西都行，一定要给原珊珊’。”家属们催着接待警察请示了三四次后，原珊珊终于拿到了她之前已经要求了许多次的户口本。她从此也与其他家属们，走得近了一些。</p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/271814f405ab4ad7b1d72cb4f7f247cf.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/271814f405ab4ad7b1d72cb4f7f247cf.jpg?resize=585%2C390" alt="勾洪国太太樊丽丽及其儿子。摄：LeicaMen" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/271814f405ab4ad7b1d72cb4f7f247cf.jpg?w=1080 1080w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/271814f405ab4ad7b1d72cb4f7f247cf.jpg?resize=300%2C200 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/271814f405ab4ad7b1d72cb4f7f247cf.jpg?resize=768%2C512 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/271814f405ab4ad7b1d72cb4f7f247cf.jpg?resize=1024%2C683 1024w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>勾洪国太太樊丽丽及其儿子。摄：LeicaMen</span></p></div>
+<p>1月8日之后的几个月，仇志才和王峭岭开始认为，“7.09”的救援需要“战略转变”。 “逮捕通知书下来的时候，辩护律师们一片悲观，老仇就说，如果这个时候国际社会的介入力度不够大，那这个案子就是铁案，”王峭岭说，所谓“铁案”就是被抓的大多数人都被判重刑。由此，他们的战略重点从对国内有关部门施压，转向国际游说。</p>
+<p>“7.09”家属随即主动邀约联合国、欧盟、美国及欧洲主要国家的人权和外交官员会面，介绍“7.09案”的情况和影响，也积极接受国外媒体采访，希望国际社会动用外交和舆论压力，让中国官方有所忌惮。</p>
+<p>在今年3月的联合国人权理事会全体会议上，联合国高级人权专员在年度讲话中表达了对中国去年7月以来对律师大规模打压的担忧，并呼吁中国释放所有律师及维权人士；美国驻联合国代表随后在会议上代表英国、德国、日本、瑞典等12个国家宣读联合声明，谴责中国逮捕律师和人权活动者的行为，并强调被捕人士遭受的待遇违背法律和国际准则；今年5月，美国国会举行了关于中国的政治管控的听证会，王峭岭、李文足和原珊珊代表“7.09”家属以视频形式在听证会上发言，指控当局对“7.09”家属的管制和威胁。</p>
+<p>连串罕有的国际关切之下，习近平4月赴美出席核安全会议的同期，锋锐律师事务所实习律师李姝云，和李和平反酷刑项目的助理高月，在已被逮捕的情况下以“取保候审”获释。</p>
+<p>多名辩护律师都认为，在“7.09”这样的高级别政治案件中，家属的积极发声和行动，对维持案件的舆论压力和国际关注至关重要。相较之下，作为辩护律师反而是举步维艰：办案单位以此案属“危害国家安全”类案件为由，不准许律师会见，“7.09”至今，20多名被捕者无一人曾会见过家属指定的辩护律师。而在逮捕通知书送达之后，警方称被捕者在关押中自行聘请了其他辩护律师，家属聘请的律师们纷纷遭遇“解聘”，这意味着，即使该案进入起诉阶段，检察院也可以向拒绝“被解聘”律师介绍案情、出示案卷和其他证据；即使该案开庭，“被解聘”律师也不可能出庭辩护。甚至，此案开庭的消息外界都未必能够知晓，法院可以声称已通知“当事人聘请”的律师，而不另行通知家属。</p>
+<p>尽管知道丈夫获释的希望渺茫，尽管有时面对不理解状况的外国官员“天真”的提问，她也会感到无奈，但王峭岭尽量积极地参与“7.09案”的国际游说，在这个过程中她对现实有了新的看法，“如果我们家属今天只盯着自己的丈夫是不是能释放，一听要被判刑就崩溃了，这是我们的失败，”王峭岭说，“7.09”家属应该要认识到：“判不判刑很重要，但更严重的是中国正在全面走向专制。”</p>
+<p>“7.09”事件发生后，其突出特征“大规模同时抓捕”、“官媒揭批报导”、“当事人电视认罪”、“解聘律师或声明不聘请律师”几乎成为政治案件标准配置，在温州教堂案、劳工NGO案、铜锣湾书店案等均有运用。资深政治分析者、维权律师滕彪认为，“7.09案”是政治打压的“国安模式”正式形成的标志：2015年7月1日《中华人民共和国国家安全法》通过并立即实施，8天后“ 7.09”发生。</p>
+<p>“这才是可怕的地方，这就意味着，即使我老公出来了，还有下一个口袋在等着他，因为整个中国沦陷了，”王峭岭说，相比案中人的营救，更重要的，是让国际社会认识到问题的严重性。</p>
+<p><strong>“‘7.09’成就了我”</strong></p>
+<p>2016年5月中旬那两周，李文足不时地伤心流泪，但这次不是因为王全璋，而是因为“7.09”家属们组织了与毒疫苗受害妈妈们共度母亲节的活动，活动之后，李文足难过得几个晚上没睡着觉。</p>
+<p>“那天有两个孩子刚好跟泉泉（王广微小名）差不多大，而且有一个跟泉泉长得很像，很可爱和很聪明的两个孩子，”她说，“你就这么看，看不出来什么，但他们就因为毒疫苗残疾了，而泉泉在旁边活蹦乱跳的。”她一直觉得后悔，是不是不应该带着王广微去，不知道疫苗妈妈们看着会不会难受。</p>
+<p>这个母亲节活动由樊丽丽负责订场地买礼物，李文足负责包扎花束，王峭岭负责联络张罗，为六对毒疫苗受害孩子和妈妈举办了聚餐活动。活动之后几位“7.09”家属都感慨，疫苗家长的处境比自己还要艰难许多。</p>
+<p>这是“7.09”家属团为其他公共事件的受害群体办的第一个正式活动。在此之前，王峭岭自发探访过唐荆陵的太太汪艳芳，为被法院拘留的野靖环做过声援，“7.09”家属的“相互关爱群”也逐渐纳入了其他政治案件受害者的家属。</p>
+<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68e0bfbc7d864c9b83774564f3521e11.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68e0bfbc7d864c9b83774564f3521e11.jpg?resize=585%2C390" alt="翟岩民妻子刘二敏。摄：LeicaMen" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68e0bfbc7d864c9b83774564f3521e11.jpg?w=1080 1080w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68e0bfbc7d864c9b83774564f3521e11.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68e0bfbc7d864c9b83774564f3521e11.jpg?resize=768%2C512 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68e0bfbc7d864c9b83774564f3521e11.jpg?resize=1024%2C683 1024w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>翟岩民妻子刘二敏。摄：LeicaMen</span></p></div>
+<p>“可能对律师们来说，他们觉得你关心一个热点，能把‘7.09’带上热点，这是他们从营救的角度来讲，”王峭岭说到，一开始有律师问她想不想跟疫苗家长接触，正是“毒疫苗”争议最热的时候：“但是对我来讲，很本能的东西就是人不能只停留在自己里面，如果一个人能在自己痛苦的时候看见别人，他就会发现自己的灾难不算什么。”</p>
+<p>“如果人只考虑自己，那么这个体制很轻松就让你绝望了，”王峭岭说，“现在它不就希望每一个人只顾自己吗？”</p>
+<p>“以前看到这些事情，很难受是很难受，但还是睁一只眼闭一只眼，以后我恐怕很难这样。”李文足如今有了切身的体会和抗争的经历，“我现在觉得我可以做一个有用的人了，我就开始想可以为她们做什么。”她说起自己原来的生活，丈夫总是在外奔忙，一会儿失联了一会儿被打了，而自己就在家带孩子，担惊受怕又无能为力，她本来觉得自己快要得抑郁症了，“‘7.09’改变了我。”李文足说。樊丽丽也说了类似的话：“感谢戈平，如果不是他我就不会遇到‘7.09’，‘7.09’成就了我。”</p>
+<p>原珊珊在美国国会视频作证之后，对公开发声越来越认可，“我觉得起码要不后悔。”她认为，这一段的经历无论对于她、孩子还是谢燕益，都是宝贵的历练。原珊珊说，如果谢燕益判刑，她打算成为一名游说家：“要让更多人知道现在的社会是怎样的。”</p>
+<p>“如果别人遇到这样的事，我们这群家属肯定第一时间就去了，”原珊珊说，“我会特别想去安抚她、帮助她，给她说说我的故事。”</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/7-09%E5%AE%B6%E5%B1%9E%EF%BC%9A%E4%BB%8E%E5%8F%97%E9%9A%BE%E8%80%85%E5%88%B0%E8%A1%8C%E5%8A%A8%E8%80%85%E7%9A%84%E4%B8%80%E5%B9%B4%E8%B7%8B%E6%B6%89/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">709事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%A0%E5%A4%AB%E5%90%B4%E6%B7%A6/?category=18271" rel="tag">屠夫吴淦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%92%8C%E5%B9%B3/?category=18271" rel="tag">李和平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%BB%E7%A3%95%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">死磕律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%85%A8%E7%92%8B/?category=18271" rel="tag">王全璋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%AE%87/?category=18271" rel="tag">王宇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%96%E6%B5%81%E6%94%BE/?category=18271" rel="tag">祖流放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%94%8B%E9%94%90%E5%BE%8B%E5%B8%88%E4%BA%8B%E5%8A%A1%E6%89%80/?category=18271" rel="tag">锋锐律师事务所</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%AD%E5%85%B1%E8%A6%81%E6%B1%82%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%81%9A%E5%A5%BD%E9%AB%98%E6%A0%A1%E5%85%9A%E5%A4%96%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%BC%95/" target="cdt-mirror">中共要求进一步做好高校党外知识分子思想政治引导工作</a>
 </h2>
 <p><p>【编者注】这份通知来自中共教育部党组，发表于2016年7月7日。通知中的要求包括“推动”习近平在共产党成立95周年大会讲话的精神“进教材、进课堂、进头脑”，要“进一步做好高校党外知识分子思想政治引导工作”等。</p>
@@ -528,85 +690,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8D%97%E4%BA%AC%E5%B8%82%E7%8E%84%E6%AD%A6%E5%8C%BA%E5%89%AF%E5%8C%BA%E9%95%BF%E6%91%86%E6%8B%8D%E6%8A%97%E7%81%BE/" target="cdt-mirror">【图说天朝】南京市玄武区副区长“摆拍”抗灾</a>
-</h2>
-<p><p>南京市玄武区副区长苏郑近日被拍到作秀摆拍。在网民曝光的照片中，她坐在由一群武警保护的充气皮艇上，手指前方，旁边有一位助手为其拍照：</p>
-<blockquote>
-<div><a href="http://weibo.com/u/1755375261" target="_blank">@大尉张</a><a title="2016-07-07 12:08" href="http://weibo.com/1755375261/DDGlmDmWL?from=page_1005051755375261_profile&wvr=6&mod=weibotime" target="_blank" name="3994575649383003"></a><a><span>：</span></a>南京玄武区副区长苏郑，坐在艇上的是她吗？</div>
-</blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mhj5ptj20m80goq4o.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mhj5ptj20m80goq4o.jpg?resize=525%2C394" alt="68a0e69dgw1f5l7mhj5ptj20m80goq4o" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mhj5ptj20m80goq4o.jpg?w=800 800w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mhj5ptj20m80goq4o.jpg?resize=300%2C225 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mhj5ptj20m80goq4o.jpg?resize=768%2C576 768w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1217209464/DDGoL65tT" target="_blank">@张宏杰</a>：玄武区委常委、区政府副区长苏郑同志指挥抗灾。</p>
-<p>@Scandisk_N：大家不用担心，后期制作会把武警p掉的。</p>
-<p>@李言杰：八抬大轿加跟班，就差一个华盖了。</p>
-<p><a href="http://weibo.com/liupengxu1993" target="_blank">@春天有点萌</a>：<img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1">大家不要惊慌，这是给河伯的祭品，有了她，水很快就会退了<img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1"><img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1"><img title="[哆啦A梦吃惊]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/f0/dorachijing_org.gif" alt="[哆啦A梦吃惊]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/n/%E8%A2%81%E8%85%BE%E9%A3%9E?from=feed&loc=at" target="_blank">@袁腾飞</a>: 离任的时候一定有万民伞！<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"><img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p>
-<p>@行形摄色1981：大水苍苍，百姓遭殃。有位佳人，坐在船帮。随从拍摄，警察四方。不慌不乱，稳稳当当。救灾不行，作秀夸张。救灾不力，只会乔装。不像巡查，倒像观光。</p>
-<p>@Super暱名帳戶30：李都下水了你居然亦可賽艇</p>
-<p>@山虎虎:这明明是条船，为什么一定要下水推呢？</p>
-<p>@Zz这样吧：带着保镖出来划船</p>
-<p>@顾溆赜：轿子换成了皮筏，家丁换成了武警，吹鼓手换乘了照相机。</p>
-<p>@失望的农夫：我操！加个莲花座就像观音下凡指导救灾了。</p>
-<p>@Tonyisfat:当时领导已经连续三天未合眼指挥救灾，并发着75度高烧。但仍坚持去现场指挥。大家劝说无效的情况下才派出一个连的武警推气垫船护送。同船的医生用相机记录了这感人的一幕。请大家不要信谣传谣，多关注正能量。</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mgylu8j20xc1hch02.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mgylu8j20xc1hch02.jpg?resize=450%2C720" alt="68a0e69dgw1f5l7mgylu8j20xc1hch02" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mgylu8j20xc1hch02.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mgylu8j20xc1hch02.jpg?resize=188%2C300 188w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/68a0e69dgw1f5l7mgylu8j20xc1hch02.jpg?resize=640%2C1024 640w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8D%97%E4%BA%AC%E5%B8%82%E7%8E%84%E6%AD%A6%E5%8C%BA%E5%89%AF%E5%8C%BA%E9%95%BF%E6%91%86%E6%8B%8D%E6%8A%97%E7%81%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%91%98%E4%BD%9C%E7%A7%80/?category=18271" rel="tag">官员作秀</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%96%E4%BB%AC%E9%80%A2%E7%81%BE%E5%BF%85%E7%85%BD%E6%83%85%EF%BC%9F/" target="cdt-mirror">唐映红 | 心理学问答：为什么他们逢灾必煽情？</a>
-</h2>
-<p><p><strong>问：为什么他们逢灾必煽情？</strong></p>
-<p>答：今年夏天南方的暴雨又导致若干城市成为“泽国”。其中最为严重的<strong>武汉市</strong>，内涝加上外洪，<strong>整个城市几乎陷入瘫痪。</strong></p>
-<p>可以这么说，像<strong>今年度南方的洪涝灾害，一分天灾，九分人祸。</strong>抛开导致人祸历年难消不论，在今年度救灾的宣传报道中，他们再次大幅渲染救灾官兵的“<strong>悲情</strong>”。那些参与救灾抢险几十个小时不眠不休极度劳累的年轻战士；在滂沱大雨中啃冷馒头的年轻战士；手脚被水泡到变形的年轻战士；……。数十年来，<strong>这些“熟悉”的套路几乎在每一次遭遇公共灾害时，都成为了他们宣导的标配。</strong></p>
-<p>事实上，随着中国经济的高速发展，迄今本朝已然成为世界上GDP排名第二的牛哔国家。因此，在和平时期军队参与抢险救灾是相比于战争状态要安全和从容得多的任务，<strong>后勤保障完全可以轻松应对。</strong>如果抗洪抢险的任务都让士兵“悲情”到令五岁儿童都恨不得把攒的零花钱贡献出来给年轻的士兵叔叔买一双手套，买一盒热米饭的话，那本朝的军队的建设就太迹近儿戏了。</p>
-<p>那么，为什么他们要在救灾中毫无节操地一如既往地打“悲情”牌？</p>
-<p>从心理学角度，<strong>煽情是能迅速模糊焦点，转移注意力，并压制理性质疑的有效方法。</strong>面对年复一年的“人祸”假“天灾”而戕害民众，民众对权力集团的社会治理能力的质疑必然越来越重。因此，通过无节操的煽情，刻意夸大，甚至摆拍救灾官兵的“悲情”镜头，能够<strong>迅速地吸引大多数民众的注意力，从而理性的质疑就很容易被冲淡。</strong></p>
-<p><strong>煽情的本质是诉诸人们的情绪感受，而人性中与生俱来就有着对他人遭受痛苦和磨难的怜悯之情。</strong>因此，当我们看到有他人遭受痛苦和磨难，而且还是在为了灾民而奉献自己的情境中，我们大脑中的镜像神经系统会自动地被激活，唤起我们<strong>怜悯</strong>的感受，在心理学里这就是“<strong>共情</strong>”的生理机制。</p>
-<p>一旦情绪系统被激活，我们感受到明显的情绪反应时，我们的注意力就会自然而然地被身体的这种情绪内刺激所吸引，从而减少对其他事项投入的注意和认知资源。换言之<strong>，他人的“悲情”相比于需要理性思考的事项，具有感知显著性，会迅速地吸引注意力，并成为认知和关注的焦点。</strong></p>
-<p>举个例子。当你因为种种原因与他人发生争执，公说公有理，婆说婆有理，谁也说不服谁。如果此时，对方（假如是个弱女子）开始流泪示弱，你多半就会动摇自己的立场，甚至会因为心软而放弃自己的主张。这也就是为什么<strong>许多骗子会利用儿童、残障人士、老人、柔弱女性的“悲情”来行骗而屡试不爽的心理原因之所在。</strong></p>
-<p><strong>相对于情绪系统对他人“悲情”的高效、快速和强烈的自动激活，理性地质疑公共灾害背后的管理责任则是一件相当困难的事情。</strong>后者需要依靠大脑皮层的复杂加工过程，<strong>仰赖于个体的知识、经验和价值判断维度的取舍。</strong>像今年度洪涝这样的公共灾害，往往交织了太多的复杂多维因素的影响，既有偶然性因素，又有必然性因素；既有情境性因素，又有特质性因素。<strong>只有在横向与国外的比较，以及纵向的与历史的比较中，才可能凸显出公共灾害背后的“人祸”因素。</strong>所以，<strong>理性地质疑既要基于个体的知识和经验背景，以及建立在价值判断维度取舍上的问责动机；显然大多数民众并不具备清晰的理性质疑的能力。</strong>因此，他们即使有模糊的怀疑，也很容易被眼前通过官媒大幅渲染的“悲情”所吸引和转移。</p>
-<p>因此，<strong>在遭遇公共灾害时，通过精心布置的煽情，是控制和引导舆论有效的一种途径和方式。既能将民众的注意力吸引到无所不用其极的“悲情”画面中，同时又能借助这种民众对“悲情”的天然敏感性而加以宣传引导，使之成为舆论的主流</strong>。相对地，<strong>那些“一小撮”“别有用心”的人士所试图进行的理性质疑就不再具有号召力，而且还会被沉浸在“感动”中的广大民众所反感、排斥甚至抵制。</strong></p>
-<p>只是，逢灾必煽情在灾害年复一年不见改善的社会语境下，舆论控制和引导的效果也日渐下降。<strong>为了达到和维持到足够的煽情力度，他们必须越来越不顾节操和常识地滥情煽动，在越来越多的民众知识和经验范围内也越来越有“违和感”</strong>。</p>
-<p>话又说回来，<strong>逢灾不煽情对他们来说实在是强人之所难</strong>。在他们连一个城市的排水系统都搞不掂的社会语境下，<strong>他们根本就</strong><strong>没有能力，也没有任何经验、动机来妥善应对民众的理性质疑。</strong>在互联网时代，舆情控制对权力集团而言是一件极其棘手的事情，即使在开放的国家和社会也同样具有极大的挑战性。因此，<strong>当他们觉得通过煽情还能够有效控制和引导舆论时，他们就不必关闭互联网。</strong>从这个角度而言，有些知识人殚精竭虑呼吁民众不要“激怒”他们，也就不难理解。</p>
-<p>最后，向那些原本完全可以不必在抗洪抢险中那么“悲情”的年轻士兵们<strong>致敬！</strong></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%96%E4%BB%AC%E9%80%A2%E7%81%BE%E5%BF%85%E7%85%BD%E6%83%85%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B0%8F%E6%92%AE/?category=18271" rel="tag">一小撮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%B5%81/?category=18271" rel="tag">主流</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E5%88%A4%E6%96%AD/?category=18271" rel="tag">价值判断</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%95%E5%AF%BC%E8%88%86%E8%AE%BA/?category=18271" rel="tag">引导舆论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%83%85%E7%BB%AA/?category=18271" rel="tag">情绪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%AE%B3/?category=18271" rel="tag">洪涝灾害</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E6%83%85/?category=18271" rel="tag">煽情</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E6%B2%BB%E7%90%86/?category=18271" rel="tag">社会治理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">舆论控制</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A9%E6%B4%A5%E7%A7%B0%E5%B7%B2%E5%90%8C%E6%84%8F%E8%B5%B5%E5%A8%81%E5%8F%96%E4%BF%9D%E5%80%99%E5%AE%A1-%E9%80%9A%E6%8A%A5%E6%9C%AA%E6%8F%90%E5%8F%8A%E6%8A%93%E6%8D%95%E7%BD%AA%E5%90%8D/" target="cdt-mirror">天津称已同意赵威取保候审 通报未提及抓捕罪名</a>
-</h2>
-<p><p>中国时间2016年7月7日，天津市公安局官方微博发布“情况通报”称，考拉“对自己涉嫌违法犯罪的事实供认不讳且态度较好”而被批准取保候审。但官方闭口不谈最初拘留赵威的罪名——“煽动颠覆国家政权罪”。</p>
-<blockquote><p><a href="http://weibo.com/3163782211/DDFXCw5Ou" target="_blank">@平安天津</a>：#情况通报# 赵威，网名考拉，女，24岁，河南省济源市人，因涉嫌违法犯罪于2015年被依法采取刑事强制措施，后经检察机关依法批准逮捕。鉴于赵威对自己涉嫌违法犯罪的事实供认不讳且态度较好，经本人申请，公安机关同意变更刑事强制措施为取保候审。</p></blockquote>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A5.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A5.png?resize=525%2C405" alt="平安天津" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津.png?w=1808 1808w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津.png?resize=300%2C232 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津.png?resize=768%2C593 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津.png?resize=1024%2C791 1024w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a><p><span>@平安天津 微博截图</span></p></div>
-<blockquote><p><strong>相关专题</strong>：<a href="http://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/" target="_blank">考拉赵威</a></p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005PPibGjw1f5l86bxmhjj30hl0gk757.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005PPibGjw1f5l86bxmhjj30hl0gk757.jpg?resize=400%2C377" alt="005PPibGjw1f5l86bxmhjj30hl0gk757" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005PPibGjw1f5l86bxmhjj30hl0gk757.jpg?w=633 633w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005PPibGjw1f5l86bxmhjj30hl0gk757.jpg?resize=300%2C282 300w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>网络图片</span></p></div></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>白眼圈猫熊：什么罪？这个关键信息都不说的？这个通告差评。</p>
-<p>范shion0：真你妈不要脸了，什么罪名？</p>
-<p>律师姬来松：考拉，河南的骄傲！勇敢坚强，敢作敢当！</p>
-<p>悠然苍茫：一个手无寸铁的弱女子居然能够颠覆你们这个拥有几百万海陆空军加上核武器的政权，对了，你们也有数之不尽的警察辅警城管等维稳力量，你们怕什么？</p>
-<p>火星人西山客：犯什么事了？什么罪？这通报太中国特色了吧</p>
-<p>冬冬枪枪：呵呵。说说这姑娘干了啥罪大恶极的事情让广大网友批判一番嘛</p>
-<p>做乜野好咧：最怕黑社会没信仰还不要脸</p>
-<p>遥望飞鹰：态度好取保？态度不好就关着？</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E8%AF%84%E8%AE%BA.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E8%AF%84%E8%AE%BA.jpg?resize=500%2C525" alt="@平安天津 相关微博热门评论截图" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉评论.jpg?w=1804 1804w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉评论.jpg?resize=285%2C300 285w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉评论.jpg?resize=768%2C807 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉评论.jpg?resize=974%2C1024 974w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@平安天津 相关微博热门评论截图</span></p></div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A4%A9%E6%B4%A5%E7%A7%B0%E5%B7%B2%E5%90%8C%E6%84%8F%E8%B5%B5%E5%A8%81%E5%8F%96%E4%BF%9D%E5%80%99%E5%AE%A1-%E9%80%9A%E6%8A%A5%E6%9C%AA%E6%8F%90%E5%8F%8A%E6%8A%93%E6%8D%95%E7%BD%AA%E5%90%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -628,5 +711,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

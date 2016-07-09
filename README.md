@@ -21,9 +21,105 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8F%B6%E6%B5%B7%E7%87%95%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E8%80%83%E6%8B%89%E7%9A%84%E9%82%A3%E5%B0%81%E4%BF%A1%E5%85%BC%E7%A5%9D%E8%B4%BA%E8%80%83%E6%8B%89%E9%87%8D%E8%8E%B7%E8%87%AA%E7%94%B1/" target="cdt-mirror">叶海燕：如何看考拉的那封信兼祝贺考拉重获自由</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-%E4%B8%8B%E5%8D%884.11.02.png?resize=321%2C426" alt="考拉赵威" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午4.11.02.png?w=321 321w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午4.11.02.png?resize=226%2C300 226w" sizes="(max-width: 321px) 100vw, 321px" data-recalc-dims="1"><p>考拉赵威</p></div>
+<p data-addevent="1">首先想告诉大家一个好消息，阳逻今天一天没怎么下雨了。接下来的几天，也许天都会放晴。大部分武汉人躲过了一劫。领导们应该松了口气，吓死宝宝了。但是灾后会不会清算贪官，那就不知道了。</p>
+<p data-addevent="1">今天看到天津发出了考拉被获取保候审的通告，心里有些意外。</p>
+<p data-addevent="1">有两种猜测：一是估计709案件走进死胡同了。没有捞到什么干货，反而<strong>又</strong>整出一个国际,国内都一片怨恨的荡手山芋揣在怀里。老大哥终于机智地认识到，自己又一次掉进了为敌人准备的陷阱里。接下来，政务繁忙，党内整肃是大事。搞这个没有意义的709，反而把自己困住了。白白分散精力，又惹出不少多余的事。比如最近709家属又站出来，妻子要老公，孩子要爸爸。再搞下去实在得不偿失。</p>
+<p data-addevent="1">第二个原因是，老大哥已经认识到自己的不足，即使没有和平转型的意向，在心里，也要默许民众渴望和平转型的合理性。因此，打算陆续把709的人，找些原因放了，挽回些失去了民心。跟民间及早修复一下这种尖锐的对立关系。否则，接下来的路，共都说不好怎么走，树敌太多，怕是不好搞。</p>
+<p data-addevent="1">如果我是个掌权者，我会这样考虑问题。可问题上我不是他们，他们是特殊材料做成的。没有办法去猜测。</p>
+<p data-addevent="1">但我们只知道一事就好，考拉能出来，实在不容易！这等于是，老虎嘴里掉出来的肥肉。</p>
+<p data-addevent="1">跟随着通告不久之后发出来的是考拉的一篇文章，这篇文章引起了自由派非常激烈的争议。我想就这封公开信发表一下自己的看法。</p>
+<p data-addevent="1"><strong>1、不要对一个没有获得完全自由的人的行为去做任何道德评判。这是在康德那里学来的。</strong></p>
+<p data-addevent="1"><strong>2、文章中的亮点是，告知了大众，李和平所从事的工作是推动中国政治的和平转型，这是改良派一直在做的事情。是可以公开讲的。在民意上，是站得住脚的。至于境外资金，那不是个事儿。</strong></p>
+<p data-addevent="1"><strong>3、考拉的文章肯定是经过体制内之手润色过的，或者是审查过的。他们具有这方面的高水平。虽然是一句对于自由派来说，政治正确的话，可经他们稍微一改动，就可以化神奇为腐朽，狮子王立马变乖乖狗。瞬间可以把一个人的气节给全毁了，字面的意思也全给变动了。我在做笔录的时候，有过这样的经历。虽然表面上看，意思没错，可就是不是那个味道。可我也懒得计较了。“得了，就这样吧！”因此，去揣摩考拉那封信没什么意义，那种文风，不是受过公民教育的人，能写得出来的。</strong></p>
+<p data-addevent="1"><strong>4、有些人通过这封信来讨论考拉是否转变了。甚至还用上了叛变一词。考拉做为一个成年人，有自己的独立判断能力。她如果最终选择信任警察，听从中共的，那也是她的选择。我想，在反共的同时，是不是也应该牢记，人们同时有亲共的权利。就像我们面对那些五毛，他们成天在赞美中共，我认为他是有亲共的权利的。所以，我也懒得骂他。</strong></p>
+<p>我并不认为考拉有变的可能。我相信，见识过天空的鸟儿，不会愿意再飞回笼子里。我并不是信任考拉，我们其实并没有见过面。我只是出于我对人性的信任，没有人会喜欢被奴役。</p>
+<p>但我也想强调，我们追求的是社会的变革，不是要恨共产党一辈子。如果共产党在变，人们对待共产党的态度无疑会变。每个人都会相信自我的认知，当共产党在变化的时候，人们会产生不同的看法。社会现实与民心都是动态的。我们不能要求所有人固定在最初的判断里，并永远忠于那个判断。我们要做的，也许只能是，提供更多的信息，帮助他做最有利于自己的判断。</p>
+<p>
+</p><p data-addevent="1">5、考拉出来的第一件事情一定是回到亲人身边，安抚亲人。所以我认为，公众应该给她和亲人一些时间。但也必须提醒大家，虽然表面上是自由了，可以回到家庭中，可是离真正的自由还有很远的距离。也许一年，也许是两年以上的时间要接受监视居住。考拉可能也会是这样。</p>
+<p data-addevent="1"> 6、希望709的其他同犯，也能尽早获得自由。</p>
+<p data-addevent="1">
+</p><p data-addevent="1">最后请求大家关注原珊珊，她的压力比较大。她的微信是：xieyanyilvshi</p>
+<p data-addevent="1"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-%E4%B8%8B%E5%8D%884.07.37.png?resize=437%2C588" alt="Screen Shot 2016-07-09 at 下午4.07.37" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午4.07.37.png?w=437 437w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午4.07.37.png?resize=223%2C300 223w" sizes="(max-width: 437px) 100vw, 437px" data-recalc-dims="1"></p>
+<p data-addevent="1">大家可以通过艾晓明老师的片子了解她：</p>
+<p data-addevent="1">01 珊珊这一年 上<a href="http://share.weiyun.com/7f85d59a070b418fced1e18b224a43e8" target="_blank">http://share.weiyun.com/7f85d59a070b418fced1e18b224a43e8</a></p>
+<p data-addevent="1">02 珊珊这一年 下<a href="http://share.weiyun.com/468d31c1ce4357446da6f66aa0ab5a07" target="_blank">http://share.weiyun.com/468d31c1ce4357446da6f66aa0ab5a07</a></p>
+<p>赞赏功能被没收了.</p>
+<p data-addevent="1">如果你因为燕姐的文章写得好,愿意打赏,我很开心.但不接受用物质表达的同情.</p>
+<p data-addevent="1">打赏请扫这个二维码.</p>
+<p data-addevent="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-%E4%B8%8B%E5%8D%884.08.17.png?resize=435%2C429" alt="Screen Shot 2016-07-09 at 下午4.08.17" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午4.08.17.png?w=435 435w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午4.08.17.png?resize=300%2C296 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午4.08.17.png?resize=70%2C70 70w" sizes="(max-width: 435px) 100vw, 435px" data-recalc-dims="1"></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8F%B6%E6%B5%B7%E7%87%95%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E8%80%83%E6%8B%89%E7%9A%84%E9%82%A3%E5%B0%81%E4%BF%A1%E5%85%BC%E7%A5%9D%E8%B4%BA%E8%80%83%E6%8B%89%E9%87%8D%E8%8E%B7%E8%87%AA%E7%94%B1/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">709事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B6%E6%B5%B7%E7%87%95/?category=18271" rel="tag">叶海燕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">打压维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89/?category=18271" rel="tag">考拉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%A2%AB%E9%87%8A%E6%94%BE/?category=18271" rel="tag">考拉被释放</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B2%B3%E5%8D%97%E8%89%BE%E6%BB%8B%E7%97%85%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E4%B8%AD%E5%8E%9F%E7%BA%AA%E4%BA%8B%E3%80%8B/" target="cdt-mirror">【CDTV】河南艾滋病纪录片《中原纪事》</a>
+</h2>
+<p><p>CDTV推荐纪录片《中原纪事》，如果您在墙内无法看到YouTube上的视频, 请<a href="https://link.getsync.com/#f=CDTV-Documentary&sz=0&t=2&s=C7JWUVQJAPNHT7TQTM2ES3UXJHW2IMUW3JOCCRGN7BXCYOWGIGOQ&i=CAUZ7LRXQ56PSF4DV6LHX3A6KSFK2EUKL&v=2.0"><strong>点击这里</strong></a>使用BitTorrent Sync (Sync) 下载观看。</p>
+<p></p>
+<p>附：</p>
+<p><strong><a href="http://www.minzhuzhongguo.org/ArtShow.aspx?AID=1249">悲悼中原女孩张静亚——纪录片《中原纪事》下集中的小女孩病故</a></strong></p>
+<p>艾晓明 2007年4月22日</p>
+<p>上个周末，我回到父亲家，打开遗失在家里的手机，看到静亚的短信。此前，静亚的妈妈曾经打我的手机，我就以张静亚的名字存下了这个电话。短信说：</p>
+<blockquote><p>晓明阿姨您好！最近您的身体好吗？我想告诉您，以后再不要给我们寄钱了。张静亚已经不在了。帮助那些该帮助的人，谢谢您的关心和帮助，祝好人一生平安。</p>
+<p>12：14：06，2007年4月12日</p></blockquote>
+<p>读罢，内心哀痛难言，立即拨打静亚妈妈电话，得知静亚在呼吸困难输氧多日后终于平静下来，于2007 年4 月11 日去世，结束了她年仅13 岁的短暂人生。</p>
+<p>我的耳边依然回响着静亚的歌声，她唱的是豫剧《谁说女子不如男》。我依然记得在采访她和她妈妈的时候，她说到她的理想是”长大当个医生”，我完全没想到的是孩子接下来说的话：”给人治病，不要钱”。</p>
+<p>去年8 月，我访问了静亚一家，后来这部分采访，编入纪录片《中原纪事》下集。此后我和静亚一家没有联系，一直到今年三月，我接到一个陌生电话，那边的河南口音问：你是晓明阿姨吗？我说是，结果那边久久沉默，继而传来哭声说：阿姨，我找你找得好苦啊。我是张静亚的妈妈。</p>
+<p>看过《中原纪事》下集的朋友，该会记得静亚妈妈面对镜头的哭诉，她说：房子我可以不要，我可以租房子住，钱我可以不要，我可以在外面打工，但是我是母亲，我不能没有孩子，我只有这一个女儿。现在确实是没有办法了。</p>
+<p>小女孩张静亚，满怀希望到省城郑州看病，但她的心脏病太严重，需要换心，换心得几十万；对于在新乡打工的父母是不可能的事。结果，静亚在郑州的医院没有得到任何治疗，连心肌积水都没有抽，就这样离开，回到老家——河南商丘地区柘城县受艾滋病影响的双庙村。在老家，原来的屋子已经没有屋顶，当年参加过卖血的亲戚面对着死亡的威胁和艾滋病的折磨。</p>
+<p>静亚的母亲在电话中说，阿姨求你帮帮忙，给静亚找个好医院，让她能得到治疗，我找高奶奶，高奶奶的电话也打不通。听着母亲的哭诉，我真是爱莫能助，只能说，我也没有办法啊，高耀洁老师此时被软禁在家中，电话都切断了。我说你已经尽力了，别的做不到，让孩子少一些痛苦吧。</p>
+<p>我们曾将各位朋友放映《中原纪事》积攒起来的捐款，托双庙的朱龙伟先生给静亚家捎去500 元。接到电话后，又正好收到高耀洁老师退回的800 元钱，这钱原来是希望支持高老师的工作的，高老师说她不接受任何现金捐赠。想到静亚家庭的困难，我立即给静亚妈妈寄去了这 800 元钱，还有家里同学、同事贺年的一些糖果，希望静亚能够因此得到些许安慰。</p>
+<p>不久，我收到静亚母女的来信。第一封信写道：</p>
+<blockquote><p>敬爱的艾奶奶：</p>
+<p>您好！最近身体好吗？工作顺利吗？我想给您说说我的心里话，我是一个悲伤的女孩。</p>
+<p>自从1998年开始，我就被病魔缠身，刚开是一直查不出病因，接着浑身上下就一直长脓水疮，那几年的时间是我最难熬的，因为每一个伤口都长着露着骨头，到了夜里，身上的伤口又痛又痒，弄得我整夜整夜睡不着觉，妈妈也无法入睡，就拿着棉花沾着药水给我一个一个小心翼翼地擦。妈妈总是在给我擦伤口时情不自禁地哭了起来，于是我们母女俩便抱头痛苦起来，有时半夜我总听见妈妈自己在偷偷地哭。想起了这个家为了我，借下了几万元的外债，现在连个完整的家也没有，我有时候也想过死，可是我又想，如果我死了，爸爸妈妈应该怎么办？爸爸为了我整天早出晚归地拼命挣钱给我看病，妈妈为了我，连一件像样的首饰都没有。妈妈喂了我，曾经用针管在自己身上学着扎针，每次换药、打针，妈妈都会，她现在为了我都快成了一名医生了。我现在不能死，我一定要为了爸爸妈妈还有关心我的人坚强地活下去，我不能让他们失望，不能让他们伤心。艾奶奶，我的病是可以治好的，只不过是难了些，我求求您救救我，我不想和我的爸爸妈妈分开，我不想和我的亲人离开。我还想上完大学，长大了也像您一样去帮助一些像我一样看不起病的孩子，让他们重新看到温暖，看到生活的希望。我还有很多话要和您聊，由于今天太累了，一手输着液，一手给您写着信，有些不方便，就不和您聊了。</p>
+<p>祝您：工作顺利，笑口常开，合家欢乐，长命百岁，好人一生平安。<br>
+一个可怜的女孩：张静亚</p>
+<p>2007年3月18日</p></blockquote>
+<p>第二封信来自静亚的妈妈：</p>
+<blockquote><p>晓明阿姨</p>
+<p>您好!</p>
+<p>首先祝您身体健康，精神愉快，心想事成，万事如意。在您的人生道路上一帆风顺。</p>
+<p>我于2007年03月15号收到了您给我们汇过来的800元钱，因静亚（病）情严重，没有及时回信，希望多多原谅。</p>
+<p>阿姨，今天怀着万分感激的而又沉痛的心情在给您写信。我的心里有千言万语不知改如何说起。自从去年8月份在郑州我们见面以后，我的脑海里不停在回想着您的点点滴滴的爱心。我无法忘记您为我们流下同情（的）泪水。在可怜我的孩子病情时，您出钱出力为我们跑了好几天。没想到我们分别以后就失去了联系，这让我很伤心。我想尽一切办法找您，终于找到了您的联系方式。我就给您打电话，当我听到是您的声音时候，我也控制不住自己的感情，我好像听到了妈妈（的）声音在安慰我。</p>
+<p>阿姨，我的心里有很多话要说。可是由于我没有文化，只上了三年学，满肚子的话说不出来。下面我想说一下静亚的情况，她的病情比以前严重。浑身都在发紫，晚上闷气闷的（历）害，不知道她还能（肢）多长时间。多亏您这次寄来的钱帮了大忙，得到了缓解。还有静亚她还一直感觉她的病能治好，我也不知该怎么给她说，她一直在给我说艾奶奶能救她，弄的我无话可说，孩子毕竟是孩子。</p>
+<p>阿姨，不管静亚给您说什么话，请您都不要（往）心里去，也不要有压力。她的想法很天真。阿姨，请您放心，我会陪着她走完最后一段人生，我会让她过的很开心。最后，我还是感谢您的关心和帮助，我会永远记住您的。</p>
+<p>刘运芝</p></blockquote>
+<p>静亚去世了，这是人们可以看见的纪录片《中原纪事》中第三位去世者。第一位是高耀洁老师的老伴郭明久大夫，我们拍摄了他在病床上，高老师在病房中照料并接待感染者的场景。第二位是我们在感染者病房访问过的病人李长建先生。李长建是位农民，几个月后去世；有人围着整个村子洒上白灰，表示将艾滋病隔绝在外。他妻子承受着痛苦和歧视，独自料理完后事，现已离开村子到城里打工。</p>
+<p>如今静亚也走了。此外，影片中还有一位孩子，我们采访他时，他的父亲还在，今年我再去遂平时得知，他的父亲已去世，现在他成了艾滋病致父母双亡的孩子。</p>
+<p>中原啊中原，文人墨客都知道这样的说法：”问鼎中原”、”中原逐鹿，鹿死谁手”，这中华古文明的繁盛之地，你的衰败何时开始的？你的灾难和痛苦何时是尽头？</p>
+<p>感谢现代技术的普及，使得我们可以在纪录片中保留这灾难的影像，让静亚承受的痛苦和贫穷、让血祸导致的家破人亡带来永远的反思和警醒。我们依然不能让这影像获得应该有的流通机会，但毕竟，这影像保留下来了，它属于死者，更属于生者。一位年轻的大学生看过影片，写下这些感受：</p>
+<blockquote><p>我不是来自中文系的学生，对于政治与哲学也并不精通，更谈不上有多少思想觉悟和多少时事情操，所以这篇对《中原纪事》的回应，完全是出于本人的一点肤浅的体会和感受。</p>
+<p>刚看这段片子，第一感觉是不舒服。</p>
+<p>从来没有真正接触过艾滋病的我，头一次发现我们其实距离这种”谈虎色变”的病毒如此的近；几乎从未步入农村，一直天真的以为人间没有地狱的我，第一次重重地被事实敲醒。</p>
+<p>一个城市长大的孩子怎能设想——在HIV肆虐下的重灾区的患者竟然可以靠每天4毛钱去维持生命；艰苦竟然可以迫使成千上万的人以800CC甚至以上的鲜血仅仅换取45块；病毒的魔爪竟然可以疯狂至一家四口连一个都不放过;厄运之神竟然狠心到可以通过输血夺去一个无辜孩子的生命，让一个美满家庭的幸福在一瞬间荡然无存；残酷的命运竟然可以把一个十多岁的孤儿抛弃于荒无人烟的冰天雪地中……</p>
+<p>难受过后的是愤怒。</p>
+<p>我为众多受难者的悲惨遭遇愤怒，为造成他们痛苦的恶魔愤怒，为把自己的快乐建立于别人的痛苦之上的政府工作者愤怒，为为掩饰真相而杀人不眨眼的刽子手愤怒，为社会贫富悬殊的越演越烈愤怒……</p>
+<p>愤怒平息后留下的是反省。</p>
+<p>我开始明白老师的用心良苦，也许我们暂时的确对社会的不公平无能为力，但如果我们也有一天也踏入政府阶层呢？我们是否应该永远铭记自己从何而来呢？我们是否可以永远保持一颗善良纯洁的心灵呢？</p>
+<p>我们现在不能做什么为人民的惊天地泣鬼神的大事，但我们可以尽自己的所能多了解多接触多施舍多关怀这个社会的弱势群体。或者当我们都做到这点的时候我们离目标也并不遥远了……</p></blockquote>
+<p>作为影片的导演和主要拍摄者，我要向静亚的母亲、亲人和小静亚致以深深的感谢，感谢她们接受采访并允许我们使用这些录像。我也深深感谢每一位以各种方式回应作品的观众朋友，感谢他们从自己不多的工资中拿出钱来，交给我们捐赠给河南村民团体、抗击艾滋病工作机构的朋友。到现在为止，朋友们捐赠的款项已经超过三万，其中一万五千元正在申请基金管理，还有一万五千元，已经分别送到了影片中参与合作的四个团体，希望可以支持他们展开活动，并对病重病危者提供微薄的救助。</p>
+<p>小静亚，愿你在天国安息！</p>
+<p>附录：</p>
+<p>1、”张静亚的生日是1997年3月17日，新乡孟营小学六二班学生。学校已经为她举行简单的仪式。校长和老师亲自来家慰问。2007年4月14日（刘运芝，手机联络方式：13523731764 “。</p>
+<p>2、不久前离家出走失踪的鲁礼安先生，3月份为《中原纪事》捐来1，000元人民币，现在本片创作组已经将此1，000元寄给张静亚家庭，填补静亚家庭为孩子在医院抢救时欠下的部分费用。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B2%B3%E5%8D%97%E8%89%BE%E6%BB%8B%E7%97%85%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E4%B8%AD%E5%8E%9F%E7%BA%AA%E4%BA%8B%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=18271" rel="tag">CDTV</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E3%80%8A%E4%B8%AD%E5%8E%9F%E7%BA%AA%E4%BA%8B%E3%80%8B/?category=18271" rel="tag">《中原纪事》</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E5%8D%97/?category=18271" rel="tag">河南</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%99%93%E6%98%8E/?category=18271" rel="tag">艾晓明</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B/?category=18271" rel="tag">艾滋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B%E7%97%85/?category=18271" rel="tag">艾滋病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%89%BE%E6%BB%8B%E7%97%85%E6%9D%91/?category=18271" rel="tag">艾滋病村</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%89%8D%E7%A9%BA%E5%86%9B%E6%94%BF%E5%A7%94%E8%A2%AB%E6%8D%95%E8%AF%81%E5%AE%9E%E3%80%8A%E9%83%AD%E4%BC%AF%E9%9B%84%E4%BC%A0%E3%80%8B%E5%8D%96%E5%AE%98%E9%AC%BB%E7%88%B5/" target="cdt-mirror">法广｜前空军政委被捕证实《郭伯雄传》卖官鬻爵指控</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/02/12ca2pt.jpg?resize=549%2C366" alt="徐才厚郭伯雄" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/02/12ca2pt.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/02/12ca2pt.jpg?resize=300%2C200 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
@@ -637,59 +733,6 @@ Post tags: <br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E8%A2%AB%E5%A4%B1%E8%B8%AA%E7%9A%84%E5%85%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%83%85%E5%A6%87/" target="cdt-mirror">苹果日报｜李平：被失踪的党国领导人情妇</a>
-</h2>
-<p><p>中共前总书记胡锦涛的大内总管、中办前主任令计划，被控受贿、窃密、滥权而判囚终身。对令计划案宣判，官民的关注点南辕北辙。官媒称，这表明反腐败始终在法治化轨道内运行；五毛称，令案带中共走出权斗传闻。电视观众说，演了一场骚罢了；网民说，令计划的情妇是不是破例出场了？</p>
-<p>令计划在法庭拿出“猫纸”承认控罪，是富有中国特色的审判。</p>
-<p>电视画面显示，法庭宣判后，令计划拿出猫纸照读，宣称不上诉、负荆请罪云云。显然，控辩双方早已达成妥协，宣判无非是一场掩盖权斗的骚罢了，何来法治？网民最有兴趣的是，判词中首次出现「特定关系人」一词，猜测是不是被失踪的党国领导人情妇的代名词。</p>
-<p>习近平主政后已有三个党国领导人被判囚终身，包括薄熙来、周永康、令计划。三人是否政治同盟，官方犹抱琵琶半遮面，但三案有一个共同点，就是被开除党籍时都有通奸罪名，但移交司法审讯时就同样未被追究，这既与刑法上通奸已除罪有关，又与中共要维护反贪的严肃有关，不希望色情新闻成为焦点。但事与愿违，坊间最想知道的就是党国领导人的情妇的身份和下场。</p>
-<p>在中共中央通报的罪责中，薄熙来「与多名女性发生或保持不正当性关系」，周永康「与多名女性通奸，并进行权色、钱色交易」，令计划「与多名女性通奸，进行权色交易」。如果说，通奸无罪的话，权色交易有没有罪呢？官方公布的薄熙来案、周永康案都未交代，令计划案似乎有所突破。</p>
-<p>法庭判词在罗列令计划收受 7 名官商贿赂详情之外，还指令计划「为特定关系人陈 x 、张 xx 及其亲属」在调动、买房、升职等事项上提供帮助，致使公共财产和人民利益遭受重大损失。「特定关系人」作为司法用语，最早见于 2007 年最高检察院、最高法院发布的《关于办理受贿刑事案件适用法律若干问题的意见》，特指「与国家工作人员有近亲属、情妇（夫）以及其他共同利益关系的人」。</p>
-<p>有网民分析，由于令计划的亲属问题都未纳入本案，令计划向陈、张两人提供利益而非共同利益关系，因此，有理由相信，这里的特定关系指的情妇。外界盛传，令计划有 27 个情妇，其中不乏被称为党国领导人后宫的央视记者、主播，不过多未公开真实身份。<br>
-性贿赂与通奸一样，在中国刑法上并没有定罪刑罚，但无论薄、周、令这些党国领导人，还是十八大后落马的近 200 个省部级高官，几乎背后都有一个或多个情妇。中共在宣布对这些官员的党纪处分时，往往会列为其中一项罪名，但移交司法时，党国领导人和高干的情妇们又往往被失踪了。因此，有网民讥讽，中共的权斗已放弃过往罪不及家人的潜规则，改为罪不及情人。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E6%9D%8E%E5%B9%B3%EF%BC%9A%E8%A2%AB%E5%A4%B1%E8%B8%AA%E7%9A%84%E5%85%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%83%85%E5%A6%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A4%E8%AE%A1%E5%88%92%E6%A1%88/?category=18271" rel="tag">令计划案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AB%98%E5%AE%98%E6%83%85%E5%A6%87/?category=18271" rel="tag">高官情妇</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%80%81%E6%9D%A8%E5%A4%B4%E8%AF%BB%E4%B9%A6%EF%BC%9A%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%AE%9E%E5%B9%B2%E5%AE%B6%E4%B8%8E%E7%90%86%E8%AE%BA%E6%B4%BE/" target="cdt-mirror">老杨头读书：中共历史上的实干家与理论派</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/%E6%9D%8E%E5%B0%8F%E4%B9%96_%E5%90%9B%E4%B8%B4%E5%85%9A%E5%A4%A9%E4%B8%8B.jpg?resize=549%2C549" alt="李小乖_君临党天下" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/李小乖_君临党天下.jpg?w=768 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/李小乖_君临党天下.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/李小乖_君临党天下.jpg?resize=300%2C300 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/李小乖_君临党天下.jpg?resize=70%2C70 70w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/03/李小乖_君临党天下.jpg?resize=50%2C50 50w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>1949 年中共执政后，党内一直可以粗略的分为两派，就是实干派和理论派，实干派的代表人物包括刘少奇、彭德怀、邓小平、叶剑英、习仲勋、胡耀邦、赵紫阳这类人物，周恩来虽然两边都沾，但基本也应该属于这一派，他们写理论文章不多，著书立说就更少。理论派包括康生、陈伯达、王力、关锋、张春桥、姚文元、戚本禹以及后来的邓力群等，他们中除了康生有过正经的特务工作之外，大多就是耍耍笔杆子。</p>
-<p>但由于他们中（除邓力群）几乎都是围绕毛主席转，例如戚本禹就当过毛主席和江青的双料秘书，他们都在某一个阶段，或者某几个月中达到人生的巅峰状态，靠一支笔，靠一两篇得到毛主席赏识的文章，而一跃成为共和国最出风头的政坛新星。相比而言，那些实干派，几乎都会在某场运动中被风卷残云，不是被打倒、坐牢就是靠边站。刘少奇、彭德怀惨死，邓小平被打倒三次，习仲勋因为言论自由而坐了十几年牢，胡、赵就更不用说了。</p>
-<p>不过，有意思的是，这些被打倒的实干家，几乎都会被平反，或者最终的结局一定会被大家重新认识。而那些风头一时的理论派呢，我不说你们也知道，几乎都被卷进了历史的垃圾堆里。刚刚离开的一位戚本禹到死都没有明白这个道理。这个道理确实也值得我们今天认真思考。</p>
-<p>无论是权倾一时的康生，还是毛、江的双料秘书戚本禹，在靠扣帽子、打棒子的文章风光无限时，他们内心都有过深深的恐惧和担忧：害怕有那么一天，他们会失势。 虽然有人也怀疑，会不会毛泽东有错，从而到时他们也错了呢？但更多人则认为，他们迟早会被毛泽东或者毛泽东身边的人一脚踢掉。 可见，毕竟是读书人，不是一点知识和良心都没有的。</p>
-<p>但既然有此忧虑和恐惧，为什么还一条道走到黑呢？我稍微对照了一下这几个人的传记，发现这些人不同于实干派，他们几乎没有任何功绩，除了写写字之外，什么都不会。而能够靠写几个字就能一跃而跳到那些功勋卓著的实干家头上，冒点险有何不可呢？例如，戚本禹总共才在位风光了 18 个月，可是，一会批遇罗克的《出生论》，一会对老干部打棒子， 还有那篇把实干派刘少奇往死里整的《爱国主义还是卖国主义？——评历史影片〈清宫秘史〉》。一个人渣文人，动动笔，就定出了什么是爱国主义，什么是卖国主义？和当今一些人，还真都是异曲同工的奇葩。</p>
-<p>不过，现在再来批评这些人渣文人有些不地道， 戚本禹个人已经付出了代价，在位疯狂 18 个月，坐牢整整 18 年。但这些人对这个民族和国家造成的灾难，是他们个人死十八次也无法弥补万分之一的。</p>
-<p>戚本禹也想到过自己被抛弃的那一天，他在回忆录里说：“我在八届十一中会议上作过个发言，说如果弄得不好，我们的文革也会出现像法国大革命最后的‘热月政变’一样的结果。我的发言登载在了会议的简报上。我自己以为自己讲得挺好。江青却对我说，你得意什么 ? 把主席批评你的话告诉你，你都会哭。”</p>
-<p>戚本禹在回忆录里还讲到，“二月逆流”之后陈伯达就很惶恐。戚本禹说：“陈伯达老是动动摇摇，顾虑重重的，一天到晚说丧气话，讲文革不行了，再这样搞下去，将来很多问题都要由我们来承担责任的。他害怕了。他比我们聪明，也更有政治经验。知道得罪了那么多人，最后就会殃及自己。 他老给我们这么说。我们说，你这叫前怕狼，后怕虎，你跟着毛主席革命，还怕啥呢。毛主席胜利我们就胜利，毛主席失败我们也失败。可陈伯达不这么看，他说，毛主席不会失败，我们会失败。 ”</p>
-<p>可能正因为这样，毛主席后来对陈伯达一直不太满，毛主席曾说陈伯达： 是不是看到我的革命大船船要沉了，就像个老鼠往林彪那边跑。</p>
-<p>长远来说，历史是公正的，犯下了罪责，即便像个老鼠一样，跑到哪里，都会是过街老鼠，人人喊打。我们不是没有看到，上面列举的文人，除了比较近的一位外，其他的都受到了历史的嘲弄。在实践方面，理论是苍白的，理论是靠不住的，尤其是倒行逆施的所谓“理论”。而实干与实践则是有目共睹的，即便走了弯路，大家也能理解。</p>
-<p>当今中国处于转型的关键时刻，无论是理论家、宣传家还是实干家都需要，但千头万绪，我们一定要记住，扎扎实实做事，做出了成绩，是无法淹没的；整天指手画脚，试图搞出阻碍历史发展，捆绑实干家手脚的“理论”与条条框框，无论一时之间多么得意，罪责也是无法掩盖的。那些人的最终下场——嗯，你们也看到了，几乎没有一个不是把牢底坐穿。</p>
-<p>我就不多说了，否则，他们万一挥舞大笔写几篇“理论文章”，把我先送进去了，咋办？</p>
-<p>杨恒均 2016 年 7 月 7 日</p>
-<p>欢迎各位光临老杨头的微店，购买美国折扣名牌与各种价廉物美的商品，已经最新推出的美国、澳洲减肥药品，点击进入。特别声明一下，有顾客在小店代购后，发现淘宝上有比我们 —— 不，比美国、澳洲折扣价甚至成本价还低的，问咋回事？我们在美、澳的店员只能苦笑。另外，由于中国海关需要清关，有些竟然长达20天，请各位耐心等待。这是需要直接购买海外物品必须付出的，除非你愿意直接购买在国内的产品。那些我们无法保证真假。谢谢理解。</p>
-<p>点击购买： 澳洲袋鼠精</p>
-<p>点击购买： 美国减肥药 ( 适用所有人 )</p>
-<p>点击购买： 澳洲减肥药 ( 非真肥勿买，限购 )</p>
-<p>点击购买： 冰点冷冻玻尿酸精华</p>
-<p>点击购买韩国夏天防晒： 美白太阳帽 ； 手袖</p>
-<p>各类咨询以及购买大午酒的请加店员的微信： Abbyhenry ， ymhzzp</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 吃枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%80%81%E6%9D%A8%E5%A4%B4%E8%AF%BB%E4%B9%A6%EF%BC%9A%E4%B8%AD%E5%85%B1%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E5%AE%9E%E5%B9%B2%E5%AE%B6%E4%B8%8E%E7%90%86%E8%AE%BA%E6%B4%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2/?category=18271" rel="tag">中共党史</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E6%81%92%E5%9D%87/?category=18271" rel="tag">杨恒均</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -701,7 +744,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -711,5 +754,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

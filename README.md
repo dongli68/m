@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,34 @@
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%AD%E5%85%B1%E8%A6%81%E6%B1%82%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%81%9A%E5%A5%BD%E9%AB%98%E6%A0%A1%E5%85%9A%E5%A4%96%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%BC%95/" target="cdt-mirror">中共要求进一步做好高校党外知识分子思想政治引导工作</a>
+</h2>
+<p><p>【编者注】这份通知来自中共教育部党组，发表于2016年7月7日。通知中的要求包括“推动”习近平在共产党成立95周年大会讲话的精神“进教材、进课堂、进头脑”，要“进一步做好高校党外知识分子思想政治引导工作”等。</p>
+<p><strong>中共教育部党组关于教育系统学习贯彻习近平总书记</strong><br><strong>在庆祝中国共产党成立95周年大会上的讲话的通知</strong></p>
+<p>教党[2016]35号</p>
+<p>[…]</p>
+<h4><strong>二、推动系统深入学习，把教育系统广大干部师生员工思想和行动统一到讲话精神上来</strong></h4>
+<p>4. 加强宣传阐释。要充分发挥高校学科优势、人才优势和智力优势，围绕讲话提出的一系列新思想新观点新论断，组织高校哲学社会科学特别是党史党建专家学者深入开展研究阐发，及时推出一批重点理论文章，推出一批有深度有分量的研究成果，为不断丰富发展中国特色社会主义理论体系做出应有的贡献。[…] 在哲学社会科学重点规划项目、全国党建研究会高校党建研究专委会等课题研究中，<strong>加大对讲话精神专题研究的重点支持力度</strong>。[…] 以庆祝第32个教师节为契机，组织广大教师深入学习领会讲话精神。</p>
+<h4><strong>三、融入学校思想政治教育，扎实推动讲话精神进教材、进课堂、进头脑</strong></h4>
+<p>1. <strong>扎实推动讲话精神进教材</strong>。<strong>要在大中小学教材建设中，充分体现讲话重要思想和观点，着眼于加强党的领导，强化思想性要求</strong>，重视体制机制创新，对加强和改进大中小学教材建设做出整体部署。重点做好《中国革命史》《中国共产党思想政治教育》等教材的出版工作，做好《中华人民共和国史》《国际共产主义运动史》等马工程重点教材的统一使用工作。[…]</p>
+<p>2. 扎实推动讲话精神进课堂。各级教育部门和各级各类学校要以讲话精神为指导，加强教师队伍建设，<strong>用马克思主义中国化最新成果占领课堂、讲坛，牢牢掌握学校意识形态工作的领导权主导权。</strong>[…] <strong>激励广大青年学生为祖国、为人民、为民族奉献青春</strong>。[…]</p>
+<p>3. <strong>扎实推动讲话精神进头脑。</strong>要把讲话精神融入大中小学思想政治教育的相关内容，贯穿到学校党建和思想政治工作全过程。认真实施大学生思想政治教育质量提升工程。[…] 继续推动学习宣传李保国同志作为新时期共产党人的楷模、知识分子的优秀代表和太行山上的新愚公的感人事迹和优秀品格，组织徐川同志“我为什么加入中国共产党”优秀党课巡讲，引导广大干部师生在学模范、争先进中更加深刻学习领会讲话精神，坚定正确政治方向，坚定不移跟党走。</p>
+<h4><strong>四、坚持围绕中心，推进讲话精神贯穿教育事业改革发展全过程</strong></h4>
+<p>3.<span><strong> 要进一步做好高校党外知识分子思想政治引导工作</strong></span>，结合学习贯彻讲话精神，组织高校党外知识分子开展多种形式的理论学习、实践锻炼、社会服务，<strong>帮助和引导高校党外知识分子自觉接受中国共产党的领导</strong>，培育和践行社会主义核心价值观，不断增强中国特色社会主义道路自信、理论自信、制度自信、文化自信，为推进高等教育改革发展稳定凝心聚力。</p>
+<h4><strong>五、精心部署，切实加强对学习宣传贯彻讲话精神的组织领导</strong></h4>
+<p>[…]要精心组织新闻宣传，充分利用校报、校刊、电台、电视台和网络新媒体，深入阐释解读讲话精神，<strong>大力宣传讲话在广大干部师生中引起的热烈反响</strong>，反映学校学习贯彻讲话精神、解决实际问题的具体实践和工作成效，营造教育系统学习贯彻讲话精神的浓厚氛围。</p>
+<p>（完整内容请点击“原文”链接）</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%AD%E5%85%B1%E8%A6%81%E6%B1%82%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%81%9A%E5%A5%BD%E9%AB%98%E6%A0%A1%E5%85%9A%E5%A4%96%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%BC%95/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">公众知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">辽宁日报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A7%9C%E7%8E%89%E7%A3%8A%E5%BE%8B%E5%B8%88%EF%BD%9C%E4%B8%BE%E6%8A%A5%E5%92%8C%E6%8A%A5%E6%A1%88%E6%8E%A7%E5%91%8A%E7%9A%84%E5%8C%BA%E5%88%AB/" target="cdt-mirror">姜玉磊律师｜举报和报案、控告的区别</a>
 </h2>
 <p><p><strong>简单的说就是</strong></p>
@@ -582,29 +607,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%AD%A7%E8%A7%81%E4%BE%A0%EF%BD%9C%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA%E6%98%AF%E6%94%BF%E6%B2%BB%E8%AE%A4%E5%90%8C-%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC%E7%9A%84%E4%BA%BA%E4%B9%9F%E7%9F%A5%E9%81%93/" target="cdt-mirror">歧见侠｜电视认罪是政治认同 指鹿为马的人也知道鹿不是马</a>
-</h2>
-<p><p>央视认罪跟罪无关，有罪无罪都跟央视没有一毛钱关系，违法不违法，都是法院说了算，是律师跟法官的事，央视不是法庭，哪能未审先判？</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szinf5hj20ec09275e.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szinf5hj20ec09275e.jpg?resize=500%2C316" alt="89ee9629gw1f54szinf5hj20ec09275e" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szinf5hj20ec09275e.jpg?w=516 516w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szinf5hj20ec09275e.jpg?resize=300%2C190 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>指鹿为马的人，他自己也知道，鹿是鹿，马是马，再巧舌如簧辩才无碍，也不可能让鹿变成马的。日本人的脏话不像中国人，他们骂人跟生殖器无关，一般都跟马鹿有关。八嘎牙路，写成汉字就是“馬鹿野郎”，这句脏话其实就是从指鹿为马这个成语来的，意思就是说，你这人分不清是鹿是马，你是个笨蛋。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szapjdrj20gq0bqta5.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szapjdrj20gq0bqta5.jpg?resize=500%2C350" alt="89ee9629gw1f54szapjdrj20gq0bqta5" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szapjdrj20gq0bqta5.jpg?w=602 602w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54szapjdrj20gq0bqta5.jpg?resize=300%2C210 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>当初赵高指鹿为马，他不是在做事实判断，而是价值判断，是在做统战，是分清敌我，划清界限，他玩的是政治认同。所谓政治认同，就是我不管你内心如何，你只要表态支持我，就是我的阵营里面的，你只要不支持我就是我的敌人，非友即敌，非敌即友，你必须选边站，没有灰色地带，没有非敌非友，大家懂了吧？</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54swzg0uoj20hs0a00tv.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54swzg0uoj20hs0a00tv.jpg?resize=500%2C281" alt="89ee9629gw1f54swzg0uoj20hs0a00tv" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54swzg0uoj20hs0a00tv.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/89ee9629gw1f54swzg0uoj20hs0a00tv.jpg?resize=300%2C169 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p>鸡国朝廷里面，都是一等一的聪明人，他们并非不知道林祖恋是冤枉的？他们并非不知道有思想者如我等不会相信这事是真！</p>
-<p>我们知道了他们在说谎，他们也知道自己在说谎，他们也知道我们知道他们在说谎，我们也知道他们知道我们知道他们说谎，但是他们依然在说谎。为什么？——统战需要，你只要口头是认同我，我就赢了，至于别人信不信，那是另一回事，至于你内心怎么想，我不管，你不能反驳，你也没有反驳的地方，这就是我要的效果，就是逼着你说假话。</p>
-<p>政治认同是一个不常见的政治术语，起源于民主政治，他的本意是为了统计支持率，但到了中国则完全沦为统战术，不是统计支持率而是为了统计效忠率，为了分清敌我，为了划清界限。</p>
-<p>你说什么，我就认为你心里想什么，我不能假设你是口是心非。我也无需猜测你内心的真实想法，因为没有必要，政治认同一般发生在成熟的民主国家，比如投票就是政治认同，你投了谁的票就表示认同谁，不可能假设你投了共和党的票然后你的内心其实认同保守党。央屎说日本首相可以赢得日本民众的选票却赢不了日本民众的心，那是鬼扯，一个人得多精神分裂才会把选票投给他不认同的人？！！</p>
-<p>XXX说中国要实行民主政治，大多数美国人会认同他，给他订单、给他喝彩、跟他见面、推杯换盏，四座并欢，美国人很单纯，很诚恳，他也认为别人也同样单纯和诚恳，在美国这是政.治认同。但是，政治认同在中国是没有社会基础的，政治认同在中国等于然并卵。</p>
-<p>如果在中国要实行民主政治，为什么在国内不说，要跑到美国去说？这是明摆着要骗美国佬，要骗订单，骗喝彩，还要骗中国，骗全世界！但是，习近平的讲话和承诺我还是要转，这也是我们的政治认同，中国人的政治认同要重新定义，就是领导人说的什么话我们都要尽量转。中国领导人的话就像中国宪法，是专门给外国人看的，中国从来都是外儒内法，说一套做一套。</p>
-<p>中国是一个高度极权的国家，领导人决定一切，党政军权系于一身，国家的治乱兴衰，光明与黑暗，光荣与耻辱全在他的表现。尤其他说的符合我们期待的话，比如民主政治我们要多转；他说了让我们反感的话我们更要多转，比如他说共 铲 主义。哪怕这两句话自相矛盾，漏洞百出。我们的目的不是认同他，而是认同我们自己，取得共识，全民的共识，比如民主要全民拥戴之，而共铲则要全民挞伐之！美国的政治认同在于统计支持率，中国的政治认同在于启蒙。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%AD%A7%E8%A7%81%E4%BE%A0%EF%BD%9C%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA%E6%98%AF%E6%94%BF%E6%B2%BB%E8%AE%A4%E5%90%8C-%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC%E7%9A%84%E4%BA%BA%E4%B9%9F%E7%9F%A5%E9%81%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">央视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E5%A7%93%E5%85%9A/?category=18271" rel="tag">媒体姓党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8C%87%E9%B9%BF%E4%B8%BA%E9%A9%AC/?category=18271" rel="tag">指鹿为马</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E7%A5%96%E6%81%8B/?category=18271" rel="tag">林祖恋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B5%E8%A7%86%E8%AE%A4%E7%BD%AA/?category=18271" rel="tag">电视认罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9D%E5%AF%B9%E5%BF%A0%E8%AF%9A/?category=18271" rel="tag">绝对忠诚</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -616,7 +618,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -626,5 +628,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

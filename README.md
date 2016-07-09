@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A7%9C%E7%8E%89%E7%A3%8A%E5%BE%8B%E5%B8%88%EF%BD%9C%E4%B8%BE%E6%8A%A5%E5%92%8C%E6%8A%A5%E6%A1%88%E6%8E%A7%E5%91%8A%E7%9A%84%E5%8C%BA%E5%88%AB/" target="cdt-mirror">姜玉磊律师｜举报和报案、控告的区别</a>
+</h2>
+<p><p><strong>简单的说就是</strong></p>
+<p><strong>报案指任何单位和个人（含被害人）发现犯罪事实后，向公安检察院法院报告请求审查处理的行为，报案人一般为偶然发现犯罪行为或事实，<span>并不知道实施人是谁</span>。</strong><br><strong> 举报是指<span>与案件无直接利害关系的其他知情人</span>向公安司法机关揭露犯罪事实或嫌疑人的行为；</strong><br><strong> 控告是指<span>受犯罪行为侵害的受害人</span>或其法定代理人、近亲属为了维护被害人的利益，向公安司法机关指控犯罪人及其犯罪事实，请求追求其刑事责任的行为；</strong></p>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%84%9F%E8%B0%A2%E4%BF%A1-copy.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%84%9F%E8%B0%A2%E4%BF%A1-copy.png?resize=550%2C470" alt="感谢信 copy" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/感谢信-copy.png?w=2238 2238w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/感谢信-copy.png?resize=300%2C257 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/感谢信-copy.png?resize=768%2C657 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/感谢信-copy.png?resize=1024%2C876 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/感谢信-copy.png?w=2000 2000w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>“刚刚看到郑州公安的微博，看到在网上造谣诋毁我的人居然是他”；@考拉就是考拉 微博截图</span></p></div>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E9%83%91%E5%B7%9E-copy.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E9%83%91%E5%B7%9E-copy.jpg?resize=500%2C479" alt="平安郑州 copy" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安郑州-copy.jpg?w=1804 1804w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安郑州-copy.jpg?resize=300%2C288 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安郑州-copy.jpg?resize=768%2C736 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安郑州-copy.jpg?resize=1024%2C981 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>“根据当事人赵威的举报”；@平安郑州 微博截图</span></p></div>
+<p><strong>1、什么是举报？</strong></p>
+<p>举报是指机关、团体、企事业单位和个人向司法机关和有关部门<strong>检举、揭发犯罪嫌疑人的犯罪事实或者犯罪嫌疑人线索</strong>的行为。举报是我国《宪法》和法律赋予公民对国家机关和国家机关工作人员进行监督的一项民主权利。我国《宪法》第四十一条规定：中华人民共和国公民对于任何国家机关和国家机关工作人员，有提出批评和建议的权利；对于任何国家机关和国家机关工作人员的违法失职行为，有向有关国家机关提出申诉、控告或者检举的权利，但是不得捏造或者歪曲事实进行诬告陷害。《刑事诉讼法》第八十四条规定：任何单位和个人发现有犯罪事实或者犯罪嫌疑人，有权利也有义务向公安机关、人民检察院或者人民法院报案或者举报。《宪法》和法律的这一规定，为公民以控告、检举、举报的方式对国家机关和国家机关工作人员行使监督权提供了法律保障，使举报成为我国公民同职务违法犯罪行为作斗争的有力武器和重要手段，也成为我国司法机关、行政监察机关以及其他有关机关和部门发现和查处职务违法犯罪案件的主要线索的来源和渠道。公民举报可以通过电话举报、信函举报、传真举报、网上举报，也可以当面举报、预约举报或者认为方便的其他形式进行举报。按照法律规定，公民举报必须实事求是，如实提供情况；捏造或者歪曲事实，诬告陷害他人的应负法律责任。对于公民举报，司法机关、行政监察机关以及其他有关机关和部门均应受理。受理后依照有关管辖范围分工的规定，进行分流，归口办理，分级负责，并由承办部门将办理情况及时答复举报人。任何单位和个人均不得私自扣押公民举报的线索，也不得对举报人进行压制和打击报复。</p>
+<p><strong>2、什么是控告？</strong></p>
+<p>控告是指机关、团体、企事业单位和个人向司法机关揭露违法犯罪事实或犯罪嫌疑人，要求依法予以惩处的行为。在我国，控告是公民享有的重要权利和同违法犯罪行为作斗争的重要手段，也是刑事案件立案材料的主要来源。公民的控告权受到国家《宪法》和其他法律的保护。《刑事诉讼法》第八十四条第二款、三款规定：被害人对侵犯其人身、财产权利的犯罪事实或者犯罪嫌疑人，有权向公安机关、人民检察院或者人民法院报案或者控告。公安机关、人民检察院或者人民法院对于报案、控告、举报，都应该接受。对于不属于自己管辖的，应当移送主管机关处理，并且通知报案人、控告人、举报人；对于不属于自己管辖而又必须采取紧急措施的，应当先采取紧急措施，然后移送主管机关。根据这一规定，控告一般是指被害人及其近亲属或其诉讼代理人，对侵犯被害人合法权益的违法犯罪行为，依法向司法机关告发，要求予以惩处的行为。按照《刑事诉讼法》第八十五条的规定，控告可以以书面或者口头形式提出。属于口头控告的，接待的工作人员应当写成笔录，经宣读无误后，由控告人签名或盖章。接受控告的工作人员应当告知控告人：控告应实事求是，不得诬告陷害他人，并说明诬告应负的法律责任。按照《刑事诉讼法》第八十六条的规定，人民法院、人民检察院或者公安机关对于控告材料，应当按照管辖范围，迅速进行审查，认为有犯罪事实需要追究刑事责任的，应当立案；认为没有犯罪事实，或者犯罪事实显著轻微，不需要追究刑事责任的，不予立案，并且将不立案的原因通知控告人。控告人如果不服，可以申请复议。<br>
+控告与举报都是向司法机关揭露犯罪，并要求依法处理的行为，也都是公民同犯罪作斗争的重要手段，但两者又不相同，主要区别是：（1）控告人是犯罪案件的被害人或其法定代理人，与案件的处理有直接的利害关系；举报人一般不是犯罪案件的被害人或其法定代理人，与案件无直接利害关系。（2）控告的目的，主要是为了维护被害人自身的合法权益；而举报的目的，主要是为了伸张正义，维护法制，保护国家和社会公共利益及他人的合法权益。</p>
+<p><strong>3、什么是报案？</strong></p>
+<p>报案是指机关、团体、企事业单位和公民（包括被害人）将发现的有犯罪事实或者犯罪嫌疑人向司法机关报告的行为。报案既是单位、个人和被害人同犯罪作斗争、维护自身或他人权益的重要方式，也是司法机关惩治犯罪的主要案源材料之一。我国《刑事诉讼法》第八十四条规定：任何单位和个人发现有犯罪事实或者犯罪嫌疑人，有权利也有义务向公安机关、人民检察院或者人民法院报案或举报。被害人对侵犯其人身、财产权利的犯罪事实或者犯罪嫌疑人，有权向公安机关、人民检察院或者人民法院报案或控告。公安机关、人民检察院或者人民法院对于报案都应该接受。对于不属于自己管辖的，应当移送主管机关处理，并且通知报案人；对于不属于自己管辖而又必须采取紧急措施的，应当先采取紧急措施，然后移送主管机关。《刑事诉讼法》还规定：报案可以用书面或者口头形式提出。属于口头报案的，接待的工作人员应当写成笔录，经宣读无误后，由报案人签名或盖章。人民法院、人民检察院或者公安机关对于报案材料，应当按照管辖范围，迅速进行审查，认为有犯罪事实需要追究刑事责任的，应当立案；认为没有犯罪事实，或者犯罪事实显著轻微，不需要追究刑事责任的，不予立案。<br>
+根据我国《刑事诉讼法》的规定，机关、团体、企事业单位和公民个人报案，应按事件的性质和法定的案件管辖范围及时向有关司法机关报案。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A7%9C%E7%8E%89%E7%A3%8A%E5%BE%8B%E5%B8%88%EF%BD%9C%E4%B8%BE%E6%8A%A5%E5%92%8C%E6%8A%A5%E6%A1%88%E6%8E%A7%E5%91%8A%E7%9A%84%E5%8C%BA%E5%88%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81%E4%B8%88%E5%A4%AB%E6%B8%B8%E6%98%8E%E7%A3%8A%E5%85%B3%E4%BA%8E%E4%BB%BB%E5%85%A8%E7%89%9B%E5%BE%8B%E5%B8%88%E8%A2%AB%E5%88%91%E6%8B%98%E7%9A%84%E5%A3%B0%E6%98%8E/" target="cdt-mirror">考拉赵威丈夫游明磊关于任全牛律师被刑拘的声明</a>
 </h2>
 <p><blockquote><p>王译 ‏<a href="https://twitter.com/wangyi09/status/751452520128454657" target="_blank">@wangyi09</a>：赵威（考拉）丈夫游明磊关于任全牛律师被刑拘的声明</p></blockquote>
@@ -583,46 +605,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E7%BB%9F%E6%88%98%E5%A2%9E%E8%AE%BE%E7%AC%AC%E5%85%AB%E5%B1%80-%E5%88%86%E6%9E%90%E4%BA%BA%E5%A3%AB%EF%BC%9A%E7%BB%9F%E7%9A%84%E9%83%BD/" target="cdt-mirror">美国之音｜中共统战增设第八局 分析人士：统的都是自己人</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?resize=550%2C309" alt="在中国共青团一个宣传MV里的一个镜头，中国著名运动员姚明和中国少先队队员都佩戴红领巾。这个MV邀请包括姚明、韩庚和TFBOYS在内的多位体坛、乐坛名人出镜，翻唱《我们是共产主义接班人》（视频截图）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?w=987 987w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?resize=300%2C169 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/9E94930E-43EC-448B-8B91-D08278569721_w987_r1_s.png?resize=768%2C432 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>在中国共青团一个宣传MV里的一个镜头，中国著名运动员姚明和中国少先队队员都佩戴红领巾。这个MV邀请包括姚明、韩庚和TFBOYS在内的多位体坛、乐坛名人出镜，翻唱《我们是共产主义接班人》（视频截图）</span></p></div>
-<p>中共中央统战部近日通过官方微信宣布增设第八局，全名为“新的社会阶层人士工作局”，私营企业和外资企业管理技术人员、中介和社会组织从业人员、自由职业者以及新媒体代表人物成为重点统战对象。官微文章称，这些群体普遍具有思想活跃、观点多样等特点，但是分析人士认为，那些持不同意见的人士并不会成为统战的对象，而仍旧是打压的对象。</p>
-<p>中共中央统战部微信公众号“统战新语”7月4日发布一篇文章，将正式成立八局之事“昭告天下”。</p>
-<h3><strong>谁是新的社会阶层人士？</strong></h3>
-<p> <br>
-八局的工作对象是新的社会阶层人士。哪些人属于这个阶层？</p>
-<p>“统战新语”称，包括四类人：受聘于私营企业和外资企业、掌握企业核心技术和经营管理专门知识的人员；中介组织和社会组织从业人员，包括律师、会计师等，以及社会团体、基金会等从业人员；在国家法律法规和政策允许的范围内，凭借知识、技能与专长，为社会提供服务并获得报酬的自由职业者；以及以新媒体为平台或对象，从事或代表特定机构从事投融资、技术研发、内容生产发布以及经营管理活动的新媒体从业人员。</p>
-<h3><strong>示好、利用还是控制？</strong></h3>
-<p> <br>
-中国历史学家、公共知识分子章立凡对美国之音说，这可能是中共政权在国际上比较孤立、在国内受到越来越多质疑的情况下，笼络示好一些社会群体的一种方式。</p>
-<p>他说：“这些人或许需要通过体制来获取利益，或者说，他的工作性质就可以被体制所利用。”</p>
-<p>这四类人中的新媒体人或许是中共的重点统战对象。去年5月，中国国家主席习近平在中央统战会议上首次提出把新媒体人列为统战对象。官媒的报道说，习近平认为“新媒体中的代表性人士在‘净化网络空间、弘扬主旋律等方面展现正能量’。”</p>
-<p>近年来，许多党政机构都开通有自己的微博、微信账号，与商业公司合作，用更接地气的方式做宣传。共青团一个宣传MV邀请包括姚明、韩庚和TFBOYS在内的多位体坛、乐坛名人出镜，翻唱《我们是共产主义接班人》，习近平还曾在一个当局召开的文艺座谈会上同网络作家花千方和周小平交谈。</p>
-<p>统战部设立新局一事也是首先由其官方微信曝出。</p>
-<p>与此同时，中共当局对新媒体的主要平台网络正在加强管理和控制。上个月，中国国家网信办再度下令开展网络舆论政治活动，严控“有害信息”，推广“阳光跟帖”。</p>
-<p>有分析认为，一些批评或者唱反调的多来自于新的社会阶层，忽略这些声音或者以非统战方式消除，都达不到好的效果，因此运用中共取得革命胜利的三大法宝之一的统战就变得尤为重要和紧迫。</p>
-<p>“统战新语”的文章也承认统战新的社会阶层人士的不易。文章说，这类人的特点是 “流动性大、分散性强、思想活跃、观点多样，有的甚至连人都找不着、面都见不上，一般化的工作方法很难对这些人起作用”。</p>
-<h3><strong>统战自己人</strong></h3>
-<p> <br>
-但是，章立凡认为，中共统战的只有自己人，而不是持不同意见的人。</p>
-<p>他说：“中共的统战跟以前已经有很大的不同。中共取得政权之前和之后一段时间，统那些或者是反对自己的人，或者是跟自己的利益不一致的人，现在的统，基本是统自己人，统那些从体制内能得到好处的人。”</p>
-<p>明镜集团总裁何频认为，中共统战部的功能早已不存在。</p>
-<p>他说：“他们不会真正去联络和团结那些所谓的不同声音的民运分子，维权律师，或者不同声音的知识分子。他们不会的。都是在政治上和他们保持一致，他们才会走到一起。”</p>
-<p>一些网友也对统战部增设八局发表看法。一些人对找到“组织”感到兴奋，还有一些人则担心，这是中共实施的另一种控制，有人戏谑地说：如果统不了，那么另一个“中统”就会找上门。</p>
-<h3><strong>加强统战工作</strong></h3>
-<p> <br>
-去年9月颁布的《中国共产党统一战线工作条例（试行）》首次正式将“新的社会阶层人士”纳入重点团结的对象。刚刚组建的八局则是在组织结构上将这个统战工作明确化。2014年底，中央政治局委员孙春兰掌舵统战部，而习近平去年5月主持的统战会议，名称也从“全国统战工作会议”变为“中央统战工作会议”，被认为是65年来的首次“升格”。</p>
-<p>分析人士认为，这些变化释放出的是中共的统战工作要进一步加强的信号。</p>
-<p>章立凡说：“实际上是他自身政权的危机感有所加剧。”</p>
-<p>他说，现在中国社会的矛盾和冲突在加剧，中共需要增加支持其政权的人。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%85%B1%E7%BB%9F%E6%88%98%E5%A2%9E%E8%AE%BE%E7%AC%AC%E5%85%AB%E5%B1%80-%E5%88%86%E6%9E%90%E4%BA%BA%E5%A3%AB%EF%BC%9A%E7%BB%9F%E7%9A%84%E9%83%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96%E5%AE%A3/?category=18271" rel="tag">大外宣</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%B5%B5/?category=18271" rel="tag">精赵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E4%B8%89%E4%BB%A3/?category=18271" rel="tag">红三代</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%9F%E6%88%98%E9%83%A8/?category=18271" rel="tag">统战部</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -634,7 +616,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -644,5 +626,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>

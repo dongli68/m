@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,24 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81%E4%B8%88%E5%A4%AB%E6%B8%B8%E6%98%8E%E7%A3%8A%E5%85%B3%E4%BA%8E%E4%BB%BB%E5%85%A8%E7%89%9B%E5%BE%8B%E5%B8%88%E8%A2%AB%E5%88%91%E6%8B%98%E7%9A%84%E5%A3%B0%E6%98%8E/" target="cdt-mirror">考拉赵威丈夫游明磊关于任全牛律师被刑拘的声明</a>
+</h2>
+<p><blockquote><p>王译 ‏<a href="https://twitter.com/wangyi09/status/751452520128454657" target="_blank">@wangyi09</a>：赵威（考拉）丈夫游明磊关于任全牛律师被刑拘的声明</p></blockquote>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cm2yEkbVUAEMo5k.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cm2yEkbVUAEMo5k.jpg_large.jpg?resize=475%2C843" alt="Cm2yEkbVUAEMo5k.jpg_large" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cm2yEkbVUAEMo5k.jpg_large.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cm2yEkbVUAEMo5k.jpg_large.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cm2yEkbVUAEMo5k.jpg_large.jpg?resize=577%2C1024 577w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
+<blockquote><p><strong>赵威丈夫游明磊关于任全牛律师被刑拘的声明：</strong></p>
+<p>今天晚上得知我为赵威委托的任全牛律师因为“编造并在互联网上散布当事人人身受辱的虚假信息，相关信息被大量转发报道，造成恶劣社会影响，也给当事人赵威名誉造成严重损害，涉嫌犯罪”已于7月8日被郑州公安机关依法刑事拘留。因去年“709事件”中妻子赵威被当局逮捕并关押于天津看守所，本人于去年7月份委托任全牛律师为赵威辩护，在这将近一年的时间里，任律师矜矜业业尽职尽责，几次三番和当局沟通，多次到天津要求会见赵威，因被天津警方拒绝并向检察机关提出控告，在这种生不见人死不见尸的情况下，因网上的一些传言而在微博上求证，并和严华丰律师到天津向警方核实情况，但是都没有得到确切的答案，更是至今没有会见到赵威本人。在这种情况下，郑州警方以任律师编造散布当事人受人身侮辱的消息，并造成恶劣影响的理由简直荒谬至极！本人强烈谴责当局的这种无耻行径！并要求郑州当局尽快无罪释放任全牛律师！</p>
+<p>2016年7月8日11时30分</p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81%E4%B8%88%E5%A4%AB%E6%B8%B8%E6%98%8E%E7%A3%8A%E5%85%B3%E4%BA%8E%E4%BB%BB%E5%85%A8%E7%89%9B%E5%BE%8B%E5%B8%88%E8%A2%AB%E5%88%91%E6%8B%98%E7%9A%84%E5%A3%B0%E6%98%8E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 15分钟前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E4%BB%A5%E5%90%8E%E5%B9%B2%E8%84%86%E5%BC%80%E4%B8%AA%E8%AE%A4%E7%BD%AA%E9%A2%91%E9%81%93/" target="cdt-mirror">【麻辣总局】中央电视台以后干脆开个认罪频道</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?resize=549%2C360" alt="令计划" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?resize=300%2C197 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?resize=230%2C150 230w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
@@ -608,26 +623,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E5%A4%96
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%AF%E9%A3%8E%EF%BC%9A%E6%95%91%E7%81%BE%E6%97%A0%E9%9C%80%E7%85%BD%E6%83%85%EF%BC%8C%E5%85%B4%E9%82%A6%E4%BD%95%E5%BF%85%E5%A4%9A%E9%9A%BE/" target="cdt-mirror">凯风：救灾无需煽情，兴邦何必多难</a>
-</h2>
-<p><p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.jpg?resize=500%2C375" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.jpg?resize=300%2C225 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>来自微信公号：鸡蛋与高墙（ID: eggs-walls）<br></strong></p>
-<p>一组“就着雨水啃馒头”的照片突然在网上流传，就场景而言，救援士兵不可谓不辛苦，救援场景不可谓不感人，但这种似曾相似的场景，并没有收获一片煽情的泪水，而是铺天盖地的批评。</p>
-<p>就着雨水啃馒头，没有人否认这种场景的存在，但拎出这种场景作为宣传材料，则只会给人以前线只能啃馒头充饥的错觉，这与我们在宏观层面大国崛起之类的宣传内容格格不入，更会让人怀疑灾难救援的专业性：一场救援，如果连后勤保障都跟不上，遑论救援本身？</p>
-<p>如果放在20年前，这样的场景，或许会被认为艰苦的典型。但在今天，没有人认为救灾就必须把所有条件都降到最低层次，仿佛如果条件不够艰苦悲情色彩不够浓厚，就不足以凸显救灾本身的重要性，不足以凸显在救援者的贡献。</p>
-<p>然而，谁都知道，艰苦的救援与一流的后勤保障完全可以同时存在。如果说1998年首次遭遇全国特大范围洪灾，后勤保障力有不逮，倒还情有可原。18年之后的今天，在无数的1998年生死经验的基础上，如果救灾的后勤保障还是如此儿戏，那不免令人感到悲哀和震惊。</p>
-<p>就在遭受舆论广泛质疑之后，有官方媒体随即晒出正常的后勤供应场景，一份温热的盒饭，一份比馒头更有营养的应急餐，提供起来并不存在任何实质上的困难。可惜，宣传机器的思维，仍旧停留在艰苦就是奉献、煽情方能胜利的原有窠臼，浑不知今夕何夕。</p>
-<p>在救援一线的，基本都是普通的士兵，他们来自于最为普通的家庭，凡是出现大灾大难之时都会看到他们的身影。让一群没有任何救灾经验的人上场，本身就是特殊时间下的特殊选择，如果在后勤上还故意以艰苦来营造煽情的印象，那不啻于二次伤害。</p>
-<p>尤其是，许多天灾背后都兼有人祸的因素，人祸让天灾变得更加不可捉摸。原本不会绝提的大坝，原本不会水浸的城市中心地带，原本可以尽早控制的水患，就在豆腐渣、推诿和不负责任中，变得不可控。到最终上场的只会是那些扛沙包的士兵，甚至要用自己的生命，来为某些媒体提供谱写赞歌的素材。</p>
-<p>人民都过河了，宣传机器还在摸石头。把灾难转化为政绩，把救援转化为泪滴，把一切苦痛埋在洪水里，所有的一切都还在重复。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%AF%E9%A3%8E%EF%BC%9A%E6%95%91%E7%81%BE%E6%97%A0%E9%9C%80%E7%85%BD%E6%83%85%EF%BC%8C%E5%85%B4%E9%82%A6%E4%BD%95%E5%BF%85%E5%A4%9A%E9%9A%BE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE%E5%85%B4%E9%82%A6/?category=18271" rel="tag">多难兴邦</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -649,5 +644,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%9A%E9%9A%BE
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

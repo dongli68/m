@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,117 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%9E%E5%BC%B9%E5%86%9B%E6%BC%94%E5%90%91%E7%BE%8E%E8%88%AA%E6%AF%8D%E7%A4%BA%E5%A8%81-%E5%AE%9E%E4%B8%BA%E7%BC%93%E8%A7%A3%E7%BB%8F/" target="cdt-mirror">苹果日报｜中实弹军演向美航母示威 实为缓解经济危机转移视线</a>
+</h2>
+<p><p>南海仲裁前夕，中国在南海大规模实弹军演，解放军调动三大舰队共逾百艘军舰、数十架战机以及海基和岸基导弹，达战役级规模。由于美国在南海周边有两支航母战斗群虎视眈眈，北京专家称演习针对美军，同时表达对国际仲裁的不屑。</p>
+<p>军方宣告从本月 5 日至 11 日（即南海仲裁出炉前一日）在南海西沙海域举行实弹军演。新华社、中央电视台昨高调报道演习详情；透露海军组织上百艘舰艇、数十架飞机及部分岸基导弹，分成红蓝两军，举行实兵实弹对抗演习。参演兵力以南海舰队为主，包括北海和东海舰队部分兵力。</p>
+<p>央视播出画面显示，参演空军有轰 6 、歼轰 7 、歼 11B 等，舰艇有国产最新 052D 导弹驱逐舰， 054A 导弹护卫舰等；发射导弹包括红旗 16 、海红 9 及鹰击 83 等。画面中，一波波导弹腾空怒射，鱼雷逐浪，硝烟四起，爆炸隆隆。海军司令员吴胜利、政委苗华、军委联合参谋部副参谋长王冠中、南部战区司令员王教成四名上将亲临指挥，规格空前。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9wwwwwwwwww.jpg?resize=546%2C314" alt="k9wwwwwwwwww" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9wwwwwwwwww.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9wwwwwwwwww.jpg?resize=300%2C173 300w" sizes="(max-width: 546px) 100vw, 546px" data-recalc-dims="1"></p>
+<p>中国海军护卫舰运城号发射反舰导弹</p>
+<p>而距演习区域不远，美国海军的两支航母战斗群「列根号」及「卡尔文森号」共数十艘军舰、百多架战机正分别在南沙和西太平洋巡航，五角大楼直言部署针对中国。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9wwwwww.jpg?resize=550%2C307" alt="k9wwwwww" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9wwwwww.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9wwwwww.jpg?resize=300%2C167 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>内地军事专家李杰表示，美国两个航母群，千里迢迢到南海对中方示威挑衅，同时南海仲裁即将出台，此刻中国进行实战演练，就是向美国显示力量。</p>
+<p>学者：彰显实力非武斗</p>
+<p>北京外交学院教授周永生对《苹果》记者表示，美国支持菲律宾搞国际仲裁，派出两支航母舰队到中国家门口示威，都是要维护其世界强权。中国军演表明不会屈服于美国强权政治。周认为，中美双方都在彰显实力，并非要真的发生武力冲突。</p>
+<p>经济差　习南海揽权转移视线</p>
+<p>有分析指，今次南海紧张局势是习近平上台以来最严峻，但又是习最需要的。一来习要通过危局检验和掌控军改后的军队，树立军委主席威望；二来可为军方增加支出造势；三来可转移国内因经济下滑及社会矛盾激化引来的注意力。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9wwwwwwww.jpg?resize=550%2C310" alt="k9wwwwwwww" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9wwwwwwww.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9wwwwwwww.jpg?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>流亡澳洲的中国民运人士潘晴指， 中国经济下行已难于遏阻，民生恶化，人心不稳，大量资金逃离，中共高层对如何救市看法相左，变成权力斗争；另外习的执政能力受质疑，上台三年除了抓权就是抓人，党内外人心尽失。潘认为，专制政权在出现内部危机时，制造国际争端以转移民众视线是老招 ；毛泽东和邓小平也干过（经典如 1979 年对越南战争），如今习这么干也不稀奇。但别以为习真敢下命令打，毕竟时代不同，盲从者越来越少，搞不好自己垮台。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%9E%E5%BC%B9%E5%86%9B%E6%BC%94%E5%90%91%E7%BE%8E%E8%88%AA%E6%AF%8D%E7%A4%BA%E5%A8%81-%E5%AE%9E%E4%B8%BA%E7%BC%93%E8%A7%A3%E7%BB%8F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E5%86%9B%E6%BC%94/?category=18271" rel="tag">南海军演</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BC%A0%E5%B9%B3%EF%BC%9A%E7%A6%81%E4%B9%A6%E3%80%81%E6%8A%97%E4%BA%89%E4%B8%8E%E5%BC%82%E8%AE%AE%E6%96%87%E5%8C%96/" target="cdt-mirror">德国之声｜张平：禁书、抗争与异议文化</a>
+</h2>
+<p><p>有评论指出，中共对思想的钳制远胜于当年的国民党。当任何有良知的人随时都可能被推到反对位置时，中国正在培养怎样的异议文化？</p>
+<p>香港《端传媒》发表文章《在中国，何谓“禁书”》，作者邢福增认为，论对书刊的管控，以及思想的钳制，共产党比政局蜩螗的国民党时代布下更广阔的网罗。</p>
+<p>邢福增指出，中国政府对出版事业的管理，在职能上属国家新闻出版总署负责，但在中国共产党的威权统治下，对思想及意识形态工作一直没有掉以轻心，党内负责相关领域的部门是中共中央宣传部（中宣部），充分体现以党治国的体制。</p>
+<p>邢福增说，“当你在中国各大城市的书城内，见到各种精美及高质素的出版品时，别被这表像所蒙蔽，以为中国真的有出版自由。对，中国外长王毅曾说，中国宪法上写了保护人权。不过，‘写’了不等于‘落实’了，这其实也只是常识”。</p>
+<p>抗争先要断六亲？</p>
+<p>香港《立场新闻》发表文章《黑社会•党社会》，作者区家麟说，在香港，若然黑社会作恶，还可以报警求助；“但（中国）这时势这强国，黑社会是小儿科，党社会才是硬道理。公义不彰，枪杆子在手，以法律作利器，庶民申诉无门，政法部门无人有力监督，宪法列明的集会结社游行自由，只是一纸笑话”。</p>
+<p>作者叹息说：“要抗争，先要断六亲，绝爱欲，摆脱人世羁绊，准备好焚身以火，也不一定有好结果，不一定能免于恐惧；乖乖听话的，得享平静生活，享有饱食的自由，囚笼里安享舒适生活，这是时代给每个人的抉择，无人能免”。</p>
+<p>羞辱的是海牙裁决还是中国？</p>
+<p>中国前国务委员戴秉国在华盛顿一个对话会上对海牙国际仲裁法院冷嘲热讽：“听说（关于南海争端的）仲裁结果很快就会出来了，出来就出来吧，没什么了不起，不过是一张废纸！”台湾《苹果日报》发表文章《海牙裁决是一张废纸吗》，作者余杰评论说，戴秉国、王毅不可能在重要的外交场合表达“个人意见”，他们时而温和，时而强硬，并非他们本人是“变色龙”，而是他们服侍的主子性格和立场有了变化。当年的主子胡锦涛韬光养晦，他们也就亦步亦趋；如今的新主人习近平四面出击、好勇斗狠，戴秉国和王毅就要往习近平的话语风格和思维方式靠拢，如此才能保住饭碗，不至于成为反腐运动的牺牲品。</p>
+<p>余杰说，“戴秉国以‘一张废纸’的比喻羞辱海牙国际仲裁法院的裁决，羞辱的其实是他本人和他所代表的中国政府：他虽然西装革履、英文流畅，但骨子里仍是一个信奉‘真理属于拳头’的野蛮人；他代表的中国政府虽然财大气粗、梦想连翩，但从来就是一个只相信‘枪杆子里出政权’的野蛮国家”。</p>
+<p>中国正在打造异议文化</p>
+<p>香港《明报》发表文章《异见与沉默之间》，作者叶荫聪认为，从歌手何韵诗和书店店长林荣基的遭遇，可以看到中国国家机器无意之间，正在打造一种异见文化。</p>
+<p>叶荫聪说，两人在公众面前展现了勇气，作出了牺牲，现出了“知识分子”的身影，成为强权的对立面，但原因不是他们本来有着所谓“知识分子”的职业、思想及社会位置，把他们推到那个位置的，是无法无天的国家机器。简言之，愈来愈多的“知识分子”不是书生，不是纵论天下之士，任何人似乎都有机会被送上那个位置。</p>
+<p>叶荫聪说，只有少数人以异议作为终身职业，至于完全保持沉默者，在最压抑的专制极权时期也许常见，但终究并非常态，否则如今的监控审查者也不用那么忙碌了。在这两端之间及之外，那些拥有文化资源与地位，被视为最典型的知识分子，到底在做什么，他们行为的道德意义是什么，我以为更值得我们认真对待。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%BC%A0%E5%B9%B3%EF%BC%9A%E7%A6%81%E4%B9%A6%E3%80%81%E6%8A%97%E4%BA%89%E4%B8%8E%E5%BC%82%E8%AE%AE%E6%96%87%E5%8C%96/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%B9%B3/?category=18271" rel="tag">张平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">禁书</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BB%B4%E6%9D%83%E7%BD%91%EF%BD%9C%E5%85%B3%E4%BA%8E%E4%BB%BB%E5%85%A8%E7%89%9B%E5%BE%8B%E5%B8%88%E5%9B%A0%E8%A1%8C%E4%BD%BF%E5%BE%8B%E5%B8%88%E6%89%A7%E4%B8%9A%E6%9D%83%E5%88%A9%E8%80%8C%E8%A2%AB/" target="cdt-mirror">维权网｜关于任全牛律师因行使执业权利被刑事拘留的联合声明</a>
+</h2>
+<p><p>2016 年 7 月 8 日晚郑州市公安局官方微博发布一则案情通报称根据当事人赵威（网名“考拉”）的举报和公安的初步调查，任全牛律师在互联网上散布当事人人身受辱的虚假信息，该信息被大量转发报道，造成恶劣社会影响，给当事人赵威名誉造成严重损害，涉嫌犯罪，已于 7 月 8 日被刑事拘留。 7 月 9 日晚，该官微继续发布微博称“任全牛承认 5 月 27 日在新浪微博编织、发布了……虚假信息，并在网上广泛传播。”</p>
+<p>查任全牛律师 2016 年 5 月 27 日新浪微博，发现涉事微博主要内容为“作为赵威家人委托的辩护律师，在会见权利被天津警方非法剥夺的情况下，听闻当事人赵威在看守所内疑遭人身侮辱，前往天津市检察院要求检察院履行法律监督职责，对此予以调查澄清。”（微博截图附后）赵威是去年“ 709 大抓捕事件”中人权律师李和平的助理，被以涉嫌“颠覆国家政权”罪名逮捕羁押在天津市的看守所，与其他“ 709 案”被强迫失踪、逮捕羁押的二十余人一样，赵威也在长达一年的时间里被非法剥夺了与家人委托的辩护律师会见、通信的法定权利。</p>
+<p>观此微博，任全牛律师是在听闻自己当事人的人身权利疑受损害、而要求会见又被天津市公安局非法拒绝的情况下，出于对当事人负责而到法律监督机构要求其履行法律监督职责，不存在任何“编造虚假信息”的行为，郑州市公安局把任全牛律师这种依法履行法律职责的行为当成“寻衅滋事”的犯罪行为立案抓捕，是完全错误的，也是完全非法的。</p>
+<p>维护当事人合法权益，维护法律正确实施，任全牛律师何罪之有？郑州市公安局的抓捕行为是对律师正当执业权的公然践踏，是赤裸裸的打击报复！如果律师通过网络公开发表的合理怀疑和求证信息，都可以肆意被指控为故意传播虚假信息，那么律师还能说话么？如果律师不能说话，那么律师这个职业还有存在的必要吗？宪法和刑事诉讼法规定的律师辩护制度还有存在必要吗？<br>
+在此，我们声明：</p>
+<p>一、强烈谴责郑州市公安局非法抓捕任全牛律师的行为；</p>
+<p>二、要求郑州市公安局立即无条件释放任全牛律师；</p>
+<p>三、我们将为任全牛律师提供一切必要的法律援助，坚决捍卫律师执业权利和公民的言论自由。</p>
+<p>声明人：任全牛律师后援团</p>
+<p>1 常伯阳 河南律师 2 蔺其磊 北京律师 3 刘士辉 广东律师 4 唐吉田 北京律师 5 余文生 北京律师 6 王秋实 黑龙江律师 7 梁小军 北京律师 8 王清鹏 河北律师 9 陈建刚 北京律师 10 刘书庆 山东律师 11 舒向新 山东律师 12 吕方芝 湖南律师 13 覃臣寿 广西律师 14 陈进学 广东律师 15 张磊 北京律师 16 文东海 湖南律师 17 李威达 河北律师 18 钟锦化 上海律师 19 吴魁明 广东律师 20 瞿远 重庆律师 21 蔡瑛 湖南律师 22 李方平 北京律师 23 童朝平 北京律师 24 陈以轩 湖南律师 25 于全 重庆律师 26 李永恒 山东律师 27 马连顺 河南律师 28 张重实 湖南律师 30 卢廷阁 河北律师 31 陈金华 湖南律师 33 罗茜 湖南法律人 34 李金星 山东律师 36 曾义 云南 律师 37 孟猛 河南律师 38 徐红卫 山东律师 39 纪中久 浙江律师 40 刘正清 广东律师 41 葛文秀 广东律师 42 覃永沛 广西律师 43 王振江 山东律师 44 温海波 北京律师 45 滕彪 北京律师 46 刘巍 北京律师 47 蒋援民 广东律师 48 王全平 广东律师 49 许桂娟 山东律师 50 郑恩宠 上海律师 51 江天勇 北京律师 ……<br>
+签名联系人： 常伯阳 18837183338 孟猛 13526862630 </p>
+<p>邮箱 changboyang148@gmail.com 2016 年 7 月 9 日</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
+<hr><p><small>© 先存后转 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BB%B4%E6%9D%83%E7%BD%91%EF%BD%9C%E5%85%B3%E4%BA%8E%E4%BB%BB%E5%85%A8%E7%89%9B%E5%BE%8B%E5%B8%88%E5%9B%A0%E8%A1%8C%E4%BD%BF%E5%BE%8B%E5%B8%88%E6%89%A7%E4%B8%9A%E6%9D%83%E5%88%A9%E8%80%8C%E8%A2%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%85%A8%E7%89%9B/?category=18271" rel="tag">任全牛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%81%90%E6%80%96%E6%B0%94%E6%B0%9B%E5%86%8D%E8%B5%B7-%E4%BB%BB%E5%85%A8%E7%89%9B%E6%89%BF%E8%AE%A4%E7%BC%96%E9%80%A0%E8%B5%B5%E5%A8%81/" target="cdt-mirror">自由亚洲｜709事件周年 任全牛承认编造赵威受辱讯息</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/renjinniu_0.jpg?resize=549%2C308" alt="renjinniu_0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/renjinniu_0.jpg?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/renjinniu_0.jpg?resize=300%2C168 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p>被抓捕的任全牛律师，多次前往天津要求依法会见赵威都被拒后，前往检察院控告警方违法。（律师提供，拍摄时间不详）</p>
+<p>在“709大抓捕”事件1周年时刻，有被捕者家属周六（9日）指警方企图寻找协助他们的律师；而郑州公安微博周六晚突公布，任全牛律师已承认编造律师助理赵威受辱的讯息。而公安部官网强推评论，指必须严惩造谣律师，各地公安官方微博集体转发为舆论造势。有知情人士透露，任全牛被抓是上层的指令。</p>
+<p>内地大规模拘捕维权律师的“709大抓捕”事件，至今刚是1周年，有被捕律师的家属周六（9日）早上得知消息，警方以捉小偷为名，登门找1名协助他们的律师。被捕的维权律师李和平的太太王峭岭接受香港电台访问时说，被捕律师家属纷纷联络他们的代理律师，了解有没有被当局带走。</p>
+<p>王峭岭说：本来我们家属是今天（周六）准备出门的，但是现在这个状况，就是再次恐怖气氛又起来了，目前看这在个状况，今年709的气氛会非常紧张。我们还担心另外709（被捕者）的辩护律师遭到官方的报复，所以今天会继续与这些律师们彼此保持联络。</p>
+<p>获取保候审的李和平律师助理赵威，在郑州公安周五（8日）通报刑拘她的律师任全牛的之后，周六午夜时分，在微博发布一篇题为《震惊与愤怒》的文章，称看到郑州公安的微博，才知道造谣者竟然是自己认识的任全牛。</p>
+<p>但官方并作出任何解释，公安部官方周五晚发表评论，指《律师造谣必须严惩》，所有的网站和各地公安官网，都同步转发。</p>
+<p>评论指，根据相关规定，对案件进行歪曲、不实、有误导性的宣传或者诋毁有关办案机关和工作人员，以及对方当事人声誉等方式，影响依法办理案件，属于律师法规定的违法行为。同时，“发表危害国家安全、恶意诽谤他人、严重扰乱法庭秩序的言论的”等行为，由司法行政部门给予停止执业、罚款、没收违法所得、吊销律师执业证书等处罚；构成犯罪的，依法追究刑事责任。</p>
+<p>但这篇评论对任全牛律师自去年7月到现在，多次申请会见赵威都被拒绝的事实，只字不提。</p>
+<p>一位媒体人向本台透露，这标誌著任全牛律师被抓是上面的指令，根据惯例，指令层级至少是公安部负责人甚至以上级别，这事跟法律并没有一点关系。</p>
+<p>律师文东海称，任全牛并不是赵威遭侮辱的最初发布人，他只是一个律师对自己当事人的状况表示关切，他没有任何过错。</p>
+<p>他说：我们掌握的情况，任全牛没有任何问题，他是一个尽职尽责的律师。首先因为不是任全牛首先发布资讯；其次，后面这个事情（赵威看守所遭侮辱的说法）扩大也不是任全牛引起来的。</p>
+<p>律师余文生亦认为，因为迄今为止没有任何人接触到赵威，因此，赵威是否真的自由了，值得怀疑。此外，官方声称赵威举报，但涉及名誉侵权属于自诉案件，公权力无权介入。</p>
+<p>他说：现在赵威是否真的出来了，或者说真正自由了，是不是赵威发的，是否赵威举报的，这些问题都无法去考证，所以我们对此表示质疑。而且这种案件，如果涉及到个人人身（名誉）的一些事情，应属于自诉案件，警方不应该出面处理这些问题。要么就是赵威举报、要么就是看守所举报，如果是赵威本人的话，公权力直接出面处理，那有违刑事诉讼法。</p>
+<p>任全牛律师被刑拘，赵威丈夫游明磊立即发出公开声明强调，于去年7月委托任全牛律师为赵威辩护，在这一年的时间里，任律师尽职尽责，三番几次和当局沟通，多次到天津要求会见赵威，因被天津警方拒绝并向检察机关提出控告，在这种生不见人、死不见尸的情况下，因网上的一些传言而在微博上求证，并和严华丰律师到天津向警方核实情况，但都没有得到确切的答案，更没有见到赵威本人。在这种情况下，郑州警方以任律师编造散布当事人受到人身侮辱的消息，并造成恶劣影响的理由，简直荒谬至极！游明磊强烈谴责当局的这种无耻行径，并要求郑州当局尽快释放任全牛。</p>
+<p>郑州市公安局值班人士以是行政单位、而抓人的是辖下的分局或派出所为由，拒绝透露更多的资讯。公安部资讯公开办公室的3个电话，则一直无人接听。</p>
+<p>“709”事件被抓捕的其中7名维权律师的家属周五发表声明，要求当局释放被捕人士、停止抺黑、保障律师会见权，撤除对家属的监控、停止对他们骚扰及逼害，并恢复家属合法出入境。</p>
+<p>任全牛律师因赵威的微博文章被抓。（任全牛微博截图）</p>
+<p> </p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard03320.jpg?resize=549%2C615" alt="Clipboard03(320)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard03320.jpg?w=610 610w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard03320.jpg?resize=268%2C300 268w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
+<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%81%90%E6%80%96%E6%B0%94%E6%B0%9B%E5%86%8D%E8%B5%B7-%E4%BB%BB%E5%85%A8%E7%89%9B%E6%89%BF%E8%AE%A4%E7%BC%96%E9%80%A0%E8%B5%B5%E5%A8%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%85%A8%E7%89%9B/?category=18271" rel="tag">任全牛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B3%AD%E5%B2%AD/?category=18271" rel="tag">王峭岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E5%8E%86%E4%BB%A3%E5%AE%98%E5%BA%9C%E4%B8%BA%E4%BD%95%E8%A6%81%E6%89%93%E5%8E%8B%E8%AE%BC%E5%B8%88%EF%BC%9F/" target="cdt-mirror">唐映红 | 心理学问答：历代官府为何要打压讼师？</a>
 </h2>
 <p><p><strong>问：历代官府为何要打压讼师？</strong></p>
@@ -604,136 +712,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/" target="cdt-mirror">赵威微博发布“自拍” 引更多质疑</a>
-</h2>
-<p><p>考拉赵威的微博帐号于中国时间7月7日20时许发表了意与李和平律师划清界线的公开信《致朋友们的一封信》，称自己“不经意间使自己成为别有用心的人的棋子”，“对自己年轻单纯、涉世未深、偏执盲目铸成的大错感到追悔莫及，并真心悔悟”，但该文后被删除，原因不详。7月8日上午9时28分，@考拉就是考拉 再次发布了上述公开信：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%892.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%892.jpg?resize=450%2C105" alt="考拉2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉2.jpg?w=1802 1802w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉2.jpg?resize=300%2C70 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉2.jpg?resize=768%2C179 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉2.jpg?resize=1024%2C238 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%893.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%893.jpg?resize=450%2C304" alt="考拉3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉3.jpg?w=1804 1804w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉3.jpg?resize=300%2C203 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉3.jpg?resize=768%2C519 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉3.jpg?resize=1024%2C691 1024w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>但许多网民对这封公开信的真实作者表示怀疑，并猜测天津当局才是背后真正的执笔人。外加有媒体报道赵威的丈夫游明磊无法联系上妻子，微博上要求@考拉就是考拉 拍照证明真身的呼声越来越高。</p>
-<p>7月8日上午11时33分，@考拉就是考拉 发布赵威“自拍”，照片中的赵威穿着蓝色外套，称自己在享受阳光的热烈（当天天津最高气温32度）：</p>
-<blockquote><p>@考拉就是考拉：享受阳光的热烈，大口呼吸自由的空气，虽然昔日的长发变成短发，但丝毫不影响我此时的心情，我只想告诉所有挚爱的亲人们，我平安喜乐，很开心……</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E7%85%A7%E7%89%87%E5%BE%AE%E5%8D%9A1.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E7%85%A7%E7%89%87%E5%BE%AE%E5%8D%9A1.jpg?resize=500%2C348" alt="考拉照片微博1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博1.jpg?w=1807 1807w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博1.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博1.jpg?resize=768%2C535 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博1.jpg?resize=1024%2C713 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>然而正是这张本用来作为证据的“自拍”，却让更多网民对赵威微博帐号的真实操作人表示怀疑。网民指出的疑点主要有：</strong></p>
-<ol><li><strong>赵威自拍微博显示来自“360浏览器”，然而她以前的微博都是通过iPhone6发布的，从未使用过360。</strong></li>
-<li><strong>之前一直用iPhone6发布微博的赵威，这次却在手机自拍后用电脑上传微博。</strong></li>
-<li><strong>与她以前大量自拍对比后发现，赵威脖子左边有一颗明显的痣。但最新微博“自拍”照中，那颗痣出现在完全相反的位置，即脖子右边。</strong></li>
-</ol><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6b8c2377gw1f5mgu3g54fj20w80go109.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6b8c2377gw1f5mgu3g54fj20w80go109.jpg?resize=440%2C228" alt="6b8c2377gw1f5mgu3g54fj20w80go109" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6b8c2377gw1f5mgu3g54fj20w80go109.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6b8c2377gw1f5mgu3g54fj20w80go109.jpg?resize=300%2C155 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博 <a href="http://weibo.com/aaaaa99999" target="_blank">@映蕊流年</a></span></p></div>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg?resize=450%2C599" alt="d9ff9285gw1f5mh9r8ruvj20qo0zin0e" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg?w=960 960w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg?resize=225%2C300 225w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg?resize=768%2C1022 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d9ff9285gw1f5mh9r8ruvj20qo0zin0e.jpg?resize=769%2C1024 769w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a><p><span>图片来源：新浪微博 <a href="http://weibo.com/shjsls" target="_blank">@顏廷旺</a></span></p></div>
-<p>@平安天津 的账号内倒是经常可以见到通过“360安全浏览器”发出的微博：</p>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A5360%E6%B5%8F%E8%A7%88%E5%99%A8.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A5360%E6%B5%8F%E8%A7%88%E5%99%A8.jpg?resize=450%2C545" alt="平安天津360浏览器" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津360浏览器.jpg?w=1569 1569w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津360浏览器.jpg?resize=248%2C300 248w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津360浏览器.jpg?resize=768%2C930 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津360浏览器.jpg?resize=846%2C1024 846w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>@考拉就是考拉 的“自拍”微博不久后还出现了大量评论被删的现象，被不少网民质疑为“穿帮”后的补救措施：</p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E7%85%A7%E7%89%87%E5%BE%AE%E5%8D%9A2.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E7%85%A7%E7%89%87%E5%BE%AE%E5%8D%9A2.jpg?resize=500%2C349" alt="考拉照片微博2" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博2.jpg?w=1808 1808w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博2.jpg?resize=300%2C209 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博2.jpg?resize=768%2C536 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉照片微博2.jpg?resize=1024%2C714 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p>@徐昕：如果已经获释，为何还要通过微博向亲人传递消息？</p>
-<p><a href="http://weibo.com/n/%E9%A6%99%E8%8D%89%E5%B1%B1%E5%B1%B1%E5%B1%B1?from=feed&loc=at" target="_blank">@香草山山山</a>:能不能解释一下？<br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e4c8d56gw1f5me21n97qj20k00zktbx.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e4c8d56gw1f5me21n97qj20k00zktbx.jpg?resize=375%2C666" alt="8e4c8d56gw1f5me21n97qj20k00zktbx" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e4c8d56gw1f5me21n97qj20k00zktbx.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/8e4c8d56gw1f5me21n97qj20k00zktbx.jpg?resize=169%2C300 169w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></a></p>
-<p>@beatleswz: 用360浏览器发布一张自拍照……</p>
-<p><a href="http://weibo.com/5484068771" target="_blank">@莱州农夫142857</a>：手机拍照，电脑放图，多此一举了吧？感觉越来越假<img title="[思考]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/e9/sk_org.gif" alt="[思考]" data-recalc-dims="1"></p>
-<p>@罗长亮575：是手机拍的照片吗？怎么用360浏览器发？</p>
-<p>@净胡尘：用360安全浏览器发手机自拍？而不是用手机客户端发自拍，真的很奇怪。</p>
-<p><strong>@LeMcDuII:客户端显示来自从没用过的360安全浏览器，有人会用手机自拍后上传到电脑上发吗？智商突破下限……</strong></p>
-<p>@FineXiyan：考拉的 iPhone 6 叫@天津发布 贪污了吧</p>
-<p>@鱼儿不停地游啊游：这就是未自由的铁证，360浏览器！</p>
-<p>@小念想_：哇，評論太厲害啦，喔哈哈哈。火眼金睛的各路俠客呀！黃鼠狼手機拍照，交給大灰狼上360，在考拉帳戶發微博。</p>
-<p>@紧de爷：正午的阳光下，看不到handgun抵头的阴影。赶快发一张跟亲人在一起的照片吧，再不发跟亲人在一起的照片，就彻底露馅啦。</p>
-<p>@轻佻小王子：疑问一，如果考拉在入狱之前就知悉其所从事工作的性质，并反对此种工作，那么，考拉入狱这一年都在做什么？狱外舆论早已发酵，为何不早日让考拉出面澄清？ 疑问二，考拉如真出狱，那微博自拍照须转到电脑然后发出，与常理不符，当然这有些牵强。 疑问三，考拉为何删除微博评论？</p>
-<p>@柳暗花明M1：夏天穿这么多，而且是电脑发图，并且没回家……种种迹象表明……</p>
-<p>@忿忿prep：你的拍照风格和说话风格怎么突然这么小粉红？还有你住在哪？为什么用电脑发自拍照？电脑没没收吗？家人怎么没见到你？</p>
-<p>@老妖再来11：家人和律师都没有见到她，她微博说感谢党和警察，我信，大水是她发的，灭绝人性的文革也是她发动的，日军侵华也与她有关我全信了好吗？能绑一个村长的孙子逼村长电视认罪，对付一个小姑娘还不容易，只是祈求考拉平安！考拉，你还好吗？</p>
-<p>@新王小二：嗯，实际上，党和政府的态度已经明了：要了解近况可以，但要出来是不成的。所谓的取保候审实际只是押解下的监视居住。</p>
-<p>@散开头发：最好发张和你亲人合影让我们心安，否则这微博就是土匪无耻下流欺骗手段</p>
-<p>@品味情怀：操弄考拉微博的你们这些狗屎蠢货，你们是阴暗角落里的蛆虫！！！！！</p>
-<p>@二0一二的天空：怎么刚看的评论，一会儿就不见了。真担心你啊</p>
-<p>@西萝丝梦：一下变1百多评论了，删的太快</p>
-<p><a href="http://weibo.com/5580548526" target="_blank">@头条热视频</a>：哎呦，邪教组织露馅了开始删评论了<img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"><img title="[吐]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/9e/t_org.gif" alt="[吐]" data-recalc-dims="1"></p>
-<p>@吴周求：删评论有毛用。别人都截图了</p>
-<p>@槛外青衣客：评论删除，正好证明是操控的</p>
-<p><a href="http://weibo.com/n/%E7%8E%9B%E6%8B%89%E5%9F%BA%E4%BA%8C%E4%B8%96?from=feed&loc=at" target="_blank">@玛拉基二世</a>:考拉成了名人，还有特型演员？<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005uvtVPgw1f5mgvhr3ftj30hs2augro.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005uvtVPgw1f5mgvhr3ftj30hs2augro.jpg?resize=350%2C1631" alt="005uvtVPgw1f5mgvhr3ftj30hs2augro" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005uvtVPgw1f5mgvhr3ftj30hs2augro.jpg?w=440 440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/005uvtVPgw1f5mgvhr3ftj30hs2augro.jpg?resize=220%2C1024 220w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
-<p>@范shion0：明摆着被，土匪盗用了微博，欺骗老百姓，真可笑<br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/e829b6d8jw1f5mhoocpygj20qo1bejv0.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/e829b6d8jw1f5mhoocpygj20qo1bejv0.jpg?resize=440%2C782" alt="e829b6d8jw1f5mhoocpygj20qo1bejv0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/e829b6d8jw1f5mhoocpygj20qo1bejv0.jpg?w=440 440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/e829b6d8jw1f5mhoocpygj20qo1bejv0.jpg?resize=169%2C300 169w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%90%A6%E8%AE%A4%E8%A6%81%E6%B1%825%E5%BC%A0%E5%85%89%E7%9B%982%E9%83%A8%E6%89%8B%E6%9C%BA-%E5%8F%AA%E8%A6%813%E5%BC%A0/" target="cdt-mirror">奇客资讯 |  广电总局辟谣：审批只要3张光盘2部手机</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/livLJMezH6JW.png?resize=600%2C332" alt="livLJMezH6JW" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/livLJMezH6JW.png?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/livLJMezH6JW.png?resize=300%2C166 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>国有媒体<a href="http://tech.ifeng.com/a/20160707/41635317_0.shtml" target="_blank"><u>报道</u></a>（另一<a href="http://www.chinaz.com/news/2016/0708/548993.shtml#g548993=1" target="_blank"><u>来源</u></a>），新闻出版广电总局对备受争议的移动游戏审批要求进行了辟谣。广电总局否认游戏开发者需要提供5张光盘2部手机，声称这与事实严重不符。根据新闻出版广电官网列举的要求，它只要求3张光盘最多2部手机。<a href="http://www.sapprft.gov.cn/sapprft/contents/7063/300680.shtml" target="_blank"><u>《移动游戏审批指南</u></a>》称，如果申请的是国产游戏，那么申办人需要递交《出版国产移动游戏作品申请表》；用于内容审查的高、中、低等级“管理人员”帐号各3个（如游戏无注册登陆功能，提交说明后可不提交账号）；游戏安装包下载地址、游戏安装光盘或安装游戏的专用审查设备1部（审查结束后退回申报方）；以上书面材料的电子扫描件、游戏中文脚本全文及游戏屏蔽词库（如游戏无文字输入功能，可提交说明）电子文档光盘3张。如果是境外著作权人授权移动游戏审批，那么要求提供的手机增加了一部——“游戏安装包下载地址、游戏安装光盘或安装游戏的专用审查设备2部（审查结束后退还申报方）”。新闻出版广电总局还对英文要求进行了说明。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E5%AE%A2%E8%B5%84%E8%AE%AF-%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%90%A6%E8%AE%A4%E8%A6%81%E6%B1%825%E5%BC%A0%E5%85%89%E7%9B%982%E9%83%A8%E6%89%8B%E6%9C%BA-%E5%8F%AA%E8%A6%813%E5%BC%A0/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9/?category=18271" rel="tag">内容</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%85%E5%AE%B9%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">内容审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93/?category=18271" rel="tag">媒体报道</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%89%B9/?category=18271" rel="tag">审批</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88/?category=18271" rel="tag">新闻出版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E6%88%8F/?category=18271" rel="tag">游戏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B3%E6%8A%A5/?category=18271" rel="tag">申报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E7%90%86/?category=18271" rel="tag">管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%9F%E8%B0%A3/?category=18271" rel="tag">辟谣</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA%E6%98%AF%E6%80%95%E5%96%B7%E5%AD%90%E6%B1%A1%E4%BA%86%E5%A4%A7%E5%AE%B6/" target="cdt-mirror">【立此存照】天津警方：删评论是怕喷子污了大家的眼</a>
-</h2>
-<p><p>@平安天津于中国时间2016年7月7日发表了关于赵威的“情况通报”，迅速引来大量评论。数字时代编辑截取以下图片时，该条微博尚有1089条评论：</p>
-<div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A51.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A51.png?resize=500%2C648" alt="平安天津1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津1.png?w=1806 1806w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津1.png?resize=231%2C300 231w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津1.png?resize=768%2C996 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津1.png?resize=790%2C1024 790w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@平安天津 微博截图一</span></p></div>
-<p>若干小时后，评论只剩下21条：</p>
-<div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A52.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A52.jpg?resize=500%2C676" alt="平安天津2" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津2.jpg?w=1567 1567w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津2.jpg?resize=222%2C300 222w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津2.jpg?resize=768%2C1039 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津2.jpg?resize=757%2C1024 757w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>@平安天津 微博截图二</span></p></div>
-<p><strong><br>
-天津警方并公开回应网民质疑，称删除微博评论是“怕那些喷子污了大家的眼”：</strong></p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A53.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E5%A4%A9%E6%B4%A53.jpg?resize=550%2C157" alt="平安天津3" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津3.jpg?w=1771 1771w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津3.jpg?resize=300%2C85 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津3.jpg?resize=768%2C219 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安天津3.jpg?resize=1024%2C291 1024w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>@平安天津 微博回复 截图</span></p></div>
-<p>（在大陆网络语境中，“喷子”一般被“爱国人士”用来指对政府不满、不认同官方口径的网民。）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E5%A4%A9%E6%B4%A5%E8%AD%A6%E6%96%B9%EF%BC%9A%E5%88%A0%E8%AF%84%E8%AE%BA%E6%98%AF%E6%80%95%E5%96%B7%E5%AD%90%E6%B1%A1%E4%BA%86%E5%A4%A7%E5%AE%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%AE%9A%E4%B9%89%E4%B8%AD%E5%9B%BD%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%9C%A8%E5%B4%9B%E8%B5%B7%E3%80%81%E8%84%86%E5%BC%B1%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%BA/" target="cdt-mirror">博谈网｜定义中国：一个正在崛起、脆弱的世界强国</a>
-</h2>
-<p><p>（博谈网记者赵亮编译）本文译自新加坡《海峡时报》7月5日刊登的国际管理发展学院（IMD）瑞士洛桑和新加坡校区国际政治经济学名誉教授、香港大学客座教授Jean-Pierre Lehmann的文章，题目为“定义中国：一个正在崛起、脆弱的世界强国”。以下为译文：</p>
-<p>在这个星球上正面临着许多令人生畏的问题，最重要的是中国的问题，至少对于二十一世纪的头二十五年，也可能延伸到前半个世纪。</p>
-<p>中国的和平崛起将会成功，还是失败？中国的社会将如何演变？世界将如何适应中国的崛起，不仅仅在经济上，而且在地缘政治和军事上？</p>
-<p>可以理解有一种内在的愿望是持乐观态度。“情况会好的”；“中国人真正想要的只是经济上的成功”；“毛泽东思想已幻化成了唯物主义”。但是自满和一厢情愿的想法是危险的。绝对有必要切实地分析看看所面对的现实。</p>
-<p>第一个重要的问题是：中国是什么？中国适合于什么样的概念框架？是什么让我不断地感到我们的理解常常是错的。</p>
-<p>人们有多么频繁地读到“中国和其他新兴市场”这样的短语，即使在备受尊敬的刊物里？中国并不是一个新兴市场。它在任何方式上都不像“其他”的新兴市场。中国就是中国。</p>
-<p>虽然所有国家都自成一格，从微小的圣基茨和尼维斯到巨大的中国，但是中国是用大写字母的自成一格。把它划入某些人为的集合“流派”是分析性的误导。</p>
-<p>对中国最草率的分类是朗朗上口又毫无意义的所谓“金砖五国”。巴西、俄罗斯、印度、中国和南非的共同点少之又少。它们无法构成一个集合体——无论是文化、政治、社会、经济、人口结构或是地缘政治。</p>
-<p>从一个更窄的亚洲大陆角度来看，曾有一个时尚术语“中印”来指中国和印度，也称“两个亚洲巨人”。虽然中国和印度有一些事是共通的，但是它们从根本上是两个非常不同的样本，有着两个非常独特的历史——中国在公元前两百年秦朝的时候成为一个统一的中央集权制国家，而印度直到一千八百年之后的莫卧儿王朝才成为中央集权的国家。</p>
-<p>在当代，中国频繁地被攻击和入侵，但它并没有成为西方或日本的殖民地。英国在印度的殖民持续了近两个世纪。</p>
-<p>有个有趣的洞察：从印度传来的佛教对中国有着重大影响，即使在今天的“共产”中国，据估计有2.5亿人信仰佛教，占中国人口的18%，但是佛教在印度几乎消失了，只占印度人口的1%。中国和印度在这一点上是不同的。</p>
-<p>此外，为了强调中国的多样性，中国有大约1亿的基督徒。这使得中国是继美国、巴西和俄罗斯之后世界上第四大基督教国家！中国的基督徒人数超出中共党员的人数！但是，把中国称作一个“基督教国家”还为时太早！</p>
-<p>贫穷的、中国式的和共产主义的？</p>
-<p>早在1970年代，我在英国一所大学当讲师的时候，一位汉学家朋友Jack Grey常常在他演讲的开头说“要理解中国，重要的是记住它是（一）贫穷的、（二）共产主义的、（三）中国式的”。</p>
-<p>中国当然仍然是中国式的！虽然作为世界第一或第二大经济体，在中国仍然有贫困，但是它拥有世界上最多的亿万富翁以及至少5亿人的庞大的城市中产阶层，它肯定不穷。</p>
-<p>它是共产主义的？有一个著名的故事：在谈判移交香港的时候，撒切尔夫人问邓小平：“中国特色的社会主义，这是什么意思？”邓小平回答说“任何你想要的意思。”</p>
-<p>这个故事可能是杜撰的，但它抓住了本质。</p>
-<p>中国仍然是在中共统治下的极权专政。由于美国和中国之间的关系紧张，尤其是在南海问题上，有一个“新冷战”的说法。</p>
-<p>但中国一点也不象旧苏联。记得有数以百万计的苏联游客蜂拥到法国、意大利、日本、香港及韩国等等国家吗？当然没有。苏联游客唯一的目的地在铁幕的后面：在克里米亚！</p>
-<p>那么苏联有政治局高级成员的儿女成群结队地到美国常春藤高校及欧洲和澳洲的大学上学吗？又是没有：那是冷战！有人也许还会提中国的企业和富人把数十亿美元投资到世界各地的矿山、种植园、生产基地、房地产、铁路、港口等等。很难记得那些苏联人象没有明天一样购买欧洲的豪华商品和法国的顶级葡萄酒。</p>
-<p>“新冷战”的场景有很多不对头的地方。那么，中国是什么？</p>
-<p>当今中国的本质</p>
-<p>我能想到的最好的（不是说它是完美的）方式是把中国定义为一个具有雄心的正在崛起的世界强国，但它在许多方面是脆弱的。</p>
-<p>中国是一个崛起的世界强国，这毋庸置疑。它目前在经济上几乎遍及这个星球的每一个角落。它有一个不断增长的军械库和扩张野心——南海及日益扩展到印度洋。它是一个核大国。它有一个宏伟的愿景，铰接式的新丝绸之路，简称“一带一路”。</p>
-<p>但它是脆弱的。它的力量几乎是特有的坚硬；它的软实力是弱的。它几乎与所有的邻国都有领土争端。与台湾和香港的紧张关系至少是具有刺激性的，或许更甚。这个国家最依赖于英国作为其通往欧盟的门户，现在英国离开了欧盟。</p>
-<p>中国在国内生产总值（GDP）方面是富有的，但在资源上，与它的需求相比，是贫穷的。</p>
-<p>举最关键的例子：中国拥有世界人口的18%，但只有世界耕地面积的7%。北京既要确保食物供给，但同样重要的还有食品安全，这种情况在其他世界强国是没有的。</p>
-<p>中国有很多的内部矛盾。现在政治上可能相对稳定一些。但中共还能维持多久的权力？还没有一个独裁的政党寿命超过75年，例如，苏共是74年，墨西哥的革命制度党（PRI）是71年。</p>
-<p>在内部有派别之争。关于中共，大概最重要的问题是如果它不能维持经济的增长，它还可以维持多久政治权力。环境灾难问题也不容忽视。</p>
-<p>再来还有代沟。与我同龄（70岁）的中国人有着残酷的经历：结束了与日本的毁灭性战争后，接着是内战，然后是“解放”和所有随之而来的清洗，之后是大跃进，紧接着又是文革。因此，所有与我同时代的中国人想要的是和平与稳定。</p>
-<p>然而，中国的千禧世代几乎在各个方面都有着完全不同的经历，有着不同的期望。</p>
-<p>值得注意的是在兄弟姐妹方面的差别：与我同时代的中国人很可能有7个或8个兄弟姐妹，或许一半甚至更多小的时候就死了。中国经历了几乎一整代人都是独生子女。</p>
-<p>无论这些人口是否会令中国或多或少的脆弱，仍有待观察，但可以肯定的是它产生了影响，给这种别具一格又添加了一层特有的东西。</p>
-<p>中国是复杂的。它不会随着时间的推移变得没那么复杂。简单化的定义或归类会导致简单化（和错误的）分析。</p>
-<p>我不是说我的描述是完美的，但我想“崛起”、“国际”、“脆弱”和“强国”这些词似乎能捕捉到当今中国的本质。</p>
-<p> </p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 网眼恢恢 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E5%AE%9A%E4%B9%89%E4%B8%AD%E5%9B%BD%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%AD%A3%E5%9C%A8%E5%B4%9B%E8%B5%B7%E3%80%81%E8%84%86%E5%BC%B1%E7%9A%84%E4%B8%96%E7%95%8C%E5%BC%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%B4%9B%E8%B5%B7/?category=18271" rel="tag">中国崛起</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E8%B0%88%E7%BD%91/?category=18271" rel="tag">博谈网</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -745,7 +723,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -755,5 +733,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

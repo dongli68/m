@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,110 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E5%8E%86%E4%BB%A3%E5%AE%98%E5%BA%9C%E4%B8%BA%E4%BD%95%E8%A6%81%E6%89%93%E5%8E%8B%E8%AE%BC%E5%B8%88%EF%BC%9F/" target="cdt-mirror">唐映红 | 心理学问答：历代官府为何要打压讼师？</a>
+</h2>
+<p><p><strong>问：历代官府为何要打压讼师？</strong></p>
+<p>答：<strong>现代社会的律师，在传统王朝社会里被称为“讼师”。</strong>讼师者，即替那些打官司的人出主意，写状纸为业的人。传统社会里，由于民众受教育的比例相当低，大多数民众连书信也不能自己书写，“代客书信”一直都是落魄书生的一门糊口手艺，因此，一旦面临讼事，就需要有人能帮助自己书写状纸，点拨应对。因此，<strong>讼师在历朝历代都成为民间社会不可或缺的“诉讼代理人”。</strong></p>
+<p>但是，<strong>在民间社会受到欢迎的“讼师”，在历代官府眼里，却名声不佳。</strong>历代官府多认为讼师“摆弄是非”，又“势利贪财”，利用他们手中的笔，轻则造谣生事，重则祸乱纲纪，因此贬之谓“刀笔吏”。不仅如此，<strong>历代官府从立法上就打压讼师，限制讼师的活动。</strong></p>
+<p>例如，在唐朝，《唐律疏议·斗讼》规定，讼师挑唆亲属相告（如子告父、父告子），或奴婢告主人，则按所告之罪减一等处罚。即使讼师为亲属之间的讼事提供帮助，也视为挑唆亲属相告。另外，其中还有两条罪名是专门针对讼师的，一为“<strong>为人作辞牒加状</strong>”，即帮人写状纸，夸大其词，“加增其状”，处罚是笞五十。另一为“<strong>教令人告事虚</strong>”，即挑唆当事人无中生有，诬告他人，犯了此罪，实行反坐原则，减一等处罚。如诬告他人一个应杖九十，那对讼师的处罚就是杖八十。</p>
+<p>再例如，在明朝，《大明律集解附例·诉讼》规定，凡是教所诬告他人，以及在为人写状词时夸大或掩盖罪行，诬告他人的，<strong>与犯人同罪</strong>，也即是“诬告反坐”。清朝时，则干脆规定，<strong>讼师若是受雇诬告他人的，视同讼师本人诬告</strong>；拿了雇主钱财的，计算财务总额，按枉法罪<strong>从重处罚</strong>。</p>
+<p>传统社会的权力集团之所以会打压讼师，其原因就在于<strong>讼师的活动挑战和威胁了权力集团的权威。</strong>由于传统社会的所谓“王法”相比于现代法律而言，往往规定模糊，语焉不详，<strong>因此对官府来说，如何适用法律，以及如何诠释法律，完全可以凭己之所好，这是一种权力。</strong>但是，讼师的活动，首先就挑战了官府对法律的适用解释权；同时，讼师对法律的不同的适用和诠释理解，又威胁了官府的权威，使民众可以轻易看到官府“错了”。因此，权力集团就需要以严峻的法条来严格限制讼师的活动。</p>
+<p>用现代的法律常识来理解，讼师之所以代人写状纸，帮人出主意，原本就是因为许多时候讼事双方各据一词，真伪并不那么清晰易辨。但<strong>权力集团动辄以“诬告反坐”的紧箍咒，就使得讼师所代理或帮助的讼事一旦败诉，就面临“反坐”之刑，因此，讼师在帮助或代理讼事活动中，只有以官府的意见为指导，不敢须臾逾越。</strong></p>
+<p>从权力心理学的角度来看。从事讼师活动的人，主要集中在三类：仕途不畅的读书人；官府衙役和他们的子弟；依仗家势能影响官吏的豪民。这些人相比于百姓，无论是因为掌握了更多知识，还是拥有官府的关系，或者家势凌人，都相当于<strong>拥有了普通百姓所没有的“权力”，这是他们能够有底气和资源与权力集团所任命的基层官吏进行博弈。</strong>对掌握了由朝廷所赋予权力的基层官吏来说，<strong>他们手里的权力有多大，不仅取决于朝廷的赋予，更取决于百姓有多依赖和敬畏他们手里的权力。</strong>即使朝廷赋予其生杀予夺的“权力”，但所辖百姓根本不以为然，那他拥有的权力也就形同虚设。<strong>讼师因为相比于普通百姓掌握了一部分权力，事实上也就削弱和制约了基层官吏权力的行使。</strong>特别是，讼师代理活动所依仗的仍然是朝廷的同一部“王法”，但<strong>只要讼师对“王法”的援引和诠释与基层官吏不同，其性质也就从根本上质疑和动摇了基层官吏的在百姓心目中的公信力和能力。</strong></p>
+<p>特别地，<strong>讼师的活动不仅挑战和威胁了基层官吏的权威，而且也会在无形中削弱朝廷的威严。</strong>代理讼事不仅仰仗朝廷的“王法”，民间社会也同样有着朴素的基本道义立场。<strong>在一个缺乏神权权威的社会里，朝廷的权威本来就十分脆弱</strong>，“替天行道”一直以来就是中国王朝政治的双刃剑，<strong>一个王朝的建立来源于叛乱；而建立的王朝又严加防范辖下百姓、官吏的叛乱。</strong>正是因为朝廷的权威缺乏神权的加持，因此讼师的活动对基层官吏的挑战同时也或多或少是在挑战朝廷本身的权威。所以，历朝历代朝廷和官吏阶层都有着限制和禁锢讼师的共识。但是，<strong>又由于朝廷也好，官府也好有必要维持亲民的形象，给民众遭遇不公提供必要的投诉渠道，以避免可能的揭竿而起，因此历朝历代都没有完全禁绝讼师</strong>，即使是对讼师最为苛刻的元朝，也只是规定几种罪行不得由讼师代理，只能当事人自行上堂争讼，例如，谋反（相当于现时代之<strong>煽动颠覆罪</strong>）、大逆不道（大体上可以比附现时代之<strong>寻衅滋事罪</strong>）、子孙不孝，等等。</p>
+<p>由此，在权力心理学的框架内，历朝历代官府打压讼师不过是因为传统社会权力结构的特异性而导致的必然结果。不仅是传统社会，<strong>只要是一个社会的权力结构不是建立在民众授予权力者以权力，而是依靠权力集团巧取豪夺后勉力维持，那么，打压律师也就是势在必然。</strong>在现代社会里，<strong>律师事实上是距离政治最近的一个群体</strong>，像在美国，律师出身的总统占据了历届总统中的大多数；而中国的台湾地区，曾经在威权时代代理被打压异议集团的律师（阿扁）最终也获任民主化后的“总统”职位。这也同时意味着，<strong>越是极权的社会，律师的受到打压的概率和程度也越高。</strong>从某种意义上说，<strong>律师是最可能戳破政治谎言的一个群体。</strong></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E5%8E%86%E4%BB%A3%E5%AE%98%E5%BA%9C%E4%B8%BA%E4%BD%95%E8%A6%81%E6%89%93%E5%8E%8B%E8%AE%BC%E5%B8%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F/?category=18271" rel="tag">传统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E5%BC%88/?category=18271" rel="tag">博弈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83/?category=18271" rel="tag">威权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E8%83%81/?category=18271" rel="tag">威胁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B/?category=18271" rel="tag">打压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E7%BB%93%E6%9E%84/?category=18271" rel="tag">权力结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权力集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83/?category=18271" rel="tag">极权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%8C%96/?category=18271" rel="tag">民主化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E7%BD%AA/?category=18271" rel="tag">煽动颠覆罪</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 16分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E9%82%A3%E6%98%AF%E4%B8%80%E5%A0%B5%E5%A2%99%EF%BC%8C%E4%B8%80%E5%A0%B5%E9%92%A2%E7%9A%84%E5%A2%99/" target="cdt-mirror">微思客 | 那是一堵墙，一堵钢的墙</a>
+</h2>
+<p><p>作者：<strong>刘彪，</strong>微思客WeThinker传媒境内维护部部长</p>
+<p><strong>编者按：</strong>2016年5月底，微思客由于推送了蔡英文就职演说，违反相关政策规定，被迫永久关闭原微信公众号，后微思客启用新号（wethinker2016），从头来过。本文为微思客编辑刘彪当日所写一篇随笔。作者现为中国政法大学资本金融研究院研究员、微思客传媒境内维护部部长、北京706青年图书馆的创始合伙人。</p>
+<p>5月20号早上的7点，爸爸电话把我打醒，问今天电视不转播蔡英文就职典礼怎么办，他已经会用百度了，不过也没有找到要直播的网站，他问为什么。</p>
+<p>我说没有购买转播权呗，亏你儿子读政法大学，晓不晓得什么叫知识产权，我发了一顿牢骚，说他这么大了还不懂得克制，7点半打电话能说的事儿，7点就打来了，我还在睡觉。</p>
+<p>觉得对爸爸发了脾气，有些后悔，9点到实习单位发了条短信过去：</p>
+<p>“爸，别担心，我们微思客会第一时间转发文字稿。”</p>
+<p>克己复礼，他需要“克己”，我需要“复礼”。</p>
+<p>对这一点承诺还是有自信的，对于周永康正式被查的海外动态，就是微思客最早引入中国的。</p>
+<p>上午10点，台湾的敏姐开始在微思客编辑部群里转发直播截图，微思客公众号建立800多天以来，除了有几次节假日没有推送，都是每天早上8点准时推送新的图文消息，涉及法律、政治、文化、科技、历史，方方面面，我们的口号叫“跨界思维、国际视野、协同探索、分享新知”。</p>
+<p>既然跨界，学科比较多就正常了，虽然我还是不明白，松林的版块为什么叫《海外汉学与反思》，而且他把自己定位为一名“拳击运动员”。</p>
+<p>今天要延迟到中午推送，因为蔡英文就职典礼的文字稿，我们打算第一时间引进，12点她才结束演讲。</p>
+<p>我在编辑群里说，我爸作为微思客的忠实粉丝，已经等待我们的推送了，平时他最喜欢看的节目是《海峡两岸》。</p>
+<p>我把微思客群里直播和今天将要延迟推送的消息发了朋友圈。</p>
+<p>到11点也没有人点赞和评论，我有些失望，看来706青年空间的方荣说的对，我是个过气的法大网红，卖相不好，吸引不到客人。</p>
+<p>约摸11点过一些，蔡英文步出总统府发表就职演说的文字稿在台湾公布，微思客正式推送后编辑部传来不幸的消息。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-%E4%B8%8B%E5%8D%889.09.16.png?resize=476%2C426" alt="Screen Shot 2016-07-09 at 下午9.09.16" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午9.09.16.png?w=476 476w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午9.09.16.png?resize=300%2C268 300w" sizes="(max-width: 476px) 100vw, 476px" data-recalc-dims="1"></p>
+<p>微信被举报都搞得很复杂，分为“此内容因违规无法查看”和“此内容被多人投诉，相关内容无法查看。”</p>
+<p>社会主义法治不是基本建成了吗？但违反相关法律法规是没事的，而“被多人投诉”三次就要对我们进行处理，这已经是第三次了，第二次是点评蒋经国的文章《他以专制结束专制》，第一篇可能被查得太过无聊，以至于，整个编辑部团队没有人想得起第一篇被举报的文章到底是什么。</p>
+<p>我胡乱揣测了一下，我的朋友圈不会也是被屏蔽了吧，找来朋友的手机看，果然我自己发布的朋友圈和朋友们看到我的朋友圈是不一样的。</p>
+<p>我向来不知道微信还有这种“双簧”表演，上网一搜，微信朋友圈发布“不当言论”会被屏蔽，对个人微信用户也会给予封号的处理。</p>
+<p>事实上，微信和其他很多公共平台不同，既然叫朋友圈，那就是定位于更加私密的关系，两个人不管是查找微信号还是见面扫一扫，互相都基于了更加个人的关系，而一个人的朋友圈，也不能进行直接转发传播，但是时至今日，我才知道，这个私人朋友圈，一点也不私人。</p>
+<p>不能告诉我的朋友一件事已经足够让人拘束，告诉我朋友一件事但是他却只能知道另一件事，这多让人不安。</p>
+<p>不知道各位有没有看过一部电影叫《楚门的世界》，你身边的所有事情都是虚假的，你的亲人和朋友全都是国家安排好的，一切真实的都被隐藏在幕布背后，但你本人却对此一无所知。</p>
+<p>我实在生气，不过编辑部似乎没有什么“大动干戈”，总监群发邮件通知备用号被启用，明日开始在新微信号录入和推送，排班顺序不变，网站组、博客组和FM组正常运转不受影响。</p>
+<p>几道说，根据他对政见的了解，6万订阅用户最后回来1万就算超水平发挥。不过新号第一篇书评《还政治以应有的尊严》，被认为是表达不满的“反讽手法”和“别有用心”而再次被封，小嫚说网信办不惜人力部下天罗地网，可惜我们却一点气都不生，他们要是知道肯定很失望。</p>
+<p>看到大家的表现，真是再没有比这群人更彬彬有礼的了，所以写这篇文章的时候我也从柜子里寻了一件小西装外套穿上。这个社会总是让不随大流的“亚群体”过的不够体面，但是我们自己可以选择过一种更“体面”，更绅士，更有仪式感的生活。</p>
+<p>V字仇杀队里，大家都带上了V的面具，我想大家不是在遮挡自己的面孔，永久性保持的微笑也是一种仪式感，你对我施与了世间所有的恶意，我却对你微笑。</p>
+<p>知道我们被封了，大家多向我表示了遗憾，也有善意提醒说，我们要随时掌握政策动态和不同时期风声的松紧程度，才能小心驶得万年船。</p>
+<p>想起陈丹青当年在答“你认为美国是艺术天堂吗”时说：“是，因为在那个天堂里，艺术家可以说那是个地狱。”</p>
+<p>朋友们说的都很对，或许也更有中庸的智慧，但一个批评家本就不该有太多的束缚，因为他们就是搞批评的，带着镣铐就必然不能起舞，“保持说话，这是最后一点权利。”</p>
+<p>我看到很多朋友转发了我们的新公众号，并号召大家关注，有个读者分享时候说道：“20日是小满，不用担心，因为小满后就是芒种啊！”</p>
+<p>我当然还是有些担心，因为伸出手来，便感觉有什么阻碍着我们，那甚至不是一扇能看到外面的窗，而是一堵墙，一堵钢的墙。    </p>
+<p>“防民之口，甚于防川，川壅而溃，伤人必多，民亦如之。是故为川者，决之使导；为民者，宣之使言。”——《国语·周语上》      </p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%AE%E6%80%9D%E5%AE%A2-%E9%82%A3%E6%98%AF%E4%B8%80%E5%A0%B5%E5%A2%99%EF%BC%8C%E4%B8%80%E5%A0%B5%E9%92%A2%E7%9A%84%E5%A2%99/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E8%94%A1%E8%8B%B1%E6%96%87%E5%B0%B1%E8%81%8C%E5%85%B8%E7%A4%BC/?category=18271" rel="tag">2016蔡英文就职典礼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/?category=18271" rel="tag">微信公众号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E4%BF%A1%E5%88%A0%E5%B8%96/?category=18271" rel="tag">微信删帖</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2wethinker/?category=18271" rel="tag">微思客WeThinker</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%AE%E6%80%9D%E5%AE%A2%E8%A2%AB%E5%B0%81%E5%8F%B7/?category=18271" rel="tag">微思客被封号</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%AF%91%E8%AF%BB-%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%EF%BC%8C%E9%80%9A%E5%BE%80%E4%BD%95%E6%96%B9%EF%BC%9F/" target="cdt-mirror">译读 | “一带一路”，通往何方？</a>
+</h2>
+<p><p>本文原载于<em>The Economist</em></p>
+<p>编译/伍豪 & Kev & eve</p>
+<p>译读：T-Read | 译读小号二世：WinnieTheFool</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-%E4%B8%8B%E5%8D%889.00.00.png?resize=499%2C280" alt="Screen Shot 2016-07-09 at 下午9.00.00" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午9.00.00.png?w=499 499w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午9.00.00.png?resize=300%2C168 300w" sizes="(max-width: 499px) 100vw, 499px" data-recalc-dims="1"></p>
+<p>丝绸之路的第一次复兴是在公元7世纪，这个广阔又古老的贸易网络曾经连接着中亚，中东，非洲，欧洲各地的商人，当时已因战乱中断了数百年。当回顾往昔时，习近平主席将那个时代视作黄金时代、天朝的盛世，那时全世界都对中国出产的奢侈品垂涎欲滴，而丝绸之路则成为了传播中国外交与经济影响力的管道。丝绸之路的术语本来是德国的地理学家在19世纪发明的，不过中国人欣然接受了这个说法。习近平想复兴丝绸之路，重现往昔的荣耀。</p>
+<p>这回曾经的篷车与骆驼被吊车与建筑工人取代了。今年4月中国远洋海运集团收购了希腊第二大港比雷埃夫斯港67%的股份，同时中国企业正在建设连接港口与匈牙利的高铁网络，最终铁路会通往德国。到7月，中国为巴基斯坦设计的第三代核电站将要开工，而且中国最近还宣布将为巴基斯坦的一条大型高速公路提供资金，并且为塔尔沙漠的一座油田投资20亿美元。今年头五个月，中国在境外签署的合同有一半以上来自丝绸之路沿途国家——在中国现代历史上，这是第一回。</p>
+<p>政治家跟随着建造者的脚步，同样忙碌了起来。6月习近平访问了塞尔维亚与波兰，而后转向乌兹别克斯坦，一路上播撒各类工程。上周俄国总统普京短暂访问了北京；他与习近平以及蒙古总统共同承诺要将本国的基础设施建设计划与新丝绸之路联系起来。同时，大约60个国家的财政部长正在北京举行亚投行的第一次年会，商讨为这些工程融资的相关事宜。中国迄今为止最大的境外经济政策正在缓缓地加速运行，就像喧嚣的蒸汽火车一步步驶出站台。</p>
+<p>中国官员将这项政策称为“一带一路（One Belt, One Road）”，尽管他们经常会使用难看的缩写“OBOR”，而在外国人眼里这种说法丧失了词语本身的别致情调。让人迷惑的是，这里的“路”指的是古时中欧间的海上航路，而“带”则是更有名的陆上丝绸之路（见地图）。一带一路让许多西方政治决策者感到迷惑：原因之一是这项政策的内容含混不清，尽管大约有60个国家会参加，但对于具体哪些国家在方案之中并没有官方版本的清单；其二是因为哪怕其中大部分工程没有贴上一带一路的标签，大概也会照样建起来。不过，有三大理由凸显出一带一路的重要性。</p>
+<p>首先，工程规模巨大。官方人员表示现在有900项工程正在进行，价值8900亿美元，其中有从孟加拉湾起穿过缅甸达到中国西南的油气管道，也有从北京到德国交通枢纽城市杜伊斯堡的铁路项目。中国表示总共会往一带一路沿线国家投资4万亿美元，虽然没有说到什么时候投完。中方官员急于否认一带一路与马歇尔计划相似，他们说马歇尔计划只是美国在二战后扶持盟友排除异己的手段，而一带一路是对所有人开放的政策。不过从价值角度看，如果折算成今天的美元，马歇尔计划的投资额只有1300亿美元。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-%E4%B8%8B%E5%8D%888.59.14.png?resize=497%2C277" alt="Screen Shot 2016-07-09 at 下午8.59.14" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午8.59.14.png?w=497 497w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午8.59.14.png?resize=300%2C167 300w" sizes="(max-width: 497px) 100vw, 497px" data-recalc-dims="1"></p>
+<p>其次，这个计划是习近平的重头大戏。2014年，外交部长王毅把一带一路列为习氏外交政策最重要的特点。习近平的首席外交顾问杨洁篪则把一带一路与中国大力宣扬的国家目标捆绑起来，比如到2020年前建成“小康社会”，到21世纪中叶成为“富强”国家。</p>
+<p>习近平似乎把建设新丝绸之路看作拓展商业影响、增强软实力的方式。而且一带一路也在他的全局外交政策思想中占有一席之地。习近平与前几任中国主席一样，相信当下的中国拥有持续到2020年的“战略机遇期”，能够在基本安定和平的安全环境下实现增强本国全球实力的目标，同时避免造成冲突。官员们认为一带一路是将此类战略包装起来的好办法。而且一带一路也与习近平重建伟大传统的“中国梦”相符合。不用说，他一定把一带一路目标的完成情况作为衡量他领袖功业的指标之一。</p>
+<p>最后，一带一路会对美国及其关于全球贸易的传统思维构成挑战。美国的思维把世界分成两大集团，一个是跨大西洋，一个跨太平洋，其中欧洲优先，亚洲其次，但重心都是美国。美国提出的两大区域贸易协定——“跨太平洋战略经济伙伴关系协定”与“跨大西洋贸易与投资伙伴关系协定”——就体现了这个想法。但一带一路将欧亚视作一个整体，而且重心是中国，而非美国。</p>
+<p>2013年，习近平在访问哈萨克斯坦时第一次提到了新丝绸之路，此时他在任已快一年。到2014年，中国以一带一路的名义签订了第一批合同，其中大约有三百个项目，包括在巴基斯坦建设的大型水力发电站，不过许多项目其实已经开始动工。过去的两年则掀起了一股机构设立狂潮。习近平设立了一个负责一带一路工作的“领导小组”，这种非正式的高级别组织能够连接政府与党组织。组长张高丽是政治局常委，身居党的核心权力圈。党的首席理论家（译者注：王沪宁）与另一位负责外贸副总理（译者注：汪洋）都在小组中。官僚系统中各个主要部门都被圈进了一带一路的工程之中。</p>
+<p>相应的金融架构也在成形。2015年，央行向3家国有“政策性银行”拨款820亿美元，用于“一带一路”项目；中国主权财富基金出资400亿美元成立丝路基金；中国政府还建立了亚投行，启动资金为1000亿美元。亚投行严格意义上不属于“一带一路”项目，但其首次年会上审议通过的贷款项目都给到了丝绸之路沿线国家（如巴基斯坦、塔吉克斯坦和乌兹别克斯坦的公路项目）。</p>
+<p>中国的其他地方也慢慢动员起来。三分之二的省份都在强调“一带一路”对其发展的重要性。举个例子，沿海的福建省省会福州就呼吁当地公司“在海上丝绸之路沿海国家及区域开展业务”，并建立了自由贸易区，以吸引来自东南亚地区内丝绸之路沿途国家的公司。许多大型国有企业都设立了“一带一路”部门，渴望为其项目揽钱。</p>
+<p>因此，中国的对外直接投资也不断涌向丝绸之路地带。2015年官方数据显示，对“一带一路”国家的对外直接投资上涨速度是总体水平的两倍。去年中国新增工程项目中，44%是与“一带一路”国家签署的。2016年的前五个月，该比例达到了52%。</p>
+<p>中国的投资策略似乎也有所改变。其签署的“一带一路”项目合同现在更多的是由中国公司自己管理他们建造的基础设施，而不是（像过去一样）竣工后就转交出去。理论上，这会让中国更愿意与丝绸之路国家长期合作。</p>
+<p>然而，“一带一路”如日中天的同时也遇到了一些麻烦，尤其是在东南亚。中国计划铺设一条3000公里的高铁线路，连通其西南部城市昆明和新加坡。然而，6月与泰国就其境内铁路建设的会谈仍未达成共识：泰国只想参与部分工程建造，并希望自行融资。诸如此类的失败还有很多。</p>
+<p>有迹象显示，预留的大量资金找不到足够的可行项目落脚，这也令人忧心。成立丝路基金本是为了投资海外基建，但其首批投资中的两笔却用在了中国公司在香港的首次公开募股中。</p>
+<p>“一带一路”的管理层也有问题。最位高权重的张高丽据说已失宠，污点在于他三月称2016年中国经济实现了“开门红”。这与习亲信的观点相悖，他们认为经济减速是必要的。</p>
+<p>欧盟，尤其是英国（英国声称其与中国的关系处于“黄金期”）所面临的困境可能会让中国领导人惴惴不安，不知欧洲是否会支持“一带一路”。尽管长期来看，这会让中国更容易利用欧洲各国间的竞争，获得交易优势。</p>
+<p>更广泛地说，中国在丝绸之路项目中有着各种相互竞争的官僚利益，很难调节。一带一路旨在扩大中国的商业影响力，减少中国经济对国内基建投资的依赖，并将中国在钢铁和水泥行业庞大的过剩产能出口一部分。这些目标不可避免地会产生冲突。中国应当把重点放在表现不佳的省份或国企上吗？能在帮助贫穷西部省份的同时减少在国内基建方面的支出吗？</p>
+<p><strong>你来或不来，他们就在那里</strong></p>
+<p>话虽如此，我们还是有理由相信新丝绸之路会顺利建成，尽管不会铺满黄金。最重要的是，亚洲需要新的基础建设——亚洲开发银行称2020年前每年需投资约7700亿美元。此等需求最终应当会抹平今日对项目过少的担忧。世界银行中国局局长波特•郝福满补充说，如果单个国家能与其他国家、与中国联合开发项目，其本身会受益更多；单独规划建设是不划算的。</p>
+<p>其次，中国需要“一带一路”。国内成本上涨、对企业环保的呼声越来越高，这些都大大挤压了中国企业的生存空间。将部分生产转向海外是有道理的——只要那里有基础设施。</p>
+<p>最后，习近平需要它。他将“一带一路”置于外交政策中如此核心的地位，花费这么多力气推进背后的各种程序，现在想收手已经太迟了。</p>
+<p>以上都不能说明新丝绸之路是高效的，中国的计划也并不总能受到所有国家的欢迎——一些国家总是质疑其手伸得太长。但基石已经搭好，首批项目也已上线运行。欧洲和亚洲分属不同贸易集团的这种传统观念已经受到了“一带一路”的冲击。</p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%AF%91%E8%AF%BB-%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%EF%BC%8C%E9%80%9A%E5%BE%80%E4%BD%95%E6%96%B9%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF/?category=18271" rel="tag">一带一路</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/?category=18271" rel="tag">经济学人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AF%91%E8%AF%BB/?category=18271" rel="tag">译读</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8F%B6%E6%B5%B7%E7%87%95%EF%BC%9A%E5%A6%82%E4%BD%95%E7%9C%8B%E8%80%83%E6%8B%89%E7%9A%84%E9%82%A3%E5%B0%81%E4%BF%A1%E5%85%BC%E7%A5%9D%E8%B4%BA%E8%80%83%E6%8B%89%E9%87%8D%E8%8E%B7%E8%87%AA%E7%94%B1/" target="cdt-mirror">叶海燕：如何看考拉的那封信兼祝贺考拉重获自由</a>
 </h2>
 <p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-%E4%B8%8B%E5%8D%884.11.02.png?resize=321%2C426" alt="考拉赵威" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午4.11.02.png?w=321 321w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-09-at-下午4.11.02.png?resize=226%2C300 226w" sizes="(max-width: 321px) 100vw, 321px" data-recalc-dims="1"><p>考拉赵威</p></div>
@@ -633,106 +734,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%AD%A6%E6%96%B9%E8%BF%91%E6%9D%A5%E4%B8%A5%E6%9F%A5%E7%BD%91%E8%B4%AD%E5%A2%83%E5%A4%96%E7%A6%81%E4%B9%A6/" target="cdt-mirror">自由亚洲｜中国大陆警方近来严查网购境外“禁书”</a>
-</h2>
-<p><div><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg?resize=400%2C607" alt="铜锣湾书店。（忻霖摄影）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg?w=622 622w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/61df441f-528c-4128-9b1a-b7acbb2fd067.jpeg?resize=198%2C300 198w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><p><span>铜锣湾书店。（忻霖摄影）</span></p></div>
-<p>香港媒体报道说，中国大陆警方近来严查网购境外“禁书”，很多买家被警方约谈，所购书籍也被要求上缴。有评论指，中共收缴“禁书”是为扼杀不同声音，反映出中共对不同声音的恐惧。</p>
-<p>据香港《苹果日报》7月7日报道，中国大陆警方最近严查网购境外出版书籍，深圳网上书店“壹仁网”所出售的香港铜锣湾书店供应的书籍成为盘查重点。壹仁网今年4月被查封，住深圳南山区的女性负责人被拘捕。淘宝网也有不少卖港台书籍的店主被查。大陆警方根据网上购买资料对分布在中国大陆的买家进行大追查，包括拘捕卖家，约谈买家，并上门收缴书籍，甚至连无关政治的文化书籍也不能幸免。一些海内外知名作家，如董桥、夏济安、高华、章诒和等的作品首当其冲被查。</p>
-<p>报道举例说，有安徽网民透露，他在淘宝网买了一本香港牛津大学出版社出版的董桥著作《夜望》，警察竟上门收书，被他拒绝，因他是合法在网上购买的。经过再三交涉，警方准许他以“学术研究需要和善意第三方权益”为由，暂时保留该书。作家董桥形容这个荒诞的现象是“网上买书，警察上门，确实稀奇，让人大开眼界”。北京某出版社编辑Te5la透过微博说，近日收到派出所警察致电，指他去年在网站买了书， 卖书人已经被处理了，要他拿着书去派出所备份拍照留存资料。该编辑认为，引起警方注意的是他网购的两本境外出版的书《储安平传》和余华的《十个词汇里的中国》。</p>
-<p>北京的维权人士胡佳认为，中共收缴“禁书”是为扼杀不同声音，也反映出中共对政治异见的惶恐。</p>
-<p>“一本书所传递的思想，共产党都认为这比子弹还厉害，会要它的命，所以它才如此恐慌。”</p>
-<p>香港《苹果日报》引述身在荷兰的中国作家章诒和的话透露，有网友告诉她，中国警方查到该网友网购了境外出版的一本中国著名律师张思之回忆录《行者思之》，命令他上缴，要他带身份证和打印买书纪录去派出所。章诒和怒斥警方“这属于宪法哪条！”</p>
-<p>对于中国大陆警方追查网购“禁书”，在美国纽约的中文政论杂志《北京之春》名誉主编胡平评论说：</p>
-<p>“这本身反映了一个国家、一个政府，它名义上承认言论自由、出版自由，但事实上又去违反、又去打压。另外它主要要通过这种方式造成一种威慑效应，使一般人不敢这么做。”</p>
-<p>报道说，知情人士指，这次大陆警方大力收缴境外出版物，是香港铜锣湾书店事件的一部分。香港铜锣湾书店一直以出售有关大陆政治的“禁书”著称，其中有涉及中国领导人习近平等人的各种八卦书籍。去年10月到12月，铜锣湾书店五名股东及员工相继失踪。今年6月16日，“被失踪”近8个月的香港铜锣湾书店店长林荣基在从大陆返港两天后召开记者会，透露了他在大陆被关押的细节，包括被要求交出书店客户名录，要求他交出所售书籍的作者名单等。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%AD%A6%E6%96%B9%E8%BF%91%E6%9D%A5%E4%B8%A5%E6%9F%A5%E7%BD%91%E8%B4%AD%E5%A2%83%E5%A4%96%E7%A6%81%E4%B9%A6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%87%BA%E7%89%88%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">出版审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">政治禁书</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%97%E8%8D%A3%E5%9F%BA/?category=18271" rel="tag">林荣基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%91%98%E5%B7%A5%E5%A4%B1%E8%81%94/?category=18271" rel="tag">铜锣湾书店员工失联</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A6%99%E6%B8%AF%E7%A6%81%E4%B9%A6/?category=18271" rel="tag">香港禁书</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-22/" target="cdt-mirror">【网络民议】你们还遇到了五千年一遇的政府</a>
-</h2>
-<p><p>近日，长江流域出现较大汛情，湖北武汉市因为连日暴雨，城区内涝严重，出现“水漫全城”的景象，部分市内交通瘫痪。相应的官方报道，不乏大幅渲染救灾悲情的“传统内容”，但部分媒体以及网友也对城市排水官网水准、堤坝建设的贪腐问题、宣传式报道的客观性、现领导层与往届抗洪做法差异乃至三峡大坝的修建是否符合预期等各个方面提出了质疑性的意见。</p>
-<p><strong>相关阅读：</strong></p>
-<p><a title="BBC | 中国南方暴雨未息 长江珠江水系纷告急" href="https://chinadigitaltimes.net/chinese/2016/07/bbc-%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E6%9C%AA%E6%81%AF-%E9%95%BF%E6%B1%9F%E7%8F%A0%E6%B1%9F%E6%B0%B4%E7%B3%BB%E7%BA%B7%E5%91%8A%E6%80%A5/">BBC | 中国南方暴雨未息 长江珠江水系纷告急</a></p>
-<p><a title="网易回声 | 为了保住武汉 这些小镇吞下了大半的洪水却没人管" href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E5%9B%9E%E5%A3%B0-%E4%B8%BA%E4%BA%86%E4%BF%9D%E4%BD%8F%E6%AD%A6%E6%B1%89-%E8%BF%99%E4%BA%9B%E5%B0%8F%E9%95%87%E5%90%9E%E4%B8%8B%E4%BA%86%E5%A4%A7%E5%8D%8A%E7%9A%84%E6%B4%AA/">网易回声 | 为了保住武汉 这些小镇吞下了大半的洪水却没人管</a></p>
-<p><a title="唐映红 | 心理学问答：为什么他们逢灾必煽情？" href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%96%E4%BB%AC%E9%80%A2%E7%81%BE%E5%BF%85%E7%85%BD%E6%83%85%EF%BC%9F/">唐映红 | 心理学问答：为什么他们逢灾必煽情？</a></p>
-<p><a href="http://news.sina.com.cn/c/zg/2016-07-07/doc-ifxtwihp9752839.shtml">大三女生致信武汉政府：130亿花哪儿了？</a></p>
-<p><a title="【图说天朝】南京市玄武区副区长“摆拍”抗灾" href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8D%97%E4%BA%AC%E5%B8%82%E7%8E%84%E6%AD%A6%E5%8C%BA%E5%89%AF%E5%8C%BA%E9%95%BF%E6%91%86%E6%8B%8D%E6%8A%97%E7%81%BE/">【图说天朝】南京市玄武区副区长“摆拍”抗灾</a></p>
-<p><a href="http://t.cn/R5BkMVl">武汉水患真相：房产商填湖曾只需罚5万</a></p>
-<p><a href="http://weibo.com/ttarticle/p/show?id=2309403994545674167450">共青团中央：三峡大坝挡得了洪水，却挡不住某些人脑子里的水</a></p>
-<p><strong>以下为数字时代编辑摘自网友评论：</strong></p>
-<p>@wangxy1：【水灾预言】1，关于下水道反应一个城市的良心，政府部门不会回应。2，武汉130亿治水资金的去处追问，无赖们会装糊涂不回答。3，当局的有关表彰活动已经在酝酿中。</p>
-<p>@妇科专家：不要说百年一遇的暴雨，你们还遇到了五千年一遇的政府。</p>
-<p>@hnjhj：有些老外看不懂这张图，不理解为什么不站台阶上非要泡水里，其实其中的寓意很深刻：洪水来时离岸是关键。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmu9y8VVMAIhW4-.jpg?resize=600%2C412" alt="Cmu9y8VVMAIhW4-" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmu9y8VVMAIhW4-.jpg?w=752 752w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cmu9y8VVMAIhW4-.jpg?resize=300%2C206 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>@zhanglifan: 七律 人祸 章立凡 大坝当年海口夸，洪峰今破万千家。喉舌照例英雄曲，堤堰依然豆腐渣。姑诿天灾遮人祸，忍将脓肿绘桃花。九州铸铁成三像，跪守长河落日斜。</p>
-<p>@gseed12: 庆丰管制下大陆社交媒体平台各种禁止膜蛤…然而如今面对长江今年大洪水各种失分于98年同样面对大洪水的蛤蛤…各种宣传报道呈现的水平对比也是全面退化到连98年都不如的…sigh…真是庆丰怒禁蛤 天威助续秒。</p>
-<p>@nonozone：今日神段子：航拍记录显示，湖北已经基本都是湖，找不着北了。</p>
-<p>@pangjiaoming：98年大洪水後，武漢市於2003年完工的江堤整險加固工程，號稱可抵禦百年一遇洪水。3年前，武漢市水務局局長左紹斌稱，該局準備通過3年努力，投資130億元，系統完善排水體系，實現在日降雨200毫米以內武漢不被水浸。——共產黨官員做的任何承諾，連標點符號都不可信！#透視紅朝</p>
-<p>@超先声：武汉被淹，除了大雨之外，都说跟湖泊被填有关。这个我有发言权，我曾经去调查过某大公司占东湖建房子的事，武汉被称为千湖，但实际上很多都已经被填得不成样子，东湖是武汉最大的湖，也最受关注，所以一般不敢填东湖，但实际上悄悄填东湖一直在进行中。而且这个调查很简单，不需要专业知识，用Google earth看一看历年来的地图，就知道哪块被填了。可惜当时报道被和谐了。</p>
-<p>@redfireage：伟大的三峡大坝，造价万亿，移民百万，上游多了一个平湖，下游多了两个草原；耕地少了三十万亩，园地少了十五万亩；中游没了中华鲟，下游没了白鳍豚；大船进不了重庆，小船到不了武汉；电价比以前更贵，水质比以前更糟；养肥一帮电老虎，喂饱一群水老鼠。</p>
-<p>@hnjhj：赵王无道，不修德政，登基四载，倒行逆施，佞幸当道，天怒人怨，上累宗庙、下负庶民。故皇天降怒，以示警戒，山洪泛滥，江水滔天。望赵王早日下诏罪己，诚心悔过，顺应天意，还政于民，早赴煤山，避祸免灾。</p>
-<p>@bafield：转：如果配图和这位句“混着雨水的矿泉水和几个馒头，就是他们日常的伙食”确实属实，那么部队管后勤保障的可以枪毙了。如果配图和这句话是瞎编的，那么央视记者可以枪毙了。你们认为应该枪毙哪个？</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmpRIYBUMAEurGQ.jpg?resize=577%2C743" alt="CmpRIYBUMAEurGQ" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmpRIYBUMAEurGQ.jpg?w=577 577w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CmpRIYBUMAEurGQ.jpg?resize=233%2C300 233w" sizes="(max-width: 577px) 100vw, 577px" data-recalc-dims="1"></p>
-<p>@秀才江湖：请不要再秀救灾官兵啃馒头、和衣而眠了，请不要再报道市民积水中捞鱼、划船了，我想不明白，你们还有没有羞耻心？你们还有没有一点是非观念？这明明是一场由于政府对下水道工程缺失造成的人祸，对人民生命财产造成巨大损失，你们却写得如此浪漫！却还要对政府歌功颂德！呸！不要脸！</p>
-<p>@天涯赵瑜：一个变化：央广军事专门多图片报道一线抗洪的官兵吃得很好，网友们纷纷点赞。这其实就是改变了过去的反人类宣传模式。原来的宣传模式动不动，就播放抗洪官兵啃凉馒头，满手污泥，吃很糟糕的盒饭，以此打苦情牌，感动中国。不知何时，这一模式开始不奏效了，大多数民众觉醒，认为这样的宣传不但不感动，还很反人类。在一级战备下，我们的后勤保障为何跟不上。所以新闻宣传这一细小的进步，其实是对之前宣传模式的一种反讽。希望由此项开始，渐变，不要动不动就用大灾之后有大爱，有一种逆行让人泪流满面一类的标题给民众洗脑，是天灾要问责那些豆腐渣工程，是人祸要问责那些制造灾难的人。每一次灾难我们都不是为了感动的，而为了下一次不再有类似的灾难。</p>
-<p>@LifeTime: 有人质疑人均6万美元的军费开支，为何军人抗洪还吃馒头？军报回应：抢险怎么可能吃得进山珍海味。这种对话，让听众哭笑不得。问话的是指抢险中军队的后勤保障没有体现战备水平，答话的却扯到宴席的豪华标准。</p>
-<p>@shiburinCN：台湾的桃园机场被淹骂声一片，中国的各种城市内涝只见哄笑……呵呵，连灾难也能习惯了，真好呢。不觉得耻辱吗？果然没有羞耻心，哪来自尊呢？</p>
-<p>@uponsnow: “刘仲敬武大博士不念了，原来真的是为了躲大洪水！” 群里看来的，笑瘫了。</p>
-<p>@ranxiangmm：我替大大揪心啊，这大雨一下，全国都成汪洋了。大有汪洋取代近平之意啊！太太上皇江泽民，太上皇胡景涛，都有水，大大没有水，搞得狼狈不堪，搞不好被汪洋取而代之。</p>
-<p>@iguangcheng：黄万里预言，如果三峡大坝上马，将会出现十二种灾难性后果：1、长江下游干堤崩岸；2、阻碍航运；3、移民问题；4、积淤问题；5、水质恶化；6、发电量不足；7、气候异常；8、地震频发；9、血吸虫病蔓延；10、生态恶化；11、上游水患严重；12、终将被迫炸掉。</p>
-<p>@快乐的上帝的玩笑：想问问这个副区长你还要点脸面.官架子真不小啊</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CWDEu.jpg?resize=600%2C450" alt="CWDEu" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CWDEu.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CWDEu.jpg?resize=300%2C225 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>@琢磨先生：归纳起来三点原因：1）位置不好。2）台风不停。3）前任不行。其实很简单，要反思两个问题：1）近130个亿花哪里去了，出个明细。2）接下来怎么办？</p>
-<p>@littlehawk：【武汉洪灾与三峡工程有关吗？专家：绝没帮倒忙】从三峡可以抵御千年一遇洪水到三峡绝没帮倒忙，专家的这张嘴啊！</p>
-<p>@醉清风老杨 ：武汉地铁被水倒灌 秒变“水帘洞”，今年洪涝灾害堪比1998年长江流域汛期，多难兴邦，祈福武汉！  //  @张洲：多难兴邦这四个字如果狭义一点，基本等于：多死人兴家。</p>
-<p>@小余要努力 ： :这些年来武汉以水上项目的名义一再侵占湖泊，降低湖泊容纳洪水的容量。尤记当年华侨城的欢乐谷项目一再占用东湖大片水面，众多武汉市民表示反对，然而没有下文。事实证明，你对大自然有多轻慢，大自然对你的惩罚就有多酷烈。</p>
-<p>@棵棵树树小姐：98年是长江洪涝，这次是城市内涝。百湖之城的武汉只剩下38座湖了。围湖造楼罚款才50万，建起来利润不知道多少？然而利润都进了某些人的口袋，遭殃的还是老百姓。</p>
-<p>@狐狸不吃鱼：主要原因还是天气，扯到别的就伤害了GDP。</p>
-<p>@philipsmoon：年年看海，只是今年雨大变大海，说没问题，我很本不信。老说天灾，长江又没决口。下个雨都能把城市淹了，作为人类文明的结晶，怎么好意思称自己是文明世界。</p>
-<p>@CAICHENYUI ： 腾讯新闻翻了好几页都是报道武汉的暴雨我们安徽呢？一个报道都没有，还要成为泄洪区？</p>
-<p>@赛艇队长 ：为什么98年抗洪也是很大的？</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pENQcgw1f5khjifutoj30c63zchdu.jpg?resize=438%2C5160" alt="006pENQcgw1f5khjifutoj30c63zchdu" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pENQcgw1f5khjifutoj30c63zchdu.jpg?w=438 438w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/006pENQcgw1f5khjifutoj30c63zchdu.jpg?resize=87%2C1024 87w" sizes="(max-width: 438px) 100vw, 438px" data-recalc-dims="1"></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91-22/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A6%E6%B1%89%E6%B4%AA%E7%81%BE/?category=18271" rel="tag">武汉洪灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E6%B6%9D%E7%81%BE%E5%AE%B3/?category=18271" rel="tag">洪涝灾害</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%A4%E5%87%B0%E5%8D%9A%E6%8A%A5%EF%BD%9C%E4%B8%81%E5%92%9A%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%9C%9F%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%EF%BC%9F/" target="cdt-mirror">凤凰博报｜丁咚：北京真不在乎南海仲裁案？</a>
-</h2>
-<p><p>北京将从7月5日至11日在西沙群岛附近的相关海域举行“例行”军事演练，但由于时机的选择，恰好在南海仲裁案结果公布之前一天结束，因而引发人们遐想。国际舆论认为，中方期冀以此宣示主权，并有可能视仲裁结果，决定是否举行更大规模的军事演习。</p>
-<p>解放军三大舰队多艘王牌军舰将参加此次演习，早前媒体注意到，这些战舰已完成在三亚军港的集结。这是中国应对南海仲裁案的新举措。中国政府对南海仲裁该案的正式立场是，“不参与，不接受”。</p>
-<p>但随着情势的发展，特别是域内国家普遍支持依照国际法和国际机构参与解决域内领土纠纷，以及美欧国家纷纷表态支持临时法庭就南海仲裁案作出裁决，并对中国方面施压，警告不接受制裁案裁决将面临严重后果。</p>
-<p>重要的是，围绕仲裁案的博弈过程，促使除了中国以外的几乎所有国家对当前区域形势进行了重新估计，并增强了对域外大国，比如美国的依赖感。它们或公开或私下支持并敦促美国加快“重返亚太”的步伐，介入区域冲突，在此情况下，以中国为目标或潜在目标的“统一战线”正在形成，美国在东亚的军事、政治和外交存在空前强化。中国的准盟友俄罗斯对这块希望之地，也是虎视眈眈。</p>
-<p>事实上，中国当初决定的应对之策似乎并不是那么明智。中国政府的立场和外交努力，未能有效阻止仲裁案最终公布，却促进了域内多数国家的团结，向美国靠拢，自身则日渐孤立。面对这样的格局，北京再也无法显示淡定，开始从“不接受，不参与”的立场微妙后退，多路出击，多措并举，争取支持者力量，并试图极力降低仲裁案公布后可能会产生的影响，为此不遗余力。</p>
-<p>就在昨天，外交部发言人在记者招待会上宣布，支持中国南海立场的国家“越来越多”，并说有些是公开，有些则是私下的。</p>
-<p>中国发挥宣传机器强大的优势，通过国家媒体开足马力对内对外展开舆论攻势，将对南海问题的国际仲裁描述为一场不义的阴谋，宣传自身立场的正当性、领土主权的合理合法性以及域内主权声索国家和域外有关国家的“不怀好意”。这项工作在北京意识到无法阻止仲裁案的推进后就全力进行了，但在仲裁案公布前夕，达到了顶峰：在大陆被屏蔽的国际著名视频网站Youtube最近接到了一个大单，北京通过该视频网站制作了长达10集、每集5分钟的宣传短片，展示一些国外政界、学界人士阐述对中方有利的观点剪辑，希望以新媒体方式对海外观众施加影响。</p>
-<p>两场分别由政学两界主导推动的高规格研讨会被先后安排在荷兰和美国举行。上月下旬，“南海仲裁案与国际法治研讨会”在联合国国际法院所在地的荷兰海牙召开。另一场规格更高的研讨会预计将在仲裁案公布的前一天在美国纽约举行。</p>
-<p>在仲裁案进入倒计时的关键时刻，中方再次针对仲裁案举办研讨交流活动，显示出北京在为最坏情况做准备，即海牙作出明显不利于中方的裁决。但此举对裁决结果并不会带来影响，以此加大宣传力度，为裁决公布中方的反应作出舆论铺垫，是主要意图。</p>
-<p>2013年1月菲律宾向国际海洋法庭提起诉讼，要求对中菲之间有关南海争议进行国际仲裁。但可能是当时中国政府正在换届，没工夫顾及这些事，因而稍显简单地决定“不接受，不参与”。一步错，步步错。这一决定造成了中方此后在战略上的被动，不利于中国尊重国际法、国际规则外部形象的塑造，并且要进行更多的努力去实现有利于己的目标。</p>
-<p>设若当时中国正面接受菲律宾的挑战，竭力在国际法院的框架里，寻求公平解决南海主权争议问题，可能要比拒绝要主动得多，且结果未必就明显有利于菲律宾，特别是中国作为一个怀抱雄心的区域大国，更须展现负责任和尊重国际规则、国际法的姿态。</p>
-<p>但世上没有后悔药。补救无方之余，中国显然将菲律宾新任总统杜特尔特在南海主权问题上的灵活态度视为改变情势的一个契机。中国领导人第一时间通过外交渠道向杜特尔特表达祝贺之意，并寄希望于后者主动撤出仲裁案。人民日报前国际部主任在一篇文章中直言不讳地呼吁杜特尔特撤除前任政府提交的仲裁案。</p>
-<p>中国迅速主动与寻求缓和两国关系的菲律宾新政府建立正常的联系，表明中方的“强硬”实属被逼上绝路，迫不得已，骨子里不希望两国关系恶化，特别是在区域被日渐孤立。从另一个层面来说，域内另一个重要的主权声索国，向来对中国采取双轨策略，领土问题毫不退让，但希望在经济和政治上与中国结成紧密关系。杜特尔特的温和立场无疑让中国大陆感到是一个突破困局的好机会。</p>
-<p>尽管菲律宾新政府对改善其与中国的关系表现出积极的姿态，但撤除制裁案，是其难以承受之重，是不现实的。因此，无论如何，中国都需要面对仲裁案被公布的结果，鉴于中方一贯消极的态度，仲裁结果不利于中方的可能性较大。</p>
-<p>对此，中国将可能陷入更难堪的两难之境：强硬，则暴露出自身对国际规则和国际法阳奉阴违，不敢于承担责任及蛮横无理的形象，加深域内外国家对中国崛起的担忧，更加“抱团”与中国保持距离，或走向对立面。软弱，也下不了台，将受到国内部分舆论的抨击，其长期营造的国家正义话语体系也将随之削弱。如何在两者之间取舍，将是个重大考验。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 围观就是力量 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%A4%E5%87%B0%E5%8D%9A%E6%8A%A5%EF%BD%9C%E4%B8%81%E5%92%9A%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%9C%9F%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -744,7 +745,7 @@ Post tags: <br>
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -754,5 +755,5 @@ Post tags: <br>
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

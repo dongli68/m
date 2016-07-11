@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,76 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E8%B0%83%E6%9F%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BD%A2%E5%B7%A5%E4%BA%8B%E4%BB%B6%E6%95%B0%E9%87%8F%E7%BB%A7%E7%BB%AD%E4%B8%8A%E5%8D%87/" target="cdt-mirror">德国之声 | 调查：中国罢工事件数量继续上升</a>
+</h2>
+<p><p><strong>总部在香港的非政府组织”中国劳工通讯”（CLB）近日公布的调查显示，2016年上半年，中国的罢工活动有增无减。尤其是交通系统的罢工数量飚升。</strong></p>
+<p>（德国之声中文网）”中国劳工通讯”在其网站发布的最新报告指出，尽管有些迹象表明，中国经济正趋于稳定，不过各地劳资纠纷现象继续增加。多个产业都出现了针对不公待遇的罢工和抗议活动。</p>
+<p>从统计数字来看，今年前6个月，中国平均一天出现了8场抗议。”中国劳工通讯”的罢工数据地图显示，引起员工不满举行抗议的原因大多是拖欠工资、企业倒闭和社会保险。总体来看，2016年上半年共出现了1454起抗议事件，比去年同期数字高出18.6%。</p>
+<p>其中值得注意的是，交通系统的罢工出现陡升，今年前半年的数字为205起，去年同期数字为127起。其主要原因是传统出租司机对软件专车影响生计感到不安。</p>
+<p>《纽约时报》文章指出，虽然出租车罢运在中国并非是什么新鲜事，但全国各地纷纷效仿的现象突显了社交媒体的组织能力，给基本不能容忍劳工骚动的政府带来挑战。随着工人抗议活动变得日益频繁、浩大而严密，国家安全部门收紧了控制。去年年末，当局逮捕了中国著名的劳动活动组织者曾飞洋，罪名是”聚众扰乱社会秩序”。</p>
+<p>“中国劳工通讯”指出，在未来，工人举行罢工的更大焦点可能是越来越重要的零售和服务行业。这些部门的许多员工并没有正式合同或是社会保险，他们的工作时间往往过长，并且在工资和工作条件方面可能会突然发生变化。例如沃尔玛工人罢工。《联合新闻网》消息，由于不满推行的综合工时制，中国几个城市的沃尔玛门市店的一些员工在近日进行了短暂罢工，员工质疑新规定为变相降薪。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E8%B0%83%E6%9F%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BD%A2%E5%B7%A5%E4%BA%8B%E4%BB%B6%E6%95%B0%E9%87%8F%E7%BB%A7%E7%BB%AD%E4%B8%8A%E5%8D%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%B7%A5/?category=18271" rel="tag">中国劳工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E8%B5%84%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">劳资纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">抗议活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A7%A9%E5%BA%8F/?category=18271" rel="tag">社会秩序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%A2%E5%B7%A5/?category=18271" rel="tag">罢工</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%99%AB%E7%A0%94%E6%8D%B7%E6%8A%A5%EF%BC%9A%E6%88%91%E5%9B%BD%E5%AD%A6%E8%80%85%E4%BB%A5%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%91%BD/" target="cdt-mirror">【异闻观止】虫研捷报：我国学者以“习大大”命名一甲虫新种</a>
+</h2>
+<p><p>国际著名动物学期刊 Zootaxa 于6月17日在线发表了我国学者王成斌博士的论文 Rhyzodiastes (Temoana) xii sp. nov. (Coleoptera: Rhysodidae: Clinidiini), a new species from Hainan Island, China，文中描述了一个来自海南岛的甲虫新种— —习氏狼条脊甲 Rhyzodiastes (Temoana) xii</p>
+<p>条脊甲科Rhysodidae是一类小型甲虫，因为头部、胸部和鞘翅表面具有深沟和纵脊而得名，另外它们还具有念珠状的触角，颇为奇特。</p>
+<p>条脊甲生活在树皮下、腐木中，是一类少见的昆虫，全球已知约20属120种，我国已知约5属20种。条脊甲通常分布在热带地区，在东南亚和南美洲北部有丰富的种类。</p>
+<p>很多科学家都以自己尊敬的国家领导人的名字来命名自己发现的新物种，例如以美国总统奥巴马命名的一种蜘蛛 Aptostichus barackobamai 和以已故南非前领导人曼德拉命名的海蛞蝓 Mandelia mirocornata。但是，用我国领导人的名字来命名新物种，这还是头一次，王成斌博士在文中指出“The specific epithet is dedicated to Dr. Xi Jin-Ping, the President of the People’s Republic of China, for his leadership making our motherland stronger and stronger”（种名献给中华人民共 和国国家主席习近平，因为在他的领导下祖国越来越强大）。</p>
+<p>论文作者、现年32岁的王成斌博士来自四川邛崃，毕业于四川大学后，师从华中农大雷朝亮教授，从事金龟分类学和蚊虫感觉生理学研究。后考入中科院动物所，师从周红章研究员，从事球蕈甲科分类学研究。他现在正在捷克从事博士后工作。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?resize=400%2C617" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?resize=195%2C300 195w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%99%AB%E7%A0%94%E6%8D%B7%E6%8A%A5%EF%BC%9A%E6%88%91%E5%9B%BD%E5%AD%A6%E8%80%85%E4%BB%A5%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%91%BD/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BD%E5%90%8D/?category=18271" rel="tag">命名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">国家领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2-2/?category=18271" rel="tag">异闻观止</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B2%E8%99%AB/?category=18271" rel="tag">甲虫</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%BE%BE%E6%9E%97%E9%A6%96%E6%AC%A1%E6%8A%AB%E9%9C%B2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%81%AD%E6%8B%9823%E5%A4%A9%E7%9A%84%E7%BB%8F%E5%8E%86/" target="cdt-mirror">纽约时报 | 达林首次披露在中国遭拘23天的经历</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/10chinango1-articleLarge.jpg?resize=550%2C367" alt="五月，彼得·达林在泰国清迈。在被中国国家安全部拘押审讯了23天后，他被驱逐出中国。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/10chinango1-articleLarge.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/10chinango1-articleLarge.jpg?resize=300%2C200 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>五月，彼得·达林在泰国清迈。在被中国国家安全部拘押审讯了23天后，他被驱逐出中国。</p></div>
+<p>泰国清迈——彼得·达林(Peter Dahlin)被关押在北京一个秘密监狱里的第十天，中国的国家安全官员们对他使了个他们突如其来的招数之一，他发现这次甚至比听到自己牢房之上的房间里有人被打更令他惊讶。</p>
+<p>他们给他看了一份与他在中国创办的帮助人们获得法律服务的机构有关的文件，文件中有员工、合作伙伴和资助者的名单。但这份文件不是安全官员们编出来的。它似乎为总部设在华盛顿的美国非营利组织<a href="http://www.ned.org/" target="_blank" rel="nofollow">国家民主基金会</a>准备的，该基金会在很大程度上由美国国会资助。</p>
+<p>这份内部报告记录了达林办的小机构，在过去的五年里如何获得该基金会获的资助，及机构项目的详细内容。报告似乎是为该非营利组织最上层的董事会准备的。</p>
+<p>“我意识到这一定是通过某种方法直接来自国家民主基金会本身，”达林在接受采访时说，他还说，他以前从未见过这份文件。</p>
+<p>达林是瑞典公民，他在今年早些时候被中国强大的情报与反间谍机构国家安全部拘留审讯了23天。当局在全国的电视节目中播放了他对所犯的不明罪行<a href="http://cn.nytimes.com/china/20160120/c20chinaswede/" target="_blank" rel="nofollow">道歉</a>的<a href="http://www.cctvplus.com/archive/20160120/8011323.shtml#!language=1" target="_blank" rel="nofollow">镜头</a>。然后，安全官员将他驱逐出境。</p>
+<p>他在接受《纽约时报》采访时，首次描述了自己的遭遇，为人们了解中国安全机构把怀疑的矛头指向外国非政府组织、并且不遗余力地监督这些组织的做法提供了一个异常清晰的视角。</p>
+<p>中国国家主席习近平曾警告致力于建设公民社会的西方非政府组织，比如那些通过培训律师和记者、以及针对收入不均问题的项目，它们是在破坏共产党的统治。习近平一直在领导着一项即<a href="http://www.nytimes.com/2014/11/12/world/asia/china-turns-up-the-rhetoric-against-the-west.html" target="_blank" rel="nofollow">限制西方影响</a>、也打击中国基层维权行动的广泛努力。</p>
+<p>今年4月，中国政府<a href="http://cn.nytimes.com/china/20160429/c29china/" target="_blank" rel="nofollow">通过了一项立法</a>，要求在中国的所有境外非政府组织（据一种估计，目前有7000个）找到一家中国的官方负责单位，并在公安局登记注册，公安局将拥有负责监督境非政府组织的新权力。</p>
+<p>达林的组织在中国相对无名，这个名叫中国紧急行动工作组的机构是他在2009年帮助成立了的，目的是促进发展中国的司法独立，这正是习近平所试图扼杀的那种。</p>
+<p>达林被驱逐出境后，我和一位同事在泰国北部找到了他。他正在那里试图重振旗鼓。中国当局正在<a href="http://cn.nytimes.com/china/20160122/c22china/" target="_blank" rel="nofollow">越来越频繁地使用</a>让人在电视台上自首的方式来<a href="http://www.nytimes.com/2015/06/10/business/international/british-investigator-peter-humphrey-is-released-from-chinese-prison.html" target="_blank" rel="nofollow">恐吓外国人</a>和他们的中国同事，而且很少有人事后敢公开谈论自己的经历。</p>
+<p>但现年36岁的达林在做出结论认为，自己的中国朋友不会面临报复之后，同意接受采访。他曾学习政治学，还在瑞典政府工作过。</p>
+<p> 达林说，他和中国律师王全章在香港建立了他们的组织，是以民营企业的形式注册的，因为在新法律出台之前，中国大陆没有有关注册境外非政府组织的规定。他们有大约15至20雇员，其中大多数是兼职人员，而且除了达林和一个美国人外，都来自中国本土。</p>
+<p>他们的活动并不张扬，只是为对起诉官员和机构感兴趣的律师和其他人举办研讨会，以及提供应对危机的法律援助。该组织的专场之一是解释中国的信息自由法规，为做调查报道的记者提供培训。</p>
+<p>达林说，他知道安全机构一直在监视他的组织。但他说，在2013年习近平上任后不久，监视变得越来越严。然后在去年，发生了对<a href="http://cn.nytimes.com/china/20160308/c08chinalawyer/" target="_blank" rel="nofollow">维权律师团体的镇压</a>。曾与达林的组织一起工作的一些人被逮捕，其中包括已经离开了这个组织的王全章。</p>
+<p>达林说，安全官员手中有监视摄像器拍摄的、参加该组织去年在泰国南部举办的培训班的中国公民的照片。</p>
+<p>达林是在1月3日被拘留的，是在他打算离开中国办理签证延长的几小时之前。十几名安全官员带着授权令来到他和他的女友、中国公民潘金玲（音）位于北京一条胡同的家中 。</p>
+<p>他们没收了计算机、手机、硬盘、银行卡、收据、一个保险柜、17.5万元人民币的现金，以及他每天需要服用的、控制一种罕见的肾上腺疾病的药物。他们很快地把他送到一个在中国被称为黑监狱的没有标志的看守所。这个看守所在一个机场附近，所有房间的墙上都有厚垫子。</p>
+<p>达林说，他每天被提审，每次提审通常是在晚上他疲倦的时候，一般会持续几个小时。审讯是在与牢房不同的房间里进行，房间里有一张桌子和刺眼的灯光。</p>
+<p>他说，审讯人员并没有打过他， 但对他尝试过不同的压力战术。</p>
+<p>开始时，他们试图不让他睡觉，整夜都不关他牢房里的日光灯。达林对该拘押中心的一位女主管说，根据国际公约，这等同于与酷刑之后，这种做法很快停止了。</p>
+<p>达林说，据他判断，他和潘女士以及至少三名同事都被关押在这个中心，但他们都被隔离起来。第一周后的某个时刻，达林听到楼上有很大的声响。听起来好像是审讯人员“对某个人大打出手，”他说，他还说，他几乎可以肯定那是一名同事。打人持续了好几天。（他后来得知，受害者确实是一名同事。）</p>
+<p>达林说，审讯者一直想把他和他的组织与中国南方的一名活动人士苏长兰（音）在2014年举办的一次支持香港亲民主示威活动的聚会联系起来，他们也试图把他的组织与帮助一名被逮捕律师的十几岁儿子<a href="http://cn.nytimes.com/china/20151013/c13lawyersson/" target="_blank" rel="nofollow">偷渡缅甸</a>一事联系起来。</p>
+<p>达林否认自己在这些活动中有任何作用，审讯人员最终把注意力集中在非政府组织在中国大陆和香港地区的后动，特别是国际组织与国内的境外非政府组织的关系上。</p>
+<p>本文后续内容，敬请关注。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E8%BE%BE%E6%9E%97%E9%A6%96%E6%AC%A1%E6%8A%AB%E9%9C%B2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%81%AD%E6%8B%9823%E5%A4%A9%E7%9A%84%E7%BB%8F%E5%8E%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91/?category=18271" rel="tag">中国公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B3%E6%8A%BC/?category=18271" rel="tag">关押</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%8E%E7%9B%9B%E9%A1%BF/?category=18271" rel="tag">华盛顿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">司法独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E6%B0%91%E4%B8%BB%E5%9F%BA%E9%87%91%E4%BC%9A/?category=18271" rel="tag">国家民主基金会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E7%BB%84%E7%BB%87/?category=18271" rel="tag">国际组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">外国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BD%BC%E5%BE%97%C2%B7%E8%BE%BE%E6%9E%97/?category=18271" rel="tag">彼得·达林</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8B%98%E7%95%99/?category=18271" rel="tag">拘留</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">示威活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%85%B7%E5%88%91/?category=18271" rel="tag">酷刑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%95%87%E5%8E%8B/?category=18271" rel="tag">镇压</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E5%AE%9E%E5%BC%B9%E5%86%9B%E6%BC%94%E5%90%91%E7%BE%8E%E8%88%AA%E6%AF%8D%E7%A4%BA%E5%A8%81-%E5%AE%9E%E4%B8%BA%E7%BC%93%E8%A7%A3%E7%BB%8F/" target="cdt-mirror">苹果日报｜中实弹军演向美航母示威 实为缓解经济危机转移视线</a>
 </h2>
 <p><p>南海仲裁前夕，中国在南海大规模实弹军演，解放军调动三大舰队共逾百艘军舰、数十架战机以及海基和岸基导弹，达战役级规模。由于美国在南海周边有两支航母战斗群虎视眈眈，北京专家称演习针对美军，同时表达对国际仲裁的不屑。</p>
@@ -598,120 +665,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%EF%BC%9A2-25%E4%BA%BF%E4%B8%AA%E8%AE%A9%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8B%85/" target="cdt-mirror">博谈网｜中国的中产阶级：2.25亿个让中国领导人担心的原因</a>
-</h2>
-<p><p>（博谈网记者赵亮编译）本文译自《经济学人》7月7日刊登的文章，题目为“中国的中产阶级：2.25亿个让中国领导人担心的原因”。以下为译文：</p>
-<p>在1990年代末以前，中国几乎没有中产阶级。在2000年，中国有500万家庭年收入介于现在的1.15万美元和4.3万美元之间；今天，有2.25亿达到了。到2020年，中国的中产阶级队伍可能多过欧洲人。这个惊人的发展促进了世界各地的增长并改变了中国。一块块水田已经让位给了摩天大楼，自行车让位给了交通拥堵。这个“内向”的国家已经变得更加国际化：去年，中国出国旅行的人次达到了1.2亿次，在十年里增长了4倍。社交媒体上涌现了庞大的中国聊天族。</p>
-<p>然而，缺失了某些东西。在其他变得富有了的专制国家，新的中产阶级要求政治变革。在韩国，1980年代由学生领导的抗议活动帮助结束了军政府统治。在台湾，1990年代的中产阶级要求民主，导致了独裁政府允许自由选举。</p>
-<p>许多专家认为，中国是这个模式的一个例外。中国许多的城市现在如韩国和台湾当年开始改变的时候那样富裕。然而，自从1989年坦克在天安门广场镇压抗议以来，中国没有见到有要求民主的大型集会。中国国家主席习近平对民主政治轻蔑已极。</p>
-<p>有证据表明，这种办法是奏效的。强硬派的习先生在中国被广泛推崇为一个强人和反腐败的斗士。极少有中国的中产阶级说他们想要民主，不仅仅是因为这样说会令他们陷入麻烦。许多人看的是阿拉伯之春接下来的混乱和退缩。一些人把英国决定退出欧盟视为一个迹象——不能信赖普通选民来解决复杂的政治问题。中国政府或许对它的批评者是无情的，但是它至少让人民挣钱了。只要不碰政治，他们可以说以及做想要做的事。</p>
-<p>然而，拨去表面，中国的中产阶级远未满意。中产阶级的成员是优裕的，但是他们没有安全感。他们担心老了之后谁来照顾他们；大多数夫妻只有一个孩子，以及公共安全网不发达。他们担心，如果生病了，住院费就可以抹去他们的财富。如果拥有房产-他们80%的人有房产，他们害怕会失去它；在中国，贪婪的官员可以心血来潮地让人们失去房产权。他们也担心他们的储蓄；银行提供的利率微不足道，其他的投资方式监管很差或完全没有监管。历史上没有一个庞氏骗局诱骗的投资者超过今年1月在中国崩溃的那个。</p>
-<p>中国很多的中产阶级也很恼火。当他们被强行灌输马克思主义时，很多人嗤之以鼻。对于腐败他们更加愤怒，腐败摧残了每一个行业和活动，还有裙带关系，它给予的回报胜过才智和努力。几乎所有中产阶级都对污染愤怒，污染堵塞了他们的肺，缩短了他们的生命，伤害了他们的孩子。他们不禁注意到一些有后台的污染大户污染了空气、土壤和水却不会受到惩处。</p>
-<p>而有些人感到沮丧。中国具有超过200万个非政府组织。其中许多这些组织的工作人员是中产阶级，他们希望能改善他们的社会，独立于中共这个党。一些人鼓动要有更清洁的环境、更公平地对待工人或结束对妇女和农民工的歧视。这些团体没有一个公开挑战中共的权力垄断，但是它们常常反对中共挥动权力的方式。</p>
-<p>中共明白中国的中产阶级是支撑的基石。当习先生于2012年上台以来，他谈到了鼓舞人心的、亲中产阶级的“中国梦”。该党调校舆论，试图来回应人们的期待，缓解社会压力。</p>
-<p>即便如此，难以想象：没有一个更加透明、更负责任的政府，中国的问题能够得以解决；没有法治，个人的财产或人身安全能够得到真正的保障；没有一个更加公开的政府体制，能够自动察觉和消灭腐败。而且，没有言论自由，非政府组织也不会带来改变。</p>
-<p>经过千百年动荡的历史以及更近期对于1960年代血腥文革的记忆，中国人常说他们真的非常怕“乱”。但是生活在中国城市里的人，将近一半不到35岁。他们对毛时代的无政府状态知之甚少。当他们感到政府不在听时，一些人就会站出来抱怨。拿南方的禄步镇为例，成千上万的中产阶级在7月3日抗议在那里修建垃圾焚化炉的计划。他们与警方作战，并试图冲入政府办公室。</p>
-<p>这样的抗议是常见的。根据清华大学的数据，在2010年有18万起。当经济快速增长时，随之而来的是稳定，但是当经济放缓时，动荡可能会蔓延，尤其是当中共必须做出象关闭工厂、重组国企和节制污染这样的艰难选择时。</p>
-<p>最终，中产阶级抗议的命运可能取决于党的精英。1989年亲民主运动的起飞是因为中共的一些精英成员也赞成改革。没有迹象会出现又一次的天安门（运动），但是在领导层内部关系紧张。习先生已经在他的反腐败大清洗中树立了众多敌人。习先生的同僚们正在争夺权力。</p>
-<p>中共或许能够抵挡许多年的挑战。中国庞大的国家安全机构能够行动迅速地镇压动荡。然而，依靠单纯的压制将是一个错误。中国的中产阶级也将越来越壮大，他们将会要求变革。中共必须开始满足他们的要求，否则这个全球最大的中产阶级可能会摧毁该党。</p>
-<p>原文China‘s middle class：225m reasons for China’s leaders to worry</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
-<hr><p><small>© 吃枣药丸 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7%EF%BC%9A2-25%E4%BA%BF%E4%B8%AA%E8%AE%A9%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8B%85/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E4%BA%A7%E9%98%B6%E7%BA%A7/?category=18271" rel="tag">中产阶级</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/709%E5%A4%A7%E6%8A%93%E6%8D%95%E4%B8%80%E5%91%A8%E5%B9%B4%E5%AE%B6%E5%B1%9E%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E/" target="cdt-mirror">离开梳妆打流氓：709大抓捕一周年家属联合声明</a>
-</h2>
-<p><p>（原文开放版权，封删前恳请接力转载）</p>
-<p>我们是709大抓捕事件部分当事人的家属，我们的亲人，有律师，也有积极公民。之前多年，他们在人权、言论/信仰自由、土地纠纷、反歧视、食品安全等方面做了大量的工作。通过自己的专业知识，及与社会大众的连结，致力于中国的法治改革及权利维护。</p>
-<p>2015年7月9日前后，他们失去联系，被以涉嫌危害国家安全的名义，凭着上央视认罪及一纸逮捕通知书，再无音讯。</p>
-<p>过去一年，代理律师和我们数十次往返奔波于检察院、公安局、看守所，遭遇冷漠拒绝，徒劳而返。7月7日，看到709事件当事人之一赵威获得取保候审并发出微博，我们为之欣慰又感到心酸。欣慰的是她终于回到社会大监狱，心酸的是，难以想象她这一年遭遇了多大的折磨，才被迫在取保候审不到半天的时间内发出微博长信指控。这恰恰见证了709事件中公权力持续滥用可耻的一幕：</p>
-<p>1、禁止发声。为断绝外部声援支持，传唤数百名律师、公民，警告要求不得发声，至今仍有涉709事件的律师公民被骚扰；</p>
-<p>2、官媒审判。对当事人强迫通过官方媒体认罪，采用各种方式污名化，对部分取保候审的当事人，恐吓不得和外界接触乃至要求指控其它人等方能取保；</p>
-<p>3、诱录视频。为了让当事人认罪，警方威逼诱骗亲属录制视频劝导当事人，极尽威胁；</p>
-<p>4、非法解聘律师。为了不让当事人会见律师，不让外界知道情况，不惜使用种种欺骗手段，为他/她们指定律师，拒绝家属聘任的律师进行会见；</p>
-<p>5、株连家属。作为709事件家属，我们出门被跟踪，租房被逼迁，孩子难入学，工作受干扰，半夜被敲门骚扰，难以正常生活；</p>
-<p>6、殃及儿童。把我们甚至未成年的儿童列为犯罪嫌疑人，拒绝办理护照出入境，至今有的家属、孩子一天二十四小时处于警方严密监控之下。</p>
-<p>以上种种行径，数不胜数，赵威仅是其中一例。时至今日，仍有23位709相关律师、公民在押，其中大部分未能会见律师，他们包括王宇、王全璋、李和平、谢燕益、谢阳、李春富、周世锋、胡石根、包龙军、刘四新、吴淦、林斌、勾洪国、唐志顺、幸清贤、翟岩民、刘星、张卫红、李燕军、姚建清、王芳、尹旭安、张婉荷。</p>
-<p>此外，还有大量相关家属、取保候审人士仍持续受到威胁不敢发声，对他们的遭遇和处境，我们深感忧虑。</p>
-<p>在此，我们强烈要求：</p>
-<p>1、释放709相关人士，保障当事人的权利，停止抹黑指控污名化，保障律师会见权。如若他们涉嫌犯罪，我们有自行聘请律师的能力，无需警方指定律师；</p>
-<p>2、撤除对家属的监控，停止对家属、709相关人士的骚扰、盯梢及迫害；</p>
-<p>3、保障家属的各项合法权利，恢复家属合法出入境。</p>
-<p>作为公民，要求保障我们及亲人的合法权利，是最朴素的基本要求，需知玩火者必自焚，今日你们采用种种非法手段，他日也必将自尝恶果。</p>
-<p>即使在持续一年的高压之下，我们仍然得到多方关心和支持，值此一周年之际，谨此以709事件部分家属的名义，一并表示感谢：</p>
-<p>感谢为709事件奔波的律师们，即使当局各种恶意阻挠，你们顶住压力，一次次不辞劳苦奔波在前线上；</p>
-<p>感谢国际社会的关注，包括各国政府、媒体、NGO，感谢你们的声援，才使得当局减少肆意妄为；</p>
-<p>感谢国内的朋友伙伴，你们冒着风险的的关心和支持，我们将铭记在心。</p>
-<p>黑夜漫漫，并非没有恐惧。然心中有爱，再大的恐惧也不会阻止我们前行的脚步。作为家人，我们希望合家团聚，不愿亲人遭遇牢狱之灾，不愿家人遭受牵连，然而，社会的进步需要前行者，亲人们为中国社会进步付出的代价，是家庭的苦难，也将是我们此生的荣光。</p>
-<p>709事件仍在持续中，期待仍能得到社会各界的关注和支持。与此同时，我们也意识到，在中国，仍有大量不为人知的人权捍卫者、异议人士受到拘捕、关押，遭遇和我们亲人类似的迫害，他们也需要得到海内外的关怀和帮助。他们包括卢昱宇、李婷玉、胡长根、符海陆、张隽勇、罗誉富、秦永敏、赵素利、张海涛等近期被捕或长期失踪、重判的人士，也包括处于绝食抗争中的郭飞雄、于世文先生，无法会见亲属的唐荆陵、王清营先生，为工人抗争而坐牢的曾飞洋、孟晗先生等等，还有其Ta无法在此一一列出名字者，我们深深牵挂每一位政治受难者，愿他们能经历磨难，在爱中，共同勉励前行。</p>
-<p>国家的安全稳定注定无法通过抓捕良心犯获得，我们深信，在法律公义的天秤之上，在人道民心的天理之上，正义终将与我们一起，迎来曙光。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjhah4s3j215o0u0wv4.jpg?resize=600%2C432" alt="74de11a5jw1f5mjhah4s3j215o0u0wv4" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjhah4s3j215o0u0wv4.jpg?w=720 720w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjhah4s3j215o0u0wv4.jpg?resize=300%2C216 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>签名：</p>
-<p>王峭岭（律师李和平之妻）</p>
-<p>原珊珊（律师谢燕益之妻）</p>
-<p>刘二敏（公民翟岩民之妻）</p>
-<p>李文足（律师王全璋之妻）</p>
-<p>王全秀（律师王全璋之姊）</p>
-<p>樊丽丽（公民戈平之妻）</p>
-<p>陈桂秋（律师谢阳之妻）</p>
-<p>2016年7月8日</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjevxkyhj20af0aijrq.jpg?resize=375%2C378" alt="74de11a5jw1f5mjevxkyhj20af0aijrq" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjevxkyhj20af0aijrq.jpg?w=375 375w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjevxkyhj20af0aijrq.jpg?resize=150%2C150 150w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjevxkyhj20af0aijrq.jpg?resize=298%2C300 298w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74de11a5jw1f5mjevxkyhj20af0aijrq.jpg?resize=70%2C70 70w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"></p>
-<div>支持将用于困难家属补助及维权行动经费</div>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/709%E5%A4%A7%E6%8A%93%E6%8D%95%E4%B8%80%E5%91%A8%E5%B9%B4%E5%AE%B6%E5%B1%9E%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">709事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%BA%E6%9D%83/?category=18271" rel="tag">人权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">公权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91/?category=18271" rel="tag">公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8/?category=18271" rel="tag">危害国家安全</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%AA%92/?category=18271" rel="tag">官媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%B6%E5%B1%9E/?category=18271" rel="tag">家属</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%8A%AF/?category=18271" rel="tag">政治犯</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E7%BD%AA%E8%A1%8C/?category=18271" rel="tag">法律罪行</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A7%91%E5%A8%98%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BF%A1%E4%BD%A0-%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E4%BF%A1%E6%94%BF%E5%BA%9C/" target="cdt-mirror">【网络民议】姑娘不是不信你 我们是不信政府</a>
-</h2>
-<p><p>考拉赵威的微博帐号对<a href="http://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/" target="_blank">网民质疑的自拍</a>作了如下回应：</p>
-<blockquote><p><a href="http://weibo.com/2818229470/DDR2jCsDh" target="_blank">@考拉就是考拉</a>：没想到一张自拍居然引发这么多人无端质疑。我将我的心路历程分享出来是想以后不再被人利用，也希望大家引以为戒。请真正关心我的朋友祝福我重获自由，让我安心陪伴父母，尽为人女的孝心。</p></blockquote>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E5%BE%AE%E5%8D%9A4.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E8%80%83%E6%8B%89%E5%BE%AE%E5%8D%9A4.png?resize=525%2C853" alt="考拉微博4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉微博4.png?w=601 601w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/考拉微博4.png?resize=185%2C300 185w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<p>然而微博中出现的诸如“无端质疑”这种用词，反而使得更多人相信，这个帐号是并非由赵威本人操作，而是政府内部人员在“代劳”。</p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="http://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/" target="_blank">赵威微博发布“自拍” 引更多质疑</a></li>
-<li><a href="http://chinadigitaltimes.net/chinese/2016/07/%E5%8D%95%E4%BB%81%E5%B9%B3%EF%BC%9A%E8%80%83%E6%8B%89%E8%A2%AB%E9%AA%97%E4%BA%86%EF%BC%8C%E9%AA%97%E4%BA%BA%E8%80%85%E6%9C%AA%E5%BF%85%E6%B2%A1%E8%A2%AB%E8%A5%BF%E6%96%B9%E9%AA%97/" target="_blank">【异闻观止】单仁平：“考拉”被骗了，骗人者未必没被西方骗</a></li>
-<li>中国数字时代<a href="http://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/" target="_blank">考拉赵威</a>专题</li>
-</ul></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1104546945" target="_blank">@尘事-如潮</a>：无端质疑“！<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">好熟悉的字眼啊，经常在哪见到？<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[喵喵]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/4a/mm_org.gif" alt="[喵喵]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1">”</p>
-<p>@人性de光辉:国宝注意，请用手机发，这样更像一点。360安全浏览器一般都公务员用</p>
-<p>@太岁丶VIP：你们没发现吗？五毛们全都围上来舔考拉，这根本不正常，我们强烈要求考拉发个视频证明还活着！！！</p>
-<p><strong>@天蜇走远：姑娘不是不信你 我们是不信政府。</strong></p>
-<p>@三天打渔2660：一年监禁不让见家人不让见朋友不让见律师，出来就抒发情怀就痛斥师友就讴歌警察，我说代笔的这位，你想告诉大家这姑娘神经了吗？</p>
-<p><strong>@囧纳森V：“无端质疑”… 呵呵… 这几个字倒真是打消了大家最后的一丝怀疑。</strong></p>
-<p>@花烛泪2016：如果真的是你本人，你为什么要删好几百条评论呢？你前一条微博我看的时候已经有将近500的评论了，现在一看又只剩下200多了，我们大家都知道如果是你本人的话，根本不可能这么无聊的删评论，不是吗？</p>
-<p>@三条一块五：考拉如果真痛改＂前非＂了，怎么可能会如此轻松地一日三次跑出来＂內心独白＂？被律师骗了，况且还被关一年，如何重新面对亲人、朋友、同学？如何走未來的路？这些问题必然会让一个女孩子悄然沉寂很久的，这是本能的疗伤。谁最希望她如此＂表白＂？我不能瞎猜，只是看到那谁、谁、谁第一时间转发了！</p>
-<p>@再走人间路：考拉好忙，整天忙于删微博</p>
-<p><a href="http://weibo.com/2119115493" target="_blank">@市民東先生</a>：国家这次必须感谢考拉，要不是考拉良心发现，这个国家就被颠覆了<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"><img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p>@雪夜饮酒浊：仔细看了看考拉以前的微博，原创内容虽然不多，但可供比对的文字还是足够的，遣词造句的风格差别实在太明显；此外，以前多是iPhone客户端，最近则多是浏览器；说明什么？说明他们连掩饰的想法都没有，根本不忌惮你们的怀疑。想到考拉可能的境况，真的太难过了。</p>
-<p>@墒中麦粒0：假！就别演戏了，越演越穿帮了！不就是潘基文访华，兔崽子害怕了吗！不得不释放出来一个“自由”的信号吗？看你如何收场？</p>
-<p>@伟小涛：把微博还给人家啦，扑街！一个大男操着男五毛的口吻人玩人家女孩子的微博，你不觉得自己很变态的么</p>
-<p>@总是有理的无理：被无缘无故、不明不白地关了一年，能够脱离虎口，此事最大的愿望是什么？肯定是静一静，与家人团聚，啥话都不想说。基本可以断定，这个微博账号已被国宝控制了。</p>
-<p>@月老醒工搬：国宝滚出来！</p>
-<p>@我是坏蛋945：把微博还给考拉吧。这样玩没有意思，别把别人猪，其实你就是个蠢猪。</p>
-<div><a href="http://weibo.com/timerose" target="_blank">@借口院院长V</a>：呵呵，党国演的真是用力过度了，“无端质疑”，“被利用”，这些词很党性，很你国<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></div>
-<div>
-<p>@holden209038：这届国宝不行啊，屁民都骗不了。</p>
-<p>@用户5285739454：自媒体时代了，皇帝还是喜欢光着屁股满街跑。大街上，有些人不敢说话，有些人依旧歌颂皇帝的新衣。可是在微博微信上，大家已经在讨论皇帝鸡鸡的尺寸了。</p>
-</div>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A7%91%E5%A8%98%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BF%A1%E4%BD%A0-%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E4%BF%A1%E6%94%BF%E5%BA%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -723,7 +676,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -733,5 +686,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

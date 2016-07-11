@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,55 @@
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E8%B5%B5%E8%B6%8A%E8%83%9C%EF%BC%9A%E5%88%98%E5%B0%91%E5%A5%87%E4%B9%8B%E5%AD%90%E5%88%98%E6%BA%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%BA%E7%88%B6%E4%BC%B8%E5%86%A4/" target="cdt-mirror">法广｜赵越胜：刘少奇之子刘源为什么不为父伸冤？</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?resize=555%2C314" alt="lsq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?w=1021 1021w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?resize=768%2C435 768w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"></p>
+<p>问：刘源从总后勤部政委的位置上退下来，去了人大财政委员会，离开了军队。 以前曾有人推测习近平会重用他，担当军委纪检书记。 这事正巧发生在文革五十周年前，引起一些议论。 我们想听听你的看法。</p>
+<p>答：由于中共当局的禁令，对文革的反思显然没有深入下去，但我们还是见到了一些精彩的反思。文贯中先生在上海他的母校徐汇中学发表的讲话就极好。他号召那些文革中的施害者反思悔恨，却言词淳淳，没有一点怨恨，显出一派宽厚仁慈。贯中是我三十多年的老朋友，却从未向我讲述过他受过那样惨烈的苦难。读到他被打得遍体鳞伤，只有老婆婆一个人在家等他时，让人不能不落泪。而贯中讲话却是要“感谢”，甚至感谢他的“冤家对头”。但贯中的宽恕，是在分清是非，指出罪恶，号召忏悔前提下的宽恕。他感谢的是黑暗中人性的光辉。贯中最后鼓励我们“牢记文革教训，坚持做人的底线。他说：“只要我们默默地不配合黑暗势力的淫威，良知之光就能更快地战胜黑暗”。</p>
+<p>问：我完全同意文贯中先生的看法。 今天你提到刘源，我们知道，在文革中，他是受到最大冲击的人，后来，我们看到他的一些言论，是维护毛的，甚至对他父亲也有一些批评。</p>
+<p>答：这是一个很好的案例，可以让我们分析一下红二代这个群体现象。首先，红二代只是一个称谓，原则上不含褒贬。 现在老百姓反感这个词是因为活动在台面上的红二代实在不堪。我有许多“红二代”朋友，真是人品敦厚、虚心向学，对普世价值、人类文明大势了然于心，对共产体制的弊端和它的罪行持强烈的批判态度。只是这些人从不出头露面。其次，文革中受苦受难绝不意味着能自然而然地从理论和实践层面否定文革，进而否定造成文革这种民族灾难的制度。我注意过刘源的一些言论，文革刚结束时，他考入北京师范学院，据说也很不容易。在八十年代初校园民主运动中他可谓先锋人物，曾竞选人民代表。我记得他曾描述过文革中，“在几千个暗夜里，每小时我的心都流着血和泪。 我紧紧咬着牙，不使自己变疯。为什么，就是为了看到真理战胜邪恶的一天”。以他的身份，从贵为王子一下子沦为奴隶，我们能想见他的痛苦，也对此深表同情。 在当时的竞选会上，台下有人提问，他也说过很开放的话。他说：“多党制与社会主义并不矛盾，而且有好处，中国要民主，一定要民主，我愿意打冲锋，向封建势力宣战，与特权决裂”。这都是白纸黑字的记载。</p>
+<p>问：听了这些话，真有点吃惊。不能想象，他还有过这么开放的时候。</p>
+<p>答：你再看看他后来的言论。第一是为毛辩护，“有人说毛有罪，即便这样也只能算是渎职罪”。 他还打比方，说“中国是个大仓库，毛是负责看守仓库的库长，仓库失了火，库长没看好，当然应该受批评。但他跟四人帮不同，四人帮是到仓库里放火的”。你看看这见识，仿佛文化革命是四人帮发动的，毛没看住大门。毛自己都承认他这辈子就干了两件事，其中之一就是发动了文革。 再有，就是批评他爹：“文革虽然父亲一开始就靠了边，很快又被打倒，对文革损失似无什么责任。但作为国家主席，他没有制止这场动乱，这可以说是他的最大错误”。这话简直近乎混账，这就好比说：“我爹叫人杀了，但他没有制止住杀人犯杀他，所以这是他最大的错误”。刘少奇确实有错也有罪，但在列宁党国体制下，手上没血你根本不能存在。陀斯妥耶夫斯基有部名著叫《群魔》，专门描述了这种共谋关系。我称之为“血绳定律”。 但文革和刘之被整死，确实和他本人无关。或许这是他唯一一次无辜，他宝贝儿子还不依，连这次机会也不给他。太史公有言：“以污辱先人，亦何面目复上父母丘墓乎”。</p>
+<p>问：看你讲的他前后的变化，真判若两人。 为什么会这样呢？</p>
+<p>答：这可以有很多分析的角度。我看到有人说，刘源不为父伸冤而维护毛，是因为中国文化传统中有仁恕的传统。错，中国古来仁人志士为父报仇的多了。伍子胥报楚平王杀父之仇，“掘楚平王之墓，出其尸，鞭之三百”。 明末大儒黄宗羲，其父黄尊素为东林七君子，遭魏忠贤阉党迫害而死。 崇祯平天启冤案，黄宗羲上庭与阉党许显纯对质，袖藏利锥，当庭痛锥杀父仇人。 所以从中国文化传统角度替刘源辩解不大站得住。 相反，中国传统中倒有“不报杀父之仇是为不孝”的说法。 后来，我看到刘源在毛家后代婚宴上的讲话，“对我们毛刘两家，和则盛，斗则衰，合是正确，离是谬误，我们两家人，最起码应该做到，和而不斗，合而不离”。 我才明白刘源的精神资源，仍然局限在打江山、坐江山的水浒聚义厅水平，原来还真高看他了。</p>
+<p>问：看他的这个讲法，仍然是个家天下的框架。</p>
+<p>答：对，在一些红二代，尤其是当权的红二代心目中，中国的事不过是那些名门大姓之事，和老百姓无关。 所以刘源之替毛辩护就绝非“斯德哥尔摩综合症”所能解释，其政治学上的意义要远大于心理学。 其实，红二代掌权并非现在刚开始，在邓、陈世代就已经这么做了。 大家似乎忘了，李鹏是货真价实的红二代，江泽民，若从他养父江上清一系论，他也是红二代，至少是“新进门户”，陈云讲到权要交到自己孩子手里才放心。 他们这样考虑也这样做了。 这有点像东晋门阀政治，士族大户进入权力中枢，到了江李的后代掌权，门阀之势渐成。 象李小琳，一时权势炙手可热。 她前几年在开人大时，一身名牌，招摇过市，提议要给人建立“道德档案”，张狂无度，很有点“后来鞍马何逡巡，当轩下马入锦茵”的气势，国人皆曰可杀。</p>
+<p>现在红二代全面掌权，在宗族政治的结构下。 刘源的行为也好理解：“俺爹虽然打俺，但家还是要传给俺”。 这说明中共不是个现代意义上的政党，而有点像清末满族亲贵为挽救大清朝组织的宗社党，只是势力比宗社党大得太多了。 这点倒是中国特色。 因为在苏共垮台前，我们看不到红二代掌权的现象，勃列日涅夫的女婿也不过是个外贸部的副部长。 赫鲁晓夫的女婿阿朱别伊只是《真理报》的头儿。 斯大林的儿子至多是个中将，而且从未进入过权力核心，因为在俄国历史上没有过门阀政治的传统。</p>
+<p>问：我理解你说的门阀政治，就是由一些最有权势的家族主持政坛。</p>
+<p>答：简单说是这样，但我也只能说中共当下的价值取向有门阀政治的影子，也就是说一群非血亲关系的权势人物，因上一代的荫庇而形成左右政坛的政治势力。 他们彼此照应，彼此提携，看看习上台后红二代集会造势的劲头，还真有点这意思。 但是区别在于，门阀政治绝非贵族政治，因为门阀政治的特点是帝王垂拱，士族当权。 这点陈寅恪、田余庆先生有过精辟的论述。 门阀大族主持朝政，但要以皇权为中心，而贵族政治则是贵族与王权形成对立、制衡。 英国大宪章就是贵族与约翰王博弈的结果。 门阀政治绝不会产生新的政治结构。 但是你说中共制度一点现代因素没有也不对。 它在共产国际领导下，毕竟也要依样画葫芦，那就是列宁式党国制度。 这一点列宁在他创造的那一套所谓国家、政党、领袖相互关系学说中早已明定。 这个党必须以党的独裁领袖为核心，所以薄习斗绝不可能出现共主局面，只能是败者屈服于党的领袖。 可惜，说红二代像门阀大族也实在高抬了他们，看看东晋世代王谢大族，哪个不是才华绝代，出儒入玄，词章精妙，人格俊朗。 与之相比，红二代则猥琐太多。 所学所知不出中共教科书，加上些喝狼奶获得的野性，就能治国了。</p>
+<p>问：你的这个解释实际上指出中国现在的政治结构还有强烈的前现代色彩。</p>
+<p>答：对，所以看中国政治，几乎不用从亚里士多德的角度，甚至不用从马基雅维利的角度。 而宗族门阀传统倒不失为一个考察角度。 从这个角度看，刘源不为父伸冤，而为毛辩护就好理解了。 “刘毛两家”，这是他自己的用语，再斗的你死我活，归根到底是一家人。 号称“人民主权”的共和国，权力来源竟然和老百姓毫无关系，哥儿几个一捏咕就成了。 想想有点悲哀，中国政治之不长进，真让人无语。</p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E8%B5%B5%E8%B6%8A%E8%83%9C%EF%BC%9A%E5%88%98%E5%B0%91%E5%A5%87%E4%B9%8B%E5%AD%90%E5%88%98%E6%BA%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%BA%E7%88%B6%E4%BC%B8%E5%86%A4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%BA%90/?category=18271" rel="tag">刘源</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%88%91%E5%9B%BD%E5%AD%A6%E8%80%85%E4%BB%A5%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%91%BD%E5%90%8D%E4%B8%80%E7%94%B2%E8%99%AB%E6%96%B0%E7%A7%8D/" target="cdt-mirror">【真理部】我国学者以“习大大”命名一甲虫新种</a>
+</h2>
+<p><p>全网查删《虫研捷报：我国学者以“习大大”命名一甲虫新种》一文及有关信息。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p>附：虫研捷报：我国学者以“习大大”命名一甲虫新种</p>
+<p>国际著名动物学期刊 Zootaxa 于6月17日在线发表了我国学者王成斌博士的论文 Rhyzodiastes (Temoana) xii sp. nov. (Coleoptera: Rhysodidae: Clinidiini), a new species from Hainan Island, China，文中描述了一个来自海南岛的甲虫新种— —习氏狼条脊甲 Rhyzodiastes (Temoana) xii</p>
+<p>条脊甲科Rhysodidae是一类小型甲虫，因为头部、胸部和鞘翅表面具有深沟和纵脊而得名，另外它们还具有念珠状的触角，颇为奇特。</p>
+<p>条脊甲生活在树皮下、腐木中，是一类少见的昆虫，全球已知约20属120种，我国已知约5属20种。条脊甲通常分布在热带地区，在东南亚和南美洲北部有丰富的种类。</p>
+<p>很多科学家都以自己尊敬的国家领导人的名字来命名自己发现的新物种，例如以美国总统奥巴马命名的一种蜘蛛 Aptostichus barackobamai 和以已故南非前领导人曼德拉命名的海蛞蝓 Mandelia mirocornata。但是，用我国领导人的名字来命名新物种，这还是头一次，王成斌博士在文中指出“The specific epithet is dedicated to Dr. Xi Jin-Ping, the President of the People’s Republic of China, for his leadership making our motherland stronger and stronger”（种名献给中华人民共 和国国家主席习近平，因为在他的领导下祖国越来越强大）。</p>
+<p>论文作者、现年32岁的王成斌博士来自四川邛崃，毕业于四川大学后，师从华中农大雷朝亮教授，从事金龟分类学和蚊虫感觉生理学研究。后考入中科院动物所，师从周红章研究员，从事球蕈甲科分类学研究。他现在正在捷克从事博士后工作。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?resize=400%2C617" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?resize=195%2C300 195w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%88%91%E5%9B%BD%E5%AD%A6%E8%80%85%E4%BB%A5%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%91%BD%E5%90%8D%E4%B8%80%E7%94%B2%E8%99%AB%E6%96%B0%E7%A7%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B2%E8%99%AB/?category=18271" rel="tag">甲虫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%96%BB%E5%B9%B3-%E8%87%B4%E6%9D%8E%E5%85%8B%E5%BC%BA%E6%80%BB%E7%90%86%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%EF%BC%9A%E6%AD%A3%E8%A2%AB%E6%96%A9%E6%96%AD%E7%9A%84%E5%88%9B%E4%B8%9A%E8%B7%AF/" target="cdt-mirror">喻平 | 致李克强总理的一封信：正被斩断的创业路</a>
 </h2>
 <p><p>致李克强总理：</p>
@@ -671,42 +717,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81%E4%B8%88%E5%A4%AB%E6%B8%B8%E6%98%8E%E7%A3%8A%E5%85%B3%E4%BA%8E%E4%BB%BB%E5%85%A8%E7%89%9B%E5%BE%8B%E5%B8%88%E8%A2%AB%E5%88%91%E6%8B%98%E7%9A%84%E5%A3%B0%E6%98%8E/" target="cdt-mirror">考拉赵威丈夫游明磊关于任全牛律师被刑拘的声明</a>
-</h2>
-<p><blockquote><p>王译 ‏<a href="https://twitter.com/wangyi09/status/751452520128454657" target="_blank">@wangyi09</a>：赵威（考拉）丈夫游明磊关于任全牛律师被刑拘的声明</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cm2yEkbVUAEMo5k.jpg_large.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cm2yEkbVUAEMo5k.jpg_large.jpg?resize=475%2C843" alt="Cm2yEkbVUAEMo5k.jpg_large" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cm2yEkbVUAEMo5k.jpg_large.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cm2yEkbVUAEMo5k.jpg_large.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Cm2yEkbVUAEMo5k.jpg_large.jpg?resize=577%2C1024 577w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>赵威丈夫游明磊关于任全牛律师被刑拘的声明：</strong></p>
-<p>今天晚上得知我为赵威委托的任全牛律师因为“编造并在互联网上散布当事人人身受辱的虚假信息，相关信息被大量转发报道，造成恶劣社会影响，也给当事人赵威名誉造成严重损害，涉嫌犯罪”已于7月8日被郑州公安机关依法刑事拘留。因去年“709事件”中妻子赵威被当局逮捕并关押于天津看守所，本人于去年7月份委托任全牛律师为赵威辩护，在这将近一年的时间里，任律师矜矜业业尽职尽责，几次三番和当局沟通，多次到天津要求会见赵威，因被天津警方拒绝并向检察机关提出控告，在这种生不见人死不见尸的情况下，因网上的一些传言而在微博上求证，并和严华丰律师到天津向警方核实情况，但是都没有得到确切的答案，更是至今没有会见到赵威本人。在这种情况下，郑州警方以任律师编造散布当事人受人身侮辱的消息，并造成恶劣影响的理由简直荒谬至极！本人强烈谴责当局的这种无耻行径！并要求郑州当局尽快无罪释放任全牛律师！</p>
-<p>2016年7月8日11时30分</p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81%E4%B8%88%E5%A4%AB%E6%B8%B8%E6%98%8E%E7%A3%8A%E5%85%B3%E4%BA%8E%E4%BB%BB%E5%85%A8%E7%89%9B%E5%BE%8B%E5%B8%88%E8%A2%AB%E5%88%91%E6%8B%98%E7%9A%84%E5%A3%B0%E6%98%8E/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E7%AA%91/?category=18271" rel="tag">官窑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9B%9B%E5%A6%82%E6%84%BF/?category=18271" rel="tag">盛如愿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E4%BB%A5%E5%90%8E%E5%B9%B2%E8%84%86%E5%BC%80%E4%B8%AA%E8%AE%A4%E7%BD%AA%E9%A2%91%E9%81%93/" target="cdt-mirror">【麻辣总局】中央电视台以后干脆开个认罪频道</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?resize=549%2C360" alt="令计划" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?resize=300%2C197 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/k9nnnnnnnnnnnnnnnnn.jpg?resize=230%2C150 230w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>@没有羊先生：中央电视台以后干脆开个认罪频道，取代人民法院检察院。24小时不间断直播电视认罪，在各地信访办拘留所增设直播点。以人为本，认罪者可选择不同套餐: 嫖娼大礼包，受贿全家桶，聚众吸毒套装。洋葱免费，眼药水加钱。创新型法制建设，我赶紧给黑镜投稿去。</p>
-<p>@景山公园51区:搞个中国认罪人的真人秀节目，认罪以后，评委一拍大按钮转身点评。</p>
-<p>@三两桥: 设计匿名爆料渠道，十八路亲戚朋友同事可投稿举报此人平时罪行，微信截图线索一条100，录音视频一条500。</p>
-<p>@柯晗-人间旅行:还可以开设现场互动，观众边看边发短信，电视台选登，营造万人唾弃的效果。</p>
-<p>@没有羊先生：开举报弹幕！开举报弹幕！观众快来打脸反转2333</p>
-<p>@<a href="http://weibo.com/aotewoman" target="_blank">神悟饭</a>：建议做成3D，戴上眼镜身临其境，一种大型社会主义震慑</p>
-<p>@<a href="http://weibo.com/5943295937" target="_blank">幾多心中沧桑3世</a>：还可以搞热线电话模式，请个托专门骂人，“这个人太坏了，应该千刀万剐，不得好死”</p>
-<p>@<a href="http://weibo.com/1591934917" target="_blank">holicchen</a>：还是不如文革，想斗谁直接抓走。</p>
-<p>@<a href="http://weibo.com/2214643811" target="_blank">谭克曼</a>：依法治国有望了一刚！</p>
-<p>（6月21日 19:21 来自 iPhone 6s Plus）</p>
-<hr><p><small>© 山巅的呼唤 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E9%BA%BB%E8%BE%A3%E6%80%BB%E5%B1%80%E3%80%91%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0%E4%BB%A5%E5%90%8E%E5%B9%B2%E8%84%86%E5%BC%80%E4%B8%AA%E8%AE%A4%E7%BD%AA%E9%A2%91%E9%81%93/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E5%BF%8F%E6%82%94%E5%8F%B0%E7%B2%BE%E9%80%89/?category=18271" rel="tag">中央忏悔台精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%AE%E8%A7%86%E5%AE%A1%E5%88%A4/?category=18271" rel="tag">央视审判</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -718,7 +728,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -728,5 +738,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

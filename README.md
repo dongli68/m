@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,29 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%AD%94%E6%8D%B7%E7%94%9F%EF%BC%9A%E6%AD%A6%E6%B1%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E8%B0%81%E6%98%AF%E6%9D%8E%E9%B9%8F%E5%90%97%EF%BC%9F/" target="cdt-mirror">苹果日报｜孔捷生：武汉人记得谁是李鹏吗？</a>
+</h2>
+<p><p>中国古代四大名镇都不靠海，其中最繁荣的汉口镇早已升级为“九省通衢”大武汉，如今武汉人凭窗就可看海，出门就可赶海，连绵暴雨令武汉三镇尽成泽国汪洋。于是再次令人正视三峡是给中华民族造福的巨坝吗？</p>
+<p>习近平最新圣谕“不忘初心”。三峡的初衷是什么，发电？南水北调？非也，当年力主三峡上马的李鹏说得很清楚：是防洪。1992年在全国人大提议通过三峡工程项目时，据李鹏回忆，防洪是决策修建三峡大坝的决定性因素。</p>
+<p>1993年三峡建设工程委员会成立，时任总理的李鹏身兼主任。翌年李鹏在宜昌三斗坪主持开工典礼。1998年长江特大洪水，时任国家防汛委员会主任的温家宝在武汉大堤上指挥抗洪，长江两岸安危系于一发，其时三峡尚未截流。2002年11月7日三峡高坝合龙，李鹏说：“建设三峡工程，就是为了解决湖北防洪等重大问题，这是一点也不夸张的。”他指出当初有两派之争，有的意见主张先支流后干流，但是长江洪患不已，“特别是武汉这样的大城市，面临的危险逐年增大，而先支后干的办法不能吃根本上解决武汉防洪的问题。”（以上言论见《李鹏论地区经济》一书）。</p>
+<p>大一统帝国有种心理已沉淀为威权文化的一部份，正因为中央集权，国家可集中人力物力办大事，超大型的工程本身就是强盛王朝的声威符号。这种心理一直延续至今，试看中共建政后的三门峡工程、葛洲坝、三峡工程、南水北调，都折射出万里长城和大运河的历史回光。随着中国经济实力的膨胀，好大喜功的传统心态，又随着“一路一带”壮阔蓝图向全球扩散，它莫不以海市蜃楼式的超大项目为前导。</p>
+<p>三峡开工迄今已20多年，2006年大坝主体部份完工，今年刚好是十周年。当初主建派所谓万吨轮船可直达重庆；三峡库区就像大冷气机可调节四川盆地气候，使之冬暖夏凉的牛皮已经吹破。而宣称一劳永逸解决长江流域洪涝和乾旱，如今亦成笑话。蓦然回首，岂止发电效益并未如所期，南水北调这一构想更是作废。眼见武汉洪水滔天，问题是后三峡才出生的新世代大多不知道谁是李鹏，只知道他们甚至子孙后代都将和上游那道高坝同休戚共存亡。</p>
+<p>国家大政不许妄议</p>
+<p>台湾出了天灾人祸，民众愤而问责政府怒喷总统。大陆出了天大事情，却是泣谢党疼国爱的特定时刻，党国坦然欣然接受人民感恩。假使洪水最后侥幸退去，党的功劳将写遍荆楚大地；万一武汉决堤死伤无数，那将会涌现讴歌不完的英雄事迹，喉舌卯足全力把白事当红事来做，类似“东方之星”沉船灾难时的赞颂文章《生为国人，何其有幸！》、《救援一线，中国最帅的男人都在这儿啦》、《感谢你无数次游过那么悲伤的水域》将充斥国人视听。</p>
+<p>当下武汉黄水汤汤，一派末日景象，民众有权重新审视三峡的存废吗？连专家也只能噤声。三峡属于国家大政，不许妄议。讽刺的是，赵紫阳、朱镕基、温家宝三任总理都对三峡兴趣缺缺。大坝奠基20周年庆典，在位的胡温均不见踪影。学水电的胡锦涛和学地质的温家宝为何避席？这和陈云至死不到深圳特区以及胡温始终不到“西红市”为重庆模式捧场堪有一比，陈云是出于政治理念，胡温却是爱惜羽毛，不欲和三峡捆绑而蒙污后世。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
+<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%AD%94%E6%8D%B7%E7%94%9F%EF%BC%9A%E6%AD%A6%E6%B1%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E8%B0%81%E6%98%AF%E6%9D%8E%E9%B9%8F%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B3%A1/?category=18271" rel="tag">三峡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%B9%8F/?category=18271" rel="tag">李鹏</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 4小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E8%B5%B5%E8%B6%8A%E8%83%9C%EF%BC%9A%E5%88%98%E5%B0%91%E5%A5%87%E4%B9%8B%E5%AD%90%E5%88%98%E6%BA%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%BA%E7%88%B6%E4%BC%B8%E5%86%A4/" target="cdt-mirror">法广｜赵越胜：刘少奇之子刘源为什么不为父伸冤？</a>
 </h2>
 <p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?resize=555%2C314" alt="lsq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?w=1021 1021w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?resize=768%2C435 768w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"></p>
@@ -695,28 +715,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A7%9C%E7%8E%89%E7%A3%8A%E5%BE%8B%E5%B8%88%EF%BD%9C%E4%B8%BE%E6%8A%A5%E5%92%8C%E6%8A%A5%E6%A1%88%E6%8E%A7%E5%91%8A%E7%9A%84%E5%8C%BA%E5%88%AB/" target="cdt-mirror">姜玉磊律师｜举报和报案、控告的区别</a>
-</h2>
-<p><p><strong>简单的说就是</strong></p>
-<p><strong>报案指任何单位和个人（含被害人）发现犯罪事实后，向公安检察院法院报告请求审查处理的行为，报案人一般为偶然发现犯罪行为或事实，<span>并不知道实施人是谁</span>。</strong><br><strong> 举报是指<span>与案件无直接利害关系的其他知情人</span>向公安司法机关揭露犯罪事实或嫌疑人的行为；</strong><br><strong> 控告是指<span>受犯罪行为侵害的受害人</span>或其法定代理人、近亲属为了维护被害人的利益，向公安司法机关指控犯罪人及其犯罪事实，请求追求其刑事责任的行为；</strong></p>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%84%9F%E8%B0%A2%E4%BF%A1-copy.png"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%84%9F%E8%B0%A2%E4%BF%A1-copy.png?resize=550%2C470" alt="感谢信 copy" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/感谢信-copy.png?w=2238 2238w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/感谢信-copy.png?resize=300%2C257 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/感谢信-copy.png?resize=768%2C657 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/感谢信-copy.png?resize=1024%2C876 1024w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/感谢信-copy.png?w=2000 2000w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>“刚刚看到郑州公安的微博，看到在网上造谣诋毁我的人居然是他”；@考拉就是考拉 微博截图</span></p></div>
-<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E9%83%91%E5%B7%9E-copy.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E5%B9%B3%E5%AE%89%E9%83%91%E5%B7%9E-copy.jpg?resize=500%2C479" alt="平安郑州 copy" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安郑州-copy.jpg?w=1804 1804w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安郑州-copy.jpg?resize=300%2C288 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安郑州-copy.jpg?resize=768%2C736 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/平安郑州-copy.jpg?resize=1024%2C981 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>“根据当事人赵威的举报”；@平安郑州 微博截图</span></p></div>
-<p><strong>1、什么是举报？</strong></p>
-<p>举报是指机关、团体、企事业单位和个人向司法机关和有关部门<strong>检举、揭发犯罪嫌疑人的犯罪事实或者犯罪嫌疑人线索</strong>的行为。举报是我国《宪法》和法律赋予公民对国家机关和国家机关工作人员进行监督的一项民主权利。我国《宪法》第四十一条规定：中华人民共和国公民对于任何国家机关和国家机关工作人员，有提出批评和建议的权利；对于任何国家机关和国家机关工作人员的违法失职行为，有向有关国家机关提出申诉、控告或者检举的权利，但是不得捏造或者歪曲事实进行诬告陷害。《刑事诉讼法》第八十四条规定：任何单位和个人发现有犯罪事实或者犯罪嫌疑人，有权利也有义务向公安机关、人民检察院或者人民法院报案或者举报。《宪法》和法律的这一规定，为公民以控告、检举、举报的方式对国家机关和国家机关工作人员行使监督权提供了法律保障，使举报成为我国公民同职务违法犯罪行为作斗争的有力武器和重要手段，也成为我国司法机关、行政监察机关以及其他有关机关和部门发现和查处职务违法犯罪案件的主要线索的来源和渠道。公民举报可以通过电话举报、信函举报、传真举报、网上举报，也可以当面举报、预约举报或者认为方便的其他形式进行举报。按照法律规定，公民举报必须实事求是，如实提供情况；捏造或者歪曲事实，诬告陷害他人的应负法律责任。对于公民举报，司法机关、行政监察机关以及其他有关机关和部门均应受理。受理后依照有关管辖范围分工的规定，进行分流，归口办理，分级负责，并由承办部门将办理情况及时答复举报人。任何单位和个人均不得私自扣押公民举报的线索，也不得对举报人进行压制和打击报复。</p>
-<p><strong>2、什么是控告？</strong></p>
-<p>控告是指机关、团体、企事业单位和个人向司法机关揭露违法犯罪事实或犯罪嫌疑人，要求依法予以惩处的行为。在我国，控告是公民享有的重要权利和同违法犯罪行为作斗争的重要手段，也是刑事案件立案材料的主要来源。公民的控告权受到国家《宪法》和其他法律的保护。《刑事诉讼法》第八十四条第二款、三款规定：被害人对侵犯其人身、财产权利的犯罪事实或者犯罪嫌疑人，有权向公安机关、人民检察院或者人民法院报案或者控告。公安机关、人民检察院或者人民法院对于报案、控告、举报，都应该接受。对于不属于自己管辖的，应当移送主管机关处理，并且通知报案人、控告人、举报人；对于不属于自己管辖而又必须采取紧急措施的，应当先采取紧急措施，然后移送主管机关。根据这一规定，控告一般是指被害人及其近亲属或其诉讼代理人，对侵犯被害人合法权益的违法犯罪行为，依法向司法机关告发，要求予以惩处的行为。按照《刑事诉讼法》第八十五条的规定，控告可以以书面或者口头形式提出。属于口头控告的，接待的工作人员应当写成笔录，经宣读无误后，由控告人签名或盖章。接受控告的工作人员应当告知控告人：控告应实事求是，不得诬告陷害他人，并说明诬告应负的法律责任。按照《刑事诉讼法》第八十六条的规定，人民法院、人民检察院或者公安机关对于控告材料，应当按照管辖范围，迅速进行审查，认为有犯罪事实需要追究刑事责任的，应当立案；认为没有犯罪事实，或者犯罪事实显著轻微，不需要追究刑事责任的，不予立案，并且将不立案的原因通知控告人。控告人如果不服，可以申请复议。<br>
-控告与举报都是向司法机关揭露犯罪，并要求依法处理的行为，也都是公民同犯罪作斗争的重要手段，但两者又不相同，主要区别是：（1）控告人是犯罪案件的被害人或其法定代理人，与案件的处理有直接的利害关系；举报人一般不是犯罪案件的被害人或其法定代理人，与案件无直接利害关系。（2）控告的目的，主要是为了维护被害人自身的合法权益；而举报的目的，主要是为了伸张正义，维护法制，保护国家和社会公共利益及他人的合法权益。</p>
-<p><strong>3、什么是报案？</strong></p>
-<p>报案是指机关、团体、企事业单位和公民（包括被害人）将发现的有犯罪事实或者犯罪嫌疑人向司法机关报告的行为。报案既是单位、个人和被害人同犯罪作斗争、维护自身或他人权益的重要方式，也是司法机关惩治犯罪的主要案源材料之一。我国《刑事诉讼法》第八十四条规定：任何单位和个人发现有犯罪事实或者犯罪嫌疑人，有权利也有义务向公安机关、人民检察院或者人民法院报案或举报。被害人对侵犯其人身、财产权利的犯罪事实或者犯罪嫌疑人，有权向公安机关、人民检察院或者人民法院报案或控告。公安机关、人民检察院或者人民法院对于报案都应该接受。对于不属于自己管辖的，应当移送主管机关处理，并且通知报案人；对于不属于自己管辖而又必须采取紧急措施的，应当先采取紧急措施，然后移送主管机关。《刑事诉讼法》还规定：报案可以用书面或者口头形式提出。属于口头报案的，接待的工作人员应当写成笔录，经宣读无误后，由报案人签名或盖章。人民法院、人民检察院或者公安机关对于报案材料，应当按照管辖范围，迅速进行审查，认为有犯罪事实需要追究刑事责任的，应当立案；认为没有犯罪事实，或者犯罪事实显著轻微，不需要追究刑事责任的，不予立案。<br>
-根据我国《刑事诉讼法》的规定，机关、团体、企事业单位和公民个人报案，应按事件的性质和法定的案件管辖范围及时向有关司法机关报案。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A7%9C%E7%8E%89%E7%A3%8A%E5%BE%8B%E5%B8%88%EF%BD%9C%E4%B8%BE%E6%8A%A5%E5%92%8C%E6%8A%A5%E6%A1%88%E6%8E%A7%E5%91%8A%E7%9A%84%E5%8C%BA%E5%88%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E5%85%AC%E6%AD%A3/?category=18271" rel="tag">司法公正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E5%8F%8D%E6%AD%A3%E4%BF%A1%E4%BA%86/?category=18271" rel="tag">我反正信了</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -728,7 +726,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -738,5 +736,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

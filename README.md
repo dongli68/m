@@ -21,9 +21,76 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%96%BB%E5%B9%B3-%E8%87%B4%E6%9D%8E%E5%85%8B%E5%BC%BA%E6%80%BB%E7%90%86%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%EF%BC%9A%E6%AD%A3%E8%A2%AB%E6%96%A9%E6%96%AD%E7%9A%84%E5%88%9B%E4%B8%9A%E8%B7%AF/" target="cdt-mirror">喻平 | 致李克强总理的一封信：正被斩断的创业路</a>
+</h2>
+<p><p>致李克强总理：</p>
+<p>先自我介绍下，我是广州天海网络科技的创始人喻平，一个普普通通的，尚怀有理想的中国公民。公司创业10年了，作为一个没有投资的游戏创业公司，经历了许多风雨，经受了无数次政策的变化，始终努力的坚持着。</p>
+<p>当总理发出“大众创业、万众创新”的号召时，当“双创”前所未有地写入了2015年政府工作报告予以推动时，我仿佛看到了希望。然而，随着某有关部门的一道纸文，转瞬间就让公司面临生死存亡，就快要活不下去了。</p>
+<p>7月1日国家新闻出版广电总局颁布《关于移动出版服务管理的通知》，版号审批问题让游戏行业再度陷入泥潭。业内所有人都明白了，手机游戏也进入了版号审核制的时代，从此之后，独立游戏开发者乃至小规模的创业团队，基本上是死路一条！</p>
+<p>为什么一条审批制就能让一个行业的创业人都苦不堪言，为什么就能毁掉一个行业的“双创”之路？</p>
+<p><strong>创业成本被放大，万众创新之路被堵</strong></p>
+<p>“双创”政策的引导下，国家对于创业公司出台了许多优惠措施，各地区政府也在实施各种优惠招商政策，支持创业，这些都对创业公司的起步提供了帮助。</p>
+<p>但在游戏行业，版号审批制就无限地增加了创业成本，办理版号需要的繁琐流程如下：<br>
+办理版号需要提供资料：</p>
+<p>1、 著作权证书复印件<br>
+2、 营业执照副本复印件<br>
+3、 ICP证复印件<br>
+4、 出版授权书<br>
+5、 承诺书<br>
+6、 出版合同</p>
+<p>版号审核流程：</p>
+<p>1、 出版社：审核时间5-10个工作日（如有修改，修改后出版社复审，复审时间是5个工作日，修改时间不在办理时间内）；</p>
+<p>2、 出版社到出版局：审核时间15-20个工作日（如有修改，修改后出版局复审）；</p>
+<p>3、 国家新闻出版广电总局：审核时间40-60个工作日（如有修改，修改后新闻出版总署复审）<br>
+如果按以上的流程，一切顺利的情况下，审核时间是60-90个工作日，除去杂七杂八的时间，预估至少4-5个月（一个月按20个工作日算）能拿到。我们公司也按规定去申请版号，其中两个游戏的版号申请已经过去了9个月，结果了无音信，连修改的通知都没有过。试问什么样的创业公司受得了这样的审批时间？就算不出意外，这正常的4个月以上的时间是什么概念呢？ 4个月产品不上线就能拖死一家创业公司！4个月的审批+2个月上线准备期+3个月的账期，也就是说，当创业公司正常收到钱是最快也是9个月后了。这么长的时间段，对于创业公司来说就是致命的。让创业公司干等着，而且还不一定得到，还不如直接让他关门得了！在现有的市场情况下，市场竞争激烈，移动互联网的发展基本几个月就有翻天覆地的变化了。</p>
+<p>对于一个公司而言，生存必然是首位。然而随着创业成本的扩大，创新就变成了一个不切实际的想法。万众创新，不仅需要大企业的创新，其实更需要大量的中小企业的支持，然而现实如此，大量中小企业为了保证生存，不得不放下创新之路。</p>
+<p><strong>离开的人和经济增长点：</strong></p>
+<p>国家在大力发展文化产业，游戏行业是文化产业的一部分。《2015年中国游戏产业报告》正式公布了2015年中国游戏产业相关数据，报告显示，2015年，中国游戏用户数达到5.34亿人，同比增长3.3%;中国游戏(包括客户端游戏、网页游戏、社交游戏、移动游戏、单机游戏、电视游戏等)市场实际销售收入达到1407.0亿元人民币，同比增长22.9%。其中移动游戏市场实际销售收入达到514.6亿，同比增长87.2%。从上看出游戏行业能产生巨大的经济效益，提供更多的就业机会。同时游戏行业具有很强的文化传播性，发展国有游戏企业，是属于文化强国的一部分。</p>
+<p>我们本就因为处于劣势而进行了引进游戏、引进影视的数量限制，其目的也是在一定时间内保护国内游戏、影视行业等文化产业发展。然而游戏行业却被处处限制，导致了行业的下滑和畸形，看不到能对抗海外游戏的希望。</p>
+<p>如今，却有越来越多心灰意冷的游戏企业和创业公司将重心转向了国外，甚至有不少游戏相关人才直接离开了中国。行业创造的价值被逐步压缩。在国家政策不断吸引人才和企业的情况下，游戏行业竟然产生了相反的情况，有时候规定比政策更需要谨慎的实施和开展。</p>
+<p>游戏行业的发展给众多的人民提供了就业机会，版号审批制将带来企业危机，中小企业将不负重担被迫关闭。这不是耸人听闻的，游戏行业将失业率增加。</p>
+<p><strong> 做游戏创业10年，我不愿离开我所热爱的行业，想要看到国内游戏振兴的时代，想要看到这个行业能够更加健康的发展。我十分支持国家对游戏的监管，因为国家能够看到更多，更远，用最符合国家利益的方式来引导和发展这个行业。但是因为各种情况，却设置了越来越多的门槛给这个行业不断的增加负担，隐隐有压垮这个行业的趋势，对于这些门槛和监管方面的问题，我也有些话要说。</strong></p>
+<p><strong>游戏行业监管，政府职能不清：</strong></p>
+<p>中央机构编制委员会办公室文件，中央编办发［2009］35号文件［中央编办对文化部、广电总局、新闻出版总署“三定”规定］。《“三定”规定》中明确规定了文化部是网游主管部门，而国家新闻出版广电总局却偷换概念，仍然在混淆着网络游戏出版物和网络游戏出版的概念，对网络游戏强制实施前置审批。网上出版，泛化出版概念，模糊管理界限，导致部门职责交叉。在文化厅的管理群里，经常看到文化部的管理人员的无奈。</p>
+<p>游戏运营、发行公司，需要具有《文化经营许可证》、ICP证才能经营游戏运营收费，这些属于游戏公司业务经营资质，是必备的。但如果把网络游戏在网上运营定义成网络出版物，那就变成了出版社才应该具有业务经营资质。网络游戏是放在服务器上通过网络下载让用户使用，这叫上网运营，就不是出版。《出版管理条例》，对什么是出版物进行了很明确的规定，而网络游戏只要不出光盘就不属于此列。而实际上，国家新闻出版广电总局进行版号审批制是对网游企业的粗暴干涉！</p>
+<p>版号审批制是否存在违法呢？到底谁来监管版号审批制的有关部门呢？是人管？还是法律管？</p>
+<p><strong>版号审批制为一些个人和中介提供敛财机会:</strong></p>
+<p>国家新闻出版广电总局在7月7日首次正面回应“版号审批问题”：版号审批不收取任何费用，不存在任何“加急办理”通道，明确反对代办行为。</p>
+<p>我看着这些官方式的回答，想笑却笑不出来。版号审批不收取费用？把责任推到出版社或者中介，是他们收的钱，不是我广电总局，推得一干二净。你要求必须有互联网出版资质的才能办理，游戏开发公司、游戏运营公司、游戏发行公司怎么可能有这资质（98%以上的没有，创业型公司更不可能有），只有找出版社或者中介进行代办；然后你有明确反对代办行为，说代办属于违法行为，这不是很可笑的矛盾吗？然后有说不存在任何“加急办理”通道，这简直更是滑稽，为什么有不少游戏版号在60个工作日前就下来了？为何我的一个迟迟不批的游戏，我加了2万，就立即下来了？</p>
+<p>许多中小游戏公司创业者可能和我一样，都是怀着一腔热血想闯出一番名堂。可我们的精力却无法集中在公司的运营和产品上，大部分时间都不得不花在应对不断变化的规定上。一个普通的游戏创业公司，要找出版社、出版局、国家新闻出版广电总局来完成一个游戏的版号审核流程。如果没有出版许可证的资质，只能寻求他人代办。一个游戏公司要和出版社打交道，这难道没人觉得奇怪吗？</p>
+<p>版号审批制最为严重的是自由裁量权了，根本没有实际的游戏审查制度，也没有法律法规来制约，游戏设计和研发时无规可依。我说你低俗就低俗，我说你游戏任务不够就不够，我说你意识形态有问题，就有问题，这背后都是利益 ，而且根本没有法律法规限制。现在游戏行业的人都算出了上亿的代办版号市场，这得会产生多少的腐败。从端游时代到手游，不知道腐败了多少亿，给国家造成多少经济损失了。</p>
+<p><strong>版号审批制并未达到监管的目的：</strong></p>
+<p>各种经营资质，行政审批的目的，职能部门经常说的“规范市场、促进行业的良性发展”。同样，国家新闻出版广电总局也打着同样的旗号“为了维护正常的市场秩序和消费者权益，包装游戏作品内容导向和质量，促进我国网络游戏出版产业健康发展”。那这样的版号审批制达到了其目的了吗？显然没有，只有增加了企业的负担。审批很“严”，上线监管却很弱，实际很多公司都是为了应付版号审批，提交版号版本，完全和实际上线运营的版本不同。基本上，尤其大公司的游戏上线后的版本，根本无人监管抽查。当然审核制度完全不适应市场需求，不合理，才会导致出现这样的情况。</p>
+<p><strong>创业理想被现实拒绝：</strong></p>
+<p>普通人的创业，需要背负着全部身家去拼搏，大多数创业者都会先了解行业情况和发展前景，然而如今想在游戏行业创业的人看到的是什么？创业成本的提高、大量的“山寨”产品、随时变化着的规定以及业内人的苦闷与哀嚎。如此的现实，让许多人驻足、踌躇、离开……</p>
+<p>作为游戏行业创业者，我不禁有以下疑问：</p>
+<p>问题一：明确网游游戏网上运营到底是不是网络出版物，是不是需要版号。如果不是，国家新闻出版广电总局进行前置审批是不是违法行为。</p>
+<p>问题二：如果国家新闻出版广电总局是合法的，申请条件是否应该适当放宽，审批流程是否应该减少环节，缩短审批时间。</p>
+<p>问题三：版号审批获得后的游戏并无实际的监管，大量有版号运营的游戏实际违反了版号审批的要求。版号审批制也就是根本没实际解决相应的目的，反而增加了企业负担，并且产生了腐败。</p>
+<p>问题四：是否应该有相应的法律来进行制约版号审批制带来的弊端，不能让相关部门有太大的自由裁量权了。</p>
+<p>问题五:存在多部门职能交叉和多重审核机制，每个部门的要求不同，标准不一。</p>
+<p>对于游戏行业的创业问题，对于行业发展，对于以上这些问题我有如下建议：</p>
+<p><strong>解决方案：</strong></p>
+<p>1、 由于网络游戏属于文化产业，应由文化部进行统一管理，审批、监管网络游戏，不要存在多部门职能交叉和多重审核机制。</p>
+<p>2、 放宽审批条件，加强网络游戏运营监管。文化部的游戏备案政策就已经足够，不需要更多的审批条件。</p>
+<p>3、 制定一套完全“中国特色”的分级制度来约束势在必行。用实名制和未成年防沉迷根本解决不了问题。</p>
+<p>4、 建立合理的游戏审查监管制度。游戏的好坏利害，没有一个合理的定量的统一标准，可以通过游戏企业的自审、文化部进行监管，为全行业确立可以统一执行的尺度。</p>
+<p>鼓励支持国内游戏行业的发展，尤其是独立制作人和创业公司，促进中国自身的文化产业发展。需要的不仅仅是税收政策上的优惠扶持，我们更需要的是良好的开放环境，万众创新才能真正实现。</p>
+<p>房价太高，买不起，我可以租！物价上涨，吃不起，我可以少吃！行政审批，一道无法逾越的鸿沟，我没办法了！做企业十年，为了梦想，付出太多。离婚，欠债，吃不起饭，我都熬过来了。第一次感觉到走投无路，活不下去了！</p>
+<p>正文到此结束，写文章之前，也和公司股东和高管沟通过此事，担心这篇文章会不会被某部门盯上，会不会给公司带来灭顶之灾，但是不管怎样，我还是想说出来，都要逼得人要活不下去了，还有什么不敢说的呢？创业十年，太憋屈了！我做企业的理念就是堂堂正正赚钱，绝不不折手段手段赚钱，做个良心的商人，梦想做百年企业。也许我的梦想在这严苛的市场环境中就是个可笑的梦!</p>
+<p>我虽然不是党员，更不是什么政协委员，就是个草民。但这个不能影响到我对国家的热爱，对国家的发展的期盼，为国家做出自己力所能及的贡献。这一届政府给了我更大信心，工商部门将注册资本实缴登记制改为认缴登记制，同时可以一址多照，并放宽工商登记其他条件。文化部也开放游戏运营公司不在需要1000万注册资本了，就算是游戏备案也是让企业能轻松去做。各地区政府也在实施各种优惠招商政策，支持创业。“大众创业、万众创新”、“清理职业资格许可，与减少行政审批事项相辅相成，须从全局角度考虑”，但是对于网游行业好像却要被版号审批制逼到了绝路。</p>
+<p>我还活着，我要呐喊，恳求总理救救游戏行业的创业者！</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%96%BB%E5%B9%B3-%E8%87%B4%E6%9D%8E%E5%85%8B%E5%BC%BA%E6%80%BB%E7%90%86%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%EF%BC%9A%E6%AD%A3%E8%A2%AB%E6%96%A9%E6%96%AD%E7%9A%84%E5%88%9B%E4%B8%9A%E8%B7%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%89%B2/?category=18271" rel="tag">中国特色</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">中小企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%92%E8%81%94%E7%BD%91/?category=18271" rel="tag">互联网</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%86%E7%BA%A7%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">分级制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E4%B8%9A/?category=18271" rel="tag">创业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%9B%E5%A7%8B%E4%BA%BA/?category=18271" rel="tag">创始人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%87%E6%A1%88/?category=18271" rel="tag">备案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%B1%E4%B8%9A/?category=18271" rel="tag">失业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%9E%E5%90%8D%E5%88%B6/?category=18271" rel="tag">实名制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%89%B9/?category=18271" rel="tag">审批</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">审查制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80/?category=18271" rel="tag">广电总局</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88/?category=18271" rel="tag">新闻出版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8/?category=18271" rel="tag">有关部门</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%A8%A1%E7%B3%8A%E7%AE%A1%E7%90%86/?category=18271" rel="tag">模糊管理</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B8%B8%E6%88%8F%E5%B8%82%E5%9C%BA/?category=18271" rel="tag">游戏市场</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A8%8E%E6%94%B6/?category=18271" rel="tag">税收</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AE%A1%E5%88%B6/?category=18271" rel="tag">管制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%8D%9F%E5%A4%B1/?category=18271" rel="tag">经济损失</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E6%B8%B8/?category=18271" rel="tag">网游</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%87%BA%E7%89%88/?category=18271" rel="tag">网络出版</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E5%AE%A1%E6%89%B9/?category=18271" rel="tag">行政审批</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA/?category=18271" rel="tag">违法行为</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E8%B0%83%E6%9F%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BD%A2%E5%B7%A5%E4%BA%8B%E4%BB%B6%E6%95%B0%E9%87%8F%E7%BB%A7%E7%BB%AD%E4%B8%8A%E5%8D%87/" target="cdt-mirror">德国之声 | 调查：中国罢工事件数量继续上升</a>
 </h2>
 <p><p><strong>总部在香港的非政府组织”中国劳工通讯”（CLB）近日公布的调查显示，2016年上半年，中国的罢工活动有增无减。尤其是交通系统的罢工数量飚升。</strong></p>
@@ -640,31 +707,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%91%A8%E6%B0%B8%E5%BA%B7%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%B7%E4%BA%BA%E6%9B%B9%E6%B0%B8%E6%AD%A3%E8%8E%B7%E5%88%917%E5%B9%B4/" target="cdt-mirror">德国之声｜“周永康背后的男人”曹永正获刑7年</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard05_380.jpg?resize=549%2C309" alt="Clipboard05_380" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard05_380.jpg?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard05_380.jpg?resize=300%2C169 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>被中国媒体称为“国师”、周永康密友的曹永正，因非法转让、倒卖土地使用权、行贿案一审被判处7年有期徒刑。周五（7月8日）湖北宜昌中院做出上述判决。</p>
-<p>负责审理曹永正案件的宜昌中院也审理过周永康案多名涉案人员。周永康之妻贾晓烨、周永康之子周滨等涉案人都是在这里宣判的。</p>
-<p>去年6月，天津市第一中级人民对周永康案进行了一审判决。因受贿罪、滥用职权罪、故意泄露国家秘密罪，周永康被判处终身监禁。</p>
-<p>中国官媒曾在周永康案宣判后发布通报称，周永康违反保守国家秘密法的规定，在其办公室将5份绝密级文件、1份机密级文件交给不应知悉上述文件内容的曹永正。</p>
-<p>中国一些媒体形容，这位周永康的密友被周永康本人称为“国师”。报道称，曹永正精通气功、太极拳、算命、预言和风水，并借此纵横政商名流朋友圈。</p>
-<p>《新京报》的报道称，周、曹两人地位悬殊的友谊不知何时开始的。但有消息认识透露，周永康称曹永正为“很好的朋友”，对曹永正来说，周永康是其最信任的人。</p>
-<p>一审判决的法庭上，这位“国师”表示服从判决，不上诉。</p>
-<p>曹永正早年被中国媒体称为“新疆三大仙”之一。20世纪90年代，曹永正已成为官场界的一个名人。他声称，能治愈无法治愈的绝症。他甚至得到党报《人民日报》记者的认可。一位记者曾在文中写道，单凭一张照片，曹永正就可以看到他的过去、现在和未来。他还成功预测1993年中国成功申奥的结果。</p>
-<p>商业杂志《财新》曾报道，曹永正的“才华”令其有机会接触到中国的上层精英。</p>
-<p>公开资料显示，现年57岁的曹永正生于山东，长于新疆。1982年从新疆大学政治系毕业。凭借“特异功能”担任新疆超越医学研究所副所长。随后还凭借“特异功能”转战商场。</p>
-<p>90年代末，凭借气功和算命，曹永正逐渐与政法、石油系统的高官结下私交，其中包括周永康及在周永康案件中出庭前中共高官，其中包括蒋洁敏、李春城等。</p>
-<p>路透社周五发文称，秉持无神论的中国共产党不会允许任何对无神论的挑战，并强力维护社会稳定。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/m/">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E5%91%A8%E6%B0%B8%E5%BA%B7%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%B7%E4%BA%BA%E6%9B%B9%E6%B0%B8%E6%AD%A3%E8%8E%B7%E5%88%917%E5%B9%B4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8%E5%BA%B7/?category=18271" rel="tag">周永康</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9B%B9%E6%B0%B8%E6%AD%A3/?category=18271" rel="tag">曹永正</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -676,7 +718,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -686,5 +728,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E6%B0%B8
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

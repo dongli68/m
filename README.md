@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,23 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%B9%A0%E7%94%B2%E8%99%AB%E4%B9%A0%E5%A3%B3%E9%83%8E%E4%B9%A0%E6%B0%8F%E7%94%B2%E8%99%AB/" target="cdt-mirror">【真理部】“习甲虫”“习壳郎”“习氏甲虫”“ 习大大甲虫”“习大虫”</a>
+</h2>
+<p><p>请各网在微博、博客、公众账号、论坛、贴吧等互动平台，查删拦截<a href="http://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%88%91%E5%9B%BD%E5%AD%A6%E8%80%85%E4%BB%A5%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%91%BD%E5%90%8D%E4%B8%80%E7%94%B2%E8%99%AB%E6%96%B0%E7%A7%8D/">以下样本</a>，并将“习甲虫”“习壳郎”“习氏甲虫”“ 习大大甲虫”“习大虫” 设置为禁发关键词组合，关键词禁发请简繁体同步落实。</p>
+<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?resize=550%2C848" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?resize=195%2C300 195w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%B9%A0%E7%94%B2%E8%99%AB%E4%B9%A0%E5%A3%B3%E9%83%8E%E4%B9%A0%E6%B0%8F%E7%94%B2%E8%99%AB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88qa/" target="cdt-mirror">德国之声 | 南海仲裁案Q&A</a>
 </h2>
 <p><p>菲律宾提出哪些诉求？法律依据是什么？”九段线”是怎么回事儿？仲裁结果有什么作用？德国之声为您解答有关南海仲裁案的关键问题。</p>
@@ -701,30 +715,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%A0%E5%B9%B3
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BB%B4%E6%9D%83%E7%BD%91%EF%BD%9C%E5%85%B3%E4%BA%8E%E4%BB%BB%E5%85%A8%E7%89%9B%E5%BE%8B%E5%B8%88%E5%9B%A0%E8%A1%8C%E4%BD%BF%E5%BE%8B%E5%B8%88%E6%89%A7%E4%B8%9A%E6%9D%83%E5%88%A9%E8%80%8C%E8%A2%AB/" target="cdt-mirror">维权网｜关于任全牛律师因行使执业权利被刑事拘留的联合声明</a>
-</h2>
-<p><p>2016 年 7 月 8 日晚郑州市公安局官方微博发布一则案情通报称根据当事人赵威（网名“考拉”）的举报和公安的初步调查，任全牛律师在互联网上散布当事人人身受辱的虚假信息，该信息被大量转发报道，造成恶劣社会影响，给当事人赵威名誉造成严重损害，涉嫌犯罪，已于 7 月 8 日被刑事拘留。 7 月 9 日晚，该官微继续发布微博称“任全牛承认 5 月 27 日在新浪微博编织、发布了……虚假信息，并在网上广泛传播。”</p>
-<p>查任全牛律师 2016 年 5 月 27 日新浪微博，发现涉事微博主要内容为“作为赵威家人委托的辩护律师，在会见权利被天津警方非法剥夺的情况下，听闻当事人赵威在看守所内疑遭人身侮辱，前往天津市检察院要求检察院履行法律监督职责，对此予以调查澄清。”（微博截图附后）赵威是去年“ 709 大抓捕事件”中人权律师李和平的助理，被以涉嫌“颠覆国家政权”罪名逮捕羁押在天津市的看守所，与其他“ 709 案”被强迫失踪、逮捕羁押的二十余人一样，赵威也在长达一年的时间里被非法剥夺了与家人委托的辩护律师会见、通信的法定权利。</p>
-<p>观此微博，任全牛律师是在听闻自己当事人的人身权利疑受损害、而要求会见又被天津市公安局非法拒绝的情况下，出于对当事人负责而到法律监督机构要求其履行法律监督职责，不存在任何“编造虚假信息”的行为，郑州市公安局把任全牛律师这种依法履行法律职责的行为当成“寻衅滋事”的犯罪行为立案抓捕，是完全错误的，也是完全非法的。</p>
-<p>维护当事人合法权益，维护法律正确实施，任全牛律师何罪之有？郑州市公安局的抓捕行为是对律师正当执业权的公然践踏，是赤裸裸的打击报复！如果律师通过网络公开发表的合理怀疑和求证信息，都可以肆意被指控为故意传播虚假信息，那么律师还能说话么？如果律师不能说话，那么律师这个职业还有存在的必要吗？宪法和刑事诉讼法规定的律师辩护制度还有存在必要吗？<br>
-在此，我们声明：</p>
-<p>一、强烈谴责郑州市公安局非法抓捕任全牛律师的行为；</p>
-<p>二、要求郑州市公安局立即无条件释放任全牛律师；</p>
-<p>三、我们将为任全牛律师提供一切必要的法律援助，坚决捍卫律师执业权利和公民的言论自由。</p>
-<p>声明人：任全牛律师后援团</p>
-<p>1 常伯阳 河南律师 2 蔺其磊 北京律师 3 刘士辉 广东律师 4 唐吉田 北京律师 5 余文生 北京律师 6 王秋实 黑龙江律师 7 梁小军 北京律师 8 王清鹏 河北律师 9 陈建刚 北京律师 10 刘书庆 山东律师 11 舒向新 山东律师 12 吕方芝 湖南律师 13 覃臣寿 广西律师 14 陈进学 广东律师 15 张磊 北京律师 16 文东海 湖南律师 17 李威达 河北律师 18 钟锦化 上海律师 19 吴魁明 广东律师 20 瞿远 重庆律师 21 蔡瑛 湖南律师 22 李方平 北京律师 23 童朝平 北京律师 24 陈以轩 湖南律师 25 于全 重庆律师 26 李永恒 山东律师 27 马连顺 河南律师 28 张重实 湖南律师 30 卢廷阁 河北律师 31 陈金华 湖南律师 33 罗茜 湖南法律人 34 李金星 山东律师 36 曾义 云南 律师 37 孟猛 河南律师 38 徐红卫 山东律师 39 纪中久 浙江律师 40 刘正清 广东律师 41 葛文秀 广东律师 42 覃永沛 广西律师 43 王振江 山东律师 44 温海波 北京律师 45 滕彪 北京律师 46 刘巍 北京律师 47 蒋援民 广东律师 48 王全平 广东律师 49 许桂娟 山东律师 50 郑恩宠 上海律师 51 江天勇 北京律师 ……<br>
-签名联系人： 常伯阳 18837183338 孟猛 13526862630 </p>
-<p>邮箱 changboyang148@gmail.com 2016 年 7 月 9 日</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://www.evernote.com/pub/cdtchinese/cdt#st=p&n=929d9b6d-42c7-4573-a841-83334e63af45">这里</a>，穿墙阅读数字时代。</p>
-<hr><p><small>© 先存后转 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BB%B4%E6%9D%83%E7%BD%91%EF%BD%9C%E5%85%B3%E4%BA%8E%E4%BB%BB%E5%85%A8%E7%89%9B%E5%BE%8B%E5%B8%88%E5%9B%A0%E8%A1%8C%E4%BD%BF%E5%BE%8B%E5%B8%88%E6%89%A7%E4%B8%9A%E6%9D%83%E5%88%A9%E8%80%8C%E8%A2%AB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%85%A8%E7%89%9B/?category=18271" rel="tag">任全牛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -736,7 +726,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%85%A8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -746,5 +736,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%85%A8
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,37 @@
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E8%B5%B5%E5%A8%81%E9%A6%96%E6%AC%A1%E7%94%B5%E8%AF%9D%E5%8F%97%E8%AE%BF%E9%A9%AC%E4%BA%91%E7%9A%84%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B/" target="cdt-mirror">博谈网｜赵威首次电话受访马云的《南华早报》</a>
+</h2>
+<p><p>（博谈网记者苏智敏报道）维权律师李和平的助理赵威在7月7日被取保候审之后，只透过微博发讯息，而她的丈夫游明磊，及游明磊为她聘请的辩护律师任全牛一直无法与她见面，连电话都无法联系上。先前为赵威奔走看守所，甚至给美国总统奥巴马写公开信的赵母郑瑞霞，也消失无踪，游明磊和任全牛律师都无法与赵母联系。</p>
+<p>然而，《南华早报》竟成功与赵威联络上，这家设在香港的媒体，在去年12月11日被跟北京高层关系密切的马云收购。</p>
+<p>承认内容为本人所发</p>
+<p>《南华早报》12日的报导显示，7月10日赵威在电话中向该报表示，微博上有关她对过去所为感到后悔的声明，确实是她本人亲自发出的。</p>
+<p>查看赵威的微博“考拉就是考拉”，在被捕前，发出许多跟维权有关的讯息，其中有不少转发的内容已被删除。去年7月在中共对维权律师及相关人士进行大抓捕中，赵威被警方带走后，将近一年的时间都音讯全无。</p>
+<p>今年7月取保候审后，赵威的微博内容有了180度大转变，她在微博感谢警察、指责李和平律师和境外势力勾结，拿钱炒作敏感案件，又称她是单纯受骗被利用，对此她“真心悔悟”，日后只想平静生活。并在微博上否认狱中遭性侵的传闻，痛批任全牛律师侮辱她清白。</p>
+<p>上述的微博内容，不断引来民众质疑：这真是赵威本人所发的吗？或另有他人？还是赵威被逼迫发的呢？</p>
+<p>对此，赵威在电话中对《南华早报》承认这些声明出自她的手笔：“我终于明白我之前走上了一条错误的道路，对此我感到愧疚，我现在是一个重生的人了。”</p>
+<p>赵威表示，她想跟媒体说这些，是因为她“明白做了错事”，而她“真诚地希望忏悔”。她又说，她现在已返回河南老家，与父母住在一起。</p>
+<p>有关日后的打算，赵威说她需要先休息一阵子，再决定下一步，目前难以决定是否继续她先前的维权工作。</p>
+<p>《南华早报》指出，该报未能证实赵威目前的所在地，及她是否在监视下进行这次电话采访。同时赵威拒绝《南华早报》要求单对单的访问。</p>
+<p>《南华早报》在报导中还引述赵威丈夫游明磊的话，他仍怀疑妻子是被逼迫发表这些声明的。</p>
+<p>游明磊11日对《南华早报》表示，他还不能与妻子取得联络，怀疑赵威是被逼之下发表这些内容：“我不认为她真正获得自由，我在这一两天就去河南（从北京）找个明白。我不认为这些帖文是她上载到微博的。”</p>
+<p>不过在《南华早报》的报导中，并没有提及是否有请赵威解释，在她微博中的矛盾点：即郑州公安说，是根据赵威的举报才抓任全牛律师，但赵威却说是看到郑州公安微博，才知道任全牛律师造谣诋毁她。</p>
+<p>有特权的“红色港媒”</p>
+<p>和香港铜锣湾书店五人失踪事件相似的是，当外界都无法联系上他们时，一些亲中媒体总能得到采访资格。例如李波还被关押在中国时，首次露面即是香港的凤凰卫视对他进行电视专访，港媒《星岛日报》和上海澎湃新闻也对他进行采访。李波返回香港后，接受的唯一一家电视媒体采访，也是凤凰卫视。《南华早报》对赵威的采访，只有英文版。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请点击<a href="https://link.getsync.com/#f=CDTD-ChinaDigitalTimesDaily&sz=64E6&t=2&s=23CO2BME4HIWOMDT6RDKZ3LZZ4WBKS6IAGIQNXW2ICSRK576TILA&i=CPFG6S6GPCWYK6BFRIZISD4M73AXZIVQ4&v=2.0">这里</a>，使用SYNC分享软件穿墙阅读数字时代。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E8%B5%B5%E5%A8%81%E9%A6%96%E6%AC%A1%E7%94%B5%E8%AF%9D%E5%8F%97%E8%AE%BF%E9%A9%AC%E4%BA%91%E7%9A%84%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">赵威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%94%B6%E8%B4%AD%E9%A6%99%E6%B8%AF%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5/?category=18271" rel="tag">阿里巴巴收购香港南华早报</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%97%E6%B5%B7%E4%BA%89%E8%AE%AE%EF%BC%8C%E5%8C%97%E4%BA%AC%E8%AF%B4%E8%AF%8D%E7%9A%84%E8%AF%AF%E5%8C%BA%EF%BC%88%E4%B8%8A%EF%BC%89%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%BD%95%E6%9B%BE%E6%8B%A5%E6%9C%89/" target="cdt-mirror">端传媒｜南海争议，北京说词的误区（上）：中国何曾拥有南海？</a>
 </h2>
 <p><div><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/397f81f6510042db8b968cf4fff0e327.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/397f81f6510042db8b968cf4fff0e327.jpg?resize=585%2C390" alt="中国人民解放军在南沙群岛上巡逻。摄 : REUTERS" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/397f81f6510042db8b968cf4fff0e327.jpg?w=1080 1080w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/397f81f6510042db8b968cf4fff0e327.jpg?resize=300%2C200 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/397f81f6510042db8b968cf4fff0e327.jpg?resize=768%2C512 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/397f81f6510042db8b968cf4fff0e327.jpg?resize=1024%2C683 1024w" sizes="(max-width: 585px) 100vw, 585px" data-recalc-dims="1"></a><p><span>中国人民解放军在南沙群岛上巡逻。摄 : REUTERS</span></p></div>
@@ -692,26 +720,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%85%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E5%8E%86%E4%BB%A3%E5%AE%98%E5%BA%9C%E4%B8%BA%E4%BD%95%E8%A6%81%E6%89%93%E5%8E%8B%E8%AE%BC%E5%B8%88%EF%BC%9F/" target="cdt-mirror">唐映红 | 心理学问答：历代官府为何要打压讼师？</a>
-</h2>
-<p><p><strong>问：历代官府为何要打压讼师？</strong></p>
-<p>答：<strong>现代社会的律师，在传统王朝社会里被称为“讼师”。</strong>讼师者，即替那些打官司的人出主意，写状纸为业的人。传统社会里，由于民众受教育的比例相当低，大多数民众连书信也不能自己书写，“代客书信”一直都是落魄书生的一门糊口手艺，因此，一旦面临讼事，就需要有人能帮助自己书写状纸，点拨应对。因此，<strong>讼师在历朝历代都成为民间社会不可或缺的“诉讼代理人”。</strong></p>
-<p>但是，<strong>在民间社会受到欢迎的“讼师”，在历代官府眼里，却名声不佳。</strong>历代官府多认为讼师“摆弄是非”，又“势利贪财”，利用他们手中的笔，轻则造谣生事，重则祸乱纲纪，因此贬之谓“刀笔吏”。不仅如此，<strong>历代官府从立法上就打压讼师，限制讼师的活动。</strong></p>
-<p>例如，在唐朝，《唐律疏议·斗讼》规定，讼师挑唆亲属相告（如子告父、父告子），或奴婢告主人，则按所告之罪减一等处罚。即使讼师为亲属之间的讼事提供帮助，也视为挑唆亲属相告。另外，其中还有两条罪名是专门针对讼师的，一为“<strong>为人作辞牒加状</strong>”，即帮人写状纸，夸大其词，“加增其状”，处罚是笞五十。另一为“<strong>教令人告事虚</strong>”，即挑唆当事人无中生有，诬告他人，犯了此罪，实行反坐原则，减一等处罚。如诬告他人一个应杖九十，那对讼师的处罚就是杖八十。</p>
-<p>再例如，在明朝，《大明律集解附例·诉讼》规定，凡是教所诬告他人，以及在为人写状词时夸大或掩盖罪行，诬告他人的，<strong>与犯人同罪</strong>，也即是“诬告反坐”。清朝时，则干脆规定，<strong>讼师若是受雇诬告他人的，视同讼师本人诬告</strong>；拿了雇主钱财的，计算财务总额，按枉法罪<strong>从重处罚</strong>。</p>
-<p>传统社会的权力集团之所以会打压讼师，其原因就在于<strong>讼师的活动挑战和威胁了权力集团的权威。</strong>由于传统社会的所谓“王法”相比于现代法律而言，往往规定模糊，语焉不详，<strong>因此对官府来说，如何适用法律，以及如何诠释法律，完全可以凭己之所好，这是一种权力。</strong>但是，讼师的活动，首先就挑战了官府对法律的适用解释权；同时，讼师对法律的不同的适用和诠释理解，又威胁了官府的权威，使民众可以轻易看到官府“错了”。因此，权力集团就需要以严峻的法条来严格限制讼师的活动。</p>
-<p>用现代的法律常识来理解，讼师之所以代人写状纸，帮人出主意，原本就是因为许多时候讼事双方各据一词，真伪并不那么清晰易辨。但<strong>权力集团动辄以“诬告反坐”的紧箍咒，就使得讼师所代理或帮助的讼事一旦败诉，就面临“反坐”之刑，因此，讼师在帮助或代理讼事活动中，只有以官府的意见为指导，不敢须臾逾越。</strong></p>
-<p>从权力心理学的角度来看。从事讼师活动的人，主要集中在三类：仕途不畅的读书人；官府衙役和他们的子弟；依仗家势能影响官吏的豪民。这些人相比于百姓，无论是因为掌握了更多知识，还是拥有官府的关系，或者家势凌人，都相当于<strong>拥有了普通百姓所没有的“权力”，这是他们能够有底气和资源与权力集团所任命的基层官吏进行博弈。</strong>对掌握了由朝廷所赋予权力的基层官吏来说，<strong>他们手里的权力有多大，不仅取决于朝廷的赋予，更取决于百姓有多依赖和敬畏他们手里的权力。</strong>即使朝廷赋予其生杀予夺的“权力”，但所辖百姓根本不以为然，那他拥有的权力也就形同虚设。<strong>讼师因为相比于普通百姓掌握了一部分权力，事实上也就削弱和制约了基层官吏权力的行使。</strong>特别是，讼师代理活动所依仗的仍然是朝廷的同一部“王法”，但<strong>只要讼师对“王法”的援引和诠释与基层官吏不同，其性质也就从根本上质疑和动摇了基层官吏的在百姓心目中的公信力和能力。</strong></p>
-<p>特别地，<strong>讼师的活动不仅挑战和威胁了基层官吏的权威，而且也会在无形中削弱朝廷的威严。</strong>代理讼事不仅仰仗朝廷的“王法”，民间社会也同样有着朴素的基本道义立场。<strong>在一个缺乏神权权威的社会里，朝廷的权威本来就十分脆弱</strong>，“替天行道”一直以来就是中国王朝政治的双刃剑，<strong>一个王朝的建立来源于叛乱；而建立的王朝又严加防范辖下百姓、官吏的叛乱。</strong>正是因为朝廷的权威缺乏神权的加持，因此讼师的活动对基层官吏的挑战同时也或多或少是在挑战朝廷本身的权威。所以，历朝历代朝廷和官吏阶层都有着限制和禁锢讼师的共识。但是，<strong>又由于朝廷也好，官府也好有必要维持亲民的形象，给民众遭遇不公提供必要的投诉渠道，以避免可能的揭竿而起，因此历朝历代都没有完全禁绝讼师</strong>，即使是对讼师最为苛刻的元朝，也只是规定几种罪行不得由讼师代理，只能当事人自行上堂争讼，例如，谋反（相当于现时代之<strong>煽动颠覆罪</strong>）、大逆不道（大体上可以比附现时代之<strong>寻衅滋事罪</strong>）、子孙不孝，等等。</p>
-<p>由此，在权力心理学的框架内，历朝历代官府打压讼师不过是因为传统社会权力结构的特异性而导致的必然结果。不仅是传统社会，<strong>只要是一个社会的权力结构不是建立在民众授予权力者以权力，而是依靠权力集团巧取豪夺后勉力维持，那么，打压律师也就是势在必然。</strong>在现代社会里，<strong>律师事实上是距离政治最近的一个群体</strong>，像在美国，律师出身的总统占据了历届总统中的大多数；而中国的台湾地区，曾经在威权时代代理被打压异议集团的律师（阿扁）最终也获任民主化后的“总统”职位。这也同时意味着，<strong>越是极权的社会，律师的受到打压的概率和程度也越高。</strong>从某种意义上说，<strong>律师是最可能戳破政治谎言的一个群体。</strong></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%94%90%E6%98%A0%E7%BA%A2-%E5%BF%83%E7%90%86%E5%AD%A6%E9%97%AE%E7%AD%94%EF%BC%9A%E5%8E%86%E4%BB%A3%E5%AE%98%E5%BA%9C%E4%B8%BA%E4%BD%95%E8%A6%81%E6%89%93%E5%8E%8B%E8%AE%BC%E5%B8%88%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F/?category=18271" rel="tag">传统</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%9A%E5%BC%88/?category=18271" rel="tag">博弈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%94%90%E6%98%A0%E7%BA%A2/?category=18271" rel="tag">唐映红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E6%9D%83/?category=18271" rel="tag">威权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E8%83%81/?category=18271" rel="tag">威胁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B/?category=18271" rel="tag">寻衅滋事</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B%E7%BD%AA/?category=18271" rel="tag">寻衅滋事罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%89%93%E5%8E%8B/?category=18271" rel="tag">打压</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB/?category=18271" rel="tag">政治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E7%BB%93%E6%9E%84/?category=18271" rel="tag">权力结构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%83%E5%8A%9B%E9%9B%86%E5%9B%A2/?category=18271" rel="tag">权力集团</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9E%81%E6%9D%83/?category=18271" rel="tag">极权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E4%B8%BB%E5%8C%96/?category=18271" rel="tag">民主化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86/?category=18271" rel="tag">煽动颠覆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E7%BD%AA/?category=18271" rel="tag">煽动颠覆罪</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -723,7 +731,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -733,5 +741,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%A0%E7%BB%9F
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

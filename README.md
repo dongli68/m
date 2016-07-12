@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,64 @@
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%E4%BA%86%E5%90%97%EF%BC%9F/" target="cdt-mirror">【网络民议】你热泪盈眶了吗？</a>
+</h2>
+<p><p>近日，微博盛传一段来自安徽卫视真人秀《超级演说家》的演讲视频，一位毕业于哈佛大学肯尼迪学院的中国女孩在演讲中谈及了“安全感”这一概念，她认为相比于那些深陷战乱或恐怖主义阴霾的国家来说，中国这一国家为它的国民提供了一份不基于任何条件的安全感，使得我们的个体被尊重，活得有尊严，国际上有话语权，并加以引申“少年强中国强”。这段视频被不少微博公号转载，被称作“充满正能量”、“相信你看完会哭”……. 而在新浪微博上，对于此视频的网友评价趋于两极。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74df37d3jw1f5pzrhoos9j20go0a1mxo.jpg?resize=440%2C265" alt="74df37d3jw1f5pzrhoos9j20go0a1mxo" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74df37d3jw1f5pzrhoos9j20go0a1mxo.jpg?w=440 440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74df37d3jw1f5pzrhoos9j20go0a1mxo.jpg?resize=300%2C181 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74df37d3jw1f5pzrhoos9j20go0a1mxo.jpg?resize=80%2C48 80w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>@幸福苏州：【哈佛毕业中国女生：在课堂上永远有话语权，这是祖国给予的】讲出了中国年轻人的心声：中国给予国民的安全感，是一份不基于任何条件，不需要努力，而我们往往身在福中而不知福的安全感。 相信你看完，一定热泪盈眶！（转）</p>
+<p><a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%E4%BA%86%E5%90%97%EF%BC%9F/"><em>点击这里查看嵌入的视频。</em></a></p>
+<p>微博<a href="http://weibo.com/p/2304447055d55e43f1d097cd6ae913216e2c40">视频地址</a></p>
+<p>@义勇军聂海军同志：#网络义勇军后援团发布# 安全感所带来的自由选择的权利，是一个国家赋予年轻人最好的礼物。因为这意味着，你不必非得在别人的国土上成为一个优秀的个体才能够被尊重。你就踏实地做一个哪怕普普通通的中国人，也会被善待。因为你背后是一个稳定的国家，而世界对你的国家，充满敬畏！</p>
+<blockquote><p>许吉如，1992年9月出生，中共党员，清华大学法学院本科毕业，哈佛大学肯尼迪学院研究生毕业。南京申办2014年青奥会形象大使，2010年2月随中国代表团赴温哥华申奥。 奥冠体育俱乐部形象大使。曾获全国优秀团员、江苏省十佳青年学生、“希望之星”英语风采大赛高中组冠军、全国英语演讲比赛冠军、2008年北京大学模拟联合国最高奖最佳代表奖和单项奖最佳口语奖等。</p>
+<p>《我是演说家》是北京卫视联合能量传播模仿安徽卫视大型语言类真人秀《超级演说家》进而出品的大型原创新锐语言竞技真人秀节目。 —— 摘自网络</p></blockquote>
+<p><strong>以下内容为数字时代编辑摘自部分网友评论：</strong></p>
+<p>@新新新王 ： 没有经历过战争的有些人，身处和平而不自知。如果这个国家就如某些人所说的一无是处，那有是谁给你一个安全的环境让你在这里大放厥词，是啊，话你倒是说出来了，你也不用想想这个国家给了你什么。</p>
+<p>@love丁香结 ：说得不错！不要一味觉得国外的月亮圆。不要被娱乐明星迷惑了双眼！真正保你安稳，管你温饱，让你有安全感的，是你的国家！只有自己的国家稳定了，你才能安心的回家，不论你去了多远的远方，也不必担心家不在！</p>
+<p>@南开-张小虎：牺牲的两位中国维和士兵能听到这个姑娘的话也能含笑九泉了。</p>
+<p>@封归尹：为什么总有人觉得国家差，中国在不断进步，这个才找到方向一身是伤的社会才真正发展不到50年，每个国家都有法律之外的阴暗面，别看了电影电视和朋友圈就以为国外的发达国家就有多好，中国比上不足比下有余。我们应该爱自己的国家，这不影响批判他的错误。如果你觉得这个国家烂透了，……我觉得你也一样。</p>
+<p>@我爱郭德纲1314: 看这个视频的时候我一直在哭，尤其是后半段，不知道为什么眼泪擦不干净了。</p>
+<p>@天地人间水灵灵：沒有一个強大的国家做后盾，任何一个在别国的游子永远不会有尊严的。</p>
+<p>@好的好的好的我知道了：说得真好，就是这样的。人无完人，何况这么大一个国家。我们能吃得好，穿的好，最主要的是活的很安稳都是因为我们的国家。而中国的不足是需要时间来改进的，是需要每一个中国人来共同努力的。希望所有的同胞们都能踏踏实实的做好自己的工作，而不是每天就知道在网上喷政府喷警察。</p>
+<p>@王小圈圈圈Boom：我们要感激我们的祖国，她给了我们和平的环境，幸福的生活。</p>
+<p>@浅蓝阡陌_77：说得真好！皮之不存，毛将焉附？有国才有家，有家才有你我。</p>
+<p>@破晓_–：我们可能没有欧美那样优渥的生活条件和福利待遇，甚至没有国外那样所谓的“民主”和“自由”，但我们生活生存的这片土地却能给予我们别国求而不得的安宁和稳定，至少在老百姓所见没有内战，没有枪击，没有流离失所，无论贫富贵贱皆如此。经历过战争洗礼的国家，和平安宁显的更弥足珍贵…</p>
+<p>@披着狼皮的茫然：外婆说：现在和平是不容易的，有些孩子抱怨这个国家不好，那是他们身在福中不知福，我经历过战争，我们兄弟姐妹小时候整天都要担心不知道逃哪里去，饭也吃不饱，到处都是战争。【原话不太记得，但是是这个意思】</p>
+<p>@younggge：在南海仲裁的时候看这篇演讲 才发现国家安全感有多重要</p>
+<p>@呼呼若水：看完了所有评论，我真被某些脑残折服，国是我们的国，不爱，有本事滚啊，吃着中国的粮食，踏着中国的土地，就别瞎说。</p>
+<p>——————————————————————</p>
+<p>@闲淡吵人：这个国最多的就是爱国贼！</p>
+<p>@杨阳Am：别忘了你国在叙利亚问题上投的反对票。</p>
+<p>@小马同学笨笨了：……弱爆了，能在老师面前有点话语权仅仅因为是个中国人，你的知识呢？你的专业性呢？没想到哈佛也有这种人……</p>
+<p>@起风疯疯了：哈佛根据国家GDP给分吗？</p>
+<p>@阑夕: 小粉红想象中的哈佛教授授课场景：刚才这个问题谁能回答？好的，这位同学，先说说你是哪个国家的？啊，真是抱歉，你的国家GDP太低，不许发言！请坐下。我们换那位中国同学回答问题。</p>
+<p>@电竞狄德罗：一位非洲裔学生正起身回答教授的问题，小粉红厉声喝道：“落后地区的学生没有话语权！”</p>
+<p>@PVBLIVS：这位是哈尔滨佛学院毕业的吧！</p>
+<p>@Nothing–King：领导幸福感最高的国度。</p>
+<p>@Voogu：总结了下两点：1，我国没战争2，留学生在国外课堂上都有发言权了（拜中国强大所赐哦）。</p>
+<p>@狠人日记：强国婊。</p>
+<p>@謃空丶匿迹：去特么的安全感。说好的土地属于人民呢？说好的老有所养呢？家里没钱有几个能读到博士的？物欲横流的社会，就不要出来唱高调了，骗骗学生还行，特么真正工作个几年的白领蓝领务工人员，问问他们有没有安全感？</p>
+<p>@明睿全荃：安全很重要，我现在从足疗店旁边过，都要小跑了……</p>
+<p>@吴主任：哎哟我去。前半段尴尬，中断逻辑混乱，后段裸跪抒发爱国情。太可怕了，这位哈佛高材生稳稳进央视。</p>
+<p>@这周研磨出场了吗：哈佛大学跟哈佛大学肯尼迪学院根本两个东西[嘘]走国小粉红一看见哈佛两个字就集体高潮仿佛自己的同类中有人出人头地得到歪果仁认可啦！</p>
+<p>@c疤脸：这位【哈佛大学的“高才生”】应该去国家信访局门口听听访民的故事，去找几个死磕律师的微博看看他们办的案子，懒得跑的话，读读新闻也可以，比如【长沙房屋强拆活埋事件】，重新认识一下你国，访民们未必比叙利亚难民活得好。</p>
+<p>@闲菜：这么强烈的安全感是因为刚回国失忆了吗？</p>
+<p>@junjunyo：聪明装傻最可怕。</p>
+<p>@结婚三次的康德：毫不掩饰的跪舔，感动。</p>
+<p>@泼布剌萨：祖国修了三峡大坝，我走在纽约第五大道上人人都对我翘起了大拇指，这一刻胸前的红领巾更鲜艳了。</p>
+<p>@大咕咕咕鸡_25：看的我热泪盈眶，真的是个人才，不来街道工作可惜了。</p>
+<p>@再次改昵称：热泪盈眶中，我的跪姿更标准了！</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%E4%BA%86%E5%90%97%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">国家主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E6%B5%8B%E8%AF%95%E4%B8%93%E5%8C%BA/" target="cdt-mirror">【立此存照】机器五毛新浪微博测试专区</a>
 </h2>
 <p><blockquote><p><a href="http://weibo.com/u/5580548526" target="_blank">@头条热视频</a>：在网络时代，你做过的坏事或多或少总会留下点痕迹，是抹不干净的，机器五毛总指挥<a href="http://weibo.com/n/%E6%97%A5%E8%BE%B00218?from=feed&loc=at" target="_blank">@日辰0218</a> 已删贴并改名为<a href="http://weibo.com/n/%E8%AF%B6%E8%AF%B6%E8%AF%B62333?from=feed&loc=at" target="_blank">@诶诶诶2333</a> ，并且<a href="http://weibo.com/n/baidu%E5%86%B7%E5%85%B5%E5%99%A8%E5%90%A7?from=feed&loc=at" target="_blank">@baidu冷兵器吧</a> 的贴子也被屏蔽。想焚尸灭迹？没那么容易，我早就料到这家伙会来这一出，特地锁定了他的永久账号，在这呢 <a title="诶诶诶2333" href="http://weibo.com/u/5828993116" target="_blank">诶诶诶2333</a> 小样你往哪跑<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p></blockquote>
@@ -597,30 +652,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/cdtv/?category=182
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%89%8D%E7%A9%BA%E5%86%9B%E6%94%BF%E5%A7%94%E8%A2%AB%E6%8D%95%E8%AF%81%E5%AE%9E%E3%80%8A%E9%83%AD%E4%BC%AF%E9%9B%84%E4%BC%A0%E3%80%8B%E5%8D%96%E5%AE%98%E9%AC%BB%E7%88%B5/" target="cdt-mirror">法广｜前空军政委被捕证实《郭伯雄传》卖官鬻爵指控</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/02/12ca2pt.jpg?resize=549%2C366" alt="徐才厚郭伯雄" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/02/12ca2pt.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2015/02/12ca2pt.jpg?resize=300%2C200 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>解放军兰州军区政治部前文艺创作员陈希今年早前出书《郭伯雄传》，内容指控郭伯雄这位曾经权倾一时的中央军委副主席卖官鬻爵，前空军政委田修思最近遭到中纪委双规，证实了该书的指控。不过现职全国人大外事委员副主任委员的田修思，其名字和职衔仍然名列全国人大网上。</p>
-<p>中共当局4月表示，郭伯雄将面对接受大笔贿赂的控罪。</p>
-<p>香港南华早报引述两个消息来源报导，与郭伯雄和另一个前中央军委副主席徐才厚关系密切的田修思，已被双规。现年66岁的田修思曾经担任解放军空军政委，也是中共第十八届中央委员，目前正接受贪腐调查。</p>
-<p>报道指，田修思一案将由中央军委内部进行调查。其中一个消息来源说：“他（田修思）的妻子和私人秘书已被带走，田是被查的目标。”</p>
-<p>有分析认为，出任政委一职，田修思基本上已操控全世界发展至为急速的空军军力，但目前未悉他被调查的原因。</p>
-<p>然而，作者陈希在《郭伯雄》一书中披露，田修思在2012年给了业已落马的郭伯雄5000万元人民币，换取了空军政委这个职位。</p>
-<p>徐才厚同时也被指控卖官鬻爵，但他在接受审讯之前因癌病不治逝世。有消息指，田修思为了升官，也给了徐才厚一笔贿款。</p>
-<p>消息来源告诉南华早报：“从新疆军区政委辗转做到成都军区政委，再高升至解放军空军政委，田修思的仕途起落，一直都有徐才厚的影子。”徐才厚的罪名包括接受1230万美元的贿赂。</p>
-<p>前军事科学院军建部副部长杨春长今年3月表示，徐才厚和郭伯雄的贪腐案，反映了两人掌握了太大的权力。杨在大陆凤凰卫视一个节目中说：“他们的权力实在太大了，假使有人愿意给2000万元人民币做一个军区司令，之前愿意出1000万的那个人，就当然没希望了。”</p>
-<p>田修思去年7月离开空军之后，被调升全国人大外事委员副主任委员，最后一次露面在今年7月1日中共95周年的党庆。</p>
-<p>新京报早前曾经引述田修思说，劣质次等的产品，毒害了很多百姓，但如今的惩罚仍算过于宽大，贪腐的干部如果做了伤害老百姓安全和财产的事，他们应该被剥夺至一贫如洗。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E5%89%8D%E7%A9%BA%E5%86%9B%E6%94%BF%E5%A7%94%E8%A2%AB%E6%8D%95%E8%AF%81%E5%AE%9E%E3%80%8A%E9%83%AD%E4%BC%AF%E9%9B%84%E4%BC%A0%E3%80%8B%E5%8D%96%E5%AE%98%E9%AC%BB%E7%88%B5/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E8%85%90%E8%B4%A5/?category=18271" rel="tag">军队腐败</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E4%BC%AF%E9%9B%84/?category=18271" rel="tag">郭伯雄</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -632,7 +663,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -642,5 +673,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/></td>    </tr>
 </table>

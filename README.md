@@ -21,9 +21,46 @@
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88qa/" target="cdt-mirror">德国之声 | 南海仲裁案Q&A</a>
+</h2>
+<p><p>菲律宾提出哪些诉求？法律依据是什么？”九段线”是怎么回事儿？仲裁结果有什么作用？德国之声为您解答有关南海仲裁案的关键问题。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018774460_30300.jpg?resize=550%2C310" alt="南海" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018774460_30300.jpg?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018774460_30300.jpg?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><strong>菲律宾提出哪些诉求？</strong></p>
+<p>2013年1月22日，菲律宾向海牙国际常设仲裁法庭提交诉讼。简单来说，菲律宾希望澄清以下三个方面的事实：</p>
+<p>1. 中华人民共和国对南中国海，尤其是对所谓”九段线”的领土主张具有什么样的法律地位？<br>
+2. 该海域各种地貌特征是属于岛屿、岩礁，还是仅属所谓的低潮高地，意即落潮时才会露出水面的地段？因为依照国际法规定，与岛屿相关联的领土主张和其它地貌特征如岩礁的是完全不一样的。<br>
+3. 仲裁法庭应该裁定，菲律宾可以在其专属经济区内开展工作，中国不得予以任何干涉。<br>
+菲律宾认为，菲律宾特意放弃要求法庭澄清受争议海域内岛屿、岛礁、岩礁的主权归属问题，而是仅要求法庭对《联合国海洋法公约》做出解释。</p>
+<p>该案件的标的是分布在南中国海42万多平方公里海域、受不同沿海国家控制的南沙群岛（国际上称斯普拉特利群岛）。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018624502_400.png?resize=600%2C600" alt="南沙群岛（国际上称斯普拉特利群岛）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018624502_400.png?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018624502_400.png?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018624502_400.png?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018624502_400.png?resize=70%2C70 70w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>南沙群岛（国际上称斯普拉特利群岛）</p></div>
+<p><strong>法律依据是什么？</strong></p>
+<p>菲律宾以《联合国海洋法公约》为依据。该公约经过多年酝酿谈判，于1994年开始生效。菲律宾和中国以及其它165个国家均签署了该公约。</p>
+<p>该公约的所有缔约国均承诺以和平方式解决争端。解决机制之一就是提交法庭，而且是即便当事一方拒绝提交法庭时，另一方也可以单方面诉讼，不过此时是向仲裁法庭起诉。现在菲律宾对中国的案件即属此类。</p>
+<p><strong>该案属于仲裁法庭的司法管辖范围吗？</strong></p>
+<p>2013年2月19日，中国驳回了菲律宾的诉讼计划，并对仲裁法庭的司法管辖权提出质疑。</p>
+<p>中国认为，菲律宾的诉讼请求最终涉及的是主权问题，或者说是海洋划界问题。换句话说，该案涉及的并非是对海洋法公约的解释问题，而是领土问题，但这就超出了仲裁法庭的管辖范围。</p>
+<p>尽管中国提出了异议，国际仲裁法庭还是于2015年10月29日宣布启动仲裁程序，但仅受理菲律宾所提的部分诉求，因为该庭仅负责审理有关《联合国海洋法公约》的解释或适用问题。</p>
+<p>中国迄今坚持自己的观点，不承认仲裁法庭的管辖权，不以任何方式参与。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/017667870_40100.png?resize=600%2C338" alt="《联合国海洋法公约》也对沿海国家在其沿岸水域的权利和义务做出了规定" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/017667870_40100.png?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/017667870_40100.png?resize=300%2C169 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>《联合国海洋法公约》也对沿海国家在其沿岸水域的权利和义务做出了规定</p></div>
+<p><strong>“九段线”是怎么回事儿？</strong></p>
+<p>“九段线”（有时也被称为”10段线”或”11段线”）是由中华民国（台湾）1947年首次正式公布的海洋划界，旨在强调中华民国对南中国海的领土主张。</p>
+<p>中华人民共和国采纳了”九段线”划法。中国目前正式主张的领土主权亦以该线为界。</p>
+<p>这条线有些问题，因为它至少在两个方面模糊不清：一是该线从未精确定义过，意即从未以经纬度坐标定义其位置；二是中国从未声明是对”九段线”以内的岛屿、岛礁、岩礁伸张主权、进而再依据《联合国海洋法公约》对相关水域伸张领海主权呢，还是对”九段线”以内的整个水域伸张领土主权。</p>
+<p>国际上的专家基本上一致认为，从国际法角度而言，”九段线”是不成立的。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/015888528_40100.gif?resize=600%2C338" alt='南中国海的"九段线"' data-recalc-dims="1"><p>南中国海的”九段线”</p></div>
+<p><strong>仲裁结果有什么作用？</strong></p>
+<p>根据《联合国海洋法公约》规定，仲裁法庭的裁决对争议双方都具约束力。依该公约附件七规定，裁决是最终的，不可抗辩的。纯从理论上来说，两国均须承认并遵守裁决。但实际上，海牙国际仲裁法庭并不具备执行裁决的可能性。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88qa/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD%E6%B5%B7%E6%B4%8B%E6%B3%95%E5%85%AC%E7%BA%A6/?category=18271" rel="tag">联合国海洋法公约</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8F%B2%E5%BE%8B%E5%AE%BE/?category=18271" rel="tag">菲律宾</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91%EF%BD%9C%E8%B5%B5%E5%A8%81%E9%A6%96%E6%AC%A1%E7%94%B5%E8%AF%9D%E5%8F%97%E8%AE%BF%E9%A9%AC%E4%BA%91%E7%9A%84%E3%80%8A%E5%8D%97%E5%8D%8E%E6%97%A9%E6%8A%A5%E3%80%8B/" target="cdt-mirror">博谈网｜赵威首次电话受访马云的《南华早报》</a>
 </h2>
 <p><p>（博谈网记者苏智敏报道）维权律师李和平的助理赵威在7月7日被取保候审之后，只透过微博发讯息，而她的丈夫游明磊，及游明磊为她聘请的辩护律师任全牛一直无法与她见面，连电话都无法联系上。先前为赵威奔走看守所，甚至给美国总统奥巴马写公开信的赵母郑瑞霞，也消失无踪，游明磊和任全牛律师都无法与赵母联系。</p>
@@ -688,38 +725,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%85%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%81%90%E6%80%96%E6%B0%94%E6%B0%9B%E5%86%8D%E8%B5%B7-%E4%BB%BB%E5%85%A8%E7%89%9B%E6%89%BF%E8%AE%A4%E7%BC%96%E9%80%A0%E8%B5%B5%E5%A8%81/" target="cdt-mirror">自由亚洲｜709事件周年 任全牛承认编造赵威受辱讯息</a>
-</h2>
-<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/renjinniu_0.jpg?resize=549%2C308" alt="renjinniu_0" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/renjinniu_0.jpg?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/renjinniu_0.jpg?resize=300%2C168 300w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p>被抓捕的任全牛律师，多次前往天津要求依法会见赵威都被拒后，前往检察院控告警方违法。（律师提供，拍摄时间不详）</p>
-<p>在“709大抓捕”事件1周年时刻，有被捕者家属周六（9日）指警方企图寻找协助他们的律师；而郑州公安微博周六晚突公布，任全牛律师已承认编造律师助理赵威受辱的讯息。而公安部官网强推评论，指必须严惩造谣律师，各地公安官方微博集体转发为舆论造势。有知情人士透露，任全牛被抓是上层的指令。</p>
-<p>内地大规模拘捕维权律师的“709大抓捕”事件，至今刚是1周年，有被捕律师的家属周六（9日）早上得知消息，警方以捉小偷为名，登门找1名协助他们的律师。被捕的维权律师李和平的太太王峭岭接受香港电台访问时说，被捕律师家属纷纷联络他们的代理律师，了解有没有被当局带走。</p>
-<p>王峭岭说：本来我们家属是今天（周六）准备出门的，但是现在这个状况，就是再次恐怖气氛又起来了，目前看这在个状况，今年709的气氛会非常紧张。我们还担心另外709（被捕者）的辩护律师遭到官方的报复，所以今天会继续与这些律师们彼此保持联络。</p>
-<p>获取保候审的李和平律师助理赵威，在郑州公安周五（8日）通报刑拘她的律师任全牛的之后，周六午夜时分，在微博发布一篇题为《震惊与愤怒》的文章，称看到郑州公安的微博，才知道造谣者竟然是自己认识的任全牛。</p>
-<p>但官方并作出任何解释，公安部官方周五晚发表评论，指《律师造谣必须严惩》，所有的网站和各地公安官网，都同步转发。</p>
-<p>评论指，根据相关规定，对案件进行歪曲、不实、有误导性的宣传或者诋毁有关办案机关和工作人员，以及对方当事人声誉等方式，影响依法办理案件，属于律师法规定的违法行为。同时，“发表危害国家安全、恶意诽谤他人、严重扰乱法庭秩序的言论的”等行为，由司法行政部门给予停止执业、罚款、没收违法所得、吊销律师执业证书等处罚；构成犯罪的，依法追究刑事责任。</p>
-<p>但这篇评论对任全牛律师自去年7月到现在，多次申请会见赵威都被拒绝的事实，只字不提。</p>
-<p>一位媒体人向本台透露，这标誌著任全牛律师被抓是上面的指令，根据惯例，指令层级至少是公安部负责人甚至以上级别，这事跟法律并没有一点关系。</p>
-<p>律师文东海称，任全牛并不是赵威遭侮辱的最初发布人，他只是一个律师对自己当事人的状况表示关切，他没有任何过错。</p>
-<p>他说：我们掌握的情况，任全牛没有任何问题，他是一个尽职尽责的律师。首先因为不是任全牛首先发布资讯；其次，后面这个事情（赵威看守所遭侮辱的说法）扩大也不是任全牛引起来的。</p>
-<p>律师余文生亦认为，因为迄今为止没有任何人接触到赵威，因此，赵威是否真的自由了，值得怀疑。此外，官方声称赵威举报，但涉及名誉侵权属于自诉案件，公权力无权介入。</p>
-<p>他说：现在赵威是否真的出来了，或者说真正自由了，是不是赵威发的，是否赵威举报的，这些问题都无法去考证，所以我们对此表示质疑。而且这种案件，如果涉及到个人人身（名誉）的一些事情，应属于自诉案件，警方不应该出面处理这些问题。要么就是赵威举报、要么就是看守所举报，如果是赵威本人的话，公权力直接出面处理，那有违刑事诉讼法。</p>
-<p>任全牛律师被刑拘，赵威丈夫游明磊立即发出公开声明强调，于去年7月委托任全牛律师为赵威辩护，在这一年的时间里，任律师尽职尽责，三番几次和当局沟通，多次到天津要求会见赵威，因被天津警方拒绝并向检察机关提出控告，在这种生不见人、死不见尸的情况下，因网上的一些传言而在微博上求证，并和严华丰律师到天津向警方核实情况，但都没有得到确切的答案，更没有见到赵威本人。在这种情况下，郑州警方以任律师编造散布当事人受到人身侮辱的消息，并造成恶劣影响的理由，简直荒谬至极！游明磊强烈谴责当局的这种无耻行径，并要求郑州当局尽快释放任全牛。</p>
-<p>郑州市公安局值班人士以是行政单位、而抓人的是辖下的分局或派出所为由，拒绝透露更多的资讯。公安部资讯公开办公室的3个电话，则一直无人接听。</p>
-<p>“709”事件被抓捕的其中7名维权律师的家属周五发表声明，要求当局释放被捕人士、停止抺黑、保障律师会见权，撤除对家属的监控、停止对他们骚扰及逼害，并恢复家属合法出入境。</p>
-<p>任全牛律师因赵威的微博文章被抓。（任全牛微博截图）</p>
-<p> </p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard03320.jpg?resize=549%2C615" alt="Clipboard03(320)" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard03320.jpg?w=610 610w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Clipboard03320.jpg?resize=268%2C300 268w" sizes="(max-width: 549px) 100vw, 549px" data-recalc-dims="1"></p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请点击<a href="https://github.com/cdtmirrors/cdt.unblocked">这里</a>下载火狐或者Chome浏览器扩展，穿墙阅读中国数字时代网站。</p>
-<hr><p><small>© 布鸣真象 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%81%90%E6%80%96%E6%B0%94%E6%B0%9B%E5%86%8D%E8%B5%B7-%E4%BB%BB%E5%85%A8%E7%89%9B%E6%89%BF%E8%AE%A4%E7%BC%96%E9%80%A0%E8%B5%B5%E5%A8%81/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%85%A8%E7%89%9B/?category=18271" rel="tag">任全牛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%B3%AD%E5%B2%AD/?category=18271" rel="tag">王峭岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">赵威</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -731,7 +736,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%85%A8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dew9ckzjyt2gn.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -741,5 +746,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%BB%E5%85%A8
                 <td></td>
                 
         
-        <td><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>

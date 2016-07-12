@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,36 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BE%8E%E5%9B%BD%E4%B9%B0%E5%AE%B6%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%95%86%E5%AE%B6%E9%82%AE%E4%BB%B6%E8%BD%B0%E7%82%B8/" target="cdt-mirror">澎湃新闻 | 美国买家给差评遭中国商家邮件轰炸</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/LBuc9.jpg?resize=550%2C372" alt="加勒特为所购插座写了一篇近800字的反馈文章。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/LBuc9.jpg?w=550 550w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/LBuc9.jpg?resize=300%2C203 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>加勒特为所购插座写了一篇近800字的反馈文章。</p></div>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b1bwl.jpg?resize=550%2C243" alt="Garrett给出差评的AuYou牌WiFi控制、无线智能电源插座。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b1bwl.jpg?w=550 550w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b1bwl.jpg?resize=300%2C133 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>Garrett给出差评的AuYou牌WiFi控制、无线智能电源插座。</p></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/YI7mR.jpg?resize=550%2C323" alt="加勒特在推特上发帖称自己已经收到三封邮件，应为厂商请求他删除评论，不然他们就会被解雇。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/YI7mR.jpg?w=550 550w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/YI7mR.jpg?resize=300%2C176 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/YI7mR.jpg?resize=80%2C48 80w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>加勒特在推特上发帖称自己已经收到三封邮件，应为厂商请求他删除评论，不然他们就会被解雇。</p></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/PrayK.jpg?resize=550%2C266" alt="加勒特随后一条推文：又收到一封邮件，说如果我不删除评论，他们就要向亚马逊投诉我。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/PrayK.jpg?w=550 550w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/PrayK.jpg?resize=300%2C145 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>加勒特随后一条推文：又收到一封邮件，说如果我不删除评论，他们就要向亚马逊投诉我。</p></div>
+<p>美国一位安全开发员Matthew Garrett于6月在亚马逊美国网站上购买了一款产品并给予一星差评后，遭到了中国厂商销售人员的骚扰。</p>
+<p>其推特个人资料显示，加勒特（Garrett）的身份是CoreOS Linux的一名安全开发人员。他除了给所购商品打了一星的超低分（满分五星），还洋洋洒洒地写了一篇近800字的评论，主要从专业角度分析了插座的安全漏洞等问题，措辞中并无谩骂之语。</p>
+<p>加勒特购买的是一款AuYou牌可连接网络的电源插座，这款产品售价30美元，可以让用户使用手机开启或关闭壁装插座的电源，可以用它来控制各种插电设备。也就是说，不管你是否在家，都能通过手机等移动设备连接这款插座，从而控制连接在插座上的灯或其他家用电器。</p>
+<p>这听起来很美好，但加勒特在评论文章中就质疑了这款物联网设备的安全性。</p>
+<p>其在评论中解释，如果你手机连接的是家里的Wi-Fi网络，那么它会直接把开关指令发送给插座。但如果你不在家里，手机就会先把指令发送到位于中国的一台服务器，然后再由它转发给插座。</p>
+<p>“那些指令数据包看似经过加密，但其实并不是真正的加密。”身为安全开发者的加勒特在评论中写道，结果就是，你所用插座的唯一网络ID是以未加密形式传输给中国服务器的。掌握了那个ID的人就能控制相对应的插座。</p>
+<p>要想完全避免自己的插座被黑客入侵，你只能屏蔽那台服务器。然而，这样做会让所有人（包括他自己）再也无法远程控制AuYou插座。这在加勒特看来就是一个漏洞。</p>
+<p>加勒特进一步解释道：“如果有人知道了你插座的MAC地址，那么他们将可以在世界任何地方控制它。你无法通过设置密码阻止他们，而一般的家用路由器设置也无法起到屏蔽效果。你需要单独地屏蔽那台服务器才能保护自己。此外，期待普通家庭用户做到这些是不现实的。而且，如果你进行了这样的屏蔽，你也就完全失去了在外面远程控制设备的能力。”</p>
+<p>加勒特的观点，引发中国商家销售人员的激烈反应。</p>
+<p>加勒特转发给科技网站TechCrunch的一封邮件中，提到了这名中国商家销售人员的请求：“刚才我的老板责怪我，他说如果我不能删除这个差评，他就要解雇我。请帮帮我。能不能请你把差评改成好评？”</p>
+<p>加勒特对此的回应是，如果制造商修复了这个漏洞，他就会修改自己的评论。而AuYou的代表坚称，如果评论没有修改，其就会被辞退。一周之后，这位代表再次来信，请求加勒特删除差评，并威胁说，如果加勒特不删除差评，其就要向亚马逊举报，而且其他评论账号也要写信进行投诉。</p>
+<p>加勒特表示，他在亚马逊上发表过很多关于安全问题的评论，但从来没有遇到过这种事。</p>
+<p>“如果真有人会因为我写的东西而丢掉工作，我会重新考虑的。”加勒特向TechCrunch表示，“另一方面，就其本身而言，很多公司这种不关心用户安全的态度是非常可怕的。让人们在挑选这类设备时搞清楚状况也很重要。”</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BE%8E%E5%9B%BD%E4%B9%B0%E5%AE%B6%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%95%86%E5%AE%B6%E9%82%AE%E4%BB%B6%E8%BD%B0%E7%82%B8/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%9A%E9%A9%AC%E9%80%8A/?category=18271" rel="tag">亚马逊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E5%93%81/?category=18271" rel="tag">产品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E8%83%81/?category=18271" rel="tag">威胁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%8F%E6%B4%9E/?category=18271" rel="tag">漏洞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">黑客</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%AD%94%E6%8D%B7%E7%94%9F%EF%BC%9A%E6%AD%A6%E6%B1%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E8%B0%81%E6%98%AF%E6%9D%8E%E9%B9%8F%E5%90%97%EF%BC%9F/" target="cdt-mirror">苹果日报｜孔捷生：武汉人记得谁是李鹏吗？</a>
 </h2>
 <p><p>中国古代四大名镇都不靠海，其中最繁荣的汉口镇早已升级为“九省通衢”大武汉，如今武汉人凭窗就可看海，出门就可赶海，连绵暴雨令武汉三镇尽成泽国汪洋。于是再次令人正视三峡是给中华民族造福的巨坝吗？</p>
@@ -690,31 +717,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%AD%E5%85%B1%E8%A6%81%E6%B1%82%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%81%9A%E5%A5%BD%E9%AB%98%E6%A0%A1%E5%85%9A%E5%A4%96%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%BC%95/" target="cdt-mirror">中共要求进一步做好高校党外知识分子思想政治引导工作</a>
-</h2>
-<p><p>【编者注】这份通知来自中共教育部党组，发表于2016年7月7日。通知中的要求包括“推动”习近平在共产党成立95周年大会讲话的精神“进教材、进课堂、进头脑”，要“进一步做好高校党外知识分子思想政治引导工作”等。</p>
-<p><strong>中共教育部党组关于教育系统学习贯彻习近平总书记</strong><br><strong>在庆祝中国共产党成立95周年大会上的讲话的通知</strong></p>
-<p>教党[2016]35号</p>
-<p>[…]</p>
-<h4><strong>二、推动系统深入学习，把教育系统广大干部师生员工思想和行动统一到讲话精神上来</strong></h4>
-<p>4. 加强宣传阐释。要充分发挥高校学科优势、人才优势和智力优势，围绕讲话提出的一系列新思想新观点新论断，组织高校哲学社会科学特别是党史党建专家学者深入开展研究阐发，及时推出一批重点理论文章，推出一批有深度有分量的研究成果，为不断丰富发展中国特色社会主义理论体系做出应有的贡献。[…] 在哲学社会科学重点规划项目、全国党建研究会高校党建研究专委会等课题研究中，<strong>加大对讲话精神专题研究的重点支持力度</strong>。[…] 以庆祝第32个教师节为契机，组织广大教师深入学习领会讲话精神。</p>
-<h4><strong>三、融入学校思想政治教育，扎实推动讲话精神进教材、进课堂、进头脑</strong></h4>
-<p>1. <strong>扎实推动讲话精神进教材</strong>。<strong>要在大中小学教材建设中，充分体现讲话重要思想和观点，着眼于加强党的领导，强化思想性要求</strong>，重视体制机制创新，对加强和改进大中小学教材建设做出整体部署。重点做好《中国革命史》《中国共产党思想政治教育》等教材的出版工作，做好《中华人民共和国史》《国际共产主义运动史》等马工程重点教材的统一使用工作。[…]</p>
-<p>2. 扎实推动讲话精神进课堂。各级教育部门和各级各类学校要以讲话精神为指导，加强教师队伍建设，<strong>用马克思主义中国化最新成果占领课堂、讲坛，牢牢掌握学校意识形态工作的领导权主导权。</strong>[…] <strong>激励广大青年学生为祖国、为人民、为民族奉献青春</strong>。[…]</p>
-<p>3. <strong>扎实推动讲话精神进头脑。</strong>要把讲话精神融入大中小学思想政治教育的相关内容，贯穿到学校党建和思想政治工作全过程。认真实施大学生思想政治教育质量提升工程。[…] 继续推动学习宣传李保国同志作为新时期共产党人的楷模、知识分子的优秀代表和太行山上的新愚公的感人事迹和优秀品格，组织徐川同志“我为什么加入中国共产党”优秀党课巡讲，引导广大干部师生在学模范、争先进中更加深刻学习领会讲话精神，坚定正确政治方向，坚定不移跟党走。</p>
-<h4><strong>四、坚持围绕中心，推进讲话精神贯穿教育事业改革发展全过程</strong></h4>
-<p>3.<span><strong> 要进一步做好高校党外知识分子思想政治引导工作</strong></span>，结合学习贯彻讲话精神，组织高校党外知识分子开展多种形式的理论学习、实践锻炼、社会服务，<strong>帮助和引导高校党外知识分子自觉接受中国共产党的领导</strong>，培育和践行社会主义核心价值观，不断增强中国特色社会主义道路自信、理论自信、制度自信、文化自信，为推进高等教育改革发展稳定凝心聚力。</p>
-<h4><strong>五、精心部署，切实加强对学习宣传贯彻讲话精神的组织领导</strong></h4>
-<p>[…]要精心组织新闻宣传，充分利用校报、校刊、电台、电视台和网络新媒体，深入阐释解读讲话精神，<strong>大力宣传讲话在广大干部师生中引起的热烈反响</strong>，反映学校学习贯彻讲话精神、解决实际问题的具体实践和工作成效，营造教育系统学习贯彻讲话精神的浓厚氛围。</p>
-<p>（完整内容请点击“原文”链接）</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%AD%E5%85%B1%E8%A6%81%E6%B1%82%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%81%9A%E5%A5%BD%E9%AB%98%E6%A0%A1%E5%85%9A%E5%A4%96%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E5%BC%95/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%A2%A6/?category=18271" rel="tag">中国梦</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E7%89%B9%E5%8B%92/?category=18271" rel="tag">习特勒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E4%BC%97%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">公众知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BA%86%E4%B8%B0%E5%B8%9D/?category=18271" rel="tag">庆丰帝</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%99%E8%82%B2%E9%83%A8/?category=18271" rel="tag">教育部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BE%BD%E5%AE%81%E6%97%A5%E6%8A%A5/?category=18271" rel="tag">辽宁日报</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -726,7 +728,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -736,5 +738,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
 </table>

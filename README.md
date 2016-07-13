@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,60 @@
                 <td></td>
                 
         
-        <td><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E6%8F%AD%E9%9C%B2%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">德国之声｜长平：赵威微博揭露了什么？</a>
+</h2>
+<p><p>赵威微博信息引发争议。时评人长平认为，正如铜锣湾书店案所暴露的一样，赵威微博所揭露的真正事实，是中共当局的残忍与荒唐。</p>
+<p>24 岁的赵威被抓捕一年之后取保候审，随后连续发表微博感谢警方，揭发曾作为助理为之工作的人权律师李和平，并谴责家人为她聘请的律师任全牛编造散布其受性侵谣言。最新消息是，她接受香港《南华早报》电话采访，声称后悔参与公民权利运动，愿意重做新人。</p>
+<p>一个人被中国警方抓捕之后，完全变成另外一个模样，貌似真诚地追悔莫及，用自己的嘴说着警方和政府想说的话，这并不新鲜，不过是又一个 ” 李波 ” 而已。</p>
+<p>不同的是，因为出生于 ” 八九 ” 之后，甚至因为 ” 年轻漂亮 ” ，在被拘押的这一年里，赵威得到无数赞颂，也被寄予很高的期待。她的 ” 洗心革面 ” 让很多支持者不能接受，他们甚至拒绝相信她已经被释放，要求当局让她露面。</p>
+<p>这样的要求是天真的。李波不仅露面，还多次面对面接受记者采访，始终微笑着，语气诚恳地，说出一些匪夷所思的话来。当局能让香港的李波这样表演，自然能让河南的赵威做得更多。</p>
+<p>有人说，为什么不相信这些话是赵威自由真诚的表达呢？一个简单的测试是：她的微博可能发表相反的言论吗？或者说，如果发表了相反的言论，她能得到现在的 ” 自由 ” 吗？如果答案是 ” 不可能 ” ，那么自由真诚从何说起呢？</p>
+<p>一个人质不幸被绑匪控制，警方在解救他的时候，不会问他的 ” 真实意愿 ” 。如果去问，刀架脖子之际的回答很有可能是 ” 我没有被绑架 ” ， ” 我很好，就想这样呆着 ” ， ” 哪里有绑匪？请不要抹黑我们的祖国 ” 等等。因此，如果确认赵威仍在当局控制之下，她的微博是自己撰写还是警察代笔，并没有多大区别，都是当局的传话筒而已。</p>
+<p>反酷刑者不该批评社会制度？</p>
+<p>与猜想赵威是否自由发言，或者在多大程度上与当局合作相比，我更感兴趣的是，当局花这么大的功夫，到底利用赵威揭露了李和平等人权律师什么样的 ” 罪行 ” ？</p>
+<p>很遗憾，几乎没有任何新意，不过是去年官媒抹黑锋锐律师事务所及周世锋等人权律师的老调重谈： ” 这家机构名义上是做 ‘ 反酷刑 ‘ 的研究，实际上是通过资助项目来搜集、整理一些国内敏感案事件的资料并进行炒作，借此抨击中国的司法体制和社会制度、鼓动改变现行体制、实现中国和平转型。 ”</p>
+<p>酷刑并非与司法体制及社会制度无关的天外之物，也不是像中国当局宣传的那样，是个别执法者天生残忍、道德败坏。一家志在反酷刑的研究机构，抨击一个专制政权的司法体制和社会制度，希望促进社会转型，乃是题中之议，并不需要谁来揭露。</p>
+<p>赵威的另一个揭露要点，是人权律师得到国外机构的资助。且不说中共的发迹史从来没有离开外国势力的资助，即便现在，国外 NGO 资助中国的大部分资金也进了政府的口袋。再说，无论什么样的资金，支持 ” 反酷刑 ” 、 ” 社会和平转型 ” 何罪之有？<br>
+批评政府不是犯罪，希望现政权被新的政治力量取代，也是现代民主政治的当然逻辑。当局以为利用赵威的揭露可以抹黑人权律师，或者有人真的因此认为他们犯了罪，那只能显示当局及社会的荒谬。</p>
+<p>性侵传言如何澄清？</p>
+<p>赵威被关押近一年，当局始终拒绝让家属和律师探望，因此传出受虐（包括可能被性侵）的消息。在当局非法、无理及不人道对待当事人的前提下，此类传言难以避免。</p>
+<p>作为赵威家人聘用的律师，任全牛律递交文件，要求检察院介入调查传闻真伪，并利用微博期待社会支持，不过是尽一个中国律师的义务。赵威的微博声称任全牛编造散布性侵消息影响她的声誉，郑州警方竟然以此为理由抓捕了任全牛。</p>
+<p>性侵传言中声誉受到影响的为什么不是可能的施害者，而是可能的受害者？这不过是 ” 贞操观念 ” 的陈腐逻辑。再说，抓捕律师就能澄清性侵传言吗？</p>
+<p>正如铜锣湾书店案所暴露的一样，赵威微博所揭露的真正事实，是中共当局的残忍与荒唐。</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="http://onlineapk.com/download-freebrowser-apk/">这里</a>下载FreeBrowser，将它的APK文件下载到本地然后传到手机中安装，即可翻墙。</p>
+<hr><p><small>© 你懂的 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E6%8F%AD%E9%9C%B2%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">赵威</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E5%86%9B%E5%A7%94%E7%BA%AA%E5%A7%94%E8%83%BD%E6%94%B9%E5%8F%98%E5%86%9B%E9%98%9F%E7%9A%84%E5%81%87%E5%BF%A0%E8%AF%9A%E6%94%BF/" target="cdt-mirror">自由亚洲｜未普：军委纪委能改变军队的假忠诚政治生态吗？</a>
+</h2>
+<p><p>这两天，中国军方再掀一场大地震。继郭伯雄和徐才厚之后，第三名解放军上将、空军前政委田修思被拿下，他曾经任职的成都军区，有多达百名以上的军官被约谈。</p>
+<p>中国军网7月9日发布消息说，这是军委纪委根据有关规定，以事实为依据、以纪律为准绳，对涉嫌严重违纪党员干部采取的党内纪律审查措施。空军大院一些干部亲眼目睹了田修思被抓的一幕：7月5日一大早，军纪委从田修思家中将他带走，其妻被几位女工作人员架着一同带离，田修思秘书也随即被“拿下”。有人称这一幕为“满门抄斩”。</p>
+<p>军委纪委在田修思一案中显然扮演了重要角色。这个机构是去年11月习近平主持军队改革时组建的，旨在向军委机关部门和战区分别派驻纪检组，把纪委双重领导体制落到实处。习同时寄希望，军委纪委能与军委政法委和军委审计署一道，解决军队纪检、巡视、审计、司法监督独立性和权威性不够的问题。</p>
+<p>关于田修思被审查的具体原因，军委纪委并没有交代。根据海内外媒体的报道和分析，田被查应当有这样几个原因，一是田和新四人帮可能有关系。田修思在2009年12月至2012年10月期间，任成都军区政委。那时，他时常往来重庆、成都两地，多次与当时的重庆市委书记薄熙来会面。有报道说，田修思是薄熙来的坚定支持者，他2011年给薄熙来助阵，出席被指为薄预谋政变的军事演习，这种说法还需要证据来支撑。</p>
+<p>其二，田修思涉嫌行贿买官。田曾担任兰州军区政治部副主任，同起家于兰州军区的郭伯雄关系密切。作者陈希在《郭伯雄》一书中披露，田修思在2012年给郭伯雄5000万元人民币，换取了空军政委这个职位。中国军网刊文说，郭伯雄之子郭正钢曾经放出狂言称，“全军干部一半以上是我家提拔的”。田修思为了升官，也给了徐才厚一笔贿款。据统计，十八大以来，军方查处的军级以上的老虎已达49人，其中至少有12个落马“军老虎”与郭、徐有不同程度的交集。</p>
+<p>其三，田修思曾任职的成都军区和空军都存在大量腐败。这两年，成都军区已有不少高官被拿下，如成都军区联勤部长朱和平、成都军区前副司令员杨金山、四川省军区前政委叶万勇等数名“军老虎”落马。空军亦有多名高级将领落马，包括空军前后勤部长朱洪达、前广州军区空军政委王玉发、前北京军区空军政治部副主任陈红岩等。这不能不让人联想，田修思行贿郭伯雄的几千万元从哪来的？会不会是他卖官索的贿呢？</p>
+<p>极具讽刺意义的是，田修思于2014年先后在《求是》和《解放军报》上发文，道貌岸然地大谈特谈军队干部的政治生态建设。他这样写道：树立营造良好政治生态人人有关、人人有责的理念，努力做到“十五个没有”：没有跑官要官、买官卖官，找关系、架天线；没有训风演风考风不正，弄虚作假、搞“花架子”；没有当面一套、背后一套，当“两面人”；没有团团伙伙，搞老乡观念、划小圈子；没有吃吃喝喝，花公家钱财、办私家事；没有喜庆事宜“摆酒席”“随份子”；没有逢年过节“送节礼”“收红包”；没有插手基层敏感事务，收受官兵钱物；没有克扣基层物资经费，侵占士兵利益；没有赌博、酗酒、打架斗殴；没有违规上网、擅用手机和失密泄密；没有官离兵、兵离官，打骂体罚士兵；没有嫌贫爱富、媚上欺下；没有与民争利、侵占百姓利益；没有拉拉扯扯、乱搞男女关系。</p>
+<p>田修思的“十五个没有”据说感动了不少人，但现在看来，田是个典型的虚伪的两面派，而这种当面一套背后一套、贼喊捉贼是中共贪腐干部和军队贪腐干部的缩影。刘亚洲直指，这种假忠诚、伪忠诚严重污染了军队的政治生态。</p>
+<p>问题是，用军委纪委这个所谓的创新机构，就能纠正这种假忠诚、伪忠诚的政治生态吗？</p>
+<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
+<p>请在<a href="https://github.com/yinghuocho/firefly-proxy">这里</a>下载最新翻墙利器萤火虫代理。</p>
+<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2%EF%BD%9C%E6%9C%AA%E6%99%AE%EF%BC%9A%E5%86%9B%E5%A7%94%E7%BA%AA%E5%A7%94%E8%83%BD%E6%94%B9%E5%8F%98%E5%86%9B%E9%98%9F%E7%9A%84%E5%81%87%E5%BF%A0%E8%AF%9A%E6%94%BF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%A7%94%E7%BA%AA%E5%A7%94/?category=18271" rel="tag">军委纪委</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B0%E4%BF%AE%E6%80%9D/?category=18271" rel="tag">田修思</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A7%A3%E6%94%BE%E5%86%9B/?category=18271" rel="tag">解放军</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%BE%AE%E5%8D%9A%E4%B8%8A%E8%BF%99%E4%B8%AA%E8%81%94%E5%90%88%E5%9B%BD%E5%A7%93%E5%85%9A%EF%BC%9F/" target="cdt-mirror">【网络民议】微博上这个联合国到底姓什么</a>
 </h2>
 <p><p>7月13日，面对微博上热烈的“南海仲裁案”话题，联合国官方中文新浪微博发布了一则信息称“荷兰海牙和平宫内1899年建立的常设仲裁法院和联合国没有任何关系”，并且一度将一名网友的评论“（常设仲裁法院）是三甲医院里外包出去的莆田系”置顶，这条客观上配合官方与民间高涨民族主义情绪“撇清关系”的微博让一些网友赞扬“不背锅”也让一些网友觉得“大跌眼镜”。同时，这条消息得到了共青团中央微博账号的及时转发。</p>
@@ -895,53 +946,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BE%8E%E5%9B%BD%E4%B9%B0%E5%AE%B6%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%95%86%E5%AE%B6%E9%82%AE%E4%BB%B6%E8%BD%B0%E7%82%B8/" target="cdt-mirror">澎湃新闻 | 美国买家给差评遭中国商家邮件轰炸</a>
-</h2>
-<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/LBuc9.jpg?resize=550%2C372" alt="加勒特为所购插座写了一篇近800字的反馈文章。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/LBuc9.jpg?w=550 550w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/LBuc9.jpg?resize=300%2C203 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>加勒特为所购插座写了一篇近800字的反馈文章。</p></div>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b1bwl.jpg?resize=550%2C243" alt="Garrett给出差评的AuYou牌WiFi控制、无线智能电源插座。" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b1bwl.jpg?w=550 550w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/b1bwl.jpg?resize=300%2C133 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>Garrett给出差评的AuYou牌WiFi控制、无线智能电源插座。</p></div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/YI7mR.jpg?resize=550%2C323" alt="加勒特在推特上发帖称自己已经收到三封邮件，应为厂商请求他删除评论，不然他们就会被解雇。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/YI7mR.jpg?w=550 550w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/YI7mR.jpg?resize=300%2C176 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/YI7mR.jpg?resize=80%2C48 80w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>加勒特在推特上发帖称自己已经收到三封邮件，应为厂商请求他删除评论，不然他们就会被解雇。</p></div>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/PrayK.jpg?resize=550%2C266" alt="加勒特随后一条推文：又收到一封邮件，说如果我不删除评论，他们就要向亚马逊投诉我。" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/PrayK.jpg?w=550 550w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/PrayK.jpg?resize=300%2C145 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>加勒特随后一条推文：又收到一封邮件，说如果我不删除评论，他们就要向亚马逊投诉我。</p></div>
-<p>美国一位安全开发员Matthew Garrett于6月在亚马逊美国网站上购买了一款产品并给予一星差评后，遭到了中国厂商销售人员的骚扰。</p>
-<p>其推特个人资料显示，加勒特（Garrett）的身份是CoreOS Linux的一名安全开发人员。他除了给所购商品打了一星的超低分（满分五星），还洋洋洒洒地写了一篇近800字的评论，主要从专业角度分析了插座的安全漏洞等问题，措辞中并无谩骂之语。</p>
-<p>加勒特购买的是一款AuYou牌可连接网络的电源插座，这款产品售价30美元，可以让用户使用手机开启或关闭壁装插座的电源，可以用它来控制各种插电设备。也就是说，不管你是否在家，都能通过手机等移动设备连接这款插座，从而控制连接在插座上的灯或其他家用电器。</p>
-<p>这听起来很美好，但加勒特在评论文章中就质疑了这款物联网设备的安全性。</p>
-<p>其在评论中解释，如果你手机连接的是家里的Wi-Fi网络，那么它会直接把开关指令发送给插座。但如果你不在家里，手机就会先把指令发送到位于中国的一台服务器，然后再由它转发给插座。</p>
-<p>“那些指令数据包看似经过加密，但其实并不是真正的加密。”身为安全开发者的加勒特在评论中写道，结果就是，你所用插座的唯一网络ID是以未加密形式传输给中国服务器的。掌握了那个ID的人就能控制相对应的插座。</p>
-<p>要想完全避免自己的插座被黑客入侵，你只能屏蔽那台服务器。然而，这样做会让所有人（包括他自己）再也无法远程控制AuYou插座。这在加勒特看来就是一个漏洞。</p>
-<p>加勒特进一步解释道：“如果有人知道了你插座的MAC地址，那么他们将可以在世界任何地方控制它。你无法通过设置密码阻止他们，而一般的家用路由器设置也无法起到屏蔽效果。你需要单独地屏蔽那台服务器才能保护自己。此外，期待普通家庭用户做到这些是不现实的。而且，如果你进行了这样的屏蔽，你也就完全失去了在外面远程控制设备的能力。”</p>
-<p>加勒特的观点，引发中国商家销售人员的激烈反应。</p>
-<p>加勒特转发给科技网站TechCrunch的一封邮件中，提到了这名中国商家销售人员的请求：“刚才我的老板责怪我，他说如果我不能删除这个差评，他就要解雇我。请帮帮我。能不能请你把差评改成好评？”</p>
-<p>加勒特对此的回应是，如果制造商修复了这个漏洞，他就会修改自己的评论。而AuYou的代表坚称，如果评论没有修改，其就会被辞退。一周之后，这位代表再次来信，请求加勒特删除差评，并威胁说，如果加勒特不删除差评，其就要向亚马逊举报，而且其他评论账号也要写信进行投诉。</p>
-<p>加勒特表示，他在亚马逊上发表过很多关于安全问题的评论，但从来没有遇到过这种事。</p>
-<p>“如果真有人会因为我写的东西而丢掉工作，我会重新考虑的。”加勒特向TechCrunch表示，“另一方面，就其本身而言，很多公司这种不关心用户安全的态度是非常可怕的。让人们在挑选这类设备时搞清楚状况也很重要。”</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-%E7%BE%8E%E5%9B%BD%E4%B9%B0%E5%AE%B6%E7%BB%99%E5%B7%AE%E8%AF%84%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%95%86%E5%AE%B6%E9%82%AE%E4%BB%B6%E8%BD%B0%E7%82%B8/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BE%E6%8A%A5/?category=18271" rel="tag">举报</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%9A%E9%A9%AC%E9%80%8A/?category=18271" rel="tag">亚马逊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%A7%E5%93%81/?category=18271" rel="tag">产品</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A8%81%E8%83%81/?category=18271" rel="tag">威胁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%8F%E8%94%BD/?category=18271" rel="tag">屏蔽</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8E%A7%E5%88%B6/?category=18271" rel="tag">控制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%8F%E6%B4%9E/?category=18271" rel="tag">漏洞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%BB%91%E5%AE%A2/?category=18271" rel="tag">黑客</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%AD%94%E6%8D%B7%E7%94%9F%EF%BC%9A%E6%AD%A6%E6%B1%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E8%B0%81%E6%98%AF%E6%9D%8E%E9%B9%8F%E5%90%97%EF%BC%9F/" target="cdt-mirror">苹果日报｜孔捷生：武汉人记得谁是李鹏吗？</a>
-</h2>
-<p><p>中国古代四大名镇都不靠海，其中最繁荣的汉口镇早已升级为“九省通衢”大武汉，如今武汉人凭窗就可看海，出门就可赶海，连绵暴雨令武汉三镇尽成泽国汪洋。于是再次令人正视三峡是给中华民族造福的巨坝吗？</p>
-<p>习近平最新圣谕“不忘初心”。三峡的初衷是什么，发电？南水北调？非也，当年力主三峡上马的李鹏说得很清楚：是防洪。1992年在全国人大提议通过三峡工程项目时，据李鹏回忆，防洪是决策修建三峡大坝的决定性因素。</p>
-<p>1993年三峡建设工程委员会成立，时任总理的李鹏身兼主任。翌年李鹏在宜昌三斗坪主持开工典礼。1998年长江特大洪水，时任国家防汛委员会主任的温家宝在武汉大堤上指挥抗洪，长江两岸安危系于一发，其时三峡尚未截流。2002年11月7日三峡高坝合龙，李鹏说：“建设三峡工程，就是为了解决湖北防洪等重大问题，这是一点也不夸张的。”他指出当初有两派之争，有的意见主张先支流后干流，但是长江洪患不已，“特别是武汉这样的大城市，面临的危险逐年增大，而先支后干的办法不能吃根本上解决武汉防洪的问题。”（以上言论见《李鹏论地区经济》一书）。</p>
-<p>大一统帝国有种心理已沉淀为威权文化的一部份，正因为中央集权，国家可集中人力物力办大事，超大型的工程本身就是强盛王朝的声威符号。这种心理一直延续至今，试看中共建政后的三门峡工程、葛洲坝、三峡工程、南水北调，都折射出万里长城和大运河的历史回光。随着中国经济实力的膨胀，好大喜功的传统心态，又随着“一路一带”壮阔蓝图向全球扩散，它莫不以海市蜃楼式的超大项目为前导。</p>
-<p>三峡开工迄今已20多年，2006年大坝主体部份完工，今年刚好是十周年。当初主建派所谓万吨轮船可直达重庆；三峡库区就像大冷气机可调节四川盆地气候，使之冬暖夏凉的牛皮已经吹破。而宣称一劳永逸解决长江流域洪涝和乾旱，如今亦成笑话。蓦然回首，岂止发电效益并未如所期，南水北调这一构想更是作废。眼见武汉洪水滔天，问题是后三峡才出生的新世代大多不知道谁是李鹏，只知道他们甚至子孙后代都将和上游那道高坝同休戚共存亡。</p>
-<p>国家大政不许妄议</p>
-<p>台湾出了天灾人祸，民众愤而问责政府怒喷总统。大陆出了天大事情，却是泣谢党疼国爱的特定时刻，党国坦然欣然接受人民感恩。假使洪水最后侥幸退去，党的功劳将写遍荆楚大地；万一武汉决堤死伤无数，那将会涌现讴歌不完的英雄事迹，喉舌卯足全力把白事当红事来做，类似“东方之星”沉船灾难时的赞颂文章《生为国人，何其有幸！》、《救援一线，中国最帅的男人都在这儿啦》、《感谢你无数次游过那么悲伤的水域》将充斥国人视听。</p>
-<p>当下武汉黄水汤汤，一派末日景象，民众有权重新审视三峡的存废吗？连专家也只能噤声。三峡属于国家大政，不许妄议。讽刺的是，赵紫阳、朱镕基、温家宝三任总理都对三峡兴趣缺缺。大坝奠基20周年庆典，在位的胡温均不见踪影。学水电的胡锦涛和学地质的温家宝为何避席？这和陈云至死不到深圳特区以及胡温始终不到“西红市”为重庆模式捧场堪有一比，陈云是出于政治理念，胡温却是爱惜羽毛，不欲和三峡捆绑而蒙污后世。</p>
-<p><small>本文由自动聚合程序取自网络，内容和观点不代表数字时代立场</small></p>
-<p>请在<a href="https://getlantern.org/">这里</a>下载最新版Lantern 2.0，翻墙快速易用小巧安全。</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%AD%94%E6%8D%B7%E7%94%9F%EF%BC%9A%E6%AD%A6%E6%B1%89%E4%BA%BA%E8%AE%B0%E5%BE%97%E8%B0%81%E6%98%AF%E6%9D%8E%E9%B9%8F%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B3%A1/?category=18271" rel="tag">三峡</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%B9%8F/?category=18271" rel="tag">李鹏</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -953,7 +957,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B3%A1
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -963,5 +967,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B3%A1
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

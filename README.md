@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,111 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%BE%AE%E5%8D%9A%E4%B8%8A%E8%BF%99%E4%B8%AA%E8%81%94%E5%90%88%E5%9B%BD%E5%A7%93%E5%85%9A%EF%BC%9F/" target="cdt-mirror">【网络民议】微博上这个联合国到底姓什么</a>
+</h2>
+<p><p>7月13日，面对微博上热烈的“南海仲裁案”话题，联合国官方中文新浪微博发布了一则信息称“荷兰海牙和平宫内1899年建立的常设仲裁法院和联合国没有任何关系”，并且一度将一名网友的评论“（常设仲裁法院）是三甲医院里外包出去的莆田系”置顶，这条客观上配合官方与民间高涨民族主义情绪“撇清关系”的微博让一些网友赞扬“不背锅”也让一些网友觉得“大跌眼镜”。同时，这条消息得到了共青团中央微博账号的及时转发。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf.jpg?resize=600%2C566" alt="CnOiDCaXEAEwvPf" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf.jpg?w=723 723w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf.jpg?resize=300%2C283 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf3.jpg?resize=597%2C527" alt="CnOiDCaXEAEwvPf3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf3.jpg?w=597 597w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf3.jpg?resize=300%2C265 300w" sizes="(max-width: 597px) 100vw, 597px" data-recalc-dims="1"></p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf33.jpg?resize=600%2C840" alt="CnOiDCaXEAEwvPf33" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf33.jpg?w=669 669w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf33.jpg?resize=214%2C300 214w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p><strong>以下内容为数字时代编辑摘自部分网友评论：</strong></p>
+<p>@_Antonio：翻译过来：都是隔壁那个房客弄的事儿，跟我没有一点关系！我们这个锅不背！</p>
+<p>@他年君：可以的，这很联合国。</p>
+<p>@悲欢离合常回首：此所谓“仲裁法院”与联合国无半点瓜葛，不是正头乡主，不过是“拿人钱财，替人消灾”的货色，狐假虎威。美日等却拿鸡毛当令箭，未免有点滑稽可笑。</p>
+<p>@鱼十zcl：联合国里的莆田系！</p>
+<p>@怪兽小小小小小Q：这小伙要爆红的节奏…都上团中央和联合国了。</p>
+<p>@戴旭 ：可以预计，随着这一闹剧的结束，其他的闹剧还会上演。中国正可以抓住这一机会，1、改海南省委南海省；2、设立南海防空识别区；3、视菲律宾后续表现，对菲占中国岛礁上的入侵者发出最后通牒；4、视情宣布退出联合国海洋公约，让一群闹事者统统闭嘴！一个和平的中国，必是一个敢于捍卫自身合法权益的中国。我们爱和平，我们爱家乡,,,,预备唱！</p>
+<p>@拂去烟雾朦胧：拒绝侮辱莆田系。</p>
+<p>@老刘论市 ：那个仲裁组织，据说是给钱就给上，因为中国不上，菲律宾还给了双份的钱。还有，自从那个仲裁组织成立以来，执行率0。</p>
+<p>@ursatong：联合国微博的意思是冤有头债有主你们别到我这来吵架？</p>
+<p>@海波就是岛国大叔：联合国狠狠的扇了美、菲、日一个嘴巴子！联合国发布声明“南海仲裁案”和他们没有关系！弄了半天就是一个民间组织，我真是醉了。哥几个都准备准备，去太平洋租个小岛咱也开个法庭，也仲裁一下美、菲、日。</p>
+<p>@春天精灵99：联合国发声：南海仲裁庭和我们没有半毛钱的关系！</p>
+<p>————————————</p>
+<p>@破破的桥：已经憋了好几天，但还是忍不住要吐槽一下。今天是中文网络污染史上值得纪念的一天。立帖为证：联合国中文微博控号者暗示称 1.常设仲裁法院不是正规国际机构。2.1899年建立的常设仲裁法院是1922年建立的常设国际法院外包出去的莆田系。3.1913建成的和平宫是建设者们为了预知9年后成立的国际法院建造的。</p>
+<p>@破破的桥：为了常设仲裁法院专门拨款建造的和平宫，联合国中文微博控号者可以瞪着眼睛撒谎，把它说成靠出租联合国信誉牟利的建筑商。真是叹为观止。</p>
+<p>@水舞刀：联合国官微犯了这种弱智的错误，看看他下一步会不会澄清。更重要的是，国际海洋法法庭依据《海洋法公约》组建了仲裁庭，仲裁庭指定常设仲裁法院为其书记官处——联合国官微居然认为“常设仲裁法院”是“莆田系”。官微编辑什么狗屁素质。</p>
+<p>@lolRG：联合国账号11:25刚发，团中央11:27就转发，难不成24小时守在微博上，所以联合国帐号到底什么性质已经很明显了吧！</p>
+<p>@张寒崧：微博上这个联合国姓党。</p>
+<p>@冬円流雑：越隔离，越危险，再隔几年他们都能造出来一个特色联合国。</p>
+<p>@老z不醉：两个平行机构，联合国原文没错。那个网友解读带歪了楼。</p>
+<p>@ScheherazadeZ：墙的存在成功的吃掉了大批中国网民的脑子。</p>
+<p>@叉叉哥肖风：基本上，军国主义的基础我是看到了，不仅仅网络上，我的周围同事同学亲朋，那股浓浓的战争欲望。</p>
+<p>@宁采4620 ：海牙国际常设仲裁法院不是联合国机构，但也不是许多人以为的歪货。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6e113fa3gw1f5scf22pscj20qo0zkqdz.jpg?resize=440%2C587" alt="6e113fa3gw1f5scf22pscj20qo0zkqdz" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6e113fa3gw1f5scf22pscj20qo0zkqdz.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6e113fa3gw1f5scf22pscj20qo0zkqdz.jpg?resize=225%2C300 225w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>@无事多自宫：联合国中国官微不是第一次这么干了。不可理喻。</p>
+<p>@忧郁的冷冻鱿鱼：怎么不说紫禁城是老朱家为挂毛主席照片造的呢？</p>
+<p>@连岳lianyue：联合国本来就是大型寄生官僚机构，不奇怪。</p>
+<p>@tdskbd：原来就看这个微博很可疑，今天算是证实了。</p>
+<p>@szshu：同样是联合国官方社交平台，新浪微博认证联合国官微UN谈笑风生，推特认证联合国官推@UN中规中矩，官方平台需要亲民接地气，但不是过家家，官方平台的言行代表着整个组织的态度，联合国官微到底是世界的联合国，还是中国的联合国？</p>
+<p>@idzhang3：中国人民又疯狂拿着联合国官微自我安慰了。海牙常设仲裁法院不是联合国机构，然而是联合国海洋法公约第289条和附件7明文规定的仲裁机构，强制仲裁程序依法只能在常设仲裁法院进行。按公约程序，如果当事双方都同意，则也可选择海牙国际法院或位于汉堡的国际海洋法法庭进行诉讼或仲裁。</p>
+<p>@idzhang3：联合国认证微博指出常设仲裁法院跟联合国没有任何关系、而且形同骗子的微博，成微博热门、门户网站要闻，并被当作联合国官方表态。玩到这程度，各大外媒通讯社其实真有必要就此联系联合国询问看法了。</p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%BE%AE%E5%8D%9A%E4%B8%8A%E8%BF%99%E4%B8%AA%E8%81%94%E5%90%88%E5%9B%BD%E5%A7%93%E5%85%9A%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B2%E8%A3%81%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">仲裁机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">军国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E8%A3%81/?category=18271" rel="tag">制裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%B3%95/?category=18271" rel="tag">国际法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%83%9A%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">官僚机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E8%AE%BE%E4%BB%B2%E8%A3%81%E6%B3%95%E9%99%A2/?category=18271" rel="tag">常设仲裁法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E7%BB%84%E7%BB%87/?category=18271" rel="tag">民间组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BA%AD/?category=18271" rel="tag">法庭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD%E6%B5%B7%E6%B4%8B%E6%B3%95%E5%85%AC%E7%BA%A6/?category=18271" rel="tag">联合国海洋法公约</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%9F%AD%E5%8F%B2%E8%AE%B0-%E5%AF%B9%E4%B8%8D%E8%B5%B7-%E9%82%93%E5%B0%8F%E5%B9%B3%E6%B2%A1%E8%AF%B4%E8%BF%87%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%A6%BB%E4%B8%AD%E5%9B%BD%E4%B9%9F%E5%BE%88/" target="cdt-mirror">短史记 | 对不起 邓小平没说过“菲律宾离中国也很近”</a>
+</h2>
+<p><div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6403UCRQAWG.jpg?resize=420%2C330" alt="邓小平1988年会见阿基诺夫人" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6403UCRQAWG.jpg?w=420 420w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6403UCRQAWG.jpg?resize=300%2C236 300w" sizes="(max-width: 420px) 100vw, 420px" data-recalc-dims="1"><p>邓小平1988年会见阿基诺夫人</p></div>
+<p>“菲律宾离中国也很近”考<br>
+文／谌旭彬</p>
+<p>“1987年，菲律宾前总统访华拜会邓小平谈到南沙主权问题时说：‘至少在地理上，那些岛屿离菲律宾更近。’邓小平抽了口烟，说：‘在地理上，菲律宾离中国也很近。’从此，南沙再无战事。”</p>
+<p>这则故事，是真的吗？</p>
+<p><strong>一、2008年该段子出现在网贴中，但找不到任何史料来源</strong></p>
+<p>“菲律宾离中国也很近”只是一则网络段子，既找不到任何的史料来源，段子本身及其变种在细节上也漏洞甚多，不足采信。</p>
+<p><strong>１、目前可以找到的最早版本，是2008年的一则网贴</strong></p>
+<p>“菲律宾离中国也很近”这则段子最早什么时候出现在网络上的？编辑使用谷歌定时搜索，发现最早至少可以追溯到2008年3月2日天涯论坛的一则帖子。虽然该贴自称是“转贴”，但编辑没有能够搜索到更早的原始版本（如有网友找到更早的版本，敬请告诉我们）。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.png?resize=550%2C316" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.png?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-1.png?resize=300%2C173 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>2008年的这个版本，与现在微博上流传的版本基本上没有差异：“1987年，菲律宾前总统访华，谈到南沙问题时说：‘至少在地理上，那些岛屿离菲律宾更近。’邓抽了口烟：‘在地理上，菲律宾离中国也很近。’从此，南沙再无战事。”</p>
+<p><strong>２、2008年之前没有任何纸媒提到过该段子</strong></p>
+<p>该段子有没有网贴之外的纸媒来源呢？笔者动用知网、读秀、超星、万方、龙源等学术、图书、期刊工具搜索的结果是：在2008年以前，没有任何纸媒（包括期刊、报纸、图书）提到过“菲律宾离中国也很近”这个段子。2008年之后，严谨的文史类图书、期刊都没有相关记载；只有一些诸如《智慧文摘》这类刊物、以及诸如《大国思维》这本“畅销书”，曾刊载过这个段子，其内容则很明显来自网贴，如：</p>
+<p>“1987年，菲律宾前总统访华，在谈到南沙群岛的所有权时，这样说道：‘至少在地理位置上，那些岛屿离菲律宾更近。’邓小平也毫不示弱地说了一句：‘在地理上，菲律宾离中国也很近。’从此以后，南沙再无战事。”（《大国思维》该书是编辑所找到唯一一本载有“菲律宾离中国也很近”的段子的图书，内容与网贴完全一致，没有注明任何史料来源）</p>
+<p><strong>二、2009年严肃媒体开始关注该段子，但仍无人能够提供任何史料来源</strong></p>
+<p>严肃媒体开始引用“菲律宾离中国也很近”这个段子，始于2009年的《大公报》的一篇评论，以及凤凰卫视的一期《时事开讲》节目；但二者都没有能够给出史料来源。这个现象，一方面印证了笔者此前的搜索结论：2008年该段子才开始在网络上疯狂流传；另一方面，也证实了该段子除了网贴之外，确实没有可靠的原始出处。</p>
+<p><strong>１、凤凰卫视《时事开讲》节目中，何亮亮对该段子的真实性将信将疑</strong></p>
+<p>2009年2月17日，菲律宾国会立法，将中国的南沙群岛的部分岛礁和黄岩岛，划入了菲律宾岛屿的领海界线范围。该事件立即引起了海内外的强烈关注。凤凰卫视3月份的一期《时事开讲》节目中，嘉宾何亮亮引用了该段子，但对其真实性存疑。何亮亮说：</p>
+<p>“那么我注意到最近在网络上有这样的一段话在流传，是邓小平说的话，据说邓小平在1987年在北京会见了一个前来访问的前菲律宾总统。那么这位前菲律宾总统，他们在跟邓小平谈话的时候，他们就谈到了黄岩岛，中国叫做南沙群岛，黄岩岛是南沙群岛的一部分。菲律宾人把南沙群岛叫做斯普拉特利岛。那么这位前菲律宾总统说斯普拉特利岛是离菲律宾很近的，那么邓小平的反应就非常好，马上回了一句话说“菲律宾离中国也很近”。其实我们只要看一看地图就知道了，确实，南沙群岛离菲律宾是很近的。但是也同样确实的是菲律宾离中国也很近，但是我现在对邓小平有没有说这段话呢，是存疑的。因为很容易调查的，很容易做一个research研究，我查了在1987年这一年里面，邓小平没有接见过菲律宾的访客。而且1987年也没有一位所谓的前菲律宾总统访问中国。但是1988年的4月16号，邓小平接见了前来中国访问的菲律宾总统阿基诺夫人，阿基诺夫人我们知道她是一位女性，而且是一位华裔的女性的总统。但是从官方公布的邓小平和阿基诺夫人谈话来看，又没有这个内容。但是我觉得从谈话的风格来看，是很像邓小平说的话。……上个月香港的《大公报》刊登了一篇评论就援引了这段话，但是他没有说出处，但是我自己搜索的结果，就查不到邓小平曾经讲过这段话，当然也有可能邓小平讲过，而中国官方没有公布。”</p>
+<p><strong>２、何亮亮提到的《大公报》评论文章，只是简单的转载网贴，连最基本的查证工作都没做</strong></p>
+<p>《时事开讲》中提到——“上个月香港的《大公报》刊登了一篇评论就援引了这段话，但是他没有说出处”——编辑也查到了《大公报》这篇评论文章《菲律宾屡出阴招夺南沙岛屿 野心昭然》，该文章确实引用了“菲律宾离中国也很近”这个段子，但只是作为文章的引子，且没有给出任何出处，其原文如下：</p>
+<p>“1987年，菲律宾前总统访华拜会邓小平，谈到南沙主权问题时说：‘至少在地理上，那些岛屿离菲律宾更近。’邓小平抽了口烟，说：‘在地理上，菲律宾离中国也很近。’从此，南沙再无战事。”</p>
+<p>段子文字内容与前引2008年论坛里的段子完全一致。很显然，作者是在网络上看到了这个段子之后，写入自己的评论文章内作为文章引子的。原因很简单——正如何亮亮所说：1987年根本没有菲律宾总统访华，如果该作者所引另有可靠来源，决不至于将时间写成1987年——即便没有其他来源，哪怕去搜索查证一下，也很容易发现1987年没有任何一位菲律宾总统访华。值得一提的是：2009年4月2日，《南方都市报》以《大公报》的这则不靠谱的评论文章为原始来源，转载了该段子，编辑同样没有做最基本的查证工作，没有修正“1987年”这个荒唐的时间。</p>
+<p><strong>３、新华网、人民网刊发该段子，各大门户当作信史疯狂转播</strong></p>
+<p>09年之后，该段子因为缺失可靠史料来源，严肃媒体引用极少。但作为网络重要信息来源的人民网和新华网，则多次转载该段子。如2010年人民网转载的《“最中国”的9句外交语录》，其来源即注明“新华网”。这些转载无一例外没有给出任何史料来源，而各大门户商业网站及论坛、微博，则因此将这一段子当作信史疯狂转播。在这一转播过程中，原段子中的一大硬伤——1987没有菲律宾总统访华——也获得了“修正”，改成了：“1988年，菲律宾总统访华，……”</p>
+<p><strong>三、段子本身编造得非常粗陋，内容漏洞百出毫无可信度</strong></p>
+<p>这样一个在网络上流传了四、五年，从来没有人能够提供任何可靠的史料出处的段子，在2012年因为黄岩岛事件，再度被网友的爱国热情激活，其传播转入疯狂状态——这实在是一件很离谱的事情。因为这个段子本身，编造得非常地不负责任，本身就漏洞百出。</p>
+<p><strong>１、1987年没有菲律宾总统访华</strong></p>
+<p>这是个硬伤。现有史料非常清晰：1986年，菲律宾副总统劳雷尔曾经访华；1988年，菲律宾总统阿基诺夫人访华。劳雷尔与阿基诺夫人访华时都曾与邓小平有过会谈，但段子发生的时间——1987年——并没有菲律宾总统访华。</p>
+<p>这个硬伤在后来的传播过程中被修正了，“1987年”被改成了“1988年”，但修改时间并不能赋予该段子多少历史真实性。</p>
+<p><strong>２、段子内容与1986年菲律宾副总统访华并不契合</strong></p>
+<p>或许读者还会有这样的质疑：1、不是1988年，那么会不会是1986年菲律宾副总统劳雷尔访华时的事情呢？2、公开的会晤没有讲，不代表私下的会晤就不讲啊；3、……</p>
+<p>类似的质疑当然会无穷无尽。但只要了解两次菲律宾总统（副）访华的目的之所在，就很容易否定上述质疑——菲律宾对中国另有所求，不可能因为南沙问题将会晤气氛搞到如此之僵；中国方面当时也无意在南沙问题上采取强硬措施，邓小平在1986年和1988年的态度，都无一例外，是主张暂时搁置主权问题的。段子的编造者不了解这些历史背景，所以编造的段子既不符合菲律宾当时的外交心态（另有要事有求于中国），也不符合邓小平处理南沙问题的一贯思路（暂时搁置，共同开发）。</p>
+<p>菲律宾副总统劳雷尔访华的目的是什么呢？1986年，阿基诺政府刚刚取代之前统治菲律宾的共产党政府，新政府急需获得国际支持，尤其是需要获得中国的支持，换言之，也可以说是希望获得中国政府不再支持残存的菲律宾共产党势力的许诺。对此，劳雷尔在一次记者招待会上说得非常明白：</p>
+<p>“劳雷尔在一次记者招待会上说，邓小平今天上午‘明确地向我保证说，中国对菲律宾的政策是‘不干涉、不介入和不干预菲律宾的内政’。劳雷尔说，他要求中国人澄清他们对菲律宾共产党的立场。劳雷尔说：邓小平主席和赵紫阳总理都让我放心，他们说，中国共产党已经停止了，我再重复一遍，是已经停止了他们同菲律宾共产党的一切接触。劳雷尔说，中国人的这番讲话的结果是，菲律宾共产党将不能再把中国向它表示的任何友好的问候曲解成是鼓励它进行颠覆活动。”（据美联社北京1986年6月17日电，转引自新华社《参考资料》）</p>
+<p>取得中国政府不再支持菲律宾共产党的承诺，是劳雷尔此行的主要目标，次要目标则是与中方商谈贸易投资问题。美联社6月15日的报道曾透露劳雷尔访华将要与中国政府商谈的问题，只有上述两项，并没有提到南沙群岛的主权问题，可见这一事项根本就不在菲方的预设议题之内。会谈后来确实谈到了南沙群岛问题，但双方并没有做深入的商谈，劳雷尔在记者招待会上只提了一句：“邓小平说，目前并不需要马上解决两国有争议的南沙群岛问题，这些岛屿的主权问题最终总会得到解决。”由此可见：1986年的这次会谈，中方与菲方都无意根本解决南沙群岛问题，所以劳雷尔回国才会对媒体称他的中国之行“完全成功”；“菲律宾离中国也很近”这样的段子，与历史背景并不契合。</p>
+<p><strong>３、段子内容与1988年阿基诺夫人访华也不契合</strong></p>
+<p>1988年阿基诺夫人访华，最重要的议题是扩大两国经贸关系，“希望中国增加输入菲货”，以扭转其对华贸易逆差（据香港《新报》1988年4月15日社论）。但上年12月1日，菲方外交部曾公开发布题为《菲律宾认为卡拉延群岛不是世人所称的斯普拉特利群岛这一地理实体的组成部分》的公开文件，所以，南沙群岛问题是此行必然会讨论到的议题。</p>
+<p>但正如凤凰卫视《时事开讲》何亮亮所说，现有公开的史料中找不到“菲律宾离中国也很近”这个段子——“从官方公布的邓小平和阿基诺夫人谈话来看，又没有这个内容。”那么有没有可能该段子是未公开谈话的内容呢？</p>
+<p>其实也是不可能的。理由非常简单，阿基诺夫人是一位成熟的政治家，涉及两国领土主权，怎么可能将“至少在地理上，那些岛屿离菲律宾更近”这样荒唐的理由搬上台面呢？菲律宾难道没有别的理由来跟中方讨价还价，而只能搬出这种贻笑大方的蹩脚说辞？（这一理由同样适用于劳雷尔1986年访华，劳雷尔也是菲律宾政坛老手）</p>
+<p>菲律宾当日所坚持的立场是什么呢？可以参考菲外交部长劳尔·曼格拉普斯在1988年4月17日，也就是阿基诺夫人访华尚未结束时，对记者的公开谈话。谈话内容，据香港《南华早报》当年报道：</p>
+<p>“他（劳尔·曼格拉普斯）说，中国和菲律宾已同意在找到和平解决办法之前暂时将斯普拉特利群岛（编者注：这是西方对“南沙群岛”的通用称呼）问题‘搁置’起来。他们（中国）的立场是：他们出于历史上的原因对该群岛拥有主权。我们（菲律宾）的立场是：我们并不对该群岛的所有岛屿提有主权要求。他（劳尔·曼格拉普斯）说：‘我们只是说我们称为卡拉延（即‘自由’）的那些岛屿是属于我们的。我们在那里已经设立市政府，还有武装部队。’”</p>
+<p>笔者引用菲律宾外长当年这段讲话，当然并不是说笔者认可他的这些讲话内容。而只是想提醒一点：不要将菲律宾当局想象得那么弱智。为了和中国争夺南沙群岛（菲方说的是部分岛屿），菲律宾政府也是做了非常多的功课的，这功课，既包括历史层面的内容，也包括法约层面的内容，真不至于将“至少在地理上，那些岛屿离菲律宾更近”这样黔驴技穷的蛮不讲理搬上台面——虽然菲方确实讲过“卡拉延群岛”离吕宋岛很近，但并不是用距离来争夺主权，而是用距离来论证“卡拉延群岛”关系到菲律宾的国防安全。</p>
+<p>退一万步讲，即便菲律宾的总统们确实弱智到拿距离远近作为主权争夺依据的这种程度，但这样一个时间荒唐、人物不明、已经在网络和纸媒传播了四、五年却始终没有任何人能够查到它的史料来源的段子，又怎么能被当作信史呢？</p>
+<p>结语</p>
+<p>龟缩在虚假的历史段子里玩“意淫强国”，恐怕也没什么意思吧？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%9F%AD%E5%8F%B2%E8%AE%B0-%E5%AF%B9%E4%B8%8D%E8%B5%B7-%E9%82%93%E5%B0%8F%E5%B9%B3%E6%B2%A1%E8%AF%B4%E8%BF%87%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%A6%BB%E4%B8%AD%E5%9B%BD%E4%B9%9F%E5%BE%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%BA%A6/?category=18271" rel="tag">信度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E8%A3%81/?category=18271" rel="tag">制裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B2%E6%96%99/?category=18271" rel="tag">史料</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E6%B7%AB/?category=18271" rel="tag">意淫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E6%B7%AB%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">意淫强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%BC%8F%E6%B4%9E/?category=18271" rel="tag">漏洞</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%82%93%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">邓小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%BF%E5%9F%BA%E8%AF%BA%E5%A4%AB%E4%BA%BA/?category=18271" rel="tag">阿基诺夫人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%8E%8B%E4%BA%94%E5%9B%9B-%E4%BD%A0%E5%8F%AA%E6%9C%89%E5%9C%A8%E6%84%9A%E8%A0%A2%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8D%E6%98%AF%E7%9C%9F%E8%AF%9A%E7%9A%84/" target="cdt-mirror">王五四 | 你只有在愚蠢的时候才是真诚的</a>
 </h2>
 <p><p>天亮了，又是一个工作日，很多上班族都要早早起床去挤公交车，因为他们并没有收到老板的短信：昨天参与讨论南海问题辛苦了，今天放你半天假。很明显，老板眼里只有钱，而没有民族大义，你眼里只有民族大义，而没有钱，这个不难理解，毕竟赚钱这件事更难一些，而民族大义只需要转发一下朋友圈。没错，我是在讽刺你们这些口炮爱国者，真正关心南海问题的爱国者是不会睡觉的，更不会在乎第二天还要上班打卡这种事。自古以来，我就看不起那些嚷着“打台湾我捐一个月工资，打美国我捐一年工资”的人，毕竟你的工资太低了，低到都不够很多官员吃一顿饭的。要爱国，先要提高自己的收入，不然我都替你不好意思，或许你很真诚，但是显得自己很愚蠢。</p>
@@ -840,52 +942,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E5%B3%A1
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E8%B5%B5%E8%B6%8A%E8%83%9C%EF%BC%9A%E5%88%98%E5%B0%91%E5%A5%87%E4%B9%8B%E5%AD%90%E5%88%98%E6%BA%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%BA%E7%88%B6%E4%BC%B8%E5%86%A4/" target="cdt-mirror">法广｜赵越胜：刘少奇之子刘源为什么不为父伸冤？</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?resize=555%2C314" alt="lsq" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?w=1021 1021w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?resize=300%2C170 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/lsq.jpg?resize=768%2C435 768w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"></p>
-<p>问：刘源从总后勤部政委的位置上退下来，去了人大财政委员会，离开了军队。 以前曾有人推测习近平会重用他，担当军委纪检书记。 这事正巧发生在文革五十周年前，引起一些议论。 我们想听听你的看法。</p>
-<p>答：由于中共当局的禁令，对文革的反思显然没有深入下去，但我们还是见到了一些精彩的反思。文贯中先生在上海他的母校徐汇中学发表的讲话就极好。他号召那些文革中的施害者反思悔恨，却言词淳淳，没有一点怨恨，显出一派宽厚仁慈。贯中是我三十多年的老朋友，却从未向我讲述过他受过那样惨烈的苦难。读到他被打得遍体鳞伤，只有老婆婆一个人在家等他时，让人不能不落泪。而贯中讲话却是要“感谢”，甚至感谢他的“冤家对头”。但贯中的宽恕，是在分清是非，指出罪恶，号召忏悔前提下的宽恕。他感谢的是黑暗中人性的光辉。贯中最后鼓励我们“牢记文革教训，坚持做人的底线。他说：“只要我们默默地不配合黑暗势力的淫威，良知之光就能更快地战胜黑暗”。</p>
-<p>问：我完全同意文贯中先生的看法。 今天你提到刘源，我们知道，在文革中，他是受到最大冲击的人，后来，我们看到他的一些言论，是维护毛的，甚至对他父亲也有一些批评。</p>
-<p>答：这是一个很好的案例，可以让我们分析一下红二代这个群体现象。首先，红二代只是一个称谓，原则上不含褒贬。 现在老百姓反感这个词是因为活动在台面上的红二代实在不堪。我有许多“红二代”朋友，真是人品敦厚、虚心向学，对普世价值、人类文明大势了然于心，对共产体制的弊端和它的罪行持强烈的批判态度。只是这些人从不出头露面。其次，文革中受苦受难绝不意味着能自然而然地从理论和实践层面否定文革，进而否定造成文革这种民族灾难的制度。我注意过刘源的一些言论，文革刚结束时，他考入北京师范学院，据说也很不容易。在八十年代初校园民主运动中他可谓先锋人物，曾竞选人民代表。我记得他曾描述过文革中，“在几千个暗夜里，每小时我的心都流着血和泪。 我紧紧咬着牙，不使自己变疯。为什么，就是为了看到真理战胜邪恶的一天”。以他的身份，从贵为王子一下子沦为奴隶，我们能想见他的痛苦，也对此深表同情。 在当时的竞选会上，台下有人提问，他也说过很开放的话。他说：“多党制与社会主义并不矛盾，而且有好处，中国要民主，一定要民主，我愿意打冲锋，向封建势力宣战，与特权决裂”。这都是白纸黑字的记载。</p>
-<p>问：听了这些话，真有点吃惊。不能想象，他还有过这么开放的时候。</p>
-<p>答：你再看看他后来的言论。第一是为毛辩护，“有人说毛有罪，即便这样也只能算是渎职罪”。 他还打比方，说“中国是个大仓库，毛是负责看守仓库的库长，仓库失了火，库长没看好，当然应该受批评。但他跟四人帮不同，四人帮是到仓库里放火的”。你看看这见识，仿佛文化革命是四人帮发动的，毛没看住大门。毛自己都承认他这辈子就干了两件事，其中之一就是发动了文革。 再有，就是批评他爹：“文革虽然父亲一开始就靠了边，很快又被打倒，对文革损失似无什么责任。但作为国家主席，他没有制止这场动乱，这可以说是他的最大错误”。这话简直近乎混账，这就好比说：“我爹叫人杀了，但他没有制止住杀人犯杀他，所以这是他最大的错误”。刘少奇确实有错也有罪，但在列宁党国体制下，手上没血你根本不能存在。陀斯妥耶夫斯基有部名著叫《群魔》，专门描述了这种共谋关系。我称之为“血绳定律”。 但文革和刘之被整死，确实和他本人无关。或许这是他唯一一次无辜，他宝贝儿子还不依，连这次机会也不给他。太史公有言：“以污辱先人，亦何面目复上父母丘墓乎”。</p>
-<p>问：看你讲的他前后的变化，真判若两人。 为什么会这样呢？</p>
-<p>答：这可以有很多分析的角度。我看到有人说，刘源不为父伸冤而维护毛，是因为中国文化传统中有仁恕的传统。错，中国古来仁人志士为父报仇的多了。伍子胥报楚平王杀父之仇，“掘楚平王之墓，出其尸，鞭之三百”。 明末大儒黄宗羲，其父黄尊素为东林七君子，遭魏忠贤阉党迫害而死。 崇祯平天启冤案，黄宗羲上庭与阉党许显纯对质，袖藏利锥，当庭痛锥杀父仇人。 所以从中国文化传统角度替刘源辩解不大站得住。 相反，中国传统中倒有“不报杀父之仇是为不孝”的说法。 后来，我看到刘源在毛家后代婚宴上的讲话，“对我们毛刘两家，和则盛，斗则衰，合是正确，离是谬误，我们两家人，最起码应该做到，和而不斗，合而不离”。 我才明白刘源的精神资源，仍然局限在打江山、坐江山的水浒聚义厅水平，原来还真高看他了。</p>
-<p>问：看他的这个讲法，仍然是个家天下的框架。</p>
-<p>答：对，在一些红二代，尤其是当权的红二代心目中，中国的事不过是那些名门大姓之事，和老百姓无关。 所以刘源之替毛辩护就绝非“斯德哥尔摩综合症”所能解释，其政治学上的意义要远大于心理学。 其实，红二代掌权并非现在刚开始，在邓、陈世代就已经这么做了。 大家似乎忘了，李鹏是货真价实的红二代，江泽民，若从他养父江上清一系论，他也是红二代，至少是“新进门户”，陈云讲到权要交到自己孩子手里才放心。 他们这样考虑也这样做了。 这有点像东晋门阀政治，士族大户进入权力中枢，到了江李的后代掌权，门阀之势渐成。 象李小琳，一时权势炙手可热。 她前几年在开人大时，一身名牌，招摇过市，提议要给人建立“道德档案”，张狂无度，很有点“后来鞍马何逡巡，当轩下马入锦茵”的气势，国人皆曰可杀。</p>
-<p>现在红二代全面掌权，在宗族政治的结构下。 刘源的行为也好理解：“俺爹虽然打俺，但家还是要传给俺”。 这说明中共不是个现代意义上的政党，而有点像清末满族亲贵为挽救大清朝组织的宗社党，只是势力比宗社党大得太多了。 这点倒是中国特色。 因为在苏共垮台前，我们看不到红二代掌权的现象，勃列日涅夫的女婿也不过是个外贸部的副部长。 赫鲁晓夫的女婿阿朱别伊只是《真理报》的头儿。 斯大林的儿子至多是个中将，而且从未进入过权力核心，因为在俄国历史上没有过门阀政治的传统。</p>
-<p>问：我理解你说的门阀政治，就是由一些最有权势的家族主持政坛。</p>
-<p>答：简单说是这样，但我也只能说中共当下的价值取向有门阀政治的影子，也就是说一群非血亲关系的权势人物，因上一代的荫庇而形成左右政坛的政治势力。 他们彼此照应，彼此提携，看看习上台后红二代集会造势的劲头，还真有点这意思。 但是区别在于，门阀政治绝非贵族政治，因为门阀政治的特点是帝王垂拱，士族当权。 这点陈寅恪、田余庆先生有过精辟的论述。 门阀大族主持朝政，但要以皇权为中心，而贵族政治则是贵族与王权形成对立、制衡。 英国大宪章就是贵族与约翰王博弈的结果。 门阀政治绝不会产生新的政治结构。 但是你说中共制度一点现代因素没有也不对。 它在共产国际领导下，毕竟也要依样画葫芦，那就是列宁式党国制度。 这一点列宁在他创造的那一套所谓国家、政党、领袖相互关系学说中早已明定。 这个党必须以党的独裁领袖为核心，所以薄习斗绝不可能出现共主局面，只能是败者屈服于党的领袖。 可惜，说红二代像门阀大族也实在高抬了他们，看看东晋世代王谢大族，哪个不是才华绝代，出儒入玄，词章精妙，人格俊朗。 与之相比，红二代则猥琐太多。 所学所知不出中共教科书，加上些喝狼奶获得的野性，就能治国了。</p>
-<p>问：你的这个解释实际上指出中国现在的政治结构还有强烈的前现代色彩。</p>
-<p>答：对，所以看中国政治，几乎不用从亚里士多德的角度，甚至不用从马基雅维利的角度。 而宗族门阀传统倒不失为一个考察角度。 从这个角度看，刘源不为父伸冤，而为毛辩护就好理解了。 “刘毛两家”，这是他自己的用语，再斗的你死我活，归根到底是一家人。 号称“人民主权”的共和国，权力来源竟然和老百姓毫无关系，哥儿几个一捏咕就成了。 想想有点悲哀，中国政治之不长进，真让人无语。</p>
-<hr><p><small>© 反正我信了 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF%EF%BD%9C%E8%B5%B5%E8%B6%8A%E8%83%9C%EF%BC%9A%E5%88%98%E5%B0%91%E5%A5%87%E4%B9%8B%E5%AD%90%E5%88%98%E6%BA%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%BA%E7%88%B6%E4%BC%B8%E5%86%A4/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%98%E6%BA%90/?category=18271" rel="tag">刘源</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%88%91%E5%9B%BD%E5%AD%A6%E8%80%85%E4%BB%A5%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%91%BD%E5%90%8D%E4%B8%80%E7%94%B2%E8%99%AB%E6%96%B0%E7%A7%8D/" target="cdt-mirror">【真理部】我国学者以“习大大”命名一甲虫新种</a>
-</h2>
-<p><p>全网查删《虫研捷报：我国学者以“习大大”命名一甲虫新种》一文及有关信息。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<p>附：虫研捷报：我国学者以“习大大”命名一甲虫新种</p>
-<p>国际著名动物学期刊 Zootaxa 于6月17日在线发表了我国学者王成斌博士的论文 Rhyzodiastes (Temoana) xii sp. nov. (Coleoptera: Rhysodidae: Clinidiini), a new species from Hainan Island, China，文中描述了一个来自海南岛的甲虫新种— —习氏狼条脊甲 Rhyzodiastes (Temoana) xii</p>
-<p>条脊甲科Rhysodidae是一类小型甲虫，因为头部、胸部和鞘翅表面具有深沟和纵脊而得名，另外它们还具有念珠状的触角，颇为奇特。</p>
-<p>条脊甲生活在树皮下、腐木中，是一类少见的昆虫，全球已知约20属120种，我国已知约5属20种。条脊甲通常分布在热带地区，在东南亚和南美洲北部有丰富的种类。</p>
-<p>很多科学家都以自己尊敬的国家领导人的名字来命名自己发现的新物种，例如以美国总统奥巴马命名的一种蜘蛛 Aptostichus barackobamai 和以已故南非前领导人曼德拉命名的海蛞蝓 Mandelia mirocornata。但是，用我国领导人的名字来命名新物种，这还是头一次，王成斌博士在文中指出“The specific epithet is dedicated to Dr. Xi Jin-Ping, the President of the People’s Republic of China, for his leadership making our motherland stronger and stronger”（种名献给中华人民共 和国国家主席习近平，因为在他的领导下祖国越来越强大）。</p>
-<p>论文作者、现年32岁的王成斌博士来自四川邛崃，毕业于四川大学后，师从华中农大雷朝亮教授，从事金龟分类学和蚊虫感觉生理学研究。后考入中科院动物所，师从周红章研究员，从事球蕈甲科分类学研究。他现在正在捷克从事博士后工作。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?resize=400%2C617" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?resize=195%2C300 195w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%88%91%E5%9B%BD%E5%AD%A6%E8%80%85%E4%BB%A5%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%91%BD%E5%90%8D%E4%B8%80%E7%94%B2%E8%99%AB%E6%96%B0%E7%A7%8D/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B2%E8%99%AB/?category=18271" rel="tag">甲虫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -897,7 +953,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dgyqr055mfays.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -907,5 +963,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7
                 <td></td>
                 
         
-        <td><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

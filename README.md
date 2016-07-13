@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,145 @@
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-11-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 7-12</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnM7GcEWAAA3omb.jpg?resize=450%2C486" alt="CnM7GcEWAAA3omb" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnM7GcEWAAA3omb.jpg?w=698 698w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnM7GcEWAAA3omb.jpg?resize=278%2C300 278w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>@Pstrey：感觉身边好多人都被植入了什么程序似的，平时好好的一个人，一遇到这些破事就发作，看一群人整齐有序地发作也是挺壮观。</p>
+<p>@MyDF：“南海若有战事，祖国征召，你去不去？”“我去！”#中文八级考试</p>
+<p>@Fatal1tyV：抽抽中南海的烟就行了，就别操中南海的心了……</p>
+<p>@williamlong：九段线如果指的是国界线或领海线的话，的确难以获得国际认同，如果指的是线内岛屿主权，又有些太吃亏，如果指的是专属经济区，和其它国家的又重叠。故意模糊九段线的概念，想利益最大化，最终可能反而弄巧成拙，得到的是最小化的利益。</p>
+<p>@renfanzi：有外国旁友问我国军中有没有少壮派，我想了想，说应该是有的，我自己就见过，三十来岁，已经喝到肝硬化了。</p>
+<p>@网易网友：这次大陆，民意空前统一，毛左、极左、左派、右派、苏狗、美狗、汉奸、卖国贼、自由派、推墙派、自干五、山巅派、死磕派、观望派、无所谓派、公知精英派等，一致认为：必须开战，尽快开战，不打是孙子。 打赢了美国就是我们的，打输了我们就是美国的。输赢以后留学费，签证费，移民费…都省了。</p>
+<p>@teacofeewine：国际仲裁结果跟百姓没啥关系！百姓有半寸土地所有权吗？住好好的家都拆你没商量，自己的血汗钱都抢走不解释。百姓就是百姓，赵姓毕竟是赵姓。</p>
+<p>@freya_atom：感觉淘宝上那些本来就卖假菲律宾芒果干的店主，纷纷跳出来爱国，把自己的产地招出来了。</p>
+<p>@MyDF：我党被称为“土共”有两层意思，一层是土气，另一层是土匪，注定与文明格格不入。和土共一样，中国人的民族性格中也缺乏契约精神，在乎变通，在乎兵不厌诈。经过改革开放30年，发展私营企业，吸引外资，正是凭借“契约精神”，中国经济才得与现代文明接轨。如今，一纸“南海仲裁”，全都现了原形。</p>
+<p>@梁惠王：昨晚听说南海要打仗了，现在打了没有？打了没有？我人民解放军英勇无敌，南海一群小丑，不堪一击，犯我强汉者，虽远必诛。据说南海岛屿密如繁星，打下来，每五十家分一个，开发旅游，吸引夷人来玩，掏空他们的腰包，家家挣得盆满钵满，让一部分人先富起来，现在终于可以走向全民富裕啦。人民万岁！</p>
+<p>@shmyd： 问：菲律宾南海仲裁庭作出非法无效裁决，中方作出哪“三不”声明？宽带山网友：不主动，不负责，不拒绝。</p>
+<p>@laoka01：菲：咱坐下来谈谈南海划地盘的问题吧？中：自古以来…菲：不谈？那打一架吧谁赢归谁？中：自古以来…菲：谈又不谈打又不打，那去海牙仲裁喽。中：自古以来…菲：哈哈哈…看到仲裁结果没？去你大爷的九段线。中：自古以来…菲：日哦，这特么哪来的傻逼啊翻来覆去就这一句。中：自古以来…</p>
+<p>@ld0905： 经济危机到来的时候，强化民族情绪，塑造外敌入侵的危机感，众志成城，吃糠咽菜，背负屈辱和使命，这些东西都跟好莱坞电影生产流水线一样驾轻就熟。#潮水褪去方知道谁没穿裤衩</p>
+<p>@ichimaru0223：一般无视或撕毁国际性公约或是仲裁这事，算是走上战败国之路的第一步吧。 #我历史不好你们不要喷我</p>
+<p>@as50as：@戴旭：对所谓的南海仲裁，最大的蔑视是不理睬。所以，建议中国的官方媒体，淡化这一事件。口诛笔伐的事，交给爱国网络义勇军就行了 。评论：主张战争的戴旭都变怂样了，大家安歇吧，打不起来的，爱国口炮已经最好准备，开始轰炸美国菲律宾网络了，请做好防范准备，避免无辜被伤，推特会是战场吗？</p>
+<p>@pufei：思前想后一晚上，南海仲裁对我方不利主要是有司没有把菲律宾的律师给绑了，要早绑了哪里有今天这种局面？</p>
+<p>@szstupidcool：关于南海之金句：自己约的炮，含着泪也得打完。</p>
+<p>@hnjhj：习近平总书记动情地说：“南海诸岛是中国自古以来不可分割的领土。众所周知，以我名字命名的臭虫就长期生活在那里，至今已经8亿年。”</p>
+<p>@lyw729：我就问一个问题：我深套的军工股有没有机会解套。</p>
+<p>@shangguanluan：我一直单方面宣称吴彦祖是我老公，即使他每天都跟他老婆啪啪，今天他老婆还在街道办宣布了吴彦祖是她老公，但是也等于零，我不承认不接受不参与！</p>
+<p>@Vela1680：爱国青年来到街上，发现菲律宾不出汽车，没得砸，怎么办，还是砸日本车吧。</p>
+<p>@buchimifan：我尊敬的红色二代三代四代们，是时候了，麻烦你们从美女床上爬下来，麻烦你们从豪车里面走出来，麻烦你们从巴黎东京或纽约赶回来——红色江山代代传，寸土必争上战场，就看你们的了。你们出征，我们洒泪送行。你们凯旋，我们对酒当歌。你们牺牲，我们世代不忘。</p>
+<p>@liushui1989：南海对中国当权者从来都是面子问题，历来就不是国家主权和利益问题。别说美国等西方介入和海牙法庭判决，就是一个越南联合印尼、菲律宾挑衅中国，中国也不敢动刀动枪。官方有意无意，发文透露召回退伍海军士兵、北京进入”战备状态“信息，自我壮胆，虚张声势而已。</p>
+<p>@PiaDoE：南海的历史性证据，主要是渔民世世代代捕捞的传统生产证据。还有就是在诸岛上发现了很多中国人生活过的证据，什么铜钱、船具、水井、房屋等等。可是这些证据，在现代国际法上的意义已经越来越小。想想也是，这些依据如果可以算数，那我们的海洋国土可以一直拓展到暹罗湾。</p>
+<p>@平壤崔承浩：在网络上，你们已经打赢了南海的战争，不过我觉得南海归属谁，对你们大多数人意义有多大呢？就算南海属于你的了，该拆迁的房子还是要拆迁的，该上街被打死还是要被打死的，要倒闭的企业也不会因此而改变现状，西凉的孩子同样没有午餐，南非被援助无处放的粮食还是会被卖掉，所以，洗洗睡吧。</p>
+<p>@Suyutong：自古以来太阳就是中国的，《山海经》、《书·尧典》、《十州记》、《淮南子》、《天问》等传说为证。太阳最早的管理者是后羿，后羿为最早的中共党员之一，其它国家否认不了这个事实，国际法庭也仲裁不了。美国对太阳系行星的探索已侵犯了我国主权，我们绝不答应。中共决定即日到太阳系去演习。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnK22V4UkAEps7U.jpg?resize=450%2C622" alt="CnK22V4UkAEps7U" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnK22V4UkAEps7U.jpg?w=868 868w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnK22V4UkAEps7U.jpg?resize=217%2C300 217w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnK22V4UkAEps7U.jpg?resize=768%2C1062 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnK22V4UkAEps7U.jpg?resize=741%2C1024 741w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>@duqin64：岂止国际法庭仲裁是张废纸，对某些迷信“法律不是挡箭牌”的人来说，《中华人民共和国宪法》和《联合国人权公约》何尝不是废纸？对709抓捕律师案的制造者来说，《刑法》和《刑事诉讼法》何尝不是废纸？所有的文明规范皆可违反，皆可形同废纸，只有手中的权力地位金钱和文工团美女才是真东西。</p>
+<p>@wangxy1：党的军队终于硬起来了，他们不是只会打嘴仗的，不是传说中“内战内行、外战外行”。如今的海军不是北洋水师，中央政府也不是腐朽的晚清；慈禧尚有勇气同时向西方11国宣战，习主席岂不如一女流！强烈呼吁，向列强宣战，收复南海，收复藏南，收复钓鱼岛，收复外蒙古，收复海参崴……</p>
+<p>@eighty_cent：用刘仲敬的话说，一旦谈到“自古以来”“神圣不可侵犯”这类的词的时候，就是老鼠跳上了餐桌的征兆。所有的规则在这种逻辑面前都是无效的。</p>
+<p>@bitinn：对于国际主义者而言领土纠纷都是可悲的事情，不要问我支持谁。这么他妈一点大的星球，这么他妈一点长度的生命，就浪费在这种事情上了。</p>
+<p>@wangxy1：萨德来了，汉奸、带路党们很兴奋，纷纷学英语日语，“this way”，“太君，村干部这边滴干活”。这让爱国贼们非常悲愤。哈哈哈</p>
+<p>@jiangshan：让PokemonGo弄个神兽放南海，谁抓到领海算谁的。#吾有一计</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-11-2/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E4%BA%BA%E9%97%B4-%E8%AF%B7%E9%85%8D%E5%90%88%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C-%E4%BA%A4%E5%87%BA%E5%B7%A5%E5%8E%82/" target="cdt-mirror">网易人间 | 请配合政府工作 交出工厂</a>
+</h2>
+<p><blockquote><p>受土地流转政策变动之苦的企业曾集体上书区政府，对此，柯城区政府书面回应称，“政府政策调整存在大量的不确定性”，“建议企业通过市场化办法自主走出困境”。</p></blockquote>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640FXCQKJA5.jpg?resize=540%2C360" alt="《半泽直树》剧照" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640FXCQKJA5.jpg?w=540 540w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640FXCQKJA5.jpg?resize=300%2C200 300w" sizes="(max-width: 540px) 100vw, 540px" data-recalc-dims="1"><p>《半泽直树》剧照</p></div>
+<p>73岁的民营企业家单金浩于2015年8月1日凌晨两点，自缢于自己早已废弃的工厂内。在此之前，他已经为工厂的脱困奔走四年多，到最后也没有等到黎明到来的那一天。</p>
+<p>他曾寄望于通过自己激烈的方式，换回一个公正的结果。然而事实却和这个时代里面大多数的悲剧一样，被淹没于喧嚣众声之中，像一棵深林中因朽坏倒下的树一样。</p>
+<p>这一声轰隆巨响只针对他的家族，对于外界，他不过是“一个执拗的老头自杀”罢了。</p>
+<p>1</p>
+<p>2015年7月31日周五，中午的时候，衢州双港开发区孙主任找到了单金浩，说，法院驳回了他们的上诉。</p>
+<p>之前的一个月，解放军某部一直驻扎在天杭工厂里面，最后一天了，部队的人还没有完全撤完。听完消息，单金浩没作声。他说，等一等，等部队全部走完再说。</p>
+<p>孙主任劝慰了他几句。这几年，他一直看着单金浩为工厂奔走挣扎，觉得颇为同情，但也没什么确实有效的对策。他下完通知就走了。小陈就在边上，发现单金浩情绪不高，但他没看出更多。</p>
+<p>小陈是天杭工厂的办公室秘书。他生于1985年，皮肤黝黑，带着一副细黑框眼镜，看起来温和而敦厚。他是衢州本地人，跟着单金浩时间最长。天杭停产后，财务十分困难，小陈有一段时间没拿到钱，但他一直没离开。</p>
+<p>那天单金浩忽然问小陈，跟自己多少年了。小陈说，好几年了吧。他坚持让小陈在一张纸上签字，小陈说，“做什么呢这是？”单说，“（工厂）事情没完没了，签个字有点保障。以后工资还是得发你。”</p>
+<p>经历了漫长的停产，天杭的几个木材加工车间和职工宿舍已经积满了灰尘。厂子荒废起来之后，单金浩觉得有些可惜，陆陆续续地在原先打算建二期的土地上种起了杨树，有些没顾及到的地方则长出了杂草。</p>
+<p>七月底的衢州，天气在38度高温左右徘徊，暑热难消。因草木缘故，蚊蝇众多，单金浩的办公大楼连纱窗也没有，除了关窗打空调，没有别的办法。他常年住的西屋空调早坏了，一直滴水，只剩下东屋空调还能用。部队来了之后，东屋让给首长住，现在部队撤走了，东屋也空了出来。于是小陈走之前，把单金浩的被褥搬到了东边。</p>
+<p>● ● ●</p>
+<p>孙走了之后，单金浩坚持送了两批客人，但等到第三批走的时候，单金浩没能再下楼。仿佛一场喜宴到了尾声，再也没有气力。他一个人在楼上，给妻子应桂秋连续打了三个电话。</p>
+<p>应桂秋比单金浩小6岁，但也67了。单金浩打过来的时候，应桂秋在忙着带孙子。这几年单家经济每况愈下，应桂秋除了种菜，还得给二儿子搭手带小孩。她有些照应不过来，所以听到单金浩在电话里叫她“多保重”，口气便有些不耐烦：“老夫老妻了，这么虚伪做什么？”</p>
+<p>没两分钟，单金浩又给应桂秋打了过来，说的还是同样的话：“你保重。”应桂秋猜测单金浩大概是因为孤独。她本来想下周二过去，把一些菜带到衢州去，但是单金浩提到了破产的事情，她改了主意，口气也软了下来：“要么我周六周日回来？陪陪你也好。”</p>
+<p>单金浩表示算了，他笑说：“你陪？算了吧。周一回来就好了。”他想了想，又说，“还是周二吧。”</p>
+<p>如今应桂秋回忆起这件事情十分后悔。她没想到那是丈夫的最后一个电话——“我一点预兆也没有。”</p>
+<p>一整个下午，单金浩给家人打了一圈电话，包括大儿子单翔与二儿子单翊。而单翔回忆起父亲给自己的最后一个电话，同样没有征兆——单金浩只是事无巨细地问了一遍大孙子去北京报到读书的情况，问报名表填了没有，“报到手册呢？准备了吗？”单翔答，“都弄好了”。</p>
+<p>小陈母亲那两天在住院，因为已经到了周五，小陈打算提前走，给母亲送点饭过去，想起单金浩接下来的饭还没着落，便问要不要给他带盒饭。单金浩说，算了，自己到时候有什么吃点什么，不用麻烦了。</p>
+<p>“他不会做饭”，小陈说，“他煮面的时候，电饭锅里面水都没开，面就给放进去了。”小陈说起这个事情有些好笑，“水都没开，你怎么就把面给放进去了？”</p>
+<p>不会做饭的单金浩只能囫囵吞枣式地过完一餐又一餐。</p>
+<p>从办厂到现在，工厂就已经是单金浩的家。他吃住都在厂里面。一米多的办公桌上全是其漏夜办公磨损出来的痕迹，办公室和卧室之间只有一门相隔。卧室里放着一张年代久远的木床，床上堆着分不出原来颜色的旧被褥。房间高而无当，胡乱地挂着电线，电线上落满灰。原先的白墙壁上全部是大小水渍，再靠外的，也只是长霉。</p>
+<p>而单金浩捉襟见肘的晚年，在这间破败的工厂里一览无余：它的居住条件甚至比不上一个乡村养老院。</p>
+<p>2</p>
+<p>这家人造板工厂建于2002年。上世纪七十年代，单金浩退伍之后，曾在物资局做了一段时间采购，随后他在杭州笕桥一带开了天杭不锈钢厂。他的营商天赋得以展现，天杭不锈钢成为宝钢最大的浙江代理商之一。</p>
+<p>2002年，衢州市政府来杭州招商，并给出了十分优渥的政策。商榷之后，单金浩决定举家前往衢州二度创业，开办人造板厂，依旧沿用天杭的名字。</p>
+<p>如今衢州双港经济开发区已经工厂连片，如荷叶田田，但据应桂秋回忆，刚刚过来的时候，水电都没通，161亩工地，只能靠夫妇俩牵线引水，才渐有起色。</p>
+<p>2003年之后，天杭人造板的生意开始进入正轨，这种佳境一直持续到了2011年之前。这一年，事情发生了截然不同的变化——工厂关停了。</p>
+<p>关于工厂关停的原因，区政府和单家各有说辞。单家回忆称，当时因为开发区规划建立综合服务中心，天杭公司被划为规划地块，柯城区领导曾口头表述了收储的意愿，要求他们停产，以配合工作。</p>
+<p>从单家提供的一份文件来看，2011年8月至11月期间，柯城区政府委托衢州市华创房地产评估有限公司对天杭公司进行资产评估，并给出8000多万元的评估价格，这被单家视为是官方层面的默认。</p>
+<p>但区政府却认为，天杭工厂，和公安驾校、东港八路西侧以及杨梅岗潘家垄水库地块三处一样，只是备选区块之一。</p>
+<p>而此时，天杭正受困于内外部愈加糟糕的经济环境，从2010年开始，无数像天杭一样处于制造业底部的民企步履蹒跚，被时代洪流悉数淘下。</p>
+<p>无论原因如何，结果却是一致的：经过多方权衡之后，综合服务中心最后落址公安驾校。但此时，单金浩却已卖掉了设备，关停了工厂，并且举债400万遣散了工人，“以配合政府工作”。</p>
+<p>闲置的161亩土地成为了单金浩难纾的心病——受停产影响，等待收储的一年多时间里，为了偿还此前的债务和利息，天杭的财务缺口一直在不断扩大，除去大量的银行贷款，还包括了数额激增的民间高利贷。</p>
+<p>不断高企的债务，给单家带来了极大的负担，单金浩只能求助于地方政府，要求予以援助，土地流转再度启动。</p>
+<p>2012年9月，单金浩再度提交收储申请，并备齐了收储申请材料，但并没有进入程序即被叫停，天杭庞杂的债务问题让主事者们望而却步。柯城区政府要求天杭首先处理好债务问题，再实行竞拍程序。不过当时，天杭深陷债务漩涡，难以独力抽身，流转一事再度宣告失败。</p>
+<p>在这四年半的时间里面，单金浩为工厂土地回收一事奔走不休，寻找自救和被救的途径，但却一再循环往复，原地徘徊。有几次他曾以为曙光乍现，长夜将近，但事实是，白昼却并未真的到来。</p>
+<p>7月17日写给省委第一巡视组的信件成为单金浩生前的最后一博，但比巡视组回应更早等来的，是区法院的破产通知。<br>
+3</p>
+<p>工厂衰败之后，家人们纷纷离开衢州，只有单金浩一人选择独守。因为心情郁结，这四年半的时间里，单金浩饭吃得少，酒喝得多，沿着办公室墙壁放着的一排1升装空的塑料白酒壶，成了他凄凉晚景中的唯一慰藉。</p>
+<p>部队驻扎工厂的7月，是单金浩在最后的时间中，难得展颜的一段时光：他打饭排在第二个，年轻的警卫员叫他“爷爷”，他终于得以捡拾起久违的尊严。</p>
+<p>而部队的离开，将锈迹斑斑的真相再度推到了他的面前。</p>
+<p>8月1号，凌晨2点20分，73岁的单金浩写完了遗书，把用了多年的拐杖放在桌子边上，用眼镜压在遗书上，以防止被风吹走，旁边放了仅有的一千块钱。然后他把遗书的电子版发在了战友群里面，走进浴室，将自己缢死在了东侧的盥洗室里。</p>
+<p>单金浩关系最好的也是一帮老战友。他们总在QQ群里追忆往事，谈论“今非昔比”。那天凌晨四点多，出于一种奇怪的预兆，战友朱复生忽然醒了，看到群里消息后，他赶紧打电话给赵子龙。</p>
+<p>赵比单小一岁，从部队开始，便是单金浩最亲密的朋友。赵子龙打给单金浩的电话没有人接，他只能打给了单翔，又叫了救护车。但等到单家赶到衢州，已经是第二天早晨十点，救护人员刚刚从办公楼里出来，说人没了，直接往殡仪馆送。</p>
+<p>单家对这一变故十分愕然。</p>
+<p>2013年的时候，为了工厂的事情，单金浩曾经说过要跳楼，当时还写了一封绝笔信。不过已经过去两年多，大家也并没有往心里去。</p>
+<p>单金浩出事之后，大家把这件事情重新记了起来。</p>
+<p>2015年8月中旬，单金浩的工厂里面堆满了吊唁的花圈，从门口的路一直延伸到办公楼，几个老战友在给单金浩守灵，单金浩黑白遗照就放在一楼中央。这张有些模糊的照片截取自他从前的一张会议照片，“那时候还年轻，面色好看一点。”应桂秋说。</p>
+<p>东侧洗手间是他自缢的地点，地上仍留有全然干透的血渍。遗体移走之后，应桂秋曾经一个人擦拭血渍。如今她再度蹲下身，抚摸点状的血渍，跟我说，“那时候摸起来手心刺痛得很”。仿佛这痛苦真切有质，历历在目。</p>
+<p>单金浩把工厂迁址视为人生最大的失误。他曾经天真地寄望死亡能够带来家人命运的改变，此前，在给领导的一封汇报信件里面，单金浩曾经称自己“来日无多，死不足惜”，“只愿意求得一个公正的结果”，他不无悲哀地写道，“民营企业家在政府面前，是软弱无力的。”</p>
+<p>但事实是，他的死，和这个时代里面大多数的悲剧一样，被淹没于喧嚣众声之中，像一棵深林中因朽坏倒下的树一样。这一声轰隆巨响只针对他的家族，对于外界，只是“一个执拗的老头自杀”罢了。</p>
+<p>4</p>
+<p>2015年8月10号，单金浩长子单翔到报社找我的同事，询问这件事情有没有报道可能。8月20日，我打算跑一趟衢州，结果中途下错了站，单翔电话里面说，要么他直接开到金华车站来接我。</p>
+<p>单翔身形高大，平头，宽脸浓眉。因过度操劳，四十出头年纪，头发却已经有些发白。出了站台后，我看到一辆旧沃尔沃，他在车里挥手示意。</p>
+<p>他说，从前父亲在这里当兵，地方还算熟悉，但是那天路堵得十分厉害，我们一直在金华市区里面不停开错路，又遇到高速堵车，计划十点到衢州，结果十二点多才勉强到达。</p>
+<p>他陪我去了一趟政府，但我们只见到一个办公室秘书，实质性的内容没有问到太多。单翔堵住了母亲的一些猜测，“没有根据的话我们不要乱说”。</p>
+<p>采访单家工厂回来，衢州到杭州的路上天色很阴。单翔在途中接了两个电话，此后默然无声。单金浩离世后，遗体被送至殡仪馆，只有单翔见过父亲的遗容，“那个样子……很难叫人接受”，他对我说，“晚上闭上眼睛，就是他的样子。”</p>
+<p>“我后来想想，他做这事儿的时候，脑子是很清楚的”，单翔说，“他连丧葬费都准备好了。”</p>
+<p>在父亲去世之后，单翔曾仔细察看了那一条颓败了颜色的红色棉绳，而后，忽然痛苦地说：“那个绳子，是我用来扎被褥的绳子。”</p>
+<p>单金浩自缢57天之后， 也就是9月26日中午，单翔也走了。</p>
+<p>本来单家约好了当天中午一起协商下一步该怎么办。但是当天11点，单翊给单翔打了三个电话，却一个也没被接到。单翊有些紧张，即刻赶到单翔家里面，发现他已经独自在沙发上停止了呼吸，唯独电视机还开着。</p>
+<p>送完儿子赴北京读书之后，单翔一直独居于杭州城西的旧所之内。他之前曾经为单金浩自杀一事找过地方政府，希望破产因此暂缓，或者至少能够保留唯一的一幢房屋，以供家人安身。不过后来他跟朋友黄福祥电话时又说，儿子读书没钱了，大学学费还是筹来的，可能还是得把房子卖掉。</p>
+<p>单翊学过一点急救知识，他做了15分钟心肺复苏，自己也觉得没什么希望。11点半左右，急救车终于赶到，11点53分，单翔被送往位于古墩路的绿城心血管医院，在抢救室，医生正式宣告了他的死亡。</p>
+<p>负责抢救的是医生廖新民，他回忆单翔死于心肌梗塞，“来的时候已经没有脉搏”，心梗的原因很复杂，他对我说，除非解剖，谁也不知道。</p>
+<p>单家并不想再探究单翔死亡的原因。他们悲怆地接受了这个事实。单翔被换下的衣衫就散乱堆在抢救室床下，他躺在最里面的床铺上，头发已经全白。蓝色的帘子给挡开了，家人已经给他换上了一套米白色西装，死亡让一个人变得轻薄，并且改变了他的容貌。他还有一条藏蓝白点的领带，这条领带在苍白的抢救室里面，和单家人的哭泣声一样，看起来尤为鲜明和不合时宜。应桂秋摸着大儿子的肩膀，仿佛他还在生一样。</p>
+<p>● ● ●</p>
+<p>去世前最后见到单翔的大概是阿华，单翊的妻子，她记得当时见到单翔独自在屋里看电视。这个姿势保持到了他去世之前。</p>
+<p>单翔大约是父亲自尽事件中，背负最大压力的人。</p>
+<p>之前因为经营琐事，单翔一度和父亲起了争执，为此他独自负气跑到杭州重新做起了不锈钢生意。</p>
+<p>他认为这也是导致天杭陷入绝境的主要原因——因为他的离开，年迈而耿直的父亲没有能够和地方政府打好关系。这种猜测使得他十分自责。还有其他的一些假设，比如，如果他早一点赶到的话，如果他们在电话里面，听出单金浩赴死的意愿，如果他不是让父亲一个人留驻工厂……</p>
+<p>这些“如果”都没有了可能性。如果只对于生者而言，对于死者，一切都是定局。</p>
+<p>5</p>
+<p>单家并非独受土地流转政策变动之苦的企业。此前，十多家开发区内企业曾对此集体上书区政府，对此，柯城区政府书面回应称，“政府政策调整存在大量的不确定性”，“建议企业通过市场化办法自主走出困境”。</p>
+<p>单家收到了措辞一样的通知。在单家灵堂前，单翔曾仔细翻看这张通知单，发现和自己收到的那封如出一辙，不免哑然失笑。</p>
+<p>两个月之后，单翔猝然离世。</p>
+<p>2015年9月中旬，天杭公司被法院强制接手，并且委托给杭州金杜律师事务所接管。曾经的花圈已经悉数被撤去，了无痕迹。</p>
+<p>小陈手机里面有一段单金浩最后的视频。那是7月31日的早上，单金浩穿着一件浅蓝底白细格睡衣睡裤，手背在后面，和小陈沿着工厂慢慢散步。工改商四年半的时间里，单金浩已经头发雪白，步履蹒跚，小陈用自己的苹果手机拍下来他走路的背影。意识到小陈在拍自己，单金浩转过身，停下来直视着镜头。</p>
+<p>这成为单金浩留给世间的最后一瞥。</p>
+<p>只有大门进口的企业宣传海报永远停留在了2011年。海报上，单金浩戴着一顶安全帽，带着工人在做消防演习，还有一张小陈当年的入党积极分子通知。虽然隔着玻璃，但海报也没有能够抵挡得过风尘的侵蚀，这使得它看起来不像一个海报，而更像一个陈年而凄惶的印记而已。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BD%91%E6%98%93%E4%BA%BA%E9%97%B4-%E8%AF%B7%E9%85%8D%E5%90%88%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C-%E4%BA%A4%E5%87%BA%E5%B7%A5%E5%8E%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7/?category=18271" rel="tag">不确定性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%81%E4%B8%9A%E5%AE%B6/?category=18271" rel="tag">企业家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E9%80%A0%E4%B8%9A/?category=18271" rel="tag">制造业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E5%9C%B0%E6%B5%81%E8%BD%AC%E6%94%BF%E7%AD%96/?category=18271" rel="tag">土地流转政策</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A9%E6%9D%AD%E5%85%AC%E5%8F%B8/?category=18271" rel="tag">天杭公司</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%82%E5%9C%BA%E5%8C%96/?category=18271" rel="tag">市场化</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%82%B2%E5%89%A7/?category=18271" rel="tag">悲剧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%90%A5%E4%BC%81%E4%B8%9A/?category=18271" rel="tag">民营企业</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B1%82%E5%8A%A9/?category=18271" rel="tag">求助</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%EF%BC%9A/" target="cdt-mirror">北京大学：北大保卫部关于“菲律宾南海仲裁案”的内部通知</a>
 </h2>
 <p><p>【北京大学】全校各单位：今天下午国际海洋法院临时仲裁庭将对“菲律宾南海仲裁案”实施裁决，我国对仲裁案持不接受不参与立场。为了在南海问题的斗争中，做到理性、合法、有序，防止出现大规模聚集、游行甚至过激行为，昨日市委教育工委召开首都高校会议，我校安全稳定一线工作领导小组亦及时研讨，要求把广大师生的思想统一到中央会议精神上来，做到不乱阵脚、理性斗争，不聚集示威，不走出校园参与社会可能的游行活动，也要防止社会别有用心人员混入校内挑唆闹事。学校确定今天起特别是今天明天后天启动“战时维稳机制”和“每日报告制度”，深入细致地做好师生的思想工作和正面引导工作，同时抓好校门楼门宿舍门管控等校园综合防控，确保校园安全稳定。北京大学保卫部[北大保卫部]</p>
@@ -799,38 +935,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E8%B0%83%E6%9F%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BD%A2%E5%B7%A5%E4%BA%8B%E4%BB%B6%E6%95%B0%E9%87%8F%E7%BB%A7%E7%BB%AD%E4%B8%8A%E5%8D%87/" target="cdt-mirror">德国之声 | 调查：中国罢工事件数量继续上升</a>
-</h2>
-<p><p><strong>总部在香港的非政府组织”中国劳工通讯”（CLB）近日公布的调查显示，2016年上半年，中国的罢工活动有增无减。尤其是交通系统的罢工数量飚升。</strong></p>
-<p>（德国之声中文网）”中国劳工通讯”在其网站发布的最新报告指出，尽管有些迹象表明，中国经济正趋于稳定，不过各地劳资纠纷现象继续增加。多个产业都出现了针对不公待遇的罢工和抗议活动。</p>
-<p>从统计数字来看，今年前6个月，中国平均一天出现了8场抗议。”中国劳工通讯”的罢工数据地图显示，引起员工不满举行抗议的原因大多是拖欠工资、企业倒闭和社会保险。总体来看，2016年上半年共出现了1454起抗议事件，比去年同期数字高出18.6%。</p>
-<p>其中值得注意的是，交通系统的罢工出现陡升，今年前半年的数字为205起，去年同期数字为127起。其主要原因是传统出租司机对软件专车影响生计感到不安。</p>
-<p>《纽约时报》文章指出，虽然出租车罢运在中国并非是什么新鲜事，但全国各地纷纷效仿的现象突显了社交媒体的组织能力，给基本不能容忍劳工骚动的政府带来挑战。随着工人抗议活动变得日益频繁、浩大而严密，国家安全部门收紧了控制。去年年末，当局逮捕了中国著名的劳动活动组织者曾飞洋，罪名是”聚众扰乱社会秩序”。</p>
-<p>“中国劳工通讯”指出，在未来，工人举行罢工的更大焦点可能是越来越重要的零售和服务行业。这些部门的许多员工并没有正式合同或是社会保险，他们的工作时间往往过长，并且在工资和工作条件方面可能会突然发生变化。例如沃尔玛工人罢工。《联合新闻网》消息，由于不满推行的综合工时制，中国几个城市的沃尔玛门市店的一些员工在近日进行了短暂罢工，员工质疑新规定为变相降薪。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E8%B0%83%E6%9F%A5%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%BD%A2%E5%B7%A5%E4%BA%8B%E4%BB%B6%E6%95%B0%E9%87%8F%E7%BB%A7%E7%BB%AD%E4%B8%8A%E5%8D%87/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%8A%B3%E5%B7%A5/?category=18271" rel="tag">中国劳工</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8A%B3%E8%B5%84%E7%BA%A0%E7%BA%B7/?category=18271" rel="tag">劳资纠纷</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8/?category=18271" rel="tag">抗议活动</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A7%A9%E5%BA%8F/?category=18271" rel="tag">社会秩序</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%A2%E5%B7%A5/?category=18271" rel="tag">罢工</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%99%AB%E7%A0%94%E6%8D%B7%E6%8A%A5%EF%BC%9A%E6%88%91%E5%9B%BD%E5%AD%A6%E8%80%85%E4%BB%A5%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%91%BD/" target="cdt-mirror">【异闻观止】虫研捷报：我国学者以“习大大”命名一甲虫新种</a>
-</h2>
-<p><p>国际著名动物学期刊 Zootaxa 于6月17日在线发表了我国学者王成斌博士的论文 Rhyzodiastes (Temoana) xii sp. nov. (Coleoptera: Rhysodidae: Clinidiini), a new species from Hainan Island, China，文中描述了一个来自海南岛的甲虫新种— —习氏狼条脊甲 Rhyzodiastes (Temoana) xii</p>
-<p>条脊甲科Rhysodidae是一类小型甲虫，因为头部、胸部和鞘翅表面具有深沟和纵脊而得名，另外它们还具有念珠状的触角，颇为奇特。</p>
-<p>条脊甲生活在树皮下、腐木中，是一类少见的昆虫，全球已知约20属120种，我国已知约5属20种。条脊甲通常分布在热带地区，在东南亚和南美洲北部有丰富的种类。</p>
-<p>很多科学家都以自己尊敬的国家领导人的名字来命名自己发现的新物种，例如以美国总统奥巴马命名的一种蜘蛛 Aptostichus barackobamai 和以已故南非前领导人曼德拉命名的海蛞蝓 Mandelia mirocornata。但是，用我国领导人的名字来命名新物种，这还是头一次，王成斌博士在文中指出“The specific epithet is dedicated to Dr. Xi Jin-Ping, the President of the People’s Republic of China, for his leadership making our motherland stronger and stronger”（种名献给中华人民共 和国国家主席习近平，因为在他的领导下祖国越来越强大）。</p>
-<p>论文作者、现年32岁的王成斌博士来自四川邛崃，毕业于四川大学后，师从华中农大雷朝亮教授，从事金龟分类学和蚊虫感觉生理学研究。后考入中科院动物所，师从周红章研究员，从事球蕈甲科分类学研究。他现在正在捷克从事博士后工作。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?resize=400%2C617" alt="640" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640.jpeg?resize=195%2C300 195w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></p>
-<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E8%99%AB%E7%A0%94%E6%8D%B7%E6%8A%A5%EF%BC%9A%E6%88%91%E5%9B%BD%E5%AD%A6%E8%80%85%E4%BB%A5%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%91%BD/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%BD%E5%90%8D/?category=18271" rel="tag">命名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA/?category=18271" rel="tag">国家领导人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2-2/?category=18271" rel="tag">异闻观止</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B2%E8%99%AB/?category=18271" rel="tag">甲虫</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -842,7 +946,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -852,5 +956,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>

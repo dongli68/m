@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,76 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA%EF%BD%9C%E7%8C%AB%E7%9C%BC%E7%9C%8B%E4%BA%BA%EF%BC%9A%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%88%B1%E4%BA%86%E5%9B%BD%EF%BC%8C%E7%A5%96%E5%9B%BD%E5%B0%B1%E7%9C%8B%E4%B8%8D/" target="cdt-mirror">猫眼看人｜押沙龙：你以为爱了国，祖国就看不出你是个傻逼吗</a>
+</h2>
+<p><p>（原文在凯迪社区已被删除）</p>
+<p>这次，我说的话可能很多人不爱听，但是我这里的每句话都是我的真实想法，也许对也许错，至于是对是错，你们自己去评判吧。反正你们的评判我我想听听，不想听你们也没办法。</p>
+<p>一</p>
+<p>我想我是爱国的，但说句话的时候我没有什么特殊的自豪感。爱国是一种很生物性的东西，没有什么值得自豪的。人都有集体归属感，你在小学上一五班，你就觉得一五班比一四班好。这是人进化出来的一种本能，说白了就是党同伐异加上拉帮结派。在远古时候，没有加入某个小集体的人都会死的很惨。所以这种本能就被进化出来了。</p>
+<p>我也有这种本能。如果有什么好事，我本能会希望发生在中国。要是新闻上播出个灾难新闻，我就会想幸亏是发生在国外。我生活在这个国家，这个国家的一些举动，会深深影响到我的生活，所以跟别的国家比起来，我更偏爱这个国家，我希望它变得越来越好，这有什么自豪的呢？有什么值得猛用感叹号的呢？</p>
+<p>但我更爱我的家庭。如果你说你爱中国胜过爱你的孩子，爱你的太太，那我觉得你是个怪人，现实生活中碰到这样的人一般我会躲得离你远点。当然，现实生活中，这样的人大多是没有什么人让他爱，就剩下国家不挑剔，可以随便让他爱。</p>
+<p>但是在一个家里面，谁会没事的时候互相打气：“我爱我的家！”“我爱我的媳妇！”然后一家人围起来互相点赞？有这样肉麻的家庭么？有也多吧。那一个国家的人在朋友圈里面互相点赞“我爱我的祖国”，不假么？深沉的感情后面不需要加感叹号，猛加感叹号的感情都有点假。“中国未来发展的策略考量”有可能是个好文章。“我爱我的祖国！！！犯强汉者，虽远必诛！！”一定是个傻逼文章。</p>
+<p>二</p>
+<p>为什么大多数知识分子容易被爱国人士骂？</p>
+<p>其实很简单，全世界的知识分子都容易被认为不爱国。因为爱国人士发感叹号的时候，他们不但不跟着吆喝，还泼冷水，冷嘲热讽。</p>
+<p>为啥？</p>
+<p>因为吆喝爱国，喊打喊杀不是他们的本分。他们不是干这个的。你看了这么多书，开了那么多学术研讨会，又是教授又是专家，事到临头你吆喝“犯强汉者，虽远必诛”？那要你这货有什么用？傻逼都能干这事，他们比你好养活多了，为什么花钱养你？</p>
+<p>你就该是泼冷水的人，你就该是唱反调的人，你就该是在大家激动的时候继续说人话的人，你就该是一直说人话的人。</p>
+<p>如果反过来，中国学者们教授们社科院的院士们，一个个发文章“我爱我的祖国！为了打菲律宾我捐献一条命！”“这个周末全国人集体不去麦当劳，全世界将为之震惊！”，或者组成个“教授爱国队”，扎个板带上大街砸日本车，掀香蕉摊，那这个国家离疯狂就不远了，而一个国家疯狂以后离灾难就不远了。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-22.jpg?resize=550%2C760" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-22.jpg?w=868 868w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-22.jpg?resize=217%2C300 217w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-22.jpg?resize=768%2C1062 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-22.jpg?resize=741%2C1024 741w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>三</p>
+<p>下面说说战争。</p>
+<p>和平年代长大的孩子，容易把打仗当成打红警游戏，造坦克，抢矿，一点按钮，“蓬”，对方的导弹车给打爆了。谁不觉得过瘾？我直到现在都喜欢打这类的游戏。</p>
+<p>但是，真正的战争里头，矿车里头有人，坦克车里头也有人，那些人可能是你的儿子，可能是你的兄弟，也可能是你。被炸成黑乎乎的一团，或者肠子流一地，那没有任何美感，没有任何趣味，只给亲人留下无尽的悲伤。</p>
+<p>打红警的时候，总是把自己当成最高司令官，打三国的时候，总是把自己当成曹操诸葛亮，其实真打起仗，你就是英军乙或者魏军丙，被苏联坦克炸的血肉模糊，或者被关羽一刀砍翻。</p>
+<p>有人写过一本书叫《战争的原因》，谈到了一个问题，就是和平和战争总是几十年做个交替，为什么呢？作者认为其中一个重要原因，就是和平久了，人们就喜欢浪漫化战争，真打起来了，我靠，这么可怕呀，还是和平好啊。</p>
+<p>一句话，和平久了，人就容易闲的蛋疼。</p>
+<p>不是说一定不能打仗，有的时候打仗是不可避免的，因为国家间的博弈有时候会出错，造成死局。但是打仗前，一定要知道，战争是不好玩的。战争里只有炸弹和肠子，没有感叹号和点赞。战争是严肃的，不是好玩的。</p>
+<p>好多傻子叫着灭亡日本，可是他们根本不知道这意味着什么。当然不可能真打起来，因为各国领导人不可能那么蠢，但是真打起来的话，那就意味着几百万人的死亡，里面很可能有他们的亲人或朋友，那更意味着几十年世界和平的彻底终结，意味着中美的彻底决裂，也很可能意味着世界经济的大萧条，意味着整整一代国人走向黑暗，而且可能这一代人终生都走不出那片黑暗。</p>
+<p>四</p>
+<p>现在我谈谈大国崛起。</p>
+<p>有一点上我跟感叹号们的想法接近，我也认为放在长远时段看，中国的崛起是个必然的过程。中国体量大，人口多，民间高度重视教育，重视对下一代的投资，老百姓有企业家的冒险精神等等都决定了中国终究会发展成一个很强大的国家。</p>
+<p>我希望不希望中国以后取代美国，成为世界的领导者？</p>
+<p>成为领导者会有很多麻烦，但总体我想还是希望的。我当然希望全世界都流行中文而不是英文，因为我英文烂极了。我当然希望最卖座的大片现在我们的影剧院上映，我当然希望我去哪个国家旅游都不用背提防我有移民倾向，我当然希望我的孩子不用离开我出国，就有机会进入全世界最好的大学。</p>
+<p>但是我不认为在可预见的期限内，中国有机会取代美国的地位。这一点大家都清楚，没什么可说的。但是我要补充一点，即便有这个可能，美国由于某个神秘灾难忽然衰落，中国可以取代它，我也不希望。</p>
+<p>世界的领导者应该有一套稳定的制度，稳定的价值观，能够带着世界向前走，哪怕是跌跌撞撞的往前走。很多反复叫着“实力决定一切”的傻子不承认这一点，但这是事实。</p>
+<p>以前的世界领导者是英国，二战后是美国。无论是英国还是美国，它们都有一套稳定的制度，不会忽然出现某个狂人，所以它们的行为是可以预测的。</p>
+<p>而且英国当时的价值观是自由贸易+对进步的信仰，美国的价值观是个人自由+民主制度。说起来，它们当然都有很多问题，英国有种族主义，美国有牛仔式的愚昧等等，而且它们也不是时刻遵守自己的价值观。但是在当时世界其他国家的价值观比较起来，它们的这些价值观终究是最能带动当时的世界往前走的，在价值观比赛中是最容易胜出的。</p>
+<p>而中国目前还没有这样的东西。关于政治方面我不多说，就提醒大家一句，毛泽东去世才四十年，现在还有很多毛粉。关于价值观，你们觉得中国现在有一套稳定的价值观么？</p>
+<p>当然没有也正常。中国是个发展中国家，现代化转型还没彻底完成。完成了就好了嘛。该有的慢慢可能都会有的。但是现在确实没有。让一个缺少这些东西的国家领导世界，对世界是灾难，对中国本身恐怕也是灾难。</p>
+<p>很多讨厌美国的人可能会厌恶我这些话。什么世界领导者？就是霸权嘛！其实并不是如此。大家可以想象一下，如果现在从世界格局里抹掉美国，会发生什么事情？金融的崩塌，科技的停滞这些不说，世界政治会变成什么样呢？日本、韩国甚至还有东盟都会剧烈增加军事投入，东亚会进入军备竞赛，欧洲会陷入恐惧，俄罗斯则几乎一定会走上扩张之路。</p>
+<p>曹操说过一句话：“无孤，不知几人称帝，几人称王！”</p>
+<p>我们习以为常，没有意识到这几十年世界是何等和平有序，主要经济体之间没有任何战争也没有爆发战争的可能，商品和资本能够在国际间自由的大规模流通，这样和平繁荣的时代在世界上几乎是绝无仅有的。七八十年有亚洲四小龙腾飞，放到二三十年代，它们腾飞个屁啊。中国这些年经济发展，也是因为搭上了这个和平繁荣的世界快车。</p>
+<p>也许终究有一天，这个快车会换车头，但是在没有换车头之前，我们没有必要盼着这个快车解体。</p>
+<p>中国和美国之间一定会有对抗。南北战争之后的美国和霸主英国也有过对抗，但是终究只是对抗而没有决裂。也许你们不信，但是任何靠谱点的历史学专家都会承认，英国成为世界霸主，是他们追求利润建立贸易点的过程中，不知不觉的变成霸主的。美国成为世界霸主，是因为他们在追求自身安全的过程中，一点点卷进世界事务成为霸主的。</p>
+<p>你要图点对你有利的东西啊，或者利润，或者安全，或者稳定。不图什么，就是要牛逼的国家，一个个都死得很惨。</p>
+<p>说多了。</p>
+<p>五</p>
+<p>最后对咱们的爱国者说几句。</p>
+<p>以前是到街上砸日本车，现在要全国不去麦当劳。</p>
+<p>当然不砸车是个进步，但还是蠢，活生生的蠢。</p>
+<p>你给他们解释现代社会的经济运转是怎么回事，他们听不懂也不爱听。</p>
+<p>你们要是告诉它贸易战是危险游戏，就算搞也要很谨慎选择斗争领域和方式，他们听不懂也不爱听。</p>
+<p>你要是告诉他们当地的麦当劳雇的都是中国人，他们会说那些人都是汉奸。</p>
+<p>你要是告诉他们当地的麦当劳也向中国交税，他们会说我们不稀罕。</p>
+<p>他们的想法就是我们是爱国者，爱国者要有爱国行为。这是个爱国行为，而且没危险，所以我们就干。</p>
+<p>至于国家愿意不愿意让你这么爱，他们就不管了。</p>
+<p>还有一些人在朋友圈里喊“开战！”“干死他们！”。政府发了一通飚之后，说要回到谈判的道路上来，又有一些傻子说这是软骨头，觉得他们最爱国。还从八百里外转来YY捷报，南海首战告捷，干翻了菲律宾舰队！</p>
+<p>我上学的时候有人追求小姑娘，小姑娘不同意，他拿刀拉开手指头，用血写了一封情书，劈头三个血粼粼的大字：我爱你！</p>
+<p>小姑娘收到血书后哇哇大哭，不是感动地大哭，而是吓得大哭。她跟宿舍的人说：“这个疯子怎么找上我了呀！”</p>
+<p>疯子觉得你可耐呗。</p>
+<p>（<a href="http://weibo.com/yashalong?is_hot=1">押沙龙新浪微博</a>）</p>
+<hr><p><small>© 情况呢就是这么个情况 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%87%AF%E8%BF%AA%E7%A4%BE%E5%8C%BA%EF%BD%9C%E7%8C%AB%E7%9C%BC%E7%9C%8B%E4%BA%BA%EF%BC%9A%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%88%B1%E4%BA%86%E5%9B%BD%EF%BC%8C%E7%A5%96%E5%9B%BD%E5%B0%B1%E7%9C%8B%E4%B8%8D/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%BC%E6%B2%99%E9%BE%99/?category=18271" rel="tag">押沙龙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC%E7%B2%BE%E9%80%89/?category=18271" rel="tag">爱国贼精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8C%AB%E7%9C%BC%E7%9C%8B%E4%BA%BA/?category=18271" rel="tag">猫眼看人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E4%B9%A0%E6%80%BB%E6%97%A5%E8%AE%B0%E3%80%91-%E5%B0%8F%E4%B8%8D%E5%BF%8D%E5%88%99%E4%B9%B1%E5%A4%A7%E8%B0%8B/" target="cdt-mirror">【习总日记】 小不忍则乱大谋</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2015/10/24_avatar_big.jpg?resize=232%2C174" alt="习总日记" data-recalc-dims="1">（2016,7,14）</p>
@@ -107,7 +174,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E6%80%BB
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%8D%E6%8E%A5%E5%8F%97%EF%BC%8C%E4%B8%8D%E6%89%BF%E8%AE%A4%EF%BC%8C%E4%B8%8D%E6%89%A7%E8%A1%8C/" target="cdt-mirror">【麻辣总局】不接受，不承认，不执行</a>
 </h2>
@@ -695,43 +762,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88qa/" target="cdt-mirror">德国之声 | 南海仲裁案Q&A</a>
-</h2>
-<p><p>菲律宾提出哪些诉求？法律依据是什么？”九段线”是怎么回事儿？仲裁结果有什么作用？德国之声为您解答有关南海仲裁案的关键问题。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018774460_30300.jpg?resize=550%2C310" alt="南海" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018774460_30300.jpg?w=700 700w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018774460_30300.jpg?resize=300%2C169 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
-<p><strong>菲律宾提出哪些诉求？</strong></p>
-<p>2013年1月22日，菲律宾向海牙国际常设仲裁法庭提交诉讼。简单来说，菲律宾希望澄清以下三个方面的事实：</p>
-<p>1. 中华人民共和国对南中国海，尤其是对所谓”九段线”的领土主张具有什么样的法律地位？<br>
-2. 该海域各种地貌特征是属于岛屿、岩礁，还是仅属所谓的低潮高地，意即落潮时才会露出水面的地段？因为依照国际法规定，与岛屿相关联的领土主张和其它地貌特征如岩礁的是完全不一样的。<br>
-3. 仲裁法庭应该裁定，菲律宾可以在其专属经济区内开展工作，中国不得予以任何干涉。<br>
-菲律宾认为，菲律宾特意放弃要求法庭澄清受争议海域内岛屿、岛礁、岩礁的主权归属问题，而是仅要求法庭对《联合国海洋法公约》做出解释。</p>
-<p>该案件的标的是分布在南中国海42万多平方公里海域、受不同沿海国家控制的南沙群岛（国际上称斯普拉特利群岛）。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018624502_400.png?resize=600%2C600" alt="南沙群岛（国际上称斯普拉特利群岛）" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018624502_400.png?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018624502_400.png?resize=150%2C150 150w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018624502_400.png?resize=300%2C300 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/018624502_400.png?resize=70%2C70 70w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>南沙群岛（国际上称斯普拉特利群岛）</p></div>
-<p><strong>法律依据是什么？</strong></p>
-<p>菲律宾以《联合国海洋法公约》为依据。该公约经过多年酝酿谈判，于1994年开始生效。菲律宾和中国以及其它165个国家均签署了该公约。</p>
-<p>该公约的所有缔约国均承诺以和平方式解决争端。解决机制之一就是提交法庭，而且是即便当事一方拒绝提交法庭时，另一方也可以单方面诉讼，不过此时是向仲裁法庭起诉。现在菲律宾对中国的案件即属此类。</p>
-<p><strong>该案属于仲裁法庭的司法管辖范围吗？</strong></p>
-<p>2013年2月19日，中国驳回了菲律宾的诉讼计划，并对仲裁法庭的司法管辖权提出质疑。</p>
-<p>中国认为，菲律宾的诉讼请求最终涉及的是主权问题，或者说是海洋划界问题。换句话说，该案涉及的并非是对海洋法公约的解释问题，而是领土问题，但这就超出了仲裁法庭的管辖范围。</p>
-<p>尽管中国提出了异议，国际仲裁法庭还是于2015年10月29日宣布启动仲裁程序，但仅受理菲律宾所提的部分诉求，因为该庭仅负责审理有关《联合国海洋法公约》的解释或适用问题。</p>
-<p>中国迄今坚持自己的观点，不承认仲裁法庭的管辖权，不以任何方式参与。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/017667870_40100.png?resize=600%2C338" alt="《联合国海洋法公约》也对沿海国家在其沿岸水域的权利和义务做出了规定" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/017667870_40100.png?w=700 700w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/017667870_40100.png?resize=300%2C169 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>《联合国海洋法公约》也对沿海国家在其沿岸水域的权利和义务做出了规定</p></div>
-<p><strong>“九段线”是怎么回事儿？</strong></p>
-<p>“九段线”（有时也被称为”10段线”或”11段线”）是由中华民国（台湾）1947年首次正式公布的海洋划界，旨在强调中华民国对南中国海的领土主张。</p>
-<p>中华人民共和国采纳了”九段线”划法。中国目前正式主张的领土主权亦以该线为界。</p>
-<p>这条线有些问题，因为它至少在两个方面模糊不清：一是该线从未精确定义过，意即从未以经纬度坐标定义其位置；二是中国从未声明是对”九段线”以内的岛屿、岛礁、岩礁伸张主权、进而再依据《联合国海洋法公约》对相关水域伸张领海主权呢，还是对”九段线”以内的整个水域伸张领土主权。</p>
-<p>国际上的专家基本上一致认为，从国际法角度而言，”九段线”是不成立的。</p>
-<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/015888528_40100.gif?resize=600%2C338" alt='南中国海的"九段线"' data-recalc-dims="1"><p>南中国海的”九段线”</p></div>
-<p><strong>仲裁结果有什么作用？</strong></p>
-<p>根据《联合国海洋法公约》规定，仲裁法庭的裁决对争议双方都具约束力。依该公约附件七规定，裁决是最终的，不可抗辩的。纯从理论上来说，两国均须承认并遵守裁决。但实际上，海牙国际仲裁法庭并不具备执行裁决的可能性。</p>
-<hr><p><small>© 这不老谁家那个小谁吗 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0-%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88qa/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE/?category=18271" rel="tag">台湾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0/?category=18271" rel="tag">德国之声</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD%E6%B5%B7%E6%B4%8B%E6%B3%95%E5%85%AC%E7%BA%A6/?category=18271" rel="tag">联合国海洋法公约</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8F%B2%E5%BE%8B%E5%AE%BE/?category=18271" rel="tag">菲律宾</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -743,7 +773,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -753,5 +783,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

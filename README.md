@@ -21,9 +21,102 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%81%87%E8%A3%85%E5%9C%A8%E7%BA%BD%E7%BA%A6-%E4%BB%B7%E5%80%BC%E8%A7%82%E6%89%8D%E6%98%AF%E4%BA%BA%E5%92%8C%E4%BA%BA%E4%B9%8B%E9%97%B4%E6%9C%80%E6%B7%B1%E7%9A%84%E9%B8%BF%E6%B2%9F/" target="cdt-mirror">假装在纽约 | 价值观才是人和人之间最深的鸿沟</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?resize=600%2C390" alt="640CRPV6VOL" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?resize=300%2C195 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?resize=230%2C150 230w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?resize=600%2C350" alt="640VC3K888S" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?resize=300%2C175 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?resize=80%2C48 80w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>不出所料，昨天南海的新闻又把朋友圈变成了热闹的战场。有人热血沸腾慷慨激昂，也有人冷眼相看出语相讥。</p>
+<p>这样的场景在每一次热点事件爆发时都会出现。在生活中我们不会随便和别人聊起自己对某件事的看法，但是有了社交媒体以后，我们的大脑像是装上了一扇窗，路过的每一个人都可以瞥上一眼。不管是亲友爱人，还是几年十几年没有见过面的中学同学，或者是曾经帮你租过房子的中介，都能够知道你的想法，你完全无所隐藏。因为你转发的每一篇文章，你复制粘贴的每一条段子，分享到群聊天里的每一张图，都清清楚楚地表明了你的观点、倾向和态度。</p>
+<p>你发出的每一条状态，不管立场如何，不管有多少人点赞，必然会有另一些人不快，觉得受到了冒犯。那些冲上来和你辩论，或者激烈地屏蔽取关拉黑的人还算好的；更可怕的是你永远不会知道有多少人默默看着你的朋友圈，然后在心里翻了个白眼，“没想到竟然是这么一个傻X”。</p>
+<p>当大家都在自由表达，自然会产生观念的冲突。生活中交集不多的人还好，但问题是那些对我们来说重要的人同样不可能和我们在每一件事情上都观点一致。分组是一个办法，但我们不可能在发每一条状态时都分一次组。在这件事上称赞你三观正，被你当成亲生的朋友放在特别分享组里，到了下一件事可能就是骂你骂的最凶的人。</p>
+<p>因为观点不同而造成的人与人之间交往的困扰，美国人比我们感受得更深。很简单的道理，因为美国有民主党和共和党，两个党的许多政策都有着根本性的分歧，支持民主党的人和支持共和党的人也很难坐在一起心平气和地对话。美国人的社交礼仪里有一点就是，不随便问别人的宗教信仰和政治观点，这是很不礼貌的行为。选举投票时，每个选民把票投在哪个票箱也是很重要的隐私，外人不能随便窥探。</p>
+<p>在面对自己亲近的朋友或者朝夕相处的家人爱人时，到底支持共和党和民主党这件事就很难隐瞒了。尤其是到了每四年一次的大选年，矛盾就会更加激化，即使是在一个已经相对较为成熟的社会，父子大打出手、朋友变成路人、夫妻一拍两散这样的极端例子也难以避免。</p>
+<p>所以每隔四年，美国的媒体上就会集中出现“政治倾向不同如何保证家庭美满”之类的指导文章。《华尔街日报》几年前曾经有一篇报道，讲一对结婚多年的老夫妻，丈夫是虔诚的共和党支持者，而妻子则是忠实的民主党信徒。在一次总统大选投票前，丈夫正巧要到国外出差，于是就把自己的选票填好交给妻子，让她代为邮寄出去。</p>
+<p>妻子为此很苦恼，不知道是应该忠于丈夫把选票寄出去，还是应该忠于党把丈夫的选票扔了。犹豫了很久，她最终偷偷地把选票扔掉了。后来丈夫还是在无意中知道了这个秘密，为此记恨了妻子好几年，并且从此不再放心把自己的任何信件交给她。</p>
+<p>引起争吵的话题各有不同，但归根结底是价值观的差异。美国人投票选总统，大多数人是真诚地相信自己选择的候选人能够维护国家利益和自己的个人利益。但到底怎样的政策、哪一个候选人才符合国家利益和个人利益？是不是认同堕胎，是不是认同拥枪权，是不是欢迎更多的移民，是不是应该对富人多征税，是不是支持给同志合法结合的权利，是不是认为政府应该大包大揽包办医疗健康体系和福利制度？根据所有这些问题而做出的选择背后，就是人和人之间价值观的差异。</p>
+<p>具体到南海问题也是如此。大多数人会同意南海问题的本质是国家利益问题，也没有人否认一个强大的国家和国民的个人利益是正相关的关系。但到底怎样的国家才算是强大的国家？嚷嚷着要抵制菲律宾、抵制美国、抵制全世界的人，以及叫嚣着要不惜一切代价打仗、“犯强汉者虽远必诛”的人，到底是在维护国家利益还是反过来损害了国家利益？这些思维模式的背后，都可以看出一个人的价值观。</p>
+<p>但价值观的问题其实又没有什么好讲。因为一个人的价值观根深蒂固，由他的心态、眼界和思考能力综合决定。就像是网上流传过的一句话说的，“无论挣了多少钱，当了多大官，出了多大名，读了多少书，甚至去了多少国家，在国外呆了多少年，骨子里的东西，包括狭隘无知的境界，都是难以改变的”。</p>
+<p>所以放弃和别人争辩吧。接受吧，你永远没有办法改变另一个人的想法，正如你知道他永远不可能改变你的想法。尤其是在社交网络上，所有的争辩都是浪费彼此的时间。大多数人缺乏足够的勇气和智慧来真诚审视自己固守了多年的信仰，因为那是他所有一切的根基，一旦发生动摇就意味着他整个人生要推倒重来。为了逃避这一切，他们愿意相信扭曲的事实、构建一个个逻辑陷阱，用尽一切手段来维护他们内心深处的堡垒。</p>
+<p>最好的做法不是闭口不谈。每个人都有自由表达的权利，这是一件光明正大的事。人生本来就已经很累了好吧，我并不想在自己的朋友圈转个帖子还要自我审查，还要偷偷摸摸，还要顾忌别人是不是会受到伤害。</p>
+<p>我们能做的就是彼此忽略。我知道你不同意我的观点，但我不会试着说服你，我没有这样的权利，也没有这样的义务，更没有这样的耐心和时间。你也不用试图说服我，没必要，你保留你的看法就好。</p>
+<p>更好一点的心态，是试着去尊重和理解。这听起来有点荒谬，做起来也有点困难，但如果你愿意冷静地想一想对方生活在什么样的环境里，从小接受了什么样的教育，走过了什么样的一条路，那他有那样的看法、眼界、观点和价值观，就不是那么让人不可思议难以接受的一件事。对于价值观和我们不一样的陌生人，我们可以挥挥手就此别过，但对于亲近的朋友家人，这样的理解也许是唯一能够不影响彼此关系的做法。</p>
+<p>《华尔街日报》提到的那对夫妻后来还发生了一段小插曲。在丈夫六十岁生日的时候，妻子给丈夫制作了一本生日纪念册，里面收集了亲朋好友的留言和祝福。她还给当时的总统小布什写了一封信，请求小布什给自己的丈夫也写一段祝福的话。她在信里说，“我的丈夫是你忠实的粉丝，过去整整八年我一直听他在唠叨你多么多么好，所以这是你欠我的。”小布什很快就回信祝这个丈夫生日快乐，妻子也把这封信收进了生日纪念册。不过尽管如此，两个人后来在看共和党大会的直播时，为了避免吵起来仍然呆在不同的房间里。</p>
+<p>那篇报道还提到了另一对结婚45年的老夫妻，有一天丈夫走进厨房，发现妻子在墙上挂上了小布什的照片，他很生气，就把相框翻了个面，倒扣在墙上。妻子发现之后，又把相框重新翻了回去。第二天，丈夫接着翻相框，妻子接着翻回去。这对老夫老妻就把这样的拉锯战坚持了好几年，到最后，他们彼此都习惯了这样的仪式。73岁的老先生在接受采访的时候说，“她挂上相框，其实只是想引起我的注意。而我把相框翻过去，只是想告诉她，我知道了。”</p>
+<p>两对夫妻都在一起生活了几十年，但最终他们谁都没有办法改变自己另一半的政治倾向，只能努力去接受，并且把这样的差异变成生活情趣。这其实需要很高的情商和智慧。</p>
+<p>当然，最好的状态，还是能够找到那些和你有一样价值观的人，因为价值观是一种迷人的东西。能够把人和人在更深的层面联系在一起的，绝不是那些可以被轻易贴上的标签。不是你们上过同一间学校，来自同一个城市或国家，有同一个星座或血型，你们就能彼此喜欢。能够维系你们的，只能是同样的信仰，准则与价值观。</p>
+<p>价值观体现在每一个细节里。对某个事件的看法，对某个人的评价，某本书或者某部电影的好恶，都可以把你和一些人紧紧联系在一起，同时又把你和另一些人泾渭分明地分开。</p>
+<p>面对一些人，一些事，当你激动不已而别人不明就里，当你义愤填膺而别人无动于衷，你和他们之间，就有了一条微妙的界河，而这条界河，其实是人和人之间最深的鸿沟。</p>
+<p>愿你能够找到另一些和你有一样价值观的人。因为如果可以选择的话，相信没有人愿意和要在挂谁的相框这件事上和自己斗争一辈子的人生活在一起。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%81%87%E8%A3%85%E5%9C%A8%E7%BA%BD%E7%BA%A6-%E4%BB%B7%E5%80%BC%E8%A7%82%E6%89%8D%E6%98%AF%E4%BA%BA%E5%92%8C%E4%BA%BA%E4%B9%8B%E9%97%B4%E6%9C%80%E6%B7%B1%E7%9A%84%E9%B8%BF%E6%B2%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E5%88%86%E6%AD%A7/?category=18271" rel="tag">价值分歧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%97%85/?category=18271" rel="tag">爱国病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 25分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%90%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%95%AC%E7%9A%84%E4%B9%A0%E6%B0%8F%E7%94%B2%E8%99%AB%E4%B8%BA%E4%BD%95%E9%81%AD%E5%B0%81/" target="cdt-mirror">纽约时报｜向习近平致敬的“习氏甲虫”为何遭封杀？</a>
+</h2>
+<p><p>【编者注】新浪微博搜索功能内出现的“根据相关法律法规”提示，针对的是“习氏”这个存在已久的关键词，而非“习氏狼条脊甲”。目前新浪对“狼条脊甲”等相关关键词作了不显示“提示”的结果过滤处理。</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E4%B9%A0%E7%94%B2%E8%99%AB%E4%B9%A0%E5%A3%B3%E9%83%8E%E4%B9%A0%E6%B0%8F%E7%94%B2%E8%99%AB/" target="_blank">【真理部】“习甲虫”“习壳郎”“习氏甲虫”“ 习大大甲虫”“习大虫”</a></p></blockquote>
+<div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnMBPp3VMAEZLxW.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnMBPp3VMAEZLxW.jpg?resize=500%2C434" alt="新华社英语官方推特账号日前转发了英国《卫报》对该事件的报道，让人大跌眼镜。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnMBPp3VMAEZLxW.jpg?w=674 674w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnMBPp3VMAEZLxW.jpg?resize=300%2C260 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><p><span>新华社英语官方推特账号日前“手滑”转发了英国《卫报》对该事件的报道，现已删除；推特截图</span></p></div>
+<p>北京——在显微镜下，这个以中国国家主席习近平的姓命名的小甲虫看上去很凶，它有着黑色的、类似盔甲的外壳和珠子串似的触角。</p>
+<p>发现并命名了这个甲虫新种的人是昆虫研究者王成斌，他来自中国，目前在布拉格工作。对他来说，把甲虫命名为Rhyzodiastes (Temoana) Xii的更重要原因是，这种甲虫以朽木为食。王成斌在接受电话采访时说，它的这个特点很适合习近平的形象，它的饮食习惯对所在环境的健康有多重要，习近平针对官员腐败展开的运动对中国就有多重要。</p>
+<p>“习主席也一样。他在打击腐败。这非常重要，”32岁的王成斌说。他还说，去年发现了这个甲虫后他特别兴奋，以至于夜里都无法入睡。他不仅把甲虫以习氏来命名，还在中文名字中加了“狼”这个字。甲虫的中文全名是“习氏狼条脊甲”，字面意思是“习姓狼脊椎甲壳”。（甲壳表明是甲虫，具有坚硬的外壳，与蟑螂不同。）</p>
+<p>王成斌以分类学名做出的表示似乎已激怒了警惕性很高的中国 宣传官员，他们很快就在被严格审查的中国互联网上删除了提到“习氏甲虫”的内容。周二，在国内检索这个甲虫的名字得不到任何结果。在微博上搜索其中文名字 得到的信息是：“由于相关法律和政策，无法显示‘习氏狼条脊甲’的检索结果。”</p>
+<p>尽管如此，在中国防火长城之外的互联网上有许多有关的报道。这意味着越来越多的那些使用虚拟专用网络(VPN)的人能看到这个消息。</p>
+<p>在接受采访之前的电子邮件交流中，王成斌对国外新闻报道中有关他描述表示关注。这些报道称他把习近平比作小昆虫是“贬低”习近平。（这个甲虫全长约为7毫米，习近平的身高约1米8。）</p>
+<p>王成斌写道，“他们对昆虫学和分类学一无所知，完全不懂生物学名的意思！”</p>
+<p>的确，一些中国人对可以用国家主席的名字来命名甲虫的概念无法理解，传统上，中国领导人是不能批评的，也不能接受任何可能被视为取笑的做法。</p>
+<p>“未名空间”是一个设在美国的网站，在世界各地的华人中拥有不少读者。周一，该网站甚至把这条新闻分在了“玩笑”类。</p>
+<p>王成斌说，以知名人物命名新物种的做法在世界其他地方很普遍，他认为自己的做法并没有错。</p>
+<p>习近平的名字以表示尊重的方式呈现，他说：“xii”是在代表习近平的“xi”后面加上了拉丁文中的“i”，用以显示男性所有格。</p>
+<p>为什么不把它叫作“习近平”呢？</p>
+<p>“在中文里，对于这样一个知名的人物，用全名显得有些不尊重，”他说。“用姓就够了。”</p>
+<p>王成斌表示，最重要的是他想避开政治。“我对昆虫很痴迷！”他在周二早些时候发来的邮件中写道。“我喜欢昆虫。我不想制造任何麻烦！”</p>
+<p>“我热爱习主席。因为有他，中国正变得更强大，”他说。就像主席一样，“这种昆虫十分罕见，在十次野外采集中，我一只也没见到过。”</p>
+<p>王成斌其实算不上以政治领袖的名字给生物物种命名的第一人。就像未名空间上的一条帖子指出的，有一种加州活板门蛛就是以美国总统贝拉克·奥巴马的名字命名，叫做Aptostichus barackobamai。还有一种已经灭绝的楔齿蜥被命名为Obamadon。纳尔逊·曼德拉(Nelson Mandela)的名字不仅被用来命名一种海蛞蝓，还被用来命名它所在的整个属和科，即Mandelia mirocornata，作为一种更大的荣誉。</p>
+<p>在昆虫界，还有以卡罗尔·沃伊蒂瓦(Karol Wojtyla)命名的Aegomorphus wojtylai，他更为人知的身份是教皇约翰·保罗二世(Pope John Paul II)。另有以美国前总统乔治·W·布什(George W. Bush)命名的Agathidium bushi。上世纪30年代，阿道夫·希特勒(Adolf Hitler)的名字也曾被用来命名生活在斯洛文尼亚洞穴内的一种盲虫，即Anophthalmus hitleri。</p>
+<p>这次用来表示敬意的行动始于去年，当时王成斌的一位同事在中国最南端的省份海南被森林覆盖的高地中发现了好几个昆虫样本。“他不研究甲虫，他研究蟑螂，所以他就把这些样本给了我，”王成斌说。</p>
+<p>接下来，王成斌在他进行博士后研究的捷克生命科学大学 (Czech University of Life Sciences)的实验室内对这些新物种进行了仔细的研究。之后，他在《动物分类学》杂志(Zootaxa)上发表了一篇论文，将这一发现献给“中华人民共和国国家主席习近平博士，因为他的领导让我们的祖国日益强大。”</p>
+<p>中国的一位网民将一个国家的地位和科学发现命名的荣誉联系了起来。</p>
+<p>“昆虫研究跟国家强大真是有关系，”未名空间上的用户echowuhao说道。此人指出，过去几十年，主要是由外国人在确认和命名新昆虫。</p>
+<p>“我本科的时候学小强分类。中国解放前”——1949年共产党革命——“小强的命名人以日本人为主，模式标本多在台湾大学。”1945年之前，台湾是日本的殖民地。“解放后以毛子为主，”echowuhao写道。</p>
+<p>但现在一切都变了。</p>
+<p>“改开之后，自己人命名自己的小强才多起来，”echowuhao写道。“昆虫分类这种工作，绝对是有闲钱的国家才做得起。”</p>
+<p><em>狄雨霏(Didi Kirsten Tatlow)是《纽约时报》驻京记者。</em></p>
+<p>欢迎在Twitter上关注本文作者狄雨霏<a href="https://twitter.com/dktatlow?version=meter+at+0&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=http%3A%2F%2Fwww.nytimes.com%2Fcolumn%2Fsinosphere&priority=true&action=click&contentCollection=meter-links-click" target="_blank" rel="nofollow">@dktatlow</a>。<br>
+翻译：纽约时报中文网<br><a href="http://www.nytimes.com/2016/07/13/world/asia/china-beetle-xi-jinping.html" target="_blank" rel="nofollow">点击查看本文英文版。</a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%90%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%95%AC%E7%9A%84%E4%B9%A0%E6%B0%8F%E7%94%B2%E8%99%AB%E4%B8%BA%E4%BD%95%E9%81%AD%E5%B0%81/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7%E7%94%B2%E8%99%AB/?category=18271" rel="tag">习大大甲虫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%BA%BB%E6%97%B6%E4%BB%A3/?category=18271" rel="tag">大麻时代</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%E5%90%8E-%E4%B8%80%E5%B8%82%E6%B0%91%E5%9B%A0%E7%A9%BF%E8%80%90%E5%85%8B%E9%9E%8B%E5%9C%B0/" target="cdt-mirror">美国之音｜南中国海仲裁案后 一市民因穿耐克鞋地铁被辱骂</a>
+</h2>
+<p><p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E7%BA%A2%E8%A1%A3%E7%94%B7%E6%80%92%E6%89%93%E8%80%90%E5%85%8B%E9%9E%8B.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E7%BA%A2%E8%A1%A3%E7%94%B7%E6%80%92%E6%89%93%E8%80%90%E5%85%8B%E9%9E%8B.jpg?resize=400%2C711" alt="红衣男怒打耐克鞋" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/红衣男怒打耐克鞋.jpg?w=479 479w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/红衣男怒打耐克鞋.jpg?resize=169%2C300 169w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br>
+（<a href="http://p.weibo.com/show/HcHmySumqmXSS8C4cDw6Uw__.htm" target="_blank">视频地址</a>）</p>
+<p>南中国海仲裁案公布之后，中国大陆极端民族主义情绪高涨。 7月12日，中国互联网上流传一段因一名男子穿耐克鞋而被骂汉奸并引发打斗的视频，引发了广泛关注。</p>
+<p>据报道，在大连地铁西安路站，一名男子因穿耐克鞋而遭到一名红衣男子的辱骂：“汉奸，今晚美国就跟中国开打，你这个汉奸，还穿耐克！”目前这段视频被上传到了城里网上。视频中，红衣男子不断辱骂穿耐克的男青年，最后两人发生肢体冲突。与耐克男青年同行的女子不断向周围的人求助：“你们怎么都不帮帮忙呢，求你们了。”但是当时车上的乘客全都冷漠旁观，无人帮忙。</p>
+<p>国际仲裁法庭公布对南中国海仲裁案的裁决后，中国外交部发言人陆慷在例行记者会上重申中国不接受不承认这次裁决。中国民众的反美反日极端爱国主义情绪在社交媒体上空前高涨。</p>
+<p>北京专栏作家高瑜在网上写道：“南海仲裁满盘皆输，五毛不仅网络上强烈要求开战，地铁站遇到穿耐克鞋的，都要大骂“汉奸”，上去动手。看来“四不”即忽悠不了国际社会，也忽悠不了国人。下边该啥招？</p>
+<p>虽然民间以及中国网络论坛上极端民族主义情绪鼎沸，但是中国国内并无大型游行示威活动。互联网上有人贴出北京大学发布通知，严防学生上街支持中国政府：“为了在南海问题的斗争中，做到理性、合法、有序，防止出现大规模聚集、游行甚至过激行为，昨日市委教育工委召开首都高校会议，我校安全稳定一线工作领导小组亦及时研讨，要求把广大师生的思想统一到中央会议精神上来，做到不乱阵脚、理性斗争，不聚集示威，不走出校园参与社会可能的游行活动，也要防止社会别有用心人员混入校内挑唆闹事。”</p>
+<p>《北京之春》荣誉主编胡平在接受美国之音记者采访时分析称：“南海仲裁结果宣布之后，在一些民众之间产生了一些反美反西方的情绪。但是我觉得这种情绪也不宜夸大，如果这种情绪像他们所表达的那么强烈、那么真诚的话，他们就应该走向街头，表达自己的抗议。”</p>
+<p>胡平还表示：其实中国政府“一直在煽动民间的这种（民族主义）情绪，借此来强化所谓的爱国主义教育，强化对西方、对国际社会的不满。这对他们是非常有利的。”</p>
+<blockquote><p><strong>相关阅读</strong>：<a href="http://chinadigitaltimes.net/chinese/2012/09/ohmymedia-%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%A5%EF%BC%9A%E6%8B%90%E7%82%B9/" target="_blank">OhMyMedia | 中国青年报：拐点</a></p></blockquote>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E5%8D%97%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88%E5%90%8E-%E4%B8%80%E5%B8%82%E6%B0%91%E5%9B%A0%E7%A9%BF%E8%80%90%E5%85%8B%E9%9E%8B%E5%9C%B0/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%87%E6%97%A5%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">仇日宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%97%85/?category=18271" rel="tag">爱国病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%B7%E5%9B%BD%E4%B9%8B%E5%A3%B0%EF%BD%9C%E9%95%BF%E5%B9%B3%EF%BC%9A%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E6%8F%AD%E9%9C%B2%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F/" target="cdt-mirror">德国之声｜长平：赵威微博揭露了什么？</a>
 </h2>
 <p><p>赵威微博信息引发争议。时评人长平认为，正如铜锣湾书店案所暴露的一样，赵威微博所揭露的真正事实，是中共当局的残忍与荒唐。</p>
@@ -849,103 +942,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%E4%BA%86%E5%90%97%EF%BC%9F/" target="cdt-mirror">【网络民议】你热泪盈眶了吗？</a>
-</h2>
-<p><p>近日，微博盛传一段来自安徽卫视真人秀《超级演说家》的演讲视频，一位毕业于哈佛大学肯尼迪学院的中国女孩在演讲中谈及了“安全感”这一概念，她认为相比于那些深陷战乱或恐怖主义阴霾的国家来说，中国这一国家为它的国民提供了一份不基于任何条件的安全感，使得我们的个体被尊重，活得有尊严，国际上有话语权，并加以引申“少年强中国强”。这段视频被不少微博公号转载，被称作“充满正能量”、“相信你看完会哭”……. 而在新浪微博上，对于此视频的网友评价趋于两极。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74df37d3jw1f5pzrhoos9j20go0a1mxo.jpg?resize=440%2C265" alt="74df37d3jw1f5pzrhoos9j20go0a1mxo" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74df37d3jw1f5pzrhoos9j20go0a1mxo.jpg?w=440 440w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74df37d3jw1f5pzrhoos9j20go0a1mxo.jpg?resize=300%2C181 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/74df37d3jw1f5pzrhoos9j20go0a1mxo.jpg?resize=80%2C48 80w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>@幸福苏州：【哈佛毕业中国女生：在课堂上永远有话语权，这是祖国给予的】讲出了中国年轻人的心声：中国给予国民的安全感，是一份不基于任何条件，不需要努力，而我们往往身在福中而不知福的安全感。 相信你看完，一定热泪盈眶！（转）</p>
-<p><a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%E4%BA%86%E5%90%97%EF%BC%9F/"><em>点击这里查看嵌入的视频。</em></a></p>
-<p>微博<a href="http://weibo.com/p/2304447055d55e43f1d097cd6ae913216e2c40">视频地址</a></p>
-<p>@义勇军聂海军同志：#网络义勇军后援团发布# 安全感所带来的自由选择的权利，是一个国家赋予年轻人最好的礼物。因为这意味着，你不必非得在别人的国土上成为一个优秀的个体才能够被尊重。你就踏实地做一个哪怕普普通通的中国人，也会被善待。因为你背后是一个稳定的国家，而世界对你的国家，充满敬畏！</p>
-<blockquote><p>许吉如，1992年9月出生，中共党员，清华大学法学院本科毕业，哈佛大学肯尼迪学院研究生毕业。南京申办2014年青奥会形象大使，2010年2月随中国代表团赴温哥华申奥。 奥冠体育俱乐部形象大使。曾获全国优秀团员、江苏省十佳青年学生、“希望之星”英语风采大赛高中组冠军、全国英语演讲比赛冠军、2008年北京大学模拟联合国最高奖最佳代表奖和单项奖最佳口语奖等。</p>
-<p>《我是演说家》是北京卫视联合能量传播模仿安徽卫视大型语言类真人秀《超级演说家》进而出品的大型原创新锐语言竞技真人秀节目。 —— 摘自网络</p></blockquote>
-<p><strong>以下内容为数字时代编辑摘自部分网友评论：</strong></p>
-<p>@新新新王 ： 没有经历过战争的有些人，身处和平而不自知。如果这个国家就如某些人所说的一无是处，那有是谁给你一个安全的环境让你在这里大放厥词，是啊，话你倒是说出来了，你也不用想想这个国家给了你什么。</p>
-<p>@love丁香结 ：说得不错！不要一味觉得国外的月亮圆。不要被娱乐明星迷惑了双眼！真正保你安稳，管你温饱，让你有安全感的，是你的国家！只有自己的国家稳定了，你才能安心的回家，不论你去了多远的远方，也不必担心家不在！</p>
-<p>@南开-张小虎：牺牲的两位中国维和士兵能听到这个姑娘的话也能含笑九泉了。</p>
-<p>@封归尹：为什么总有人觉得国家差，中国在不断进步，这个才找到方向一身是伤的社会才真正发展不到50年，每个国家都有法律之外的阴暗面，别看了电影电视和朋友圈就以为国外的发达国家就有多好，中国比上不足比下有余。我们应该爱自己的国家，这不影响批判他的错误。如果你觉得这个国家烂透了，……我觉得你也一样。</p>
-<p>@我爱郭德纲1314: 看这个视频的时候我一直在哭，尤其是后半段，不知道为什么眼泪擦不干净了。</p>
-<p>@天地人间水灵灵：沒有一个強大的国家做后盾，任何一个在别国的游子永远不会有尊严的。</p>
-<p>@好的好的好的我知道了：说得真好，就是这样的。人无完人，何况这么大一个国家。我们能吃得好，穿的好，最主要的是活的很安稳都是因为我们的国家。而中国的不足是需要时间来改进的，是需要每一个中国人来共同努力的。希望所有的同胞们都能踏踏实实的做好自己的工作，而不是每天就知道在网上喷政府喷警察。</p>
-<p>@王小圈圈圈Boom：我们要感激我们的祖国，她给了我们和平的环境，幸福的生活。</p>
-<p>@浅蓝阡陌_77：说得真好！皮之不存，毛将焉附？有国才有家，有家才有你我。</p>
-<p>@破晓_–：我们可能没有欧美那样优渥的生活条件和福利待遇，甚至没有国外那样所谓的“民主”和“自由”，但我们生活生存的这片土地却能给予我们别国求而不得的安宁和稳定，至少在老百姓所见没有内战，没有枪击，没有流离失所，无论贫富贵贱皆如此。经历过战争洗礼的国家，和平安宁显的更弥足珍贵…</p>
-<p>@披着狼皮的茫然：外婆说：现在和平是不容易的，有些孩子抱怨这个国家不好，那是他们身在福中不知福，我经历过战争，我们兄弟姐妹小时候整天都要担心不知道逃哪里去，饭也吃不饱，到处都是战争。【原话不太记得，但是是这个意思】</p>
-<p>@younggge：在南海仲裁的时候看这篇演讲 才发现国家安全感有多重要</p>
-<p>@呼呼若水：看完了所有评论，我真被某些脑残折服，国是我们的国，不爱，有本事滚啊，吃着中国的粮食，踏着中国的土地，就别瞎说。</p>
-<p>——————————————————————</p>
-<p>@闲淡吵人：这个国最多的就是爱国贼！</p>
-<p>@杨阳Am：别忘了你国在叙利亚问题上投的反对票。</p>
-<p>@小马同学笨笨了：……弱爆了，能在老师面前有点话语权仅仅因为是个中国人，你的知识呢？你的专业性呢？没想到哈佛也有这种人……</p>
-<p>@起风疯疯了：哈佛根据国家GDP给分吗？</p>
-<p>@阑夕: 小粉红想象中的哈佛教授授课场景：刚才这个问题谁能回答？好的，这位同学，先说说你是哪个国家的？啊，真是抱歉，你的国家GDP太低，不许发言！请坐下。我们换那位中国同学回答问题。</p>
-<p>@电竞狄德罗：一位非洲裔学生正起身回答教授的问题，小粉红厉声喝道：“落后地区的学生没有话语权！”</p>
-<p>@PVBLIVS：这位是哈尔滨佛学院毕业的吧！</p>
-<p>@Nothing–King：领导幸福感最高的国度。</p>
-<p>@Voogu：总结了下两点：1，我国没战争2，留学生在国外课堂上都有发言权了（拜中国强大所赐哦）。</p>
-<p>@狠人日记：强国婊。</p>
-<p>@謃空丶匿迹：去特么的安全感。说好的土地属于人民呢？说好的老有所养呢？家里没钱有几个能读到博士的？物欲横流的社会，就不要出来唱高调了，骗骗学生还行，特么真正工作个几年的白领蓝领务工人员，问问他们有没有安全感？</p>
-<p>@明睿全荃：安全很重要，我现在从足疗店旁边过，都要小跑了……</p>
-<p>@吴主任：哎哟我去。前半段尴尬，中断逻辑混乱，后段裸跪抒发爱国情。太可怕了，这位哈佛高材生稳稳进央视。</p>
-<p>@这周研磨出场了吗：哈佛大学跟哈佛大学肯尼迪学院根本两个东西[嘘]走国小粉红一看见哈佛两个字就集体高潮仿佛自己的同类中有人出人头地得到歪果仁认可啦！</p>
-<p>@c疤脸：这位【哈佛大学的“高才生”】应该去国家信访局门口听听访民的故事，去找几个死磕律师的微博看看他们办的案子，懒得跑的话，读读新闻也可以，比如【长沙房屋强拆活埋事件】，重新认识一下你国，访民们未必比叙利亚难民活得好。</p>
-<p>@闲菜：这么强烈的安全感是因为刚回国失忆了吗？</p>
-<p>@junjunyo：聪明装傻最可怕。</p>
-<p>@结婚三次的康德：毫不掩饰的跪舔，感动。</p>
-<p>@泼布剌萨：祖国修了三峡大坝，我走在纽约第五大道上人人都对我翘起了大拇指，这一刻胸前的红领巾更鲜艳了。</p>
-<p>@大咕咕咕鸡_25：看的我热泪盈眶，真的是个人才，不来街道工作可惜了。</p>
-<p>@再次改昵称：热泪盈眶中，我的跪姿更标准了！</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E4%BD%A0%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6%E4%BA%86%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">国家主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91/?category=18271" rel="tag">洗脑</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E6%B5%8B%E8%AF%95%E4%B8%93%E5%8C%BA/" target="cdt-mirror">【立此存照】机器五毛新浪微博测试专区</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/u/5580548526" target="_blank">@头条热视频</a>：在网络时代，你做过的坏事或多或少总会留下点痕迹，是抹不干净的，机器五毛总指挥<a href="http://weibo.com/n/%E6%97%A5%E8%BE%B00218?from=feed&loc=at" target="_blank">@日辰0218</a> 已删贴并改名为<a href="http://weibo.com/n/%E8%AF%B6%E8%AF%B6%E8%AF%B62333?from=feed&loc=at" target="_blank">@诶诶诶2333</a> ，并且<a href="http://weibo.com/n/baidu%E5%86%B7%E5%85%B5%E5%99%A8%E5%90%A7?from=feed&loc=at" target="_blank">@baidu冷兵器吧</a> 的贴子也被屏蔽。想焚尸灭迹？没那么容易，我早就料到这家伙会来这一出，特地锁定了他的永久账号，在这呢 <a title="诶诶诶2333" href="http://weibo.com/u/5828993116" target="_blank">诶诶诶2333</a> 小样你往哪跑<img title="[哈哈]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/6a/laugh.gif" alt="[哈哈]" data-recalc-dims="1"></p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0tgfja4j30ii0ncwh5.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0tgfja4j30ii0ncwh5.jpg?resize=400%2C505" alt="0065FpBcgw1f5r0tgfja4j30ii0ncwh5" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0tgfja4j30ii0ncwh5.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0tgfja4j30ii0ncwh5.jpg?resize=238%2C300 238w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0esha0yj30gl19iq81.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0esha0yj30gl19iq81.jpg?resize=500%2C1372" alt="0065FpBcgw1f5r0esha0yj30gl19iq81" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0esha0yj30gl19iq81.jpg?w=597 597w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0esha0yj30gl19iq81.jpg?resize=109%2C300 109w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0esha0yj30gl19iq81.jpg?resize=373%2C1024 373w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0es69dlj30gf14ogpp.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0es69dlj30gf14ogpp.jpg?resize=500%2C1239" alt="0065FpBcgw1f5r0es69dlj30gf14ogpp" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0es69dlj30gf14ogpp.jpg?w=591 591w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0es69dlj30gf14ogpp.jpg?resize=121%2C300 121w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0es69dlj30gf14ogpp.jpg?resize=413%2C1024 413w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0etwvgrj30go14l42k.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0etwvgrj30go14l42k.jpg?resize=500%2C1218" alt="0065FpBcgw1f5r0etwvgrj30go14l42k" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0etwvgrj30go14l42k.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0etwvgrj30go14l42k.jpg?resize=123%2C300 123w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0et96d4j30gl10iwic.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0et96d4j30gl10iwic.jpg?resize=500%2C1101" alt="0065FpBcgw1f5r0et96d4j30gl10iwic" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0et96d4j30gl10iwic.jpg?w=597 597w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0et96d4j30gl10iwic.jpg?resize=136%2C300 136w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0et96d4j30gl10iwic.jpg?resize=465%2C1024 465w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0et5g97j30gt14bq79.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0et5g97j30gt14bq79.jpg?resize=500%2C1199" alt="0065FpBcgw1f5r0et5g97j30gt14bq79" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0et5g97j30gt14bq79.jpg?w=605 605w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0et5g97j30gt14bq79.jpg?resize=125%2C300 125w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0et5g97j30gt14bq79.jpg?resize=427%2C1024 427w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0er107nj30ii0pydkz.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0er107nj30ii0pydkz.jpg?resize=500%2C701" alt="0065FpBcgw1f5r0er107nj30ii0pydkz" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0er107nj30ii0pydkz.jpg?w=666 666w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0er107nj30ii0pydkz.jpg?resize=214%2C300 214w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0eqremrj30hs0vkq3v.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0eqremrj30hs0vkq3v.jpg?resize=400%2C710" alt="0065FpBcgw1f5r0eqremrj30hs0vkq3v" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0eqremrj30hs0vkq3v.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0eqremrj30hs0vkq3v.jpg?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/0065FpBcgw1f5r0eqremrj30hs0vkq3v.jpg?resize=577%2C1024 577w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p>
-<blockquote><p><a href="http://weibo.com/3590792404/DErAD78YV" target="_blank">@baidu冷兵器吧</a>： 这一条，可不是我自己删了～而是神奇的转发按钮消失了～顺便，一群五毛还跑出来阴阳怪气什么“无敏感词有什么理由吸引五毛机器人”，人家都明明白白写在那是做机器人五毛测试了，给指定的微博刷评论比抓关键词自动去评论难啊？五毛连这都想不清，比机器人智能还低，难怪上面要找机器人了～</p></blockquote>
-<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d60724d4jw1f5r068e62rj20gj0iv43b.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d60724d4jw1f5r068e62rj20gj0iv43b.jpg?resize=550%2C628" alt="d60724d4jw1f5r068e62rj20gj0iv43b" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d60724d4jw1f5r068e62rj20gj0iv43b.jpg?w=595 595w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d60724d4jw1f5r068e62rj20gj0iv43b.jpg?resize=263%2C300 263w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<blockquote><p><strong>相关阅读：</strong></p>
-<ul><li><a href="https://chinadigitaltimes.net/chinese/2016/03/%E8%87%AA%E5%B7%B1%E9%83%BD%E4%B8%8D%E4%BF%A1%EF%BC%9A%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF%E4%B9%8B%E9%95%BF%E5%B9%B3%E7%AF%87/">【立此存照】自己都不信：机器五毛召唤术之长平篇</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E4%BA%94%E6%AF%9B%E5%8F%AC%E5%94%A4%E6%9C%AF/">【立此存照】五毛召唤术：“pu志强”的魔力</a></li>
-<li><a href="https://chinadigitaltimes.net/chinese/2015/12/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AB%98%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%E7%9A%84%E6%AD%A3%E8%83%BD%E9%87%8F%E7%BD%91%E5%86%9B/">【立此存照】当高科技网军占领网络上甘岭（可惜操作有误）</a></li>
-<li>中国数字时代<a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/" target="_blank">机器五毛</a>专题</li>
-</ul></blockquote>
-<p><strong>附智能网评管理系统登陆界面一例：</strong></p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%99%BA%E8%83%BD%E7%BD%91%E8%AF%84%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%99%BA%E8%83%BD%E7%BD%91%E8%AF%84%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.jpg?resize=500%2C373" alt="智能网评管理系统" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/智能网评管理系统.jpg?w=1200 1200w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/智能网评管理系统.jpg?resize=300%2C224 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/智能网评管理系统.jpg?resize=768%2C573 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/智能网评管理系统.jpg?resize=1024%2C765 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E6%B5%8B%E8%AF%95%E4%B8%93%E5%8C%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%89%E4%B8%AA%E8%87%AA%E4%BF%A1/?category=18271" rel="tag">三个自信</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%BA%E5%99%A8%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">机器五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">网络审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E6%83%85%E7%9B%91%E6%8E%A7/?category=18271" rel="tag">舆情监控</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8C%97%E4%BA%AC%E5%9C%B0%E5%8C%BA%E5%9B%BE%E4%B9%A6%E9%94%80%E5%94%AE%E6%8E%92%E8%A1%8C%E6%A6%9C/" target="cdt-mirror">【图说天朝】北京地区图书销售排行榜</a>
-</h2>
-<p><p>@中国刘杰：习总的系列讲话登上2016年6月北京地区图书销售排行榜首位！</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/DLw7p.jpg?resize=640%2C480" alt="DLw7p" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/DLw7p.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/DLw7p.jpg?resize=300%2C225 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1"></p>
-<p>@大三阳加加加：揣摩上意，权力崇拜，说明中国还是个专制社会.</p>
-<p>@二0一二的天空：哦，北京人民就是政治觉悟高。赞一个。</p>
-<p>@王行天下1234：我就想问有一本是花个人钱买的吗？</p>
-<p>@asusmt：可能都是企业采购内部分发吧。</p>
-<p>‏@wenyunchao：北京地区图书销售排行榜。中华复兴指日可待。</p>
-<p>@9s_cc：反正有人没少敛财。</p>
-<p>@踢球的老杆子：看到三本非政治书籍，我们仨，易理与人生，新华字典。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E5%8C%97%E4%BA%AC%E5%9C%B0%E5%8C%BA%E5%9B%BE%E4%B9%A6%E9%94%80%E5%94%AE%E6%8E%92%E8%A1%8C%E6%A6%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6/?category=18271" rel="tag">专制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3/?category=18271" rel="tag">习近平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%80%9D%E6%83%B3%E7%BB%9F%E6%B2%BB/?category=18271" rel="tag">思想统治</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/?category=18271" rel="tag">意识形态</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%AE%9D%E4%B9%A6/?category=18271" rel="tag">红宝书</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -957,7 +953,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -967,5 +963,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%93%E5%88%B6
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

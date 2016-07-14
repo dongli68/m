@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%8D%E6%8E%A5%E5%8F%97%EF%BC%8C%E4%B8%8D%E6%89%BF%E8%AE%A4%EF%BC%8C%E4%B8%8D%E6%89%A7%E8%A1%8C/" target="cdt-mirror">【麻辣总局】不接受，不承认，不执行</a>
+</h2>
+<p><blockquote><p>不接受，不承认，不执行，单方面宣布延迟退休废纸一张。</p></blockquote>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/63439267gw1f5t6ow3lozj20hs0uc0uu.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/63439267gw1f5t6ow3lozj20hs0uc0uu.jpg?resize=450%2C768" alt="63439267gw1f5t6ow3lozj20hs0uc0uu" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/63439267gw1f5t6ow3lozj20hs0uc0uu.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/63439267gw1f5t6ow3lozj20hs0uc0uu.jpg?resize=176%2C300 176w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/63439267gw1f5t6ow3lozj20hs0uc0uu.jpg?resize=600%2C1024 600w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E5%BE%AE%E5%8D%9A.png"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E5%BE%AE%E5%8D%9A.png?resize=500%2C1980" alt="环球时报微博" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/环球时报微博.png?w=601 601w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/环球时报微博.png?resize=76%2C300 76w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<blockquote><p>背景新闻：<a href="http://finance.sina.com.cn/china/gncj/2016-07-13/doc-ifxuapvs8343866.shtml" target="_blank">新华社｜人社部计划今年拿出延迟退休方案</a></p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%8D%E6%8E%A5%E5%8F%97%EF%BC%8C%E4%B8%8D%E6%89%BF%E8%AE%A4%EF%BC%8C%E4%B8%8D%E6%89%A7%E8%A1%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%BB%E8%80%81%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">养老制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%B6%E8%BF%9F%E9%80%80%E4%BC%91/?category=18271" rel="tag">延迟退休</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%9F%E8%B0%A2%E5%9B%BD%E5%AE%B6/?category=18271" rel="tag">感谢国家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8B%AC%E7%94%9F%E5%AD%90%E5%A5%B3/?category=18271" rel="tag">独生子女</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%A6%8F%E5%88%A9/?category=18271" rel="tag">社会福利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AE%A1%E5%88%92%E7%94%9F%E8%82%B2/?category=18271" rel="tag">计划生育</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 10分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%92%AA%E8%92%99%EF%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E5%9B%BD-%E6%B0%B8%E8%BF%9C%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6/" target="cdt-mirror">【异闻观止】咪蒙：永远爱国 永远热泪盈眶</a>
+</h2>
+<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/HY4ke.jpg?resize=440%2C522" alt="HY4ke" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/HY4ke.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/HY4ke.jpg?resize=253%2C300 253w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>“人不爱国，和咸鱼有什么区别。”</p>
+<p>1<br>
+我拉黑了一个朋友。昨天刷了一晚上的微博，全是南海问题，越刷越燃，半夜睡不着，忍不住去微信群里说了一下。然后冒出了一个高冷的傻逼。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2EQf7.jpg?resize=450%2C800" alt="2EQf7" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2EQf7.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2EQf7.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2EQf7.jpg?resize=576%2C1024 576w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>老实说，拉黑他的时候，我陷入了深深的自责，我到底是什么时候不小心手滑，加了这种傻逼。其实，我平常不太谈论爱不爱国这件事，因为一直羞于承认，自己是那种看奥运会的时候，只要瞟到中国选手拿了冠军，开始升国旗、奏国歌，就不受控制地热泪盈眶的人。关键是我是资深体育盲，多半都不知道他是谁，以及是参加了什么项目……好吧，我就是喜欢中国，比如在国外旅游，被认成日本人或者韩国人，我会动用我毕生的英文词汇，来回复：No，I’m Chinese！妈蛋，爱国不是很正常的一件事吗。好吧，如果有人非要问我为什么喜欢中国，我就跟你好好聊聊吧！</p>
+<p>2</p>
+<p><strong>我们大中国好吃！很好吃！非常好吃！</strong>最好的爱国主义教育是什么——出国。每一次出国都是一场爱国主义的升华和洗礼，因为国外的食物偶尔吃还行，吃上一段时间就会崩溃的啊。我在欧洲玩到第十天的时候，就疯狂地想吃火锅，在少女峰，眼前一片美景，我的脑子里只有毛肚和黄喉。我不要什么鬼雪山！我要吃火锅！到了餐馆，只有火腿芝士火腿芝士火腿芝士的时候，我真的很想杀人。我和唯唐一路上是靠想念中国菜活下来的。我们后来那几天报菜名，钵钵鸡麻辣烫毛血旺水煮牛肉香辣蛙宫保鸡丁糖醋排骨红烧鸡翅羊肉串……讲真，我全身上下最爱国的部位就是我的胃。我们大中国一个小县城的美食就能秒杀几个国家！上大学的时候，我教日本学生汉语。有一次，带两个日本静冈县的学生去吃四川菜，他们两个辣成狗，嘶啊嘶地叫，但是完全上瘾，说之前的二十多年白活了，没想到世界上还有这么好吃的食物。特别搞笑的是，他俩回国就疯狂安利中国食物好吃，他们的同学和父母都跑来中国留学了（你没看错，父母都成了高龄留学生），就为了食物。我的同事聂聂在英国留学的时候，她唯一擅长的就是用火锅底料煮一切，但是这点烂厨艺征服了整栋楼的外国人，大家对她各种跪舔，一个意大利帅哥把她的破厨艺称之为“魔法”。她的泰国土豪同学，送给她一个剑桥包，就为了让她用火锅底料煮土豆。她另一个厨艺稍好的中国同学，凭借两个拿手菜，番茄炒蛋和可乐鸡翅，就泡到了一个挪威帅哥。听了这个故事，我好担心啊，以我的厨艺，是不是能征服英国首相了。卡梅伦，我来了！</p>
+<p>3</p>
+<p><strong>我们大中国生活超！级！方！便！</strong>有一次去美国，我和几个朋友逛了梅西百货，要回宾馆，想打车。梅西百货在一个鸟不拉屎的郊区，我们在高速公路旁边等了一个多小时，都没等到出租车。后来美国朋友帮我们预约了一个，司机来的时候，我都要哭了。在国外很多地方，没有车，简直就没法活。还有国外打车超！求！贵！我闺蜜肚子红去东京玩，逛街逛high了，忘了时间，打车去机场，花了1400多块，人民币哦。基本上在国外的一线城市，打车是贵族的象征。还有我们的便利店太发达了！除了日本以外，基本没有国家便利店的分布有我们密集。聂聂就说，在英国，小超市反而很贵。李瑞清就说，在美国，除了加油站旁边，几乎没什么便利店。说到这里，真的好怀念深圳啊，我家楼下就有五六家便利店。而且很多便利店什么都可以外卖，点一瓶可乐都可以送到家，服务感人。我们快递发达，买任何东西都可以网购，我每次想吃南充的卤鸭子和川北凉粉都可以网购，感人至深啊。还有，在中国完全可以不带现金出门。随便一家小店都可以微信支付，买个烤红薯，大爷都熟练地让我扫码支付，屌爆了。还有剪头发。李瑞清在美国的时候，在yelp上找了评分最高，被称为完美的一家理发店，然后他要求稍微修短点，理发师就给他推成了平头，还花了55美金。知乎上有个小伙伴，叫“依然头上霜”，他在美国剪头发，理发师是一个白人大妈，他要求鬓角最好自然点，有点弧度，大妈认真听了，表示完全明白，然后把他剪成了这样：</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/4FBfg.jpg?resize=550%2C364" alt="（图片经本人授权使用）" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/4FBfg.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/4FBfg.jpg?resize=300%2C199 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>（图片经本人授权使用）</p></div>
+<p>4</p>
+<p><strong>我们大中国有夜！生！活！</strong>作为夜猫子，我实在受不了在欧美，晚上8点之后，整个城市像死了一样啊。冬天的时候去欧洲更可怕，下午四点天黑了，商场就准备关门了，感觉6点就该上床睡觉了，老子睡不着啊。还有周末也很无聊，周日好多商场又关门，好任性啊。日子淡出个鸟来。有一次去美国北部的一个小镇，长得很漂亮，然而特么一个人都没有。空旷而干净，完全就是恐怖片的开头啊。老子在拍《寂静岭》吗。差点把老子的抑郁症吓出来了。每次朋友邀请我去美国玩耍一个月，我就说谢了谢了。我就喜欢热闹！！！我就喜欢周末去逛商场，我就喜欢凌晨2点在路边吃大排档，我就喜欢去嘈杂的菜市场买最活泼开朗的海鲜！老子为了这点烟火气和人情味，也舍不得离开中国啊。</p>
+<p>5</p>
+<p><strong>我们大中国很给人安全感！</strong>聂聂说，2015年也门撤侨事件发生，他们留学生都在讨论这件事，其他国家的人都很羡慕聂聂，因为她是中国人。他们说，因为只要拿着中国护照，出了什么事，国家在背后给你们罩着。你看新闻当中，撤侨的时候，中国人都井然有序坐在那，很淡定。而印度小哥们已经和工作人员打了起来，因为不确定能不能回去。聂聂说，当时特别有民族自豪感。她感慨的就是，出国之后，她更爱国了。2008年北京奥运的时候，我去美国玩，每个美国人只要知道我是中国人，并且英语不好，都会对我说，Beijing, great!China,wonderful!其实这两天我们对待南海事件，就完全展示了安全感有多强啊。菲律宾闹这么一出，就像看一个不懂事的熊孩子，在家门口打滚说：不给糖，就捣蛋。我们只想挥挥手，说，爸爸忙着呢，一边待着去。</p>
+<p>6<br><strong>最后，我想说说，爱国最好的方式，就是做好手头的事。</strong>爱国不是打嘴炮。也不是上网去喷别人。更不是道德绑架。我特别看不惯的是，有些人为了表演自己的爱国情绪，上班时间、上课时间都在刷微博，到处各种喷。你做好你分内的事了吗？国家怎么才能更强大？道理很简单，卖煎饼的好好摊煎饼，写代码的好好编程，我们写字的就好好写文章。不要以为爱国是一件很宏大的事。其实爱国可以是很日常的，爱我们的工作，爱我们的家人，爱我们的朋友，爱我们的城市，这都是爱国。做好自己，就是最好的爱国。</p>
+<p>网友附的一条旧微博</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Mg2Di.jpg?resize=488%2C800" alt="Mg2Di" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Mg2Di.jpg?w=488 488w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Mg2Di.jpg?resize=183%2C300 183w" sizes="(max-width: 488px) 100vw, 488px" data-recalc-dims="1"></p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%92%AA%E8%92%99%EF%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E5%9B%BD-%E6%B0%B8%E8%BF%9C%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E5%88%86%E6%AD%A7/?category=18271" rel="tag">价值分歧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%AA%E8%92%99/?category=18271" rel="tag">咪蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%97%85/?category=18271" rel="tag">爱国病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%A1%97%E7%81%AF%E7%BF%BB%E8%AF%91%E7%A4%BE-%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%9B%BD%E9%99%85%E4%BB%B2%E8%A3%81%E5%BA%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%89%E8%AE%BA/" target="cdt-mirror">街灯翻译社 ｜关于国际仲裁庭的一些争论</a>
+</h2>
+<p><blockquote><p><strong><a href="http://weibo.com/5708252703/DEJSzt478" target="_blank">@街灯翻译社</a></strong>：昨天开始，对于国际仲裁庭资质问题持怀疑态度的微博开始增多，更有甚者将其称为莆田系来哗众取宠。中方也在白皮书里面再次表示仲裁庭不具备管辖权，不接受，不承认裁决。那从法理上，中方是否有资格“不接受，不承认”呢？此文为您详细解读#南海仲裁结果# °关于国际仲裁庭的一些争论</p></blockquote>
+<p>在国际仲裁庭给出了不利于中方的仲裁决议后，国新办今天发布白皮书，其中针对国际仲裁庭对此事的管辖权以及菲律宾将争端带到仲裁庭的行为表示了异议。</p>
+<p>白皮书说：菲律宾时任政府2013年单方面提起的南海仲裁案违反中菲通过双边谈判解决争议的协议，侵犯中国作为《联合国海洋法公约》缔约国自主选择争端解决方式的权利，滥用《公约》争端解决程序。应菲律宾单方面请求建立的南海仲裁案仲裁庭自始无管辖权，所作出的裁决是无效的，没有拘束力。中国在南海的领土主权和海洋权益在任何情况下不受仲裁裁决的影响。中国不接受、不承认该裁决，反对且不接受任何以仲裁裁决为基础的主张和行动。</p>
+<p>那么国际仲裁庭的判决真的是无效的吗？仲裁庭在此事上没有管辖权吗？针对白皮书给出的回应，下文逐条分析其合理性。</p>
+<p><strong>一．</strong></p>
+<p><i>“菲律宾时任政府2013年</i><b><i>单方面</i></b><i>提起的南海仲裁案</i><b><i>违反中菲通过双边谈判解决争议的协议</i></b><i>，侵犯中国作为《联合国海洋法公约》缔约国</i><b><i>自主选择争端解决方式的权利</i></b><i>，</i><b><i>滥用</i></b><i>《公约》争端解决程序。”</i></p>
+<p>第一句话实际上提出了两个问题，第一是认为菲方单方面提起仲裁违反了双边谈判解决争议的协议。</p>
+<p>首先根据UNCLOS（联合国海洋法公约），菲律宾自然是<b>在法理上有权利</b>提起“单方面“的仲裁请求的。（Ku Julian，2015）根据该法条款286”任何牵涉对该公约解读和实施方面问题的争议可由争议任一方提交给有相关管辖权的法庭或仲裁庭。”所以，<b>从法理上而言，不需要征得中国的同意即可提交仲裁请求。</b>其次，就道义上而言，<b>中方所谓的双边谈判解决争议协议，实际上也没有说明不能申请仲裁</b>。菲律宾最多说将会在这个问题上保持一定的克制，不使失态升级或复杂化。仲裁庭认为，这句话很难被解读为，不申请仲裁。（ku julian，2015）</p>
+<p>第二个问题是对于公约的滥用。中方认为申请仲裁侵犯了中国自主选择争端解决方式的权利，属于滥用决议。中国指出公约第281条规定“已协议用自行选择的和平方式来谋求解决争端，则只有在诉诸这种方法而未得到解决，以及争端各方间的协议并不排除任何其他程序的情形下，才适用本部分所规定的程序。”</p>
+<p>根据此方面的专家学者，旅美博士@黎蜗藤老师的文章，在谈判问题上，中菲一直没能在谈判方式上取得共识。2012年黄岩岛事件之后，中国多次拒绝谈判。以及在九段线问题上中方一直没有回应。这些都符合“诉诸这种方法而未得到解决”的情形，故可申请仲裁。<b>并且，从法理上，这《宣言》也不能构成法理上排除仲裁可能的理由</b>。这一问题详细可参见黎蜗藤老师在端传媒上发表的文章，文末会附上链接。</p>
+<p><strong>二．</strong></p>
+<p><i>“应菲律宾单方面请求建立的南海仲裁案仲裁庭</i><b><i>自始无管辖权</i></b><i>，所作出的<b>裁</b></i><b><i>决是无效的</i></b><i>，没有拘束力。”</i></p>
+<p>仲裁庭的判决并不是无效的，尽管它们在此事件中没有强制当事国执行的能力。根据Ku Julian教授在Lawfare上的文章，中国加入《联合国海洋法公约》时即已承认288(4)条款(“管辖权问题应由该法院或法庭以裁定解决。”)。换言之，该案仲裁庭有没有管辖权，需交由仲裁庭决定，而仲裁庭也在经过一年审核过后认为它有这个权力。</p>
+<p>这种设计也是有意为之的，Ku Julian教授指出，如果仲裁庭不能裁定对于争议事项自己有没有管辖权范围，那么争议中一方总能以缺乏管辖权为由规避仲裁，仲裁的“强制性”则无从谈起。而中国当初加入该公约即已承认了这种“强制性”。</p>
+<p>至于做出的裁决是否是无效的，《公约》296条款指出(“根据本节具有管辖权的法院或法庭对争端所作的任何裁判应有确定性，争端所有各方均应遵从。”），换言之这个判决必然有着法律效力的。中方可以不遵守判决，但难免遭到非议，使本已经复杂的南海局势进一步升级，乃至损害本国在外交方面的声誉。</p>
+<p><strong>三．</strong></p>
+<p><i>“中国在南海的</i><b><i>领土主权和海洋权益</i></b><i>在任何情况下不受仲裁裁决的影响。中国不接受、不承认该裁决，反对且不接受任何以仲裁裁决为基础的主张和行动。”</i></p>
+<p>首先，<b>仲裁席在判决过程中已经声明不参与对领土主权的界定问题</b>。在仲裁庭花费一年考虑管辖权后，也只将菲方无关领土主权的几项的几项受理。（Ku Julian，2015）。中国在2006年根据《公约》298条规定，做出了排除性声明，表示涉及领土主权、海洋划界、历史性主权等争端不接受《公约》第十五部分的强制程序。<b>但因为菲方没有做排除性声明，则不妨碍这次仲裁的进行</b>。（黎蜗藤，2016）</p>
+<p>另外，仲裁庭也没有对岛礁的归属问题进行仲裁，而是界定哪些岛礁拥有怎样的海洋权利，所以严格来说这也不涉及领土主权问题。</p>
+<p>以上就是对于仲裁庭管辖权，程序问题的一些解释。结论是仲裁庭具有管辖权，主要就来源于《公约》288（4）条款。</p>
+<p>本文主要取自于@黎蜗藤老师和Ku julian教授的文章，因两人的文章都要翻墙阅读，故特摘抄和翻译一些段落以正视听。</p>
+<p>黎蜗藤 南海争议，北京说词的误区（下）：今日局面何以致之？ 端传媒，2016 https://theinitium.com/article/20160713-opinion-lai-southchinasea-II/<br>
+Ku Julian. China‘s Ridiculously Weak Legal Argument Against Complying with the South China Sea Arbitration Award. lawfareblog, 2015<br>
+https://www.lawfareblog.com/chinas-ridiculously-weak-legal-argument-against-complying-south-china-sea-arbitration-award</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%A1%97%E7%81%AF%E7%BF%BB%E8%AF%91%E7%A4%BE-%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%9B%BD%E9%99%85%E4%BB%B2%E8%A3%81%E5%BA%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%89%E8%AE%BA/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8F%B2%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中菲关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%81%87%E8%A3%85%E5%9C%A8%E7%BA%BD%E7%BA%A6-%E4%BB%B7%E5%80%BC%E8%A7%82%E6%89%8D%E6%98%AF%E4%BA%BA%E5%92%8C%E4%BA%BA%E4%B9%8B%E9%97%B4%E6%9C%80%E6%B7%B1%E7%9A%84%E9%B8%BF%E6%B2%9F/" target="cdt-mirror">假装在纽约 | 价值观才是人和人之间最深的鸿沟</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?resize=600%2C390" alt="640CRPV6VOL" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?resize=300%2C195 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?resize=230%2C150 230w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?resize=600%2C350" alt="640VC3K888S" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?resize=300%2C175 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?resize=80%2C48 80w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
@@ -55,7 +131,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E5%88%86%E6%AD%A7/?category=18271" rel="tag">价值分歧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%97%85/?category=18271" rel="tag">爱国病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 4小时前</small>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%90%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%95%AC%E7%9A%84%E4%B9%A0%E6%B0%8F%E7%94%B2%E8%99%AB%E4%B8%BA%E4%BD%95%E9%81%AD%E5%B0%81/" target="cdt-mirror">纽约时报｜向习近平致敬的“习氏甲虫”为何遭封杀？</a>
 </h2>
@@ -773,175 +849,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/bbc-%E6%B5%B7%E7%89%99%E6%B3%95%E5%BA%AD%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E6%97%A0%E5%8E%86%E5%8F%B2%E6%9D%83%E5%88%A9/" target="cdt-mirror">BBC | 海牙法庭称中国在南海无历史权利</a>
-</h2>
-<p><p><strong>海牙法庭周二（12日）对南海仲裁案作出裁决，指在九段线内，中国没有“历史权利”宣称主权。</strong></p>
-<p>该案由菲律宾单方面提起仲裁，菲律宾称中国在南海区域的活动违反了国际法。</p>
-<p>中国宣称拥有南海岛礁和岛屿90%的主权。但其它国家也宣称对其拥有部分主权。</p>
-<p>中方此前宣称不接受、不参与南海仲裁案，不承认、不执行仲裁结果。</p>
-<p>这项裁决具有约束力，但没有执行力。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/160524024251_150410033144_150309153201_south-china_sea_islands_624_chinese.gif?resize=624%2C553" alt="160524024251_150410033144_150309153201_south-china_sea_islands_624_chinese" data-recalc-dims="1"></p>
-<p>网络流传的仲裁案法庭判决非官方中文翻译版本</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/07/%E4%BB%B2%E8%A3%81%E6%A1%88%E6%96%87%E6%9C%AC%E4%B8%AD%E6%96%87.pdf">仲裁案文本中文</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/bbc-%E6%B5%B7%E7%89%99%E6%B3%95%E5%BA%AD%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E6%97%A0%E5%8E%86%E5%8F%B2%E6%9D%83%E5%88%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E6%AE%B5%E7%BA%BF/?category=18271" rel="tag">九段线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A4%E5%86%B3/?category=18271" rel="tag">判决</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">南海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%B3%95/?category=18271" rel="tag">国际法</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/bbc-%E6%B5%B7%E7%89%99%E6%B3%95%E5%BA%AD%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E6%97%A0%E5%8E%86%E5%8F%B2%E6%9D%83%E5%88%A9/" target="cdt-mirror">BBC | 海牙法庭称中国在南海无历史权利（附仲裁案文本中文翻译）</a>
-</h2>
-<p><p><strong>海牙法庭周二（12日）对南海仲裁案作出裁决，指在九段线内，中国没有“历史权利”宣称主权。</strong></p>
-<p>该案由菲律宾单方面提起仲裁，菲律宾称中国在南海区域的活动违反了国际法。</p>
-<p>中国宣称拥有南海岛礁和岛屿90%的主权。但其它国家也宣称对其拥有部分主权。</p>
-<p>中方此前宣称不接受、不参与南海仲裁案，不承认、不执行仲裁结果。</p>
-<p>这项裁决具有约束力，但没有执行力。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/160524024251_150410033144_150309153201_south-china_sea_islands_624_chinese.gif?resize=624%2C553" alt="160524024251_150410033144_150309153201_south-china_sea_islands_624_chinese" data-recalc-dims="1"></p>
-<p>网络流传的仲裁案法庭判决非官方中文翻译版本</p>
-<p><a href="http://chinadigitaltimes.net/chinese/files/2016/07/%E4%BB%B2%E8%A3%81%E6%A1%88%E6%96%87%E6%9C%AC%E4%B8%AD%E6%96%87.pdf">仲裁案文本中文链接</a></p>
-<p>新闻稿：南海仲裁案 (菲律宾共和国 v. 中华人民共和国)</p>
-<p>海牙,2016年7月12日</p>
-<p>仲裁庭发布裁决</p>
-<p>今日,根据《联合国海洋法公约》(“《公约》”)附件七组成的仲裁庭就菲律宾共和国对中 华人民共和国提起的仲裁案作出了一致裁决。</p>
-<p>该仲裁案涉及在南海的历史性权利的作用和海洋权利的渊源、某些岛礁的地位及其能够产生 的海洋权利,以及菲律宾声称违反了《公约》的中国某些行为的合法性问题。考虑到《公 约》对强制争端解决的限制性规定,仲裁庭强调,它既不对任何涉及陆地领土主权的问题进 行裁决,也不划定当事双方之间的任何边界。</p>
-<p>中国反复申明“其不接受、不参与由菲律宾单方面提起的仲裁”。然而,《公约》附件七规 定,“争端一方缺席或不对案件进行辩护,应不妨碍程序的进行”。附件七同时规定,在争 端一方不参与程序的情况下,仲裁庭“必须不但查明对该争端确有管辖权,而且查明所提要 求在事实上和法庭上均确有根据”。因此,在整个程序中,仲裁庭采取了一些步骤验证菲律 宾诉求的正确性,包括要求菲律宾提交进一步的书面论证,在两次庭审之前及庭审过程中对 菲律宾进行询问,指定独立的专家就技术性问题向仲裁庭报告,以及获取关于南海岛礁的历 史性证据并提供给当事双方予以评论。</p>
-<p>通过 2014 年 12 月发布的《立场文件》和其他官方声明,中国明确表示,仲裁庭对本案涉及 的事项缺乏管辖权。《公约》第 288 条规定:“对于法院或法庭是否具有管辖权如果发生争 端,这一问题应由该法院或法庭以裁定解决”。据此,仲裁庭于 2015 年 7 月就管辖权和可 受理性问题进行了开庭审理,并于 2015 年 10 月 29 日作出了《关于管辖权和可受理性问题 的裁决》,其中对一些管辖权问题进行裁决并推迟对其他问题进行进一步审议。2015 年 11 月 24 日至 30 日,仲裁庭接着对实体问题进行了开庭审理。</p>
-<p>今日的裁决审议了《关于管辖权和可受理性问题的裁决》未决的管辖权问题和仲裁庭有权管 辖的菲律宾诉求的实体性问题。根据《公约》第 296 条和附件七第 11 条的规定,该裁决具 有终局性和拘束力。</p>
-<p>UNOFFICIAL TRANSLATION 非官方翻译</p>
-<p><strong>历史性权利和“九段线”</strong>:仲裁庭认为,它对当事双方涉及南海的历史性权利和海洋权利渊 源的争端具有管辖权。在实体问题上,仲裁庭认为,《公约》对海洋区域的权利作了全面的 分配,考虑了对资源的既存权利的保护,但并未将其纳入条约。因此,仲裁庭得出结论,即使中国曾在某种程度上对南海水域的资源享有历史性权利,这些权利也已经在与《公约》关于专属经济区的规定不一致的范围内归于消灭。仲裁庭同时指出,尽管历史上中国以及其他国家的航海者和渔民利用了南海的岛屿,但并无证据显示历史上中国对该水域或其资源拥有 排他性的控制权。仲裁庭认为,中国对“九段线”内海洋区域的资源主张历史性权利没有法律依据。</p>
-<p><strong>岛礁的地位</strong>:仲裁庭接下来审议了海洋区域的权利和岛礁的地位。仲裁庭首先评估了中国主张的某些礁石在高潮时是否高于水面。高潮时高于水面的岛礁能够产生至少 12 海里的领 海,而高潮时没入水中的岛礁则不能。仲裁庭注意到,这些礁石已经被填海和建设活动所严 重改变,重申《公约》基于岛礁的自然状态对其进行归类,并依据历史资料对这些岛礁进行 评估。然后,仲裁庭考虑了中国主张的任一岛礁能否产生超过 12 海里的海洋区域。根据 《公约》,岛屿能够产生 200 海里的专属经济区和大陆架,但是“不能维持人类居住或其本 身的经济生活的岩礁,不应有专属经济区或大陆架”。仲裁庭认为,这项规定取决于一个岛 礁在自然状态下,维持一个稳定的人类社群或者不依赖于外来资源或纯采掘业的经济活动的 客观承载力。仲裁庭注意到,现在很多岛礁上驻扎的政府人员依赖于外来的支持,不能反映这些岛礁的承载力。仲裁庭认为历史证据更具有相关性,并注意到历史上小规模的渔民曾经 利用南沙群岛,且有若干在其上建立日本渔业和肥料开采企业的尝试。仲裁庭认定,这种短暂的利用并不构成稳定的人类社群的定居,且历史上所有的经济活动都是纯采掘性的。据此,仲裁庭得出结论,认为南沙群岛无一能够产生延伸的海洋区域。仲裁庭还认为南沙群岛 不能够作为一个整体共同产生海洋区域。在认定中国主张的岛礁无一能够产生专属经济区之 后,仲裁庭认为它可以在不划分边界的情况下裁定某些海洋区域位于菲律宾的专属经济区 内,因为这些区域与中国任何可能的权利并不重叠。</p>
-<p><strong>中国行为的合法性</strong>:仲裁庭接下来审议了中国在南海行为的合法性。在认定特定区域位于菲 律宾的专属经济区的基础上,仲裁庭裁定中国的以下行为违法了菲律宾在其专属经济区享有 的主权权利:(a)妨碍菲律宾的捕鱼和石油开采;(b)建设人工岛屿;(c)未阻止中国 渔民在该区域的捕鱼活动。仲裁庭还认为,菲律宾渔民(如中国渔民一样)在黄岩岛有传统 的渔业权利,而中国限制其进入该区域从而妨碍了这些权利的行使。仲裁庭进一步认为,中 国执法船对菲律宾船只进行拦截的行为非法地造成了严重的碰撞危险。</p>
-<p><strong>对海洋环境的损害</strong>:仲裁庭考虑了中国近期在南沙群岛七个岛礁上的大规模填海和人工岛屿 建设对海洋环境的影响,查明中国对珊瑚礁环境造成了严重损害,违反了其保全和保护脆弱 的生态系统以及衰竭、受威胁或有灭绝危险的物种的生存环境的义务。仲裁庭还查明,中国 官方对中国渔民在南海(使用对珊瑚礁环境造成严重损害的方法)大量捕捞有灭绝危险的海龟,珊瑚及大硨磲的行为知情,却未履行其阻止此类活动的义务。</p>
-<p><strong>争端的加剧</strong>:最后,仲裁庭审议了中国自本仲裁启动之后的行为是否加剧了当事双方之间的 争端。仲裁庭裁定,它对菲律宾海军与中国海军和执法船只在仁爱礁的对峙可能造成的后果 没有管辖权进行审议,因为此项争端涉及军事活动,因此为强制争端解决所排除。但是,仲 裁庭认为,中国近期大规模的填海和建设人工岛屿的活动不符合缔约国在争端解决程序中的 义务,因为中国对海洋环境造成了不可恢复的损害,在菲律宾专属经济区内建设大规模的人 工岛屿,并破坏了构成双方部分争端的南海岛礁自然状态的证据。</p>
-<p>下文为仲裁庭裁决的扩展摘要。</p>
-<p>本案仲裁庭于 2013 年 6 月 21 日根据《公约》附件七规定的程序组成,以对菲律宾提交的争 端进行裁决。本案仲裁庭由加纳籍法官 Thomas A. Mensah,法国籍法官 Jean-Pierre Cot, 波兰籍法官 Stanislaw Pawlak,荷兰籍教授 Alfred H.A. Soons 和德国籍法官 Rüdiger Wolfrum 组成。Thomas A. Mensah 法官担任首席仲裁员。常设仲裁法院担任本案的书记处。<br>
-关于本案的更多信息,包括《关于管辖权和可受理性问题的裁决》、《程序规则》和早先新 闻稿以及庭审记录和照片,请见 www.pcacases.com/web/view/7。程序令、菲律宾的诉求、 仲裁庭专家的报告和仲裁庭裁决的非官方中译文将在之后适时发布。</p>
-<p>常设仲裁法院背景资料</p>
-<p>常设仲裁法院是根据 1899 年海牙《和平解决国际争端公约》成立的政府间组织。常设仲裁 法院共有 121 个成员国,总部位于荷兰海牙的和平宫。常设仲裁法院为国家、国家实体、政 府间组织、私人主体间的仲裁、调解、事实调查以及其他争端解决程序提供服务。常设仲裁 法院国际局目前为 8 个国家间仲裁案件,73 个国际投资仲裁案件,以及 34 个涉及国家或其 他公共主体的合同仲裁案件提供书记处服务。常设仲裁法院共管理过 12 个主权国家在《联合国海洋法公约》附件七下提起的仲裁案。</p>
-<p>2013 年 7 月,南海仲裁案的仲裁庭指定常设仲裁法院作为案件的书记处。仲裁庭的《程序规则》规定,常设仲裁法院应当“为仲裁程序提供档案管理,并根据仲裁庭指令提供适当的 书记处服务”。这些服务包括协助查找和指定专家;发布关于仲裁案的信息和发布新闻稿; 组织在海牙和平宫进行庭审;管理案件财务,包括管理案件费用保证金,例如支付仲裁员, 专家,技术支持人员和庭审记录员的费用等。书记处也为当事方,仲裁庭和观察员国之间提 供官方交流渠道。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-12-at-9.36.16-AM.png?resize=551%2C325" alt="Screen Shot 2016-07-12 at 9.36.16 AM" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-12-at-9.36.16-AM.png?w=1682 1682w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-12-at-9.36.16-AM.png?resize=300%2C177 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-12-at-9.36.16-AM.png?resize=768%2C453 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-12-at-9.36.16-AM.png?resize=1024%2C604 1024w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-12-at-9.36.16-AM.png?resize=80%2C48 80w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
-<p>图片: 庭审中,2015 年 7 月,和平宫,海牙。顺时针左上开始:常设仲裁法院高级法律顾问兼书记官 Judith Levine, Stanislaw Pawlak 法官,Alfred H.A. Soons 教授,Thomas A. Mensah 法官 (首席仲裁员), Jean-Pierre Cot 法官, Rüdiger Wolfrum 法官,常设仲裁法院高级法律顾问 Garth Schofield,菲律宾前外交部长 Albert F. Del Rosario 先生,前总检察长 Florin T. Hilbay 先 生,菲律宾律师 Paul S. Reichler 先生,Philippe Sands 教授,Bernard H. Oxman 教授,Alan E. Boyle 教授,Lawrence H. Martin 先生。</p>
-<p>仲裁庭关于管辖权和菲律宾诉求的实体问题的裁决摘要</p>
-<p>1. 仲裁案的背景</p>
-<p>菲律宾和中国间的南海仲裁案涉及菲律宾对其与中国在南海关系的四个事项进行裁决的请 求。第一,菲律宾请求仲裁庭对当事双方在南海的权利和义务渊源,以及《联合国海洋法公 约》(“《公约》”)对中国在所谓的“九段线”内主张的历史性权利的效力作出裁决。第 二,菲律宾请求仲裁庭裁定某些被菲律宾和中国同时主张的岛礁能否被恰当地定义为《公 约》下的岛屿,礁石,低潮高地或者水下地物。这些岛礁在《公约》下的地位决定它们所能 产生的海洋区域。第三,菲律宾请求仲裁庭裁定中国在南海的某些活动是否违反了《公约》 的规定,包括妨碍菲律宾行使《公约》下的主权权利和自由或者进行损害海洋环境的建设和 渔业活动。最后,菲律宾请求仲裁庭裁定中国的某些行为,尤其是自本仲裁启动之后在南沙 群岛大规模填海和建设人工岛屿的活动,非法地加剧并扩大了双方之间的争端。</p>
-<p>中国政府在此前进行的一系列程序中坚持不接受、不参与仲裁的立场,并在其外交照会、 2014 年 12 月 7 日发布的《中华人民共和国政府关于菲律宾共和国所提南海仲裁案管辖权问 题的立场文件》(“中国《立场文件》”)、中国驻荷兰王国大使至仲裁庭成员的信函以及 多次的公开声明中重申了这一立场。中国政府同时明确表示,这些声明和文件“决不得被解 释为中国以任何形式参与仲裁程序”。</p>
-<p>《公约》的以下两个条款规定了争端一方反对法庭的管辖权但是拒绝参与程序的情况:</p>
-<p>(a) 《公约》第 288 条规定:“对于法院或法庭是否具有管辖权如果发生争端,这一问题应由该法院或法庭以裁定解决”。</p>
-<p>(b) 《公约》附件七第 9 条规定:“如争端一方不出庭或对案件不进行辩护,他方可请示仲裁法庭继续进行程序并作出裁决。争端一方缺席或不对案件进行辩护,应不 妨碍程序的进行。仲裁法庭在作出裁决前,必须不但查明对该争端确有管辖权, 而且查明所提要求在事实上和法庭上均确有根据”。</p>
-<p>在整个仲裁程序中,仲裁庭采取了一些步骤以履行查明其是否具有管辖权以及菲律宾的诉求 是否“在事实上和法庭上均确有根据”的义务。关于管辖权,仲裁庭决定将中国的非正式函 文视为等同于对管辖权的异议,并于 2015 年 7 月 7 日至 13 日进行了管辖权和可受理性问题 的开庭审理。仲裁庭在庭审之前及庭审过程中就管辖权问题向菲律宾提问,其中包括中国非 正式函文中没有提出的潜在问题,并于 2015 年 10 月 29 日发布了《关于管辖权和可受理性 问题的裁决》(“《管辖权裁决》”),对一些管辖权问题作出了裁决并推迟将其他问题进 一步与菲律宾诉求的实体问题一同审议。关于实体问题,为了验证菲律宾的诉求的正确性, 仲裁庭要求菲律宾提交进一步书面陈述,于 2015 年 11 月 24 至 30 日对实体问题进行开庭审 理,并在庭审之前和庭审过程中就菲律宾诉求向其提问。仲裁庭还指定独立的专家就技术性 问题向仲裁庭报告,从英国水文办公室、法国国家图书馆、法国国家海外档案馆的档案中获 取南海的历史记录和水文测量数据,并与其它公共领域的相关资料一起提供给当事双方进行 评论。</p>
-<p>2. 双方立场</p>
-<p>菲律宾在仲裁过程中共提出了 15 项诉求,请求仲裁庭裁定:</p>
-<p>(1) 中国在南海的海洋权利,如菲律宾一样,不能超过《联合国海洋法公约》明文允许的范 围;<br>
-(2) 中国主张的对“九段线”范围内的南海海域的主权权利和管辖权以及“历史性权利”与 《公约》相违背,这些主张在超过《公约》明文允许的中国海洋权利的地理和实体限制 的范围内不具有法律效力;<br>
-(3) 黄岩岛不能产生专属经济区或者大陆架;<br>
-(4) 美济礁、仁爱礁和渚碧礁为低潮高地,不能产生领海、专属经济区或者大陆架,并且为 不能够通过先占或其他方式取得的岛礁;<br>
-(5) 美济礁和仁爱礁为菲律宾专属经济区和大陆架的一部分;<br>
-(6) 南薰礁和西门礁(包括东门礁)为低潮高地,不能产生领海、专属经济区或者大陆架, 但是它们的低潮线可以作为分别测量鸿庥岛和景宏岛的领海宽度的基线;<br>
-(7) 赤瓜礁、华阳礁和永暑礁不能产生专属经济区或者大陆架;<br>
-(8) 中国非法地妨碍了菲律宾享有和行使其对专属经济区和大陆架的生物和非生物资源的主 权权利;<br>
-(9) 中国非法地未曾阻止其公民和船只开发菲律宾专属经济区内的生物资源;<br>
-(10) 通过妨碍其在黄岩岛的传统渔业活动,中国非法地阻止了菲律宾渔民寻求生计;<br>
-(11) 中国在黄岩岛、仁爱礁、华阳礁、永暑礁、南薰礁、赤瓜礁、东门礁和渚碧礁违反了 《公约》下保护和保全海洋环境的义务;<br>
-(12) 中国对美济礁的占领和建造活动:<br>
-(a) 违反了《公约》关于人工岛屿,设施和结构的规定;<br>
-(b) 违反了中国在《公约》下保护和保全海洋环境的义务;以及 (c) 构成违反《公约》规定的试图据为己有的违法行为;<br>
-(13) 中国危险地操作其执法船只给在黄岩岛附近航行的菲律宾船只造成严重碰撞危险的行为 违反了其在《公约》下的义务;<br>
-(14) 自从2013年1月仲裁开始,中国非法地加剧并扩大了争端,包括: (a) 妨碍菲律宾在仁爱礁海域及其附近海域的航行权利;<br>
-(b) 阻止菲律宾在仁爱礁驻扎人员的轮换和补给;<br>
-(c) 危害菲律宾在仁爱礁驻扎人员的健康和福利;以及<br>
-(d) 在美济礁、华阳礁、永暑礁、南薰礁、赤瓜礁、东门礁和渚碧礁从事挖沙填海和人 工岛屿的建造和建设活动;以及<br>
-(15) 中国应该尊重菲律宾在《公约》下的权利和自由,遵守其在《公约》下的义务,包括保 护和保全南海海洋环境的义务;同时,在行使其在南海的权利和自由时,应该对菲律宾 在《公约》下的权利和自由予以适当考虑。</p>
-<p>关于管辖权,菲律宾请求仲裁庭宣布菲律宾的诉求“完全在其管辖权范围内并且具有完全的 可受理性”。</p>
-<p>中国不接受不参与仲裁,但已经表明了其认为仲裁庭“对此案不具有管辖权”的立场。在其 《立场文件》中,中国阐述了以下立场:</p>
-<p>– 菲律宾提请仲裁事项的实质是南海部分岛礁的领土主权问题,超出《公约》的调整范围,不涉 及《公约》的解释或适用;<br>
-– 以谈判方式解决有关争端是中菲两国通过双边文件和《南海各方行为宣言》所达成的协议,菲 律宾单方面将中菲有关争端提交强制仲裁违反国际法;<br>
-– 即使菲律宾提出的仲裁事项涉及有关《公约》解释或适用的问题,也构成中菲两国海域划界不 可分割的组成部分,而中国已根据《公约》的规定于 2006 年作出声明,将涉及海域划界等事 项的争端排除适用仲裁等强制争端解决程序;</p>
-<p>尽管中国未对菲律宾主要诉求的实体问题作出同等的声明,但在整个仲裁程序中,仲裁庭力 图通过中国同时期公开发表的声明和外交函件确定其立场。</p>
-<p>3. 仲裁庭关于管辖权范围的裁决</p>
-<p>关于仲裁庭对菲律宾诉求的管辖权的范围,仲裁庭在《管辖权裁决》中阐述了可作为初步事 项决定的管辖权问题,并在 2016 年 7 月 12 日的裁决中阐述了与菲律宾诉求中与实体问题相 交织的管辖权问题。仲裁庭 2016 年 7 月 12 日的裁决包含并确认了《管辖权裁决》中关于管 辖权的裁决。</p>
-<p>为保证完整性,此摘要包括仲裁庭在两个裁决中关于管辖权的决定。</p>
-<p>a. 初步事项</p>
-<p>在《管辖权裁决》中,仲裁庭阐述了一系列关于管辖权的初步事项。仲裁庭注意到菲律宾与 中国均为《公约》缔约国,以及《公约》不允许缔约国一般性地将自身排除出《公约》规定 的争端解决机制。仲裁庭认为中国的不参与并不剥夺仲裁庭的管辖权,仲裁庭依照《公约》附件七的规定(其中包括在一方缺席的情况下组成仲裁庭的规定)正当组成。最后,仲裁庭 认为仅仅单方面提起仲裁这一行为不能构成对《公约》的滥用,因此未同意中国《立场文 件》中相关的该项反对意见。</p>
-<p>b. 涉及对《公约》解释和适用的争端的存在</p>
-<p>在《管辖权裁决》中,仲裁庭审议了当事双方的争端是否涉及对《公约》的解释和适用,因 其是诉诸《公约》的争端解决机制的必要条件。</p>
-<p>仲裁庭不支持中国《立场文件》中关于当事双方的争端实际上是关于领土主权的争端因而不 是涉及《公约》的事项的意见。仲裁庭接受当事双方存在关于南海岛屿主权的争端,但是认 为菲律宾提交仲裁的事项并不涉及主权问题。仲裁庭认为,审议菲律宾的诉求并不需要隐含 地判定主权问题,并且审议这些问题并不会促进任何一方在南海岛屿主权上的主张。</p>
-<p>仲裁庭同样不支持中国《立场文件》中关于当事双方的争端实质上是关于海洋划界的争端, 并因此被《公约》第 298 条和中国在 2006 年 8 月 25 日据此作出的声明排除出争端解决程序的意见。仲裁庭注意到,一项涉及一个国家对于某海洋区域是否可主张权利的争端与对重叠海洋区域进行划界是不同的问题。仲裁庭注意到,权利主张以及许多其他问题在边界划分中常常被审议,但是他们也可能在其他一些情况中出现。仲裁庭认为,这并不意味着一个争端 一旦涉及其中一项问题则必然地成为一个关于划界的争端。</p>
-<p>最后,仲裁庭认为菲律宾的每一项主张均反映了一个涉及《公约》的争端。据此,仲裁庭强调(a)一个涉及《公约》和其他权利(包括任何中国的“历史性权利”)相互关系的争端为涉及《公约》的争端以及(b)在中国未明确陈述其立场的情况下,可以通过国家行为或者沉默来客观地推断争端的存在。</p>
-<p>c. 必要第三方的参加</p>
-<p>在《管辖权裁决》中,仲裁庭考虑了如果其他对南海岛屿提出主张的国家不参与本仲裁是否 会构成对仲裁庭行使管辖权的障碍。仲裁庭提出其他国家的权利不会成为“裁决的主题事 项”, 这也是判定必要第三方的标准。仲裁庭进一步指出,在 2014 年 12 月,越南向仲裁 庭提交了一份声明,声称其“不怀疑仲裁庭对这些程序的管辖权”。仲裁庭还指出,越南、 马来西亚以及印度尼西亚以观察国的身份参加了关于管辖权问题的庭审,而在庭审中没有任 何一个国家提出其自身的参与是必要的。</p>
-<p>在 2016 年 7 月 12 日的裁决中,仲裁庭指出其在 2016 年 6 月 12 日收到了来自马来西亚的函 文,回顾了马来西亚在南海的主张。仲裁庭比较了马来西亚的权利主张和其针对菲律宾诉求 的实体问题裁决,确认了其关于马来西亚不是必要第三方以及马来西亚在南海的权利不妨碍 其审议菲律宾的诉求的结论。</p>
-<p>d. 管辖权的先决条件</p>
-<p>在《管辖权裁决》中,仲裁庭考虑了《公约》第 281 和 282 条的适用性问题。根据这两条的规定,如果一个国家已经同意通过其他方法解决争端,则其可能被禁止使用《公约》规定的机制。</p>
-<p>仲裁庭未接受中国《立场文件》中关于 2002 中国-东盟《南海各方共同行为宣言》导致菲律宾不被允许提起仲裁的意见。仲裁庭认为该《宣言》为不具有法律拘束力的政治性协议,该协议并未提供有拘束力的争端解决机制,并未排除其他争端解决方法,因此并不限制仲裁庭 在第 281 和 282 条下的管辖权。仲裁庭同样审议了《东南亚友好合作条约》、《生物多样性 公约》以及菲律宾和中国发表的一系列通过协商解决争端的联合声明,并得出结论,认为这 些文件中没有任何一个构成禁止菲律宾将其诉求提起仲裁的协议。</p>
-<p>仲裁庭进一步指出,在菲律宾提起仲裁之前,当事方已经根据公约第 283 条的要求就其争端的解决交换了意见。仲裁庭作出结论,认为菲律宾和中国的外交交流记录已经满足了这一要 求,在这些记录中菲律宾表示了对包括其他南海周边国家的多边谈判的明确偏好,而中国坚 持其只考虑进行双边谈判。</p>
-<p>e. 管辖权的例外和限制</p>
-<p>在 2016 年 7 月 12 日的裁决中,仲裁庭考虑了菲律宾关于中国历史性权利以及“九段线”的诉求是否受到《公约》第 298 条关于涉及“历史性所有权”的争端作为管辖权的例外的规定 的影响。仲裁庭审议了海洋法上“历史性所有权”的涵义,并认为其指示的是对海湾以及其 他近岸水域主张的历史性主权。在审议了中国在南海的主张和行为之后,仲裁庭得出了中国 主张对“九段线”内资源的历史权利,而非对南海水域的历史性所有权的结论。因此,仲裁 庭认为其对审议菲律宾涉及历史性权利的诉求及与中国之间涉及“九段线”的诉求具有管辖权。</p>
-<p>在 2016 年 7 月 12 日的裁决中,仲裁庭还审议了菲律宾的诉求是否受到《公约》第 298 条关 于涉及海洋划界的争端的例外的影响。在《管辖权裁决》中,仲裁庭已经认定了菲律宾的诉 求本身并不涉及边界划分,但是也指出了某些菲律宾的诉求取决于部分区域是否为菲律宾专 属经济区的组成部分。仲裁庭认为其只能在中国绝无可能存在与菲律宾重叠的专属经济区主张的情况下才能审议这些问题,并推迟了对这些管辖权问题作出最后结论。在 2016 年 7 月 12 日的裁决中,仲裁庭审议了关于中国在南海主张的岛礁的证据,并得出这些岛礁均不能 产生专属经济区主张的结论。因为中国并无在南沙群岛与菲律宾产生重叠专属经济区主张的 可能,仲裁庭认为菲律宾的诉求并不取决于在先的划界。</p>
-<p>在 2016 年 7 月 12 日的裁决中,仲裁庭还审议了菲律宾的诉求是否受到《公约》第 298 条关 于涉及在专属经济区的法律执行活动的争端的例外的影响。仲裁庭指出第 298 条的例外只有 在菲律宾的诉求涉及中国的专属经济区内的法律执行活动的情况下方可适用。因为菲律宾的 诉求只与菲律宾自身的专属经济区或者领海内的事件有关,仲裁庭的结论指出第 298 条不妨 碍其行使管辖权。</p>
-<p>最后,在 2016 年 7 月 12 日的裁决中,仲裁庭审议了菲律宾的诉求是否受到《公约》第 298 条关于涉及军事活动的争端的例外的影响。仲裁庭认为菲律宾海军和中国海军以及执法船在 仁爱礁的对峙构成军事活动,并得出其对菲律宾第 14(a)-(c)项的诉求不具有管辖权的结 论。仲裁庭还审议了中国在七个南沙群岛的岛礁上进行填海和人工岛屿建设的活动是否构成 军事活动的问题,但注意到中国坚持强调其行为的非军事性以及最高层表示中国将不会军事 化其在南沙的存在。仲裁庭决定,在中国自身反复强调相反的立场的情况下,其将不把这些 活动视为军事性质。因此,仲裁庭得出结论,即第 298 条不妨碍其行使管辖权。</p>
-<p>4. 仲裁庭对菲律宾诉求的实体问题的裁决</p>
-<p>a. “九段线”以及中国对南海海域的历史性权利</p>
-<p>在 2016 年 7 月 12 日的裁决中,仲裁庭审议了中国“九段线”的影响以及中国是否在依照 《公约》规定享有的海洋区域限制之外对南海资源享有历史性权利。</p>
-<p>仲裁庭审议了《公约》的历史及其关于海洋区域的规定,认定《公约》意在全面分配缔约国 对海洋区域的权利。仲裁庭注意到在创设专属经济区的谈判对资源(特别是渔业资源)的既 存权利问题进行了详细的讨论,一些国家希望在新区域内保留历史性渔业权利。然而这一立 场最后被拒绝,而《公约》的最终版本只为其他国家在专属经济区内保留了有限的获取渔业 资源的权利(在沿海国没有能力捕捞全部可捕量的情况下),并且没有保留任何对石油或者 矿业资源的权利。仲裁庭认为中国对资源的历史性权利主张与《公约》对权利和海洋区域具 体化的划分不相适应,并得出结论,即使中国在南海水域范围内对资源享有历史性权利,这 些权利也在与《公约》的海洋区域系统不相符合的范围内,已经随着《公约》的生效而归于消灭。</p>
-<p>为了确定中国是否在《公约》生效之前对南海的资源享有历史性权利,仲裁庭也审议了历史 记录。尽管仲裁庭强调其无权决定岛屿的主权问题,仲裁庭指出,有证据表明中国和其他国 家的航海者和渔民在历史上利用过南海的岛屿。然而,仲裁庭认为在《公约》之前,在领海 之外的南海海域在法律上是公海的一部分,任何国家的船只均可自由航行和捕鱼。因此,仲 裁庭得出结论,中国历史上在南海海域的航行和捕鱼反映的是对公海自由而非历史性权利的 行使,并且没有证据表明中国历史上对南海海域行使排他性的控制或者阻止了其他国家对资源的开发。</p>
-<p>因此,仲裁庭得出结论,在菲律宾与中国之间,中国并无在《公约》规定的权利范围之外, 主张对“九段线”之内海域的资源享有历史性权利的法律基础。</p>
-<p>b. 南海岛礁的地位</p>
-<p>在 2016 年 7 月 12 日的裁决中,仲裁庭审议了南海岛礁的地位以及中国根据《公约》可以潜 在地主张的海洋区域。</p>
-<p>仲裁庭首先进行了对部分中国主张的珊瑚礁在高潮时是否高于水面的技术性评估。根据《公 约》第 13 条和 121 条,高潮时高于水面的岛礁至少可以产生一个 12 海里的领海,而高潮时 没入水中的岛礁不能产生任何海洋权利。仲裁庭注意到南海的许多礁石被最近的填海和建设 活动严重改变,并指出《公约》以自然状态为基础对岛礁进行分类。仲裁庭指定了一位水文 地理专家协助评估菲律宾的技术性证据,并在评估岛礁的过程中大量依赖了档案资料和历史 水文地理调查。仲裁庭同意菲律宾关于在自然状态下黄岩岛、赤瓜礁、华阳礁和永暑礁为高 潮时高于水面的岛礁以及渚碧礁、东门礁、美济礁以及仁爱礁为高潮时没入水中的岛礁的观 点。然而,仲裁庭不同意菲律宾对南薰礁(北)和西门礁地位的界定,并判定他们均为高潮 时高于水面的岛礁。</p>
-<p>仲裁庭之后审议了中国所主张的任一岛礁是否可以产生超过 12 海里的海洋区域的问题。根 据《公约》第 121 条,岛屿可以产生一个 200 海里的专属经济区和大陆架的权利,但是“不 能维持人类居住或其本身的经济生活的岩礁,不应有专属经济区或大陆架”。仲裁庭注意 到,这项规定与创设专属经济区之后沿海国管辖权的扩张密切相关,其意图在于防止微不足 道的岛礁产生大面积的海洋权利而侵犯有人定居的领土的权利或者侵犯公海以及作为人类的 共同继承财产保留的海床的区域。仲裁庭对第 121 条进行解释并得出结论,认为对一个岛礁 的权利主张取决于(a)该岛礁的客观承载力;(b)在自然状态下,是否能够维持(c)一 个稳定的人类社群或者(d)不依赖外来资源或纯采掘业的经济活动。</p>
-<p>仲裁庭注意到南沙群岛的许多岛礁目前正被不同的沿海国控制,且这些沿海国在其上建立了 设施并驻扎了人员。仲裁庭认为这些现代化存在依赖于外来资源和支持,并注意到,通过包 括填海和建设基础设施如海水淡化工厂等方式,许多岛礁被加以改变以便加强其可居住性。 仲裁庭认为,目前官方人员在许多岛礁上的驻扎并不能证明它们在自然状态下维持稳定的人 类社群的能力,并且认为关于人来居住或者经济生活的历史证据与这些岛礁的客观承载力更 为相关。在审查了历史记录之后,仲裁庭指出南沙群岛在历史上被小规模的中国和其他国家 的渔民所利用,并且在 1920 和 30 年代也有在其上建立日本渔业和肥料开采企业的尝试。仲 裁庭认定渔民对这些岛礁的短暂的利用不能构成稳定的人类社群的定居,以及历史上所有的 经济活动都是纯采掘性的。因此,仲裁庭得出结论,认为南沙群岛的所有高潮时高于水面的 岛礁(例如包括太平岛、中业岛、西月岛、南威岛、北子岛、南子岛)在法律上均为无法产 生专属经济区或者大陆架的“岩礁”。</p>
-<p>仲裁庭还认为,《公约》并未规定如南沙群岛的一系列岛屿可以作为一个整体共同产生海洋区域。</p>
-<p>c. 中国在南海的活动</p>
-<p>在 2016 年 7 月 12 日的裁决中,仲裁庭审议了中国在南海一系列活动在《公约》下的合法性。</p>
-<p>在认定美济礁、仁爱礁以及礼乐滩在高潮时没入水中,构成菲律宾专属经济区和大陆架的一 部分且不与中国任何可能的权利主张相重叠之后,仲裁庭得出结论,认为《公约》在菲律宾 专属经济区海域内对主权权利的分配是明确的。作为事实问题,仲裁庭查明中国(a)干扰 了菲律宾在礼乐滩的石油开采,(b)试图阻止菲律宾渔船在其专属经济区内捕鱼,(c)保 护并不阻止中国渔民在美济礁和仁爱礁附近的菲律宾专属经济区捕鱼,以及(d)未经菲律宾许可在美济礁建设设施和人工岛屿。仲裁庭因此得出结论认为中国侵犯了菲律宾对其专属经济区和大陆架的主权权利。</p>
-<p>仲裁庭接下来审查了在黄岩岛的传统渔业活动,并发现菲律宾的渔民,以及中国和其他国家 的渔民,长期以来保持在黄岩岛及其周围区域捕鱼的传统。因为黄岩岛在高潮时高于水面, 它可以产生对领海的主张,其周边海域不构成专属经济区的一部分,传统渔业权利也并未被 《公约》所消灭。虽然仲裁庭强调其不会决定黄岩岛的主权归属,但是仲裁庭认为中国在 2012 年 5 月之后限制菲律宾渔民接近黄岩岛的行为违反了尊重他们传统渔业权利的义务。 然而,仲裁庭也指出,如果菲律宾阻止中国渔民在黄岩岛捕鱼,其将针对中国渔民的传统渔 业权利得出同样的结论。</p>
-<p>仲裁庭也审议了中国的活动对海洋环境的影响。在此过程中,仲裁庭指定了三位独立的珊瑚 礁生物学专家来协助其评估现有的科学证据以及菲律宾的专家报告。仲裁庭认为中国近期在 南沙群岛七个岛礁大规模的填海和人工岛屿建设活动导致了对珊瑚礁环境的严重破坏,违反 了中国在《公约》第 192 和 194 条下关于脆弱的生态系统以及衰竭、受威胁或有灭绝危险的 物种的生存环境的保护和保全海洋环境的义务。仲裁庭同时认为中国渔民在南海以对珊瑚礁 环境产生严重破坏的方法大量捕捞有灭绝危险的海龟、珊瑚以及大硨磲。仲裁庭查明中国官 方对这些活动知情,但却未能尽到《公约》下的勤勉义务予以阻止。</p>
-<p>最后,仲裁庭审议了中国执法船于 2012 年 4 月和 5 月在黄岩岛附近两次试图阻止菲律宾船 只接近或者进入黄岩岛的行为的合法性。在此过程中,仲裁庭指定了一位航行安全方面的独 立专家协助其审查菲律宾船只上的官员提供的书面报告以及菲律宾提供的航行安全方面的专 家报告。仲裁庭认为中国执法船多次高速接近菲律宾船只并试图近距离从前方通过,制造了 严重的碰撞危险以及对菲律宾船只和人员的危险。仲裁庭结论认为中国违反了其在《1972 年国际海上避碰规则公约》下以及《公约》第 94 条下关于海上安全的义务。</p>
-<p>d. 加剧当事方争端</p>
-<p>在 2016 年 7 月 12 日的裁决中,仲裁庭审议了在仲裁开始之后,中国近期在南沙群岛七个岛礁上大规模的填海和人工岛屿建设活动是否加剧了当事方争端。仲裁庭重申在争端解决过程中,该争端的当事方有义务防止该争端的加剧和扩大。仲裁庭指出中国(a)在位于菲律宾 专属经济区内的低潮高地美济礁建设了大规模的人工岛屿;(b)对珊瑚礁生态系统造成了永久的,不可恢复的破坏以及(c)永久性地消灭了关于相关岛礁自然状态的证据。仲裁庭 得出结论,认为中国违反了在争端解决过程中争端当事方防止争端的加剧和扩大的义务。</p>
-<p>e. 争端双方将来的行为</p>
-<p>最后,仲裁庭审议了菲律宾关于作出中国未来应当尊重菲律宾的权利和自由并遵守其《公 约》下的义务的声明的请求。对此,仲裁庭指出菲律宾和中国双方均反复强调接受根据《公约》以及一般诚意义务定义和规制其行为。仲裁庭认为本仲裁涉及争端的根源并不在于中国 或者菲律宾意图侵犯对方的合法权利,而在于双方对各自基于《公约》在南海的权利有根本 性的理解分歧。仲裁庭指出,恶意之不可推定为国际法的基本原则,并指出附件七第 11 条 规定“争端各方均应遵守裁决”。仲裁庭因此认为无进一步声明之必要。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/bbc-%E6%B5%B7%E7%89%99%E6%B3%95%E5%BA%AD%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E6%97%A0%E5%8E%86%E5%8F%B2%E6%9D%83%E5%88%A9/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%9D%E6%AE%B5%E7%BA%BF/?category=18271" rel="tag">九段线</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%A4%E5%86%B3/?category=18271" rel="tag">判决</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">南海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%B3%95/?category=18271" rel="tag">国际法</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AD%94%E5%B9%BB%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/" target="cdt-mirror">【立此存照】魔幻现实主义参考文献</a>
-</h2>
-<p><blockquote><p><a href="http://weibo.com/1692188381/DEqmRnsaX" target="_blank">@盐樱桃</a>:心疼党员干部</p></blockquote>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64dcbeddjw1f5quyxbbe7j20qo0z0n4y.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64dcbeddjw1f5quyxbbe7j20qo0z0n4y.jpg?resize=500%2C657" alt="64dcbeddjw1f5quyxbbe7j20qo0z0n4y" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64dcbeddjw1f5quyxbbe7j20qo0z0n4y.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64dcbeddjw1f5quyxbbe7j20qo0z0n4y.jpg?resize=228%2C300 228w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64dcbeddjw1f5quyw30twj20qo0zltfg.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64dcbeddjw1f5quyw30twj20qo0zltfg.jpg?resize=500%2C667" alt="64dcbeddjw1f5quyw30twj20qo0zltfg" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64dcbeddjw1f5quyw30twj20qo0zltfg.jpg?w=690 690w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64dcbeddjw1f5quyw30twj20qo0zltfg.jpg?resize=225%2C300 225w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
-<p><strong><a href="http://news.12371.cn/2015/11/02/ARTI1446461573834159.shtml" target="_blank">新华网｜中宣部理论局、中组部干部教育局向党员干部推荐第十一批学习书目</a></strong>（发表于2015年11月02日）</p>
-<blockquote><p>为进一步引导党员干部多读书、读好书，中宣部理论局、中组部干部教育局2日向党员干部推荐第十一批学习书目。</p>
-<p>第十一批学习书目包括7种图书：《习近平关于全面依法治国论述摘编》《中国抗日战争史简明读本》《马克思恩格斯列宁哲学论述摘编》（党员干部读本）《“一带一路”：机遇与挑战》《抗日战争》（1－3卷）《谢觉哉家书》《工业4.0大革命》。</p></blockquote>
-<p><strong><br>
-以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/1739811533" target="_blank">@天涯烟火</a>：我天涯社区牛逼阿，可以当参考文献用了<img title="[笑cry]" src="https://i0.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/34/xiaoku_org.gif" alt="[笑cry]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/n/%E5%85%B0%E5%8F%B0%E5%8C%97%E8%BE%B0?from=feed&loc=at" target="_blank">@兰台北辰</a>:中宣中组书目再刷下限。。。好吧，下限这词儿对他们来说确实要求高了点<img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[挖鼻]" src="https://i2.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/0b/wabi_org.gif" alt="[挖鼻]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"><img title="[拜拜]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/70/88_org.gif" alt="[拜拜]" data-recalc-dims="1"></p>
-<p><a href="http://weibo.com/5705191799" target="_blank">@知识分子</a>：魔幻现实主义参考文献<img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"><img title="[doge]" src="https://i1.wp.com/img.t.sinajs.cn/t4/appstyle/expression/ext/normal/b6/doge_org.gif" alt="[doge]" data-recalc-dims="1"></p>
-<p>@完颜值高Taraghur：哈哈 百度和天涯 你国现实永远超越段子</p>
-<p><strong>@风雨電雾影:更魔幻的是，本书作者5月18日因所写网文《比承包医院更黑：莆田人承包了中国90%的寺庙！》被杭州市公安局拱墅区分以涉嫌寻衅滋事罪刑拘。</strong></p>
-<p>@荒旦大V：百度贴吧被组织认证为学术权威</p>
-<p>@ULTRAFINE：史上最牛参考文献。李彦宏·真国师。</p>
-<p>@Sturm-und-Drang：哎，我们的领导干部居然真的是吃屎长大的</p>
-<p>@夏洛飛：百度学派和天涯学派……</p>
-<p>@浅蓝传说：查百度就能写本书？不过，也许是他们不会翻墙吧</p>
-<p>@夏钍：卧槽哈哈哈哈我一个本科生写论文都尽量往期刊专著上靠，百度的根本不用写参考文献好吗</p>
-<p>@真tiago：你国大型严肃文献</p>
-<p>@灰常熊的猫：报࿆书࿆名࿆</p>
-<p>@咸鱼族大咸者：终有一天参考书目里会出现：转自XX微信公众号</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E9%AD%94%E5%B9%BB%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89%E6%AD%A3/?category=18271" rel="tag">伟光正</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%A6%E6%9C%AF%E7%8B%AC%E7%AB%8B/?category=18271" rel="tag">学术独立</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%A5%E4%B9%A6%E5%90%8D/?category=18271" rel="tag">报书名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%96%87%E8%89%BA%E5%BA%A7%E8%B0%88%E4%BC%9A/?category=18271" rel="tag">文艺座谈会</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E9%B8%BF%E5%BF%A0/?category=18271" rel="tag">李鸿忠</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%BA%A6/?category=18271" rel="tag">神奇的国度</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -953,7 +860,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -963,5 +870,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BC%9F%E5%85%89
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

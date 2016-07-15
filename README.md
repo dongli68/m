@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,48 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%9B%9B%E5%B7%9D%E6%97%A5%E6%8A%A5-%E6%88%90%E9%83%BD%E4%B8%BA%E4%BF%9Dg20%E8%93%9D%E5%A4%9A%E7%A7%8D%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%81%9C%E4%BA%A7%E6%95%B4%E6%B2%BB/" target="cdt-mirror">四川日报 | 成都为保“G20蓝”多种工业企业停产整治</a>
+</h2>
+<p><p>还记得成都这样洗眼睛的蓝天吗？每每遇到这样颜值爆表的天气，成都的小伙伴总会乐此不疲地在朋友圈狂晒“蓝照”，相当热闹。7月下旬成都或再现别样的“成都蓝”——G20蓝！</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/52058195gw1f5tuax07wmj24qs0zk4qp.jpg?resize=440%2C92" alt="52058195gw1f5tuax07wmj24qs0zk4qp" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/52058195gw1f5tuax07wmj24qs0zk4qp.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/52058195gw1f5tuax07wmj24qs0zk4qp.jpg?resize=300%2C63 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>7月23日至24日，2016年第三次G20财长和央行行长会将在成都举行，这将是在成都市举办的规格最高、影响最大的国际性会议。</p>
+<p>为保障会议期间(7月22-24日)，成都市中心城区PM2.5、PM10达标(PM2.5 日均浓度≤75微克/立方米;PM10 日均浓度≤150微克/立方米)。成都市将强化工业污染控制和挥发性有机物污染的控制。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5156.jpg?resize=600%2C497" alt="停产日前一天 成都官方账号发布的“最美晚霞”" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5156.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5156.jpg?resize=300%2C248 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>停产日前一天 成都官方账号发布的“最美晚霞”</p></div>
+<p>7月15日前排放不达标企业须停产</p>
+<p>“成都市环保局将组建以北大、清华为主的国内顶尖专家组成的空气质量保障专家团队，借助成都市大气污染源清单和空气质量预测预报模型，科学预测成都市空气质量状况，针对性地提出大气污染防治对策措施，进一步完善成都市大气污染防治决策支撑平台。”据成都市经信委、环保局等相关部门消息，日前成都市印发了《成都市工业企业G20财长与央行行长会议空气质量保障方案》。</p>
+<p>《方案》要求，7月15日前，配合环保局对不能稳定达标排放的涉气工业企业，必须停产整治。7月16-26日，会同环保局对中心城区大气环境影响较大的火电、钢铁、水泥、玻璃、化工、建材、造纸、印染、食品等行业企业(名单另行通知)，限制会议期间的生产负荷，确保会议期间的污染物排放总量低于正常工况的50%(全市所有燃煤电厂必须使用含硫量低于0.5%的低硫优质燃煤，其中国电金堂电厂生产负荷降低40%)。</p>
+<p>7月16-26日期间，当中心城区空气质量指数(AQI)24小时滑动平均值超过90时，进一步扩大工业企业(名单另行通知)限制生产范围，其生产能力及污染物单位排放量的削减率不得低于50%。</p>
+<p>纳入省、成都市淘汰落后产能工作计划的企业(名单另行通知)，具备条件关停的，于7月15日前必须关停，暂时不具备关停条件的企业，7月16-26日，一律停产整治。</p>
+<p>延伸阅读G20会议将在成都讨论啥？</p>
+<p>G20是一个全球经济合作论坛，属于布雷顿森林体系框架内非正式对话的一种机制。该组织的宗旨是为推动已工业化的发达国家和新兴市场国家之间就实质性问题进行开放及有建设性的讨论和研究，以寻求合作并促进国际金融稳定和经济的持续增长。2016年第三次G20财长和央行行长会将在成都举行，会议主题是“共促增长、共担责任、共建治理、共享发展”，议题包括全球经济形势、增长框架、投资和基础设施等。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%9B%9B%E5%B7%9D%E6%97%A5%E6%8A%A5-%E6%88%90%E9%83%BD%E4%B8%BA%E4%BF%9Dg20%E8%93%9D%E5%A4%9A%E7%A7%8D%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%81%9C%E4%BA%A7%E6%95%B4%E6%B2%BB/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/g20/?category=18271" rel="tag">g20</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">大气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%B8%9A%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">工业污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">环境</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E4%BB%AC%E6%B0%B8%E8%BF%9C%E8%B7%9F%E5%85%9A%E8%B5%B0%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9%E5%88%B7/" target="cdt-mirror">【立此存照】我们永远跟党走(复制内容刷)</a>
+</h2>
+<p><blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BB%A5%E5%90%8E%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A6%81%E6%9F%A5%E4%B8%89%E4%BB%A3%EF%BC%9F/" target="_blank">【网络民议】演电影以后是不是要查三代？ </a></p></blockquote>
+<p>所谓“赵薇事件”愈演愈烈，“爱国人士”已将矛头从指责赵薇使用“台独”“反华”演员和对赵薇国籍的质疑，转移到了<strong>“反华势力”对中国主流媒体进行“操控”、赵薇和马云与“共济会”勾结、“敌对势力”给中国人“洗脑”、妄图对中国进行“颜色革命”</strong>等阴谋论言论上。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%97%B6%E5%B0%9A%E5%B8%AE%E5%B8%AE%E5%B8%AE.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%97%B6%E5%B0%9A%E5%B8%AE%E5%B8%AE%E5%B8%AE.jpg?resize=450%2C543" alt="时尚帮帮帮" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/时尚帮帮帮.jpg?w=1804 1804w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/时尚帮帮帮.jpg?resize=248%2C300 248w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/时尚帮帮帮.jpg?resize=768%2C927 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/时尚帮帮帮.jpg?resize=848%2C1024 848w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>有细心的网民发现，在上图的热门微博中，出现了许多雷同的评论，部分评论后甚至都带有“(复制内容刷)”的字样，所用括号“()”均为英语标点，疑似来自水军／五毛组织的工作失误。其中一条频频重复出现的评论为：</p>
+<blockquote><p>大家一定要记住，现在的问题根本不是国际问题好嘛？？！不要被套路了！！！从赵薇事件都可以看出，渣浪等很多主流媒体已经被西方势力，反华势力控制，控制我们的社会舆论，让我们整天感觉政府怎样不好，国外何其美好。我们不能被这些东西蒙蔽了。我们永远跟党走(复制内容刷)</p></blockquote>
+<p><strong>以下为中国数字时代编辑制作的雷同评论的截图集合：</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%B0%B8%E8%BF%9C%E8%B7%9F%E5%85%9A%E8%B5%B0.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%B0%B8%E8%BF%9C%E8%B7%9F%E5%85%9A%E8%B5%B0.jpg?resize=525%2C1935" alt="永远跟党走" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/永远跟党走.jpg?w=2500 2500w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/永远跟党走.jpg?resize=81%2C300 81w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/永远跟党走.jpg?resize=768%2C2831 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/永远跟党走.jpg?resize=278%2C1024 278w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/永远跟党走.jpg?w=2000 2000w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E4%BB%AC%E6%B0%B8%E8%BF%9C%E8%B7%9F%E5%85%9A%E8%B5%B0%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9%E5%88%B7/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%96%87/?category=18271" rel="tag">赵薇</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BB%A5%E5%90%8E%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A6%81%E6%9F%A5%E4%B8%89%E4%BB%A3%EF%BC%9F/" target="cdt-mirror">【网络民议】演电影以后是不是要查三代？</a>
 </h2>
 <p><p><strong><a href="http://www.thepaper.cn/newsDetail_forward_1498908" target="_blank">澎湃新闻｜赵薇新片《没有别的爱》7月15日发布声明：撤换主演戴立忍</a></strong></p>
@@ -625,68 +664,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BF%A1%E5%BA%A6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%8E%8B%E4%BA%94%E5%9B%9B-%E4%BD%A0%E5%8F%AA%E6%9C%89%E5%9C%A8%E6%84%9A%E8%A0%A2%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8D%E6%98%AF%E7%9C%9F%E8%AF%9A%E7%9A%84/" target="cdt-mirror">王五四 | 你只有在愚蠢的时候才是真诚的</a>
-</h2>
-<p><p>天亮了，又是一个工作日，很多上班族都要早早起床去挤公交车，因为他们并没有收到老板的短信：昨天参与讨论南海问题辛苦了，今天放你半天假。很明显，老板眼里只有钱，而没有民族大义，你眼里只有民族大义，而没有钱，这个不难理解，毕竟赚钱这件事更难一些，而民族大义只需要转发一下朋友圈。没错，我是在讽刺你们这些口炮爱国者，真正关心南海问题的爱国者是不会睡觉的，更不会在乎第二天还要上班打卡这种事。自古以来，我就看不起那些嚷着“打台湾我捐一个月工资，打美国我捐一年工资”的人，毕竟你的工资太低了，低到都不够很多官员吃一顿饭的。要爱国，先要提高自己的收入，不然我都替你不好意思，或许你很真诚，但是显得自己很愚蠢。</p>
-<p>你只有在愚蠢的时候才是真诚的，这话不是我说的，是米兰·昆德拉说的，他还说过“他们只有在安全的时候才是勇敢的，在免费的时候才是慷慨的，在浅薄的时候才是动情的”，这些话很符合当下一些人的形象：对遥远的美帝说开战，金戈铁马，气吞万里如虎，却对身边的罪恶视而不见，听而不闻；慷他人之慨，没钱假大方，流氓假仗义；高谈爱国，却无人爱你，情绪激昂热泪盈眶，却不知何为爱国，典型的“国不知有民，民不知有国。”，在《甲午》里，梁启超有番话是这么说的，“李中堂知有洋务而不知有国务，知有兵事而不知有民政，知有外交而不知有内治，知有朝廷而不知有国民，不知国家之为何物。不知国家与政府有若何之关系，不知政府与人民有若何之权限……”，所以说，在关系尚未搞清楚之前，我是不建议谈情说爱的。</p>
-<p>很多人期盼中美一战，坚信中美必有一战，我相信你是真诚的，但正是这种真诚说明你真的很蠢，在电影《阳光灿烂的日子里》，年幼的马小军有段内心独白：“我最大的幻想便是中苏开战，因为我坚信，我军的铁拳定会把苏美两军的战争机器砸的粉碎，一位举世瞩目的战争英雄将由此诞生，那就是我！”，你犯的就是这个幼稚病，你并没有感受过战争带来的分别、离别、永别，你热爱战争的唯一原因是没参加过战争以及你以为你不用参加这场战争。马小军对于打架说过这么一段话，“我发现了一个规律，几个人十几个人的遭遇战打得最惨，也常出人命，几十人上百人的架却往往打不起来，因为人勾来得越多就越容易勾来熟人，甚至两拨都去勾来同一拨人。”，打架跟打仗不同，但有些道理是相通的，阵势越大越打不起来，参与者越多利益勾连越紧密，往往也打不起来，中国政府也已经公开声明了：“中国愿同有关直接当事国尽一切努力作出实际性的临时安排，包括在相关海域进行共同开发，实现互利共赢，共同维护南海和平稳定。”，再说，那么多高官显贵的子女都在美国，还有很多人是美国人的爹，怎么可能打得起来呢？日常生活里你的脑子到底遭受了什么虐待，为什么非要在自己的朋友圈显得自己很愚蠢呢？</p>
-<p>每次遇到国际纠纷，两国政府刚摆好阵势还没上演戏码，围观的群众就按耐不住了，每次都有那么一帮人站出来高喊那句熟悉的座右铭：“犯我强汉者，虽远必诛”，但很多人的表现把这话演绎成了“犯我强汉者，虽远必猪”，过过嘴瘾而已，这话出自西汉名将陈汤给汉元帝的上书，是表明击退北匈奴郅支单于的功绩，全句为：“宜悬头槀街蛮夷邸间，以示万里。明犯强汉者，虽远必诛！”，意思就是应该把砍下的头悬挂在蛮夷居住的槀街，让他们知道，敢于侵犯强大汉帝国的人，即使再远，我们也一定要杀掉他们。现在却被演绎成“你们要是敢于侵犯强大的中华人民共和国，即使再远，我们也一定要骂你们是猪”，我是不相信这些人有什么勇气的，还不如下面这些人有骨气，“我们从点滴做起，不买日系车，不买苹果手机，不吃肯德基，不买菲律宾香蕉等等敌对国家产品，支持敌人就是对国家和民族犯罪！经济制裁鬼子们从我做起，人人有责！功德无量！”，当然，他们的骨气也是建立在买不起和优惠不够的基础上的，买日系车送四次保养、苹果新款手机限时八折、肯德基买一个汉堡送一根薯条之类的活动，都会动摇他们的骨气，此外，你们怎么不去抵制互联网啊，美国人发明的。每次都用这一套，能不能用点心换换花样。</p>
-<p>很多爱国青年并不能理解这些嘲讽，他们甚至感觉委屈，有些还会飙泪怒斥：你们还是中国人吗？年轻人，其实大家都在演戏，就你当真了。这种事不仅有写好的剧本，还有导演、主演，而你们算是群演，为了让你们的表演更逼真，剧组就没告诉你们真相，当然也省了盒饭钱和群演费，这还不是最让你伤心的，伤害你爱国感情的是有些人趁机在军工概念股上发了一笔财，也就是说在你自费爱国时，有人挣钱了，挣钱的不仅仅是个人，还有其他国家政府，外交部发言人陆慷说，“仅仅以7月份为例，不到10天，除柬埔寨外，就有安哥拉、利比里亚、马达加斯加、巴布亚新几内亚、塞内加尔这些国家表达了对中方南海立场的理解和支持。”，看来我们的援助没有白费，而且这些援助花的钱里，也有你的一份。我的意思是，你可以爱国，但别显得自己很蠢，毕竟在国际上影响不好，你没钱没时间没机会出国丢人，但别人还是有条件出去的。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E7%99%BD%E4%BA%91%E8%A7%82.jpg?resize=500%2C639" alt="白云观" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/白云观.jpg?w=678 678w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/白云观.jpg?resize=235%2C300 235w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
-<p>关于南海问题，北京白云观官方微博发了一条曹信义道长的话：“我们道教徒是热爱和平的，但是如果明天侵略者来犯，道教徒同样一手拿枪一手拿香，把敌人赶出家乡，保卫家国。”，曹道长，这国是禁枪的你知道吗？我觉得还是用各自擅长的方式爱国比较好，你们最擅长的是看风水，去年美国负责东亚事务的助理国务卿在接受电话采访时说，“中国填海造岛不一定违反国际公约，但必然会破坏东南亚地区的风水、和谐。”，那时你的同门，中国道教龙门派三十代玄裔弟子全真道士梁兴扬就严正抗议：“贫道深感忧虑，建议有关部门严格执行《对美高端玄学技术及精密风水道具出口管制条例》，附《论中国南海造岛对地球风水及太阳系和平的正面影响》。”，意在提醒美国，风水这东西，我们道教都还没说话呢，你们不懂别乱说。在错综复杂的国内形势下，爱国还是要从专业角度出发，总比拿刀拿枪好，也显得自己没那么愚蠢。</p>
-<p>凡事都要讲个逻辑，爱国也一样，我不是反对你们爱国，我是反对你们没逻辑，逻辑你们懂吗？九叶派诗人辛笛在半个世纪前写下的讽刺诗《“逻辑”》：“对有武器的人说／放下你的武器学做良民／因为我要和平；对有思想的人说／丢掉你的思想像倒垃圾／否则我有武器……”，没有无缘无故的爱，也没有无缘无故的恨，目前你们的爱和恨，都很无缘无故。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%8E%8B%E4%BA%94%E5%9B%9B-%E4%BD%A0%E5%8F%AA%E6%9C%89%E5%9C%A8%E6%84%9A%E8%A0%A2%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8D%E6%98%AF%E7%9C%9F%E8%AF%9A%E7%9A%84/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E8%A3%81/?category=18271" rel="tag">制裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E4%BA%94%E5%9B%9B/?category=18271" rel="tag">王五四</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-11-2/" target="cdt-mirror">奇闻录 | 一日段子荟萃 7-12</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnM7GcEWAAA3omb.jpg?resize=450%2C486" alt="CnM7GcEWAAA3omb" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnM7GcEWAAA3omb.jpg?w=698 698w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnM7GcEWAAA3omb.jpg?resize=278%2C300 278w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
-<p>@Pstrey：感觉身边好多人都被植入了什么程序似的，平时好好的一个人，一遇到这些破事就发作，看一群人整齐有序地发作也是挺壮观。</p>
-<p>@MyDF：“南海若有战事，祖国征召，你去不去？”“我去！”#中文八级考试</p>
-<p>@Fatal1tyV：抽抽中南海的烟就行了，就别操中南海的心了……</p>
-<p>@williamlong：九段线如果指的是国界线或领海线的话，的确难以获得国际认同，如果指的是线内岛屿主权，又有些太吃亏，如果指的是专属经济区，和其它国家的又重叠。故意模糊九段线的概念，想利益最大化，最终可能反而弄巧成拙，得到的是最小化的利益。</p>
-<p>@renfanzi：有外国旁友问我国军中有没有少壮派，我想了想，说应该是有的，我自己就见过，三十来岁，已经喝到肝硬化了。</p>
-<p>@网易网友：这次大陆，民意空前统一，毛左、极左、左派、右派、苏狗、美狗、汉奸、卖国贼、自由派、推墙派、自干五、山巅派、死磕派、观望派、无所谓派、公知精英派等，一致认为：必须开战，尽快开战，不打是孙子。 打赢了美国就是我们的，打输了我们就是美国的。输赢以后留学费，签证费，移民费…都省了。</p>
-<p>@teacofeewine：国际仲裁结果跟百姓没啥关系！百姓有半寸土地所有权吗？住好好的家都拆你没商量，自己的血汗钱都抢走不解释。百姓就是百姓，赵姓毕竟是赵姓。</p>
-<p>@freya_atom：感觉淘宝上那些本来就卖假菲律宾芒果干的店主，纷纷跳出来爱国，把自己的产地招出来了。</p>
-<p>@MyDF：我党被称为“土共”有两层意思，一层是土气，另一层是土匪，注定与文明格格不入。和土共一样，中国人的民族性格中也缺乏契约精神，在乎变通，在乎兵不厌诈。经过改革开放30年，发展私营企业，吸引外资，正是凭借“契约精神”，中国经济才得与现代文明接轨。如今，一纸“南海仲裁”，全都现了原形。</p>
-<p>@梁惠王：昨晚听说南海要打仗了，现在打了没有？打了没有？我人民解放军英勇无敌，南海一群小丑，不堪一击，犯我强汉者，虽远必诛。据说南海岛屿密如繁星，打下来，每五十家分一个，开发旅游，吸引夷人来玩，掏空他们的腰包，家家挣得盆满钵满，让一部分人先富起来，现在终于可以走向全民富裕啦。人民万岁！</p>
-<p>@shmyd： 问：菲律宾南海仲裁庭作出非法无效裁决，中方作出哪“三不”声明？宽带山网友：不主动，不负责，不拒绝。</p>
-<p>@laoka01：菲：咱坐下来谈谈南海划地盘的问题吧？中：自古以来…菲：不谈？那打一架吧谁赢归谁？中：自古以来…菲：谈又不谈打又不打，那去海牙仲裁喽。中：自古以来…菲：哈哈哈…看到仲裁结果没？去你大爷的九段线。中：自古以来…菲：日哦，这特么哪来的傻逼啊翻来覆去就这一句。中：自古以来…</p>
-<p>@ld0905： 经济危机到来的时候，强化民族情绪，塑造外敌入侵的危机感，众志成城，吃糠咽菜，背负屈辱和使命，这些东西都跟好莱坞电影生产流水线一样驾轻就熟。#潮水褪去方知道谁没穿裤衩</p>
-<p>@ichimaru0223：一般无视或撕毁国际性公约或是仲裁这事，算是走上战败国之路的第一步吧。 #我历史不好你们不要喷我</p>
-<p>@as50as：@戴旭：对所谓的南海仲裁，最大的蔑视是不理睬。所以，建议中国的官方媒体，淡化这一事件。口诛笔伐的事，交给爱国网络义勇军就行了 。评论：主张战争的戴旭都变怂样了，大家安歇吧，打不起来的，爱国口炮已经最好准备，开始轰炸美国菲律宾网络了，请做好防范准备，避免无辜被伤，推特会是战场吗？</p>
-<p>@pufei：思前想后一晚上，南海仲裁对我方不利主要是有司没有把菲律宾的律师给绑了，要早绑了哪里有今天这种局面？</p>
-<p>@szstupidcool：关于南海之金句：自己约的炮，含着泪也得打完。</p>
-<p>@hnjhj：习近平总书记动情地说：“南海诸岛是中国自古以来不可分割的领土。众所周知，以我名字命名的臭虫就长期生活在那里，至今已经8亿年。”</p>
-<p>@lyw729：我就问一个问题：我深套的军工股有没有机会解套。</p>
-<p>@shangguanluan：我一直单方面宣称吴彦祖是我老公，即使他每天都跟他老婆啪啪，今天他老婆还在街道办宣布了吴彦祖是她老公，但是也等于零，我不承认不接受不参与！</p>
-<p>@Vela1680：爱国青年来到街上，发现菲律宾不出汽车，没得砸，怎么办，还是砸日本车吧。</p>
-<p>@buchimifan：我尊敬的红色二代三代四代们，是时候了，麻烦你们从美女床上爬下来，麻烦你们从豪车里面走出来，麻烦你们从巴黎东京或纽约赶回来——红色江山代代传，寸土必争上战场，就看你们的了。你们出征，我们洒泪送行。你们凯旋，我们对酒当歌。你们牺牲，我们世代不忘。</p>
-<p>@liushui1989：南海对中国当权者从来都是面子问题，历来就不是国家主权和利益问题。别说美国等西方介入和海牙法庭判决，就是一个越南联合印尼、菲律宾挑衅中国，中国也不敢动刀动枪。官方有意无意，发文透露召回退伍海军士兵、北京进入”战备状态“信息，自我壮胆，虚张声势而已。</p>
-<p>@PiaDoE：南海的历史性证据，主要是渔民世世代代捕捞的传统生产证据。还有就是在诸岛上发现了很多中国人生活过的证据，什么铜钱、船具、水井、房屋等等。可是这些证据，在现代国际法上的意义已经越来越小。想想也是，这些依据如果可以算数，那我们的海洋国土可以一直拓展到暹罗湾。</p>
-<p>@平壤崔承浩：在网络上，你们已经打赢了南海的战争，不过我觉得南海归属谁，对你们大多数人意义有多大呢？就算南海属于你的了，该拆迁的房子还是要拆迁的，该上街被打死还是要被打死的，要倒闭的企业也不会因此而改变现状，西凉的孩子同样没有午餐，南非被援助无处放的粮食还是会被卖掉，所以，洗洗睡吧。</p>
-<p>@Suyutong：自古以来太阳就是中国的，《山海经》、《书·尧典》、《十州记》、《淮南子》、《天问》等传说为证。太阳最早的管理者是后羿，后羿为最早的中共党员之一，其它国家否认不了这个事实，国际法庭也仲裁不了。美国对太阳系行星的探索已侵犯了我国主权，我们绝不答应。中共决定即日到太阳系去演习。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnK22V4UkAEps7U.jpg?resize=450%2C622" alt="CnK22V4UkAEps7U" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnK22V4UkAEps7U.jpg?w=868 868w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnK22V4UkAEps7U.jpg?resize=217%2C300 217w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnK22V4UkAEps7U.jpg?resize=768%2C1062 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnK22V4UkAEps7U.jpg?resize=741%2C1024 741w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
-<p>@duqin64：岂止国际法庭仲裁是张废纸，对某些迷信“法律不是挡箭牌”的人来说，《中华人民共和国宪法》和《联合国人权公约》何尝不是废纸？对709抓捕律师案的制造者来说，《刑法》和《刑事诉讼法》何尝不是废纸？所有的文明规范皆可违反，皆可形同废纸，只有手中的权力地位金钱和文工团美女才是真东西。</p>
-<p>@wangxy1：党的军队终于硬起来了，他们不是只会打嘴仗的，不是传说中“内战内行、外战外行”。如今的海军不是北洋水师，中央政府也不是腐朽的晚清；慈禧尚有勇气同时向西方11国宣战，习主席岂不如一女流！强烈呼吁，向列强宣战，收复南海，收复藏南，收复钓鱼岛，收复外蒙古，收复海参崴……</p>
-<p>@eighty_cent：用刘仲敬的话说，一旦谈到“自古以来”“神圣不可侵犯”这类的词的时候，就是老鼠跳上了餐桌的征兆。所有的规则在这种逻辑面前都是无效的。</p>
-<p>@bitinn：对于国际主义者而言领土纠纷都是可悲的事情，不要问我支持谁。这么他妈一点大的星球，这么他妈一点长度的生命，就浪费在这种事情上了。</p>
-<p>@wangxy1：萨德来了，汉奸、带路党们很兴奋，纷纷学英语日语，“this way”，“太君，村干部这边滴干活”。这让爱国贼们非常悲愤。哈哈哈</p>
-<p>@jiangshan：让PokemonGo弄个神兽放南海，谁抓到领海算谁的。#吾有一计</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E4%B8%80%E6%97%A5%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-11-2/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -698,7 +675,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -708,5 +685,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90
                 <td></td>
                 
         
-        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
 </table>

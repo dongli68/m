@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d33nkrvz012k0m.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,31 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC-%E4%BD%A0%E5%9B%BD%E6%97%A5%E5%B8%B8%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%82%84%E6%82%84%E6%8A%8A%E6%89%BF%E8%AF%BA%E6%95%B4%E6%94%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E9%A2%9C/" target="cdt-mirror">墙外楼 | 你国日常：百度悄悄把承诺整改的广告颜色调淡了</a>
+</h2>
+<p><p>这是百度魏则西事件时刚刚整改的广告推广提示</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.png?resize=419%2C72" alt="1-4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.png?w=419 419w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.png?resize=300%2C52 300w" sizes="(max-width: 419px) 100vw, 419px" data-recalc-dims="1"></p>
+<p>是的，就是他喵的改成了蓝色而已，这部分黑的不是商业推广这种恶心的说法，不是这并不明显的提示，看看现在的推广提示吧！</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2-3.png?resize=553%2C81" alt="2-3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2-3.png?w=553 553w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2-3.png?resize=300%2C44 300w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"></p>
+<p>是的，百度把本来就不明显的提示颜色又调暗了！ 百度把本来就不明显的提示颜色又调暗了！ 百度把本来就不明显的提示颜色又调暗了！而且是悄悄的，持续的这么干！</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/3-2.png?resize=87%2C91" alt="3-2" data-recalc-dims="1">我实在是不知道该怎么说好，最近看到推广提示颜色变淡变淡又变淡，不知道什么时候就恢复灰色了呢。</p>
+<p>当然，在手机端就更加明显了，本来是浅蓝色加商业推广的提示，现在直接和电脑端一样了呢。</p>
+<p>对了，百度还随机会有这样的推广提示，之前一段时间是这样的：</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/4-3.png?resize=600%2C131" alt="4-3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/4-3.png?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/4-3.png?resize=300%2C66 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p>现在呢？对的，也是变淡变淡再变淡。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5-3.png?resize=600%2C43" alt="5-3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5-3.png?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5-3.png?resize=300%2C22 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
+<p> </p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC-%E4%BD%A0%E5%9B%BD%E6%97%A5%E5%B8%B8%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%82%84%E6%82%84%E6%8A%8A%E6%89%BF%E8%AF%BA%E6%95%B4%E6%94%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E9%A2%9C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD/?category=18271" rel="tag">你国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%91%8A/?category=18271" rel="tag">广告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B4%E6%94%B9/?category=18271" rel="tag">整改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">魏则西事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%8E%8B%E9%85%A5%E9%BA%BB-%E5%92%AA%E8%92%99%E9%87%8D%E6%96%B0%E5%8F%91%E6%98%8E%E4%BA%86%E4%B8%80%E7%A7%8D%E5%A5%B3%E4%BA%BA%EF%BC%9A%E7%88%B1%E5%9B%BD%E5%A9%8A/" target="cdt-mirror">王酥麻 | 咪蒙重新发明了一种女人：爱国婊</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-14-at-%E4%B8%8A%E5%8D%8811.08.04.png?resize=451%2C425" alt="Screen Shot 2016-07-14 at 上午11.08.04" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-14-at-上午11.08.04.png?w=451 451w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-14-at-上午11.08.04.png?resize=300%2C283 300w" sizes="(max-width: 451px) 100vw, 451px" data-recalc-dims="1"></p>
@@ -698,78 +720,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C/" target="cdt-mirror">纽约时报｜赫海威：时报记者亲探中菲南海争锋漩涡中心</a>
-</h2>
-<p><p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/11scarborough1-articleLarge.jpg?resize=550%2C365" alt="11scarborough1-articleLarge" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/11scarborough1-articleLarge.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/11scarborough1-articleLarge.jpg?resize=300%2C199 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
-上月，南海争议区域斯卡伯勒浅滩附近，中国海警船对一艘载有时报记者和摄影师的船只进行拦截。<br>
-Sergey Ponomarev for The New York Times</p>
-<p>南海斯卡伯勒浅滩——我们远远地能够看见泛着光芒的青绿色水域，那是一片安宁之地的边缘。在那里，深海的波浪会化作轻柔的涟漪；渔民们说，里头的石斑鱼和红笛鲷多到足以让一座村子的人永世不愁吃穿。</p>
-<p>不过，一艘130英尺长的中国海警船正在斯卡伯勒浅滩（Scarborough Shoal，中国称之为黄岩岛——译注）的入口处守卫着。如果除了瞅一眼这一小片珊瑚礁和岩石——在有争议的南海水域，这里是中美之间最新的潜在冲突点——我们还想得到些别的东西，动作就得快一点。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/11scarborough2-popup.jpg?resize=551%2C369" alt="11scarborough2-popup" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/11scarborough2-popup.jpg?w=650 650w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/11scarborough2-popup.jpg?resize=300%2C201 300w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"><br>
-苏比克湾的菲律宾渔夫称，中国的舰船曾经在南海附近恐吓他们。<br>
-Sergey Ponomarev for The New York Times</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/11jp-scarborough1-popup.jpg?resize=550%2C367" alt="11jp-scarborough1-popup" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/11jp-scarborough1-popup.jpg?w=650 650w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/11jp-scarborough1-popup.jpg?resize=300%2C200 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
-上月，一艘菲律宾渔船在南海的斯卡伯勒浅滩附近。<br>
-Sergey Ponomarev for The New York Times</p>
-<p>通常运送游客观光的船长亚历克斯·O·塔加潘(Alex O. Tagapan)，带领我们这艘船加速驶往那片回飞镖形珊瑚环礁的入口。他转向供奉在驾驶舱中的一尊宿务圣婴(Santo Niño de Cebú)小雕像祷告了一番。圣婴是菲律宾人的守护神，据说拥有神奇的力量。</p>
-<p>几分钟内，中国人迅速行动起来，派一艘涂有红色条纹的快艇追了过来。“走开！”“走开！”船上一名头戴竹笠、身穿橙色马甲的男人边用英语叫喊，边使劲儿挥舞着胳膊。</p>
-<p>过去两年间，为了巩固对南海的领土主张，中国飞速采取行动，从海底挖出沙石，把散布的暗礁和珊瑚环礁变成了一座座人工岛，根本不顾来自邻国及美国的抗议。</p>
-<p>现在，中国据说正考虑类似计划，想要把斯卡伯勒浅滩也变成人工岛。这将是中国迄今为止最野心勃勃、也最具挑衅意味的举动。一旦付诸实施，它便会让中国在南海东部拥有一座前哨基地，距离中国大陆逾400海里，但距离菲律宾只有120海里。</p>
-<p>此举将有助于巩固中国在南海的主权主张——包括石油勘探权和捕捞权——同时极大地拓展其雷达、空域和导弹覆盖范围，把驻扎在菲律宾的美军也置于其中。</p>
-<p>美国和菲律宾警告，中国在斯卡伯勒浅滩施工会招致严厉的回应，令外界担心有可能爆发军事冲突。</p>
-<p>这片水域让两个超级大国打起了嘴仗，但查尔斯·达尔文(Charles Darwin)对它作过近乎诗意的描述，“百寻之内，是深浅不一的蓝。”上个月，我决心亲自一探究竟。</p>
-<p>斯卡伯勒浅滩对游客没有什么吸引力。这片幽灵般的礁石得名于1784年在此触礁的一艘英国运茶船，向来以船只失事闻名，遭遇台风的瑞典轮船和法国货船都曾被困在这里。但当我在菲律宾海岸转来转去，想要找一艘船我把送到这里时，对方主要担心的却是中国。四年前，它从菲律宾手中夺走了对这片礁石的控制权。</p>
-<p>无论我走到哪里，别人都不愿意送我来这儿，说是担心受到中国船只的骚扰。攥着朗姆酒瓶的菲律宾渔民，一边播放杂音很大的手机视频，一边描述在月光下与配有水炮和突击步枪的中国船员玩猫鼠游戏的场景。</p>
-<p>“中国人毫不懈怠，”在斯卡伯勒浅滩周边作业的一艘渔船的40岁船长勒南特·埃塔克(Renante Etac)在因凡特附近告诉我。“我们没有办法，只能回家。”</p>
-<p>在曾为美军最大海外海军基地的苏比克湾，我遇到了伊斯拉号游艇(Motoryacht Isla)。几年前，这艘船曾带着一群电视新闻记者前往斯卡伯勒浅滩。</p>
-<p>但船主拉斐尔·G·昂彬(Rafael G. Ongpin)告诉我，船员们太害怕，不敢再进行一次航行。他说，上一次伊斯拉号是被几艘中国军舰赶出了那片海域，后者凶猛地转向拦截，激起了足以掀翻伊斯拉号的巨浪。如果再度前往那片海域，船员担心中国人可能会试图令伊斯拉号沉没，或把他们抓起来。</p>
-<p>在我一再要求之下，昂彬为我找到了一批新船员，由塔加潘船长带领。这是一个安静的男人，但有着水手的自尊自大，他认为失去斯卡伯勒浅滩挫伤了自己国家的尊严。</p>
-<p>“是时候自己站起来了，”他说。</p>
-<p>一个周五的下午，我们起航了。如果一切依计划进行，20个小时后我们将抵达那片水域。</p>
-<p>2012年，争夺斯卡伯勒浅滩的行动升级，当时菲律宾海军试图逮捕一群中国渔民，后者被发现正在那片海域捕捞大蚌、鲨鱼和其他受保护物种。中国派出自己的船只，阻挠菲律宾海军逮捕这些渔民。双方随之陷入僵持，相互指责对方侵犯自己的主权。（台湾也宣称对斯卡伯勒浅滩拥有主权。）</p>
-<p>经过十周的紧张对峙，美国表示它经过调停，结束了这一争端，双方都同意离开该浅滩，谈判继续。但是在菲律宾撤离之后，中国再也没有离开，反倒开始阻止菲律宾渔民进入这片环状珊瑚礁，有时还会在那里部署多达80艘船只，其中有不少是军舰。</p>
-<p>这一事件再度激起菲律宾熟悉的无力感，这个国家曾经历西班牙长达三个世纪和美国半个世纪的殖民统治。今年春天，服务中国军事爱好者的某家网站上出现的一条提议——在斯卡伯勒浅滩建造飞机跑道和足以容纳军舰的港口——在菲律宾引发街头抗议。</p>
-<p>上月在马尼拉接受采访时，性格爽直的菲律宾总统贝尼尼奥·S·阿基诺三世(Benigno S. Aquino III)打断了我，当时我问他是否为中国从他的监管之下夺走斯卡伯勒浅滩感到遗憾。</p>
-<p>“不好意思，”他带着罕见的怒气说道。“那是菲律宾的领土。我不接受我们已经失去它的假定。”</p>
-<p>我们整晚向西航行，远处有雷雨轰然作响。随着黎明的曙光出现，天空变成熔岩般的橘红色。在导航屏幕上，礁石看起来像蓝绿色的变形虫。</p>
-<p>“那是我们进入的唯一路径，”塔加潘船长一边说，一边指着那个环状珊瑚礁东南角的一个缺口。</p>
-<p>随着目标临近，我们的雷达探测到前方有三艘船，驾驶室内的气氛变得紧张起来。塔加潘从没去过斯卡伯勒浅滩，他用手机上的扬声器播放着空中补给(Air Supply)乐队的《让爱存在》(Keeping the Love Alive)，吸了一口福牌(Fortune)香烟。</p>
-<p>“我每一分钟都在祈祷，”他说。</p>
-<p>“我们做好受到攻击的准备了，”大副小安德烈·B·阿里佐(Andres B. Arizo Jr.)开玩笑说。</p>
-<p>你很容易错过斯卡伯勒浅滩。中国认为它是一座岛，在国际法中，这个名词是指能支持人类居住的陆地。这样的差别会让中国可以将距离本国远达200海里的区域宣称为自己的专属经济区，拥有那里的石油、鱼群和其他自然资源。</p>
-<p>海牙的一个国际仲裁庭预计将在未来几周做出裁决。菲律宾请求仲裁庭判定中国在南海的诸多主张无效，包括与斯卡伯勒浅滩有关的几项。中国始终抵制这一仲裁庭，宣称古代地图便已确立南海为中国领土，仲裁庭也无权解决主权争端。</p>
-<p>尽管仲裁庭不能判定斯卡伯勒浅滩属于中国还是菲律宾，但马尼拉一直请求其宣布，它不是一座可以用来确立专属经济区的岛屿。</p>
-<p>从我在伊斯拉号上的位置望去，这个理由看起来颇为有力。在我们这艘船逐渐靠近环礁入口的过程中，我根本没看到海面上有任何东西突出海面。</p>
-<p>不过，我可以看到一艘身上喷着3062编号的中国海警船。伊斯拉号上一回来到斯卡伯勒浅滩时，中国人从环礁外五海里的地方拦住了它。我们现在距离环礁不到一海里，中国人似乎还没发现我们。</p>
-<p>突然间，身后的水域传来了涡流声，然后一艘中国快艇来到了我们旁边，要求我们转向。快艇上有两名男子，戴着竹笠的那人双手挥舞得像是在指挥交响乐。</p>
-<p>伊斯拉号的船员试图获取进入斯卡伯勒浅滩的许可，先是通过无线电呼叫，后来又朝着快艇喊起来。然而，这些请求发出后，得到的是一片沉寂。</p>
-<p>被快艇跟了15分钟之后，船员们想要回去了。我问塔加潘，能不能再转回去一次，或者找个别的办法进去，他却不安起来。海警船在逼近我们，海平面上还出现了另外一艘体型更大的千吨级海警巡逻舰，上面配有水炮。</p>
-<p>“我们可不想被打中，”塔加潘说。</p>
-<p>我们调转船头往回撤的时候，3062号海警船开到离我们不到100英尺的地方，上面的海员还给我们拍了照。那艘3101号海警巡逻舰也开过来，近得让我们感受到了它掀起的大浪。</p>
-<p>一个小时后，中国的船舰回去了。</p>
-<p>在离斯卡伯勒浅滩不远的地方，我们遇到了小渔船JJ2号。塔加潘往桅杆上栓了一块白布，示意对方停下。这艘船上有16名海员，有人戴着印花头巾、身着芝加哥公牛队的球衣。我们靠近时，他们吹着口哨，欢呼起来。</p>
-<p>渔船的船长小保罗·蒲密皮克(Paolo Pumicpic Jr.)告诉我们，他们头两天也遭遇了中国海警，被他们从斯卡伯勒浅滩赶走。</p>
-<p>过去，菲律宾、中国、台湾和越南渔民会分享斯卡伯勒浅滩的自然馈赠，鲜有冲突。来自中国人的骚扰风险如今却让这片水域空空如也。JJ2号是我们在附近区域遇到的唯一一艘渔船。</p>
-<p>蒲密皮克的父亲与祖父都曾在斯卡伯勒浅滩打渔。他称当初每天能捕获价值一千美元左右的海产，现今则是在被迫离开前只能捕捞不到一百美元的东西。</p>
-<p>他说，去年有一次，中国海警登上了他的船，拿竹棍打了他手下的海员，割断了他们的渔网，没收了打捞的海产。</p>
-<p>“他们是瘟疫，”他这样评价中国海警。“以前海里有风浪的时候，我们会去浅滩里头避避。现在去不了。”他认为，中国将风暴期间寻求庇护的船只赶走，是在危害生命。</p>
-<p>菲律宾请求海牙的仲裁庭判定，中国在斯卡伯勒浅滩非法干涉传统捕捞活动，并以危险方式操作其执法船只。</p>
-<p>然而，中国一直在维护自身做出的控制这片礁石的决定，理由是中国渔民前来斯卡伯勒浅滩捕捞的历史达数百年，而菲律宾在上世纪90年代开始骚扰他们。</p>
-<p>“我们没有力量去避开他们的计划，”在我们遇到的另一艘从斯卡伯勒浅滩被赶走的船上，40岁的海员勒南特·孔贝尼多(Renante Combenido)说。“中国是万能的。”</p>
-<p>不过，伊斯拉号返回岸边的途中，船员打开了一瓶瓶的菲律宾生力啤酒(San Miguel)，庆祝自己成功挑战了中国人，不管这种成功多么地有限。</p>
-<p>太阳透过清早的天空，照亮了翠绿的峰峦和火山。塔加潘船长打开了一本祈祷书，望向了天边，开始诵念《使徒信经》。</p>
-<p>“中国人也许拿走了斯卡伯勒浅滩，”他说。“但他们拿不走菲律宾。”</p>
-<p>赫海威(Javier C. Hernández)是《纽约时报》驻京记者。<br>
-欢迎在Twitter关注赫海威 @HernandezJavier.<br>
-翻译：纽约时报中文网 2016年7月11日</p>
-<hr><p><small>© 偏听则明 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -781,7 +731,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -791,5 +741,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

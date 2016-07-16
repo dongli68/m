@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1nfzinqpp07se.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,123 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%90%E5%96%8A%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/" target="cdt-mirror">抽风手戴老湿 ｜呐喊行为研究</a>
+</h2>
+<p><p>昨天有粉丝私信我：为什么每一次发生什么事儿，总会有人在其他人的的账号下留言，强行要求对方表态？</p>
+<p>我觉得这是一个很有意思的问题。</p>
+<p>每逢社交媒体爆发风口事件（比如南海仲裁，比如明星出轨，比如台独事件，比如反服贸），社会学科从业者就会非常兴奋，对于他们来说，这意味着有大量的“活体标本”出现。有幸参与过相关课题研究，还好可以做到有可奉告。</p>
+<p><strong>一、呐喊行为</strong></p>
+<p>“为什么每一次发生什么事儿，总会有人在其他人的的账号下留言，强行要求对方表态？”</p>
+<p>对于这种现象，在社会学科里有一个定义名词——呐喊行为。</p>
+<p>做出呐喊行为的人，一般使用这样一种常见表达句式在其他人账号下留言，强烈要求对方明确表达某个观点，并斥之辱骂或口头武力威胁。</p>
+<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
+<p>试举两例。</p>
+<p>“中国都要和美国打起来了，你身为中国人，为什么还穿耐克鞋？你是不是卖国贼？”</p>
+<p>“中国的南海都被菲律宾抢了，你身为中国人，竟然还在推广新歌？你是不是想被杀全家？”</p>
+<p>这是之前南海仲裁案出来后，真实出现在评论里的句子，典型的呐喊行为句式。</p>
+<p><strong>二、他们是什么人</strong></p>
+<p>拿明星的微博评论举例吧。</p>
+<p>呐喊行为的参与者，有明星的粉丝，也有其他并未关注该明星的微博用户。</p>
+<p>但比例很有意思，明星的粉丝大约占百分之十到二十，而其他并未关注该明星的微博用户，却有八十。</p>
+<p>这意味着，绝大多数，其实和明星并没有建立粉丝关系。</p>
+<p>他们当中一部分是通过转至自己首页的微博，从而跳转到明星微博，但还有很大一部，虽然没有关注明星，自己手动强行去搜的……</p>
+<p>搜完一个，留言了，不过瘾，再去搜下一个。</p>
+<p>“xxx，中国南海都被人抢了，你还有心思在这里推你的视频哦！你为什么不转中国一点都不能少的图！垃圾，去死吧你。“</p>
+<p>在这一传统呐喊行为句式说完后，他们往往还要加上一句。</p>
+<p>“白喜欢你这么久了！”</p>
+<p>之前在反台独的课题研究里，项目研究导师曾经很疑惑的摸着下巴询问我们。</p>
+<p>“我之前一直在看一个给台湾明星留言的账号，她骂了很久，最后我通过账号信息统计和追踪统计，她从来没有关注这个粉丝，也没有发过任何关于该明星的信息，账号里全是在追其他国家的明星，难道她是偷偷关注，默默喜欢？“</p>
+<p>后来一个师姐解答了他的疑惑。</p>
+<p>这就像是渣男分手时，总会说一句，我其实不想伤害你。</p>
+<p>只是想减少内心的罪恶感罢了。</p>
+<p>一句”白喜欢你这么久了“，既蕴含了自己曾经对于这个明星有过多少的憧憬和期望，又深藏了自己对该明星的失望。</p>
+<p>伤离别，离别虽然在眼前。</p>
+<p>虽然其实根本没有粉过你，也未曾动过真感情。</p>
+<p>师姐说完后，全场沉默，或许她也是个有故事的女同学。</p>
+<p>关于这些人所在的地区统计，经济发达地区也有，但不多，二级三级省市居多。</p>
+<p>因为统计基数原因，更具体的到底是哪些地区，分布形态是什么样的，就不做阐释了，需要做更科学化，专业化的数据模型研究。</p>
+<p>在更细化的社会身份上。</p>
+<p>从呐喊行为者的社会职业属性划分，集中在务工者，上班族，学生等普通群体身上，都是社会最为重要的基础人群。</p>
+<p>年龄统计，数据反映的是：15岁至35岁为最主要多数。</p>
+<p><strong>二、为什么这么做</strong></p>
+<p>法社会学认为人类的社会行为做出背后，实际上是其物质需求和精神需求的双重影响，哪怕是定义的“呐喊行为”也不例外。</p>
+<p><strong>［极端情绪宣泄］</strong></p>
+<p>出于这一目的的人群，主要集中在务工人员，收入较低工薪阶层。</p>
+<p>工作压力大，生存压力大，情感不顺，激情有，而抒发激情的地方却没有。</p>
+<p>既然物质上无法满足了，那么至少精神层面要满足一下，平时高高在上的明星，如今在大事面前，都和自己拉在同一个层面了，那么你就应该和我保持同一个态度，同一个步调，这样就可以得到心理的认同感。如果没有，那对不起，这个时候我就可以痛骂你，痛斥你。</p>
+<p>我作为一个普通老百姓，我都做出表态了，你一个平时高高在上的人物，竟然连屁都不放一个！？你作为公众人物，理应比我说的更好更积极！</p>
+<p>如果你做不到，那就休怪我不客气了。</p>
+<p>骂完了，爽。</p>
+<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
+<p>这类人群的注意力，主要是放在后半句，你是不是xxxx上，你是不是臭傻逼，你是不是卖国贼，小心我杀了你全家，小心我奸了你妈妈。</p>
+<p>前面的重要吗？</p>
+<p>不重要了。</p>
+<p><strong>［头羊效应］</strong></p>
+<p>头羊效应是指人类社群反应和羊群一样，当领头羊缺失之后，依然会下意识将前方的羊视为自己的领路者，哪怕前头那哥们儿也并不认道儿。</p>
+<p>看见人家店门口排队，自己也跟着排。</p>
+<p>看见人家看热闹，自己也跟着瞧。</p>
+<p>因为头羊效应而在他人微博下留言的的，其实是行为者的大多数。也就是我之前提到的普通职工，年轻学生，居家妈妈等普通人。</p>
+<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
+<p>从句式内容来说，他们更看重的是前半句，“xxxx都这样了”。</p>
+<p>中国都要和美国打起来了，中国南海都被夺了，中国娱乐圈都被共济会操控了，中国上中下层都完了。</p>
+<p>这是社会的焦点，也是大义的旗帜，是心中公认的正义准则。而且有人进行了质问，有人率先说出了过激的话，那么自己作为跟随者，也应当参与进去。却不考虑，除了这前半句，后面这事儿又怎么说呢，到底人家应不应该表态，如果不表态，至不至于骂卖国贼，杀全家？</p>
+<p>反正头前有人领路，且举着一面大旗，我就随大流跟着上吧。</p>
+<p>有人前来制止，便指着前面的旗子，说瞧吧，我是为了这个，但究竟这一路冲上去到底是做什么，这样的做法对不对，想来自己也不太清楚，又或者清楚过来，话已经说出口了。</p>
+<p><strong>三、反映的问题</strong></p>
+<p>社会行为通常采取分阶标签的形式，来变现它降级和升级的过程。</p>
+<p>a级：不转不是中国人——b级：xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?——c级：你卖菲律宾芒果片，摊位砸了。你开日本车，车和人都砸了。</p>
+<p>这其实是呐喊行为的递进过程标签，初级阶段是大家常见的“不转不是中国人”，停留在标签化的语言层面，而中级阶段则是语言标签加实际留言骚扰，至于最后，则是真正的暴力行为了。</p>
+<p>三者的理论基础和递进原因是一致的。</p>
+<p>在理论上，至少在理论上，呐喊行为者是更容易成为施暴者的。</p>
+<p>另外在进行数据研究的过程中，常常会将研究目标进行统合，并结合类似问卷进行调查。</p>
+<p>在我看来，调查结果是挺让人悲观的。</p>
+<p>打美国，打日本，打台湾成为了该人群最为倾向的前三选项。</p>
+<p>说白了，这就是民主基础投票的可参考数据之一。</p>
+<p>这个结果让人看的不知道该作何感想。</p>
+<p>上午的时候，有人给我发一条链接，让我看，并希望我转发。</p>
+<p>我看了，讲的是共济会和藏传佛教联合，对赵薇等人进行洗脑，讲马云90年代去美国，是接受共济会洗礼，讲现在藏传佛教和共济会达成协议，以后把中国变成政教合一国家。</p>
+<p>我说我不转。</p>
+<p>她说，别人哪怕被删帖都在拼命发声，你们这些人就只知道发发段子，写写东西，真正涉及国家利益的，都不说话了，不如吞粪？</p>
+<p>我说不是。因为我觉得这不像真的，所以我不会转。</p>
+<p>“我对你很失望，我以为你学法律，会关心正义。”</p>
+<p>对不起，让你失望了。</p>
+<p>我觉得这个社会是在变好的。</p>
+<p>十年前五年前那些极端的行为，如果重演，我相信现在会有很多人站出来阻止。</p>
+<p>会有更多愿意为国慷慨激昂直抒胸臆的人。</p>
+<p>会有更多人关心社会的进步。</p>
+<p>哪怕不成熟，哪怕稚嫩，终究是好的。</p>
+<p>可是有些事，错就是错。</p>
+<p>旗帜之下，不能藏污纳垢。</p>
+<p>“林俊杰，你作为中国人，这片土地生你养你，南海仲裁这么大的问题，你都不说话！？狗逼，老子以后再听你的歌，老子不是人。不要再有脸来中国骗钱了，也别让我知道你父母住在哪儿，要不然杀你全家。“</p>
+<p>林俊杰，1981年，生于新加坡，长于新加坡。</p>
+<p>是的。这样的人和事，会越来越少。</p>
+<p>可是只要这样的人和事还存在一天，就需要有指出错误的人。</p>
+<p>做这事儿的人不讨喜，人民群众欣欣向荣，就你丫事儿逼，非要挑点儿毛病出来，欠抽！</p>
+<p>是的。</p>
+<p>可我还是想试试。</p>
+<p><strong>4.题外话</strong></p>
+<p>说点儿别的。</p>
+<p>之前和参与研究的师兄聊天，讲起了行为者的不同学科定义。</p>
+<p>师兄：你们这些研究条条框框的，起个名字还那么问题，还呐喊行为者，听起来太文艺了。</p>
+<p>我：那你们社会行为学怎么定义这些人？</p>
+<p>师兄：我们是这么说的，假借整体因素的影响，利用语言或者其他手段……</p>
+<p>我：说人话。</p>
+<p>师兄：借着幌子，给别人添麻烦的大傻逼。</p>
+<p>我：师兄，你怎么可以说脏话呢？</p>
+<p>师兄很严肃看着我。</p>
+<p>师兄：这怎么会是脏话呢，这是科学认定的傻逼！</p>
+<p>就写到这里吧，很惭愧，只做了一点微小的工作，谢谢大家。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%90%E5%96%8A%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%96%87/?category=18271" rel="tag">赵薇事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8D%9A%E8%B0%88%E7%BD%91-%E3%80%8A%E6%97%B6%E4%BB%A3%E3%80%8B%EF%BC%9A%E8%BF%99%E4%BA%94%E4%B8%AA%E4%BA%8B%E5%AE%9E%E9%98%90%E6%98%8E%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E7%9A%84%E6%8C%91/" target="cdt-mirror">博谈网 |《时代》：这五个事实阐明了中国面临的挑战</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/cuasdng.jpg?resize=551%2C310" alt="cuasdng" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/cuasdng.jpg?w=700 700w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/cuasdng.jpg?resize=300%2C169 300w" sizes="(max-width: 551px) 100vw, 551px" data-recalc-dims="1"></p>
@@ -52,7 +166,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%BE%AE%E5%8D%9A-%E5%8F%B0%E6%B9%BE%E6%BC%94%E5%91%98%E6%88%B4%E7%AB%8B%E5%BF%8D%E5%85%AC%E5%BC%80%E4%BF%A1/" target="cdt-mirror">微博 | 台湾演员戴立忍公开信</a>
 </h2>
@@ -614,39 +728,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8F%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%81%87%E8%A3%85%E5%9C%A8%E7%BA%BD%E7%BA%A6-%E4%BB%B7%E5%80%BC%E8%A7%82%E6%89%8D%E6%98%AF%E4%BA%BA%E5%92%8C%E4%BA%BA%E4%B9%8B%E9%97%B4%E6%9C%80%E6%B7%B1%E7%9A%84%E9%B8%BF%E6%B2%9F/" target="cdt-mirror">假装在纽约 | 价值观才是人和人之间最深的鸿沟</a>
-</h2>
-<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?resize=600%2C390" alt="640CRPV6VOL" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?resize=300%2C195 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640CRPV6VOL.jpg?resize=230%2C150 230w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?resize=600%2C350" alt="640VC3K888S" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?resize=300%2C175 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VC3K888S.jpg?resize=80%2C48 80w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>不出所料，昨天南海的新闻又把朋友圈变成了热闹的战场。有人热血沸腾慷慨激昂，也有人冷眼相看出语相讥。</p>
-<p>这样的场景在每一次热点事件爆发时都会出现。在生活中我们不会随便和别人聊起自己对某件事的看法，但是有了社交媒体以后，我们的大脑像是装上了一扇窗，路过的每一个人都可以瞥上一眼。不管是亲友爱人，还是几年十几年没有见过面的中学同学，或者是曾经帮你租过房子的中介，都能够知道你的想法，你完全无所隐藏。因为你转发的每一篇文章，你复制粘贴的每一条段子，分享到群聊天里的每一张图，都清清楚楚地表明了你的观点、倾向和态度。</p>
-<p>你发出的每一条状态，不管立场如何，不管有多少人点赞，必然会有另一些人不快，觉得受到了冒犯。那些冲上来和你辩论，或者激烈地屏蔽取关拉黑的人还算好的；更可怕的是你永远不会知道有多少人默默看着你的朋友圈，然后在心里翻了个白眼，“没想到竟然是这么一个傻X”。</p>
-<p>当大家都在自由表达，自然会产生观念的冲突。生活中交集不多的人还好，但问题是那些对我们来说重要的人同样不可能和我们在每一件事情上都观点一致。分组是一个办法，但我们不可能在发每一条状态时都分一次组。在这件事上称赞你三观正，被你当成亲生的朋友放在特别分享组里，到了下一件事可能就是骂你骂的最凶的人。</p>
-<p>因为观点不同而造成的人与人之间交往的困扰，美国人比我们感受得更深。很简单的道理，因为美国有民主党和共和党，两个党的许多政策都有着根本性的分歧，支持民主党的人和支持共和党的人也很难坐在一起心平气和地对话。美国人的社交礼仪里有一点就是，不随便问别人的宗教信仰和政治观点，这是很不礼貌的行为。选举投票时，每个选民把票投在哪个票箱也是很重要的隐私，外人不能随便窥探。</p>
-<p>在面对自己亲近的朋友或者朝夕相处的家人爱人时，到底支持共和党和民主党这件事就很难隐瞒了。尤其是到了每四年一次的大选年，矛盾就会更加激化，即使是在一个已经相对较为成熟的社会，父子大打出手、朋友变成路人、夫妻一拍两散这样的极端例子也难以避免。</p>
-<p>所以每隔四年，美国的媒体上就会集中出现“政治倾向不同如何保证家庭美满”之类的指导文章。《华尔街日报》几年前曾经有一篇报道，讲一对结婚多年的老夫妻，丈夫是虔诚的共和党支持者，而妻子则是忠实的民主党信徒。在一次总统大选投票前，丈夫正巧要到国外出差，于是就把自己的选票填好交给妻子，让她代为邮寄出去。</p>
-<p>妻子为此很苦恼，不知道是应该忠于丈夫把选票寄出去，还是应该忠于党把丈夫的选票扔了。犹豫了很久，她最终偷偷地把选票扔掉了。后来丈夫还是在无意中知道了这个秘密，为此记恨了妻子好几年，并且从此不再放心把自己的任何信件交给她。</p>
-<p>引起争吵的话题各有不同，但归根结底是价值观的差异。美国人投票选总统，大多数人是真诚地相信自己选择的候选人能够维护国家利益和自己的个人利益。但到底怎样的政策、哪一个候选人才符合国家利益和个人利益？是不是认同堕胎，是不是认同拥枪权，是不是欢迎更多的移民，是不是应该对富人多征税，是不是支持给同志合法结合的权利，是不是认为政府应该大包大揽包办医疗健康体系和福利制度？根据所有这些问题而做出的选择背后，就是人和人之间价值观的差异。</p>
-<p>具体到南海问题也是如此。大多数人会同意南海问题的本质是国家利益问题，也没有人否认一个强大的国家和国民的个人利益是正相关的关系。但到底怎样的国家才算是强大的国家？嚷嚷着要抵制菲律宾、抵制美国、抵制全世界的人，以及叫嚣着要不惜一切代价打仗、“犯强汉者虽远必诛”的人，到底是在维护国家利益还是反过来损害了国家利益？这些思维模式的背后，都可以看出一个人的价值观。</p>
-<p>但价值观的问题其实又没有什么好讲。因为一个人的价值观根深蒂固，由他的心态、眼界和思考能力综合决定。就像是网上流传过的一句话说的，“无论挣了多少钱，当了多大官，出了多大名，读了多少书，甚至去了多少国家，在国外呆了多少年，骨子里的东西，包括狭隘无知的境界，都是难以改变的”。</p>
-<p>所以放弃和别人争辩吧。接受吧，你永远没有办法改变另一个人的想法，正如你知道他永远不可能改变你的想法。尤其是在社交网络上，所有的争辩都是浪费彼此的时间。大多数人缺乏足够的勇气和智慧来真诚审视自己固守了多年的信仰，因为那是他所有一切的根基，一旦发生动摇就意味着他整个人生要推倒重来。为了逃避这一切，他们愿意相信扭曲的事实、构建一个个逻辑陷阱，用尽一切手段来维护他们内心深处的堡垒。</p>
-<p>最好的做法不是闭口不谈。每个人都有自由表达的权利，这是一件光明正大的事。人生本来就已经很累了好吧，我并不想在自己的朋友圈转个帖子还要自我审查，还要偷偷摸摸，还要顾忌别人是不是会受到伤害。</p>
-<p>我们能做的就是彼此忽略。我知道你不同意我的观点，但我不会试着说服你，我没有这样的权利，也没有这样的义务，更没有这样的耐心和时间。你也不用试图说服我，没必要，你保留你的看法就好。</p>
-<p>更好一点的心态，是试着去尊重和理解。这听起来有点荒谬，做起来也有点困难，但如果你愿意冷静地想一想对方生活在什么样的环境里，从小接受了什么样的教育，走过了什么样的一条路，那他有那样的看法、眼界、观点和价值观，就不是那么让人不可思议难以接受的一件事。对于价值观和我们不一样的陌生人，我们可以挥挥手就此别过，但对于亲近的朋友家人，这样的理解也许是唯一能够不影响彼此关系的做法。</p>
-<p>《华尔街日报》提到的那对夫妻后来还发生了一段小插曲。在丈夫六十岁生日的时候，妻子给丈夫制作了一本生日纪念册，里面收集了亲朋好友的留言和祝福。她还给当时的总统小布什写了一封信，请求小布什给自己的丈夫也写一段祝福的话。她在信里说，“我的丈夫是你忠实的粉丝，过去整整八年我一直听他在唠叨你多么多么好，所以这是你欠我的。”小布什很快就回信祝这个丈夫生日快乐，妻子也把这封信收进了生日纪念册。不过尽管如此，两个人后来在看共和党大会的直播时，为了避免吵起来仍然呆在不同的房间里。</p>
-<p>那篇报道还提到了另一对结婚45年的老夫妻，有一天丈夫走进厨房，发现妻子在墙上挂上了小布什的照片，他很生气，就把相框翻了个面，倒扣在墙上。妻子发现之后，又把相框重新翻了回去。第二天，丈夫接着翻相框，妻子接着翻回去。这对老夫老妻就把这样的拉锯战坚持了好几年，到最后，他们彼此都习惯了这样的仪式。73岁的老先生在接受采访的时候说，“她挂上相框，其实只是想引起我的注意。而我把相框翻过去，只是想告诉她，我知道了。”</p>
-<p>两对夫妻都在一起生活了几十年，但最终他们谁都没有办法改变自己另一半的政治倾向，只能努力去接受，并且把这样的差异变成生活情趣。这其实需要很高的情商和智慧。</p>
-<p>当然，最好的状态，还是能够找到那些和你有一样价值观的人，因为价值观是一种迷人的东西。能够把人和人在更深的层面联系在一起的，绝不是那些可以被轻易贴上的标签。不是你们上过同一间学校，来自同一个城市或国家，有同一个星座或血型，你们就能彼此喜欢。能够维系你们的，只能是同样的信仰，准则与价值观。</p>
-<p>价值观体现在每一个细节里。对某个事件的看法，对某个人的评价，某本书或者某部电影的好恶，都可以把你和一些人紧紧联系在一起，同时又把你和另一些人泾渭分明地分开。</p>
-<p>面对一些人，一些事，当你激动不已而别人不明就里，当你义愤填膺而别人无动于衷，你和他们之间，就有了一条微妙的界河，而这条界河，其实是人和人之间最深的鸿沟。</p>
-<p>愿你能够找到另一些和你有一样价值观的人。因为如果可以选择的话，相信没有人愿意和要在挂谁的相框这件事上和自己斗争一辈子的人生活在一起。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%81%87%E8%A3%85%E5%9C%A8%E7%BA%BD%E7%BA%A6-%E4%BB%B7%E5%80%BC%E8%A7%82%E6%89%8D%E6%98%AF%E4%BA%BA%E5%92%8C%E4%BA%BA%E4%B9%8B%E9%97%B4%E6%9C%80%E6%B7%B1%E7%9A%84%E9%B8%BF%E6%B2%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E5%88%86%E6%AD%A7/?category=18271" rel="tag">价值分歧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC%E8%A7%82/?category=18271" rel="tag">价值观</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E7%97%85/?category=18271" rel="tag">爱国病</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -658,7 +739,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -668,5 +749,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>

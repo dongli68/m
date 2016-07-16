@@ -21,9 +21,26 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BB%A5%E9%A2%A0%E8%A6%86%E7%BD%AA%E8%B5%B7%E8%AF%89%E5%91%A8%E4%B8%96%E9%94%8B%E7%AD%89%E5%BE%8B%E5%B8%88/" target="cdt-mirror">美国之音｜中国以“颠覆罪”起诉周世锋等律师</a>
+</h2>
+<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s.jpg?resize=550%2C309" alt="CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s.jpg?w=987 987w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s.jpg?resize=768%2C432 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>代理敏感案件的主要律所北京锋锐所主任律师周世锋(参与网图片)</span></p></div>
+<p>2016年7月15日天津市人民检察院第二分院以涉嫌“颠覆国家政权罪”起诉周世锋、胡石根、翟岩民、勾洪国。维权组织认为，此举是这是中国当局对中国维权律师和人权活动人士的“709”大抓捕行动的继续。</p>
+<p>周世锋是北京锋锐律师事务所主任，中国知名维权律师，1995年执业以来，曾代理过多起受害人大案，并且表示要建立“中国律师维权基金”，为各地受迫害律师家属提供资助。</p>
+<p>2015年7月10日，周世锋被北京市警方以“严重扰乱社会秩序”等罪名，遭传唤并指定地点监视居住，2016年1月8日，被天津市警方以涉嫌“颠覆国家政权罪”逮捕，7月15日被以涉嫌“颠覆国家政权罪”起诉。</p>
+<p>胡石根曾任北京语言学院讲师，基督徒，曾秘密参加组建中国自由民主党等团体。1992年春季，曾计划到北京等地散发传单，在天安门广场空投传单，抗议中共六四屠杀事件，后被被警方抓捕。1994年12月被判处有期徒刑20年。他不服上诉，被驳回后身心遭到巨大迫害，一度病危；2008年二次减刑后被提前4年释放。</p>
+<p>为要求当局释放周世锋等人，中国维权人士最近发起抗议和声援活动，八十多位维权律师还发表联署信，抨击天津警方在709案中滥用职权，违反法律。</p>
+<p>维权网说，截止2016年7月15日，709大抓捕案仍有18人被羁押，其中包括8名律师和10名人权捍卫者。中国国内外舆论密切关注中国当局对上述所谓颠覆国家政权罪案的审理。</p>
+<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BB%A5%E9%A2%A0%E8%A6%86%E7%BD%AA%E8%B5%B7%E8%AF%89%E5%91%A8%E4%B8%96%E9%94%8B%E7%AD%89%E5%BE%8B%E5%B8%88/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">709事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E7%9F%B3%E6%A0%B9/?category=18271" rel="tag">胡石根</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【真理部】《炎黄春秋》人事变动</a>
 </h2>
 <p><p>各网站，请在新闻后台加入对“炎黄春秋”关键词内容的屏蔽，有关杂志人事变动一事不报道、不评论。</p>
@@ -575,52 +592,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%A7%94
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%BE%AE%E5%8D%9A%E4%B8%8A%E8%BF%99%E4%B8%AA%E8%81%94%E5%90%88%E5%9B%BD%E5%A7%93%E5%85%9A%EF%BC%9F/" target="cdt-mirror">【网络民议】微博上这个联合国到底姓什么</a>
-</h2>
-<p><p>7月13日，面对微博上热烈的“南海仲裁案”话题，联合国官方中文新浪微博发布了一则信息称“荷兰海牙和平宫内1899年建立的常设仲裁法院和联合国没有任何关系”，并且一度将一名网友的评论“（常设仲裁法院）是三甲医院里外包出去的莆田系”置顶，这条客观上配合官方与民间高涨民族主义情绪“撇清关系”的微博让一些网友赞扬“不背锅”也让一些网友觉得“大跌眼镜”。同时，这条消息得到了共青团中央微博账号的及时转发。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf.jpg?resize=600%2C566" alt="CnOiDCaXEAEwvPf" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf.jpg?w=723 723w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf.jpg?resize=300%2C283 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf3.jpg?resize=597%2C527" alt="CnOiDCaXEAEwvPf3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf3.jpg?w=597 597w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf3.jpg?resize=300%2C265 300w" sizes="(max-width: 597px) 100vw, 597px" data-recalc-dims="1"></p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf33.jpg?resize=600%2C840" alt="CnOiDCaXEAEwvPf33" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf33.jpg?w=669 669w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnOiDCaXEAEwvPf33.jpg?resize=214%2C300 214w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p><strong>以下内容为数字时代编辑摘自部分网友评论：</strong></p>
-<p>@_Antonio：翻译过来：都是隔壁那个房客弄的事儿，跟我没有一点关系！我们这个锅不背！</p>
-<p>@他年君：可以的，这很联合国。</p>
-<p>@悲欢离合常回首：此所谓“仲裁法院”与联合国无半点瓜葛，不是正头乡主，不过是“拿人钱财，替人消灾”的货色，狐假虎威。美日等却拿鸡毛当令箭，未免有点滑稽可笑。</p>
-<p>@鱼十zcl：联合国里的莆田系！</p>
-<p>@怪兽小小小小小Q：这小伙要爆红的节奏…都上团中央和联合国了。</p>
-<p>@戴旭 ：可以预计，随着这一闹剧的结束，其他的闹剧还会上演。中国正可以抓住这一机会，1、改海南省委南海省；2、设立南海防空识别区；3、视菲律宾后续表现，对菲占中国岛礁上的入侵者发出最后通牒；4、视情宣布退出联合国海洋公约，让一群闹事者统统闭嘴！一个和平的中国，必是一个敢于捍卫自身合法权益的中国。我们爱和平，我们爱家乡,,,,预备唱！</p>
-<p>@拂去烟雾朦胧：拒绝侮辱莆田系。</p>
-<p>@老刘论市 ：那个仲裁组织，据说是给钱就给上，因为中国不上，菲律宾还给了双份的钱。还有，自从那个仲裁组织成立以来，执行率0。</p>
-<p>@ursatong：联合国微博的意思是冤有头债有主你们别到我这来吵架？</p>
-<p>@海波就是岛国大叔：联合国狠狠的扇了美、菲、日一个嘴巴子！联合国发布声明“南海仲裁案”和他们没有关系！弄了半天就是一个民间组织，我真是醉了。哥几个都准备准备，去太平洋租个小岛咱也开个法庭，也仲裁一下美、菲、日。</p>
-<p>@春天精灵99：联合国发声：南海仲裁庭和我们没有半毛钱的关系！</p>
-<p>————————————</p>
-<p>@破破的桥：已经憋了好几天，但还是忍不住要吐槽一下。今天是中文网络污染史上值得纪念的一天。立帖为证：联合国中文微博控号者暗示称 1.常设仲裁法院不是正规国际机构。2.1899年建立的常设仲裁法院是1922年建立的常设国际法院外包出去的莆田系。3.1913建成的和平宫是建设者们为了预知9年后成立的国际法院建造的。</p>
-<p>@破破的桥：为了常设仲裁法院专门拨款建造的和平宫，联合国中文微博控号者可以瞪着眼睛撒谎，把它说成靠出租联合国信誉牟利的建筑商。真是叹为观止。</p>
-<p>@水舞刀：联合国官微犯了这种弱智的错误，看看他下一步会不会澄清。更重要的是，国际海洋法法庭依据《海洋法公约》组建了仲裁庭，仲裁庭指定常设仲裁法院为其书记官处——联合国官微居然认为“常设仲裁法院”是“莆田系”。官微编辑什么狗屁素质。</p>
-<p>@lolRG：联合国账号11:25刚发，团中央11:27就转发，难不成24小时守在微博上，所以联合国帐号到底什么性质已经很明显了吧！</p>
-<p>@张寒崧：微博上这个联合国姓党。</p>
-<p>@冬円流雑：越隔离，越危险，再隔几年他们都能造出来一个特色联合国。</p>
-<p>@老z不醉：两个平行机构，联合国原文没错。那个网友解读带歪了楼。</p>
-<p>@ScheherazadeZ：墙的存在成功的吃掉了大批中国网民的脑子。</p>
-<p>@叉叉哥肖风：基本上，军国主义的基础我是看到了，不仅仅网络上，我的周围同事同学亲朋，那股浓浓的战争欲望。</p>
-<p>@宁采4620 ：海牙国际常设仲裁法院不是联合国机构，但也不是许多人以为的歪货。</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6e113fa3gw1f5scf22pscj20qo0zkqdz.jpg?resize=440%2C587" alt="6e113fa3gw1f5scf22pscj20qo0zkqdz" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6e113fa3gw1f5scf22pscj20qo0zkqdz.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6e113fa3gw1f5scf22pscj20qo0zkqdz.jpg?resize=225%2C300 225w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>@无事多自宫：联合国中国官微不是第一次这么干了。不可理喻。</p>
-<p>@忧郁的冷冻鱿鱼：怎么不说紫禁城是老朱家为挂毛主席照片造的呢？</p>
-<p>@连岳lianyue：联合国本来就是大型寄生官僚机构，不奇怪。</p>
-<p>@tdskbd：原来就看这个微博很可疑，今天算是证实了。</p>
-<p>@szshu：同样是联合国官方社交平台，新浪微博认证联合国官微UN谈笑风生，推特认证联合国官推@UN中规中矩，官方平台需要亲民接地气，但不是过家家，官方平台的言行代表着整个组织的态度，联合国官微到底是世界的联合国，还是中国的联合国？</p>
-<p>@idzhang3：中国人民又疯狂拿着联合国官微自我安慰了。海牙常设仲裁法院不是联合国机构，然而是联合国海洋法公约第289条和附件7明文规定的仲裁机构，强制仲裁程序依法只能在常设仲裁法院进行。按公约程序，如果当事双方都同意，则也可选择海牙国际法院或位于汉堡的国际海洋法法庭进行诉讼或仲裁。</p>
-<p>@idzhang3：联合国认证微博指出常设仲裁法院跟联合国没有任何关系、而且形同骗子的微博，成微博热门、门户网站要闻，并被当作联合国官方表态。玩到这程度，各大外媒通讯社其实真有必要就此联系联合国询问看法了。</p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%BE%AE%E5%8D%9A%E4%B8%8A%E8%BF%99%E4%B8%AA%E8%81%94%E5%90%88%E5%9B%BD%E5%A7%93%E5%85%9A%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B2%E8%A3%81%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">仲裁机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">军国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E8%A3%81/?category=18271" rel="tag">制裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%B3%95/?category=18271" rel="tag">国际法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%96%E4%BA%A4%E9%83%A8/?category=18271" rel="tag">外交部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%98%E5%83%9A%E6%9C%BA%E6%9E%84/?category=18271" rel="tag">官僚机构</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%B8%E8%AE%BE%E4%BB%B2%E8%A3%81%E6%B3%95%E9%99%A2/?category=18271" rel="tag">常设仲裁法院</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E9%97%B4%E7%BB%84%E7%BB%87/?category=18271" rel="tag">民间组织</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BA%AD/?category=18271" rel="tag">法庭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">爱国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD/?category=18271" rel="tag">联合国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%81%94%E5%90%88%E5%9B%BD%E6%B5%B7%E6%B4%8B%E6%B3%95%E5%85%AC%E7%BA%A6/?category=18271" rel="tag">联合国海洋法公约</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -632,7 +603,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -642,5 +613,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/></td>    </tr>
 </table>

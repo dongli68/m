@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%90%E5%96%8A%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/" target="cdt-mirror">抽风手戴老湿 ｜呐喊行为研究</a>
@@ -134,6 +134,121 @@
 <a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%90%E5%96%8A%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/">Permalink</a> |
 <br>
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%96%87/?category=18271" rel="tag">赵薇事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 9小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%90%E5%96%8A%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/" target="cdt-mirror">新浪博客｜抽风手戴老湿：呐喊行为研究</a>
+</h2>
+<p><p>昨天有粉丝私信我：为什么每一次发生什么事儿，总会有人在其他人的的账号下留言，强行要求对方表态？</p>
+<p>我觉得这是一个很有意思的问题。</p>
+<p>每逢社交媒体爆发风口事件（比如南海仲裁，比如明星出轨，比如台独事件，比如反服贸），社会学科从业者就会非常兴奋，对于他们来说，这意味着有大量的“活体标本”出现。有幸参与过相关课题研究，还好可以做到有可奉告。</p>
+<p><strong>一、呐喊行为</strong></p>
+<p>“为什么每一次发生什么事儿，总会有人在其他人的的账号下留言，强行要求对方表态？”</p>
+<p>对于这种现象，在社会学科里有一个定义名词——呐喊行为。</p>
+<p>做出呐喊行为的人，一般使用这样一种常见表达句式在其他人账号下留言，强烈要求对方明确表达某个观点，并斥之辱骂或口头武力威胁。</p>
+<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
+<p>试举两例。</p>
+<p>“中国都要和美国打起来了，你身为中国人，为什么还穿耐克鞋？你是不是卖国贼？”</p>
+<p>“中国的南海都被菲律宾抢了，你身为中国人，竟然还在推广新歌？你是不是想被杀全家？”</p>
+<p>这是之前南海仲裁案出来后，真实出现在评论里的句子，典型的呐喊行为句式。</p>
+<p><strong>二、他们是什么人</strong></p>
+<p>拿明星的微博评论举例吧。</p>
+<p>呐喊行为的参与者，有明星的粉丝，也有其他并未关注该明星的微博用户。</p>
+<p>但比例很有意思，明星的粉丝大约占百分之十到二十，而其他并未关注该明星的微博用户，却有八十。</p>
+<p>这意味着，绝大多数，其实和明星并没有建立粉丝关系。</p>
+<p>他们当中一部分是通过转至自己首页的微博，从而跳转到明星微博，但还有很大一部，虽然没有关注明星，自己手动强行去搜的……</p>
+<p>搜完一个，留言了，不过瘾，再去搜下一个。</p>
+<p>“xxx，中国南海都被人抢了，你还有心思在这里推你的视频哦！你为什么不转中国一点都不能少的图！垃圾，去死吧你。“</p>
+<p>在这一传统呐喊行为句式说完后，他们往往还要加上一句。</p>
+<p>“白喜欢你这么久了！”</p>
+<p>之前在反台独的课题研究里，项目研究导师曾经很疑惑的摸着下巴询问我们。</p>
+<p>“我之前一直在看一个给台湾明星留言的账号，她骂了很久，最后我通过账号信息统计和追踪统计，她从来没有关注这个粉丝，也没有发过任何关于该明星的信息，账号里全是在追其他国家的明星，难道她是偷偷关注，默默喜欢？“</p>
+<p>后来一个师姐解答了他的疑惑。</p>
+<p>这就像是渣男分手时，总会说一句，我其实不想伤害你。</p>
+<p>只是想减少内心的罪恶感罢了。</p>
+<p>一句”白喜欢你这么久了“，既蕴含了自己曾经对于这个明星有过多少的憧憬和期望，又深藏了自己对该明星的失望。</p>
+<p>伤离别，离别虽然在眼前。</p>
+<p>虽然其实根本没有粉过你，也未曾动过真感情。</p>
+<p>师姐说完后，全场沉默，或许她也是个有故事的女同学。</p>
+<p>关于这些人所在的地区统计，经济发达地区也有，但不多，二级三级省市居多。</p>
+<p>因为统计基数原因，更具体的到底是哪些地区，分布形态是什么样的，就不做阐释了，需要做更科学化，专业化的数据模型研究。</p>
+<p>在更细化的社会身份上。</p>
+<p>从呐喊行为者的社会职业属性划分，集中在务工者，上班族，学生等普通群体身上，都是社会最为重要的基础人群。</p>
+<p>年龄统计，数据反映的是：15岁至35岁为最主要多数。</p>
+<p><strong>二、为什么这么做</strong></p>
+<p>法社会学认为人类的社会行为做出背后，实际上是其物质需求和精神需求的双重影响，哪怕是定义的“呐喊行为”也不例外。</p>
+<p><strong>［极端情绪宣泄］</strong></p>
+<p>出于这一目的的人群，主要集中在务工人员，收入较低工薪阶层。</p>
+<p>工作压力大，生存压力大，情感不顺，激情有，而抒发激情的地方却没有。</p>
+<p>既然物质上无法满足了，那么至少精神层面要满足一下，平时高高在上的明星，如今在大事面前，都和自己拉在同一个层面了，那么你就应该和我保持同一个态度，同一个步调，这样就可以得到心理的认同感。如果没有，那对不起，这个时候我就可以痛骂你，痛斥你。</p>
+<p>我作为一个普通老百姓，我都做出表态了，你一个平时高高在上的人物，竟然连屁都不放一个！？你作为公众人物，理应比我说的更好更积极！</p>
+<p>如果你做不到，那就休怪我不客气了。</p>
+<p>骂完了，爽。</p>
+<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
+<p>这类人群的注意力，主要是放在后半句，你是不是xxxx上，你是不是臭傻逼，你是不是卖国贼，小心我杀了你全家，小心我奸了你妈妈。</p>
+<p>前面的重要吗？</p>
+<p>不重要了。</p>
+<p><strong>［头羊效应］</strong></p>
+<p>头羊效应是指人类社群反应和羊群一样，当领头羊缺失之后，依然会下意识将前方的羊视为自己的领路者，哪怕前头那哥们儿也并不认道儿。</p>
+<p>看见人家店门口排队，自己也跟着排。</p>
+<p>看见人家看热闹，自己也跟着瞧。</p>
+<p>因为头羊效应而在他人微博下留言的的，其实是行为者的大多数。也就是我之前提到的普通职工，年轻学生，居家妈妈等普通人。</p>
+<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
+<p>从句式内容来说，他们更看重的是前半句，“xxxx都这样了”。</p>
+<p>中国都要和美国打起来了，中国南海都被夺了，中国娱乐圈都被共济会操控了，中国上中下层都完了。</p>
+<p>这是社会的焦点，也是大义的旗帜，是心中公认的正义准则。而且有人进行了质问，有人率先说出了过激的话，那么自己作为跟随者，也应当参与进去。却不考虑，除了这前半句，后面这事儿又怎么说呢，到底人家应不应该表态，如果不表态，至不至于骂卖国贼，杀全家？</p>
+<p>反正头前有人领路，且举着一面大旗，我就随大流跟着上吧。</p>
+<p>有人前来制止，便指着前面的旗子，说瞧吧，我是为了这个，但究竟这一路冲上去到底是做什么，这样的做法对不对，想来自己也不太清楚，又或者清楚过来，话已经说出口了。</p>
+<p><strong>三、反映的问题</strong></p>
+<p>社会行为通常采取分阶标签的形式，来变现它降级和升级的过程。</p>
+<p>a级：不转不是中国人——b级：xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?——c级：你卖菲律宾芒果片，摊位砸了。你开日本车，车和人都砸了。</p>
+<p>这其实是呐喊行为的递进过程标签，初级阶段是大家常见的“不转不是中国人”，停留在标签化的语言层面，而中级阶段则是语言标签加实际留言骚扰，至于最后，则是真正的暴力行为了。</p>
+<p>三者的理论基础和递进原因是一致的。</p>
+<p>在理论上，至少在理论上，呐喊行为者是更容易成为施暴者的。</p>
+<p>另外在进行数据研究的过程中，常常会将研究目标进行统合，并结合类似问卷进行调查。</p>
+<p>在我看来，调查结果是挺让人悲观的。</p>
+<p>打美国，打日本，打台湾成为了该人群最为倾向的前三选项。</p>
+<p>说白了，这就是民主基础投票的可参考数据之一。</p>
+<p>这个结果让人看的不知道该作何感想。</p>
+<p>上午的时候，有人给我发一条链接，让我看，并希望我转发。</p>
+<p>我看了，讲的是共济会和藏传佛教联合，对赵薇等人进行洗脑，讲马云90年代去美国，是接受共济会洗礼，讲现在藏传佛教和共济会达成协议，以后把中国变成政教合一国家。</p>
+<p>我说我不转。</p>
+<p>她说，别人哪怕被删帖都在拼命发声，你们这些人就只知道发发段子，写写东西，真正涉及国家利益的，都不说话了，不如吞粪？</p>
+<p>我说不是。因为我觉得这不像真的，所以我不会转。</p>
+<p>“我对你很失望，我以为你学法律，会关心正义。”</p>
+<p>对不起，让你失望了。</p>
+<p>我觉得这个社会是在变好的。</p>
+<p>十年前五年前那些极端的行为，如果重演，我相信现在会有很多人站出来阻止。</p>
+<p>会有更多愿意为国慷慨激昂直抒胸臆的人。</p>
+<p>会有更多人关心社会的进步。</p>
+<p>哪怕不成熟，哪怕稚嫩，终究是好的。</p>
+<p>可是有些事，错就是错。</p>
+<p>旗帜之下，不能藏污纳垢。</p>
+<p>“林俊杰，你作为中国人，这片土地生你养你，南海仲裁这么大的问题，你都不说话！？狗逼，老子以后再听你的歌，老子不是人。不要再有脸来中国骗钱了，也别让我知道你父母住在哪儿，要不然杀你全家。“</p>
+<p>林俊杰，1981年，生于新加坡，长于新加坡。</p>
+<p>是的。这样的人和事，会越来越少。</p>
+<p>可是只要这样的人和事还存在一天，就需要有指出错误的人。</p>
+<p>做这事儿的人不讨喜，人民群众欣欣向荣，就你丫事儿逼，非要挑点儿毛病出来，欠抽！</p>
+<p>是的。</p>
+<p>可我还是想试试。</p>
+<p><strong>4.题外话</strong></p>
+<p>说点儿别的。</p>
+<p>之前和参与研究的师兄聊天，讲起了行为者的不同学科定义。</p>
+<p>师兄：你们这些研究条条框框的，起个名字还那么问题，还呐喊行为者，听起来太文艺了。</p>
+<p>我：那你们社会行为学怎么定义这些人？</p>
+<p>师兄：我们是这么说的，假借整体因素的影响，利用语言或者其他手段……</p>
+<p>我：说人话。</p>
+<p>师兄：借着幌子，给别人添麻烦的大傻逼。</p>
+<p>我：师兄，你怎么可以说脏话呢？</p>
+<p>师兄很严肃看着我。</p>
+<p>师兄：这怎么会是脏话呢，这是科学认定的傻逼！</p>
+<p>就写到这里吧，很惭愧，只做了一点微小的工作，谢谢大家。</p>
+<blockquote><p>作者其他文章请看：<a href="http://chinadigitaltimes.net/chinese/tag/%E6%88%B4%E6%AD%A3%E9%98%B3/" target="_blank">戴正阳专题</a></p></blockquote>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%90%E5%96%8A%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B4%E6%AD%A3%E9%98%B3/?category=18271" rel="tag">戴正阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%96%87/?category=18271" rel="tag">赵薇事件</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 9小时前</small>
@@ -694,40 +809,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%B7%E5%80%BC
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%A1%97%E7%81%AF%E7%BF%BB%E8%AF%91%E7%A4%BE-%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%9B%BD%E9%99%85%E4%BB%B2%E8%A3%81%E5%BA%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%89%E8%AE%BA/" target="cdt-mirror">街灯翻译社 ｜关于国际仲裁庭的一些争论</a>
-</h2>
-<p><blockquote><p><strong><a href="http://weibo.com/5708252703/DEJSzt478" target="_blank">@街灯翻译社</a></strong>：昨天开始，对于国际仲裁庭资质问题持怀疑态度的微博开始增多，更有甚者将其称为莆田系来哗众取宠。中方也在白皮书里面再次表示仲裁庭不具备管辖权，不接受，不承认裁决。那从法理上，中方是否有资格“不接受，不承认”呢？此文为您详细解读#南海仲裁结果# °关于国际仲裁庭的一些争论</p></blockquote>
-<p>在国际仲裁庭给出了不利于中方的仲裁决议后，国新办今天发布白皮书，其中针对国际仲裁庭对此事的管辖权以及菲律宾将争端带到仲裁庭的行为表示了异议。</p>
-<p>白皮书说：菲律宾时任政府2013年单方面提起的南海仲裁案违反中菲通过双边谈判解决争议的协议，侵犯中国作为《联合国海洋法公约》缔约国自主选择争端解决方式的权利，滥用《公约》争端解决程序。应菲律宾单方面请求建立的南海仲裁案仲裁庭自始无管辖权，所作出的裁决是无效的，没有拘束力。中国在南海的领土主权和海洋权益在任何情况下不受仲裁裁决的影响。中国不接受、不承认该裁决，反对且不接受任何以仲裁裁决为基础的主张和行动。</p>
-<p>那么国际仲裁庭的判决真的是无效的吗？仲裁庭在此事上没有管辖权吗？针对白皮书给出的回应，下文逐条分析其合理性。</p>
-<p><strong>一．</strong></p>
-<p><i>“菲律宾时任政府2013年</i><b><i>单方面</i></b><i>提起的南海仲裁案</i><b><i>违反中菲通过双边谈判解决争议的协议</i></b><i>，侵犯中国作为《联合国海洋法公约》缔约国</i><b><i>自主选择争端解决方式的权利</i></b><i>，</i><b><i>滥用</i></b><i>《公约》争端解决程序。”</i></p>
-<p>第一句话实际上提出了两个问题，第一是认为菲方单方面提起仲裁违反了双边谈判解决争议的协议。</p>
-<p>首先根据UNCLOS（联合国海洋法公约），菲律宾自然是<b>在法理上有权利</b>提起“单方面“的仲裁请求的。（Ku Julian，2015）根据该法条款286”任何牵涉对该公约解读和实施方面问题的争议可由争议任一方提交给有相关管辖权的法庭或仲裁庭。”所以，<b>从法理上而言，不需要征得中国的同意即可提交仲裁请求。</b>其次，就道义上而言，<b>中方所谓的双边谈判解决争议协议，实际上也没有说明不能申请仲裁</b>。菲律宾最多说将会在这个问题上保持一定的克制，不使失态升级或复杂化。仲裁庭认为，这句话很难被解读为，不申请仲裁。（ku julian，2015）</p>
-<p>第二个问题是对于公约的滥用。中方认为申请仲裁侵犯了中国自主选择争端解决方式的权利，属于滥用决议。中国指出公约第281条规定“已协议用自行选择的和平方式来谋求解决争端，则只有在诉诸这种方法而未得到解决，以及争端各方间的协议并不排除任何其他程序的情形下，才适用本部分所规定的程序。”</p>
-<p>根据此方面的专家学者，旅美博士@黎蜗藤老师的文章，在谈判问题上，中菲一直没能在谈判方式上取得共识。2012年黄岩岛事件之后，中国多次拒绝谈判。以及在九段线问题上中方一直没有回应。这些都符合“诉诸这种方法而未得到解决”的情形，故可申请仲裁。<b>并且，从法理上，这《宣言》也不能构成法理上排除仲裁可能的理由</b>。这一问题详细可参见黎蜗藤老师在端传媒上发表的文章，文末会附上链接。</p>
-<p><strong>二．</strong></p>
-<p><i>“应菲律宾单方面请求建立的南海仲裁案仲裁庭</i><b><i>自始无管辖权</i></b><i>，所作出的<b>裁</b></i><b><i>决是无效的</i></b><i>，没有拘束力。”</i></p>
-<p>仲裁庭的判决并不是无效的，尽管它们在此事件中没有强制当事国执行的能力。根据Ku Julian教授在Lawfare上的文章，中国加入《联合国海洋法公约》时即已承认288(4)条款(“管辖权问题应由该法院或法庭以裁定解决。”)。换言之，该案仲裁庭有没有管辖权，需交由仲裁庭决定，而仲裁庭也在经过一年审核过后认为它有这个权力。</p>
-<p>这种设计也是有意为之的，Ku Julian教授指出，如果仲裁庭不能裁定对于争议事项自己有没有管辖权范围，那么争议中一方总能以缺乏管辖权为由规避仲裁，仲裁的“强制性”则无从谈起。而中国当初加入该公约即已承认了这种“强制性”。</p>
-<p>至于做出的裁决是否是无效的，《公约》296条款指出(“根据本节具有管辖权的法院或法庭对争端所作的任何裁判应有确定性，争端所有各方均应遵从。”），换言之这个判决必然有着法律效力的。中方可以不遵守判决，但难免遭到非议，使本已经复杂的南海局势进一步升级，乃至损害本国在外交方面的声誉。</p>
-<p><strong>三．</strong></p>
-<p><i>“中国在南海的</i><b><i>领土主权和海洋权益</i></b><i>在任何情况下不受仲裁裁决的影响。中国不接受、不承认该裁决，反对且不接受任何以仲裁裁决为基础的主张和行动。”</i></p>
-<p>首先，<b>仲裁席在判决过程中已经声明不参与对领土主权的界定问题</b>。在仲裁庭花费一年考虑管辖权后，也只将菲方无关领土主权的几项的几项受理。（Ku Julian，2015）。中国在2006年根据《公约》298条规定，做出了排除性声明，表示涉及领土主权、海洋划界、历史性主权等争端不接受《公约》第十五部分的强制程序。<b>但因为菲方没有做排除性声明，则不妨碍这次仲裁的进行</b>。（黎蜗藤，2016）</p>
-<p>另外，仲裁庭也没有对岛礁的归属问题进行仲裁，而是界定哪些岛礁拥有怎样的海洋权利，所以严格来说这也不涉及领土主权问题。</p>
-<p>以上就是对于仲裁庭管辖权，程序问题的一些解释。结论是仲裁庭具有管辖权，主要就来源于《公约》288（4）条款。</p>
-<p>本文主要取自于@黎蜗藤老师和Ku julian教授的文章，因两人的文章都要翻墙阅读，故特摘抄和翻译一些段落以正视听。</p>
-<p>黎蜗藤 南海争议，北京说词的误区（下）：今日局面何以致之？ 端传媒，2016 https://theinitium.com/article/20160713-opinion-lai-southchinasea-II/<br>
-Ku Julian. China‘s Ridiculously Weak Legal Argument Against Complying with the South China Sea Arbitration Award. lawfareblog, 2015<br>
-https://www.lawfareblog.com/chinas-ridiculously-weak-legal-argument-against-complying-south-china-sea-arbitration-award</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%A1%97%E7%81%AF%E7%BF%BB%E8%AF%91%E7%A4%BE-%EF%BD%9C%E5%85%B3%E4%BA%8E%E5%9B%BD%E9%99%85%E4%BB%B2%E8%A3%81%E5%BA%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%89%E8%AE%BA/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8F%B2%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中菲关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF/?category=18271" rel="tag">南海争端</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -739,7 +820,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8F%B2
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -749,5 +830,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E8%8F%B2
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
 </table>

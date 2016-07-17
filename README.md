@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF-%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%BC%9A%E8%A7%81%E6%B4%AA%E6%A3%AE-%E5%85%81%E8%AF%BA%E6%8F%B4%E5%8A%A9%E5%85%AD%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%81%E6%84%9F%E8%B0%A2%E5%8D%97/" target="cdt-mirror">法广 | 李克强会见洪森 允诺援助六亿美元、感谢南海支持 中方媒体未见报道</a>
@@ -171,6 +171,19 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%9C%9F%E8%8
 </h2>
 <p><p>@<a href="http://weibo.com/daiixiaoye001" target="_blank">抽风手戴老湿</a>：问与答——这是一份问答整理。 提问者是我，翻译人是我在东大和庆应义塾的朋友，他们根据问题采访日本国民，并记录下他们的回答。 问题都是我瞎提的，想问啥问啥。 至于回答，也不具有代表性，我觉得有意思，就收录了。  （<a title="2015-07-22 00:26" href="http://weibo.com/2022400275/Csccp31YZ?from=page_1035052022400275_profile&wvr=6&mod=weibotime" target="_blank" name="3867200810722609">2015-7-22 00:26</a> ）</p>
 <p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/788b6113jw1euauzlsg29j20rik407wi-1.jpg?resize=600%2C15797" alt="788b6113jw1euauzlsg29j20rik407wi" data-recalc-dims="1"></p>
+<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF-%E6%97%A5%E6%9C%AC%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中日关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B4%E6%AD%A3%E9%98%B3/?category=18271" rel="tag">戴正阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF/?category=18271" rel="tag">抽风手戴老湿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC%E4%BA%BA/?category=18271" rel="tag">日本人</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 6小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF-%E6%97%A5%E6%9C%AC%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/" target="cdt-mirror">新浪微博｜抽风手戴老湿：日本普通人对中国怎么看？</a>
+</h2>
+<p><p>@<a href="http://weibo.com/daiixiaoye001" target="_blank">抽风手戴老湿</a>：问与答——这是一份问答整理。 提问者是我，翻译人是我在东大和庆应义塾的朋友，他们根据问题采访日本国民，并记录下他们的回答。 问题都是我瞎提的，想问啥问啥。 至于回答，也不具有代表性，我觉得有意思，就收录了。  （<a title="2015-07-22 00:26" href="http://weibo.com/2022400275/Csccp31YZ?from=page_1035052022400275_profile&wvr=6&mod=weibotime" target="_blank" name="3867200810722609">2015-7-22 00:26</a> ）</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/788b6113jw1euauzlsg29j20rik407wi-1.jpg?resize=600%2C15797" alt="788b6113jw1euauzlsg29j20rik407wi" data-recalc-dims="1"></p>
+<blockquote><p>作者其他文章请看：<a href="http://chinadigitaltimes.net/chinese/tag/%E6%88%B4%E6%AD%A3%E9%98%B3/" target="_blank">戴正阳专题</a></p></blockquote>
 <hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
 <a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF-%E6%97%A5%E6%9C%AC%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/">Permalink</a> |
 <br>
@@ -776,28 +789,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC-%E4%BD%A0%E5%9B%BD%E6%97%A5%E5%B8%B8%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%82%84%E6%82%84%E6%8A%8A%E6%89%BF%E8%AF%BA%E6%95%B4%E6%94%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E9%A2%9C/" target="cdt-mirror">墙外楼 | 你国日常：百度悄悄把承诺整改的广告颜色调淡了</a>
-</h2>
-<p><p>这是百度魏则西事件时刚刚整改的广告推广提示</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.png?resize=419%2C72" alt="1-4" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.png?w=419 419w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-4.png?resize=300%2C52 300w" sizes="(max-width: 419px) 100vw, 419px" data-recalc-dims="1"></p>
-<p>是的，就是他喵的改成了蓝色而已，这部分黑的不是商业推广这种恶心的说法，不是这并不明显的提示，看看现在的推广提示吧！</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2-3.png?resize=553%2C81" alt="2-3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2-3.png?w=553 553w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2-3.png?resize=300%2C44 300w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"></p>
-<p>是的，百度把本来就不明显的提示颜色又调暗了！ 百度把本来就不明显的提示颜色又调暗了！ 百度把本来就不明显的提示颜色又调暗了！而且是悄悄的，持续的这么干！</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/3-2.png?resize=87%2C91" alt="3-2" data-recalc-dims="1">我实在是不知道该怎么说好，最近看到推广提示颜色变淡变淡又变淡，不知道什么时候就恢复灰色了呢。</p>
-<p>当然，在手机端就更加明显了，本来是浅蓝色加商业推广的提示，现在直接和电脑端一样了呢。</p>
-<p>对了，百度还随机会有这样的推广提示，之前一段时间是这样的：</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/4-3.png?resize=600%2C131" alt="4-3" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/4-3.png?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/4-3.png?resize=300%2C66 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p>现在呢？对的，也是变淡变淡再变淡。</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5-3.png?resize=600%2C43" alt="5-3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5-3.png?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5-3.png?resize=300%2C22 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"></p>
-<p> </p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A2%99%E5%A4%96%E6%A5%BC-%E4%BD%A0%E5%9B%BD%E6%97%A5%E5%B8%B8%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%82%84%E6%82%84%E6%8A%8A%E6%89%BF%E8%AF%BA%E6%95%B4%E6%94%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E9%A2%9C/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD/?category=18271" rel="tag">你国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B9%BF%E5%91%8A/?category=18271" rel="tag">广告</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%B4%E6%94%B9/?category=18271" rel="tag">整改</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%99%BE%E5%BA%A6/?category=18271" rel="tag">百度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%9E%E4%BB%B7%E6%8E%92%E5%90%8D/?category=18271" rel="tag">竞价排名</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF/?category=18271" rel="tag">魏则西</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%AD%8F%E5%88%99%E8%A5%BF%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">魏则西事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -809,7 +800,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -819,5 +810,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BD%A0%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

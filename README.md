@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,117 @@
                 <td></td>
                 
         
-        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%AF%B4%E4%B8%80%E4%B8%8D%E6%98%AF%E4%BA%8C-%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/" target="cdt-mirror">说一不是二  | 杨争光：“知识分子”</a>
+</h2>
+<p><h2><img src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmibE0iaMDeU7oKCGD8DgNQX0ibM9ZF5FDO9KKvtCUAKROKQqWJ4tTq5T0w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmibE0iaMDeU7oKCGD8DgNQX0ibM9ZF5FDO9KKvtCUAKROKQqWJ4tTq5T0w/0?wx_fmt=jpeg" data-ratio="1.2284172661870503" data-w=""></h2>
+<div>
+<p>1895年1月，德雷福斯被当众革除军职</p>
+<section><section><section><section><section><section><section><section><strong>题记：</strong></section><section> 这一篇文字，是阅读法国人雷吉斯·德布雷演讲记录稿后的所思与所想，和《孔子不是“丧家狗”》一样，是从笔记本里挪出来的，当然，做了一些修整。</section></section></section></section></section></section></section></section><section><section><section><section></section><section><section>壹</section></section><section></section></section></section></section><blockquote><p>知识分子有它的历史，但却是一个新词，它出现在法国，在1898年的德雷福斯案件期间《震旦报》的一篇宣言里——所谓德雷福斯案件，简单来说就是公开抗议一个无辜的人被宣判。</p>
+<p>——雷吉斯·德布雷</p></blockquote>
+<p>在西方，先有知识分子的存在和漫长的成长历史，后有其名。</p>
+<p>中国的政治史、思想史和文化史中，有这样的存在么？比如，苏格拉底式的人物及其作为？大概没有。</p>
+<p>中国式的知识分子应该是有的。比如：春秋战国时的诸子百家。那个时候，有中国式知识分子生存的土壤和空气。后来似乎没有了。有源头，却断流了，没有传承的历史——我说的是自由思想的精神传承。</p>
+<p>有的是“达则兼济天下，穷则独善其身”的“仁人”、“君子”。</p>
+<p>当然，这也是一种传承。</p>
+<p>“达则奴才，穷则精神自慰”是其另一种表述——这并不刻薄。</p>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkJDQzA1MTVGNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkJDQzA1MTYwNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QkNDMDUxNUQ2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QkNDMDUxNUU2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6p+a6fAAAAD0lEQVR42mJ89/Y1QIABAAWXAsgVS/hWAAAAAElFTkSuQmCC" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmdJBxRyAUXuKDxxBRiayUdMdCPjXPu0yEZy4OVMjMpShTTibgic26qF6icw/0?wx_fmt=jpeg" data-ratio="0.6816546762589928" data-w=""></p>
+<p>孔子周游列国</p>
+<section><section><section><section></section><section><section>贰</section></section><section></section></section></section></section><blockquote><p>具体来说，‘知识分子’这个新词是在政治对抗，对立的背景中出现的。</p>
+<p>——雷吉斯·德布雷</p></blockquote>
+<p>孔子终其毕生的努力，周游列国，不过是要寻找“主人”，做“家狗”。</p>
+<p><strong>“知识分子”是不惜甘做“野狗”的。</strong></p>
+<p><strong>没有完美无缺的秩序。面对现存秩序，“对抗”是“知识分子”的基本立场，但不是唯一的立场，比如：预警。</strong></p>
+<p><strong>“知识分子”，不管在体制内还是体制外，他不是现存秩序的“附庸”，更不是秩序中既得利益者的“共谋”，他是现有秩序的变量，“不稳定因素”。他的立足点是社会的公平和正义。是人类精神和道德的提升和进步。</strong></p>
+<p>孔子没找到主人，终于做先生,教学生了。</p>
+<section><section><section><section></section><section><section>叁</section></section><section></section></section></section></section><blockquote><p>知识分子和传统意义上的文人，哲人是不一样的，就像弗朗索瓦.于连说的，中国的道家，其实没有很多想法，不会表明态度。他们主要关注的是自然。而儒家意义上的文人，是服从于君主的权利，满足于君主的选择。和这种天人合一的官僚主义文人统治的传统比起来，欧洲的知识分子更多的是用笔和自己的思想进行干预，往往没有得到政府公开的许可，就像萨特说的，知识分子是管闲事的人。</p>
+<p>——雷吉斯·德布雷</p></blockquote>
+<p>中国的“仁人”、“君子”是官僚政治体制中人，或努力要成为官僚政治体制中人。被体制剔出去的，甘做“野狗”的少有。“处江湖之远则忧其君，居庙堂之高则忧其民”，是其自我贴金式的表述。其实是有牢骚的，不让做奴才之后的牢骚。从一部绵长的文学史中就可以看出，闪光的精神和才情大都是奴才的才情。</p>
+<p> </p>
+<p>萨特的“管闲事”和鲁迅所说的文人的“帮闲”和“帮忙”是不同质的。</p>
+<p>中国没有或少有“管闲事的人”。</p>
+<p>中国的读书人信的是“一心只读圣贤书”，因为“书中自有黄金屋，颜如玉”。有了黄金屋和颜如玉的时候，也就是体制中人，自家人了。</p>
+<p><strong>在相对健康的体制中，成为“自家人”不是问题。问题在于，成为自家人以后的丢失自己，或放弃自己，做奴才，当太监。</strong></p>
+<p>对于萨特所说的“闲事”，我们大多是“各人自扫门前雪，不管他人瓦上霜”。</p>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkJDQzA1MTVGNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkJDQzA1MTYwNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QkNDMDUxNUQ2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QkNDMDUxNUU2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6p+a6fAAAAD0lEQVR42mJ89/Y1QIABAAWXAsgVS/hWAAAAAElFTkSuQmCC" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmaseibn12vOUMQulRwsc0VXkRAf8Wc2pdXRYhnrYBCZJ8tJfMFPlNuXQ/0?wx_fmt=jpeg" data-ratio="0.6384892086330936" data-w=""></p>
+<p>读书，成为知识人，然后成为官僚，就是所谓的“修身齐家治国平天下”。这是中国读书人的基本路径，至今没有改道。</p>
+<p>而且，有丰厚牢固的民间基础。“公务员”成为求职热门，不仅是因为求职者，更在于求职者的父母。</p>
+<p>没有开放、自主的人民，就不可能有真正自主开放的社会和国度。</p>
+<p> </p>
+<p><strong>国家掌握了全部资源，知识分子就失去了生存的土壤。读书人的“独善其身”也实在是无奈的一种选择——但不能贴金。被迫选择并不丢人，丢人的是在自慰的同时，掩护“被迫”。</strong></p>
+<section><section><section><section></section><section><section>肆</section></section><section></section></section></section></section><blockquote><p>我们能够从历史中得到什么样的教训呢？就是知识分子与政治权力是一种反比例关系……在中国的国家政权最强的时候，知识分子就变成了臭老九。</p>
+<p>——雷吉斯·德布雷</p></blockquote>
+<p>在变成“臭老九”之前，几十万读书人已进了劳改农场，其中绝大多数不是“知识分子”，而是知识人，被误判了。</p>
+<p><strong>但读书人、“知识分子”变臭，是从这里开始的。先是“被臭”，然后是“自臭”，且不知其“臭”，或虽知其“臭”却按耐不住，一味的继续“臭”，于是就越来越“臭”。是人都知道的。</strong></p>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkJDQzA1MTVGNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkJDQzA1MTYwNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QkNDMDUxNUQ2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QkNDMDUxNUU2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6p+a6fAAAAD0lEQVR42mJ89/Y1QIABAAWXAsgVS/hWAAAAAElFTkSuQmCC" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmibUBFz3b2WGYjmR7vCOZOJA5RvFHr0Sdq1qN2ia7OTg0ZgLMcuHklDnA/0?wx_fmt=jpeg" data-ratio="0.658273381294964" data-w=""></p>
+<p>法国启蒙运动</p>
+<section><section><section><section></section><section><section>伍</section></section><section></section></section></section></section><blockquote><p>法国历史学家托克维尔在《旧制度与大革命》一书中……认为，当一个旧的政治制度和一个新的价值系统之间不兼容的时候，权力与权威相分离，社会就会进入有震荡强度的变革时期。</p>
+<p>我们注意到，往往都是知识分子发动并掀起革命，但不管是资产阶级革命或社会主义革命，这些革命者们马上就会回过头来攻击知识分子。</p>
+<p>——雷吉斯·德布雷</p></blockquote>
+<p>这是革命获得政权之后的需要，西方和中国是一样的。</p>
+<p>不一样的是，西方的革命在政权建立过程之后并未停止，“这些胜利的起义者，他们最初总是通过受到教育的人来进行整治反抗，但最终他们又会取消所有的知识反抗的可能性。这就是为什么革命进入第二阶段时，总是会要建立起一个法治国家，把国家建立在社会力量的公开和制衡的基础之上。”</p>
+<p>中国没有这样的革命的第二阶段。知识反抗的归宿是，要么被“招安”，要么被消灭。</p>
+<p><strong>强权需要的是拥护和维护，而不是“制衡”。也不允许“制衡”。</strong></p>
+<section><section><section><section></section><section><section>陆</section></section><section></section></section></section></section><blockquote><p>1919年的五四运动在中国确实是让传统的文人士大夫的变化，使他们成为西方意义上的知识分子。</p>
+<p>——雷吉斯·德布雷</p></blockquote>
+<p><strong>五四运动并没有在中国培育出知识分子阶层，也不可能培育出这样的阶层：</strong></p>
+<p><strong>1.</strong><strong>中国没有知识分子的传统和历史；</strong></p>
+<p><strong>2.</strong>没有知识分子成长的土壤。</p>
+<p><strong>但是，五四运动培育了中国的知识分子意识：</strong></p>
+<p><strong>1.社会批判意识。</strong></p>
+<p><strong>2.民主政治的理想。</strong></p>
+<p><strong>3.个性自由精神。</strong></p>
+<p><strong>还有，贡献了鲁迅</strong>——他从未妥协地，和刀剑与刀笔顽强对抗，把自己坚持到了生命的最后。</p>
+<p>就“知识分子”来说，鲁迅具有原型的意义——中国现代“知识分子”的原型。</p>
+<p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkJDQzA1MTVGNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkJDQzA1MTYwNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QkNDMDUxNUQ2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QkNDMDUxNUU2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6p+a6fAAAAD0lEQVR42mJ89/Y1QIABAAWXAsgVS/hWAAAAAElFTkSuQmCC" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmdb9CoBYFSyoHtho6KgibadB3V01QaVI6vibLZQ8J6d9ICcL3mD5xA0Yg/0?wx_fmt=jpeg" data-ratio="0.7338129496402878" data-w=""></p>
+<p>《五四运动前夕》（局部）</p>
+<p>鲁迅的存在，也证明了他所在时代相对的社会宽容。在此之后，中国再也没有过这样的宽容。</p>
+<p>鲁迅不应该是中国现代知识分子的绝唱，但迄今为止，他似乎还是绝唱，难有续响。</p>
+<p><strong>中国需要的是鲁迅，而不是孔子。</strong></p>
+<p><strong>孔子所有的“思想”精髓，中国几乎每一个乡村的聪明人都可以合盘托出，并能身体力行。但在鲁迅的世界里，已是常识的东西却需要在中国普及。</strong></p>
+<p>首先需要普及的是读书人、知识人、文化人！</p>
+<section><section><section><section></section><section><section>柒</section></section><section></section></section></section></section><p>“管闲事”和中国式知识分子没有好的缘分。</p>
+<p>“达则兼济天下，穷则独善其身”，是中国式知识分子所崇尚的立身行事的胸怀和境界，也是中国式知识分子的一种宿命性表达。</p>
+<p>达，居庙堂之高，在其位，要谋其政，要兼济天下，无暇顾及“闲事”。</p>
+<p>穷，处江湖之远，做假隐士，也叫社会贤达，要独善其身，管不了“闲事”。</p>
+<p>在穷与达之外，还有文革时张志新式的一种命运：割断喉管，被迫害致死。</p>
+<p><strong>“割断喉管”，在中国，对知识分子来说，具有其符号性和象征性意义。</strong></p>
+<section><section><section><section></section><section><section>捌</section></section><section></section></section></section></section><p>不管闲事，或不愿管闲事，是有理由的：</p>
+<p>“将来的历史会说话的”。“时间会证明的”。</p>
+<p>听起来似乎无可厚非，实则是逃避。是放弃。是对天赋权利的背叛。它已经损害了我们的精神品质。</p>
+<p><strong>放弃现在，何以有将来的历史？</strong></p>
+<p>而时间是无语的。</p>
+<p>时间也会“失语”。</p>
+<p><strong>不管是对政治、文化、艺术，还是对重大的社会事件，放弃对当下的判断和评判，是自私，也是堕落。</strong></p>
+<p>这种现实的造成，除了外在的迫压和自在的奴性，也与我们几千年重死人轻活人的脾性有关。</p>
+<p>在对原始经典的注解和挥发中不断建构和延续，是中西方思想史共有的现象，但风貌完全两样。</p>
+<p>西方思想史的每一个阶段，都有伟大的思想家兴风作浪，扩展视阈，开掘深度，提升高度，使他们和他们民族思想的历史波诡云谲，高潮迭起，群星闪耀。我们曾经有过自己的宇宙观。</p>
+<section><section><section><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkJDQzA1MTVGNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkJDQzA1MTYwNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QkNDMDUxNUQ2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QkNDMDUxNUU2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6p+a6fAAAAD0lEQVR42mJ89/Y1QIABAAWXAsgVS/hWAAAAAElFTkSuQmCC" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmDJPvKQBws30on66lFpHdnTvtgWwcMMIypxpAWnvkST6eHHQnHvQ1Rg/0?wx_fmt=jpeg" data-type="jpeg" data-ratio="0.37222222222222223" data-w="540"></section></section><section><section><section><section>  老子          孔子          庄子</section></section></section></section><section><section><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkJDQzA1MTVGNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkJDQzA1MTYwNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QkNDMDUxNUQ2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QkNDMDUxNUU2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6p+a6fAAAAD0lEQVR42mJ89/Y1QIABAAWXAsgVS/hWAAAAAElFTkSuQmCC" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmUC2gtDUia3lqghUCc1XiauA5HCibT3bfVaxeXT2WVvqyRL3ricpdicpkZXA/0?wx_fmt=jpeg" data-type="jpeg" data-ratio="0.412962962962963" data-w="540"></section></section><section><section><section><section>  苏格拉底           柏拉图         亚里士多德</section></section></section></section></section><p><strong>我们的起点并不矮于洋人，也有伟大的思想家和他们的典籍站立在我们思想历史的源头。我们也在注解和挥发中建构延续我们的历史。</strong></p>
+<p><strong>不同的是，在我们这里，源头的原型和原典是神化的，非人的。孔子到清代的时候，其头衔写成文字，足可以成为阅读和记忆的考题。</strong></p>
+<p><strong>几千年的历史，依然还是那几个人，除了原典，再无经典。</strong>书倒是写了不少，勉强能成为思想家的却寥若晨星，用手指头就可以数过来。如果细究起来，还都有近似犬儒的嫌疑。这就是我眼里的中国思想史的真相。它的高度依然是源头的高度。</p>
+<p>我们的思想在不断地萎缩。</p>
+<p>面对死人，面对当下，我们的膝盖骨都是软的。</p>
+<p>我们没有自塑的自信，没有自尊。我们也许有判断，却没有评判的勇气，更没有扩张的野心。</p>
+<p>扯这么远，不过是想说，<strong>严肃的判断和评判是不能完全交给时间的。更不能以各种各样的原因做借口，放弃判断和评判的权利。</strong></p>
+<p><strong>不负责任的应景是可耻的。</strong></p>
+<p><strong>放弃应有的评判同样可耻。</strong></p>
+<p><strong>补记：</strong></p>
+<p> </p>
+<p>查百度百科“知识分子”，是这么写的：</p>
+<blockquote><p>直至1921年中国共产党成立，在《中国共产党章程》上才正式用“知识分子”和“知识阶层”两词。1933年中国共产党在革命根据地的中央工农民主政府明确规定知识分子是一个社会阶层，属于“脑力劳动者”……从现阶段看以一般操作层面定义，只要具备大专学历及其以上者——本科、硕士、博士，即可视为“知识分子”。</p></blockquote>
+<section><section><section><section><section><section><section><section><section>本文插图来自网络，如有侵权，请联系后台或小编微信：luxiaoyaoao.</section></section></section></section></section></section></section></section></section><section><section><section><section><section><section><section><section><section><section><section><section>朋友有言：“沉默是最美的说”，是友善的忠告，也是对“说”的审美——“言而不说”为美。</section><section></section><section>然而，鲁迅有言：“沉默啊沉默，不在沉默中爆发，就在沉默中灭亡”，是主张有话还是“说”的好。</section><section></section><p>宁可不要“言而不说”的美，也不想“在沉默中爆发”，也不想“在沉默中灭亡”。</p>
+<section>所以做公众号。</section></section></section></section></section><section><section><section><section><section><img src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqm1k6cnKL6Ue2dObdXYIN9vdRguHX5ZsQmdLVXuCOvZglFeKQzmFQ7Jg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqm1k6cnKL6Ue2dObdXYIN9vdRguHX5ZsQmdLVXuCOvZglFeKQzmFQ7Jg/0?wx_fmt=jpeg" data-type="jpeg" data-ratio="1" data-w="72"></section></section></section></section><section><section><section><section><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkJDQzA1MTVGNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkJDQzA1MTYwNkE2MjExRTRBRjEzODVCM0Q0NEVFMjFBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QkNDMDUxNUQ2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QkNDMDUxNUU2QTYyMTFFNEFGMTM4NUIzRDQ0RUUyMUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6p+a6fAAAAD0lEQVR42mJ89/Y1QIABAAWXAsgVS/hWAAAAAElFTkSuQmCC" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqm31JvEYnfHzbyGuWVI27yqWLEDKSpn5lMAF17Cjp0hRDMalIS6ebOyw/0?wx_fmt=jpeg" data-type="jpeg" data-ratio="1" data-w="38"></section></section></section></section><section><section><section><section><img src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmXAiciaOnZu61nHoTF4e1bIXkqEJ3AZSPOS64gvQZl04FhibcRkia0XasmA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmXAiciaOnZu61nHoTF4e1bIXkqEJ3AZSPOS64gvQZl04FhibcRkia0XasmA/0?wx_fmt=jpeg" data-type="jpeg" data-ratio="1.0526315789473684" data-w="38"></section></section></section></section><section><section><section><section><img src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmcTXTVia0jrBOibXoGXRZclMcTticGKS2T5DQcq7qVn07ibfMkmROsXDI0g/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmcTXTVia0jrBOibXoGXRZclMcTticGKS2T5DQcq7qVn07ibfMkmROsXDI0g/0?wx_fmt=jpeg" data-type="jpeg" data-ratio="1" data-w="38"></section></section></section></section><section><section><section><section><img src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmicKMdBsBPVa0s6vGWeRB0IW95IXVDffsfFCkA6tKFIGJlvQ7FbJcxHg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmicKMdBsBPVa0s6vGWeRB0IW95IXVDffsfFCkA6tKFIGJlvQ7FbJcxHg/0?wx_fmt=jpeg" data-type="jpeg" data-ratio="1" data-w="38"></section></section></section></section></section></section></section></section></section></section></section></section><hr><section><section><section><section><section><section><section><section><img src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmUGeS3LES3AWko2rTdAZAdmxSYMvloIsGq6ZZTZhoptRmaKWeksib3WA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" width="250" height="334" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmUGeS3LES3AWko2rTdAZAdmxSYMvloIsGq6ZZTZhoptRmaKWeksib3WA/0?wx_fmt=jpeg" data-type="jpeg" data-ratio="1.337837837837838" data-w="74"></section></section></section></section><section><section><section><section><section><section><section>杨争光说</section><section>微信：futuolangzi1957</section><section></section></section></section></section></section><section><section><section><img src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqm5TRsC5T0fBbR5ibbugFNbkvAylKsuZibWKyQwia2ibEnAlzBrTovAQEBPg/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" width="250" height="250" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqm5TRsC5T0fBbR5ibbugFNbkvAylKsuZibWKyQwia2ibEnAlzBrTovAQEBPg/0?wx_fmt=jpeg" data-type="jpeg" data-ratio="1" data-w="204"></section></section></section></section></section><section><section><section><section><section><section><section>路尧 李岩 联合编辑</section><section>乐在奇中影视倾力支持</section></section></section></section></section><section><section><section><section><section>长按二维码关注</section></section></section></section></section></section></section><section><section><section><section></section></section></section></section><section><section><section><section>本公众号所有文字内容版权均属杨争光先生所有，刊发、转载等事宜，请联系小编微信：luxiaoyaoao。</section></section></section></section></section></section></section><section><section><section><section></section></section></section></section></section></div>
+<div></div>
+<hr><p><small>© 中国好网民 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%AF%B4%E4%B8%80%E4%B8%8D%E6%98%AF%E4%BA%8C-%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90/?category=18271" rel="tag">孔子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%A8%E4%BA%89%E5%85%89/?category=18271" rel="tag">杨争光</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B2%81%E8%BF%85/?category=18271" rel="tag">鲁迅</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF-%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%BC%9A%E8%A7%81%E6%B4%AA%E6%A3%AE-%E5%85%81%E8%AF%BA%E6%8F%B4%E5%8A%A9%E5%85%AD%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%81%E6%84%9F%E8%B0%A2%E5%8D%97/" target="cdt-mirror">法广 | 李克强会见洪森 允诺援助六亿美元、感谢南海支持 中方媒体未见报道</a>
 </h2>
 <p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-%E4%B8%8B%E5%8D%882.32.59.png?resize=553%2C312" alt="中国总理李克强在欧亚峰会上会见柬埔寨总理洪森，2016年7月15日。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-下午2.32.59.png?w=553 553w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-下午2.32.59.png?resize=300%2C169 300w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><p>中国总理李克强在欧亚峰会上会见柬埔寨总理洪森，2016年7月15日。</p></div>
@@ -759,36 +867,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%BD%E6%88%88%EF%BC%9A%E5%92%AA%E8%92%99%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E5%9B%BD%EF%BC%9F/" target="cdt-mirror">羽戈：咪蒙为什么会“永远爱国”？</a>
-</h2>
-<p><p>相比《永远爱国，永远热泪盈眶》所表达的观点，我更感兴趣的是，咪蒙为什么会写这样的文章，正如相比咪蒙“永远爱国”，我更感兴趣的是，她为什么忽然爱国。</p>
-<p>有人翻出咪蒙前些年的微博。五年前，她以反讽的语气写道：“除了贵国，哪里还能看到奇迹。”所谓奇迹，指“中山一个生产红薯粉丝的，添加了墨汁和工业石蜡”；三年前，她称“爱一个人要像爱祖国”的台词过于惊悚，并强调“爱国不是单恋，是兽交”，“兽交”二字，真是生动，恰可见咪蒙一以贯之的聪明与刻薄。</p>
-<p>然而，一个曾以“兽交”定性爱国的人，现在却高呼“永远爱国，永远热泪盈眶”，反问“爱国不是很正常的一件事吗”；一个曾以食品危机的“奇迹”嘲讽中国的人，现在却感叹“我们大中国很给人安全感”，不知咪蒙写下“安全感”这个词的时候，会不会想起地沟油、僵尸肉与高龄凤爪，会不会想起魏则西，以及前不久还和她行走于同一城市的雷洋？</p>
-<p>咪蒙突如其来的变脸或转身，不外乎两种可能：真心爱国与假装爱国。我倾向于认为是后一种。原因之一，这些年来我见过的聪明人，十之八九都不会以爱国者公开标榜，所剩一二，宣称自己爱国，不是以此为登龙术，就是以此为生意经。咪蒙的巨大成功，足以证明她是绝顶聪明之人，加之她以前一直在嘲讽、批判爱国，那么她忽然爱国，只余一种解释。</p>
-<p>另一个原因，则在《永远爱国，永远热泪盈眶》这个充满了谎言与谬误的文本。</p>
-<p>就文气而言，此文远远不像《致贱人》《致low逼》那样一气呵成、酣畅淋漓。其第二节赞颂中国美食、第三节鼓吹中国生活便利，尚且可谓“一鼓作气”，第四节写中国的夜生活，则属“再而衰”，第五节写中国的安全感，便到了“三而竭”，无论举例还是措辞，都有些敷衍的意思，这不能全怪咪蒙，毕竟巧妇难为无米之炊，安全感在中国，与真相、正义一样稀缺，要论证如此虚妄的命题，除了强词夺理，只能插科打诨。</p>
-<p>这两招，咪蒙都用上了。试看这三句：</p>
-<blockquote><p>其实这两天我们对待南海事件，就完全展示了安全感有多强啊。<br>
-菲律宾闹这么一出，就像看一个不懂事的熊孩子，在家门口打滚说：不给糖，就捣蛋。<br>
-我们只想挥挥手，说，爸爸忙着呢，一边待着去。</p></blockquote>
-<p>把菲律宾比作孩子，中国以大人——甚至是“爸爸”——自居，哪里还是说理呢，分明无理可讲，只好耍无赖，进行人身攻击，这背后，则是阿Q遗传的精神胜利法。至于第一句话，假如放在三五年前，几乎所有人都会认为：咪蒙在反讽。</p>
-<p>单论文气，可知这是一个失败的文本。结合文意，则可知咪蒙的写作何以失败。同是歌颂爱国，她自然无法接受周小平、纪连海之流的鸡血写法，这帮人的吃相实在狰狞，那么只能重拾自己最拿手的鸡汤写法，以生活消解政治，以温情消解庄严，这不仅可以交卷，还可以借助鸡汤的香气，掩饰爱国的血腥，麻痹虚弱的人心。然而问题在于，爱国作为一个政治命题，加上在一个泛政治化的国度，决定了任何力量都无法消解它的存在，倘若不敢反抗，那便唯有顺从。咪蒙企图取巧，其努力必然失败。这一锅爱国的鸡汤，在公众的拷问之下，迅速见底，露出鸡贼的本色。</p>
-<p>此文最鸡贼、最具蛊惑力的地方，应数最后一节。咪蒙一面声称“爱国不是打嘴炮”“更不是道德绑架”，这足以使她与那些热衷于兽交的爱国者们划清界限；一面呼吁“爱国最好的方式，就是做好手头的事”“做好自己，就是最好的爱国”，回归自身、本心，乃是鸡汤写作的惯用路数，不过我们可以善意理解为，咪蒙力图用个体责任置换国家伦理，把对国家的爱，还原到自我身上——而非像一些爱国者那样，号召牺牲自己，报效国家——其用心不可谓不巧，不可谓不深（这也反映了咪蒙对于爱国的暧昧态度）。读者读到这里，也许会频频点头，唯唯称是。</p>
-<p>然而这只是偷梁换柱，无助于破解爱国的难题。做好自己是一码事，爱国是另一码事，两者纵有关系，却不可直接画等号。何况，咪蒙论爱国，根子上便错了。借用咪蒙的语法，爱国不是唱赞歌，咪蒙却如鸵鸟，一味埋头歌颂；爱国更不能撒谎，咪蒙谈中国的安全感，谈南海事件，显然在抹杀真相……</p>
-<p>显而易见，“永远爱国”不是一个咪蒙可以驾驭的论题，强行去写，只可能制造一个失败的文本（这不由令人想起韩寒的“新三篇”）。以咪蒙的聪明，不会意识不到这一点。联系她的写作方式，迎合受众、消费热点而规避政治，当可推论，正常情况之下，她不该触及这样的话题。可惜，她终究还是写了，以曝光自己的知识缺陷与人格缺陷为代价。</p>
-<p>这到底基于压力还是利益呢，我愿以最大的善意去揣测。不过，不管起因是什么，结果正摆在那里，作为黯淡的信号，足以提醒国人：哪怕你拼命规避政治，最终却无可逃于政治的笼罩；哪怕你的阅读量和广告费皆以百万计，照样得拿来为国家背书；哪怕你此前对爱国大吐口水，而今必须把口水咽回肚子里，转化为奔涌的泪水，在国家主义的号令之下，“永远爱国，永远热泪盈眶”。</p>
-<p>这不是咪蒙一个人的困境，看看近来赵薇和戴立忍所遭遇的政治围剿，更加狂热，更加严酷，更加触目惊心，以至刀爷感慨：“明星们，不问政治的时代结束了”，把“明星”换作“网红”，正可用来评价咪蒙的忽然爱国与“永远爱国”。</p>
-<p>当然，你无法叫醒一个装睡的人。更可悲的是，咪蒙们的鸡汤，包括这篇《永远爱国，永远热泪盈眶》，功能之一便是叫人装睡，甚至使人昏昏欲睡。</p>
-<p>2016年7月15日</p>
-<p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%BC%82%E9%97%BB%E8%A7%82%E6%AD%A2%E3%80%91%E5%92%AA%E8%92%99%EF%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E5%9B%BD-%E6%B0%B8%E8%BF%9C%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6/">【异闻观止】咪蒙：永远爱国 永远热泪盈眶</a></p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%BD%E6%88%88%EF%BC%9A%E5%92%AA%E8%92%99%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%B0%B8%E8%BF%9C%E7%88%B1%E5%9B%BD%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%92%AA%E8%92%99/?category=18271" rel="tag">咪蒙</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">爱国宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BE%BD%E6%88%88/?category=18271" rel="tag">羽戈</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -800,7 +878,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -810,5 +888,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>

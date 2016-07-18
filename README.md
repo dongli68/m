@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d23aogqa1gwht.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,28 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-145/" target="cdt-mirror">【河蟹档案】南海没打响，河北先跟肯德基干上了</a>
+</h2>
+<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E4%BE%9D%E7%84%B6%E9%A6%99%E6%B8%AFV">依然香港V</a>：南海没打响河北跟肯德基干上了。*//<a href="https://freeweibo.com/weibo/%40%E7%AB%B9%E7%BE%8A%E7%BE%8AS">竹羊羊S</a>：好吧，乐亭出名了。如此爱国，有必要么  <em>相关阅读｜《<a href="http://news.ifeng.com/opinion/fenghuanglun/183/1.shtml">凤凰论｜围堵肯德基，别将滋事当爱国</a>》</em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-39.jpg?resize=408%2C725" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-39.jpg?w=450 450w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-39.jpg?resize=169%2C300 169w" sizes="(max-width: 408px) 100vw, 408px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-32.jpg?resize=406%2C2227" alt="1" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-35.jpg?resize=463%2C321" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-35.jpg?w=1382 1382w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-35.jpg?resize=300%2C208 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-35.jpg?resize=768%2C533 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-35.jpg?resize=1024%2C711 1024w" sizes="(max-width: 463px) 100vw, 463px" data-recalc-dims="1"></p>
+<p></p><p><a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-145/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3998322044106568" target="/weibo/399">2016年07月17日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%AA%92%E5%BE%8B%E5%9C%88">媒律圈</a>：胡锡进：拉这个横幅的人是一帮标准SB。<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-36.jpg?resize=419%2C744" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-36.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-36.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-36.jpg?resize=577%2C1024 577w" sizes="(max-width: 419px) 100vw, 419px" data-recalc-dims="1"></p>
+<p></p><p><a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-145/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3998565313619794" target="/weibo/399">2016年07月18日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：【直隶青年继续抵制美日韩货】继河北乐亭之后，廊坊爱国青年开清一色国产车扬我国威。看到直隶青年如此爱国，共青团应该满意了吧！//*<a href="https://freeweibo.com/weibo/%40Angela%E8%82%96%E7%B4%A0-">Angela肖素-</a>：郴州也抵制肯德基！<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-34.jpg?resize=419%2C745" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-34.jpg?w=750 750w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-34.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-34.jpg?resize=576%2C1024 576w" sizes="(max-width: 419px) 100vw, 419px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/unnamed-file.jpg?resize=565%2C424" alt="`" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/unnamed-file.jpg?w=1280 1280w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/unnamed-file.jpg?resize=300%2C225 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/unnamed-file.jpg?resize=768%2C576 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/unnamed-file.jpg?resize=1024%2C768 1024w" sizes="(max-width: 565px) 100vw, 565px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-37.jpg?resize=491%2C654" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-37.jpg?w=720 720w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-37.jpg?resize=225%2C300 225w" sizes="(max-width: 491px) 100vw, 491px" data-recalc-dims="1"></p>
+<p></p><p><a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-145/"><em>点击这里查看嵌入的视频。</em></a></p><br><a href="https://freeweibo.com/weibo/3998571394946484" target="/weibo/399">2016年07月18日</a>
+<p>*<a href="https://freeweibo.com/weibo/%40%E5%9C%B0%E4%B8%BB%E9%A5%BF%E5%93%AD%E4%BA%86">地主饿哭了</a>：求辟谣：是真的吗？<br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-38.jpg?resize=526%2C423" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-38.jpg?w=725 725w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-38.jpg?resize=300%2C242 300w" sizes="(max-width: 526px) 100vw, 526px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3998268301862594" target="/weibo/399">2016年07月17日</a></p>
+<p>*<a href="https://freeweibo.com/weibo/%40%E8%BF%B9%E7%BB%9D">迹绝</a>：局内人评论南海问题<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-33.jpg?resize=416%2C2018" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-33.jpg?w=960 960w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-33.jpg?resize=62%2C300 62w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-33.jpg?resize=768%2C3726 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-33.jpg?resize=211%2C1024 211w" sizes="(max-width: 416px) 100vw, 416px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3998246054954470" target="/weibo/399">2016年07月17日</a></p>
+<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-145/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%BB%E6%9D%83/?category=18271" rel="tag">主权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%90%E4%BA%AD/?category=18271" rel="tag">乐亭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">南海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BB%8A%E5%9D%8A/?category=18271" rel="tag">廊坊</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%84%A4%E9%9D%92/?category=18271" rel="tag">愤青</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E5%8C%97%E5%94%90%E5%B1%B1/?category=18271" rel="tag">河北唐山</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%90%86%E6%80%A7%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">理性爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%AF%E5%BE%B7%E5%9F%BA/?category=18271" rel="tag">肯德基</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E9%94%A1%E8%BF%9B/?category=18271" rel="tag">胡锡进</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%B4%E5%B7%9E/?category=18271" rel="tag">郴州</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%A2%86%E5%9C%9F%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">领土争议</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%B9%B3%E8%AF%B4-%E8%83%A1%E5%90%8C%E5%8F%B0%E5%A6%B9%E5%AE%AB%E9%93%83%E8%B5%B0%E4%BA%86-%E5%8F%88%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%8A%91%E9%83%81%E7%97%87/" target="cdt-mirror">平说 | “胡同台妹”宫铃走了 又是因为抑郁症</a>
 </h2>
 <p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407WXOBAAW.jpg?resize=403%2C413" alt="6407WXOBAAW" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407WXOBAAW.jpg?w=403 403w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407WXOBAAW.jpg?resize=293%2C300 293w" sizes="(max-width: 403px) 100vw, 403px" data-recalc-dims="1"></p>
@@ -1073,29 +1092,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E7%82%8E%E9%B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%8F%E5%B0%8F%E5%92%8C%EF%BC%9A%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%85%B7%E6%9C%89%E5%90%A6%E5%AE%9A%E4%B8%80%E5%88%87%E7%9A%84%E8%83%BD%E5%8A%9B%E5%90%97%EF%BC%9F/" target="cdt-mirror">苏小和：爱国主义具有否定一切的能力吗？</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d1911151.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d1911151.jpg?resize=498%2C285" alt="水原希子就“赵薇事件”的道歉视频" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d1911151.jpg?w=498 498w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d1911151.jpg?resize=300%2C172 300w" sizes="(max-width: 498px) 100vw, 498px" data-recalc-dims="1"></a><p><span>水原希子就“赵薇事件”的道歉视频截图</span></p></div>
-<p>如果说当下的中国处在一个亢奋的爱国主义时代，大致是不会太错谬的。一来是因为有钱了，所谓财大气粗，刚刚发财的人，通常都不太会把价值原则和做事的规矩放在眼里；二来是因为得不到大家的认可，而自我感觉又太好，所以就着急上火，说话做事霸王硬上弓，结果弄得多数人不满意。<strong>而亢奋的爱国主义恰好能弥补这一切的亏空。好在那些乌合之众，总是像一群刚刚长出绒毛的生殖器，随便拨弄几下，就热血沸腾了</strong>。</p>
-<p>实话实说，我向来对爱国主义缺乏研究的兴趣，而是对爱国主义背后的方法论有兴趣。是的，我越来越意识到方法的重要性，我的意思是说，<strong>在方法和观点的选择中，我们应该重点思考方法，而把观点的陈列放在非主流的位置上。</strong>当我们提出某种观点，之前应该就这个观点背后的方法论进行必要的审视：我们依据的是哪种既定的方法体系，这样的方法体系是建构在哪些客观信息之上。如此，我们便可以在必要的理性基础上，对自己的观点进行合理的判断。</p>
-<p>在这样的思维逻辑下，生活的吊诡显露无疑！</p>
-<p>很多时候可能我们一开口说话就是错误的，比如<strong>我们总是看到有人信誓旦旦说出他们的“真理”，而这些“真理”在另外一个思维范式下，却是彻头彻尾的对常识的违背。</strong>情势继续发展下去，这些违背常识的人群并不知道自己的处境，他们的坚持显得信心满怀，而另一拨批评者似乎也在用同样的思维范式，手握着另一种“真理”，对那些背离常识的人群大肆鞭笞。</p>
-<p>这样的局面让人生出太多的遗憾。显然，<strong>关于爱国主义，中国人的争论总是一直在一个较低的层面繁衍，就象两个智商低劣的男女性交，所制造出来的孩子，其高智商的可能性微乎其微。</strong></p>
-<p>某个周末，我在清华听微观经济学课程，讲课的梁小民先生，两年前我曾跟他当面请教过他。当时，我们就中国的经济学家群体进行了分析，并直言部分经济学家的价值缺失，我们还谈到晋商的兴起与消亡的基本特征，以及当下中国企业的历史宿命。我清楚地记得他的一系列真话带给我的震撼。但今天，当我在课堂里连续听了他的两天课程，一种对方法的怀疑却从心中升起。显然，梁先生的观点很符合我的心思，他关于制度的思考，他对当下经济形势的判断，我都认同，但同时我也发现，梁先生在阐述自己观点的同时，却在用一种绝对否定的方法，对他人的观点进行了不可商榷的否定。我甚至相信梁先生在阐述他的观点时，或多或少在援引文革时代的方法，比如粗暴的判断，非此及彼的二元结构，对某种人群的歧视。虽然我知道在观点的层面上梁先生对这样的形态是极度鄙视的，但在方法论的层面，先生却有可能与上述观点出自同一个家门。</p>
-<p>我在怀疑几个层次的现象。</p>
-<p>首先，当我掌握了一种常识之后，我是否就同时拥有了简单否定其他观点的权力？其次，我所认同的常识（包括某种学术体系）是否建立在更普遍的常识之上，或者说<strong>我所依赖的常识，是否成为真正的常识，我们是不是从一开始就在复制或者繁衍一个基本的错误而我们却浑然不知？</strong>第三，我们依靠什么具体的思维流程推演出观点，这个流程有没有可以进一步细分的方法特征？</p>
-<p>一个必要的姿态由此提出：<strong>对于一个拥有人类的大脑的个体而言，</strong><strong>我们必须要学会小心翼翼地说出自己的观点</strong>。进一步说下去，也许一切观点都不重要，也许观点仅仅具有个体意义，也许这个世界根本就不需要观点，我们毕生想获取的，应该是方法，观点最多算是方法之下的副产品。我相信明白了这个道理，一些基本的问题可以得到解决。</p>
-<p>比如我20岁的时候观看一场体育比赛，理所当然的把它看成是一场国家主义的表演，其中的激扬情绪具有无限多的普遍性，以至于这样的情绪具有绝对正确的地位。我清楚地记得一位同学在众人都在电视机前被五星红旗的冉冉升起感动得热泪乱流的同时居然一个人静静坐在教室里阅读小说的场面，我理所当然批判他的不爱国行为。我想当时的真理应该是在我的手上，我所掌握的爱国主义情绪具有否定一切的功能。</p>
-<p>多年以后，我问自己，<strong>在爱国主义和一本具体的小说之间，我究竟应该怎样选择。</strong>我以为这样的问题具有巨大的价值，它提醒我，当年的观点已经毫无价值，而背后的思维方法却绵延不绝，渐渐让一个具体的人人格健全。</p>
-<p>可惜，这样对自我的审问拖延了将近20年，让一个具体的人徒然耗费了太多的时光。袁伟时说过，我们是喝狼奶长大的孩子。对这句话的具体解释似乎也能推延到我的对方法的审视之上。我们所学到的所谓观点恐怕是有问题的，而这些观点背后的方法，其荒谬程度可能更甚。因此，<strong>当我们试图说出某一个观点，我们应该小心翼翼地问问自己：我们是否具有足够宽阔的视野？而我们对自己的怀疑能力是否足够我们提出某种价值判断？</strong></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%8F%E5%B0%8F%E5%92%8C%EF%BC%9A%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%85%B7%E6%9C%89%E5%90%A6%E5%AE%9A%E4%B8%80%E5%88%87%E7%9A%84%E8%83%BD%E5%8A%9B%E5%90%97%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%96%87/?category=18271" rel="tag">赵薇</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1107,7 +1103,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1117,5 +1113,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8
                 <td></td>
                 
         
-        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

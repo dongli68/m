@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%B9%B3%E8%AF%B4-%E8%83%A1%E5%90%8C%E5%8F%B0%E5%A6%B9%E5%AE%AB%E9%93%83%E8%B5%B0%E4%BA%86-%E5%8F%88%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%8A%91%E9%83%81%E7%97%87/" target="cdt-mirror">平说 | “胡同台妹”宫铃走了 又是因为抑郁症</a>
@@ -611,7 +611,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%9C%9F%E8%80%B3%E5%85%B6%E6%94%BF%E5%8F%98/?category=18271" rel="tag">2016土耳其政变</a>, <a href="https://chinadigitaltimes.net/chinese/tag/betterread/?category=18271" rel="tag">BetterRead</a>, <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">军政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F/?category=18271" rel="tag">军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%BF%E5%8F%98/?category=18271" rel="tag">军队政变</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E8%80%B3%E5%85%B6/?category=18271" rel="tag">土耳其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%8F%98/?category=18271" rel="tag">政变</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/?category=18271" rel="tag">政治理论</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 1天前</small>
+	<small> ============== 2天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF-%E6%97%A5%E6%9C%AC%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/" target="cdt-mirror">抽风手戴老湿 | 日本普通人对中国怎么看？</a>
 </h2>
@@ -1107,7 +1107,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3otyfhltvb2vq.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1117,5 +1117,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8
                 <td></td>
                 
         
-        <td><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%B9%B3%E8%AF%B4-%E8%83%A1%E5%90%8C%E5%8F%B0%E5%A6%B9%E5%AE%AB%E9%93%83%E8%B5%B0%E4%BA%86-%E5%8F%88%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%8A%91%E9%83%81%E7%97%87/" target="cdt-mirror">平说 | “胡同台妹”宫铃走了 又是因为抑郁症</a>
@@ -360,7 +360,7 @@ if (location.href.indexOf("safe=0") == -1 && ishttp && typeof MutationObserver =
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E6%B4%BE/?category=18271" rel="tag">自由派</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 5小时前</small>
+	<small> ============== 6小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%AF%B4%E4%B8%80%E4%B8%8D%E6%98%AF%E4%BA%8C-%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/" target="cdt-mirror">说一不是二  | 杨争光：“知识分子”</a>
 </h2>
@@ -1107,7 +1107,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1117,5 +1117,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>

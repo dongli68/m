@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,148 @@
                 <td></td>
                 
         
-        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%9C%89%E7%97%85%E8%A6%81%E8%AF%BB%E4%B9%A6-%E8%BF%99%E4%BA%9B%E4%BA%BA-%E7%88%B1%E5%9B%BD%E6%88%90%E8%B4%BC/" target="cdt-mirror">有病要读书 | 这些人 爱国成贼</a>
+</h2>
+<p><p>中国是惯有那种聪明的暴徒的。</p>
+<p>平日里，他们受惯上司老板或学校家长欺压，自卑怯懦，不敢稍有反抗。</p>
+<p>一旦有了朝廷暗示或默许，或受鼓惑的从众心理，纠集成众，便手持刀枪向羸弱的一方，假以虚妄的爱国口号，私刑暴力，无所不用其极。</p>
+<p>这样的暴徒，便是低配版爱国贼源源不断的生力军。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640OBW3SG3B.jpg?resize=529%2C568" alt="640OBW3SG3B" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640OBW3SG3B.jpg?w=529 529w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640OBW3SG3B.jpg?resize=279%2C300 279w" sizes="(max-width: 529px) 100vw, 529px" data-recalc-dims="1"></p>
+<p>然而，低配版的爱国贼，平时散落社会各处，是跟我们一样的普通人，欲单独行“爱国”之实，是要受法律制裁的。</p>
+<p>便应运而生了一群高配版的爱国贼。他们利用忠君爱国，爱党爱人民的说教引导和控制着低配版的爱国贼。</p>
+<p>和平的时候，这些低配版爱国贼是他们牟利的工具；真要有了战乱，这些低配版的爱国贼便是他们的替死鬼。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640Q9CB49OF.jpg?resize=242%2C220" alt="640Q9CB49OF" data-recalc-dims="1"></p>
+<p>这样的例子，是很多的。在中国历史上，有义和团，红卫兵。在8年前，有围攻家乐福。在4年前，是钓鱼岛游行，砸了大批的日系车。不久前，是南海仲裁引发的一系列舆论。</p>
+<p>低配版的爱国贼一般据有如下特征，才会被高配版的爱国贼煽动，纠集起来的。</p>
+<p>1，无知</p>
+<p>没有基本的政治文化经济常识；情绪一上来，思维逻辑基本为零；对历史选择性了解，对现实选择性忽略，对国际关系国际形势一无所知。也闹了不少的笑话，比如，反法去砸了沃尔玛，背心写着抵制日货，脖子上却卦着佳能相机。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6401JWIJ0VT.jpg?resize=421%2C394" alt="6401JWIJ0VT" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6401JWIJ0VT.jpg?w=421 421w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6401JWIJ0VT.jpg?resize=300%2C281 300w" sizes="(max-width: 421px) 100vw, 421px" data-recalc-dims="1"></p>
+<p>2，选择性</p>
+<p>只会选择最安全最无害的形式来爱国，来获得道德快感。这就是为什么他们一定要纠集成众才会“爱国”。比如钓鱼岛事件义愤填膺，撸起袖子就要去捐躯，路上遇见小偷偷包都不敢声张。</p>
+<p>3，双重标准</p>
+<p>爱国贼们永远立场先行，情感大于理智，站队高于道理，同样的事情，自己别人干，那是两回事，国内和国外干，又是两回事，双重标准用的无比娴熟。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640DDDQZDGI.jpg?resize=500%2C333" alt="640DDDQZDGI" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640DDDQZDGI.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640DDDQZDGI.jpg?resize=300%2C200 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>4，抱团</p>
+<p>爱国贼们其实是很胆小的生物，不过一旦他们处在群体中，就能让自己的情绪和暴戾十倍百倍的散发出来，融入群体让他们产生了一种很虚幻的“强大感”，法不责众，这个时候，人，就变成了动物。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640PFB8HC2H.jpg?resize=500%2C375" alt="640PFB8HC2H" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640PFB8HC2H.jpg?w=576 576w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640PFB8HC2H.jpg?resize=300%2C225 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>5，虚伪</p>
+<p>很多爱国贼不是蠢，是坏。喜欢全世界所有的穷国，喜欢朝鲜、喜欢恐怖分子。但绝不肯移民去这些国家。痛恨西方的那些帝国主义国家，提到就一副不共戴天的样子，满口民族大义，一肚子个人算计，虚伪得一塌糊涂，不得不上这个图，一个绝妙的例子。</p>
+<p>这是凤凰卫视在911发生十周年对中国民众的随机采访截图。</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VLHGUEKX.jpg?resize=440%2C2104" alt="640VLHGUEKX" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VLHGUEKX.jpg?w=440 440w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VLHGUEKX.jpg?resize=63%2C300 63w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640VLHGUEKX.jpg?resize=214%2C1024 214w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
+<p>6，惯用宏大叙事消灭个体自由，侵犯私人权利。</p>
+<p>在爱国贼眼里，个人自由，私有产权，在所谓的“国家民族大义”面前，就是个屁！</p>
+<p>7，情绪化</p>
+<p>极易被煽动，没有独立判别能力。很容易就成为了上位者手里的枪。</p>
+<p>那么高配版的爱国贼又有什么特征呢？</p>
+<p>广义上讲，在一切公众平台上高喊爱国口号的都是高配版的爱国贼。</p>
+<p>远的说有慈禧利用义和团，孙中山的爱国公债，近一点有高喊抗日而只为保存实力的各路军阀。</p>
+<p>看看现在这帮做爱国生意的高配版爱国贼们，无论是理论水平还是姿势水平跟前辈比，还真的是相差甚远。</p>
+<p>爱国不是美德，也不是义务。爱国只是一种出于自身利益考量而做出的理性选择，是一种自发的本能。非要把爱国扯上道德的，不是无知就是无耻。而动辄把爱国挂在嘴边的，不是在做生意就是想做生意。</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2EQf7.jpg?resize=500%2C889" alt="2EQf7" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2EQf7.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2EQf7.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/2EQf7.jpg?resize=576%2C1024 576w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>比如现在的一些社交平台上的艺人，和营销号。</p>
+<p>总结他们的言论，一般具有但不限于以下特征：</p>
+<p>1.时常高喊爱国口号，生怕别人不知道自己“爱国。”</p>
+<p>2.喜欢给人扣“卖国贼”之类的帽子。</p>
+<p>3.以别人的的言论、爱好、交际、车型、立场、家庭成员、取向等作为是否爱国的判断标准。</p>
+<p>4.喜欢划阵营，占领“爱国”的道德制高点，坚守“反对我就是不爱国”的论调。</p>
+<p>成功例子则有《那年那兔那些事》的林超</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AU8NC6EI.jpg?resize=550%2C322" alt="640AU8NC6EI" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AU8NC6EI.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AU8NC6EI.jpg?resize=300%2C176 300w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640AU8NC6EI.jpg?resize=80%2C48 80w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p>相较于其他高配版爱国贼只会假大空地威胁他人打嘴炮，林超是最接地气的，他不是第一个把腐萌文化融入爱国生意的，但却是他把腐萌爱国生意发扬光大的。</p>
+<p>林超抄袭了野风之狼的故事和小白兔爱喝大骨汤的设计，创造了爱国主义题材那兔系列漫画，借此快速吸纳粉丝。后推出了那兔动画和手游，依靠第一集的高点击量，冲上B站榜首，虽然那兔手游质量惨不忍睹，光荣登上过最奇葩手游榜，但这些都挡不住粉丝的情怀和热情。</p>
+<p>失败的例子则有黄安</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6402YQUZFB0.jpg?resize=500%2C542" alt="6402YQUZFB0" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6402YQUZFB0.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6402YQUZFB0.jpg?resize=277%2C300 277w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>一个过气的艺人，也是一个精明的生意人，嗅到爱国这门生意的巨大利润，国内的低配爱国贼们又那么耿直，他们才不管你的歌唱的怎么样，你的戏演的怎么样，你的人品怎么样，只要你是爱国的。</p>
+<p>但由于理论水平太差，插入的姿势也是时机不对，才在微博喊几嗓子，就被人八出来曾经帮李登辉竞过选，帮陈水扁站过台，然后就没有然后了。</p>
+<p>一个最近的例子则是咪蒙</p>
+<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400S8YELAD.jpg?resize=500%2C375" alt="6400S8YELAD" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400S8YELAD.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6400S8YELAD.jpg?resize=300%2C225 300w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></p>
+<p>// <![CDATA[<br>
+window.__nonce_str = "MOONSAFE_NONCE_1468468812"<br>
+if (location.href.indexOf("safe=0") == -1 && window.__nonce_str && location.href.indexOf("http://")==0) {<br>
+	window.__moonsafe_csp_offset || (window.__moonsafe_csp_offset = 18);<br>
+	document.write('’);</p>
+<p>}<br>
+// ]]>// // // <![CDATA[<br>
+var MutationObserver = window.WebKitMutationObserver||window.MutationObserver||window.MozMutationObserver;<br>
+var isDangerSrc = function(src) {<br>
+    if(src) {<br>
+        var host = src.match(/http(?:s)?:\/\/([^\/]+?)(\/|$)/);<br>
+        if(host && !/qq\.com(\:8080)?$/.test(host[1]) && !/weishi\.com$/.test(host[1])) {<br>
+            return true;<br>
+        }<br>
+    }<br>
+    return false;<br>
+}<br>
+var ishttp = location.href.indexOf("http://")==0;<br>
+if (location.href.indexOf("safe=0") == -1 && ishttp && typeof MutationObserver === 'function' && location.host == 'mp.weixin.qq.com') {<br>
+    window.__observer_data = {count:0, exec_time: 0, list:[]};<br>
+    window.__observer = new MutationObserver(function(mutations) {<br>
+        // 统计触发的次数<br>
+        window.__observer_data.count++;<br>
+        var begin = new Date(), deleteNodes = [];<br>
+        mutations.forEach(function(mutation) {<br>
+            var nodes = mutation.addedNodes;<br>
+            for (var i = 0; i < nodes.length; i++) {<br>
+                var node = nodes[i];</p>
+<p>                if (node.tagName === 'SCRIPT') {<br>
+                    var scriptSrc = node.src;<br>
+                    if(isDangerSrc(scriptSrc)) {<br>
+                        window.__observer_data.list.push(scriptSrc);<br>
+                        deleteNodes.push(node);<br>
+                    }</p>
+<p>                }<br>
+            }<br>
+        });<br>
+        for(var i=0; i<deleteNodes.length; i++) {<br>
+            var node = deleteNodes[i];<br>
+            node.parentNode.removeChild(node);<br>
+        }<br>
+        window.__observer_data.exec_time += (new Date() – begin);<br>
+    });<br>
+    window.__observer.observe(document, {subtree: true, childList: true});<br>
+}<br>
+(function() {<br>
+    if (location.href.indexOf("safe=0") == -1 && Math.random()// “, “<“, “<", "&", "&", "¥", "¥"];<br>
+        if (encode) {<br>
+            replace.reverse();<br>
+        }<br>
+        for (var i=0,str=this;i< replace.length;i+= 2) {<br>
+             str=str.replace(new RegExp(replace[i],'g'),replace[i+1]);<br>
+        }<br>
+        return str;<br>
+    };</p>
+<p>    window.isInWeixinApp = function() {<br>
+        return /MicroMessenger/.test(navigator.userAgent);<br>
+    };</p>
+<p>    window.getQueryFromURL = function(url) {<br>
+        url = url || 'http://qq.com/s?a=b#rd';<br>
+        var query = url.split('?')[1].split('#')[0].split('&'),<br>
+            params = {};<br>
+        for (var i=0; i这些人，爱国成贼<!-- [if lt IE 9]>--></p>
+<p>// </p>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>本来在鸡汤领域混的风生水起的咪蒙，因太想抓热点，导致画风突变，刚刚骂了贱人，转眼自己就做了贱人。明明说过爱国不是一种单恋，而是一种兽交。却又写了《永远爱国，永远热泪盈眶》。详情可以参见公众号昨天推送的文章<a href="http://mp.weixin.qq.com/s?__biz=MzIzNzI1OTc0NA==&mid=2650097269&idx=1&sn=900e340865a828ab169543507c2638e5&scene=21#wechat_redirect" target="_blank">《咪蒙牌辣鸡汤：与其教育傻逼，还不如赚他点钱呢》</a>。</p>
+<p>真正的爱国者，不会把爱国当作自我炫耀的工具，这就好比孝顺父母的人不会出门见人就跟人炫耀自己的品德，这样是很无趣也很无理的。</p>
+<p>爱国的人，应该知道这个国家真的需要什么，缺少什么。民粹这一套东西在这个时代还被拿出来宣传是很可悲的，这些人不是坏就是蠢。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%9C%89%E7%97%85%E8%A6%81%E8%AF%BB%E4%B9%A6-%E8%BF%99%E4%BA%9B%E4%BA%BA-%E7%88%B1%E5%9B%BD%E6%88%90%E8%B4%BC/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E6%B4%BE/?category=18271" rel="tag">自由派</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%AF%B4%E4%B8%80%E4%B8%8D%E6%98%AF%E4%BA%8C-%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/" target="cdt-mirror">说一不是二  | 杨争光：“知识分子”</a>
 </h2>
 <p><h2><img src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmibE0iaMDeU7oKCGD8DgNQX0ibM9ZF5FDO9KKvtCUAKROKQqWJ4tTq5T0w/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1" data-s="300,640" data-type="jpeg" data-src="http://mmbiz.qpic.cn/mmbiz/93h1C2vZhYJBCZXnicFCvVJhxFgyMCHqmibE0iaMDeU7oKCGD8DgNQX0ibM9ZF5FDO9KKvtCUAKROKQqWJ4tTq5T0w/0?wx_fmt=jpeg" data-ratio="1.2284172661870503" data-w=""></h2>
@@ -827,46 +966,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BB%A5%E5%90%8E%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A6%81%E6%9F%A5%E4%B8%89%E4%BB%A3%EF%BC%9F/" target="cdt-mirror">【网络民议】演电影以后是不是要查三代？</a>
-</h2>
-<p><p><strong><a href="http://www.thepaper.cn/newsDetail_forward_1498908" target="_blank">澎湃新闻｜赵薇新片《没有别的爱》7月15日发布声明：撤换主演戴立忍</a></strong></p>
-<blockquote><p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/606.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/606.jpg?resize=400%2C551" alt="606" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/606.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/606.jpg?resize=218%2C300 218w" sizes="(max-width: 400px) 100vw, 400px" data-recalc-dims="1"></a></p></blockquote>
-<p><strong><a href="http://www.thepaper.cn/newsDetail_forward_1498420" target="_blank">赵薇新片因演员涉台独遭网友抵制，中国国防报：底线不可触碰</a></strong></p>
-<blockquote><p>7月6日，共青团中央官方微博发表长微博《赵薇、戴立忍及电影〈没有别的爱〉遭网友普遍谴责抵制》评论此事。文章写道，早在4月25日，赵薇在其新浪微博上发布电影《没有别的爱》主演名单之时，就有不少网友在评论中指出主演之一戴立忍曾参与“台独”活动，另一位主演水原希子曾为辱华照片点赞。网友指出：“电影主创应该有国家尊严和底线！”</p>
-<p>[…]更有网友以爱国将领吉鸿昌将军的故事为例相劝。当年吉鸿昌将军在美国时，经常被误认为日本人，每一次吉鸿昌都要认真纠正说自己是中国人。最后吉鸿昌做了个小木牌，端端正正地在上面写了五个字——“我是中国人”，每次外出时，他都会把这个木牌挂在自己的胸前。面对网友苦口婆心的劝解和铺天盖地的音视频证据，戴立忍始终未再做出回应。</p>
-<p>[…]不少网友留言表示，希望赵薇能回想起当年那个事件后发表的公开致歉信，愿全国人民发扬爱国主义精神，像吉鸿昌将军在胸前挂上“我是中国人”五个字一样，自信而坚定。</p>
-<p>[…]因为使用参与“台独”活动、有辱华劣迹的演员，广受观众喜爱的赵薇这次被网民列入了“黑名单”。谴责抵制她的，恰恰是当年看着“小燕子”长大的年轻一代。从喜爱到抵制，其实网友和观众没有变，态度变化的原因在于这一次“小燕子”挑战了民众的底线。</p></blockquote>
-<p><strong>以下评论由数字时代编辑收集自新浪微博：</strong></p>
-<p><a href="http://weibo.com/2146965345/DETsYBtZ3" target="_blank">@大咕咕咕鸡_25</a>：演电影以后是不是要查三代啊，操你妈</p>
-<p>@顏了刀：是这样的，不仅规定拍电影要这样，进入公共场合必须先唱东方红，谁唱的好唱的响先进，并检查微博赵薇事件每天有没刷够10次，不达标不让进</p>
-<p>@猩猩猩猩猩182：必须先进行政审，剧本封面印上八荣八耻，发布会要以我是中国人我爱中国作为开场白，片尾感谢国家！</p>
-<p>@风中疾走：电影市场确实应该整顿，演员中不仅有台独，还有地主和富农的后代，这样人参演的电影能形成正确的价值观吗？特别是有些剧组在开机仪式中居然搞一些拜神烧纸的封建迷信活动，难道你们不可以抄党章吗？</p>
-<p>@生活就是_：是这样的！以后电影开拍要走个仪式，整个团队必须轮流背一遍党章，吃一盘饺子！</p>
-<p>@鬓角_：是这样的，将来会在片场门口放置一个履带式扫描装置，演员手持红宝书徐徐躺卧在传送带上，进入扫描装置时会播放东方红，跟着唱完就通过，唱错了立马自爆</p>
-<p>@达斯维达奶：以后电影开机不拜神烧香了，改抄党章，背语录，抄得好背得多的可加戏</p>
-<p>@buttontime：不但查三代，而且必须全体演职人员及三代家属晒护照。开机不拜佛了，改拜毛主席</p>
-<p>@桒夶：演戏休息期间必须抄党章，不抄换演员（导演必须带头抄，不抄投资商撤资</p>
-<p>@溺水了了了了：最新消息：姓赵不管用了，可能得姓刁</p>
-<p>@凯申哥：“就你也配姓赵”    “我特么真姓赵！”</p>
-<p>@鸡汁的小哥：是这样的，拍电影的不会抄党章不抵制菲律宾，可以说不是人了。</p>
-<p>@Mudhorse：是的，儿子必须有正宗加利福尼亚血统，否则不能演爱国片，演的话撕的鬼子质量也不得大于75KG</p>
-<p>@吉川广家：接下来随机抽三十名演电影的撕护照。</p>
-<p>@谌湲褑:以後就互相刷大字報，指著鼻子你漢奸你台獨你反革命你叛徒內奸工賊，老子英雄兒好漢老子反動兒混蛋，一張嘴就革命紅歌慣口，您要還不過癮哪，武鬥聽說過嗎？人銅頭皮帶耍得溜著吶。</p>
-<p>@手机用户18923485721：试镜的时候必须有现场背党章这一项了</p>
-<p>@ndshfihfidsh：政治成分不好，演尼玛的电影，国家面前无电影</p>
-<p>@大娘开门我们是国军：赵薇已经使用共济会和FBI研发的脑控仪对咕宝进行远程操控了！可怕！</p>
-<p>@后酒廊与尼古丁：最新消息赵薇已经控制日本帝国！！！</p>
-<p>@无眼怪人：爱党剧组由共青团官方微博认定后可钦点五个亿票房，由小粉红内部消化（并买不起票）</p>
-<p>@外置大脑：回复@Master9i:赵薇为了转移注意力，用壹基金的钱，在台湾扣住了大批菲律宾的香蕉，要挟菲律宾政府透过日本当局联系到了美国五角大楼，让美国默许了她通过达赖喇嘛的关系，从新疆激进分子那接触到了中东恐怖组织，联合他们发动的一次针对法国亲中派的恐怖袭击</p>
-<p>@NixiPlan：惊了！刚刚已经确定了！赵薇的背后是九头蛇……</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BB%A5%E5%90%8E%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A6%81%E6%9F%A5%E4%B8%89%E4%BB%A3%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%BA%E5%9B%BD/?category=18271" rel="tag">强国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%A2%E5%8D%AB%E5%85%B5/?category=18271" rel="tag">红卫兵</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%96%87/?category=18271" rel="tag">赵薇</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%98%B4%E8%B0%8B%E8%AE%BA/?category=18271" rel="tag">阴谋论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -878,7 +977,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -888,5 +987,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,208 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%B9%B3%E8%AF%B4-%E8%83%A1%E5%90%8C%E5%8F%B0%E5%A6%B9%E5%AE%AB%E9%93%83%E8%B5%B0%E4%BA%86-%E5%8F%88%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%8A%91%E9%83%81%E7%97%87/" target="cdt-mirror">平说 | “胡同台妹”宫铃走了 又是因为抑郁症</a>
+</h2>
+<p><p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407WXOBAAW.jpg?resize=403%2C413" alt="6407WXOBAAW" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407WXOBAAW.jpg?w=403 403w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6407WXOBAAW.jpg?resize=293%2C300 293w" sizes="(max-width: 403px) 100vw, 403px" data-recalc-dims="1"></p>
+<p>宫铃走了，通知关心她的亲友。</p>
+<p>她是台湾人，祖籍安徽，网名胡同台妹。作为宝岛资深媒体人，她先后从事广播、报纸、电视与网络媒体，专职采访台湾时政与两岸新闻。</p>
+<p>2005年，她报道中国 “两会”，获得国务院总理的提问机会；任凤凰网台湾事务总监时，策划并执行大陆网民对话马英九，是两岸交流史上前所未有的历史性标志事件。</p>
+<p>2008年伊始，她以“胡同台妹”为网名，深入接触大陆互联网，被《南方人物周刊》称为“大陆互联网上走得最远的台湾人”。</p>
+<p>她说：“二元对立思维产生不了民主人格。为何古代有大义灭亲思想，让你忠于君王，不要忠于你的亲。要先爱朝廷、爱民族，你连你自己都不爱了，还爱民族？我都不信。”</p>
+<p>因为抑郁症，宫铃在今天凌晨离世，这是她在脸书上留下的最后文字——</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/64083TZ3TBZ.jpg?resize=450%2C1940" alt="64083TZ3TBZ" data-recalc-dims="1"></p>
+<p>我跟宫铃认识多年，她是我走近台湾、认识台湾的一扇落地窗。</p>
+<p>在这里，另选辑两篇她的博文，以作纪念——</p>
+<p><strong>思想的审判</strong></p>
+<p>人性当中，似乎都有探知对方内心的欲望，因此情人之间最喜欢私语的是：“你/妳爱不爱我？”</p>
+<p>爱，是内心的运作，看不见、抓不到，因此情人间就会以看得到的“行为”来论证对方的心，试图论证爱的存在。</p>
+<p>其实，这种以外显行为试图论证内心思想的企图，并不仅仅存在于情人之间。政府对于人民、普通人对于名人、也都存在这种现象，而且往往光论证还不够，控制欲望强烈者，甚至会希望操控对方的心，甚至为对方的心做个审判。</p>
+<p>在台湾转型过程中，爱台湾，就是这种情形。透过一个人的省籍、行为、语言乃至立场、批判或支持的政治人物，去论证一个人是否爱台湾。因此，1949年以后才到台湾的外省族群，对于台湾的爱肯定不如移居台湾十几代的本省人，到大陆做生意的台商，肯定比不上与台湾同甘共苦共存亡的商人，主张两岸交流经贸开放的政治人物，肯定比不上抗拒与大陆一切接触的政治人物。</p>
+<p>大陆朋友作为旁观者，经常跟我说，“你们台湾人这样想真可笑”，确实，我也同感可笑，而且感到可笑的台湾人也越来越多，旁观者清，这一点毋庸置疑。</p>
+<p>然而如果换我提问你，大陆本身有没有这种以外显行为试图论证人心，审判人心并定罪的情况呢？不说过去，就看目前所在的这个时代。</p>
+<p>这次，换作旁观者的我，看到的也不少。</p>
+<p>例如，批评政府、对政府有所不满的，就是不爱国，还有可能是汉奸。例如，不认可你意见的就是五毛。例如，口才不好的，其文章就是代笔。例如，对于比较知名的弱者公开寄予同情，就是作秀。</p>
+<p>一如我前面提到的爱台湾这件事，对于一个外省人而言，在台湾这片土地上生活几十年，他说他很爱台湾，质疑者说，你掏心挖肺给我看，假设可以，掏出心挖出肺了，发现，没有爱的踪影，难道换成本省人掏心挖肺就能看到爱了？</p>
+<p>同样，批判政府，是否就意味着不爱国？这是一种思想审判的标准，如果你承认世界是多元的，那么会不会有另一片土地上的某个人认为，批判政府在思想审判标准上来说，意味着爱国？</p>
+<p>我们无法以外显行为证明一个人的爱与不爱，扩大来说，我们同样无法以外显行为去论证一个人曾经有或没有过哪个念头，而根据国外心理学家的统计，一个人一天平均大约有几亿个念头闪过，你自己都无法掌握这几亿个念头，况乎外人？</p>
+<p>人的大脑是如此复杂且神秘，我们可以在梦中飞，在想象中飘忽游移，但现实世界里我们做不到。又或是我们没有想过可以举起几十公斤的重物，但在突遇急难时，我们做到了。又或是过去自己从来没有关注过某个弱势群体，无论是病人、无论是各种原因造成的贫穷与被迫害，但因为某个弱势者因于机缘而声名大噪，抓取了我的关注，我予以同情与帮助，这就意味我是想要做秀？</p>
+<p>又或是，某个人口才不好、学历不佳、人际交往隐晦，因此证明他的脑袋中不曾有过这样或那样的文思？总的来说，观察我们自己，行为与思想中间是否存有等号？</p>
+<p>当然，以台湾的情况来说，仍有许多人怀疑着另一群人不爱台湾，这是台湾社会本身的悲哀，但至少无法以此定罪。如果你觉得这是台湾社会的愚昧，那么当我反过来对你有这些那些的提问时，你又如何看待自己的愚昧呢？</p>
+<p>如同一个男人，最痛恨自己女友动辄怀疑自己的感情，自己的心，认为这是女人的无知愚昧，那么这些男人有不少（当然不是全部），时不时在公共舆论中，或左或右的挞伐，或真或伪的揣度，这又是为了什么？</p>
+<p>如果，你觉得自己的思想与政治立场应该是隐私，无需要表态表忠，又为什么你总是要对他人的观点立场时刻保持着审判的心？</p>
+<p>人类世界的复杂，皆由此而生。</p>
+<p><strong>台湾人关心大陆事务的权利</strong></p>
+<p>台湾艺人伊能静在微博上力挺南周新年献词遭删改引发的抗议事件，导致伊能静的微博遭到禁言，甚至被有关单位“面谈”。</p>
+<p>在这个事件中有两个较为显著的争论点，第一，身为台湾人她是否有权对大陆内部事务发表看法？第二，她的身份是否适合对这类事件表达意见？</p>
+<p>坦白说，如果真正追崇言论自由，以上两个争论点都是伪命题，而笔者身为台湾人长期关注大陆事务，也经常被网友斥责“妳这个台湾人凭什么管我们的事？”因此，这些问题似乎在目前的时空环境下，仍有讨论必要。</p>
+<p>在台湾，对于选举罢免等公民权利的法律规定，只要身为公民，并在某地居住达六个月以上，就有权利参与该地选举。假设这个概念可以延伸，那么伊能静在大陆居住早已超过六个月，虽然在大陆并没有明显的公民法律概念，但我相信，伊能静在大陆缴税、置产、工作，这些都促使她会自然而然地关心这个社会、这片土地。</p>
+<p>况且，只要是持台胞证出入大陆，都必须经过“中国公民”的海关关口，也就是说，在公权力的认定上，台胞被大陆方面认定为中国公民，那么，台湾身份显然不是伊能静在这一事件上发表看法与立场的障碍。</p>
+<p>再者，国台办在例行记者会上对于伊能静事件的说法是，欢迎台湾同胞到大陆发展，但必须遵守大陆的法令法规。众所皆知，事件最后，大陆方面并没有作出非常明确的裁决，抗议者迄今没有受到任何法律的裁处，宣传部门相关人员也没有因此负责下台，而根据广东省的调停结果来看，此事似乎停留在编辑流程的纠纷，因此国台办以台湾同胞应遵守大陆法令法规的解释，明显与事实结果关系不大。</p>
+<p>那么身为艺人，伊能静是不是不该干涉像南周这样的纷争中呢？甚至有不少人以其家世背景或是过往私事质疑她有无讨论此事的资格。</p>
+<p>首先，这一事件的纷争关键在于言论自由，很明显，伊能静认为人们应该有言论自由，而根据前面所提，持台胞证出入大陆的台湾人都必须经过“中国公民”的海关通道，那么只要是公民对于这个社会里的公共事务发表看法，是合情合理的，只要她没有在法律上被褫夺公权，什么职业、什么过往都不应该剥夺她的发言权利。</p>
+<p>其实，笔者认为，此次伊能静事件最大的意义在于，过去在大陆发展的台湾人对于大陆事务大多采取回避、淡漠的态度，反观大陆人对于台湾政坛张口闭口关注、批评，形成极大落差。从胡锦涛总书记以来，两岸关系有了极为重大的进展，对于台湾，大陆人越发的关切与熟悉，但在台湾，台湾人对于大陆事务除了经济，其他一切都显得非常冷漠，而这一点也是大陆对台部门最为伤脑筋的工作范畴。</p>
+<p>要知道，就人性而言，人们只会关注自己的事，也就是说，当台湾人认同了大陆社会也是“自己的”，自然会开始关注大陆社会的种种一切。</p>
+<p>无论诸如南周这类事件的关注否在大陆有关部门的期待之内，但这是两岸交流的必然结果，两岸官民应该都以一种更健康的心态来面对，而不是将之视为洪水猛兽，以一句台湾人应该遵守大陆的法令法规为由，而将台湾人的关心拒之于千里之外。</p>
+<p>宫铃所著《从台北到北京：胡同台妹眼中的大陆》已出版多年，可通过此书了解她对两岸事务的观察</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%B9%B3%E8%AF%B4-%E8%83%A1%E5%90%8C%E5%8F%B0%E5%A6%B9%E5%AE%AB%E9%93%83%E8%B5%B0%E4%BA%86-%E5%8F%88%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%8A%91%E9%83%81%E7%97%87/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">两岸关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91/?category=18271" rel="tag">中国公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E4%BA%8B%E5%8A%A1/?category=18271" rel="tag">公共事务</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E5%85%B1%E8%88%86%E8%AE%BA/?category=18271" rel="tag">公共舆论</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%9D%83%E5%8A%9B/?category=18271" rel="tag">公权力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91%E6%9D%83%E5%88%A9/?category=18271" rel="tag">公民权利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E4%BA%BA/?category=18271" rel="tag">台湾人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E9%99%86%E4%BA%BA/?category=18271" rel="tag">大陆人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AA%92%E4%BD%93/?category=18271" rel="tag">网络媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 26分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%96%87%E4%B8%89%E5%A8%83-%E5%B7%A6%E7%BF%BC%E4%BA%BA%E7%89%A9%E5%BF%97%E4%B9%8B%E8%87%AA%E8%B4%A1%E4%B8%89%E6%9D%B0%E4%B9%8B%E5%B0%8F%E5%B9%B3%E8%B5%9E/" target="cdt-mirror">文三娃 | 左翼人物志之自贡三杰之小平赞</a>
+</h2>
+<p><p><strong>网络上甘岭前侯任参谋长 敬奉</strong></p>
+<p>长鱼侯者，蜀中才子周小平，本朝钦点文状元也。</p>
+<p>2015年初斩获国际殊荣，当选美国《外交政策》杂志2014年度中美关系缔造者50强之一。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578afee368ccc.png?resize=450%2C799" alt="578afee368ccc" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578afee368ccc.png?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578afee368ccc.png?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578afee368ccc.png?resize=577%2C1024 577w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>《外交》杂志给予长鱼侯极高评价</p></div>
+<p>FP外交杂志是美帝国主义控制下的著名反动媒体，但根本无法抵御这股来自东方的魅力。</p>
+<p>周侯为祖国人民赢得的外交荣誉，堪比当年的 Premier Chow.</p>
+<p>获奖词热情洋溢地写到：Zhou Xiaoping has never visited the United States, but that hasn’t stopped him from documenting its many internal problems, both real and imagined, for a Chinese audience.</p>
+<p>大意是：尽管长鱼侯从来没去过美国，但这毫不妨碍他对美国各种社会问题的观察、记录和评论，有问题要批，没问题？ 一定会创造问题继续批。</p>
+<p>我想FP的这句评语应该能挂在侯爷的中堂之上。</p>
+<p><strong>Strong on emotion, often short on facts</strong></p>
+<p>虽然没有插队的经验，但长鱼侯去西藏参军，花千芳回老家养鸡，还都是十来岁的中学生。村头、部队、养鸡场，能看的书不多，但“缺什么就爱补什么”，这也是一带一花最终被总舵主任命为文艺界分舵主的历史原因。</p>
+<p>正如歌中唱到：撒魂踢注diang 气昏扣趴biang 爱平加A赢。</p>
+<p>加油，小平。</p>
+<p>这几年，长鱼侯忙碌的身影，几乎投射到了神州大地的每一个角落。</p>
+<p>民间有赋：</p>
+<p>上志复兴，欲揽天下珍奇。百官用命，于东海觅得玉面长鱼，惊言不负时代，自豢自养，咸淡皆宜。又闻辽东捷报，野生奇葩，竟千日芳菲不谢。祥瑞晋京，万人空巷，争睹国器。自此中南殿，左花右鱼，帝祥后慈。</p>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578affeb30b2d.jpg?resize=550%2C365" alt="周小平为河南各界群众做报告" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578affeb30b2d.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578affeb30b2d.jpg?resize=300%2C199 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>周小平为河南各界群众做报告</p></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b00409df98.jpg?resize=450%2C800" alt="周小平亲切慰问陕西省宣传战线的工作者" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b00409df98.jpg?w=540 540w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b00409df98.jpg?resize=169%2C300 169w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>周小平亲切慰问陕西省宣传战线的工作者</p></div>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b006cdacd3.jpg?resize=450%2C522" alt="中国青年网呼吁给周小平更大担当" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b006cdacd3.jpg?w=1080 1080w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b006cdacd3.jpg?resize=259%2C300 259w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b006cdacd3.jpg?resize=768%2C891 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b006cdacd3.jpg?resize=883%2C1024 883w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>中国青年网呼吁给周小平更大担当</p></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b00829c976.png?resize=450%2C799" alt="首都政界力挺国家“一带一花”（Belt-flower Initiative) 文化战略" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b00829c976.png?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b00829c976.png?resize=169%2C300 169w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b00829c976.png?resize=577%2C1024 577w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>首都政界力挺国家“一带一花”（Belt-flower Initiative) 文化战略</p></div>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0130cd8c8.png?resize=450%2C799" alt="首都官方权威发布周小平关于国际形势的重要讲话" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0130cd8c8.png?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0130cd8c8.png?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0130cd8c8.png?resize=577%2C1024 577w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>首都官方权威发布周小平关于国际形势的重要讲话</p></div>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b017a4a3cf.jpg?resize=550%2C396" alt="周小平通过新华网发表重要讲话" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b017a4a3cf.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b017a4a3cf.jpg?resize=300%2C216 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>周小平通过新华网发表重要讲话</p></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b01bcaf15d.jpg?resize=550%2C366" alt="578b01bcaf15d" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b01bcaf15d.jpg?w=800 800w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b01bcaf15d.jpg?resize=300%2C200 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b01bcaf15d.jpg?resize=768%2C512 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>周小平在中国石油大学（华东）给大学生做《在互联网时代如何做独立思考》讲座。</p></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b02258f708.jpg?resize=450%2C409" alt="厦门大学热切期盼周小平先生为该校学生灌输正能量" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b02258f708.jpg?w=600 600w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b02258f708.jpg?resize=300%2C273 300w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>厦门大学热切期盼周小平先生为该校学生灌输正能量</p></div>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b02e5e76dc.jpg?resize=450%2C800" alt="中国矿业大学（徐州校区）学生会精心准备周老师的大驾光临" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b02e5e76dc.jpg?w=540 540w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b02e5e76dc.jpg?resize=169%2C300 169w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>中国矿业大学（徐州校区）学生会精心准备周老师的大驾光临</p></div>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b03a1b3db3.png?resize=450%2C799" alt="周小平远赴云南边陲指导网络宣传工作" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b03a1b3db3.png?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b03a1b3db3.png?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b03a1b3db3.png?resize=577%2C1024 577w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>周小平远赴云南边陲指导网络宣传工作</p></div>
+<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b03b342dc1.jpg?resize=550%2C309" alt="昆明群众自发迎接中央领导周小平同志" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b03b342dc1.jpg?w=599 599w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b03b342dc1.jpg?resize=300%2C168 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>昆明群众自发迎接中央领导周小平同志</p></div>
+<p>回顾至此，我不得不插播两段关于长鱼的知识。</p>
+<p>据史书记载：</p>
+<p>卿本布衣，农耕于蜀乡。偶赴东洋，于舟山获秘笈，解千年驭海之惑。持玉带面圣，大大悦，竟于百官前，获封长鱼侯。</p>
+<p>在2015年民间举办的一次“国鱼”评选活动中，这种包括内地网友都喜闻乐见的海洋生物，获得了极高的荣誉（该评选活动或因没在有关部门备案，最后被叫停了）。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0472bbc97.png?resize=450%2C799" alt="578b0472bbc97" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0472bbc97.png?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0472bbc97.png?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0472bbc97.png?resize=577%2C1024 577w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>继续回顾我老乡奔忙的闪亮人生吧。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b07e45cc10.png?resize=450%2C799" alt="578b07e45cc10" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b07e45cc10.png?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b07e45cc10.png?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b07e45cc10.png?resize=577%2C1024 577w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"><p>周小平同志奔赴大凉山地区进行思想扶贫</p></div>
+<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0819d806b.jpg?resize=550%2C367" alt="周小平视察老家自贡的盐业历史博物馆" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0819d806b.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/578b0819d806b.jpg?resize=300%2C200 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>周小平视察老家自贡的盐业历史博物馆</p></div>
+<p>自贡“80后”网络作家周小平回故乡 – 自贡新闻 – 自贡网 – 自贡新闻网</p>
+<p>http://www.zgm.cn/html/a/2015/0215/91461.html</p>
+<p>周小平被誉为自贡三杰之首。（注：周小平、郭敬明和胡淑芬）</p>
+<p>来自四川的网友 @wentommy 感慨：中国梦形象代言人的海选，终于锁定了周小平。据悉他的竞选口号征服了井盐界和海盐界：我是自贡人，也是舟山人，我为自己带盐。</p>
+<p>巴蜀大地，从古至今，一直杰人辈出。</p>
+<p>在解决港台问题上，广安小平提出过“一国两制”的设想，50年不变；自贡小平则与时俱进，提出了“一国一制”的指导思想，全面解放香港，应只争朝夕。</p>
+<p>周小平同志在2016年初D吧出征FB的伟大青年运动中，向台湾伪当局给出了为期三年的投诚通知。</p>
+<div><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/14687301406038.jpg?resize=525%2C249" alt="周小平同志指出：中央巡视组将进驻台湾省。-2019年3月20日" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/14687301406038.jpg?w=525 525w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/14687301406038.jpg?resize=300%2C142 300w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"><p>周小平同志指出：中央巡视组将进驻台湾省。-2019年3月20日</p></div>
+<p>台海观察家普遍认为，除了是首届华人港督热门人选外，周小平很可能会兼任首届台督。</p>
+<p>2015年年底，团派重要组织——民族复兴青年文化促进会（复青会）领导出访南朝鲜，里面有复青会会长、多位全国青联常委等，周小平仅是复青会执行会长、全国青联委员，在该团成员的级别序列中，前三都排不进。</p>
+<p>但中青网以《周小平带团访问韩国国会》为标题做了大规模报道，看了该报道的篇幅、措辞、以及照片的选用，作为一名老资格的前新闻工作者，我可以负责任地告诉大家，这是接近了东亚第一大国最高领导人的报道规格。</p>
+<p>周小平带团访问韩国国会 李锡云议长接见(图)_新闻频道_中国青年网</p>
+<p>http://news.youth.cn/gj/201511/t20151130_7363892.htm</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/14687302512907.jpg?resize=450%2C799" alt="14687302512907" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/14687302512907.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/14687302512907.jpg?resize=169%2C300 169w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/14687302512907.jpg?resize=577%2C1024 577w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>试问：那些认为周小平同志需要十年才能入常的，不觉得你们自己太保守了么？</p>
+<p><img src="https://i0.wp.com/images.blogchina.com/artpic_upload_v5/578b12c37b944.jpg" alt="" data-recalc-dims="1"></p>
+<hr><p><small>© 五月三十五日 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%96%87%E4%B8%89%E5%A8%83-%E5%B7%A6%E7%BF%BC%E4%BA%BA%E7%89%A9%E5%BF%97%E4%B9%8B%E8%87%AA%E8%B4%A1%E4%B8%89%E6%9D%B0%E4%B9%8B%E5%B0%8F%E5%B9%B3%E8%B5%9E/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4/?category=18271" rel="tag">中国青年</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%A4%AE%E5%B7%A1%E8%A7%86%E7%BB%84/?category=18271" rel="tag">中央巡视组</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E5%B0%8F%E5%B9%B3/?category=18271" rel="tag">周小平</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AD%A3%E8%83%BD%E9%87%8F/?category=18271" rel="tag">正能量</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E5%AE%A3%E4%BC%A0/?category=18271" rel="tag">网络宣传</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E8%B4%A1%E4%BA%BA/?category=18271" rel="tag">自贡人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8A%B1%E5%8D%83%E8%8A%B3/?category=18271" rel="tag">花千芳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%83%AD%E6%95%AC%E6%98%8E/?category=18271" rel="tag">郭敬明</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%8C%E5%AD%A3%E5%BA%A6gdp%E6%95%B0%E6%8D%AE%E8%83%8C%E5%90%8E%E7%9A%84%E5%A4%9A%E9%87%8D%E4%BF%A1%E6%81%AF/" target="cdt-mirror">纽约时报 | 中国二季度GDP数据背后的多重信息</a>
+</h2>
+<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/00chinagdp01-articleLarge.jpg?resize=550%2C367" alt="北京一辆公交车上的乘客。中国正在向民众保证，经济正在朝正确的方向发展。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/00chinagdp01-articleLarge.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/00chinagdp01-articleLarge.jpg?resize=300%2C200 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><p>北京一辆公交车上的乘客。中国正在向民众保证，经济正在朝正确的方向发展。</p></div>
+<p>上周五，中国通报了二季度的经济增长数据。由于中国是全球经济增长的主要推动力，它们是全世界最受关注的数据之一。但众所周知，中国公布的数据比较可疑。以下是读者应该从周五公布的数据背后看到的信息。</p>
+<p><strong>中国昭告世界：一切正常</strong></p>
+<p>中国二季度国内生产总值同比增长6.7%。</p>
+<p>周五公布的数据显示没必要恐慌。中国的经济在放缓，但速度合理且平稳，与北京的预期完全相符。这个数字与一季度持平，仍是令其他国家忌妒的增长速度。</p>
+<p>当然，中国大事宣扬的GDP数据是最不值得信任的经济指标之一。有名的事例是，现任总理李克强曾说GDP是“人造”数据。一些经济专家称，真实的增长速度远低于公布的数字。</p>
+<p>稍微拉近距离观察，中国的放缓显然是不平衡的。一些领域遭受重创，如采矿和制造业。另一些行业，如电子商务和非传统金融，相对而言是亮点，而一些大城市的房地产市场则充满泡沫。</p>
+<p>中国房地产市场复苏——暂时是这样</p>
+<p>中国上半年的房地产市场投资同比增加6.1%，而1至5月份的增速为7%。</p>
+<p>6月的小幅回落是一个警告，表明在中国房地产市场重现的势头非常不均衡。</p>
+<p>房地产市场的复苏无疑正在帮助支撑全国的增长。中国大致四分之一的经济活动和房地产有关。去年，房地产市场的衰退打击了中国的增长数据，因为投资者担心未售房屋供大于求，特别是较小的城市，于是将资金投入股市。</p>
+<p>这些担忧似乎已一扫而空。随着建筑商变得更加乐观，开发商拿地热情恢复。这也有利于地方政府，它们的开支有相当一部分来自卖地的收入。新住宅销量和开发商的开工项目数量也强势反弹。</p>
+<p>问题是，房地产市场复苏的可持续性怎么样。深圳和上海等富裕城市的房价上涨速度，让人想起了另一个时代的网络公司股票。如果房地产市场成为中国的另一个泡沫，那么它可能无助于抵消中国众多工厂的急剧放缓。</p>
+<p><strong>工厂依然举步维艰</strong></p>
+<p>中国6月的工业生产同比增长6.2%，比5月份加快0.2个百分点。</p>
+<p>中国的很多传统重工业领域依然举步维艰，这正在拖累整体经济。尽管6月的数据出现了小幅上升，但工业生产数据表明，中国持续了六年的制造业减速仍看不到触底的迹象。</p>
+<p>中国的僵尸工厂——很多属于国有或获得了国家的支持——依然在大量生产无人购买的商品。海外需求疲软是另一个问题，今年出口依然在收缩。</p>
+<p>可能会有苦尽甘来的时候。如果能重获定价权，工厂可能会得到极大的提振。工厂定价数据表明，在苦熬了四年后，通货紧缩似乎终于开始减缓。</p>
+<p>但更大的希望是，消费需求能取代传统工业，成为中国经济的主要推动力。</p>
+<p><strong>消费者正在休息吗？</strong></p>
+<p>6月，中国零售额同比增加10.6%。</p>
+<p>乍一看，中国消费者的确表现得像是购买力在增加，因为6月的数据同5月的相比有所改善。但一旦排除了节假日等季节性扭曲因素，5月的数据是自2003年急性非典型性肺炎(SARS)爆发以来最低的。</p>
+<p>看好中国的人往往会把电子商务扩张迅速作为中国最亮的增长点之一。周五公布的数据显示，上半年在线销售额增加27%。但这依然远低于一年前的增长速度。看空中国的人则认为，在线购物平台只是在蚕食传统百货商店的销售额。</p>
+<p><strong>政府开支救场</strong></p>
+<p>上半年，政府固定资产投资增加23.5%，民间投资增速降至2.8%。</p>
+<p>曾是中国最大的投资增长引擎的民间投资急剧下滑。这本来会严重影响就业、工资和整体经济的稳定性。但政府大举介入，增加政府投资。</p>
+<p>然而，多个迹象表明，因为新建的基础设施工程和其他项目不能产生过去几年那样的经济回报，北京正在收紧开支。此外，这种投资增长是受了一股愈演愈烈的信贷狂潮的推动。新增银行贷款今年急速增加，让人愈发担心中国在未来会因此受到痛苦的惩罚。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E4%BA%8C%E5%AD%A3%E5%BA%A6gdp%E6%95%B0%E6%8D%AE%E8%83%8C%E5%90%8E%E7%9A%84%E5%A4%9A%E9%87%8D%E4%BF%A1%E6%81%AF/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/gdp/?category=18271" rel="tag">GDP</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E/?category=18271" rel="tag">中国经济</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">地方政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD/?category=18271" rel="tag">基础设施</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E4%BB%B7/?category=18271" rel="tag">房价</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%BF%E5%9C%B0%E4%BA%A7/?category=18271" rel="tag">房地产</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF/?category=18271" rel="tag">经济增长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%8F%E6%B5%8E%E6%8C%87%E6%A0%87/?category=18271" rel="tag">经济指标</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%87%91%E8%9E%8D/?category=18271" rel="tag">金融</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C/?category=18271" rel="tag">银行</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%93%B6%E8%A1%8C%E8%B4%B7%E6%AC%BE/?category=18271" rel="tag">银行贷款</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-17/" target="cdt-mirror">奇闻录 | 周末段子荟萃 7-17</a>
+</h2>
+<p><p>@damyata：会被道歉大赛揶揄冒犯，是判断精赵的最佳标准。</p>
+<p>@LEMONed：纽时前同事：一个电影选演员把傻子得罪了，资方发个声明把不傻的也恶心到了。</p>
+<p>@andyyeung12：一个三轮车夫说：天下虽大，俺无立锥之地；官府虽富，俺愁吃愁穿；国家虽强，俺弓背驼腰——社稷安危，与俺何干？！</p>
+<p>@mozhixu：赵薇们为什么要回应小粉红，乃至道歉呢？其实是怕后面的党国，为继续赚钱，就要交话语捐税。小粉红并没有那么可恨，赵薇们也没有那么值得同情，所有这一切，都是权力出于某种目的操弄的结果，小粉红作为网络冲锋队，配合以各种官司，还是为了营造一边倒的网络氛围。</p>
+<p>@mozhixu：但网络冲锋队也不是没有弱点的，由被洗脑小粉红构成，头脑简单，不具备完整话语能力，此外容易接受各种奇谈怪论，其结果就是类似网络半兽人，言语乖张怪异，论述荒诞可笑，如此次事件中的共济会、资本控制、万惠事件等，小粉红信以为真，旁观者笑掉大牙，这在一定程度上将正剧变成了笑场闹剧。</p>
+<p>@mozhixu：真正改变态势是官方介入，一是对于自由化普世话语的压制，清网行动以来，自由化声音逐渐消声，一是对五毛大军的有组织运用，这分两部分，一是体制内五毛，哈佛研究证明，这是主力军，一是自干五，小粉红等即是，如今起作用越来越大，最后，则是权力对五毛的撑腰，包括打官司，禁止演出等。</p>
+<p>@张雪忠：迫使赵薇屈服的，不是小粉红，只有权力，才可能对投资者及导演产生切实的压力。就像几天前，平时不太关心时政的明星们，齐声表态＂中国一点都不能少＂，这也是因为如果不听话，轻则禁演封杀，重则＂嫖娼吸毒＂。小粉红们的叫嚣只是幻象，没权力支持，小粉红们就什么都不是。</p>
+<p>@Elaoshi：看了看说疯狂化爱国的小粉红是底层，没吃过没见过的，但我认识的很多爱国粉红不惜一战的都是顶尖海外高校出来的….什么lse，ucl，nyu，ucla………而且多数学国际关系或国际政治的，吓死个人。</p>
+<p>@KitKitcheuk：國內友人感嘆說：「一個愚蠢的政府比貪腐的政府更恐怖。因貪官們只是要錢，而愚蠢的政府則是要命的…」。沒得選擇當然屬無奈。而依我看比「愚蠢」更恐怖的是「邪惡」，因那是有計劃的實施整體性、系統性的「欺騙」，制造几代的「愚民」，那是既要你錢，也隨時要你命的。</p>
+<p>@redfireage：兲朝人十堵墙：第一堵墙：对民主的无知。第二堵墙：对真理的愚昧。第三堵墙：对信仰的疯癫。第四堵墙：对物欲的贪婪。第五堵墙：对他人的残暴。第六堵墙：对情感的虚伪。第七堵墙：对世界的冷漠。第八堵墙：对公德的自私。第九堵墙：对邪恶的懦弱。第十堵墙：对悲剧的沉默。</p>
+<p>@av69bb：【網絡說某地】醫院成了屠宰場；學校成了洗腦班；紅會成了吸血鬼；酒店成了辦公處；二奶成了必須品；小三成了替代品；道德成了奢侈品；人民成了提款機；記者成了睜眼瞎；新聞成了編故事；法律成了玩遊戲；軍隊成了錦衣衛；官員成了奴隸主；國家成了大監獄……</p>
+<p>@redfireage：昨天一个朋友说，要搞个众筹，弄几百万，去非洲找个鸟不拉屎的地方买一百平方公里土地，成立一个国家，只做两件事：支持一个中国，支持南海出兵，支持钓鱼岛收回……然后伸手要钱，一年就发了。我建议他把离岸公司注册的业务搞起来。他说：你不用出钱，去给我当财政部长。</p>
+<p>@szstupidcool： CCAV真他妈搞笑，这些天一直反复论证南海是中国的，无数的世界名人纷纷表态支持中国，每天至少花十几二十小时论证，解说仲裁的违法，老子就只问一句：你他妈这么有理有据，咋就不敢去法庭上说？</p>
+<p>@廖信忠：土豪朋友家几年前弄了一菲佣来伺候，职业素养极好，一直雇到现在。昨天黄昏菲佣去菜场，老板大义凛然指着她骂“明天开始不卖你”她问该怎办，朋友想了想教她一计，今天她还是去了菜场，不等老板开口，她抢先一步“南海诸岛自古就是中国领土，老板我要三颗西红柿”结果老板多送她两颗和一堆葱。</p>
+<p>@成都江陵：南海危机，喊打的有4类人：1.疯狂鹰派：他们不知道中国连合格的飞机发动机都生产不出来，也不知道官员家属多在美国，他们类似好战的恐怖份子。2.党内异己：一旦开战，老大能否控制国内局势？要知道，想趁机夺权夺命者大有人在。3.底层脑残：只看央视新闻，连自家房子都保不住也要保卫钓鱼岛的人，历来充当炮灰和工具。4.民主人士：希望一打，就打出一个新中国，马列子孙从此不再出现在中国的政治舞台，永远扫进历史的垃圾堆。但是请放心，政府主和，根本不会开打，金三胖那么傻，也只是嘴上说说狠话。他们心里明白，维持统治地位，才是根本大计。</p>
+<p>@hnjhj：从周子瑜到水原希子，以前伤害情感的还是一些国际政要、大腕、主播，现在明显往草根化发展。同时随着道歉门槛越来越低，你国人的G点也越来越敏感，早晚吃口寿司都要道歉了。奴婢们钻研的往往不是如何翻身当家作主，而是如何把正常人搞成跟自己一样卑贱，以获得变态的满足感。</p>
+<p>@WoodenHarp：小粉红是党一把屎一把尿喂大的狗。党本身未必在乎赵薇，但是党的狗去咬她，不管什么目的，有没有道理，如果赵薇被咬了竟敢不服服帖帖反而要“搞对抗”，那“性质就变了”。这叫“打态度”，用毛的话讲叫“拉出来斗一斗也好”，所以赵薇必须道歉，一遍遍写检讨，而戴立忍说理属于“猖狂进攻”，最恶劣。</p>
+<p>@vicentory8：微博上水原希子发道歉视频了，王思聪投资的吐槽大会放一天就被禁了……原来还有比政治正确更可怕的事，叫“共产党式正确”。</p>
+<p>@andyyeung12：天朝特色。上联：一个邓公，两套规则，保三代富贵，征四海民饷，吃五谷不问民间疾苦，施淫威六合之间，七魔聚会，八方撒钱，独不怜九州之苍生，十分无耻。下联：十方人祸，九次表彰，创八耻笑谈，纵七情色欲，任六月民间含冤飘雪，张五指强拆逼捐，四处诡辩，三界共愤，唯不见良知二字，一等下流。转</p>
+<p>@江南独钓客之圣手书生：不要关注南海了，那里离你太远，就是属于中国和你也没关系，因为你是一个居民，不姓赵。你还是关注一下猪肉和鸡蛋价格吧，这二者和你有点近亲。</p>
+<p>@秀才江湖：一座塔，第二层烂了，第三层烂了，第四层烂了，直到最后一层都烂了，难道最高一层会没烂？一个国，村长是贪官，乡长是贪官，县长是贪官，省长是贪官，部长是贪官，难道国长就不贪？</p>
+<p>@cnfreewang：胡适：一个肮脏的国家，如果人人讲规则而不是谈道德，最终会变成一个有人味儿的正常国家，道德自然会逐渐回归；一个干净的国家，如果人人都不讲规则却大谈道德，谈高尚，天天没事儿就谈道德规范，人人大公无私，最终这个国家会堕落成为一个伪君子遍布的肮脏国家。</p>
+<p>@trotrotro：讲一宗刚刚发生的交易，沈阳某公务员，六年前市中心花60万买房，今年升官调北京，费九牛二虎之力把房子卖了，成交价50万。还都是人民币。</p>
+<p>@BakaTakasugi：总觉得我们这代人的不作为已经把 00 后和 10 后的未来输得干干净净，看不到一点希望了。</p>
+<p>@figarotwo：對不起，我入境深圳跟外國人走同一條通道 #第一屆向中國道歉大賽</p>
+<p>@GYTV：我就是这届人民，很不行，对不起。 #第一屆向中國道歉大賽</p>
+<p>@Peilun0912：我很高興自己是臺灣人，而不是中國人，真對不起。 #第一屆向中國道歉大賽</p>
+<p>@MyDF：微博被销号，这一次新浪没有直接删除帖子，也没有因为“不实信息”而使用信用扣分规则，直接封帐号，给出的理由是“经核实由于此微博出现发布有害信息等违规行为”。我原以为信息只有真实或不真实的区别，“有害信息”这个指控让我得到了升华，在此向新浪道歉，伤害到你们了。 #第一屆向中國道歉大賽</p>
+<p>@MyDF：中国共产党是中国人民的选择，中国人民素质低，我知道错了。 #第一屆向中國道歉大賽</p>
+<p>@jimmy_su：明明是一個中國，賣東西到祖國還要付國際運費報關被抽關稅，肯定是一小撮台獨份子害祖國不要我們了。 #第一屆向中國道歉大賽</p>
+<p>@jsincity：今年中國南方潰堤死災了多少中國人都沒有關係，但只要有一個黃皮膚的不自稱中國人就不可以！</p>
+<p>@shangguanluan：但凡“是中国人就转”的文章，我都没有转；但凡“是中国人就抵制苹果/芒果/香蕉”的，我都不抵制（干嘛都跟水果过不去，爱国成本真低）……可是，我都仍然是中国人，感觉被骗了。而且，因此，很遗憾没法参加第一届向中国道歉大赛。</p>
+<p>@hnjhj：又发现恐怖份子的一个共同点，好像都喜欢开大车子压人，真不知道哪儿学来的。</p>
+<p>@norzth：朋友圈在抵制肯德基麦当劳星巴克，时间为两天。我想说，你要抵制就一直抵制下去，整两天你跟谁俩呢。</p>
+<p>@luanma_：“我是中国共产党，我始终和你在一起！”被这个公益广告吓哭。</p>
+<p>@dearemon：看到评论「校服是我和她穿过唯一的情侣装，毕业照是我和她唯一的合影。」然后有人回复「你咋不说地球是你和她唯一的家呢？」转哈哈哈</p>
+<p>@lostinabc：自从教会了我爸用百度搜索，我翻看他最近的搜索记录：怎么长生不老、为什么肚子总会饿、一天能只睡3个小时吗、年纪大了怎么还长痘痘、女式钱包和手提包的区别、台湾现在防空导弹数量、实木地板是否可以防刮，最后一个是怎么让儿子快速结婚…</p>
+<p>@licheean：我现在心好疼，我同学那么叛逆的姑娘，才几年就被驯化成贤妻良母了？！她现在还觉得是因为精力都在女儿身上忽略了丈夫感受才导致丈夫出轨的。回顾这一切，我想起几年前我约我同学出来吃串，当时傍晚七点，我同学说她很少这么晚上街，老公每天都在讲现在北京治安太乱，七点之后不要出门。我操他大爷！</p>
+<p>@Yikouniao：妈：这里应该最后放盐。我：一开始就放了不好吗？妈：不行，盐在高温下会变成亚硝酸盐，会致癌的。我：……你知道什么是亚硝酸盐吗……妈：反正就是要这样的，傻孩子你不懂。</p>
+<p>@hengdm：有人觉得Pokémon Go火爆也意味某种悲哀吗？外面本来那么有趣多样，却要抓虚拟怪物。我喜欢街边精致的小店，有趣的招牌，盖满地面树荫，打盹的猫狗和充满生活气息的普通画面，还有发现它们的变化。互联网让我们无视这些。是不是我开始老了？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%A5%87%E9%97%BB%E5%BD%95-%E5%91%A8%E6%9C%AB%E6%AE%B5%E5%AD%90%E8%8D%9F%E8%90%83-7-17/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E6%AE%B5%E5%AD%90/?category=18271" rel="tag">段子</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%9C%89%E7%97%85%E8%A6%81%E8%AF%BB%E4%B9%A6-%E8%BF%99%E4%BA%9B%E4%BA%BA-%E7%88%B1%E5%9B%BD%E6%88%90%E8%B4%BC/" target="cdt-mirror">有病要读书 | 这些人 爱国成贼</a>
 </h2>
 <p><p>中国是惯有那种聪明的暴徒的。</p>
@@ -897,75 +1096,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BB%A5%E9%A2%A0%E8%A6%86%E7%BD%AA%E8%B5%B7%E8%AF%89%E5%91%A8%E4%B8%96%E9%94%8B%E7%AD%89%E5%BE%8B%E5%B8%88/" target="cdt-mirror">美国之音｜中国以“颠覆罪”起诉周世锋等律师</a>
-</h2>
-<p><div><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s.jpg?resize=550%2C309" alt="CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s.jpg?w=987 987w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s.jpg?resize=300%2C169 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CCCCC3AC-F49F-4122-A782-0422F32C38A3_w987_r1_s.jpg?resize=768%2C432 768w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a><p><span>代理敏感案件的主要律所北京锋锐所主任律师周世锋(参与网图片)</span></p></div>
-<p>2016年7月15日天津市人民检察院第二分院以涉嫌“颠覆国家政权罪”起诉周世锋、胡石根、翟岩民、勾洪国。维权组织认为，此举是这是中国当局对中国维权律师和人权活动人士的“709”大抓捕行动的继续。</p>
-<p>周世锋是北京锋锐律师事务所主任，中国知名维权律师，1995年执业以来，曾代理过多起受害人大案，并且表示要建立“中国律师维权基金”，为各地受迫害律师家属提供资助。</p>
-<p>2015年7月10日，周世锋被北京市警方以“严重扰乱社会秩序”等罪名，遭传唤并指定地点监视居住，2016年1月8日，被天津市警方以涉嫌“颠覆国家政权罪”逮捕，7月15日被以涉嫌“颠覆国家政权罪”起诉。</p>
-<p>胡石根曾任北京语言学院讲师，基督徒，曾秘密参加组建中国自由民主党等团体。1992年春季，曾计划到北京等地散发传单，在天安门广场空投传单，抗议中共六四屠杀事件，后被被警方抓捕。1994年12月被判处有期徒刑20年。他不服上诉，被驳回后身心遭到巨大迫害，一度病危；2008年二次减刑后被提前4年释放。</p>
-<p>为要求当局释放周世锋等人，中国维权人士最近发起抗议和声援活动，八十多位维权律师还发表联署信，抨击天津警方在709案中滥用职权，违反法律。</p>
-<p>维权网说，截止2016年7月15日，709大抓捕案仍有18人被羁押，其中包括8名律师和10名人权捍卫者。中国国内外舆论密切关注中国当局对上述所谓颠覆国家政权罪案的审理。</p>
-<hr><p><small>© 星辰大海 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3%EF%BD%9C%E4%B8%AD%E5%9B%BD%E4%BB%A5%E9%A2%A0%E8%A6%86%E7%BD%AA%E8%B5%B7%E8%AF%89%E5%91%A8%E4%B8%96%E9%94%8B%E7%AD%89%E5%BE%8B%E5%B8%88/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/709%E4%BA%8B%E4%BB%B6/?category=18271" rel="tag">709事件</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BE%9D%E6%B3%95%E6%B2%BB%E5%9B%BD/?category=18271" rel="tag">依法治国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%91%A8%E4%B8%96%E9%94%8B/?category=18271" rel="tag">周世锋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88/?category=18271" rel="tag">维权律师</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E5%A4%A7%E6%8A%93%E6%8D%95/?category=18271" rel="tag">维权律师大抓捕</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%83%A1%E7%9F%B3%E6%A0%B9/?category=18271" rel="tag">胡石根</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B%E4%BA%8B%E4%BB%B6/" target="cdt-mirror">【真理部】《炎黄春秋》人事变动</a>
-</h2>
-<p><p>各网站，请在新闻后台加入对“炎黄春秋”关键词内容的屏蔽，有关杂志人事变动一事不报道、不评论。</p>
-<p>【“真理部”是网民对中国共产党中央委员会宣传部和其下属的各省宣传部，以及国务院新闻办公室，互联网信息办公室，中央文明办，国家新闻出版广电总局，文化部等一系列言论出版审查机构的总称。】</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg"><img title="zhenlibu" src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=550%2C120" alt="" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?w=550 550w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2011/05/zhenlibu.jpg?resize=300%2C65 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Xiao Qiang for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B%E4%BA%8B%E4%BB%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B/?category=18271" rel="tag">炎黄春秋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%9B%9B%E5%B7%9D%E6%97%A5%E6%8A%A5-%E6%88%90%E9%83%BD%E4%B8%BA%E4%BF%9Dg20%E8%93%9D%E5%A4%9A%E7%A7%8D%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%81%9C%E4%BA%A7%E6%95%B4%E6%B2%BB/" target="cdt-mirror">四川日报 | 成都为保“G20蓝”多种工业企业停产整治</a>
-</h2>
-<p><p>还记得成都这样洗眼睛的蓝天吗？每每遇到这样颜值爆表的天气，成都的小伙伴总会乐此不疲地在朋友圈狂晒“蓝照”，相当热闹。7月下旬成都或再现别样的“成都蓝”——G20蓝！</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/52058195gw1f5tuax07wmj24qs0zk4qp.jpg?resize=440%2C92" alt="52058195gw1f5tuax07wmj24qs0zk4qp" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/52058195gw1f5tuax07wmj24qs0zk4qp.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/52058195gw1f5tuax07wmj24qs0zk4qp.jpg?resize=300%2C63 300w" sizes="(max-width: 440px) 100vw, 440px" data-recalc-dims="1"></p>
-<p>7月23日至24日，2016年第三次G20财长和央行行长会将在成都举行，这将是在成都市举办的规格最高、影响最大的国际性会议。</p>
-<p>为保障会议期间(7月22-24日)，成都市中心城区PM2.5、PM10达标(PM2.5 日均浓度≤75微克/立方米;PM10 日均浓度≤150微克/立方米)。成都市将强化工业污染控制和挥发性有机物污染的控制。</p>
-<div><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5156.jpg?resize=600%2C497" alt="停产日前一天 成都官方账号发布的“最美晚霞”" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5156.jpg?w=690 690w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5156.jpg?resize=300%2C248 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1"><p>停产日前一天 成都官方账号发布的“最美晚霞”</p></div>
-<p>7月15日前排放不达标企业须停产</p>
-<p>“成都市环保局将组建以北大、清华为主的国内顶尖专家组成的空气质量保障专家团队，借助成都市大气污染源清单和空气质量预测预报模型，科学预测成都市空气质量状况，针对性地提出大气污染防治对策措施，进一步完善成都市大气污染防治决策支撑平台。”据成都市经信委、环保局等相关部门消息，日前成都市印发了《成都市工业企业G20财长与央行行长会议空气质量保障方案》。</p>
-<p>《方案》要求，7月15日前，配合环保局对不能稳定达标排放的涉气工业企业，必须停产整治。7月16-26日，会同环保局对中心城区大气环境影响较大的火电、钢铁、水泥、玻璃、化工、建材、造纸、印染、食品等行业企业(名单另行通知)，限制会议期间的生产负荷，确保会议期间的污染物排放总量低于正常工况的50%(全市所有燃煤电厂必须使用含硫量低于0.5%的低硫优质燃煤，其中国电金堂电厂生产负荷降低40%)。</p>
-<p>7月16-26日期间，当中心城区空气质量指数(AQI)24小时滑动平均值超过90时，进一步扩大工业企业(名单另行通知)限制生产范围，其生产能力及污染物单位排放量的削减率不得低于50%。</p>
-<p>纳入省、成都市淘汰落后产能工作计划的企业(名单另行通知)，具备条件关停的，于7月15日前必须关停，暂时不具备关停条件的企业，7月16-26日，一律停产整治。</p>
-<p>延伸阅读G20会议将在成都讨论啥？</p>
-<p>G20是一个全球经济合作论坛，属于布雷顿森林体系框架内非正式对话的一种机制。该组织的宗旨是为推动已工业化的发达国家和新兴市场国家之间就实质性问题进行开放及有建设性的讨论和研究，以寻求合作并促进国际金融稳定和经济的持续增长。2016年第三次G20财长和央行行长会将在成都举行，会议主题是“共促增长、共担责任、共建治理、共享发展”，议题包括全球经济形势、增长框架、投资和基础设施等。</p>
-<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%9B%9B%E5%B7%9D%E6%97%A5%E6%8A%A5-%E6%88%90%E9%83%BD%E4%B8%BA%E4%BF%9Dg20%E8%93%9D%E5%A4%9A%E7%A7%8D%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%81%9C%E4%BA%A7%E6%95%B4%E6%B2%BB/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/g20/?category=18271" rel="tag">g20</a>, <a href="https://chinadigitaltimes.net/chinese/tag/pm2-5/?category=18271" rel="tag">PM2.5</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%B0%94%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">大气污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B7%A5%E4%B8%9A%E6%B1%A1%E6%9F%93/?category=18271" rel="tag">工业污染</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%8B%E5%8F%8B%E5%9C%88/?category=18271" rel="tag">朋友圈</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E4%BF%9D/?category=18271" rel="tag">环保</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%AF%E5%A2%83/?category=18271" rel="tag">环境</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E4%BB%AC%E6%B0%B8%E8%BF%9C%E8%B7%9F%E5%85%9A%E8%B5%B0%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9%E5%88%B7/" target="cdt-mirror">【立此存照】我们永远跟党走(复制内容刷)</a>
-</h2>
-<p><blockquote><p>相关阅读：<a href="http://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E6%BC%94%E7%94%B5%E5%BD%B1%E4%BB%A5%E5%90%8E%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A6%81%E6%9F%A5%E4%B8%89%E4%BB%A3%EF%BC%9F/" target="_blank">【网络民议】演电影以后是不是要查三代？ </a></p></blockquote>
-<p>所谓“赵薇事件”愈演愈烈，“爱国人士”已将矛头从指责赵薇使用“台独”“反华”演员和对赵薇国籍的质疑，转移到了<strong>“反华势力”对中国主流媒体进行“操控”、赵薇和马云与“共济会”勾结、“敌对势力”给中国人“洗脑”、妄图对中国进行“颜色革命”</strong>等阴谋论言论上。</p>
-<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%97%B6%E5%B0%9A%E5%B8%AE%E5%B8%AE%E5%B8%AE.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%97%B6%E5%B0%9A%E5%B8%AE%E5%B8%AE%E5%B8%AE.jpg?resize=450%2C543" alt="时尚帮帮帮" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/时尚帮帮帮.jpg?w=1804 1804w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/时尚帮帮帮.jpg?resize=248%2C300 248w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/时尚帮帮帮.jpg?resize=768%2C927 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/时尚帮帮帮.jpg?resize=848%2C1024 848w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
-<p>有细心的网民发现，在上图的热门微博中，出现了许多雷同的评论，部分评论后甚至都带有“(复制内容刷)”的字样，所用括号“()”均为英语标点，疑似来自水军／五毛组织的工作失误。其中一条频频重复出现的评论为：</p>
-<blockquote><p>大家一定要记住，现在的问题根本不是国际问题好嘛？？！不要被套路了！！！从赵薇事件都可以看出，渣浪等很多主流媒体已经被西方势力，反华势力控制，控制我们的社会舆论，让我们整天感觉政府怎样不好，国外何其美好。我们不能被这些东西蒙蔽了。我们永远跟党走(复制内容刷)</p></blockquote>
-<p><strong>以下为中国数字时代编辑制作的雷同评论的截图集合：</strong></p>
-<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%B0%B8%E8%BF%9C%E8%B7%9F%E5%85%9A%E8%B5%B0.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/%E6%B0%B8%E8%BF%9C%E8%B7%9F%E5%85%9A%E8%B5%B0.jpg?resize=525%2C1935" alt="永远跟党走" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/永远跟党走.jpg?w=2500 2500w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/永远跟党走.jpg?resize=81%2C300 81w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/永远跟党走.jpg?resize=768%2C2831 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/永远跟党走.jpg?resize=278%2C1024 278w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/永远跟党走.jpg?w=2000 2000w" sizes="(max-width: 525px) 100vw, 525px" data-recalc-dims="1"></a></p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E6%88%91%E4%BB%AC%E6%B0%B8%E8%BF%9C%E8%B7%9F%E5%85%9A%E8%B5%B0%E5%A4%8D%E5%88%B6%E5%86%85%E5%AE%B9%E5%88%B7/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B/?category=18271" rel="tag">五毛</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83/?category=18271" rel="tag">别有用心</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A2%83%E5%A4%96%E5%8A%BF%E5%8A%9B/?category=18271" rel="tag">境外势力</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%89%E6%97%A8%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">奉旨爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%96%87/?category=18271" rel="tag">赵薇</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -977,7 +1107,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du1ux2871uqvu.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -987,5 +1117,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BA%94%E6%AF%9B
                 <td></td>
                 
         
-        <td><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

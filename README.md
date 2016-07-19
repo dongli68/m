@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,23 @@
                 <td></td>
                 
         
-        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E9%95%9C%E5%A4%96%EF%BD%9C%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E8%AD%A6%E9%95%BF%EF%BC%9A%E7%88%B1%E5%9B%BD%E8%80%85%E7%82%AE%E7%81%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/" target="cdt-mirror">【麻辣总局】我的名字叫警长：爱国者炮灰使用指南</a>
+</h2>
+<p><p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-2.jpg?resize=550%2C427" alt="640" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-2.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/640-2.jpg?resize=300%2C233 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"><br>
+7月17日上午，河北乐亭县肯德基遭不明身份民众打横幅围堵。横幅上写着：“抵制美日韩菲，爱我中华民族，你吃的是美国肯德基，丢的是老祖宗的脸。”相关新闻很快上了新浪微博热搜榜。</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/641.jpg?resize=550%2C496" alt="641" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/641.jpg?w=640 640w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/641.jpg?resize=300%2C270 300w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/642.jpg?resize=550%2C3497" alt="642" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/642.jpg?w=640 640w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/642.jpg?resize=47%2C300 47w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/642.jpg?resize=161%2C1024 161w" sizes="(max-width: 550px) 100vw, 550px" data-recalc-dims="1"></p>
+<hr><p><small>© 不转不是中国人 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E9%95%9C%E5%A4%96%EF%BD%9C%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E8%AD%A6%E9%95%BF%EF%BC%9A%E7%88%B1%E5%9B%BD%E8%80%85%E7%82%AE%E7%81%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E5%8F%AB%E8%AD%A6%E9%95%BF/?category=18271" rel="tag">我的名字叫警长</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%B6%E6%94%BF%E6%BC%AB%E7%94%BB/?category=18271" rel="tag">时政漫画</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC%E7%B2%BE%E9%80%89/?category=18271" rel="tag">爱国贼精选</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%82%AF%E5%A1%94%E5%9F%BA/?category=18271" rel="tag">肯塔基</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E5%B1%B1%E4%B8%9C%E9%87%8D%E5%A4%A7%E6%95%8F%E6%84%9F%E5%A4%84%E7%BD%9A%E5%BE%8B%E5%B8%88%E6%A1%88%E4%BB%B6%E9%9C%80%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%89%B9/" target="cdt-mirror">财经网 | 山东重大敏感处罚律师案件需立案审批</a>
 </h2>
 <p><p>（记者 单玉晓 实习记者 邓瑞璇）山东《律师和律师事务所违法违规行为惩戒工作规则》（下称《规则》）已于本月起实施。7月18日，山东省司法厅律师管理处处长李凌云向财新记者表示，山东是全国首个出台《律师和律师事务所违法违规行为惩戒工作规则》的省份，“目前有些案子开始根据《规则》进行处理，但《规则》才推行两周，从操作层面来说，具体的反馈还需要等等看”。</p>
@@ -980,28 +994,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AD%94%E5%AD%90
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF-%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%BC%9A%E8%A7%81%E6%B4%AA%E6%A3%AE-%E5%85%81%E8%AF%BA%E6%8F%B4%E5%8A%A9%E5%85%AD%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%81%E6%84%9F%E8%B0%A2%E5%8D%97/" target="cdt-mirror">法广 | 李克强会见洪森 允诺援助六亿美元、感谢南海支持 中方媒体未见报道</a>
-</h2>
-<p><div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-%E4%B8%8B%E5%8D%882.32.59.png?resize=553%2C312" alt="中国总理李克强在欧亚峰会上会见柬埔寨总理洪森，2016年7月15日。" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-下午2.32.59.png?w=553 553w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-下午2.32.59.png?resize=300%2C169 300w" sizes="(max-width: 553px) 100vw, 553px" data-recalc-dims="1"><p>中国总理李克强在欧亚峰会上会见柬埔寨总理洪森，2016年7月15日。</p></div>
-<p>近日，中国国务院总理抵达蒙古国乌兰巴托，对蒙古进行访问，并出席在乌兰巴托举行的第十一届亚欧首脑会议。</p>
-<p>昨天（7月15日）上午和下午，李克强分别会见老挝总理通伦、柬埔寨首相洪森、日本首相安倍晋三、俄罗斯总理梅德韦杰夫、罗马尼亚总理乔洛什等政要。</p>
-<p>李克强和柬埔寨首相洪森的会见安排在15日上午。据新华社的报道，李克强主动谈及了南海问题，他表示，在所谓菲律宾南海仲裁案问题上，柬方”秉持客观公正立场，仗义执言，捍卫了真正的国际法治和地区规则秩序”，为维护中国－东盟关系大局和地区和平稳定发挥了不可替代的作用。中方将继续致力于同直接当事国通过谈判协商解决争议，同东盟国家一道维护南海地区和平稳定与航行自由。</p>
-<p>而洪森则表示，柬方将继续坚持客观公正立场，支持直接当事国通过对话协商解决具体争议。柬方愿同各方致力于维护东盟与中国友好合作的大局。</p>
-<p>根据柬埔寨华文媒体华商传媒的报道，李克强和洪森的会见对南海问题有更直接坦率的交流，尤其是金钱援助，但中国大陆媒体未见报道。</p>
-<p>华商传媒报道称，柬埔寨总理洪森于当地时间15日上午在乌兰巴托会见中国国务院总理李克强，当场获得“大礼”，中方决定再为柬方提供6亿美元无偿援助，该报道说，李克强总理还对柬埔寨在南海问题上仗义执言表示了赞赏，暗示这笔援助与柬埔寨的南海立场有关。</p>
-<p>李克强还表示，中方愿充分发挥两国高度的政治互信与经济互补优势，积极推进产能与投资合作，深化经贸、农产品深加工、水利、基础设施建设合作，着眼于改善柬埔寨的民生。加强文化、旅游、教育等领域合作，鼓励更多中国游客赴柬旅游，增进两国人民特别是青年一代的友好往来，让中柬友好世代相传。</p>
-<p>在会谈结束后，洪森总理在其脸书发文指出，中国总理李克强在会上宣布，在2016年至2018年三年期间，中方将向柬埔寨提供36亿人民币（约6亿美元）无偿援助。</p>
-<p>洪森写道：“在我的要求下，中国朋友也同意提供柬埔寨选举、卫生、教育、清洁用水、水井等资助，柬埔寨人民将受益其中。”</p>
-<p>官方新华社仅报道了双方经济投资合作的概述，未谈及李克强对柬埔寨金援的承诺。中文社交媒体上，则将其视为中国政府对柬埔寨身为东盟成员，支持中国南海问题立场的回报。</p>
-<p>虽然中国政府目前拥有巨额财力，援助曾因中共支持的红色高棉作恶而贫穷的柬埔寨，许多网民也表示理解，但仍有许多民众认为，外援首先应该有人大预算授权，其次，国民通过海外媒体而非官方渠道才能得知巨额金援，也很不正常。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF-%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%BC%9A%E8%A7%81%E6%B4%AA%E6%A3%AE-%E5%85%81%E8%AF%BA%E6%8F%B4%E5%8A%A9%E5%85%AD%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%81%E6%84%9F%E8%B0%A2%E5%8D%97/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4/?category=18271" rel="tag">中国外交</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%B8%BB%E6%9D%83%E4%BA%89%E8%AE%AE/?category=18271" rel="tag">南海主权争议</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E6%8F%B4%E5%8A%A9/?category=18271" rel="tag">国际援助</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%A7%E6%92%92%E5%B8%81/?category=18271" rel="tag">大撒币</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AF%B9%E5%A4%96%E6%8F%B4%E5%8A%A9/?category=18271" rel="tag">对外援助</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9D%8E%E5%85%8B%E5%BC%BA/?category=18271" rel="tag">李克强</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%AC%E5%9F%94%E5%AF%A8/?category=18271" rel="tag">柬埔寨</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%A6%96%E7%9B%B8%E6%B4%AA%E6%A3%AE/?category=18271" rel="tag">柬埔寨首相洪森</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E6%A3%AE/?category=18271" rel="tag">洪森</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1013,7 +1005,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1023,5 +1015,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://dew9ckzjyt2gn.cloudfront.net">https://dew9ckzjyt2gn.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

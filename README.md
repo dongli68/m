@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,85 @@
                 <td></td>
                 
         
-        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%BE%9B%E5%8F%AF%EF%BD%9C%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E5%9F%B9%E5%85%BB%E7%B2%BE%E8%87%B4%E7%9A%84%E5%A5%B4%E6%89%8D%E5%92%8C%E6%B5%81%E6%B0%93/" target="cdt-mirror">辛可｜教育不是为了培养精致的奴才和流氓</a>
+</h2>
+<p><p>高考结束了，几家欢喜几家愁，我也赶来凑个热闹，谈谈中国的教育问题。大概是教过书的缘故，我对谈论教育问题特别上瘾，即便已离开讲台多年，在滚滚红尘里混得面目全非。</p>
+<p>大家都说，中国的教育很烂。这个结论没有任何问题，而且不是一般的烂，特别是高等教育，基本上像个笑话。至于烂的原因，人云亦云。我的看法是，中国教育从根上就烂掉了，教育的目的根本是错误的。用时髦的话说，就是方向性错误。方向错了，遑论其他。病状集中表现在如下方面：</p>
+<p><strong>一是假大空的教育目的</strong></p>
+<p>在中国的学校教育中，动不动提出要培养某某接班人（其实根本无班可接，那不过是少数人的自留地），或跨这样那样的人才，就不怕跨太大把裤裆裂了。这些提法其实都是出于政治目的，不是教育，更是教化，不是培养人，而是制造听话的工具。即便如此，用尽了力气和手段，搞得大家疲惫不堪，效果也很有限，因为这些提法对于一般国民，特别青少年来说太空洞了，说了等于没说。</p>
+<p>过于形而上学的东西，不是学生这个年龄的人所能理解的，包括所谓爱国主义、民族主义的概念。前苏联天天年年讲了70多年，等国家解体的时候，似乎没有一点正面的影响。不是前苏联的国民把这些形而上学的东西忘掉了，而是根本就没往心里去。在天朝，人从娘胎里爬出来就反复接受“忠孝节义”的思想驯化，个个把四书五经三纲五常背得滚瓜烂熟，可正到了关键时刻，根本就不管用。蒙古人来了，男人给蒙古的强盗当奴才，女人陪蒙古人睡；满洲人来了，男人又给满洲的强盗当奴才，女人又爬上人家的土炕，如此而已。更可悲的是，对着新的主子，又祭出忠孝节义那一套，不以为耻反以为荣。</p>
+<p><strong>二是极端实用化的目的</strong></p>
+<p>所谓学而优则仕，中国向来把教育当做升官发财的门路。现在很多老师也是如此教导他的学生。在这方面，干得最彻底的是宋真宗，他为此写过一首油乎乎的《劝学诗》：<br>
+富家不用买良田，书中自有千钟粟。<br>
+安房不用架高梁，书中自有黄金屋。<br>
+娶妻莫恨无良媒，书中自有颜如玉。<br>
+出门莫恨无人随，书中车马多如簇。<br>
+男儿欲遂平生志，六经勤向窗前读。</p>
+<p>这就是最典型的教育实用主义者的嘴脸。现在有一种很流行的观点，就是新读书无用论，认为大学毕业找不到工作，或不能升官发财，那读书还有什么用，教育还有什么用？意思很明白，教育的价值就是给大家准备饭碗，大学毕业了就可以端着饭碗出去过上好日子。其实有没有饭碗，日子是不是过得好，那是你走向社会后努力的结果，学校只能教给你基本的东西而已。</p>
+<p>极端实用主义导致教育偏离了正确轨道，因为教育本身不是创造饭碗的，大家非要端着饭碗出来，结果谁都不满意，动不动弥漫起读书无用论的气氛，也就在所难免。爱因斯坦曾说过“我确实相信：在我们的教育中，往往只是为着实用和实际的目的，过分强调单纯智育的态度，已经直接导致对伦理教育的损害。”很显然，我们的情况比爱因斯坦担心的更严重。</p>
+<p><strong>三是极端工业化的目的</strong></p>
+<p>很多人认为，教育就应该是工业生产链条上的一环，教育的价值要通过生产效率来衡量。很多企业抱怨，中国培养的大学生都是废物，根本缺乏科研和工作能力。是啊，老板们说的没错，他们本来就接受了最基本的知识和训练，当然没有实际工作能力。他们要有实际工作能力，还需要利用其掌握的基础知识，在工作实践中不断摸索吗。谁他妈生下来就会跑啊，你不能说他在娘肚子里长了腿，出来就应该跑马拉松吧，你自己就那么有种吗？</p>
+<p>如果按照有些人的理论，中国的大学专门培养废物的话，那全世界所有的大学培养的都是废物，包括哈佛、牛津这些世界上最出名的大学。他们培养的大学生也没有实际工作能力啊。为了迎合社会上这种无理要求，很多大学基本上变成了技术培训班。这方面我们有着深刻的经验教训，所谓的工农兵大学就是典型。他们今天种种不着调的表现，已充分说明了这种教育模式的水准，根本就是胡闹嘛！就算其中不乏优秀者，那也是社会实践的结果。</p>
+<p><strong>四是过于精英化的目的</strong></p>
+<p>“万般皆下品，唯有读书高”，这是前人对读书的定位，后来有段时间，读书人被整得灰头土脸，变成了臭老九。但在大部分时间里，教育被定义为培养人才与社会精英的机器，尤其是许多著名大学，如北大、清华等等，都以培养社会精英自居。如果真能培养出来，也不错啊，问题是即便如北大清华，也不能直接把社会精英培养出来，倒是从未名湖清华园里走出了不少精致的奴才与流氓，个个自以为貂蝉西施，其实不过无盐东施而已。</p>
+<p>人才始终是通过社会实践锻炼出来的。再说了，我们搞全人类规模最大的教育，如果只是为了培养几个精英（就算真能培养出来），花这么多钱是不是有病？无论中小学，还是大学，根本就不应该以精英培养为目的，而是国民的基本素质教育。因为深受精英化教育的毒害，结果导致教育资源分配极为不平衡。一方面，国家为培养社会精英使劲砸钱，搞出来一堆精致的唯利是图的奴才和流氓；另一方面，为社会培养优秀劳动者的学校，因为不够精英，经常青黄不接、度日维艰。</p>
+<p>爱因斯坦算得上人才或精英吧，当然了，如果在中国他未必能够达标，因为做奴才不是他的长项。他讲过一句很有水平的话：“学校的目标始终应当是：青年人在离开学校时，是作为一个和谐的人，而不是作为一个专家。”希望这句话对那些大搞精英教育的病夫有所帮助。</p>
+<p>要治中国教育的病，首先就要纠正教育的错误目的，不解决这个问题，其他的都是扯淡。教育的根本目的是遵照人类的基本价值，培养人格健全的现代公民。先把大家培养成人，然后再谈人才。现在的情况正好相反，满大街所谓人才，但没几个像样的人。如果我们用国民的血汗钱，培养出的是精致的奴才和流氓，这种教育的意义到底何在？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%BE%9B%E5%8F%AF%EF%BD%9C%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E5%9F%B9%E5%85%BB%E7%B2%BE%E8%87%B4%E7%9A%84%E5%A5%B4%E6%89%8D%E5%92%8C%E6%B5%81%E6%B0%93/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91/?category=18271" rel="tag">公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%B2%BE%E8%8B%B1/?category=18271" rel="tag">社会精英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1%E6%95%99%E8%82%B2/?category=18271" rel="tag">精英教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A0%E8%B4%A8/?category=18271" rel="tag">素质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2/?category=18271" rel="tag">素质教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E6%B4%BE/?category=18271" rel="tag">自由派</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 17分钟前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%88%B1%E5%9B%BD%E5%A7%BF%E5%8A%BF%E5%A4%AA%E5%A4%9A-%E5%9B%BD%E5%AE%B6%E6%89%BF%E5%8F%97%E4%B8%8D%E8%B5%B7%E4%BA%86/" target="cdt-mirror">【图说天朝】爱国姿势太多 国家承受不起了</a>
+</h2>
+<p><p>@cctvWeb：借爱国贼势炒作的鸡贼公司 杭州比纳</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnsqCXLUIAAYdxB.jpg?resize=576%2C586" alt="CnsqCXLUIAAYdxB" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnsqCXLUIAAYdxB.jpg?w=576 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnsqCXLUIAAYdxB.jpg?resize=295%2C300 295w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnsqCXLUIAAYdxB.jpg?resize=70%2C70 70w" sizes="(max-width: 576px) 100vw, 576px" data-recalc-dims="1"></p>
+<p>@茶如人生9：出差坐飞机不得坐波音飞机，只能选择运七，联系业务不能用互联网，只能用书信，否则开除。</p>
+<p>@S丶YY丶：这样的公司不待也罢。</p>
+<p>@ZHAOKUNYI_：这是一个已经疯狂的公司。</p>
+<p>@szshu：买7被开除，公司违法劳动法，要n+1赔偿员工，这个要赞！</p>
+<p>@ln_bo: 遇上这样的傻逼老板，还是赶快辞职吧！</p>
+<p>——————————————————</p>
+<p>@李方平律师：【福建日报业委会呼吁抵制美、日、菲货】福建日报业主的爱国壮举，河北乐亭爱国青年身体力行之！训练宪法权利，不打人就是好事！</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdjw1f5x94gxhrcj20jy0zktcc-1.jpg?resize=450%2C802" alt="6a80bfcdjw1f5x94gxhrcj20jy0zktcc" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdjw1f5x94gxhrcj20jy0zktcc-1.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdjw1f5x94gxhrcj20jy0zktcc-1.jpg?resize=168%2C300 168w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdjw1f5x94gxhrcj20jy0zktcc-1.jpg?resize=574%2C1024 574w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>@贝尔盟：先抵制蠢货吧，一步一步来。</p>
+<p>@朝吟暮醉：不明所以。</p>
+<p>@山顶的小顽石：福建日报的福利房吗？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%88%B1%E5%9B%BD%E5%A7%BF%E5%8A%BF%E5%A4%AA%E5%A4%9A-%E5%9B%BD%E5%AE%B6%E6%89%BF%E5%8F%97%E4%B8%8D%E8%B5%B7%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E8%B5%B5%E8%96%87%E4%BA%8B%E4%BB%B6-%E4%BA%92%E8%81%94%E7%BD%91%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%AB%E9%AD%82/" target="cdt-mirror">金融时报 | 赵薇事件 互联网时代的“叫魂”</a>
+</h2>
+<p><p><strong>侯虹斌：在这个权力对普通民众来说向来稀缺的社会里，以“叫魂”罪名来恶意中伤他人成了普通人的一种突然可得的权力。</strong></p>
+<p>说到底，他们担心的不是“资本控制”，而是被“不爱国的资本的控制”（虽然这不是真的。而且，赵薇参加过国宴，习近平还曾把她推荐给韩国总统）。今天人们所恐惧的并不是“妖术”“共济会”，甚至不是“资本控制”，而是“不爱国”。辟谣是没有用的，十八世纪末的哪一次的“叫魂”妖术哪一次是真的？恐慌还不是照样越闹越大。</p>
+<p>问题是，任何人，无论贵贱都可以指称别人为叫魂犯。《叫魂》一书中深刻地指出：“一旦官府认真发起对妖术的清剿，普通人就有了很好的机会来清算宿怨或谋取私利。这是扔在大街上的上了膛的武器，每个人，无论恶棍或良善，都可以取而用之。在这个权力对普通民众来说向来稀缺的社会里，以‘叫魂’罪名来恶意中伤他人成了普通人的一种突然可得的权力。”</p>
+<p>实际上，不管中西方，在非文明时代里，常会有某些罪名，非常好用，只要抬出这种罪名，不需证据可以打倒对方；它是悬在所有人头顶上的剑，是公众的恐惧之源。而这种恐慌，并不是你们以为的由愚昧的民众自发形成、扩散开来的；其实，它是上层社会根据政治目的，自上而下发起的：它想让你看到什么信息，你就相信什么信息。</p>
+<p>比如在十七世纪的欧洲，宗教改革的社会背景下，“女巫”就是一个非常便利的罪名，他们可以用敦促女性“供认”出审讯者想听到的最变态的性刺激行为，捉巫事业让律师、法官、牧师和审讯者没有失业之虞，雷米十五年之内处决了九百个女巫，三百年间，至少有六万多人被以行巫术的名义处决——惟一的困难是如何尽量多地找到和杀掉女巫。（埃克·伯科威茨《性审判史》）</p>
+<p>类似的例子不胜枚举：既有十一世纪时，欧洲基督教会会炮制或散播诸如犹太人用基督徒进行血祭的诽谤、犹太人指使别人投毒的谣传；也有十九世纪中后期，中国指斥洋人教堂拐骗小孩、并且用小孩的内脏器官制造药物、吃小孩的心肝等传言；更有“文革”时随手指谁谁就是走资派、资本家、工贼、反革命等等的全民癫狂。</p>
+<p>其实，各个社会层面的目的是不一样的。乾隆皇帝追查“妖术”，是想通过事件来加强对官僚体系的控制，并清查民间的“异见”；各级官员对“妖术”调查的积极配合，是想瞒上欺下求得自保或获利；民间对“妖术”的恐惧，则是信息掌握不全之下的盲目。出发点不同，却殊途同归。“妖术”恐慌，从来都不是民间自发的。而发自内心地担忧中国这个全球第二大经济体被一个女明星分裂，排队对明星及其同情者进行辱骂，这种浩浩荡荡的爱国方式，也不会是民间自发的，否则早就被第一时间被屏蔽了。</p>
+<p>我们很难解释，是否在我们的世界里，妖术既是一种权力的幻觉，又是对每一个人的一种潜在的权力补偿。因为没有真正的道德准则，明知一种东西（比如权力）是非道德的、不合理的，但因为有用，我们就拣来用；但想丢弃的时候，那种东西已经被别人非道德地施行在我们自己身上了。</p>
+<p>我们常常想象着一个不公平的社会里，我们能有幸占据主导权，成为社会的施害方；殊不知，我们很可能是那个受害者。这就是协从不正义的代价。</p>
+<p>《叫魂》一书对乾隆时代的总结是：“中国的帝国制度本身是否已达到了非使‘政治罪’成为政治生活一部分不可的地步？”检讨一下，我们现在是这样了吗？</p>
+<p>我希望，它永远不会成真。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E8%B5%B5%E8%96%87%E4%BA%8B%E4%BB%B6-%E4%BA%92%E8%81%94%E7%BD%91%E6%97%B6%E4%BB%A3%E7%9A%84%E5%8F%AB%E9%AD%82/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E6%B4%BE/?category=18271" rel="tag">自由派</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%B8%9D%E5%90%A7%E9%A3%8E%E4%BA%91%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E6%84%A4%E6%80%92%E9%9D%92%E5%B9%B4%E6%B5%81%E5%8F%98%E5%8F%B2/" target="cdt-mirror">知乎日报｜帝吧风云：互联网愤怒青年流变史</a>
 </h2>
 <p><div></div>
@@ -225,7 +301,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7/?category=18271" rel="tag">帝吧</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B8%9D%E5%90%A7%E5%87%BA%E5%BE%81fb/?category=18271" rel="tag">帝吧出征FB</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%8B%B9%E6%9E%9C%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%AD%94%E6%8D%B7%E7%94%9F%EF%BC%9A%E8%87%AA%E5%B7%B1%E7%BA%A6%E7%9A%84%E7%82%AE%EF%BC%8C%E4%B8%8D%E6%89%93%E6%98%AF%E5%AD%99%E5%AD%90%EF%BC%81/" target="cdt-mirror">苹果日报｜孔捷生：自己约的炮，不打是孙子！</a>
 </h2>
@@ -952,256 +1028,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-144/" target="cdt-mirror">【河蟹档案】看样子，我们只有继续猜了</a>
-</h2>
-<p><p><em><a href="https://freeweibo.com/"><img src="http://i1.wp.com/freeweibo.com/img/freeweibo.png?zoom=2&w=160" alt="自由微博" width="160" height="41"></a>以下被新浪审查删除的微博来自<a href="https://freeweibo.com/">自由微博网站</a>以及其他来源，数字时代编辑整理：</em></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BC%A0%E9%B8%A3">张鸣</a>：纪连海喝大了吧，以为自己是老毛呢，可以坦然让十亿人去死。装赵家人也没有这样装的。<em><em><em>相关阅读｜《<a href="http://groups.tianya.cn/post-163879-ad000b1d9f104b7bb2733f2883ba61ca-1.shtml">天涯<em><em><em>｜</em></em></em>南海仲裁案后续观察：到底哪些人想开战？</a>》；《加国无忧<em><em><em>｜</em></em></em><a href="http://info.51.ca/news/china/2016-07/437353.html">纪连海，你的脸多大，驮得住十亿中国人殉</a>？》</em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-24.jpg?resize=466%2C498" alt="纪连海" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-24.jpg?w=750 750w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-24.jpg?resize=281%2C300 281w" sizes="(max-width: 466px) 100vw, 466px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3997226348351412" target="/weibo/399">2016年07月14日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%BC%A0%E5%A4%AB%E5%AD%90">张夫子</a>：终于知道为什么柬埔寨首相为中国辩护称，原来是真朋友！送6亿美元给人家。顺便说下，中国每年新增白血病患儿多达数万，大部分家庭无力承担高昂治疗费用，倾家荡产，多为保守治疗与等死。<em><em><em>相关阅读｜《<a href="http://cn.rfi.fr/%E4%B8%AD%E5%9B%BD/20160716-%E6%9D%8E%E5%85%8B%E5%BC%BA%E4%BC%9A%E8%A7%81%E6%B4%AA%E6%A3%AE-%E5%85%81%E8%AF%BA%E6%8F%B4%E5%8A%A9%E5%85%AD%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%81%E6%84%9F%E8%B0%A2%E5%8D%97%E6%B5%B7%E6%94%AF%E6%8C%81-%E4%B8%AD%E6%96%B9%E5%AA%92%E4%BD%93%E6%9C%AA%E8%A7%81%E6%8A%A5%E9%81%93">法广<em><em><em>｜</em></em></em>李克强会见洪森 允诺援助六亿美元、感谢南海支持 中方媒体未见报道</a>》</em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-30.jpg?resize=384%2C683" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-30.jpg?w=750 750w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-30.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-30.jpg?resize=576%2C1024 576w" sizes="(max-width: 384px) 100vw, 384px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-31.jpg?resize=496%2C403" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-31.jpg?w=699 699w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-31.jpg?resize=300%2C244 300w" sizes="(max-width: 496px) 100vw, 496px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3997641513650083" target="/weibo/399">2016年07月15日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%A5%8A%E5%BA%B7%E4%BB%A4">楊康令</a>：一份声明  <em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/07/%E6%B3%95%E5%B9%BF-%E3%80%8A%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B%E3%80%8B%E6%94%B9%E7%BB%84%E9%A3%8E%E6%B3%A2%EF%BC%8C%E5%85%9A%E5%86%85%E6%94%B9%E8%89%AF%E6%B4%BE%E7%9A%84%E6%9C%80%E5%90%8E/">法广<em><em><em>｜<</em></em></em>炎黄春秋>改组风波，党内改良派的最后抗争？</a>》；《<a href="https://zh.wikipedia.org/wiki/%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B">维基百科<em><em><em>｜炎黄春秋</em></em></em></a>》</em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-25.jpg?resize=375%2C736" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-25.jpg?w=960 960w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-25.jpg?resize=153%2C300 153w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-25.jpg?resize=768%2C1507 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-25.jpg?resize=522%2C1024 522w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1"><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-26.jpg?resize=461%2C615" alt="炎黄春秋" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-26.jpg?w=750 750w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-26.jpg?resize=225%2C300 225w" sizes="(max-width: 461px) 100vw, 461px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3997302102154593" target="/weibo/399">2016年07月15日 </a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%88%98%E4%BA%8C%E7%8B%97%E6%8D%A3%E8%9B%8B">刘二狗捣蛋</a>：好段子：仲裁结果一出来，中国政府忙着军演，菲律宾人民忙着游行。因为菲律宾政府没法军演，而中国人民没法游行～真是各有各的难处。<br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-21.jpg?resize=367%2C496" alt="1" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-21.jpg?w=520 520w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-21.jpg?resize=222%2C300 222w" sizes="(max-width: 367px) 100vw, 367px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3996705210353922" target="/weibo/399">2016年07月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B4%BB%E7%9D%80%E7%85%8E%E7%86%AC%E4%B8%8012">活着煎熬一12</a>：分享图片 <em><em><em>相关阅读｜《<a href="http://chinadigitaltimes.net/chinese/2016/07/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%EF%BD%9C%E5%90%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%87%B4%E6%95%AC%E7%9A%84%E4%B9%A0%E6%B0%8F%E7%94%B2%E8%99%AB%E4%B8%BA%E4%BD%95%E9%81%AD%E5%B0%81/">纽约时报｜向习近平致敬的“习氏甲虫”为何遭封杀？</a>》；《<a href="http://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91%E6%88%91%E5%9B%BD%E5%AD%A6%E8%80%85%E4%BB%A5%E4%B9%A0%E5%A4%A7%E5%A4%A7%E5%91%BD%E5%90%8D%E4%B8%80%E7%94%B2%E8%99%AB%E6%96%B0%E7%A7%8D/">【真理部】我国学者以“习大大”命名一甲虫新种</a>》</em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-19.jpg?resize=373%2C1194" alt="习大大" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-19.jpg?w=435 435w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-19.jpg?resize=94%2C300 94w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-19.jpg?resize=320%2C1024 320w" sizes="(max-width: 373px) 100vw, 373px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3995976664144373" target="/weibo/399">2016年07月11日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%B5%B7%E5%B3%A1-%E9%82%B1%E8%90%8D">海峡-邱萍</a>：水库无预警泄洪、闽清遭难  <em><em><em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql1-07122016115558.html">自由亚洲<em><em><em>｜</em></em></em>闽清特大暴雨官民死亡版本迥异 居民描述洪峰入镇如世界末日</a>》</em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-28.jpg?resize=351%2C527" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-28.jpg?w=640 640w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-28.jpg?resize=200%2C300 200w" sizes="(max-width: 351px) 100vw, 351px" data-recalc-dims="1"><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-29.jpg?resize=386%2C686" alt="闽清" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-29.jpg?w=720 720w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-29.jpg?resize=169%2C300 169w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-29.jpg?resize=576%2C1024 576w" sizes="(max-width: 386px) 100vw, 386px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3996855312137881" target="/weibo/399">2016年07月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40wk%E6%99%AE%E6%B4%B1e">wk普洱e</a>：帮帮乌坎。<em><em><em>相关阅读｜《<a href="http://cn.nytimes.com/china/20160621/china-wukan-protest/">纽约时报<em><em><em>｜大批防暴警察进驻，乌坎气氛再度紧张</em></em></em></a>》</em></em></em><br><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-27.jpg?resize=418%2C556" alt="1" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-27.jpg?w=960 960w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-27.jpg?resize=225%2C300 225w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-27.jpg?resize=768%2C1022 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-27.jpg?resize=769%2C1024 769w" sizes="(max-width: 418px) 100vw, 418px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3996866931251952" target="/weibo/399">2016年07月13日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E8%94%A1%E7%91%9B%E5%BE%8B%E5%B8%88">蔡瑛律师</a>：SPAM 随便看看 <a href="http://t.cn/zTmSuig" target="_BLANK">http://t.cn/zTmSuig</a><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-23.jpg?resize=472%2C354" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-23.jpg?w=720 720w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-23.jpg?resize=300%2C225 300w" sizes="(max-width: 472px) 100vw, 472px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3997195151206708" target="/weibo/399">2016年07月14日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E6%9D%8E%E6%96%B9%E5%B9%B3%E5%BE%8B%E5%B8%88">李方平律师</a>：【考拉还在你们手里？为何莫名的一唱一和？】天津警方转发考拉微博，蛮有意思的！<em><em><em>相关阅读｜《<a href="http://www.rfa.org/mandarin/yataibaodao/renquanfazhi/xl3-07112016111738.html">自由亚洲<em><em><em>｜</em></em></em>赵威获释后连发微博被质疑在当局支配下“演戏”</a> 》；《<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%BD%91%E7%BB%9C%E6%B0%91%E8%AE%AE%E3%80%91%E5%A7%91%E5%A8%98%E4%B8%8D%E6%98%AF%E4%B8%8D%E4%BF%A1%E4%BD%A0-%E6%88%91%E4%BB%AC%E6%98%AF%E4%B8%8D%E4%BF%A1%E6%94%BF%E5%BA%9C/">【网络民议】姑娘不是不信你 我们是不信政府</a>》</em></em></em><br><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-17.jpg?resize=555%2C171" alt="1" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-17.jpg?w=1196 1196w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-17.jpg?resize=300%2C92 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-17.jpg?resize=768%2C236 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-17.jpg?resize=1024%2C315 1024w" sizes="(max-width: 555px) 100vw, 555px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3994652296800108" target="/weibo/399">2016年07月07日</a></p>
-<p>*<a href="https://freeweibo.com/weibo/%40%E5%90%95%E8%89%AF%E5%BD%AA-%E9%98%BF%E5%91%86">吕良彪-阿呆</a>：明明有两个玻璃球放在那里，白的白，黑的黑，一看便知，警察却偏偏捂住让你猜，猜错了就是造谣。<em><em><em>相关阅读｜《<a href="http://www.dw.com/zh/%E5%9B%B4%E7%BB%95%E7%9D%80%E8%80%83%E6%8B%89%E5%B0%B1%E6%98%AF%E8%80%83%E6%8B%89%E7%9A%84%E8%B0%9C%E5%9B%A2/a-19393127">德国之声<em><em><em>｜</em></em></em>围绕着“考拉就是考拉”的谜团</a>》；《<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%B5%B5%E5%A8%81%E5%BE%AE%E5%8D%9A%E5%8F%91%E5%B8%83%E8%87%AA%E6%8B%8D-%E5%BC%95%E6%9B%B4%E5%A4%9A%E8%B4%A8%E7%96%91/">赵威微博发布“自拍” 引更多质疑</a>》</em></em></em><br><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-16.jpg?resize=410%2C1418" alt="赵威" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-16.jpg?w=440 440w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-16.jpg?resize=87%2C300 87w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/1-16.jpg?resize=296%2C1024 296w" sizes="(max-width: 410px) 100vw, 410px" data-recalc-dims="1"><br><a href="https://freeweibo.com/weibo/3995172226752224" target="/weibo/399">2016年07月09日</a></p>
-<hr><p><small>© Tony Nima for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-144/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%8C%E5%9D%8E/?category=18271" rel="tag">乌坎</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E5%A4%A7%E5%A4%A7/?category=18271" rel="tag">习大大</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%B2%E8%99%AB/?category=18271" rel="tag">习近平甲虫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7/?category=18271" rel="tag">南海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E8%AD%A6%E4%B8%8A%E8%AE%BF/?category=18271" rel="tag">民警上访</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88/?category=18271" rel="tag">河蟹档案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%AA%E7%81%BE/?category=18271" rel="tag">洪灾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%82%8E%E9%BB%84%E6%98%A5%E7%A7%8B/?category=18271" rel="tag">炎黄春秋</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD/?category=18271" rel="tag">爱国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%94%B2%E8%99%AB/?category=18271" rel="tag">甲虫</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BA%AA%E8%BF%9E%E6%B5%B7/?category=18271" rel="tag">纪连海</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%80%83%E6%8B%89%E8%B5%B5%E5%A8%81/?category=18271" rel="tag">考拉赵威</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8F%B2%E5%BE%8B%E5%AE%BE/?category=18271" rel="tag">菲律宾</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A2%AB%E5%88%A0%E5%BE%AE%E5%8D%9A/?category=18271" rel="tag">被删微博</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1/?category=18271" rel="tag">言论自由</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%AD%A6%E5%AF%9F%E7%BC%96%E5%88%B6/?category=18271" rel="tag">警察编制</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%97%BD%E6%B8%85/?category=18271" rel="tag">闽清</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%B9%B0%E6%B4%BE/?category=18271" rel="tag">鹰派</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%90%E5%96%8A%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/" target="cdt-mirror">抽风手戴老湿 ｜呐喊行为研究</a>
-</h2>
-<p><p>昨天有粉丝私信我：为什么每一次发生什么事儿，总会有人在其他人的的账号下留言，强行要求对方表态？</p>
-<p>我觉得这是一个很有意思的问题。</p>
-<p>每逢社交媒体爆发风口事件（比如南海仲裁，比如明星出轨，比如台独事件，比如反服贸），社会学科从业者就会非常兴奋，对于他们来说，这意味着有大量的“活体标本”出现。有幸参与过相关课题研究，还好可以做到有可奉告。</p>
-<p><strong>一、呐喊行为</strong></p>
-<p>“为什么每一次发生什么事儿，总会有人在其他人的的账号下留言，强行要求对方表态？”</p>
-<p>对于这种现象，在社会学科里有一个定义名词——呐喊行为。</p>
-<p>做出呐喊行为的人，一般使用这样一种常见表达句式在其他人账号下留言，强烈要求对方明确表达某个观点，并斥之辱骂或口头武力威胁。</p>
-<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
-<p>试举两例。</p>
-<p>“中国都要和美国打起来了，你身为中国人，为什么还穿耐克鞋？你是不是卖国贼？”</p>
-<p>“中国的南海都被菲律宾抢了，你身为中国人，竟然还在推广新歌？你是不是想被杀全家？”</p>
-<p>这是之前南海仲裁案出来后，真实出现在评论里的句子，典型的呐喊行为句式。</p>
-<p><strong>二、他们是什么人</strong></p>
-<p>拿明星的微博评论举例吧。</p>
-<p>呐喊行为的参与者，有明星的粉丝，也有其他并未关注该明星的微博用户。</p>
-<p>但比例很有意思，明星的粉丝大约占百分之十到二十，而其他并未关注该明星的微博用户，却有八十。</p>
-<p>这意味着，绝大多数，其实和明星并没有建立粉丝关系。</p>
-<p>他们当中一部分是通过转至自己首页的微博，从而跳转到明星微博，但还有很大一部，虽然没有关注明星，自己手动强行去搜的……</p>
-<p>搜完一个，留言了，不过瘾，再去搜下一个。</p>
-<p>“xxx，中国南海都被人抢了，你还有心思在这里推你的视频哦！你为什么不转中国一点都不能少的图！垃圾，去死吧你。“</p>
-<p>在这一传统呐喊行为句式说完后，他们往往还要加上一句。</p>
-<p>“白喜欢你这么久了！”</p>
-<p>之前在反台独的课题研究里，项目研究导师曾经很疑惑的摸着下巴询问我们。</p>
-<p>“我之前一直在看一个给台湾明星留言的账号，她骂了很久，最后我通过账号信息统计和追踪统计，她从来没有关注这个粉丝，也没有发过任何关于该明星的信息，账号里全是在追其他国家的明星，难道她是偷偷关注，默默喜欢？“</p>
-<p>后来一个师姐解答了他的疑惑。</p>
-<p>这就像是渣男分手时，总会说一句，我其实不想伤害你。</p>
-<p>只是想减少内心的罪恶感罢了。</p>
-<p>一句”白喜欢你这么久了“，既蕴含了自己曾经对于这个明星有过多少的憧憬和期望，又深藏了自己对该明星的失望。</p>
-<p>伤离别，离别虽然在眼前。</p>
-<p>虽然其实根本没有粉过你，也未曾动过真感情。</p>
-<p>师姐说完后，全场沉默，或许她也是个有故事的女同学。</p>
-<p>关于这些人所在的地区统计，经济发达地区也有，但不多，二级三级省市居多。</p>
-<p>因为统计基数原因，更具体的到底是哪些地区，分布形态是什么样的，就不做阐释了，需要做更科学化，专业化的数据模型研究。</p>
-<p>在更细化的社会身份上。</p>
-<p>从呐喊行为者的社会职业属性划分，集中在务工者，上班族，学生等普通群体身上，都是社会最为重要的基础人群。</p>
-<p>年龄统计，数据反映的是：15岁至35岁为最主要多数。</p>
-<p><strong>二、为什么这么做</strong></p>
-<p>法社会学认为人类的社会行为做出背后，实际上是其物质需求和精神需求的双重影响，哪怕是定义的“呐喊行为”也不例外。</p>
-<p><strong>［极端情绪宣泄］</strong></p>
-<p>出于这一目的的人群，主要集中在务工人员，收入较低工薪阶层。</p>
-<p>工作压力大，生存压力大，情感不顺，激情有，而抒发激情的地方却没有。</p>
-<p>既然物质上无法满足了，那么至少精神层面要满足一下，平时高高在上的明星，如今在大事面前，都和自己拉在同一个层面了，那么你就应该和我保持同一个态度，同一个步调，这样就可以得到心理的认同感。如果没有，那对不起，这个时候我就可以痛骂你，痛斥你。</p>
-<p>我作为一个普通老百姓，我都做出表态了，你一个平时高高在上的人物，竟然连屁都不放一个！？你作为公众人物，理应比我说的更好更积极！</p>
-<p>如果你做不到，那就休怪我不客气了。</p>
-<p>骂完了，爽。</p>
-<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
-<p>这类人群的注意力，主要是放在后半句，你是不是xxxx上，你是不是臭傻逼，你是不是卖国贼，小心我杀了你全家，小心我奸了你妈妈。</p>
-<p>前面的重要吗？</p>
-<p>不重要了。</p>
-<p><strong>［头羊效应］</strong></p>
-<p>头羊效应是指人类社群反应和羊群一样，当领头羊缺失之后，依然会下意识将前方的羊视为自己的领路者，哪怕前头那哥们儿也并不认道儿。</p>
-<p>看见人家店门口排队，自己也跟着排。</p>
-<p>看见人家看热闹，自己也跟着瞧。</p>
-<p>因为头羊效应而在他人微博下留言的的，其实是行为者的大多数。也就是我之前提到的普通职工，年轻学生，居家妈妈等普通人。</p>
-<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
-<p>从句式内容来说，他们更看重的是前半句，“xxxx都这样了”。</p>
-<p>中国都要和美国打起来了，中国南海都被夺了，中国娱乐圈都被共济会操控了，中国上中下层都完了。</p>
-<p>这是社会的焦点，也是大义的旗帜，是心中公认的正义准则。而且有人进行了质问，有人率先说出了过激的话，那么自己作为跟随者，也应当参与进去。却不考虑，除了这前半句，后面这事儿又怎么说呢，到底人家应不应该表态，如果不表态，至不至于骂卖国贼，杀全家？</p>
-<p>反正头前有人领路，且举着一面大旗，我就随大流跟着上吧。</p>
-<p>有人前来制止，便指着前面的旗子，说瞧吧，我是为了这个，但究竟这一路冲上去到底是做什么，这样的做法对不对，想来自己也不太清楚，又或者清楚过来，话已经说出口了。</p>
-<p><strong>三、反映的问题</strong></p>
-<p>社会行为通常采取分阶标签的形式，来变现它降级和升级的过程。</p>
-<p>a级：不转不是中国人——b级：xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?——c级：你卖菲律宾芒果片，摊位砸了。你开日本车，车和人都砸了。</p>
-<p>这其实是呐喊行为的递进过程标签，初级阶段是大家常见的“不转不是中国人”，停留在标签化的语言层面，而中级阶段则是语言标签加实际留言骚扰，至于最后，则是真正的暴力行为了。</p>
-<p>三者的理论基础和递进原因是一致的。</p>
-<p>在理论上，至少在理论上，呐喊行为者是更容易成为施暴者的。</p>
-<p>另外在进行数据研究的过程中，常常会将研究目标进行统合，并结合类似问卷进行调查。</p>
-<p>在我看来，调查结果是挺让人悲观的。</p>
-<p>打美国，打日本，打台湾成为了该人群最为倾向的前三选项。</p>
-<p>说白了，这就是民主基础投票的可参考数据之一。</p>
-<p>这个结果让人看的不知道该作何感想。</p>
-<p>上午的时候，有人给我发一条链接，让我看，并希望我转发。</p>
-<p>我看了，讲的是共济会和藏传佛教联合，对赵薇等人进行洗脑，讲马云90年代去美国，是接受共济会洗礼，讲现在藏传佛教和共济会达成协议，以后把中国变成政教合一国家。</p>
-<p>我说我不转。</p>
-<p>她说，别人哪怕被删帖都在拼命发声，你们这些人就只知道发发段子，写写东西，真正涉及国家利益的，都不说话了，不如吞粪？</p>
-<p>我说不是。因为我觉得这不像真的，所以我不会转。</p>
-<p>“我对你很失望，我以为你学法律，会关心正义。”</p>
-<p>对不起，让你失望了。</p>
-<p>我觉得这个社会是在变好的。</p>
-<p>十年前五年前那些极端的行为，如果重演，我相信现在会有很多人站出来阻止。</p>
-<p>会有更多愿意为国慷慨激昂直抒胸臆的人。</p>
-<p>会有更多人关心社会的进步。</p>
-<p>哪怕不成熟，哪怕稚嫩，终究是好的。</p>
-<p>可是有些事，错就是错。</p>
-<p>旗帜之下，不能藏污纳垢。</p>
-<p>“林俊杰，你作为中国人，这片土地生你养你，南海仲裁这么大的问题，你都不说话！？狗逼，老子以后再听你的歌，老子不是人。不要再有脸来中国骗钱了，也别让我知道你父母住在哪儿，要不然杀你全家。“</p>
-<p>林俊杰，1981年，生于新加坡，长于新加坡。</p>
-<p>是的。这样的人和事，会越来越少。</p>
-<p>可是只要这样的人和事还存在一天，就需要有指出错误的人。</p>
-<p>做这事儿的人不讨喜，人民群众欣欣向荣，就你丫事儿逼，非要挑点儿毛病出来，欠抽！</p>
-<p>是的。</p>
-<p>可我还是想试试。</p>
-<p><strong>4.题外话</strong></p>
-<p>说点儿别的。</p>
-<p>之前和参与研究的师兄聊天，讲起了行为者的不同学科定义。</p>
-<p>师兄：你们这些研究条条框框的，起个名字还那么问题，还呐喊行为者，听起来太文艺了。</p>
-<p>我：那你们社会行为学怎么定义这些人？</p>
-<p>师兄：我们是这么说的，假借整体因素的影响，利用语言或者其他手段……</p>
-<p>我：说人话。</p>
-<p>师兄：借着幌子，给别人添麻烦的大傻逼。</p>
-<p>我：师兄，你怎么可以说脏话呢？</p>
-<p>师兄很严肃看着我。</p>
-<p>师兄：这怎么会是脏话呢，这是科学认定的傻逼！</p>
-<p>就写到这里吧，很惭愧，只做了一点微小的工作，谢谢大家。</p>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%90%E5%96%8A%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%88%86%E8%AE%BA%E6%96%97%E4%BA%89/?category=18271" rel="tag">舆论斗争</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%96%87/?category=18271" rel="tag">赵薇事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%90%E5%96%8A%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/" target="cdt-mirror">新浪博客｜抽风手戴老湿：呐喊行为研究</a>
-</h2>
-<p><p>昨天有粉丝私信我：为什么每一次发生什么事儿，总会有人在其他人的的账号下留言，强行要求对方表态？</p>
-<p>我觉得这是一个很有意思的问题。</p>
-<p>每逢社交媒体爆发风口事件（比如南海仲裁，比如明星出轨，比如台独事件，比如反服贸），社会学科从业者就会非常兴奋，对于他们来说，这意味着有大量的“活体标本”出现。有幸参与过相关课题研究，还好可以做到有可奉告。</p>
-<p><strong>一、呐喊行为</strong></p>
-<p>“为什么每一次发生什么事儿，总会有人在其他人的的账号下留言，强行要求对方表态？”</p>
-<p>对于这种现象，在社会学科里有一个定义名词——呐喊行为。</p>
-<p>做出呐喊行为的人，一般使用这样一种常见表达句式在其他人账号下留言，强烈要求对方明确表达某个观点，并斥之辱骂或口头武力威胁。</p>
-<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
-<p>试举两例。</p>
-<p>“中国都要和美国打起来了，你身为中国人，为什么还穿耐克鞋？你是不是卖国贼？”</p>
-<p>“中国的南海都被菲律宾抢了，你身为中国人，竟然还在推广新歌？你是不是想被杀全家？”</p>
-<p>这是之前南海仲裁案出来后，真实出现在评论里的句子，典型的呐喊行为句式。</p>
-<p><strong>二、他们是什么人</strong></p>
-<p>拿明星的微博评论举例吧。</p>
-<p>呐喊行为的参与者，有明星的粉丝，也有其他并未关注该明星的微博用户。</p>
-<p>但比例很有意思，明星的粉丝大约占百分之十到二十，而其他并未关注该明星的微博用户，却有八十。</p>
-<p>这意味着，绝大多数，其实和明星并没有建立粉丝关系。</p>
-<p>他们当中一部分是通过转至自己首页的微博，从而跳转到明星微博，但还有很大一部，虽然没有关注明星，自己手动强行去搜的……</p>
-<p>搜完一个，留言了，不过瘾，再去搜下一个。</p>
-<p>“xxx，中国南海都被人抢了，你还有心思在这里推你的视频哦！你为什么不转中国一点都不能少的图！垃圾，去死吧你。“</p>
-<p>在这一传统呐喊行为句式说完后，他们往往还要加上一句。</p>
-<p>“白喜欢你这么久了！”</p>
-<p>之前在反台独的课题研究里，项目研究导师曾经很疑惑的摸着下巴询问我们。</p>
-<p>“我之前一直在看一个给台湾明星留言的账号，她骂了很久，最后我通过账号信息统计和追踪统计，她从来没有关注这个粉丝，也没有发过任何关于该明星的信息，账号里全是在追其他国家的明星，难道她是偷偷关注，默默喜欢？“</p>
-<p>后来一个师姐解答了他的疑惑。</p>
-<p>这就像是渣男分手时，总会说一句，我其实不想伤害你。</p>
-<p>只是想减少内心的罪恶感罢了。</p>
-<p>一句”白喜欢你这么久了“，既蕴含了自己曾经对于这个明星有过多少的憧憬和期望，又深藏了自己对该明星的失望。</p>
-<p>伤离别，离别虽然在眼前。</p>
-<p>虽然其实根本没有粉过你，也未曾动过真感情。</p>
-<p>师姐说完后，全场沉默，或许她也是个有故事的女同学。</p>
-<p>关于这些人所在的地区统计，经济发达地区也有，但不多，二级三级省市居多。</p>
-<p>因为统计基数原因，更具体的到底是哪些地区，分布形态是什么样的，就不做阐释了，需要做更科学化，专业化的数据模型研究。</p>
-<p>在更细化的社会身份上。</p>
-<p>从呐喊行为者的社会职业属性划分，集中在务工者，上班族，学生等普通群体身上，都是社会最为重要的基础人群。</p>
-<p>年龄统计，数据反映的是：15岁至35岁为最主要多数。</p>
-<p><strong>二、为什么这么做</strong></p>
-<p>法社会学认为人类的社会行为做出背后，实际上是其物质需求和精神需求的双重影响，哪怕是定义的“呐喊行为”也不例外。</p>
-<p><strong>［极端情绪宣泄］</strong></p>
-<p>出于这一目的的人群，主要集中在务工人员，收入较低工薪阶层。</p>
-<p>工作压力大，生存压力大，情感不顺，激情有，而抒发激情的地方却没有。</p>
-<p>既然物质上无法满足了，那么至少精神层面要满足一下，平时高高在上的明星，如今在大事面前，都和自己拉在同一个层面了，那么你就应该和我保持同一个态度，同一个步调，这样就可以得到心理的认同感。如果没有，那对不起，这个时候我就可以痛骂你，痛斥你。</p>
-<p>我作为一个普通老百姓，我都做出表态了，你一个平时高高在上的人物，竟然连屁都不放一个！？你作为公众人物，理应比我说的更好更积极！</p>
-<p>如果你做不到，那就休怪我不客气了。</p>
-<p>骂完了，爽。</p>
-<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
-<p>这类人群的注意力，主要是放在后半句，你是不是xxxx上，你是不是臭傻逼，你是不是卖国贼，小心我杀了你全家，小心我奸了你妈妈。</p>
-<p>前面的重要吗？</p>
-<p>不重要了。</p>
-<p><strong>［头羊效应］</strong></p>
-<p>头羊效应是指人类社群反应和羊群一样，当领头羊缺失之后，依然会下意识将前方的羊视为自己的领路者，哪怕前头那哥们儿也并不认道儿。</p>
-<p>看见人家店门口排队，自己也跟着排。</p>
-<p>看见人家看热闹，自己也跟着瞧。</p>
-<p>因为头羊效应而在他人微博下留言的的，其实是行为者的大多数。也就是我之前提到的普通职工，年轻学生，居家妈妈等普通人。</p>
-<p>“xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?”</p>
-<p>从句式内容来说，他们更看重的是前半句，“xxxx都这样了”。</p>
-<p>中国都要和美国打起来了，中国南海都被夺了，中国娱乐圈都被共济会操控了，中国上中下层都完了。</p>
-<p>这是社会的焦点，也是大义的旗帜，是心中公认的正义准则。而且有人进行了质问，有人率先说出了过激的话，那么自己作为跟随者，也应当参与进去。却不考虑，除了这前半句，后面这事儿又怎么说呢，到底人家应不应该表态，如果不表态，至不至于骂卖国贼，杀全家？</p>
-<p>反正头前有人领路，且举着一面大旗，我就随大流跟着上吧。</p>
-<p>有人前来制止，便指着前面的旗子，说瞧吧，我是为了这个，但究竟这一路冲上去到底是做什么，这样的做法对不对，想来自己也不太清楚，又或者清楚过来，话已经说出口了。</p>
-<p><strong>三、反映的问题</strong></p>
-<p>社会行为通常采取分阶标签的形式，来变现它降级和升级的过程。</p>
-<p>a级：不转不是中国人——b级：xxxx都这样了，你为什么为（或不为）xxxxx，你是不是xxxx?——c级：你卖菲律宾芒果片，摊位砸了。你开日本车，车和人都砸了。</p>
-<p>这其实是呐喊行为的递进过程标签，初级阶段是大家常见的“不转不是中国人”，停留在标签化的语言层面，而中级阶段则是语言标签加实际留言骚扰，至于最后，则是真正的暴力行为了。</p>
-<p>三者的理论基础和递进原因是一致的。</p>
-<p>在理论上，至少在理论上，呐喊行为者是更容易成为施暴者的。</p>
-<p>另外在进行数据研究的过程中，常常会将研究目标进行统合，并结合类似问卷进行调查。</p>
-<p>在我看来，调查结果是挺让人悲观的。</p>
-<p>打美国，打日本，打台湾成为了该人群最为倾向的前三选项。</p>
-<p>说白了，这就是民主基础投票的可参考数据之一。</p>
-<p>这个结果让人看的不知道该作何感想。</p>
-<p>上午的时候，有人给我发一条链接，让我看，并希望我转发。</p>
-<p>我看了，讲的是共济会和藏传佛教联合，对赵薇等人进行洗脑，讲马云90年代去美国，是接受共济会洗礼，讲现在藏传佛教和共济会达成协议，以后把中国变成政教合一国家。</p>
-<p>我说我不转。</p>
-<p>她说，别人哪怕被删帖都在拼命发声，你们这些人就只知道发发段子，写写东西，真正涉及国家利益的，都不说话了，不如吞粪？</p>
-<p>我说不是。因为我觉得这不像真的，所以我不会转。</p>
-<p>“我对你很失望，我以为你学法律，会关心正义。”</p>
-<p>对不起，让你失望了。</p>
-<p>我觉得这个社会是在变好的。</p>
-<p>十年前五年前那些极端的行为，如果重演，我相信现在会有很多人站出来阻止。</p>
-<p>会有更多愿意为国慷慨激昂直抒胸臆的人。</p>
-<p>会有更多人关心社会的进步。</p>
-<p>哪怕不成熟，哪怕稚嫩，终究是好的。</p>
-<p>可是有些事，错就是错。</p>
-<p>旗帜之下，不能藏污纳垢。</p>
-<p>“林俊杰，你作为中国人，这片土地生你养你，南海仲裁这么大的问题，你都不说话！？狗逼，老子以后再听你的歌，老子不是人。不要再有脸来中国骗钱了，也别让我知道你父母住在哪儿，要不然杀你全家。“</p>
-<p>林俊杰，1981年，生于新加坡，长于新加坡。</p>
-<p>是的。这样的人和事，会越来越少。</p>
-<p>可是只要这样的人和事还存在一天，就需要有指出错误的人。</p>
-<p>做这事儿的人不讨喜，人民群众欣欣向荣，就你丫事儿逼，非要挑点儿毛病出来，欠抽！</p>
-<p>是的。</p>
-<p>可我还是想试试。</p>
-<p><strong>4.题外话</strong></p>
-<p>说点儿别的。</p>
-<p>之前和参与研究的师兄聊天，讲起了行为者的不同学科定义。</p>
-<p>师兄：你们这些研究条条框框的，起个名字还那么问题，还呐喊行为者，听起来太文艺了。</p>
-<p>我：那你们社会行为学怎么定义这些人？</p>
-<p>师兄：我们是这么说的，假借整体因素的影响，利用语言或者其他手段……</p>
-<p>我：说人话。</p>
-<p>师兄：借着幌子，给别人添麻烦的大傻逼。</p>
-<p>我：师兄，你怎么可以说脏话呢？</p>
-<p>师兄很严肃看着我。</p>
-<p>师兄：这怎么会是脏话呢，这是科学认定的傻逼！</p>
-<p>就写到这里吧，很惭愧，只做了一点微小的工作，谢谢大家。</p>
-<blockquote><p>作者其他文章请看：<a href="http://chinadigitaltimes.net/chinese/tag/%E6%88%B4%E6%AD%A3%E9%98%B3/" target="_blank">戴正阳专题</a></p></blockquote>
-<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%91%90%E5%96%8A%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B4%E6%AD%A3%E9%98%B3/?category=18271" rel="tag">戴正阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%BD%91%E7%BB%9C%E4%B8%8A%E7%94%98%E5%B2%AD/?category=18271" rel="tag">网络上甘岭</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%B9%B2%E4%BA%94/?category=18271" rel="tag">自干五</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%96%87/?category=18271" rel="tag">赵薇事件</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1213,7 +1039,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3nw6kcmyopsns.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1223,5 +1049,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89
                 <td></td>
                 
         
-        <td><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du1ux2871uqvu.cloudfront.net">https://du1ux2871uqvu.cloudfront.net</a><br/></td>    </tr>
 </table>

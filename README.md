@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1rajlu05raxl4.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d3l3lkinz3f56t.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,32 @@
                 <td></td>
                 
         
-        <td><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E5%B1%B1%E4%B8%9C%E9%87%8D%E5%A4%A7%E6%95%8F%E6%84%9F%E5%A4%84%E7%BD%9A%E5%BE%8B%E5%B8%88%E6%A1%88%E4%BB%B6%E9%9C%80%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%89%B9/" target="cdt-mirror">财经网 | 山东重大敏感处罚律师案件需立案审批</a>
+</h2>
+<p><p>（记者 单玉晓 实习记者 邓瑞璇）山东《律师和律师事务所违法违规行为惩戒工作规则》（下称《规则》）已于本月起实施。7月18日，山东省司法厅律师管理处处长李凌云向财新记者表示，山东是全国首个出台《律师和律师事务所违法违规行为惩戒工作规则》的省份，“目前有些案子开始根据《规则》进行处理，但《规则》才推行两周，从操作层面来说，具体的反馈还需要等等看”。</p>
+<p>财新记者注意到，《规则》全文未对外公布，仅山东省司法行政部门官员在该《规则》新闻发布会上披露该文件主要内容，“对于重大、敏感、复杂案件，须由司法行政机关主要负责人审批立案，并报上级司法行政机关备案”等内容。</p>
+<p>山东省司法厅副巡视员刘淼介绍，《规则》共八章58条，确定了律师违法、违规行为惩戒工作管辖主体，要求司法行政机关应当逐步建立律师和律师事务所违法违规行为调查与惩戒相分离的制度，探索实行由司法行政机关牵头建立调查委员会和惩戒委员会，并吸收第三方参与调查和惩戒的工作机制。</p>
+<p>刘淼介绍了《规则》的主要内容。明确对律师和律师事务所违法行为进行行政处罚的属地原则；明确县以上司法行政机关对投诉事项依法审查处理的具体职责；进一步强化和细化司法行政机关对律师和律师事务所违法行为进行立案查处的法定职责，对于重大、敏感、复杂案件，须由司法行政机关主要负责人审批立案，并报上级司法行政机关备案；明确司法行政机关所作出的八种处理决定，使调查处理工作有章可循、方便执行等。</p>
+<p>据《大众日报》报道，在管辖方面，《规则》规定律师违反律师法律规范的违法行为，由律师所属执业机构所在地的司法行政机关查处，律师事务所的违法行为由律师事务所所在地的司法行政机关查处。异地追诉模式是指：律师在原执业机构所在地执业引起投诉的，投诉案件由原执业机构所在地司法行政机关管辖，被投诉行为延续到现执业机构所在地的，由现执业机构所在地司法行政机关管辖。投诉人就同一投诉事项，同时向司法行政机关、律师协会投诉的，可以先由律师协会办理。</p>
+<p>《规则》还明确了司法行政机关处理投诉案件的程序，并规定投诉案件应当自受理之日起60内办结。对于案情复杂的案件，经办理机关分管负责人批准并报上级司法行政机关备案，可以适当延长办理期限，但延长期不得超过30日。</p>
+<p>山东省司法厅厅长王本群称，《规则》还探索了不良执业信息记录披露和查询制度、及时发布律师失信惩戒信息等制度。“山东省司法行政机关应当在省律师协会配合下，建立全省统一的律师和律师事务所违法违规惩戒工作数据库，将律师和律师事务所违法违规及查处情况纳入全省律师和律师事务所信用管理体系，建立律师、律师事务所不良执业信息、失信惩戒信息披露和查询制度。”</p>
+<p>山东省司法厅副厅长冯军表示，《规则》设专章对“监督和责任”作了具体的规定，明确司法行政机关查处律师、律师事务所违法案件不得徇私枉法、失职渎职、消极拖延，不得以当事人之间的和解代替对违法违规行为的惩处，不得以行业处分代替行政处罚，也不得以行政处罚代替行业处分。“规则出台前，山东对律师违法、违规行为的惩戒存在司法行政机关和律师协会实施行政处罚和行业处分跟进不及时，个别律管干部、律协惩戒委员会成员存在‘不敢管、不愿管’的问题及‘不会管’的本领恐慌。”</p>
+<p>冯军称，中国《律师法》规定了律师协会对律师和律师事务所的行业管理权，《规则》第二条第二款规定：“省律师协会依照有关法律法规、协会章程和行业规范，参照本规则确立的原则和精神，制定查处律师和律师事务所违规行为的具体办法”。</p>
+<p>财新记者了解到，“律师执业违法违规惩戒制度健全完善，律师依法执业能力显著增强” 是当前深化律师制度改革的目标之一。</p>
+<p>中国《律师法》规定了律师、律师事务所的违法行为及法律责任。2010年，司法部颁布《律师和律师事务所违法行为处罚办法》，细化相关规定。2013年以来，中共十八届三中、四中全会均对健全完善律师惩戒制度提出了明确要求。四中全会要求“加强律师事务所管理，发挥律师协会自律作用，规范律师执业行为，监督律师严格遵守职业道德和职业操守，强化准入、退出管理，严格执行违法违规执业惩戒制度”。</p>
+<p>2015年9月召开的全国律师工作会议强调规范律师执业行为，严格执行违法违规执业惩戒制度，对于逾越法律底线的，要严格依法给予行政处罚和行业处分。2016年6月，中共中央办公厅、国务院办公厅印发《深化律师制度改革意见》，提到“律师执业违法违规惩戒制度健全完善，律师依法执业能力显著增强”。</p>
+<p>山东省司法厅相关人士表示，山东出台的《规则》在建立异地监督管理联动机制、跨部门沟通协调机制、不良执业信息记录披露和查询制度，及时发布律师失信惩戒信息等进行了有益探索，契合了中央在律师制度改革方面的精神。</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%B4%A2%E7%BB%8F%E7%BD%91-%E5%B1%B1%E4%B8%9C%E9%87%8D%E5%A4%A7%E6%95%8F%E6%84%9F%E5%A4%84%E7%BD%9A%E5%BE%8B%E5%B8%88%E6%A1%88%E4%BB%B6%E9%9C%80%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%89%B9/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1/?category=18271" rel="tag">中共</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">中共中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%88%B6%E5%BA%A6/?category=18271" rel="tag">制度</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95/?category=18271" rel="tag">司法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B8%E6%B3%95%E9%83%A8/?category=18271" rel="tag">司法部</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A4%87%E6%A1%88/?category=18271" rel="tag">备案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%89%B9/?category=18271" rel="tag">审批</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%AE%A1%E6%9F%A5/?category=18271" rel="tag">审查</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E5%9C%B0%E7%9B%91%E7%9D%A3/?category=18271" rel="tag">异地监督</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BE%87%E7%A7%81%E6%9E%89%E6%B3%95/?category=18271" rel="tag">徇私枉法</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%95%8F%E6%84%9F/?category=18271" rel="tag">敏感</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84/?category=18271" rel="tag">法律法规</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A/?category=18271" rel="tag">行政处罚</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84/?category=18271" rel="tag">违法违规</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8F%82%E4%B8%8E%EF%BD%9C%E8%89%BE%E6%99%93%E6%98%8E%EF%BC%9A%E9%82%A3%E4%B8%AA%E7%A9%BF%E5%A9%9A%E7%BA%B1%E7%9A%84%E5%A5%B3%E5%AD%90%E5%93%AA%E9%87%8C%E5%8E%BB%E4%BA%86%EF%BC%9F/" target="cdt-mirror">参与｜艾晓明：那个穿婚纱的女子哪里去了？</a>
 </h2>
 <p><p>图/文：艾晓明</p>
@@ -171,7 +194,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2/?category=18271" rel="tag">中国教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%AC%E6%B0%91/?category=18271" rel="tag">公民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BC%9A%E7%B2%BE%E8%8B%B1/?category=18271" rel="tag">社会精英</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B2%BE%E8%8B%B1%E6%95%99%E8%82%B2/?category=18271" rel="tag">精英教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A0%E8%B4%A8/?category=18271" rel="tag">素质</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%B4%A0%E8%B4%A8%E6%95%99%E8%82%B2/?category=18271" rel="tag">素质教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E6%B4%BE/?category=18271" rel="tag">自由派</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 10小时前</small>
+	<small> ============== 11小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E5%A7%BF%E5%8A%BF%E5%A4%AA%E5%A4%9A-%E5%9B%BD%E5%AE%B6%E6%89%BF%E5%8F%97%E4%B8%8D%E8%B5%B7%E4%BA%86/" target="cdt-mirror">【立此存照】爱国姿势太多 国家承受不起了</a>
 </h2>
@@ -979,40 +1002,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%9C%E7%BD%91-%E7%8E%8B%E5%86%B2%EF%BC%9A%E8%92%99%E5%8F%A4%E8%87%AA%E5%8F%A4%E4%BB%A5%E6%9D%A5%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%A2%86%E5%9C%9F%EF%BC%9F/" target="cdt-mirror">东网 | 王冲：蒙古自古以来就是中国的领土？</a>
-</h2>
-<p><p>作者：王冲，时事评论员</p>
-<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-%E4%B8%8B%E5%8D%882.25.58.png?resize=518%2C290" alt="Screen Shot 2016-07-16 at 下午2.25.58" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-下午2.25.58.png?w=518 518w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-下午2.25.58.png?resize=300%2C168 300w" sizes="(max-width: 518px) 100vw, 518px" data-recalc-dims="1"></p>
-<p>7月12日，在南海仲裁宣布的当天，我乘机开始了对蒙古的访问。“碰巧”和李克强访蒙一起，还见了总理一面，并合影留念。</p>
-<p>飞机上写了给香港东网的专栏，中午午餐时接受了国内网站的采访。可谓人在蒙古，心系南海。</p>
-<p>在微博和朋友圈里发布在蒙古的活动消息时，好多朋友打趣说，蒙古自古以来是中国的领土，你去给收回来吧。当然，对南海我们也是这么说的，但仲裁庭不认。</p>
-<p>蒙古自古以来就是中国的领土，这是我们教课书上写的。但咱们看看蒙古人怎么说吧：</p>
-<p>“我们是匈奴的后裔，至少是同源吧。我们伟大的祖先成吉思汗征服世界，也征服了中国，那时中国是我们的一部分。后来朱元璋这家伙闹革命，把我们打回北方。明朝灭亡后，我们和满清是盟友。1911年，孙中山驱除鞑虏，我们和满清都是鞑虏啊，那我们就撤吧，可一宣布独立，袁世凯就派徐树铮来，对我们进行野蛮的屠杀，就像日本人1937年南京大屠杀一样。从此我们就恨你们，必须要独立。在苏联大哥的帮助下，我们实现了独立，老蒋一开始同意后来后悔了，但毛先生认可了我们的独立。”</p>
-<p>中国的教课书，把成吉思汗认成了自己人，把被征服说成了一个朝代。相当的不够客观。这里面有诸多政治考虑。历史与政治的关系，颇为复杂，此处暂且不表，单说说徐树铮。</p>
-<p>徐树铮在辛亥革命后带兵到蒙古，在乌兰巴托开杀戒，在蒙古人的史书里，类似日本人制造南京大屠杀。</p>
-<p>这种杀人，是仇恨的积累，不是轻易可以搁置的。经常有中国媒体报道，说蒙古意愿提出回归中国，得到支持。这完全不符合常识。要是蒙古搞全民公投，99.9%的人不会投票选择回归中国，投赞成票的那0.1%，多半会打个半死。</p>
-<p>蒙古小姑娘如果嫁给中国人，那比中国小姑娘嫁给日本人还惨。有点儿风吹草动就会被打一顿，原因，简单啊，谁让你交给南边的“帝国主义者”啊。</p>
-<p>蒙古人是很骄傲的，虽然他们只有300万人口。当年，他们的四大帝国，涵盖了欧亚大陆的大部分，中国只是其中的一个帝国而已。欧洲人怕得要命，称蒙古入侵为“上帝之鞭”。</p>
-<p>这么骄傲的民族，你和他说“自古以来”，他会鄙视的。对于中国认成吉思汗为祖宗这事儿，他们也是极其鄙视的。</p>
-<p>一个蒙古朋友曾经得意地说，全世界八分之一的人有蒙古血统。想想也不是不可能。据说，元朝时，汉人结婚时，初夜都要给蒙古的领导。</p>
-<p>当然，这些，无从考证。不过，从外貌，很难分辨出北方的汉人和蒙古人。在蒙古，有一部分人和中国北方的汉人很像，有一部分，则像欧洲人，高颧骨，棱角分明，帅哥美女也不少。</p>
-<p>我这么写，爱国的小粉红们会不开心的。在他们眼里，中国老祖宗的每一寸土地都要拿回来。然而，你打开历朝历代的地图，会发现中国的领土不断变化，真要按照自古以来计算，就要计算那个领土最广袤的时代。如果按照这个标准，整个东亚、东南亚除日本外都要心惊肉跳一番。</p>
-<p>按照国际法，按照中国的外交思路，按照当代社会的发展模式和规律，不会那样。但按照小粉红的思路，这些都要拿回来。他们觉得，这些，比房子被拆迁和只有70年产权更重要。</p>
-<p>一言以蔽之，自古以来不是一个法律用语，在涉及领土争端时，需要更多考证和研究。</p>
-<p>当然，对于蒙古而言，警惕中国之心依旧存在，敌意也存在。但随着全面战略伙伴关系的建立，情况大有好转。</p>
-<p>7月12日，中国驻蒙古大使邢海明会见察哈尔学会代表团，介绍了这几年中蒙关系的发展，他这一任的努力已经初见成效。13日，李克强总理访问蒙古，会见在蒙古的企业界、文化界代表，当时我也在场。总理对发展中蒙关系还是很有信心的。</p>
-<p>14日晚，刚选举获胜的蒙古人民党的一个部长请我喝酒，在乌兰巴托最高的blue sky 大厦顶层畅谈到深夜。他们今年经济不好，下一步会更多仰仗和中国的经贸合作。</p>
-<p>我给他出的主意是，给中国落地签，允许自驾游，蒙古经济一下就会刺激起来。</p>
-<p>中国的重要性，从会中文的蒙古人越来越多可以看出来。当年人人学俄语，而今学中文才是有用有前途的事儿。这个小段子足以说明，就以此作为本文的结尾吧：</p>
-<p>到了蒙古才知道中国文化近年开始牛逼了﹗陪同我们的年轻人讲的都是流利中文，人家叫汉语。起的洋名不再是彼得，玛丽和丽莎。道儿基是大宝，乌云是喜儿，琪琪格是格格！没个中国名字都不好意思在蒙古上流社会混了！</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%9C%E7%BD%91-%E7%8E%8B%E5%86%B2%EF%BC%9A%E8%92%99%E5%8F%A4%E8%87%AA%E5%8F%A4%E4%BB%A5%E6%9D%A5%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%A2%86%E5%9C%9F%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">国际关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%86%B2/?category=18271" rel="tag">王冲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%8F%A4%E4%BB%A5%E6%9D%A5/?category=18271" rel="tag">自古以来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%99%E5%8F%A4/?category=18271" rel="tag">蒙古</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%99%E5%8F%A4%E5%9B%BD/?category=18271" rel="tag">蒙古国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%99%E5%8F%A4%E6%97%8F/?category=18271" rel="tag">蒙古族</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1034,5 +1023,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3otyfhltvb2vq.cloudfront.net">https://d3otyfhltvb2vq.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d23aogqa1gwht.cloudfront.net">https://d23aogqa1gwht.cloudfront.net</a><br/></td>    </tr>
 </table>

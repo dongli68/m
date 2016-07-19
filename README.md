@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%BE%9B%E5%8F%AF%EF%BD%9C%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E5%9F%B9%E5%85%BB%E7%B2%BE%E8%87%B4%E7%9A%84%E5%A5%B4%E6%89%8D%E5%92%8C%E6%B5%81%E6%B0%93/" target="cdt-mirror">辛可｜教育不是为了培养精致的奴才和流氓</a>
@@ -98,7 +98,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9F%A5%E8%AF%86%E5%88%86%E5%AD%90/?category=18271" rel="tag">知识分子</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E7%94%B1%E6%B4%BE/?category=18271" rel="tag">自由派</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2小时前</small>
+	<small> ============== 3小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5%EF%BD%9C%E5%B8%9D%E5%90%A7%E9%A3%8E%E4%BA%91%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E6%84%A4%E6%80%92%E9%9D%92%E5%B9%B4%E6%B5%81%E5%8F%98%E5%8F%B2/" target="cdt-mirror">知乎日报｜帝吧风云：互联网愤怒青年流变史</a>
 </h2>
@@ -1039,7 +1039,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d1zg4pcthrwbwl.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1049,5 +1049,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E5%AE%B6
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d3nw6kcmyopsns.cloudfront.net">https://d3nw6kcmyopsns.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

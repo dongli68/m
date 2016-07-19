@@ -21,9 +21,39 @@
                 <td></td>
                 
         
-        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://dgyqr055mfays.cloudfront.net">https://dgyqr055mfays.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8F%82%E4%B8%8E%EF%BD%9C%E8%89%BE%E6%99%93%E6%98%8E%EF%BC%9A%E9%82%A3%E4%B8%AA%E7%A9%BF%E5%A9%9A%E7%BA%B1%E7%9A%84%E5%A5%B3%E5%AD%90%E5%93%AA%E9%87%8C%E5%8E%BB%E4%BA%86%EF%BC%9F/" target="cdt-mirror">参与｜艾晓明：那个穿婚纱的女子哪里去了？</a>
+</h2>
+<p><p>图/文：艾晓明</p>
+<p>看到微信朋友圈里有关寻找秦永敏妻子赵素利的呼吁，特别是看到她儿子的诉求信，我很难过。网上流传的素利照片，不太清晰；而我当年为她拍的婚纱照还都历历在目。这些照片记录下素利永敏的美好姻缘。如今睹物思人，实在是悲哀而出乎预料。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d602fe6647ef4a51b2999374adaff6a3sml.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d602fe6647ef4a51b2999374adaff6a3sml.jpg?resize=500%2C308" alt="d602fe6647ef4a51b2999374adaff6a3sml" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d602fe6647ef4a51b2999374adaff6a3sml.jpg?w=1021 1021w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d602fe6647ef4a51b2999374adaff6a3sml.jpg?resize=300%2C185 300w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d602fe6647ef4a51b2999374adaff6a3sml.jpg?resize=768%2C473 768w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/d602fe6647ef4a51b2999374adaff6a3sml.jpg?resize=80%2C48 80w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a><br>
+（伴娘的一只手还在为她整理头饰）</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/3986c4511db441a882c5ce4c59d85988sml.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/3986c4511db441a882c5ce4c59d85988sml.jpg?resize=425%2C637" alt="3986c4511db441a882c5ce4c59d85988sml" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/3986c4511db441a882c5ce4c59d85988sml.jpg?w=1021 1021w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/3986c4511db441a882c5ce4c59d85988sml.jpg?resize=200%2C300 200w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/3986c4511db441a882c5ce4c59d85988sml.jpg?resize=768%2C1152 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/3986c4511db441a882c5ce4c59d85988sml.jpg?resize=683%2C1024 683w" sizes="(max-width: 425px) 100vw, 425px" data-recalc-dims="1"></a></p>
+<p>那笑靥如花的女子，我的同乡姐妹，你如今在哪里？</p>
+<p>两年多前，2013年12月，秦永敏新婚在即，他说请我去酒宴。我有点回避那种可能被纠缠骚扰的聚会，所以推辞说，不如你们来我家，我帮你们拍个结婚照吧。</p>
+<p>于是有了这样一些照片，当时我还发出了配图文章（附在后面）。</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5e1b17e6985042d083d9884facc035afsml.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5e1b17e6985042d083d9884facc035afsml.jpg?resize=450%2C533" alt="5e1b17e6985042d083d9884facc035afsml" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5e1b17e6985042d083d9884facc035afsml.jpg?w=1021 1021w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5e1b17e6985042d083d9884facc035afsml.jpg?resize=253%2C300 253w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5e1b17e6985042d083d9884facc035afsml.jpg?resize=768%2C909 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/5e1b17e6985042d083d9884facc035afsml.jpg?resize=865%2C1024 865w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>秦永敏在牢狱里几乎度过了半生时光，今年六十有三，再次不幸系狱。再等到出狱，至少也在古稀之年。这样的人，就是中国的西西弗斯。明知山有虎，偏向虎山行；推石上山，万死不辞。在世俗看来，简直是不识时务。改造中国有多难？无数人都盼望改变，但不会去身体力行。只有秦永敏者，以身饲虎，奋不顾身。</p>
+<p>爱上这样的人，怎会享有安宁？可想而知的经济拮据、政治风险乃至不可预测的危难，注定让秦永敏一生坎坷，包括婚姻离散。而这，也是中国的西西弗斯式政治家无法逃脱的命运。</p>
+<p>但有中原女子赵素利，飞蛾扑火，义无反顾地爱上了他。真是有情有义的好女子啊。记得我后来洗了两套照片给素利，一套留给他们自己，一套让她寄给父母。素利当时好高兴，而秦永敏则看着我和她陪笑。他对这些婆婆妈妈的事，似乎并没有太多兴趣。</p>
+<p>算起来，素利成家后的正常生活也就一年左右，而且都是在重重围困和监控之下。我大概是2014年春节后把结婚照给素利的，此后也没有再见过她。从素利儿子的信里来看，她在2015年1月19日被公安从家里带走，不久就和秦永敏一起失去自由。接着，最近律师阅卷确认消息，一年前的2015年5月8日，在秦永敏被拘捕的家属通知书上，有赵素利的签字。除此之外，赵素利的家人，没有她任何消息。</p>
+<p>我依然记得素利的朗朗笑容，不能想象这样一个女子无端消失，就人间蒸发了。</p>
+<p>暂不论权力机构对秦永敏如何治罪，先说他的妻子。在今天这个政治形势下，我不奢望对秦永敏的案件可以公正判断。如果我说，秦永敏是一个温和的、主张和平转型的公民政治家，我也不相信那些要打击迫害他的人能听进半点谏言。但是，赵素利和秦永敏的案情关系很清楚，她是被刑拘也好，释放也好，不可以回避家人的追问。最起码，应该告诉她的孩子们，母亲在哪里，最后的线索在哪里。或者直接说明，她在你们眼皮子底下被监视居住，这有什么不可以的？</p>
+<p>而且，就算你们认为赵素利会泄露什么秘密（这一点我不相信。秦永敏的观点都有公开表述，赵素利也不可能获知什么国家安全的秘密），即使出于案情考虑，依然限制赵素利的人身自由，至少要让她的家人释然：她还活在这个世界。赵威案件因为一直不让律师见当事人，以至于她受到性侵的信息不胫而走。现在，有关赵素利的安危，流传着更严重的坏消息。而警方就是不作为，难道要像玩赵威案件那样钓鱼抓牛吗？当人们的善意一再被玩弄时，公权力的公信力又在哪里？</p>
+<p>如果你们不告知赵素利的下落，一个结果是，越来越多的人参与寻找赵素利。或者，这个估计过于乐观。另一结果是，越来越多的人把法治的说辞看作骗局。像秦永敏这样的案件，在中国不止一例，但直接让家属失踪而拒不回答亲人追问者，我还没有听说过。违反法律，悖逆人伦的行为，为今天满大街贴着的中国梦、核心价值，做了一个大大的反面广告。当然，你们对各种后果习以为常，也不在乎；我也不打算在乎大街上挂着的标语。但我不能不在乎赵素利在哪里，她在养老院的老父亲的悲伤，她的儿子和姐姐的焦虑，无不令人感叹。和尚打伞，无法无天，今夕何夕，人间何世！</p>
+<p>照片是时间的艺术，国家、制度、人的生命，概莫如此。秦永敏在牢狱的枯燥时日里，注定也会翻阅记忆中妻子的倩影。而我们大家牵挂的素利，这场婚事是旷世奇缘还是人生劫难，也要交由时间来判断。素利妹妹，只希望大家的千呼万唤，能使你早日解除羁绊。至于那掌握着你目前命运的人，绝不可能永远操弄时间。我们惦念你，我们拭目以待。</p>
+<p><strong>孩子寻找妈妈启示</strong></p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/42c15a7d06374974a2b82decb6d5ce05sml.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/42c15a7d06374974a2b82decb6d5ce05sml.jpg?resize=500%2C708" alt="42c15a7d06374974a2b82decb6d5ce05sml" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/42c15a7d06374974a2b82decb6d5ce05sml.jpg?w=1021 1021w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/42c15a7d06374974a2b82decb6d5ce05sml.jpg?resize=212%2C300 212w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/42c15a7d06374974a2b82decb6d5ce05sml.jpg?resize=768%2C1087 768w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/42c15a7d06374974a2b82decb6d5ce05sml.jpg?resize=724%2C1024 724w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E5%8F%82%E4%B8%8E%EF%BD%9C%E8%89%BE%E6%99%93%E6%98%8E%EF%BC%9A%E9%82%A3%E4%B8%AA%E7%A9%BF%E5%A9%9A%E7%BA%B1%E7%9A%84%E5%A5%B3%E5%AD%90%E5%93%AA%E9%87%8C%E5%8E%BB%E4%BA%86%EF%BC%9F/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%A3%E8%A2%8B%E7%BD%AA/?category=18271" rel="tag">口袋罪</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E4%BF%9D%E8%AD%A6%E5%AF%9F/?category=18271" rel="tag">国保警察</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%BD%E4%BA%94%E5%80%8D/?category=18271" rel="tag">好五倍</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B1%B1%E5%B7%85/?category=18271" rel="tag">山巅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB/?category=18271" rel="tag">异议人士</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%85%BD%E5%8A%A8%E9%A2%A0%E8%A6%86%E5%9B%BD%E5%AE%B6%E6%94%BF%E6%9D%83/?category=18271" rel="tag">煽动颠覆国家政权</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A7%A6%E6%B0%B8%E6%95%8F/?category=18271" rel="tag">秦永敏</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E7%B4%A0%E5%88%A9/?category=18271" rel="tag">赵素利</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E9%9D%9E%E6%B3%95%E6%8B%98%E7%A6%81/?category=18271" rel="tag">非法拘禁</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E9%81%93%E6%AD%89%E5%A4%A7%E8%B5%9B%E8%84%B8%E4%B9%A6%E9%A3%8E%E9%9D%A1-%E4%B8%A4%E5%B2%B8%E7%BD%91%E6%B0%91%E5%86%8D%E6%8E%80%E5%98%B4/" target="cdt-mirror">美国之音 |  “道歉大赛”脸书风靡 两岸网民再掀嘴仗</a>
 </h2>
 <p><p>台湾活动人士王奕凯等人于上周六在社交网络“脸书”上发起了名为“第一届向中国道歉大赛”的活动。这一活动在脸书上吸引了上万人关注，很多来自台湾和香港等地的网民在脸书上用戏谑讽刺的言语向中国“道歉”，以此表达他们对于中国的种种不满。</p>
@@ -983,53 +1013,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 3天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%8B%B1%E5%9B%BD%E6%96%B0%E9%A6%96%E7%9B%B8%EF%BC%8C%E5%A5%B3%E6%9D%83%E8%83%9C%E5%88%A9%E8%BF%98%E6%98%AF%E7%8E%BB%E7%92%83%E6%82%AC%E5%B4%96%EF%BC%9F/" target="cdt-mirror">端传媒 | 英国新首相，女权胜利还是玻璃悬崖？</a>
-</h2>
-<p><p>作者：孙金昱，伦敦大学学院政治理论博士生</p>
-<div><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-%E4%B8%8B%E5%8D%882.19.44.png?resize=554%2C370" alt="2016年7月12日，特雷莎·梅在内阁会议后向传媒挥手。摄：Carl Court/GETTY" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-下午2.19.44.png?w=554 554w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-下午2.19.44.png?resize=300%2C200 300w" sizes="(max-width: 554px) 100vw, 554px" data-recalc-dims="1"><p>2016年7月12日，特雷莎·梅在内阁会议后向传媒挥手。摄：Carl Court/GETTY</p></div>
-<blockquote><p>特雷莎·梅成长于仅为女性预留出狭窄通道的年代。她为女权所鼓舞，也为男权所拣选，她站在不列颠权力之巅，她也站在不胜寒的玻璃悬崖之上。</p></blockquote>
-<p>随着英国第二任女首相特雷莎·梅（Theresa May）入主唐宁街10号，我们似乎要迎来一个女性领导人“井喷”的时代。默克尔、朴槿惠、昂山素季、蔡英文、洪秀柱这些或掌握了国家权力或政党命运的女性，与正全力争取大选胜利的希拉里，不断刷新着传统上被男性主导的政治图景。当女性走向权力顶点，其背后的性别问题，注定要成为不可被忽视的一环。</p>
-<p>更多的女性参与政治、成为政治家，直至掌握国家最高权力，自然是女性主义目标之一。性别平等作为女性主义的核心价值，必然要求女性和男性具有同等的机会在政治中做事、发声，也反对“女性领导能力相比男性较差”、“女性性情不适于政治”的预设。</p>
-<p>女性主义鼓励女性走出家庭、走进公共领域、争取领导职位，一方面是对传统上“好女儿、好妻子、好母亲”的女性刻板印象的突破，使女性不必局限于这些和家庭紧密关联的角色之中，从而拥有更广阔的自由发展空间；另一方面，这种鼓励也为年轻一代的政治想象打开更为宽广的视野。</p>
-<p>一个在男性领导人占据绝对优势的国家成长起来的孩子，很可能不知不觉接受了“男性天生更适合领导”的观念。而在默克尔执政多年的德国，女性领袖在青少年看来毫不稀奇。从这一意义上，一些<a href="http://www.telegraph.co.uk/women/politics/is-theresa-may-the-most-feminist-prime-minister-ever/">评论</a>乐观认为，特雷莎·梅的当选某种程度上是一种女性主义的革命，在性别平等议题上开启了新篇章。</p>
-<p><strong>女性领导人，不必然在乎女权</strong></p>
-<blockquote><p>然而对女性主义而言，女性政治家与领导人的出现又是远远不够的。女权与女性领导人之间并没有必然的联系。</p></blockquote>
-<p>有一种流行的理解认为：女性主义就是帮助和鼓励女性去争取更多的力量（power），成为强者，与男性分享权力。特雷莎·梅的上台，当然符合这种对女性主义的理解，然而这种理解的最大问题在于：掌权的女性完全可以不关心性别平等——自愿地或者被迫地，不让自己获得的特权惠及更多女性，也拒绝打破对女性的普遍偏见。</p>
-<p>常常被拿来和特雷莎·梅进行对比的第一位女首相撒切尔夫人就被批评未曾对女性参政与平等做出恰当的贡献。她对鼓励和推动女性参与政府工作缺乏热情，任内所推动的政策也显示：她对平等的价值普遍缺乏兴趣，这其中自然包括了性别平等。</p>
-<p>与撒切尔相比，特雷莎·梅更关心性别议题。除了被人们所熟知的内政部长的身份，特雷莎·梅也同时兼任妇女与平等部部长。2002－2003年担任党主席期间，她就被称赞帮助更多保守党女性党员获得安全席位（Safe seat，选举中最稳操胜券的候选席位）。2005年，保守党成立“Women2Win”组织，致力于帮助女性保守党员当选议员，促进女性党员得到更加公平的代表，而特雷莎·梅正是该组织的两位创建者之一，并担任主席。</p>
-<p>担任公职期间，她也参与推动若干性别平等相关法案。她推动“情感虐待”纳入家庭暴力范畴、发起对警察如何处置家庭暴力案件的全国性质询、支持父母共同承担育儿责任，以帮助女性回到职场。在同性婚姻问题上，她更是第一批表示支持的保守党议员之一。</p>
-<p>在内政部长任上的一次正式采访中，特雷莎·梅也坦然接受女性主义者这一身份。她表示，向公众展示女性可以胜任这一职位，是她努力工作的原因之一。在谷歌图片搜索中，输入关键词 Feminism （女性主义）和 Theresa May，你会立刻发现一张<a href="https://c2.staticflickr.com/4/3169/3115868250_d2089f970a_b.jpg">特雷莎·梅身着黑色T恤的图片</a>，上面写着“这就是一个女性主义者的样子（This is what a feminist looks like）”。</p>
-<p>形成有趣对照的是，梅的竞争对手安德里亚·利德索姆（Andrea Leadsom）恰恰是因为一次性别问题上的失言，最终退出首相之位的角逐，梅提前锁定首相之位。利德索姆提及特雷莎·梅没有孩子，而拥有三个孩子的自己则更能关切国家的未来，母亲的身份让她更有优势。这一言论既缺乏礼貌，也缺乏智慧，让她的首相梦提前破碎。</p>
-<p>除了这一出格言论，利德索姆在采访中也明确拒绝女性主义者的身份，甚至批评女性主义即是“仇男”（anti-man）。这一观点虽未在中文世界广泛传播，但在英国民众那里，却引起了普遍的反感。“无知”，是大多数英国民众对她这段采访表现的评价。</p>
-<p><strong>保守党背景局限女性赋权空间</strong></p>
-<p>从两名女性候选人角逐首相宝座，到“反女权”候选人退选，使女权主义候选人不战而胜，表面看起来，乐观态度有其道理：传统的社会规范在松动，公众和政界正抛弃偏见，变得更愿意接纳女性领导者，尤其是对自己女性主义立场做出明确表态的女性领导者。而从特雷莎·梅过往的经历来看，她也不像一个对其他女性同胞漠不关心，与男权体系合作，仅仅满足于巩固自己获得的特权的精英女性。</p>
-<p>但是，梅并没有得到女性主义者普遍的支持。原因之一在于，梅被认为是“说得要比做得多”。尽管她在公开场合屡次表态支持性别平等，支持女性党员参选，呼吁增加女性在议会中的代表比例，但是在实际行动上，梅显得相当保守。</p>
-<p>这些批评包括：在党内，她拒绝像工党那样实行全女性候选人制度（all-women shortlist，特定选区只允许女性参选，从而提高女性议员比例），而是将选择权留给各选区，认为保守党在提高女性代表比例上已有相当大的改变；在内政部长任内，她对待移民问题的强硬立场客观上造成了众多家庭分离，而女性由于传统上更依赖配偶和家庭，更容易受到伤害；亚尔斯伍德移民中心被爆出性侵害丑闻，梅却尴尬沉默、缺乏积极作为……</p>
-<p>归根结底，特雷莎·梅作为保守党一份子，无论她的政治理念还是可能的行动范围，注定对全女性候选人制度那样的“扶植行动（affirmative action）”更加谨慎，其眼中平等和福利的优先级别也必然相对较低。她无法满足在政治光谱上属于左翼的女性主义的全部诉求。</p>
-<p>批评特雷莎·梅个人不够女性主义的声音未免偏颇。毕竟，梅如果能够满足这些批评者的要求，她也不会是保守党党员，更不会成为今日的英国首相。问题的关键其实并不在于，自称女性主义者的特梅在立场与决策中有没有表现得足够女性主义。这种将梅置于主动位置的叙事，可能恰恰忽略了使梅不够女性主义的真正原因——女性主义所反复强调的结构性不平等问题。</p>
-<blockquote><p>问题的本质并不在于特雷莎·梅的言行不一，而在于男权主导的社会结构，留给她的空间过于狭窄逼仄。这位女首相看似励志楷模、锐意进取、踏实前进，但却很有可能一直处于被动之中。</p></blockquote>
-<p>特雷莎·梅属于一种特定的、被男权社会所接受的掌权女性的类型。她与撒切尔夫人的相似，在整个保守党改选期间为人津津乐道。她们皆为女强人，做事雷厉风行，甚至穿衣风格与神情气质都遥相呼应。种种相似之处并非纯粹的巧合。《卫报》的评论指出，两位女首相的特点，均符合政坛中对顽固强悍女性的刻板印象，即“不那么女人的女人”。正是这样的刻板印象，让投票支持她们的议员们感到舒适。</p>
-<p>换句话说，不是特雷莎·梅与撒切尔都恰好有这样的强悍风格，而是唯有如此风格，她们才能被保守党和男性主导的政界认可，才可能走到最后。此外，梅虽然在性别议题上表达明确，但是在具体行政中其实从未越界。在党内促进女性议员当选，也发生在保守党因议员性别失衡而备受批评的大背景之下。首相当然可以是女人，性别平等也可以惠及优秀杰出的女性，但是男权社会并无意彻底改变现状，而现状在她们手中依然安全稳固，这才是最重要的。</p>
-<p><strong>被推上玻璃悬崖的女人？</strong></p>
-<p>特雷莎·梅是否同样站在“玻璃悬崖”（Glass Cliff）上，则是另一重隐忧。</p>
-<p>所谓玻璃悬崖，是指在政治、经济陷入危局或混乱时，女性比男性更有可能出任领导，而这种时刻，恰恰是最可能失败的时刻。研究显示，这种情况不仅出现在政治领域，在企业中也很常见。对此，学者从不同角度给出了解释。克莉丝汀·安德森（Kristin Anderson）认为，在危机时刻，将处于玻璃悬崖上的职位提供给女性并无损失──如果女性领导人成功了，组织可以度过危机；如果她没有成功，则将成为承担责任和受到指责的对象，但组织却可以因此被表扬更重视平权。</p>
-<p>提出这一概念的学者兰恩（Michelle K. Ryan）和哈斯拉姆（Alex Haslam）则指出，女性临危受命，并不代表人们期待她们改善现状，而是认为她们更适合担当安抚角色，也更适合去承担指责。同时，女性相比于男性，更愿意接受处于玻璃悬崖上的职位，因为除了危机时刻，她们所能获得的机会并不多。</p>
-<p>英国一些<a href="https://www.theguardian.com/commentisfree/2016/jul/08/conservatives-female-leaders-feminism-margaret-thatcher-theresa-may-andrea-leadsom">评论文章</a>指出，不要将两位女性竞争首相视作一场女权革命，这只是男人们留下的又一个烂摊子，让女人去收拾而已。虽然这一结论尚需商榷，但英国政坛的历史，似乎也提供了足够多的巧合来印证这一点。</p>
-<p>历史上，撒切尔夫人一步步走向权力高峰时，正是英国保守党低迷之时，她最突出的功绩，也正是带领英国走出了严重经济危机。特雷莎·梅的升迁之路也类似。她初次当选议员之时，恰是保守党遭遇历史性惨败之际。从议员到影子内阁成员，再到首位保守党女主席，梅的顺利仕途恰恰与保守党的低迷相伴。直到她出任内政部长，所处理的都是移民控制一类难度颇大、极易引起争议的棘手问题。</p>
-<p>对女性身份给自己带来的不易与限制，特雷莎·梅有相当清醒的认识。作为女性政治家，过多展露女性的一面，容易失去人们对其能力的信任，被认为软弱、情绪化，而表现得中性、“像男人那样”，则同样可能招来批评，被认为过于无情强硬，更会被女性主义认为没有完成她们被赋予的期待和使命。</p>
-<p>德国总理默克尔有一次在音乐会上穿低胸裙装，引起争议。而她的回应只有简单的一句“因为德国总理是一个女人”；朴槿惠和蔡英文也曾因单身问题被不断<a href="https://theinitium.com/article/20160527-opinion-guaner-anti-patriarchy/">质疑、调侃、抨击</a>。特雷莎·梅始终在处理自己女性身份时小心谨慎。她告诉公众自己热爱烹饪，也不掩藏自己对高跟鞋的喜爱，但是关于她生活的细节到此为止。她希望自己创立的“Wowmen2Win”能够使更多女性获得指引，并寻找到自己的榜样。但她却同时说自己并不依靠榜样，也不愿分享自己的成长历程。</p>
-<p>一度有人质疑：如此拒绝分享自己故事的特雷莎·梅，如何能促进公共领域中出现更多的女性榜样？她的回应则是，她接触不同的女性团体、与不同的女性对话，鼓励她们、帮助她们，这本身就是对她自己的一种讲述。她不希望用讲述自己背后的故事来证明自己、鼓励他人，而是认为专注于当下的工作本身就是最好的证明。</p>
-<p>这种对私人生活的严防死守，正是梅的智慧与无奈，她担忧自己不够女性，也担忧自己太过女性。作为女性，她面临着更加严苛的评判标准和更高的期待。</p>
-<blockquote><p>特雷莎·梅成长于男权体系仅为女性预留出狭窄通道的年代；成就于女性主义对政治领袖提出更严格标准的年代；她为女权所鼓舞，也为男权所拣选；她站在不列颠权力之巅，她也站在不胜寒的玻璃悬崖之上。</p></blockquote>
-<p>对于夹缝之中的特雷莎·梅，也许时代亏欠她一份包容。</p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%8B%B1%E5%9B%BD%E6%96%B0%E9%A6%96%E7%9B%B8%EF%BC%8C%E5%A5%B3%E6%9D%83%E8%83%9C%E5%88%A9%E8%BF%98%E6%98%AF%E7%8E%BB%E7%92%83%E6%82%AC%E5%B4%96%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7/?category=18271" rel="tag">女性</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">女性主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7%E6%94%BF%E6%B2%BB%E5%AE%B6/?category=18271" rel="tag">女性政治家</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%89%B9%E8%95%BE%E8%8E%8E%C2%B7%E6%A2%85/?category=18271" rel="tag">特蕾莎·梅</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%AB%AF%E4%BC%A0%E5%AA%92/?category=18271" rel="tag">端传媒</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%8B%B1%E5%9B%BD/?category=18271" rel="tag">英国</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 3天前</small>
 </p>
 <table>
     <tr>
@@ -1041,7 +1024,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1051,5 +1034,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d33nkrvz012k0m.cloudfront.net">https://d33nkrvz012k0m.cloudfront.net</a><br/><a href="https://d1nfzinqpp07se.cloudfront.net">https://d1nfzinqpp07se.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/></td>    </tr>
 </table>

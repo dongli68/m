@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://dfsoyk1v2p32a.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://du9zdas90glfx.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,9 +21,83 @@
                 <td></td>
                 
         
-        <td><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://dfsoyk1v2p32a.cloudfront.net">https://dfsoyk1v2p32a.cloudfront.net</a><br/><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E9%81%93%E6%AD%89%E5%A4%A7%E8%B5%9B%E8%84%B8%E4%B9%A6%E9%A3%8E%E9%9D%A1-%E4%B8%A4%E5%B2%B8%E7%BD%91%E6%B0%91%E5%86%8D%E6%8E%80%E5%98%B4/" target="cdt-mirror">美国之音 |  “道歉大赛”脸书风靡 两岸网民再掀嘴仗</a>
+</h2>
+<p><p>台湾活动人士王奕凯等人于上周六在社交网络“脸书”上发起了名为“第一届向中国道歉大赛”的活动。这一活动在脸书上吸引了上万人关注，很多来自台湾和香港等地的网民在脸书上用戏谑讽刺的言语向中国“道歉”，以此表达他们对于中国的种种不满。</p>
+<p>有网民发布“道歉”说他不理解中国的民主，还表示这肯定是因为他不够聪明。</p>
+<p>另一名网民在脸书上道歉说：“我一直告知外国朋友台湾是独立的民主国家，还不断主张台湾中国，一边一国，实在抱歉”。</p>
+<p>还有网友表示“道歉”，称她买东西刻意避开中国制品，因为担心会买到“会爆炸的电子产品”，还担心会“不知吃了什么元素周期表里的东西”。</p>
+<p>其它一些网民表示“道歉”的内容还包括使用繁体字而不是简体字，电脑里没有安装防火墙不用“翻墙”就能上脸书这样的网站，以及不买中国的山寨品牌等等。</p>
+<p>这一活动为期两周。有媒体报道，获得“点赞”次数最多的“道歉”将赢得此次大赛。</p>
+<p>在这次比赛之前，中国大陆掀起了一系列道歉风波。从今年1月开始，香港艺人王喜、台湾艺人周子瑜、戴立忍、日本艺人水原希子因被中国网民抨击有侮辱已故领导人、辱华或是支持台独等言论先后发表公开道歉和澄清。</p>
+<p>而针对“第一届向中国道歉大赛”，有人在中国的社交媒体微博上发起了“第一届向台湾省道歉大赛”，还有人在脸书上发起了“第一届不接受道歉大赛”，以此作为回击。</p>
+<p>据英国广播公司的报道，有网民为没有落入电信诈骗的圈套而道歉。还有大陆网民讥笑台独梦破灭。</p>
+<p>这已经不是两岸网民第一次在社交媒体上展开唇枪舌剑了。此前中国百度知名贴吧“李毅吧”（又名“帝吧”）在今年1月在线发起了所谓的“帝吧出征”活动，组织大批大陆网民翻墙上“蔡英文Tsai Ing-wen”的脸书主页以及“三立新闻”等媒体的主页上发表反对台湾独立等言论，并与一些有不同看法的网民舌战。</p>
+<p>部分推特上的道歉大赛内容：</p>
+<blockquote><p>@figarotwo：對不起，我入境深圳跟外國人走同一條通道 #第一屆向中國道歉大賽</p>
+<p>@GYTV：我就是这届人民，很不行，对不起。 #第一屆向中國道歉大賽</p>
+<p>@Peilun0912：我很高興自己是臺灣人，而不是中國人，真對不起。 #第一屆向中國道歉大賽</p>
+<p>@MyDF：微博被销号，这一次新浪没有直接删除帖子，也没有因为“不实信息”而使用信用扣分规则，直接封帐号，给出的理由是“经核实由于此微博出现发布有害信息等违规行为”。我原以为信息只有真实或不真实的区别，“有害信息”这个指控让我得到了升华，在此向新浪道歉，伤害到你们了。 #第一屆向中國道歉大賽</p>
+<p>@MyDF：中国共产党是中国人民的选择，中国人民素质低，我知道错了。 #第一屆向中國道歉大賽</p>
+<p>@jimmy_su：明明是一個中國，賣東西到祖國還要付國際運費報關被抽關稅，肯定是一小撮台獨份子害祖國不要我們了。 #第一屆向中國道歉大賽</p>
+<p>@shangguanluan：但凡“是中国人就转”的文章，我都没有转；但凡“是中国人就抵制苹果/芒果/香蕉”的，我都不抵制（干嘛都跟水果过不去，爱国成本真低）……可是，我都仍然是中国人，感觉被骗了。而且，因此，很遗憾没法参加第一届向中国道歉大赛。</p></blockquote>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E9%81%93%E6%AD%89%E5%A4%A7%E8%B5%9B%E8%84%B8%E4%B9%A6%E9%A3%8E%E9%9D%A1-%E4%B8%A4%E5%B2%B8%E7%BD%91%E6%B0%91%E5%86%8D%E6%8E%80%E5%98%B4/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%80%E5%B0%8F%E6%92%AE/?category=18271" rel="tag">一小撮</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E4%BA%BA/?category=18271" rel="tag">中国人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A/?category=18271" rel="tag">中国共产党</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86/?category=18271" rel="tag">中国大陆</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91/?category=18271" rel="tag">中国网民</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E6%B9%BE%E8%89%BA%E4%BA%BA/?category=18271" rel="tag">台湾艺人</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8F%B0%E7%8B%AC/?category=18271" rel="tag">台独</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89/?category=18271" rel="tag">向中国道歉</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%9C%89%E5%AE%B3%E4%BF%A1%E6%81%AF/?category=18271" rel="tag">有害信息</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/?category=18271" rel="tag">社交媒体</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C/?category=18271" rel="tag">社交网络</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 1小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%80%E5%88%87%E7%88%B1%E5%9B%BD%E8%A1%8C%E4%B8%BA%EF%BC%8C%E9%83%BD%E8%A6%81%E6%8E%A5%E5%8F%97%E6%B3%95%E5%BE%8B%E6%A3%80%E9%AA%8C/" target="cdt-mirror">精读党报｜一切爱国行为，都要接受法律检验</a>
+</h2>
+<p><p>【编者注】微信公号原文已被和谐。以下内容来自<a href="http://chuansong.me/" target="_blank">传送门</a>。</p>
+<p><em><strong>作者：杜宝俊</strong></em></p>
+<p>最近，由南海问题处发，裹挟赵薇事件，一场“爱国运动”从互联网上已经蔓延到了线下。7月17日河北省乐亭县“爱国群众”线下围堵肯德基的行动，已经多点开花。</p>
+<p>据精读党报掌握到的信息，江苏省扬州市、河北省廊坊市、湖南省郴州市、河南省濮阳市等地亦发生围堵肯德基事件。</p>
+<p>从情感上，“爱国群众”捍卫领土和“一中原则”的热情可以理解。</p>
+<p>大陆民众无法接受有“台独”立场的台湾演员，这无可厚非。</p>
+<p>在四五线的地级市，没有美国大使馆，也没有美国领事馆，肯德基作为美国文化的标志性象征<small>（麦当劳就没有这个“政治地位”）</small>，“爱国群众”选择不吃肯德基，在不干扰营业的前提下，在门口喊几嗓子口号，这种朴素的爱国情感，也能够理解。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image4.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image4.jpg?resize=450%2C289" alt="image4" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image4.jpg?w=600 600w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image4.jpg?resize=300%2C193 300w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>至于一些“爱国者”们砸碎自己的苹果手机，烧掉自己的NB运动鞋，扔掉自己的耐克运动衫，拔掉自己的网线，我们除了说一声“可惜”，刻薄一点的再嘀咕一声“真蠢”之外，还真无法干涉人家的这种自由。</p>
+<p>但是，一些行为明显越界了。</p>
+<p>互联网上，有人凭空指证赵薇是一个新加坡人；有人造谣一个普通手势是什么“共济会”标志性手势；有人声称赵薇及背后的资本集团控制了中国媒体；更还有子虚乌有的“万惠事件”……</p>
+<p><a href="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image3.jpg"><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image3.jpg?resize=450%2C246" alt="image3" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image3.jpg?w=600 600w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image3.jpg?resize=300%2C164 300w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></a></p>
+<p>以上种种，已经完全超出了言论自由的范围，已经构成了对他人的诽谤，造成了社会的对立和撕裂，其负面影响，不容低估。</p>
+<p>更让人莫名惊诧的是，像“共青团中央”这样的大V账号，也不负责任转发那些虚假、错误言论。无论主观动机如何，客观上都起到了推波助澜作用。</p>
+<p><strong>境外有人造谣武汉市委书记阮成发被抓，武汉网警出来辟谣，以正视听；</strong></p>
+<p><strong>境内有人造谣一个中国演员是外国人，还勾结莫名其妙的“共济会”，怎么就没有人给她以正视听呢？</strong></p>
+<p>至于线下的，从网上流传的照片和视频片段看，大量“爱国群众”闯入肯德基店内，高呼口号，围堵食客，已经严重干扰了肯德基正常合法的营业活动，也侵犯了食客的权利。</p>
+<p><a href="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image2.jpg"><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image2.jpg?resize=500%2C190" alt="image2" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image2.jpg?w=1280 1280w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image2.jpg?resize=300%2C114 300w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image2.jpg?resize=768%2C292 768w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image2.jpg?resize=1024%2C390 1024w" sizes="(max-width: 500px) 100vw, 500px" data-recalc-dims="1"></a></p>
+<p>城管哪儿去了？警察哪儿去了？</p>
+<p>肯德基进入中国，已经快30年了。1987年第一家店在北京前门开业，还曾经是中国改革开放的标志性事件。习近平总书记上任以来，但凡是个国际场合，都要强调，中国开放的大门永远不会关上。</p>
+<p>作为一家合法经营的连锁餐饮企业，肯德基无论是食品安全、店内卫生、服务态度，直到今天仍然优于不少本土餐馆。</p>
+<p>不说上下游产业带来的机会，单单是全国肯德基门店，就提供了数万的就业岗位。</p>
+<p>别说这样一家优秀企业，任何一家合法经营的企业，我们的政府都有责任，保护它正常经营。</p>
+<p><strong>我们都知道，在中国，游行是要向公安局申请并获批准的，即使是经批准的游行，一不能破坏社会秩序，二不能破坏公私财物，三不能侵害他人身体。</strong></p>
+<p>2012年9月，河南“爱国”青年蔡洋，在西安“反日游行”中，持U型锁砸穿日系车主李建利颅骨，以故意伤害罪，领刑十年，就是殷鉴。</p>
+<p><a href="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image.jpg"><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image.jpg?resize=350%2C522" alt="image" srcset="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image.jpg?w=408 408w, https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/image.jpg?resize=201%2C300 201w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1"></a></p>
+<p>在多地出现干扰肯德基营业的聚集事件中，目前没有证据显示这些游行示威经过了警方批准。目前的事态，已经干扰了市场主体的合法经营。一些乱象，已经引发了社会的担忧，甚至恐慌。担忧什么？担忧规则破窗，担忧法治不彰，担忧社会失序。</p>
+<p>今年是WG爆发50周年，在有关部门看来，对WG的担忧纯属多余，因为中国正在进行全面改革，领导人无论走到哪儿，讲的都是改革，都是开放。</p>
+<p>但最近这股“爱国运动”中出现的非理性行为，以及政府职能部门的缺位，已然再次触发这种忧虑，忧虑很多来自企业界、来自知识界，他们是最敏感的一群人，必须引起重视。</p>
+<p>精读党报也欣慰看到，一些主流媒体相继发出了声音：</p>
+<p>人民日报海外版旗下的“侠客岛”首先就赵薇事件发声，指出这是“以抵制外敌入侵的名义，抵制同胞”。</p>
+<p>新华网也澄清了苹果手机输入法“击沉中国”的真相。</p>
+<p>澎湃发表了社论，《爱国不应该折腾自己人》。</p>
+<p>凤凰网发表评论，《围堵肯德基，别将滋事当爱国》。</p>
+<p><strong>但这些还不够，主流媒体固然要在“澄清谬误，明辨是非”上，拿出进一步的作为。但职能部门，更应该用保护官员名誉权的标准保护每一个人，不独赵薇；用保护政府机关的措施保护每一家合法企业，不独肯德基。</strong></p>
+<p>无论线上还是线下，无论以什么名义，任何突破法律底线的行为，都应该受到制止。一切爱国行为，都要接受法律的检验。</p>
+<hr><p><small>© Sandra Fu for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E4%B8%80%E5%88%87%E7%88%B1%E5%9B%BD%E8%A1%8C%E4%B8%BA%EF%BC%8C%E9%83%BD%E8%A6%81%E6%8E%A5%E5%8F%97%E6%B3%95%E5%BE%8B%E6%A3%80%E9%AA%8C/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%85%B1%E9%9D%92%E5%9B%A2%E4%B8%AD%E5%A4%AE/?category=18271" rel="tag">共青团中央</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%B0%8F%E7%B2%89%E7%BA%A2/?category=18271" rel="tag">小粉红</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B4%97%E8%84%91%E6%95%99%E8%82%B2/?category=18271" rel="tag">洗脑教育</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%B5%B5%E8%96%87/?category=18271" rel="tag">赵薇事件</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 2小时前</small>
+</p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%9C%9F%E7%90%86%E9%83%A8%E3%80%91-40/" target="cdt-mirror">【真理部】非法集会游行信息</a>
 </h2>
 <p><p>重申对<a href="http://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E6%B2%B3%E8%9F%B9%E6%A1%A3%E6%A1%88%E3%80%91-145/" target="_blank">近期有关非法集会游行信息</a>不炒作，不传播。注意删除煽动性信息。</p>
@@ -35,7 +109,7 @@
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81/?category=18271" rel="tag">南海仲裁</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E5%86%B2%E7%AA%81/?category=18271" rel="tag">南海冲突</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%9C%9F%E7%90%86%E9%83%A8%E6%8C%87%E4%BB%A4/?category=18271" rel="tag">真理部指令</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 3小时前</small>
+	<small> ============== 4小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E8%BE%9B%E5%8F%AF%EF%BD%9C%E6%95%99%E8%82%B2%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E5%9F%B9%E5%85%BB%E7%B2%BE%E8%87%B4%E7%9A%84%E5%A5%B4%E6%89%8D%E5%92%8C%E6%B5%81%E6%B0%93/" target="cdt-mirror">辛可｜教育不是为了培养精致的奴才和流氓</a>
 </h2>
@@ -68,6 +142,29 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 4小时前</small>
+</p><h2>
+	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E5%A7%BF%E5%8A%BF%E5%A4%AA%E5%A4%9A-%E5%9B%BD%E5%AE%B6%E6%89%BF%E5%8F%97%E4%B8%8D%E8%B5%B7%E4%BA%86/" target="cdt-mirror">【立此存照】爱国姿势太多 国家承受不起了</a>
+</h2>
+<p><p>@cctvWeb：借爱国贼势炒作的鸡贼公司 杭州比纳</p>
+<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnsqCXLUIAAYdxB.jpg?resize=576%2C586" alt="CnsqCXLUIAAYdxB" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnsqCXLUIAAYdxB.jpg?w=576 576w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnsqCXLUIAAYdxB.jpg?resize=295%2C300 295w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/CnsqCXLUIAAYdxB.jpg?resize=70%2C70 70w" sizes="(max-width: 576px) 100vw, 576px" data-recalc-dims="1"></p>
+<p>@茶如人生9：出差坐飞机不得坐波音飞机，只能选择运七，联系业务不能用互联网，只能用书信，否则开除。</p>
+<p>@S丶YY丶：这样的公司不待也罢。</p>
+<p>@ZHAOKUNYI_：这是一个已经疯狂的公司。</p>
+<p>@szshu：买7被开除，公司违法劳动法，要n+1赔偿员工，这个要赞！</p>
+<p>@ln_bo: 遇上这样的傻逼老板，还是赶快辞职吧！</p>
+<p>——————————————————</p>
+<p>@李方平律师：【福建日报业委会呼吁抵制美、日、菲货】福建日报业主的爱国壮举，河北乐亭爱国青年身体力行之！训练宪法权利，不打人就是好事！</p>
+<p><img src="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdjw1f5x94gxhrcj20jy0zktcc-1.jpg?resize=450%2C802" alt="6a80bfcdjw1f5x94gxhrcj20jy0zktcc" srcset="https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdjw1f5x94gxhrcj20jy0zktcc-1.jpg?w=690 690w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdjw1f5x94gxhrcj20jy0zktcc-1.jpg?resize=168%2C300 168w, https://i0.wp.com/chinadigitaltimes.net/chinese/files/2016/07/6a80bfcdjw1f5x94gxhrcj20jy0zktcc-1.jpg?resize=574%2C1024 574w" sizes="(max-width: 450px) 100vw, 450px" data-recalc-dims="1"></p>
+<p>@贝尔盟：先抵制蠢货吧，一步一步来。</p>
+<p>@朝吟暮醉：不明所以。</p>
+<p>@山顶的小顽石：福建日报的福利房吗？</p>
+<hr><p><small>© 无可奉告 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
+<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E7%AB%8B%E6%AD%A4%E5%AD%98%E7%85%A7%E3%80%91%E7%88%B1%E5%9B%BD%E5%A7%BF%E5%8A%BF%E5%A4%AA%E5%A4%9A-%E5%9B%BD%E5%AE%B6%E6%89%BF%E5%8F%97%E4%B8%8D%E8%B5%B7%E4%BA%86/">Permalink</a> |
+<br>
+Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E4%BB%B2%E8%A3%81%E6%A1%88/?category=18271" rel="tag">南海仲裁案</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%B0%91%E6%97%8F%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">民族主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E4%B8%BB%E4%B9%89/?category=18271" rel="tag">爱国主义</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%88%B1%E5%9B%BD%E8%B4%BC/?category=18271" rel="tag">爱国贼</a><br>
+订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
+<p>
+	<small> ============== 5小时前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E3%80%90%E5%9B%BE%E8%AF%B4%E5%A4%A9%E6%9C%9D%E3%80%91%E7%88%B1%E5%9B%BD%E5%A7%BF%E5%8A%BF%E5%A4%AA%E5%A4%9A-%E5%9B%BD%E5%AE%B6%E6%89%BF%E5%8F%97%E4%B8%8D%E8%B5%B7%E4%BA%86/" target="cdt-mirror">【图说天朝】爱国姿势太多 国家承受不起了</a>
 </h2>
@@ -933,71 +1030,6 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
 	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/betterread-%E5%86%9B%E9%98%9F%E4%BD%95%E6%97%B6%E5%B9%B2%E6%94%BF/" target="cdt-mirror">BetterRead | 军队何时干政</a>
-</h2>
-<p><p>文｜王烁</p>
-<p>土耳其今日政变，近年用军队解决政治纷争的尝试，多出一个案例。</p>
-<p>不过，与军人为什么干政这个问题相比，更有趣的问题是：军人为什么不干政?</p>
-<p>这也是政治学大家Samuel Finer的名著 《马背上的人：军队在政治中的角色》中的核心问题，它为军人干政这个主题提供了完整的分析框架。</p>
-<p>军队组织严密，凝聚忠诚，垄断武力，为什么军队干政是现代社会的例外而非常态？</p>
-<p>因为军队干政有根本的弱点：不具备管理社会的能力，更重要的是没有合法性。</p>
-<p>军队政变在欠发达国家成功率高一些，转入长期执政的机会也大一些，因为这些国家的经济分工和社会整合相对简单。但在发达社会，不可想象军人政变后长期用命令体制主导社会，这些国家经济既深且广，分工很细，军队缺乏所需的技术能力。</p>
-<p>合法性是更大的难题，充分说明观念对人类社会的影响力之大。中古以前，马上得天下是天经地义的事情，但到现代社会就只接受民主共和政体的合法性，历史上流传至今的君主制还有优容的余地，但逆共和入专制，再无获得合法性的可能。袁世凯100年前已为之殉葬。</p>
-<p>军队干政还有其他难题。比如，如果军人被允许根据其政见采取行动，那么军队本身会分裂。有人群的地方都有左中右，军队也不例外，但跟舆论场用批判作武器不同，军人用武器作批判的后果是毁灭性的。军队分裂，则对外丧失战斗力，对内造成内战风险，军队难以承受，社会不能承受。</p>
-<p>所以，进入现代以来，只在特定时候军队才会干政。Finer认为主要是三种情况：</p>
-<p>–军队认为自己必須要保护国家免受现政权的侵害时；</p>
-<p>–军队认为只有自己才能裁决国内不可调和的政治纷争时； </p>
-<p>–军队认为只有自己才有能力决定军队的大小、组织和装备时；</p>
-<p>Finer的分析框架产生于60年前，仍适用于近年来从泰国到土耳其的历次军事政变。只不过，谁赋予军队以作出这些判断的权力？</p>
-<p>没有。这是军人用枪为自己赋予的权力。所以，军队与政治处于永恒的紧张关系之中。</p>
-<p>一方面，战争创造国家，这是人类学、历史学、政治学的共同发现。连国家都是由战争缔造，那军队作为战争机器自然是政治的最重要模块。古今中外，史实昭然。</p>
-<p>另一方面，现代社会的共识是军队应该被隔离在政治之外，军人不能干政。无论是苏联体系下的“党指挥枪”主旋律，还是英美体系下的军队国家化，在此一致。政治家决策，军人执行。让政治的归政治，而军人的归军人，军人专心做邦之柱石、国之爪牙。</p>
-<p>可是，这个共识本质上是脆弱的，它必须托付给全社会的价值观、规范、宪法和人心，用这些层层保护起来。无他，军队力量太过强大，只要它拿定主意，社会没有可与之抗衡的力量。所以整个现代史也是这样一部政治-军队关系史：创建军队并运用它达到目的，然后喂饱它，麻痹它，制衡它，羁縻它，欺骗它，监视它，拒绝它的一切政治诉求，只允许它保有对主人的绝对忠诚，以此为前提其他一切都可以商量。</p>
-<p>所以，现代军队不是完整组织，而是弱智巨人，相对于其他组织来说力量接近于无穷大，而自我意识越接近于无越好。</p>
-<p>军队不干政成为现代社会共同维护的神话，这样安排是有原因的：军队介入政治，政治就失去了遮羞布的保护，进入血与火的较量，代价太过沉重。</p>
-<p>著名政治学者亨廷顿甚至说，现代军人不干政，最重要的理由就是职业化。军人视从军为一种职业，在职业内部找到其抱负实现的舞台。好比科学家以科学发现为其抱负实现的的最终证据，军人以攀至这个职业的顶峰为其成就的证明，而视政治为市民的庸俗游戏。科学家何曾关心政治？现代军人亦当如是。</p>
-<p>很遗憾，事情没有这么简单。当宪政废驰，人心渐散，法治不彰，社会分裂，权力出现真空，军队迟早会意识觉醒，产生更宏大的报负。</p>
-<p>现代政治格局本就是由军人塑造。19世纪以后，从博斯普鲁斯海峡往东直至太平洋的这片大陆，衰败帝国帝国梦醒有关，古老民族急需走现代化道路，摆脱被殖民命运，重建国家，富国强兵。可惜，在西力东渐后过百年的应激反应中，稳固宪政民主政治出现是例外。</p>
-<p>阿拉伯世界应对西力东渐，多从一战后奥斯曼士耳其瓦解讲起，英法在阿拉伯世界的势力达到顶峰。救亡与现代化同样是阿拉伯世界20世纪前半叶的主题。西方势力、君主制、纳赛尔主义、泛阿拉伯主义、共产主义、阿拉伯社会主义、伊斯兰运动百舸争流。在中国也有过相似的光谱：中学为体西学为用、变法维新、革命、三民主义、列宁主义，也有义和团。</p>
-<p>1950年代以后，“阿拉伯人民从此也站起来了”。纳赛尔主义在埃及得政，阿拉伯社会主义在叙利亚、伊拉克上台，君主制在约旦草创。阿拉伯世界没有回归一统， 分头进入民族独立和世俗现代化时期。用新式武器和新式练兵法训练出来的军人是阿拉伯世俗现代化的最主要推动力量。这一幕似曾相识，晚清的掘墓人也是新军。军队是这片大陆进入现代化的先头部队。</p>
-<p>军队不能干政，因为政治的逻辑是力量决定规则，而军队垄断暴力。凯末尔以一已之力，用军队作工具创立世俗体制的现代土耳其国家，然后力迫军队隐退，成为现代化体制的守护者。这是阿拉伯世界现代化的惟一样板，但今天在埃尔多万体制下也重新面临考验。</p>
-<p>在其他地方，播下龙种收获跳蚤更是常态。阿拉伯世俗政权大多演变成以强人为领袖、以军队和秘密警察为支柱的专制政权。在叙利亚、战前的伊拉克、埃及、利比亚，世俗的专制政权还走向世袭的专制政权。阿拉伯世界各种主义和道路之争，百年来走在暴力加剧的螺旋里，恶与恶相互激发，最暴力者胜出。</p>
-<p>今天，演变出到新一幕：“伊斯兰国”用超限暴力，试图驱使穆斯林社会回归伊斯兰教法之治，并迫使非穆斯林社会与其决一死战。</p>
-<p>如果一个社会必须在军人干政与“伊斯兰国”之间二选一，这是不可能正确的选择，只能祝福那些不能不作出选择的政治家。至于其他国家的政治家和人民，首先要避免陷入这个处境。</p>
-<p><img src="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-%E4%B8%8B%E5%8D%882.13.40.png?resize=332%2C504" alt="Screen Shot 2016-07-16 at 下午2.13.40" srcset="https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-下午2.13.40.png?w=332 332w, https://i2.wp.com/chinadigitaltimes.net/chinese/files/2016/07/Screen-Shot-2016-07-16-at-下午2.13.40.png?resize=198%2C300 198w" sizes="(max-width: 332px) 100vw, 332px" data-recalc-dims="1"></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/betterread-%E5%86%9B%E9%98%9F%E4%BD%95%E6%97%B6%E5%B9%B2%E6%94%BF/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/2016%E5%9C%9F%E8%80%B3%E5%85%B6%E6%94%BF%E5%8F%98/?category=18271" rel="tag">2016土耳其政变</a>, <a href="https://chinadigitaltimes.net/chinese/tag/betterread/?category=18271" rel="tag">BetterRead</a>, <a href="https://chinadigitaltimes.net/chinese/tag/isis/?category=18271" rel="tag">ISIS</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E6%94%BF%E5%BA%9C/?category=18271" rel="tag">军政府</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F/?category=18271" rel="tag">军队</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%86%9B%E9%98%9F%E6%94%BF%E5%8F%98/?category=18271" rel="tag">军队政变</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9C%9F%E8%80%B3%E5%85%B6/?category=18271" rel="tag">土耳其</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E5%8F%98/?category=18271" rel="tag">政变</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA/?category=18271" rel="tag">政治理论</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF-%E6%97%A5%E6%9C%AC%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/" target="cdt-mirror">抽风手戴老湿 | 日本普通人对中国怎么看？</a>
-</h2>
-<p><p>@<a href="http://weibo.com/daiixiaoye001" target="_blank">抽风手戴老湿</a>：问与答——这是一份问答整理。 提问者是我，翻译人是我在东大和庆应义塾的朋友，他们根据问题采访日本国民，并记录下他们的回答。 问题都是我瞎提的，想问啥问啥。 至于回答，也不具有代表性，我觉得有意思，就收录了。  （<a title="2015-07-22 00:26" href="http://weibo.com/2022400275/Csccp31YZ?from=page_1035052022400275_profile&wvr=6&mod=weibotime" target="_blank" name="3867200810722609">2015-7-22 00:26</a> ）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/788b6113jw1euauzlsg29j20rik407wi-1.jpg?resize=600%2C15797" alt="788b6113jw1euauzlsg29j20rik407wi" data-recalc-dims="1"></p>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF-%E6%97%A5%E6%9C%AC%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中日关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B4%E6%AD%A3%E9%98%B3/?category=18271" rel="tag">戴正阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF/?category=18271" rel="tag">抽风手戴老湿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC%E4%BA%BA/?category=18271" rel="tag">日本人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
-</p><h2>
-	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF-%E6%97%A5%E6%9C%AC%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/" target="cdt-mirror">新浪微博｜抽风手戴老湿：日本普通人对中国怎么看？</a>
-</h2>
-<p><p>@<a href="http://weibo.com/daiixiaoye001" target="_blank">抽风手戴老湿</a>：问与答——这是一份问答整理。 提问者是我，翻译人是我在东大和庆应义塾的朋友，他们根据问题采访日本国民，并记录下他们的回答。 问题都是我瞎提的，想问啥问啥。 至于回答，也不具有代表性，我觉得有意思，就收录了。  （<a title="2015-07-22 00:26" href="http://weibo.com/2022400275/Csccp31YZ?from=page_1035052022400275_profile&wvr=6&mod=weibotime" target="_blank" name="3867200810722609">2015-7-22 00:26</a> ）</p>
-<p><img src="https://i1.wp.com/chinadigitaltimes.net/chinese/files/2016/07/788b6113jw1euauzlsg29j20rik407wi-1.jpg?resize=600%2C15797" alt="788b6113jw1euauzlsg29j20rik407wi" data-recalc-dims="1"></p>
-<blockquote><p>作者其他文章请看：<a href="http://chinadigitaltimes.net/chinese/tag/%E6%88%B4%E6%AD%A3%E9%98%B3/" target="_blank">戴正阳专题</a></p></blockquote>
-<hr><p><small>© 审查你妹 for <a href="https://chinadigitaltimes.net/chinese">中国数字时代</a>, get_post_time('Y'). |
-<a href="https://chinadigitaltimes.net/chinese/2016/07/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF-%E6%97%A5%E6%9C%AC%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F/">Permalink</a> |
-<br>
-Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">中日关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%88%B4%E6%AD%A3%E9%98%B3/?category=18271" rel="tag">戴正阳</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%8A%BD%E9%A3%8E%E6%89%8B%E6%88%B4%E8%80%81%E6%B9%BF/?category=18271" rel="tag">抽风手戴老湿</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC/?category=18271" rel="tag">日本</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E6%97%A5%E6%9C%AC%E4%BA%BA/?category=18271" rel="tag">日本人</a><br>
-订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
-<p>
-	<small> ============== 2天前</small>
 </p>
 <table>
     <tr>
@@ -1009,7 +1041,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d22weoaxwadxjh.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1019,5 +1051,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E6%97%A5
                 <td></td>
                 
         
-        <td><a href="https://d22weoaxwadxjh.cloudfront.net">https://d22weoaxwadxjh.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d1rajlu05raxl4.cloudfront.net">https://d1rajlu05raxl4.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://d3l3lkinz3f56t.cloudfront.net">https://d3l3lkinz3f56t.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>

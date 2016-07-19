@@ -11,7 +11,7 @@
         target="cdt-rss">RSS <img
         src="../../raw/master/x/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://db4ntzw9weua3.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d2tnzki5qovk8o.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -21,7 +21,7 @@
                 <td></td>
                 
         
-        <td><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d1zg4pcthrwbwl.cloudfront.net">https://d1zg4pcthrwbwl.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/></td>    </tr>
 </table>
 <h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%BE%8E%E5%9B%BD%E4%B9%8B%E9%9F%B3-%E9%81%93%E6%AD%89%E5%A4%A7%E8%B5%9B%E8%84%B8%E4%B9%A6%E9%A3%8E%E9%9D%A1-%E4%B8%A4%E5%B2%B8%E7%BD%91%E6%B0%91%E5%86%8D%E6%8E%80%E5%98%B4/" target="cdt-mirror">美国之音 |  “道歉大赛”脸书风靡 两岸网民再掀嘴仗</a>
@@ -982,7 +982,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%B8%AD%E5%9B%BD
 Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4/?category=18271" rel="tag">以史为鉴</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%8D%97%E6%B5%B7%E9%97%AE%E9%A2%98/?category=18271" rel="tag">南海问题</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E5%9B%BD%E9%99%85%E5%85%B3%E7%B3%BB/?category=18271" rel="tag">国际关系</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E7%8E%8B%E5%86%B2/?category=18271" rel="tag">王冲</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%87%AA%E5%8F%A4%E4%BB%A5%E6%9D%A5/?category=18271" rel="tag">自古以来</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%99%E5%8F%A4/?category=18271" rel="tag">蒙古</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%99%E5%8F%A4%E5%9B%BD/?category=18271" rel="tag">蒙古国</a>, <a href="https://chinadigitaltimes.net/chinese/tag/%E8%92%99%E5%8F%A4%E6%97%8F/?category=18271" rel="tag">蒙古族</a><br>
 订靠谱新闻 获穿墙捷径 请发电邮(最好用gmail)至：sub@chinadigitaltimes.net<br></small></p></p>
 <p>
-	<small> ============== 2天前</small>
+	<small> ============== 3天前</small>
 </p><h2>
 	<a href="https://chinadigitaltimes.net/chinese/2016/07/%E7%AB%AF%E4%BC%A0%E5%AA%92-%E8%8B%B1%E5%9B%BD%E6%96%B0%E9%A6%96%E7%9B%B8%EF%BC%8C%E5%A5%B3%E6%9D%83%E8%83%9C%E5%88%A9%E8%BF%98%E6%98%AF%E7%8E%BB%E7%92%83%E6%82%AC%E5%B4%96%EF%BC%9F/" target="cdt-mirror">端传媒 | 英国新首相，女权胜利还是玻璃悬崖？</a>
 </h2>
@@ -1041,7 +1041,7 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
         target="cdt-rss">RSS <img
         src="https://raw.githubusercontent.com/greatfire/images/master/rss-icon.png" /> </a></td>
         
-        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25q7jt91m0aw8.cloudfront.net"
+        <td>免翻墙网页版</td>        <!-- <td><a href="https://d25am4jn3jtwv.cloudfront.net"
         target="cdt-mirror">免翻墙网页版</a></td> -->
     </tr>
         <tr>
@@ -1051,5 +1051,5 @@ Post tags: <a href="https://chinadigitaltimes.net/chinese/tag/%E5%A5%B3%E6%80%A7
                 <td></td>
                 
         
-        <td><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://du9zdas90glfx.cloudfront.net">https://du9zdas90glfx.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/></td>    </tr>
+        <td><a href="https://d25am4jn3jtwv.cloudfront.net">https://d25am4jn3jtwv.cloudfront.net</a><br/><a href="https://d2p9xuzeb0m4p4.cloudfront.net">https://d2p9xuzeb0m4p4.cloudfront.net</a><br/><a href="https://d2tnzki5qovk8o.cloudfront.net">https://d2tnzki5qovk8o.cloudfront.net</a><br/><a href="https://db4ntzw9weua3.cloudfront.net">https://db4ntzw9weua3.cloudfront.net</a><br/><a href="https://d25q7jt91m0aw8.cloudfront.net">https://d25q7jt91m0aw8.cloudfront.net</a><br/></td>    </tr>
 </table>
